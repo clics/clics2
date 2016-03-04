@@ -1,0 +1,735 @@
+@classification: Language isolate
+@ids-name: Gününa_Küne_Phonemic
+@iso: pue
+@language: Puelche
+@size: 728
+@source: ids
+@variety: std
+1.1	world	atek
+1.21	earth, land	atek
+1.213	dust	gapgap
+1.213	dust	xɨyɨm
+1.214	mud	čɨgaxa
+1.215	sand	c̷ˀɨxɨy
+1.22	mountain, hill	atek
+1.222	cliff, precipice	ayawk
+1.23	plain, field	čamɨl
+1.24	valley	kac̷ˀac̷
+1.24	valley	kapkya
+1.25	island	tagčɨn
+1.25	island	'tagɨčɨn
+1.27	shore	c̷ˀagɨč
+1.27	shore	c̷ˀɨwac̷
+1.28	cave	awgɨk
+1.31	water	yagɨp
+1.32	sea	kɨlɨla
+1.324	foam	sɨpɨtpɨt
+1.329	ocean	kɨlɨla
+1.33	lake	ɨyiken
+1.341	lagoon	ɨyiken
+1.353	lowtide	ɨsc̷alma
+1.36	river, stream, brook	aɬkac̷
+1.37	spring, well	aptiač
+1.37	spring, well	awc̷ayɨk
+1.38	swamp	čɨgaxa
+1.39	waterfall	awc̷ayɨk
+1.41	woods, forest	ɨpuk
+1.42	tree (cf 08.600)	ɨpuk
+1.43	wood	ɨpuk
+1.44	stone, rock	c̷uyi
+1.51	sky	awxɨ
+1.52	sun	amaxa
+1.53	moon	apyuxuk
+1.54	star	c̷ˀakalɨl
+1.55	lightning	ananɨgɨnɨtɨn
+1.56	thunder	axasčɨk
+1.56	thunder	gastřɨk
+1.57	lightning (as striking)	ananɨgɨnɨtɨn
+1.58	storm	yatɨṣɨ
+1.59	rainbow	yakak
+1.61	light (noun)	kɨnakɬaxamal
+1.62	darkness	tɨmtɨm
+1.63	shade, shadow	sɨkɨl
+1.71	air	ɨ'yey
+1.72	wind	ɨyeyɨ
+1.72	wind	ɨ'yey
+1.73	cloud	sagɨt
+1.74	fog	maṣc̷ɨn
+1.75	rain (noun)	sɨnan
+1.76	snow (noun)	yaxaw
+1.77	ice	kumuwan
+1.81	fire	axwakɨk
+1.83	smoke (noun)	amtɨgɨx
+1.84	ashes	tˀaptˀap
+1.841	embers	ɨnɬayɨk
+1.851	burn (vb trans)	wɨlexpɨ
+1.86	light, kindle, ignite	nac̷kɨnɨ
+1.861	extinguish	wuc̷aktɨnɨ
+1.88	firewood	ɨpuk
+2.1	person, human being	kɨnna
+2.21	man (vs. woman)	pasčay
+2.22	woman	yamkankɨ
+2.23	male	kɨmayɨ
+2.25	boy	agač
+2.251	young man (adolescent)	agač
+2.261	young woman (adolescent)	c̷ɨgan
+2.27	child	gɨsčɨx
+2.31	husband	pasčay
+2.32	wife	yamkankɨ
+2.32	wife	yam'kank
+2.33	marry	xwaywɨnɨ
+2.35	father	yawʔgexna
+2.36	mother	mama
+2.41	son	agač
+2.41	son	kayakɨnnɨ
+2.42	daughter	c̷ɨgan
+2.43	offspring (son or daughter)	agač
+2.44	brother	ukɨčɨ
+2.444	older brother	kasac̷ɨn
+2.444	older brother	kal̥ačɨn
+2.445	younger brother	c̷awnexna
+2.45	sister	ugɨpac̷ɨm
+2.46	grandfather	baya
+2.461	old man	saʔčɨ
+2.47	grandmother	deʔe
+2.471	old woman	yax'mawk
+2.48	grandson	pakexna
+2.49	granddaughter	pakexnac̷ɨm
+2.511	mother's brother	apgɨṣɨ
+2.512	father's brother	anamɨn
+2.521	mother's sister	apɨṣɨc̷ɨm
+2.522	father's sister	anamɨnc̷ɨm
+2.53	nephew	gala
+2.54	niece	galac̷ɨm
+2.55	cousin	kɨnɨ
+2.55	cousin	wɨkɨna
+2.61	father-in-law (of a man)	čaxakɨn
+2.611	father-in-law (of a woman)	čaxakɨn
+2.62	mother-in-law (of a man)	čaxakɨnc̷ɨm
+2.621	mother-in-law (of a woman)	čaxakɨnc̷ɨm
+2.63	son-in-law (of a man)	yɨna
+2.631	son-in-law (of a woman)	yɨna
+2.64	daughter-in-law (of a man)	yɨc̷akṣa
+2.641	daughter-in-law (of a woman)	yɨc̷akṣa
+2.75	orphan	gala
+2.82	family	kɨnnɨ
+2.91	I	kwa
+2.92	you (singular)	kɨmaw
+2.93	he/she/it	ṣaṣa
+2.94	we	kɨṣan
+2.95	you (plural)	kɨman
+2.96	they	ṣaṣa
+3.12	male (adj)	kɨmayɨ
+3.13	female (adj)	c̷ɨm
+3.15	livestock	axmay
+3.2	cattle (bovine)	axmay
+3.23	cow	čˀeʔye
+3.24	calf	mexnan
+3.24	calf	yee
+3.42	stallion	c̷ilakadɨk
+3.45	foal, colt	geyna
+3.52	cock, rooster	piyawu
+3.54	hen	piyawu
+3.57	duck	kayawa
+3.581	bird	c̷ˀɨgɨ
+3.582	seagull	kalaxk
+3.583	heron	kelxa
+3.584	eagle	sɨkc̷al
+3.585	hawk	kɨlel
+3.586	vulture	xanana
+3.586	vulture	kanana
+3.592	parrot	yagɨlka
+3.594	dove	tu'wulwula
+3.596	owl	dakdak
+3.61	dog	dasɨ
+3.614	rabbit	yamɨskɨl
+3.622	opossum	alkaka
+3.63	mouse, rat	sɨčɨ
+3.65	fish	gɨtc̷al
+3.655	shell	kɨsc̷aw
+3.72	lion	xayʔna
+3.74	fox	yɨsgay
+3.75	deer	ṣɨṣgɨ
+3.81	insect	šahwu
+3.811	louse	c̷ˀɨčɨ
+3.812	nit (louse egg)	c̷ˀičaɬu
+3.813	flea	tukayɨ
+3.815	scorpion	tamɨsga
+3.817	ant	c̷ˀawačɨgɨ
+3.818	spider	tɨska
+3.83	fly	ṣaxwu
+3.831	sandfly (midge), gnat	ṣaxwu
+3.84	worm	kaʔčɨ
+3.85	snake	yasc̷a
+3.92	butterfly	kululu
+3.93	grasshopper	c̷ˀɨtan
+3.95	frog	kaxayagɨgɨ
+3.96	lizard	yamgawc̷ˀac̷
+3.97	crocodile, alligator	yamgawčˀač
+3.98	turtle	pɨxa
+4.11	body	yec̷ɨsɨ
+4.12	skin, hide	alexlɨk
+4.14	hair (head)	axaɬ
+4.142	beard	apɨlgɨṣ
+4.144	body hair	axaɬ
+4.145	pubic hair	gɨtɨk
+4.15	blood	genaw
+4.151	vein, artery	ačˀač
+4.16	bone	uxɨc̷
+4.162	rib	anɬga
+4.17	horn	axwalay
+4.19	back	aʔc̷ˀɨx
+4.191	spine	wɨc̷ɨx
+4.2	head	yaguxa
+4.201	side of head, temple	agɨk
+4.203	brain	awtugac̷ˀac̷
+4.204	face	yapɨk
+4.205	forehead	yakɨc̷kɨc̷
+4.207	jaw	agɨlgɨy
+4.208	cheek	agɨlgɨy
+4.209	chin	atɨkgawyɨx
+4.21	eye	atetk
+4.212	eyebrow	yaɬawɨč
+4.214	eyelash	sɨmsɨm
+4.22	ear	yac̷ˀɨc̷ɨk
+4.23	nose	anɨč
+4.232	mucus (nasal)	ya'ɬɨɬ
+4.232	mucus (nasal)	yaɬɨɬɨ
+4.24	mouth	yapɨlk
+4.241	beak	anɨč
+4.25	lip	yapɨlk
+4.26	tongue	yawɨnk
+4.27	tooth	yaxayɨ
+4.272	molartooth	tagɨčɨ
+4.28	neck	yaxkwal
+4.281	nape of neck	yapkal
+4.29	throat	yagɨxɨč
+4.3	shoulder	abɨtɨ
+4.301	shoulderblade	apɨl
+4.31	arm	asgap
+4.312	armpit	takɨkɨ
+4.32	elbow	ac̷ac̷ɨ
+4.33	hand	yagaɬ
+4.34	finger	agaɬ
+4.344	fingernail	yapaṣ
+4.345	claw	ankɨy
+4.351	thigh	yapgɨt
+4.352	calf of leg	apɨk
+4.36	knee	atɨgɨm
+4.37	foot	yac̷k
+4.37	foot	ac̷kɨ
+4.372	heel	aɬak
+4.374	footprint	ac̷ˀaw
+4.38	toe	axaʔnɨ
+4.392	wing	axaʔnɨ
+4.393	feather	axaɬ
+4.4	chest	asgɨt
+4.41	breast (of woman)	yawṣɨgɨ
+4.41	breast (of woman)	awṣga
+4.412	nipple, teat	yawṣɨgɨ
+4.43	navel	atuwu
+4.44	heart	ac̷ˀaxuw
+4.441	lung	akɬɨčɨ
+4.45	liver	yagɨn
+4.452	spleen	kɨkɨ
+4.46	stomach	yatˀač
+4.461	intestines, guts	axačwu
+4.463	hip	agɨtɨ
+4.464	buttocks	anc̷ɨlka
+4.47	womb	yasgi
+4.49	testicle	yagɨc̷k
+4.492	penis	yawɨtk
+4.51	breathe, breath	sɨsɨ
+4.53	cough	c̷ˀaxwɨ
+4.54	sneeze	c̷ˀaxwɨ
+4.55	perspire	xɨmxɨmɨ
+4.56	spit	kɨmtɨčɨ
+4.58	bite	mc̷ɨc̷kɨ
+4.61	sleep	pɬawɨ
+4.62	dream	magɨčɨ
+4.63	wake up	atɨnɨ
+4.64	break wind	yatɨx
+4.64	break wind	antɨxɨma
+4.65	urinate	c̷ɨɬc̷anɨ
+4.66	defecate	yaɬwu
+4.67	have sexual intercourse	gɨlnɨ
+4.68	shiver	myamɨ
+4.71	beget (of father)	nawkawulɨ
+4.72	born (to be)	wkawulɨ
+4.73	pregnant	galyɨ
+4.732	conceive	kawulɨ
+4.74	live, living, life	xaxčɨ
+4.75	die, dead	xkamɨ
+4.76	kill	wbanɨ
+4.78	bury (the dead)	mc̷ɨmɨnɨ
+4.79	grave, tomb	aṣtawulac̷
+4.81	strong, mighty, powerful	akalc̷ɨ
+4.82	weak	abac̷ɨ
+4.83	well, health	xatkɨkɨmɨn
+4.84	sick, sickness	kɨyɨc̷ˀa
+4.841	fever	c̷ˀaxwu
+4.843	cold (catarrh)	c̷ˀaxwu
+4.853	swelling	ntawɨlnɨ
+4.854	itch	yɨlxɨy
+4.856	boil (noun)	kac̷al
+4.86	cure, heal	wʔanɨ
+4.87	physician	kɨlɨmɨlawɨč
+4.88	medicine, drug	akɨc̷
+4.91	tired, weary	wsnɨ
+4.93	bald	sɨksɨk
+4.94	lame	atɨgexek
+4.95	deaf	ac̷ɨc̷kaba
+4.96	mute	apɨlkaba
+4.97	blind	atetkaba
+4.98	intoxicated	atkexek
+4.99	naked, bare	sɨksɨk
+5.11	eat	kɨnɨ
+5.12	food	yaknɨk
+5.121	cooked	xanɨk
+5.122	raw	axaw
+5.13	drink	guwɨ
+5.14	hunger	xgɨ
+5.15	thirst	mgɨ
+5.18	chew	ptac̷akɨ
+5.181	swallow	tɨtɨkanɨ
+5.21	cook	xmuwɨ
+5.22	boil (vb)	wɨčxɨc̷ɨ
+5.23	roast, fry	xmuwɨ
+5.26	pot, cooking vessel	askɨm
+5.27	kettle	yaxnangɨlɨnwič
+5.31	dish	yamxɨl
+5.32	plate	yamxɨl
+5.34	pitcher, jug	yaguwɨč
+5.37	spoon	tuwɨx
+5.38	knife	payxen
+5.41	meal (a)	yaknɨk
+5.42	breakfast	yac̷ɨmgɨc̷ɨ
+5.43	lunch	yaknɨk
+5.44	dinner	nakaknɨk
+5.46	peel	ṣc̷ayɨ
+5.48	scrape	wxɨc̷ɨ
+5.51	bread	tabɨn
+5.54	knead	wtabɨnɨ
+5.55	meal, flour	axwasčɨk
+5.56	crush, grind	amɨnčɨ
+5.56	crush, grind	anakatɨ
+5.58	mortar	yaxwasčanɨč
+5.59	pestle	tačkač
+5.61	meat	pˀɨc̷wa
+5.64	soup, broth	axɨč
+5.7	potato	yawkɨna
+5.791	grease, fat	iwank
+5.81	salt	xɨčan
+5.85	sugar	apaxɨk
+5.86	milk (noun)	awṣga
+5.97	egg	gɨgɨ
+5.971	egg yolk	amc̷ˀɨnaxa
+6.11	put on (clothes)	amkɨɬa
+6.12	clothing, clothes	amkɨɬa
+6.21	cloth	lelgɨ
+6.22	wool	axaɬ
+6.28	fur	alexlɨk
+6.29	leather	alexɨk
+6.31	spin	wxkɨ
+6.32	spindle	yawxkuwuč
+6.33	weave	tkɨ
+6.34	loom	kaɬwilča
+6.35	sew	tɨgɨc̷ɨ
+6.36	needle	yatɨgɨc̷awɨč
+6.37	awl	yatɨgɨc̷awɨč
+6.38	thread	yawxkac̷
+6.41	cloak	gɨčɨx
+6.411	poncho	lɨc̷aw
+6.42	woman's dress	yaxkatkawɨč
+6.44	shirt	aɬgapsɨta
+6.51	shoe	yagɨsa
+6.51	shoe	yagɨsɨ
+6.52	boot	yagɨsɨ
+6.52	boot	yagɨsa
+6.55	hat, cap	kɨxɨ
+6.57	belt, girdle	akangɨs
+6.63	pin	yanamtagɨla
+6.71	ornament, adornment	yaxkɨlta
+6.77	earring	yac̷ˀɨc̷ɨk
+6.78	headband, headdress	kac̷kɨk
+6.91	comb	yaxnɨlk
+6.921	braid	sɨtɨkanɨ
+6.95	soap	ampɨlkac̷ˀawɨč
+6.96	mirror	yakɬuwɨč
+7.11	dwell, live	mṣamɨlnɨ
+7.12	house	axway
+7.14	tent	axway
+7.22	door, gate	yaspɨtwɨč
+7.37	ladder	yagagtuwɨč
+7.42	bed	atɨgɨčac̷
+7.422	blanket	ayawkˀawxɨč
+7.43	chair	yakɨmc̷ɨkawɨč
+7.45	lamp, torch	kɨnakɬaxamal
+7.53	ridgepole	yuxač
+8.12	field (for cultivation)	c̷amɨl
+8.25	hoe	yatkanuwuč
+8.31	sow	wuc̷akc̷ɨ
+8.311	seed	yawc̷akc̷awɨč
+8.44	barley	akṣɨṣ
+8.47	maize, corn	gɨc̷elapɨlk
+8.51	grass	yɨlɨ
+8.54	root	anamc̷ɨc̷kɨ
+8.56	leaf	ac̷ˀɨc̷kɨ
+8.57	flower	sɨkɨtkɨt
+8.6	tree	ɨpuk
+8.64	pine	čawxna
+8.68	tobacco	yawc̷ɨ
+8.69	smoke (tobacco)	xnatɨ
+8.691	pipe	ɨčwɨč
+8.73	tree trunk	ɨstak
+8.75	bark	pˀɨlc̷an
+8.76	sap	makɨn
+8.83	citrus fruit	gaymɨn
+8.91	sweet potato	yawkɨna
+8.93	gourd	kˀɨlɨp
+8.94	bamboo	selan
+9.11	do, make	tɨkanɨ
+9.12	work	pkalɨxɨ
+9.16	tie, bind	xkac̷ɨ
+9.19	rope, cord	yalɨṣ
+9.192	knot (noun)	awstulac̷
+9.21	strike (hit, beat)	gɨmgɨmkɨnɨ
+9.22	cut	kɨmtɨsc̷ɨ
+9.221	cut down	kawkaktɨnɨ
+9.222	chop, hew	anxɨlnɨ
+9.223	stab	mxɨ
+9.23	knife	payxen
+9.25	ax	tawkɨ
+9.26	break	pɨxɨ
+9.261	broken	pɨxya
+9.261	broken	kčapɨx
+9.28	tear	mpɨxc̷ɨ
+9.29	flay, skin	ṣc̷ayɨ
+9.31	rub, wipe	aṣɨnkac̷ɨ
+9.341	hang up	xtawɨ
+9.35	pour	wɨɬnɨ
+9.36	wash	paylaxanɨ
+9.37	sweep	psɨkaxɨ
+9.46	bore	xar̃c̷ɨ
+9.48	saw	yamtɨrscawɨč
+9.49	hammer	yagɨmgɨnkɨnawɨč
+9.5	nail	kxakɨn
+9.6	smith, blacksmith	anɨtɨkanɨtɨnyaxwak
+9.64	gold	yee
+9.65	silver	yaxwakakɨlɨ
+9.67	iron	yaxwak
+9.68	lead (noun)	te'ti
+9.73	clay	čigaxa
+9.75	weave, plait	atkɨ
+9.88	paint (noun)	yatˀačuwɨč
+9.89	paint (vb)	wtˀačɨ
+10.12	turn over	anawkawɨxɨ
+10.13	turn around	akɬuwu
+10.14	wind, wrap	mkac̷kɨ
+10.16	drop (vb)	kɨc̷akakɬay
+10.21	rise	gaktɨ
+10.23	fall	kawkayɨ
+10.25	throw	wkaknɨ
+10.252	catch (ball)	c̷kɨnɨ
+10.32	flow	xɨlnɨ
+10.35	swim	wsaxɨ
+10.37	fly (vb)	pɨtɨ
+10.38	blow	pumc̷ɨkɨnɨ
+10.43	jump, leap	pɨtɨ
+10.44	dance	leʔu
+10.45	walk	mpaxnɨ
+10.451	limp	tɨgɨxɨ
+10.46	run	nkɨnɨ
+10.47	go	kɬɨ
+10.471	go up	gaktɨ
+10.473	go down	katɨṣɨ
+10.474	go out	spɨtɨ
+10.48	come	c̷awɨ
+10.481	come back	c̷awkɬuwu
+10.49	go away, depart	c̷ˀɨ
+10.51	flee	c̷ˀɨ
+10.52	follow	ṣac̷ɨ
+10.55	reach, arrive	ɬɨɬkɨnɨ
+10.56	approach	c̷kɨnɨ
+10.57	enter	xɨ
+10.61	carry (bear)	c̷ac̷ɨ
+10.613	carry-on-shoulder	agexlɨ
+10.62	bring	tawɨ
+10.63	send	wtiṣki
+10.64	lead (vb)	asɨmc̷ac̷ɨ
+10.66	ride	akalgɨčgɨč
+10.67	push, shove	sgɨ
+10.71	road	yɨpač
+10.72	path	yɨpač
+10.74	bridge	yakatɨwuč
+10.83	boat	čɨsčɨs
+11.13	take	c̷kɨnɨ
+11.14	seize, grasp	c̷kɨnɨ
+11.15	hold	c̷kɨnɨ
+11.18	thing	yee
+11.21	give	tɨ
+11.27	destroy	nawxar̃kɨc̷ɨ
+11.28	harm, injure, damage	ampɨxčɨ
+11.31	seek, look for	nkasnɨ
+11.32	find	kalɨ
+11.33	lose	c̷wakɨ
+11.44	coin	yeʔe
+11.51	rich	gamakya
+11.52	poor	kayaxluwuk
+11.53	beggar	ačɨtɨkɨnɨ
+11.54	avaricious, stingy	gɨmɬaɬɨ
+11.61	lend	ntalɨ
+11.65	pay (vb)	naxmɨ
+11.79	earn	kamgexɨ
+11.81	buy	kɨmyanxɨ
+11.82	sell	xɨknac̷ɨ
+12.1	after	maɬ
+12.11	place	yec̷awxna
+12.3	down, below	kakaṣ
+12.4	before	c̷eyac̷
+12.5	inside, in	kakaṣ
+12.6	outside	c̷amɨlna
+12.7	under	kakaṣ
+12.8	up, above	awxɨ
+12.12	put	tawɨlɨ
+12.13	sit	mṣɨ
+12.14	lie down	kawkalkɨ
+12.15	stand	katɨnɨ
+12.16	remain, stay	mnɨ
+12.21	collect, gather	wxɨxɨnɨ
+12.212	pick up	wxɨxɨnɨ
+12.213	pile up	tac̷kɨnɨ
+12.22	join, unite	nawkˀawnɨ
+12.23	separate	lxɨlnɨ
+12.232	divide	apɨxɨ
+12.24	open	ptačɨ
+12.25	shut, close	wtaknɨ
+12.26	cover	wtaknɨ
+12.27	hide, conceal	wxgɨ
+12.31	high	abaxay
+12.32	low	atagɨ
+12.33	top	axwu
+12.35	end	axwu
+12.352	pointed	axwu
+12.353	edge	c̷ˀɨwac̷
+12.37	middle, center	ayayxna
+12.41	right (side)	watawk
+12.42	left (side)	gɨc̷ɨc̷wal
+12.43	near (adv)	kata
+12.44	far (adv)	xɨkɨ
+12.45	east	gaxna
+12.46	west	tɨsna
+12.47	north	kɨnexna
+12.48	south	ixna
+12.53	grow	mkɨc̷ɨ
+12.55	large, big	dɨpɨt
+12.56	small, little	gɨṣc̷ɨx
+12.57	long	abaxay
+12.58	tall	abaxay
+12.59	short	atagɨ
+12.61	wide, broad	bat
+12.62	narrow	aṣečɨ
+12.63	thick (in dimension)	pɨypɨy
+12.65	thin (in dimension)	gɨsgɨs
+12.67	deep	kakaṣ
+12.71	flat	tulac̷
+12.74	crooked	mɨxkamnɨk
+12.81	round	kalkal
+12.83	sphere, ball	kalkal
+12.85	hole	xar̃kya
+12.92	like, similar	tɨsc̷akawc̷at
+13.0	zero, nothing	gɨnkɨṣɨ
+13.1	one	c̷uyɨ
+13.2	two	pˀɨc
+13.3	three	gɨč
+13.5	five	tank
+13.6	six	čɨman
+13.7	seven	kac̷pˀɨč
+13.9	nine	c̷uuba
+13.10	ten	c̷ˀamac̷k
+13.101	eleven	c̷ˀamac̷kčuyɨ
+13.102	twelve	c̷ˀamac̷kpˀɨč
+13.104	twenty	pˀɨčc̷ˀamac̷k
+13.107	count	xnawgɨc̷ɨ
+13.14	every, all	awawka
+13.15	much, many	c̷ˀɨpɨ
+13.16	more	katɨk
+13.17	little (quantity), few	gɨṣc̷ɨx
+13.19	multitude, crowd	kanana
+13.21	full	akubaɬɨk
+13.22	empty	akxɨkxɨ
+13.24	half	ayayxna
+13.33	alone, only	wuxka
+13.34	first	c̷ˀeyac̷
+13.38	two times	pˀɨčaṣuwɨn
+13.44	three times	gɨčaṣuwɨn
+14.13	new	akamɨsna
+14.14	young	kaʔya
+14.15	old	pannɨ
+14.18	now	wakam
+14.19	immediately	gɨṣc̷ɨakɨk
+14.21	swift, fast, quick	xalxal
+14.22	slow	gɨṣc̷ɨxka
+14.23	hasten, hurry	pyakɨlc̷ɨ
+14.252	last, endure	axaxčɨ
+14.26	end (temporal)	kɨc̷abayak
+14.27	finish	bayakɨ
+14.33	sometimes	wakamkan
+14.331	soon	gɨṣčɨakɨk
+14.35	again	kaxnayɨ
+14.41	day	amaxa
+14.42	night	čɨmɨn
+14.43	dawn	awc̷akɨtexek
+14.451	afternoon	gɨlayxna
+14.46	evening	ačɨmɨyɨ
+14.47	today	waṣaamaxa
+14.48	tomorrow	kalawxna
+14.481	day-after-tomorrow	kaxnakan
+14.49	yesterday	gɨlay
+14.71	month	apyuxuk
+14.73	year	yɨsawaw
+14.74	winter	magɨn
+14.75	spring	yɨsawaw
+14.76	summer	yɨsawaw
+14.77	autumn	sɨčɨxna
+15.22	smell (vb trans)	yɨxɨ
+15.35	sweet	paxɨk
+15.36	salty	xɨčanɨk
+15.37	bitter	c̷ˀaxax
+15.41	hear	c̷ˀɨc̷kɨnɨ
+15.42	listen	c̷ˀɨc̷kɨnɨ
+15.44	sound, noise	axasčɨk
+15.46	quiet, silence	axɨc̷aba
+15.51	see	kɬuwɨ
+15.52	look, look at	muɬɨ
+15.56	shine	mčakc̷alɨ
+15.62	light (in color)	c̷ˀɨwu
+15.63	dark (in color)	kɨc̷ačɨmiyak
+15.64	white	kɨlɨx
+15.65	black	ayɨxgɨma
+15.66	red	gɨlčɨ
+15.67	blue	axɨtxɨt
+15.68	green	mɨskawgɨ
+15.69	yellow	atuwaw
+15.74	hard	kalc̷ɨ
+15.75	soft	apaxpax
+15.78	sharp	wɨṣkɨc̷ɨ
+15.81	heavy	c̷ˀɨmnaw
+15.82	light (in weight)	gɨnc̷ɨmɨnabač
+15.83	wet, damp	bɨsbɨs
+15.84	dry	kasčɨk
+15.85	hot	gɨlɨ
+15.851	warm	axɨmxɨmɨ
+15.86	cold	kɨya
+15.87	clean	kɨc̷ɨč
+15.88	dirty, soiled	pɨtpɨt
+15.89	wrinkled	ater̃
+16.11	soul, spirit	sɨkɨl
+16.23	joyful, glad, happy	walay
+16.25	laugh	xayɨxɨ
+16.26	play	gɨlwɨ
+16.27	love	gɨc̷alkɨ
+16.29	kiss	yɨsc̷anɨ
+16.31	pain	mc̷ɨnɨ
+16.37	cry, weep	wyalɨ
+16.38	tear (noun)	atˀap
+16.39	groan	eyc̷anɨ
+16.42	anger	gɨxɨ
+16.44	envy, jealousy	nwɨ
+16.45	shame (noun)	yanɨmc̷kɨ
+16.53	fear, fright	wkṣɨ
+16.54	danger	gugunawkan
+16.62	desire, want	agɨc̷aɬkɨ
+16.67	lie, tell lies	mtexɨ
+16.71	good	xatkɨ
+16.72	bad	gɨpɨn
+16.78	blame	anaɬknɨ
+16.79	praise	anɨmtakɨ
+16.81	beautiful	kaʔxna
+16.82	ugly	gɨpɨn
+16.83	greedy	agɨmɬeɬɨ
+16.84	clever	gɨxɨ
+17.13	think (= reflect)	waɬc̷ɨ
+17.14	think (= be of the opinion)	awxamɨ
+17.15	believe	wxamɨ
+17.17	know	ɬɨmtɨ
+17.21	wise	akwaṣukac̷
+17.22	foolish, stupid	kwaɬabuwɨ
+17.23	insane, crazy	ac̷ɨkaxmɨk
+17.24	learn	lɨmtɨxɨ
+17.32	forget	čaxnɨ
+17.37	sure, certain	gɨtala
+17.37	sure, certain	xɨlɨ
+17.45	need, necessity	ac̷wanɨ
+17.51	and	c̷ɨk
+17.52	because	wɨn
+17.53	if	alaw
+17.55	yes, affirmative	gɨtala
+17.56	no, negative	bakɨ
+17.61	how?	kɨṣɨ
+17.62	how many?	pɨsc̷ɨp
+17.63	how much?	kɨnc̷ɨ
+17.64	what?	kɨnc̷ɨ
+17.66	where?	mɨgɨnc̷ɨ
+17.67	which?	keṣa
+17.68	who?	kawc̷ɨ
+17.69	why?	kɨnc̷ɨkal
+18.12	sing	mlewɨ
+18.13	shout, cry out	mɨɬc̷ɨ
+18.17	whistle	piya
+18.21	speak, talk	xɨc̷ɨ
+18.22	say	c̷aṣɨ
+18.221	tell story	nɨxɨc̷ɨ
+18.222	speech (make a)	yapgayawc̷ɨ
+18.23	silent (be)	axɨc̷ɨba
+18.24	language	yaxɨc̷
+18.28	name	yatɨla
+18.31	ask (question, inquire)	namxɨc̷ɨ
+18.32	answer	atakɨ
+18.32	answer	c̷kɨ
+18.33	admit, confess	awgɨnɨ
+18.35	ask, request	c̷ɨtɨkɨnɨ
+18.41	call (=summon)	wlɨlɨ
+18.42	call (=name)	tɨlɨ
+18.44	threaten	axnawkɨ
+18.51	write	c̷atačɨ
+18.52	read	naxɨc̷ɨ
+18.71	flute	apɨlk
+18.72	drum	yagumxasc̷awuč
+18.73	horn, trumpet	yaxnac̷ɨmwɨč
+18.74	rattle	c̷awa
+19.21	people (populace)	kɨnna
+19.23	tribe, clan	gayaw
+19.24	chief, chieftain	gamakya
+19.41	master	yukac̷
+19.42	slave	ɨlic̷
+19.45	command, order	wtɨṣkɨ
+19.51	friend, companion	yenwa
+19.52	enemy	ɨsgac̷kɨ
+19.56	guest	xačɨnac̷
+19.57	host	axwayyukac̷
+19.58	help, aid	kalɨc̷ɨ
+19.62	strife, quarrel	agayuwɨ
+19.65	meet	wkˀawnɨ
+20.11	fight (vb)	gayɨ
+20.21	weapons, arms	yembak
+20.22	club	ɨpuk
+20.23	sling	yamtˀačwɨč
+20.24	bow	yakak
+20.25	arrow	gɨyɨtɨ
+20.26	spear	wayka
+20.28	gun, cannon	yembak
+20.31	armor (defensive)	kapɨl
+20.41	victory	akac̷ɨ
+20.43	attack	axɨ
+20.45	retreat	c̷ˀɨ
+20.47	captive, prisoner	yasɨnkanawac̷
+20.471	guard, sentinel	apɬaxamnɨ
+20.61	hunt	wbanɨ
+20.62	shoot	mtɨčɨ
+20.63	miss (target)	nac̷wak
+20.64	trap (noun)	yac̷kɨnɨwɨč
+21.42	murder	awbanɨ
+21.46	arson	awlexpɨk
+21.51	steal	pexlɨ
+21.52	thief	apexlɨk

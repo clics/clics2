@@ -1,0 +1,2507 @@
+@classification: Austronesian,Malayo-Polynesian,Central-Eastern,Eastern Malayo-Polynesian,Oceanic,Central-Eastern Oceanic,Remote Oceanic,Central Pacific,East Fijian-Polynesian,Polynesian,Nuclear,East,Central,Marquesic
+@ids-name: Hawaiian_Phonemic
+@iso: haw
+@language: Hawaiian
+@size: 2500
+@source: ids
+@variety: std
+1.1	world	ao
+1.1	world	honua
+1.21	earth, land	ao
+1.21	earth, land	honua
+1.21	earth, land	ʔāina
+1.212	earth=ground, soil	lepo
+1.212	earth=ground, soil	lepohānai
+1.212	earth=ground, soil	ʔeka
+1.212	earth=ground, soil	one
+1.213	dust	ehulepo
+1.213	dust	kuehu
+1.213	dust	ehu
+1.213	dust	ʔehu
+1.213	dust	uahi
+1.213	dust	lelehuna
+1.213	dust	lepoʔaeʔae
+1.214	mud	kelekele
+1.214	mud	pālolo
+1.214	mud	lepoʔūkele
+1.215	sand	one
+1.215	sand	oneone
+1.22	mountain, hill	mauna
+1.22	mountain, hill	kuahiwi
+1.22	mountain, hill	puʔu
+1.222	cliff, precipice	pali
+1.222	cliff, precipice	palipaʔa
+1.23	plain, field	ʔāinapālahalaha
+1.23	plain, field	kīhāpai
+1.23	plain, field	kula
+1.23	plain, field	ʔāinapāpū
+1.24	valley	awaawa
+1.25	island	moku
+1.25	island	mokupuni
+1.25	island	mokuʔāina
+1.25	island	ʔailana
+1.26	mainland	ʔāinamakua
+1.26	mainland	ʔāinanui
+1.26	mainland	loko
+1.27	shore	kahakai
+1.27	shore	kahaone
+1.27	shore	papakea
+1.27	shore	kapakai
+1.27	shore	ʔaekai
+1.28	cave	ana
+1.28	cave	lua
+1.28	cave	pao
+1.31	water	wai
+1.32	sea	kai
+1.32	sea	moana
+1.323	rough (of sea)	pikipikiʔō
+1.323	rough (of sea)	ʔāloʔaloʔa
+1.324	foam	huʔa
+1.324	foam	ʔehu
+1.329	ocean	moana
+1.329	ocean	kai
+1.33	lake	loko
+1.33	lake	lokowai
+1.34	gulf, bay	kūʔono
+1.34	gulf, bay	kaikūʔono
+1.34	gulf, bay	hono
+1.34	gulf, bay	hana
+1.341	lagoon	kaikohola
+1.341	lagoon	lokokai
+1.341	lagoon	kuaʔau
+1.341	lagoon	lokowai
+1.341	lagoon	kiʔowai
+1.342	reef	kohola
+1.343	headland, point	lae
+1.343	headland, point	maka
+1.343	headland, point	ʔoiʔoina
+1.35	wave	nalu
+1.35	wave	ʔale
+1.352	tide	au
+1.352	tide	kai
+1.353	lowtide	kaimake
+1.353	lowtide	kaimaloʔo
+1.354	hightide	kainui
+1.354	hightide	kaipiha
+1.36	river, stream, brook	kahawai
+1.36	river, stream, brook	muliwai
+1.36	river, stream, brook	wai
+1.362	whirlpool	wiliwai
+1.362	whirlpool	mimilo
+1.37	spring, well	puna
+1.37	spring, well	waipuna
+1.37	spring, well	waimāpuna
+1.37	spring, well	kumuwai
+1.37	spring, well	māpuna
+1.38	swamp	pohō
+1.38	swamp	naele
+1.38	swamp	kele
+1.39	waterfall	wailele
+1.41	woods, forest	ululāʔau
+1.41	woods, forest	nahele
+1.41	woods, forest	waonahele
+1.41	woods, forest	uluaōʔa
+1.42	tree (cf 08.600)	lāʔau
+1.42	tree (cf 08.600)	kumulāʔau
+1.42	tree (cf 08.600)	kumu
+1.43	wood	lāʔau
+1.44	stone, rock	pōhaku
+1.44	stone, rock	ʔā
+1.44	stone, rock	ʔiliʔili
+1.44	stone, rock	ʔalā
+1.44	stone, rock	ʔaʔā
+1.44	stone, rock	pāhoehoe
+1.45	earthquake	ʔōlaʔi
+1.45	earthquake	nāueue
+1.51	sky	lani
+1.52	sun	lā
+1.53	moon	mahina
+1.54	star	hōkū
+1.55	lightning	uila
+1.56	thunder	hekili
+1.57	lightning (as striking)	lapauila
+1.58	storm	ʔino
+1.59	rainbow	ānuenue
+1.61	light (noun)	ao
+1.61	light (noun)	lama
+1.61	light (noun)	malama
+1.61	light (noun)	kukui
+1.61	light (noun)	kukuna
+1.62	darkness	pōʔele
+1.62	darkness	pōʔeleʔele
+1.62	darkness	pāʔele
+1.62	darkness	uli
+1.62	darkness	hāuli
+1.62	darkness	lāuli
+1.62	darkness	māuli
+1.62	darkness	pouli
+1.62	darkness	polohiwa
+1.63	shade, shadow	malu
+1.63	shade, shadow	māmalu
+1.63	shade, shadow	aka
+1.63	shade, shadow	huaka
+1.63	shade, shadow	ʔūmalu
+1.64	dew	kēhau
+1.64	dew	hau
+1.71	air	ea
+1.71	air	eaea
+1.71	air	lewa
+1.72	wind	puhi
+1.72	wind	pā
+1.72	wind	papā
+1.72	wind	pāmakani
+1.73	cloud	ao
+1.73	cloud	ʔōpua
+1.73	cloud	ʔōmalumalu
+1.74	fog	ʔohu
+1.74	fog	noe
+1.74	fog	uanoe
+1.74	fog	uhiwai
+1.75	rain (noun)	ua
+1.76	snow (noun)	hau
+1.76	snow (noun)	haukea
+1.77	ice	hau
+1.78	weather	keʔanookamanawa
+1.81	fire	ahi
+1.81	fire	pauahi
+1.82	flame (noun)	ulaahi
+1.82	flame (noun)	ula
+1.82	flame (noun)	lapaahi
+1.83	smoke (noun)	uahi
+1.84	ashes	lehu
+1.84	ashes	lehuahi
+1.84	ashes	lehuane
+1.851	burn (vb trans)	ʔā
+1.851	burn (vb trans)	ʔaʔā
+1.851	burn (vb trans)	hōʔā
+1.851	burn (vb trans)	puhi
+1.851	burn (vb trans)	kuni
+1.851	burn (vb trans)	puhiahi
+1.86	light, kindle, ignite	hōʔā
+1.86	light, kindle, ignite	hoʔā
+1.86	light, kindle, ignite	hōʔaʔā
+1.87	match (noun)	kūkaepele
+1.88	firewood	wahie
+1.89	charcoal	lānahu
+1.89	charcoal	nānahu
+2.1	person, human being	mea
+2.1	person, human being	kanaka
+2.1	person, human being	lāhuikanaka
+2.1	person, human being	kama
+2.21	man (vs. woman)	kanaka
+2.21	man (vs. woman)	kāne
+2.22	woman	wahine
+2.22	woman	hakuwahine
+2.23	male	kāne
+2.24	female	wahine
+2.25	boy	keiki
+2.25	boy	keikikāne
+2.25	boy	kamakāne
+2.26	girl	kaikamahine
+2.27	child	keiki
+2.28	infant, baby	keiki
+2.28	infant, baby	pēpē
+2.28	infant, baby	kamaliʔi
+2.31	husband	kāne
+2.31	husband	pilikua
+2.32	wife	wahine
+2.32	wife	wahinemale
+2.33	marry	male
+2.33	marry	moe
+2.33	marry	hoʔāo
+2.33	marry	noho
+2.34	marriage, wedding	maleʔana
+2.34	marriage, wedding	moe
+2.34	marriage, wedding	nohopūʔana
+2.34	marriage, wedding	hoʔāo
+2.341	divorce	ʔoki
+2.341	divorce	hōʔoki
+2.341	divorce	ʔokimale
+2.35	father	makuakāne
+2.35	father	makua
+2.36	mother	makuahine
+2.36	mother	māmā
+2.37	parents	makua
+2.41	son	keikikāne
+2.42	daughter	kaikamahine
+2.43	offspring (son or daughter)	keiki
+2.43	offspring (son or daughter)	hānau
+2.43	offspring (son or daughter)	pua
+2.43	offspring (son or daughter)	hua
+2.44	brother	kaikuaʔana
+2.444	older brother	kuaʔana
+2.445	younger brother	kaikaina
+2.445	younger brother	kaina
+2.45	sister	kaikuaʔana
+2.455	younger sister	kaikaina
+2.458	twins	māhoe
+2.458	twins	māhana
+2.46	grandfather	kupunakāne
+2.46	grandfather	tūtū
+2.46	grandfather	kūkū
+2.46	grandfather	kūkūkāne
+2.461	old man	ʔelemakule
+2.47	grandmother	kupunawahine
+2.47	grandmother	tūtū
+2.47	grandmother	kūkū
+2.47	grandmother	kūkūwahine
+2.471	old woman	luahine
+2.48	grandson	moʔopuna
+2.51	uncle	makuakāne
+2.51	uncle	ʔanakala
+2.52	aunt	makuahine
+2.52	aunt	makuahinehanauna
+2.52	aunt	ʔanakē
+2.53	nephew	keiki
+2.54	niece	kaikamahine
+2.55	cousin	hoahānau
+2.55	cousin	kaukini
+2.56	ancestors	kupuna
+2.57	descendants	mamo
+2.57	descendants	pua
+2.57	descendants	moʔopuna
+2.57	descendants	keikipulapula
+2.61	father-in-law (of a man)	makuahūnōwaikāne
+2.62	mother-in-law (of a man)	makuahūnōwaiwahine
+2.63	son-in-law (of a man)	hūnōnakāne
+2.71	stepfather	makuakānekōlea
+2.72	stepmother	makuahinekōlea
+2.75	orphan	keikimakuaʔole
+2.76	widow	wahinekānemake
+2.77	widower	kānewahinemake
+2.81	relatives, kinsmen	ʔohana
+2.81	relatives, kinsmen	pilikoko
+2.81	relatives, kinsmen	pilikana
+2.82	family	ʔohana
+2.91	I	au
+2.92	you (singular)	ʔoe
+2.93	he/she/it	ia
+2.941	we (inclusive)	kākou
+2.941	we (inclusive)	kāua
+2.942	we (exclusive)	mākou
+2.942	we (exclusive)	māua
+2.95	you (plural)	ʔoukou
+2.95	you (plural)	ʔolua
+2.96	they	lākou
+2.96	they	lāua
+3.11	animal	holoholona
+3.12	male (adj)	kāne
+3.12	male (adj)	hoʔokāne
+3.15	livestock	pūʔā
+3.15	livestock	kumu
+3.15	livestock	pūʔāpipi
+3.15	livestock	holoholonahānai
+3.16	pasture	kula
+3.16	pasture	pāholoholona
+3.16	pasture	kulaholoholona
+3.18	herdsman	kahuhipa
+3.2	cattle (bovine)	pipi
+3.2	cattle (bovine)	pūʔāpipi
+3.2	cattle (bovine)	kumupipi
+3.21	bull	pipikāne
+3.21	bull	pipilaho
+3.21	bull	pipipulu
+3.23	cow	pipiwahine
+3.23	cow	pipiwaiū
+3.24	calf	pipikeiki
+3.25	sheep	hipa
+3.26	ram	hipakāne
+3.29	lamb	keikihipa
+3.29	lamb	hipakeiki
+3.29	lamb	puahipa
+3.35	pig	puaʔa
+3.36	goat	kao
+3.41	horse (equine)	lio
+3.46	ass, donkey	kēkake
+3.46	ass, donkey	ʔēkake
+3.47	mule	hoki
+3.5	fowl	moa
+3.5	fowl	manu
+3.52	cock, rooster	moakāne
+3.54	hen	moawahine
+3.55	chicken	moa
+3.56	goose	nēnē
+3.57	duck	kakā
+3.57	duck	koloa
+3.58	nest	pūnana
+3.581	bird	manu
+3.582	seagull	nēnēʔaukai
+3.583	heron	ʔaukuʔu
+3.585	hawk	ʔio
+3.591	bat	ʔōpeʔapeʔa
+3.592	parrot	manualoha
+3.593	crow	ʔalalā
+3.594	dove	manukū
+3.594	dove	manunūnū
+3.594	dove	nūnū
+3.594	dove	kuhukukū
+3.596	owl	pueo
+3.61	dog	ʔīlio
+3.614	rabbit	lāpaki
+3.614	rabbit	ʔiolelāpaki
+3.62	cat	pōpoki
+3.62	cat	ʔowau
+3.62	cat	ʔoau
+3.63	mouse, rat	ʔiole
+3.65	fish	iʔa
+3.652	fin (dorsal)	lā
+3.653	fishscale	unahi
+3.655	shell	pū
+3.655	shell	ʔolē
+3.655	shell	ʔolēʔolē
+3.655	shell	pūpū
+3.655	shell	iwi
+3.661	shark	manō
+3.661	shark	lālākea
+3.661	shark	niuhi
+3.662	porpoise, dolphin	mahimahi
+3.662	porpoise, dolphin	naiʔa
+3.663	whale	koholā
+3.663	whale	palaoa
+3.664	stingray	hāhālua
+3.664	stingray	hīhīmanu
+3.664	stingray	lupe
+3.665	freshwater eel	puhi
+3.71	wolf	ʔīliohae
+3.71	wolf	lupo
+3.76	monkey	keko
+3.76	monkey	mākinikā
+3.81	insect	mū
+3.81	insect	puʔu
+3.81	insect	meakolo
+3.811	louse	ʔuku
+3.811	louse	ona
+3.811	louse	ʔukuliʔi
+3.812	nit (louse egg)	liha
+3.812	nit (louse egg)	lia
+3.813	flea	ʔukulele
+3.815	scorpion	moʔonihoʔawa
+3.816	cockroach	ʔelelū
+3.817	ant	naonao
+3.818	spider	lanalana
+3.818	spider	nananana
+3.818	spider	kuʔukuʔu
+3.818	spider	pūnāwelewele
+3.819	spider web	pūnāwelewele
+3.819	spider web	hihipunawelewele
+3.819	spider web	ʔupenanananana
+3.82	bee	meli
+3.82	bee	nalomeli
+3.822	beehive	pahumeli
+3.822	beehive	pūnanameli
+3.823	wasp	hopeʔō
+3.823	wasp	kopena
+3.83	fly	nalo
+3.832	mosquito	makika
+3.84	worm	koʔe
+3.84	worm	ilo
+3.85	snake	moʔo
+3.85	snake	naheka
+3.85	snake	nahesa
+3.92	butterfly	pulelehua
+3.92	butterfly	lepelepeohina
+3.93	grasshopper	ʔuhini
+3.93	grasshopper	ʔūhiniakelika
+3.94	snail	kamaloli
+3.94	snail	hīhīwai
+3.94	snail	wī
+3.94	snail	pūpū
+3.95	frog	poloka
+3.95	frog	lana
+3.96	lizard	moʔo
+3.96	lizard	moʔokiha
+3.98	turtle	honu
+4.11	body	kino
+4.12	skin, hide	ʔili
+4.13	flesh	ʔiʔo
+4.14	hair (head)	lauoho
+4.14	hair (head)	oho
+4.14	hair (head)	hulu
+4.142	beard	ʔumiʔumi
+4.144	body hair	hulu
+4.144	body hair	huluhulu
+4.144	body hair	huhula
+4.15	blood	koko
+4.151	vein, artery	aʔa
+4.151	vein, artery	aʔakoko
+4.16	bone	iwi
+4.162	rib	iwiʔaoʔao
+4.17	horn	kiwi
+4.17	horn	hao
+4.17	horn	pepeiaohao
+4.18	tail	huelo
+4.18	tail	hiʔu
+4.18	tail	puapua
+4.18	tail	pupua
+4.18	tail	pola
+4.19	back	kua
+4.19	back	hope
+4.191	spine	iwikuamoʔo
+4.191	spine	kuamoʔo
+4.2	head	poʔo
+4.2	head	poʔokanaka
+4.201	side of head, temple	maha
+4.202	skull	iwipoʔo
+4.202	skull	poʔokanaka
+4.202	skull	pūniu
+4.203	brain	lolo
+4.203	brain	lolopoʔo
+4.204	face	maka
+4.204	face	helehelena
+4.204	face	alo
+4.205	forehead	lae
+4.207	jaw	ā
+4.207	jaw	papaniho
+4.207	jaw	papaʔauwae
+4.208	cheek	papālina
+4.209	chin	ʔauwae
+4.21	eye	maka
+4.212	eyebrow	kuʔemaka
+4.212	eyebrow	kuʔekuʔemaka
+4.212	eyebrow	hulukuʔemaka
+4.213	eyelid	ʔūpoʔimaka
+4.213	eyelid	kuapoʔimaka
+4.213	eyelid	lihilihi
+4.214	eyelash	lihilihi
+4.215	blink	ʔiʔimo
+4.215	blink	ʔōnini
+4.215	blink	hoʔolili
+4.215	blink	haʔalili
+4.215	blink	ʔamo
+4.22	ear	pepeiao
+4.23	nose	ihu
+4.231	nostril	pukaihu
+4.232	mucus (nasal)	hūpē
+4.232	mucus (nasal)	ʔūpē
+4.232	mucus (nasal)	hākelo
+4.232	mucus (nasal)	wale
+4.24	mouth	waha
+4.241	beak	nuku
+4.241	beak	ihu
+4.25	lip	lehe
+4.25	lip	lehelehe
+4.26	tongue	alelo
+4.26	tongue	elelo
+4.27	tooth	niho
+4.271	gums	ʔiʔopaleniho
+4.28	neck	ʔāʔī
+4.29	throat	puʔu
+4.29	throat	puʔumoni
+4.3	shoulder	poʔohiwi
+4.3	shoulder	hokua
+4.301	shoulderblade	hoehoe
+4.301	shoulderblade	iwihoehoe
+4.302	collarbone	īwilei
+4.31	arm	lima
+4.31	arm	uluna
+4.312	armpit	pōʔaeʔae
+4.312	armpit	kīpōʔaeʔae
+4.312	armpit	napoʔo
+4.32	elbow	kuʔekuʔe
+4.32	elbow	kuʔekuʔelima
+4.32	elbow	kuʔelima
+4.321	wrist	pūlima
+4.33	hand	lima
+4.33	hand	manamana
+4.331	palm of hand	poho
+4.331	palm of hand	poholima
+4.34	finger	manamanalima
+4.342	thumb	manamanalimanui
+4.344	fingernail	mikiʔao
+4.344	fingernail	maiʔao
+4.345	claw	mikiʔao
+4.345	claw	mānea
+4.345	claw	maiʔao
+4.35	leg	wāwae
+4.351	thigh	ʔūhā
+4.352	calf of leg	ʔolo
+4.352	calf of leg	ʔoloʔolowāwae
+4.352	calf of leg	ʔolowae
+4.36	knee	kuli
+4.37	foot	wāwae
+4.372	heel	kuʔekuʔewāwae
+4.38	toe	manamanawāwae
+4.392	wing	ʔēheu
+4.393	feather	hulu
+4.4	chest	umauma
+4.41	breast (of woman)	ū
+4.41	breast (of woman)	waiū
+4.412	nipple, teat	makawaiū
+4.412	nipple, teat	maka
+4.43	navel	piko
+4.44	heart	puʔuwai
+4.441	lung	akemāmā
+4.441	lung	akemakani
+4.45	liver	ake
+4.45	liver	akepaʔa
+4.451	kidney	puʔupaʔa
+4.451	kidney	kōnāhua
+4.46	stomach	ʔōpū
+4.46	stomach	hakualo
+4.461	intestines, guts	naʔau
+4.461	intestines, guts	naʔanaʔau
+4.463	hip	kīkala
+4.463	hip	pāpākole
+4.464	buttocks	lemu
+4.464	buttocks	ʔōkole
+4.464	buttocks	pāpākole
+4.464	buttocks	ʔēlemu
+4.464	buttocks	hope
+4.47	womb	pūʔao
+4.47	womb	ʔōpū
+4.49	testicle	hua
+4.49	testicle	huahua
+4.49	testicle	laho
+4.492	penis	ule
+4.51	breathe, breath	hanu
+4.51	breathe, breath	aho
+4.51	breathe, breath	ea
+4.51	breathe, breath	eaea
+4.521	hiccough	mauliʔawa
+4.53	cough	kunu
+4.53	cough	ʔehē
+4.53	cough	ʔahē
+4.54	sneeze	kihe
+4.55	perspire	hou
+4.56	spit	kuha
+4.56	spit	hāʔae
+4.56	spit	ʔae
+4.56	spit	walewai
+4.56	spit	pupuhi
+4.57	vomit	luaʔi
+4.57	vomit	puaʔi
+4.58	bite	nahu
+4.58	bite	nanahu
+4.58	bite	ʔaki
+4.58	bite	ʔaʔaki
+4.58	bite	ʔakina
+4.59	lick	palu
+4.61	sleep	moe
+4.61	sleep	hiamoe
+4.61	sleep	moehoʔolana
+4.612	snore	nonō
+4.612	snore	hohō
+4.612	snore	ʔolāʔolākaihu
+4.62	dream	moeʔuhane
+4.63	wake up	lanakahiamoe
+4.63	wake up	ala
+4.63	wake up	makalahia
+4.63	wake up	hoʔāla
+4.65	urinate	mimi
+4.66	defecate	kūkae
+4.66	defecate	kae
+4.66	defecate	lepo
+4.67	have sexual intercourse	ai
+4.67	have sexual intercourse	ei
+4.67	have sexual intercourse	hanamaʔi
+4.67	have sexual intercourse	moe
+4.67	have sexual intercourse	piʔi
+4.67	have sexual intercourse	panipani
+4.67	have sexual intercourse	aina
+4.68	shiver	haʔukeke
+4.68	shiver	naka
+4.68	shiver	hulilī
+4.69	bathe	ʔauʔau
+4.72	born (to be)	hānau
+4.72	born (to be)	loaʔa
+4.72	born (to be)	hanauna
+4.72	born (to be)	hoʔohānau
+4.73	pregnant	hāpai
+4.74	live, living, life	ola
+4.74	live, living, life	ʔaoʔao
+4.75	die, dead	make
+4.75	die, dead	makeloa
+4.75	die, dead	moelepo
+4.751	drowned	piholo
+4.751	drowned	hoʔopiholo
+4.751	drowned	hoʔopalemo
+4.76	kill	pepehiāmake
+4.76	kill	hoʔomake
+4.76	kill	make
+4.76	kill	hanamake
+4.77	corpse	kupapaʔu
+4.77	corpse	kinowailua
+4.77	corpse	kinomake
+4.77	corpse	heana
+4.78	bury (the dead)	kanu
+4.78	bury (the dead)	kanuʔana
+4.79	grave, tomb	īlina
+4.79	grave, tomb	pāilina
+4.79	grave, tomb	pākupapaʔu
+4.81	strong, mighty, powerful	ikaika
+4.81	strong, mighty, powerful	mana
+4.81	strong, mighty, powerful	limaikaika
+4.81	strong, mighty, powerful	mahi
+4.81	strong, mighty, powerful	wīkani
+4.82	weak	nāwaliwali
+4.83	well, health	olakino
+4.83	well, health	olapono
+4.83	well, health	ola
+4.84	sick, sickness	maʔi
+4.84	sick, sickness	ʔōmaʔimaʔi
+4.84	sick, sickness	nāwaliwali
+4.841	fever	piwa
+4.841	fever	maʔikuni
+4.843	cold (catarrh)	anu
+4.843	cold (catarrh)	hanupaʔa
+4.85	wound, sore	ʔeha
+4.85	wound, sore	palapū
+4.852	bruise	pohole
+4.852	bruise	hoʔopohole
+4.852	bruise	māhole
+4.852	bruise	mōhole
+4.853	swelling	pehu
+4.853	swelling	hū
+4.854	itch	maneʔo
+4.855	blister	pōʔolopū
+4.855	blister	hōʔolopū
+4.855	blister	ʔolopū
+4.855	blister	ʔōwela
+4.856	boil (noun)	maʔihēhē
+4.856	boil (noun)	makalau
+4.856	boil (noun)	makapala
+4.856	boil (noun)	palapū
+4.858	scar	ʔālina
+4.858	scar	linalina
+4.86	cure, heal	hoʔōla
+4.86	cure, heal	lapaʔau
+4.86	cure, heal	hoʔopolapola
+4.86	cure, heal	kōhi
+4.87	physician	kauka
+4.88	medicine, drug	lāʔau
+4.88	medicine, drug	lāʔaulapaʔau
+4.88	medicine, drug	wailāʔau
+4.89	poison	lāʔaumake
+4.91	tired, weary	luhi
+4.91	tired, weary	māluhiluhi
+4.912	rest	maha
+4.912	rest	hoʔomaha
+4.912	rest	mahana
+4.92	lazy	molowā
+4.93	bald	ʔōhule
+4.94	lame	ʔoʔopa
+4.94	lame	hapakuʔe
+4.94	lame	kīnā
+4.94	lame	kīʔopa
+4.94	lame	māʔuluʔulu
+4.95	deaf	kuli
+4.95	deaf	hoʔokuli
+4.95	deaf	pepeiaokuli
+4.96	mute	mumule
+4.97	blind	makapō
+4.97	blind	makaʔalā
+4.98	intoxicated	ʔona
+4.99	naked, bare	kohana
+5.11	eat	ʔai
+5.11	eat	ʔaiiho
+5.11	eat	amu
+5.12	food	ʔai
+5.12	food	meaʔai
+5.121	cooked	moʔa
+5.121	cooked	pāpaʔa
+5.121	cooked	pāpaʔapū
+5.122	raw	maka
+5.122	raw	makamaka
+5.122	raw	kolekole
+5.123	ripe	pala
+5.124	green, unripe	uliuli
+5.124	green, unripe	maka
+5.125	rotten	pilau
+5.125	rotten	palahū
+5.125	rotten	ʔinoʔino
+5.125	rotten	palahō
+5.125	rotten	popopo
+5.13	drink	inu
+5.13	drink	inumia
+5.13	drink	pā
+5.14	hunger	pōloli
+5.14	hunger	makeʔai
+5.141	famine	wī
+5.141	famine	pōloli
+5.15	thirst	makewai
+5.16	suck	omo
+5.16	suck	omōmo
+5.16	suck	mūkī
+5.18	chew	mama
+5.18	chew	nau
+5.181	swallow	ale
+5.181	swallow	moni
+5.19	choke	ʔumi
+5.19	choke	laoa
+5.19	choke	puʔua
+5.19	choke	kalea
+5.21	cook	hoʔomoʔa
+5.21	cook	kuke
+5.21	cook	ʔōlala
+5.23	roast, fry	palai
+5.23	roast, fry	ʔoma
+5.23	roast, fry	loke
+5.23	roast, fry	ʔōhinu
+5.24	bake	kālua
+5.24	bake	hoʔomoʔa
+5.24	bake	ʔoma
+5.25	oven	imu
+5.25	oven	umu
+5.25	oven	ʔoma
+5.27	kettle	ipuhao
+5.27	kettle	kikila
+5.28	pan	pāpalai
+5.28	pan	pāhoʔolapalapa
+5.31	dish	pā
+5.31	dish	ipu
+5.32	plate	pā
+5.33	bowl	ʔumeke
+5.33	bowl	ipu
+5.33	bowl	pola
+5.34	pitcher, jug	ʔōmolewahanui
+5.34	pitcher, jug	pika
+5.34	pitcher, jug	kīʔaha
+5.34	pitcher, jug	kīʔahaʔoʔoma
+5.35	cup, drinking vessel	pola
+5.35	cup, drinking vessel	ipu
+5.35	cup, drinking vessel	kīʔaha
+5.35	cup, drinking vessel	kīʔoʔe
+5.36	saucer	pāliʔiliʔi
+5.37	spoon	puna
+5.38	knife	pahi
+5.39	fork	ʔō
+5.41	meal (a)	ʔaina
+5.41	meal (a)	pāʔina
+5.42	breakfast	ʔainakakahiaka
+5.43	lunch	ʔainaawakea
+5.44	dinner	ʔainaahiahi
+5.44	dinner	papaʔaina
+5.44	dinner	pāʔina
+5.45	supper	ʔainaahiahi
+5.45	supper	pāʔinaahiahi
+5.46	peel	maʔihi
+5.46	peel	koli
+5.47	sieve, strain	kānana
+5.47	sieve, strain	kālana
+5.48	scrape	waʔu
+5.48	scrape	wawaʔu
+5.48	scrape	waʔuwaʔu
+5.48	scrape	koe
+5.48	scrape	kūai
+5.48	scrape	kahi
+5.49	stir, mix	hoʔohui
+5.49	stir, mix	hoʔowali
+5.49	stir, mix	ʔoni
+5.49	stir, mix	kāwili
+5.51	bread	palaoa
+5.51	bread	pelena
+5.53	dough	palaoahoʔowaliʔia
+5.53	dough	pelenamoʔaʔole
+5.54	knead	kūpele
+5.54	knead	hoʔopele
+5.54	knead	pele
+5.54	knead	poho
+5.54	knead	ʔōpā
+5.54	knead	kaʔawili
+5.55	meal, flour	palaoamaka
+5.56	crush, grind	lomi
+5.56	crush, grind	hoʔoūpē
+5.56	crush, grind	hoʔopē
+5.56	crush, grind	hoʔomaūi
+5.56	crush, grind	pākī
+5.56	crush, grind	wili
+5.56	crush, grind	ʔuwī
+5.57	mill	wili
+5.57	mill	halewili
+5.61	meat	ʔiʔo
+5.61	meat	ʔiʔoholoholona
+5.61	meat	iʔa
+5.63	sausage	naʔaukake
+5.64	soup, broth	kai
+5.64	soup, broth	kupa
+5.65	vegetables	lau
+5.65	vegetables	lauʔaiʔia
+5.7	potato	ʔualakahiki
+5.71	fruit	hua
+5.71	fruit	huaʔai
+5.712	bunch	ʔāhui
+5.712	bunch	keʔa
+5.77	nut	kukuihaole
+5.79	oil	ʔaila
+5.79	oil	hinu
+5.791	grease, fat	ʔaila
+5.791	grease, fat	ʔailahamo
+5.791	grease, fat	hinu
+5.791	grease, fat	ʔōhinu
+5.81	salt	paʔakai
+5.82	pepper	nīoi
+5.821	chili pepper	nioi
+5.84	honey	meli
+5.84	honey	waimeli
+5.84	honey	waipua
+5.84	honey	pīlali
+5.85	sugar	kōpaʔa
+5.86	milk (noun)	waiū
+5.89	butter	waiūpaka
+5.89	butter	paka
+5.9	beverage, drink	meainu
+5.9	beverage, drink	poi
+5.9	beverage, drink	ʔai
+5.93	beer	pia
+5.93	beer	bia
+5.94	fermented drink	wekeke
+5.94	fermented drink	waikeke
+5.97	egg	hua
+5.97	egg	huamoa
+6.11	put on (clothes)	komo
+6.11	put on (clothes)	komolole
+6.12	clothing, clothes	lole
+6.12	clothing, clothes	ʔaʔahu
+6.12	clothing, clothes	kapakomo
+6.12	clothing, clothes	lolekomo
+6.13	tailor	kela
+6.13	tailor	kelalole
+6.21	cloth	lole
+6.22	wool	hulu
+6.22	wool	pili
+6.24	cotton	pulu
+6.24	cotton	pulupulu
+6.24	cotton	maʔo
+6.28	fur	hulu
+6.29	leather	ʔili
+6.29	leather	ʔiliholoholona
+6.29	leather	ʔilipipi
+6.31	spin	niniu
+6.31	spin	hoʔoniniu
+6.35	sew	humuhumu
+6.35	sew	hono
+6.35	sew	kuʔi
+6.36	needle	kui
+6.36	needle	kuikele
+6.36	needle	kuihumuhumu
+6.36	needle	mānai
+6.38	thread	kaula
+6.38	thread	aho
+6.38	thread	ʔaha
+6.38	thread	lopi
+6.39	dye	wai
+6.39	dye	waihoʔoluʔu
+6.39	dye	waiʔele
+6.39	dye	waiʔeleʔele
+6.41	cloak	kīhei
+6.41	cloak	ʔahu
+6.41	cloak	kīpuka
+6.41	cloak	koloka
+6.42	woman's dress	lole
+6.42	woman's dress	ʔaʔahu
+6.43	coat	kuka
+6.43	coat	ʔahu
+6.43	coat	lakeke
+6.44	shirt	pālule
+6.44	shirt	ʔahu
+6.45	collar	ʔāʔīkala
+6.45	collar	kala
+6.46	skirt	palekoki
+6.48	trousers	lolewāwae
+6.48	trousers	malo
+6.49	stocking, sock	kākini
+6.51	shoe	kāmaʔa
+6.51	shoe	kāmaʔahāwele
+6.51	shoe	palewāwae
+6.55	hat, cap	kapu
+6.55	hat, cap	pāpalekapu
+6.57	belt, girdle	kuapo
+6.57	belt, girdle	ʔilikuapo
+6.57	belt, girdle	kuapoʔōpū
+6.57	belt, girdle	kāʔai
+6.58	glove	mikinilima
+6.58	glove	mikilima
+6.61	pocket	pākeke
+6.61	pocket	paʔeke
+6.61	pocket	ʔekeʔeke
+6.61	pocket	ʔeke
+6.62	button	pihi
+6.71	ornament, adornment	hoʔohiwahiwa
+6.71	ornament, adornment	wehi
+6.71	ornament, adornment	kāhiko
+6.71	ornament, adornment	kīnohi
+6.72	jewel	pōhakumakamae
+6.72	jewel	lakokula
+6.72	jewel	meahoʔonanikino
+6.73	ring (for finger)	komo
+6.73	ring (for finger)	apo
+6.74	bracelet	kūpeʔe
+6.74	bracelet	kūpeʔelima
+6.74	bracelet	apo
+6.74	bracelet	apolima
+6.75	necklace	lei
+6.77	earring	kulapepeiao
+6.79	tattoo	kākau
+6.81	handkerchief, rag	welu
+6.82	towel	kāwele
+6.91	comb	kahi
+6.92	brush	palaki
+6.92	brush	hulu
+6.92	brush	palakiʔānai
+6.921	braid	hilo
+6.921	braid	hili
+6.921	braid	pahili
+6.921	braid	ulana
+6.93	razor	pahiʔumiʔumi
+6.94	ointment	meahamo
+6.94	ointment	ʔailahamo
+6.94	ointment	lāʔauhamo
+6.94	ointment	hinu
+6.95	soap	kopa
+6.95	soap	kopapauka
+6.96	mirror	aniani
+6.96	mirror	anianikilohi
+7.11	dwell, live	nohona
+7.12	house	hale
+7.12	house	kauhale
+7.13	hut	pupupuhale
+7.13	hut	pāpaʔi
+7.13	hut	haleʔuʔuku
+7.131	garden-house	mahi
+7.131	garden-house	māla
+7.14	tent	halelole
+7.14	tent	halepeʔa
+7.15	yard, court	pā
+7.22	door, gate	puka
+7.22	door, gate	pukahale
+7.22	door, gate	pukapā
+7.22	door, gate	pukakomo
+7.22	door, gate	ʔīpuka
+7.22	door, gate	pani
+7.25	window	pukaaniani
+7.25	window	pukahale
+7.26	floor	papahele
+7.26	floor	papakeʔehina
+7.26	floor	papa
+7.27	wall	pā
+7.27	wall	paia
+7.31	fireplace	kapuahi
+7.32	stove	kapuahi
+7.37	ladder	alapiʔi
+7.37	ladder	alahaka
+7.37	ladder	haka
+7.42	bed	moe
+7.42	bed	moena
+7.42	bed	wahimoe
+7.421	pillow	uluna
+7.421	pillow	ʔaki
+7.421	pillow	ʔopeʔope
+7.422	blanket	kapamoe
+7.422	blanket	huluhulu
+7.422	blanket	kapahuluhulu
+7.43	chair	noho
+7.43	chair	noholōʔihi
+7.43	chair	papanoho
+7.44	table	pākaukau
+7.45	lamp, torch	kukui
+7.45	lamp, torch	ipukukui
+7.45	lamp, torch	kukuipōhaku
+7.45	lamp, torch	lama
+7.45	lamp, torch	lamakū
+7.46	candle	īhoiho
+7.46	candle	ihoihokukui
+7.47	shelf	haka
+7.47	shelf	hakakau
+7.47	shelf	papa
+7.48	trough	holowaʔa
+7.51	roof	kaupoku
+7.51	roof	kaupaku
+7.52	thatch	ako
+7.52	thatch	pili
+7.53	ridgepole	kaupoku
+7.53	ridgepole	kauhuhu
+7.54	rafter	kua
+7.54	rafter	oʔa
+7.56	post, pole	pou
+7.56	post, pole	lāʔau
+7.56	post, pole	kia
+7.57	board	papa
+7.57	board	papalāʔau
+7.58	arch	piʔo
+7.58	arch	pāpiʔo
+7.58	arch	hoaka
+7.62	brick	uwinihapa
+8.11	farmer	mahiʔai
+8.15	cultivate, till	mahi
+8.16	fence	pā
+8.16	fence	pālāʔau
+8.17	ditch	ʔauwaha
+8.17	ditch	hā
+8.17	ditch	ʔāwaʔa
+8.17	ditch	ʔauwai
+8.21	plow	ʔōʔōhao
+8.21	plow	ʔōʔōpalau
+8.21	plow	ʔōʔōhou
+8.21	plow	palau
+8.22	dig	ʔeli
+8.23	spade	ʔōʔō
+8.23	spade	peki
+8.24	shovel	kopalā
+8.26	fork	mana
+8.27	rake	kope
+8.27	rake	ʔōʔōkope
+8.311	seed	ʔanoʔano
+8.311	seed	hua
+8.32	mow, reap	ʔoki
+8.33	sickle, scythe	pahikākiwi
+8.33	sickle, scythe	pahikekeʔe
+8.41	crop, harvest	loaʔa
+8.41	crop, harvest	wāʔohi
+8.41	crop, harvest	meahoʔoūlu
+8.42	grain (barley, oats etc)	huna
+8.43	wheat	huika
+8.43	wheat	huapalaoa
+8.47	maize, corn	kūlina
+8.47	maize, corn	kūlinaʔono
+8.51	grass	mauʔu
+8.51	grass	weuweu
+8.53	plant (noun)	lāʔau
+8.53	plant (noun)	meaulu
+8.53	plant (noun)	launahele
+8.531	plant (vb)	kanu
+8.54	root	aʔa
+8.54	root	mole
+8.54	root	weli
+8.55	branch	lālā
+8.55	branch	mana
+8.55	branch	ʔohā
+8.56	leaf	lau
+8.57	flower	pua
+8.6	tree	lāʔau
+8.6	tree	kumulāʔau
+8.6	tree	kumu
+8.64	pine	lāʔaupaina
+8.64	pine	paina
+8.67	vine	lāʔauhihi
+8.68	tobacco	paka
+8.69	smoke (tobacco)	puhipaka
+8.691	pipe	ipupaka
+8.72	tree stump	ʔōmuku
+8.75	bark	ʔili
+8.75	bark	ʔililāʔau
+8.75	bark	ʔililuna
+8.76	sap	kohu
+8.76	sap	wai
+8.76	sap	wale
+8.76	sap	walehau
+8.76	sap	wailāʔau
+8.81	palm tree	pāma
+8.81	palm tree	pālama
+8.82	coconut	niu
+8.84	banana tree	maiʔa
+8.91	sweet potato	ʔuala
+8.912	yam	uhi
+8.92	tapioca, manioc, cassava	manioka
+8.92	tapioca, manioc, cassava	kapioka
+8.93	gourd	ʔumeke
+8.93	gourd	ipu
+8.93	gourd	pāipu
+8.93	gourd	hue
+8.93	gourd	pōhue
+8.931	pumpkin, squash	palaʔai
+8.931	pumpkin, squash	ipupū
+8.931	pumpkin, squash	pū
+8.94	bamboo	ʔohe
+8.941	sugar cane	kō
+8.98	mushroom	kūkaelio
+8.98	mushroom	māmalu
+9.11	do, make	hana
+9.11	do, make	lawelawe
+9.12	work	hana
+9.14	bend	pelu
+9.14	bend	hoʔopiʔo
+9.14	bend	hoʔokeʔe
+9.14	bend	hoʔokekeʔe
+9.15	fold	ʔopi
+9.15	fold	pelu
+9.15	fold	ʔopiʔopi
+9.15	fold	pelupelu
+9.15	fold	ʔōwili
+9.16	tie, bind	hīkiʔi
+9.16	tie, bind	nīkiʔi
+9.16	tie, bind	lawa
+9.16	tie, bind	hele
+9.16	tie, bind	hoa
+9.16	tie, bind	paʔi
+9.16	tie, bind	hīpuʔu
+9.16	tie, bind	hanapaʔa
+9.161	untie	wehe
+9.161	untie	ʔuwehe
+9.161	untie	kala
+9.18	chain	kaula
+9.18	chain	kaulahao
+9.19	rope, cord	kaula
+9.192	knot (noun)	hīpuʔu
+9.192	knot (noun)	kīpuʔu
+9.192	knot (noun)	nīpuʔu
+9.21	strike (hit, beat)	pepehi
+9.21	strike (hit, beat)	kuʔi
+9.21	strike (hit, beat)	paʔi
+9.21	strike (hit, beat)	hahau
+9.21	strike (hit, beat)	kū
+9.21	strike (hit, beat)	kā
+9.21	strike (hit, beat)	pā
+9.22	cut	ʔoki
+9.22	cut	hōʔoki
+9.22	cut	moku
+9.22	cut	mō
+9.223	stab	hou
+9.223	stab	ʔō
+9.223	stab	puka
+9.24	scissors, shears	ʔūpā
+9.25	ax	kipikua
+9.251	adze	koʔi
+9.251	adze	lipi
+9.27	split	wahī
+9.28	tear	hae
+9.28	tear	nahae
+9.28	tear	haehae
+9.29	flay, skin	ʔili
+9.31	rub, wipe	ʔānai
+9.31	rub, wipe	kuai
+9.31	rub, wipe	kuolo
+9.31	rub, wipe	hoana
+9.31	rub, wipe	kāwele
+9.31	rub, wipe	holoi
+9.31	rub, wipe	hāleu
+9.32	stretch	kīkoʔokoʔo
+9.33	pull	ʔume
+9.33	pull	huki
+9.33	pull	ʔuʔu
+9.34	spread out	hoʔopuehu
+9.34	spread out	lū
+9.34	spread out	lūlū
+9.341	hang up	hoʔolewalewa
+9.341	hang up	lewalewa
+9.341	hang up	kau
+9.343	squeeze, wring	ʔuwī
+9.343	squeeze, wring	ʔōpā
+9.343	squeeze, wring	kaomi
+9.343	squeeze, wring	lomi
+9.343	squeeze, wring	ʔūmiʔi
+9.35	pour	ninini
+9.36	wash	holoi
+9.37	sweep	pūlumi
+9.37	sweep	kāhili
+9.38	broom	pūlumi
+9.422	tool	meahana
+9.422	tool	meapaʔahana
+9.43	carpenter	kamanā
+9.44	build	kūkulu
+9.44	build	hana
+9.44	build	kāpili
+9.461	hollow out	pūhā
+9.461	hollow out	hakahaka
+9.461	hollow out	ʔolohaka
+9.48	saw	pahiolo
+9.48	saw	olo
+9.5	nail	kui
+9.5	nail	kuinao
+9.5	nail	kuihao
+9.56	glue	kolū
+9.56	glue	meahoʔopipili
+9.56	glue	pili
+9.64	gold	kula
+9.64	gold	gula
+9.65	silver	kālākeʔokeʔo
+9.65	silver	kālā
+9.67	iron	hao
+9.68	lead (noun)	kēpau
+9.68	lead (noun)	kēpaupōkā
+9.69	tin, tinplate	kini
+9.69	tin, tinplate	keleawe
+9.69	tin, tinplate	piula
+9.73	clay	pālolo
+9.73	clay	lepokāwili
+9.73	clay	lepomānoanoa
+9.76	basket	ʔeke
+9.76	basket	ʔie
+9.76	basket	hīnaʔi
+9.76	basket	hīnaʔipoepoe
+9.77	mat	moena
+9.771	rug	moenaweleweka
+9.771	rug	kāpeka
+9.78	netbag	ʔaʔaha
+9.79	fan (noun)	peʔahi
+9.81	carve	kālai
+9.81	carve	kalakalai
+9.81	carve	kuʔikepa
+9.83	statue	kiʔi
+9.83	statue	kiʔikālaiʔia
+9.88	paint (noun)	pena
+10.11	move	ʔoni
+10.11	move	au
+10.11	move	neʔemōkio
+10.12	turn over	kakaʔa
+10.13	turn around	kaʔapuni
+10.13	turn around	kaʔa
+10.13	turn around	pōniu
+10.14	wind, wrap	wahī
+10.16	drop (vb)	hāʔule
+10.17	twist	wili
+10.17	twist	kaʔawili
+10.17	twist	lauwili
+10.17	twist	milo
+10.17	twist	wini
+10.21	rise	piʔi
+10.21	rise	ala
+10.21	rise	aea
+10.21	rise	ea
+10.21	rise	kau
+10.21	rise	hoʔāla
+10.22	raise, lift	hāpai
+10.22	raise, lift	pai
+10.23	fall	hāʔule
+10.23	fall	helelei
+10.24	drip	kulu
+10.24	drip	kulukulu
+10.25	throw	hoʔolei
+10.25	throw	nou
+10.25	throw	kiola
+10.25	throw	pehi
+10.25	throw	lū
+10.252	catch (ball)	ʔapo
+10.26	shake	naue
+10.26	shake	nāueue
+10.26	shake	lūlū
+10.26	shake	hōʔoni
+10.26	shake	hoʔoluliluli
+10.26	shake	kapalili
+10.32	flow	kahe
+10.33	sink	palemo
+10.33	sink	piholo
+10.34	float	lana
+10.35	swim	ʔau
+10.351	dive	luʔu
+10.36	sail (vb)	holo
+10.36	sail (vb)	hoʔoholo
+10.36	sail (vb)	kele
+10.36	sail (vb)	holomoku
+10.37	fly (vb)	lele
+10.38	blow	puhi
+10.41	creep, crawl	kolo
+10.412	kneel	kukuli
+10.42	slide, slip	heʔe
+10.42	slide, slip	paheʔe
+10.42	slide, slip	holo
+10.42	slide, slip	pakika
+10.42	slide, slip	paholo
+10.42	slide, slip	pahale
+10.42	slide, slip	pakelo
+10.43	jump, leap	lele
+10.43	jump, leap	lelele
+10.431	kick	peku
+10.431	kick	pekuna
+10.44	dance	hula
+10.44	dance	hulahula
+10.45	walk	helewāwae
+10.45	walk	hele
+10.451	limp	ʔoʔopa
+10.451	limp	ʔopa
+10.451	limp	māʔopaʔopa
+10.46	run	holo
+10.46	run	hoholo
+10.46	run	hoʔoholo
+10.46	run	kaʔaholo
+10.47	go	hele
+10.47	go	heleaku
+10.47	go	haele
+10.47	go	uhaele
+10.47	go	uhele
+10.471	go up	piʔi
+10.471	go up	piʔiaku
+10.472	climb	piʔi
+10.473	go down	iho
+10.473	go down	heleiho
+10.473	go down	hoʔoihona
+10.473	go down	heleilalo
+10.48	come	helemai
+10.48	come	mai
+10.48	come	hikimai
+10.48	come	haelemai
+10.49	go away, depart	heleikahiʔē
+10.49	go away, depart	haʔalele
+10.49	go away, depart	waiho
+10.491	disappear	nalo
+10.491	disappear	nalowale
+10.491	disappear	nalohia
+10.491	disappear	pio
+10.491	disappear	hanini
+10.51	flee	heʔe
+10.51	flee	ʔauheʔe
+10.51	flee	mahuka
+10.52	follow	hahai
+10.52	follow	ukali
+10.52	follow	alualu
+10.52	follow	maʔawe
+10.52	follow	kaukolu
+10.55	reach, arrive	hōʔea
+10.55	reach, arrive	hiki
+10.55	reach, arrive	kū
+10.55	reach, arrive	kau
+10.55	reach, arrive	loaʔa
+10.57	enter	komo
+10.57	enter	hoʔokomo
+10.61	carry (bear)	hāpai
+10.61	carry (bear)	hiʔi
+10.61	carry (bear)	hali
+10.61	carry (bear)	paʔa
+10.61	carry (bear)	lawe
+10.613	carry-on-shoulder	hāʔawe
+10.62	bring	lawemai
+10.62	bring	hōmai
+10.63	send	hoʔoūna
+10.63	send	kēnā
+10.63	send	kiʔi
+10.63	send	kauohas
+10.64	lead (vb)	alakaʔi
+10.64	lead (vb)	kaʔi
+10.64	lead (vb)	kaʔikaʔi
+10.67	push, shove	pahu
+10.71	road	ala
+10.71	road	alanui
+10.71	road	alahele
+10.72	path	ala
+10.72	path	alahele
+10.74	bridge	uwapo
+10.75	carriage, wagon, cart	kaʔa
+10.76	wheel	huila
+10.81	ship	moku
+10.81	ship	mokuahi
+10.81	ship	mokukialua
+10.81	ship	kuna
+10.83	boat	moku
+10.83	boat	waʔapā
+10.831	canoe	waʔa
+10.85	oar	hoe
+10.851	paddle (noun)	hoe
+10.852	row (vb)	hoe
+10.86	rudder	hoeuli
+10.88	sail (noun)	lā
+10.88	sail (noun)	peʔa
+10.89	anchor	helēuma
+10.91	harbor, port	awa
+10.91	harbor, port	awakūmoku
+10.91	harbor, port	uwapo
+10.92	land (vb)	pae
+10.92	land (vb)	lele
+10.92	land (vb)	hoʔīli
+10.92	land (vb)	hoʔoili
+11.12	own, possess	ponoʔī
+11.12	own, possess	kuleana
+11.13	take	lawe
+11.13	take	laweaku
+11.13	take	hopu
+11.14	seize, grasp	hopu
+11.14	seize, grasp	ʔapo
+11.14	seize, grasp	hao
+11.14	seize, grasp	lālau
+11.14	seize, grasp	kāʔili
+11.15	hold	paʔa
+11.15	hold	hoʔopaʔa
+11.16	get, obtain	loaʔa
+11.18	thing	mea
+11.18	thing	kumuhana
+11.21	give	hāʔawi
+11.21	give	hō
+11.25	save, rescue	hoʔopakele
+11.25	save, rescue	hoʔopalekana
+11.27	destroy	luku
+11.27	destroy	hoʔopau
+11.27	destroy	hanamake
+11.28	harm, injure, damage	pohō
+11.28	harm, injure, damage	pōʔino
+11.28	harm, injure, damage	hōʔinoʔino
+11.31	seek, look for	ʔimi
+11.31	seek, look for	huli
+11.31	seek, look for	ʔimina
+11.31	seek, look for	hulina
+11.32	find	loaʔa
+11.33	lose	nalo
+11.33	lose	nalowale
+11.33	lose	hoʔolilo
+11.43	money	kālākūʔike
+11.43	money	kālāaupuni
+11.51	rich	waiwai
+11.51	rich	lako
+11.51	rich	kūʔonoʔono
+11.52	poor	ʔilihune
+11.53	beggar	mākilo
+11.54	avaricious, stingy	pī
+11.54	avaricious, stingy	punikālā
+11.54	avaricious, stingy	ʔauʔa
+11.61	lend	hōʔaiʔē
+11.61	lend	hāʔawinokamanawa
+11.61	lend	haʔawiʔaiʔē
+11.63	owe	ʔaiʔē
+11.64	debt	ʔaiʔē
+11.65	pay (vb)	uku
+11.65	pay (vb)	hoʔokaʔa
+11.69	tax, tribute	ʔauhau
+11.69	tax, tribute	hoʔokupu
+11.69	tax, tribute	uku
+11.78	wages	uku
+11.78	wages	ukuhana
+11.79	earn	loaʔa
+11.81	buy	kūʔai
+11.81	buy	kūʔaimai
+11.82	sell	kūʔaiaku
+11.82	sell	kālepa
+11.82	sell	hoʔolilo
+11.83	trade, barter	kālepa
+11.84	merchant	kālepa
+11.85	market (place)	mākeke
+11.86	store, shop	halekūʔai
+11.87	price	kumukūʔai
+11.87	price	kālā
+11.88	dear (costly, expensive)	pipiʔi
+11.88	dear (costly, expensive)	piʔi
+11.88	dear (costly, expensive)	nuikahoʔolilo
+11.89	cheap	emi
+11.89	cheap	makepono
+11.91	share (distribute)	hoʔomāhelehele
+11.91	share (distribute)	hoʔolaha
+11.92	weigh	kaupaona
+11.92	weigh	anakaumaha
+12.1	after	hope
+12.1	after	mahope
+12.1	after	muli
+12.1	after	mamuli
+12.1	after	pau
+12.11	place	hope
+12.11	place	muli
+12.11	place	makekua
+12.2	beside	ma
+12.2	beside	makaʔaoʔao
+12.3	down, below	lalo
+12.3	down, below	ilalo
+12.3	down, below	malalo
+12.3	down, below	iho
+12.4	before	mua
+12.4	before	ʔē
+12.4	before	alia
+12.4	before	ikawāmamua
+12.41	right (side)	alo
+12.41	right (side)	mua
+12.5	inside, in	i
+12.5	inside, in	ma
+12.5	inside, in	iloko
+12.5	inside, in	maloko
+12.5	inside, in	iluna
+12.5	inside, in	maluna
+12.5	inside, in	wālua
+12.6	outside	owaho
+12.6	outside	mawaho
+12.6	outside	kōwaho
+12.6	outside	kūwaho
+12.7	under	lalo
+12.7	under	malalo
+12.7	under	ilalo
+12.7	under	malaloiho
+12.8	up, above	maluna
+12.8	up, above	luna
+12.8	up, above	iluna
+12.11	place	kahua
+12.11	place	wahi
+12.11	place	kāhi
+12.11	place	kaha
+12.11	place	kauwahi
+12.11	place	kūlana
+12.11	place	lewa
+12.11	place	haka
+12.12	put	kau
+12.12	put	waiho
+12.13	sit	noho
+12.14	lie down	kāmoe
+12.14	lie down	momoe
+12.15	stand	kū
+12.15	stand	kukū
+12.15	stand	kūlia
+12.16	remain, stay	koe
+12.16	remain, stay	noholoa
+12.16	remain, stay	waiho
+12.17	remains, left overs	koe
+12.17	remains, left overs	koena
+12.21	collect, gather	ʔohi
+12.21	collect, gather	hoʔāhu
+12.21	collect, gather	hōʔiliʔili
+12.212	pick up	ʔohi
+12.212	pick up	ʔako
+12.213	pile up	puʔuahu
+12.213	pile up	kuāhua
+12.213	pile up	āhua
+12.213	pile up	kuapapa
+12.213	pile up	anuʔa
+12.213	pile up	nuʔa
+12.213	pile up	hoʔonuʔa
+12.22	join, unite	pili
+12.22	join, unite	pilipū
+12.22	join, unite	hui
+12.22	join, unite	kuʔi
+12.22	join, unite	kāpili
+12.23	separate	hoʔokaʔawale
+12.232	divide	māhele
+12.232	divide	puʔunaue
+12.232	divide	ʔokiʔoki
+12.232	divide	helehele
+12.232	divide	kāʔana
+12.24	open	hāmama
+12.24	open	makili
+12.24	open	mikili
+12.24	open	nakili
+12.24	open	hoʔomakili
+12.25	shut, close	hoʔopaʔa
+12.25	shut, close	pani
+12.25	shut, close	paʔa
+12.26	cover	uhi
+12.26	cover	pani
+12.26	cover	pale
+12.26	cover	wahī
+12.26	cover	poʔi
+12.26	cover	ʔomo
+12.27	hide, conceal	hūnā
+12.27	hide, conceal	peʔe
+12.27	hide, conceal	hoʔonalo
+12.31	high	kiʔekiʔe
+12.31	high	loa
+12.31	high	lōʔihi
+12.32	low	lalo
+12.32	low	haʔa
+12.32	low	haʔahaʔa
+12.32	low	pē
+12.32	low	pēpē
+12.32	low	emi
+12.33	top	wēkiu
+12.33	top	piko
+12.33	top	poʔo
+12.33	top	wēlau
+12.33	top	ʔēlau
+12.34	bottom	kumu
+12.34	bottom	mole
+12.34	bottom	kōlaloloa
+12.34	bottom	papakū
+12.34	bottom	kāhimalalo
+12.35	end	pauʔana
+12.35	end	panina
+12.35	end	hope
+12.352	pointed	wēlau
+12.352	pointed	ʔēlau
+12.352	pointed	welelau
+12.353	edge	kaʔe
+12.353	edge	palena
+12.353	edge	lihi
+12.353	edge	nihi
+12.353	edge	kapa
+12.353	edge	peʔa
+12.353	edge	kihi
+12.353	edge	niao
+12.353	edge	maka
+12.353	edge	kūkulu
+12.353	edge	huʔa
+12.353	edge	peʔa
+12.36	side	ʔaoʔao
+12.36	side	kūkulu
+12.36	side	paia
+12.36	side	kapa
+12.37	middle, center	waena
+12.37	middle, center	waenakonu
+12.37	middle, center	konuwaena
+12.37	middle, center	kikowaena
+12.41	right (side)	ʔākau
+12.42	left (side)	hema
+12.43	near (adv)	kokoke
+12.43	near (adv)	pili
+12.44	far (adv)	mamao
+12.44	far (adv)	liloloa
+12.45	east	hikina
+12.46	west	komohana
+12.47	north	ʔākau
+12.48	south	hema
+12.53	grow	ulu
+12.53	grow	hoʔoūlu
+12.53	grow	kupu
+12.54	measure	ana
+12.54	measure	hoʔāna
+12.54	measure	alapiʔi
+12.541	span, fathom	anana
+12.55	large, big	nui
+12.55	large, big	nunui
+12.56	small, little	iki
+12.56	small, little	liʔi
+12.56	small, little	liliʔi
+12.56	small, little	liʔiliʔi
+12.56	small, little	ʔuku
+12.56	small, little	ʔuʔuku
+12.57	long	loa
+12.57	long	loloa
+12.58	tall	loa
+12.58	tall	loloa
+12.58	tall	kiʔekiʔe
+12.59	short	pōkole
+12.59	short	ʔekekeʔi
+12.59	short	mūʔekekeʔi
+12.61	wide, broad	laulā
+12.61	wide, broad	ākea
+12.62	narrow	lāʔiki
+12.62	narrow	hāiki
+12.62	narrow	hoʔohāiki
+12.63	thick (in dimension)	mānoanoa
+12.65	thin (in dimension)	wīwī
+12.65	thin (in dimension)	emi
+12.65	thin (in dimension)	ʔōlala
+12.65	thin (in dimension)	ʔāʔaua
+12.65	thin (in dimension)	ʔaua
+12.65	thin (in dimension)	lahi
+12.67	deep	hohonu
+12.67	deep	kūhohonu
+12.67	deep	kūlipo
+12.68	shallow	pāpaʔu
+12.68	shallow	hāpapa
+12.71	flat	pālahalaha
+12.73	straight	pololei
+12.73	straight	kālole
+12.75	hook	lou
+12.75	hook	loulou
+12.75	hook	kīlou
+12.75	hook	huka
+12.76	corner	huina
+12.76	corner	kūʔono
+12.76	corner	kihi
+12.78	square	huinahā
+12.78	square	huinahākaulike
+12.78	square	kuea
+12.81	round	poepoe
+12.81	round	popohe
+12.81	round	kūpoepoe
+12.82	circle	apo
+12.82	circle	ʔapo
+12.82	circle	pōʔai
+12.82	circle	pōhai
+12.82	circle	hoʔowiliwili
+12.82	circle	kuapo
+12.82	circle	pōʔaha
+12.82	circle	lina
+12.83	sphere, ball	kinipōpō
+12.83	sphere, ball	pōpōpōkoʔa
+12.83	sphere, ball	pōka
+12.83	sphere, ball	poepoe
+12.85	hole	puka
+12.85	hole	poʔo
+12.85	hole	napoʔo
+12.85	hole	ʔāpoʔopoʔo
+12.93	change	loli
+12.93	change	hoʔolilo
+12.93	change	hoʔololi
+12.93	change	huli
+13.0	zero, nothing	ʔole
+13.1	one	ʔekahi
+13.1	one	ʔakahi
+13.1	one	kahi
+13.2	two	lua
+13.2	two	ʔelua
+13.2	two	ʔalua
+13.2	two	kualua
+13.3	three	kolu
+13.3	three	ʔekolu
+13.3	three	ʔakolu
+13.4	four	hā
+13.4	four	ʔehā
+13.4	four	ʔahā
+13.4	four	kāuna
+13.5	five	lima
+13.5	five	ʔelina
+13.5	five	ʔalima
+13.6	six	ono
+13.6	six	ʔeono
+13.6	six	ʔaōno
+13.7	seven	hiku
+13.7	seven	ʔehiku
+13.7	seven	ʔahiku
+13.8	eight	walu
+13.8	eight	ʔewalu
+13.8	eight	ʔawalu
+13.9	nine	iwa
+13.9	nine	ʔeīwa
+13.9	nine	ʔaīwa
+13.10	ten	ʔumi
+13.101	eleven	ʔumikūmākahi
+13.101	eleven	ʔumikumamākahi
+13.102	twelve	ʔumikūmālua
+13.102	twelve	ʔumikumamālua
+13.103	fifteen	ʔumikūmālima
+13.103	fifteen	ʔumikumamālima
+13.104	twenty	īwakālua
+13.105	hundred	hanele
+13.105	hundred	haneri
+13.106	thousand	kaukani
+13.107	count	helu
+13.107	count	heluhelu
+13.107	count	heluna
+13.14	every, all	apau
+13.14	every, all	pauloa
+13.14	every, all	pau
+13.15	much, many	nui
+13.15	much, many	nunui
+13.15	much, many	lau
+13.15	much, many	mano
+13.15	much, many	lehu
+13.15	much, many	kini
+13.16	more	hou
+13.16	more	keu
+13.17	little (quantity), few	kakaʔikahi
+13.17	little (quantity), few	wahi
+13.17	little (quantity), few	kekahi
+13.17	little (quantity), few	ʔuʔuku
+13.17	little (quantity), few	liʔiliʔi
+13.18	enough	lawa
+13.18	enough	nui
+13.18	enough	lawapuni
+13.18	enough	kaʔakaʔalawa
+13.19	multitude, crowd	lehulehu
+13.19	multitude, crowd	pihanakanaka
+13.19	multitude, crowd	anaina
+13.19	multitude, crowd	pūʔulu
+13.21	full	piha
+13.22	empty	haka
+13.22	empty	hakahaka
+13.22	empty	ʔolohaka
+13.22	empty	ukanaʔole
+13.23	part, piece	ʔāpana
+13.23	part, piece	paukū
+13.23	part, piece	māhele
+13.23	part, piece	kuleana
+13.23	part, piece	haʔawina
+13.24	half	hapalua
+13.33	alone, only	hoʔokahiwalenō
+13.33	alone, only	wale
+13.34	first	mua
+13.34	first	mualoa
+13.34	first	ʔakahiā
+13.35	last	hope
+13.35	last	muli
+13.35	last	nei
+13.35	last	akunei
+13.37	pair	lua
+13.37	pair	paʔa
+13.37	pair	papalua
+13.37	pair	kaulua
+13.38	two times	pālua
+13.38	two times	lua
+13.38	two times	ʔelua
+13.38	two times	ʔalua
+13.38	two times	ʔeluamanawa
+13.42	third	hapakolu
+13.42	third	kolu
+14.11	time	manawa
+14.11	time	wā
+14.11	time	au
+14.11	time	hola
+14.12	age	au
+14.12	age	manawa
+14.12	age	wā
+14.13	new	hou
+14.13	new	meahou
+14.13	new	ʔanohou
+14.13	new	malihini
+14.14	young	ʔōpio
+14.14	young	ʔōpiopio
+14.15	old	ʔāoʔo
+14.15	old	oʔo
+14.15	old	makule
+14.15	old	kahiko
+14.16	early	koke
+14.16	early	mua
+14.16	early	hikimua
+14.16	early	mikiʔala
+14.17	late	lohi
+14.17	late	hope
+14.17	late	mahope
+14.17	late	liʔu
+14.18	now	ikēiamanawa
+14.18	now	ʔānō
+14.19	immediately	koke
+14.19	immediately	hikiwawe
+14.19	immediately	wawe
+14.21	swift, fast, quick	ʔāwīwī
+14.21	swift, fast, quick	wikiwiki
+14.21	swift, fast, quick	māmā
+14.21	swift, fast, quick	holo
+14.21	swift, fast, quick	koke
+14.21	swift, fast, quick	wawe
+14.21	swift, fast, quick	ʔeleu
+14.22	slow	lohi
+14.23	hasten, hurry	ʔāwīwī
+14.23	hasten, hurry	ʔāwiki
+14.23	hasten, hurry	hoʔowiki
+14.24	retard, delay	lohi
+14.24	retard, delay	kali
+14.24	retard, delay	hoʔokali
+14.24	retard, delay	ʔapa
+14.25	begin, beginning	hoʔomaka
+14.25	begin, beginning	hoʔokumu
+14.25	begin, beginning	makahou
+14.27	finish	hoʔopau
+14.27	finish	oki
+14.27	finish	hoʔōki
+14.28	cease, stop	hoʔopau
+14.28	cease, stop	hoʔokuʔu
+14.29	ready	mākaukau
+14.31	always	mau
+14.32	often	pinepine
+14.331	soon	koke
+14.331	soon	auaneʔi
+14.331	soon	koe
+14.331	soon	eiaaku
+14.34	never	ʔaʔole
+14.34	never	ʔaʔoleloa
+14.35	again	hou
+14.41	day	lā
+14.41	day	ao
+14.42	night	pō
+14.43	dawn	ao
+14.43	dawn	wanaʔao
+14.43	dawn	kaiao
+14.43	dawn	mokukapawa
+14.44	morning	kakahiaka
+14.45	noon, midday	awakea
+14.45	noon, midday	kaukalāikalolo
+14.451	afternoon	ʔauinalā
+14.46	evening	ahiahi
+14.46	evening	mōlehu
+14.47	today	kēialā
+14.48	tomorrow	ʔapōpō
+14.49	yesterday	nehinei
+14.49	yesterday	inehinei
+14.51	hour	hola
+14.53	clock, timepiece	uwaki
+14.61	week	pule
+14.62	Sunday	lāpule
+14.63	Monday	pōʔakahi
+14.64	Tuesday	pōʔalua
+14.65	Wednesday	pōʔakolu
+14.66	Thursday	pōʔahā
+14.67	Friday	pōʔalima
+14.68	Saturday	pōʔaōno
+14.71	month	mahina
+14.71	month	malama
+14.73	year	makahiki
+14.74	winter	hoʔoilo
+14.76	summer	kau
+14.76	summer	kauwela
+14.78	season	kau
+14.78	season	wā
+14.78	season	manawa
+15.21	smell (vb intrans)	honi
+15.21	smell (vb intrans)	honihoni
+15.25	fragrant, good smelling	ʔaʔala
+15.25	fragrant, good smelling	onaona
+15.25	fragrant, good smelling	paoa
+15.25	fragrant, good smelling	kūpaoa
+15.25	fragrant, good smelling	māpu
+15.25	fragrant, good smelling	moani
+15.26	stinking, bad smelling	pilau
+15.26	stinking, bad smelling	pilapilau
+15.26	stinking, bad smelling	ʔōhonohono
+15.26	stinking, bad smelling	hauna
+15.26	stinking, bad smelling	maea
+15.31	taste	hoʔāʔo
+15.35	sweet	momona
+15.37	bitter	ʔawa
+15.37	bitter	ʔawaʔawa
+15.38	acid, sour	ʔawa
+15.38	acid, sour	ʔawaʔawa
+15.38	acid, sour	mala
+15.38	acid, sour	malaia
+15.38	acid, sour	mulemule
+15.38	acid, sour	ʔīʔī
+15.41	hear	lohe
+15.41	hear	hoʔolono
+15.42	listen	lohe
+15.42	listen	hoʔolohe
+15.42	listen	hoʔolono
+15.44	sound, noise	hanakuli
+15.44	sound, noise	wā
+15.44	sound, noise	wawā
+15.44	sound, noise	kani
+15.46	quiet, silence	mālie
+15.46	quiet, silence	hoʔomālie
+15.46	quiet, silence	hilu
+15.46	quiet, silence	wailana
+15.46	quiet, silence	malu
+15.51	see	ʔike
+15.51	see	nānā
+15.51	see	maka
+15.51	see	hiʔohiʔona
+15.52	look, look at	nānā
+15.52	look, look at	nānāpono
+15.52	look, look at	kilo
+15.52	look, look at	hākilo
+15.55	show	hōʔike
+15.55	show	kuhikuhi
+15.56	shine	mālamalama
+15.56	shine	ʔālohilohi
+15.56	shine	ʔōlinolino
+15.56	shine	hulali
+15.56	shine	liko
+15.56	shine	ʔānapanapa
+15.57	bright	ʔalohi
+15.57	bright	ʔālohilohi
+15.57	bright	kōnane
+15.57	bright	ʔōlino
+15.57	bright	laʔelaʔe
+15.61	color	waihoʔoluʔu
+15.61	color	kala
+15.63	dark (in color)	mākuʔe
+15.64	white	keʔokeʔo
+15.64	white	kea
+15.65	black	ʔeleʔele
+15.65	black	ʔele
+15.65	black	pōʔele
+15.65	black	pāʔele
+15.65	black	uliuli
+15.65	black	hiwa
+15.65	black	hiwapaʔa
+15.66	red	ʔula
+15.66	red	ʔulaʔula
+15.66	red	wena
+15.67	blue	uli
+15.68	green	ʔōmaʔomaʔo
+15.68	green	ʔōmaʔo
+15.68	green	maʔomaʔo
+15.69	yellow	melemele
+15.69	yellow	ʔōlenalena
+15.71	touch	hāhā
+15.71	touch	hāhāhele
+15.71	touch	hāpapa
+15.71	touch	pā
+15.71	touch	hoʔopā
+15.71	touch	pili
+15.712	pinch	ʔiniki
+15.712	pinch	ʔūmiʔi
+15.712	pinch	ʔiniʔiniki
+15.74	hard	ʔoʔoleʔa
+15.74	hard	paʔa
+15.75	soft	palupalu
+15.75	soft	palu
+15.75	soft	nahe
+15.75	soft	nahenahe
+15.75	soft	hone
+15.76	rough	hoʔolua
+15.76	rough	ʔālualua
+15.76	rough	ʔōkala
+15.76	rough	kala
+15.77	smooth	malino
+15.77	smooth	paheʔe
+15.78	sharp	ʔoi
+15.78	sharp	ʔāwini
+15.78	sharp	ʔoiʔoi
+15.79	blunt, dull	kūmūmū
+15.79	blunt, dull	mūmū
+15.81	heavy	kaumaha
+15.81	heavy	koʔikoʔi
+15.82	light (in weight)	māmā
+15.83	wet, damp	maʔū
+15.83	wet, damp	hoʔomaʔū
+15.83	wet, damp	kawaū
+15.83	wet, damp	koʔū
+15.83	wet, damp	paʔū
+15.83	wet, damp	līhau
+15.83	wet, damp	pulu
+15.83	wet, damp	pulupē
+15.83	wet, damp	ʔelo
+15.84	dry	maloʔo
+15.85	hot	wela
+15.85	hot	hahana
+15.85	hot	ikiiki
+15.85	hot	wewela
+15.85	hot	wāwena
+15.851	warm	mahana
+15.851	warm	pumehana
+15.86	cold	anu
+15.86	cold	anuanu
+15.86	cold	koʔekoʔe
+15.86	cold	huʔihuʔi
+15.87	clean	maʔemaʔe
+15.88	dirty, soiled	hoʔolepo
+15.89	wrinkled	minomino
+15.89	wrinkled	ʔaluʔalu
+16.11	soul, spirit	ʔuhane
+16.11	soul, spirit	wailua
+16.11	soul, spirit	akua
+16.15	surprised, astonished	pūʔiwa
+16.15	surprised, astonished	hoʔopūʔiwa
+16.15	surprised, astonished	hoʔohaʔohaʔo
+16.18	good fortune, luck	pōmaikaʔi
+16.19	misfortune, bad luck	pōʔino
+16.19	misfortune, bad luck	pakalaki
+16.19	misfortune, bad luck	moewaʔa
+16.23	joyful, glad, happy	hauʔoli
+16.23	joyful, glad, happy	lauleʔa
+16.23	joyful, glad, happy	hoihoi
+16.23	joyful, glad, happy	ʔoli
+16.23	joyful, glad, happy	leʔa
+16.25	laugh	ʔaka
+16.25	laugh	ʔakaʔaka
+16.251	smile	minoʔaka
+16.26	play	pāʔani
+16.27	love	aloha
+16.27	love	ʔanoʔi
+16.27	love	nipo
+16.27	love	kāunu
+16.29	kiss	honi
+16.3	embrace	pūʔili
+16.3	embrace	pūliki
+16.3	embrace	ʔāpona
+16.3	embrace	kūwili
+16.3	embrace	apo
+16.31	pain	ʔeha
+16.31	pain	huʔi
+16.31	pain	nalulu
+16.32	grief, sorrow, sadness	kaumaha
+16.32	grief, sorrow, sadness	kaniʔuhū
+16.32	grief, sorrow, sadness	kūmakena
+16.32	grief, sorrow, sadness	ʔū
+16.32	grief, sorrow, sadness	luʔuluʔu
+16.33	anxiety, worry	hoʔopīhoihoi
+16.33	anxiety, worry	pīhoihoiokanaʔau
+16.37	cry, weep	uwē
+16.38	tear (noun)	waimaka
+16.39	groan	nā
+16.39	groan	ʔū
+16.39	groan	uhū
+16.39	groan	kaniʔū
+16.41	hate	ʔino
+16.41	hate	manaʔoʔino
+16.41	hate	puʔuwaiʔeleʔele
+16.41	hate	inaina
+16.42	anger	huhū
+16.42	anger	inaina
+16.42	anger	ukiuki
+16.42	anger	uluhua
+16.44	envy, jealousy	lili
+16.44	envy, jealousy	hūwā
+16.44	envy, jealousy	nini
+16.44	envy, jealousy	ʔōpūnini
+16.44	envy, jealousy	manawahūwā
+16.45	shame (noun)	hilahila
+16.45	shame (noun)	waia
+16.48	proud	hoʔokano
+16.48	proud	haʔaheo
+16.48	proud	haʔakei
+16.51	dare	ʔaʔa
+16.51	dare	hoʔohoa
+16.52	brave	koa
+16.52	brave	hoʔokoa
+16.52	brave	wiwoʔole
+16.53	fear, fright	makaʔu
+16.53	fear, fright	weli
+16.53	fear, fright	weliweli
+16.53	fear, fright	wiwo
+16.53	fear, fright	ʔeʔehia
+16.53	fear, fright	pūʔiwa
+16.54	danger	meapōʔino
+16.54	danger	makaʔu
+16.62	desire, want	makemake
+16.62	desire, want	ʔiʔini
+16.62	desire, want	ʔanoʔi
+16.62	desire, want	hia
+16.62	desire, want	make
+16.62	desire, want	ake
+16.62	desire, want	puni
+16.62	desire, want	ʔupu
+16.622	choose	koho
+16.622	choose	hoʔokoho
+16.622	choose	wae
+16.622	choose	hoʔowae
+16.622	choose	waewae
+16.63	hope	manaʔolana
+16.63	hope	ʔupu
+16.63	hope	lanakamanaʔo
+16.66	true	ʔoiāʔiʔo
+16.67	lie, tell lies	hoʔopunipuni
+16.67	lie, tell lies	wahaheʔe
+16.67	lie, tell lies	wahawale
+16.69	forgive	kala
+16.69	forgive	huikala
+16.71	good	maikaʔi
+16.72	bad	maikaiʔole
+16.72	bad	ʔino
+16.72	bad	kolohe
+16.73	right, correct	pololei
+16.73	right, correct	pono
+16.76	fault	hewa
+16.76	fault	hala
+16.76	fault	keʔe
+16.76	fault	kīnā
+16.77	mistake, error	hewa
+16.77	mistake, error	hala
+16.77	mistake, error	paʔewa
+16.77	mistake, error	kuhihewa
+16.77	mistake, error	lalau
+16.79	praise	mahalo
+16.79	praise	hoʔomaikaʔi
+16.79	praise	hoʔonani
+16.81	beautiful	nani
+16.81	beautiful	uʔi
+16.81	beautiful	maikaʔi
+16.81	beautiful	makalapua
+16.82	ugly	pupuka
+16.83	greedy	ʔālunu
+16.83	greedy	ʔānunu
+16.83	greedy	nunu
+16.84	clever	naʔauao
+17.11	mind	manaʔo
+17.11	mind	waihonanoʔonoʔa
+17.11	mind	naʔau
+17.13	think (= reflect)	manaʔo
+17.13	think (= reflect)	noʔonoʔo
+17.15	believe	manaʔoʔiʔo
+17.15	believe	hilinaʔi
+17.16	understand	maopopo
+17.16	understand	hoʔomaopopo
+17.17	know	ʔike
+17.171	guess	koho
+17.171	guess	kohowale
+17.171	guess	mahuʔi
+17.172	imitate	hoʔopili
+17.19	idea, notion	manaʔo
+17.21	wise	naʔauao
+17.21	wise	akamai
+17.22	foolish, stupid	lolohi
+17.22	foolish, stupid	leʔaleʔaʔole
+17.22	foolish, stupid	hoihoiʔole
+17.22	foolish, stupid	maluhi
+17.23	insane, crazy	pupule
+17.23	insane, crazy	hehena
+17.23	insane, crazy	hewahewa
+17.23	insane, crazy	lōlō
+17.23	insane, crazy	hūpō
+17.23	insane, crazy	hepa
+17.24	learn	aʔo
+17.24	learn	hoʔopaʔa
+17.24	learn	ʔiminaʔauao
+17.242	study	hoʔopaʔahaʔawina
+17.25	teach	aʔo
+17.25	teach	kula
+17.26	pupil	haumāna
+17.27	teacher	kumu
+17.27	teacher	kumuaʔo
+17.27	teacher	kumukula
+17.31	remember	hoʔomanaʔo
+17.31	remember	hoʔomaopopo
+17.32	forget	poina
+17.34	clear, plain	moakaaka
+17.36	secret	meahuna
+17.36	secret	hunamalū
+17.37	sure, certain	maopopoloa
+17.43	doubt	lā
+17.45	need, necessity	pono
+17.45	need, necessity	kūpono
+17.46	easy	hikiwale
+17.46	easy	maʔalahi
+17.47	difficult	paʔakikī
+17.47	difficult	hananui
+17.48	try, attempt	hoʔāʔo
+17.51	and	ā
+17.52	because	no
+17.52	because	nokamea
+17.52	because	ma
+17.52	because	i
+17.52	because	mao
+17.53	if	inā
+17.53	if	aianō
+17.53	if	i
+17.53	if	ke
+17.55	yes, affirmative	ʔae
+17.55	yes, affirmative	ʔē
+17.55	yes, affirmative	ō
+17.55	yes, affirmative	eō
+17.56	no, negative	ʔaʔole
+17.56	no, negative	ʔole
+17.56	no, negative	hōʔole
+17.56	no, negative	ʔaʔohe
+17.61	how?	pehea
+17.61	how?	pehealā
+17.63	how much?	ʔehia?
+17.64	what?	aha
+17.64	what?	heahakēla?
+17.65	when?	āhea?
+17.65	when?	ināhea?
+17.66	where?	aihea?
+17.66	where?	ihea?
+17.66	where?	aiaihea?
+17.66	where?	ʔauhea?
+17.67	which?	hea?
+17.67	which?	kameahea?
+17.68	who?	wai?
+17.68	who?	ʔowai?
+17.68	who?	iāwai?
+17.69	why?	aha
+17.69	why?	hea
+17.69	why?	nokeaha?
+18.11	voice	leo
+18.12	sing	mele
+18.12	sing	kani
+18.12	sing	leo
+18.13	shout, cry out	kani
+18.13	shout, cry out	oho
+18.13	shout, cry out	ʔuwā
+18.13	shout, cry out	hoʔōho
+18.13	shout, cry out	kanikapihe
+18.15	whisper	hāwanawana
+18.16	mumble	namunamu
+18.16	mumble	kolokolo
+18.17	whistle	hōkio
+18.17	whistle	hōkiokio
+18.17	whistle	pio
+18.18	shriek, screech	pūʔalalā
+18.18	shriek, screech	alawī
+18.21	speak, talk	ʔōlelo
+18.21	speak, talk	ʔōlelokūkā
+18.21	speak, talk	walaʔau
+18.21	speak, talk	kamaʔilio
+18.211	stutter, stammer	ʔūʔū
+18.211	stutter, stammer	māʔūʔū
+18.211	stutter, stammer	ʔāʔā
+18.22	say	ʔōlelo
+18.22	say	haʔi
+18.22	say	ʔī
+18.22	say	wahia
+18.22	say	pēlā
+18.22	say	meamai
+18.221	tell story	moʔolelo
+18.221	tell story	kaʔao
+18.222	speech (make a)	haʔiʔōlelo
+18.23	silent (be)	hāmau
+18.23	silent (be)	leoʔole
+18.24	language	ʔōlelo
+18.26	word	ʔōlelo
+18.26	word	huaʔōlelo
+18.26	word	hua
+18.28	name	inoa
+18.31	ask (question, inquire)	nīnau
+18.31	ask (question, inquire)	ui
+18.32	answer	pane
+18.32	answer	hualoaʔa
+18.33	admit, confess	mihi
+18.34	deny	hōʔole
+18.34	deny	ʔole
+18.34	deny	hoʔonele
+18.35	ask, request	noi
+18.35	ask, request	nonoi
+18.36	promise	ʔōlelopaʔa
+18.36	promise	ʔōlelohoʔohiki
+18.38	forbid	pāpā
+18.38	forbid	hoʔokapu
+18.38	forbid	hōʔole
+18.39	rebuke, scold	nuku
+18.39	rebuke, scold	keʔu
+18.39	rebuke, scold	hoʔokekēniho
+18.39	rebuke, scold	huhū
+18.41	call (=summon)	hea
+18.41	call (=summon)	kāhea
+18.42	call (=name)	hea
+18.42	call (=name)	heainoa
+18.42	call (=name)	kapa
+18.42	call (=name)	kāhea
+18.43	announce	hōʔike
+18.43	announce	kūkala
+18.45	boast	kaena
+18.45	boast	haʔanui
+18.45	boast	liki
+18.45	boast	haʔakei
+18.51	write	kākau
+18.51	write	kākaulima
+18.52	read	heluhelu
+18.57	pen	penikila
+18.57	pen	penikala
+18.67	poet	hakumele
+18.71	flute	ʔohekani
+18.71	flute	puhiʔohe
+18.71	flute	ʔohepuluka
+18.71	flute	puluka
+18.72	drum	pahu
+18.72	drum	ipu
+18.73	horn, trumpet	pū
+18.73	horn, trumpet	pūpuhi
+18.73	horn, trumpet	pūhoʔokani
+18.74	rattle	koʔele
+18.74	rattle	nakeke
+19.11	country	ʔāina
+19.11	country	ʔāinamakua
+19.12	one's native country	aupuni
+19.12	one's native country	lāhui
+19.15	city, town	kūlanakauhale
+19.15	city, town	kaona
+19.16	village	kauhale
+19.16	village	kūlanakauhale
+19.17	boundary	palena
+19.17	boundary	mokuna
+19.17	boundary	ʔaoʔao
+19.17	boundary	kapa
+19.17	boundary	lihi
+19.21	people (populace)	poʔe
+19.21	people (populace)	lāhui
+19.21	people (populace)	lāhuikanaka
+19.21	people (populace)	kānaka
+19.23	tribe, clan	lāhui
+19.23	tribe, clan	ʔohananui
+19.23	tribe, clan	ʔohanaholoʔokoʔa
+19.23	tribe, clan	ʔalaea
+19.24	chief, chieftain	aliʔi
+19.24	chief, chieftain	lani
+19.24	chief, chieftain	poʔo
+19.24	chief, chieftain	luna
+19.24	chief, chieftain	mua
+19.25	staff, walking stick	koʔokoʔo
+19.31	rule, govern	hoʔomalu
+19.31	rule, govern	nohoaupuni
+19.31	rule, govern	nohoaliʔi
+19.32	king, ruler	mōʔī
+19.32	king, ruler	aliʔikāne
+19.32	king, ruler	kini
+19.32	king, ruler	kiaʔāina
+19.32	king, ruler	lani
+19.33	queen	mōʔīwahine
+19.33	queen	aliʔiwahine
+19.33	queen	kuini
+19.37	citizen, subject	kupa
+19.37	citizen, subject	makaʔāinana
+19.41	master	haku
+19.41	master	kahu
+19.42	slave	kauwā
+19.43	servant	kanakahana
+19.43	servant	kanakalawelawe
+19.43	servant	wahinehana
+19.45	command, order	kauoha
+19.45	command, order	kēnā
+19.45	command, order	hoʔoūna
+19.46	obey	lohe
+19.46	obey	hoʔolono
+19.46	obey	hoʔolohe
+19.51	friend, companion	hoa
+19.51	friend, companion	hoaloha
+19.51	friend, companion	kōkoʔolua
+19.52	enemy	hoapaio
+19.52	enemy	hoakaua
+19.54	neighbor	hoanoho
+19.54	neighbor	hoalauna
+19.55	stranger	kanakaʔē
+19.55	stranger	haole
+19.55	stranger	maikaʔāinaʔēmai
+19.55	stranger	malihini
+19.55	stranger	meaʔē
+19.56	guest	malihinikipa
+19.56	guest	meaikonoʔia
+19.57	host	hakuhale
+19.57	host	meahoʔokipa
+19.58	help, aid	kōkua
+19.58	help, aid	lawelawelima
+19.59	hinder, prevent	ālai
+19.59	hinder, prevent	keʔa
+19.59	hinder, prevent	hoʔokeʔa
+19.59	hinder, prevent	hoʔokāpae
+19.65	meet	hui
+19.65	meet	hālāwai
+19.72	prostitute	wahinehoʔokamakama
+19.72	prostitute	wahinelaikini
+20.11	fight (vb)	hakakā
+20.11	fight (vb)	paio
+20.11	fight (vb)	kaua
+20.11	fight (vb)	mokomoko
+20.13	war, battle	kaua
+20.13	war, battle	hoʔoūkakaua
+20.13	war, battle	paio
+20.14	peace	malu
+20.14	peace	maluhia
+20.14	peace	laʔi
+20.15	army	pūʔali
+20.15	army	kaua
+20.17	soldier	koa
+20.17	soldier	pūʔali
+20.22	club	lāʔau
+20.22	club	lāʔaupālau
+20.22	club	lāʔaumākaʔi
+20.22	club	pālau
+20.22	club	newa
+20.23	sling	maʔa
+20.24	bow	pana
+20.24	bow	panaʔiole
+20.24	bow	kīkoʔo
+20.25	arrow	pua
+20.25	arrow	puapana
+20.26	spear	ihe
+20.26	spear	ihepaheʔe
+20.26	spear	iheʔō
+20.26	spear	kao
+20.26	spear	hāpuna
+20.26	spear	ihepakelo
+20.26	spear	pololū
+20.27	sword	pahikaua
+20.28	gun, cannon	pū
+20.28	gun, cannon	pūkuniahi
+20.33	helmet	ʔaʔahuapoʔo
+20.33	helmet	mahiole
+20.34	shield	pālulu
+20.34	shield	pale
+20.36	tower	ʔaleʔo
+20.36	tower	pūʔoʔa
+20.41	victory	lanakila
+20.41	victory	eo
+20.42	defeat	make
+20.42	defeat	hoʔopio
+20.42	defeat	holopapa
+20.42	defeat	hōʔauheʔe
+20.42	defeat	lilo
+20.42	defeat	hāʔule
+20.44	defend	pale
+20.44	defend	kūpale
+20.44	defend	ālai
+20.44	defend	ʔōlelopale
+20.46	surrender	haʔawipio
+20.46	surrender	hāʔulepio
+20.47	captive, prisoner	lawepio
+20.47	captive, prisoner	hopu
+20.47	captive, prisoner	paʔahao
+20.471	guard, sentinel	kiaʔi
+20.471	guard, sentinel	meakiaʔi
+20.471	guard, sentinel	mākaʔi
+20.471	guard, sentinel	makaʔina
+20.471	guard, sentinel	pale
+20.48	booty, spoils	waiwaikaua
+20.48	booty, spoils	loaʔa
+20.51	fisherman	lawaiʔa
+20.52	fishhook	makau
+20.52	fishhook	lou
+20.53	fishing line	aho
+20.54	fishnet	ʔupena
+20.56	bait	maunu
+20.61	hunt	hahai
+20.61	hunt	ʔimi
+20.61	hunt	hahaiholoholona
+20.63	miss (target)	hala
+20.63	miss (target)	hewa
+20.64	trap (noun)	ʔūmiʔi
+20.64	trap (noun)	ʔūpiki
+20.64	trap (noun)	pahele
+21.11	law	kānāwai
+21.15	court	ʔaha
+21.15	court	ʔahakaʔapuni
+21.16	judge (vb)	hoʔokolokolo
+21.16	judge (vb)	lunakānāwai
+21.17	judgment	ʔōlelohoʔoholo
+21.23	witness	hōʔike
+21.24	swear	hoʔohiki
+21.25	oath	hoʔohiki
+21.25	oath	ʔōlelohoʔohiki
+21.25	oath	ʔōlelepaʔa
+21.35	guilty	hewa
+21.37	penalty, punishment	hoʔopaʔi
+21.39	prison, jail	halepaʔahao
+21.42	murder	pepehikanaka
+21.44	rape	puʔe
+21.44	rape	puʔewale
+21.51	steal	wāwahi
+21.51	steal	ʔaihue
+21.51	steal	pōwā
+21.52	thief	ʔaihue

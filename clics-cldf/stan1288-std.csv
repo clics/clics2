@@ -1,0 +1,1734 @@
+ID,Language_ID,Feature_ID,IDS_Key,Value,Concept,IPA_UDECODE
+clics-doculect-76-1,stan1288-std,concepticon-965,1.1,mundo,world,mundo
+clics-doculect-76-2,stan1288-std,concepticon-626,1.21,tierra,"earth, land",tierra
+clics-doculect-76-3,stan1288-std,concepticon-1228,1.212,suelo,"earth=ground, soil",suelo
+clics-doculect-76-4,stan1288-std,concepticon-2,1.213,polvo,dust,polvo
+clics-doculect-76-5,stan1288-std,concepticon-640,1.214,lodo,mud,lodo
+clics-doculect-76-6,stan1288-std,concepticon-671,1.215,arena,sand,arena
+clics-doculect-76-7,stan1288-std,concepticon-2118,1.22,montaɲa,"mountain, hill",montana
+clics-doculect-76-8,stan1288-std,concepticon-2118,1.22,loma,"mountain, hill",loma
+clics-doculect-76-9,stan1288-std,concepticon-2118,1.22,cerro,"mountain, hill",cerro
+clics-doculect-76-10,stan1288-std,concepticon-618,1.222,acantilado,"cliff, precipice",acantilado
+clics-doculect-76-11,stan1288-std,concepticon-618,1.222,barranca,"cliff, precipice",barranca
+clics-doculect-76-12,stan1288-std,concepticon-652,1.23,pampa,"plain, field",pampa
+clics-doculect-76-13,stan1288-std,concepticon-652,1.23,llanura,"plain, field",llanura
+clics-doculect-76-14,stan1288-std,concepticon-652,1.23,campo,"plain, field",campo
+clics-doculect-76-15,stan1288-std,concepticon-921,1.24,valle,valley,valle
+clics-doculect-76-16,stan1288-std,concepticon-622,1.25,isla,island,isla
+clics-doculect-76-17,stan1288-std,concepticon-166,1.26,continente,mainland,continente
+clics-doculect-76-18,stan1288-std,concepticon-166,1.26,tierrafirme,mainland,tierrafirme
+clics-doculect-76-19,stan1288-std,concepticon-113,1.27,ribera,shore,ribera
+clics-doculect-76-20,stan1288-std,concepticon-113,1.27,playa,shore,playa
+clics-doculect-76-21,stan1288-std,concepticon-113,1.27,costa,shore,costa
+clics-doculect-76-22,stan1288-std,concepticon-1155,1.28,cueva,cave,cueva
+clics-doculect-76-23,stan1288-std,concepticon-1155,1.28,gruta,cave,gruta
+clics-doculect-76-24,stan1288-std,concepticon-948,1.31,agua,water,agua
+clics-doculect-76-25,stan1288-std,concepticon-1474,1.32,mar,sea,mar
+clics-doculect-76-26,stan1288-std,concepticon-258,1.322,calma,calm (of sea),calma
+clics-doculect-76-27,stan1288-std,concepticon-259,1.323,agitado,rough (of sea),agitado
+clics-doculect-76-28,stan1288-std,concepticon-259,1.323,borrascoso,rough (of sea),borrascoso
+clics-doculect-76-29,stan1288-std,concepticon-1768,1.324,espuma,foam,espuma
+clics-doculect-76-30,stan1288-std,concepticon-645,1.329,océano,ocean,oceano
+clics-doculect-76-31,stan1288-std,concepticon-624,1.33,lago,lake,lago
+clics-doculect-76-32,stan1288-std,concepticon-663,1.34,golfo,"gulf, bay",golfo
+clics-doculect-76-33,stan1288-std,concepticon-663,1.34,bahía,"gulf, bay",bahia
+clics-doculect-76-34,stan1288-std,concepticon-623,1.341,laguna,lagoon,laguna
+clics-doculect-76-35,stan1288-std,concepticon-660,1.342,arrecife,reef,arrecife
+clics-doculect-76-36,stan1288-std,concepticon-1662,1.343,promontorio,"headland, point",promontorio
+clics-doculect-76-37,stan1288-std,concepticon-1662,1.343,punta,"headland, point",punta
+clics-doculect-76-38,stan1288-std,concepticon-978,1.35,ola,wave,ola
+clics-doculect-76-39,stan1288-std,concepticon-891,1.352,marea,tide,marea
+clics-doculect-76-40,stan1288-std,concepticon-1026,1.353,bajamar,lowtide,bajamar
+clics-doculect-76-41,stan1288-std,concepticon-613,1.354,pleamar,hightide,pleamar
+clics-doculect-76-42,stan1288-std,concepticon-666,1.36,río,"river, stream, brook",rio
+clics-doculect-76-43,stan1288-std,concepticon-666,1.36,corriente,"river, stream, brook",corriente
+clics-doculect-76-44,stan1288-std,concepticon-666,1.36,arroyo,"river, stream, brook",arroyo
+clics-doculect-76-45,stan1288-std,concepticon-1982,1.362,remolino,whirlpool,remolino
+clics-doculect-76-46,stan1288-std,concepticon-2144,1.37,manantial,"spring, well",manantial
+clics-doculect-76-47,stan1288-std,concepticon-2144,1.37,pozo,"spring, well",pozo
+clics-doculect-76-48,stan1288-std,concepticon-1145,1.38,pantano,swamp,pantano
+clics-doculect-76-49,stan1288-std,concepticon-943,1.39,cascada,waterfall,cascada
+clics-doculect-76-50,stan1288-std,concepticon-943,1.39,salto,waterfall,salto
+clics-doculect-76-51,stan1288-std,concepticon-420,1.41,bosque,"woods, forest",bosque
+clics-doculect-76-52,stan1288-std,concepticon-420,1.41,selva,"woods, forest",selva
+clics-doculect-76-54,stan1288-std,concepticon-1803,1.43,madera,wood,madera
+clics-doculect-76-55,stan1288-std,concepticon-2125,1.44,piedra,"stone, rock",piedra
+clics-doculect-76-56,stan1288-std,concepticon-2125,1.44,roca,"stone, rock",roca
+clics-doculect-76-57,stan1288-std,concepticon-6,1.45,terremoto,earthquake,terremoto
+clics-doculect-76-58,stan1288-std,concepticon-6,1.45,temblor,earthquake,temblor
+clics-doculect-76-59,stan1288-std,concepticon-1732,1.51,cielo,sky,cielo
+clics-doculect-76-60,stan1288-std,concepticon-1343,1.52,sol,sun,sol
+clics-doculect-76-61,stan1288-std,concepticon-1313,1.53,luna,moon,luna
+clics-doculect-76-62,stan1288-std,concepticon-1430,1.54,estrella,star,estrella
+clics-doculect-76-63,stan1288-std,concepticon-1654,1.55,relámpago,lightning,relampago
+clics-doculect-76-64,stan1288-std,concepticon-1150,1.56,trueno,thunder,trueno
+clics-doculect-76-65,stan1288-std,concepticon-2007,1.57,rayo,lightning (as striking),rayo
+clics-doculect-76-66,stan1288-std,concepticon-858,1.58,tempestad,storm,tempestad
+clics-doculect-76-67,stan1288-std,concepticon-858,1.58,tormenta,storm,tormenta
+clics-doculect-76-68,stan1288-std,concepticon-1733,1.59,arcoiris,rainbow,arcoiris
+clics-doculect-76-69,stan1288-std,concepticon-630,1.61,luz,light (noun),luz
+clics-doculect-76-70,stan1288-std,concepticon-11,1.62,oscuridad,darkness,oscuridad
+clics-doculect-76-71,stan1288-std,concepticon-11,1.62,tinieblas,darkness,tinieblas
+clics-doculect-76-72,stan1288-std,concepticon-1388,1.63,sombra,"shade, shadow",sombra
+clics-doculect-76-73,stan1288-std,concepticon-1977,1.64,rocío,dew,rocio
+clics-doculect-76-74,stan1288-std,concepticon-27,1.71,aire,air,aire
+clics-doculect-76-75,stan1288-std,concepticon-960,1.72,viento,wind,viento
+clics-doculect-76-76,stan1288-std,concepticon-1489,1.73,nube,cloud,nube
+clics-doculect-76-77,stan1288-std,concepticon-249,1.74,neblina,fog,neblina
+clics-doculect-76-78,stan1288-std,concepticon-249,1.74,niebla,fog,niebla
+clics-doculect-76-79,stan1288-std,concepticon-658,1.75,lluvia,rain (noun),lluvia
+clics-doculect-76-80,stan1288-std,concepticon-784,1.76,nieve,snow (noun),nieve
+clics-doculect-76-81,stan1288-std,concepticon-617,1.77,hielo,ice,hielo
+clics-doculect-76-82,stan1288-std,concepticon-952,1.78,tiempo,weather,tiempo
+clics-doculect-76-83,stan1288-std,concepticon-221,1.81,fuego,fire,fuego
+clics-doculect-76-84,stan1288-std,concepticon-889,1.82,llama,flame (noun),llama
+clics-doculect-76-85,stan1288-std,concepticon-778,1.83,humo,smoke (noun),humo
+clics-doculect-76-86,stan1288-std,concepticon-646,1.84,cenizas,ashes,cenizas
+clics-doculect-76-87,stan1288-std,concepticon-67,1.841,brasas,embers,brasas
+clics-doculect-76-88,stan1288-std,concepticon-141,1.851,quemar,burn (vb trans),quemar
+clics-doculect-76-89,stan1288-std,concepticon-141,1.851,quemarse,burn (vb trans),quemarse
+clics-doculect-76-90,stan1288-std,concepticon-1428,1.852,arder,burn (vb intrans),arder
+clics-doculect-76-91,stan1288-std,concepticon-737,1.86,encender,"light, kindle, ignite",encender
+clics-doculect-76-92,stan1288-std,concepticon-127,1.861,apagar,extinguish,apagar
+clics-doculect-76-93,stan1288-std,concepticon-127,1.861,extinguir,extinguish,extinguir
+clics-doculect-76-94,stan1288-std,concepticon-1133,1.87,fósforo,match (noun),fosforo
+clics-doculect-76-95,stan1288-std,concepticon-1133,1.87,cerilla,match (noun),cerilla
+clics-doculect-76-96,stan1288-std,concepticon-10,1.88,leɲa,firewood,lena
+clics-doculect-76-97,stan1288-std,concepticon-1188,1.89,carbón,charcoal,carbon
+clics-doculect-76-98,stan1288-std,concepticon-683,2.1,persona,"person, human being",persona
+clics-doculect-76-99,stan1288-std,concepticon-1554,2.21,hombre,man (vs. woman),hombre
+clics-doculect-76-100,stan1288-std,concepticon-962,2.22,mujer,woman,mujer
+clics-doculect-76-101,stan1288-std,concepticon-1553,2.23,varón,male,varon
+clics-doculect-76-102,stan1288-std,concepticon-1553,2.23,macho,male,macho
+clics-doculect-76-103,stan1288-std,concepticon-1551,2.24,hembra,female,hembra
+clics-doculect-76-104,stan1288-std,concepticon-1366,2.25,muchacho,boy,muchacho
+clics-doculect-76-105,stan1288-std,concepticon-76,2.251,eljoven,young man (adolescent),eljoven
+clics-doculect-76-106,stan1288-std,concepticon-1646,2.26,muchacha,girl,muchacha
+clics-doculect-76-107,stan1288-std,concepticon-77,2.261,lajoven,young woman (adolescent),lajoven
+clics-doculect-76-108,stan1288-std,concepticon-1304,2.27,niɲo,child,nino
+clics-doculect-76-109,stan1288-std,concepticon-1289,2.28,niɲo,"infant, baby",nino
+clics-doculect-76-110,stan1288-std,concepticon-1289,2.28,bebé,"infant, baby",bebe
+clics-doculect-76-111,stan1288-std,concepticon-1289,2.28,nene,"infant, baby",nene
+clics-doculect-76-112,stan1288-std,concepticon-1200,2.31,marido,husband,marido
+clics-doculect-76-113,stan1288-std,concepticon-1200,2.31,esposo,husband,esposo
+clics-doculect-76-114,stan1288-std,concepticon-1199,2.32,esposa,wife,esposa
+clics-doculect-76-115,stan1288-std,concepticon-203,2.33,casarse,marry,casarse
+clics-doculect-76-116,stan1288-std,concepticon-1259,2.34,casamiento,"marriage, wedding",casamiento
+clics-doculect-76-117,stan1288-std,concepticon-1259,2.34,boda,"marriage, wedding",boda
+clics-doculect-76-118,stan1288-std,concepticon-1134,2.341,divorcio,divorce,divorcio
+clics-doculect-76-119,stan1288-std,concepticon-1217,2.35,padre,father,padre
+clics-doculect-76-120,stan1288-std,concepticon-1216,2.36,madre,mother,madre
+clics-doculect-76-121,stan1288-std,concepticon-505,2.37,padres,parents,padres
+clics-doculect-76-122,stan1288-std,concepticon-424,2.38,hombrecasado,married man,hombrecasado
+clics-doculect-76-123,stan1288-std,concepticon-426,2.39,mujercasada,married woman,mujercasada
+clics-doculect-76-124,stan1288-std,concepticon-1620,2.41,hijo,son,hijo
+clics-doculect-76-125,stan1288-std,concepticon-1357,2.42,hija,daughter,hija
+clics-doculect-76-126,stan1288-std,concepticon-1801,2.43,hijo,offspring (son or daughter),hijo
+clics-doculect-76-127,stan1288-std,concepticon-1801,2.43,hija,offspring (son or daughter),hija
+clics-doculect-76-128,stan1288-std,concepticon-1262,2.44,hermano,brother,hermano
+clics-doculect-76-129,stan1288-std,concepticon-1759,2.444,hermanomayor,older brother,hermanomayor
+clics-doculect-76-130,stan1288-std,concepticon-1760,2.445,hermanomenor,younger brother,hermanomenor
+clics-doculect-76-131,stan1288-std,concepticon-1263,2.45,hermana,sister,hermana
+clics-doculect-76-132,stan1288-std,concepticon-1758,2.454,hermanamayor,older sister,hermanamayor
+clics-doculect-76-133,stan1288-std,concepticon-1761,2.455,hermanamenor,younger sister,hermanamenor
+clics-doculect-76-134,stan1288-std,concepticon-1640,2.456,hermano,sibling,hermano
+clics-doculect-76-135,stan1288-std,concepticon-1640,2.456,hermana,sibling,hermana
+clics-doculect-76-136,stan1288-std,concepticon-1005,2.458,gemelos,twins,gemelos
+clics-doculect-76-137,stan1288-std,concepticon-1005,2.458,mellizo,twins,mellizo
+clics-doculect-76-138,stan1288-std,concepticon-1383,2.46,abuelo,grandfather,abuelo
+clics-doculect-76-139,stan1288-std,concepticon-406,2.461,anciano,old man,anciano
+clics-doculect-76-140,stan1288-std,concepticon-406,2.461,hombreviejo,old man,hombreviejo
+clics-doculect-76-141,stan1288-std,concepticon-1496,2.47,abuela,grandmother,abuela
+clics-doculect-76-142,stan1288-std,concepticon-907,2.471,anciana,old woman,anciana
+clics-doculect-76-143,stan1288-std,concepticon-907,2.471,mujervieja,old woman,mujervieja
+clics-doculect-76-144,stan1288-std,concepticon-1618,2.48,nieto,grandson,nieto
+clics-doculect-76-145,stan1288-std,concepticon-1619,2.49,nieta,granddaughter,nieta
+clics-doculect-76-146,stan1288-std,concepticon-1327,2.51,tío,uncle,tio
+clics-doculect-76-147,stan1288-std,concepticon-1984,2.511,hermanodelamadre,mother's brother,hermanodelamadre
+clics-doculect-76-148,stan1288-std,concepticon-1985,2.512,hermanodelpadre,father's brother,hermanodelpadre
+clics-doculect-76-149,stan1288-std,concepticon-1272,2.52,tía,aunt,tia
+clics-doculect-76-150,stan1288-std,concepticon-171,2.521,hermanadelamadre,mother's sister,hermanadelamadre
+clics-doculect-76-151,stan1288-std,concepticon-170,2.522,hermanadelpadre,father's sister,hermanadelpadre
+clics-doculect-76-152,stan1288-std,concepticon-1063,2.53,sobrino,nephew,sobrino
+clics-doculect-76-153,stan1288-std,concepticon-1642,2.54,sobrina,niece,sobrina
+clics-doculect-76-154,stan1288-std,concepticon-1643,2.55,primo,cousin,primo
+clics-doculect-76-155,stan1288-std,concepticon-1643,2.55,prima,cousin,prima
+clics-doculect-76-156,stan1288-std,concepticon-1669,2.56,antepasados,ancestors,antepasados
+clics-doculect-76-157,stan1288-std,concepticon-490,2.57,descendientes,descendants,descendientes
+clics-doculect-76-158,stan1288-std,concepticon-2255,2.61,suegro,father-in-law (of a man),suegro
+clics-doculect-76-159,stan1288-std,concepticon-2254,2.611,suegro,father-in-law (of a woman),suegro
+clics-doculect-76-160,stan1288-std,concepticon-2256,2.62,suegra,mother-in-law (of a man),suegra
+clics-doculect-76-161,stan1288-std,concepticon-2257,2.621,suegra,mother-in-law (of a woman),suegra
+clics-doculect-76-162,stan1288-std,concepticon-2267,2.63,yerno,son-in-law (of a man),yerno
+clics-doculect-76-163,stan1288-std,concepticon-2266,2.631,yerno,son-in-law (of a woman),yerno
+clics-doculect-76-164,stan1288-std,concepticon-2265,2.64,nuera,daughter-in-law (of a man),nuera
+clics-doculect-76-165,stan1288-std,concepticon-2264,2.641,nuera,daughter-in-law (of a woman),nuera
+clics-doculect-76-166,stan1288-std,concepticon-237,2.71,padrastro,stepfather,padrastro
+clics-doculect-76-167,stan1288-std,concepticon-236,2.72,madrastra,stepmother,madrastra
+clics-doculect-76-168,stan1288-std,concepticon-1059,2.73,hijastro,stepson,hijastro
+clics-doculect-76-169,stan1288-std,concepticon-1059,2.73,entenado,stepson,entenado
+clics-doculect-76-170,stan1288-std,concepticon-1058,2.74,hijastra,stepdaughter,hijastra
+clics-doculect-76-171,stan1288-std,concepticon-1058,2.74,entenada,stepdaughter,entenada
+clics-doculect-76-172,stan1288-std,concepticon-1149,2.75,huérfano,orphan,huerfano
+clics-doculect-76-173,stan1288-std,concepticon-1149,2.75,huérfana,orphan,huerfana
+clics-doculect-76-174,stan1288-std,concepticon-1756,2.76,viuda,widow,viuda
+clics-doculect-76-175,stan1288-std,concepticon-1981,2.77,viudo,widower,viudo
+clics-doculect-76-176,stan1288-std,concepticon-1644,2.81,parientes,"relatives, kinsmen",parientes
+clics-doculect-76-177,stan1288-std,concepticon-1644,2.81,parentela,"relatives, kinsmen",parentela
+clics-doculect-76-178,stan1288-std,concepticon-194,2.82,familia,family,familia
+clics-doculect-76-179,stan1288-std,concepticon-1209,2.91,yo,I,yo
+clics-doculect-76-180,stan1288-std,concepticon-1215,2.92,tú,you (singular),tu
+clics-doculect-76-181,stan1288-std,concepticon-1215,2.92,usted,you (singular),usted
+clics-doculect-76-182,stan1288-std,concepticon-262,2.93,él,he/she/it,el
+clics-doculect-76-183,stan1288-std,concepticon-262,2.93,ella,he/she/it,ella
+clics-doculect-76-184,stan1288-std,concepticon-262,2.93,ello,he/she/it,ello
+clics-doculect-76-185,stan1288-std,concepticon-1212,2.94,nosotros,we,nosotros
+clics-doculect-76-186,stan1288-std,concepticon-1212,2.94,nosotras,we,nosotras
+clics-doculect-76-187,stan1288-std,concepticon-1131,2.941,nosotros,we (inclusive),nosotros
+clics-doculect-76-188,stan1288-std,concepticon-1131,2.941,nosotras,we (inclusive),nosotras
+clics-doculect-76-189,stan1288-std,concepticon-1130,2.942,nosotros,we (exclusive),nosotros
+clics-doculect-76-190,stan1288-std,concepticon-1130,2.942,nosotras,we (exclusive),nosotras
+clics-doculect-76-191,stan1288-std,concepticon-1213,2.95,ustedes,you (plural),ustedes
+clics-doculect-76-192,stan1288-std,concepticon-817,2.96,ellos,they,ellos
+clics-doculect-76-193,stan1288-std,concepticon-817,2.96,ellas,they,ellas
+clics-doculect-76-194,stan1288-std,concepticon-619,3.11,animal,animal,animal
+clics-doculect-76-195,stan1288-std,concepticon-2261,3.12,masculino,male (adj),masculino
+clics-doculect-76-196,stan1288-std,concepticon-2261,3.12,macho,male (adj),macho
+clics-doculect-76-197,stan1288-std,concepticon-2262,3.13,femenino,female (adj),femenino
+clics-doculect-76-198,stan1288-std,concepticon-2262,3.13,hembra,female (adj),hembra
+clics-doculect-76-199,stan1288-std,concepticon-631,3.15,ganado,livestock,ganado
+clics-doculect-76-200,stan1288-std,concepticon-649,3.16,pradera,pasture,pradera
+clics-doculect-76-201,stan1288-std,concepticon-649,3.16,potrero,pasture,potrero
+clics-doculect-76-202,stan1288-std,concepticon-263,3.18,pastor,herdsman,pastor
+clics-doculect-76-203,stan1288-std,concepticon-263,3.18,vaquero,herdsman,vaquero
+clics-doculect-76-204,stan1288-std,concepticon-851,3.19,establo,"stable, stall",establo
+clics-doculect-76-205,stan1288-std,concepticon-1153,3.2,ganado,cattle (bovine),ganado
+clics-doculect-76-206,stan1288-std,concepticon-1008,3.21,toro,bull,toro
+clics-doculect-76-207,stan1288-std,concepticon-1169,3.22,buey,ox,buey
+clics-doculect-76-208,stan1288-std,concepticon-1007,3.23,vaca,cow,vaca
+clics-doculect-76-209,stan1288-std,concepticon-1989,3.24,becerro,calf,becerro
+clics-doculect-76-210,stan1288-std,concepticon-1989,3.24,ternero,calf,ternero
+clics-doculect-76-211,stan1288-std,concepticon-1331,3.25,oveja,sheep,oveja
+clics-doculect-76-212,stan1288-std,concepticon-1344,3.26,carnero,ram,carnero
+clics-doculect-76-213,stan1288-std,concepticon-1344,3.26,morueco,ram,morueco
+clics-doculect-76-214,stan1288-std,concepticon-1345,3.28,oveja,ewe,oveja
+clics-doculect-76-215,stan1288-std,concepticon-820,3.29,borrego,lamb,borrego
+clics-doculect-76-216,stan1288-std,concepticon-820,3.29,cordero,lamb,cordero
+clics-doculect-76-217,stan1288-std,concepticon-1348,3.32,jabalí,boar,jabali
+clics-doculect-76-218,stan1288-std,concepticon-1351,3.34,puerca,sow,puerca
+clics-doculect-76-219,stan1288-std,concepticon-1351,3.34,cochina,sow,cochina
+clics-doculect-76-220,stan1288-std,concepticon-1351,3.34,cerda,sow,cerda
+clics-doculect-76-221,stan1288-std,concepticon-1337,3.35,cerdo,pig,cerdo
+clics-doculect-76-222,stan1288-std,concepticon-1337,3.35,puerco,pig,puerco
+clics-doculect-76-223,stan1288-std,concepticon-1337,3.35,chancho,pig,chancho
+clics-doculect-76-224,stan1288-std,concepticon-1502,3.36,cabra,goat,cabra
+clics-doculect-76-225,stan1288-std,concepticon-264,3.37,chivo,he-goat,chivo
+clics-doculect-76-226,stan1288-std,concepticon-264,3.37,machocabrío,he-goat,machocabrio
+clics-doculect-76-227,stan1288-std,concepticon-1972,3.38,cabrito,kid,cabrito
+clics-doculect-76-228,stan1288-std,concepticon-615,3.41,caballo,horse (equine),caballo
+clics-doculect-76-229,stan1288-std,concepticon-936,3.42,caballopadre,stallion,caballopadre
+clics-doculect-76-230,stan1288-std,concepticon-936,3.42,semental,stallion,semental
+clics-doculect-76-231,stan1288-std,concepticon-938,3.44,yegua,mare,yegua
+clics-doculect-76-232,stan1288-std,concepticon-1647,3.45,potro,"foal, colt",potro
+clics-doculect-76-233,stan1288-std,concepticon-1647,3.45,potrillo,"foal, colt",potrillo
+clics-doculect-76-234,stan1288-std,concepticon-1862,3.46,asno,"ass, donkey",asno
+clics-doculect-76-235,stan1288-std,concepticon-1862,3.46,burro,"ass, donkey",burro
+clics-doculect-76-236,stan1288-std,concepticon-890,3.47,mulo,mule,mulo
+clics-doculect-76-237,stan1288-std,concepticon-890,3.47,mula,mule,mula
+clics-doculect-76-238,stan1288-std,concepticon-265,3.5,ave,fowl,ave
+clics-doculect-76-239,stan1288-std,concepticon-1511,3.52,gallo,"cock, rooster",gallo
+clics-doculect-76-240,stan1288-std,concepticon-1514,3.54,gallina,hen,gallina
+clics-doculect-76-241,stan1288-std,concepticon-1318,3.55,pollo,chicken,pollo
+clics-doculect-76-242,stan1288-std,concepticon-1187,3.56,ganso,goose,ganso
+clics-doculect-76-243,stan1288-std,concepticon-1360,3.57,pato,duck,pato
+clics-doculect-76-244,stan1288-std,concepticon-1360,3.57,ánade,duck,anade
+clics-doculect-76-245,stan1288-std,concepticon-539,3.58,nido,nest,nido
+clics-doculect-76-246,stan1288-std,concepticon-937,3.581,pájaro,bird,pajaro
+clics-doculect-76-247,stan1288-std,concepticon-937,3.581,ave,bird,ave
+clics-doculect-76-248,stan1288-std,concepticon-950,3.582,gaviota,seagull,gaviota
+clics-doculect-76-249,stan1288-std,concepticon-758,3.583,garza,heron,garza
+clics-doculect-76-250,stan1288-std,concepticon-1905,3.584,águila,eagle,aguila
+clics-doculect-76-251,stan1288-std,concepticon-307,3.585,gavilán,hawk,gavilan
+clics-doculect-76-252,stan1288-std,concepticon-307,3.585,halcón,hawk,halcon
+clics-doculect-76-253,stan1288-std,concepticon-1185,3.586,buitre,vulture,buitre
+clics-doculect-76-254,stan1288-std,concepticon-1793,3.591,murciélago,bat,murcielago
+clics-doculect-76-255,stan1288-std,concepticon-882,3.592,loro,parrot,loro
+clics-doculect-76-256,stan1288-std,concepticon-882,3.592,papagayo,parrot,papagayo
+clics-doculect-76-257,stan1288-std,concepticon-913,3.593,cuervo,crow,cuervo
+clics-doculect-76-258,stan1288-std,concepticon-1853,3.594,paloma,dove,paloma
+clics-doculect-76-259,stan1288-std,concepticon-735,3.596,lechuza,owl,lechuza
+clics-doculect-76-260,stan1288-std,concepticon-735,3.596,buho,owl,buho
+clics-doculect-76-261,stan1288-std,concepticon-2009,3.61,perro,dog,perro
+clics-doculect-76-262,stan1288-std,concepticon-1136,3.614,conejo,rabbit,conejo
+clics-doculect-76-263,stan1288-std,concepticon-1208,3.62,gato,cat,gato
+clics-doculect-76-264,stan1288-std,concepticon-309,3.622,zarigüeya,opossum,zarigueya
+clics-doculect-76-265,stan1288-std,concepticon-2139,3.63,ratón,"mouse, rat",raton
+clics-doculect-76-266,stan1288-std,concepticon-2139,3.63,rata,"mouse, rat",rata
+clics-doculect-76-267,stan1288-std,concepticon-227,3.65,pez,fish,pez
+clics-doculect-76-268,stan1288-std,concepticon-227,3.65,pescado,fish,pescado
+clics-doculect-76-269,stan1288-std,concepticon-213,3.652,aleta,fin (dorsal),aleta
+clics-doculect-76-270,stan1288-std,concepticon-266,3.653,escama,fishscale,escama
+clics-doculect-76-271,stan1288-std,concepticon-1916,3.654,agalla,gill,agalla
+clics-doculect-76-272,stan1288-std,concepticon-598,3.655,valva,shell,valva
+clics-doculect-76-273,stan1288-std,concepticon-1110,3.661,tiburón,shark,tiburon
+clics-doculect-76-274,stan1288-std,concepticon-1479,3.662,delfín,"porpoise, dolphin",delfin
+clics-doculect-76-275,stan1288-std,concepticon-957,3.663,ballena,whale,ballena
+clics-doculect-76-276,stan1288-std,concepticon-1910,3.664,raya,stingray,raya
+clics-doculect-76-277,stan1288-std,concepticon-1910,3.664,pastinaca,stingray,pastinaca
+clics-doculect-76-278,stan1288-std,concepticon-1013,3.665,anguiladeaguadulce,freshwater eel,anguiladeaguadulce
+clics-doculect-76-279,stan1288-std,concepticon-522,3.71,lobo,wolf,lobo
+clics-doculect-76-280,stan1288-std,concepticon-1386,3.72,león,lion,leon
+clics-doculect-76-281,stan1288-std,concepticon-1820,3.73,oso,bear,oso
+clics-doculect-76-282,stan1288-std,concepticon-1312,3.74,zorro,fox,zorro
+clics-doculect-76-283,stan1288-std,concepticon-1936,3.75,venado,deer,venado
+clics-doculect-76-284,stan1288-std,concepticon-1936,3.75,ciervo,deer,ciervo
+clics-doculect-76-285,stan1288-std,concepticon-1936,3.75,a,deer,a
+clics-doculect-76-286,stan1288-std,concepticon-1350,3.76,mono,monkey,mono
+clics-doculect-76-287,stan1288-std,concepticon-1290,3.77,elefante,elephant,elefante
+clics-doculect-76-288,stan1288-std,concepticon-1871,3.78,camello,camel,camello
+clics-doculect-76-289,stan1288-std,concepticon-620,3.81,insecto,insect,insecto
+clics-doculect-76-290,stan1288-std,concepticon-1392,3.811,piojo,louse,piojo
+clics-doculect-76-291,stan1288-std,concepticon-267,3.812,liendre,nit (louse egg),liendre
+clics-doculect-76-292,stan1288-std,concepticon-232,3.813,pulga,flea,pulga
+clics-doculect-76-293,stan1288-std,concepticon-1974,3.814,ciempiés,centipede,ciempies
+clics-doculect-76-294,stan1288-std,concepticon-1538,3.815,alacrán,scorpion,alacran
+clics-doculect-76-295,stan1288-std,concepticon-1538,3.815,escorpión,scorpion,escorpion
+clics-doculect-76-296,stan1288-std,concepticon-1575,3.816,cucaracha,cockroach,cucaracha
+clics-doculect-76-297,stan1288-std,concepticon-587,3.817,hormiga,ant,hormiga
+clics-doculect-76-298,stan1288-std,concepticon-843,3.818,araɲa,spider,arana
+clics-doculect-76-299,stan1288-std,concepticon-1065,3.819,telaraɲa,spider web,telarana
+clics-doculect-76-300,stan1288-std,concepticon-665,3.82,abeja,bee,abeja
+clics-doculect-76-301,stan1288-std,concepticon-1931,3.821,ceradeabeja,beeswax,ceradeabeja
+clics-doculect-76-302,stan1288-std,concepticon-88,3.822,colmena,beehive,colmena
+clics-doculect-76-303,stan1288-std,concepticon-1517,3.823,avispa,wasp,avispa
+clics-doculect-76-304,stan1288-std,concepticon-1504,3.83,mosca,fly,mosca
+clics-doculect-76-305,stan1288-std,concepticon-95,3.831,jején,"sandfly (midge), gnat",jejen
+clics-doculect-76-306,stan1288-std,concepticon-1509,3.832,mosquito,mosquito,mosquito
+clics-doculect-76-307,stan1288-std,concepticon-1219,3.84,lombriz,worm,lombriz
+clics-doculect-76-308,stan1288-std,concepticon-1219,3.84,gusano,worm,gusano
+clics-doculect-76-309,stan1288-std,concepticon-730,3.85,culebra,snake,culebra
+clics-doculect-76-310,stan1288-std,concepticon-730,3.85,serpiente,snake,serpiente
+clics-doculect-76-311,stan1288-std,concepticon-206,3.91,luciérnaga,firefly,luciernaga
+clics-doculect-76-312,stan1288-std,concepticon-1791,3.92,mariposa,butterfly,mariposa
+clics-doculect-76-313,stan1288-std,concepticon-607,3.93,saltamontes,grasshopper,saltamontes
+clics-doculect-76-314,stan1288-std,concepticon-1543,3.94,caracol,snail,caracol
+clics-doculect-76-315,stan1288-std,concepticon-503,3.95,rana,frog,rana
+clics-doculect-76-316,stan1288-std,concepticon-632,3.96,lagartija,lizard,lagartija
+clics-doculect-76-317,stan1288-std,concepticon-1857,3.97,cocodrilo,"crocodile, alligator",cocodrilo
+clics-doculect-76-318,stan1288-std,concepticon-1857,3.97,caimán,"crocodile, alligator",caiman
+clics-doculect-76-319,stan1288-std,concepticon-112,3.98,tortuga,turtle,tortuga
+clics-doculect-76-320,stan1288-std,concepticon-1480,4.11,cuerpo,body,cuerpo
+clics-doculect-76-321,stan1288-std,concepticon-763,4.12,piel,"skin, hide",piel
+clics-doculect-76-322,stan1288-std,concepticon-763,4.12,cutis,"skin, hide",cutis
+clics-doculect-76-323,stan1288-std,concepticon-763,4.12,pellejo,"skin, hide",pellejo
+clics-doculect-76-324,stan1288-std,concepticon-2259,4.13,carne,flesh,carne
+clics-doculect-76-325,stan1288-std,concepticon-1040,4.14,cabello,hair (head),cabello
+clics-doculect-76-326,stan1288-std,concepticon-1040,4.14,pelo,hair (head),pelo
+clics-doculect-76-327,stan1288-std,concepticon-678,4.142,barba,beard,barba
+clics-doculect-76-328,stan1288-std,concepticon-189,4.144,vello,body hair,vello
+clics-doculect-76-329,stan1288-std,concepticon-36,4.145,pelopúbico,pubic hair,pelopubico
+clics-doculect-76-330,stan1288-std,concepticon-576,4.146,caspa,dandruff,caspa
+clics-doculect-76-331,stan1288-std,concepticon-946,4.15,sangre,blood,sangre
+clics-doculect-76-332,stan1288-std,concepticon-525,4.151,vena,"vein, artery",vena
+clics-doculect-76-333,stan1288-std,concepticon-525,4.151,arteria,"vein, artery",arteria
+clics-doculect-76-334,stan1288-std,concepticon-1394,4.16,hueso,bone,hueso
+clics-doculect-76-335,stan1288-std,concepticon-801,4.162,costilla,rib,costilla
+clics-doculect-76-336,stan1288-std,concepticon-1393,4.17,cuerno,horn,cuerno
+clics-doculect-76-337,stan1288-std,concepticon-1220,4.18,cola,tail,cola
+clics-doculect-76-338,stan1288-std,concepticon-1291,4.19,espalda,back,espalda
+clics-doculect-76-339,stan1288-std,concepticon-805,4.191,espinazo,spine,espinazo
+clics-doculect-76-340,stan1288-std,concepticon-805,4.191,espinadorsal,spine,espinadorsal
+clics-doculect-76-341,stan1288-std,concepticon-1256,4.2,cabeza,head,cabeza
+clics-doculect-76-342,stan1288-std,concepticon-1604,4.201,sien,"side of head, temple",sien
+clics-doculect-76-343,stan1288-std,concepticon-1605,4.202,cráneo,skull,craneo
+clics-doculect-76-344,stan1288-std,concepticon-1605,4.202,calavera,skull,calavera
+clics-doculect-76-345,stan1288-std,concepticon-1583,4.203,cerebro,brain,cerebro
+clics-doculect-76-346,stan1288-std,concepticon-1583,4.203,sesos,brain,sesos
+clics-doculect-76-347,stan1288-std,concepticon-1560,4.204,cara,face,cara
+clics-doculect-76-348,stan1288-std,concepticon-123,4.205,frente,forehead,frente
+clics-doculect-76-349,stan1288-std,concepticon-798,4.207,mandíbula,jaw,mandibula
+clics-doculect-76-350,stan1288-std,concepticon-1730,4.208,mejilla,cheek,mejilla
+clics-doculect-76-351,stan1288-std,concepticon-1510,4.209,mentón,chin,menton
+clics-doculect-76-352,stan1288-std,concepticon-1510,4.209,barbilla,chin,barbilla
+clics-doculect-76-353,stan1288-std,concepticon-1248,4.21,ojo,eye,ojo
+clics-doculect-76-354,stan1288-std,concepticon-1173,4.212,ceja,eyebrow,ceja
+clics-doculect-76-355,stan1288-std,concepticon-17,4.213,párpado,eyelid,parpado
+clics-doculect-76-356,stan1288-std,concepticon-1540,4.214,pestaɲa,eyelash,pestana
+clics-doculect-76-357,stan1288-std,concepticon-1655,4.215,parpadear,blink,parpadear
+clics-doculect-76-358,stan1288-std,concepticon-1655,4.215,pestaɲear,blink,pestanear
+clics-doculect-76-359,stan1288-std,concepticon-1247,4.22,oreja,ear,oreja
+clics-doculect-76-360,stan1288-std,concepticon-18,4.221,lóbulo,earlobe,lobulo
+clics-doculect-76-361,stan1288-std,concepticon-32,4.222,cerumen,earwax,cerumen
+clics-doculect-76-362,stan1288-std,concepticon-1221,4.23,nariz,nose,nariz
+clics-doculect-76-363,stan1288-std,concepticon-1178,4.231,ventanadelanariz,nostril,ventanadelanariz
+clics-doculect-76-364,stan1288-std,concepticon-208,4.232,moco,mucus (nasal),moco
+clics-doculect-76-365,stan1288-std,concepticon-674,4.24,boca,mouth,boca
+clics-doculect-76-366,stan1288-std,concepticon-73,4.241,pico,beak,pico
+clics-doculect-76-367,stan1288-std,concepticon-478,4.25,labio,lip,labio
+clics-doculect-76-368,stan1288-std,concepticon-1205,4.26,lengua,tongue,lengua
+clics-doculect-76-369,stan1288-std,concepticon-1380,4.27,diente,tooth,diente
+clics-doculect-76-370,stan1288-std,concepticon-139,4.271,encías,gums,encias
+clics-doculect-76-371,stan1288-std,concepticon-1049,4.272,molar,molartooth,molar
+clics-doculect-76-372,stan1288-std,concepticon-1049,4.272,muela,molartooth,muela
+clics-doculect-76-373,stan1288-std,concepticon-1333,4.28,cuello,neck,cuello
+clics-doculect-76-374,stan1288-std,concepticon-1347,4.281,nuca,nape of neck,nuca
+clics-doculect-76-375,stan1288-std,concepticon-1346,4.29,garganta,throat,garganta
+clics-doculect-76-376,stan1288-std,concepticon-1482,4.3,hombro,shoulder,hombro
+clics-doculect-76-377,stan1288-std,concepticon-172,4.301,escápula,shoulderblade,escapula
+clics-doculect-76-378,stan1288-std,concepticon-172,4.301,omóplato,shoulderblade,omoplato
+clics-doculect-76-379,stan1288-std,concepticon-1994,4.302,clavícula,collarbone,clavicula
+clics-doculect-76-380,stan1288-std,concepticon-1673,4.31,brazo,arm,brazo
+clics-doculect-76-381,stan1288-std,concepticon-1886,4.312,sobaco,armpit,sobaco
+clics-doculect-76-382,stan1288-std,concepticon-1886,4.312,axila,armpit,axila
+clics-doculect-76-383,stan1288-std,concepticon-981,4.32,codo,elbow,codo
+clics-doculect-76-384,stan1288-std,concepticon-799,4.321,muɲeca,wrist,muneca
+clics-doculect-76-385,stan1288-std,concepticon-1277,4.33,mano,hand,mano
+clics-doculect-76-386,stan1288-std,concepticon-1183,4.331,palmadelamano,palm of hand,palmadelamano
+clics-doculect-76-387,stan1288-std,concepticon-1303,4.34,dedo,finger,dedo
+clics-doculect-76-388,stan1288-std,concepticon-1781,4.342,pulgar,thumb,pulgar
+clics-doculect-76-389,stan1288-std,concepticon-1258,4.344,uɲa,fingernail,una
+clics-doculect-76-390,stan1288-std,concepticon-72,4.345,garra,claw,garra
+clics-doculect-76-391,stan1288-std,concepticon-1297,4.35,pierna,leg,pierna
+clics-doculect-76-392,stan1288-std,concepticon-1297,4.35,pata,leg,pata
+clics-doculect-76-393,stan1288-std,concepticon-800,4.351,muslo,thigh,muslo
+clics-doculect-76-394,stan1288-std,concepticon-498,4.352,pantorrilla,calf of leg,pantorrilla
+clics-doculect-76-395,stan1288-std,concepticon-1371,4.36,rodilla,knee,rodilla
+clics-doculect-76-396,stan1288-std,concepticon-1301,4.37,pie,foot,pie
+clics-doculect-76-397,stan1288-std,concepticon-803,4.371,tobillo,ankle,tobillo
+clics-doculect-76-398,stan1288-std,concepticon-980,4.372,talón,heel,talon
+clics-doculect-76-399,stan1288-std,concepticon-318,4.374,huella,footprint,huella
+clics-doculect-76-400,stan1288-std,concepticon-1389,4.38,dedodelpie,toe,dedodelpie
+clics-doculect-76-401,stan1288-std,concepticon-1257,4.392,ala,wing,ala
+clics-doculect-76-402,stan1288-std,concepticon-1201,4.393,pluma,feather,pluma
+clics-doculect-76-403,stan1288-std,concepticon-1592,4.4,pecho,chest,pecho
+clics-doculect-76-404,stan1288-std,concepticon-1402,4.41,seno,breast (of woman),seno
+clics-doculect-76-405,stan1288-std,concepticon-796,4.412,pezón,"nipple, teat",pezon
+clics-doculect-76-406,stan1288-std,concepticon-796,4.412,teta,"nipple, teat",teta
+clics-doculect-76-407,stan1288-std,concepticon-154,4.42,ubre,udder,ubre
+clics-doculect-76-408,stan1288-std,concepticon-1838,4.43,ombligo,navel,ombligo
+clics-doculect-76-409,stan1288-std,concepticon-1223,4.44,corazón,heart,corazon
+clics-doculect-76-410,stan1288-std,concepticon-688,4.441,pulmón,lung,pulmon
+clics-doculect-76-411,stan1288-std,concepticon-1224,4.45,hígado,liver,higado
+clics-doculect-76-412,stan1288-std,concepticon-489,4.451,riɲón,kidney,rinon
+clics-doculect-76-413,stan1288-std,concepticon-1744,4.452,bazo,spleen,bazo
+clics-doculect-76-414,stan1288-std,concepticon-819,4.46,estómago,stomach,estomago
+clics-doculect-76-415,stan1288-std,concepticon-819,4.46,barriga,stomach,barriga
+clics-doculect-76-416,stan1288-std,concepticon-1991,4.461,intestinos,"intestines, guts",intestinos
+clics-doculect-76-417,stan1288-std,concepticon-1991,4.461,tripas,"intestines, guts",tripas
+clics-doculect-76-418,stan1288-std,concepticon-1681,4.462,cintura,waist,cintura
+clics-doculect-76-419,stan1288-std,concepticon-1745,4.463,cadera,hip,cadera
+clics-doculect-76-420,stan1288-std,concepticon-834,4.464,nalgas,buttocks,nalgas
+clics-doculect-76-421,stan1288-std,concepticon-834,4.464,trasero,buttocks,trasero
+clics-doculect-76-422,stan1288-std,concepticon-804,4.47,matriz,womb,matriz
+clics-doculect-76-423,stan1288-std,concepticon-804,4.47,vientre,womb,vientre
+clics-doculect-76-424,stan1288-std,concepticon-797,4.49,testículo,testicle,testiculo
+clics-doculect-76-425,stan1288-std,concepticon-1222,4.492,pene,penis,pene
+clics-doculect-76-426,stan1288-std,concepticon-1407,4.51,respirar,"breathe, breath",respirar
+clics-doculect-76-427,stan1288-std,concepticon-1407,4.51,aliento,"breathe, breath",aliento
+clics-doculect-76-428,stan1288-std,concepticon-1028,4.52,bostezar,"yawn, gape",bostezar
+clics-doculect-76-429,stan1288-std,concepticon-162,4.521,tenerhipo,hiccough,tenerhipo
+clics-doculect-76-430,stan1288-std,concepticon-879,4.53,toser,cough,toser
+clics-doculect-76-431,stan1288-std,concepticon-1621,4.54,estornudar,sneeze,estornudar
+clics-doculect-76-432,stan1288-std,concepticon-126,4.55,sudar,perspire,sudar
+clics-doculect-76-433,stan1288-std,concepticon-1440,4.56,escupir,spit,escupir
+clics-doculect-76-434,stan1288-std,concepticon-1440,4.56,saliva,spit,saliva
+clics-doculect-76-435,stan1288-std,concepticon-1278,4.57,vomitar,vomit,vomitar
+clics-doculect-76-436,stan1288-std,concepticon-1403,4.58,morder,bite,morder
+clics-doculect-76-437,stan1288-std,concepticon-319,4.59,lamer,lick,lamer
+clics-doculect-76-438,stan1288-std,concepticon-268,4.591,gotear,dribble,gotear
+clics-doculect-76-439,stan1288-std,concepticon-268,4.591,babear,dribble,babear
+clics-doculect-76-440,stan1288-std,concepticon-1585,4.61,dormir,sleep,dormir
+clics-doculect-76-441,stan1288-std,concepticon-1983,4.612,roncar,snore,roncar
+clics-doculect-76-442,stan1288-std,concepticon-1920,4.62,soɲar,dream,sonar
+clics-doculect-76-443,stan1288-std,concepticon-1602,4.63,despertarse,wake up,despertarse
+clics-doculect-76-444,stan1288-std,concepticon-1159,4.64,ventosear,break wind,ventosear
+clics-doculect-76-445,stan1288-std,concepticon-1159,4.64,flato,break wind,flato
+clics-doculect-76-446,stan1288-std,concepticon-592,4.65,orinar,urinate,orinar
+clics-doculect-76-447,stan1288-std,concepticon-592,4.65,mear,urinate,mear
+clics-doculect-76-448,stan1288-std,concepticon-676,4.66,defecar,defecate,defecar
+clics-doculect-76-449,stan1288-std,concepticon-676,4.66,excremento,defecate,excremento
+clics-doculect-76-450,stan1288-std,concepticon-1785,4.67,tenerrelacionessexuales,have sexual intercourse,tenerrelacionessexuales
+clics-doculect-76-451,stan1288-std,concepticon-52,4.68,temblar,shiver,temblar
+clics-doculect-76-452,stan1288-std,concepticon-138,4.69,baɲar,bathe,banar
+clics-doculect-76-453,stan1288-std,concepticon-1152,4.71,engendrar,beget (of father),engendrar
+clics-doculect-76-454,stan1288-std,concepticon-1152,4.71,procrear,beget (of father),procrear
+clics-doculect-76-455,stan1288-std,concepticon-1090,4.72,nacer,born (to be),nacer
+clics-doculect-76-456,stan1288-std,concepticon-1123,4.73,embarazada,pregnant,embarazada
+clics-doculect-76-457,stan1288-std,concepticon-1123,4.73,preɲada,pregnant,prenada
+clics-doculect-76-458,stan1288-std,concepticon-1087,4.732,concebir,conceive,concebir
+clics-doculect-76-459,stan1288-std,concepticon-1422,4.74,vivir,"live, living, life",vivir
+clics-doculect-76-460,stan1288-std,concepticon-1422,4.74,vivo,"live, living, life",vivo
+clics-doculect-76-461,stan1288-std,concepticon-1422,4.74,vida,"live, living, life",vida
+clics-doculect-76-462,stan1288-std,concepticon-1494,4.75,morir,"die, dead",morir
+clics-doculect-76-463,stan1288-std,concepticon-1494,4.75,muerto,"die, dead",muerto
+clics-doculect-76-464,stan1288-std,concepticon-1904,4.751,ahogado,drowned,ahogado
+clics-doculect-76-465,stan1288-std,concepticon-1417,4.76,matar,kill,matar
+clics-doculect-76-466,stan1288-std,concepticon-767,4.77,cadáver,corpse,cadaver
+clics-doculect-76-467,stan1288-std,concepticon-1719,4.78,enterrar,bury (the dead),enterrar
+clics-doculect-76-468,stan1288-std,concepticon-1719,4.78,sepultar,bury (the dead),sepultar
+clics-doculect-76-469,stan1288-std,concepticon-1773,4.79,sepulcro,"grave, tomb",sepulcro
+clics-doculect-76-470,stan1288-std,concepticon-1773,4.79,tumba,"grave, tomb",tumba
+clics-doculect-76-471,stan1288-std,concepticon-785,4.81,fuerte,"strong, mighty, powerful",fuerte
+clics-doculect-76-472,stan1288-std,concepticon-785,4.81,poderoso,"strong, mighty, powerful",poderoso
+clics-doculect-76-473,stan1288-std,concepticon-1601,4.82,débil,weak,debil
+clics-doculect-76-474,stan1288-std,concepticon-1364,4.83,sano,"well, health",sano
+clics-doculect-76-475,stan1288-std,concepticon-1364,4.83,salud,"well, health",salud
+clics-doculect-76-476,stan1288-std,concepticon-1847,4.84,enfermo,"sick, sickness",enfermo
+clics-doculect-76-477,stan1288-std,concepticon-1847,4.84,enfermedad,"sick, sickness",enfermedad
+clics-doculect-76-478,stan1288-std,concepticon-1534,4.841,fiebre,fever,fiebre
+clics-doculect-76-479,stan1288-std,concepticon-1957,4.842,bocio,goiter,bocio
+clics-doculect-76-480,stan1288-std,concepticon-1957,4.842,coto,goiter,coto
+clics-doculect-76-481,stan1288-std,concepticon-102,4.843,catarro,cold (catarrh),catarro
+clics-doculect-76-482,stan1288-std,concepticon-102,4.843,resfriado,cold (catarrh),resfriado
+clics-doculect-76-483,stan1288-std,concepticon-1109,4.85,herida,"wound, sore",herida
+clics-doculect-76-484,stan1288-std,concepticon-1109,4.85,llaga,"wound, sore",llaga
+clics-doculect-76-485,stan1288-std,concepticon-1148,4.852,cardenal,bruise,cardenal
+clics-doculect-76-486,stan1288-std,concepticon-1148,4.852,magulladura,bruise,magulladura
+clics-doculect-76-487,stan1288-std,concepticon-1148,4.852,contusión,bruise,contusion
+clics-doculect-76-488,stan1288-std,concepticon-1903,4.853,hinchazón,swelling,hinchazon
+clics-doculect-76-489,stan1288-std,concepticon-148,4.854,comezón,itch,comezon
+clics-doculect-76-490,stan1288-std,concepticon-1584,4.855,ampolla,blister,ampolla
+clics-doculect-76-491,stan1288-std,concepticon-793,4.856,furúnculo,boil (noun),furunculo
+clics-doculect-76-492,stan1288-std,concepticon-793,4.856,forúnculo,boil (noun),forunculo
+clics-doculect-76-493,stan1288-std,concepticon-1808,4.857,pus,pus,pus
+clics-doculect-76-494,stan1288-std,concepticon-497,4.858,cicatriz,scar,cicatriz
+clics-doculect-76-495,stan1288-std,concepticon-499,4.86,sanar,"cure, heal",sanar
+clics-doculect-76-496,stan1288-std,concepticon-499,4.86,curar,"cure, heal",curar
+clics-doculect-76-497,stan1288-std,concepticon-597,4.87,doctor,physician,doctor
+clics-doculect-76-498,stan1288-std,concepticon-597,4.87,médico,physician,medico
+clics-doculect-76-499,stan1288-std,concepticon-1372,4.88,medicina,"medicine, drug",medicina
+clics-doculect-76-500,stan1288-std,concepticon-1372,4.88,remedio,"medicine, drug",remedio
+clics-doculect-76-501,stan1288-std,concepticon-655,4.89,veneno,poison,veneno
+clics-doculect-76-502,stan1288-std,concepticon-1757,4.91,cansado,"tired, weary",cansado
+clics-doculect-76-503,stan1288-std,concepticon-168,4.912,descansar,rest,descansar
+clics-doculect-76-504,stan1288-std,concepticon-1564,4.92,perezoso,lazy,perezoso
+clics-doculect-76-505,stan1288-std,concepticon-1564,4.92,flojo,lazy,flojo
+clics-doculect-76-506,stan1288-std,concepticon-1125,4.93,calvo,bald,calvo
+clics-doculect-76-507,stan1288-std,concepticon-1125,4.93,pelado,bald,pelado
+clics-doculect-76-508,stan1288-std,concepticon-320,4.94,lisiado,lame,lisiado
+clics-doculect-76-509,stan1288-std,concepticon-996,4.95,sordo,deaf,sordo
+clics-doculect-76-510,stan1288-std,concepticon-1666,4.96,mudo,mute,mudo
+clics-doculect-76-511,stan1288-std,concepticon-1653,4.97,ciego,blind,ciego
+clics-doculect-76-512,stan1288-std,concepticon-1463,4.98,ebrio,intoxicated,ebrio
+clics-doculect-76-513,stan1288-std,concepticon-1463,4.98,embriagado,intoxicated,embriagado
+clics-doculect-76-514,stan1288-std,concepticon-590,4.99,desnudo,"naked, bare",desnudo
+clics-doculect-76-515,stan1288-std,concepticon-1336,5.11,comer,eat,comer
+clics-doculect-76-516,stan1288-std,concepticon-256,5.12,comida,food,comida
+clics-doculect-76-517,stan1288-std,concepticon-256,5.12,alimento,food,alimento
+clics-doculect-76-518,stan1288-std,concepticon-269,5.121,cocido,cooked,cocido
+clics-doculect-76-519,stan1288-std,concepticon-269,5.121,cocinado,cooked,cocinado
+clics-doculect-76-520,stan1288-std,concepticon-1959,5.122,crudo,raw,crudo
+clics-doculect-76-521,stan1288-std,concepticon-178,5.123,maduro,ripe,maduro
+clics-doculect-76-522,stan1288-std,concepticon-1958,5.124,inmaduro,"green, unripe",inmaduro
+clics-doculect-76-523,stan1288-std,concepticon-1958,5.124,nomaduro,"green, unripe",nomaduro
+clics-doculect-76-524,stan1288-std,concepticon-1958,5.124,verde,"green, unripe",verde
+clics-doculect-76-525,stan1288-std,concepticon-1728,5.125,podrido,rotten,podrido
+clics-doculect-76-526,stan1288-std,concepticon-1401,5.13,beber,drink,beber
+clics-doculect-76-527,stan1288-std,concepticon-1864,5.14,hambre,hunger,hambre
+clics-doculect-76-528,stan1288-std,concepticon-199,5.141,hambre,famine,hambre
+clics-doculect-76-529,stan1288-std,concepticon-848,5.15,sed,thirst,sed
+clics-doculect-76-530,stan1288-std,concepticon-1421,5.16,chupar,suck,chupar
+clics-doculect-76-531,stan1288-std,concepticon-321,5.18,masticar,chew,masticar
+clics-doculect-76-532,stan1288-std,concepticon-321,5.18,mascar,chew,mascar
+clics-doculect-76-533,stan1288-std,concepticon-897,5.181,tragar,swallow,tragar
+clics-doculect-76-534,stan1288-std,concepticon-129,5.19,sofocar,choke,sofocar
+clics-doculect-76-535,stan1288-std,concepticon-1100,5.21,cocinar,cook,cocinar
+clics-doculect-76-536,stan1288-std,concepticon-792,5.22,hervir,boil (vb),hervir
+clics-doculect-76-537,stan1288-std,concepticon-2146,5.23,asar,"roast, fry",asar
+clics-doculect-76-538,stan1288-std,concepticon-2146,5.23,freír,"roast, fry",freir
+clics-doculect-76-539,stan1288-std,concepticon-183,5.24,hornear,bake,hornear
+clics-doculect-76-540,stan1288-std,concepticon-1143,5.25,horno,oven,horno
+clics-doculect-76-541,stan1288-std,concepticon-1462,5.26,olla,"pot, cooking vessel",olla
+clics-doculect-76-542,stan1288-std,concepticon-854,5.27,caldera,kettle,caldera
+clics-doculect-76-543,stan1288-std,concepticon-31,5.28,cacerola,pan,cacerola
+clics-doculect-76-544,stan1288-std,concepticon-31,5.28,cazuela,pan,cazuela
+clics-doculect-76-545,stan1288-std,concepticon-481,5.31,plato,dish,plato
+clics-doculect-76-546,stan1288-std,concepticon-481,5.31,fuente,dish,fuente
+clics-doculect-76-547,stan1288-std,concepticon-480,5.32,plato,plate,plato
+clics-doculect-76-548,stan1288-std,concepticon-1530,5.33,tazón,bowl,tazon
+clics-doculect-76-549,stan1288-std,concepticon-270,5.34,cántaro,"pitcher, jug",cantaro
+clics-doculect-76-550,stan1288-std,concepticon-270,5.34,jarro,"pitcher, jug",jarro
+clics-doculect-76-551,stan1288-std,concepticon-476,5.35,taza,"cup, drinking vessel",taza
+clics-doculect-76-552,stan1288-std,concepticon-476,5.35,copa,"cup, drinking vessel",copa
+clics-doculect-76-553,stan1288-std,concepticon-271,5.36,platillo,saucer,platillo
+clics-doculect-76-554,stan1288-std,concepticon-1378,5.37,cuchara,spoon,cuchara
+clics-doculect-76-555,stan1288-std,concepticon-1352,5.38,cuchillo,knife,cuchillo
+clics-doculect-76-556,stan1288-std,concepticon-337,5.39,tenedor,fork,tenedor
+clics-doculect-76-557,stan1288-std,concepticon-272,5.391,tenazas,tongs,tenazas
+clics-doculect-76-558,stan1288-std,concepticon-1526,5.41,comida,meal (a),comida
+clics-doculect-76-559,stan1288-std,concepticon-1322,5.42,desayuno,breakfast,desayuno
+clics-doculect-76-560,stan1288-std,concepticon-768,5.43,almuerzo,lunch,almuerzo
+clics-doculect-76-561,stan1288-std,concepticon-1833,5.44,comida,dinner,comida
+clics-doculect-76-562,stan1288-std,concepticon-1833,5.45,cena,supper,cena
+clics-doculect-76-563,stan1288-std,concepticon-275,5.46,pelar,peel,pelar
+clics-doculect-76-564,stan1288-std,concepticon-86,5.47,cribar,"sieve, strain",cribar
+clics-doculect-76-565,stan1288-std,concepticon-86,5.47,colar,"sieve, strain",colar
+clics-doculect-76-566,stan1288-std,concepticon-86,5.47,cerner,"sieve, strain",cerner
+clics-doculect-76-567,stan1288-std,concepticon-1767,5.48,raspar,scrape,raspar
+clics-doculect-76-568,stan1288-std,concepticon-1767,5.48,rallar,scrape,rallar
+clics-doculect-76-569,stan1288-std,concepticon-2017,5.49,mezclar,"stir, mix",mezclar
+clics-doculect-76-570,stan1288-std,concepticon-2017,5.49,mixturar,"stir, mix",mixturar
+clics-doculect-76-571,stan1288-std,concepticon-1368,5.51,pan,bread,pan
+clics-doculect-76-572,stan1288-std,concepticon-273,5.53,masa,dough,masa
+clics-doculect-76-573,stan1288-std,concepticon-274,5.54,amasar,knead,amasar
+clics-doculect-76-574,stan1288-std,concepticon-1594,5.55,harina,"meal, flour",harina
+clics-doculect-76-575,stan1288-std,concepticon-1033,5.56,aplastar,"crush, grind",aplastar
+clics-doculect-76-576,stan1288-std,concepticon-1033,5.56,moler,"crush, grind",moler
+clics-doculect-76-577,stan1288-std,concepticon-636,5.57,molino,mill,molino
+clics-doculect-76-578,stan1288-std,concepticon-224,5.58,mortero,mortar,mortero
+clics-doculect-76-579,stan1288-std,concepticon-225,5.59,manodemortero,pestle,manodemortero
+clics-doculect-76-580,stan1288-std,concepticon-634,5.61,carne,meat,carne
+clics-doculect-76-581,stan1288-std,concepticon-1874,5.63,salchicha,sausage,salchicha
+clics-doculect-76-582,stan1288-std,concepticon-1547,5.64,sopa,"soup, broth",sopa
+clics-doculect-76-583,stan1288-std,concepticon-924,5.65,legumbres,vegetables,legumbres
+clics-doculect-76-584,stan1288-std,concepticon-832,5.66,frijol,bean,frijol
+clics-doculect-76-585,stan1288-std,concepticon-832,5.66,poroto,bean,poroto
+clics-doculect-76-586,stan1288-std,concepticon-593,5.7,papa,potato,papa
+clics-doculect-76-587,stan1288-std,concepticon-1507,5.71,fruta,fruit,fruta
+clics-doculect-76-588,stan1288-std,concepticon-1966,5.712,racimo,bunch,racimo
+clics-doculect-76-589,stan1288-std,concepticon-322,5.75,higo,fig,higo
+clics-doculect-76-590,stan1288-std,concepticon-920,5.76,uva,grape,uva
+clics-doculect-76-591,stan1288-std,concepticon-191,5.77,nuez,nut,nuez
+clics-doculect-76-592,stan1288-std,concepticon-1154,5.78,aceituna,olive,aceituna
+clics-doculect-76-593,stan1288-std,concepticon-1154,5.78,oliva,olive,oliva
+clics-doculect-76-594,stan1288-std,concepticon-1484,5.79,aceite,oil,aceite
+clics-doculect-76-595,stan1288-std,concepticon-323,5.791,grasa,"grease, fat",grasa
+clics-doculect-76-596,stan1288-std,concepticon-1274,5.81,sal,salt,sal
+clics-doculect-76-597,stan1288-std,concepticon-1385,5.82,pimienta,pepper,pimienta
+clics-doculect-76-598,stan1288-std,concepticon-919,5.821,ají,chili pepper,aji
+clics-doculect-76-599,stan1288-std,concepticon-942,5.84,miel,honey,miel
+clics-doculect-76-600,stan1288-std,concepticon-862,5.85,azúcar,sugar,azucar
+clics-doculect-76-601,stan1288-std,concepticon-635,5.86,leche,milk (noun),leche
+clics-doculect-76-602,stan1288-std,concepticon-93,5.87,ordeɲar,milk (vb),ordenar
+clics-doculect-76-603,stan1288-std,concepticon-1569,5.88,queso,cheese,queso
+clics-doculect-76-604,stan1288-std,concepticon-1245,5.89,mantequilla,butter,mantequilla
+clics-doculect-76-605,stan1288-std,concepticon-1245,5.89,manteca,butter,manteca
+clics-doculect-76-606,stan1288-std,concepticon-731,5.9,bebida,"beverage, drink",bebida
+clics-doculect-76-607,stan1288-std,concepticon-941,5.91,aguamiel,mead,aguamiel
+clics-doculect-76-608,stan1288-std,concepticon-1524,5.92,vino,wine,vino
+clics-doculect-76-609,stan1288-std,concepticon-1639,5.93,cerveza,beer,cerveza
+clics-doculect-76-610,stan1288-std,concepticon-404,5.94,bebidafermentada,fermented drink,bebidafermentada
+clics-doculect-76-611,stan1288-std,concepticon-744,5.97,huevo,egg,huevo
+clics-doculect-76-612,stan1288-std,concepticon-1556,5.971,yema,egg yolk,yema
+clics-doculect-76-613,stan1288-std,concepticon-158,6.11,vestirse,put on (clothes),vestirse
+clics-doculect-76-614,stan1288-std,concepticon-1895,6.12,ropa,"clothing, clothes",ropa
+clics-doculect-76-615,stan1288-std,concepticon-881,6.13,sastre,tailor,sastre
+clics-doculect-76-616,stan1288-std,concepticon-1616,6.21,tela,cloth,tela
+clics-doculect-76-617,stan1288-std,concepticon-964,6.22,lana,wool,lana
+clics-doculect-76-618,stan1288-std,concepticon-916,6.23,lino,"linen, flax",lino
+clics-doculect-76-619,stan1288-std,concepticon-1850,6.24,algodón,cotton,algodon
+clics-doculect-76-620,stan1288-std,concepticon-1641,6.25,seda,silk,seda
+clics-doculect-76-621,stan1288-std,concepticon-325,6.27,fieltro,felt,fieltro
+clics-doculect-76-622,stan1288-std,concepticon-580,6.28,piel,fur,piel
+clics-doculect-76-623,stan1288-std,concepticon-629,6.29,cuero,leather,cuero
+clics-doculect-76-624,stan1288-std,concepticon-629,6.29,piel,leather,piel
+clics-doculect-76-625,stan1288-std,concepticon-121,6.31,hilar,spin,hilar
+clics-doculect-76-626,stan1288-std,concepticon-277,6.32,huso,spindle,huso
+clics-doculect-76-627,stan1288-std,concepticon-133,6.33,tejer,weave,tejer
+clics-doculect-76-628,stan1288-std,concepticon-1787,6.34,telar,loom,telar
+clics-doculect-76-629,stan1288-std,concepticon-1457,6.35,coser,sew,coser
+clics-doculect-76-630,stan1288-std,concepticon-1382,6.36,aguja,needle,aguja
+clics-doculect-76-631,stan1288-std,concepticon-278,6.37,punzón,awl,punzon
+clics-doculect-76-632,stan1288-std,concepticon-1161,6.38,hilo,thread,hilo
+clics-doculect-76-633,stan1288-std,concepticon-157,6.39,teɲir,dye,tenir
+clics-doculect-76-634,stan1288-std,concepticon-326,6.41,capa,cloak,capa
+clics-doculect-76-635,stan1288-std,concepticon-326,6.41,manta,cloak,manta
+clics-doculect-76-636,stan1288-std,concepticon-327,6.411,poncho,poncho,poncho
+clics-doculect-76-637,stan1288-std,concepticon-327,6.411,ruana,poncho,ruana
+clics-doculect-76-638,stan1288-std,concepticon-474,6.42,vestido,woman's dress,vestido
+clics-doculect-76-639,stan1288-std,concepticon-603,6.43,abrigo,coat,abrigo
+clics-doculect-76-640,stan1288-std,concepticon-603,6.43,saco,coat,saco
+clics-doculect-76-641,stan1288-std,concepticon-1622,6.44,camisa,shirt,camisa
+clics-doculect-76-642,stan1288-std,concepticon-2012,6.45,cuello,collar,cuello
+clics-doculect-76-643,stan1288-std,concepticon-1600,6.46,falda,skirt,falda
+clics-doculect-76-644,stan1288-std,concepticon-328,6.461,faldadehierbas,grass-skirt,faldadehierbas
+clics-doculect-76-645,stan1288-std,concepticon-809,6.48,pantalones,trousers,pantalones
+clics-doculect-76-646,stan1288-std,concepticon-809,6.48,calzones,trousers,calzones
+clics-doculect-76-647,stan1288-std,concepticon-329,6.49,media,"stocking, sock",media
+clics-doculect-76-648,stan1288-std,concepticon-329,6.49,calcetín,"stocking, sock",calcetin
+clics-doculect-76-649,stan1288-std,concepticon-1381,6.51,zapato,shoe,zapato
+clics-doculect-76-650,stan1288-std,concepticon-585,6.52,bota,boot,bota
+clics-doculect-76-651,stan1288-std,concepticon-875,6.54,zapatero,"shoemaker, cobbler",zapatero
+clics-doculect-76-652,stan1288-std,concepticon-2130,6.55,sombrero,"hat, cap",sombrero
+clics-doculect-76-653,stan1288-std,concepticon-2130,6.55,gorro,"hat, cap",gorro
+clics-doculect-76-654,stan1288-std,concepticon-772,6.57,cinturón,"belt, girdle",cinturon
+clics-doculect-76-655,stan1288-std,concepticon-772,6.57,faja,"belt, girdle",faja
+clics-doculect-76-656,stan1288-std,concepticon-867,6.58,guante,glove,guante
+clics-doculect-76-657,stan1288-std,concepticon-1151,6.59,velo,veil,velo
+clics-doculect-76-658,stan1288-std,concepticon-1851,6.61,bolsillo,pocket,bolsillo
+clics-doculect-76-659,stan1288-std,concepticon-757,6.62,botón,button,boton
+clics-doculect-76-660,stan1288-std,concepticon-64,6.63,alfiler,pin,alfiler
+clics-doculect-76-661,stan1288-std,concepticon-917,6.71,adorno,"ornament, adornment",adorno
+clics-doculect-76-662,stan1288-std,concepticon-917,6.71,ornato,"ornament, adornment",ornato
+clics-doculect-76-663,stan1288-std,concepticon-1029,6.72,joya,jewel,joya
+clics-doculect-76-664,stan1288-std,concepticon-1374,6.73,anillo,ring (for finger),anillo
+clics-doculect-76-665,stan1288-std,concepticon-1374,6.73,sortija,ring (for finger),sortija
+clics-doculect-76-666,stan1288-std,concepticon-1754,6.74,brazalete,bracelet,brazalete
+clics-doculect-76-667,stan1288-std,concepticon-1754,6.74,pulsera,bracelet,pulsera
+clics-doculect-76-668,stan1288-std,concepticon-1961,6.75,collar,necklace,collar
+clics-doculect-76-669,stan1288-std,concepticon-1860,6.76,chaquira,bead,chaquira
+clics-doculect-76-670,stan1288-std,concepticon-1860,6.76,abalorio,bead,abalorio
+clics-doculect-76-671,stan1288-std,concepticon-770,6.77,arete,earring,arete
+clics-doculect-76-672,stan1288-std,concepticon-770,6.77,aro,earring,aro
+clics-doculect-76-673,stan1288-std,concepticon-770,6.77,pendiente,earring,pendiente
+clics-doculect-76-674,stan1288-std,concepticon-330,6.78,cinta,"headband, headdress",cinta
+clics-doculect-76-675,stan1288-std,concepticon-330,6.78,tocado,"headband, headdress",tocado
+clics-doculect-76-676,stan1288-std,concepticon-68,6.79,tatuaje,tattoo,tatuaje
+clics-doculect-76-677,stan1288-std,concepticon-332,6.81,paɲuelo,"handkerchief, rag",panuelo
+clics-doculect-76-678,stan1288-std,concepticon-332,6.81,trapo,"handkerchief, rag",trapo
+clics-doculect-76-679,stan1288-std,concepticon-1021,6.82,toalla,towel,toalla
+clics-doculect-76-680,stan1288-std,concepticon-1475,6.91,peine,comb,peine
+clics-doculect-76-681,stan1288-std,concepticon-1821,6.92,cepillo,brush,cepillo
+clics-doculect-76-682,stan1288-std,concepticon-333,6.921,trenzar,braid,trenzar
+clics-doculect-76-683,stan1288-std,concepticon-151,6.93,navajadeafeitar,razor,navajadeafeitar
+clics-doculect-76-684,stan1288-std,concepticon-1926,6.94,ungüento,ointment,unguento
+clics-doculect-76-685,stan1288-std,concepticon-788,6.95,jabón,soap,jabon
+clics-doculect-76-686,stan1288-std,concepticon-1171,6.96,espejo,mirror,espejo
+clics-doculect-76-687,stan1288-std,concepticon-363,7.11,habitar,"dwell, live",habitar
+clics-doculect-76-688,stan1288-std,concepticon-363,7.11,vivir,"dwell, live",vivir
+clics-doculect-76-689,stan1288-std,concepticon-363,7.11,morar,"dwell, live",morar
+clics-doculect-76-690,stan1288-std,concepticon-1252,7.12,casa,house,casa
+clics-doculect-76-691,stan1288-std,concepticon-1678,7.13,cabaɲa,hut,cabana
+clics-doculect-76-692,stan1288-std,concepticon-1678,7.13,choza,hut,choza
+clics-doculect-76-693,stan1288-std,concepticon-403,7.131,casadehuerta,garden-house,casadehuerta
+clics-doculect-76-694,stan1288-std,concepticon-403,7.131,granja,garden-house,granja
+clics-doculect-76-695,stan1288-std,concepticon-1316,7.14,toldo,tent,toldo
+clics-doculect-76-696,stan1288-std,concepticon-736,7.15,cancha,"yard, court",cancha
+clics-doculect-76-697,stan1288-std,concepticon-736,7.15,patio,"yard, court",patio
+clics-doculect-76-698,stan1288-std,concepticon-408,7.16,casadehombres,men's house,casadehombres
+clics-doculect-76-699,stan1288-std,concepticon-334,7.17,cocina,cookhouse,cocina
+clics-doculect-76-700,stan1288-std,concepticon-335,7.18,casadereunión,meeting house,casadereunion
+clics-doculect-76-701,stan1288-std,concepticon-1450,7.21,cuarto,room,cuarto
+clics-doculect-76-702,stan1288-std,concepticon-1450,7.21,pieza,room,pieza
+clics-doculect-76-703,stan1288-std,concepticon-1567,7.22,puerta,"door, gate",puerta
+clics-doculect-76-704,stan1288-std,concepticon-80,7.221,jambadepuerta,"doorpost, jamb",jambadepuerta
+clics-doculect-76-705,stan1288-std,concepticon-80,7.221,larguero,"doorpost, jamb",larguero
+clics-doculect-76-706,stan1288-std,concepticon-1596,7.23,cerradura,lock (noun),cerradura
+clics-doculect-76-707,stan1288-std,concepticon-1596,7.23,candado,lock (noun),candado
+clics-doculect-76-708,stan1288-std,concepticon-1012,7.231,cerrojo,"latch, door-bolt",cerrojo
+clics-doculect-76-709,stan1288-std,concepticon-1472,7.24,llave,key,llave
+clics-doculect-76-710,stan1288-std,concepticon-1375,7.25,ventana,window,ventana
+clics-doculect-76-711,stan1288-std,concepticon-1632,7.26,suelo,floor,suelo
+clics-doculect-76-712,stan1288-std,concepticon-933,7.27,pared,wall,pared
+clics-doculect-76-713,stan1288-std,concepticon-933,7.27,muro,wall,muro
+clics-doculect-76-714,stan1288-std,concepticon-185,7.31,fogón,fireplace,fogon
+clics-doculect-76-715,stan1288-std,concepticon-859,7.32,estufa,stove,estufa
+clics-doculect-76-716,stan1288-std,concepticon-1305,7.33,chimenea,chimney,chimenea
+clics-doculect-76-717,stan1288-std,concepticon-1464,7.37,escalera,ladder,escalera
+clics-doculect-76-718,stan1288-std,concepticon-1663,7.42,cama,bed,cama
+clics-doculect-76-719,stan1288-std,concepticon-1044,7.421,almohada,pillow,almohada
+clics-doculect-76-720,stan1288-std,concepticon-806,7.422,frazada,blanket,frazada
+clics-doculect-76-721,stan1288-std,concepticon-806,7.422,cobija,blanket,cobija
+clics-doculect-76-722,stan1288-std,concepticon-1476,7.43,silla,chair,silla
+clics-doculect-76-723,stan1288-std,concepticon-1775,7.44,mesa,table,mesa
+clics-doculect-76-724,stan1288-std,concepticon-2131,7.45,lámpara,"lamp, torch",lampara
+clics-doculect-76-725,stan1288-std,concepticon-2131,7.45,antorcha,"lamp, torch",antorcha
+clics-doculect-76-726,stan1288-std,concepticon-1273,7.46,vela,candle,vela
+clics-doculect-76-727,stan1288-std,concepticon-745,7.47,repisa,shelf,repisa
+clics-doculect-76-728,stan1288-std,concepticon-205,7.48,batea,trough,batea
+clics-doculect-76-729,stan1288-std,concepticon-205,7.48,artesa,trough,artesa
+clics-doculect-76-730,stan1288-std,concepticon-769,7.51,techo,roof,techo
+clics-doculect-76-731,stan1288-std,concepticon-279,7.52,paja,thatch,paja
+clics-doculect-76-732,stan1288-std,concepticon-280,7.53,cumbrera,ridgepole,cumbrera
+clics-doculect-76-733,stan1288-std,concepticon-829,7.54,viga,rafter,viga
+clics-doculect-76-734,stan1288-std,concepticon-1132,7.55,viga,beam,viga
+clics-doculect-76-735,stan1288-std,concepticon-281,7.56,poste,"post, pole",poste
+clics-doculect-76-736,stan1288-std,concepticon-1227,7.57,tabla,board,tabla
+clics-doculect-76-737,stan1288-std,concepticon-876,7.58,arco,arch,arco
+clics-doculect-76-738,stan1288-std,concepticon-877,7.61,albaɲil,mason,albanil
+clics-doculect-76-739,stan1288-std,concepticon-877,7.61,masón,mason,mason
+clics-doculect-76-740,stan1288-std,concepticon-1006,7.62,ladrillo,brick,ladrillo
+clics-doculect-76-741,stan1288-std,concepticon-224,7.63,argamasa,mortar,argamasa
+clics-doculect-76-742,stan1288-std,concepticon-901,7.64,adobe,adobe,adobe
+clics-doculect-76-743,stan1288-std,concepticon-979,8.11,labrador,farmer,labrador
+clics-doculect-76-744,stan1288-std,concepticon-979,8.11,ranchero,farmer,ranchero
+clics-doculect-76-745,stan1288-std,concepticon-979,8.11,agricultor,farmer,agricultor
+clics-doculect-76-746,stan1288-std,concepticon-212,8.12,campo,field (for cultivation),campo
+clics-doculect-76-747,stan1288-std,concepticon-212,8.12,chacra,field (for cultivation),chacra
+clics-doculect-76-748,stan1288-std,concepticon-586,8.13,jardín,garden,jardin
+clics-doculect-76-749,stan1288-std,concepticon-586,8.13,huerto,garden,huerto
+clics-doculect-76-750,stan1288-std,concepticon-1541,8.15,cultivar,"cultivate, till",cultivar
+clics-doculect-76-751,stan1288-std,concepticon-1541,8.15,labrar,"cultivate, till",labrar
+clics-doculect-76-752,stan1288-std,concepticon-1690,8.16,cerca,fence,cerca
+clics-doculect-76-753,stan1288-std,concepticon-1690,8.16,cerco,fence,cerco
+clics-doculect-76-754,stan1288-std,concepticon-2002,8.17,zanja,ditch,zanja
+clics-doculect-76-755,stan1288-std,concepticon-2002,8.17,canal,ditch,canal
+clics-doculect-76-756,stan1288-std,concepticon-1921,8.21,arar,plow,arar
+clics-doculect-76-757,stan1288-std,concepticon-1794,8.212,surco,furrow,surco
+clics-doculect-76-758,stan1288-std,concepticon-1418,8.22,excavar,dig,excavar
+clics-doculect-76-759,stan1288-std,concepticon-1418,8.22,cavar,dig,cavar
+clics-doculect-76-760,stan1288-std,concepticon-1176,8.23,laya,spade,laya
+clics-doculect-76-761,stan1288-std,concepticon-1901,8.24,pala,shovel,pala
+clics-doculect-76-762,stan1288-std,concepticon-284,8.25,azadón,hoe,azadon
+clics-doculect-76-763,stan1288-std,concepticon-284,8.25,azada,hoe,azada
+clics-doculect-76-764,stan1288-std,concepticon-337,8.26,horqueta,fork,horqueta
+clics-doculect-76-765,stan1288-std,concepticon-338,8.27,rastro,rake,rastro
+clics-doculect-76-766,stan1288-std,concepticon-338,8.27,rastrillo,rake,rastrillo
+clics-doculect-76-767,stan1288-std,concepticon-1351,8.31,sembrar,sow,sembrar
+clics-doculect-76-768,stan1288-std,concepticon-1351,8.31,desparramar,sow,desparramar
+clics-doculect-76-769,stan1288-std,concepticon-714,8.311,semilla,seed,semilla
+clics-doculect-76-770,stan1288-std,concepticon-190,8.32,segar,"mow, reap",segar
+clics-doculect-76-771,stan1288-std,concepticon-190,8.32,cosechar,"mow, reap",cosechar
+clics-doculect-76-772,stan1288-std,concepticon-2132,8.33,hoz,"sickle, scythe",hoz
+clics-doculect-76-773,stan1288-std,concepticon-2132,8.33,guadaɲa,"sickle, scythe",guadana
+clics-doculect-76-774,stan1288-std,concepticon-285,8.34,trillar,thresh,trillar
+clics-doculect-76-775,stan1288-std,concepticon-285,8.34,desgranar,thresh,desgranar
+clics-doculect-76-776,stan1288-std,concepticon-223,8.35,era,threshing-floor,era
+clics-doculect-76-777,stan1288-std,concepticon-223,8.35,lugarparatrillar,threshing-floor,lugarparatrillar
+clics-doculect-76-778,stan1288-std,concepticon-611,8.41,cosecha,"crop, harvest",cosecha
+clics-doculect-76-779,stan1288-std,concepticon-611,8.41,siega,"crop, harvest",siega
+clics-doculect-76-780,stan1288-std,concepticon-605,8.42,grano,"grain (barley, oats etc)",grano
+clics-doculect-76-781,stan1288-std,concepticon-1077,8.43,trigo,wheat,trigo
+clics-doculect-76-782,stan1288-std,concepticon-932,8.44,cebada,barley,cebada
+clics-doculect-76-783,stan1288-std,concepticon-23,8.45,centeno,rye,centeno
+clics-doculect-76-784,stan1288-std,concepticon-60,8.46,avena,oats,avena
+clics-doculect-76-785,stan1288-std,concepticon-506,8.47,maíz,"maize, corn",maiz
+clics-doculect-76-786,stan1288-std,concepticon-926,8.48,arroz,rice,arroz
+clics-doculect-76-787,stan1288-std,concepticon-606,8.51,hierba,grass,hierba
+clics-doculect-76-788,stan1288-std,concepticon-606,8.51,pasto,grass,pasto
+clics-doculect-76-789,stan1288-std,concepticon-342,8.52,heno,hay,heno
+clics-doculect-76-790,stan1288-std,concepticon-342,8.52,paja,hay,paja
+clics-doculect-76-791,stan1288-std,concepticon-653,8.53,planta,plant (noun),planta
+clics-doculect-76-792,stan1288-std,concepticon-1486,8.531,plantar,plant (vb),plantar
+clics-doculect-76-793,stan1288-std,concepticon-1486,8.531,sembrar,plant (vb),sembrar
+clics-doculect-76-794,stan1288-std,concepticon-670,8.54,raíz,root,raiz
+clics-doculect-76-795,stan1288-std,concepticon-1531,8.55,rama,branch,rama
+clics-doculect-76-796,stan1288-std,concepticon-628,8.56,hoja,leaf,hoja
+clics-doculect-76-797,stan1288-std,concepticon-239,8.57,flor,flower,flor
+clics-doculect-76-798,stan1288-std,concepticon-906,8.6,árbol,tree,arbol
+clics-doculect-76-799,stan1288-std,concepticon-644,8.61,roble,oak,roble
+clics-doculect-76-800,stan1288-std,concepticon-1950,8.62,haya,beech,haya
+clics-doculect-76-801,stan1288-std,concepticon-1855,8.63,abedul,birch,abedul
+clics-doculect-76-802,stan1288-std,concepticon-1740,8.64,pino,pine,pino
+clics-doculect-76-803,stan1288-std,concepticon-1915,8.65,abeto,fir,abeto
+clics-doculect-76-804,stan1288-std,concepticon-968,8.66,bellota,acorn,bellota
+clics-doculect-76-805,stan1288-std,concepticon-343,8.67,enredadera,vine,enredadera
+clics-doculect-76-806,stan1288-std,concepticon-343,8.67,bejuco,vine,bejuco
+clics-doculect-76-807,stan1288-std,concepticon-343,8.67,liana,vine,liana
+clics-doculect-76-808,stan1288-std,concepticon-974,8.68,tabaco,tobacco,tabaco
+clics-doculect-76-809,stan1288-std,concepticon-1689,8.69,fumar,smoke (tobacco),fumar
+clics-doculect-76-810,stan1288-std,concepticon-1124,8.691,pipa,pipe,pipa
+clics-doculect-76-811,stan1288-std,concepticon-241,8.72,tocón,tree stump,tocon
+clics-doculect-76-812,stan1288-std,concepticon-241,8.72,cepa,tree stump,cepa
+clics-doculect-76-813,stan1288-std,concepticon-344,8.73,tronco,tree trunk,tronco
+clics-doculect-76-814,stan1288-std,concepticon-409,8.74,ramabifurcada,forked branch,ramabifurcada
+clics-doculect-76-815,stan1288-std,concepticon-1204,8.75,corteza,bark,corteza
+clics-doculect-76-816,stan1288-std,concepticon-345,8.76,savia,sap,savia
+clics-doculect-76-817,stan1288-std,concepticon-1181,8.81,palmera,palm tree,palmera
+clics-doculect-76-818,stan1288-std,concepticon-970,8.82,coco,coconut,coco
+clics-doculect-76-819,stan1288-std,concepticon-1126,8.83,cítrico,citrus fruit,citrico
+clics-doculect-76-820,stan1288-std,concepticon-868,8.84,plátano,banana tree,platano
+clics-doculect-76-821,stan1288-std,concepticon-868,8.84,banano,banana tree,banano
+clics-doculect-76-822,stan1288-std,concepticon-346,8.85,baniano,banyan,baniano
+clics-doculect-76-823,stan1288-std,concepticon-159,8.91,camote,sweet potato,camote
+clics-doculect-76-824,stan1288-std,concepticon-159,8.91,batata,sweet potato,batata
+clics-doculect-76-825,stan1288-std,concepticon-410,8.912,ɲame,yam,name
+clics-doculect-76-826,stan1288-std,concepticon-925,8.92,mandioca,"tapioca, manioc, cassava",mandioca
+clics-doculect-76-827,stan1288-std,concepticon-925,8.92,yuca,"tapioca, manioc, cassava",yuca
+clics-doculect-76-828,stan1288-std,concepticon-411,8.93,calabaza,gourd,calabaza
+clics-doculect-76-829,stan1288-std,concepticon-864,8.931,zapallo,"pumpkin, squash",zapallo
+clics-doculect-76-830,stan1288-std,concepticon-864,8.931,calabaza,"pumpkin, squash",calabaza
+clics-doculect-76-831,stan1288-std,concepticon-864,8.931,calabazo,"pumpkin, squash",calabazo
+clics-doculect-76-832,stan1288-std,concepticon-1927,8.94,bambú,bamboo,bambu
+clics-doculect-76-833,stan1288-std,concepticon-146,8.941,caɲadeazúcar,sugar cane,canadeazucar
+clics-doculect-76-834,stan1288-std,concepticon-348,8.96,barbasco,fish poison (root),barbasco
+clics-doculect-76-835,stan1288-std,concepticon-33,8.97,ortiga,nettle,ortiga
+clics-doculect-76-836,stan1288-std,concepticon-641,8.98,hongo,mushroom,hongo
+clics-doculect-76-837,stan1288-std,concepticon-641,8.98,seta,mushroom,seta
+clics-doculect-76-838,stan1288-std,concepticon-2575,9.11,hacer,"do, make",hacer
+clics-doculect-76-839,stan1288-std,concepticon-984,9.12,trabajar,work,trabajar
+clics-doculect-76-840,stan1288-std,concepticon-2004,9.14,encorvar,bend,encorvar
+clics-doculect-76-841,stan1288-std,concepticon-2004,9.14,doblar,bend,doblar
+clics-doculect-76-842,stan1288-std,concepticon-1470,9.15,doblar,fold,doblar
+clics-doculect-76-843,stan1288-std,concepticon-1917,9.16,amarrar,"tie, bind",amarrar
+clics-doculect-76-844,stan1288-std,concepticon-1917,9.16,atar,"tie, bind",atar
+clics-doculect-76-845,stan1288-std,concepticon-352,9.161,desatar,untie,desatar
+clics-doculect-76-846,stan1288-std,concepticon-1627,9.18,cadena,chain,cadena
+clics-doculect-76-847,stan1288-std,concepticon-1218,9.19,cuerda,"rope, cord",cuerda
+clics-doculect-76-848,stan1288-std,concepticon-1218,9.19,soga,"rope, cord",soga
+clics-doculect-76-849,stan1288-std,concepticon-760,9.192,nudo,knot (noun),nudo
+clics-doculect-76-850,stan1288-std,concepticon-2133,9.21,golpear,"strike (hit, beat)",golpear
+clics-doculect-76-851,stan1288-std,concepticon-354,9.211,machacarconelpuɲo,pound with fist,machacarconelpuno
+clics-doculect-76-852,stan1288-std,concepticon-1432,9.22,cortar,cut,cortar
+clics-doculect-76-853,stan1288-std,concepticon-355,9.221,tumbar,cut down,tumbar
+clics-doculect-76-854,stan1288-std,concepticon-355,9.221,talar,cut down,talar
+clics-doculect-76-855,stan1288-std,concepticon-155,9.222,tajar,"chop, hew",tajar
+clics-doculect-76-856,stan1288-std,concepticon-155,9.222,picar,"chop, hew",picar
+clics-doculect-76-857,stan1288-std,concepticon-1434,9.223,apuɲalar,stab,apunalar
+clics-doculect-76-858,stan1288-std,concepticon-1352,9.23,cuchillo,knife,cuchillo
+clics-doculect-76-859,stan1288-std,concepticon-356,9.24,tijeras,"scissors, shears",tijeras
+clics-doculect-76-860,stan1288-std,concepticon-677,9.25,hacha,ax,hacha
+clics-doculect-76-861,stan1288-std,concepticon-290,9.251,azuela,adze,azuela
+clics-doculect-76-862,stan1288-std,concepticon-680,9.26,quebrar,break,quebrar
+clics-doculect-76-863,stan1288-std,concepticon-588,9.261,quebrado,broken,quebrado
+clics-doculect-76-864,stan1288-std,concepticon-1437,9.27,hender,split,hender
+clics-doculect-76-865,stan1288-std,concepticon-1437,9.27,partir,split,partir
+clics-doculect-76-866,stan1288-std,concepticon-1735,9.28,romper,tear,romper
+clics-doculect-76-867,stan1288-std,concepticon-1735,9.28,rasgar,tear,rasgar
+clics-doculect-76-868,stan1288-std,concepticon-291,9.29,desollar,"flay, skin",desollar
+clics-doculect-76-869,stan1288-std,concepticon-1449,9.31,frotar,"rub, wipe",frotar
+clics-doculect-76-870,stan1288-std,concepticon-1449,9.31,enjugar,"rub, wipe",enjugar
+clics-doculect-76-871,stan1288-std,concepticon-214,9.32,alargar,stretch,alargar
+clics-doculect-76-872,stan1288-std,concepticon-214,9.32,estirar,stretch,estirar
+clics-doculect-76-873,stan1288-std,concepticon-214,9.32,tender,stretch,tender
+clics-doculect-76-874,stan1288-std,concepticon-1455,9.33,tirar,pull,tirar
+clics-doculect-76-875,stan1288-std,concepticon-1455,9.33,jalar,pull,jalar
+clics-doculect-76-876,stan1288-std,concepticon-38,9.34,extender,spread out,extender
+clics-doculect-76-877,stan1288-std,concepticon-38,9.34,esparcir,spread out,esparcir
+clics-doculect-76-878,stan1288-std,concepticon-357,9.341,colgar,hang up,colgar
+clics-doculect-76-879,stan1288-std,concepticon-1913,9.342,apretar,press,apretar
+clics-doculect-76-880,stan1288-std,concepticon-1913,9.342,oprimir,press,oprimir
+clics-doculect-76-881,stan1288-std,concepticon-1414,9.343,estrujar,"squeeze, wring",estrujar
+clics-doculect-76-882,stan1288-std,concepticon-1414,9.343,exprimir,"squeeze, wring",exprimir
+clics-doculect-76-883,stan1288-std,concepticon-1487,9.35,vaciar,pour,vaciar
+clics-doculect-76-884,stan1288-std,concepticon-1487,9.35,verter,pour,verter
+clics-doculect-76-885,stan1288-std,concepticon-1487,9.35,derramar,pour,derramar
+clics-doculect-76-886,stan1288-std,concepticon-1453,9.36,lavar,wash,lavar
+clics-doculect-76-887,stan1288-std,concepticon-230,9.37,barrer,sweep,barrer
+clics-doculect-76-888,stan1288-std,concepticon-245,9.38,escoba,broom,escoba
+clics-doculect-76-889,stan1288-std,concepticon-1361,9.422,herramienta,tool,herramienta
+clics-doculect-76-890,stan1288-std,concepticon-1042,9.43,carpintero,carpenter,carpintero
+clics-doculect-76-891,stan1288-std,concepticon-1840,9.44,edificar,build,edificar
+clics-doculect-76-892,stan1288-std,concepticon-1840,9.44,construir,build,construir
+clics-doculect-76-893,stan1288-std,concepticon-1501,9.46,perforar,bore,perforar
+clics-doculect-76-894,stan1288-std,concepticon-46,9.461,ahuecar,hollow out,ahuecar
+clics-doculect-76-895,stan1288-std,concepticon-1948,9.48,serrucho,saw,serrucho
+clics-doculect-76-896,stan1288-std,concepticon-1948,9.48,sierra,saw,sierra
+clics-doculect-76-897,stan1288-std,concepticon-1481,9.49,martillo,hammer,martillo
+clics-doculect-76-898,stan1288-std,concepticon-502,9.5,clavo,nail,clavo
+clics-doculect-76-899,stan1288-std,concepticon-1069,9.56,cola,glue,cola
+clics-doculect-76-900,stan1288-std,concepticon-1069,9.56,adhesivo,glue,adhesivo
+clics-doculect-76-901,stan1288-std,concepticon-1001,9.6,herrero,"smith, blacksmith",herrero
+clics-doculect-76-902,stan1288-std,concepticon-288,9.61,fragua,forge,fragua
+clics-doculect-76-903,stan1288-std,concepticon-1648,9.62,yunque,anvil,yunque
+clics-doculect-76-904,stan1288-std,concepticon-211,9.63,fundir,cast (metals),fundir
+clics-doculect-76-905,stan1288-std,concepticon-1369,9.64,oro,gold,oro
+clics-doculect-76-906,stan1288-std,concepticon-759,9.65,plata,silver,plata
+clics-doculect-76-907,stan1288-std,concepticon-1825,9.66,cobre,"copper, bronze",cobre
+clics-doculect-76-908,stan1288-std,concepticon-1825,9.66,bronce,"copper, bronze",bronce
+clics-doculect-76-909,stan1288-std,concepticon-621,9.67,hierro,iron,hierro
+clics-doculect-76-910,stan1288-std,concepticon-627,9.68,plomo,lead (noun),plomo
+clics-doculect-76-911,stan1288-std,concepticon-358,9.69,estaɲo,"tin, tinplate",estano
+clics-doculect-76-912,stan1288-std,concepticon-359,9.71,alfarero,potter,alfarero
+clics-doculect-76-913,stan1288-std,concepticon-289,9.72,moldear,mold (clay etc),moldear
+clics-doculect-76-914,stan1288-std,concepticon-289,9.72,formar,mold (clay etc),formar
+clics-doculect-76-915,stan1288-std,concepticon-1399,9.73,barro,clay,barro
+clics-doculect-76-916,stan1288-std,concepticon-1399,9.73,arcilla,clay,arcilla
+clics-doculect-76-917,stan1288-std,concepticon-604,9.74,vidrio,glass,vidrio
+clics-doculect-76-918,stan1288-std,concepticon-1729,9.75,tejer,"weave, plait",tejer
+clics-doculect-76-919,stan1288-std,concepticon-1729,9.75,trenzar,"weave, plait",trenzar
+clics-doculect-76-920,stan1288-std,concepticon-1539,9.76,cesto,basket,cesto
+clics-doculect-76-921,stan1288-std,concepticon-1539,9.76,canasto,basket,canasto
+clics-doculect-76-922,stan1288-std,concepticon-1539,9.76,canasta,basket,canasta
+clics-doculect-76-923,stan1288-std,concepticon-195,9.77,estera,mat,estera
+clics-doculect-76-924,stan1288-std,concepticon-292,9.771,tapete,rug,tapete
+clics-doculect-76-925,stan1288-std,concepticon-292,9.771,alfombra,rug,alfombra
+clics-doculect-76-926,stan1288-std,concepticon-293,9.78,bolsademalla,netbag,bolsademalla
+clics-doculect-76-927,stan1288-std,concepticon-1971,9.79,abanico,fan (noun),abanico
+clics-doculect-76-928,stan1288-std,concepticon-360,9.791,abanicar,fan (vb),abanicar
+clics-doculect-76-929,stan1288-std,concepticon-360,9.791,aventar,fan (vb),aventar
+clics-doculect-76-930,stan1288-std,concepticon-360,9.791,ventilar,fan (vb),ventilar
+clics-doculect-76-931,stan1288-std,concepticon-228,9.81,esculpir,carve,esculpir
+clics-doculect-76-932,stan1288-std,concepticon-914,9.82,escultor,sculptor,escultor
+clics-doculect-76-933,stan1288-std,concepticon-1002,9.83,estatua,statue,estatua
+clics-doculect-76-934,stan1288-std,concepticon-1979,9.84,escoplo,chisel,escoplo
+clics-doculect-76-935,stan1288-std,concepticon-1979,9.84,cincel,chisel,cincel
+clics-doculect-76-936,stan1288-std,concepticon-647,9.88,pintura,paint (noun),pintura
+clics-doculect-76-937,stan1288-std,concepticon-2001,9.89,pintar,paint (vb),pintar
+clics-doculect-76-938,stan1288-std,concepticon-765,10.11,mover,move,mover
+clics-doculect-76-939,stan1288-std,concepticon-1588,10.12,volcar,turn over,volcar
+clics-doculect-76-940,stan1288-std,concepticon-1588,10.12,darvuelta,turn over,darvuelta
+clics-doculect-76-941,stan1288-std,concepticon-1445,10.13,darvuelta,turn around,darvuelta
+clics-doculect-76-942,stan1288-std,concepticon-1445,10.13,voltear,turn around,voltear
+clics-doculect-76-943,stan1288-std,concepticon-1113,10.14,enrollar,"wind, wrap",enrollar
+clics-doculect-76-944,stan1288-std,concepticon-1113,10.14,envolver,"wind, wrap",envolver
+clics-doculect-76-945,stan1288-std,concepticon-827,10.15,rodar,roll,rodar
+clics-doculect-76-946,stan1288-std,concepticon-827,10.15,arrollar,roll,arrollar
+clics-doculect-76-947,stan1288-std,concepticon-827,10.15,enrollar,roll,enrollar
+clics-doculect-76-948,stan1288-std,concepticon-808,10.16,dejarcaer,drop (vb),dejarcaer
+clics-doculect-76-949,stan1288-std,concepticon-430,10.17,torcer,twist,torcer
+clics-doculect-76-950,stan1288-std,concepticon-568,10.21,ascender,rise,ascender
+clics-doculect-76-951,stan1288-std,concepticon-568,10.21,subir,rise,subir
+clics-doculect-76-952,stan1288-std,concepticon-501,10.22,levantar,"raise, lift",levantar
+clics-doculect-76-953,stan1288-std,concepticon-1280,10.23,caer,fall,caer
+clics-doculect-76-954,stan1288-std,concepticon-2253,10.24,gotear,drip,gotear
+clics-doculect-76-955,stan1288-std,concepticon-2253,10.24,escurrir,drip,escurrir
+clics-doculect-76-956,stan1288-std,concepticon-1456,10.25,echar,throw,echar
+clics-doculect-76-957,stan1288-std,concepticon-1456,10.25,tirar,throw,tirar
+clics-doculect-76-958,stan1288-std,concepticon-702,10.252,coger,catch (ball),coger
+clics-doculect-76-959,stan1288-std,concepticon-1909,10.26,sacudir,shake,sacudir
+clics-doculect-76-960,stan1288-std,concepticon-2003,10.32,fluir,flow,fluir
+clics-doculect-76-961,stan1288-std,concepticon-2003,10.32,correr,flow,correr
+clics-doculect-76-962,stan1288-std,concepticon-1088,10.33,hundir,sink,hundir
+clics-doculect-76-963,stan1288-std,concepticon-1574,10.34,flotar,float,flotar
+clics-doculect-76-964,stan1288-std,concepticon-1439,10.35,nadar,swim,nadar
+clics-doculect-76-965,stan1288-std,concepticon-119,10.351,zambullirse,dive,zambullirse
+clics-doculect-76-966,stan1288-std,concepticon-365,10.352,salpicar,splash,salpicar
+clics-doculect-76-967,stan1288-std,concepticon-787,10.36,navegar,sail (vb),navegar
+clics-doculect-76-968,stan1288-std,concepticon-1441,10.37,volar,fly (vb),volar
+clics-doculect-76-969,stan1288-std,concepticon-175,10.38,soplar,blow,soplar
+clics-doculect-76-970,stan1288-std,concepticon-96,10.41,gatear,"creep, crawl",gatear
+clics-doculect-76-971,stan1288-std,concepticon-66,10.412,arrodillarse,kneel,arrodillarse
+clics-doculect-76-972,stan1288-std,concepticon-296,10.413,agacharse,crouch,agacharse
+clics-doculect-76-973,stan1288-std,concepticon-296,10.413,ponerseencuclillas,crouch,ponerseencuclillas
+clics-doculect-76-974,stan1288-std,concepticon-1324,10.42,resbalar,"slide, slip",resbalar
+clics-doculect-76-975,stan1288-std,concepticon-1829,10.43,saltar,"jump, leap",saltar
+clics-doculect-76-976,stan1288-std,concepticon-1829,10.43,brincar,"jump, leap",brincar
+clics-doculect-76-977,stan1288-std,concepticon-1135,10.431,patear,kick,patear
+clics-doculect-76-978,stan1288-std,concepticon-1879,10.44,bailar,dance,bailar
+clics-doculect-76-979,stan1288-std,concepticon-1443,10.45,caminar,walk,caminar
+clics-doculect-76-980,stan1288-std,concepticon-1443,10.45,andar,walk,andar
+clics-doculect-76-981,stan1288-std,concepticon-366,10.451,lisiar,limp,lisiar
+clics-doculect-76-982,stan1288-std,concepticon-1519,10.46,correr,run,correr
+clics-doculect-76-983,stan1288-std,concepticon-695,10.47,ir,go,ir
+clics-doculect-76-984,stan1288-std,concepticon-705,10.471,subir,go up,subir
+clics-doculect-76-985,stan1288-std,concepticon-1102,10.472,trepar,climb,trepar
+clics-doculect-76-986,stan1288-std,concepticon-2014,10.473,bajar,go down,bajar
+clics-doculect-76-987,stan1288-std,concepticon-2014,10.473,descender,go down,descender
+clics-doculect-76-988,stan1288-std,concepticon-1107,10.474,salir,go out,salir
+clics-doculect-76-989,stan1288-std,concepticon-1446,10.48,venir,come,venir
+clics-doculect-76-990,stan1288-std,concepticon-581,10.481,volver,come back,volver
+clics-doculect-76-991,stan1288-std,concepticon-581,10.481,regresar,come back,regresar
+clics-doculect-76-992,stan1288-std,concepticon-1752,10.49,irse,"go away, depart",irse
+clics-doculect-76-993,stan1288-std,concepticon-1752,10.49,marcharse,"go away, depart",marcharse
+clics-doculect-76-994,stan1288-std,concepticon-1752,10.49,partir,"go away, depart",partir
+clics-doculect-76-995,stan1288-std,concepticon-485,10.491,desaparecer,disappear,desaparecer
+clics-doculect-76-996,stan1288-std,concepticon-956,10.51,huir,flee,huir
+clics-doculect-76-997,stan1288-std,concepticon-1085,10.52,seguir,follow,seguir
+clics-doculect-76-998,stan1288-std,concepticon-1047,10.53,perseguir,pursue,perseguir
+clics-doculect-76-999,stan1288-std,concepticon-1387,10.55,llegar,"reach, arrive",llegar
+clics-doculect-76-1000,stan1288-std,concepticon-1387,10.55,alcanzar,"reach, arrive",alcanzar
+clics-doculect-76-1001,stan1288-std,concepticon-1778,10.56,acercarse,approach,acercarse
+clics-doculect-76-1002,stan1288-std,concepticon-1778,10.56,aproximarse,approach,aproximarse
+clics-doculect-76-1003,stan1288-std,concepticon-749,10.57,entrar,enter,entrar
+clics-doculect-76-1004,stan1288-std,concepticon-700,10.61,llevar,carry (bear),llevar
+clics-doculect-76-1005,stan1288-std,concepticon-700,10.61,cargar,carry (bear),cargar
+clics-doculect-76-1006,stan1288-std,concepticon-412,10.612,llevarenlamano,carry-in-hand,llevarenlamano
+clics-doculect-76-1007,stan1288-std,concepticon-413,10.613,llevaralaespalda,carry-on-shoulder,llevaralaespalda
+clics-doculect-76-1008,stan1288-std,concepticon-413,10.613,enelhombro,carry-on-shoulder,enelhombro
+clics-doculect-76-1009,stan1288-std,concepticon-414,10.614,llevarsobrelacabeza,carry-on-head,llevarsobrelacabeza
+clics-doculect-76-1010,stan1288-std,concepticon-415,10.615,llevarbajoelbrazo,carry-underarm,llevarbajoelbrazo
+clics-doculect-76-1011,stan1288-std,concepticon-692,10.62,traer,bring,traer
+clics-doculect-76-1012,stan1288-std,concepticon-1127,10.63,enviar,send,enviar
+clics-doculect-76-1013,stan1288-std,concepticon-1127,10.63,mandar,send,mandar
+clics-doculect-76-1014,stan1288-std,concepticon-43,10.64,guiar,lead (vb),guiar
+clics-doculect-76-1015,stan1288-std,concepticon-43,10.64,conducir,lead (vb),conducir
+clics-doculect-76-1016,stan1288-std,concepticon-741,10.65,conducir,drive,conducir
+clics-doculect-76-1017,stan1288-std,concepticon-367,10.66,montar,ride,montar
+clics-doculect-76-1018,stan1288-std,concepticon-1452,10.67,empujar,"push, shove",empujar
+clics-doculect-76-1019,stan1288-std,concepticon-667,10.71,carretera,road,carretera
+clics-doculect-76-1020,stan1288-std,concepticon-2252,10.72,camino,path,camino
+clics-doculect-76-1021,stan1288-std,concepticon-2252,10.72,senda,path,senda
+clics-doculect-76-1022,stan1288-std,concepticon-1011,10.74,puente,bridge,puente
+clics-doculect-76-1023,stan1288-std,concepticon-122,10.75,carro,"carriage, wagon, cart",carro
+clics-doculect-76-1024,stan1288-std,concepticon-122,10.75,carretón,"carriage, wagon, cart",carreton
+clics-doculect-76-1025,stan1288-std,concepticon-710,10.76,rueda,wheel,rueda
+clics-doculect-76-1026,stan1288-std,concepticon-1769,10.77,eje,axle,eje
+clics-doculect-76-1027,stan1288-std,concepticon-14,10.78,yugo,yoke,yugo
+clics-doculect-76-1028,stan1288-std,concepticon-740,10.81,buque,ship,buque
+clics-doculect-76-1029,stan1288-std,concepticon-740,10.81,barco,ship,barco
+clics-doculect-76-1030,stan1288-std,concepticon-1844,10.83,bote,boat,bote
+clics-doculect-76-1031,stan1288-std,concepticon-1970,10.831,canoa,canoe,canoa
+clics-doculect-76-1032,stan1288-std,concepticon-416,10.832,batanga,outrigger,batanga
+clics-doculect-76-1033,stan1288-std,concepticon-1664,10.84,balsa,raft,balsa
+clics-doculect-76-1034,stan1288-std,concepticon-108,10.85,remo,oar,remo
+clics-doculect-76-1035,stan1288-std,concepticon-234,10.851,remocorto,paddle (noun),remocorto
+clics-doculect-76-1036,stan1288-std,concepticon-1849,10.852,remar,row (vb),remar
+clics-doculect-76-1037,stan1288-std,concepticon-108,10.86,timón,rudder,timon
+clics-doculect-76-1038,stan1288-std,concepticon-184,10.87,mástil,mast,mastil
+clics-doculect-76-1039,stan1288-std,concepticon-786,10.88,vela,sail (noun),vela
+clics-doculect-76-1040,stan1288-std,concepticon-1870,10.89,ancla,anchor,ancla
+clics-doculect-76-1041,stan1288-std,concepticon-610,10.91,puerto,"harbor, port",puerto
+clics-doculect-76-1042,stan1288-std,concepticon-1922,10.92,desembarcar,land (vb),desembarcar
+clics-doculect-76-1043,stan1288-std,concepticon-773,11.11,tener,have,tener
+clics-doculect-76-1044,stan1288-std,concepticon-684,11.12,poseer,"own, possess",poseer
+clics-doculect-76-1045,stan1288-std,concepticon-684,11.12,tener,"own, possess",tener
+clics-doculect-76-1046,stan1288-std,concepticon-1749,11.13,tomar,take,tomar
+clics-doculect-76-1047,stan1288-std,concepticon-1749,11.13,coger,take,coger
+clics-doculect-76-1048,stan1288-std,concepticon-2021,11.14,agarrar,"seize, grasp",agarrar
+clics-doculect-76-1049,stan1288-std,concepticon-2021,11.14,empuɲar,"seize, grasp",empunar
+clics-doculect-76-1050,stan1288-std,concepticon-2021,11.14,coger,"seize, grasp",coger
+clics-doculect-76-1051,stan1288-std,concepticon-2021,11.14,asir,"seize, grasp",asir
+clics-doculect-76-1052,stan1288-std,concepticon-1448,11.15,tener,hold,tener
+clics-doculect-76-1053,stan1288-std,concepticon-1448,11.15,apoyar,hold,apoyar
+clics-doculect-76-1054,stan1288-std,concepticon-694,11.16,obtener,"get, obtain",obtener
+clics-doculect-76-1055,stan1288-std,concepticon-694,11.16,conseguir,"get, obtain",conseguir
+clics-doculect-76-1056,stan1288-std,concepticon-1477,11.17,conservar,"keep, retain",conservar
+clics-doculect-76-1057,stan1288-std,concepticon-1477,11.17,retener,"keep, retain",retener
+clics-doculect-76-1058,stan1288-std,concepticon-1477,11.17,guardar,"keep, retain",guardar
+clics-doculect-76-1059,stan1288-std,concepticon-738,11.18,cosa,thing,cosa
+clics-doculect-76-1060,stan1288-std,concepticon-1447,11.21,dar,give,dar
+clics-doculect-76-1061,stan1288-std,concepticon-85,11.22,devolver,give back,devolver
+clics-doculect-76-1062,stan1288-std,concepticon-1997,11.24,conservar,"preserve, look after",conservar
+clics-doculect-76-1063,stan1288-std,concepticon-1997,11.24,proteger,"preserve, look after",proteger
+clics-doculect-76-1064,stan1288-std,concepticon-2008,11.25,salvar,"save, rescue",salvar
+clics-doculect-76-1065,stan1288-std,concepticon-2008,11.25,rescatar,"save, rescue",rescatar
+clics-doculect-76-1066,stan1288-std,concepticon-681,11.27,destruir,destroy,destruir
+clics-doculect-76-1067,stan1288-std,concepticon-44,11.28,daɲar,"harm, injure, damage",danar
+clics-doculect-76-1068,stan1288-std,concepticon-44,11.28,herir,"harm, injure, damage",herir
+clics-doculect-76-1069,stan1288-std,concepticon-1468,11.31,buscar,"seek, look for",buscar
+clics-doculect-76-1070,stan1288-std,concepticon-719,11.32,encontrar,find,encontrar
+clics-doculect-76-1071,stan1288-std,concepticon-719,11.32,hallar,find,hallar
+clics-doculect-76-1072,stan1288-std,concepticon-1660,11.33,perder,lose,perder
+clics-doculect-76-1073,stan1288-std,concepticon-1095,11.34,soltar,"release, let go",soltar
+clics-doculect-76-1074,stan1288-std,concepticon-1095,11.34,largar,"release, let go",largar
+clics-doculect-76-1075,stan1288-std,concepticon-1559,11.43,dinero,money,dinero
+clics-doculect-76-1076,stan1288-std,concepticon-1867,11.44,moneda,coin,moneda
+clics-doculect-76-1077,stan1288-std,concepticon-712,11.51,rico,rich,rico
+clics-doculect-76-1078,stan1288-std,concepticon-1674,11.52,pobre,poor,pobre
+clics-doculect-76-1079,stan1288-std,concepticon-1934,11.53,mendigo,beggar,mendigo
+clics-doculect-76-1080,stan1288-std,concepticon-1774,11.54,avaro,"avaricious, stingy",avaro
+clics-doculect-76-1081,stan1288-std,concepticon-1774,11.54,mezquino,"avaricious, stingy",mezquino
+clics-doculect-76-1082,stan1288-std,concepticon-582,11.61,prestar,lend,prestar
+clics-doculect-76-1083,stan1288-std,concepticon-1823,11.62,pedirprestado,borrow,pedirprestado
+clics-doculect-76-1084,stan1288-std,concepticon-369,11.63,deber,owe,deber
+clics-doculect-76-1085,stan1288-std,concepticon-1914,11.64,deuda,debt,deuda
+clics-doculect-76-1086,stan1288-std,concepticon-718,11.65,pagar,pay (vb),pagar
+clics-doculect-76-1087,stan1288-std,concepticon-1081,11.66,calcul,"account, reckoning",calcul
+clics-doculect-76-1088,stan1288-std,concepticon-1081,11.66,cuenta,"account, reckoning",cuenta
+clics-doculect-76-1089,stan1288-std,concepticon-873,11.69,impuesto,"tax, tribute",impuesto
+clics-doculect-76-1090,stan1288-std,concepticon-873,11.69,tributo,"tax, tribute",tributo
+clics-doculect-76-1091,stan1288-std,concepticon-856,11.77,alquilar,hire,alquilar
+clics-doculect-76-1092,stan1288-std,concepticon-856,11.77,emplear,hire,emplear
+clics-doculect-76-1093,stan1288-std,concepticon-1122,11.78,salario,wages,salario
+clics-doculect-76-1094,stan1288-std,concepticon-1122,11.78,sueldo,wages,sueldo
+clics-doculect-76-1095,stan1288-std,concepticon-733,11.79,ganar,earn,ganar
+clics-doculect-76-1096,stan1288-std,concepticon-1869,11.81,comprar,buy,comprar
+clics-doculect-76-1097,stan1288-std,concepticon-1571,11.82,vender,sell,vender
+clics-doculect-76-1098,stan1288-std,concepticon-2135,11.83,trocar,"trade, barter",trocar
+clics-doculect-76-1099,stan1288-std,concepticon-1082,11.84,comerciante,merchant,comerciante
+clics-doculect-76-1100,stan1288-std,concepticon-633,11.85,mercado,market (place),mercado
+clics-doculect-76-1101,stan1288-std,concepticon-752,11.86,tienda,"store, shop",tienda
+clics-doculect-76-1102,stan1288-std,concepticon-752,11.86,almacén,"store, shop",almacen
+clics-doculect-76-1103,stan1288-std,concepticon-657,11.87,precio,price,precio
+clics-doculect-76-1104,stan1288-std,concepticon-1426,11.88,caro,"dear (costly, expensive)",caro
+clics-doculect-76-1105,stan1288-std,concepticon-1887,11.89,barato,cheap,barato
+clics-doculect-76-1106,stan1288-std,concepticon-884,11.91,repartir,share (distribute),repartir
+clics-doculect-76-1107,stan1288-std,concepticon-884,11.91,distribuir,share (distribute),distribuir
+clics-doculect-76-1108,stan1288-std,concepticon-1098,11.92,pesar,weigh,pesar
+clics-doculect-76-1109,stan1288-std,concepticon-1685,12.1,después,after,despues
+clics-doculect-76-1110,stan1288-std,concepticon-723,12.11,atrás,place,atras
+clics-doculect-76-1111,stan1288-std,concepticon-723,12.11,detrás,place,detras
+clics-doculect-76-1112,stan1288-std,concepticon-1816,12.2,alladode,beside,alladode
+clics-doculect-76-1113,stan1288-std,concepticon-2094,12.3,abajo,"down, below",abajo
+clics-doculect-76-1114,stan1288-std,concepticon-2094,12.3,bajo,"down, below",bajo
+clics-doculect-76-1115,stan1288-std,concepticon-2094,12.3,debajo,"down, below",debajo
+clics-doculect-76-1116,stan1288-std,concepticon-1882,12.4,delante,before,delante
+clics-doculect-76-1117,stan1288-std,concepticon-1882,12.4,antesde,before,antesde
+clics-doculect-76-1118,stan1288-std,concepticon-1019,12.41,delantero,right (side),delantero
+clics-doculect-76-1119,stan1288-std,concepticon-1019,12.41,delante,right (side),delante
+clics-doculect-76-1120,stan1288-std,concepticon-1606,12.5,adentro,"inside, in",adentro
+clics-doculect-76-1121,stan1288-std,concepticon-1606,12.5,dentro,"inside, in",dentro
+clics-doculect-76-1122,stan1288-std,concepticon-762,12.6,afuera,outside,afuera
+clics-doculect-76-1123,stan1288-std,concepticon-762,12.6,fuera,outside,fuera
+clics-doculect-76-1124,stan1288-std,concepticon-762,12.6,exterior,outside,exterior
+clics-doculect-76-1125,stan1288-std,concepticon-1485,12.7,debajo,under,debajo
+clics-doculect-76-1126,stan1288-std,concepticon-1591,12.8,arriba,"up, above",arriba
+clics-doculect-76-1127,stan1288-std,concepticon-1591,12.8,encima,"up, above",encima
+clics-doculect-76-1128,stan1288-std,concepticon-723,12.11,lugar,place,lugar
+clics-doculect-76-1129,stan1288-std,concepticon-723,12.11,sitio,place,sitio
+clics-doculect-76-1130,stan1288-std,concepticon-998,12.12,poner,put,poner
+clics-doculect-76-1131,stan1288-std,concepticon-1416,12.13,sentar,sit,sentar
+clics-doculect-76-1132,stan1288-std,concepticon-215,12.14,acostarse,lie down,acostarse
+clics-doculect-76-1133,stan1288-std,concepticon-215,12.14,echarse,lie down,echarse
+clics-doculect-76-1134,stan1288-std,concepticon-1442,12.15,ponerdepie,stand,ponerdepie
+clics-doculect-76-1135,stan1288-std,concepticon-987,12.16,quedar,"remain, stay",quedar
+clics-doculect-76-1136,stan1288-std,concepticon-987,12.16,permanecer,"remain, stay",permanecer
+clics-doculect-76-1137,stan1288-std,concepticon-838,12.17,sobras,"remains, left overs",sobras
+clics-doculect-76-1138,stan1288-std,concepticon-7,12.21,recoger,"collect, gather",recoger
+clics-doculect-76-1139,stan1288-std,concepticon-7,12.21,reunir,"collect, gather",reunir
+clics-doculect-76-1140,stan1288-std,concepticon-371,12.212,recoger,pick up,recoger
+clics-doculect-76-1141,stan1288-std,concepticon-1576,12.213,amontonar,pile up,amontonar
+clics-doculect-76-1142,stan1288-std,concepticon-1743,12.22,juntar,"join, unite",juntar
+clics-doculect-76-1143,stan1288-std,concepticon-1743,12.22,unir,"join, unite",unir
+clics-doculect-76-1144,stan1288-std,concepticon-1359,12.23,separar,separate,separar
+clics-doculect-76-1145,stan1288-std,concepticon-1359,12.23,apartar,separate,apartar
+clics-doculect-76-1146,stan1288-std,concepticon-1119,12.232,dividir,divide,dividir
+clics-doculect-76-1147,stan1288-std,concepticon-1156,12.24,abrir,open,abrir
+clics-doculect-76-1148,stan1288-std,concepticon-1046,12.25,cerrar,"shut, close",cerrar
+clics-doculect-76-1149,stan1288-std,concepticon-761,12.26,cubrir,cover,cubrir
+clics-doculect-76-1150,stan1288-std,concepticon-602,12.27,esconder,"hide, conceal",esconder
+clics-doculect-76-1151,stan1288-std,concepticon-1265,12.31,alto,high,alto
+clics-doculect-76-1152,stan1288-std,concepticon-1265,12.31,elevado,high,elevado
+clics-doculect-76-1153,stan1288-std,concepticon-721,12.32,bajo,low,bajo
+clics-doculect-76-1154,stan1288-std,concepticon-1753,12.33,cima,top,cima
+clics-doculect-76-1155,stan1288-std,concepticon-690,12.34,fondo,bottom,fondo
+clics-doculect-76-1156,stan1288-std,concepticon-742,12.35,final,end,final
+clics-doculect-76-1157,stan1288-std,concepticon-742,12.35,extremo,end,extremo
+clics-doculect-76-1158,stan1288-std,concepticon-372,12.352,puntiagudo,pointed,puntiagudo
+clics-doculect-76-1159,stan1288-std,concepticon-863,12.353,borde,edge,borde
+clics-doculect-76-1160,stan1288-std,concepticon-863,12.353,orilla,edge,orilla
+clics-doculect-76-1161,stan1288-std,concepticon-863,12.353,margen,edge,margen
+clics-doculect-76-1162,stan1288-std,concepticon-682,12.36,lado,side,lado
+clics-doculect-76-1163,stan1288-std,concepticon-682,12.36,costado,side,costado
+clics-doculect-76-1164,stan1288-std,concepticon-1093,12.37,medio,"middle, center",medio
+clics-doculect-76-1165,stan1288-std,concepticon-1093,12.37,centro,"middle, center",centro
+clics-doculect-76-1166,stan1288-std,concepticon-1019,12.41,derecha,right (side),derecha
+clics-doculect-76-1167,stan1288-std,concepticon-244,12.42,izquierda,left (side),izquierda
+clics-doculect-76-1168,stan1288-std,concepticon-1942,12.43,cerca,near (adv),cerca
+clics-doculect-76-1169,stan1288-std,concepticon-1942,12.43,próximo,near (adv),proximo
+clics-doculect-76-1170,stan1288-std,concepticon-1406,12.44,lejos,far (adv),lejos
+clics-doculect-76-1171,stan1288-std,concepticon-1877,12.45,este,east,este
+clics-doculect-76-1172,stan1288-std,concepticon-1877,12.45,levante,east,levante
+clics-doculect-76-1173,stan1288-std,concepticon-1817,12.46,oeste,west,oeste
+clics-doculect-76-1174,stan1288-std,concepticon-1817,12.46,poniente,west,poniente
+clics-doculect-76-1175,stan1288-std,concepticon-1598,12.47,norte,north,norte
+clics-doculect-76-1176,stan1288-std,concepticon-1595,12.48,sur,south,sur
+clics-doculect-76-1177,stan1288-std,concepticon-479,12.53,crecer,grow,crecer
+clics-doculect-76-1178,stan1288-std,concepticon-1506,12.54,medir,measure,medir
+clics-doculect-76-1179,stan1288-std,concepticon-81,12.541,braza,"span, fathom",braza
+clics-doculect-76-1180,stan1288-std,concepticon-1202,12.55,grande,"large, big",grande
+clics-doculect-76-1181,stan1288-std,concepticon-1246,12.56,chico,"small, little",chico
+clics-doculect-76-1182,stan1288-std,concepticon-1246,12.56,pequeɲo,"small, little",pequeno
+clics-doculect-76-1183,stan1288-std,concepticon-1203,12.57,largo,long,largo
+clics-doculect-76-1184,stan1288-std,concepticon-711,12.58,alto,tall,alto
+clics-doculect-76-1185,stan1288-std,concepticon-1645,12.59,corto,short,corto
+clics-doculect-76-1186,stan1288-std,concepticon-1243,12.61,ancho,"wide, broad",ancho
+clics-doculect-76-1187,stan1288-std,concepticon-1243,12.61,amplio,"wide, broad",amplio
+clics-doculect-76-1188,stan1288-std,concepticon-1267,12.62,angosto,narrow,angosto
+clics-doculect-76-1189,stan1288-std,concepticon-1267,12.62,estrecho,narrow,estrecho
+clics-doculect-76-1190,stan1288-std,concepticon-1244,12.63,grueso,thick (in dimension),grueso
+clics-doculect-76-1191,stan1288-std,concepticon-2249,12.65,delgado,thin (in dimension),delgado
+clics-doculect-76-1192,stan1288-std,concepticon-1593,12.67,profundo,deep,profundo
+clics-doculect-76-1193,stan1288-std,concepticon-1593,12.67,hondo,deep,hondo
+clics-doculect-76-1194,stan1288-std,concepticon-193,12.68,bajo,shallow,bajo
+clics-doculect-76-1195,stan1288-std,concepticon-193,12.68,pocoprofundo,shallow,pocoprofundo
+clics-doculect-76-1196,stan1288-std,concepticon-1633,12.71,plano,flat,plano
+clics-doculect-76-1197,stan1288-std,concepticon-1404,12.73,derecho,straight,derecho
+clics-doculect-76-1198,stan1288-std,concepticon-1404,12.73,recto,straight,recto
+clics-doculect-76-1199,stan1288-std,concepticon-297,12.74,torcido,crooked,torcido
+clics-doculect-76-1200,stan1288-std,concepticon-1071,12.75,gancho,hook,gancho
+clics-doculect-76-1201,stan1288-std,concepticon-192,12.76,esquina,corner,esquina
+clics-doculect-76-1202,stan1288-std,concepticon-192,12.76,rincón,corner,rincon
+clics-doculect-76-1203,stan1288-std,concepticon-1367,12.77,cruz,cross,cruz
+clics-doculect-76-1204,stan1288-std,concepticon-850,12.78,cuadrado,square,cuadrado
+clics-doculect-76-1205,stan1288-std,concepticon-1395,12.81,redondo,round,redondo
+clics-doculect-76-1206,stan1288-std,concepticon-1467,12.82,círculo,circle,circulo
+clics-doculect-76-1207,stan1288-std,concepticon-1845,12.83,pelota,"sphere, ball",pelota
+clics-doculect-76-1208,stan1288-std,concepticon-1845,12.83,esfera,"sphere, ball",esfera
+clics-doculect-76-1209,stan1288-std,concepticon-1845,12.83,globo,"sphere, ball",globo
+clics-doculect-76-1210,stan1288-std,concepticon-1048,12.84,línea,line,linea
+clics-doculect-76-1211,stan1288-std,concepticon-1667,12.85,agujero,hole,agujero
+clics-doculect-76-1212,stan1288-std,concepticon-1558,12.92,semejante,"like, similar",semejante
+clics-doculect-76-1213,stan1288-std,concepticon-1558,12.92,parecido,"like, similar",parecido
+clics-doculect-76-1214,stan1288-std,concepticon-1264,12.93,cambiar,change,cambiar
+clics-doculect-76-1215,stan1288-std,concepticon-1264,12.93,mudar,change,mudar
+clics-doculect-76-1216,stan1288-std,concepticon-1294,13.0,cero,"zero, nothing",cero
+clics-doculect-76-1217,stan1288-std,concepticon-1294,13.0,nada,"zero, nothing",nada
+clics-doculect-76-1218,stan1288-std,concepticon-1493,13.1,uno,one,uno
+clics-doculect-76-1219,stan1288-std,concepticon-1498,13.2,dos,two,dos
+clics-doculect-76-1220,stan1288-std,concepticon-492,13.3,tres,three,tres
+clics-doculect-76-1221,stan1288-std,concepticon-1500,13.4,cuatro,four,cuatro
+clics-doculect-76-1222,stan1288-std,concepticon-493,13.5,cinco,five,cinco
+clics-doculect-76-1223,stan1288-std,concepticon-1703,13.6,seis,six,seis
+clics-doculect-76-1224,stan1288-std,concepticon-1704,13.7,siete,seven,siete
+clics-doculect-76-1225,stan1288-std,concepticon-1705,13.8,ocho,eight,ocho
+clics-doculect-76-1226,stan1288-std,concepticon-1483,13.9,nueve,nine,nueve
+clics-doculect-76-1227,stan1288-std,concepticon-1515,13.10,diez,ten,diez
+clics-doculect-76-1228,stan1288-std,concepticon-1706,13.101,once,eleven,once
+clics-doculect-76-1229,stan1288-std,concepticon-1707,13.102,doce,twelve,doce
+clics-doculect-76-1230,stan1288-std,concepticon-1709,13.103,quince,fifteen,quince
+clics-doculect-76-1231,stan1288-std,concepticon-1710,13.104,veinte,twenty,veinte
+clics-doculect-76-1232,stan1288-std,concepticon-1634,13.105,ciento,hundred,ciento
+clics-doculect-76-1233,stan1288-std,concepticon-1634,13.105,cien,hundred,cien
+clics-doculect-76-1234,stan1288-std,concepticon-1843,13.106,mil,thousand,mil
+clics-doculect-76-1235,stan1288-std,concepticon-1420,13.107,contar,count,contar
+clics-doculect-76-1236,stan1288-std,concepticon-98,13.14,cada,"every, all",cada
+clics-doculect-76-1237,stan1288-std,concepticon-98,13.14,todo,"every, all",todo
+clics-doculect-76-1238,stan1288-std,concepticon-1198,13.15,mucho,"much, many",mucho
+clics-doculect-76-1239,stan1288-std,concepticon-1992,13.16,más,more,mas
+clics-doculect-76-1240,stan1288-std,concepticon-1242,13.17,poco,"little (quantity), few",poco
+clics-doculect-76-1241,stan1288-std,concepticon-1881,13.18,bastante,enough,bastante
+clics-doculect-76-1242,stan1288-std,concepticon-1881,13.18,suficiente,enough,suficiente
+clics-doculect-76-1243,stan1288-std,concepticon-1241,13.181,unpoco,some,unpoco
+clics-doculect-76-1244,stan1288-std,concepticon-1241,13.181,algo,some,algo
+clics-doculect-76-1245,stan1288-std,concepticon-1241,13.181,alguno,some,alguno
+clics-doculect-76-1246,stan1288-std,concepticon-2023,13.19,multitud,"multitude, crowd",multitud
+clics-doculect-76-1247,stan1288-std,concepticon-1429,13.21,lleno,full,lleno
+clics-doculect-76-1248,stan1288-std,concepticon-1624,13.22,vacío,empty,vacio
+clics-doculect-76-1249,stan1288-std,concepticon-779,13.23,pedazo,"part, piece",pedazo
+clics-doculect-76-1250,stan1288-std,concepticon-779,13.23,parte,"part, piece",parte
+clics-doculect-76-1251,stan1288-std,concepticon-816,13.24,mitad,half,mitad
+clics-doculect-76-1252,stan1288-std,concepticon-1580,13.33,solo,"alone, only",solo
+clics-doculect-76-1253,stan1288-std,concepticon-1580,13.33,solamente,"alone, only",solamente
+clics-doculect-76-1254,stan1288-std,concepticon-728,13.34,primero,first,primero
+clics-doculect-76-1255,stan1288-std,concepticon-1529,13.35,último,last,ultimo
+clics-doculect-76-1256,stan1288-std,concepticon-1384,13.36,segundo,second,segundo
+clics-doculect-76-1257,stan1288-std,concepticon-1888,13.37,par,pair,par
+clics-doculect-76-1258,stan1288-std,concepticon-1546,13.38,dosveces,two times,dosveces
+clics-doculect-76-1259,stan1288-std,concepticon-1859,13.42,tercero,third,tercero
+clics-doculect-76-1260,stan1288-std,concepticon-417,13.44,tresveces,three times,tresveces
+clics-doculect-76-1261,stan1288-std,concepticon-892,14.11,tiempo,time,tiempo
+clics-doculect-76-1262,stan1288-std,concepticon-1789,14.12,edad,age,edad
+clics-doculect-76-1263,stan1288-std,concepticon-1231,14.13,nuevo,new,nuevo
+clics-doculect-76-1264,stan1288-std,concepticon-1207,14.14,tierno,young,tierno
+clics-doculect-76-1265,stan1288-std,concepticon-1207,14.14,joven,young,joven
+clics-doculect-76-1266,stan1288-std,concepticon-1229,14.15,viejo,old,viejo
+clics-doculect-76-1267,stan1288-std,concepticon-672,14.16,temprano,early,temprano
+clics-doculect-76-1268,stan1288-std,concepticon-477,14.17,tarde,late,tarde
+clics-doculect-76-1269,stan1288-std,concepticon-1376,14.18,ahora,now,ahora
+clics-doculect-76-1270,stan1288-std,concepticon-1963,14.19,enseguida,immediately,enseguida
+clics-doculect-76-1271,stan1288-std,concepticon-1963,14.19,inmediatamente,immediately,inmediatamente
+clics-doculect-76-1272,stan1288-std,concepticon-1631,14.21,rápido,"swift, fast, quick",rapido
+clics-doculect-76-1273,stan1288-std,concepticon-701,14.22,despacio,slow,despacio
+clics-doculect-76-1274,stan1288-std,concepticon-701,14.22,lentamente,slow,lentamente
+clics-doculect-76-1275,stan1288-std,concepticon-754,14.23,apurarse,"hasten, hurry",apurarse
+clics-doculect-76-1276,stan1288-std,concepticon-754,14.23,darseprisa,"hasten, hurry",darseprisa
+clics-doculect-76-1277,stan1288-std,concepticon-425,14.24,demorar,"retard, delay",demorar
+clics-doculect-76-1278,stan1288-std,concepticon-425,14.24,retrasar,"retard, delay",retrasar
+clics-doculect-76-1279,stan1288-std,concepticon-425,14.24,tardar,"retard, delay",tardar
+clics-doculect-76-1280,stan1288-std,concepticon-1806,14.25,empezar,"begin, beginning",empezar
+clics-doculect-76-1281,stan1288-std,concepticon-1806,14.25,comenzar,"begin, beginning",comenzar
+clics-doculect-76-1282,stan1288-std,concepticon-1806,14.25,inicio,"begin, beginning",inicio
+clics-doculect-76-1283,stan1288-std,concepticon-1186,14.252,durar,"last, endure",durar
+clics-doculect-76-1284,stan1288-std,concepticon-743,14.26,fin,end (temporal),fin
+clics-doculect-76-1285,stan1288-std,concepticon-1766,14.27,acabar,finish,acabar
+clics-doculect-76-1286,stan1288-std,concepticon-1766,14.27,terminar,finish,terminar
+clics-doculect-76-1287,stan1288-std,concepticon-1766,14.27,finalizar,finish,finalizar
+clics-doculect-76-1288,stan1288-std,concepticon-1928,14.28,terminar,"cease, stop",terminar
+clics-doculect-76-1289,stan1288-std,concepticon-1928,14.28,detenerse,"cease, stop",detenerse
+clics-doculect-76-1290,stan1288-std,concepticon-1928,14.28,cesar,"cease, stop",cesar
+clics-doculect-76-1291,stan1288-std,concepticon-790,14.29,listo,ready,listo
+clics-doculect-76-1292,stan1288-std,concepticon-790,14.29,preparado,ready,preparado
+clics-doculect-76-1293,stan1288-std,concepticon-1676,14.31,siempre,always,siempre
+clics-doculect-76-1294,stan1288-std,concepticon-1852,14.32,amenudo,often,amenudo
+clics-doculect-76-1295,stan1288-std,concepticon-1852,14.32,frecuentemente,often,frecuentemente
+clics-doculect-76-1296,stan1288-std,concepticon-1544,14.33,aveces,sometimes,aveces
+clics-doculect-76-1297,stan1288-std,concepticon-703,14.331,pronto,soon,pronto
+clics-doculect-76-1298,stan1288-std,concepticon-418,14.332,pormuchotiempo,long-time (for a),pormuchotiempo
+clics-doculect-76-1299,stan1288-std,concepticon-1656,14.34,nunca,never,nunca
+clics-doculect-76-1300,stan1288-std,concepticon-1656,14.34,jamás,never,jamas
+clics-doculect-76-1301,stan1288-std,concepticon-204,14.35,otravez,again,otravez
+clics-doculect-76-1302,stan1288-std,concepticon-204,14.35,denuevo,again,denuevo
+clics-doculect-76-1303,stan1288-std,concepticon-1225,14.41,día,day,dia
+clics-doculect-76-1304,stan1288-std,concepticon-1233,14.42,noche,night,noche
+clics-doculect-76-1305,stan1288-std,concepticon-729,14.43,madrugada,dawn,madrugada
+clics-doculect-76-1306,stan1288-std,concepticon-729,14.43,amanecer,dawn,amanecer
+clics-doculect-76-1307,stan1288-std,concepticon-1339,14.44,maɲana,morning,manana
+clics-doculect-76-1308,stan1288-std,concepticon-12,14.45,mediodía,"noon, midday",mediodia
+clics-doculect-76-1309,stan1288-std,concepticon-1807,14.451,tarde,afternoon,tarde
+clics-doculect-76-1310,stan1288-std,concepticon-1629,14.46,vísperas,evening,visperas
+clics-doculect-76-1311,stan1288-std,concepticon-1629,14.46,noche,evening,noche
+clics-doculect-76-1312,stan1288-std,concepticon-1283,14.47,hoy,today,hoy
+clics-doculect-76-1313,stan1288-std,concepticon-1329,14.48,maɲana,tomorrow,manana
+clics-doculect-76-1314,stan1288-std,concepticon-1179,14.481,pasadomaɲana,day-after-tomorrow,pasadomanana
+clics-doculect-76-1315,stan1288-std,concepticon-1174,14.49,ayer,yesterday,ayer
+clics-doculect-76-1316,stan1288-std,concepticon-1180,14.491,anteayer,day-before-yesterday,anteayer
+clics-doculect-76-1317,stan1288-std,concepticon-1353,14.51,hora,hour,hora
+clics-doculect-76-1318,stan1288-std,concepticon-1323,14.53,reloj,"clock, timepiece",reloj
+clics-doculect-76-1319,stan1288-std,concepticon-1469,14.61,semana,week,semana
+clics-doculect-76-1320,stan1288-std,concepticon-1699,14.62,domingo,Sunday,domingo
+clics-doculect-76-1321,stan1288-std,concepticon-1697,14.63,lunes,Monday,lunes
+clics-doculect-76-1322,stan1288-std,concepticon-1695,14.64,martes,Tuesday,martes
+clics-doculect-76-1323,stan1288-std,concepticon-1694,14.65,miércoles,Wednesday,miercoles
+clics-doculect-76-1324,stan1288-std,concepticon-1693,14.66,jueves,Thursday,jueves
+clics-doculect-76-1325,stan1288-std,concepticon-1692,14.67,viernes,Friday,viernes
+clics-doculect-76-1326,stan1288-std,concepticon-1700,14.68,sábado,Saturday,sabado
+clics-doculect-76-1327,stan1288-std,concepticon-1370,14.71,mes,month,mes
+clics-doculect-76-1328,stan1288-std,concepticon-1226,14.73,aɲo,year,ano
+clics-doculect-76-1329,stan1288-std,concepticon-1471,14.74,invierno,winter,invierno
+clics-doculect-76-1330,stan1288-std,concepticon-1537,14.75,primavera,spring,primavera
+clics-doculect-76-1331,stan1288-std,concepticon-1342,14.76,verano,summer,verano
+clics-doculect-76-1332,stan1288-std,concepticon-1276,14.77,otoɲo,autumn,otono
+clics-doculect-76-1333,stan1288-std,concepticon-691,14.78,estación,season,estacion
+clics-doculect-76-1334,stan1288-std,concepticon-1587,15.21,oler,smell (vb intrans),oler
+clics-doculect-76-1335,stan1288-std,concepticon-1587,15.21,olfatear,smell (vb intrans),olfatear
+clics-doculect-76-1336,stan1288-std,concepticon-375,15.212,husmear,sniff,husmear
+clics-doculect-76-1337,stan1288-std,concepticon-1586,15.22,oler,smell (vb trans),oler
+clics-doculect-76-1338,stan1288-std,concepticon-1586,15.22,olfatear,smell (vb trans),olfatear
+clics-doculect-76-1339,stan1288-std,concepticon-376,15.25,fragante,"fragrant, good smelling",fragante
+clics-doculect-76-1340,stan1288-std,concepticon-376,15.25,bienoliente,"fragrant, good smelling",bienoliente
+clics-doculect-76-1341,stan1288-std,concepticon-42,15.26,hediondo,"stinking, bad smelling",hediondo
+clics-doculect-76-1342,stan1288-std,concepticon-21,15.31,gustar,taste,gustar
+clics-doculect-76-1343,stan1288-std,concepticon-21,15.31,saborear,taste,saborear
+clics-doculect-76-1344,stan1288-std,concepticon-717,15.35,dulce,sweet,dulce
+clics-doculect-76-1345,stan1288-std,concepticon-1091,15.36,salado,salty,salado
+clics-doculect-76-1346,stan1288-std,concepticon-887,15.37,amargo,bitter,amargo
+clics-doculect-76-1347,stan1288-std,concepticon-1906,15.38,ácido,"acid, sour",acido
+clics-doculect-76-1348,stan1288-std,concepticon-1906,15.38,agrio,"acid, sour",agrio
+clics-doculect-76-1349,stan1288-std,concepticon-70,15.39,salobre,brackish,salobre
+clics-doculect-76-1350,stan1288-std,concepticon-1408,15.41,oír,hear,oir
+clics-doculect-76-1351,stan1288-std,concepticon-1608,15.42,escuchar,listen,escuchar
+clics-doculect-76-1352,stan1288-std,concepticon-1811,15.44,sonido,"sound, noise",sonido
+clics-doculect-76-1353,stan1288-std,concepticon-1811,15.44,ruido,"sound, noise",ruido
+clics-doculect-76-1354,stan1288-std,concepticon-377,15.45,alta,loud,alta
+clics-doculect-76-1355,stan1288-std,concepticon-377,15.45,ruidoso,loud,ruidoso
+clics-doculect-76-1356,stan1288-std,concepticon-1314,15.46,silencio,"quiet, silence",silencio
+clics-doculect-76-1357,stan1288-std,concepticon-1314,15.46,tranquilo,"quiet, silence",tranquilo
+clics-doculect-76-1358,stan1288-std,concepticon-1409,15.51,ver,see,ver
+clics-doculect-76-1359,stan1288-std,concepticon-1819,15.52,mirar,"look, look at",mirar
+clics-doculect-76-1360,stan1288-std,concepticon-1819,15.52,contemplar,"look, look at",contemplar
+clics-doculect-76-1361,stan1288-std,concepticon-1039,15.55,mostrar,show,mostrar
+clics-doculect-76-1362,stan1288-std,concepticon-1039,15.55,seɲalar,show,senalar
+clics-doculect-76-1363,stan1288-std,concepticon-708,15.56,brillar,shine,brillar
+clics-doculect-76-1364,stan1288-std,concepticon-679,15.57,brillante,bright,brillante
+clics-doculect-76-1365,stan1288-std,concepticon-679,15.57,resplandor,bright,resplandor
+clics-doculect-76-1366,stan1288-std,concepticon-1613,15.61,color,color,color
+clics-doculect-76-1367,stan1288-std,concepticon-250,15.62,claro,light (in color),claro
+clics-doculect-76-1368,stan1288-std,concepticon-706,15.63,oscuro,dark (in color),oscuro
+clics-doculect-76-1369,stan1288-std,concepticon-1335,15.64,blanco,white,blanco
+clics-doculect-76-1370,stan1288-std,concepticon-163,15.65,negro,black,negro
+clics-doculect-76-1371,stan1288-std,concepticon-156,15.66,rojo,red,rojo
+clics-doculect-76-1372,stan1288-std,concepticon-837,15.67,azul,blue,azul
+clics-doculect-76-1373,stan1288-std,concepticon-1425,15.68,verde,green,verde
+clics-doculect-76-1374,stan1288-std,concepticon-1424,15.69,amarillo,yellow,amarillo
+clics-doculect-76-1375,stan1288-std,concepticon-1892,15.71,tocar,touch,tocar
+clics-doculect-76-1376,stan1288-std,concepticon-378,15.712,pellizcar,pinch,pellizcar
+clics-doculect-76-1377,stan1288-std,concepticon-1079,15.72,sentir,feel,sentir
+clics-doculect-76-1378,stan1288-std,concepticon-1884,15.74,duro,hard,duro
+clics-doculect-76-1379,stan1288-std,concepticon-1856,15.75,suave,soft,suave
+clics-doculect-76-1380,stan1288-std,concepticon-1923,15.76,áspero,rough,aspero
+clics-doculect-76-1381,stan1288-std,concepticon-1234,15.77,suave,smooth,suave
+clics-doculect-76-1382,stan1288-std,concepticon-1234,15.77,liso,smooth,liso
+clics-doculect-76-1383,stan1288-std,concepticon-1396,15.78,afilado,sharp,afilado
+clics-doculect-76-1384,stan1288-std,concepticon-1396,15.78,aguzado,sharp,aguzado
+clics-doculect-76-1385,stan1288-std,concepticon-1396,15.78,filoso,sharp,filoso
+clics-doculect-76-1386,stan1288-std,concepticon-379,15.79,romo,"blunt, dull",romo
+clics-doculect-76-1387,stan1288-std,concepticon-379,15.79,embotado,"blunt, dull",embotado
+clics-doculect-76-1388,stan1288-std,concepticon-1210,15.81,pesado,heavy,pesado
+clics-doculect-76-1389,stan1288-std,concepticon-1052,15.82,liviano,light (in weight),liviano
+clics-doculect-76-1390,stan1288-std,concepticon-1052,15.82,ligero,light (in weight),ligero
+clics-doculect-76-1391,stan1288-std,concepticon-1726,15.83,mojado,"wet, damp",mojado
+clics-doculect-76-1392,stan1288-std,concepticon-1726,15.83,húmedo,"wet, damp",humedo
+clics-doculect-76-1393,stan1288-std,concepticon-1398,15.84,seco,dry,seco
+clics-doculect-76-1394,stan1288-std,concepticon-1286,15.85,caliente,hot,caliente
+clics-doculect-76-1395,stan1288-std,concepticon-1232,15.851,tibio,warm,tibio
+clics-doculect-76-1396,stan1288-std,concepticon-1232,15.851,cálido,warm,calido
+clics-doculect-76-1397,stan1288-std,concepticon-1287,15.86,frío,cold,frio
+clics-doculect-76-1398,stan1288-std,concepticon-704,15.87,limpio,clean,limpio
+clics-doculect-76-1399,stan1288-std,concepticon-1230,15.88,sucio,"dirty, soiled",sucio
+clics-doculect-76-1400,stan1288-std,concepticon-380,15.89,arrugado,wrinkled,arrugado
+clics-doculect-76-1401,stan1288-std,concepticon-53,16.11,alma,"soul, spirit",alma
+clics-doculect-76-1402,stan1288-std,concepticon-1572,16.15,sorprendido,"surprised, astonished",sorprendido
+clics-doculect-76-1403,stan1288-std,concepticon-1572,16.15,estupefacto,"surprised, astonished",estupefacto
+clics-doculect-76-1404,stan1288-std,concepticon-720,16.18,buenasuerte,"good fortune, luck",buenasuerte
+clics-doculect-76-1405,stan1288-std,concepticon-56,16.19,malasuerte,"misfortune, bad luck",malasuerte
+clics-doculect-76-1406,stan1288-std,concepticon-1495,16.23,alegre,"joyful, glad, happy",alegre
+clics-doculect-76-1407,stan1288-std,concepticon-1495,16.23,contento,"joyful, glad, happy",contento
+clics-doculect-76-1408,stan1288-std,concepticon-1495,16.23,feliz,"joyful, glad, happy",feliz
+clics-doculect-76-1409,stan1288-std,concepticon-1355,16.25,reír,laugh,reir
+clics-doculect-76-1410,stan1288-std,concepticon-1451,16.251,sonreír,smile,sonreir
+clics-doculect-76-1411,stan1288-std,concepticon-1413,16.26,jugar,play,jugar
+clics-doculect-76-1412,stan1288-std,concepticon-923,16.27,querer,love,querer
+clics-doculect-76-1413,stan1288-std,concepticon-923,16.27,amar,love,amar
+clics-doculect-76-1414,stan1288-std,concepticon-578,16.29,besar,kiss,besar
+clics-doculect-76-1415,stan1288-std,concepticon-928,16.3,abrazar,embrace,abrazar
+clics-doculect-76-1416,stan1288-std,concepticon-1783,16.31,dolor,pain,dolor
+clics-doculect-76-1417,stan1288-std,concepticon-1668,16.32,tristeza,"grief, sorrow, sadness",tristeza
+clics-doculect-76-1418,stan1288-std,concepticon-1668,16.32,dolor,"grief, sorrow, sadness",dolor
+clics-doculect-76-1419,stan1288-std,concepticon-1668,16.32,pena,"grief, sorrow, sadness",pena
+clics-doculect-76-1420,stan1288-std,concepticon-1000,16.33,ansiedad,"anxiety, worry",ansiedad
+clics-doculect-76-1421,stan1288-std,concepticon-1000,16.33,angustia,"anxiety, worry",angustia
+clics-doculect-76-1422,stan1288-std,concepticon-1000,16.33,preocupación,"anxiety, worry",preocupacion
+clics-doculect-76-1423,stan1288-std,concepticon-1875,16.34,lamentar,"regret, be sorry",lamentar
+clics-doculect-76-1424,stan1288-std,concepticon-1875,16.34,sentir,"regret, be sorry",sentir
+clics-doculect-76-1425,stan1288-std,concepticon-1141,16.35,compasión,pity,compasion
+clics-doculect-76-1426,stan1288-std,concepticon-1141,16.35,lástima,pity,lastima
+clics-doculect-76-1427,stan1288-std,concepticon-1839,16.37,llorar,"cry, weep",llorar
+clics-doculect-76-1428,stan1288-std,concepticon-1651,16.38,lágrima,tear (noun),lagrima
+clics-doculect-76-1429,stan1288-std,concepticon-716,16.39,gemir,groan,gemir
+clics-doculect-76-1430,stan1288-std,concepticon-1607,16.41,odiar,hate,odiar
+clics-doculect-76-1431,stan1288-std,concepticon-82,16.42,enojo,anger,enojo
+clics-doculect-76-1432,stan1288-std,concepticon-82,16.42,ira,anger,ira
+clics-doculect-76-1433,stan1288-std,concepticon-82,16.42,rabia,anger,rabia
+clics-doculect-76-1434,stan1288-std,concepticon-40,16.44,envidia,"envy, jealousy",envidia
+clics-doculect-76-1435,stan1288-std,concepticon-40,16.44,celos,"envy, jealousy",celos
+clics-doculect-76-1436,stan1288-std,concepticon-1776,16.45,vergüenza,shame (noun),verguenza
+clics-doculect-76-1437,stan1288-std,concepticon-174,16.48,orgulloso,proud,orgulloso
+clics-doculect-76-1438,stan1288-std,concepticon-1779,16.51,osar,dare,osar
+clics-doculect-76-1439,stan1288-std,concepticon-1779,16.51,atreverse,dare,atreverse
+clics-doculect-76-1440,stan1288-std,concepticon-3,16.52,valiente,brave,valiente
+clics-doculect-76-1441,stan1288-std,concepticon-781,16.53,miedo,"fear, fright",miedo
+clics-doculect-76-1442,stan1288-std,concepticon-781,16.53,susto,"fear, fright",susto
+clics-doculect-76-1443,stan1288-std,concepticon-1810,16.54,peligro,danger,peligro
+clics-doculect-76-1444,stan1288-std,concepticon-1784,16.62,anhelar,"desire, want",anhelar
+clics-doculect-76-1445,stan1288-std,concepticon-1784,16.62,desear,"desire, want",desear
+clics-doculect-76-1446,stan1288-std,concepticon-1750,16.622,escoger,choose,escoger
+clics-doculect-76-1447,stan1288-std,concepticon-1750,16.622,elegir,choose,elegir
+clics-doculect-76-1448,stan1288-std,concepticon-1092,16.63,esperanza,hope,esperanza
+clics-doculect-76-1449,stan1288-std,concepticon-100,16.65,fiel,faithful,fiel
+clics-doculect-76-1450,stan1288-std,concepticon-1657,16.66,verdadero,true,verdadero
+clics-doculect-76-1451,stan1288-std,concepticon-601,16.67,mentir,"lie, tell lies",mentir
+clics-doculect-76-1452,stan1288-std,concepticon-13,16.68,engaɲo,deceit,engano
+clics-doculect-76-1453,stan1288-std,concepticon-1528,16.69,perdonar,forgive,perdonar
+clics-doculect-76-1454,stan1288-std,concepticon-1035,16.71,bueno,good,bueno
+clics-doculect-76-1455,stan1288-std,concepticon-1292,16.72,malo,bad,malo
+clics-doculect-76-1456,stan1288-std,concepticon-1725,16.73,correcto,"right, correct",correcto
+clics-doculect-76-1457,stan1288-std,concepticon-1390,16.74,incorrecto,wrong,incorrecto
+clics-doculect-76-1458,stan1288-std,concepticon-1390,16.74,falso,wrong,falso
+clics-doculect-76-1459,stan1288-std,concepticon-134,16.76,culpa,fault,culpa
+clics-doculect-76-1460,stan1288-std,concepticon-1293,16.77,equivocación,"mistake, error",equivocacion
+clics-doculect-76-1461,stan1288-std,concepticon-1293,16.77,error,"mistake, error",error
+clics-doculect-76-1462,stan1288-std,concepticon-381,16.78,culpa,blame,culpa
+clics-doculect-76-1463,stan1288-std,concepticon-381,16.78,censura,blame,censura
+clics-doculect-76-1464,stan1288-std,concepticon-1687,16.79,exaltar,praise,exaltar
+clics-doculect-76-1465,stan1288-std,concepticon-1687,16.79,alabar,praise,alabar
+clics-doculect-76-1466,stan1288-std,concepticon-1427,16.81,hermoso,beautiful,hermoso
+clics-doculect-76-1467,stan1288-std,concepticon-1427,16.81,bonito,beautiful,bonito
+clics-doculect-76-1468,stan1288-std,concepticon-1427,16.81,lindo,beautiful,lindo
+clics-doculect-76-1469,stan1288-std,concepticon-1548,16.82,feo,ugly,feo
+clics-doculect-76-1470,stan1288-std,concepticon-2018,16.83,codicioso,greedy,codicioso
+clics-doculect-76-1471,stan1288-std,concepticon-2018,16.83,voraz,greedy,voraz
+clics-doculect-76-1472,stan1288-std,concepticon-1310,16.84,hábil,clever,habil
+clics-doculect-76-1473,stan1288-std,concepticon-1310,16.84,capaz,clever,capaz
+clics-doculect-76-1474,stan1288-std,concepticon-1562,17.11,mente,mind,mente
+clics-doculect-76-1475,stan1288-std,concepticon-1562,17.11,pensamiento,mind,pensamiento
+clics-doculect-76-1476,stan1288-std,concepticon-1415,17.13,pensar,think (= reflect),pensar
+clics-doculect-76-1477,stan1288-std,concepticon-1513,17.14,creer,think (= be of the opinion),creer
+clics-doculect-76-1478,stan1288-std,concepticon-1513,17.14,suponer,think (= be of the opinion),suponer
+clics-doculect-76-1479,stan1288-std,concepticon-1890,17.15,creer,believe,creer
+clics-doculect-76-1480,stan1288-std,concepticon-1536,17.16,entender,understand,entender
+clics-doculect-76-1481,stan1288-std,concepticon-1536,17.16,comprender,understand,comprender
+clics-doculect-76-1482,stan1288-std,concepticon-1410,17.17,saber,know,saber
+clics-doculect-76-1483,stan1288-std,concepticon-1410,17.17,conocer,know,conocer
+clics-doculect-76-1484,stan1288-std,concepticon-1932,17.171,adivinar,guess,adivinar
+clics-doculect-76-1485,stan1288-std,concepticon-1932,17.171,acertar,guess,acertar
+clics-doculect-76-1486,stan1288-std,concepticon-117,17.172,imitar,imitate,imitar
+clics-doculect-76-1487,stan1288-std,concepticon-1521,17.18,parecer,seem,parecer
+clics-doculect-76-1488,stan1288-std,concepticon-1609,17.19,idea,"idea, notion",idea
+clics-doculect-76-1489,stan1288-std,concepticon-1609,17.19,concepto,"idea, notion",concepto
+clics-doculect-76-1490,stan1288-std,concepticon-698,17.21,sabio,wise,sabio
+clics-doculect-76-1491,stan1288-std,concepticon-1518,17.22,necio,"foolish, stupid",necio
+clics-doculect-76-1492,stan1288-std,concepticon-1518,17.22,estúpido,"foolish, stupid",estupido
+clics-doculect-76-1493,stan1288-std,concepticon-1518,17.22,tonto,"foolish, stupid",tonto
+clics-doculect-76-1494,stan1288-std,concepticon-1899,17.23,loco,"insane, crazy",loco
+clics-doculect-76-1495,stan1288-std,concepticon-1899,17.23,insano,"insane, crazy",insano
+clics-doculect-76-1496,stan1288-std,concepticon-504,17.24,aprender,learn,aprender
+clics-doculect-76-1497,stan1288-std,concepticon-1929,17.242,estudiar,study,estudiar
+clics-doculect-76-1498,stan1288-std,concepticon-709,17.25,enseɲar,teach,ensenar
+clics-doculect-76-1499,stan1288-std,concepticon-753,17.26,alumno,pupil,alumno
+clics-doculect-76-1500,stan1288-std,concepticon-1038,17.27,profesor,teacher,profesor
+clics-doculect-76-1501,stan1288-std,concepticon-1038,17.27,maestro,teacher,maestro
+clics-doculect-76-1502,stan1288-std,concepticon-673,17.28,escuela,school,escuela
+clics-doculect-76-1503,stan1288-std,concepticon-673,17.28,colegio,school,colegio
+clics-doculect-76-1504,stan1288-std,concepticon-707,17.31,recordar,remember,recordar
+clics-doculect-76-1505,stan1288-std,concepticon-707,17.31,acordarse,remember,acordarse
+clics-doculect-76-1506,stan1288-std,concepticon-1523,17.32,olvidar,forget,olvidar
+clics-doculect-76-1507,stan1288-std,concepticon-989,17.34,claro,"clear, plain",claro
+clics-doculect-76-1508,stan1288-std,concepticon-989,17.34,evidente,"clear, plain",evidente
+clics-doculect-76-1509,stan1288-std,concepticon-1764,17.35,obscuro,obscure,obscuro
+clics-doculect-76-1510,stan1288-std,concepticon-1121,17.36,secreto,secret,secreto
+clics-doculect-76-1511,stan1288-std,concepticon-509,17.37,seguro,"sure, certain",seguro
+clics-doculect-76-1512,stan1288-std,concepticon-509,17.37,cierto,"sure, certain",cierto
+clics-doculect-76-1513,stan1288-std,concepticon-1626,17.38,explicar,explain,explicar
+clics-doculect-76-1514,stan1288-std,concepticon-1162,17.41,propósito,"intention, purpose",proposito
+clics-doculect-76-1515,stan1288-std,concepticon-1162,17.41,intención,"intention, purpose",intencion
+clics-doculect-76-1516,stan1288-std,concepticon-860,17.42,causar,cause,causar
+clics-doculect-76-1517,stan1288-std,concepticon-1308,17.43,dudar,doubt,dudar
+clics-doculect-76-1518,stan1288-std,concepticon-1841,17.44,sospechar,suspect,sospechar
+clics-doculect-76-1519,stan1288-std,concepticon-1902,17.441,traicionar,betray,traicionar
+clics-doculect-76-1520,stan1288-std,concepticon-643,17.45,necesidad,"need, necessity",necesidad
+clics-doculect-76-1521,stan1288-std,concepticon-686,17.46,fácil,easy,facil
+clics-doculect-76-1522,stan1288-std,concepticon-584,17.47,difícil,difficult,dificil
+clics-doculect-76-1523,stan1288-std,concepticon-1812,17.48,tratar,"try, attempt",tratar
+clics-doculect-76-1524,stan1288-std,concepticon-1812,17.48,probar,"try, attempt",probar
+clics-doculect-76-1525,stan1288-std,concepticon-488,17.49,modo,"way, manner",modo
+clics-doculect-76-1526,stan1288-std,concepticon-488,17.49,manera,"way, manner",manera
+clics-doculect-76-1527,stan1288-std,concepticon-1577,17.51,y,and,y
+clics-doculect-76-1528,stan1288-std,concepticon-1157,17.52,porque,because,porque
+clics-doculect-76-1529,stan1288-std,concepticon-1459,17.53,si,if,si
+clics-doculect-76-1530,stan1288-std,concepticon-1014,17.54,o,or,o
+clics-doculect-76-1531,stan1288-std,concepticon-1268,17.55,sí,"yes, affirmative",si
+clics-doculect-76-1532,stan1288-std,concepticon-1268,17.55,afirmativo,"yes, affirmative",afirmativo
+clics-doculect-76-1533,stan1288-std,concepticon-1269,17.56,no,"no, negative",no
+clics-doculect-76-1534,stan1288-std,concepticon-1269,17.56,negativo,"no, negative",negativo
+clics-doculect-76-1535,stan1288-std,concepticon-1239,17.61,¿cómo?,how?,?como?
+clics-doculect-76-1536,stan1288-std,concepticon-822,17.62,¿cuántos?,how many?,?cuantos?
+clics-doculect-76-1537,stan1288-std,concepticon-531,17.63,¿cuánto?,how much?,?cuanto?
+clics-doculect-76-1538,stan1288-std,concepticon-1236,17.64,¿qué?,what?,?que?
+clics-doculect-76-1539,stan1288-std,concepticon-1238,17.65,¿cuándo?,when?,?cuando?
+clics-doculect-76-1540,stan1288-std,concepticon-1237,17.66,¿dónde?,where?,?donde?
+clics-doculect-76-1541,stan1288-std,concepticon-727,17.67,¿cuál?,which?,?cual?
+clics-doculect-76-1542,stan1288-std,concepticon-1235,17.68,¿quién?,who?,?quien?
+clics-doculect-76-1543,stan1288-std,concepticon-1270,17.69,¿porqué?,why?,?porque?
+clics-doculect-76-1544,stan1288-std,concepticon-1363,18.11,voz,voice,voz
+clics-doculect-76-1545,stan1288-std,concepticon-1261,18.12,cantar,sing,cantar
+clics-doculect-76-1546,stan1288-std,concepticon-715,18.13,gritar,"shout, cry out",gritar
+clics-doculect-76-1547,stan1288-std,concepticon-55,18.15,cuchichear,whisper,cuchichear
+clics-doculect-76-1548,stan1288-std,concepticon-128,18.16,barbotar,mumble,barbotar
+clics-doculect-76-1549,stan1288-std,concepticon-128,18.16,hablarentredientes,mumble,hablarentredientes
+clics-doculect-76-1550,stan1288-std,concepticon-1025,18.17,silbar,whistle,silbar
+clics-doculect-76-1551,stan1288-std,concepticon-1025,18.17,chiflar,whistle,chiflar
+clics-doculect-76-1552,stan1288-std,concepticon-298,18.18,chillar,"shriek, screech",chillar
+clics-doculect-76-1553,stan1288-std,concepticon-526,18.19,aullar,howl,aullar
+clics-doculect-76-1554,stan1288-std,concepticon-1623,18.21,hablar,"speak, talk",hablar
+clics-doculect-76-1555,stan1288-std,concepticon-1866,18.211,tartamudear,"stutter, stammer",tartamudear
+clics-doculect-76-1556,stan1288-std,concepticon-1866,18.211,balbucear,"stutter, stammer",balbucear
+clics-doculect-76-1557,stan1288-std,concepticon-1458,18.22,decir,say,decir
+clics-doculect-76-1558,stan1288-std,concepticon-1711,18.221,narrar,tell story,narrar
+clics-doculect-76-1559,stan1288-std,concepticon-1711,18.221,contar,tell story,contar
+clics-doculect-76-1560,stan1288-std,concepticon-1115,18.222,pronunciarundiscurso,speech (make a),pronunciarundiscurso
+clics-doculect-76-1561,stan1288-std,concepticon-48,18.23,callarse,silent (be),callarse
+clics-doculect-76-1562,stan1288-std,concepticon-1307,18.24,lengua,language,lengua
+clics-doculect-76-1563,stan1288-std,concepticon-1307,18.24,idioma,language,idioma
+clics-doculect-76-1564,stan1288-std,concepticon-1599,18.26,palabra,word,palabra
+clics-doculect-76-1565,stan1288-std,concepticon-1405,18.28,nombre,name,nombre
+clics-doculect-76-1566,stan1288-std,concepticon-1309,18.31,preguntar,"ask (question, inquire)",preguntar
+clics-doculect-76-1567,stan1288-std,concepticon-1275,18.32,contestar,answer,contestar
+clics-doculect-76-1568,stan1288-std,concepticon-1275,18.32,responder,answer,responder
+clics-doculect-76-1569,stan1288-std,concepticon-2022,18.33,admitir,"admit, confess",admitir
+clics-doculect-76-1570,stan1288-std,concepticon-2022,18.33,confesar,"admit, confess",confesar
+clics-doculect-76-1571,stan1288-std,concepticon-2022,18.33,reconocer,"admit, confess",reconocer
+clics-doculect-76-1572,stan1288-std,concepticon-755,18.34,negar,deny,negar
+clics-doculect-76-1573,stan1288-std,concepticon-1828,18.35,pedir,"ask, request",pedir
+clics-doculect-76-1574,stan1288-std,concepticon-1675,18.36,prometer,promise,prometer
+clics-doculect-76-1575,stan1288-std,concepticon-49,18.37,rehusar,refuse,rehusar
+clics-doculect-76-1576,stan1288-std,concepticon-83,18.38,prohibir,forbid,prohibir
+clics-doculect-76-1577,stan1288-std,concepticon-299,18.39,reprender,"rebuke, scold",reprender
+clics-doculect-76-1578,stan1288-std,concepticon-1084,18.41,llamar,call (=summon),llamar
+clics-doculect-76-1579,stan1288-std,concepticon-180,18.42,llamarse,call (=name),llamarse
+clics-doculect-76-1580,stan1288-std,concepticon-9,18.43,anunciar,announce,anunciar
+clics-doculect-76-1581,stan1288-std,concepticon-9,18.43,avisar,announce,avisar
+clics-doculect-76-1582,stan1288-std,concepticon-1192,18.44,amenazar,threaten,amenazar
+clics-doculect-76-1583,stan1288-std,concepticon-101,18.45,jactarse,boast,jactarse
+clics-doculect-76-1584,stan1288-std,concepticon-1672,18.51,escribir,write,escribir
+clics-doculect-76-1585,stan1288-std,concepticon-724,18.52,leer,read,leer
+clics-doculect-76-1586,stan1288-std,concepticon-648,18.56,papel,paper,papel
+clics-doculect-76-1587,stan1288-std,concepticon-794,18.57,pluma,pen,pluma
+clics-doculect-76-1588,stan1288-std,concepticon-963,18.61,libro,book,libro
+clics-doculect-76-1590,stan1288-std,concepticon-777,18.71,flauta,flute,flauta
+clics-doculect-76-1591,stan1288-std,concepticon-908,18.72,bombo,drum,bombo
+clics-doculect-76-1592,stan1288-std,concepticon-908,18.72,tambor,drum,tambor
+clics-doculect-76-1593,stan1288-std,concepticon-2136,18.73,trompeta,"horn, trumpet",trompeta
+clics-doculect-76-1594,stan1288-std,concepticon-2136,18.73,trompa,"horn, trumpet",trompa
+clics-doculect-76-1595,stan1288-std,concepticon-2136,18.73,corneta,"horn, trumpet",corneta
+clics-doculect-76-1596,stan1288-std,concepticon-300,18.74,matraca,rattle,matraca
+clics-doculect-76-1597,stan1288-std,concepticon-300,18.74,cascabel,rattle,cascabel
+clics-doculect-76-1598,stan1288-std,concepticon-1300,19.11,país,country,pais
+clics-doculect-76-1599,stan1288-std,concepticon-89,19.12,patria,one's native country,patria
+clics-doculect-76-1600,stan1288-std,concepticon-1391,19.15,ciudad,"city, town",ciudad
+clics-doculect-76-1601,stan1288-std,concepticon-930,19.16,pueblo,village,pueblo
+clics-doculect-76-1602,stan1288-std,concepticon-1010,19.17,límite,boundary,limite
+clics-doculect-76-1603,stan1288-std,concepticon-1010,19.17,frontera,boundary,frontera
+clics-doculect-76-1604,stan1288-std,concepticon-789,19.21,pueblo,people (populace),pueblo
+clics-doculect-76-1605,stan1288-std,concepticon-789,19.21,gente,people (populace),gente
+clics-doculect-76-1606,stan1288-std,concepticon-302,19.23,tribu,"tribe, clan",tribu
+clics-doculect-76-1607,stan1288-std,concepticon-302,19.23,clan,"tribe, clan",clan
+clics-doculect-76-1608,stan1288-std,concepticon-301,19.24,jefe,"chief, chieftain",jefe
+clics-doculect-76-1609,stan1288-std,concepticon-301,19.24,cacique,"chief, chieftain",cacique
+clics-doculect-76-1610,stan1288-std,concepticon-1296,19.25,bastón,"staff, walking stick",baston
+clics-doculect-76-1611,stan1288-std,concepticon-1296,19.25,bordón,"staff, walking stick",bordon
+clics-doculect-76-1612,stan1288-std,concepticon-1846,19.31,gobernar,"rule, govern",gobernar
+clics-doculect-76-1613,stan1288-std,concepticon-1508,19.32,rey,"king, ruler",rey
+clics-doculect-76-1614,stan1288-std,concepticon-1508,19.32,gobernante,"king, ruler",gobernante
+clics-doculect-76-1615,stan1288-std,concepticon-1306,19.33,reina,queen,reina
+clics-doculect-76-1616,stan1288-std,concepticon-482,19.36,noble,"noble, nobleman",noble
+clics-doculect-76-1617,stan1288-std,concepticon-1032,19.37,ciudadano,"citizen, subject",ciudadano
+clics-doculect-76-1618,stan1288-std,concepticon-1032,19.37,súbdito,"citizen, subject",subdito
+clics-doculect-76-1619,stan1288-std,concepticon-383,19.41,amo,master,amo
+clics-doculect-76-1620,stan1288-std,concepticon-383,19.41,dueɲo,master,dueno
+clics-doculect-76-1621,stan1288-std,concepticon-383,19.41,patrón,master,patron
+clics-doculect-76-1622,stan1288-std,concepticon-812,19.42,esclavo,slave,esclavo
+clics-doculect-76-1623,stan1288-std,concepticon-255,19.43,sirviente,servant,sirviente
+clics-doculect-76-1624,stan1288-std,concepticon-255,19.43,criado,servant,criado
+clics-doculect-76-1625,stan1288-std,concepticon-384,19.44,hombrelibre,freeman,hombrelibre
+clics-doculect-76-1626,stan1288-std,concepticon-1128,19.45,mandar,"command, order",mandar
+clics-doculect-76-1627,stan1288-std,concepticon-1128,19.45,ordenar,"command, order",ordenar
+clics-doculect-76-1628,stan1288-std,concepticon-1635,19.46,obedecer,obey,obedecer
+clics-doculect-76-1629,stan1288-std,concepticon-1003,19.47,permitir,"let, permit",permitir
+clics-doculect-76-1630,stan1288-std,concepticon-1003,19.47,dejar,"let, permit",dejar
+clics-doculect-76-1631,stan1288-std,concepticon-1325,19.51,amigo,"friend, companion",amigo
+clics-doculect-76-1632,stan1288-std,concepticon-1325,19.51,compaɲero,"friend, companion",companero
+clics-doculect-76-1633,stan1288-std,concepticon-1358,19.52,enemigo,enemy,enemigo
+clics-doculect-76-1634,stan1288-std,concepticon-1332,19.54,vecino,neighbor,vecino
+clics-doculect-76-1635,stan1288-std,concepticon-791,19.55,extranjero,stranger,extranjero
+clics-doculect-76-1636,stan1288-std,concepticon-791,19.55,forastero,stranger,forastero
+clics-doculect-76-1637,stan1288-std,concepticon-1782,19.56,huésped,guest,huesped
+clics-doculect-76-1638,stan1288-std,concepticon-1782,19.56,invitado,guest,invitado
+clics-doculect-76-1639,stan1288-std,concepticon-1545,19.57,huésped,host,huesped
+clics-doculect-76-1640,stan1288-std,concepticon-1545,19.57,hospedero,host,hospedero
+clics-doculect-76-1641,stan1288-std,concepticon-1897,19.58,ayudar,"help, aid",ayudar
+clics-doculect-76-1642,stan1288-std,concepticon-1550,19.59,impedir,"hinder, prevent",impedir
+clics-doculect-76-1643,stan1288-std,concepticon-1550,19.59,estorbar,"hinder, prevent",estorbar
+clics-doculect-76-1644,stan1288-std,concepticon-1747,19.61,costumbre,custom,costumbre
+clics-doculect-76-1645,stan1288-std,concepticon-1747,19.61,hábito,custom,habito
+clics-doculect-76-1646,stan1288-std,concepticon-1848,19.62,lucha,"strife, quarrel",lucha
+clics-doculect-76-1647,stan1288-std,concepticon-1848,19.62,pleito,"strife, quarrel",pleito
+clics-doculect-76-1648,stan1288-std,concepticon-1848,19.62,disputa,"strife, quarrel",disputa
+clics-doculect-76-1649,stan1288-std,concepticon-2024,19.63,conspiración,"conspiracy, plot",conspiracion
+clics-doculect-76-1650,stan1288-std,concepticon-1831,19.65,encontrar,meet,encontrar
+clics-doculect-76-1651,stan1288-std,concepticon-1610,19.72,prostituta,prostitute,prostituta
+clics-doculect-76-1652,stan1288-std,concepticon-1423,20.11,pelear,fight (vb),pelear
+clics-doculect-76-1653,stan1288-std,concepticon-579,20.13,guerra,"war, battle",guerra
+clics-doculect-76-1654,stan1288-std,concepticon-579,20.13,batalla,"war, battle",batalla
+clics-doculect-76-1655,stan1288-std,concepticon-1338,20.14,paz,peace,paz
+clics-doculect-76-1656,stan1288-std,concepticon-1561,20.15,ejército,army,ejercito
+clics-doculect-76-1657,stan1288-std,concepticon-1561,20.15,tropas,army,tropas
+clics-doculect-76-1658,stan1288-std,concepticon-1941,20.17,soldado,soldier,soldado
+clics-doculect-76-1659,stan1288-std,concepticon-951,20.21,armas,"weapons, arms",armas
+clics-doculect-76-1660,stan1288-std,concepticon-1763,20.22,macana,club,macana
+clics-doculect-76-1661,stan1288-std,concepticon-1763,20.22,garrote,club,garrote
+clics-doculect-76-1662,stan1288-std,concepticon-386,20.222,hachadecombate,battle-ax,hachadecombate
+clics-doculect-76-1663,stan1288-std,concepticon-387,20.23,honda,sling,honda
+clics-doculect-76-1664,stan1288-std,concepticon-994,20.24,arco,bow,arco
+clics-doculect-76-1665,stan1288-std,concepticon-977,20.25,flecha,arrow,flecha
+clics-doculect-76-1666,stan1288-std,concepticon-945,20.26,lanza,spear,lanza
+clics-doculect-76-1667,stan1288-std,concepticon-1535,20.27,espada,sword,espada
+clics-doculect-76-1668,stan1288-std,concepticon-1566,20.28,escopeta,"gun, cannon",escopeta
+clics-doculect-76-1669,stan1288-std,concepticon-1566,20.28,caɲón,"gun, cannon",canon
+clics-doculect-76-1670,stan1288-std,concepticon-1061,20.31,armadura,armor (defensive),armadura
+clics-doculect-76-1671,stan1288-std,concepticon-1680,20.33,yelmo,helmet,yelmo
+clics-doculect-76-1672,stan1288-std,concepticon-1064,20.34,escudo,shield,escudo
+clics-doculect-76-1673,stan1288-std,concepticon-1938,20.35,fortaleza,fortress,fortaleza
+clics-doculect-76-1674,stan1288-std,concepticon-1938,20.35,castillo,fortress,castillo
+clics-doculect-76-1675,stan1288-std,concepticon-1671,20.36,torre,tower,torre
+clics-doculect-76-1676,stan1288-std,concepticon-783,20.41,victoria,victory,victoria
+clics-doculect-76-1677,stan1288-std,concepticon-782,20.42,derrota,defeat,derrota
+clics-doculect-76-1678,stan1288-std,concepticon-722,20.43,atacar,attack,atacar
+clics-doculect-76-1679,stan1288-std,concepticon-1330,20.44,defender,defend,defender
+clics-doculect-76-1680,stan1288-std,concepticon-421,20.45,huir,retreat,huir
+clics-doculect-76-1681,stan1288-std,concepticon-421,20.45,retirarse,retreat,retirarse
+clics-doculect-76-1682,stan1288-std,concepticon-1696,20.46,rendirse,surrender,rendirse
+clics-doculect-76-1683,stan1288-std,concepticon-1072,20.47,cautivo,"captive, prisoner",cautivo
+clics-doculect-76-1684,stan1288-std,concepticon-1072,20.47,preso,"captive, prisoner",preso
+clics-doculect-76-1685,stan1288-std,concepticon-1072,20.47,prisionero,"captive, prisoner",prisionero
+clics-doculect-76-1686,stan1288-std,concepticon-1940,20.471,guardia,"guard, sentinel",guardia
+clics-doculect-76-1687,stan1288-std,concepticon-1940,20.471,centinela,"guard, sentinel",centinela
+clics-doculect-76-1688,stan1288-std,concepticon-1022,20.48,botín,"booty, spoils",botin
+clics-doculect-76-1689,stan1288-std,concepticon-65,20.49,acechar,ambush,acechar
+clics-doculect-76-1690,stan1288-std,concepticon-65,20.49,emboscar,ambush,emboscar
+clics-doculect-76-1691,stan1288-std,concepticon-1858,20.51,pescador,fisherman,pescador
+clics-doculect-76-1692,stan1288-std,concepticon-1074,20.52,anzuelo,fishhook,anzuelo
+clics-doculect-76-1693,stan1288-std,concepticon-19,20.53,cuerdadepescar,fishing line,cuerdadepescar
+clics-doculect-76-1694,stan1288-std,concepticon-388,20.54,red,fishnet,red
+clics-doculect-76-1695,stan1288-std,concepticon-388,20.54,atarraya,fishnet,atarraya
+clics-doculect-76-1696,stan1288-std,concepticon-389,20.55,nasa,fish trap,nasa
+clics-doculect-76-1697,stan1288-std,concepticon-2013,20.56,cebo,bait,cebo
+clics-doculect-76-1698,stan1288-std,concepticon-2013,20.56,carnada,bait,carnada
+clics-doculect-76-1699,stan1288-std,concepticon-1435,20.61,cazar,hunt,cazar
+clics-doculect-76-1700,stan1288-std,concepticon-1172,20.62,tirar,shoot,tirar
+clics-doculect-76-1701,stan1288-std,concepticon-1172,20.62,disparar,shoot,disparar
+clics-doculect-76-1702,stan1288-std,concepticon-161,20.63,errar,miss (target),errar
+clics-doculect-76-1703,stan1288-std,concepticon-161,20.63,fallar,miss (target),fallar
+clics-doculect-76-1704,stan1288-std,concepticon-1075,20.64,trampa,trap (noun),trampa
+clics-doculect-76-1705,stan1288-std,concepticon-1170,20.65,atrapar,trap (vb),atrapar
+clics-doculect-76-1706,stan1288-std,concepticon-1062,21.11,ley,law,ley
+clics-doculect-76-1707,stan1288-std,concepticon-1068,21.15,tribunal,court,tribunal
+clics-doculect-76-1708,stan1288-std,concepticon-1818,21.16,juzgar,judge (vb),juzgar
+clics-doculect-76-1709,stan1288-std,concepticon-1067,21.17,juicio,judgment,juicio
+clics-doculect-76-1710,stan1288-std,concepticon-861,21.18,juez,judge (noun),juez
+clics-doculect-76-1711,stan1288-std,concepticon-2020,21.21,demandante,plaintiff,demandante
+clics-doculect-76-1712,stan1288-std,concepticon-1034,21.22,acusado,defendant,acusado
+clics-doculect-76-1713,stan1288-std,concepticon-1144,21.23,testigo,witness,testigo
+clics-doculect-76-1714,stan1288-std,concepticon-1939,21.24,jurar,swear,jurar
+clics-doculect-76-1715,stan1288-std,concepticon-1712,21.25,juramento,oath,juramento
+clics-doculect-76-1716,stan1288-std,concepticon-1814,21.31,acusar,accuse,acusar
+clics-doculect-76-1717,stan1288-std,concepticon-1814,21.31,denunciar,accuse,denunciar
+clics-doculect-76-1718,stan1288-std,concepticon-484,21.32,condenar,condemn,condenar
+clics-doculect-76-1719,stan1288-std,concepticon-983,21.33,inculpar,convict (vb),inculpar
+clics-doculect-76-1720,stan1288-std,concepticon-983,21.33,condenar,convict (vb),condenar
+clics-doculect-76-1721,stan1288-std,concepticon-988,21.34,absolver,acquit,absolver
+clics-doculect-76-1722,stan1288-std,concepticon-988,21.34,exculpar,acquit,exculpar
+clics-doculect-76-1723,stan1288-std,concepticon-1682,21.35,culpable,guilty,culpable
+clics-doculect-76-1724,stan1288-std,concepticon-90,21.36,inocente,innocent,inocente
+clics-doculect-76-1725,stan1288-std,concepticon-390,21.37,castigo,"penalty, punishment",castigo
+clics-doculect-76-1726,stan1288-std,concepticon-218,21.38,multa,fine,multa
+clics-doculect-76-1727,stan1288-std,concepticon-1281,21.39,cárcel,"prison, jail",carcel
+clics-doculect-76-1728,stan1288-std,concepticon-845,21.42,asesinar,murder,asesinar
+clics-doculect-76-1729,stan1288-std,concepticon-845,21.42,matar,murder,matar
+clics-doculect-76-1730,stan1288-std,concepticon-902,21.43,adulterio,adultery,adulterio
+clics-doculect-76-1731,stan1288-std,concepticon-953,21.44,violación,rape,violacion
+clics-doculect-76-1732,stan1288-std,concepticon-1889,21.46,incendiopremeditado,arson,incendiopremeditado
+clics-doculect-76-1733,stan1288-std,concepticon-1792,21.47,perjurio,perjury,perjurio
+clics-doculect-76-1734,stan1288-std,concepticon-713,21.51,robar,steal,robar
+clics-doculect-76-1735,stan1288-std,concepticon-1160,21.52,ladrón,thief,ladron

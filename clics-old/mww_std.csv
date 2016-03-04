@@ -1,0 +1,1350 @@
+@classification: Hmong-Mien,Hmongic,Chuanqiandian
+@iso: mww
+@language: Miao, White
+@size: 1344
+@source: wold
+@variety: std
+1.1	world	ntiajteb
+1.21	earth, land	teb
+1.212	earth=ground, soil	av
+1.213	dust	hmoovav
+1.213	dust	pluatshauv
+1.214	mud	avnkos
+1.215	sand	hmoovzeb
+1.215	sand	xuabzeb
+1.22	mountain, hill	roob
+1.22	mountain, hill	toj
+1.22	mountain, hill	pobtsuas
+1.222	cliff, precipice	tsag
+1.23	plain, field	tiajnrag
+1.24	valley	hav
+1.25	island	povtxwv
+1.25	island	kob
+1.27	shore	ntugdej
+1.28	cave	qhovtsua
+1.31	water	dej
+1.32	sea	hiavtxwv
+1.322	calm (of sea)	dejntauglawm
+1.323	rough (of sea)	dejnplawm
+1.324	foam	npuasdej
+1.33	lake	pasdej
+1.35	wave	nthwvdej
+1.35	wave	twv
+1.36	river, stream, brook	dej
+1.362	whirlpool	yisdej
+1.37	spring, well	qhovdej
+1.37	spring, well	qhovdejtxhawv
+1.38	swamp	haviav
+1.39	waterfall	dejpoobtsag
+1.41	woods, forest	zoov
+1.43	wood	ntoo
+1.44	stone, rock	pobzeb
+1.45	earthquake	avqeeg
+1.51	sky	ntuj
+1.52	sun	hnub
+1.53	moon	hli
+1.54	star	hnubqub
+1.55	lightning	xoblaim
+1.55	lightning	xobntsais
+1.56	thunder	xobquaj
+1.56	thunder	xobnroo
+1.58	storm	cuadajcuadub
+1.59	rainbow	zajsawv
+1.61	light (noun)	kaj
+1.62	darkness	tsaus
+1.63	shade, shadow	ntxoovntxoo
+1.64	dew	lwg
+1.71	air	pa
+1.72	wind	cua
+1.73	cloud	huab
+1.74	fog	poshuab
+1.75	rain (noun)	nag
+1.76	snow (noun)	npu
+1.77	ice	dejkhov
+1.77	ice	nabkuab
+1.78	weather	huabcua
+1.81	fire	taws
+1.82	flame (noun)	nplaimtaws
+1.83	smoke (noun)	nchopa
+1.83	smoke (noun)	pataws
+1.84	ashes	tshauv
+1.841	embers	hluavncaig
+1.851	burn (vb trans)	hlawv
+1.852	burn (vb intrans)	kub
+1.86	light, kindle, ignite	rauv
+1.861	extinguish	tua
+1.87	match (noun)	ntaisntawv
+1.88	firewood	taws
+1.89	charcoal	thee
+2.1	person, human being	neeg
+2.21	man (vs. woman)	txivneej
+2.22	woman	pojniam
+2.23	male	txiv
+2.24	female	poj
+2.25	boy	tub
+2.251	young man (adolescent)	hluasnraug
+2.26	girl	ntxhais
+2.261	young woman (adolescent)	hluasnkauj
+2.27	child	menyuam
+2.28	infant, baby	mosab
+2.31	husband	txiv
+2.32	wife	pojniam
+2.33	marry	yuav
+2.34	marriage, wedding	tshoob
+2.341	divorce	kevsibnrauj
+2.35	father	txiv
+2.36	mother	niam
+2.37	parents	niamtxiv
+2.39	married woman	pojniam
+2.41	son	tub
+2.42	daughter	ntxhais
+2.43	offspring (son or daughter)	menyuam
+2.44	brother	kwvtij
+2.44	brother	nus
+2.444	older brother	tijlaug
+2.445	younger brother	kwv
+2.45	sister	vivncaus
+2.45	sister	muam
+2.454	older sister	niamlaus
+2.455	younger sister	niamhluas
+2.456	sibling	nusmuag
+2.458	twins	menyuamntxaib
+2.46	grandfather	yawg
+2.46	grandfather	yawmtxiv
+2.461	old man	yawglaug
+2.47	grandmother	pog
+2.47	grandmother	niamtais
+2.471	old woman	poglaug
+2.48	grandson	tubxeebntxwv
+2.49	granddaughter	ntxhaisxeebntxwv
+2.511	mother's brother	dablaug
+2.512	father's brother	txivhlob
+2.512	father's brother	txivntxawm
+2.521	mother's sister	niamtais
+2.522	father's sister	phauj
+2.55	cousin	kwvtij
+2.55	cousin	npawg
+2.56	ancestors	pogkoobyawgkoob
+2.57	descendants	xeebntxwv
+2.61	father-in-law (of a man)	yawgtxiv
+2.61	father-in-law (of a man)	txiv
+2.611	father-in-law (of a woman)	txivyawg
+2.611	father-in-law (of a woman)	txiv
+2.62	mother-in-law (of a man)	niamtais
+2.62	mother-in-law (of a man)	niam
+2.621	mother-in-law (of a woman)	niampog
+2.621	mother-in-law (of a woman)	niam
+2.63	son-in-law (of a man)	vauv
+2.631	son-in-law (of a woman)	vauv
+2.64	daughter-in-law (of a man)	nyab
+2.641	daughter-in-law (of a woman)	nyab
+2.71	stepfather	txiv
+2.72	stepmother	niam
+2.73	stepson	tub
+2.74	stepdaughter	ntxhais
+2.75	orphan	ntsuag
+2.76	widow	pojntsuam
+2.77	widower	yawgntsuag
+2.81	relatives, kinsmen	kwvtijneejtsa
+2.82	family	tsevneeg
+2.91	I	kuv
+2.92	you (singular)	koj
+2.93	he/she/it	nws
+2.94	we	peb
+2.941	we (inclusive)	peb
+2.942	we (exclusive)	peb
+2.95	you (plural)	nej
+2.96	they	lawv
+3.11	animal	tsiaj
+3.11	animal	tsiajtxhu
+3.12	male (adj)	txiv
+3.13	female (adj)	maum
+3.15	livestock	tsiajnyeg
+3.19	stable, stall	nkuaj
+3.2	cattle (bovine)	nyuj
+3.21	bull	phawnyuj
+3.21	bull	txivnyuj
+3.23	cow	maumnyuj
+3.24	calf	nyuj
+3.25	sheep	yaj
+3.26	ram	phawyaj
+3.28	ewe	maumyaj
+3.29	lamb	yaj
+3.32	boar	npuateb
+3.34	sow	maumnpua
+3.35	pig	npua
+3.36	goat	tshis
+3.37	he-goat	phawtshis
+3.38	kid	tshis
+3.41	horse (equine)	nees
+3.42	stallion	phawnees
+3.44	mare	maumnees
+3.45	foal, colt	nees
+3.46	ass, donkey	zag
+3.47	mule	lujtxwv
+3.52	cock, rooster	lauqaib
+3.54	hen	pojqaib
+3.55	chicken	qaib
+3.56	goose	gus
+3.57	duck	os
+3.58	nest	zes
+3.581	bird	noog
+3.584	eagle	dav
+3.585	hawk	dav
+3.586	vulture	livnyug
+3.586	vulture	libnyug
+3.591	bat	puav
+3.592	parrot	leebnkaub
+3.593	crow	uab
+3.594	dove	nquab
+3.596	owl	plas
+3.61	dog	dev
+3.614	rabbit	kabtaij
+3.614	rabbit	luav
+3.62	cat	miv
+3.63	mouse, rat	nas
+3.65	fish	ntses
+3.652	fin (dorsal)	tisntses
+3.653	fishscale	nplai
+3.654	gill	xiab
+3.655	shell	khaujkhaum
+3.665	freshwater eel	ntsesnab
+3.71	wolf	hma
+3.72	lion	tsovntxhuav
+3.73	bear	dais
+3.74	fox	hmaliab
+3.75	deer	muaslwj
+3.75	deer	moslwj
+3.75	deer	kauv
+3.76	monkey	liab
+3.77	elephant	ntxhw
+3.78	camel	us
+3.81	insect	kab
+3.811	louse	ntshauv
+3.812	nit (louse egg)	qentshauv
+3.813	flea	devmub
+3.814	centipede	laumkibtshooj
+3.814	centipede	laumkevtshooj
+3.816	cockroach	kablaum
+3.817	ant	ntsaum
+3.818	spider	kablaugsab
+3.819	spider web	zeskablaugsab
+3.819	spider web	tsevkablaugsab
+3.82	bee	muv
+3.821	beeswax	ciabmu
+3.822	beehive	xub
+3.823	wasp	nkawj
+3.83	fly	yoov
+3.831	sandfly (midge), gnat	yoovqaib
+3.832	mosquito	yoovtshajcum
+3.84	worm	cuanab
+3.85	snake	nab
+3.91	firefly	kabtawstsau
+3.92	butterfly	npujnpaim
+3.93	grasshopper	kooj
+3.94	snail	qwj
+3.95	frog	qav
+3.96	lizard	nabqa
+3.97	crocodile, alligator	kheb
+3.98	turtle	vaubkib
+3.98	turtle	vuabkib
+3.98	turtle	huabkib
+4.11	body	cev
+4.12	skin, hide	tawv
+4.13	flesh	nqaij
+4.14	hair (head)	plaubhau
+4.142	beard	hwjtxwv
+4.144	body hair	plaub
+4.145	pubic hair	plaub
+4.146	dandruff	plhawstaubhau
+4.15	blood	ntshav
+4.151	vein, artery	leeg
+4.16	bone	pobtxha
+4.162	rib	tav
+4.17	horn	kub
+4.18	tail	tw
+4.19	back	nrobqaum
+4.19	back	duav
+4.191	spine	nqajqaum
+4.2	head	taubhau
+4.202	skull	khaujkhaumtaubhau
+4.203	brain	hlwb
+4.204	face	ntsejmuag
+4.205	forehead	hauvpliaj
+4.207	jaw	puabtsaig
+4.208	cheek	plhu
+4.209	chin	puabtsaig
+4.21	eye	qhovmuag
+4.212	eyebrow	plaubmuag
+4.213	eyelid	tawvmuag
+4.214	eyelash	plaubmuag
+4.215	blink	ntsaismuag
+4.22	ear	pobntseg
+4.221	earlobe	taubntseg
+4.222	earwax	quavntsej
+4.23	nose	qhovntswg
+4.231	nostril	qhovntswg
+4.232	mucus (nasal)	ntswg
+4.24	mouth	qhovncauj
+4.241	beak	kausncauj
+4.25	lip	dincauj
+4.26	tongue	nplaig
+4.27	tooth	hniav
+4.271	gums	poshniav
+4.272	molartooth	hniavpuas
+4.28	neck	cajdab
+4.29	throat	cajpas
+4.29	throat	cajdab
+4.3	shoulder	xubpwg
+4.301	shoulderblade	duavpus
+4.302	collarbone	qais
+4.31	arm	cajnpab
+4.31	arm	tes
+4.312	armpit	qhovtsos
+4.32	elbow	lujtshib
+4.32	elbow	yasnpab
+4.321	wrist	dabteg
+4.33	hand	tes
+4.331	palm of hand	xibteg
+4.34	finger	ntivtes
+4.342	thumb	nitvtesxoo
+4.344	fingernail	rautes
+4.345	claw	rau
+4.35	leg	ceg
+4.351	thigh	ncejpuab
+4.352	calf of leg	plabhlaub
+4.36	knee	hauvcaug
+4.36	knee	caug
+4.37	foot	kotaw
+4.371	ankle	dabtaws
+4.371	ankle	yastaw
+4.372	heel	pobtaws
+4.372	heel	lujtaw
+4.374	footprint	hneevtaw
+4.38	toe	ntivtaw
+4.392	wing	tis
+4.393	feather	plaub
+4.4	chest	hauvsiab
+4.4	chest	hauvnrob
+4.41	breast (of woman)	mis
+4.412	nipple, teat	txivmis
+4.42	udder	mis
+4.43	navel	pujntaws
+4.43	navel	pijntaws
+4.44	heart	plawv
+4.441	lung	ntsws
+4.45	liver	siab
+4.451	kidney	raum
+4.452	spleen	po
+4.46	stomach	plab
+4.461	intestines, guts	hnyuv
+4.462	waist	duav
+4.463	hip	ntsag
+4.464	buttocks	pobtw
+4.47	womb	tsevmenyuam
+4.49	testicle	noobqes
+4.492	penis	qau
+4.492	penis	chawmos
+4.51	breathe, breath	uapa
+4.52	yawn, gape	rualo
+4.521	hiccough	uantsos
+4.53	cough	hnoos
+4.54	sneeze	txham
+4.55	perspire	tawmhws
+4.55	perspire	tawmfws
+4.56	spit	nti
+4.56	spit	nto
+4.57	vomit	ntuav
+4.58	bite	tom
+4.59	lick	yaim
+4.591	dribble	nrogaubncaug
+4.61	sleep	tsaugzog
+4.612	snore	uaqaj
+4.62	dream	uanpausuav
+4.63	wake up	tsimdheev
+4.64	break wind	tsopaus
+4.65	urinate	tsozis
+4.66	defecate	tsoquav
+4.67	have sexual intercourse	sibtsoob
+4.67	have sexual intercourse	uaniamtxiv
+4.67	have sexual intercourse	sibua
+4.68	shiver	tshee
+4.69	bathe	dadej
+4.72	born (to be)	yuglos
+4.73	pregnant	xeebtub
+4.73	pregnant	muajmenyuam
+4.732	conceive	xeebtub
+4.74	live, living, life	ciajsia
+4.75	die, dead	tuag
+4.751	drowned	poobdeg
+4.76	kill	tua
+4.77	corpse	neegtuag
+4.78	bury (the dead)	faus
+4.78	bury (the dead)	los
+4.79	grave, tomb	qhovntxa
+4.81	strong, mighty, powerful	muajzog
+4.82	weak	qaugzog
+4.82	weak	tsaug
+4.83	well, health	nojqabnyobzoo
+4.84	sick, sickness	mob
+4.841	fever	npaws
+4.841	fever	kubcev
+4.842	goiter	otxia
+4.843	cold (catarrh)	khaubthuas
+4.85	wound, sore	nqaijntuag
+4.85	wound, sore	kiavtxhab
+4.852	bruise	doogntshav
+4.853	swelling	o
+4.854	itch	khaus
+4.855	blister	hlwv
+4.856	boil (noun)	rwj
+4.857	pus	paug
+4.858	scar	cawspliav
+4.86	cure, heal	khomob
+4.87	physician	kwskhomob
+4.87	physician	thajmom
+4.88	medicine, drug	tshuaj
+4.89	poison	tshuajlom
+4.89	poison	taug
+4.91	tired, weary	nkees
+4.91	tired, weary	lim
+4.91	tired, weary	tsaug
+4.912	rest	so
+4.92	lazy	tubnkeeg
+4.93	bald	dohau
+4.94	lame	cegtawv
+4.95	deaf	lagntseg
+4.96	mute	ruam
+4.97	blind	digmuag
+4.98	intoxicated	qaugcawv
+4.99	naked, bare	liabqab
+5.11	eat	noj
+5.12	food	zaubmov
+5.12	food	khoomnoj
+5.121	cooked	siav
+5.122	raw	nyoos
+5.123	ripe	siav
+5.124	green, unripe	nyoos
+5.125	rotten	lwj
+5.13	drink	haus
+5.14	hunger	tshaibplab
+5.15	thirst	nqhisdej
+5.15	thirst	nqhesdej
+5.16	suck	ntxais
+5.18	chew	zom
+5.181	swallow	nqos
+5.19	choke	daigcajdab
+5.21	cook	uanoj
+5.22	boil (vb)	npau
+5.23	roast, fry	ci
+5.23	roast, fry	kib
+5.24	bake	ci
+5.25	oven	qhovtxos
+5.26	pot, cooking vessel	laujkaub
+5.27	kettle	hwjkais
+5.27	kettle	fwjkais
+5.28	pan	yias
+5.31	dish	phaj
+5.32	plate	phaj
+5.33	bowl	ntim
+5.33	bowl	tais
+5.35	cup, drinking vessel	khob
+5.36	saucer	phaj
+5.37	spoon	diav
+5.38	knife	riam
+5.39	fork	diavrawg
+5.391	tongs	ciaj
+5.391	tongs	tustaisnqaij
+5.41	meal (a)	pluasmov
+5.42	breakfast	nojtshais
+5.43	lunch	nojsu
+5.43	lunch	nojsus
+5.44	dinner	nojhmo
+5.45	supper	nojhmo
+5.46	peel	tev
+5.46	peel	laws
+5.47	sieve, strain	lim
+5.48	scrape	kuam
+5.49	stir, mix	do
+5.49	stir, mix	sibxyaws
+5.49	stir, mix	tov
+5.51	bread	khobcij
+5.51	bread	ncuavci
+5.54	knead	zuaj
+5.55	meal, flour	hmoovnplej
+5.56	crush, grind	zom
+5.57	mill	zeb
+5.58	mortar	tshuajkhib
+5.59	pestle	qwstxob
+5.61	meat	nqaij
+5.63	sausage	hnyuvntxwm
+5.64	soup, broth	kuazaub
+5.65	vegetables	zaub
+5.66	bean	taum
+5.7	potato	qosyajywm
+5.71	fruit	txiv
+5.712	bunch	rev
+5.712	bunch	tsuag
+5.712	bunch	thij
+5.75	fig	txivcevnplaum
+5.75	fig	txivcua
+5.76	grape	txivhmab
+5.77	nut	noobtxiv
+5.79	oil	roj
+5.791	grease, fat	roj
+5.81	salt	ntsev
+5.82	pepper	hwjtxob
+5.821	chili pepper	kuatxob
+5.84	honey	zibmu
+5.85	sugar	piamthaj
+5.86	milk (noun)	mis
+5.87	milk (vb)	tsokuamis
+5.9	beverage, drink	dej
+5.93	beer	npias
+5.94	fermented drink	cawv
+5.97	egg	qe
+5.971	egg yolk	nkaub
+6.11	put on (clothes)	hnav
+6.11	put on (clothes)	ntoo
+6.11	put on (clothes)	rau
+6.12	clothing, clothes	khaubncaws
+6.12	clothing, clothes	ristsho
+6.21	cloth	ntaub
+6.24	cotton	pajrwb
+6.25	silk	ntaubkab
+6.28	fur	plaub
+6.29	leather	tawv
+6.31	spin	saws
+6.32	spindle	ntxaiv
+6.33	weave	ntos
+6.34	loom	ntos
+6.35	sew	xaws
+6.36	needle	koob
+6.38	thread	xov
+6.39	dye	zas
+6.42	woman's dress	cevtiab
+6.43	coat	tshotivno
+6.43	coat	tsholoj
+6.44	shirt	tsho
+6.45	collar	dabtshos
+6.45	collar	ntsejtshos
+6.46	skirt	tiab
+6.48	trousers	ris
+6.49	stocking, sock	thomkhwm
+6.49	stocking, sock	thoomthaub
+6.51	shoe	khau
+6.55	hat, cap	kausmom
+6.57	belt, girdle	siv
+6.58	glove	hnabtes
+6.61	pocket	hnab
+6.62	button	khawm
+6.63	pin	koob
+6.73	ring (for finger)	nplhaib
+6.74	bracelet	kaujtoognpab
+6.74	bracelet	xauvtes
+6.75	necklace	xauv
+6.75	necklace	saw
+6.76	bead	hlaws
+6.77	earring	qhwsntsej
+6.78	headband, headdress	hauvphuam
+6.81	handkerchief, rag	khaubhlab
+6.81	handkerchief, rag	phuam
+6.82	towel	phuamdadej
+6.91	comb	zuag
+6.92	brush	zuag
+6.921	braid	yivtws
+6.93	razor	chais
+6.94	ointment	tshuajpleev
+6.95	soap	xusnpus
+6.95	soap	xumnpum
+6.96	mirror	iav
+6.96	mirror	tsomiav
+7.11	dwell, live	nyob
+7.12	house	tsev
+7.13	hut	tsevpheebsuab
+7.131	garden-house	tsevteb
+7.15	yard, court	vaj
+7.21	room	chav
+7.21	room	hoob
+7.22	door, gate	qhovrooj
+7.23	lock (noun)	ntsuasphoo
+7.231	latch, door-bolt	ntsialiajqhovrooj
+7.24	key	yaumsij
+7.24	key	kasces
+7.25	window	qhovrais
+7.26	floor	pemteb
+7.27	wall	phabntsa
+7.31	fireplace	qhovtxos
+7.31	fireplace	qhovcub
+7.32	stove	qhovtxos
+7.32	stove	qhovcub
+7.37	ladder	ntaiv
+7.42	bed	txaj
+7.421	pillow	hauvncoo
+7.422	blanket	pam
+7.43	chair	roojzaum
+7.43	chair	tog
+7.44	table	rooj
+7.45	lamp, torch	teeb
+7.45	lamp, torch	tsau
+7.46	candle	tswmciab
+7.46	candle	theeskhaim
+7.47	shelf	txee
+7.48	trough	dab
+7.51	roof	lubrutsev
+7.52	thatch	nqeeb
+7.53	ridgepole	nqajru
+7.54	rafter	qhabtse
+7.55	beam	nqajtse
+7.56	post, pole	tswg
+7.56	post, pole	ncej
+7.57	board	txiag
+7.58	arch	koov
+7.62	brick	thawvcib
+7.62	brick	thwvcib
+7.64	adobe	tsevav
+8.12	field (for cultivation)	teb
+8.13	garden	vaj
+8.16	fence	lajkab
+8.17	ditch	kwj
+8.21	plow	laij
+8.22	dig	khawb
+8.22	dig	dawj
+8.22	dig	nthua
+8.23	spade	tuamtxhob
+8.25	hoe	hlau
+8.27	rake	kausnplooj
+8.31	sow	tseb
+8.311	seed	noob
+8.32	mow, reap	luajnroj
+8.33	sickle, scythe	liag
+8.34	thresh	ntaus
+8.35	threshing-floor	chawntausnplej
+8.41	crop, harvest	sau
+8.43	wheat	mog
+8.47	maize, corn	pobkws
+8.48	rice	nplej
+8.51	grass	nyom
+8.52	hay	nyomqhuav
+8.53	plant (noun)	nrojtsuag
+8.531	plant (vb)	cog
+8.54	root	cag
+8.55	branch	ceg
+8.56	leaf	nplooj
+8.57	flower	paj
+8.6	tree	ntoo
+8.61	oak	ntooqhib
+8.64	pine	ntoothuv
+8.66	acorn	noobtxivqhib
+8.67	vine	hmab
+8.68	tobacco	luamyeeb
+8.69	smoke (tobacco)	haus
+8.691	pipe	yeebthooj
+8.691	pipe	yeebnkab
+8.72	tree stump	hauvpausntoo
+8.73	tree trunk	cevntoo
+8.74	forked branch	nkhibntoo
+8.75	bark	tawv
+8.76	sap	kuantoo
+8.81	palm tree	ntoopeeblab
+8.81	palm tree	ntookujyem
+8.82	coconut	txivmajphaub
+8.82	coconut	txivmajphob
+8.83	citrus fruit	txivkabntxwv
+8.84	banana tree	txivtsawb
+8.85	banyan	ntoofajkhaum
+8.91	sweet potato	qosliab
+8.912	yam	qosliab
+8.92	tapioca, manioc, cassava	qosntoo
+8.93	gourd	taub
+8.931	pumpkin, squash	taubdag
+8.931	pumpkin, squash	xwbkuab
+8.94	bamboo	xyoob
+8.941	sugar cane	kabtsib
+8.96	fish poison (root)	tshuajlom
+8.98	mushroom	nceb
+9.11	do, make	ua
+9.12	work	haujlwm
+9.12	work	num
+9.14	bend	nkhaus
+9.15	fold	tais
+9.15	fold	quav
+9.16	tie, bind	khi
+9.161	untie	daws
+9.18	chain	sawhlau
+9.19	rope, cord	hlua
+9.192	knot (noun)	pobcaus
+9.192	knot (noun)	rhaus
+9.21	strike (hit, beat)	ntaus
+9.211	pound with fist	tuav
+9.211	pound with fist	ntaus
+9.22	cut	txiav
+9.221	cut down	ntov
+9.222	chop, hew	tsuav
+9.222	chop, hew	txiav
+9.223	stab	nkaug
+9.223	stab	nplhos
+9.23	knife	riam
+9.24	scissors, shears	txiab
+9.25	ax	taus
+9.251	adze	piab
+9.26	break	tawg
+9.261	broken	piam
+9.261	broken	tawg
+9.27	split	phua
+9.28	tear	dua
+9.28	tear	ntuag
+9.29	flay, skin	lawstawv
+9.31	rub, wipe	mos
+9.32	stretch	rub
+9.33	pull	rub
+9.34	spread out	pua
+9.341	hang up	khuam
+9.341	hang up	dai
+9.342	press	tswm
+9.343	squeeze, wring	nyem
+9.35	pour	hliv
+9.36	wash	ntxuav
+9.37	sweep	cheb
+9.38	broom	khaubrhuab
+9.422	tool	cuabtam
+9.44	build	txua
+9.46	bore	tshau
+9.461	hollow out	uakhoob
+9.48	saw	kaw
+9.49	hammer	rauj
+9.5	nail	ntsia
+9.56	glue	yaaskaus
+9.6	smith, blacksmith	kwsntaushlau
+9.61	forge	ntaushlau
+9.62	anvil	thaiv
+9.63	cast (metals)	nchuavhlau
+9.64	gold	kub
+9.65	silver	nyiaj
+9.66	copper, bronze	tooj
+9.67	iron	hlau
+9.68	lead (noun)	txhuas
+9.72	mold (clay etc)	puab
+9.73	clay	avnplaum
+9.74	glass	iav
+9.75	weave, plait	ntxias
+9.75	weave, plait	hiab
+9.76	basket	pobtawb
+9.77	mat	lev
+9.79	fan (noun)	ntxuam
+9.791	fan (vb)	ntxuaj
+9.81	carve	txaug
+9.81	carve	txua
+9.83	statue	mlom
+9.84	chisel	txaug
+9.88	paint (noun)	xim
+9.89	paint (vb)	pleevxim
+10.11	move	txav
+10.12	turn over	tig
+10.13	turn around	tigcev
+10.14	wind, wrap	qhwv
+10.15	roll	dov
+10.16	drop (vb)	uapoob
+10.17	twist	ntswj
+10.21	rise	sawv
+10.22	raise, lift	tsa
+10.23	fall	poob
+10.24	drip	nrog
+10.25	throw	pov
+10.252	catch (ball)	txais
+10.26	shake	co
+10.32	flow	ntws
+10.33	sink	tog
+10.34	float	ntab
+10.35	swim	ualuamdej
+10.352	splash	txaws
+10.37	fly (vb)	ya
+10.38	blow	tshuab
+10.41	creep, crawl	nkag
+10.412	kneel	kemcaug
+10.412	kneel	txhoscaug
+10.413	crouch	caws
+10.42	slide, slip	swb
+10.43	jump, leap	dhia
+10.431	kick	ncaws
+10.44	dance	lasvoos
+10.45	walk	taugkev
+10.451	limp	cegtawv
+10.46	run	khiav
+10.47	go	mus
+10.471	go up	nce
+10.472	climb	nce
+10.473	go down	nqis
+10.473	go down	nqes
+10.474	go out	tawmmus
+10.48	come	tuaj
+10.481	come back	rovqablos
+10.49	go away, depart	lawm
+10.491	disappear	ploj
+10.51	flee	khiavmus
+10.52	follow	lawvqab
+10.52	follow	rawsqab
+10.53	pursue	caum
+10.53	pursue	rawsqab
+10.55	reach, arrive	tuajtxog
+10.55	reach, arrive	lostxog
+10.56	approach	muskomze
+10.57	enter	nkag
+10.61	carry (bear)	nqa
+10.612	carry-in-hand	nqa
+10.613	carry-on-shoulder	kwv
+10.62	bring	cojtuaj
+10.62	bring	nqatuaj
+10.63	send	xa
+10.64	lead (vb)	coj
+10.65	drive	tsav
+10.66	ride	caij
+10.67	push, shove	thawb
+10.71	road	kev
+10.72	path	kev
+10.74	bridge	choj
+10.75	carriage, wagon, cart	laub
+10.76	wheel	log
+10.77	axle	qag
+10.81	ship	nkoj
+10.83	boat	nkoj
+10.84	raft	phuaj
+10.85	oar	duav
+10.851	paddle (noun)	duav
+10.852	row (vb)	nquam
+10.86	rudder	twnkoj
+10.89	anchor	thaujtograunkoj
+10.92	land (vb)	tsaws
+11.11	have	muaj
+11.12	own, possess	muaj
+11.13	take	muab
+11.14	seize, grasp	muab
+11.15	hold	tuav
+11.15	hold	puag
+11.16	get, obtain	tau
+11.17	keep, retain	khaws
+11.18	thing	qhov
+11.21	give	muabrau
+11.21	give	pub
+11.22	give back	xarovqab
+11.24	preserve, look after	txuag
+11.24	preserve, look after	khawscia
+11.25	save, rescue	cawm
+11.27	destroy	puasntsoog
+11.28	harm, injure, damage	uaraugmob
+11.31	seek, look for	nrhiav
+11.32	find	nrhiavtau
+11.33	lose	uapawv
+11.34	release, let go	tso
+11.43	money	nyiaj
+11.44	coin	npib
+11.51	rich	npluanuj
+11.52	poor	txomnyem
+11.53	beggar	neegthovkhawv
+11.54	avaricious, stingy	qiadub
+11.61	lend	qiv
+11.61	lend	qev
+11.62	borrow	qiv
+11.62	borrow	qev
+11.62	borrow	txais
+11.62	borrow	luab
+11.63	owe	tshuavnqi
+11.63	owe	tshuavnqe
+11.64	debt	nujnqi
+11.64	debt	nujnqe
+11.65	pay (vb)	them
+11.66	account, reckoning	nqi
+11.66	account, reckoning	nqe
+11.69	tax, tribute	se
+11.77	hire	ntiav
+11.78	wages	nyiajhlis
+11.81	buy	muas
+11.81	buy	yuav
+11.82	sell	muag
+11.83	trade, barter	pauv
+11.84	merchant	neegualagluam
+11.85	market (place)	khw
+11.85	market (place)	tajlaj
+11.86	store, shop	khw
+11.86	store, shop	tajlaj
+11.87	price	nqi
+11.87	price	nqe
+11.88	dear (costly, expensive)	kim
+11.89	cheap	pheejyig
+11.91	share (distribute)	sibfaib
+11.92	weigh	luj
+12.11	place	chaw
+12.11	place	qhov
+12.12	put	rau
+12.13	sit	zaum
+12.14	lie down	pw
+12.15	stand	sawvntsug
+12.16	remain, stay	nyob
+12.17	remains, left overs	covseem
+12.21	collect, gather	sau
+12.212	pick up	khaws
+12.213	pile up	tum
+12.213	pile up	teeb
+12.22	join, unite	koom
+12.23	separate	cais
+12.232	divide	faib
+12.24	open	qhib
+12.24	open	qheb
+12.25	shut, close	kaw
+12.26	cover	vov
+12.27	hide, conceal	zais
+12.31	high	siab
+12.32	low	qis
+12.32	low	qes
+12.33	top	saum
+12.34	bottom	hauvqab
+12.35	end	kawg
+12.352	pointed	ntse
+12.353	edge	ntug
+12.36	side	sab
+12.36	side	phab
+12.37	middle, center	nrubnrab
+12.37	middle, center	nruabnrab
+12.41	right (side)	sabxis
+12.42	left (side)	sablaug
+12.43	near (adv)	ze
+12.44	far (adv)	deb
+12.45	east	sabhnubtuaj
+12.46	west	sabhnubpoob
+12.47	north	sabqaumteb
+12.48	south	sabqabteb
+12.53	grow	hlob
+12.54	measure	ntsuas
+12.541	span, fathom	daj
+12.55	large, big	loj
+12.56	small, little	me
+12.57	long	ntev
+12.58	tall	siab
+12.59	short	luv
+12.61	wide, broad	dav
+12.62	narrow	nqaim
+12.63	thick (in dimension)	tuab
+12.65	thin (in dimension)	nyias
+12.67	deep	tob
+12.68	shallow	ntiav
+12.71	flat	tiaj
+12.71	flat	pliab
+12.73	straight	ncaj
+12.74	crooked	nkhaus
+12.75	hook	nqelauj
+12.76	corner	kaum
+12.77	cross	khaublig
+12.81	round	kheejkheej
+12.82	circle	vojvoos
+12.83	sphere, ball	pob
+12.83	sphere, ball	npas
+12.84	line	kab
+12.85	hole	qhov
+12.92	like, similar	zooli
+12.92	like, similar	sibthooj
+12.93	change	hloov
+13.1	one	kaum
+13.101	eleven	kaumib
+13.102	twelve	kaumob
+13.103	fifteen	kaumtsib
+13.104	twenty	neesnkaum
+13.105	hundred	pua
+13.106	thousand	txhiab
+13.107	count	suav
+13.14	every, all	huvsi
+13.14	every, all	tibsi
+13.15	much, many	ntau
+13.15	much, many	coob
+13.16	more	ntxiv
+13.17	little (quantity), few	mentsis
+13.17	little (quantity), few	tsawg
+13.18	enough	txaus
+13.181	some	qee
+13.19	multitude, crowd	pawgneeg
+13.21	full	puv
+13.22	empty	khoob
+13.23	part, piece	ibqho
+13.24	half	nrab
+13.24	half	tog
+13.24	half	ntav
+13.33	alone, only	xwb
+13.34	first	thibib
+13.35	last	kawg
+13.36	second	thibob
+13.37	pair	nkawm
+13.37	pair	khub
+13.38	two times	obzaug
+13.42	third	thibpeb
+13.44	three times	pebzaug
+14.11	time	sijhawm
+14.12	age	asnyub
+14.12	age	hnubnyoog
+14.12	age	hnubnyug
+14.12	age	hnoobnyoog
+14.13	new	tshiab
+14.14	young	hluas
+14.14	young	yau
+14.15	old	laus
+14.15	old	qub
+14.16	early	ntxov
+14.17	late	lig
+14.18	now	nyiamno
+14.18	now	niamno
+14.18	now	nimno
+14.18	now	nyemno
+14.19	immediately	tamsim
+14.21	swift, fast, quick	sai
+14.22	slow	majmam
+14.23	hasten, hurry	tsuagtsuag
+14.24	retard, delay	lig
+14.25	begin, beginning	pib
+14.25	begin, beginning	chiv
+14.252	last, endure	nyob
+14.26	end (temporal)	thaumkawg
+14.27	finish	tas
+14.28	cease, stop	tsum
+14.29	ready	npajtiav
+14.31	always	ibtxwm
+14.32	often	sij
+14.33	sometimes	qeezaus
+14.33	sometimes	zauspuav
+14.332	long-time (for a)	ntevntev
+14.34	never	yeejtsis
+14.35	again	dua
+14.41	day	nruabhnub
+14.42	night	tsausntuj
+14.43	dawn	kajntug
+14.44	morning	sawvntxov
+14.45	noon, midday	nrabhnub
+14.451	afternoon	tavsu
+14.46	evening	hmontuj
+14.47	today	hnubno
+14.48	tomorrow	tagkis
+14.48	tomorrow	taskis
+14.481	day-after-tomorrow	nagkis
+14.481	day-after-tomorrow	naskis
+14.49	yesterday	naghmo
+14.491	day-before-yesterday	hnubhnub
+14.51	hour	xuabmoos
+14.51	hour	xuabmoo
+14.51	hour	teev
+14.53	clock, timepiece	moos
+14.61	week	asthiv
+14.62	Sunday	hnubvasthiv
+14.63	Monday	hnubvascas
+14.64	Tuesday	hnubvasasqhas
+14.65	Wednesday	hnubvasphuv
+14.66	Thursday	hnubvasphabhav
+14.67	Friday	hnubvasxuv
+14.68	Saturday	hnubvasxaum
+14.71	month	hli
+14.73	year	xyoo
+14.74	winter	caijntujno
+14.75	spring	caijnploojntoohlav
+14.76	summer	caijntujsov
+14.77	autumn	caijnploojzeeg
+14.78	season	caij
+15.21	smell (vb intrans)	tsw
+15.212	sniff	hnia
+15.22	smell (vb trans)	hnov
+15.25	fragrant, good smelling	qab
+15.26	stinking, bad smelling	tswphem
+15.31	taste	saj
+15.35	sweet	qab
+15.36	salty	daw
+15.37	bitter	iab
+15.38	acid, sour	qaub
+15.41	hear	hnov
+15.42	listen	mloog
+15.44	sound, noise	suab
+15.45	loud	nrov
+15.46	quiet, silence	ntsiag
+15.46	quiet, silence	twjywm
+15.51	see	pom
+15.52	look, look at	saib
+15.52	look, look at	ntsia
+15.52	look, look at	nuam
+15.55	show	tawkev
+15.56	shine	ntsa
+15.57	bright	kaj
+15.61	color	xim
+15.62	light (in color)	kaj
+15.63	dark (in color)	tsaus
+15.64	white	dawb
+15.65	black	dub
+15.66	red	liab
+15.67	blue	xiav
+15.67	blue	ntsuab
+15.68	green	ntsuab
+15.69	yellow	daj
+15.71	touch	kov
+15.712	pinch	de
+15.72	feel	hnov
+15.74	hard	tawv
+15.75	soft	muag
+15.77	smooth	du
+15.78	sharp	ntse
+15.79	blunt, dull	npub
+15.81	heavy	hnyav
+15.82	light (in weight)	sib
+15.83	wet, damp	ntub
+15.84	dry	qhuav
+15.85	hot	kub
+15.851	warm	sov
+15.86	cold	no
+15.86	cold	txias
+15.87	clean	huv
+15.88	dirty, soiled	txab
+15.88	dirty, soiled	loav
+15.88	dirty, soiled	ceb
+15.89	wrinkled	txoom
+16.11	soul, spirit	plig
+16.15	surprised, astonished	rasdheev
+16.18	good fortune, luck	hmoov
+16.23	joyful, glad, happy	zoosiab
+16.25	laugh	luag
+16.251	smile	luagnyav
+16.26	play	uasi
+16.27	love	hlub
+16.29	kiss	hnia
+16.3	embrace	puag
+16.31	pain	mob
+16.32	grief, sorrow, sadness	kevtusiab
+16.33	anxiety, worry	txhawjsiab
+16.34	regret, be sorry	nrogtusiab
+16.35	pity	nrogtusiab
+16.37	cry, weep	quaj
+16.37	cry, weep	nyiav
+16.38	tear (noun)	kuamuag
+16.39	groan	ntsaj
+16.41	hate	ntxub
+16.42	anger	npautaws
+16.44	envy, jealousy	xamkhib
+16.45	shame (noun)	txajmuag
+16.48	proud	hlob
+16.48	proud	khav
+16.51	dare	twv
+16.52	brave	keej
+16.52	brave	siabtawv
+16.53	fear, fright	ntshai
+16.62	desire, want	xavtau
+16.62	desire, want	xavmuaj
+16.62	desire, want	yuav
+16.622	choose	xaiv
+16.63	hope	vam
+16.65	faithful	ncajncees
+16.66	true	tseeb
+16.67	lie, tell lies	dag
+16.67	lie, tell lies	xev
+16.68	deceit	ntxias
+16.69	forgive	zamtxim
+16.71	good	zoo
+16.72	bad	phem
+16.73	right, correct	yog
+16.73	right, correct	thwj
+16.74	wrong	txhaum
+16.74	wrong	phiv
+16.76	fault	txhaum
+16.77	mistake, error	qhovyuamkev
+16.78	blame	liam
+16.79	praise	qhuas
+16.81	beautiful	zoonkauj
+16.82	ugly	dabtuag
+16.83	greedy	siabhlob
+16.84	clever	ntse
+17.11	mind	siab
+17.11	mind	hlwb
+17.13	think (= reflect)	xav
+17.14	think (= be of the opinion)	xav
+17.15	believe	ntseeg
+17.16	understand	totaub
+17.16	understand	nkagsiab
+17.17	know	paub
+17.171	guess	kwvyees
+17.172	imitate	qog
+17.18	seem	muajntsiszooli
+17.19	idea, notion	tswvyim
+17.21	wise	paubqabhau
+17.22	foolish, stupid	ruam
+17.23	insane, crazy	vwm
+17.24	learn	xyaum
+17.242	study	kawmntawv
+17.25	teach	qhiantawv
+17.26	pupil	tubntxhaiskawmntawv
+17.27	teacher	xibhwb
+17.27	teacher	xibfwb
+17.27	teacher	naiskhu
+17.28	school	tsevkawmntawv
+17.31	remember	ncoqab
+17.32	forget	hnovqab
+17.34	clear, plain	meej
+17.37	sure, certain	paubtseeb
+17.38	explain	piav
+17.41	intention, purpose	tswvyim
+17.42	cause	hauvpaus
+17.43	doubt	xoomxaim
+17.44	suspect	nyaj
+17.441	betray	ntxeevsiab
+17.45	need, necessity	qhovxavmuaj
+17.46	easy	yoojyim
+17.46	easy	gaib
+17.47	difficult	nyuaj
+17.47	difficult	nyuab
+17.48	try, attempt	sim
+17.49	way, manner	cwjpwm
+17.49	way, manner	cujpwm
+17.51	and	thiab
+17.52	because	vim
+17.53	if	yog
+17.54	or	los
+17.55	yes, affirmative	aws
+17.55	yes, affirmative	wm
+17.61	how?	ualicas
+17.62	how many?	pestsawg
+17.63	how much?	npaumlicas
+17.64	what?	dabtsi
+17.65	when?	thaumtwg
+17.66	where?	qhovtwg
+17.67	which?	twg
+17.68	who?	leejtwg
+17.69	why?	vimlicas
+17.69	why?	ualicas
+18.11	voice	suab
+18.12	sing	hunkauj
+18.12	sing	haisnkauj
+18.13	shout, cry out	qw
+18.15	whisper	ntxhi
+18.17	whistle	xuav
+18.18	shriek, screech	qwnrov
+18.19	howl	nqov
+18.21	speak, talk	haislus
+18.211	stutter, stammer	daignplaig
+18.22	say	hais
+18.221	tell story	qhia
+18.23	silent (be)	ntsiagto
+18.24	language	lus
+18.26	word	lus
+18.28	name	npe
+18.31	ask (question, inquire)	nug
+18.31	ask (question, inquire)	noog
+18.32	answer	teb
+18.33	admit, confess	lees
+18.33	admit, confess	lavpaub
+18.35	ask, request	thov
+18.36	promise	coglus
+18.37	refuse	yig
+18.38	forbid	txwv
+18.39	rebuke, scold	cem
+18.41	call (=summon)	hu
+18.42	call (=name)	tisnpe
+18.43	announce	tshajtawm
+18.43	announce	nchamoo
+18.44	threaten	hawv
+18.44	threaten	hem
+18.45	boast	khav
+18.51	write	sau
+18.52	read	nyeem
+18.52	read	twm
+18.56	paper	ntawv
+18.57	pen	cwjmem
+18.61	book	ntawv
+18.71	flute	rajnplaim
+18.72	drum	nruas
+19.11	country	tebchaws
+19.15	city, town	nroog
+19.16	village	zos
+19.17	boundary	ciam
+19.17	boundary	ciajciam
+19.21	people (populace)	tibneeg
+19.23	tribe, clan	xeem
+19.24	chief, chieftain	thawj
+19.25	staff, walking stick	cwjnrig
+19.31	rule, govern	kavtswj
+19.32	king, ruler	huabtais
+19.32	king, ruler	fuabtais
+19.33	queen	pojhuabtais
+19.37	citizen, subject	pejxeem
+19.41	master	tswv
+19.42	slave	qhev
+19.43	servant	qhev
+19.45	command, order	haiskom
+19.46	obey	mlooglus
+19.47	let, permit	tsocairau
+19.51	friend, companion	phoojywg
+19.51	friend, companion	muj
+19.52	enemy	yeebncuab
+19.54	neighbor	neegzejzog
+19.56	guest	qhua
+19.58	help, aid	pab
+19.59	hinder, prevent	tivthaiv
+19.61	custom	kevcai
+19.62	strife, quarrel	sibcav
+19.62	strife, quarrel	sibcam
+19.62	strife, quarrel	sibceg
+19.65	meet	sibntsib
+19.65	meet	sibcuag
+19.72	prostitute	niamntiav
+19.72	prostitute	mebcab
+20.11	fight (vb)	sibntaus
+20.13	war, battle	tsovrog
+20.15	army	pawgtubrog
+20.17	soldier	tubrog
+20.21	weapons, arms	riamphom
+20.22	club	qws
+20.23	sling	hneevrojhmab
+20.24	bow	hneev
+20.25	arrow	xub
+20.26	spear	hmuv
+20.27	sword	ntaj
+20.28	gun, cannon	phom
+20.36	tower	pejthuam
+20.41	victory	yeej
+20.42	defeat	swb
+20.43	attack	mustua
+20.44	defend	tivthaiv
+20.45	retreat	thimrovqab
+20.46	surrender	nyoo
+20.47	captive, prisoner	neegraugtxhom
+20.471	guard, sentinel	neegzovnyas
+20.49	ambush	toskevtua
+20.51	fisherman	neegnuvntses
+20.52	fishhook	nuv
+20.52	fishhook	npev
+20.53	fishing line	hluanuv
+20.53	fishing line	hluanpev
+20.54	fishnet	yawmntses
+20.54	fishnet	vasntses
+20.55	fish trap	tawbcuabntses
+20.56	bait	kabnuvntses
+20.61	hunt	plobhavzoov
+20.62	shoot	tua
+20.63	miss (target)	npeeg
+20.64	trap (noun)	ntxiab
+20.65	trap (vb)	cuab
+21.11	law	cai
+21.15	court	tsevhaisplaub
+21.16	judge (vb)	txiavtxim
+21.17	judgment	kevtxiavtxim
+21.18	judge (noun)	tustxiavtxim
+21.21	plaintiff	tusliam
+21.21	plaintiff	tusfoob
+21.22	defendant	tusraugliam
+21.22	defendant	tusraugfoob
+21.23	witness	tuspovthawj
+21.24	swear	coglus
+21.25	oath	luscogtseg
+21.31	accuse	liam
+21.31	accuse	foob
+21.35	guilty	txhaum
+21.37	penalty, punishment	txim
+21.38	fine	nqinplua
+21.39	prison, jail	nkuaj
+21.39	prison, jail	qhovtaub
+21.42	murder	kevtuaneeg
+21.43	adultery	sibdeev
+21.44	rape	txhomtsoob
+21.44	rape	uadevuanpua
+21.47	perjury	dag
+21.51	steal	nyiag
+21.51	steal	txhav
+21.52	thief	tubsab

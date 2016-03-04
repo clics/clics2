@@ -1,0 +1,1371 @@
+@classification: Chibchan,Cofan
+@ids-name: Cofán_Phonemic
+@iso: con
+@language: Cofán
+@size: 1364
+@source: ids
+@variety: std
+1.1	world	ãde
+1.21	earth, land	ãde
+1.212	earth=ground, soil	ãde
+1.213	dust	'ãdeʔsɨkʰɨ'tʰopaʔsɨ
+1.214	mud	c̷ʰipakʰɨ
+1.215	sand	sisipa
+1.22	mountain, hill	'kʰotʰaʔkʰo
+1.222	cliff, precipice	Φatʰokʰo
+1.23	plain, field	šošoβiãde
+1.24	valley	sĩhɨ̃kʰɨ
+1.25	island	ã'tʰepoʔčo
+1.26	mainland	ãde
+1.27	shore	otaΦa
+1.28	cave	Φatʰokʰočãgo
+1.31	water	c̷aʔkʰɨ
+1.32	sea	rãdenaʔe
+1.322	calm (of sea)	pʰĩpʰĩc̷ʰianaʔe
+1.323	rough (of sea)	šaβepac̷ʰianaʔe
+1.324	foam	tʰõtʰõʔba
+1.329	ocean	rãdenaʔe
+1.33	lake	'sĩgɨʔkʰɨ
+1.34	gulf, bay	kataikʰɨ
+1.341	lagoon	'sĩgɨʔkʰɨ
+1.343	headland, point	c̷ɨtʰoni
+1.35	wave	šaβeʔpa
+1.36	river, stream, brook	naʔe
+1.36	river, stream, brook	naiʔki
+1.36	river, stream, brook	aiʔhe
+1.362	whirlpool	Φẽc̷ĩdakʰɨ
+1.37	spring, well	c̷aʔkʰɨsõboʔtʰi
+1.38	swamp	c̷ɨtokʰɨ
+1.38	swamp	sihɨ̃kʰɨ
+1.39	waterfall	õtɨhɨ̃kʰɨ
+1.41	woods, forest	c̷ãpi
+1.42	tree (cf 08.600)	'kiniʔkʰo
+1.43	wood	'kiniʔkʰo
+1.44	stone, rock	patɨ
+1.45	earthquake	ãdeoya
+1.51	sky	seΦakʰo
+1.51	sky	seΦani
+1.52	sun	čiɣa
+1.52	sun	koehečiɣa
+1.53	moon	'koseʔsɨčiɣa
+1.53	moon	kʰoβɨ
+1.54	star	oʔΦe
+1.55	lightning	c̷ãdaβeyãẽ
+1.56	thunder	c̷ãda
+1.57	lightning (as striking)	c̷ãdade
+1.59	rainbow	ɨtʰɨΦasi
+1.61	light (noun)	aʔta
+1.61	light (noun)	čʰãhieɲe
+1.61	light (noun)	atʰiaɲe
+1.62	darkness	sĩtʰio
+1.62	darkness	siɲite
+1.63	shade, shadow	tɨ̃biãkʰɨ
+1.71	air	kʰɨẽǰaʔpa
+1.72	wind	Φĩgiã
+1.73	cloud	'ɨ̃hĩʔba
+1.73	cloud	sĩʔčotiʔo
+1.74	fog	kʰɨ'tʰopaʔsi
+1.75	rain (noun)	ɨ̃hĩ
+1.76	snow (noun)	čã'disɨʔkʰo
+1.77	ice	čã'disɨʔkʰo
+1.81	fire	sĩʔge
+1.82	flame (noun)	sĩʔgeãčãdaʔheʔčo
+1.83	smoke (noun)	'õΦẽʔba
+1.84	ashes	kɨsepa
+1.841	embers	sĩ'geteʔčo
+1.841	embers	teʔčo
+1.851	burn (vb trans)	okeye
+1.851	burn (vb trans)	ãčãdãẽɲe
+1.852	burn (vb intrans)	hɨʔrɨye
+1.852	burn (vb intrans)	ãčãdaye
+1.86	light, kindle, ignite	sec̷ãẽɲe
+1.861	extinguish	Φiʔtʰiye
+1.87	match (noun)	sĩ'gekʰɨ
+1.88	firewood	siʔc̷i
+1.89	charcoal	teʔčo
+1.89	charcoal	sĩgeteʔčo
+2.1	person, human being	aʔi
+2.21	man (vs. woman)	c̷ãdie
+2.22	woman	pɨšesɨ
+2.23	male	kic̷aye
+2.24	female	pɨše
+2.25	boy	c̷ãdiedɨʔšɨ
+2.251	young man (adolescent)	dɨšɨʔo
+2.26	girl	pɨšesɨdɨʔšɨ
+2.261	young woman (adolescent)	pɨšesɨčɨʔa
+2.27	child	dɨʔšɨ
+2.28	infant, baby	aipano
+2.28	infant, baby	dɨʔšɨ
+2.31	husband	c̷ãʔdɨ
+2.32	wife	pɨše
+2.33	marry	ãtʰiaɲe
+2.34	marriage, wedding	ãtʰeʔčo
+2.341	divorce	'katiye
+2.35	father	kic̷a
+2.35	father	yaya
+2.36	mother	čã
+2.36	mother	mama
+2.38	married man	pɨšepa
+2.39	married woman	c̷ãdɨpa
+2.41	son	dɨc̷ʰiʔye
+2.41	son	haričo
+2.41	son	ari
+2.42	daughter	õkẽ
+2.42	daughter	õkẽʔge
+2.43	offspring (son or daughter)	dɨʔšɨ
+2.43	offspring (son or daughter)	haričopa
+2.444	older brother	kĩǰa
+2.445	younger brother	kĩši
+2.454	older sister	šeʔše
+2.455	younger sister	keʔtʰe
+2.456	sibling	ãtia
+2.458	twins	Φãẽʔgeisɨʔčo
+2.46	grandfather	yayakʰašeʔye
+2.461	old man	koẽd͜za'kʰašeʔye
+2.461	old man	koẽ
+2.47	grandmother	mamakʰaše
+2.471	old woman	koẽd͜za'kʰaše
+2.471	old woman	kʰaše
+2.48	grandson	dɨʔšɨ
+2.48	grandson	haričo
+2.49	granddaughter	dɨʔšɨ
+2.49	granddaughter	õkẽ
+2.51	uncle	tõʔto
+2.52	aunt	čõgẽ
+2.53	nephew	kĩši
+2.54	niece	keʔtʰe
+2.55	cousin	kĩši
+2.55	cousin	keʔtʰe
+2.56	ancestors	tayopiʔsɨaʔi
+2.57	descendants	õΦãde
+2.61	father-in-law (of a man)	kic̷akʰašeʔye
+2.611	father-in-law (of a woman)	kic̷akʰašeʔye
+2.62	mother-in-law (of a man)	čãkʰaše
+2.621	mother-in-law (of a woman)	čãkʰaše
+2.63	son-in-law (of a man)	dɨʔsɨ
+2.631	son-in-law (of a woman)	dɨʔsɨ
+2.64	daughter-in-law (of a man)	čina
+2.641	daughter-in-law (of a woman)	čina
+2.71	stepfather	koeɲaʔsɨkic̷a
+2.72	stepmother	koeɲaʔsɨčã
+2.73	stepson	koẽʔčo
+2.74	stepdaughter	koẽʔčo
+2.76	widow	c̷ãdɨpahẽʔčo
+2.77	widower	pɨšepahẽʔčo
+2.81	relatives, kinsmen	ãtia
+2.82	family	ãtia
+2.91	I	ɲa
+2.91	I	gi
+2.92	you (singular)	ke
+2.93	he/she/it	hoβa
+2.93	he/she/it	tise
+2.93	he/she/it	c̷a
+2.94	we	ĩgi
+2.95	you (plural)	keʔi
+2.96	they	'hõdekʰɨ
+2.96	they	c̷ẽdekʰɨ
+3.12	male (adj)	kic̷aye
+3.13	female (adj)	pɨše
+3.15	livestock	ãĩɲãʔčo
+3.16	pasture	šošoβekɨ
+3.18	herdsman	ãĩɲãʔčomakoiraʔsɨ
+3.2	cattle (bovine)	βaɨra
+3.2	cattle (bovine)	βaɨgra
+3.21	bull	βaɨrakic̷aye
+3.22	ox	semaʔsɨβaɨra
+3.23	cow	βaɨra
+3.23	cow	βaɨgra
+3.24	calf	βaɨgradɨʔšɨ
+3.26	ram	kic̷aye
+3.28	ewe	pɨše
+3.29	lamb	dɨʔšɨ
+3.32	boar	berakʰo
+3.34	sow	čã
+3.38	kid	dɨʔšɨ
+3.42	stallion	kic̷aye
+3.44	mare	pɨše
+3.45	foal, colt	dɨʔšɨ
+3.5	fowl	arapaΦao
+3.54	hen	arapa
+3.55	chicken	arapa
+3.57	duck	βakapi
+3.57	duck	ΦiΦiΦi
+3.58	nest	c̷aoʔpa
+3.581	bird	čʰiriria
+3.583	heron	βasaga
+3.584	eagle	kõsĩpĩdo
+3.585	hawk	pĩdo
+3.586	vulture	kʰõpana
+3.591	bat	kic̷a
+3.591	bat	čĩbirakʰo
+3.592	parrot	kʰačapa
+3.592	parrot	pikori
+3.592	parrot	tʰoΦi
+3.593	crow	piβari
+3.593	crow	biβari
+3.593	crow	tõc̷a
+3.594	dove	pʰɨpʰɨhɨʔčo
+3.596	owl	poskõgo
+3.596	owl	posɨkõgo
+3.61	dog	ãĩ
+3.614	rabbit	koke
+3.63	mouse, rat	dɨšɨparãde
+3.63	mouse, rat	dɨšɨpa
+3.65	fish	aβɨ
+3.652	fin (dorsal)	sãkʰopa
+3.653	fishscale	aβɨc̷ɨpiri
+3.654	gill	c̷ipʰoʔpo
+3.655	shell	čoro
+3.664	stingray	šipare
+3.665	freshwater eel	Φãbi
+3.72	lion	kɨβotʰesi
+3.72	lion	tʰesi
+3.73	bear	õkõmari
+3.74	fox	pãdo
+3.74	fox	c̷ãpiʔsɨain
+3.75	deer	šãʔkʰo
+3.76	monkey	aʔčo
+3.76	monkey	õgɨ
+3.76	monkey	dɨye
+3.76	monkey	aʔčo
+3.811	louse	sĩsĩ
+3.813	flea	bĩši
+3.814	centipede	šahasi
+3.815	scorpion	tini
+3.816	cockroach	šipikʰo
+3.817	ant	aʔhɨ
+3.818	spider	kʰayahɨ
+3.819	spider web	kʰayahɨc̷aoʔpa
+3.82	bee	tɨɲo
+3.82	bee	tɨɲonasi
+3.821	beeswax	tɨɲo
+3.822	beehive	tɨɲo
+3.823	wasp	paʔtʰa
+3.83	fly	tẽkẽʔčo
+3.83	fly	okɨ
+3.831	sandfly (midge), gnat	tʰoc̷ɨ
+3.832	mosquito	ãčã
+3.84	worm	'iyoʔΦa
+3.85	snake	iyo
+3.91	firefly	tɨ̃bãba
+3.91	firefly	tɨ̃ʔba
+3.92	butterfly	tʰɨβia
+3.93	grasshopper	tʰõbɨ
+3.94	snail	čoro
+3.95	frog	torõba
+3.96	lizard	toΦa
+3.96	lizard	ãpaširo
+3.96	lizard	iβana
+3.97	crocodile, alligator	βatoβa
+3.98	turtle	čarapa
+3.98	turtle	tarikaya
+3.98	turtle	poka
+4.11	body	aiʔβo
+4.11	body	aiʔgo
+4.12	skin, hide	tʰono
+4.13	flesh	aɲaʔčo
+4.13	flesh	na
+4.14	hair (head)	tose
+4.142	beard	'c̷ohĩʔba
+4.144	body hair	'tosaʔβɨ
+4.145	pubic hair	šodɨsɨʔčoʔsɨtose
+4.15	blood	ãhãpa
+4.151	vein, artery	ãhãpaʔΦa
+4.16	bone	c̷ɨʔtʰa
+4.16	bone	d͜zɨʔtʰa
+4.162	rib	ɨtɨkʰɨ
+4.17	horn	kãʔčo
+4.17	horn	õc̷iãʔkʰo
+4.18	tail	ac̷eʔΦa
+4.19	back	sepakʰo
+4.191	spine	sẽtɨΦoʔčo
+4.2	head	c̷oβe
+4.202	skull	c̷oβeʔsɨc̷ɨʔtʰa
+4.203	brain	nãnãʔba
+4.204	face	c̷oβeʔhɨ
+4.204	face	kãbaʔhɨ
+4.205	forehead	'kãbaʔhɨ
+4.207	jaw	kʰotaiʔkʰo
+4.208	cheek	tʰopopoʔčo
+4.209	chin	gorɨʔčo
+4.21	eye	c̷oʔΦe
+4.212	eyebrow	biyoʔΦa
+4.214	eyelash	biyoyoʔΦa
+4.215	blink	c̷aʔpipiye
+4.22	ear	c̷osina
+4.23	nose	'c̷oΦaʔtʰɨ
+4.231	nostril	c̷oΦaʔtʰɨčãgo
+4.232	mucus (nasal)	'ãgiʔkʰo
+4.24	mouth	'ayaʔΦa
+4.241	beak	tʰetʰoʔčo
+4.25	lip	'ayaʔΦa
+4.26	tongue	mẽ'd͜zãd͜zaʔΦa
+4.27	tooth	tʰeʔtʰo
+4.272	molartooth	tʰeʔtʰokašãbakʰɨ
+4.28	neck	c̷iΦo
+4.281	nape of neck	kataičo
+4.29	throat	kɨ̃deΦa
+4.29	throat	c̷iΦo
+4.3	shoulder	o'pipaʔčo
+4.301	shoulderblade	para
+4.31	arm	yasa
+4.31	arm	tiβe
+4.312	armpit	šamãdakʰɨ
+4.32	elbow	'c̷ẽdiʔčo
+4.321	wrist	'nẽbaʔčo
+4.33	hand	tiβe
+4.331	palm of hand	tiβenakʰɨ
+4.34	finger	c̷imĩ'ãʔkʰo
+4.34	finger	d͜zimiãʔkʰo
+4.342	thumb	koẽʔčo
+4.344	fingernail	kic̷ikʰo
+4.344	fingernail	kic̷ɨikʰo
+4.345	claw	kic̷ikʰo
+4.35	leg	'tʰenãʔgo
+4.35	leg	c̷ɨʔtʰe
+4.351	thigh	'tʰenãʔgo
+4.352	calf of leg	sãʔkʰoa
+4.36	knee	'c̷ɨtʰaʔčo
+4.37	foot	c̷ɨʔtʰe
+4.37	foot	d͜zɨʔtʰe
+4.371	ankle	Φinoʔčo
+4.372	heel	sɨtɨkʰoʔčo
+4.38	toe	c̷ɨʔtʰec̷imĩ'ãʔkʰo
+4.392	wing	sãkʰopa
+4.393	feather	tose
+4.393	feather	teʔta
+4.4	chest	'ɨtɨʔčo
+4.41	breast (of woman)	čo
+4.412	nipple, teat	čo
+4.42	udder	βaɨračo
+4.43	navel	si'oʔma
+4.44	heart	ĩ'hamaʔčo
+4.441	lung	c̷ʰoc̷ʰopa
+4.45	liver	sãsã
+4.451	kidney	seβačo
+4.452	spleen	šĩʔkʰo
+4.46	stomach	aʔma
+4.46	stomach	tʰoʔpa
+4.461	intestines, guts	tʰoʔpa
+4.461	intestines, guts	ti'Φočoʔpa
+4.463	hip	c̷ĩbočoʔkʰo
+4.463	hip	c̷ĩbočokʰo
+4.464	buttocks	kʰopatʰiʔkʰo
+4.47	womb	tʰoʔpa
+4.49	testicle	šõdɨsɨʔčo
+4.492	penis	šoʔΦa
+4.51	breathe, breath	kʰẽǰaye
+4.52	yawn, gape	šaʔrɨye
+4.52	yawn, gape	šarɨʔkʰo
+4.521	hiccough	tɨkʰokʰoẽʔsɨ
+4.53	cough	itʰotʰoʔčo
+4.54	sneeze	hẽʔc̷ʰi
+4.55	perspire	pɨipaʔsɨ
+4.56	spit	bočʰikoeɲe
+4.56	spit	ačakʰɨ
+4.57	vomit	'aʔhɨye
+4.57	vomit	aʔhɨpa
+4.58	bite	c̷aiye
+4.59	lick	beyaye
+4.591	dribble	aiča
+4.61	sleep	'anãɲe
+4.612	snore	kʰorɨrɨye
+4.62	dream	ayoʔoye
+4.63	wake up	bitʰaye
+4.64	break wind	sɨΦoropahẽɲẽ
+4.65	urinate	kɨ̃ǰiye
+4.65	urinate	čʰoβiye
+4.66	defecate	kʰoʔpaye
+4.66	defecate	kʰopa
+4.67	have sexual intercourse	piye
+4.67	have sexual intercourse	tãdãgeye
+4.68	shiver	tʰɨʔdɨ̃dɨye
+4.68	shiver	d͜ziβakʰo
+4.69	bathe	õhoɲe
+4.69	bathe	õhoeɲe
+4.71	beget (of father)	dɨʔsĩãɲe
+4.72	born (to be)	isɨye
+4.72	born (to be)	dɨʔsɨye
+4.73	pregnant	sɨri
+4.73	pregnant	sɨriʔhe
+4.73	pregnant	nepiaɲe
+4.732	conceive	sɨriβẽdaye
+4.74	live, living, life	kãseye
+4.74	live, living, life	kʰẽǰaʔpa
+4.75	die, dead	paye
+4.751	drowned	kɨʔnõbapaye
+4.751	drowned	ãdekʰoeɲe
+4.76	kill	Φiʔtʰiye
+4.77	corpse	pa'čõbeaiʔβo
+4.77	corpse	ʔye
+4.77	corpse	ʔɲe
+4.78	bury (the dead)	aʔtɨye
+4.79	grave, tomb	atɨʔtʰi
+4.81	strong, mighty, powerful	kĩʔã
+4.82	weak	ošãbi
+4.84	sick, sickness	pakeʔsɨ
+4.84	sick, sickness	pahiʔčo
+4.841	fever	ahe
+4.843	cold (catarrh)	ãgiʔkʰo
+4.85	wound, sore	iɲakaʔčo
+4.85	wound, sore	iɲakaye
+4.852	bruise	siʔma
+4.852	bruise	siʔmaʔeda
+4.853	swelling	pʰɨye
+4.854	itch	'asapaʔo
+4.855	blister	Φorokʰɨʔčo
+4.856	boil (noun)	kʰomẽd͜zɨΦa
+4.857	pus	tuikɨ
+4.858	scar	kʰɨšaʔčo
+4.86	cure, heal	seʔheye
+4.86	cure, heal	kʰɨšaeɲe
+4.87	physician	seheʔsɨ
+4.88	medicine, drug	seheʔpa
+4.89	poison	seheʔpa
+4.91	tired, weary	kĩbiye
+4.912	rest	ɲoʔΦaye
+4.92	lazy	noeʔsɨ
+4.93	bald	čɨʔkʰoac̷oβe
+4.93	bald	čɨhere
+4.94	lame	kʰareše
+4.95	deaf	c̷osinãbi
+4.96	mute	sɨ̃bi
+4.97	blind	bini
+4.98	intoxicated	kʰɨsiaɲe
+4.98	intoxicated	kʰɨsiye
+4.99	naked, bare	čɨʔoko
+5.11	eat	ãɲe
+5.12	food	aɲaʔčo
+5.121	cooked	šoʔkʰãẽʔčo
+5.122	raw	čɨʔa
+5.123	ripe	kɨʔčo
+5.123	ripe	koeʔã
+5.124	green, unripe	čɨre
+5.124	green, unripe	ĩd͜zɨ
+5.125	rotten	kõgõba
+5.13	drink	kɨiʔye
+5.14	hunger	kʰipoeʔsɨ
+5.141	famine	kʰipoe'sɨitʰe
+5.15	thirst	kʰipoeʔsɨ
+5.15	thirst	c̷akʰeʔsɨ
+5.16	suck	sɨc̷aye
+5.16	suck	sɨc̷ɨye
+5.16	suck	čočoye
+5.18	chew	c̷eʔc̷eye
+5.181	swallow	kɨ̃deye
+5.19	choke	'kɨc̷aye
+5.21	cook	šoʔkʰãẽɲe
+5.22	boil (vb)	otaeɲe
+5.22	boil (vb)	goatʰiaɲe
+5.23	roast, fry	mac̷ʰaɲe
+5.23	roast, fry	šehečoye
+5.24	bake	mac̷ʰaɲe
+5.26	pot, cooking vessel	api
+5.26	pot, cooking vessel	kãdero
+5.28	pan	šehečopakʰɨ
+5.31	dish	apišoʔtʰo
+5.32	plate	apišoʔtʰo
+5.33	bowl	ičoroʔčo
+5.33	bowl	kʰosɨ
+5.34	pitcher, jug	api
+5.34	pitcher, jug	c̷oripa
+5.38	knife	'čʰičʰiʔkʰo
+5.46	peel	kʰeʔšoye
+5.47	sieve, strain	oΦiye
+5.47	sieve, strain	oΦiΦiye
+5.48	scrape	c̷ʰac̷ʰaye
+5.49	stir, mix	ečʰoeɲe
+5.49	stir, mix	ečʰoʔčoeɲe
+5.51	bread	kasaβe
+5.54	knead	mãǰiye
+5.56	crush, grind	sɨ̃ʔdaye
+5.56	crush, grind	sapiaɲe
+5.57	mill	sɨ̃daʔčo
+5.57	mill	pʰɨʔpʰɨsɨ̃daʔčo
+5.61	meat	'aɲaʔčo
+5.61	meat	na
+5.63	sausage	'aɲãʔčo
+5.64	soup, broth	yoʔkʰɨ
+5.66	bean	seʔβa
+5.7	potato	papa
+5.71	fruit	na
+5.71	fruit	tetačo
+5.76	grape	c̷aha
+5.79	oil	yayaʔpa
+5.791	grease, fat	'yayaʔpa
+5.81	salt	ãsĩ
+5.82	pepper	kʰoma
+5.821	chili pepper	kʰoma
+5.84	honey	kɨɲahɨ̃ʔčo
+5.85	sugar	totoakɨɲahɨ̃ʔčo
+5.86	milk (noun)	čočo
+5.86	milk (noun)	βaɨračočo
+5.87	milk (vb)	čočoẽɲe
+5.89	butter	yayaʔpa
+5.9	beverage, drink	kɨiʔkʰɨ
+5.94	fermented drink	'c̷ec̷eʔpa
+5.94	fermented drink	kɨnapeʔča
+5.97	egg	dɨsɨʔčo
+6.11	put on (clothes)	õdikʰɨye
+6.11	put on (clothes)	ehiaɲe
+6.12	clothing, clothes	õdikʰɨʔhe
+6.21	cloth	sarɨpa
+6.21	cloth	kʰarapača
+6.22	wool	tose
+6.24	cotton	šičʰataʔβa
+6.28	fur	tosepatʰono
+6.29	leather	tʰono
+6.31	spin	siβãẽɲe
+6.32	spindle	siβaẽʔčo
+6.33	weave	ãšaɲe
+6.33	weave	otaʔtaye
+6.33	weave	ɨgaye
+6.34	loom	ašẽʔkʰo
+6.35	sew	ãčoeɲe
+6.36	needle	nohaʔkʰo
+6.38	thread	sĩbaʔΦa
+6.38	thread	siβoʔΦa
+6.39	dye	c̷ʰɨc̷ʰiãɲe
+6.41	cloak	õdikɨʔhe
+6.44	shirt	kõtõ
+6.46	skirt	Φoɲo
+6.48	trousers	apečokʰɨ
+6.55	hat, cap	õc̷iãkʰɨ
+6.57	belt, girdle	ɨtɨkʰiʔΦa
+6.57	belt, girdle	čõbi
+6.63	pin	ĩdiãʔčo
+6.71	ornament, adornment	tetaʔkʰo
+6.74	bracelet	teresaʔΦa
+6.74	bracelet	iβanatono
+6.75	necklace	ãdɨʔpa
+6.75	necklace	teʔta
+6.75	necklace	tʰesitʰeʔtʰo
+6.76	bead	ãdɨʔpa
+6.77	earring	c̷osinateʔta
+6.77	earring	e'hepaʔkʰo
+6.78	headband, headdress	otiΦakʰɨ
+6.78	headband, headdress	yaheotiΦakʰɨ
+6.81	handkerchief, rag	sarɨpa
+6.91	comb	sĩsĩtʰokʰo
+6.91	comb	Φɨčʰaye
+6.921	braid	toseɨɣaʔčo
+6.921	braid	ɨɣaye
+6.94	ointment	pečãẽkeʔsɨsehepa
+6.96	mirror	kãkʰo
+7.11	dwell, live	kãʔhẽɲe
+7.12	house	c̷aʔo
+7.12	house	etʰi
+7.13	hut	c̷aokʰɨ
+7.14	tent	sarɨpac̷aʔo
+7.15	yard, court	tʰɨkʰɨ
+7.17	cookhouse	sĩʔgemaokeʔheʔčo
+7.18	meeting house	boʔheʔtʰi
+7.21	room	etʰikʰɨʔčo
+7.22	door, gate	'sõboʔtʰi
+7.25	window	kãɲaʔhẽʔtʰi
+7.26	floor	ãde
+7.26	floor	pʰapʰakʰo
+7.26	floor	asikʰo
+7.27	wall	tʰɨʔčo
+7.27	wall	asikʰotʰɨʔčo
+7.31	fireplace	sĩʔgemaokeʔheʔčo
+7.37	ladder	kãčana
+7.42	bed	ã'nahẽʔčo
+7.42	bed	ãna'hẽkʰɨ
+7.421	pillow	asɨsɨʔčo
+7.43	chair	šetʰoʔčo
+7.45	lamp, torch	tɨɲo
+7.45	lamp, torch	raparia
+7.46	candle	sĩʔge
+7.46	candle	tɨɲo
+7.48	trough	šaβokʰɨ
+7.51	roof	c̷aʔo
+7.52	thatch	c̷aʔoopaẽʔčo
+7.53	ridgepole	c̷aʔosepakʰo
+7.54	rafter	sẽbatʰaʔkʰo
+7.54	rafter	otʰaẽʔΦa
+7.55	beam	otʰaẽʔkʰo
+7.56	post, pole	kiniʔkʰo
+7.56	post, pole	ǰaiɲaʔčo
+7.56	post, pole	čãʔhĩ
+7.57	board	mesa
+8.12	field (for cultivation)	nasipa
+8.15	cultivate, till	aʔteɲe
+8.16	fence	tʰɨʔčo
+8.16	fence	tʰɨye
+8.17	ditch	c̷aʔkʰɨhaʔheʔčo
+8.22	dig	kã'šãẽɲe
+8.22	dig	čãgoẽɲe
+8.22	dig	paʔΦɨye
+8.24	shovel	para
+8.27	rake	bɨ̃ʔbɨye
+8.31	sow	gaiɲaɲe
+8.311	seed	čo
+8.32	mow, reap	taiye
+8.34	thresh	kʰeʔšoye
+8.41	crop, harvest	taiyaʔčo
+8.47	maize, corn	pʰɨʔpʰɨ
+8.51	grass	šošoβi
+8.52	hay	šošoβisãba
+8.53	plant (noun)	hõkeʔsɨ
+8.531	plant (vb)	hõɲe
+8.54	root	'sec̷aʔΦa
+8.55	branch	tʰẽba
+8.56	leaf	kʰakʰe
+8.56	leaf	kʰakʰehe
+8.57	flower	teʔta
+8.57	flower	tetaʔčo
+8.6	tree	kiniʔkʰo
+8.6	tree	kiniʔhĩ
+8.67	vine	oʔΦa
+8.68	tobacco	kɨ̃ba
+8.69	smoke (tobacco)	šõʔčaɲe
+8.691	pipe	kãčĩba
+8.72	tree stump	sec̷akʰɨ
+8.72	tree stump	tʰɨtʰɨʔčo
+8.73	tree trunk	naʔhĩ
+8.74	forked branch	ãʔkʰo
+8.75	bark	tʰono
+8.75	bark	'kiniʔkʰotʰono
+8.76	sap	'tɨ̃baʔkʰɨ
+8.81	palm tree	õʔma
+8.81	palm tree	ka'nõgoʔčo
+8.84	banana tree	koye
+8.91	sweet potato	kõgɨ
+8.91	sweet potato	totoakeΦa
+8.91	sweet potato	siãkeΦa
+8.912	yam	keΦa
+8.92	tapioca, manioc, cassava	ãʔba
+8.93	gourd	ičʰoroʔčo
+8.93	gourd	kʰoa
+8.93	gourd	kʰoʔa
+8.931	pumpkin, squash	kʰoa
+8.931	pumpkin, squash	kʰoʔa
+8.94	bamboo	kɨɣɨ
+8.941	sugar cane	sɨc̷apaʔkʰo
+8.96	fish poison (root)	seɲãʔba
+8.97	nettle	ãkʰoʔsi
+8.98	mushroom	sina
+8.98	mushroom	totoasina
+9.11	do, make	ɲõɲãɲe
+9.12	work	semaɲe
+9.12	work	βanaɲe
+9.14	bend	Φɨriaɲe
+9.14	bend	Φɨriye
+9.15	fold	õpãgoeɲe
+9.15	fold	Φɨriaɲe
+9.16	tie, bind	tãdaɲe
+9.16	tie, bind	ɨɣaye
+9.161	untie	asitʰaye
+9.19	rope, cord	'sĩbaʔΦa
+9.192	knot (noun)	tãdãʔčo
+9.21	strike (hit, beat)	c̷ʰaye
+9.21	strike (hit, beat)	c̷ʰaiye
+9.211	pound with fist	c̷eʔc̷eye
+9.22	cut	čʰiyiye
+9.22	cut	čʰatʰɨye
+9.221	cut down	tʰɨtʰɨye
+9.222	chop, hew	čʰiyiye
+9.222	chop, hew	kʰeraʔraye
+9.223	stab	kikʰɨye
+9.23	knife	'čʰičʰikʰo
+9.24	scissors, shears	nosiẽʔkʰo
+9.24	scissors, shears	nosiãʔkʰo
+9.25	ax	o'βakʰoʔčo
+9.251	adze	oβakʰopa
+9.26	break	ɨkʰaeɲe
+9.26	break	ɨkʰaye
+9.261	broken	ɨkʰaʔčo
+9.27	split	doɲãɲe
+9.27	split	'c̷ʰeʔc̷ʰeye
+9.28	tear	čitʰaye
+9.28	tear	tʰɨɲaɲe
+9.29	flay, skin	kʰeʔšoye
+9.29	flay, skin	kʰešoye
+9.31	rub, wipe	šɨhɨye
+9.32	stretch	biaɲaɲe
+9.32	stretch	katikʰɨye
+9.32	stretch	sitʰakʰoye
+9.33	pull	kʰic̷ʰaye
+9.34	spread out	šekeye
+9.34	spread out	šekiãɲe
+9.341	hang up	dɨsiaɲe
+9.342	press	mãǰiye
+9.342	press	pisaye
+9.343	squeeze, wring	Φẽc̷ĩdẽɲe
+9.35	pour	ošaye
+9.36	wash	'maʔpʰãɲe
+9.36	wash	kašiye
+9.36	wash	ohoeɲe
+9.37	sweep	Φɨ̃dɨiye
+9.38	broom	Φɨ̃dɨiʔsi
+9.44	build	ɲoɲaɲe
+9.44	build	c̷aoʔɲaɲe
+9.46	bore	poʔtaye
+9.461	hollow out	nakʰiaɲe
+9.56	glue	sec̷ẽkeʔsɨ
+9.56	glue	tɨʔac̷ʰi
+9.64	gold	kori
+9.65	silver	koriΦĩʔdi
+9.66	copper, bronze	kɨʔayošaβa
+9.67	iron	yošaβa
+9.73	clay	apiča
+9.74	glass	kãkʰo
+9.75	weave, plait	uɣaye
+9.76	basket	saparo
+9.76	basket	otataʔkʰo
+9.77	mat	pʰa'pʰakʰomapʰai'ɲakieʔsɨ
+9.78	netbag	'oʔβa
+9.79	fan (noun)	ΦĩΦĩkʰo
+9.791	fan (vb)	Φĩgiɲe
+9.81	carve	Φegetʰoye
+9.88	paint (noun)	õhõẽkeʔsɨ
+9.89	paint (vb)	õhõẽɲe
+10.11	move	oyeɲe
+10.11	move	oyaye
+10.12	turn over	pɨc̷ĩãɲe
+10.12	turn over	asĩãɲe
+10.13	turn around	piyiye
+10.13	turn around	itoyeye
+10.13	turn around	šokẽdiye
+10.14	wind, wrap	õkʰãɲe
+10.14	wind, wrap	Φĩdiye
+10.15	roll	mɨ̃c̷inoeɲe
+10.16	drop (vb)	ãpʰĩã
+10.17	twist	Φẽtẽdiaɲe
+10.17	twist	siβaeɲe
+10.21	rise	ãsɨ̃deye
+10.22	raise, lift	ãsɨ̃diaɲe
+10.22	raise, lift	hãgiaɲe
+10.23	fall	ãpʰiye
+10.23	fall	oseiye
+10.24	drip	sɨ̃ʔdɨye
+10.24	drip	biʔc̷ʰaye
+10.25	throw	tʰoβaye
+10.25	throw	katiye
+10.252	catch (ball)	isɨye
+10.252	catch (ball)	tayoyeye
+10.26	shake	Φãtʰɨ̃dɨye
+10.32	flow	'aiʔheye
+10.33	sink	ãdekʰoye
+10.34	float	sɨΦotʰoye
+10.35	swim	'kʰaʔyaye
+10.352	splash	ãzapɨye
+10.37	fly (vb)	čʰaʔheye
+10.38	blow	ɨΦaye
+10.41	creep, crawl	mãgɨye
+10.412	kneel	karɨ̃ǰaiye
+10.413	crouch	pɨ̃c̷ʰaɲe
+10.413	crouch	tẽʔgɨya
+10.42	slide, slip	tʰĩbaʔo
+10.43	jump, leap	bɨtʰoye
+10.431	kick	c̷ɨc̷ɨkʰoye
+10.44	dance	boiraye
+10.45	walk	'hakaɲe
+10.45	walk	c̷iye
+10.45	walk	d͜ziye
+10.46	run	bɨtʰoye
+10.47	go	haye
+10.47	go	ãpãšaɲe
+10.47	go	poʔtaye
+10.471	go up	ãsɨ̃deye
+10.472	climb	ãsɨ̃deye
+10.473	go down	ãdeye
+10.474	go out	sõboye
+10.474	go out	sõbopahaye
+10.48	come	hiye
+10.48	come	hiɲaɲe
+10.481	come back	šãdaye
+10.481	come back	toekihayi
+10.49	go away, depart	haye
+10.49	go away, depart	tayoha
+10.491	disappear	kʰɨyaye
+10.51	flee	'kʰɨyaye
+10.51	flee	kʰɨšaye
+10.51	flee	tʰeyaye
+10.52	follow	õboẽɲe
+10.52	follow	mãdiãɲe
+10.53	pursue	mãdiãɲe
+10.55	reach, arrive	napiye
+10.56	approach	kac̷eye
+10.57	enter	kaʔniɲe
+10.61	carry (bear)	ãgaye
+10.612	carry-in-hand	opiye
+10.612	carry-in-hand	ĩdiye
+10.613	carry-on-shoulder	ãdɨye
+10.614	carry-on-head	õc̷ẽbiye
+10.615	carry-underarm	ãgaye
+10.62	bring	iye
+10.62	bring	Φečočoẽɲe
+10.63	send	moeɲe
+10.64	lead (vb)	ãgakãɲe
+10.65	drive	heɲaɲe
+10.66	ride	ǰaihaye
+10.67	push, shove	kʰoΦe'tʰaye
+10.71	road	c̷aiki
+10.72	path	c̷aiki
+10.76	wheel	c̷ɨʔtʰe
+10.81	ship	randešaβo
+10.831	canoe	šaβo
+10.831	canoe	šago
+10.84	raft	oe̷ekʰo
+10.85	oar	čʰo'čʰoΦiʔdi
+10.851	paddle (noun)	čʰočʰoΦĩʔdi
+10.852	row (vb)	čʰoiye
+10.86	rudder	asɨtʰãẽʔsɨ
+10.86	rudder	čʰočʰoΦĩʔdi
+10.88	sail (noun)	ãgakeʔsɨsarɨpa
+10.89	anchor	ĩdidɨsĩãʔheʔčo'ãʔkʰo
+10.91	harbor, port	kʰatʰɨΦaʔheʔtʰi
+10.92	land (vb)	ãdeye
+10.92	land (vb)	sõboye
+11.11	have	'ãʔbĩãɲe
+11.12	own, possess	naʔsɨ
+11.12	own, possess	'ãʔbĩãɲe
+11.13	take	isɨye
+11.13	take	ic̷aye
+11.14	seize, grasp	kʰic̷ʰaisɨye
+11.15	hold	ĩdiye
+11.16	get, obtain	isɨye
+11.17	keep, retain	'ãʔbĩãɲe
+11.18	thing	hĩʔčo
+11.21	give	aΦeye
+11.22	give back	toekiaΦeye
+11.24	preserve, look after	'ãʔbĩãɲe
+11.25	save, rescue	kʰɨšãẽɲe
+11.27	destroy	Φiʔtʰiye
+11.28	harm, injure, damage	daʔɲoɲe
+11.28	harm, injure, damage	daɲõgeye
+11.28	harm, injure, damage	iɲakʰaeɲe
+11.31	seek, look for	'tʰaʔtʰaye
+11.32	find	'atʰeye
+11.32	find	kačaiye
+11.32	find	kačaikʰoye
+11.33	lose	kʰeɲaɲe
+11.33	lose	kʰeye
+11.33	lose	katiye
+11.34	release, let go	sõboeɲe
+11.43	money	koriΦĩʔdi
+11.44	coin	koriΦĩʔdi
+11.52	poor	čɨβo
+11.52	poor	pori
+11.54	avaricious, stingy	seʔpiʔsɨ
+11.61	lend	aΦeye
+11.62	borrow	isɨye
+11.63	owe	šakaye
+11.63	owe	šakãẽɲe
+11.64	debt	šaka
+11.65	pay (vb)	aΦeʔpõẽɲe
+11.66	account, reckoning	šakateβãẽʔčo
+11.77	hire	'aΦeʔpõẽɲe
+11.78	wages	'aΦeʔpõẽʔčo
+11.79	earn	ɲe
+11.81	buy	čaβaye
+11.82	sell	čaβõẽɲe
+11.85	market (place)	čaβõẽʔheʔtʰi
+11.87	price	ʔčo
+11.91	share (distribute)	atʰɨΦoeɲe
+11.92	weigh	dɨsiaɲe
+12.1	after	õboe
+12.1	after	haʔi
+12.1	after	c̷ɨĩʔda
+12.11	place	'õboe
+12.2	beside	Φaẽgae
+12.3	down, below	c̷o'sikʰɨʔΦa
+12.4	before	oʔtie
+12.4	before	tayoʔe
+12.41	right (side)	oʔtie
+12.5	inside, in	nakʰɨ
+12.5	inside, in	c̷osini
+12.6	outside	c̷oteni
+12.7	under	c̷osini
+12.8	up, above	õ'baΦaʔΦa
+12.11	place	βaʔtʰi
+12.11	place	tʰi
+12.11	place	ni
+12.11	place	kʰaʔtʰi
+12.12	put	kʰɨiɲãɲe
+12.12	put	kʰɨc̷iãɲe
+12.13	sit	ǰaiye
+12.14	lie down	kʰɨiye
+12.15	stand	kʰɨc̷ɨye
+12.15	stand	βečʰa
+12.16	remain, stay	kãʔheɲe
+12.16	remain, stay	šãdaye
+12.17	remains, left overs	ã'ãteʔčo
+12.21	collect, gather	taiye
+12.21	collect, gather	piye
+12.212	pick up	kʰic̷ʰaisɨye
+12.213	pile up	boɲaɲe
+12.22	join, unite	piye
+12.22	join, unite	sec̷aeɲe
+12.23	separate	atʰɨΦãẽɲe
+12.232	divide	siriaɲe
+12.24	open	boibatʰiaɲe
+12.25	shut, close	pikʰoye
+12.26	cover	pikʰoye
+12.27	hide, conceal	aʔtɨye
+12.27	hide, conceal	kʰɨyaye
+12.27	hide, conceal	d͜zɨye
+12.31	high	seΦani
+12.32	low	ãdekʰo
+12.33	top	seΦani
+12.34	bottom	c̷osikʰɨΦani
+12.35	end	c̷ɨtopa
+12.352	pointed	c̷ɨtopapa
+12.352	pointed	kikʰɨkeʔsɨ
+12.353	edge	ɨtɨΦa
+12.36	side	ɨtɨΦa
+12.37	middle, center	ẽtʰĩge
+12.41	right (side)	'tãsĩʔΦa
+12.42	left (side)	'paβeʔΦa
+12.43	near (adv)	pʰoroc̷ʰe
+12.43	near (adv)	kʰa
+12.44	far (adv)	bi'ani
+12.44	far (adv)	biakʰa
+12.45	east	čiɣasõboheni
+12.46	west	čiɣa'ãpʰiheni
+12.53	grow	koeɲe
+12.53	grow	boʔeye
+12.54	measure	agatʰoye
+12.541	span, fathom	yasa
+12.55	large, big	rãde
+12.55	large, big	kʰo
+12.56	small, little	čipiri
+12.56	small, little	reʔri
+12.56	small, little	čo
+12.57	long	bi'aʔa
+12.58	tall	seΦãhĩ
+12.59	short	reʔričo
+12.61	wide, broad	atʰahac̷ʰia
+12.62	narrow	'taʔyoc̷ʰi
+12.62	narrow	'reʔrikikʰo
+12.63	thick (in dimension)	'tõbɨʔc̷ʰi
+12.63	thick (in dimension)	'tõbɨʔčoa
+12.65	thin (in dimension)	'saiheʔkʰoa
+12.67	deep	c̷oʔsiʔo
+12.68	shallow	sãba
+12.68	shallow	sãbahi
+12.71	flat	Φɨẽʔgaʔo
+12.71	flat	sapeheʔo
+12.73	straight	tãsĩ
+12.73	straight	'tãsĩʔc̷ʰi
+12.74	crooked	Φẽtẽdekʰo
+12.75	hook	'ãʔkʰo
+12.75	hook	boikʰo
+12.77	cross	aβɨhaʔkʰo
+12.81	round	'Φɨniʔčoa
+12.82	circle	Φɨ̃ničoateβãẽʔčo
+12.84	line	tãsĩc̷iateβãẽʔčo
+12.85	hole	čãgo
+12.92	like, similar	ĩhĩd͜zio
+12.92	like, similar	ĩhĩc̷io
+12.93	change	daye
+13.0	zero, nothing	mẽʔĩʔõ
+13.1	one	Φae
+13.1	one	Φaʔe
+13.1	one	Φaeʔkʰo
+13.2	two	'kʰoãgiʔkʰo
+13.3	three	kʰoaniΦaeʔkʰo
+13.4	four	kʰatʰɨ'Φayiʔkʰo
+13.5	five	Φae'Φayiʔkʰo
+13.6	six	kʰaΦai'seyiʔkʰo
+13.7	seven	kʰaΦaise'kʰoãgiʔkʰo
+13.8	eight	kʰaΦaisekʰoaniΦaeʔkʰo
+13.9	nine	kʰaΦaisekʰatʰɨ'Φayiʔkʰo
+13.10	ten	čõga
+13.10	ten	tiβepaʔc̷ʰi
+13.101	eleven	čõgaΦaeʔkʰopaša
+13.102	twelve	čõgakʰoãgiʔkʰopaša
+13.103	fifteen	čogaΦaeΦayiʔkʰopaša
+13.104	twenty	c̷ɨʔtʰepipaʔc̷ʰi
+13.104	twenty	kʰoãgičõga
+13.107	count	agatʰoye
+13.107	count	agatʰokaɲe
+13.14	every, all	'poiyiʔkʰo
+13.14	every, all	paʔkʰo
+13.14	every, all	paʔo
+13.15	much, many	'c̷aĩʔbic̷ʰia
+13.16	more	tiʔc̷ʰe
+13.16	more	ĩhãʔc̷ʰe
+13.17	little (quantity), few	'reʔrikʰo
+13.17	little (quantity), few	boβeʔkʰo
+13.18	enough	ĩhãʔc̷ʰia
+13.18	enough	c̷aĩʔbia
+13.181	some	reʔrikʰoa
+13.19	multitude, crowd	'c̷aĩʔbic̷ʰiaaʔi
+13.21	full	õʔboeɲe
+13.21	full	õʔbaye
+13.22	empty	mekʰɨ
+13.23	part, piece	šekeʔčo
+13.24	half	ẽtʰĩge
+13.33	alone, only	tisɨyi
+13.34	first	oʔtie
+13.34	first	'oʔtieʔsɨ
+13.35	last	o'seΦapoẽʔsɨ
+13.35	last	õmaʔsɨ
+13.37	pair	poine
+13.38	two times	kõãgise
+13.44	three times	koãniΦaise
+14.12	age	maɲi'kãkʰeʔΦa
+14.13	new	kɨna
+14.14	young	čɨʔa
+14.15	old	c̷ʰorɨ
+14.15	old	kʰaše
+14.16	early	sĩte
+14.17	late	sime
+14.18	now	hãʔɲo
+14.18	now	βoe
+14.19	immediately	ɨtac̷ʰeyi
+14.19	immediately	'c̷eʔΦeiʔkʰɨyi
+14.21	swift, fast, quick	kɨ̃šoaʔme
+14.22	slow	βasi
+14.22	slow	βasic̷ʰe
+14.22	slow	βasiaβe
+14.23	hasten, hurry	ɨtac̷ʰe
+14.24	retard, delay	βasic̷ʰe
+14.25	begin, beginning	ašaeɲe
+14.252	last, endure	kĩɲa
+14.26	end (temporal)	nani
+14.27	finish	nani
+14.27	finish	nanĩɲe
+14.27	finish	nepiye
+14.28	cease, stop	'ãtʰeye
+14.28	cease, stop	kʰɨc̷iaɲe
+14.29	ready	hɨ̃de
+14.29	ready	ɨtaʔc̷ʰe
+14.31	always	'c̷ãgae
+14.31	always	c̷ã'gaeye
+14.32	often	d͜zɨc̷ʰe
+14.33	sometimes	mahã
+14.331	soon	hɨ̃de
+14.332	long-time (for a)	tayopi
+14.332	long-time (for a)	ta'yopi
+14.332	long-time (for a)	boʔc̷ʰe
+14.34	never	kʰac̷ʰe
+14.34	never	moite
+14.35	again	kʰase
+14.41	day	aʔta
+14.42	night	kose
+14.42	night	siɲite
+14.43	dawn	aʔtaye
+14.43	dawn	aʔtakʰɨc̷ɨ
+14.44	morning	sĩte
+14.45	noon, midday	čiɣatãsĩ
+14.45	noon, midday	tayotãsĩ
+14.451	afternoon	čiɣaõdɨse
+14.46	evening	ko'sehi
+14.47	today	hãʔɲo
+14.47	today	hãʔɲoaʔta
+14.48	tomorrow	tɨʔi
+14.481	day-after-tomorrow	tɨiʔβe
+14.49	yesterday	kani
+14.491	day-before-yesterday	kaniteʔki
+14.53	clock, timepiece	kãʔčo
+14.61	week	aβɨhaʔki
+14.62	Sunday	aʔta
+14.65	Wednesday	ẽtʰĩgiaβɨhaʔki
+14.67	Friday	tʰɨ̃tʰãki
+14.71	month	kʰoβɨ
+14.73	year	'kãkʰieʔΦa
+14.75	spring	taβɨite
+14.76	summer	koeheΦɨite
+14.76	summer	koeheΦa
+14.77	autumn	õmoite
+14.78	season	te
+15.21	smell (vb intrans)	šõčaɲe
+15.21	smell (vb intrans)	'c̷ʰɨʔhɨye
+15.22	smell (vb trans)	šõčãɲe
+15.25	fragrant, good smelling	ɲoʔmec̷ʰi
+15.26	stinking, bad smelling	c̷ʰɨʔhuc̷ʰi
+15.31	taste	ãkãɲe
+15.35	sweet	ãsĩʔc̷ʰie
+15.36	salty	'asic̷ʰi
+15.37	bitter	ĩd͜zaʔo
+15.37	bitter	ĩd͜zaʔc̷ʰi
+15.38	acid, sour	ĩʔdɨc̷ʰi
+15.41	hear	'paɲaɲe
+15.42	listen	'paɲaɲe
+15.44	sound, noise	hẽʔčo
+15.45	loud	kiaʔmehẽ
+15.46	quiet, silence	pʰĩpʰĩc̷ʰe
+15.51	see	'atʰeye
+15.52	look, look at	kaɲe
+15.55	show	kãhaeɲe
+15.55	show	kãhaʔheɲe
+15.56	shine	čʰãhɨɲe
+15.57	bright	βeyarac̷ʰi
+15.62	light (in color)	'aʔtac̷ʰe
+15.63	dark (in color)	sĩc̷ʰe
+15.64	white	toto
+15.65	black	sĩʔã
+15.65	black	sĩʔčo
+15.65	black	sĩheʔõ
+15.66	red	kɨʔa
+15.67	blue	ĩd͜zĩã
+15.68	green	ĩd͜zĩã
+15.69	yellow	kiyopa
+15.71	touch	pʰoraeɲe
+15.712	pinch	kic̷iye
+15.712	pinch	kic̷ɨiye
+15.74	hard	taʔe
+15.74	hard	taʔeʔo
+15.74	hard	taʔec̷ʰi
+15.75	soft	čapiaɲe
+15.75	soft	čapec̷ʰi
+15.76	rough	c̷ʰac̷ʰac̷ʰi
+15.76	rough	c̷ʰac̷ʰariʔkʰo
+15.77	smooth	'giyaʔc̷ʰi
+15.77	smooth	kesɨsɨ
+15.78	sharp	c̷ĩc̷ʰia
+15.78	sharp	d͜zɨɲaɲe
+15.79	blunt, dull	'c̷ĩbiʔkʰo
+15.81	heavy	c̷ʰaiʔa
+15.81	heavy	c̷ʰaiʔkʰo
+15.82	light (in weight)	Φaβaʔkʰo
+15.83	wet, damp	'c̷ʰipaʔo
+15.83	wet, damp	c̷ʰipaye
+15.83	wet, damp	c̷ʰipaeɲe
+15.84	dry	sãba
+15.84	dry	sãʔhaɲe
+15.84	dry	sãc̷ʰi
+15.85	hot	'hɨʔrɨc̷ʰi
+15.85	hot	saʔβɨc̷ʰi
+15.85	hot	koeʔhe
+15.851	warm	kɨɲaɲe
+15.851	warm	akeye
+15.851	warm	akĩãɲe
+15.86	cold	čãʔdio
+15.87	clean	giyeɲe
+15.87	clean	giyaʔc̷ʰi
+15.88	dirty, soiled	'amɨ̃deʔc̷ʰi
+15.88	dirty, soiled	'amɨ̃deʔkʰo
+15.89	wrinkled	'd͜zɨ̃d͜zɨ̃d͜zɨkʰo
+15.89	wrinkled	d͜zɨβaβakʰo
+16.11	soul, spirit	kʰẽǰaʔpa
+16.23	joyful, glad, happy	aβɨhaye
+16.25	laugh	'Φeɲaɲe
+16.26	play	koʔΦeye
+16.27	love	ĩʔhaɲe
+16.27	love	ɲoc̷ʰeĩʔhaɲe
+16.29	kiss	močaye
+16.3	embrace	mɨ̃sĩɲe
+16.3	embrace	mɨ̃sĩkʰoye
+16.31	pain	iɲeɲe
+16.32	grief, sorrow, sadness	ɲõbiye'čo
+16.33	anxiety, worry	'ǰohoʔčo
+16.34	regret, be sorry	ɲõbiʔyeye
+16.37	cry, weep	iʔnaɲe
+16.38	tear (noun)	inãd͜zakʰɨ
+16.39	groan	atʰɨʔseye
+16.41	hate	čiʔgaye
+16.42	anger	iyikʰaʔyeɲe
+16.42	anger	noɲãʔgiaɲe
+16.44	envy, jealousy	Φoɲaɲe
+16.45	shame (noun)	ãsãʔgeye
+16.48	proud	tisɨɲoc̷ʰikʰẽsɨʔčo
+16.52	brave	pɨc̷aʔsɨ
+16.52	brave	bare
+16.53	fear, fright	ǰoye
+16.53	fear, fright	ǰopa
+16.53	fear, fright	ǰohoʔpa
+16.54	danger	'iǰamaʔc̷e
+16.54	danger	saʔne
+16.62	desire, want	'ĩʔhãɲe
+16.63	hope	hãĩʔgae'ĩʔhãʔčo
+16.66	true	ɲoaʔmekõdaʔčo
+16.67	lie, tell lies	aΦoʔpoeɲe
+16.68	deceit	aΦopoeɲe
+16.69	forgive	'akʰepaye
+16.71	good	ɲoc̷ʰi
+16.71	good	ɲoʔa
+16.71	good	ɲõkʰa
+16.72	bad	eɣa
+16.72	bad	eɣaʔo
+16.72	bad	kʰeʔkʰo
+16.73	right, correct	ɲoc̷ʰi
+16.73	right, correct	'tãsĩʔc̷ʰi
+16.74	wrong	ega
+16.74	wrong	'ɲoc̷ʰĩbi
+16.76	fault	šaka
+16.77	mistake, error	egaec̷ĩkʰo
+16.77	mistake, error	'akʰepapaegaec̷ĩkʰo
+16.78	blame	šaka
+16.79	praise	ɲoc̷e'aΦaye
+16.81	beautiful	mẽʔdeʔkʰo
+16.82	ugly	kʰeʔkʰo
+16.84	clever	ĩhamapa
+17.11	mind	ĩʔhãʔčo
+17.13	think (= reflect)	'asiʔtʰãẽɲe
+17.14	think (= be of the opinion)	ĩʔhaɲe
+17.15	believe	ĩhaɲe
+17.16	understand	ĩhãʔheɲe
+17.16	understand	paɲaɲe
+17.17	know	atesɨye
+17.17	know	ĩʔhaɲe
+17.172	imitate	mãʔdeye
+17.172	imitate	ec̷eɲe
+17.18	seem	aʔkãẽ
+17.18	seem	kʰiaʔkãẽ
+17.19	idea, notion	'ĩhã'hãgi
+17.21	wise	atesɨʔčo
+17.21	wise	ĩhamaʔpa
+17.22	foolish, stupid	ĩhamãbi
+17.22	foolish, stupid	sɨ̃bi
+17.23	insane, crazy	sɨ̃bi
+17.24	learn	atesɨye
+17.25	teach	atesiaɲe
+17.25	teach	naΦatʰiaɲe
+17.26	pupil	atesɨʔsɨ
+17.27	teacher	atesiãʔsɨ
+17.31	remember	ĩhãʔheɲe
+17.32	forget	akʰeʔpaye
+17.34	clear, plain	čɨc̷ʰe
+17.35	obscure	βanãbaatesɨkʰieʔsɨ
+17.36	secret	atesɨʔmasia
+17.37	sure, certain	taʔyaβe
+17.38	explain	tãsic̷ʰekõdaseye
+17.41	intention, purpose	c̷õɲe'ĩʔhãʔčo
+17.441	betray	aΦeye
+17.46	easy	aiyeʔpãbi
+17.46	easy	aiʔyẽbi
+17.47	difficult	aiyeʔpa
+17.53	if	ta
+17.53	if	da
+17.53	if	nĩda
+17.55	yes, affirmative	hɨ
+17.56	no, negative	mẽʔi
+17.56	no, negative	bi
+17.56	no, negative	meʔiʔo
+17.56	no, negative	hĩbi
+17.61	how?	maʔkãẽ
+17.62	how many?	maɲi
+17.63	how much?	mĩʔge
+17.64	what?	hõgoesɨ
+17.65	when?	maki
+17.65	when?	mĩgaʔni
+17.66	where?	mani
+17.66	where?	mapi
+17.67	which?	mãhã
+17.68	who?	mãhã
+17.69	why?	hõgoesie
+18.11	voice	'ayaʔΦa
+18.12	sing	'setʰaʔpoẽɲe
+18.13	shout, cry out	'Φɨ̃doye
+18.15	whisper	opic̷ʰe'aΦaye
+18.17	whistle	kʰoΦikʰoye
+18.18	shriek, screech	kiaʔme'aΦaye
+18.19	howl	seʔyoye
+18.21	speak, talk	'aΦaye
+18.21	speak, talk	aΦakʰoye
+18.22	say	'aΦaye
+18.22	say	sɨye
+18.221	tell story	kõdaye
+18.222	speech (make a)	biaʔaaΦaʔčo
+18.23	silent (be)	d͜ziyaye
+18.24	language	'ayaʔΦa
+18.26	word	'ayaʔΦa
+18.28	name	inise
+18.28	name	inisečoʔčo
+18.31	ask (question, inquire)	iɲahaɲe
+18.31	ask (question, inquire)	ayaʔΦaeɲe
+18.32	answer	otɨnĩgaeaΦa
+18.33	admit, confess	'aʔtac̷ekõdaye
+18.34	deny	aʔtieɲe
+18.35	ask, request	iɲahaɲe
+18.35	ask, request	ayaʔΦaeɲe
+18.36	promise	tasĩc̷ʰesɨye
+18.37	refuse	seʔpiye
+18.38	forbid	seʔpiye
+18.39	rebuke, scold	'iyɨʔɨye
+18.41	call (=summon)	aβɨseye
+18.41	call (=summon)	tʰɨʔseye
+18.42	call (=name)	'tʰɨʔseye
+18.43	announce	'kõdaye
+18.44	threaten	ǰõɲaɲe
+18.51	write	tʰeβaβaeɲe
+18.52	read	tʰeβaẽʔhẽnakãɲe
+18.56	paper	teβaẽʔhe
+18.57	pen	teβaẽʔkʰo
+18.61	book	teβaẽʔhe
+18.71	flute	Φororoʔkʰo
+18.72	drum	kʰoša
+18.73	horn, trumpet	'ɨΦahẽɲakʰeʔsɨ
+18.74	rattle	'hẽʔhẽʔčo
+19.11	country	ãde
+19.12	one's native country	tisɨãde
+19.15	city, town	kãkʰe
+19.16	village	kãkʰe
+19.21	people (populace)	aʔi
+19.21	people (populace)	ãĩdekʰɨ
+19.23	tribe, clan	ãĩdekʰɨ
+19.24	chief, chieftain	naʔsɨ
+19.24	chief, chieftain	koẽ
+19.24	chief, chieftain	ki'nikʰoʔpa
+19.25	staff, walking stick	kinikʰo
+19.32	king, ruler	naʔsɨ
+19.33	queen	naʔsɨpɨšesɨ
+19.37	citizen, subject	aʔi
+19.37	citizen, subject	ãĩdekʰɨ
+19.41	master	nasɨ
+19.43	servant	semaʔsɨ
+19.45	command, order	moeɲe
+19.46	obey	paɲaɲe
+19.47	let, permit	ãtʰeye
+19.52	enemy	'egaiyikʰoʔsɨ
+19.54	neighbor	tisɨpapora
+19.55	stranger	aiʔpa
+19.56	guest	pasiaʔsɨ
+19.57	host	naʔsɨ
+19.58	help, aid	Φɨiteye
+19.59	hinder, prevent	seʔpiye
+19.61	custom	tisɨĩʔhãʔčo
+19.62	strife, quarrel	iyikʰoʔčo
+19.65	meet	kačɨ̃iye
+19.65	meet	kačʰɨikʰoye
+19.72	prostitute	tisɨmaaΦeʔsɨpɨšesɨ
+20.11	fight (vb)	iyikʰoye
+20.14	peace	opac̷ʰekãʔhẽɲe
+20.15	army	dekʰɨ
+20.22	club	'očʰačʰaʔkʰo
+20.222	battle-ax	oβakʰoʔčo
+20.23	sling	potačoʔΦa
+20.24	bow	batʰitʰĩãkʰɨ
+20.25	arrow	batʰitʰĩãʔkʰo'seheʔkʰo
+20.26	spear	'omaʔkʰo
+20.26	spear	sata
+20.26	spear	'dãsãʔčo
+20.27	sword	matiči
+20.28	gun, cannon	pota'ẽʔgo
+20.33	helmet	yošaβaõc̷iãkʰɨ
+20.34	shield	pãšãẽʔhẽʔčoma
+20.36	tower	seΦac̷iac̷aʔo
+20.41	victory	pac̷ɨye
+20.47	captive, prisoner	'ĩdiʔčoaʔi
+20.51	fisherman	aβɨmaβačoʔsɨ
+20.51	fisherman	aβɨma'asiʔsɨ
+20.52	fishhook	'sĩbaʔkʰo
+20.53	fishing line	'sĩbaʔΦa
+20.54	fishnet	βačoʔβa
+20.55	fish trap	'aβɨβeʔsɨkẽdekʰo
+20.56	bait	'ãʔčoẽɲe
+20.61	hunt	c̷ãpinihayi
+20.62	shoot	batʰitʰiãɲe
+20.62	shoot	ɨΦaye
+20.62	shoot	poʔtaeɲe
+20.63	miss (target)	poʔtaẽpašaẽɲe
+20.64	trap (noun)	kẽdekʰo
+20.65	trap (vb)	kẽdekʰiãɲe
+21.16	judge (vb)	ĩhamaʔčomasõboeɲe
+21.18	judge (noun)	ɲokiãʔsɨ
+21.18	judge (noun)	ĩhamaʔčomasõboẽʔsɨ
+21.23	witness	šõdaeɲe
+21.35	guilty	šaka
+21.36	innocent	'egaβemeʔčo
+21.37	penalty, punishment	maʔpʰiye
+21.37	penalty, punishment	ãkʰosiaɲe
+21.38	fine	šakaβe'aΦepoẽʔčo
+21.39	prison, jail	pikʰoʔheʔtʰi
+21.42	murder	Φiʔtʰiye
+21.51	steal	kʰãʔnaɲe
+21.52	thief	kʰanãba

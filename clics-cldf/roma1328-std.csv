@@ -1,0 +1,628 @@
+ID,Language_ID,Feature_ID,IDS_Key,Value,Concept,IPA_UDECODE
+clics-doculect-150-1,roma1328-std,concepticon-1228,1.212,tirèn,"earth=ground, soil",tiren
+clics-doculect-150-2,roma1328-std,concepticon-2,1.213,pulveròun,dust,pulveroun
+clics-doculect-150-3,roma1328-std,concepticon-640,1.214,paciarèna,mud,paciarena
+clics-doculect-150-4,roma1328-std,concepticon-618,1.222,grepp,"cliff, precipice",grepp
+clics-doculect-150-5,roma1328-std,concepticon-652,1.23,pièna,"plain, field",piena
+clics-doculect-150-6,roma1328-std,concepticon-921,1.24,valéda,valley,valeda
+clics-doculect-150-7,roma1328-std,concepticon-1155,1.28,èntri,cave,entri
+clics-doculect-150-8,roma1328-std,concepticon-258,1.322,tasè,calm (of sea),tase
+clics-doculect-150-9,roma1328-std,concepticon-258,1.322,chelem,calm (of sea),chelem
+clics-doculect-150-10,roma1328-std,concepticon-258,1.322,qued,calm (of sea),qued
+clics-doculect-150-11,roma1328-std,concepticon-258,1.322,riquèdar,calm (of sea),riquedar
+clics-doculect-150-12,roma1328-std,concepticon-259,1.323,aprusimativ,rough (of sea),aprusimativ
+clics-doculect-150-13,roma1328-std,concepticon-259,1.323,ruvd,rough (of sea),ruvd
+clics-doculect-150-14,roma1328-std,concepticon-663,1.34,bèia,"gulf, bay",beia
+clics-doculect-150-15,roma1328-std,concepticon-623,1.341,lagòna,lagoon,lagona
+clics-doculect-150-16,roma1328-std,concepticon-891,1.352,génfa,tide,genfa
+clics-doculect-150-17,roma1328-std,concepticon-1982,1.362,gardòn,whirlpool,gardon
+clics-doculect-150-18,roma1328-std,concepticon-420,1.41,furèsta,"woods, forest",furesta
+clics-doculect-150-19,roma1328-std,concepticon-6,1.45,taramòt,earthquake,taramot
+clics-doculect-150-20,roma1328-std,concepticon-1150,1.56,tràun,thunder,traun
+clics-doculect-150-21,roma1328-std,concepticon-630,1.61,lòsa,light (noun),losa
+clics-doculect-150-22,roma1328-std,concepticon-11,1.62,scùr,darkness,scur
+clics-doculect-150-23,roma1328-std,concepticon-1388,1.63,òra,"shade, shadow",ora
+clics-doculect-150-24,roma1328-std,concepticon-1977,1.64,gvàza,dew,gvaza
+clics-doculect-150-25,roma1328-std,concepticon-889,1.82,fiàmba,flame (noun),fiamba
+clics-doculect-150-26,roma1328-std,concepticon-646,1.84,frésin,ashes,fresin
+clics-doculect-150-27,roma1328-std,concepticon-646,1.84,zìnar,ashes,zinar
+clics-doculect-150-28,roma1328-std,concepticon-141,1.851,inflambè,burn (vb trans),inflambe
+clics-doculect-150-29,roma1328-std,concepticon-127,1.861,smurzè,extinguish,smurze
+clics-doculect-150-30,roma1328-std,concepticon-1188,1.89,carbunèna,charcoal,carbunena
+clics-doculect-150-31,roma1328-std,concepticon-765,10.11,mòvar,move,movar
+clics-doculect-150-32,roma1328-std,concepticon-1588,10.12,zirè,turn over,zire
+clics-doculect-150-33,roma1328-std,concepticon-568,10.21,alzès,rise,alzes
+clics-doculect-150-34,roma1328-std,concepticon-1280,10.23,caschè,fall,casche
+clics-doculect-150-35,roma1328-std,concepticon-2253,10.24,guzzé,drip,guzze
+clics-doculect-150-36,roma1328-std,concepticon-1909,10.26,agité,shake,agite
+clics-doculect-150-37,roma1328-std,concepticon-1909,10.26,scuscè,shake,scusce
+clics-doculect-150-38,roma1328-std,concepticon-1088,10.33,mandèafònd,sink,mandeafond
+clics-doculect-150-39,roma1328-std,concepticon-1439,10.35,nudè,swim,nude
+clics-doculect-150-40,roma1328-std,concepticon-787,10.36,velegé,sail (vb),velege
+clics-doculect-150-41,roma1328-std,concepticon-175,10.38,buffé,blow,buffe
+clics-doculect-150-42,roma1328-std,concepticon-66,10.412,inzanchèss,kneel,inzanchess
+clics-doculect-150-43,roma1328-std,concepticon-1829,10.43,salté,"jump, leap",salte
+clics-doculect-150-44,roma1328-std,concepticon-1135,10.431,chilzìr,kick,chilzir
+clics-doculect-150-45,roma1328-std,concepticon-1443,10.45,caminè,walk,camine
+clics-doculect-150-46,roma1328-std,concepticon-366,10.451,zupghè,limp,zupghe
+clics-doculect-150-47,roma1328-std,concepticon-1519,10.46,còrar,run,corar
+clics-doculect-150-48,roma1328-std,concepticon-695,10.47,andè,go,ande
+clics-doculect-150-49,roma1328-std,concepticon-705,10.471,mountè,go up,mounte
+clics-doculect-150-50,roma1328-std,concepticon-1102,10.472,rampichè,climb,rampiche
+clics-doculect-150-51,roma1328-std,concepticon-1102,10.472,rampichès,climb,rampiches
+clics-doculect-150-52,roma1328-std,concepticon-1446,10.48,vnì,come,vni
+clics-doculect-150-53,roma1328-std,concepticon-1752,10.49,lassè,"go away, depart",lasse
+clics-doculect-150-54,roma1328-std,concepticon-485,10.491,spàrar,disappear,sparar
+clics-doculect-150-55,roma1328-std,concepticon-956,10.51,fuzì,flee,fuzi
+clics-doculect-150-56,roma1328-std,concepticon-1085,10.52,sèquar,follow,sequar
+clics-doculect-150-57,roma1328-std,concepticon-1387,10.55,arvè,"reach, arrive",arve
+clics-doculect-150-58,roma1328-std,concepticon-1778,10.56,aprèssar,approach,apressar
+clics-doculect-150-59,roma1328-std,concepticon-692,10.62,purté,bring,purte
+clics-doculect-150-60,roma1328-std,concepticon-1127,10.63,inviè,send,invie
+clics-doculect-150-61,roma1328-std,concepticon-1127,10.63,mandè,send,mande
+clics-doculect-150-62,roma1328-std,concepticon-367,10.66,cavalchèr,ride,cavalcher
+clics-doculect-150-63,roma1328-std,concepticon-1452,10.67,spènzar,"push, shove",spenzar
+clics-doculect-150-64,roma1328-std,concepticon-14,10.78,coppa,yoke,coppa
+clics-doculect-150-65,roma1328-std,concepticon-773,11.11,avè,have,ave
+clics-doculect-150-66,roma1328-std,concepticon-1749,11.13,ciapè,take,ciape
+clics-doculect-150-67,roma1328-std,concepticon-2021,11.14,ingranfè,"seize, grasp",ingranfe
+clics-doculect-150-68,roma1328-std,concepticon-2021,11.14,ciapè,"seize, grasp",ciape
+clics-doculect-150-69,roma1328-std,concepticon-1477,11.17,abadè,"keep, retain",abade
+clics-doculect-150-70,roma1328-std,concepticon-738,11.18,quèl,thing,quel
+clics-doculect-150-71,roma1328-std,concepticon-1447,11.21,dè,give,de
+clics-doculect-150-72,roma1328-std,concepticon-1447,11.21,pòrzar,give,porzar
+clics-doculect-150-73,roma1328-std,concepticon-85,11.22,rèndar,give back,rendar
+clics-doculect-150-74,roma1328-std,concepticon-681,11.27,distròzar,destroy,distrozar
+clics-doculect-150-75,roma1328-std,concepticon-44,11.28,dulì,"harm, injure, damage",duli
+clics-doculect-150-76,roma1328-std,concepticon-719,11.32,truvè,find,truve
+clics-doculect-150-77,roma1328-std,concepticon-1660,11.33,pèrdar,lose,perdar
+clics-doculect-150-78,roma1328-std,concepticon-1559,11.43,quatrèn,money,quatren
+clics-doculect-150-79,roma1328-std,concepticon-712,11.51,rècca,rich,recca
+clics-doculect-150-80,roma1328-std,concepticon-1674,11.52,purèt,poor,puret
+clics-doculect-150-81,roma1328-std,concepticon-1934,11.53,puvrètt,beggar,puvrett
+clics-doculect-150-82,roma1328-std,concepticon-1774,11.54,tired,"avaricious, stingy",tired
+clics-doculect-150-83,roma1328-std,concepticon-1774,11.54,vlìdìr,"avaricious, stingy",vlidir
+clics-doculect-150-84,roma1328-std,concepticon-1774,11.54,mischìn,"avaricious, stingy",mischin
+clics-doculect-150-85,roma1328-std,concepticon-1774,11.54,tacchegn,"avaricious, stingy",tacchegn
+clics-doculect-150-86,roma1328-std,concepticon-582,11.61,prèstar,lend,prestar
+clics-doculect-150-87,roma1328-std,concepticon-1914,11.64,dèbit,debt,debit
+clics-doculect-150-88,roma1328-std,concepticon-718,11.65,paghè,pay (vb),paghe
+clics-doculect-150-89,roma1328-std,concepticon-1081,11.66,cont,"account, reckoning",cont
+clics-doculect-150-90,roma1328-std,concepticon-1081,11.66,bancnòta,"account, reckoning",bancnota
+clics-doculect-150-91,roma1328-std,concepticon-873,11.69,balzèl,"tax, tribute",balzel
+clics-doculect-150-92,roma1328-std,concepticon-856,11.77,nolèzar,hire,nolezar
+clics-doculect-150-93,roma1328-std,concepticon-733,11.79,gvadagnè,earn,gvadagne
+clics-doculect-150-94,roma1328-std,concepticon-1869,11.81,acquistè,buy,acquiste
+clics-doculect-150-95,roma1328-std,concepticon-1571,11.82,vèndar,sell,vendar
+clics-doculect-150-96,roma1328-std,concepticon-2135,11.83,dèl'ònparl'èltr,"trade, barter",del'onparl'eltr
+clics-doculect-150-97,roma1328-std,concepticon-1082,11.84,marcant,merchant,marcant
+clics-doculect-150-98,roma1328-std,concepticon-633,11.85,marché,market (place),marche
+clics-doculect-150-99,roma1328-std,concepticon-752,11.86,negòzi,"store, shop",negozi
+clics-doculect-150-100,roma1328-std,concepticon-752,11.86,butìga,"store, shop",butiga
+clics-doculect-150-101,roma1328-std,concepticon-752,11.86,magazén,"store, shop",magazen
+clics-doculect-150-102,roma1328-std,concepticon-1426,11.88,chèr,"dear (costly, expensive)",cher
+clics-doculect-150-103,roma1328-std,concepticon-723,12.11,pòst,place,post
+clics-doculect-150-104,roma1328-std,concepticon-998,12.12,posè,put,pose
+clics-doculect-150-105,roma1328-std,concepticon-1416,12.13,insdè,sit,insde
+clics-doculect-150-106,roma1328-std,concepticon-215,12.14,adasiès,lie down,adasies
+clics-doculect-150-107,roma1328-std,concepticon-987,12.16,armanè,"remain, stay",armane
+clics-doculect-150-108,roma1328-std,concepticon-7,12.21,agrupè,"collect, gather",agrupe
+clics-doculect-150-109,roma1328-std,concepticon-1743,12.22,azònzar,"join, unite",azonzar
+clics-doculect-150-110,roma1328-std,concepticon-1743,12.22,adescè,"join, unite",adesce
+clics-doculect-150-111,roma1328-std,concepticon-1359,12.23,dvìdar,separate,dvidar
+clics-doculect-150-112,roma1328-std,concepticon-1119,12.232,dvìdar,divide,dvidar
+clics-doculect-150-113,roma1328-std,concepticon-1156,12.24,avrì,open,avri
+clics-doculect-150-114,roma1328-std,concepticon-1046,12.25,assrè,"shut, close",assre
+clics-doculect-150-115,roma1328-std,concepticon-761,12.26,cruvì,cover,cruvi
+clics-doculect-150-116,roma1328-std,concepticon-1265,12.31,èlt,high,elt
+clics-doculect-150-117,roma1328-std,concepticon-721,12.32,scurzè,low,scurze
+clics-doculect-150-118,roma1328-std,concepticon-863,12.353,bòrd,edge,bord
+clics-doculect-150-119,roma1328-std,concepticon-682,12.36,fiénch,side,fiench
+clics-doculect-150-120,roma1328-std,concepticon-1942,12.43,drì,near (adv),dri
+clics-doculect-150-121,roma1328-std,concepticon-1877,12.45,uriént,east,urient
+clics-doculect-150-122,roma1328-std,concepticon-1817,12.46,punént,west,punent
+clics-doculect-150-123,roma1328-std,concepticon-1598,12.47,nòrd,north,nord
+clics-doculect-150-124,roma1328-std,concepticon-1595,12.48,sòd,south,sod
+clics-doculect-150-125,roma1328-std,concepticon-479,12.53,crèssar,grow,cressar
+clics-doculect-150-126,roma1328-std,concepticon-1506,12.54,amsurè,measure,amsure
+clics-doculect-150-127,roma1328-std,concepticon-1202,12.55,gròs,"large, big",gros
+clics-doculect-150-128,roma1328-std,concepticon-1202,12.55,lergh,"large, big",lergh
+clics-doculect-150-129,roma1328-std,concepticon-1246,12.56,pòc,"small, little",poc
+clics-doculect-150-130,roma1328-std,concepticon-1246,12.56,pznèn,"small, little",pznen
+clics-doculect-150-131,roma1328-std,concepticon-1203,12.57,lòngh,long,longh
+clics-doculect-150-132,roma1328-std,concepticon-1645,12.59,brìv,short,briv
+clics-doculect-150-133,roma1328-std,concepticon-1267,12.62,angòst,narrow,angost
+clics-doculect-150-134,roma1328-std,concepticon-2249,12.65,scèr,thin (in dimension),scer
+clics-doculect-150-135,roma1328-std,concepticon-1593,12.67,smusred,deep,smusred
+clics-doculect-150-136,roma1328-std,concepticon-1633,12.71,pèra,flat,pera
+clics-doculect-150-137,roma1328-std,concepticon-1633,12.71,apartamèint,flat,apartameint
+clics-doculect-150-138,roma1328-std,concepticon-1633,12.71,bemoll,flat,bemoll
+clics-doculect-150-139,roma1328-std,concepticon-1404,12.73,drètt,straight,drett
+clics-doculect-150-140,roma1328-std,concepticon-297,12.74,stravanè,crooked,stravane
+clics-doculect-150-141,roma1328-std,concepticon-1071,12.75,inzinéil,hook,inzineil
+clics-doculect-150-142,roma1328-std,concepticon-1071,12.75,rampén,hook,rampen
+clics-doculect-150-143,roma1328-std,concepticon-1367,12.77,cross,cross,cross
+clics-doculect-150-144,roma1328-std,concepticon-1367,12.77,cròs,cross,cros
+clics-doculect-150-145,roma1328-std,concepticon-1467,12.82,zèrchi,circle,zerchi
+clics-doculect-150-146,roma1328-std,concepticon-1048,12.84,règa,line,rega
+clics-doculect-150-147,roma1328-std,concepticon-1048,12.84,binèri,line,bineri
+clics-doculect-150-148,roma1328-std,concepticon-1667,12.85,bùs,hole,bus
+clics-doculect-150-149,roma1328-std,concepticon-1558,12.92,cumpàgn,"like, similar",cumpagn
+clics-doculect-150-150,roma1328-std,concepticon-1264,12.93,mutè,change,mute
+clics-doculect-150-151,roma1328-std,concepticon-1264,12.93,svariè,change,svarie
+clics-doculect-150-152,roma1328-std,concepticon-1709,13.103,quends,fifteen,quends
+clics-doculect-150-153,roma1328-std,concepticon-1420,13.107,cunté,count,cunte
+clics-doculect-150-154,roma1328-std,concepticon-98,13.14,tòtt,"every, all",tott
+clics-doculect-150-155,roma1328-std,concepticon-1198,13.15,'namasa,"much, many",'namasa
+clics-doculect-150-156,roma1328-std,concepticon-1992,13.16,piò,more,pio
+clics-doculect-150-157,roma1328-std,concepticon-1881,13.18,suficièint,enough,suficieint
+clics-doculect-150-158,roma1328-std,concepticon-1241,13.181,qvélch,some,qvelch
+clics-doculect-150-159,roma1328-std,concepticon-1429,13.21,pijin,full,pijin
+clics-doculect-150-160,roma1328-std,concepticon-779,13.23,pèrt,"part, piece",pert
+clics-doculect-150-161,roma1328-std,concepticon-816,13.24,mitè,half,mite
+clics-doculect-150-162,roma1328-std,concepticon-1580,13.33,daperlò,"alone, only",daperlo
+clics-doculect-150-163,roma1328-std,concepticon-1580,13.33,sulmént,"alone, only",sulment
+clics-doculect-150-164,roma1328-std,concepticon-1580,13.33,sultént,"alone, only",sultent
+clics-doculect-150-165,roma1328-std,concepticon-728,13.34,prem,first,prem
+clics-doculect-150-166,roma1328-std,concepticon-728,13.34,pròim,first,proim
+clics-doculect-150-167,roma1328-std,concepticon-728,13.34,prema,first,prema
+clics-doculect-150-168,roma1328-std,concepticon-1529,13.35,òltim,last,oltim
+clics-doculect-150-169,roma1328-std,concepticon-1529,13.35,durè,last,dure
+clics-doculect-150-170,roma1328-std,concepticon-1384,13.36,sgonda,second,sgonda
+clics-doculect-150-171,roma1328-std,concepticon-1384,13.36,favurì,second,favuri
+clics-doculect-150-172,roma1328-std,concepticon-1888,13.37,pèir,pair,peir
+clics-doculect-150-173,roma1328-std,concepticon-892,14.11,témp,time,temp
+clics-doculect-150-174,roma1328-std,concepticon-1789,14.12,èni,age,eni
+clics-doculect-150-175,roma1328-std,concepticon-1789,14.12,èvi,age,evi
+clics-doculect-150-176,roma1328-std,concepticon-1231,14.13,nòv,new,nov
+clics-doculect-150-177,roma1328-std,concepticon-1229,14.15,véc,old,vec
+clics-doculect-150-178,roma1328-std,concepticon-477,14.17,térdi,late,terdi
+clics-doculect-150-179,roma1328-std,concepticon-1376,14.18,adès,now,ades
+clics-doculect-150-180,roma1328-std,concepticon-1963,14.19,adsòbit,immediately,adsobit
+clics-doculect-150-181,roma1328-std,concepticon-701,14.22,slintèd,slow,slinted
+clics-doculect-150-182,roma1328-std,concepticon-754,14.23,astugés,"hasten, hurry",astuges
+clics-doculect-150-183,roma1328-std,concepticon-1806,14.25,cumzè,"begin, beginning",cumze
+clics-doculect-150-184,roma1328-std,concepticon-1806,14.25,cumzè,"begin, beginning",cumze
+clics-doculect-150-185,roma1328-std,concepticon-1928,14.28,piantèrla,"cease, stop",pianterla
+clics-doculect-150-186,roma1328-std,concepticon-790,14.29,prést,ready,prest
+clics-doculect-150-187,roma1328-std,concepticon-1676,14.31,sèmpar,always,sempar
+clics-doculect-150-188,roma1328-std,concepticon-1852,14.32,adfriquént,often,adfriquent
+clics-doculect-150-189,roma1328-std,concepticon-1544,14.33,dalvòlti,sometimes,dalvolti
+clics-doculect-150-190,roma1328-std,concepticon-703,14.331,svèlt,soon,svelt
+clics-doculect-150-191,roma1328-std,concepticon-1656,14.34,mai,never,mai
+clics-doculect-150-192,roma1328-std,concepticon-1656,14.34,invìl,never,invil
+clics-doculect-150-193,roma1328-std,concepticon-204,14.35,ardnòv,again,ardnov
+clics-doculect-150-194,roma1328-std,concepticon-729,14.43,albèda,dawn,albeda
+clics-doculect-150-195,roma1328-std,concepticon-12,14.45,mezdè,"noon, midday",mezde
+clics-doculect-150-196,roma1328-std,concepticon-1283,14.47,incô,today,inco
+clics-doculect-150-197,roma1328-std,concepticon-1329,14.48,dmàn,tomorrow,dman
+clics-doculect-150-198,roma1328-std,concepticon-1174,14.49,ìr,yesterday,ir
+clics-doculect-150-199,roma1328-std,concepticon-1353,14.51,òura,hour,oura
+clics-doculect-150-200,roma1328-std,concepticon-1469,14.61,stmàna,week,stmana
+clics-doculect-150-201,roma1328-std,concepticon-1699,14.62,dmànga,Sunday,dmanga
+clics-doculect-150-202,roma1328-std,concepticon-1697,14.63,lundè,Monday,lunde
+clics-doculect-150-203,roma1328-std,concepticon-1695,14.64,martidè,Tuesday,martide
+clics-doculect-150-204,roma1328-std,concepticon-1694,14.65,mirquèl,Wednesday,mirquel
+clics-doculect-150-205,roma1328-std,concepticon-1693,14.66,zòbia,Thursday,zobia
+clics-doculect-150-206,roma1328-std,concepticon-1692,14.67,vèner,Friday,vener
+clics-doculect-150-207,roma1328-std,concepticon-1700,14.68,sàbit,Saturday,sabit
+clics-doculect-150-208,roma1328-std,concepticon-691,14.78,stagiòun,season,stagioun
+clics-doculect-150-209,roma1328-std,concepticon-1587,15.21,udurèr,smell (vb intrans),udurer
+clics-doculect-150-210,roma1328-std,concepticon-1587,15.21,snasè,smell (vb intrans),snase
+clics-doculect-150-211,roma1328-std,concepticon-21,15.31,gustè,taste,guste
+clics-doculect-150-212,roma1328-std,concepticon-21,15.31,gusté,taste,guste
+clics-doculect-150-213,roma1328-std,concepticon-887,15.37,amèr,bitter,amer
+clics-doculect-150-214,roma1328-std,concepticon-887,15.37,égar,bitter,egar
+clics-doculect-150-215,roma1328-std,concepticon-1906,15.38,èspri,"acid, sour",espri
+clics-doculect-150-216,roma1328-std,concepticon-1408,15.41,sntì,hear,snti
+clics-doculect-150-217,roma1328-std,concepticon-1408,15.41,scultè,hear,sculte
+clics-doculect-150-218,roma1328-std,concepticon-1811,15.44,sòn,"sound, noise",son
+clics-doculect-150-219,roma1328-std,concepticon-1314,15.46,tranquell,"quiet, silence",tranquell
+clics-doculect-150-220,roma1328-std,concepticon-1409,15.51,vdè,see,vde
+clics-doculect-150-221,roma1328-std,concepticon-1819,15.52,vardè,"look, look at",varde
+clics-doculect-150-222,roma1328-std,concepticon-1039,15.55,fèvdè,show,fevde
+clics-doculect-150-223,roma1328-std,concepticon-1039,15.55,afazè,show,afaze
+clics-doculect-150-224,roma1328-std,concepticon-1039,15.55,signèàdìt,show,signeadit
+clics-doculect-150-225,roma1328-std,concepticon-679,15.57,baloginént,bright,baloginent
+clics-doculect-150-226,roma1328-std,concepticon-706,15.63,bòj,dark (in color),boj
+clics-doculect-150-227,roma1328-std,concepticon-706,15.63,nìr,dark (in color),nir
+clics-doculect-150-228,roma1328-std,concepticon-1892,15.71,tuchè,touch,tuche
+clics-doculect-150-229,roma1328-std,concepticon-378,15.712,pizghèr,pinch,pizgher
+clics-doculect-150-230,roma1328-std,concepticon-1884,15.74,tòst,hard,tost
+clics-doculect-150-231,roma1328-std,concepticon-1856,15.75,sòffiz,soft,soffiz
+clics-doculect-150-232,roma1328-std,concepticon-1234,15.77,léss,smooth,less
+clics-doculect-150-233,roma1328-std,concepticon-1396,15.78,scièt,sharp,sciet
+clics-doculect-150-234,roma1328-std,concepticon-1396,15.78,afilè,sharp,afile
+clics-doculect-150-235,roma1328-std,concepticon-379,15.79,invurnid,"blunt, dull",invurnid
+clics-doculect-150-236,roma1328-std,concepticon-1726,15.83,bagnè,"wet, damp",bagne
+clics-doculect-150-237,roma1328-std,concepticon-1398,15.84,sòtt,dry,sott
+clics-doculect-150-238,roma1328-std,concepticon-1286,15.85,chèld,hot,cheld
+clics-doculect-150-239,roma1328-std,concepticon-1232,15.851,arscaldé,warm,arscalde
+clics-doculect-150-240,roma1328-std,concepticon-704,15.87,nittèd,clean,nitted
+clics-doculect-150-241,roma1328-std,concepticon-704,15.87,nèttar,clean,nettar
+clics-doculect-150-242,roma1328-std,concepticon-1230,15.88,incaculé,"dirty, soiled",incacule
+clics-doculect-150-243,roma1328-std,concepticon-1230,15.88,cioss,"dirty, soiled",cioss
+clics-doculect-150-244,roma1328-std,concepticon-53,16.11,ànma,"soul, spirit",anma
+clics-doculect-150-245,roma1328-std,concepticon-53,16.11,spèrit,"soul, spirit",sperit
+clics-doculect-150-246,roma1328-std,concepticon-1495,16.23,cuntìnt,"joyful, glad, happy",cuntint
+clics-doculect-150-247,roma1328-std,concepticon-1495,16.23,cuntèint,"joyful, glad, happy",cunteint
+clics-doculect-150-248,roma1328-std,concepticon-1355,16.25,rdar,laugh,rdar
+clics-doculect-150-249,roma1328-std,concepticon-1451,16.251,surìdar,smile,suridar
+clics-doculect-150-250,roma1328-std,concepticon-1413,16.26,zughè,play,zughe
+clics-doculect-150-251,roma1328-std,concepticon-1413,16.26,sunè,play,sune
+clics-doculect-150-252,roma1328-std,concepticon-1413,16.26,rezitè,play,rezite
+clics-doculect-150-253,roma1328-std,concepticon-923,16.27,amè,love,ame
+clics-doculect-150-254,roma1328-std,concepticon-578,16.29,basè,kiss,base
+clics-doculect-150-255,roma1328-std,concepticon-1783,16.31,patimént,pain,patiment
+clics-doculect-150-256,roma1328-std,concepticon-1668,16.32,acurament,"grief, sorrow, sadness",acurament
+clics-doculect-150-257,roma1328-std,concepticon-1000,16.33,tacàgna,"anxiety, worry",tacagna
+clics-doculect-150-258,roma1328-std,concepticon-1875,16.34,dspiasé,"regret, be sorry",dspiase
+clics-doculect-150-259,roma1328-std,concepticon-1839,16.37,sighè,"cry, weep",sighe
+clics-doculect-150-260,roma1328-std,concepticon-82,16.42,colara,anger,colara
+clics-doculect-150-261,roma1328-std,concepticon-40,16.44,invigia,"envy, jealousy",invigia
+clics-doculect-150-262,roma1328-std,concepticon-1776,16.45,virgònia,shame (noun),virgonia
+clics-doculect-150-263,roma1328-std,concepticon-3,16.52,marcantòni,brave,marcantoni
+clics-doculect-150-264,roma1328-std,concepticon-1810,16.54,perécul,danger,perecul
+clics-doculect-150-265,roma1328-std,concepticon-1784,16.62,vlé,"desire, want",vle
+clics-doculect-150-266,roma1328-std,concepticon-1750,16.622,dlèzar,choose,dlezar
+clics-doculect-150-267,roma1328-std,concepticon-1092,16.63,spiré,hope,spire
+clics-doculect-150-268,roma1328-std,concepticon-100,16.65,fidàbil,faithful,fidabil
+clics-doculect-150-269,roma1328-std,concepticon-1657,16.66,veredich,true,veredich
+clics-doculect-150-270,roma1328-std,concepticon-601,16.67,cazèdalbàli,"lie, tell lies",cazedalbali
+clics-doculect-150-271,roma1328-std,concepticon-13,16.68,fasolàzin,deceit,fasolazin
+clics-doculect-150-272,roma1328-std,concepticon-13,16.68,imbrogli,deceit,imbrogli
+clics-doculect-150-273,roma1328-std,concepticon-1528,16.69,pardonè,forgive,pardone
+clics-doculect-150-274,roma1328-std,concepticon-1292,16.72,mèl,bad,mel
+clics-doculect-150-275,roma1328-std,concepticon-1292,16.72,damèl,bad,damel
+clics-doculect-150-276,roma1328-std,concepticon-134,16.76,varèa,fault,varea
+clics-doculect-150-277,roma1328-std,concepticon-1293,16.77,sbàj,"mistake, error",sbaj
+clics-doculect-150-278,roma1328-std,concepticon-1427,16.81,bèl,beautiful,bel
+clics-doculect-150-279,roma1328-std,concepticon-1548,16.82,bròt,ugly,brot
+clics-doculect-150-280,roma1328-std,concepticon-2018,16.83,lov,greedy,lov
+clics-doculect-150-281,roma1328-std,concepticon-2018,16.83,crapuloun,greedy,crapuloun
+clics-doculect-150-282,roma1328-std,concepticon-1310,16.84,svègg,clever,svegg
+clics-doculect-150-283,roma1328-std,concepticon-1562,17.11,ànum,mind,anum
+clics-doculect-150-284,roma1328-std,concepticon-1562,17.11,zervèl,mind,zervel
+clics-doculect-150-285,roma1328-std,concepticon-1890,17.15,cunsiderè,believe,cunsidere
+clics-doculect-150-286,roma1328-std,concepticon-1890,17.15,crèdar,believe,credar
+clics-doculect-150-287,roma1328-std,concepticon-1536,17.16,capì,understand,capi
+clics-doculect-150-288,roma1328-std,concepticon-1410,17.17,savè,know,save
+clics-doculect-150-289,roma1328-std,concepticon-1410,17.17,cnòssar,know,cnossar
+clics-doculect-150-290,roma1328-std,concepticon-1932,17.171,stròlga,guess,strolga
+clics-doculect-150-291,roma1328-std,concepticon-117,17.172,fèlamòssa,imitate,felamossa
+clics-doculect-150-292,roma1328-std,concepticon-1521,17.18,parè,seem,pare
+clics-doculect-150-293,roma1328-std,concepticon-698,17.21,sintén,wise,sinten
+clics-doculect-150-294,roma1328-std,concepticon-1518,17.22,minciunàz,"foolish, stupid",minciunaz
+clics-doculect-150-295,roma1328-std,concepticon-504,17.24,aprèndar,learn,aprendar
+clics-doculect-150-296,roma1328-std,concepticon-709,17.25,imparè,teach,impare
+clics-doculect-150-297,roma1328-std,concepticon-753,17.26,bamben,pupil,bamben
+clics-doculect-150-298,roma1328-std,concepticon-707,17.31,arcòrdars,remember,arcordars
+clics-doculect-150-299,roma1328-std,concepticon-1523,17.32,smèmbar,forget,smembar
+clics-doculect-150-300,roma1328-std,concepticon-989,17.34,cér,"clear, plain",cer
+clics-doculect-150-301,roma1328-std,concepticon-1121,17.36,sigrét,secret,sigret
+clics-doculect-150-302,roma1328-std,concepticon-509,17.37,sgùr,"sure, certain",sgur
+clics-doculect-150-303,roma1328-std,concepticon-1626,17.38,spichè,explain,spiche
+clics-doculect-150-304,roma1328-std,concepticon-1162,17.41,intenzion,"intention, purpose",intenzion
+clics-doculect-150-305,roma1328-std,concepticon-860,17.42,casòuna,cause,casouna
+clics-doculect-150-306,roma1328-std,concepticon-860,17.42,rasòun,cause,rasoun
+clics-doculect-150-307,roma1328-std,concepticon-1308,17.43,dóbi,doubt,dobi
+clics-doculect-150-308,roma1328-std,concepticon-1841,17.44,suspetèr,suspect,suspeter
+clics-doculect-150-309,roma1328-std,concepticon-1902,17.441,tradì,betray,tradi
+clics-doculect-150-310,roma1328-std,concepticon-643,17.45,bsògn,"need, necessity",bsogn
+clics-doculect-150-311,roma1328-std,concepticon-686,17.46,fàzil,easy,fazil
+clics-doculect-150-312,roma1328-std,concepticon-584,17.47,difèzil,difficult,difezil
+clics-doculect-150-313,roma1328-std,concepticon-1812,17.48,pruvè,"try, attempt",pruve
+clics-doculect-150-314,roma1328-std,concepticon-1812,17.48,pruvè,"try, attempt",pruve
+clics-doculect-150-315,roma1328-std,concepticon-488,17.49,manìra,"way, manner",manira
+clics-doculect-150-316,roma1328-std,concepticon-488,17.49,camòin,"way, manner",camoin
+clics-doculect-150-317,roma1328-std,concepticon-1157,17.52,adchè,because,adche
+clics-doculect-150-318,roma1328-std,concepticon-1459,17.53,chèsmài,if,chesmai
+clics-doculect-150-319,roma1328-std,concepticon-1014,17.54,invèz,or,invez
+clics-doculect-150-320,roma1328-std,concepticon-1239,17.61,cùm,how?,cum
+clics-doculect-150-321,roma1328-std,concepticon-531,17.63,cvènt,how much?,cvent
+clics-doculect-150-322,roma1328-std,concepticon-1238,17.65,quand,when?,quand
+clics-doculect-150-323,roma1328-std,concepticon-1237,17.66,indòv,where?,indov
+clics-doculect-150-324,roma1328-std,concepticon-1270,17.69,pàrchè,why?,parche
+clics-doculect-150-325,roma1328-std,concepticon-1363,18.11,vòsa,voice,vosa
+clics-doculect-150-326,roma1328-std,concepticon-1261,18.12,cantèr,sing,canter
+clics-doculect-150-327,roma1328-std,concepticon-715,18.13,strìdar,"shout, cry out",stridar
+clics-doculect-150-328,roma1328-std,concepticon-1866,18.211,scucumèr,"stutter, stammer",scucumer
+clics-doculect-150-329,roma1328-std,concepticon-1458,18.22,dì,say,di
+clics-doculect-150-330,roma1328-std,concepticon-1711,18.221,cuntè,tell story,cunte
+clics-doculect-150-331,roma1328-std,concepticon-48,18.23,stèzètt,silent (be),stezett
+clics-doculect-150-332,roma1328-std,concepticon-1307,18.24,léngua,language,lengua
+clics-doculect-150-333,roma1328-std,concepticon-1599,18.26,paróla,word,parola
+clics-doculect-150-334,roma1328-std,concepticon-1405,18.28,nam,name,nam
+clics-doculect-150-335,roma1328-std,concepticon-1309,18.31,dmandè,"ask (question, inquire)",dmande
+clics-doculect-150-336,roma1328-std,concepticon-1309,18.31,qiscionè,"ask (question, inquire)",qiscione
+clics-doculect-150-337,roma1328-std,concepticon-2022,18.33,amèttar,"admit, confess",amettar
+clics-doculect-150-338,roma1328-std,concepticon-755,18.34,dinighè,deny,dinighe
+clics-doculect-150-339,roma1328-std,concepticon-1675,18.36,prumèttar,promise,prumettar
+clics-doculect-150-340,roma1328-std,concepticon-1084,18.41,apelé,call (=summon),apele
+clics-doculect-150-341,roma1328-std,concepticon-1084,18.41,ciamè,call (=summon),ciame
+clics-doculect-150-342,roma1328-std,concepticon-101,18.45,presòmars,boast,presomars
+clics-doculect-150-343,roma1328-std,concepticon-1391,19.15,zitè,"city, town",zite
+clics-doculect-150-344,roma1328-std,concepticon-930,19.16,bòrg,village,borg
+clics-doculect-150-345,roma1328-std,concepticon-930,19.16,vlàz,village,vlaz
+clics-doculect-150-346,roma1328-std,concepticon-789,19.21,pantalòn,people (populace),pantalon
+clics-doculect-150-347,roma1328-std,concepticon-789,19.21,zèint,people (populace),zeint
+clics-doculect-150-348,roma1328-std,concepticon-1846,19.31,gvarnèr,"rule, govern",gvarner
+clics-doculect-150-349,roma1328-std,concepticon-1032,19.37,citadèin,"citizen, subject",citadein
+clics-doculect-150-350,roma1328-std,concepticon-383,19.41,mèstar,master,mestar
+clics-doculect-150-351,roma1328-std,concepticon-812,19.42,ciàvo,slave,ciavo
+clics-doculect-150-352,roma1328-std,concepticon-1128,19.45,chmandè,"command, order",chmande
+clics-doculect-150-353,roma1328-std,concepticon-1635,19.46,ubidì,obey,ubidi
+clics-doculect-150-354,roma1328-std,concepticon-1358,19.52,nimìgh,enemy,nimigh
+clics-doculect-150-355,roma1328-std,concepticon-791,19.55,strnìr,stranger,strnir
+clics-doculect-150-356,roma1328-std,concepticon-1782,19.56,òsc,guest,osc
+clics-doculect-150-357,roma1328-std,concepticon-1545,19.57,anfitriòun,host,anfitrioun
+clics-doculect-150-358,roma1328-std,concepticon-1545,19.57,oscia,host,oscia
+clics-doculect-150-359,roma1328-std,concepticon-1897,19.58,ajutè,"help, aid",ajute
+clics-doculect-150-360,roma1328-std,concepticon-1747,19.61,custòm,custom,custom
+clics-doculect-150-361,roma1328-std,concepticon-1747,19.61,custòm,custom,custom
+clics-doculect-150-362,roma1328-std,concepticon-683,2.1,pirsòuna,"person, human being",pirsouna
+clics-doculect-150-363,roma1328-std,concepticon-1553,2.23,mèscul,male,mescul
+clics-doculect-150-364,roma1328-std,concepticon-1551,2.24,fémna,female,femna
+clics-doculect-150-365,roma1328-std,concepticon-1646,2.26,ragaza,girl,ragaza
+clics-doculect-150-366,roma1328-std,concepticon-1200,2.31,marî,husband,mari
+clics-doculect-150-367,roma1328-std,concepticon-1199,2.32,mujéra,wife,mujera
+clics-doculect-150-368,roma1328-std,concepticon-203,2.33,acasè,marry,acase
+clics-doculect-150-369,roma1328-std,concepticon-505,2.37,genitòr,parents,genitor
+clics-doculect-150-370,roma1328-std,concepticon-1620,2.41,fiòl,son,fiol
+clics-doculect-150-371,roma1328-std,concepticon-1357,2.42,fióla,daughter,fiola
+clics-doculect-150-372,roma1328-std,concepticon-1496,2.47,nuna,grandmother,nuna
+clics-doculect-150-373,roma1328-std,concepticon-1272,2.52,ziéina,aunt,zieina
+clics-doculect-150-374,roma1328-std,concepticon-1063,2.53,nipòd,nephew,nipod
+clics-doculect-150-375,roma1328-std,concepticon-1669,2.56,intinèt,ancestors,intinet
+clics-doculect-150-376,roma1328-std,concepticon-2255,2.61,msìr,father-in-law (of a man),msir
+clics-doculect-150-377,roma1328-std,concepticon-2256,2.62,sòzzara,mother-in-law (of a man),sozzara
+clics-doculect-150-378,roma1328-std,concepticon-2267,2.63,zànder,son-in-law (of a man),zander
+clics-doculect-150-379,roma1328-std,concepticon-2265,2.64,nòra,daughter-in-law (of a man),nora
+clics-doculect-150-380,roma1328-std,concepticon-237,2.71,padregn,stepfather,padregn
+clics-doculect-150-381,roma1328-std,concepticon-1059,2.73,fiàstar,stepson,fiastar
+clics-doculect-150-382,roma1328-std,concepticon-1209,2.91,me,I,me
+clics-doculect-150-383,roma1328-std,concepticon-1215,2.92,te,you (singular),te
+clics-doculect-150-384,roma1328-std,concepticon-1215,2.92,vù,you (singular),vu
+clics-doculect-150-385,roma1328-std,concepticon-1212,2.94,nuèter,we,nueter
+clics-doculect-150-386,roma1328-std,concepticon-817,2.96,qvèli,they,qveli
+clics-doculect-150-387,roma1328-std,concepticon-1423,20.11,cumbàtar,fight (vb),cumbatar
+clics-doculect-150-388,roma1328-std,concepticon-579,20.13,batàgia,"war, battle",batagia
+clics-doculect-150-389,roma1328-std,concepticon-1941,20.17,suldèd,soldier,sulded
+clics-doculect-150-390,roma1328-std,concepticon-1763,20.22,bacchett,club,bacchett
+clics-doculect-150-391,roma1328-std,concepticon-387,20.23,sfròmbla,sling,sfrombla
+clics-doculect-150-392,roma1328-std,concepticon-1061,20.31,armadura,armor (defensive),armadura
+clics-doculect-150-393,roma1328-std,concepticon-1330,20.44,difèndar,defend,difendar
+clics-doculect-150-394,roma1328-std,concepticon-1072,20.47,galeòt,"captive, prisoner",galeot
+clics-doculect-150-395,roma1328-std,concepticon-1022,20.48,butèn,"booty, spoils",buten
+clics-doculect-150-396,roma1328-std,concepticon-65,20.49,tiricòla,ambush,tiricola
+clics-doculect-150-397,roma1328-std,concepticon-19,20.53,lenza,fishing line,lenza
+clics-doculect-150-398,roma1328-std,concepticon-1435,20.61,càza,hunt,caza
+clics-doculect-150-399,roma1328-std,concepticon-1435,20.61,snasé,hunt,snase
+clics-doculect-150-400,roma1328-std,concepticon-1062,21.11,dirètt,law,dirett
+clics-doculect-150-401,roma1328-std,concepticon-1144,21.23,tstimòun,witness,tstimoun
+clics-doculect-150-402,roma1328-std,concepticon-1939,21.24,maledì,swear,maledi
+clics-doculect-150-403,roma1328-std,concepticon-1814,21.31,acusé,accuse,acuse
+clics-doculect-150-404,roma1328-std,concepticon-988,21.34,assòlvar,acquit,assolvar
+clics-doculect-150-405,roma1328-std,concepticon-90,21.36,innuzént,innocent,innuzent
+clics-doculect-150-406,roma1328-std,concepticon-390,21.37,castégh,"penalty, punishment",castegh
+clics-doculect-150-407,roma1328-std,concepticon-1281,21.39,galìra,"prison, jail",galira
+clics-doculect-150-408,roma1328-std,concepticon-845,21.42,omizidi,murder,omizidi
+clics-doculect-150-409,roma1328-std,concepticon-953,21.44,trasgrisiòun,rape,trasgrisioun
+clics-doculect-150-410,roma1328-std,concepticon-1160,21.52,lèder,thief,leder
+clics-doculect-150-411,roma1328-std,concepticon-631,3.15,biscèm,livestock,biscem
+clics-doculect-150-412,roma1328-std,concepticon-851,3.19,stàla,"stable, stall",stala
+clics-doculect-150-413,roma1328-std,concepticon-851,3.19,staladìicavai,"stable, stall",staladiicavai
+clics-doculect-150-414,roma1328-std,concepticon-1169,3.22,bò,ox,bo
+clics-doculect-150-415,roma1328-std,concepticon-1989,3.24,vidéll,calf,videll
+clics-doculect-150-416,roma1328-std,concepticon-1351,3.34,animéla,sow,animela
+clics-doculect-150-417,roma1328-std,concepticon-1972,3.38,ragazzen,kid,ragazzen
+clics-doculect-150-418,roma1328-std,concepticon-1647,3.45,puledar,"foal, colt",puledar
+clics-doculect-150-419,roma1328-std,concepticon-890,3.47,mól,mule,mol
+clics-doculect-150-420,roma1328-std,concepticon-265,3.5,pulam,fowl,pulam
+clics-doculect-150-421,roma1328-std,concepticon-1187,3.56,oca,goose,oca
+clics-doculect-150-422,roma1328-std,concepticon-1185,3.586,avoltoi,vulture,avoltoi
+clics-doculect-150-423,roma1328-std,concepticon-735,3.596,gòff,owl,goff
+clics-doculect-150-424,roma1328-std,concepticon-2139,3.63,topa,"mouse, rat",topa
+clics-doculect-150-425,roma1328-std,concepticon-2139,3.63,panteghéna,"mouse, rat",panteghena
+clics-doculect-150-426,roma1328-std,concepticon-2139,3.63,pantighéna,"mouse, rat",pantighena
+clics-doculect-150-427,roma1328-std,concepticon-1013,3.665,buratell,freshwater eel,buratell
+clics-doculect-150-428,roma1328-std,concepticon-267,3.812,gendan,nit (louse egg),gendan
+clics-doculect-150-429,roma1328-std,concepticon-232,3.813,polsa,flea,polsa
+clics-doculect-150-430,roma1328-std,concepticon-1575,3.816,vècia,cockroach,vecia
+clics-doculect-150-431,roma1328-std,concepticon-763,4.12,pèla,"skin, hide",pela
+clics-doculect-150-432,roma1328-std,concepticon-763,4.12,bòza,"skin, hide",boza
+clics-doculect-150-433,roma1328-std,concepticon-576,4.146,ròfia,dandruff,rofia
+clics-doculect-150-434,roma1328-std,concepticon-946,4.15,sànghev,blood,sanghev
+clics-doculect-150-435,roma1328-std,concepticon-525,4.151,vìna,"vein, artery",vina
+clics-doculect-150-436,roma1328-std,concepticon-525,4.151,artìria,"vein, artery",artiria
+clics-doculect-150-437,roma1328-std,concepticon-801,4.162,costla,rib,costla
+clics-doculect-150-438,roma1328-std,concepticon-1393,4.17,còran,horn,coran
+clics-doculect-150-439,roma1328-std,concepticon-1605,4.202,crèni,skull,creni
+clics-doculect-150-440,roma1328-std,concepticon-1605,4.202,créni,skull,creni
+clics-doculect-150-441,roma1328-std,concepticon-1583,4.203,zervèll,brain,zervell
+clics-doculect-150-442,roma1328-std,concepticon-17,4.213,palpédra,eyelid,palpedra
+clics-doculect-150-443,roma1328-std,concepticon-1540,4.214,zìli,eyelash,zili
+clics-doculect-150-444,roma1328-std,concepticon-208,4.232,mòcal,mucus (nasal),mocal
+clics-doculect-150-445,roma1328-std,concepticon-674,4.24,bòca,mouth,boca
+clics-doculect-150-446,roma1328-std,concepticon-73,4.241,ròstri,beak,rostri
+clics-doculect-150-447,roma1328-std,concepticon-1347,4.281,còppa,nape of neck,coppa
+clics-doculect-150-448,roma1328-std,concepticon-1346,4.29,stroza,throat,stroza
+clics-doculect-150-449,roma1328-std,concepticon-1482,4.3,òmar,shoulder,omar
+clics-doculect-150-450,roma1328-std,concepticon-1482,4.3,spala,shoulder,spala
+clics-doculect-150-451,roma1328-std,concepticon-981,4.32,gòmt,elbow,gomt
+clics-doculect-150-452,roma1328-std,concepticon-799,4.321,pouls,wrist,pouls
+clics-doculect-150-453,roma1328-std,concepticon-1183,4.331,pèlum,palm of hand,pelum
+clics-doculect-150-454,roma1328-std,concepticon-72,4.345,artègl,claw,artegl
+clics-doculect-150-455,roma1328-std,concepticon-1297,4.35,ghémba,leg,ghemba
+clics-doculect-150-456,roma1328-std,concepticon-800,4.351,còssa,thigh,cossa
+clics-doculect-150-457,roma1328-std,concepticon-1201,4.393,pána,feather,pana
+clics-doculect-150-458,roma1328-std,concepticon-1592,4.4,erca,chest,erca
+clics-doculect-150-459,roma1328-std,concepticon-1402,4.41,tèta,breast (of woman),teta
+clics-doculect-150-460,roma1328-std,concepticon-1402,4.41,pétt,breast (of woman),pett
+clics-doculect-150-461,roma1328-std,concepticon-796,4.412,cavdell,"nipple, teat",cavdell
+clics-doculect-150-462,roma1328-std,concepticon-688,4.441,palmòn,lung,palmon
+clics-doculect-150-463,roma1328-std,concepticon-1224,4.45,fédeg,liver,fedeg
+clics-doculect-150-464,roma1328-std,concepticon-489,4.451,rèin,kidney,rein
+clics-doculect-150-465,roma1328-std,concepticon-1744,4.452,mèlza,spleen,melza
+clics-doculect-150-466,roma1328-std,concepticon-1681,4.462,zintùra,waist,zintura
+clics-doculect-150-467,roma1328-std,concepticon-1745,4.463,ènca,hip,enca
+clics-doculect-150-468,roma1328-std,concepticon-834,4.464,cul,buttocks,cul
+clics-doculect-150-469,roma1328-std,concepticon-1222,4.492,mènga,penis,menga
+clics-doculect-150-470,roma1328-std,concepticon-1407,4.51,respiré,"breathe, breath",respire
+clics-doculect-150-471,roma1328-std,concepticon-879,4.53,tussì,cough,tussi
+clics-doculect-150-472,roma1328-std,concepticon-1621,4.54,starnudìr,sneeze,starnudir
+clics-doculect-150-473,roma1328-std,concepticon-126,4.55,sudè,perspire,sude
+clics-doculect-150-474,roma1328-std,concepticon-1278,4.57,rigeté,vomit,rigete
+clics-doculect-150-475,roma1328-std,concepticon-1403,4.58,mursichè,bite,mursiche
+clics-doculect-150-476,roma1328-std,concepticon-319,4.59,slapè,lick,slape
+clics-doculect-150-477,roma1328-std,concepticon-1920,4.62,insuniérs,dream,insuniers
+clics-doculect-150-478,roma1328-std,concepticon-1159,4.64,scurzèr,break wind,scurzer
+clics-doculect-150-479,roma1328-std,concepticon-676,4.66,caghér,defecate,cagher
+clics-doculect-150-480,roma1328-std,concepticon-1090,4.72,nàssar,born (to be),nassar
+clics-doculect-150-481,roma1328-std,concepticon-1123,4.73,grossa,pregnant,grossa
+clics-doculect-150-482,roma1328-std,concepticon-1494,4.75,murì,"die, dead",muri
+clics-doculect-150-483,roma1328-std,concepticon-1904,4.751,andghé,drowned,andghe
+clics-doculect-150-484,roma1328-std,concepticon-767,4.77,cadèvar,corpse,cadevar
+clics-doculect-150-485,roma1328-std,concepticon-1773,4.79,tumbén,"grave, tomb",tumben
+clics-doculect-150-486,roma1328-std,concepticon-785,4.81,gajèrd,"strong, mighty, powerful",gajerd
+clics-doculect-150-487,roma1328-std,concepticon-1601,4.82,grazil,weak,grazil
+clics-doculect-150-488,roma1328-std,concepticon-1601,4.82,fiàc,weak,fiac
+clics-doculect-150-489,roma1328-std,concepticon-1364,4.83,sèn,"well, health",sen
+clics-doculect-150-490,roma1328-std,concepticon-1847,4.84,maléd,"sick, sickness",maled
+clics-doculect-150-491,roma1328-std,concepticon-1534,4.841,fèvar,fever,fevar
+clics-doculect-150-492,roma1328-std,concepticon-1109,4.85,frìda,"wound, sore",frida
+clics-doculect-150-493,roma1328-std,concepticon-1109,4.85,piega,"wound, sore",piega
+clics-doculect-150-494,roma1328-std,concepticon-1903,4.853,infiasòn,swelling,infiason
+clics-doculect-150-495,roma1328-std,concepticon-1903,4.853,gnòcc,swelling,gnocc
+clics-doculect-150-496,roma1328-std,concepticon-1584,4.855,psiga,blister,psiga
+clics-doculect-150-497,roma1328-std,concepticon-793,4.856,bògn,boil (noun),bogn
+clics-doculect-150-498,roma1328-std,concepticon-497,4.858,castròn,scar,castron
+clics-doculect-150-499,roma1328-std,concepticon-499,4.86,sanè,"cure, heal",sane
+clics-doculect-150-500,roma1328-std,concepticon-1372,4.88,medsèina,"medicine, drug",medseina
+clics-doculect-150-501,roma1328-std,concepticon-655,4.89,vlèn,poison,vlen
+clics-doculect-150-502,roma1328-std,concepticon-1757,4.91,stràch,"tired, weary",strach
+clics-doculect-150-503,roma1328-std,concepticon-168,4.912,arpusè,rest,arpuse
+clics-doculect-150-504,roma1328-std,concepticon-1564,4.92,adasiè,lazy,adasie
+clics-doculect-150-505,roma1328-std,concepticon-1125,4.93,pilèd,bald,piled
+clics-doculect-150-506,roma1328-std,concepticon-996,4.95,sùrd,deaf,surd
+clics-doculect-150-507,roma1328-std,concepticon-1653,4.97,inzghì,blind,inzghi
+clics-doculect-150-508,roma1328-std,concepticon-1653,4.97,abajè,blind,abaje
+clics-doculect-150-509,roma1328-std,concepticon-1653,4.97,òrb,blind,orb
+clics-doculect-150-510,roma1328-std,concepticon-1463,4.98,intavanè,intoxicated,intavane
+clics-doculect-150-511,roma1328-std,concepticon-1463,4.98,imbariég,intoxicated,imbarieg
+clics-doculect-150-512,roma1328-std,concepticon-590,4.99,nòd,"naked, bare",nod
+clics-doculect-150-513,roma1328-std,concepticon-1959,5.122,grezz,raw,grezz
+clics-doculect-150-514,roma1328-std,concepticon-1959,5.122,crùd,raw,crud
+clics-doculect-150-515,roma1328-std,concepticon-178,5.123,fàt,ripe,fat
+clics-doculect-150-516,roma1328-std,concepticon-1728,5.125,merz,rotten,merz
+clics-doculect-150-517,roma1328-std,concepticon-199,5.141,micrègna,famine,micregna
+clics-doculect-150-518,roma1328-std,concepticon-1421,5.16,sucé,suck,suce
+clics-doculect-150-519,roma1328-std,concepticon-1530,5.33,scudèla,bowl,scudela
+clics-doculect-150-520,roma1328-std,concepticon-1530,5.33,cadinéila,bowl,cadineila
+clics-doculect-150-521,roma1328-std,concepticon-1530,5.33,ampola,bowl,ampola
+clics-doculect-150-522,roma1328-std,concepticon-1526,5.41,luvsèn,meal (a),luvsen
+clics-doculect-150-523,roma1328-std,concepticon-1322,5.42,claziàun,breakfast,claziaun
+clics-doculect-150-524,roma1328-std,concepticon-768,5.43,dsinèr,lunch,dsiner
+clics-doculect-150-525,roma1328-std,concepticon-1833,5.44,disinèr,dinner,disiner
+clics-doculect-150-526,roma1328-std,concepticon-275,5.46,sbuzzé,peel,sbuzze
+clics-doculect-150-527,roma1328-std,concepticon-2017,5.49,mistcè,"stir, mix",mistce
+clics-doculect-150-528,roma1328-std,concepticon-274,5.54,impasté,knead,impaste
+clics-doculect-150-529,roma1328-std,concepticon-1033,5.56,masné,"crush, grind",masne
+clics-doculect-150-530,roma1328-std,concepticon-636,5.57,mulèin,mill,mulein
+clics-doculect-150-531,roma1328-std,concepticon-224,5.58,fengha,mortar,fengha
+clics-doculect-150-532,roma1328-std,concepticon-1874,5.63,zuzzezza,sausage,zuzzezza
+clics-doculect-150-533,roma1328-std,concepticon-1547,5.64,mnèstra,"soup, broth",mnestra
+clics-doculect-150-534,roma1328-std,concepticon-924,5.65,virzùra,vegetables,virzura
+clics-doculect-150-535,roma1328-std,concepticon-1966,5.712,prella,bunch,prella
+clics-doculect-150-536,roma1328-std,concepticon-1154,5.78,ulèva,olive,uleva
+clics-doculect-150-537,roma1328-std,concepticon-323,5.791,cicia,"grease, fat",cicia
+clics-doculect-150-538,roma1328-std,concepticon-323,5.791,lèrd,"grease, fat",lerd
+clics-doculect-150-539,roma1328-std,concepticon-1524,5.92,véin,wine,vein
+clics-doculect-150-540,roma1328-std,concepticon-404,5.94,spìrit,fermented drink,spirit
+clics-doculect-150-541,roma1328-std,concepticon-404,5.94,alcòl,fermented drink,alcol
+clics-doculect-150-542,roma1328-std,concepticon-1556,5.971,tòral,egg yolk,toral
+clics-doculect-150-543,roma1328-std,concepticon-158,6.11,calzér,put on (clothes),calzer
+clics-doculect-150-544,roma1328-std,concepticon-881,6.13,sèrt,tailor,sert
+clics-doculect-150-545,roma1328-std,concepticon-1616,6.21,stòfa,cloth,stofa
+clics-doculect-150-546,roma1328-std,concepticon-964,6.22,lèna,wool,lena
+clics-doculect-150-547,roma1328-std,concepticon-1850,6.24,cuton,cotton,cuton
+clics-doculect-150-548,roma1328-std,concepticon-1641,6.25,sìta,silk,sita
+clics-doculect-150-549,roma1328-std,concepticon-325,6.27,fèltar,felt,feltar
+clics-doculect-150-550,roma1328-std,concepticon-580,6.28,plezza,fur,plezza
+clics-doculect-150-551,roma1328-std,concepticon-121,6.31,putanéveia,spin,putaneveia
+clics-doculect-150-552,roma1328-std,concepticon-277,6.32,fùs,spindle,fus
+clics-doculect-150-553,roma1328-std,concepticon-133,6.33,tèsar,weave,tesar
+clics-doculect-150-554,roma1328-std,concepticon-1787,6.34,tlaròn,loom,tlaron
+clics-doculect-150-555,roma1328-std,concepticon-1457,6.35,cusè,sew,cuse
+clics-doculect-150-556,roma1328-std,concepticon-157,6.39,tènzar,dye,tenzar
+clics-doculect-150-557,roma1328-std,concepticon-2012,6.45,bàvar,collar,bavar
+clics-doculect-150-558,roma1328-std,concepticon-2012,6.45,culér,collar,culer
+clics-doculect-150-559,roma1328-std,concepticon-2012,6.45,culàt,collar,culat
+clics-doculect-150-560,roma1328-std,concepticon-585,6.52,stivel,boot,stivel
+clics-doculect-150-561,roma1328-std,concepticon-2130,6.55,galotta,"hat, cap",galotta
+clics-doculect-150-562,roma1328-std,concepticon-2130,6.55,brèt,"hat, cap",bret
+clics-doculect-150-563,roma1328-std,concepticon-1151,6.59,vèl,veil,vel
+clics-doculect-150-564,roma1328-std,concepticon-1851,6.61,sbassi,pocket,sbassi
+clics-doculect-150-565,roma1328-std,concepticon-1029,6.72,giuiéll,jewel,giuiell
+clics-doculect-150-566,roma1328-std,concepticon-333,6.921,manòcc,braid,manocc
+clics-doculect-150-567,roma1328-std,concepticon-363,7.11,ster,"dwell, live",ster
+clics-doculect-150-568,roma1328-std,concepticon-363,7.11,vòivar,"dwell, live",voivar
+clics-doculect-150-569,roma1328-std,concepticon-1678,7.13,capan,hut,capan
+clics-doculect-150-570,roma1328-std,concepticon-1678,7.13,gargota,hut,gargota
+clics-doculect-150-571,roma1328-std,concepticon-1678,7.13,capàna,hut,capana
+clics-doculect-150-572,roma1328-std,concepticon-736,7.15,cantìr,"yard, court",cantir
+clics-doculect-150-573,roma1328-std,concepticon-1450,7.21,càmbra,room,cambra
+clics-doculect-150-574,roma1328-std,concepticon-1305,7.33,camoin,chimney,camoin
+clics-doculect-150-575,roma1328-std,concepticon-1044,7.421,cusséin,pillow,cussein
+clics-doculect-150-576,roma1328-std,concepticon-2131,7.45,tòrza,"lamp, torch",torza
+clics-doculect-150-577,roma1328-std,concepticon-745,7.47,scafél,shelf,scafel
+clics-doculect-150-578,roma1328-std,concepticon-205,7.48,ghibiòl,trough,ghibiol
+clics-doculect-150-579,roma1328-std,concepticon-1227,7.57,tòcc,board,tocc
+clics-doculect-150-580,roma1328-std,concepticon-1227,7.57,tévla,board,tevla
+clics-doculect-150-581,roma1328-std,concepticon-877,7.61,muradòr,mason,murador
+clics-doculect-150-582,roma1328-std,concepticon-212,8.12,chèmpi,field (for cultivation),chempi
+clics-doculect-150-583,roma1328-std,concepticon-212,8.12,rigvàrd,field (for cultivation),rigvard
+clics-doculect-150-584,roma1328-std,concepticon-1541,8.15,cultivè,"cultivate, till",cultive
+clics-doculect-150-585,roma1328-std,concepticon-1921,8.21,arè,plow,are
+clics-doculect-150-586,roma1328-std,concepticon-1794,8.212,solch,furrow,solch
+clics-doculect-150-587,roma1328-std,concepticon-190,8.32,sghetè,"mow, reap",sghete
+clics-doculect-150-588,roma1328-std,concepticon-2132,8.33,felza,"sickle, scythe",felza
+clics-doculect-150-589,roma1328-std,concepticon-1077,8.43,frumèint,wheat,frumeint
+clics-doculect-150-590,roma1328-std,concepticon-932,8.44,òrz,barley,orz
+clics-doculect-150-591,roma1328-std,concepticon-23,8.45,segval,rye,segval
+clics-doculect-150-592,roma1328-std,concepticon-653,8.53,piénta,plant (noun),pienta
+clics-doculect-150-593,roma1328-std,concepticon-1531,8.55,rampànt,branch,rampant
+clics-doculect-150-594,roma1328-std,concepticon-1950,8.62,fàz,beech,faz
+clics-doculect-150-595,roma1328-std,concepticon-1855,8.63,bitòlla,birch,bitolla
+clics-doculect-150-596,roma1328-std,concepticon-343,8.67,vida,vine,vida
+clics-doculect-150-597,roma1328-std,concepticon-974,8.68,tbàch,tobacco,tbach
+clics-doculect-150-598,roma1328-std,concepticon-1124,8.691,pèppa,pipe,peppa
+clics-doculect-150-599,roma1328-std,concepticon-1126,8.83,limòun,citrus fruit,limoun
+clics-doculect-150-600,roma1328-std,concepticon-2575,9.11,fè,"do, make",fe
+clics-doculect-150-601,roma1328-std,concepticon-984,9.12,lavàur,work,lavaur
+clics-doculect-150-602,roma1328-std,concepticon-2004,9.14,spòrzar,bend,sporzar
+clics-doculect-150-603,roma1328-std,concepticon-1917,9.16,fàssar,"tie, bind",fassar
+clics-doculect-150-604,roma1328-std,concepticon-352,9.161,snudé,untie,snude
+clics-doculect-150-605,roma1328-std,concepticon-2133,9.21,minè,"strike (hit, beat)",mine
+clics-doculect-150-606,roma1328-std,concepticon-2133,9.21,cichè,"strike (hit, beat)",ciche
+clics-doculect-150-607,roma1328-std,concepticon-588,9.261,rott,broken,rott
+clics-doculect-150-608,roma1328-std,concepticon-1449,9.31,struvizzé,"rub, wipe",struvizze
+clics-doculect-150-609,roma1328-std,concepticon-214,9.32,tirè,stretch,tire
+clics-doculect-150-610,roma1328-std,concepticon-1455,9.33,tirè,pull,tire
+clics-doculect-150-611,roma1328-std,concepticon-357,9.341,impiché,hang up,impiche
+clics-doculect-150-612,roma1328-std,concepticon-357,9.341,apèndar,hang up,apendar
+clics-doculect-150-613,roma1328-std,concepticon-1913,9.342,premar,press,premar
+clics-doculect-150-614,roma1328-std,concepticon-1487,9.35,virsè,pour,virse
+clics-doculect-150-615,roma1328-std,concepticon-1453,9.36,lavè,wash,lave
+clics-doculect-150-616,roma1328-std,concepticon-1042,9.43,falegnam,carpenter,falegnam
+clics-doculect-150-617,roma1328-std,concepticon-1501,9.46,smarunè,bore,smarune
+clics-doculect-150-618,roma1328-std,concepticon-1001,9.6,manischèlc,"smith, blacksmith",manischelc
+clics-doculect-150-619,roma1328-std,concepticon-1001,9.6,fàbar,"smith, blacksmith",fabar
+clics-doculect-150-620,roma1328-std,concepticon-1648,9.62,incòzan,anvil,incozan
+clics-doculect-150-621,roma1328-std,concepticon-211,9.63,culè,cast (metals),cule
+clics-doculect-150-622,roma1328-std,concepticon-211,9.63,zetè,cast (metals),zete
+clics-doculect-150-623,roma1328-std,concepticon-627,9.68,plòmb,lead (noun),plomb
+clics-doculect-150-624,roma1328-std,concepticon-1399,9.73,crèa,clay,crea
+clics-doculect-150-625,roma1328-std,concepticon-195,9.77,stora,mat,stora
+clics-doculect-150-626,roma1328-std,concepticon-1979,9.84,taiafèr,chisel,taiafer
+clics-doculect-150-627,roma1328-std,concepticon-647,9.88,pintùra,paint (noun),pintura

@@ -1,0 +1,1520 @@
+ID,Language_ID,Feature_ID,IDS_Key,Value,Concept,IPA_UDECODE
+clics-doculect-153-1,stan1293-std,concepticon-965,1.1,world,world,world
+clics-doculect-153-2,stan1293-std,concepticon-626,1.21,earth,"earth, land",earth
+clics-doculect-153-3,stan1293-std,concepticon-626,1.21,land,"earth, land",land
+clics-doculect-153-4,stan1293-std,concepticon-1228,1.212,ground,"earth=ground, soil",ground
+clics-doculect-153-5,stan1293-std,concepticon-1228,1.212,soil,"earth=ground, soil",soil
+clics-doculect-153-6,stan1293-std,concepticon-2,1.213,dust,dust,dust
+clics-doculect-153-7,stan1293-std,concepticon-640,1.214,mud,mud,mud
+clics-doculect-153-8,stan1293-std,concepticon-671,1.215,sand,sand,sand
+clics-doculect-153-9,stan1293-std,concepticon-2118,1.22,mountain,"mountain, hill",mountain
+clics-doculect-153-10,stan1293-std,concepticon-2118,1.22,hill,"mountain, hill",hill
+clics-doculect-153-11,stan1293-std,concepticon-618,1.222,cliff,"cliff, precipice",cliff
+clics-doculect-153-12,stan1293-std,concepticon-618,1.222,precipice,"cliff, precipice",precipice
+clics-doculect-153-13,stan1293-std,concepticon-652,1.23,plain,"plain, field",plain
+clics-doculect-153-14,stan1293-std,concepticon-652,1.23,field,"plain, field",field
+clics-doculect-153-15,stan1293-std,concepticon-921,1.24,valley,valley,valley
+clics-doculect-153-16,stan1293-std,concepticon-622,1.25,island,island,island
+clics-doculect-153-17,stan1293-std,concepticon-166,1.26,mainland,mainland,mainland
+clics-doculect-153-18,stan1293-std,concepticon-113,1.27,shore,shore,shore
+clics-doculect-153-19,stan1293-std,concepticon-1155,1.28,cave,cave,cave
+clics-doculect-153-20,stan1293-std,concepticon-948,1.31,water,water,water
+clics-doculect-153-21,stan1293-std,concepticon-1474,1.32,sea,sea,sea
+clics-doculect-153-22,stan1293-std,concepticon-258,1.322,calm,calm (of sea),calm
+clics-doculect-153-23,stan1293-std,concepticon-259,1.323,rough,rough (of sea),rough
+clics-doculect-153-24,stan1293-std,concepticon-1768,1.324,foam,foam,foam
+clics-doculect-153-25,stan1293-std,concepticon-645,1.329,ocean,ocean,ocean
+clics-doculect-153-26,stan1293-std,concepticon-624,1.33,lake,lake,lake
+clics-doculect-153-27,stan1293-std,concepticon-663,1.34,gulf,"gulf, bay",gulf
+clics-doculect-153-28,stan1293-std,concepticon-663,1.34,bay,"gulf, bay",bay
+clics-doculect-153-29,stan1293-std,concepticon-623,1.341,lagoon,lagoon,lagoon
+clics-doculect-153-30,stan1293-std,concepticon-660,1.342,reef,reef,reef
+clics-doculect-153-31,stan1293-std,concepticon-1662,1.343,headland,"headland, point",headland
+clics-doculect-153-32,stan1293-std,concepticon-1662,1.343,point,"headland, point",point
+clics-doculect-153-33,stan1293-std,concepticon-978,1.35,wave,wave,wave
+clics-doculect-153-34,stan1293-std,concepticon-891,1.352,tide,tide,tide
+clics-doculect-153-35,stan1293-std,concepticon-1026,1.353,lowtide,lowtide,lowtide
+clics-doculect-153-36,stan1293-std,concepticon-613,1.354,hightide,hightide,hightide
+clics-doculect-153-37,stan1293-std,concepticon-666,1.36,river,"river, stream, brook",river
+clics-doculect-153-38,stan1293-std,concepticon-666,1.36,stream,"river, stream, brook",stream
+clics-doculect-153-39,stan1293-std,concepticon-666,1.36,brook,"river, stream, brook",brook
+clics-doculect-153-40,stan1293-std,concepticon-1982,1.362,whirlpool,whirlpool,whirlpool
+clics-doculect-153-41,stan1293-std,concepticon-2144,1.37,spring,"spring, well",spring
+clics-doculect-153-42,stan1293-std,concepticon-2144,1.37,well,"spring, well",well
+clics-doculect-153-43,stan1293-std,concepticon-1145,1.38,swamp,swamp,swamp
+clics-doculect-153-44,stan1293-std,concepticon-943,1.39,waterfall,waterfall,waterfall
+clics-doculect-153-45,stan1293-std,concepticon-420,1.41,woods,"woods, forest",woods
+clics-doculect-153-46,stan1293-std,concepticon-420,1.41,forest,"woods, forest",forest
+clics-doculect-153-48,stan1293-std,concepticon-1803,1.43,wood,wood,wood
+clics-doculect-153-49,stan1293-std,concepticon-2125,1.44,stone,"stone, rock",stone
+clics-doculect-153-50,stan1293-std,concepticon-2125,1.44,rock,"stone, rock",rock
+clics-doculect-153-51,stan1293-std,concepticon-6,1.45,earthquake,earthquake,earthquake
+clics-doculect-153-52,stan1293-std,concepticon-1732,1.51,sky,sky,sky
+clics-doculect-153-53,stan1293-std,concepticon-1343,1.52,sun,sun,sun
+clics-doculect-153-54,stan1293-std,concepticon-1313,1.53,moon,moon,moon
+clics-doculect-153-55,stan1293-std,concepticon-1430,1.54,star,star,star
+clics-doculect-153-56,stan1293-std,concepticon-1654,1.55,lightning,lightning,lightning
+clics-doculect-153-57,stan1293-std,concepticon-1150,1.56,thunder,thunder,thunder
+clics-doculect-153-58,stan1293-std,concepticon-2007,1.57,lightning,lightning (as striking),lightning
+clics-doculect-153-59,stan1293-std,concepticon-858,1.58,storm,storm,storm
+clics-doculect-153-60,stan1293-std,concepticon-1733,1.59,rainbow,rainbow,rainbow
+clics-doculect-153-61,stan1293-std,concepticon-630,1.61,light,light (noun),light
+clics-doculect-153-62,stan1293-std,concepticon-11,1.62,darkness,darkness,darkness
+clics-doculect-153-63,stan1293-std,concepticon-1388,1.63,shade,"shade, shadow",shade
+clics-doculect-153-64,stan1293-std,concepticon-1388,1.63,shadow,"shade, shadow",shadow
+clics-doculect-153-65,stan1293-std,concepticon-1977,1.64,dew,dew,dew
+clics-doculect-153-66,stan1293-std,concepticon-27,1.71,air,air,air
+clics-doculect-153-67,stan1293-std,concepticon-960,1.72,wind,wind,wind
+clics-doculect-153-68,stan1293-std,concepticon-1489,1.73,cloud,cloud,cloud
+clics-doculect-153-69,stan1293-std,concepticon-249,1.74,fog,fog,fog
+clics-doculect-153-70,stan1293-std,concepticon-658,1.75,rain,rain (noun),rain
+clics-doculect-153-71,stan1293-std,concepticon-784,1.76,snow,snow (noun),snow
+clics-doculect-153-72,stan1293-std,concepticon-617,1.77,ice,ice,ice
+clics-doculect-153-73,stan1293-std,concepticon-952,1.78,weather,weather,weather
+clics-doculect-153-74,stan1293-std,concepticon-221,1.81,fire,fire,fire
+clics-doculect-153-75,stan1293-std,concepticon-889,1.82,flame,flame (noun),flame
+clics-doculect-153-76,stan1293-std,concepticon-778,1.83,smoke,smoke (noun),smoke
+clics-doculect-153-77,stan1293-std,concepticon-646,1.84,ashes,ashes,ashes
+clics-doculect-153-78,stan1293-std,concepticon-67,1.841,embers,embers,embers
+clics-doculect-153-79,stan1293-std,concepticon-141,1.851,burn,burn (vb trans),burn
+clics-doculect-153-80,stan1293-std,concepticon-1428,1.852,burn,burn (vb intrans),burn
+clics-doculect-153-81,stan1293-std,concepticon-737,1.86,light,"light, kindle, ignite",light
+clics-doculect-153-82,stan1293-std,concepticon-737,1.86,kindle,"light, kindle, ignite",kindle
+clics-doculect-153-83,stan1293-std,concepticon-737,1.86,ignite,"light, kindle, ignite",ignite
+clics-doculect-153-84,stan1293-std,concepticon-127,1.861,extinguish,extinguish,extinguish
+clics-doculect-153-85,stan1293-std,concepticon-1133,1.87,match,match (noun),match
+clics-doculect-153-86,stan1293-std,concepticon-10,1.88,firewood,firewood,firewood
+clics-doculect-153-87,stan1293-std,concepticon-1188,1.89,charcoal,charcoal,charcoal
+clics-doculect-153-88,stan1293-std,concepticon-683,2.1,person,"person, human being",person
+clics-doculect-153-89,stan1293-std,concepticon-683,2.1,humanbeing,"person, human being",humanbeing
+clics-doculect-153-90,stan1293-std,concepticon-1554,2.21,man,man (vs. woman),man
+clics-doculect-153-91,stan1293-std,concepticon-962,2.22,woman,woman,woman
+clics-doculect-153-92,stan1293-std,concepticon-1553,2.23,male,male,male
+clics-doculect-153-93,stan1293-std,concepticon-1551,2.24,female,female,female
+clics-doculect-153-94,stan1293-std,concepticon-1366,2.25,boy,boy,boy
+clics-doculect-153-95,stan1293-std,concepticon-76,2.251,youngman,young man (adolescent),youngman
+clics-doculect-153-96,stan1293-std,concepticon-1646,2.26,girl,girl,girl
+clics-doculect-153-97,stan1293-std,concepticon-77,2.261,youngwoman,young woman (adolescent),youngwoman
+clics-doculect-153-98,stan1293-std,concepticon-1304,2.27,child,child,child
+clics-doculect-153-99,stan1293-std,concepticon-1289,2.28,infant,"infant, baby",infant
+clics-doculect-153-100,stan1293-std,concepticon-1289,2.28,baby,"infant, baby",baby
+clics-doculect-153-101,stan1293-std,concepticon-1200,2.31,husband,husband,husband
+clics-doculect-153-102,stan1293-std,concepticon-1199,2.32,wife,wife,wife
+clics-doculect-153-103,stan1293-std,concepticon-203,2.33,marry,marry,marry
+clics-doculect-153-104,stan1293-std,concepticon-1259,2.34,marriage,"marriage, wedding",marriage
+clics-doculect-153-105,stan1293-std,concepticon-1259,2.34,wedding,"marriage, wedding",wedding
+clics-doculect-153-106,stan1293-std,concepticon-1134,2.341,divorce,divorce,divorce
+clics-doculect-153-107,stan1293-std,concepticon-1217,2.35,father,father,father
+clics-doculect-153-108,stan1293-std,concepticon-1216,2.36,mother,mother,mother
+clics-doculect-153-109,stan1293-std,concepticon-505,2.37,parents,parents,parents
+clics-doculect-153-110,stan1293-std,concepticon-424,2.38,marriedman,married man,marriedman
+clics-doculect-153-111,stan1293-std,concepticon-426,2.39,marriedwoman,married woman,marriedwoman
+clics-doculect-153-112,stan1293-std,concepticon-1620,2.41,son,son,son
+clics-doculect-153-113,stan1293-std,concepticon-1357,2.42,daughter,daughter,daughter
+clics-doculect-153-114,stan1293-std,concepticon-1801,2.43,offspring,offspring (son or daughter),offspring
+clics-doculect-153-115,stan1293-std,concepticon-1262,2.44,brother,brother,brother
+clics-doculect-153-116,stan1293-std,concepticon-1759,2.444,olderbrother,older brother,olderbrother
+clics-doculect-153-117,stan1293-std,concepticon-1760,2.445,youngerbrother,younger brother,youngerbrother
+clics-doculect-153-118,stan1293-std,concepticon-1263,2.45,sister,sister,sister
+clics-doculect-153-119,stan1293-std,concepticon-1758,2.454,oldersister,older sister,oldersister
+clics-doculect-153-120,stan1293-std,concepticon-1761,2.455,youngersister,younger sister,youngersister
+clics-doculect-153-121,stan1293-std,concepticon-1640,2.456,sibling,sibling,sibling
+clics-doculect-153-122,stan1293-std,concepticon-1005,2.458,twins,twins,twins
+clics-doculect-153-123,stan1293-std,concepticon-1383,2.46,grandfather,grandfather,grandfather
+clics-doculect-153-124,stan1293-std,concepticon-406,2.461,oldman,old man,oldman
+clics-doculect-153-125,stan1293-std,concepticon-1496,2.47,grandmother,grandmother,grandmother
+clics-doculect-153-126,stan1293-std,concepticon-907,2.471,oldwoman,old woman,oldwoman
+clics-doculect-153-127,stan1293-std,concepticon-1618,2.48,grandson,grandson,grandson
+clics-doculect-153-128,stan1293-std,concepticon-1619,2.49,granddaughter,granddaughter,granddaughter
+clics-doculect-153-129,stan1293-std,concepticon-1327,2.51,uncle,uncle,uncle
+clics-doculect-153-130,stan1293-std,concepticon-1984,2.511,mother'sbrother,mother's brother,mother'sbrother
+clics-doculect-153-131,stan1293-std,concepticon-1985,2.512,father'sbrother,father's brother,father'sbrother
+clics-doculect-153-132,stan1293-std,concepticon-1272,2.52,aunt,aunt,aunt
+clics-doculect-153-133,stan1293-std,concepticon-171,2.521,mother'ssister,mother's sister,mother'ssister
+clics-doculect-153-134,stan1293-std,concepticon-170,2.522,father'ssister,father's sister,father'ssister
+clics-doculect-153-135,stan1293-std,concepticon-1063,2.53,nephew,nephew,nephew
+clics-doculect-153-136,stan1293-std,concepticon-1642,2.54,niece,niece,niece
+clics-doculect-153-137,stan1293-std,concepticon-1643,2.55,cousin,cousin,cousin
+clics-doculect-153-138,stan1293-std,concepticon-1669,2.56,ancestors,ancestors,ancestors
+clics-doculect-153-139,stan1293-std,concepticon-490,2.57,descendants,descendants,descendants
+clics-doculect-153-140,stan1293-std,concepticon-2255,2.61,fatherinlaw,father-in-law (of a man),fatherinlaw
+clics-doculect-153-141,stan1293-std,concepticon-2254,2.611,fatherinlaw,father-in-law (of a woman),fatherinlaw
+clics-doculect-153-142,stan1293-std,concepticon-2256,2.62,motherinlaw,mother-in-law (of a man),motherinlaw
+clics-doculect-153-143,stan1293-std,concepticon-2257,2.621,motherinlaw,mother-in-law (of a woman),motherinlaw
+clics-doculect-153-144,stan1293-std,concepticon-2267,2.63,soninlaw,son-in-law (of a man),soninlaw
+clics-doculect-153-145,stan1293-std,concepticon-2266,2.631,soninlaw,son-in-law (of a woman),soninlaw
+clics-doculect-153-146,stan1293-std,concepticon-2265,2.64,daughterinlaw,daughter-in-law (of a man),daughterinlaw
+clics-doculect-153-147,stan1293-std,concepticon-2264,2.641,daughterinlaw,daughter-in-law (of a woman),daughterinlaw
+clics-doculect-153-148,stan1293-std,concepticon-237,2.71,stepfather,stepfather,stepfather
+clics-doculect-153-149,stan1293-std,concepticon-236,2.72,stepmother,stepmother,stepmother
+clics-doculect-153-150,stan1293-std,concepticon-1059,2.73,stepson,stepson,stepson
+clics-doculect-153-151,stan1293-std,concepticon-1058,2.74,stepdaughter,stepdaughter,stepdaughter
+clics-doculect-153-152,stan1293-std,concepticon-1149,2.75,orphan,orphan,orphan
+clics-doculect-153-153,stan1293-std,concepticon-1756,2.76,widow,widow,widow
+clics-doculect-153-154,stan1293-std,concepticon-1981,2.77,widower,widower,widower
+clics-doculect-153-155,stan1293-std,concepticon-1644,2.81,relatives,"relatives, kinsmen",relatives
+clics-doculect-153-156,stan1293-std,concepticon-1644,2.81,kinsmen,"relatives, kinsmen",kinsmen
+clics-doculect-153-157,stan1293-std,concepticon-194,2.82,family,family,family
+clics-doculect-153-158,stan1293-std,concepticon-1209,2.91,I,I,I
+clics-doculect-153-159,stan1293-std,concepticon-1215,2.92,you,you (singular),you
+clics-doculect-153-160,stan1293-std,concepticon-262,2.93,he,he/she/it,he
+clics-doculect-153-161,stan1293-std,concepticon-262,2.93,she,he/she/it,she
+clics-doculect-153-162,stan1293-std,concepticon-262,2.93,it,he/she/it,it
+clics-doculect-153-163,stan1293-std,concepticon-1212,2.94,we,we,we
+clics-doculect-153-164,stan1293-std,concepticon-1131,2.941,we,we (inclusive),we
+clics-doculect-153-165,stan1293-std,concepticon-1130,2.942,we,we (exclusive),we
+clics-doculect-153-166,stan1293-std,concepticon-1213,2.95,you,you (plural),you
+clics-doculect-153-167,stan1293-std,concepticon-817,2.96,they,they,they
+clics-doculect-153-168,stan1293-std,concepticon-619,3.11,animal,animal,animal
+clics-doculect-153-169,stan1293-std,concepticon-2261,3.12,male,male (adj),male
+clics-doculect-153-170,stan1293-std,concepticon-2262,3.13,female,female (adj),female
+clics-doculect-153-171,stan1293-std,concepticon-631,3.15,livestock,livestock,livestock
+clics-doculect-153-172,stan1293-std,concepticon-649,3.16,pasture,pasture,pasture
+clics-doculect-153-173,stan1293-std,concepticon-263,3.18,herdsman,herdsman,herdsman
+clics-doculect-153-174,stan1293-std,concepticon-851,3.19,stable,"stable, stall",stable
+clics-doculect-153-175,stan1293-std,concepticon-851,3.19,stall,"stable, stall",stall
+clics-doculect-153-176,stan1293-std,concepticon-1153,3.2,cattle,cattle (bovine),cattle
+clics-doculect-153-177,stan1293-std,concepticon-1008,3.21,bull,bull,bull
+clics-doculect-153-178,stan1293-std,concepticon-1169,3.22,ox,ox,ox
+clics-doculect-153-179,stan1293-std,concepticon-1007,3.23,cow,cow,cow
+clics-doculect-153-180,stan1293-std,concepticon-1989,3.24,calf,calf,calf
+clics-doculect-153-181,stan1293-std,concepticon-1331,3.25,sheep,sheep,sheep
+clics-doculect-153-182,stan1293-std,concepticon-1344,3.26,ram,ram,ram
+clics-doculect-153-183,stan1293-std,concepticon-1345,3.28,ewe,ewe,ewe
+clics-doculect-153-184,stan1293-std,concepticon-820,3.29,lamb,lamb,lamb
+clics-doculect-153-185,stan1293-std,concepticon-1348,3.32,boar,boar,boar
+clics-doculect-153-186,stan1293-std,concepticon-1351,3.34,sow,sow,sow
+clics-doculect-153-187,stan1293-std,concepticon-1337,3.35,pig,pig,pig
+clics-doculect-153-188,stan1293-std,concepticon-1502,3.36,goat,goat,goat
+clics-doculect-153-189,stan1293-std,concepticon-264,3.37,hegoat,he-goat,hegoat
+clics-doculect-153-190,stan1293-std,concepticon-1972,3.38,kid,kid,kid
+clics-doculect-153-191,stan1293-std,concepticon-615,3.41,horse,horse (equine),horse
+clics-doculect-153-192,stan1293-std,concepticon-936,3.42,stallion,stallion,stallion
+clics-doculect-153-193,stan1293-std,concepticon-938,3.44,mare,mare,mare
+clics-doculect-153-194,stan1293-std,concepticon-1647,3.45,foal,"foal, colt",foal
+clics-doculect-153-195,stan1293-std,concepticon-1647,3.45,colt,"foal, colt",colt
+clics-doculect-153-196,stan1293-std,concepticon-1862,3.46,ass,"ass, donkey",ass
+clics-doculect-153-197,stan1293-std,concepticon-1862,3.46,donkey,"ass, donkey",donkey
+clics-doculect-153-198,stan1293-std,concepticon-890,3.47,mule,mule,mule
+clics-doculect-153-199,stan1293-std,concepticon-265,3.5,fowl,fowl,fowl
+clics-doculect-153-200,stan1293-std,concepticon-1511,3.52,cock,"cock, rooster",cock
+clics-doculect-153-201,stan1293-std,concepticon-1511,3.52,rooster,"cock, rooster",rooster
+clics-doculect-153-202,stan1293-std,concepticon-1514,3.54,hen,hen,hen
+clics-doculect-153-203,stan1293-std,concepticon-1318,3.55,chicken,chicken,chicken
+clics-doculect-153-204,stan1293-std,concepticon-1187,3.56,goose,goose,goose
+clics-doculect-153-205,stan1293-std,concepticon-1360,3.57,duck,duck,duck
+clics-doculect-153-206,stan1293-std,concepticon-539,3.58,nest,nest,nest
+clics-doculect-153-207,stan1293-std,concepticon-937,3.581,bird,bird,bird
+clics-doculect-153-208,stan1293-std,concepticon-950,3.582,seagull,seagull,seagull
+clics-doculect-153-209,stan1293-std,concepticon-758,3.583,heron,heron,heron
+clics-doculect-153-210,stan1293-std,concepticon-1905,3.584,eagle,eagle,eagle
+clics-doculect-153-211,stan1293-std,concepticon-307,3.585,hawk,hawk,hawk
+clics-doculect-153-212,stan1293-std,concepticon-1185,3.586,vulture,vulture,vulture
+clics-doculect-153-213,stan1293-std,concepticon-1793,3.591,bat,bat,bat
+clics-doculect-153-214,stan1293-std,concepticon-882,3.592,parrot,parrot,parrot
+clics-doculect-153-215,stan1293-std,concepticon-913,3.593,crow,crow,crow
+clics-doculect-153-216,stan1293-std,concepticon-1853,3.594,dove,dove,dove
+clics-doculect-153-217,stan1293-std,concepticon-735,3.596,owl,owl,owl
+clics-doculect-153-218,stan1293-std,concepticon-2009,3.61,dog,dog,dog
+clics-doculect-153-219,stan1293-std,concepticon-1136,3.614,rabbit,rabbit,rabbit
+clics-doculect-153-220,stan1293-std,concepticon-1208,3.62,cat,cat,cat
+clics-doculect-153-221,stan1293-std,concepticon-309,3.622,opossum,opossum,opossum
+clics-doculect-153-222,stan1293-std,concepticon-2139,3.63,mouse,"mouse, rat",mouse
+clics-doculect-153-223,stan1293-std,concepticon-2139,3.63,rat,"mouse, rat",rat
+clics-doculect-153-224,stan1293-std,concepticon-227,3.65,fish,fish,fish
+clics-doculect-153-225,stan1293-std,concepticon-213,3.652,fin,fin (dorsal),fin
+clics-doculect-153-226,stan1293-std,concepticon-266,3.653,fishscale,fishscale,fishscale
+clics-doculect-153-227,stan1293-std,concepticon-1916,3.654,gill,gill,gill
+clics-doculect-153-228,stan1293-std,concepticon-598,3.655,shell,shell,shell
+clics-doculect-153-229,stan1293-std,concepticon-1110,3.661,shark,shark,shark
+clics-doculect-153-230,stan1293-std,concepticon-1479,3.662,porpoise,"porpoise, dolphin",porpoise
+clics-doculect-153-231,stan1293-std,concepticon-1479,3.662,dolphin,"porpoise, dolphin",dolphin
+clics-doculect-153-232,stan1293-std,concepticon-957,3.663,whale,whale,whale
+clics-doculect-153-233,stan1293-std,concepticon-1910,3.664,stingray,stingray,stingray
+clics-doculect-153-234,stan1293-std,concepticon-1013,3.665,freshwatereel,freshwater eel,freshwatereel
+clics-doculect-153-235,stan1293-std,concepticon-522,3.71,wolf,wolf,wolf
+clics-doculect-153-236,stan1293-std,concepticon-1386,3.72,lion,lion,lion
+clics-doculect-153-237,stan1293-std,concepticon-1820,3.73,bear,bear,bear
+clics-doculect-153-238,stan1293-std,concepticon-1312,3.74,fox,fox,fox
+clics-doculect-153-239,stan1293-std,concepticon-1936,3.75,deer,deer,deer
+clics-doculect-153-240,stan1293-std,concepticon-1350,3.76,monkey,monkey,monkey
+clics-doculect-153-241,stan1293-std,concepticon-1290,3.77,elephant,elephant,elephant
+clics-doculect-153-242,stan1293-std,concepticon-1871,3.78,camel,camel,camel
+clics-doculect-153-243,stan1293-std,concepticon-620,3.81,insect,insect,insect
+clics-doculect-153-244,stan1293-std,concepticon-1392,3.811,louse,louse,louse
+clics-doculect-153-245,stan1293-std,concepticon-267,3.812,nit,nit (louse egg),nit
+clics-doculect-153-246,stan1293-std,concepticon-232,3.813,flea,flea,flea
+clics-doculect-153-247,stan1293-std,concepticon-1974,3.814,centipede,centipede,centipede
+clics-doculect-153-248,stan1293-std,concepticon-1538,3.815,scorpion,scorpion,scorpion
+clics-doculect-153-249,stan1293-std,concepticon-1575,3.816,cockroach,cockroach,cockroach
+clics-doculect-153-250,stan1293-std,concepticon-587,3.817,ant,ant,ant
+clics-doculect-153-251,stan1293-std,concepticon-843,3.818,spider,spider,spider
+clics-doculect-153-252,stan1293-std,concepticon-1065,3.819,spiderweb,spider web,spiderweb
+clics-doculect-153-253,stan1293-std,concepticon-665,3.82,bee,bee,bee
+clics-doculect-153-254,stan1293-std,concepticon-1931,3.821,beeswax,beeswax,beeswax
+clics-doculect-153-255,stan1293-std,concepticon-88,3.822,beehive,beehive,beehive
+clics-doculect-153-256,stan1293-std,concepticon-1517,3.823,wasp,wasp,wasp
+clics-doculect-153-257,stan1293-std,concepticon-1504,3.83,fly,fly,fly
+clics-doculect-153-258,stan1293-std,concepticon-95,3.831,sandfly,"sandfly (midge), gnat",sandfly
+clics-doculect-153-259,stan1293-std,concepticon-95,3.831,midge,"sandfly (midge), gnat",midge
+clics-doculect-153-260,stan1293-std,concepticon-95,3.831,gnat,"sandfly (midge), gnat",gnat
+clics-doculect-153-261,stan1293-std,concepticon-1509,3.832,mosquito,mosquito,mosquito
+clics-doculect-153-262,stan1293-std,concepticon-1219,3.84,worm,worm,worm
+clics-doculect-153-263,stan1293-std,concepticon-730,3.85,snake,snake,snake
+clics-doculect-153-264,stan1293-std,concepticon-206,3.91,firefly,firefly,firefly
+clics-doculect-153-265,stan1293-std,concepticon-1791,3.92,butterfly,butterfly,butterfly
+clics-doculect-153-266,stan1293-std,concepticon-607,3.93,grasshopper,grasshopper,grasshopper
+clics-doculect-153-267,stan1293-std,concepticon-1543,3.94,snail,snail,snail
+clics-doculect-153-268,stan1293-std,concepticon-503,3.95,frog,frog,frog
+clics-doculect-153-269,stan1293-std,concepticon-632,3.96,lizard,lizard,lizard
+clics-doculect-153-270,stan1293-std,concepticon-1857,3.97,crocodile,"crocodile, alligator",crocodile
+clics-doculect-153-271,stan1293-std,concepticon-1857,3.97,alligator,"crocodile, alligator",alligator
+clics-doculect-153-272,stan1293-std,concepticon-112,3.98,turtle,turtle,turtle
+clics-doculect-153-273,stan1293-std,concepticon-1480,4.11,body,body,body
+clics-doculect-153-274,stan1293-std,concepticon-763,4.12,skin,"skin, hide",skin
+clics-doculect-153-275,stan1293-std,concepticon-763,4.12,hide,"skin, hide",hide
+clics-doculect-153-276,stan1293-std,concepticon-2259,4.13,flesh,flesh,flesh
+clics-doculect-153-277,stan1293-std,concepticon-1040,4.14,hair,hair (head),hair
+clics-doculect-153-278,stan1293-std,concepticon-678,4.142,beard,beard,beard
+clics-doculect-153-279,stan1293-std,concepticon-189,4.144,bodyhair,body hair,bodyhair
+clics-doculect-153-280,stan1293-std,concepticon-36,4.145,pubichair,pubic hair,pubichair
+clics-doculect-153-281,stan1293-std,concepticon-576,4.146,dandruff,dandruff,dandruff
+clics-doculect-153-282,stan1293-std,concepticon-946,4.15,blood,blood,blood
+clics-doculect-153-283,stan1293-std,concepticon-525,4.151,vein,"vein, artery",vein
+clics-doculect-153-284,stan1293-std,concepticon-525,4.151,artery,"vein, artery",artery
+clics-doculect-153-285,stan1293-std,concepticon-1394,4.16,bone,bone,bone
+clics-doculect-153-286,stan1293-std,concepticon-801,4.162,rib,rib,rib
+clics-doculect-153-287,stan1293-std,concepticon-1393,4.17,horn,horn,horn
+clics-doculect-153-288,stan1293-std,concepticon-1220,4.18,tail,tail,tail
+clics-doculect-153-289,stan1293-std,concepticon-1291,4.19,back,back,back
+clics-doculect-153-290,stan1293-std,concepticon-805,4.191,spine,spine,spine
+clics-doculect-153-291,stan1293-std,concepticon-1256,4.2,head,head,head
+clics-doculect-153-292,stan1293-std,concepticon-1604,4.201,sideofhead,"side of head, temple",sideofhead
+clics-doculect-153-293,stan1293-std,concepticon-1604,4.201,temple,"side of head, temple",temple
+clics-doculect-153-294,stan1293-std,concepticon-1605,4.202,skull,skull,skull
+clics-doculect-153-295,stan1293-std,concepticon-1583,4.203,brain,brain,brain
+clics-doculect-153-296,stan1293-std,concepticon-1560,4.204,face,face,face
+clics-doculect-153-297,stan1293-std,concepticon-123,4.205,forehead,forehead,forehead
+clics-doculect-153-298,stan1293-std,concepticon-798,4.207,jaw,jaw,jaw
+clics-doculect-153-299,stan1293-std,concepticon-1730,4.208,cheek,cheek,cheek
+clics-doculect-153-300,stan1293-std,concepticon-1510,4.209,chin,chin,chin
+clics-doculect-153-301,stan1293-std,concepticon-1248,4.21,eye,eye,eye
+clics-doculect-153-302,stan1293-std,concepticon-1173,4.212,eyebrow,eyebrow,eyebrow
+clics-doculect-153-303,stan1293-std,concepticon-17,4.213,eyelid,eyelid,eyelid
+clics-doculect-153-304,stan1293-std,concepticon-1540,4.214,eyelash,eyelash,eyelash
+clics-doculect-153-305,stan1293-std,concepticon-1655,4.215,blink,blink,blink
+clics-doculect-153-306,stan1293-std,concepticon-1247,4.22,ear,ear,ear
+clics-doculect-153-307,stan1293-std,concepticon-18,4.221,earlobe,earlobe,earlobe
+clics-doculect-153-308,stan1293-std,concepticon-32,4.222,earwax,earwax,earwax
+clics-doculect-153-309,stan1293-std,concepticon-1221,4.23,nose,nose,nose
+clics-doculect-153-310,stan1293-std,concepticon-1178,4.231,nostril,nostril,nostril
+clics-doculect-153-311,stan1293-std,concepticon-208,4.232,mucus,mucus (nasal),mucus
+clics-doculect-153-312,stan1293-std,concepticon-674,4.24,mouth,mouth,mouth
+clics-doculect-153-313,stan1293-std,concepticon-73,4.241,beak,beak,beak
+clics-doculect-153-314,stan1293-std,concepticon-478,4.25,lip,lip,lip
+clics-doculect-153-315,stan1293-std,concepticon-1205,4.26,tongue,tongue,tongue
+clics-doculect-153-316,stan1293-std,concepticon-1380,4.27,tooth,tooth,tooth
+clics-doculect-153-317,stan1293-std,concepticon-139,4.271,gums,gums,gums
+clics-doculect-153-318,stan1293-std,concepticon-1049,4.272,molartooth,molartooth,molartooth
+clics-doculect-153-319,stan1293-std,concepticon-1333,4.28,neck,neck,neck
+clics-doculect-153-320,stan1293-std,concepticon-1347,4.281,napeofneck,nape of neck,napeofneck
+clics-doculect-153-321,stan1293-std,concepticon-1346,4.29,throat,throat,throat
+clics-doculect-153-322,stan1293-std,concepticon-1482,4.3,shoulder,shoulder,shoulder
+clics-doculect-153-323,stan1293-std,concepticon-172,4.301,shoulderblade,shoulderblade,shoulderblade
+clics-doculect-153-324,stan1293-std,concepticon-1994,4.302,collarbone,collarbone,collarbone
+clics-doculect-153-325,stan1293-std,concepticon-1673,4.31,arm,arm,arm
+clics-doculect-153-326,stan1293-std,concepticon-1886,4.312,armpit,armpit,armpit
+clics-doculect-153-327,stan1293-std,concepticon-981,4.32,elbow,elbow,elbow
+clics-doculect-153-328,stan1293-std,concepticon-799,4.321,wrist,wrist,wrist
+clics-doculect-153-329,stan1293-std,concepticon-1277,4.33,hand,hand,hand
+clics-doculect-153-330,stan1293-std,concepticon-1183,4.331,palmofhand,palm of hand,palmofhand
+clics-doculect-153-331,stan1293-std,concepticon-1303,4.34,finger,finger,finger
+clics-doculect-153-332,stan1293-std,concepticon-1781,4.342,thumb,thumb,thumb
+clics-doculect-153-333,stan1293-std,concepticon-1258,4.344,fingernail,fingernail,fingernail
+clics-doculect-153-334,stan1293-std,concepticon-72,4.345,claw,claw,claw
+clics-doculect-153-335,stan1293-std,concepticon-1297,4.35,leg,leg,leg
+clics-doculect-153-336,stan1293-std,concepticon-800,4.351,thigh,thigh,thigh
+clics-doculect-153-337,stan1293-std,concepticon-498,4.352,calfofleg,calf of leg,calfofleg
+clics-doculect-153-338,stan1293-std,concepticon-1371,4.36,knee,knee,knee
+clics-doculect-153-339,stan1293-std,concepticon-1301,4.37,foot,foot,foot
+clics-doculect-153-340,stan1293-std,concepticon-803,4.371,ankle,ankle,ankle
+clics-doculect-153-341,stan1293-std,concepticon-980,4.372,heel,heel,heel
+clics-doculect-153-342,stan1293-std,concepticon-318,4.374,footprint,footprint,footprint
+clics-doculect-153-343,stan1293-std,concepticon-1389,4.38,toe,toe,toe
+clics-doculect-153-344,stan1293-std,concepticon-1257,4.392,wing,wing,wing
+clics-doculect-153-345,stan1293-std,concepticon-1201,4.393,feather,feather,feather
+clics-doculect-153-346,stan1293-std,concepticon-1592,4.4,chest,chest,chest
+clics-doculect-153-347,stan1293-std,concepticon-1402,4.41,breast,breast (of woman),breast
+clics-doculect-153-348,stan1293-std,concepticon-796,4.412,nipple,"nipple, teat",nipple
+clics-doculect-153-349,stan1293-std,concepticon-796,4.412,teat,"nipple, teat",teat
+clics-doculect-153-350,stan1293-std,concepticon-154,4.42,udder,udder,udder
+clics-doculect-153-351,stan1293-std,concepticon-1838,4.43,navel,navel,navel
+clics-doculect-153-352,stan1293-std,concepticon-1223,4.44,heart,heart,heart
+clics-doculect-153-353,stan1293-std,concepticon-688,4.441,lung,lung,lung
+clics-doculect-153-354,stan1293-std,concepticon-1224,4.45,liver,liver,liver
+clics-doculect-153-355,stan1293-std,concepticon-489,4.451,kidney,kidney,kidney
+clics-doculect-153-356,stan1293-std,concepticon-1744,4.452,spleen,spleen,spleen
+clics-doculect-153-357,stan1293-std,concepticon-819,4.46,stomach,stomach,stomach
+clics-doculect-153-358,stan1293-std,concepticon-1991,4.461,intestines,"intestines, guts",intestines
+clics-doculect-153-359,stan1293-std,concepticon-1991,4.461,guts,"intestines, guts",guts
+clics-doculect-153-360,stan1293-std,concepticon-1681,4.462,waist,waist,waist
+clics-doculect-153-361,stan1293-std,concepticon-1745,4.463,hip,hip,hip
+clics-doculect-153-362,stan1293-std,concepticon-834,4.464,buttocks,buttocks,buttocks
+clics-doculect-153-363,stan1293-std,concepticon-804,4.47,womb,womb,womb
+clics-doculect-153-364,stan1293-std,concepticon-797,4.49,testicle,testicle,testicle
+clics-doculect-153-365,stan1293-std,concepticon-1222,4.492,penis,penis,penis
+clics-doculect-153-366,stan1293-std,concepticon-1407,4.51,breathe,"breathe, breath",breathe
+clics-doculect-153-367,stan1293-std,concepticon-1407,4.51,breath,"breathe, breath",breath
+clics-doculect-153-368,stan1293-std,concepticon-1028,4.52,yawn,"yawn, gape",yawn
+clics-doculect-153-369,stan1293-std,concepticon-1028,4.52,gape,"yawn, gape",gape
+clics-doculect-153-370,stan1293-std,concepticon-162,4.521,hiccough,hiccough,hiccough
+clics-doculect-153-371,stan1293-std,concepticon-879,4.53,cough,cough,cough
+clics-doculect-153-372,stan1293-std,concepticon-1621,4.54,sneeze,sneeze,sneeze
+clics-doculect-153-373,stan1293-std,concepticon-126,4.55,perspire,perspire,perspire
+clics-doculect-153-374,stan1293-std,concepticon-1440,4.56,spit,spit,spit
+clics-doculect-153-375,stan1293-std,concepticon-1278,4.57,vomit,vomit,vomit
+clics-doculect-153-376,stan1293-std,concepticon-1403,4.58,bite,bite,bite
+clics-doculect-153-377,stan1293-std,concepticon-319,4.59,lick,lick,lick
+clics-doculect-153-378,stan1293-std,concepticon-268,4.591,dribble,dribble,dribble
+clics-doculect-153-379,stan1293-std,concepticon-1585,4.61,sleep,sleep,sleep
+clics-doculect-153-380,stan1293-std,concepticon-1983,4.612,snore,snore,snore
+clics-doculect-153-381,stan1293-std,concepticon-1920,4.62,dream,dream,dream
+clics-doculect-153-382,stan1293-std,concepticon-1602,4.63,wakeup,wake up,wakeup
+clics-doculect-153-383,stan1293-std,concepticon-1159,4.64,breakwind,break wind,breakwind
+clics-doculect-153-384,stan1293-std,concepticon-592,4.65,urinate,urinate,urinate
+clics-doculect-153-385,stan1293-std,concepticon-676,4.66,defecate,defecate,defecate
+clics-doculect-153-386,stan1293-std,concepticon-1785,4.67,havesexualintercourse,have sexual intercourse,havesexualintercourse
+clics-doculect-153-387,stan1293-std,concepticon-52,4.68,shiver,shiver,shiver
+clics-doculect-153-388,stan1293-std,concepticon-138,4.69,bathe,bathe,bathe
+clics-doculect-153-389,stan1293-std,concepticon-1152,4.71,beget,beget (of father),beget
+clics-doculect-153-390,stan1293-std,concepticon-1090,4.72,born,born (to be),born
+clics-doculect-153-391,stan1293-std,concepticon-1123,4.73,pregnant,pregnant,pregnant
+clics-doculect-153-392,stan1293-std,concepticon-1087,4.732,conceive,conceive,conceive
+clics-doculect-153-393,stan1293-std,concepticon-1422,4.74,live,"live, living, life",live
+clics-doculect-153-394,stan1293-std,concepticon-1422,4.74,living,"live, living, life",living
+clics-doculect-153-395,stan1293-std,concepticon-1422,4.74,life,"live, living, life",life
+clics-doculect-153-396,stan1293-std,concepticon-1494,4.75,die,"die, dead",die
+clics-doculect-153-397,stan1293-std,concepticon-1494,4.75,dead,"die, dead",dead
+clics-doculect-153-398,stan1293-std,concepticon-1904,4.751,drowned,drowned,drowned
+clics-doculect-153-399,stan1293-std,concepticon-1417,4.76,kill,kill,kill
+clics-doculect-153-400,stan1293-std,concepticon-767,4.77,corpse,corpse,corpse
+clics-doculect-153-401,stan1293-std,concepticon-1719,4.78,bury,bury (the dead),bury
+clics-doculect-153-402,stan1293-std,concepticon-1773,4.79,grave,"grave, tomb",grave
+clics-doculect-153-403,stan1293-std,concepticon-1773,4.79,tomb,"grave, tomb",tomb
+clics-doculect-153-404,stan1293-std,concepticon-785,4.81,strong,"strong, mighty, powerful",strong
+clics-doculect-153-405,stan1293-std,concepticon-785,4.81,mighty,"strong, mighty, powerful",mighty
+clics-doculect-153-406,stan1293-std,concepticon-785,4.81,powerful,"strong, mighty, powerful",powerful
+clics-doculect-153-407,stan1293-std,concepticon-1601,4.82,weak,weak,weak
+clics-doculect-153-408,stan1293-std,concepticon-1364,4.83,well,"well, health",well
+clics-doculect-153-409,stan1293-std,concepticon-1364,4.83,health,"well, health",health
+clics-doculect-153-410,stan1293-std,concepticon-1847,4.84,sick,"sick, sickness",sick
+clics-doculect-153-411,stan1293-std,concepticon-1847,4.84,sickness,"sick, sickness",sickness
+clics-doculect-153-412,stan1293-std,concepticon-1534,4.841,fever,fever,fever
+clics-doculect-153-413,stan1293-std,concepticon-1957,4.842,goiter,goiter,goiter
+clics-doculect-153-414,stan1293-std,concepticon-102,4.843,cold,cold (catarrh),cold
+clics-doculect-153-415,stan1293-std,concepticon-1109,4.85,wound,"wound, sore",wound
+clics-doculect-153-416,stan1293-std,concepticon-1109,4.85,sore,"wound, sore",sore
+clics-doculect-153-417,stan1293-std,concepticon-1148,4.852,bruise,bruise,bruise
+clics-doculect-153-418,stan1293-std,concepticon-1903,4.853,swelling,swelling,swelling
+clics-doculect-153-419,stan1293-std,concepticon-148,4.854,itch,itch,itch
+clics-doculect-153-420,stan1293-std,concepticon-1584,4.855,blister,blister,blister
+clics-doculect-153-421,stan1293-std,concepticon-793,4.856,boil,boil (noun),boil
+clics-doculect-153-422,stan1293-std,concepticon-1808,4.857,pus,pus,pus
+clics-doculect-153-423,stan1293-std,concepticon-497,4.858,scar,scar,scar
+clics-doculect-153-424,stan1293-std,concepticon-499,4.86,cure,"cure, heal",cure
+clics-doculect-153-425,stan1293-std,concepticon-499,4.86,heal,"cure, heal",heal
+clics-doculect-153-426,stan1293-std,concepticon-597,4.87,physician,physician,physician
+clics-doculect-153-427,stan1293-std,concepticon-1372,4.88,medicine,"medicine, drug",medicine
+clics-doculect-153-428,stan1293-std,concepticon-1372,4.88,drug,"medicine, drug",drug
+clics-doculect-153-429,stan1293-std,concepticon-655,4.89,poison,poison,poison
+clics-doculect-153-430,stan1293-std,concepticon-1757,4.91,tired,"tired, weary",tired
+clics-doculect-153-431,stan1293-std,concepticon-1757,4.91,weary,"tired, weary",weary
+clics-doculect-153-432,stan1293-std,concepticon-168,4.912,rest,rest,rest
+clics-doculect-153-433,stan1293-std,concepticon-1564,4.92,lazy,lazy,lazy
+clics-doculect-153-434,stan1293-std,concepticon-1125,4.93,bald,bald,bald
+clics-doculect-153-435,stan1293-std,concepticon-320,4.94,lame,lame,lame
+clics-doculect-153-436,stan1293-std,concepticon-996,4.95,deaf,deaf,deaf
+clics-doculect-153-437,stan1293-std,concepticon-1666,4.96,mute,mute,mute
+clics-doculect-153-438,stan1293-std,concepticon-1653,4.97,blind,blind,blind
+clics-doculect-153-439,stan1293-std,concepticon-1463,4.98,intoxicated,intoxicated,intoxicated
+clics-doculect-153-440,stan1293-std,concepticon-590,4.99,naked,"naked, bare",naked
+clics-doculect-153-441,stan1293-std,concepticon-590,4.99,bare,"naked, bare",bare
+clics-doculect-153-442,stan1293-std,concepticon-1336,5.11,eat,eat,eat
+clics-doculect-153-443,stan1293-std,concepticon-256,5.12,food,food,food
+clics-doculect-153-444,stan1293-std,concepticon-269,5.121,cooked,cooked,cooked
+clics-doculect-153-445,stan1293-std,concepticon-1959,5.122,raw,raw,raw
+clics-doculect-153-446,stan1293-std,concepticon-178,5.123,ripe,ripe,ripe
+clics-doculect-153-447,stan1293-std,concepticon-1958,5.124,green,"green, unripe",green
+clics-doculect-153-448,stan1293-std,concepticon-1958,5.124,unripe,"green, unripe",unripe
+clics-doculect-153-449,stan1293-std,concepticon-1728,5.125,rotten,rotten,rotten
+clics-doculect-153-450,stan1293-std,concepticon-1401,5.13,drink,drink,drink
+clics-doculect-153-451,stan1293-std,concepticon-1864,5.14,hunger,hunger,hunger
+clics-doculect-153-452,stan1293-std,concepticon-199,5.141,famine,famine,famine
+clics-doculect-153-453,stan1293-std,concepticon-848,5.15,thirst,thirst,thirst
+clics-doculect-153-454,stan1293-std,concepticon-1421,5.16,suck,suck,suck
+clics-doculect-153-455,stan1293-std,concepticon-321,5.18,chew,chew,chew
+clics-doculect-153-456,stan1293-std,concepticon-897,5.181,swallow,swallow,swallow
+clics-doculect-153-457,stan1293-std,concepticon-129,5.19,choke,choke,choke
+clics-doculect-153-458,stan1293-std,concepticon-1100,5.21,cook,cook,cook
+clics-doculect-153-459,stan1293-std,concepticon-792,5.22,boil,boil (vb),boil
+clics-doculect-153-460,stan1293-std,concepticon-2146,5.23,roast,"roast, fry",roast
+clics-doculect-153-461,stan1293-std,concepticon-2146,5.23,fry,"roast, fry",fry
+clics-doculect-153-462,stan1293-std,concepticon-183,5.24,bake,bake,bake
+clics-doculect-153-463,stan1293-std,concepticon-1143,5.25,oven,oven,oven
+clics-doculect-153-464,stan1293-std,concepticon-1462,5.26,pot,"pot, cooking vessel",pot
+clics-doculect-153-465,stan1293-std,concepticon-1462,5.26,cookingvessel,"pot, cooking vessel",cookingvessel
+clics-doculect-153-466,stan1293-std,concepticon-854,5.27,kettle,kettle,kettle
+clics-doculect-153-467,stan1293-std,concepticon-31,5.28,pan,pan,pan
+clics-doculect-153-468,stan1293-std,concepticon-481,5.31,dish,dish,dish
+clics-doculect-153-469,stan1293-std,concepticon-480,5.32,plate,plate,plate
+clics-doculect-153-470,stan1293-std,concepticon-1530,5.33,bowl,bowl,bowl
+clics-doculect-153-471,stan1293-std,concepticon-270,5.34,pitcher,"pitcher, jug",pitcher
+clics-doculect-153-472,stan1293-std,concepticon-270,5.34,jug,"pitcher, jug",jug
+clics-doculect-153-473,stan1293-std,concepticon-476,5.35,cup,"cup, drinking vessel",cup
+clics-doculect-153-474,stan1293-std,concepticon-476,5.35,drinkingvessel,"cup, drinking vessel",drinkingvessel
+clics-doculect-153-475,stan1293-std,concepticon-271,5.36,saucer,saucer,saucer
+clics-doculect-153-476,stan1293-std,concepticon-1378,5.37,spoon,spoon,spoon
+clics-doculect-153-477,stan1293-std,concepticon-1352,5.38,knife,knife,knife
+clics-doculect-153-478,stan1293-std,concepticon-337,5.39,fork,fork,fork
+clics-doculect-153-479,stan1293-std,concepticon-272,5.391,tongs,tongs,tongs
+clics-doculect-153-480,stan1293-std,concepticon-1526,5.41,meal,meal (a),meal
+clics-doculect-153-481,stan1293-std,concepticon-1322,5.42,breakfast,breakfast,breakfast
+clics-doculect-153-482,stan1293-std,concepticon-768,5.43,lunch,lunch,lunch
+clics-doculect-153-483,stan1293-std,concepticon-1833,5.44,dinner,dinner,dinner
+clics-doculect-153-484,stan1293-std,concepticon-1833,5.45,supper,supper,supper
+clics-doculect-153-485,stan1293-std,concepticon-275,5.46,peel,peel,peel
+clics-doculect-153-486,stan1293-std,concepticon-86,5.47,sieve,"sieve, strain",sieve
+clics-doculect-153-487,stan1293-std,concepticon-86,5.47,strain,"sieve, strain",strain
+clics-doculect-153-488,stan1293-std,concepticon-1767,5.48,scrape,scrape,scrape
+clics-doculect-153-489,stan1293-std,concepticon-2017,5.49,stir,"stir, mix",stir
+clics-doculect-153-490,stan1293-std,concepticon-2017,5.49,mix,"stir, mix",mix
+clics-doculect-153-491,stan1293-std,concepticon-1368,5.51,bread,bread,bread
+clics-doculect-153-492,stan1293-std,concepticon-273,5.53,dough,dough,dough
+clics-doculect-153-493,stan1293-std,concepticon-274,5.54,knead,knead,knead
+clics-doculect-153-494,stan1293-std,concepticon-1594,5.55,meal,"meal, flour",meal
+clics-doculect-153-495,stan1293-std,concepticon-1594,5.55,flour,"meal, flour",flour
+clics-doculect-153-496,stan1293-std,concepticon-1033,5.56,crush,"crush, grind",crush
+clics-doculect-153-497,stan1293-std,concepticon-1033,5.56,grind,"crush, grind",grind
+clics-doculect-153-498,stan1293-std,concepticon-636,5.57,mill,mill,mill
+clics-doculect-153-499,stan1293-std,concepticon-224,5.58,mortar,mortar,mortar
+clics-doculect-153-500,stan1293-std,concepticon-225,5.59,pestle,pestle,pestle
+clics-doculect-153-501,stan1293-std,concepticon-634,5.61,meat,meat,meat
+clics-doculect-153-502,stan1293-std,concepticon-1874,5.63,sausage,sausage,sausage
+clics-doculect-153-503,stan1293-std,concepticon-1547,5.64,soup,"soup, broth",soup
+clics-doculect-153-504,stan1293-std,concepticon-1547,5.64,broth,"soup, broth",broth
+clics-doculect-153-505,stan1293-std,concepticon-924,5.65,vegetables,vegetables,vegetables
+clics-doculect-153-506,stan1293-std,concepticon-832,5.66,bean,bean,bean
+clics-doculect-153-507,stan1293-std,concepticon-593,5.7,potato,potato,potato
+clics-doculect-153-508,stan1293-std,concepticon-1507,5.71,fruit,fruit,fruit
+clics-doculect-153-509,stan1293-std,concepticon-1966,5.712,bunch,bunch,bunch
+clics-doculect-153-510,stan1293-std,concepticon-322,5.75,fig,fig,fig
+clics-doculect-153-511,stan1293-std,concepticon-920,5.76,grape,grape,grape
+clics-doculect-153-512,stan1293-std,concepticon-191,5.77,nut,nut,nut
+clics-doculect-153-513,stan1293-std,concepticon-1154,5.78,olive,olive,olive
+clics-doculect-153-514,stan1293-std,concepticon-1484,5.79,oil,oil,oil
+clics-doculect-153-515,stan1293-std,concepticon-323,5.791,grease,"grease, fat",grease
+clics-doculect-153-516,stan1293-std,concepticon-323,5.791,fat,"grease, fat",fat
+clics-doculect-153-517,stan1293-std,concepticon-1274,5.81,salt,salt,salt
+clics-doculect-153-518,stan1293-std,concepticon-1385,5.82,pepper,pepper,pepper
+clics-doculect-153-519,stan1293-std,concepticon-919,5.821,chilipepper,chili pepper,chilipepper
+clics-doculect-153-520,stan1293-std,concepticon-942,5.84,honey,honey,honey
+clics-doculect-153-521,stan1293-std,concepticon-862,5.85,sugar,sugar,sugar
+clics-doculect-153-522,stan1293-std,concepticon-635,5.86,milk,milk (noun),milk
+clics-doculect-153-523,stan1293-std,concepticon-93,5.87,milk,milk (vb),milk
+clics-doculect-153-524,stan1293-std,concepticon-1569,5.88,cheese,cheese,cheese
+clics-doculect-153-525,stan1293-std,concepticon-1245,5.89,butter,butter,butter
+clics-doculect-153-526,stan1293-std,concepticon-731,5.9,beverage,"beverage, drink",beverage
+clics-doculect-153-527,stan1293-std,concepticon-731,5.9,drink,"beverage, drink",drink
+clics-doculect-153-528,stan1293-std,concepticon-941,5.91,mead,mead,mead
+clics-doculect-153-529,stan1293-std,concepticon-1524,5.92,wine,wine,wine
+clics-doculect-153-530,stan1293-std,concepticon-1639,5.93,beer,beer,beer
+clics-doculect-153-531,stan1293-std,concepticon-404,5.94,fermenteddrink,fermented drink,fermenteddrink
+clics-doculect-153-532,stan1293-std,concepticon-744,5.97,egg,egg,egg
+clics-doculect-153-533,stan1293-std,concepticon-1556,5.971,eggyolk,egg yolk,eggyolk
+clics-doculect-153-534,stan1293-std,concepticon-158,6.11,putonclothes,put on (clothes),putonclothes
+clics-doculect-153-535,stan1293-std,concepticon-1895,6.12,clothing,"clothing, clothes",clothing
+clics-doculect-153-536,stan1293-std,concepticon-1895,6.12,clothes,"clothing, clothes",clothes
+clics-doculect-153-537,stan1293-std,concepticon-881,6.13,tailor,tailor,tailor
+clics-doculect-153-538,stan1293-std,concepticon-1616,6.21,cloth,cloth,cloth
+clics-doculect-153-539,stan1293-std,concepticon-964,6.22,wool,wool,wool
+clics-doculect-153-540,stan1293-std,concepticon-916,6.23,linen,"linen, flax",linen
+clics-doculect-153-541,stan1293-std,concepticon-916,6.23,flax,"linen, flax",flax
+clics-doculect-153-542,stan1293-std,concepticon-1850,6.24,cotton,cotton,cotton
+clics-doculect-153-543,stan1293-std,concepticon-1641,6.25,silk,silk,silk
+clics-doculect-153-544,stan1293-std,concepticon-325,6.27,felt,felt,felt
+clics-doculect-153-545,stan1293-std,concepticon-580,6.28,fur,fur,fur
+clics-doculect-153-546,stan1293-std,concepticon-629,6.29,leather,leather,leather
+clics-doculect-153-547,stan1293-std,concepticon-121,6.31,spin,spin,spin
+clics-doculect-153-548,stan1293-std,concepticon-277,6.32,spindle,spindle,spindle
+clics-doculect-153-549,stan1293-std,concepticon-133,6.33,weave,weave,weave
+clics-doculect-153-550,stan1293-std,concepticon-1787,6.34,loom,loom,loom
+clics-doculect-153-551,stan1293-std,concepticon-1457,6.35,sew,sew,sew
+clics-doculect-153-552,stan1293-std,concepticon-1382,6.36,needle,needle,needle
+clics-doculect-153-553,stan1293-std,concepticon-278,6.37,awl,awl,awl
+clics-doculect-153-554,stan1293-std,concepticon-1161,6.38,thread,thread,thread
+clics-doculect-153-555,stan1293-std,concepticon-157,6.39,dye,dye,dye
+clics-doculect-153-556,stan1293-std,concepticon-326,6.41,cloak,cloak,cloak
+clics-doculect-153-557,stan1293-std,concepticon-327,6.411,poncho,poncho,poncho
+clics-doculect-153-558,stan1293-std,concepticon-474,6.42,woman'sdress,woman's dress,woman'sdress
+clics-doculect-153-559,stan1293-std,concepticon-603,6.43,coat,coat,coat
+clics-doculect-153-560,stan1293-std,concepticon-1622,6.44,shirt,shirt,shirt
+clics-doculect-153-561,stan1293-std,concepticon-2012,6.45,collar,collar,collar
+clics-doculect-153-562,stan1293-std,concepticon-1600,6.46,skirt,skirt,skirt
+clics-doculect-153-563,stan1293-std,concepticon-328,6.461,grassskirt,grass-skirt,grassskirt
+clics-doculect-153-564,stan1293-std,concepticon-809,6.48,trousers,trousers,trousers
+clics-doculect-153-565,stan1293-std,concepticon-329,6.49,stocking,"stocking, sock",stocking
+clics-doculect-153-566,stan1293-std,concepticon-329,6.49,sock,"stocking, sock",sock
+clics-doculect-153-567,stan1293-std,concepticon-1381,6.51,shoe,shoe,shoe
+clics-doculect-153-568,stan1293-std,concepticon-585,6.52,boot,boot,boot
+clics-doculect-153-569,stan1293-std,concepticon-875,6.54,shoemaker,"shoemaker, cobbler",shoemaker
+clics-doculect-153-570,stan1293-std,concepticon-875,6.54,cobbler,"shoemaker, cobbler",cobbler
+clics-doculect-153-571,stan1293-std,concepticon-2130,6.55,hat,"hat, cap",hat
+clics-doculect-153-572,stan1293-std,concepticon-2130,6.55,cap,"hat, cap",cap
+clics-doculect-153-573,stan1293-std,concepticon-772,6.57,belt,"belt, girdle",belt
+clics-doculect-153-574,stan1293-std,concepticon-772,6.57,girdle,"belt, girdle",girdle
+clics-doculect-153-575,stan1293-std,concepticon-867,6.58,glove,glove,glove
+clics-doculect-153-576,stan1293-std,concepticon-1151,6.59,veil,veil,veil
+clics-doculect-153-577,stan1293-std,concepticon-1851,6.61,pocket,pocket,pocket
+clics-doculect-153-578,stan1293-std,concepticon-757,6.62,button,button,button
+clics-doculect-153-579,stan1293-std,concepticon-64,6.63,pin,pin,pin
+clics-doculect-153-580,stan1293-std,concepticon-917,6.71,ornament,"ornament, adornment",ornament
+clics-doculect-153-581,stan1293-std,concepticon-917,6.71,adornment,"ornament, adornment",adornment
+clics-doculect-153-582,stan1293-std,concepticon-1029,6.72,jewel,jewel,jewel
+clics-doculect-153-583,stan1293-std,concepticon-1374,6.73,ring,ring (for finger),ring
+clics-doculect-153-584,stan1293-std,concepticon-1754,6.74,bracelet,bracelet,bracelet
+clics-doculect-153-585,stan1293-std,concepticon-1961,6.75,necklace,necklace,necklace
+clics-doculect-153-586,stan1293-std,concepticon-1860,6.76,bead,bead,bead
+clics-doculect-153-587,stan1293-std,concepticon-770,6.77,earring,earring,earring
+clics-doculect-153-588,stan1293-std,concepticon-330,6.78,headband,"headband, headdress",headband
+clics-doculect-153-589,stan1293-std,concepticon-330,6.78,headdress,"headband, headdress",headdress
+clics-doculect-153-590,stan1293-std,concepticon-68,6.79,tattoo,tattoo,tattoo
+clics-doculect-153-591,stan1293-std,concepticon-332,6.81,handkerchief,"handkerchief, rag",handkerchief
+clics-doculect-153-592,stan1293-std,concepticon-332,6.81,rag,"handkerchief, rag",rag
+clics-doculect-153-593,stan1293-std,concepticon-1021,6.82,towel,towel,towel
+clics-doculect-153-594,stan1293-std,concepticon-1475,6.91,comb,comb,comb
+clics-doculect-153-595,stan1293-std,concepticon-1821,6.92,brush,brush,brush
+clics-doculect-153-596,stan1293-std,concepticon-333,6.921,braid,braid,braid
+clics-doculect-153-597,stan1293-std,concepticon-151,6.93,razor,razor,razor
+clics-doculect-153-598,stan1293-std,concepticon-1926,6.94,ointment,ointment,ointment
+clics-doculect-153-599,stan1293-std,concepticon-788,6.95,soap,soap,soap
+clics-doculect-153-600,stan1293-std,concepticon-1171,6.96,mirror,mirror,mirror
+clics-doculect-153-601,stan1293-std,concepticon-363,7.11,dwell,"dwell, live",dwell
+clics-doculect-153-602,stan1293-std,concepticon-363,7.11,live,"dwell, live",live
+clics-doculect-153-603,stan1293-std,concepticon-1252,7.12,house,house,house
+clics-doculect-153-604,stan1293-std,concepticon-1678,7.13,hut,hut,hut
+clics-doculect-153-605,stan1293-std,concepticon-403,7.131,gardenhouse,garden-house,gardenhouse
+clics-doculect-153-606,stan1293-std,concepticon-1316,7.14,tent,tent,tent
+clics-doculect-153-607,stan1293-std,concepticon-736,7.15,yard,"yard, court",yard
+clics-doculect-153-608,stan1293-std,concepticon-736,7.15,court,"yard, court",court
+clics-doculect-153-609,stan1293-std,concepticon-408,7.16,men'shouse,men's house,men'shouse
+clics-doculect-153-610,stan1293-std,concepticon-334,7.17,cookhouse,cookhouse,cookhouse
+clics-doculect-153-611,stan1293-std,concepticon-335,7.18,meetinghouse,meeting house,meetinghouse
+clics-doculect-153-612,stan1293-std,concepticon-1450,7.21,room,room,room
+clics-doculect-153-613,stan1293-std,concepticon-1567,7.22,door,"door, gate",door
+clics-doculect-153-614,stan1293-std,concepticon-1567,7.22,gate,"door, gate",gate
+clics-doculect-153-615,stan1293-std,concepticon-80,7.221,doorpost,"doorpost, jamb",doorpost
+clics-doculect-153-616,stan1293-std,concepticon-80,7.221,jamb,"doorpost, jamb",jamb
+clics-doculect-153-617,stan1293-std,concepticon-1596,7.23,lock,lock (noun),lock
+clics-doculect-153-618,stan1293-std,concepticon-1012,7.231,latch,"latch, door-bolt",latch
+clics-doculect-153-619,stan1293-std,concepticon-1012,7.231,doorbolt,"latch, door-bolt",doorbolt
+clics-doculect-153-620,stan1293-std,concepticon-1472,7.24,key,key,key
+clics-doculect-153-621,stan1293-std,concepticon-1375,7.25,window,window,window
+clics-doculect-153-622,stan1293-std,concepticon-1632,7.26,floor,floor,floor
+clics-doculect-153-623,stan1293-std,concepticon-933,7.27,wall,wall,wall
+clics-doculect-153-624,stan1293-std,concepticon-185,7.31,fireplace,fireplace,fireplace
+clics-doculect-153-625,stan1293-std,concepticon-859,7.32,stove,stove,stove
+clics-doculect-153-626,stan1293-std,concepticon-1305,7.33,chimney,chimney,chimney
+clics-doculect-153-627,stan1293-std,concepticon-1464,7.37,ladder,ladder,ladder
+clics-doculect-153-628,stan1293-std,concepticon-1663,7.42,bed,bed,bed
+clics-doculect-153-629,stan1293-std,concepticon-1044,7.421,pillow,pillow,pillow
+clics-doculect-153-630,stan1293-std,concepticon-806,7.422,blanket,blanket,blanket
+clics-doculect-153-631,stan1293-std,concepticon-1476,7.43,chair,chair,chair
+clics-doculect-153-632,stan1293-std,concepticon-1775,7.44,table,table,table
+clics-doculect-153-633,stan1293-std,concepticon-2131,7.45,lamp,"lamp, torch",lamp
+clics-doculect-153-634,stan1293-std,concepticon-2131,7.45,torch,"lamp, torch",torch
+clics-doculect-153-635,stan1293-std,concepticon-1273,7.46,candle,candle,candle
+clics-doculect-153-636,stan1293-std,concepticon-745,7.47,shelf,shelf,shelf
+clics-doculect-153-637,stan1293-std,concepticon-205,7.48,trough,trough,trough
+clics-doculect-153-638,stan1293-std,concepticon-769,7.51,roof,roof,roof
+clics-doculect-153-639,stan1293-std,concepticon-279,7.52,thatch,thatch,thatch
+clics-doculect-153-640,stan1293-std,concepticon-280,7.53,ridgepole,ridgepole,ridgepole
+clics-doculect-153-641,stan1293-std,concepticon-829,7.54,rafter,rafter,rafter
+clics-doculect-153-642,stan1293-std,concepticon-1132,7.55,beam,beam,beam
+clics-doculect-153-643,stan1293-std,concepticon-281,7.56,post,"post, pole",post
+clics-doculect-153-644,stan1293-std,concepticon-281,7.56,pole,"post, pole",pole
+clics-doculect-153-645,stan1293-std,concepticon-1227,7.57,board,board,board
+clics-doculect-153-646,stan1293-std,concepticon-876,7.58,arch,arch,arch
+clics-doculect-153-647,stan1293-std,concepticon-877,7.61,mason,mason,mason
+clics-doculect-153-648,stan1293-std,concepticon-1006,7.62,brick,brick,brick
+clics-doculect-153-649,stan1293-std,concepticon-224,7.63,mortar,mortar,mortar
+clics-doculect-153-650,stan1293-std,concepticon-901,7.64,adobe,adobe,adobe
+clics-doculect-153-651,stan1293-std,concepticon-979,8.11,farmer,farmer,farmer
+clics-doculect-153-652,stan1293-std,concepticon-212,8.12,field,field (for cultivation),field
+clics-doculect-153-653,stan1293-std,concepticon-586,8.13,garden,garden,garden
+clics-doculect-153-654,stan1293-std,concepticon-1541,8.15,cultivate,"cultivate, till",cultivate
+clics-doculect-153-655,stan1293-std,concepticon-1541,8.15,till,"cultivate, till",till
+clics-doculect-153-656,stan1293-std,concepticon-1690,8.16,fence,fence,fence
+clics-doculect-153-657,stan1293-std,concepticon-2002,8.17,ditch,ditch,ditch
+clics-doculect-153-658,stan1293-std,concepticon-1921,8.21,plow,plow,plow
+clics-doculect-153-659,stan1293-std,concepticon-1794,8.212,furrow,furrow,furrow
+clics-doculect-153-660,stan1293-std,concepticon-1418,8.22,dig,dig,dig
+clics-doculect-153-661,stan1293-std,concepticon-1176,8.23,spade,spade,spade
+clics-doculect-153-662,stan1293-std,concepticon-1901,8.24,shovel,shovel,shovel
+clics-doculect-153-663,stan1293-std,concepticon-284,8.25,hoe,hoe,hoe
+clics-doculect-153-664,stan1293-std,concepticon-337,8.26,fork,fork,fork
+clics-doculect-153-665,stan1293-std,concepticon-338,8.27,rake,rake,rake
+clics-doculect-153-666,stan1293-std,concepticon-1351,8.31,sow,sow,sow
+clics-doculect-153-667,stan1293-std,concepticon-714,8.311,seed,seed,seed
+clics-doculect-153-668,stan1293-std,concepticon-190,8.32,mow,"mow, reap",mow
+clics-doculect-153-669,stan1293-std,concepticon-190,8.32,reap,"mow, reap",reap
+clics-doculect-153-670,stan1293-std,concepticon-2132,8.33,sickle,"sickle, scythe",sickle
+clics-doculect-153-671,stan1293-std,concepticon-2132,8.33,scythe,"sickle, scythe",scythe
+clics-doculect-153-672,stan1293-std,concepticon-285,8.34,thresh,thresh,thresh
+clics-doculect-153-673,stan1293-std,concepticon-223,8.35,threshingfloor,threshing-floor,threshingfloor
+clics-doculect-153-674,stan1293-std,concepticon-611,8.41,crop,"crop, harvest",crop
+clics-doculect-153-675,stan1293-std,concepticon-611,8.41,harvest,"crop, harvest",harvest
+clics-doculect-153-676,stan1293-std,concepticon-605,8.42,grain,"grain (barley, oats etc)",grain
+clics-doculect-153-677,stan1293-std,concepticon-1077,8.43,wheat,wheat,wheat
+clics-doculect-153-678,stan1293-std,concepticon-932,8.44,barley,barley,barley
+clics-doculect-153-679,stan1293-std,concepticon-23,8.45,rye,rye,rye
+clics-doculect-153-680,stan1293-std,concepticon-60,8.46,oats,oats,oats
+clics-doculect-153-681,stan1293-std,concepticon-506,8.47,maize,"maize, corn",maize
+clics-doculect-153-682,stan1293-std,concepticon-506,8.47,corn,"maize, corn",corn
+clics-doculect-153-683,stan1293-std,concepticon-926,8.48,rice,rice,rice
+clics-doculect-153-684,stan1293-std,concepticon-606,8.51,grass,grass,grass
+clics-doculect-153-685,stan1293-std,concepticon-342,8.52,hay,hay,hay
+clics-doculect-153-686,stan1293-std,concepticon-653,8.53,plant,plant (noun),plant
+clics-doculect-153-687,stan1293-std,concepticon-1486,8.531,plant,plant (vb),plant
+clics-doculect-153-688,stan1293-std,concepticon-670,8.54,root,root,root
+clics-doculect-153-689,stan1293-std,concepticon-1531,8.55,branch,branch,branch
+clics-doculect-153-690,stan1293-std,concepticon-628,8.56,leaf,leaf,leaf
+clics-doculect-153-691,stan1293-std,concepticon-239,8.57,flower,flower,flower
+clics-doculect-153-692,stan1293-std,concepticon-906,8.6,tree,tree,tree
+clics-doculect-153-693,stan1293-std,concepticon-644,8.61,oak,oak,oak
+clics-doculect-153-694,stan1293-std,concepticon-1950,8.62,beech,beech,beech
+clics-doculect-153-695,stan1293-std,concepticon-1855,8.63,birch,birch,birch
+clics-doculect-153-696,stan1293-std,concepticon-1740,8.64,pine,pine,pine
+clics-doculect-153-697,stan1293-std,concepticon-1915,8.65,fir,fir,fir
+clics-doculect-153-698,stan1293-std,concepticon-968,8.66,acorn,acorn,acorn
+clics-doculect-153-699,stan1293-std,concepticon-343,8.67,vine,vine,vine
+clics-doculect-153-700,stan1293-std,concepticon-974,8.68,tobacco,tobacco,tobacco
+clics-doculect-153-701,stan1293-std,concepticon-1689,8.69,smoke,smoke (tobacco),smoke
+clics-doculect-153-702,stan1293-std,concepticon-1124,8.691,pipe,pipe,pipe
+clics-doculect-153-703,stan1293-std,concepticon-241,8.72,treestump,tree stump,treestump
+clics-doculect-153-704,stan1293-std,concepticon-344,8.73,treetrunk,tree trunk,treetrunk
+clics-doculect-153-705,stan1293-std,concepticon-409,8.74,forkedbranch,forked branch,forkedbranch
+clics-doculect-153-706,stan1293-std,concepticon-1204,8.75,bark,bark,bark
+clics-doculect-153-707,stan1293-std,concepticon-345,8.76,sap,sap,sap
+clics-doculect-153-708,stan1293-std,concepticon-1181,8.81,palmtree,palm tree,palmtree
+clics-doculect-153-709,stan1293-std,concepticon-970,8.82,coconut,coconut,coconut
+clics-doculect-153-710,stan1293-std,concepticon-1126,8.83,citrusfruit,citrus fruit,citrusfruit
+clics-doculect-153-711,stan1293-std,concepticon-868,8.84,bananatree,banana tree,bananatree
+clics-doculect-153-712,stan1293-std,concepticon-346,8.85,banyan,banyan,banyan
+clics-doculect-153-713,stan1293-std,concepticon-159,8.91,sweetpotato,sweet potato,sweetpotato
+clics-doculect-153-714,stan1293-std,concepticon-410,8.912,yam,yam,yam
+clics-doculect-153-715,stan1293-std,concepticon-925,8.92,tapioca,"tapioca, manioc, cassava",tapioca
+clics-doculect-153-716,stan1293-std,concepticon-925,8.92,manioc,"tapioca, manioc, cassava",manioc
+clics-doculect-153-717,stan1293-std,concepticon-925,8.92,cassava,"tapioca, manioc, cassava",cassava
+clics-doculect-153-718,stan1293-std,concepticon-411,8.93,gourd,gourd,gourd
+clics-doculect-153-719,stan1293-std,concepticon-864,8.931,pumpkin,"pumpkin, squash",pumpkin
+clics-doculect-153-720,stan1293-std,concepticon-864,8.931,squash,"pumpkin, squash",squash
+clics-doculect-153-721,stan1293-std,concepticon-1927,8.94,bamboo,bamboo,bamboo
+clics-doculect-153-722,stan1293-std,concepticon-146,8.941,sugarcane,sugar cane,sugarcane
+clics-doculect-153-723,stan1293-std,concepticon-348,8.96,fishpoison,fish poison (root),fishpoison
+clics-doculect-153-724,stan1293-std,concepticon-33,8.97,nettle,nettle,nettle
+clics-doculect-153-725,stan1293-std,concepticon-641,8.98,mushroom,mushroom,mushroom
+clics-doculect-153-726,stan1293-std,concepticon-2575,9.11,do,"do, make",do
+clics-doculect-153-727,stan1293-std,concepticon-2575,9.11,make,"do, make",make
+clics-doculect-153-728,stan1293-std,concepticon-984,9.12,work,work,work
+clics-doculect-153-729,stan1293-std,concepticon-2004,9.14,bend,bend,bend
+clics-doculect-153-730,stan1293-std,concepticon-1470,9.15,fold,fold,fold
+clics-doculect-153-731,stan1293-std,concepticon-1917,9.16,tie,"tie, bind",tie
+clics-doculect-153-732,stan1293-std,concepticon-1917,9.16,bind,"tie, bind",bind
+clics-doculect-153-733,stan1293-std,concepticon-352,9.161,untie,untie,untie
+clics-doculect-153-734,stan1293-std,concepticon-1627,9.18,chain,chain,chain
+clics-doculect-153-735,stan1293-std,concepticon-1218,9.19,rope,"rope, cord",rope
+clics-doculect-153-736,stan1293-std,concepticon-1218,9.19,cord,"rope, cord",cord
+clics-doculect-153-737,stan1293-std,concepticon-760,9.192,knot,knot (noun),knot
+clics-doculect-153-738,stan1293-std,concepticon-2133,9.21,strike,"strike (hit, beat)",strike
+clics-doculect-153-739,stan1293-std,concepticon-2133,9.21,hit,"strike (hit, beat)",hit
+clics-doculect-153-740,stan1293-std,concepticon-2133,9.21,beat,"strike (hit, beat)",beat
+clics-doculect-153-741,stan1293-std,concepticon-354,9.211,poundwithfist,pound with fist,poundwithfist
+clics-doculect-153-742,stan1293-std,concepticon-1432,9.22,cut,cut,cut
+clics-doculect-153-743,stan1293-std,concepticon-355,9.221,cutdown,cut down,cutdown
+clics-doculect-153-744,stan1293-std,concepticon-155,9.222,chop,"chop, hew",chop
+clics-doculect-153-745,stan1293-std,concepticon-155,9.222,hew,"chop, hew",hew
+clics-doculect-153-746,stan1293-std,concepticon-1434,9.223,stab,stab,stab
+clics-doculect-153-747,stan1293-std,concepticon-1352,9.23,knife,knife,knife
+clics-doculect-153-748,stan1293-std,concepticon-356,9.24,scissors,"scissors, shears",scissors
+clics-doculect-153-749,stan1293-std,concepticon-356,9.24,shears,"scissors, shears",shears
+clics-doculect-153-750,stan1293-std,concepticon-677,9.25,ax,ax,ax
+clics-doculect-153-751,stan1293-std,concepticon-290,9.251,adze,adze,adze
+clics-doculect-153-752,stan1293-std,concepticon-680,9.26,break,break,break
+clics-doculect-153-753,stan1293-std,concepticon-588,9.261,broken,broken,broken
+clics-doculect-153-754,stan1293-std,concepticon-1437,9.27,split,split,split
+clics-doculect-153-755,stan1293-std,concepticon-1735,9.28,tear,tear,tear
+clics-doculect-153-756,stan1293-std,concepticon-291,9.29,flay,"flay, skin",flay
+clics-doculect-153-757,stan1293-std,concepticon-291,9.29,skin,"flay, skin",skin
+clics-doculect-153-758,stan1293-std,concepticon-1449,9.31,rub,"rub, wipe",rub
+clics-doculect-153-759,stan1293-std,concepticon-1449,9.31,wipe,"rub, wipe",wipe
+clics-doculect-153-760,stan1293-std,concepticon-214,9.32,stretch,stretch,stretch
+clics-doculect-153-761,stan1293-std,concepticon-1455,9.33,pull,pull,pull
+clics-doculect-153-762,stan1293-std,concepticon-38,9.34,spreadout,spread out,spreadout
+clics-doculect-153-763,stan1293-std,concepticon-357,9.341,hangup,hang up,hangup
+clics-doculect-153-764,stan1293-std,concepticon-1913,9.342,press,press,press
+clics-doculect-153-765,stan1293-std,concepticon-1414,9.343,squeeze,"squeeze, wring",squeeze
+clics-doculect-153-766,stan1293-std,concepticon-1414,9.343,wring,"squeeze, wring",wring
+clics-doculect-153-767,stan1293-std,concepticon-1487,9.35,pour,pour,pour
+clics-doculect-153-768,stan1293-std,concepticon-1453,9.36,wash,wash,wash
+clics-doculect-153-769,stan1293-std,concepticon-230,9.37,sweep,sweep,sweep
+clics-doculect-153-770,stan1293-std,concepticon-245,9.38,broom,broom,broom
+clics-doculect-153-771,stan1293-std,concepticon-1361,9.422,tool,tool,tool
+clics-doculect-153-772,stan1293-std,concepticon-1042,9.43,carpenter,carpenter,carpenter
+clics-doculect-153-773,stan1293-std,concepticon-1840,9.44,build,build,build
+clics-doculect-153-774,stan1293-std,concepticon-1501,9.46,bore,bore,bore
+clics-doculect-153-775,stan1293-std,concepticon-46,9.461,hollowout,hollow out,hollowout
+clics-doculect-153-776,stan1293-std,concepticon-1948,9.48,saw,saw,saw
+clics-doculect-153-777,stan1293-std,concepticon-1481,9.49,hammer,hammer,hammer
+clics-doculect-153-778,stan1293-std,concepticon-502,9.5,nail,nail,nail
+clics-doculect-153-779,stan1293-std,concepticon-1069,9.56,glue,glue,glue
+clics-doculect-153-780,stan1293-std,concepticon-1001,9.6,smith,"smith, blacksmith",smith
+clics-doculect-153-781,stan1293-std,concepticon-1001,9.6,blacksmith,"smith, blacksmith",blacksmith
+clics-doculect-153-782,stan1293-std,concepticon-288,9.61,forge,forge,forge
+clics-doculect-153-783,stan1293-std,concepticon-1648,9.62,anvil,anvil,anvil
+clics-doculect-153-784,stan1293-std,concepticon-211,9.63,castmetals,cast (metals),castmetals
+clics-doculect-153-785,stan1293-std,concepticon-1369,9.64,gold,gold,gold
+clics-doculect-153-786,stan1293-std,concepticon-759,9.65,silver,silver,silver
+clics-doculect-153-787,stan1293-std,concepticon-1825,9.66,copper,"copper, bronze",copper
+clics-doculect-153-788,stan1293-std,concepticon-1825,9.66,bronze,"copper, bronze",bronze
+clics-doculect-153-789,stan1293-std,concepticon-621,9.67,iron,iron,iron
+clics-doculect-153-790,stan1293-std,concepticon-627,9.68,lead,lead (noun),lead
+clics-doculect-153-791,stan1293-std,concepticon-358,9.69,tin,"tin, tinplate",tin
+clics-doculect-153-792,stan1293-std,concepticon-358,9.69,tinplate,"tin, tinplate",tinplate
+clics-doculect-153-793,stan1293-std,concepticon-359,9.71,potter,potter,potter
+clics-doculect-153-794,stan1293-std,concepticon-289,9.72,mold,mold (clay etc),mold
+clics-doculect-153-795,stan1293-std,concepticon-1399,9.73,clay,clay,clay
+clics-doculect-153-796,stan1293-std,concepticon-604,9.74,glass,glass,glass
+clics-doculect-153-797,stan1293-std,concepticon-1729,9.75,weave,"weave, plait",weave
+clics-doculect-153-798,stan1293-std,concepticon-1729,9.75,plait,"weave, plait",plait
+clics-doculect-153-799,stan1293-std,concepticon-1539,9.76,basket,basket,basket
+clics-doculect-153-800,stan1293-std,concepticon-195,9.77,mat,mat,mat
+clics-doculect-153-801,stan1293-std,concepticon-292,9.771,rug,rug,rug
+clics-doculect-153-802,stan1293-std,concepticon-293,9.78,netbag,netbag,netbag
+clics-doculect-153-803,stan1293-std,concepticon-1971,9.79,fan,fan (noun),fan
+clics-doculect-153-804,stan1293-std,concepticon-360,9.791,fan,fan (vb),fan
+clics-doculect-153-805,stan1293-std,concepticon-228,9.81,carve,carve,carve
+clics-doculect-153-806,stan1293-std,concepticon-914,9.82,sculptor,sculptor,sculptor
+clics-doculect-153-807,stan1293-std,concepticon-1002,9.83,statue,statue,statue
+clics-doculect-153-808,stan1293-std,concepticon-1979,9.84,chisel,chisel,chisel
+clics-doculect-153-809,stan1293-std,concepticon-647,9.88,paint,paint (noun),paint
+clics-doculect-153-810,stan1293-std,concepticon-2001,9.89,paint,paint (vb),paint
+clics-doculect-153-811,stan1293-std,concepticon-765,10.11,move,move,move
+clics-doculect-153-812,stan1293-std,concepticon-1588,10.12,turnover,turn over,turnover
+clics-doculect-153-813,stan1293-std,concepticon-1445,10.13,turnaround,turn around,turnaround
+clics-doculect-153-814,stan1293-std,concepticon-1113,10.14,wind,"wind, wrap",wind
+clics-doculect-153-815,stan1293-std,concepticon-1113,10.14,wrap,"wind, wrap",wrap
+clics-doculect-153-816,stan1293-std,concepticon-827,10.15,roll,roll,roll
+clics-doculect-153-817,stan1293-std,concepticon-808,10.16,drop,drop (vb),drop
+clics-doculect-153-818,stan1293-std,concepticon-430,10.17,twist,twist,twist
+clics-doculect-153-819,stan1293-std,concepticon-568,10.21,rise,rise,rise
+clics-doculect-153-820,stan1293-std,concepticon-501,10.22,raise,"raise, lift",raise
+clics-doculect-153-821,stan1293-std,concepticon-501,10.22,lift,"raise, lift",lift
+clics-doculect-153-822,stan1293-std,concepticon-1280,10.23,fall,fall,fall
+clics-doculect-153-823,stan1293-std,concepticon-2253,10.24,drip,drip,drip
+clics-doculect-153-824,stan1293-std,concepticon-1456,10.25,throw,throw,throw
+clics-doculect-153-825,stan1293-std,concepticon-702,10.252,catchball,catch (ball),catchball
+clics-doculect-153-826,stan1293-std,concepticon-1909,10.26,shake,shake,shake
+clics-doculect-153-827,stan1293-std,concepticon-2003,10.32,flow,flow,flow
+clics-doculect-153-828,stan1293-std,concepticon-1088,10.33,sink,sink,sink
+clics-doculect-153-829,stan1293-std,concepticon-1574,10.34,float,float,float
+clics-doculect-153-830,stan1293-std,concepticon-1439,10.35,swim,swim,swim
+clics-doculect-153-831,stan1293-std,concepticon-119,10.351,dive,dive,dive
+clics-doculect-153-832,stan1293-std,concepticon-365,10.352,splash,splash,splash
+clics-doculect-153-833,stan1293-std,concepticon-787,10.36,sail,sail (vb),sail
+clics-doculect-153-834,stan1293-std,concepticon-1441,10.37,fly,fly (vb),fly
+clics-doculect-153-835,stan1293-std,concepticon-175,10.38,blow,blow,blow
+clics-doculect-153-836,stan1293-std,concepticon-96,10.41,creep,"creep, crawl",creep
+clics-doculect-153-837,stan1293-std,concepticon-96,10.41,crawl,"creep, crawl",crawl
+clics-doculect-153-838,stan1293-std,concepticon-66,10.412,kneel,kneel,kneel
+clics-doculect-153-839,stan1293-std,concepticon-296,10.413,crouch,crouch,crouch
+clics-doculect-153-840,stan1293-std,concepticon-1324,10.42,slide,"slide, slip",slide
+clics-doculect-153-841,stan1293-std,concepticon-1324,10.42,slip,"slide, slip",slip
+clics-doculect-153-842,stan1293-std,concepticon-1829,10.43,jump,"jump, leap",jump
+clics-doculect-153-843,stan1293-std,concepticon-1829,10.43,leap,"jump, leap",leap
+clics-doculect-153-844,stan1293-std,concepticon-1135,10.431,kick,kick,kick
+clics-doculect-153-845,stan1293-std,concepticon-1879,10.44,dance,dance,dance
+clics-doculect-153-846,stan1293-std,concepticon-1443,10.45,walk,walk,walk
+clics-doculect-153-847,stan1293-std,concepticon-366,10.451,limp,limp,limp
+clics-doculect-153-848,stan1293-std,concepticon-1519,10.46,run,run,run
+clics-doculect-153-849,stan1293-std,concepticon-695,10.47,go,go,go
+clics-doculect-153-850,stan1293-std,concepticon-705,10.471,goup,go up,goup
+clics-doculect-153-851,stan1293-std,concepticon-1102,10.472,climb,climb,climb
+clics-doculect-153-852,stan1293-std,concepticon-2014,10.473,godown,go down,godown
+clics-doculect-153-853,stan1293-std,concepticon-1107,10.474,goout,go out,goout
+clics-doculect-153-854,stan1293-std,concepticon-1446,10.48,come,come,come
+clics-doculect-153-855,stan1293-std,concepticon-581,10.481,comeback,come back,comeback
+clics-doculect-153-856,stan1293-std,concepticon-1752,10.49,goaway,"go away, depart",goaway
+clics-doculect-153-857,stan1293-std,concepticon-1752,10.49,depart,"go away, depart",depart
+clics-doculect-153-858,stan1293-std,concepticon-485,10.491,disappear,disappear,disappear
+clics-doculect-153-859,stan1293-std,concepticon-956,10.51,flee,flee,flee
+clics-doculect-153-860,stan1293-std,concepticon-1085,10.52,follow,follow,follow
+clics-doculect-153-861,stan1293-std,concepticon-1047,10.53,pursue,pursue,pursue
+clics-doculect-153-862,stan1293-std,concepticon-1387,10.55,reach,"reach, arrive",reach
+clics-doculect-153-863,stan1293-std,concepticon-1387,10.55,arrive,"reach, arrive",arrive
+clics-doculect-153-864,stan1293-std,concepticon-1778,10.56,approach,approach,approach
+clics-doculect-153-865,stan1293-std,concepticon-749,10.57,enter,enter,enter
+clics-doculect-153-866,stan1293-std,concepticon-700,10.61,carry,carry (bear),carry
+clics-doculect-153-867,stan1293-std,concepticon-412,10.612,carryinhand,carry-in-hand,carryinhand
+clics-doculect-153-868,stan1293-std,concepticon-413,10.613,carryonshoulder,carry-on-shoulder,carryonshoulder
+clics-doculect-153-869,stan1293-std,concepticon-414,10.614,carryonhead,carry-on-head,carryonhead
+clics-doculect-153-870,stan1293-std,concepticon-415,10.615,carryunderarm,carry-underarm,carryunderarm
+clics-doculect-153-871,stan1293-std,concepticon-692,10.62,bring,bring,bring
+clics-doculect-153-872,stan1293-std,concepticon-1127,10.63,send,send,send
+clics-doculect-153-873,stan1293-std,concepticon-43,10.64,lead,lead (vb),lead
+clics-doculect-153-874,stan1293-std,concepticon-741,10.65,drive,drive,drive
+clics-doculect-153-875,stan1293-std,concepticon-367,10.66,ride,ride,ride
+clics-doculect-153-876,stan1293-std,concepticon-1452,10.67,push,"push, shove",push
+clics-doculect-153-877,stan1293-std,concepticon-1452,10.67,shove,"push, shove",shove
+clics-doculect-153-878,stan1293-std,concepticon-667,10.71,road,road,road
+clics-doculect-153-879,stan1293-std,concepticon-2252,10.72,path,path,path
+clics-doculect-153-880,stan1293-std,concepticon-1011,10.74,bridge,bridge,bridge
+clics-doculect-153-881,stan1293-std,concepticon-122,10.75,carriage,"carriage, wagon, cart",carriage
+clics-doculect-153-882,stan1293-std,concepticon-122,10.75,wagon,"carriage, wagon, cart",wagon
+clics-doculect-153-883,stan1293-std,concepticon-122,10.75,cart,"carriage, wagon, cart",cart
+clics-doculect-153-884,stan1293-std,concepticon-710,10.76,wheel,wheel,wheel
+clics-doculect-153-885,stan1293-std,concepticon-1769,10.77,axle,axle,axle
+clics-doculect-153-886,stan1293-std,concepticon-14,10.78,yoke,yoke,yoke
+clics-doculect-153-887,stan1293-std,concepticon-740,10.81,ship,ship,ship
+clics-doculect-153-888,stan1293-std,concepticon-1844,10.83,boat,boat,boat
+clics-doculect-153-889,stan1293-std,concepticon-1970,10.831,canoe,canoe,canoe
+clics-doculect-153-890,stan1293-std,concepticon-416,10.832,outrigger,outrigger,outrigger
+clics-doculect-153-891,stan1293-std,concepticon-1664,10.84,raft,raft,raft
+clics-doculect-153-892,stan1293-std,concepticon-108,10.85,oar,oar,oar
+clics-doculect-153-893,stan1293-std,concepticon-234,10.851,paddle,paddle (noun),paddle
+clics-doculect-153-894,stan1293-std,concepticon-1849,10.852,row,row (vb),row
+clics-doculect-153-895,stan1293-std,concepticon-108,10.86,rudder,rudder,rudder
+clics-doculect-153-896,stan1293-std,concepticon-184,10.87,mast,mast,mast
+clics-doculect-153-897,stan1293-std,concepticon-786,10.88,sail,sail (noun),sail
+clics-doculect-153-898,stan1293-std,concepticon-1870,10.89,anchor,anchor,anchor
+clics-doculect-153-899,stan1293-std,concepticon-610,10.91,harbor,"harbor, port",harbor
+clics-doculect-153-900,stan1293-std,concepticon-610,10.91,port,"harbor, port",port
+clics-doculect-153-901,stan1293-std,concepticon-1922,10.92,land,land (vb),land
+clics-doculect-153-902,stan1293-std,concepticon-773,11.11,have,have,have
+clics-doculect-153-903,stan1293-std,concepticon-684,11.12,own,"own, possess",own
+clics-doculect-153-904,stan1293-std,concepticon-684,11.12,possess,"own, possess",possess
+clics-doculect-153-905,stan1293-std,concepticon-1749,11.13,take,take,take
+clics-doculect-153-906,stan1293-std,concepticon-2021,11.14,seize,"seize, grasp",seize
+clics-doculect-153-907,stan1293-std,concepticon-2021,11.14,grasp,"seize, grasp",grasp
+clics-doculect-153-908,stan1293-std,concepticon-1448,11.15,hold,hold,hold
+clics-doculect-153-909,stan1293-std,concepticon-694,11.16,get,"get, obtain",get
+clics-doculect-153-910,stan1293-std,concepticon-694,11.16,obtain,"get, obtain",obtain
+clics-doculect-153-911,stan1293-std,concepticon-1477,11.17,keep,"keep, retain",keep
+clics-doculect-153-912,stan1293-std,concepticon-1477,11.17,retain,"keep, retain",retain
+clics-doculect-153-913,stan1293-std,concepticon-738,11.18,thing,thing,thing
+clics-doculect-153-914,stan1293-std,concepticon-1447,11.21,give,give,give
+clics-doculect-153-915,stan1293-std,concepticon-85,11.22,giveback,give back,giveback
+clics-doculect-153-916,stan1293-std,concepticon-1997,11.24,preserve,"preserve, look after",preserve
+clics-doculect-153-917,stan1293-std,concepticon-1997,11.24,lookafter,"preserve, look after",lookafter
+clics-doculect-153-918,stan1293-std,concepticon-2008,11.25,save,"save, rescue",save
+clics-doculect-153-919,stan1293-std,concepticon-2008,11.25,rescue,"save, rescue",rescue
+clics-doculect-153-920,stan1293-std,concepticon-681,11.27,destroy,destroy,destroy
+clics-doculect-153-921,stan1293-std,concepticon-44,11.28,harm,"harm, injure, damage",harm
+clics-doculect-153-922,stan1293-std,concepticon-44,11.28,injure,"harm, injure, damage",injure
+clics-doculect-153-923,stan1293-std,concepticon-44,11.28,damage,"harm, injure, damage",damage
+clics-doculect-153-924,stan1293-std,concepticon-1468,11.31,seek,"seek, look for",seek
+clics-doculect-153-925,stan1293-std,concepticon-1468,11.31,lookfor,"seek, look for",lookfor
+clics-doculect-153-926,stan1293-std,concepticon-719,11.32,find,find,find
+clics-doculect-153-927,stan1293-std,concepticon-1660,11.33,lose,lose,lose
+clics-doculect-153-928,stan1293-std,concepticon-1095,11.34,release,"release, let go",release
+clics-doculect-153-929,stan1293-std,concepticon-1095,11.34,letgo,"release, let go",letgo
+clics-doculect-153-930,stan1293-std,concepticon-1559,11.43,money,money,money
+clics-doculect-153-931,stan1293-std,concepticon-1867,11.44,coin,coin,coin
+clics-doculect-153-932,stan1293-std,concepticon-712,11.51,rich,rich,rich
+clics-doculect-153-933,stan1293-std,concepticon-1674,11.52,poor,poor,poor
+clics-doculect-153-934,stan1293-std,concepticon-1934,11.53,beggar,beggar,beggar
+clics-doculect-153-935,stan1293-std,concepticon-1774,11.54,avaricious,"avaricious, stingy",avaricious
+clics-doculect-153-936,stan1293-std,concepticon-1774,11.54,stingy,"avaricious, stingy",stingy
+clics-doculect-153-937,stan1293-std,concepticon-582,11.61,lend,lend,lend
+clics-doculect-153-938,stan1293-std,concepticon-1823,11.62,borrow,borrow,borrow
+clics-doculect-153-939,stan1293-std,concepticon-369,11.63,owe,owe,owe
+clics-doculect-153-940,stan1293-std,concepticon-1914,11.64,debt,debt,debt
+clics-doculect-153-941,stan1293-std,concepticon-718,11.65,pay,pay (vb),pay
+clics-doculect-153-942,stan1293-std,concepticon-1081,11.66,account,"account, reckoning",account
+clics-doculect-153-943,stan1293-std,concepticon-1081,11.66,reckoning,"account, reckoning",reckoning
+clics-doculect-153-944,stan1293-std,concepticon-873,11.69,tax,"tax, tribute",tax
+clics-doculect-153-945,stan1293-std,concepticon-873,11.69,tribute,"tax, tribute",tribute
+clics-doculect-153-946,stan1293-std,concepticon-856,11.77,hire,hire,hire
+clics-doculect-153-947,stan1293-std,concepticon-1122,11.78,wages,wages,wages
+clics-doculect-153-948,stan1293-std,concepticon-733,11.79,earn,earn,earn
+clics-doculect-153-949,stan1293-std,concepticon-1869,11.81,buy,buy,buy
+clics-doculect-153-950,stan1293-std,concepticon-1571,11.82,sell,sell,sell
+clics-doculect-153-951,stan1293-std,concepticon-2135,11.83,trade,"trade, barter",trade
+clics-doculect-153-952,stan1293-std,concepticon-2135,11.83,barter,"trade, barter",barter
+clics-doculect-153-953,stan1293-std,concepticon-1082,11.84,merchant,merchant,merchant
+clics-doculect-153-954,stan1293-std,concepticon-633,11.85,marketplace,market (place),marketplace
+clics-doculect-153-955,stan1293-std,concepticon-752,11.86,store,"store, shop",store
+clics-doculect-153-956,stan1293-std,concepticon-752,11.86,shop,"store, shop",shop
+clics-doculect-153-957,stan1293-std,concepticon-657,11.87,price,price,price
+clics-doculect-153-958,stan1293-std,concepticon-1426,11.88,dear,"dear (costly, expensive)",dear
+clics-doculect-153-959,stan1293-std,concepticon-1426,11.88,costly,"dear (costly, expensive)",costly
+clics-doculect-153-960,stan1293-std,concepticon-1426,11.88,expensive,"dear (costly, expensive)",expensive
+clics-doculect-153-961,stan1293-std,concepticon-1887,11.89,cheap,cheap,cheap
+clics-doculect-153-962,stan1293-std,concepticon-884,11.91,share,share (distribute),share
+clics-doculect-153-963,stan1293-std,concepticon-884,11.91,distribute,share (distribute),distribute
+clics-doculect-153-964,stan1293-std,concepticon-1098,11.92,weigh,weigh,weigh
+clics-doculect-153-965,stan1293-std,concepticon-1685,12.1,after,after,after
+clics-doculect-153-966,stan1293-std,concepticon-723,12.11,behind,place,behind
+clics-doculect-153-967,stan1293-std,concepticon-1816,12.2,beside,beside,beside
+clics-doculect-153-968,stan1293-std,concepticon-2094,12.3,down,"down, below",down
+clics-doculect-153-969,stan1293-std,concepticon-2094,12.3,below,"down, below",below
+clics-doculect-153-970,stan1293-std,concepticon-1882,12.4,before,before,before
+clics-doculect-153-971,stan1293-std,concepticon-1019,12.41,front,right (side),front
+clics-doculect-153-972,stan1293-std,concepticon-1606,12.5,inside,"inside, in",inside
+clics-doculect-153-973,stan1293-std,concepticon-1606,12.5,in,"inside, in",in
+clics-doculect-153-974,stan1293-std,concepticon-762,12.6,outside,outside,outside
+clics-doculect-153-975,stan1293-std,concepticon-1485,12.7,under,under,under
+clics-doculect-153-976,stan1293-std,concepticon-1591,12.8,up,"up, above",up
+clics-doculect-153-977,stan1293-std,concepticon-1591,12.8,above,"up, above",above
+clics-doculect-153-978,stan1293-std,concepticon-723,12.11,place,place,place
+clics-doculect-153-979,stan1293-std,concepticon-998,12.12,put,put,put
+clics-doculect-153-980,stan1293-std,concepticon-1416,12.13,sit,sit,sit
+clics-doculect-153-981,stan1293-std,concepticon-215,12.14,liedown,lie down,liedown
+clics-doculect-153-982,stan1293-std,concepticon-1442,12.15,stand,stand,stand
+clics-doculect-153-983,stan1293-std,concepticon-987,12.16,remain,"remain, stay",remain
+clics-doculect-153-984,stan1293-std,concepticon-987,12.16,stay,"remain, stay",stay
+clics-doculect-153-985,stan1293-std,concepticon-838,12.17,remains,"remains, left overs",remains
+clics-doculect-153-986,stan1293-std,concepticon-838,12.17,leftovers,"remains, left overs",leftovers
+clics-doculect-153-987,stan1293-std,concepticon-7,12.21,collect,"collect, gather",collect
+clics-doculect-153-988,stan1293-std,concepticon-7,12.21,gather,"collect, gather",gather
+clics-doculect-153-989,stan1293-std,concepticon-371,12.212,pickup,pick up,pickup
+clics-doculect-153-990,stan1293-std,concepticon-1576,12.213,pileup,pile up,pileup
+clics-doculect-153-991,stan1293-std,concepticon-1743,12.22,join,"join, unite",join
+clics-doculect-153-992,stan1293-std,concepticon-1743,12.22,unite,"join, unite",unite
+clics-doculect-153-993,stan1293-std,concepticon-1359,12.23,separate,separate,separate
+clics-doculect-153-994,stan1293-std,concepticon-1119,12.232,divide,divide,divide
+clics-doculect-153-995,stan1293-std,concepticon-1156,12.24,open,open,open
+clics-doculect-153-996,stan1293-std,concepticon-1046,12.25,shut,"shut, close",shut
+clics-doculect-153-997,stan1293-std,concepticon-1046,12.25,close,"shut, close",close
+clics-doculect-153-998,stan1293-std,concepticon-761,12.26,cover,cover,cover
+clics-doculect-153-999,stan1293-std,concepticon-602,12.27,hide,"hide, conceal",hide
+clics-doculect-153-1000,stan1293-std,concepticon-602,12.27,conceal,"hide, conceal",conceal
+clics-doculect-153-1001,stan1293-std,concepticon-1265,12.31,high,high,high
+clics-doculect-153-1002,stan1293-std,concepticon-721,12.32,low,low,low
+clics-doculect-153-1003,stan1293-std,concepticon-1753,12.33,top,top,top
+clics-doculect-153-1004,stan1293-std,concepticon-690,12.34,bottom,bottom,bottom
+clics-doculect-153-1005,stan1293-std,concepticon-742,12.35,end,end,end
+clics-doculect-153-1006,stan1293-std,concepticon-372,12.352,pointed,pointed,pointed
+clics-doculect-153-1007,stan1293-std,concepticon-863,12.353,edge,edge,edge
+clics-doculect-153-1008,stan1293-std,concepticon-682,12.36,side,side,side
+clics-doculect-153-1009,stan1293-std,concepticon-1093,12.37,middle,"middle, center",middle
+clics-doculect-153-1010,stan1293-std,concepticon-1093,12.37,center,"middle, center",center
+clics-doculect-153-1011,stan1293-std,concepticon-1019,12.41,right,right (side),right
+clics-doculect-153-1012,stan1293-std,concepticon-244,12.42,left,left (side),left
+clics-doculect-153-1013,stan1293-std,concepticon-1942,12.43,near,near (adv),near
+clics-doculect-153-1014,stan1293-std,concepticon-1406,12.44,far,far (adv),far
+clics-doculect-153-1015,stan1293-std,concepticon-1877,12.45,east,east,east
+clics-doculect-153-1016,stan1293-std,concepticon-1817,12.46,west,west,west
+clics-doculect-153-1017,stan1293-std,concepticon-1598,12.47,north,north,north
+clics-doculect-153-1018,stan1293-std,concepticon-1595,12.48,south,south,south
+clics-doculect-153-1019,stan1293-std,concepticon-479,12.53,grow,grow,grow
+clics-doculect-153-1020,stan1293-std,concepticon-1506,12.54,measure,measure,measure
+clics-doculect-153-1021,stan1293-std,concepticon-81,12.541,span,"span, fathom",span
+clics-doculect-153-1022,stan1293-std,concepticon-81,12.541,fathom,"span, fathom",fathom
+clics-doculect-153-1023,stan1293-std,concepticon-1202,12.55,large,"large, big",large
+clics-doculect-153-1024,stan1293-std,concepticon-1202,12.55,big,"large, big",big
+clics-doculect-153-1025,stan1293-std,concepticon-1246,12.56,small,"small, little",small
+clics-doculect-153-1026,stan1293-std,concepticon-1246,12.56,little,"small, little",little
+clics-doculect-153-1027,stan1293-std,concepticon-1203,12.57,long,long,long
+clics-doculect-153-1028,stan1293-std,concepticon-711,12.58,tall,tall,tall
+clics-doculect-153-1029,stan1293-std,concepticon-1645,12.59,short,short,short
+clics-doculect-153-1030,stan1293-std,concepticon-1243,12.61,wide,"wide, broad",wide
+clics-doculect-153-1031,stan1293-std,concepticon-1243,12.61,broad,"wide, broad",broad
+clics-doculect-153-1032,stan1293-std,concepticon-1267,12.62,narrow,narrow,narrow
+clics-doculect-153-1033,stan1293-std,concepticon-1244,12.63,thick,thick (in dimension),thick
+clics-doculect-153-1034,stan1293-std,concepticon-2249,12.65,thin,thin (in dimension),thin
+clics-doculect-153-1035,stan1293-std,concepticon-1593,12.67,deep,deep,deep
+clics-doculect-153-1036,stan1293-std,concepticon-193,12.68,shallow,shallow,shallow
+clics-doculect-153-1037,stan1293-std,concepticon-1633,12.71,flat,flat,flat
+clics-doculect-153-1038,stan1293-std,concepticon-1404,12.73,straight,straight,straight
+clics-doculect-153-1039,stan1293-std,concepticon-297,12.74,crooked,crooked,crooked
+clics-doculect-153-1040,stan1293-std,concepticon-1071,12.75,hook,hook,hook
+clics-doculect-153-1041,stan1293-std,concepticon-192,12.76,corner,corner,corner
+clics-doculect-153-1042,stan1293-std,concepticon-1367,12.77,cross,cross,cross
+clics-doculect-153-1043,stan1293-std,concepticon-850,12.78,square,square,square
+clics-doculect-153-1044,stan1293-std,concepticon-1395,12.81,round,round,round
+clics-doculect-153-1045,stan1293-std,concepticon-1467,12.82,circle,circle,circle
+clics-doculect-153-1046,stan1293-std,concepticon-1845,12.83,sphere,"sphere, ball",sphere
+clics-doculect-153-1047,stan1293-std,concepticon-1845,12.83,ball,"sphere, ball",ball
+clics-doculect-153-1048,stan1293-std,concepticon-1048,12.84,line,line,line
+clics-doculect-153-1049,stan1293-std,concepticon-1667,12.85,hole,hole,hole
+clics-doculect-153-1050,stan1293-std,concepticon-1558,12.92,like,"like, similar",like
+clics-doculect-153-1051,stan1293-std,concepticon-1558,12.92,similar,"like, similar",similar
+clics-doculect-153-1052,stan1293-std,concepticon-1264,12.93,change,change,change
+clics-doculect-153-1053,stan1293-std,concepticon-1294,13.0,zero,"zero, nothing",zero
+clics-doculect-153-1054,stan1293-std,concepticon-1294,13.0,nothing,"zero, nothing",nothing
+clics-doculect-153-1055,stan1293-std,concepticon-1493,13.1,one,one,one
+clics-doculect-153-1056,stan1293-std,concepticon-1498,13.2,two,two,two
+clics-doculect-153-1057,stan1293-std,concepticon-492,13.3,three,three,three
+clics-doculect-153-1058,stan1293-std,concepticon-1500,13.4,four,four,four
+clics-doculect-153-1059,stan1293-std,concepticon-493,13.5,five,five,five
+clics-doculect-153-1060,stan1293-std,concepticon-1703,13.6,six,six,six
+clics-doculect-153-1061,stan1293-std,concepticon-1704,13.7,seven,seven,seven
+clics-doculect-153-1062,stan1293-std,concepticon-1705,13.8,eight,eight,eight
+clics-doculect-153-1063,stan1293-std,concepticon-1483,13.9,nine,nine,nine
+clics-doculect-153-1064,stan1293-std,concepticon-1515,13.10,ten,ten,ten
+clics-doculect-153-1065,stan1293-std,concepticon-1706,13.101,eleven,eleven,eleven
+clics-doculect-153-1066,stan1293-std,concepticon-1707,13.102,twelve,twelve,twelve
+clics-doculect-153-1067,stan1293-std,concepticon-1709,13.103,fifteen,fifteen,fifteen
+clics-doculect-153-1068,stan1293-std,concepticon-1710,13.104,twenty,twenty,twenty
+clics-doculect-153-1069,stan1293-std,concepticon-1634,13.105,hundred,hundred,hundred
+clics-doculect-153-1070,stan1293-std,concepticon-1843,13.106,thousand,thousand,thousand
+clics-doculect-153-1071,stan1293-std,concepticon-1420,13.107,count,count,count
+clics-doculect-153-1072,stan1293-std,concepticon-98,13.14,every,"every, all",every
+clics-doculect-153-1073,stan1293-std,concepticon-98,13.14,all,"every, all",all
+clics-doculect-153-1074,stan1293-std,concepticon-1198,13.15,much,"much, many",much
+clics-doculect-153-1075,stan1293-std,concepticon-1198,13.15,many,"much, many",many
+clics-doculect-153-1076,stan1293-std,concepticon-1992,13.16,more,more,more
+clics-doculect-153-1077,stan1293-std,concepticon-1242,13.17,little,"little (quantity), few",little
+clics-doculect-153-1078,stan1293-std,concepticon-1242,13.17,few,"little (quantity), few",few
+clics-doculect-153-1079,stan1293-std,concepticon-1881,13.18,enough,enough,enough
+clics-doculect-153-1080,stan1293-std,concepticon-1241,13.181,some,some,some
+clics-doculect-153-1081,stan1293-std,concepticon-2023,13.19,multitude,"multitude, crowd",multitude
+clics-doculect-153-1082,stan1293-std,concepticon-2023,13.19,crowd,"multitude, crowd",crowd
+clics-doculect-153-1083,stan1293-std,concepticon-1429,13.21,full,full,full
+clics-doculect-153-1084,stan1293-std,concepticon-1624,13.22,empty,empty,empty
+clics-doculect-153-1085,stan1293-std,concepticon-779,13.23,part,"part, piece",part
+clics-doculect-153-1086,stan1293-std,concepticon-779,13.23,piece,"part, piece",piece
+clics-doculect-153-1087,stan1293-std,concepticon-816,13.24,half,half,half
+clics-doculect-153-1088,stan1293-std,concepticon-1580,13.33,alone,"alone, only",alone
+clics-doculect-153-1089,stan1293-std,concepticon-1580,13.33,only,"alone, only",only
+clics-doculect-153-1090,stan1293-std,concepticon-728,13.34,first,first,first
+clics-doculect-153-1091,stan1293-std,concepticon-1529,13.35,last,last,last
+clics-doculect-153-1092,stan1293-std,concepticon-1384,13.36,second,second,second
+clics-doculect-153-1093,stan1293-std,concepticon-1888,13.37,pair,pair,pair
+clics-doculect-153-1094,stan1293-std,concepticon-1546,13.38,twotimes,two times,twotimes
+clics-doculect-153-1095,stan1293-std,concepticon-1859,13.42,third,third,third
+clics-doculect-153-1096,stan1293-std,concepticon-417,13.44,threetimes,three times,threetimes
+clics-doculect-153-1097,stan1293-std,concepticon-892,14.11,time,time,time
+clics-doculect-153-1098,stan1293-std,concepticon-1789,14.12,age,age,age
+clics-doculect-153-1099,stan1293-std,concepticon-1231,14.13,new,new,new
+clics-doculect-153-1100,stan1293-std,concepticon-1207,14.14,young,young,young
+clics-doculect-153-1101,stan1293-std,concepticon-1229,14.15,old,old,old
+clics-doculect-153-1102,stan1293-std,concepticon-672,14.16,early,early,early
+clics-doculect-153-1103,stan1293-std,concepticon-477,14.17,late,late,late
+clics-doculect-153-1104,stan1293-std,concepticon-1376,14.18,now,now,now
+clics-doculect-153-1105,stan1293-std,concepticon-1963,14.19,immediately,immediately,immediately
+clics-doculect-153-1106,stan1293-std,concepticon-1631,14.21,swift,"swift, fast, quick",swift
+clics-doculect-153-1107,stan1293-std,concepticon-1631,14.21,fast,"swift, fast, quick",fast
+clics-doculect-153-1108,stan1293-std,concepticon-1631,14.21,quick,"swift, fast, quick",quick
+clics-doculect-153-1109,stan1293-std,concepticon-701,14.22,slow,slow,slow
+clics-doculect-153-1110,stan1293-std,concepticon-754,14.23,hasten,"hasten, hurry",hasten
+clics-doculect-153-1111,stan1293-std,concepticon-754,14.23,hurry,"hasten, hurry",hurry
+clics-doculect-153-1112,stan1293-std,concepticon-425,14.24,retard,"retard, delay",retard
+clics-doculect-153-1113,stan1293-std,concepticon-425,14.24,delay,"retard, delay",delay
+clics-doculect-153-1114,stan1293-std,concepticon-1806,14.25,begin,"begin, beginning",begin
+clics-doculect-153-1115,stan1293-std,concepticon-1806,14.25,beginning,"begin, beginning",beginning
+clics-doculect-153-1116,stan1293-std,concepticon-1186,14.252,last,"last, endure",last
+clics-doculect-153-1117,stan1293-std,concepticon-1186,14.252,endure,"last, endure",endure
+clics-doculect-153-1118,stan1293-std,concepticon-743,14.26,end,end (temporal),end
+clics-doculect-153-1119,stan1293-std,concepticon-1766,14.27,finish,finish,finish
+clics-doculect-153-1120,stan1293-std,concepticon-1928,14.28,cease,"cease, stop",cease
+clics-doculect-153-1121,stan1293-std,concepticon-1928,14.28,stop,"cease, stop",stop
+clics-doculect-153-1122,stan1293-std,concepticon-790,14.29,ready,ready,ready
+clics-doculect-153-1123,stan1293-std,concepticon-1676,14.31,always,always,always
+clics-doculect-153-1124,stan1293-std,concepticon-1852,14.32,often,often,often
+clics-doculect-153-1125,stan1293-std,concepticon-1544,14.33,sometimes,sometimes,sometimes
+clics-doculect-153-1126,stan1293-std,concepticon-703,14.331,soon,soon,soon
+clics-doculect-153-1127,stan1293-std,concepticon-418,14.332,longtime,long-time (for a),longtime
+clics-doculect-153-1128,stan1293-std,concepticon-1656,14.34,never,never,never
+clics-doculect-153-1129,stan1293-std,concepticon-204,14.35,again,again,again
+clics-doculect-153-1130,stan1293-std,concepticon-1225,14.41,day,day,day
+clics-doculect-153-1131,stan1293-std,concepticon-1233,14.42,night,night,night
+clics-doculect-153-1132,stan1293-std,concepticon-729,14.43,dawn,dawn,dawn
+clics-doculect-153-1133,stan1293-std,concepticon-1339,14.44,morning,morning,morning
+clics-doculect-153-1134,stan1293-std,concepticon-12,14.45,noon,"noon, midday",noon
+clics-doculect-153-1135,stan1293-std,concepticon-12,14.45,midday,"noon, midday",midday
+clics-doculect-153-1136,stan1293-std,concepticon-1807,14.451,afternoon,afternoon,afternoon
+clics-doculect-153-1137,stan1293-std,concepticon-1629,14.46,evening,evening,evening
+clics-doculect-153-1138,stan1293-std,concepticon-1283,14.47,today,today,today
+clics-doculect-153-1139,stan1293-std,concepticon-1329,14.48,tomorrow,tomorrow,tomorrow
+clics-doculect-153-1140,stan1293-std,concepticon-1179,14.481,dayaftertomorrow,day-after-tomorrow,dayaftertomorrow
+clics-doculect-153-1141,stan1293-std,concepticon-1174,14.49,yesterday,yesterday,yesterday
+clics-doculect-153-1142,stan1293-std,concepticon-1180,14.491,daybeforeyesterday,day-before-yesterday,daybeforeyesterday
+clics-doculect-153-1143,stan1293-std,concepticon-1353,14.51,hour,hour,hour
+clics-doculect-153-1144,stan1293-std,concepticon-1323,14.53,clock,"clock, timepiece",clock
+clics-doculect-153-1145,stan1293-std,concepticon-1323,14.53,timepiece,"clock, timepiece",timepiece
+clics-doculect-153-1146,stan1293-std,concepticon-1469,14.61,week,week,week
+clics-doculect-153-1147,stan1293-std,concepticon-1699,14.62,Sunday,Sunday,Sunday
+clics-doculect-153-1148,stan1293-std,concepticon-1697,14.63,Monday,Monday,Monday
+clics-doculect-153-1149,stan1293-std,concepticon-1695,14.64,Tuesday,Tuesday,Tuesday
+clics-doculect-153-1150,stan1293-std,concepticon-1694,14.65,Wednesday,Wednesday,Wednesday
+clics-doculect-153-1151,stan1293-std,concepticon-1693,14.66,Thursday,Thursday,Thursday
+clics-doculect-153-1152,stan1293-std,concepticon-1692,14.67,Friday,Friday,Friday
+clics-doculect-153-1153,stan1293-std,concepticon-1700,14.68,Saturday,Saturday,Saturday
+clics-doculect-153-1154,stan1293-std,concepticon-1370,14.71,month,month,month
+clics-doculect-153-1155,stan1293-std,concepticon-1226,14.73,year,year,year
+clics-doculect-153-1156,stan1293-std,concepticon-1471,14.74,winter,winter,winter
+clics-doculect-153-1157,stan1293-std,concepticon-1537,14.75,spring,spring,spring
+clics-doculect-153-1158,stan1293-std,concepticon-1342,14.76,summer,summer,summer
+clics-doculect-153-1159,stan1293-std,concepticon-1276,14.77,autumn,autumn,autumn
+clics-doculect-153-1160,stan1293-std,concepticon-691,14.78,season,season,season
+clics-doculect-153-1161,stan1293-std,concepticon-1587,15.21,smell,smell (vb intrans),smell
+clics-doculect-153-1162,stan1293-std,concepticon-375,15.212,sniff,sniff,sniff
+clics-doculect-153-1163,stan1293-std,concepticon-1586,15.22,smell,smell (vb trans),smell
+clics-doculect-153-1164,stan1293-std,concepticon-376,15.25,fragrant,"fragrant, good smelling",fragrant
+clics-doculect-153-1165,stan1293-std,concepticon-376,15.25,goodsmelling,"fragrant, good smelling",goodsmelling
+clics-doculect-153-1166,stan1293-std,concepticon-42,15.26,stinking,"stinking, bad smelling",stinking
+clics-doculect-153-1167,stan1293-std,concepticon-42,15.26,badsmelling,"stinking, bad smelling",badsmelling
+clics-doculect-153-1168,stan1293-std,concepticon-21,15.31,taste,taste,taste
+clics-doculect-153-1169,stan1293-std,concepticon-717,15.35,sweet,sweet,sweet
+clics-doculect-153-1170,stan1293-std,concepticon-1091,15.36,salty,salty,salty
+clics-doculect-153-1171,stan1293-std,concepticon-887,15.37,bitter,bitter,bitter
+clics-doculect-153-1172,stan1293-std,concepticon-1906,15.38,acid,"acid, sour",acid
+clics-doculect-153-1173,stan1293-std,concepticon-1906,15.38,sour,"acid, sour",sour
+clics-doculect-153-1174,stan1293-std,concepticon-70,15.39,brackish,brackish,brackish
+clics-doculect-153-1175,stan1293-std,concepticon-1408,15.41,hear,hear,hear
+clics-doculect-153-1176,stan1293-std,concepticon-1608,15.42,listen,listen,listen
+clics-doculect-153-1177,stan1293-std,concepticon-1811,15.44,sound,"sound, noise",sound
+clics-doculect-153-1178,stan1293-std,concepticon-1811,15.44,noise,"sound, noise",noise
+clics-doculect-153-1179,stan1293-std,concepticon-377,15.45,loud,loud,loud
+clics-doculect-153-1180,stan1293-std,concepticon-1314,15.46,quiet,"quiet, silence",quiet
+clics-doculect-153-1181,stan1293-std,concepticon-1314,15.46,silence,"quiet, silence",silence
+clics-doculect-153-1182,stan1293-std,concepticon-1409,15.51,see,see,see
+clics-doculect-153-1183,stan1293-std,concepticon-1819,15.52,look,"look, look at",look
+clics-doculect-153-1184,stan1293-std,concepticon-1819,15.52,lookat,"look, look at",lookat
+clics-doculect-153-1185,stan1293-std,concepticon-1039,15.55,show,show,show
+clics-doculect-153-1186,stan1293-std,concepticon-708,15.56,shine,shine,shine
+clics-doculect-153-1187,stan1293-std,concepticon-679,15.57,bright,bright,bright
+clics-doculect-153-1188,stan1293-std,concepticon-1613,15.61,color,color,color
+clics-doculect-153-1189,stan1293-std,concepticon-250,15.62,light,light (in color),light
+clics-doculect-153-1190,stan1293-std,concepticon-706,15.63,dark,dark (in color),dark
+clics-doculect-153-1191,stan1293-std,concepticon-1335,15.64,white,white,white
+clics-doculect-153-1192,stan1293-std,concepticon-163,15.65,black,black,black
+clics-doculect-153-1193,stan1293-std,concepticon-156,15.66,red,red,red
+clics-doculect-153-1194,stan1293-std,concepticon-837,15.67,blue,blue,blue
+clics-doculect-153-1195,stan1293-std,concepticon-1425,15.68,green,green,green
+clics-doculect-153-1196,stan1293-std,concepticon-1424,15.69,yellow,yellow,yellow
+clics-doculect-153-1197,stan1293-std,concepticon-1892,15.71,touch,touch,touch
+clics-doculect-153-1198,stan1293-std,concepticon-378,15.712,pinch,pinch,pinch
+clics-doculect-153-1199,stan1293-std,concepticon-1079,15.72,feel,feel,feel
+clics-doculect-153-1200,stan1293-std,concepticon-1884,15.74,hard,hard,hard
+clics-doculect-153-1201,stan1293-std,concepticon-1856,15.75,soft,soft,soft
+clics-doculect-153-1202,stan1293-std,concepticon-1923,15.76,rough,rough,rough
+clics-doculect-153-1203,stan1293-std,concepticon-1234,15.77,smooth,smooth,smooth
+clics-doculect-153-1204,stan1293-std,concepticon-1396,15.78,sharp,sharp,sharp
+clics-doculect-153-1205,stan1293-std,concepticon-379,15.79,blunt,"blunt, dull",blunt
+clics-doculect-153-1206,stan1293-std,concepticon-379,15.79,dull,"blunt, dull",dull
+clics-doculect-153-1207,stan1293-std,concepticon-1210,15.81,heavy,heavy,heavy
+clics-doculect-153-1208,stan1293-std,concepticon-1052,15.82,lightweight,light (in weight),lightweight
+clics-doculect-153-1209,stan1293-std,concepticon-1726,15.83,wet,"wet, damp",wet
+clics-doculect-153-1210,stan1293-std,concepticon-1726,15.83,damp,"wet, damp",damp
+clics-doculect-153-1211,stan1293-std,concepticon-1398,15.84,dry,dry,dry
+clics-doculect-153-1212,stan1293-std,concepticon-1286,15.85,hot,hot,hot
+clics-doculect-153-1213,stan1293-std,concepticon-1232,15.851,warm,warm,warm
+clics-doculect-153-1214,stan1293-std,concepticon-1287,15.86,cold,cold,cold
+clics-doculect-153-1215,stan1293-std,concepticon-704,15.87,clean,clean,clean
+clics-doculect-153-1216,stan1293-std,concepticon-1230,15.88,dirty,"dirty, soiled",dirty
+clics-doculect-153-1217,stan1293-std,concepticon-1230,15.88,soiled,"dirty, soiled",soiled
+clics-doculect-153-1218,stan1293-std,concepticon-380,15.89,wrinkled,wrinkled,wrinkled
+clics-doculect-153-1219,stan1293-std,concepticon-53,16.11,soul,"soul, spirit",soul
+clics-doculect-153-1220,stan1293-std,concepticon-53,16.11,spirit,"soul, spirit",spirit
+clics-doculect-153-1221,stan1293-std,concepticon-1572,16.15,surprised,"surprised, astonished",surprised
+clics-doculect-153-1222,stan1293-std,concepticon-1572,16.15,astonished,"surprised, astonished",astonished
+clics-doculect-153-1223,stan1293-std,concepticon-720,16.18,goodfortune,"good fortune, luck",goodfortune
+clics-doculect-153-1224,stan1293-std,concepticon-720,16.18,luck,"good fortune, luck",luck
+clics-doculect-153-1225,stan1293-std,concepticon-56,16.19,misfortune,"misfortune, bad luck",misfortune
+clics-doculect-153-1226,stan1293-std,concepticon-56,16.19,badluck,"misfortune, bad luck",badluck
+clics-doculect-153-1227,stan1293-std,concepticon-1495,16.23,joyful,"joyful, glad, happy",joyful
+clics-doculect-153-1228,stan1293-std,concepticon-1495,16.23,glad,"joyful, glad, happy",glad
+clics-doculect-153-1229,stan1293-std,concepticon-1495,16.23,happy,"joyful, glad, happy",happy
+clics-doculect-153-1230,stan1293-std,concepticon-1355,16.25,laugh,laugh,laugh
+clics-doculect-153-1231,stan1293-std,concepticon-1451,16.251,smile,smile,smile
+clics-doculect-153-1232,stan1293-std,concepticon-1413,16.26,play,play,play
+clics-doculect-153-1233,stan1293-std,concepticon-923,16.27,love,love,love
+clics-doculect-153-1234,stan1293-std,concepticon-578,16.29,kiss,kiss,kiss
+clics-doculect-153-1235,stan1293-std,concepticon-928,16.3,embrace,embrace,embrace
+clics-doculect-153-1236,stan1293-std,concepticon-1783,16.31,pain,pain,pain
+clics-doculect-153-1237,stan1293-std,concepticon-1668,16.32,grief,"grief, sorrow, sadness",grief
+clics-doculect-153-1238,stan1293-std,concepticon-1668,16.32,sorrow,"grief, sorrow, sadness",sorrow
+clics-doculect-153-1239,stan1293-std,concepticon-1668,16.32,sadness,"grief, sorrow, sadness",sadness
+clics-doculect-153-1240,stan1293-std,concepticon-1000,16.33,anxiety,"anxiety, worry",anxiety
+clics-doculect-153-1241,stan1293-std,concepticon-1000,16.33,worry,"anxiety, worry",worry
+clics-doculect-153-1242,stan1293-std,concepticon-1875,16.34,regret,"regret, be sorry",regret
+clics-doculect-153-1243,stan1293-std,concepticon-1875,16.34,besorry,"regret, be sorry",besorry
+clics-doculect-153-1244,stan1293-std,concepticon-1141,16.35,pity,pity,pity
+clics-doculect-153-1245,stan1293-std,concepticon-1839,16.37,cry,"cry, weep",cry
+clics-doculect-153-1246,stan1293-std,concepticon-1839,16.37,weep,"cry, weep",weep
+clics-doculect-153-1247,stan1293-std,concepticon-1651,16.38,tear,tear (noun),tear
+clics-doculect-153-1248,stan1293-std,concepticon-716,16.39,groan,groan,groan
+clics-doculect-153-1249,stan1293-std,concepticon-1607,16.41,hate,hate,hate
+clics-doculect-153-1250,stan1293-std,concepticon-82,16.42,anger,anger,anger
+clics-doculect-153-1251,stan1293-std,concepticon-40,16.44,envy,"envy, jealousy",envy
+clics-doculect-153-1252,stan1293-std,concepticon-40,16.44,jealousy,"envy, jealousy",jealousy
+clics-doculect-153-1253,stan1293-std,concepticon-1776,16.45,shame,shame (noun),shame
+clics-doculect-153-1254,stan1293-std,concepticon-174,16.48,proud,proud,proud
+clics-doculect-153-1255,stan1293-std,concepticon-1779,16.51,dare,dare,dare
+clics-doculect-153-1256,stan1293-std,concepticon-3,16.52,brave,brave,brave
+clics-doculect-153-1257,stan1293-std,concepticon-781,16.53,fear,"fear, fright",fear
+clics-doculect-153-1258,stan1293-std,concepticon-781,16.53,fright,"fear, fright",fright
+clics-doculect-153-1259,stan1293-std,concepticon-1810,16.54,danger,danger,danger
+clics-doculect-153-1260,stan1293-std,concepticon-1784,16.62,desire,"desire, want",desire
+clics-doculect-153-1261,stan1293-std,concepticon-1784,16.62,want,"desire, want",want
+clics-doculect-153-1262,stan1293-std,concepticon-1750,16.622,choose,choose,choose
+clics-doculect-153-1263,stan1293-std,concepticon-1092,16.63,hope,hope,hope
+clics-doculect-153-1264,stan1293-std,concepticon-100,16.65,faithful,faithful,faithful
+clics-doculect-153-1265,stan1293-std,concepticon-1657,16.66,true,true,true
+clics-doculect-153-1266,stan1293-std,concepticon-601,16.67,lie,"lie, tell lies",lie
+clics-doculect-153-1267,stan1293-std,concepticon-601,16.67,telllies,"lie, tell lies",telllies
+clics-doculect-153-1268,stan1293-std,concepticon-13,16.68,deceit,deceit,deceit
+clics-doculect-153-1269,stan1293-std,concepticon-1528,16.69,forgive,forgive,forgive
+clics-doculect-153-1270,stan1293-std,concepticon-1035,16.71,good,good,good
+clics-doculect-153-1271,stan1293-std,concepticon-1292,16.72,bad,bad,bad
+clics-doculect-153-1272,stan1293-std,concepticon-1725,16.73,right,"right, correct",right
+clics-doculect-153-1273,stan1293-std,concepticon-1725,16.73,correct,"right, correct",correct
+clics-doculect-153-1274,stan1293-std,concepticon-1390,16.74,wrong,wrong,wrong
+clics-doculect-153-1275,stan1293-std,concepticon-134,16.76,fault,fault,fault
+clics-doculect-153-1276,stan1293-std,concepticon-1293,16.77,mistake,"mistake, error",mistake
+clics-doculect-153-1277,stan1293-std,concepticon-1293,16.77,error,"mistake, error",error
+clics-doculect-153-1278,stan1293-std,concepticon-381,16.78,blame,blame,blame
+clics-doculect-153-1279,stan1293-std,concepticon-1687,16.79,praise,praise,praise
+clics-doculect-153-1280,stan1293-std,concepticon-1427,16.81,beautiful,beautiful,beautiful
+clics-doculect-153-1281,stan1293-std,concepticon-1548,16.82,ugly,ugly,ugly
+clics-doculect-153-1282,stan1293-std,concepticon-2018,16.83,greedy,greedy,greedy
+clics-doculect-153-1283,stan1293-std,concepticon-1310,16.84,clever,clever,clever
+clics-doculect-153-1284,stan1293-std,concepticon-1562,17.11,mind,mind,mind
+clics-doculect-153-1285,stan1293-std,concepticon-1415,17.13,think,think (= reflect),think
+clics-doculect-153-1286,stan1293-std,concepticon-1415,17.13,reflect,think (= reflect),reflect
+clics-doculect-153-1287,stan1293-std,concepticon-1513,17.14,think,think (= be of the opinion),think
+clics-doculect-153-1288,stan1293-std,concepticon-1890,17.15,believe,believe,believe
+clics-doculect-153-1289,stan1293-std,concepticon-1536,17.16,understand,understand,understand
+clics-doculect-153-1290,stan1293-std,concepticon-1410,17.17,know,know,know
+clics-doculect-153-1291,stan1293-std,concepticon-1932,17.171,guess,guess,guess
+clics-doculect-153-1292,stan1293-std,concepticon-117,17.172,imitate,imitate,imitate
+clics-doculect-153-1293,stan1293-std,concepticon-1521,17.18,seem,seem,seem
+clics-doculect-153-1294,stan1293-std,concepticon-1609,17.19,idea,"idea, notion",idea
+clics-doculect-153-1295,stan1293-std,concepticon-1609,17.19,notion,"idea, notion",notion
+clics-doculect-153-1296,stan1293-std,concepticon-698,17.21,wise,wise,wise
+clics-doculect-153-1297,stan1293-std,concepticon-1518,17.22,foolish,"foolish, stupid",foolish
+clics-doculect-153-1298,stan1293-std,concepticon-1518,17.22,stupid,"foolish, stupid",stupid
+clics-doculect-153-1299,stan1293-std,concepticon-1899,17.23,insane,"insane, crazy",insane
+clics-doculect-153-1300,stan1293-std,concepticon-1899,17.23,crazy,"insane, crazy",crazy
+clics-doculect-153-1301,stan1293-std,concepticon-504,17.24,learn,learn,learn
+clics-doculect-153-1302,stan1293-std,concepticon-1929,17.242,study,study,study
+clics-doculect-153-1303,stan1293-std,concepticon-709,17.25,teach,teach,teach
+clics-doculect-153-1304,stan1293-std,concepticon-753,17.26,pupil,pupil,pupil
+clics-doculect-153-1305,stan1293-std,concepticon-1038,17.27,teacher,teacher,teacher
+clics-doculect-153-1306,stan1293-std,concepticon-673,17.28,school,school,school
+clics-doculect-153-1307,stan1293-std,concepticon-707,17.31,remember,remember,remember
+clics-doculect-153-1308,stan1293-std,concepticon-1523,17.32,forget,forget,forget
+clics-doculect-153-1309,stan1293-std,concepticon-989,17.34,clear,"clear, plain",clear
+clics-doculect-153-1310,stan1293-std,concepticon-989,17.34,plain,"clear, plain",plain
+clics-doculect-153-1311,stan1293-std,concepticon-1764,17.35,obscure,obscure,obscure
+clics-doculect-153-1312,stan1293-std,concepticon-1121,17.36,secret,secret,secret
+clics-doculect-153-1313,stan1293-std,concepticon-509,17.37,sure,"sure, certain",sure
+clics-doculect-153-1314,stan1293-std,concepticon-509,17.37,certain,"sure, certain",certain
+clics-doculect-153-1315,stan1293-std,concepticon-1626,17.38,explain,explain,explain
+clics-doculect-153-1316,stan1293-std,concepticon-1162,17.41,intention,"intention, purpose",intention
+clics-doculect-153-1317,stan1293-std,concepticon-1162,17.41,purpose,"intention, purpose",purpose
+clics-doculect-153-1318,stan1293-std,concepticon-860,17.42,cause,cause,cause
+clics-doculect-153-1319,stan1293-std,concepticon-1308,17.43,doubt,doubt,doubt
+clics-doculect-153-1320,stan1293-std,concepticon-1841,17.44,suspect,suspect,suspect
+clics-doculect-153-1321,stan1293-std,concepticon-1902,17.441,betray,betray,betray
+clics-doculect-153-1322,stan1293-std,concepticon-643,17.45,need,"need, necessity",need
+clics-doculect-153-1323,stan1293-std,concepticon-643,17.45,necessity,"need, necessity",necessity
+clics-doculect-153-1324,stan1293-std,concepticon-686,17.46,easy,easy,easy
+clics-doculect-153-1325,stan1293-std,concepticon-584,17.47,difficult,difficult,difficult
+clics-doculect-153-1326,stan1293-std,concepticon-1812,17.48,try,"try, attempt",try
+clics-doculect-153-1327,stan1293-std,concepticon-1812,17.48,attempt,"try, attempt",attempt
+clics-doculect-153-1328,stan1293-std,concepticon-488,17.49,way,"way, manner",way
+clics-doculect-153-1329,stan1293-std,concepticon-488,17.49,manner,"way, manner",manner
+clics-doculect-153-1330,stan1293-std,concepticon-1577,17.51,and,and,and
+clics-doculect-153-1331,stan1293-std,concepticon-1157,17.52,because,because,because
+clics-doculect-153-1332,stan1293-std,concepticon-1459,17.53,if,if,if
+clics-doculect-153-1333,stan1293-std,concepticon-1014,17.54,or,or,or
+clics-doculect-153-1334,stan1293-std,concepticon-1268,17.55,yes,"yes, affirmative",yes
+clics-doculect-153-1335,stan1293-std,concepticon-1268,17.55,affirmative,"yes, affirmative",affirmative
+clics-doculect-153-1336,stan1293-std,concepticon-1269,17.56,no,"no, negative",no
+clics-doculect-153-1337,stan1293-std,concepticon-1269,17.56,negative,"no, negative",negative
+clics-doculect-153-1338,stan1293-std,concepticon-1239,17.61,how?,how?,how?
+clics-doculect-153-1339,stan1293-std,concepticon-822,17.62,howmany?,how many?,howmany?
+clics-doculect-153-1340,stan1293-std,concepticon-531,17.63,howmuch?,how much?,howmuch?
+clics-doculect-153-1341,stan1293-std,concepticon-1236,17.64,what?,what?,what?
+clics-doculect-153-1342,stan1293-std,concepticon-1238,17.65,when?,when?,when?
+clics-doculect-153-1343,stan1293-std,concepticon-1237,17.66,where?,where?,where?
+clics-doculect-153-1344,stan1293-std,concepticon-727,17.67,which?,which?,which?
+clics-doculect-153-1345,stan1293-std,concepticon-1235,17.68,who?,who?,who?
+clics-doculect-153-1346,stan1293-std,concepticon-1270,17.69,why?,why?,why?
+clics-doculect-153-1347,stan1293-std,concepticon-1363,18.11,voice,voice,voice
+clics-doculect-153-1348,stan1293-std,concepticon-1261,18.12,sing,sing,sing
+clics-doculect-153-1349,stan1293-std,concepticon-715,18.13,shout,"shout, cry out",shout
+clics-doculect-153-1350,stan1293-std,concepticon-715,18.13,cryout,"shout, cry out",cryout
+clics-doculect-153-1351,stan1293-std,concepticon-55,18.15,whisper,whisper,whisper
+clics-doculect-153-1352,stan1293-std,concepticon-128,18.16,mumble,mumble,mumble
+clics-doculect-153-1353,stan1293-std,concepticon-1025,18.17,whistle,whistle,whistle
+clics-doculect-153-1354,stan1293-std,concepticon-298,18.18,shriek,"shriek, screech",shriek
+clics-doculect-153-1355,stan1293-std,concepticon-298,18.18,screech,"shriek, screech",screech
+clics-doculect-153-1356,stan1293-std,concepticon-526,18.19,howl,howl,howl
+clics-doculect-153-1357,stan1293-std,concepticon-1623,18.21,speak,"speak, talk",speak
+clics-doculect-153-1358,stan1293-std,concepticon-1623,18.21,talk,"speak, talk",talk
+clics-doculect-153-1359,stan1293-std,concepticon-1866,18.211,stutter,"stutter, stammer",stutter
+clics-doculect-153-1360,stan1293-std,concepticon-1866,18.211,stammer,"stutter, stammer",stammer
+clics-doculect-153-1361,stan1293-std,concepticon-1458,18.22,say,say,say
+clics-doculect-153-1362,stan1293-std,concepticon-1711,18.221,tellstory,tell story,tellstory
+clics-doculect-153-1363,stan1293-std,concepticon-1115,18.222,speech,speech (make a),speech
+clics-doculect-153-1364,stan1293-std,concepticon-48,18.23,silent,silent (be),silent
+clics-doculect-153-1365,stan1293-std,concepticon-1307,18.24,language,language,language
+clics-doculect-153-1366,stan1293-std,concepticon-1599,18.26,word,word,word
+clics-doculect-153-1367,stan1293-std,concepticon-1405,18.28,name,name,name
+clics-doculect-153-1368,stan1293-std,concepticon-1309,18.31,askquestion,"ask (question, inquire)",askquestion
+clics-doculect-153-1369,stan1293-std,concepticon-1309,18.31,inquire,"ask (question, inquire)",inquire
+clics-doculect-153-1370,stan1293-std,concepticon-1275,18.32,answer,answer,answer
+clics-doculect-153-1371,stan1293-std,concepticon-2022,18.33,admit,"admit, confess",admit
+clics-doculect-153-1372,stan1293-std,concepticon-2022,18.33,confess,"admit, confess",confess
+clics-doculect-153-1373,stan1293-std,concepticon-755,18.34,deny,deny,deny
+clics-doculect-153-1374,stan1293-std,concepticon-1828,18.35,ask,"ask, request",ask
+clics-doculect-153-1375,stan1293-std,concepticon-1828,18.35,request,"ask, request",request
+clics-doculect-153-1376,stan1293-std,concepticon-1675,18.36,promise,promise,promise
+clics-doculect-153-1377,stan1293-std,concepticon-49,18.37,refuse,refuse,refuse
+clics-doculect-153-1378,stan1293-std,concepticon-83,18.38,forbid,forbid,forbid
+clics-doculect-153-1379,stan1293-std,concepticon-299,18.39,rebuke,"rebuke, scold",rebuke
+clics-doculect-153-1380,stan1293-std,concepticon-299,18.39,scold,"rebuke, scold",scold
+clics-doculect-153-1381,stan1293-std,concepticon-1084,18.41,call,call (=summon),call
+clics-doculect-153-1382,stan1293-std,concepticon-1084,18.41,summon,call (=summon),summon
+clics-doculect-153-1383,stan1293-std,concepticon-180,18.42,callbyname,call (=name),callbyname
+clics-doculect-153-1384,stan1293-std,concepticon-9,18.43,announce,announce,announce
+clics-doculect-153-1385,stan1293-std,concepticon-1192,18.44,threaten,threaten,threaten
+clics-doculect-153-1386,stan1293-std,concepticon-101,18.45,boast,boast,boast
+clics-doculect-153-1387,stan1293-std,concepticon-1672,18.51,write,write,write
+clics-doculect-153-1388,stan1293-std,concepticon-724,18.52,read,read,read
+clics-doculect-153-1389,stan1293-std,concepticon-648,18.56,paper,paper,paper
+clics-doculect-153-1390,stan1293-std,concepticon-794,18.57,pen,pen,pen
+clics-doculect-153-1391,stan1293-std,concepticon-963,18.61,book,book,book
+clics-doculect-153-1393,stan1293-std,concepticon-777,18.71,flute,flute,flute
+clics-doculect-153-1394,stan1293-std,concepticon-908,18.72,drum,drum,drum
+clics-doculect-153-1395,stan1293-std,concepticon-2136,18.73,horn,"horn, trumpet",horn
+clics-doculect-153-1396,stan1293-std,concepticon-2136,18.73,trumpet,"horn, trumpet",trumpet
+clics-doculect-153-1397,stan1293-std,concepticon-300,18.74,rattle,rattle,rattle
+clics-doculect-153-1398,stan1293-std,concepticon-1300,19.11,country,country,country
+clics-doculect-153-1399,stan1293-std,concepticon-89,19.12,one'snativecountry,one's native country,one'snativecountry
+clics-doculect-153-1400,stan1293-std,concepticon-1391,19.15,city,"city, town",city
+clics-doculect-153-1401,stan1293-std,concepticon-1391,19.15,town,"city, town",town
+clics-doculect-153-1402,stan1293-std,concepticon-930,19.16,village,village,village
+clics-doculect-153-1403,stan1293-std,concepticon-1010,19.17,boundary,boundary,boundary
+clics-doculect-153-1404,stan1293-std,concepticon-789,19.21,people,people (populace),people
+clics-doculect-153-1405,stan1293-std,concepticon-789,19.21,populace,people (populace),populace
+clics-doculect-153-1406,stan1293-std,concepticon-302,19.23,tribe,"tribe, clan",tribe
+clics-doculect-153-1407,stan1293-std,concepticon-302,19.23,clan,"tribe, clan",clan
+clics-doculect-153-1408,stan1293-std,concepticon-301,19.24,chief,"chief, chieftain",chief
+clics-doculect-153-1409,stan1293-std,concepticon-301,19.24,chieftain,"chief, chieftain",chieftain
+clics-doculect-153-1410,stan1293-std,concepticon-1296,19.25,staff,"staff, walking stick",staff
+clics-doculect-153-1411,stan1293-std,concepticon-1296,19.25,walkingstick,"staff, walking stick",walkingstick
+clics-doculect-153-1412,stan1293-std,concepticon-1846,19.31,rule,"rule, govern",rule
+clics-doculect-153-1413,stan1293-std,concepticon-1846,19.31,govern,"rule, govern",govern
+clics-doculect-153-1414,stan1293-std,concepticon-1508,19.32,king,"king, ruler",king
+clics-doculect-153-1415,stan1293-std,concepticon-1508,19.32,ruler,"king, ruler",ruler
+clics-doculect-153-1416,stan1293-std,concepticon-1306,19.33,queen,queen,queen
+clics-doculect-153-1417,stan1293-std,concepticon-482,19.36,noble,"noble, nobleman",noble
+clics-doculect-153-1418,stan1293-std,concepticon-482,19.36,nobleman,"noble, nobleman",nobleman
+clics-doculect-153-1419,stan1293-std,concepticon-1032,19.37,citizen,"citizen, subject",citizen
+clics-doculect-153-1420,stan1293-std,concepticon-1032,19.37,subject,"citizen, subject",subject
+clics-doculect-153-1421,stan1293-std,concepticon-383,19.41,master,master,master
+clics-doculect-153-1422,stan1293-std,concepticon-812,19.42,slave,slave,slave
+clics-doculect-153-1423,stan1293-std,concepticon-255,19.43,servant,servant,servant
+clics-doculect-153-1424,stan1293-std,concepticon-384,19.44,freeman,freeman,freeman
+clics-doculect-153-1425,stan1293-std,concepticon-1128,19.45,command,"command, order",command
+clics-doculect-153-1426,stan1293-std,concepticon-1128,19.45,order,"command, order",order
+clics-doculect-153-1427,stan1293-std,concepticon-1635,19.46,obey,obey,obey
+clics-doculect-153-1428,stan1293-std,concepticon-1003,19.47,let,"let, permit",let
+clics-doculect-153-1429,stan1293-std,concepticon-1003,19.47,permit,"let, permit",permit
+clics-doculect-153-1430,stan1293-std,concepticon-1325,19.51,friend,"friend, companion",friend
+clics-doculect-153-1431,stan1293-std,concepticon-1325,19.51,companion,"friend, companion",companion
+clics-doculect-153-1432,stan1293-std,concepticon-1358,19.52,enemy,enemy,enemy
+clics-doculect-153-1433,stan1293-std,concepticon-1332,19.54,neighbor,neighbor,neighbor
+clics-doculect-153-1434,stan1293-std,concepticon-791,19.55,stranger,stranger,stranger
+clics-doculect-153-1435,stan1293-std,concepticon-1782,19.56,guest,guest,guest
+clics-doculect-153-1436,stan1293-std,concepticon-1545,19.57,host,host,host
+clics-doculect-153-1437,stan1293-std,concepticon-1897,19.58,help,"help, aid",help
+clics-doculect-153-1438,stan1293-std,concepticon-1897,19.58,aid,"help, aid",aid
+clics-doculect-153-1439,stan1293-std,concepticon-1550,19.59,hinder,"hinder, prevent",hinder
+clics-doculect-153-1440,stan1293-std,concepticon-1550,19.59,prevent,"hinder, prevent",prevent
+clics-doculect-153-1441,stan1293-std,concepticon-1747,19.61,custom,custom,custom
+clics-doculect-153-1442,stan1293-std,concepticon-1848,19.62,strife,"strife, quarrel",strife
+clics-doculect-153-1443,stan1293-std,concepticon-1848,19.62,quarrel,"strife, quarrel",quarrel
+clics-doculect-153-1444,stan1293-std,concepticon-2024,19.63,conspiracy,"conspiracy, plot",conspiracy
+clics-doculect-153-1445,stan1293-std,concepticon-2024,19.63,plot,"conspiracy, plot",plot
+clics-doculect-153-1446,stan1293-std,concepticon-1831,19.65,meet,meet,meet
+clics-doculect-153-1447,stan1293-std,concepticon-1610,19.72,prostitute,prostitute,prostitute
+clics-doculect-153-1448,stan1293-std,concepticon-1423,20.11,fight,fight (vb),fight
+clics-doculect-153-1449,stan1293-std,concepticon-579,20.13,war,"war, battle",war
+clics-doculect-153-1450,stan1293-std,concepticon-579,20.13,battle,"war, battle",battle
+clics-doculect-153-1451,stan1293-std,concepticon-1338,20.14,peace,peace,peace
+clics-doculect-153-1452,stan1293-std,concepticon-1561,20.15,army,army,army
+clics-doculect-153-1453,stan1293-std,concepticon-1941,20.17,soldier,soldier,soldier
+clics-doculect-153-1454,stan1293-std,concepticon-951,20.21,weapons,"weapons, arms",weapons
+clics-doculect-153-1455,stan1293-std,concepticon-951,20.21,arms,"weapons, arms",arms
+clics-doculect-153-1456,stan1293-std,concepticon-1763,20.22,club,club,club
+clics-doculect-153-1457,stan1293-std,concepticon-386,20.222,battleax,battle-ax,battleax
+clics-doculect-153-1458,stan1293-std,concepticon-387,20.23,sling,sling,sling
+clics-doculect-153-1459,stan1293-std,concepticon-994,20.24,bow,bow,bow
+clics-doculect-153-1460,stan1293-std,concepticon-977,20.25,arrow,arrow,arrow
+clics-doculect-153-1461,stan1293-std,concepticon-945,20.26,spear,spear,spear
+clics-doculect-153-1462,stan1293-std,concepticon-1535,20.27,sword,sword,sword
+clics-doculect-153-1463,stan1293-std,concepticon-1566,20.28,gun,"gun, cannon",gun
+clics-doculect-153-1464,stan1293-std,concepticon-1566,20.28,cannon,"gun, cannon",cannon
+clics-doculect-153-1465,stan1293-std,concepticon-1061,20.31,armor,armor (defensive),armor
+clics-doculect-153-1466,stan1293-std,concepticon-1680,20.33,helmet,helmet,helmet
+clics-doculect-153-1467,stan1293-std,concepticon-1064,20.34,shield,shield,shield
+clics-doculect-153-1468,stan1293-std,concepticon-1938,20.35,fortress,fortress,fortress
+clics-doculect-153-1469,stan1293-std,concepticon-1671,20.36,tower,tower,tower
+clics-doculect-153-1470,stan1293-std,concepticon-783,20.41,victory,victory,victory
+clics-doculect-153-1471,stan1293-std,concepticon-782,20.42,defeat,defeat,defeat
+clics-doculect-153-1472,stan1293-std,concepticon-722,20.43,attack,attack,attack
+clics-doculect-153-1473,stan1293-std,concepticon-1330,20.44,defend,defend,defend
+clics-doculect-153-1474,stan1293-std,concepticon-421,20.45,retreat,retreat,retreat
+clics-doculect-153-1475,stan1293-std,concepticon-1696,20.46,surrender,surrender,surrender
+clics-doculect-153-1476,stan1293-std,concepticon-1072,20.47,captive,"captive, prisoner",captive
+clics-doculect-153-1477,stan1293-std,concepticon-1072,20.47,prisoner,"captive, prisoner",prisoner
+clics-doculect-153-1478,stan1293-std,concepticon-1940,20.471,guard,"guard, sentinel",guard
+clics-doculect-153-1479,stan1293-std,concepticon-1940,20.471,sentinel,"guard, sentinel",sentinel
+clics-doculect-153-1480,stan1293-std,concepticon-1022,20.48,booty,"booty, spoils",booty
+clics-doculect-153-1481,stan1293-std,concepticon-1022,20.48,spoils,"booty, spoils",spoils
+clics-doculect-153-1482,stan1293-std,concepticon-65,20.49,ambush,ambush,ambush
+clics-doculect-153-1483,stan1293-std,concepticon-1858,20.51,fisherman,fisherman,fisherman
+clics-doculect-153-1484,stan1293-std,concepticon-1074,20.52,fishhook,fishhook,fishhook
+clics-doculect-153-1485,stan1293-std,concepticon-19,20.53,fishingline,fishing line,fishingline
+clics-doculect-153-1486,stan1293-std,concepticon-388,20.54,fishnet,fishnet,fishnet
+clics-doculect-153-1487,stan1293-std,concepticon-389,20.55,fishtrap,fish trap,fishtrap
+clics-doculect-153-1488,stan1293-std,concepticon-2013,20.56,bait,bait,bait
+clics-doculect-153-1489,stan1293-std,concepticon-1435,20.61,hunt,hunt,hunt
+clics-doculect-153-1490,stan1293-std,concepticon-1172,20.62,shoot,shoot,shoot
+clics-doculect-153-1491,stan1293-std,concepticon-161,20.63,misstarget,miss (target),misstarget
+clics-doculect-153-1492,stan1293-std,concepticon-1075,20.64,trap,trap (noun),trap
+clics-doculect-153-1493,stan1293-std,concepticon-1170,20.65,trap,trap (vb),trap
+clics-doculect-153-1494,stan1293-std,concepticon-1062,21.11,law,law,law
+clics-doculect-153-1495,stan1293-std,concepticon-1068,21.15,court,court,court
+clics-doculect-153-1496,stan1293-std,concepticon-1818,21.16,judge,judge (vb),judge
+clics-doculect-153-1497,stan1293-std,concepticon-1067,21.17,judgment,judgment,judgment
+clics-doculect-153-1498,stan1293-std,concepticon-861,21.18,judge,judge (noun),judge
+clics-doculect-153-1499,stan1293-std,concepticon-2020,21.21,plaintiff,plaintiff,plaintiff
+clics-doculect-153-1500,stan1293-std,concepticon-1034,21.22,defendant,defendant,defendant
+clics-doculect-153-1501,stan1293-std,concepticon-1144,21.23,witness,witness,witness
+clics-doculect-153-1502,stan1293-std,concepticon-1939,21.24,swear,swear,swear
+clics-doculect-153-1503,stan1293-std,concepticon-1712,21.25,oath,oath,oath
+clics-doculect-153-1504,stan1293-std,concepticon-1814,21.31,accuse,accuse,accuse
+clics-doculect-153-1505,stan1293-std,concepticon-484,21.32,condemn,condemn,condemn
+clics-doculect-153-1506,stan1293-std,concepticon-983,21.33,convict,convict (vb),convict
+clics-doculect-153-1507,stan1293-std,concepticon-988,21.34,acquit,acquit,acquit
+clics-doculect-153-1508,stan1293-std,concepticon-1682,21.35,guilty,guilty,guilty
+clics-doculect-153-1509,stan1293-std,concepticon-90,21.36,innocent,innocent,innocent
+clics-doculect-153-1510,stan1293-std,concepticon-390,21.37,penalty,"penalty, punishment",penalty
+clics-doculect-153-1511,stan1293-std,concepticon-390,21.37,punishment,"penalty, punishment",punishment
+clics-doculect-153-1512,stan1293-std,concepticon-218,21.38,fine,fine,fine
+clics-doculect-153-1513,stan1293-std,concepticon-1281,21.39,prison,"prison, jail",prison
+clics-doculect-153-1514,stan1293-std,concepticon-1281,21.39,jail,"prison, jail",jail
+clics-doculect-153-1515,stan1293-std,concepticon-845,21.42,murder,murder,murder
+clics-doculect-153-1516,stan1293-std,concepticon-902,21.43,adultery,adultery,adultery
+clics-doculect-153-1517,stan1293-std,concepticon-953,21.44,rape,rape,rape
+clics-doculect-153-1518,stan1293-std,concepticon-1889,21.46,arson,arson,arson
+clics-doculect-153-1519,stan1293-std,concepticon-1792,21.47,perjury,perjury,perjury
+clics-doculect-153-1520,stan1293-std,concepticon-713,21.51,steal,steal,steal
+clics-doculect-153-1521,stan1293-std,concepticon-1160,21.52,thief,thief,thief

@@ -1,0 +1,1830 @@
+@classification: Tai-Kadai,Kam-Tai,Be-Tai,Tai-Sek,Tai,Southwestern,East Central,Chiang Saeng
+@iso: tha
+@language: Thai
+@size: 1824
+@source: wold
+@variety: std
+1.1	world	lôok
+1.1	world	lâa
+1.1	world	phʉ́ʉn
+1.1	world	phíphóp
+1.1	world	phóp
+1.21	earth, land	bòk
+1.212	earth=ground, soil	din
+1.213	dust	fùn
+1.213	dust	la?ɔɔŋ
+1.214	mud	khloon
+1.215	sand	saay
+1.22	mountain, hill	khǎo
+1.22	mountain, hill	phuu
+1.22	mountain, hill	phuukhǎo
+1.22	mountain, hill	dɔɔy
+1.22	mountain, hill	khôok
+1.222	cliff, precipice	phǎa
+1.23	plain, field	thûŋ
+1.24	valley	hùpkhǎo
+1.25	island	kɔ̀
+1.26	mainland	phàendinyày
+1.27	shore	fàŋ
+1.28	cave	thâm
+1.31	water	náam
+1.31	water	chon
+1.31	water	?ùthók
+1.31	water	thaaraa
+1.32	sea	thalee
+1.322	calm (of sea)	rîap
+1.323	rough (of sea)	miikhlʉ̂ʉn
+1.324	foam	fɔɔŋ
+1.329	ocean	mahǎasamùt
+1.33	lake	thaleesàap
+1.34	gulf, bay	?àaw
+1.341	lagoon	laakuun
+1.342	reef	naewpakaaraŋ
+1.342	reef	hǐnsǒokhrôok
+1.343	headland, point	lǎeaem
+1.35	wave	khlʉ̂ʉn
+1.352	tide	krasǎenáam
+1.353	lowtide	náamloŋ
+1.354	hightide	naamkhʉ̂n
+1.36	river, stream, brook	mâenáam
+1.362	whirlpool	waŋwon
+1.37	spring, well	bɔ̀ɔ
+1.38	swamp	nɔ̌ɔŋ
+1.39	waterfall	náamtòk
+1.39	waterfall	tàat
+1.41	woods, forest	pàa
+1.43	wood	máay
+1.44	stone, rock	hǐn
+1.45	earthquake	phàendinwǎy
+1.51	sky	fáa
+1.52	sun	phrá?aathít
+1.52	sun	tawan
+1.52	sun	suriyaa
+1.52	sun	thinnakɔɔn
+1.52	sun	thaŋǎy
+1.53	moon	phrácan
+1.53	moon	dʉan
+1.53	moon	khǎeae
+1.53	moon	bʉ̀lǎn
+1.54	star	daaw
+1.54	star	daaraa
+1.55	lightning	fáaphàa
+1.56	thunder	fáarɔ́ɔŋ
+1.57	lightning (as striking)	fáalâep
+1.58	storm	phaayú
+1.59	rainbow	rúŋ
+1.61	light (noun)	sǎeaeŋ
+1.62	darkness	khwaammʉ̂ʉt
+1.63	shade, shadow	ŋao
+1.63	shade, shadow	chǎayaa
+1.64	dew	náamkháaŋ
+1.71	air	?aakàat
+1.72	wind	lom
+1.72	wind	waatà
+1.73	cloud	mêek
+1.74	fog	mɔ̀ɔk
+1.75	rain (noun)	fǒn
+1.76	snow (noun)	himá
+1.77	ice	náamkhǎeŋ
+1.78	weather	?aakàat
+1.78	weather	dinfáaaakàat
+1.81	fire	fay
+1.82	flame (noun)	pleew
+1.83	smoke (noun)	khwan
+1.84	ashes	thâo
+1.841	embers	thàankhú่
+1.851	burn (vb trans)	phǎo
+1.852	burn (vb intrans)	mây
+1.86	light, kindle, ignite	cùt
+1.861	extinguish	dàp
+1.87	match (noun)	máaykhìit
+1.88	firewood	fʉʉn
+1.89	charcoal	thàan
+2.1	person, human being	khon
+2.21	man (vs. woman)	phûuchaay
+2.22	woman	phûuyǐŋ
+2.22	woman	satrii
+2.22	woman	?ìtsàtrii
+2.22	woman	?ìtthǐi
+2.23	male	chaay
+2.24	female	yǐŋ
+2.25	boy	dèkphûuchaay
+2.251	young man (adolescent)	nùm
+2.251	young man (adolescent)	bàaw
+2.26	girl	dèkphûuyǐŋ
+2.261	young woman (adolescent)	sǎaw
+2.27	child	dèk
+2.28	infant, baby	thaarók
+2.31	husband	sǎamii
+2.31	husband	phǔa
+2.31	husband	sawǎamii
+2.32	wife	phanrayaa
+2.32	wife	pháríyaa
+2.32	wife	mia
+2.33	marry	tàeŋŋaan
+2.33	marry	sǒmrót
+2.34	marriage, wedding	ŋaantàeŋŋaan
+2.341	divorce	kaanyàa
+2.35	father	phɔ̂ɔ
+2.35	father	bìdaa
+2.35	father	bìdɔɔn
+2.35	father	chanók
+2.36	mother	mâeae
+2.36	mother	maandaa
+2.36	mother	chonnanii
+2.37	parents	phɔ̂ɔmâeae
+2.37	parents	bìdaamaandaa
+2.37	parents	bùpphakaarii
+2.41	son	lûukchaay
+2.41	son	bùt
+2.42	daughter	lûuksǎaw
+2.42	daughter	thídaa
+2.42	daughter	bùttrii
+2.43	offspring (son or daughter)	lûuk
+2.44	brother	phîichaay
+2.44	brother	nɔ́ɔŋchaay
+2.45	sister	phîisǎaw
+2.45	sister	nɔ́ɔŋsǎaw
+2.454	older sister	phîisǎaw
+2.455	younger sister	nɔ́ɔŋsǎaw
+2.456	sibling	phîinɔ́ɔŋ
+2.458	twins	fǎafàeaet
+2.458	twins	fàeaet
+2.46	grandfather	pùu
+2.46	grandfather	taa
+2.461	old man	thâo
+2.461	old man	kàeae
+2.461	old man	khoncharaa
+2.47	grandmother	yâa
+2.47	grandmother	yaay
+2.471	old woman	yǐŋcharaa
+2.48	grandson	lǎanchaay
+2.49	granddaughter	lǎansǎaw
+2.51	uncle	luŋ
+2.51	uncle	?aa
+2.511	mother's brother	luŋ
+2.511	mother's brother	náa
+2.512	father's brother	luŋ
+2.512	father's brother	?aa
+2.52	aunt	náa
+2.52	aunt	?aa
+2.52	aunt	pâa
+2.521	mother's sister	pâa
+2.521	mother's sister	náa
+2.522	father's sister	pâa
+2.522	father's sister	?aa
+2.53	nephew	lǎanchaay
+2.54	niece	lǎansǎaw
+2.55	cousin	lûukphîilûuknɔ́ɔŋ
+2.56	ancestors	banpháburùt
+2.56	ancestors	pùuyâataayaay
+2.57	descendants	lûuklǎan
+2.61	father-in-law (of a man)	phɔ̂ɔtaa
+2.611	father-in-law (of a woman)	phɔ̂ɔsǎamii
+2.611	father-in-law (of a woman)	phɔ̂ɔphǔa
+2.62	mother-in-law (of a man)	mâeaeyaay
+2.621	mother-in-law (of a woman)	mâeaesǎamii
+2.621	mother-in-law (of a woman)	mâeaephǔa
+2.63	son-in-law (of a man)	lûukkhə̌əy
+2.631	son-in-law (of a woman)	lûukkhə̌əy
+2.64	daughter-in-law (of a man)	lûuksapháy
+2.641	daughter-in-law (of a woman)	lûuksapháy
+2.71	stepfather	phɔ̂ɔlíaŋ
+2.71	stepfather	phɔ̂ɔbuntham
+2.72	stepmother	mâeaelíaŋ
+2.72	stepmother	mâeaebuntham
+2.73	stepson	lûuklíaŋ
+2.73	stepson	lûukbuntham
+2.74	stepdaughter	lûuklíaŋ
+2.74	stepdaughter	lûukbuntham
+2.75	orphan	kamphráa
+2.76	widow	mâeaemâay
+2.77	widower	phɔ̂ɔmâay
+2.81	relatives, kinsmen	yâat
+2.82	family	khrɔ̂ɔpkhrua
+2.91	I	chǎn
+2.91	I	kuu
+2.91	I	khâa
+2.91	I	rao
+2.91	I	dichǎn
+2.91	I	phǒm
+2.91	I	kraphǒm
+2.91	I	tuu
+2.91	I	khâaphacâaw
+2.91	I	kan
+2.92	you (singular)	thəə
+2.92	you (singular)	mʉŋ
+2.92	you (singular)	câw
+2.92	you (singular)	thân
+2.92	you (singular)	khun
+2.92	you (singular)	naay
+2.92	you (singular)	sǔu
+2.93	he/she/it	kháo
+2.94	we	rao
+2.941	we (inclusive)	rao
+2.942	we (exclusive)	rao
+2.95	you (plural)	phûakkhun
+2.96	they	phûakkháo
+3.11	animal	sàt
+3.12	male (adj)	tuaphûu
+3.13	female (adj)	tuamia
+3.15	livestock	pasùsàt
+3.16	pasture	thûŋ
+3.19	stable, stall	khɔ̂ɔk
+3.19	stable, stall	láo
+3.2	cattle (bovine)	pasùsàt
+3.21	bull	wua
+3.22	ox	wua
+3.22	ox	khoo
+3.23	cow	wua
+3.25	sheep	kàe
+3.32	boar	mǔupàa
+3.35	pig	mǔu
+3.35	pig	sukɔɔn
+3.36	goat	pháe
+3.41	horse (equine)	máa
+3.41	horse (equine)	?aachaa
+3.41	horse (equine)	?àtsawá
+3.41	horse (equine)	sǐnthóp
+3.41	horse (equine)	bée
+3.46	ass, donkey	laa
+3.47	mule	lɔ̂ɔ
+3.5	fowl	sàtpìik
+3.52	cock, rooster	kày
+3.52	cock, rooster	phɔ̂ɔkày
+3.54	hen	mâeaekày
+3.55	chicken	lûukkày
+3.56	goose	hàan
+3.57	duck	pèt
+3.58	nest	raŋ
+3.581	bird	nók
+3.581	bird	wíhòk
+3.581	bird	sàkùnaa
+3.581	bird	bùrǒŋ
+3.582	seagull	naaŋnuan
+3.583	heron	krasǎa
+3.584	eagle	?insii
+3.585	hawk	rúŋ
+3.585	hawk	yìaw
+3.585	hawk	yìaw
+3.586	vulture	ráeaeŋ
+3.591	bat	kháaŋkhaaw
+3.592	parrot	kâeaew
+3.593	crow	kaa
+3.594	dove	khǎo
+3.596	owl	hûuk
+3.596	owl	hûuk
+3.596	owl	kháo
+3.61	dog	mǎa
+3.61	dog	sùnák
+3.61	dog	sùwaan
+3.614	rabbit	kratàay
+3.62	cat	maeaew
+3.62	cat	wílaa
+3.63	mouse, rat	nǔu
+3.63	mouse, rat	músìk
+3.65	fish	plaa
+3.65	fish	mátchǎa
+3.65	fish	mátsayǎa
+3.652	fin (dorsal)	khrîip
+3.653	fishscale	klèt
+3.654	gill	ŋʉ̀ak
+3.655	shell	hɔ̌ɔy
+3.661	shark	chalǎam
+3.662	porpoise, dolphin	loomaa
+3.663	whale	waan
+3.664	stingray	krabeen
+3.665	freshwater eel	lǎy
+3.71	wolf	mǎapàa
+3.71	wolf	sǐŋkaan
+3.72	lion	sǐŋtoo
+3.72	lion	sǐŋ
+3.72	lion	sǐi
+3.73	bear	mǐi
+3.74	fox	mǎacîŋcɔ̀ɔk
+3.75	deer	kwaaŋ
+3.75	deer	faan
+3.75	deer	saay
+3.75	deer	nʉ́a
+3.76	monkey	liŋ
+3.76	monkey	waanɔɔn
+3.76	monkey	krabìi
+3.76	monkey	sawǎa
+3.77	elephant	cháaŋ
+3.77	elephant	kunchɔɔn
+3.77	elephant	khachaa
+3.77	elephant	damrii
+3.77	elephant	hàtthǐi
+3.77	elephant	phlaay
+3.77	elephant	phaŋ
+3.78	camel	?ùut
+3.81	insect	malaeaeŋ
+3.81	insect	malaeaeŋ
+3.811	louse	hǎo
+3.812	nit (louse egg)	khàyhǎo
+3.813	flea	màt
+3.814	centipede	takhàap
+3.814	centipede	cakhèp
+3.815	scorpion	maeaeŋpɔ̀ŋ
+3.816	cockroach	maeaeŋsàap
+3.817	ant	mót
+3.818	spider	maeaeŋmum
+3.819	spider web	yaimaeaeŋmum
+3.82	bee	phʉ̂ŋ
+3.82	bee	phamɔɔn
+3.821	beeswax	khîiphʉ̂ŋ
+3.822	beehive	raŋphʉ̂ŋ
+3.823	wasp	tɔ̀ɔ
+3.823	wasp	taeaen
+3.83	fly	malaeaeŋwan
+3.831	sandfly (midge), gnat	pʉ̀ŋ
+3.831	sandfly (midge), gnat	rín
+3.832	mosquito	yuŋ
+3.84	worm	nɔ̌ɔn
+3.85	snake	ŋuu
+3.85	snake	?asɔ̌ɔraphít
+3.91	firefly	hìŋhɔ̂y
+3.92	butterfly	phǐisʉ̂a
+3.93	grasshopper	tákkataeaen
+3.94	snail	hɔ̌ɔythâak
+3.95	frog	kòp
+3.96	lizard	cìŋcòk
+3.97	crocodile, alligator	carakhêe
+3.98	turtle	tào
+4.11	body	tua
+4.11	body	râaŋ
+4.11	body	râaŋkaay
+4.11	body	râaŋkaay
+4.12	skin, hide	nǎŋ
+4.13	flesh	nʉ́a
+4.13	flesh	maŋsǎa
+4.14	hair (head)	phǒm
+4.142	beard	khrao
+4.142	beard	nùat
+4.144	body hair	khǒn
+4.144	body hair	loomaa
+4.145	pubic hair	mɔ̌ɔy
+4.146	dandruff	raŋkhaeae
+4.15	blood	lʉ̂at
+4.15	blood	loohìt
+4.151	vein, artery	sênlʉ̂at
+4.16	bone	kradùuk
+4.16	bone	kâaŋ
+4.162	rib	sîikhrooŋ
+4.17	horn	khǎo
+4.18	tail	hǎaŋ
+4.19	back	lǎŋ
+4.191	spine	kradùuksǎnlǎŋ
+4.2	head	hǔa
+4.2	head	sǐisà
+4.2	head	kabaan
+4.2	head	sìrá
+4.2	head	sǐan
+4.201	side of head, temple	khamàp
+4.202	skull	kalòok
+4.203	brain	samɔ̌ɔŋ
+4.203	brain	khamɔ̌ɔŋ
+4.204	face	nâa
+4.204	face	phák
+4.204	face	múk
+4.205	forehead	nâaphàak
+4.207	jaw	khaaŋ
+4.208	cheek	kâeaem
+4.208	cheek	praaŋ
+4.209	chin	khaaŋ
+4.21	eye	taa
+4.21	eye	nêet
+4.212	eyebrow	khíw
+4.212	eyebrow	khanǒŋ
+4.213	eyelid	plʉ̀aktaa
+4.214	eyelash	khǒntaa
+4.215	blink	phríp
+4.22	ear	hǔu
+4.22	ear	kan
+4.221	earlobe	bayhǔu
+4.222	earwax	khîihǔu
+4.23	nose	camùuk
+4.231	nostril	ruucamùuk
+4.232	mucus (nasal)	khîimûuk
+4.24	mouth	pàak
+4.24	mouth	?òot
+4.24	mouth	múk
+4.241	beak	caŋɔɔy
+4.25	lip	rimfǐipàak
+4.26	tongue	lín
+4.26	tongue	chiwhǎa
+4.27	tooth	fan
+4.27	tooth	thon
+4.27	tooth	thantà
+4.271	gums	ŋʉ̀ak
+4.272	molartooth	kraam
+4.28	neck	khɔɔ
+4.28	neck	sɔ̌ɔ
+4.281	nape of neck	sǎn
+4.29	throat	khɔɔ
+4.3	shoulder	bàa
+4.301	shoulderblade	lày
+4.302	collarbone	hǎyplaaráa
+4.31	arm	khǎen
+4.31	arm	phaahǎa
+4.312	armpit	rákráaae
+4.32	elbow	sɔ̀ɔk
+4.321	wrist	khɔ̂ɔmʉʉ
+4.33	hand	mʉʉ
+4.33	hand	hàt
+4.33	hand	kɔɔn
+4.33	hand	day
+4.331	palm of hand	fàa
+4.34	finger	níw
+4.342	thumb	hǔamâeaemʉʉ
+4.344	fingernail	lép
+4.344	fingernail	nákkhǎa
+4.345	claw	kronglép
+4.35	leg	khǎa
+4.35	leg	phlao
+4.351	thigh	tônkhǎa
+4.352	calf of leg	nɔ̂ŋ
+4.36	knee	khào
+4.36	knee	chaanú
+4.37	foot	tháaw
+4.37	foot	tiin
+4.37	foot	baathaa
+4.37	foot	bàat
+4.37	foot	chəəŋ
+4.371	ankle	khɔ̂ɔtháaw
+4.372	heel	sôn
+4.374	footprint	rɔɔytháaw
+4.38	toe	níwhǔamâeaetháaw
+4.392	wing	pìik
+4.393	feather	khǒn
+4.4	chest	?òk
+4.41	breast (of woman)	nom
+4.41	breast (of woman)	thǎn
+4.412	nipple, teat	hǔanom
+4.42	udder	tâo
+4.43	navel	sadʉʉ
+4.44	heart	cay
+4.44	heart	hǔacay
+4.44	heart	hathay
+4.44	heart	harʉ́thay
+4.44	heart	rʉ́dii
+4.44	heart	rʉ́thay
+4.44	heart	maná
+4.44	heart	manát
+4.44	heart	manoo
+4.44	heart	daeae
+4.441	lung	pɔ̀ɔt
+4.45	liver	tàp
+4.451	kidney	tay
+4.452	spleen	máam
+4.46	stomach	thɔ́ɔŋ
+4.461	intestines, guts	sây
+4.462	waist	?eew
+4.463	hip	saphôok
+4.463	hip	taphôok
+4.464	buttocks	kôn
+4.47	womb	mótlûuk
+4.47	womb	naaphii
+4.47	womb	?ùthɔɔn
+4.49	testicle	hǎm
+4.49	testicle	khày
+4.49	testicle	?anthá
+4.49	testicle	krapòok
+4.492	penis	khuay
+4.492	penis	lʉŋ
+4.492	penis	?oŋkhachâat
+4.492	penis	cǔu
+4.492	penis	kradɔɔ
+4.51	breathe, breath	hǎaycay
+4.52	yawn, gape	hǎaw
+4.521	hiccough	sa?ʉ̀k
+4.53	cough	?ay
+4.54	sneeze	caam
+4.55	perspire	ŋʉ̀a?ɔ̀ɔk
+4.56	spit	thòm
+4.56	spit	khaay
+4.57	vomit	?aacian
+4.57	vomit	?ûak
+4.57	vomit	râak
+4.58	bite	kàt
+4.58	bite	khòp
+4.59	lick	lia
+4.591	dribble	náamlaaylǎy
+4.61	sleep	nɔɔn
+4.61	sleep	níthraa
+4.61	sleep	banthom
+4.61	sleep	sǎyyaa
+4.612	snore	kron
+4.62	dream	fǎn
+4.62	dream	subin
+4.63	wake up	tʉ̀ʉn
+4.64	break wind	tòt
+4.64	break wind	phǎaylom
+4.64	break wind	pǔŋ
+4.65	urinate	yîaw
+4.65	urinate	chìi
+4.65	urinate	pàtsawá
+4.66	defecate	khîi
+4.66	defecate	?ʉ̀
+4.66	defecate	?ùtcaará
+4.66	defecate	thàay
+4.67	have sexual intercourse	yét
+4.67	have sexual intercourse	sǎŋwâat
+4.68	shiver	sàn
+4.69	bathe	?àapnáam
+4.72	born (to be)	kə̀ət
+4.73	pregnant	thɔ́ɔŋ
+4.73	pregnant	miikhan
+4.732	conceive	tìt
+4.74	live, living, life	pen
+4.74	live, living, life	yùu
+4.75	die, dead	taay
+4.75	die, dead	waay
+4.75	die, dead	sǐa
+4.75	die, dead	mɔɔraná
+4.75	die, dead	banlay
+4.75	die, dead	tàksǎy
+4.75	die, dead	?aasǎn
+4.75	die, dead	?anítcakam
+4.751	drowned	com
+4.76	kill	khâa
+4.76	kill	maláaŋ
+4.77	corpse	sòp
+4.78	bury (the dead)	fǎŋ
+4.79	grave, tomb	lǔm
+4.81	strong, mighty, powerful	khǎeŋraeaeŋ
+4.82	weak	?ɔ̀ɔn?aeae
+4.83	well, health	khǎeŋraeaeŋ
+4.84	sick, sickness	khây
+4.841	fever	khây
+4.842	goiter	khɔɔphɔ̂ɔk
+4.843	cold (catarrh)	wàt
+4.85	wound, sore	phlǎeae
+4.85	wound, sore	bàatphlǎeae
+4.852	bruise	chám
+4.853	swelling	tùm
+4.854	itch	khan
+4.855	blister	tùmphɔɔŋ
+4.856	boil (noun)	fǐi
+4.857	pus	nɔ̌ɔŋ
+4.858	scar	phlǎeaepen
+4.86	cure, heal	ráksǎa
+4.87	physician	mɔ̌ɔ
+4.87	physician	phâeaet
+4.88	medicine, drug	yaa
+4.89	poison	phít
+4.89	poison	bʉ̀a
+4.91	tired, weary	nʉ̀ay
+4.912	rest	phák
+4.92	lazy	khîikìat
+4.92	lazy	khráan
+4.93	bald	láan
+4.93	bald	lóon
+4.94	lame	ŋɔ̂y
+4.95	deaf	nùak
+4.96	mute	bây
+4.97	blind	bɔ̀ɔt
+4.98	intoxicated	mao
+4.99	naked, bare	plʉay
+5.11	eat	kin
+5.12	food	?aahǎan
+5.121	cooked	sùk
+5.122	raw	dìp
+5.123	ripe	sùk
+5.124	green, unripe	dìp
+5.125	rotten	nâo
+5.13	drink	dʉ̀ʉm
+5.13	drink	kin
+5.14	hunger	hǐw
+5.14	hunger	yàak
+5.141	famine	?òtyàak
+5.141	famine	thúpphíkkhaphay
+5.15	thirst	krahǎay
+5.15	thirst	hǐwnáam
+5.16	suck	dùut
+5.18	chew	khíaw
+5.181	swallow	klʉʉn
+5.19	choke	khénkhɔɔ
+5.19	choke	sǎmlák
+5.21	cook	hǔŋ
+5.22	boil (vb)	tôm
+5.23	roast, fry	yâaŋ
+5.23	roast, fry	pîŋ
+5.23	roast, fry	cìi
+5.23	roast, fry	thɔ̂ɔt
+5.23	roast, fry	?aŋ
+5.24	bake	?òp
+5.25	oven	tao?òp
+5.26	pot, cooking vessel	mɔ̂ɔ
+5.27	kettle	kaa
+5.28	pan	krathá
+5.31	dish	chaam
+5.32	plate	caan
+5.33	bowl	thûay
+5.34	pitcher, jug	yʉ̀ak
+5.35	cup, drinking vessel	thûay
+5.36	saucer	caanrɔɔŋ
+5.37	spoon	chɔ́ɔn
+5.38	knife	mîit
+5.39	fork	sɔ̂ɔm
+5.391	tongs	khiim
+5.391	tongs	pàakkhîip
+5.41	meal (a)	mʉ́ʉ
+5.42	breakfast	?aahǎancháaw
+5.43	lunch	?aahǎanklaaŋwan
+5.44	dinner	?aahǎanyen
+5.46	peel	pɔ̀ɔk
+5.47	sieve, strain	saaw
+5.48	scrape	khùut
+5.49	stir, mix	khon
+5.51	bread	khanǒmpaŋ
+5.53	dough	pâeaeŋ
+5.54	knead	nûat
+5.55	meal, flour	pâeaeŋ
+5.56	crush, grind	bòt
+5.57	mill	rooŋsǐi
+5.58	mortar	khrók
+5.59	pestle	sàak
+5.61	meat	nʉ́a
+5.63	sausage	sâykrɔ̀ɔk
+5.64	soup, broth	kaeaeŋ
+5.65	vegetables	phàk
+5.66	bean	thùa
+5.7	potato	man
+5.71	fruit	phǒnlamáay
+5.71	fruit	màak
+5.71	fruit	màak
+5.712	bunch	phuaŋ
+5.75	fig	madʉ̀a
+5.76	grape	?aŋùn
+5.77	nut	thùa
+5.78	olive	makɔ̀ɔk
+5.79	oil	náamman
+5.791	grease, fat	man
+5.81	salt	klʉa
+5.82	pepper	phríkthay
+5.821	chili pepper	phrík
+5.84	honey	náamphʉ̂ŋ
+5.84	honey	máthú
+5.85	sugar	náamtaan
+5.86	milk (noun)	nom
+5.87	milk (vb)	rîitnom
+5.88	cheese	nəəykhǎeŋ
+5.89	butter	nəəy
+5.9	beverage, drink	khrʉ̂aŋdʉ̀ʉm
+5.92	wine	lâo?aŋùn
+5.93	beer	bia
+5.94	fermented drink	lâo
+5.94	fermented drink	suraa
+5.94	fermented drink	meeray
+5.94	fermented drink	náam?ammarít
+5.94	fermented drink	náamcan
+5.97	egg	khày
+5.971	egg yolk	khàydaeaeŋ
+6.11	put on (clothes)	sày
+6.12	clothing, clothes	sʉ̂aphâa
+6.13	tailor	châŋtàtsʉ̂a
+6.21	cloth	phâa
+6.22	wool	khǒnsàt
+6.23	linen, flax	linin
+6.24	cotton	fâay
+6.25	silk	mǎy
+6.27	felt	sàkkalàat
+6.28	fur	fəə
+6.29	leather	nǎŋ
+6.31	spin	pàn
+6.32	spindle	kaeaen
+6.33	weave	thɔɔ
+6.33	weave	sǎan
+6.34	loom	hùuk
+6.34	loom	kìi
+6.35	sew	yép
+6.36	needle	khěm
+6.37	awl	màat
+6.38	thread	dâay
+6.38	thread	mǎy
+6.39	dye	yɔ́ɔm
+6.41	cloak	sʉ̂akhlum
+6.42	woman's dress	chút
+6.43	coat	kóot
+6.44	shirt	chə́ət
+6.44	shirt	sʉ̂a
+6.45	collar	pòk
+6.45	collar	khɔɔ
+6.46	skirt	kraprooŋ
+6.46	skirt	sîn
+6.48	trousers	kaaŋkeeŋ
+6.49	stocking, sock	thǔŋtháaw
+6.49	stocking, sock	thǔŋnɔ̂ɔŋ
+6.51	shoe	rɔɔŋtháaw
+6.51	shoe	kʉ̀ak
+6.52	boot	búut
+6.54	shoemaker, cobbler	châŋthamrɔɔŋtháaw
+6.55	hat, cap	mùak
+6.55	hat, cap	maalaa
+6.55	hat, cap	káep
+6.57	belt, girdle	khěmkhàt
+6.58	glove	thǔŋmʉʉ
+6.59	veil	phâakhlumnâa
+6.61	pocket	krapǎo
+6.62	button	kradum
+6.62	button	dum
+6.63	pin	khěmklàt
+6.71	ornament, adornment	khrʉ̂aŋpradàp
+6.71	ornament, adornment	sɔ̂ɔy
+6.72	jewel	phétphlɔɔy
+6.73	ring (for finger)	wǎeaen
+6.74	bracelet	sɔ̂ɔykhɔ̂ɔmʉʉ
+6.75	necklace	sɔ̂ɔykhɔɔ
+6.76	bead	pàt
+6.77	earring	tûmhǔu
+6.77	earring	tàaŋhǔu
+6.79	tattoo	sàk
+6.81	handkerchief, rag	phâachétnâa
+6.82	towel	phâachéttua
+6.91	comb	wǐi
+6.92	brush	praeaeŋ
+6.921	braid	pia
+6.93	razor	mîitkoon
+6.94	ointment	khîiphʉ̂ŋ
+6.94	ointment	náamman
+6.95	soap	sabùu
+6.96	mirror	kracòkŋao
+7.11	dwell, live	?aasǎi
+7.11	dwell, live	yùu
+7.12	house	bâan
+7.12	house	rʉan
+7.12	house	yâo
+7.13	hut	krathôm
+7.13	hut	kratóp
+7.13	hut	tháp
+7.14	tent	tén
+7.14	tent	kracoom
+7.15	yard, court	laan
+7.17	cookhouse	rʉankhrua
+7.21	room	hɔ̂ŋ
+7.22	door, gate	pratuu
+7.22	door, gate	thawaan
+7.221	doorpost, jamb	sǎo
+7.23	lock (noun)	lɔ́k
+7.23	lock (noun)	salàk
+7.231	latch, door-bolt	klɔɔn
+7.24	key	lûukkuncaeae
+7.25	window	nâatàaŋ
+7.25	window	klaeae
+7.26	floor	phʉ́ʉn
+7.27	wall	fǎa
+7.27	wall	phanǎŋ
+7.27	wall	kamphaeaeŋ
+7.31	fireplace	taophǐŋ
+7.32	stove	tao
+7.33	chimney	plɔ̀ŋfay
+7.37	ladder	banday
+7.37	ladder	kraday
+7.42	bed	tiaŋ
+7.42	bed	thâen
+7.421	pillow	mɔ̂ɔn
+7.421	pillow	khanəəy
+7.422	blanket	phátlom
+7.43	chair	kâo?îi
+7.44	table	tó
+7.45	lamp, torch	takiaŋ
+7.45	lamp, torch	khoom
+7.45	lamp, torch	tâay
+7.46	candle	thian
+7.47	shelf	hîŋ
+7.48	trough	raaŋ
+7.51	roof	lǎŋkhaa
+7.52	thatch	lǎŋkhaamuŋcàak
+7.53	ridgepole	?òkkày
+7.54	rafter	canthan
+7.55	beam	khʉ̀ʉ
+7.55	beam	paeae
+7.56	post, pole	sǎo
+7.57	board	kradaan
+7.58	arch	khóoŋ
+7.61	mason	châŋkɔ̀ɔtʉ̀k
+7.62	brick	?ìt
+7.63	mortar	puun
+8.11	farmer	chaawnaa
+8.11	farmer	kasèettrakɔɔn
+8.11	farmer	kasìkɔɔn
+8.12	field (for cultivation)	rây
+8.13	garden	sǔan
+8.13	garden	?ùtthayaan
+8.15	cultivate, till	phɔ́
+8.15	cultivate, till	plùuk
+8.15	cultivate, till	phɔ́plùuk
+8.16	fence	rúa
+8.17	ditch	rɔ̂ŋ
+8.21	plow	thǎy
+8.212	furrow	rɔ̂ŋ
+8.22	dig	khùt
+8.23	spade	sǐam
+8.24	shovel	phlûa
+8.25	hoe	cɔ̀ɔp
+8.26	fork	ŋâam
+8.27	rake	khrâat
+8.31	sow	wàan
+8.311	seed	mét
+8.311	seed	malét
+8.32	mow, reap	tàtyâa
+8.33	sickle, scythe	khiaw
+8.34	thresh	nûat
+8.35	threshing-floor	laannûatkhâaw
+8.41	crop, harvest	kèpkìaw
+8.42	grain (barley, oats etc)	malét
+8.43	wheat	sǎalii
+8.44	barley	baalêe
+8.46	oats	?óot
+8.47	maize, corn	phôot
+8.48	rice	khâaw
+8.48	rice	baay
+8.51	grass	yâa
+8.51	grass	trin
+8.52	hay	faaŋ
+8.53	plant (noun)	phʉ̂ʉt
+8.531	plant (vb)	plùuk
+8.54	root	râak
+8.54	root	ŋâo
+8.55	branch	kìŋ
+8.56	leaf	bay
+8.57	flower	dɔ̀ɔk
+8.57	flower	plii
+8.6	tree	máay
+8.6	tree	chəə
+8.6	tree	phrʉ́ksǎa
+8.6	tree	rúkkhà
+8.6	tree	waná
+8.61	oak	?óok
+8.64	pine	sǒn
+8.65	fir	fəə
+8.67	vine	thǎowan
+8.68	tobacco	yaasùup
+8.69	smoke (tobacco)	sùup
+8.691	pipe	klɔ̂ŋ
+8.691	pipe	páy
+8.72	tree stump	tɔɔ
+8.73	tree trunk	tôn
+8.74	forked branch	ŋâam
+8.75	bark	plʉ̀ak
+8.75	bark	phǐw
+8.76	sap	yaaŋ
+8.81	palm tree	màak
+8.82	coconut	maphráaw
+8.83	citrus fruit	makrùut
+8.84	banana tree	klûay
+8.84	banana tree	kàtthalii
+8.85	banyan	sai
+8.91	sweet potato	manthêet
+8.912	yam	man
+8.92	tapioca, manioc, cassava	mansǎmpalǎŋ
+8.93	gourd	náamtâo
+8.931	pumpkin, squash	fák
+8.94	bamboo	phày
+8.94	bamboo	weelú
+8.941	sugar cane	?ɔ̂y
+8.97	nettle	tamyaeae
+8.98	mushroom	hèt
+9.11	do, make	tham
+9.11	do, make	hét
+9.12	work	thamŋaan
+9.14	bend	nóom
+9.14	bend	nìaw
+9.15	fold	pháp
+9.16	tie, bind	phùuk
+9.16	tie, bind	lâam
+9.161	untie	kâeae
+9.18	chain	sôo
+9.19	rope, cord	chʉ̂ak
+9.192	knot (noun)	pom
+9.192	knot (noun)	khɔ̂ɔ
+9.21	strike (hit, beat)	tii
+9.211	pound with fist	thúp
+9.22	cut	tàt
+9.22	cut	bàat
+9.221	cut down	khôon
+9.222	chop, hew	fan
+9.223	stab	thaeaeŋ
+9.223	stab	sìap
+9.23	knife	mîit
+9.24	scissors, shears	kankray
+9.24	scissors, shears	takray
+9.24	scissors, shears	kantray
+9.25	ax	khwǎan
+9.251	adze	phʉ̀ŋ
+9.26	break	thúp
+9.26	break	tàeaek
+9.261	broken	sǐa
+9.27	split	phàa
+9.28	tear	chìik
+9.29	flay, skin	thalòk
+9.31	rub, wipe	thǔu
+9.31	rub, wipe	sǐi
+9.31	rub, wipe	nûat
+9.32	stretch	yʉ̂ʉt
+9.33	pull	dʉŋ
+9.33	pull	lâak
+9.34	spread out	puu
+9.34	spread out	phàeae
+9.34	spread out	baeae
+9.341	hang up	khwǎeaen
+9.342	press	kòt
+9.342	press	nâap
+9.342	press	nâeaep
+9.343	squeeze, wring	khán
+9.35	pour	rin
+9.35	pour	rót
+9.35	pour	râat
+9.35	pour	làŋ
+9.36	wash	láaŋ
+9.37	sweep	kwàat
+9.38	broom	máaykwàat
+9.422	tool	khrʉ̂aŋmʉʉ
+9.43	carpenter	châŋmáay
+9.44	build	plùuk
+9.44	build	kɔ̀ɔ
+9.44	build	sâaŋ
+9.44	build	raŋ
+9.44	build	tâŋ
+9.46	bore	cɔ̀
+9.461	hollow out	khwáan
+9.48	saw	lʉ̂ay
+9.49	hammer	khɔ́ɔn
+9.5	nail	tapuu
+9.56	glue	kaaw
+9.6	smith, blacksmith	châaŋlèk
+9.61	forge	tiilèk
+9.62	anvil	thâŋ
+9.63	cast (metals)	lɔ̀ɔ
+9.64	gold	thɔɔŋ
+9.64	gold	kham
+9.64	gold	suwan
+9.64	gold	suphan
+9.64	gold	kaancanaa
+9.64	gold	mâat
+9.64	gold	hěem
+9.65	silver	ŋən
+9.65	silver	hiran
+9.66	copper, bronze	thɔɔŋdaeaeŋ
+9.67	iron	lèk
+9.68	lead (noun)	takùa
+9.69	tin, tinplate	diibùk
+9.71	potter	châŋpânmɔ̂ɔ
+9.72	mold (clay etc)	pân
+9.73	clay	dinphǎo
+9.74	glass	kracòk
+9.75	weave, plait	thàk
+9.76	basket	takrâa
+9.76	basket	kradôŋ
+9.76	basket	krabuŋ
+9.77	mat	sʉ̀a
+9.77	mat	sàat
+9.771	rug	phrom
+9.79	fan (noun)	phát
+9.79	fan (noun)	wítchanii
+9.791	fan (vb)	phát
+9.791	fan (vb)	wii
+9.81	carve	kàe
+9.81	carve	salàk
+9.82	sculptor	pratìmaakɔɔn
+9.82	sculptor	châŋpân
+9.83	statue	rûuppân
+9.84	chisel	sìw
+9.88	paint (noun)	sǐi
+9.89	paint (vb)	thaasǐi
+10.11	move	yáay
+10.12	turn over	hǎn
+10.13	turn around	hǎn
+10.14	wind, wrap	hɔ̀ɔ
+10.15	roll	klîŋ
+10.16	drop (vb)	thíŋ
+10.17	twist	fân
+10.21	rise	khʉ̂n
+10.22	raise, lift	yók
+10.22	raise, lift	kûu
+10.22	raise, lift	yɔɔ
+10.23	fall	tòk
+10.23	fall	lòn
+10.24	drip	yòt
+10.24	drip	yàat
+10.25	throw	khwâaŋ
+10.25	throw	paa
+10.252	catch (ball)	khwáa
+10.252	catch (ball)	càp
+10.252	catch (ball)	ráp
+10.26	shake	khayào
+10.32	flow	lǎy
+10.33	sink	com
+10.34	float	lɔɔy
+10.35	swim	wâay
+10.351	dive	dam
+10.352	splash	dìit
+10.352	splash	sàat
+10.36	sail (vb)	lâenbay
+10.37	fly (vb)	bin
+10.38	blow	phát
+10.41	creep, crawl	khlaan
+10.412	kneel	khúkkhào
+10.413	crouch	mɔ̀ɔp
+10.42	slide, slip	lʉ̂un
+10.43	jump, leap	kradòot
+10.431	kick	tè
+10.44	dance	tên
+10.44	dance	ram
+10.44	dance	fɔ́ɔn
+10.45	walk	dəən
+10.451	limp	kaphlòokkaphlèek
+10.451	limp	khayòokkhayèek
+10.46	run	wîŋ
+10.46	run	lâen
+10.47	go	pay
+10.471	go up	khʉ̂n
+10.472	climb	piin
+10.473	go down	loŋ
+10.474	go out	?ɔ̀ɔk
+10.48	come	maa
+10.481	come back	klàp
+10.481	come back	khʉʉn
+10.49	go away, depart	càak
+10.491	disappear	hǎay
+10.491	disappear	sàapsǔun
+10.491	disappear	lɔ̂ŋhǒn
+10.51	flee	nǐi
+10.52	follow	taam
+10.53	pursue	lây
+10.55	reach, arrive	thʉ̌ŋ
+10.55	reach, arrive	lú
+10.55	reach, arrive	banlú
+10.56	approach	thʉ̌ŋ
+10.57	enter	khâo
+10.61	carry (bear)	?ûm
+10.61	carry (bear)	bàeaek
+10.612	carry-in-hand	thʉ̌ʉ
+10.613	carry-on-shoulder	bàeaek
+10.614	carry-on-head	thuun
+10.615	carry-underarm	nìip
+10.62	bring	?aomaa
+10.63	send	sòŋ
+10.64	lead (vb)	nam
+10.65	drive	khàp
+10.66	ride	khìi
+10.67	push, shove	phlàk
+10.71	road	thanǒn
+10.71	road	thaaŋ
+10.71	road	hǒn
+10.72	path	thaaŋ
+10.72	path	lûu
+10.74	bridge	saphaan
+10.75	carriage, wagon, cart	kwian
+10.75	carriage, wagon, cart	ratháe
+10.76	wheel	lɔ́ɔ
+10.76	wheel	koŋ
+10.77	axle	phlao
+10.78	yoke	?àeaek
+10.81	ship	rʉa
+10.81	ship	naawaa
+10.81	ship	sàmphao
+10.83	boat	rʉa
+10.831	canoe	khaenuu
+10.84	raft	phaeae
+10.85	oar	phaay
+10.851	paddle (noun)	phaay
+10.852	row (vb)	phaay
+10.86	rudder	hǎaŋsʉ̌a
+10.87	mast	sǎo
+10.88	sail (noun)	bay
+10.89	anchor	samɔ̌ɔ
+10.91	harbor, port	thâa
+10.92	land (vb)	kəəy
+11.11	have	mii
+11.12	own, possess	mii
+11.13	take	?aopay
+11.14	seize, grasp	kam
+11.15	hold	?ûm
+11.16	get, obtain	dâay
+11.17	keep, retain	kèp
+11.17	keep, retain	ráksǎa
+11.18	thing	khɔ̌ɔŋ
+11.21	give	hây
+11.22	give back	khʉʉn
+11.24	preserve, look after	ráksǎa
+11.25	save, rescue	chûay
+11.27	destroy	thamlaay
+11.28	harm, injure, damage	thamráay
+11.31	seek, look for	hǎa
+11.32	find	phóp
+11.32	find	cəə
+11.32	find	pà
+11.33	lose	thamhǎay
+11.33	lose	sǐa
+11.34	release, let go	plɔ̀y
+11.43	money	ŋən
+11.44	coin	rǐan
+11.51	rich	ruay
+11.51	rich	mâŋkhâŋ
+11.51	rich	mâŋmii
+11.52	poor	con
+11.52	poor	yâak
+11.52	poor	krɔɔ
+11.52	poor	?anaathǎa
+11.53	beggar	khɔ̌ɔthaan
+11.53	beggar	wáníphók
+11.53	beggar	yaacòk
+11.54	avaricious, stingy	nǐaw
+11.54	avaricious, stingy	traìi
+11.54	avaricious, stingy	tʉ̀ʉt
+11.54	avaricious, stingy	khǐam
+11.61	lend	hâyyʉʉm
+11.62	borrow	yʉʉm
+11.62	borrow	kûu
+11.63	owe	tìt
+11.63	owe	nîi
+11.64	debt	nîi
+11.65	pay (vb)	càay
+11.66	account, reckoning	bin
+11.69	tax, tribute	phaasǐi
+11.69	tax, tribute	caŋkɔ̀ɔp
+11.69	tax, tribute	sùay
+11.69	tax, tribute	?aakɔɔn
+11.77	hire	câaŋ
+11.78	wages	khâacâaŋ
+11.79	earn	dâay
+11.81	buy	sʉ́ʉ
+11.82	sell	khǎay
+11.82	sell	kháa
+11.83	trade, barter	kháa
+11.83	trade, barter	lâeaek
+11.83	trade, barter	plìan
+11.84	merchant	naayphaanít
+11.84	merchant	naaywaanít
+11.85	market (place)	talàat
+11.86	store, shop	ráan
+11.87	price	raakhaa
+11.87	price	khâa
+11.88	dear (costly, expensive)	phaeaeŋ
+11.89	cheap	thùuk
+11.89	cheap	yômyao
+11.91	share (distribute)	bàeŋ
+11.92	weigh	nàk
+12.11	place	thîi
+12.12	put	waaŋ
+12.13	sit	nâŋ
+12.14	lie down	nɔɔn
+12.15	stand	yʉʉn
+12.16	remain, stay	yùu
+12.16	remain, stay	yaŋ
+12.17	remains, left overs	sâak
+12.21	collect, gather	kèp
+12.212	pick up	kèp
+12.212	pick up	yìp
+12.213	pile up	kɔɔŋ
+12.22	join, unite	tɔ̀ɔ
+12.23	separate	yâeaek
+12.232	divide	bàeŋ
+12.24	open	pə̀ət
+12.24	open	bə̀ək
+12.25	shut, close	pìt
+12.26	cover	hòm
+12.26	cover	khlum
+12.27	hide, conceal	sɔ̂ɔn
+12.31	high	sǔŋ
+12.32	low	tàm
+12.33	top	yɔ̂ɔt
+12.34	bottom	kôn
+12.35	end	sùt
+12.352	pointed	lǎeaem
+12.352	pointed	sîam
+12.353	edge	khɔ̀ɔp
+12.353	edge	chaay
+12.353	edge	rim
+12.36	side	khâaŋ
+12.37	middle, center	klaaŋ
+12.41	right (side)	khwǎa
+12.42	left (side)	sáay
+12.43	near (adv)	klây
+12.44	far (adv)	klay
+12.45	east	tawan?ɔ̀ɔk
+12.45	east	buuraphaa
+12.46	west	tawantòk
+12.46	west	pracim
+12.47	north	nʉ̌a
+12.47	north	?udɔɔn
+12.48	south	tâay
+12.48	south	tháksǐn
+12.53	grow	too
+12.53	grow	ŋɔ̂ɔk
+12.54	measure	wát
+12.55	large, big	yày
+12.55	large, big	too
+12.56	small, little	lék
+12.56	small, little	nɔ́ɔy
+12.56	small, little	nít
+12.56	small, little	cɔ̂ɔy
+12.57	long	yaaw
+12.58	tall	sǔuŋ
+12.59	short	sân
+12.59	short	tîa
+12.59	short	tàm
+12.61	wide, broad	kwâaŋ
+12.62	narrow	khâeaep
+12.63	thick (in dimension)	nǎa
+12.65	thin (in dimension)	baaŋ
+12.67	deep	lʉ́k
+12.68	shallow	tʉ̂ʉn
+12.71	flat	baaŋ
+12.73	straight	troŋ
+12.73	straight	dìŋ
+12.74	crooked	khót
+12.74	crooked	ŋɔɔ
+12.75	hook	khɔ̌ɔ
+12.75	hook	bèt
+12.76	corner	mum
+12.76	corner	lìam
+12.77	cross	máaykaaŋkhěen
+12.78	square	catùràt
+12.81	round	klom
+12.81	round	mon
+12.82	circle	woŋ
+12.82	circle	koŋ
+12.83	sphere, ball	lûuk
+12.84	line	sên
+12.84	line	sǎay
+12.85	hole	ruu
+12.92	like, similar	khláay
+12.93	change	plìan
+13.1	one	sìp
+13.1	one	thót
+13.101	eleven	sìp?èt
+13.102	twelve	sìpsɔ̌ɔŋ
+13.103	fifteen	sìphâa
+13.104	twenty	yîisìp
+13.105	hundred	rɔ́ɔy
+13.106	thousand	phan
+13.107	count	náp
+13.14	every, all	tháŋmòt
+13.15	much, many	lǎay
+13.16	more	mâakkwàa
+13.17	little (quantity), few	sɔ̌ɔŋsǎam
+13.18	enough	phɔɔ
+13.181	some	bâaŋ
+13.19	multitude, crowd	klùm
+13.21	full	tem
+13.21	full	?ìm
+13.22	empty	wâaŋ
+13.22	empty	plàaw
+13.22	empty	wâaŋplàaw
+13.23	part, piece	sùan
+13.24	half	khrʉ̂ŋ
+13.33	alone, only	diaw
+13.34	first	râak
+13.34	first	kɔ̀ɔn
+13.35	last	sùttháay
+13.35	last	lòo
+13.36	second	thîisɔ̌ɔŋ
+13.37	pair	khûu
+13.38	two times	sɔ̌ɔŋthâo
+13.38	two times	thawiikhuun
+13.42	third	thîisǎam
+13.44	three times	sǎamthâo
+14.11	time	weelaa
+14.11	time	kaan
+14.11	time	pheelaa
+14.11	time	mʉ́ʉ
+14.11	time	yaam
+14.11	time	paaŋ
+14.11	time	waan
+14.11	time	waará
+14.12	age	?aayú
+14.12	age	way
+14.13	new	mày
+14.13	new	náwá
+14.14	young	?ɔ̀ɔn
+14.14	young	dèk
+14.15	old	kàeae
+14.15	old	thâo
+14.16	early	cháaw
+14.16	early	nə̂ən
+14.17	late	cháa
+14.17	late	lâa
+14.17	late	sǎay
+14.18	now	dǐawníi
+14.18	now	bàtníi
+14.18	now	khanàníi
+14.19	immediately	thanthii
+14.19	immediately	thanday
+14.21	swift, fast, quick	rew
+14.22	slow	cháa
+14.23	hasten, hurry	rîip
+14.24	retard, delay	sǎay
+14.24	retard, delay	lèet
+14.25	begin, beginning	rə̂əm
+14.252	last, endure	yùunaan
+14.26	end (temporal)	sîn
+14.27	finish	sèt
+14.27	finish	láeaew
+14.27	finish	còp
+14.27	finish	rîaprɔ́ɔy
+14.28	cease, stop	lə̂ək
+14.29	ready	phrɔ́ɔm
+14.31	always	samə̌ə
+14.32	often	bɔ̀y
+14.32	often	thìi
+14.33	sometimes	baaŋthii
+14.331	soon	dǐaw
+14.332	long-time (for a)	naan
+14.34	never	mâykhəəy
+14.34	never	hɔ̀ɔn
+14.35	again	?ìik
+14.35	again	sám
+14.41	day	klaaŋwan
+14.42	night	klaaŋkhʉʉn
+14.42	night	raatrii
+14.42	night	ráttikaan
+14.43	dawn	rûŋ
+14.43	dawn	?ùsǎa
+14.43	dawn	?arun
+14.44	morning	cháaw
+14.44	morning	ŋaay
+14.45	noon, midday	thîaŋ
+14.451	afternoon	bàay
+14.46	evening	khâm
+14.46	evening	sǎayan
+14.47	today	wanníi
+14.48	tomorrow	phrûŋníi
+14.481	day-after-tomorrow	marʉʉn
+14.49	yesterday	waan
+14.491	day-before-yesterday	waansʉʉn
+14.51	hour	chûamooŋ
+14.53	clock, timepiece	naalíkaa
+14.61	week	?aathít
+14.61	week	sàpdaa
+14.62	Sunday	?aathít
+14.63	Monday	can
+14.64	Tuesday	?aŋkhaan
+14.65	Wednesday	phút
+14.66	Thursday	phárʉ́hàtsàbɔdii
+14.67	Friday	sùk
+14.68	Saturday	sǎo
+14.71	month	dʉan
+14.71	month	mâat
+14.71	month	ŋûat
+14.73	year	pii
+14.73	year	khùap
+14.73	year	khâaw
+14.74	winter	nâanǎaw
+14.74	winter	hěeman
+14.75	spring	nâaymáyphlì
+14.75	spring	wásǎn
+14.76	summer	nâarɔ́ɔn
+14.76	summer	khimhǎn
+14.77	autumn	nâabaymáayrûaŋ
+14.77	autumn	sàat
+14.78	season	nâa
+14.78	season	rʉ́duu
+15.21	smell (vb intrans)	miiklìn
+15.212	sniff	dom
+15.22	smell (vb trans)	dâayklìn
+15.25	fragrant, good smelling	hɔ̌ɔm
+15.26	stinking, bad smelling	měn
+15.31	taste	rót
+15.35	sweet	wǎan
+15.35	sweet	?eem
+15.35	sweet	máthúrót
+15.36	salty	khem
+15.37	bitter	khǒm
+15.38	acid, sour	prîaw
+15.38	acid, sour	sôm
+15.39	brackish	krɔ̀y
+15.41	hear	yin
+15.41	hear	sadàp
+15.42	listen	faŋ
+15.44	sound, noise	sǐaŋ
+15.45	loud	daŋ
+15.46	quiet, silence	ŋîap
+15.51	see	hěn
+15.52	look, look at	mɔɔŋ
+15.52	look, look at	duu
+15.52	look, look at	laeae
+15.55	show	hâyduu
+15.55	show	chíi
+15.55	show	sadaeaeŋ
+15.56	shine	sɔ̀ŋ
+15.57	bright	câa
+15.61	color	sǐi
+15.61	color	wan
+15.61	color	phan
+15.61	color	wanná
+15.62	light (in color)	sawàaŋ
+15.63	dark (in color)	mʉ̂ʉt
+15.64	white	khǎaw
+15.65	black	dam
+15.66	red	daeaeŋ
+15.67	blue	fáa
+15.68	green	khǐaw
+15.69	yellow	lʉ̌aŋ
+15.71	touch	tàe
+15.71	touch	sǎmphàt
+15.712	pinch	yìk
+15.72	feel	càp
+15.74	hard	khǎeŋ
+15.74	hard	klâa
+15.75	soft	nîm
+15.75	soft	nûm
+15.75	soft	nûm
+15.76	rough	yàap
+15.77	smooth	lamun
+15.78	sharp	khom
+15.79	blunt, dull	thʉ̂ʉ
+15.79	blunt, dull	thûu
+15.81	heavy	nàk
+15.82	light (in weight)	bao
+15.83	wet, damp	pìak
+15.84	dry	hâeaeŋ
+15.85	hot	rɔ́ɔn
+15.851	warm	?ùn
+15.86	cold	nǎaw
+15.86	cold	seŋ
+15.87	clean	sa?àat
+15.88	dirty, soiled	sòkkapròk
+15.89	wrinkled	yôn
+16.11	soul, spirit	winyaan
+16.11	soul, spirit	khwǎn
+16.42	anger	khʉaŋ
+16.15	surprised, astonished	pralàatcay
+16.15	surprised, astonished	plàakcay
+16.18	good fortune, luck	chôokdii
+16.18	good fortune, luck	khrɔ́dii
+16.19	misfortune, bad luck	chôokráay
+16.19	misfortune, bad luck	khrɔ́ráay
+16.23	joyful, glad, happy	sùk
+16.25	laugh	hǔarɔ́
+16.25	laugh	hǔa
+16.251	smile	yím
+16.26	play	lên
+16.27	love	rák
+16.27	love	mák
+16.29	kiss	cùup
+16.29	kiss	cumphít
+16.3	embrace	kɔ̀ɔt
+16.31	pain	khwaamcèp
+16.32	grief, sorrow, sadness	sâo
+16.32	grief, sorrow, sadness	sòok
+16.32	grief, sorrow, sadness	thúk
+16.32	grief, sorrow, sadness	rathom
+16.32	grief, sorrow, sadness	mòn
+16.33	anxiety, worry	khwaamkaŋwon
+16.33	anxiety, worry	khwaamklûm
+16.34	regret, be sorry	sǐacay
+16.35	pity	sǒŋsǎan
+16.35	pity	hěncay
+16.37	cry, weep	rɔ́ɔŋhâay
+16.38	tear (noun)	náamtaa
+16.39	groan	khraaŋ
+16.41	hate	klìat
+16.41	hate	chaŋ
+16.42	anger	khwaamkròot
+16.42	anger	chǐw
+16.44	envy, jealousy	khwaamìtchǎa
+16.44	envy, jealousy	khwaamrítsayǎa
+16.45	shame (noun)	kHwaamla?aay
+16.48	proud	phuumcay
+16.51	dare	klâa
+16.51	dare	hǎan
+16.52	brave	klâa
+16.52	brave	hǎan
+3.97	crocodile, alligator	khêe
+16.53	fear, fright	klua
+16.53	fear, fright	yân
+16.54	danger	phay
+16.54	danger	?antaraay
+17.13	think (= reflect)	?àan
+16.62	desire, want	yàak
+16.62	desire, want	khrây
+16.62	desire, want	pràatthanǎa
+17.19	idea, notion	?aydia
+16.622	choose	lʉ̂ak
+17.43	doubt	sǒŋkaa
+1.213	dust	phǒŋ
+1.35	wave	fɔ̂ɔŋ
+1.214	mud	tom
+1.214	mud	lòm
+2.1	person, human being	phûu
+2.82	family	khrua
+2.28	infant, baby	ŋaeae
+3.596	owl	kháomaeaew
+3.596	owl	kháo
+3.655	shell	plʉ̀ak
+3.97	crocodile, alligator	khêe
+4.47	womb	khan
+17.65	when?	mʉ̂aday
+17.68	who?	phûuday
+17.68	who?	phǎy
+17.66	where?	thîiday
+16.63	hope	wǎŋ
+16.65	faithful	sʉ̂ʉsàt
+16.66	true	ciŋ
+16.66	true	tháeae
+16.66	true	mâeaen
+16.67	lie, tell lies	koohòk
+16.68	deceit	khwaamlɔ̀ɔkluaŋ
+16.69	forgive	yókthôot
+16.69	forgive	?aphay
+16.69	forgive	níráthôot
+16.71	good	dii
+1.41	woods, forest	doŋ
+1.41	woods, forest	phray
+3.12	male (adj)	thʉ̀k
+16.72	bad	leew
+16.72	bad	ráay
+16.72	bad	chûa
+5.47	sieve, strain	rɔ̂n
+16.73	right, correct	thùuk
+16.74	wrong	phìt
+16.76	fault	khwaamphìt
+16.77	mistake, error	khwaamphìtphlâat
+16.78	blame	thôot
+16.78	blame	khamklàawhǎa
+16.78	blame	hǎa
+16.79	praise	khamchom
+16.81	beautiful	sǔay
+16.82	ugly	nâaklìat
+16.67	lie, tell lies	pòt
+16.83	greedy	ŋók
+16.84	clever	chalàat
+4.281	nape of neck	tônkhɔɔ
+17.11	mind	cìt
+17.13	think (= reflect)	khít
+17.14	think (= be of the opinion)	hěn
+17.15	believe	chʉ̂a
+17.16	understand	khâocay
+17.17	know	rúu
+17.171	guess	thaay
+17.171	guess	dao
+17.172	imitate	lian
+17.18	seem	duumʉ̌an
+17.19	idea, notion	khwaamkhít
+17.21	wise	chalàat
+17.22	foolish, stupid	ŋôo
+17.23	insane, crazy	bâa
+17.23	insane, crazy	wíkoncarìt
+17.23	insane, crazy	khlâŋ
+17.24	learn	rian
+17.24	learn	sʉ̀ksǎa
+17.24	learn	sìkkhǎa
+17.242	study	rian
+17.25	teach	sɔ̌ɔn
+17.26	pupil	nákrian
+17.27	teacher	khruu
+17.27	teacher	?aacaan
+17.27	teacher	baa
+17.28	school	rooŋrian
+17.31	remember	cam
+17.32	forget	lʉʉm
+17.34	clear, plain	chát
+17.35	obscure	khlumkrʉa
+17.36	secret	láp
+17.37	sure, certain	nâenɔɔn
+17.38	explain	?àthíbaay
+17.41	intention, purpose	khwaamtâŋcay
+17.42	cause	sǎahèet
+17.43	doubt	sǒŋsǎy
+17.43	doubt	khɔ̂ŋcay
+17.44	suspect	sǒŋsǎy
+17.441	betray	thɔɔrayót
+17.441	betray	hàklǎŋ
+17.45	need, necessity	khwaamcampen
+17.46	easy	ŋâay
+17.47	difficult	yâak
+17.48	try, attempt	phayaayaam
+17.49	way, manner	láksanà
+17.49	way, manner	yàaŋ
+17.49	way, manner	bàep
+17.51	and	láe
+17.51	and	láe
+17.52	because	phrɔ́
+17.52	because	dûay
+17.53	if	thâa
+17.53	if	phʉ̀a
+17.54	or	rʉ̌ʉ
+17.55	yes, affirmative	chây
+17.56	no, negative	mây
+17.56	no, negative	bɔ̀ɔ
+17.56	no, negative	pày
+17.61	how?	yàaŋray
+17.62	how many?	kìi
+17.63	how much?	thâorày
+17.64	what?	?aray
+17.65	when?	mʉ̂aray
+17.66	where?	thîinǎy
+17.67	which?	?annǎy
+17.68	who?	khray
+17.69	why?	thammay
+18.11	voice	sǐaŋ
+18.12	sing	rɔ́ɔŋ
+18.12	sing	khàp
+18.13	shout, cry out	takoon
+18.13	shout, cry out	rɔ́ɔŋ
+18.13	shout, cry out	pàaw
+18.15	whisper	krasíp
+18.16	mumble	ŋʉmŋam
+18.16	mumble	phʉmpham
+18.17	whistle	phǐw
+18.18	shriek, screech	wìit
+18.19	howl	hɔ̌ɔn
+18.21	speak, talk	phûut
+18.21	speak, talk	wâa
+18.21	speak, talk	khuy
+18.211	stutter, stammer	tìt?àaŋ
+18.22	say	phûut
+18.22	say	bɔ̀ɔk
+18.221	tell story	lâo
+18.222	speech (make a)	sunthɔɔraphót
+18.23	silent (be)	ŋîap
+18.24	language	phaasǎa
+18.24	language	phâak
+18.26	word	kham
+18.28	name	chʉ̂ʉ
+18.28	name	rîak
+18.31	ask (question, inquire)	thǎam
+18.32	answer	tɔ̀ɔp
+18.32	answer	chalə̌əy
+18.33	admit, confess	ráp
+18.34	deny	patìsèet
+18.35	ask, request	khɔ̌ɔ
+18.36	promise	sǎnyaa
+18.37	refuse	patìséet
+18.38	forbid	hâam
+18.39	rebuke, scold	dàa
+18.39	rebuke, scold	?èt
+18.41	call (=summon)	rîak
+18.42	call (=name)	rîak
+18.43	announce	prakàat
+18.43	announce	pàaw
+18.44	threaten	khùu
+18.45	boast	?ùat
+18.51	write	khǐan
+18.51	write	tâeaem
+18.52	read	?àan
+18.56	paper	kradàat
+18.57	pen	pàakkaa
+18.61	book	nǎŋsʉ̌ʉ
+18.67	poet	kawii
+18.71	flute	khlùy
+18.71	flute	pìi
+18.72	drum	klɔɔŋ
+18.73	horn, trumpet	traeae
+19.11	country	prathêet
+19.11	country	mʉaŋ
+19.12	one's native country	bâankə̀ətmʉaŋnɔɔn
+19.15	city, town	mʉaŋ
+19.15	city, town	nákhɔɔn
+19.15	city, town	burii
+19.16	village	mùubâan
+19.16	village	bâan
+19.17	boundary	khèet
+19.17	boundary	daeaen
+19.17	boundary	khèetdaaen
+19.17	boundary	khǎn
+19.21	people (populace)	prachaachon
+19.23	tribe, clan	khôot
+19.23	tribe, clan	ŋâo
+19.24	chief, chieftain	khǔn
+19.24	chief, chieftain	tháaw
+19.24	chief, chieftain	phayaa
+19.24	chief, chieftain	naayók
+19.25	staff, walking stick	máaytháaw
+19.31	rule, govern	pòkkhrɔɔŋ
+19.32	king, ruler	kasàt
+19.32	king, ruler	raachaa
+19.32	king, ruler	câawphàendin
+19.32	king, ruler	phuumii
+19.32	king, ruler	bɔɔphít
+19.33	queen	raachinii
+19.36	noble, nobleman	khǔnnaaŋ
+19.37	citizen, subject	phonlamʉaŋ
+19.41	master	naay
+19.41	master	câaw
+19.42	slave	thâat
+19.42	slave	khâa
+19.43	servant	khoncháy
+19.43	servant	bàaw
+19.44	freeman	thay
+19.44	freeman	?ìtsaràchon
+19.44	freeman	sěeriichon
+19.45	command, order	sàŋ
+19.45	command, order	banchaa
+19.46	obey	chʉ̂afaŋ
+19.46	obey	wâanɔɔnsɔ̌ɔnŋâay
+19.47	let, permit	?ànúyâat
+19.47	let, permit	hây
+19.51	friend, companion	phʉ̂an
+19.51	friend, companion	kləə
+19.51	friend, companion	sahǎay
+19.52	enemy	sàttruu
+19.52	enemy	khâasʉ̀k
+19.54	neighbor	phʉ̂anbâan
+19.55	stranger	khonplàeknâa
+19.56	guest	khàek
+19.57	host	câawphâap
+19.58	help, aid	chûay
+19.59	hinder, prevent	pɔ̂ŋkan
+19.61	custom	thamniam
+19.61	custom	prapheenii
+19.62	strife, quarrel	thalɔ́
+19.63	conspiracy, plot	phǎeaen
+19.65	meet	phóp
+19.65	meet	cəə
+19.65	meet	pà
+19.65	meet	hǎa
+19.72	prostitute	sǒopheenii
+19.72	prostitute	karìi
+19.72	prostitute	kháníkaa
+19.72	prostitute	dɔ̀ɔkthɔɔŋ
+19.72	prostitute	yǐŋŋaammʉaŋ
+20.11	fight (vb)	sûu
+20.11	fight (vb)	róp
+20.13	war, battle	sǒŋkhraam
+20.13	war, battle	sʉ̀k
+20.14	peace	sǎntìphâap
+20.15	army	tháp
+20.15	army	kɔɔŋ
+20.15	army	kɔɔŋtháp
+20.17	soldier	thahǎan
+20.17	soldier	thaklâew
+20.17	soldier	thaklâa
+20.21	weapons, arms	?aawút
+20.21	weapons, arms	sàttraa
+20.22	club	krabɔɔŋ
+20.222	battle-ax	khwǎan
+20.23	sling	saliŋ
+20.24	bow	thanuu
+20.24	bow	sɔ̌ɔn
+20.25	arrow	lûukthanuu
+20.25	arrow	lûuksɔ̌ɔn
+20.25	arrow	lûukdɔ̀ɔk
+20.26	spear	hɔ̀ɔk
+20.27	sword	dàap
+20.27	sword	phráa
+20.28	gun, cannon	pʉʉn
+20.31	armor (defensive)	krɔ̀
+20.33	helmet	mùak
+20.34	shield	lôo
+20.35	fortress	pɔ̂m
+20.36	tower	hɔ̌ɔkhɔɔy
+20.41	victory	chay
+20.42	defeat	praachay
+20.43	attack	tii
+20.44	defend	pɔ̂ŋkan
+20.45	retreat	thɔ̌y
+20.46	surrender	yɔɔmpháeae
+20.47	captive, prisoner	chaləəy
+20.471	guard, sentinel	yaam
+20.49	ambush	kaansûmcoomtii
+20.51	fisherman	chaawpramoŋ
+20.52	fishhook	bèt
+20.53	fishing line	sǎaybèt
+20.54	fishnet	hǎe
+20.55	fish trap	say
+20.56	bait	yʉ̀a
+20.61	hunt	lâa
+20.62	shoot	yiŋ
+20.63	miss (target)	phlâat
+20.64	trap (noun)	kàp
+20.65	trap (vb)	dàk
+21.11	law	kòtmǎay
+21.11	law	nítì
+21.15	court	sǎan
+21.16	judge (vb)	tàtsǐn
+21.16	judge (vb)	phíphâaksǎa
+21.17	judgment	khamtàtsǐn
+21.18	judge (noun)	phûuphíphâaksǎa
+21.18	judge (noun)	tulaakaan
+21.18	judge (noun)	sùphaa
+21.21	plaintiff	còot
+21.22	defendant	camləəy
+21.23	witness	phayaan
+21.24	swear	sǎabaan
+21.24	swear	sabòt
+21.25	oath	khamsǎabaan
+21.31	accuse	klàawhǎa
+21.32	condemn	loŋthôot
+21.33	convict (vb)	phìt
+21.34	acquit	plɔ̀ytua
+21.35	guilty	phìt
+21.36	innocent	bɔɔrisùt
+21.37	penalty, punishment	thôot
+21.37	penalty, punishment	than
+21.38	fine	khâapràp
+21.39	prison, jail	khúk
+21.39	prison, jail	taraaŋ
+21.39	prison, jail	saŋtee
+21.42	murder	khâattakam
+21.43	adultery	phìtlûukphìtmia
+21.44	rape	khòmkhʉ̌ʉn
+21.46	arson	waaŋpləəŋ
+21.46	arson	phǎo
+21.47	perjury	khamhâykaanthét
+21.51	steal	khamooy
+21.51	steal	lák
+21.52	thief	khamooy

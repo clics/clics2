@@ -1,0 +1,1326 @@
+@classification: Na-Dene,Nuclear Na-Dene,Tlingit
+@ids-name: Tlingit_Phonemic
+@iso: tli
+@language: Tlingit
+@size: 1319
+@source: ids
+@variety: std
+1.1	world	lingitˀaaní
+1.21	earth, land	tlˀátk
+1.212	earth=ground, soil	tlˀéx̣ˀkʷ
+1.212	earth=ground, soil	tlˀáx̣ˀkʷ
+1.213	dust	kadánǰaa
+1.214	mud	ḳútlˀkʷ
+1.214	mud	ḳootlˀ
+1.215	sand	lˀéiw
+1.215	sand	lˀéiwyátxˀi
+1.22	mountain, hill	šaa
+1.22	mountain, hill	šaayadaa
+1.22	mountain, hill	šaašaakée
+1.22	mountain, hill	šaaseiyí
+1.22	mountain, hill	gooč
+1.222	cliff, precipice	g̣ílˀ
+1.24	valley	šaanáx̣
+1.25	island	xˀáatˀ
+1.26	mainland	tleiyán
+1.27	shore	yán
+1.27	shore	neeč
+1.27	shore	éeḳ
+1.27	shore	xákʷ
+1.28	cave	tatóok
+1.28	cave	katóok
+1.31	water	héen
+1.31	water	ḳéesˀ
+1.324	foam	x̣eel
+1.324	foam	x̣eil
+1.324	foam	x̣eeš
+1.329	ocean	éilˀ
+1.33	lake	áa
+1.34	gulf, bay	g̣eey
+1.34	gulf, bay	g̣eiy
+1.341	lagoon	áakˀʷ
+1.342	reef	eeč
+1.342	reef	hintueeǰí
+1.342	reef	šaltláax̣
+1.343	headland, point	xˀaa
+1.343	headland, point	xˀaaluká
+1.343	headland, point	taxˀaayí
+1.343	headland, point	lˀéiwxˀaayí
+1.35	wave	teet
+1.35	wave	teettlénxˀ
+1.352	tide	haat
+1.352	tide	xˀóolˀ
+1.353	lowtide	léin
+1.36	river, stream, brook	kanaadaayihéen
+1.36	river, stream, brook	naadaayiheen
+1.36	river, stream, brook	héenšú
+1.36	river, stream, brook	hinšú
+1.36	river, stream, brook	héenwantú
+1.36	river, stream, brook	taašuká
+1.36	river, stream, brook	héenšáak
+1.36	river, stream, brook	héentáak
+1.36	river, stream, brook	héenwát
+1.36	river, stream, brook	héentˀiká
+1.362	whirlpool	haatkool
+1.37	spring, well	goon
+1.38	swamp	šáčk
+1.39	waterfall	xˀáas
+1.39	waterfall	eey
+1.41	woods, forest	aasgutú
+1.41	woods, forest	atgutú
+1.43	wood	lˀóowú
+1.43	wood	lˀeiwú
+1.43	wood	kaxˀásˀti
+1.44	stone, rock	eeč
+1.44	stone, rock	té
+1.44	stone, rock	téx̣áaxˀ
+1.44	stone, rock	éečˀ
+1.44	stone, rock	ḳaadí
+1.44	stone, rock	dakaadí
+1.45	earthquake	yooaankaá
+1.51	sky	xáatsˀ
+1.51	sky	góosˀ
+1.52	sun	g̣agaan
+1.53	moon	dís
+1.54	star	ḳutx̣ayanahá
+1.55	lightning	xeitllˀúkgu
+1.55	lightning	xeitllˀíkgu
+1.58	storm	ayaditee
+1.58	storm	ayag̣eet
+1.59	rainbow	kičx̣anagaat
+1.61	light (noun)	kagán
+1.62	darkness	kag̣ít
+1.62	darkness	g̣eet
+1.62	darkness	kaǰig̣eet
+1.63	shade, shadow	čéx̣ˀi
+1.63	shade, shadow	čeix̣ˀ
+1.63	shade, shadow	yahaayí
+1.72	wind	óoxǰaa
+1.72	wind	kˀeelǰáa
+1.72	wind	xóon
+1.72	wind	dákdeát
+1.72	wind	lˀag̣akáx̣
+1.72	wind	yándeát
+1.72	wind	sáanáx̣
+1.72	wind	tˀaaḳú
+1.73	cloud	ḳugóosˀ
+1.73	cloud	góosˀ
+1.74	fog	ḳugʷáasˀ
+1.74	fog	ḳugáasˀ
+1.75	rain (noun)	séew
+1.75	rain (noun)	sóow
+1.76	snow (noun)	dleit
+1.76	snow (noun)	kaklahéen
+1.76	snow (noun)	kalahéen
+1.76	snow (noun)	dleitkakétsk
+1.76	snow (noun)	dleitg̣éedi
+1.76	snow (noun)	dletgéedi
+1.77	ice	tˀéexˀ
+1.77	ice	kaxʷaan
+1.77	ice	kadásˀ
+1.78	weather	ḳutí
+1.78	weather	ḳusaáatˀ
+1.78	weather	ḳuxaak
+1.81	fire	x̣ˀaan
+1.82	flame (noun)	ganyalˀóotˀ
+1.83	smoke (noun)	sˀeeḳ
+1.83	smoke (noun)	sˀeiḳ
+1.84	ashes	gáneetí
+1.84	ashes	kélˀtˀ
+1.84	ashes	xóoštˀ
+1.851	burn (vb trans)	sigaan
+1.851	burn (vb trans)	sigántˀ
+1.851	burn (vb trans)	šikeilˀ
+1.851	burn (vb trans)	x̣ˀeix̣ˀ
+1.86	light, kindle, ignite	akaligaan
+1.861	extinguish	yakalioox
+1.861	extinguish	kalikeesˀ
+1.861	extinguish	yakalikeesˀ
+1.87	match (noun)	ux̣ganḳáasˀ
+1.88	firewood	gán
+1.88	firewood	gántuxoogú
+1.88	firewood	gánláx̣ˀi
+1.88	firewood	atkaayí
+1.89	charcoal	tˀoočˀ
+1.89	charcoal	tˀoočˀté
+2.1	person, human being	lingít
+2.1	person, human being	leengít
+2.1	person, human being	yanwáat
+2.21	man (vs. woman)	ḳáa
+2.22	woman	šaawát
+2.25	boy	yadakˀʷác̷kˀu
+2.251	young man (adolescent)	yadákˀʷ
+2.251	young man (adolescent)	yéesḳuoo
+2.26	girl	šaatkˀác̷kˀu
+2.261	young woman (adolescent)	šaatkˀ
+2.27	child	yádi
+2.27	child	atkˀác̷kˀu
+2.28	infant, baby	tˀukanéiyi
+2.31	husband	x̣úx̣
+2.31	husband	x̣ánaa
+2.32	wife	šát
+2.33	marry	šaa
+2.33	marry	yašaa
+2.35	father	éeš
+2.36	mother	tláa
+2.41	son	yéet
+2.42	daughter	sée
+2.44	brother	éekˀ
+2.444	older brother	húnx̣ʷ
+2.445	younger brother	kéekˀ
+2.45	sister	dlaakˀ
+2.454	older sister	šátx̣
+2.455	younger sister	kéekˀ
+2.458	twins	woočkikyátxˀee
+2.46	grandfather	léelkˀʷ
+2.46	grandfather	áali
+2.47	grandmother	léelkˀʷ
+2.47	grandmother	áali
+2.48	grandson	dačx̣án
+2.49	granddaughter	dačx̣án
+2.511	mother's brother	káak
+2.512	father's brother	sáni
+2.521	mother's sister	tláakˀʷ
+2.522	father's sister	aat
+2.53	nephew	kéilkˀ
+2.53	nephew	káalkˀʷ
+2.56	ancestors	šagóon
+2.61	father-in-law (of a man)	wóo
+2.62	mother-in-law (of a man)	čaan
+2.76	widow	lsˀaatišaawát
+2.81	relatives, kinsmen	eenaa
+2.91	I	x̣át
+2.92	you (singular)	waé
+2.93	he/she/it	hú
+2.93	he/she/it	hú
+2.93	he/she/it	á
+2.94	we	uháan
+2.96	they	hás
+3.18	herdsman	wanadóolatíni
+3.23	cow	wasóos
+3.24	calf	saayee
+3.25	sheep	wanadóo
+3.29	lamb	wanadóoyádi
+3.35	pig	gišoo
+3.35	pig	gušoo
+3.36	goat	tawéi
+3.41	horse (equine)	gawdáan
+3.46	ass, donkey	gawdáanyádi
+3.56	goose	ḳín
+3.57	duck	gáaxʷ
+3.58	nest	kút
+3.58	nest	dlikˀʷátˀ
+3.581	bird	c̷ˀíc̷kʷ
+3.581	bird	c̷ˀac̷ˀée
+3.582	seagull	kéidladi
+3.582	seagull	kootlˀéitˀaa
+3.583	heron	láx̣ˀ
+3.584	eagle	čˀáakˀ
+3.585	hawk	šaayáal
+3.593	crow	c̷ˀaxʷeil
+3.594	dove	gusˀyékindačooneidí
+3.596	owl	d͜získˀʷ
+3.596	owl	c̷ískˀʷ
+3.596	owl	kˀákʷ
+3.596	owl	tlénxˀšx̣ˀaneit
+3.596	owl	x̣éex̣
+3.61	dog	keitl
+3.614	rabbit	g̣áx̣
+3.62	cat	dóoš
+3.63	mouse, rat	kag̣áak
+3.63	mouse, rat	kuc̷ˀeen
+3.653	fishscale	kaǰeig̣í
+3.653	fishscale	ǰeig̣í
+3.654	gill	xˀéixú
+3.655	shell	xáak
+3.661	shark	tóosˀ
+3.662	porpoise, dolphin	čeeč
+3.662	porpoise, dolphin	ḳˀaan
+3.663	whale	yáay
+3.663	whale	kéet
+3.665	freshwater eel	lóotˀ
+3.71	wolf	g̣ooč
+3.72	lion	haadaag̣ooǰí
+3.73	bear	sˀeek
+3.73	bear	xóoc̷
+3.73	bear	sˀuḳkasdúk
+3.73	bear	c̷eeneit
+3.73	bear	hintakxóod͜zi
+3.73	bear	sítˀtuxóod͜zi
+3.74	fox	naag̣asˀéi
+3.75	deer	g̣uwakaan
+3.75	deer	ḳuwakaan
+3.76	monkey	aandaatkanahík
+3.81	insect	atkanasaadí
+3.811	louse	wéisˀ
+3.813	flea	tíx
+3.813	flea	teex
+3.813	flea	d͜ziteex
+3.814	centipede	atxaayí
+3.817	ant	wanatíx
+3.817	ant	wanatóox
+3.818	spider	c̷ˀawkaat
+3.818	spider	c̷ˀankʷaat
+3.818	spider	atkanasaadí
+3.819	spider web	c̷ˀawkaatkasneiyí
+3.82	bee	gandaasˀaaǰí
+3.822	beehive	gandaasˀaaǰíkúdi
+3.83	fly	neilyeetáaxˀayi
+3.832	mosquito	táaxˀaa
+3.84	worm	tlˀúkˀx̣
+3.85	snake	lˀutˀtláaḳ
+3.94	snail	táax̣ˀ
+3.95	frog	xíxčˀ
+3.96	lizard	c̷eenx̣ˀé
+3.98	turtle	tanóoxˀ
+3.98	turtle	kanóoxˀ
+4.12	skin, hide	čˀáatwu
+4.12	skin, hide	dook
+4.12	skin, hide	doogú
+4.13	flesh	daadleeyí
+4.14	hair (head)	šax̣aawú
+4.14	hair (head)	x̣aaw
+4.14	hair (head)	šad͜zix̣aaw
+4.144	body hair	daad͜zix̣aaw
+4.146	dandruff	kéilˀ
+4.15	blood	šeiyí
+4.151	vein, artery	téetˀi
+4.16	bone	sˀaag̣í
+4.162	rib	sˀóog̣u
+4.17	horn	šeidí
+4.17	horn	šéidee
+4.18	tail	lˀeedí
+4.18	tail	koowú
+4.19	back	díx̣
+4.19	back	déx̣ˀ
+4.2	head	šá
+4.2	head	lakˀéečˀ
+4.2	head	lakˀeečˀkóog̣u
+4.201	side of head, temple	yatˀákʷ
+4.202	skull	šaláx̣ˀ
+4.203	brain	tlag̣eiyí
+4.204	face	yá
+4.204	face	wá
+4.205	forehead	káakˀ
+4.207	jaw	x̣ˀásˀ
+4.208	cheek	wáš
+4.208	cheek	wašká
+4.208	cheek	waštú
+4.209	chin	téey
+4.21	eye	waaḳ
+4.212	eyebrow	sˀéi
+4.212	eyebrow	sˀee
+4.214	eyelash	waḳx̣ˀax̣éix̣u
+4.214	eyelash	wax̣ˀax̣éix̣ˀu
+4.215	blink	lˀook
+4.215	blink	lˀeek
+4.22	ear	gúk
+4.23	nose	lú
+4.23	nose	lutˀaaḳ
+4.23	nose	lugóočˀ
+4.231	nostril	lutú
+4.24	mouth	x̣ˀé
+4.24	mouth	laká
+4.241	beak	loowú
+4.26	tongue	lˀóotˀ
+4.27	tooth	oox̣
+4.28	neck	lidíx̣ˀ
+4.28	neck	ldˀíx̣ˀ
+4.29	throat	leitóox̣
+4.3	shoulder	x̣ikšá
+4.31	arm	ǰig̣ei
+4.31	arm	čg̣ei
+4.31	arm	x̣eek
+4.312	armpit	éenyee
+4.32	elbow	tˀeey
+4.32	elbow	tˀeeyšú
+4.321	wrist	ǰiklixˀéesˀ
+4.33	hand	ǰín
+4.33	hand	ǰikóol
+4.33	hand	čkóol
+4.33	hand	ǰiwán
+4.33	hand	čwán
+4.331	palm of hand	ǰintáak
+4.331	palm of hand	ǰintakyádi
+4.34	finger	tlˀeeḳ
+4.34	finger	tlˀeiḳ
+4.342	thumb	gooš
+4.344	fingernail	x̣aakʷ
+4.345	claw	x̣aagú
+4.35	leg	x̣ˀoos
+4.35	leg	xéesˀ
+4.351	thigh	g̣ác̷
+4.36	knee	keey
+4.36	knee	keeyšá
+4.37	foot	x̣ˀoos
+4.371	ankle	šutóox̣ˀ
+4.372	heel	x̣ˀeitákʷ
+4.374	footprint	x̣ˀuseetí
+4.38	toe	x̣ˀustlˀeeḳ
+4.38	toe	x̣ˀusgooš
+4.392	wing	kíǰi
+4.393	feather	tˀaaw
+4.393	feather	x̣ˀʷáalˀ
+4.4	chest	wóow
+4.4	chest	woowká
+4.41	breast (of woman)	lˀaa
+4.41	breast (of woman)	xeitká
+4.43	navel	kool
+4.43	navel	taanwú
+4.43	navel	táani
+4.44	heart	téix̣ˀ
+4.441	lung	keigú
+4.45	liver	tlˀóog̣u
+4.46	stomach	yoowú
+4.46	stomach	x̣ˀóolˀ
+4.46	stomach	yoowˀá
+4.461	intestines, guts	naasí
+4.462	waist	kasán
+4.464	buttocks	g̣ác̷
+4.464	buttocks	kˀí
+4.52	yawn, gape	waaš
+4.52	yawn, gape	ḳˀayawaaš
+4.521	hiccough	dootˀ
+4.53	cough	ad͜zikooḳ
+4.54	sneeze	adlic̷ˀíxaa
+4.56	spit	x̣ˀahéeni
+4.56	spit	toox̣
+4.56	spit	litoox̣
+4.57	vomit	háasˀ
+4.57	vomit	dliḳoo
+4.58	bite	sitaaxˀ
+4.59	lick	tleitˀ
+4.59	lick	yatleitˀ
+4.61	sleep	tá
+4.61	sleep	taa
+4.61	sleep	yataa
+4.61	sleep	x̣eixˀʷ
+4.612	snore	ayakeet
+4.62	dream	ǰoon
+4.62	dream	ayaǰoon
+4.63	wake up	geet
+4.63	wake up	keisigeet
+4.63	wake up	x̣eiḳ
+4.69	bathe	dioosˀ
+4.69	bathe	šooč
+4.69	bathe	yašooč
+4.73	pregnant	šayac̷ˀeetˀ
+4.74	live, living, life	x̣ˀaséikʷ
+4.74	live, living, life	daséikʷ
+4.74	live, living, life	ḳustí
+4.74	live, living, life	yac̷een
+4.75	die, dead	naná
+4.75	die, dead	yanaa
+4.75	die, dead	geiḳ
+4.76	kill	een
+4.76	kill	yaeen
+4.76	kill	ǰaaḳ
+4.76	kill	yaǰaaḳ
+4.78	bury (the dead)	sinaa
+4.79	grave, tomb	ḳaadaakeidí
+4.81	strong, mighty, powerful	lac̷een
+4.81	strong, mighty, powerful	lic̷een
+4.82	weak	kaditeisˀ
+4.84	sick, sickness	néekʷ
+4.84	sick, sickness	yaneekʷ
+4.841	fever	tˀaaynéekʷ
+4.843	cold (catarrh)	ḳusaáatˀnéekʷ
+4.85	wound, sore	kaxʷeitl
+4.85	wound, sore	tlˀooḳ
+4.85	wound, sore	sˀéilˀ
+4.85	wound, sore	čoon
+4.853	swelling	šakadinook
+4.853	swelling	dlixˀeesˀ
+4.853	swelling	ḳaač
+4.854	itch	kalixʷeitl
+4.856	boil (noun)	xˀees
+4.857	pus	ḳéetˀ
+4.858	scar	teel
+4.858	scar	liteel
+4.86	cure, heal	neix̣
+4.86	cure, heal	sineix̣
+4.86	cure, heal	yasaan
+4.87	physician	ḳunáagu
+4.88	medicine, drug	náakʷ
+4.88	medicine, drug	yanaakʷ
+4.91	tired, weary	kayad͜zaas
+4.91	tired, weary	saaḳ
+4.91	tired, weary	kayasaaḳ
+4.91	tired, weary	dixʷeitl
+4.912	rest	saa
+4.912	rest	dlisaa
+4.92	lazy	ad͜zikaa
+4.93	bald	x̣ˀʷaasˀ
+4.94	lame	tléilkašigoot
+4.95	deaf	lḳooláx̣ǰi
+4.96	mute	lyooḳˀeištángi
+4.96	mute	x̣ˀašitaan
+4.97	blind	lḳooštéeni
+4.97	blind	ḳušiteen
+4.98	intoxicated	naawsˀaatí
+4.98	intoxicated	atdanáayi
+4.98	intoxicated	šoo
+5.11	eat	yax̣aa
+5.11	eat	čˀeetˀ
+5.11	eat	ličˀeetˀ
+5.122	raw	šísˀk
+5.123	ripe	kayatˀaa
+5.124	green, unripe	x̣ˀaatˀ
+5.125	rotten	naaḳʷ
+5.125	rotten	sˀeex
+5.125	rotten	lisˀeex
+5.125	rotten	tlˀooḳ
+5.125	rotten	x̣ˀʷaan
+5.13	drink	naa
+5.13	drink	dinaa
+5.13	drink	look
+5.141	famine	laaxʷ
+5.15	thirst	šayakoox
+5.16	suck	lˀaa
+5.16	suck	lilˀaa
+5.16	suck	ootˀ
+5.16	suck	yaootˀ
+5.18	chew	taaxˀ
+5.18	chew	yataaxˀ
+5.18	chew	x̣ˀeetˀ
+5.181	swallow	nootˀ
+5.181	swallow	yanootˀ
+5.19	choke	sayac̷eexˀ
+5.21	cook	ee
+5.21	cook	siee
+5.21	cook	daak
+5.21	cook	lidaak
+5.22	boil (vb)	ook
+5.22	boil (vb)	liook
+5.22	boil (vb)	taa
+5.22	boil (vb)	sitaa
+5.23	roast, fry	litˀoosˀ
+5.23	roast, fry	sˀook
+5.26	pot, cooking vessel	ḳˀʷátl
+5.27	kettle	tˀaawáḳxˀeešáa
+5.31	dish	sˀíxˀ
+5.31	dish	ḳˀaakanéi
+5.31	dish	kílaa
+5.31	dish	kélaa
+5.32	plate	sˀíxˀḳˀáatlˀ
+5.34	pitcher, jug	ḳˀateil
+5.34	pitcher, jug	ínxˀeešáa
+5.34	pitcher, jug	tˀoočˀineit
+5.35	cup, drinking vessel	gúxˀʷaa
+5.37	spoon	šál
+5.37	spoon	leineitšál
+5.37	spoon	yéc̷ˀšál
+5.37	spoon	šeen
+5.37	spoon	yaxʷein
+5.38	knife	lítaa
+5.39	fork	áčatdusx̣aát
+5.391	tongs	éenaa
+5.391	tongs	lˀátˀaa
+5.391	tongs	lˀaatˀ
+5.41	meal (a)	atx̣á
+5.43	lunch	wóow
+5.43	lunch	woo
+5.43	lunch	diwoo
+5.46	peel	daakayayeix̣
+5.46	peel	šulidleixʷ
+5.47	sieve, strain	čaa
+5.47	sieve, strain	kaličaa
+5.48	scrape	dlixeetˀ
+5.48	scrape	yaxaasˀ
+5.51	bread	sakʷnéinéewu
+5.54	knead	kayačoox
+5.55	meal, flour	sakʷnéin
+5.56	crush, grind	tˀeix̣ˀ
+5.56	crush, grind	yatˀeix̣ˀ
+5.56	crush, grind	kalixaakʷ
+5.58	mortar	kaxágʷaayeit
+5.58	mortar	katˀéx̣ˀaayeit
+5.59	pestle	katˀéx̣ˀaa
+5.59	pestle	katˀix̣ˀaa
+5.61	meat	dleey
+5.64	soup, broth	tax̣héenee
+5.7	potato	kˀúnc̷ˀ
+5.79	oil	neisˀ
+5.791	grease, fat	taay
+5.791	grease, fat	g̣uwakaantaayí
+5.791	grease, fat	sˀeekeex̣í
+5.791	grease, fat	yaaweex̣í
+5.791	grease, fat	saakeex̣í
+5.81	salt	éilˀ
+5.82	pepper	siáaxˀuát
+5.82	pepper	attux̣ˀʷúnsˀi
+5.82	pepper	náakʷ
+5.86	milk (noun)	wasóoslˀaatux̣áni
+6.12	clothing, clothes	naaát
+6.21	cloth	sˀísaa
+6.28	fur	x̣aawú
+6.33	weave	aak
+6.33	weave	yaaak
+6.35	sew	yaḳaa
+6.36	needle	táaxˀalˀ
+6.36	needle	kawóotkaíšaa
+6.36	needle	lukatˀíšaa
+6.36	needle	katˀíšaa
+6.38	thread	tás
+6.38	thread	tíxˀyátxˀi
+6.39	dye	kaséḳˀx̣u
+6.39	dye	kaliyeisˀ
+6.39	dye	seiḳˀʷ
+6.42	woman's dress	lˀaak
+6.43	coat	kinaakát
+6.43	coat	kinaaát
+6.44	shirt	kˀoodás
+6.44	shirt	goodásˀ
+6.48	trousers	tuḳˀatál
+6.49	stocking, sock	lˀeexˀʷán
+6.51	shoe	téel
+6.52	boot	xˀʷán
+6.52	boot	atxáštitéel
+6.52	boot	ǰáaǰi
+6.54	shoemaker, cobbler	téellayeix̣í
+6.55	hat, cap	sˀáaxʷ
+6.57	belt, girdle	séek
+6.58	glove	c̷áaʔ
+6.62	button	ḳaayakóotˀi
+6.62	button	yookaóotˀ
+6.63	pin	x̣ˀéixˀʷalˀ
+6.63	pin	x̣ˀéexˀʷalˀ
+6.74	bracelet	kées
+6.75	necklace	seit
+6.76	bead	kawóot
+6.77	earring	gukát
+6.77	earring	gukádi
+6.77	earring	gukkaǰaaší
+6.79	tattoo	kasiḳaa
+6.81	handkerchief, rag	lug̣ʷéinaa
+6.82	towel	ǰig̣ʷéinaa
+6.91	comb	xéidu
+6.921	braid	seet
+6.921	braid	kaliseet
+6.93	razor	aanyaduxasˀat
+6.93	razor	aanyatxasˀat
+6.95	soap	úsˀaa
+6.96	mirror	tóonáx̣ḳaateen
+7.11	dwell, live	tee
+7.11	dwell, live	yatee
+7.12	house	hít
+7.12	house	neil
+7.14	tent	sˀísaahít
+7.21	room	eetká
+7.22	door, gate	xˀaháat
+7.22	door, gate	x̣ˀawool
+7.24	key	katíx̣ˀaa
+7.24	key	katéx̣ˀaa
+7.25	window	x̣aawaag̣éi
+7.25	window	x̣aawaag̣í
+7.26	floor	tˀáaká
+7.27	wall	tˀáayá
+7.37	ladder	d͜zeit
+7.42	bed	yeeát
+7.42	bed	káax̣ex̣xˀuyeit
+7.421	pillow	šayeit
+7.422	blanket	xˀóow
+7.422	blanket	lˀée
+7.43	chair	káayag̣iǰeit
+7.43	chair	káayaḳiǰeit
+7.44	table	nadáakʷ
+7.45	lamp, torch	sˀeenáa
+7.46	candle	toowsˀeenáa
+7.47	shelf	yaašká
+7.48	trough	kátyatusˀkʷát
+7.51	roof	hitká
+7.51	roof	hítká
+7.54	rafter	hítkaságu
+7.54	rafter	hítkagaadí
+7.54	rafter	atkax̣yee
+7.55	beam	hítdaideidí
+7.56	post, pole	gáasˀ
+7.56	post, pole	c̷ág̣aa
+7.57	board	tˀáa
+7.63	mortar	kaxágʷaayeit
+8.11	farmer	akahéix̣i
+8.13	garden	táay
+8.16	fence	kˀanáaxan
+8.212	furrow	lixeet
+8.22	dig	kasihaa
+8.24	shovel	ḳutlˀídaa
+8.24	shovel	yaxʷein
+8.311	seed	xˀaakeidí
+8.48	rice	kóox
+8.51	grass	x̣aatlˀ
+8.51	grass	čookán
+8.51	grass	taanx̣ˀadaad͜zaayi
+8.51	grass	sooḳ
+8.531	plant (vb)	kadlic̷oow
+8.54	root	x̣aat
+8.54	root	sˀú
+8.55	branch	tˀáni
+8.56	leaf	kayaaní
+8.57	flower	ḳˀeikaxʷéin
+8.57	flower	kˀeikadlixʷein
+8.6	tree	aas
+8.6	tree	šisˀḳ
+8.61	oak	gusˀkˀiḳʷáanlˀoowú
+8.61	oak	gusˀkˀiḳʷáanlˀeiwú
+8.63	birch	daayí
+8.65	fir	leiyís
+8.68	tobacco	g̣ánč
+8.69	smoke (tobacco)	disˀeiḳ
+8.691	pipe	sˀeiḳdaakeit
+8.691	pipe	sˀiḳdaakeit
+8.72	tree stump	aasgoowú
+8.73	tree trunk	aaskˀeeyi
+8.75	bark	looní
+8.75	bark	láx̣ˀi
+8.76	sap	láx̣ˀi
+8.76	sap	káx̣i
+8.76	sap	téil
+8.76	sap	aaskˀóox̣ˀu
+8.97	nettle	tˀóokˀ
+9.12	work	yéiǰiné
+9.14	bend	kasiteix̣ˀ
+9.15	fold	kalikˀʷaatˀ
+9.16	tie, bind	aax̣ʷ
+9.16	tie, bind	daasiaax̣ʷ
+9.16	tie, bind	sˀeet
+9.16	tie, bind	kayasˀeet
+9.16	tie, bind	tlˀeen
+9.161	untie	kayakeilˀ
+9.18	chain	wóošnáx̣
+9.18	chain	x̣ˀakakeix̣í
+9.19	rope, cord	tíxˀ
+9.192	knot (noun)	dooxˀ
+9.192	knot (noun)	kayadooxˀ
+9.192	knot (noun)	šeey
+9.21	strike (hit, beat)	ǰaaḳʷ
+9.21	strike (hit, beat)	yaǰaaḳʷ
+9.21	strike (hit, beat)	x̣íšt
+9.22	cut	yaxaaš
+9.22	cut	lixaaš
+9.22	cut	ḳˀeitlˀ
+9.221	cut down	kalix̣eeč
+9.222	chop, hew	sˀoow
+9.223	stab	yadig̣eeč
+9.23	knife	wéikš
+9.23	knife	g̣atltultaa
+9.23	knife	g̣atltulítaa
+9.23	knife	x̣ˀéi
+9.23	knife	šadagutx̣lítaa
+9.24	scissors, shears	ḳaašaxášaa
+9.25	ax	šunaxʷáayi
+9.25	ax	šanxʷˀaayi
+9.25	ax	šanx̣ʷáayi
+9.25	ax	šanax̣ʷáayiyádi
+9.251	adze	x̣útˀaa
+9.26	break	lˀeexˀ
+9.26	break	kˀooc̷
+9.26	break	xˀeil
+9.27	split	lix̣ootˀ
+9.27	split	kalix̣ootˀ
+9.27	split	x̣aaxˀ
+9.28	tear	sˀeilˀ
+9.28	tear	yasˀeilˀ
+9.29	flay, skin	yac̷ˀeiˀ
+9.29	flay, skin	lixˀeeš
+9.31	rub, wipe	linaa
+9.31	rub, wipe	čoox
+9.31	rub, wipe	ličoox
+9.31	rub, wipe	ǰig̣eelˀ
+9.31	rub, wipe	lig̣oo
+9.32	stretch	yeet
+9.32	stretch	kayayeet
+9.32	stretch	tˀeeš
+9.32	stretch	yatˀeeš
+9.33	pull	yeeš
+9.33	pull	yayeeš
+9.33	pull	sixaatˀ
+9.33	pull	six̣ootˀ
+9.34	spread out	šoo
+9.34	spread out	kayaleet
+9.341	hang up	dixʷaasˀ
+9.343	squeeze, wring	kayateix̣ˀ
+9.343	squeeze, wring	lig̣ooc̷
+9.343	squeeze, wring	kayag̣ootl
+9.35	pour	sixaa
+9.35	pour	kasixaa
+9.35	pour	kasig̣aat
+9.36	wash	oosˀ
+9.36	wash	yaoosˀ
+9.37	sweep	yaxeetˀ
+9.38	broom	xítˀaa
+9.422	tool	ǰišagóon
+9.422	tool	atšagóoni
+9.43	carpenter	atlayeix̣í
+9.44	build	liyeix̣
+9.46	bore	tool
+9.46	bore	yatool
+9.48	saw	xášaa
+9.48	saw	kaxˀásˀaa
+9.49	hammer	táḳl
+9.5	nail	tuháayi
+9.5	nail	šayéen
+9.63	cast (metals)	dáanaatˀéex̣ˀi
+9.64	gold	góon
+9.65	silver	dáanaa
+9.66	copper, bronze	teenáa
+9.66	copper, bronze	tináa
+9.72	mold (clay etc)	kanágaa
+9.72	mold (clay etc)	téeltukanágaa
+9.73	clay	sˀé
+9.74	glass	ítˀč
+9.76	basket	ḳákʷ
+9.76	basket	sˀixʷaadáa
+9.76	basket	tuḳdaadaxákʷ
+9.76	basket	tudaxákʷ
+9.771	rug	g̣áač
+9.81	carve	atkačˀáakˀu
+9.81	carve	kayateey
+9.81	carve	čˀaakˀʷ
+9.84	chisel	téeyaa
+9.84	chisel	kačˀakʷaa
+9.88	paint (noun)	néegʷálˀ
+9.89	paint (vb)	yanéegʷalˀ
+10.11	move	yagaasˀ
+10.12	turn over	ayaditaa
+10.14	wind, wrap	kayayeeḳ
+10.15	roll	kalitool
+10.15	roll	ǰoox
+10.15	roll	yagʷaatl
+10.16	drop (vb)	soos
+10.16	drop (vb)	kayasoos
+10.17	twist	teiḳˀ
+10.17	twist	siteiḳˀ
+10.17	twist	kasiteiḳˀ
+10.17	twist	xˀaa
+10.21	rise	keiyaaat
+10.21	rise	dihaan
+10.21	rise	šadinook
+10.21	rise	keiyagoot
+10.21	rise	šadiḳee
+10.22	raise, lift	šasiḳee
+10.24	drip	kadooyaxˀaas
+10.25	throw	d͜zoo
+10.25	throw	yad͜zoo
+10.25	throw	ǰoox̣ˀ
+10.25	throw	liǰoox̣ˀ
+10.25	throw	yag̣eeč
+10.26	shake	šakayayook
+10.26	shake	neit
+10.26	shake	kadineit
+10.26	shake	keek
+10.26	shake	x̣ʷaal
+10.32	flow	aa
+10.32	flow	kayaaa
+10.32	flow	aaš
+10.32	flow	yaaaš
+10.32	flow	daa
+10.32	flow	sidaa
+10.33	sink	yataax̣ˀʷ
+10.34	float	akayahaa
+10.34	float	haaš
+10.34	float	lihaaš
+10.35	swim	hoo
+10.35	swim	yahoo
+10.35	swim	sihoo
+10.35	swim	yakʷaan
+10.35	swim	heen
+10.35	swim	yaheen
+10.351	dive	ǰikˀein
+10.352	splash	tˀaatl
+10.352	splash	kalitˀaatl
+10.352	splash	čˀeeš
+10.37	fly (vb)	yeeč
+10.37	fly (vb)	kadliyeeč
+10.38	blow	oox
+10.38	blow	yaoox
+10.41	creep, crawl	tlooxˀ
+10.41	creep, crawl	g̣ʷaatˀ
+10.41	creep, crawl	dig̣ʷaatˀ
+10.412	kneel	yantóoxˀyac̷oow
+10.42	slide, slip	yaleet
+10.42	slide, slip	x̣ˀeelˀ
+10.43	jump, leap	yataan
+10.43	jump, leap	ǰikˀein
+10.44	dance	lˀeix̣
+10.44	dance	sˀaasˀ
+10.44	dance	dlisˀaasˀ
+10.44	dance	ḳuyasˀaasˀ
+10.45	walk	goot
+10.45	walk	yagoot
+10.45	walk	aat
+10.45	walk	yaaat
+10.45	walk	geit
+10.45	walk	yageit
+10.451	limp	ḳáčk
+10.451	limp	liḳáčk
+10.46	run	gooḳ
+10.46	run	luyagooḳ
+10.472	climb	keiyaaat
+10.472	climb	tlˀeitˀ
+10.473	go down	yeiyaaat
+10.473	go down	yeiyagoot
+10.48	come	yaḳoox̣
+10.49	go away, depart	tlˀeet
+10.491	disappear	kadihaa
+10.51	flee	keiayadigoot
+10.51	flee	dikeilˀ
+10.61	carry (bear)	aat
+10.61	carry (bear)	liaat
+10.61	carry (bear)	kaliaat
+10.61	carry (bear)	aax̣
+10.61	carry (bear)	yatee
+10.613	carry-on-shoulder	yayaa
+10.613	carry-on-shoulder	ǰeekˀ
+10.613	carry-on-shoulder	goot
+10.62	bring	háayataan
+10.63	send	kayaḳaa
+10.64	lead (vb)	šuyagoot
+10.64	lead (vb)	šuyaaat
+10.65	drive	yasitaan
+10.67	push, shove	gooḳ
+10.71	road	dei
+10.72	path	kei
+10.72	path	kayakei
+10.81	ship	gánteenyaakʷ
+10.81	ship	gántiyaakʷ
+10.83	boat	yaakʷ
+10.83	boat	aandaayaagú
+10.83	boat	dax̣áčxˀi
+10.831	canoe	ǰaaḳúx̣
+10.84	raft	x̣aanásˀ
+10.84	raft	x̣áanasˀ
+10.851	paddle (noun)	ax̣áa
+10.851	paddle (noun)	ayax̣aa
+10.852	row (vb)	ditˀeek
+10.87	mast	yaakʷkaaasí
+10.88	sail (noun)	yaakʷyik
+10.88	sail (noun)	sˀísayi
+10.89	anchor	šayéinaa
+10.89	anchor	šasiyaa
+10.91	harbor, port	déili
+11.15	hold	yeik
+11.15	hold	liyeik
+11.15	hold	šaat
+11.15	hold	kalitlˀeitˀ
+11.16	get, obtain	dlaaḳ
+11.28	harm, injure, damage	šadihaa
+11.31	seek, look for	tˀeet
+11.31	seek, look for	ḳudlitˀeet
+11.32	find	tˀei
+11.32	find	yatˀei
+11.34	release, let go	naaḳ
+11.34	release, let go	ǰiyanaaḳ
+11.44	coin	dáanaa
+11.51	rich	dáanaasˀaatí
+11.51	rich	lanáalx̣
+11.51	rich	lináalx̣
+11.52	poor	ḳˀanašgidéiḳáa
+11.54	avaricious, stingy	g̣eiḳ
+11.54	avaricious, stingy	šig̣eiḳ
+11.62	borrow	heesˀ
+11.62	borrow	yaheesˀ
+11.65	pay (vb)	yaḳei
+11.65	pay (vb)	ǰiyaḳei
+11.81	buy	oo
+11.81	buy	yaoo
+11.82	sell	hoon
+11.82	sell	yahoon
+11.84	merchant	dahooní
+11.84	merchant	hoonsˀaatí
+11.86	store, shop	hoondakahídi
+11.88	dear (costly, expensive)	x̣ˀalic̷een
+11.91	share (distribute)	gaa
+11.91	share (distribute)	kaligaa
+12.1	after	aít
+12.1	after	aítnáx̣
+12.11	place	atˀéik
+12.11	place	ḳaatˀáak
+12.11	place	akˀiyee
+12.3	down, below	aseiyí
+12.3	down, below	aeeg̣ayáak
+12.41	right (side)	ayá
+12.41	right (side)	duǰiyee
+12.5	inside, in	ayík
+12.5	inside, in	atú
+12.5	inside, in	ayee
+12.6	outside	adaaká
+12.7	under	atayee
+12.8	up, above	akináak
+12.8	up, above	akanáak
+12.13	sit	aa
+12.13	sit	yaaa
+12.13	sit	yanook
+12.13	sit	yaḳee
+12.13	sit	ḳaaḳ
+12.15	stand	haan
+12.15	stand	yahaan
+12.15	stand	yanaaḳ
+12.21	collect, gather	diaat
+12.21	collect, gather	yasihaa
+12.21	collect, gather	yayeey
+12.213	pile up	čaak
+12.213	pile up	kayačaak
+12.213	pile up	keidig̣aat
+12.26	cover	akaháadi
+12.26	cover	ayanaáatˀani
+12.26	cover	kasihaat
+12.27	hide, conceal	liseen
+12.33	top	axˀaan
+12.33	top	aká
+12.34	bottom	atáak
+12.34	bottom	atuḳdaa
+12.35	end	ašú
+12.35	end	kayakeesˀ
+12.352	pointed	axˀaan
+12.353	edge	awán
+12.353	edge	axˀaan
+12.36	side	tˀaḳká
+12.36	side	ḳaatl
+12.36	side	ḳatlyá
+12.36	side	atˀaaḳ
+12.37	middle, center	adagiyigé
+12.43	near (adv)	dux̣ˀan
+12.43	near (adv)	sei
+12.43	near (adv)	kayasei
+12.44	far (adv)	lei
+12.53	grow	aa
+12.53	grow	kayaaa
+12.54	measure	kaa
+12.54	measure	kaay
+12.54	measure	akaayí
+12.541	span, fathom	waat
+12.56	small, little	géikˀ
+12.59	short	yaatlˀ
+12.59	short	yayaatlˀ
+12.61	wide, broad	woox̣ˀ
+12.61	wide, broad	yawoox̣ˀ
+12.62	narrow	saa
+12.62	narrow	yasaa
+12.62	narrow	lisaa
+12.63	thick (in dimension)	tlaa
+12.63	thick (in dimension)	kaak
+12.63	thick (in dimension)	sikaak
+12.65	thin (in dimension)	lixoon
+12.65	thin (in dimension)	g̣aax̣ˀ
+12.68	shallow	kayac̷ˀaan
+12.71	flat	tˀaalˀ
+12.71	flat	kayatˀaalˀ
+12.74	crooked	kad͜ziteix̣ˀ
+12.75	hook	kˀeix̣ˀ
+12.76	corner	gúkš
+12.76	corner	gukšú
+12.77	cross	kanéist
+12.83	sphere, ball	koočˀéetˀaa
+12.85	hole	wool
+12.92	like, similar	yayaa
+13.1	one	tléixˀ
+13.2	two	déix̣
+13.3	three	násˀk
+13.4	four	daaxˀoon
+13.5	five	keiǰín
+13.6	six	tleidoošú
+13.7	seven	dax̣adoošú
+13.8	eight	nasˀgadoošú
+13.9	nine	goošúḳ
+13.10	ten	ǰinkaat
+13.101	eleven	ǰinkaatkatléixˀ
+13.104	twenty	tleiḳáa
+13.107	count	d͜zitoow
+13.19	multitude, crowd	aantḳeení
+13.21	full	heek
+13.21	full	šayaheek
+13.21	full	tlˀeetˀ
+13.23	part, piece	ašoowú
+13.24	half	akígi
+13.37	pair	woošyaayí
+13.38	two times	déix̣dahéen
+13.38	two times	dax̣dahéen
+13.44	three times	násˀkdahéen
+14.11	time	gaaw
+14.15	old	šaan
+14.15	old	šannákˀʷ
+14.18	now	yeedát
+14.22	slow	čˀéeyaḳʷ
+14.23	hasten, hurry	wootl
+14.23	hasten, hurry	diwootl
+14.252	last, endure	yac̷aakʷ
+14.27	finish	nee
+14.27	finish	yanyanee
+14.41	day	yakyee
+14.42	night	taat
+14.42	night	nisdaat
+14.43	dawn	ḳeex̣ˀé
+14.43	dawn	ḳeix̣ˀé
+14.43	dawn	ḳeiá
+14.43	dawn	ḳeeá
+14.44	morning	c̷ˀootaat
+14.45	noon, midday	sitgawsáan
+14.451	afternoon	yakyee
+14.46	evening	xáanaa
+14.48	tomorrow	seig̣án
+14.48	tomorrow	seig̣ánin
+14.49	yesterday	tatgé
+14.51	hour	gaaw
+14.53	clock, timepiece	gaaw
+14.71	month	dís
+14.73	year	táakʷ
+14.74	winter	ḳusitaakʷ
+14.77	autumn	yeis
+15.212	sniff	ḳud͜zineexˀ
+15.22	smell (vb trans)	neexˀ
+15.22	smell (vb trans)	d͜zineexˀ
+15.25	fragrant, good smelling	lic̷ˀaa
+15.26	stinking, bad smelling	liteix̣
+15.26	stinking, bad smelling	čaan
+15.35	sweet	núkc̷
+15.37	bitter	aaxˀʷ
+15.37	bitter	siaaxˀʷ
+15.38	acid, sour	sˀoox
+15.38	acid, sour	kalisˀoox
+15.41	hear	aax̣
+15.41	hear	yaaax̣
+15.44	sound, noise	lagaaw
+15.45	loud	gaaw
+15.45	loud	ligaaw
+15.46	quiet, silence	x̣ˀasinaaḳ
+15.46	quiet, silence	yakˀaatlˀ
+15.51	see	yateen
+15.51	see	siteen
+15.52	look, look at	tín
+15.52	look, look at	litín
+15.52	look, look at	adlig̣een
+15.56	shine	kadigaan
+15.56	shine	lig̣ei
+15.57	bright	kalileek
+15.64	white	dleit
+15.65	black	tˀoočˀ
+15.66	red	léix̣ˀʷ
+15.66	red	x̣ˀaan
+15.67	blue	x̣ˀéišxˀʷ
+15.68	green	sˀoow
+15.69	yellow	tlˀáatlˀ
+15.71	touch	ǰéedinook
+15.71	touch	čooxˀ
+15.712	pinch	c̷ˀeekˀʷ
+15.712	pinch	sˀóoškʷ
+15.75	soft	dixʷaač
+15.76	rough	kasixˀaax
+15.77	smooth	yaasˀ
+15.77	smooth	kadiyaasˀ
+15.78	sharp	likˀaac̷ˀ
+15.78	sharp	yalig̣eelˀ
+15.79	blunt, dull	tléillikˀaac̷ˀ
+15.79	blunt, dull	yadig̣eel
+15.81	heavy	yadaal
+15.81	heavy	lidaal
+15.83	wet, damp	yoox̣ˀ
+15.83	wet, damp	diyoox̣ˀ
+15.83	wet, damp	naa
+15.83	wet, damp	sinaa
+15.83	wet, damp	tlˀaakˀ
+15.83	wet, damp	geeš
+15.84	dry	yaxook
+15.85	hot	yayatˀaa
+15.851	warm	yatˀaa
+15.851	warm	sitˀaa
+15.86	cold	aatˀ
+15.86	cold	ḳusiaatˀ
+15.87	clean	tléillitook
+15.89	wrinkled	geen
+15.89	wrinkled	kašigeen
+16.11	soul, spirit	toowú
+16.15	surprised, astonished	ǰeič
+16.15	surprised, astonished	ḳˀadigʷaatl
+16.19	misfortune, bad luck	ǰinaháa
+16.23	joyful, glad, happy	sagú
+16.23	joyful, glad, happy	ḳaatóowoosigoo
+16.25	laugh	šooḳ
+16.25	laugh	yašooḳ
+16.251	smile	nooc̷
+16.251	smile	yayašooḳ
+16.27	love	ḳusax̣án
+16.27	love	x̣án
+16.37	cry, weep	g̣aax̣
+16.37	cry, weep	g̣ax̣sitee
+16.38	tear (noun)	wax̣ˀahéeni
+16.39	groan	kasg̣aax̣
+16.41	hate	kˀaan
+16.41	hate	šikˀaan
+16.42	anger	xˀaan
+16.44	envy, jealousy	yasiteey
+16.45	shame (noun)	déixˀ
+16.45	shame (noun)	kadéixˀ
+16.48	proud	toowúkalag̣é
+16.53	fear, fright	dleikʷ
+16.53	fear, fright	x̣eetlˀ
+16.54	danger	x̣éetlˀšan
+16.62	desire, want	goo
+16.63	hope	tután
+16.66	true	xˀéig̣aaát
+16.67	lie, tell lies	ḳˀaliyeil
+16.67	lie, tell lies	šḳˀadliyeil
+16.71	good	kˀei
+16.71	good	yakˀei
+16.72	bad	šikˀei
+16.72	bad	tléilšikˀei
+16.73	right, correct	ayáx̣
+16.74	wrong	agéide
+16.79	praise	kašéix̣ˀ
+16.79	praise	kašéex̣ˀ
+16.81	beautiful	yakˀei
+16.84	clever	yaaḳud͜zigei
+17.13	think (= reflect)	yootutánk
+17.13	think (= reflect)	tundatáan
+17.13	think (= reflect)	ǰee
+17.15	believe	heen
+17.15	believe	ayaheen
+17.16	understand	ḳaadáayaaḳušusigei
+17.17	know	gook
+17.17	know	šigook
+17.17	know	sikoo
+17.172	imitate	tee
+17.172	imitate	yatee
+17.22	foolish, stupid	tléilyaaḳuǰigei
+17.242	study	štóolitoow
+17.25	teach	xˀlitoow
+17.25	teach	ǰaa
+17.25	teach	šukayaǰaa
+17.26	pupil	yaaatnaskʷéini
+17.26	pupil	sgóonwaan
+17.27	teacher	ḳóoatlatéewu
+17.31	remember	haa
+17.31	remember	sayahaa
+17.32	forget	akásayaxˀaaḳʷ
+17.44	suspect	yaḳeet
+17.45	need, necessity	aeetínáx̣
+17.48	try, attempt	aaḳʷ
+17.48	try, attempt	kayaaaḳʷ
+18.11	voice	sé
+18.11	voice	satú
+18.12	sing	ší
+18.12	sing	šee
+18.12	sing	atšéeyi
+18.12	sing	atšéexˀi
+18.12	sing	atší
+18.13	shout, cry out	eexˀ
+18.13	shout, cry out	yaeexˀ
+18.17	whistle	eikʷ
+18.17	whistle	ees
+18.17	whistle	ḳˀadiees
+18.21	speak, talk	x̣ˀaliaat
+18.221	tell story	neek
+18.221	tell story	kalineek
+18.221	tell story	kayaneek
+18.221	tell story	tlaakʷ
+18.222	speech (make a)	x̣ˀaditaan
+18.24	language	yoox̣ˀatank
+18.26	word	yoox̣ˀatank
+18.28	name	saa
+18.28	name	yasaa
+18.31	ask (question, inquire)	woosˀ
+18.33	admit, confess	Ayayaḳaa
+18.33	admit, confess	yasiḳaa
+18.34	deny	yaakʷ
+18.34	deny	akaliyaakʷ
+18.34	deny	šaaḳ
+18.34	deny	yašaaḳ
+18.35	ask, request	kalix̣oox̣
+18.36	promise	atyasiḳaa
+18.36	promise	ḳóonyasiḳaa
+18.38	forbid	lig̣aas
+18.39	rebuke, scold	daay
+18.39	rebuke, scold	ḳaayáadeiyad͜zidaay
+18.41	call (=summon)	yax̣oox̣
+18.42	call (=name)	yoo
+18.42	call (=name)	x̣ˀadliyoo
+18.43	announce	tˀaayayaḳaa
+18.51	write	kašxeedí
+18.51	write	kašixeet
+18.52	read	toow
+18.52	read	yatoow
+18.56	paper	xˀúxˀ
+18.57	pen	kooxéedaa
+18.57	pen	kooxídaa
+18.61	book	xˀúxˀ
+18.72	drum	gaaw
+18.74	rattle	šeišóox̣
+19.11	country	ḳuoo
+19.15	city, town	aan
+19.21	people (populace)	aḳʷáan
+19.23	tribe, clan	naa
+19.24	chief, chieftain	aanḳáawu
+19.24	chief, chieftain	ḳaašáadeháni
+19.31	rule, govern	sˀáatee
+19.36	noble, nobleman	aanyádi
+19.36	noble, nobleman	aanyátxˀi
+19.37	citizen, subject	x̣ooní
+19.41	master	ḳaasˀaatí
+19.42	slave	goox̣
+19.43	servant	kooḳénaayi
+19.45	command, order	naa
+19.45	command, order	kayanaa
+19.45	command, order	x̣ˀakayaḳaa
+19.51	friend, companion	x̣ooní
+19.51	friend, companion	tˀaag̣í
+19.52	enemy	yaanaayí
+19.54	neighbor	kˀidaakáaa
+19.58	help, aid	šee
+19.58	help, aid	dišee
+19.62	strife, quarrel	diḳaan
+20.11	fight (vb)	ḳuligaaw
+20.13	war, battle	adawóotl
+20.14	peace	kayéilˀ
+20.17	soldier	xˀig̣aaḳáa
+20.22	club	xˀúsˀ
+20.23	sling	ǰúx̣ˀaa
+20.25	arrow	tláaḳ
+20.25	arrow	čooneit
+20.25	arrow	gútl
+20.26	spear	c̷aagálˀ
+20.26	spear	táanaa
+20.26	spear	áadaa
+20.26	spear	woosáani
+20.26	spear	dlagʷáa
+20.26	spear	yataaḳ
+20.28	gun, cannon	óonaa
+20.31	armor (defensive)	niyaháat
+20.31	armor (defensive)	yinaaháat
+20.31	armor (defensive)	xˀáanyinaaát
+20.33	helmet	šadaa
+20.43	attack	ǰidiaat
+20.43	attack	ǰidigoot
+20.45	retreat	ayadigoot
+20.47	captive, prisoner	g̣alšáatadi
+20.471	guard, sentinel	adéli
+20.471	guard, sentinel	taataayíadéli
+20.471	guard, sentinel	deil
+20.51	fisherman	atkˀíx̣ˀdi
+20.51	fisherman	asg̣eiwú
+20.51	fisherman	ašalx̣óotˀi
+20.51	fisherman	astˀeix̣í
+20.51	fisherman	šookalx̣aaǰí
+20.52	fishhook	tˀeixáa
+20.52	fishhook	tˀeix̣
+20.52	fishhook	náxʷ
+20.52	fishhook	kˀeix̣ˀ
+20.53	fishing line	kad͜ziyeek
+20.54	fishnet	deegáa
+20.54	fishnet	g̣eiwú
+20.55	fish trap	šáal
+20.56	bait	yayanaaḳʷ
+20.61	hunt	lˀoon
+20.61	hunt	alˀóoni
+20.62	shoot	oon
+20.62	shoot	yaoon
+20.62	shoot	yatˀook
+20.63	miss (target)	únx̣aa
+20.63	miss (target)	yasiúnx̣aa
+20.64	trap (noun)	yéix̣
+20.64	trap (noun)	g̣aatáa
+20.64	trap (noun)	ad͜zig̣aat
+21.23	witness	atwuskóowu
+21.39	prison, jail	g̣ayéisˀhít
+21.42	murder	ḳoowaǰag̣iaa
+21.51	steal	taaw
+21.51	steal	yataaw
+21.52	thief	táawsˀaatí

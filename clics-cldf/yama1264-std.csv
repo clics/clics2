@@ -1,0 +1,658 @@
+ID,Language_ID,Feature_ID,IDS_Key,Value,Concept,IPA_UDECODE
+clics-doculect-58-1,yama1264-std,concepticon-626,1.21,tan,"earth, land",tan
+clics-doculect-58-2,yama1264-std,concepticon-1228,1.212,tan,"earth=ground, soil",tan
+clics-doculect-58-3,yama1264-std,concepticon-2,1.213,tan,dust,tan
+clics-doculect-58-4,yama1264-std,concepticon-640,1.214,pantru,mud,pantru
+clics-doculect-58-5,yama1264-std,concepticon-671,1.215,asola,sand,asola
+clics-doculect-58-6,yama1264-std,concepticon-2118,1.22,tular,"mountain, hill",tular
+clics-doculect-58-7,yama1264-std,concepticon-618,1.222,arakur,"cliff, precipice",arakur
+clics-doculect-58-8,yama1264-std,concepticon-921,1.24,luči,valley,luci
+clics-doculect-58-9,yama1264-std,concepticon-622,1.25,yeška,island,yeska
+clics-doculect-58-10,yama1264-std,concepticon-113,1.27,peka,shore,peka
+clics-doculect-58-11,yama1264-std,concepticon-948,1.31,sima,water,sima
+clics-doculect-58-12,yama1264-std,concepticon-1474,1.32,ixa,sea,ixa
+clics-doculect-58-13,yama1264-std,concepticon-258,1.322,yaleku,calm (of sea),yaleku
+clics-doculect-58-14,yama1264-std,concepticon-259,1.323,ukear,rough (of sea),ukear
+clics-doculect-58-15,yama1264-std,concepticon-1768,1.324,sia,foam,sia
+clics-doculect-58-16,yama1264-std,concepticon-645,1.329,ixa,ocean,ixa
+clics-doculect-58-17,yama1264-std,concepticon-624,1.33,akamaka,lake,akamaka
+clics-doculect-58-18,yama1264-std,concepticon-663,1.34,waya,"gulf, bay",waya
+clics-doculect-58-19,yama1264-std,concepticon-623,1.341,akamaka,lagoon,akamaka
+clics-doculect-58-20,yama1264-std,concepticon-978,1.35,čili,wave,cili
+clics-doculect-58-21,yama1264-std,concepticon-891,1.352,sači,tide,saci
+clics-doculect-58-22,yama1264-std,concepticon-1026,1.353,ašu,lowtide,asu
+clics-doculect-58-23,yama1264-std,concepticon-613,1.354,yaraku,hightide,yaraku
+clics-doculect-58-24,yama1264-std,concepticon-666,1.36,winu,"river, stream, brook",winu
+clics-doculect-58-25,yama1264-std,concepticon-1145,1.38,satana,swamp,satana
+clics-doculect-58-26,yama1264-std,concepticon-420,1.41,ašuna,"woods, forest",asuna
+clics-doculect-58-28,yama1264-std,concepticon-1803,1.43,yaku,wood,yaku
+clics-doculect-58-29,yama1264-std,concepticon-2125,1.44,aiya,"stone, rock",aiya
+clics-doculect-58-30,yama1264-std,concepticon-2125,1.44,awi,"stone, rock",awi
+clics-doculect-58-31,yama1264-std,concepticon-1732,1.51,seyf,sky,seyf
+clics-doculect-58-32,yama1264-std,concepticon-1343,1.52,lam,sun,lam
+clics-doculect-58-33,yama1264-std,concepticon-1430,1.54,apanix,star,apanix
+clics-doculect-58-34,yama1264-std,concepticon-1654,1.55,tumutušu,lightning,tumutusu
+clics-doculect-58-35,yama1264-std,concepticon-1150,1.56,kalaša,thunder,kalasa
+clics-doculect-58-36,yama1264-std,concepticon-2007,1.57,tumutušu,lightning (as striking),tumutusu
+clics-doculect-58-37,yama1264-std,concepticon-858,1.58,tašeta,storm,taseta
+clics-doculect-58-38,yama1264-std,concepticon-1733,1.59,akayni,rainbow,akayni
+clics-doculect-58-39,yama1264-std,concepticon-630,1.61,šola,light (noun),sola
+clics-doculect-58-40,yama1264-std,concepticon-11,1.62,akuš,darkness,akus
+clics-doculect-58-41,yama1264-std,concepticon-1388,1.63,olana,"shade, shadow",olana
+clics-doculect-58-42,yama1264-std,concepticon-960,1.72,uša,wind,usa
+clics-doculect-58-43,yama1264-std,concepticon-1489,1.73,xoka,cloud,xoka
+clics-doculect-58-44,yama1264-std,concepticon-658,1.75,palaxa,rain (noun),palaxa
+clics-doculect-58-45,yama1264-std,concepticon-784,1.76,panaxa,snow (noun),panaxa
+clics-doculect-58-46,yama1264-std,concepticon-617,1.77,touf,ice,touf
+clics-doculect-58-47,yama1264-std,concepticon-221,1.81,pušaki,fire,pusaki
+clics-doculect-58-48,yama1264-std,concepticon-889,1.82,šola,flame (noun),sola
+clics-doculect-58-49,yama1264-std,concepticon-778,1.83,ušku,smoke (noun),usku
+clics-doculect-58-50,yama1264-std,concepticon-646,1.84,afwa,ashes,afwa
+clics-doculect-58-51,yama1264-std,concepticon-67,1.841,pušaki,embers,pusaki
+clics-doculect-58-52,yama1264-std,concepticon-141,1.851,kukata,burn (vb trans),kukata
+clics-doculect-58-53,yama1264-std,concepticon-141,1.851,aye,burn (vb trans),aye
+clics-doculect-58-54,yama1264-std,concepticon-1428,1.852,kušaina,burn (vb intrans),kusaina
+clics-doculect-58-55,yama1264-std,concepticon-1428,1.852,ušola,burn (vb intrans),usola
+clics-doculect-58-56,yama1264-std,concepticon-737,1.86,tutukata,"light, kindle, ignite",tutukata
+clics-doculect-58-57,yama1264-std,concepticon-1133,1.87,swali,match (noun),swali
+clics-doculect-58-58,yama1264-std,concepticon-10,1.88,touwa,firewood,touwa
+clics-doculect-58-59,yama1264-std,concepticon-1188,1.89,ikipašax,charcoal,ikipasax
+clics-doculect-58-60,yama1264-std,concepticon-683,2.1,yamana,"person, human being",yamana
+clics-doculect-58-61,yama1264-std,concepticon-1554,2.21,yamana,man (vs. woman),yamana
+clics-doculect-58-62,yama1264-std,concepticon-962,2.22,kipa,woman,kipa
+clics-doculect-58-63,yama1264-std,concepticon-1553,2.23,yamana,male,yamana
+clics-doculect-58-64,yama1264-std,concepticon-1551,2.24,umpulux,female,umpulux
+clics-doculect-58-65,yama1264-std,concepticon-1551,2.24,kipa,female,kipa
+clics-doculect-58-66,yama1264-std,concepticon-1366,2.25,wuxai,boy,wuxai
+clics-doculect-58-67,yama1264-std,concepticon-1366,2.25,yaxaki,boy,yaxaki
+clics-doculect-58-68,yama1264-std,concepticon-76,2.251,wanleiwa,young man (adolescent),wanleiwa
+clics-doculect-58-69,yama1264-std,concepticon-1646,2.26,čulekipa,girl,culekipa
+clics-doculect-58-70,yama1264-std,concepticon-77,2.261,šupankipa,young woman (adolescent),supankipa
+clics-doculect-58-71,yama1264-std,concepticon-1304,2.27,wuxai,child,wuxai
+clics-doculect-58-72,yama1264-std,concepticon-1289,2.28,kayola,"infant, baby",kayola
+clics-doculect-58-73,yama1264-std,concepticon-1200,2.31,tuku,husband,tuku
+clics-doculect-58-74,yama1264-std,concepticon-1199,2.32,tuku,wife,tuku
+clics-doculect-58-75,yama1264-std,concepticon-203,2.33,tuku,marry,tuku
+clics-doculect-58-76,yama1264-std,concepticon-1259,2.34,tuku,"marriage, wedding",tuku
+clics-doculect-58-77,yama1264-std,concepticon-1217,2.35,imu,father,imu
+clics-doculect-58-78,yama1264-std,concepticon-1217,2.35,tapwin,father,tapwin
+clics-doculect-58-79,yama1264-std,concepticon-1216,2.36,tapi,mother,tapi
+clics-doculect-58-80,yama1264-std,concepticon-505,2.37,tukuturu,parents,tukuturu
+clics-doculect-58-81,yama1264-std,concepticon-424,2.38,tuku,married man,tuku
+clics-doculect-58-82,yama1264-std,concepticon-426,2.39,tuku,married woman,tuku
+clics-doculect-58-83,yama1264-std,concepticon-1620,2.41,maku,son,maku
+clics-doculect-58-84,yama1264-std,concepticon-1357,2.42,makipa,daughter,makipa
+clics-doculect-58-85,yama1264-std,concepticon-1262,2.44,waym,brother,waym
+clics-doculect-58-86,yama1264-std,concepticon-1759,2.444,wemu,older brother,wemu
+clics-doculect-58-87,yama1264-std,concepticon-1760,2.445,ašouwa,younger brother,asouwa
+clics-doculect-58-88,yama1264-std,concepticon-1263,2.45,waykipa,sister,waykipa
+clics-doculect-58-89,yama1264-std,concepticon-1758,2.454,waikipa,older sister,waikipa
+clics-doculect-58-90,yama1264-std,concepticon-1761,2.455,uškipa,younger sister,uskipa
+clics-doculect-58-91,yama1264-std,concepticon-1005,2.458,wolakemen,twins,wolakemen
+clics-doculect-58-92,yama1264-std,concepticon-1383,2.46,ušwam,grandfather,uswam
+clics-doculect-58-93,yama1264-std,concepticon-406,2.461,taripa,old man,taripa
+clics-doculect-58-94,yama1264-std,concepticon-1496,2.47,kuluna,grandmother,kuluna
+clics-doculect-58-95,yama1264-std,concepticon-907,2.471,taripa,old woman,taripa
+clics-doculect-58-96,yama1264-std,concepticon-1618,2.48,makutsa,grandson,makutsa
+clics-doculect-58-97,yama1264-std,concepticon-1619,2.49,makutsa,granddaughter,makutsa
+clics-doculect-58-98,yama1264-std,concepticon-1327,2.51,tanowa,uncle,tanowa
+clics-doculect-58-99,yama1264-std,concepticon-1984,2.511,tanowa,mother's brother,tanowa
+clics-doculect-58-100,yama1264-std,concepticon-1985,2.512,tanowa,father's brother,tanowa
+clics-doculect-58-101,yama1264-std,concepticon-1272,2.52,tanowakipa,aunt,tanowakipa
+clics-doculect-58-102,yama1264-std,concepticon-171,2.521,tanowakipa,mother's sister,tanowakipa
+clics-doculect-58-103,yama1264-std,concepticon-170,2.522,tanowakipa,father's sister,tanowakipa
+clics-doculect-58-104,yama1264-std,concepticon-1063,2.53,yamanamaku,nephew,yamanamaku
+clics-doculect-58-105,yama1264-std,concepticon-1642,2.54,yamanakipa,niece,yamanakipa
+clics-doculect-58-106,yama1264-std,concepticon-1643,2.55,šamakuš,cousin,samakus
+clics-doculect-58-107,yama1264-std,concepticon-2255,2.61,masaku,father-in-law (of a man),masaku
+clics-doculect-58-108,yama1264-std,concepticon-2254,2.611,masaku,father-in-law (of a woman),masaku
+clics-doculect-58-109,yama1264-std,concepticon-2256,2.62,masakipa,mother-in-law (of a man),masakipa
+clics-doculect-58-110,yama1264-std,concepticon-2257,2.621,masakipa,mother-in-law (of a woman),masakipa
+clics-doculect-58-111,yama1264-std,concepticon-2267,2.63,masaku,son-in-law (of a man),masaku
+clics-doculect-58-112,yama1264-std,concepticon-2266,2.631,masaku,son-in-law (of a woman),masaku
+clics-doculect-58-113,yama1264-std,concepticon-2265,2.64,masakipa,daughter-in-law (of a man),masakipa
+clics-doculect-58-114,yama1264-std,concepticon-2264,2.641,masakipa,daughter-in-law (of a woman),masakipa
+clics-doculect-58-115,yama1264-std,concepticon-237,2.71,masaku,stepfather,masaku
+clics-doculect-58-116,yama1264-std,concepticon-236,2.72,masakipa,stepmother,masakipa
+clics-doculect-58-117,yama1264-std,concepticon-1059,2.73,masaku,stepson,masaku
+clics-doculect-58-118,yama1264-std,concepticon-1058,2.74,masakipa,stepdaughter,masakipa
+clics-doculect-58-119,yama1264-std,concepticon-1149,2.75,aruku,orphan,aruku
+clics-doculect-58-120,yama1264-std,concepticon-1756,2.76,šupunkipa,widow,supunkipa
+clics-doculect-58-121,yama1264-std,concepticon-1981,2.77,šupunwa,widower,supunwa
+clics-doculect-58-122,yama1264-std,concepticon-1209,2.91,xay,I,xay
+clics-doculect-58-123,yama1264-std,concepticon-1215,2.92,sa,you (singular),sa
+clics-doculect-58-124,yama1264-std,concepticon-262,2.93,kitu,he/she/it,kitu
+clics-doculect-58-125,yama1264-std,concepticon-1212,2.94,xan,we,xan
+clics-doculect-58-126,yama1264-std,concepticon-1212,2.94,xipi,we,xipi
+clics-doculect-58-127,yama1264-std,concepticon-1213,2.95,san,you (plural),san
+clics-doculect-58-128,yama1264-std,concepticon-817,2.96,kyon,they,kyon
+clics-doculect-58-129,yama1264-std,concepticon-619,3.11,pixa,animal,pixa
+clics-doculect-58-130,yama1264-std,concepticon-2262,3.13,kipa,female (adj),kipa
+clics-doculect-58-131,yama1264-std,concepticon-1360,3.57,alukuš,duck,alukus
+clics-doculect-58-132,yama1264-std,concepticon-539,3.58,kuš,nest,kus
+clics-doculect-58-133,yama1264-std,concepticon-937,3.581,pix,bird,pix
+clics-doculect-58-134,yama1264-std,concepticon-950,3.582,kalala,seagull,kalala
+clics-doculect-58-135,yama1264-std,concepticon-1905,3.584,šakanini,eagle,sakanini
+clics-doculect-58-136,yama1264-std,concepticon-1793,3.591,apawata,bat,apawata
+clics-doculect-58-137,yama1264-std,concepticon-882,3.592,kinan,parrot,kinan
+clics-doculect-58-138,yama1264-std,concepticon-1853,3.594,olamana,dove,olamana
+clics-doculect-58-139,yama1264-std,concepticon-735,3.596,loškia,owl,loskia
+clics-doculect-58-140,yama1264-std,concepticon-2009,3.61,yašala,dog,yasala
+clics-doculect-58-141,yama1264-std,concepticon-2139,3.63,wasana,"mouse, rat",wasana
+clics-doculect-58-142,yama1264-std,concepticon-227,3.65,apouš,fish,apous
+clics-doculect-58-143,yama1264-std,concepticon-213,3.652,amaka,fin (dorsal),amaka
+clics-doculect-58-144,yama1264-std,concepticon-1916,3.654,čilaoe,gill,cilaoe
+clics-doculect-58-145,yama1264-std,concepticon-598,3.655,lakaš,shell,lakas
+clics-doculect-58-146,yama1264-std,concepticon-1479,3.662,sauyanux,"porpoise, dolphin",sauyanux
+clics-doculect-58-147,yama1264-std,concepticon-957,3.663,wapisa,whale,wapisa
+clics-doculect-58-148,yama1264-std,concepticon-1013,3.665,tukupi,freshwater eel,tukupi
+clics-doculect-58-149,yama1264-std,concepticon-1312,3.74,čiloe,fox,ciloe
+clics-doculect-58-150,yama1264-std,concepticon-620,3.81,wankara,insect,wankara
+clics-doculect-58-151,yama1264-std,concepticon-1392,3.811,wam,louse,wam
+clics-doculect-58-152,yama1264-std,concepticon-267,3.812,wam,nit (louse egg),wam
+clics-doculect-58-153,yama1264-std,concepticon-232,3.813,šinuš,flea,sinus
+clics-doculect-58-154,yama1264-std,concepticon-843,3.818,atekalwankara,spider,atekalwankara
+clics-doculect-58-155,yama1264-std,concepticon-1504,3.83,wina,fly,wina
+clics-doculect-58-156,yama1264-std,concepticon-1219,3.84,tanwankara,worm,tanwankara
+clics-doculect-58-157,yama1264-std,concepticon-730,3.85,ušwatoli,snake,uswatoli
+clics-doculect-58-158,yama1264-std,concepticon-1791,3.92,šakuš,butterfly,sakus
+clics-doculect-58-159,yama1264-std,concepticon-1543,3.94,atwel,snail,atwel
+clics-doculect-58-160,yama1264-std,concepticon-763,4.12,tatisa,"skin, hide",tatisa
+clics-doculect-58-161,yama1264-std,concepticon-2259,4.13,antapa,flesh,antapa
+clics-doculect-58-162,yama1264-std,concepticon-1040,4.14,ušta,hair (head),usta
+clics-doculect-58-163,yama1264-std,concepticon-678,4.142,yašu,beard,yasu
+clics-doculect-58-164,yama1264-std,concepticon-189,4.144,ačala,body hair,acala
+clics-doculect-58-165,yama1264-std,concepticon-36,4.145,alačun,pubic hair,alacun
+clics-doculect-58-166,yama1264-std,concepticon-946,4.15,sapa,blood,sapa
+clics-doculect-58-167,yama1264-std,concepticon-525,4.151,sapašwami,"vein, artery",sapaswami
+clics-doculect-58-168,yama1264-std,concepticon-1394,4.16,xatuš,bone,xatus
+clics-doculect-58-169,yama1264-std,concepticon-801,4.162,iš,rib,is
+clics-doculect-58-170,yama1264-std,concepticon-1220,4.18,tel,tail,tel
+clics-doculect-58-171,yama1264-std,concepticon-1291,4.19,ušwala,back,uswala
+clics-doculect-58-172,yama1264-std,concepticon-805,4.191,amaka,spine,amaka
+clics-doculect-58-173,yama1264-std,concepticon-1256,4.2,lamana,head,lamana
+clics-doculect-58-174,yama1264-std,concepticon-1605,4.202,taša,skull,tasa
+clics-doculect-58-175,yama1264-std,concepticon-1583,4.203,ačkata,brain,ackata
+clics-doculect-58-176,yama1264-std,concepticon-1560,4.204,čeisa,face,ceisa
+clics-doculect-58-177,yama1264-std,concepticon-123,4.205,uškaš,forehead,uskas
+clics-doculect-58-178,yama1264-std,concepticon-798,4.207,wani,jaw,wani
+clics-doculect-58-179,yama1264-std,concepticon-1730,4.208,čisa,cheek,cisa
+clics-doculect-58-180,yama1264-std,concepticon-1510,4.209,wani,chin,wani
+clics-doculect-58-181,yama1264-std,concepticon-1248,4.21,tala,eye,tala
+clics-doculect-58-182,yama1264-std,concepticon-1173,4.212,uškašačala,eyebrow,uskasacala
+clics-doculect-58-183,yama1264-std,concepticon-17,4.213,šif,eyelid,sif
+clics-doculect-58-184,yama1264-std,concepticon-1540,4.214,talaačala,eyelash,talaacala
+clics-doculect-58-185,yama1264-std,concepticon-1655,4.215,šif,blink,sif
+clics-doculect-58-186,yama1264-std,concepticon-1247,4.22,ufkiš,ear,ufkis
+clics-doculect-58-187,yama1264-std,concepticon-18,4.221,ufkiš,earlobe,ufkis
+clics-doculect-58-188,yama1264-std,concepticon-32,4.222,kun,earwax,kun
+clics-doculect-58-189,yama1264-std,concepticon-1221,4.23,kašuš,nose,kasus
+clics-doculect-58-190,yama1264-std,concepticon-1178,4.231,tawankaka,nostril,tawankaka
+clics-doculect-58-191,yama1264-std,concepticon-208,4.232,xašapuk,mucus (nasal),xasapuk
+clics-doculect-58-192,yama1264-std,concepticon-674,4.24,ya,mouth,ya
+clics-doculect-58-193,yama1264-std,concepticon-73,4.241,kašuš,beak,kasus
+clics-doculect-58-194,yama1264-std,concepticon-478,4.25,ya,lip,ya
+clics-doculect-58-195,yama1264-std,concepticon-1205,4.26,lan,tongue,lan
+clics-doculect-58-196,yama1264-std,concepticon-1380,4.27,tun,tooth,tun
+clics-doculect-58-197,yama1264-std,concepticon-1333,4.28,xuša,neck,xusa
+clics-doculect-58-198,yama1264-std,concepticon-1347,4.281,yalur,nape of neck,yalur
+clics-doculect-58-199,yama1264-std,concepticon-1346,4.29,xuša,throat,xusa
+clics-doculect-58-200,yama1264-std,concepticon-1482,4.3,touka,shoulder,touka
+clics-doculect-58-201,yama1264-std,concepticon-172,4.301,touka,shoulderblade,touka
+clics-doculect-58-202,yama1264-std,concepticon-1994,4.302,učkawi,collarbone,uckawi
+clics-doculect-58-203,yama1264-std,concepticon-1673,4.31,kamei,arm,kamei
+clics-doculect-58-204,yama1264-std,concepticon-981,4.32,tamila,elbow,tamila
+clics-doculect-58-205,yama1264-std,concepticon-799,4.321,mapu,wrist,mapu
+clics-doculect-58-206,yama1264-std,concepticon-1277,4.33,yaš,hand,yas
+clics-doculect-58-207,yama1264-std,concepticon-1183,4.331,lanki,palm of hand,lanki
+clics-doculect-58-208,yama1264-std,concepticon-1303,4.34,uštikin,finger,ustikin
+clics-doculect-58-209,yama1264-std,concepticon-1781,4.342,wayamwa,thumb,wayamwa
+clics-doculect-58-210,yama1264-std,concepticon-1258,4.344,kaluf,fingernail,kaluf
+clics-doculect-58-211,yama1264-std,concepticon-72,4.345,yaš,claw,yas
+clics-doculect-58-212,yama1264-std,concepticon-72,4.345,kaluf,claw,kaluf
+clics-doculect-58-213,yama1264-std,concepticon-1297,4.35,lateš,leg,lates
+clics-doculect-58-214,yama1264-std,concepticon-800,4.351,laka,thigh,laka
+clics-doculect-58-215,yama1264-std,concepticon-498,4.352,ačtan,calf of leg,actan
+clics-doculect-58-216,yama1264-std,concepticon-1371,4.36,tulepuš,knee,tulepus
+clics-doculect-58-217,yama1264-std,concepticon-1301,4.37,kouya,foot,kouya
+clics-doculect-58-218,yama1264-std,concepticon-803,4.371,pilatanku,ankle,pilatanku
+clics-doculect-58-219,yama1264-std,concepticon-980,4.372,kušun,heel,kusun
+clics-doculect-58-220,yama1264-std,concepticon-1389,4.38,ašwa,toe,aswa
+clics-doculect-58-221,yama1264-std,concepticon-1257,4.392,kamei,wing,kamei
+clics-doculect-58-222,yama1264-std,concepticon-1201,4.393,uštuku,feather,ustuku
+clics-doculect-58-223,yama1264-std,concepticon-1592,4.4,kayapuš,chest,kayapus
+clics-doculect-58-224,yama1264-std,concepticon-1402,4.41,tapoš,breast (of woman),tapos
+clics-doculect-58-225,yama1264-std,concepticon-796,4.412,tapoš,"nipple, teat",tapos
+clics-doculect-58-226,yama1264-std,concepticon-1838,4.43,kufu,navel,kufu
+clics-doculect-58-227,yama1264-std,concepticon-1223,4.44,seskin,heart,seskin
+clics-doculect-58-228,yama1264-std,concepticon-688,4.441,yapa,lung,yapa
+clics-doculect-58-229,yama1264-std,concepticon-1224,4.45,weya,liver,weya
+clics-doculect-58-230,yama1264-std,concepticon-1224,4.45,xipa,liver,xipa
+clics-doculect-58-231,yama1264-std,concepticon-489,4.451,šakala,kidney,sakala
+clics-doculect-58-232,yama1264-std,concepticon-489,4.451,kini,kidney,kini
+clics-doculect-58-233,yama1264-std,concepticon-819,4.46,weina,stomach,weina
+clics-doculect-58-234,yama1264-std,concepticon-1991,4.461,upak,"intestines, guts",upak
+clics-doculect-58-235,yama1264-std,concepticon-1745,4.463,kulaka,hip,kulaka
+clics-doculect-58-236,yama1264-std,concepticon-834,4.464,yuna,buttocks,yuna
+clics-doculect-58-237,yama1264-std,concepticon-804,4.47,amakana,womb,amakana
+clics-doculect-58-238,yama1264-std,concepticon-1222,4.492,pinuš,penis,pinus
+clics-doculect-58-239,yama1264-std,concepticon-1407,4.51,xašapana,"breathe, breath",xasapana
+clics-doculect-58-240,yama1264-std,concepticon-1028,4.52,myaku,"yawn, gape",myaku
+clics-doculect-58-241,yama1264-std,concepticon-162,4.521,kanakul,hiccough,kanakul
+clics-doculect-58-242,yama1264-std,concepticon-162,4.521,anakula,hiccough,anakula
+clics-doculect-58-243,yama1264-std,concepticon-879,4.53,myakasi,cough,myakasi
+clics-doculect-58-244,yama1264-std,concepticon-1621,4.54,xenkisa,sneeze,xenkisa
+clics-doculect-58-245,yama1264-std,concepticon-126,4.55,akula,perspire,akula
+clics-doculect-58-246,yama1264-std,concepticon-1440,4.56,čilfkana,spit,cilfkana
+clics-doculect-58-247,yama1264-std,concepticon-1278,4.57,amea,vomit,amea
+clics-doculect-58-248,yama1264-std,concepticon-1403,4.58,yuta,bite,yuta
+clics-doculect-58-249,yama1264-std,concepticon-319,4.59,walampina,lick,walampina
+clics-doculect-58-250,yama1264-std,concepticon-1585,4.61,ataš,sleep,atas
+clics-doculect-58-251,yama1264-std,concepticon-1585,4.61,akalu,sleep,akalu
+clics-doculect-58-252,yama1264-std,concepticon-1983,4.612,čisyakar,snore,cisyakar
+clics-doculect-58-253,yama1264-std,concepticon-1920,4.62,ataš,dream,atas
+clics-doculect-58-254,yama1264-std,concepticon-1920,4.62,akalu,dream,akalu
+clics-doculect-58-255,yama1264-std,concepticon-1602,4.63,tupwea,wake up,tupwea
+clics-doculect-58-256,yama1264-std,concepticon-1159,4.64,čixana,break wind,cixana
+clics-doculect-58-257,yama1264-std,concepticon-592,4.65,čuxana,urinate,cuxana
+clics-doculect-58-258,yama1264-std,concepticon-676,4.66,ušlatu,defecate,uslatu
+clics-doculect-58-259,yama1264-std,concepticon-1785,4.67,uštaku,have sexual intercourse,ustaku
+clics-doculect-58-260,yama1264-std,concepticon-1785,4.67,ana,have sexual intercourse,ana
+clics-doculect-58-261,yama1264-std,concepticon-52,4.68,auku,shiver,auku
+clics-doculect-58-262,yama1264-std,concepticon-138,4.69,ili,bathe,ili
+clics-doculect-58-263,yama1264-std,concepticon-1152,4.71,tuku,beget (of father),tuku
+clics-doculect-58-264,yama1264-std,concepticon-1152,4.71,tukukayola,beget (of father),tukukayola
+clics-doculect-58-265,yama1264-std,concepticon-1090,4.72,ačikai,born (to be),acikai
+clics-doculect-58-266,yama1264-std,concepticon-1123,4.73,amakena,pregnant,amakena
+clics-doculect-58-267,yama1264-std,concepticon-1087,4.732,tuku,conceive,tuku
+clics-doculect-58-268,yama1264-std,concepticon-1087,4.732,tukukayola,conceive,tukukayola
+clics-doculect-58-269,yama1264-std,concepticon-1422,4.74,sinakin,"live, living, life",sinakin
+clics-doculect-58-270,yama1264-std,concepticon-1494,4.75,malaku,"die, dead",malaku
+clics-doculect-58-271,yama1264-std,concepticon-1494,4.75,xapana,"die, dead",xapana
+clics-doculect-58-272,yama1264-std,concepticon-1417,4.76,kaipana,kill,kaipana
+clics-doculect-58-273,yama1264-std,concepticon-767,4.77,malaku,corpse,malaku
+clics-doculect-58-274,yama1264-std,concepticon-1773,4.79,wannače,"grave, tomb",wannace
+clics-doculect-58-275,yama1264-std,concepticon-785,4.81,manakata,"strong, mighty, powerful",manakata
+clics-doculect-58-276,yama1264-std,concepticon-1601,4.82,tuf,weak,tuf
+clics-doculect-58-277,yama1264-std,concepticon-1847,4.84,sax,"sick, sickness",sax
+clics-doculect-58-278,yama1264-std,concepticon-102,4.843,xaša,cold (catarrh),xasa
+clics-doculect-58-279,yama1264-std,concepticon-1109,4.85,alašu,"wound, sore",alasu
+clics-doculect-58-280,yama1264-std,concepticon-1903,4.853,mutatu,swelling,mutatu
+clics-doculect-58-281,yama1264-std,concepticon-1808,4.857,učama,pus,ucama
+clics-doculect-58-282,yama1264-std,concepticon-499,4.86,uštakuyamana,"cure, heal",ustakuyamana
+clics-doculect-58-283,yama1264-std,concepticon-1757,4.91,kutufunata,"tired, weary",kutufunata
+clics-doculect-58-284,yama1264-std,concepticon-1564,4.92,xunum,lazy,xunum
+clics-doculect-58-285,yama1264-std,concepticon-996,4.95,malami,deaf,malami
+clics-doculect-58-286,yama1264-std,concepticon-1653,4.97,amaša,blind,amasa
+clics-doculect-58-287,yama1264-std,concepticon-1463,4.98,lama,intoxicated,lama
+clics-doculect-58-288,yama1264-std,concepticon-1336,5.11,atama,eat,atama
+clics-doculect-58-289,yama1264-std,concepticon-256,5.12,antama,food,antama
+clics-doculect-58-290,yama1264-std,concepticon-1959,5.122,pukiwa,raw,pukiwa
+clics-doculect-58-291,yama1264-std,concepticon-1728,5.125,lalakina,rotten,lalakina
+clics-doculect-58-292,yama1264-std,concepticon-1401,5.13,ala,drink,ala
+clics-doculect-58-293,yama1264-std,concepticon-1864,5.14,amašoku,hunger,amasoku
+clics-doculect-58-294,yama1264-std,concepticon-199,5.141,amašoku,famine,amasoku
+clics-doculect-58-295,yama1264-std,concepticon-1421,5.16,tapala,suck,tapala
+clics-doculect-58-296,yama1264-std,concepticon-321,5.18,isa,chew,isa
+clics-doculect-58-297,yama1264-std,concepticon-481,5.31,tukama,dish,tukama
+clics-doculect-58-298,yama1264-std,concepticon-480,5.32,tukama,plate,tukama
+clics-doculect-58-299,yama1264-std,concepticon-1530,5.33,ayšutuku,bowl,aysutuku
+clics-doculect-58-300,yama1264-std,concepticon-270,5.34,čanka,"pitcher, jug",canka
+clics-doculect-58-301,yama1264-std,concepticon-476,5.35,ayšutuku,"cup, drinking vessel",aysutuku
+clics-doculect-58-302,yama1264-std,concepticon-1352,5.38,wila,knife,wila
+clics-doculect-58-303,yama1264-std,concepticon-272,5.391,laka,tongs,laka
+clics-doculect-58-304,yama1264-std,concepticon-272,5.391,ampa,tongs,ampa
+clics-doculect-58-305,yama1264-std,concepticon-1526,5.41,antama,meal (a),antama
+clics-doculect-58-306,yama1264-std,concepticon-275,5.46,ulupata,peel,ulupata
+clics-doculect-58-307,yama1264-std,concepticon-1767,5.48,akita,scrape,akita
+clics-doculect-58-308,yama1264-std,concepticon-634,5.61,antapa,meat,antapa
+clics-doculect-58-309,yama1264-std,concepticon-1484,5.79,kun,oil,kun
+clics-doculect-58-310,yama1264-std,concepticon-323,5.791,ušlamuši,"grease, fat",uslamusi
+clics-doculect-58-311,yama1264-std,concepticon-744,5.97,xax,egg,xax
+clics-doculect-58-312,yama1264-std,concepticon-1895,6.12,uška,"clothing, clothes",uska
+clics-doculect-58-313,yama1264-std,concepticon-580,6.28,tatisa,fur,tatisa
+clics-doculect-58-314,yama1264-std,concepticon-580,6.28,maeka,fur,maeka
+clics-doculect-58-315,yama1264-std,concepticon-629,6.29,tatisa,leather,tatisa
+clics-doculect-58-316,yama1264-std,concepticon-629,6.29,maeka,leather,maeka
+clics-doculect-58-317,yama1264-std,concepticon-121,6.31,uluna,spin,uluna
+clics-doculect-58-318,yama1264-std,concepticon-277,6.32,lapata,spindle,lapata
+clics-doculect-58-319,yama1264-std,concepticon-133,6.33,yatana,weave,yatana
+clics-doculect-58-320,yama1264-std,concepticon-1457,6.35,umaka,sew,umaka
+clics-doculect-58-321,yama1264-std,concepticon-1161,6.38,treta,thread,treta
+clics-doculect-58-322,yama1264-std,concepticon-1381,6.51,kili,shoe,kili
+clics-doculect-58-323,yama1264-std,concepticon-867,6.58,mašalupina,glove,masalupina
+clics-doculect-58-324,yama1264-std,concepticon-1961,6.75,polesif,necklace,polesif
+clics-doculect-58-325,yama1264-std,concepticon-330,6.78,yakamušuška,"headband, headdress",yakamususka
+clics-doculect-58-326,yama1264-std,concepticon-330,6.78,apawara,"headband, headdress",apawara
+clics-doculect-58-327,yama1264-std,concepticon-1475,6.91,uškami,comb,uskami
+clics-doculect-58-328,yama1264-std,concepticon-333,6.921,kamaku,braid,kamaku
+clics-doculect-58-329,yama1264-std,concepticon-1171,6.96,talaalakana,mirror,talaalakana
+clics-doculect-58-330,yama1264-std,concepticon-1252,7.12,akar,house,akar
+clics-doculect-58-331,yama1264-std,concepticon-1678,7.13,akar,hut,akar
+clics-doculect-58-332,yama1264-std,concepticon-1316,7.14,akar,tent,akar
+clics-doculect-58-333,yama1264-std,concepticon-736,7.15,pinuš,"yard, court",pinus
+clics-doculect-58-334,yama1264-std,concepticon-185,7.31,tumalaku,fireplace,tumalaku
+clics-doculect-58-335,yama1264-std,concepticon-1418,8.22,wana,dig,wana
+clics-doculect-58-336,yama1264-std,concepticon-284,8.25,akwaši,hoe,akwasi
+clics-doculect-58-337,yama1264-std,concepticon-1351,8.31,tupušu,sow,tupusu
+clics-doculect-58-338,yama1264-std,concepticon-714,8.311,amakana,seed,amakana
+clics-doculect-58-339,yama1264-std,concepticon-606,8.51,šuka,grass,suka
+clics-doculect-58-340,yama1264-std,concepticon-1486,8.531,tupušu,plant (vb),tupusu
+clics-doculect-58-341,yama1264-std,concepticon-670,8.54,mali,root,mali
+clics-doculect-58-342,yama1264-std,concepticon-1531,8.55,šopeya,branch,sopeya
+clics-doculect-58-343,yama1264-std,concepticon-628,8.56,šuka,leaf,suka
+clics-doculect-58-344,yama1264-std,concepticon-906,8.6,šopeya,tree,sopeya
+clics-doculect-58-345,yama1264-std,concepticon-906,8.6,pouš,tree,pous
+clics-doculect-58-346,yama1264-std,concepticon-644,8.61,xanis,oak,xanis
+clics-doculect-58-347,yama1264-std,concepticon-1689,8.69,ušku,smoke (tobacco),usku
+clics-doculect-58-348,yama1264-std,concepticon-344,8.73,waruš,tree trunk,warus
+clics-doculect-58-349,yama1264-std,concepticon-1204,8.75,aišu,bark,aisu
+clics-doculect-58-350,yama1264-std,concepticon-2575,9.11,akina,"do, make",akina
+clics-doculect-58-351,yama1264-std,concepticon-984,9.12,uštaku,work,ustaku
+clics-doculect-58-352,yama1264-std,concepticon-2004,9.14,atwiskula,bend,atwiskula
+clics-doculect-58-353,yama1264-std,concepticon-1470,9.15,tankušu,fold,tankusu
+clics-doculect-58-354,yama1264-std,concepticon-1917,9.16,yamaseta,"tie, bind",yamaseta
+clics-doculect-58-355,yama1264-std,concepticon-1218,9.19,šukami,"rope, cord",sukami
+clics-doculect-58-356,yama1264-std,concepticon-2133,9.21,putušu,"strike (hit, beat)",putusu
+clics-doculect-58-357,yama1264-std,concepticon-1432,9.22,ašokata,cut,asokata
+clics-doculect-58-358,yama1264-std,concepticon-155,9.222,akwama,"chop, hew",akwama
+clics-doculect-58-359,yama1264-std,concepticon-1434,9.223,tuna,stab,tuna
+clics-doculect-58-360,yama1264-std,concepticon-1352,9.23,wila,knife,wila
+clics-doculect-58-361,yama1264-std,concepticon-677,9.25,xališ,ax,xalis
+clics-doculect-58-362,yama1264-std,concepticon-1437,9.27,akitakuta,split,akitakuta
+clics-doculect-58-363,yama1264-std,concepticon-291,9.29,kaiminakana,"flay, skin",kaiminakana
+clics-doculect-58-364,yama1264-std,concepticon-1449,9.31,pratan,"rub, wipe",pratan
+clics-doculect-58-365,yama1264-std,concepticon-214,9.32,maosa,stretch,maosa
+clics-doculect-58-366,yama1264-std,concepticon-1455,9.33,tapona,pull,tapona
+clics-doculect-58-367,yama1264-std,concepticon-357,9.341,ateyeka,hang up,ateyeka
+clics-doculect-58-368,yama1264-std,concepticon-1913,9.342,atupawanata,press,atupawanata
+clics-doculect-58-369,yama1264-std,concepticon-1487,9.35,manakutsela,pour,manakutsela
+clics-doculect-58-370,yama1264-std,concepticon-1453,9.36,uksi,wash,uksi
+clics-doculect-58-371,yama1264-std,concepticon-230,9.37,kamaku,sweep,kamaku
+clics-doculect-58-372,yama1264-std,concepticon-1361,9.422,sir,tool,sir
+clics-doculect-58-373,yama1264-std,concepticon-1840,9.44,ilana,build,ilana
+clics-doculect-58-374,yama1264-std,concepticon-46,9.461,luteamaka,hollow out,luteamaka
+clics-doculect-58-375,yama1264-std,concepticon-1729,9.75,yatana,"weave, plait",yatana
+clics-doculect-58-376,yama1264-std,concepticon-1729,9.75,kamuku,"weave, plait",kamuku
+clics-doculect-58-377,yama1264-std,concepticon-1539,9.76,trepa,basket,trepa
+clics-doculect-58-378,yama1264-std,concepticon-1539,9.76,kaiči,basket,kaici
+clics-doculect-58-379,yama1264-std,concepticon-1539,9.76,estepa,basket,estepa
+clics-doculect-58-380,yama1264-std,concepticon-1979,9.84,tukalapana,chisel,tukalapana
+clics-doculect-58-381,yama1264-std,concepticon-647,9.88,imi,paint (noun),imi
+clics-doculect-58-382,yama1264-std,concepticon-2001,9.89,ikamana,paint (vb),ikamana
+clics-doculect-58-383,yama1264-std,concepticon-1588,10.12,ulwara,turn over,ulwara
+clics-doculect-58-384,yama1264-std,concepticon-1445,10.13,tumušunata,turn around,tumusunata
+clics-doculect-58-385,yama1264-std,concepticon-1113,10.14,kumušata,"wind, wrap",kumusata
+clics-doculect-58-386,yama1264-std,concepticon-827,10.15,utala,roll,utala
+clics-doculect-58-387,yama1264-std,concepticon-808,10.16,uštamula,drop (vb),ustamula
+clics-doculect-58-388,yama1264-std,concepticon-430,10.17,kalapuš,twist,kalapus
+clics-doculect-58-389,yama1264-std,concepticon-568,10.21,kamato,rise,kamato
+clics-doculect-58-390,yama1264-std,concepticon-501,10.22,ilana,"raise, lift",ilana
+clics-doculect-58-391,yama1264-std,concepticon-1280,10.23,apana,fall,apana
+clics-doculect-58-392,yama1264-std,concepticon-1456,10.25,kanana,throw,kanana
+clics-doculect-58-393,yama1264-std,concepticon-702,10.252,ata,catch (ball),ata
+clics-doculect-58-394,yama1264-std,concepticon-1909,10.26,tukulaša,shake,tukulasa
+clics-doculect-58-395,yama1264-std,concepticon-2003,10.32,akulya,flow,akulya
+clics-doculect-58-396,yama1264-std,concepticon-1574,10.34,moner,float,moner
+clics-doculect-58-397,yama1264-std,concepticon-1439,10.35,moner,swim,moner
+clics-doculect-58-398,yama1264-std,concepticon-119,10.351,akiswanari,dive,akiswanari
+clics-doculect-58-399,yama1264-std,concepticon-1441,10.37,miku,fly (vb),miku
+clics-doculect-58-400,yama1264-std,concepticon-175,10.38,lupu,blow,lupu
+clics-doculect-58-401,yama1264-std,concepticon-96,10.41,mutama,"creep, crawl",mutama
+clics-doculect-58-402,yama1264-std,concepticon-66,10.412,tulepuš,kneel,tulepus
+clics-doculect-58-403,yama1264-std,concepticon-1829,10.43,akuru,"jump, leap",akuru
+clics-doculect-58-404,yama1264-std,concepticon-1443,10.45,una,walk,una
+clics-doculect-58-405,yama1264-std,concepticon-366,10.451,lun,limp,lun
+clics-doculect-58-406,yama1264-std,concepticon-1519,10.46,tatu,run,tatu
+clics-doculect-58-407,yama1264-std,concepticon-695,10.47,katuš,go,katus
+clics-doculect-58-408,yama1264-std,concepticon-705,10.471,muru,go up,muru
+clics-doculect-58-409,yama1264-std,concepticon-1102,10.472,melaku,climb,melaku
+clics-doculect-58-410,yama1264-std,concepticon-2014,10.473,mina,go down,mina
+clics-doculect-58-411,yama1264-std,concepticon-1107,10.474,manačka,go out,manacka
+clics-doculect-58-412,yama1264-std,concepticon-1446,10.48,akata,come,akata
+clics-doculect-58-413,yama1264-std,concepticon-581,10.481,šanato,come back,sanato
+clics-doculect-58-414,yama1264-std,concepticon-1752,10.49,katuš,"go away, depart",katus
+clics-doculect-58-415,yama1264-std,concepticon-1387,10.55,akatata,"reach, arrive",akatata
+clics-doculect-58-416,yama1264-std,concepticon-749,10.57,mače,enter,mace
+clics-doculect-58-417,yama1264-std,concepticon-700,10.61,yukaya,carry (bear),yukaya
+clics-doculect-58-418,yama1264-std,concepticon-412,10.612,ikimata,carry-in-hand,ikimata
+clics-doculect-58-419,yama1264-std,concepticon-412,10.612,aipata,carry-in-hand,aipata
+clics-doculect-58-420,yama1264-std,concepticon-413,10.613,wamanata,carry-on-shoulder,wamanata
+clics-doculect-58-421,yama1264-std,concepticon-692,10.62,ata,bring,ata
+clics-doculect-58-422,yama1264-std,concepticon-1127,10.63,tutuna,send,tutuna
+clics-doculect-58-423,yama1264-std,concepticon-1452,10.67,tapona,"push, shove",tapona
+clics-doculect-58-424,yama1264-std,concepticon-740,10.81,usana,ship,usana
+clics-doculect-58-425,yama1264-std,concepticon-1844,10.83,usana,boat,usana
+clics-doculect-58-426,yama1264-std,concepticon-1970,10.831,anan,canoe,anan
+clics-doculect-58-427,yama1264-std,concepticon-108,10.85,api,oar,api
+clics-doculect-58-428,yama1264-std,concepticon-234,10.851,api,paddle (noun),api
+clics-doculect-58-429,yama1264-std,concepticon-108,10.86,ušpi,rudder,uspi
+clics-doculect-58-430,yama1264-std,concepticon-1870,10.89,iya,anchor,iya
+clics-doculect-58-431,yama1264-std,concepticon-773,11.11,anu,have,anu
+clics-doculect-58-432,yama1264-std,concepticon-1749,11.13,ata,take,ata
+clics-doculect-58-433,yama1264-std,concepticon-2021,11.14,ata,"seize, grasp",ata
+clics-doculect-58-434,yama1264-std,concepticon-1448,11.15,ata,hold,ata
+clics-doculect-58-435,yama1264-std,concepticon-694,11.16,asa,"get, obtain",asa
+clics-doculect-58-436,yama1264-std,concepticon-1477,11.17,saustika,"keep, retain",saustika
+clics-doculect-58-437,yama1264-std,concepticon-738,11.18,šix,thing,six
+clics-doculect-58-438,yama1264-std,concepticon-1447,11.21,taku,give,taku
+clics-doculect-58-439,yama1264-std,concepticon-1468,11.31,tenux,"seek, look for",tenux
+clics-doculect-58-440,yama1264-std,concepticon-719,11.32,tiki,find,tiki
+clics-doculect-58-441,yama1264-std,concepticon-1660,11.33,malaku,lose,malaku
+clics-doculect-58-442,yama1264-std,concepticon-1674,11.52,matumor,poor,matumor
+clics-doculect-58-443,yama1264-std,concepticon-582,11.61,manaku,lend,manaku
+clics-doculect-58-444,yama1264-std,concepticon-1823,11.62,manaku,borrow,manaku
+clics-doculect-58-445,yama1264-std,concepticon-1869,11.81,tere,buy,tere
+clics-doculect-58-446,yama1264-std,concepticon-1571,11.82,tumušatata,sell,tumusatata
+clics-doculect-58-447,yama1264-std,concepticon-1098,11.92,xašu,weigh,xasu
+clics-doculect-58-448,yama1264-std,concepticon-1685,12.1,ušpan,after,uspan
+clics-doculect-58-449,yama1264-std,concepticon-723,12.11,ušpan,place,uspan
+clics-doculect-58-450,yama1264-std,concepticon-1816,12.2,yuain,beside,yuain
+clics-doculect-58-451,yama1264-std,concepticon-2094,12.3,itaku,"down, below",itaku
+clics-doculect-58-452,yama1264-std,concepticon-1882,12.4,wata,before,wata
+clics-doculect-58-453,yama1264-std,concepticon-1019,12.41,ša,right (side),sa
+clics-doculect-58-454,yama1264-std,concepticon-1606,12.5,akan,"inside, in",akan
+clics-doculect-58-455,yama1264-std,concepticon-762,12.6,asi,outside,asi
+clics-doculect-58-456,yama1264-std,concepticon-1485,12.7,kilu,under,kilu
+clics-doculect-58-457,yama1264-std,concepticon-1591,12.8,wapu,"up, above",wapu
+clics-doculect-58-458,yama1264-std,concepticon-1591,12.8,inu,"up, above",inu
+clics-doculect-58-459,yama1264-std,concepticon-998,12.12,umutu,put,umutu
+clics-doculect-58-460,yama1264-std,concepticon-998,12.12,utika,put,utika
+clics-doculect-58-461,yama1264-std,concepticon-1416,12.13,mutu,sit,mutu
+clics-doculect-58-462,yama1264-std,concepticon-215,12.14,yea,lie down,yea
+clics-doculect-58-463,yama1264-std,concepticon-1442,12.15,kamato,stand,kamato
+clics-doculect-58-464,yama1264-std,concepticon-7,12.21,kipi,"collect, gather",kipi
+clics-doculect-58-465,yama1264-std,concepticon-1576,12.213,šamarmuta,pile up,samarmuta
+clics-doculect-58-466,yama1264-std,concepticon-1359,12.23,aršo,separate,arso
+clics-doculect-58-467,yama1264-std,concepticon-1156,12.24,myatata,open,myatata
+clics-doculect-58-468,yama1264-std,concepticon-1046,12.25,takatika,"shut, close",takatika
+clics-doculect-58-469,yama1264-std,concepticon-602,12.27,muštaka,"hide, conceal",mustaka
+clics-doculect-58-470,yama1264-std,concepticon-1265,12.31,manakata,high,manakata
+clics-doculect-58-471,yama1264-std,concepticon-1265,12.31,muka,high,muka
+clics-doculect-58-472,yama1264-std,concepticon-690,12.34,uša,bottom,usa
+clics-doculect-58-473,yama1264-std,concepticon-372,12.352,mara,pointed,mara
+clics-doculect-58-474,yama1264-std,concepticon-1019,12.41,šalatas,right (side),salatas
+clics-doculect-58-475,yama1264-std,concepticon-244,12.42,eskula,left (side),eskula
+clics-doculect-58-476,yama1264-std,concepticon-1942,12.43,kaša,near (adv),kasa
+clics-doculect-58-477,yama1264-std,concepticon-1406,12.44,xakusi,far (adv),xakusi
+clics-doculect-58-478,yama1264-std,concepticon-1877,12.45,itaš,east,itas
+clics-doculect-58-479,yama1264-std,concepticon-1817,12.46,inal,west,inal
+clics-doculect-58-480,yama1264-std,concepticon-1598,12.47,uša,north,usa
+clics-doculect-58-481,yama1264-std,concepticon-1595,12.48,itax,south,itax
+clics-doculect-58-482,yama1264-std,concepticon-479,12.53,pušu,grow,pusu
+clics-doculect-58-483,yama1264-std,concepticon-1202,12.55,manakata,"large, big",manakata
+clics-doculect-58-484,yama1264-std,concepticon-1246,12.56,yaxa,"small, little",yaxa
+clics-doculect-58-485,yama1264-std,concepticon-1203,12.57,muka,long,muka
+clics-doculect-58-486,yama1264-std,concepticon-711,12.58,manakata,tall,manakata
+clics-doculect-58-487,yama1264-std,concepticon-711,12.58,muka,tall,muka
+clics-doculect-58-488,yama1264-std,concepticon-1645,12.59,utala,short,utala
+clics-doculect-58-489,yama1264-std,concepticon-1243,12.61,patuxa,"wide, broad",patuxa
+clics-doculect-58-490,yama1264-std,concepticon-1267,12.62,salya,narrow,salya
+clics-doculect-58-491,yama1264-std,concepticon-2249,12.65,sal,thin (in dimension),sal
+clics-doculect-58-492,yama1264-std,concepticon-1633,12.71,panuš,flat,panus
+clics-doculect-58-493,yama1264-std,concepticon-1404,12.73,šalatas,straight,salatas
+clics-doculect-58-494,yama1264-std,concepticon-297,12.74,xayaka,crooked,xayaka
+clics-doculect-58-495,yama1264-std,concepticon-192,12.76,kakočin,corner,kakocin
+clics-doculect-58-496,yama1264-std,concepticon-1667,12.85,puta,hole,puta
+clics-doculect-58-497,yama1264-std,concepticon-1558,12.92,čiku,"like, similar",ciku
+clics-doculect-58-498,yama1264-std,concepticon-1264,12.93,mesata,change,mesata
+clics-doculect-58-499,yama1264-std,concepticon-1493,13.1,koli,one,koli
+clics-doculect-58-500,yama1264-std,concepticon-1498,13.2,kampeipi,two,kampeipi
+clics-doculect-58-501,yama1264-std,concepticon-492,13.3,matan,three,matan
+clics-doculect-58-502,yama1264-std,concepticon-1500,13.4,kupakunu,four,kupakunu
+clics-doculect-58-503,yama1264-std,concepticon-1420,13.107,kamper,count,kamper
+clics-doculect-58-504,yama1264-std,concepticon-98,13.14,xanikina,"every, all",xanikina
+clics-doculect-58-505,yama1264-std,concepticon-1198,13.15,weru,"much, many",weru
+clics-doculect-58-506,yama1264-std,concepticon-1242,13.17,yaxa,"little (quantity), few",yaxa
+clics-doculect-58-507,yama1264-std,concepticon-1242,13.17,uratur,"little (quantity), few",uratur
+clics-doculect-58-508,yama1264-std,concepticon-1241,13.181,tayatu,some,tayatu
+clics-doculect-58-509,yama1264-std,concepticon-1429,13.21,čaluku,full,caluku
+clics-doculect-58-510,yama1264-std,concepticon-1624,13.22,apula,empty,apula
+clics-doculect-58-511,yama1264-std,concepticon-1580,13.33,tapan,"alone, only",tapan
+clics-doculect-58-512,yama1264-std,concepticon-728,13.34,ayana,first,ayana
+clics-doculect-58-513,yama1264-std,concepticon-1529,13.35,kopakolu,last,kopakolu
+clics-doculect-58-514,yama1264-std,concepticon-1529,13.35,kupašpa,last,kupaspa
+clics-doculect-58-515,yama1264-std,concepticon-1231,14.13,yarma,new,yarma
+clics-doculect-58-516,yama1264-std,concepticon-1207,14.14,yaruma,young,yaruma
+clics-doculect-58-517,yama1264-std,concepticon-1229,14.15,tawa,old,tawa
+clics-doculect-58-518,yama1264-std,concepticon-1376,14.18,yar,now,yar
+clics-doculect-58-519,yama1264-std,concepticon-1963,14.19,inakun,immediately,inakun
+clics-doculect-58-520,yama1264-std,concepticon-1631,14.21,šamiku,"swift, fast, quick",samiku
+clics-doculect-58-521,yama1264-std,concepticon-701,14.22,utaš,slow,utas
+clics-doculect-58-522,yama1264-std,concepticon-743,14.26,uškuf,end (temporal),uskuf
+clics-doculect-58-523,yama1264-std,concepticon-1766,14.27,uštakata,finish,ustakata
+clics-doculect-58-524,yama1264-std,concepticon-1928,14.28,apaikatenata,"cease, stop",apaikatenata
+clics-doculect-58-525,yama1264-std,concepticon-790,14.29,kaita,ready,kaita
+clics-doculect-58-526,yama1264-std,concepticon-1676,14.31,kuka,always,kuka
+clics-doculect-58-527,yama1264-std,concepticon-204,14.35,čila,again,cila
+clics-doculect-58-528,yama1264-std,concepticon-1225,14.41,mola,day,mola
+clics-doculect-58-529,yama1264-std,concepticon-1233,14.42,akuš,night,akus
+clics-doculect-58-530,yama1264-std,concepticon-1807,14.451,tukačim,afternoon,tukacim
+clics-doculect-58-531,yama1264-std,concepticon-1283,14.47,ančimola,today,ancimola
+clics-doculect-58-532,yama1264-std,concepticon-1329,14.48,xamašana,tomorrow,xamasana
+clics-doculect-58-533,yama1264-std,concepticon-1179,14.481,xakumola,day-after-tomorrow,xakumola
+clics-doculect-58-534,yama1264-std,concepticon-1179,14.481,xakuxamašana,day-after-tomorrow,xakuxamasana
+clics-doculect-58-535,yama1264-std,concepticon-1174,14.49,kunakea,yesterday,kunakea
+clics-doculect-58-536,yama1264-std,concepticon-1370,14.71,xanuxa,month,xanuxa
+clics-doculect-58-537,yama1264-std,concepticon-1471,14.74,ina,winter,ina
+clics-doculect-58-538,yama1264-std,concepticon-1537,14.75,kisi,spring,kisi
+clics-doculect-58-539,yama1264-std,concepticon-1342,14.76,kisi,summer,kisi
+clics-doculect-58-540,yama1264-std,concepticon-1276,14.77,xanisluša,autumn,xanislusa
+clics-doculect-58-541,yama1264-std,concepticon-1587,15.21,ašata,smell (vb intrans),asata
+clics-doculect-58-542,yama1264-std,concepticon-375,15.212,xašama,sniff,xasama
+clics-doculect-58-543,yama1264-std,concepticon-1586,15.22,ašata,smell (vb trans),asata
+clics-doculect-58-544,yama1264-std,concepticon-42,15.26,ufka,"stinking, bad smelling",ufka
+clics-doculect-58-545,yama1264-std,concepticon-717,15.35,amaku,sweet,amaku
+clics-doculect-58-546,yama1264-std,concepticon-1091,15.36,pitufka,salty,pitufka
+clics-doculect-58-547,yama1264-std,concepticon-1408,15.41,muš,hear,mus
+clics-doculect-58-548,yama1264-std,concepticon-1408,15.41,mara,hear,mara
+clics-doculect-58-549,yama1264-std,concepticon-1608,15.42,tumaku,listen,tumaku
+clics-doculect-58-550,yama1264-std,concepticon-1314,15.46,ukausina,"quiet, silence",ukausina
+clics-doculect-58-551,yama1264-std,concepticon-1409,15.51,tiki,see,tiki
+clics-doculect-58-552,yama1264-std,concepticon-1819,15.52,alakana,"look, look at",alakana
+clics-doculect-58-553,yama1264-std,concepticon-1039,15.55,tutiki,show,tutiki
+clics-doculect-58-554,yama1264-std,concepticon-250,15.62,yaku,light (in color),yaku
+clics-doculect-58-555,yama1264-std,concepticon-706,15.63,xamaša,dark (in color),xamasa
+clics-doculect-58-556,yama1264-std,concepticon-1335,15.64,yaku,white,yaku
+clics-doculect-58-557,yama1264-std,concepticon-163,15.65,lampi,black,lampi
+clics-doculect-58-558,yama1264-std,concepticon-156,15.66,luša,red,lusa
+clics-doculect-58-559,yama1264-std,concepticon-837,15.67,arlampi,blue,arlampi
+clics-doculect-58-560,yama1264-std,concepticon-1425,15.68,arlampi,green,arlampi
+clics-doculect-58-561,yama1264-std,concepticon-378,15.712,atankutu,pinch,atankutu
+clics-doculect-58-562,yama1264-std,concepticon-1884,15.74,apeili,hard,apeili
+clics-doculect-58-563,yama1264-std,concepticon-1856,15.75,kutalu,soft,kutalu
+clics-doculect-58-564,yama1264-std,concepticon-1923,15.76,kuma,rough,kuma
+clics-doculect-58-565,yama1264-std,concepticon-1234,15.77,kutalu,smooth,kutalu
+clics-doculect-58-566,yama1264-std,concepticon-1396,15.78,akusimorana,sharp,akusimorana
+clics-doculect-58-567,yama1264-std,concepticon-1210,15.81,xašu,heavy,xasu
+clics-doculect-58-568,yama1264-std,concepticon-1052,15.82,tokšu,light (in weight),toksu
+clics-doculect-58-569,yama1264-std,concepticon-1726,15.83,ixa,"wet, damp",ixa
+clics-doculect-58-570,yama1264-std,concepticon-1398,15.84,paka,dry,paka
+clics-doculect-58-571,yama1264-std,concepticon-1286,15.85,putru,hot,putru
+clics-doculect-58-572,yama1264-std,concepticon-1232,15.851,putru,warm,putru
+clics-doculect-58-573,yama1264-std,concepticon-1287,15.86,teri,cold,teri
+clics-doculect-58-574,yama1264-std,concepticon-53,16.11,kan,"soul, spirit",kan
+clics-doculect-58-575,yama1264-std,concepticon-1495,16.23,šapakuta,"joyful, glad, happy",sapakuta
+clics-doculect-58-576,yama1264-std,concepticon-1355,16.25,toška,laugh,toska
+clics-doculect-58-577,yama1264-std,concepticon-1413,16.26,miku,play,miku
+clics-doculect-58-578,yama1264-std,concepticon-923,16.27,kur,love,kur
+clics-doculect-58-579,yama1264-std,concepticon-928,16.3,wokata,embrace,wokata
+clics-doculect-58-580,yama1264-std,concepticon-1875,16.34,anuna,"regret, be sorry",anuna
+clics-doculect-58-581,yama1264-std,concepticon-1141,16.35,tumuru,pity,tumuru
+clics-doculect-58-582,yama1264-std,concepticon-1839,16.37,ara,"cry, weep",ara
+clics-doculect-58-583,yama1264-std,concepticon-1651,16.38,yaištepana,tear (noun),yaistepana
+clics-doculect-58-584,yama1264-std,concepticon-716,16.39,kaimana,groan,kaimana
+clics-doculect-58-585,yama1264-std,concepticon-1607,16.41,amana,hate,amana
+clics-doculect-58-586,yama1264-std,concepticon-82,16.42,kulala,anger,kulala
+clics-doculect-58-587,yama1264-std,concepticon-1776,16.45,unusi,shame (noun),unusi
+clics-doculect-58-588,yama1264-std,concepticon-174,16.48,ušuwana,proud,usuwana
+clics-doculect-58-589,yama1264-std,concepticon-3,16.52,apeili,brave,apeili
+clics-doculect-58-590,yama1264-std,concepticon-781,16.53,yenkina,"fear, fright",yenkina
+clics-doculect-58-591,yama1264-std,concepticon-1750,16.622,tenukata,choose,tenukata
+clics-doculect-58-592,yama1264-std,concepticon-1657,16.66,auwan,true,auwan
+clics-doculect-58-593,yama1264-std,concepticon-601,16.67,yaus,"lie, tell lies",yaus
+clics-doculect-58-594,yama1264-std,concepticon-1292,16.72,ulafana,bad,ulafana
+clics-doculect-58-595,yama1264-std,concepticon-1725,16.73,opana,"right, correct",opana
+clics-doculect-58-596,yama1264-std,concepticon-1725,16.73,katika,"right, correct",katika
+clics-doculect-58-597,yama1264-std,concepticon-1427,16.81,welitis,beautiful,welitis
+clics-doculect-58-598,yama1264-std,concepticon-1548,16.82,ačanuwa,ugly,acanuwa
+clics-doculect-58-599,yama1264-std,concepticon-2018,16.83,čišuya,greedy,cisuya
+clics-doculect-58-600,yama1264-std,concepticon-1415,17.13,mwailana,think (= reflect),mwailana
+clics-doculect-58-601,yama1264-std,concepticon-1890,17.15,anašana,believe,anasana
+clics-doculect-58-602,yama1264-std,concepticon-1536,17.16,ayoalana,understand,ayoalana
+clics-doculect-58-603,yama1264-std,concepticon-1410,17.17,ela,know,ela
+clics-doculect-58-604,yama1264-std,concepticon-698,17.21,yualux,wise,yualux
+clics-doculect-58-605,yama1264-std,concepticon-1518,17.22,ečeweyauš,"foolish, stupid",eceweyaus
+clics-doculect-58-606,yama1264-std,concepticon-673,17.28,čeaxous,school,ceaxous
+clics-doculect-58-607,yama1264-std,concepticon-1523,17.32,malaminata,forget,malaminata
+clics-doculect-58-608,yama1264-std,concepticon-1268,17.55,aou,"yes, affirmative",aou
+clics-doculect-58-609,yama1264-std,concepticon-1269,17.56,paf,"no, negative",paf
+clics-doculect-58-610,yama1264-std,concepticon-1239,17.61,kunta,how?,kunta
+clics-doculect-58-611,yama1264-std,concepticon-1236,17.64,koute,what?,koute
+clics-doculect-58-612,yama1264-std,concepticon-1238,17.65,končita,when?,koncita
+clics-doculect-58-613,yama1264-std,concepticon-1237,17.66,kutup,where?,kutup
+clics-doculect-58-614,yama1264-std,concepticon-727,17.67,kunta,which?,kunta
+clics-doculect-58-615,yama1264-std,concepticon-1235,17.68,kana,who?,kana
+clics-doculect-58-616,yama1264-std,concepticon-1270,17.69,koutupi,why?,koutupi
+clics-doculect-58-617,yama1264-std,concepticon-1261,18.12,tapelsena,sing,tapelsena
+clics-doculect-58-618,yama1264-std,concepticon-715,18.13,kalana,"shout, cry out",kalana
+clics-doculect-58-619,yama1264-std,concepticon-1025,18.17,ulufki,whistle,ulufki
+clics-doculect-58-620,yama1264-std,concepticon-1623,18.21,kutana,"speak, talk",kutana
+clics-doculect-58-621,yama1264-std,concepticon-1458,18.22,kutana,say,kutana
+clics-doculect-58-622,yama1264-std,concepticon-1711,18.221,yakar,tell story,yakar
+clics-doculect-58-623,yama1264-std,concepticon-1307,18.24,kuta,language,kuta
+clics-doculect-58-624,yama1264-std,concepticon-1599,18.26,kuta,word,kuta
+clics-doculect-58-625,yama1264-std,concepticon-1405,18.28,wapus,name,wapus
+clics-doculect-58-626,yama1264-std,concepticon-1309,18.31,tumukutana,"ask (question, inquire)",tumukutana
+clics-doculect-58-627,yama1264-std,concepticon-83,18.38,ufki,forbid,ufki
+clics-doculect-58-628,yama1264-std,concepticon-1084,18.41,aye,call (=summon),aye
+clics-doculect-58-629,yama1264-std,concepticon-180,18.42,twapana,call (=name),twapana
+clics-doculect-58-630,yama1264-std,concepticon-1192,18.44,minaka,threaten,minaka
+clics-doculect-58-631,yama1264-std,concepticon-1672,18.51,itamani,write,itamani
+clics-doculect-58-632,yama1264-std,concepticon-724,18.52,tumena,read,tumena
+clics-doculect-58-633,yama1264-std,concepticon-1300,19.11,uši,country,usi
+clics-doculect-58-634,yama1264-std,concepticon-930,19.16,uštuwakata,village,ustuwakata
+clics-doculect-58-635,yama1264-std,concepticon-789,19.21,mali,people (populace),mali
+clics-doculect-58-636,yama1264-std,concepticon-301,19.24,tawina,"chief, chieftain",tawina
+clics-doculect-58-637,yama1264-std,concepticon-1296,19.25,tumakae,"staff, walking stick",tumakae
+clics-doculect-58-638,yama1264-std,concepticon-1325,19.51,maraku,"friend, companion",maraku
+clics-doculect-58-639,yama1264-std,concepticon-791,19.55,poli,stranger,poli
+clics-doculect-58-640,yama1264-std,concepticon-1897,19.58,kaičinana,"help, aid",kaicinana
+clics-doculect-58-641,yama1264-std,concepticon-1831,19.65,tiki,meet,tiki
+clics-doculect-58-642,yama1264-std,concepticon-1423,20.11,emuka,fight (vb),emuka
+clics-doculect-58-643,yama1264-std,concepticon-387,20.23,watawa,sling,watawa
+clics-doculect-58-644,yama1264-std,concepticon-994,20.24,wina,bow,wina
+clics-doculect-58-645,yama1264-std,concepticon-977,20.25,yakuš,arrow,yakus
+clics-doculect-58-646,yama1264-std,concepticon-945,20.26,saya,spear,saya
+clics-doculect-58-647,yama1264-std,concepticon-722,20.43,akiwara,attack,akiwara
+clics-doculect-58-648,yama1264-std,concepticon-19,20.53,ina,fishing line,ina
+clics-doculect-58-649,yama1264-std,concepticon-388,20.54,mata,fishnet,mata
+clics-doculect-58-650,yama1264-std,concepticon-389,20.55,čawanux,fish trap,cawanux
+clics-doculect-58-651,yama1264-std,concepticon-2013,20.56,xufana,bait,xufana
+clics-doculect-58-652,yama1264-std,concepticon-1435,20.61,kopana,hunt,kopana
+clics-doculect-58-653,yama1264-std,concepticon-1170,20.65,ata,trap (vb),ata
+clics-doculect-58-654,yama1264-std,concepticon-218,21.38,pisa,fine,pisa
+clics-doculect-58-655,yama1264-std,concepticon-845,21.42,amaiwaina,murder,amaiwaina
+clics-doculect-58-656,yama1264-std,concepticon-902,21.43,inkaka,adultery,inkaka
+clics-doculect-58-657,yama1264-std,concepticon-713,21.51,šeina,steal,seina
+clics-doculect-58-658,yama1264-std,concepticon-1160,21.52,šeina,thief,seina

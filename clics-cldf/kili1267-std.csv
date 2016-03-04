@@ -1,0 +1,1558 @@
+ID,Language_ID,Feature_ID,IDS_Key,Value,Concept,IPA_UDECODE
+clics-doculect-145-1,kili1267-std,concepticon-965,1.1,джине,world,dzhine
+clics-doculect-145-2,kili1267-std,concepticon-626,1.21,джине,"earth, land",dzhine
+clics-doculect-145-3,kili1267-std,concepticon-626,1.21,улка,"earth, land",ulka
+clics-doculect-145-4,kili1267-std,concepticon-626,1.21,вилайаьт,"earth, land",vilaia't
+clics-doculect-145-5,kili1267-std,concepticon-1228,1.212,инччи,"earth=ground, soil",inchchi
+clics-doculect-145-6,kili1267-std,concepticon-1228,1.212,ттва,"earth=ground, soil",ttva
+clics-doculect-145-7,kili1267-std,concepticon-1228,1.212,турпагъ,"earth=ground, soil",turpag'
+clics-doculect-145-8,kili1267-std,concepticon-2,1.213,тоз,dust,toz
+clics-doculect-145-9,kili1267-std,concepticon-640,1.214,кир,mud,kir
+clics-doculect-145-10,kili1267-std,concepticon-640,1.214,макьал,mud,mak'al
+clics-doculect-145-11,kili1267-std,concepticon-640,1.214,чирк,mud,chirk
+clics-doculect-145-12,kili1267-std,concepticon-671,1.215,къум,sand,k'um
+clics-doculect-145-13,kili1267-std,concepticon-671,1.215,шум,sand,shum
+clics-doculect-145-14,kili1267-std,concepticon-2118,1.22,мыда,"mountain, hill",myda
+clics-doculect-145-15,kili1267-std,concepticon-2118,1.22,таьпаь,"mountain, hill",ta'pa'
+clics-doculect-145-16,kili1267-std,concepticon-618,1.222,учхун,"cliff, precipice",uchkhun
+clics-doculect-145-17,kili1267-std,concepticon-652,1.23,дуьздаьн,"plain, field",du'zda'n
+clics-doculect-145-18,kili1267-std,concepticon-652,1.23,ант,"plain, field",ant
+clics-doculect-145-19,kili1267-std,concepticon-652,1.23,тала,"plain, field",tala
+clics-doculect-145-20,kili1267-std,concepticon-652,1.23,ынхъа,"plain, field",ynkh'a
+clics-doculect-145-21,kili1267-std,concepticon-921,1.24,даьраь,valley,da'ra'
+clics-doculect-145-22,kili1267-std,concepticon-921,1.24,чала,valley,chala
+clics-doculect-145-23,kili1267-std,concepticon-622,1.25,ода,island,oda
+clics-doculect-145-24,kili1267-std,concepticon-166,1.26,кантинент,mainland,kantinent
+clics-doculect-145-25,kili1267-std,concepticon-113,1.27,къарагъ,shore,k'arag'
+clics-doculect-145-26,kili1267-std,concepticon-1155,1.28,окьан,cave,ok'an
+clics-doculect-145-27,kili1267-std,concepticon-948,1.31,хьу,water,kh'u
+clics-doculect-145-28,kili1267-std,concepticon-1474,1.32,даьрйаьгь,sea,da'ria'g'
+clics-doculect-145-29,kili1267-std,concepticon-258,1.322,саькин,calm (of sea),sa'kin
+clics-doculect-145-30,kili1267-std,concepticon-259,1.323,къызгъын,rough (of sea),k'yzg'yn
+clics-doculect-145-31,kili1267-std,concepticon-1768,1.324,куьппуъг,foam,ku'ppu'g
+clics-doculect-145-32,kili1267-std,concepticon-645,1.329,акеан,ocean,akean
+clics-doculect-145-33,kili1267-std,concepticon-624,1.33,новыр,lake,novyr
+clics-doculect-145-34,kili1267-std,concepticon-978,1.35,лаьпаь,wave,la'pa'
+clics-doculect-145-35,kili1267-std,concepticon-666,1.36,ынкка,"river, stream, brook",ynkka
+clics-doculect-145-36,kili1267-std,concepticon-666,1.36,къарасу,"river, stream, brook",k'arasu
+clics-doculect-145-37,kili1267-std,concepticon-1982,1.362,гургур,whirlpool,gurgur
+clics-doculect-145-38,kili1267-std,concepticon-2144,1.37,къойу,"spring, well",k'oiu
+clics-doculect-145-39,kili1267-std,concepticon-2144,1.37,мыц,"spring, well",myts
+clics-doculect-145-40,kili1267-std,concepticon-2144,1.37,миччаь,"spring, well",michcha'
+clics-doculect-145-41,kili1267-std,concepticon-1145,1.38,кьарыш,swamp,k'arysh
+clics-doculect-145-42,kili1267-std,concepticon-943,1.39,шаьлаьлаь,waterfall,sha'la'la'
+clics-doculect-145-43,kili1267-std,concepticon-420,1.41,маша,"woods, forest",masha
+clics-doculect-145-45,kili1267-std,concepticon-1803,1.43,мыккар,wood,mykkar
+clics-doculect-145-46,kili1267-std,concepticon-2125,1.44,мыда,"stone, rock",myda
+clics-doculect-145-47,kili1267-std,concepticon-2125,1.44,къайа,"stone, rock",k'aia
+clics-doculect-145-48,kili1267-std,concepticon-2125,1.44,кІачІын,"stone, rock",kIachIyn
+clics-doculect-145-49,kili1267-std,concepticon-6,1.45,заьлзаьлаь,earthquake,za'lza'la'
+clics-doculect-145-50,kili1267-std,concepticon-6,1.45,цІваттвайогъурвал,earthquake,tsIvattvaiog'urval
+clics-doculect-145-51,kili1267-std,concepticon-1732,1.51,ццва,sky,tstsva
+clics-doculect-145-52,kili1267-std,concepticon-1343,1.52,ынкь,sun,ynk'
+clics-doculect-145-53,kili1267-std,concepticon-1313,1.53,вацІ,moon,vatsI
+clics-doculect-145-54,kili1267-std,concepticon-1430,1.54,пхунцІ,star,pkhuntsI
+clics-doculect-145-55,kili1267-std,concepticon-1654,1.55,илдырым,lightning,ildyrym
+clics-doculect-145-56,kili1267-std,concepticon-1150,1.56,ттокъуд,thunder,ttok'ud
+clics-doculect-145-57,kili1267-std,concepticon-2007,1.57,илдырым,lightning (as striking),ildyrym
+clics-doculect-145-58,kili1267-std,concepticon-858,1.58,туфан,storm,tufan
+clics-doculect-145-59,kili1267-std,concepticon-858,1.58,тфан,storm,tfan
+clics-doculect-145-60,kili1267-std,concepticon-1733,1.59,там,rainbow,tam
+clics-doculect-145-61,kili1267-std,concepticon-630,1.61,нур,light (noun),nur
+clics-doculect-145-62,kili1267-std,concepticon-630,1.61,чшаь,light (noun),chsha'
+clics-doculect-145-63,kili1267-std,concepticon-11,1.62,къараннугъ,darkness,k'arannug'
+clics-doculect-145-64,kili1267-std,concepticon-11,1.62,мичІаьвал,darkness,michIa'val
+clics-doculect-145-65,kili1267-std,concepticon-1388,1.63,кулга,"shade, shadow",kulga
+clics-doculect-145-66,kili1267-std,concepticon-1388,1.63,къузе̄,"shade, shadow",k'uze
+clics-doculect-145-67,kili1267-std,concepticon-1977,1.64,шегь,dew,sheg'
+clics-doculect-145-68,kili1267-std,concepticon-27,1.71,пы,air,py
+clics-doculect-145-69,kili1267-std,concepticon-27,1.71,гьава,air,g'ava
+clics-doculect-145-70,kili1267-std,concepticon-960,1.72,кулак,wind,kulak
+clics-doculect-145-71,kili1267-std,concepticon-960,1.72,фырфыр,wind,fyrfyr
+clics-doculect-145-72,kili1267-std,concepticon-1489,1.73,ункІ,cloud,unkI
+clics-doculect-145-73,kili1267-std,concepticon-249,1.74,ункІ,fog,unkI
+clics-doculect-145-74,kili1267-std,concepticon-658,1.75,кьула,rain (noun),k'ula
+clics-doculect-145-75,kili1267-std,concepticon-658,1.75,аблейсан,rain (noun),ableisan
+clics-doculect-145-76,kili1267-std,concepticon-784,1.76,ккыза,snow (noun),kkyza
+clics-doculect-145-77,kili1267-std,concepticon-617,1.77,микІ,ice,mikI
+clics-doculect-145-78,kili1267-std,concepticon-952,1.78,гьава,weather,g'ava
+clics-doculect-145-79,kili1267-std,concepticon-221,1.81,чІаь,fire,chIa'
+clics-doculect-145-80,kili1267-std,concepticon-889,1.82,чІаь,flame (noun),chIa'
+clics-doculect-145-81,kili1267-std,concepticon-778,1.83,хьими,smoke (noun),kh'imi
+clics-doculect-145-82,kili1267-std,concepticon-646,1.84,заькІ,ashes,za'kI
+clics-doculect-145-83,kili1267-std,concepticon-67,1.841,коз,embers,koz
+clics-doculect-145-84,kili1267-std,concepticon-141,1.851,йаьккири,burn (vb trans),ia'kkiri
+clics-doculect-145-85,kili1267-std,concepticon-1428,1.852,йуври,burn (vb intrans),iuvri
+clics-doculect-145-86,kili1267-std,concepticon-1428,1.852,ккизи,burn (vb intrans),kkizi
+clics-doculect-145-87,kili1267-std,concepticon-737,1.86,зажкІыри,"light, kindle, ignite",zazhkIyri
+clics-doculect-145-88,kili1267-std,concepticon-127,1.861,йибири,extinguish,iibiri
+clics-doculect-145-89,kili1267-std,concepticon-127,1.861,кІыли,extinguish,kIyli
+clics-doculect-145-90,kili1267-std,concepticon-1133,1.87,кирбит,match (noun),kirbit
+clics-doculect-145-91,kili1267-std,concepticon-10,1.88,удун,firewood,udun
+clics-doculect-145-92,kili1267-std,concepticon-1188,1.89,дашкуьмуьр,charcoal,dashku'mu'r
+clics-doculect-145-93,kili1267-std,concepticon-683,2.1,хІаьдми,"person, human being",khIa'dmi
+clics-doculect-145-94,kili1267-std,concepticon-683,2.1,инсан,"person, human being",insan
+clics-doculect-145-95,kili1267-std,concepticon-1554,2.21,лыгылд,man (vs. woman),lygyld
+clics-doculect-145-96,kili1267-std,concepticon-962,2.22,хинимкІир,woman,khinimkIir
+clics-doculect-145-97,kili1267-std,concepticon-1553,2.23,ки,male,ki
+clics-doculect-145-98,kili1267-std,concepticon-1553,2.23,эркег,male,erkeg
+clics-doculect-145-99,kili1267-std,concepticon-1551,2.24,лыццыи,female,lytstsyi
+clics-doculect-145-100,kili1267-std,concepticon-1366,2.25,гада,boy,gada
+clics-doculect-145-101,kili1267-std,concepticon-76,2.251,джаван,young man (adolescent),dzhavan
+clics-doculect-145-102,kili1267-std,concepticon-1646,2.26,риши,girl,rishi
+clics-doculect-145-103,kili1267-std,concepticon-77,2.261,риши,young woman (adolescent),rishi
+clics-doculect-145-104,kili1267-std,concepticon-1304,2.27,сон,child,son
+clics-doculect-145-105,kili1267-std,concepticon-1304,2.27,хІаьйаль,child,khIa'ial'
+clics-doculect-145-106,kili1267-std,concepticon-1289,2.28,чаралы,"infant, baby",charaly
+clics-doculect-145-107,kili1267-std,concepticon-1289,2.28,хІаьйаьл,"infant, baby",khIa'ia'l
+clics-doculect-145-108,kili1267-std,concepticon-1200,2.31,инхъаьрду,husband,inkh'a'rdu
+clics-doculect-145-109,kili1267-std,concepticon-1200,2.31,къонджа,husband,k'ondzha
+clics-doculect-145-110,kili1267-std,concepticon-1200,2.31,лыгад,husband,lygad
+clics-doculect-145-111,kili1267-std,concepticon-1200,2.31,мыси,husband,mysi
+clics-doculect-145-112,kili1267-std,concepticon-1200,2.31,лыгылд,husband,lygyld
+clics-doculect-145-113,kili1267-std,concepticon-1199,2.32,инхъаьдаь,wife,inkh'a'da'
+clics-doculect-145-114,kili1267-std,concepticon-1199,2.32,йолдаш,wife,ioldash
+clics-doculect-145-115,kili1267-std,concepticon-1199,2.32,хинимкІир,wife,khinimkIir
+clics-doculect-145-116,kili1267-std,concepticon-203,2.33,эвшккуи,marry,evshkkui
+clics-doculect-145-117,kili1267-std,concepticon-203,2.33,скири,marry,skiri
+clics-doculect-145-118,kili1267-std,concepticon-1259,2.34,эгъ,"marriage, wedding",eg'
+clics-doculect-145-119,kili1267-std,concepticon-1259,2.34,эвликкувал,"marriage, wedding",evlikkuval
+clics-doculect-145-120,kili1267-std,concepticon-1134,2.341,тІалагъ,divorce,tIalag'
+clics-doculect-145-121,kili1267-std,concepticon-1217,2.35,бый,father,byi
+clics-doculect-145-122,kili1267-std,concepticon-1217,2.35,къадаш,father,k'adash
+clics-doculect-145-123,kili1267-std,concepticon-1216,2.36,баджи,mother,badzhi
+clics-doculect-145-124,kili1267-std,concepticon-1216,2.36,даьдаь,mother,da'da'
+clics-doculect-145-125,kili1267-std,concepticon-505,2.37,бабадаьдаь,parents,babada'da'
+clics-doculect-145-126,kili1267-std,concepticon-424,2.38,эвликкуилыгылд,married man,evlikkuilygyld
+clics-doculect-145-127,kili1267-std,concepticon-426,2.39,эвликкуихинимкІир,married woman,evlikkuikhinimkIir
+clics-doculect-145-128,kili1267-std,concepticon-1620,2.41,гада,son,gada
+clics-doculect-145-129,kili1267-std,concepticon-1620,2.41,цІи,son,tsIi
+clics-doculect-145-130,kili1267-std,concepticon-1357,2.42,риши,daughter,rishi
+clics-doculect-145-131,kili1267-std,concepticon-1801,2.43,эвлад,offspring (son or daughter),evlad
+clics-doculect-145-132,kili1267-std,concepticon-1262,2.44,цсы,brother,tssy
+clics-doculect-145-133,kili1267-std,concepticon-1759,2.444,къадаш,older brother,k'adash
+clics-doculect-145-134,kili1267-std,concepticon-1759,2.444,чхицсы,older brother,chkhitssy
+clics-doculect-145-135,kili1267-std,concepticon-1760,2.445,мисицсы,younger brother,misitssy
+clics-doculect-145-136,kili1267-std,concepticon-1263,2.45,баджи,sister,badzhi
+clics-doculect-145-137,kili1267-std,concepticon-1263,2.45,рыцы,sister,rytsy
+clics-doculect-145-138,kili1267-std,concepticon-1758,2.454,чхирыцы,older sister,chkhirytsy
+clics-doculect-145-139,kili1267-std,concepticon-1761,2.455,мисирыцы,younger sister,misirytsy
+clics-doculect-145-140,kili1267-std,concepticon-1640,2.456,цсы,sibling,tssy
+clics-doculect-145-141,kili1267-std,concepticon-1640,2.456,рыцы,sibling,rytsy
+clics-doculect-145-142,kili1267-std,concepticon-1005,2.458,къаьтхӣ,twins,k'a'tkhi
+clics-doculect-145-143,kili1267-std,concepticon-1383,2.46,аба,grandfather,aba
+clics-doculect-145-144,kili1267-std,concepticon-406,2.461,инхъаьрду,old man,inkh'a'rdu
+clics-doculect-145-145,kili1267-std,concepticon-406,2.461,къожа,old man,k'ozha
+clics-doculect-145-146,kili1267-std,concepticon-1496,2.47,эжаь,grandmother,ezha'
+clics-doculect-145-147,kili1267-std,concepticon-907,2.471,агъбирчаьг,old woman,ag'bircha'g
+clics-doculect-145-148,kili1267-std,concepticon-907,2.471,инхъаьрдаь,old woman,inkh'a'rda'
+clics-doculect-145-149,kili1267-std,concepticon-1618,2.48,хыдыл,grandson,khydyl
+clics-doculect-145-150,kili1267-std,concepticon-1619,2.49,хыдыл,granddaughter,khydyl
+clics-doculect-145-151,kili1267-std,concepticon-1327,2.51,холы,uncle,kholy
+clics-doculect-145-152,kili1267-std,concepticon-1327,2.51,эми,uncle,emi
+clics-doculect-145-153,kili1267-std,concepticon-1984,2.511,холы,mother's brother,kholy
+clics-doculect-145-154,kili1267-std,concepticon-1985,2.512,холы,father's brother,kholy
+clics-doculect-145-155,kili1267-std,concepticon-1272,2.52,борц,aunt,borts
+clics-doculect-145-156,kili1267-std,concepticon-1272,2.52,джарц,aunt,dzharts
+clics-doculect-145-157,kili1267-std,concepticon-171,2.521,джарц,mother's sister,dzharts
+clics-doculect-145-158,kili1267-std,concepticon-170,2.522,борц,father's sister,borts
+clics-doculect-145-159,kili1267-std,concepticon-1063,2.53,хыдыл,nephew,khydyl
+clics-doculect-145-160,kili1267-std,concepticon-1642,2.54,хыдыл,niece,khydyl
+clics-doculect-145-161,kili1267-std,concepticon-1643,2.55,холӣши,cousin,kholishi
+clics-doculect-145-162,kili1267-std,concepticon-1643,2.55,холӣрышы,cousin,kholiryshy
+clics-doculect-145-163,kili1267-std,concepticon-1669,2.56,атабаба,ancestors,atababa
+clics-doculect-145-164,kili1267-std,concepticon-490,2.57,эвлад,descendants,evlad
+clics-doculect-145-165,kili1267-std,concepticon-2255,2.61,мысӣбый,father-in-law (of a man),mysibyi
+clics-doculect-145-166,kili1267-std,concepticon-2254,2.611,шенчил,father-in-law (of a woman),shenchil
+clics-doculect-145-167,kili1267-std,concepticon-2254,2.611,бый,father-in-law (of a woman),byi
+clics-doculect-145-168,kili1267-std,concepticon-2256,2.62,хен,mother-in-law (of a man),khen
+clics-doculect-145-169,kili1267-std,concepticon-2257,2.621,шенчилдаь,mother-in-law (of a woman),shenchilda'
+clics-doculect-145-170,kili1267-std,concepticon-2267,2.63,йезне,son-in-law (of a man),iezne
+clics-doculect-145-171,kili1267-std,concepticon-2266,2.631,йезне,son-in-law (of a woman),iezne
+clics-doculect-145-172,kili1267-std,concepticon-2265,2.64,аргаб,daughter-in-law (of a man),argab
+clics-doculect-145-173,kili1267-std,concepticon-2265,2.64,цІынас,daughter-in-law (of a man),tsIynas
+clics-doculect-145-174,kili1267-std,concepticon-2264,2.641,цІынас,daughter-in-law (of a woman),tsIynas
+clics-doculect-145-175,kili1267-std,concepticon-237,2.71,тІондаьбый,stepfather,tIonda'byi
+clics-doculect-145-176,kili1267-std,concepticon-236,2.72,тІондаьдаьдаь,stepmother,tIonda'da'da'
+clics-doculect-145-177,kili1267-std,concepticon-1059,2.73,тІондаьгада,stepson,tIonda'gada
+clics-doculect-145-178,kili1267-std,concepticon-1058,2.74,тІондаьриши,stepdaughter,tIonda'rishi
+clics-doculect-145-179,kili1267-std,concepticon-1149,2.75,йетим,orphan,ietim
+clics-doculect-145-180,kili1267-std,concepticon-1756,2.76,хиндед,widow,khinded
+clics-doculect-145-181,kili1267-std,concepticon-1981,2.77,хиндед,widower,khinded
+clics-doculect-145-182,kili1267-std,concepticon-1644,2.81,арха,"relatives, kinsmen",arkha
+clics-doculect-145-183,kili1267-std,concepticon-1644,2.81,къардаш,"relatives, kinsmen",k'ardash
+clics-doculect-145-184,kili1267-std,concepticon-1644,2.81,къовум,"relatives, kinsmen",k'ovum
+clics-doculect-145-185,kili1267-std,concepticon-1644,2.81,холыд,"relatives, kinsmen",kholyd
+clics-doculect-145-186,kili1267-std,concepticon-194,2.82,аиле,family,aile
+clics-doculect-145-187,kili1267-std,concepticon-1209,2.91,зы,I,zy
+clics-doculect-145-188,kili1267-std,concepticon-1215,2.92,вы,you (singular),vy
+clics-doculect-145-189,kili1267-std,concepticon-262,2.93,гьу,he/she/it,g'u
+clics-doculect-145-190,kili1267-std,concepticon-262,2.93,гьаь,he/she/it,g'a'
+clics-doculect-145-191,kili1267-std,concepticon-1212,2.94,йир,we,iir
+clics-doculect-145-192,kili1267-std,concepticon-1212,2.94,кин,we,kin
+clics-doculect-145-193,kili1267-std,concepticon-1131,2.941,йир,we (inclusive),iir
+clics-doculect-145-194,kili1267-std,concepticon-1130,2.942,кин,we (exclusive),kin
+clics-doculect-145-195,kili1267-std,concepticon-1213,2.95,зур,you (plural),zur
+clics-doculect-145-196,kili1267-std,concepticon-817,2.96,гьаь,they,g'a'
+clics-doculect-145-197,kili1267-std,concepticon-619,3.11,хІаьйван,animal,khIa'ivan
+clics-doculect-145-198,kili1267-std,concepticon-2261,3.12,ки,male (adj),ki
+clics-doculect-145-199,kili1267-std,concepticon-2262,3.13,лыццыи,female (adj),lytstsyi
+clics-doculect-145-200,kili1267-std,concepticon-631,3.15,хІаьйван,livestock,khIa'ivan
+clics-doculect-145-201,kili1267-std,concepticon-649,3.16,йейлагъ,pasture,ieilag'
+clics-doculect-145-202,kili1267-std,concepticon-649,3.16,йуьруьш,pasture,iu'ru'sh
+clics-doculect-145-203,kili1267-std,concepticon-649,3.16,чІаф,pasture,chIaf
+clics-doculect-145-204,kili1267-std,concepticon-263,3.18,гьаламхер,herdsman,g'alamkher
+clics-doculect-145-205,kili1267-std,concepticon-851,3.19,ахур,"stable, stall",akhur
+clics-doculect-145-206,kili1267-std,concepticon-851,3.19,цукъва,"stable, stall",tsuk'va
+clics-doculect-145-207,kili1267-std,concepticon-1153,3.2,мал,cattle (bovine),mal
+clics-doculect-145-208,kili1267-std,concepticon-1008,3.21,бугъа,bull,bug'a
+clics-doculect-145-209,kili1267-std,concepticon-1008,3.21,лихьиз,bull,likh'iz
+clics-doculect-145-210,kili1267-std,concepticon-1169,3.22,лихьиз,ox,likh'iz
+clics-doculect-145-211,kili1267-std,concepticon-1007,3.23,луццоз,cow,lutstsoz
+clics-doculect-145-212,kili1267-std,concepticon-1989,3.24,лихьаьз,calf,likh'a'z
+clics-doculect-145-213,kili1267-std,concepticon-1989,3.24,хъиччаьз,calf,kh'ichcha'z
+clics-doculect-145-214,kili1267-std,concepticon-1331,3.25,ки,sheep,ki
+clics-doculect-145-215,kili1267-std,concepticon-1331,3.25,чІубал,sheep,chIubal
+clics-doculect-145-216,kili1267-std,concepticon-1344,3.26,ки,ram,ki
+clics-doculect-145-217,kili1267-std,concepticon-1345,3.28,чІувал,ewe,chIuval
+clics-doculect-145-218,kili1267-std,concepticon-820,3.29,гизлеч,lamb,gizlech
+clics-doculect-145-219,kili1267-std,concepticon-820,3.29,ккараппа,lamb,kkarappa
+clics-doculect-145-220,kili1267-std,concepticon-820,3.29,кІу,lamb,kIu
+clics-doculect-145-221,kili1267-std,concepticon-1348,3.32,макаджин,boar,makadzhin
+clics-doculect-145-222,kili1267-std,concepticon-1348,3.32,гыма,boar,gyma
+clics-doculect-145-223,kili1267-std,concepticon-1351,3.34,гыма,sow,gyma
+clics-doculect-145-224,kili1267-std,concepticon-1351,3.34,макаджин,sow,makadzhin
+clics-doculect-145-225,kili1267-std,concepticon-1337,3.35,гыма,pig,gyma
+clics-doculect-145-226,kili1267-std,concepticon-1337,3.35,макаджин,pig,makadzhin
+clics-doculect-145-227,kili1267-std,concepticon-1502,3.36,цІол,goat,tsIol
+clics-doculect-145-228,kili1267-std,concepticon-264,3.37,така,he-goat,taka
+clics-doculect-145-229,kili1267-std,concepticon-1972,3.38,бацвыз,kid,batsvyz
+clics-doculect-145-230,kili1267-std,concepticon-1972,3.38,гъаьчІ,kid,g'a'chI
+clics-doculect-145-231,kili1267-std,concepticon-615,3.41,пши,horse (equine),pshi
+clics-doculect-145-232,kili1267-std,concepticon-936,3.42,айгъыр,stallion,aig'yr
+clics-doculect-145-233,kili1267-std,concepticon-936,3.42,варйа,stallion,varia
+clics-doculect-145-234,kili1267-std,concepticon-938,3.44,къулан,mare,k'ulan
+clics-doculect-145-235,kili1267-std,concepticon-938,3.44,мадйан,mare,madian
+clics-doculect-145-236,kili1267-std,concepticon-1647,3.45,айгъир,"foal, colt",aig'ir
+clics-doculect-145-237,kili1267-std,concepticon-1647,3.45,варйа,"foal, colt",varia
+clics-doculect-145-238,kili1267-std,concepticon-1862,3.46,гьилам,"ass, donkey",g'ilam
+clics-doculect-145-239,kili1267-std,concepticon-890,3.47,къаьтир,mule,k'a'tir
+clics-doculect-145-240,kili1267-std,concepticon-265,3.5,цІвоекъушырдыр,fowl,tsIvoek'ushyrdyr
+clics-doculect-145-241,kili1267-std,concepticon-1511,3.52,хоруз,"cock, rooster",khoruz
+clics-doculect-145-242,kili1267-std,concepticon-1514,3.54,куквацІ,hen,kukvatsI
+clics-doculect-145-243,kili1267-std,concepticon-1318,3.55,джуьджаь,chicken,dzhu'dzha'
+clics-doculect-145-244,kili1267-std,concepticon-1318,3.55,дуьдуь,chicken,du'du'
+clics-doculect-145-245,kili1267-std,concepticon-1187,3.56,къаз,goose,k'az
+clics-doculect-145-246,kili1267-std,concepticon-1360,3.57,уьрдаьг,duck,u'rda'g
+clics-doculect-145-247,kili1267-std,concepticon-539,3.58,йува,nest,iuva
+clics-doculect-145-248,kili1267-std,concepticon-539,3.58,кот,nest,kot
+clics-doculect-145-249,kili1267-std,concepticon-937,3.581,къуш,bird,k'ush
+clics-doculect-145-250,kili1267-std,concepticon-950,3.582,чайка,seagull,chaika
+clics-doculect-145-251,kili1267-std,concepticon-758,3.583,къуш,heron,k'ush
+clics-doculect-145-252,kili1267-std,concepticon-1905,3.584,къаракъызгъын,eagle,k'arak'yzg'yn
+clics-doculect-145-253,kili1267-std,concepticon-307,3.585,лачин,hawk,lachin
+clics-doculect-145-254,kili1267-std,concepticon-307,3.585,къыргъы,hawk,k'yrg'y
+clics-doculect-145-255,kili1267-std,concepticon-307,3.585,лаьлу,hawk,la'lu
+clics-doculect-145-256,kili1267-std,concepticon-1793,3.591,цІвакьунур,bat,tsIvak'unur
+clics-doculect-145-257,kili1267-std,concepticon-882,3.592,тутукъуш,parrot,tutuk'ush
+clics-doculect-145-258,kili1267-std,concepticon-913,3.593,къамар,crow,k'amar
+clics-doculect-145-259,kili1267-std,concepticon-913,3.593,чІаьхІ,crow,chIa'khI
+clics-doculect-145-260,kili1267-std,concepticon-1853,3.594,чаьнг,dove,cha'ng
+clics-doculect-145-261,kili1267-std,concepticon-735,3.596,байгъуш,owl,baig'ush
+clics-doculect-145-262,kili1267-std,concepticon-2009,3.61,пхра,dog,pkhra
+clics-doculect-145-263,kili1267-std,concepticon-1136,3.614,кІизаь,rabbit,kIiza'
+clics-doculect-145-264,kili1267-std,concepticon-1208,3.62,нин,cat,nin
+clics-doculect-145-265,kili1267-std,concepticon-1208,3.62,баьбиш,cat,ba'bish
+clics-doculect-145-266,kili1267-std,concepticon-2139,3.63,нукІур,"mouse, rat",nukIur
+clics-doculect-145-267,kili1267-std,concepticon-227,3.65,балыгъ,fish,balyg'
+clics-doculect-145-268,kili1267-std,concepticon-1110,3.661,акула,shark,akula
+clics-doculect-145-269,kili1267-std,concepticon-1479,3.662,делфин,"porpoise, dolphin",delfin
+clics-doculect-145-270,kili1267-std,concepticon-957,3.663,накъкъа,whale,nak'k'a
+clics-doculect-145-271,kili1267-std,concepticon-522,3.71,гыра,wolf,gyra
+clics-doculect-145-272,kili1267-std,concepticon-522,3.71,джанавар,wolf,dzhanavar
+clics-doculect-145-273,kili1267-std,concepticon-1386,3.72,аслан,lion,aslan
+clics-doculect-145-274,kili1267-std,concepticon-1820,3.73,псы,bear,psy
+clics-doculect-145-275,kili1267-std,concepticon-1312,3.74,пишлаь,fox,pishla'
+clics-doculect-145-276,kili1267-std,concepticon-1936,3.75,каьл,deer,ka'l
+clics-doculect-145-277,kili1267-std,concepticon-1350,3.76,маймын,monkey,maimyn
+clics-doculect-145-278,kili1267-std,concepticon-1290,3.77,фил,elephant,fil
+clics-doculect-145-279,kili1267-std,concepticon-1871,3.78,даьваь,camel,da'va'
+clics-doculect-145-280,kili1267-std,concepticon-1871,3.78,наьрдаьваь,camel,na'rda'va'
+clics-doculect-145-281,kili1267-std,concepticon-620,3.81,гьаьшаьрат,insect,g'a'sha'rat
+clics-doculect-145-282,kili1267-std,concepticon-1392,3.811,нимцІ,louse,nimtsI
+clics-doculect-145-283,kili1267-std,concepticon-267,3.812,кІинд,nit (louse egg),kIind
+clics-doculect-145-284,kili1267-std,concepticon-232,3.813,чІуьт,flea,chIu't
+clics-doculect-145-285,kili1267-std,concepticon-1974,3.814,х̄̄ъырхайагъ,centipede,kh'yrkhaiag'
+clics-doculect-145-286,kili1267-std,concepticon-1538,3.815,акьраб,scorpion,ak'rab
+clics-doculect-145-287,kili1267-std,concepticon-1575,3.816,таракан,cockroach,tarakan
+clics-doculect-145-288,kili1267-std,concepticon-587,3.817,къарышкъа,ant,k'aryshk'a
+clics-doculect-145-289,kili1267-std,concepticon-843,3.818,кьилебар,spider,k'ilebar
+clics-doculect-145-290,kili1267-std,concepticon-1065,3.819,кьилебарипарда,spider web,k'ilebariparda
+clics-doculect-145-291,kili1267-std,concepticon-665,3.82,ары,bee,ary
+clics-doculect-145-292,kili1267-std,concepticon-1931,3.821,мум,beeswax,mum
+clics-doculect-145-293,kili1267-std,concepticon-88,3.822,кот,beehive,kot
+clics-doculect-145-294,kili1267-std,concepticon-1517,3.823,чІирары,wasp,chIirary
+clics-doculect-145-295,kili1267-std,concepticon-1504,3.83,мичаьг,fly,micha'g
+clics-doculect-145-296,kili1267-std,concepticon-95,3.831,агъджакъаьнаьт,"sandfly (midge), gnat",ag'dzhak'a'na't
+clics-doculect-145-297,kili1267-std,concepticon-1509,3.832,агъджа,mosquito,ag'dzha
+clics-doculect-145-298,kili1267-std,concepticon-1509,3.832,къаьнаьт,mosquito,k'a'na't
+clics-doculect-145-299,kili1267-std,concepticon-1509,3.832,узунбурун,mosquito,uzunburun
+clics-doculect-145-300,kili1267-std,concepticon-1219,3.84,мок,worm,mok
+clics-doculect-145-301,kili1267-std,concepticon-1219,3.84,кьулач,worm,k'ulach
+clics-doculect-145-302,kili1267-std,concepticon-730,3.85,кІаз,snake,kIaz
+clics-doculect-145-303,kili1267-std,concepticon-730,3.85,мырдар,snake,myrdar
+clics-doculect-145-304,kili1267-std,concepticon-1791,3.92,каьпаьнаьг,butterfly,ka'pa'na'g
+clics-doculect-145-305,kili1267-std,concepticon-1791,3.92,паьрванаь,butterfly,pa'rvana'
+clics-doculect-145-306,kili1267-std,concepticon-607,3.93,цІицІин,grasshopper,tsIitsIin
+clics-doculect-145-307,kili1267-std,concepticon-1543,3.94,илбиз,snail,ilbiz
+clics-doculect-145-308,kili1267-std,concepticon-503,3.95,кьуркьор,frog,k'urk'or
+clics-doculect-145-309,kili1267-std,concepticon-632,3.96,цІинкІаз,lizard,tsIinkIaz
+clics-doculect-145-310,kili1267-std,concepticon-1857,3.97,кракадил,"crocodile, alligator",krakadil
+clics-doculect-145-311,kili1267-std,concepticon-112,3.98,багъа,turtle,bag'a
+clics-doculect-145-312,kili1267-std,concepticon-1480,4.11,баьдаьн,body,ba'da'n
+clics-doculect-145-313,kili1267-std,concepticon-1480,4.11,джандак,body,dzhandak
+clics-doculect-145-314,kili1267-std,concepticon-763,4.12,кІир,"skin, hide",kIir
+clics-doculect-145-315,kili1267-std,concepticon-2259,4.13,баьдаьн,flesh,ba'da'n
+clics-doculect-145-316,kili1267-std,concepticon-1040,4.14,пыт,hair (head),pyt
+clics-doculect-145-317,kili1267-std,concepticon-1040,4.14,чІар,hair (head),chIar
+clics-doculect-145-318,kili1267-std,concepticon-678,4.142,мичаыш,beard,michaysh
+clics-doculect-145-319,kili1267-std,concepticon-189,4.144,пыт,body hair,pyt
+clics-doculect-145-320,kili1267-std,concepticon-189,4.144,чІар,body hair,chIar
+clics-doculect-145-321,kili1267-std,concepticon-36,4.145,чІар,pubic hair,chIar
+clics-doculect-145-322,kili1267-std,concepticon-576,4.146,кан,dandruff,kan
+clics-doculect-145-323,kili1267-std,concepticon-946,4.15,къан,blood,k'an
+clics-doculect-145-324,kili1267-std,concepticon-946,4.15,пІи,blood,pIi
+clics-doculect-145-325,kili1267-std,concepticon-525,4.151,дамар,"vein, artery",damar
+clics-doculect-145-326,kili1267-std,concepticon-1394,4.16,инкІ,bone,inkI
+clics-doculect-145-327,kili1267-std,concepticon-801,4.162,къабыргъа,rib,k'abyrg'a
+clics-doculect-145-328,kili1267-std,concepticon-1393,4.17,ваьч,horn,va'ch
+clics-doculect-145-329,kili1267-std,concepticon-1220,4.18,кьаж,tail,k'azh
+clics-doculect-145-330,kili1267-std,concepticon-1291,4.19,далп,back,dalp
+clics-doculect-145-331,kili1267-std,concepticon-1291,4.19,кьакьал,back,k'ak'al
+clics-doculect-145-332,kili1267-std,concepticon-1291,4.19,кІыл,back,kIyl
+clics-doculect-145-333,kili1267-std,concepticon-805,4.191,онургъа,spine,onurg'a
+clics-doculect-145-334,kili1267-std,concepticon-1256,4.2,баш,head,bash
+clics-doculect-145-335,kili1267-std,concepticon-1256,4.2,калла,head,kalla
+clics-doculect-145-336,kili1267-std,concepticon-1256,4.2,микІир,head,mikIir
+clics-doculect-145-337,kili1267-std,concepticon-1604,4.201,гиджгаьгь,"side of head, temple",gidzhga'g'
+clics-doculect-145-338,kili1267-std,concepticon-1583,4.203,нуьш,brain,nu'sh
+clics-doculect-145-339,kili1267-std,concepticon-1560,4.204,ижи,face,izhi
+clics-doculect-145-340,kili1267-std,concepticon-1560,4.204,сифаьт,face,sifa't
+clics-doculect-145-341,kili1267-std,concepticon-123,4.205,кьашкьа,forehead,k'ashk'a
+clics-doculect-145-342,kili1267-std,concepticon-798,4.207,чана,jaw,chana
+clics-doculect-145-343,kili1267-std,concepticon-1730,4.208,тІукІун,cheek,tIukIun
+clics-doculect-145-344,kili1267-std,concepticon-1510,4.209,чана,chin,chana
+clics-doculect-145-345,kili1267-std,concepticon-1248,4.21,пил,eye,pil
+clics-doculect-145-346,kili1267-std,concepticon-1173,4.212,кІыгч,eyebrow,kIygch
+clics-doculect-145-347,kili1267-std,concepticon-17,4.213,баьбаьг,eyelid,ba'ba'g
+clics-doculect-145-348,kili1267-std,concepticon-1540,4.214,ниниг,eyelash,ninig
+clics-doculect-145-349,kili1267-std,concepticon-1655,4.215,килгъи,blink,kilg'i
+clics-doculect-145-350,kili1267-std,concepticon-1247,4.22,тІоп,ear,tIop
+clics-doculect-145-351,kili1267-std,concepticon-18,4.221,тІупекІи,earlobe,tIupekIi
+clics-doculect-145-352,kili1267-std,concepticon-32,4.222,тІупекІыч,earwax,tIupekIych
+clics-doculect-145-353,kili1267-std,concepticon-1221,4.23,кІытыр,nose,kIytyr
+clics-doculect-145-354,kili1267-std,concepticon-1178,4.231,паьнаь,nostril,pa'na'
+clics-doculect-145-355,kili1267-std,concepticon-208,4.232,хынтІ,mucus (nasal),khyntI
+clics-doculect-145-356,kili1267-std,concepticon-674,4.24,агъзы,mouth,ag'zy
+clics-doculect-145-357,kili1267-std,concepticon-674,4.24,мац,mouth,mats
+clics-doculect-145-358,kili1267-std,concepticon-73,4.241,диндигъ,beak,dindig'
+clics-doculect-145-359,kili1267-std,concepticon-478,4.25,тІал,lip,tIal
+clics-doculect-145-360,kili1267-std,concepticon-1205,4.26,мицІ,tongue,mitsI
+clics-doculect-145-361,kili1267-std,concepticon-1380,4.27,цулоз,tooth,tsuloz
+clics-doculect-145-362,kili1267-std,concepticon-139,4.271,домагъ,gums,domag'
+clics-doculect-145-363,kili1267-std,concepticon-139,4.271,изин,gums,izin
+clics-doculect-145-364,kili1267-std,concepticon-1049,4.272,аджи,molartooth,adzhi
+clics-doculect-145-365,kili1267-std,concepticon-1049,4.272,цулоз,molartooth,tsuloz
+clics-doculect-145-366,kili1267-std,concepticon-1333,4.28,гардан,neck,gardan
+clics-doculect-145-367,kili1267-std,concepticon-1347,4.281,гыли,nape of neck,gyli
+clics-doculect-145-368,kili1267-std,concepticon-1347,4.281,кьуну,nape of neck,k'unu
+clics-doculect-145-369,kili1267-std,concepticon-1346,4.29,бугъаз,throat,bug'az
+clics-doculect-145-370,kili1267-std,concepticon-1482,4.3,чигин,shoulder,chigin
+clics-doculect-145-371,kili1267-std,concepticon-172,4.301,лаппаткка,shoulderblade,lappatkka
+clics-doculect-145-372,kili1267-std,concepticon-1994,4.302,джинаб,collarbone,dzhinab
+clics-doculect-145-373,kili1267-std,concepticon-1673,4.31,кІыл,arm,kIyl
+clics-doculect-145-374,kili1267-std,concepticon-1673,4.31,кул,arm,kul
+clics-doculect-145-375,kili1267-std,concepticon-1886,4.312,къултугъ,armpit,k'ultug'
+clics-doculect-145-376,kili1267-std,concepticon-981,4.32,дирсаьг,elbow,dirsa'g
+clics-doculect-145-377,kili1267-std,concepticon-799,4.321,билаьг,wrist,bila'g
+clics-doculect-145-378,kili1267-std,concepticon-1277,4.33,кул,hand,kul
+clics-doculect-145-379,kili1267-std,concepticon-1183,4.331,кьон,palm of hand,k'on
+clics-doculect-145-380,kili1267-std,concepticon-1303,4.34,ыстал,finger,ystal
+clics-doculect-145-381,kili1267-std,concepticon-1781,4.342,йака,thumb,iaka
+clics-doculect-145-382,kili1267-std,concepticon-1781,4.342,ысттал,thumb,ysttal
+clics-doculect-145-383,kili1267-std,concepticon-1258,4.344,чими,fingernail,chimi
+clics-doculect-145-384,kili1267-std,concepticon-72,4.345,чими,claw,chimi
+clics-doculect-145-385,kili1267-std,concepticon-1297,4.35,анк,leg,ank
+clics-doculect-145-386,kili1267-std,concepticon-1297,4.35,ппача,leg,ppacha
+clics-doculect-145-387,kili1267-std,concepticon-800,4.351,кыз,thigh,kyz
+clics-doculect-145-388,kili1267-std,concepticon-498,4.352,хъохъ,calf of leg,kh'okh'
+clics-doculect-145-389,kili1267-std,concepticon-1371,4.36,аьгмаь,knee,a'gma'
+clics-doculect-145-390,kili1267-std,concepticon-1371,4.36,ник,knee,nik
+clics-doculect-145-391,kili1267-std,concepticon-1301,4.37,анк,foot,ank
+clics-doculect-145-392,kili1267-std,concepticon-803,4.371,кІукІва,ankle,kIukIva
+clics-doculect-145-393,kili1267-std,concepticon-980,4.372,кІуччы,heel,kIuchchy
+clics-doculect-145-394,kili1267-std,concepticon-318,4.374,лапыр,footprint,lapyr
+clics-doculect-145-395,kili1267-std,concepticon-1389,4.38,хъинч,toe,kh'inch
+clics-doculect-145-396,kili1267-std,concepticon-1257,4.392,къаьнаьт,wing,k'a'na't
+clics-doculect-145-397,kili1267-std,concepticon-1201,4.393,йаьлаьк,feather,ia'la'k
+clics-doculect-145-398,kili1267-std,concepticon-1592,4.4,коксы,chest,koksy
+clics-doculect-145-399,kili1267-std,concepticon-1402,4.41,махар,breast (of woman),makhar
+clics-doculect-145-400,kili1267-std,concepticon-796,4.412,тІаь,"nipple, teat",tIa'
+clics-doculect-145-401,kili1267-std,concepticon-154,4.42,кьунур,udder,k'unur
+clics-doculect-145-402,kili1267-std,concepticon-1838,4.43,цІум,navel,tsIum
+clics-doculect-145-403,kili1267-std,concepticon-1223,4.44,унг,heart,ung
+clics-doculect-145-404,kili1267-std,concepticon-688,4.441,джигаьр,lung,dzhiga'r
+clics-doculect-145-405,kili1267-std,concepticon-1224,4.45,бийар,liver,biiar
+clics-doculect-145-406,kili1267-std,concepticon-489,4.451,цІицІин,kidney,tsIitsIin
+clics-doculect-145-407,kili1267-std,concepticon-1744,4.452,зох,spleen,zokh
+clics-doculect-145-408,kili1267-std,concepticon-819,4.46,къурсагъ,stomach,k'ursag'
+clics-doculect-145-409,kili1267-std,concepticon-819,4.46,мичи,stomach,michi
+clics-doculect-145-410,kili1267-std,concepticon-1991,4.461,чІыкІылд,"intestines, guts",chIykIyld
+clics-doculect-145-411,kili1267-std,concepticon-1681,4.462,наькІид,waist,na'kIid
+clics-doculect-145-412,kili1267-std,concepticon-1745,4.463,кыз,hip,kyz
+clics-doculect-145-413,kili1267-std,concepticon-834,4.464,хили,buttocks,khili
+clics-doculect-145-414,kili1267-std,concepticon-834,4.464,хъаьхъ,buttocks,kh'a'kh'
+clics-doculect-145-415,kili1267-std,concepticon-804,4.47,къызлых,womb,k'yzlykh
+clics-doculect-145-416,kili1267-std,concepticon-1222,4.492,маьмил,penis,ma'mil
+clics-doculect-145-417,kili1267-std,concepticon-1407,4.51,наьфаьскъалтыркири,"breathe, breath",na'fa'sk'altyrkiri
+clics-doculect-145-418,kili1267-std,concepticon-1028,4.52,гъаморкири,"yawn, gape",g'amorkiri
+clics-doculect-145-419,kili1267-std,concepticon-162,4.521,гаьгирмишкувал,hiccough,ga'girmishkuval
+clics-doculect-145-420,kili1267-std,concepticon-879,4.53,хьыбакири,cough,kh'ybakiri
+clics-doculect-145-421,kili1267-std,concepticon-1621,4.54,сабыкви,sneeze,sabykvi
+clics-doculect-145-422,kili1267-std,concepticon-126,4.55,арагъккуи,perspire,arag'kkui
+clics-doculect-145-423,kili1267-std,concepticon-1440,4.56,тфулашкьири,spit,tfulashk'iri
+clics-doculect-145-424,kili1267-std,concepticon-1403,4.58,дидмишкири,bite,didmishkiri
+clics-doculect-145-425,kili1267-std,concepticon-1403,4.58,йетІири,bite,ietIiri
+clics-doculect-145-426,kili1267-std,concepticon-319,4.59,мицІкви,lick,mitsIkvi
+clics-doculect-145-427,kili1267-std,concepticon-268,4.591,наьгІнаьфаткири,dribble,na'gIna'fatkiri
+clics-doculect-145-428,kili1267-std,concepticon-1585,4.61,мишкири,sleep,mishkiri
+clics-doculect-145-429,kili1267-std,concepticon-1983,4.612,хурулдамышккуи,snore,khuruldamyshkkui
+clics-doculect-145-430,kili1267-std,concepticon-1920,4.62,мишзагъи,dream,mishzag'i
+clics-doculect-145-431,kili1267-std,concepticon-1602,4.63,айылмышкьи,wake up,aiylmyshk'i
+clics-doculect-145-432,kili1267-std,concepticon-1159,4.64,раьхІаьткьи,break wind,ra'khIa'tk'i
+clics-doculect-145-433,kili1267-std,concepticon-592,4.65,кІаькири,urinate,kIa'kiri
+clics-doculect-145-434,kili1267-std,concepticon-676,4.66,кІычкири,defecate,kIychkiri
+clics-doculect-145-435,kili1267-std,concepticon-1785,4.67,кви,have sexual intercourse,kvi
+clics-doculect-145-436,kili1267-std,concepticon-52,4.68,цІызакири,shiver,tsIyzakiri
+clics-doculect-145-437,kili1267-std,concepticon-138,4.69,хьынырлаккуи,bathe,kh'ynyrlakkui
+clics-doculect-145-438,kili1267-std,concepticon-1152,4.71,туьраьтмишкири,beget (of father),tu'ra'tmishkiri
+clics-doculect-145-439,kili1267-std,concepticon-1090,4.72,туьраьтмишккуи,born (to be),tu'ra'tmishkkui
+clics-doculect-145-440,kili1267-std,concepticon-1123,4.73,бугъаз,pregnant,bug'az
+clics-doculect-145-441,kili1267-std,concepticon-1123,4.73,тІуьли,pregnant,tIu'li
+clics-doculect-145-442,kili1267-std,concepticon-1087,4.732,бугъазкьи,conceive,bug'azk'i
+clics-doculect-145-443,kili1267-std,concepticon-1422,4.74,гаьхккун,"live, living, life",ga'khkkun
+clics-doculect-145-444,kili1267-std,concepticon-1494,4.75,кІыли,"die, dead",kIyli
+clics-doculect-145-445,kili1267-std,concepticon-1904,4.751,батмышккуи,drowned,batmyshkkui
+clics-doculect-145-446,kili1267-std,concepticon-1417,4.76,йибири,kill,iibiri
+clics-doculect-145-447,kili1267-std,concepticon-1417,4.76,кІыли,kill,kIyli
+clics-doculect-145-448,kili1267-std,concepticon-767,4.77,майыт,corpse,maiyt
+clics-doculect-145-449,kili1267-std,concepticon-1719,4.78,лыкІыри,bury (the dead),lykIyri
+clics-doculect-145-450,kili1267-std,concepticon-1773,4.79,зийарт,"grave, tomb",ziiart
+clics-doculect-145-451,kili1267-std,concepticon-785,4.81,зорба,"strong, mighty, powerful",zorba
+clics-doculect-145-452,kili1267-std,concepticon-1601,4.82,зайыф,weak,zaiyf
+clics-doculect-145-453,kili1267-std,concepticon-1601,4.82,хІалсиз,weak,khIalsiz
+clics-doculect-145-454,kili1267-std,concepticon-1364,4.83,сагъ,"well, health",sag'
+clics-doculect-145-455,kili1267-std,concepticon-1364,4.83,сагъламвал,"well, health",sag'lamval
+clics-doculect-145-456,kili1267-std,concepticon-1847,4.84,цІытккувалазаллы,"sick, sickness",tsIytkkuvalazally
+clics-doculect-145-457,kili1267-std,concepticon-1847,4.84,нахош,"sick, sickness",nakhosh
+clics-doculect-145-458,kili1267-std,concepticon-1847,4.84,цІыт,"sick, sickness",tsIyt
+clics-doculect-145-459,kili1267-std,concepticon-1534,4.841,апсагъ,fever,apsag'
+clics-doculect-145-460,kili1267-std,concepticon-1957,4.842,чаьнаьдан,goiter,cha'na'dan
+clics-doculect-145-461,kili1267-std,concepticon-102,4.843,сттаьлджаьм,cold (catarrh),stta'ldzha'm
+clics-doculect-145-462,kili1267-std,concepticon-1109,4.85,арам,"wound, sore",aram
+clics-doculect-145-463,kili1267-std,concepticon-1903,4.853,шиш,swelling,shish
+clics-doculect-145-464,kili1267-std,concepticon-148,4.854,изаьккубал,itch,iza'kkubal
+clics-doculect-145-465,kili1267-std,concepticon-793,4.856,сапыгь,boil (noun),sapyg'
+clics-doculect-145-466,kili1267-std,concepticon-793,4.856,пархунку,boil (noun),parkhunku
+clics-doculect-145-467,kili1267-std,concepticon-1808,4.857,ирин,pus,irin
+clics-doculect-145-468,kili1267-std,concepticon-1808,4.857,михъ,pus,mikh'
+clics-doculect-145-469,kili1267-std,concepticon-1808,4.857,пархун,pus,parkhun
+clics-doculect-145-470,kili1267-std,concepticon-499,4.86,сагъкири,"cure, heal",sag'kiri
+clics-doculect-145-471,kili1267-std,concepticon-597,4.87,дохттур,physician,dokhttur
+clics-doculect-145-472,kili1267-std,concepticon-1372,4.88,даьрман,"medicine, drug",da'rman
+clics-doculect-145-473,kili1267-std,concepticon-655,4.89,агъу,poison,ag'u
+clics-doculect-145-474,kili1267-std,concepticon-655,4.89,заьгьаьр,poison,za'g'a'r
+clics-doculect-145-475,kili1267-std,concepticon-1757,4.91,йургъун,"tired, weary",iurg'un
+clics-doculect-145-476,kili1267-std,concepticon-168,4.912,истрахІаьткири,rest,istrakhIa'tkiri
+clics-doculect-145-477,kili1267-std,concepticon-1564,4.92,каил,lazy,kail
+clics-doculect-145-478,kili1267-std,concepticon-1564,4.92,таьнбаьл,lazy,ta'nba'l
+clics-doculect-145-479,kili1267-std,concepticon-1125,4.93,тІамтІаз,bald,tIamtIaz
+clics-doculect-145-480,kili1267-std,concepticon-320,4.94,хиликкуи,lame,khilikkui
+clics-doculect-145-481,kili1267-std,concepticon-996,4.95,баьш,deaf,ba'sh
+clics-doculect-145-482,kili1267-std,concepticon-1666,4.96,лал,mute,lal
+clics-doculect-145-483,kili1267-std,concepticon-1653,4.97,байлагъ,blind,bailag'
+clics-doculect-145-484,kili1267-std,concepticon-1463,4.98,кефли,intoxicated,kefli
+clics-doculect-145-485,kili1267-std,concepticon-590,4.99,кьацІыл,"naked, bare",k'atsIyl
+clics-doculect-145-486,kili1267-std,concepticon-590,4.99,цІытар,"naked, bare",tsIytar
+clics-doculect-145-487,kili1267-std,concepticon-1336,5.11,кьандаь,eat,k'anda'
+clics-doculect-145-488,kili1267-std,concepticon-256,5.12,хьупшав,food,kh'upshav
+clics-doculect-145-489,kili1267-std,concepticon-269,5.121,хьли,cooked,kh'li
+clics-doculect-145-490,kili1267-std,concepticon-1959,5.122,наьмли,raw,na'mli
+clics-doculect-145-491,kili1267-std,concepticon-1959,5.122,фичІав,raw,fichIav
+clics-doculect-145-492,kili1267-std,concepticon-178,5.123,каьхгъили,ripe,ka'khg'ili
+clics-doculect-145-493,kili1267-std,concepticon-178,5.123,каьхбигъи,ripe,ka'khbig'i
+clics-doculect-145-494,kili1267-std,concepticon-1958,5.124,гог,"green, unripe",gog
+clics-doculect-145-495,kili1267-std,concepticon-1958,5.124,сыб,"green, unripe",syb
+clics-doculect-145-496,kili1267-std,concepticon-1958,5.124,каьхбигъиндаь,"green, unripe",ka'khbig'inda'
+clics-doculect-145-497,kili1267-std,concepticon-1728,5.125,чуруг,rotten,churug
+clics-doculect-145-498,kili1267-std,concepticon-1401,5.13,цуври,drink,tsuvri
+clics-doculect-145-499,kili1267-std,concepticon-1864,5.14,ымза,hunger,ymza
+clics-doculect-145-500,kili1267-std,concepticon-1864,5.14,ымзавал,hunger,ymzaval
+clics-doculect-145-501,kili1267-std,concepticon-199,5.141,ымза,famine,ymza
+clics-doculect-145-502,kili1267-std,concepticon-199,5.141,ымзавал,famine,ymzaval
+clics-doculect-145-503,kili1267-std,concepticon-848,5.15,къаныгълывал,thirst,k'anyg'lyval
+clics-doculect-145-504,kili1267-std,concepticon-1421,5.16,чаькмишкири,suck,cha'kmishkiri
+clics-doculect-145-505,kili1267-std,concepticon-321,5.18,ччыггыри,chew,chchyggyri
+clics-doculect-145-506,kili1267-std,concepticon-897,5.181,зинкьири,swallow,zink'iri
+clics-doculect-145-507,kili1267-std,concepticon-129,5.19,бугъмушкири,choke,bug'mushkiri
+clics-doculect-145-508,kili1267-std,concepticon-1100,5.21,хьли,cook,kh'li
+clics-doculect-145-509,kili1267-std,concepticon-792,5.22,къаьйнаьтмишкири,boil (vb),k'a'ina'tmishkiri
+clics-doculect-145-510,kili1267-std,concepticon-2146,5.23,къовурмышкири,"roast, fry",k'ovurmyshkiri
+clics-doculect-145-511,kili1267-std,concepticon-183,5.24,садж,bake,sadzh
+clics-doculect-145-512,kili1267-std,concepticon-183,5.24,хаьраьг,bake,kha'ra'g
+clics-doculect-145-513,kili1267-std,concepticon-183,5.24,пыч,bake,pych
+clics-doculect-145-514,kili1267-std,concepticon-1143,5.25,кьизи,oven,k'izi
+clics-doculect-145-515,kili1267-std,concepticon-1462,5.26,къазан,"pot, cooking vessel",k'azan
+clics-doculect-145-516,kili1267-std,concepticon-854,5.27,чейниг,kettle,cheinig
+clics-doculect-145-517,kili1267-std,concepticon-31,5.28,къаблама,pan,k'ablama
+clics-doculect-145-518,kili1267-std,concepticon-31,5.28,къазанча,pan,k'azancha
+clics-doculect-145-519,kili1267-std,concepticon-481,5.31,бошкъаб,dish,boshk'ab
+clics-doculect-145-520,kili1267-std,concepticon-480,5.32,бошкъаб,plate,boshk'ab
+clics-doculect-145-521,kili1267-std,concepticon-1530,5.33,бадйа,bowl,badia
+clics-doculect-145-522,kili1267-std,concepticon-1530,5.33,пийала,bowl,piiala
+clics-doculect-145-523,kili1267-std,concepticon-270,5.34,гадач,"pitcher, jug",gadach
+clics-doculect-145-524,kili1267-std,concepticon-270,5.34,ккулу,"pitcher, jug",kkulu
+clics-doculect-145-525,kili1267-std,concepticon-476,5.35,гоьз,"cup, drinking vessel",go'z
+clics-doculect-145-526,kili1267-std,concepticon-271,5.36,бошкъаб,saucer,boshk'ab
+clics-doculect-145-527,kili1267-std,concepticon-271,5.36,наьгІаьлбаьки,saucer,na'gIa'lba'ki
+clics-doculect-145-528,kili1267-std,concepticon-1378,5.37,кьам,spoon,k'am
+clics-doculect-145-529,kili1267-std,concepticon-1378,5.37,фарашкьам,spoon,farashk'am
+clics-doculect-145-530,kili1267-std,concepticon-1352,5.38,ваз,knife,vaz
+clics-doculect-145-531,kili1267-std,concepticon-337,5.39,чаьнгаьл,fork,cha'nga'l
+clics-doculect-145-532,kili1267-std,concepticon-272,5.391,каьлпаьтин,tongs,ka'lpa'tin
+clics-doculect-145-533,kili1267-std,concepticon-1526,5.41,кьандаьжи,meal (a),k'anda'zhi
+clics-doculect-145-534,kili1267-std,concepticon-1526,5.41,кьандаьвал,meal (a),k'anda'val
+clics-doculect-145-535,kili1267-std,concepticon-1322,5.42,аьсттукьандаьвал,breakfast,a'sttuk'anda'val
+clics-doculect-145-536,kili1267-std,concepticon-768,5.43,аьстукьандаьвал,lunch,a'stuk'anda'val
+clics-doculect-145-537,kili1267-std,concepticon-768,5.43,нагьар,lunch,nag'ar
+clics-doculect-145-538,kili1267-std,concepticon-1833,5.44,эбаьд,dinner,eba'd
+clics-doculect-145-539,kili1267-std,concepticon-1833,5.44,псаь,dinner,psa'
+clics-doculect-145-540,kili1267-std,concepticon-1833,5.45,паьгьар,supper,pa'g'ar
+clics-doculect-145-541,kili1267-std,concepticon-275,5.46,гаькири,peel,ga'kiri
+clics-doculect-145-542,kili1267-std,concepticon-86,5.47,суьзмуьшкири,"sieve, strain",su'zmu'shkiri
+clics-doculect-145-543,kili1267-std,concepticon-1767,5.48,пызмышкири,scrape,pyzmyshkiri
+clics-doculect-145-544,kili1267-std,concepticon-2017,5.49,шилхьири,"stir, mix",shilkh'iri
+clics-doculect-145-545,kili1267-std,concepticon-2017,5.49,шицІилицІири,"stir, mix",shitsIilitsIiri
+clics-doculect-145-546,kili1267-std,concepticon-1368,5.51,аджытма,bread,adzhytma
+clics-doculect-145-547,kili1267-std,concepticon-1368,5.51,баба,bread,baba
+clics-doculect-145-548,kili1267-std,concepticon-1368,5.51,пшаь,bread,psha'
+clics-doculect-145-549,kili1267-std,concepticon-273,5.53,хаьмир,dough,kha'mir
+clics-doculect-145-550,kili1267-std,concepticon-274,5.54,ваькьири,knead,va'k'iri
+clics-doculect-145-551,kili1267-std,concepticon-274,5.54,йаьхъири,knead,ia'kh'iri
+clics-doculect-145-552,kili1267-std,concepticon-274,5.54,хъили,knead,kh'ili
+clics-doculect-145-553,kili1267-std,concepticon-1594,5.55,кІун,"meal, flour",kIun
+clics-doculect-145-554,kili1267-std,concepticon-1033,5.56,залкІыри,"crush, grind",zalkIyri
+clics-doculect-145-555,kili1267-std,concepticon-636,5.57,зох,mill,zokh
+clics-doculect-145-556,kili1267-std,concepticon-224,5.58,гьаьванг,mortar,g'a'vang
+clics-doculect-145-557,kili1267-std,concepticon-634,5.61,лыкка,meat,lykka
+clics-doculect-145-558,kili1267-std,concepticon-1874,5.63,калбаса,sausage,kalbasa
+clics-doculect-145-559,kili1267-std,concepticon-1547,5.64,зозжи,"soup, broth",zozzhi
+clics-doculect-145-560,kili1267-std,concepticon-1547,5.64,шурпІа,"soup, broth",shurpIa
+clics-doculect-145-561,kili1267-std,concepticon-924,5.65,йемиш,vegetables,iemish
+clics-doculect-145-562,kili1267-std,concepticon-832,5.66,лаьргаь,bean,la'rga'
+clics-doculect-145-563,kili1267-std,concepticon-832,5.66,нохутІ,bean,nokhutI
+clics-doculect-145-564,kili1267-std,concepticon-593,5.7,картышкка,potato,kartyshkka
+clics-doculect-145-565,kili1267-std,concepticon-1507,5.71,йерйемиш,fruit,ieriemish
+clics-doculect-145-566,kili1267-std,concepticon-1507,5.71,маьйва,fruit,ma'iva
+clics-doculect-145-567,kili1267-std,concepticon-1966,5.712,даьсттаь,bunch,da'stta'
+clics-doculect-145-568,kili1267-std,concepticon-322,5.75,инжир,fig,inzhir
+clics-doculect-145-569,kili1267-std,concepticon-920,5.76,кІиназ,grape,kIinaz
+clics-doculect-145-570,kili1267-std,concepticon-920,5.76,уьзуьм,grape,u'zu'm
+clics-doculect-145-571,kili1267-std,concepticon-191,5.77,хъыццыз,nut,kh'ytstsyz
+clics-doculect-145-572,kili1267-std,concepticon-1154,5.78,зайтун,olive,zaitun
+clics-doculect-145-573,kili1267-std,concepticon-1484,5.79,миц,oil,mits
+clics-doculect-145-574,kili1267-std,concepticon-323,5.791,йагълы,"grease, fat",iag'ly
+clics-doculect-145-575,kili1267-std,concepticon-323,5.791,ми,"grease, fat",mi
+clics-doculect-145-576,kili1267-std,concepticon-1274,5.81,кьаь,salt,k'a'
+clics-doculect-145-577,kili1267-std,concepticon-1385,5.82,истто̄т,pepper,isttot
+clics-doculect-145-578,kili1267-std,concepticon-919,5.821,истто̄т,chili pepper,isttot
+clics-doculect-145-579,kili1267-std,concepticon-942,5.84,нуьцІ,honey,nu'tsI
+clics-doculect-145-580,kili1267-std,concepticon-862,5.85,къаьнд,sugar,k'a'nd
+clics-doculect-145-581,kili1267-std,concepticon-862,5.85,набат,sugar,nabat
+clics-doculect-145-582,kili1267-std,concepticon-862,5.85,шаькаьр,sugar,sha'ka'r
+clics-doculect-145-583,kili1267-std,concepticon-635,5.86,ал,milk (noun),al
+clics-doculect-145-584,kili1267-std,concepticon-635,5.86,калака,milk (noun),kalaka
+clics-doculect-145-585,kili1267-std,concepticon-93,5.87,кІелбижири,milk (vb),kIelbizhiri
+clics-doculect-145-586,kili1267-std,concepticon-93,5.87,тилкьири,milk (vb),tilk'iri
+clics-doculect-145-587,kili1267-std,concepticon-1569,5.88,энг,cheese,eng
+clics-doculect-145-588,kili1267-std,concepticon-1245,5.89,миц,butter,mits
+clics-doculect-145-589,kili1267-std,concepticon-731,5.9,цулижи,"beverage, drink",tsulizhi
+clics-doculect-145-590,kili1267-std,concepticon-941,5.91,нуьцІ,mead,nu'tsI
+clics-doculect-145-591,kili1267-std,concepticon-1524,5.92,чахыр,wine,chakhyr
+clics-doculect-145-592,kili1267-std,concepticon-1639,5.93,пиво,beer,pivo
+clics-doculect-145-593,kili1267-std,concepticon-744,5.97,кІаз,egg,kIaz
+clics-doculect-145-594,kili1267-std,concepticon-1556,5.971,гулаж,egg yolk,gulazh
+clics-doculect-145-595,kili1267-std,concepticon-158,6.11,нишири,put on (clothes),nishiri
+clics-doculect-145-596,kili1267-std,concepticon-1895,6.12,аьгни,"clothing, clothes",a'gni
+clics-doculect-145-597,kili1267-std,concepticon-881,6.13,даьрзичи,tailor,da'rzichi
+clics-doculect-145-598,kili1267-std,concepticon-1616,6.21,дугур,cloth,dugur
+clics-doculect-145-599,kili1267-std,concepticon-1616,6.21,парча,cloth,parcha
+clics-doculect-145-600,kili1267-std,concepticon-964,6.22,кхьепарча,wool,kkh'eparcha
+clics-doculect-145-601,kili1267-std,concepticon-916,6.23,катан,"linen, flax",katan
+clics-doculect-145-602,kili1267-std,concepticon-1850,6.24,бобогипарча,cotton,bobogiparcha
+clics-doculect-145-603,kili1267-std,concepticon-1641,6.25,ипаьг,silk,ipa'g
+clics-doculect-145-604,kili1267-std,concepticon-325,6.27,ттогьла,felt,ttog'la
+clics-doculect-145-605,kili1267-std,concepticon-580,6.28,хаьз,fur,kha'z
+clics-doculect-145-606,kili1267-std,concepticon-629,6.29,кІир,leather,kIir
+clics-doculect-145-607,kili1267-std,concepticon-629,6.29,тІаьси,leather,tIa'si
+clics-doculect-145-608,kili1267-std,concepticon-121,6.31,заькуи,spin,za'kui
+clics-doculect-145-609,kili1267-std,concepticon-277,6.32,зук,spindle,zuk
+clics-doculect-145-610,kili1267-std,concepticon-133,6.33,къаьйирмишкири,weave,k'a'iirmishkiri
+clics-doculect-145-611,kili1267-std,concepticon-133,6.33,хъили,weave,kh'ili
+clics-doculect-145-612,kili1267-std,concepticon-1787,6.34,хъала,loom,kh'ala
+clics-doculect-145-613,kili1267-std,concepticon-1457,6.35,кашпири,sew,kashpiri
+clics-doculect-145-614,kili1267-std,concepticon-1457,6.35,чоьлхьири,sew,cho'lkh'iri
+clics-doculect-145-615,kili1267-std,concepticon-1382,6.36,къуйогъ,needle,k'uiog'
+clics-doculect-145-616,kili1267-std,concepticon-1382,6.36,михаьз,needle,mikha'z
+clics-doculect-145-617,kili1267-std,concepticon-278,6.37,ппыла,awl,ppyla
+clics-doculect-145-618,kili1267-std,concepticon-1161,6.38,мысыр,thread,mysyr
+clics-doculect-145-619,kili1267-std,concepticon-157,6.39,шир,dye,shir
+clics-doculect-145-620,kili1267-std,concepticon-326,6.41,абы,cloak,aby
+clics-doculect-145-621,kili1267-std,concepticon-326,6.41,хаьлаьт,cloak,kha'la't
+clics-doculect-145-622,kili1267-std,concepticon-474,6.42,булушкка,woman's dress,bulushkka
+clics-doculect-145-623,kili1267-std,concepticon-603,6.43,палтиг,coat,paltig
+clics-doculect-145-624,kili1267-std,concepticon-1622,6.44,ппейрам,shirt,ppeiram
+clics-doculect-145-625,kili1267-std,concepticon-2012,6.45,йаха,collar,iakha
+clics-doculect-145-626,kili1267-std,concepticon-1600,6.46,джугар,skirt,dzhugar
+clics-doculect-145-627,kili1267-std,concepticon-809,6.48,шалвар,trousers,shalvar
+clics-doculect-145-628,kili1267-std,concepticon-329,6.49,инчІамыз,"stocking, sock",inchIamyz
+clics-doculect-145-629,kili1267-std,concepticon-1381,6.51,туфлы,shoe,tufly
+clics-doculect-145-630,kili1267-std,concepticon-585,6.52,чаькмаь,boot,cha'kma'
+clics-doculect-145-631,kili1267-std,concepticon-875,6.54,чаькмаьчи,"shoemaker, cobbler",cha'kma'chi
+clics-doculect-145-632,kili1267-std,concepticon-2130,6.55,пІапІах,"hat, cap",pIapIakh
+clics-doculect-145-633,kili1267-std,concepticon-772,6.57,тІасма,"belt, girdle",tIasma
+clics-doculect-145-634,kili1267-std,concepticon-867,6.58,куттир,glove,kuttir
+clics-doculect-145-635,kili1267-std,concepticon-1151,6.59,йаьшмагъ,veil,ia'shmag'
+clics-doculect-145-636,kili1267-std,concepticon-1851,6.61,джыбын,pocket,dzhybyn
+clics-doculect-145-637,kili1267-std,concepticon-1851,6.61,къултугъ,pocket,k'ultug'
+clics-doculect-145-638,kili1267-std,concepticon-757,6.62,пилаьк,button,pila'k
+clics-doculect-145-639,kili1267-std,concepticon-64,6.63,санджагъ,pin,sandzhag'
+clics-doculect-145-640,kili1267-std,concepticon-917,6.71,баьзаьг,"ornament, adornment",ba'za'g
+clics-doculect-145-641,kili1267-std,concepticon-917,6.71,бойунбагъи,"ornament, adornment",boiunbag'i
+clics-doculect-145-642,kili1267-std,concepticon-917,6.71,бухмагъ,"ornament, adornment",bukhmag'
+clics-doculect-145-643,kili1267-std,concepticon-1029,6.72,джавагьир,jewel,dzhavag'ir
+clics-doculect-145-644,kili1267-std,concepticon-1029,6.72,джо̄ьгьер,jewel,dzho'g'er
+clics-doculect-145-645,kili1267-std,concepticon-1374,6.73,тІарынг,ring (for finger),tIaryng
+clics-doculect-145-646,kili1267-std,concepticon-1754,6.74,базубенд,bracelet,bazubend
+clics-doculect-145-647,kili1267-std,concepticon-1754,6.74,билаьз,bracelet,bila'z
+clics-doculect-145-648,kili1267-std,concepticon-1961,6.75,кІандыр,necklace,kIandyr
+clics-doculect-145-649,kili1267-std,concepticon-1860,6.76,кІан,bead,kIan
+clics-doculect-145-650,kili1267-std,concepticon-770,6.77,сыргъа,earring,syrg'a
+clics-doculect-145-651,kili1267-std,concepticon-330,6.78,багълама,"headband, headdress",bag'lama
+clics-doculect-145-652,kili1267-std,concepticon-330,6.78,бишмав,"headband, headdress",bishmav
+clics-doculect-145-653,kili1267-std,concepticon-330,6.78,шал,"headband, headdress",shal
+clics-doculect-145-654,kili1267-std,concepticon-332,6.81,мизаьр,"handkerchief, rag",miza'r
+clics-doculect-145-655,kili1267-std,concepticon-1021,6.82,даьсмал,towel,da'smal
+clics-doculect-145-656,kili1267-std,concepticon-1475,6.91,дарагъ,comb,darag'
+clics-doculect-145-657,kili1267-std,concepticon-1821,6.92,чагъыз,brush,chag'yz
+clics-doculect-145-658,kili1267-std,concepticon-333,6.921,пшилд,braid,pshild
+clics-doculect-145-659,kili1267-std,concepticon-151,6.93,уьлгуьдж,razor,u'lgu'dzh
+clics-doculect-145-660,kili1267-std,concepticon-1926,6.94,маз,ointment,maz
+clics-doculect-145-661,kili1267-std,concepticon-788,6.95,сагІбын,soap,sagIbyn
+clics-doculect-145-662,kili1267-std,concepticon-1171,6.96,хІайнаь,mirror,khIaina'
+clics-doculect-145-663,kili1267-std,concepticon-363,7.11,гаьхккуи,"dwell, live",ga'khkkui
+clics-doculect-145-664,kili1267-std,concepticon-363,7.11,гаьхилккуи,"dwell, live",ga'khilkkui
+clics-doculect-145-665,kili1267-std,concepticon-1252,7.12,цІва,house,tsIva
+clics-doculect-145-666,kili1267-std,concepticon-1678,7.13,йува,hut,iuva
+clics-doculect-145-667,kili1267-std,concepticon-403,7.131,кума,garden-house,kuma
+clics-doculect-145-668,kili1267-std,concepticon-1316,7.14,алачІыгъ,tent,alachIyg'
+clics-doculect-145-669,kili1267-std,concepticon-736,7.15,алачІыгъ,"yard, court",alachIyg'
+clics-doculect-145-670,kili1267-std,concepticon-334,7.17,кухни,cookhouse,kukhni
+clics-doculect-145-671,kili1267-std,concepticon-335,7.18,кулуб,meeting house,kulub
+clics-doculect-145-672,kili1267-std,concepticon-1450,7.21,утагъ,room,utag'
+clics-doculect-145-673,kili1267-std,concepticon-1567,7.22,ттоз,"door, gate",ttoz
+clics-doculect-145-674,kili1267-std,concepticon-80,7.221,рама,"doorpost, jamb",rama
+clics-doculect-145-675,kili1267-std,concepticon-80,7.221,уьсттуь,"doorpost, jamb",u'sttu'
+clics-doculect-145-676,kili1267-std,concepticon-1596,7.23,ункуи,lock (noun),unkui
+clics-doculect-145-677,kili1267-std,concepticon-1472,7.24,ачар,key,achar
+clics-doculect-145-678,kili1267-std,concepticon-1375,7.25,паьнджаьраь,window,pa'ndzha'ra'
+clics-doculect-145-679,kili1267-std,concepticon-1632,7.26,ант,floor,ant
+clics-doculect-145-680,kili1267-std,concepticon-1632,7.26,чут,floor,chut
+clics-doculect-145-681,kili1267-std,concepticon-933,7.27,дывар,wall,dyvar
+clics-doculect-145-682,kili1267-std,concepticon-185,7.31,уджагъ,fireplace,udzhag'
+clics-doculect-145-683,kili1267-std,concepticon-859,7.32,пилаьтаь,stove,pila'ta'
+clics-doculect-145-684,kili1267-std,concepticon-1305,7.33,дор,chimney,dor
+clics-doculect-145-685,kili1267-std,concepticon-1305,7.33,каранаьй,chimney,karana'i
+clics-doculect-145-686,kili1267-std,concepticon-1464,7.37,кІинд,ladder,kIind
+clics-doculect-145-687,kili1267-std,concepticon-1464,7.37,наьрдиван,ladder,na'rdivan
+clics-doculect-145-688,kili1267-std,concepticon-1663,7.42,къарават,bed,k'aravat
+clics-doculect-145-689,kili1267-std,concepticon-1663,7.42,чарпай,bed,charpai
+clics-doculect-145-690,kili1267-std,concepticon-1044,7.421,ихччикІин,pillow,ikhchchikIin
+clics-doculect-145-691,kili1267-std,concepticon-806,7.422,йургъан,blanket,iurg'an
+clics-doculect-145-692,kili1267-std,concepticon-1476,7.43,усттул,chair,usttul
+clics-doculect-145-693,kili1267-std,concepticon-1775,7.44,усттул,table,usttul
+clics-doculect-145-694,kili1267-std,concepticon-2131,7.45,чирагъ,"lamp, torch",chirag'
+clics-doculect-145-695,kili1267-std,concepticon-1273,7.46,шам,candle,sham
+clics-doculect-145-696,kili1267-std,concepticon-745,7.47,соку,shelf,soku
+clics-doculect-145-697,kili1267-std,concepticon-745,7.47,тахчча,shelf,takhchcha
+clics-doculect-145-698,kili1267-std,concepticon-205,7.48,новча,trough,novcha
+clics-doculect-145-699,kili1267-std,concepticon-769,7.51,гис,roof,gis
+clics-doculect-145-700,kili1267-std,concepticon-769,7.51,къӯ,roof,k'u
+clics-doculect-145-701,kili1267-std,concepticon-279,7.52,къӯ,thatch,k'u
+clics-doculect-145-702,kili1267-std,concepticon-829,7.54,шалман,rafter,shalman
+clics-doculect-145-703,kili1267-std,concepticon-1132,7.55,ттогьла,beam,ttog'la
+clics-doculect-145-704,kili1267-std,concepticon-281,7.56,даьсттаьг,"post, pole",da'stta'g
+clics-doculect-145-705,kili1267-std,concepticon-1227,7.57,тахтта,board,takhtta
+clics-doculect-145-706,kili1267-std,concepticon-876,7.58,гумбаз,arch,gumbaz
+clics-doculect-145-707,kili1267-std,concepticon-877,7.61,кІачІыниусттар,mason,kIachIyniusttar
+clics-doculect-145-708,kili1267-std,concepticon-1006,7.62,карпыдж,brick,karpydzh
+clics-doculect-145-709,kili1267-std,concepticon-224,7.63,эгьаьнг,mortar,eg'a'ng
+clics-doculect-145-710,kili1267-std,concepticon-979,8.11,фермер,farmer,fermer
+clics-doculect-145-711,kili1267-std,concepticon-212,8.12,ынхъа,field (for cultivation),ynkh'a
+clics-doculect-145-712,kili1267-std,concepticon-212,8.12,хир,field (for cultivation),khir
+clics-doculect-145-713,kili1267-std,concepticon-586,8.13,багъ,garden,bag'
+clics-doculect-145-714,kili1267-std,concepticon-586,8.13,бахчча,garden,bakhchcha
+clics-doculect-145-715,kili1267-std,concepticon-1541,8.15,инччицІиликири,"cultivate, till",inchchitsIilikiri
+clics-doculect-145-716,kili1267-std,concepticon-1690,8.16,хІасар,fence,khIasar
+clics-doculect-145-717,kili1267-std,concepticon-2002,8.17,къано,ditch,k'ano
+clics-doculect-145-718,kili1267-std,concepticon-2002,8.17,хандег,ditch,khandeg
+clics-doculect-145-719,kili1267-std,concepticon-1921,8.21,цІили,plow,tsIili
+clics-doculect-145-720,kili1267-std,concepticon-1794,8.212,мала,furrow,mala
+clics-doculect-145-721,kili1267-std,concepticon-1418,8.22,цІили,dig,tsIili
+clics-doculect-145-722,kili1267-std,concepticon-1176,8.23,бер,spade,ber
+clics-doculect-145-723,kili1267-std,concepticon-1901,8.24,бер,shovel,ber
+clics-doculect-145-724,kili1267-std,concepticon-284,8.25,алагъ,hoe,alag'
+clics-doculect-145-725,kili1267-std,concepticon-284,8.25,каьрки,hoe,ka'rki
+clics-doculect-145-726,kili1267-std,concepticon-337,8.26,йаба,fork,iaba
+clics-doculect-145-727,kili1267-std,concepticon-338,8.27,хъацал,rake,kh'atsal
+clics-doculect-145-728,kili1267-std,concepticon-1351,8.31,цІили,sow,tsIili
+clics-doculect-145-729,kili1267-std,concepticon-714,8.311,тум,seed,tum
+clics-doculect-145-730,kili1267-std,concepticon-190,8.32,инкъири,"mow, reap",ink'iri
+clics-doculect-145-731,kili1267-std,concepticon-2132,8.33,чин,"sickle, scythe",chin
+clics-doculect-145-732,kili1267-std,concepticon-2132,8.33,даьрйаьз,"sickle, scythe",da'ria'z
+clics-doculect-145-733,kili1267-std,concepticon-285,8.34,мыцІыри,thresh,mytsIyri
+clics-doculect-145-734,kili1267-std,concepticon-223,8.35,роцІ,threshing-floor,rotsI
+clics-doculect-145-735,kili1267-std,concepticon-611,8.41,баьгьаьр,"crop, harvest",ba'g'a'r
+clics-doculect-145-736,kili1267-std,concepticon-605,8.42,гыргар,"grain (barley, oats etc)",gyrgar
+clics-doculect-145-737,kili1267-std,concepticon-1077,8.43,ли,wheat,li
+clics-doculect-145-738,kili1267-std,concepticon-932,8.44,махъа,barley,makh'a
+clics-doculect-145-739,kili1267-std,concepticon-23,8.45,сылг,rye,sylg
+clics-doculect-145-740,kili1267-std,concepticon-60,8.46,гыргар,oats,gyrgar
+clics-doculect-145-741,kili1267-std,concepticon-506,8.47,кокруз,"maize, corn",kokruz
+clics-doculect-145-742,kili1267-std,concepticon-506,8.47,хъим,"maize, corn",kh'im
+clics-doculect-145-743,kili1267-std,concepticon-506,8.47,къоргІаьдали,"maize, corn",k'orgIa'dali
+clics-doculect-145-744,kili1267-std,concepticon-926,8.48,ппарынцІ,rice,pparyntsI
+clics-doculect-145-745,kili1267-std,concepticon-606,8.51,инк,grass,ink
+clics-doculect-145-746,kili1267-std,concepticon-342,8.52,кьиинк,hay,k'iink
+clics-doculect-145-747,kili1267-std,concepticon-653,8.53,инк,plant (noun),ink
+clics-doculect-145-748,kili1267-std,concepticon-1486,8.531,каьхкьири,plant (vb),ka'khk'iri
+clics-doculect-145-749,kili1267-std,concepticon-670,8.54,кок,root,kok
+clics-doculect-145-750,kili1267-std,concepticon-1531,8.55,хъичаь,branch,kh'icha'
+clics-doculect-145-751,kili1267-std,concepticon-628,8.56,йарпагъ,leaf,iarpag'
+clics-doculect-145-752,kili1267-std,concepticon-239,8.57,баж,flower,bazh
+clics-doculect-145-753,kili1267-std,concepticon-239,8.57,гуьл,flower,gu'l
+clics-doculect-145-754,kili1267-std,concepticon-906,8.6,вишаь,tree,visha'
+clics-doculect-145-755,kili1267-std,concepticon-644,8.61,палыд,oak,palyd
+clics-doculect-145-756,kili1267-std,concepticon-1950,8.62,пип,beech,pip
+clics-doculect-145-757,kili1267-std,concepticon-1950,8.62,фысттыкъ,beech,fysttyk'
+clics-doculect-145-758,kili1267-std,concepticon-1855,8.63,верх,birch,verkh
+clics-doculect-145-759,kili1267-std,concepticon-1740,8.64,наьраьт,pine,na'ra't
+clics-doculect-145-760,kili1267-std,concepticon-1740,8.64,шам,pine,sham
+clics-doculect-145-761,kili1267-std,concepticon-1915,8.65,йолка,fir,iolka
+clics-doculect-145-762,kili1267-std,concepticon-968,8.66,къоза,acorn,k'oza
+clics-doculect-145-763,kili1267-std,concepticon-343,8.67,ттаьгьаьнг,vine,tta'g'a'ng
+clics-doculect-145-764,kili1267-std,concepticon-974,8.68,тамбаку,tobacco,tambaku
+clics-doculect-145-765,kili1267-std,concepticon-974,8.68,туьттуьн,tobacco,tu'ttu'n
+clics-doculect-145-766,kili1267-std,concepticon-1689,8.69,хьими,smoke (tobacco),kh'imi
+clics-doculect-145-767,kili1267-std,concepticon-1124,8.691,къалйан,pipe,k'alian
+clics-doculect-145-768,kili1267-std,concepticon-241,8.72,кок,tree stump,kok
+clics-doculect-145-769,kili1267-std,concepticon-344,8.73,коттыг,tree trunk,kottyg
+clics-doculect-145-770,kili1267-std,concepticon-409,8.74,хъиччаь,forked branch,kh'ichcha'
+clics-doculect-145-771,kili1267-std,concepticon-1204,8.75,къабигъ,bark,k'abig'
+clics-doculect-145-772,kili1267-std,concepticon-345,8.76,шираь,sap,shira'
+clics-doculect-145-773,kili1267-std,concepticon-345,8.76,мижаь,sap,mizha'
+clics-doculect-145-774,kili1267-std,concepticon-1126,8.83,апелсин,citrus fruit,apelsin
+clics-doculect-145-775,kili1267-std,concepticon-1126,8.83,лимон,citrus fruit,limon
+clics-doculect-145-776,kili1267-std,concepticon-868,8.84,банан,banana tree,banan
+clics-doculect-145-777,kili1267-std,concepticon-346,8.85,инджир,banyan,indzhir
+clics-doculect-145-778,kili1267-std,concepticon-411,8.93,къабагъ,gourd,k'abag'
+clics-doculect-145-779,kili1267-std,concepticon-864,8.931,къабагъ,"pumpkin, squash",k'abag'
+clics-doculect-145-780,kili1267-std,concepticon-1927,8.94,бамбук,bamboo,bambuk
+clics-doculect-145-781,kili1267-std,concepticon-33,8.97,мычІ,nettle,mychI
+clics-doculect-145-782,kili1267-std,concepticon-641,8.98,гаьбаьлаьг,mushroom,ga'ba'la'g
+clics-doculect-145-783,kili1267-std,concepticon-2575,9.11,кири,"do, make",kiri
+clics-doculect-145-784,kili1267-std,concepticon-984,9.12,далыг,work,dalyg
+clics-doculect-145-785,kili1267-std,concepticon-2004,9.14,атІкьири,bend,atIk'iri
+clics-doculect-145-786,kili1267-std,concepticon-1470,9.15,гешкири,fold,geshkiri
+clics-doculect-145-787,kili1267-std,concepticon-1917,9.16,ишкІири,"tie, bind",ishkIiri
+clics-doculect-145-788,kili1267-std,concepticon-352,9.161,эчмишкири,untie,echmishkiri
+clics-doculect-145-789,kili1267-std,concepticon-1627,9.18,заьнджир,chain,za'ndzhir
+clics-doculect-145-790,kili1267-std,concepticon-1218,9.19,инкІ,"rope, cord",inkI
+clics-doculect-145-791,kili1267-std,concepticon-760,9.192,кІукІва,knot (noun),kIukIva
+clics-doculect-145-792,kili1267-std,concepticon-2133,9.21,иттиркири,"strike (hit, beat)",ittirkiri
+clics-doculect-145-793,kili1267-std,concepticon-2133,9.21,мыцІыри,"strike (hit, beat)",mytsIyri
+clics-doculect-145-794,kili1267-std,concepticon-354,9.211,иттиркири,pound with fist,ittirkiri
+clics-doculect-145-795,kili1267-std,concepticon-1432,9.22,ттаькьири,cut,tta'k'iri
+clics-doculect-145-796,kili1267-std,concepticon-355,9.221,ттаьхкьуи,cut down,tta'khk'ui
+clics-doculect-145-797,kili1267-std,concepticon-155,9.222,мыцІыри,"chop, hew",mytsIyri
+clics-doculect-145-798,kili1267-std,concepticon-1352,9.23,байбут,knife,baibut
+clics-doculect-145-799,kili1267-std,concepticon-1352,9.23,ваз,knife,vaz
+clics-doculect-145-800,kili1267-std,concepticon-356,9.24,мукІрад,"scissors, shears",mukIrad
+clics-doculect-145-801,kili1267-std,concepticon-677,9.25,балта,ax,balta
+clics-doculect-145-802,kili1267-std,concepticon-677,9.25,наджагъ,ax,nadzhag'
+clics-doculect-145-803,kili1267-std,concepticon-680,9.26,кьулиттахкыри,break,k'ulittakhkyri
+clics-doculect-145-804,kili1267-std,concepticon-588,9.261,кьули,broken,k'uli
+clics-doculect-145-805,kili1267-std,concepticon-1437,9.27,ттахкыри,split,ttakhkyri
+clics-doculect-145-806,kili1267-std,concepticon-1735,9.28,заьхъири,tear,za'kh'iri
+clics-doculect-145-807,kili1267-std,concepticon-291,9.29,тІаьсикъалттырпыри,"flay, skin",tIa'sik'alttyrpyri
+clics-doculect-145-808,kili1267-std,concepticon-1449,9.31,пызмышкири,"rub, wipe",pyzmyshkiri
+clics-doculect-145-809,kili1267-std,concepticon-214,9.32,дартмышкири,stretch,dartmyshkiri
+clics-doculect-145-810,kili1267-std,concepticon-214,9.32,лыкьири,stretch,lyk'iri
+clics-doculect-145-811,kili1267-std,concepticon-1455,9.33,чченхъири,pull,chchenkh'iri
+clics-doculect-145-812,kili1267-std,concepticon-1455,9.33,дартмышкири,pull,dartmyshkiri
+clics-doculect-145-813,kili1267-std,concepticon-38,9.34,лилкыри,spread out,lilkyri
+clics-doculect-145-814,kili1267-std,concepticon-357,9.341,хаьччилкьири,hang up,kha'chchilk'iri
+clics-doculect-145-815,kili1267-std,concepticon-1913,9.342,басмышкири,press,basmyshkiri
+clics-doculect-145-816,kili1267-std,concepticon-1414,9.343,нашхьири,"squeeze, wring",nashkh'iri
+clics-doculect-145-817,kili1267-std,concepticon-1487,9.35,ложири,pour,lozhiri
+clics-doculect-145-818,kili1267-std,concepticon-1453,9.36,рыцыри,wash,rytsyri
+clics-doculect-145-819,kili1267-std,concepticon-230,9.37,йокури,sweep,iokuri
+clics-doculect-145-820,kili1267-std,concepticon-245,9.38,муккур,broom,mukkur
+clics-doculect-145-821,kili1267-std,concepticon-1361,9.422,алат,tool,alat
+clics-doculect-145-822,kili1267-std,concepticon-1042,9.43,дуьлгаьр,carpenter,du'lga'r
+clics-doculect-145-823,kili1267-std,concepticon-1042,9.43,хаьррат,carpenter,kha'rrat
+clics-doculect-145-824,kili1267-std,concepticon-1840,9.44,гаьчшири,build,ga'chshiri
+clics-doculect-145-825,kili1267-std,concepticon-1840,9.44,къурмушкири,build,k'urmushkiri
+clics-doculect-145-826,kili1267-std,concepticon-1501,9.46,мац,bore,mats
+clics-doculect-145-827,kili1267-std,concepticon-46,9.461,къилпири,hollow out,k'ilpiri
+clics-doculect-145-828,kili1267-std,concepticon-46,9.461,талтырври,hollow out,taltyrvri
+clics-doculect-145-829,kili1267-std,concepticon-1948,9.48,машар,saw,mashar
+clics-doculect-145-830,kili1267-std,concepticon-1481,9.49,кІулла,hammer,kIulla
+clics-doculect-145-831,kili1267-std,concepticon-502,9.5,кІартІа,nail,kIartIa
+clics-doculect-145-832,kili1267-std,concepticon-502,9.5,масмар,nail,masmar
+clics-doculect-145-833,kili1267-std,concepticon-1069,9.56,йапышкъан,glue,iapyshk'an
+clics-doculect-145-834,kili1267-std,concepticon-1001,9.6,даьмирчи,"smith, blacksmith",da'mirchi
+clics-doculect-145-835,kili1267-std,concepticon-288,9.61,даьмирчихана,forge,da'mirchikhana
+clics-doculect-145-836,kili1267-std,concepticon-1648,9.62,зиндан,anvil,zindan
+clics-doculect-145-837,kili1267-std,concepticon-1369,9.64,къызыл,gold,k'yzyl
+clics-doculect-145-838,kili1267-std,concepticon-759,9.65,нукьра,silver,nuk'ra
+clics-doculect-145-839,kili1267-std,concepticon-1825,9.66,зыр,"copper, bronze",zyr
+clics-doculect-145-840,kili1267-std,concepticon-1825,9.66,мис,"copper, bronze",mis
+clics-doculect-145-841,kili1267-std,concepticon-1825,9.66,буьруьндж,"copper, bronze",bu'ru'ndzh
+clics-doculect-145-842,kili1267-std,concepticon-621,9.67,ура,iron,ura
+clics-doculect-145-843,kili1267-std,concepticon-627,9.68,кьуркьошун,lead (noun),k'urk'oshun
+clics-doculect-145-844,kili1267-std,concepticon-358,9.69,хьырыцІура,"tin, tinplate",kh'yrytsIura
+clics-doculect-145-845,kili1267-std,concepticon-359,9.71,джубиустта,potter,dzhubiustta
+clics-doculect-145-846,kili1267-std,concepticon-1399,9.73,гьер,clay,g'er
+clics-doculect-145-847,kili1267-std,concepticon-1399,9.73,джуб,clay,dzhub
+clics-doculect-145-848,kili1267-std,concepticon-604,9.74,шуьшаь,glass,shu'sha'
+clics-doculect-145-849,kili1267-std,concepticon-604,9.74,хІайнаь,glass,khIaina'
+clics-doculect-145-850,kili1267-std,concepticon-1729,9.75,йоьхъири,"weave, plait",io'kh'iri
+clics-doculect-145-851,kili1267-std,concepticon-1539,9.76,кот,basket,kot
+clics-doculect-145-852,kili1267-std,concepticon-1539,9.76,хабзинкка,basket,khabzinkka
+clics-doculect-145-853,kili1267-std,concepticon-1539,9.76,хаьрзинкка,basket,kha'rzinkka
+clics-doculect-145-854,kili1267-std,concepticon-195,9.77,хІаьсир,mat,khIa'sir
+clics-doculect-145-855,kili1267-std,concepticon-292,9.771,кьалча,rug,k'alcha
+clics-doculect-145-856,kili1267-std,concepticon-293,9.78,сумка,netbag,sumka
+clics-doculect-145-857,kili1267-std,concepticon-228,9.81,ттирикьири,carve,ttirik'iri
+clics-doculect-145-858,kili1267-std,concepticon-647,9.88,куп,paint (noun),kup
+clics-doculect-145-859,kili1267-std,concepticon-647,9.88,шир,paint (noun),shir
+clics-doculect-145-860,kili1267-std,concepticon-2001,9.89,рангламишкири,paint (vb),ranglamishkiri
+clics-doculect-145-861,kili1267-std,concepticon-2001,9.89,чаькмишкири,paint (vb),cha'kmishkiri
+clics-doculect-145-862,kili1267-std,concepticon-765,10.11,йогъури,move,iog'uri
+clics-doculect-145-863,kili1267-std,concepticon-765,10.11,таьрпаьчмишкьи,move,ta'rpa'chmishk'i
+clics-doculect-145-864,kili1267-std,concepticon-1588,10.12,гисхири,turn over,giskhiri
+clics-doculect-145-865,kili1267-std,concepticon-1113,10.14,шикІири,"wind, wrap",shikIiri
+clics-doculect-145-866,kili1267-std,concepticon-827,10.15,гаьхиркири,roll,ga'khirkiri
+clics-doculect-145-867,kili1267-std,concepticon-808,10.16,ччечижри,drop (vb),chchechizhri
+clics-doculect-145-868,kili1267-std,concepticon-568,10.21,ахи,rise,akhi
+clics-doculect-145-869,kili1267-std,concepticon-568,10.21,каччыгъи,rise,kachchyg'i
+clics-doculect-145-870,kili1267-std,concepticon-501,10.22,аччухи,"raise, lift",achchukhi
+clics-doculect-145-871,kili1267-std,concepticon-1280,10.23,зыкыри,fall,zykyri
+clics-doculect-145-872,kili1267-std,concepticon-2253,10.24,тІынгтІынгложири,drip,tIyngtIynglozhiri
+clics-doculect-145-873,kili1267-std,concepticon-1456,10.25,алттыкІыри,throw,alttykIyri
+clics-doculect-145-874,kili1267-std,concepticon-1456,10.25,фаткири,throw,fatkiri
+clics-doculect-145-875,kili1267-std,concepticon-702,10.252,чІихьири,catch (ball),chIikh'iri
+clics-doculect-145-876,kili1267-std,concepticon-1909,10.26,йоккулкири,shake,iokkulkiri
+clics-doculect-145-877,kili1267-std,concepticon-2003,10.32,алккуи,flow,alkkui
+clics-doculect-145-878,kili1267-std,concepticon-1088,10.33,батмышккуи,sink,batmyshkkui
+clics-doculect-145-879,kili1267-std,concepticon-1574,10.34,уьзмуьшкьи,float,u'zmu'shk'i
+clics-doculect-145-880,kili1267-std,concepticon-1439,10.35,уьзмуьшкьи,swim,u'zmu'shk'i
+clics-doculect-145-881,kili1267-std,concepticon-365,10.352,ларшкири,splash,larshkiri
+clics-doculect-145-882,kili1267-std,concepticon-1441,10.37,учмышкири,fly (vb),uchmyshkiri
+clics-doculect-145-883,kili1267-std,concepticon-175,10.38,хаьлкьири,blow,kha'lk'iri
+clics-doculect-145-884,kili1267-std,concepticon-96,10.41,суьруьммуьшккуи,"creep, crawl",su'ru'mmu'shkkui
+clics-doculect-145-885,kili1267-std,concepticon-66,10.412,никиуьсттуьр,kneel,nikiu'sttu'r
+clics-doculect-145-886,kili1267-std,concepticon-66,10.412,ччывы,kneel,chchyvy
+clics-doculect-145-887,kili1267-std,concepticon-296,10.413,ччезви,crouch,chchezvi
+clics-doculect-145-888,kili1267-std,concepticon-1324,10.42,чІелгъири,"slide, slip",chIelg'iri
+clics-doculect-145-889,kili1267-std,concepticon-1829,10.43,ттахыркири,"jump, leap",ttakhyrkiri
+clics-doculect-145-890,kili1267-std,concepticon-1135,10.431,ппачаиттиркири,kick,ppachaittirkiri
+clics-doculect-145-891,kili1267-std,concepticon-1879,10.44,джимакири,dance,dzhimakiri
+clics-doculect-145-892,kili1267-std,concepticon-1443,10.45,къалшылкыри,walk,k'alshylkyri
+clics-doculect-145-893,kili1267-std,concepticon-1443,10.45,кІатккуи,walk,kIatkkui
+clics-doculect-145-894,kili1267-std,concepticon-1443,10.45,ккуи,walk,kkui
+clics-doculect-145-895,kili1267-std,concepticon-366,10.451,хиликири,limp,khilikiri
+clics-doculect-145-896,kili1267-std,concepticon-1519,10.46,чаьпири,run,cha'piri
+clics-doculect-145-897,kili1267-std,concepticon-695,10.47,ккуи,go,kkui
+clics-doculect-145-898,kili1267-std,concepticon-705,10.471,аккуи,go up,akkui
+clics-doculect-145-899,kili1267-std,concepticon-1102,10.472,аккуи,climb,akkui
+clics-doculect-145-900,kili1267-std,concepticon-2014,10.473,алгъи,go down,alg'i
+clics-doculect-145-901,kili1267-std,concepticon-1107,10.474,алттыраккуи,go out,alttyrakkui
+clics-doculect-145-902,kili1267-std,concepticon-1446,10.48,ккаккуи,come,kkakkui
+clics-doculect-145-903,kili1267-std,concepticon-1446,10.48,талккуи,come,talkkui
+clics-doculect-145-904,kili1267-std,concepticon-581,10.481,алттыбжыри,come back,alttybzhyri
+clics-doculect-145-905,kili1267-std,concepticon-581,10.481,гаьхккуи,come back,ga'khkkui
+clics-doculect-145-906,kili1267-std,concepticon-1752,10.49,ленджккуи,"go away, depart",lendzhkkui
+clics-doculect-145-907,kili1267-std,concepticon-485,10.491,таьргккуи,disappear,ta'rgkkui
+clics-doculect-145-908,kili1267-std,concepticon-956,10.51,чаьпири,flee,cha'piri
+clics-doculect-145-909,kili1267-std,concepticon-1387,10.55,ачхындаь,"reach, arrive",achkhynda'
+clics-doculect-145-910,kili1267-std,concepticon-1778,10.56,талчыхкыри,approach,talchykhkyri
+clics-doculect-145-911,kili1267-std,concepticon-749,10.57,аькІилккуи,enter,a'kIilkkui
+clics-doculect-145-912,kili1267-std,concepticon-749,10.57,талцІккуи,enter,taltsIkkui
+clics-doculect-145-913,kili1267-std,concepticon-749,10.57,ацІккуи,enter,atsIkkui
+clics-doculect-145-914,kili1267-std,concepticon-700,10.61,чІиккуи,carry (bear),chIikkui
+clics-doculect-145-915,kili1267-std,concepticon-412,10.612,чІиккуи,carry-in-hand,chIikkui
+clics-doculect-145-916,kili1267-std,concepticon-413,10.613,чІиккуи,carry-on-shoulder,chIikkui
+clics-doculect-145-917,kili1267-std,concepticon-414,10.614,чІиккуи,carry-on-head,chIikkui
+clics-doculect-145-918,kili1267-std,concepticon-415,10.615,чІиккуи,carry-underarm,chIikkui
+clics-doculect-145-919,kili1267-std,concepticon-692,10.62,чккаккуи,bring,chkkakkui
+clics-doculect-145-920,kili1267-std,concepticon-1127,10.63,аьхилкири,send,a'khilkiri
+clics-doculect-145-921,kili1267-std,concepticon-1127,10.63,заркири,send,zarkiri
+clics-doculect-145-922,kili1267-std,concepticon-43,10.64,чІизахи,lead (vb),chIizakhi
+clics-doculect-145-923,kili1267-std,concepticon-43,10.64,чІиккуи,lead (vb),chIikkui
+clics-doculect-145-924,kili1267-std,concepticon-741,10.65,ккуи,drive,kkui
+clics-doculect-145-925,kili1267-std,concepticon-367,10.66,ккуи,ride,kkui
+clics-doculect-145-926,kili1267-std,concepticon-1452,10.67,хаькири,"push, shove",kha'kiri
+clics-doculect-145-927,kili1267-std,concepticon-667,10.71,кІвар,road,kIvar
+clics-doculect-145-928,kili1267-std,concepticon-2252,10.72,джигъир,path,dzhig'ir
+clics-doculect-145-929,kili1267-std,concepticon-1011,10.74,кІинд,bridge,kIind
+clics-doculect-145-930,kili1267-std,concepticon-122,10.75,хІараба,"carriage, wagon, cart",khIaraba
+clics-doculect-145-931,kili1267-std,concepticon-710,10.76,чарх,wheel,charkh
+clics-doculect-145-932,kili1267-std,concepticon-1769,10.77,ох,axle,okh
+clics-doculect-145-933,kili1267-std,concepticon-14,10.78,бойундуругъ,yoke,boiundurug'
+clics-doculect-145-934,kili1267-std,concepticon-14,10.78,инг,yoke,ing
+clics-doculect-145-935,kili1267-std,concepticon-740,10.81,гами,ship,gami
+clics-doculect-145-936,kili1267-std,concepticon-1844,10.83,луьткаь,boat,lu'tka'
+clics-doculect-145-937,kili1267-std,concepticon-108,10.85,авар,oar,avar
+clics-doculect-145-938,kili1267-std,concepticon-234,10.851,авар,paddle (noun),avar
+clics-doculect-145-939,kili1267-std,concepticon-1849,10.852,талвыри,row (vb),talvyri
+clics-doculect-145-940,kili1267-std,concepticon-108,10.86,рул,rudder,rul
+clics-doculect-145-941,kili1267-std,concepticon-184,10.87,мачта,mast,machta
+clics-doculect-145-942,kili1267-std,concepticon-786,10.88,йалкан,sail (noun),ialkan
+clics-doculect-145-943,kili1267-std,concepticon-1870,10.89,лоьбаьр,anchor,lo'ba'r
+clics-doculect-145-944,kili1267-std,concepticon-610,10.91,порт,"harbor, port",port
+clics-doculect-145-945,kili1267-std,concepticon-773,11.11,аткьи,have,atk'i
+clics-doculect-145-946,kili1267-std,concepticon-684,11.12,атмаь,"own, possess",atma'
+clics-doculect-145-947,kili1267-std,concepticon-1749,11.13,ттуври,take,ttuvri
+clics-doculect-145-948,kili1267-std,concepticon-2021,11.14,чІихьири,"seize, grasp",chIikh'iri
+clics-doculect-145-949,kili1267-std,concepticon-1448,11.15,чІихьири,hold,chIikh'iri
+clics-doculect-145-950,kili1267-std,concepticon-694,11.16,тенчхъири,"get, obtain",tenchkh'iri
+clics-doculect-145-951,kili1267-std,concepticon-1477,11.17,йакъкъындаь,"keep, retain",iak'k'ynda'
+clics-doculect-145-952,kili1267-std,concepticon-1447,11.21,таькІири,give,ta'kIiri
+clics-doculect-145-953,kili1267-std,concepticon-85,11.22,алттыкьири,give back,alttyk'iri
+clics-doculect-145-954,kili1267-std,concepticon-1997,11.24,йакъкъындаь,"preserve, look after",iak'k'ynda'
+clics-doculect-145-955,kili1267-std,concepticon-2008,11.25,къутармишкири,"save, rescue",k'utarmishkiri
+clics-doculect-145-956,kili1267-std,concepticon-681,11.27,канттыркІыри,destroy,kanttyrkIyri
+clics-doculect-145-957,kili1267-std,concepticon-44,11.28,хаьса̄реткири,"harm, injure, damage",kha'saretkiri
+clics-doculect-145-958,kili1267-std,concepticon-1468,11.31,ункІури,"seek, look for",unkIuri
+clics-doculect-145-959,kili1267-std,concepticon-719,11.32,чІагъыри,find,chIag'yri
+clics-doculect-145-960,kili1267-std,concepticon-1660,11.33,дугункири,lose,dugunkiri
+clics-doculect-145-961,kili1267-std,concepticon-1095,11.34,лохуни,"release, let go",lokhuni
+clics-doculect-145-962,kili1267-std,concepticon-1559,11.43,пыл,money,pyl
+clics-doculect-145-963,kili1267-std,concepticon-1867,11.44,хІаппазы,coin,khIappazy
+clics-doculect-145-964,kili1267-std,concepticon-712,11.51,абад,rich,abad
+clics-doculect-145-965,kili1267-std,concepticon-712,11.51,варлы,rich,varly
+clics-doculect-145-966,kili1267-std,concepticon-712,11.51,мубаф,rich,mubaf
+clics-doculect-145-967,kili1267-std,concepticon-1674,11.52,касыб,poor,kasyb
+clics-doculect-145-968,kili1267-std,concepticon-1674,11.52,мушакъат,poor,mushak'at
+clics-doculect-145-969,kili1267-std,concepticon-1934,11.53,таьлаьбчи,beggar,ta'la'bchi
+clics-doculect-145-970,kili1267-std,concepticon-1774,11.54,муьшаькъаьт,"avaricious, stingy",mu'sha'k'a't
+clics-doculect-145-971,kili1267-std,concepticon-582,11.61,борджлаькІири,lend,bordzhla'kIiri
+clics-doculect-145-972,kili1267-std,concepticon-1823,11.62,борджыртаькІири,borrow,bordzhyrta'kIiri
+clics-doculect-145-973,kili1267-std,concepticon-369,11.63,борджлыккуи,owe,bordzhlykkui
+clics-doculect-145-974,kili1267-std,concepticon-1914,11.64,бордж,debt,bordzh
+clics-doculect-145-975,kili1267-std,concepticon-718,11.65,харджкири,pay (vb),khardzhkiri
+clics-doculect-145-976,kili1267-std,concepticon-1081,11.66,хІуьссаб,"account, reckoning",khIu'ssab
+clics-doculect-145-977,kili1267-std,concepticon-873,11.69,налуг,"tax, tribute",nalug
+clics-doculect-145-978,kili1267-std,concepticon-873,11.69,хардж,"tax, tribute",khardzh
+clics-doculect-145-979,kili1267-std,concepticon-856,11.77,харджттуври,hire,khardzhttuvri
+clics-doculect-145-980,kili1267-std,concepticon-1122,11.78,магІаьш,wages,magIa'sh
+clics-doculect-145-981,kili1267-std,concepticon-733,11.79,маьгІаьштенчхъири,earn,ma'gIa'shtenchkh'iri
+clics-doculect-145-982,kili1267-std,concepticon-1869,11.81,туври,buy,tuvri
+clics-doculect-145-983,kili1267-std,concepticon-1571,11.82,чекІири,sell,chekIiri
+clics-doculect-145-984,kili1267-std,concepticon-2135,11.83,алвер,"trade, barter",alver
+clics-doculect-145-985,kili1267-std,concepticon-2135,11.83,алышваьриш,"trade, barter",alyshva'rish
+clics-doculect-145-986,kili1267-std,concepticon-1082,11.84,тажир,merchant,tazhir
+clics-doculect-145-987,kili1267-std,concepticon-633,11.85,базар,market (place),bazar
+clics-doculect-145-988,kili1267-std,concepticon-752,11.86,тукан,"store, shop",tukan
+clics-doculect-145-989,kili1267-std,concepticon-752,11.86,магъаза,"store, shop",mag'aza
+clics-doculect-145-990,kili1267-std,concepticon-657,11.87,къилмаьт,price,k'ilma't
+clics-doculect-145-991,kili1267-std,concepticon-1426,11.88,багьа,"dear (costly, expensive)",bag'a
+clics-doculect-145-992,kili1267-std,concepticon-1887,11.89,уджуз,cheap,udzhuz
+clics-doculect-145-993,kili1267-std,concepticon-884,11.91,пе̄кири,share (distribute),pekiri
+clics-doculect-145-994,kili1267-std,concepticon-1098,11.92,йохьури,weigh,iokh'uri
+clics-doculect-145-995,kili1267-std,concepticon-1685,12.1,тотух,after,totukh
+clics-doculect-145-996,kili1267-std,concepticon-723,12.11,далых,place,dalykh
+clics-doculect-145-997,kili1267-std,concepticon-1816,12.2,коли,beside,koli
+clics-doculect-145-998,kili1267-std,concepticon-2094,12.3,мусод,"down, below",musod
+clics-doculect-145-999,kili1267-std,concepticon-1882,12.4,къабагъыр,before,k'abag'yr
+clics-doculect-145-1000,kili1267-std,concepticon-1019,12.41,къабагъ,right (side),k'abag'
+clics-doculect-145-1001,kili1267-std,concepticon-1606,12.5,ичир,"inside, in",ichir
+clics-doculect-145-1002,kili1267-std,concepticon-762,12.6,гусылли,outside,gusylli
+clics-doculect-145-1003,kili1267-std,concepticon-1485,12.7,кІанык,under,kIanyk
+clics-doculect-145-1004,kili1267-std,concepticon-1591,12.8,гус,"up, above",gus
+clics-doculect-145-1005,kili1267-std,concepticon-723,12.11,джигаь,place,dzhiga'
+clics-doculect-145-1006,kili1267-std,concepticon-998,12.12,чаьши,put,cha'shi
+clics-doculect-145-1007,kili1267-std,concepticon-1416,12.13,ччивыри,sit,chchivyri
+clics-doculect-145-1008,kili1267-std,concepticon-215,12.14,аччыври,lie down,achchyvri
+clics-doculect-145-1009,kili1267-std,concepticon-1442,12.15,ттохундаь,stand,ttokhunda'
+clics-doculect-145-1010,kili1267-std,concepticon-987,12.16,йецциндаь,"remain, stay",ietstsinda'
+clics-doculect-145-1011,kili1267-std,concepticon-838,12.17,йеццинжи,"remains, left overs",ietstsinzhi
+clics-doculect-145-1012,kili1267-std,concepticon-7,12.21,кажкІыри,"collect, gather",kazhkIyri
+clics-doculect-145-1013,kili1267-std,concepticon-371,12.212,ттошбыцІыри,pick up,ttoshbytsIyri
+clics-doculect-145-1014,kili1267-std,concepticon-1576,12.213,кІаьв̄икви,pile up,kIa'vikvi
+clics-doculect-145-1015,kili1267-std,concepticon-1576,12.213,лац̄ыкьири,pile up,latsyk'iri
+clics-doculect-145-1016,kili1267-std,concepticon-1743,12.22,ччимыцІкири,"join, unite",chchimytsIkiri
+clics-doculect-145-1017,kili1267-std,concepticon-1359,12.23,затышкьири,separate,zatyshk'iri
+clics-doculect-145-1018,kili1267-std,concepticon-1119,12.232,затыхшири,divide,zatykhshiri
+clics-doculect-145-1019,kili1267-std,concepticon-1119,12.232,пе̄кири,divide,pekiri
+clics-doculect-145-1020,kili1267-std,concepticon-1156,12.24,гихъири,open,gikh'iri
+clics-doculect-145-1021,kili1267-std,concepticon-1046,12.25,ттахкыри,"shut, close",ttakhkyri
+clics-doculect-145-1022,kili1267-std,concepticon-761,12.26,чІихьири,cover,chIikh'iri
+clics-doculect-145-1023,kili1267-std,concepticon-602,12.27,кьамашкири,"hide, conceal",k'amashkiri
+clics-doculect-145-1024,kili1267-std,concepticon-1265,12.31,гьуьндуьруьлли,high,g'u'ndu'ru'lli
+clics-doculect-145-1025,kili1267-std,concepticon-721,12.32,алчагъ,low,alchag'
+clics-doculect-145-1026,kili1267-std,concepticon-721,12.32,мусод,low,musod
+clics-doculect-145-1027,kili1267-std,concepticon-1753,12.33,гьуьндуьр,top,g'u'ndu'r
+clics-doculect-145-1028,kili1267-std,concepticon-690,12.34,кІич,bottom,kIich
+clics-doculect-145-1029,kili1267-std,concepticon-742,12.35,ахыр,end,akhyr
+clics-doculect-145-1030,kili1267-std,concepticon-742,12.35,микІир,end,mikIir
+clics-doculect-145-1031,kili1267-std,concepticon-372,12.352,шиш,pointed,shish
+clics-doculect-145-1032,kili1267-std,concepticon-863,12.353,къарагъ,edge,k'arag'
+clics-doculect-145-1033,kili1267-std,concepticon-682,12.36,таьраьф,side,ta'ra'f
+clics-doculect-145-1034,kili1267-std,concepticon-1093,12.37,урта,"middle, center",urta
+clics-doculect-145-1035,kili1267-std,concepticon-1019,12.41,хІаьлдаь,right (side),khIa'lda'
+clics-doculect-145-1036,kili1267-std,concepticon-244,12.42,салахей,left (side),salakhei
+clics-doculect-145-1037,kili1267-std,concepticon-1942,12.43,коли,near (adv),koli
+clics-doculect-145-1038,kili1267-std,concepticon-1406,12.44,узах,far (adv),uzakh
+clics-doculect-145-1039,kili1267-std,concepticon-1877,12.45,машрикь,east,mashrik'
+clics-doculect-145-1040,kili1267-std,concepticon-1817,12.46,магъриб,west,mag'rib
+clics-doculect-145-1041,kili1267-std,concepticon-1598,12.47,шаьрхъ,north,sha'rkh'
+clics-doculect-145-1042,kili1267-std,concepticon-1595,12.48,кьубла,south,k'ubla
+clics-doculect-145-1043,kili1267-std,concepticon-479,12.53,къаьлкІишири,grow,k'a'lkIishiri
+clics-doculect-145-1044,kili1267-std,concepticon-1506,12.54,йохьури,measure,iokh'uri
+clics-doculect-145-1045,kili1267-std,concepticon-81,12.541,ынкІ,"span, fathom",ynkI
+clics-doculect-145-1046,kili1267-std,concepticon-1202,12.55,зорба,"large, big",zorba
+clics-doculect-145-1047,kili1267-std,concepticon-1202,12.55,йака,"large, big",iaka
+clics-doculect-145-1048,kili1267-std,concepticon-1202,12.55,хъазы,"large, big",kh'azy
+clics-doculect-145-1049,kili1267-std,concepticon-1202,12.55,чхи,"large, big",chkhi
+clics-doculect-145-1050,kili1267-std,concepticon-1246,12.56,миси,"small, little",misi
+clics-doculect-145-1051,kili1267-std,concepticon-1203,12.57,вихаь,long,vikha'
+clics-doculect-145-1052,kili1267-std,concepticon-711,12.58,гьавар,tall,g'avar
+clics-doculect-145-1053,kili1267-std,concepticon-711,12.58,гьуьндуьр,tall,g'u'ndu'r
+clics-doculect-145-1054,kili1267-std,concepticon-1645,12.59,батта,short,batta
+clics-doculect-145-1055,kili1267-std,concepticon-1645,12.59,чижаь,short,chizha'
+clics-doculect-145-1056,kili1267-std,concepticon-1243,12.61,генг,"wide, broad",geng
+clics-doculect-145-1057,kili1267-std,concepticon-1243,12.61,энны,"wide, broad",enny
+clics-doculect-145-1058,kili1267-std,concepticon-1267,12.62,дар,narrow,dar
+clics-doculect-145-1059,kili1267-std,concepticon-1267,12.62,локІ,narrow,lokI
+clics-doculect-145-1060,kili1267-std,concepticon-1244,12.63,бичІи,thick (in dimension),bichIi
+clics-doculect-145-1061,kili1267-std,concepticon-2249,12.65,локІ,thin (in dimension),lokI
+clics-doculect-145-1062,kili1267-std,concepticon-1593,12.67,даьрин,deep,da'rin
+clics-doculect-145-1063,kili1267-std,concepticon-193,12.68,чІат,shallow,chIat
+clics-doculect-145-1064,kili1267-std,concepticon-1633,12.71,ант,flat,ant
+clics-doculect-145-1065,kili1267-std,concepticon-1633,12.71,инкІаьз,flat,inkIa'z
+clics-doculect-145-1066,kili1267-std,concepticon-1633,12.71,ынкІа,flat,ynkIa
+clics-doculect-145-1067,kili1267-std,concepticon-1404,12.73,дуьз,straight,du'z
+clics-doculect-145-1068,kili1267-std,concepticon-297,12.74,кІили,crooked,kIili
+clics-doculect-145-1069,kili1267-std,concepticon-1071,12.75,хъим,hook,kh'im
+clics-doculect-145-1070,kili1267-std,concepticon-1071,12.75,къогъа,hook,k'og'a
+clics-doculect-145-1071,kili1267-std,concepticon-192,12.76,кундж,corner,kundzh
+clics-doculect-145-1072,kili1267-std,concepticon-1367,12.77,хач,cross,khach
+clics-doculect-145-1073,kili1267-std,concepticon-1395,12.81,гонгазлы,round,gongazly
+clics-doculect-145-1074,kili1267-std,concepticon-1395,12.81,ломпІортІум,round,lompIortIum
+clics-doculect-145-1075,kili1267-std,concepticon-1467,12.82,гьалей,circle,g'alei
+clics-doculect-145-1076,kili1267-std,concepticon-1845,12.83,шарик,"sphere, ball",sharik
+clics-doculect-145-1077,kili1267-std,concepticon-1048,12.84,джызыгъ,line,dzhyzyg'
+clics-doculect-145-1078,kili1267-std,concepticon-1667,12.85,мац,hole,mats
+clics-doculect-145-1079,kili1267-std,concepticon-1558,12.92,ухшаш,"like, similar",ukhshash
+clics-doculect-145-1080,kili1267-std,concepticon-1264,12.93,шисхири,change,shiskhiri
+clics-doculect-145-1081,kili1267-std,concepticon-1294,13.0,сифыр,"zero, nothing",sifyr
+clics-doculect-145-1082,kili1267-std,concepticon-1493,13.1,са,one,sa
+clics-doculect-145-1083,kili1267-std,concepticon-1493,13.1,чинаь,one,china'
+clics-doculect-145-1084,kili1267-std,concepticon-1498,13.2,кІу,two,kIu
+clics-doculect-145-1085,kili1267-std,concepticon-492,13.3,пшо,three,psho
+clics-doculect-145-1086,kili1267-std,concepticon-1500,13.4,онгъ,four,ong'
+clics-doculect-145-1087,kili1267-std,concepticon-493,13.5,пхьу,five,pkh'u
+clics-doculect-145-1088,kili1267-std,concepticon-1703,13.6,заьк,six,za'k
+clics-doculect-145-1089,kili1267-std,concepticon-1704,13.7,йикІ,seven,iikI
+clics-doculect-145-1090,kili1267-std,concepticon-1705,13.8,инкІ,eight,inkI
+clics-doculect-145-1091,kili1267-std,concepticon-1483,13.9,йоз,nine,ioz
+clics-doculect-145-1092,kili1267-std,concepticon-1515,13.10,йаьгІиз,ten,ia'gIiz
+clics-doculect-145-1093,kili1267-std,concepticon-1706,13.101,йаьгІизса,eleven,ia'gIizsa
+clics-doculect-145-1094,kili1267-std,concepticon-1707,13.102,йаьгІизкІу,twelve,ia'gIizkIu
+clics-doculect-145-1095,kili1267-std,concepticon-1709,13.103,йаьгІизпхьу,fifteen,ia'gIizpkh'u
+clics-doculect-145-1096,kili1267-std,concepticon-1710,13.104,кьан,twenty,k'an
+clics-doculect-145-1097,kili1267-std,concepticon-1634,13.105,пан,hundred,pan
+clics-doculect-145-1098,kili1267-std,concepticon-1843,13.106,азыр,thousand,azyr
+clics-doculect-145-1099,kili1267-std,concepticon-1420,13.107,йохьури,count,iokh'uri
+clics-doculect-145-1100,kili1267-std,concepticon-98,13.14,чІихьиричІихьттондаь,"every, all",chIikh'irichIikh'ttonda'
+clics-doculect-145-1101,kili1267-std,concepticon-98,13.14,чинел,"every, all",chinel
+clics-doculect-145-1102,kili1267-std,concepticon-1198,13.15,ихер,"much, many",ikher
+clics-doculect-145-1103,kili1267-std,concepticon-1992,13.16,ихер,more,ikher
+clics-doculect-145-1104,kili1267-std,concepticon-1242,13.17,даьнаь,"little (quantity), few",da'na'
+clics-doculect-145-1105,kili1267-std,concepticon-1881,13.18,там,enough,tam
+clics-doculect-145-1106,kili1267-std,concepticon-1241,13.181,сакъаьдаьр,some,sak'a'da'r
+clics-doculect-145-1107,kili1267-std,concepticon-2023,13.19,ихер,"multitude, crowd",ikher
+clics-doculect-145-1108,kili1267-std,concepticon-1429,13.21,бичІи,full,bichIi
+clics-doculect-145-1109,kili1267-std,concepticon-1429,13.21,цІи,full,tsIi
+clics-doculect-145-1110,kili1267-std,concepticon-1624,13.22,бош,empty,bosh
+clics-doculect-145-1111,kili1267-std,concepticon-1624,13.22,фичІаь,empty,fichIa'
+clics-doculect-145-1112,kili1267-std,concepticon-779,13.23,кІор,"part, piece",kIor
+clics-doculect-145-1113,kili1267-std,concepticon-779,13.23,тиккаь,"part, piece",tikka'
+clics-doculect-145-1114,kili1267-std,concepticon-779,13.23,бадагъ,"part, piece",badag'
+clics-doculect-145-1115,kili1267-std,concepticon-816,13.24,бош,half,bosh
+clics-doculect-145-1116,kili1267-std,concepticon-816,13.24,фичІаь,half,fichIa'
+clics-doculect-145-1117,kili1267-std,concepticon-816,13.24,йары,half,iary
+clics-doculect-145-1118,kili1267-std,concepticon-1580,13.33,са,"alone, only",sa
+clics-doculect-145-1119,kili1267-std,concepticon-1580,13.33,чинаь,"alone, only",china'
+clics-doculect-145-1120,kili1267-std,concepticon-728,13.34,биринджи,first,birindzhi
+clics-doculect-145-1121,kili1267-std,concepticon-1529,13.35,ахырымджи,last,akhyrymdzhi
+clics-doculect-145-1122,kili1267-std,concepticon-1384,13.36,икинджи,second,ikindzhi
+clics-doculect-145-1123,kili1267-std,concepticon-1888,13.37,бабы,pair,baby
+clics-doculect-145-1124,kili1267-std,concepticon-1888,13.37,къуша,pair,k'usha
+clics-doculect-145-1125,kili1267-std,concepticon-1888,13.37,те,pair,te
+clics-doculect-145-1126,kili1267-std,concepticon-1888,13.37,чут,pair,chut
+clics-doculect-145-1127,kili1267-std,concepticon-1546,13.38,кІусаьфаьр,two times,kIusa'fa'r
+clics-doculect-145-1128,kili1267-std,concepticon-1859,13.42,уьчуьнджи,third,u'chu'ndzhi
+clics-doculect-145-1129,kili1267-std,concepticon-417,13.44,пшосаьфаьр,three times,pshosa'fa'r
+clics-doculect-145-1130,kili1267-std,concepticon-892,14.11,ара,time,ara
+clics-doculect-145-1131,kili1267-std,concepticon-892,14.11,вахт,time,vakht
+clics-doculect-145-1132,kili1267-std,concepticon-892,14.11,замана,time,zamana
+clics-doculect-145-1133,kili1267-std,concepticon-1789,14.12,замана,age,zamana
+clics-doculect-145-1134,kili1267-std,concepticon-1231,14.13,таза,new,taza
+clics-doculect-145-1135,kili1267-std,concepticon-1207,14.14,джаьгьил,young,dzha'g'il
+clics-doculect-145-1136,kili1267-std,concepticon-1207,14.14,ккарппа,young,kkarppa
+clics-doculect-145-1137,kili1267-std,concepticon-1229,14.15,анаж,old,anazh
+clics-doculect-145-1138,kili1267-std,concepticon-1229,14.15,инхъер,old,inkh'er
+clics-doculect-145-1139,kili1267-std,concepticon-672,14.16,дах,early,dakh
+clics-doculect-145-1140,kili1267-std,concepticon-672,14.16,чохттан,early,chokhttan
+clics-doculect-145-1141,kili1267-std,concepticon-672,14.16,эртаь,early,erta'
+clics-doculect-145-1142,kili1267-std,concepticon-477,14.17,джер,late,dzher
+clics-doculect-145-1143,kili1267-std,concepticon-1376,14.18,саьгІаьлаьтир,now,sa'gIa'la'tir
+clics-doculect-145-1144,kili1267-std,concepticon-1963,14.19,гьаьсаьгІаьлаьтир,immediately,g'a'sa'gIa'la'tir
+clics-doculect-145-1145,kili1267-std,concepticon-1631,14.21,дах,"swift, fast, quick",dakh
+clics-doculect-145-1146,kili1267-std,concepticon-1631,14.21,йегин,"swift, fast, quick",iegin
+clics-doculect-145-1147,kili1267-std,concepticon-1631,14.21,суьръаьтли,"swift, fast, quick",su'r'a'tli
+clics-doculect-145-1148,kili1267-std,concepticon-701,14.22,астта,slow,astta
+clics-doculect-145-1149,kili1267-std,concepticon-701,14.22,йаваш,slow,iavash
+clics-doculect-145-1150,kili1267-std,concepticon-754,14.23,таьлаьсмишккуи,"hasten, hurry",ta'la'smishkkui
+clics-doculect-145-1151,kili1267-std,concepticon-425,14.24,гаьджаькмишкири,"retard, delay",ga'dzha'kmishkiri
+clics-doculect-145-1152,kili1267-std,concepticon-1806,14.25,ччахшири,"begin, beginning",chchakhshiri
+clics-doculect-145-1153,kili1267-std,concepticon-1806,14.25,башттамышкири,"begin, beginning",bashttamyshkiri
+clics-doculect-145-1154,kili1267-std,concepticon-1186,14.252,давамккуи,"last, endure",davamkkui
+clics-doculect-145-1155,kili1267-std,concepticon-743,14.26,йабкири,end (temporal),iabkiri
+clics-doculect-145-1156,kili1267-std,concepticon-1766,14.27,йабкири,finish,iabkiri
+clics-doculect-145-1157,kili1267-std,concepticon-1928,14.28,ттахкири,"cease, stop",ttakhkiri
+clics-doculect-145-1158,kili1267-std,concepticon-790,14.29,хІазыр,ready,khIazyr
+clics-doculect-145-1159,kili1267-std,concepticon-1676,14.31,гьаьрттага,always,g'a'rttaga
+clics-doculect-145-1160,kili1267-std,concepticon-1676,14.31,даим,always,daim
+clics-doculect-145-1161,kili1267-std,concepticon-1852,14.32,дахдах,often,dakhdakh
+clics-doculect-145-1162,kili1267-std,concepticon-1852,14.32,каьранкаьран,often,ka'ranka'ran
+clics-doculect-145-1163,kili1267-std,concepticon-1544,14.33,арабир,sometimes,arabir
+clics-doculect-145-1164,kili1267-std,concepticon-1544,14.33,гаьгьгаьгь,sometimes,ga'g'ga'g'
+clics-doculect-145-1165,kili1267-std,concepticon-703,14.331,эрта,soon,erta
+clics-doculect-145-1166,kili1267-std,concepticon-418,14.332,хІуьмуьрлугъ,long-time (for a),khIu'mu'rlug'
+clics-doculect-145-1167,kili1267-std,concepticon-1656,14.34,гьечттага,never,g'echttaga
+clics-doculect-145-1168,kili1267-std,concepticon-204,14.35,гена,again,gena
+clics-doculect-145-1169,kili1267-std,concepticon-204,14.35,къабагъыр,again,k'abag'yr
+clics-doculect-145-1170,kili1267-std,concepticon-204,14.35,син,again,sin
+clics-doculect-145-1171,kili1267-std,concepticon-1225,14.41,кьаь,day,k'a'
+clics-doculect-145-1172,kili1267-std,concepticon-1233,14.42,сан,night,san
+clics-doculect-145-1173,kili1267-std,concepticon-729,14.43,чшаь,dawn,chsha'
+clics-doculect-145-1174,kili1267-std,concepticon-1339,14.44,аьсттига,morning,a'sttiga
+clics-doculect-145-1175,kili1267-std,concepticon-12,14.45,чІусхункІун,"noon, midday",chIuskhunkIun
+clics-doculect-145-1176,kili1267-std,concepticon-1629,14.46,микІилга,evening,mikIilga
+clics-doculect-145-1177,kili1267-std,concepticon-1283,14.47,кирагъ,today,kirag'
+clics-doculect-145-1178,kili1267-std,concepticon-1329,14.48,пага,tomorrow,paga
+clics-doculect-145-1179,kili1267-std,concepticon-1329,14.48,ппогочу,tomorrow,ppogochu
+clics-doculect-145-1180,kili1267-std,concepticon-1179,14.481,сарых,day-after-tomorrow,sarykh
+clics-doculect-145-1181,kili1267-std,concepticon-1174,14.49,лагъын,yesterday,lag'yn
+clics-doculect-145-1182,kili1267-std,concepticon-1180,14.491,лукьосхын,day-before-yesterday,luk'oskhyn
+clics-doculect-145-1183,kili1267-std,concepticon-1353,14.51,саьгІаьт,hour,sa'gIa't
+clics-doculect-145-1184,kili1267-std,concepticon-1323,14.53,саьгІаьт,"clock, timepiece",sa'gIa't
+clics-doculect-145-1185,kili1267-std,concepticon-1469,14.61,гьаьфттаь,week,g'a'ftta'
+clics-doculect-145-1186,kili1267-std,concepticon-1469,14.61,кІыныгъ,week,kIynyg'
+clics-doculect-145-1187,kili1267-std,concepticon-1699,14.62,базар,Sunday,bazar
+clics-doculect-145-1188,kili1267-std,concepticon-1699,14.62,зули,Sunday,zuli
+clics-doculect-145-1189,kili1267-std,concepticon-1697,14.63,каьхкьаь,Monday,ka'khk'a'
+clics-doculect-145-1190,kili1267-std,concepticon-1695,14.64,кІувшкаьхкьаь,Tuesday,kIuvshka'khk'a'
+clics-doculect-145-1191,kili1267-std,concepticon-1694,14.65,гІарба,Wednesday,gIarba
+clics-doculect-145-1192,kili1267-std,concepticon-1693,14.66,инаьлксан,Thursday,ina'lksan
+clics-doculect-145-1193,kili1267-std,concepticon-1692,14.67,инадкьаь,Friday,inadk'a'
+clics-doculect-145-1194,kili1267-std,concepticon-1700,14.68,чІинди,Saturday,chIindi
+clics-doculect-145-1195,kili1267-std,concepticon-1370,14.71,вацІ,month,vatsI
+clics-doculect-145-1196,kili1267-std,concepticon-1226,14.73,уьс,year,u's
+clics-doculect-145-1197,kili1267-std,concepticon-1471,14.74,кІинаж,winter,kIinazh
+clics-doculect-145-1198,kili1267-std,concepticon-1537,14.75,ччоз,spring,chchoz
+clics-doculect-145-1199,kili1267-std,concepticon-1342,14.76,мих,summer,mikh
+clics-doculect-145-1200,kili1267-std,concepticon-1276,14.77,цуваж,autumn,tsuvazh
+clics-doculect-145-1201,kili1267-std,concepticon-691,14.78,ара,season,ara
+clics-doculect-145-1202,kili1267-std,concepticon-691,14.78,вахт,season,vakht
+clics-doculect-145-1203,kili1267-std,concepticon-691,14.78,замана,season,zamana
+clics-doculect-145-1204,kili1267-std,concepticon-1587,15.21,улакакуи,smell (vb intrans),ulakakui
+clics-doculect-145-1205,kili1267-std,concepticon-375,15.212,наьхкири,sniff,na'khkiri
+clics-doculect-145-1206,kili1267-std,concepticon-1586,15.22,наьхкири,smell (vb trans),na'khkiri
+clics-doculect-145-1207,kili1267-std,concepticon-376,15.25,ксанула,"fragrant, good smelling",ksanula
+clics-doculect-145-1208,kili1267-std,concepticon-42,15.26,чІирула,"stinking, bad smelling",chIirula
+clics-doculect-145-1209,kili1267-std,concepticon-21,15.31,дад,taste,dad
+clics-doculect-145-1210,kili1267-std,concepticon-717,15.35,цІин,sweet,tsIin
+clics-doculect-145-1211,kili1267-std,concepticon-1091,15.36,кьилез,salty,k'ilez
+clics-doculect-145-1212,kili1267-std,concepticon-887,15.37,ажи,bitter,azhi
+clics-doculect-145-1213,kili1267-std,concepticon-887,15.37,кьал,bitter,k'al
+clics-doculect-145-1214,kili1267-std,concepticon-1906,15.38,мицІ,"acid, sour",mitsI
+clics-doculect-145-1215,kili1267-std,concepticon-70,15.39,кьилез,brackish,k'ilez
+clics-doculect-145-1216,kili1267-std,concepticon-1408,15.41,кли,hear,kli
+clics-doculect-145-1217,kili1267-std,concepticon-1608,15.42,кли,listen,kli
+clics-doculect-145-1218,kili1267-std,concepticon-1811,15.44,сас,"sound, noise",sas
+clics-doculect-145-1219,kili1267-std,concepticon-377,15.45,хъазы,loud,kh'azy
+clics-doculect-145-1220,kili1267-std,concepticon-1314,15.46,ислаьхІ,"quiet, silence",isla'khI
+clics-doculect-145-1221,kili1267-std,concepticon-1409,15.51,дахи,see,dakhi
+clics-doculect-145-1222,kili1267-std,concepticon-1409,15.51,загъи,see,zag'i
+clics-doculect-145-1223,kili1267-std,concepticon-1819,15.52,лаькІишири,"look, look at",la'kIishiri
+clics-doculect-145-1224,kili1267-std,concepticon-1039,15.55,цацыхкири,show,tsatsykhkiri
+clics-doculect-145-1225,kili1267-std,concepticon-708,15.56,чшаькири,shine,chsha'kiri
+clics-doculect-145-1226,kili1267-std,concepticon-679,15.57,парлакъ,bright,parlak'
+clics-doculect-145-1227,kili1267-std,concepticon-1613,15.61,ранг,color,rang
+clics-doculect-145-1228,kili1267-std,concepticon-250,15.62,ачыгъ,light (in color),achyg'
+clics-doculect-145-1229,kili1267-std,concepticon-250,15.62,шогълы,light (in color),shog'ly
+clics-doculect-145-1230,kili1267-std,concepticon-706,15.63,мичІаь,dark (in color),michIa'
+clics-doculect-145-1231,kili1267-std,concepticon-1335,15.64,хьырыцІ,white,kh'yrytsI
+clics-doculect-145-1232,kili1267-std,concepticon-163,15.65,мичІаь,black,michIa'
+clics-doculect-145-1233,kili1267-std,concepticon-156,15.66,ал,red,al
+clics-doculect-145-1234,kili1267-std,concepticon-156,15.66,ццыма,red,tstsyma
+clics-doculect-145-1235,kili1267-std,concepticon-837,15.67,цІарцІар,blue,tsIartsIar
+clics-doculect-145-1236,kili1267-std,concepticon-1425,15.68,гог,green,gog
+clics-doculect-145-1237,kili1267-std,concepticon-1425,15.68,сыб,green,syb
+clics-doculect-145-1238,kili1267-std,concepticon-1424,15.69,кІушкІула,yellow,kIushkIula
+clics-doculect-145-1239,kili1267-std,concepticon-1892,15.71,хаьлкьири,touch,kha'lk'iri
+clics-doculect-145-1240,kili1267-std,concepticon-378,15.712,къалттырпыри,pinch,k'alttyrpyri
+clics-doculect-145-1241,kili1267-std,concepticon-378,15.712,къилпири,pinch,k'ilpiri
+clics-doculect-145-1242,kili1267-std,concepticon-1079,15.72,гьисскири,feel,g'isskiri
+clics-doculect-145-1243,kili1267-std,concepticon-1884,15.74,кІаьвви,hard,kIa'vvi
+clics-doculect-145-1244,kili1267-std,concepticon-1856,15.75,йимшагъ,soft,iimshag'
+clics-doculect-145-1245,kili1267-std,concepticon-1923,15.76,кубут,rough,kubut
+clics-doculect-145-1246,kili1267-std,concepticon-1923,15.76,къатангъаз,rough,k'atang'az
+clics-doculect-145-1247,kili1267-std,concepticon-1923,15.76,сар,rough,sar
+clics-doculect-145-1248,kili1267-std,concepticon-1234,15.77,гьамавар,smooth,g'amavar
+clics-doculect-145-1249,kili1267-std,concepticon-1234,15.77,никІаьз,smooth,nikIa'z
+clics-doculect-145-1250,kili1267-std,concepticon-1396,15.78,инкІе,sharp,inkIe
+clics-doculect-145-1251,kili1267-std,concepticon-379,15.79,кубут,"blunt, dull",kubut
+clics-doculect-145-1252,kili1267-std,concepticon-379,15.79,кут,"blunt, dull",kut
+clics-doculect-145-1253,kili1267-std,concepticon-1210,15.81,гран,heavy,gran
+clics-doculect-145-1254,kili1267-std,concepticon-1052,15.82,асант,light (in weight),asant
+clics-doculect-145-1255,kili1267-std,concepticon-1052,15.82,йонгул,light (in weight),iongul
+clics-doculect-145-1256,kili1267-std,concepticon-1726,15.83,фичІаь,"wet, damp",fichIa'
+clics-doculect-145-1257,kili1267-std,concepticon-1398,15.84,къурагъ,dry,k'urag'
+clics-doculect-145-1258,kili1267-std,concepticon-1398,15.84,кьи,dry,k'i
+clics-doculect-145-1259,kili1267-std,concepticon-1286,15.85,къызгъын,hot,k'yzg'yn
+clics-doculect-145-1260,kili1267-std,concepticon-1286,15.85,маха,hot,makha
+clics-doculect-145-1261,kili1267-std,concepticon-1232,15.851,фарафара,warm,farafara
+clics-doculect-145-1262,kili1267-std,concepticon-1232,15.851,илигъ,warm,ilig'
+clics-doculect-145-1263,kili1267-std,concepticon-1287,15.86,къи,cold,k'i
+clics-doculect-145-1264,kili1267-std,concepticon-704,15.87,пак,clean,pak
+clics-doculect-145-1265,kili1267-std,concepticon-704,15.87,саф,clean,saf
+clics-doculect-145-1266,kili1267-std,concepticon-704,15.87,таьмиз,clean,ta'miz
+clics-doculect-145-1267,kili1267-std,concepticon-1230,15.88,кфир,"dirty, soiled",kfir
+clics-doculect-145-1268,kili1267-std,concepticon-1230,15.88,мырдар,"dirty, soiled",myrdar
+clics-doculect-145-1269,kili1267-std,concepticon-1230,15.88,чиркин,"dirty, soiled",chirkin
+clics-doculect-145-1270,kili1267-std,concepticon-380,15.89,чІыггыи,wrinkled,chIyggyi
+clics-doculect-145-1271,kili1267-std,concepticon-53,16.11,джан,"soul, spirit",dzhan
+clics-doculect-145-1272,kili1267-std,concepticon-1572,16.15,маьхІттаьл,"surprised, astonished",ma'khItta'l
+clics-doculect-145-1273,kili1267-std,concepticon-720,16.18,чІилаккувал,"good fortune, luck",chIilakkuval
+clics-doculect-145-1274,kili1267-std,concepticon-1495,16.23,бахтлы,"joyful, glad, happy",bakhtly
+clics-doculect-145-1275,kili1267-std,concepticon-1495,16.23,хашбахт,"joyful, glad, happy",khashbakht
+clics-doculect-145-1276,kili1267-std,concepticon-1355,16.25,хаькиндаь,laugh,kha'kinda'
+clics-doculect-145-1277,kili1267-std,concepticon-1451,16.251,хаькиндаь,smile,kha'kinda'
+clics-doculect-145-1278,kili1267-std,concepticon-1413,16.26,йаьхъири,play,ia'kh'iri
+clics-doculect-145-1279,kili1267-std,concepticon-1413,16.26,заьхкири,play,za'khkiri
+clics-doculect-145-1280,kili1267-std,concepticon-1413,16.26,хъили,play,kh'ili
+clics-doculect-145-1281,kili1267-std,concepticon-923,16.27,йиккуи,love,iikkui
+clics-doculect-145-1282,kili1267-std,concepticon-923,16.27,рижиккуи,love,rizhikkui
+clics-doculect-145-1283,kili1267-std,concepticon-578,16.29,пІакири,kiss,pIakiri
+clics-doculect-145-1284,kili1267-std,concepticon-928,16.3,къуджагъламышкири,embrace,k'udzhag'lamyshkiri
+clics-doculect-145-1285,kili1267-std,concepticon-1783,16.31,агъры,pain,ag'ry
+clics-doculect-145-1286,kili1267-std,concepticon-1668,16.32,даьрдихІал,"grief, sorrow, sadness",da'rdikhIal
+clics-doculect-145-1287,kili1267-std,concepticon-1000,16.33,къайгъу,"anxiety, worry",k'aig'u
+clics-doculect-145-1288,kili1267-std,concepticon-1875,16.34,хІаьйифккуи,"regret, be sorry",khIa'iifkkui
+clics-doculect-145-1289,kili1267-std,concepticon-1141,16.35,хІаьйифккувал,pity,khIa'iifkkuval
+clics-doculect-145-1290,kili1267-std,concepticon-1839,16.37,тІаьни,"cry, weep",tIa'ni
+clics-doculect-145-1291,kili1267-std,concepticon-1651,16.38,канттыржи,tear (noun),kanttyrzhi
+clics-doculect-145-1292,kili1267-std,concepticon-716,16.39,гІазакири,groan,gIazakiri
+clics-doculect-145-1293,kili1267-std,concepticon-1607,16.41,нифраьткири,hate,nifra'tkiri
+clics-doculect-145-1294,kili1267-std,concepticon-82,16.42,аджыгъ,anger,adzhyg'
+clics-doculect-145-1295,kili1267-std,concepticon-82,16.42,даьрд,anger,da'rd
+clics-doculect-145-1296,kili1267-std,concepticon-82,16.42,хъол,anger,kh'ol
+clics-doculect-145-1297,kili1267-std,concepticon-40,16.44,паьхилвал,"envy, jealousy",pa'khilval
+clics-doculect-145-1298,kili1267-std,concepticon-1776,16.45,уьре,shame (noun),u're
+clics-doculect-145-1299,kili1267-std,concepticon-1776,16.45,хІаьйа,shame (noun),khIa'ia
+clics-doculect-145-1300,kili1267-std,concepticon-174,16.48,фаьхирли,proud,fa'khirli
+clics-doculect-145-1301,kili1267-std,concepticon-174,16.48,ло̄гъа,proud,log'a
+clics-doculect-145-1302,kili1267-std,concepticon-174,16.48,такабыр,proud,takabyr
+clics-doculect-145-1303,kili1267-std,concepticon-1779,16.51,къочагъ,dare,k'ochag'
+clics-doculect-145-1304,kili1267-std,concepticon-3,16.52,джуьратти,brave,dzhu'ratti
+clics-doculect-145-1305,kili1267-std,concepticon-3,16.52,къорхмаз,brave,k'orkhmaz
+clics-doculect-145-1306,kili1267-std,concepticon-781,16.53,ынхъ,"fear, fright",ynkh'
+clics-doculect-145-1307,kili1267-std,concepticon-1810,16.54,хата,danger,khata
+clics-doculect-145-1308,kili1267-std,concepticon-1784,16.62,йуквал,"desire, want",iukval
+clics-doculect-145-1309,kili1267-std,concepticon-1784,16.62,мурад,"desire, want",murad
+clics-doculect-145-1310,kili1267-std,concepticon-1750,16.622,шихъири,choose,shikh'iri
+clics-doculect-145-1311,kili1267-std,concepticon-1092,16.63,уьмуьдкири,hope,u'mu'dkiri
+clics-doculect-145-1312,kili1267-std,concepticon-100,16.65,уьмуьдтти,faithful,u'mu'dtti
+clics-doculect-145-1313,kili1267-std,concepticon-1657,16.66,ха̄лыс,true,khalys
+clics-doculect-145-1314,kili1267-std,concepticon-601,16.67,дабкири,"lie, tell lies",dabkiri
+clics-doculect-145-1315,kili1267-std,concepticon-13,16.68,дабкири,deceit,dabkiri
+clics-doculect-145-1316,kili1267-std,concepticon-1528,16.69,бахышттамышкири,forgive,bakhyshttamyshkiri
+clics-doculect-145-1317,kili1267-std,concepticon-1035,16.71,ксан,good,ksan
+clics-doculect-145-1318,kili1267-std,concepticon-1292,16.72,баьд,bad,ba'd
+clics-doculect-145-1319,kili1267-std,concepticon-1292,16.72,чІир,bad,chIir
+clics-doculect-145-1320,kili1267-std,concepticon-1725,16.73,дуьз,"right, correct",du'z
+clics-doculect-145-1321,kili1267-std,concepticon-1390,16.74,чІир,wrong,chIir
+clics-doculect-145-1322,kili1267-std,concepticon-134,16.76,хІаьмаьл,fault,khIa'ma'l
+clics-doculect-145-1323,kili1267-std,concepticon-1293,16.77,гъаьлаьт,"mistake, error",g'a'la't
+clics-doculect-145-1324,kili1267-std,concepticon-1687,16.79,таьгІрифкири,praise,ta'gIrifkiri
+clics-doculect-145-1325,kili1267-std,concepticon-1427,16.81,кьинир,beautiful,k'inir
+clics-doculect-145-1326,kili1267-std,concepticon-1548,16.82,эйбаьжаьр,ugly,eiba'zha'r
+clics-doculect-145-1327,kili1267-std,concepticon-2018,16.83,ажгоьз,greedy,azhgo'z
+clics-doculect-145-1328,kili1267-std,concepticon-2018,16.83,эзгъун,greedy,ezg'un
+clics-doculect-145-1329,kili1267-std,concepticon-2018,16.83,кІынн,greedy,kIynn
+clics-doculect-145-1330,kili1267-std,concepticon-1310,16.84,гьакьыллы,clever,g'ak'ylly
+clics-doculect-145-1331,kili1267-std,concepticon-1310,16.84,калаллы,clever,kalally
+clics-doculect-145-1332,kili1267-std,concepticon-1562,17.11,хІакьыл,mind,khIak'yl
+clics-doculect-145-1333,kili1267-std,concepticon-1415,17.13,фикиркири,think (= reflect),fikirkiri
+clics-doculect-145-1334,kili1267-std,concepticon-1513,17.14,фикиркири,think (= be of the opinion),fikirkiri
+clics-doculect-145-1335,kili1267-std,concepticon-1890,17.15,инамккуи,believe,inamkkui
+clics-doculect-145-1336,kili1267-std,concepticon-1536,17.16,башттаккуи,understand,bashttakkui
+clics-doculect-145-1337,kili1267-std,concepticon-1410,17.17,башттаккуи,know,bashttakkui
+clics-doculect-145-1338,kili1267-std,concepticon-1521,17.18,дийаьсаьн,seem,diia'sa'n
+clics-doculect-145-1339,kili1267-std,concepticon-1609,17.19,зигьин,"idea, notion",zig'in
+clics-doculect-145-1340,kili1267-std,concepticon-698,17.21,ариф,wise,arif
+clics-doculect-145-1341,kili1267-std,concepticon-698,17.21,камаллы,wise,kamally
+clics-doculect-145-1342,kili1267-std,concepticon-1518,17.22,ахмагъ,"foolish, stupid",akhmag'
+clics-doculect-145-1343,kili1267-std,concepticon-1899,17.23,ахмагъ,"insane, crazy",akhmag'
+clics-doculect-145-1344,kili1267-std,concepticon-504,17.24,ликІуьври,learn,likIu'vri
+clics-doculect-145-1345,kili1267-std,concepticon-1929,17.242,ттоьмпыхри,study,tto'mpykhri
+clics-doculect-145-1346,kili1267-std,concepticon-709,17.25,ттомпыхри,teach,ttompykhri
+clics-doculect-145-1347,kili1267-std,concepticon-753,17.26,сухтта,pupil,sukhtta
+clics-doculect-145-1348,kili1267-std,concepticon-753,17.26,таьлаьбаь,pupil,ta'la'ba'
+clics-doculect-145-1349,kili1267-std,concepticon-1038,17.27,маьгІлим,teacher,ma'gIlim
+clics-doculect-145-1350,kili1267-std,concepticon-673,17.28,маькттаьб,school,ma'ktta'b
+clics-doculect-145-1351,kili1267-std,concepticon-707,17.31,кІуллыкыри,remember,kIullykyri
+clics-doculect-145-1352,kili1267-std,concepticon-1523,17.32,ашкІыри,forget,ashkIyri
+clics-doculect-145-1353,kili1267-std,concepticon-989,17.34,ачыгъ,"clear, plain",achyg'
+clics-doculect-145-1354,kili1267-std,concepticon-989,17.34,таьмиз,"clear, plain",ta'miz
+clics-doculect-145-1355,kili1267-std,concepticon-1764,17.35,зигьинсуз,obscure,zig'insuz
+clics-doculect-145-1356,kili1267-std,concepticon-1121,17.36,сир,secret,sir
+clics-doculect-145-1357,kili1267-std,concepticon-509,17.37,инамышккуи,"sure, certain",inamyshkkui
+clics-doculect-145-1358,kili1267-std,concepticon-1626,17.38,башттакири,explain,bashttakiri
+clics-doculect-145-1359,kili1267-std,concepticon-1162,17.41,маькъсаьд,"intention, purpose",ma'k'sa'd
+clics-doculect-145-1360,kili1267-std,concepticon-1162,17.41,маьтлаьб,"intention, purpose",ma'tla'b
+clics-doculect-145-1361,kili1267-std,concepticon-860,17.42,вагьна,cause,vag'na
+clics-doculect-145-1362,kili1267-std,concepticon-860,17.42,саьбаьб,cause,sa'ba'b
+clics-doculect-145-1363,kili1267-std,concepticon-1308,17.43,шаьк,doubt,sha'k
+clics-doculect-145-1364,kili1267-std,concepticon-1841,17.44,шаьккири,suspect,sha'kkiri
+clics-doculect-145-1365,kili1267-std,concepticon-1902,17.441,хаинвалкири,betray,khainvalkiri
+clics-doculect-145-1366,kili1267-std,concepticon-643,17.45,лазымвал,"need, necessity",lazymval
+clics-doculect-145-1367,kili1267-std,concepticon-686,17.46,рахІаьт,easy,rakhIa't
+clics-doculect-145-1368,kili1267-std,concepticon-584,17.47,гран,difficult,gran
+clics-doculect-145-1369,kili1267-std,concepticon-584,17.47,чаьтин,difficult,cha'tin
+clics-doculect-145-1370,kili1267-std,concepticon-1812,17.48,чалышмышккувал,"try, attempt",chalyshmyshkkuval
+clics-doculect-145-1371,kili1267-std,concepticon-488,17.49,джуьраь,"way, manner",dzhu'ra'
+clics-doculect-145-1372,kili1267-std,concepticon-488,17.49,сайагъ,"way, manner",saiag'
+clics-doculect-145-1373,kili1267-std,concepticon-488,17.49,таьгьар,"way, manner",ta'g'ar
+clics-doculect-145-1374,kili1267-std,concepticon-1577,17.51,сам,and,sam
+clics-doculect-145-1375,kili1267-std,concepticon-1157,17.52,гьан,because,g'an
+clics-doculect-145-1376,kili1267-std,concepticon-1157,17.52,йа,because,ia
+clics-doculect-145-1377,kili1267-std,concepticon-1157,17.52,йаза,because,iaza
+clics-doculect-145-1378,kili1267-std,concepticon-1157,17.52,ки,because,ki
+clics-doculect-145-1379,kili1267-std,concepticon-1459,17.53,нагаьгь,if,naga'g'
+clics-doculect-145-1380,kili1267-std,concepticon-1014,17.54,вай,or,vai
+clics-doculect-145-1381,kili1267-std,concepticon-1268,17.55,баьлли,"yes, affirmative",ba'lli
+clics-doculect-145-1382,kili1267-std,concepticon-1269,17.56,аттимаь,"no, negative",attima'
+clics-doculect-145-1383,kili1267-std,concepticon-1269,17.56,ваъ,"no, negative",va'
+clics-doculect-145-1384,kili1267-std,concepticon-1269,17.56,вимаь,"no, negative",vima'
+clics-doculect-145-1385,kili1267-std,concepticon-1269,17.56,димаь,"no, negative",dima'
+clics-doculect-145-1386,kili1267-std,concepticon-1269,17.56,жимаь,"no, negative",zhima'
+clics-doculect-145-1387,kili1267-std,concepticon-1269,17.56,зимаь,"no, negative",zima'
+clics-doculect-145-1388,kili1267-std,concepticon-1239,17.61,гинаьги,how?,gina'gi
+clics-doculect-145-1389,kili1267-std,concepticon-1239,17.61,кьидан,how?,k'idan
+clics-doculect-145-1390,kili1267-std,concepticon-1239,17.61,гьаьржи,how?,g'a'rzhi
+clics-doculect-145-1391,kili1267-std,concepticon-1239,17.61,гьарркла,how?,g'arrkla
+clics-doculect-145-1392,kili1267-std,concepticon-1239,17.61,гьаьрттаь,how?,g'a'rtta'
+clics-doculect-145-1393,kili1267-std,concepticon-822,17.62,джидон,how many?,dzhidon
+clics-doculect-145-1394,kili1267-std,concepticon-822,17.62,занужи,how many?,zanuzhi
+clics-doculect-145-1395,kili1267-std,concepticon-822,17.62,зуттон,how many?,zutton
+clics-doculect-145-1396,kili1267-std,concepticon-822,17.62,сам,how many?,sam
+clics-doculect-145-1397,kili1267-std,concepticon-531,17.63,ччиттон,how much?,chchitton
+clics-doculect-145-1398,kili1267-std,concepticon-1236,17.64,гьан,what?,g'an
+clics-doculect-145-1399,kili1267-std,concepticon-1236,17.64,йа,what?,ia
+clics-doculect-145-1400,kili1267-std,concepticon-1236,17.64,йаза,what?,iaza
+clics-doculect-145-1401,kili1267-std,concepticon-1236,17.64,ки,what?,ki
+clics-doculect-145-1402,kili1267-std,concepticon-1238,17.65,мыс,when?,mys
+clics-doculect-145-1403,kili1267-std,concepticon-1238,17.65,ттага,when?,ttaga
+clics-doculect-145-1404,kili1267-std,concepticon-1237,17.66,ттел,where?,ttel
+clics-doculect-145-1405,kili1267-std,concepticon-727,17.67,йа,which?,ia
+clics-doculect-145-1406,kili1267-std,concepticon-727,17.67,ттадаь,which?,ttada'
+clics-doculect-145-1407,kili1267-std,concepticon-727,17.67,ттаду,which?,ttadu
+clics-doculect-145-1408,kili1267-std,concepticon-1235,17.68,кла,who?,kla
+clics-doculect-145-1409,kili1267-std,concepticon-1270,17.69,ччимаь,why?,chchima'
+clics-doculect-145-1410,kili1267-std,concepticon-1270,17.69,чина,why?,china
+clics-doculect-145-1411,kili1267-std,concepticon-1363,18.11,сас,voice,sas
+clics-doculect-145-1412,kili1267-std,concepticon-1261,18.12,ликІуьври,sing,likIu'vri
+clics-doculect-145-1413,kili1267-std,concepticon-715,18.13,цІаркири,"shout, cry out",tsIarkiri
+clics-doculect-145-1414,kili1267-std,concepticon-55,18.15,пччылдамышккуи,whisper,pchchyldamyshkkui
+clics-doculect-145-1415,kili1267-std,concepticon-128,18.16,чІири,mumble,chIiri
+clics-doculect-145-1416,kili1267-std,concepticon-128,18.16,гьекІыри,mumble,g'ekIyri
+clics-doculect-145-1417,kili1267-std,concepticon-1025,18.17,фиткири,whistle,fitkiri
+clics-doculect-145-1418,kili1267-std,concepticon-298,18.18,цІаркири,"shriek, screech",tsIarkiri
+clics-doculect-145-1419,kili1267-std,concepticon-526,18.19,увулдамышкьи,howl,uvuldamyshk'i
+clics-doculect-145-1420,kili1267-std,concepticon-1623,18.21,чыкІыри,"speak, talk",chykIyri
+clics-doculect-145-1421,kili1267-std,concepticon-1866,18.211,аьхилхъиндаь,"stutter, stammer",a'khilkh'inda'
+clics-doculect-145-1422,kili1267-std,concepticon-1458,18.22,чІири,say,chIiri
+clics-doculect-145-1423,kili1267-std,concepticon-1711,18.221,чІири,tell story,chIiri
+clics-doculect-145-1424,kili1267-std,concepticon-1711,18.221,чыкІыри,tell story,chykIyri
+clics-doculect-145-1425,kili1267-std,concepticon-1115,18.222,чыкІыри,speech (make a),chykIyri
+clics-doculect-145-1426,kili1267-std,concepticon-48,18.23,сасахкири,silent (be),sasakhkiri
+clics-doculect-145-1427,kili1267-std,concepticon-1307,18.24,мицІ,language,mitsI
+clics-doculect-145-1428,kili1267-std,concepticon-1599,18.26,джугъаб,word,dzhug'ab
+clics-doculect-145-1429,kili1267-std,concepticon-1405,18.28,цІу,name,tsIu
+clics-doculect-145-1430,kili1267-std,concepticon-1309,18.31,шорциндаь,"ask (question, inquire)",shortsinda'
+clics-doculect-145-1431,kili1267-std,concepticon-1275,18.32,шорцындаь,answer,shortsynda'
+clics-doculect-145-1432,kili1267-std,concepticon-755,18.34,инкаркири,deny,inkarkiri
+clics-doculect-145-1433,kili1267-std,concepticon-1828,18.35,исттемишкири,"ask, request",isttemishkiri
+clics-doculect-145-1434,kili1267-std,concepticon-1828,18.35,хагьишкку,"ask, request",khag'ishkku
+clics-doculect-145-1435,kili1267-std,concepticon-1675,18.36,гылиттуври,promise,gylittuvri
+clics-doculect-145-1436,kili1267-std,concepticon-49,18.37,раьдкви,refuse,ra'dkvi
+clics-doculect-145-1437,kili1267-std,concepticon-83,18.38,къадагъакири,forbid,k'adag'akiri
+clics-doculect-145-1438,kili1267-std,concepticon-299,18.39,соьгуьшкири,"rebuke, scold",so'gu'shkiri
+clics-doculect-145-1439,kili1267-std,concepticon-1084,18.41,гьевеслендирмишкири,call (=summon),g'eveslendirmishkiri
+clics-doculect-145-1440,kili1267-std,concepticon-180,18.42,цІувилливаьхъири,call (=name),tsIuvilliva'kh'iri
+clics-doculect-145-1441,kili1267-std,concepticon-9,18.43,маьгІлуматлаькІири,announce,ma'gIlumatla'kIiri
+clics-doculect-145-1442,kili1267-std,concepticon-1192,18.44,килаьттаьмишкири,threaten,kila'tta'mishkiri
+clics-doculect-145-1443,kili1267-std,concepticon-101,18.45,кьокьвалкири,boast,k'ok'valkiri
+clics-doculect-145-1444,kili1267-std,concepticon-1672,18.51,сицІири,write,sitsIiri
+clics-doculect-145-1445,kili1267-std,concepticon-724,18.52,ликІуври,read,likIuvri
+clics-doculect-145-1446,kili1267-std,concepticon-648,18.56,къагъаз,paper,k'ag'az
+clics-doculect-145-1447,kili1267-std,concepticon-794,18.57,ручка,pen,ruchka
+clics-doculect-145-1448,kili1267-std,concepticon-963,18.61,кичеб,book,kicheb
+clics-doculect-145-1450,kili1267-std,concepticon-777,18.71,зурна,flute,zurna
+clics-doculect-145-1451,kili1267-std,concepticon-908,18.72,кьураб,drum,k'urab
+clics-doculect-145-1452,kili1267-std,concepticon-2136,18.73,дор,"horn, trumpet",dor
+clics-doculect-145-1453,kili1267-std,concepticon-2136,18.73,каранаьй,"horn, trumpet",karana'i
+clics-doculect-145-1454,kili1267-std,concepticon-1300,19.11,улка,country,ulka
+clics-doculect-145-1455,kili1267-std,concepticon-1300,19.11,вилайаьт,country,vilaia't
+clics-doculect-145-1456,kili1267-std,concepticon-89,19.12,догъмавилайаьт,one's native country,dog'mavilaia't
+clics-doculect-145-1457,kili1267-std,concepticon-1391,19.15,шаьгьаьр,"city, town",sha'g'a'r
+clics-doculect-145-1458,kili1267-std,concepticon-930,19.16,сва,village,sva
+clics-doculect-145-1459,kili1267-std,concepticon-1010,19.17,джаьспаьр,boundary,dzha'spa'r
+clics-doculect-145-1460,kili1267-std,concepticon-789,19.21,халкь,people (populace),khalk'
+clics-doculect-145-1461,kili1267-std,concepticon-302,19.23,тайфа,"tribe, clan",taifa
+clics-doculect-145-1462,kili1267-std,concepticon-301,19.24,лаьгьбаьр,"chief, chieftain",la'g'ba'r
+clics-doculect-145-1463,kili1267-std,concepticon-1296,19.25,хІаьсйа,"staff, walking stick",khIa'sia
+clics-doculect-145-1464,kili1267-std,concepticon-1296,19.25,чамак,"staff, walking stick",chamak
+clics-doculect-145-1465,kili1267-std,concepticon-1508,19.32,хидкьири,"king, ruler",khidk'iri
+clics-doculect-145-1466,kili1267-std,concepticon-482,19.36,къирйаьтти,"noble, nobleman",k'iria'tti
+clics-doculect-145-1467,kili1267-std,concepticon-1032,19.37,эгьли,"citizen, subject",eg'li
+clics-doculect-145-1468,kili1267-std,concepticon-383,19.41,замаси,master,zamasi
+clics-doculect-145-1469,kili1267-std,concepticon-383,19.41,саьгІби,master,sa'gIbi
+clics-doculect-145-1470,kili1267-std,concepticon-383,19.41,йеси,master,iesi
+clics-doculect-145-1471,kili1267-std,concepticon-812,19.42,баьндав,slave,ba'ndav
+clics-doculect-145-1472,kili1267-std,concepticon-812,19.42,къул,slave,k'ul
+clics-doculect-145-1473,kili1267-std,concepticon-255,19.43,къулогъчи,servant,k'ulog'chi
+clics-doculect-145-1474,kili1267-std,concepticon-384,19.44,азадхІаьдми,freeman,azadkhIa'dmi
+clics-doculect-145-1475,kili1267-std,concepticon-1128,19.45,буйурмушкири,"command, order",buiurmushkiri
+clics-doculect-145-1476,kili1267-std,concepticon-1635,19.46,муьтІуьхвалкири,obey,mu'tIu'khvalkiri
+clics-doculect-145-1477,kili1267-std,concepticon-1003,19.47,хІаьлкири,"let, permit",khIa'lkiri
+clics-doculect-145-1478,kili1267-std,concepticon-1325,19.51,дост,"friend, companion",dost
+clics-doculect-145-1479,kili1267-std,concepticon-1325,19.51,кІили,"friend, companion",kIili
+clics-doculect-145-1480,kili1267-std,concepticon-1358,19.52,дуьшман,enemy,du'shman
+clics-doculect-145-1481,kili1267-std,concepticon-1332,19.54,къоншы,neighbor,k'onshy
+clics-doculect-145-1482,kili1267-std,concepticon-791,19.55,баьлаьдсизхІаьдми,stranger,ba'la'dsizkhIa'dmi
+clics-doculect-145-1483,kili1267-std,concepticon-1782,19.56,кІийаь,guest,kIiia'
+clics-doculect-145-1484,kili1267-std,concepticon-1545,19.57,йеси,host,iesi
+clics-doculect-145-1485,kili1267-std,concepticon-1545,19.57,замаси,host,zamasi
+clics-doculect-145-1486,kili1267-std,concepticon-1545,19.57,саьгІби,host,sa'gIbi
+clics-doculect-145-1487,kili1267-std,concepticon-1897,19.58,куьмаьг,"help, aid",ku'ma'g
+clics-doculect-145-1488,kili1267-std,concepticon-1550,19.59,мане̄кири,"hinder, prevent",manekiri
+clics-doculect-145-1489,kili1267-std,concepticon-1747,19.61,даьб,custom,da'b
+clics-doculect-145-1490,kili1267-std,concepticon-1747,19.61,хІадаьт,custom,khIada't
+clics-doculect-145-1491,kili1267-std,concepticon-1848,19.62,басарабасар,"strife, quarrel",basarabasar
+clics-doculect-145-1492,kili1267-std,concepticon-1848,19.62,къалмагъал,"strife, quarrel",k'almag'al
+clics-doculect-145-1493,kili1267-std,concepticon-1831,19.65,горушмушккуи,meet,gorushmushkkui
+clics-doculect-145-1494,kili1267-std,concepticon-1831,19.65,къаршыламышккуи,meet,k'arshylamyshkkui
+clics-doculect-145-1495,kili1267-std,concepticon-1610,19.72,кьагьба,prostitute,k'ag'ba
+clics-doculect-145-1496,kili1267-std,concepticon-1423,20.11,вурмушкьи,fight (vb),vurmushk'i
+clics-doculect-145-1497,kili1267-std,concepticon-579,20.13,дагІва,"war, battle",dagIva
+clics-doculect-145-1498,kili1267-std,concepticon-1338,20.14,алем,peace,alem
+clics-doculect-145-1499,kili1267-std,concepticon-1338,20.14,джинаь,peace,dzhina'
+clics-doculect-145-1500,kili1267-std,concepticon-1561,20.15,эсккаьр,army,eskka'r
+clics-doculect-145-1501,kili1267-std,concepticon-1941,20.17,эсккаьр,soldier,eskka'r
+clics-doculect-145-1502,kili1267-std,concepticon-951,20.21,йарагъ,"weapons, arms",iarag'
+clics-doculect-145-1503,kili1267-std,concepticon-951,20.21,силагь,"weapons, arms",silag'
+clics-doculect-145-1504,kili1267-std,concepticon-1763,20.22,коттуг,club,kottug
+clics-doculect-145-1505,kili1267-std,concepticon-1763,20.22,таз,club,taz
+clics-doculect-145-1506,kili1267-std,concepticon-386,20.222,балта,battle-ax,balta
+clics-doculect-145-1507,kili1267-std,concepticon-386,20.222,наджагъ,battle-ax,nadzhag'
+clics-doculect-145-1508,kili1267-std,concepticon-387,20.23,сапанд,sling,sapand
+clics-doculect-145-1509,kili1267-std,concepticon-994,20.24,сапан,bow,sapan
+clics-doculect-145-1510,kili1267-std,concepticon-977,20.25,ох,arrow,okh
+clics-doculect-145-1511,kili1267-std,concepticon-945,20.26,джида,spear,dzhida
+clics-doculect-145-1512,kili1267-std,concepticon-1535,20.27,къилиндж,sword,k'ilindzh
+clics-doculect-145-1513,kili1267-std,concepticon-1566,20.28,топ,"gun, cannon",top
+clics-doculect-145-1514,kili1267-std,concepticon-1566,20.28,туьфаьнг,"gun, cannon",tu'fa'ng
+clics-doculect-145-1515,kili1267-std,concepticon-1061,20.31,алат,armor (defensive),alat
+clics-doculect-145-1516,kili1267-std,concepticon-1061,20.31,йарагъ,armor (defensive),iarag'
+clics-doculect-145-1517,kili1267-std,concepticon-1064,20.34,кьалхан,shield,k'alkhan
+clics-doculect-145-1518,kili1267-std,concepticon-1938,20.35,къала,fortress,k'ala
+clics-doculect-145-1519,kili1267-std,concepticon-1671,20.36,къала,tower,k'ala
+clics-doculect-145-1520,kili1267-std,concepticon-783,20.41,гъалибвал,victory,g'alibval
+clics-doculect-145-1521,kili1267-std,concepticon-782,20.42,маьгълувал,defeat,ma'g'luval
+clics-doculect-145-1522,kili1267-std,concepticon-722,20.43,хІуьджумкири,attack,khIu'dzhumkiri
+clics-doculect-145-1523,kili1267-std,concepticon-1072,20.47,йесир,"captive, prisoner",iesir
+clics-doculect-145-1524,kili1267-std,concepticon-1940,20.471,хъаравул,"guard, sentinel",kh'aravul
+clics-doculect-145-1525,kili1267-std,concepticon-1022,20.48,давла,"booty, spoils",davla
+clics-doculect-145-1526,kili1267-std,concepticon-65,20.49,далда,ambush,dalda
+clics-doculect-145-1527,kili1267-std,concepticon-1858,20.51,балыгъчи,fisherman,balyg'chi
+clics-doculect-145-1528,kili1267-std,concepticon-1074,20.52,къармагъ,fishhook,k'armag'
+clics-doculect-145-1529,kili1267-std,concepticon-19,20.53,машад,fishing line,mashad
+clics-doculect-145-1530,kili1267-std,concepticon-388,20.54,тор,fishnet,tor
+clics-doculect-145-1531,kili1267-std,concepticon-1435,20.61,овиккуи,hunt,ovikkui
+clics-doculect-145-1532,kili1267-std,concepticon-1172,20.62,бижуври,shoot,bizhuvri
+clics-doculect-145-1533,kili1267-std,concepticon-1075,20.64,эд,trap (noun),ed
+clics-doculect-145-1534,kili1267-std,concepticon-1170,20.65,чІихьири,trap (vb),chIikh'iri
+clics-doculect-145-1535,kili1267-std,concepticon-1062,21.11,къанун,law,k'anun
+clics-doculect-145-1536,kili1267-std,concepticon-1062,21.11,закун,law,zakun
+clics-doculect-145-1537,kili1267-std,concepticon-1068,21.15,дыван,court,dyvan
+clics-doculect-145-1538,kili1267-std,concepticon-1818,21.16,дыванкири,judge (vb),dyvankiri
+clics-doculect-145-1539,kili1267-std,concepticon-1067,21.17,къаьрар,judgment,k'a'rar
+clics-doculect-145-1540,kili1267-std,concepticon-861,21.18,муьхІккаьмаь,judge (noun),mu'khIkka'ma'
+clics-doculect-145-1541,kili1267-std,concepticon-1034,21.22,джавадар,defendant,dzhavadar
+clics-doculect-145-1542,kili1267-std,concepticon-1144,21.23,шагьид,witness,shag'id
+clics-doculect-145-1543,kili1267-std,concepticon-1939,21.24,инччилкьандаь,swear,inchchilk'anda'
+clics-doculect-145-1544,kili1267-std,concepticon-1712,21.25,инччил,oath,inchchil
+clics-doculect-145-1545,kili1267-std,concepticon-1814,21.31,гунагькар,accuse,gunag'kar
+clics-doculect-145-1546,kili1267-std,concepticon-1814,21.31,таксыркар,accuse,taksyrkar
+clics-doculect-145-1547,kili1267-std,concepticon-484,21.32,далыгттаькьири,condemn,dalygtta'k'iri
+clics-doculect-145-1548,kili1267-std,concepticon-988,21.34,гьахъкири,acquit,g'akh'kiri
+clics-doculect-145-1549,kili1267-std,concepticon-1682,21.35,тахсырлы,guilty,takhsyrly
+clics-doculect-145-1550,kili1267-std,concepticon-90,21.36,тахсырсыз,innocent,takhsyrsyz
+clics-doculect-145-1551,kili1267-std,concepticon-390,21.37,джаза,"penalty, punishment",dzhaza
+clics-doculect-145-1552,kili1267-std,concepticon-218,21.38,джорма,fine,dzhorma
+clics-doculect-145-1553,kili1267-std,concepticon-1281,21.39,къазамат,"prison, jail",k'azamat
+clics-doculect-145-1554,kili1267-std,concepticon-845,21.42,йибири,murder,iibiri
+clics-doculect-145-1555,kili1267-std,concepticon-902,21.43,кьагьба,adultery,k'ag'ba
+clics-doculect-145-1556,kili1267-std,concepticon-953,21.44,зина,rape,zina
+clics-doculect-145-1557,kili1267-std,concepticon-1889,21.46,йаьккири,arson,ia'kkiri
+clics-doculect-145-1558,kili1267-std,concepticon-713,21.51,былакири,steal,bylakiri
+clics-doculect-145-1559,kili1267-std,concepticon-1160,21.52,была,thief,byla

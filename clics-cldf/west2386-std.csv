@@ -1,0 +1,1565 @@
+ID,Language_ID,Feature_ID,IDS_Key,Value,Concept,IPA_UDECODE
+clics-doculect-95-1,west2386-std,concepticon-965,1.1,jahāna,world,jahana
+clics-doculect-95-2,west2386-std,concepticon-965,1.1,duniyā,world,duniya
+clics-doculect-95-3,west2386-std,concepticon-626,1.21,jamīna,"earth, land",jamina
+clics-doculect-95-4,west2386-std,concepticon-626,1.21,dharatī,"earth, land",dharati
+clics-doculect-95-5,west2386-std,concepticon-626,1.21,bhūmī,"earth, land",bhumi
+clics-doculect-95-6,west2386-std,concepticon-1228,1.212,miṭī,"earth=ground, soil",miti
+clics-doculect-95-7,west2386-std,concepticon-2,1.213,miṭī,dust,miti
+clics-doculect-95-8,west2386-std,concepticon-2,1.213,khāka,dust,khaka
+clics-doculect-95-9,west2386-std,concepticon-640,1.214,miṭī,mud,miti
+clics-doculect-95-10,west2386-std,concepticon-640,1.214,chikaṛa,mud,chikara
+clics-doculect-95-11,west2386-std,concepticon-640,1.214,kicaṛa,mud,kicara
+clics-doculect-95-12,west2386-std,concepticon-671,1.215,rēta,sand,reta
+clics-doculect-95-13,west2386-std,concepticon-671,1.215,bālū,sand,balu
+clics-doculect-95-14,west2386-std,concepticon-2118,1.22,parabata,"mountain, hill",parabata
+clics-doculect-95-15,west2386-std,concepticon-2118,1.22,pahāṛa,"mountain, hill",pahara
+clics-doculect-95-16,west2386-std,concepticon-2118,1.22,pahāṛī,"mountain, hill",pahari
+clics-doculect-95-17,west2386-std,concepticon-618,1.222,caṭāna,"cliff, precipice",catana
+clics-doculect-95-18,west2386-std,concepticon-652,1.23,maidāna,"plain, field",maidana
+clics-doculect-95-19,west2386-std,concepticon-921,1.24,vādī,valley,vadi
+clics-doculect-95-20,west2386-std,concepticon-921,1.24,ghāṭī,valley,ghati
+clics-doculect-95-21,west2386-std,concepticon-622,1.25,dīpa,island,dipa
+clics-doculect-95-22,west2386-std,concepticon-622,1.25,ṭāpū,island,tapu
+clics-doculect-95-23,west2386-std,concepticon-113,1.27,kinārā,shore,kinara
+clics-doculect-95-24,west2386-std,concepticon-113,1.27,tīra,shore,tira
+clics-doculect-95-25,west2386-std,concepticon-1155,1.28,gufā,cave,gufa
+clics-doculect-95-26,west2386-std,concepticon-948,1.31,pāṇī,water,pani
+clics-doculect-95-27,west2386-std,concepticon-948,1.31,jala,water,jala
+clics-doculect-95-28,west2386-std,concepticon-1474,1.32,sāgara,sea,sagara
+clics-doculect-95-29,west2386-std,concepticon-1474,1.32,samudara,sea,samudara
+clics-doculect-95-30,west2386-std,concepticon-1474,1.32,samundara,sea,samundara
+clics-doculect-95-31,west2386-std,concepticon-258,1.322,sakūna,calm (of sea),sakuna
+clics-doculect-95-32,west2386-std,concepticon-259,1.323,rollā,rough (of sea),rolla
+clics-doculect-95-33,west2386-std,concepticon-1768,1.324,jhaga,foam,jhaga
+clics-doculect-95-34,west2386-std,concepticon-1768,1.324,caga,foam,caga
+clics-doculect-95-35,west2386-std,concepticon-645,1.329,mahāsāgara,ocean,mahasagara
+clics-doculect-95-36,west2386-std,concepticon-624,1.33,jhīla,lake,jhila
+clics-doculect-95-37,west2386-std,concepticon-624,1.33,nālā,lake,nala
+clics-doculect-95-38,west2386-std,concepticon-663,1.34,khāṛī,"gulf, bay",khari
+clics-doculect-95-39,west2386-std,concepticon-623,1.341,jhīla,lagoon,jhila
+clics-doculect-95-40,west2386-std,concepticon-978,1.35,lahara,wave,lahara
+clics-doculect-95-41,west2386-std,concepticon-666,1.36,nadī,"river, stream, brook",nadi
+clics-doculect-95-42,west2386-std,concepticon-666,1.36,dariā,"river, stream, brook",daria
+clics-doculect-95-43,west2386-std,concepticon-1982,1.362,bhavara,whirlpool,bhavara
+clics-doculect-95-44,west2386-std,concepticon-1982,1.362,cakarī,whirlpool,cakari
+clics-doculect-95-45,west2386-std,concepticon-2144,1.37,jharanā,"spring, well",jharana
+clics-doculect-95-46,west2386-std,concepticon-2144,1.37,khu,"spring, well",khu
+clics-doculect-95-47,west2386-std,concepticon-1145,1.38,daladala,swamp,daladala
+clics-doculect-95-48,west2386-std,concepticon-943,1.39,jharanā,waterfall,jharana
+clics-doculect-95-49,west2386-std,concepticon-943,1.39,caśmā,waterfall,casma
+clics-doculect-95-50,west2386-std,concepticon-420,1.41,vaṇa,"woods, forest",vana
+clics-doculect-95-51,west2386-std,concepticon-420,1.41,baṇa,"woods, forest",bana
+clics-doculect-95-52,west2386-std,concepticon-420,1.41,jaṅgal,"woods, forest",jangal
+clics-doculect-95-53,west2386-std,concepticon-1803,1.43,lakaṛī,wood,lakari
+clics-doculect-95-54,west2386-std,concepticon-2125,1.44,pathara,"stone, rock",pathara
+clics-doculect-95-55,west2386-std,concepticon-2125,1.44,vajara,"stone, rock",vajara
+clics-doculect-95-56,west2386-std,concepticon-2125,1.44,vaṭṭā,"stone, rock",vatta
+clics-doculect-95-57,west2386-std,concepticon-6,1.45,bhucāla,earthquake,bhucala
+clics-doculect-95-58,west2386-std,concepticon-6,1.45,pucāla,earthquake,pucala
+clics-doculect-95-59,west2386-std,concepticon-1732,1.51,asamāna,sky,asamana
+clics-doculect-95-60,west2386-std,concepticon-1732,1.51,ākāśa,sky,akasa
+clics-doculect-95-61,west2386-std,concepticon-1343,1.52,sūraja,sun,suraja
+clics-doculect-95-62,west2386-std,concepticon-1313,1.53,cana,moon,cana
+clics-doculect-95-63,west2386-std,concepticon-1313,1.53,candaramā,moon,candarama
+clics-doculect-95-64,west2386-std,concepticon-1430,1.54,tārā,star,tara
+clics-doculect-95-65,west2386-std,concepticon-1430,1.54,sitārā,star,sitara
+clics-doculect-95-66,west2386-std,concepticon-1654,1.55,bijalī,lightning,bijali
+clics-doculect-95-67,west2386-std,concepticon-1654,1.55,rośanī,lightning,rosani
+clics-doculect-95-68,west2386-std,concepticon-1150,1.56,gūnja,thunder,gunja
+clics-doculect-95-69,west2386-std,concepticon-858,1.58,tūfāna,storm,tufana
+clics-doculect-95-70,west2386-std,concepticon-858,1.58,neri,storm,neri
+clics-doculect-95-71,west2386-std,concepticon-1733,1.59,pīṅgha,rainbow,pingha
+clics-doculect-95-72,west2386-std,concepticon-630,1.61,parakāśa,light (noun),parakasa
+clics-doculect-95-73,west2386-std,concepticon-630,1.61,jōtī,light (noun),joti
+clics-doculect-95-74,west2386-std,concepticon-11,1.62,anhērī,darkness,anheri
+clics-doculect-95-75,west2386-std,concepticon-11,1.62,handherā,darkness,handhera
+clics-doculect-95-76,west2386-std,concepticon-11,1.62,nerā,darkness,nera
+clics-doculect-95-77,west2386-std,concepticon-1388,1.63,sāyā,"shade, shadow",saya
+clics-doculect-95-78,west2386-std,concepticon-1388,1.63,chāyiyā,"shade, shadow",chayiya
+clics-doculect-95-79,west2386-std,concepticon-1977,1.64,ōsa,dew,osa
+clics-doculect-95-80,west2386-std,concepticon-1977,1.64,trela,dew,trela
+clics-doculect-95-81,west2386-std,concepticon-27,1.71,havā,air,hava
+clics-doculect-95-82,west2386-std,concepticon-27,1.71,pavana,air,pavana
+clics-doculect-95-83,west2386-std,concepticon-960,1.72,havā,wind,hava
+clics-doculect-95-84,west2386-std,concepticon-1489,1.73,badala,cloud,badala
+clics-doculect-95-85,west2386-std,concepticon-249,1.74,tunda,fog,tunda
+clics-doculect-95-86,west2386-std,concepticon-249,1.74,dhunda,fog,dhunda
+clics-doculect-95-87,west2386-std,concepticon-658,1.75,varakhā,rain (noun),varakha
+clics-doculect-95-88,west2386-std,concepticon-658,1.75,bāraśa,rain (noun),barasa
+clics-doculect-95-89,west2386-std,concepticon-658,1.75,barasāta,rain (noun),barasata
+clics-doculect-95-90,west2386-std,concepticon-784,1.76,barafa,snow (noun),barafa
+clics-doculect-95-91,west2386-std,concepticon-617,1.77,barafa,ice,barafa
+clics-doculect-95-92,west2386-std,concepticon-952,1.78,mausama,weather,mausama
+clics-doculect-95-93,west2386-std,concepticon-221,1.81,aga,fire,aga
+clics-doculect-95-94,west2386-std,concepticon-221,1.81,javālā,fire,javala
+clics-doculect-95-95,west2386-std,concepticon-889,1.82,aga,flame (noun),aga
+clics-doculect-95-96,west2386-std,concepticon-889,1.82,javālā,flame (noun),javala
+clics-doculect-95-97,west2386-std,concepticon-889,1.82,bhambara,flame (noun),bhambara
+clics-doculect-95-98,west2386-std,concepticon-778,1.83,dhūāṁ,smoke (noun),dhuam
+clics-doculect-95-99,west2386-std,concepticon-646,1.84,bhasama,ashes,bhasama
+clics-doculect-95-100,west2386-std,concepticon-646,1.84,rakha,ashes,rakha
+clics-doculect-95-101,west2386-std,concepticon-646,1.84,sava,ashes,sava
+clics-doculect-95-102,west2386-std,concepticon-67,1.841,aṅgāre,embers,angare
+clics-doculect-95-103,west2386-std,concepticon-141,1.851,jalāṇā,burn (vb trans),jalana
+clics-doculect-95-104,west2386-std,concepticon-1428,1.852,jalaṇā,burn (vb intrans),jalana
+clics-doculect-95-105,west2386-std,concepticon-737,1.86,jalāṇā,"light, kindle, ignite",jalana
+clics-doculect-95-106,west2386-std,concepticon-127,1.861,bhujānā,extinguish,bhujana
+clics-doculect-95-107,west2386-std,concepticon-1133,1.87,mācisa,match (noun),macisa
+clics-doculect-95-108,west2386-std,concepticon-10,1.88,lakaṛī,firewood,lakari
+clics-doculect-95-109,west2386-std,concepticon-10,1.88,lakaṛa,firewood,lakara
+clics-doculect-95-110,west2386-std,concepticon-683,2.1,bandā,"person, human being",banda
+clics-doculect-95-111,west2386-std,concepticon-1554,2.21,marada,man (vs. woman),marada
+clics-doculect-95-112,west2386-std,concepticon-1554,2.21,ādamī,man (vs. woman),adami
+clics-doculect-95-113,west2386-std,concepticon-1554,2.21,jaṇā,man (vs. woman),jana
+clics-doculect-95-114,west2386-std,concepticon-962,2.22,aurata,woman,aurata
+clics-doculect-95-115,west2386-std,concepticon-962,2.22,janānī,woman,janani
+clics-doculect-95-116,west2386-std,concepticon-1553,2.23,purakha,male,purakha
+clics-doculect-95-117,west2386-std,concepticon-1553,2.23,marada,male,marada
+clics-doculect-95-118,west2386-std,concepticon-1553,2.23,puraśa,male,purasa
+clics-doculect-95-119,west2386-std,concepticon-1551,2.24,mādā,female,mada
+clics-doculect-95-120,west2386-std,concepticon-1551,2.24,mahilā,female,mahila
+clics-doculect-95-121,west2386-std,concepticon-1366,2.25,laṛakā,boy,laraka
+clics-doculect-95-122,west2386-std,concepticon-1366,2.25,munḍā,boy,munda
+clics-doculect-95-123,west2386-std,concepticon-1366,2.25,jataka,boy,jataka
+clics-doculect-95-124,west2386-std,concepticon-1366,2.25,chorā,boy,chora
+clics-doculect-95-125,west2386-std,concepticon-76,2.251,javāna,young man (adolescent),javana
+clics-doculect-95-126,west2386-std,concepticon-1646,2.26,kumārī,girl,kumari
+clics-doculect-95-127,west2386-std,concepticon-1646,2.26,kuṛī,girl,kuri
+clics-doculect-95-128,west2386-std,concepticon-1646,2.26,laṛakī,girl,laraki
+clics-doculect-95-129,west2386-std,concepticon-77,2.261,muṭiyāra,young woman (adolescent),mutiyara
+clics-doculect-95-130,west2386-std,concepticon-1304,2.27,bāla,child,bala
+clics-doculect-95-131,west2386-std,concepticon-1304,2.27,baccā,child,bacca
+clics-doculect-95-132,west2386-std,concepticon-1289,2.28,baccā,"infant, baby",bacca
+clics-doculect-95-133,west2386-std,concepticon-1289,2.28,bāla,"infant, baby",bala
+clics-doculect-95-134,west2386-std,concepticon-1200,2.31,patī,husband,pati
+clics-doculect-95-135,west2386-std,concepticon-1200,2.31,khasama,husband,khasama
+clics-doculect-95-136,west2386-std,concepticon-1200,2.31,admī,husband,admi
+clics-doculect-95-137,west2386-std,concepticon-1199,2.32,aurata,wife,aurata
+clics-doculect-95-138,west2386-std,concepticon-1199,2.32,bīvī,wife,bivi
+clics-doculect-95-139,west2386-std,concepticon-1199,2.32,voṭī,wife,voti
+clics-doculect-95-140,west2386-std,concepticon-203,2.33,vihāyuṇā,marry,vihayuna
+clics-doculect-95-141,west2386-std,concepticon-1259,2.34,śādī,"marriage, wedding",sadi
+clics-doculect-95-142,west2386-std,concepticon-1259,2.34,vyāha,"marriage, wedding",vyaha
+clics-doculect-95-143,west2386-std,concepticon-1134,2.341,talāka,divorce,talaka
+clics-doculect-95-144,west2386-std,concepticon-1134,2.341,likhata,divorce,likhata
+clics-doculect-95-145,west2386-std,concepticon-1217,2.35,bāpa,father,bapa
+clics-doculect-95-146,west2386-std,concepticon-1217,2.35,pitā,father,pita
+clics-doculect-95-147,west2386-std,concepticon-1217,2.35,pio,father,pio
+clics-doculect-95-148,west2386-std,concepticon-1216,2.36,mātā,mother,mata
+clics-doculect-95-149,west2386-std,concepticon-1216,2.36,ammā,mother,amma
+clics-doculect-95-150,west2386-std,concepticon-1216,2.36,māyī,mother,mayi
+clics-doculect-95-151,west2386-std,concepticon-505,2.37,mātā-pitā,parents,mata-pita
+clics-doculect-95-152,west2386-std,concepticon-505,2.37,māṁ-bāpa,parents,mam-bapa
+clics-doculect-95-153,west2386-std,concepticon-505,2.37,māṁ-pio,parents,mam-pio
+clics-doculect-95-154,west2386-std,concepticon-424,2.38,viāyā,married man,viaya
+clics-doculect-95-155,west2386-std,concepticon-426,2.39,vieyā,married woman,vieya
+clics-doculect-95-156,west2386-std,concepticon-1620,2.41,bēṭā,son,beta
+clics-doculect-95-157,west2386-std,concepticon-1620,2.41,puttara,son,puttara
+clics-doculect-95-158,west2386-std,concepticon-1620,2.41,putā,son,puta
+clics-doculect-95-159,west2386-std,concepticon-1620,2.41,betā,son,beta
+clics-doculect-95-160,west2386-std,concepticon-1357,2.42,guḍī,daughter,gudi
+clics-doculect-95-161,west2386-std,concepticon-1357,2.42,bēṭī,daughter,beti
+clics-doculect-95-162,west2386-std,concepticon-1357,2.42,dhī,daughter,dhi
+clics-doculect-95-163,west2386-std,concepticon-1357,2.42,larkī,daughter,larki
+clics-doculect-95-164,west2386-std,concepticon-1357,2.42,chokrī,daughter,chokri
+clics-doculect-95-165,west2386-std,concepticon-1801,2.43,bacā,offspring (son or daughter),baca
+clics-doculect-95-166,west2386-std,concepticon-1801,2.43,balaka,offspring (son or daughter),balaka
+clics-doculect-95-167,west2386-std,concepticon-1801,2.43,bāla,offspring (son or daughter),bala
+clics-doculect-95-168,west2386-std,concepticon-1262,2.44,bharā prā,brother,bhara pra
+clics-doculect-95-169,west2386-std,concepticon-1262,2.44,bhāyī,brother,bhayi
+clics-doculect-95-170,west2386-std,concepticon-1759,2.444,vaḍērā pāī,older brother,vadera pai
+clics-doculect-95-171,west2386-std,concepticon-1759,2.444,vīra,older brother,vira
+clics-doculect-95-172,west2386-std,concepticon-1760,2.445,nikka prā,younger brother,nikka pra
+clics-doculect-95-173,west2386-std,concepticon-1263,2.45,bhaiṇa,sister,bhaina
+clics-doculect-95-174,west2386-std,concepticon-1263,2.45,paiṇa,sister,paina
+clics-doculect-95-175,west2386-std,concepticon-1758,2.454,vaḍērī bhaiṇa,older sister,vaderi bhaina
+clics-doculect-95-176,west2386-std,concepticon-1758,2.454,vaḍērī paiṇa,older sister,vaderi paina
+clics-doculect-95-177,west2386-std,concepticon-1761,2.455,chuṭērī bhaiṇa,younger sister,chuteri bhaina
+clics-doculect-95-178,west2386-std,concepticon-1761,2.455,nikkī paiṇa,younger sister,nikki paina
+clics-doculect-95-179,west2386-std,concepticon-1005,2.458,jhuṛā,twins,jhura
+clics-doculect-95-180,west2386-std,concepticon-1383,2.46,nānā,grandfather,nana
+clics-doculect-95-181,west2386-std,concepticon-1383,2.46,dādā,grandfather,dada
+clics-doculect-95-182,west2386-std,concepticon-406,2.461,bābā,old man,baba
+clics-doculect-95-183,west2386-std,concepticon-406,2.461,buḍṛā,old man,budra
+clics-doculect-95-184,west2386-std,concepticon-1496,2.47,dādī,grandmother,dadi
+clics-doculect-95-185,west2386-std,concepticon-1496,2.47,nānī,grandmother,nani
+clics-doculect-95-186,west2386-std,concepticon-907,2.471,buḍḍhī,old woman,buddhi
+clics-doculect-95-187,west2386-std,concepticon-907,2.471,māyī,old woman,mayi
+clics-doculect-95-188,west2386-std,concepticon-1618,2.48,pōtā,grandson,pota
+clics-doculect-95-189,west2386-std,concepticon-1618,2.48,potrā,grandson,potra
+clics-doculect-95-190,west2386-std,concepticon-1618,2.48,dotrā,grandson,dotra
+clics-doculect-95-191,west2386-std,concepticon-1619,2.49,pōtī,granddaughter,poti
+clics-doculect-95-192,west2386-std,concepticon-1619,2.49,dotī,granddaughter,doti
+clics-doculect-95-193,west2386-std,concepticon-1619,2.49,dotrī,granddaughter,dotri
+clics-doculect-95-194,west2386-std,concepticon-1327,2.51,māmā,uncle,mama
+clics-doculect-95-195,west2386-std,concepticon-1327,2.51,cācā,uncle,caca
+clics-doculect-95-196,west2386-std,concepticon-1327,2.51,tāyā,uncle,taya
+clics-doculect-95-197,west2386-std,concepticon-1984,2.511,māmā,mother's brother,mama
+clics-doculect-95-198,west2386-std,concepticon-1984,2.511,māmū,mother's brother,mamu
+clics-doculect-95-199,west2386-std,concepticon-1985,2.512,cācā,father's brother,caca
+clics-doculect-95-200,west2386-std,concepticon-1985,2.512,tāyā,father's brother,taya
+clics-doculect-95-201,west2386-std,concepticon-1272,2.52,phophi,aunt,phophi
+clics-doculect-95-202,west2386-std,concepticon-1272,2.52,bhūyā,aunt,bhuya
+clics-doculect-95-203,west2386-std,concepticon-1272,2.52,māsī,aunt,masi
+clics-doculect-95-204,west2386-std,concepticon-171,2.521,māsī,mother's sister,masi
+clics-doculect-95-205,west2386-std,concepticon-170,2.522,phophi,father's sister,phophi
+clics-doculect-95-206,west2386-std,concepticon-170,2.522,bhūyā,father's sister,bhuya
+clics-doculect-95-207,west2386-std,concepticon-1063,2.53,bhatījā,nephew,bhatija
+clics-doculect-95-208,west2386-std,concepticon-1063,2.53,patijā,nephew,patija
+clics-doculect-95-209,west2386-std,concepticon-1063,2.53,pānjā,nephew,panja
+clics-doculect-95-210,west2386-std,concepticon-1642,2.54,bhatījī,niece,bhatiji
+clics-doculect-95-211,west2386-std,concepticon-1642,2.54,patijī,niece,patiji
+clics-doculect-95-212,west2386-std,concepticon-1642,2.54,pānjī,niece,panji
+clics-doculect-95-213,west2386-std,concepticon-1643,2.55,masera (bhāi),cousin,masera (bhai)
+clics-doculect-95-214,west2386-std,concepticon-1643,2.55,phophera (bhāi),cousin,phophera (bhai)
+clics-doculect-95-215,west2386-std,concepticon-1643,2.55,cacera (bhāi),cousin,cacera (bhai)
+clics-doculect-95-216,west2386-std,concepticon-1669,2.56,āl,ancestors,al
+clics-doculect-95-217,west2386-std,concepticon-1669,2.56,vaḍḍavaḍere,ancestors,vaddavadere
+clics-doculect-95-218,west2386-std,concepticon-490,2.57,vārasa,descendants,varasa
+clics-doculect-95-219,west2386-std,concepticon-490,2.57,āla,descendants,ala
+clics-doculect-95-220,west2386-std,concepticon-2255,2.61,sorā,father-in-law (of a man),sora
+clics-doculect-95-221,west2386-std,concepticon-2254,2.611,sorā,father-in-law (of a woman),sora
+clics-doculect-95-222,west2386-std,concepticon-2256,2.62,sasa,mother-in-law (of a man),sasa
+clics-doculect-95-223,west2386-std,concepticon-2257,2.621,sasa,mother-in-law (of a woman),sasa
+clics-doculect-95-224,west2386-std,concepticon-2267,2.63,damāda,son-in-law (of a man),damada
+clics-doculect-95-225,west2386-std,concepticon-2267,2.63,javāy'ī,son-in-law (of a man),javay'i
+clics-doculect-95-226,west2386-std,concepticon-2266,2.631,damāda,son-in-law (of a woman),damada
+clics-doculect-95-227,west2386-std,concepticon-2266,2.631,javā'yī,son-in-law (of a woman),java'yi
+clics-doculect-95-228,west2386-std,concepticon-2265,2.64,bahū,daughter-in-law (of a man),bahu
+clics-doculect-95-229,west2386-std,concepticon-2265,2.64,nūha,daughter-in-law (of a man),nuha
+clics-doculect-95-230,west2386-std,concepticon-2264,2.641,bahū,daughter-in-law (of a woman),bahu
+clics-doculect-95-231,west2386-std,concepticon-2264,2.641,nūha,daughter-in-law (of a woman),nuha
+clics-doculect-95-232,west2386-std,concepticon-237,2.71,matareya pio,stepfather,matareya pio
+clics-doculect-95-233,west2386-std,concepticon-1059,2.73,matareya puttara,stepson,matareya puttara
+clics-doculect-95-234,west2386-std,concepticon-1149,2.75,anātha,orphan,anatha
+clics-doculect-95-235,west2386-std,concepticon-1149,2.75,yatīma,orphan,yatima
+clics-doculect-95-236,west2386-std,concepticon-1756,2.76,vidhavā,widow,vidhava
+clics-doculect-95-237,west2386-std,concepticon-1756,2.76,ranḍī,widow,randi
+clics-doculect-95-238,west2386-std,concepticon-1756,2.76,bevā,widow,beva
+clics-doculect-95-239,west2386-std,concepticon-1981,2.77,raḍā,widower,rada
+clics-doculect-95-240,west2386-std,concepticon-1981,2.77,ranḍā,widower,randa
+clics-doculect-95-241,west2386-std,concepticon-1981,2.77,ranḍua,widower,randua
+clics-doculect-95-242,west2386-std,concepticon-1644,2.81,riśatēdāra,"relatives, kinsmen",risatedara
+clics-doculect-95-243,west2386-std,concepticon-1644,2.81,sāka,"relatives, kinsmen",saka
+clics-doculect-95-244,west2386-std,concepticon-194,2.82,khānadāna,family,khanadana
+clics-doculect-95-245,west2386-std,concepticon-194,2.82,parivāra,family,parivara
+clics-doculect-95-246,west2386-std,concepticon-194,2.82,ṭabbara,family,tabbara
+clics-doculect-95-247,west2386-std,concepticon-1209,2.91,maiṁ,I,maim
+clics-doculect-95-248,west2386-std,concepticon-1215,2.92,tū,you (singular),tu
+clics-doculect-95-249,west2386-std,concepticon-262,2.93,usa,he/she/it,usa
+clics-doculect-95-250,west2386-std,concepticon-262,2.93,e,he/she/it,e
+clics-doculect-95-251,west2386-std,concepticon-1212,2.94,hama,we,hama
+clics-doculect-95-252,west2386-std,concepticon-1212,2.94,asi,we,asi
+clics-doculect-95-253,west2386-std,concepticon-1131,2.941,hama,we (inclusive),hama
+clics-doculect-95-254,west2386-std,concepticon-1131,2.941,asi,we (inclusive),asi
+clics-doculect-95-255,west2386-std,concepticon-1130,2.942,hama,we (exclusive),hama
+clics-doculect-95-256,west2386-std,concepticon-1130,2.942,asi,we (exclusive),asi
+clics-doculect-95-257,west2386-std,concepticon-1213,2.95,tainū,you (plural),tainu
+clics-doculect-95-258,west2386-std,concepticon-1213,2.95,tusī,you (plural),tusi
+clics-doculect-95-259,west2386-std,concepticon-817,2.96,unnā,they,unna
+clics-doculect-95-260,west2386-std,concepticon-619,3.11,paśū,animal,pasu
+clics-doculect-95-261,west2386-std,concepticon-619,3.11,jānavara,animal,janavara
+clics-doculect-95-262,west2386-std,concepticon-619,3.11,havāna,animal,havana
+clics-doculect-95-263,west2386-std,concepticon-619,3.11,ḍaṅgara,animal,dangara
+clics-doculect-95-264,west2386-std,concepticon-2261,3.12,nara,male (adj),nara
+clics-doculect-95-265,west2386-std,concepticon-2262,3.13,mādā,female (adj),mada
+clics-doculect-95-266,west2386-std,concepticon-649,3.16,carāgāha,pasture,caragaha
+clics-doculect-95-267,west2386-std,concepticon-263,3.18,caravāhā,herdsman,caravaha
+clics-doculect-95-268,west2386-std,concepticon-851,3.19,tabēlā,"stable, stall",tabela
+clics-doculect-95-269,west2386-std,concepticon-1153,3.2,ḍaṅgara,cattle (bovine),dangara
+clics-doculect-95-270,west2386-std,concepticon-1008,3.21,sanḍhā,bull,sandha
+clics-doculect-95-271,west2386-std,concepticon-1169,3.22,ṭaggā,ox,tagga
+clics-doculect-95-272,west2386-std,concepticon-1169,3.22,dānda,ox,danda
+clics-doculect-95-273,west2386-std,concepticon-1007,3.23,gai,cow,gai
+clics-doculect-95-274,west2386-std,concepticon-1007,3.23,gāṅa,cow,gana
+clics-doculect-95-275,west2386-std,concepticon-1989,3.24,vachā,calf,vacha
+clics-doculect-95-276,west2386-std,concepticon-1331,3.25,peḍa,sheep,peda
+clics-doculect-95-277,west2386-std,concepticon-1344,3.26,chatarā,ram,chatara
+clics-doculect-95-278,west2386-std,concepticon-1344,3.26,bakarā,ram,bakara
+clics-doculect-95-279,west2386-std,concepticon-1344,3.26,peḍā,ram,peda
+clics-doculect-95-280,west2386-std,concepticon-1345,3.28,chatarī,ewe,chatari
+clics-doculect-95-281,west2386-std,concepticon-1345,3.28,peḍa,ewe,peda
+clics-doculect-95-282,west2386-std,concepticon-820,3.29,lēlā,lamb,lela
+clics-doculect-95-283,west2386-std,concepticon-820,3.29,dumbā,lamb,dumba
+clics-doculect-95-284,west2386-std,concepticon-1348,3.32,sūra,boar,sura
+clics-doculect-95-285,west2386-std,concepticon-1348,3.32,baralā,boar,barala
+clics-doculect-95-286,west2386-std,concepticon-1351,3.34,baralī,sow,barali
+clics-doculect-95-287,west2386-std,concepticon-1351,3.34,sūranī,sow,surani
+clics-doculect-95-288,west2386-std,concepticon-1337,3.35,sūra,pig,sura
+clics-doculect-95-289,west2386-std,concepticon-1337,3.35,baralā,pig,barala
+clics-doculect-95-290,west2386-std,concepticon-1502,3.36,bakarī,goat,bakari
+clics-doculect-95-291,west2386-std,concepticon-264,3.37,bakarā,he-goat,bakara
+clics-doculect-95-292,west2386-std,concepticon-1972,3.38,memanā,kid,memana
+clics-doculect-95-293,west2386-std,concepticon-615,3.41,ghōṛā,horse (equine),ghora
+clics-doculect-95-294,west2386-std,concepticon-615,3.41,koṛā,horse (equine),kora
+clics-doculect-95-295,west2386-std,concepticon-936,3.42,ghōṛā,stallion,ghora
+clics-doculect-95-296,west2386-std,concepticon-936,3.42,koṛā,stallion,kora
+clics-doculect-95-297,west2386-std,concepticon-938,3.44,ghōṛī,mare,ghori
+clics-doculect-95-298,west2386-std,concepticon-938,3.44,koṛī,mare,kori
+clics-doculect-95-299,west2386-std,concepticon-1862,3.46,gadhī,"ass, donkey",gadhi
+clics-doculect-95-300,west2386-std,concepticon-1862,3.46,gadhā,"ass, donkey",gadha
+clics-doculect-95-301,west2386-std,concepticon-1862,3.46,khotā,"ass, donkey",khota
+clics-doculect-95-302,west2386-std,concepticon-890,3.47,khaccara,mule,khaccara
+clics-doculect-95-303,west2386-std,concepticon-265,3.5,kukaṛā,fowl,kukara
+clics-doculect-95-304,west2386-std,concepticon-1511,3.52,muragā,"cock, rooster",muraga
+clics-doculect-95-305,west2386-std,concepticon-1511,3.52,kukaṛā,"cock, rooster",kukara
+clics-doculect-95-306,west2386-std,concepticon-1514,3.54,muragī,hen,muragi
+clics-doculect-95-307,west2386-std,concepticon-1514,3.54,kukaṛī,hen,kukari
+clics-doculect-95-308,west2386-std,concepticon-1318,3.55,muragī,chicken,muragi
+clics-doculect-95-309,west2386-std,concepticon-1318,3.55,kukaṛī,chicken,kukari
+clics-doculect-95-310,west2386-std,concepticon-1360,3.57,bataḵẖa,duck,batakha
+clics-doculect-95-311,west2386-std,concepticon-539,3.58,ghōnsalā,nest,ghonsala
+clics-doculect-95-312,west2386-std,concepticon-539,3.58,alaṇa,nest,alana
+clics-doculect-95-313,west2386-std,concepticon-937,3.581,panchī,bird,panchi
+clics-doculect-95-314,west2386-std,concepticon-758,3.583,bagalā,heron,bagala
+clics-doculect-95-315,west2386-std,concepticon-1905,3.584,ukāba,eagle,ukaba
+clics-doculect-95-316,west2386-std,concepticon-307,3.585,bāja,hawk,baja
+clics-doculect-95-317,west2386-std,concepticon-1185,3.586,gidha,vulture,gidha
+clics-doculect-95-318,west2386-std,concepticon-1793,3.591,camagidaṛa,bat,camagidara
+clics-doculect-95-319,west2386-std,concepticon-1793,3.591,camkadaṛa,bat,camkadara
+clics-doculect-95-320,west2386-std,concepticon-882,3.592,tōtā,parrot,tota
+clics-doculect-95-321,west2386-std,concepticon-913,3.593,kāga,crow,kaga
+clics-doculect-95-322,west2386-std,concepticon-913,3.593,kāṁ,crow,kam
+clics-doculect-95-323,west2386-std,concepticon-1853,3.594,kuggī,dove,kuggi
+clics-doculect-95-324,west2386-std,concepticon-735,3.596,ullū,owl,ullu
+clics-doculect-95-325,west2386-std,concepticon-2009,3.61,kutā,dog,kuta
+clics-doculect-95-326,west2386-std,concepticon-1136,3.614,kharagōśa,rabbit,kharagosa
+clics-doculect-95-327,west2386-std,concepticon-1136,3.614,sāyā,rabbit,saya
+clics-doculect-95-328,west2386-std,concepticon-1208,3.62,bilī,cat,bili
+clics-doculect-95-329,west2386-std,concepticon-2139,3.63,cūhā,"mouse, rat",cuha
+clics-doculect-95-330,west2386-std,concepticon-227,3.65,machī,fish,machi
+clics-doculect-95-331,west2386-std,concepticon-266,3.653,kanḍe,fishscale,kande
+clics-doculect-95-332,west2386-std,concepticon-957,3.663,vēlyha,whale,velyha
+clics-doculect-95-333,west2386-std,concepticon-522,3.71,bhēṛīyā,wolf,bheriya
+clics-doculect-95-334,west2386-std,concepticon-1386,3.72,śera,lion,sera
+clics-doculect-95-335,west2386-std,concepticon-1820,3.73,bhālū,bear,bhalu
+clics-doculect-95-336,west2386-std,concepticon-1820,3.73,rīcha,bear,richa
+clics-doculect-95-337,west2386-std,concepticon-1312,3.74,lūbaṛa,fox,lubara
+clics-doculect-95-338,west2386-std,concepticon-1312,3.74,lūmbarī,fox,lumbari
+clics-doculect-95-339,west2386-std,concepticon-1936,3.75,hirana,deer,hirana
+clics-doculect-95-340,west2386-std,concepticon-1936,3.75,harana,deer,harana
+clics-doculect-95-341,west2386-std,concepticon-1350,3.76,bāndara,monkey,bandara
+clics-doculect-95-342,west2386-std,concepticon-1290,3.77,hāthī,elephant,hathi
+clics-doculect-95-343,west2386-std,concepticon-1871,3.78,ūṭha,camel,utha
+clics-doculect-95-344,west2386-std,concepticon-1871,3.78,ūntḥa,camel,untha
+clics-doculect-95-345,west2386-std,concepticon-620,3.81,kīṛā,insect,kira
+clics-doculect-95-346,west2386-std,concepticon-232,3.813,pisū,flea,pisu
+clics-doculect-95-347,west2386-std,concepticon-232,3.813,makkhī,flea,makkhi
+clics-doculect-95-348,west2386-std,concepticon-1974,3.814,kanakhajūrā,centipede,kanakhajura
+clics-doculect-95-349,west2386-std,concepticon-1538,3.815,bicchū,scorpion,bicchu
+clics-doculect-95-350,west2386-std,concepticon-1538,3.815,ṭhuṅā,scorpion,thuna
+clics-doculect-95-351,west2386-std,concepticon-1575,3.816,kokarōca,cockroach,kokaroca
+clics-doculect-95-352,west2386-std,concepticon-587,3.817,kīṛī,ant,kiri
+clics-doculect-95-353,west2386-std,concepticon-843,3.818,makaṛī,spider,makari
+clics-doculect-95-354,west2386-std,concepticon-1065,3.819,makaṛī kā jālā,spider web,makari ka jala
+clics-doculect-95-355,west2386-std,concepticon-665,3.82,makhī,bee,makhi
+clics-doculect-95-356,west2386-std,concepticon-88,3.822,chatā,beehive,chata
+clics-doculect-95-357,west2386-std,concepticon-1517,3.823,tumūṛī,wasp,tumuri
+clics-doculect-95-358,west2386-std,concepticon-1504,3.83,makhī,fly,makhi
+clics-doculect-95-359,west2386-std,concepticon-1509,3.832,machara,mosquito,machara
+clics-doculect-95-360,west2386-std,concepticon-1219,3.84,kiṛā,worm,kira
+clics-doculect-95-361,west2386-std,concepticon-730,3.85,sapa,snake,sapa
+clics-doculect-95-362,west2386-std,concepticon-206,3.91,juganū,firefly,juganu
+clics-doculect-95-363,west2386-std,concepticon-1791,3.92,titalī,butterfly,titali
+clics-doculect-95-364,west2386-std,concepticon-607,3.93,ṭiḍā,grasshopper,tida
+clics-doculect-95-365,west2386-std,concepticon-607,3.93,ṭiḍḍā,grasshopper,tidda
+clics-doculect-95-366,west2386-std,concepticon-1543,3.94,ghanḍoyā,snail,ghandoya
+clics-doculect-95-367,west2386-std,concepticon-503,3.95,ḍaḍū,frog,dadu
+clics-doculect-95-368,west2386-std,concepticon-632,3.96,kiralī,lizard,kirali
+clics-doculect-95-369,west2386-std,concepticon-632,3.96,chipakalī,lizard,chipakali
+clics-doculect-95-370,west2386-std,concepticon-1857,3.97,magaramacha,"crocodile, alligator",magaramacha
+clics-doculect-95-371,west2386-std,concepticon-1480,4.11,śarīra,body,sarira
+clics-doculect-95-372,west2386-std,concepticon-1480,4.11,butta,body,butta
+clics-doculect-95-373,west2386-std,concepticon-1480,4.11,kāṭha,body,katha
+clics-doculect-95-374,west2386-std,concepticon-763,4.12,khaladī,"skin, hide",khaladi
+clics-doculect-95-375,west2386-std,concepticon-763,4.12,jilda,"skin, hide",jilda
+clics-doculect-95-376,west2386-std,concepticon-2259,4.13,carabī,flesh,carabi
+clics-doculect-95-377,west2386-std,concepticon-1040,4.14,vāla,hair (head),vala
+clics-doculect-95-378,west2386-std,concepticon-678,4.142,dāṛhī,beard,darhi
+clics-doculect-95-379,west2386-std,concepticon-189,4.144,vāla,body hair,vala
+clics-doculect-95-380,west2386-std,concepticon-36,4.145,vāla,pubic hair,vala
+clics-doculect-95-381,west2386-std,concepticon-576,4.146,sikkarī,dandruff,sikkari
+clics-doculect-95-382,west2386-std,concepticon-576,4.146,khushakī,dandruff,khushaki
+clics-doculect-95-383,west2386-std,concepticon-946,4.15,khūna,blood,khuna
+clics-doculect-95-384,west2386-std,concepticon-946,4.15,lahu,blood,lahu
+clics-doculect-95-385,west2386-std,concepticon-946,4.15,ratta,blood,ratta
+clics-doculect-95-386,west2386-std,concepticon-525,4.151,raga,"vein, artery",raga
+clics-doculect-95-387,west2386-std,concepticon-1394,4.16,haḍḍī,bone,haddi
+clics-doculect-95-388,west2386-std,concepticon-801,4.162,paslī,rib,pasli
+clics-doculect-95-389,west2386-std,concepticon-1393,4.17,sīngha,horn,singha
+clics-doculect-95-390,west2386-std,concepticon-1220,4.18,pūcha,tail,pucha
+clics-doculect-95-391,west2386-std,concepticon-1220,4.18,duma,tail,duma
+clics-doculect-95-392,west2386-std,concepticon-1291,4.19,pichalī,back,pichali
+clics-doculect-95-393,west2386-std,concepticon-1291,4.19,pīṭha,back,pitha
+clics-doculect-95-394,west2386-std,concepticon-805,4.191,dhundari,spine,dhundari
+clics-doculect-95-395,west2386-std,concepticon-805,4.191,riṛha kī haḍḍī,spine,rirha ki haddi
+clics-doculect-95-396,west2386-std,concepticon-1256,4.2,sara,head,sara
+clics-doculect-95-397,west2386-std,concepticon-1605,4.202,khopṛī,skull,khopri
+clics-doculect-95-398,west2386-std,concepticon-1583,4.203,dimāga,brain,dimaga
+clics-doculect-95-399,west2386-std,concepticon-1560,4.204,mūha,face,muha
+clics-doculect-95-400,west2386-std,concepticon-123,4.205,mathā,forehead,matha
+clics-doculect-95-401,west2386-std,concepticon-798,4.207,jabaṛā,jaw,jabara
+clics-doculect-95-402,west2386-std,concepticon-1510,4.209,ṭhōḍī,chin,thodi
+clics-doculect-95-403,west2386-std,concepticon-1248,4.21,akkha,eye,akkha
+clics-doculect-95-404,west2386-std,concepticon-1248,4.21,akkhī,eye,akkhi
+clics-doculect-95-405,west2386-std,concepticon-1248,4.21,diddā,eye,didda
+clics-doculect-95-406,west2386-std,concepticon-1248,4.21,nāina,eye,naina
+clics-doculect-95-407,west2386-std,concepticon-1173,4.212,parvaṭē,eyebrow,parvate
+clics-doculect-95-408,west2386-std,concepticon-17,4.213,palaka,eyelid,palaka
+clics-doculect-95-409,west2386-std,concepticon-1540,4.214,palaka,eyelash,palaka
+clics-doculect-95-410,west2386-std,concepticon-1655,4.215,jhapakanā,blink,jhapakana
+clics-doculect-95-411,west2386-std,concepticon-1247,4.22,kanna,ear,kanna
+clics-doculect-95-412,west2386-std,concepticon-1221,4.23,naka,nose,naka
+clics-doculect-95-413,west2386-std,concepticon-1178,4.231,nāsa,nostril,nasa
+clics-doculect-95-414,west2386-std,concepticon-1178,4.231,nasāṁ,nostril,nasam
+clics-doculect-95-415,west2386-std,concepticon-674,4.24,mūha,mouth,muha
+clics-doculect-95-416,west2386-std,concepticon-73,4.241,cujha,beak,cujha
+clics-doculect-95-417,west2386-std,concepticon-73,4.241,conja,beak,conja
+clics-doculect-95-418,west2386-std,concepticon-478,4.25,hōnṭha,lip,hontha
+clics-doculect-95-419,west2386-std,concepticon-478,4.25,bula,lip,bula
+clics-doculect-95-420,west2386-std,concepticon-1205,4.26,jība,tongue,jiba
+clics-doculect-95-421,west2386-std,concepticon-1380,4.27,danda,tooth,danda
+clics-doculect-95-422,west2386-std,concepticon-139,4.271,masuṛa,gums,masura
+clics-doculect-95-423,west2386-std,concepticon-1333,4.28,garadana,neck,garadana
+clics-doculect-95-424,west2386-std,concepticon-1333,4.28,tōṇa,neck,tona
+clics-doculect-95-425,west2386-std,concepticon-1346,4.29,gaṭā,throat,gata
+clics-doculect-95-426,west2386-std,concepticon-1346,4.29,saṅgha,throat,sangha
+clics-doculect-95-427,west2386-std,concepticon-1482,4.3,monḍe,shoulder,monde
+clics-doculect-95-428,west2386-std,concepticon-1482,4.3,kandhe,shoulder,kandhe
+clics-doculect-95-429,west2386-std,concepticon-1673,4.31,banha,arm,banha
+clics-doculect-95-430,west2386-std,concepticon-1886,4.312,kacha,armpit,kacha
+clics-doculect-95-431,west2386-std,concepticon-981,4.32,kūhaṇī,elbow,kuhani
+clics-doculect-95-432,west2386-std,concepticon-799,4.321,viṇi,wrist,vini
+clics-doculect-95-433,west2386-std,concepticon-799,4.321,kalāī,wrist,kalai
+clics-doculect-95-434,west2386-std,concepticon-799,4.321,biṇi,wrist,bini
+clics-doculect-95-435,west2386-std,concepticon-1277,4.33,hatha,hand,hatha
+clics-doculect-95-436,west2386-std,concepticon-1183,4.331,hathelī,palm of hand,hatheli
+clics-doculect-95-437,west2386-std,concepticon-1303,4.34,uṅgalī,finger,ungali
+clics-doculect-95-438,west2386-std,concepticon-1781,4.342,añgūṭhā,thumb,angutha
+clics-doculect-95-439,west2386-std,concepticon-1258,4.344,nihu,fingernail,nihu
+clics-doculect-95-440,west2386-std,concepticon-72,4.345,panja,claw,panja
+clics-doculect-95-441,west2386-std,concepticon-1297,4.35,ṭaga,leg,taga
+clics-doculect-95-442,west2386-std,concepticon-1297,4.35,lata,leg,lata
+clics-doculect-95-443,west2386-std,concepticon-1297,4.35,taṅga,leg,tanga
+clics-doculect-95-444,west2386-std,concepticon-800,4.351,paṭa,thigh,pata
+clics-doculect-95-445,west2386-std,concepticon-1371,4.36,gōḍā,knee,goda
+clics-doculect-95-446,west2386-std,concepticon-1301,4.37,pada,foot,pada
+clics-doculect-95-447,west2386-std,concepticon-1301,4.37,paira,foot,paira
+clics-doculect-95-448,west2386-std,concepticon-803,4.371,giṭā,ankle,gita
+clics-doculect-95-449,west2386-std,concepticon-980,4.372,aḍī,heel,adi
+clics-doculect-95-450,west2386-std,concepticon-1389,4.38,uṅgala,toe,ungala
+clics-doculect-95-451,west2386-std,concepticon-1257,4.392,para,wing,para
+clics-doculect-95-452,west2386-std,concepticon-1201,4.393,khabha,feather,khabha
+clics-doculect-95-453,west2386-std,concepticon-1201,4.393,khambha,feather,khambha
+clics-doculect-95-454,west2386-std,concepticon-1201,4.393,para,feather,para
+clics-doculect-95-455,west2386-std,concepticon-1592,4.4,chātī,chest,chati
+clics-doculect-95-456,west2386-std,concepticon-1402,4.41,hika,breast (of woman),hika
+clics-doculect-95-457,west2386-std,concepticon-1402,4.41,mumme,breast (of woman),mumme
+clics-doculect-95-458,west2386-std,concepticon-796,4.412,thaṇa,"nipple, teat",thana
+clics-doculect-95-459,west2386-std,concepticon-154,4.42,caḍā,udder,cada
+clics-doculect-95-460,west2386-std,concepticon-154,4.42,havanna,udder,havanna
+clics-doculect-95-461,west2386-std,concepticon-154,4.42,khīrī,udder,khiri
+clics-doculect-95-462,west2386-std,concepticon-1223,4.44,cita,heart,cita
+clics-doculect-95-463,west2386-std,concepticon-1223,4.44,dila,heart,dila
+clics-doculect-95-464,west2386-std,concepticon-688,4.441,phepaṛe,lung,phepare
+clics-doculect-95-465,west2386-std,concepticon-1224,4.45,jigaṛa,liver,jigara
+clics-doculect-95-466,west2386-std,concepticon-489,4.451,guradā,kidney,gurada
+clics-doculect-95-467,west2386-std,concepticon-1744,4.452,tillī,spleen,tilli
+clics-doculect-95-468,west2386-std,concepticon-819,4.46,medā,stomach,meda
+clics-doculect-95-469,west2386-std,concepticon-1991,4.461,antaṛī,"intestines, guts",antari
+clics-doculect-95-470,west2386-std,concepticon-1681,4.462,kamara,waist,kamara
+clics-doculect-95-471,west2386-std,concepticon-1745,4.463,laka,hip,laka
+clics-doculect-95-472,west2386-std,concepticon-834,4.464,citaṛa,buttocks,citara
+clics-doculect-95-473,west2386-std,concepticon-834,4.464,laka,buttocks,laka
+clics-doculect-95-474,west2386-std,concepticon-797,4.49,āṇḍa,testicle,anda
+clics-doculect-95-475,west2386-std,concepticon-797,4.49,tattaya,testicle,tattaya
+clics-doculect-95-476,west2386-std,concepticon-1222,4.492,liṅga,penis,linga
+clics-doculect-95-477,west2386-std,concepticon-1222,4.492,lula,penis,lula
+clics-doculect-95-478,west2386-std,concepticon-1222,4.492,luna,penis,luna
+clics-doculect-95-479,west2386-std,concepticon-1407,4.51,sāha lenā,"breathe, breath",saha lena
+clics-doculect-95-480,west2386-std,concepticon-1028,4.52,ubāsī lenā,"yawn, gape",ubasi lena
+clics-doculect-95-481,west2386-std,concepticon-162,4.521,hicakī lenā,hiccough,hicaki lena
+clics-doculect-95-482,west2386-std,concepticon-162,4.521,hicakanā,hiccough,hicakana
+clics-doculect-95-483,west2386-std,concepticon-879,4.53,khaṅgnā,cough,khangna
+clics-doculect-95-484,west2386-std,concepticon-1621,4.54,chikaṇā,sneeze,chikana
+clics-doculect-95-485,west2386-std,concepticon-126,4.55,pasinā ānā,perspire,pasina ana
+clics-doculect-95-486,west2386-std,concepticon-1440,4.56,thukaṇā,spit,thukana
+clics-doculect-95-487,west2386-std,concepticon-1278,4.57,ultī karnā,vomit,ulti karna
+clics-doculect-95-488,west2386-std,concepticon-1403,4.58,kāṭanā,bite,katana
+clics-doculect-95-489,west2386-std,concepticon-319,4.59,cāṭantā,lick,catanta
+clics-doculect-95-490,west2386-std,concepticon-268,4.591,conā,dribble,cona
+clics-doculect-95-491,west2386-std,concepticon-1585,4.61,sonā,sleep,sona
+clics-doculect-95-492,west2386-std,concepticon-1983,4.612,kharāṭe lenā,snore,kharate lena
+clics-doculect-95-493,west2386-std,concepticon-1920,4.62,sufanā dekhnā,dream,sufana dekhna
+clics-doculect-95-494,west2386-std,concepticon-1602,4.63,jāganā,wake up,jagana
+clics-doculect-95-495,west2386-std,concepticon-52,4.68,ṭhiṭharanā,shiver,thitharana
+clics-doculect-95-496,west2386-std,concepticon-52,4.68,kambṅā,shiver,kambna
+clics-doculect-95-497,west2386-std,concepticon-138,4.69,nahānā,bathe,nahana
+clics-doculect-95-498,west2386-std,concepticon-1152,4.71,jamaṇā,beget (of father),jamana
+clics-doculect-95-499,west2386-std,concepticon-1090,4.72,janam lenā,born (to be),janam lena
+clics-doculect-95-500,west2386-std,concepticon-1422,4.74,jinā,"live, living, life",jina
+clics-doculect-95-501,west2386-std,concepticon-1494,4.75,maraṇā,"die, dead",marana
+clics-doculect-95-502,west2386-std,concepticon-1904,4.751,ḍubanā,drowned,dubana
+clics-doculect-95-503,west2386-std,concepticon-1417,4.76,māranā,kill,marana
+clics-doculect-95-504,west2386-std,concepticon-767,4.77,lāśa,corpse,lasa
+clics-doculect-95-505,west2386-std,concepticon-1719,4.78,dabanā,bury (the dead),dabana
+clics-doculect-95-506,west2386-std,concepticon-1773,4.79,kabara,"grave, tomb",kabara
+clics-doculect-95-507,west2386-std,concepticon-785,4.81,dadā,"strong, mighty, powerful",dada
+clics-doculect-95-508,west2386-std,concepticon-785,4.81,tagaṛā,"strong, mighty, powerful",tagara
+clics-doculect-95-509,west2386-std,concepticon-1601,4.82,kamjora,weak,kamjora
+clics-doculect-95-510,west2386-std,concepticon-1364,4.83,sihatamana,"well, health",sihatamana
+clics-doculect-95-511,west2386-std,concepticon-1847,4.84,bimāra,"sick, sickness",bimara
+clics-doculect-95-512,west2386-std,concepticon-1534,4.841,bukhāra,fever,bukhara
+clics-doculect-95-513,west2386-std,concepticon-102,4.843,nazalā,cold (catarrh),nazala
+clics-doculect-95-514,west2386-std,concepticon-1109,4.85,zakhama,"wound, sore",zakhama
+clics-doculect-95-515,west2386-std,concepticon-1148,4.852,jharīṭa,bruise,jharita
+clics-doculect-95-516,west2386-std,concepticon-1903,4.853,sojana,swelling,sojana
+clics-doculect-95-517,west2386-std,concepticon-148,4.854,khāraśa,itch,kharasa
+clics-doculect-95-518,west2386-std,concepticon-148,4.854,khāriśa,itch,kharisa
+clics-doculect-95-519,west2386-std,concepticon-1584,4.855,chālā,blister,chala
+clics-doculect-95-520,west2386-std,concepticon-793,4.856,phoṛā,boil (noun),phora
+clics-doculect-95-521,west2386-std,concepticon-793,4.856,ubāla,boil (noun),ubala
+clics-doculect-95-522,west2386-std,concepticon-1808,4.857,pīpa,pus,pipa
+clics-doculect-95-523,west2386-std,concepticon-497,4.858,dāga,scar,daga
+clics-doculect-95-524,west2386-std,concepticon-499,4.86,ilāja  karanā,"cure, heal",ilaja  karana
+clics-doculect-95-525,west2386-std,concepticon-597,4.87,dokaṭara,physician,dokatara
+clics-doculect-95-526,west2386-std,concepticon-1372,4.88,davāyī,"medicine, drug",davayi
+clics-doculect-95-527,west2386-std,concepticon-655,4.89,zahara,poison,zahara
+clics-doculect-95-528,west2386-std,concepticon-1757,4.91,thaktāna,"tired, weary",thaktana
+clics-doculect-95-529,west2386-std,concepticon-168,4.912,ṭikanā,rest,tikana
+clics-doculect-95-530,west2386-std,concepticon-1564,4.92,posatī,lazy,posati
+clics-doculect-95-531,west2386-std,concepticon-1564,4.92,susta,lazy,susta
+clics-doculect-95-532,west2386-std,concepticon-1125,4.93,ganjā,bald,ganja
+clics-doculect-95-533,west2386-std,concepticon-320,4.94,laṅgṛā,lame,langra
+clics-doculect-95-534,west2386-std,concepticon-996,4.95,dorā,deaf,dora
+clics-doculect-95-535,west2386-std,concepticon-1666,4.96,guṅgā,mute,gunga
+clics-doculect-95-536,west2386-std,concepticon-1653,4.97,annā,blind,anna
+clics-doculect-95-537,west2386-std,concepticon-1463,4.98,śarābī,intoxicated,sarabi
+clics-doculect-95-538,west2386-std,concepticon-590,4.99,naṅgā,"naked, bare",nanga
+clics-doculect-95-539,west2386-std,concepticon-1336,5.11,khāṇā,eat,khana
+clics-doculect-95-540,west2386-std,concepticon-256,5.12,khaṇa,food,khana
+clics-doculect-95-541,west2386-std,concepticon-269,5.121,pakiyā,cooked,pakiya
+clics-doculect-95-542,west2386-std,concepticon-1959,5.122,kacī,raw,kaci
+clics-doculect-95-543,west2386-std,concepticon-178,5.123,pakī,ripe,paki
+clics-doculect-95-544,west2386-std,concepticon-1958,5.124,kacī,"green, unripe",kaci
+clics-doculect-95-545,west2386-std,concepticon-1401,5.13,pīṇā,drink,pina
+clics-doculect-95-546,west2386-std,concepticon-1864,5.14,pukhā hoṇā,hunger,pukha hona
+clics-doculect-95-547,west2386-std,concepticon-199,5.141,kaita,famine,kaita
+clics-doculect-95-548,west2386-std,concepticon-848,5.15,taryaya honā,thirst,taryaya hona
+clics-doculect-95-549,west2386-std,concepticon-1421,5.16,chusna,suck,chusna
+clics-doculect-95-550,west2386-std,concepticon-1421,5.16,cupnā,suck,cupna
+clics-doculect-95-551,west2386-std,concepticon-321,5.18,cabānā,chew,cabana
+clics-doculect-95-552,west2386-std,concepticon-897,5.181,haṛapaṇā,swallow,harapana
+clics-doculect-95-553,west2386-std,concepticon-897,5.181,uṅgalanā,swallow,ungalana
+clics-doculect-95-554,west2386-std,concepticon-1100,5.21,pakānā,cook,pakana
+clics-doculect-95-555,west2386-std,concepticon-792,5.22,ubālanā,boil (vb),ubalana
+clics-doculect-95-556,west2386-std,concepticon-2146,5.23,talanā,"roast, fry",talana
+clics-doculect-95-557,west2386-std,concepticon-183,5.24,pakāṇā,bake,pakana
+clics-doculect-95-558,west2386-std,concepticon-1143,5.25,tadūra,oven,tadura
+clics-doculect-95-559,west2386-std,concepticon-1143,5.25,tandūra,oven,tandura
+clics-doculect-95-560,west2386-std,concepticon-1462,5.26,baratana,"pot, cooking vessel",baratana
+clics-doculect-95-561,west2386-std,concepticon-1462,5.26,panḍā,"pot, cooking vessel",panda
+clics-doculect-95-562,west2386-std,concepticon-854,5.27,hāṇḍī,kettle,handi
+clics-doculect-95-563,west2386-std,concepticon-854,5.27,ketlī,kettle,ketli
+clics-doculect-95-564,west2386-std,concepticon-31,5.28,hāṇḍī,pan,handi
+clics-doculect-95-565,west2386-std,concepticon-481,5.31,thālī,dish,thali
+clics-doculect-95-566,west2386-std,concepticon-480,5.32,palēṭa,plate,paleta
+clics-doculect-95-567,west2386-std,concepticon-1530,5.33,bāṭī,bowl,bati
+clics-doculect-95-568,west2386-std,concepticon-1530,5.33,pyālā,bowl,pyala
+clics-doculect-95-569,west2386-std,concepticon-270,5.34,ghaṛā,"pitcher, jug",ghara
+clics-doculect-95-570,west2386-std,concepticon-476,5.35,kapa,"cup, drinking vessel",kapa
+clics-doculect-95-571,west2386-std,concepticon-476,5.35,pyālī,"cup, drinking vessel",pyali
+clics-doculect-95-572,west2386-std,concepticon-271,5.36,kiracha,saucer,kiracha
+clics-doculect-95-573,west2386-std,concepticon-1378,5.37,camacī,spoon,camaci
+clics-doculect-95-574,west2386-std,concepticon-1352,5.38,cākū,knife,caku
+clics-doculect-95-575,west2386-std,concepticon-1352,5.38,churī,knife,churi
+clics-doculect-95-576,west2386-std,concepticon-337,5.39,kāṇṭā,fork,kanta
+clics-doculect-95-577,west2386-std,concepticon-272,5.391,cimaṭā,tongs,cimata
+clics-doculect-95-578,west2386-std,concepticon-272,5.391,ucā,tongs,uca
+clics-doculect-95-579,west2386-std,concepticon-1526,5.41,khāṇā,meal (a),khana
+clics-doculect-95-580,west2386-std,concepticon-1322,5.42,nāśatā,breakfast,nasata
+clics-doculect-95-581,west2386-std,concepticon-768,5.43,din dī roṭī,lunch,din di roti
+clics-doculect-95-582,west2386-std,concepticon-1833,5.44,rāt dā khāṇā,dinner,rat da khana
+clics-doculect-95-583,west2386-std,concepticon-275,5.46,chilanā,peel,chilana
+clics-doculect-95-584,west2386-std,concepticon-86,5.47,chānaṇā,"sieve, strain",chanana
+clics-doculect-95-585,west2386-std,concepticon-1767,5.48,tarāśanā,scrape,tarasana
+clics-doculect-95-586,west2386-std,concepticon-2017,5.49,rilānā,"stir, mix",rilana
+clics-doculect-95-587,west2386-std,concepticon-1368,5.51,rōṭī,bread,roti
+clics-doculect-95-588,west2386-std,concepticon-273,5.53,tauṇā,dough,tauna
+clics-doculect-95-589,west2386-std,concepticon-273,5.53,āṭā,dough,ata
+clics-doculect-95-590,west2386-std,concepticon-274,5.54,gunṇā,knead,gunna
+clics-doculect-95-591,west2386-std,concepticon-1594,5.55,āṭā,"meal, flour",ata
+clics-doculect-95-592,west2386-std,concepticon-1033,5.56,pīnṇā,"crush, grind",pinna
+clics-doculect-95-593,west2386-std,concepticon-1033,5.56,ragaṛa,"crush, grind",ragara
+clics-doculect-95-594,west2386-std,concepticon-636,5.57,kārakhānā,mill,karakhana
+clics-doculect-95-595,west2386-std,concepticon-224,5.58,laṅgarī,mortar,langari
+clics-doculect-95-596,west2386-std,concepticon-225,5.59,ghōṭaṇā,pestle,ghotana
+clics-doculect-95-597,west2386-std,concepticon-225,5.59,chaṭū vaṭā,pestle,chatu vata
+clics-doculect-95-598,west2386-std,concepticon-634,5.61,mīṭa,meat,mita
+clics-doculect-95-599,west2386-std,concepticon-634,5.61,ghośta,meat,ghosta
+clics-doculect-95-600,west2386-std,concepticon-1547,5.64,sūpa,"soup, broth",supa
+clics-doculect-95-601,west2386-std,concepticon-924,5.65,sabazī,vegetables,sabazi
+clics-doculect-95-602,west2386-std,concepticon-832,5.66,phalī,bean,phali
+clics-doculect-95-603,west2386-std,concepticon-593,5.7,ālū,potato,alu
+clics-doculect-95-604,west2386-std,concepticon-1507,5.71,phala,fruit,phala
+clics-doculect-95-605,west2386-std,concepticon-1966,5.712,guchā,bunch,gucha
+clics-doculect-95-606,west2386-std,concepticon-322,5.75,anjīra,fig,anjira
+clics-doculect-95-607,west2386-std,concepticon-920,5.76,aṅgūra,grape,angura
+clics-doculect-95-608,west2386-std,concepticon-191,5.77,khuśaka mevā,nut,khusaka meva
+clics-doculect-95-609,west2386-std,concepticon-1154,5.78,zaitūna,olive,zaituna
+clics-doculect-95-610,west2386-std,concepticon-1484,5.79,tēla,oil,tela
+clics-doculect-95-611,west2386-std,concepticon-323,5.791,carabī,"grease, fat",carabi
+clics-doculect-95-612,west2386-std,concepticon-1274,5.81,namaka,salt,namaka
+clics-doculect-95-613,west2386-std,concepticon-1274,5.81,lūṇa,salt,luna
+clics-doculect-95-614,west2386-std,concepticon-1385,5.82,miraca,pepper,miraca
+clics-doculect-95-615,west2386-std,concepticon-919,5.821,miraca,chili pepper,miraca
+clics-doculect-95-616,west2386-std,concepticon-942,5.84,śaida,honey,saida
+clics-doculect-95-617,west2386-std,concepticon-862,5.85,khunḍa,sugar,khunda
+clics-doculect-95-618,west2386-std,concepticon-862,5.85,mithā,sugar,mitha
+clics-doculect-95-619,west2386-std,concepticon-635,5.86,dhuda,milk (noun),dhuda
+clics-doculect-95-620,west2386-std,concepticon-93,5.87,coṇā,milk (vb),cona
+clics-doculect-95-621,west2386-std,concepticon-1569,5.88,panīra,cheese,panira
+clics-doculect-95-622,west2386-std,concepticon-1245,5.89,makhaṇa,butter,makhana
+clics-doculect-95-623,west2386-std,concepticon-731,5.9,pī,"beverage, drink",pi
+clics-doculect-95-624,west2386-std,concepticon-1524,5.92,śarāba,wine,saraba
+clics-doculect-95-625,west2386-std,concepticon-1639,5.93,biara,beer,biara
+clics-doculect-95-626,west2386-std,concepticon-404,5.94,śarābā,fermented drink,saraba
+clics-doculect-95-627,west2386-std,concepticon-744,5.97,anḍā,egg,anda
+clics-doculect-95-628,west2386-std,concepticon-1556,5.971,jaradī,egg yolk,jaradi
+clics-doculect-95-629,west2386-std,concepticon-158,6.11,pāṇā,put on (clothes),pana
+clics-doculect-95-630,west2386-std,concepticon-1895,6.12,kapaṛē,"clothing, clothes",kapare
+clics-doculect-95-631,west2386-std,concepticon-1895,6.12,līṛē,"clothing, clothes",lire
+clics-doculect-95-632,west2386-std,concepticon-881,6.13,darajī,tailor,daraji
+clics-doculect-95-633,west2386-std,concepticon-1616,6.21,kapaṛā,cloth,kapara
+clics-doculect-95-634,west2386-std,concepticon-964,6.22,una,wool,una
+clics-doculect-95-635,west2386-std,concepticon-916,6.23,sūtī,"linen, flax",suti
+clics-doculect-95-636,west2386-std,concepticon-1850,6.24,sūtī,cotton,suti
+clics-doculect-95-637,west2386-std,concepticon-1641,6.25,rēśama,silk,resama
+clics-doculect-95-638,west2386-std,concepticon-325,6.27,kambala,felt,kambala
+clics-doculect-95-639,west2386-std,concepticon-325,6.27,cādāra,felt,cadara
+clics-doculect-95-640,west2386-std,concepticon-629,6.29,camaṛā,leather,camara
+clics-doculect-95-641,west2386-std,concepticon-121,6.31,kātanā,spin,katana
+clics-doculect-95-642,west2386-std,concepticon-133,6.33,buṇnā,weave,bunna
+clics-doculect-95-643,west2386-std,concepticon-1787,6.34,khaḍī,loom,khadi
+clics-doculect-95-644,west2386-std,concepticon-1457,6.35,tarpāī,sew,tarpai
+clics-doculect-95-645,west2386-std,concepticon-1457,6.35,savāī,sew,savai
+clics-doculect-95-646,west2386-std,concepticon-1382,6.36,suyī,needle,suyi
+clics-doculect-95-647,west2386-std,concepticon-278,6.37,āra,awl,ara
+clics-doculect-95-648,west2386-std,concepticon-1161,6.38,dāgā,thread,daga
+clics-doculect-95-649,west2386-std,concepticon-157,6.39,raṅgnā,dye,rangna
+clics-doculect-95-650,west2386-std,concepticon-474,6.42,pōśāka,woman's dress,posaka
+clics-doculect-95-651,west2386-std,concepticon-603,6.43,kōṭa,coat,kota
+clics-doculect-95-652,west2386-std,concepticon-1622,6.44,kamīza,shirt,kamiza
+clics-doculect-95-653,west2386-std,concepticon-1622,6.44,kuṛatā,shirt,kurata
+clics-doculect-95-654,west2386-std,concepticon-2012,6.45,kālara,collar,kalara
+clics-doculect-95-655,west2386-std,concepticon-1600,6.46,leheṅgā,skirt,lehenga
+clics-doculect-95-656,west2386-std,concepticon-1600,6.46,ghagarā,skirt,ghagara
+clics-doculect-95-657,west2386-std,concepticon-809,6.48,patalūna,trousers,pataluna
+clics-doculect-95-658,west2386-std,concepticon-809,6.48,śalvāra,trousers,salvara
+clics-doculect-95-659,west2386-std,concepticon-329,6.49,jurāba,"stocking, sock",juraba
+clics-doculect-95-660,west2386-std,concepticon-1381,6.51,jutī,shoe,juti
+clics-doculect-95-661,west2386-std,concepticon-585,6.52,jutā,boot,juta
+clics-doculect-95-662,west2386-std,concepticon-585,6.52,būṭa,boot,buta
+clics-doculect-95-663,west2386-std,concepticon-875,6.54,mōcī,"shoemaker, cobbler",moci
+clics-doculect-95-664,west2386-std,concepticon-2130,6.55,ṭōpī,"hat, cap",topi
+clics-doculect-95-665,west2386-std,concepticon-772,6.57,paṭā,"belt, girdle",pata
+clics-doculect-95-666,west2386-std,concepticon-867,6.58,dasatānā,glove,dasatana
+clics-doculect-95-667,west2386-std,concepticon-1151,6.59,nakāba,veil,nakaba
+clics-doculect-95-668,west2386-std,concepticon-1151,6.59,paṛadā,veil,parada
+clics-doculect-95-669,west2386-std,concepticon-1851,6.61,jēba,pocket,jeba
+clics-doculect-95-670,west2386-std,concepticon-757,6.62,baṭana,button,batana
+clics-doculect-95-671,west2386-std,concepticon-64,6.63,sūyī,pin,suyi
+clics-doculect-95-672,west2386-std,concepticon-917,6.71,jēvara,"ornament, adornment",jevara
+clics-doculect-95-673,west2386-std,concepticon-917,6.71,gahiṇā,"ornament, adornment",gahina
+clics-doculect-95-674,west2386-std,concepticon-1029,6.72,hīrā,jewel,hira
+clics-doculect-95-675,west2386-std,concepticon-1374,6.73,aṅgūṭhī,ring (for finger),anguthi
+clics-doculect-95-676,west2386-std,concepticon-1374,6.73,chāpa,ring (for finger),chapa
+clics-doculect-95-677,west2386-std,concepticon-1754,6.74,kaṅgana,bracelet,kangana
+clics-doculect-95-678,west2386-std,concepticon-1754,6.74,vaṅgā,bracelet,vanga
+clics-doculect-95-679,west2386-std,concepticon-1961,6.75,hāra,necklace,hara
+clics-doculect-95-680,west2386-std,concepticon-1961,6.75,laṛī,necklace,lari
+clics-doculect-95-681,west2386-std,concepticon-1860,6.76,tupakā,bead,tupaka
+clics-doculect-95-682,west2386-std,concepticon-770,6.77,ḍaḍī,earring,dadi
+clics-doculect-95-683,west2386-std,concepticon-770,6.77,cumakā,earring,cumaka
+clics-doculect-95-684,west2386-std,concepticon-332,6.81,rumāla,"handkerchief, rag",rumala
+clics-doculect-95-685,west2386-std,concepticon-1021,6.82,tauliyā,towel,tauliya
+clics-doculect-95-686,west2386-std,concepticon-1021,6.82,pacakā,towel,pacaka
+clics-doculect-95-687,west2386-std,concepticon-1475,6.91,kaṅgī,comb,kangi
+clics-doculect-95-688,west2386-std,concepticon-1821,6.92,buraśa,brush,burasa
+clics-doculect-95-689,west2386-std,concepticon-333,6.921,gutta,braid,gutta
+clics-doculect-95-690,west2386-std,concepticon-151,6.93,usatarā,razor,usatara
+clics-doculect-95-691,west2386-std,concepticon-1926,6.94,lēpa,ointment,lepa
+clics-doculect-95-692,west2386-std,concepticon-788,6.95,sābaṇa,soap,sabana
+clics-doculect-95-693,west2386-std,concepticon-1171,6.96,āyīnā,mirror,ayina
+clics-doculect-95-694,west2386-std,concepticon-1171,6.96,śīśā,mirror,sisa
+clics-doculect-95-695,west2386-std,concepticon-363,7.11,guzāranā,"dwell, live",guzarana
+clics-doculect-95-696,west2386-std,concepticon-363,7.11,jīvanā,"dwell, live",jivana
+clics-doculect-95-697,west2386-std,concepticon-1252,7.12,kera,house,kera
+clics-doculect-95-698,west2386-std,concepticon-1252,7.12,kāra,house,kara
+clics-doculect-95-699,west2386-std,concepticon-1678,7.13,jhaumpaṛī,hut,jhaumpari
+clics-doculect-95-700,west2386-std,concepticon-1678,7.13,kuṭīyā,hut,kutiya
+clics-doculect-95-701,west2386-std,concepticon-1316,7.14,tambū,tent,tambu
+clics-doculect-95-702,west2386-std,concepticon-736,7.15,daragāha,"yard, court",daragaha
+clics-doculect-95-703,west2386-std,concepticon-1450,7.21,kamarā,room,kamara
+clics-doculect-95-704,west2386-std,concepticon-1567,7.22,daravāzā,"door, gate",daravaza
+clics-doculect-95-705,west2386-std,concepticon-1567,7.22,buhā,"door, gate",buha
+clics-doculect-95-706,west2386-std,concepticon-1596,7.23,tālā,lock (noun),tala
+clics-doculect-95-707,west2386-std,concepticon-1472,7.24,cābī,key,cabi
+clics-doculect-95-708,west2386-std,concepticon-1472,7.24,kunjī,key,kunji
+clics-doculect-95-709,west2386-std,concepticon-1375,7.25,khiṛakī,window,khiraki
+clics-doculect-95-710,west2386-std,concepticon-1375,7.25,bārī,window,bari
+clics-doculect-95-711,west2386-std,concepticon-1632,7.26,pharaśa,floor,pharasa
+clics-doculect-95-712,west2386-std,concepticon-933,7.27,divāra,wall,divara
+clics-doculect-95-713,west2386-std,concepticon-933,7.27,kanda,wall,kanda
+clics-doculect-95-714,west2386-std,concepticon-185,7.31,aṅgīṭhī,fireplace,angithi
+clics-doculect-95-715,west2386-std,concepticon-859,7.32,culhā,stove,culha
+clics-doculect-95-716,west2386-std,concepticon-1305,7.33,cimanī,chimney,cimani
+clics-doculect-95-717,west2386-std,concepticon-1464,7.37,jīnā,ladder,jina
+clics-doculect-95-718,west2386-std,concepticon-1464,7.37,sīṛhī,ladder,sirhi
+clics-doculect-95-719,west2386-std,concepticon-1464,7.37,poḍī,ladder,podi
+clics-doculect-95-720,west2386-std,concepticon-1663,7.42,bisatara,bed,bisatara
+clics-doculect-95-721,west2386-std,concepticon-1663,7.42,manjī,bed,manji
+clics-doculect-95-722,west2386-std,concepticon-1044,7.421,sirahāṇā,pillow,sirahana
+clics-doculect-95-723,west2386-std,concepticon-1044,7.421,takiyā,pillow,takiya
+clics-doculect-95-724,west2386-std,concepticon-806,7.422,kambala,blanket,kambala
+clics-doculect-95-725,west2386-std,concepticon-806,7.422,cādara,blanket,cadara
+clics-doculect-95-726,west2386-std,concepticon-1476,7.43,kurasī,chair,kurasi
+clics-doculect-95-727,west2386-std,concepticon-1775,7.44,mēza,table,meza
+clics-doculect-95-728,west2386-std,concepticon-2131,7.45,dīvā,"lamp, torch",diva
+clics-doculect-95-729,west2386-std,concepticon-2131,7.45,battī,"lamp, torch",batti
+clics-doculect-95-730,west2386-std,concepticon-1273,7.46,mōmbattī,candle,mombatti
+clics-doculect-95-731,west2386-std,concepticon-769,7.51,chata,roof,chata
+clics-doculect-95-732,west2386-std,concepticon-279,7.52,ghāha phūsā,thatch,ghaha phusa
+clics-doculect-95-733,west2386-std,concepticon-1132,7.55,bīmā,beam,bima
+clics-doculect-95-734,west2386-std,concepticon-1132,7.55,śatīra,beam,satira
+clics-doculect-95-735,west2386-std,concepticon-281,7.56,khambā,"post, pole",khamba
+clics-doculect-95-736,west2386-std,concepticon-1227,7.57,phaṭā,board,phata
+clics-doculect-95-737,west2386-std,concepticon-876,7.58,kamānā,arch,kamana
+clics-doculect-95-738,west2386-std,concepticon-877,7.61,misatarī,mason,misatari
+clics-doculect-95-739,west2386-std,concepticon-1006,7.62,iṭa,brick,ita
+clics-doculect-95-740,west2386-std,concepticon-224,7.63,gārā,mortar,gara
+clics-doculect-95-741,west2386-std,concepticon-224,7.63,cimenṭa,mortar,cimenta
+clics-doculect-95-742,west2386-std,concepticon-979,8.11,kisāna,farmer,kisana
+clics-doculect-95-743,west2386-std,concepticon-212,8.12,khēta,field (for cultivation),kheta
+clics-doculect-95-744,west2386-std,concepticon-586,8.13,bāga,garden,baga
+clics-doculect-95-745,west2386-std,concepticon-586,8.13,bagīcā,garden,bagica
+clics-doculect-95-746,west2386-std,concepticon-1541,8.15,vahanā,"cultivate, till",vahana
+clics-doculect-95-747,west2386-std,concepticon-1690,8.16,vāṛa,fence,vara
+clics-doculect-95-748,west2386-std,concepticon-2002,8.17,khaḍā,ditch,khada
+clics-doculect-95-749,west2386-std,concepticon-1921,8.21,hala,plow,hala
+clics-doculect-95-750,west2386-std,concepticon-1418,8.22,khodana,dig,khodana
+clics-doculect-95-751,west2386-std,concepticon-1418,8.22,guḍana,dig,gudana
+clics-doculect-95-752,west2386-std,concepticon-1176,8.23,kahī,spade,kahi
+clics-doculect-95-753,west2386-std,concepticon-1176,8.23,kasī,spade,kasi
+clics-doculect-95-754,west2386-std,concepticon-1901,8.24,bēlacā,shovel,belaca
+clics-doculect-95-755,west2386-std,concepticon-284,8.25,kihī,hoe,kihi
+clics-doculect-95-756,west2386-std,concepticon-284,8.25,kahī,hoe,kahi
+clics-doculect-95-757,west2386-std,concepticon-337,8.26,kāṇṭā,fork,kanta
+clics-doculect-95-758,west2386-std,concepticon-1351,8.31,bījaṇā,sow,bijana
+clics-doculect-95-759,west2386-std,concepticon-714,8.311,bīja,seed,bija
+clics-doculect-95-760,west2386-std,concepticon-714,8.311,dāṇā,seed,dana
+clics-doculect-95-761,west2386-std,concepticon-2132,8.33,dātarī,"sickle, scythe",datari
+clics-doculect-95-762,west2386-std,concepticon-2132,8.33,dātī,"sickle, scythe",dati
+clics-doculect-95-763,west2386-std,concepticon-611,8.41,fasala,"crop, harvest",fasala
+clics-doculect-95-764,west2386-std,concepticon-605,8.42,dāṇā,"grain (barley, oats etc)",dana
+clics-doculect-95-765,west2386-std,concepticon-605,8.42,anāja,"grain (barley, oats etc)",anaja
+clics-doculect-95-766,west2386-std,concepticon-1077,8.43,kaṇaka,wheat,kanaka
+clics-doculect-95-767,west2386-std,concepticon-932,8.44,jauṁ,barley,jaum
+clics-doculect-95-768,west2386-std,concepticon-506,8.47,makī,"maize, corn",maki
+clics-doculect-95-769,west2386-std,concepticon-506,8.47,makai,"maize, corn",makai
+clics-doculect-95-770,west2386-std,concepticon-926,8.48,cāvala,rice,cavala
+clics-doculect-95-771,west2386-std,concepticon-926,8.48,cola,rice,cola
+clics-doculect-95-772,west2386-std,concepticon-606,8.51,ghāha,grass,ghaha
+clics-doculect-95-773,west2386-std,concepticon-342,8.52,phūsa,hay,phusa
+clics-doculect-95-774,west2386-std,concepticon-342,8.52,caṭhā,hay,catha
+clics-doculect-95-775,west2386-std,concepticon-653,8.53,paudā,plant (noun),pauda
+clics-doculect-95-776,west2386-std,concepticon-653,8.53,buṭā,plant (noun),buta
+clics-doculect-95-777,west2386-std,concepticon-1486,8.531,lagānā,plant (vb),lagana
+clics-doculect-95-778,west2386-std,concepticon-1486,8.531,lāṇā,plant (vb),lana
+clics-doculect-95-779,west2386-std,concepticon-670,8.54,mūlī,root,muli
+clics-doculect-95-780,west2386-std,concepticon-670,8.54,jaṛa,root,jara
+clics-doculect-95-781,west2386-std,concepticon-670,8.54,munḍa,root,munda
+clics-doculect-95-782,west2386-std,concepticon-1531,8.55,śāḵẖa,branch,sakha
+clics-doculect-95-783,west2386-std,concepticon-1531,8.55,ṭahiṇī,branch,tahini
+clics-doculect-95-784,west2386-std,concepticon-628,8.56,patā,leaf,pata
+clics-doculect-95-785,west2386-std,concepticon-239,8.57,phula,flower,phula
+clics-doculect-95-786,west2386-std,concepticon-906,8.6,pēṛa,tree,pera
+clics-doculect-95-787,west2386-std,concepticon-906,8.6,buṭā,tree,buta
+clics-doculect-95-788,west2386-std,concepticon-343,8.67,bēla,vine,bela
+clics-doculect-95-789,west2386-std,concepticon-343,8.67,vēla,vine,vela
+clics-doculect-95-790,west2386-std,concepticon-974,8.68,tambākū,tobacco,tambaku
+clics-doculect-95-791,west2386-std,concepticon-1689,8.69,pīṇā,smoke (tobacco),pina
+clics-doculect-95-792,west2386-std,concepticon-1689,8.69,tohānā,smoke (tobacco),tohana
+clics-doculect-95-793,west2386-std,concepticon-1124,8.691,paiypa,pipe,paiypa
+clics-doculect-95-794,west2386-std,concepticon-1124,8.691,muralī,pipe,murali
+clics-doculect-95-795,west2386-std,concepticon-1124,8.691,hukā,pipe,huka
+clics-doculect-95-796,west2386-std,concepticon-344,8.73,taṇā,tree trunk,tana
+clics-doculect-95-797,west2386-std,concepticon-1204,8.75,chilaṛa,bark,chilara
+clics-doculect-95-798,west2386-std,concepticon-970,8.82,nariyāla,coconut,nariyala
+clics-doculect-95-799,west2386-std,concepticon-970,8.82,khōpā,coconut,khopa
+clics-doculect-95-800,west2386-std,concepticon-868,8.84,kēlā,banana tree,kela
+clics-doculect-95-801,west2386-std,concepticon-346,8.85,pipala,banyan,pipala
+clics-doculect-95-802,west2386-std,concepticon-159,8.91,śakarkanjī,sweet potato,sakarkanji
+clics-doculect-95-803,west2386-std,concepticon-411,8.93,kadū,gourd,kadu
+clics-doculect-95-804,west2386-std,concepticon-864,8.931,kadū,"pumpkin, squash",kadu
+clics-doculect-95-805,west2386-std,concepticon-1927,8.94,bānsa,bamboo,bansa
+clics-doculect-95-806,west2386-std,concepticon-146,8.941,ganā,sugar cane,gana
+clics-doculect-95-807,west2386-std,concepticon-2575,9.11,karanā,"do, make",karana
+clics-doculect-95-808,west2386-std,concepticon-984,9.12,kāma kāja,work,kama kaja
+clics-doculect-95-809,west2386-std,concepticon-2004,9.14,jhukanā,bend,jhukana
+clics-doculect-95-810,west2386-std,concepticon-1470,9.15,samēṭaṇā,fold,sametana
+clics-doculect-95-811,west2386-std,concepticon-1470,9.15,tehakaranā,fold,tehakarana
+clics-doculect-95-812,west2386-std,concepticon-1917,9.16,bandhanā,"tie, bind",bandhana
+clics-doculect-95-813,west2386-std,concepticon-352,9.161,kholaṇā,untie,kholana
+clics-doculect-95-814,west2386-std,concepticon-1627,9.18,janjīra,chain,janjira
+clics-doculect-95-815,west2386-std,concepticon-1627,9.18,saṇgalī,chain,sangali
+clics-doculect-95-816,west2386-std,concepticon-1218,9.19,rasā,"rope, cord",rasa
+clics-doculect-95-817,west2386-std,concepticon-760,9.192,ganḍha,knot (noun),gandha
+clics-doculect-95-818,west2386-std,concepticon-760,9.192,ganḍa,knot (noun),ganda
+clics-doculect-95-819,west2386-std,concepticon-2133,9.21,vajāṇā,"strike (hit, beat)",vajana
+clics-doculect-95-820,west2386-std,concepticon-2133,9.21,mārnā,"strike (hit, beat)",marna
+clics-doculect-95-821,west2386-std,concepticon-354,9.211,ghōṭaṇā,pound with fist,ghotana
+clics-doculect-95-822,west2386-std,concepticon-1432,9.22,kapanā,cut,kapana
+clics-doculect-95-823,west2386-std,concepticon-1432,9.22,kaṭaṇā,cut,katana
+clics-doculect-95-824,west2386-std,concepticon-155,9.222,kutaranā,"chop, hew",kutarana
+clics-doculect-95-825,west2386-std,concepticon-1434,9.223,ghōpanā,stab,ghopana
+clics-doculect-95-826,west2386-std,concepticon-1352,9.23,cākū,knife,caku
+clics-doculect-95-827,west2386-std,concepticon-1352,9.23,churī,knife,churi
+clics-doculect-95-828,west2386-std,concepticon-356,9.24,kain̄cī,"scissors, shears",kainci
+clics-doculect-95-829,west2386-std,concepticon-677,9.25,kavādī,ax,kavadi
+clics-doculect-95-830,west2386-std,concepticon-677,9.25,kulhāṛī,ax,kulhari
+clics-doculect-95-831,west2386-std,concepticon-680,9.26,phōṛanā,break,phorana
+clics-doculect-95-832,west2386-std,concepticon-680,9.26,tōṛanā,break,torana
+clics-doculect-95-833,west2386-std,concepticon-1437,9.27,tōṛanā,split,torana
+clics-doculect-95-834,west2386-std,concepticon-1735,9.28,phāṛanā,tear,pharana
+clics-doculect-95-835,west2386-std,concepticon-291,9.29,camaṛā utāranā,"flay, skin",camara utarana
+clics-doculect-95-836,west2386-std,concepticon-291,9.29,khāla utāranā,"flay, skin",khala utarana
+clics-doculect-95-837,west2386-std,concepticon-1449,9.31,ragaṛanā,"rub, wipe",ragarana
+clics-doculect-95-838,west2386-std,concepticon-214,9.32,phailāṇā,stretch,phailana
+clics-doculect-95-839,west2386-std,concepticon-1455,9.33,chikaṇā,pull,chikana
+clics-doculect-95-840,west2386-std,concepticon-1913,9.342,dabaṇā,press,dabana
+clics-doculect-95-841,west2386-std,concepticon-1414,9.343,nicoṛanā,"squeeze, wring",nicorana
+clics-doculect-95-842,west2386-std,concepticon-1487,9.35,pauṇā,pour,pauna
+clics-doculect-95-843,west2386-std,concepticon-1453,9.36,dhōṇā,wash,dhona
+clics-doculect-95-844,west2386-std,concepticon-245,9.38,jhāṛū,broom,jharu
+clics-doculect-95-845,west2386-std,concepticon-1361,9.422,hathiara,tool,hathiara
+clics-doculect-95-846,west2386-std,concepticon-1042,9.43,tarakhāṇa,carpenter,tarakhana
+clics-doculect-95-847,west2386-std,concepticon-1042,9.43,bāḍhāi,carpenter,badhai
+clics-doculect-95-848,west2386-std,concepticon-1840,9.44,baṇāṇā,build,banana
+clics-doculect-95-849,west2386-std,concepticon-46,9.461,khōkhalā karanā,hollow out,khokhala karana
+clics-doculect-95-850,west2386-std,concepticon-1948,9.48,ārī,saw,ari
+clics-doculect-95-851,west2386-std,concepticon-1481,9.49,hathauṛā,hammer,hathaura
+clics-doculect-95-852,west2386-std,concepticon-502,9.5,kila,nail,kila
+clics-doculect-95-853,west2386-std,concepticon-1069,9.56,gūnda,glue,gunda
+clics-doculect-95-854,west2386-std,concepticon-1001,9.6,misatarī,"smith, blacksmith",misatari
+clics-doculect-95-855,west2386-std,concepticon-1001,9.6,luhāra,"smith, blacksmith",luhara
+clics-doculect-95-856,west2386-std,concepticon-288,9.61,baṭhī,forge,bathi
+clics-doculect-95-857,west2386-std,concepticon-288,9.61,bhaṭhī,forge,bhathi
+clics-doculect-95-858,west2386-std,concepticon-211,9.63,ṭālanā,cast (metals),talana
+clics-doculect-95-859,west2386-std,concepticon-1369,9.64,sōnā,gold,sona
+clics-doculect-95-860,west2386-std,concepticon-759,9.65,cāndī,silver,candi
+clics-doculect-95-861,west2386-std,concepticon-1825,9.66,tāmbā,"copper, bronze",tamba
+clics-doculect-95-862,west2386-std,concepticon-621,9.67,lōhā,iron,loha
+clics-doculect-95-863,west2386-std,concepticon-627,9.68,sikā,lead (noun),sika
+clics-doculect-95-864,west2386-std,concepticon-358,9.69,kalī,"tin, tinplate",kali
+clics-doculect-95-865,west2386-std,concepticon-359,9.71,kameyāra,potter,kameyara
+clics-doculect-95-866,west2386-std,concepticon-289,9.72,tālaṇa,mold (clay etc),talana
+clics-doculect-95-867,west2386-std,concepticon-1399,9.73,miṭī,clay,miti
+clics-doculect-95-868,west2386-std,concepticon-604,9.74,galāsa,glass,galasa
+clics-doculect-95-869,west2386-std,concepticon-604,9.74,śīśā,glass,sisa
+clics-doculect-95-870,west2386-std,concepticon-1729,9.75,bunṇā,"weave, plait",bunna
+clics-doculect-95-871,west2386-std,concepticon-1539,9.76,ṭokrī,basket,tokri
+clics-doculect-95-872,west2386-std,concepticon-195,9.77,tapaṛa,mat,tapara
+clics-doculect-95-873,west2386-std,concepticon-195,9.77,ṭāṭa,mat,tata
+clics-doculect-95-874,west2386-std,concepticon-292,9.771,kalīna,rug,kalina
+clics-doculect-95-875,west2386-std,concepticon-1971,9.79,jhalā,fan (noun),jhala
+clics-doculect-95-876,west2386-std,concepticon-1971,9.79,pukhā,fan (noun),pukha
+clics-doculect-95-877,west2386-std,concepticon-228,9.81,tarāśaṇā,carve,tarasana
+clics-doculect-95-878,west2386-std,concepticon-228,9.81,taropanā,carve,taropana
+clics-doculect-95-879,west2386-std,concepticon-1002,9.83,buta,statue,buta
+clics-doculect-95-880,west2386-std,concepticon-647,9.88,raṅga,paint (noun),ranga
+clics-doculect-95-881,west2386-std,concepticon-765,10.11,haṭānā,move,hatana
+clics-doculect-95-882,west2386-std,concepticon-765,10.11,halānā,move,halana
+clics-doculect-95-883,west2386-std,concepticon-1588,10.12,mōṛanā,turn over,morana
+clics-doculect-95-884,west2386-std,concepticon-1113,10.14,lapēṭanā,"wind, wrap",lapetana
+clics-doculect-95-885,west2386-std,concepticon-1113,10.14,ṭhapanā,"wind, wrap",thapana
+clics-doculect-95-886,west2386-std,concepticon-827,10.15,gasīṭanā,roll,gasitana
+clics-doculect-95-887,west2386-std,concepticon-827,10.15,marōṛanā,roll,marorana
+clics-doculect-95-888,west2386-std,concepticon-808,10.16,ḍiganā,drop (vb),digana
+clics-doculect-95-889,west2386-std,concepticon-808,10.16,saṭanā,drop (vb),satana
+clics-doculect-95-890,west2386-std,concepticon-430,10.17,vaṭaṇā,twist,vatana
+clics-doculect-95-891,west2386-std,concepticon-430,10.17,maroṛanā,twist,marorana
+clics-doculect-95-892,west2386-std,concepticon-568,10.21,uṭhanā,rise,uthana
+clics-doculect-95-893,west2386-std,concepticon-501,10.22,uṭhālaṇā,"raise, lift",uthalana
+clics-doculect-95-894,west2386-std,concepticon-1280,10.23,giranā,fall,girana
+clics-doculect-95-895,west2386-std,concepticon-1280,10.23,ṭaiṇā,fall,taina
+clics-doculect-95-896,west2386-std,concepticon-2253,10.24,ṭapakanā,drip,tapakana
+clics-doculect-95-897,west2386-std,concepticon-1456,10.25,suṭaṇā,throw,sutana
+clics-doculect-95-898,west2386-std,concepticon-702,10.252,phaṛanā,catch (ball),pharana
+clics-doculect-95-899,west2386-std,concepticon-1909,10.26,halānā,shake,halana
+clics-doculect-95-900,west2386-std,concepticon-2003,10.32,vagāṇā,flow,vagana
+clics-doculect-95-901,west2386-std,concepticon-1088,10.33,ḍubaṇā,sink,dubana
+clics-doculect-95-902,west2386-std,concepticon-1574,10.34,taranā,float,tarana
+clics-doculect-95-903,west2386-std,concepticon-1439,10.35,taeranā,swim,taerana
+clics-doculect-95-904,west2386-std,concepticon-119,10.351,cubhī karanā,dive,cubhi karana
+clics-doculect-95-905,west2386-std,concepticon-365,10.352,chiṛakaṇā,splash,chirakana
+clics-doculect-95-906,west2386-std,concepticon-365,10.352,suṭanā,splash,sutana
+clics-doculect-95-907,west2386-std,concepticon-787,10.36,taranā,sail (vb),tarana
+clics-doculect-95-908,west2386-std,concepticon-1441,10.37,uḍanā,fly (vb),udana
+clics-doculect-95-909,west2386-std,concepticon-175,10.38,caļaṇā,blow,calana
+clics-doculect-95-910,west2386-std,concepticon-96,10.41,rīṅgnā,"creep, crawl",ringna
+clics-doculect-95-911,west2386-std,concepticon-296,10.413,jhukanā,crouch,jhukana
+clics-doculect-95-912,west2386-std,concepticon-1324,10.42,tilakanā,"slide, slip",tilakana
+clics-doculect-95-913,west2386-std,concepticon-1829,10.43,uchalanā,"jump, leap",uchalana
+clics-doculect-95-914,west2386-std,concepticon-1135,10.431,ṭhokara māranā,kick,thokara marana
+clics-doculect-95-915,west2386-std,concepticon-1879,10.44,nacanā,dance,nacana
+clics-doculect-95-916,west2386-std,concepticon-1443,10.45,calanā,walk,calana
+clics-doculect-95-917,west2386-std,concepticon-1443,10.45,ṭuranā,walk,turana
+clics-doculect-95-918,west2386-std,concepticon-366,10.451,laṅgaṛānā,limp,langarana
+clics-doculect-95-919,west2386-std,concepticon-1519,10.46,nasaṇā,run,nasana
+clics-doculect-95-920,west2386-std,concepticon-695,10.47,jāṇā,go,jana
+clics-doculect-95-921,west2386-std,concepticon-1102,10.472,caṛhanā,climb,carhana
+clics-doculect-95-922,west2386-std,concepticon-1446,10.48,āṅā,come,ana
+clics-doculect-95-923,west2386-std,concepticon-581,10.481,paratanā,come back,paratana
+clics-doculect-95-924,west2386-std,concepticon-1752,10.49,nikalaṇā,"go away, depart",nikalana
+clics-doculect-95-925,west2386-std,concepticon-485,10.491,gāeba honā,disappear,gaeba hona
+clics-doculect-95-926,west2386-std,concepticon-956,10.51,nasaṇā,flee,nasana
+clics-doculect-95-927,west2386-std,concepticon-956,10.51,naṭhaṇā,flee,nathana
+clics-doculect-95-928,west2386-std,concepticon-1085,10.52,picchā karanā,follow,piccha karana
+clics-doculect-95-929,west2386-std,concepticon-1387,10.55,pahucaṇā,"reach, arrive",pahucana
+clics-doculect-95-930,west2386-std,concepticon-1778,10.56,ṭukanā,approach,tukana
+clics-doculect-95-931,west2386-std,concepticon-1778,10.56,ḍhukanā,approach,dhukana
+clics-doculect-95-932,west2386-std,concepticon-749,10.57,varṇā,enter,varna
+clics-doculect-95-933,west2386-std,concepticon-692,10.62,liyaṇā,bring,liyana
+clics-doculect-95-934,west2386-std,concepticon-1127,10.63,bhējaṇā,send,bhejana
+clics-doculect-95-935,west2386-std,concepticon-741,10.65,calāṇā,drive,calana
+clics-doculect-95-936,west2386-std,concepticon-367,10.66,caṛhanā,ride,carhana
+clics-doculect-95-937,west2386-std,concepticon-1452,10.67,dhasanā,"push, shove",dhasana
+clics-doculect-95-938,west2386-std,concepticon-1452,10.67,dakēlanā,"push, shove",dakelana
+clics-doculect-95-939,west2386-std,concepticon-667,10.71,rasatā,road,rasata
+clics-doculect-95-940,west2386-std,concepticon-2252,10.72,rāha,path,raha
+clics-doculect-95-941,west2386-std,concepticon-2252,10.72,rā,path,ra
+clics-doculect-95-942,west2386-std,concepticon-1011,10.74,pula,bridge,pula
+clics-doculect-95-943,west2386-std,concepticon-122,10.75,gaḍī,"carriage, wagon, cart",gadi
+clics-doculect-95-944,west2386-std,concepticon-122,10.75,gaddī,"carriage, wagon, cart",gaddi
+clics-doculect-95-945,west2386-std,concepticon-710,10.76,cakā,wheel,caka
+clics-doculect-95-946,west2386-std,concepticon-1769,10.77,dhura,axle,dhura
+clics-doculect-95-947,west2386-std,concepticon-1769,10.77,turnā,axle,turna
+clics-doculect-95-948,west2386-std,concepticon-740,10.81,jahāja,ship,jahaja
+clics-doculect-95-949,west2386-std,concepticon-1844,10.83,nāva,boat,nava
+clics-doculect-95-950,west2386-std,concepticon-1844,10.83,kaśatī,boat,kasati
+clics-doculect-95-951,west2386-std,concepticon-1970,10.831,bēṛī,canoe,beri
+clics-doculect-95-952,west2386-std,concepticon-1664,10.84,bēṛā,raft,bera
+clics-doculect-95-953,west2386-std,concepticon-1849,10.852,calānā,row (vb),calana
+clics-doculect-95-954,west2386-std,concepticon-1870,10.89,laṅgara,anchor,langara
+clics-doculect-95-955,west2386-std,concepticon-610,10.91,bandaragāha,"harbor, port",bandaragaha
+clics-doculect-95-956,west2386-std,concepticon-1922,10.92,poucanā,land (vb),poucana
+clics-doculect-95-957,west2386-std,concepticon-684,11.12,āpaṇānānā,"own, possess",apananana
+clics-doculect-95-958,west2386-std,concepticon-1749,11.13,lainā,take,laina
+clics-doculect-95-959,west2386-std,concepticon-2021,11.14,pharaṇā,"seize, grasp",pharana
+clics-doculect-95-960,west2386-std,concepticon-1448,11.15,pharaṇā,hold,pharana
+clics-doculect-95-961,west2386-std,concepticon-694,11.16,lainā,"get, obtain",laina
+clics-doculect-95-962,west2386-std,concepticon-1477,11.17,rakhaṇā,"keep, retain",rakhana
+clics-doculect-95-963,west2386-std,concepticon-738,11.18,cīza,thing,ciza
+clics-doculect-95-964,west2386-std,concepticon-1447,11.21,dēṇā,give,dena
+clics-doculect-95-965,west2386-std,concepticon-1997,11.24,rakhaṇā,"preserve, look after",rakhana
+clics-doculect-95-966,west2386-std,concepticon-2008,11.25,bacāṇā,"save, rescue",bacana
+clics-doculect-95-967,west2386-std,concepticon-681,11.27,ujāṛanā,destroy,ujarana
+clics-doculect-95-968,west2386-std,concepticon-1468,11.31,dēkhaṇā,"seek, look for",dekhana
+clics-doculect-95-969,west2386-std,concepticon-1468,11.31,ṭūṇaḍanā,"seek, look for",tunadana
+clics-doculect-95-970,west2386-std,concepticon-719,11.32,labhaṇā,find,labhana
+clics-doculect-95-971,west2386-std,concepticon-1660,11.33,khoṇā,lose,khona
+clics-doculect-95-972,west2386-std,concepticon-1660,11.33,guacaṇā,lose,guacana
+clics-doculect-95-973,west2386-std,concepticon-1095,11.34,chaḍanā,"release, let go",chadana
+clics-doculect-95-974,west2386-std,concepticon-1559,11.43,paisā,money,paisa
+clics-doculect-95-975,west2386-std,concepticon-1867,11.44,pāṇa,coin,pana
+clics-doculect-95-976,west2386-std,concepticon-712,11.51,amīra,rich,amira
+clics-doculect-95-977,west2386-std,concepticon-1674,11.52,ġarība,poor,gariba
+clics-doculect-95-978,west2386-std,concepticon-1934,11.53,bhikhārī,beggar,bhikhari
+clics-doculect-95-979,west2386-std,concepticon-1934,11.53,fakīra,beggar,fakira
+clics-doculect-95-980,west2386-std,concepticon-1774,11.54,kanjūsa,"avaricious, stingy",kanjusa
+clics-doculect-95-981,west2386-std,concepticon-582,11.61,dēṇā,lend,dena
+clics-doculect-95-982,west2386-std,concepticon-1823,11.62,lēṇā,borrow,lena
+clics-doculect-95-983,west2386-std,concepticon-1823,11.62,maṅgaṇā,borrow,mangana
+clics-doculect-95-984,west2386-std,concepticon-1914,11.64,karzā,debt,karza
+clics-doculect-95-985,west2386-std,concepticon-718,11.65,tāranā,pay (vb),tarana
+clics-doculect-95-986,west2386-std,concepticon-1081,11.66,ciṭhā,"account, reckoning",citha
+clics-doculect-95-987,west2386-std,concepticon-873,11.69,taks,"tax, tribute",taks
+clics-doculect-95-988,west2386-std,concepticon-873,11.69,kara,"tax, tribute",kara
+clics-doculect-95-989,west2386-std,concepticon-856,11.77,udāra lēṇā,hire,udara lena
+clics-doculect-95-990,west2386-std,concepticon-1122,11.78,mazadūrī,wages,mazaduri
+clics-doculect-95-991,west2386-std,concepticon-733,11.79,kamāṇā,earn,kamana
+clics-doculect-95-992,west2386-std,concepticon-1869,11.81,kharīdanā,buy,kharidana
+clics-doculect-95-993,west2386-std,concepticon-1571,11.82,vēcanā,sell,vecana
+clics-doculect-95-994,west2386-std,concepticon-2135,11.83,saudā,"trade, barter",sauda
+clics-doculect-95-995,west2386-std,concepticon-1082,11.84,vapārī,merchant,vapari
+clics-doculect-95-996,west2386-std,concepticon-1082,11.84,bapārī,merchant,bapari
+clics-doculect-95-997,west2386-std,concepticon-633,11.85,bazāra,market (place),bazara
+clics-doculect-95-998,west2386-std,concepticon-752,11.86,dukāṇa,"store, shop",dukana
+clics-doculect-95-999,west2386-std,concepticon-657,11.87,kīmata,price,kimata
+clics-doculect-95-1000,west2386-std,concepticon-1426,11.88,mehaṅgā,"dear (costly, expensive)",mehanga
+clics-doculect-95-1001,west2386-std,concepticon-1887,11.89,sastā,cheap,sasta
+clics-doculect-95-1002,west2386-std,concepticon-884,11.91,vanḍanā,share (distribute),vandana
+clics-doculect-95-1003,west2386-std,concepticon-1098,11.92,miṇanā,weigh,minana
+clics-doculect-95-1004,west2386-std,concepticon-723,12.11,jagā,place,jaga
+clics-doculect-95-1005,west2386-std,concepticon-998,12.12,rakhaṇā,put,rakhana
+clics-doculect-95-1006,west2386-std,concepticon-1416,12.13,beṇā,sit,bena
+clics-doculect-95-1007,west2386-std,concepticon-215,12.14,lēṭanā,lie down,letana
+clics-doculect-95-1008,west2386-std,concepticon-1442,12.15,khaloṇā,stand,khalona
+clics-doculect-95-1009,west2386-std,concepticon-987,12.16,raheṇā,"remain, stay",rahena
+clics-doculect-95-1010,west2386-std,concepticon-838,12.17,avaśēśa,"remains, left overs",avasesa
+clics-doculect-95-1011,west2386-std,concepticon-838,12.17,bākī,"remains, left overs",baki
+clics-doculect-95-1012,west2386-std,concepticon-7,12.21,kaṭhē karanā,"collect, gather",kathe karana
+clics-doculect-95-1013,west2386-std,concepticon-371,12.212,cuṇanā,pick up,cunana
+clics-doculect-95-1014,west2386-std,concepticon-1576,12.213,joṛanā,pile up,jorana
+clics-doculect-95-1015,west2386-std,concepticon-1743,12.22,joṛanā,"join, unite",jorana
+clics-doculect-95-1016,west2386-std,concepticon-1359,12.23,vaḍīṇā,separate,vadina
+clics-doculect-95-1017,west2386-std,concepticon-1359,12.23,vakhareyān karanā,separate,vakhareyan karana
+clics-doculect-95-1018,west2386-std,concepticon-1156,12.24,kholanā,open,kholana
+clics-doculect-95-1019,west2386-std,concepticon-1046,12.25,banda karanā,"shut, close",banda karana
+clics-doculect-95-1020,west2386-std,concepticon-761,12.26,ḍhākṇā,cover,dhakna
+clics-doculect-95-1021,west2386-std,concepticon-761,12.26,ṭākaṇā,cover,takana
+clics-doculect-95-1022,west2386-std,concepticon-602,12.27,lukānā,"hide, conceal",lukana
+clics-doculect-95-1023,west2386-std,concepticon-1265,12.31,ucā,high,uca
+clics-doculect-95-1024,west2386-std,concepticon-721,12.32,niccā,low,nicca
+clics-doculect-95-1025,west2386-std,concepticon-1753,12.33,cōṭī,top,coti
+clics-doculect-95-1026,west2386-std,concepticon-742,12.35,akhīra,end,akhira
+clics-doculect-95-1027,west2386-std,concepticon-372,12.352,nokīlā,pointed,nokila
+clics-doculect-95-1028,west2386-std,concepticon-863,12.353,kinārā,edge,kinara
+clics-doculect-95-1029,west2386-std,concepticon-682,12.36,tarphā,side,tarpha
+clics-doculect-95-1030,west2386-std,concepticon-1093,12.37,darmiyāna,"middle, center",darmiyana
+clics-doculect-95-1031,west2386-std,concepticon-1019,12.41,siddā,right (side),sidda
+clics-doculect-95-1032,west2386-std,concepticon-244,12.42,putḥā,left (side),putha
+clics-doculect-95-1033,west2386-std,concepticon-1942,12.43,nēṛē,near (adv),nere
+clics-doculect-95-1034,west2386-std,concepticon-1406,12.44,dūra,far (adv),dura
+clics-doculect-95-1035,west2386-std,concepticon-1877,12.45,caṛdē,east,carde
+clics-doculect-95-1036,west2386-std,concepticon-1877,12.45,pūraba,east,puraba
+clics-doculect-95-1037,west2386-std,concepticon-1817,12.46,lendē,west,lende
+clics-doculect-95-1038,west2386-std,concepticon-1817,12.46,pachama,west,pachama
+clics-doculect-95-1039,west2386-std,concepticon-1598,12.47,parbata,north,parbata
+clics-doculect-95-1040,west2386-std,concepticon-1595,12.48,dakhaṇa,south,dakhana
+clics-doculect-95-1041,west2386-std,concepticon-479,12.53,ugāuṇā,grow,ugauna
+clics-doculect-95-1042,west2386-std,concepticon-479,12.53,lāṇā,grow,lana
+clics-doculect-95-1043,west2386-std,concepticon-1506,12.54,menaṇā,measure,menana
+clics-doculect-95-1044,west2386-std,concepticon-1202,12.55,baṛā,"large, big",bara
+clics-doculect-95-1045,west2386-std,concepticon-1202,12.55,vaḍḍā,"large, big",vadda
+clics-doculect-95-1046,west2386-std,concepticon-1246,12.56,chōṭē,"small, little",chote
+clics-doculect-95-1047,west2386-std,concepticon-1246,12.56,nikkā,"small, little",nikka
+clics-doculect-95-1048,west2386-std,concepticon-1203,12.57,labā,long,laba
+clics-doculect-95-1049,west2386-std,concepticon-1203,12.57,lammā,long,lamma
+clics-doculect-95-1050,west2386-std,concepticon-711,12.58,javāna,tall,javana
+clics-doculect-95-1051,west2386-std,concepticon-711,12.58,lammā,tall,lamma
+clics-doculect-95-1052,west2386-std,concepticon-1645,12.59,nikā,short,nika
+clics-doculect-95-1053,west2386-std,concepticon-1645,12.59,choṭā,short,chota
+clics-doculect-95-1054,west2386-std,concepticon-1243,12.61,cauṛī,"wide, broad",cauri
+clics-doculect-95-1055,west2386-std,concepticon-1243,12.61,choṛā,"wide, broad",chora
+clics-doculect-95-1056,west2386-std,concepticon-1267,12.62,taṅga,narrow,tanga
+clics-doculect-95-1057,west2386-std,concepticon-1244,12.63,mōṭī,thick (in dimension),moti
+clics-doculect-95-1058,west2386-std,concepticon-1244,12.63,mōṭā,thick (in dimension),mota
+clics-doculect-95-1059,west2386-std,concepticon-2249,12.65,patalī,thin (in dimension),patali
+clics-doculect-95-1060,west2386-std,concepticon-2249,12.65,patalā,thin (in dimension),patala
+clics-doculect-95-1061,west2386-std,concepticon-1593,12.67,gahirē,deep,gahire
+clics-doculect-95-1062,west2386-std,concepticon-1593,12.67,dhuṅgā,deep,dhunga
+clics-doculect-95-1063,west2386-std,concepticon-1633,12.71,samatala,flat,samatala
+clics-doculect-95-1064,west2386-std,concepticon-1633,12.71,barābara,flat,barabara
+clics-doculect-95-1065,west2386-std,concepticon-1404,12.73,sarala,straight,sarala
+clics-doculect-95-1066,west2386-std,concepticon-1404,12.73,siddā,straight,sidda
+clics-doculect-95-1067,west2386-std,concepticon-192,12.76,konā,corner,kona
+clics-doculect-95-1068,west2386-std,concepticon-850,12.78,caurasa,square,caurasa
+clics-doculect-95-1069,west2386-std,concepticon-1395,12.81,gōla,round,gola
+clics-doculect-95-1070,west2386-std,concepticon-1467,12.82,dairā,circle,daira
+clics-doculect-95-1071,west2386-std,concepticon-1845,12.83,gēnda,"sphere, ball",genda
+clics-doculect-95-1072,west2386-std,concepticon-1048,12.84,āla,line,ala
+clics-doculect-95-1073,west2386-std,concepticon-1048,12.84,lakīra,line,lakira
+clics-doculect-95-1074,west2386-std,concepticon-1048,12.84,līka,line,lika
+clics-doculect-95-1075,west2386-std,concepticon-1667,12.85,bila,hole,bila
+clics-doculect-95-1076,west2386-std,concepticon-1667,12.85,mōrī,hole,mori
+clics-doculect-95-1077,west2386-std,concepticon-1558,12.92,ikōjē,"like, similar",ikoje
+clics-doculect-95-1078,west2386-std,concepticon-1264,12.93,badalanā,change,badalana
+clics-doculect-95-1079,west2386-std,concepticon-1493,13.1,dasa,one,dasa
+clics-doculect-95-1080,west2386-std,concepticon-1706,13.101,giārāna,eleven,giarana
+clics-doculect-95-1081,west2386-std,concepticon-1707,13.102,bārhāna,twelve,barhana
+clics-doculect-95-1082,west2386-std,concepticon-1709,13.103,padarāna,fifteen,padarana
+clics-doculect-95-1083,west2386-std,concepticon-1710,13.104,vīha,twenty,viha
+clics-doculect-95-1084,west2386-std,concepticon-1710,13.104,vī,twenty,vi
+clics-doculect-95-1085,west2386-std,concepticon-1634,13.105,sau,hundred,sau
+clics-doculect-95-1086,west2386-std,concepticon-1634,13.105,sō,hundred,so
+clics-doculect-95-1087,west2386-std,concepticon-1843,13.106,hazāra,thousand,hazara
+clics-doculect-95-1088,west2386-std,concepticon-1420,13.107,giṇanā,count,ginana
+clics-doculect-95-1089,west2386-std,concepticon-98,13.14,pūrā,"every, all",pura
+clics-doculect-95-1090,west2386-std,concepticon-1198,13.15,anēka,"much, many",aneka
+clics-doculect-95-1091,west2386-std,concepticon-1198,13.15,bhotē,"much, many",bhote
+clics-doculect-95-1092,west2386-std,concepticon-1992,13.16,adhika,more,adhika
+clics-doculect-95-1093,west2386-std,concepticon-1992,13.16,zyādā,more,zyada
+clics-doculect-95-1094,west2386-std,concepticon-1242,13.17,kujha,"little (quantity), few",kujha
+clics-doculect-95-1095,west2386-std,concepticon-1242,13.17,ṭhoṛe,"little (quantity), few",thore
+clics-doculect-95-1096,west2386-std,concepticon-1881,13.18,kāfī,enough,kafi
+clics-doculect-95-1097,west2386-std,concepticon-1241,13.181,canda,some,canda
+clics-doculect-95-1098,west2386-std,concepticon-2023,13.19,bhīṛa,"multitude, crowd",bhira
+clics-doculect-95-1099,west2386-std,concepticon-2023,13.19,pīṛa,"multitude, crowd",pira
+clics-doculect-95-1100,west2386-std,concepticon-1429,13.21,pure,full,pure
+clics-doculect-95-1101,west2386-std,concepticon-1624,13.22,khālī,empty,khali
+clics-doculect-95-1102,west2386-std,concepticon-779,13.23,vichaṛa,"part, piece",vichara
+clics-doculect-95-1103,west2386-std,concepticon-779,13.23,hissā,"part, piece",hissa
+clics-doculect-95-1104,west2386-std,concepticon-816,13.24,adhē,half,adhe
+clics-doculect-95-1105,west2386-std,concepticon-816,13.24,addā,half,adda
+clics-doculect-95-1106,west2386-std,concepticon-1580,13.33,ikalā,"alone, only",ikala
+clics-doculect-95-1107,west2386-std,concepticon-1580,13.33,sirf,"alone, only",sirf
+clics-doculect-95-1108,west2386-std,concepticon-728,13.34,pahilē,first,pahile
+clics-doculect-95-1109,west2386-std,concepticon-728,13.34,paillā,first,pailla
+clics-doculect-95-1110,west2386-std,concepticon-1529,13.35,ākhrī,last,akhri
+clics-doculect-95-1111,west2386-std,concepticon-1384,13.36,dūsarī,second,dusari
+clics-doculect-95-1112,west2386-std,concepticon-1384,13.36,dūsarā,second,dusara
+clics-doculect-95-1113,west2386-std,concepticon-1888,13.37,juṭa,pair,juta
+clics-doculect-95-1114,west2386-std,concepticon-1888,13.37,joṛā,pair,jora
+clics-doculect-95-1115,west2386-std,concepticon-1546,13.38,dūṇā,two times,duna
+clics-doculect-95-1116,west2386-std,concepticon-1859,13.42,tījē,third,tije
+clics-doculect-95-1117,west2386-std,concepticon-417,13.44,tiguṇā,three times,tiguna
+clics-doculect-95-1118,west2386-std,concepticon-892,14.11,samāṁ,time,samam
+clics-doculect-95-1119,west2386-std,concepticon-892,14.11,vakata,time,vakata
+clics-doculect-95-1120,west2386-std,concepticon-892,14.11,velā,time,vela
+clics-doculect-95-1121,west2386-std,concepticon-1789,14.12,umara,age,umara
+clics-doculect-95-1122,west2386-std,concepticon-1231,14.13,navāṁ,new,navam
+clics-doculect-95-1123,west2386-std,concepticon-1207,14.14,javāna,young,javana
+clics-doculect-95-1124,west2386-std,concepticon-1229,14.15,buḍḍā,old,budda
+clics-doculect-95-1125,west2386-std,concepticon-672,14.16,jaldī,early,jaldi
+clics-doculect-95-1126,west2386-std,concepticon-477,14.17,cirakē,late,cirake
+clics-doculect-95-1127,west2386-std,concepticon-1376,14.18,huṇa,now,huna
+clics-doculect-95-1128,west2386-std,concepticon-1963,14.19,paṭa,immediately,pata
+clics-doculect-95-1129,west2386-std,concepticon-1963,14.19,jhaṭa paṭa,immediately,jhata pata
+clics-doculect-95-1130,west2386-std,concepticon-1631,14.21,tēza,"swift, fast, quick",teza
+clics-doculect-95-1131,west2386-std,concepticon-701,14.22,hauļī,slow,hauli
+clics-doculect-95-1132,west2386-std,concepticon-754,14.23,chētī,"hasten, hurry",cheti
+clics-doculect-95-1133,west2386-std,concepticon-1806,14.25,śuru karanā,"begin, beginning",suru karana
+clics-doculect-95-1134,west2386-std,concepticon-1186,14.252,reheṇā,"last, endure",rehena
+clics-doculect-95-1135,west2386-std,concepticon-743,14.26,akhīra,end (temporal),akhira
+clics-doculect-95-1136,west2386-std,concepticon-1766,14.27,mukaṇā,finish,mukana
+clics-doculect-95-1137,west2386-std,concepticon-1928,14.28,banda hoṇā,"cease, stop",banda hona
+clics-doculect-95-1138,west2386-std,concepticon-790,14.29,tiyāra,ready,tiyara
+clics-doculect-95-1139,west2386-std,concepticon-1676,14.31,hamēśā,always,hamesa
+clics-doculect-95-1140,west2386-std,concepticon-1852,14.32,akasara,often,akasara
+clics-doculect-95-1141,west2386-std,concepticon-1544,14.33,kadī,sometimes,kadi
+clics-doculect-95-1142,west2386-std,concepticon-703,14.331,jaladī,soon,jaladi
+clics-doculect-95-1143,west2386-std,concepticon-1656,14.34,kadi nahina,never,kadi nahina
+clics-doculect-95-1144,west2386-std,concepticon-204,14.35,dōbārā,again,dobara
+clics-doculect-95-1145,west2386-std,concepticon-1225,14.41,dihāṛā,day,dihara
+clics-doculect-95-1146,west2386-std,concepticon-1233,14.42,rāta,night,rata
+clics-doculect-95-1147,west2386-std,concepticon-729,14.43,savēra,dawn,savera
+clics-doculect-95-1148,west2386-std,concepticon-1339,14.44,savēra,morning,savera
+clics-doculect-95-1149,west2386-std,concepticon-12,14.45,dupahira,"noon, midday",dupahira
+clics-doculect-95-1150,west2386-std,concepticon-1807,14.451,dupahira,afternoon,dupahira
+clics-doculect-95-1151,west2386-std,concepticon-1807,14.451,duphahere,afternoon,duphahere
+clics-doculect-95-1152,west2386-std,concepticon-1629,14.46,sān̄jha,evening,sanjha
+clics-doculect-95-1153,west2386-std,concepticon-1629,14.46,śāmī,evening,sami
+clics-doculect-95-1154,west2386-std,concepticon-1283,14.47,aja,today,aja
+clics-doculect-95-1155,west2386-std,concepticon-1329,14.48,kala,tomorrow,kala
+clics-doculect-95-1156,west2386-std,concepticon-1174,14.49,kala,yesterday,kala
+clics-doculect-95-1157,west2386-std,concepticon-1180,14.491,parasōna,day-before-yesterday,parasona
+clics-doculect-95-1158,west2386-std,concepticon-1353,14.51,ghanṭā,hour,ghanta
+clics-doculect-95-1159,west2386-std,concepticon-1353,14.51,kenṭā,hour,kenta
+clics-doculect-95-1160,west2386-std,concepticon-1323,14.53,ghaṛī,"clock, timepiece",ghari
+clics-doculect-95-1161,west2386-std,concepticon-1323,14.53,kaṛī,"clock, timepiece",kari
+clics-doculect-95-1162,west2386-std,concepticon-1469,14.61,hafatā,week,hafata
+clics-doculect-95-1163,west2386-std,concepticon-1469,14.61,sapatāha,week,sapataha
+clics-doculect-95-1164,west2386-std,concepticon-1699,14.62,ravīvāra,Sunday,ravivara
+clics-doculect-95-1165,west2386-std,concepticon-1697,14.63,sōmavāra,Monday,somavara
+clics-doculect-95-1166,west2386-std,concepticon-1695,14.64,maṅgalavāra,Tuesday,mangalavara
+clics-doculect-95-1167,west2386-std,concepticon-1694,14.65,budhavāra,Wednesday,budhavara
+clics-doculect-95-1168,west2386-std,concepticon-1693,14.66,vīravāra,Thursday,viravara
+clics-doculect-95-1169,west2386-std,concepticon-1692,14.67,śukaravāra,Friday,sukaravara
+clics-doculect-95-1170,west2386-std,concepticon-1700,14.68,śanīvāra,Saturday,sanivara
+clics-doculect-95-1171,west2386-std,concepticon-1370,14.71,mahīnā,month,mahina
+clics-doculect-95-1172,west2386-std,concepticon-1226,14.73,sāla,year,sala
+clics-doculect-95-1173,west2386-std,concepticon-1471,14.74,saradī,winter,saradi
+clics-doculect-95-1174,west2386-std,concepticon-1537,14.75,bahāra,spring,bahara
+clics-doculect-95-1175,west2386-std,concepticon-1537,14.75,bāra,spring,bara
+clics-doculect-95-1176,west2386-std,concepticon-1342,14.76,garamī,summer,garami
+clics-doculect-95-1177,west2386-std,concepticon-1276,14.77,patajhaṛa,autumn,patajhara
+clics-doculect-95-1178,west2386-std,concepticon-691,14.78,ruta,season,ruta
+clics-doculect-95-1179,west2386-std,concepticon-1587,15.21,khuśabu ānā̄,smell (vb intrans),khusabu ana
+clics-doculect-95-1180,west2386-std,concepticon-375,15.212,sughaṇā,sniff,sughana
+clics-doculect-95-1181,west2386-std,concepticon-1586,15.22,sughaṇā,smell (vb trans),sughana
+clics-doculect-95-1182,west2386-std,concepticon-376,15.25,khuśabūdāra,"fragrant, good smelling",khusabudara
+clics-doculect-95-1183,west2386-std,concepticon-42,15.26,badabū,"stinking, bad smelling",badabu
+clics-doculect-95-1184,west2386-std,concepticon-21,15.31,cakhaṇā,taste,cakhana
+clics-doculect-95-1185,west2386-std,concepticon-717,15.35,miṭhā,sweet,mitha
+clics-doculect-95-1186,west2386-std,concepticon-1091,15.36,namakīna,salty,namakina
+clics-doculect-95-1187,west2386-std,concepticon-887,15.37,kauṛā,bitter,kaura
+clics-doculect-95-1188,west2386-std,concepticon-1906,15.38,khaṭā,"acid, sour",khata
+clics-doculect-95-1189,west2386-std,concepticon-70,15.39,khārā,brackish,khara
+clics-doculect-95-1190,west2386-std,concepticon-1408,15.41,sunuāi denā,hear,sunuai dena
+clics-doculect-95-1191,west2386-std,concepticon-1408,15.41,sunuāIa ānā,hear,sunuaIa ana
+clics-doculect-95-1192,west2386-std,concepticon-1608,15.42,suṇanā,listen,sunana
+clics-doculect-95-1193,west2386-std,concepticon-1811,15.44,avāza,"sound, noise",avaza
+clics-doculect-95-1194,west2386-std,concepticon-1811,15.44,roļā,"sound, noise",rola
+clics-doculect-95-1195,west2386-std,concepticon-377,15.45,ucā,loud,uca
+clics-doculect-95-1196,west2386-std,concepticon-1314,15.46,śānta,"quiet, silence",santa
+clics-doculect-95-1197,west2386-std,concepticon-1314,15.46,khamōśa,"quiet, silence",khamosa
+clics-doculect-95-1198,west2386-std,concepticon-1409,15.51,dēkhanā,see,dekhana
+clics-doculect-95-1199,west2386-std,concepticon-1409,15.51,takāṇā,see,takana
+clics-doculect-95-1200,west2386-std,concepticon-1819,15.52,dēkhanā,"look, look at",dekhana
+clics-doculect-95-1201,west2386-std,concepticon-1039,15.55,dikhāṇā,show,dikhana
+clics-doculect-95-1202,west2386-std,concepticon-708,15.56,camakāṇā,shine,camakana
+clics-doculect-95-1203,west2386-std,concepticon-679,15.57,ujālā,bright,ujala
+clics-doculect-95-1204,west2386-std,concepticon-1613,15.61,raṅga,color,ranga
+clics-doculect-95-1205,west2386-std,concepticon-250,15.62,parakāśa,light (in color),parakasa
+clics-doculect-95-1206,west2386-std,concepticon-250,15.62,rośanī,light (in color),rosani
+clics-doculect-95-1207,west2386-std,concepticon-706,15.63,nerā,dark (in color),nera
+clics-doculect-95-1208,west2386-std,concepticon-1335,15.64,safaida,white,safaida
+clics-doculect-95-1209,west2386-std,concepticon-1335,15.64,chiṭṭā,white,chitta
+clics-doculect-95-1210,west2386-std,concepticon-163,15.65,kālā,black,kala
+clics-doculect-95-1211,west2386-std,concepticon-156,15.66,lāla,red,lala
+clics-doculect-95-1212,west2386-std,concepticon-156,15.66,ṣūhā,red,suha
+clics-doculect-95-1213,west2386-std,concepticon-837,15.67,nīlā,blue,nila
+clics-doculect-95-1214,west2386-std,concepticon-1425,15.68,harā,green,hara
+clics-doculect-95-1215,west2386-std,concepticon-1424,15.69,pīlā,yellow,pila
+clics-doculect-95-1216,west2386-std,concepticon-1892,15.71,chūhṇā,touch,chuhna
+clics-doculect-95-1217,west2386-std,concepticon-378,15.712,cunḍi māranā,pinch,cundi marana
+clics-doculect-95-1218,west2386-std,concepticon-1079,15.72,lagaṇā,feel,lagana
+clics-doculect-95-1219,west2386-std,concepticon-1884,15.74,mazabūta,hard,mazabuta
+clics-doculect-95-1220,west2386-std,concepticon-1884,15.74,saḵẖata,hard,sakhata
+clics-doculect-95-1221,west2386-std,concepticon-1884,15.74,ḍaḍā,hard,dada
+clics-doculect-95-1222,west2386-std,concepticon-1856,15.75,mulā'ima,soft,mula'ima
+clics-doculect-95-1223,west2386-std,concepticon-1856,15.75,polā,soft,pola
+clics-doculect-95-1224,west2386-std,concepticon-1923,15.76,rukhā,rough,rukha
+clics-doculect-95-1225,west2386-std,concepticon-1923,15.76,khurdarā,rough,khurdara
+clics-doculect-95-1226,west2386-std,concepticon-1234,15.77,mulāyama,smooth,mulayama
+clics-doculect-95-1227,west2386-std,concepticon-1396,15.78,tēza,sharp,teza
+clics-doculect-95-1228,west2386-std,concepticon-379,15.79,khar'havā,"blunt, dull",khar'hava
+clics-doculect-95-1229,west2386-std,concepticon-379,15.79,khunḍī,"blunt, dull",khundi
+clics-doculect-95-1230,west2386-std,concepticon-1210,15.81,vazanadāra,heavy,vazanadara
+clics-doculect-95-1231,west2386-std,concepticon-1210,15.81,bhārī,heavy,bhari
+clics-doculect-95-1232,west2386-std,concepticon-1210,15.81,pārī,heavy,pari
+clics-doculect-95-1233,west2386-std,concepticon-1052,15.82,halakā,light (in weight),halaka
+clics-doculect-95-1234,west2386-std,concepticon-1052,15.82,holā,light (in weight),hola
+clics-doculect-95-1235,west2386-std,concepticon-1726,15.83,gilē,"wet, damp",gile
+clics-doculect-95-1236,west2386-std,concepticon-1726,15.83,gilā,"wet, damp",gila
+clics-doculect-95-1237,west2386-std,concepticon-1398,15.84,sukā,dry,suka
+clics-doculect-95-1238,west2386-std,concepticon-1286,15.85,garama,hot,garama
+clics-doculect-95-1239,west2386-std,concepticon-1232,15.851,garama,warm,garama
+clics-doculect-95-1240,west2386-std,concepticon-1287,15.86,ṭhanḍa,cold,thanda
+clics-doculect-95-1241,west2386-std,concepticon-704,15.87,sutharā,clean,suthara
+clics-doculect-95-1242,west2386-std,concepticon-1230,15.88,mailā,"dirty, soiled",maila
+clics-doculect-95-1243,west2386-std,concepticon-380,15.89,jhuṛī,wrinkled,jhuri
+clics-doculect-95-1244,west2386-std,concepticon-380,15.89,vaṭa,wrinkled,vata
+clics-doculect-95-1245,west2386-std,concepticon-53,16.11,ātamā,"soul, spirit",atama
+clics-doculect-95-1246,west2386-std,concepticon-53,16.11,rūha,"soul, spirit",ruha
+clics-doculect-95-1247,west2386-std,concepticon-1572,16.15,hairāna,"surprised, astonished",hairana
+clics-doculect-95-1248,west2386-std,concepticon-720,16.18,khuśakisamatī,"good fortune, luck",khusakisamati
+clics-doculect-95-1249,west2386-std,concepticon-720,16.18,subhāga,"good fortune, luck",subhaga
+clics-doculect-95-1250,west2386-std,concepticon-56,16.19,badakisamatī,"misfortune, bad luck",badakisamati
+clics-doculect-95-1251,west2386-std,concepticon-1495,16.23,khuśa,"joyful, glad, happy",khusa
+clics-doculect-95-1252,west2386-std,concepticon-1355,16.25,hasnā,laugh,hasna
+clics-doculect-95-1253,west2386-std,concepticon-1451,16.251,musakarānā,smile,musakarana
+clics-doculect-95-1254,west2386-std,concepticon-1413,16.26,khēḍaṇā,play,khedana
+clics-doculect-95-1255,west2386-std,concepticon-923,16.27,prēma karanā,love,prema karana
+clics-doculect-95-1256,west2386-std,concepticon-578,16.29,cumī karanā,kiss,cumi karana
+clics-doculect-95-1257,west2386-std,concepticon-928,16.3,lipaṭanā,embrace,lipatana
+clics-doculect-95-1258,west2386-std,concepticon-1783,16.31,darada,pain,darada
+clics-doculect-95-1259,west2386-std,concepticon-1783,16.31,pīṛa,pain,pira
+clics-doculect-95-1260,west2386-std,concepticon-1668,16.32,darada,"grief, sorrow, sadness",darada
+clics-doculect-95-1261,west2386-std,concepticon-1668,16.32,dukha,"grief, sorrow, sadness",dukha
+clics-doculect-95-1262,west2386-std,concepticon-1000,16.33,bēcainī,"anxiety, worry",becaini
+clics-doculect-95-1263,west2386-std,concepticon-1875,16.34,pachatāṇā,"regret, be sorry",pachatana
+clics-doculect-95-1264,west2386-std,concepticon-1141,16.35,tarasa,pity,tarasa
+clics-doculect-95-1265,west2386-std,concepticon-1839,16.37,bilabilānā,"cry, weep",bilabilana
+clics-doculect-95-1266,west2386-std,concepticon-1839,16.37,rōṇā,"cry, weep",rona
+clics-doculect-95-1267,west2386-std,concepticon-1651,16.38,cīra,tear (noun),cira
+clics-doculect-95-1268,west2386-std,concepticon-1651,16.38,hanjū,tear (noun),hanju
+clics-doculect-95-1269,west2386-std,concepticon-716,16.39,rarahnā,groan,rarahna
+clics-doculect-95-1270,west2386-std,concepticon-1607,16.41,nafarata karanā,hate,nafarata karana
+clics-doculect-95-1271,west2386-std,concepticon-82,16.42,krōdha,anger,krodha
+clics-doculect-95-1272,west2386-std,concepticon-82,16.42,ghusā,anger,ghusa
+clics-doculect-95-1273,west2386-std,concepticon-40,16.44,jalana,"envy, jealousy",jalana
+clics-doculect-95-1274,west2386-std,concepticon-40,16.44,saṛanā,"envy, jealousy",sarana
+clics-doculect-95-1275,west2386-std,concepticon-1776,16.45,lāja,shame (noun),laja
+clics-doculect-95-1276,west2386-std,concepticon-1776,16.45,śarama,shame (noun),sarama
+clics-doculect-95-1277,west2386-std,concepticon-174,16.48,garūra,proud,garura
+clics-doculect-95-1278,west2386-std,concepticon-1779,16.51,himmata karanā,dare,himmata karana
+clics-doculect-95-1279,west2386-std,concepticon-3,16.52,sāhasī,brave,sahasi
+clics-doculect-95-1280,west2386-std,concepticon-3,16.52,niḍara,brave,nidara
+clics-doculect-95-1281,west2386-std,concepticon-781,16.53,ḍara,"fear, fright",dara
+clics-doculect-95-1282,west2386-std,concepticon-1810,16.54,ḵẖatarā,danger,khatara
+clics-doculect-95-1283,west2386-std,concepticon-1810,16.54,jōkhama,danger,jokhama
+clics-doculect-95-1284,west2386-std,concepticon-1784,16.62,cāhaṇā,"desire, want",cahana
+clics-doculect-95-1285,west2386-std,concepticon-1784,16.62,cāhaṇā,"desire, want",cahana
+clics-doculect-95-1286,west2386-std,concepticon-1750,16.622,cuṇanā,choose,cunana
+clics-doculect-95-1287,west2386-std,concepticon-1092,16.63,umīda karanā,hope,umida karana
+clics-doculect-95-1288,west2386-std,concepticon-1092,16.63,āsa lagānā,hope,asa lagana
+clics-doculect-95-1289,west2386-std,concepticon-100,16.65,vafādāra,faithful,vafadara
+clics-doculect-95-1290,west2386-std,concepticon-1657,16.66,sacī,true,saci
+clics-doculect-95-1291,west2386-std,concepticon-1657,16.66,sahī,true,sahi
+clics-doculect-95-1292,west2386-std,concepticon-601,16.67,cūṭha bolanā,"lie, tell lies",cutha bolana
+clics-doculect-95-1293,west2386-std,concepticon-13,16.68,dhōkhā,deceit,dhokha
+clics-doculect-95-1294,west2386-std,concepticon-13,16.68,tokhā,deceit,tokha
+clics-doculect-95-1295,west2386-std,concepticon-1528,16.69,māfī karanā,forgive,mafi karana
+clics-doculect-95-1296,west2386-std,concepticon-1035,16.71,achā,good,acha
+clics-doculect-95-1297,west2386-std,concepticon-1035,16.71,caṅgā,good,canga
+clics-doculect-95-1298,west2386-std,concepticon-1292,16.72,ḵẖarāba,bad,kharaba
+clics-doculect-95-1299,west2386-std,concepticon-1292,16.72,burā,bad,bura
+clics-doculect-95-1300,west2386-std,concepticon-1292,16.72,paiṛā,bad,paira
+clics-doculect-95-1301,west2386-std,concepticon-1725,16.73,sahī,"right, correct",sahi
+clics-doculect-95-1302,west2386-std,concepticon-1390,16.74,ġalata,wrong,galata
+clics-doculect-95-1303,west2386-std,concepticon-134,16.76,dōśa,fault,dosa
+clics-doculect-95-1304,west2386-std,concepticon-134,16.76,galatī,fault,galati
+clics-doculect-95-1305,west2386-std,concepticon-1293,16.77,ġalatī,"mistake, error",galati
+clics-doculect-95-1306,west2386-std,concepticon-381,16.78,dōśa,blame,dosa
+clics-doculect-95-1307,west2386-std,concepticon-1687,16.79,praśasā,praise,prasasa
+clics-doculect-95-1308,west2386-std,concepticon-1687,16.79,tarīfa,praise,tarifa
+clics-doculect-95-1309,west2386-std,concepticon-1427,16.81,ḵẖubasūrata,beautiful,khubasurata
+clics-doculect-95-1310,west2386-std,concepticon-1427,16.81,soṇā,beautiful,sona
+clics-doculect-95-1311,west2386-std,concepticon-1548,16.82,badasūrata,ugly,badasurata
+clics-doculect-95-1312,west2386-std,concepticon-2018,16.83,lōbhī,greedy,lobhi
+clics-doculect-95-1313,west2386-std,concepticon-2018,16.83,lālacī,greedy,lalaci
+clics-doculect-95-1314,west2386-std,concepticon-1310,16.84,calāka,clever,calaka
+clics-doculect-95-1315,west2386-std,concepticon-1310,16.84,huśiyāra,clever,husiyara
+clics-doculect-95-1316,west2386-std,concepticon-1562,17.11,dimāga,mind,dimaga
+clics-doculect-95-1317,west2386-std,concepticon-1415,17.13,socanā,think (= reflect),socana
+clics-doculect-95-1318,west2386-std,concepticon-1513,17.14,sōcanā,think (= be of the opinion),socana
+clics-doculect-95-1319,west2386-std,concepticon-1890,17.15,manaṇā,believe,manana
+clics-doculect-95-1320,west2386-std,concepticon-1536,17.16,samajhaṇā,understand,samajhana
+clics-doculect-95-1321,west2386-std,concepticon-1410,17.17,jāṇanā,know,janana
+clics-doculect-95-1322,west2386-std,concepticon-1932,17.171,bhāmpaṇā,guess,bhampana
+clics-doculect-95-1323,west2386-std,concepticon-1932,17.171,bujṇā,guess,bujna
+clics-doculect-95-1324,west2386-std,concepticon-1521,17.18,lagaṇā,seem,lagana
+clics-doculect-95-1325,west2386-std,concepticon-1609,17.19,khiyāla,"idea, notion",khiyala
+clics-doculect-95-1326,west2386-std,concepticon-1609,17.19,vicāra,"idea, notion",vicara
+clics-doculect-95-1327,west2386-std,concepticon-698,17.21,akalamada,wise,akalamada
+clics-doculect-95-1328,west2386-std,concepticon-1518,17.22,mūrakha,"foolish, stupid",murakha
+clics-doculect-95-1329,west2386-std,concepticon-1899,17.23,bāvarā,"insane, crazy",bavara
+clics-doculect-95-1330,west2386-std,concepticon-1899,17.23,paghala,"insane, crazy",paghala
+clics-doculect-95-1331,west2386-std,concepticon-504,17.24,sikhaṇā,learn,sikhana
+clics-doculect-95-1332,west2386-std,concepticon-1929,17.242,paṛhanā,study,parhana
+clics-doculect-95-1333,west2386-std,concepticon-709,17.25,paṛhānā,teach,parhana
+clics-doculect-95-1334,west2386-std,concepticon-753,17.26,śagirada,pupil,sagirada
+clics-doculect-95-1335,west2386-std,concepticon-753,17.26,vidiyārathī,pupil,vidiyarathi
+clics-doculect-95-1336,west2386-std,concepticon-1038,17.27,gurū,teacher,guru
+clics-doculect-95-1337,west2386-std,concepticon-673,17.28,pāṭhaśālā,school,pathasala
+clics-doculect-95-1338,west2386-std,concepticon-673,17.28,skūla,school,skula
+clics-doculect-95-1339,west2386-std,concepticon-707,17.31,simaranā,remember,simarana
+clics-doculect-95-1340,west2386-std,concepticon-707,17.31,yāda karaṇā,remember,yada karana
+clics-doculect-95-1341,west2386-std,concepticon-1523,17.32,bhulaṇā,forget,bhulana
+clics-doculect-95-1342,west2386-std,concepticon-1523,17.32,pulanā,forget,pulana
+clics-doculect-95-1343,west2386-std,concepticon-989,17.34,sāfa,"clear, plain",safa
+clics-doculect-95-1344,west2386-std,concepticon-1764,17.35,dundhalā,obscure,dundhala
+clics-doculect-95-1345,west2386-std,concepticon-1764,17.35,tundalā,obscure,tundala
+clics-doculect-95-1346,west2386-std,concepticon-1121,17.36,gupata,secret,gupata
+clics-doculect-95-1347,west2386-std,concepticon-1121,17.36,rāza,secret,raza
+clics-doculect-95-1348,west2386-std,concepticon-509,17.37,niśacita,"sure, certain",nisacita
+clics-doculect-95-1349,west2386-std,concepticon-509,17.37,pakā,"sure, certain",paka
+clics-doculect-95-1350,west2386-std,concepticon-1626,17.38,samajhāṇā,explain,samajhana
+clics-doculect-95-1351,west2386-std,concepticon-1162,17.41,makasada,"intention, purpose",makasada
+clics-doculect-95-1352,west2386-std,concepticon-1162,17.41,irādā,"intention, purpose",irada
+clics-doculect-95-1353,west2386-std,concepticon-860,17.42,āśakā,cause,asaka
+clics-doculect-95-1354,west2386-std,concepticon-860,17.42,vajā,cause,vaja
+clics-doculect-95-1355,west2386-std,concepticon-1308,17.43,śaka,doubt,saka
+clics-doculect-95-1356,west2386-std,concepticon-1841,17.44,śaka karanā,suspect,saka karana
+clics-doculect-95-1357,west2386-std,concepticon-1902,17.441,tokā karana,betray,toka karana
+clics-doculect-95-1358,west2386-std,concepticon-1902,17.441,dhoka karana,betray,dhoka karana
+clics-doculect-95-1359,west2386-std,concepticon-643,17.45,jarūrata,"need, necessity",jarurata
+clics-doculect-95-1360,west2386-std,concepticon-686,17.46,asāna,easy,asana
+clics-doculect-95-1361,west2386-std,concepticon-584,17.47,kaṭhana,difficult,kathana
+clics-doculect-95-1362,west2386-std,concepticon-584,17.47,muśakila,difficult,musakila
+clics-doculect-95-1363,west2386-std,concepticon-584,17.47,okhā,difficult,okha
+clics-doculect-95-1364,west2386-std,concepticon-1812,17.48,azamānā,"try, attempt",azamana
+clics-doculect-95-1365,west2386-std,concepticon-488,17.49,tarīkā,"way, manner",tarika
+clics-doculect-95-1366,west2386-std,concepticon-488,17.49,rīta,"way, manner",rita
+clics-doculect-95-1367,west2386-std,concepticon-1577,17.51,aura,and,aura
+clics-doculect-95-1368,west2386-std,concepticon-1157,17.52,kyūnki,because,kyunki
+clics-doculect-95-1369,west2386-std,concepticon-1459,17.53,agara,if,agara
+clics-doculect-95-1370,west2386-std,concepticon-1014,17.54,yā,or,ya
+clics-doculect-95-1371,west2386-std,concepticon-1014,17.54,athavā,or,athava
+clics-doculect-95-1372,west2386-std,concepticon-1268,17.55,ṭhīka,"yes, affirmative",thika
+clics-doculect-95-1373,west2386-std,concepticon-1269,17.56,nā,"no, negative",na
+clics-doculect-95-1374,west2386-std,concepticon-1269,17.56,nahī,"no, negative",nahi
+clics-doculect-95-1375,west2386-std,concepticon-1239,17.61,kivēṁ,how?,kivem
+clics-doculect-95-1376,west2386-std,concepticon-822,17.62,kinne,how many?,kinne
+clics-doculect-95-1377,west2386-std,concepticon-531,17.63,kinne,how much?,kinne
+clics-doculect-95-1378,west2386-std,concepticon-1236,17.64,kyā,what?,kya
+clics-doculect-95-1379,west2386-std,concepticon-1236,17.64,kī,what?,ki
+clics-doculect-95-1380,west2386-std,concepticon-1238,17.65,jadūna,when?,jaduna
+clics-doculect-95-1381,west2386-std,concepticon-1237,17.66,jithē,where?,jithe
+clics-doculect-95-1382,west2386-std,concepticon-1237,17.66,kithē,where?,kithe
+clics-doculect-95-1383,west2386-std,concepticon-727,17.67,kihaṛā,which?,kihara
+clics-doculect-95-1384,west2386-std,concepticon-727,17.67,keṛā,which?,kera
+clics-doculect-95-1385,west2386-std,concepticon-1235,17.68,kina,who?,kina
+clics-doculect-95-1386,west2386-std,concepticon-1235,17.68,koṇa,who?,kona
+clics-doculect-95-1387,west2386-std,concepticon-1270,17.69,kyūna,why?,kyuna
+clics-doculect-95-1388,west2386-std,concepticon-1363,18.11,āvāza,voice,avaza
+clics-doculect-95-1389,west2386-std,concepticon-1261,18.12,gā'uṇā,sing,ga'una
+clics-doculect-95-1390,west2386-std,concepticon-1261,18.12,gāṇā,sing,gana
+clics-doculect-95-1391,west2386-std,concepticon-715,18.13,ckīhanā,"shout, cry out",ckihana
+clics-doculect-95-1392,west2386-std,concepticon-128,18.16,budabudānā,mumble,budabudana
+clics-doculect-95-1393,west2386-std,concepticon-1025,18.17,sīṭī māranā,whistle,siti marana
+clics-doculect-95-1394,west2386-std,concepticon-298,18.18,cīkhaṇā,"shriek, screech",cikhana
+clics-doculect-95-1395,west2386-std,concepticon-526,18.19,cīkh māranā,howl,cikh marana
+clics-doculect-95-1396,west2386-std,concepticon-1623,18.21,kahiṇā,"speak, talk",kahina
+clics-doculect-95-1397,west2386-std,concepticon-1866,18.211,hakalānā,"stutter, stammer",hakalana
+clics-doculect-95-1398,west2386-std,concepticon-1458,18.22,bōlanā,say,bolana
+clics-doculect-95-1399,west2386-std,concepticon-1711,18.221,batānā,tell story,batana
+clics-doculect-95-1400,west2386-std,concepticon-1711,18.221,dasnā,tell story,dasna
+clics-doculect-95-1401,west2386-std,concepticon-1115,18.222,bhāśaṇa,speech (make a),bhasana
+clics-doculect-95-1402,west2386-std,concepticon-1115,18.222,takarīra,speech (make a),takarira
+clics-doculect-95-1403,west2386-std,concepticon-48,18.23,cupa honā,silent (be),cupa hona
+clics-doculect-95-1404,west2386-std,concepticon-1307,18.24,bhāśā,language,bhasa
+clics-doculect-95-1405,west2386-std,concepticon-1307,18.24,zubānā,language,zubana
+clics-doculect-95-1406,west2386-std,concepticon-1307,18.24,bolī,language,boli
+clics-doculect-95-1407,west2386-std,concepticon-1599,18.26,laphaza,word,laphaza
+clics-doculect-95-1408,west2386-std,concepticon-1405,18.28,nāma,name,nama
+clics-doculect-95-1409,west2386-std,concepticon-1309,18.31,puchaṇā,"ask (question, inquire)",puchana
+clics-doculect-95-1410,west2386-std,concepticon-1275,18.32,utara denā,answer,utara dena
+clics-doculect-95-1411,west2386-std,concepticon-1275,18.32,javaba deṇā,answer,javaba dena
+clics-doculect-95-1412,west2386-std,concepticon-2022,18.33,kabūlaṇā,"admit, confess",kabulana
+clics-doculect-95-1413,west2386-std,concepticon-2022,18.33,maṇanā,"admit, confess",manana
+clics-doculect-95-1414,west2386-std,concepticon-755,18.34,mukaranā,deny,mukarana
+clics-doculect-95-1415,west2386-std,concepticon-1828,18.35,puchaṇā,"ask, request",puchana
+clics-doculect-95-1416,west2386-std,concepticon-1675,18.36,vādā karanā,promise,vada karana
+clics-doculect-95-1417,west2386-std,concepticon-49,18.37,ṭhukarāṇā,refuse,thukarana
+clics-doculect-95-1418,west2386-std,concepticon-83,18.38,ṭhākaṇā,forbid,thakana
+clics-doculect-95-1419,west2386-std,concepticon-299,18.39,tarāṇā,"rebuke, scold",tarana
+clics-doculect-95-1420,west2386-std,concepticon-1084,18.41,bulāuṇā,call (=summon),bulauna
+clics-doculect-95-1421,west2386-std,concepticon-180,18.42,bulāṇā,call (=name),bulana
+clics-doculect-95-1422,west2386-std,concepticon-9,18.43,elānā karaṇā,announce,elana karana
+clics-doculect-95-1423,west2386-std,concepticon-9,18.43,ghośana karaṇā,announce,ghosana karana
+clics-doculect-95-1424,west2386-std,concepticon-1192,18.44,dabakānā,threaten,dabakana
+clics-doculect-95-1425,west2386-std,concepticon-1192,18.44,tamkaṇa,threaten,tamkana
+clics-doculect-95-1426,west2386-std,concepticon-1672,18.51,likhaṇā,write,likhana
+clics-doculect-95-1427,west2386-std,concepticon-724,18.52,paṛhanā,read,parhana
+clics-doculect-95-1428,west2386-std,concepticon-648,18.56,kāgaza,paper,kagaza
+clics-doculect-95-1429,west2386-std,concepticon-794,18.57,kalama,pen,kalama
+clics-doculect-95-1430,west2386-std,concepticon-963,18.61,pusataka,book,pusataka
+clics-doculect-95-1431,west2386-std,concepticon-963,18.61,kitāba,book,kitaba
+clics-doculect-95-1434,west2386-std,concepticon-777,18.71,bānsarī,flute,bansari
+clics-doculect-95-1435,west2386-std,concepticon-908,18.72,ḍhōla,drum,dhola
+clics-doculect-95-1436,west2386-std,concepticon-2136,18.73,sigā,"horn, trumpet",siga
+clics-doculect-95-1437,west2386-std,concepticon-2136,18.73,vājā,"horn, trumpet",vaja
+clics-doculect-95-1438,west2386-std,concepticon-300,18.74,khaṛakaṇā,rattle,kharakana
+clics-doculect-95-1439,west2386-std,concepticon-1300,19.11,dēśa,country,desa
+clics-doculect-95-1440,west2386-std,concepticon-1300,19.11,mulaka,country,mulaka
+clics-doculect-95-1441,west2386-std,concepticon-89,19.12,dēśa,one's native country,desa
+clics-doculect-95-1442,west2386-std,concepticon-89,19.12,mulaka,one's native country,mulaka
+clics-doculect-95-1443,west2386-std,concepticon-1391,19.15,nagara,"city, town",nagara
+clics-doculect-95-1444,west2386-std,concepticon-930,19.16,gā'uṁ,village,ga'um
+clics-doculect-95-1445,west2386-std,concepticon-930,19.16,pinḍa,village,pinda
+clics-doculect-95-1446,west2386-std,concepticon-1010,19.17,sīmā,boundary,sima
+clics-doculect-95-1447,west2386-std,concepticon-1010,19.17,hada,boundary,hada
+clics-doculect-95-1448,west2386-std,concepticon-789,19.21,lōkā,people (populace),loka
+clics-doculect-95-1449,west2386-std,concepticon-789,19.21,janatā,people (populace),janata
+clics-doculect-95-1450,west2386-std,concepticon-302,19.23,nasala,"tribe, clan",nasala
+clics-doculect-95-1451,west2386-std,concepticon-302,19.23,puśta,"tribe, clan",pusta
+clics-doculect-95-1452,west2386-std,concepticon-301,19.24,saradāra,"chief, chieftain",saradara
+clics-doculect-95-1453,west2386-std,concepticon-1296,19.25,sōṭī,"staff, walking stick",soti
+clics-doculect-95-1454,west2386-std,concepticon-1846,19.31,rāja karanā,"rule, govern",raja karana
+clics-doculect-95-1455,west2386-std,concepticon-1508,19.32,mahārājā,"king, ruler",maharaja
+clics-doculect-95-1456,west2386-std,concepticon-1306,19.33,mahārāṇī,queen,maharani
+clics-doculect-95-1457,west2386-std,concepticon-482,19.36,bhalī,"noble, nobleman",bhali
+clics-doculect-95-1458,west2386-std,concepticon-1032,19.37,nāgarika,"citizen, subject",nagarika
+clics-doculect-95-1459,west2386-std,concepticon-383,19.41,mālaka,master,malaka
+clics-doculect-95-1460,west2386-std,concepticon-812,19.42,gulāma,slave,gulama
+clics-doculect-95-1461,west2386-std,concepticon-255,19.43,naukara,servant,naukara
+clics-doculect-95-1462,west2386-std,concepticon-1128,19.45,pharamāna,"command, order",pharamana
+clics-doculect-95-1463,west2386-std,concepticon-1635,19.46,manaṇā,obey,manana
+clics-doculect-95-1464,west2386-std,concepticon-1003,19.47,manazūrī,"let, permit",manazuri
+clics-doculect-95-1465,west2386-std,concepticon-1325,19.51,dōsata,"friend, companion",dosata
+clics-doculect-95-1466,west2386-std,concepticon-1325,19.51,mitara,"friend, companion",mitara
+clics-doculect-95-1467,west2386-std,concepticon-1325,19.51,yāra,"friend, companion",yara
+clics-doculect-95-1468,west2386-std,concepticon-1358,19.52,śatarū,enemy,sataru
+clics-doculect-95-1469,west2386-std,concepticon-1358,19.52,duśamaṇa,enemy,dusamana
+clics-doculect-95-1470,west2386-std,concepticon-1332,19.54,guvānḍhī,neighbor,guvandhi
+clics-doculect-95-1471,west2386-std,concepticon-791,19.55,parāyā,stranger,paraya
+clics-doculect-95-1472,west2386-std,concepticon-1782,19.56,atithī,guest,atithi
+clics-doculect-95-1473,west2386-std,concepticon-1782,19.56,peroṇā,guest,perona
+clics-doculect-95-1474,west2386-std,concepticon-1545,19.57,mēzabāna,host,mezabana
+clics-doculect-95-1475,west2386-std,concepticon-1897,19.58,sahāyata karana,"help, aid",sahayata karana
+clics-doculect-95-1476,west2386-std,concepticon-1897,19.58,madada karana,"help, aid",madada karana
+clics-doculect-95-1477,west2386-std,concepticon-1550,19.59,rōkaṇā,"hinder, prevent",rokana
+clics-doculect-95-1478,west2386-std,concepticon-1747,19.61,tarīkā,custom,tarika
+clics-doculect-95-1479,west2386-std,concepticon-1747,19.61,rasama,custom,rasama
+clics-doculect-95-1480,west2386-std,concepticon-1747,19.61,ravāja,custom,ravaja
+clics-doculect-95-1481,west2386-std,concepticon-1848,19.62,takarāra,"strife, quarrel",takarara
+clics-doculect-95-1482,west2386-std,concepticon-1848,19.62,cagaṛā,"strife, quarrel",cagara
+clics-doculect-95-1483,west2386-std,concepticon-2024,19.63,sāzaśa,"conspiracy, plot",sazasa
+clics-doculect-95-1484,west2386-std,concepticon-1831,19.65,milaṇā,meet,milana
+clics-doculect-95-1485,west2386-std,concepticon-1610,19.72,vēsavā,prostitute,vesava
+clics-doculect-95-1486,west2386-std,concepticon-1610,19.72,gaśatī,prostitute,gasati
+clics-doculect-95-1487,west2386-std,concepticon-1423,20.11,laṛanā,fight (vb),larana
+clics-doculect-95-1488,west2386-std,concepticon-579,20.13,yudha,"war, battle",yudha
+clics-doculect-95-1489,west2386-std,concepticon-579,20.13,jaṅga,"war, battle",janga
+clics-doculect-95-1490,west2386-std,concepticon-579,20.13,laṛāī,"war, battle",larai
+clics-doculect-95-1491,west2386-std,concepticon-1338,20.14,sakūna,peace,sakuna
+clics-doculect-95-1492,west2386-std,concepticon-1338,20.14,śāntī,peace,santi
+clics-doculect-95-1493,west2386-std,concepticon-1338,20.14,amana,peace,amana
+clics-doculect-95-1494,west2386-std,concepticon-1561,20.15,laśakara,army,lasakara
+clics-doculect-95-1495,west2386-std,concepticon-1561,20.15,sainā,army,saina
+clics-doculect-95-1496,west2386-std,concepticon-1561,20.15,phoja,army,phoja
+clics-doculect-95-1497,west2386-std,concepticon-1941,20.17,sipāhī,soldier,sipahi
+clics-doculect-95-1498,west2386-std,concepticon-1941,20.17,phaujī,soldier,phauji
+clics-doculect-95-1499,west2386-std,concepticon-951,20.21,hathyāra,"weapons, arms",hathyara
+clics-doculect-95-1500,west2386-std,concepticon-1763,20.22,lāṭhī,club,lathi
+clics-doculect-95-1501,west2386-std,concepticon-387,20.23,gulēla,sling,gulela
+clics-doculect-95-1502,west2386-std,concepticon-994,20.24,dhanuśa,bow,dhanusa
+clics-doculect-95-1503,west2386-std,concepticon-994,20.24,kamāna,bow,kamana
+clics-doculect-95-1504,west2386-std,concepticon-977,20.25,tīra,arrow,tira
+clics-doculect-95-1505,west2386-std,concepticon-945,20.26,bhālā,spear,bhala
+clics-doculect-95-1506,west2386-std,concepticon-1535,20.27,talavāra,sword,talavara
+clics-doculect-95-1507,west2386-std,concepticon-1566,20.28,bandūka,"gun, cannon",banduka
+clics-doculect-95-1508,west2386-std,concepticon-1061,20.31,ṭāla,armor (defensive),tala
+clics-doculect-95-1509,west2386-std,concepticon-1680,20.33,ṭōpa,helmet,topa
+clics-doculect-95-1510,west2386-std,concepticon-1680,20.33,ṭōpī,helmet,topi
+clics-doculect-95-1511,west2386-std,concepticon-1064,20.34,ḍhāla,shield,dhala
+clics-doculect-95-1512,west2386-std,concepticon-1938,20.35,kilā,fortress,kila
+clics-doculect-95-1513,west2386-std,concepticon-1671,20.36,mināra,tower,minara
+clics-doculect-95-1514,west2386-std,concepticon-783,20.41,safalatā,victory,safalata
+clics-doculect-95-1515,west2386-std,concepticon-783,20.41,kāmayābī,victory,kamayabi
+clics-doculect-95-1516,west2386-std,concepticon-783,20.41,jīta,victory,jita
+clics-doculect-95-1517,west2386-std,concepticon-782,20.42,nākāmī,defeat,nakami
+clics-doculect-95-1518,west2386-std,concepticon-782,20.42,hāra,defeat,hara
+clics-doculect-95-1519,west2386-std,concepticon-722,20.43,halā,attack,hala
+clics-doculect-95-1520,west2386-std,concepticon-722,20.43,hamalā,attack,hamala
+clics-doculect-95-1521,west2386-std,concepticon-1330,20.44,bacāṇā,defend,bacana
+clics-doculect-95-1522,west2386-std,concepticon-421,20.45,dabakanā,retreat,dabakana
+clics-doculect-95-1523,west2386-std,concepticon-421,20.45,haṭanā,retreat,hatana
+clics-doculect-95-1524,west2386-std,concepticon-1696,20.46,samarapaṇa karanā,surrender,samarapana karana
+clics-doculect-95-1525,west2386-std,concepticon-1072,20.47,kaidī,"captive, prisoner",kaidi
+clics-doculect-95-1526,west2386-std,concepticon-1940,20.471,pahirēdāra,"guard, sentinel",pahiredara
+clics-doculect-95-1527,west2386-std,concepticon-1022,20.48,luṭa,"booty, spoils",luta
+clics-doculect-95-1528,west2386-std,concepticon-65,20.49,thaṛhā,ambush,tharha
+clics-doculect-95-1529,west2386-std,concepticon-1858,20.51,machērā,fisherman,machera
+clics-doculect-95-1530,west2386-std,concepticon-1074,20.52,kunḍī,fishhook,kundi
+clics-doculect-95-1531,west2386-std,concepticon-2013,20.56,dāṇā,bait,dana
+clics-doculect-95-1532,west2386-std,concepticon-1435,20.61,śikārā khēḍaṇā,hunt,sikara khedana
+clics-doculect-95-1533,west2386-std,concepticon-1172,20.62,pugaranā,shoot,pugarana
+clics-doculect-95-1534,west2386-std,concepticon-161,20.63,ukanā,miss (target),ukana
+clics-doculect-95-1535,west2386-std,concepticon-161,20.63,cūkanā,miss (target),cukana
+clics-doculect-95-1536,west2386-std,concepticon-1075,20.64,kuṛakī,trap (noun),kuraki
+clics-doculect-95-1537,west2386-std,concepticon-1170,20.65,phasāṇā,trap (vb),phasana
+clics-doculect-95-1538,west2386-std,concepticon-1062,21.11,kanūna,law,kanuna
+clics-doculect-95-1539,west2386-std,concepticon-1068,21.15,adālata,court,adalata
+clics-doculect-95-1540,west2386-std,concepticon-1068,21.15,kacerī,court,kaceri
+clics-doculect-95-1541,west2386-std,concepticon-1067,21.17,phaisalā,judgment,phaisala
+clics-doculect-95-1542,west2386-std,concepticon-861,21.18,ni'āṅkāra,judge (noun),ni'ankara
+clics-doculect-95-1543,west2386-std,concepticon-1144,21.23,gavāha,witness,gavaha
+clics-doculect-95-1544,west2386-std,concepticon-1939,21.24,kasama khāṇā,swear,kasama khana
+clics-doculect-95-1545,west2386-std,concepticon-1939,21.24,kasama denā,swear,kasama dena
+clics-doculect-95-1546,west2386-std,concepticon-1712,21.25,kasama,oath,kasama
+clics-doculect-95-1547,west2386-std,concepticon-1814,21.31,ilzaam lāṇā,accuse,ilzaam lana
+clics-doculect-95-1548,west2386-std,concepticon-1814,21.31,dōsa deṇā,accuse,dosa dena
+clics-doculect-95-1549,west2386-std,concepticon-983,21.33,sazā denā,convict (vb),saza dena
+clics-doculect-95-1550,west2386-std,concepticon-988,21.34,chaḍaṇā,acquit,chadana
+clics-doculect-95-1551,west2386-std,concepticon-1682,21.35,dōśī,guilty,dosi
+clics-doculect-95-1552,west2386-std,concepticon-1682,21.35,mujrima,guilty,mujrima
+clics-doculect-95-1553,west2386-std,concepticon-90,21.36,niradōśa,innocent,niradosa
+clics-doculect-95-1554,west2386-std,concepticon-90,21.36,bēkasūra,innocent,bekasura
+clics-doculect-95-1555,west2386-std,concepticon-90,21.36,masūma,innocent,masuma
+clics-doculect-95-1556,west2386-std,concepticon-390,21.37,juramānā,"penalty, punishment",juramana
+clics-doculect-95-1557,west2386-std,concepticon-390,21.37,sazā,"penalty, punishment",saza
+clics-doculect-95-1558,west2386-std,concepticon-218,21.38,harajānā,fine,harajana
+clics-doculect-95-1559,west2386-std,concepticon-1281,21.39,kaidaḵẖānā,"prison, jail",kaidakhana
+clics-doculect-95-1560,west2386-std,concepticon-845,21.42,khūna,murder,khuna
+clics-doculect-95-1561,west2386-std,concepticon-845,21.42,kattala,murder,kattala
+clics-doculect-95-1562,west2386-std,concepticon-902,21.43,harāmakārī,adultery,haramakari
+clics-doculect-95-1563,west2386-std,concepticon-953,21.44,balātakāra,rape,balatakara
+clics-doculect-95-1564,west2386-std,concepticon-953,21.44,jyātī,rape,jyati
+clics-doculect-95-1565,west2386-std,concepticon-713,21.51,curāuṇā,steal,curauna
+clics-doculect-95-1566,west2386-std,concepticon-1160,21.52,cōra,thief,cora

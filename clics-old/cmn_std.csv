@@ -1,0 +1,1883 @@
+@classification: Sino-Tibetan,Chinese
+@iso: cmn
+@language: Chinese, Mandarin
+@size: 1877
+@source: wold
+@variety: std
+1.1	world	shijie
+1.21	earth, land	tudi
+1.21	earth, land	ludi
+1.212	earth=ground, soil	turang
+1.212	earth=ground, soil	tudi
+1.212	earth=ground, soil	tu
+1.213	dust	huichen
+1.214	mud	ni
+1.214	mud	nijiang
+1.214	mud	ninao
+1.214	mud	nining
+1.215	sand	shazi
+1.215	sand	sha
+1.22	mountain, hill	qiu
+1.22	mountain, hill	shan
+1.22	mountain, hill	qiuling
+1.222	cliff, precipice	jiao
+1.222	cliff, precipice	jiaoshi
+1.23	plain, field	pingyuan
+1.23	plain, field	pingdi
+1.24	valley	shangu
+1.25	island	dao
+1.26	mainland	dalu
+1.26	mainland	ludi
+1.27	shore	haian
+1.27	shore	an
+1.28	cave	shandong
+1.31	water	shui
+1.32	sea	hai
+1.324	foam	paomo
+1.324	foam	pao
+1.329	ocean	haiyang
+1.33	lake	hu
+1.33	lake	hupo
+1.34	gulf, bay	haiwan
+1.34	gulf, bay	wan
+1.341	lagoon	xiehu
+1.341	lagoon	jiaohu
+1.342	reef	jiaoshi
+1.343	headland, point	haijiao
+1.35	wave	lang
+1.35	wave	bolang
+1.352	tide	chao
+1.352	tide	chaoxi
+1.353	lowtide	dichao
+1.354	hightide	zhang
+1.354	hightide	chao
+1.354	hightide	gaochao
+1.36	river, stream, brook	he
+1.36	river, stream, brook	xi
+1.36	river, stream, brook	chuan
+1.362	whirlpool	xuan
+1.362	whirlpool	wo
+1.362	whirlpool	shuiwo
+1.37	spring, well	quan
+1.37	spring, well	quanyuan
+1.37	spring, well	quanshui
+1.37	spring, well	jing
+1.38	swamp	zhaoze
+1.39	waterfall	pubu
+1.41	woods, forest	senlin
+1.41	woods, forest	shulin
+1.43	wood	mutou
+1.44	stone, rock	shitou
+1.44	stone, rock	yanshi
+1.45	earthquake	dizhen
+1.51	sky	tiankong
+1.52	sun	taiyang
+1.53	moon	yueliang
+1.54	star	xingxing
+1.55	lightning	shandian
+1.56	thunder	lei
+1.57	lightning (as striking)	leidian
+1.58	storm	baofengyu
+1.58	storm	kuangfeng
+1.59	rainbow	caihong
+1.61	light (noun)	guang
+1.62	darkness	heian
+1.63	shade, shadow	yingzi
+1.64	dew	lushui
+1.71	air	kongqi
+1.72	wind	feng
+1.73	cloud	yun
+1.73	cloud	yuncai
+1.74	fog	wu
+1.75	rain (noun)	yu
+1.76	snow (noun)	xue
+1.77	ice	bing
+1.78	weather	tianqi
+1.81	fire	huo
+1.82	flame (noun)	huoyan
+1.83	smoke (noun)	yan
+1.84	ashes	hui
+1.841	embers	huijin
+1.851	burn (vb trans)	shao
+1.851	burn (vb trans)	shaodiao
+1.852	burn (vb intrans)	zhaohuo
+1.86	light, kindle, ignite	dianran
+1.861	extinguish	pumie
+1.861	extinguish	ximie
+1.87	match (noun)	huochai
+1.88	firewood	chaihuo
+1.89	charcoal	mutan
+2.1	person, human being	ren
+2.21	man (vs. woman)	nanren
+2.22	woman	funü
+2.22	woman	nüren
+2.23	male	nan
+2.23	male	nanxing
+2.24	female	nü
+2.24	female	nüxing
+2.25	boy	nanhai
+2.251	young man (adolescent)	xiaohuozi
+2.26	girl	nühai
+2.261	young woman (adolescent)	guniang
+2.261	young woman (adolescent)	shaonü
+2.27	child	haizi
+2.27	child	xiaohai
+2.27	child	ertong
+2.28	infant, baby	yinger
+2.28	infant, baby	xiaobaobao
+2.31	husband	zhangfu
+2.31	husband	airen
+2.32	wife	taitai
+2.32	wife	airen
+2.32	wife	qizi
+2.33	marry	jiehun
+2.34	marriage, wedding	hunyin
+2.34	marriage, wedding	hunli
+2.341	divorce	lihun
+2.35	father	baba
+2.35	father	fuqin
+2.36	mother	mama
+2.36	mother	muqin
+2.37	parents	fumu
+2.39	married woman	xifu
+2.41	son	erzi
+2.42	daughter	nüer
+2.43	offspring (son or daughter)	haizi
+2.43	offspring (son or daughter)	xiaohai
+2.44	brother	xiongdi
+2.444	older brother	gege
+2.445	younger brother	didi
+2.45	sister	jiemei
+2.454	older sister	jiejie
+2.455	younger sister	meimei
+2.456	sibling	tongbao
+2.456	sibling	xiongdijiemei
+2.458	twins	shuangshengzi
+2.458	twins	shuangbaotai
+2.46	grandfather	zufu
+2.46	grandfather	yeye
+2.46	grandfather	waigong
+2.46	grandfather	waizufu
+2.461	old man	laoren
+2.461	old man	laotour
+2.47	grandmother	zumu
+2.47	grandmother	nainai
+2.47	grandmother	waipo
+2.47	grandmother	waizumu
+2.471	old woman	laopopo
+2.48	grandson	sunzi
+2.48	grandson	waisun
+2.49	granddaughter	sunnü
+2.49	granddaughter	waisunnü
+2.51	uncle	gufu
+2.51	uncle	yifu
+2.511	mother's brother	jiujiu
+2.511	mother's brother	jiufu
+2.512	father's brother	bofu
+2.512	father's brother	bobo
+2.512	father's brother	shufu
+2.512	father's brother	shushu
+2.52	aunt	shumu
+2.52	aunt	shenzi
+2.52	aunt	bomu
+2.52	aunt	jiumu
+2.521	mother's sister	ayi
+2.521	mother's sister	yimu
+2.522	father's sister	gumu
+2.522	father's sister	gugu
+2.53	nephew	zhizi
+2.53	nephew	waisheng
+2.54	niece	zhinü
+2.54	niece	waishengnü
+2.55	cousin	tangge
+2.55	cousin	tangdi
+2.55	cousin	tangjie
+2.55	cousin	tangmei
+2.55	cousin	biaoge
+2.55	cousin	biaodi
+2.55	cousin	biaojie
+2.55	cousin	biaomei
+2.56	ancestors	zuxian
+2.57	descendants	zisun
+2.57	descendants	houdai
+2.61	father-in-law (of a man)	yuefu
+2.611	father-in-law (of a woman)	gonggong
+2.62	mother-in-law (of a man)	yuemu
+2.621	mother-in-law (of a woman)	popo
+2.63	son-in-law (of a man)	nüxu
+2.631	son-in-law (of a woman)	nüxu
+2.64	daughter-in-law (of a man)	erxifu
+2.64	daughter-in-law (of a man)	xifu
+2.641	daughter-in-law (of a woman)	xifu
+2.641	daughter-in-law (of a woman)	erxifu
+2.71	stepfather	jifu
+2.72	stepmother	jimu
+2.73	stepson	jizi
+2.74	stepdaughter	jinü
+2.75	orphan	guer
+2.76	widow	guafu
+2.77	widower	guanfu
+2.81	relatives, kinsmen	qinqi
+2.82	family	jia
+2.82	family	jiating
+2.91	I	wo
+2.92	you (singular)	ni
+2.92	you (singular)	nin
+2.93	he/she/it	ta
+2.94	we	women
+2.941	we (inclusive)	zanmen
+2.942	we (exclusive)	women
+2.95	you (plural)	nimen
+2.95	you (plural)	ninmen
+2.96	they	tamen
+3.11	animal	dongwu
+3.12	male (adj)	gong
+3.12	male (adj)	xiong
+3.12	male (adj)	mu
+3.13	female (adj)	mu
+3.13	female (adj)	pin
+3.13	female (adj)	ci
+3.15	livestock	shengchu
+3.15	livestock	shengkou
+3.15	livestock	jiachu
+3.15	livestock	jiaqin
+3.16	pasture	caodi
+3.16	pasture	muchang
+3.18	herdsman	muren
+3.19	stable, stall	peng
+3.19	stable, stall	juan
+3.19	stable, stall	jiu
+3.2	cattle (bovine)	niu
+3.21	bull	gongniu
+3.21	bull	guniu
+3.22	ox	jianniu
+3.23	cow	muniu
+3.24	calf	niudu
+3.24	calf	xiaoniu
+3.25	sheep	mianyang
+3.25	sheep	yang
+3.26	ram	gongyang
+3.26	ram	gongmianyang
+3.28	ewe	mumianyang
+3.28	ewe	muyang
+3.29	lamb	yanggao
+3.29	lamb	xiaoyang
+3.29	lamb	gaoyang
+3.32	boar	yezhu
+3.34	sow	muzhu
+3.35	pig	zhu
+3.36	goat	yang
+3.36	goat	shanyang
+3.36	goat	mushanyang
+3.37	he-goat	gongshanyang
+3.38	kid	gaoyang
+3.41	horse (equine)	ma
+3.42	stallion	muma
+3.42	stallion	zhongma
+3.42	stallion	gongma
+3.44	mare	muma
+3.45	foal, colt	ju
+3.45	foal, colt	xiaoma
+3.46	ass, donkey	lü
+3.46	ass, donkey	lüzi
+3.47	mule	luozi
+3.47	mule	luo
+3.5	fowl	jiaqin
+3.52	cock, rooster	xiongji
+3.52	cock, rooster	gongji
+3.54	hen	ji
+3.54	hen	muji
+3.54	hen	ciqin
+3.55	chicken	ji
+3.56	goose	e
+3.57	duck	ya
+3.58	nest	wo
+3.58	nest	chao
+3.581	bird	niao
+3.582	seagull	haiou
+3.583	heron	canglu
+3.583	heron	lusi
+3.584	eagle	laoying
+3.585	hawk	sun
+3.585	hawk	ying
+3.585	hawk	cangying
+3.585	hawk	laoying
+3.585	hawk	shiqueying
+3.586	vulture	jiu
+3.591	bat	bianfu
+3.592	parrot	Yingwu
+3.593	crow	wuya
+3.594	dove	gezi
+3.596	owl	maotouying
+3.61	dog	gou
+3.614	rabbit	tuzi
+3.62	cat	mao
+3.622	opossum	fuzidaishu
+3.63	mouse, rat	laoshu
+3.63	mouse, rat	shu
+3.65	fish	yu
+3.652	fin (dorsal)	beiqi
+3.652	fin (dorsal)	yuqi
+3.653	fishscale	yulin
+3.654	gill	sai
+3.655	shell	beike
+3.661	shark	shayu
+3.662	porpoise, dolphin	haitun
+3.663	whale	jingyu
+3.664	stingray	hong
+3.665	freshwater eel	huangshan
+3.665	freshwater eel	manyu
+3.71	wolf	lang
+3.72	lion	shizi
+3.73	bear	xiong
+3.74	fox	huli
+3.75	deer	lu
+3.76	monkey	houzi
+3.76	monkey	yuanhou
+3.77	elephant	xiang
+3.77	elephant	daxiang
+3.78	camel	luotuo
+3.81	insect	kunchong
+3.811	louse	shizi
+3.811	louse	toushi
+3.812	nit (louse egg)	shiluan
+3.813	flea	tiaozao
+3.814	centipede	wugong
+3.814	centipede	malu
+3.815	scorpion	xiezi
+3.816	cockroach	zhanglang
+3.816	cockroach	feilian
+3.817	ant	mayi
+3.818	spider	zhizhu
+3.819	spider web	zhizhuwang
+3.82	bee	mifeng
+3.821	beeswax	fengla
+3.821	beeswax	mila
+3.822	beehive	fengwo
+3.822	beehive	fengchao
+3.823	wasp	huangfeng
+3.83	fly	cangying
+3.832	mosquito	wenzi
+3.84	worm	qiuyin
+3.85	snake	she
+3.91	firefly	yinghuochong
+3.92	butterfly	hudie
+3.93	grasshopper	huangchong
+3.94	snail	woniu
+3.95	frog	qingwa
+3.96	lizard	xiyi
+3.97	crocodile, alligator	eyu
+3.98	turtle	gui
+4.11	body	shenti
+4.11	body	renti
+4.12	skin, hide	pifu
+4.12	skin, hide	pi
+4.13	flesh	rou
+4.14	hair (head)	toufa
+4.142	beard	huzi
+4.144	body hair	mao
+4.145	pubic hair	yinmao
+4.146	dandruff	toupixie
+4.15	blood	xie
+4.15	blood	xue
+4.151	vein, artery	xueguan
+4.151	vein, artery	dongmai
+4.151	vein, artery	jingmai
+4.16	bone	gutou
+4.162	rib	leigu
+4.17	horn	jiao
+4.18	tail	weiba
+4.18	tail	wei
+4.19	back	bei
+4.19	back	jibei
+4.191	spine	jilianggu
+4.191	spine	jizhu
+4.2	head	tou
+4.201	side of head, temple	taiyangxue
+4.201	side of head, temple	binjiao
+4.202	skull	lugu
+4.202	skull	tougaigu
+4.202	skull	tianlinggai
+4.203	brain	nao
+4.203	brain	naozi
+4.203	brain	naojin
+4.203	brain	tounao
+4.203	brain	danao
+4.204	face	lian
+4.205	forehead	e
+4.205	forehead	qiane
+4.207	jaw	e
+4.208	cheek	saibangzi
+4.208	cheek	jia
+4.209	chin	han
+4.209	chin	xiaba
+4.21	eye	yanjing
+4.212	eyebrow	yanmei
+4.212	eyebrow	meimao
+4.213	eyelid	yanpi
+4.214	eyelash	jiemao
+4.215	blink	zhaba
+4.215	blink	zhayan
+4.22	ear	erduo
+4.221	earlobe	erchui
+4.222	earwax	ershi
+4.23	nose	bizi
+4.231	nostril	bikong
+4.232	mucus (nasal)	biti
+4.24	mouth	zui
+4.24	mouth	kou
+4.241	beak	niaozui
+4.241	beak	niaohui
+4.25	lip	zuichun
+4.26	tongue	shetou
+4.27	tooth	yachi
+4.27	tooth	ya
+4.271	gums	yayin
+4.272	molartooth	jiuchi
+4.28	neck	jing
+4.28	neck	bozi
+4.281	nape of neck	jingxiang
+4.281	nape of neck	jingbei
+4.281	nape of neck	houbozi
+4.29	throat	yanhou
+4.29	throat	hou
+4.29	throat	houlong
+4.3	shoulder	jianbang
+4.301	shoulderblade	bogu
+4.301	shoulderblade	jianjiagu
+4.302	collarbone	suogu
+4.31	arm	gebo
+4.31	arm	gebei
+4.312	armpit	gezhiwor
+4.312	armpit	ye
+4.32	elbow	zhou
+4.32	elbow	gebozhour
+4.321	wrist	shouwanzi
+4.33	hand	shou
+4.331	palm of hand	shouzhang
+4.34	finger	shouzhi
+4.342	thumb	muzhi
+4.344	fingernail	zhijia
+4.345	claw	lizhua
+4.345	claw	zhua
+4.345	claw	zhuazi
+4.35	leg	tui
+4.351	thigh	datui
+4.352	calf of leg	tuiduzi
+4.36	knee	xi
+4.36	knee	xigai
+4.37	foot	jiao
+4.371	ankle	jiaowanzi
+4.372	heel	jiaogen
+4.374	footprint	zuyin
+4.374	footprint	jiaoyin
+4.374	footprint	zuji
+4.38	toe	jiaozhi
+4.392	wing	chibang
+4.393	feather	yumao
+4.4	chest	xiongpu
+4.4	chest	xiongpu
+4.4	chest	xiongbu
+4.41	breast (of woman)	rufang
+4.412	nipple, teat	naitou
+4.412	nipple, teat	rutou
+4.42	udder	rufang
+4.43	navel	qi
+4.44	heart	xin
+4.44	heart	xinzang
+4.441	lung	fei
+4.441	lung	feizang
+4.45	liver	gan
+4.45	liver	ganzang
+4.451	kidney	yaozi
+4.451	kidney	shen
+4.451	kidney	shenzang
+4.452	spleen	pi
+4.452	spleen	pizang
+4.46	stomach	wei
+4.461	intestines, guts	changzi
+4.461	intestines, guts	zangfu
+4.461	intestines, guts	zangqi
+4.461	intestines, guts	zang
+4.462	waist	yao
+4.463	hip	kuan
+4.463	hip	tunbu
+4.463	hip	yao
+4.464	buttocks	pigu
+4.47	womb	zigong
+4.47	womb	tai
+4.49	testicle	gaowan
+4.492	penis	yinjing
+4.51	breathe, breath	huxi
+4.52	yawn, gape	heqian
+4.521	hiccough	dager
+4.53	cough	kesou
+4.54	sneeze	dapenti
+4.55	perspire	fahan
+4.55	perspire	chuhan
+4.56	spit	tu
+4.56	spit	tu
+4.56	spit	tutan
+4.56	spit	tutuomo
+4.57	vomit	outu
+4.58	bite	yao
+4.59	lick	tian
+4.591	dribble	liukoushui
+4.61	sleep	shuijiao
+4.612	snore	dahan
+4.612	snore	dahulu
+4.62	dream	zuomeng
+4.63	wake up	shuixing
+4.63	wake up	xinglai
+4.64	break wind	fangpi
+4.65	urinate	xiaobian
+4.66	defecate	dabian
+4.67	have sexual intercourse	zuoai
+4.68	shiver	chandong
+4.68	shiver	chandou
+4.68	shiver	fachan
+4.69	bathe	xizao
+4.71	beget (of father)	shengzhi
+4.72	born (to be)	shenglai
+4.72	born (to be)	chusheng
+4.73	pregnant	huaiyun
+4.73	pregnant	huaitai
+4.73	pregnant	youtai
+4.732	conceive	shouyun
+4.74	live, living, life	shenghuo
+4.74	live, living, life	huo
+4.74	live, living, life	huoshengsheng
+4.75	die, dead	siwang
+4.75	die, dead	si
+4.751	drowned	yansi
+4.76	kill	shadiao
+4.76	kill	sha
+4.77	corpse	shiti
+4.78	bury (the dead)	maizang
+4.79	grave, tomb	fenmu
+4.79	grave, tomb	fen
+4.79	grave, tomb	mu
+4.81	strong, mighty, powerful	qiang
+4.82	weak	ruo
+4.82	weak	shuairuo
+4.82	weak	xuruo
+4.82	weak	ruanruo
+4.83	well, health	jiankang
+4.84	sick, sickness	shengbing
+4.84	sick, sickness	bing
+4.841	fever	fashao
+4.842	goiter	jiazhuangxianzhong
+4.843	cold (catarrh)	ganmao
+4.85	wound, sore	shangkou
+4.852	bruise	xuezhong
+4.853	swelling	zhong
+4.853	swelling	zhongkuai
+4.853	swelling	zhongzhang
+4.854	itch	yang
+4.855	blister	shuipao
+4.856	boil (noun)	jiezi
+4.856	boil (noun)	xiaonongba
+4.857	pus	nong
+4.858	scar	ba
+4.858	scar	bahen
+4.858	scar	shangba
+4.86	cure, heal	zhibing
+4.86	cure, heal	zhihao
+4.86	cure, heal	zhi
+4.87	physician	yisheng
+4.88	medicine, drug	yao
+4.89	poison	du
+4.89	poison	duyao
+4.91	tired, weary	lei
+4.912	rest	xiuxi
+4.92	lazy	landuo
+4.93	bald	tu
+4.94	lame	bo
+4.95	deaf	long
+4.96	mute	ya
+4.97	blind	xia
+4.97	blind	mang
+4.98	intoxicated	zui
+4.99	naked, bare	luo
+4.99	naked, bare	luolu
+4.99	naked, bare	luoti
+4.99	naked, bare	guangshen
+5.11	eat	chi
+5.11	eat	chifan
+5.12	food	shiwu
+5.12	food	fancai
+5.12	food	fan
+5.121	cooked	shu
+5.121	cooked	zhude
+5.122	raw	sheng
+5.123	ripe	chengshu
+5.124	green, unripe	sheng
+5.125	rotten	fubai
+5.125	rotten	lan
+5.13	drink	he
+5.14	hunger	jie
+5.14	hunger	e
+5.141	famine	jihuang
+5.15	thirst	ke
+5.16	suck	xi
+5.16	suck	xiqu
+5.16	suck	xishun
+5.16	suck	shunxi
+5.18	chew	jujue
+5.18	chew	yao
+5.181	swallow	tun
+5.181	swallow	tunxia
+5.19	choke	shizhixi
+5.19	choke	mensi
+5.21	cook	pengtiao
+5.21	cook	zuofan
+5.21	cook	shaocai
+5.21	cook	zuocai
+5.21	cook	zhu
+5.21	cook	shao
+5.22	boil (vb)	shaokai
+5.22	boil (vb)	feiteng
+5.23	roast, fry	kao
+5.23	roast, fry	shao
+5.23	roast, fry	jian
+5.23	roast, fry	zha
+5.24	bake	kao
+5.25	oven	luzi
+5.26	pot, cooking vessel	guo
+5.27	kettle	hu
+5.28	pan	pingdiguo
+5.28	pan	jiangguo
+5.31	dish	wan
+5.31	dish	pan
+5.32	plate	panzi
+5.32	plate	diezi
+5.33	bowl	wan
+5.34	pitcher, jug	weng
+5.34	pitcher, jug	hu
+5.34	pitcher, jug	guan
+5.35	cup, drinking vessel	beizi
+5.36	saucer	diezi
+5.37	spoon	tiaogeng
+5.37	spoon	gengchi
+5.37	spoon	tangchi
+5.37	spoon	chizi
+5.38	knife	dao
+5.38	knife	daozi
+5.39	fork	chazi
+5.39	fork	cha
+5.391	tongs	qianzi
+5.41	meal (a)	can
+5.42	breakfast	zaocan
+5.42	breakfast	zaofan
+5.43	lunch	wufan
+5.44	dinner	wanfan
+5.46	peel	xiaopi
+5.46	peel	baopi
+5.47	sieve, strain	shai
+5.47	sieve, strain	lü
+5.47	sieve, strain	guolü
+5.48	scrape	gua
+5.49	stir, mix	jiao
+5.49	stir, mix	jiaoban
+5.49	stir, mix	ban
+5.51	bread	mianbao
+5.53	dough	shengmiantuan
+5.54	knead	rou
+5.54	knead	nie
+5.54	knead	roumian
+5.55	meal, flour	mianfen
+5.56	crush, grind	mo
+5.56	crush, grind	nian
+5.57	mill	mozi
+5.57	mill	mofang
+5.58	mortar	jiu
+5.58	mortar	yanbo
+5.59	pestle	yanchu
+5.59	pestle	nianchui
+5.61	meat	rou
+5.63	sausage	xiangchang
+5.63	sausage	lachang
+5.64	soup, broth	tang
+5.65	vegetables	shucai
+5.66	bean	dou
+5.66	bean	shu
+5.7	potato	malingshu
+5.7	potato	tudou
+5.71	fruit	shuiguo
+5.712	bunch	shu
+5.75	fig	wuhuaguo
+5.76	grape	putao
+5.77	nut	jianguo
+5.77	nut	guoren
+5.78	olive	ganlan
+5.79	oil	you
+5.791	grease, fat	you
+5.791	grease, fat	zhifang
+5.81	salt	yan
+5.81	salt	yanba
+5.82	pepper	hujiao
+5.821	chili pepper	lajiao
+5.84	honey	fengmi
+5.85	sugar	tang
+5.86	milk (noun)	niunai
+5.87	milk (vb)	jinai
+5.88	cheese	nailao
+5.88	cheese	ganlao
+5.88	cheese	rubing
+5.89	butter	naiyou
+5.89	butter	huangyou
+5.9	beverage, drink	yinliao
+5.91	mead	fengmijiu
+5.92	wine	putaojiu
+5.93	beer	pijiu
+5.94	fermented drink	jiu
+5.97	egg	jidan
+5.971	egg yolk	danhuang
+5.971	egg yolk	luanhuang
+6.11	put on (clothes)	chuan
+6.12	clothing, clothes	yifu
+6.13	tailor	caifeng
+6.21	cloth	bu
+6.22	wool	yangmao
+6.23	linen, flax	yama
+6.23	linen, flax	yamabu
+6.24	cotton	mianhua
+6.25	silk	sichou
+6.27	felt	zhan
+6.28	fur	maopi
+6.28	fur	pi
+6.29	leather	ge
+6.29	leather	pi
+6.31	spin	fang
+6.32	spindle	fangchui
+6.33	weave	zhi
+6.33	weave	bianzhi
+6.34	loom	zhibuji
+6.34	loom	zhiji
+6.35	sew	feng
+6.36	needle	zhen
+6.37	awl	zhuizi
+6.38	thread	xian
+6.39	dye	ran
+6.41	cloak	dayi
+6.411	poncho	pijian
+6.42	woman's dress	lianyiqun
+6.43	coat	waitao
+6.43	coat	shangyi
+6.43	coat	dayi
+6.44	shirt	chenshan
+6.45	collar	lingzi
+6.46	skirt	qunzi
+6.461	grass-skirt	caoqun
+6.48	trousers	kuzi
+6.49	stocking, sock	wazi
+6.51	shoe	xiezi
+6.52	boot	xuezi
+6.54	shoemaker, cobbler	xiejiang
+6.55	hat, cap	maozi
+6.57	belt, girdle	yaodai
+6.58	glove	shoutao
+6.59	veil	miansha
+6.61	pocket	koudai
+6.61	pocket	dour
+6.62	button	niukou
+6.63	pin	datouzhen
+6.71	ornament, adornment	shoushi
+6.71	ornament, adornment	zhuangshi
+6.71	ornament, adornment	zhuangshipin
+6.72	jewel	zhubao
+6.72	jewel	baoshi
+6.73	ring (for finger)	jiezhi
+6.74	bracelet	shouzhuo
+6.75	necklace	xianglian
+6.76	bead	zhuzi
+6.77	earring	erhuan
+6.79	tattoo	wenshen
+6.81	handkerchief, rag	shoujuan
+6.81	handkerchief, rag	shoupa
+6.82	towel	maojin
+6.91	comb	shuzi
+6.92	brush	shuazi
+6.921	braid	bianzi
+6.93	razor	tidao
+6.94	ointment	yougao
+6.95	soap	feizao
+6.96	mirror	jingzi
+7.11	dwell, live	zhu
+7.12	house	fangzi
+7.13	hut	xiaowu
+7.131	garden-house	tingzi
+7.14	tent	zhangpeng
+7.15	yard, court	tingyuan
+7.17	cookhouse	chufang
+7.21	room	fangjian
+7.21	room	wuzi
+7.22	door, gate	men
+7.221	doorpost, jamb	zhuzi
+7.23	lock (noun)	suo
+7.231	latch, door-bolt	menshuan
+7.231	latch, door-bolt	chaxiao
+7.24	key	yaoshi
+7.25	window	chuanghu
+7.26	floor	diban
+7.27	wall	qiangbi
+7.31	fireplace	bilu
+7.31	fireplace	luzi
+7.32	stove	huolu
+7.33	chimney	yancong
+7.37	ladder	tizi
+7.42	bed	chuang
+7.421	pillow	zhentou
+7.422	blanket	tanzi
+7.422	blanket	beizi
+7.422	blanket	maotan
+7.43	chair	yizi
+7.44	table	zhuozi
+7.45	lamp, torch	diandeng
+7.46	candle	lazhu
+7.47	shelf	jiazi
+7.47	shelf	geban
+7.48	trough	shuicao
+7.51	roof	wuding
+7.52	thatch	maocaowuding
+7.53	ridgepole	dongliang
+7.54	rafter	chuan
+7.55	beam	liang
+7.56	post, pole	zhu
+7.57	board	muban
+7.58	arch	gongxing
+7.61	mason	niwagong
+7.61	mason	nishuijiang
+7.62	brick	zhuan
+7.62	brick	zhuantou
+7.63	mortar	shajiang
+7.64	adobe	zhuanpi
+8.11	farmer	nongmin
+8.12	field (for cultivation)	nongtian
+8.12	field (for cultivation)	gengdi
+8.12	field (for cultivation)	tiandi
+8.13	garden	yuan
+8.13	garden	huayuan
+8.13	garden	yuanpu
+8.15	cultivate, till	gengzhong
+8.15	cultivate, till	kaiken
+8.16	fence	liba
+8.16	fence	zhalan
+8.17	ditch	gou
+8.17	ditch	qu
+8.21	plow	gengtian
+8.21	plow	litian
+8.212	furrow	ligou
+8.22	dig	wajue
+8.23	spade	chan
+8.23	spade	tieqiao
+8.24	shovel	xian
+8.24	shovel	qiao
+8.24	shovel	chanzi
+8.25	hoe	chutou
+8.25	hoe	chu
+8.26	fork	gancaocha
+8.26	fork	cha
+8.27	rake	pa
+8.27	rake	alsoba
+8.27	rake	pazi
+8.31	sow	bozhong
+8.31	sow	xiazhong
+8.31	sow	bo
+8.311	seed	zhongzi
+8.32	mow, reap	shouge
+8.33	sickle, scythe	liandao
+8.34	thresh	dagu
+8.35	threshing-floor	daguchang
+8.41	crop, harvest	shoucheng
+8.41	crop, harvest	shouhuo
+8.42	grain (barley, oats etc)	wugu
+8.42	grain (barley, oats etc)	zhuangjia
+8.43	wheat	xiaomai
+8.44	barley	damai
+8.45	rye	heimai
+8.46	oats	yanmai
+8.47	maize, corn	bangzi
+8.47	maize, corn	yumi
+8.48	rice	daozi
+8.48	rice	mi
+8.48	rice	mifan
+8.51	grass	cao
+8.51	grass	qingcao
+8.52	hay	cao
+8.52	hay	gancao
+8.52	hay	caoliao
+8.53	plant (noun)	zhiwu
+8.531	plant (vb)	zhong
+8.54	root	gen
+8.54	root	genzi
+8.55	branch	shuzhi
+8.56	leaf	yezi
+8.57	flower	hua
+8.6	tree	shumu
+8.6	tree	shu
+8.61	oak	xiangshu
+8.62	beech	shanmaoju
+8.63	birch	huashu
+8.64	pine	songshu
+8.65	fir	shanshu
+8.66	acorn	xiangzi
+8.67	vine	putaoshu
+8.67	vine	putaowan
+8.67	vine	putaoteng
+8.68	tobacco	yanye
+8.68	tobacco	yancao
+8.69	smoke (tobacco)	chouyan
+8.691	pipe	yandou
+8.72	tree stump	shudun
+8.73	tree trunk	shugan
+8.75	bark	shupi
+8.76	sap	shuye
+8.81	palm tree	yeshu
+8.81	palm tree	binglang
+8.81	palm tree	pukui
+8.81	palm tree	zonglü
+8.82	coconut	yezi
+8.83	citrus fruit	juzi
+8.83	citrus fruit	cheng
+8.83	citrus fruit	youzi
+8.83	citrus fruit	ningmeng
+8.83	citrus fruit	jingan
+8.84	banana tree	xiangjiao
+8.85	banyan	rongshu
+8.91	sweet potato	baishu
+8.91	sweet potato	ganshu
+8.91	sweet potato	hongshu
+8.912	yam	shanyao
+8.92	tapioca, manioc, cassava	mushu
+8.93	gourd	hulu
+8.931	pumpkin, squash	nangua
+8.931	pumpkin, squash	hulu
+8.94	bamboo	zhuzi
+8.941	sugar cane	ganzhe
+8.97	nettle	qianma
+8.98	mushroom	mogu
+9.11	do, make	zuo
+9.12	work	gongzuo
+9.14	bend	wan
+9.15	fold	zhe
+9.15	fold	die
+9.16	tie, bind	za
+9.16	tie, bind	kun
+9.16	tie, bind	fu
+9.16	tie, bind	jie
+9.16	tie, bind	ji
+9.16	tie, bind	xi
+9.16	tie, bind	bang
+9.16	tie, bind	shuan
+9.161	untie	jiekai
+9.18	chain	liantiao
+9.19	rope, cord	sheng
+9.192	knot (noun)	jie
+9.21	strike (hit, beat)	da
+9.211	pound with fist	qiao
+9.22	cut	qiekai
+9.22	cut	gekai
+9.221	cut down	kan
+9.222	chop, hew	pi
+9.222	chop, hew	kan
+9.223	stab	ci
+9.223	stab	cichuan
+9.223	stab	zha
+9.23	knife	dao
+9.24	scissors, shears	jiandao
+9.25	ax	fu
+9.25	ax	fuzi
+9.25	ax	futou
+9.251	adze	hengkoufu
+9.251	adze	bianfu
+9.251	adze	guadao
+9.251	adze	benzi
+9.26	break	badasui
+9.261	broken	posui
+9.27	split	fenkai
+9.27	split	pikai
+9.28	tear	sipo
+9.28	tear	sikai
+9.28	tear	si
+9.29	flay, skin	bo
+9.29	flay, skin	bapi
+9.29	flay, skin	qupi
+9.31	rub, wipe	mo
+9.31	rub, wipe	cuo
+9.32	stretch	lachang
+9.33	pull	la
+9.34	spread out	chuanbo
+9.34	spread out	kuosan
+9.341	hang up	gua
+9.342	press	ya
+9.342	press	ji
+9.342	press	yapo
+9.343	squeeze, wring	zha
+9.343	squeeze, wring	ji
+9.343	squeeze, wring	yasui
+9.35	pour	dao
+9.35	pour	jiao
+9.36	wash	xi
+9.37	sweep	dasao
+9.37	sweep	qingsao
+9.38	broom	saozhou
+9.422	tool	gongju
+9.43	carpenter	mujiang
+9.44	build	zao
+9.44	build	gai
+9.44	build	jian
+9.46	bore	zuan
+9.461	hollow out	wakong
+9.48	saw	ju
+9.48	saw	juzi
+9.49	hammer	chuizi
+9.49	hammer	langtou
+9.5	nail	dingzi
+9.56	glue	jiao
+9.56	glue	jiaoshui
+9.6	smith, blacksmith	duangong
+9.61	forge	chuida
+9.62	anvil	tiezhen
+9.63	cast (metals)	jiaozhu
+9.63	cast (metals)	zhuzao
+9.64	gold	jin
+9.64	gold	jinzi
+9.65	silver	yin
+9.65	silver	yinzi
+9.66	copper, bronze	tong
+9.67	iron	tie
+9.68	lead (noun)	qian
+9.69	tin, tinplate	xi
+9.71	potter	taogong
+9.71	potter	taojiang
+9.72	mold (clay etc)	suzao
+9.72	mold (clay etc)	zhizuo
+9.73	clay	niantu
+9.74	glass	boli
+9.75	weave, plait	bianzhi
+9.75	weave, plait	bianjie
+9.76	basket	lanzi
+9.76	basket	kuangzi
+9.77	mat	xi
+9.771	rug	ditan
+9.78	netbag	wangdou
+9.79	fan (noun)	shanzi
+9.791	fan (vb)	shanshanzi
+9.81	carve	zao
+9.81	carve	diao
+9.81	carve	ke
+9.82	sculptor	diaokejia
+9.83	statue	diaoxiang
+9.83	statue	suxiang
+9.84	chisel	zaozi
+9.88	paint (noun)	yanliao
+9.88	paint (noun)	ranliao
+9.88	paint (noun)	youqi
+9.89	paint (vb)	youqi
+9.89	paint (vb)	fenshua
+10.11	move	dong
+10.12	turn over	zhuan
+10.12	turn over	xuanzhuan
+10.13	turn around	zhuan
+10.13	turn around	xuanzhuan
+10.14	wind, wrap	juan
+10.15	roll	gun
+10.16	drop (vb)	diu
+10.17	twist	chanrao
+10.21	rise	zhanqilai
+10.21	rise	shengqi
+10.22	raise, lift	ju
+10.22	raise, lift	tai
+10.22	raise, lift	ti
+10.23	fall	diao
+10.24	drip	di
+10.25	throw	reng
+10.252	catch (ball)	zhuazhu
+10.252	catch (ball)	jiezhu
+10.26	shake	yao
+10.26	shake	huang
+10.26	shake	yaohuang
+10.32	flow	liu
+10.33	sink	chen
+10.34	float	piao
+10.35	swim	youyong
+10.351	dive	qian
+10.351	dive	qianshui
+10.352	splash	pen
+10.352	splash	jian
+10.352	splash	sa
+10.37	fly (vb)	fei
+10.38	blow	gua
+10.41	creep, crawl	pa
+10.412	kneel	xiagui
+10.413	crouch	dun
+10.42	slide, slip	hua
+10.42	slide, slip	liu
+10.43	jump, leap	tiao
+10.431	kick	ti
+10.44	dance	tiaowu
+10.45	walk	zoulu
+10.45	walk	zou
+10.451	limp	bo
+10.46	run	pao
+10.47	go	qu
+10.47	go	qu
+10.47	go	kai
+10.47	go	zuo
+10.471	go up	shangqu
+10.472	climb	pa
+10.473	go down	xiaqu
+10.473	go down	xialai
+10.474	go out	chuqu
+10.48	come	lai
+10.481	come back	huilai
+10.49	go away, depart	zoukai
+10.49	go away, depart	likai
+10.491	disappear	xiaoshi
+10.51	flee	taozou
+10.52	follow	gen
+10.52	follow	gensui
+10.53	pursue	zhui
+10.55	reach, arrive	daoda
+10.55	reach, arrive	dao
+10.56	approach	jiejin
+10.57	enter	jin
+10.57	enter	jinlai
+10.57	enter	jinqu
+10.61	carry (bear)	dai
+10.612	carry-in-hand	na
+10.613	carry-on-shoulder	bei
+10.614	carry-on-head	ding
+10.615	carry-underarm	jia
+10.62	bring	nalai
+10.62	bring	dailai
+10.63	send	ji
+10.64	lead (vb)	dailing
+10.65	drive	kaiche
+10.66	ride	qi
+10.67	push, shove	tui
+10.71	road	lu
+10.72	path	xiaolu
+10.74	bridge	qiao
+10.75	carriage, wagon, cart	che
+10.76	wheel	lunzi
+10.77	axle	zhou
+10.78	yoke	e
+10.81	ship	chuan
+10.83	boat	ting
+10.83	boat	zhou
+10.831	canoe	dumuzhou
+10.84	raft	mufa
+10.84	raft	fazi
+10.85	oar	jiang
+10.851	paddle (noun)	jiang
+10.852	row (vb)	huachuan
+10.86	rudder	duo
+10.86	rudder	chuanduo
+10.87	mast	weigan
+10.88	sail (noun)	fan
+10.89	anchor	mao
+10.91	harbor, port	gangkou
+10.91	harbor, port	gang
+10.92	land (vb)	denglu
+11.11	have	you
+11.12	own, possess	zhanyou
+11.12	own, possess	you
+11.13	take	na
+11.14	seize, grasp	zhua
+11.15	hold	bao
+11.16	get, obtain	dedao
+11.16	get, obtain	huode
+11.16	get, obtain	shoudao
+11.17	keep, retain	baoliu
+11.17	keep, retain	liuzhe
+11.18	thing	dongxi
+11.21	give	gei
+11.22	give back	huan
+11.24	preserve, look after	baoliu
+11.24	preserve, look after	baohu
+11.25	save, rescue	jiu
+11.27	destroy	huihuai
+11.28	harm, injure, damage	shanghai
+11.31	seek, look for	zhao
+11.32	find	zhaodao
+11.33	lose	diushi
+11.33	lose	shiqu
+11.34	release, let go	songkai
+11.43	money	qian
+11.44	coin	yingbi
+11.51	rich	fuyou
+11.52	poor	pinqiong
+11.52	poor	qiong
+11.53	beggar	qigai
+11.54	avaricious, stingy	xiaoqi
+11.54	avaricious, stingy	linse
+11.61	lend	jie
+11.62	borrow	jie
+11.63	owe	qian
+11.64	debt	zhai
+11.64	debt	zhaiwu
+11.65	pay (vb)	fu
+11.66	account, reckoning	zhang
+11.66	account, reckoning	zhangdan
+11.69	tax, tribute	shui
+11.77	hire	gu
+11.77	hire	guyong
+11.78	wages	xinshui
+11.78	wages	gongzi
+11.79	earn	zhuan
+11.79	earn	zhengqian
+11.81	buy	mai
+11.82	sell	mai
+11.83	trade, barter	jiaoyi
+11.84	merchant	shangren
+11.85	market (place)	shichang
+11.86	store, shop	shangdian
+11.87	price	jiaqian
+11.87	price	jiage
+11.88	dear (costly, expensive)	gui
+11.89	cheap	pianyi
+11.91	share (distribute)	fenxiang
+11.92	weigh	chengzhong
+12.11	place	difang
+12.12	put	fang
+12.12	put	bai
+12.13	sit	zuo
+12.14	lie down	tang
+12.15	stand	zhan
+12.16	remain, stay	liu
+12.16	remain, stay	dai
+12.16	remain, stay	tingliu
+12.17	remains, left overs	shengxia
+12.21	collect, gather	shouji
+12.212	pick up	jianqi
+12.213	pile up	dui
+12.22	join, unite	lian
+12.23	separate	fenkai
+12.232	divide	fen
+12.24	open	kai
+12.24	open	dakai
+12.25	shut, close	guan
+12.25	shut, close	guanshang
+12.26	cover	gai
+12.27	hide, conceal	duo
+12.27	hide, conceal	cang
+12.31	high	gao
+12.32	low	di
+12.32	low	ai
+12.33	top	jian
+12.34	bottom	di
+12.35	end	jintou
+12.352	pointed	jian
+12.353	edge	bian
+12.36	side	pangbian
+12.36	side	bian
+12.37	middle, center	zhongxin
+12.41	right (side)	youbian
+12.41	right (side)	you
+12.42	left (side)	zuobian
+12.42	left (side)	zuo
+12.43	near (adv)	jin
+12.44	far (adv)	yuan
+12.45	east	dongfang
+12.45	east	dongmian
+12.46	west	xifang
+12.46	west	ximian
+12.47	north	beifang
+12.47	north	beimian
+12.48	south	nanfang
+12.48	south	nanmian
+12.53	grow	zhang
+12.53	grow	chengzhang
+12.53	grow	shengzhang
+12.54	measure	celiang
+12.54	measure	liang
+12.55	large, big	da
+12.56	small, little	xiao
+12.57	long	chang
+12.58	tall	gao
+12.59	short	duan
+12.61	wide, broad	guang
+12.61	wide, broad	kuan
+12.61	wide, broad	kuo
+12.62	narrow	zhai
+12.63	thick (in dimension)	hou
+12.65	thin (in dimension)	bo
+12.67	deep	shen
+12.68	shallow	qian
+12.71	flat	ping
+12.73	straight	zhi
+12.74	crooked	wan
+12.74	crooked	wanqu
+12.75	hook	gouzi
+12.76	corner	jiao
+12.77	cross	shizi
+12.78	square	sijiaoxing
+12.78	square	sibianxing
+12.78	square	fangxing
+12.81	round	yuan
+12.81	round	qiuxing
+12.82	circle	yuan
+12.82	circle	quan
+12.82	circle	yuanzhou
+12.83	sphere, ball	qiu
+12.83	sphere, ball	qiuti
+12.84	line	hang
+12.84	line	xian
+12.85	hole	dong
+12.92	like, similar	xiangsi
+12.92	like, similar	leisi
+12.93	change	gai
+12.93	change	gaibian
+12.93	change	huan
+13.1	one	shi
+13.101	eleven	shiyi
+13.102	twelve	shier
+13.103	fifteen	shiwu
+13.104	twenty	ershi
+13.105	hundred	yibai
+13.106	thousand	yiqian
+13.107	count	shu
+13.14	every, all	suoyou
+13.15	much, many	henduo
+13.15	much, many	xuduo
+13.16	more	gengduo
+13.16	more	bijiaoduo
+13.16	more	biXduo
+13.17	little (quantity), few	henshao
+13.18	enough	gou
+13.18	enough	zugou
+13.181	some	jiCL
+13.181	some	yixie
+13.19	multitude, crowd	qunzhong
+13.19	multitude, crowd	renqun
+13.21	full	man
+13.22	empty	kong
+13.23	part, piece	bufen
+13.24	half	ban
+13.33	alone, only	weiyi
+13.33	alone, only	zhi
+13.34	first	diyi
+13.35	last	zuihouyige
+13.35	last	CL
+13.36	second	dier
+13.37	pair	dui
+13.37	pair	shuang
+13.37	pair	fu
+13.38	two times	liangciorliangVCL
+13.42	third	disan
+13.44	three times	sanci
+14.11	time	shijian
+14.11	time	shihou
+14.12	age	nianling
+14.12	age	nianji
+14.13	new	xin
+14.14	young	nianqing
+14.14	young	xiao
+14.15	old	lao
+14.15	old	jiu
+14.15	old	gulao
+14.16	early	zao
+14.17	late	wan
+14.18	now	xianzai
+14.19	immediately	mashang
+14.21	swift, fast, quick	kuai
+14.22	slow	man
+14.23	hasten, hurry	gankuai
+14.23	hasten, hurry	ganjin
+14.24	retard, delay	chidao
+14.25	begin, beginning	kaishi
+14.252	last, endure	yanxu
+14.252	last, endure	chixu
+14.26	end (temporal)	jiewei
+14.26	end (temporal)	jieshu
+14.27	finish	jieshu
+14.27	finish	wancheng
+14.27	finish	zhongzhi
+14.28	cease, stop	tingzhi
+14.28	cease, stop	zhongzhi
+14.28	cease, stop	ting
+14.29	ready	zhunbeihao
+14.29	ready	hao
+14.29	ready	wan
+14.31	always	shizhong
+14.31	always	yizhi
+14.31	always	shizhong
+14.32	often	changchang
+14.32	often	jingchang
+14.33	sometimes	youshihou
+14.331	soon	henkuai
+14.331	soon	bujiu
+14.332	long-time (for a)	jiu
+14.34	never	congbu
+14.34	never	yongbu
+14.34	never	juebu
+14.34	never	congwei
+14.35	again	zai
+14.35	again	you
+14.41	day	tian
+14.42	night	ye
+14.43	dawn	poxiao
+14.43	dawn	chenxi
+14.44	morning	zaoshang
+14.45	noon, midday	zhongwu
+14.451	afternoon	xiawu
+14.46	evening	wanshang
+14.47	today	jintian
+14.48	tomorrow	mingtian
+14.481	day-after-tomorrow	houtian
+14.49	yesterday	zuotian
+14.491	day-before-yesterday	qiantian
+14.51	hour	zhongtou
+14.51	hour	xiaoshi
+14.53	clock, timepiece	biao
+14.53	clock, timepiece	zhong
+14.61	week	xingqi
+14.61	week	libai
+14.62	Sunday	xingqitian
+14.62	Sunday	libaitian
+14.63	Monday	xingqiyi
+14.63	Monday	libaiyi
+14.64	Tuesday	xingqier
+14.64	Tuesday	libaier
+14.65	Wednesday	xingqisan
+14.65	Wednesday	libaisan
+14.66	Thursday	xingqisi
+14.66	Thursday	libaisi
+14.67	Friday	xingqiwu
+14.67	Friday	libaiwu
+14.68	Saturday	xingqiliu
+14.68	Saturday	libailiu
+14.71	month	yue
+14.73	year	nian
+14.74	winter	dongtian
+14.75	spring	chuntian
+14.76	summer	xiatian
+14.77	autumn	qiutian
+14.78	season	jijie
+15.21	smell (vb intrans)	wenqilai
+15.212	sniff	wen
+15.22	smell (vb trans)	wendao
+15.25	fragrant, good smelling	xiang
+15.26	stinking, bad smelling	chou
+15.31	taste	changqilai
+15.35	sweet	tian
+15.36	salty	xian
+15.37	bitter	ku
+15.38	acid, sour	suan
+15.39	brackish	se
+15.41	hear	tingdao
+15.42	listen	ting
+15.44	sound, noise	shengyin
+15.44	sound, noise	shengxiang
+15.45	loud	xiang
+15.45	loud	dasheng
+15.46	quiet, silence	anjing
+15.51	see	kandao
+15.51	see	kanjian
+15.51	see	jian
+15.52	look, look at	kan
+15.55	show	geiXkan
+15.56	shine	shanguang
+15.57	bright	mingliang
+15.61	color	yanse
+15.61	color	caise
+15.62	light (in color)	liang
+15.63	dark (in color)	an
+15.64	white	bai
+15.65	black	hei
+15.66	red	hong
+15.67	blue	lan
+15.68	green	lü
+15.69	yellow	huang
+15.71	touch	peng
+15.71	touch	mo
+15.712	pinch	qia
+15.712	pinch	nie
+15.72	feel	mo
+15.74	hard	ying
+15.75	soft	ruan
+15.76	rough	cucao
+15.77	smooth	hua
+15.77	smooth	guanghua
+15.78	sharp	kuai
+15.78	sharp	fengli
+15.79	blunt, dull	dun
+15.81	heavy	zhong
+15.81	heavy	chen
+15.82	light (in weight)	qing
+15.83	wet, damp	shi
+15.84	dry	gan
+15.85	hot	re
+15.851	warm	re
+15.851	warm	nuanhuo
+15.86	cold	leng
+15.87	clean	ganjing
+15.88	dirty, soiled	zang
+15.89	wrinkled	zhouwen
+16.11	soul, spirit	linghun
+16.11	soul, spirit	jingshen
+16.15	surprised, astonished	chijing
+16.15	surprised, astonished	jingya
+16.18	good fortune, luck	xingyun
+16.18	good fortune, luck	haoyun
+16.19	misfortune, bad luck	buxing
+16.23	joyful, glad, happy	kaixin
+16.23	joyful, glad, happy	gaoxing
+16.25	laugh	xiao
+16.251	smile	weixiao
+16.26	play	wan
+16.27	love	ai
+16.29	kiss	qin
+16.29	kiss	wen
+16.3	embrace	bao
+16.3	embrace	yongbao
+16.31	pain	tong
+16.31	pain	teng
+16.31	pain	tengtong
+16.32	grief, sorrow, sadness	beishang
+16.32	grief, sorrow, sadness	shangxin
+16.32	grief, sorrow, sadness	beiai
+16.33	anxiety, worry	danxin
+16.33	anxiety, worry	danyou
+16.34	regret, be sorry	baoqian
+16.35	pity	tongqing
+16.35	pity	lianmin
+16.37	cry, weep	ku
+16.38	tear (noun)	yanlei
+16.39	groan	tanqi
+16.41	hate	hen
+16.41	hate	chouhen
+16.42	anger	fennu
+16.44	envy, jealousy	duji
+16.45	shame (noun)	xiuchi
+16.48	proud	jiaoao
+16.51	dare	gan
+16.52	brave	yonggan
+16.53	fear, fright	haipa
+16.54	danger	weixian
+16.62	desire, want	yuanwang
+16.62	desire, want	xuyao
+16.62	desire, want	xiangwang
+16.62	desire, want	yao
+16.62	desire, want	yaoqiu
+16.622	choose	xuanze
+16.622	choose	xuan
+16.63	hope	xiwang
+16.65	faithful	zhongcheng
+16.65	faithful	kekao
+16.66	true	zhen
+16.66	true	dui
+16.67	lie, tell lies	shuohuang
+16.67	lie, tell lies	sahuang
+16.67	lie, tell lies	pianren
+16.68	deceit	qipian
+16.69	forgive	yuanliang
+16.71	good	hao
+16.72	bad	huai
+16.73	right, correct	dui
+16.74	wrong	cuo
+16.76	fault	cuo
+16.76	fault	guocuo
+16.76	fault	cuowu
+16.77	mistake, error	cuowu
+16.78	blame	zhize
+16.79	praise	biaoyang
+16.79	praise	chengzan
+16.81	beautiful	mei
+16.81	beautiful	piaoliang
+16.81	beautiful	meili
+16.82	ugly	chou
+16.82	ugly	nankan
+16.83	greedy	tanlan
+16.84	clever	congming
+17.11	mind	xin
+17.13	think (= reflect)	xiang
+17.14	think (= be of the opinion)	renwei
+17.14	think (= be of the opinion)	juede
+17.15	believe	xiangxin
+17.16	understand	dong
+17.16	understand	liaojie
+17.16	understand	mingbai
+17.16	understand	lijie
+17.17	know	zhidao
+17.17	know	renshi
+17.171	guess	cai
+17.172	imitate	mofang
+17.18	seem	kanshangqu
+17.18	seem	haoxiang
+17.18	seem	kanlai
+17.18	seem	sihu
+17.19	idea, notion	zhuyi
+17.19	idea, notion	xiangfa
+17.21	wise	zhihui
+17.21	wise	congming
+17.22	foolish, stupid	ben
+17.22	foolish, stupid	chun
+17.23	insane, crazy	fafeng
+17.23	insane, crazy	feng
+17.24	learn	xue
+17.24	learn	xuexi
+17.242	study	dushu
+17.242	study	xuexi
+17.25	teach	jiao
+17.26	pupil	xuesheng
+17.27	teacher	laoshi
+17.27	teacher	jiaoshi
+17.28	school	xuexiao
+17.31	remember	jide
+17.31	remember	xiangqi
+17.32	forget	wangji
+17.34	clear, plain	qingchu
+17.35	obscure	mohu
+17.36	secret	mimi
+17.37	sure, certain	kending
+17.37	sure, certain	queding
+17.38	explain	jieshi
+17.41	intention, purpose	guyi
+17.41	intention, purpose	mudi
+17.41	intention, purpose	mubiao
+17.42	cause	yuanyin
+17.43	doubt	huaiyi
+17.44	suspect	huaiyi
+17.441	betray	qipian
+17.441	betray	beipan
+17.45	need, necessity	xuyao
+17.45	need, necessity	xuqiu
+17.46	easy	jiandan
+17.46	easy	rongyi
+17.47	difficult	nan
+17.48	try, attempt	shi
+17.49	way, manner	fangshi
+17.49	way, manner	fangfa
+17.51	and	he
+17.51	and	yu
+17.52	because	yinwei
+17.53	if	ruguo
+17.54	or	huozhe
+17.54	or	haishi
+17.54	or	huo
+17.55	yes, affirmative	shi
+17.55	yes, affirmative	dui
+17.55	yes, affirmative	hao
+17.56	no, negative	bu
+17.61	how?	zenmeyang
+17.61	how?	zenme
+17.62	how many?	duoshao
+17.62	how many?	jiCL
+17.63	how much?	duoshao
+17.64	what?	shenme
+17.65	when?	shenmeshihou
+17.65	when?	jidian
+17.66	where?	zainar
+17.66	where?	nali
+17.67	which?	naCL
+17.67	which?	naxie
+17.68	who?	shui
+17.68	who?	shei
+17.69	why?	weishenme
+18.11	voice	shengyin
+18.12	sing	chang
+18.12	sing	changge
+18.13	shout, cry out	han
+18.15	whisper	eryu
+18.16	mumble	dunang
+18.17	whistle	chuikoushaor
+18.18	shriek, screech	jianjiao
+18.19	howl	jiao
+18.21	speak, talk	shuo
+18.21	speak, talk	jiang
+18.21	speak, talk	tanhua
+18.211	stutter, stammer	jieba
+18.211	stutter, stammer	kouchi
+18.22	say	shuo
+18.221	tell story	jiangshu
+18.221	tell story	jiang
+18.222	speech (make a)	yanjiang
+18.222	speech (make a)	jianghua
+18.23	silent (be)	chenmo
+18.24	language	yuyan
+18.26	word	ci
+18.26	word	ciyu
+18.28	name	mingzi
+18.28	name	xingming
+18.31	ask (question, inquire)	wen
+18.32	answer	huida
+18.33	admit, confess	chengren
+18.34	deny	fouren
+18.35	ask, request	qing
+18.35	ask, request	yaoqiu
+18.35	ask, request	qingqiu
+18.36	promise	daying
+18.36	promise	chengnuo
+18.37	refuse	jujue
+18.38	forbid	jinzhi
+18.39	rebuke, scold	xunchi
+18.39	rebuke, scold	zebei
+18.42	call (=name)	jiao
+18.43	announce	xuanbu
+18.44	threaten	weixie
+18.45	boast	chuiniu
+18.45	boast	chuixu
+18.51	write	xie
+18.52	read	kan
+18.52	read	du
+18.52	read	nian
+18.56	paper	zhi
+18.57	pen	bi
+18.57	pen	yumao
+18.57	pen	gangbi
+18.61	book	shu
+18.67	poet	shiren
+18.67	poet	zuojia
+18.71	flute	dizi
+18.72	drum	gu
+18.73	horn, trumpet	xiaohao
+18.73	horn, trumpet	laba
+18.73	horn, trumpet	haojiao
+18.73	horn, trumpet	guan
+19.11	country	guojia
+19.12	one's native country	zuguo
+19.12	one's native country	jiaxiang
+19.15	city, town	chengshi
+19.16	village	nongcun
+19.16	village	cunzi
+19.16	village	cun
+19.17	boundary	bianjie
+19.21	people (populace)	renmin
+19.21	people (populace)	jumin
+19.23	tribe, clan	jiazu
+19.24	chief, chieftain	qiuzhang
+19.24	chief, chieftain	zuzhang
+19.25	staff, walking stick	shouzhang
+19.25	staff, walking stick	gunzi
+19.31	rule, govern	tongzhi
+19.32	king, ruler	guowang
+19.32	king, ruler	huangdi
+19.33	queen	nüwang
+19.33	queen	nühuang
+19.36	noble, nobleman	guizu
+19.36	noble, nobleman	guiren
+19.37	citizen, subject	gongmin
+19.41	master	zhuren
+19.42	slave	nuli
+19.43	servant	puren
+19.43	servant	yongren
+19.45	command, order	mingling
+19.46	obey	fucong
+19.47	let, permit	yunxu
+19.47	let, permit	zhunxu
+19.51	friend, companion	pengyou
+19.52	enemy	diren
+19.54	neighbor	linju
+19.55	stranger	moshengren
+19.56	guest	keren
+19.57	host	zhuren
+19.58	help, aid	bangzhu
+19.58	help, aid	bangmang
+19.59	hinder, prevent	zuzhi
+19.59	hinder, prevent	fangzhi
+19.61	custom	fengsu
+19.61	custom	xiguan
+19.62	strife, quarrel	chaojia
+19.62	strife, quarrel	zhengchao
+19.62	strife, quarrel	chao
+19.63	conspiracy, plot	yinmou
+19.65	meet	jianmian
+19.65	meet	pengdao
+19.72	prostitute	jinü
+20.11	fight (vb)	da
+20.11	fight (vb)	douzheng
+20.13	war, battle	zhanzheng
+20.13	war, battle	douzheng
+20.14	peace	heping
+20.15	army	jundui
+20.17	soldier	zhanshi
+20.21	weapons, arms	wuqi
+20.22	club	bang
+20.222	battle-ax	zhanfu
+20.23	sling	dangong
+20.24	bow	gong
+20.24	bow	gongjian
+20.25	arrow	jian
+20.26	spear	mao
+20.26	spear	changmao
+20.27	sword	jian
+20.28	gun, cannon	qiang
+20.31	armor (defensive)	kuijia
+20.33	helmet	toukui
+20.34	shield	dun
+20.34	shield	dunpai
+20.35	fortress	yaosai
+20.35	fortress	baolei
+20.36	tower	ta
+20.36	tower	lou
+20.41	victory	shengli
+20.42	defeat	shibai
+20.43	attack	gongji
+20.43	attack	jingong
+20.43	attack	gongshi
+20.44	defend	fangyu
+20.44	defend	fangshou
+20.45	retreat	chetui
+20.46	surrender	touxiang
+20.47	captive, prisoner	fulu
+20.47	captive, prisoner	zhanfu
+20.471	guard, sentinel	jingwei
+20.48	booty, spoils	zhanlipin
+20.49	ambush	maifu
+20.51	fisherman	yufu
+20.51	fisherman	yumin
+20.52	fishhook	yugou
+20.53	fishing line	diaoyusi
+20.53	fishing line	yuxian
+20.54	fishnet	yuwang
+20.55	fish trap	buyulong
+20.55	fish trap	yulong
+20.56	bait	diaoer
+20.56	bait	youer
+20.56	bait	er
+20.61	hunt	dalie
+20.61	hunt	zhuizhu
+20.62	shoot	she
+20.62	shoot	sheji
+20.64	trap (noun)	xianjing
+20.65	trap (vb)	zhuazhu
+20.65	trap (vb)	zhuozhu
+21.11	law	falü
+21.15	court	fating
+21.15	court	fayuan
+21.16	judge (vb)	shenpan
+21.16	judge (vb)	panjue
+21.17	judgment	panjue
+21.18	judge (noun)	faguan
+21.21	plaintiff	yuangao
+21.22	defendant	beigao
+21.23	witness	zhengren
+21.24	swear	xuanshi
+21.24	swear	fashi
+21.25	oath	shiyan
+21.31	accuse	zhikong
+21.32	condemn	panjue
+21.32	condemn	pan
+21.33	convict (vb)	xuanpanXyouzui
+21.34	acquit	xuanpanXwuzui
+21.35	guilty	youzui
+21.36	innocent	wuzui
+21.37	penalty, punishment	chengfa
+21.38	fine	fakuan
+21.39	prison, jail	jianyu
+21.39	prison, jail	lao
+21.42	murder	mousha
+21.42	murder	sharen
+21.43	adultery	tongjian
+21.44	rape	qiangjian
+21.46	arson	zonghuo
+21.47	perjury	weishi
+21.47	perjury	weizheng
+21.51	steal	tou
+21.51	steal	touqie
+21.51	steal	daoqie
+21.52	thief	zei
+21.52	thief	xiaotou

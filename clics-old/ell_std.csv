@@ -1,0 +1,1684 @@
+@classification: Indo-European,Greek,Attic
+@ids-name: Greek_Modern_LatinTrans
+@iso: ell
+@language: Greek
+@size: 1677
+@source: ids
+@variety: std
+1.1	world	'kosmos
+1.21	earth, land	'ɣi
+1.212	earth=ground, soil	'ɣi
+1.212	earth=ground, soil	'eðafos
+1.212	earth=ground, soil	'xoma
+1.213	dust	'skoni
+1.214	mud	'laspi
+1.215	sand	'amos
+1.22	mountain, hill	vu'no
+1.22	mountain, hill	'oros
+1.22	mountain, hill	'lofos
+1.222	cliff, precipice	'vraxos
+1.222	cliff, precipice	gre'mos
+1.23	plain, field	peði'aða
+1.23	plain, field	ekso'xi
+1.23	plain, field	'ipeθros
+1.24	valley	ki'laða
+1.25	island	ni'si
+1.25	island	'nisos
+1.26	mainland	'ipiros
+1.26	mainland	ste'ria
+1.26	mainland	ipiroti'ki'xora
+1.27	shore	a'kti
+1.27	shore	para'lia
+1.27	shore	ɣia'los
+1.28	cave	spi'lia
+1.31	water	ne'ro
+1.32	sea	'θalasa
+1.322	calm (of sea)	nine'mia
+1.323	rough (of sea)	triki'mia
+1.323	rough (of sea)	θalasotara'xi
+1.324	foam	a'frostis'θalasas
+1.329	ocean	okea'nos
+1.33	lake	'limni
+1.34	gulf, bay	'kolpos
+1.34	gulf, bay	kol'piskos
+1.341	lagoon	limno'θalasa
+1.342	reef	'ifalos
+1.342	reef	'skopelos
+1.343	headland, point	akro'tiri
+1.343	headland, point	'kavos
+1.35	wave	'kima
+1.352	tide	pa'liria
+1.353	lowtide	'aboti
+1.354	hightide	pa'liria
+1.36	river, stream, brook	po'tami
+1.36	river, stream, brook	pota'mos
+1.36	river, stream, brook	ri'aki
+1.362	whirlpool	'ðini
+1.37	spring, well	pi'ɣi
+1.37	spring, well	pi'ɣaði
+1.38	swamp	'valtos
+1.38	swamp	'elos
+1.39	waterfall	kata'raxtis
+1.41	woods, forest	'ðasos
+1.42	tree (cf 08.600)	'ðedro
+1.43	wood	'ksilo
+1.44	stone, rock	'petra
+1.44	stone, rock	'vraxos
+1.45	earthquake	si'smos
+1.51	sky	ura'nos
+1.52	sun	'ilios
+1.53	moon	fe'gari
+1.53	moon	se'lini
+1.54	star	a'steri
+1.54	star	'astro
+1.55	lightning	astra'pi
+1.56	thunder	vro'di
+1.56	thunder	bubuni'to
+1.57	lightning (as striking)	kerav'nos
+1.58	storm	kate'ɣiða
+1.58	storm	'θiela
+1.58	storm	anemo'θiela
+1.59	rainbow	u'ranio'tokso
+1.61	light (noun)	'fos
+1.62	darkness	sko'taði
+1.63	shade, shadow	ski'a
+1.64	dew	ðro'sos
+1.64	dew	ðro'sia
+1.71	air	a'eras
+1.72	wind	a'eras
+1.72	wind	'anemos
+1.73	cloud	'sinefo
+1.74	fog	'pusi
+1.74	fog	o'mixli
+1.75	rain (noun)	vro'xi
+1.76	snow (noun)	'xioni
+1.77	ice	'paɣos
+1.77	ice	paɣe'tos
+1.78	weather	ke'ros
+1.81	fire	fo'tia
+1.82	flame (noun)	'floɣa
+1.83	smoke (noun)	ka'pnos
+1.84	ashes	'staxti
+1.841	embers	'xovoli
+1.841	embers	'θraka
+1.841	embers	'karvuno
+1.851	burn (vb trans)	'keo
+1.852	burn (vb intrans)	'keo
+1.852	burn (vb intrans)	'keɣome
+1.86	light, kindle, ignite	a'navo
+1.861	extinguish	'svino
+1.87	match (noun)	'spirto
+1.88	firewood	'ksilo
+1.88	firewood	pro'sanama
+1.89	charcoal	'karvuno
+1.89	charcoal	ksilo'karvuno
+2.1	person, human being	'anθropos
+2.1	person, human being	'on
+2.1	person, human being	'atomo
+2.21	man (vs. woman)	'adras
+2.22	woman	ɣi'neka
+2.23	male	arseni'kos
+2.24	female	θili'kos
+2.25	boy	a'ɣori
+2.251	young man (adolescent)	a'ɣori
+2.251	young man (adolescent)	nea'ros
+2.251	young man (adolescent)	'efivi
+2.26	girl	ko'ritsi
+2.261	young woman (adolescent)	ko'ritsi
+2.261	young woman (adolescent)	ko'pela
+2.261	young woman (adolescent)	'efivi
+2.27	child	pe'ði
+2.28	infant, baby	pe'ði
+2.28	infant, baby	mo'ro
+2.31	husband	'siziɣos
+2.31	husband	'adras
+2.32	wife	'siziɣos
+2.32	wife	ɣi'neka
+2.33	marry	pa'drevome
+2.34	marriage, wedding	'ɣamos
+2.341	divorce	ðia'ziɣio
+2.35	father	pa'teras
+2.35	father	ba'bas
+2.36	mother	mi'tera
+2.36	mother	ma'ma
+2.36	mother	'mana
+2.37	parents	ɣo'nis
+2.38	married man	padre'menos
+2.39	married woman	padre'meni
+2.41	son	'ɣios
+2.42	daughter	'kori
+2.43	offspring (son or daughter)	pe'ði
+2.44	brother	aðer'fos
+2.444	older brother	me'ɣalosaðer'fos
+2.445	younger brother	mi'krosaðer'fos
+2.45	sister	aðer'fi
+2.454	older sister	me'ɣaliaðer'fi
+2.455	younger sister	mi'kriaðer'fi
+2.456	sibling	aðer'fos
+2.456	sibling	aðer'fi
+2.458	twins	'ðiðimi
+2.458	twins	'ðiðima
+2.46	grandfather	pa'pus
+2.461	old man	'ɣeros
+2.47	grandmother	ɣia'ɣia
+2.471	old woman	ɣri'a
+2.48	grandson	ego'nos
+2.49	granddaughter	ego'ni
+2.51	uncle	'θios
+2.511	mother's brother	aðer'fostismi'teras
+2.512	father's brother	aðer'fostupa'tera
+2.52	aunt	'θia
+2.521	mother's sister	aðer'fitismi'teras
+2.522	father's sister	aðer'fitupa'tera
+2.53	nephew	ani'psios
+2.54	niece	ani'psia
+2.55	cousin	ksa'ðerfi
+2.56	ancestors	'proɣoni
+2.57	descendants	a'poɣoni
+2.61	father-in-law (of a man)	peθe'ros
+2.611	father-in-law (of a woman)	peθe'ros
+2.62	mother-in-law (of a man)	peθe'ra
+2.621	mother-in-law (of a woman)	peθe'ra
+2.63	son-in-law (of a man)	ɣa'bros
+2.631	son-in-law (of a woman)	ɣa'bros
+2.64	daughter-in-law (of a man)	'nifi
+2.641	daughter-in-law (of a woman)	'nifi
+2.71	stepfather	patri'os
+2.72	stepmother	mitri'a
+2.73	stepson	proɣo'nos
+2.74	stepdaughter	proɣo'ni
+2.75	orphan	orfa'nos
+2.75	orphan	orfa'ni
+2.76	widow	'xira
+2.77	widower	'xiros
+2.81	relatives, kinsmen	sige'nis
+2.81	relatives, kinsmen	'soi
+2.82	family	iko'ɣenia
+2.91	I	e'ɣo
+2.92	you (singular)	e'si
+2.93	he/she/it	a'ftos
+2.93	he/she/it	a'fti
+2.93	he/she/it	a'fto
+2.94	we	e'mis
+2.941	we (inclusive)	e'mis
+2.942	we (exclusive)	e'mis
+2.95	you (plural)	e'sis
+2.96	they	a'fti
+2.96	they	a'ftes
+2.96	they	a'fta
+3.11	animal	'zoo
+3.12	male (adj)	arseni'kos
+3.13	female (adj)	θili'kos
+3.15	livestock	'zoa
+3.15	livestock	zoda'na
+3.16	pasture	vosko'topi
+3.18	herdsman	vo'skos
+3.19	stable, stall	'stavlos
+3.2	cattle (bovine)	'zoa
+3.2	cattle (bovine)	zoda'na
+3.21	bull	'tavros
+3.22	ox	'voði
+3.23	cow	aɣe'laða
+3.24	calf	mo'sxari
+3.25	sheep	'provato
+3.26	ram	kri'ari
+3.28	ewe	prova'tina
+3.29	lamb	ar'ni
+3.32	boar	aɣrio'ɣuruno
+3.34	sow	ɣu'runa
+3.35	pig	ɣu'runi
+3.36	goat	ka'tsika
+3.36	goat	'ɣiða
+3.37	he-goat	'traɣos
+3.38	kid	ka'tsiki
+3.38	kid	katsi'kaki
+3.41	horse (equine)	'aloɣo
+3.41	horse (equine)	'ipos
+3.42	stallion	epi'vitorasipos
+3.44	mare	fo'raða
+3.45	foal, colt	pu'lari
+3.46	ass, donkey	ɣai'ðuri
+3.46	ass, donkey	'ɣaiðaros
+3.47	mule	mu'lari
+3.5	fowl	puleri'ko
+3.52	cock, rooster	'kokoras
+3.54	hen	'kota
+3.55	chicken	ko'topulo
+3.56	goose	'xina
+3.57	duck	'papia
+3.58	nest	fo'lia
+3.581	bird	pu'li
+3.582	seagull	'ɣlaros
+3.583	heron	eroði'os
+3.584	eagle	ae'tos
+3.585	hawk	ɣe'raki
+3.586	vulture	'ɣipas
+3.591	bat	nixte'riða
+3.592	parrot	papa'ɣalos
+3.593	crow	ko'raki
+3.593	crow	'korakas
+3.594	dove	peri'steri
+3.596	owl	kuku'vaɣia
+3.61	dog	'skilos
+3.61	dog	ski'li
+3.614	rabbit	ku'neli
+3.62	cat	'ɣata
+3.622	opossum	o'posum
+3.63	mouse, rat	po'diki
+3.63	mouse, rat	aru'reos
+3.65	fish	'psari
+3.652	fin (dorsal)	pte'riɣio
+3.653	fishscale	'lepi
+3.654	gill	'vranxia
+3.655	shell	'ostrako
+3.655	shell	ko'xili
+3.661	shark	karxa'rias
+3.662	porpoise, dolphin	ðel'fini
+3.663	whale	'falena
+3.664	stingray	sa'laxi
+3.665	freshwater eel	'xeli
+3.71	wolf	'likos
+3.72	lion	lio'dari
+3.73	bear	ar'kuða
+3.74	fox	ale'pu
+3.75	deer	e'lafi
+3.75	deer	zar'kaði
+3.76	monkey	'piθikos
+3.76	monkey	mai'mu
+3.77	elephant	e'lefadas
+3.78	camel	ka'mila
+3.81	insect	'edomo
+3.811	louse	'psira
+3.812	nit (louse egg)	'koniða
+3.813	flea	'psilos
+3.814	centipede	saradapoða'rusa
+3.815	scorpion	skor'pios
+3.816	cockroach	katsa'riða
+3.817	ant	mir'migi
+3.818	spider	a'raxni
+3.819	spider web	i'stosa'raxnis
+3.82	bee	'melisa
+3.821	beeswax	ke'ri
+3.822	beehive	ki'pseli
+3.823	wasp	'sfiga
+3.83	fly	'miɣa
+3.831	sandfly (midge), gnat	ku'nupi
+3.831	sandfly (midge), gnat	mi'ɣaki
+3.832	mosquito	ku'nupi
+3.84	worm	sku'liki
+3.85	snake	'fiði
+3.91	firefly	piɣola'biða
+3.92	butterfly	peta'luða
+3.93	grasshopper	a'kriða
+3.94	snail	sali'gari
+3.95	frog	'vatraxos
+3.96	lizard	'savra
+3.97	crocodile, alligator	kro'koðilos
+3.97	crocodile, alligator	ali'ɣatoras
+3.98	turtle	xe'lona
+4.11	body	'soma
+4.11	body	kor'mi
+4.12	skin, hide	'ðerma
+4.12	skin, hide	epiðer'miða
+4.13	flesh	'sarka
+4.14	hair (head)	'trixa
+4.142	beard	'musi
+4.142	beard	'ɣenia
+4.144	body hair	'trixa
+4.145	pubic hair	'trixa
+4.146	dandruff	piti'riða
+4.15	blood	'ema
+4.151	vein, artery	'fleva
+4.151	vein, artery	arti'ria
+4.16	bone	'kokalo
+4.162	rib	ple'vro
+4.17	horn	'kerato
+4.18	tail	u'ra
+4.19	back	'plati
+4.191	spine	sponðili'ki'stili
+4.191	spine	raxokokali'a
+4.2	head	ke'fali
+4.201	side of head, temple	'krotafos
+4.202	skull	kra'nio
+4.203	brain	mia'lo
+4.203	brain	'nus
+4.203	brain	e'gefalos
+4.204	face	'prosopo
+4.204	face	'mutra
+4.205	forehead	'metopo
+4.205	forehead	'kutelo
+4.207	jaw	ma'sela
+4.208	cheek	'maɣulo
+4.209	chin	pi'ɣuni
+4.209	chin	sa'ɣoni
+4.21	eye	'mati
+4.212	eyebrow	'friði
+4.213	eyelid	'vlefaro
+4.214	eyelash	vlefa'riða
+4.214	eyelash	ma'toklaðo
+4.215	blink	aniɣo'klinota'matia
+4.22	ear	a'fti
+4.221	earlobe	lo'vos
+4.222	earwax	ke'ri
+4.23	nose	'miti
+4.231	nostril	ru'θuni
+4.232	mucus (nasal)	'miksa
+4.24	mouth	'stoma
+4.241	beak	'ramfos
+4.25	lip	'xili
+4.26	tongue	'ɣlosa
+4.27	tooth	'ðodi
+4.271	gums	'ula
+4.272	molartooth	trape'zitis
+4.28	neck	le'mos
+4.281	nape of neck	'sverkos
+4.29	throat	le'mos
+4.29	throat	la'rigi
+4.3	shoulder	'omos
+4.301	shoulderblade	omo'plati
+4.302	collarbone	'sterno
+4.31	arm	'xeri
+4.312	armpit	ma'sxali
+4.32	elbow	a'gonas
+4.321	wrist	kar'posxe'riu
+4.33	hand	'xeri
+4.331	palm of hand	pa'lami
+4.34	finger	'ðaxtilo
+4.342	thumb	a'dixiras
+4.344	fingernail	'nixi
+4.345	claw	'nixi
+4.35	leg	'poði
+4.351	thigh	'buti
+4.351	thigh	mi'ros
+4.352	calf of leg	'ɣaba
+4.36	knee	'ɣonato
+4.37	foot	'poði
+4.371	ankle	a'straɣalos
+4.372	heel	'fterna
+4.374	footprint	'xnari
+4.374	footprint	'ixnos
+4.38	toe	'ðaxtilopo'ðiu
+4.392	wing	fte'ro
+4.393	feather	fte'ro
+4.4	chest	'stiθos
+4.4	chest	'θorakas
+4.41	breast (of woman)	'stiθos
+4.41	breast (of woman)	'stiθi
+4.412	nipple, teat	θi'li
+4.412	nipple, teat	'roɣa
+4.42	udder	ma'stos
+4.43	navel	afa'los
+4.44	heart	kar'ðia
+4.441	lung	pnef'moni
+4.45	liver	si'koti
+4.451	kidney	ne'fro
+4.452	spleen	'splina
+4.46	stomach	sto'maxi
+4.46	stomach	kili'a
+4.461	intestines, guts	'edera
+4.462	waist	'mesi
+4.463	hip	le'kani
+4.464	buttocks	ɣlu'ti
+4.464	buttocks	pisi'nos
+4.47	womb	'mitra
+4.49	testicle	'orxis
+4.492	penis	'peos
+4.51	breathe, breath	ana'pneo
+4.51	breathe, breath	anapno'i
+4.52	yawn, gape	xasmu'rieme
+4.521	hiccough	'exo'loksiga
+4.53	cough	'vixo
+4.54	sneeze	ftar'nizome
+4.55	perspire	i'ðrono
+4.56	spit	'ftino
+4.57	vomit	'kanoeme'to
+4.58	bite	ða'gono
+4.59	lick	'ɣlifo
+4.591	dribble	'trexunta'saliamu
+4.61	sleep	ki'mame
+4.612	snore	roxa'lizo
+4.62	dream	oni'revome
+4.63	wake up	ksi'pnao
+4.64	break wind	'klano
+4.65	urinate	u'ro
+4.66	defecate	'kanoka'ka
+4.66	defecate	ener'ɣume
+4.66	defecate	ka'ka
+4.66	defecate	ska'ta
+4.67	have sexual intercourse	'kano'erota
+4.68	shiver	anatrixi'azo
+4.68	shiver	ri'ɣo
+4.69	bathe	'kano'banio
+4.71	beget (of father)	ɣe'nao
+4.72	born (to be)	ɣeni'menos
+4.72	born (to be)	ɣeni'eme
+4.73	pregnant	'egios
+4.732	conceive	silam'vano
+4.74	live, living, life	'zo
+4.74	live, living, life	zoda'nos
+4.74	live, living, life	zo'i
+4.75	die, dead	pe'θeno
+4.75	die, dead	peθa'menos
+4.75	die, dead	ne'kros
+4.751	drowned	pniɣ'menos
+4.76	kill	sko'tono
+4.77	corpse	'ptoma
+4.78	bury (the dead)	'θavo
+4.79	grave, tomb	'tafos
+4.81	strong, mighty, powerful	ðina'tos
+4.81	strong, mighty, powerful	ɣe'ros
+4.81	strong, mighty, powerful	isxi'ros
+4.82	weak	a'ðinamos
+4.82	weak	a'nisxiros
+4.83	well, health	i'ɣia
+4.83	well, health	iɣi'is
+4.84	sick, sickness	'arostos
+4.84	sick, sickness	asθe'nis
+4.84	sick, sickness	a'rostia
+4.84	sick, sickness	a'sθenia
+4.84	sick, sickness	'nosos
+4.841	fever	pire'tos
+4.842	goiter	vronxo'kili
+4.843	cold (catarrh)	si'naxi
+4.85	wound, sore	pli'ɣi
+4.85	wound, sore	'trafma
+4.852	bruise	melani'a
+4.852	bruise	'molopas
+4.853	swelling	ka'bura
+4.853	swelling	'priksimo
+4.854	itch	fa'ɣura
+4.855	blister	fu'skala
+4.856	boil (noun)	ka'loɣiros
+4.857	pus	'pion
+4.858	scar	u'li
+4.86	cure, heal	θera'pevome
+4.86	cure, heal	ɣia'trevome
+4.87	physician	ɣia'tros
+4.87	physician	ia'tros
+4.88	medicine, drug	'farmako
+4.88	medicine, drug	iatri'ki
+4.89	poison	ðili'tirio
+4.91	tired, weary	'kura'smenos
+4.912	rest	kseku'razome
+4.92	lazy	te'belis
+4.93	bald	fala'kros
+4.94	lame	ku'tsos
+4.95	deaf	ku'fos
+4.96	mute	mu'gos
+4.97	blind	ti'flos
+4.98	intoxicated	meθi'smenos
+4.99	naked, bare	ɣi'mnos
+5.11	eat	'troo
+5.12	food	tro'fi
+5.121	cooked	psi'menos
+5.122	raw	o'mos
+5.123	ripe	'orimos
+5.124	green, unripe	'aɣuros
+5.125	rotten	'sapios
+5.13	drink	'pino
+5.14	hunger	'pina
+5.141	famine	'pina
+5.141	famine	li'mos
+5.15	thirst	'ðipsa
+5.16	suck	'ɣlifo
+5.18	chew	ma'sao
+5.181	swallow	kata'pino
+5.19	choke	'pniɣome
+5.21	cook	'psino
+5.21	cook	maɣi'revo
+5.22	boil (vb)	'vrazo
+5.23	roast, fry	'psino
+5.23	roast, fry	tiɣa'nizo
+5.24	bake	'psinosto'furno
+5.25	oven	'furnos
+5.26	pot, cooking vessel	katsa'rola
+5.27	kettle	vra'stiras
+5.28	pan	katsa'rola
+5.31	dish	'piato
+5.32	plate	'piato
+5.33	bowl	'bol
+5.34	pitcher, jug	'stamna
+5.35	cup, drinking vessel	fli'tzani
+5.35	cup, drinking vessel	'kupa
+5.36	saucer	pia'taki
+5.37	spoon	ku'tali
+5.38	knife	ma'xeri
+5.39	fork	pi'runi
+5.391	tongs	tsi'biða
+5.391	tongs	la'viða
+5.41	meal (a)	'ɣefma
+5.41	meal (a)	faɣi'to
+5.41	meal (a)	fa'i
+5.42	breakfast	'proɣefma
+5.42	breakfast	proi'no
+5.43	lunch	'ɣefma
+5.43	lunch	mesimeria'no
+5.44	dinner	'ðipno
+5.44	dinner	vraði'no
+5.45	supper	'ðipno
+5.45	supper	vraði'no
+5.46	peel	kseflu'ðizo
+5.46	peel	kaθa'rizo
+5.47	sieve, strain	koski'nizo
+5.47	sieve, strain	su'rono
+5.48	scrape	'trivo
+5.49	stir, mix	anaka'tevo
+5.51	bread	pso'mi
+5.53	dough	'zimi
+5.53	dough	zi'mari
+5.54	knead	zi'mono
+5.55	meal, flour	a'levri
+5.56	crush, grind	li'ono
+5.56	crush, grind	a'leθo
+5.57	mill	'milos
+5.58	mortar	ɣu'ði
+5.59	pestle	ɣuðo'xeri
+5.61	meat	'kreas
+5.63	sausage	lu'kaniko
+5.64	soup, broth	'supa
+5.65	vegetables	laxani'ka
+5.66	bean	fa'soli
+5.71	fruit	'fruto
+5.712	bunch	'matso
+5.712	bunch	ma'tsaki
+5.75	fig	'siko
+5.76	grape	sta'fili
+5.77	nut	ka'riði
+5.78	olive	eli'a
+5.79	oil	'laði
+5.791	grease, fat	'lipos
+5.791	grease, fat	'ksigi
+5.81	salt	a'lati
+5.82	pepper	pi'peri
+5.821	chili pepper	'kokinopi'peri
+5.84	honey	'meli
+5.85	sugar	'zaxari
+5.86	milk (noun)	'ɣala
+5.87	milk (vb)	ar'meɣo
+5.88	cheese	ti'ri
+5.89	butter	'vutiro
+5.9	beverage, drink	po'to
+5.91	mead	iðro'meli
+5.92	wine	kra'si
+5.92	wine	'inos
+5.93	beer	'bira
+5.94	fermented drink	enzimo'menopo'to
+5.97	egg	a'vɣo
+5.971	egg yolk	'krokos
+6.11	put on (clothes)	fo'rao
+6.11	put on (clothes)	'vazo
+6.11	put on (clothes)	'dinome
+6.12	clothing, clothes	'ruxo
+6.12	clothing, clothes	'enðima
+6.13	tailor	'raftis
+6.21	cloth	'ifasma
+6.22	wool	ma'li
+6.23	linen, flax	li'nari
+6.23	linen, flax	li'no
+6.24	cotton	vam'vaki
+6.25	silk	me'taksi
+6.27	felt	'tsoxa
+6.28	fur	'ɣuna
+6.29	leather	'ðerma
+6.31	spin	'kloθo
+6.31	spin	'ɣneθo
+6.32	spindle	a'ðraxti
+6.33	weave	i'feno
+6.34	loom	arɣa'lios
+6.35	sew	'ravo
+6.36	needle	ve'lona
+6.37	awl	su'vli
+6.38	thread	klo'sti
+6.39	dye	'vafo
+6.41	cloak	'kapa
+6.411	poncho	'pontso
+6.42	woman's dress	'forema
+6.42	woman's dress	fu'stani
+6.43	coat	pal'to
+6.43	coat	pano'fori
+6.44	shirt	pu'kamiso
+6.45	collar	ɣia'kas
+6.46	skirt	'fusta
+6.461	grass-skirt	'fusta
+6.48	trousers	pade'loni
+6.49	stocking, sock	kal'son
+6.49	stocking, sock	ɣine'kies'kaltses
+6.49	stocking, sock	'kaltsa
+6.51	shoe	pa'putsi
+6.52	boot	'bota
+6.54	shoemaker, cobbler	tsa'garis
+6.55	hat, cap	ka'pelo
+6.57	belt, girdle	'zoni
+6.57	belt, girdle	lu'riða
+6.58	glove	'ɣadi
+6.59	veil	'velo
+6.61	pocket	'tsepi
+6.62	button	ku'bi
+6.63	pin	para'mana
+6.71	ornament, adornment	sto'liði
+6.72	jewel	bi'zu
+6.72	jewel	'kosmima
+6.73	ring (for finger)	ðaxti'liði
+6.73	ring (for finger)	'vera
+6.74	bracelet	vraxi'oli
+6.75	necklace	koli'es
+6.76	bead	'xadra
+6.77	earring	skula'riki
+6.78	headband, headdress	ma'dili
+6.78	headband, headdress	ma'dila
+6.78	headband, headdress	ba'dana
+6.79	tattoo	tatu'az
+6.81	handkerchief, rag	ma'dili
+6.81	handkerchief, rag	madi'laki
+6.81	handkerchief, rag	patsa'vura
+6.82	towel	pe'tseta
+6.91	comb	tsa'tsara
+6.91	comb	'xtena
+6.92	brush	'vurtsa
+6.921	braid	'plekotama'lia
+6.93	razor	ksi'rafi
+6.93	razor	ksira'faki
+6.94	ointment	ali'fi
+6.95	soap	sa'puni
+6.96	mirror	ka'θreftis
+7.11	dwell, live	'meno
+7.11	dwell, live	kati'ko
+7.12	house	'spiti
+7.12	house	i'kia
+7.13	hut	ka'liva
+7.131	garden-house	spi'taki'kipu
+7.14	tent	ski'ni
+7.15	yard, court	a'vli
+7.16	men's house	'klabia'adres
+7.17	cookhouse	ku'zina
+7.18	meeting house	sineðria'kos'xoros
+7.21	room	ðo'matio
+7.22	door, gate	'porta
+7.221	doorpost, jamb	ko'lona
+7.221	doorpost, jamb	'stilos
+7.23	lock (noun)	kliða'ria
+7.23	lock (noun)	lu'keto
+7.231	latch, door-bolt	'sirtis
+7.231	latch, door-bolt	kliða'ria
+7.24	key	kli'ði
+7.25	window	pa'raθiro
+7.26	floor	'patoma
+7.27	wall	'tixos
+7.31	fireplace	e'stia
+7.32	stove	'soba
+7.33	chimney	'tzaki
+7.37	ladder	'skala
+7.42	bed	kre'vati
+7.421	pillow	maksi'lari
+7.422	blanket	ku'verta
+7.43	chair	ka'rekla
+7.44	table	tra'pezi
+7.45	lamp, torch	'laba
+7.45	lamp, torch	'ɣlobos
+7.46	candle	ke'ri
+7.47	shelf	eta'zera
+7.47	shelf	'rafi
+7.48	trough	'skafi
+7.48	trough	po'tistra
+7.51	roof	'steɣi
+7.51	roof	ske'pi
+7.52	thatch	axiroske'pi
+7.52	thatch	kalamoske'pi
+7.53	ridgepole	ori'zodios'stilosstinkori'fiski'nis
+7.54	rafter	ðo'kari
+7.54	rafter	ðo'kos
+7.54	rafter	ka'ðroni
+7.55	beam	ðo'kari
+7.55	beam	ðo'kos
+7.55	beam	ma'ðeri
+7.56	post, pole	'stilos
+7.56	post, pole	'pasalos
+7.57	board	sa'niða
+7.58	arch	a'psiða
+7.58	arch	ka'mara
+7.61	mason	'xtistis
+7.61	mason	iko'ðomos
+7.62	brick	'tuvlo
+7.63	mortar	asve'stolaspi
+7.64	adobe	'pliθa
+8.11	farmer	a'ɣrotis
+8.11	farmer	ɣeor'ɣos
+8.12	field (for cultivation)	xo'rafi
+8.13	garden	'kipos
+8.13	garden	peri'voli
+8.15	cultivate, till	kalier'ɣo
+8.15	cultivate, till	or'ɣono
+8.16	fence	'fraxtis
+8.17	ditch	xa'daki
+8.17	ditch	'tafros
+8.21	plow	or'ɣono
+8.21	plow	a'letri
+8.212	furrow	a'vlaki
+8.22	dig	'skavo
+8.23	spade	a'ksina
+8.24	shovel	'ftiari
+8.25	hoe	'tsapa
+8.26	fork	pi'runi
+8.27	rake	tsu'grana
+8.31	sow	'sperno
+8.311	seed	'sporos
+8.32	mow, reap	ku'revo
+8.32	mow, reap	ma'zevo
+8.33	sickle, scythe	ðre'pani
+8.34	thresh	alo'nizo
+8.35	threshing-floor	a'loni
+8.41	crop, harvest	θeri'smos
+8.42	grain (barley, oats etc)	spi'ri
+8.42	grain (barley, oats etc)	'sporos
+8.43	wheat	'stari
+8.43	wheat	si'tari
+8.44	barley	kri'θari
+8.45	rye	'sikali
+8.46	oats	'vromi
+8.47	maize, corn	kala'boki
+8.48	rice	'rizi
+8.51	grass	'xorto
+8.51	grass	xor'tari
+8.52	hay	sa'nos
+8.52	hay	'axiro
+8.53	plant (noun)	fi'to
+8.531	plant (vb)	fi'tevo
+8.54	root	'riza
+8.55	branch	kla'ði
+8.55	branch	klo'nari
+8.56	leaf	'filo
+8.57	flower	lu'luði
+8.57	flower	'anθos
+8.6	tree	'ðedro
+8.61	oak	velani'ðia
+8.62	beech	o'ksia
+8.63	birch	si'miða
+8.64	pine	'pefko
+8.65	fir	'elato
+8.66	acorn	vela'niði
+8.67	vine	a'beli
+8.68	tobacco	ka'pnos
+8.69	smoke (tobacco)	ka'pnizo
+8.691	pipe	'pipa
+8.72	tree stump	'kutsuro
+8.73	tree trunk	kor'mos
+8.74	forked branch	ðixalo'tokla'ði
+8.75	bark	fli'os
+8.76	sap	xi'mosfi'tu
+8.81	palm tree	'finikas
+8.82	coconut	ka'riða
+8.83	citrus fruit	'kitro
+8.84	banana tree	banani'a
+8.91	sweet potato	ɣlikopa'tata
+8.912	yam	ɣlikopa'tata
+8.912	yam	'iɣnamo
+8.93	gourd	nerokolo'kiθa
+8.931	pumpkin, squash	ɣlikokolo'kiθa
+8.931	pumpkin, squash	kolo'kiθa
+8.94	bamboo	ba'bu
+8.941	sugar cane	zaxaro'kalamo
+8.96	fish poison (root)	ðili'tirio
+8.97	nettle	tsu'kniða
+8.98	mushroom	mani'tari
+9.11	do, make	'kano
+9.11	do, make	'ftiaxno
+9.12	work	ðu'levo
+9.12	work	er'ɣazome
+9.14	bend	ði'plono
+9.15	fold	ði'plono
+9.16	tie, bind	'ðeno
+9.161	untie	'lino
+9.18	chain	ali'siða
+9.19	rope, cord	ski'ni
+9.192	knot (noun)	'kobos
+9.21	strike (hit, beat)	xti'pao
+9.211	pound with fist	ɣronθoko'po
+9.22	cut	'kovo
+9.221	cut down	kateða'fizo
+9.221	cut down	'rixno'kato
+9.222	chop, hew	kla'ðevo
+9.222	chop, hew	'kovo
+9.223	stab	maxe'rono
+9.23	knife	ma'xeri
+9.24	scissors, shears	psa'liði
+9.25	ax	tse'kuri
+9.251	adze	ske'parni
+9.26	break	'spao
+9.261	broken	spa'smenos
+9.27	split	'skizo
+9.28	tear	'skizo
+9.29	flay, skin	'ɣðerno
+9.31	rub, wipe	'trivo
+9.31	rub, wipe	sku'pizo
+9.32	stretch	a'plono
+9.33	pull	tra'vao
+9.34	spread out	a'plono
+9.34	spread out	skor'pizo
+9.341	hang up	kre'mao
+9.342	press	pi'ezo
+9.342	press	pa'tao
+9.343	squeeze, wring	pi'ezo
+9.343	squeeze, wring	'stivo
+9.35	pour	'xino
+9.35	pour	'rixno
+9.36	wash	'pleno
+9.37	sweep	sku'pizo
+9.38	broom	'skupa
+9.422	tool	erɣa'lio
+9.43	carpenter	ksilur'ɣos
+9.44	build	'xtizo
+9.46	bore	tri'pao
+9.461	hollow out	'skavo
+9.48	saw	pri'oni
+9.49	hammer	sfi'ri
+9.5	nail	kar'fi
+9.56	glue	'kola
+9.6	smith, blacksmith	siðe'ras
+9.61	forge	sfirila'to
+9.62	anvil	a'moni
+9.63	cast (metals)	'xino'metalo
+9.64	gold	xri'sos
+9.65	silver	a'simi
+9.65	silver	'arɣiros
+9.66	copper, bronze	xal'kos
+9.67	iron	'siðiros
+9.68	lead (noun)	'molivðos
+9.69	tin, tinplate	ka'siteros
+9.71	potter	keramopi'os
+9.72	mold (clay etc)	kalu'pono
+9.72	mold (clay etc)	for'maro
+9.73	clay	'arɣilos
+9.73	clay	arɣi'loxoma
+9.74	glass	ɣia'li
+9.75	weave, plait	i'feno
+9.75	weave, plait	'dino
+9.75	weave, plait	'pleko
+9.76	basket	ka'laθi
+9.77	mat	'psaθa
+9.77	mat	xa'laki
+9.771	rug	xa'li
+9.78	netbag	'ðixti
+9.79	fan (noun)	ve'dalia
+9.791	fan (vb)	ae'rizome
+9.791	fan (vb)	'kanoa'era
+9.81	carve	la'ksevo
+9.81	carve	xa'razo
+9.82	sculptor	'ɣliptis
+9.83	statue	'aɣalma
+9.84	chisel	'smili
+9.88	paint (noun)	zoɣrafi'ki
+9.89	paint (vb)	zoɣra'fizo
+10.11	move	ku'nao
+10.11	move	ki'nume
+10.12	turn over	anapoðoɣi'rizo
+10.12	turn over	ɣi'rizo
+10.13	turn around	ɣi'rizo
+10.13	turn around	'strefome
+10.14	wind, wrap	ti'liɣo
+10.15	roll	ki'lao
+10.15	roll	'trexo
+10.16	drop (vb)	a'fino
+10.17	twist	'strivo
+10.21	rise	ane'veno
+10.21	rise	si'konome
+10.22	raise, lift	si'kono
+10.22	raise, lift	i'psono
+10.22	raise, lift	ana'trefo
+10.23	fall	'pefto
+10.24	drip	'stazo
+10.25	throw	pe'tao
+10.25	throw	'rixno
+10.252	catch (ball)	'piano
+10.252	catch (ball)	silam'vano
+10.26	shake	ti'nazo
+10.26	shake	tra'dazo
+10.26	shake	anaki'no
+10.32	flow	ki'lao
+10.32	flow	'reo
+10.33	sink	vi'θizome
+10.33	sink	vu'liazo
+10.34	float	epi'pleo
+10.35	swim	koli'bao
+10.351	dive	vu'tao
+10.351	dive	'kanovu'tia
+10.352	splash	pitsi'lizo
+10.352	splash	pe'taone'ra
+10.36	sail (vb)	'pleo
+10.37	fly (vb)	pe'tao
+10.38	blow	fi'sao
+10.41	creep, crawl	'sernome
+10.412	kneel	ɣona'tizo
+10.413	crouch	'kaθomeokla'ðon
+10.42	slide, slip	ɣli'strao
+10.43	jump, leap	pi'ðao
+10.431	kick	klo'tsao
+10.44	dance	xo'revo
+10.45	walk	perpa'tao
+10.451	limp	ku'tseno
+10.46	run	'trexo
+10.47	go	pi'ɣeno
+10.47	go	'pao
+10.471	go up	ane'veno
+10.472	climb	skarfa'lono
+10.473	go down	kate'veno
+10.474	go out	'vɣeno
+10.48	come	'erxome
+10.481	come back	epi'strefo
+10.481	come back	ɣi'rizo'piso
+10.49	go away, depart	'fevɣo
+10.49	go away, depart	anaxo'ro
+10.491	disappear	eksafa'nizome
+10.51	flee	apo'ðro
+10.51	flee	'trepomesefi'ɣi
+10.52	follow	akolu'θo
+10.53	pursue	parakolu'θo
+10.55	reach, arrive	'ftano
+10.56	approach	plisi'azo
+10.57	enter	'beno
+10.61	carry (bear)	meta'fero
+10.612	carry-in-hand	meta'fero
+10.613	carry-on-shoulder	meta'fero
+10.614	carry-on-head	meta'fero
+10.615	carry-underarm	meta'fero
+10.62	bring	'pao
+10.62	bring	'ferno
+10.63	send	'stelno
+10.64	lead (vb)	oði'ɣo
+10.65	drive	oði'ɣo
+10.66	ride	epi'veno
+10.66	ride	kavali'kevo
+10.67	push, shove	'sproxno
+10.71	road	'ðromos
+10.71	road	o'ðos
+10.72	path	mono'pati
+10.72	path	'ðromos
+10.74	bridge	'ɣefira
+10.75	carriage, wagon, cart	va'ɣoni
+10.75	carriage, wagon, cart	karo
+10.76	wheel	'roða
+10.76	wheel	tro'xos
+10.77	axle	'aksonas
+10.78	yoke	zi'ɣos
+10.81	ship	'skafos
+10.81	ship	'plio
+10.81	ship	ka'ravi
+10.83	boat	'plio
+10.83	boat	ka'ravi
+10.831	canoe	ka'no
+10.831	canoe	pi'roɣa
+10.832	outrigger	ekre'mes
+10.84	raft	sxe'ðia
+10.85	oar	ku'pi
+10.851	paddle (noun)	ku'pi
+10.852	row (vb)	tra'vaoku'pi
+10.852	row (vb)	kopila'to
+10.86	rudder	ti'moni
+10.86	rudder	pi'ðalio
+10.87	mast	ka'tarti
+10.88	sail (noun)	pa'ni
+10.89	anchor	'agira
+10.91	harbor, port	li'mani
+10.92	land (vb)	apovi'vazo
+10.92	land (vb)	apovi'vazome
+11.11	have	'exo
+11.12	own, possess	'exo
+11.12	own, possess	ka'texo
+11.13	take	'perno
+11.14	seize, grasp	pi'ano
+11.14	seize, grasp	ar'pazo
+11.15	hold	kra'tao
+11.16	get, obtain	apo'kto
+11.17	keep, retain	fi'lao
+11.17	keep, retain	kra'tao
+11.18	thing	'praɣma
+11.21	give	'ðino
+11.22	give back	'ðino'piso
+11.22	give back	epi'strefo
+11.24	preserve, look after	prosta'tevo
+11.24	preserve, look after	profi'laso
+11.25	save, rescue	'sozo
+11.25	save, rescue	ðia'sozo
+11.25	save, rescue	ɣli'tono
+11.27	destroy	kata'strefo
+11.28	harm, injure, damage	pli'ɣono
+11.28	harm, injure, damage	travma'tizo
+11.28	harm, injure, damage	'vlapto
+11.28	harm, injure, damage	'kanozi'mia
+11.31	seek, look for	'psaxno
+11.32	find	'vrisko
+11.33	lose	'xano
+11.34	release, let go	elefθe'rono
+11.43	money	'xrima
+11.43	money	lef'ta
+11.44	coin	'nomisma
+11.51	rich	'plusios
+11.52	poor	fto'xos
+11.53	beggar	zi'tianos
+11.54	avaricious, stingy	fi'larɣiros
+11.54	avaricious, stingy	tsi'gunis
+11.61	lend	ða'nizo
+11.62	borrow	ða'nizome
+11.63	owe	xro'stao
+11.64	debt	'xreos
+11.65	pay (vb)	pli'rono
+11.66	account, reckoning	loɣaria'smos
+11.69	tax, tribute	'foros
+11.77	hire	ni'kiazo
+11.78	wages	mi'sθos
+11.79	earn	ker'ðizo
+11.81	buy	aɣo'razo
+11.82	sell	pu'lao
+11.83	trade, barter	sinala'ɣi
+11.83	trade, barter	adala'ɣi
+11.84	merchant	'eboros
+11.85	market (place)	aɣo'ra
+11.86	store, shop	maɣa'zi
+11.86	store, shop	ka'tastima
+11.87	price	ti'mi
+11.88	dear (costly, expensive)	akri'vos
+11.89	cheap	fti'nos
+11.91	share (distribute)	mi'razo
+11.91	share (distribute)	mi'razome
+11.92	weigh	zi'ɣizo
+12.1	after	me'ta
+12.11	place	'piso
+12.2	beside	'ðipla
+12.2	beside	'plai
+12.3	down, below	'kato
+12.3	down, below	e'ki'kato
+12.3	down, below	e'ki'pera
+12.4	before	'prin
+12.41	right (side)	bro'sta
+12.5	inside, in	'mesa
+12.5	inside, in	'se
+12.6	outside	'ekso
+12.7	under	'katoa'po
+12.7	under	apo'kato
+12.8	up, above	'pano
+12.8	up, above	'panoa'po
+12.8	up, above	apo'pano
+12.11	place	'meros
+12.11	place	'θesi
+12.11	place	'topos
+12.12	put	'vazo
+12.13	sit	'kaθome
+12.14	lie down	ksa'plono
+12.15	stand	'stekome'orθios
+12.16	remain, stay	'meno
+12.16	remain, stay	peri'meno
+12.17	remains, left overs	i'polipo
+12.17	remains, left overs	pe'risevma
+12.17	remains, left overs	i'polima
+12.21	collect, gather	ma'zevo
+12.21	collect, gather	sige'drono
+12.212	pick up	ma'zevo
+12.213	pile up	sti'vazo
+12.22	join, unite	e'nono
+12.22	join, unite	sin'ðeo
+12.23	separate	xo'rizo
+12.232	divide	ðie'ro
+12.24	open	a'niɣo
+12.25	shut, close	'klino
+12.26	cover	ka'lipto
+12.26	cover	ske'pazo
+12.27	hide, conceal	'krivo
+12.31	high	psi'los
+12.32	low	xami'los
+12.33	top	kori'fi
+12.34	bottom	'vaθos
+12.35	end	'akri
+12.35	end	'akro
+12.35	end	'terma
+12.352	pointed	mite'ros
+12.353	edge	'akri
+12.353	edge	'kopsi
+12.36	side	ple'vra
+12.37	middle, center	'mesi
+12.37	middle, center	'kedro
+12.41	right (side)	ðeksi'a
+12.42	left (side)	ariste'ri
+12.43	near (adv)	ko'da
+12.44	far (adv)	makri'a
+12.45	east	anato'li
+12.46	west	'ðisi
+12.47	north	vo'ras
+12.48	south	'notos
+12.53	grow	meɣa'lono
+12.53	grow	ana'ptisome
+12.54	measure	me'trao
+12.541	span, fathom	or'ɣia
+12.55	large, big	me'ɣalos
+12.55	large, big	psi'los
+12.55	large, big	xo'dros
+12.56	small, little	mi'kros
+12.56	small, little	ko'dos
+12.57	long	ma'kris
+12.58	tall	psi'los
+12.59	short	ko'dos
+12.61	wide, broad	far'ðis
+12.61	wide, broad	pla'tis
+12.62	narrow	ste'nos
+12.63	thick (in dimension)	pa'xis
+12.65	thin (in dimension)	le'ptos
+12.65	thin (in dimension)	a'ðinatos
+12.67	deep	va'θis
+12.68	shallow	a'navaθos
+12.68	shallow	ri'xos
+12.71	flat	e'pipeðos
+12.73	straight	'isios
+12.73	straight	e'fθis
+12.74	crooked	stra'vos
+12.75	hook	'ɣatzos
+12.76	corner	ɣo'nia
+12.77	cross	sta'vros
+12.78	square	te'traɣonos
+12.81	round	strogi'los
+12.82	circle	'kiklos
+12.83	sphere, ball	'sfera
+12.83	sphere, ball	'bala
+12.84	line	ɣra'mi
+12.84	line	si'ra
+12.85	hole	'tripa
+12.92	like, similar	pa'romios
+12.93	change	a'lazo
+13.0	zero, nothing	mi'ðen
+13.0	zero, nothing	'tipota
+13.1	one	'ena
+13.2	two	'ðio
+13.3	three	'tria
+13.4	four	'tesera
+13.5	five	'pede
+13.6	six	'eksi
+13.7	seven	e'fta
+13.8	eight	o'xto
+13.9	nine	e'nea
+13.10	ten	'ðeka
+13.101	eleven	'edeka
+13.102	twelve	'ðoðeka
+13.103	fifteen	ðeka'pede
+13.104	twenty	'ikosi
+13.105	hundred	eka'to
+13.106	thousand	'xilia
+13.107	count	me'trao
+13.107	count	loɣa'riazo
+13.14	every, all	'kaθe
+13.14	every, all	'oli
+13.15	much, many	po'li
+13.16	more	a'komi
+13.16	more	peri'sotero
+13.17	little (quantity), few	'liɣo
+13.18	enough	arke'ta
+13.181	some	li'ɣaki
+13.19	multitude, crowd	'pliθos
+13.21	full	ɣe'matos
+13.22	empty	'aðios
+13.23	part, piece	ko'mati
+13.23	part, piece	'meros
+13.24	half	mi'sos
+13.33	alone, only	'monos
+13.33	alone, only	'mono
+13.34	first	'protos
+13.35	last	tele'fteos
+13.36	second	'ðefteros
+13.37	pair	ze'vɣari
+13.38	two times	'ðiofo'res
+13.42	third	'tritos
+13.44	three times	'trisfo'res
+14.11	time	'ora
+14.11	time	'xronos
+14.11	time	ke'ros
+14.12	age	ili'kia
+14.13	new	'neos
+14.13	new	ke'nurios
+14.14	young	'neos
+14.14	young	nea'ros
+14.15	old	'ɣeros
+14.15	old	ilikio'menos
+14.16	early	no'ris
+14.17	late	ar'ɣa
+14.18	now	'tora
+14.19	immediately	a'mesos
+14.21	swift, fast, quick	'ɣriɣoros
+14.22	slow	ar'ɣos
+14.23	hasten, hurry	'viazome
+14.24	retard, delay	ana'valo
+14.24	retard, delay	ar'ɣo
+14.25	begin, beginning	ar'xizo
+14.25	begin, beginning	a'rxi
+14.252	last, endure	ðiar'ko
+14.26	end (temporal)	'telos
+14.27	finish	teli'ono
+14.28	cease, stop	stama'tao
+14.28	cease, stop	'pavo
+14.29	ready	'etimos
+14.31	always	'pada
+14.32	often	si'xna
+14.33	sometimes	meri'kesfo'res
+14.331	soon	'sidoma
+14.332	long-time (for a)	ɣiapo'like'ro
+14.34	never	po'te
+14.35	again	'pali
+14.41	day	'mera
+14.42	night	'nixta
+14.43	dawn	a'vɣi
+14.44	morning	pro'i
+14.45	noon, midday	mesi'meri
+14.451	afternoon	a'poɣefma
+14.46	evening	'vraði
+14.47	today	'simera
+14.48	tomorrow	'avrio
+14.481	day-after-tomorrow	me'θavrio
+14.49	yesterday	'xtes
+14.491	day-before-yesterday	pro'xtes
+14.51	hour	'ora
+14.53	clock, timepiece	ro'loi
+14.61	week	vðo'maða
+14.62	Sunday	kiria'ki
+14.63	Monday	ðe'ftera
+14.64	Tuesday	'triti
+14.65	Wednesday	te'tarti
+14.66	Thursday	'pempti
+14.67	Friday	paraske'vi
+14.68	Saturday	'savato
+14.71	month	'minas
+14.73	year	'xronos
+14.73	year	'etos
+14.73	year	xro'nia
+14.74	winter	xi'monas
+14.75	spring	'aniksi
+14.76	summer	kalo'keri
+14.77	autumn	fθi'noporo
+14.78	season	epo'xi
+15.21	smell (vb intrans)	mi'rizo
+15.212	sniff	mi'rizome
+15.22	smell (vb trans)	mi'rizo
+15.25	fragrant, good smelling	miro'ðatos
+15.25	fragrant, good smelling	aromati'smenos
+15.26	stinking, bad smelling	vrome'ros
+15.31	taste	ðoki'mazo
+15.35	sweet	ɣli'kos
+15.35	sweet	mala'kos
+15.36	salty	almi'ros
+15.37	bitter	pi'kros
+15.38	acid, sour	sti'fos
+15.38	acid, sour	ksi'nos
+15.39	brackish	ɣli'fos
+15.41	hear	a'kuo
+15.42	listen	a'kuo
+15.44	sound, noise	'ixos
+15.44	sound, noise	'θorivos
+15.44	sound, noise	fasa'ria
+15.45	loud	θori'voðis
+15.45	loud	ixi'ros
+15.46	quiet, silence	'isixos
+15.46	quiet, silence	isi'xia
+15.51	see	'vlepo
+15.52	look, look at	ki'tazo
+15.55	show	'ðixno
+15.56	shine	'labo
+15.57	bright	labe'ros
+15.57	bright	foti'nos
+15.57	bright	zoi'ros
+15.61	color	'xroma
+15.62	light (in color)	ani'xtos
+15.63	dark (in color)	'skuros
+15.64	white	'aspros
+15.64	white	lef'kos
+15.65	black	'mavros
+15.66	red	'kokinos
+15.67	blue	'ble
+15.68	green	'prasinos
+15.69	yellow	'kitrinos
+15.71	touch	a'gizo
+15.712	pinch	tsi'bao
+15.72	feel	e'sθanome
+15.72	feel	'nioθo
+15.74	hard	skli'ros
+15.75	soft	apa'los
+15.75	soft	mala'kos
+15.76	rough	tra'xis
+15.77	smooth	'lios
+15.78	sharp	kofte'ros
+15.78	sharp	akoni'smenos
+15.79	blunt, dull	a'potomos
+15.81	heavy	va'ris
+15.82	light (in weight)	ela'fris
+15.83	wet, damp	i'ɣros
+15.84	dry	kse'ros
+15.85	hot	ze'stos
+15.851	warm	xlia'ros
+15.851	warm	ze'stos
+15.86	cold	'krios
+15.87	clean	kaθa'ros
+15.88	dirty, soiled	'vromikos
+15.88	dirty, soiled	lero'menos
+15.89	wrinkled	ritiðia'smenos
+16.11	soul, spirit	psi'xi
+16.11	soul, spirit	'pnefma
+16.15	surprised, astonished	'ekpliktos
+16.18	good fortune, luck	'tixi
+16.18	good fortune, luck	efti'xia
+16.19	misfortune, bad luck	kakoti'xia
+16.19	misfortune, bad luck	ati'xia
+16.19	misfortune, bad luck	ðisti'xia
+16.23	joyful, glad, happy	xa'rumenos
+16.23	joyful, glad, happy	eftixi'smenos
+16.25	laugh	ɣe'lao
+16.251	smile	xamoɣe'lao
+16.26	play	'pezo
+16.27	love	aɣa'pao
+16.27	love	a'ɣapi
+16.27	love	'erotas
+16.29	kiss	fi'lao
+16.3	embrace	aga'liazo
+16.31	pain	'ponos
+16.32	grief, sorrow, sadness	'ponos
+16.32	grief, sorrow, sadness	kai'mos
+16.33	anxiety, worry	aɣo'nia
+16.33	anxiety, worry	anisi'xia
+16.34	regret, be sorry	li'pame
+16.34	regret, be sorry	meta'niono
+16.35	pity	'iktos
+16.35	pity	si'bonia
+16.37	cry, weep	'kleo
+16.37	cry, weep	ða'krizo
+16.38	tear (noun)	'ðakri
+16.39	groan	grini'azo
+16.41	hate	mi'so
+16.42	anger	θi'mos
+16.42	anger	or'ɣi
+16.44	envy, jealousy	'zilia
+16.44	envy, jealousy	'fθonos
+16.45	shame (noun)	dro'pi
+16.48	proud	pe'rifanos
+16.51	dare	tol'mao
+16.52	brave	θara'leos
+16.52	brave	tolmi'ros
+16.53	fear, fright	'fovos
+16.54	danger	'kinðinos
+16.62	desire, want	'θelo
+16.62	desire, want	epiθi'mo
+16.622	choose	epi'leɣo
+16.622	choose	ðia'leɣo
+16.63	hope	el'piða
+16.65	faithful	pi'stos
+16.66	true	aliθi'nos
+16.67	lie, tell lies	'leo'psemata
+16.67	lie, tell lies	'psevðome
+16.68	deceit	a'pati
+16.69	forgive	sinxo'ro
+16.71	good	ka'los
+16.72	bad	ka'kos
+16.73	right, correct	'ðikeos
+16.73	right, correct	so'stos
+16.74	wrong	lanθa'smenos
+16.76	fault	'laθos
+16.77	mistake, error	'laθos
+16.77	mistake, error	'sfalma
+16.78	blame	mom'fi
+16.79	praise	e'gomio
+16.79	praise	'epenos
+16.81	beautiful	o'reos
+16.81	beautiful	'omorfos
+16.82	ugly	'asximos
+16.83	greedy	a'xortaɣos
+16.83	greedy	'aplistos
+16.83	greedy	'lemarɣos
+16.84	clever	'eksipnos
+16.84	clever	'efstrofos
+17.11	mind	'skepsi
+17.11	mind	'ɣnomi
+17.13	think (= reflect)	'skeftome
+17.14	think (= be of the opinion)	no'mizo
+17.15	believe	pi'stevo
+17.16	understand	katala'veno
+17.17	know	'ksero
+17.17	know	ɣno'rizo
+17.171	guess	ma'devo
+17.172	imitate	mi'mume
+17.18	seem	'fenome
+17.19	idea, notion	i'ðea
+17.19	idea, notion	'enia
+17.21	wise	so'fos
+17.21	wise	polima'θis
+17.22	foolish, stupid	'vlakas
+17.22	foolish, stupid	kou'tos
+17.23	insane, crazy	tre'los
+17.23	insane, crazy	a'noitos
+17.23	insane, crazy	i'liθios
+17.24	learn	ma'θeno
+17.242	study	spu'ðazo
+17.242	study	mele'to
+17.25	teach	ði'ðasko
+17.26	pupil	maθi'tis
+17.27	teacher	kaθiɣi'tis
+17.28	school	sxo'lio
+17.31	remember	θi'mame
+17.32	forget	kse'xnao
+17.34	clear, plain	fane'ros
+17.34	clear, plain	a'plos
+17.34	clear, plain	kse'kaθaros
+17.35	obscure	skoti'nos
+17.35	obscure	ðis'noitos
+17.36	secret	misti'kos
+17.37	sure, certain	'siɣuros
+17.37	sure, certain	'veveos
+17.38	explain	eksi'ɣo
+17.41	intention, purpose	'stoxos
+17.41	intention, purpose	sko'pos
+17.42	cause	proka'lo
+17.43	doubt	amfi'valo
+17.44	suspect	ipopsi'azome
+17.441	betray	proðiðo
+17.45	need, necessity	a'nagi
+17.46	easy	'efkolos
+17.47	difficult	'ðiskolos
+17.48	try, attempt	prospa'θo
+17.48	try, attempt	ðoki'mazo
+17.49	way, manner	'tropos
+17.51	and	'ke
+17.52	because	ɣia'ti
+17.52	because	epi'ði
+17.52	because	ði'oti
+17.53	if	'an
+17.54	or	'i
+17.55	yes, affirmative	'ne
+17.55	yes, affirmative	katafati'kos
+17.56	no, negative	'oxi
+17.56	no, negative	arniti'kos
+17.61	how?	'pos
+17.62	how many?	'posos
+17.63	how much?	'poso
+17.64	what?	'ti
+17.65	when?	'pote
+17.66	where?	'pu
+17.67	which?	pi'os
+17.68	who?	pi'os
+17.69	why?	ɣia'ti
+18.11	voice	fo'ni
+18.12	sing	traɣu'ðao
+18.13	shout, cry out	fo'nazo
+18.13	shout, cry out	ksefo'nizo
+18.15	whisper	psiθi'rizo
+18.16	mumble	murmu'rizo
+18.16	mumble	pse'lizo
+18.17	whistle	sfi'rizo
+18.18	shriek, screech	ur'liazo
+18.19	howl	kra'vɣazo
+18.19	howl	'krazo
+18.21	speak, talk	mi'lao
+18.211	stutter, stammer	tra'vlizo
+18.211	stutter, stammer	keke'ðizo
+18.22	say	'leo
+18.221	tell story	afi'ɣume
+18.221	tell story	ðii'ɣume
+18.222	speech (make a)	'loɣos
+18.23	silent (be)	siopi'los
+18.24	language	'ɣlosa
+18.26	word	'leksi
+18.28	name	'onoma
+18.31	ask (question, inquire)	ro'tao
+18.32	answer	apa'dao
+18.33	admit, confess	para'ðexome
+18.33	admit, confess	omolo'ɣo
+18.34	deny	ar'nume
+18.35	ask, request	zi'tao
+18.36	promise	i'posxome
+18.37	refuse	ar'nume
+18.38	forbid	apaɣo'revo
+18.39	rebuke, scold	ma'lono
+18.39	rebuke, scold	'memfome
+18.41	call (=summon)	ka'lo
+18.41	call (=summon)	fo'nazo
+18.42	call (=name)	ono'mazome
+18.42	call (=name)	ka'lume
+18.43	announce	ana'gelo
+18.43	announce	anaki'riso
+18.44	threaten	api'lo
+18.44	threaten	fove'rizo
+18.45	boast	pe'nevome
+18.45	boast	perifa'nevome
+18.51	write	'ɣrafo
+18.52	read	ðia'vazo
+18.56	paper	xar'ti
+18.57	pen	'pena
+18.61	book	vi'vlio
+18.67	poet	pii'tis
+18.71	flute	'flauto
+18.72	drum	'tibano
+18.72	drum	ta'burlo
+18.73	horn, trumpet	tro'beta
+18.74	rattle	kuðu'nistra
+19.11	country	'xora
+19.12	one's native country	pa'triða
+19.15	city, town	'poli
+19.16	village	xori'o
+19.17	boundary	'sinoro
+19.17	boundary	'orio
+19.21	people (populace)	'kosmos
+19.21	people (populace)	la'os
+19.23	tribe, clan	fi'li
+19.23	tribe, clan	'fara
+19.23	tribe, clan	'klika
+19.24	chief, chieftain	arxi'ɣos
+19.25	staff, walking stick	ba'stuni
+19.25	staff, walking stick	ma'gura
+19.31	rule, govern	vasi'levo
+19.31	rule, govern	kiver'no
+19.32	king, ruler	vasi'lias
+19.32	king, ruler	kiver'nitis
+19.33	queen	va'silisa
+19.36	noble, nobleman	evɣe'nis
+19.37	citizen, subject	po'litis
+19.37	citizen, subject	i'pikoos
+19.41	master	'kirios
+19.41	master	a'fedis
+19.42	slave	'sklavos
+19.43	servant	ipi'retis
+19.44	freeman	e'lefθeros'anθropos
+19.45	command, order	ðia'tazo
+19.45	command, order	pro'stazo
+19.46	obey	ipa'kuo
+19.47	let, permit	epi'trepo
+19.47	let, permit	a'fino
+19.51	friend, companion	'filos
+19.51	friend, companion	'sidrofos
+19.52	enemy	ex'θros
+19.54	neighbor	'ɣitonas
+19.55	stranger	'ksenos
+19.56	guest	kale'smenos
+19.56	guest	proskekli'menos
+19.57	host	ikoðe'spotis
+19.58	help, aid	voi'θo
+19.59	hinder, prevent	ebo'ðizo
+19.59	hinder, prevent	apo'trepo
+19.61	custom	'eθimo
+19.62	strife, quarrel	'pali
+19.62	strife, quarrel	ka'vɣas
+19.63	conspiracy, plot	sinomo'sia
+19.65	meet	sina'do
+19.72	prostitute	'porni
+20.11	fight (vb)	aɣo'nizome
+20.11	fight (vb)	pole'mo
+20.11	fight (vb)	'maxome
+20.13	war, battle	'polemos
+20.13	war, battle	'maxi
+20.14	peace	i'rini
+20.15	army	stra'tos
+20.17	soldier	strati'otis
+20.21	weapons, arms	'opla
+20.22	club	'ropalo
+20.22	club	'klob
+20.222	battle-ax	'pelekis
+20.23	sling	sfe'dona
+20.24	bow	'tokso
+20.25	arrow	'velos
+20.26	spear	'lonxi
+20.26	spear	'ðori
+20.26	spear	a'kodio
+20.27	sword	spa'θi
+20.28	gun, cannon	'oplo
+20.28	gun, cannon	tu'feki
+20.28	gun, cannon	ka'noni
+20.31	armor (defensive)	pano'plia
+20.33	helmet	'kranos
+20.34	shield	a'spiða
+20.35	fortress	'frurio
+20.36	tower	'pirɣos
+20.41	victory	'niki
+20.42	defeat	'ita
+20.43	attack	epi'tiθeme
+20.44	defend	a'minome
+20.45	retreat	ipoxo'ro
+20.46	surrender	para'ðinome
+20.47	captive, prisoner	ex'malotos
+20.471	guard, sentinel	fru'ros
+20.471	guard, sentinel	sko'pos
+20.48	booty, spoils	'lafiro
+20.49	ambush	e'neðra
+20.51	fisherman	psa'ras
+20.52	fishhook	a'gistri
+20.53	fishing line	peto'nia
+20.54	fishnet	'ðixti
+20.55	fish trap	psaro'kalaθo
+20.55	fish trap	psaropa'ɣiða
+20.56	bait	'ðoloma
+20.61	hunt	kini'ɣao
+20.62	shoot	pirovo'lo
+20.62	shoot	tufe'kizo
+20.63	miss (target)	asto'xo
+20.64	trap (noun)	pa'ɣiða
+20.65	trap (vb)	paɣi'ðevo
+21.11	law	'nomos
+21.11	law	'ðikeo
+21.15	court	ðika'stirio
+21.16	judge (vb)	ði'kazo
+21.17	judgment	ðikasti'kia'pofasi
+21.18	judge (noun)	ðika'stis
+21.21	plaintiff	ka'tiɣoros
+21.21	plaintiff	e'naɣon
+21.22	defendant	katiɣo'rumenos
+21.22	defendant	ena'ɣomenos
+21.23	witness	'martiras
+21.24	swear	or'kizome
+21.25	oath	'orkos
+21.31	accuse	katiɣo'ro
+21.32	condemn	kataði'kazo
+21.33	convict (vb)	apa'gelokatiɣo'ria
+21.34	acquit	aθo'ono
+21.34	acquit	apa'laso
+21.35	guilty	'enoxos
+21.36	innocent	a'θoos
+21.37	penalty, punishment	timo'ria
+21.37	penalty, punishment	pi'ni
+21.38	fine	'prostimo
+21.39	prison, jail	fila'ki
+21.42	murder	'fonos
+21.42	murder	ðolofo'nia
+21.43	adultery	mi'xia
+21.44	rape	via'smos
+21.46	arson	embri'smos
+21.47	perjury	psevðor'kia
+21.47	perjury	epior'kia
+21.51	steal	'klevo
+21.52	thief	'kleftis

@@ -1,0 +1,2379 @@
+@classification: Indo-European,Celtic,Insular,Goidelic
+@ids-name: Irish_StandardOrth
+@iso: gle
+@language: Gaelic, Irish
+@size: 2372
+@source: ids
+@variety: std
+1.1	world	domhan
+1.1	world	saol
+1.21	earth, land	talamh
+1.21	earth, land	tír
+1.212	earth=ground, soil	ithir
+1.212	earth=ground, soil	talamh
+1.212	earth=ground, soil	cré
+1.212	earth=ground, soil	fód
+1.213	dust	deannach
+1.213	dust	smúit
+1.213	dust	cré
+1.214	mud	puiteach
+1.214	mud	láib
+1.214	mud	pluda
+1.214	mud	lathach
+1.214	mud	draoib
+1.214	mud	clábar
+1.214	mud	glár
+1.215	sand	gaineamh
+1.22	mountain, hill	sliabh
+1.22	mountain, hill	cnoc
+1.22	mountain, hill	tulach
+1.22	mountain, hill	ard
+1.22	mountain, hill	beann
+1.23	plain, field	machaire
+1.23	plain, field	má
+1.24	valley	gleann
+1.25	island	oileán
+1.25	island	inis
+1.26	mainland	mórthír
+1.26	mainland	míntír
+1.26	mainland	tírmór
+1.26	mainland	Mórroinn
+1.26	mainland	ilchríoch
+1.27	shore	cósta
+1.27	shore	trá
+1.28	cave	uaimh
+1.31	water	uisce
+1.32	sea	farraige
+1.32	sea	muir
+1.322	calm (of sea)	ciúin
+1.322	calm (of sea)	socair
+1.323	rough (of sea)	garbh
+1.324	foam	cúr
+1.324	foam	coipeadh
+1.329	ocean	Aigéan
+1.329	ocean	bóchna
+1.329	ocean	farraigemhór
+1.33	lake	loch
+1.33	lake	linn
+1.34	gulf, bay	cuan
+1.34	gulf, bay	bá
+1.34	gulf, bay	camas
+1.342	reef	sceir
+1.342	reef	fochais
+1.343	headland, point	rinn
+1.343	headland, point	ceann
+1.35	wave	tonn
+1.35	wave	uain
+1.352	tide	taoide
+1.353	lowtide	lagtrá
+1.354	hightide	lánmara
+1.36	river, stream, brook	abhainn
+1.36	river, stream, brook	sruth
+1.36	river, stream, brook	sruthán
+1.362	whirlpool	coireguairneáin
+1.362	whirlpool	coireguairdill
+1.362	whirlpool	coiretuathail
+1.37	spring, well	tobar
+1.37	spring, well	fuarán
+1.37	spring, well	foinse
+1.38	swamp	corcach
+1.38	swamp	riasc
+1.38	swamp	bogach
+1.38	swamp	corrach
+1.39	waterfall	eas
+1.41	woods, forest	coill
+1.42	tree (cf 08.600)	crann
+1.43	wood	adhmad
+1.43	wood	fiodh
+1.44	stone, rock	cloch
+1.44	stone, rock	carraig
+1.44	stone, rock	craig
+1.45	earthquake	crithtalún
+1.51	sky	spéir
+1.51	sky	neamh
+1.52	sun	grian
+1.53	moon	gealach
+1.53	moon	ré
+1.53	moon	éasca
+1.54	star	réalta
+1.55	lightning	tintreach
+1.55	lightning	splanc
+1.56	thunder	tóirneach
+1.57	lightning (as striking)	caor
+1.58	storm	stoirm
+1.58	storm	doineann
+1.58	storm	anfa
+1.59	rainbow	tuarcheatha
+1.59	rainbow	boghabáistí
+1.61	light (noun)	solus
+1.61	light (noun)	soilse
+1.62	darkness	dorchadas
+1.62	darkness	dorchacht
+1.63	shade, shadow	scáth
+1.64	dew	drúcht
+1.71	air	aer
+1.72	wind	gaoth
+1.73	cloud	néal
+1.73	cloud	scamall
+1.74	fog	ceo
+1.75	rain (noun)	fearthainn
+1.75	rain (noun)	báisteach
+1.76	snow (noun)	sneachta
+1.77	ice	leacoighir
+1.77	ice	oighear
+1.78	weather	aimsir
+1.78	weather	síon
+1.78	weather	uain
+1.81	fire	tine
+1.82	flame (noun)	lasair
+1.82	flame (noun)	bladhm
+1.82	flame (noun)	bladhaire
+1.83	smoke (noun)	deatach
+1.83	smoke (noun)	toit
+1.84	ashes	luaith
+1.841	embers	aibhleog
+1.841	embers	splanc
+1.841	embers	gríosach
+1.851	burn (vb trans)	dóim
+1.851	burn (vb trans)	loiscim
+1.86	light, kindle, ignite	lasaim
+1.861	extinguish	múch
+1.87	match (noun)	cipín
+1.87	match (noun)	lasán
+1.88	firewood	brosna
+1.88	firewood	connadh
+1.89	charcoal	gualach
+1.89	charcoal	fioghual
+2.1	person, human being	duine
+2.1	person, human being	neach
+2.21	man (vs. woman)	fear
+2.22	woman	bean
+2.23	male	fireann
+2.24	female	baineann
+2.25	boy	buachaill
+2.25	boy	gasúr
+2.25	boy	garsún
+2.251	young man (adolescent)	ógánach
+2.251	young man (adolescent)	aosánach
+2.251	young man (adolescent)	macaomh
+2.251	young man (adolescent)	ógfhear
+2.251	young man (adolescent)	stócach
+2.26	girl	cailín
+2.26	girl	caile
+2.26	girl	gearrchaile
+2.26	girl	girseach
+2.261	young woman (adolescent)	iníon
+2.261	young woman (adolescent)	ógbhean
+2.261	young woman (adolescent)	maighdean
+2.261	young woman (adolescent)	bruinneall
+2.27	child	leanbh
+2.27	child	páiste
+2.27	child	tachrán
+2.28	infant, baby	naí
+2.28	infant, baby	naínán
+2.28	infant, baby	leanbán
+2.28	infant, baby	páistín
+2.31	husband	fear
+2.31	husband	fearchéile
+2.31	husband	céile
+2.32	wife	bean
+2.32	wife	beanchéile
+2.32	wife	céile
+2.33	marry	pós
+2.34	marriage, wedding	pósadh
+2.341	divorce	colscaradh
+2.35	father	athair
+2.36	mother	máthair
+2.37	parents	tuismitheoirí
+2.41	son	mac
+2.42	daughter	iníon
+2.44	brother	deartháir
+2.45	sister	deirfiúr
+2.458	twins	cúpla
+2.46	grandfather	seanathair
+2.461	old man	seanfhear
+2.47	grandmother	seanmháthair
+2.471	old woman	seanbhean
+2.48	grandson	garmhac
+2.48	grandson	ua
+2.49	granddaughter	gariníon
+2.51	uncle	uncail
+2.52	aunt	aint
+2.52	aunt	aintín
+2.53	nephew	nia
+2.54	niece	neacht
+2.55	cousin	colceathar
+2.56	ancestors	sinsear
+2.57	descendants	sliocht
+2.61	father-in-law (of a man)	athaircéile
+2.62	mother-in-law (of a man)	máthaircéile
+2.63	son-in-law (of a man)	cliamhain
+2.64	daughter-in-law (of a man)	banchliamhain
+2.71	stepfather	leasathair
+2.72	stepmother	leasmháthair
+2.73	stepson	leasmhac
+2.74	stepdaughter	leasiníon
+2.75	orphan	dílleachta
+2.76	widow	baintreach
+2.77	widower	baintreachfir
+2.81	relatives, kinsmen	gaolta
+2.81	relatives, kinsmen	muintear
+2.82	family	clann
+2.82	family	teaghlach
+2.91	I	mé
+2.91	I	mise
+2.92	you (singular)	tú
+2.92	you (singular)	thú
+2.92	you (singular)	tusa
+2.92	you (singular)	thusa
+2.93	he/she/it	sé
+2.93	he/she/it	sí
+2.94	we	sinn
+2.94	we	muid
+2.95	you (plural)	sibh
+2.96	they	siad
+2.96	they	iad
+3.11	animal	ainmhí
+3.11	animal	beithíoch
+3.12	male (adj)	fireann
+3.13	female (adj)	baineann
+3.15	livestock	stoc
+3.15	livestock	eallach
+3.15	livestock	airnéis
+3.16	pasture	innilt
+3.16	pasture	féarach
+3.18	herdsman	buachaill
+3.18	herdsman	aodhaire
+3.19	stable, stall	stábla
+3.2	cattle (bovine)	eallach
+3.2	cattle (bovine)	bólacht
+3.2	cattle (bovine)	airnéis
+3.2	cattle (bovine)	buar
+3.21	bull	tarbh
+3.22	ox	damh
+3.23	cow	bó
+3.23	cow	mart
+3.24	calf	lao
+3.24	calf	gamhain
+3.25	sheep	caora
+3.26	ram	reithe
+3.28	ewe	caora
+3.29	lamb	uan
+3.32	boar	collach
+3.32	boar	torc
+3.34	sow	cráin
+3.35	pig	muc
+3.35	pig	banbh
+3.36	goat	gabhar
+3.37	he-goat	boc
+3.37	he-goat	pocán
+3.38	kid	meannán
+3.41	horse (equine)	capall
+3.41	horse (equine)	each
+3.42	stallion	stail
+3.44	mare	láir
+3.45	foal, colt	searrach
+3.46	ass, donkey	asal
+3.47	mule	miúil
+3.5	fowl	eánlaithe
+3.52	cock, rooster	coileach
+3.54	hen	cearc
+3.55	chicken	sicín
+3.55	chicken	scalltán
+3.55	chicken	puiléad
+3.55	chicken	eirog
+3.56	goose	gé
+3.57	duck	lacha
+3.58	nest	nead
+3.581	bird	éan
+3.582	seagull	faoileán
+3.582	seagull	faoileóg
+3.583	heron	corréisc
+3.584	eagle	iolar
+3.585	hawk	seabhac
+3.586	vulture	badhbh
+3.592	parrot	pearóid
+3.593	crow	préachán
+3.593	crow	feannóg
+3.593	crow	fiach
+3.594	dove	colm
+3.596	owl	ulchabhán
+3.61	dog	madra
+3.61	dog	madadh
+3.61	dog	gadhar
+3.61	dog	cú
+3.614	rabbit	coinín
+3.62	cat	cat
+3.622	opossum	apasam
+3.63	mouse, rat	luch
+3.65	fish	iasc
+3.652	fin (dorsal)	eite
+3.653	fishscale	lann
+3.653	fishscale	gainne
+3.654	gill	geolbhach
+3.655	shell	sliogán
+3.655	shell	blaosc
+3.661	shark	siorc
+3.662	porpoise, dolphin	mucmhara
+3.663	whale	míolmór
+3.665	freshwater eel	eascann
+3.71	wolf	madadhallta
+3.71	wolf	cúallta
+3.71	wolf	faolchú
+3.71	wolf	mactíre
+3.72	lion	leon
+3.73	bear	mathúin
+3.73	bear	béar
+3.74	fox	sionnach
+3.74	fox	madrarua
+3.74	fox	madadhrua
+3.75	deer	fia
+3.76	monkey	moncaí
+3.76	monkey	ápa
+3.77	elephant	eilifint
+3.78	camel	camall
+3.81	insect	feithid
+3.811	louse	míol
+3.812	nit (louse egg)	sniodh
+3.814	centipede	céadchosach
+3.815	scorpion	scairp
+3.816	cockroach	ciaróg
+3.817	ant	seangán
+3.818	spider	damhánalla
+3.819	spider web	líon
+3.819	spider web	téadadamháinalla
+3.82	bee	beach
+3.821	beeswax	céirbheach
+3.821	beeswax	céireurláir
+3.822	beehive	coirceog
+3.823	wasp	puch
+3.83	fly	cuil
+3.83	fly	cuileog
+3.831	sandfly (midge), gnat	corrmhíoltóg
+3.832	mosquito	corrmhíol
+3.84	worm	péist
+3.84	worm	cruimh
+3.84	worm	cnuimh
+3.85	snake	nathair
+3.91	firefly	lampróg
+3.92	butterfly	féileacán
+3.92	butterfly	péileacán
+3.93	grasshopper	dreoilínteaspaigh
+3.94	snail	seilide
+3.95	frog	frog
+3.95	frog	loscann
+3.96	lizard	laghairt
+3.96	lizard	earc
+3.97	crocodile, alligator	crogall
+3.98	turtle	turtar
+4.11	body	corp
+4.11	body	colainn
+4.11	body	cabhail
+4.12	skin, hide	cneas
+4.12	skin, hide	craiceann
+4.12	skin, hide	seithe
+4.13	flesh	feoil
+4.14	hair (head)	gruaig
+4.14	hair (head)	folt
+4.142	beard	féasóg
+4.144	body hair	fionnadh
+4.144	body hair	clúmh
+4.146	dandruff	sailchnis
+4.15	blood	fuil
+4.15	blood	cró
+4.15	blood	folracht
+4.151	vein, artery	feith
+4.151	vein, artery	artaire
+4.16	bone	cnámh
+4.162	rib	easna
+4.17	horn	adharc
+4.17	horn	beann
+4.18	tail	eireaball
+4.18	tail	eithre
+4.19	back	druim
+4.191	spine	dromlach
+4.191	spine	cnámhdroma
+4.191	spine	spíon
+4.2	head	ceann
+4.2	head	cloigeann
+4.201	side of head, temple	ara
+4.201	side of head, temple	uisinn
+4.202	skull	cloigeann
+4.202	skull	blaoscanchinn
+4.203	brain	inchinn
+4.204	face	aghaidh
+4.204	face	éadan
+4.204	face	gnúis
+4.205	forehead	cláréadain
+4.205	forehead	éadan
+4.205	forehead	clárbaithise
+4.207	jaw	giall
+4.207	jaw	corrán
+4.207	jaw	carball
+4.208	cheek	grua
+4.208	cheek	leiceann
+4.208	cheek	pluca
+4.208	cheek	giall
+4.209	chin	smig
+4.21	eye	súil
+4.21	eye	rosc
+4.212	eyebrow	mala
+4.212	eyebrow	braoi
+4.213	eyelid	mogallsúile
+4.213	eyelid	caipínsúile
+4.214	eyelash	fabhra
+4.215	blink	caochadh
+4.215	blink	bobáil
+4.215	blink	sméideadhsúil
+4.215	blink	faiteadhsúil
+4.22	ear	cluas
+4.222	earwax	céirchluaise
+4.23	nose	srón
+4.23	nose	gaosán
+4.23	nose	soc
+4.231	nostril	pollsróine
+4.231	nostril	polláire
+4.232	mucus (nasal)	smuga
+4.232	mucus (nasal)	ronna
+4.24	mouth	béal
+4.24	mouth	cab
+4.24	mouth	pus
+4.24	mouth	cár
+4.24	mouth	draid
+4.24	mouth	clab
+4.241	beak	gob
+4.241	beak	gulba
+4.25	lip	liopa
+4.25	lip	cab
+4.25	lip	bruas
+4.25	lip	béal
+4.26	tongue	teanga
+4.27	tooth	fiacail
+4.27	tooth	déad
+4.271	gums	drandal
+4.271	gums	carball
+4.272	molartooth	cúlfhiacail
+4.272	molartooth	fiacailchúil
+4.28	neck	muinéal
+4.28	neck	bráid
+4.28	neck	píobán
+4.28	neck	scrogall
+4.281	nape of neck	baicanmhuiníl
+4.281	nape of neck	cuinganmhuiníl
+4.29	throat	scórnach
+4.29	throat	sceadamnán
+4.29	throat	bráid
+4.3	shoulder	gualainn
+4.301	shoulderblade	slinneán
+4.302	collarbone	cnámhsmiolgadáin
+4.302	collarbone	dealrachán
+4.302	collarbone	branrabráid
+4.31	arm	lámh
+4.31	arm	sciathán
+4.312	armpit	ascaill
+4.32	elbow	uillinn
+4.321	wrist	caolnaláimhe
+4.321	wrist	rosta
+4.321	wrist	bunrí
+4.33	hand	lámh
+4.331	palm of hand	bos
+4.331	palm of hand	dearna
+4.34	finger	méar
+4.342	thumb	ordóg
+4.344	fingernail	ionga
+4.345	claw	crúb
+4.345	claw	crobh
+4.345	claw	leadán
+4.345	claw	ionga
+4.345	claw	ladhar
+4.345	claw	ordóg
+4.35	leg	cos
+4.351	thigh	ceathrú
+4.351	thigh	leis
+4.351	thigh	láirig
+4.351	thigh	sliasaid
+4.352	calf of leg	colpa
+4.36	knee	glún
+4.37	foot	cos
+4.37	foot	troigh
+4.371	ankle	caolnacoise
+4.371	ankle	murnán
+4.371	ankle	rúitín
+4.372	heel	sáil
+4.374	footprint	lorgcoise
+4.374	footprint	riancoise
+4.38	toe	ladhar
+4.38	toe	méarcoise
+4.392	wing	eite
+4.392	wing	eiteog
+4.392	wing	sciathán
+4.393	feather	cleite
+4.393	feather	eite
+4.4	chest	ucht
+4.4	chest	cliabhrach
+4.4	chest	cliabh
+4.4	chest	brollach
+4.4	chest	broinne
+4.41	breast (of woman)	cíoch
+4.412	nipple, teat	sine
+4.412	nipple, teat	dide
+4.412	nipple, teat	balláncíche
+4.42	udder	úth
+4.43	navel	imleacán
+4.44	heart	croí
+4.441	lung	scamhóg
+4.45	liver	ae
+4.45	liver	cruaae
+4.451	kidney	ára
+4.451	kidney	duán
+4.452	spleen	liathán
+4.452	spleen	splín
+4.46	stomach	bolg
+4.46	stomach	goile
+4.461	intestines, guts	inní
+4.461	intestines, guts	putóga
+4.461	intestines, guts	ionathar
+4.461	intestines, guts	drólanna
+4.461	intestines, guts	stéigeacha
+4.462	waist	coim
+4.462	waist	básata
+4.463	hip	cromán
+4.463	hip	corróg
+4.464	buttocks	tóin
+4.464	buttocks	más
+4.464	buttocks	tiarpa
+4.47	womb	broinn
+4.49	testicle	magairle
+4.492	penis	bod
+4.492	penis	boidín
+4.492	penis	slat
+4.492	penis	péineas
+4.492	penis	ballfearga
+4.51	breathe, breath	tarrainganáil
+4.51	breathe, breath	anáil
+4.52	yawn, gape	déanméanfach
+4.521	hiccough	déansnag
+4.521	hiccough	déanaimfail
+4.53	cough	casacht
+4.53	cough	casachtach
+4.54	sneeze	déansraoth
+4.54	sneeze	ligsraoth
+4.55	perspire	cuirimallas
+4.56	spit	caithseile
+4.57	vomit	cuiramach
+4.57	vomit	táimagaiseag
+4.57	vomit	táimagurlacan
+4.57	vomit	sceith
+4.57	vomit	brúcht
+4.58	bite	greimabhaintas
+4.59	lick	lím
+4.591	dribble	silín
+4.591	dribble	priosla
+4.591	dribble	prislín
+4.591	dribble	ronna
+4.61	sleep	codladh
+4.61	sleep	codail
+4.612	snore	srann
+4.612	snore	srannadh
+4.62	dream	brionglóid
+4.62	dream	aisling
+4.62	dream	taibhreadh
+4.63	wake up	dúisigh
+4.63	wake up	músclaigh
+4.64	break wind	bromaim
+4.65	urinate	mún
+4.65	urinate	déanfual
+4.66	defecate	cac
+4.67	have sexual intercourse	comhriachtain
+4.68	shiver	crith
+4.69	bathe	folc
+4.71	beget (of father)	gin
+4.72	born (to be)	beirtear
+4.73	pregnant	torrach
+4.73	pregnant	toircheasach
+4.73	pregnant	bruinneach
+4.73	pregnant	bruinnighe
+4.732	conceive	gabh
+4.732	conceive	coimprím
+4.74	live, living, life	táimbeo
+4.74	live, living, life	mairim
+4.75	die, dead	faighimbás
+4.75	die, dead	éagaim
+4.75	die, dead	bás
+4.75	die, dead	marbh
+4.751	drowned	báite
+4.76	kill	maraigh
+4.77	corpse	corp
+4.77	corpse	corpán
+4.77	corpse	marbhán
+4.78	bury (the dead)	cuir
+4.78	bury (the dead)	adhlaic
+4.79	grave, tomb	uaigh
+4.79	grave, tomb	reilig
+4.79	grave, tomb	tuama
+4.79	grave, tomb	feart
+4.81	strong, mighty, powerful	tréan
+4.81	strong, mighty, powerful	láidir
+4.81	strong, mighty, powerful	neartmhar
+4.81	strong, mighty, powerful	cumhachtach
+4.81	strong, mighty, powerful	mórchumhachtach
+4.81	strong, mighty, powerful	cumasach
+4.81	strong, mighty, powerful	éachtach
+4.81	strong, mighty, powerful	bríomhar
+4.82	weak	lag
+4.82	weak	fann
+4.82	weak	tréith
+4.82	weak	meirbh
+4.82	weak	leochaileach
+4.82	weak	meathlaithe
+4.82	weak	lagbhríoch
+4.83	well, health	slán
+4.83	well, health	folláin
+4.83	well, health	sláinte
+4.84	sick, sickness	tinn
+4.84	sick, sickness	breoite
+4.84	sick, sickness	tinneas
+4.84	sick, sickness	aicíd
+4.841	fever	fiabhras
+4.842	goiter	ainglis
+4.843	cold (catarrh)	slaghdán
+4.85	wound, sore	goin
+4.85	wound, sore	cneá
+4.85	wound, sore	créacht
+4.85	wound, sore	leon
+4.852	bruise	brú
+4.852	bruise	ballgorm
+4.852	bruise	ballbhrú
+4.853	swelling	at
+4.853	swelling	borradh
+4.853	swelling	boiric
+4.853	swelling	meall
+4.853	swelling	forlíonadh
+4.854	itch	tochas
+4.855	blister	spuaic
+4.855	blister	clog
+4.855	blister	léas
+4.855	blister	balscóid
+4.856	boil (noun)	neascóid
+4.857	pus	angadh
+4.857	pus	brach
+4.857	pus	brachadh
+4.857	pus	braon
+4.857	pus	sileadh
+4.858	scar	colm
+4.858	scar	méirscre
+4.86	cure, heal	leigheasaim
+4.86	cure, heal	cneasaím
+4.86	cure, heal	slánaím
+4.86	cure, heal	íocaim
+4.87	physician	dochtúir
+4.87	physician	lia
+4.88	medicine, drug	leigheas
+4.88	medicine, drug	míochaine
+4.88	medicine, drug	cógas
+4.89	poison	nimh
+4.91	tired, weary	tuirseach
+4.91	tired, weary	cortha
+4.912	rest	sos
+4.912	rest	scíth
+4.912	rest	suaimhneas
+4.92	lazy	leiscúil
+4.93	bald	maol
+4.93	bald	lom
+4.93	bald	plaiteach
+4.94	lame	bacach
+4.95	deaf	bodhar
+4.96	mute	balbh
+4.97	blind	caoch
+4.97	blind	dall
+4.98	intoxicated	armeisce
+4.98	intoxicated	ólta
+4.99	naked, bare	nocht
+4.99	naked, bare	lom
+5.11	eat	ith
+5.11	eat	caith
+5.12	food	bia
+5.12	food	lón
+5.12	food	beatha
+5.12	food	cuid
+5.122	raw	amh
+5.122	raw	dearg
+5.123	ripe	aibí
+5.124	green, unripe	glas
+5.124	green, unripe	anabaí
+5.125	rotten	lofa
+5.125	rotten	morgtha
+5.125	rotten	bréan
+5.13	drink	óla
+5.13	drink	slog
+5.14	hunger	ocras
+5.14	hunger	gorta
+5.141	famine	gorta
+5.15	thirst	tart
+5.15	thirst	íota
+5.16	suck	diúlaim
+5.16	suck	súim
+5.16	suck	siolpaim
+5.16	suck	súraic
+5.16	suck	tarraing
+5.18	chew	cogain
+5.18	chew	mungail
+5.181	swallow	slog
+5.181	swallow	alp
+5.19	choke	tacht
+5.19	choke	plúch
+5.19	choke	calc
+5.21	cook	déancócaireachtar
+5.21	cook	fuin
+5.22	boil (vb)	beirigh
+5.22	boil (vb)	fiuch
+5.22	boil (vb)	bruith
+5.22	boil (vb)	coip
+5.23	roast, fry	róst
+5.23	roast, fry	fioch
+5.24	bake	bruith
+5.24	bake	beirigh
+5.24	bake	bácáil
+5.25	oven	oigheann
+5.25	oven	bácús
+5.26	pot, cooking vessel	pota
+5.26	pot, cooking vessel	corcán
+5.27	kettle	citeal
+5.27	kettle	túlán
+5.27	kettle	coire
+5.28	pan	panna
+5.28	pan	friochtán
+5.31	dish	mias
+5.32	plate	pláta
+5.33	bowl	babhla
+5.33	bowl	cuach
+5.33	bowl	scála
+5.34	pitcher, jug	crúsca
+5.34	pitcher, jug	crúiscín
+5.35	cup, drinking vessel	cupán
+5.35	cup, drinking vessel	corn
+5.36	saucer	fochupán
+5.36	saucer	sásar
+5.37	spoon	spúnóg
+5.37	spoon	liach
+5.37	spoon	ladar
+5.38	knife	scian
+5.39	fork	forc
+5.39	fork	gabhlóg
+5.391	tongs	tlú
+5.391	tongs	maidebriste
+5.391	tongs	ursal
+5.41	meal (a)	béile
+5.41	meal (a)	tráthbia
+5.41	meal (a)	proinn
+5.41	meal (a)	séire
+5.42	breakfast	bricfeasta
+5.43	lunch	lón
+5.43	lunch	dinnéar
+5.44	dinner	dinnéar
+5.44	dinner	proinn
+5.45	supper	suipéar
+5.45	supper	séire
+5.46	peel	scamh
+5.46	peel	bainancraiceannde
+5.47	sieve, strain	criathar
+5.47	sieve, strain	rilleáncriathraigh
+5.48	scrape	scríob
+5.48	scrape	scrabh
+5.48	scrape	scamh
+5.48	scrape	cart
+5.48	scrape	gránaigh
+5.49	stir, mix	measc
+5.49	stir, mix	corraigh
+5.49	stir, mix	suaith
+5.51	bread	arán
+5.53	dough	taos
+5.54	knead	fuin
+5.54	knead	suaith
+5.55	meal, flour	min
+5.56	crush, grind	basc
+5.56	crush, grind	brúigh
+5.56	crush, grind	meil
+5.57	mill	muileann
+5.58	mortar	moirtéar
+5.59	pestle	tuairgnín
+5.59	pestle	smíste
+5.61	meat	feoil
+5.63	sausage	ispín
+5.63	sausage	maróg
+5.64	soup, broth	anraith
+5.64	soup, broth	brachán
+5.65	vegetables	glasraí
+5.66	bean	pónaire
+5.7	potato	práta
+5.71	fruit	toradh
+5.71	fruit	meas
+5.712	bunch	scoth
+5.712	bunch	dos
+5.712	bunch	dornán
+5.712	bunch	triopall
+5.712	bunch	táth
+5.712	bunch	coróg
+5.712	bunch	glac
+5.712	bunch	cloigín
+5.75	fig	fige
+5.76	grape	fíonchaor
+5.76	grape	caorfiniúna
+5.77	nut	cnó
+5.78	olive	ológ
+5.79	oil	ola
+5.791	grease, fat	saill
+5.791	grease, fat	blonag
+5.791	grease, fat	geir
+5.791	grease, fat	méathras
+5.791	grease, fat	olar
+5.81	salt	salann
+5.82	pepper	píobar
+5.84	honey	mil
+5.85	sugar	siúcra
+5.86	milk (noun)	bainne
+5.87	milk (vb)	crúigh
+5.87	milk (vb)	bligh
+5.88	cheese	cáis
+5.89	butter	im
+5.9	beverage, drink	deoch
+5.91	mead	meá
+5.92	wine	fíon
+5.93	beer	beoir
+5.93	beer	leann
+5.97	egg	ubh
+5.971	egg yolk	buíocán
+6.11	put on (clothes)	curumat
+6.11	put on (clothes)	curort
+6.11	put on (clothes)	éidigh
+6.11	put on (clothes)	feistigh
+6.12	clothing, clothes	éadach
+6.12	clothing, clothes	bailléadaigh
+6.12	clothing, clothes	feisteas
+6.12	clothing, clothes	ceirteacha
+6.12	clothing, clothes	balcaisí
+6.12	clothing, clothes	culaith
+6.13	tailor	táilliúr
+6.21	cloth	éadach
+6.21	cloth	bréid
+6.21	cloth	ceirt
+6.22	wool	olann
+6.22	wool	snáth
+6.23	linen, flax	líon
+6.23	linen, flax	línéadach
+6.24	cotton	cadás
+6.24	cotton	cotún
+6.24	cotton	canach
+6.25	silk	síoda
+6.27	felt	feilt
+6.28	fur	fionnadh
+6.28	fur	clúmh
+6.29	leather	leathar
+6.31	spin	sníomh
+6.32	spindle	fearsaid
+6.32	spindle	eiteán
+6.32	spindle	mol
+6.32	spindle	próiste
+6.33	weave	figh
+6.34	loom	seol
+6.35	sew	fuaigh
+6.36	needle	snáthaid
+6.36	needle	biorán
+6.36	needle	dealgán
+6.37	awl	meana
+6.38	thread	snáth
+6.38	thread	snáithe
+6.38	thread	ruainne
+6.39	dye	dathaigh
+6.39	dye	ruaimnigh
+6.41	cloak	clóca
+6.41	cloak	brat
+6.41	cloak	fallaing
+6.42	woman's dress	gúna
+6.42	woman's dress	culaith
+6.43	coat	cóta
+6.43	coat	cótamór
+6.43	coat	seaicéad
+6.43	coat	casóg
+6.44	shirt	léine
+6.45	collar	bóna
+6.45	collar	coiléar
+6.45	collar	muince
+6.46	skirt	sciorta
+6.48	trousers	bríste
+6.48	trousers	treabhsar
+6.48	trousers	triús
+6.49	stocking, sock	stocagearr
+6.49	stocking, sock	giosán
+6.51	shoe	bróg
+6.52	boot	buatais
+6.52	boot	bróg
+6.54	shoemaker, cobbler	gréasaí
+6.54	shoemaker, cobbler	caibléir
+6.55	hat, cap	hata
+6.55	hat, cap	caipín
+6.55	hat, cap	bairéad
+6.57	belt, girdle	crios
+6.58	glove	lámhainn
+6.58	glove	miotóg
+6.58	glove	mitín
+6.59	veil	fial
+6.59	veil	caille
+6.61	pocket	póca
+6.62	button	cnaipe
+6.63	pin	biorán
+6.63	pin	dealg
+6.63	pin	pionna
+6.71	ornament, adornment	maisiú
+6.71	ornament, adornment	maise
+6.71	ornament, adornment	maisiúchán
+6.71	ornament, adornment	ornáideacht
+6.71	ornament, adornment	ornaíocht
+6.71	ornament, adornment	cóiriú
+6.72	jewel	seoid
+6.72	jewel	geam
+6.72	jewel	clochbhua
+6.72	jewel	clochlómhar
+6.72	jewel	clochluachmhar
+6.72	jewel	clochuasal
+6.73	ring (for finger)	fáinne
+6.74	bracelet	bráisléad
+6.75	necklace	muince
+6.75	necklace	bráisléadbrád
+6.76	bead	cloch
+6.76	bead	cloichín
+6.76	bead	coirnín
+6.77	earring	fáinnecluaise
+6.77	earring	cnaipecluaise
+6.79	tattoo	tatú
+6.81	handkerchief, rag	ciarsúr
+6.81	handkerchief, rag	naipcínpóca
+6.82	towel	tuáille
+6.91	comb	cíor
+6.91	comb	raca
+6.92	brush	bruis
+6.92	brush	scuab
+6.921	braid	trilsigh
+6.921	braid	dual
+6.93	razor	rásúr
+6.94	ointment	ungadh
+6.95	soap	gallúnach
+6.96	mirror	scáthán
+7.11	dwell, live	cónaigh
+7.11	dwell, live	áitigh
+7.12	house	teach
+7.12	house	áras
+7.13	hut	both
+7.13	hut	bothán
+7.13	hut	púirín
+7.13	hut	bráca
+7.14	tent	puball
+7.15	yard, court	clós
+7.17	cookhouse	cistin
+7.21	room	seomra
+7.22	door, gate	doras
+7.22	door, gate	geata
+7.221	doorpost, jamb	ursain
+7.23	lock (noun)	glas
+7.231	latch, door-bolt	laiste
+7.231	latch, door-bolt	bolta
+7.24	key	eochair
+7.25	window	fuinneog
+7.26	floor	urlár
+7.27	wall	balla
+7.27	wall	múr
+7.31	fireplace	teallach
+7.31	fireplace	iarta
+7.32	stove	sornóg
+7.33	chimney	simléar
+7.37	ladder	dréimire
+7.42	bed	leaba
+7.421	pillow	adhairt
+7.421	pillow	pilliúr
+7.422	blanket	blaincéad
+7.422	blanket	pluid
+7.422	blanket	súsa
+7.43	chair	cathaoir
+7.44	table	bórd
+7.44	table	tábla
+7.45	lamp, torch	lóchrann
+7.45	lamp, torch	lampa
+7.45	lamp, torch	solas
+7.46	candle	coinneal
+7.47	shelf	seilf
+7.48	trough	umar
+7.48	trough	trach
+7.48	trough	dabhach
+7.51	roof	díon
+7.51	roof	ceann
+7.52	thatch	ceanntuí
+7.53	ridgepole	maidemullaigh
+7.54	rafter	rachta
+7.55	beam	sail
+7.55	beam	bíoma
+7.56	post, pole	cuaille
+7.56	post, pole	cleith
+7.56	post, pole	crann
+7.56	post, pole	liúr
+7.57	board	clár
+7.58	arch	áirse
+7.61	mason	saor
+7.62	brick	bríce
+7.63	mortar	moirtéal
+8.11	farmer	feirmeoir
+8.11	farmer	talmhaí
+8.12	field (for cultivation)	gort
+8.12	field (for cultivation)	cuibhreann
+8.12	field (for cultivation)	garraí
+8.13	garden	gairdín
+8.13	garden	garraí
+8.15	cultivate, till	saothraigh
+8.15	cultivate, till	curadóireacht
+8.16	fence	claí
+8.16	fence	fál
+8.16	fence	sconsa
+8.16	fence	pionsa
+8.17	ditch	díog
+8.17	ditch	clais
+8.17	ditch	sconsa
+8.17	ditch	claí
+8.21	plow	céachta
+8.21	plow	seisreach
+8.21	plow	treabh
+8.212	furrow	clais
+8.212	furrow	eitre
+8.212	furrow	iomaire
+8.22	dig	tochail
+8.22	dig	rómhair
+8.22	dig	bain
+8.23	spade	láí
+8.23	spade	rámhainn
+8.23	spade	spád
+8.24	shovel	sluasaid
+8.25	hoe	grafán
+8.25	hoe	grafóg
+8.26	fork	píce
+8.26	fork	forc
+8.27	rake	raca
+8.31	sow	cuirimsíol
+8.311	seed	síol
+8.32	mow, reap	bain
+8.32	mow, reap	buain
+8.32	mow, reap	lom
+8.32	mow, reap	speal
+8.33	sickle, scythe	corrán
+8.33	sickle, scythe	speal
+8.34	thresh	buailim
+8.34	thresh	súisteáil
+8.35	threshing-floor	urlárbuailte
+8.41	crop, harvest	barr
+8.41	crop, harvest	toradh
+8.41	crop, harvest	fómhar
+8.42	grain (barley, oats etc)	arbhar
+8.43	wheat	cruithneacht
+8.44	barley	eorna
+8.45	rye	seagal
+8.46	oats	coirce
+8.47	maize, corn	minbhuí
+8.47	maize, corn	arbharIndiach
+8.48	rice	rís
+8.51	grass	féar
+8.52	hay	féar
+8.52	hay	féartirim
+8.53	plant (noun)	plannda
+8.53	plant (noun)	luibh
+8.53	plant (noun)	lus
+8.531	plant (vb)	cuir
+8.54	root	fréamh
+8.54	root	rúta
+8.55	branch	géag
+8.55	branch	craobh
+8.55	branch	brainse
+8.56	leaf	duilleog
+8.56	leaf	bileog
+8.57	flower	bláth
+8.57	flower	plúr
+8.57	flower	pósae
+8.57	flower	scoth
+8.6	tree	crann
+8.6	tree	bile
+8.61	oak	dair
+8.62	beech	feá
+8.62	beech	fáibhile
+8.63	birch	beith
+8.64	pine	giúis
+8.64	pine	péine
+8.65	fir	giúis
+8.66	acorn	dearcán
+8.67	vine	fíniúin
+8.67	vine	féithleog
+8.68	tobacco	tobac
+8.69	smoke (tobacco)	caithimtobac
+8.69	smoke (tobacco)	ólaimtobac
+8.691	pipe	píopa
+8.72	tree stump	grágán
+8.72	tree stump	stocán
+8.72	tree stump	bun
+8.73	tree trunk	corp
+8.73	tree trunk	stoc
+8.74	forked branch	gabhal
+8.75	bark	coirt
+8.75	bark	rúsc
+8.76	sap	sú
+8.76	sap	súlach
+8.81	palm tree	pailm
+8.82	coconut	cnócócó
+8.83	citrus fruit	ciotras
+8.84	banana tree	crannbananaí
+8.91	sweet potato	prátaSpáinneach
+8.912	yam	ionam
+8.92	tapioca, manioc, cassava	taipióca
+8.93	gourd	gurd
+8.931	pumpkin, squash	puimcín
+8.94	bamboo	bambú
+8.941	sugar cane	cánasiúcra
+8.97	nettle	neantóg
+8.98	mushroom	beacán
+8.98	mushroom	muisiriún
+9.11	do, make	déan
+9.12	work	obair
+9.12	work	saothar
+9.14	bend	claon
+9.14	bend	crom
+9.14	bend	fiar
+9.14	bend	fill
+9.14	bend	lúb
+9.14	bend	cam
+9.14	bend	feac
+9.15	fold	fill
+9.16	tie, bind	ceangail
+9.16	tie, bind	naisc
+9.161	untie	scaoil
+9.18	chain	slabhra
+9.19	rope, cord	téad
+9.19	rope, cord	rópa
+9.19	rope, cord	corda
+9.192	knot (noun)	snaidhm
+9.21	strike (hit, beat)	buail
+9.211	pound with fist	brúigh
+9.211	pound with fist	tuairteáil
+9.211	pound with fist	tuargain
+9.211	pound with fist	smíst
+9.22	cut	scor
+9.22	cut	bearr
+9.22	cut	gearr
+9.22	cut	ciorraigh
+9.22	cut	snoigh
+9.221	cut down	gearranuas
+9.221	cut down	bain
+9.221	cut down	treascair
+9.221	cut down	leag
+9.222	chop, hew	gearr
+9.222	chop, hew	mionghearr
+9.222	chop, hew	smiot
+9.223	stab	sáigh
+9.223	stab	goin
+9.223	stab	rop
+9.23	knife	scian
+9.24	scissors, shears	siosúr
+9.24	scissors, shears	deimheas
+9.25	ax	tua
+9.25	ax	biail
+9.251	adze	tál
+9.26	break	bris
+9.261	broken	briste
+9.27	split	scoilt
+9.27	split	scáin
+9.28	tear	réab
+9.28	tear	rois
+9.28	tear	stróic
+9.28	tear	srac
+9.29	flay, skin	feann
+9.29	flay, skin	scean
+9.29	flay, skin	sclamh
+9.31	rub, wipe	cuimil
+9.31	rub, wipe	slíoc
+9.31	rub, wipe	slíob
+9.32	stretch	sín
+9.32	stretch	searr
+9.32	stretch	tarraing
+9.32	stretch	righ
+9.33	pull	tarraing
+9.33	pull	srac
+9.33	pull	sraon
+9.33	pull	stoith
+9.34	spread out	leath
+9.34	spread out	scar
+9.34	spread out	spréigh
+9.34	spread out	scaip
+9.34	spread out	síolaigh
+9.341	hang up	croch
+9.342	press	brúigh
+9.342	press	fáisc
+9.342	press	teann
+9.343	squeeze, wring	fáisc
+9.343	squeeze, wring	teann
+9.35	pour	doirt
+9.35	pour	steall
+9.35	pour	scaird
+9.36	wash	nigh
+9.36	wash	folc
+9.36	wash	ionnail
+9.37	sweep	scuab
+9.38	broom	scuab
+9.38	broom	giolcachshléibhe
+9.422	tool	ballacra
+9.422	tool	gléas
+9.422	tool	uirlis
+9.43	carpenter	siúinéir
+9.43	carpenter	saoradhmaid
+9.44	build	tóg
+9.44	build	déan
+9.46	bore	toll
+9.46	bore	poll
+9.461	hollow out	tochail
+9.48	saw	sábh
+9.48	saw	toireasc
+9.49	hammer	casúr
+9.49	hammer	ord
+9.5	nail	tairne
+9.56	glue	gliú
+9.56	glue	glae
+9.6	smith, blacksmith	gabha
+9.61	forge	gaibhnigh
+9.62	anvil	inneoin
+9.63	cast (metals)	teilg
+9.64	gold	ór
+9.65	silver	airgead
+9.66	copper, bronze	umha
+9.66	copper, bronze	copar
+9.67	iron	iarann
+9.68	lead (noun)	luaidhe
+9.69	tin, tinplate	stán
+9.71	potter	potaire
+9.71	potter	criadóir
+9.72	mold (clay etc)	múnlaigh
+9.72	mold (clay etc)	cum
+9.73	clay	cré
+9.73	clay	marla
+9.74	glass	gloine
+9.75	weave, plait	figh
+9.76	basket	ciseán
+9.76	basket	cliabh
+9.76	basket	bascaed
+9.76	basket	muirleog
+9.77	mat	mata
+9.77	mat	cáiteog
+9.771	rug	ruga
+9.771	rug	súsa
+9.79	fan (noun)	fean
+9.79	fan (noun)	gaothrán
+9.791	fan (vb)	gaothraigh
+9.81	carve	gearr
+9.81	carve	grean
+9.81	carve	snoigh
+9.82	sculptor	dealbhóir
+9.82	sculptor	snoíodóir
+9.83	statue	dealbh
+9.83	statue	íomhá
+9.84	chisel	siséal
+9.88	paint (noun)	péint
+9.88	paint (noun)	dath
+9.89	paint (vb)	péinteáil
+9.89	paint (vb)	dathaigh
+10.11	move	corraigh
+10.11	move	bogadh
+10.12	turn over	iompú
+10.13	turn around	cas
+10.13	turn around	iompúthart
+10.13	turn around	iompútimpeall
+10.14	wind, wrap	fill
+10.14	wind, wrap	burláil
+10.14	wind, wrap	cornadh
+10.15	roll	rolladh
+10.16	drop (vb)	titim
+10.17	twist	casadh
+10.17	twist	corachuiri
+10.21	rise	éirigh
+10.22	raise, lift	tóg
+10.23	fall	titim
+10.24	drip	braon
+10.24	drip	sileán
+10.25	throw	caith
+10.25	throw	teilg
+10.252	catch (ball)	ceap
+10.252	catch (ball)	breith
+10.252	catch (ball)	greim
+10.252	catch (ball)	gabháil
+10.26	shake	croith
+10.32	flow	rith
+10.32	flow	sní
+10.32	flow	sileadh
+10.33	sink	téighfaoi
+10.33	sink	báigh
+10.33	sink	cuirgotóin
+10.34	float	bheitharsnámh
+10.34	float	snámh
+10.35	swim	snámh
+10.351	dive	tum
+10.352	splash	steall
+10.352	splash	scairdaníos
+10.36	sail (vb)	seol
+10.37	fly (vb)	eitil
+10.38	blow	séid
+10.41	creep, crawl	snámh
+10.41	creep, crawl	téaltaigh
+10.413	crouch	crom
+10.413	crouch	cúb
+10.413	crouch	téighardochromada
+10.42	slide, slip	sleamhnaigh
+10.42	slide, slip	sciorr
+10.43	jump, leap	léim
+10.43	jump, leap	ling
+10.431	kick	cic
+10.431	kick	speach
+10.44	dance	rinnce
+10.44	dance	damhsa
+10.45	walk	siúl
+10.451	limp	bacadaíl
+10.451	limp	bacadradh
+10.451	limp	siúlgobacach
+10.46	run	rith
+10.47	go	téigh
+10.471	go up	téighsuas
+10.472	climb	árdaigh
+10.473	go down	téighsíos
+10.474	go out	téighamach
+10.48	come	tig
+10.48	come	tag
+10.481	come back	tagarais
+10.481	come back	fill
+10.481	come back	pill
+10.49	go away, depart	imigh
+10.491	disappear	imigh
+10.491	disappear	téighasradharc
+10.51	flee	teith
+10.52	follow	lean
+10.53	pursue	dulsatóirar
+10.53	pursue	dularthóir
+10.55	reach, arrive	sroich
+10.56	approach	druidle
+10.56	approach	tarraingar
+10.57	enter	téighisteach
+10.61	carry (bear)	iompair
+10.61	carry (bear)	giúlán
+10.62	bring	beir
+10.63	send	cuir
+10.64	lead (vb)	giollaigh
+10.64	lead (vb)	treoraigh
+10.64	lead (vb)	stiúir
+10.65	drive	tiomáin
+10.66	ride	marcaíocht
+10.67	push, shove	brúigh
+10.67	push, shove	sáigh
+10.71	road	bóthar
+10.71	road	bealach
+10.71	road	ród
+10.72	path	cosán
+10.74	bridge	droichead
+10.75	carriage, wagon, cart	carráiste
+10.75	carriage, wagon, cart	carbad
+10.75	carriage, wagon, cart	cairt
+10.75	carriage, wagon, cart	carr
+10.76	wheel	roth
+10.77	axle	acastóir
+10.77	axle	fearsaid
+10.78	yoke	cuing
+10.81	ship	long
+10.81	ship	bárc
+10.83	boat	bád
+10.831	canoe	currach
+10.831	canoe	naomhóg
+10.832	outrigger	bacánamuigh
+10.84	raft	slaod
+10.84	raft	rafta
+10.85	oar	rámha
+10.852	row (vb)	rámhaigh
+10.86	rudder	stiúir
+10.87	mast	crann
+10.88	sail (noun)	seol
+10.89	anchor	ancaire
+10.91	harbor, port	port
+10.91	harbor, port	cuan
+10.91	harbor, port	caladh
+11.11	have	táXagY
+11.12	own, possess	sealbhaigh
+11.13	take	tóg
+11.13	take	gabh
+11.14	seize, grasp	beirar
+11.14	seize, grasp	glac
+11.14	seize, grasp	ceap
+11.15	hold	coinnigh
+11.15	hold	coimeád
+11.16	get, obtain	fáigh
+11.17	keep, retain	coinnigh
+11.17	keep, retain	coimeád
+11.18	thing	rud
+11.18	thing	ní
+11.21	give	tug
+11.22	give back	tugarais
+11.24	preserve, look after	caomhnaigh
+11.24	preserve, look after	cúmhdaigh
+11.24	preserve, look after	coimeád
+11.25	save, rescue	sábháil
+11.25	save, rescue	fuascail
+11.25	save, rescue	saor
+11.27	destroy	scrios
+11.27	destroy	mill
+11.28	harm, injure, damage	loit
+11.28	harm, injure, damage	dochardíobháiladhéanamhdo
+11.31	seek, look for	cuardaigh
+11.31	seek, look for	dularlorgduine
+11.32	find	fáigh
+11.33	lose	caill
+11.34	release, let go	scaoil
+11.34	release, let go	fuascail
+11.43	money	airgead
+11.44	coin	bonn
+11.44	coin	píosa
+11.51	rich	saibhir
+11.52	poor	bocht
+11.52	poor	dealbh
+11.52	poor	daibhir
+11.53	beggar	bacach
+11.53	beggar	feardéirce
+11.54	avaricious, stingy	sanntach
+11.54	avaricious, stingy	ceachartha
+11.54	avaricious, stingy	sprionlaithe
+11.54	avaricious, stingy	gortach
+11.61	lend	tugariasacht
+11.62	borrow	fáighariasacht
+11.63	owe	táXagatorm
+11.64	debt	fiacha
+11.65	pay (vb)	íoc
+11.66	account, reckoning	cuntas
+11.66	account, reckoning	comhaireamh
+11.66	account, reckoning	áireamh
+11.69	tax, tribute	cáin
+11.77	hire	fostaigh
+11.78	wages	tuarastal
+11.78	wages	pá
+11.79	earn	saothraigh
+11.81	buy	ceannaigh
+11.82	sell	díol
+11.82	sell	reic
+11.83	trade, barter	babhtáil
+11.84	merchant	ceannaí
+11.85	market (place)	margadh
+11.86	store, shop	siopa
+11.87	price	luach
+11.87	price	praghas
+11.88	dear (costly, expensive)	daor
+11.88	dear (costly, expensive)	costasach
+11.89	cheap	saor
+11.89	cheap	neamhchostasach
+11.91	share (distribute)	roinn
+11.92	weigh	meáigh
+12.1	after	indiaidh
+12.1	after	taréis
+12.11	place	taobhthiar
+12.11	place	laistiar
+12.2	beside	inaice
+12.2	beside	lehais
+12.2	beside	taobhle
+12.2	beside	inaicele
+12.3	down, below	síos
+12.3	down, below	thíos
+12.4	before	roimh
+12.41	right (side)	araghaidh
+12.41	right (side)	oscomhair
+12.41	right (side)	arbhéal
+12.41	right (side)	roimh
+12.5	inside, in	isteach
+12.5	inside, in	istoigh
+12.6	outside	amach
+12.6	outside	amuigh
+12.7	under	faoi
+12.7	under	fá
+12.7	under	fé
+12.8	up, above	suas
+12.8	up, above	thuas
+12.11	place	áit
+12.11	place	ionad
+12.12	put	cuir
+12.13	sit	suí
+12.14	lie down	luí
+12.15	stand	seas
+12.16	remain, stay	fan
+12.16	remain, stay	fuirigh
+12.17	remains, left overs	fuílleach
+12.21	collect, gather	bailigh
+12.21	collect, gather	cruinnigh
+12.212	pick up	tóg
+12.213	pile up	carnadh
+12.213	pile up	cruachadh
+12.22	join, unite	ceangail
+12.22	join, unite	nasc
+12.23	separate	scair
+12.232	divide	roinn
+12.24	open	oscail
+12.24	open	foscail
+12.25	shut, close	dún
+12.25	shut, close	druid
+12.26	cover	clúdaigh
+12.27	hide, conceal	folaigh
+12.27	hide, conceal	curibhfolach
+12.31	high	ard
+12.32	low	íseal
+12.33	top	barr
+12.34	bottom	bun
+12.35	end	deireadh
+12.352	pointed	biorach
+12.352	pointed	gobach
+12.353	edge	faobhar
+12.353	edge	béal
+12.353	edge	bruach
+12.353	edge	corr
+12.353	edge	cúinne
+12.353	edge	droim
+12.353	edge	imeall
+12.353	edge	ciumhais
+12.353	edge	eochair
+12.36	side	taobh
+12.36	side	slios
+12.36	side	leath
+12.37	middle, center	meán
+12.37	middle, center	lár
+12.41	right (side)	deas
+12.42	left (side)	clé
+12.42	left (side)	tuath
+12.43	near (adv)	inaice
+12.43	near (adv)	cóngarach
+12.43	near (adv)	ingar
+12.43	near (adv)	indeas
+12.43	near (adv)	ingaobhar
+12.43	near (adv)	fogasdo
+12.43	near (adv)	ibhfogas
+12.44	far (adv)	ibhfad
+12.44	far (adv)	fada
+12.45	east	oirthear
+12.45	east	thoir
+12.45	east	soir
+12.45	east	anoir
+12.46	west	íarthar
+12.46	west	thiar
+12.46	west	siar
+12.46	west	aniar
+12.47	north	tuaisceart
+12.47	north	thuaidh
+12.47	north	óthuaidh
+12.47	north	aduaidh
+12.48	south	deisceart
+12.48	south	ódheas
+12.48	south	aneas
+12.48	south	laisteas
+12.53	grow	fás
+12.54	measure	tomhais
+12.541	span, fathom	feáigh
+12.541	span, fathom	tomhais
+12.55	large, big	mór
+12.56	small, little	beag
+12.57	long	fada
+12.58	tall	ard
+12.59	short	gearr
+12.59	short	gairid
+12.61	wide, broad	leathan
+12.62	narrow	cúng
+12.62	narrow	caol
+12.63	thick (in dimension)	tiubh
+12.63	thick (in dimension)	ramhar
+12.65	thin (in dimension)	tanaí
+12.65	thin (in dimension)	caol
+12.67	deep	domhain
+12.68	shallow	tanaí
+12.68	shallow	éadomhain
+12.71	flat	cothrom
+12.71	flat	réidh
+12.71	flat	comhréidh
+12.71	flat	leibheálta
+12.73	straight	díreach
+12.74	crooked	cam
+12.74	crooked	crom
+12.74	crooked	cuar
+12.75	hook	crúca
+12.75	hook	cromóg
+12.76	corner	cúinne
+12.76	corner	cearna
+12.77	cross	crois
+12.77	cross	croch
+12.78	square	cearnach
+12.78	square	cearnóg
+12.81	round	cruinn
+12.81	round	comhchruinn
+12.82	circle	ciorcal
+12.83	sphere, ball	liathróid
+12.83	sphere, ball	meall
+12.83	sphere, ball	cruinne
+12.84	line	líne
+12.85	hole	poll
+12.92	like, similar	cosúille
+12.93	change	aistrigh
+12.93	change	athraigh
+13.0	zero, nothing	náid
+13.0	zero, nothing	nialas
+13.1	one	ahaon
+13.2	two	adó
+13.3	three	atrí
+13.4	four	aceathair
+13.5	five	acúig
+13.6	six	asé
+13.7	seven	aseacht
+13.8	eight	ahocht
+13.9	nine	anaoí
+13.10	ten	adeich
+13.101	eleven	ahaondéag
+13.102	twelve	adódhéag
+13.103	fifteen	acúigdéag
+13.104	twenty	fiche
+13.105	hundred	céad
+13.106	thousand	míle
+13.107	count	comhair
+13.107	count	cuntais
+13.107	count	áirigh
+13.14	every, all	gach
+13.14	every, all	gachuile
+13.14	every, all	goléir
+13.15	much, many	mórán
+13.15	much, many	alán
+13.15	much, many	iomaí
+13.15	much, many	lia
+13.16	more	tuilleadh
+13.17	little (quantity), few	beagán
+13.17	little (quantity), few	beag
+13.17	little (quantity), few	tearc
+13.18	enough	dóthain
+13.18	enough	sáith
+13.18	enough	leor
+13.181	some	éigin
+13.181	some	inteacht
+13.19	multitude, crowd	slua
+13.19	multitude, crowd	iomad
+13.19	multitude, crowd	ollslua
+13.19	multitude, crowd	mórchuid
+13.21	full	lán
+13.22	empty	folamh
+13.23	part, piece	cuid
+13.23	part, piece	páirt
+13.24	half	leath
+13.24	half	leath
+13.33	alone, only	aonar
+13.33	alone, only	aon
+13.33	alone, only	amháin
+13.34	first	chéad
+13.35	last	deireannach
+13.36	second	dara
+13.37	pair	dís
+13.38	two times	dháuair
+13.38	two times	faoidhó
+13.42	third	tríú
+13.44	three times	tríhuaire
+13.44	three times	faoithrí
+14.11	time	am
+14.11	time	aimsir
+14.12	age	aois
+14.13	new	nua
+14.13	new	úr
+14.14	young	óg
+14.15	old	aosta
+14.15	old	críonna
+14.15	old	sean
+14.16	early	goluath
+14.16	early	moch
+14.17	late	déanach
+14.17	late	deireanach
+14.17	late	mall
+14.18	now	anois
+14.19	immediately	láithreach
+14.21	swift, fast, quick	tapaidh
+14.21	swift, fast, quick	mear
+14.21	swift, fast, quick	gasta
+14.22	slow	mall
+14.22	slow	réidh
+14.22	slow	fadálach
+14.23	hasten, hurry	brostaigh
+14.23	hasten, hurry	déandeifir
+14.24	retard, delay	moilligh
+14.25	begin, beginning	tosaigh
+14.25	begin, beginning	tosnú
+14.25	begin, beginning	tosach
+14.25	begin, beginning	tús
+14.252	last, endure	mair
+14.252	last, endure	seas
+14.252	last, endure	lean
+14.26	end (temporal)	deireadh
+14.26	end (temporal)	críoch
+14.27	finish	críochnaigh
+14.27	finish	cuirdeireadhle
+14.28	cease, stop	stad
+14.28	cease, stop	stop
+14.28	cease, stop	scoir
+14.29	ready	ullamh
+14.29	ready	réidh
+14.31	always	igcónaí
+14.31	always	idtólamh
+14.32	often	gominic
+14.33	sometimes	amanna
+14.33	sometimes	uaireanta
+14.33	sometimes	scaití
+14.331	soon	goluath
+14.331	soon	gogairid
+14.331	soon	ganmhoill
+14.332	long-time (for a)	lefada
+14.332	long-time (for a)	leisnacianta
+14.34	never	riamh
+14.34	never	godeo
+14.34	never	gobrách
+14.34	never	choíche
+14.34	never	archorarbith
+14.34	never	inaonchor
+14.35	again	arís
+14.41	day	lá
+14.42	night	oíche
+14.43	dawn	breacadhlae
+14.43	dawn	fáinneanlae
+14.43	dawn	camhaoir
+14.44	morning	maidin
+14.45	noon, midday	meánlae
+14.45	noon, midday	nóin
+14.45	noon, midday	eadra
+14.451	afternoon	iarnóin
+14.451	afternoon	tráthnóna
+14.46	evening	tráthnóna
+14.46	evening	oíche
+14.47	today	inniu
+14.48	tomorrow	amárach
+14.481	day-after-tomorrow	arúamárach
+14.481	day-after-tomorrow	anóirthear
+14.49	yesterday	inné
+14.491	day-before-yesterday	arúinné
+14.51	hour	uair
+14.53	clock, timepiece	clog
+14.53	clock, timepiece	uaireadóir
+14.61	week	seachtain
+14.62	Sunday	Domhnach
+14.62	Sunday	DéDomhnaigh
+14.63	Monday	Luan
+14.63	Monday	AnLuan
+14.63	Monday	DéLuain
+14.64	Tuesday	Máirt
+14.64	Tuesday	AnMháirt
+14.64	Tuesday	DéMáirt
+14.65	Wednesday	Céadaoin
+14.65	Wednesday	AnChéadaoin
+14.65	Wednesday	DéCéadaoin
+14.66	Thursday	AnDéardaoin
+14.66	Thursday	Déardaoin
+14.67	Friday	Aoine
+14.67	Friday	AnAoine
+14.67	Friday	DéhAoine
+14.68	Saturday	Satharn
+14.68	Saturday	AnSatharn
+14.68	Saturday	DéSathairn
+14.71	month	mí
+14.73	year	bliain
+14.74	winter	geimhreadh
+14.75	spring	earrach
+14.76	summer	samhradh
+14.77	autumn	fómhar
+14.78	season	séasúr
+14.78	season	ionú
+15.21	smell (vb intrans)	boladh
+15.212	sniff	smúr
+15.212	sniff	bolaigh
+15.22	smell (vb trans)	bolaigh
+15.22	smell (vb trans)	smúr
+15.22	smell (vb trans)	boltanaigh
+15.25	fragrant, good smelling	cumhra
+15.26	stinking, bad smelling	bréan
+15.31	taste	blais
+15.35	sweet	milis
+15.36	salty	goirt
+15.36	salty	salainn
+15.37	bitter	searbh
+15.37	bitter	goirt
+15.37	bitter	garg
+15.37	bitter	géar
+15.38	acid, sour	searbh
+15.38	acid, sour	géar
+15.39	brackish	goirt
+15.41	hear	cluin
+15.41	hear	clois
+15.42	listen	éist
+15.44	sound, noise	fuaim
+15.44	sound, noise	glór
+15.44	sound, noise	foghar
+15.45	loud	ard
+15.45	loud	glórach
+15.45	loud	gártha
+15.46	quiet, silence	ciúin
+15.46	quiet, silence	socair
+15.46	quiet, silence	ciúnas
+15.46	quiet, silence	tost
+15.51	see	feic
+15.51	see	chí
+15.51	see	tchí
+15.52	look, look at	féach
+15.52	look, look at	breathnaigh
+15.55	show	taispeáin
+15.56	shine	dealraigh
+15.56	shine	soilsigh
+15.56	shine	lonraigh
+15.57	bright	geal
+15.57	bright	lonrach
+15.57	bright	soilseach
+15.57	bright	glinniúil
+15.61	color	dath
+15.61	color	lí
+15.62	light (in color)	éadtrom
+15.63	dark (in color)	dorcha
+15.64	white	bán
+15.64	white	geal
+15.64	white	fionn
+15.65	black	dubh
+15.66	red	dearg
+15.66	red	rua
+15.67	blue	gorm
+15.68	green	glas
+15.68	green	uaine
+15.69	yellow	buí
+15.71	touch	teagmhaighle
+15.71	touch	bainle
+15.71	touch	tadhaill
+15.712	pinch	bainlíomógas
+15.712	pinch	bainmiotógas
+15.712	pinch	bainscealpógas
+15.72	feel	mothaigh
+15.74	hard	crua
+15.75	soft	bog
+15.76	rough	garbh
+15.77	smooth	réidh
+15.77	smooth	mín
+15.78	sharp	géar
+15.79	blunt, dull	maol
+15.81	heavy	trom
+15.82	light (in weight)	éadtrom
+15.83	wet, damp	fliuch
+15.84	dry	tirim
+15.85	hot	te
+15.851	warm	te
+15.851	warm	brothallach
+15.851	warm	bogthe
+15.851	warm	alabhog
+15.86	cold	fuar
+15.87	clean	glan
+15.88	dirty, soiled	salach
+15.89	wrinkled	rocach
+16.11	soul, spirit	anam
+16.11	soul, spirit	spiorad
+16.15	surprised, astonished	iontas
+16.18	good fortune, luck	ádh
+16.18	good fortune, luck	sonas
+16.19	misfortune, bad luck	míádh
+16.19	misfortune, bad luck	mífhortún
+16.19	misfortune, bad luck	anachain
+16.19	misfortune, bad luck	donas
+16.23	joyful, glad, happy	lúcháireach
+16.23	joyful, glad, happy	áthasach
+16.23	joyful, glad, happy	gliondrach
+16.23	joyful, glad, happy	suairc
+16.23	joyful, glad, happy	sonasásta
+16.23	joyful, glad, happy	ollghairdeach
+16.23	joyful, glad, happy	ríméadach
+16.25	laugh	gáir
+16.25	laugh	gáireadhéanamh
+16.251	smile	miongháireadhéanamh
+16.26	play	imir
+16.26	play	súgradh
+16.26	play	spraoi
+16.27	love	grá
+16.27	love	cion
+16.27	love	gean
+16.27	love	searc
+16.29	kiss	póg
+16.3	embrace	barróg
+16.3	embrace	cuach
+16.31	pain	pian
+16.32	grief, sorrow, sadness	brón
+16.32	grief, sorrow, sadness	cumha
+16.32	grief, sorrow, sadness	léan
+16.33	anxiety, worry	imní
+16.33	anxiety, worry	buaireamh
+16.34	regret, be sorry	aiféala
+16.35	pity	trua
+16.37	cry, weep	goil
+16.37	cry, weep	caoin
+16.38	tear (noun)	deor
+16.39	groan	cnead
+16.39	groan	och
+16.41	hate	fuath
+16.42	anger	fearg
+16.44	envy, jealousy	tnúth
+16.44	envy, jealousy	formad
+16.44	envy, jealousy	éad
+16.45	shame (noun)	náire
+16.48	proud	mórchúiseach
+16.48	proud	bródúil
+16.48	proud	mórálach
+16.48	proud	uaibhreach
+16.51	dare	dúshlán
+16.52	brave	calma
+16.52	brave	misniúil
+16.52	brave	cróga
+16.52	brave	móruchtúil
+16.53	fear, fright	eagla
+16.53	fear, fright	faitcheas
+16.53	fear, fright	uamhan
+16.53	fear, fright	scanradh
+16.54	danger	baol
+16.54	danger	dainséar
+16.54	danger	contúirt
+16.54	danger	guais
+16.62	desire, want	santaigh
+16.62	desire, want	mianaigh
+16.62	desire, want	tothlaigh
+16.622	choose	togh
+16.622	choose	roghnaigh
+16.63	hope	dóchas
+16.63	hope	súil
+16.65	faithful	dílis
+16.65	faithful	tairiseach
+16.65	faithful	seasmhach
+16.66	true	fíor
+16.67	lie, tell lies	bréag
+16.67	lie, tell lies	éitheach
+16.68	deceit	cealg
+16.68	deceit	calaois
+16.68	deceit	meabhal
+16.68	deceit	camastaíl
+16.68	deceit	feall
+16.69	forgive	maith
+16.71	good	maith
+16.71	good	deá
+16.71	good	so
+16.72	bad	olc
+16.72	bad	droch
+16.72	bad	do
+16.73	right, correct	ceart
+16.73	right, correct	cóir
+16.74	wrong	mícheart
+16.74	wrong	contráilte
+16.74	wrong	olc
+16.76	fault	locht
+16.76	fault	cion
+16.77	mistake, error	dearmad
+16.77	mistake, error	earráid
+16.77	mistake, error	meancóg
+16.77	mistake, error	botún
+16.78	blame	milleán
+16.79	praise	moladh
+16.81	beautiful	álainn
+16.81	beautiful	sciamhach
+16.81	beautiful	spéiriúil
+16.81	beautiful	dóighiúil
+16.82	ugly	gránna
+16.82	ugly	míofar
+16.83	greedy	santach
+16.83	greedy	airceasach
+16.83	greedy	amplach
+16.84	clever	cliste
+16.84	clever	stuama
+16.84	clever	meabhrach
+16.84	clever	éirimiúil
+16.84	clever	ábalta
+17.11	mind	aigne
+17.11	mind	intinn
+17.11	mind	anam
+17.11	mind	intleacht
+17.13	think (= reflect)	smaoinigh
+17.13	think (= reflect)	machtnaigh
+17.13	think (= reflect)	meabhraigh
+17.14	think (= be of the opinion)	meas
+17.14	think (= be of the opinion)	síl
+17.14	think (= be of the opinion)	ceap
+17.15	believe	creid
+17.16	understand	tuig
+17.17	know	fios
+17.171	guess	tomhais
+17.171	guess	tuairimigh
+17.172	imitate	aithris
+17.18	seem	cumá
+17.18	seem	dealramh
+17.18	seem	samhlaigh
+17.19	idea, notion	smaoineamh
+17.19	idea, notion	idé
+17.19	idea, notion	coincheap
+17.21	wise	eagnaí
+17.21	wise	críonna
+17.21	wise	gaoismhear
+17.22	foolish, stupid	dúr
+17.22	foolish, stupid	dobhránta
+17.22	foolish, stupid	dallintinneach
+17.22	foolish, stupid	bómánta
+17.22	foolish, stupid	amaideach
+17.23	insane, crazy	arbuile
+17.23	insane, crazy	armire
+17.24	learn	foghlaim
+17.242	study	staidéar
+17.242	study	breathnaigh
+17.242	study	scrúdaigh
+17.25	teach	múin
+17.25	teach	teagasc
+17.26	pupil	dalta
+17.26	pupil	scoláire
+17.26	pupil	macléinn
+17.26	pupil	iníonléinn
+17.27	teacher	múinteoir
+17.27	teacher	oide
+17.27	teacher	máistirscoile
+17.27	teacher	máistreásscoile
+17.28	school	scoil
+17.28	school	bunscoil
+17.31	remember	cuimhnigh
+17.31	remember	cuimhin
+17.32	forget	dearmad
+17.34	clear, plain	soiléar
+17.34	clear, plain	follasach
+17.34	clear, plain	geal
+17.34	clear, plain	gléigeal
+17.35	obscure	doiléir
+17.35	obscure	dorcha
+17.35	obscure	smúitiúil
+17.36	secret	rúnda
+17.36	secret	rúin
+17.36	secret	sicréideach
+17.37	sure, certain	cinnte
+17.37	sure, certain	deimhin
+17.37	sure, certain	dearfa
+17.37	sure, certain	dearbh
+17.38	explain	mínigh
+17.38	explain	ciallaigh
+17.41	intention, purpose	rún
+17.41	intention, purpose	aidhm
+17.41	intention, purpose	cuspóir
+17.42	cause	cúis
+17.42	cause	ábhar
+17.42	cause	údar
+17.43	doubt	dabht
+17.43	doubt	amhras
+17.44	suspect	amhras
+17.441	betray	braith
+17.441	betray	feall
+17.441	betray	tréig
+17.45	need, necessity	riachtanas
+17.45	need, necessity	gá
+17.45	need, necessity	call
+17.46	easy	furasta
+17.46	easy	saoráideach
+17.46	easy	fuirist
+17.47	difficult	deacair
+17.47	difficult	doiligh
+17.47	difficult	duaisiúil
+17.48	try, attempt	iarraigh
+17.48	try, attempt	tástáil
+17.48	try, attempt	promh
+17.48	try, attempt	seiceáil
+17.48	try, attempt	dearbháil
+17.48	try, attempt	féach
+17.49	way, manner	dóigh
+17.49	way, manner	caoi
+17.51	and	agus
+17.52	because	debhrígo
+17.52	because	cionnisgo
+17.52	because	margheallargo
+17.52	because	assiocairgo
+17.52	because	toiscgo
+17.52	because	aranábhargo
+17.52	because	mar
+17.52	because	nó
+17.53	if	má
+17.53	if	dá
+17.54	or	nó
+17.55	yes, affirmative	ná
+17.56	no, negative	ná
+17.61	how?	conas
+17.61	how?	cénchaoi
+17.61	how?	céndóigh
+17.61	how?	cadémar
+17.62	how many?	cémhéad
+17.63	how much?	cémhéad
+17.64	what?	cad
+17.64	what?	cadé
+17.65	when?	cathain
+17.65	when?	cénuair
+17.65	when?	cáhuair
+17.66	where?	cá
+17.66	where?	cénáit
+17.67	which?	céacu
+17.68	who?	cé
+17.69	why?	cadchuige
+17.69	why?	cénfáth
+17.69	why?	cadinathaobh
+18.11	voice	guth
+18.11	voice	glór
+18.12	sing	can
+18.15	whisper	cogar
+18.16	mumble	mungail
+18.16	mumble	cogain
+18.17	whistle	fead
+18.18	shriek, screech	scread
+18.18	shriek, screech	scréach
+18.18	shriek, screech	béic
+18.19	howl	béic
+18.19	howl	uaill
+18.19	howl	glam
+18.21	speak, talk	labhair
+18.21	speak, talk	caintadhéanamh
+18.211	stutter, stammer	stad
+18.22	say	deir
+18.221	tell story	inis
+18.221	tell story	deir
+18.222	speech (make a)	óráid
+18.23	silent (be)	tost
+18.24	language	teanga
+18.24	language	urlabhra
+18.24	language	caint
+18.26	word	focal
+18.26	word	briathar
+18.28	name	ainm
+18.31	ask (question, inquire)	fiafraigh
+18.32	answer	freagair
+18.33	admit, confess	admhaigh
+18.34	deny	séan
+18.34	deny	bréagnaigh
+18.35	ask, request	iarr
+18.36	promise	geall
+18.37	refuse	diúltaigh
+18.37	refuse	eitigh
+18.38	forbid	cros
+18.38	forbid	toirmisc
+18.38	forbid	coisc
+18.39	rebuke, scold	bearr
+18.39	rebuke, scold	feann
+18.39	rebuke, scold	scioll
+18.39	rebuke, scold	éilighar
+18.41	call (=summon)	scairtar
+18.41	call (=summon)	glaoighar
+18.41	call (=summon)	gairar
+18.42	call (=name)	gair
+18.43	announce	fógair
+18.44	threaten	bagair
+18.45	boast	maígh
+18.45	boast	gaisce
+18.51	write	scríobh
+18.52	read	léigh
+18.56	paper	páipéar
+18.57	pen	peann
+18.61	book	leabhar
+18.67	poet	file
+18.71	flute	fliúit
+18.72	drum	druma
+18.73	horn, trumpet	corn
+18.73	horn, trumpet	trumpa
+18.74	rattle	crothal
+18.74	rattle	gligín
+19.11	country	tír
+19.11	country	tuath
+19.11	country	críoch
+19.12	one's native country	tírdhúchais
+19.15	city, town	cathair
+19.15	city, town	bailemór
+19.16	village	baile
+19.16	village	sráidbhaile
+19.17	boundary	críoch
+19.17	boundary	teorainn
+19.21	people (populace)	daoine
+19.21	people (populace)	pobal
+19.21	people (populace)	muintir
+19.21	people (populace)	bunadh
+19.21	people (populace)	cine
+19.23	tribe, clan	treibh
+19.23	tribe, clan	fine
+19.23	tribe, clan	muintir
+19.23	tribe, clan	bunadh
+19.23	tribe, clan	clann
+19.24	chief, chieftain	taoiseach
+19.24	chief, chieftain	ceannfine
+19.24	chief, chieftain	flaith
+19.24	chief, chieftain	triath
+19.25	staff, walking stick	bachall
+19.25	staff, walking stick	crann
+19.31	rule, govern	rialaigh
+19.31	rule, govern	bheithiréim
+19.31	rule, govern	bheithigceannas
+19.32	king, ruler	rí
+19.33	queen	banríon
+19.36	noble, nobleman	uasal
+19.37	citizen, subject	saoránach
+19.37	citizen, subject	cathróir
+19.41	master	máistir
+19.42	slave	sclábhaí
+19.43	servant	seirbhíseach
+19.43	servant	searbhónta
+19.44	freeman	saorfhear
+19.44	freeman	saoirseach
+19.44	freeman	saoránach
+19.45	command, order	órdaigh
+19.46	obey	géill
+19.47	let, permit	ligdo
+19.47	let, permit	ceadaigh
+19.51	friend, companion	cara
+19.51	friend, companion	comrádaí
+19.51	friend, companion	compánach
+19.52	enemy	namhaid
+19.54	neighbor	comharsa
+19.55	stranger	coimhthíoch
+19.55	stranger	eachtrannach
+19.55	stranger	stráinséir
+19.56	guest	aoi
+19.56	guest	cuairteoir
+19.57	host	óstach
+19.57	host	tíosach
+19.58	help, aid	cuidighle
+19.58	help, aid	cabhraighle
+19.58	help, aid	fóir
+19.59	hinder, prevent	bac
+19.59	hinder, prevent	coisc
+19.59	hinder, prevent	stop
+19.59	hinder, prevent	toirmisc
+19.61	custom	nós
+19.61	custom	béas
+19.61	custom	gnás
+19.61	custom	cleachtadh
+19.62	strife, quarrel	cogadh
+19.62	strife, quarrel	imreas
+19.62	strife, quarrel	achrann
+19.62	strife, quarrel	troid
+19.62	strife, quarrel	clampar
+19.63	conspiracy, plot	comhchealg
+19.63	conspiracy, plot	uiscefaoithalamh
+19.63	conspiracy, plot	cogar
+19.65	meet	casar
+19.65	meet	do
+19.65	meet	le
+19.65	meet	buaille
+19.72	prostitute	meirdreach
+19.72	prostitute	striapach
+20.11	fight (vb)	troid
+20.11	fight (vb)	comhraic
+20.13	war, battle	cogadh
+20.13	war, battle	cath
+20.14	peace	síocháin
+20.15	army	arm
+20.15	army	slua
+20.17	soldier	saighdiúir
+20.21	weapons, arms	airm
+20.22	club	cleithailpín
+20.22	club	smachtín
+20.22	club	lorg
+20.222	battle-ax	tuachatha
+20.23	sling	cranntabhaill
+20.24	bow	bogha
+20.25	arrow	saighead
+20.26	spear	sleá
+20.27	sword	claíomh
+20.28	gun, cannon	gunna
+20.28	gun, cannon	gunnamór
+20.28	gun, cannon	canóin
+20.28	gun, cannon	píosaordánais
+20.31	armor (defensive)	cathéide
+20.31	armor (defensive)	culaithchatha
+20.33	helmet	clogad
+20.33	helmet	cafarr
+20.34	shield	sciath
+20.35	fortress	daingean
+20.35	fortress	dún
+20.36	tower	túr
+20.41	victory	bua
+20.41	victory	craobh
+20.41	victory	caithréim
+20.42	defeat	díomua
+20.42	defeat	briseadh
+20.42	defeat	maidhm
+20.42	defeat	turnamh
+20.43	attack	ionsaí
+20.43	attack	fóbair
+20.44	defend	cosain
+20.44	defend	díon
+20.45	retreat	cúlaigh
+20.46	surrender	géill
+20.47	captive, prisoner	príosúnach
+20.47	captive, prisoner	braighdeanach
+20.47	captive, prisoner	geimhleach
+20.47	captive, prisoner	cime
+20.471	guard, sentinel	fairtheoir
+20.471	guard, sentinel	garda
+20.48	booty, spoils	creach
+20.48	booty, spoils	éadáil
+20.49	ambush	luíochán
+20.49	ambush	oirchill
+20.51	fisherman	iascaire
+20.52	fishhook	duán
+20.53	fishing line	dorú
+20.54	fishnet	líon
+20.54	fishnet	eangach
+20.56	bait	baoite
+20.61	hunt	seilg
+20.61	hunt	fiach
+20.62	shoot	scaoil
+20.62	shoot	caith
+20.64	trap (noun)	sás
+20.64	trap (noun)	gaiste
+20.64	trap (noun)	paintéar
+20.65	trap (vb)	beirar
+20.65	trap (vb)	ceap
+20.65	trap (vb)	gabh
+21.11	law	dlí
+21.11	law	reacht
+21.15	court	cúirt
+21.16	judge (vb)	breith
+21.16	judge (vb)	breithiúntasathabhairt
+21.17	judgment	breithiúntas
+21.17	judgment	breith
+21.18	judge (noun)	breitheamh
+21.21	plaintiff	éilitheoir
+21.21	plaintiff	gearánaí
+21.21	plaintiff	agróir
+21.22	defendant	cosantóir
+21.22	defendant	cosnamhaí
+21.23	witness	finné
+21.24	swear	mionnaigh
+21.24	swear	móidigh
+21.25	oath	mionn
+21.31	accuse	cúisigh
+21.32	condemn	daoraigh
+21.32	condemn	teilg
+21.33	convict (vb)	daor
+21.33	convict (vb)	teilg
+21.34	acquit	saor
+21.34	acquit	éigiontaigh
+21.35	guilty	ciontach
+21.36	innocent	neamhchiontach
+21.37	penalty, punishment	pionós
+21.37	penalty, punishment	éiric
+21.37	penalty, punishment	smachtbhanna
+21.38	fine	fíneáil
+21.39	prison, jail	príosún
+21.39	prison, jail	carcair
+21.42	murder	dúnmharaigh
+21.43	adultery	adhaltranas
+21.44	rape	éigniú
+21.44	rape	banéigean
+21.46	arson	dómailíseach
+21.46	arson	coirloscadh
+21.47	perjury	éitheach
+21.47	perjury	mionn
+21.47	perjury	leabharéithighathabhairt
+21.47	perjury	fianaisebhréigeathabhairt
+21.51	steal	goid
+21.52	thief	gadaí
+21.52	thief	bradach

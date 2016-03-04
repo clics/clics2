@@ -1,0 +1,992 @@
+@classification: Carib,Northern,East-West Guiana,Waiwai
+@ids-name: Wai_Wai_Phonemic
+@iso: waw
+@language: Waiwai
+@size: 985
+@source: ids
+@variety: std
+1.1	world	roowo
+1.21	earth, land	roowo
+1.212	earth=ground, soil	roowo
+1.214	mud	aΦačakrɨ
+1.215	sand	ašawa
+1.22	mountain, hill	ɨɨΦɨ
+1.22	mountain, hill	matɨwɨn
+1.222	cliff, precipice	čawawa
+1.23	plain, field	woskara
+1.24	valley	akawan
+1.25	island	čiwya
+1.27	shore	ečhɨrɨ
+1.28	cave	ewtarɨ
+1.31	water	tuuna
+1.32	sea	tuunaymo
+1.322	calm (of sea)	tɨtΦe
+1.323	rough (of sea)	ɲewčokočokona
+1.324	foam	wakron
+1.329	ocean	tuunaymo
+1.33	lake	ɲikitho
+1.34	gulf, bay	yukuhya
+1.341	lagoon	yukuhya
+1.35	wave	ewčokočokon
+1.36	river, stream, brook	eeΦu
+1.36	river, stream, brook	tuunayeΦu
+1.37	spring, well	tuunaΦɨtho
+1.38	swamp	krarasɨ
+1.39	waterfall	kahši
+1.41	woods, forest	čomota
+1.42	tree (cf 08.600)	weewe
+1.43	wood	weewe
+1.44	stone, rock	tooΦu
+1.51	sky	kaaΦu
+1.52	sun	kaamo
+1.53	moon	nuuɲi
+1.54	star	šir̃ko
+1.55	lightning	ΦeΦekaɲe
+1.56	thunder	tarayi
+1.58	storm	očowo
+1.59	rainbow	kukawa
+1.61	light (noun)	weeyu
+1.61	light (noun)	katΦan
+1.62	darkness	awarΦan
+1.63	shade, shadow	ekatɨ
+1.64	dew	čičakɨ
+1.71	air	očowo
+1.72	wind	očowo
+1.73	cloud	kaaΦusmun
+1.74	fog	kaweresɨ
+1.75	rain (noun)	tuuna
+1.81	fire	wehto
+1.82	flame (noun)	wehto
+1.83	smoke (noun)	yɨsɨn
+1.84	ashes	wemronho
+1.84	ashes	wermonho
+1.841	embers	wehtororon
+1.851	burn (vb trans)	akɲiko
+1.852	burn (vb intrans)	ečakɨra
+1.86	light, kindle, ignite	yiriko
+1.861	extinguish	eyihkakɨ
+1.88	firewood	owehtorɨ
+1.89	charcoal	yihširorɨ
+2.1	person, human being	tooto
+2.21	man (vs. woman)	kɨɨrɨ
+2.22	woman	woošam
+2.23	male	kɨɨrɨ
+2.24	female	woosɨ
+2.25	boy	kɨɨrɨmren
+2.251	young man (adolescent)	kar̃Φamšan
+2.26	girl	emasɨ
+2.261	young woman (adolescent)	emasɨ
+2.27	child	rikomo
+2.28	infant, baby	rikomo
+2.31	husband	aaɲo
+2.32	wife	yiΦiči
+2.33	marry	etahsɨra
+2.34	marriage, wedding	etahsɨtoΦo
+2.341	divorce	etowtoΦo
+2.35	father	yɨɨm
+2.35	father	aamo
+2.36	mother	yɨson
+2.36	mother	noroyon
+2.37	parents	yɨɨmkomo
+2.38	married man	čihyem
+2.39	married woman	čiiɲoyem
+2.41	son	omumuru
+2.41	son	omrerɨ
+2.42	daughter	oyemsɨrɨ
+2.43	offspring (son or daughter)	omšɨkrɨ
+2.44	brother	oyakno
+2.44	brother	oyeΦeka
+2.45	sister	oyeΦeka
+2.45	sister	oyakno
+2.458	twins	asakno
+2.46	grandfather	∅Φorin
+2.461	old man	Φoritomo
+2.47	grandmother	yɨnoči
+2.471	old woman	nor̃wa
+2.48	grandson	∅Φarɨ
+2.49	granddaughter	∅Φarɨ
+2.511	mother's brother	otamru
+2.512	father's brother	yɨɨm
+2.521	mother's sister	yɨson
+2.522	father's sister	otamru
+2.55	cousin	oyakno
+2.56	ancestors	ΦorinΦenkomo
+2.57	descendants	keΦamthɨrɨ
+2.61	father-in-law (of a man)	otamru
+2.62	mother-in-law (of a man)	∅wayamnu
+2.63	son-in-law (of a man)	oΦamorɨ
+2.631	son-in-law (of a woman)	wayamnu
+2.71	stepfather	∅Φor̃mamnoɲe
+2.72	stepmother	∅Φor̃mamnoɲe
+2.73	stepson	yɨnΦor̃mamnorɨ
+2.74	stepdaughter	yɨnΦor̃mamnorɨ
+2.75	orphan	yɨmɨ∅hnɨ
+2.76	widow	iiɲomnɨ
+2.77	widower	yiΦi∅hnɨ
+2.81	relatives, kinsmen	oyanankomo
+2.91	I	owɨ
+2.92	you (singular)	amoro
+2.93	he/she/it	noro
+2.93	he/she/it	noro
+2.93	he/she/it	ero
+2.941	we (inclusive)	kɨɨwɨ
+2.941	we (inclusive)	kɨwyam
+2.942	we (exclusive)	amna
+2.95	you (plural)	amyamro
+2.96	they	mošam
+2.96	they	ɲešamro
+3.11	animal	oyoku∅
+3.12	male (adj)	kɨɨrɨ
+3.13	female (adj)	woosɨ
+3.15	livestock	oyoku∅
+3.21	bull	kɨɨrɨ
+3.23	cow	woosɨ
+3.24	calf	šɨkrɨ
+3.25	sheep	oΦer̃a
+3.25	sheep	kahɲeru
+3.26	ram	oΦer̃a
+3.26	ram	kahɲerukɨɨrɨ
+3.28	ewe	oΦer̃a
+3.28	ewe	kahɲeruwoosɨ
+3.29	lamb	oΦer̃a
+3.29	lamb	kahɲerušɨkrɨ
+3.32	boar	kɨɨrɨ
+3.34	sow	woosɨ
+3.35	pig	šɨkrɨ
+3.36	goat	kooso
+3.37	he-goat	koosokɨɨrɨ
+3.38	kid	koosošɨkrɨ
+3.42	stallion	kɨɨrɨ
+3.44	mare	woosɨ
+3.45	foal, colt	šɨkrɨ
+3.46	ass, donkey	kmuhu
+3.52	cock, rooster	kaΦikarakɨɨrɨ
+3.54	hen	kaΦikarawoosɨ
+3.55	chicken	kaΦikara
+3.57	duck	yuruma
+3.58	nest	akowerɨ
+3.581	bird	torowo
+3.583	heron	onowa
+3.585	hawk	wikoko
+3.591	bat	rere
+3.594	dove	Φotkuku
+3.61	dog	šaΦari
+3.62	cat	kamarači
+3.622	opossum	yawari
+3.63	mouse, rat	mukuku
+3.63	mouse, rat	čawa
+3.65	fish	ootɨ
+3.652	fin (dorsal)	katɨhΦoči
+3.653	fishscale	yɨΦɨΦɨthɨrɨ
+3.664	stingray	šΦari
+3.665	freshwater eel	kašmi
+3.72	lion	reyaw
+3.72	lion	kamaraymo
+3.74	fox	rokohči
+3.75	deer	kooso
+3.75	deer	Φiškaru
+3.811	louse	oyomo
+3.813	flea	kuΦama
+3.813	flea	sɨɨko
+3.814	centipede	maΦeΦe
+3.815	scorpion	čikiri
+3.816	cockroach	mahčaru
+3.818	spider	moyosɨ
+3.819	spider web	moyoskoto
+3.82	bee	weenu
+3.822	beehive	weenumɨn
+3.823	wasp	okomo
+3.83	fly	werewere
+3.831	sandfly (midge), gnat	mɨrɨwɨtɨ
+3.831	sandfly (midge), gnat	Φehwo
+3.832	mosquito	masakɨ
+3.84	worm	kar̃wa
+3.85	snake	okoyi
+3.91	firefly	ΦeΦeyuru
+3.92	butterfly	tamatama
+3.93	grasshopper	makaka
+3.94	snail	Φooto
+3.95	frog	pororɨ
+3.95	frog	kuuto
+3.96	lizard	šukurwa
+3.96	lizard	kwaana
+3.97	crocodile, alligator	watwa
+3.98	turtle	kwači
+3.98	turtle	wayam
+4.11	body	yuΦun
+4.12	skin, hide	ohčɨΦɨrɨ
+4.12	skin, hide	Φičho
+4.13	flesh	yuΦun
+4.14	hair (head)	ohΦoči
+4.142	beard	∅etΦoči
+4.15	blood	kamšuku
+4.16	bone	oyočho∅
+4.17	horn	∅meretɨrɨ
+4.18	tail	∅matkɨrɨ
+4.19	back	∅maširɨ
+4.191	spine	∅katΦɨrɨ
+4.2	head	ohtɨΦɨrɨ
+4.203	brain	yɨhtɨΦɨrɨyarɨrɨ
+4.204	face	∅eeΦatarɨ
+4.205	forehead	∅Φerɨ
+4.207	jaw	iyohyarɨ
+4.208	cheek	∅eeΦatarɨ
+4.209	chin	iyohyarɨ
+4.21	eye	oyewru
+4.212	eyebrow	∅eΦiširorɨ
+4.213	eyelid	∅ewruΦičho
+4.214	eyelash	oyewkΦoči
+4.215	blink	kewkΦenasɨ
+4.22	ear	oΦanarɨ
+4.23	nose	oyewnarɨ
+4.232	mucus (nasal)	ewnašku
+4.24	mouth	omtarɨ
+4.241	beak	∅Φoturu
+4.25	lip	omtarɨΦičho
+4.26	tongue	∅ɲuru
+4.27	tooth	oyorɨ
+4.271	gums	oyorɨΦičho
+4.28	neck	oΦɨmɨrɨ
+4.29	throat	∅eeše∅
+4.3	shoulder	omotarɨ
+4.31	arm	∅aΦorɨ
+4.312	armpit	oyeyatarɨ
+4.32	elbow	oyaΦoresɨrɨ
+4.321	wrist	oyemeknu∅
+4.33	hand	oyamorɨ
+4.331	palm of hand	oyamoyeretarɨ
+4.34	finger	oyamoyaran
+4.342	thumb	oyamorɨyemhɨtho
+4.344	fingernail	oyamošošon
+4.345	claw	∅amošošon
+4.351	thigh	oΦetɨ∅
+4.352	calf of leg	ohreΦu∅
+4.36	knee	oyosokmru
+4.37	foot	ohtarɨ
+4.371	ankle	ohraknu
+4.372	heel	ohraknu
+4.374	footprint	owenatho
+4.38	toe	ohrorɨ
+4.392	wing	∅aΦorɨ
+4.393	feather	yɨhΦoči
+4.4	chest	oyewan
+4.41	breast (of woman)	∅manatɨrɨ
+4.42	udder	∅manatɨrɨ
+4.43	navel	oΦoɲuru
+4.44	heart	čoro
+4.441	lung	soso
+4.45	liver	oyererɨ
+4.451	kidney	oΦar̃kakan
+4.46	stomach	owetho∅
+4.461	intestines, guts	∅weškiririn
+4.462	waist	∅wečikrɨ
+4.49	testicle	∅emru
+4.492	penis	∅Φɨtɨn
+4.51	breathe, breath	oyaΦeΦen
+4.52	yawn, gape	emčaΦɨra
+4.521	hiccough	kɨčokonasɨ
+4.53	cough	oyaton
+4.54	sneeze	ačimra
+4.55	perspire	kΦeramkwasɨ
+4.56	spit	kučΦikasko
+4.57	vomit	wenarɨ
+4.58	bite	eskakɨ
+4.59	lick	smesmekasko
+4.591	dribble	nɨmtawakronwa
+4.61	sleep	yɨwɨnkɨra
+4.612	snore	kororonɨɨka
+4.62	dream	owosotowenwo
+4.63	wake up	kΦaka∅
+4.65	urinate	kušukwasɨ
+4.66	defecate	wekesɨ
+4.67	have sexual intercourse	yukukmara
+4.68	shiver	kɨtatanasɨ
+4.69	bathe	keyeΦu∅
+4.71	beget (of father)	tɨmšɨkrɨɲiire
+4.72	born (to be)	ɲewru∅
+4.73	pregnant	tarke
+4.732	conceive	etahsɨra
+4.74	live, living, life	wayΦɨra
+4.75	die, dead	twayhso
+4.751	drowned	eserinatkara
+4.76	kill	∅wayhkakɨ
+4.77	corpse	okoΦutho
+4.78	bury (the dead)	∅ahruko
+4.79	grave, tomb	iyočhoyewtarɨ
+4.81	strong, mighty, powerful	kar̃Φe
+4.82	weak	kar̃Φera
+4.83	well, health	kar̃Φe
+4.84	sick, sickness	namotoya∅
+4.841	fever	očoro
+4.843	cold (catarrh)	ewnašku
+4.85	wound, sore	ɲerewa∅
+4.852	bruise	wɨhma∅
+4.853	swelling	tuΦurukye
+4.854	itch	oskɨskɨmesɨ
+4.855	blister	kamošokwenta∅
+4.856	boil (noun)	erekɨ
+4.857	pus	nɨkmorwa∅
+4.858	scar	iyothɨrɨ
+4.86	cure, heal	ɲičihyasɨ
+4.87	physician	kehčemaɲe
+4.88	medicine, drug	ehči
+4.89	poison	kmasmačho
+4.91	tired, weary	kekar̃ka∅
+4.92	lazy	kuwuɲwasɨ
+4.93	bald	yɨhΦora
+4.94	lame	yɨhreΦura
+4.95	deaf	Φanahra
+4.96	mute	yɨmtaΦotan
+4.97	blind	ewuhra
+4.98	intoxicated	∅wenasɨ
+4.99	naked, bare	Φonomra
+5.11	eat	tonohra
+5.11	eat	aΦuhra
+5.12	food	erewsɨ
+5.121	cooked	ečorɨra
+5.122	raw	ečorɨra
+5.124	green, unripe	yuΦuyme
+5.125	rotten	tmataši
+5.13	drink	erɨhra
+5.14	hunger	rooma
+5.141	famine	rooma
+5.15	thirst	owokrušewasɨ
+5.18	chew	amčikɨra
+5.19	choke	kemɨrΦo
+5.22	boil (vb)	tɨyohra
+5.23	roast, fry	yuΦurura
+5.24	bake	ayko
+5.26	pot, cooking vessel	tahrem
+5.28	pan	er̃Φoči
+5.32	plate	paayu
+5.33	bowl	tutum
+5.34	pitcher, jug	weer̃a
+5.35	cup, drinking vessel	Φarakwe
+5.37	spoon	waraΦaΦoturu
+5.38	knife	mariya
+5.39	fork	Φaratawaray
+5.46	peel	yɨhčɨΦɨrɨ
+5.47	sieve, strain	manari
+5.47	sieve, strain	tuuwa
+5.48	scrape	kwerekwerekasko
+5.49	stir, mix	yukumtoko
+5.51	bread	čuure
+5.55	meal, flour	kwašarɨ
+5.56	crush, grind	akihko
+5.57	mill	akihtoΦo
+5.58	mortar	aaku
+5.59	pestle	akɲiyo
+5.61	meat	oyotɨ∅
+5.64	soup, broth	kašara
+5.65	vegetables	onahrɨ
+5.66	bean	kumasa
+5.71	fruit	onahrɨ
+5.712	bunch	yɨΦɨmɨrɨ
+5.79	oil	katɨ
+5.791	grease, fat	katɨ
+5.81	salt	yɨmɨtɨ
+5.82	pepper	asɨsɨ
+5.84	honey	weenu
+5.86	milk (noun)	mownu
+5.87	milk (vb)	ewkukara
+5.9	beverage, drink	wooku
+5.93	beer	Φučukwa
+5.94	fermented drink	kawašiyem
+5.97	egg	yuhme
+6.11	put on (clothes)	amrura
+6.12	clothing, clothes	Φoono
+6.21	cloth	Φoono
+6.24	cotton	mawrɨ
+6.29	leather	Φičho
+6.31	spin	ekΦosɨra
+6.32	spindle	ΦoΦoku
+6.33	weave	kaΦuhra
+6.35	sew	atΦora
+6.37	awl	kuwikuwi
+6.38	thread	mawɨrka
+6.39	dye	yučurera
+6.44	shirt	awrutawnoΦoono
+6.46	skirt	saaya
+6.49	stocking, sock	kɨhtarɨwom
+6.51	shoe	kɨhtarɨ
+6.52	boot	kɨhtarɨ
+6.55	hat, cap	šaΦika
+6.57	belt, girdle	aaɲaΦotu
+6.62	button	Φoonoyewru
+6.63	pin	sum
+6.71	ornament, adornment	Φoroku
+6.73	ring (for finger)	oyamoyeknarɨ
+6.74	bracelet	emekna
+6.75	necklace	owarɨ
+6.76	bead	kɨričiči
+6.77	earring	Φanatarɨ
+6.78	headband, headdress	aroko
+6.81	handkerchief, rag	Φoonotho
+6.82	towel	koosowetho
+6.91	comb	wayamakasɨ
+6.93	razor	kuɲimiši
+6.95	soap	sakmo
+6.96	mirror	kanaΦa
+7.11	dwell, live	Φono
+7.12	house	mɨɨmo
+7.13	hut	mɨɨmo
+7.14	tent	roona
+7.15	yard, court	roro
+7.17	cookhouse	etaΦičkatoΦo
+7.18	meeting house	kesenmetoΦo
+7.21	room	amtakΦo
+7.22	door, gate	metata
+7.221	doorpost, jamb	metatayečeΦu
+7.23	lock (noun)	ewkačho
+7.24	key	ewkačho
+7.25	window	ewkanaΦa
+7.26	floor	kurara
+7.27	wall	waača
+7.32	stove	wehtoyen
+7.33	chimney	yɨsɨnyeΦatakačho
+7.37	ladder	ehyu
+7.42	bed	kuywa
+7.422	blanket	aam
+7.43	chair	aaΦo
+7.44	table	aaΦo
+7.45	lamp, torch	ramha
+7.47	shelf	aaΦo
+7.51	roof	mɨɨmo
+7.52	thatch	mɨɨmoΦoči
+7.53	ridgepole	yɨretɨrɨ
+7.54	rafter	kamru
+7.55	beam	makwanan
+7.56	post, pole	mapata
+7.57	board	sahsamašaΦu
+7.62	brick	kawauamnonošaΦu
+7.64	adobe	kawauamnonošaΦu
+8.12	field (for cultivation)	mararɨ
+8.13	garden	naatɨ
+8.15	cultivate, till	∅Φoome∅
+8.16	fence	waača
+8.21	plow	ΦomotoΦo
+8.22	dig	ahtoko
+8.23	spade	čaaraΦa
+8.24	shovel	čaaraΦa
+8.25	hoe	Φururi
+8.31	sow	čirko
+8.311	seed	yathɨrɨ
+8.41	crop, harvest	eΦerɨrɨyenmetoΦo
+8.43	wheat	Φuruma
+8.47	maize, corn	nasɨnasɨ
+8.48	rice	rayši
+8.51	grass	čuuΦu
+8.531	plant (vb)	čirko
+8.54	root	yimičin
+8.55	branch	∅Φeremru
+8.56	leaf	∅yaarɨ
+8.57	flower	∅eΦermutun
+8.6	tree	weewe
+8.67	vine	yatɨ
+8.68	tobacco	kamahšu
+8.69	smoke (tobacco)	kamahšuɲesunukyasɨ
+8.72	tree stump	weewemɨtɨ
+8.73	tree trunk	weeweyeΦu∅
+8.74	forked branch	∅eknarɨ
+8.75	bark	weeweΦičho
+8.76	sap	weeweyehkuru
+8.81	palm tree	kuumwaray
+8.84	banana tree	tušmayeΦu∅
+8.91	sweet potato	Φaari
+8.912	yam	naaΦi
+8.92	tapioca, manioc, cassava	šeere
+8.92	tapioca, manioc, cassava	saraΦu
+8.93	gourd	tutum
+8.94	bamboo	raaΦu
+8.94	bamboo	šaari
+8.941	sugar cane	Φaranči
+8.98	mushroom	ašΦi
+9.11	do, make	ka
+9.11	do, make	kas
+9.11	do, make	kasko
+9.12	work	etaΦičkara
+9.14	bend	wananΦɨra
+9.15	fold	aramara
+9.16	tie, bind	wimiu
+9.161	untie	wɨmhoka∅
+9.18	chain	kanawamičiwaray
+9.19	rope, cord	ruuΦu
+9.21	strike (hit, beat)	wetaΦa∅
+9.211	pound with fist	wetaΦaoyamorɨke
+9.22	cut	wɨhkoto∅
+9.221	cut down	waama∅
+9.222	chop, hew	waama∅
+9.223	stab	∅Φaraška∅
+9.23	knife	mariya
+9.24	scissors, shears	čarata
+9.25	ax	yawaka
+9.26	break	wasikwo∅
+9.261	broken	tašikwoso
+9.27	split	wɨraka∅
+9.28	tear	wahšayka∅
+9.29	flay, skin	wiΦika∅
+9.31	rub, wipe	sekesekekasko
+9.32	stretch	wehyatka∅
+9.33	pull	wihšikɨ∅
+9.34	spread out	wakΦaΦu∅
+9.341	hang up	wamΦosoto∅
+9.342	press	watmunko
+9.343	squeeze, wring	watmunko
+9.35	pour	warka∅
+9.36	wash	∅koroka∅
+9.37	sweep	waywa∅
+9.38	broom	wačmiyku
+9.44	build	wakɨhto∅
+9.46	bore	∅Φotokoma∅
+9.461	hollow out	wakoroka∅
+9.48	saw	sahsa
+9.49	hammer	aama
+9.5	nail	ΦotuΦoturi
+9.56	glue	čehkukem
+9.72	mold (clay etc)	∅kaaΦu∅
+9.73	clay	er̃mo
+9.75	weave, plait	∅kaaΦu∅
+9.79	fan (noun)	wayaΦamsɨ
+9.791	fan (vb)	wayΦo∅
+9.81	carve	wenΦorɨw
+9.88	paint (noun)	yɨsΦomačho
+9.89	paint (vb)	wɨsΦoma∅
+10.11	move	etakakɨ
+10.12	turn over	aknamakɨ
+10.13	turn around	aknamakɨ
+10.14	wind, wrap	armomiko
+10.15	roll	yɨhmamakɨ
+10.16	drop (vb)	ar̃mara
+10.17	twist	ekmakɨ
+10.21	rise	awomko
+10.22	raise, lift	anɨmko
+10.23	fall	eΦɨrkara
+10.24	drip	nɨkrokwa
+10.25	throw	ar̃makɨ
+10.26	shake	enɨhmakɨ
+10.32	flow	nɨhčesɨ
+10.33	sink	emɨčko
+10.34	float	ΦuruΦuruΦenasɨ
+10.35	swim	Φerenasɨ
+10.37	fly (vb)	arimra
+10.38	blow	Φuukasko
+10.412	kneel	kosokmuruΦočeremačerɨ
+10.42	slide, slip	sehreremɨɨkesɨ
+10.43	jump, leap	ahromko
+10.431	kick	ahtarɨkeetaΦakɨ
+10.44	dance	mamra
+10.45	walk	etar̃ko
+10.46	run	emahčiko
+10.47	go	etoko
+10.471	go up	awnuko
+10.472	climb	kayinasɨ
+10.473	go down	enɨhtoko
+10.474	go out	keΦataka∅
+10.48	come	kmok∅
+10.481	come back	∅mokohara
+10.49	go away, depart	etoko
+10.491	disappear	ɲesenΦonka∅
+10.51	flee	emahčiko
+10.52	follow	norowenarietoko
+10.53	pursue	noroyahsɨsoetoko
+10.56	approach	meyehratomo
+10.57	enter	ewomko
+10.61	carry (bear)	arko
+10.62	bring	ekɨhra
+10.63	send	arΦoko
+10.64	lead (vb)	waar̃asɨ
+10.65	drive	waar̃asɨ
+10.66	ride	yɨmkawkɨwčesɨ
+10.67	push, shove	maškakɨ
+10.71	road	tararayesamarɨ
+10.72	path	esama
+10.74	bridge	ehyu
+10.75	carriage, wagon, cart	tarara
+10.76	wheel	yɨhtarɨ
+10.78	yoke	yɨΦɨmtawno
+10.83	boat	kanawa
+10.831	canoe	kanawa
+10.85	oar	wayaΦu
+10.851	paddle (noun)	wayaΦu
+10.852	row (vb)	kweykweykasko
+10.86	rudder	makor̃mačho
+10.91	harbor, port	nakwa
+10.92	land (vb)	awomko
+11.13	take	ahsɨko
+11.17	keep, retain	ahsɨΦɨnkara
+11.21	give	tɨmko
+11.22	give back	yɨramanko
+11.24	preserve, look after	yukurunΦeko
+11.28	harm, injure, damage	nɨwɨrɨma
+11.31	seek, look for	ɲeΦorɨ∅
+11.32	find	ɲenwo
+11.34	release, let go	ahsɨΦɨnkakɨ
+11.43	money	Φuranta
+11.44	coin	ešeΦeyu
+11.51	rich	tuΦurantay
+11.52	poor	yuΦurantamra
+11.53	beggar	ehsamara
+11.54	avaricious, stingy	namena
+11.63	owe	weΦethɨka
+11.65	pay (vb)	weΦema∅
+11.69	tax, tribute	kayaritomoΦurantan
+11.78	wages	oyetaΦičkatamči
+11.83	trade, barter	kwarawanta
+11.85	market (place)	kwarawantačho
+11.87	price	∅eΦethɨrɨ
+11.88	dear (costly, expensive)	čeΦethɨke
+11.89	cheap	eΦethɨmra
+12.1	after	eromahyaka
+12.11	place	yɨmkay
+12.2	beside	yɨmɨtwo
+12.3	down, below	rooΦoreɲhe
+12.4	before	hnaw
+12.41	right (side)	∅Φoturu
+12.5	inside, in	eroyaw
+12.6	outside	eroyawhra
+12.7	under	eromakataw
+12.8	up, above	kahsɨenko
+12.8	up, above	eΦoyi
+12.11	place	kanawathoto
+12.12	put	iinačirko
+12.13	sit	eremakɨ
+12.14	lie down	etɨraΦoko
+12.15	stand	Φiiriawomko
+12.16	remain, stay	ečečetoko
+12.21	collect, gather	enmekɨra
+12.212	pick up	amekɨra
+12.213	pile up	enmekɨra
+12.22	join, unite	asɨsɨknoko
+12.23	separate	akΦakɨ
+12.232	divide	wɨračonkesɨ
+12.24	open	ahrunkakɨ
+12.25	shut, close	ahruko
+12.26	cover	ahruko
+12.27	hide, conceal	eyamko
+12.31	high	kaw
+12.32	low	rooΦore
+12.33	top	yɨhtɨΦɨrɨ
+12.34	bottom	maΦirɨ
+12.35	end	maΦirɨ
+12.352	pointed	tΦotke
+12.353	edge	eɲetɨ
+12.36	side	awči
+12.37	middle, center	rakataw
+12.41	right (side)	kar̃me
+12.42	left (side)	Φowame
+12.43	near (adv)	meyehra
+12.44	far (adv)	meye
+12.44	far (adv)	mooše
+12.45	east	kaamoyeΦatakačho
+12.46	west	kaamoyemičitoΦo
+12.47	north	nohči
+12.48	south	suuru
+12.53	grow	∅Φor̃mam∅
+12.54	measure	yukuknomačo
+12.55	large, big	Φorinme
+12.55	large, big	Φorin
+12.56	small, little	wahra
+12.56	small, little	wahray
+12.57	long	kaw
+12.57	long	ehyatkaw
+12.58	tall	kaw
+12.59	short	kawra
+12.61	wide, broad	tamtake
+12.62	narrow	akwera
+12.63	thick (in dimension)	yahčome
+12.65	thin (in dimension)	panape
+12.67	deep	weyunme
+12.68	shallow	panape
+12.71	flat	tpapakye
+12.73	straight	pataw
+12.73	straight	čečepe
+12.76	corner	eknu
+12.77	cross	tpanaškem
+12.81	round	tamnoɲe
+12.83	sphere, ball	emtho
+12.85	hole	ewtarɨ
+12.92	like, similar	wa
+12.93	change	anarmečirko
+13.1	one	čewɲe
+13.107	count	yukuknomakɨ
+13.14	every, all	ahnoro
+13.15	much, many	mer̃Φora
+13.16	more	ɲhe
+13.17	little (quantity), few	asakɨmakɨ
+13.18	enough	ɲeeši
+13.19	multitude, crowd	mer̃ΦonoΦɨntooto
+13.21	full	čoΦoyi
+13.22	empty	yarɨhra
+13.23	part, piece	yɨračonhɨrɨ
+13.33	alone, only	čewɲemakɨ
+13.34	first	yihčirɨ
+13.35	last	maΦitaw
+13.36	second	ɨnhɨrɨ
+13.37	pair	asakɨ
+13.38	two times	asakɨro
+13.42	third	ɨnhɨrɨ
+13.44	three times	osorwawro
+14.12	age	ewrutoΦonhɨrɨ
+14.13	new	yašan
+14.14	young	kɨɨrɨmren
+14.16	early	Φahšašaro
+14.17	late	kokoɲi
+14.18	now	oroto
+14.19	immediately	orotorma
+14.21	swift, fast, quick	yohno
+14.22	slow	yamoro
+14.23	hasten, hurry	yohno
+14.24	retard, delay	ečmamra
+14.25	begin, beginning	yihčirɨme
+14.252	last, endure	yɨnɨmko
+14.26	end (temporal)	ɲeeši
+14.27	finish	tɨhka
+14.28	cease, stop	kɨtɨtmam∅
+14.31	always	iimeroro
+14.32	often	emaΦona
+14.33	sometimes	amɲešaso
+14.331	soon	yohno
+14.332	long-time (for a)	Φahkɨ
+14.34	never	romakɨ
+14.35	again	šahara
+14.41	day	enmarɨ
+14.42	night	kosope
+14.43	dawn	enmarɨ
+14.44	morning	Φahšašaro
+14.45	noon, midday	kamarakataw
+14.451	afternoon	wowkaši
+14.46	evening	kokoɲi
+14.47	today	oroto
+14.48	tomorrow	Φahšaša
+14.481	day-after-tomorrow	mɨkhamehšanΦo
+14.49	yesterday	kokoɲoro
+14.53	clock, timepiece	kaamokuknon
+14.61	week	čewɲe
+14.71	month	nuuɲi
+14.73	year	čimɲiΦu
+14.78	season	toΦo
+14.78	season	čhome
+15.21	smell (vb intrans)	∅kotowasɨ
+15.212	sniff	wesunku∅
+15.25	fragrant, good smelling	tΦošwe
+15.26	stinking, bad smelling	∅kotowasɨ
+15.35	sweet	tɨkΦore
+15.36	salty	yɨmɨtɨkeɲe
+15.37	bitter	čɨmɨkɨ
+15.38	acid, sour	kawawaΦe
+15.41	hear	wenta∅
+15.42	listen	wenta∅
+15.45	loud	kΦanaΦičke∅
+15.46	quiet, silence	tɨtkeɲe
+15.51	see	enɨhra
+15.52	look, look at	enko
+15.55	show	enΦoko
+15.56	shine	weyΦoko
+15.57	bright	kewkaranΦe∅
+15.64	white	tumutwe
+15.65	black	čičwiye
+15.66	red	čučure
+15.67	blue	tɨsway
+15.68	green	tuškukuyure
+15.69	yellow	tɨšeweke
+15.71	touch	aΦeko
+15.712	pinch	yɨΦɨtɨkara
+15.74	hard	čeyΦu
+15.75	soft	čukmaΦe
+15.76	rough	tuturuy
+15.77	smooth	tmemese
+15.78	sharp	tΦotke
+15.81	heavy	nawsɨnasɨ
+15.82	light (in weight)	taΦonukye
+15.83	wet, damp	tukre
+15.84	dry	turΦe
+15.85	hot	očoro
+15.86	cold	twotme
+15.87	clean	yusmumra
+15.88	dirty, soiled	tusmuy
+16.11	soul, spirit	ekatɨ
+16.15	surprised, astonished	oyekatka
+16.18	good fortune, luck	čekaymore
+16.19	misfortune, bad luck	ekaymora
+16.23	joyful, glad, happy	tahwore
+16.23	joyful, glad, happy	tawake
+16.25	laugh	ewrera
+16.26	play	esemaɲiΦɨra
+16.27	love	yiišewasɨ
+16.29	kiss	wewčokesɨ
+16.3	embrace	yɨΦɨmɨmiko
+16.31	pain	erewra
+16.32	grief, sorrow, sadness	ahwora
+16.33	anxiety, worry	Φonaro
+16.34	regret, be sorry	kičičmeweeši
+16.35	pity	aΦɨnɨnyawwasɨ
+16.37	cry, weep	yɨwratara
+16.38	tear (noun)	∅ewyokrɨ
+16.39	groan	čemkutuɲe
+16.41	hate	yiišeraromaknasɨ
+16.42	anger	nɨrwonasɨ
+16.44	envy, jealousy	yikinɨmra
+16.45	shame (noun)	yɨhyaΦamra
+16.48	proud	ehčoyoΦonkara
+16.51	dare	yukurunkakɨ
+16.52	brave	erasɨn
+16.54	danger	rɨyaro
+16.62	desire, want	yiišew∅asɨ
+16.622	choose	meɲekakɨ
+16.65	faithful	esemɨknon
+16.66	true	yaaro
+16.67	lie, tell lies	∅čemaronwa∅
+16.68	deceit	kɨčemaron
+16.69	forgive	wɨhčamnoyasɨ
+16.71	good	kir̃waɲhe
+16.72	bad	kičičme
+16.73	right, correct	takɨhso
+16.74	wrong	akΦɨra
+16.78	blame	aΦonawiir̃asɨ
+16.81	beautiful	čenΦorem
+16.82	ugly	eeΦataΦora
+16.84	clever	yaana
+17.11	mind	kesehtɨnotoΦo
+17.14	think (= be of the opinion)	wɨhtɨnoyasɨ
+17.15	believe	owewetko
+17.16	understand	entara
+17.17	know	weeɲasɨ
+17.171	guess	wɨɨkesɨmakɨ
+17.172	imitate	yukukmakɨ
+17.18	seem	erowaranasɨ
+17.21	wise	takɨhsoyɨhtɨnoɲe
+17.22	foolish, stupid	akΦɨrayɨhtɨnoɲe
+17.23	insane, crazy	nɨmtawaymamya
+17.24	learn	kehčamhokesɨ
+17.26	pupil	yɨnΦanatanmekrɨ
+17.27	teacher	oΦanatanmekɲe
+17.28	school	ΦanatanmeknoritoΦo
+17.31	remember	yɨhčamnoΦɨraesko
+17.32	forget	wɨhčamnoΦu
+17.34	clear, plain	saranɨɨkaowya
+17.35	obscure	wentaΦorma
+17.36	secret	eɲeΦameɲiir̃a
+17.37	sure, certain	kmokyasɨwaha
+17.38	explain	ke
+17.41	intention, purpose	wa
+17.42	cause	re
+17.43	doubt	kanwekyasɨ
+17.45	need, necessity	yiišethakwawasi
+17.46	easy	aΦehčeme
+17.47	difficult	čehɲašiwiire
+17.48	try, attempt	wukukmesɨmakɨ
+17.49	way, manner	erowakasko
+17.51	and	marha
+17.52	because	erowaraeširɨke
+17.53	if	tanawešitaw
+17.54	or	katɨ
+17.55	yes, affirmative	nhnk
+17.56	no, negative	Φɨra
+17.61	how?	ahčewa
+17.62	how many?	atararo
+17.63	how much?	atɨwičakɨ
+17.64	what?	ahče
+17.65	when?	ahčemaw
+17.66	where?	ahto
+17.67	which?	atɨ
+17.67	which?	ahtono
+17.68	who?	onoke
+17.69	why?	ahčekačho
+18.11	voice	oyeše
+18.12	sing	ewanomakɨ
+18.13	shout, cry out	emtarakakɨ
+18.15	whisper	ehturakasko
+18.17	whistle	kokokokasko
+18.18	shriek, screech	emtarakakɨ
+18.19	howl	wawkaɲe
+18.21	speak, talk	amtaΦotakɨ
+18.22	say	kasko
+18.23	silent (be)	atɨtmamko
+18.24	language	yɨmtaΦotarɨkomo
+18.26	word	yɨmtaΦotačho
+18.28	name	oyosotɨ
+18.31	ask (question, inquire)	noroentakɨ
+18.32	answer	eyuhko
+18.33	admit, confess	ekatɨmko
+18.34	deny	anweko
+18.35	ask, request	waΦonukyasɨ
+18.37	refuse	anweko
+18.39	rebuke, scold	eyko
+18.41	call (=summon)	aɲihko
+18.42	call (=name)	osohtoko
+18.45	boast	ehčoyoΦonkara
+18.51	write	mewreko
+18.52	read	enko
+18.57	pen	mewretoΦo
+18.71	flute	raatɨ
+18.72	drum	samaΦora
+18.73	horn, trumpet	raatɨ
+18.74	rattle	maraka
+19.15	city, town	ewtoymo
+19.16	village	ewto
+19.17	boundary	wokΦa
+19.21	people (populace)	tooto
+19.23	tribe, clan	oΦoyino
+19.24	chief, chieftain	kayaritomo
+19.25	staff, walking stick	amoyi
+19.31	rule, govern	kantomaɲe
+19.37	citizen, subject	maywen
+19.41	master	kantomaɲe
+19.43	servant	oyanton
+19.45	command, order	antomakɨ
+19.46	obey	ewetko
+19.51	friend, companion	oyakrono
+19.52	enemy	oošatɨΦɨn
+19.54	neighbor	omɨtwono
+19.55	stranger	oɲenɨthoΦɨn
+19.56	guest	onaɲikɨtho
+19.57	host	wokmɨtɨn
+19.58	help, aid	owakronomakɨ
+19.62	strife, quarrel	etΦokonaše
+19.63	conspiracy, plot	ɲesenčeše
+19.65	meet	ɲesenmekyaše
+19.72	prostitute	tweenoΦɨn
+20.11	fight (vb)	etar̃mara
+20.13	war, battle	etar̃matoΦo
+20.14	peace	etar̃mara
+20.15	army	komo
+20.21	weapons, arms	okurun
+20.22	club	watma
+20.23	sling	tooΦuyar̃mačho
+20.24	bow	kraΦa
+20.25	arrow	waywɨ
+20.26	spear	raaΦu
+20.27	sword	kačiΦaraymo
+20.28	gun, cannon	arakaΦusa
+20.33	helmet	šaΦika
+20.34	shield	kečeɲan
+20.35	fortress	waača
+20.43	attack	yuuyuukačho
+20.44	defend	owyukurunΦeko
+20.45	retreat	ɲemahčičow
+20.49	ambush	waΦantawnaše
+20.51	fisherman	ootɨyanɨmɲe
+20.52	fishhook	kiiwi
+20.53	fishing line	šaΦoΦo
+20.54	fishnet	mɨɨye
+20.55	fish trap	kamina
+20.55	fish trap	šiika
+20.56	bait	karaΦa
+20.61	hunt	kesetakesɨ
+20.62	shoot	wɨtwo
+20.63	miss (target)	Φohčiw
+20.64	trap (noun)	emčinotoΦo
+20.65	trap (vb)	wemčinoyasɨ
+21.11	law	kΦanatanmetoΦo
+21.16	judge (vb)	weɲekesɨ
+21.18	judge (noun)	eɲekanoriɲe
+21.23	witness	enɨɲenhɨrɨ
+21.31	accuse	eɲekakɨ
+21.36	innocent	kičičmeešihnɨ
+21.37	penalty, punishment	eΦantoΦo
+21.39	prison, jail	kahrutoΦo
+21.42	murder	waΦahtotoΦo
+21.44	rape	naaši
+21.47	perjury	čemaro
+21.51	steal	ɲeɲeΦana
+21.52	thief	čeɲeΦaɲem

@@ -1,0 +1,959 @@
+ID,Language_ID,Feature_ID,IDS_Key,Value,Concept,IPA_UDECODE
+clics-doculect-97-1,yuwa1244-std,concepticon-965,1.1,ʰkʸo,world,kkyo
+clics-doculect-97-2,yuwa1244-std,concepticon-626,1.21,ʰkʸo,"earth, land",kkyo
+clics-doculect-97-3,yuwa1244-std,concepticon-1228,1.212,ʰlẽi,"earth=ground, soil",klei
+clics-doculect-97-4,yuwa1244-std,concepticon-2,1.213,ʰlẽi,dust,klei
+clics-doculect-97-5,yuwa1244-std,concepticon-640,1.214,ʰleʰte,mud,klekte
+clics-doculect-97-6,yuwa1244-std,concepticon-671,1.215,ʰkabaʰyu,sand,kkabakyu
+clics-doculect-97-7,yuwa1244-std,concepticon-2118,1.22,ilẽwã,"mountain, hill",ilewa
+clics-doculect-97-8,yuwa1244-std,concepticon-652,1.23,bẽi,"plain, field",bei
+clics-doculect-97-9,yuwa1244-std,concepticon-921,1.24,ilẽwãʰkɨke,valley,ilewakkike
+clics-doculect-97-10,yuwa1244-std,concepticon-622,1.25,hetoʰwɨkalatelã,island,hetokwikalatela
+clics-doculect-97-11,yuwa1244-std,concepticon-113,1.27,hetoaʰkulẽ,shore,hetoakkule
+clics-doculect-97-12,yuwa1244-std,concepticon-1155,1.28,ilẽwãʰlaikɨ,cave,ilewaklaiki
+clics-doculect-97-13,yuwa1244-std,concepticon-948,1.31,au,water,au
+clics-doculect-97-14,yuwa1244-std,concepticon-259,1.323,hetohuluwaka,rough (of sea),hetohuluwaka
+clics-doculect-97-15,yuwa1244-std,concepticon-1768,1.324,hetoʰkolo,foam,hetokkolo
+clics-doculect-97-16,yuwa1244-std,concepticon-624,1.33,bãbo,lake,babo
+clics-doculect-97-17,yuwa1244-std,concepticon-623,1.341,bãbo,lagoon,babo
+clics-doculect-97-18,yuwa1244-std,concepticon-978,1.35,hetohuluwaka,wave,hetohuluwaka
+clics-doculect-97-19,yuwa1244-std,concepticon-666,1.36,heto,"river, stream, brook",heto
+clics-doculect-97-20,yuwa1244-std,concepticon-1982,1.362,hetohulaheikɨ,whirlpool,hetohulaheiki
+clics-doculect-97-21,yuwa1244-std,concepticon-2144,1.37,ʰlẽiʰkʷahelou,"spring, well",kleikkwahelou
+clics-doculect-97-22,yuwa1244-std,concepticon-1145,1.38,ʰleʰteʰta,swamp,klektekta
+clics-doculect-97-23,yuwa1244-std,concepticon-943,1.39,hetoʰlaho,waterfall,hetoklaho
+clics-doculect-97-24,yuwa1244-std,concepticon-420,1.41,'yelito,"woods, forest",'yelito
+clics-doculect-97-26,yuwa1244-std,concepticon-1803,1.43,ʰtawɨ,wood,ktawi
+clics-doculect-97-27,yuwa1244-std,concepticon-2125,1.44,iʰto,"stone, rock",ikto
+clics-doculect-97-28,yuwa1244-std,concepticon-6,1.45,ʰlẽiʰkeʰkekɨtehai,earthquake,kleikkekkekitehai
+clics-doculect-97-29,yuwa1244-std,concepticon-1732,1.51,ʰkʸo,sky,kkyo
+clics-doculect-97-30,yuwa1244-std,concepticon-1343,1.52,ʰtilẽwã,sun,ktilewa
+clics-doculect-97-31,yuwa1244-std,concepticon-1313,1.53,abĩyẽ,moon,abiye
+clics-doculect-97-32,yuwa1244-std,concepticon-1430,1.54,atetɨhã,star,atetiha
+clics-doculect-97-33,yuwa1244-std,concepticon-1654,1.55,ʰkʸoaibulewetehai,lightning,kkyoaibulewetehai
+clics-doculect-97-34,yuwa1244-std,concepticon-1150,1.56,ʰkʸoaihobetehai,thunder,kkyoaihobetehai
+clics-doculect-97-35,yuwa1244-std,concepticon-2007,1.57,ʰkʸoaiʰkãlĩtiyu,lightning (as striking),kkyoaikkalitiyu
+clics-doculect-97-36,yuwa1244-std,concepticon-858,1.58,ulioibu'e,storm,ulioibu'e
+clics-doculect-97-37,yuwa1244-std,concepticon-1733,1.59,yẽtohã,rainbow,yetoha
+clics-doculect-97-38,yuwa1244-std,concepticon-630,1.61,ʰkʸato,light (noun),kkyato
+clics-doculect-97-39,yuwa1244-std,concepticon-11,1.62,ʰtiʰkʷeʰto,darkness,ktikkwekto
+clics-doculect-97-40,yuwa1244-std,concepticon-1388,1.63,ʰkʸoʰkʷoili,"shade, shadow",kkyokkwoili
+clics-doculect-97-41,yuwa1244-std,concepticon-1977,1.64,atetɨtɨli,dew,atetitili
+clics-doculect-97-42,yuwa1244-std,concepticon-27,1.71,ʰkʸo,air,kkyo
+clics-doculect-97-43,yuwa1244-std,concepticon-960,1.72,ʰkʸo,wind,kkyo
+clics-doculect-97-44,yuwa1244-std,concepticon-1489,1.73,bĩʰtu,cloud,biktu
+clics-doculect-97-45,yuwa1244-std,concepticon-249,1.74,bĩʰtu,fog,biktu
+clics-doculect-97-46,yuwa1244-std,concepticon-658,1.75,o,rain (noun),o
+clics-doculect-97-47,yuwa1244-std,concepticon-617,1.77,ikʸekaau,ice,ikyekaau
+clics-doculect-97-48,yuwa1244-std,concepticon-221,1.81,ʰkule,fire,kkule
+clics-doculect-97-49,yuwa1244-std,concepticon-889,1.82,ʰkuleheʰla,flame (noun),kkulehekla
+clics-doculect-97-50,yuwa1244-std,concepticon-778,1.83,ʰkulebĩʰtu,smoke (noun),kkulebiktu
+clics-doculect-97-51,yuwa1244-std,concepticon-646,1.84,ilẽho,ashes,ileho
+clics-doculect-97-52,yuwa1244-std,concepticon-67,1.841,ãhõ,embers,aho
+clics-doculect-97-53,yuwa1244-std,concepticon-141,1.851,ʰkaʰtɨlɨ,burn (vb trans),kkaktili
+clics-doculect-97-54,yuwa1244-std,concepticon-1428,1.852,ʰtɨlɨ,burn (vb intrans),ktili
+clics-doculect-97-55,yuwa1244-std,concepticon-737,1.86,butitɨ,"light, kindle, ignite",butiti
+clics-doculect-97-56,yuwa1244-std,concepticon-127,1.861,lõwai'ĩ,extinguish,lowai'i
+clics-doculect-97-57,yuwa1244-std,concepticon-1133,1.87,ʰkulebo,match (noun),kkulebo
+clics-doculect-97-58,yuwa1244-std,concepticon-10,1.88,ʰkulebo,firewood,kkulebo
+clics-doculect-97-59,yuwa1244-std,concepticon-1188,1.89,ãhõ,charcoal,aho
+clics-doculect-97-60,yuwa1244-std,concepticon-683,2.1,ho,"person, human being",ho
+clics-doculect-97-61,yuwa1244-std,concepticon-1554,2.21,bãli,man (vs. woman),bali
+clics-doculect-97-62,yuwa1244-std,concepticon-962,2.22,ãu,woman,au
+clics-doculect-97-63,yuwa1244-std,concepticon-1553,2.23,bãli,male,bali
+clics-doculect-97-64,yuwa1244-std,concepticon-1551,2.24,ãu,female,au
+clics-doculect-97-65,yuwa1244-std,concepticon-1366,2.25,hãlihã,boy,haliha
+clics-doculect-97-66,yuwa1244-std,concepticon-76,2.251,baihã,young man (adolescent),baiha
+clics-doculect-97-67,yuwa1244-std,concepticon-1646,2.26,hãlihayu,girl,halihayu
+clics-doculect-97-68,yuwa1244-std,concepticon-77,2.261,baihau,young woman (adolescent),baihau
+clics-doculect-97-69,yuwa1244-std,concepticon-1304,2.27,hãlihã,child,haliha
+clics-doculect-97-70,yuwa1244-std,concepticon-1289,2.28,ʰtiʰtuhã,"infant, baby",ktiktuha
+clics-doculect-97-71,yuwa1244-std,concepticon-1200,2.31,bãli,husband,bali
+clics-doculect-97-72,yuwa1244-std,concepticon-1199,2.32,hayu,wife,hayu
+clics-doculect-97-73,yuwa1244-std,concepticon-1199,2.32,ʰlu,wife,klu
+clics-doculect-97-74,yuwa1244-std,concepticon-203,2.33,hayuʰkabai,marry,hayukkabai
+clics-doculect-97-75,yuwa1244-std,concepticon-1134,2.341,haulɨ̃lɨ̃yetekabai,divorce,hauliliyetekabai
+clics-doculect-97-76,yuwa1244-std,concepticon-1217,2.35,ʰlai,father,klai
+clics-doculect-97-77,yuwa1244-std,concepticon-1217,2.35,ai,father,ai
+clics-doculect-97-78,yuwa1244-std,concepticon-1216,2.36,abã,mother,aba
+clics-doculect-97-79,yuwa1244-std,concepticon-505,2.37,aĩbõ,parents,aibo
+clics-doculect-97-80,yuwa1244-std,concepticon-424,2.38,bãli,married man,bali
+clics-doculect-97-81,yuwa1244-std,concepticon-426,2.39,ãũ,married woman,au
+clics-doculect-97-82,yuwa1244-std,concepticon-1620,2.41,ilĩ,son,ili
+clics-doculect-97-83,yuwa1244-std,concepticon-1357,2.42,hayu,daughter,hayu
+clics-doculect-97-84,yuwa1244-std,concepticon-1801,2.43,ilĩbõ,offspring (son or daughter),ilibo
+clics-doculect-97-85,yuwa1244-std,concepticon-1262,2.44,abãʰlõ,brother,abaklo
+clics-doculect-97-86,yuwa1244-std,concepticon-1759,2.444,ʰlẽ,older brother,kle
+clics-doculect-97-87,yuwa1244-std,concepticon-1760,2.445,hãyẽ,younger brother,haye
+clics-doculect-97-88,yuwa1244-std,concepticon-1263,2.45,abalou,sister,abalou
+clics-doculect-97-89,yuwa1244-std,concepticon-1758,2.454,ʰlu,older sister,klu
+clics-doculect-97-90,yuwa1244-std,concepticon-1761,2.455,hãlihayu,younger sister,halihayu
+clics-doculect-97-91,yuwa1244-std,concepticon-1640,2.456,abãʰlõ,sibling,abaklo
+clics-doculect-97-92,yuwa1244-std,concepticon-1383,2.46,ʰlai,grandfather,klai
+clics-doculect-97-93,yuwa1244-std,concepticon-406,2.461,uliʰtawo,old man,uliktawo
+clics-doculect-97-94,yuwa1244-std,concepticon-1496,2.47,abã,grandmother,aba
+clics-doculect-97-95,yuwa1244-std,concepticon-1496,2.47,ʰwoiʰlo,grandmother,kwoiklo
+clics-doculect-97-96,yuwa1244-std,concepticon-907,2.471,ʰwoiʰlo,old woman,kwoiklo
+clics-doculect-97-97,yuwa1244-std,concepticon-1618,2.48,ilĩilĩ,grandson,iliili
+clics-doculect-97-98,yuwa1244-std,concepticon-1619,2.49,ilĩilĩ,granddaughter,iliili
+clics-doculect-97-99,yuwa1244-std,concepticon-1327,2.51,ʰlai,uncle,klai
+clics-doculect-97-100,yuwa1244-std,concepticon-1985,2.512,ʰlai,father's brother,klai
+clics-doculect-97-101,yuwa1244-std,concepticon-1272,2.52,abã,aunt,aba
+clics-doculect-97-102,yuwa1244-std,concepticon-1669,2.56,ʰyebaitehatɨ,ancestors,kyebaitehati
+clics-doculect-97-103,yuwa1244-std,concepticon-1059,2.73,lãwɨ̃,stepson,lawi
+clics-doculect-97-104,yuwa1244-std,concepticon-1149,2.75,'aibõ'telãbãhã,orphan,'aibo'telabaha
+clics-doculect-97-105,yuwa1244-std,concepticon-1756,2.76,bãli'telãbãhau,widow,bali'telabahau
+clics-doculect-97-106,yuwa1244-std,concepticon-1981,2.77,hau'telãbãhã,widower,hau'telabaha
+clics-doculect-97-107,yuwa1244-std,concepticon-1644,2.81,ʰyehotɨ,"relatives, kinsmen",kyehoti
+clics-doculect-97-108,yuwa1244-std,concepticon-194,2.82,ʰyehotɨ,family,kyehoti
+clics-doculect-97-109,yuwa1244-std,concepticon-1209,2.91,ʰye,I,kye
+clics-doculect-97-110,yuwa1244-std,concepticon-1215,2.92,ʰke,you (singular),kke
+clics-doculect-97-111,yuwa1244-std,concepticon-262,2.93,ʰkʸe,he/she/it,kkye
+clics-doculect-97-112,yuwa1244-std,concepticon-1212,2.94,ʰye,we,kye
+clics-doculect-97-113,yuwa1244-std,concepticon-1212,2.94,ʰyetɨ,we,kyeti
+clics-doculect-97-114,yuwa1244-std,concepticon-1131,2.941,ʰye,we (inclusive),kye
+clics-doculect-97-115,yuwa1244-std,concepticon-1131,2.941,ʰyetɨ,we (inclusive),kyeti
+clics-doculect-97-116,yuwa1244-std,concepticon-1130,2.942,ʰye,we (exclusive),kye
+clics-doculect-97-117,yuwa1244-std,concepticon-1130,2.942,ʰyetɨ,we (exclusive),kyeti
+clics-doculect-97-118,yuwa1244-std,concepticon-1213,2.95,ʰke,you (plural),kke
+clics-doculect-97-119,yuwa1244-std,concepticon-1213,2.95,ʰketɨ,you (plural),kketi
+clics-doculect-97-120,yuwa1244-std,concepticon-817,2.96,ʰkʸe,they,kkye
+clics-doculect-97-121,yuwa1244-std,concepticon-817,2.96,hati'te,they,hati'te
+clics-doculect-97-122,yuwa1244-std,concepticon-619,3.11,hã,animal,ha
+clics-doculect-97-123,yuwa1244-std,concepticon-2261,3.12,hã,male (adj),ha
+clics-doculect-97-124,yuwa1244-std,concepticon-2262,3.13,hau,female (adj),hau
+clics-doculect-97-125,yuwa1244-std,concepticon-1348,3.32,ʰkaʰwiye,boar,kkakwiye
+clics-doculect-97-126,yuwa1244-std,concepticon-1351,3.34,ʰkaʰwiye,sow,kkakwiye
+clics-doculect-97-127,yuwa1244-std,concepticon-1337,3.35,ʰkaʰwiye,pig,kkakwiye
+clics-doculect-97-128,yuwa1244-std,concepticon-1647,3.45,ilĩ,"foal, colt",ili
+clics-doculect-97-129,yuwa1244-std,concepticon-1360,3.57,abotuwẽlõlãhã,duck,abotuwelolaha
+clics-doculect-97-130,yuwa1244-std,concepticon-539,3.58,ʰtẽʰtẽ,nest,ktekte
+clics-doculect-97-131,yuwa1244-std,concepticon-937,3.581,iʰte,bird,ikte
+clics-doculect-97-132,yuwa1244-std,concepticon-758,3.583,ʰkʷãʰlebobãhã,heron,kkwaklebobaha
+clics-doculect-97-133,yuwa1244-std,concepticon-1905,3.584,bole,eagle,bole
+clics-doculect-97-134,yuwa1244-std,concepticon-307,3.585,bole,hawk,bole
+clics-doculect-97-135,yuwa1244-std,concepticon-1185,3.586,bũʰwoli,vulture,bukwoli
+clics-doculect-97-136,yuwa1244-std,concepticon-1793,3.591,ʰkʷayuwã,bat,kkwayuwa
+clics-doculect-97-137,yuwa1244-std,concepticon-882,3.592,heba,parrot,heba
+clics-doculect-97-138,yuwa1244-std,concepticon-882,3.592,ʰkili,parrot,kkili
+clics-doculect-97-139,yuwa1244-std,concepticon-913,3.593,waʰti,crow,wakti
+clics-doculect-97-140,yuwa1244-std,concepticon-1853,3.594,bãlo,dove,balo
+clics-doculect-97-141,yuwa1244-std,concepticon-1853,3.594,bõʰwoike,dove,bokwoike
+clics-doculect-97-142,yuwa1244-std,concepticon-735,3.596,bololo,owl,bololo
+clics-doculect-97-143,yuwa1244-std,concepticon-2009,3.61,yewi,dog,yewi
+clics-doculect-97-144,yuwa1244-std,concepticon-1208,3.62,yewi,cat,yewi
+clics-doculect-97-145,yuwa1244-std,concepticon-309,3.622,yowale,opossum,yowale
+clics-doculect-97-146,yuwa1244-std,concepticon-309,3.622,abaʰtuhã,opossum,abaktuha
+clics-doculect-97-147,yuwa1244-std,concepticon-2139,3.63,wayo,"mouse, rat",wayo
+clics-doculect-97-148,yuwa1244-std,concepticon-227,3.65,bõʰtõ,fish,bokto
+clics-doculect-97-149,yuwa1244-std,concepticon-266,3.653,iyeba,fishscale,iyeba
+clics-doculect-97-150,yuwa1244-std,concepticon-598,3.655,bẽlo,shell,belo
+clics-doculect-97-151,yuwa1244-std,concepticon-1910,3.664,iʰti,stingray,ikti
+clics-doculect-97-152,yuwa1244-std,concepticon-522,3.71,ʰkʸoyewi,wolf,kkyoyewi
+clics-doculect-97-153,yuwa1244-std,concepticon-1386,3.72,ʰkʸoyewi,lion,kkyoyewi
+clics-doculect-97-154,yuwa1244-std,concepticon-1312,3.74,ʰkʸoyewi,fox,kkyoyewi
+clics-doculect-97-155,yuwa1244-std,concepticon-1936,3.75,ʰkʷãʰtɨbo,deer,kkwaktibo
+clics-doculect-97-156,yuwa1244-std,concepticon-1350,3.76,uliʰkʷayo,monkey,ulikkwayo
+clics-doculect-97-157,yuwa1244-std,concepticon-1392,3.811,hõhõ,louse,hoho
+clics-doculect-97-158,yuwa1244-std,concepticon-267,3.812,hõhõɨke,nit (louse egg),hohoike
+clics-doculect-97-159,yuwa1244-std,concepticon-232,3.813,yewihõhõ,flea,yewihoho
+clics-doculect-97-160,yuwa1244-std,concepticon-1974,3.814,iliwe,centipede,iliwe
+clics-doculect-97-161,yuwa1244-std,concepticon-1538,3.815,iʰti,scorpion,ikti
+clics-doculect-97-162,yuwa1244-std,concepticon-1575,3.816,oʰkõ,cockroach,okko
+clics-doculect-97-163,yuwa1244-std,concepticon-587,3.817,ʰyõ,ant,kyo
+clics-doculect-97-164,yuwa1244-std,concepticon-587,3.817,lĩbõ,ant,libo
+clics-doculect-97-165,yuwa1244-std,concepticon-843,3.818,aʰkuke,spider,akkuke
+clics-doculect-97-166,yuwa1244-std,concepticon-1065,3.819,kaliweto,spider web,kaliweto
+clics-doculect-97-167,yuwa1244-std,concepticon-665,3.82,bãilãai,bee,bailaai
+clics-doculect-97-168,yuwa1244-std,concepticon-1931,3.821,bãilãõ,beeswax,bailao
+clics-doculect-97-169,yuwa1244-std,concepticon-88,3.822,bũʰtu,beehive,buktu
+clics-doculect-97-170,yuwa1244-std,concepticon-1517,3.823,bũhã,wasp,buha
+clics-doculect-97-171,yuwa1244-std,concepticon-1504,3.83,lɨ̃lɨ̃hã,fly,liliha
+clics-doculect-97-172,yuwa1244-std,concepticon-95,3.831,hitɨhã,"sandfly (midge), gnat",hitiha
+clics-doculect-97-173,yuwa1244-std,concepticon-1509,3.832,ʰtuhelatɨ,mosquito,ktuhelati
+clics-doculect-97-174,yuwa1244-std,concepticon-1219,3.84,ʰlẽiʰlõhã,worm,kleikloha
+clics-doculect-97-175,yuwa1244-std,concepticon-730,3.85,iʰkʷo,snake,ikkwo
+clics-doculect-97-176,yuwa1244-std,concepticon-206,3.91,ʰtuʰtuyu,firefly,ktuktuyu
+clics-doculect-97-177,yuwa1244-std,concepticon-206,3.91,buleʰyoulabeitekahã,firefly,bulekyoulabeitekaha
+clics-doculect-97-178,yuwa1244-std,concepticon-1791,3.92,waleba,butterfly,waleba
+clics-doculect-97-179,yuwa1244-std,concepticon-607,3.93,ʰkʸowaya,grasshopper,kkyowaya
+clics-doculect-97-180,yuwa1244-std,concepticon-1543,3.94,ʰkalũʰtu,snail,kkaluktu
+clics-doculect-97-181,yuwa1244-std,concepticon-503,3.95,wiwe,frog,wiwe
+clics-doculect-97-182,yuwa1244-std,concepticon-632,3.96,ʰtawɨʰlawa,lizard,ktawiklawa
+clics-doculect-97-183,yuwa1244-std,concepticon-1857,3.97,auʰlẽ,"crocodile, alligator",aukle
+clics-doculect-97-184,yuwa1244-std,concepticon-112,3.98,ikʸekaoʰkõ,turtle,ikyekaokko
+clics-doculect-97-185,yuwa1244-std,concepticon-1480,4.11,ho,body,ho
+clics-doculect-97-186,yuwa1244-std,concepticon-763,4.12,hetoto,"skin, hide",hetoto
+clics-doculect-97-187,yuwa1244-std,concepticon-2259,4.13,ilẽhai,flesh,ilehai
+clics-doculect-97-188,yuwa1244-std,concepticon-1040,4.14,ɨko,hair (head),iko
+clics-doculect-97-189,yuwa1244-std,concepticon-678,4.142,abiye,beard,abiye
+clics-doculect-97-190,yuwa1244-std,concepticon-189,4.144,ɨko,body hair,iko
+clics-doculect-97-191,yuwa1244-std,concepticon-36,4.145,ɨko,pubic hair,iko
+clics-doculect-97-192,yuwa1244-std,concepticon-946,4.15,ʰkʷo,blood,kkwo
+clics-doculect-97-193,yuwa1244-std,concepticon-525,4.151,ʰkʷoʰlaʰla,"vein, artery",kkwoklakla
+clics-doculect-97-194,yuwa1244-std,concepticon-1394,4.16,wãwã,bone,wawa
+clics-doculect-97-195,yuwa1244-std,concepticon-801,4.162,uluheʰte,rib,uluhekte
+clics-doculect-97-196,yuwa1244-std,concepticon-1393,4.17,ʰtuiʰti,horn,ktuikti
+clics-doculect-97-197,yuwa1244-std,concepticon-1220,4.18,ilẽlãbuke,tail,ilelabuke
+clics-doculect-97-198,yuwa1244-std,concepticon-1291,4.19,ʰwɨ,back,kwi
+clics-doculect-97-199,yuwa1244-std,concepticon-805,4.191,ʰwɨhele,spine,kwihele
+clics-doculect-97-200,yuwa1244-std,concepticon-1256,4.2,ʰtu,head,ktu
+clics-doculect-97-201,yuwa1244-std,concepticon-1604,4.201,bulelaʰtoka,"side of head, temple",bulelaktoka
+clics-doculect-97-202,yuwa1244-std,concepticon-1605,4.202,ʰtu,skull,ktu
+clics-doculect-97-203,yuwa1244-std,concepticon-1583,4.203,ʰlãʰlã,brain,klakla
+clics-doculect-97-204,yuwa1244-std,concepticon-1560,4.204,a,face,a
+clics-doculect-97-205,yuwa1244-std,concepticon-123,4.205,bulebĩlẽ,forehead,bulebile
+clics-doculect-97-206,yuwa1244-std,concepticon-798,4.207,aka,jaw,aka
+clics-doculect-97-207,yuwa1244-std,concepticon-1730,4.208,abeka,cheek,abeka
+clics-doculect-97-208,yuwa1244-std,concepticon-1510,4.209,ãkã,chin,aka
+clics-doculect-97-209,yuwa1244-std,concepticon-1248,4.21,bule,eye,bule
+clics-doculect-97-210,yuwa1244-std,concepticon-1173,4.212,buleloʰtoka,eyebrow,buleloktoka
+clics-doculect-97-211,yuwa1244-std,concepticon-17,4.213,bulehelõlõ,eyelid,bulehelolo
+clics-doculect-97-212,yuwa1244-std,concepticon-1540,4.214,buleɨko,eyelash,buleiko
+clics-doculect-97-213,yuwa1244-std,concepticon-1655,4.215,bulelawoyẽ,blink,bulelawoye
+clics-doculect-97-214,yuwa1244-std,concepticon-1247,4.22,olẽka,ear,oleka
+clics-doculect-97-215,yuwa1244-std,concepticon-18,4.221,olẽkatoto,earlobe,olekatoto
+clics-doculect-97-216,yuwa1244-std,concepticon-32,4.222,olẽkalãlã,earwax,olekalala
+clics-doculect-97-217,yuwa1244-std,concepticon-1221,4.23,ĩyõ,nose,iyo
+clics-doculect-97-218,yuwa1244-std,concepticon-1178,4.231,ĩyõʰtaka,nostril,iyoktaka
+clics-doculect-97-219,yuwa1244-std,concepticon-674,4.24,a,mouth,a
+clics-doculect-97-220,yuwa1244-std,concepticon-73,4.241,'abo,beak,'abo
+clics-doculect-97-221,yuwa1244-std,concepticon-478,4.25,ahetoto,lip,ahetoto
+clics-doculect-97-222,yuwa1244-std,concepticon-1205,4.26,alẽlẽ,tongue,alele
+clics-doculect-97-223,yuwa1244-std,concepticon-1380,4.27,ʰku,tooth,kku
+clics-doculect-97-224,yuwa1244-std,concepticon-139,4.271,ʰkuikʸu,gums,kkuikyu
+clics-doculect-97-225,yuwa1244-std,concepticon-1049,4.272,ʰku,molartooth,kku
+clics-doculect-97-226,yuwa1244-std,concepticon-1333,4.28,ʰkʷãʰwɨ,neck,kkwakwi
+clics-doculect-97-227,yuwa1244-std,concepticon-1347,4.281,ʰkʷãʰwɨ,nape of neck,kkwakwi
+clics-doculect-97-228,yuwa1244-std,concepticon-1346,4.29,ʰkʷã,throat,kkwa
+clics-doculect-97-229,yuwa1244-std,concepticon-1482,4.3,aʰkuleʰtu,shoulder,akkulektu
+clics-doculect-97-230,yuwa1244-std,concepticon-172,4.301,ʰkewabẽ,shoulderblade,kkewabe
+clics-doculect-97-231,yuwa1244-std,concepticon-1994,4.302,aʰkuleʰtu,collarbone,akkulektu
+clics-doculect-97-232,yuwa1244-std,concepticon-1673,4.31,bõwãwã,arm,bowawa
+clics-doculect-97-233,yuwa1244-std,concepticon-1886,4.312,ʰtileʰkɨwe,armpit,ktilekkiwe
+clics-doculect-97-234,yuwa1244-std,concepticon-981,4.32,bõʰkalũke,elbow,bokkaluke
+clics-doculect-97-235,yuwa1244-std,concepticon-799,4.321,bõʰkoʰko,wrist,bokkokko
+clics-doculect-97-236,yuwa1244-std,concepticon-1277,4.33,bõ,hand,bo
+clics-doculect-97-237,yuwa1244-std,concepticon-1183,4.331,bõʰwaʰwa,palm of hand,bokwakwa
+clics-doculect-97-238,yuwa1244-std,concepticon-1303,4.34,bõʰteʰla,finger,boktekla
+clics-doculect-97-239,yuwa1244-std,concepticon-1781,4.342,uliʰteʰla,thumb,uliktekla
+clics-doculect-97-240,yuwa1244-std,concepticon-1258,4.344,ʰteʰlaheʰta,fingernail,kteklahekta
+clics-doculect-97-241,yuwa1244-std,concepticon-72,4.345,bõʰteʰla,claw,boktekla
+clics-doculect-97-242,yuwa1244-std,concepticon-1297,4.35,bẽʰlã,leg,bekla
+clics-doculect-97-243,yuwa1244-std,concepticon-800,4.351,kʸe,thigh,kye
+clics-doculect-97-244,yuwa1244-std,concepticon-498,4.352,bẽʰlãʰtulõ,calf of leg,beklaktulo
+clics-doculect-97-245,yuwa1244-std,concepticon-1371,4.36,bẽko,knee,beko
+clics-doculect-97-246,yuwa1244-std,concepticon-1301,4.37,bẽʰlã,foot,bekla
+clics-doculect-97-247,yuwa1244-std,concepticon-803,4.371,bẽʰlãʰkoʰko,ankle,beklakkokko
+clics-doculect-97-248,yuwa1244-std,concepticon-980,4.372,bẽʰlãhuteko,heel,beklahuteko
+clics-doculect-97-249,yuwa1244-std,concepticon-318,4.374,ɨlẽka,footprint,ileka
+clics-doculect-97-250,yuwa1244-std,concepticon-1389,4.38,bẽʰlãʰteʰla,toe,beklaktekla
+clics-doculect-97-251,yuwa1244-std,concepticon-1257,4.392,bɨ̃aubɨ̃'eho,wing,biaubi'eho
+clics-doculect-97-252,yuwa1244-std,concepticon-1201,4.393,ɨko,feather,iko
+clics-doculect-97-253,yuwa1244-std,concepticon-1592,4.4,bẽwã,chest,bewa
+clics-doculect-97-254,yuwa1244-std,concepticon-1402,4.41,oteko,breast (of woman),oteko
+clics-doculect-97-255,yuwa1244-std,concepticon-796,4.412,otekoʰtu,"nipple, teat",otekoktu
+clics-doculect-97-256,yuwa1244-std,concepticon-154,4.42,oteko,udder,oteko
+clics-doculect-97-257,yuwa1244-std,concepticon-1838,4.43,alũwẽ,navel,aluwe
+clics-doculect-97-258,yuwa1244-std,concepticon-1223,4.44,ʰkʷohu,heart,kkwohu
+clics-doculect-97-259,yuwa1244-std,concepticon-1224,4.45,oteko,liver,oteko
+clics-doculect-97-260,yuwa1244-std,concepticon-819,4.46,ikʸo,stomach,ikyo
+clics-doculect-97-261,yuwa1244-std,concepticon-1991,4.461,ikʸoʰkʷa,"intestines, guts",ikyokkwa
+clics-doculect-97-262,yuwa1244-std,concepticon-1681,4.462,ikʸo,waist,ikyo
+clics-doculect-97-263,yuwa1244-std,concepticon-1745,4.463,ʰtɨtɨke,hip,ktitike
+clics-doculect-97-264,yuwa1244-std,concepticon-834,4.464,ikʸubãbeya,buttocks,ikyubabeya
+clics-doculect-97-265,yuwa1244-std,concepticon-804,4.47,ikʸoʰkʷa,womb,ikyokkwa
+clics-doculect-97-266,yuwa1244-std,concepticon-797,4.49,ilẽlãtale,testicle,ilelatale
+clics-doculect-97-267,yuwa1244-std,concepticon-1222,4.492,ilẽlãbuke,penis,ilelabuke
+clics-doculect-97-268,yuwa1244-std,concepticon-1407,4.51,bẽyabekɨ,"breathe, breath",beyabeki
+clics-doculect-97-269,yuwa1244-std,concepticon-1028,4.52,alitoki,"yawn, gape",alitoki
+clics-doculect-97-270,yuwa1244-std,concepticon-162,4.521,ʰkʷãʰtɨʰkẽbẽ,hiccough,kkwaktikkebe
+clics-doculect-97-271,yuwa1244-std,concepticon-879,4.53,ʰkʷãhulẽbu,cough,kkwahulebu
+clics-doculect-97-272,yuwa1244-std,concepticon-1621,4.54,ĩyõʰtĩkĩ,sneeze,iyoktiki
+clics-doculect-97-273,yuwa1244-std,concepticon-126,4.55,ʰtuwelaibu,perspire,ktuwelaibu
+clics-doculect-97-274,yuwa1244-std,concepticon-1440,4.56,hulebe,spit,hulebe
+clics-doculect-97-275,yuwa1244-std,concepticon-1278,4.57,'ʰteʰke,vomit,'ktekke
+clics-doculect-97-276,yuwa1244-std,concepticon-1403,4.58,ayẽɨ,bite,ayei
+clics-doculect-97-277,yuwa1244-std,concepticon-319,4.59,alẽlẽʰtowe,lick,alelektowe
+clics-doculect-97-278,yuwa1244-std,concepticon-1585,4.61,abuwi,sleep,abuwi
+clics-doculect-97-279,yuwa1244-std,concepticon-1983,4.612,ʰkʷãʰtololabe,snore,kkwaktololabe
+clics-doculect-97-280,yuwa1244-std,concepticon-1920,4.62,abu'ẽ,dream,abu'e
+clics-doculect-97-281,yuwa1244-std,concepticon-1602,4.63,'ʰtebĩ,wake up,'ktebi
+clics-doculect-97-282,yuwa1244-std,concepticon-592,4.65,tɨlibiki,urinate,tilibiki
+clics-doculect-97-283,yuwa1244-std,concepticon-676,4.66,ikilaiki,defecate,ikilaiki
+clics-doculect-97-284,yuwa1244-std,concepticon-1785,4.67,haukabai,have sexual intercourse,haukabai
+clics-doculect-97-285,yuwa1244-std,concepticon-52,4.68,ʰkʸɨʰtaibu,shiver,kkyiktaibu
+clics-doculect-97-286,yuwa1244-std,concepticon-138,4.69,auibu,bathe,auibu
+clics-doculect-97-287,yuwa1244-std,concepticon-1152,4.71,beibei,beget (of father),beibei
+clics-doculect-97-288,yuwa1244-std,concepticon-1090,4.72,beibei,born (to be),beibei
+clics-doculect-97-289,yuwa1244-std,concepticon-1123,4.73,ʰtiʰtuhãikʸouʰkʷabã,pregnant,ktiktuhaikyoukkwaba
+clics-doculect-97-290,yuwa1244-std,concepticon-1422,4.74,'hoabẽɨ,"live, living, life",'hoabei
+clics-doculect-97-291,yuwa1244-std,concepticon-1494,4.75,bĩyeli,"die, dead",biyeli
+clics-doculect-97-292,yuwa1244-std,concepticon-1904,4.751,ʰkahulẽ,drowned,kkahule
+clics-doculect-97-293,yuwa1244-std,concepticon-1417,4.76,ʰkʷãlĩlĩ,kill,kkwalili
+clics-doculect-97-294,yuwa1244-std,concepticon-767,4.77,bĩyelitehã,corpse,biyeliteha
+clics-doculect-97-295,yuwa1244-std,concepticon-1719,4.78,laikeʰkʷabeibei,bury (the dead),laikekkwabeibei
+clics-doculect-97-296,yuwa1244-std,concepticon-1773,4.79,laike,"grave, tomb",laike
+clics-doculect-97-297,yuwa1244-std,concepticon-1773,4.79,ʰlẽiʰkʷa,"grave, tomb",kleikkwa
+clics-doculect-97-298,yuwa1244-std,concepticon-785,4.81,ikʸeka,"strong, mighty, powerful",ikyeka
+clics-doculect-97-299,yuwa1244-std,concepticon-785,4.81,bũʰkete,"strong, mighty, powerful",bukkete
+clics-doculect-97-300,yuwa1244-std,concepticon-1601,4.82,ʰkelõwãlõ,weak,kkelowalo
+clics-doculect-97-301,yuwa1244-std,concepticon-1364,4.83,yãʰtihã,"well, health",yaktiha
+clics-doculect-97-302,yuwa1244-std,concepticon-1847,4.84,yãhã,"sick, sickness",yaha
+clics-doculect-97-303,yuwa1244-std,concepticon-1534,4.841,ʰtuweʰto,fever,ktuwekto
+clics-doculect-97-304,yuwa1244-std,concepticon-1957,4.842,ʰkʷãʰlebo,goiter,kkwaklebo
+clics-doculect-97-305,yuwa1244-std,concepticon-102,4.843,ĩyõʰtĩkĩ,cold (catarrh),iyoktiki
+clics-doculect-97-306,yuwa1244-std,concepticon-1109,4.85,'yẽtehai,"wound, sore",'yetehai
+clics-doculect-97-307,yuwa1244-std,concepticon-1148,4.852,'yẽtehai,bruise,'yetehai
+clics-doculect-97-308,yuwa1244-std,concepticon-1903,4.853,'yẽtehai,swelling,'yetehai
+clics-doculect-97-309,yuwa1244-std,concepticon-148,4.854,ʰluwiye,itch,kluwiye
+clics-doculect-97-310,yuwa1244-std,concepticon-1584,4.855,telõ,blister,telo
+clics-doculect-97-311,yuwa1244-std,concepticon-793,4.856,'yẽtehai,boil (noun),'yetehai
+clics-doculect-97-312,yuwa1244-std,concepticon-1808,4.857,'yẽtehaibãʰyu,pus,'yetehaibakyu
+clics-doculect-97-313,yuwa1244-std,concepticon-497,4.858,ʰyali'ĩtehai,scar,kyali'itehai
+clics-doculect-97-314,yuwa1244-std,concepticon-499,4.86,ʰyalobai,"cure, heal",kyalobai
+clics-doculect-97-315,yuwa1244-std,concepticon-655,4.89,'yẽtohai,poison,'yetohai
+clics-doculect-97-316,yuwa1244-std,concepticon-1757,4.91,itewɨ,"tired, weary",itewi
+clics-doculect-97-317,yuwa1244-std,concepticon-168,4.912,ʰkõ,rest,kko
+clics-doculect-97-318,yuwa1244-std,concepticon-1564,4.92,'aihawalãʰtowãkĩtekahã,lazy,'aihawalaktowakitekaha
+clics-doculect-97-319,yuwa1244-std,concepticon-1125,4.93,ʰtuɨko'te,bald,ktuiko'te
+clics-doculect-97-320,yuwa1244-std,concepticon-320,4.94,ʰlaʰkãlãũ,lame,klakkalau
+clics-doculect-97-321,yuwa1244-std,concepticon-996,4.95,olẽka'ãku'te,deaf,oleka'aku'te
+clics-doculect-97-322,yuwa1244-std,concepticon-1666,4.96,ũtɨ'tebãhã,mute,uti'tebaha
+clics-doculect-97-323,yuwa1244-std,concepticon-1653,4.97,bulewe'te,blind,bulewe'te
+clics-doculect-97-324,yuwa1244-std,concepticon-590,4.99,ʰkʷãʰtolõta,"naked, bare",kkwaktolota
+clics-doculect-97-325,yuwa1244-std,concepticon-1336,5.11,ʰkʷõ,eat,kkwo
+clics-doculect-97-326,yuwa1244-std,concepticon-256,5.12,hawa,food,hawa
+clics-doculect-97-327,yuwa1244-std,concepticon-269,5.121,ʰkabũ,cooked,kkabu
+clics-doculect-97-328,yuwa1244-std,concepticon-1959,5.122,itiko,raw,itiko
+clics-doculect-97-329,yuwa1244-std,concepticon-178,5.123,aibai,ripe,aibai
+clics-doculect-97-330,yuwa1244-std,concepticon-1958,5.124,ʰtiʰto,"green, unripe",ktikto
+clics-doculect-97-331,yuwa1244-std,concepticon-1728,5.125,walibu,rotten,walibu
+clics-doculect-97-332,yuwa1244-std,concepticon-1401,5.13,woi,drink,woi
+clics-doculect-97-333,yuwa1244-std,concepticon-1864,5.14,ʰkʷãbĩyeli,hunger,kkwabiyeli
+clics-doculect-97-334,yuwa1244-std,concepticon-848,5.15,ʰkʷãʰkaibu,thirst,kkwakkaibu
+clics-doculect-97-335,yuwa1244-std,concepticon-1421,5.16,ʰluʰluwe,suck,klukluwe
+clics-doculect-97-336,yuwa1244-std,concepticon-321,5.18,ayẽɨ,chew,ayei
+clics-doculect-97-337,yuwa1244-std,concepticon-897,5.181,ʰkʷãlou,swallow,kkwalou
+clics-doculect-97-338,yuwa1244-std,concepticon-129,5.19,ʰkahulẽ,choke,kkahule
+clics-doculect-97-339,yuwa1244-std,concepticon-1100,5.21,hɨlẽtɨ,cook,hileti
+clics-doculect-97-340,yuwa1244-std,concepticon-792,5.22,ʰkʷalɨ,boil (vb),kkwali
+clics-doculect-97-341,yuwa1244-std,concepticon-2146,5.23,alɨ,"roast, fry",ali
+clics-doculect-97-342,yuwa1244-std,concepticon-183,5.24,balɨ,bake,bali
+clics-doculect-97-343,yuwa1244-std,concepticon-1462,5.26,ʰto,"pot, cooking vessel",kto
+clics-doculect-97-344,yuwa1244-std,concepticon-854,5.27,ʰto,kettle,kto
+clics-doculect-97-345,yuwa1244-std,concepticon-31,5.28,ʰto,pan,kto
+clics-doculect-97-346,yuwa1244-std,concepticon-481,5.31,bĩhĩ,dish,bihi
+clics-doculect-97-347,yuwa1244-std,concepticon-480,5.32,bĩhĩ,plate,bihi
+clics-doculect-97-348,yuwa1244-std,concepticon-1530,5.33,wõihta,bowl,woihta
+clics-doculect-97-349,yuwa1244-std,concepticon-1530,5.33,bĩhĩ,bowl,bihi
+clics-doculect-97-350,yuwa1244-std,concepticon-270,5.34,ʰyɨ,"pitcher, jug",kyi
+clics-doculect-97-351,yuwa1244-std,concepticon-476,5.35,bĩhĩ,"cup, drinking vessel",bihi
+clics-doculect-97-352,yuwa1244-std,concepticon-476,5.35,ʰyɨ,"cup, drinking vessel",kyi
+clics-doculect-97-353,yuwa1244-std,concepticon-271,5.36,bĩhĩ,saucer,bihi
+clics-doculect-97-354,yuwa1244-std,concepticon-1378,5.37,bĩhĩ,spoon,bihi
+clics-doculect-97-355,yuwa1244-std,concepticon-1352,5.38,bãye,knife,baye
+clics-doculect-97-356,yuwa1244-std,concepticon-337,5.39,toʰkʷeʰkʷõtekahĩ,fork,tokkwekkwotekahi
+clics-doculect-97-357,yuwa1244-std,concepticon-1526,5.41,hawaʰkʷõtehawa,meal (a),hawakkwotehawa
+clics-doculect-97-358,yuwa1244-std,concepticon-275,5.46,ʰkolabe,peel,kkolabe
+clics-doculect-97-359,yuwa1244-std,concepticon-86,5.47,ʰliye,"sieve, strain",kliye
+clics-doculect-97-360,yuwa1244-std,concepticon-1767,5.48,ʰkʷeɨ,scrape,kkwei
+clics-doculect-97-361,yuwa1244-std,concepticon-2017,5.49,hole,"stir, mix",hole
+clics-doculect-97-362,yuwa1244-std,concepticon-273,5.53,ʰtaʰta,dough,ktakta
+clics-doculect-97-363,yuwa1244-std,concepticon-274,5.54,laʰlɨabatɨ,knead,lakliabati
+clics-doculect-97-364,yuwa1244-std,concepticon-1594,5.55,ʰyowã,"meal, flour",kyowa
+clics-doculect-97-365,yuwa1244-std,concepticon-1033,5.56,tou,"crush, grind",tou
+clics-doculect-97-366,yuwa1244-std,concepticon-224,5.58,ʰtota,mortar,ktota
+clics-doculect-97-367,yuwa1244-std,concepticon-225,5.59,ʰtotahele,pestle,ktotahele
+clics-doculect-97-368,yuwa1244-std,concepticon-634,5.61,ilẽhai,meat,ilehai
+clics-doculect-97-369,yuwa1244-std,concepticon-1547,5.64,ʰyu,"soup, broth",kyu
+clics-doculect-97-370,yuwa1244-std,concepticon-832,5.66,bãlĩ,bean,bali
+clics-doculect-97-371,yuwa1244-std,concepticon-593,5.7,ʰwalẽ,potato,kwale
+clics-doculect-97-372,yuwa1244-std,concepticon-1507,5.71,hu,fruit,hu
+clics-doculect-97-373,yuwa1244-std,concepticon-1507,5.71,tale,fruit,tale
+clics-doculect-97-374,yuwa1244-std,concepticon-1507,5.71,atei,fruit,atei
+clics-doculect-97-375,yuwa1244-std,concepticon-1966,5.712,atei,bunch,atei
+clics-doculect-97-376,yuwa1244-std,concepticon-920,5.76,ibuatei,grape,ibuatei
+clics-doculect-97-377,yuwa1244-std,concepticon-191,5.77,ʰtawɨtale,nut,ktawitale
+clics-doculect-97-378,yuwa1244-std,concepticon-1484,5.79,lãlã,oil,lala
+clics-doculect-97-379,yuwa1244-std,concepticon-323,5.791,ʰkalawa,"grease, fat",kkalawa
+clics-doculect-97-380,yuwa1244-std,concepticon-1274,5.81,ʰyowã,salt,kyowa
+clics-doculect-97-381,yuwa1244-std,concepticon-1385,5.82,lãʰtẽ,pepper,lakte
+clics-doculect-97-382,yuwa1244-std,concepticon-919,5.821,laʰtẽ,chili pepper,lakte
+clics-doculect-97-383,yuwa1244-std,concepticon-942,5.84,bãilã,honey,baila
+clics-doculect-97-384,yuwa1244-std,concepticon-862,5.85,ʰkalãlãʰyowã,sugar,kkalalakyowa
+clics-doculect-97-385,yuwa1244-std,concepticon-635,5.86,oteiʰyu,milk (noun),oteikyu
+clics-doculect-97-386,yuwa1244-std,concepticon-731,5.9,ʰyu,"beverage, drink",kyu
+clics-doculect-97-387,yuwa1244-std,concepticon-404,5.94,wikeʰyu,fermented drink,wikekyu
+clics-doculect-97-388,yuwa1244-std,concepticon-744,5.97,ɨke,egg,ike
+clics-doculect-97-389,yuwa1244-std,concepticon-1556,5.971,ɨkeʰweʰla,egg yolk,ikekwekla
+clics-doculect-97-390,yuwa1244-std,concepticon-158,6.11,ʰkabautɨ,put on (clothes),kkabauti
+clics-doculect-97-391,yuwa1244-std,concepticon-1895,6.12,toto,"clothing, clothes",toto
+clics-doculect-97-392,yuwa1244-std,concepticon-1616,6.21,toto,cloth,toto
+clics-doculect-97-393,yuwa1244-std,concepticon-1850,6.24,lẽwã,cotton,lewa
+clics-doculect-97-394,yuwa1244-std,concepticon-580,6.28,toto,fur,toto
+clics-doculect-97-395,yuwa1244-std,concepticon-629,6.29,toto,leather,toto
+clics-doculect-97-396,yuwa1244-std,concepticon-121,6.31,tiletɨ,spin,tileti
+clics-doculect-97-397,yuwa1244-std,concepticon-277,6.32,lẽwãlã,spindle,lewala
+clics-doculect-97-398,yuwa1244-std,concepticon-133,6.33,walẽ,weave,wale
+clics-doculect-97-399,yuwa1244-std,concepticon-133,6.33,totobou,weave,totobou
+clics-doculect-97-400,yuwa1244-std,concepticon-1457,6.35,teɨ,sew,tei
+clics-doculect-97-401,yuwa1244-std,concepticon-1382,6.36,ʰtibulu,needle,ktibulu
+clics-doculect-97-402,yuwa1244-std,concepticon-1161,6.38,hoho,thread,hoho
+clics-doculect-97-403,yuwa1244-std,concepticon-157,6.39,ʰkulilu,dye,kkulilu
+clics-doculect-97-404,yuwa1244-std,concepticon-474,6.42,toto,woman's dress,toto
+clics-doculect-97-405,yuwa1244-std,concepticon-1622,6.44,toto,shirt,toto
+clics-doculect-97-406,yuwa1244-std,concepticon-809,6.48,ikʸutoto,trousers,ikyutoto
+clics-doculect-97-407,yuwa1244-std,concepticon-329,6.49,bẽʰlãtoto,"stocking, sock",beklatoto
+clics-doculect-97-408,yuwa1244-std,concepticon-1381,6.51,bẽʰlãʰtaʰta,shoe,beklaktakta
+clics-doculect-97-409,yuwa1244-std,concepticon-2130,6.55,ʰtulaho,"hat, cap",ktulaho
+clics-doculect-97-410,yuwa1244-std,concepticon-772,6.57,ikʸoulãkaho,"belt, girdle",ikyoulakaho
+clics-doculect-97-411,yuwa1244-std,concepticon-757,6.62,tototale,button,tototale
+clics-doculect-97-412,yuwa1244-std,concepticon-64,6.63,ʰtibulu,pin,ktibulu
+clics-doculect-97-413,yuwa1244-std,concepticon-1754,6.74,bõlãkaho,bracelet,bolakaho
+clics-doculect-97-414,yuwa1244-std,concepticon-1961,6.75,ʰkʷãlãka,necklace,kkwalaka
+clics-doculect-97-415,yuwa1244-std,concepticon-1860,6.76,ʰkʷãlãka,bead,kkwalaka
+clics-doculect-97-416,yuwa1244-std,concepticon-770,6.77,olẽkaheʰle,earring,olekahekle
+clics-doculect-97-417,yuwa1244-std,concepticon-330,6.78,yewoʰtuwayaka,"headband, headdress",yewoktuwayaka
+clics-doculect-97-418,yuwa1244-std,concepticon-332,6.81,toto,"handkerchief, rag",toto
+clics-doculect-97-419,yuwa1244-std,concepticon-1021,6.82,auibutekato,towel,auibutekato
+clics-doculect-97-420,yuwa1244-std,concepticon-1475,6.91,ʰtuʰkʷeɨtekai,comb,ktukkweitekai
+clics-doculect-97-421,yuwa1244-std,concepticon-151,6.93,abiyeʰkʷeɨ'etekai,razor,abiyekkwei'etekai
+clics-doculect-97-422,yuwa1244-std,concepticon-1926,6.94,lãlã,ointment,lala
+clics-doculect-97-423,yuwa1244-std,concepticon-788,6.95,auibutekai,soap,auibutekai
+clics-doculect-97-424,yuwa1244-std,concepticon-1171,6.96,ʰkʷawetekai,mirror,kkwawetekai
+clics-doculect-97-425,yuwa1244-std,concepticon-363,7.11,bẽi,"dwell, live",bei
+clics-doculect-97-426,yuwa1244-std,concepticon-1252,7.12,lũwe,house,luwe
+clics-doculect-97-427,yuwa1244-std,concepticon-1678,7.13,lũwe,hut,luwe
+clics-doculect-97-428,yuwa1244-std,concepticon-403,7.131,lũwe,garden-house,luwe
+clics-doculect-97-429,yuwa1244-std,concepticon-334,7.17,ʰkʸɨlũwe,cookhouse,kkyiluwe
+clics-doculect-97-430,yuwa1244-std,concepticon-1450,7.21,laho,room,laho
+clics-doculect-97-431,yuwa1244-std,concepticon-1567,7.22,ulike,"door, gate",ulike
+clics-doculect-97-432,yuwa1244-std,concepticon-80,7.221,ulikeʰkãʰkã,"doorpost, jamb",ulikekkakka
+clics-doculect-97-433,yuwa1244-std,concepticon-1596,7.23,ʰkaʰkʷatɨtekai,lock (noun),kkakkwatitekai
+clics-doculect-97-434,yuwa1244-std,concepticon-1012,7.231,ʰkaʰkʷatɨtekai,"latch, door-bolt",kkakkwatitekai
+clics-doculect-97-435,yuwa1244-std,concepticon-1472,7.24,ʰkaʰkʷatɨtekai,key,kkakkwatitekai
+clics-doculect-97-436,yuwa1244-std,concepticon-1375,7.25,eʰkebolãhai,window,ekkebolahai
+clics-doculect-97-437,yuwa1244-std,concepticon-1632,7.26,ʰlẽi,floor,klei
+clics-doculect-97-438,yuwa1244-std,concepticon-933,7.27,lũweʰwaʰwa,wall,luwekwakwa
+clics-doculect-97-439,yuwa1244-std,concepticon-859,7.32,hɨlẽtɨtekai,stove,hiletitekai
+clics-doculect-97-440,yuwa1244-std,concepticon-1464,7.37,bõbaitekai,ladder,bobaitekai
+clics-doculect-97-441,yuwa1244-std,concepticon-1663,7.42,abuitekai,bed,abuitekai
+clics-doculect-97-442,yuwa1244-std,concepticon-806,7.422,abuitekato,blanket,abuitekato
+clics-doculect-97-443,yuwa1244-std,concepticon-1476,7.43,towãkĩtekai,chair,towakitekai
+clics-doculect-97-444,yuwa1244-std,concepticon-2131,7.45,bõko,"lamp, torch",boko
+clics-doculect-97-445,yuwa1244-std,concepticon-1273,7.46,bõko,candle,boko
+clics-doculect-97-446,yuwa1244-std,concepticon-769,7.51,lũwebĩlẽ,roof,luwebile
+clics-doculect-97-447,yuwa1244-std,concepticon-279,7.52,bãlaya,thatch,balaya
+clics-doculect-97-448,yuwa1244-std,concepticon-280,7.53,bẽbo,ridgepole,bebo
+clics-doculect-97-449,yuwa1244-std,concepticon-829,7.54,bẽbo,rafter,bebo
+clics-doculect-97-450,yuwa1244-std,concepticon-1132,7.55,bẽbo,beam,bebo
+clics-doculect-97-451,yuwa1244-std,concepticon-281,7.56,ʰkãʰkã,"post, pole",kkakka
+clics-doculect-97-452,yuwa1244-std,concepticon-1227,7.57,ʰtawɨheʰte,board,ktawihekte
+clics-doculect-97-453,yuwa1244-std,concepticon-901,7.64,ʰleʰte,adobe,klekte
+clics-doculect-97-454,yuwa1244-std,concepticon-212,8.12,balo,field (for cultivation),balo
+clics-doculect-97-455,yuwa1244-std,concepticon-586,8.13,balo,garden,balo
+clics-doculect-97-456,yuwa1244-std,concepticon-1541,8.15,balohu,"cultivate, till",balohu
+clics-doculect-97-457,yuwa1244-std,concepticon-1690,8.16,laho,fence,laho
+clics-doculect-97-458,yuwa1244-std,concepticon-2002,8.17,laike,ditch,laike
+clics-doculect-97-459,yuwa1244-std,concepticon-1418,8.22,hu,dig,hu
+clics-doculect-97-460,yuwa1244-std,concepticon-1176,8.23,ʰlẽihuwilabetekai,spade,kleihuwilabetekai
+clics-doculect-97-461,yuwa1244-std,concepticon-1901,8.24,ʰlẽihuwilabetekai,shovel,kleihuwilabetekai
+clics-doculect-97-462,yuwa1244-std,concepticon-284,8.25,ʰlẽihutekai,hoe,kleihutekai
+clics-doculect-97-463,yuwa1244-std,concepticon-338,8.27,ʰlẽiʰkʷeɨtekai,rake,kleikkweitekai
+clics-doculect-97-464,yuwa1244-std,concepticon-190,8.32,lẽɨ,"mow, reap",lei
+clics-doculect-97-465,yuwa1244-std,concepticon-506,8.47,ʰtãbu,"maize, corn",ktabu
+clics-doculect-97-466,yuwa1244-std,concepticon-606,8.51,'ʰkʸẽlõ,grass,'kkyelo
+clics-doculect-97-467,yuwa1244-std,concepticon-342,8.52,'ʰkʸẽlõ,hay,'kkyelo
+clics-doculect-97-468,yuwa1244-std,concepticon-1486,8.531,lɨtɨ,plant (vb),liti
+clics-doculect-97-469,yuwa1244-std,concepticon-670,8.54,ʰlaʰla,root,klakla
+clics-doculect-97-470,yuwa1244-std,concepticon-1531,8.55,wãwã,branch,wawa
+clics-doculect-97-471,yuwa1244-std,concepticon-628,8.56,ʰya,leaf,kya
+clics-doculect-97-472,yuwa1244-std,concepticon-239,8.57,bu,flower,bu
+clics-doculect-97-473,yuwa1244-std,concepticon-906,8.6,ʰtawɨ,tree,ktawi
+clics-doculect-97-474,yuwa1244-std,concepticon-343,8.67,ibuhu,vine,ibuhu
+clics-doculect-97-475,yuwa1244-std,concepticon-974,8.68,ʰkawoi,tobacco,kkawoi
+clics-doculect-97-476,yuwa1244-std,concepticon-241,8.72,ʰtawɨʰkãʰkã,tree stump,ktawikkakka
+clics-doculect-97-477,yuwa1244-std,concepticon-344,8.73,ʰtawɨʰyeɨ,tree trunk,ktawikyei
+clics-doculect-97-478,yuwa1244-std,concepticon-409,8.74,ãʰwã,forked branch,akwa
+clics-doculect-97-479,yuwa1244-std,concepticon-1204,8.75,toto,bark,toto
+clics-doculect-97-480,yuwa1244-std,concepticon-345,8.76,lãlã,sap,lala
+clics-doculect-97-481,yuwa1244-std,concepticon-1181,8.81,uluhĩ,palm tree,uluhi
+clics-doculect-97-482,yuwa1244-std,concepticon-868,8.84,heʰtalawãwã,banana tree,hektalawawa
+clics-doculect-97-483,yuwa1244-std,concepticon-159,8.91,iye,sweet potato,iye
+clics-doculect-97-484,yuwa1244-std,concepticon-410,8.912,iye,yam,iye
+clics-doculect-97-485,yuwa1244-std,concepticon-410,8.912,ʰwalẽ,yam,kwale
+clics-doculect-97-486,yuwa1244-std,concepticon-925,8.92,ale,"tapioca, manioc, cassava",ale
+clics-doculect-97-487,yuwa1244-std,concepticon-411,8.93,ʰlabo,gourd,klabo
+clics-doculect-97-488,yuwa1244-std,concepticon-864,8.931,ʰkuʰtehu,"pumpkin, squash",kkuktehu
+clics-doculect-97-489,yuwa1244-std,concepticon-1927,8.94,ʰtawibo,bamboo,ktawibo
+clics-doculect-97-490,yuwa1244-std,concepticon-146,8.941,ʰkalãlã,sugar cane,kkalala
+clics-doculect-97-491,yuwa1244-std,concepticon-348,8.96,bãʰtulẽ,fish poison (root),baktule
+clics-doculect-97-492,yuwa1244-std,concepticon-641,8.98,aʰkilõ,mushroom,akkilo
+clics-doculect-97-493,yuwa1244-std,concepticon-2575,9.11,bou,"do, make",bou
+clics-doculect-97-494,yuwa1244-std,concepticon-984,9.12,bou,work,bou
+clics-doculect-97-495,yuwa1244-std,concepticon-2004,9.14,ihkõ,bend,ihko
+clics-doculect-97-496,yuwa1244-std,concepticon-1470,9.15,boyatai,fold,boyatai
+clics-doculect-97-497,yuwa1244-std,concepticon-1917,9.16,alɨ̃tɨ,"tie, bind",aliti
+clics-doculect-97-498,yuwa1244-std,concepticon-352,9.161,ʰkuluwai,untie,kkuluwai
+clics-doculect-97-499,yuwa1244-std,concepticon-1218,9.19,hu,"rope, cord",hu
+clics-doculect-97-500,yuwa1244-std,concepticon-760,9.192,bẽko,knot (noun),beko
+clics-doculect-97-501,yuwa1244-std,concepticon-2133,9.21,ʰwau,"strike (hit, beat)",kwau
+clics-doculect-97-502,yuwa1244-std,concepticon-354,9.211,ʰwau,pound with fist,kwau
+clics-doculect-97-503,yuwa1244-std,concepticon-1432,9.22,ʰkʷai,cut,kkwai
+clics-doculect-97-504,yuwa1244-std,concepticon-355,9.221,huleɨ,cut down,hulei
+clics-doculect-97-505,yuwa1244-std,concepticon-155,9.222,ʰkeɨ,"chop, hew",kkei
+clics-doculect-97-506,yuwa1244-std,concepticon-1434,9.223,toʰkʷe,stab,tokkwe
+clics-doculect-97-507,yuwa1244-std,concepticon-1352,9.23,bãyelɨ̃toʰkʷe,knife,bayelitokkwe
+clics-doculect-97-508,yuwa1244-std,concepticon-356,9.24,ikʸuliʰketehai,"scissors, shears",ikyulikketehai
+clics-doculect-97-509,yuwa1244-std,concepticon-677,9.25,ʰtote,ax,ktote
+clics-doculect-97-510,yuwa1244-std,concepticon-290,9.251,ʰkʷeɨtekai,adze,kkweitekai
+clics-doculect-97-511,yuwa1244-std,concepticon-680,9.26,laiʰwi,break,laikwi
+clics-doculect-97-512,yuwa1244-std,concepticon-588,9.261,laiʰwitehai,broken,laikwitehai
+clics-doculect-97-513,yuwa1244-std,concepticon-1437,9.27,ʰkeɨ,split,kkei
+clics-doculect-97-514,yuwa1244-std,concepticon-1735,9.28,ʰtaʰtei,tear,ktaktei
+clics-doculect-97-515,yuwa1244-std,concepticon-291,9.29,ʰweiai,"flay, skin",kweiai
+clics-doculect-97-516,yuwa1244-std,concepticon-1449,9.31,ʰweɨtuwi,"rub, wipe",kweituwi
+clics-doculect-97-517,yuwa1244-std,concepticon-214,9.32,taulĩwe,stretch,tauliwe
+clics-doculect-97-518,yuwa1244-std,concepticon-1455,9.33,ʰtatɨ,pull,ktati
+clics-doculect-97-519,yuwa1244-std,concepticon-38,9.34,ʰkaliʰteiki,spread out,kkalikteiki
+clics-doculect-97-520,yuwa1244-std,concepticon-357,9.341,ʰkaakʷatɨ,hang up,kkaakwati
+clics-doculect-97-521,yuwa1244-std,concepticon-1913,9.342,luwetɨ,press,luweti
+clics-doculect-97-522,yuwa1244-std,concepticon-1414,9.343,bãlãtɨeʰlowabei,"squeeze, wring",balatieklowabei
+clics-doculect-97-523,yuwa1244-std,concepticon-1487,9.35,ʰkaʰyãi,pour,kkakyai
+clics-doculect-97-524,yuwa1244-std,concepticon-1453,9.36,autɨlɨ,wash,autili
+clics-doculect-97-525,yuwa1244-std,concepticon-230,9.37,ʰwatɨ,sweep,kwati
+clics-doculect-97-526,yuwa1244-std,concepticon-245,9.38,ʰlẽiʰwatɨtekai,broom,kleikwatitekai
+clics-doculect-97-527,yuwa1244-std,concepticon-1840,9.44,bou,build,bou
+clics-doculect-97-528,yuwa1244-std,concepticon-1501,9.46,buleʰtuwiwai,bore,bulektuwiwai
+clics-doculect-97-529,yuwa1244-std,concepticon-46,9.461,ʰkeɨ,hollow out,kkei
+clics-doculect-97-530,yuwa1244-std,concepticon-1948,9.48,ʰyatɨteɨ,saw,kyatitei
+clics-doculect-97-531,yuwa1244-std,concepticon-1481,9.49,ʰkulãbẽitɨ,hammer,kkulabeiti
+clics-doculect-97-532,yuwa1244-std,concepticon-1481,9.49,ʰwɨ̃lãbẽitɨ,hammer,kwilabeiti
+clics-doculect-97-533,yuwa1244-std,concepticon-502,9.5,heʰle,nail,hekle
+clics-doculect-97-534,yuwa1244-std,concepticon-1069,9.56,huteko,glue,huteko
+clics-doculect-97-535,yuwa1244-std,concepticon-289,9.72,ʰleʰteluwetɨ,mold (clay etc),klekteluweti
+clics-doculect-97-536,yuwa1244-std,concepticon-1399,9.73,ʰleʰte,clay,klekte
+clics-doculect-97-537,yuwa1244-std,concepticon-1729,9.75,walẽ,"weave, plait",wale
+clics-doculect-97-538,yuwa1244-std,concepticon-1539,9.76,lãla,basket,lala
+clics-doculect-97-539,yuwa1244-std,concepticon-195,9.77,ʰluʰluwe,mat,klukluwe
+clics-doculect-97-540,yuwa1244-std,concepticon-292,9.771,ʰluʰluwe,rug,klukluwe
+clics-doculect-97-541,yuwa1244-std,concepticon-293,9.78,ʰliye,netbag,kliye
+clics-doculect-97-542,yuwa1244-std,concepticon-1971,9.79,ʰkuleʰkaʰwe,fan (noun),kkulekkakwe
+clics-doculect-97-543,yuwa1244-std,concepticon-360,9.791,uwete,fan (vb),uwete
+clics-doculect-97-544,yuwa1244-std,concepticon-228,9.81,ʰkeɨ,carve,kkei
+clics-doculect-97-545,yuwa1244-std,concepticon-647,9.88,lãlã,paint (noun),lala
+clics-doculect-97-546,yuwa1244-std,concepticon-2001,9.89,tuwi,paint (vb),tuwi
+clics-doculect-97-547,yuwa1244-std,concepticon-2001,9.89,tuweo,paint (vb),tuweo
+clics-doculect-97-548,yuwa1244-std,concepticon-765,10.11,ũ,move,u
+clics-doculect-97-549,yuwa1244-std,concepticon-1588,10.12,bãtɨbalatɨ,turn over,batibalati
+clics-doculect-97-550,yuwa1244-std,concepticon-1445,10.13,ʰkabãlãlĩ,turn around,kkabalali
+clics-doculect-97-551,yuwa1244-std,concepticon-1113,10.14,ʰweɨ,"wind, wrap",kwei
+clics-doculect-97-552,yuwa1244-std,concepticon-827,10.15,heleli,roll,heleli
+clics-doculect-97-553,yuwa1244-std,concepticon-808,10.16,ʰyaiʰwi,drop (vb),kyaikwi
+clics-doculect-97-554,yuwa1244-std,concepticon-430,10.17,tuwi,twist,tuwi
+clics-doculect-97-555,yuwa1244-std,concepticon-568,10.21,ʰweili,rise,kweili
+clics-doculect-97-556,yuwa1244-std,concepticon-501,10.22,ʰka'ʰtebãi,"raise, lift",kka'ktebai
+clics-doculect-97-557,yuwa1244-std,concepticon-1280,10.23,ʰwi,fall,kwi
+clics-doculect-97-558,yuwa1244-std,concepticon-2253,10.24,lõu,drip,lou
+clics-doculect-97-559,yuwa1244-std,concepticon-1456,10.25,ʰkalũ,throw,kkalu
+clics-doculect-97-560,yuwa1244-std,concepticon-702,10.252,lũwẽte,catch (ball),luwete
+clics-doculect-97-561,yuwa1244-std,concepticon-1909,10.26,ʰkɨebu,shake,kkiebu
+clics-doculect-97-562,yuwa1244-std,concepticon-2003,10.32,helou,flow,helou
+clics-doculect-97-563,yuwa1244-std,concepticon-1088,10.33,ʰtaiʰwi,sink,ktaikwi
+clics-doculect-97-564,yuwa1244-std,concepticon-1574,10.34,ʰkawãlã,float,kkawala
+clics-doculect-97-565,yuwa1244-std,concepticon-1439,10.35,ʰkʷeiai,swim,kkweiai
+clics-doculect-97-566,yuwa1244-std,concepticon-119,10.351,hetoʰkʷaʰwitali,dive,hetokkwakwitali
+clics-doculect-97-567,yuwa1244-std,concepticon-365,10.352,auabibãyẽbei,splash,auabibayebei
+clics-doculect-97-568,yuwa1244-std,concepticon-1441,10.37,bõwe,fly (vb),bowe
+clics-doculect-97-569,yuwa1244-std,concepticon-1441,10.37,ʰkeleibilĩ,fly (vb),kkeleibili
+clics-doculect-97-570,yuwa1244-std,concepticon-175,10.38,hu,blow,hu
+clics-doculect-97-571,yuwa1244-std,concepticon-175,10.38,ʰkʸoʰweɨ,blow,kkyokwei
+clics-doculect-97-572,yuwa1244-std,concepticon-96,10.41,ʰlaʰkalãũ,"creep, crawl",klakkalau
+clics-doculect-97-573,yuwa1244-std,concepticon-66,10.412,bẽkoʰtuitewa,kneel,bekoktuitewa
+clics-doculect-97-574,yuwa1244-std,concepticon-296,10.413,bẽʰlãʰtutowã,crouch,beklaktutowa
+clics-doculect-97-575,yuwa1244-std,concepticon-1324,10.42,ikʸeʰwi,"slide, slip",ikyekwi
+clics-doculect-97-576,yuwa1244-std,concepticon-1829,10.43,ʰkatɨ,"jump, leap",kkati
+clics-doculect-97-577,yuwa1244-std,concepticon-1135,10.431,ʰkʷei,kick,kkwei
+clics-doculect-97-578,yuwa1244-std,concepticon-1879,10.44,bẽʰlãʰtɨ̃ʰtɨ̃,dance,beklaktikti
+clics-doculect-97-579,yuwa1244-std,concepticon-1443,10.45,bɨkeũ,walk,bikeu
+clics-doculect-97-580,yuwa1244-std,concepticon-366,10.451,ʰlẽɨ,limp,klei
+clics-doculect-97-581,yuwa1244-std,concepticon-1519,10.46,ʰlẽɨ,run,klei
+clics-doculect-97-582,yuwa1244-std,concepticon-695,10.47,wõi,go,woi
+clics-doculect-97-583,yuwa1244-std,concepticon-705,10.471,wõibi,go up,woibi
+clics-doculect-97-584,yuwa1244-std,concepticon-1102,10.472,bẽbai,climb,bebai
+clics-doculect-97-585,yuwa1244-std,concepticon-2014,10.473,beʰtai,go down,bektai
+clics-doculect-97-586,yuwa1244-std,concepticon-1107,10.474,laibiwõi,go out,laibiwoi
+clics-doculect-97-587,yuwa1244-std,concepticon-1446,10.48,ʰlu,come,klu
+clics-doculect-97-588,yuwa1244-std,concepticon-581,10.481,luweʰlu,come back,luweklu
+clics-doculect-97-589,yuwa1244-std,concepticon-1752,10.49,wõi,"go away, depart",woi
+clics-doculect-97-590,yuwa1244-std,concepticon-1752,10.49,luwe,"go away, depart",luwe
+clics-doculect-97-591,yuwa1244-std,concepticon-485,10.491,ʰtoweikabeibei,disappear,ktoweikabeibei
+clics-doculect-97-592,yuwa1244-std,concepticon-956,10.51,ʰtoweikaʰlẽɨye,flee,ktoweikakleiye
+clics-doculect-97-593,yuwa1244-std,concepticon-1085,10.52,ʰwɨ̃yãi,follow,kwiyai
+clics-doculect-97-594,yuwa1244-std,concepticon-1047,10.53,hole,pursue,hole
+clics-doculect-97-595,yuwa1244-std,concepticon-1387,10.55,ʰlu,"reach, arrive",klu
+clics-doculect-97-596,yuwa1244-std,concepticon-1778,10.56,ʰlu,approach,klu
+clics-doculect-97-597,yuwa1244-std,concepticon-749,10.57,ʰtali,enter,ktali
+clics-doculect-97-598,yuwa1244-std,concepticon-700,10.61,ʰkabĩ,carry (bear),kkabi
+clics-doculect-97-599,yuwa1244-std,concepticon-412,10.612,ʰkabĩ,carry-in-hand,kkabi
+clics-doculect-97-600,yuwa1244-std,concepticon-412,10.612,ʰkeleiabei,carry-in-hand,kkeleiabei
+clics-doculect-97-601,yuwa1244-std,concepticon-413,10.613,aʰkulelɨ̃wãlẽlẽ,carry-on-shoulder,akkuleliwalele
+clics-doculect-97-602,yuwa1244-std,concepticon-414,10.614,hebotai,carry-on-head,hebotai
+clics-doculect-97-603,yuwa1244-std,concepticon-415,10.615,ʰtileʰkɨweyãtei,carry-underarm,ktilekkiweyatei
+clics-doculect-97-604,yuwa1244-std,concepticon-692,10.62,luwi,bring,luwi
+clics-doculect-97-605,yuwa1244-std,concepticon-43,10.64,ʰtilẽ,lead (vb),ktile
+clics-doculect-97-606,yuwa1244-std,concepticon-741,10.65,ũ,drive,u
+clics-doculect-97-607,yuwa1244-std,concepticon-367,10.66,ũ,ride,u
+clics-doculect-97-608,yuwa1244-std,concepticon-1452,10.67,ʰyatɨũ,"push, shove",kyatiu
+clics-doculect-97-609,yuwa1244-std,concepticon-1452,10.67,ʰyatɨʰkʷei,"push, shove",kyatikkwei
+clics-doculect-97-610,yuwa1244-std,concepticon-667,10.71,bãlã,road,bala
+clics-doculect-97-611,yuwa1244-std,concepticon-2252,10.72,bãlã,path,bala
+clics-doculect-97-612,yuwa1244-std,concepticon-1011,10.74,hibɨeka,bridge,hibieka
+clics-doculect-97-613,yuwa1244-std,concepticon-122,10.75,ʰtatɨʰkʷeitekai,"carriage, wagon, cart",ktatikkweitekai
+clics-doculect-97-614,yuwa1244-std,concepticon-710,10.76,bãlãlĩbutekai,wheel,balalibutekai
+clics-doculect-97-615,yuwa1244-std,concepticon-1769,10.77,heʰle,axle,hekle
+clics-doculect-97-616,yuwa1244-std,concepticon-740,10.81,uliauʰtawɨ,ship,uliauktawi
+clics-doculect-97-617,yuwa1244-std,concepticon-1844,10.83,auʰtawɨ,boat,auktawi
+clics-doculect-97-618,yuwa1244-std,concepticon-1970,10.831,auʰtawɨ,canoe,auktawi
+clics-doculect-97-619,yuwa1244-std,concepticon-1664,10.84,auʰtawɨ,raft,auktawi
+clics-doculect-97-620,yuwa1244-std,concepticon-108,10.85,auʰtawɨheʰte,oar,auktawihekte
+clics-doculect-97-621,yuwa1244-std,concepticon-234,10.851,auʰtawɨheʰte,paddle (noun),auktawihekte
+clics-doculect-97-622,yuwa1244-std,concepticon-1849,10.852,holebĩ,row (vb),holebi
+clics-doculect-97-623,yuwa1244-std,concepticon-610,10.91,auʰtawɨbãhai,"harbor, port",auktawibahai
+clics-doculect-97-624,yuwa1244-std,concepticon-1922,10.92,ʰluʰwi,land (vb),klukwi
+clics-doculect-97-625,yuwa1244-std,concepticon-773,11.11,bã,have,ba
+clics-doculect-97-626,yuwa1244-std,concepticon-684,11.12,bã,"own, possess",ba
+clics-doculect-97-627,yuwa1244-std,concepticon-1749,11.13,boubẽi,take,boubei
+clics-doculect-97-628,yuwa1244-std,concepticon-2021,11.14,lũwẽtɨ,"seize, grasp",luweti
+clics-doculect-97-629,yuwa1244-std,concepticon-1448,11.15,ʰtilẽ,hold,ktile
+clics-doculect-97-630,yuwa1244-std,concepticon-694,11.16,ʰkabɨ̃,"get, obtain",kkabi
+clics-doculect-97-631,yuwa1244-std,concepticon-1477,11.17,ʰkaʰtɨ'te,"keep, retain",kkakti'te
+clics-doculect-97-632,yuwa1244-std,concepticon-738,11.18,hai,thing,hai
+clics-doculect-97-633,yuwa1244-std,concepticon-738,11.18,ha,thing,ha
+clics-doculect-97-634,yuwa1244-std,concepticon-738,11.18,hĩ,thing,hi
+clics-doculect-97-635,yuwa1244-std,concepticon-738,11.18,hoho,thing,hoho
+clics-doculect-97-636,yuwa1244-std,concepticon-738,11.18,bo,thing,bo
+clics-doculect-97-637,yuwa1244-std,concepticon-1447,11.21,ʰkaʰtɨ,give,kkakti
+clics-doculect-97-638,yuwa1244-std,concepticon-85,11.22,ʰleikaʰkaʰtɨ,give back,kleikakkakti
+clics-doculect-97-639,yuwa1244-std,concepticon-681,11.27,ʰkaʰtowailɨ̃,destroy,kkaktowaili
+clics-doculect-97-640,yuwa1244-std,concepticon-44,11.28,ʰkaʰtowai,"harm, injure, damage",kkaktowai
+clics-doculect-97-641,yuwa1244-std,concepticon-1468,11.31,welɨ,"seek, look for",weli
+clics-doculect-97-642,yuwa1244-std,concepticon-719,11.32,welɨlai,find,welilai
+clics-doculect-97-643,yuwa1244-std,concepticon-1660,11.33,ʰtowai,lose,ktowai
+clics-doculect-97-644,yuwa1244-std,concepticon-1095,11.34,ʰkalei,"release, let go",kkalei
+clics-doculect-97-645,yuwa1244-std,concepticon-1934,11.53,'aiwaabeitekajã,beggar,'aiwaabeitekaja
+clics-doculect-97-646,yuwa1244-std,concepticon-1774,11.54,ʰkaʰtɨ'tebãlɨ̃,"avaricious, stingy",kkakti'tebali
+clics-doculect-97-647,yuwa1244-std,concepticon-582,11.61,ʰkabĩ,lend,kkabi
+clics-doculect-97-648,yuwa1244-std,concepticon-1823,11.62,ʰkabĩ,borrow,kkabi
+clics-doculect-97-649,yuwa1244-std,concepticon-369,11.63,ʰke,owe,kke
+clics-doculect-97-650,yuwa1244-std,concepticon-718,11.65,ʰkaʰtɨ,pay (vb),kkakti
+clics-doculect-97-651,yuwa1244-std,concepticon-1869,11.81,abeibɨ̃,buy,abeibi
+clics-doculect-97-652,yuwa1244-std,concepticon-1571,11.82,ʰkaʰtɨ,sell,kkakti
+clics-doculect-97-653,yuwa1244-std,concepticon-2135,11.83,abei,"trade, barter",abei
+clics-doculect-97-654,yuwa1244-std,concepticon-884,11.91,ʰkaʰtɨ,share (distribute),kkakti
+clics-doculect-97-655,yuwa1244-std,concepticon-1685,12.1,tolã,after,tola
+clics-doculect-97-656,yuwa1244-std,concepticon-1685,12.1,hailã,after,haila
+clics-doculect-97-657,yuwa1244-std,concepticon-723,12.11,ikʸuke,place,ikyuke
+clics-doculect-97-658,yuwa1244-std,concepticon-1816,12.2,aʰkulẽ,beside,akkule
+clics-doculect-97-659,yuwa1244-std,concepticon-2094,12.3,ʰkʸaka,"down, below",kkyaka
+clics-doculect-97-660,yuwa1244-std,concepticon-2094,12.3,ʰkulẽ,"down, below",kkule
+clics-doculect-97-661,yuwa1244-std,concepticon-1882,12.4,ʰkɨwe,before,kkiwe
+clics-doculect-97-662,yuwa1244-std,concepticon-1019,12.41,akɨ,right (side),aki
+clics-doculect-97-663,yuwa1244-std,concepticon-1606,12.5,ʰkʷa,"inside, in",kkwa
+clics-doculect-97-664,yuwa1244-std,concepticon-762,12.6,ʰkʸoka,outside,kkyoka
+clics-doculect-97-665,yuwa1244-std,concepticon-1485,12.7,ʰkɨwe,under,kkiwe
+clics-doculect-97-666,yuwa1244-std,concepticon-1591,12.8,bɨ̃ke,"up, above",bike
+clics-doculect-97-667,yuwa1244-std,concepticon-1591,12.8,bĩlẽ,"up, above",bile
+clics-doculect-97-668,yuwa1244-std,concepticon-723,12.11,lo,place,lo
+clics-doculect-97-669,yuwa1244-std,concepticon-998,12.12,ʰkatɨtɨ,put,kkatiti
+clics-doculect-97-670,yuwa1244-std,concepticon-1416,12.13,towã,sit,towa
+clics-doculect-97-671,yuwa1244-std,concepticon-215,12.14,ʰyali,lie down,kyali
+clics-doculect-97-672,yuwa1244-std,concepticon-1442,12.15,wã,stand,wa
+clics-doculect-97-673,yuwa1244-std,concepticon-987,12.16,bẽɨ,"remain, stay",bei
+clics-doculect-97-674,yuwa1244-std,concepticon-7,12.21,bobɨ̃,"collect, gather",bobi
+clics-doculect-97-675,yuwa1244-std,concepticon-371,12.212,bobɨ̃,pick up,bobi
+clics-doculect-97-676,yuwa1244-std,concepticon-1576,12.213,bãi,pile up,bai
+clics-doculect-97-677,yuwa1244-std,concepticon-1743,12.22,ʰkalabẽi,"join, unite",kkalabei
+clics-doculect-97-678,yuwa1244-std,concepticon-1359,12.23,ʰkuluwai,separate,kkuluwai
+clics-doculect-97-679,yuwa1244-std,concepticon-1156,12.24,wai,open,wai
+clics-doculect-97-680,yuwa1244-std,concepticon-1046,12.25,wei,"shut, close",wei
+clics-doculect-97-681,yuwa1244-std,concepticon-761,12.26,ʰkalabẽitɨ,cover,kkalabeiti
+clics-doculect-97-682,yuwa1244-std,concepticon-602,12.27,ʰtowekaʰkabeibei,"hide, conceal",ktowekakkabeibei
+clics-doculect-97-683,yuwa1244-std,concepticon-1265,12.31,ʰtabɨ̃,high,ktabi
+clics-doculect-97-684,yuwa1244-std,concepticon-721,12.32,lẽilã,low,leila
+clics-doculect-97-685,yuwa1244-std,concepticon-1753,12.33,ʰtu,top,ktu
+clics-doculect-97-686,yuwa1244-std,concepticon-690,12.34,ikʸu,bottom,ikyu
+clics-doculect-97-687,yuwa1244-std,concepticon-742,12.35,ikʸu,end,ikyu
+clics-doculect-97-688,yuwa1244-std,concepticon-372,12.352,alulu,pointed,alulu
+clics-doculect-97-689,yuwa1244-std,concepticon-863,12.353,a,edge,a
+clics-doculect-97-690,yuwa1244-std,concepticon-682,12.36,aʰkulẽ,side,akkule
+clics-doculect-97-691,yuwa1244-std,concepticon-1093,12.37,ebõlã,"middle, center",ebola
+clics-doculect-97-692,yuwa1244-std,concepticon-1019,12.41,baʰkeibõbãhailɨ̃,right (side),bakkeibobahaili
+clics-doculect-97-693,yuwa1244-std,concepticon-244,12.42,wõikobõbãhailɨ̃,left (side),woikobobahaili
+clics-doculect-97-694,yuwa1244-std,concepticon-1942,12.43,habẽilã,near (adv),habeila
+clics-doculect-97-695,yuwa1244-std,concepticon-1406,12.44,yãʰtoʰto,far (adv),yaktokto
+clics-doculect-97-696,yuwa1244-std,concepticon-479,12.53,ʰwoi,grow,kwoi
+clics-doculect-97-697,yuwa1244-std,concepticon-1506,12.54,ʰkalãbẽitɨwe,measure,kkalabeitiwe
+clics-doculect-97-698,yuwa1244-std,concepticon-1202,12.55,uli,"large, big",uli
+clics-doculect-97-699,yuwa1244-std,concepticon-1246,12.56,halĩ,"small, little",hali
+clics-doculect-97-700,yuwa1244-std,concepticon-1203,12.57,ʰtabɨ̃,long,ktabi
+clics-doculect-97-701,yuwa1244-std,concepticon-711,12.58,ʰtabɨ̃,tall,ktabi
+clics-doculect-97-702,yuwa1244-std,concepticon-1645,12.59,aliʰkʷete,short,alikkwete
+clics-doculect-97-703,yuwa1244-std,concepticon-1243,12.61,bahtu,"wide, broad",bahtu
+clics-doculect-97-704,yuwa1244-std,concepticon-1267,12.62,lãlẽ,narrow,lale
+clics-doculect-97-705,yuwa1244-std,concepticon-1244,12.63,bahtu,thick (in dimension),bahtu
+clics-doculect-97-706,yuwa1244-std,concepticon-2249,12.65,lãlẽ,thin (in dimension),lale
+clics-doculect-97-707,yuwa1244-std,concepticon-1593,12.67,ʰkʷalẽi,deep,kkwalei
+clics-doculect-97-708,yuwa1244-std,concepticon-193,12.68,eleikate,shallow,eleikate
+clics-doculect-97-709,yuwa1244-std,concepticon-1404,12.73,ʰtɨboikʸa,straight,ktiboikya
+clics-doculect-97-710,yuwa1244-std,concepticon-297,12.74,wilo,crooked,wilo
+clics-doculect-97-711,yuwa1244-std,concepticon-1071,12.75,akã,hook,aka
+clics-doculect-97-712,yuwa1244-std,concepticon-1395,12.81,libute,round,libute
+clics-doculect-97-713,yuwa1244-std,concepticon-1467,12.82,libute,circle,libute
+clics-doculect-97-714,yuwa1244-std,concepticon-1845,12.83,hu,"sphere, ball",hu
+clics-doculect-97-715,yuwa1244-std,concepticon-1048,12.84,hu,line,hu
+clics-doculect-97-716,yuwa1244-std,concepticon-1048,12.84,hoho,line,hoho
+clics-doculect-97-717,yuwa1244-std,concepticon-1667,12.85,laike,hole,laike
+clics-doculect-97-718,yuwa1244-std,concepticon-1558,12.92,bobã,"like, similar",boba
+clics-doculect-97-719,yuwa1244-std,concepticon-1264,12.93,beibei,change,beibei
+clics-doculect-97-720,yuwa1244-std,concepticon-1294,13.0,hawa'te,"zero, nothing",hawa'te
+clics-doculect-97-721,yuwa1244-std,concepticon-1493,13.1,hoteya,one,hoteya
+clics-doculect-97-722,yuwa1244-std,concepticon-1493,13.1,ʰtitekʸa,one,ktitekya
+clics-doculect-97-723,yuwa1244-std,concepticon-1493,13.1,hãtõhã,one,hatoha
+clics-doculect-97-724,yuwa1244-std,concepticon-1498,13.2,ʰwekʸato,two,kwekyato
+clics-doculect-97-725,yuwa1244-std,concepticon-1498,13.2,ʰwekʸaatei,two,kwekyaatei
+clics-doculect-97-726,yuwa1244-std,concepticon-1498,13.2,ʰwekʸatɨ,two,kwekyati
+clics-doculect-97-727,yuwa1244-std,concepticon-492,13.3,ʰwekʸato,three,kwekyato
+clics-doculect-97-728,yuwa1244-std,concepticon-492,13.3,ʰwekʸaatei,three,kwekyaatei
+clics-doculect-97-729,yuwa1244-std,concepticon-492,13.3,ʰwekʸatɨ,three,kwekyati
+clics-doculect-97-730,yuwa1244-std,concepticon-1500,13.4,aiwato,four,aiwato
+clics-doculect-97-731,yuwa1244-std,concepticon-1500,13.4,aiwaatei,four,aiwaatei
+clics-doculect-97-732,yuwa1244-std,concepticon-1500,13.4,'aiʰyatɨ,four,'aikyati
+clics-doculect-97-733,yuwa1244-std,concepticon-493,13.5,aiwato,five,aiwato
+clics-doculect-97-734,yuwa1244-std,concepticon-493,13.5,aiwaatei,five,aiwaatei
+clics-doculect-97-735,yuwa1244-std,concepticon-493,13.5,'aiʰyatɨ,five,'aikyati
+clics-doculect-97-736,yuwa1244-std,concepticon-1703,13.6,aiwato,six,aiwato
+clics-doculect-97-737,yuwa1244-std,concepticon-1703,13.6,aiwaatei,six,aiwaatei
+clics-doculect-97-738,yuwa1244-std,concepticon-1703,13.6,'aiʰyatɨ,six,'aikyati
+clics-doculect-97-739,yuwa1244-std,concepticon-98,13.14,bwekʸato,"every, all",bwekyato
+clics-doculect-97-740,yuwa1244-std,concepticon-98,13.14,bwekʸaatei,"every, all",bwekyaatei
+clics-doculect-97-741,yuwa1244-std,concepticon-98,13.14,bwekʸatɨ,"every, all",bwekyati
+clics-doculect-97-742,yuwa1244-std,concepticon-1198,13.15,yãaiwato,"much, many",yaaiwato
+clics-doculect-97-743,yuwa1244-std,concepticon-1198,13.15,yãaiwaatei,"much, many",yaaiwaatei
+clics-doculect-97-744,yuwa1244-std,concepticon-1198,13.15,yã'aiʰyatɨ,"much, many",ya'aikyati
+clics-doculect-97-745,yuwa1244-std,concepticon-1242,13.17,ʰwekʸato,"little (quantity), few",kwekyato
+clics-doculect-97-746,yuwa1244-std,concepticon-1242,13.17,ʰwekʸaatei,"little (quantity), few",kwekyaatei
+clics-doculect-97-747,yuwa1244-std,concepticon-1242,13.17,ʰwekʸatɨ,"little (quantity), few",kwekyati
+clics-doculect-97-748,yuwa1244-std,concepticon-1881,13.18,ʰta,enough,kta
+clics-doculect-97-749,yuwa1244-std,concepticon-1241,13.181,ʰwekʸato,some,kwekyato
+clics-doculect-97-750,yuwa1244-std,concepticon-1241,13.181,ʰwekʸaatei,some,kwekyaatei
+clics-doculect-97-751,yuwa1244-std,concepticon-1241,13.181,ʰwekʸatɨ,some,kwekyati
+clics-doculect-97-752,yuwa1244-std,concepticon-2023,13.19,yãʰti'aihatɨ,"multitude, crowd",yakti'aihati
+clics-doculect-97-753,yuwa1244-std,concepticon-1429,13.21,abĩ,full,abi
+clics-doculect-97-754,yuwa1244-std,concepticon-1624,13.22,hai'te,empty,hai'te
+clics-doculect-97-755,yuwa1244-std,concepticon-1624,13.22,ʰyu'te,empty,kyu'te
+clics-doculect-97-756,yuwa1244-std,concepticon-1580,13.33,hoteya,"alone, only",hoteya
+clics-doculect-97-757,yuwa1244-std,concepticon-1580,13.33,ʰtitekʸa,"alone, only",ktitekya
+clics-doculect-97-758,yuwa1244-std,concepticon-1580,13.33,hãtõhã,"alone, only",hatoha
+clics-doculect-97-759,yuwa1244-std,concepticon-728,13.34,yãakɨ,first,yaaki
+clics-doculect-97-760,yuwa1244-std,concepticon-1529,13.35,yãʰtiikʸuke,last,yaktiikyuke
+clics-doculect-97-761,yuwa1244-std,concepticon-1384,13.36,ikʸuke,second,ikyuke
+clics-doculect-97-762,yuwa1244-std,concepticon-1546,13.38,ʰwekʸalã,two times,kwekyala
+clics-doculect-97-763,yuwa1244-std,concepticon-417,13.44,ʰwekʸalã,three times,kwekyala
+clics-doculect-97-764,yuwa1244-std,concepticon-1207,14.14,baihã,young,baiha
+clics-doculect-97-765,yuwa1244-std,concepticon-1229,14.15,ʰtawo,old,ktawo
+clics-doculect-97-766,yuwa1244-std,concepticon-672,14.16,yãbɨ̃lẽ,early,yabile
+clics-doculect-97-767,yuwa1244-std,concepticon-477,14.17,ʰtaʰtite,late,ktaktite
+clics-doculect-97-768,yuwa1244-std,concepticon-1376,14.18,yãbai,now,yabai
+clics-doculect-97-769,yuwa1244-std,concepticon-1963,14.19,yãbai,immediately,yabai
+clics-doculect-97-770,yuwa1244-std,concepticon-1631,14.21,yãitete,"swift, fast, quick",yaitete
+clics-doculect-97-771,yuwa1244-std,concepticon-701,14.22,yãʰkolã,slow,yakkola
+clics-doculect-97-772,yuwa1244-std,concepticon-754,14.23,yãbɨ̃lẽ,"hasten, hurry",yabile
+clics-doculect-97-773,yuwa1244-std,concepticon-425,14.24,yãʰkolã,"retard, delay",yakkola
+clics-doculect-97-774,yuwa1244-std,concepticon-1806,14.25,bai,"begin, beginning",bai
+clics-doculect-97-775,yuwa1244-std,concepticon-743,14.26,tebai,end (temporal),tebai
+clics-doculect-97-776,yuwa1244-std,concepticon-1766,14.27,lɨ̃,finish,li
+clics-doculect-97-777,yuwa1244-std,concepticon-1928,14.28,bẽtaili,"cease, stop",betaili
+clics-doculect-97-778,yuwa1244-std,concepticon-790,14.29,ʰta,ready,kta
+clics-doculect-97-779,yuwa1244-std,concepticon-703,14.331,bai,soon,bai
+clics-doculect-97-780,yuwa1244-std,concepticon-703,14.331,bɨ̃lẽ,soon,bile
+clics-doculect-97-781,yuwa1244-std,concepticon-418,14.332,baitebaite,long-time (for a),baitebaite
+clics-doculect-97-782,yuwa1244-std,concepticon-204,14.35,ʰyuwẽ,again,kyuwe
+clics-doculect-97-783,yuwa1244-std,concepticon-1225,14.41,ʰkʸato,day,kkyato
+clics-doculect-97-784,yuwa1244-std,concepticon-1233,14.42,ʰtiʰkʷetoʰkʷa,night,ktikkwetokkwa
+clics-doculect-97-785,yuwa1244-std,concepticon-729,14.43,halĩʰkʸatobai,dawn,halikkyatobai
+clics-doculect-97-786,yuwa1244-std,concepticon-1339,14.44,ʰtɨilẽ,morning,ktiile
+clics-doculect-97-787,yuwa1244-std,concepticon-12,14.45,ʰtuweebõ,"noon, midday",ktuweebo
+clics-doculect-97-788,yuwa1244-std,concepticon-1807,14.451,ʰtilẽwãʰkʸakaikʸubaitolã,afternoon,ktilewakkyakaikyubaitola
+clics-doculect-97-789,yuwa1244-std,concepticon-1629,14.46,ʰtaʰtitolã,evening,ktaktitola
+clics-doculect-97-790,yuwa1244-std,concepticon-1283,14.47,bɨweyaʰkʸatolɨ̃,today,biweyakkyatoli
+clics-doculect-97-791,yuwa1244-std,concepticon-1329,14.48,ʰyuwẽʰkʸatobaitolã,tomorrow,kyuwekkyatobaitola
+clics-doculect-97-792,yuwa1244-std,concepticon-1179,14.481,abaleʰyuwẽʰkʸatobaitolã,day-after-tomorrow,abalekyuwekkyatobaitola
+clics-doculect-97-793,yuwa1244-std,concepticon-1174,14.49,bãikaʰkʸatobaitolã,yesterday,baikakkyatobaitola
+clics-doculect-97-794,yuwa1244-std,concepticon-1180,14.491,'bãikabãʰkʸatobaitolã,day-before-yesterday,'baikabakkyatobaitola
+clics-doculect-97-795,yuwa1244-std,concepticon-1537,14.75,obai,spring,obai
+clics-doculect-97-796,yuwa1244-std,concepticon-1342,14.76,ʰtuwebai,summer,ktuwebai
+clics-doculect-97-797,yuwa1244-std,concepticon-1587,15.21,bĩwe,smell (vb intrans),biwe
+clics-doculect-97-798,yuwa1244-std,concepticon-375,15.212,bĩkĩwe,sniff,bikiwe
+clics-doculect-97-799,yuwa1244-std,concepticon-1586,15.22,bĩkĩwe,smell (vb trans),bikiwe
+clics-doculect-97-800,yuwa1244-std,concepticon-376,15.25,ɨlẽka,"fragrant, good smelling",ileka
+clics-doculect-97-801,yuwa1244-std,concepticon-42,15.26,ʰwaka,"stinking, bad smelling",kwaka
+clics-doculect-97-802,yuwa1244-std,concepticon-21,15.31,hibu,taste,hibu
+clics-doculect-97-803,yuwa1244-std,concepticon-717,15.35,ɨlẽka,sweet,ileka
+clics-doculect-97-804,yuwa1244-std,concepticon-1091,15.36,ɨlẽka,salty,ileka
+clics-doculect-97-805,yuwa1244-std,concepticon-887,15.37,ʰtuʰkewaka,bitter,ktukkewaka
+clics-doculect-97-806,yuwa1244-std,concepticon-1906,15.38,wike,"acid, sour",wike
+clics-doculect-97-807,yuwa1244-std,concepticon-70,15.39,ɨlẽka'botebã,brackish,ileka'boteba
+clics-doculect-97-808,yuwa1244-std,concepticon-1408,15.41,ãku,hear,aku
+clics-doculect-97-809,yuwa1244-std,concepticon-1608,15.42,ãku,listen,aku
+clics-doculect-97-810,yuwa1244-std,concepticon-1811,15.44,hobei,"sound, noise",hobei
+clics-doculect-97-811,yuwa1244-std,concepticon-377,15.45,yã'ʰkolãte,loud,ya'kkolate
+clics-doculect-97-812,yuwa1244-std,concepticon-1314,15.46,ʰkʸobẽtai,"quiet, silence",kkyobetai
+clics-doculect-97-813,yuwa1244-std,concepticon-1409,15.51,we,see,we
+clics-doculect-97-814,yuwa1244-std,concepticon-1819,15.52,we,"look, look at",we
+clics-doculect-97-815,yuwa1244-std,concepticon-1039,15.55,ʰkekʷeloba,show,kkekweloba
+clics-doculect-97-816,yuwa1244-std,concepticon-708,15.56,ʰyoli,shine,kyoli
+clics-doculect-97-817,yuwa1244-std,concepticon-679,15.57,uliwalãʰyoli,bright,uliwalakyoli
+clics-doculect-97-818,yuwa1244-std,concepticon-250,15.62,kʸabo,light (in color),kyabo
+clics-doculect-97-819,yuwa1244-std,concepticon-706,15.63,waleiʰte,dark (in color),waleikte
+clics-doculect-97-820,yuwa1244-std,concepticon-1335,15.64,kʸabo,white,kyabo
+clics-doculect-97-821,yuwa1244-std,concepticon-163,15.65,waleiʰte,black,waleikte
+clics-doculect-97-822,yuwa1244-std,concepticon-156,15.66,tuwẽlõ,red,tuwelo
+clics-doculect-97-823,yuwa1244-std,concepticon-837,15.67,lũʰtibo,blue,luktibo
+clics-doculect-97-824,yuwa1244-std,concepticon-1425,15.68,lũʰtibo,green,luktibo
+clics-doculect-97-825,yuwa1244-std,concepticon-1424,15.69,tuwẽlõ,yellow,tuwelo
+clics-doculect-97-826,yuwa1244-std,concepticon-1424,15.69,kʸabo,yellow,kyabo
+clics-doculect-97-827,yuwa1244-std,concepticon-1892,15.71,hi,touch,hi
+clics-doculect-97-828,yuwa1244-std,concepticon-378,15.712,lũwẽtɨ,pinch,luweti
+clics-doculect-97-829,yuwa1244-std,concepticon-1079,15.72,bõlɨ̃we,feel,boliwe
+clics-doculect-97-830,yuwa1244-std,concepticon-1884,15.74,ikʸaka,hard,ikyaka
+clics-doculect-97-831,yuwa1244-std,concepticon-1856,15.75,ʰkeilõwãlõ,soft,kkeilowalo
+clics-doculect-97-832,yuwa1244-std,concepticon-1923,15.76,huluwaka,rough,huluwaka
+clics-doculect-97-833,yuwa1244-std,concepticon-1234,15.77,ʰteiʰteiwa,smooth,kteikteiwa
+clics-doculect-97-834,yuwa1244-std,concepticon-1396,15.78,aʰkuwe'te,sharp,akkuwe'te
+clics-doculect-97-835,yuwa1244-std,concepticon-379,15.79,ʰkuʰtai,"blunt, dull",kkuktai
+clics-doculect-97-836,yuwa1244-std,concepticon-1210,15.81,'bẽkito,heavy,'bekito
+clics-doculect-97-837,yuwa1244-std,concepticon-1052,15.82,ʰkãhõ,light (in weight),kkaho
+clics-doculect-97-838,yuwa1244-std,concepticon-1726,15.83,ʰkʷata,"wet, damp",kkwata
+clics-doculect-97-839,yuwa1244-std,concepticon-1398,15.84,ʰkai,dry,kkai
+clics-doculect-97-840,yuwa1244-std,concepticon-1286,15.85,ʰtuweʰto,hot,ktuwekto
+clics-doculect-97-841,yuwa1244-std,concepticon-1232,15.851,halĩwalãʰtuweʰto,warm,haliwalaktuwekto
+clics-doculect-97-842,yuwa1244-std,concepticon-1287,15.86,ʰkẽhõ,cold,kkeho
+clics-doculect-97-843,yuwa1244-std,concepticon-704,15.87,kʸabo,clean,kyabo
+clics-doculect-97-844,yuwa1244-std,concepticon-1230,15.88,waleiʰte,"dirty, soiled",waleikte
+clics-doculect-97-845,yuwa1244-std,concepticon-53,16.11,aweila,"soul, spirit",aweila
+clics-doculect-97-846,yuwa1244-std,concepticon-1572,16.15,ʰkaitiwɨ,"surprised, astonished",kkaitiwi
+clics-doculect-97-847,yuwa1244-std,concepticon-1495,16.23,awokɨ,"joyful, glad, happy",awoki
+clics-doculect-97-848,yuwa1244-std,concepticon-1355,16.25,awokɨ,laugh,awoki
+clics-doculect-97-849,yuwa1244-std,concepticon-1451,16.251,awokɨ,smile,awoki
+clics-doculect-97-850,yuwa1244-std,concepticon-1413,16.26,ahweo,play,ahweo
+clics-doculect-97-851,yuwa1244-std,concepticon-578,16.29,alɨ̃ʰluʰluwe,kiss,aliklukluwe
+clics-doculect-97-852,yuwa1244-std,concepticon-928,16.3,atokẽ,embrace,atoke
+clics-doculect-97-853,yuwa1244-std,concepticon-1783,16.31,hulu,pain,hulu
+clics-doculect-97-854,yuwa1244-std,concepticon-1668,16.32,awokɨ'te,"grief, sorrow, sadness",awoki'te
+clics-doculect-97-855,yuwa1244-std,concepticon-1839,16.37,ʰkelou,"cry, weep",kkelou
+clics-doculect-97-856,yuwa1244-std,concepticon-1651,16.38,ʰtaʰteikɨtehai,tear (noun),ktakteikitehai
+clics-doculect-97-857,yuwa1244-std,concepticon-716,16.39,yãʰkolãʰwai,groan,yakkolakwai
+clics-doculect-97-858,yuwa1244-std,concepticon-1607,16.41,weitewe,hate,weitewe
+clics-doculect-97-859,yuwa1244-std,concepticon-82,16.42,lowali,anger,lowali
+clics-doculect-97-860,yuwa1244-std,concepticon-1776,16.45,ʰkaʰtau,shame (noun),kkaktau
+clics-doculect-97-861,yuwa1244-std,concepticon-781,16.53,itiwɨ,"fear, fright",itiwi
+clics-doculect-97-862,yuwa1244-std,concepticon-1784,16.62,toba,"desire, want",toba
+clics-doculect-97-863,yuwa1244-std,concepticon-601,16.67,ĩlãũ,"lie, tell lies",ilau
+clics-doculect-97-864,yuwa1244-std,concepticon-13,16.68,ĩlãũ,deceit,ilau
+clics-doculect-97-865,yuwa1244-std,concepticon-1035,16.71,bũʰkete,good,bukkete
+clics-doculect-97-866,yuwa1244-std,concepticon-1292,16.72,yãhai,bad,yahai
+clics-doculect-97-867,yuwa1244-std,concepticon-1292,16.72,yãhã,bad,yaha
+clics-doculect-97-868,yuwa1244-std,concepticon-1725,16.73,ʰtɨboiʰya,"right, correct",ktiboikya
+clics-doculect-97-869,yuwa1244-std,concepticon-1390,16.74,yãhawalã,wrong,yahawala
+clics-doculect-97-870,yuwa1244-std,concepticon-1427,16.81,ʰtihai,beautiful,ktihai
+clics-doculect-97-871,yuwa1244-std,concepticon-1427,16.81,ʰtihã,beautiful,ktiha
+clics-doculect-97-872,yuwa1244-std,concepticon-1427,16.81,ʰtiha,beautiful,ktiha
+clics-doculect-97-873,yuwa1244-std,concepticon-1548,16.82,yãhã,ugly,yaha
+clics-doculect-97-874,yuwa1244-std,concepticon-1548,16.82,yãhai,ugly,yahai
+clics-doculect-97-875,yuwa1244-std,concepticon-1415,17.13,ũ,think (= reflect),u
+clics-doculect-97-876,yuwa1244-std,concepticon-1513,17.14,ũ,think (= be of the opinion),u
+clics-doculect-97-877,yuwa1244-std,concepticon-1536,17.16,ãku,understand,aku
+clics-doculect-97-878,yuwa1244-std,concepticon-1410,17.17,ãku,know,aku
+clics-doculect-97-879,yuwa1244-std,concepticon-1932,17.171,ũ,guess,u
+clics-doculect-97-880,yuwa1244-std,concepticon-117,17.172,bau,imitate,bau
+clics-doculect-97-881,yuwa1244-std,concepticon-1521,17.18,ũ,seem,u
+clics-doculect-97-882,yuwa1244-std,concepticon-1899,17.23,ĩlãũ,"insane, crazy",ilau
+clics-doculect-97-883,yuwa1244-std,concepticon-504,17.24,ãkubai,learn,akubai
+clics-doculect-97-884,yuwa1244-std,concepticon-1929,17.242,ãkubai,study,akubai
+clics-doculect-97-885,yuwa1244-std,concepticon-709,17.25,ũtɨʰtɨ,teach,utikti
+clics-doculect-97-886,yuwa1244-std,concepticon-707,17.31,bɨtekɨ,remember,biteki
+clics-doculect-97-887,yuwa1244-std,concepticon-1523,17.32,bũʰliye,forget,bukliye
+clics-doculect-97-888,yuwa1244-std,concepticon-1121,17.36,ʰtoweikaũtɨtehai,secret,ktoweikautitehai
+clics-doculect-97-889,yuwa1244-std,concepticon-1626,17.38,ũtɨʰtɨ,explain,utikti
+clics-doculect-97-890,yuwa1244-std,concepticon-1812,17.48,we,"try, attempt",we
+clics-doculect-97-891,yuwa1244-std,concepticon-1157,17.52,ĩbɨ,because,ibi
+clics-doculect-97-892,yuwa1244-std,concepticon-1459,17.53,tolã,if,tola
+clics-doculect-97-893,yuwa1244-std,concepticon-1268,17.55,hã,"yes, affirmative",ha
+clics-doculect-97-894,yuwa1244-std,concepticon-1269,17.56,ĩte,"no, negative",ite
+clics-doculect-97-895,yuwa1244-std,concepticon-1239,17.61,hibɨ,how?,hibi
+clics-doculect-97-896,yuwa1244-std,concepticon-822,17.62,hibɨaiwa,how many?,hibiaiwa
+clics-doculect-97-897,yuwa1244-std,concepticon-531,17.63,hibɨaiwa,how much?,hibiaiwa
+clics-doculect-97-898,yuwa1244-std,concepticon-1236,17.64,hibɨ,what?,hibi
+clics-doculect-97-899,yuwa1244-std,concepticon-1238,17.65,tolã,when?,tola
+clics-doculect-97-900,yuwa1244-std,concepticon-1237,17.66,'ʰtebolã,where?,'ktebola
+clics-doculect-97-901,yuwa1244-std,concepticon-727,17.67,ʰtebo,which?,ktebo
+clics-doculect-97-902,yuwa1244-std,concepticon-1235,17.68,ʰwẽya,who?,kweya
+clics-doculect-97-903,yuwa1244-std,concepticon-1235,17.68,ʰwoiyu,who?,kwoiyu
+clics-doculect-97-904,yuwa1244-std,concepticon-1270,17.69,hibɨ̃ĩbɨ,why?,hibiibi
+clics-doculect-97-905,yuwa1244-std,concepticon-1261,18.12,hobei,sing,hobei
+clics-doculect-97-906,yuwa1244-std,concepticon-715,18.13,ʰwai,"shout, cry out",kwai
+clics-doculect-97-907,yuwa1244-std,concepticon-55,18.15,ʰkolãũtɨ,whisper,kkolauti
+clics-doculect-97-908,yuwa1244-std,concepticon-128,18.16,yãhawalãũtɨ,mumble,yahawalauti
+clics-doculect-97-909,yuwa1244-std,concepticon-1025,18.17,bute,whistle,bute
+clics-doculect-97-910,yuwa1244-std,concepticon-298,18.18,ʰwai,"shriek, screech",kwai
+clics-doculect-97-911,yuwa1244-std,concepticon-526,18.19,ʰwai,howl,kwai
+clics-doculect-97-912,yuwa1244-std,concepticon-1623,18.21,utɨ,"speak, talk",uti
+clics-doculect-97-913,yuwa1244-std,concepticon-1866,18.211,wõikobõlãũtɨ,"stutter, stammer",woikobolauti
+clics-doculect-97-914,yuwa1244-std,concepticon-1458,18.22,ũtɨ,say,uti
+clics-doculect-97-915,yuwa1244-std,concepticon-1711,18.221,ũtɨʰtɨ,tell story,utikti
+clics-doculect-97-916,yuwa1244-std,concepticon-1115,18.222,ũtɨʰtɨ,speech (make a),utikti
+clics-doculect-97-917,yuwa1244-std,concepticon-48,18.23,ũtɨtebã,silent (be),utiteba
+clics-doculect-97-918,yuwa1244-std,concepticon-1307,18.24,ũtɨtehawa,language,utitehawa
+clics-doculect-97-919,yuwa1244-std,concepticon-1599,18.26,ũtɨtehai,word,utitehai
+clics-doculect-97-920,yuwa1244-std,concepticon-1309,18.31,abeiãku,"ask (question, inquire)",abeiaku
+clics-doculect-97-921,yuwa1244-std,concepticon-1275,18.32,ĩlããkukʸe,answer,ilaakukye
+clics-doculect-97-922,yuwa1244-std,concepticon-1828,18.35,abei,"ask, request",abei
+clics-doculect-97-923,yuwa1244-std,concepticon-49,18.37,ʰkʷoi,refuse,kkwoi
+clics-doculect-97-924,yuwa1244-std,concepticon-1084,18.41,abeibɨ̃,call (=summon),abeibi
+clics-doculect-97-925,yuwa1244-std,concepticon-180,18.42,hibɨtekãta,call (=name),hibitekata
+clics-doculect-97-926,yuwa1244-std,concepticon-9,18.43,ũtɨ,announce,uti
+clics-doculect-97-927,yuwa1244-std,concepticon-1672,18.51,ʰkalĩtɨ,write,kkaliti
+clics-doculect-97-928,yuwa1244-std,concepticon-724,18.52,beiteiwe,read,beiteiwe
+clics-doculect-97-929,yuwa1244-std,concepticon-648,18.56,ʰtuʰkuʰya,paper,ktukkukya
+clics-doculect-97-930,yuwa1244-std,concepticon-794,18.57,ʰkalĩtɨtehai,pen,kkalititehai
+clics-doculect-97-931,yuwa1244-std,concepticon-777,18.71,ʰtaʰwibo,flute,ktakwibo
+clics-doculect-97-932,yuwa1244-std,concepticon-777,18.71,ʰwãbo,flute,kwabo
+clics-doculect-97-933,yuwa1244-std,concepticon-2136,18.73,ʰtaʰwibo,"horn, trumpet",ktakwibo
+clics-doculect-97-934,yuwa1244-std,concepticon-300,18.74,ʰtuiʰta,rattle,ktuikta
+clics-doculect-97-935,yuwa1244-std,concepticon-1391,19.15,balo,"city, town",balo
+clics-doculect-97-936,yuwa1244-std,concepticon-930,19.16,balo,village,balo
+clics-doculect-97-937,yuwa1244-std,concepticon-789,19.21,hotɨ,people (populace),hoti
+clics-doculect-97-938,yuwa1244-std,concepticon-1296,19.25,ʰtawɨtouũtekahai,"staff, walking stick",ktawitouutekahai
+clics-doculect-97-939,yuwa1244-std,concepticon-1635,19.46,ãku,obey,aku
+clics-doculect-97-940,yuwa1244-std,concepticon-1332,19.54,habẽlãbãhã,neighbor,habelabaha
+clics-doculect-97-941,yuwa1244-std,concepticon-791,19.55,we'tebãhã,stranger,we'tebaha
+clics-doculect-97-942,yuwa1244-std,concepticon-1848,19.62,lowalibu,"strife, quarrel",lowalibu
+clics-doculect-97-943,yuwa1244-std,concepticon-1831,19.65,we,meet,we
+clics-doculect-97-944,yuwa1244-std,concepticon-1423,20.11,ʰwau'e,fight (vb),kwau'e
+clics-doculect-97-945,yuwa1244-std,concepticon-994,20.24,lĩbẽlãho,bow,libelaho
+clics-doculect-97-946,yuwa1244-std,concepticon-977,20.25,lĩbẽlãho,arrow,libelaho
+clics-doculect-97-947,yuwa1244-std,concepticon-945,20.26,luʰkʷi,spear,lukkwi
+clics-doculect-97-948,yuwa1244-std,concepticon-1535,20.27,heila,sword,heila
+clics-doculect-97-949,yuwa1244-std,concepticon-1566,20.28,ʰwãlã,"gun, cannon",kwala
+clics-doculect-97-950,yuwa1244-std,concepticon-1858,20.51,bõʰtõlɨ̃leitekã,fisherman,boktolileiteka
+clics-doculect-97-951,yuwa1244-std,concepticon-1074,20.52,ʰkãʰkãɨlẽhai,fishhook,kkakkailehai
+clics-doculect-97-952,yuwa1244-std,concepticon-19,20.53,ʰkãʰkãhu,fishing line,kkakkahu
+clics-doculect-97-953,yuwa1244-std,concepticon-389,20.55,bõʰtõlaho,fish trap,boktolaho
+clics-doculect-97-954,yuwa1244-std,concepticon-1435,20.61,yewolɨ̃toʰkʷe,hunt,yewolitokkwe
+clics-doculect-97-955,yuwa1244-std,concepticon-1435,20.61,ʰkʷayolɨ̃huʰkʷe,hunt,kkwayolihukkwe
+clics-doculect-97-956,yuwa1244-std,concepticon-1172,20.62,hu,shoot,hu
+clics-doculect-97-957,yuwa1244-std,concepticon-161,20.63,hitebẽɨ,miss (target),hitebei
+clics-doculect-97-958,yuwa1244-std,concepticon-713,21.51,bobẽi,steal,bobei
+clics-doculect-97-959,yuwa1244-std,concepticon-1160,21.52,bobẽitekahã,thief,bobeitekaha

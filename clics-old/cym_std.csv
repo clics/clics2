@@ -1,0 +1,2085 @@
+@classification: Indo-European,Celtic,Insular,Brythonic
+@ids-name: Welsh_StandardOrth
+@iso: cym
+@language: Welsh
+@size: 2078
+@source: ids
+@variety: std
+1.1	world	byd
+1.21	earth, land	daear
+1.21	earth, land	tir
+1.212	earth=ground, soil	pridd
+1.213	dust	llwch
+1.213	dust	pylor
+1.214	mud	llaid
+1.214	mud	mwd
+1.215	sand	tywod
+1.22	mountain, hill	mynydd
+1.22	mountain, hill	bryn
+1.22	mountain, hill	bre
+1.222	cliff, precipice	clogwyn
+1.222	cliff, precipice	dibyn
+1.23	plain, field	gwastad
+1.23	plain, field	maes
+1.23	plain, field	gwastatir
+1.24	valley	dyffryn
+1.24	valley	glyn
+1.24	valley	cwm
+1.25	island	ynys
+1.26	mainland	tirmawr
+1.27	shore	glan
+1.27	shore	tywyn
+1.27	shore	traeth
+1.27	shore	arfordir
+1.28	cave	ogof
+1.31	water	dwfr
+1.31	water	dŵr
+1.32	sea	môr
+1.322	calm (of sea)	llonydd
+1.322	calm (of sea)	tawel
+1.323	rough (of sea)	garw
+1.324	foam	ewyn
+1.329	ocean	cefnfor
+1.33	lake	llyn
+1.34	gulf, bay	morgainc
+1.34	gulf, bay	gwlff
+1.341	lagoon	merllyn
+1.341	lagoon	morlyn
+1.341	lagoon	lagŵn
+1.342	reef	creigres
+1.343	headland, point	penrhyn
+1.343	headland, point	pentir
+1.35	wave	ton
+1.35	wave	gwaneg
+1.352	tide	llanw
+1.353	lowtide	llanwisel
+1.354	hightide	llanwuchel
+1.36	river, stream, brook	afon
+1.36	river, stream, brook	ffrwd
+1.36	river, stream, brook	nant
+1.36	river, stream, brook	afonig
+1.362	whirlpool	trobwll
+1.37	spring, well	ffynnon
+1.37	spring, well	pydew
+1.38	swamp	cors
+1.39	waterfall	pistyll
+1.41	woods, forest	coedwig
+1.41	woods, forest	coed
+1.41	woods, forest	gwŷdd
+1.42	tree (cf 08.600)	coeden
+1.42	tree (cf 08.600)	pren
+1.43	wood	coed
+1.43	wood	pren
+1.44	stone, rock	carreg
+1.44	stone, rock	maen
+1.44	stone, rock	craig
+1.45	earthquake	daeargryn
+1.51	sky	wybr
+1.51	sky	wybren
+1.51	sky	nef
+1.52	sun	haul
+1.52	sun	huan
+1.53	moon	lleuad
+1.53	moon	lloer
+1.54	star	seren
+1.55	lightning	mellt
+1.55	lightning	lluched
+1.56	thunder	taran
+1.57	lightning (as striking)	mellten
+1.57	lightning (as striking)	taran
+1.57	lightning (as striking)	tyrfau
+1.58	storm	storm
+1.58	storm	tymestl
+1.58	storm	rhyferthwy
+1.59	rainbow	enfys
+1.61	light (noun)	golau
+1.61	light (noun)	goleuni
+1.62	darkness	tywyllwch
+1.63	shade, shadow	cysgod
+1.64	dew	gwlith
+1.71	air	awyr
+1.71	air	aer
+1.72	wind	gwynt
+1.72	wind	awel
+1.73	cloud	cwmwl
+1.74	fog	niwl
+1.74	fog	nudd
+1.75	rain (noun)	glaw
+1.76	snow (noun)	eira
+1.76	snow (noun)	nyf
+1.77	ice	rhew
+1.77	ice	iâ
+1.78	weather	tywydd
+1.78	weather	hin
+1.81	fire	tân
+1.82	flame (noun)	fflam
+1.82	flame (noun)	ffagl
+1.83	smoke (noun)	mwg
+1.84	ashes	lludw
+1.841	embers	marwor
+1.841	embers	marwydos
+1.851	burn (vb trans)	llosgi
+1.852	burn (vb intrans)	llosgi
+1.86	light, kindle, ignite	ennyn
+1.86	light, kindle, ignite	cynneu
+1.861	extinguish	diffodd
+1.87	match (noun)	matsen
+1.88	firewood	cynnud
+1.88	firewood	coedtân
+1.89	charcoal	siarcol
+1.89	charcoal	sercol
+2.1	person, human being	dyn
+2.1	person, human being	person
+2.1	person, human being	boddynol
+2.21	man (vs. woman)	gŵr
+2.21	man (vs. woman)	dyn
+2.22	woman	gwraig
+2.22	woman	benyw
+2.22	woman	dynes
+2.23	male	gwryw
+2.24	female	benyw
+2.25	boy	bachgen
+2.25	boy	hogyn
+2.251	young man (adolescent)	llanc
+2.26	girl	geneth
+2.26	girl	hogen
+2.26	girl	merch
+2.261	young woman (adolescent)	merch
+2.261	young woman (adolescent)	llances
+2.261	young woman (adolescent)	morwyn
+2.27	child	plentyn
+2.28	infant, baby	maban
+2.28	infant, baby	babi
+2.31	husband	gŵr
+2.31	husband	priod
+2.32	wife	gwraig
+2.32	wife	priod
+2.33	marry	priodi
+2.34	marriage, wedding	priodas
+2.34	marriage, wedding	neithior
+2.341	divorce	ysgariad
+2.35	father	tad
+2.36	mother	mam
+2.37	parents	rhieni
+2.38	married man	dynpriod
+2.39	married woman	menywbriod
+2.39	married woman	dynesbriod
+2.41	son	mab
+2.42	daughter	merch
+2.43	offspring (son or daughter)	plentyn
+2.43	offspring (son or daughter)	epil
+2.44	brother	brawd
+2.444	older brother	brawdhŷn
+2.445	younger brother	brawdiau
+2.45	sister	chwaer
+2.454	older sister	chwaerhŷn
+2.455	younger sister	chwaeriau
+2.456	sibling	brawd
+2.456	sibling	chwaer
+2.458	twins	efeilliaid
+2.46	grandfather	taid
+2.46	grandfather	tadcu
+2.461	old man	henwr
+2.461	old man	henddyn
+2.47	grandmother	nain
+2.47	grandmother	mamgu
+2.471	old woman	henfenyw
+2.471	old woman	henwraig
+2.48	grandson	ŵyr
+2.49	granddaughter	wyres
+2.51	uncle	ewythr
+2.511	mother's brother	brawdmam
+2.512	father's brother	brawdtad
+2.52	aunt	modryb
+2.521	mother's sister	chwaermam
+2.522	father's sister	chwaertad
+2.53	nephew	nai
+2.54	niece	nith
+2.55	cousin	cefnder
+2.55	cousin	cyfnither
+2.56	ancestors	cyndadau
+2.56	ancestors	hynafiaid
+2.56	ancestors	cyndeidiau
+2.57	descendants	disgynyddion
+2.61	father-in-law (of a man)	tadyngnghyfraith
+2.611	father-in-law (of a woman)	tadyngnghyfraith
+2.62	mother-in-law (of a man)	mamyngnghyfraith
+2.621	mother-in-law (of a woman)	mamyngnghyfraith
+2.63	son-in-law (of a man)	mabyngnghyfraith
+2.631	son-in-law (of a woman)	mabyngnghyfraith
+2.64	daughter-in-law (of a man)	merchyngnghyfraith
+2.641	daughter-in-law (of a woman)	merchyngnghyfraith
+2.71	stepfather	llystad
+2.71	stepfather	tadgwyn
+2.72	stepmother	llysfam
+2.72	stepmother	mamwen
+2.73	stepson	llysfab
+2.74	stepdaughter	llysferch
+2.75	orphan	plentynamddifad
+2.76	widow	gweddw
+2.77	widower	gŵrgweddw
+2.77	widower	gwidwer
+2.77	widower	gwidman
+2.81	relatives, kinsmen	perthnasau
+2.81	relatives, kinsmen	ceraint
+2.81	relatives, kinsmen	perthynau
+2.81	relatives, kinsmen	tylwyth
+2.82	family	teulu
+2.82	family	tylwyth
+2.91	I	fi
+2.92	you (singular)	ti
+2.93	he/she/it	ef
+2.93	he/she/it	hi
+2.94	we	ni
+2.941	we (inclusive)	ni
+2.942	we (exclusive)	ni
+2.95	you (plural)	chi
+2.95	you (plural)	chwi
+2.96	they	hwy
+2.96	they	hwynt
+3.11	animal	anifail
+3.11	animal	mil
+3.12	male (adj)	gwryw
+3.13	female (adj)	benyw
+3.15	livestock	anifeiliaid
+3.15	livestock	da
+3.16	pasture	bugeilio
+3.16	pasture	porfelaeth
+3.16	pasture	porfela
+3.16	pasture	porfel
+3.16	pasture	porfa
+3.18	herdsman	bugail
+3.18	herdsman	cowmon
+3.18	herdsman	hensor
+3.19	stable, stall	ystabl
+3.19	stable, stall	côr
+3.2	cattle (bovine)	gwartheg
+3.2	cattle (bovine)	da
+3.21	bull	tarw
+3.22	ox	ych
+3.22	ox	eidion
+3.22	ox	bustach
+3.23	cow	buwch
+3.24	calf	llo
+3.25	sheep	dafad
+3.26	ram	hwrdd
+3.26	ram	maharen
+3.28	ewe	dafad
+3.28	ewe	mamog
+3.29	lamb	oen
+3.32	boar	baedd
+3.32	boar	twrch
+3.34	sow	hwch
+3.35	pig	mochyn
+3.36	goat	gafr
+3.37	he-goat	bwch
+3.38	kid	myn
+3.41	horse (equine)	ceffyl
+3.41	horse (equine)	march
+3.42	stallion	march
+3.42	stallion	ystalwyn
+3.44	mare	caseg
+3.45	foal, colt	ebol
+3.46	ass, donkey	asyn
+3.47	mule	mul
+3.5	fowl	ffowlyn
+3.5	fowl	iâr
+3.5	fowl	dofedn
+3.52	cock, rooster	ceiliog
+3.54	hen	iâr
+3.55	chicken	cyw
+3.56	goose	gŵydd
+3.57	duck	hwyad
+3.57	duck	hwyaden
+3.58	nest	nyth
+3.581	bird	aderyn
+3.581	bird	edn
+3.582	seagull	gwylan
+3.583	heron	crëyr
+3.584	eagle	eryr
+3.585	hawk	gwalch
+3.585	hawk	hebog
+3.586	vulture	fwltur
+3.591	bat	ystlum
+3.592	parrot	parot
+3.592	parrot	poliparot
+3.593	crow	brân
+3.594	dove	colomen
+3.596	owl	tylluan
+3.596	owl	gwdihŵ
+3.61	dog	ci
+3.614	rabbit	cwningen
+3.62	cat	cath
+3.622	opossum	oposwm
+3.63	mouse, rat	llygoden
+3.63	mouse, rat	llygodenfawr
+3.63	mouse, rat	llygodenffyrnig
+3.65	fish	pysgodyn
+3.65	fish	pysg
+3.652	fin (dorsal)	asgell
+3.653	fishscale	cen
+3.653	fishscale	cennyn
+3.654	gill	tagell
+3.654	gill	crogen
+3.654	gill	cragen
+3.655	shell	cragen
+3.661	shark	siarc
+3.661	shark	morgi
+3.662	porpoise, dolphin	llamhidydd
+3.662	porpoise, dolphin	morhwch
+3.662	porpoise, dolphin	dolffin
+3.663	whale	morfil
+3.664	stingray	cathfôrddu
+3.664	stingray	morgathddu
+3.665	freshwater eel	llysywenrawn
+3.71	wolf	blaidd
+3.72	lion	llew
+3.73	bear	arth
+3.74	fox	cadno
+3.74	fox	llwynog
+3.75	deer	carw
+3.75	deer	hydd
+3.76	monkey	mwnci
+3.76	monkey	epa
+3.77	elephant	eliffant
+3.77	elephant	cawrfil
+3.78	camel	camel
+3.78	camel	cawrfarch
+3.81	insect	trychfilyn
+3.81	insect	pryfyn
+3.811	louse	lleuen
+3.812	nit (louse egg)	nedden
+3.813	flea	chwannen
+3.814	centipede	neidrgantroed
+3.814	centipede	cantroed
+3.815	scorpion	sgorpion
+3.816	cockroach	chwilenddu
+3.817	ant	morgrugyn
+3.817	ant	mywionyn
+3.817	ant	mowion
+3.818	spider	cor
+3.818	spider	corryn
+3.818	spider	pryfcopyn
+3.819	spider web	gwecorryn
+3.819	spider web	gwepryfcopyn
+3.82	bee	gwenynen
+3.821	beeswax	cŵyrgwenyn
+3.822	beehive	cwchgwenyn
+3.823	wasp	cacynen
+3.823	wasp	piffgi
+3.823	wasp	picwnen
+3.823	wasp	piffgwnen
+3.83	fly	gwybedyn
+3.83	fly	cylionyn
+3.83	fly	pry
+3.83	fly	pryfyn
+3.83	fly	cleren
+3.831	sandfly (midge), gnat	gwybedynmân
+3.831	sandfly (midge), gnat	mânwybedyn
+3.831	sandfly (midge), gnat	piwiad
+3.831	sandfly (midge), gnat	piwiedyn
+3.832	mosquito	mosgito
+3.84	worm	pryfgenwair
+3.85	snake	neidr
+3.85	snake	sarff
+3.91	firefly	pryftân
+3.92	butterfly	glöynbyw
+3.92	butterfly	pilipala
+3.93	grasshopper	ceiliogyrhedyn
+3.94	snail	malwoden
+3.95	frog	broga
+3.96	lizard	madfall
+3.96	lizard	genaugoeg
+3.97	crocodile, alligator	crocodil
+3.97	crocodile, alligator	crocodeil
+3.98	turtle	crwbanymôr
+3.98	turtle	môrgrwban
+4.11	body	corff
+4.12	skin, hide	croen
+4.12	skin, hide	cen
+4.13	flesh	cig
+4.13	flesh	cnawd
+4.14	hair (head)	gwallt
+4.14	hair (head)	blew
+4.142	beard	barf
+4.144	body hair	blew
+4.145	pubic hair	cedor
+4.145	pubic hair	blewcedor
+4.145	pubic hair	blew'rarffed
+4.146	dandruff	marwdon
+4.146	dandruff	mardon
+4.146	dandruff	cen
+4.15	blood	gwaed
+4.15	blood	crau
+4.151	vein, artery	gwythïen
+4.16	bone	asgwrn
+4.162	rib	asen
+4.17	horn	corn
+4.18	tail	cynffon
+4.19	back	cefn
+4.191	spine	asgwrncefn
+4.2	head	pen
+4.201	side of head, temple	arlais
+4.202	skull	penglog
+4.203	brain	ymennydd
+4.204	face	wyneb
+4.205	forehead	talcen
+4.207	jaw	gên
+4.207	jaw	cern
+4.208	cheek	grudd
+4.208	cheek	boch
+4.209	chin	gên
+4.21	eye	llygad
+4.212	eyebrow	aelyllygad
+4.213	eyelid	amrant
+4.213	eyelid	clawrllygad
+4.214	eyelash	blewynamrant
+4.215	blink	amrantu
+4.215	blink	ysmicio
+4.22	ear	clust
+4.221	earlobe	llabedclust
+4.222	earwax	cwyrclust
+4.23	nose	trwyn
+4.231	nostril	ffroen
+4.232	mucus (nasal)	llysnafedd
+4.24	mouth	ceg
+4.24	mouth	genau
+4.241	beak	pig
+4.25	lip	gwefus
+4.25	lip	gwefl
+4.26	tongue	tafod
+4.27	tooth	dant
+4.271	gums	cigydannedd
+4.271	gums	gorchafan
+4.272	molartooth	dantmalu
+4.272	molartooth	cilddant
+4.272	molartooth	bochddant
+4.28	neck	gwddf
+4.28	neck	mwnwgl
+4.281	nape of neck	gwar
+4.281	nape of neck	gwegil
+4.29	throat	gwddf
+4.3	shoulder	ysgwydd
+4.301	shoulderblade	palfais
+4.301	shoulderblade	crafellysgwydd
+4.302	collarbone	pontyrysgwydd
+4.302	collarbone	trybeddyrysgwydd
+4.31	arm	braich
+4.312	armpit	cesail
+4.32	elbow	elin
+4.32	elbow	penelin
+4.321	wrist	arddwrn
+4.33	hand	llaw
+4.331	palm of hand	palf
+4.34	finger	bys
+4.342	thumb	bawd
+4.342	thumb	bodfys
+4.342	thumb	bysbawd
+4.344	fingernail	ewin
+4.345	claw	crafanc
+4.35	leg	coes
+4.351	thigh	morddwyd
+4.352	calf of leg	crothcoes
+4.352	calf of leg	bolacoes
+4.36	knee	glin
+4.36	knee	penglin
+4.37	foot	troed
+4.371	ankle	ffêr
+4.371	ankle	migwrn
+4.372	heel	sawdl
+4.374	footprint	ôltroed
+4.38	toe	bystroed
+4.392	wing	adain
+4.392	wing	asgell
+4.393	feather	pluen
+4.4	chest	bron
+4.4	chest	dwyfron
+4.41	breast (of woman)	bron
+4.412	nipple, teat	teth
+4.42	udder	pwrs
+4.42	udder	cader
+4.43	navel	bogail
+4.44	heart	calon
+4.441	lung	ysgyfaint
+4.45	liver	afu
+4.45	liver	iau
+4.451	kidney	aren
+4.451	kidney	lwlen
+4.452	spleen	dueg
+4.452	spleen	potenludw
+4.46	stomach	bol
+4.46	stomach	bola
+4.46	stomach	cylla
+4.46	stomach	stumog
+4.461	intestines, guts	coluddion
+4.461	intestines, guts	perfeddion
+4.462	waist	canol
+4.462	waist	gwasg
+4.462	waist	meingorff
+4.463	hip	clun
+4.463	hip	penyglun
+4.464	buttocks	penôl
+4.464	buttocks	tin
+4.47	womb	croth
+4.47	womb	bru
+4.49	testicle	caill
+4.492	penis	cal
+4.492	penis	pidyn
+4.51	breathe, breath	anadlu
+4.51	breathe, breath	anadl
+4.52	yawn, gape	dylyfugên
+4.521	hiccough	igian
+4.53	cough	pesychu
+4.54	sneeze	tisian
+4.55	perspire	chwysu
+4.56	spit	poeri
+4.57	vomit	cyfogi
+4.57	vomit	chwydu
+4.58	bite	brathu
+4.58	bite	cnoi
+4.59	lick	llyfu
+4.591	dribble	glafoerio
+4.591	dribble	dreflu
+4.61	sleep	cysgu
+4.61	sleep	huno
+4.61	sleep	hun
+4.61	sleep	cwsg
+4.612	snore	rhochian
+4.62	dream	breuddwydio
+4.63	wake up	dihuno
+4.63	wake up	deffro
+4.64	break wind	bramu
+4.64	break wind	rhechian
+4.64	break wind	torrigwynt
+4.64	break wind	rhechu
+4.65	urinate	piso
+4.65	urinate	troethi
+4.65	urinate	pis
+4.65	urinate	troeth
+4.66	defecate	cachu
+4.66	defecate	caca
+4.66	defecate	cach
+4.66	defecate	tom
+4.67	have sexual intercourse	caelcyfathrach
+4.67	have sexual intercourse	cnuchio
+4.67	have sexual intercourse	cydio
+4.68	shiver	rhynnu
+4.68	shiver	crynu
+4.69	bathe	ymdrochi
+4.69	bathe	ymolchi
+4.69	bathe	trochi
+4.69	bathe	golchi
+4.71	beget (of father)	cenhedlu
+4.72	born (to be)	geni
+4.73	pregnant	beichiog
+4.732	conceive	beichiogi
+4.732	conceive	cenhedluplentyn
+4.74	live, living, life	byw
+4.74	live, living, life	bywyd
+4.75	die, dead	marw
+4.75	die, dead	wedimarw
+4.75	die, dead	angau
+4.75	die, dead	marwolaeth
+4.751	drowned	wedieifoddi
+4.751	drowned	boddedig
+4.76	kill	lladd
+4.77	corpse	corff
+4.77	corpse	celain
+4.78	bury (the dead)	claddu
+4.78	bury (the dead)	daearu
+4.79	grave, tomb	bedd
+4.79	grave, tomb	beddrod
+4.81	strong, mighty, powerful	cryf
+4.81	strong, mighty, powerful	cadarn
+4.81	strong, mighty, powerful	nerthol
+4.82	weak	gwan
+4.82	weak	eiddil
+4.83	well, health	iach
+4.83	well, health	holliach
+4.83	well, health	iechyd
+4.84	sick, sickness	claf
+4.84	sick, sickness	clefyd
+4.84	sick, sickness	afiechyd
+4.841	fever	twymyn
+4.841	fever	gwres
+4.842	goiter	chwyddygwddf
+4.843	cold (catarrh)	annwyd
+4.85	wound, sore	archoll
+4.85	wound, sore	gweli
+4.85	wound, sore	briw
+4.85	wound, sore	clwyf
+4.852	bruise	clais
+4.853	swelling	chwydd
+4.853	swelling	chwyddi
+4.854	itch	cosfa
+4.854	itch	cosi
+4.855	blister	pothell
+4.855	blister	plistryn
+4.855	blister	chwysigen
+4.855	blister	swigen
+4.856	boil (noun)	casgliad
+4.856	boil (noun)	cornwyd
+4.856	boil (noun)	pendduyn
+4.857	pus	crawn
+4.857	pus	crawniad
+4.857	pus	casgl
+4.858	scar	craith
+4.86	cure, heal	iacháu
+4.86	cure, heal	gwella
+4.87	physician	meddyg
+4.87	physician	doctor
+4.88	medicine, drug	meddyginiaeth
+4.88	medicine, drug	cyffur
+4.88	medicine, drug	ffisig
+4.88	medicine, drug	moddion
+4.89	poison	gwenwyn
+4.91	tired, weary	lluddedig
+4.91	tired, weary	blinedig
+4.91	tired, weary	blin
+4.912	rest	gorffwys
+4.912	rest	dadflino
+4.92	lazy	diog
+4.93	bald	moel
+4.94	lame	cloff
+4.95	deaf	byddar
+4.96	mute	mud
+4.97	blind	dall
+4.98	intoxicated	meddw
+4.99	naked, bare	noeth
+4.99	naked, bare	llwm
+5.11	eat	bwyta
+5.12	food	bwyd
+5.121	cooked	wedieigoginio
+5.122	raw	amrwd
+5.122	raw	crai
+5.123	ripe	aeddfed
+5.124	green, unripe	anaeddfed
+5.125	rotten	pwdr
+5.125	rotten	pydredig
+5.13	drink	yfed
+5.14	hunger	eisiaubwyd
+5.14	hunger	chwantbwyd
+5.141	famine	newyn
+5.141	famine	llwgfa
+5.15	thirst	syched
+5.16	suck	sugno
+5.16	suck	dyfnu
+5.18	chew	cnoi
+5.181	swallow	llyncu
+5.19	choke	tagu
+5.21	cook	coginio
+5.22	boil (vb)	berwi
+5.23	roast, fry	rhostio
+5.23	roast, fry	crasu
+5.23	roast, fry	ffrio
+5.24	bake	pobi
+5.24	bake	crasu
+5.25	oven	ffwrn
+5.25	oven	popty
+5.26	pot, cooking vessel	pot
+5.26	pot, cooking vessel	crochan
+5.27	kettle	tegell
+5.28	pan	padell
+5.28	pan	pan
+5.28	pan	caserol
+5.31	dish	dysgl
+5.32	plate	plât
+5.33	bowl	powlen
+5.34	pitcher, jug	piser
+5.34	pitcher, jug	siwg
+5.35	cup, drinking vessel	cwpan
+5.36	saucer	soser
+5.37	spoon	llwy
+5.38	knife	cyllell
+5.39	fork	fforcyn
+5.391	tongs	gefeiliau
+5.41	meal (a)	pryd
+5.42	breakfast	brecwast
+5.42	breakfast	boreufwyd
+5.43	lunch	cinio
+5.44	dinner	cinio
+5.45	supper	swper
+5.46	peel	plicio
+5.46	peel	pilio
+5.47	sieve, strain	hidlo
+5.48	scrape	crafu
+5.48	scrape	plicio
+5.49	stir, mix	troi
+5.49	stir, mix	cymysgu
+5.51	bread	bara
+5.53	dough	toes
+5.54	knead	tylino
+5.55	meal, flour	blawd
+5.56	crush, grind	malu
+5.57	mill	melin
+5.58	mortar	breuan
+5.58	mortar	mortar
+5.59	pestle	pestl
+5.61	meat	cig
+5.63	sausage	selsig
+5.63	sausage	sosej
+5.64	soup, broth	potes
+5.64	soup, broth	cawl
+5.65	vegetables	llysiau
+5.66	bean	ffäen
+5.66	bean	ffeuen
+5.7	potato	taten
+5.71	fruit	ffrwyth
+5.712	bunch	bwnsiad
+5.75	fig	ffigysen
+5.76	grape	grawnwinen
+5.77	nut	cneuen
+5.78	olive	olif
+5.79	oil	olew
+5.791	grease, fat	saim
+5.791	grease, fat	braster
+5.81	salt	halen
+5.82	pepper	pupur
+5.821	chili pepper	tsili
+5.84	honey	mêl
+5.85	sugar	siwgr
+5.86	milk (noun)	llaeth
+5.86	milk (noun)	llefrith
+5.87	milk (vb)	godro
+5.88	cheese	caws
+5.89	butter	ymenyn
+5.9	beverage, drink	diod
+5.9	beverage, drink	llymaid
+5.91	mead	medd
+5.92	wine	gwin
+5.93	beer	cwrw
+5.94	fermented drink	diodwedieiheplesu
+5.97	egg	wy
+5.971	egg yolk	melynwy
+6.11	put on (clothes)	gwisgo
+6.11	put on (clothes)	dilladu
+6.11	put on (clothes)	ymwisgo
+6.12	clothing, clothes	dillad
+6.12	clothing, clothes	gwisg
+6.12	clothing, clothes	gwisgoedd
+6.13	tailor	teiliwr
+6.21	cloth	brethyn
+6.21	cloth	defnydd
+6.22	wool	gwlân
+6.22	wool	edafedd
+6.23	linen, flax	lliain
+6.23	linen, flax	llin
+6.24	cotton	cotwm
+6.25	silk	sidan
+6.27	felt	ffelt
+6.27	felt	brethyn
+6.27	felt	llawban
+6.28	fur	ffwr
+6.29	leather	lledr
+6.31	spin	nyddu
+6.32	spindle	gwerthyd
+6.33	weave	gwehyddu
+6.33	weave	gweu
+6.34	loom	gwŷdd
+6.35	sew	gwnïo
+6.36	needle	nodwydd
+6.37	awl	mynawyd
+6.38	thread	edau
+6.39	dye	llifo
+6.39	dye	lliwio
+6.41	cloak	mantell
+6.41	cloak	cochl
+6.41	cloak	clog
+6.411	poncho	ponsio
+6.42	woman's dress	ffrog
+6.43	coat	côt
+6.44	shirt	crys
+6.45	collar	coler
+6.46	skirt	sgert
+6.461	grass-skirt	sgertwair
+6.48	trousers	trowsus
+6.48	trousers	llodrau
+6.49	stocking, sock	hosan
+6.49	stocking, sock	socsen
+6.49	stocking, sock	socas
+6.51	shoe	esgid
+6.52	boot	esgiddrom
+6.52	boot	botas
+6.54	shoemaker, cobbler	crydd
+6.55	hat, cap	het
+6.55	hat, cap	cap
+6.57	belt, girdle	gwregys
+6.58	glove	maneg
+6.59	veil	gorchudd
+6.61	pocket	llogell
+6.61	pocket	poced
+6.62	button	botwm
+6.63	pin	pìn
+6.71	ornament, adornment	addurniad
+6.71	ornament, adornment	trwsiad
+6.72	jewel	gem
+6.72	jewel	tlws
+6.73	ring (for finger)	modrwy
+6.74	bracelet	breichled
+6.75	necklace	cadwen
+6.75	necklace	mwclis
+6.75	necklace	neclis
+6.76	bead	glain
+6.77	earring	clustdlws
+6.78	headband, headdress	penrwymyn
+6.78	headband, headdress	ffunen
+6.79	tattoo	tatŵ
+6.81	handkerchief, rag	cadach
+6.81	handkerchief, rag	hances
+6.82	towel	lliain
+6.82	towel	tywel
+6.91	comb	crib
+6.92	brush	brws
+6.921	braid	plethen
+6.93	razor	rasel
+6.93	razor	ellyn
+6.94	ointment	ennaint
+6.94	ointment	eli
+6.95	soap	sebon
+6.96	mirror	drych
+7.11	dwell, live	trigiannu
+7.11	dwell, live	trigo
+7.11	dwell, live	preswylio
+7.11	dwell, live	byw
+7.12	house	tŷ
+7.13	hut	bwth
+7.13	hut	cwt
+7.13	hut	caban
+7.13	hut	cut
+7.131	garden-house	hafdy
+7.131	garden-house	tŷhaf
+7.14	tent	pabell
+7.15	yard, court	iard
+7.15	yard, court	buarth
+7.16	men's house	tŷdynion
+7.17	cookhouse	cegin
+7.18	meeting house	tŷcwrdd
+7.21	room	ystafell
+7.22	door, gate	drws
+7.22	door, gate	dôr
+7.22	door, gate	porth
+7.221	doorpost, jamb	cilbost
+7.221	doorpost, jamb	postyndrws
+7.23	lock (noun)	clo
+7.231	latch, door-bolt	clicied
+7.231	latch, door-bolt	bollt
+7.24	key	allwedd
+7.24	key	agoriad
+7.25	window	ffenestr
+7.26	floor	llawr
+7.27	wall	mur
+7.27	wall	wal
+7.27	wall	gwal
+7.27	wall	magwyr
+7.27	wall	pared
+7.31	fireplace	lletân
+7.32	stove	stof
+7.33	chimney	simdde
+7.33	chimney	simnai
+7.37	ladder	ysgol
+7.42	bed	gwely
+7.421	pillow	clustog
+7.422	blanket	blanced
+7.422	blanket	gwrthban
+7.422	blanket	carthen
+7.43	chair	cadair
+7.44	table	bwrdd
+7.44	table	bord
+7.45	lamp, torch	lamp
+7.45	lamp, torch	llusern
+7.46	candle	cannwyll
+7.47	shelf	silff
+7.48	trough	cafn
+7.51	roof	to
+7.52	thatch	gwellt
+7.53	ridgepole	polyncrib
+7.54	rafter	trawst
+7.54	rafter	cwpl
+7.54	rafter	dist
+7.55	beam	trawst
+7.56	post, pole	post
+7.56	post, pole	polyn
+7.57	board	astell
+7.57	board	estyllen
+7.58	arch	bwa
+7.61	mason	saermaen
+7.61	mason	saercerrig
+7.62	brick	bricsen
+7.62	brick	priddfaen
+7.63	mortar	cymrwd
+7.63	mortar	morter
+7.64	adobe	bricsenglai
+8.11	farmer	amaethwr
+8.11	farmer	ffermwr
+8.12	field (for cultivation)	cae
+8.12	field (for cultivation)	maes
+8.13	garden	gardd
+8.15	cultivate, till	diwyllio
+8.15	cultivate, till	trintir
+8.15	cultivate, till	amaethu
+8.16	fence	ffens
+8.16	fence	sietyn
+8.17	ditch	ffos
+8.21	plow	aredig
+8.21	plow	aradr
+8.212	furrow	rhych
+8.22	dig	cloddio
+8.22	dig	palu
+8.23	spade	pâl
+8.23	spade	rhaw
+8.24	shovel	rhaw
+8.24	shovel	siefl
+8.25	hoe	hof
+8.26	fork	fforch
+8.27	rake	cribin
+8.27	rake	rhaca
+8.31	sow	hau
+8.311	seed	had
+8.311	seed	hadau
+8.311	seed	hedyn
+8.32	mow, reap	medi
+8.32	mow, reap	pladuro
+8.33	sickle, scythe	cryman
+8.33	sickle, scythe	pladur
+8.34	thresh	dyrnu
+8.35	threshing-floor	llawrdyrnu
+8.41	crop, harvest	cnwd
+8.41	crop, harvest	cynhaeaf
+8.42	grain (barley, oats etc)	ŷd
+8.43	wheat	gwenith
+8.44	barley	haidd
+8.45	rye	rhyg
+8.46	oats	ceirch
+8.47	maize, corn	indrawn
+8.47	maize, corn	indiacorn
+8.48	rice	reis
+8.51	grass	gwair
+8.51	grass	gwellt
+8.51	grass	glaswellt
+8.52	hay	gwair
+8.52	hay	gwellt
+8.53	plant (noun)	planhigyn
+8.53	plant (noun)	llysieuyn
+8.531	plant (vb)	plannu
+8.54	root	gwreiddyn
+8.55	branch	cangen
+8.55	branch	cainc
+8.56	leaf	deilen
+8.57	flower	blodeuyn
+8.57	flower	blodyn
+8.6	tree	coeden
+8.6	tree	pren
+8.61	oak	derwen
+8.62	beech	ffawydden
+8.63	birch	bedwen
+8.64	pine	pin
+8.65	fir	ffynidwydden
+8.66	acorn	mesen
+8.67	vine	gwinwydden
+8.68	tobacco	tybaco
+8.68	tobacco	baco
+8.68	tobacco	myglys
+8.69	smoke (tobacco)	ysmygu
+8.69	smoke (tobacco)	smocio
+8.691	pipe	pib
+8.691	pipe	cetyn
+8.72	tree stump	bonyn
+8.72	tree stump	bôn
+8.72	tree stump	stwmp
+8.73	tree trunk	boncyff
+8.73	tree trunk	bôncoeden
+8.74	forked branch	cangenfforchog
+8.75	bark	rhisgl
+8.76	sap	nodd
+8.76	sap	sudd
+8.76	sap	sug
+8.81	palm tree	palmwydden
+8.82	coconut	coconyt
+8.83	citrus fruit	ffrwythsitrws
+8.84	banana tree	coedenfananas
+8.85	banyan	coedenfanian
+8.85	banyan	coedenffigysIndia
+8.91	sweet potato	tatenfelys
+8.91	sweet potato	tatwsmelys
+8.912	yam	iam
+8.92	tapioca, manioc, cassava	tapioca
+8.93	gourd	gwrd
+8.93	gourd	pompion
+8.931	pumpkin, squash	pwmpen
+8.931	pumpkin, squash	pompion
+8.931	pumpkin, squash	gwrd
+8.94	bamboo	bambŵ
+8.941	sugar cane	siwgwrcân
+8.97	nettle	danadl
+8.98	mushroom	madarchen
+8.98	mushroom	madarch
+8.98	mushroom	cawsllyffant
+9.11	do, make	gwneuthur
+9.11	do, make	gwneud
+9.12	work	gwaith
+9.12	work	llafur
+9.14	bend	plygu
+9.15	fold	plygu
+9.16	tie, bind	rhwymo
+9.16	tie, bind	clymu
+9.161	untie	datod
+9.18	chain	cadwyn
+9.19	rope, cord	rhaff
+9.19	rope, cord	cortyn
+9.192	knot (noun)	clwm
+9.192	knot (noun)	cwlwm
+9.21	strike (hit, beat)	taro
+9.21	strike (hit, beat)	curo
+9.211	pound with fist	dyrnu
+9.22	cut	torri
+9.22	cut	naddu
+9.22	cut	trychu
+9.221	cut down	torri
+9.222	chop, hew	torri
+9.222	chop, hew	hollti
+9.222	chop, hew	naddu
+9.223	stab	trywanu
+9.223	stab	gwanu
+9.23	knife	cyllell
+9.24	scissors, shears	siswrn
+9.24	scissors, shears	gwellaif
+9.25	ax	bwyall
+9.251	adze	neddyf
+9.251	adze	neddai
+9.251	adze	neddau
+9.251	adze	bwyallgam
+9.26	break	torri
+9.261	broken	toredig
+9.261	broken	wedieidorri
+9.27	split	hollti
+9.28	tear	rhwygo
+9.29	flay, skin	blingo
+9.29	flay, skin	digroeni
+9.31	rub, wipe	rhwbio
+9.32	stretch	estyn
+9.33	pull	tynnu
+9.34	spread out	taenu
+9.34	spread out	chwalu
+9.341	hang up	hongian
+9.341	hang up	crogi
+9.342	press	gwasgu
+9.343	squeeze, wring	gwasgu
+9.35	pour	tywallt
+9.35	pour	arllwys
+9.36	wash	golchi
+9.37	sweep	ysgubo
+9.38	broom	ysgub
+9.422	tool	offeryn
+9.422	tool	erfyn
+9.422	tool	arf
+9.422	tool	teclyn
+9.43	carpenter	saer
+9.44	build	adeiladu
+9.46	bore	tyllu
+9.461	hollow out	cafnu
+9.461	hollow out	cafnio
+9.461	hollow out	pantio
+9.48	saw	llif
+9.49	hammer	morthwyl
+9.5	nail	hoel
+9.56	glue	glud
+9.6	smith, blacksmith	gof
+9.61	forge	morthwylio
+9.62	anvil	einion
+9.63	cast (metals)	bwrw
+9.64	gold	aur
+9.65	silver	arian
+9.66	copper, bronze	copr
+9.66	copper, bronze	efydd
+9.66	copper, bronze	pres
+9.67	iron	haearn
+9.68	lead (noun)	plwm
+9.69	tin, tinplate	ystaen
+9.69	tin, tinplate	tun
+9.69	tin, tinplate	tunplat
+9.71	potter	crochenydd
+9.72	mold (clay etc)	ffurfio
+9.72	mold (clay etc)	llunio
+9.72	mold (clay etc)	moldio
+9.73	clay	clai
+9.73	clay	pridd
+9.74	glass	gwydr
+9.75	weave, plait	plethu
+9.75	weave, plait	gwehyddu
+9.75	weave, plait	cyfrodeddu
+9.76	basket	basged
+9.76	basket	cawell
+9.76	basket	cest
+9.77	mat	mat
+9.771	rug	carthen
+9.771	rug	rỳg
+9.79	fan (noun)	gwyntyll
+9.79	fan (noun)	ffan
+9.791	fan (vb)	gwyntyllu
+9.81	carve	cerfio
+9.82	sculptor	cerflunydd
+9.83	statue	delw
+9.83	statue	cerflun
+9.84	chisel	cŷn
+9.84	chisel	gaing
+9.88	paint (noun)	paent
+9.88	paint (noun)	lliw
+9.89	paint (vb)	paentio
+9.89	paint (vb)	peintio
+10.11	move	symud
+10.11	move	syflyd
+10.12	turn over	troi
+10.13	turn around	troiogwmpas
+10.13	turn around	troiyneiunfan
+10.14	wind, wrap	dirwyn
+10.14	wind, wrap	lapio
+10.15	roll	rholio
+10.15	roll	treiglo
+10.16	drop (vb)	gollwng
+10.16	drop (vb)	cwympo
+10.17	twist	troelli
+10.17	twist	cyfrodeddu
+10.17	twist	plethu
+10.21	rise	codi
+10.21	rise	cyfodi
+10.21	rise	cynnu
+10.22	raise, lift	codi
+10.23	fall	cwympo
+10.23	fall	syrthio
+10.24	drip	diferu
+10.24	drip	dafnu
+10.24	drip	dafnio
+10.25	throw	taflu
+10.25	throw	taflyd
+10.25	throw	lluchio
+10.252	catch (ball)	dal
+10.26	shake	siglo
+10.26	shake	ysgwyd
+10.32	flow	llifo
+10.32	flow	rhedeg
+10.33	sink	suddo
+10.33	sink	soddi
+10.34	float	nofio
+10.34	float	arnofio
+10.35	swim	nofio
+10.351	dive	plymio
+10.352	splash	ysgeintio
+10.352	splash	tasgu
+10.352	splash	sblasio
+10.36	sail (vb)	hwylio
+10.36	sail (vb)	morio
+10.36	sail (vb)	mordwyo
+10.37	fly (vb)	ehedeg
+10.37	fly (vb)	hedfan
+10.37	fly (vb)	fflio
+10.38	blow	chwythu
+10.41	creep, crawl	ymlusgo
+10.41	creep, crawl	cropian
+10.412	kneel	penlinio
+10.413	crouch	cyrcydu
+10.413	crouch	cwrcwd
+10.413	crouch	cwmanu
+10.413	crouch	swatio
+10.42	slide, slip	llithro
+10.43	jump, leap	neidio
+10.43	jump, leap	llamu
+10.431	kick	cicio
+10.44	dance	dawnsio
+10.45	walk	cerdded
+10.45	walk	rhodio
+10.451	limp	hercio
+10.451	limp	hercian
+10.451	limp	honcian
+10.46	run	rhedeg
+10.47	go	mynd
+10.47	go	â
+10.47	go	aeth
+10.47	go	êl
+10.471	go up	myndifyny
+10.471	go up	esgyn
+10.472	climb	dringo
+10.473	go down	myndilawr
+10.473	go down	disgyn
+10.474	go out	myndallan
+10.48	come	dyfod
+10.48	come	daw
+10.48	come	daeth
+10.48	come	del
+10.481	come back	dodynôl
+10.481	come back	dychwelyd
+10.49	go away, depart	ymadael
+10.49	go away, depart	myndiffwrdd
+10.491	disappear	diflannu
+10.491	disappear	myndo'rgolwg
+10.51	flee	ffoi
+10.52	follow	dilyn
+10.52	follow	canlyn
+10.53	pursue	erlid
+10.53	pursue	canlyn
+10.53	pursue	dilyn
+10.55	reach, arrive	dodi
+10.55	reach, arrive	cyrraedd
+10.56	approach	dynesu
+10.56	approach	nesu
+10.56	approach	agosáu
+10.56	approach	nesáu
+10.57	enter	mynodimewn
+10.61	carry (bear)	cludo
+10.61	carry (bear)	cario
+10.61	carry (bear)	dwyn
+10.61	carry (bear)	porthi
+10.612	carry-in-hand	cario
+10.612	carry-in-hand	dal
+10.613	carry-on-shoulder	cario
+10.613	carry-on-shoulder	dalareiysgwydd
+10.614	carry-on-head	cario
+10.614	carry-on-head	dalareiben
+10.615	carry-underarm	cario
+10.615	carry-underarm	daldaneifraich
+10.62	bring	dodâ
+10.62	bring	dwyn
+10.62	bring	cyrchu
+10.63	send	anfon
+10.64	lead (vb)	arwain
+10.64	lead (vb)	tywys
+10.65	drive	gyrru
+10.66	ride	marchogaeth
+10.66	ride	reidio
+10.67	push, shove	gwthio
+10.67	push, shove	hyrddiaf
+10.67	push, shove	hyrddu
+10.71	road	ffordd
+10.72	path	llwybr
+10.74	bridge	pont
+10.75	carriage, wagon, cart	cerbyd
+10.75	carriage, wagon, cart	wagen
+10.75	carriage, wagon, cart	men
+10.75	carriage, wagon, cart	ben
+10.75	carriage, wagon, cart	cert
+10.76	wheel	olwyn
+10.76	wheel	rhod
+10.77	axle	echel
+10.78	yoke	iau
+10.81	ship	llong
+10.83	boat	bad
+10.83	boat	cwch
+10.831	canoe	canŵ
+10.832	outrigger	sadiwr
+10.84	raft	rafft
+10.84	raft	cludair
+10.85	oar	rhwyf
+10.851	paddle (noun)	rhwyf
+10.851	paddle (noun)	padl
+10.851	paddle (noun)	rhodl
+10.852	row (vb)	rhwyfo
+10.86	rudder	llyw
+10.87	mast	hwylbren
+10.88	sail (noun)	hwyl
+10.89	anchor	angor
+10.91	harbor, port	porthladd
+10.91	harbor, port	harbwr
+10.91	harbor, port	porth
+10.92	land (vb)	glanio
+11.11	have	bodâ
+11.11	have	bodgan
+11.12	own, possess	meddu
+11.13	take	cymryd
+11.14	seize, grasp	gafael
+11.15	hold	dal
+11.16	get, obtain	cael
+11.16	get, obtain	caffael
+11.17	keep, retain	cadw
+11.18	thing	peth
+11.21	give	rhoi
+11.21	give	rhoddi
+11.22	give back	rhoiynôl
+11.22	give back	dychwelyd
+11.24	preserve, look after	cadw
+11.24	preserve, look after	gofalu
+11.25	save, rescue	achub
+11.27	destroy	dinistrio
+11.27	destroy	distrywio
+11.28	harm, injure, damage	niweidio
+11.31	seek, look for	ceisio
+11.32	find	caffael
+11.32	find	cael
+11.32	find	caelhyd
+11.32	find	ffeindio
+11.33	lose	colli
+11.34	release, let go	gollwng
+11.43	money	arian
+11.43	money	pres
+11.44	coin	arianbath
+11.51	rich	cyfoethog
+11.52	poor	tlawd
+11.53	beggar	cardotyn
+11.54	avaricious, stingy	cybyddlyd
+11.54	avaricious, stingy	crintach
+11.61	lend	benthyg
+11.61	lend	benthyca
+11.61	lend	echwyna
+11.61	lend	benthycio
+11.62	borrow	benthycio
+11.63	owe	bodmewndyled
+11.64	debt	dyled
+11.65	pay (vb)	talu
+11.66	account, reckoning	cyfrif
+11.69	tax, tribute	treth
+11.77	hire	cyflogi
+11.77	hire	llogi
+11.77	hire	hurio
+11.78	wages	cyflog
+11.78	wages	hur
+11.79	earn	ennill
+11.81	buy	prynu
+11.82	sell	gwerthu
+11.83	trade, barter	masnachu
+11.84	merchant	masnachydd
+11.84	merchant	marsiandwr
+11.85	market (place)	marchnad
+11.86	store, shop	siop
+11.86	store, shop	maelfa
+11.87	price	pris
+11.88	dear (costly, expensive)	drud
+11.88	dear (costly, expensive)	costus
+11.89	cheap	rhad
+11.91	share (distribute)	rhannu
+11.92	weigh	pwyso
+12.1	after	arôl
+12.11	place	ytuôl
+12.2	beside	ynymyl
+12.2	beside	wrthochr
+12.2	beside	ger
+12.2	beside	arbwys
+12.3	down, below	ilawr
+12.3	down, below	islaw
+12.4	before	oflaen
+12.41	right (side)	blaen
+12.5	inside, in	ytumewn
+12.5	inside, in	mewn
+12.5	inside, in	yn
+12.6	outside	ytuallan
+12.7	under	odan
+12.7	under	tan
+12.8	up, above	ifyny
+12.8	up, above	lan
+12.8	up, above	uwchben
+12.11	place	lle
+12.11	place	man
+12.12	put	gosod
+12.12	put	dodi
+12.12	put	rhoi
+12.13	sit	eistedd
+12.14	lie down	gorwedd
+12.15	stand	sefyll
+12.16	remain, stay	aros
+12.17	remains, left overs	gweddillion
+12.21	collect, gather	casglu
+12.21	collect, gather	cynnull
+12.212	pick up	codi
+12.212	pick up	casglu
+12.213	pile up	pentyrru
+12.213	pile up	cruglwytho
+12.22	join, unite	cysylltu
+12.22	join, unite	cydio
+12.22	join, unite	uno
+12.22	join, unite	cyfuno
+12.23	separate	gwahanu
+12.232	divide	rhannu
+12.232	divide	gwahanu
+12.24	open	agor
+12.25	shut, close	cau
+12.26	cover	gorchuddio
+12.27	hide, conceal	cuddio
+12.27	hide, conceal	celu
+12.31	high	uchel
+12.32	low	isel
+12.33	top	brig
+12.34	bottom	gwaelod
+12.34	bottom	bôn
+12.35	end	pen
+12.352	pointed	pwyntiedig
+12.352	pointed	blaenllym
+12.353	edge	ymyl
+12.353	edge	min
+12.353	edge	awch
+12.353	edge	ochr
+12.36	side	ochr
+12.36	side	ystlys
+12.36	side	tu
+12.37	middle, center	canol
+12.37	middle, center	perfedd
+12.41	right (side)	de
+12.41	right (side)	dehau
+12.42	left (side)	chwith
+12.42	left (side)	aswy
+12.43	near (adv)	ynagos
+12.43	near (adv)	nidnepell
+12.43	near (adv)	gerllaw
+12.44	far (adv)	ymhell
+12.44	far (adv)	ynbell
+12.45	east	dwyrain
+12.46	west	gorllewin
+12.47	north	gogledd
+12.48	south	de
+12.48	south	dehau
+12.53	grow	tyfu
+12.54	measure	mesur
+12.541	span, fathom	lled
+12.541	span, fathom	rhychwant
+12.541	span, fathom	gwryd
+12.55	large, big	mawr
+12.56	small, little	bach
+12.56	small, little	bychan
+12.57	long	hir
+12.57	long	maith
+12.58	tall	tal
+12.59	short	byr
+12.61	wide, broad	llydan
+12.61	wide, broad	eang
+12.62	narrow	cul
+12.62	narrow	cyfyng
+12.63	thick (in dimension)	tew
+12.63	thick (in dimension)	trwchus
+12.65	thin (in dimension)	tenau
+12.67	deep	dwfn
+12.68	shallow	bas
+12.71	flat	fflat
+12.71	flat	gwastad
+12.73	straight	union
+12.73	straight	syth
+12.74	crooked	cam
+12.74	crooked	crwm
+12.75	hook	bach
+12.76	corner	congl
+12.76	corner	cornel
+12.77	cross	croes
+12.77	cross	crog
+12.78	square	sgwâr
+12.78	square	pedrongl
+12.81	round	crwn
+12.82	circle	cylch
+12.82	circle	cant
+12.83	sphere, ball	sffêr
+12.83	sphere, ball	pêl
+12.83	sphere, ball	pelen
+12.83	sphere, ball	cronnell
+12.84	line	llinell
+12.85	hole	twll
+12.92	like, similar	tebyg
+12.92	like, similar	hafal
+12.93	change	newid
+12.93	change	troi
+13.0	zero, nothing	dim
+13.0	zero, nothing	sero
+13.1	one	un
+13.2	two	dau
+13.2	two	dwy
+13.3	three	tri
+13.3	three	tair
+13.4	four	pedwar
+13.4	four	pedair
+13.5	five	pump
+13.6	six	chwech
+13.7	seven	saith
+13.8	eight	wyth
+13.9	nine	naw
+13.10	ten	deg
+13.101	eleven	unarddeg
+13.102	twelve	deuddeg
+13.103	fifteen	pymtheg
+13.104	twenty	ugain
+13.105	hundred	cant
+13.106	thousand	mil
+13.107	count	cyfrif
+13.14	every, all	pob
+13.14	every, all	holl
+13.15	much, many	llawer
+13.16	more	mwy
+13.16	more	ychwaneg
+13.16	more	rhagor
+13.17	little (quantity), few	ychydig
+13.18	enough	digon
+13.181	some	rhai
+13.181	some	ychydig
+13.181	some	peth
+13.19	multitude, crowd	lliaws
+13.19	multitude, crowd	torf
+13.19	multitude, crowd	llu
+13.21	full	llawn
+13.22	empty	gwag
+13.23	part, piece	rhan
+13.23	part, piece	darn
+13.24	half	hanner
+13.33	alone, only	ynunig
+13.33	alone, only	unig
+13.34	first	cyntaf
+13.35	last	olaf
+13.35	last	diwethaf
+13.36	second	ail
+13.37	pair	pâr
+13.37	pair	cwpl
+13.38	two times	dwywaith
+13.38	two times	daudro
+13.38	two times	dwyadeg
+13.42	third	tryddydd
+13.42	third	trydedd
+13.44	three times	teirgwaith
+13.44	three times	tairgwaith
+13.44	three times	tairadeg
+13.44	three times	trithro
+14.11	time	amser
+14.11	time	pryd
+14.12	age	oed
+14.12	age	oes
+14.13	new	newydd
+14.14	young	ieuanc
+14.14	young	ifanc
+14.15	old	hen
+14.16	early	cynnar
+14.16	early	bore
+14.17	late	hwyr
+14.17	late	diweddar
+14.18	now	ynawr
+14.19	immediately	ynyfan
+14.19	immediately	arunwaith
+14.19	immediately	ynsyth
+14.21	swift, fast, quick	buan
+14.21	swift, fast, quick	cyflym
+14.21	swift, fast, quick	chwyrn
+14.21	swift, fast, quick	clau
+14.22	slow	araf
+14.23	hasten, hurry	brysio
+14.23	hasten, hurry	prysuro
+14.23	hasten, hurry	hastu
+14.24	retard, delay	arafu
+14.24	retard, delay	oedi
+14.25	begin, beginning	dechrau
+14.25	begin, beginning	cychwyn
+14.25	begin, beginning	dechreuad
+14.252	last, endure	parhau
+14.252	last, endure	para
+14.252	last, endure	goroesi
+14.26	end (temporal)	diwedd
+14.27	finish	diweddu
+14.27	finish	gorffen
+14.27	finish	dodiben
+14.28	cease, stop	peidio
+14.28	cease, stop	stopio
+14.29	ready	parod
+14.31	always	bobamser
+14.31	always	bobtro
+14.31	always	drwy'ramser
+14.32	often	ynaml
+14.32	often	ynfynych
+14.33	sometimes	weithiau
+14.33	sometimes	ambellwaith
+14.331	soon	cynhir
+14.331	soon	ynfuan
+14.332	long-time (for a)	erstro
+14.332	long-time (for a)	erstalwm
+14.332	long-time (for a)	ersmeitin
+14.34	never	byth
+14.34	never	erioed
+14.35	again	eto
+14.35	again	eilwaith
+14.35	again	drachefn
+14.41	day	dydd
+14.41	day	diwrnod
+14.42	night	nos
+14.43	dawn	gwawr
+14.44	morning	bore
+14.45	noon, midday	canoldydd
+14.45	noon, midday	nawn
+14.45	noon, midday	hannerdydd
+14.451	afternoon	prynhawn
+14.46	evening	minnos
+14.46	evening	hwyr
+14.46	evening	noswaith
+14.47	today	heddiw
+14.48	tomorrow	yfory
+14.481	day-after-tomorrow	trennydd
+14.49	yesterday	doe
+14.491	day-before-yesterday	echdoe
+14.51	hour	awr
+14.53	clock, timepiece	cloc
+14.53	clock, timepiece	awrlais
+14.53	clock, timepiece	amserydd
+14.61	week	wythnos
+14.62	Sunday	dyddSul
+14.63	Monday	dyddLlun
+14.64	Tuesday	dyddMawrth
+14.65	Wednesday	dyddMercher
+14.66	Thursday	dyddIau
+14.67	Friday	dyddGwener
+14.68	Saturday	dyddSadwrn
+14.71	month	mis
+14.73	year	blwyddyn
+14.74	winter	gaeaf
+14.75	spring	gwanwyn
+14.76	summer	haf
+14.77	autumn	hydref
+14.78	season	tymor
+15.21	smell (vb intrans)	arogli
+15.21	smell (vb intrans)	arogleuo
+15.21	smell (vb intrans)	gwynto
+15.212	sniff	ffroeni
+15.212	sniff	synhwyro
+15.22	smell (vb trans)	arogleuo
+15.22	smell (vb trans)	synhwyro
+15.22	smell (vb trans)	clywed
+15.25	fragrant, good smelling	peraroglus
+15.25	fragrant, good smelling	persawrus
+15.26	stinking, bad smelling	drewllyd
+15.26	stinking, bad smelling	drycsawrus
+15.31	taste	blasu
+15.31	taste	chwaethu
+15.35	sweet	melys
+15.36	salty	hallt
+15.37	bitter	chwerw
+15.38	acid, sour	sur
+15.38	acid, sour	egr
+15.39	brackish	helïaidd
+15.39	brackish	halltaidd
+15.41	hear	clywed
+15.42	listen	gwrando
+15.44	sound, noise	sain
+15.44	sound, noise	sŵn
+15.45	loud	uchel
+15.45	loud	swnllyd
+15.46	quiet, silence	llonydd
+15.46	quiet, silence	tawelwch
+15.51	see	gweld
+15.51	see	gweled
+15.52	look, look at	edrych
+15.52	look, look at	syllu
+15.55	show	dangos
+15.56	shine	disgleirio
+15.56	shine	llewyrchu
+15.57	bright	golau
+15.57	bright	disglair
+15.61	color	lliw
+15.62	light (in color)	golau
+15.63	dark (in color)	tywyll
+15.64	white	gwyn
+15.64	white	can
+15.65	black	du
+15.66	red	coch
+15.66	red	rhudd
+15.67	blue	glas
+15.68	green	gwyrdd
+15.68	green	glas
+15.69	yellow	melyn
+15.71	touch	cyffwrdd
+15.712	pinch	pinsio
+15.712	pinch	gwasgu
+15.72	feel	teimlo
+15.72	feel	synhwyro
+15.74	hard	caled
+15.75	soft	meddal
+15.76	rough	garw
+15.77	smooth	llyfn
+15.78	sharp	llym
+15.78	sharp	siarp
+15.79	blunt, dull	pwl
+15.81	heavy	trwm
+15.82	light (in weight)	ysgafn
+15.83	wet, damp	gwlyb
+15.83	wet, damp	llaith
+15.83	wet, damp	tamp
+15.84	dry	sych
+15.85	hot	poeth
+15.85	hot	twym
+15.85	hot	cynnes
+15.85	hot	brwd
+15.851	warm	cynnes
+15.851	warm	twym
+15.86	cold	oer
+15.87	clean	glân
+15.88	dirty, soiled	budr
+15.88	dirty, soiled	brwnt
+15.89	wrinkled	crych
+15.89	wrinkled	crychlyd
+15.89	wrinkled	crychog
+16.11	soul, spirit	enaid
+16.11	soul, spirit	ysbryd
+16.15	surprised, astonished	syn
+16.15	surprised, astonished	wedieisynnu
+16.18	good fortune, luck	lwcdda
+16.18	good fortune, luck	ffawddda
+16.19	misfortune, bad luck	anffawd
+16.19	misfortune, bad luck	anlwc
+16.23	joyful, glad, happy	llawen
+16.23	joyful, glad, happy	llon
+16.23	joyful, glad, happy	llawenydd
+16.23	joyful, glad, happy	dywenydd
+16.25	laugh	chwerthin
+16.251	smile	gwenu
+16.26	play	chwarae
+16.27	love	cariad
+16.27	love	serch
+16.27	love	caru
+16.29	kiss	cusanu
+16.3	embrace	cofleidio
+16.31	pain	poen
+16.32	grief, sorrow, sadness	gofid
+16.32	grief, sorrow, sadness	galar
+16.32	grief, sorrow, sadness	tristwch
+16.33	anxiety, worry	pryder
+16.34	regret, be sorry	edifarhau
+16.34	regret, be sorry	gresynu
+16.35	pity	tosturi
+16.35	pity	trugaredd
+16.37	cry, weep	wylo
+16.37	cry, weep	crio
+16.38	tear (noun)	deigryn
+16.39	groan	griddfan
+16.39	groan	ochain
+16.39	groan	ocheneidio
+16.41	hate	cas
+16.41	hate	casineb
+16.42	anger	dicter
+16.42	anger	llid
+16.44	envy, jealousy	cenfigen
+16.44	envy, jealousy	eiddigedd
+16.45	shame (noun)	cywilydd
+16.45	shame (noun)	gwaradwydd
+16.45	shame (noun)	gwarth
+16.48	proud	balch
+16.51	dare	beiddio
+16.51	dare	meiddio
+16.52	brave	dewr
+16.52	brave	gwrol
+16.53	fear, fright	ofn
+16.53	fear, fright	dychryn
+16.54	danger	perygl
+16.54	danger	enbydrwydd
+16.62	desire, want	dymuno
+16.622	choose	dewis
+16.63	hope	gobaith
+16.65	faithful	ffyddlon
+16.66	true	gwir
+16.66	true	cywir
+16.67	lie, tell lies	dweudcelwydd
+16.68	deceit	twyll
+16.69	forgive	maddau
+16.71	good	da
+16.71	good	mad
+16.72	bad	drwg
+16.73	right, correct	iawn
+16.73	right, correct	cyfiawn
+16.73	right, correct	cywir
+16.74	wrong	anghywir
+16.76	fault	bai
+16.77	mistake, error	camgymeriad
+16.77	mistake, error	gwall
+16.78	blame	bai
+16.79	praise	moliant
+16.79	praise	mawl
+16.81	beautiful	hardd
+16.81	beautiful	del
+16.81	beautiful	glân
+16.81	beautiful	teg
+16.81	beautiful	tlws
+16.82	ugly	hyll
+16.82	ugly	hagr
+16.83	greedy	barus
+16.83	greedy	gwancus
+16.84	clever	call
+16.84	clever	clyfar
+16.84	clever	deallus
+17.11	mind	meddwl
+17.13	think (= reflect)	meddwl
+17.14	think (= be of the opinion)	tybio
+17.14	think (= be of the opinion)	credu
+17.15	believe	credu
+17.16	understand	deall
+17.17	know	gwybod
+17.17	know	adnabod
+17.171	guess	dyfalu
+17.172	imitate	dynwared
+17.18	seem	ymddangos
+17.19	idea, notion	syniad
+17.21	wise	doeth
+17.21	wise	call
+17.22	foolish, stupid	ffôl
+17.22	foolish, stupid	ynfyd
+17.22	foolish, stupid	hurt
+17.23	insane, crazy	gwallgof
+17.23	insane, crazy	gorffwyll
+17.24	learn	dysgu
+17.242	study	astudio
+17.25	teach	dysgu
+17.26	pupil	disgybl
+17.27	teacher	athro
+17.28	school	ysgol
+17.31	remember	cofio
+17.32	forget	anghofio
+17.32	forget	ebargofi
+17.34	clear, plain	clir
+17.34	clear, plain	golau
+17.34	clear, plain	eglur
+17.35	obscure	aneglur
+17.36	secret	dirgel
+17.36	secret	cyfrinachol
+17.37	sure, certain	siŵr
+17.37	sure, certain	sicr
+17.38	explain	esbonio
+17.38	explain	egluro
+17.41	intention, purpose	bwriad
+17.41	intention, purpose	amcan
+17.41	intention, purpose	pwrpas
+17.42	cause	achosi
+17.43	doubt	amau
+17.44	suspect	drwgdybio
+17.441	betray	bradychu
+17.45	need, necessity	angen
+17.45	need, necessity	rhaid
+17.46	easy	hawdd
+17.47	difficult	anodd
+17.48	try, attempt	ceisio
+17.49	way, manner	modd
+17.49	way, manner	ffordd
+17.51	and	a
+17.52	because	oherwydd
+17.52	because	oblegid
+17.52	because	achos
+17.53	if	os
+17.53	if	a
+17.54	or	neu
+17.54	or	ynteu
+17.55	yes, affirmative	ie
+17.55	yes, affirmative	do
+17.56	no, negative	na
+17.56	no, negative	negyddol
+17.61	how?	sut?
+17.62	how many?	sawl?
+17.63	how much?	faint?
+17.64	what?	beth?
+17.65	when?	pabryd?
+17.65	when?	pryd?
+17.66	where?	ble?
+17.67	which?	paun?
+17.67	which?	p'un?
+17.68	who?	pwy?
+17.69	why?	pam?
+18.11	voice	llais
+18.12	sing	canu
+18.13	shout, cry out	bloeddio
+18.13	shout, cry out	gweiddi
+18.15	whisper	sibrwd
+18.15	whisper	siffrwd
+18.16	mumble	myngial
+18.16	mumble	mwmial
+18.16	mumble	mwmian
+18.17	whistle	chwibanu
+18.18	shriek, screech	sgrechian
+18.19	howl	udo
+18.19	howl	ubain
+18.21	speak, talk	siarad
+18.21	speak, talk	llefaru
+18.211	stutter, stammer	siaradagatal
+18.211	stutter, stammer	cecian
+18.22	say	dweud
+18.22	say	dywedyd
+18.221	tell story	adroddstori
+18.222	speech (make a)	araith
+18.222	speech (make a)	areithio
+18.23	silent (be)	tewi
+18.23	silent (be)	bodynddistaw
+18.24	language	iaith
+18.26	word	gair
+18.28	name	enw
+18.31	ask (question, inquire)	gofyn
+18.31	ask (question, inquire)	holi
+18.32	answer	ateb
+18.33	admit, confess	cyfaddef
+18.33	admit, confess	cyffesu
+18.34	deny	gwadu
+18.35	ask, request	gofyn
+18.36	promise	addo
+18.37	refuse	gwrthod
+18.37	refuse	gwarafun
+18.37	refuse	nadu
+18.37	refuse	nacáu
+18.37	refuse	gomedd
+18.38	forbid	gwahardd
+18.39	rebuke, scold	ceryddu
+18.39	rebuke, scold	cystwyo
+18.41	call (=summon)	galw
+18.42	call (=name)	galw
+18.43	announce	cyhoeddi
+18.43	announce	datgan
+18.44	threaten	bygwth
+18.45	boast	ymffrostio
+18.45	boast	brolio
+18.51	write	ysgrifennu
+18.52	read	darllen
+18.56	paper	papur
+18.57	pen	pin
+18.61	book	llyfr
+18.67	poet	bardd
+18.67	poet	prydydd
+18.71	flute	ffliwt
+18.71	flute	chwibanogl
+18.72	drum	drwm
+18.72	drum	tabwrdd
+18.73	horn, trumpet	corn
+18.73	horn, trumpet	utgorn
+18.74	rattle	ratl
+18.74	rattle	cleciwr
+19.11	country	gwlad
+19.12	one's native country	gwlad
+19.15	city, town	dinas
+19.15	city, town	tref
+19.16	village	pentref
+19.17	boundary	terfyn
+19.17	boundary	ffin
+19.21	people (populace)	pobl
+19.21	people (populace)	gwerin
+19.23	tribe, clan	llwyth
+19.23	tribe, clan	tylwyth
+19.23	tribe, clan	clan
+19.24	chief, chieftain	pennaeth
+19.25	staff, walking stick	ffon
+19.31	rule, govern	rheoli
+19.31	rule, govern	llywodraethu
+19.32	king, ruler	brenin
+19.32	king, ruler	rheolwr
+19.32	king, ruler	llywodraethwr
+19.33	queen	brenhines
+19.36	noble, nobleman	pendefig
+19.36	noble, nobleman	uchelwr
+19.37	citizen, subject	dinesydd
+19.37	citizen, subject	deiliad
+19.41	master	meistr
+19.41	master	arglwydd
+19.42	slave	caethwas
+19.43	servant	gwas
+19.43	servant	gweinidog
+19.44	freeman	rhydd
+19.45	command, order	gorchymyn
+19.45	command, order	ordro
+19.46	obey	ufuddhau
+19.47	let, permit	gadael
+19.47	let, permit	caniatáu
+19.51	friend, companion	cyfaill
+19.51	friend, companion	ffrind
+19.51	friend, companion	cydymaith
+19.52	enemy	gelyn
+19.54	neighbor	cymydog
+19.55	stranger	dieithryn
+19.55	stranger	dyndieithr
+19.55	stranger	merch
+19.55	stranger	menyw
+19.55	stranger	dynesddieithr
+19.56	guest	gwestai
+19.57	host	lletywr
+19.57	host	gwesteiwr
+19.58	help, aid	cynorthwyo
+19.58	help, aid	helpu
+19.59	hinder, prevent	rhwystro
+19.59	hinder, prevent	atal
+19.61	custom	defod
+19.61	custom	arfer
+19.62	strife, quarrel	cynnen
+19.62	strife, quarrel	ymryson
+19.62	strife, quarrel	ymrafael
+19.62	strife, quarrel	ffrae
+19.62	strife, quarrel	cweryl
+19.63	conspiracy, plot	cynllwyn
+19.65	meet	cyfarfod
+19.72	prostitute	putain
+20.11	fight (vb)	ymladd
+20.13	war, battle	rhyfel
+20.13	war, battle	brwydr
+20.13	war, battle	cad
+20.14	peace	heddwch
+20.15	army	byddin
+20.15	army	llu
+20.17	soldier	milwr
+20.21	weapons, arms	arfau
+20.22	club	pastwn
+20.222	battle-ax	bwyellryfel
+20.23	sling	ffondafl
+20.24	bow	bwa
+20.25	arrow	saeth
+20.26	spear	gwaywffon
+20.26	spear	gwayw
+20.27	sword	cleddyf
+20.28	gun, cannon	gwn
+20.28	gun, cannon	gwnmawr
+20.31	armor (defensive)	arfwisg
+20.31	armor (defensive)	arfogaeth
+20.33	helmet	helm
+20.34	shield	tarian
+20.35	fortress	caer
+20.35	fortress	castell
+20.36	tower	tŵr
+20.41	victory	buddugoliaeth
+20.42	defeat	gorchfygiad
+20.42	defeat	trechiad
+20.43	attack	ymosod
+20.44	defend	amddiffyn
+20.45	retreat	cilio
+20.45	retreat	encilio
+20.46	surrender	ildio
+20.46	surrender	rhoddiifyny
+20.46	surrender	rhoi'rgorau
+20.47	captive, prisoner	carcharor
+20.471	guard, sentinel	gwarchodwr
+20.471	guard, sentinel	gwyliwr
+20.48	booty, spoils	ysglyfaeth
+20.48	booty, spoils	ysbail
+20.49	ambush	cynllwyn
+20.51	fisherman	pysgotwr
+20.52	fishhook	bachpysgota
+20.53	fishing line	leinbysgota
+20.53	fishing line	llinynpysgota
+20.54	fishnet	rhwydbysgota
+20.55	fish trap	maglbysgod
+20.56	bait	abwyd
+20.61	hunt	hela
+20.62	shoot	saethu
+20.63	miss (target)	methu
+20.64	trap (noun)	magl
+20.64	trap (noun)	trap
+20.65	trap (vb)	maglu
+20.65	trap (vb)	dal
+20.65	trap (vb)	trapio
+21.11	law	cyfraith
+21.11	law	deddf
+21.15	court	llys
+21.16	judge (vb)	barnu
+21.17	judgment	barn
+21.17	judgment	brawd
+21.18	judge (noun)	barnwr
+21.18	judge (noun)	brawdwr
+21.21	plaintiff	achwynydd
+21.22	defendant	diffynnydd
+21.23	witness	tyst
+21.24	swear	tyngu
+21.25	oath	llw
+21.31	accuse	cyhuddo
+21.32	condemn	condemnio
+21.33	convict (vb)	barnu
+21.33	convict (vb)	dyfarnuyneuog
+21.33	convict (vb)	euogfarnu
+21.33	convict (vb)	euogbrofi
+21.34	acquit	dieuogi
+21.34	acquit	rhyddfarnu
+21.35	guilty	euog
+21.36	innocent	dieuog
+21.36	innocent	diniwed
+21.37	penalty, punishment	cosb
+21.37	penalty, punishment	poen
+21.38	fine	dirwy
+21.39	prison, jail	carchar
+21.42	murder	llofruddiaeth
+21.43	adultery	godineb
+21.44	rape	trais
+21.46	arson	llosgi
+21.47	perjury	anudon
+21.51	steal	dwyn
+21.51	steal	lladrata
+21.52	thief	lleidr

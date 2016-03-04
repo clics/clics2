@@ -1,0 +1,1497 @@
+@classification: North Caucasian,East Caucasian,Dargi
+@ids-name: Dargwa_Dialect_Muiri_CyrillTrans
+@iso: dar
+@language: Dargwa (Muiri)
+@size: 1490
+@source: ids
+@variety: Muiri
+1.1	world	дуне
+1.21	earth, land	ванза
+1.21	earth, land	улка
+1.212	earth=ground, soil	ванза
+1.212	earth=ground, soil	гІянччи
+1.213	dust	хвисса
+1.214	mud	хІянра
+1.215	sand	къум
+1.22	mountain, hill	дубура
+1.22	mountain, hill	муза
+1.222	cliff, precipice	лис
+1.23	plain, field	диркь
+1.23	plain, field	авлакъ
+1.24	valley	къатти
+1.27	shore	дум
+1.27	shore	урхьвадум
+1.28	cave	гІиникъ
+1.31	water	шин
+1.32	sea	урхьу
+1.322	calm (of sea)	рахІятил
+1.323	rough (of sea)	бургъан
+1.324	foam	хьамхьа
+1.329	ocean	урхьу
+1.329	ocean	акиан
+1.33	lake	кІав
+1.35	wave	руккири
+1.36	river, stream, brook	хІиркІ
+1.36	river, stream, brook	варачан
+1.362	whirlpool	шившитІан
+1.37	spring, well	гІиницц
+1.37	spring, well	урумчч
+1.37	spring, well	къуйу
+1.38	swamp	билхІла
+1.38	swamp	шинхъ
+1.39	waterfall	чяххи
+1.41	woods, forest	вацІа
+1.42	tree (cf 08.600)	ккалкки
+1.43	wood	урцули
+1.44	stone, rock	къаркъа
+1.44	stone, rock	лис
+1.45	earthquake	мирс
+1.45	earthquake	мирсдакьни
+1.51	sky	ццак
+1.52	sun	бархІи
+1.53	moon	бацц
+1.54	star	ури
+1.55	lightning	лямцІ
+1.56	thunder	къукъу
+1.57	lightning (as striking)	лямцІ
+1.58	storm	бурям
+1.59	rainbow	ккяхІяри
+1.61	light (noun)	шала
+1.62	darkness	цІябдиш
+1.63	shade, shadow	бяхтти
+1.64	dew	аремарка
+1.71	air	гьава
+1.72	wind	дагІ
+1.73	cloud	къургури
+1.74	fog	дирихь
+1.75	rain (noun)	марка
+1.76	snow (noun)	духІя
+1.77	ice	миъ
+1.77	ice	миъбулхъ
+1.78	weather	аргъ
+1.81	fire	цІа
+1.82	flame (noun)	лами
+1.83	smoke (noun)	ппягІ
+1.84	ashes	палтта
+1.841	embers	ккантари
+1.851	burn (vb trans)	абалквака
+1.852	burn (vb intrans)	уххана
+1.86	light, kindle, ignite	абулкана
+1.861	extinguish	бялшахъана
+1.87	match (noun)	пирхикІ
+1.87	match (noun)	ишпишкІа
+1.88	firewood	урцули
+1.89	charcoal	урцвакка
+2.1	person, human being	адими
+2.21	man (vs. woman)	мургуладими
+2.22	woman	хьунуладими
+2.23	male	марга
+2.24	female	кквачча
+2.25	boy	дархІа
+2.251	young man (adolescent)	жагьилдархІа
+2.26	girl	рурси
+2.261	young woman (adolescent)	рурси
+2.27	child	виштІасси
+2.28	infant, baby	нягъяй
+2.28	infant, baby	виштІасси
+2.31	husband	мургул
+2.32	wife	хьунул
+2.33	marry	хъайкикайара
+2.33	marry	ширирукьяна
+2.34	marriage, wedding	микъ
+2.34	marriage, wedding	магьар
+2.341	divorce	дикІарикни
+2.341	divorce	магьардихъни
+2.35	father	атта
+2.36	mother	аба
+2.37	parents	багІти
+2.38	married man	хъайкикайибил
+2.39	married woman	ширирил
+2.41	son	дархІа
+2.42	daughter	рурси
+2.43	offspring (son or daughter)	биштІати
+2.44	brother	уцци
+2.444	older brother	хулелуцци
+2.445	younger brother	кьвилауцци
+2.45	sister	руцци
+2.454	older sister	хулелруцци
+2.455	younger sister	кьвиларуцци
+2.456	sibling	уцци
+2.456	sibling	руцци
+2.458	twins	кІвилизанти
+2.46	grandfather	хулатта
+2.461	old man	ухъна
+2.47	grandmother	аттаба
+2.47	grandmother	абаба
+2.471	old woman	рухъна
+2.48	grandson	дархІадархІа
+2.48	grandson	рурседархІа
+2.49	granddaughter	дархІарурси
+2.49	granddaughter	рурсерурси
+2.51	uncle	ацци
+2.511	mother's brother	ацци
+2.511	mother's brother	абалауцци
+2.512	father's brother	ацци
+2.512	father's brother	абалауцци
+2.52	aunt	абатай
+2.521	mother's sister	абатай
+2.521	mother's sister	абаларуцци
+2.522	father's sister	абатай
+2.522	father's sister	атталаруцци
+2.53	nephew	уццедархІа
+2.53	nephew	руццедархІа
+2.54	niece	уццерурси
+2.54	niece	руццерурси
+2.55	cousin	уццикьар
+2.56	ancestors	хулабагІти
+2.57	descendants	наслу
+2.57	descendants	киракІубти
+2.61	father-in-law (of a man)	хулатта
+2.611	father-in-law (of a woman)	хулатта
+2.62	mother-in-law (of a man)	хулаба
+2.621	mother-in-law (of a woman)	хулаба
+2.63	son-in-law (of a man)	ккуяв
+2.631	son-in-law (of a woman)	ккуяв
+2.64	daughter-in-law (of a man)	дархІахьунул
+2.641	daughter-in-law (of a woman)	дархІахьунул
+2.641	daughter-in-law (of a woman)	уццехьунул
+2.71	stepfather	угайатта
+2.72	stepmother	угайаба
+2.73	stepson	угайдархІа
+2.74	stepdaughter	угайрурси
+2.75	orphan	цІура
+2.76	widow	ккама
+2.76	widow	ккамахьунул
+2.77	widower	ккама
+2.77	widower	ккамамургул
+2.81	relatives, kinsmen	тухумти
+2.82	family	хъалибаркк
+2.82	family	кулпет
+2.91	I	ну
+2.92	you (singular)	хІу
+2.93	he/she/it	гьет
+2.94	we	нуша
+2.941	we (inclusive)	нуша
+2.942	we (exclusive)	нуша
+2.95	you (plural)	хІуша
+2.96	they	гьетти
+3.11	animal	хІяйван
+3.12	male (adj)	мургуладимила
+3.13	female (adj)	хьунуладимила
+3.15	livestock	хІяйванти
+3.16	pasture	дукидиканмир
+3.18	herdsman	букІун
+3.18	herdsman	хІанкьула
+3.19	stable, stall	ябнеладярхъ
+3.2	cattle (bovine)	хулахІяйванти
+3.21	bull	бугъа
+3.22	ox	унц
+3.23	cow	кьвял
+3.24	calf	къачча
+3.25	sheep	мацца
+3.25	sheep	кве
+3.26	ram	кве
+3.28	ewe	мацца
+3.29	lamb	мукьара
+3.32	boar	жакьа
+3.32	boar	маргажакьа
+3.34	sow	жакьа
+3.34	sow	ккваччажакьа
+3.35	pig	жакьа
+3.36	goat	гІичча
+3.37	he-goat	кьяца
+3.38	kid	гиди
+3.38	kid	ккиччба
+3.41	horse (equine)	урчи
+3.41	horse (equine)	ябу
+3.42	stallion	маргаурчи
+3.44	mare	кквацца
+3.45	foal, colt	тяй
+3.46	ass, donkey	хІамхІа
+3.47	mule	хІамхІарукъ
+3.5	fowl	вяргІякката
+3.52	cock, rooster	ттахъва
+3.54	hen	вяргІя
+3.55	chicken	ччибхІя
+3.56	goose	къаз
+3.57	duck	бятІ
+3.58	nest	букьа
+3.581	bird	чяква
+3.582	seagull	чяйкІа
+3.582	seagull	урхьвачяква
+3.583	heron	чяква
+3.584	eagle	чІака
+3.585	hawk	улугь
+3.586	vulture	чІака
+3.591	bat	гІиргІа
+3.592	parrot	папугай
+3.593	crow	къяна
+3.594	dove	лагьва
+3.596	owl	ккуккумяв
+3.61	dog	хви
+3.61	dog	маргахви
+3.614	rabbit	гІари
+3.62	cat	кката
+3.63	mouse, rat	ваца
+3.63	mouse, rat	кьургуваца
+3.65	fish	бяликъ
+3.652	fin (dorsal)	дукала
+3.653	fishscale	бяликълакам
+3.655	shell	къажул
+3.661	shark	акула
+3.662	porpoise, dolphin	делпин
+3.663	whale	кит
+3.663	whale	кІас
+3.71	wolf	бецІ
+3.72	lion	арсланкъаплан
+3.73	bear	синка
+3.74	fox	ккуртта
+3.75	deer	барткІи
+3.75	deer	гьинта
+3.76	monkey	майманакк
+3.77	elephant	пилжакьа
+3.78	camel	валри
+3.81	insect	тІунтІри
+3.811	louse	нир
+3.812	nit (louse egg)	кьи
+3.813	flea	цІика
+3.814	centipede	дарштІахІан
+3.815	scorpion	гІякъраб
+3.816	cockroach	таракан
+3.817	ant	гІимилд
+3.818	spider	хъисхъа
+3.819	spider web	хъисхъаладуши
+3.82	bee	мирхъи
+3.821	beeswax	мурчІали
+3.822	beehive	мирхъешали
+3.822	beehive	шали
+3.823	wasp	гІиччамирхъи
+3.83	fly	тІинтІ
+3.831	sandfly (midge), gnat	ливливакк
+3.832	mosquito	ливливакк
+3.84	worm	милякъ
+3.85	snake	чІичІала
+3.91	firefly	дуккилямцІ
+3.92	butterfly	къабе
+3.93	grasshopper	цІирцІ
+3.94	snail	маркаччи
+3.95	frog	гІятІа
+3.96	lizard	шилтІа
+3.97	crocodile, alligator	кракадил
+3.98	turtle	вакъкигІятІа
+4.11	body	чарх
+4.12	skin, hide	кам
+4.12	skin, hide	ккули
+4.13	flesh	чарх
+4.13	flesh	хамха
+4.14	hair (head)	гъиз
+4.142	beard	муцІур
+4.144	body hair	гъиз
+4.145	pubic hair	дигІянагъиз
+4.146	dandruff	гъвякк
+4.15	blood	хІи
+4.151	vein, artery	хІитум
+4.16	bone	ликка
+4.162	rib	шаликка
+4.17	horn	мукаки
+4.18	tail	кІими
+4.19	back	къакъ
+4.191	spine	къакълаликка
+4.2	head	бикІ
+4.201	side of head, temple	чІямикІвамир
+4.202	skull	бикІлавакъ
+4.203	brain	махІа
+4.204	face	бяхІ
+4.205	forehead	антта
+4.207	jaw	хъяйхъяй
+4.208	cheek	ляжи
+4.209	chin	муцІур
+4.21	eye	хІули
+4.212	eyebrow	нитт
+4.213	eyelid	кьяпІикІ
+4.214	eyelash	кьяпІикІни
+4.215	blink	цІивара
+4.22	ear	лихІи
+4.221	earlobe	лихІегІяш
+4.222	earwax	лихІеняс
+4.23	nose	къанкъ
+4.231	nostril	къанкълагІями
+4.232	mucus (nasal)	шимидиш
+4.232	mucus (nasal)	къвяттни
+4.24	mouth	мухІли
+4.241	beak	мухІли
+4.25	lip	кІвинтІ
+4.26	tongue	лимцци
+4.27	tooth	цула
+4.271	gums	инчІухъи
+4.272	molartooth	гІилабилцула
+4.28	neck	хъяб
+4.281	nape of neck	гІилахъвянтІи
+4.29	throat	сускьакьари
+4.29	throat	сус
+4.3	shoulder	хъарчІала
+4.301	shoulderblade	кІатІакьулса
+4.301	shoulderblade	кІатІакьулсаликка
+4.302	collarbone	хъуцІарлаликка
+4.31	arm	някъ
+4.312	armpit	шалаула
+4.32	elbow	ккаццанякъ
+4.321	wrist	хъябнякъ
+4.33	hand	бикІнякъ
+4.331	palm of hand	тахъ
+4.34	finger	тІул
+4.342	thumb	хулатІул
+4.344	fingernail	никва
+4.345	claw	кьалши
+4.35	leg	тІахІ
+4.351	thigh	шали
+4.352	calf of leg	кванитІахІ
+4.36	knee	кьукьа
+4.37	foot	лутІитІахІ
+4.371	ankle	кьякьяликка
+4.372	heel	ттакка
+4.374	footprint	къил
+4.38	toe	ккамул
+4.392	wing	дукала
+4.393	feather	пахІала
+4.4	chest	михъири
+4.41	breast (of woman)	михъири
+4.41	breast (of woman)	мамри
+4.412	nipple, teat	мама
+4.42	udder	бурхІа
+4.43	navel	кванекъутта
+4.44	heart	уркІи
+4.441	lung	хургьари
+4.45	liver	дуликІ
+4.451	kidney	урцлец
+4.452	spleen	кІацІ
+4.46	stomach	квани
+4.461	intestines, guts	рутт
+4.462	waist	вай
+4.463	hip	урттур
+4.464	buttocks	хахлакъуттни
+4.47	womb	дархІнухь
+4.47	womb	дукла
+4.49	testicle	кьуликьа
+4.492	penis	ттуна
+4.51	breathe, breath	гьигьикІвара
+4.51	breathe, breath	гьигьикІни
+4.52	yawn, gape	гьагьайкІвара
+4.521	hiccough	гьиркьвикІвара
+4.53	cough	хъахІикІвара
+4.54	sneeze	гІимчикІвара
+4.55	perspire	маяливалтана
+4.56	spit	туикІвара
+4.56	spit	ту
+4.57	vomit	гІагІикІвара
+4.58	bite	кьацІикІвара
+4.59	lick	лямикІвара
+4.591	dribble	шатраливиркьара
+4.61	sleep	уссана
+4.612	snore	хурикІвара
+4.62	dream	меркибиара
+4.62	dream	хьуликІвара
+4.63	wake up	киулхІана
+4.64	break wind	къякъидархьаара
+4.65	urinate	ччихІберкІара
+4.66	defecate	къулкъидеркІара
+4.66	defecate	гІилаччихІдеркІара
+4.67	have sexual intercourse	рирхІяра
+4.68	shiver	зирикІвара
+4.69	bathe	виццара
+4.71	beget (of father)	акІвахъара
+4.72	born (to be)	акІвара
+4.73	pregnant	кунигьварил
+4.732	conceive	кунигьварригьвара
+4.74	live, living, life	хІиригьвара
+4.74	live, living, life	мицІирил
+4.74	live, living, life	гІамру
+4.75	die, dead	вебкІара
+4.75	die, dead	таманигьвара
+4.75	die, dead	вебкІибил
+4.751	drowned	кагІанил
+4.76	kill	кабуршара
+4.77	corpse	жаназа
+4.77	corpse	бебкІа
+4.78	bury (the dead)	укатара
+4.79	grave, tomb	хаб
+4.81	strong, mighty, powerful	цІакьил
+4.81	strong, mighty, powerful	кьуватил
+4.82	weak	хІархІил
+4.82	weak	гьунаракквар
+4.83	well, health	арел
+4.83	well, health	арадиш
+4.84	sick, sickness	зягІипил
+4.84	sick, sickness	иццан
+4.84	sick, sickness	иццала
+4.841	fever	буцІардиш
+4.841	fever	рурччара
+4.841	fever	сирсирикІвара
+4.842	goiter	сусбемттни
+4.843	cold (catarrh)	хъахІхъвинщ
+4.85	wound, sore	дяхъи
+4.852	bruise	иццеъни
+4.852	bruise	иццеурмир
+4.853	swelling	демттри
+4.854	itch	буккни
+4.855	blister	шинтари
+4.856	boil (noun)	бакІри
+4.857	pus	шахха
+4.858	scar	хІана
+4.86	cure, heal	арабиркьара
+4.87	physician	тухтур
+4.88	medicine, drug	дарман
+4.88	medicine, drug	сабаб
+4.89	poison	агъу
+4.91	tired, weary	вамсурил
+4.912	rest	кимумгьара
+4.912	rest	бамсриахъара
+4.92	lazy	азгъин
+4.93	bald	амчІа
+4.94	lame	цинкьикІвара
+4.95	deaf	гІанцІа
+4.96	mute	гъайхІадалгьан
+4.97	blind	сукъур
+4.98	intoxicated	берччибил
+4.98	intoxicated	кепил
+4.99	naked, bare	чІянкІусси
+4.99	naked, bare	гьарккил
+5.11	eat	укана
+5.12	food	берквала
+5.12	food	хурег
+5.121	cooked	белхьунил
+5.122	raw	бятІусси
+5.123	ripe	бикьурил
+5.123	ripe	сабаибил
+5.124	green, unripe	шиниша
+5.124	green, unripe	хІабикьурил
+5.124	green, unripe	сатхІабаибил
+5.125	rotten	берхІибил
+5.13	drink	уччара
+5.14	hunger	ккаши
+5.141	famine	ккаши
+5.141	famine	ккушигьни
+5.15	thirst	мулуги
+5.15	thirst	мулугдиш
+5.16	suck	буччара
+5.16	suck	чІапІбиркьара
+5.18	chew	чІямбиркьара
+5.181	swallow	кьвяртІкайара
+5.19	choke	гІаттайктІара
+5.21	cook	лухьхьана
+5.22	boil (vb)	рурччирайара
+5.23	roast, fry	буцІара
+5.24	bake	буцІара
+5.25	oven	пич
+5.26	pot, cooking vessel	хъаба
+5.27	kettle	чяйникк
+5.28	pan	шанкк
+5.31	dish	сукра
+5.31	dish	халдари
+5.32	plate	халдари
+5.33	bowl	сукра
+5.34	pitcher, jug	гахсин
+5.35	cup, drinking vessel	сукра
+5.36	saucer	кьвиласукра
+5.37	spoon	халча
+5.38	knife	дис
+5.39	fork	цІукка
+5.391	tongs	къямцІа
+5.41	meal (a)	берквала
+5.41	meal (a)	ухни
+5.42	breakfast	ччавадиква
+5.44	dinner	хІиредиква
+5.45	supper	дуккедиква
+5.46	peel	амудикьара
+5.46	peel	умчІара
+5.47	sieve, strain	ургара
+5.47	sieve, strain	камара
+5.48	scrape	бишхъяра
+5.48	scrape	суркбиркьара
+5.49	stir, mix	хвалтІбиркьара
+5.51	bread	цІулхІа
+5.53	dough	битІу
+5.54	knead	балшана
+5.55	meal, flour	битІу
+5.56	crush, grind	гІибкьиара
+5.56	crush, grind	дибгІяндиркьара
+5.57	mill	шилкьан
+5.58	mortar	ттинг
+5.58	mortar	ттингла
+5.59	pestle	къаркъа
+5.61	meat	диъ
+5.63	sausage	рутт
+5.63	sausage	калбаса
+5.63	sausage	сасискІа
+5.64	soup, broth	ниргъ
+5.65	vegetables	житІакьахІа
+5.66	bean	хъара
+5.7	potato	картушкІа
+5.71	fruit	цІидихь
+5.712	bunch	чупІ
+5.712	bunch	кьялши
+5.75	fig	инжир
+5.76	grape	тІутІи
+5.77	nut	къябикъкъари
+5.79	oil	шимиссимасла
+5.791	grease, fat	гІявадиш
+5.81	salt	цци
+5.82	pepper	исийут
+5.821	chili pepper	цІакьилисийут
+5.84	honey	вара
+5.85	sugar	чакар
+5.86	milk (noun)	ниъ
+5.87	milk (vb)	кайццара
+5.88	cheese	нуссе
+5.89	butter	нирх
+5.9	beverage, drink	дуччанти
+5.91	mead	маккатта
+5.92	wine	чягъир
+5.93	beer	пива
+5.94	fermented drink	дичч
+5.97	egg	ккидиккари
+5.971	egg yolk	бухъу
+6.11	put on (clothes)	вагІиркьара
+6.12	clothing, clothes	палтар
+6.13	tailor	палтарлаустта
+6.21	cloth	чІянкІи
+6.21	cloth	сакьла
+6.22	wool	ппала
+6.23	linen, flax	ккунатти
+6.24	cotton	бамба
+6.25	silk	архІя
+6.27	felt	варгьи
+6.28	fur	жаниварлаккули
+6.29	leather	кабц
+6.29	leather	ккули
+6.29	leather	кам
+6.31	spin	садилтІана
+6.32	spindle	дурукк
+6.33	weave	думхара
+6.34	loom	станок
+6.35	sew	иппара
+6.36	needle	буриппа
+6.37	awl	бурупп
+6.38	thread	тІуз
+6.39	dye	шяхъ
+6.41	cloak	палаш
+6.42	woman's dress	хьунрелахІава
+6.43	coat	пІалтІу
+6.44	shirt	хІава
+6.45	collar	хъябцІари
+6.46	skirt	йупка
+6.48	trousers	шаргьвар
+6.49	stocking, sock	динд
+6.49	stocking, sock	наскІи
+6.51	shoe	ттаппри
+6.51	shoe	тупла
+6.52	boot	ттатри
+6.52	boot	батинкІа
+6.54	shoemaker, cobbler	ттаппрукк
+6.54	shoemaker, cobbler	ттаппрелаустта
+6.55	hat, cap	ишлйапІа
+6.57	belt, girdle	хъяппа
+6.58	glove	кватІа
+6.61	pocket	киса
+6.62	button	кІичІ
+6.63	pin	кІвиркабуриппа
+6.71	ornament, adornment	накьиш
+6.72	jewel	дурхъелкъаркъа
+6.73	ring (for finger)	тІулика
+6.74	bracelet	кулихха
+6.75	necklace	баки
+6.75	necklace	мачни
+6.76	bead	мачи
+6.77	earring	урцІари
+6.78	headband, headdress	бикІликибилгьван
+6.78	headband, headdress	бикІла
+6.79	tattoo	чархликибаркьибттамгъа
+6.81	handkerchief, rag	яблукъ
+6.82	towel	палитинца
+6.82	towel	бяхІбушкан
+6.91	comb	дурикка
+6.92	brush	дурикка
+6.921	braid	къалкъа
+6.93	razor	бяхІлугІян
+6.93	razor	биритва
+6.94	ointment	гІявадиш
+6.95	soap	сягІбун
+6.96	mirror	ряхІимцІала
+7.11	dwell, live	хІириргьвара
+7.12	house	хъали
+7.13	hut	хъали
+7.131	garden-house	хъали
+7.14	tent	палатка
+7.14	tent	къуш
+7.15	yard, court	палатка
+7.15	yard, court	къуш
+7.17	cookhouse	цІахъали
+7.17	cookhouse	кухнйа
+7.18	meeting house	тавхани
+7.18	meeting house	кулуб
+7.21	room	хъали
+7.22	door, gate	унцца
+7.22	door, gate	къапу
+7.221	doorpost, jamb	унццакьалам
+7.23	lock (noun)	мигь
+7.231	latch, door-bolt	ккиркк
+7.24	key	унццухьала
+7.25	window	уркьлагьи
+7.26	floor	чІапІар
+7.27	wall	хъабяхІ
+7.31	fireplace	ужагъ
+7.32	stove	пич
+7.33	chimney	кьяпІи
+7.37	ladder	кканцци
+7.42	bed	ккарват
+7.421	pillow	гІанила
+7.422	blanket	йургъан
+7.43	chair	ута
+7.44	table	устул
+7.45	lamp, torch	чирагъ
+7.45	lamp, torch	панар
+7.46	candle	шям
+7.47	shelf	кьасси
+7.48	trough	мукьлукь
+7.51	roof	бурх
+7.53	ridgepole	убуц
+7.53	ridgepole	кьяца
+7.54	rafter	истарпила
+7.54	rafter	ццихни
+7.55	beam	ццихни
+7.56	post, pole	тІал
+7.57	board	уркьули
+7.58	arch	арсавари
+7.61	mason	къаркъаустта
+7.62	brick	калпиш
+7.63	mortar	сугъат
+7.64	adobe	гІянччехъали
+8.11	farmer	фермер
+8.12	field (for cultivation)	хъу
+8.13	garden	анхъ
+8.15	cultivate, till	ванзабуццахъара
+8.16	fence	хяри
+8.17	ditch	къанав
+8.17	ditch	татаул
+8.21	plow	балцана
+8.212	furrow	хъу
+8.212	furrow	къил
+8.22	dig	кІантІкабикІвара
+8.23	spade	кІатІа
+8.24	shovel	кІатІа
+8.24	shovel	шипиркІатІа
+8.25	hoe	ккацца
+8.26	fork	цІукка
+8.26	fork	къямкъя
+8.27	rake	булчала
+8.31	sow	балгІвана
+8.311	seed	гьви
+8.32	mow, reap	уттара
+8.32	mow, reap	иршара
+8.33	sickle, scythe	миш
+8.33	sickle, scythe	къалкъа
+8.34	thresh	диккбиркьара
+8.35	threshing-floor	дуригІи
+8.41	crop, harvest	сабухъ
+8.42	grain (barley, oats etc)	ризкьи
+8.43	wheat	анкІи
+8.44	barley	мухъи
+8.45	rye	суссул
+8.46	oats	нихъя
+8.47	maize, corn	хІяжланкІи
+8.48	rice	биринчч
+8.51	grass	кьар
+8.52	hay	мура
+8.53	plant (noun)	кьаршин
+8.531	plant (vb)	лидкьахъара
+8.54	root	имхІя
+8.55	branch	кьяли
+8.56	leaf	кІа
+8.57	flower	вава
+8.6	tree	ккалкки
+8.61	oak	микк
+8.62	beech	пурпи
+8.63	birch	махъ
+8.64	pine	кьитт
+8.65	fir	ел
+8.66	acorn	микки
+8.67	vine	тІутІеламурчІ
+8.68	tobacco	тамбаку
+8.69	smoke (tobacco)	папруслаккав
+8.691	pipe	къалиян
+8.72	tree stump	хъитІа
+8.73	tree trunk	ккалккетІал
+8.74	forked branch	кІвикьярякькьяли
+8.75	bark	кам
+8.75	bark	ккалккекам
+8.76	sap	кьарлашин
+8.81	palm tree	палма
+8.82	coconut	какус
+8.83	citrus fruit	бухъутІацІидихь
+8.84	banana tree	банаккалкки
+8.85	banyan	инжирлаккалкке
+8.93	gourd	къабакъ
+8.931	pumpkin, squash	къабакъ
+8.94	bamboo	бамбук
+8.97	nettle	мицци
+8.98	mushroom	жатталакьапІа
+9.11	do, make	биркьара
+9.12	work	хІянки
+9.14	bend	булкІахъана
+9.15	fold	рурккара
+9.16	tie, bind	билгьана
+9.161	untie	ирзара
+9.18	chain	раххаж
+9.19	rope, cord	тІанил
+9.192	knot (noun)	гІачч
+9.21	strike (hit, beat)	пяхъикІвара
+9.21	strike (hit, beat)	итара
+9.211	pound with fist	хункІалипяхъикІвара
+9.22	cut	кьисбиркьара
+9.221	cut down	кутІбиркьара
+9.222	chop, hew	ихъяра
+9.223	stab	хъячІкабаркьара
+9.23	knife	дис
+9.24	scissors, shears	лухІцІи
+9.25	ax	буритта
+9.251	adze	дагьра
+9.26	break	бялчана
+9.261	broken	бячунил
+9.261	broken	пашбихъубил
+9.27	split	бячана
+9.27	split	бутІнаттбаркьара
+9.28	tear	къяппбиркьара
+9.29	flay, skin	камкиравттара
+9.31	rub, wipe	бушкара
+9.32	stretch	битІикІара
+9.32	stretch	зузбиркьара
+9.33	pull	битІикІара
+9.34	spread out	гІяйбиркьара
+9.34	spread out	тІинтІбиркьара
+9.341	hang up	тталттарбатара
+9.342	press	гІибкьиара
+9.343	squeeze, wring	гІанччкайкІара
+9.35	pour	калкьана
+9.35	pour	кертІара
+9.36	wash	ицара
+9.37	sweep	бушкара
+9.38	broom	кьяркьлабушкала
+9.38	broom	бушкала
+9.422	tool	гІягІниахъала
+9.43	carpenter	урцаустта
+9.44	build	лушшана
+9.46	bore	гІями
+9.461	hollow out	ттурабирхъяра
+9.48	saw	рас
+9.49	hammer	кьякь
+9.5	nail	гІябул
+9.56	glue	килей
+9.56	glue	ламис
+9.6	smith, blacksmith	мигьлаустта
+9.61	forge	пушни
+9.62	anvil	уцца
+9.63	cast (metals)	къалиплигІи
+9.63	cast (metals)	кертІара
+9.64	gold	мургьи
+9.65	silver	арц
+9.66	copper, bronze	дубси
+9.66	copper, bronze	бухъутІамигь
+9.67	iron	мигь
+9.68	lead (noun)	гъургъашин
+9.69	tin, tinplate	цІубамигь
+9.71	potter	тІалхІяналаусста
+9.72	mold (clay etc)	къалирбиркьара
+9.73	clay	гІянччи
+9.74	glass	шиша
+9.75	weave, plait	бушара
+9.76	basket	карзина
+9.771	rug	тІамса
+9.771	rug	буццилкІана
+9.78	netbag	хярисумкІа
+9.79	fan (noun)	гьакІбиркьан
+9.79	fan (noun)	вентилятур
+9.791	fan (vb)	пяххубиркьара
+9.791	fan (vb)	гьакІбиркьара
+9.81	carve	кьицІабиркьара
+9.82	sculptor	скулптор
+9.83	statue	статуйа
+9.84	chisel	бурупп
+9.84	chisel	умшури
+9.88	paint (noun)	шяхъ
+9.89	paint (vb)	шяхълибикара
+9.89	paint (vb)	суратидиркьара
+10.11	move	шикьикІвара
+10.12	turn over	ласирхъяра
+10.13	turn around	ласяхъяра
+10.14	wind, wrap	рурккара
+10.15	roll	ласбиркьара
+10.16	drop (vb)	кІантІбикІвара
+10.17	twist	луссана
+10.21	rise	кивахІайхъара
+10.22	raise, lift	ахъбурцара
+10.23	fall	кабиркара
+10.24	drip	кІантІкІантІликалкьана
+10.25	throw	лайбикІара
+10.252	catch (ball)	бурцара
+10.26	shake	ттямхъбиркьара
+10.32	flow	чяхбикІвара
+10.32	flow	кабулхъана
+10.33	sink	калухІана
+10.34	float	квачІливиркьара
+10.35	swim	квачІливиркьара
+10.351	dive	шиукавхъана
+10.352	splash	чябхъикІвара
+10.37	fly (vb)	урцара
+10.38	blow	гьубикІвара
+10.41	creep, crawl	хъусикІвара
+10.412	kneel	кьукьмуциркара
+10.413	crouch	ккуккчайрара
+10.42	slide, slip	хІусикІвара
+10.43	jump, leap	тяхІикІвара
+10.431	kick	ттаргъикІвара
+10.44	dance	улхъана
+10.45	walk	вашара
+10.451	limp	цинкьикІвара
+10.46	run	дуцІикІвара
+10.47	go	вашара
+10.471	go up	кивахІялхъвана
+10.471	go up	лакквашара
+10.472	climb	кивахІялхъвана
+10.472	climb	алхъвана
+10.473	go down	увяхІкалхъвана
+10.473	go down	катІвашара
+10.474	go out	ттуралхъвана
+10.48	come	вашара
+10.481	come back	чарулхъана
+10.49	go away, depart	арашара
+10.491	disappear	витихъара
+10.51	flee	убшара
+10.51	flee	вебшнилаццибберцуттибурккара
+10.52	follow	гІирикъилливашара
+10.53	pursue	гІирикъкъиркайкара
+10.55	reach, arrive	гІириара
+10.55	reach, arrive	сайара
+10.56	approach	акквитиргьвара
+10.57	enter	ухІналхъвана
+10.61	carry (bear)	бикъкъара
+10.612	carry-in-hand	бикъкъара
+10.612	carry-in-hand	накъбакиббикъкъара
+10.613	carry-on-shoulder	бикъкъара
+10.613	carry-on-shoulder	хъурчІуликиббикъкъара
+10.614	carry-on-head	бикъкъара
+10.614	carry-on-head	бикІликиббикъкъара
+10.615	carry-underarm	шалауббикъкъара
+10.62	bring	сабикъкъара
+10.63	send	бархьиара
+10.64	lead (vb)	бикара
+10.65	drive	машинакиввашара
+10.66	ride	муртталивашара
+10.66	ride	урчикиввашара
+10.67	push, shove	къурттикІвара
+10.71	road	гьуни
+10.72	path	дякь
+10.74	bridge	ккуби
+10.75	carriage, wagon, cart	уркура
+10.76	wheel	хІула
+10.77	axle	арк
+10.78	yoke	дукІ
+10.81	ship	кками
+10.83	boat	лутка
+10.83	boat	къаякъ
+10.85	oar	шалхъа
+10.851	paddle (noun)	шалхъа
+10.852	row (vb)	квачІливиркьара
+10.86	rudder	рул
+10.87	mast	мачта
+10.88	sail (noun)	парус
+10.89	anchor	лабар
+10.91	harbor, port	порт
+11.11	have	бигьвара
+11.12	own, possess	вагІвитаара
+11.13	take	сайсара
+11.14	seize, grasp	бурцара
+11.14	seize, grasp	буцара
+11.15	hold	биххяра
+11.16	get, obtain	кайсара
+11.17	keep, retain	биххяра
+11.18	thing	ваяхІ
+11.21	give	битлуккана
+11.22	give back	чарбиркьара
+11.24	preserve, look after	мяхІкамбиркьара
+11.25	save, rescue	урурцахъара
+11.27	destroy	пашкалкьана
+11.28	harm, injure, damage	заралбиркьара
+11.31	seek, look for	умцІира
+11.32	find	бурккара
+11.33	lose	битихъахъара
+11.34	release, let go	баткайара
+11.43	money	арц
+11.44	coin	кепек
+11.51	rich	давлакисси
+11.52	poor	мисккин
+11.53	beggar	шяттякь
+11.53	beggar	маццамисккин
+11.54	avaricious, stingy	кьиркьир
+11.61	lend	киблалисбитлуккана
+11.62	borrow	киблалиссайсара
+11.63	owe	киблалиуввигьвара
+11.64	debt	кибла
+11.65	pay (vb)	багьабитлуккана
+11.66	account, reckoning	булни
+11.69	tax, tribute	налук
+11.69	tax, tribute	хІакь
+11.77	hire	бурцара
+11.77	hire	заманалиссайсара
+11.78	wages	къиянхІакь
+11.78	wages	зарпалатІа
+11.79	earn	биркьара
+11.81	buy	иссара
+11.82	sell	бирцара
+11.83	trade, barter	вачар
+11.83	trade, barter	бахІсур
+11.84	merchant	базриган
+11.84	merchant	вачарчакарлахІянкизар
+11.85	market (place)	базар
+11.86	store, shop	тукен
+11.87	price	багьа
+11.88	dear (costly, expensive)	ихІарил
+11.89	cheap	дургІел
+11.91	share (distribute)	дуртІара
+11.92	weigh	кайкІара
+12.1	after	гІи
+12.11	place	гІилаб
+12.2	beside	шулиб
+12.2	beside	гьалаб
+12.3	down, below	уттиб
+12.3	down, below	катІбяхІ
+12.4	before	гьалаб
+12.4	before	битаайке
+12.41	right (side)	гьалаб
+12.5	inside, in	бухІна
+12.5	inside, in	бухІнаб
+12.6	outside	ттураб
+12.7	under	уб
+12.7	under	угІиллиб
+12.8	up, above	киб
+12.8	up, above	кигІиллиб
+12.11	place	мир
+12.12	put	кабихьхьара
+12.13	sit	кайрара
+12.14	lie down	келсана
+12.15	stand	тІашкелццана
+12.16	remain, stay	уара
+12.16	remain, stay	калгвана
+12.17	remains, left overs	гІиладиклуми
+12.21	collect, gather	ичара
+12.212	pick up	дунцІана
+12.212	pick up	ахъадурцара
+12.213	pile up	укисадирхъяра
+12.213	pile up	лайкадикІара
+12.22	join, unite	бархбирхъяра
+12.22	join, unite	цахІнабирхъяра
+12.23	separate	дикІардиркьара
+12.232	divide	бутІнаттдиркьара
+12.24	open	ибхьара
+12.25	shut, close	гІиркІара
+12.26	cover	кІапІбиркьара
+12.27	hide, conceal	урбирхьара
+12.27	hide, conceal	дигІянабиркьара
+12.31	high	ахъли
+12.32	low	гІашли
+12.33	top	бахІ
+12.33	top	кьама
+12.34	bottom	лутІи
+12.34	bottom	хьар
+12.35	end	ахир
+12.352	pointed	бахІбуккел
+12.353	edge	дум
+12.36	side	бяхІ
+12.37	middle, center	дай
+12.41	right (side)	лихІил
+12.42	left (side)	лицІил
+12.43	near (adv)	шулиб
+12.44	far (adv)	гьарахъли
+12.45	east	бахІаабулхъаншали
+12.46	west	бархІагІилабиркиншали
+12.47	north	север
+12.48	south	кьиблашали
+12.48	south	йуг
+12.53	grow	халабаара
+12.54	measure	умцара
+12.541	span, fathom	чІим
+12.541	span, fathom	дикІ
+12.55	large, big	хулел
+12.56	small, little	кьицІа
+12.57	long	бухъина
+12.58	tall	ахъил
+12.59	short	кутІа
+12.61	wide, broad	багІел
+12.62	narrow	гъвярцІа
+12.63	thick (in dimension)	буршусси
+12.63	thick (in dimension)	буццил
+12.65	thin (in dimension)	букІусси
+12.67	deep	мурхьил
+12.68	shallow	кислел
+12.71	flat	чІапІа
+12.73	straight	бархьил
+12.74	crooked	балкІа
+12.75	hook	къязикъ
+12.76	corner	къямза
+12.77	cross	къанч
+12.78	square	авмузан
+12.81	round	гургура
+12.82	circle	мява
+12.83	sphere, ball	шар
+12.84	line	ттугъ
+12.85	hole	гІями
+12.92	like, similar	мушусси
+12.92	like, similar	цагъуна
+12.93	change	барсбиркьара
+13.0	zero, nothing	нул
+13.1	one	ца
+13.2	two	кІел
+13.3	three	хІябал
+13.4	four	авал
+13.5	five	швал
+13.6	six	уриккал
+13.7	seven	верхІал
+13.8	eight	ккахІал
+13.9	nine	урчІимал
+13.10	ten	вецІал
+13.101	eleven	вецІнуцара
+13.102	twelve	вецІнукІвира
+13.103	fifteen	вецІнушура
+13.104	twenty	гъал
+13.105	hundred	даршал
+13.106	thousand	азир
+13.107	count	дулана
+13.14	every, all	лидилра
+13.15	much, many	дахъил
+13.16	more	имцІали
+13.17	little (quantity), few	камли
+13.18	enough	кьадарла
+13.18	enough	даарацатта
+13.181	some	чумал
+13.19	multitude, crowd	гІяламат
+13.19	multitude, crowd	дахъил
+13.21	full	бицІибил
+13.22	empty	бацІил
+13.23	part, piece	бутІа
+13.23	part, piece	пухъ
+13.24	half	байхъала
+13.33	alone, only	ца
+13.33	alone, only	цацун
+13.34	first	цаибил
+13.35	last	бегІлагІилабил
+13.36	second	кІвибил
+13.37	pair	жут
+13.37	pair	кІвел
+13.38	two times	кІвина
+13.42	third	хІябибил
+13.44	three times	хІяйна
+14.11	time	эамана
+14.12	age	дусми
+14.12	age	даршдусликъ
+14.12	age	манзил
+14.13	new	цІисси
+14.14	young	жагьил
+14.15	old	бухъна
+14.16	early	кукай
+14.17	late	кьай
+14.18	now	гьанахІа
+14.19	immediately	къалабали
+14.19	immediately	гьелматтан
+14.21	swift, fast, quick	къалабел
+14.22	slow	багьлел
+14.23	hasten, hurry	къалабаикІвара
+14.23	hasten, hurry	гьалакикІвара
+14.24	retard, delay	хІархІбиркьара
+14.24	retard, delay	тІашкайара
+14.25	begin, beginning	бахІбирхьара
+14.25	begin, beginning	бахІбихьхьутт
+14.252	last, endure	даимбиргьвара
+14.252	last, endure	бухъинбилтІана
+14.26	end (temporal)	таманбиркьара
+14.27	finish	таманбиркьара
+14.28	cease, stop	тІашиира
+14.28	cease, stop	тІашилццана
+14.29	ready	хІядурил
+14.31	always	мурталра
+14.32	often	ццумали
+14.33	sometimes	рахрахли
+14.331	soon	дяхІхъеаккварли
+14.332	long-time (for a)	бухъинбитІунил
+14.34	never	цайналра
+14.35	again	гІарагІи
+14.35	again	цІили
+14.41	day	бархІи
+14.42	night	дукки
+14.43	dawn	гІанручІ
+14.44	morning	ччавааргъ
+14.45	noon, midday	хІире
+14.451	afternoon	икІралла
+14.46	evening	бархІехъ
+14.47	today	ишхІили
+14.48	tomorrow	ччягІял
+14.481	day-after-tomorrow	ччягІялакквархІили
+14.49	yesterday	са
+14.491	day-before-yesterday	гьарбархІи
+14.51	hour	сягІят
+14.53	clock, timepiece	сягІятуни
+14.61	week	жумягІ
+14.62	Sunday	алхІят
+14.63	Monday	итни
+14.64	Tuesday	талат
+14.65	Wednesday	арбягІ
+14.66	Thursday	хамис
+14.67	Friday	жумягІ
+14.68	Saturday	сут
+14.71	month	бацц
+14.73	year	дус
+14.74	winter	ини
+14.75	spring	хІеб
+14.76	summer	дуцІрум
+14.77	autumn	гІибшни
+14.78	season	дуслазамана
+15.21	smell (vb intrans)	кквягІбикІвара
+15.212	sniff	сунтІайкІвара
+15.212	sniff	сунтІикІвара
+15.22	smell (vb trans)	сунтІикІвара
+15.25	fragrant, good smelling	кквягІ
+15.25	fragrant, good smelling	къугъелкквягІ
+15.26	stinking, bad smelling	дибягъкквягІ
+15.31	taste	биццидиш
+15.35	sweet	мурисси
+15.36	salty	цІуйил
+15.37	bitter	кьутІкьусси
+15.38	acid, sour	михсил
+15.39	brackish	цІуйил
+15.41	hear	бикьара
+15.42	listen	ляхІихъара
+15.44	sound, noise	тІама
+15.44	sound, noise	тІамагьама
+15.45	loud	ахъил
+15.46	quiet, silence	рахІятил
+15.46	quiet, silence	тІамагьамааккварил
+15.51	see	кибиара
+15.52	look, look at	хІирикІвара
+15.55	show	кибиахъара
+15.56	shine	шалабикІвара
+15.57	bright	пархбикІван
+15.61	color	ранг
+15.62	light (in color)	шалел
+15.63	dark (in color)	цІябил
+15.64	white	цІуба
+15.65	black	цІуттара
+15.66	red	хІинтІина
+15.67	blue	хьанцІа
+15.68	green	шиниша
+15.69	yellow	бухъутІа
+15.71	touch	ккачикара
+15.712	pinch	къиппикІвара
+15.712	pinch	иршара
+15.72	feel	иргъара
+15.74	hard	чІумел
+15.75	soft	кІантІисси
+15.76	rough	мурдар
+15.77	smooth	лагІанил
+15.78	sharp	буккел
+15.79	blunt, dull	къавта
+15.81	heavy	сугьел
+15.82	light (in weight)	кумкил
+15.83	wet, damp	хІябцил
+15.84	dry	берубил
+15.85	hot	буцІарил
+15.851	warm	ванел
+15.86	cold	бугІярил
+15.87	clean	амусси
+15.88	dirty, soiled	нясил
+15.89	wrinkled	кьямчІабиццурил
+16.11	soul, spirit	рахІ
+16.11	soul, spirit	жан
+16.15	surprised, astonished	тамашавигьубил
+16.18	good fortune, luck	гьарбицц
+16.19	misfortune, bad luck	гьархІабиццни
+16.23	joyful, glad, happy	талихІкисси
+16.23	joyful, glad, happy	разисси
+16.25	laugh	дукалирхІяра
+16.251	smile	пиширхъяра
+16.26	play	хІязталивиркьара
+16.27	love	биккахъара
+16.29	kiss	ппайикІвара
+16.3	embrace	кІапІурцара
+16.31	pain	иццала
+16.32	grief, sorrow, sadness	шишимала
+16.32	grief, sorrow, sadness	дицІ
+16.33	anxiety, worry	вявдиш
+16.33	anxiety, worry	уруххи
+16.34	regret, be sorry	пашманиргьвара
+16.35	pity	уркІицІи
+16.37	cry, weep	виссара
+16.37	cry, weep	симкьикІвара
+16.38	tear (noun)	биссакІантІ
+16.39	groan	айцІайкІвара
+16.41	hate	гьимидулхъана
+16.42	anger	гьими
+16.42	anger	хІясидиш
+16.44	envy, jealousy	кьясдиш
+16.44	envy, jealousy	хІясатдиш
+16.45	shame (noun)	уруцци
+16.48	proud	хамил
+16.51	dare	хъярхъил
+16.51	dare	гІяхІгъвабза
+16.52	brave	хъярхъил
+16.52	brave	уруххиакквар
+16.53	fear, fright	уруххи
+16.53	fear, fright	кахдиш
+16.54	danger	уруххи
+16.62	desire, want	хъул
+16.622	choose	дикІарбиркьара
+16.63	hope	умутбирхьара
+16.65	faithful	марил
+16.65	faithful	хІялалил
+16.66	true	гьарлимарил
+16.67	lie, tell lies	симкалиугьара
+16.68	deceit	киругІяра
+16.69	forgive	кирурхвара
+16.71	good	гІяхІси
+16.72	bad	вагьисси
+16.73	right, correct	бархьил
+16.74	wrong	балкІил
+16.76	fault	баркьутти
+16.77	mistake, error	хатІа
+16.78	blame	гІяйублавиркьара
+16.79	praise	гапиркьара
+16.81	beautiful	къугъел
+16.82	ugly	урхІмушуакквар
+16.83	greedy	кьиркьир
+16.84	clever	духхусси
+17.11	mind	гІякьлу
+17.13	think (= reflect)	пикриикІвара
+17.14	think (= be of the opinion)	пикриикІвара
+17.14	think (= be of the opinion)	дулана
+17.15	believe	вирхара
+17.16	understand	иргъара
+17.17	know	балгьана
+17.171	guess	пикрибиркьара
+17.171	guess	гьанбиркахъара
+17.172	imitate	гІирдиркьара
+17.18	seem	гьанбиркара
+17.18	seem	гьанарара
+17.19	idea, notion	пикри
+17.19	idea, notion	гьанбик
+17.19	idea, notion	кьасбагьутти
+17.21	wise	гІякьлукар
+17.22	foolish, stupid	ахмах
+17.23	insane, crazy	гІякьлуакквар
+17.24	learn	балгьана
+17.24	learn	учІана
+17.242	study	бучІана
+17.242	study	руркъяра
+17.25	teach	учІахъана
+17.26	pupil	ученик
+17.26	pupil	учІан
+17.26	pupil	мутягІлим
+17.27	teacher	учитилмугІяллим
+17.28	school	ушкула
+17.31	remember	гьанбиркахъара
+17.32	forget	хъумуртара
+17.34	clear, plain	гІячикъил
+17.34	clear, plain	саркъибил
+17.35	obscure	хІергъан
+17.36	secret	дигІяндиш
+17.37	sure, certain	бирхауттикисси
+17.38	explain	иргъахъара
+17.41	intention, purpose	хьул
+17.41	intention, purpose	пикри
+17.41	intention, purpose	кьас
+17.42	cause	багьана
+17.42	cause	сабаб
+17.43	doubt	ташмишъала
+17.44	suspect	ташмишикІвара
+17.441	betray	увитлуккана
+17.45	need, necessity	гІягІнидиш
+17.46	easy	кумкил
+17.47	difficult	къиянил
+17.48	try, attempt	халбаркьни
+17.49	way, manner	тяхІяр
+17.49	way, manner	кьяйда
+17.51	and	ва
+17.52	because	сенаккуну
+17.53	if	рахли
+17.54	or	йара
+17.55	yes, affirmative	гІя
+17.56	no, negative	акку
+17.61	how?	сена?
+17.62	how many?	чум?
+17.63	how much?	чум?
+17.64	what?	си?
+17.65	when?	мурт?
+17.66	where?	кинаб?
+17.66	where?	кинаратт?
+17.67	which?	сигъуна?
+17.68	who?	чи?
+17.69	why?	сен?
+18.11	voice	тІама
+18.12	sing	далайикІвара
+18.13	shout, cry out	чІярикІвара
+18.15	whisper	шивкІивикІвара
+18.16	mumble	гъурикІвара
+18.17	whistle	шатІикІвара
+18.18	shriek, screech	гІаикІвара
+18.19	howl	авикІвара
+18.21	speak, talk	гъайикІвара
+18.211	stutter, stammer	маъмаикІвара
+18.211	stutter, stammer	гІилаттиркара
+18.22	say	бургьара
+18.221	tell story	анцІбукьбургьара
+18.222	speech (make a)	гъай
+18.222	speech (make a)	гъайикІни
+18.23	silent (be)	ляхІкайхъара
+18.24	language	гъай
+18.26	word	гъай
+18.28	name	у
+18.31	ask (question, inquire)	хьарбиара
+18.32	answer	хьарбиара
+18.33	admit, confess	мукІурикІара
+18.34	deny	мархІабиркьара
+18.35	ask, request	тиладибиркьара
+18.36	promise	кикассара
+18.36	promise	гъайбиккара
+18.37	refuse	тиладичарбаркьара
+18.37	refuse	хІабаркьара
+18.38	forbid	къадагъабиркьара
+18.38	forbid	хайрихІабиргьвахъара
+18.39	rebuke, scold	ургъара
+18.41	call (=summon)	вайрара
+18.42	call (=name)	бургьара
+18.43	announce	балгьахъана
+18.44	threaten	уруххибалгьахъана
+18.45	boast	гапикьвара
+18.51	write	лукІана
+18.52	read	учІана
+18.56	paper	кагъар
+18.57	pen	ручка
+18.61	book	жуз
+18.67	poet	поэт
+18.67	poet	шягІир
+18.71	flute	шятІихь
+18.72	drum	ттам
+18.73	horn, trumpet	турба
+18.74	rattle	зянгъярай
+19.11	country	улка
+19.11	country	пачаликъ
+19.12	one's native country	вагІлаулка
+19.15	city, town	шагьар
+19.16	village	ши
+19.17	boundary	дазу
+19.21	people (populace)	халкь
+19.23	tribe, clan	кьам
+19.24	chief, chieftain	бикІ
+19.24	chief, chieftain	гьаркья
+19.25	staff, walking stick	хІясса
+19.32	king, ruler	пача
+19.32	king, ruler	вагІбикІ
+19.33	queen	пача
+19.33	queen	пачалахьунул
+19.36	noble, nobleman	хІялалил
+19.37	citizen, subject	гражданин
+19.41	master	хужаим
+19.41	master	вагІ
+19.42	slave	лагъ
+19.43	servant	къазакъ
+19.44	freeman	узден
+19.45	command, order	буйрукъвикІвара
+19.46	obey	мутІигІигьвара
+19.47	let, permit	ихтийарбиркьара
+19.51	friend, companion	уртакъ
+19.52	enemy	душман
+19.54	neighbor	унра
+19.55	stranger	хІалгьан
+19.56	guest	аххал
+19.57	host	вагІ
+19.58	help, aid	кумек
+19.59	hinder, prevent	гІиламажаулхъана
+19.59	hinder, prevent	дирккалаулхъана
+19.61	custom	гІядат
+19.62	strife, quarrel	къавгъа
+19.63	conspiracy, plot	дигІянавягІда
+19.65	meet	гьунивиара
+19.72	prostitute	къахІппа
+20.11	fight (vb)	вирхІяра
+20.11	fight (vb)	дявталивиркьара
+20.13	war, battle	дяв
+20.14	peace	даршудиш
+20.15	army	гІярмийа
+20.17	soldier	салдат
+20.17	soldier	ургъан
+20.21	weapons, arms	йаракъ
+20.22	club	кихъя
+20.222	battle-ax	айбалта
+20.24	bow	диркка
+20.25	arrow	цІилдив
+20.26	spear	гъуц
+20.27	sword	шушкІа
+20.28	gun, cannon	ттупанг
+20.28	gun, cannon	туп
+20.31	armor (defensive)	йаракь
+20.33	helmet	мигьлакьапІа
+20.34	shield	гьабуц
+20.35	fortress	къала
+20.36	tower	къала
+20.36	tower	ккалгІя
+20.41	victory	киттиикни
+20.42	defeat	уттиикни
+20.43	attack	киулхъана
+20.43	attack	гьалавяхІвашара
+20.44	defend	душмайсгьалайццара
+20.44	defend	вагІливагІвалтахъана
+20.45	retreat	гІилавяхІвашара
+20.46	surrender	йасирукьяна
+20.47	captive, prisoner	йасир
+20.47	captive, prisoner	туснакъваркьибил
+20.471	guard, sentinel	къараул
+20.48	booty, spoils	гъаралибелтІунмас
+20.49	ambush	укайрара
+20.51	fisherman	бяликъчи
+20.52	fishhook	бяликъкъидурцанкъязикъ
+20.53	fishing line	бяликъкъидурцан
+20.54	fishnet	бяликъкъидурцантур
+20.55	fish trap	бяликъкъелаттам
+20.56	bait	ттамлигІикабалтансикІал
+20.61	hunt	гІяярвашара
+20.62	shoot	иргьвара
+20.63	miss (target)	хІаккахъара
+20.64	trap (noun)	ттам
+20.65	trap (vb)	бурцара
+21.11	law	закун
+21.11	law	ццигъа
+21.11	law	низам
+21.15	court	суд
+21.15	court	диван
+21.16	judge (vb)	такбихІлавиркьара
+21.17	judgment	судлахІукму
+21.18	judge (noun)	судʼйа
+21.21	plaintiff	жавабтІалаббиркьан
+21.22	defendant	жаваблуккан
+21.23	witness	бикьри
+21.24	swear	хъвамаливиркьара
+21.25	oath	хъва
+21.31	accuse	гІяйублавиркьара
+21.31	accuse	танбихІлавиркьара
+21.32	condemn	уркъбирхъяра
+21.32	condemn	танбихІлавиркьара
+21.33	convict (vb)	гІяйублавагІвигьнибалгьахъана
+21.34	acquit	мариркьара
+21.35	guilty	гІяйублавагІ
+21.36	innocent	гІяйубакквар
+21.37	penalty, punishment	тамбихІ
+21.38	fine	арцлаиштрйапгІякІа
+21.39	prison, jail	туснакъ
+21.42	murder	адимакавшни
+21.43	adultery	къахІппадиш
+21.44	rape	гужбаркьни
+21.46	arson	цІадихьни
+21.47	perjury	симклабикьридиш
+21.51	steal	урдилгІяна
+21.52	thief	хъулки

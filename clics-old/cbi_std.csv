@@ -1,0 +1,1425 @@
+@classification: Barbacoan,Cayapa-Colorado
+@ids-name: Cayapa_Phonemic
+@iso: cbi
+@language: Chachi
+@size: 1418
+@source: ids
+@variety: std
+1.1	world	tu
+1.21	earth, land	tu
+1.212	earth=ground, soil	tu
+1.213	dust	'uh'tupe
+1.214	mud	'pihpa
+1.215	sand	'ɲiipe
+1.22	mountain, hill	'kuyi
+1.22	mountain, hill	'lun'guyi
+1.222	cliff, precipice	'lan'baki
+1.222	cliff, precipice	'kuhtu
+1.27	shore	'ɲi'yaʔ'pala
+1.28	cave	'tu'huru
+1.31	water	pi
+1.32	sea	'Φera
+1.322	calm (of sea)	'pi'sunda'putʸu
+1.323	rough (of sea)	'a'hara
+1.324	foam	'čin'bihpu
+1.324	foam	'šin'bihpu
+1.341	lagoon	pi
+1.342	reef	'ɲi'yaʔ
+1.343	headland, point	'tu'mutu
+1.35	wave	'pi'sunda
+1.35	wave	'pi'sela
+1.352	tide	'pi'tʸuwa
+1.353	lowtide	'pitʸu'kahte
+1.354	hightide	pi'a'wema
+1.36	river, stream, brook	pi
+1.36	river, stream, brook	'pi'hula
+1.362	whirlpool	'mu'le'hun
+1.38	swamp	'wan'daa
+1.39	waterfall	'pi'payu
+1.39	waterfall	'payu
+1.41	woods, forest	'hele
+1.41	woods, forest	'heen'bala
+1.42	tree (cf 08.600)	či
+1.43	wood	či
+1.44	stone, rock	'šu'puka
+1.44	stone, rock	'lanbaki
+1.45	earthquake	'kala
+1.52	sun	'pahta
+1.53	moon	'kepe'pahta
+1.53	moon	'pahta
+1.54	star	'ma'kara
+1.55	lightning	'kwidʸa'pidʸa
+1.56	thunder	'kwidʸa
+1.57	lightning (as striking)	'kwidʸa'pidʸa
+1.58	storm	'i'šuwa'šu'waba
+1.61	light (noun)	'danda
+1.62	darkness	'diš'kehc̷a
+1.62	darkness	'ya'huuna
+1.63	shade, shadow	'Φaa'pan'bele
+1.64	dew	'iš'taʔ'čipi
+1.71	air	'i'šuwa
+1.71	air	'i'šuya
+1.72	wind	'i'šuwa
+1.72	wind	'i'šuya
+1.73	cloud	'ɲi'wihča
+1.74	fog	'waaɲi'wihča
+1.75	rain (noun)	'šuwa
+1.75	rain (noun)	šupi
+1.76	snow (noun)	'iša'lʸuhpe
+1.77	ice	'iša'puka
+1.77	ice	'iš'puka
+1.81	fire	ɲi
+1.82	flame (noun)	ɲi'lʸuʔ'kaya
+1.83	smoke (noun)	'ɲi'wihča
+1.84	ashes	'ɲiipe
+1.84	ashes	'huʔpe
+1.841	embers	'ɲin'guma
+1.851	burn (vb trans)	'lʸuʔ'waanu
+1.851	burn (vb trans)	'huʔ'kenu
+1.852	burn (vb intrans)	'hupenu
+1.852	burn (vb intrans)	'i'kanu
+1.86	light, kindle, ignite	'ča'kaanu
+1.86	light, kindle, ignite	'lʸuʔka'kaanu
+1.861	extinguish	'man'beenu
+1.87	match (noun)	'
+1.88	firewood	te
+1.89	charcoal	'ɲin'c̷ala
+2.1	person, human being	'čači
+2.21	man (vs. woman)	lʸupu
+2.22	woman	šinbu
+2.22	woman	'supu
+2.23	male	'lʸupu
+2.24	female	'supu
+2.25	boy	na
+2.25	boy	na
+2.25	boy	'kaana
+2.251	young man (adolescent)	'unna
+2.26	girl	'kaa'naʔma
+2.26	girl	'supu'naʔma
+2.261	young woman (adolescent)	'panna
+2.27	child	na
+2.27	child	'kaana
+2.28	infant, baby	'ka
+2.31	husband	'yaʔ'ruku
+2.32	wife	yaʔšinbu
+2.32	wife	yaʔšimbu
+2.33	marry	'supun'ganu
+2.34	marriage, wedding	'man'c̷uunu
+2.341	divorce	'ma'wee'lanu
+2.35	father	'apa
+2.35	father	'yaʔ'pa
+2.36	mother	'ama
+2.36	mother	'mama
+2.37	parents	'a'pala
+2.38	married man	'supu'miya'ruku
+2.39	married woman	'miya'šinbu
+2.41	son	na
+2.41	son	na
+2.42	daughter	'naʔma
+2.42	daughter	'supu'naʔma
+2.43	offspring (son or daughter)	'kailʸa
+2.44	brother	'kaya
+2.444	older brother	'u'ɲaku
+2.445	younger brother	'benna
+2.45	sister	'c̷uhki
+2.454	older sister	'u'ɲama
+2.455	younger sister	'miya
+2.456	sibling	'naa'tala
+2.46	grandfather	aa'ʔapa
+2.461	old man	'ruku
+2.47	grandmother	aa'mama
+2.471	old woman	'kaa'šinbu
+2.471	old woman	'kaa'šimbu
+2.48	grandson	'paɲa
+2.49	granddaughter	'paɲa
+2.511	mother's brother	'ah'čiyu
+2.511	mother's brother	'uh'puyu
+2.512	father's brother	'a'piku
+2.521	mother's sister	'man'guku
+2.522	father's sister	'u'ɲuku
+2.57	descendants	'se'raʔ'ha'mula
+2.61	father-in-law (of a man)	'an'čapa
+2.611	father-in-law (of a woman)	'an'čapa
+2.62	mother-in-law (of a man)	'an'čama
+2.62	mother-in-law (of a man)	'aya
+2.621	mother-in-law (of a woman)	'an'čama
+2.621	mother-in-law (of a woman)	'aya
+2.63	son-in-law (of a man)	'kiya
+2.631	son-in-law (of a woman)	'kiya
+2.64	daughter-in-law (of a man)	'suya
+2.641	daughter-in-law (of a woman)	'suya
+2.71	stepfather	'buu'ʔapa
+2.72	stepmother	'buu'ʔama
+2.73	stepson	'buuna
+2.74	stepdaughter	'buu'naʔma
+2.75	orphan	'ka'mainna
+2.76	widow	šinbu
+2.77	widower	'ruku
+2.81	relatives, kinsmen	'bulu
+2.81	relatives, kinsmen	la
+2.82	family	'bulu
+2.91	I	i
+2.91	I	'iya
+2.92	you (singular)	ɲuʔ
+2.93	he/she/it	yaʔ
+2.94	we	'lala
+2.95	you (plural)	'ɲulʸa
+2.96	they	'ya'laʔ
+3.12	male (adj)	'lʸupu
+3.13	female (adj)	'supu
+3.15	livestock	'čaʔ'miya
+3.18	herdsman	'waš'kemu'ruku
+3.19	stable, stall	'suku
+3.2	cattle (bovine)	ra
+3.22	ox	'lʸupu
+3.23	cow	ra
+3.24	calf	'kaara
+3.26	ram	'lʸupu
+3.28	ewe	'supu
+3.29	lamb	kaana
+3.32	boar	'lʸupu'kuʔči
+3.34	sow	'supu'kuʔči
+3.35	pig	'kuʔči
+3.37	he-goat	'lʸupu
+3.38	kid	kaana
+3.42	stallion	'lʸupu
+3.44	mare	'supu
+3.45	foal, colt	'kaa
+3.52	cock, rooster	'aa'ruku
+3.52	cock, rooster	'lʸupu'wa'lʸapa
+3.54	hen	'supu'wa'lʸapa
+3.54	hen	'naʔ'ama
+3.55	chicken	'wa'lʸapa
+3.56	goose	'aa
+3.58	nest	'ya'tape
+3.581	bird	'piču
+3.581	bird	'pišku
+3.582	seagull	'piču
+3.582	seagull	'pišku
+3.583	heron	'kahc̷u
+3.584	eagle	'aa'pišku
+3.584	eagle	'piču
+3.585	hawk	'hu'yalʸu
+3.586	vulture	'pe'tʸutʸu
+3.591	bat	'šupa
+3.591	bat	'aa'šupa
+3.594	dove	'waʔ'pupu
+3.594	dove	'Φi'tuku
+3.596	owl	'tʸutʸu
+3.61	dog	'kuča
+3.614	rabbit	'kinu
+3.62	cat	'miši
+3.62	cat	'miči
+3.622	opossum	'šiɲi
+3.63	mouse, rat	'iyu
+3.63	mouse, rat	'taaʔ'iyu
+3.65	fish	'alʸa
+3.65	fish	'pi'alʸa
+3.652	fin (dorsal)	'paanči
+3.653	fishscale	'miiki
+3.654	gill	'mahči
+3.655	shell	'na'piʔ'kika
+3.665	freshwater eel	'pih'piɲi
+3.75	deer	'mana
+3.76	monkey	'wašu
+3.76	monkey	'šuri
+3.811	louse	mu
+3.812	nit (louse egg)	mu'na'pipu
+3.813	flea	'čihpi
+3.813	flea	'čišpi
+3.816	cockroach	'su'kuʔ'čilʸi
+3.817	ant	'puna
+3.817	ant	'kahpu
+3.817	ant	'ɲami
+3.818	spider	'mu'tele
+3.819	spider web	'mu'tee'waaku
+3.82	bee	'tanda
+3.821	beeswax	'či'ɲape
+3.822	beehive	'tanda'tʸuhtʸu
+3.823	wasp	'hala
+3.83	fly	'mai'ʔama
+3.83	fly	'lemaiʔ'ama
+3.831	sandfly (midge), gnat	'ɲinbe
+3.832	mosquito	'huhu
+3.832	mosquito	'piši'yaya
+3.84	worm	'tu'piɲi
+3.85	snake	'piɲi
+3.91	firefly	'mu'luku
+3.92	butterfly	'punbu
+3.93	grasshopper	'išu
+3.93	grasshopper	'dendu'išu
+3.94	snail	'kuu'walʸu
+3.95	frog	'pa'tata
+3.96	lizard	'pah'dun'bela
+3.97	crocodile, alligator	'du'nišu
+3.97	crocodile, alligator	'eenbu
+3.98	turtle	'pi'čilʸi
+4.11	body	'bulu
+4.12	skin, hide	'kika
+4.13	flesh	'alʸa
+4.14	hair (head)	a'čuwa
+4.142	beard	'tʸaipu
+4.144	body hair	'pihu
+4.144	body hair	'iš'pihu
+4.145	pubic hair	'lʸuhu
+4.145	pubic hair	'suhu
+4.146	dandruff	'miš'puka'huingi
+4.15	blood	'asa
+4.151	vein, artery	'waʔ'čuwa
+4.16	bone	'taku
+4.162	rib	'wiʔči
+4.17	horn	'kaču
+4.18	tail	'ne'pele
+4.19	back	'been'bušu
+4.19	back	'behči
+4.191	spine	'buinči
+4.2	head	'miš'puka
+4.2	head	'mišu
+4.201	side of head, temple	'maš'pele
+4.202	skull	'uhkun'mišu
+4.202	skull	'uhmu'mišu
+4.203	brain	'mišpe
+4.204	face	'ka'huru
+4.205	forehead	'leš'kapa
+4.207	jaw	'teh'mači
+4.208	cheek	'ka'huu'alʸa
+4.209	chin	'teh'maš'mutu
+4.21	eye	'ka'puka
+4.212	eyebrow	'ka'puʔ'pihu
+4.213	eyelid	'ka'puʔ'kika
+4.214	eyelash	'ka'puʔ'pihu
+4.215	blink	'wahču'wahču'kenu
+4.22	ear	pungi
+4.221	earlobe	'pun'diri
+4.222	earwax	'punpe
+4.23	nose	'kih'kapa
+4.231	nostril	'ki'huru
+4.231	nostril	'kihʔ'huru
+4.232	mucus (nasal)	'kihpe
+4.24	mouth	'Φiʔ'paki
+4.241	beak	'Φiʔ'papa
+4.25	lip	'Φiʔ'paʔ'kika
+4.26	tongue	'ɲihka
+4.27	tooth	'tehku
+4.271	gums	'tehʔ'alʸa
+4.272	molartooth	'bun'dehku
+4.28	neck	'kutu
+4.281	nape of neck	'kutu'tʸulʸa
+4.29	throat	'pan'gun'duru
+4.3	shoulder	'pala
+4.301	shoulderblade	'pala
+4.302	collarbone	'ten'baʔ'čaali
+4.31	arm	'tʸaapa
+4.31	arm	'pehpe
+4.312	armpit	'šin'bala
+4.32	elbow	'tʸaka'šušu
+4.321	wrist	'tʸakun'bele
+4.33	hand	'tʸaapa
+4.331	palm of hand	'tʸaʔ'ahka
+4.34	finger	'tʸa'mišu
+4.342	thumb	'aatʸa'mišu
+4.344	fingernail	'tʸaki
+4.345	claw	'tʸaki
+4.35	leg	'neepa
+4.351	thigh	'enbu
+4.352	calf of leg	'nečan'buka
+4.36	knee	'nen'bulu
+4.37	foot	'neepa
+4.371	ankle	'ne'mii'pih'puka
+4.372	heel	'nenbuh'kuwa
+4.374	footprint	'ne'huru
+4.38	toe	'ne'mišu
+4.392	wing	'haʔči
+4.393	feather	hu
+4.393	feather	'haʔči
+4.4	chest	'ten'bapu
+4.41	breast (of woman)	'čuču
+4.412	nipple, teat	'čuʔ'mihku
+4.42	udder	'čuču
+4.43	navel	'ah'bundʸu
+4.44	heart	'ten'buka
+4.441	lung	'he'nana
+4.45	liver	'ahpa
+4.46	stomach	'pešu
+4.46	stomach	'ahka
+4.461	intestines, guts	'pe'šilʸi
+4.462	waist	'ah'pele
+4.463	hip	'pe'haʔči
+4.464	buttocks	'pe'huʔ'alʸa
+4.464	buttocks	'pe'huu'alʸa
+4.47	womb	'naʔ'ama
+4.49	testicle	'lah'puka
+4.492	penis	lʸu
+4.51	breathe, breath	'išnu
+4.52	yawn, gape	'ka'saʔ'kenu
+4.521	hiccough	'pi'čaʔ'kenu
+4.53	cough	'uhku'kenu
+4.53	cough	'uhku
+4.54	sneeze	'haš'kenu
+4.55	perspire	'čipi'laanu
+4.56	spit	'inbi'kenu
+4.57	vomit	'kača'kenu
+4.57	vomit	'kaš'kenu
+4.58	bite	'hainu
+4.58	bite	'Φinu
+4.59	lick	'ween'genu
+4.59	lick	'ween'ginu
+4.591	dribble	'pi'ku'lili
+4.61	sleep	'kasnu
+4.61	sleep	'ka'sunu
+4.612	snore	'ka'c̷uʔ'buuke'kaanu
+4.62	dream	'ki'pinu
+4.63	wake up	'ten'ganu
+4.65	urinate	'šiipi'kenu
+4.66	defecate	'pe'kenu
+4.67	have sexual intercourse	'su'kenu
+4.67	have sexual intercourse	'c̷ainu
+4.68	shiver	'hui'kenu
+4.69	bathe	'pi'penu
+4.71	beget (of father)	'na'kenu
+4.72	born (to be)	'naka'yanu
+4.73	pregnant	'na'pu
+4.732	conceive	'na'winu
+4.74	live, living, life	'čunu
+4.74	live, living, life	'čundu
+4.74	live, living, life	'čumi
+4.75	die, dead	'pemu
+4.75	die, dead	'penu
+4.751	drowned	'ču'kaʔ'penu
+4.751	drowned	'ču'kamu
+4.76	kill	'tuʔnu
+4.76	kill	'tu'tenu
+4.77	corpse	'uhmu
+4.78	bury (the dead)	'mennu
+4.79	grave, tomb	pan'dʸun
+4.81	strong, mighty, powerful	'dera
+4.81	strong, mighty, powerful	'pulu
+4.82	weak	'de'rahtu
+4.83	well, health	'di'luhtu
+4.84	sick, sickness	'dilu'peya
+4.84	sick, sickness	'dii'peya
+4.841	fever	'pen'guma
+4.842	goiter	'kutu'peya
+4.843	cold (catarrh)	'kihpe
+4.85	wound, sore	'biš'peya
+4.85	wound, sore	'bišpee
+4.853	swelling	'lʸuri
+4.854	itch	'pih'tennu
+4.855	blister	'tʸapi
+4.856	boil (noun)	'čimu
+4.857	pus	'kiipi
+4.858	scar	'yahči
+4.86	cure, heal	'manbi'renu
+4.86	cure, heal	'manc̷a'tirenu
+4.87	physician	'kemu
+4.91	tired, weary	'tʸuba
+4.912	rest	'le'kanu
+4.92	lazy	'lamu
+4.93	bald	'čapah'kuku
+4.94	lame	'ku'haʔ'tera
+4.95	deaf	'pungi'putʸu
+4.96	mute	'pa'patʸu
+4.97	blind	'ka'puka'putʸu
+4.98	intoxicated	'wiɲa
+4.99	naked, bare	'čaʔ'tene
+5.11	eat	'Φinu
+5.12	food	'panda
+5.121	cooked	'aka'rahu
+5.121	cooked	'tenga'rahu
+5.122	raw	'sana
+5.123	ripe	lʸu
+5.124	green, unripe	'pinča
+5.125	rotten	'pete
+5.125	rotten	'peʔnu
+5.13	drink	'kušnu
+5.14	hunger	'panda'muhnu
+5.141	famine	'panda'hutʸu
+5.15	thirst	pi'muhnu
+5.16	suck	'mišnu
+5.18	chew	'halʸi'kenu
+5.18	chew	'hainu
+5.181	swallow	'lʸuʔnu
+5.19	choke	'ha'dinu
+5.19	choke	'muh'tuu'išnu
+5.21	cook	'ten'gaanu
+5.21	cook	'aʔnu
+5.22	boil (vb)	'buu'kenu
+5.22	boil (vb)	'buu'kinu
+5.23	roast, fry	'biin'genu
+5.23	roast, fry	'piʔnu
+5.24	bake	či'a'kaanu
+5.26	pot, cooking vessel	'pi'yama
+5.27	kettle	'pi'yama
+5.28	pan	'tu'pi'yama
+5.31	dish	'aa
+5.33	bowl	'šulʸa
+5.34	pitcher, jug	'aa'šulʸa
+5.36	saucer	kaa
+5.39	fork	'pu
+5.391	tongs	'de'lan'kan'c̷umi
+5.41	meal (a)	'panda
+5.42	breakfast	'kepe'nene'panda
+5.43	lunch	'keh'taa'panda
+5.45	supper	'kepe'nuša'panda
+5.46	peel	'lʸah'činu
+5.46	peel	'lʸašnu
+5.47	sieve, strain	'čiʔ'šulʸa
+5.48	scrape	'wii'šinu
+5.48	scrape	'waa'šinu
+5.49	stir, mix	'yannu
+5.49	stir, mix	'piʔ'punu
+5.53	dough	'kenu'behta
+5.54	knead	'beh'tenu
+5.56	crush, grind	'ʔiinu
+5.56	crush, grind	'i'lʸinu
+5.56	crush, grind	'diinu
+5.57	mill	'iinu'c̷umi
+5.58	mortar	'šu'puʔna
+5.59	pestle	'aa'ma'čuka
+5.61	meat	'alʸa
+5.65	vegetables	'Φamu'tape
+5.66	bean	'mulu
+5.71	fruit	'puka
+5.712	bunch	'dihki
+5.79	oil	'mulʸi
+5.791	grease, fat	'mulʸi
+5.81	salt	'tʸayu
+5.821	chili pepper	tʸu
+5.84	honey	'čiɲa'miški
+5.86	milk (noun)	'čuʔpi
+5.87	milk (vb)	'čuču'kanu
+5.87	milk (vb)	'čuʔpi'kanu
+5.89	butter	'mulʸi
+5.9	beverage, drink	'kušnu'c̷umi
+5.91	mead	pi
+5.94	fermented drink	'čiya'kušnu'c̷umi
+5.97	egg	'na'pipu
+5.971	egg yolk	'lʸuba'na'pipu
+6.11	put on (clothes)	'pannu
+6.11	put on (clothes)	'pa'nanu
+6.12	clothing, clothes	'hali
+6.12	clothing, clothes	'halʸi
+6.13	tailor	'hai'punmu
+6.21	cloth	'halʸi
+6.21	cloth	'hali
+6.22	wool	'ku'čuwa
+6.24	cotton	'kuwa
+6.28	fur	hu
+6.29	leather	'kika
+6.31	spin	'tu'renu
+6.31	spin	'tuunu
+6.32	spindle	'beru
+6.33	weave	'c̷ehnu
+6.34	loom	'c̷ehnu'deh'tela
+6.35	sew	'punnu
+6.36	needle	'itʸu
+6.41	cloak	'wi'yanu'hali
+6.41	cloak	'halʸi
+6.42	woman's dress	'hu'lʸun
+6.43	coat	'i'šaša'pan'c̷umi
+6.44	shirt	'hu'walʸi
+6.45	collar	wi
+6.46	skirt	'pihta'hali
+6.46	skirt	'tʸuɲa
+6.48	trousers	'wara
+6.48	trousers	'baa'wara
+6.48	trousers	'aa'baa'wara
+6.54	shoemaker, cobbler	'kemu
+6.57	belt, girdle	'ahpen'dee'čuwa
+6.57	belt, girdle	'ahpen'dela'čuwa
+6.61	pocket	'čuspa
+6.63	pin	'itʸu
+6.71	ornament, adornment	'es'ta'nanu
+6.73	ring (for finger)	'suutes
+6.73	ring (for finger)	'suu'tesu
+6.74	bracelet	'wi'pehpe
+6.74	bracelet	'te'tela
+6.75	necklace	'kutu'teepu
+6.75	necklace	wi
+6.76	bead	wi
+6.77	earring	'pungi'ʔe'rara
+6.77	earring	'punʔe'rara
+6.78	headband, headdress	'mišmun'deru
+6.79	tattoo	'muute
+6.81	handkerchief, rag	'hai'pec̷e
+6.91	comb	'mu'para
+6.921	braid	'bain'genu
+6.921	braid	'buiʔ'kenu
+6.94	ointment	'mula
+6.94	ointment	'mun'gen'c̷umi
+7.11	dwell, live	'čunu
+7.12	house	ya
+7.13	hut	'ya'paya
+7.15	yard, court	'ya'kelu
+7.17	cookhouse	'ɲin'bele'ya
+7.18	meeting house	'čaʔ'waʔ'dinu'ya
+7.21	room	'suku
+7.22	door, gate	'huu'kapa
+7.221	doorpost, jamb	'huu'kapa'či
+7.23	lock (noun)	'lʸuʔn'c̷umi
+7.231	latch, door-bolt	'suku'deen'gan'c̷umi
+7.25	window	'huukapa
+7.26	floor	'čipa
+7.27	wall	čiipa
+7.31	fireplace	'ɲin'bele
+7.32	stove	'ɲin'bele
+7.33	chimney	'ɲi'wiš'ke'laa'nunu
+7.37	ladder	'lʸapi
+7.421	pillow	'biš'pulʸa
+7.422	blanket	'man'baalʸi
+7.422	blanket	'man'ba'hali
+7.43	chair	'čun'bulʸa
+7.45	lamp, torch	'ɲilʸu
+7.45	lamp, torch	'tu'ɲilʸu
+7.47	shelf	'bulʸi'c̷uun'c̷umi
+7.48	trough	'pima'kule
+7.51	roof	'haki
+7.52	thatch	'haki
+7.52	thatch	ya'haki
+7.53	ridgepole	ya'mišbui'pulʸa
+7.54	rafter	'ya'pah'tuwa
+7.55	beam	'win'bulʸa
+7.56	post, pole	'yatʸutʸa
+7.61	mason	'kemu
+7.62	brick	'tu'behta'a'kara
+7.64	adobe	'tu'lepa
+8.11	farmer	'bui'kiya'wahmu
+8.12	field (for cultivation)	'pala
+8.12	field (for cultivation)	'wih'pala
+8.13	garden	'deh'tela
+8.15	cultivate, till	'wahnu
+8.16	fence	'weeta
+8.17	ditch	'pimakule
+8.17	ditch	'hula
+8.21	plow	'hun'lenu
+8.212	furrow	'tu'hu'laʔ'lara
+8.22	dig	'tu'huu'kenu
+8.22	dig	'wišnu
+8.24	shovel	'kuči
+8.26	fork	'beru
+8.27	rake	'tu'kaš'c̷umi
+8.31	sow	'waa'kenu
+8.311	seed	ɲi
+8.311	seed	'puka
+8.32	mow, reap	'daa'kanu
+8.34	thresh	'ɲi'lʸašnu
+8.42	grain (barley, oats etc)	'ɲi
+8.42	grain (barley, oats etc)	'puka
+8.47	maize, corn	'pišu
+8.51	grass	'tape
+8.51	grass	'iš'tape
+8.53	plant (noun)	'wahka
+8.531	plant (vb)	'wahnu
+8.54	root	'te'lele
+8.55	branch	'ʔalʸi
+8.55	branch	'ali
+8.56	leaf	'haki
+8.57	flower	'lʸulʸu
+8.6	tree	či
+8.64	pine	'či
+8.67	vine	'pih'čuwa
+8.69	smoke (tobacco)	'taaku'ɲi'wihča
+8.691	pipe	'ka'činba
+8.72	tree stump	te'buhtʸu
+8.73	tree trunk	či'lura
+8.74	forked branch	či'pala
+8.75	bark	'či'kika
+8.76	sap	'pilʸu
+8.84	banana tree	'pandači
+8.92	tapioca, manioc, cassava	'kuhču
+8.93	gourd	'pi'wayu
+8.931	pumpkin, squash	ʔu
+8.94	bamboo	'pahki
+8.941	sugar cane	'ela
+8.96	fish poison (root)	'lunbu'tape
+8.97	nettle	'kiɲi
+8.98	mushroom	'kih'tʸutʸu
+9.11	do, make	'kenu
+9.11	do, make	'kinu
+9.12	work	'kenu
+9.14	bend	'berun'tʸuinu
+9.15	fold	'dʸah'lʸinu
+9.15	fold	'be'luʔ'kanu
+9.16	tie, bind	'teenu
+9.16	tie, bind	'te'lenu
+9.16	tie, bind	'wii'kenu
+9.161	untie	'lan'bunu
+9.18	chain	'čuwa
+9.19	rope, cord	'kabu'čuwa
+9.192	knot (noun)	'tʸu'puka
+9.192	knot (noun)	'tee'punu
+9.21	strike (hit, beat)	'wiinu
+9.21	strike (hit, beat)	'wi'lʸinu
+9.211	pound with fist	'ka'tʸači'kenu
+9.22	cut	'wannu
+9.22	cut	'wane'kenu
+9.221	cut down	'tuunu
+9.222	chop, hew	'kenu
+9.223	stab	'Φa'taa'punu
+9.26	break	'dʸainu
+9.26	break	'dʸai'eenu
+9.261	broken	'dʸape
+9.27	split	'čiinu
+9.27	split	'paanu
+9.28	tear	'ki'yuu'hinu
+9.29	flay, skin	'beʔnu
+9.29	flay, skin	'be'kenu
+9.31	rub, wipe	'ɲii'šinu
+9.31	rub, wipe	'man'gihnu
+9.32	stretch	'čiʔnu
+9.32	stretch	'barun'genu
+9.33	pull	'hui'kanu
+9.33	pull	'huʔlinu
+9.34	spread out	'ša'ha'raʔ'c̷uunu
+9.34	spread out	'la'kaanu
+9.341	hang up	'yan'gaanu
+9.342	press	'tʸuinu
+9.343	squeeze, wring	'čuinu
+9.343	squeeze, wring	'ču'yinu
+9.35	pour	'yuu'punu
+9.35	pour	'yuunu
+9.36	wash	'pi'c̷aanu
+9.36	wash	'manbi'c̷aanu
+9.37	sweep	'kašnu
+9.38	broom	'kahči'pupu
+9.38	broom	'kašči'pupu
+9.43	carpenter	'či'kemu
+9.44	build	'kenu
+9.46	bore	'huu'kenu
+9.46	bore	'huru'kenu
+9.461	hollow out	'pe'laanu
+9.56	glue	'tʸa'kanu
+9.56	glue	'maiʔ'tenu
+9.71	potter	'pi'yama'kemu
+9.72	mold (clay etc)	'behnu
+9.72	mold (clay etc)	'kenu'c̷umi'muute
+9.73	clay	'da'randu
+9.74	glass	'le'meta
+9.75	weave, plait	'c̷ehnu
+9.76	basket	'piš'kalʸi
+9.76	basket	'piš'kali
+9.77	mat	'tʸapu
+9.771	rug	'te'reʔ'nen'c̷umi
+9.79	fan (noun)	'ɲi'wewe
+9.791	fan (vb)	'heen'bunu
+9.81	carve	'wiš'laanu
+9.82	sculptor	či'muute'kemu
+9.83	statue	'muute
+9.89	paint (vb)	'mun'genu
+10.11	move	'hui'kenu
+10.12	turn over	'luʔ'tenu
+10.13	turn around	'ya'tenu
+10.14	wind, wrap	'pih'tenu
+10.14	wind, wrap	'pin'genu
+10.15	roll	'luʔ'tenu
+10.16	drop (vb)	'pah'tenu
+10.17	twist	'tu'renu
+10.17	twist	tuunu
+10.21	rise	'kuhnu
+10.21	rise	'kuh'panu
+10.22	raise, lift	'yainu
+10.22	raise, lift	'ya'lʸinu
+10.22	raise, lift	'kuh'tenu
+10.23	fall	'c̷u'hinu
+10.23	fall	'pah'tʸanu
+10.24	drip	'piku'lili'paihnu
+10.25	throw	'tʸaʔ'kenu
+10.252	catch (ball)	'kanu
+10.26	shake	'huinu
+10.26	shake	'hulʸu'kenu
+10.33	sink	'ču'kanu
+10.33	sink	'čuka'kaanu
+10.34	float	'unnu
+10.34	float	'u'na
+10.35	swim	'pišuin'genu
+10.351	dive	'mi'šuʔ'mitʸa'tʸaʔ'punu
+10.352	splash	'bun'denu
+10.36	sail (vb)	'i'šu'wači'hu'yaʔ'nenu
+10.37	fly (vb)	'heʔnu
+10.37	fly (vb)	'he'kenu
+10.38	blow	'huinu
+10.38	blow	'hui'punu
+10.41	creep, crawl	'te'lenči'hinu
+10.41	creep, crawl	'te'lenči'nenu
+10.412	kneel	'tele'dinu
+10.413	crouch	'de'dinu
+10.413	crouch	'de'deʔ'čunu
+10.42	slide, slip	'ka'šaʔ'teenu
+10.42	slide, slip	'huta'laʔ'teenu
+10.43	jump, leap	'yannu
+10.431	kick	'nee'pači'wiinu
+10.44	dance	'genu
+10.45	walk	'nenu
+10.451	limp	'teenu
+10.451	limp	'han'gaʔ'teenu
+10.46	run	'da'ran'nenu
+10.47	go	'hinu
+10.471	go up	'lunu
+10.471	go up	'lanu
+10.472	climb	'lunu
+10.472	climb	'lanu
+10.473	go down	'paihnu
+10.473	go down	'pah'tʸanu
+10.474	go out	'Φaanu
+10.474	go out	'awin'dala'hinu
+10.48	come	'hanu
+10.481	come back	'maanu
+10.481	come back	'ma'hanu
+10.49	go away, depart	'miinu
+10.49	go away, depart	'mi'hinu
+10.491	disappear	'pi'yanu
+10.491	disappear	'manbi'yanu
+10.51	flee	'ne'pinu
+10.52	follow	'suu'kenu
+10.53	pursue	'suu'keʔ'hinu
+10.53	pursue	'sure'kenu
+10.55	reach, arrive	'miʔna'hinu
+10.55	reach, arrive	'luʔ'hinu
+10.56	approach	'ka'len'hinu
+10.56	approach	'ka'len'hanu
+10.57	enter	'winu
+10.57	enter	'wi'hinu
+10.61	carry (bear)	'taʔnu
+10.61	carry (bear)	'ta'kenu
+10.61	carry (bear)	'pa'naʔ'taʔnu
+10.612	carry-in-hand	'ta'keʔ'hinu
+10.613	carry-on-shoulder	'nan
+10.613	carry-on-shoulder	'na'naʔ'hinu
+10.614	carry-on-head	'miš'buiša'čuh'tiʔ'hinu
+10.615	carry-underarm	'šinba'lači'ta'keʔ'hinu
+10.62	bring	'taanu
+10.62	bring	'ta'hanu
+10.63	send	'ʔeenu
+10.63	send	'e'renu
+10.63	send	'genu
+10.64	lead (vb)	'mi'yaʔ'hinu
+10.65	drive	'kenu
+10.66	ride	'hinu
+10.67	push, shove	'tʸu'leenu
+10.67	push, shove	'tʸui'eenu
+10.72	path	'tuuča
+10.74	bridge	'deh'tela
+10.75	carriage, wagon, cart	'bui'ta'nenu'kaa
+10.76	wheel	'pih'puka
+10.77	axle	'deh'pan'era'čaali
+10.831	canoe	'kule
+10.832	outrigger	'nana'miʔta
+10.84	raft	'nan'wiya
+10.84	raft	'puiwiya
+10.85	oar	'yanpa
+10.851	paddle (noun)	'yanpa
+10.852	row (vb)	'yannu
+10.86	rudder	'biš'punu
+10.87	mast	'tʸutʸa
+10.89	anchor	'u'di'miš'timu'dape
+10.91	harbor, port	'uʔ'u'dinša
+10.92	land (vb)	'paihnu
+11.11	have	'tanu
+11.11	have	'ta'nanu
+11.12	own, possess	'tanu
+11.13	take	'kanu
+11.13	take	'ta'hinu
+11.14	seize, grasp	'čun'genu
+11.14	seize, grasp	'kanu
+11.15	hold	'ta'nanu
+11.16	get, obtain	'kanu
+11.17	keep, retain	'kaʔ'ta'nanu
+11.18	thing	'tii'ɲuba
+11.21	give	'kunu
+11.22	give back	'man'gunu
+11.24	preserve, look after	'laa'kaʔ'ta'nanu
+11.25	save, rescue	'kenu
+11.27	destroy	'genu
+11.28	harm, injure, damage	'muš'kenu
+11.31	seek, look for	'miʔ'kenu
+11.31	seek, look for	'mitʸa'kenu
+11.32	find	'ka'tanu
+11.33	lose	'pi'renu
+11.33	lose	'pi'yanu
+11.34	release, let go	'ne'tʸai'kenu
+11.43	money	'luši
+11.44	coin	'paki'luši
+11.51	rich	'ta'ruku
+11.52	poor	'tahtu'ruku
+11.53	beggar	'luši'paʔmu'ruku
+11.54	avaricious, stingy	'ʔesmu
+11.61	lend	'genu
+11.62	borrow	'genu
+11.63	owe	'nee'nanu
+11.64	debt	'nelu
+11.65	pay (vb)	'genu
+11.69	tax, tribute	'mitʸa'luši
+11.77	hire	'ke'kaanu
+11.78	wages	'genu'luši
+11.79	earn	'genu
+11.81	buy	'a'tiʔ'kanu
+11.82	sell	'aiʔnu
+11.82	sell	'a'tinu
+11.83	trade, barter	'we'tenu
+11.84	merchant	'bui'aiʔmu
+11.89	cheap	či
+11.91	share (distribute)	'weenu
+11.91	share (distribute)	'we'lenu
+11.92	weigh	'yan'gaanu
+12.1	after	'bene
+12.1	after	'ben'dala
+12.11	place	'ben'dala
+12.11	place	'be'neša
+12.2	beside	'ke'lunu
+12.3	down, below	'tuša
+12.3	down, below	'pan'beeša
+12.3	down, below	'pan'danša
+12.4	before	'kas'pele
+12.41	right (side)	'a'huuša
+12.5	inside, in	nu
+12.5	inside, in	bi
+12.5	inside, in	'hu'ruša
+12.6	outside	'a'win'dala
+12.7	under	'pan'beeša
+12.7	under	'pan'danša
+12.7	under	'pan'dainša
+12.8	up, above	'kaiʔša
+12.8	up, above	'kaiʔ'tala
+12.11	place	'pela
+12.12	put	'punu
+12.13	sit	'čunu
+12.13	sit	'ču'dinu
+12.14	lie down	'c̷unu
+12.15	stand	'ui'dinu
+12.16	remain, stay	'šu'wanu
+12.17	remains, left overs	'la'ramu
+12.17	remains, left overs	'Φin'buču
+12.21	collect, gather	'man'ganu
+12.212	pick up	'man'deʔ'kanu
+12.213	pile up	'dih'kii'c̷uunu
+12.213	pile up	'waʔ'kaanu
+12.22	join, unite	'buu'tenu
+12.22	join, unite	'buu'dinu
+12.23	separate	'weenu
+12.23	separate	'we'lenu
+12.23	separate	'wela
+12.24	open	'huuna
+12.24	open	'hadʸa
+12.25	shut, close	'lʸuka
+12.25	shut, close	'lʸuʔnu
+12.26	cover	'du'kaanu
+12.27	hide, conceal	'pan'c̷uunu
+12.27	hide, conceal	'dišu
+12.31	high	'katʸu
+12.31	high	'aa'katʸu
+12.32	low	'tupe'lele
+12.32	low	'aaka'tʸuhtu
+12.33	top	'han'dala
+12.33	top	'huu'kapa
+12.34	bottom	'tanša
+12.34	bottom	'čun'huru
+12.35	end	'kapa
+12.35	end	'mihku
+12.352	pointed	'mihku
+12.352	pointed	'tʸai'yahu
+12.353	edge	'kuyi
+12.36	side	'kelu
+12.37	middle, center	'keh'tala
+12.41	right (side)	'u'randʸa
+12.42	left (side)	'hala
+12.42	left (side)	'ha'latʸa
+12.42	left (side)	'ha'laša
+12.43	near (adv)	'kale
+12.44	far (adv)	'baaša
+12.44	far (adv)	'bare
+12.45	east	'pah'lainša
+12.46	west	'pah'win'ša
+12.47	north	ša
+12.48	south	ša
+12.53	grow	'a'wanu
+12.55	large, big	'ʔaa
+12.55	large, big	'ʔaawa
+12.56	small, little	'kaaʔa'tʸutʸu
+12.56	small, little	'aɲ̃uɲu
+12.57	long	'bare
+12.57	long	'aa'bare
+12.58	tall	'aa'katʸu
+12.58	tall	'aa'bare
+12.59	short	'dape
+12.59	short	'da'pepe
+12.59	short	'muču
+12.61	wide, broad	'bungu
+12.61	wide, broad	'aa'bungu
+12.62	narrow	'pin'giki
+12.62	narrow	'kaa'bungu
+12.63	thick (in dimension)	'bebe
+12.63	thick (in dimension)	'aa'bebe
+12.65	thin (in dimension)	'pin'giki
+12.65	thin (in dimension)	'luʔ'mimi
+12.67	deep	ša
+12.68	shallow	'eh'kapa
+12.71	flat	'ha'c̷uwa
+12.71	flat	'ha'c̷ura
+12.74	crooked	'tu'tii'yata
+12.75	hook	'beru
+12.76	corner	'mutu
+12.76	corner	'ču'kuš'pele
+12.78	square	'yalʸu'lʸuhu
+12.81	round	'daʔti'riri
+12.81	round	'daʔpu'kaka
+12.82	circle	'daʔ'ti'riri
+12.82	circle	'daʔ'puka'kaa
+12.83	sphere, ball	'daʔpu'kaka
+12.83	sphere, ball	'sa'puka
+12.84	line	'šilʸi
+12.85	hole	'huru
+12.85	hole	'Φa'taape
+12.92	like, similar	'ke'rahu
+12.92	like, similar	'huu'ɲuu
+12.93	change	'we'tenu
+12.93	change	'mawe'tenu
+13.0	zero, nothing	'tiba
+13.0	zero, nothing	'hutʸu
+13.1	one	main
+13.2	two	'palʸu
+13.3	three	'pema
+13.4	four	'taa'palʸu
+13.5	five	'manda
+13.6	six	'mandiš'malʸu
+13.6	six	'manš'malʸu
+13.7	seven	'mandiš'palʸu
+13.8	eight	'mandiš'pema
+13.9	nine	'mandiš'taa'palʸu
+13.10	ten	'paitʸa
+13.101	eleven	'paitʸa'main
+13.102	twelve	'paitʸa'palʸu
+13.103	fifteen	'paitʸa'manda
+13.104	twenty	'man'čaʔ'lura
+13.105	hundred	'man'bac̷aʔ
+13.107	count	'miʔnu
+13.14	every, all	'ku'muinči
+13.14	every, all	'milʸai
+13.15	much, many	'pu'reʔ
+13.15	much, many	'pu'rahu
+13.15	much, many	'pu'rehu
+13.16	more	'kayu
+13.17	little (quantity), few	'hayu
+13.17	little (quantity), few	'mi'kaka
+13.18	enough	'mika
+13.181	some	'tii'ɲuba
+13.181	some	'tʸeeba
+13.181	some	'manc̷a
+13.19	multitude, crowd	'pu'reʔ'ča'čilʸa
+13.21	full	'tʸuwa
+13.21	full	'yalʸu
+13.22	empty	'putʸu
+13.22	empty	'turu
+13.23	part, piece	'lepa
+13.24	half	'kehtala
+13.33	alone, only	'maalʸi
+13.33	alone, only	'maali
+13.34	first	'ah'keʔ
+13.36	second	'paiša
+13.37	pair	'palʸu
+13.38	two times	'pai
+13.38	two times	'paia
+13.42	third	'pen
+13.44	three times	'pen
+13.44	three times	'pena
+14.12	age	'čuɲu
+14.13	new	'kasa
+14.14	young	'naku'lulu
+14.14	young	'na'kungu
+14.15	old	'uinbu
+14.15	old	'ru'kunu
+14.16	early	'aa'malu
+14.17	late	'puiɲu
+14.18	now	'čalʸa
+14.19	immediately	hei
+14.19	immediately	teʔ
+14.19	immediately	'heke
+14.21	swift, fast, quick	'da'ran
+14.21	swift, fast, quick	'di'heru
+14.21	swift, fast, quick	teʔ
+14.22	slow	'ku'wain
+14.23	hasten, hurry	teʔ'kenu
+14.24	retard, delay	'pi'yanu
+14.24	retard, delay	'inu
+14.25	begin, beginning	'ah'keʔ
+14.25	begin, beginning	'pee'punu
+14.252	last, endure	'genu
+14.27	finish	'genu
+14.27	finish	'deʔ'inu
+14.28	cease, stop	'kah'kaanu
+14.28	cease, stop	'ui'dinu
+14.29	ready	'kinun'hutʸu
+14.31	always	'naa'nuba
+14.32	often	den
+14.33	sometimes	'manpu
+14.331	soon	'wahtu
+14.332	long-time (for a)	'yuh'inu
+14.34	never	'naaʔ'nuba
+14.35	again	'ma'nen
+14.35	again	'me'nen
+14.35	again	'me'len
+14.41	day	'malu
+14.42	night	'kepe
+14.43	dawn	'čanu
+14.43	dawn	'diš'kepe'nene
+14.44	morning	'kepe'nene
+14.45	noon, midday	'pahta'katʸunu
+14.451	afternoon	'kepe'nuša
+14.46	evening	'uma'kepe'nu'tala
+14.47	today	'uma
+14.48	tomorrow	'ʔayu
+14.481	day-after-tomorrow	'ma'ʔayu
+14.49	yesterday	'kiši
+14.491	day-before-yesterday	'man'giši
+14.62	Sunday	ma
+14.63	Monday	ma
+14.64	Tuesday	ma
+14.65	Wednesday	ma
+14.66	Thursday	ma
+14.67	Friday	ma
+14.68	Saturday	ma
+14.71	month	'čuʔ'čaya
+14.74	winter	'šu
+14.76	summer	'pi'haš
+15.21	smell (vb intrans)	dʸu
+15.212	sniff	'iš'keenu
+15.22	smell (vb trans)	'iš'kanu
+15.25	fragrant, good smelling	'aindʸu
+15.25	fragrant, good smelling	'pindʸu
+15.25	fragrant, good smelling	'pin'gaa'teya
+15.26	stinking, bad smelling	'pudʸu
+15.26	stinking, bad smelling	'peʔdʸu
+15.31	taste	'Φiʔ'keenu
+15.35	sweet	'pin'gala
+15.35	sweet	'pin'c̷uru
+15.36	salty	'tʸaipi
+15.37	bitter	sa
+15.38	acid, sour	'šiwi
+15.39	brackish	'tʸaipi
+15.41	hear	'meenu
+15.42	listen	'mee'nanu
+15.42	listen	'mee'dinu
+15.44	sound, noise	'Φidʸa
+15.45	loud	'Φidʸa'kenu
+15.46	quiet, silence	'dih'c̷ale
+15.51	see	'keenu
+15.51	see	'kee'kenu
+15.52	look, look at	'keʔ'eenu
+15.55	show	'kee'waanu
+15.56	shine	'lʸuʔnu
+15.56	shine	'piʔ'kenu
+15.56	shine	'dan'genu
+15.57	bright	'piʔ'huru
+15.57	bright	'dan'huru
+15.62	light (in color)	'Φiba
+15.63	dark (in color)	'ɲingah'tʸutʸu
+15.63	dark (in color)	'yapi'huru
+15.64	white	'Φi'baba
+15.65	black	'pa'baba
+15.66	red	'lʸu'baba
+15.66	red	'unga'lala
+15.67	blue	'luška'tata
+15.67	blue	'lu'šiši
+15.68	green	'luška'tata
+15.69	yellow	'lahki'lʸilʸi
+15.71	touch	'taʔ'kanu
+15.712	pinch	'beh'kanu
+15.712	pinch	'teʔ'punu
+15.72	feel	'tennu
+15.74	hard	'pulu
+15.74	hard	'dengihtʸuhu
+15.75	soft	'naku'lulu
+15.75	soft	'pu'luhtu
+15.76	rough	'bus'naʔ'c̷ulu
+15.76	rough	'bui''hele
+15.78	sharp	'tʸai'kenu
+15.78	sharp	'tʸaya
+15.78	sharp	da
+15.79	blunt, dull	'dahtu
+15.81	heavy	'adʸu
+15.82	light (in weight)	'a'dʸuhtu
+15.82	light (in weight)	'heyah'kiki
+15.83	wet, damp	'ahta
+15.83	wet, damp	'ah'kenu
+15.83	wet, damp	'ah'tanu
+15.84	dry	'ehke
+15.84	dry	'eh'kenu
+15.85	hot	lu
+15.851	warm	'luča'pii
+15.851	warm	'hayulu
+15.86	cold	'ʔiša
+15.87	clean	'na'rahu
+15.87	clean	'hutʸu
+15.88	dirty, soiled	tu'ma'yii
+15.88	dirty, soiled	'a'tata
+15.88	dirty, soiled	nu
+15.89	wrinkled	'ši'tʸui'kaya
+16.11	soul, spirit	'uhmu
+16.15	surprised, astonished	'wa'pana
+16.15	surprised, astonished	'wa'pannu
+16.18	good fortune, luck	'ya'wi
+16.19	misfortune, bad luck	'ya'wihtu
+16.23	joyful, glad, happy	'sun'dennu
+16.23	joyful, glad, happy	'an'buʔ'tennu
+16.25	laugh	'uu'kanu
+16.251	smile	'uu'kanu
+16.26	play	'ai'kenu
+16.27	love	'es'tennu
+16.27	love	'es'tʸanu
+16.29	kiss	'mučan'genu
+16.29	kiss	'es'tinu
+16.3	embrace	'aman'genu
+16.31	pain	'kiya
+16.32	grief, sorrow, sadness	'lʸaki
+16.33	anxiety, worry	tʸa
+16.33	anxiety, worry	'dennu
+16.34	regret, be sorry	'lʸakin'banu
+16.35	pity	'tenbi'punu
+16.37	cry, weep	'waanu
+16.37	cry, weep	'wa'renu
+16.38	tear (noun)	'kapi
+16.39	groan	'en'dinu
+16.41	hate	'a'haa'tennu
+16.41	hate	'a'haa'tʸanu
+16.42	anger	'a'hara
+16.44	envy, jealousy	'kiš'tʸanu
+16.45	shame (noun)	'yuhmu
+16.48	proud	'dahka
+16.48	proud	'dah'tʸanu
+16.52	brave	'he'lahtu
+16.53	fear, fright	'hee
+16.53	fear, fright	'hee'tennu
+16.54	danger	'uu'hee'tʸa'nuu
+16.62	desire, want	muh
+16.622	choose	'teʔnu
+16.622	choose	'teʔ'kanu
+16.63	hope	'waš'nanu
+16.63	hope	'ah'čun'dʸanu
+16.65	faithful	'u'raʔ'humu
+16.66	true	'u'rahu
+16.67	lie, tell lies	'anbu'tinu
+16.68	deceit	'anbu'tiʔ'ge'kaanu
+16.69	forgive	'genu
+16.71	good	'ʔura
+16.71	good	'uwa
+16.73	right, correct	'ʔura
+16.73	right, correct	'uwa
+16.73	right, correct	'šili
+16.74	wrong	'u'rahtu
+16.74	wrong	'u'raʔ'hutʸu
+16.76	fault	'uhča
+16.76	fault	'
+16.77	mistake, error	'tuh'lenu
+16.78	blame	'laa'punu
+16.78	blame	'punu
+16.79	praise	'uusun'dinu
+16.81	beautiful	'na'rahu
+16.81	beautiful	'uu'kera
+16.82	ugly	'uuke'rahtu
+16.82	ugly	'ata'ta
+16.83	greedy	'esmu
+16.84	clever	'dahka
+17.11	mind	'tenda
+17.11	mind	'mišpe
+17.13	think (= reflect)	'genu
+17.14	think (= be of the opinion)	'tennu
+17.14	think (= be of the opinion)	'tʸanu
+17.14	think (= be of the opinion)	'genu
+17.15	believe	'genu
+17.16	understand	'genu
+17.17	know	'keemi'hanu
+17.17	know	'mi'hanu
+17.17	know	'minu
+17.171	guess	'tandi'yan'ginu
+17.172	imitate	'hun'c̷ange'kenu
+17.18	seem	'kera
+17.21	wise	mi
+17.21	wise	'dahka
+17.22	foolish, stupid	'ten'gatʸu
+17.23	insane, crazy	'yuhka
+17.24	learn	'mi'hanu
+17.24	learn	'keemi'hanu
+17.242	study	'kiika'mi'hanu
+17.242	study	'keemi'hanu
+17.25	teach	'miha'kaanu
+17.26	pupil	'kiika'wimu
+17.31	remember	'manden'ganu
+17.32	forget	'pašnu
+17.32	forget	'man'bašnu
+17.34	clear, plain	'keen'gaya
+17.35	obscure	'keenga'yahtu
+17.36	secret	'maali'minu
+17.37	sure, certain	'u'wain
+17.38	explain	'miha'kaanu
+17.41	intention, purpose	'c̷ange'nuc̷u
+17.42	cause	'mitʸa
+17.42	cause	kaa
+17.44	suspect	'c̷an'dʸanu
+17.44	suspect	'c̷an'dennu
+17.45	need, necessity	'dennu
+17.46	easy	'uu'kenu
+17.46	easy	htu
+17.47	difficult	'lʸiʔpu
+17.48	try, attempt	'keʔ'keenu
+17.49	way, manner	'c̷angen'c̷umi
+17.51	and	ba
+17.51	and	ban
+17.51	and	bain
+17.52	because	'mitʸa
+17.53	if	'šu'hun'c̷aya
+17.54	or	naa
+17.55	yes, affirmative	'hee
+17.56	no, negative	tʸu
+17.56	no, negative	htu
+17.56	no, negative	ʔ
+17.61	how?	'neh'taa
+17.61	how?	'naihtu
+17.61	how?	'naaʔ'ihtu
+17.62	how many?	'nan
+17.62	how many?	'naa'mee
+17.63	how much?	'naanči
+17.64	what?	'tin
+17.64	what?	tʸee
+17.64	what?	'tih'tun
+17.65	when?	'naama
+17.66	where?	'nu'kaa
+17.66	where?	'nunba
+17.67	which?	'naahu
+17.68	who?	'mun
+17.68	who?	'muh'tun
+17.69	why?	'naaɲu
+17.69	why?	'naiɲu
+17.69	why?	'nenɲu
+18.12	sing	'beesan'genu
+18.12	sing	'beesa
+18.13	shout, cry out	'uiʔnu
+18.15	whisper	dus'panu
+18.17	whistle	'wi'kenu
+18.17	whistle	'šušu'kenu
+18.18	shriek, screech	'wa'tinu
+18.19	howl	'uiʔnu
+18.21	speak, talk	'panu
+18.211	stutter, stammer	'muʔ'muʔ'panu
+18.22	say	'tinu
+18.22	say	'c̷an'dinu
+18.221	tell story	'kenu
+18.222	speech (make a)	'kenu
+18.23	silent (be)	'dih'c̷aahu
+18.23	silent (be)	'dus
+18.24	language	či
+18.28	name	'mumu
+18.31	ask (question, inquire)	'pakeʔ'meenu
+18.31	ask (question, inquire)	'pa'keʔme'renu
+18.32	answer	'pa'kanu
+18.33	admit, confess	'wainnu
+18.33	admit, confess	'u'wain'c̷aawe'tinu
+18.34	deny	c̷a'hutʸu'tinu
+18.35	ask, request	'paʔnu
+18.36	promise	'c̷andi'panu
+18.38	forbid	'ke'kaan'hutʸu
+18.39	rebuke, scold	'ne'panu
+18.41	call (=summon)	'mi'kanu
+18.42	call (=name)	'mumu'punu
+18.42	call (=name)	'mun'bunu
+18.43	announce	'haa'tinu
+18.43	announce	'wainnu
+18.44	threaten	'hee'kaa'punu
+18.45	boast	'dah'panu
+18.51	write	'pii'kenu
+18.51	write	'pilʸa
+18.52	read	'genu
+18.56	paper	'kiika
+18.57	pen	'seru
+18.61	book	'kiika
+18.71	flute	'puh'kuna
+18.72	drum	'ku'nunu
+18.73	horn, trumpet	'tʸuhtʸu
+18.74	rattle	'čiki'čiki
+19.11	country	tu
+19.12	one's native country	'naka'yanutu
+19.17	boundary	'kapa
+19.21	people (populace)	'ča'čilʸa
+19.23	tribe, clan	'bulu'čači
+19.24	chief, chieftain	'uɲi
+19.25	staff, walking stick	'c̷uta
+19.25	staff, walking stick	'tʸutʸan'čaali
+19.31	rule, govern	'genu
+19.37	citizen, subject	'čači
+19.41	master	ne'ke'kaamu
+19.42	slave	ne'keʔ'kumu
+19.43	servant	'miyan'čači
+19.43	servant	'kemu
+19.45	command, order	'genu
+19.46	obey	'meen'genu
+19.47	let, permit	'kare
+19.47	let, permit	'kaa
+19.51	friend, companion	'kuma'nii
+19.54	neighbor	'ka'len'čumu
+19.55	stranger	'ke'rahtu'čači
+19.56	guest	'ču'weʔ'namu
+19.57	host	'ya
+19.58	help, aid	'genu
+19.59	hinder, prevent	'ke'kaan'hutʸu
+19.61	custom	'c̷a'mi'hanu
+19.62	strife, quarrel	'win'banu
+19.63	conspiracy, plot	'Φi'ruʔ'kenu'tʸanu
+19.65	meet	'ka'tanu
+19.72	prostitute	'naʔ'baasa'c̷aimu'šinbu
+20.11	fight (vb)	'win'genu
+20.14	peace	'u'raʔ'hu
+20.15	army	la
+20.222	battle-ax	'wiin'genu
+20.23	sling	'waan'čuwa
+20.24	bow	'waan'čuwa
+20.25	arrow	'muute
+20.25	arrow	'kaa'c̷uta
+20.26	spear	'c̷uta
+20.27	sword	'wiin'genu
+20.28	gun, cannon	'i'lʸapan
+20.31	armor (defensive)	'hali
+20.36	tower	'tʸutʸa
+20.36	tower	'aa'katʸuya
+20.41	victory	'puinu
+20.42	defeat	'inu
+20.43	attack	'keʔ'anu
+20.44	defend	'inu
+20.45	retreat	'been'gaʔ'mitʸa'maanu
+20.46	surrender	'kaku'tinu
+20.47	captive, prisoner	'ka'yamu
+20.49	ambush	'kata'ku'tʸanu
+20.51	fisherman	'ain'gemu
+20.52	fishhook	'beru
+20.52	fishhook	'wen'gula
+20.53	fishing line	'wen'guu'čuwa
+20.54	fishnet	'waaku
+20.54	fishnet	'šiya
+20.55	fish trap	'pungu
+20.56	bait	'panda
+20.61	hunt	'heen'dala'hinu
+20.62	shoot	'tʸaʔ'kenu
+20.63	miss (target)	'pui'tenu'tukiš'kenu
+20.64	trap (noun)	'ila
+20.65	trap (vb)	'ila'kaanu
+20.65	trap (vb)	'kanu
+21.15	court	'ka'witu'ke'nunu
+21.16	judge (vb)	'ka'witu'kenu
+21.17	judgment	'ka'witu'kenu
+21.18	judge (noun)	'ka'witu'kemu
+21.21	plaintiff	'pumu
+21.22	defendant	'wimu
+21.23	witness	'kee'namu
+21.24	swear	'u'wain'c̷aawetiʔ'panu
+21.25	oath	'u'wain'c̷aawetiʔ'paɲu
+21.31	accuse	'punu
+21.32	condemn	'ge'kaanu
+21.33	convict (vb)	'tawe'tinu
+21.34	acquit	'tahtu'tinu
+21.35	guilty	'ta
+21.36	innocent	htu
+21.37	penalty, punishment	'aste'kenu
+21.42	murder	'ča'čii'tala'tuʔnu
+21.43	adultery	'wee'ma'c̷ainu
+21.44	rape	'tʸui'ta'diʔ'Φi'ruʔ'kenu
+21.46	arson	'huʔ'keʔ'winu
+21.47	perjury	'u'wain'c̷an'dinu'titu'ren'anbu'tinu
+21.51	steal	'taan'genu
+21.52	thief	'taanu

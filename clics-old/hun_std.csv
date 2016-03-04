@@ -1,0 +1,1676 @@
+@classification: Uralic
+@ids-name: Hungarian_Phonemic
+@iso: hun
+@language: Hungarian
+@size: 1669
+@source: ids
+@variety: std
+1.1	world	wilaag
+1.21	earth, land	föld
+1.212	earth=ground, soil	föld
+1.212	earth=ground, soil	talay
+1.213	dust	por
+1.214	mud	šaar
+1.215	sand	homok
+1.22	mountain, hill	hedʸ
+1.222	cliff, precipice	sikla
+1.222	cliff, precipice	sirt
+1.23	plain, field	šikšaag
+1.23	plain, field	mezöö
+1.24	valley	wöldʸ
+1.25	island	siget
+1.26	mainland	saarazföld
+1.27	shore	part
+1.28	cave	barlang
+1.31	water	wiiz
+1.32	sea	tenger
+1.322	calm (of sea)	ɲugodt
+1.322	calm (of sea)	čendeš
+1.323	rough (of sea)	wiharoš
+1.324	foam	hab
+1.324	foam	tayteek
+1.329	ocean	ooc̷eaan
+1.33	lake	too
+1.34	gulf, bay	öböl
+1.341	lagoon	laguuna
+1.342	reef	sirt
+1.342	reef	zaatoɲ
+1.343	headland, point	hedʸfok
+1.343	headland, point	földnelw
+1.35	wave	hullaam
+1.352	tide	aarapaalʸ
+1.353	lowtide	apaalʸ
+1.354	hightide	dagaalʸ
+1.36	river, stream, brook	folʸo
+1.36	river, stream, brook	folʸam
+1.36	river, stream, brook	aar
+1.36	river, stream, brook	patak
+1.362	whirlpool	forgatag
+1.37	spring, well	forraaš
+1.37	spring, well	kuut
+1.38	swamp	močaar
+1.38	swamp	laap
+1.38	swamp	ingowaaɲ
+1.39	waterfall	wiizešeeš
+1.41	woods, forest	erdöö
+1.42	tree (cf 08.600)	fa
+1.43	wood	faaɲag
+1.43	wood	tüüzifa
+1.44	stone, rock	köö
+1.44	stone, rock	sikla
+1.44	stone, rock	sirt
+1.45	earthquake	földrengeeš
+1.51	sky	eeg
+1.52	sun	nap
+1.53	moon	hold
+1.54	star	čillag
+1.55	lightning	willaam
+1.56	thunder	menɲdörgeeš
+1.57	lightning (as striking)	ziwatar
+1.58	storm	wihar
+1.59	rainbow	siwaarwaaɲ
+1.61	light (noun)	feeɲ
+1.61	light (noun)	wilaagoššaag
+1.62	darkness	šöteegšeeg
+1.63	shade, shadow	aarɲeek
+1.63	shade, shadow	aarɲ
+1.64	dew	harmat
+1.71	air	lewegöö
+1.72	wind	seel
+1.73	cloud	felhöö
+1.74	fog	köd
+1.75	rain (noun)	ešöö
+1.76	snow (noun)	hoo
+1.77	ice	yeeg
+1.78	weather	idöö
+1.81	fire	tüüz
+1.82	flame (noun)	laang
+1.83	smoke (noun)	füšt
+1.84	ashes	hamu
+1.841	embers	paraaž
+1.851	burn (vb trans)	eeget
+1.852	burn (vb intrans)	eeg
+1.86	light, kindle, ignite	megdʸuuyt
+1.86	light, kindle, ignite	eltüzel
+1.861	extinguish	elolt
+1.87	match (noun)	dʸufa
+1.88	firewood	tüüzifa
+1.89	charcoal	faseen
+1.89	charcoal	seen
+2.1	person, human being	edʸeen
+2.1	person, human being	ember
+2.21	man (vs. woman)	feerfi
+2.22	woman	assoɲ
+2.22	woman	nöö
+2.23	male	hiim
+2.24	female	nöönemü
+2.25	boy	fiuu
+2.251	young man (adolescent)	ifyuu
+2.251	young man (adolescent)	fiatalember
+2.26	girl	laaɲ
+2.261	young woman (adolescent)	kišassoɲ
+2.27	child	dʸerek
+2.28	infant, baby	čečemöö
+2.28	infant, baby	baba
+2.31	husband	feery
+2.32	wife	felešeeg
+2.33	marry	meghaazašodik
+2.34	marriage, wedding	haazaššaag
+2.341	divorce	waalaaš
+2.35	father	apa
+2.36	mother	aɲa
+2.37	parents	sülöök
+2.38	married man	haazašember
+2.39	married woman	felešeeg
+2.39	married woman	hitweš
+2.41	son	fiuu
+2.42	daughter	laaɲ
+2.43	offspring (son or daughter)	utood
+2.44	brother	fiweer
+2.44	brother	fiuuteštweer
+2.444	older brother	baatʸa
+2.445	younger brother	öč
+2.45	sister	nööweer
+2.454	older sister	nööweer
+2.455	younger sister	huug
+2.456	sibling	teštweer
+2.458	twins	ikrek
+2.46	grandfather	nadʸapa
+2.461	old man	öregember
+2.47	grandmother	nadʸaɲa
+2.471	old woman	öregassoɲ
+2.48	grandson	unoka
+2.49	granddaughter	unoka
+2.51	uncle	nadʸbaači
+2.511	mother's brother	aɲainadʸbaači
+2.512	father's brother	apainadʸbaači
+2.52	aunt	nadʸneeni
+2.521	mother's sister	nadʸneeni
+2.522	father's sister	nadʸneeni
+2.53	nephew	unokaöč
+2.54	niece	unokahuug
+2.55	cousin	unokateštweer
+2.56	ancestors	ööšök
+2.56	ancestors	elöödök
+2.57	descendants	lesaarmazottak
+2.61	father-in-law (of a man)	apooš
+2.611	father-in-law (of a woman)	apooš
+2.62	mother-in-law (of a man)	aɲooš
+2.621	mother-in-law (of a woman)	aɲooš
+2.63	son-in-law (of a man)	wöö
+2.631	son-in-law (of a woman)	wöö
+2.64	daughter-in-law (of a man)	meɲ
+2.641	daughter-in-law (of a woman)	meɲ
+2.71	stepfather	moštohaapa
+2.72	stepmother	moštohaaɲa
+2.73	stepson	moštohafiuu
+2.74	stepdaughter	moštohalaaɲ
+2.75	orphan	aarwa
+2.76	widow	özwedʸ
+2.77	widower	özwedʸember
+2.81	relatives, kinsmen	rokon
+2.82	family	čalaad
+2.91	I	een
+2.92	you (singular)	te
+2.93	he/she/it	öö
+2.93	he/she/it	az
+2.94	we	mi
+2.95	you (plural)	ti
+2.96	they	öök
+3.11	animal	aallat
+3.12	male (adj)	hiim
+3.13	female (adj)	nööšteeɲ
+3.15	livestock	aallataallomaaɲ
+3.16	pasture	legelöö
+3.18	herdsman	paastor
+3.19	stable, stall	ištaalloo
+3.2	cattle (bovine)	marha
+3.21	bull	bika
+3.22	ox	ökör
+3.23	cow	teheen
+3.24	calf	boryuu
+3.25	sheep	yuh
+3.25	sheep	birka
+3.26	ram	koš
+3.26	ram	ürü
+3.26	ram	yuh
+3.28	ewe	nööšteeɲyuh
+3.29	lamb	kišbaaraaɲ
+3.32	boar	waddisnoo
+3.34	sow	disnoo
+3.34	sow	šerteeš
+3.35	pig	malac̷
+3.36	goat	kečke
+3.37	he-goat	bakkečke
+3.38	kid	kečkegida
+3.41	horse (equine)	loo
+3.42	stallion	čöödör
+3.42	stallion	meen
+3.44	mare	kanc̷a
+3.45	foal, colt	čikoo
+3.46	ass, donkey	samaar
+3.47	mule	ösweer
+3.5	fowl	haazisaarɲaš
+3.5	fowl	baromfi
+3.52	cock, rooster	kakaš
+3.54	hen	tʸuuk
+3.55	chicken	čibe
+3.55	chicken	čirke
+3.56	goose	liba
+3.57	duck	kača
+3.58	nest	feesek
+3.581	bird	madaar
+3.582	seagull	širaalʸ
+3.583	heron	koočag
+3.584	eagle	šaš
+3.585	hawk	šoolʸom
+3.586	vulture	dögewöö
+3.591	bat	deneweer
+3.592	parrot	papagaay
+3.593	crow	waryuu
+3.594	dove	galamb
+3.596	owl	bagolʸ
+3.61	dog	kutʸa
+3.61	dog	eb
+3.614	rabbit	ɲuul
+3.62	cat	mačka
+3.622	opossum	opossum
+3.63	mouse, rat	egeer
+3.63	mouse, rat	patkaaɲ
+3.65	fish	hal
+3.652	fin (dorsal)	usoɲ
+3.653	fishscale	pikkelʸ
+3.654	gill	kopoltʸuu
+3.655	shell	kadʸuloo
+3.661	shark	c̷aapa
+3.662	porpoise, dolphin	delfin
+3.663	whale	baalna
+3.663	whale	c̷et
+3.664	stingray	raaya
+3.665	freshwater eel	eedešwiiziangolna
+3.71	wolf	farkaš
+3.72	lion	oroslaan
+3.73	bear	medwe
+3.74	fox	rooka
+3.75	deer	sarwaš
+3.76	monkey	mayom
+3.77	elephant	elefaant
+3.78	camel	tewe
+3.81	insect	rowar
+3.811	louse	tetüü
+3.812	nit (louse egg)	tetüüpete
+3.813	flea	bolha
+3.814	centipede	saazlaabuu
+3.815	scorpion	škorpioo
+3.816	cockroach	poros
+3.817	ant	handʸa
+3.818	spider	pook
+3.819	spider web	pookhaaloo
+3.82	bee	meeh
+3.821	beeswax	meehwias
+3.822	beehive	meehkaš
+3.822	beehive	kaptaar
+3.823	wasp	daraaž
+3.83	fly	leedʸ
+3.831	sandfly (midge), gnat	suuɲog
+3.832	mosquito	moskitoo
+3.84	worm	kukac̷
+3.84	worm	feereg
+3.85	snake	kiidʸoo
+3.91	firefly	sentyaanošbogaar
+3.92	butterfly	lepke
+3.92	butterfly	pillangoo
+3.93	grasshopper	söčke
+3.94	snail	čiga
+3.95	frog	beeka
+3.96	lizard	dʸiik
+3.97	crocodile, alligator	krokodil
+3.97	crocodile, alligator	alligaator
+3.98	turtle	teknööšbeeka
+4.11	body	tešt
+4.12	skin, hide	böör
+4.13	flesh	huuš
+4.14	hair (head)	haysaal
+4.14	hair (head)	hay
+4.142	beard	sakaall
+4.144	body hair	söör
+4.145	pubic hair	nemisöörzet
+4.146	dandruff	korpa
+4.15	blood	weer
+4.151	vein, artery	weena
+4.151	vein, artery	ütööeer
+4.16	bone	čont
+4.162	rib	borda
+4.17	horn	sarw
+4.18	tail	farok
+4.19	back	haat
+4.191	spine	gerinc̷oslop
+4.191	spine	haatgerinc̷
+4.2	head	fey
+4.201	side of head, temple	halaanteek
+4.202	skull	kopoɲa
+4.203	brain	adʸ
+4.204	face	arc̷
+4.205	forehead	homlok
+4.207	jaw	aallkapoč
+4.208	cheek	orc̷a
+4.209	chin	aall
+4.21	eye	sem
+4.212	eyebrow	semöldök
+4.213	eyelid	semheey
+4.214	eyelash	sempilla
+4.215	blink	huɲorgat
+4.215	blink	pišlog
+4.22	ear	fül
+4.221	earlobe	fülc̷impa
+4.222	earwax	fülžiir
+4.23	nose	orr
+4.231	nostril	orrlʸuk
+4.232	mucus (nasal)	takoɲ
+4.24	mouth	saay
+4.241	beak	čöör
+4.25	lip	ayak
+4.26	tongue	ɲelw
+4.27	tooth	fog
+4.271	gums	iiɲ
+4.272	molartooth	zaapfog
+4.28	neck	ɲak
+4.281	nape of neck	ɲaksirt
+4.29	throat	torok
+4.3	shoulder	waall
+4.301	shoulderblade	lapoc̷ka
+4.302	collarbone	kulččont
+4.31	arm	kar
+4.312	armpit	hoonaly
+4.32	elbow	köɲök
+4.321	wrist	čukloo
+4.33	hand	keez
+4.331	palm of hand	teɲeer
+4.34	finger	uyy
+4.342	thumb	hüwelʸkuyy
+4.344	fingernail	köröm
+4.345	claw	karom
+4.35	leg	laab
+4.351	thigh	c̷omb
+4.352	calf of leg	laabikra
+4.36	knee	teerd
+4.37	foot	laab
+4.371	ankle	boka
+4.372	heel	šarok
+4.374	footprint	laabɲom
+4.38	toe	laabuyy
+4.392	wing	saarɲ
+4.393	feather	toll
+4.393	feather	madaartoll
+4.4	chest	mell
+4.41	breast (of woman)	mell
+4.41	breast (of woman)	emlöö
+4.412	nipple, teat	mellbimboo
+4.42	udder	töödʸ
+4.43	navel	köldök
+4.44	heart	siiw
+4.441	lung	tüdöö
+4.45	liver	maay
+4.451	kidney	weše
+4.452	spleen	leep
+4.46	stomach	dʸomor
+4.461	intestines, guts	belek
+4.462	waist	ɲak
+4.462	waist	tarkoo
+4.463	hip	čiipöö
+4.464	buttocks	feneek
+4.464	buttocks	far
+4.47	womb	aɲameeh
+4.49	testicle	here
+4.492	penis	peenis
+4.51	breathe, breath	leegelzik
+4.51	breathe, breath	leegezeeš
+4.52	yawn, gape	c̷iišiit
+4.521	hiccough	čuklik
+4.53	cough	köhög
+4.54	sneeze	tüssent
+4.55	perspire	izzad
+4.56	spit	köp
+4.57	vomit	haaɲ
+4.57	vomit	okaadik
+4.58	bite	harap
+4.59	lick	ɲal
+4.59	lick	ɲalogat
+4.591	dribble	čöpög
+4.61	sleep	alsik
+4.612	snore	horkol
+4.62	dream	aalmodik
+4.63	wake up	eebred
+4.64	break wind	sellent
+4.65	urinate	wizel
+4.66	defecate	beelšaar
+4.66	defecate	ürüleek
+4.67	have sexual intercourse	közöšül
+4.68	shiver	remeg
+4.68	shiver	resket
+4.69	bathe	fürdik
+4.71	beget (of father)	sületik
+4.72	born (to be)	sül
+4.73	pregnant	terheš
+4.73	pregnant	aallapotoš
+4.732	conceive	teherbeešik
+4.74	live, living, life	eel
+4.74	live, living, life	eelöö
+4.74	live, living, life	eelet
+4.75	die, dead	meghal
+4.75	die, dead	halott
+4.751	drowned	wiizbefuult
+4.76	kill	megöl
+4.77	corpse	hulla
+4.77	corpse	tetem
+4.78	bury (the dead)	eltemet
+4.79	grave, tomb	šiir
+4.81	strong, mighty, powerful	erööš
+4.81	strong, mighty, powerful	hatalmaš
+4.82	weak	dʸenge
+4.83	well, health	egeesšeegeš
+4.83	well, health	egeesšeeg
+4.84	sick, sickness	beteg
+4.84	sick, sickness	betegšeeg
+4.841	fever	laaz
+4.842	goiter	golʸwa
+4.843	cold (catarrh)	meghüüleeš
+4.85	wound, sore	šeb
+4.852	bruise	keekfolt
+4.852	bruise	weeralaafutaaš
+4.853	swelling	feldagad
+4.853	swelling	felpuffad
+4.854	itch	wisketeeš
+4.855	blister	hoolʸag
+4.856	boil (noun)	keleeš
+4.856	boil (noun)	taalʸog
+4.857	pus	genɲ
+4.858	scar	heg
+4.858	scar	forradaaš
+4.86	cure, heal	aapol
+4.86	cure, heal	kezel
+4.87	physician	orwoš
+4.88	medicine, drug	orwoššaag
+4.89	poison	meereg
+4.91	tired, weary	faaradt
+4.91	tired, weary	kimerült
+4.912	rest	pihen
+4.92	lazy	lušta
+4.93	bald	kopas
+4.94	lame	šaanta
+4.95	deaf	šüket
+4.96	mute	neema
+4.97	blind	wak
+4.98	intoxicated	reeseg
+4.99	naked, bare	meztelen
+4.99	naked, bare	puc̷eer
+5.11	eat	esik
+5.12	food	eetel
+5.121	cooked	föött
+5.121	cooked	šült
+5.122	raw	ɲerš
+5.123	ripe	eerett
+5.124	green, unripe	zöld
+5.124	green, unripe	ɲerš
+5.125	rotten	rothadt
+5.13	drink	isik
+5.14	hunger	eehšeeg
+5.141	famine	eehšeeg
+5.15	thirst	somy
+5.16	suck	siiw
+5.18	chew	raag
+5.181	swallow	ɲel
+5.19	choke	fuldoklik
+5.19	choke	megfoyt
+5.21	cook	fööz
+5.22	boil (vb)	forral
+5.23	roast, fry	šüt
+5.24	bake	šüt
+5.25	oven	tüüzhelʸ
+5.25	oven	kaalʸha
+5.26	pot, cooking vessel	edeeɲ
+5.26	pot, cooking vessel	fazeek
+5.27	kettle	üšt
+5.28	pan	šerpeɲöö
+5.31	dish	edeeɲ
+5.32	plate	taaɲeer
+5.33	bowl	taal
+5.34	pitcher, jug	köčög
+5.34	pitcher, jug	koršoo
+5.34	pitcher, jug	kančoo
+5.35	cup, drinking vessel	čeese
+5.36	saucer	čeesealy
+5.37	spoon	kanaal
+5.38	knife	keeš
+5.39	fork	willa
+5.391	tongs	fogoo
+5.41	meal (a)	eetkezeeš
+5.41	meal (a)	eetel
+5.42	breakfast	reggeli
+5.42	breakfast	tiizoorai
+5.43	lunch	eetkezeeš
+5.44	dinner	ebeed
+5.45	supper	wačora
+5.46	peel	haamoz
+5.47	sieve, strain	süür
+5.47	sieve, strain	aatsüür
+5.48	scrape	lewakar
+5.49	stir, mix	kewer
+5.49	stir, mix	wedʸiit
+5.51	bread	keɲeer
+5.53	dough	teesta
+5.54	knead	dagast
+5.54	knead	dʸuur
+5.55	meal, flour	list
+5.56	crush, grind	ööröl
+5.56	crush, grind	daraal
+5.57	mill	malom
+5.58	mortar	možaar
+5.59	pestle	možaartöröö
+5.61	meat	huuš
+5.63	sausage	kolbaas
+5.63	sausage	hurka
+5.64	soup, broth	leweš
+5.65	vegetables	zöldšeegfeeleek
+5.66	bean	bab
+5.66	bean	pasulʸ
+5.7	potato	burgoɲa
+5.7	potato	krumpli
+5.71	fruit	dʸümölč
+5.712	bunch	köteg
+5.75	fig	füge
+5.76	grape	söölöö
+5.77	nut	modʸoroo
+5.78	olive	olayfa
+5.78	olive	oliiwa
+5.79	oil	olay
+5.791	grease, fat	žiir
+5.81	salt	šoo
+5.82	pepper	borš
+5.821	chili pepper	čiipööšpaprika
+5.84	honey	meez
+5.85	sugar	c̷ukor
+5.86	milk (noun)	tey
+5.87	milk (vb)	fey
+5.88	cheese	šayt
+5.89	butter	way
+5.9	beverage, drink	ital
+5.91	mead	meehšör
+5.92	wine	bor
+5.93	beer	šör
+5.94	fermented drink	eryesteltital
+5.97	egg	toyaaš
+5.971	egg yolk	toyaaššaargaaya
+6.11	put on (clothes)	öltözik
+6.12	clothing, clothes	ruha
+6.12	clothing, clothes	öltöɲ
+6.13	tailor	saboo
+6.21	cloth	söwet
+6.21	cloth	waason
+6.22	wool	dʸapyuu
+6.23	linen, flax	waason
+6.23	linen, flax	dʸolč
+6.23	linen, flax	len
+6.24	cotton	dʸapot
+6.24	cotton	pamut
+6.25	silk	šelʸem
+6.27	felt	nemez
+6.27	felt	filc̷
+6.28	fur	söörme
+6.28	fur	preem
+6.29	leather	böör
+6.31	spin	fon
+6.32	spindle	oršoo
+6.33	weave	söö
+6.34	loom	söwöögeep
+6.34	loom	kötöögeep
+6.35	sew	warr
+6.36	needle	tü
+6.37	awl	aar
+6.38	thread	fonal
+6.38	thread	saal
+6.39	dye	fešt
+6.39	dye	befešt
+6.41	cloak	pelerin
+6.41	cloak	köpeɲ
+6.42	woman's dress	ruha
+6.43	coat	zakoo
+6.44	shirt	ing
+6.45	collar	galleer
+6.46	skirt	sokɲa
+6.48	trousers	nadraag
+6.49	stocking, sock	zokni
+6.49	stocking, sock	harišɲa
+6.51	shoe	c̷ipöö
+6.52	boot	čizma
+6.54	shoemaker, cobbler	c̷ipees
+6.55	hat, cap	kalap
+6.55	hat, cap	šapka
+6.57	belt, girdle	öw
+6.58	glove	kestʸüü
+6.59	veil	faatʸol
+6.61	pocket	žeb
+6.62	button	gomb
+6.63	pin	gomboštüü
+6.71	ornament, adornment	diis
+6.71	ornament, adornment	diisiiteeš
+6.72	jewel	eekser
+6.73	ring (for finger)	dʸüürüü
+6.74	bracelet	karkötöö
+6.75	necklace	ɲakeek
+6.75	necklace	ɲaklaanc̷
+6.76	bead	dʸöndʸšor
+6.77	earring	fülbewaloo
+6.78	headband, headdress	feyfedöö
+6.79	tattoo	tetowaalaaš
+6.81	handkerchief, rag	žebkendöö
+6.82	towel	kendöö
+6.82	towel	salweeta
+6.91	comb	feešüü
+6.92	brush	kefe
+6.921	braid	fon
+6.93	razor	borotwa
+6.94	ointment	kenööč
+6.94	ointment	kreem
+6.95	soap	sappan
+6.96	mirror	tükör
+7.11	dwell, live	lakik
+7.11	dwell, live	eel
+7.12	house	haaz
+7.13	hut	kuɲhoo
+7.13	hut	wiškoo
+7.13	hut	witʸilloo
+7.131	garden-house	kertešhaaz
+7.14	tent	šaator
+7.15	yard, court	udwar
+7.16	men's house	legeeɲlakaaš
+7.17	cookhouse	koɲha
+7.18	meeting house	imahaaz
+7.21	room	soba
+7.22	door, gate	aytoo
+7.22	door, gate	kapu
+7.221	doorpost, jamb	aytootok
+7.23	lock (noun)	zaar
+7.23	lock (noun)	lakat
+7.231	latch, door-bolt	kilinč
+7.24	key	kulč
+7.25	window	ablak
+7.26	floor	padloo
+7.27	wall	fal
+7.31	fireplace	kandalloo
+7.31	fireplace	tüüzhelʸ
+7.32	stove	tüüzhelʸ
+7.32	stove	kaalʸha
+7.33	chimney	čöö
+7.37	ladder	leepčöö
+7.42	bed	aadʸ
+7.421	pillow	paarna
+7.421	pillow	waankoš
+7.422	blanket	paplan
+7.422	blanket	takaroo
+7.43	chair	seek
+7.44	table	astal
+7.46	candle	dʸertʸa
+7.47	shelf	polc̷
+7.48	trough	teknöö
+7.51	roof	tetöö
+7.52	thatch	salmatetöö
+7.53	ridgepole	gerenda
+7.54	rafter	fedeelseek
+7.54	rafter	saruzat
+7.54	rafter	sarufa
+7.55	beam	gerenda
+7.56	post, pole	poozna
+7.56	post, pole	ruud
+7.57	board	deska
+7.57	board	taabla
+7.58	arch	boltiiw
+7.61	mason	köömüüweš
+7.62	brick	teegla
+7.63	mortar	wakolat
+7.64	adobe	waalʸog
+7.64	adobe	waalʸogteegla
+8.11	farmer	földmüüweš
+8.11	farmer	parast
+8.12	field (for cultivation)	saantoo
+8.13	garden	kert
+8.13	garden	dʸümölčöš
+8.15	cultivate, till	müüwel
+8.16	fence	körülkeriit
+8.16	fence	elkeriit
+8.16	fence	bekeriit
+8.17	ditch	aarok
+8.21	plow	saant
+8.212	furrow	baraazda
+8.22	dig	aaš
+8.23	spade	aašoo
+8.24	shovel	lapaat
+8.25	hoe	kapa
+8.26	fork	willa
+8.27	rake	gereblʸe
+8.31	sow	wet
+8.31	sow	elwet
+8.311	seed	mag
+8.32	mow, reap	kasaal
+8.33	sickle, scythe	šarloo
+8.33	sickle, scythe	kasa
+8.34	thresh	kičeepel
+8.35	threshing-floor	seerüü
+8.41	crop, harvest	arataaš
+8.41	crop, harvest	termeeš
+8.42	grain (barley, oats etc)	gabona
+8.42	grain (barley, oats etc)	termeeɲ
+8.43	wheat	buuza
+8.44	barley	aarpa
+8.45	rye	rož
+8.46	oats	zab
+8.47	maize, corn	kukoric̷a
+8.48	rice	riž
+8.51	grass	füü
+8.52	hay	seena
+8.53	plant (noun)	nöweeɲ
+8.531	plant (vb)	ültet
+8.54	root	dʸökeer
+8.54	root	töö
+8.55	branch	aag
+8.56	leaf	leweel
+8.56	leaf	lomb
+8.57	flower	wiraag
+8.6	tree	fa
+8.61	oak	töldʸ
+8.62	beech	bükk
+8.63	birch	ɲiir
+8.64	pine	feɲöö
+8.65	fir	eɲöö
+8.66	acorn	makk
+8.67	vine	söölöö
+8.68	tobacco	dohaaɲ
+8.69	smoke (tobacco)	dohaaɲzik
+8.691	pipe	pipa
+8.72	tree stump	töönk
+8.73	tree trunk	törž
+8.74	forked branch	aag
+8.75	bark	fakeereg
+8.76	sap	lee
+8.76	sap	nedw
+8.81	palm tree	paalma
+8.82	coconut	kookusdioo
+8.83	citrus fruit	deelidʸümölč
+8.83	citrus fruit	c̷itrušfeeleek
+8.84	banana tree	banaan
+8.85	banyan	indiaifügefa
+8.91	sweet potato	bataatas
+8.92	tapioca, manioc, cassava	tapiooka
+8.92	tapioca, manioc, cassava	maniooka
+8.93	gourd	lopootök
+8.931	pumpkin, squash	tök
+8.94	bamboo	bambus
+8.941	sugar cane	c̷ukornaad
+8.97	nettle	čalaan
+8.98	mushroom	gomba
+9.11	do, make	tes
+9.11	do, make	činaal
+9.11	do, make	keesiit
+9.12	work	dolgozik
+9.14	bend	hayliit
+9.15	fold	haytogat
+9.16	tie, bind	köt
+9.161	untie	kibont
+9.18	chain	laanc̷
+9.19	rope, cord	köteel
+9.192	knot (noun)	čomo
+9.21	strike (hit, beat)	üt
+9.21	strike (hit, beat)	wer
+9.21	strike (hit, beat)	čap
+9.211	pound with fist	kalapaal
+9.22	cut	waag
+9.221	cut down	lewaag
+9.222	chop, hew	hašogat
+9.222	chop, hew	waag
+9.223	stab	suur
+9.223	stab	megkeešel
+9.23	knife	keeš
+9.24	scissors, shears	olloo
+9.25	ax	balta
+9.25	ax	feyse
+9.251	adze	baard
+9.251	adze	feyse
+9.251	adze	bodnarkeeš
+9.26	break	tör
+9.261	broken	tört
+9.261	broken	törött
+9.261	broken	megtört
+9.28	tear	teep
+9.29	flay, skin	megɲuuz
+9.29	flay, skin	lehaant
+9.31	rub, wipe	dörzöl
+9.32	stretch	megɲuuyt
+9.33	pull	huuz
+9.34	spread out	leteriit
+9.34	spread out	megteriit
+9.341	hang up	felakast
+9.342	press	soriit
+9.343	squeeze, wring	šaytol
+9.35	pour	önt
+9.35	pour	ömlik
+9.36	wash	moš
+9.36	wash	mošdik
+9.37	sweep	šöpör
+9.37	sweep	elšodor
+9.38	broom	šeprüü
+9.38	broom	rekettʸe
+9.422	tool	sersaam
+9.43	carpenter	aač
+9.44	build	eepiit
+9.46	bore	fuur
+9.46	bore	fuuroodik
+9.461	hollow out	waay
+9.461	hollow out	üregeššeetes
+9.48	saw	füürees
+9.49	hammer	kalapaač
+9.5	nail	seg
+9.56	glue	ragastoo
+9.56	glue	eɲw
+9.6	smith, blacksmith	kowaač
+9.61	forge	kowaačol
+9.62	anvil	üllöö
+9.63	cast (metals)	önt
+9.64	gold	araɲ
+9.65	silver	ezüšt
+9.66	copper, bronze	wöröšreez
+9.66	copper, bronze	bronz
+9.67	iron	waš
+9.68	lead (noun)	oolom
+9.69	tin, tinplate	oon
+9.71	potter	fazekaš
+9.72	mold (clay etc)	formaal
+9.72	mold (clay etc)	mintaaz
+9.73	clay	adʸag
+9.74	glass	üweg
+9.75	weave, plait	fon
+9.76	basket	košaar
+9.77	mat	dʸeekeeɲ
+9.771	rug	sööɲeg
+9.78	netbag	haaloo
+9.79	fan (noun)	ledʸezöö
+9.791	fan (vb)	fuuy
+9.81	carve	farag
+9.82	sculptor	sobraas
+9.83	statue	sobor
+9.84	chisel	weešöö
+9.88	paint (noun)	siin
+9.88	paint (noun)	fešteek
+9.89	paint (vb)	fešt
+9.89	paint (vb)	maazol
+10.11	move	mozdiit
+10.11	move	mozgat
+10.12	turn over	fordul
+10.12	turn over	felboriit
+10.13	turn around	megfordiit
+10.14	wind, wrap	čawar
+10.14	wind, wrap	šodor
+10.14	wind, wrap	fon
+10.14	wind, wrap	bečawar
+10.15	roll	felčawar
+10.15	roll	gördül
+10.16	drop (vb)	luyt
+10.17	twist	elfordit
+10.17	twist	šodor
+10.17	twist	kawar
+10.21	rise	saall
+10.21	rise	felkel
+10.22	raise, lift	emel
+10.23	fall	ešik
+10.24	drip	čepereg
+10.25	throw	dob
+10.25	throw	wet
+10.252	catch (ball)	idʸeksik
+10.252	catch (ball)	haysol
+10.26	shake	raaz
+10.32	flow	folʸik
+10.32	flow	ömlik
+10.33	sink	befüüt
+10.34	float	uusik
+10.34	float	fürdik
+10.35	swim	uusik
+10.351	dive	merül
+10.351	dive	bemerül
+10.352	splash	fröčköl
+10.36	sail (vb)	hayoozik
+10.37	fly (vb)	repül
+10.38	blow	fuuy
+10.41	creep, crawl	maasik
+10.41	creep, crawl	kuusik
+10.412	kneel	leteerdel
+10.412	kneel	teerdepel
+10.413	crouch	guggol
+10.42	slide, slip	bešurran
+10.43	jump, leap	ugrik
+10.431	kick	ruug
+10.44	dance	tanc̷ool
+10.45	walk	šeetaal
+10.45	walk	medʸ
+10.451	limp	šaantiit
+10.46	run	fut
+10.46	run	salad
+10.47	go	medʸ
+10.47	go	les
+10.471	go up	felkel
+10.471	go up	felaall
+10.472	climb	maasik
+10.473	go down	alaa
+10.473	go down	lemedʸ
+10.474	go out	kimedʸ
+10.48	come	yön
+10.48	come	medʸ
+10.48	come	kerül
+10.481	come back	wissateer
+10.481	come back	megyön
+10.49	go away, depart	elmedʸ
+10.49	go away, depart	eltaawozik
+10.491	disappear	eltüünik
+10.51	flee	menekül
+10.51	flee	elfüt
+10.52	follow	köwet
+10.53	pursue	üldöz
+10.55	reach, arrive	eerkezik
+10.55	reach, arrive	yön
+10.56	approach	közeledik
+10.56	approach	közeleg
+10.57	enter	beyön
+10.57	enter	bemedʸ
+10.61	carry (bear)	hord
+10.612	carry-in-hand	keezbenwis
+10.613	carry-on-shoulder	waallonwis
+10.614	carry-on-head	afeyeenwis
+10.615	carry-underarm	ahoonaalattwis
+10.62	bring	hoz
+10.63	send	küld
+10.64	lead (vb)	wezet
+10.65	drive	wezet
+10.65	drive	hayt
+10.66	ride	lowagol
+10.67	push, shove	halast
+10.67	push, shove	lök
+10.71	road	uut
+10.72	path	uut
+10.72	path	öšweeɲ
+10.74	bridge	hiid
+10.75	carriage, wagon, cart	koči
+10.75	carriage, wagon, cart	hintoo
+10.75	carriage, wagon, cart	wagon
+10.76	wheel	kereek
+10.77	axle	tengelʸ
+10.78	yoke	yaarom
+10.78	yoke	iga
+10.81	ship	hayoo
+10.83	boat	čoonak
+10.831	canoe	kayak
+10.831	canoe	kenu
+10.832	outrigger	inga
+10.84	raft	tutay
+10.85	oar	ewezöö
+10.851	paddle (noun)	ewezöö
+10.852	row (vb)	ewez
+10.86	rudder	kormaaɲ
+10.87	mast	aarboc̷
+10.88	sail (noun)	witorla
+10.89	anchor	horgoɲ
+10.91	harbor, port	kikötöö
+10.92	land (vb)	kisaall
+10.92	land (vb)	lesaall
+11.11	have	wan
+11.12	own, possess	birtokol
+11.13	take	wes
+11.14	seize, grasp	elegendöö
+11.15	hold	tart
+11.16	get, obtain	megkap
+11.16	get, obtain	kap
+11.17	keep, retain	gondoz
+11.17	keep, retain	tart
+11.17	keep, retain	rendelkezik
+11.18	thing	üdʸ
+11.18	thing	dolog
+11.18	thing	ešet
+11.21	give	ad
+11.21	give	yuttat
+11.22	give back	wissaad
+11.24	preserve, look after	ööriz
+11.24	preserve, look after	megööriz
+11.25	save, rescue	oow
+11.25	save, rescue	weed
+11.27	destroy	elpustiit
+11.27	destroy	tönkretes
+11.28	harm, injure, damage	aart
+11.31	seek, look for	kereš
+11.32	find	talaal
+11.33	lose	elwesiit
+11.33	lose	wesiit
+11.34	release, let go	elerest
+11.43	money	peenz
+11.44	coin	eerc̷peenz
+11.44	coin	peenzarab
+11.51	rich	gazdag
+11.52	poor	segeeɲ
+11.53	beggar	kolduš
+11.54	avaricious, stingy	önzöö
+11.54	avaricious, stingy	kapži
+11.61	lend	iiteel
+11.62	borrow	elfolgal
+11.63	owe	tartozik
+11.64	debt	adooššaag
+11.65	pay (vb)	fizet
+11.66	account, reckoning	saamla
+11.66	account, reckoning	saamiitaaš
+11.69	tax, tribute	fizeteeš
+11.69	tax, tribute	diiy
+11.77	hire	kibeerel
+11.77	hire	felfogad
+11.78	wages	fizeteeš
+11.78	wages	beer
+11.79	earn	kereš
+11.81	buy	waašaarol
+11.82	sell	elad
+11.83	trade, barter	kereškedik
+11.84	merchant	kereškedöö
+11.85	market (place)	waašaar
+11.85	market (place)	piac̷
+11.86	store, shop	bolt
+11.86	store, shop	kereškedeeš
+11.86	store, shop	üzlet
+11.87	price	aar
+11.88	dear (costly, expensive)	draaga
+11.89	cheap	olčoo
+11.91	share (distribute)	elost
+11.92	weigh	ɲom
+11.92	weigh	megmeer
+12.1	after	utaan
+12.11	place	mögött
+12.2	beside	mellett
+12.3	down, below	alaale
+12.3	down, below	alatt
+12.4	before	edʸkor
+12.4	before	elöött
+12.41	right (side)	elöött
+12.41	right (side)	homlokzat
+12.41	right (side)	elšöö
+12.5	inside, in	bent
+12.5	inside, in	belšeyeeben
+12.6	outside	kiiwül
+12.7	under	alul
+12.7	under	alatt
+12.7	under	alaa
+12.8	up, above	fel
+12.8	up, above	felett
+12.11	place	helʸ
+12.11	place	teer
+12.12	put	tes
+12.12	put	helʸez
+12.13	sit	ül
+12.14	lie down	feksik
+12.15	stand	aall
+12.16	remain, stay	marad
+12.17	remains, left overs	maradeekek
+12.21	collect, gather	sed
+12.212	pick up	emel
+12.213	pile up	halmoz
+12.22	join, unite	edʸešül
+12.22	join, unite	dʸüül
+12.23	separate	elwaalast
+12.232	divide	elost
+12.24	open	ɲit
+12.24	open	megɲit
+12.25	shut, close	zaar
+12.25	shut, close	čuk
+12.26	cover	befed
+12.26	cover	bewon
+12.27	hide, conceal	reyteget
+12.27	hide, conceal	fed
+12.31	high	magaš
+12.32	low	alačoɲ
+12.33	top	čuuč
+12.33	top	tetöö
+12.34	bottom	feneek
+12.35	end	weeg
+12.352	pointed	eeleš
+12.353	edge	hedʸ
+12.353	edge	eele
+12.36	side	oldal
+12.37	middle, center	közeepšöö
+12.37	middle, center	központ
+12.41	right (side)	yobb
+12.42	left (side)	bal
+12.43	near (adv)	közel
+12.44	far (adv)	messe
+12.44	far (adv)	taawol
+12.45	east	kelet
+12.46	west	ɲugat
+12.47	north	eesak
+12.48	south	deel
+12.53	grow	nöö
+12.54	measure	meer
+12.541	span, fathom	aras
+12.541	span, fathom	saažeɲ
+12.55	large, big	nadʸ
+12.56	small, little	kiš
+12.56	small, little	kiči
+12.57	long	hossuu
+12.58	tall	magaš
+12.59	short	röwid
+12.61	wide, broad	seeleš
+12.62	narrow	süük
+12.62	narrow	keškeɲ
+12.63	thick (in dimension)	waštag
+12.65	thin (in dimension)	weekoɲ
+12.67	deep	meelʸ
+12.68	shallow	aproo
+12.71	flat	šiik
+12.71	flat	šima
+12.73	straight	edʸeneš
+12.74	crooked	görbe
+12.74	crooked	ferde
+12.75	hook	kampoo
+12.76	corner	šarok
+12.77	cross	kerest
+12.78	square	needʸzet
+12.81	round	kerek
+12.82	circle	kör
+12.83	sphere, ball	labda
+12.84	line	wonal
+12.85	hole	lʸuk
+12.85	hole	reeš
+12.92	like, similar	udʸanolʸan
+12.92	like, similar	hašonloo
+12.93	change	waaltozaaš
+12.93	change	waalt
+13.0	zero, nothing	nulla
+13.0	zero, nothing	šemmi
+13.1	one	edʸ
+13.2	two	kettöö
+13.2	two	keet
+13.3	three	haarom
+13.3	three	haarma
+13.4	four	needʸ
+13.5	five	öt
+13.6	six	hat
+13.7	seven	heet
+13.7	seven	hete
+13.8	eight	ɲolc̷
+13.9	nine	kilenc̷
+13.10	ten	tiiz
+13.10	ten	tize
+13.101	eleven	tizenedʸ
+13.102	twelve	tizenkettöö
+13.102	twelve	tizenkeet
+13.103	fifteen	tizenöt
+13.104	twenty	huus
+13.104	twenty	husa
+13.105	hundred	saaz
+13.106	thousand	ezer
+13.106	thousand	ezre
+13.107	count	saamol
+13.14	every, all	minden
+13.14	every, all	mindenki
+13.14	every, all	mind
+13.15	much, many	šok
+13.16	more	több
+13.17	little (quantity), few	keweeš
+13.17	little (quantity), few	walami
+13.18	enough	alapošan
+13.18	enough	nadʸon
+13.181	some	neehaaɲ
+13.181	some	edʸeš
+13.19	multitude, crowd	šokašaag
+13.19	multitude, crowd	tömeg
+13.21	full	telt
+13.21	full	tele
+13.22	empty	üreš
+13.23	part, piece	rees
+13.24	half	feel
+13.33	alone, only	edʸedül
+13.33	alone, only	edʸetlen
+13.33	alone, only	čak
+13.33	alone, only	čupaan
+13.34	first	elšöö
+13.35	last	utolšoo
+13.36	second	edʸmaaš
+13.36	second	maašodik
+13.37	pair	paar
+13.38	two times	kettöösör
+13.42	third	harmadik
+13.44	three times	haromzor
+14.11	time	idöö
+14.12	age	kor
+14.13	new	uuy
+14.14	young	fiatal
+14.15	old	öreg
+14.16	early	kooran
+14.16	early	yookor
+14.17	late	keešöön
+14.18	now	mošt
+14.19	immediately	azonnal
+14.19	immediately	rögtön
+14.21	swift, fast, quick	dʸorš
+14.21	swift, fast, quick	fürge
+14.21	swift, fast, quick	rohamoš
+14.22	slow	laššuu
+14.22	slow	lomha
+14.23	hasten, hurry	šiet
+14.23	hasten, hurry	idʸeksik
+14.24	retard, delay	laššiit
+14.25	begin, beginning	kezd
+14.25	begin, beginning	kezdet
+14.252	last, endure	biir
+14.26	end (temporal)	weeg
+14.27	finish	weegez
+14.28	cease, stop	abbahadʸ
+14.29	ready	kees
+14.31	always	mindig
+14.31	always	mindenkor
+14.32	often	dʸakran
+14.33	sometimes	walamikor
+14.331	soon	mindyaart
+14.332	long-time (for a)	šokaaig
+14.34	never	šoha
+14.35	again	megint
+14.35	again	pedig
+14.41	day	nap
+14.42	night	eey
+14.43	dawn	napkelte
+14.43	dawn	haynal
+14.44	morning	reggel
+14.45	noon, midday	deel
+14.451	afternoon	deelutaan
+14.46	evening	ešte
+14.47	today	ma
+14.48	tomorrow	holnap
+14.481	day-after-tomorrow	holnaputaan
+14.49	yesterday	tegnap
+14.491	day-before-yesterday	tegnapelöött
+14.51	hour	oora
+14.53	clock, timepiece	oora
+14.61	week	heet
+14.62	Sunday	wašaarnap
+14.63	Monday	heetföö
+14.64	Tuesday	kedd
+14.65	Wednesday	serda
+14.66	Thursday	čütörtök
+14.67	Friday	peentek
+14.68	Saturday	sombat
+14.71	month	hoonap
+14.73	year	eew
+14.74	winter	teel
+14.75	spring	tawas
+14.76	summer	ɲaar
+14.77	autumn	ös
+14.78	season	eewsak
+15.21	smell (vb intrans)	illatozik
+15.212	sniff	sagol
+15.212	sniff	sagolgat
+15.22	smell (vb trans)	sagol
+15.25	fragrant, good smelling	illatoš
+15.26	stinking, bad smelling	büüzöš
+15.26	stinking, bad smelling	büdöš
+15.31	taste	iizlel
+15.35	sweet	eedeš
+15.35	sweet	yooiizüü
+15.36	salty	šooš
+15.37	bitter	kešerüü
+15.38	acid, sour	šawaɲuu
+15.39	brackish	kiššeešooš
+15.41	hear	hall
+15.42	listen	hallgat
+15.44	sound, noise	hang
+15.45	loud	nadʸhanguu
+15.46	quiet, silence	čend
+15.46	quiet, silence	ɲugalom
+15.51	see	laat
+15.52	look, look at	neez
+15.55	show	mutat
+15.56	shine	feeɲlik
+15.57	bright	wilaagoš
+15.61	color	siin
+15.62	light (in color)	wilaagoš
+15.63	dark (in color)	šöteet
+15.64	white	feheer
+15.65	black	fekete
+15.66	red	piroš
+15.67	blue	keek
+15.68	green	zöld
+15.69	yellow	šaarga
+15.71	touch	eer
+15.712	pinch	megčiip
+15.72	feel	tapogat
+15.72	feel	eerez
+15.74	hard	kemeeɲ
+15.75	soft	puha
+15.75	soft	laadʸ
+15.76	rough	eerdeš
+15.77	smooth	šima
+15.78	sharp	eeleš
+15.79	blunt, dull	eeletlen
+15.79	blunt, dull	tompa
+15.81	heavy	neheez
+15.82	light (in weight)	könɲüü
+15.83	wet, damp	nedweš
+15.83	wet, damp	ɲirkoš
+15.84	dry	saaraz
+15.85	hot	forroo
+15.85	hot	tüzeš
+15.851	warm	meleg
+15.86	cold	hideg
+15.87	clean	tista
+15.88	dirty, soiled	piskoš
+15.88	dirty, soiled	močkoš
+15.89	wrinkled	raanc̷oš
+16.11	soul, spirit	leelek
+16.11	soul, spirit	sellem
+16.15	surprised, astonished	meglepöödött
+16.15	surprised, astonished	čodaalkozoo
+16.18	good fortune, luck	serenče
+16.19	misfortune, bad luck	balšorš
+16.23	joyful, glad, happy	widaam
+16.23	joyful, glad, happy	boldog
+16.25	laugh	newet
+16.251	smile	mošolʸog
+16.26	play	yaatsik
+16.27	love	seret
+16.27	love	serelem
+16.29	kiss	čookol
+16.3	embrace	megölel
+16.3	embrace	aatkarol
+16.31	pain	faayaaš
+16.32	grief, sorrow, sadness	baanat
+16.32	grief, sorrow, sadness	somoruušaag
+16.33	anxiety, worry	gondoškodaaš
+16.34	regret, be sorry	baan
+16.35	pity	reesweet
+16.35	pity	šaynaalkozaaš
+16.37	cry, weep	šiirdogaal
+16.38	tear (noun)	könɲ
+16.39	groan	ɲög
+16.39	groan	ɲösörög
+16.39	groan	šoohaytozik
+16.41	hate	dʸüülöl
+16.42	anger	dʸüülölet
+16.44	envy, jealousy	iridʸšeeg
+16.45	shame (noun)	seedʸen
+16.48	proud	keweelʸ
+16.48	proud	büske
+16.51	dare	mer
+16.51	dare	mereesel
+16.52	brave	baator
+16.53	fear, fright	feelelem
+16.54	danger	weseelʸ
+16.62	desire, want	kiiwaan
+16.62	desire, want	akar
+16.62	desire, want	kedwe
+16.62	desire, want	tartya
+16.62	desire, want	seret
+16.622	choose	waalast
+16.63	hope	kiiwaanšaag
+16.65	faithful	hüü
+16.66	true	igazi
+16.66	true	igaz
+16.67	lie, tell lies	hazudik
+16.68	deceit	hazugšaag
+16.69	forgive	megbočaat
+16.71	good	yoo
+16.71	good	helʸeš
+16.72	bad	ross
+16.73	right, correct	igaz
+16.73	right, correct	igazšaagoš
+16.74	wrong	hamiš
+16.74	wrong	teeweš
+16.76	fault	hiba
+16.76	fault	felelööššeeg
+16.77	mistake, error	hiba
+16.78	blame	sidaaš
+16.78	blame	dorgaalaaš
+16.79	praise	dičeeret
+16.79	praise	dičööiiteeš
+16.81	beautiful	seep
+16.82	ugly	čuuɲa
+16.83	greedy	iridʸ
+16.84	clever	bölč
+17.11	mind	es
+17.13	think (= reflect)	gondolkozik
+17.13	think (= reflect)	weel
+17.14	think (= be of the opinion)	gondol
+17.14	think (= be of the opinion)	weel
+17.15	believe	his
+17.16	understand	eert
+17.16	understand	megeert
+17.17	know	tud
+17.17	know	išmer
+17.171	guess	felteetelez
+17.171	guess	weel
+17.172	imitate	utaanoz
+17.172	imitate	imitaal
+17.18	seem	laatsik
+17.19	idea, notion	gondolat
+17.19	idea, notion	esme
+17.19	idea, notion	fogalom
+17.21	wise	bölč
+17.21	wise	okoš
+17.22	foolish, stupid	oštoba
+17.22	foolish, stupid	buta
+17.22	foolish, stupid	hülʸe
+17.23	insane, crazy	bolond
+17.23	insane, crazy	öörult
+17.24	learn	tanul
+17.24	learn	megtanul
+17.242	study	tanul
+17.25	teach	taniit
+17.25	teach	oktat
+17.26	pupil	tanuloo
+17.27	teacher	taniitoo
+17.28	school	iškola
+17.31	remember	emleeksik
+17.32	forget	feleyt
+17.34	clear, plain	wilaagoš
+17.35	obscure	homaalʸoš
+17.36	secret	titkoš
+17.37	sure, certain	biztoš
+17.38	explain	madʸaraaz
+17.41	intention, purpose	saandeek
+17.42	cause	ok
+17.43	doubt	keetelkedik
+17.44	suspect	keetelkedik
+17.44	suspect	dʸanuušiit
+17.441	betray	elaarul
+17.441	betray	kiad
+17.45	need, necessity	sükšeeg
+17.46	easy	könɲüü
+17.46	easy	eɲhe
+17.47	difficult	neheez
+17.47	difficult	bayoš
+17.48	try, attempt	proobaal
+17.49	way, manner	mood
+17.49	way, manner	elyaaraaš
+17.51	and	eeš
+17.52	because	miwel
+17.52	because	mert
+17.53	if	ha
+17.53	if	hodʸha
+17.54	or	wadʸ
+17.55	yes, affirmative	igen
+17.55	yes, affirmative	igenlöö
+17.56	no, negative	nem
+17.56	no, negative	tagadoo
+17.61	how?	hodʸ?
+17.61	how?	hodʸan?
+17.62	how many?	haaɲ?
+17.62	how many?	menɲi?
+17.63	how much?	haaɲ?
+17.63	how much?	menɲi?
+17.64	what?	mi?
+17.65	when?	mikor?
+17.66	where?	howaa?
+17.66	where?	hol?
+17.67	which?	milʸen?
+17.68	who?	ki?
+17.69	why?	mieert?
+18.11	voice	hang
+18.12	sing	eenekel
+18.13	shout, cry out	kiaalt
+18.13	shout, cry out	kiabaal
+18.15	whisper	šuug
+18.16	mumble	mormog
+18.16	mumble	motʸog
+18.17	whistle	fütʸül
+18.18	shriek, screech	ordiit
+18.18	shriek, screech	üwölt
+18.19	howl	woniit
+18.19	howl	üwölt
+18.21	speak, talk	beseel
+18.21	speak, talk	sool
+18.211	stutter, stammer	dadog
+18.211	stutter, stammer	hebeg
+18.22	say	mond
+18.22	say	sool
+18.221	tell story	mond
+18.222	speech (make a)	beseedetmond
+18.23	silent (be)	čendeš
+18.24	language	ɲelw
+18.26	word	soo
+18.28	name	neew
+18.31	ask (question, inquire)	keerdez
+18.32	answer	felel
+18.32	answer	waalasol
+18.33	admit, confess	felišmer
+18.33	admit, confess	megišmer
+18.33	admit, confess	beišmer
+18.34	deny	tagad
+18.34	deny	letagad
+18.34	deny	kiɲiilik
+18.35	ask, request	keer
+18.35	ask, request	köwetel
+18.36	promise	iigeer
+18.36	promise	megfogad
+18.37	refuse	wonakodik
+18.38	forbid	tilt
+18.38	forbid	betilt
+18.39	rebuke, scold	semrehaaɲaaštten
+18.41	call (=summon)	hiiw
+18.41	call (=summon)	inwitaal
+18.42	call (=name)	neeweensooliit
+18.43	announce	kihirdet
+18.44	threaten	feɲeget
+18.45	boast	dičeksik
+18.45	boast	keerkedik
+18.45	boast	henc̷eg
+18.51	write	iir
+18.52	read	olwaš
+18.56	paper	papiir
+18.57	pen	toll
+18.61	book	köɲw
+18.67	poet	költöö
+18.71	flute	fuwola
+18.72	drum	dob
+18.73	horn, trumpet	kürt
+18.73	horn, trumpet	čöö
+18.74	rattle	čörgöö
+19.11	country	orsaag
+19.12	one's native country	haza
+19.12	one's native country	sülööföld
+19.15	city, town	waaroš
+19.16	village	falu
+19.17	boundary	hataar
+19.21	people (populace)	neep
+19.21	people (populace)	nemzet
+19.23	tribe, clan	törž
+19.23	tribe, clan	nemzetšeeg
+19.24	chief, chieftain	wezeer
+19.25	staff, walking stick	bot
+19.25	staff, walking stick	šeetabot
+19.31	rule, govern	kormaaɲoz
+19.32	king, ruler	kiraalʸ
+19.33	queen	kiraalʸnöö
+19.36	noble, nobleman	nemeš
+19.37	citizen, subject	aallampolgaar
+19.37	citizen, subject	polgaar
+19.41	master	gazda
+19.41	master	uur
+19.42	slave	rabsolga
+19.43	servant	solga
+19.44	freeman	sabadember
+19.45	command, order	parančol
+19.45	command, order	felsooliit
+19.46	obey	hallgat
+19.46	obey	engedelmeškedik
+19.47	let, permit	megenged
+19.51	friend, companion	baraat
+19.51	friend, companion	hawer
+19.52	enemy	ellenšeeg
+19.54	neighbor	somseed
+19.55	stranger	idegen
+19.56	guest	wendeeg
+19.57	host	gazda
+19.58	help, aid	šegiit
+19.58	help, aid	taamogat
+19.59	hinder, prevent	zawar
+19.59	hinder, prevent	megzawar
+19.59	hinder, prevent	haaborgat
+19.59	hinder, prevent	akadaalʸoz
+19.61	custom	mood
+19.61	custom	moodser
+19.62	strife, quarrel	wesekedeeš
+19.62	strife, quarrel	wisaalʸ
+19.62	strife, quarrel	wita
+19.63	conspiracy, plot	megigeezeeš
+19.63	conspiracy, plot	raadwašaaš
+19.65	meet	talaal
+19.72	prostitute	proštituaalt
+19.72	prostitute	keeynöö
+20.11	fight (vb)	harc̷ol
+20.11	fight (vb)	küzöl
+20.13	war, battle	haaboruu
+20.14	peace	beeke
+20.15	army	had
+20.15	army	šereg
+20.17	soldier	katona
+20.21	weapons, arms	fedʸwer
+20.22	club	gomboštüü
+20.222	battle-ax	harc̷ibaarc̷l
+20.23	sling	parittʸa
+20.24	bow	iiy
+20.25	arrow	ɲiil
+20.26	spear	kopya
+20.26	spear	daarda
+20.27	sword	kard
+20.28	gun, cannon	fedʸwer
+20.28	gun, cannon	aadʸuu
+20.28	gun, cannon	löweg
+20.31	armor (defensive)	paanc̷eel
+20.33	helmet	šišak
+20.34	shield	payž
+20.35	fortress	erööd
+20.36	tower	toroɲ
+20.41	victory	dʸözelem
+20.42	defeat	werešeeg
+20.42	defeat	eltalaalaaš
+20.42	defeat	raarohan
+20.43	attack	taamadaaš
+20.43	attack	roham
+20.44	defend	oow
+20.44	defend	megoow
+20.44	defend	weed
+20.45	retreat	wissaleep
+20.45	retreat	haatraleep
+20.46	surrender	aatad
+20.46	surrender	aatenged
+20.47	captive, prisoner	fogolʸ
+20.47	captive, prisoner	rab
+20.471	guard, sentinel	öör
+20.471	guard, sentinel	örsem
+20.48	booty, spoils	hadižaakmaaɲ
+20.49	ambush	čapda
+20.51	fisherman	halaas
+20.52	fishhook	horog
+20.53	fishing line	horgaasžineg
+20.54	fishnet	halaashaaloo
+20.55	fish trap	wessööwarša
+20.56	bait	čaleetek
+20.56	bait	ɲerešeeg
+20.56	bait	hason
+20.61	hunt	wadaasik
+20.62	shoot	löö
+20.63	miss (target)	elhibaazzaac̷eelt
+20.64	trap (noun)	čapda
+20.64	trap (noun)	kelepc̷e
+20.65	trap (vb)	čapdaabaeyt
+21.11	law	törweeɲ
+21.11	law	yog
+21.15	court	törweeɲseek
+21.15	court	biiroošaag
+21.16	judge (vb)	eleeteel
+21.16	judge (vb)	weelemeeɲt
+21.17	judgment	iiteeleet
+21.18	judge (noun)	biiroo
+21.21	plaintiff	felpereš
+21.21	plaintiff	panasoš
+21.22	defendant	alpereš
+21.23	witness	tanuu
+21.24	swear	ešküttes
+21.25	oath	eškü
+21.31	accuse	waadatemel
+21.32	condemn	elteel
+21.32	condemn	iiteel
+21.33	convict (vb)	büünöšnektalaalya
+21.34	acquit	felment
+21.35	guilty	büünöš
+21.35	guilty	hibaaš
+21.36	innocent	aartatlan
+21.37	penalty, punishment	bünteteeš
+21.38	fine	biiršaag
+21.39	prison, jail	foghaaz
+21.39	prison, jail	börtön
+21.42	murder	dʸilkoššaag
+21.43	adultery	haazaššaagtöreeš
+21.44	rape	enöösak
+21.46	arson	dʸuuytogataaš
+21.47	perjury	ešküsegeeš
+21.51	steal	lop
+21.51	steal	ellop
+21.52	thief	tolway

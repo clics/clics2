@@ -1,0 +1,1519 @@
+@classification: Indo-European,Italic,Romance,Italo-Western,Italo-Dalmatian
+@ids-name: Italian_StandardOrth
+@iso: ita
+@language: Italian
+@size: 1512
+@source: ids
+@variety: std
+1.1	world	mondo
+1.21	earth, land	terra
+1.212	earth=ground, soil	terreno
+1.212	earth=ground, soil	suolo
+1.213	dust	polvere
+1.214	mud	fango
+1.215	sand	sabbia
+1.215	sand	rena
+1.22	mountain, hill	montagna
+1.22	mountain, hill	collina
+1.222	cliff, precipice	scogliera
+1.222	cliff, precipice	rupe
+1.23	plain, field	pianura
+1.23	plain, field	campo
+1.24	valley	valle
+1.25	island	isola
+1.26	mainland	terraferma
+1.26	mainland	continente
+1.27	shore	riva
+1.27	shore	littorale
+1.28	cave	grotta
+1.31	water	acqua
+1.32	sea	mare
+1.322	calm (of sea)	bonaccia
+1.323	rough (of sea)	agitato
+1.323	rough (of sea)	burrascoso
+1.324	foam	schiuma
+1.329	ocean	oceano
+1.33	lake	lago
+1.34	gulf, bay	golfo
+1.34	gulf, bay	baia
+1.341	lagoon	laguna
+1.342	reef	scoglio
+1.343	headland, point	capo
+1.343	headland, point	punta
+1.35	wave	onda
+1.352	tide	marea
+1.353	lowtide	bassamarea
+1.354	hightide	altamarea
+1.36	river, stream, brook	fiume
+1.36	river, stream, brook	torrente
+1.36	river, stream, brook	ruscello
+1.362	whirlpool	gorgo
+1.362	whirlpool	vortice
+1.37	spring, well	sorgente
+1.37	spring, well	pozzo
+1.38	swamp	palude
+1.38	swamp	pantano
+1.39	waterfall	cascata
+1.41	woods, forest	bosco
+1.41	woods, forest	selva
+1.42	tree (cf 08.600)	albero
+1.43	wood	legno
+1.44	stone, rock	sasso
+1.44	stone, rock	pietra
+1.45	earthquake	terremoto
+1.45	earthquake	sisma
+1.51	sky	cielo
+1.52	sun	sole
+1.53	moon	luna
+1.54	star	stella
+1.55	lightning	lampo
+1.56	thunder	tuono
+1.57	lightning (as striking)	fulmine
+1.57	lightning (as striking)	saetta
+1.58	storm	tempesta
+1.59	rainbow	arcobaleno
+1.61	light (noun)	luce
+1.62	darkness	oscurità
+1.62	darkness	buio
+1.63	shade, shadow	ombra
+1.64	dew	rugiada
+1.71	air	aria
+1.72	wind	vento
+1.73	cloud	nuvola
+1.74	fog	nebbia
+1.75	rain (noun)	pioggia
+1.76	snow (noun)	neve
+1.77	ice	ghiaccio
+1.78	weather	tempo
+1.81	fire	fuoco
+1.82	flame (noun)	fiamma
+1.83	smoke (noun)	fumo
+1.84	ashes	cenere
+1.841	embers	brace
+1.851	burn (vb trans)	bruciare
+1.851	burn (vb trans)	ardere
+1.852	burn (vb intrans)	bruciare
+1.852	burn (vb intrans)	ardere
+1.86	light, kindle, ignite	accendere
+1.861	extinguish	spegnere
+1.87	match (noun)	fiammifero
+1.88	firewood	legna
+1.89	charcoal	carbone
+2.1	person, human being	persona
+2.1	person, human being	essereumano
+2.21	man (vs. woman)	uomo
+2.22	woman	femmina
+2.22	woman	donna
+2.23	male	maschio
+2.24	female	femmina
+2.25	boy	ragazzo
+2.251	young man (adolescent)	giovanotto
+2.26	girl	ragazza
+2.261	young woman (adolescent)	giovinetta
+2.27	child	bambino
+2.28	infant, baby	bimbo
+2.31	husband	marito
+2.32	wife	moglie
+2.33	marry	sposarsi
+2.34	marriage, wedding	nozze
+2.341	divorce	divorzio
+2.35	father	padre
+2.36	mother	madre
+2.37	parents	genitori
+2.38	married man	uomosposato
+2.39	married woman	donnasposata
+2.41	son	figlio
+2.42	daughter	figlia
+2.43	offspring (son or daughter)	figlio
+2.43	offspring (son or daughter)	figlia
+2.44	brother	fratello
+2.444	older brother	fratellomaggiore
+2.445	younger brother	fratellominore
+2.45	sister	sorella
+2.454	older sister	sorellamaggiore
+2.455	younger sister	sorellaminore
+2.456	sibling	fratello
+2.456	sibling	sorella
+2.458	twins	gemelli
+2.46	grandfather	nonno
+2.461	old man	vecchio
+2.47	grandmother	nonna
+2.471	old woman	vecchia
+2.48	grandson	nipote
+2.48	grandson	nipotino
+2.49	granddaughter	nipote
+2.49	granddaughter	nipotina
+2.51	uncle	zio
+2.511	mother's brother	fratellodellamadre
+2.512	father's brother	fratellodelpadre
+2.52	aunt	zia
+2.521	mother's sister	sorelladellamadre
+2.522	father's sister	sorelladelpadre
+2.53	nephew	nipote
+2.54	niece	nipote
+2.55	cousin	cugino
+2.55	cousin	cugina
+2.56	ancestors	antenati
+2.57	descendants	discendenti
+2.61	father-in-law (of a man)	suocero
+2.611	father-in-law (of a woman)	suocero
+2.62	mother-in-law (of a man)	suocera
+2.621	mother-in-law (of a woman)	suocera
+2.63	son-in-law (of a man)	genero
+2.631	son-in-law (of a woman)	genero
+2.64	daughter-in-law (of a man)	nuora
+2.641	daughter-in-law (of a woman)	nuora
+2.71	stepfather	patrigno
+2.72	stepmother	matrigna
+2.73	stepson	figliastro
+2.74	stepdaughter	figliastra
+2.75	orphan	orfano
+2.75	orphan	orfana
+2.76	widow	vedova
+2.77	widower	vedovo
+2.81	relatives, kinsmen	parenti
+2.81	relatives, kinsmen	parentela
+2.82	family	famiglia
+2.91	I	io
+2.92	you (singular)	tu
+2.92	you (singular)	Lei
+2.93	he/she/it	egli
+2.93	he/she/it	lui
+2.93	he/she/it	ella
+2.93	he/she/it	lei
+2.93	he/she/it	esso
+2.93	he/she/it	essa
+2.94	we	noi
+2.941	we (inclusive)	noi
+2.942	we (exclusive)	noi
+2.95	you (plural)	voi
+2.95	you (plural)	Loro
+2.96	they	loro
+2.96	they	essi
+2.96	they	esse
+3.11	animal	animale
+3.12	male (adj)	maschio
+3.13	female (adj)	femmina
+3.15	livestock	bestiame
+3.16	pasture	pascolo
+3.18	herdsman	pastore
+3.19	stable, stall	stalla
+3.2	cattle (bovine)	bestiame
+3.21	bull	toro
+3.22	ox	bue
+3.23	cow	mucca
+3.24	calf	vitello
+3.25	sheep	pecora
+3.26	ram	ariete
+3.26	ram	montone
+3.28	ewe	pecora
+3.29	lamb	agnello
+3.32	boar	cinghiale
+3.34	sow	troia
+3.35	pig	maiale
+3.35	pig	porco
+3.36	goat	capra
+3.37	he-goat	caprone
+3.38	kid	capretto
+3.41	horse (equine)	cavallo
+3.42	stallion	stallone
+3.44	mare	giumenta
+3.45	foal, colt	puledro
+3.46	ass, donkey	asino
+3.47	mule	mulo
+3.5	fowl	pollo
+3.5	fowl	pollame
+3.52	cock, rooster	gallo
+3.54	hen	gallina
+3.55	chicken	pollo
+3.56	goose	oca
+3.57	duck	anatra
+3.58	nest	nido
+3.581	bird	uccello
+3.582	seagull	gabbiano
+3.583	heron	airone
+3.584	eagle	aquila
+3.585	hawk	falco
+3.586	vulture	avvoltoio
+3.591	bat	pipistrello
+3.592	parrot	pappagallo
+3.593	crow	corbo
+3.594	dove	colomba
+3.596	owl	gufo
+3.596	owl	civetta
+3.61	dog	cane
+3.614	rabbit	coniglio
+3.62	cat	gatto
+3.622	opossum	opossum
+3.63	mouse, rat	topo
+3.63	mouse, rat	ratto
+3.65	fish	pesce
+3.652	fin (dorsal)	pinna
+3.653	fishscale	squama
+3.654	gill	branchia
+3.655	shell	conchiglia
+3.661	shark	squalo
+3.662	porpoise, dolphin	focena
+3.662	porpoise, dolphin	delfino
+3.663	whale	balena
+3.664	stingray	razza
+3.665	freshwater eel	anguillad'acquadolce
+3.71	wolf	lupo
+3.72	lion	leone
+3.73	bear	orso
+3.74	fox	volpe
+3.75	deer	cervo
+3.76	monkey	scimmia
+3.77	elephant	elefante
+3.78	camel	cammello
+3.81	insect	insetto
+3.811	louse	pidocchio
+3.812	nit (louse egg)	lendine
+3.813	flea	pulce
+3.814	centipede	centopiedi
+3.815	scorpion	scorpione
+3.816	cockroach	scarafaggio
+3.816	cockroach	blatta
+3.817	ant	formica
+3.818	spider	ragno
+3.819	spider web	ragnatela
+3.82	bee	ape
+3.821	beeswax	ceravergine
+3.822	beehive	alveare
+3.822	beehive	arnia
+3.823	wasp	vespa
+3.83	fly	mosca
+3.831	sandfly (midge), gnat	pulcedimare
+3.832	mosquito	zanzara
+3.84	worm	lombrico
+3.85	snake	serpente
+3.91	firefly	lucciola
+3.92	butterfly	farfalla
+3.93	grasshopper	cavalletta
+3.94	snail	lumaca
+3.94	snail	chiocciola
+3.95	frog	rana
+3.96	lizard	lucertola
+3.97	crocodile, alligator	coccodrillo
+3.98	turtle	tartaruga
+4.11	body	corpo
+4.12	skin, hide	pelle
+4.12	skin, hide	cute
+4.13	flesh	carne
+4.14	hair (head)	capello
+4.142	beard	barba
+4.144	body hair	pelo
+4.145	pubic hair	pelidelpube
+4.146	dandruff	forfora
+4.15	blood	sangue
+4.151	vein, artery	vena
+4.151	vein, artery	arteria
+4.16	bone	osso
+4.162	rib	costola
+4.17	horn	corno
+4.18	tail	coda
+4.19	back	schiena
+4.191	spine	spinadorsale
+4.2	head	capo
+4.2	head	testa
+4.201	side of head, temple	tempia
+4.202	skull	teschio
+4.202	skull	cranio
+4.203	brain	cervello
+4.204	face	faccia
+4.205	forehead	fronte
+4.207	jaw	mascella
+4.208	cheek	guancia
+4.209	chin	mento
+4.21	eye	occhio
+4.212	eyebrow	sopracciglio
+4.213	eyelid	palpebra
+4.214	eyelash	ciglio
+4.215	blink	batterelepalpebre
+4.22	ear	orecchio
+4.221	earlobe	lobodell'orecchio
+4.222	earwax	cerume
+4.23	nose	naso
+4.231	nostril	narice
+4.232	mucus (nasal)	moccio
+4.24	mouth	bocca
+4.241	beak	becco
+4.25	lip	labbro
+4.26	tongue	lingua
+4.27	tooth	dente
+4.271	gums	gengiva
+4.272	molartooth	molare
+4.28	neck	collo
+4.281	nape of neck	nuca
+4.29	throat	gola
+4.3	shoulder	spalla
+4.301	shoulderblade	scapola
+4.302	collarbone	clavicola
+4.31	arm	braccio
+4.312	armpit	ascella
+4.32	elbow	gomito
+4.321	wrist	polso
+4.33	hand	mano
+4.331	palm of hand	palma
+4.34	finger	dito
+4.342	thumb	pollice
+4.344	fingernail	unghia
+4.345	claw	artiglio
+4.345	claw	grinfia
+4.35	leg	gamba
+4.351	thigh	coscia
+4.352	calf of leg	polpaccio
+4.36	knee	ginocchio
+4.37	foot	piede
+4.371	ankle	caviglia
+4.372	heel	calcagno
+4.374	footprint	orma
+4.38	toe	ditodelpiede
+4.392	wing	ala
+4.393	feather	piuma
+4.4	chest	petto
+4.41	breast (of woman)	seno
+4.412	nipple, teat	capezzolo
+4.42	udder	poppa
+4.43	navel	ombelico
+4.44	heart	cuore
+4.441	lung	polmone
+4.45	liver	fegato
+4.451	kidney	rene
+4.452	spleen	milza
+4.46	stomach	stomaco
+4.461	intestines, guts	intestini
+4.461	intestines, guts	budella
+4.462	waist	vita
+4.463	hip	anca
+4.464	buttocks	natiche
+4.47	womb	utero
+4.49	testicle	testicolo
+4.492	penis	pene
+4.51	breathe, breath	respirare
+4.51	breathe, breath	respiro
+4.52	yawn, gape	sbadigliare
+4.521	hiccough	singhiozzo
+4.53	cough	tossire
+4.54	sneeze	starnutire
+4.55	perspire	sudare
+4.56	spit	sputare
+4.57	vomit	vomitare
+4.58	bite	mordere
+4.59	lick	leccare
+4.591	dribble	sbavare
+4.61	sleep	dormire
+4.612	snore	russare
+4.62	dream	sognare
+4.63	wake up	svegliarse
+4.64	break wind	fareunpeto
+4.65	urinate	orinare
+4.65	urinate	pisciare
+4.66	defecate	defecare
+4.66	defecate	cacare
+4.67	have sexual intercourse	fottere
+4.67	have sexual intercourse	avererapportisessuali
+4.68	shiver	rabbrividire
+4.69	bathe	bagnarsi
+4.71	beget (of father)	generare
+4.72	born (to be)	nascere
+4.73	pregnant	incinta
+4.732	conceive	concepire
+4.74	live, living, life	vivere
+4.74	live, living, life	vivo
+4.74	live, living, life	vita
+4.75	die, dead	morire
+4.75	die, dead	morto
+4.751	drowned	annegato
+4.76	kill	uccidere
+4.77	corpse	cadavere
+4.78	bury (the dead)	seppellire
+4.79	grave, tomb	tomba
+4.81	strong, mighty, powerful	forte
+4.81	strong, mighty, powerful	potente
+4.82	weak	debole
+4.83	well, health	sano
+4.83	well, health	salute
+4.84	sick, sickness	ammalato
+4.84	sick, sickness	malattia
+4.841	fever	febbre
+4.842	goiter	gozzo
+4.843	cold (catarrh)	raffreddore
+4.85	wound, sore	ferita
+4.85	wound, sore	piaga
+4.852	bruise	contusione
+4.853	swelling	gonfiatura
+4.854	itch	prurito
+4.855	blister	vescica
+4.856	boil (noun)	foruncolo
+4.857	pus	pus
+4.858	scar	cicatrice
+4.86	cure, heal	guarire
+4.87	physician	medico
+4.88	medicine, drug	medicina
+4.88	medicine, drug	farmaco
+4.89	poison	veleno
+4.91	tired, weary	stanco
+4.912	rest	riposarsi
+4.92	lazy	pigro
+4.93	bald	calvo
+4.94	lame	zoppo
+4.95	deaf	sordo
+4.96	mute	muto
+4.97	blind	cieco
+4.98	intoxicated	ubriaco
+4.99	naked, bare	nudo
+5.11	eat	mangiare
+5.12	food	cibo
+5.121	cooked	cotto
+5.122	raw	crudo
+5.123	ripe	maturo
+5.124	green, unripe	acerbo
+5.125	rotten	marcio
+5.13	drink	bere
+5.14	hunger	fame
+5.141	famine	fame
+5.141	famine	carestia
+5.15	thirst	sete
+5.16	suck	succhiare
+5.18	chew	masticare
+5.181	swallow	inghiottire
+5.19	choke	soffocare
+5.21	cook	cuocere
+5.21	cook	cucinare
+5.22	boil (vb)	bollire
+5.23	roast, fry	arrostire
+5.23	roast, fry	friggere
+5.24	bake	cuocere
+5.25	oven	forno
+5.26	pot, cooking vessel	pentola
+5.26	pot, cooking vessel	casseruola
+5.27	kettle	bollitore
+5.28	pan	casseruola
+5.28	pan	padella
+5.31	dish	piatto
+5.32	plate	piatto
+5.33	bowl	scodella
+5.34	pitcher, jug	brocca
+5.35	cup, drinking vessel	tazza
+5.36	saucer	piattino
+5.37	spoon	cucchiaio
+5.38	knife	coltello
+5.39	fork	forchetta
+5.391	tongs	pinze
+5.391	tongs	tenaglie
+5.41	meal (a)	pasto
+5.42	breakfast	colazione
+5.43	lunch	pranzo
+5.44	dinner	cena
+5.45	supper	cena
+5.45	supper	spuntino
+5.46	peel	sbucciare
+5.47	sieve, strain	setacciare
+5.47	sieve, strain	scolare
+5.48	scrape	grattugiare
+5.49	stir, mix	mescolare
+5.49	stir, mix	agitare
+5.51	bread	pane
+5.53	dough	mollica
+5.54	knead	intridere
+5.55	meal, flour	farina
+5.56	crush, grind	schiacciare
+5.56	crush, grind	macinare
+5.57	mill	mulino
+5.58	mortar	mortaio
+5.59	pestle	pestello
+5.61	meat	carne
+5.63	sausage	salsiccia
+5.64	soup, broth	minestra
+5.64	soup, broth	zuppa
+5.65	vegetables	legumi
+5.65	vegetables	verdura
+5.66	bean	fava
+5.66	bean	fagiuolo
+5.7	potato	patata
+5.71	fruit	frutta
+5.712	bunch	grappolo
+5.712	bunch	racimolo
+5.75	fig	fico
+5.76	grape	acinod'uva
+5.77	nut	noce
+5.78	olive	oliva
+5.79	oil	oglio
+5.791	grease, fat	grasso
+5.81	salt	sale
+5.82	pepper	pepe
+5.821	chili pepper	peperoncino
+5.84	honey	miele
+5.85	sugar	zucchero
+5.86	milk (noun)	latte
+5.87	milk (vb)	mungere
+5.88	cheese	formaggio
+5.89	butter	burro
+5.9	beverage, drink	bevanda
+5.91	mead	idromele
+5.92	wine	vino
+5.93	beer	birra
+5.94	fermented drink	bevandafermentata
+5.97	egg	uovo
+5.971	egg yolk	tuorlo
+5.971	egg yolk	rossod'uovo
+6.11	put on (clothes)	vestirsi
+6.12	clothing, clothes	vestiti
+6.13	tailor	sarto
+6.21	cloth	tessuto
+6.22	wool	lana
+6.23	linen, flax	lino
+6.24	cotton	cotone
+6.25	silk	seta
+6.27	felt	feltro
+6.28	fur	pelliccia
+6.29	leather	cuoio
+6.31	spin	filare
+6.32	spindle	fuso
+6.33	weave	tessere
+6.34	loom	telaio
+6.35	sew	cucire
+6.36	needle	ago
+6.37	awl	punteruolo
+6.38	thread	filo
+6.39	dye	tingere
+6.41	cloak	cappa
+6.411	poncho	poncho
+6.42	woman's dress	vestito
+6.43	coat	mantello
+6.44	shirt	camicia
+6.45	collar	colletto
+6.46	skirt	gonna
+6.461	grass-skirt	gonnellinodipaglia
+6.48	trousers	pantaloni
+6.49	stocking, sock	calza
+6.49	stocking, sock	calzino
+6.51	shoe	scarpa
+6.52	boot	stivale
+6.54	shoemaker, cobbler	calzolaio
+6.55	hat, cap	cappello
+6.55	hat, cap	berretto
+6.57	belt, girdle	cintura
+6.57	belt, girdle	busto
+6.58	glove	guanto
+6.59	veil	velo
+6.61	pocket	tasca
+6.62	button	bottone
+6.63	pin	spilla
+6.71	ornament, adornment	ornamento
+6.71	ornament, adornment	ninnolo
+6.72	jewel	gioiello
+6.73	ring (for finger)	anello
+6.74	bracelet	braccialetto
+6.75	necklace	collana
+6.76	bead	perlina
+6.76	bead	grano
+6.77	earring	orecchino
+6.78	headband, headdress	fermacapelli
+6.79	tattoo	tatuaggio
+6.81	handkerchief, rag	fazzoletto
+6.81	handkerchief, rag	straccio
+6.82	towel	tovaglia
+6.91	comb	pettine
+6.92	brush	spazzola
+6.921	braid	intrecciare
+6.93	razor	rasoio
+6.94	ointment	unguento
+6.95	soap	sapone
+6.96	mirror	specchio
+7.11	dwell, live	abitare
+7.12	house	casa
+7.13	hut	capanna
+7.131	garden-house	padiglione
+7.14	tent	tenda
+7.15	yard, court	cortile
+7.16	men's house	casariservataagliuomini
+7.17	cookhouse	cucina
+7.18	meeting house	luogodiriunione
+7.21	room	stanza
+7.22	door, gate	portacancello
+7.221	doorpost, jamb	montante
+7.221	doorpost, jamb	stipite
+7.23	lock (noun)	serratura
+7.231	latch, door-bolt	chiavistello
+7.231	latch, door-bolt	catenaccio
+7.24	key	chiave
+7.25	window	finestra
+7.26	floor	pavimento
+7.27	wall	muro
+7.27	wall	parete
+7.31	fireplace	focolare
+7.32	stove	stufa
+7.33	chimney	cammino
+7.37	ladder	scala
+7.42	bed	letto
+7.421	pillow	guanciale
+7.422	blanket	coperta
+7.43	chair	sedia
+7.44	table	tavola
+7.45	lamp, torch	lampada
+7.45	lamp, torch	fiaccola
+7.46	candle	candela
+7.47	shelf	mensola
+7.48	trough	trogolo
+7.51	roof	tetto
+7.52	thatch	coperturadipaglia
+7.53	ridgepole	astadicolmo
+7.54	rafter	travicello
+7.55	beam	trave
+7.56	post, pole	palo
+7.57	board	tavoladilegno
+7.58	arch	arco
+7.61	mason	muratore
+7.62	brick	mattone
+7.63	mortar	malta
+7.64	adobe	adobe
+8.11	farmer	agricoltore
+8.12	field (for cultivation)	campo
+8.13	garden	giardino
+8.15	cultivate, till	coltivare
+8.15	cultivate, till	arare
+8.16	fence	recinto
+8.17	ditch	fossa
+8.21	plow	arare
+8.212	furrow	solco
+8.22	dig	zappare
+8.22	dig	vangare
+8.23	spade	badile
+8.23	spade	vanga
+8.24	shovel	pala
+8.24	shovel	badile
+8.25	hoe	zappa
+8.26	fork	bidente
+8.26	fork	forcone
+8.27	rake	rastrello
+8.31	sow	seminare
+8.311	seed	semi
+8.32	mow, reap	mietere
+8.33	sickle, scythe	falce
+8.34	thresh	trebbiare
+8.35	threshing-floor	aia
+8.41	crop, harvest	messe
+8.41	crop, harvest	raccolto
+8.42	grain (barley, oats etc)	grano
+8.43	wheat	grano
+8.44	barley	orzo
+8.45	rye	segale
+8.46	oats	avena
+8.47	maize, corn	granturco
+8.48	rice	riso
+8.51	grass	erba
+8.52	hay	fieno
+8.53	plant (noun)	pianta
+8.531	plant (vb)	piantare
+8.54	root	radice
+8.55	branch	ramo
+8.56	leaf	foglia
+8.57	flower	fiore
+8.6	tree	albero
+8.61	oak	quercia
+8.62	beech	faggio
+8.63	birch	betulla
+8.64	pine	pino
+8.65	fir	abete
+8.66	acorn	ghianda
+8.67	vine	vite
+8.68	tobacco	tabacco
+8.69	smoke (tobacco)	fumare
+8.691	pipe	pipa
+8.72	tree stump	ceppo
+8.73	tree trunk	tronco
+8.74	forked branch	ramobiforcuto
+8.75	bark	corteccia
+8.76	sap	linfa
+8.81	palm tree	palma
+8.82	coconut	nocedicocco
+8.83	citrus fruit	agrume
+8.84	banana tree	banano
+8.85	banyan	ficodelBanian
+8.91	sweet potato	patataamericana
+8.912	yam	igname
+8.92	tapioca, manioc, cassava	tapioca
+8.92	tapioca, manioc, cassava	manioca
+8.92	tapioca, manioc, cassava	cassava
+8.93	gourd	zucca
+8.931	pumpkin, squash	zucca
+8.94	bamboo	bambù
+8.941	sugar cane	cannadazucchero
+8.96	fish poison (root)	verbasco
+8.96	fish poison (root)	tassobarbasso
+8.97	nettle	ortica
+8.98	mushroom	fungo
+9.11	do, make	fare
+9.12	work	lavorare
+9.14	bend	piegare
+9.14	bend	curvare
+9.15	fold	piegare
+9.16	tie, bind	legare
+9.161	untie	slegare
+9.18	chain	catena
+9.19	rope, cord	corda
+9.192	knot (noun)	nodo
+9.21	strike (hit, beat)	colpire
+9.211	pound with fist	picchiare
+9.22	cut	tagliare
+9.221	cut down	abbattere
+9.222	chop, hew	tagliare
+9.222	chop, hew	spaccare
+9.223	stab	accoltellare
+9.23	knife	coltello
+9.24	scissors, shears	forbici
+9.25	ax	scure
+9.25	ax	ascia
+9.251	adze	ascia
+9.26	break	rompere
+9.261	broken	rotto
+9.27	split	spaccare
+9.28	tear	strappare
+9.29	flay, skin	scoiare
+9.29	flay, skin	scorticare
+9.31	rub, wipe	strofinare
+9.32	stretch	stendere
+9.33	pull	tirare
+9.34	spread out	stendere
+9.341	hang up	sospendere
+9.342	press	premere
+9.342	press	schiacciare
+9.343	squeeze, wring	storcere
+9.35	pour	versare
+9.36	wash	lavare
+9.37	sweep	spazzare
+9.38	broom	scopa
+9.422	tool	arnese
+9.43	carpenter	falegname
+9.44	build	costruire
+9.46	bore	forare
+9.461	hollow out	scavare
+9.48	saw	sega
+9.49	hammer	martello
+9.5	nail	chiodo
+9.56	glue	colla
+9.6	smith, blacksmith	fabbroferraio
+9.61	forge	fucina
+9.62	anvil	incudine
+9.63	cast (metals)	fondere
+9.63	cast (metals)	gettare
+9.64	gold	oro
+9.65	silver	argento
+9.66	copper, bronze	rame
+9.67	iron	ferro
+9.68	lead (noun)	piombo
+9.69	tin, tinplate	stagno
+9.71	potter	vasaio
+9.72	mold (clay etc)	plasmare
+9.72	mold (clay etc)	modellare
+9.73	clay	argilla
+9.74	glass	vetro
+9.75	weave, plait	tessere
+9.75	weave, plait	intrecciare
+9.76	basket	cesto
+9.77	mat	tappetino
+9.77	mat	stuoia
+9.771	rug	tappetino
+9.78	netbag	rete
+9.79	fan (noun)	ventaglio
+9.791	fan (vb)	farevento
+9.791	fan (vb)	ventolare
+9.81	carve	intagliare
+9.82	sculptor	scultore
+9.83	statue	statua
+9.84	chisel	scalpello
+9.88	paint (noun)	vernice
+9.89	paint (vb)	dipingere
+10.11	move	muovere
+10.12	turn over	girare
+10.13	turn around	girarsi
+10.14	wind, wrap	avvolgere
+10.15	roll	rotolare
+10.16	drop (vb)	lasciarcadere
+10.17	twist	torcere
+10.21	rise	salire
+10.22	raise, lift	alzare
+10.23	fall	cadere
+10.24	drip	sgocciolare
+10.25	throw	buttare
+10.252	catch (ball)	acchiappare
+10.26	shake	scuotere
+10.32	flow	scorrere
+10.33	sink	affondare
+10.34	float	galleggiare
+10.35	swim	nuotare
+10.351	dive	tuffarsi
+10.352	splash	schizzare
+10.36	sail (vb)	navigare
+10.36	sail (vb)	salpare
+10.37	fly (vb)	volare
+10.38	blow	soffiare
+10.41	creep, crawl	strisciare
+10.412	kneel	inginocchiarsi
+10.413	crouch	accovacciarsi
+10.42	slide, slip	scivolare
+10.43	jump, leap	saltare
+10.431	kick	dareuncalcio
+10.44	dance	ballare
+10.45	walk	camminare
+10.451	limp	zoppicare
+10.46	run	correre
+10.47	go	andare
+10.471	go up	salire
+10.472	climb	arrampicarsi
+10.473	go down	scendere
+10.474	go out	uscire
+10.48	come	venire
+10.481	come back	tornare
+10.49	go away, depart	andarsene
+10.49	go away, depart	partire
+10.491	disappear	sparire
+10.51	flee	fuggire
+10.52	follow	seguire
+10.53	pursue	perseguire
+10.55	reach, arrive	raggiungere
+10.55	reach, arrive	arrivare
+10.56	approach	avvicinarsi
+10.57	enter	entrare
+10.61	carry (bear)	portare
+10.612	carry-in-hand	portare
+10.613	carry-on-shoulder	portare
+10.614	carry-on-head	portare
+10.615	carry-underarm	portare
+10.62	bring	portare
+10.63	send	mandare
+10.63	send	spedire
+10.64	lead (vb)	condurre
+10.65	drive	guidare
+10.66	ride	cavalcare
+10.67	push, shove	spingere
+10.71	road	strada
+10.72	path	sentiero
+10.74	bridge	ponte
+10.75	carriage, wagon, cart	carrozza
+10.75	carriage, wagon, cart	carro
+10.76	wheel	ruota
+10.77	axle	asse
+10.78	yoke	giogo
+10.81	ship	nave
+10.83	boat	barca
+10.831	canoe	canoa
+10.832	outrigger	bilanciere
+10.84	raft	zattera
+10.85	oar	remo
+10.851	paddle (noun)	pagaia
+10.852	row (vb)	remare
+10.86	rudder	timone
+10.87	mast	albero
+10.88	sail (noun)	vela
+10.89	anchor	ancora
+10.91	harbor, port	porto
+10.92	land (vb)	sbarcare
+10.92	land (vb)	approdare
+11.11	have	avere
+11.12	own, possess	possedere
+11.13	take	prendere
+11.13	take	pigliare
+11.14	seize, grasp	cogliere
+11.14	seize, grasp	afferrare
+11.15	hold	tenere
+11.16	get, obtain	ottenere
+11.17	keep, retain	tenersi
+11.18	thing	cosa
+11.21	give	dare
+11.22	give back	rendere
+11.24	preserve, look after	conservare
+11.24	preserve, look after	proteggere
+11.25	save, rescue	salvare
+11.27	destroy	distruggere
+11.28	harm, injure, damage	danneggiare
+11.28	harm, injure, damage	ferire
+11.31	seek, look for	cercare
+11.32	find	trovare
+11.33	lose	perdere
+11.34	release, let go	liberare
+11.34	release, let go	rilasciare
+11.43	money	soldi
+11.43	money	danaro
+11.44	coin	moneta
+11.51	rich	ricco
+11.52	poor	povero
+11.53	beggar	mendicante
+11.54	avaricious, stingy	avaro
+11.54	avaricious, stingy	tirchio
+11.61	lend	prestare
+11.62	borrow	prendereinprestito
+11.63	owe	dovere
+11.64	debt	debito
+11.65	pay (vb)	pagare
+11.66	account, reckoning	conto
+11.69	tax, tribute	tassa
+11.69	tax, tribute	imposta
+11.77	hire	noleggiare
+11.78	wages	salario
+11.78	wages	stipendio
+11.79	earn	guadagnare
+11.81	buy	comprare
+11.82	sell	vendere
+11.83	trade, barter	commercio
+11.83	trade, barter	baratto
+11.84	merchant	mercante
+11.85	market (place)	mercato
+11.86	store, shop	negozio
+11.87	price	prezzo
+11.88	dear (costly, expensive)	caro
+11.89	cheap	abuonmercato
+11.91	share (distribute)	spartire
+11.91	share (distribute)	condividere
+11.92	weigh	pesare
+12.1	after	dopo
+12.11	place	dietro
+12.2	beside	accanto
+12.3	down, below	giù
+12.3	down, below	disotto
+12.4	before	davantia
+12.4	before	primadi
+12.41	right (side)	davanti
+12.5	inside, in	dentro
+12.5	inside, in	in
+12.6	outside	fuori
+12.7	under	sotto
+12.8	up, above	su
+12.8	up, above	sopra
+12.11	place	luogo
+12.12	put	mettere
+12.12	put	porre
+12.13	sit	sedersi
+12.14	lie down	sdraiarsi
+12.15	stand	stareinpiedi
+12.16	remain, stay	rimanere
+12.16	remain, stay	restare
+12.17	remains, left overs	avanzi
+12.21	collect, gather	raccogliere
+12.212	pick up	raccogliere
+12.213	pile up	ammucchiare
+12.22	join, unite	giungere
+12.22	join, unite	unire
+12.23	separate	separare
+12.232	divide	dividere
+12.24	open	aprire
+12.25	shut, close	chiudere
+12.26	cover	coprire
+12.27	hide, conceal	nascondere
+12.31	high	alto
+12.32	low	basso
+12.33	top	cima
+12.34	bottom	fondo
+12.35	end	fine
+12.35	end	fondo
+12.352	pointed	appuntito
+12.353	edge	margine
+12.36	side	lato
+12.37	middle, center	mezzo
+12.37	middle, center	centro
+12.41	right (side)	destra
+12.42	left (side)	sinistra
+12.43	near (adv)	vicino
+12.44	far (adv)	lontano
+12.45	east	est
+12.46	west	ovest
+12.47	north	nord
+12.48	south	sud
+12.53	grow	crescere
+12.54	measure	misurare
+12.541	span, fathom	spanna
+12.541	span, fathom	braccio
+12.55	large, big	grande
+12.55	large, big	grosso
+12.56	small, little	piccolo
+12.57	long	lungo
+12.58	tall	alto
+12.59	short	corto
+12.61	wide, broad	largo
+12.62	narrow	stretto
+12.63	thick (in dimension)	grosso
+12.63	thick (in dimension)	spesso
+12.65	thin (in dimension)	sottile
+12.67	deep	profondo
+12.68	shallow	pocoprofondo
+12.71	flat	piatto
+12.73	straight	dritto
+12.74	crooked	storto
+12.75	hook	gancio
+12.76	corner	angolo
+12.77	cross	croce
+12.78	square	quadro
+12.81	round	tondo
+12.82	circle	cerchio
+12.83	sphere, ball	sfera
+12.83	sphere, ball	palla
+12.84	line	linea
+12.85	hole	buco
+12.92	like, similar	simile
+12.93	change	cambiare
+13.0	zero, nothing	zero
+13.0	zero, nothing	niente
+13.0	zero, nothing	nulla
+13.1	one	uno
+13.2	two	due
+13.3	three	tre
+13.4	four	quattro
+13.5	five	cinque
+13.6	six	sei
+13.7	seven	sette
+13.8	eight	otto
+13.9	nine	nove
+13.10	ten	dieci
+13.101	eleven	undici
+13.102	twelve	dodici
+13.103	fifteen	quindici
+13.104	twenty	venti
+13.105	hundred	cento
+13.106	thousand	mille
+13.107	count	contare
+13.14	every, all	ogni
+13.14	every, all	tutto
+13.15	much, many	molto
+13.16	more	più
+13.16	more	ancorapiù
+13.17	little (quantity), few	poco
+13.18	enough	abbastanza
+13.181	some	alcuni
+13.181	some	qualche
+13.19	multitude, crowd	moltitudine
+13.19	multitude, crowd	folla
+13.21	full	pieno
+13.22	empty	vuoto
+13.23	part, piece	pezzo
+13.24	half	metà
+13.33	alone, only	solo
+13.33	alone, only	soltanto
+13.34	first	primo
+13.35	last	ultimo
+13.36	second	secondo
+13.37	pair	paio
+13.37	pair	coppia
+13.38	two times	duevolte
+13.42	third	terzo
+13.44	three times	trevolte
+14.11	time	tempo
+14.12	age	età
+14.13	new	nuovo
+14.14	young	giovine
+14.15	old	vecchio
+14.16	early	presto
+14.17	late	tardi
+14.18	now	ora
+14.18	now	adesso
+14.19	immediately	subito
+14.21	swift, fast, quick	rapido
+14.22	slow	lento
+14.23	hasten, hurry	affrettarsi
+14.24	retard, delay	ritardare
+14.25	begin, beginning	cominciare
+14.25	begin, beginning	inizio
+14.252	last, endure	durare
+14.26	end (temporal)	fine
+14.27	finish	finire
+14.28	cease, stop	smettere
+14.29	ready	pronto
+14.31	always	sempre
+14.32	often	spesso
+14.33	sometimes	avolte
+14.331	soon	presto
+14.332	long-time (for a)	per
+14.332	long-time (for a)	damoltotempo
+14.34	never	mai
+14.35	again	dinuovo
+14.41	day	giorno
+14.42	night	notte
+14.43	dawn	alba
+14.44	morning	mattina
+14.45	noon, midday	mezzogiorno
+14.451	afternoon	pomeriggio
+14.46	evening	sera
+14.47	today	oggi
+14.48	tomorrow	domani
+14.481	day-after-tomorrow	dopodomani
+14.49	yesterday	ieri
+14.491	day-before-yesterday	ieril'altro
+14.51	hour	ora
+14.53	clock, timepiece	orologio
+14.61	week	settimana
+14.62	Sunday	domenica
+14.63	Monday	lunedì
+14.64	Tuesday	martedì
+14.65	Wednesday	mercoledì
+14.66	Thursday	giovedì
+14.67	Friday	venerdì
+14.68	Saturday	sabato
+14.71	month	mese
+14.73	year	anno
+14.74	winter	inverno
+14.75	spring	primavera
+14.76	summer	estate
+14.77	autumn	autunno
+14.78	season	stagione
+15.21	smell (vb intrans)	saperedi
+15.212	sniff	annusare
+15.22	smell (vb trans)	sentire
+15.22	smell (vb trans)	annusare
+15.25	fragrant, good smelling	profumato
+15.26	stinking, bad smelling	puzzolente
+15.31	taste	assaggiare
+15.35	sweet	dolce
+15.36	salty	salato
+15.37	bitter	amaro
+15.38	acid, sour	agro
+15.38	acid, sour	acerbo
+15.39	brackish	salmastro
+15.41	hear	sentire
+15.41	hear	udire
+15.42	listen	ascoltare
+15.44	sound, noise	suono
+15.44	sound, noise	rumore
+15.45	loud	alto
+15.45	loud	forte
+15.46	quiet, silence	tranquillo
+15.46	quiet, silence	silenzio
+15.51	see	vedere
+15.52	look, look at	guardare
+15.55	show	mostrare
+15.56	shine	splendere
+15.56	shine	brillare
+15.57	bright	brillante
+15.61	color	colore
+15.62	light (in color)	chiaro
+15.63	dark (in color)	cupo
+15.64	white	bianco
+15.65	black	nero
+15.66	red	rosso
+15.67	blue	azzurro
+15.68	green	verde
+15.69	yellow	giallo
+15.71	touch	toccare
+15.712	pinch	pizzicare
+15.72	feel	sentire
+15.74	hard	duro
+15.75	soft	soave
+15.75	soft	molle
+15.76	rough	ruvido
+15.77	smooth	liscio
+15.78	sharp	acuto
+15.79	blunt, dull	spuntato
+15.81	heavy	pesante
+15.82	light (in weight)	leggero
+15.83	wet, damp	umido
+15.83	wet, damp	bagnato
+15.84	dry	secco
+15.85	hot	caldo
+15.851	warm	tiepido
+15.851	warm	caldo
+15.86	cold	freddo
+15.87	clean	pulito
+15.88	dirty, soiled	sudicio
+15.89	wrinkled	rugoso
+15.89	wrinkled	increspato
+16.11	soul, spirit	anima
+16.11	soul, spirit	spirito
+16.15	surprised, astonished	sorpreso
+16.15	surprised, astonished	stupito
+16.18	good fortune, luck	buonafortuna
+16.19	misfortune, bad luck	sfortuna
+16.19	misfortune, bad luck	disgrazia
+16.23	joyful, glad, happy	allegro
+16.23	joyful, glad, happy	felice
+16.23	joyful, glad, happy	contento
+16.25	laugh	ridere
+16.251	smile	sorridere
+16.26	play	giocare
+16.27	love	amare
+16.27	love	volerebene
+16.29	kiss	baciare
+16.3	embrace	abbracciare
+16.31	pain	dolore
+16.32	grief, sorrow, sadness	dolore
+16.32	grief, sorrow, sadness	tristezza
+16.33	anxiety, worry	ansia
+16.34	regret, be sorry	rammaricarsi
+16.35	pity	compassione
+16.37	cry, weep	piangere
+16.38	tear (noun)	lacrima
+16.39	groan	gemere
+16.41	hate	odiare
+16.42	anger	rabbia
+16.44	envy, jealousy	invidia
+16.44	envy, jealousy	gelosia
+16.45	shame (noun)	vergogna
+16.48	proud	fiero
+16.48	proud	orgoglioso
+16.51	dare	osare
+16.52	brave	coraggioso
+16.53	fear, fright	paura
+16.54	danger	pericolo
+16.62	desire, want	desiderare
+16.62	desire, want	volere
+16.622	choose	scegliere
+16.63	hope	sperare
+16.65	faithful	fedele
+16.66	true	vero
+16.67	lie, tell lies	mentire
+16.67	lie, tell lies	direbugie
+16.68	deceit	inganno
+16.69	forgive	perdonare
+16.71	good	buono
+16.72	bad	cattivo
+16.73	right, correct	giusto
+16.73	right, correct	esatto
+16.74	wrong	sbagliato
+16.76	fault	difetto
+16.76	fault	colpa
+16.77	mistake, error	errore
+16.78	blame	colpa
+16.79	praise	lode
+16.79	praise	lodare
+16.81	beautiful	bello
+16.82	ugly	brutto
+16.83	greedy	goloso
+16.83	greedy	ghiotto
+16.84	clever	intelligente
+17.11	mind	mente
+17.11	mind	pensiero
+17.13	think (= reflect)	pensare
+17.14	think (= be of the opinion)	credere
+17.14	think (= be of the opinion)	pensare
+17.15	believe	credere
+17.16	understand	capire
+17.17	know	sapere
+17.171	guess	indovinare
+17.172	imitate	imitare
+17.18	seem	sembrare
+17.18	seem	parere
+17.19	idea, notion	idea
+17.19	idea, notion	nozione
+17.21	wise	sapiente
+17.22	foolish, stupid	scemo
+17.22	foolish, stupid	stupido
+17.23	insane, crazy	pazzo
+17.23	insane, crazy	matto
+17.24	learn	imparare
+17.242	study	studiare
+17.25	teach	insegnare
+17.26	pupil	alunno
+17.26	pupil	allievo
+17.27	teacher	professore
+17.27	teacher	insegnante
+17.28	school	scuola
+17.31	remember	ricordarsi
+17.32	forget	dimenticare
+17.34	clear, plain	chiaro
+17.35	obscure	oscuro
+17.36	secret	segreto
+17.37	sure, certain	sicuro
+17.37	sure, certain	certo
+17.38	explain	spiegare
+17.41	intention, purpose	scopo
+17.41	intention, purpose	fine
+17.42	cause	causare
+17.43	doubt	dubitare
+17.44	suspect	sospettare
+17.441	betray	tradire
+17.45	need, necessity	bisogno
+17.46	easy	facile
+17.47	difficult	difficile
+17.48	try, attempt	cercaredi
+17.49	way, manner	modo
+17.49	way, manner	maniera
+17.51	and	e
+17.52	because	perché
+17.53	if	se
+17.54	or	o
+17.54	or	oppure
+17.55	yes, affirmative	sì
+17.55	yes, affirmative	affermativo
+17.56	no, negative	no
+17.56	no, negative	negativo
+17.61	how?	come?
+17.62	how many?	quanti?
+17.63	how much?	quanto?
+17.64	what?	che?
+17.64	what?	checosa?
+17.64	what?	cosa?
+17.65	when?	quando?
+17.66	where?	dove?
+17.67	which?	quale?
+17.68	who?	chi?
+17.69	why?	perché?
+18.11	voice	voce
+18.12	sing	cantare
+18.13	shout, cry out	gridare
+18.15	whisper	bisbigliare
+18.16	mumble	borbottare
+18.17	whistle	fischiare
+18.17	whistle	zufolare
+18.18	shriek, screech	strillare
+18.19	howl	urlare
+18.21	speak, talk	parlare
+18.211	stutter, stammer	balbuziare
+18.22	say	dire
+18.221	tell story	raccontare
+18.222	speech (make a)	fareundiscorso
+18.23	silent (be)	tacere
+18.23	silent (be)	rimanerezitto
+18.24	language	lingua
+18.26	word	parola
+18.28	name	nome
+18.31	ask (question, inquire)	domandare
+18.31	ask (question, inquire)	chiedere
+18.32	answer	rispondere
+18.33	admit, confess	ammettere
+18.33	admit, confess	confessare
+18.34	deny	negare
+18.35	ask, request	chiedere
+18.36	promise	promettere
+18.37	refuse	respingere
+18.38	forbid	vietare
+18.39	rebuke, scold	rimproverare
+18.41	call (=summon)	chiamare
+18.42	call (=name)	chiamare
+18.43	announce	annunciare
+18.44	threaten	minacciare
+18.45	boast	vantarsi
+18.51	write	scrivere
+18.52	read	leggere
+18.56	paper	carta
+18.57	pen	penna
+18.61	book	libro
+18.67	poet	poeta
+18.71	flute	flauto
+18.72	drum	tamburo
+18.73	horn, trumpet	corno
+18.73	horn, trumpet	tromba
+18.74	rattle	sonaglio
+19.11	country	paese
+19.12	one's native country	patria
+19.15	city, town	città
+19.16	village	paese
+19.17	boundary	confine
+19.17	boundary	frontiera
+19.21	people (populace)	popolo
+19.21	people (populace)	gente
+19.23	tribe, clan	tribù
+19.23	tribe, clan	clan
+19.24	chief, chieftain	capo
+19.25	staff, walking stick	bastone
+19.31	rule, govern	dominare
+19.31	rule, govern	governare
+19.32	king, ruler	re
+19.32	king, ruler	sovrano
+19.33	queen	regina
+19.36	noble, nobleman	nobile
+19.37	citizen, subject	cittadino
+19.37	citizen, subject	soggetto
+19.41	master	padrone
+19.42	slave	schiavo
+19.43	servant	servo
+19.44	freeman	uomolibero
+19.45	command, order	comandare
+19.45	command, order	ordinare
+19.46	obey	obbedire
+19.47	let, permit	permettere
+19.47	let, permit	concedere
+19.51	friend, companion	amico
+19.51	friend, companion	compagno
+19.52	enemy	nemico
+19.54	neighbor	vicino
+19.55	stranger	forestiero
+19.56	guest	invitato
+19.56	guest	ospite
+19.57	host	ospite
+19.58	help, aid	aiutare
+19.59	hinder, prevent	impedire
+19.61	custom	costume
+19.61	custom	usanza
+19.62	strife, quarrel	lotta
+19.62	strife, quarrel	lite
+19.63	conspiracy, plot	cospirazione
+19.63	conspiracy, plot	complotto
+19.65	meet	incontrare
+19.72	prostitute	prostituta
+19.72	prostitute	puttana
+20.11	fight (vb)	combattere
+20.11	fight (vb)	lottare
+20.13	war, battle	guerra
+20.13	war, battle	battaglia
+20.14	peace	pace
+20.15	army	esercito
+20.17	soldier	soldato
+20.17	soldier	militare
+20.21	weapons, arms	armi
+20.22	club	mazza
+20.222	battle-ax	azza
+20.23	sling	fionda
+20.24	bow	arco
+20.25	arrow	freccia
+20.26	spear	lancia
+20.27	sword	spada
+20.28	gun, cannon	pistola
+20.28	gun, cannon	cannone
+20.31	armor (defensive)	armatura
+20.33	helmet	elmo
+20.34	shield	scudo
+20.35	fortress	fortezza
+20.35	fortress	caposaldo
+20.36	tower	torre
+20.41	victory	vittoria
+20.42	defeat	sconfitta
+20.43	attack	aggredire
+20.44	defend	difendere
+20.45	retreat	ritirarsi
+20.46	surrender	arrendersi
+20.47	captive, prisoner	prigioniero
+20.471	guard, sentinel	guardia
+20.471	guard, sentinel	sentinella
+20.48	booty, spoils	bottino
+20.49	ambush	imboscata
+20.51	fisherman	pescatore
+20.52	fishhook	amo
+20.53	fishing line	lenza
+20.54	fishnet	retedapesca
+20.55	fish trap	nassa
+20.56	bait	esca
+20.61	hunt	cacciare
+20.62	shoot	sparare
+20.63	miss (target)	mancare
+20.64	trap (noun)	trappola
+20.65	trap (vb)	prendereintrappola
+20.65	trap (vb)	intrappolare
+21.11	law	legge
+21.15	court	tribunale
+21.16	judge (vb)	giudicare
+21.17	judgment	giudizio
+21.18	judge (noun)	giudice
+21.21	plaintiff	attore
+21.22	defendant	imputato
+21.23	witness	testimone
+21.24	swear	giurare
+21.25	oath	giuramento
+21.31	accuse	accusare
+21.31	accuse	denunciare
+21.32	condemn	condannare
+21.33	convict (vb)	condannare
+21.34	acquit	assolvere
+21.35	guilty	colpevole
+21.36	innocent	innocente
+21.37	penalty, punishment	punizione
+21.37	penalty, punishment	castigo
+21.38	fine	multa
+21.39	prison, jail	carcere
+21.42	murder	assassinio
+21.42	murder	omcidio
+21.43	adultery	adulterio
+21.44	rape	stupro
+21.44	rape	violenzacarnale
+21.46	arson	incendiodoloso
+21.47	perjury	spergiuro
+21.51	steal	rubare
+21.52	thief	ladro

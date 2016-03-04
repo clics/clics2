@@ -1,0 +1,1225 @@
+@classification: Uralic,Samoyed
+@ids-name: Selkup_Phonemic
+@iso: sel
+@language: Selkup
+@size: 1218
+@source: ids
+@variety: std
+1.1	world	mir̃
+1.21	earth, land	təttɨ
+1.212	earth=ground, soil	čʸu
+1.213	dust	tuspo
+1.214	mud	tam
+1.215	sand	ḳor̃a
+1.22	mountain, hill	maḳḳa
+1.22	mountain, hill	ḳə
+1.23	plain, field	nur̃ḳɨlʸtəttɨ
+1.25	island	mar̃kɨ
+1.27	shore	ḳanɨk
+1.31	water	üt
+1.32	sea	mor̃æ
+1.32	sea	čʸɔntɨs
+1.322	calm (of sea)	sümɨkɨtɨlʸ
+1.323	rough (of sea)	sümɨsɨmɨlʸ
+1.324	foam	šʸi
+1.33	lake	to
+1.34	gulf, bay	ḳalsɨ
+1.343	headland, point	soḳḳɨ
+1.343	headland, point	soḳ
+1.35	wave	ḳɔmpɨ
+1.36	river, stream, brook	ḳoltɨ
+1.36	river, stream, brook	kɨ
+1.36	river, stream, brook	kɩkæ
+1.362	whirlpool	pur̃ɨlʸta
+1.362	whirlpool	küŋɨlʸkolʸa
+1.37	spring, well	ɔtɨr̃
+1.37	spring, well	tɛr̃ɨ
+1.38	swamp	nʸar̃ɨ
+1.38	swamp	lɨmpæ
+1.41	woods, forest	mačʸɨ
+1.41	woods, forest	sæḳḳɨ
+1.42	tree (cf 08.600)	po
+1.43	wood	po
+1.44	stone, rock	pü
+1.51	sky	nom
+1.52	sun	čʸelɨ
+1.53	moon	ir̃ætɨ
+1.54	star	ḳišʸḳæ
+1.55	lightning	nuttü
+1.56	thunder	ḳɔn
+1.57	lightning (as striking)	nuttü
+1.58	storm	pusḳa
+1.58	storm	mɛr̃ḳɨlʸpalʸčʸa
+1.59	rainbow	nuttaŋkɨ
+1.59	rainbow	ḳɔttaŋkɨ
+1.61	light (noun)	čʸelɨ
+1.62	darkness	lɨpɨḳ
+1.63	shade, shadow	ḳɛtɨ
+1.63	shade, shadow	tika
+1.64	dew	čʸaptɨnüt
+1.71	air	nutkɛy
+1.72	wind	mær̃ḳɨ
+1.73	cloud	nulʸmar̃ḳɨ
+1.73	cloud	tɩnolɨ
+1.74	fog	čʸaptɨ
+1.75	rain (noun)	sor̃ɨntæ
+1.76	snow (noun)	sɨr̃ɨ
+1.77	ice	ulḳa
+1.78	weather	čʸelɨ
+1.81	fire	tü
+1.82	flame (noun)	tüšʸe
+1.83	smoke (noun)	pur̃ḳɨ
+1.84	ashes	šʸimɨ
+1.841	embers	sičʸillakalʸa
+1.851	burn (vb trans)	čʸotɨḳo
+1.852	burn (vb intrans)	čʸɔpɨḳo
+1.86	light, kindle, ignite	ačʸaltɨḳo
+1.861	extinguish	ḳaptɨḳo
+1.87	match (noun)	soypo
+1.87	match (noun)	solʸpo
+1.88	firewood	po
+1.89	charcoal	polʸsičʸi
+2.1	person, human being	ḳum
+2.1	person, human being	ḳup
+2.21	man (vs. woman)	ir̃a
+2.21	man (vs. woman)	ḳum
+2.21	man (vs. woman)	ḳumɨlʸḳum
+2.22	woman	ima
+2.22	woman	imalʸḳum
+2.23	male	ir̃alʸ
+2.24	female	imalʸ
+2.25	boy	iya
+2.251	young man (adolescent)	ilʸmatɨlʸḳum
+2.26	girl	nætælʸa
+2.26	girl	nætæk
+2.261	young woman (adolescent)	nætæk
+2.261	young woman (adolescent)	nætællaka
+2.27	child	iya
+2.28	infant, baby	iyalʸa
+2.31	husband	ir̃atɨ
+2.32	wife	imatɨ
+2.33	marry	imaŋḳo
+2.33	marry	ir̃aŋḳo
+2.35	father	əsɨ
+2.36	mother	əmɨ
+2.37	parents	əssɨitɨ
+2.38	married man	imasɨmɨlʸ
+2.39	married woman	ir̃asɨmɨlʸ
+2.41	son	iya
+2.41	son	iyatɨ
+2.42	daughter	nælʸa
+2.44	brother	tɩmnʸa
+2.444	older brother	mɛr̃ḳɨtɩmnʸa
+2.445	younger brother	kɨpatɩmnʸa
+2.45	sister	nenʸnʸa
+2.454	older sister	mɛr̃ḳɨnenʸnʸa
+2.455	younger sister	kɨpanenʸnʸa
+2.456	sibling	tɛtɨčʸalʸtɩmnʸa
+2.456	sibling	tɛtɨčʸalʸnenʸnʸa
+2.458	twins	šʸittæḳɩlʸ
+2.46	grandfather	ilʸčʸa
+2.461	old man	ir̃a
+2.461	old man	ir̃aḳota
+2.461	old man	ir̃alɩpɨ
+2.47	grandmother	imɨlʸa
+2.471	old woman	imaḳota
+2.471	old woman	imaḳotalɩpɨ
+2.48	grandson	kətsan
+2.49	granddaughter	kətsan
+2.51	uncle	ilʸčʸa
+2.511	mother's brother	tɩtæ
+2.511	mother's brother	ilʸčʸa
+2.512	father's brother	tɩmnʸa
+2.512	father's brother	ilʸčʸa
+2.52	aunt	imɨlʸa
+2.521	mother's sister	onʸa
+2.521	mother's sister	imɨlʸa
+2.522	father's sister	nenʸnʸa
+2.522	father's sister	imɨlʸa
+2.53	nephew	kətsan
+2.54	niece	kətsan
+2.61	father-in-law (of a man)	əsɨlʸir̃a
+2.61	father-in-law (of a man)	ilʸčʸa
+2.61	father-in-law (of a man)	ḳənir̃a
+2.611	father-in-law (of a woman)	ḳənir̃a
+2.62	mother-in-law (of a man)	əmɨlʸima
+2.62	mother-in-law (of a man)	imɨlʸa
+2.62	mother-in-law (of a man)	imɨlʸalʸima
+2.621	mother-in-law (of a woman)	imɨlʸalʸima
+2.63	son-in-law (of a man)	kər̃mæ
+2.63	son-in-law (of a man)	ḳənɨk
+2.63	son-in-law (of a man)	šʸelɨ
+2.631	son-in-law (of a woman)	šʸelɨ
+2.64	daughter-in-law (of a man)	æmnæ
+2.641	daughter-in-law (of a woman)	æmnæ
+2.71	stepfather	əsɨku
+2.71	stepfather	apaku
+2.72	stepmother	əmɨku
+2.73	stepson	iyaku
+2.74	stepdaughter	nælʸaku
+2.75	orphan	čʸilʸalʸ
+2.76	widow	ir̃akɨtɨlʸima
+2.77	widower	imakɨtɨlʸir̃a
+2.81	relatives, kinsmen	tɛtɨčʸa
+2.82	family	iyalʸmɔt
+2.82	family	ḳumɨlʸmɔt
+2.91	I	man
+2.91	I	mat
+2.92	you (singular)	tan
+2.92	you (singular)	tat
+2.93	he/she/it	təp
+2.93	he/she/it	təm
+2.94	we	me
+2.95	you (plural)	tɛ
+2.96	they	təpɨn
+2.96	they	təpɨt
+3.11	animal	sur̃ɨm
+3.12	male (adj)	ḳor̃ɨ
+3.13	female (adj)	čʸektɨ
+3.15	livestock	mɔtḳɨlʸsur̃ɨlʸmɨ
+3.16	pasture	up
+3.18	herdsman	ɔttɨntɨtɨyḳum
+3.19	stable, stall	sur̃ɨlʸmɔt
+3.2	cattle (bovine)	mɔtḳɨlʸsur̃ɨlʸmɨ
+3.21	bull	ḳor̃ɨ
+3.23	cow	sɨr̃ɨ
+3.24	calf	tor̃nʸak
+3.34	sow	sɨpɨnʸčʸa
+3.41	horse (equine)	čʸuntɨ
+3.56	goose	töka
+3.57	duck	šʸipa
+3.58	nest	pitɨ
+3.58	nest	sur̃ɨlʸpitɨ
+3.581	bird	sur̃ɨm
+3.582	seagull	ḳalʸlik
+3.584	eagle	lɩmpɨ
+3.585	hawk	muntaya
+3.593	crow	ḳər̃æ
+3.596	owl	piya
+3.61	dog	kanak
+3.614	rabbit	nʸoma
+3.62	cat	koška
+3.63	mouse, rat	tama
+3.63	mouse, rat	mɛr̃ḳɨtama
+3.65	fish	ḳəlɨ
+3.653	fishscale	lünʸčʸɨ
+3.654	gill	tɔr̃
+3.655	shell	kɛna
+3.71	wolf	ɔtælʸamɨr̃ɨlʸsur̃ɨm
+3.71	wolf	čʸumpɨna
+3.71	wolf	talʸčʸɨsɨmɨlʸ
+3.73	bear	ḳor̃ḳɨ
+3.74	fox	loḳa
+3.75	deer	ɔtæ
+3.81	insect	tuk
+3.811	louse	untɨ
+3.812	nit (louse egg)	tur̃æ
+3.817	ant	kɨta
+3.818	spider	otaya
+3.818	spider	poḳḳɨlʸkota
+3.819	spider web	otayatpoḳḳɨ
+3.82	bee	loḳæ
+3.823	wasp	loḳæ
+3.83	fly	tɨpæ
+3.831	sandfly (midge), gnat	nɩmɨr̃æ
+3.832	mosquito	nɛnɨḳa
+3.84	worm	tuk
+3.84	worm	neni
+3.85	snake	šʸü
+3.92	butterfly	lontɨr̃æ
+3.94	snail	kɛna
+3.95	frog	tɔmtæ
+3.96	lizard	tüšʸi
+4.11	body	kəpɨ
+4.12	skin, hide	ḳopɨ
+4.13	flesh	məčʸɨ
+4.13	flesh	wəčʸɨ
+4.14	hair (head)	optɨ
+4.142	beard	untɨlʸukɨ
+4.15	blood	kəm
+4.16	bone	lə
+4.162	rib	ḳötɨ
+4.17	horn	ɔmtɨ
+4.18	tail	talʸčʸɨ
+4.19	back	moḳal
+4.191	spine	moḳalɨlʸlə
+4.2	head	olɨ
+4.202	skull	olɨllaka
+4.203	brain	ḳümɨ
+4.204	face	wəntɨ
+4.204	face	məntɨ
+4.205	forehead	ḳɔt
+4.207	jaw	ɔḳɨlə
+4.207	jaw	tɩmɨllaka
+4.208	cheek	putɨl
+4.209	chin	peptælʸ
+4.21	eye	sayɨ
+4.212	eyebrow	sayɨnüntɨlʸtar̃
+4.213	eyelid	sayɨnḳanɨk
+4.214	eyelash	sayɨttar̃
+4.22	ear	üŋkɨma
+4.22	ear	ḳo
+4.221	earlobe	üŋkɨmapɔr̃ɨ
+4.23	nose	ɨntælʸ
+4.231	nostril	ɨntælʸmü
+4.232	mucus (nasal)	ɨntælʸüt
+4.24	mouth	ɔŋ
+4.24	mouth	ɔk
+4.241	beak	ukɨ
+4.25	lip	ɔŋɨttop
+4.26	tongue	šʸe
+4.27	tooth	tɩmɨ
+4.271	gums	tɩmɨnkontɨ
+4.28	neck	tɔšʸan
+4.281	nape of neck	šʸuk
+4.29	throat	soy
+4.3	shoulder	ḳəḳpɔr̃ɨ
+4.3	shoulder	ḳəḳ
+4.301	shoulderblade	šʸütɨkotɨ
+4.31	arm	utɨ
+4.312	armpit	ḳɔlɨnʸ
+4.32	elbow	sɨŋtæt
+4.33	hand	utɨ
+4.331	palm of hand	utɨtšʸe
+4.34	finger	munɨ
+4.342	thumb	ḳɔḳal
+4.344	fingernail	ḳatɨ
+4.345	claw	ḳatɨ
+4.35	leg	topɨ
+4.351	thigh	nælɨ
+4.36	knee	pulɨ
+4.37	foot	topɨ
+4.37	foot	topɨnolɨ
+4.371	ankle	kəčʸɨ
+4.372	heel	lakčʸɨn
+4.374	footprint	topɨnmɛttɨ
+4.38	toe	munɨ
+4.392	wing	kola
+4.393	feather	tu
+4.4	chest	kɨlɨ
+4.41	breast (of woman)	kɨlɨ
+4.42	udder	nima
+4.43	navel	šʸönʸ
+4.44	heart	sɩčʸɨ
+4.441	lung	pɨkšʸa
+4.45	liver	mɨtɨ
+4.451	kidney	kalpanʸ
+4.452	spleen	pitɨr̃sa
+4.46	stomach	sɨlʸmɨtɨ
+4.461	intestines, guts	putɨ
+4.462	waist	ḳəḳ
+4.462	waist	ḳəḳpɔr̃n
+4.463	hip	pælɨ
+4.464	buttocks	tas
+4.47	womb	pučʸɨ
+4.47	womb	pučʸɨllaka
+4.49	testicle	ɛŋ
+4.492	penis	manɨ
+4.51	breathe, breath	kɛyɨ
+4.52	yawn, gape	ɔŋŋɨmpɨḳo
+4.521	hiccough	polɨḳo
+4.521	hiccough	niḳtɨḳo
+4.53	cough	ḳotar̃ḳo
+4.54	sneeze	šʸiḳɨr̃ḳo
+4.54	sneeze	ḳɔttɨmpɨḳo
+4.55	perspire	nelʸčʸikɨḳo
+4.56	spit	sösɨmpɨḳo
+4.57	vomit	tötkɨḳo
+4.58	bite	satalḳo
+4.59	lick	nʸuḳo
+4.591	dribble	čʸapɨmpɨḳo
+4.61	sleep	ḳontɨḳo
+4.612	snore	r̃ɨḳɨmpɨḳo
+4.62	dream	kütæptɨḳo
+4.63	wake up	šʸitɨḳo
+4.65	urinate	püsuḳo
+4.66	defecate	tüt
+4.67	have sexual intercourse	ɛtɨḳo
+4.68	shiver	tar̃ɨmpɨḳo
+4.69	bathe	musɨltɨḳo
+4.71	beget (of father)	ḳoḳo
+4.71	beget (of father)	ḳokkɨḳo
+4.72	born (to be)	čʸelɨŋḳo
+4.73	pregnant	pær̃ḳɨsɨmɨlʸ
+4.732	conceive	iyasæɛḳo
+4.74	live, living, life	ilɨḳo
+4.74	live, living, life	ilɨptæ
+4.75	die, dead	ḳuḳo
+4.75	die, dead	ilɨptækɨtɨlʸ
+4.75	die, dead	ḳupɨlʸ
+4.751	drowned	ütḳɨnḳupɨlʸ
+4.76	kill	ḳətḳo
+4.77	corpse	čʸapsɨt
+4.78	bury (the dead)	ɩllæmeḳo
+4.79	grave, tomb	lattar̃čʸɔtpkečʸɨ
+4.81	strong, mighty, powerful	or̃sɨmɨlʸ
+4.82	weak	or̃kɨtɨlʸ
+4.82	weak	ɔlɨŋɨlʸ
+4.83	well, health	mušʸkɨtɨlʸ
+4.83	well, health	ḳütɨkɨtɨlʸ
+4.84	sick, sickness	ḳütɨntɨy
+4.84	sick, sickness	ḳütɨ
+4.85	wound, sore	kɨr̃
+4.856	boil (noun)	pən
+4.857	pus	tɛ
+4.86	cure, heal	lečʸɨŋḳo
+4.87	physician	lekkar̃
+4.88	medicine, drug	lekar̃salʸmɨ
+4.91	tired, weary	nunɨčʸɨpɨlʸ
+4.912	rest	nišʸḳɨlḳo
+4.92	lazy	ɨŋkalta
+4.93	bald	optɨkɨtɨlʸ
+4.94	lame	ḳur̃alʸ
+4.94	lame	nʸor̃ḳalʸ
+4.95	deaf	ḳokɨta
+4.95	deaf	ḳokɨtɨlʸ
+4.96	mute	ətɨkɨta
+4.96	mute	ətɨkɨtɨlʸ
+4.97	blind	sayɨkɨta
+4.97	blind	sayɨkɨtɨlʸ
+4.98	intoxicated	ütɨmpɨlʸḳum
+4.99	naked, bare	nʸaŋɨčʸalʸ
+4.99	naked, bare	nʸaŋɨčʸa
+5.11	eat	amɨr̃ḳo
+5.12	food	apsɨ
+5.121	cooked	mušʸɨr̃ɨpɨlʸ
+5.122	raw	čʸentalʸ
+5.123	ripe	sočʸɨmpɨlʸ
+5.124	green, unripe	ašʸšʸasočʸɨmpɨlʸ
+5.125	rotten	tɛpɨlʸ
+5.13	drink	ütɨr̃ḳo
+5.14	hunger	amna
+5.141	famine	amna
+5.15	thirst	pakkɨmɔtka
+5.16	suck	nimḳo
+5.18	chew	tutalḳo
+5.181	swallow	polɨḳo
+5.19	choke	ɨpḳɨlḳo
+5.19	choke	ɨpaḳo
+5.21	cook	mušʸɨr̃ɨḳo
+5.22	boil (vb)	mušʸɨr̃ɨḳo
+5.23	roast, fry	pir̃ɨḳo
+5.24	bake	pir̃ɨḳo
+5.25	oven	šʸoḳɨr̃
+5.27	kettle	čʸi
+5.32	plate	amɨr̃sa
+5.32	plate	tor̃ḳɨ
+5.33	bowl	amɨr̃sa
+5.33	bowl	tor̃ḳɨ
+5.34	pitcher, jug	pakal
+5.35	cup, drinking vessel	amɨr̃sa
+5.35	cup, drinking vessel	tor̃ḳɨ
+5.35	cup, drinking vessel	čʸɔšʸka
+5.36	saucer	čʸɔšʸkanɨlɨ
+5.37	spoon	solak
+5.38	knife	paŋɨ
+5.391	tongs	tɨšʸšʸan
+5.41	meal (a)	apsɨ
+5.42	breakfast	čʸɔy
+5.43	lunch	ḳar̃ɨlʸapsɨ
+5.44	dinner	čʸelɨlʸapsɨ
+5.45	supper	ütɨnapsɨ
+5.46	peel	tɛšʸaŋḳo
+5.48	scrape	natḳɨlḳo
+5.49	stir, mix	kor̃pɨtḳo
+5.51	bread	nʸanʸ
+5.51	bread	nʸay
+5.54	knead	kor̃pɨtḳo
+5.55	meal, flour	muka
+5.55	meal, flour	por̃sa
+5.56	crush, grind	kɨpɛmtɨḳa
+5.61	meat	məčʸɨ
+5.61	meat	wəčʸɨ
+5.64	soup, broth	keni
+5.7	potato	kar̃tofelʸ
+5.77	nut	sɛtḳɨ
+5.79	oil	ür̃
+5.791	grease, fat	ür̃
+5.791	grease, fat	čʸošʸ
+5.81	salt	šʸæk
+5.81	salt	šʸæŋ
+5.85	sugar	sɔkɨr̃
+5.86	milk (noun)	nima
+5.87	milk (vb)	par̃kɨlḳo
+5.87	milk (vb)	par̃kɛntɨḳo
+5.89	butter	ür̃
+5.92	wine	nʸar̃ḳɨüt
+5.97	egg	ɛŋ
+6.11	put on (clothes)	tokaltɨḳo
+6.12	clothing, clothes	por̃ḳɨ
+6.13	tailor	šʸütɨr̃ɨpɨlʸkum
+6.13	tailor	šʸütɨr̃ɨpɨlʸima
+6.21	cloth	ḳampiy
+6.21	cloth	lɨptɨk
+6.21	cloth	künʸčʸɨ
+6.21	cloth	ḳɔtɨr̃
+6.22	wool	tar̃ɨlʸlɨptɨk
+6.28	fur	sur̃ɨtḳopɨ
+6.29	leather	ḳopɨ
+6.35	sew	šʸütɨr̃nḳo
+6.35	sew	šʸütḳo
+6.36	needle	mɨka
+6.37	awl	utɨlʸpur̃
+6.38	thread	šʸekɨ
+6.39	dye	natḳɨlḳo
+6.39	dye	kr̃askasænatḳɨlḳo
+6.42	woman's dress	ḳalʸpor̃ḳɨ
+6.44	shirt	ḳalʸpor̃ḳɨ
+6.45	collar	solʸker̃ɨ
+6.46	skirt	yupka
+6.48	trousers	pümmɨ
+6.49	stocking, sock	toka
+6.51	shoe	pemɨ
+6.52	boot	pemɨ
+6.54	shoemaker, cobbler	pemɨlʸšʸütɨr̃ɨpɨlʸḳum
+6.55	hat, cap	ükɨ
+6.57	belt, girdle	čʸü
+6.58	glove	nopɨ
+6.61	pocket	kar̃mat
+6.62	button	muḳḳɨlʸa
+6.71	ornament, adornment	nɛkɨr̃
+6.72	jewel	mir̃sɨmɨlʸ
+6.73	ring (for finger)	munkəsɨ
+6.76	bead	püsalʸker̃
+6.77	earring	ḳolʸkəsɨ
+6.77	earring	ḳotɨ
+6.78	headband, headdress	lenta
+6.81	handkerchief, rag	kar̃matḳɨlʸḳampi
+6.81	handkerchief, rag	ḳampi
+6.82	towel	mučʸitɨlʸḳampi
+6.91	comb	tiwsɨn
+6.92	brush	šʸotka
+6.921	braid	patḳɨlḳo
+6.94	ointment	mɨtɨ
+6.95	soap	mɔytak
+6.96	mirror	zer̃kalo
+7.11	dwell, live	ilɨḳo
+7.12	house	mɔt
+7.13	hut	čʸulʸmɔt
+7.13	hut	mɔtlaka
+7.15	yard, court	ɛtɨmantɨ
+7.18	meeting house	nulʸmɔt
+7.22	door, gate	mɔta
+7.23	lock (noun)	tama
+7.25	window	okošʸka
+7.26	floor	mɔtɨnɨlɨ
+7.27	wall	mɔtpo
+7.32	stove	šʸokɨr̃
+7.33	chimney	tur̃pa
+7.42	bed	tæḳašʸ
+7.421	pillow	üŋalʸkota
+7.421	pillow	üŋalʸ
+7.422	blanket	čʸontɨr̃sa
+7.43	chair	ɔmtɨtɨlʸpo
+7.44	table	tɔntɨpo
+7.45	lamp, torch	lampa
+7.47	shelf	polka
+7.48	trough	pata
+7.51	roof	mɔtɨpɔr̃ɨ
+7.56	post, pole	mɔtɨko
+7.57	board	tɔntɨpo
+8.15	cultivate, till	pünkaltɨḳo
+8.16	fence	kutalḳo
+8.17	ditch	kečʸi
+8.22	dig	tilɨḳo
+8.24	shovel	lappo
+8.32	mow, reap	pütɨḳo
+8.32	mow, reap	pačʸɨtɨḳo
+8.33	sickle, scythe	nʸutɨmpačʸɨtɨlʸpaŋɨ
+8.51	grass	nʸutɨ
+8.52	hay	tɛkɨr̃ɨpɨlʸnʸutɨ
+8.531	plant (vb)	omtɨltɨḳo
+8.54	root	kontɨ
+8.55	branch	mo
+8.56	leaf	čʸɔpɨ
+8.57	flower	sɨr̃ḳɨ
+8.6	tree	po
+8.63	birch	ḳæ
+8.64	pine	čʸö
+8.65	fir	ḳut
+8.68	tobacco	čʸɔpɨ
+8.69	smoke (tobacco)	nækælḳo
+8.691	pipe	kɔnsan
+8.72	tree stump	saltɨ
+8.73	tree trunk	kɛpɨ
+8.73	tree trunk	potkɛpɨ
+8.74	forked branch	mo
+8.75	bark	ḳɔsɨ
+8.76	sap	ül
+8.97	nettle	sɔttɨ
+8.98	mushroom	aḳsɨl
+9.11	do, make	meḳo
+9.12	work	učʸɨḳo
+9.14	bend	mɨnɨḳo
+9.15	fold	pinḳɨlḳo
+9.16	tie, bind	sɔr̃ɨḳo
+9.161	untie	toütɨḳo
+9.18	chain	kəsɨlʸtɛmtɨ
+9.19	rope, cord	tɛmtɨ
+9.192	knot (noun)	muḳḳɨl
+9.21	strike (hit, beat)	kættɨḳo
+9.21	strike (hit, beat)	motḳo
+9.211	pound with fist	ḳættɨḳo
+9.22	cut	matɨḳo
+9.221	cut down	matɨkkɨḳo
+9.222	chop, hew	pačʸalḳo
+9.223	stab	pær̃ḳɨlḳo
+9.23	knife	paŋɨ
+9.24	scissors, shears	šʸittɨɔŋtɨlʸpaŋɨ
+9.25	ax	pičʸi
+9.251	adze	kor̃san
+9.26	break	panalḳo
+9.261	broken	panalpɨlʸ
+9.27	split	pačʸɨtḳo
+9.28	tear	nɨtaḳo
+9.28	tear	tonɨtaḳo
+9.29	flay, skin	ɩnnælʸmɨmtoiḳo
+9.31	rub, wipe	musɨḳo
+9.31	rub, wipe	natḳɨlḳo
+9.32	stretch	nækæḳo
+9.32	stretch	nækæmpɨḳo
+9.33	pull	næḳḳɨlpɨḳo
+9.34	spread out	tɔḳɨḳo
+9.341	hang up	ɨtɨḳo
+9.342	press	ɨpaḳo
+9.343	squeeze, wring	ɨpḳɨleḳo
+9.35	pour	ḳamtɨḳo
+9.36	wash	musɨltɨḳo
+9.37	sweep	ḳatalḳo
+9.38	broom	mʸayɨllaka
+9.422	tool	učʸɨptælʸmɨ
+9.44	build	meḳo
+9.46	bore	pur̃tɨḳo
+9.461	hollow out	čʸoḳḳoḳo
+9.48	saw	pila
+9.49	hammer	sɔlɨ
+9.5	nail	tipɨ
+9.56	glue	čʸimɨ
+9.6	smith, blacksmith	čʸɔttɨr̃ælʸḳum
+9.61	forge	čʸɔttɨr̃ḳo
+9.62	anvil	kəsɨllaka
+9.63	cast (metals)	čʸɔttɨr̃ḳo
+9.64	gold	solota
+9.65	silver	ser̃epr̃a
+9.66	copper, bronze	tulla
+9.67	iron	kəsɨ
+9.72	mold (clay etc)	meḳo
+9.73	clay	šʸyo
+9.74	glass	sekɨla
+9.75	weave, plait	sər̃ɨḳo
+9.76	basket	tuyka
+9.78	netbag	r̃ušʸɨlʸmešak
+9.81	carve	meḳo
+9.88	paint (noun)	sɨ
+9.88	paint (noun)	kr̃aska
+9.89	paint (vb)	sɨtḳo
+9.89	paint (vb)	natḳɨlḳo
+10.11	move	čʸaḳḳɨltɨḳo
+10.11	move	čʸoḳḳolḳo
+10.12	turn over	kolʸalḳo
+10.13	turn around	kolimpɨḳo
+10.14	wind, wrap	kolʸaltɨḳo
+10.15	roll	kolimpɨḳo
+10.16	drop (vb)	əstɨḳo
+10.17	twist	kolʸlimɔtḳo
+10.21	rise	ɩnnænɨlaiḳo
+10.22	raise, lift	ɩnnæiḳo
+10.23	fall	alʸčʸɨḳo
+10.24	drip	čʸapɨḳo
+10.25	throw	čʸattɨḳo
+10.252	catch (ball)	or̃aḳo
+10.26	shake	tupaḳo
+10.32	flow	küŋtɨltɨmpɨḳo
+10.33	sink	ütḳɨnḳuḳo
+10.34	float	pentaleḳo
+10.35	swim	uḳɨlḳo
+10.351	dive	patɨḳo
+10.351	dive	üttɨpatḳo
+10.352	splash	ličʸḳɨr̃altɨḳo
+10.36	sail (vb)	pentɨḳo
+10.37	fly (vb)	tɩmpɨḳo
+10.38	blow	mær̃ḳɨḳo
+10.38	blow	puḳo
+10.41	creep, crawl	soḳḳɨr̃ḳo
+10.412	kneel	pultɨtalelʸčʸɨḳo
+10.413	crouch	kɛtɨŋḳo
+10.42	slide, slip	nešʸɨr̃ḳo
+10.43	jump, leap	paktɨr̃ɨḳo
+10.431	kick	tappɔlḳo
+10.431	kick	tapɨr̃ḳo
+10.44	dance	laksɨr̃ɨḳo
+10.45	walk	ḳənḳo
+10.451	limp	nʸor̃ḳaḳo
+10.451	limp	ḳur̃aḳo
+10.46	run	kur̃alḳo
+10.46	run	tɨŋaltɨḳo
+10.47	go	kənḳo
+10.47	go	antar̃ḳo
+10.47	go	ḳonɩšʸḳo
+10.47	go	ḳöšʸḳo
+10.47	go	ḳoɩšʸḳo
+10.471	go up	sɨḳɨlḳo
+10.471	go up	wəšʸɨḳo
+10.472	climb	sɨḳɨlḳo
+10.473	go down	panɩšʸḳo
+10.473	go down	paɩšʸḳo
+10.474	go out	tar̃ɨḳo
+10.474	go out	tantɨḳo
+10.48	come	tüḳo
+10.48	come	ičʸčʸɨḳo
+10.48	come	ičʸčʸɨr̃ḳo
+10.481	come back	pɔr̃aliḳo
+10.49	go away, depart	tantɨḳo
+10.49	go away, depart	tar̃ɨḳo
+10.49	go away, depart	ḳənḳo
+10.49	go away, depart	kur̃alḳo
+10.49	go away, depart	wašʸɨḳo
+10.491	disappear	ür̃r̃aiḳo
+10.51	flee	kur̃alḳo
+10.51	flee	ḳælḳo
+10.51	flee	ḳoptɨr̃ḳo
+10.51	flee	paktɨḳo
+10.52	follow	nʸotɨḳo
+10.53	pursue	nʸor̃ḳo
+10.53	pursue	nʸotɨḳo
+10.55	reach, arrive	tüḳo
+10.55	reach, arrive	tulɨšʸḳo
+10.56	approach	tɛtɨčʸaktüḳo
+10.57	enter	šʸer̃ḳo
+10.61	carry (bear)	tuḳɨlḳo
+10.612	carry-in-hand	utɨsætuḳɨlḳo
+10.613	carry-on-shoulder	ḳəḳsætuḳɨlḳo
+10.614	carry-on-head	olɨsætuḳɨlḳo
+10.615	carry-underarm	ḳolɨnʸšʸünʸčʸoḳɨttuḳɨlḳo
+10.62	bring	totɨḳo
+10.63	send	ütɨḳo
+10.64	lead (vb)	tɔtɨr̃ɨḳo
+10.65	drive	nʸotɨḳo
+10.65	drive	nʸoḳo
+10.66	ride	ḳənḳo
+10.66	ride	kor̃aḳo
+10.67	push, shove	noḳḳoḳo
+10.67	push, shove	noḳḳolḳo
+10.71	road	wəttɨ
+10.71	road	məttɨ
+10.72	path	wəttɨ
+10.74	bridge	pɨlɨ
+10.75	carriage, wagon, cart	kolʸalʸḳaḳlɨ
+10.76	wheel	kolʸa
+10.83	boat	alako
+10.831	canoe	antɨ
+10.84	raft	pɨlɨ
+10.85	oar	lapɨ
+10.851	paddle (noun)	lapɨ
+10.852	row (vb)	tuḳo
+10.89	anchor	yakor̃ʸ
+10.92	land (vb)	ḳanɨktɨmatḳačʸɨḳo
+11.11	have	ɛḳo
+11.12	own, possess	ɛḳo
+11.13	take	iḳo
+11.14	seize, grasp	or̃aḳo
+11.15	hold	or̃ḳɨlpɨḳo
+11.16	get, obtain	iḳo
+11.17	keep, retain	or̃ḳɨlpɨḳo
+11.18	thing	utak
+11.18	thing	tetamɨ
+11.21	give	miḳo
+11.22	give back	ḳottamiḳo
+11.24	preserve, look after	mɛr̃ɨḳo
+11.25	save, rescue	nennæiḳo
+11.27	destroy	panalḳo
+11.27	destroy	topanalḳo
+11.27	destroy	tayaltɨḳo
+11.28	harm, injure, damage	ḳošʸɨkmeḳo
+11.31	seek, look for	peḳo
+11.32	find	ḳoḳo
+11.33	lose	ür̃tɨḳo
+11.34	release, let go	ütɨḳo
+11.43	money	ḳomtæ
+11.44	coin	kəsɨlʸḳomtæ
+11.51	rich	tɛttalʸ
+11.52	poor	ɨpkɨlɨmpɨtɨlʸ
+11.52	poor	sɨḳɨlalʸ
+11.53	beggar	ḳomtækɨtɨlʸ
+11.53	beggar	ḳošʸtɨlʸ
+11.54	avaricious, stingy	tar̃alʸ
+11.54	avaricious, stingy	panʸčʸɨnɨlʸ
+11.61	lend	mintɨr̃ḳo
+11.62	borrow	itɨr̃ḳo
+11.63	owe	ḳolʸčʸanɛḳo
+11.64	debt	ḳolʸčʸa
+11.65	pay (vb)	mir̃tɨḳo
+11.66	account, reckoning	toḳɨltɨpsa
+11.77	hire	lɛntɨḳo
+11.78	wages	ləni
+11.79	earn	učʸɨḳoḳomtætčʸɔtɨ
+11.81	buy	təmɨko
+11.82	sell	mir̃ɨŋḳo
+11.83	trade, barter	təmtɨḳo
+11.84	merchant	təmḳup
+11.86	store, shop	lopkɨ
+11.87	price	mir̃
+11.88	dear (costly, expensive)	mir̃sɨmɨlʸ
+11.89	cheap	ḳeptɨmɨlʸ
+11.91	share (distribute)	mɔlɨiḳo
+11.91	share (distribute)	miḳɨlḳo
+11.92	weigh	wessaŋḳo
+12.1	after	pun
+12.11	place	tɔḳɨn
+12.11	place	čʸipɔḳɨn
+12.11	place	moḳɨnæn
+12.2	beside	ḳöḳɨn
+12.3	down, below	ɩllæ
+12.4	before	ukon
+12.41	right (side)	ukon
+12.5	inside, in	šʸünʸčʸoḳɨt
+12.6	outside	ponæ
+12.7	under	ɨlḳɨn
+12.8	up, above	pɔr̃oḳɨn
+12.11	place	təttɨ
+12.11	place	koptɨ
+12.12	put	pinḳo
+12.13	sit	ɔmtɨḳo
+12.14	lie down	ippɨḳo
+12.15	stand	nɨŋkɨḳo
+12.16	remain, stay	ḳalɨḳo
+12.17	remains, left overs	ḳalɨpɨlʸ
+12.21	collect, gather	taḳḳɨlḳo
+12.212	pick up	ɩnnæiḳo
+12.213	pile up	teltɨḳo
+12.22	join, unite	næntɨtokaltɨḳo
+12.23	separate	toiḳo
+12.232	divide	miḳɨlḳo
+12.24	open	nüḳo
+12.25	shut, close	taḳɨtɨḳo
+12.26	cover	tamtɨlḳo
+12.27	hide, conceal	ɛttɨḳo
+12.31	high	pir̃ḳɨ
+12.32	low	ḳɔptɨlʸ
+12.33	top	pɔr̃ɨ
+12.34	bottom	ɨlɨ
+12.35	end	čʸipɨ
+12.35	end	tur̃iy
+12.35	end	pontar̃
+12.352	pointed	ɔŋsɨmɨlʸ
+12.352	pointed	minɨtɨlʸ
+12.353	edge	ɔŋtɨ
+12.36	side	ḳö
+12.36	side	pelæk
+12.37	middle, center	čʸontoḳɨlʸ
+12.41	right (side)	tɔtɨlʸ
+12.41	right (side)	tɔtɨk
+12.42	left (side)	kɛtɨkælʸ
+12.43	near (adv)	tɛtɨčʸaŋ
+12.44	far (adv)	kuntaḳɨn
+12.45	east	pülʸpelæk
+12.46	west	čʸelɨntɨpatɨr̃mo
+12.46	west	sæḳḳɨlʸtəttɨ
+12.47	north	takkɨlʸtəttɨ
+12.47	north	takkɨlʸpelæk
+12.47	north	takkɨ
+12.48	south	nennælʸtəttɨ
+12.48	south	nennælʸpelæktɨ
+12.48	south	nennæ
+12.53	grow	sočʸɨḳo
+12.53	grow	mɛr̃ḳɨɛsɨḳo
+12.54	measure	mɔntɨḳo
+12.541	span, fathom	tɩ
+12.55	large, big	mɛr̃ḳɨ
+12.56	small, little	kɨpa
+12.57	long	čʸumpɨlʸ
+12.58	tall	pir̃ḳɨlʸ
+12.59	short	ḳɔmɨčʸalʸ
+12.61	wide, broad	tɔntɨlʸ
+12.62	narrow	čʸɛsɨlʸ
+12.63	thick (in dimension)	nʸaŋtɨlʸ
+12.65	thin (in dimension)	čʸoptɨlʸ
+12.67	deep	ḳor̃æ
+12.67	deep	ḳor̃æɛtɨlʸ
+12.68	shallow	kɨpɛmɨya
+12.68	shallow	ašʸšʸaḳor̃æ
+12.71	flat	nur̃ḳɨlʸ
+12.73	straight	nur̃ḳɨlʸ
+12.74	crooked	lʸaḳḳɨlʸ
+12.75	hook	kotɨ
+12.75	hook	ɨtḳɨ
+12.76	corner	šʸæŋæ
+12.77	cross	pir̃nʸa
+12.81	round	kolʸalʸ
+12.82	circle	kolʸa
+12.83	sphere, ball	puŋḳolʸa
+12.84	line	kor̃ælʸta
+12.85	hole	mü
+12.92	like, similar	pütɨntɨlʸ
+12.93	change	mɔlɨḳo
+13.0	zero, nothing	nolʸ
+13.0	zero, nothing	čʸæŋkɨptælʸɔnɨltɨ
+13.1	one	ukkɨr̃
+13.2	two	šʸittɨ
+13.3	three	nɔkɨr̃
+13.4	four	tɛttɨ
+13.5	five	sompɨla
+13.6	six	muktɨt
+13.7	seven	selʸčʸɨ
+13.8	eight	šʸittɨčʸæŋkɨtɨlʸköt
+13.9	nine	ukkɨr̃čʸæŋkɨtɨlʸköt
+13.10	ten	köt
+13.101	eleven	ukkɨr̃kəlʸköt
+13.102	twelve	šʸittɨkəlʸköt
+13.103	fifteen	sompɨlakəlʸköt
+13.104	twenty	šʸittɨsar̃
+13.105	hundred	ton
+13.106	thousand	kötton
+13.107	count	toḳɨltɨḳo
+13.14	every, all	istamɨy
+13.14	every, all	isay
+13.14	every, all	muntɨk
+13.15	much, many	kočʸčʸɨ
+13.16	more	pušʸšʸæ
+13.17	little (quantity), few	ḳɔnak
+13.18	enough	nɔtsepɨ
+13.18	enough	sepɨk
+13.181	some	kɨpɛka
+13.19	multitude, crowd	ḳumɨlʸmɨ
+13.21	full	tɩr̃ɨtɨpɨlʸ
+13.21	full	mukɨltɩr̃ɨlʸ
+13.22	empty	šʸünʸčʸɨpɨlʸ
+13.23	part, piece	pelæk
+13.24	half	pelæk
+13.33	alone, only	laka
+13.34	first	ukolʸ
+13.34	first	posukolʸ
+13.35	last	čʸipɨnɨlʸ
+13.36	second	šʸittɨmtælɨlʸ
+13.36	second	šʸittælɨlʸ
+13.37	pair	šʸittæḳɩ
+13.38	two times	šʸittɨmtæl
+13.38	two times	šʸittæl
+13.42	third	nɔkɨr̃ɨmtælɨlʸ
+13.42	third	nɔkɨr̃tælɨlʸ
+13.44	three times	nɔkɨr̃ɨmtæl
+13.44	three times	nɔkɨr̃tæl
+14.13	new	šʸentɨ
+14.14	young	ilʸmatɨlʸ
+14.15	old	mentælʸ
+14.16	early	ḳar̃ɨn
+14.17	late	ütɨn
+14.17	late	pin
+14.18	now	tɩ
+14.18	now	ɛmpæ
+14.19	immediately	pullæ
+14.21	swift, fast, quick	kɛnpɨtɨlʸ
+14.21	swift, fast, quick	čʸatkɨsɨmɨlʸ
+14.22	slow	čʸontɨkɨtɨlʸ
+14.23	hasten, hurry	čʸækaptɨḳo
+14.24	retard, delay	ašʸšʸačʸækaptɨḳo
+14.25	begin, beginning	ukɨtaltɨḳo
+14.25	begin, beginning	olɨmḳo
+14.26	end (temporal)	čʸipɨ
+14.27	finish	tur̃tɨḳo
+14.27	finish	šʸünʸčʸɨptɨḳo
+14.28	cease, stop	ḳɨḳɨlḳa
+14.29	ready	olampɨlʸ
+14.31	always	meltɨ
+14.32	often	pelæk
+14.33	sometimes	kolɨk
+14.331	soon	ɛmpæ
+14.331	soon	čʸɛŋ
+14.332	long-time (for a)	ḳuntɨ
+14.34	never	kušʸšʸanašʸšʸa
+14.35	again	očʸɨk
+14.35	again	očʸɨšʸak
+14.41	day	čʸelɨ
+14.42	night	pin
+14.42	night	lɨpɨḳɨn
+14.43	dawn	ḳar̃ɨlʸkɛntɨ
+14.44	morning	ḳar̃ɨ
+14.45	noon, midday	čʸelɨtčʸɔntɨ
+14.46	evening	ütɨn
+14.47	today	tapčʸelɨ
+14.48	tomorrow	tælɨ
+14.481	day-after-tomorrow	nattoyčʸelɨ
+14.49	yesterday	tælʸčʸelɨ
+14.491	day-before-yesterday	ukolʸčʸelɨ
+14.51	hour	čʸas
+14.53	clock, timepiece	čʸassa
+14.61	week	selʸčʸɨčʸelɨ
+14.61	week	nedelʸa
+14.62	Sunday	selʸčʸɨmtælɨlʸčʸelɨnedelʸaḳɨn
+14.63	Monday	posukokɨlʸčʸelɨnedelʸaḳɨn
+14.64	Tuesday	šʸittɨmtælɨlʸčʸelɨnedelʸaḳɨn
+14.65	Wednesday	nɔkɨr̃ɨmtælɨlʸčʸelɨnedelʸaḳɨn
+14.66	Thursday	tɛttɨmtælɨlʸčʸelɨnedelʸaḳɨn
+14.67	Friday	sompɨlamtælɨlʸčʸelɨnedelʸaḳɨn
+14.68	Saturday	muktɨntælɨlʸčʸelɨnedelʸaḳɨn
+14.71	month	ir̃atɨ
+14.73	year	po
+14.74	winter	kə
+14.75	spring	üttɨ
+14.76	summer	taŋɨ
+14.77	autumn	ar̃a
+15.21	smell (vb intrans)	aptalḳo
+15.212	sniff	tɩnalḳo
+15.22	smell (vb trans)	aptɨr̃ḳo
+15.25	fragrant, good smelling	somaaptɨlʸ
+15.26	stinking, bad smelling	ḳošʸtɨlʸaptɨlʸ
+15.35	sweet	nʸunitɨlʸ
+15.36	salty	šʸæḳɨlʸ
+15.37	bitter	par̃r̃ɨnnilʸ
+15.38	acid, sour	par̃r̃ɨnnilʸ
+15.39	brackish	šʸæḳɨlɔḳɨlʸ
+15.41	hear	üŋtɨḳo
+15.42	listen	üŋkɨltɨḳo
+15.44	sound, noise	čʸar̃ɨ
+15.44	sound, noise	sümɨ
+15.45	loud	čʸar̃ɨsɨmɨlʸ
+15.46	quiet, silence	sümɨkɔlɨŋɛŋa
+15.51	see	ḳontɨr̃ḳo
+15.52	look, look at	mannɨmpɨḳo
+15.55	show	atɨltɨḳo
+15.56	shine	ḳɛtɨmpɨḳo
+15.57	bright	čʸelɨŋpɨtɨlʸ
+15.62	light (in color)	ḳalʸmɨlʸ
+15.63	dark (in color)	lɨpɨḳɨlʸ
+15.64	white	sər̃ɨ
+15.65	black	šʸæḳɨ
+15.66	red	nʸar̃ḳɨ
+15.67	blue	nor̃ælʸ
+15.68	green	patɨlʸ
+15.69	yellow	patɨlʸ
+15.71	touch	ḳatɨḳo
+15.712	pinch	niŋkɨlḳo
+15.72	feel	ḳatɨḳo
+15.74	hard	talɨḳɨlʸ
+15.75	soft	nʸamɨḳɨlʸ
+15.77	smooth	nur̃ḳɨlʸ
+15.78	sharp	ɔŋsɨmɨlʸ
+15.78	sharp	minɨtɨlʸ
+15.79	blunt, dull	ɔŋkɨtɨlʸ
+15.81	heavy	sɛttɨmɨlʸ
+15.82	light (in weight)	šʸepɨlʸ
+15.83	wet, damp	nišʸḳɨmɔtpɨlʸ
+15.83	wet, damp	čʸentalʸ
+15.84	dry	tɛkɨpɨlʸ
+15.85	hot	pötpɨlʸ
+15.851	warm	pötpɨlʸ
+15.851	warm	lɨsɨḳɛŋɛŋa
+15.86	cold	ḳoŋḳɨlʸ
+15.87	clean	tɛšʸaŋpɨlʸ
+15.88	dirty, soiled	tamɨlʸ
+15.89	wrinkled	tar̃sɨr̃ɨmpɨtɨlʸ
+16.11	soul, spirit	ilsan
+16.15	surprised, astonished	aḳlɨmɔttɨlʸ
+16.18	good fortune, luck	kɨ
+16.19	misfortune, bad luck	tor̃æ
+16.23	joyful, glad, happy	ɔntalpɨtɨlʸ
+16.25	laugh	pisɨšʸḳo
+16.251	smile	pisaltɨmpɨḳo
+16.26	play	sɔntɨr̃ḳo
+16.27	love	kɨkɨḳo
+16.29	kiss	nitɨḳo
+16.3	embrace	ḳɔmalḳo
+16.31	pain	čʸüma
+16.32	grief, sorrow, sadness	kekkɨ
+16.33	anxiety, worry	ɛsa
+16.34	regret, be sorry	sɨḳɨlʸaiŋḳo
+16.37	cry, weep	čʸur̃ɨḳo
+16.38	tear (noun)	sayɨnüt
+16.39	groan	nir̃ɨḳo
+16.41	hate	ḳümɨḳo
+16.42	anger	nenʸa
+16.44	envy, jealousy	ḳɔčʸɨptæ
+16.45	shame (noun)	šʸor̃ɨ
+16.52	brave	or̃ɨpɨlʸ
+16.52	brave	ɛnɨkunʸčʸɨtɨlʸ
+16.53	fear, fright	ɛnta
+16.53	fear, fright	ɛnɨptæ
+16.54	danger	ɛntapoḳɨ
+16.54	danger	ɛnɨḳo
+16.62	desire, want	ɛsɨlta
+16.622	choose	wɨbor̃aiŋḳo
+16.65	faithful	ür̃omɨntɨ
+16.65	faithful	tɔtɨk
+16.66	true	ɔnšʸünʸčʸɨk
+16.67	lie, tell lies	molmɨttɨḳo
+16.68	deceit	molmɨ
+16.69	forgive	ɛmɨltɨḳo
+16.71	good	soma
+16.72	bad	ḳošʸtɨlʸ
+16.73	right, correct	ür̃omɨntɨlʸ
+16.74	wrong	molmɨlʸ
+16.76	fault	ür̃ɨ
+16.77	mistake, error	ür̃kɨptæ
+16.78	blame	totɨptæ
+16.79	praise	somar̃sɨptæ
+16.81	beautiful	kur̃assɨmɨlʸ
+16.82	ugly	ašʸšʸakur̃assɨmɨlʸ
+16.83	greedy	panʸčʸɨpɨlʸ
+16.84	clever	tənɨsɨmɨlʸ
+17.11	mind	tənɨ
+17.13	think (= reflect)	tənɨr̃pɨḳo
+17.14	think (= be of the opinion)	tənɨr̃pɨḳo
+17.15	believe	ɛtɨŋḳo
+17.16	understand	tənɨmɨḳo
+17.17	know	tənɨmɨḳo
+17.171	guess	tənɨr̃pɨḳo
+17.19	idea, notion	tənɨ
+17.21	wise	tənɨsɨmɨlʸ
+17.21	wise	mutɨr̃ʸonɨlʸ
+17.21	wise	ḳətɨsɨmɨlʸ
+17.22	foolish, stupid	tənɨkɨtɨlʸ
+17.22	foolish, stupid	mɔmaka
+17.23	insane, crazy	olɨkɨtɨlʸ
+17.24	learn	učʸɨttɨḳo
+17.242	study	učʸɨŋḳo
+17.242	study	tantaltɨḳo
+17.25	teach	učʸɨŋḳo
+17.25	teach	tantaltɨḳo
+17.26	pupil	učʸɨttɨlʸiya
+17.27	teacher	učʸɨčʸɨlɨlʸima
+17.28	school	škola
+17.31	remember	tənaptɨḳo
+17.32	forget	ɛmɨltɨḳo
+17.32	forget	ɛmɨltɨḳɔlamḳo
+17.34	clear, plain	tənɨmɨla
+17.35	obscure	əšʸšʸatənɨmɨla
+17.36	secret	tɔmɨlʸ
+17.37	sure, certain	anɨlʸ
+17.38	explain	atɨltɨḳo
+17.41	intention, purpose	ɛsɨmpa
+17.42	cause	ür̃ɨ
+17.44	suspect	ḳompɨḳo
+17.45	need, necessity	nɔtna
+17.46	easy	šʸepɨlʸ
+17.46	easy	olɨk
+17.47	difficult	sɛttɨmetɨlʸ
+17.48	try, attempt	saŋaḳo
+17.51	and	ay
+17.52	because	mitɨ
+17.53	if	ḳatamol
+17.53	if	ḳata
+17.53	if	čʸɔlsæ
+17.54	or	ḳay
+17.55	yes, affirmative	nɩlʸčʸɨk
+17.55	yes, affirmative	nɩlʸčʸɨlʸ
+17.56	no, negative	čʸæŋka
+17.56	no, negative	ašʸšʸa
+17.56	no, negative	ašʸ
+17.56	no, negative	ɨkɨ
+17.56	no, negative	čʸæ
+17.56	no, negative	ni
+17.61	how?	kuttar̃
+17.61	how?	ḳæntɨk
+17.62	how many?	kušʸšʸak
+17.62	how many?	kušʸšʸalʸ
+17.63	how much?	kušʸšʸak
+17.63	how much?	kušʸšʸalʸ
+17.64	what?	ḳay
+17.65	when?	kušʸšʸaḳɨn
+17.66	where?	kun
+17.66	where?	kučʸčʸæ
+17.66	where?	ku
+17.67	which?	ḳayɨlʸ
+17.68	who?	kutɨ
+17.68	who?	kutɨka
+17.69	why?	ḳa
+18.11	voice	čʸar̃ɨ
+18.11	voice	sümɨ
+18.12	sing	sumpɨḳo
+18.12	sing	kolʸmɨttɨḳo
+18.13	shout, cry out	laŋkɨšʸḳo
+18.13	shout, cry out	laŋkalʸḳo
+18.15	whisper	sʸapsɨmpɨḳo
+18.16	mumble	kekkɨsamulaltɨḳo
+18.17	whistle	kükɨmpɨḳo
+18.17	whistle	kükɨr̃ḳo
+18.18	shriek, screech	čʸar̃ɨsælaŋkɨšʸḳo
+18.19	howl	lulɨmpɨḳo
+18.21	speak, talk	mulaltɨḳo
+18.21	speak, talk	kɛtɨḳo
+18.211	stutter, stammer	mumɨlɨmpɨḳo
+18.22	say	koŋɨmpɨḳo
+18.221	tell story	koŋaltɨḳo
+18.222	speech (make a)	kɛtɨḳo
+18.23	silent (be)	taŋaltɨmpɨḳo
+18.24	language	ətɨ
+18.26	word	ətɨ
+18.28	name	nɩm
+18.31	ask (question, inquire)	soḳɨnʸčʸɨḳo
+18.32	answer	kɛtɨḳo
+18.35	ask, request	mɔtɨr̃ḳo
+18.35	ask, request	čʸɨtɨḳo
+18.36	promise	čʸaptɨḳo
+18.41	call (=summon)	ḳɛr̃ɨḳo
+18.42	call (=name)	nɩmtɨḳo
+18.45	boast	somar̃sɨmpɨḳo
+18.51	write	nɛkɨr̃ḳo
+18.52	read	toḳɨltɨḳo
+18.56	paper	nɛkɨr̃
+18.61	book	toḳɨltɨpsɔtɨlʸnɛkɨr̃
+18.72	drum	nuŋa
+18.73	horn, trumpet	tur̃pa
+18.74	rattle	kuŋɨr̃a
+18.74	rattle	mumlalʸkəsɨlʸa
+18.74	rattle	mumlalʸkəsɨllaka
+19.11	country	ḳadar̃
+19.11	country	pontar̃
+19.11	country	təttɨ
+19.12	one's native country	r̃odina
+19.15	city, town	ḳəttɨ
+19.16	village	šʸimalʸa
+19.16	village	mɔtɨlʸmɨ
+19.21	people (populace)	tamtɨr̃
+19.23	tribe, clan	tamtɨr̃
+19.24	chief, chieftain	ḳok
+19.25	staff, walking stick	tür̃ɨ
+19.31	rule, govern	ḳoḳɨlpɨḳo
+19.32	king, ruler	ɔmtɨlʸḳok
+19.45	command, order	ḳur̃altɨmpɨḳo
+19.45	command, order	ḳur̃altɨḳo
+19.46	obey	üŋkɨltɨmpɨḳo
+19.47	let, permit	tomḳo
+19.51	friend, companion	lʸaḳḳa
+19.52	enemy	molmɨsɨmɨlʸḳup
+19.54	neighbor	ḳöḳɨnilɨntɨyḳup
+19.55	stranger	mɛnɨlʸ
+19.55	stranger	wɛnɨlʸ
+19.57	host	nʸušʸɨ
+19.58	help, aid	peltɨḳo
+19.59	hinder, prevent	taḳɨtɨmpɨḳo
+19.61	custom	šʸer̃tɨ
+19.62	strife, quarrel	antɨptæ
+19.65	meet	čʸetɨḳo
+19.72	prostitute	ḳolma
+20.11	fight (vb)	müttɨḳo
+20.11	fight (vb)	ḳəttɨḳo
+20.13	war, battle	mütɨ
+20.14	peace	mir̃
+20.15	army	ar̃miya
+20.15	army	müttɨntɨlʸḳumɨlʸmɨ
+20.17	soldier	soldat
+20.17	soldier	müttɨntɨlʸḳum
+20.21	weapons, arms	pušʸkan
+20.24	bow	ɨntɨ
+20.25	arrow	koma
+20.25	arrow	tɨšʸšʸa
+20.26	spear	taḳa
+20.28	gun, cannon	pušʸkan
+20.44	defend	ɔttɨḳo
+20.471	guard, sentinel	tor̃ɨšʸ
+20.51	fisherman	ḳəlɨčʸčʸɨlʸḳum
+20.52	fishhook	nup
+20.54	fishnet	poḳḳɨ
+20.56	bait	tüt
+20.61	hunt	sur̃ɨšʸḳo
+20.62	shoot	čʸüntɨḳo
+20.62	shoot	čʸattɨḳo
+20.63	miss (target)	nʸunir̃ɨḳo
+20.64	trap (noun)	čʸaŋkɨ
+20.65	trap (vb)	čʸaŋkɨtɨḳo
+21.11	law	ür̃ɨ
+21.36	innocent	kuŋɛtɨlʸ
+21.39	prison, jail	wastr̃ok
+21.42	murder	ḳəttæ
+21.51	steal	telɨḳo
+21.52	thief	telɨtɨlʸḳum

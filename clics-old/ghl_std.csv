@@ -1,0 +1,1623 @@
+@classification: Nilo-Saharan,Eastern Sudanic,Eastern,Nubian,Central,Hill,Kadaru-Ghulfan
+@ids-name: Ghulfan_IPA
+@iso: ghl
+@language: Ghulfan
+@size: 1616
+@source: ids
+@variety: std
+1.1	world	top
+1.1	world	tobi
+1.21	earth, land	top
+1.212	earth=ground, soil	we:na
+1.213	dust	ʊɽʊ
+1.214	mud	ɖótuldí:da
+1.215	sand	kwartu
+1.22	mountain, hill	kudu
+1.22	mountain, hill	kuli
+1.23	plain, field	káto
+1.23	plain, field	kaní
+1.24	valley	ɔbul
+1.24	valley	ɔbule
+1.26	mainland	eǰe
+1.27	shore	ɔtiɲidu
+1.28	cave	ka:ŋallkaŋŋa
+1.31	water	ɔti
+1.32	sea	ɪɽi
+1.322	calm (of sea)	dokola
+1.322	calm (of sea)	dokili
+1.323	rough (of sea)	otintate
+1.324	foam	ordu
+1.329	ocean	iɽí
+1.341	lagoon	baraŋ
+1.341	lagoon	baraŋi
+1.35	wave	kuraraŋ
+1.36	river, stream, brook	torga
+1.36	river, stream, brook	torgɪl
+1.362	whirlpool	ɲalúm
+1.362	whirlpool	ɲalúme
+1.37	spring, well	kʊl
+1.37	spring, well	kʊli
+1.38	swamp	atu
+1.39	waterfall	ɔtiŋaltu
+1.41	woods, forest	ɛǰe
+1.42	tree (cf 08.600)	ór
+1.42	tree (cf 08.600)	orí
+1.43	wood	ór
+1.43	wood	orí
+1.44	stone, rock	kakar
+1.44	stone, rock	aŕi
+1.45	earthquake	topŋiʈiʈye
+1.51	sky	arrɛnayn
+1.52	sun	ɪŋŋaltulɪč
+1.53	moon	nontu
+1.53	moon	nontí
+1.54	star	onu
+1.54	star	onɛtu
+1.55	lightning	orilareŋwalakat
+1.56	thunder	areŋotute
+1.57	lightning (as striking)	arenika
+1.57	lightning (as striking)	arenikɪl
+1.58	storm	uɽu
+1.59	rainbow	kɪlmor
+1.59	rainbow	kɪlmʊri
+1.61	light (noun)	oɽi
+1.62	darkness	uɽi
+1.63	shade, shadow	ɖwa
+1.63	shade, shadow	ɖwil
+1.64	dew	ɔǰa
+1.71	air	ɪɽʃu
+1.72	wind	ɪɽʃu
+1.73	cloud	duwɛt
+1.74	fog	urum
+1.75	rain (noun)	are
+1.76	snow (noun)	areŋwartu
+1.77	ice	ɔtɪnɖwɛt
+1.78	weather	ɪɽʃu
+1.81	fire	íka
+1.81	fire	ikɪ́l
+1.82	flame (noun)	ikaɲádu
+1.82	flame (noun)	ikaɲalanullikaɲalɛni
+1.83	smoke (noun)	ku:nú
+1.84	ashes	otta
+1.841	embers	ikakɛle
+1.851	burn (vb trans)	ilɛ́ri
+1.852	burn (vb intrans)	iladnilwaʃitu
+1.86	light, kindle, ignite	ilɛ́rillurɪŋɲɛri
+1.861	extinguish	úɽi
+1.88	firewood	ikanor
+1.89	charcoal	ul
+2.1	person, human being	ɪt
+2.1	person, human being	ɪ́ni
+2.21	man (vs. woman)	kortu
+2.21	man (vs. woman)	koro
+2.22	woman	ɪdu
+2.22	woman	ɪli
+2.23	male	kortu
+2.23	male	kuru
+2.24	female	ɪdu
+2.24	female	ɪli
+2.25	boy	tonú
+2.25	boy	tíni
+2.251	young man (adolescent)	tɛ́rɖu
+2.251	young man (adolescent)	tɛrɖí
+2.26	girl	ɲɛndu
+2.26	girl	ɲɛndiniltónu
+2.26	girl	tíni
+2.261	young woman (adolescent)	tónukortúnu
+2.261	young woman (adolescent)	tínikorɪ́niltónuwattonu
+2.261	young woman (adolescent)	tí:niwattɪniltɛ́rɖuwattonu
+2.261	young woman (adolescent)	tɛrɖíwattini
+2.27	child	oǰaŋ
+2.27	child	oǰáŋlloǰaŋí
+2.28	infant, baby	ɪdu
+2.28	infant, baby	ɪli
+2.31	husband	idi
+2.32	wife	ída
+2.32	wife	idɪ́l
+2.33	marry	eki
+2.34	marriage, wedding	ágaŋ
+2.34	marriage, wedding	agáŋlʃalmaŋ
+2.341	divorce	ɪ́niŋ
+2.341	divorce	ɛnɲáŋll ɛnɪŋ
+2.341	divorce	ɪnɲaŋ
+2.35	father	ulilɪɽiyar
+2.35	father	ɪɽiyaɽí
+2.36	mother	kortuɪttat
+2.36	mother	koruɪttaní
+2.37	parents	ɪduittat
+2.37	parents	iliɪttaní
+2.38	married man	twánu
+2.38	married man	twáni
+2.39	married woman	tɛ́rɖu
+2.39	married woman	tɛrɖí
+2.41	son	ɪ́ntaŋ
+2.41	son	ɪntáŋ
+2.42	daughter	ɪ́ntaŋŋor
+2.42	daughter	ɪntáŋŋwar
+2.43	offspring (son or daughter)	ɪ́ntaŋwattunu
+2.43	offspring (son or daughter)	ɪntáŋwattɪni
+2.44	brother	ɪ́ntaŋtɛ́rɖu
+2.44	brother	ɪntáŋtɛrɖí
+2.444	older brother	ɪ́ntaŋtɛ́rduŋor
+2.444	older brother	ɪntáŋtɛrɖíŋwar
+2.445	younger brother	ɪ́ntaŋtɛ́rɖuwattunu
+2.445	younger brother	ɪntáŋtɛrɖíwattini
+2.45	sister	ɪ́ntaŋ
+2.45	sister	ɪntáŋ
+2.454	older sister	ʃap
+2.454	older sister	ʃabiní
+2.455	younger sister	ábaŋkortu
+2.455	younger sister	abáŋkurullabaŋkorollabaŋkorulábaŋ
+2.455	younger sister	abá́ŋ
+2.456	sibling	Íttuɽa
+2.456	sibling	ɪnnituɽil
+2.458	twins	ábaŋidu
+2.458	twins	abáŋili
+2.46	grandfather	ɪdútuɽa
+2.46	grandfather	iliturɪ́l
+2.461	old man	átaŋkortu
+2.461	old man	atɪɲáŋkoru
+2.47	grandmother	átaŋtɛ́rɖu
+2.47	grandmother	atɪɲáŋtɛrɖí
+2.48	grandson	ʈíǰaŋ
+2.48	grandson	ʈiǰáŋ
+2.49	granddaughter	aganɪ́ntaŋ
+2.49	granddaughter	aganɪntáŋ
+2.511	mother's brother	ɛnɪnnɪ́ntaŋ
+2.511	mother's brother	ɛnɪnnɪntáŋ
+2.512	father's brother	áɲaŋ
+2.512	father's brother	aɲáŋ
+2.52	aunt	ɪntannukortu
+2.52	aunt	ɪntannikorulkédaŋkortu
+2.52	aunt	kenáŋkoru
+2.521	mother's sister	ɪntannutɛ́rɖu
+2.521	mother's sister	ɪntannitɛrɖílkédaŋtɛ́rɖu
+2.521	mother's sister	kenáŋtɛrɖí
+2.522	father's sister	kódaŋ
+2.522	father's sister	konáŋlɛ́rŋaŋ
+2.522	father's sister	ɛrŋáŋ
+2.53	nephew	kor
+2.53	nephew	korilkunu
+2.54	niece	ataŋ
+2.54	niece	atɪɲaŋ
+2.55	cousin	wádaŋkórtu
+2.55	cousin	wadáŋkorú
+2.56	ancestors	ídaŋkórtu
+2.56	ancestors	idáŋkorú
+2.57	descendants	wádaŋídu
+2.57	descendants	wadáŋilí
+2.61	father-in-law (of a man)	ídaŋídu
+2.61	father-in-law (of a man)	idáŋilí
+2.611	father-in-law (of a woman)	wádaŋ
+2.611	father-in-law (of a woman)	wadáŋ
+2.62	mother-in-law (of a man)	wádaŋ
+2.62	mother-in-law (of a man)	wadáŋ
+2.621	mother-in-law (of a woman)	twannɪdu
+2.621	mother-in-law (of a woman)	twannili
+2.63	son-in-law (of a man)	twannɪdu
+2.63	son-in-law (of a man)	twannili
+2.631	son-in-law (of a woman)	ɛnɪ́nnoǰaŋ
+2.631	son-in-law (of a woman)	ɛnɪnnoǰáŋ
+2.64	daughter-in-law (of a man)	agannidu
+2.64	daughter-in-law (of a man)	agannili
+2.641	daughter-in-law (of a woman)	idunwanukórtu
+2.641	daughter-in-law (of a woman)	idunwannikorú
+2.71	stepfather	idunwanutɛ́rɖu
+2.71	stepfather	idunwannitɛrɖí
+2.72	stepmother	ulunú
+2.72	stepmother	uliní
+2.73	stepson	tínidu
+2.73	stepson	tínili
+2.74	stepdaughter	tíŋoɽtu
+2.74	stepdaughter	tíŋoɽu
+2.75	orphan	ʃallit
+2.75	orphan	ʃalli
+2.76	widow	ʃalli
+2.77	widower	yɛlo
+2.81	relatives, kinsmen	ayla
+2.82	family	tol
+2.91	I	áyli
+2.92	you (singular)	wilwi
+2.93	he/she/it	ʈilʈi
+2.94	we	ʃar
+2.94	we	ʃɛrí
+2.941	we (inclusive)	kortu
+2.942	we (exclusive)	idu
+2.942	we (exclusive)	ili
+2.95	you (plural)	kube
+2.96	they	ɛǰe
+3.11	animal	iyátu
+3.11	animal	iyál
+3.12	male (adj)	kor
+3.12	male (adj)	kordu
+3.13	female (adj)	ti
+3.15	livestock	kul
+3.15	livestock	kúli
+3.16	pasture	ɔtor
+3.16	pasture	ɔtʊri
+3.18	herdsman	ti
+3.19	stable, stall	kotɛno
+3.19	stable, stall	korɖí
+3.2	cattle (bovine)	oɽtí
+3.2	cattle (bovine)	oɽtɪ́l
+3.21	bull	oɽtiŋoɽtu
+3.21	bull	oɽtiŋuɽu
+3.22	ox	oɽtinidu
+3.22	ox	oɽtinili
+3.23	cow	oɽtinuanu
+3.23	cow	oɽtinuani
+3.24	calf	uǰam
+3.24	calf	uǰamí
+3.25	sheep	kíǰannidu
+3.25	sheep	kíǰinili
+3.26	ram	kíǰaŋ
+3.26	ram	kíǰi
+3.28	ewe	ɔgʊt
+3.28	ewe	ogí
+3.29	lamb	war
+3.29	lamb	wari
+3.32	boar	ɔgʊtnwanu
+3.32	boar	oginuani
+3.34	sow	koič
+3.34	sow	koǰi
+3.35	pig	koičŋoɽʈu
+3.35	pig	koǰɪŋuɽu
+3.36	goat	koičnidu
+3.36	goat	koǰinili
+3.37	he-goat	koičnuanu
+3.37	he-goat	koǰinuani
+3.38	kid	onɖu
+3.38	kid	onɖíl
+3.42	stallion	kotú
+3.42	stallion	koːŋ
+3.44	mare	kwaɽɖɛ́le
+3.44	mare	kwaɽɖɛlenú
+3.45	foal, colt	kukúɽnidu
+3.45	foal, colt	kukíɽinili
+3.46	ass, donkey	kukúr
+3.46	ass, donkey	kukíɽi
+3.5	fowl	bat
+3.5	fowl	baɖulu
+3.52	cock, rooster	uɽá
+3.52	cock, rooster	uɽíl
+3.54	hen	kanɖetunu
+3.54	hen	ka:nɖénillka:nɖí
+3.56	goose	ɖwárme
+3.56	goose	ɖwarmenú
+3.57	duck	ʈwaŋár
+3.57	duck	ʈwaŋarí
+3.58	nest	ukaláŋ
+3.58	nest	ukaláŋe
+3.581	bird	koɽu
+3.581	bird	koɽí
+3.582	seagull	abʊrɡe
+3.582	seagull	abʊrɡenu
+3.584	eagle	kamúrʈu
+3.584	eagle	kamúre
+3.586	vulture	ími
+3.586	vulture	ímilllíminu
+3.591	bat	bol
+3.591	bat	bʊ́li
+3.592	parrot	uɖúlaŋ
+3.592	parrot	uɖilí
+3.593	crow	mínu
+3.593	crow	míɲɪl
+3.596	owl	kúme
+3.596	owl	kumí
+3.61	dog	kóɽol
+3.61	dog	koɽudé
+3.62	cat	ɖoɽ
+3.62	cat	ɖoɽí
+3.63	mouse, rat	ŋoɽbʊ́ltu
+3.63	mouse, rat	ŋoɽbʊ́le
+3.655	shell	otiŋómul
+3.655	shell	otiŋomudé
+3.661	shark	ʈoɽorók
+3.661	shark	ʈoɽoróge
+3.662	porpoise, dolphin	ból
+3.662	porpoise, dolphin	bódu
+3.663	whale	bórul
+3.663	whale	borudé
+3.664	stingray	kɪl
+3.664	stingray	kidú
+3.665	freshwater eel	tíl
+3.665	freshwater eel	tídulnarkó
+3.665	freshwater eel	narkí
+3.71	wolf	ómul
+3.71	wolf	omudé
+3.72	lion	kála
+3.72	lion	kálil
+3.73	bear	topɲɛrí
+3.74	fox	itu
+3.75	deer	ituŋoɲultu
+3.75	deer	ituŋoɲɪl
+3.76	monkey	gɪm
+3.77	elephant	koɽʃunutíŋ
+3.77	elephant	koɽʃulunutíɲe
+3.78	camel	ɪɽiɲ
+3.78	camel	iɽiɲanu
+3.811	louse	maɽantúnu
+3.811	louse	maɽaɲiní
+3.812	nit (louse egg)	arar
+3.812	nit (louse egg)	ararí
+3.813	flea	ararŋul
+3.813	flea	ararŋulí
+3.814	centipede	tumur
+3.814	centipede	tumurí
+3.815	scorpion	ilaŋlʃiŋ
+3.816	cockroach	úlʈu
+3.817	ant	ʈoɲultu
+3.818	spider	únɛtu
+3.818	spider	únillúnini
+3.819	spider web	ɡɪm
+3.82	bee	níntu
+3.82	bee	nínillniːniní
+3.821	beeswax	birkɛtu
+3.821	beeswax	birke
+3.822	beehive	komul
+3.822	beehive	komudéllkomudu
+3.823	wasp	beleŋararanu
+3.823	wasp	beleŋararí
+3.83	fly	abutu
+3.83	fly	abuɖabutullabat
+3.831	sandfly (midge), gnat	bá:lɖu
+3.831	sandfly (midge), gnat	baːlé
+3.832	mosquito	ŋorbúltu
+3.832	mosquito	ŋorbulé
+3.84	worm	ʈwar
+3.84	worm	ʈwaréorʈwarí
+3.85	snake	oɽdul
+3.85	snake	oɽdulélloɽdulí
+3.91	firefly	ortuŋ
+3.91	firefly	ortuŋellortuŋílko:ǰaŋ
+3.91	firefly	ko:ǰaŋí
+3.92	butterfly	ʈaɽaŋ
+3.92	butterfly	ʈaɽaŋí
+3.93	grasshopper	il
+3.93	grasshopper	idanú
+3.94	snail	ɖor
+3.94	snail	ɖorí
+3.95	frog	kwaǰe
+3.95	frog	kwaǰɪl
+3.96	lizard	ʈɪltú
+3.96	lizard	ʈɪl
+3.97	crocodile, alligator	ʃalme
+3.98	turtle	ɪlnɖɪltú
+3.98	turtle	ɪlnɖɪl
+4.11	body	ɪɽʃɪnɖɪltú
+4.11	body	ɪɽʃɪ́nɖɪl
+4.12	skin, hide	kuwa
+4.13	flesh	ʊ́r
+4.14	hair (head)	urtu
+4.14	hair (head)	urul
+4.142	beard	kwɛt
+4.142	beard	kwéni
+4.144	body hair	ɪltú
+4.144	body hair	ɪlí
+4.145	pubic hair	ɖotú
+4.145	pubic hair	noní
+4.146	dandruff	ip
+4.146	dandruff	ibanúllibí
+4.15	blood	maɲ
+4.15	blood	maɲanú
+4.151	vein, artery	maɲɲɛrkɛrdu
+4.151	vein, artery	maɲɲɛrkɛrí
+4.16	bone	ʊr
+4.16	bone	ʊranú
+4.17	horn	ʊrŋwɛ:t
+4.17	horn	ʊrŋwɛ:ni
+4.18	tail	ʈayuk
+4.18	tail	ʈayuge
+4.19	back	koɲ
+4.19	back	koɲanú
+4.191	spine	konayn
+4.191	spine	konaɲí
+4.2	head	armuʈu
+4.2	head	armɪʈí
+4.201	side of head, temple	a:tú
+4.201	side of head, temple	a:
+4.202	skull	ɖarum
+4.202	skull	ɖarumé
+4.203	brain	káltu
+4.203	brain	kalé
+4.204	face	kaltunɖɪl
+4.204	face	kalɛnɖɪl
+4.205	forehead	kaltunɖor
+4.205	forehead	kalenɖor
+4.207	jaw	kaltunɖɪl
+4.207	jaw	kalɛnɖɪl
+4.208	cheek	kaltunduǰukɛ
+4.209	chin	úlče
+4.209	chin	ulǰé
+4.212	eyebrow	ulčeŋawkaw
+4.213	eyelid	íɲuŋ
+4.213	eyelid	iɲé
+4.214	eyelash	iɲuŋŋúl
+4.214	eyelash	iɲɛ́ŋuli
+4.215	blink	únulǰidu
+4.22	ear	ábul
+4.22	ear	abudé
+4.221	earlobe	ábul
+4.221	earlobe	abudé
+4.222	earwax	abulnɖor
+4.222	earwax	abulnɖʊrillabulndɛnɖori
+4.23	nose	ǰaɖu
+4.23	nose	ǰalanu
+4.231	nostril	ǰɪɖu
+4.231	nostril	ǰɪl
+4.232	mucus (nasal)	ǰɪ́ɽdu
+4.232	mucus (nasal)	ǰɪɽdanó
+4.24	mouth	uʈu
+4.24	mouth	uʈí
+4.241	beak	ɖul
+4.241	beak	ɖulanú
+4.25	lip	alum
+4.25	lip	alume
+4.26	tongue	ɔ́ŋgʊr
+4.26	tongue	ɔŋgirí
+4.27	tooth	ɔŋgurɲadu
+4.27	tooth	ɔŋguriɲalanillɔŋgurɲalani
+4.271	gums	ɖulmi:ntu
+4.271	gums	ɖulmine
+4.272	molartooth	ɔ́nʈu
+4.272	molartooth	ɔnʈé
+4.28	neck	a:tu
+4.28	neck	a:télatunɖwa
+4.28	neck	atɛnɖwa
+4.281	nape of neck	kɪp
+4.281	nape of neck	kɪbé
+4.29	throat	ɔʃɪnɖul
+4.29	throat	ɔʃɪnɖulano
+4.3	shoulder	ɔʃí
+4.301	shoulderblade	ɔʃinálɖo
+4.301	shoulderblade	ɔʃinaɖiní
+4.302	collarbone	ɔʃinuánu
+4.302	collarbone	ɔʃinuaní
+4.31	arm	ʊʃɪnɪniŋ
+4.31	arm	uʃinɪɲaŋ
+4.312	armpit	ʃunú
+4.312	armpit	ʃuní
+4.32	elbow	ʃunú
+4.32	elbow	ʃuní
+4.321	wrist	kot
+4.321	wrist	kwe
+4.33	hand	tóɲu
+4.33	hand	toɲé
+4.331	palm of hand	buta:r
+4.331	palm of hand	buta:rí
+4.34	finger	kútu
+4.34	finger	kuté
+4.342	thumb	ku:t
+4.342	thumb	kwe
+4.344	fingernail	konɖúl
+4.344	fingernail	kwɛnɖuléllkwɛndulanú
+4.345	claw	keɲ
+4.345	claw	keɲé
+4.35	leg	kotnáldu
+4.35	leg	kwenadiní
+4.351	thigh	kotnuanu
+4.351	thigh	kwenuanilkotnɛ́nɪŋ
+4.351	thigh	kwenɪnɲáŋ
+4.352	calf of leg	áttu
+4.352	calf of leg	atté
+4.36	knee	ʈɪlt́u
+4.36	knee	ʈɪl
+4.37	foot	ɔ́ku
+4.37	foot	okanú
+4.371	ankle	ɔdu
+4.371	ankle	ɔl
+4.372	heel	ɔdunuɽdú
+4.372	heel	ɔlnuɽanú
+4.374	footprint	ɔdu
+4.374	footprint	ɔl
+4.38	toe	kɪ́rdu
+4.38	toe	kɪrdanú
+4.392	wing	álɖo
+4.392	wing	aɖɪní
+4.393	feather	kawkow
+4.393	feather	kawkowí
+4.4	chest	ɪɡɪč
+4.4	chest	ɪɡiǰano
+4.41	breast (of woman)	ʃɛltú
+4.41	breast (of woman)	ʃɛlɛní
+4.412	nipple, teat	ʃor
+4.412	nipple, teat	ʃorano
+4.42	udder	tu
+4.42	udder	tuano
+4.43	navel	boloróŋ
+4.43	navel	boloroŋílkúnɖu
+4.43	navel	kunɖanú
+4.44	heart	kúrul
+4.44	heart	kurulanú
+4.441	lung	tititú
+4.441	lung	tititanó
+4.45	liver	tuɽɪŋŋantú
+4.45	liver	tuɪŋŋamé
+4.451	kidney	ŋor
+4.451	kidney	ŋoríllŋoranú
+4.452	spleen	túɽɪɲ
+4.452	spleen	tuɽɪɲanú
+4.46	stomach	ɪ́l
+4.46	stomach	ɪlanú
+4.461	intestines, guts	ɖetualilɖetu
+4.462	waist	kančélkančí
+4.463	hip	ʃokélʃokí
+4.464	buttocks	ɖarɛltulčí
+4.47	womb	odičí
+4.49	testicle	ʊrlʊri
+4.492	penis	ǰidulǰidubiʃuŋ
+4.51	breathe, breath	ʃa:dukélʃa:dí
+4.52	yawn, gape	aʃélaʃí
+4.521	hiccough	kaɲélkaɲí
+4.53	cough	áɖulnoverbalform
+4.54	sneeze	ǰɛl
+4.55	perspire	ŋwarbélŋwarbí
+4.56	spit	unuŋkélunuŋkí
+4.57	vomit	di
+4.58	bite	u:ri
+4.59	lick	oɽkéloɽkí
+4.591	dribble	uɲ
+4.591	dribble	uɲilbití
+4.61	sleep	ʈoɲélʈoɲí
+4.612	snore	kɪrilélkɪɽilí
+4.62	dream	ebélebí
+4.64	break wind	iɽkéliɽkí
+4.65	urinate	bɛrulélbɛ́ɽtu
+4.66	defecate	bɛɽtuŋíri
+4.67	have sexual intercourse	ʃwi
+4.68	shiver	ʈiyál
+4.68	shiver	ʈiyánilʈi
+4.69	bathe	dibí
+4.71	beget (of father)	uɽi
+4.71	beget (of father)	uɽeluɽí
+4.72	born (to be)	ɪtʈiyat
+4.72	born (to be)	ɪniʈiyani
+4.73	pregnant	kuɲélkuɲí
+4.732	conceive	ʈili
+4.732	conceive	ʈiliɲɪl
+4.74	live, living, life	bur
+4.75	die, dead	atul
+4.75	die, dead	atule
+4.751	drowned	kɛnnǝlkeŋɪŋ
+4.751	drowned	kɛnenɪŋ
+4.76	kill	ɪlbiɽu
+4.76	kill	idanubɛɽu
+4.77	corpse	idunuǰu
+4.79	grave, tomb	ʃiʈu
+4.81	strong, mighty, powerful	ʃarbar
+4.81	strong, mighty, powerful	ʃarbɛri
+4.82	weak	bol
+4.83	well, health	kubi
+4.84	sick, sickness	e:rɛri
+4.841	fever	ʈwe
+4.843	cold (catarrh)	minu
+4.85	wound, sore	kwálaɲ
+4.85	wound, sore	kwalaɲí
+4.856	boil (noun)	barat
+4.856	boil (noun)	barakaní
+4.857	pus	ɪllalčélɪllalí
+4.858	scar	atul
+4.858	scar	atule
+4.86	cure, heal	allu
+4.86	cure, heal	same
+4.87	physician	u:bur
+4.87	physician	u:ber
+4.88	medicine, drug	torgu
+4.88	medicine, drug	torgí
+4.89	poison	wekomɪŋ
+4.91	tired, weary	túnu
+4.91	tired, weary	tunú
+4.912	rest	biǰɪɛnɖiyat
+4.92	lazy	kitutimidu
+4.92	lazy	kinitɛmɪdu
+4.93	bald	kɔlí
+4.94	lame	kamé
+4.95	deaf	martát
+4.96	mute	martatnɪdú
+4.97	blind	karʃat
+4.97	blind	karʃáni
+4.98	intoxicated	te
+4.98	intoxicated	ti
+4.99	naked, bare	waǰat
+4.99	naked, bare	waǰɛni
+5.11	eat	ɖiyɛlɖi
+5.12	food	kor
+5.121	cooked	kor
+5.122	raw	ɪr
+5.123	ripe	ʃukí
+5.124	green, unripe	almí
+5.125	rotten	tuli
+5.13	drink	iɽí
+5.14	hunger	marti
+5.141	famine	kuruli
+5.15	thirst	ummi
+5.16	suck	ʃugi
+5.181	swallow	tuɽí
+5.181	swallow	tuɽiɲɪ́llwandurí
+5.181	swallow	wanduriɲɪ́l
+5.19	choke	atátɛle
+5.19	choke	atátɛlenu
+5.22	boil (vb)	ʈwaŋ
+5.22	boil (vb)	ʈwaŋí
+5.23	roast, fry	ʈwaŋ
+5.23	roast, fry	ʈwaŋí
+5.24	bake	ʈwaŋ
+5.24	bake	ʈwaŋí
+5.25	oven	ɖuɽaŋ
+5.25	oven	ɖuɽaŋílʈop
+5.25	oven	ʈobí
+5.28	pan	kalma:ɲa
+5.28	pan	kalma:ɲanúllkalma:ɲɪ́l
+5.31	dish	kwaʈar
+5.31	dish	kwaʈarí
+5.33	bowl	kame
+5.34	pitcher, jug	ɪɽíŋuǰe
+5.38	knife	ʃɛɽí
+5.39	fork	ačal
+5.391	tongs	kwarí
+5.41	meal (a)	kági
+5.42	breakfast	ɛrɛkɪ́p
+5.42	breakfast	ɛrɛkɪbé
+5.43	lunch	ŋale
+5.44	dinner	kóǰi
+5.45	supper	kamé
+5.46	peel	ʃukí
+5.48	scrape	kundup
+5.49	stir, mix	ʃukatu
+5.51	bread	kwaǰé
+5.51	bread	kwaǰɪ́l
+5.54	knead	wá
+5.54	knead	wánu
+5.56	crush, grind	kúl
+5.56	crush, grind	kúldilkutume
+5.61	meat	ŋónu
+5.61	meat	ŋóni
+5.66	bean	tɪč
+5.7	potato	aɲor
+5.71	fruit	ʃele
+5.76	grape	tumʊr
+5.77	nut	ŋaʈúm
+5.78	olive	ɪč
+5.79	oil	ɖakilʃuɽki
+5.81	salt	ʃinu
+5.821	chili pepper	bíǰe
+5.84	honey	bíǰe
+5.86	milk (noun)	koɲúltu
+5.86	milk (noun)	koɲɪ́l
+5.87	milk (vb)	ɖóɽa
+5.87	milk (vb)	ɖoɽanú
+5.88	cheese	ʈíɽi
+5.89	butter	ʈiɽ
+5.9	beverage, drink	kitunɖuǰr
+5.9	beverage, drink	kitunɖuǰari
+5.91	mead	kítu
+5.91	mead	kiní
+5.94	fermented drink	akka
+6.11	put on (clothes)	tɪl
+6.12	clothing, clothes	ɖor
+6.13	tailor	bɪɽí
+6.21	cloth	bɪ́ʈu
+6.21	cloth	bɪʈʈɪ́lllbɪʈí
+6.22	wool	ʃartí
+6.23	linen, flax	ʃartátu
+6.23	linen, flax	ʃartɛ́ri
+6.24	cotton	ɖuǰí
+6.25	silk	tɛndɛ́le
+6.25	silk	tɛndɛlenú
+6.27	felt	iǰiláŋ
+6.27	felt	iǰilílliǰilaŋí
+6.28	fur	orí
+6.28	fur	oriɲɪ́l
+6.29	leather	unɖí
+6.34	loom	kɪtɲítu
+6.34	loom	kɪtɲini
+6.35	sew	kómaŋ
+6.35	sew	komaŋí
+6.36	needle	dulɲítu
+6.36	needle	dulɲení
+6.37	awl	ilɪŋítu
+6.37	awl	ilɪŋini
+6.39	dye	ʃurbálɖoǰi
+6.39	dye	ʃurbaléɖoǰe
+6.411	poncho	kwártu
+6.411	poncho	kwaré
+6.42	woman's dress	kwártudoǰí
+6.42	woman's dress	kwarédoǰé
+6.43	coat	kwarenɖuǰár
+6.43	coat	kwarenɖuǰɛ́ri
+6.44	shirt	urnɖwáŋ
+6.44	shirt	urnɖwaŋí
+6.45	collar	kurundwagátu
+6.45	collar	kurundwagarí
+6.46	skirt	koɲɲítu
+6.46	skirt	koɲɲiní
+6.48	trousers	ɖírtu
+6.48	trousers	ɖíre
+6.49	stocking, sock	uʃimínʈu
+6.49	stocking, sock	uʃimíne
+6.51	shoe	míntu
+6.51	shoe	míne
+6.52	boot	ɖulmíntu
+6.52	boot	ɖulmíne
+6.55	hat, cap	nimmɪ́ntu
+6.55	hat, cap	níme
+6.57	belt, girdle	uruŋítu
+6.57	belt, girdle	uruŋíni
+6.58	glove	kɛ́le
+6.61	pocket	ɔtɪŋítu
+6.61	pocket	ɔtɪŋiní
+6.71	ornament, adornment	ade
+6.72	jewel	kaɲár
+6.72	jewel	kaɲarí
+6.73	ring (for finger)	aɲúr
+6.75	necklace	u:no
+6.75	necklace	u:nílɲɛlár
+6.75	necklace	ɲɛlarí
+6.76	bead	akí
+6.77	earring	ʃal
+6.77	earring	ʃadú
+6.78	headband, headdress	kól
+6.78	headband, headdress	kolílundiŋol
+6.78	headband, headdress	undiŋoli
+6.81	handkerchief, rag	ɖwa
+6.81	handkerchief, rag	ɖwɪl
+6.82	towel	kábe
+6.82	towel	kábɪl
+6.91	comb	ʃul
+6.91	comb	ʃulé
+6.92	brush	tukul
+6.92	brush	tukɪlilkameŋól
+6.92	brush	kamɛŋóli
+6.921	braid	kórtɛ
+6.921	braid	kortíl
+6.93	razor	kól
+6.93	razor	kolí
+6.94	ointment	kítu
+6.94	ointment	kiní
+6.95	soap	kituŋa:l
+6.95	soap	kituŋa:dé
+7.13	hut	utaŋa:l
+7.13	hut	utaŋa:dé
+7.131	garden-house	top
+7.131	garden-house	tobí
+7.14	tent	kitiríŋ
+7.14	tent	kitiriŋí
+7.15	yard, court	ikaŋa:l
+7.15	yard, court	ikaŋa:dé
+7.16	men's house	máŋgat
+7.16	men's house	maŋgadenú
+7.17	cookhouse	ku:nú
+7.17	cookhouse	ku:ní
+7.18	meeting house	ʈwakaɲɪ́l
+7.18	meeting house	ʈwakaɲɪlé
+7.21	room	aŋgɛré
+7.21	room	aŋgɛrenúlkuti
+7.21	room	?
+7.22	door, gate	kuga:tu
+7.22	door, gate	kuga:tɪ́lllkugɪ́ti
+7.221	doorpost, jamb	ákodu
+7.221	doorpost, jamb	akidí
+7.23	lock (noun)	ʈinɪ́ŋ
+7.23	lock (noun)	ʈinɪŋí
+7.231	latch, door-bolt	oriŋár
+7.231	latch, door-bolt	oriŋarí
+7.24	key	oriŋár
+7.24	key	oriŋarí
+7.25	window	ólɖu
+7.25	window	odinílʈinɪ́ŋ
+7.25	window	ʈinɪŋí
+7.26	floor	ɖokolá
+7.26	floor	ɖokɪlí
+7.27	wall	kolnaɲ
+7.27	wall	kolnaɲí
+7.31	fireplace	ununtá
+7.31	fireplace	unɖí
+7.32	stove	dɪl
+7.32	stove	?
+7.33	chimney	albi:ŋotʊ́r
+7.33	chimney	albi:ŋotɪ́ri
+7.37	ladder	ɖil
+7.37	ladder	ɖíli
+7.42	bed	tibár
+7.42	bed	tibarí
+7.43	chair	ʃibar
+7.43	chair	?
+7.44	table	kakar
+7.44	table	kakarí
+7.45	lamp, torch	di:da
+7.46	candle	di:da
+7.47	shelf	ʃorár
+7.47	shelf	?
+7.48	trough	káto
+7.48	trough	kaní
+7.51	roof	maʃa
+7.51	roof	maʃɪ́l
+7.52	thatch	kurbí
+7.53	ridgepole	kar
+7.53	ridgepole	karílkor
+7.53	ridgepole	kordu
+7.54	rafter	wa:t
+7.54	rafter	wa:ni
+7.55	beam	ʃuʈullʃuʈʈu
+7.55	beam	ʃuʈɪ́l
+7.56	post, pole	bɛre
+7.56	post, pole	bɛrɪ́l
+7.57	board	kwaǰí
+7.58	arch	ɪttar
+7.58	arch	ɪttarí
+7.61	mason	kwaǰátu
+7.61	mason	kwaǰarí
+7.62	brick	ʃaka:p
+7.62	brick	ʃaka:béludal
+7.62	brick	udalí
+7.63	mortar	orʃa
+7.63	mortar	orʃíl
+8.11	farmer	biǰí
+8.12	field (for cultivation)	teráp
+8.12	field (for cultivation)	tɛrabé
+8.13	garden	ʃurí
+8.16	fence	ɖugí
+8.17	ditch	ɖuwár
+8.17	ditch	ɖuwarí
+8.212	furrow	winwani
+8.22	dig	wi:
+8.24	shovel	wi:
+8.25	hoe	arinwɛt
+8.25	hoe	aríni
+8.26	fork	móno
+8.27	rake	nɛnde
+8.31	sow	monu
+8.311	seed	tirí
+8.32	mow, reap	ɪ́rtit
+8.32	mow, reap	ɪrtidanúllɪrtinú
+8.33	sickle, scythe	ɖotú
+8.33	sickle, scythe	nonílorɲadu
+8.33	sickle, scythe	oriɲalanú
+8.34	thresh	áɽoláɖu
+8.35	threshing-floor	ordú
+8.35	threshing-floor	ordɪ́l
+8.41	crop, harvest	or
+8.41	crop, harvest	orí
+8.44	barley	bóldu
+8.44	barley	ból
+8.46	oats	ka:ltonú
+8.46	oats	ka:liní
+8.48	rice	kardú
+8.48	rice	kardí
+8.51	grass	ɖa
+8.52	hay	konudi
+8.53	plant (noun)	ɖáŋol
+8.53	plant (noun)	ɖáŋoli
+8.531	plant (vb)	tu
+8.531	plant (vb)	tuwílltuwanú
+8.54	root	kírɪl
+8.54	root	kirilanú
+8.55	branch	orɲaduarʃa:t
+8.55	branch	orɲalaniarʃa:ní
+8.56	leaf	orŋu:da
+8.56	leaf	oriŋu:da
+8.57	flower	ultu
+8.57	flower	ule
+8.6	tree	ǰa:t
+8.6	tree	ǰa:ní
+8.61	oak	amuntɛ́nu
+8.61	oak	amonéllamonéni
+8.64	pine	orʃártat
+8.64	pine	uriʃartaní
+8.65	fir	ʈup
+8.65	fir	ʈubí
+8.66	acorn	ʃɛriniyalloko
+8.68	tobacco	ɖótú
+8.68	tobacco	nonílʃukúlum
+8.68	tobacco	ʃukulumílʈop
+8.68	tobacco	ʈobi
+8.69	smoke (tobacco)	ʃukúlum
+8.69	smoke (tobacco)	ʃukulumí
+8.691	pipe	tíŋol
+8.691	pipe	tíŋoli
+8.72	tree stump	iǰát
+8.72	tree stump	iǰé
+8.75	bark	ku:lbatu
+8.75	bark	bhykku:lbatéllku:lbaǰélbollorke
+8.76	sap	kɪŋíri
+8.81	palm tree	ɖiǰí
+8.82	coconut	ŋwaʈíri
+8.83	citrus fruit	karí
+8.84	banana tree	ʈwakí
+8.85	banyan	ʈwakóni
+8.91	sweet potato	ʃikɪlɛ́ri
+8.92	tapioca, manioc, cassava	kukulɛɽí
+8.93	gourd	bʊdí
+8.931	pumpkin, squash	ɖugí
+8.94	bamboo	ʃɪttírilɖwatíɽi
+8.96	fish poison (root)	ʃɪti
+8.97	nettle	ʃɛrgí
+8.98	mushroom	kwaʈa:r
+8.98	mushroom	kwaʈa:rí
+9.12	work	alač
+9.12	work	alaǰúlu
+9.14	bend	ʃótu
+9.14	bend	ʃotɪ́l
+9.15	fold	nuŋíri
+9.16	tie, bind	noŋát
+9.161	untie	kakiri
+9.18	chain	berʃíri
+9.19	rope, cord	kʊǰí
+9.192	knot (noun)	úǰi
+9.211	pound with fist	ʃurdí
+9.22	cut	tɛrʃí
+9.221	cut down	kučíri
+9.222	chop, hew	ɖitíri
+9.223	stab	ɖiǰílɖitíri
+9.23	knife	ulí
+9.24	scissors, shears	ebí
+9.25	ax	idí
+9.251	adze	ɖwiltintulidatu
+9.261	broken	ʃoka:r
+9.261	broken	ʃoka:rí
+9.27	split	ʃibílkwaɲíltʊrílkorí
+9.28	tear	utí
+9.29	flay, skin	kuɽuɽí
+9.34	spread out	ʈoŋɛrí
+9.341	hang up	edár
+9.341	hang up	edarílʃɪɽtunít
+9.341	hang up	ʃɪɽtuní
+9.342	press	edíledár
+9.342	press	edarí
+9.343	squeeze, wring	edátu
+9.343	squeeze, wring	edátu
+9.36	wash	noplɖíɽi
+9.37	sweep	ʃomádʊɽ
+9.46	bore	kugár
+9.46	bore	kugarí
+9.48	saw	ʃɪl
+9.49	hammer	ónu
+9.49	hammer	óni
+9.5	nail	ʃartí
+9.6	smith, blacksmith	bíɽʃu
+9.6	smith, blacksmith	biɽʃulú
+9.61	forge	anɖɪ́č
+9.61	forge	anɖiǰí
+9.62	anvil	ʃokí
+9.63	cast (metals)	kukár
+9.63	cast (metals)	kukarí
+9.64	gold	kuku
+9.64	gold	kukíl
+9.65	silver	udatu
+9.67	iron	tirǰílbodí
+9.68	lead (noun)	ʃʊɽgilŋaǰi
+9.69	tin, tinplate	bɪɽgíɽi
+9.71	potter	bɪ́ɽgi
+9.72	mold (clay etc)	karí
+9.73	clay	kaʈaʈí
+9.74	glass	bilʈiŋé
+9.75	weave, plait	bɪɽí
+9.76	basket	kubílolilɖi
+9.77	mat	ʃwakíɽi
+9.771	rug	tɪŋeri
+9.78	netbag	ʃuni
+9.79	fan (noun)	ɛrtí
+9.791	fan (vb)	aŋɪ́ri
+9.81	carve	kiʈiʈí
+9.82	sculptor	ŋaǰi
+9.83	statue	ɖibí
+9.84	chisel	kuǰí
+9.88	paint (noun)	obukɛ́ri
+9.89	paint (vb)	ɖibí
+10.11	move	otiɖεkεki
+10.12	turn over	ŋaǰi
+10.13	turn around	ʈa:ŕi
+10.14	wind, wrap	úbi
+10.15	roll	ʈuɽí
+10.16	drop (vb)	kuté
+10.16	drop (vb)	kotíŋ
+10.17	twist	ɖuki
+10.21	rise	katatí
+10.22	raise, lift	ʈári
+10.23	fall	bʊdí
+10.24	drip	anɖi
+10.25	throw	ŋaǰí
+10.252	catch (ball)	úbi
+10.26	shake	ɖurʃí
+10.32	flow	iʃá
+10.33	sink	ʈwaiʃá
+10.34	float	uɲɪɽíllʊŋiɽi
+10.35	swim	ʈwaléiʃá
+10.351	dive	baliʃa
+10.352	splash	twe
+10.36	sail (vb)	kaytwé
+10.37	fly (vb)	aǰɛ́ɽiʃá
+10.38	blow	kwabí
+10.41	creep, crawl	balí
+10.412	kneel	bidí
+10.413	crouch	warí
+10.42	slide, slip	walí
+10.43	jump, leap	ɔ́liŋirilɔ́l
+10.431	kick	tuʈí
+10.44	dance	kagí
+10.45	walk	uʃɪ́ɽkagí
+10.451	limp	ɔŋguríkagí
+10.46	run	uríkagí
+10.47	go	atunɖwarkagí
+10.471	go up	koté
+10.472	climb	otíri
+10.473	go down	ka:ǰí
+10.474	go out	kumílorgí
+10.48	come	kuǰí
+10.481	come back	kaʈí
+10.49	go away, depart	ɔ́ŋgul
+10.491	disappear	ʃóʈu
+10.491	disappear	ʃóʈillor
+10.52	follow	tɪrɪmbɪ́l
+10.52	follow	tɪrɪmbɪlé
+10.53	pursue	ɖáko
+10.53	pursue	ɖakí
+10.56	approach	ʈiʈílillʈiʈí
+10.57	enter	iɽinɖokolá
+10.57	enter	iɽinɖokilí
+10.61	carry (bear)	iɽinɖokolá
+10.61	carry (bear)	iɽinɖokilí
+10.74	bridge	konurélkwali
+10.75	carriage, wagon, cart	kwaluré
+10.76	wheel	aŋíri
+10.77	axle	ʃwéri
+10.78	yoke	kagí
+10.81	ship	eleri
+10.83	boat	kuɲí
+10.831	canoe	ʃar
+10.831	canoe	ʃɛrí
+10.832	outrigger	ʈí
+10.84	raft	ka:gíri
+10.85	oar	aténeri
+10.851	paddle (noun)	kuɲílbo:dí
+10.852	row (vb)	ɖwaǰí
+10.86	rudder	warkí
+10.87	mast	warí
+10.88	sail (noun)	elé
+10.89	anchor	bigí
+10.91	harbor, port	kuǰí
+10.92	land (vb)	girǰúlu
+11.11	have	orialé
+11.12	own, possess	kʊ́rtu
+11.13	take	ma:rŋúl
+11.14	seize, grasp	ɪrár
+11.14	seize, grasp	ɪrarí
+11.15	hold	ɖalǰátldodɛrát
+11.16	get, obtain	ʈi
+11.17	keep, retain	aŋiri
+11.18	thing	ka:gí
+11.21	give	óɲu
+11.22	give back	ʃaní
+11.25	save, rescue	túrba
+11.25	save, rescue	turbanú
+11.28	harm, injure, damage	oʈɛɲɛ
+11.31	seek, look for	ančí
+11.32	find	ʃaní
+11.33	lose	ʃaní
+11.34	release, let go	ekí
+11.51	rich	ʃánundop
+11.53	beggar	girǰúluɪnǰɪ́ri
+11.54	avaricious, stingy	girǰúluwattiní
+11.61	lend	ɪddmeɽi
+11.63	owe	kál
+11.64	debt	kál
+11.65	pay (vb)	ʊr
+11.66	account, reckoning	ʈwalé
+11.69	tax, tribute	or
+11.77	hire	or
+11.78	wages	tʊr
+11.79	earn	bal
+11.81	buy	twar
+11.82	sell	tway
+11.83	trade, barter	top
+11.84	merchant	uǰí
+11.85	market (place)	akí
+11.86	store, shop	ǰɛrí
+11.87	price	tɛbí
+11.88	dear (costly, expensive)	akí
+11.89	cheap	ulát
+11.91	share (distribute)	tulí
+11.92	weigh	ʃwakíɽi
+12.1	after	ʃobílɖerí
+12.11	place	ɪddɪneɽiledirí
+12.2	beside	tɛrʃí
+12.3	down, below	bukí
+12.4	before	kuǰí
+12.41	right (side)	torí
+12.5	inside, in	kugí
+12.6	outside	kwakíri
+12.7	under	ʈwáy
+12.8	up, above	ʈwale
+12.11	place	tayn
+12.12	put	twar
+12.13	sit	ʊrdʊ́r
+12.14	lie down	kulát
+12.15	stand	ǰidú
+12.16	remain, stay	ʊr
+12.17	remains, left overs	bukuʈál
+12.21	collect, gather	wéɪŋ
+12.212	pick up	ɲɪl
+12.213	pile up	ɔ́kʊr
+12.22	join, unite	durǰírla:ǰér
+12.23	separate	udiʃár
+12.232	divide	tokɪɲár
+12.24	open	ɪrʃumál
+12.25	shut, close	kotonál
+12.26	cover	tɪrílŋwarí
+12.27	hide, conceal	tɛtí
+12.31	high	unutu
+12.32	low	aǰelŋur
+12.33	top	wattunú
+12.34	bottom	ɖoǰí
+12.35	end	ɖoǰí
+12.352	pointed	ʃɛrdú
+12.353	edge	áǰe
+12.36	side	wattunú
+12.37	middle, center	koloká
+12.41	right (side)	oʈʊ́r
+12.42	left (side)	ɖoǰí
+12.43	near (adv)	ʃɛrdú
+12.44	far (adv)	torǰá
+12.45	east	ŋwa:tatnɪ́ŋ
+12.46	west	ŋwátat
+12.47	north	ɖotú
+12.47	north	noní
+12.48	south	úraŋ
+12.48	south	úri
+12.53	grow	arʃɛ
+12.541	span, fathom	ʈur
+12.55	large, big	ʈur
+12.56	small, little	ʈur
+12.57	long	kɛrʃelkɛl
+12.58	tall	kul
+12.58	tall	kúli
+12.59	short	álki
+12.61	wide, broad	ɛkí
+12.62	narrow	ber
+12.63	thick (in dimension)	óra
+12.65	thin (in dimension)	tóǰuk
+12.67	deep	kɪ́ɲu
+12.68	shallow	ʈíʃu
+12.71	flat	kwárʃu
+12.73	straight	kwalát
+12.74	crooked	ɪddu
+12.75	hook	wit
+12.76	corner	buɽébuɽé
+12.77	cross	buɽebɛ́r
+12.78	square	buɽióra
+12.81	round	buɽétiʃú
+12.82	circle	tárbo
+12.83	sphere, ball	buréburé
+12.85	hole	kugí
+12.92	like, similar	ʈuwɛ́ŋ
+12.93	change	ɪnǰíri
+13.0	zero, nothing	ɪnǰíri
+13.1	one	wa:tiní
+13.2	two	tɛtekóŋ
+13.3	three	wa:tiní
+13.4	four	ɪnǰíri
+13.5	five	ɪɲát
+13.6	six	kommɪ́ŋ
+13.7	seven	ulát
+13.8	eight	kwalí
+13.9	nine	ara
+13.10	ten	ʊr
+13.101	eleven	kal
+13.102	twelve	oráno
+13.103	fifteen	óra
+13.104	twenty	orakó
+13.105	hundred	toǰúnu
+13.106	thousand	toǰukó
+13.14	every, all	ʃíni
+13.15	much, many	er
+13.16	more	burǰɪ́l
+13.16	more	burǰali
+13.17	little (quantity), few	torɽá
+13.18	enough	kwalakwala
+13.181	some	kal
+13.19	multitude, crowd	ɛl
+13.21	full	e:lá
+13.22	empty	ŋaǰúŋ
+13.23	part, piece	ŋaɲɪ́ndu
+13.24	half	namɛɽí
+13.33	alone, only	aderi
+13.34	first	ʃwaʃáŋ
+13.35	last	ka:lí
+13.36	second	ka:lí
+13.37	pair	tebí
+13.38	two times	ololúŋ
+13.44	three times	ǰɛnɪ́ŋuŋ
+14.11	time	bɛʈáŋbɛʈaŋúŋ
+14.12	age	olɪŋi
+14.14	young	kɛdɛre
+14.15	old	ɛlkáŋ
+14.16	early	ulál
+14.17	late	ɪtɛrí
+14.18	now	íǰiri
+14.19	immediately	ʃɪɽɪŋ
+14.21	swift, fast, quick	ulál
+14.22	slow	ulálkɛ́le
+14.23	hasten, hurry	ɪttɪrí
+14.24	retard, delay	ɪɲɪrí
+14.25	begin, beginning	alluŋ
+14.252	last, endure	oŋanɪ́ŋ
+14.26	end (temporal)	wal
+14.27	finish	walɪmbɪ́llɛ́luri
+14.29	ready	tobniátu
+14.29	ready	tobniál
+14.31	always	ič
+14.32	often	kɪragé
+14.33	sometimes	ɪnnimát
+14.331	soon	ulultú
+14.332	long-time (for a)	u:ɲɪ́t
+14.34	never	bíʃɛt
+14.35	again	war
+14.41	day	ʃa:ná
+14.42	night	nontú
+14.42	night	nontí
+14.43	dawn	ʃɪn
+14.43	dawn	ʃiní
+14.44	morning	kɪt
+14.45	noon, midday	o:míɲ
+14.451	afternoon	a:lkɛ́li
+14.46	evening	ilí
+14.47	today	nontú
+14.47	today	nontí
+14.48	tomorrow	iʃí
+14.481	day-after-tomorrow	iʃí
+14.49	yesterday	iʃí
+14.491	day-before-yesterday	kúči
+14.51	hour	iǰi
+14.53	clock, timepiece	táɲi
+14.61	week	íŋi
+14.62	Sunday	ʃɛ́le
+14.63	Monday	ŋay
+14.64	Tuesday	ŋay
+14.65	Wednesday	ʃumʊ́r
+14.66	Thursday	kiyeri
+14.67	Friday	kiyeri
+14.68	Saturday	wey
+14.71	month	ololo
+14.73	year	uč
+14.74	winter	ŋéli
+14.75	spring	ŋéli
+14.76	summer	ilíri
+14.77	autumn	ʃalči
+14.78	season	walákʊr
+15.212	sniff	oɽí
+15.22	smell (vb trans)	úri
+15.25	fragrant, good smelling	oɽí
+15.26	stinking, bad smelling	úri
+15.31	taste	kɛ́le
+15.35	sweet	úri
+15.36	salty	te
+15.37	bitter	baɼɽá
+15.38	acid, sour	ɖoɖeri
+15.39	brackish	ʃuní
+15.41	hear	tatimí
+15.42	listen	bʊr
+15.44	sound, noise	ótillɔ́ti
+15.45	loud	kóɲi
+15.46	quiet, silence	ɖúrilʃwalákur
+15.51	see	ʃiyát
+15.52	look, look at	ʈiyát
+15.55	show	ʈílur
+15.56	shine	ʈilínɖú
+15.57	bright	orgí
+15.61	color	ʃwat
+15.62	light (in color)	wi
+15.63	dark (in color)	wi:míŋ
+15.64	white	ʊ́rguŋllórguŋ
+15.65	black	ʃiɽinɖúllʃiɽiyunɖú
+15.66	red	ʃíɽi
+15.67	blue	ʈu:rgát
+15.69	yellow	oɲúr
+15.71	touch	kuʃilíkene
+15.712	pinch	kuʃilíkommíŋ
+15.72	feel	oɲút
+15.74	hard	ɖiʈí
+15.75	soft	oʃúm
+15.76	rough	odí
+15.77	smooth	warí
+15.78	sharp	a:buldí
+15.79	blunt, dull	ka:dí
+15.81	heavy	ílware
+15.82	light (in weight)	detuŋát
+15.83	wet, damp	ɪ́lɛmi
+15.84	dry	alwarmí
+15.85	hot	úǰaluǰaaŋi
+15.851	warm	oɲí
+15.86	cold	uɲuŋálto
+15.86	cold	uɲuŋalé
+15.87	clean	oɲí
+15.88	dirty, soiled	moní
+15.89	wrinkled	ɖetuŋé
+16.11	soul, spirit	balǰiki
+16.15	surprised, astonished	ɪlŋúku
+16.18	good fortune, luck	oɲí:
+16.23	joyful, glad, happy	kul
+16.25	laugh	ʃárdu
+16.251	smile	bɪ́ɽu
+16.26	play	álwari
+16.27	love	ulí
+16.29	kiss	alwarí
+16.31	pain	ore:nɖu
+16.32	grief, sorrow, sadness	órelkurʃé
+16.33	anxiety, worry	kaʃéri
+16.34	regret, be sorry	togí
+16.35	pity	kɛŋ
+16.37	cry, weep	bɪ́ɽu
+16.38	tear (noun)	kɛ́ŋ
+16.39	groan	kɛmmíŋ
+16.44	envy, jealousy	weerotiri
+16.45	shame (noun)	ʃa:lmé
+16.48	proud	kwaɲékúnuŋ
+16.51	dare	kwaɲékommiŋ
+16.52	brave	dalǰát
+16.53	fear, fright	ɪrkúni
+16.54	danger	a:lɪ́r
+16.62	desire, want	ŋɛlí
+16.622	choose	ʃini
+16.63	hope	ɪ́rgotiŋ
+16.65	faithful	ireri
+16.66	true	yɛrí
+16.67	lie, tell lies	ɪrɛrí
+16.68	deceit	a:lkí
+16.69	forgive	ʃwi
+16.71	good	ɪr
+16.71	good	ɪranú
+16.73	right, correct	kododoŋ
+16.74	wrong	todorát
+16.76	fault	iliɽi
+16.77	mistake, error	iliɽi
+16.78	blame	ɪlǰɪlǰí
+16.79	praise	kɛrʃar
+16.79	praise	kɛrʃɛrí
+16.81	beautiful	kelar
+16.81	beautiful	kelari
+16.82	ugly	kɛlɛndóp
+16.83	greedy	ʃiní
+16.84	clever	bagirí
+17.11	mind	walakɛ́r
+17.13	think (= reflect)	ʃureri
+17.14	think (= be of the opinion)	weynuánu
+17.14	think (= be of the opinion)	weynuánillwe:ní
+17.15	believe	yɛ́ri
+17.16	understand	alkí
+17.17	know	kuʃili
+17.171	guess	kɪŋŋɪ́ri
+17.172	imitate	ʃini
+17.18	seem	ki:ŋalí
+17.19	idea, notion	kaʃé
+17.21	wise	warí
+17.22	foolish, stupid	bɪɽumɪ́ŋ
+17.23	insane, crazy	bɪɽunɪ́ŋ
+17.24	learn	oǰí
+17.242	study	oŋul
+17.242	study	oŋode
+17.25	teach	oŋ
+17.26	pupil	tóndukal
+17.28	school	áte
+17.31	remember	áŋ
+17.32	forget	óoŋ
+17.34	clear, plain	ɪʃɪné
+17.35	obscure	kaǰeye
+17.36	secret	ɪʃɪnewátuwe
+17.37	sure, certain	náye
+17.38	explain	ǰoníŋ
+17.41	intention, purpose	ǰe
+17.42	cause	ǰátuwe
+17.43	doubt	ɖéyni
+17.44	suspect	nánɖukal
+17.441	betray	wey
+17.45	need, necessity	waréri
+17.46	easy	ʃwarʃí
+17.47	difficult	koǰiǰí
+17.49	way, manner	kantúkoǰí
+17.51	and	ʃwarʃí
+17.52	because	ʈural
+17.53	if	weykoní
+17.54	or	turmí
+17.55	yes, affirmative	wéy
+17.56	no, negative	kuréri
+17.61	how?	weykiŋyɛrí
+17.62	how many?	učayi
+17.63	how much?	wey
+17.64	what?	wey
+17.65	when?	or
+17.65	when?	ordanú
+17.66	where?	ʈɛkí
+17.67	which?	wéyllweyíllweí
+17.68	who?	yándeayi
+17.69	why?	aylaŋayi
+18.11	voice	warí
+18.12	sing	ɛlí
+18.13	shout, cry out	moní
+18.15	whisper	kordɛ́ɽi
+18.16	mumble	we:rotiri
+18.17	whistle	twéy
+18.18	shriek, screech	uʃí
+18.19	howl	uwkoǰí
+18.21	speak, talk	kordɛ́ɽi
+18.211	stutter, stammer	ɪmilí
+18.22	say	kɛlɛrí
+18.221	tell story	gɛrɛrí
+18.222	speech (make a)	bát
+18.222	speech (make a)	báde
+18.23	silent (be)	kɛ́rʃatu
+18.23	silent (be)	kɛrʃári
+18.24	language	bát
+18.24	language	báde
+18.26	word	orundɛ́r
+18.28	name	uʈe:ʈul
+18.28	name	uʈe:ʈulí
+18.31	ask (question, inquire)	kiláŋ
+18.31	ask (question, inquire)	kilí
+18.32	answer	kwi
+18.32	answer	kwílu
+18.33	admit, confess	odú
+18.33	admit, confess	odiní
+18.34	deny	kudu
+18.34	deny	kulí
+18.35	ask, request	kudúoná
+18.36	promise	arínɖɛl
+18.36	promise	arinɖɛ́li
+18.38	forbid	kɛl
+18.38	forbid	kédu
+18.39	rebuke, scold	ɪ́nni
+18.41	call (=summon)	kor
+18.41	call (=summon)	korí
+18.42	call (=name)	ʃɪl
+18.42	call (=name)	ʃíli
+18.43	announce	ʃilŋollʃorál
+18.43	announce	ʃoralílmonɖóŋmondɖílnaǰenakol
+18.44	threaten	andí
+18.45	boast	ʃɪl
+18.45	boast	ʃíli
+18.51	write	ʃillidú
+18.51	write	ʃillilí
+18.56	paper	doŋnít
+18.56	paper	doŋní
+18.57	pen	ɖot
+18.57	pen	ɖoŋ
+18.61	book	oǰár
+18.61	book	oyɛrílloǰiǰarílanɖár
+18.61	book	anɖɛ́ri
+18.67	poet	ɖo:tníŋ
+18.67	poet	ɖoŋmíŋ
+18.71	flute	kordé
+18.72	drum	ʃabí
+18.73	horn, trumpet	togí
+18.74	rattle	bikedáŋ
+18.74	rattle	bikenáŋ
+19.11	country	kɪl
+19.11	country	kɪ́li
+19.12	one's native country	unokór
+19.12	one's native country	unokʊ́ri
+19.15	city, town	bálu
+19.15	city, town	balí
+19.16	village	weytullwe:tú
+19.16	village	weyl
+19.17	boundary	weytunít
+19.17	boundary	weylnɪ́ni
+19.21	people (populace)	bodilɪllalɖí
+19.23	tribe, clan	tɛgí
+19.25	staff, walking stick	weynɖwáǰe
+19.31	rule, govern	weynotɪ́ɲe
+19.32	king, ruler	ɛleri
+19.33	queen	korɲal
+19.33	queen	korɲalí
+19.36	noble, nobleman	uǰí
+19.37	citizen, subject	uč
+19.41	master	učʃwamíŋltopkeŋiŋ
+19.42	slave	tuɽu
+19.43	servant	turunít
+19.44	freeman	moníŋ
+19.44	freeman	monɪŋdúlu
+19.45	command, order	mondóŋ
+19.45	command, order	mondoŋílʃorál
+19.45	command, order	ʃoralíltoŋkáɽuŋ
+19.45	command, order	toŋkáɽuŋi
+19.46	obey	alač
+19.46	obey	alɛǰúlu
+19.47	let, permit	uriɲ
+19.47	let, permit	uríɲe
+19.54	neighbor	kwaɽáŋ
+19.54	neighbor	kwaɽí
+19.56	guest	moníŋ
+19.56	guest	monɪŋdúlu
+19.57	host	kóɽu
+19.57	host	koɽí
+19.58	help, aid	orŋoɽu
+19.58	help, aid	oranuŋoɽi
+19.59	hinder, prevent	koru
+19.59	hinder, prevent	korí
+19.72	prostitute	wakiní
+20.11	fight (vb)	kwaɽekɛní
+20.13	war, battle	kari
+20.14	peace	tebi
+20.15	army	anʃat
+20.15	army	anʃɛní
+20.17	soldier	koɲar
+20.17	soldier	koɲɛrí
+20.21	weapons, arms	ʊtɲár
+20.21	weapons, arms	ʊtɲɛrí
+20.22	club	wakiní
+20.222	battle-ax	korolnít
+20.222	battle-ax	korolnɪ́ni
+20.23	sling	korolnačenaɖotú
+20.24	bow	orí
+20.24	bow	oriɲɪ́l
+20.25	arrow	ʃórot
+20.25	arrow	ʃorodí
+20.26	spear	ʃórot
+20.26	spear	ʃorodí
+20.28	gun, cannon	kaŋé
+20.31	armor (defensive)	ɛrtílǰilí
+20.33	helmet	abiǰí
+20.34	shield	ʈiré
+20.34	shield	ʈiʈyé
+20.35	fortress	ʈirɛrí
+20.36	tower	ʃɪ́lwelbɛ́lwe
+20.41	victory	kórte
+20.41	victory	kortílllkortɛnúlʃilŋól
+20.41	victory	ʃilŋóli
+20.42	defeat	tuǰéri
+20.43	attack	ʃɪ́lwe
+20.44	defend	ʃɪl
+20.44	defend	ʃilí
+20.45	retreat	ʃekár
+20.45	retreat	ʃekarí
+20.46	surrender	ʃekát
+20.46	surrender	ʃekaní
+20.47	captive, prisoner	ɲɛlár
+20.47	captive, prisoner	ɲelarí
+20.471	guard, sentinel	armeri
+20.48	booty, spoils	arme
+20.49	ambush	aːndóŋayi
+20.52	fishhook	aŋí
+20.53	fishing line	togí
+20.55	fish trap	kiŋčármɪŋ
+20.56	bait	túlba
+20.56	bait	tulbanú
+20.62	shoot	kar
+20.62	shoot	karí
+20.63	miss (target)	tobi
+20.64	trap (noun)	ɪdundwáre
+20.64	trap (noun)	ɪlinwáre
+20.65	trap (vb)	monekotóɲi
+21.11	law	waʃé
+21.16	judge (vb)	ʈwarilborgí
+21.17	judgment	twar
+21.17	judgment	twarilborkár
+21.17	judgment	borkarí
+21.18	judge (noun)	bɛlwé
+21.18	judge (noun)	bɛlínwe
+21.21	plaintiff	bɛl
+21.21	plaintiff	béli
+21.22	defendant	bɛlŋól
+21.22	defendant	bɛlŋúli
+21.23	witness	bɛlŋolúr
+21.23	witness	bɛlŋolúri
+21.24	swear	bɛlɲar
+21.24	swear	bɛlɲɛrí
+21.25	oath	ibiterí
+21.31	accuse	ibitɛrí
+21.32	condemn	ʊrdú
+21.32	condemn	ʊrdiní
+21.33	convict (vb)	ɖir
+21.34	acquit	bɛlwe:kuní
+21.35	guilty	ʃalmí
+21.36	innocent	tuʃí
+21.37	penalty, punishment	ɖurʃí
+21.38	fine	kólkɛŋ
+21.39	prison, jail	ikaŋól
+21.42	murder	ɖwaŋ
+21.42	murder	ɖwaŋí
+21.44	rape	tór
+21.46	arson	torgar
+21.46	arson	torgari
+21.47	perjury	bótwal
+21.47	perjury	botuwalí
+21.51	steal	unɖuláŋ
+21.51	steal	unɖilí

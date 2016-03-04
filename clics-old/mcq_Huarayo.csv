@@ -1,0 +1,712 @@
+@classification: Trans-New Guinea,Southeast Papuan,Koiarian,Baraic
+@ids-name: Ese_Ejja_Huarayo_Phonemic
+@iso: mcq
+@language: Ese (Huarayo)
+@size: 705
+@source: ids
+@variety: Huarayo
+1.1	world	meši
+1.21	earth, land	meši
+1.212	earth=ground, soil	meši
+1.213	dust	kiapoi
+1.214	mud	našapa
+1.215	sand	mešihahi
+1.22	mountain, hill	ebawa
+1.222	cliff, precipice	epawa
+1.222	cliff, precipice	ekwewewe
+1.23	plain, field	weniweni
+1.25	island	edoxoxa
+1.28	cave	edoxo
+1.31	water	e'na
+1.324	foam	wapa
+1.33	lake	bai
+1.341	lagoon	baisisi
+1.35	wave	enašoxo
+1.36	river, stream, brook	e'na
+1.362	whirlpool	baeti
+1.37	spring, well	taa
+1.38	swamp	našapawawawawa
+1.39	waterfall	etaasisi
+1.41	woods, forest	ebio
+1.42	tree (cf 08.600)	akwi
+1.44	stone, rock	saso
+1.51	sky	eya
+1.52	sun	ešeti
+1.53	moon	baʔi
+1.54	star	čiče
+1.55	lightning	poxexe
+1.56	thunder	kwehi
+1.57	lightning (as striking)	ka'aa
+1.58	storm	enaʔai
+1.59	rainbow	ešixe
+1.61	light (noun)	ededoxi
+1.62	darkness	ededoxiča'ma
+1.63	shade, shadow	ešawa
+1.64	dew	ešioo
+1.71	air	beni
+1.72	wind	beni
+1.73	cloud	bo
+1.75	rain (noun)	e'na
+1.81	fire	kwaki
+1.83	smoke (noun)	wičača
+1.84	ashes	powi
+1.851	burn (vb trans)	kwakwakwe
+1.852	burn (vb intrans)	hihikwe
+1.86	light, kindle, ignite	kwa'kikwakwakwe
+1.861	extinguish	čiokwe
+1.87	match (noun)	čikwi
+1.88	firewood	kwaki
+1.89	charcoal	kwakikoxaša
+2.1	person, human being	eseexa
+2.1	person, human being	dexa
+2.21	man (vs. woman)	dexa
+2.22	woman	epona
+2.25	boy	dexašoi
+2.26	girl	dexapahi
+2.261	young woman (adolescent)	eponaešoi
+2.27	child	dexasisi
+2.27	child	čawa
+2.28	infant, baby	ebakwa
+2.31	husband	eyawe
+2.32	wife	ewanase
+2.33	marry	wanakwe
+2.35	father	kaka
+2.35	father	iča
+2.36	mother	nai
+2.38	married man	eyawe
+2.39	married woman	ewanase
+2.41	son	bakwadexa
+2.42	daughter	bakwa'se
+2.44	brother	doe
+2.444	older brother	nono
+2.445	younger brother	čawa
+2.45	sister	xoʔi
+2.454	older sister	'ʔaʔiase
+2.455	younger sister	šewe
+2.458	twins	beka'ha
+2.46	grandfather	baba
+2.461	old man	ečii
+2.47	grandmother	ʔano
+2.471	old woman	eponačii
+2.48	grandson	osekwa
+2.49	granddaughter	osekwa
+2.51	uncle	kaka
+2.51	uncle	iča
+2.511	mother's brother	toto
+2.512	father's brother	kaka
+2.512	father's brother	iča
+2.52	aunt	nai
+2.521	mother's sister	nai
+2.522	father's sister	nene
+2.53	nephew	čawa
+2.54	niece	šewe
+2.55	cousin	nono
+2.56	ancestors	eseexaečiikiana
+2.72	stepmother	šanase
+2.75	orphan	xiaxi'ma
+2.76	widow	eyaweemanoʔio
+2.77	widower	ewanaseemanoʔio
+2.81	relatives, kinsmen	eseexa
+2.91	I	eya
+2.91	I	eyaya
+2.92	you (singular)	miya
+2.92	you (singular)	miyaya
+2.93	he/she/it	oya
+2.93	he/she/it	oyaya
+2.94	we	ekwana
+2.94	we	ekwanaya
+2.941	we (inclusive)	eseha
+2.95	you (plural)	mikiana
+2.95	you (plural)	mikianaya
+2.96	they	okwanaya
+2.96	they	o'kwanaya
+3.16	pasture	beni
+3.23	cow	anaʔai
+3.32	boar	yoxi
+3.35	pig	ɲoʔai
+3.54	hen	seeʔiwi
+3.55	chicken	dexahao
+3.57	duck	nono
+3.58	nest	e'xa
+3.582	seagull	enakweibehe
+3.583	heron	boka
+3.584	eagle	keewai
+3.585	hawk	wipa
+3.586	vulture	ba'bosewawa
+3.591	bat	biɲa
+3.592	parrot	čako
+3.594	dove	kweibehe
+3.596	owl	pexepexe
+3.61	dog	iɲawewa
+3.614	rabbit	šaxa
+3.63	mouse, rat	dawičo
+3.65	fish	na'o
+3.652	fin (dorsal)	eiɲa
+3.653	fishscale	esope
+3.654	gill	ešaxa
+3.655	shell	bexo
+3.664	stingray	ibabi
+3.665	freshwater eel	wioʔai
+3.73	bear	a'na
+3.75	deer	dokwei
+3.76	monkey	do
+3.811	louse	bia
+3.814	centipede	konopexa
+3.815	scorpion	axitsewe
+3.816	cockroach	čapa
+3.817	ant	poxiaso
+3.818	spider	baša
+3.82	bee	wini
+3.821	beeswax	winitaʔa
+3.822	beehive	kiipaši
+3.823	wasp	bia
+3.83	fly	we'we
+3.831	sandfly (midge), gnat	di
+3.832	mosquito	di
+3.84	worm	soso
+3.85	snake	akwišopeo
+3.91	firefly	sokwai
+3.92	butterfly	xapipi
+3.94	snail	šemo
+3.95	frog	enawoi
+3.96	lizard	šabanakwa
+3.97	crocodile, alligator	šai
+3.98	turtle	dati
+4.12	skin, hide	ehee
+4.13	flesh	eyami
+4.14	hair (head)	e'ɲa
+4.142	beard	ekwaša
+4.144	body hair	e'ɲa
+4.15	blood	e'na
+4.151	vein, artery	ehaona
+4.16	bone	e'sa
+4.162	rib	doxoxanixi
+4.17	horn	šedana
+4.18	tail	e'wi
+4.19	back	edaasa
+4.191	spine	edaasa
+4.2	head	esapa
+4.202	skull	ekipawexa
+4.205	forehead	ebakwa
+4.207	jaw	ešemosa
+4.208	cheek	ešemoyami
+4.21	eye	ekoxa
+4.212	eyebrow	ekoxasaɲa
+4.213	eyelid	ekoxahee
+4.214	eyelash	ekoxaɲa
+4.22	ear	ešaxa
+4.232	mucus (nasal)	wiši
+4.24	mouth	enaba
+4.241	beak	e'wi
+4.25	lip	ekwasa
+4.26	tongue	eyana
+4.27	tooth	e'se
+4.271	gums	esekweonoxi
+4.272	molartooth	yamaxa
+4.28	neck	epiki
+4.29	throat	enaa
+4.3	shoulder	ebeoxo
+4.302	collarbone	esepexasa
+4.31	arm	yaa
+4.321	wrist	emešošixi
+4.33	hand	e'me
+4.34	finger	e'mesisi
+4.342	thumb	e'mesisi
+4.344	fingernail	e'mekiši
+4.345	claw	e'me
+4.35	leg	e'sa
+4.351	thigh	ekise
+4.36	knee	ekwiʔo
+4.37	foot	ehioxi
+4.371	ankle	ešošixi
+4.374	footprint	ehioxi
+4.38	toe	ehioxi
+4.392	wing	ekwičo
+4.393	feather	e'ɲa
+4.4	chest	eseʔo
+4.41	breast (of woman)	etoxo
+4.412	nipple, teat	etoxo
+4.42	udder	etoxo
+4.43	navel	soo
+4.44	heart	ekihixi
+4.441	lung	ešaho
+4.45	liver	ekakwa
+4.451	kidney	eyopi
+4.46	stomach	esee
+4.461	intestines, guts	esee
+4.463	hip	ekaxete
+4.464	buttocks	e'wi
+4.49	testicle	ebiɲaxa
+4.492	penis	ekwii
+4.53	cough	ohokwe
+4.55	perspire	wišikwe
+4.56	spit	kwičoheakwe
+4.57	vomit	boiikwe
+4.58	bite	šoikwe
+4.59	lick	siokwe
+4.591	dribble	kwiikwiikwe
+4.61	sleep	kawikwe
+4.62	dream	ekawi
+4.64	break wind	ekwiši
+4.65	urinate	wiyakwe
+4.66	defecate	seekwe
+4.67	have sexual intercourse	toxokwe
+4.68	shiver	piopiokwe
+4.69	bathe	šakwe
+4.72	born (to be)	kwayakwe
+4.74	live, living, life	anikwe
+4.75	die, dead	manokwe
+4.751	drowned	wiʔikwe
+4.76	kill	kekwakwe
+4.77	corpse	dexawaxii
+4.78	bury (the dead)	moʔiokwe
+4.81	strong, mighty, powerful	kiakaʔa
+4.82	weak	ešibio
+4.84	sick, sickness	kianee
+4.841	fever	kiokio
+4.843	cold (catarrh)	ohooho
+4.85	wound, sore	čihi
+4.853	swelling	ešexe
+4.855	blister	čihi
+4.87	physician	eyamitekwa
+4.91	tired, weary	kiamano
+4.912	rest	manokwe
+4.912	rest	tawikwe
+4.92	lazy	kiamano
+4.93	bald	sapasio
+4.94	lame	hioxi
+4.95	deaf	šaxa'ma
+4.96	mute	soi'ma
+4.97	blind	toxa'ma
+4.99	naked, bare	daki'ma
+5.11	eat	ixiakwe
+5.12	food	eixiaxi
+5.121	cooked	kwakwakwe
+5.122	raw	eše
+5.123	ripe	kiahawa
+5.124	green, unripe	hawaʔaxa
+5.125	rotten	kiaʔiwi
+5.13	drink	išikwe
+5.14	hunger	kiašoʔi
+5.141	famine	kiašoʔi
+5.16	suck	bibikwe
+5.18	chew	ixiapašakwe
+5.21	cook	kwakwakwe
+5.22	boil (vb)	dawaokwakwe
+5.23	roast, fry	dawakwe
+5.26	pot, cooking vessel	meši
+5.31	dish	eixiaxi
+5.31	dish	tepe
+5.32	plate	tepe
+5.37	spoon	xohiwi
+5.38	knife	ehewixi
+5.39	fork	ekekwanekiaxi
+5.41	meal (a)	bobi
+5.41	meal (a)	nočii
+5.44	dinner	bobi
+5.44	dinner	eixiaxi
+5.46	peel	išakwe
+5.46	peel	čiokwe
+5.47	sieve, strain	ikwikwe
+5.48	scrape	kweasiokwe
+5.49	stir, mix	heawaxokwe
+5.55	meal, flour	tabo
+5.56	crush, grind	kweatamiikwe
+5.57	mill	ixiamoomeexi
+5.58	mortar	ekekwapohoxi
+5.61	meat	eyami
+5.64	soup, broth	enaʔoxo
+5.66	bean	xonoso
+5.71	fruit	exaxa
+5.712	bunch	soeɲa
+5.791	grease, fat	esei
+5.821	chili pepper	bišo
+5.84	honey	eka'na
+5.85	sugar	aka'na
+5.86	milk (noun)	toxo'na
+5.89	butter	esei
+5.9	beverage, drink	eišixi
+5.91	mead	eka'na
+5.94	fermented drink	eišixi
+5.94	fermented drink	bi'šo'na
+5.97	egg	e'xa
+6.11	put on (clothes)	yošokwe
+6.12	clothing, clothes	daki
+6.21	cloth	daki
+6.24	cotton	wapehe
+6.28	fur	ehee
+6.29	leather	ehee
+6.31	spin	meyokwe
+6.31	spin	baʔiokwe
+6.32	spindle	ebaʔoxi
+6.33	weave	sipikwe
+6.35	sew	sotokwe
+6.36	needle	esotoxi
+6.37	awl	ikwi
+6.38	thread	emahii
+6.42	woman's dress	daki
+6.44	shirt	daki
+6.46	skirt	kimaixi
+6.48	trousers	dakikise
+6.49	stocking, sock	eheoxi
+6.51	shoe	eheoxi
+6.55	hat, cap	eyoxahaxi
+6.71	ornament, adornment	boba
+6.74	bracelet	emehoʔiaxi
+6.75	necklace	eixi
+6.77	earring	baʔewanaxi
+6.91	comb	eyoxakekwašo
+6.93	razor	ehewixi
+6.95	soap	ebesaxi
+6.96	mirror	exatoxabatixi
+7.11	dwell, live	anikwe
+7.12	house	e'ki
+7.26	floor	meši
+7.43	chair	eanixi
+7.45	lamp, torch	ehaasowaxi
+7.48	trough	akwipexa
+7.53	ridgepole	ewisaxaxi
+7.55	beam	šašaxaaxi
+7.56	post, pole	ekone
+7.57	board	akwikekwasio
+7.58	arch	ekoixi
+8.15	cultivate, till	kekwakwe
+8.15	cultivate, till	banakwe
+8.22	dig	bohoʔiokwe
+8.31	sow	banakwe
+8.311	seed	e'so
+8.32	mow, reap	haakwe
+8.33	sickle, scythe	ehaaxi
+8.34	thresh	pičekwe
+8.42	grain (barley, oats etc)	e'so
+8.47	maize, corn	ešixe
+8.48	rice	siponeexaxa
+8.51	grass	sipone
+8.531	plant (vb)	banokwe
+8.54	root	akwisaxa
+8.55	branch	eɲa
+8.56	leaf	akwiʔiɲa
+8.57	flower	ešaša
+8.6	tree	akwi
+8.67	vine	xono
+8.68	tobacco	šawanoeixiawičačaxi
+8.69	smoke (tobacco)	šawanoixiawičačakwe
+8.73	tree trunk	akwi
+8.74	forked branch	akwiyaa
+8.75	bark	ehee
+8.81	palm tree	xi
+8.84	banana tree	ehawi
+8.92	tapioca, manioc, cassava	eki
+8.931	pumpkin, squash	tepe
+8.94	bamboo	dewe
+8.941	sugar cane	e'ka
+8.96	fish poison (root)	akwimanoxe
+8.98	mushroom	di
+9.11	do, make	akwe
+9.12	work	akwe
+9.14	bend	heakoiikwe
+9.14	bend	kokwakwe
+9.15	fold	kabobokwe
+9.16	tie, bind	heonekiakwe
+9.161	untie	pičokwe
+9.19	rope, cord	ato
+9.19	rope, cord	xono
+9.192	knot (noun)	pošo
+9.21	strike (hit, beat)	pohokwe
+9.211	pound with fist	kwiakeakwe
+9.22	cut	haakwe
+9.222	chop, hew	kekwanekiakwe
+9.23	knife	ehaaxi
+9.25	ax	šošixi
+9.27	split	taakwe
+9.28	tear	isakwe
+9.29	flay, skin	heeišakwe
+9.31	rub, wipe	kwikwe
+9.32	stretch	šekwe
+9.33	pull	čiokwe
+9.341	hang up	baʔekwe
+9.342	press	iɲapeʔekwe
+9.35	pour	šokwe
+9.35	pour	wexokwe
+9.36	wash	šakakwe
+9.36	wash	taxakwe
+9.37	sweep	šabokwe
+9.38	broom	ešaboxi
+9.44	build	akwe
+9.46	bore	wexakwe
+9.461	hollow out	wexakwe
+9.73	clay	meši
+9.73	clay	našapa
+9.75	weave, plait	sipikwe
+9.76	basket	ešaha
+9.77	mat	xepi
+9.77	mat	ešihiyobosipi
+9.79	fan (noun)	epioxi
+9.791	fan (vb)	piokwe
+9.88	paint (noun)	etewexi
+9.89	paint (vb)	tewekwe
+10.11	move	heawexokwe
+10.14	wind, wrap	xaxakwe
+10.14	wind, wrap	bebokwe
+10.15	roll	xaxiataxaxakwe
+10.17	twist	sewikwe
+10.22	raise, lift	xekiasowakwe
+10.23	fall	otekwe
+10.24	drip	kwiikwiikwe
+10.25	throw	heakwe
+10.252	catch (ball)	mepekwe
+10.26	shake	kwikakakwe
+10.26	shake	xetiixaxakwe
+10.33	sink	wiʔikwe
+10.34	float	xeexeekwe
+10.35	swim	šokwišokwikwe
+10.37	fly (vb)	baʔesowatikwe
+10.38	blow	sipoheaakwe
+10.413	crouch	haanakwe
+10.413	crouch	xanoetikwe
+10.42	slide, slip	xatišipiʔitikwe
+10.43	jump, leap	sowaakwe
+10.431	kick	kišikwe
+10.44	dance	mahamahakwe
+10.44	dance	keekwe
+10.45	walk	heokwe
+10.46	run	kwahikwahikwe
+10.47	go	pokikwe
+10.471	go up	sowatikwe
+10.473	go down	haaotekwe
+10.473	go down	otetikwe
+10.474	go out	kwayakwe
+10.48	come	pekwe
+10.481	come back	xanoxatikwe
+10.49	go away, depart	potikwe
+10.491	disappear	xačamatikwe
+10.56	approach	etepekwe
+10.57	enter	nobikwe
+10.57	enter	anisowatikwe
+10.61	carry (bear)	dohokwe
+10.62	bring	yekwe
+10.67	push, shove	i'ɲaxiakwe
+10.71	road	eheoxi
+10.831	canoe	bi'še
+10.84	raft	esipi
+10.85	oar	ewibeheʔaiʔai
+10.852	row (vb)	yokwe
+10.92	land (vb)	beʔeniakwe
+10.92	land (vb)	kakwikwe
+11.11	have	eneti
+11.13	take	i'ɲakwe
+11.14	seize, grasp	i'ɲakwe
+11.15	hold	i'ɲakwe
+11.18	thing	akiana
+11.21	give	kiakwe
+11.22	give back	kiaʔiokwe
+11.24	preserve, look after	haawanakwe
+11.28	harm, injure, damage	kekwakwe
+11.31	seek, look for	šexakwe
+11.32	find	baʔiokwe
+11.34	release, let go	i'ɲawixokwe
+11.43	money	bexo
+11.44	coin	bexo
+11.54	avaricious, stingy	kianawe
+11.54	avaricious, stingy	kianišewi
+11.61	lend	kiakwe
+11.65	pay (vb)	kiakwe
+11.81	buy	xešekwe
+11.82	sell	kiakwe
+12.1	after	tiixe
+12.1	after	tiiho
+12.11	place	tixenee
+12.2	beside	mihixe
+12.3	down, below	kipaxe
+12.4	before	wiho
+12.41	right (side)	wixenee
+12.5	inside, in	kipaxe
+12.6	outside	payasixe
+12.7	under	ekipaxe
+12.8	up, above	biakwa
+12.8	up, above	eyawasixe
+12.12	put	iyakwe
+12.13	sit	anikwe
+12.14	lie down	haakwe
+12.15	stand	epinetikwe
+12.16	remain, stay	anikwe
+12.21	collect, gather	xešekwe
+12.21	collect, gather	mepekwe
+12.213	pile up	šabokwe
+12.22	join, unite	čičakwe
+12.23	separate	yaxekwe
+12.232	divide	yaxekwe
+12.24	open	šeʔakwe
+12.25	shut, close	kapakwe
+12.26	cover	iyakewakwe
+12.27	hide, conceal	taʔakwe
+12.31	high	kiaʔao
+12.32	low	kiakepe
+12.33	top	emato
+12.352	pointed	kiaʔiwi
+12.36	side	mihixe
+12.37	middle, center	mihixe
+12.41	right (side)	baneixe
+12.42	left (side)	šanixe
+12.43	near (adv)	kiačiinee
+12.44	far (adv)	kiaweša
+12.53	grow	čiikwe
+12.55	large, big	kiaʔao
+12.56	small, little	kiasisi
+12.57	long	kiaʔao
+12.59	short	kiakepe
+12.61	wide, broad	kiapone
+12.61	wide, broad	kiahepe
+12.62	narrow	kiatobi
+12.62	narrow	posiposi
+12.63	thick (in dimension)	kiasee
+12.65	thin (in dimension)	kiašiwi
+12.73	straight	kiapi
+12.74	crooked	kiakoi
+12.74	crooked	sewiwi
+12.78	square	kiasoe
+12.81	round	kopokopo
+12.83	sphere, ball	kiakopo
+12.85	hole	ewexa
+12.93	change	esosexekiakwe
+13.0	zero, nothing	ča'ma
+13.1	one	owe
+13.2	two	biawe
+13.2	two	beka
+13.5	five	e'me
+13.15	much, many	kiawisonee
+13.17	little (quantity), few	wisoʔama
+13.18	enough	kiawisonee
+13.21	full	kiaxexe
+13.22	empty	xexeʔama
+13.23	part, piece	emihi
+13.24	half	esexa
+13.34	first	ebionee
+13.35	last	tixenee
+13.37	pair	beka
+14.14	young	dexašoʔi
+14.15	old	ečii
+14.16	early	xiawa
+14.18	now	xeyawa
+14.21	swift, fast, quick	kwahikwahi
+14.22	slow	kiašono
+14.23	hasten, hurry	kwahikwahikwe
+14.24	retard, delay	šonošonokwe
+14.35	again	ooya
+14.41	day	epoxa
+14.42	night	sinekwa
+14.43	dawn	xapoxatiasixe
+14.44	morning	mekawaxe
+14.451	afternoon	mekawaxesinekwa
+14.46	evening	mekawaxesinekwa
+14.48	tomorrow	mekawaxe
+14.49	yesterday	yawaho
+14.74	winter	nayaha
+14.76	summer	ešekiaha
+15.35	sweet	kiabikia
+15.36	salty	kiasese
+15.37	bitter	kiapoe
+15.38	acid, sour	kiasese
+15.41	hear	šaxakwe
+15.42	listen	šaxakwe
+15.51	see	bakwe
+15.52	look, look at	bakwe
+15.55	show	bameekwe
+15.56	shine	siokwe
+15.57	bright	kiasionee
+15.64	white	oše
+15.65	black	tewe
+15.66	red	yoʔo
+15.66	red	woʔo
+15.67	blue	kawa
+15.68	green	kawa
+15.69	yellow	hawa
+15.71	touch	mišikwe
+15.712	pinch	čixikwe
+15.74	hard	kiakaʔa
+15.75	soft	kianoma
+15.75	soft	kiapoʔi
+15.76	rough	kiašaa
+15.77	smooth	šaaʔama
+15.78	sharp	kiahewi
+15.81	heavy	kiapexa
+15.81	heavy	kiabikie
+15.82	light (in weight)	bikieʔama
+15.83	wet, damp	ešepa
+15.84	dry	kiahabo
+15.85	hot	kiakio
+15.851	warm	kiakio
+15.86	cold	kiawe
+15.87	clean	kiawio
+15.87	clean	kiabohia
+15.88	dirty, soiled	kiasewe
+15.89	wrinkled	kiaheešiwi
+16.11	soul, spirit	ešawa
+16.23	joyful, glad, happy	kiabei
+16.23	joyful, glad, happy	kiabame
+16.23	joyful, glad, happy	kiabewi
+16.25	laugh	sakwe
+16.26	play	mahamahakwe
+16.31	pain	kianee
+16.32	grief, sorrow, sadness	kiašimo
+16.32	grief, sorrow, sadness	kiaeno
+16.37	cry, weep	pakwe
+16.38	tear (noun)	etoxana
+16.42	anger	kiatene
+16.44	envy, jealousy	kiaʔia
+16.45	shame (noun)	kiabičo
+16.52	brave	kiabišaanee
+16.53	fear, fright	kiašo
+16.53	fear, fright	kiaaxa
+16.622	choose	mepekwe
+16.67	lie, tell lies	ʔeʔeneposoakwe
+16.68	deceit	siaxe
+16.71	good	kiabame
+16.72	bad	kiatai
+16.81	beautiful	kiabamenee
+16.82	ugly	bameʔama
+17.13	think (= reflect)	xašawabatikwe
+17.14	think (= be of the opinion)	xašawabatikwe
+17.171	guess	aybaaxi
+17.172	imitate	haanišokwe
+17.18	seem	nišokwe
+17.21	wise	eyamitekwa
+17.23	insane, crazy	ɲiɲe
+17.24	learn	xabawenetikwe
+17.25	teach	bameekwe
+17.31	remember	šawabaʔiokwe
+17.32	forget	paheaʔiokwe
+17.32	forget	pakwe
+17.43	doubt	ʔaxa
+17.55	yes, affirmative	ʔeʔe
+17.56	no, negative	pahaa
+17.56	no, negative	mia
+17.61	how?	ačakwa
+17.62	how many?	ačewiso
+17.63	how much?	ačewiso
+17.64	what?	yaxa
+17.65	when?	ačešono
+17.66	where?	ačexe
+17.67	which?	ače
+18.21	speak, talk	mimikwe
+18.22	say	akwe
+18.221	tell story	atanahe
+18.23	silent (be)	xamaya
+18.24	language	soiho
+18.34	deny	mia
+18.57	pen	emimixi
+19.16	village	dexakesowakianee
+19.23	tribe, clan	haaxipia
+19.25	staff, walking stick	ekekwaxi
+19.51	friend, companion	enixe
+19.52	enemy	haaxipia
+19.65	meet	baʔakwe
+20.24	bow	ekoixi
+20.25	arrow	emese
+20.28	gun, cannon	ekekwaxi
+20.45	retreat	potikwe
+20.49	ambush	bakwe
+20.61	hunt	tekwakwe
+20.62	shoot	tekwakwe
+20.63	miss (target)	axotakwe
+20.64	trap (noun)	akwitsaa

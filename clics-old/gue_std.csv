@@ -1,0 +1,923 @@
+@classification: Australian,Pama-Nyungan,South-West,Ngumbin
+@iso: gue
+@language: Gurinji
+@size: 917
+@source: wold
+@variety: std
+1.21	earth, land	ngurra
+1.212	earth=ground, soil	janja
+1.213	dust	jurtu
+1.214	mud	kurlwa
+1.215	sand	warrayarl
+1.22	mountain, hill	ngarlaka
+1.222	cliff, precipice	warranginy
+1.23	plain, field	palangarri
+1.24	valley	talukurru
+1.25	island	lutju
+1.27	shore	pirntiwirti
+1.28	cave	jarriny
+1.31	water	ngawa
+1.32	sea	wangkuwala
+1.322	calm (of sea)	ngawirlangpirlangmulung
+1.323	rough (of sea)	ngawirlangpirlangjawung
+1.324	foam	ngamarla
+1.33	lake	langkana
+1.35	wave	ngawirlangpirlang
+1.36	river, stream, brook	pinka
+1.37	spring, well	winyji
+1.38	swamp	nangkurru
+1.39	waterfall	yanturri
+1.41	woods, forest	manyja
+1.43	wood	karnti
+1.44	stone, rock	wumara
+1.51	sky	kulumarra
+1.52	sun	wurlngarn
+1.53	moon	jakiliny
+1.54	star	kiki
+1.55	lightning	janginyina
+1.56	thunder	turlurlup
+1.57	lightning (as striking)	janginyina
+1.58	storm	walawuru
+1.59	rainbow	waji
+1.61	light (noun)	ngunti
+1.62	darkness	mum
+1.63	shade, shadow	yarti
+1.64	dew	karrngan
+1.72	wind	wumaj
+1.73	cloud	maarn
+1.74	fog	kaparru
+1.75	rain (noun)	yipu
+1.77	ice	murrupa
+1.81	fire	warlu
+1.82	flame (noun)	ngunti
+1.83	smoke (noun)	jungkart
+1.84	ashes	puna
+1.841	embers	kunyini
+1.851	burn (vb trans)	purtujkampa
+1.852	burn (vb intrans)	jiya
+1.86	light, kindle, ignite	kirrimkampa
+1.861	extinguish	jipupa
+1.87	match (noun)	kirrimkaji
+1.88	firewood	warlu
+1.89	charcoal	kunyini
+2.1	person, human being	ngumpit
+2.21	man (vs. woman)	ngumpit
+2.22	woman	janka
+2.23	male	malyju
+2.24	female	nampiyita
+2.25	boy	malyju
+2.251	young man (adolescent)	yarrulan
+2.26	girl	manga
+2.261	young woman (adolescent)	wamala
+2.27	child	karu
+2.28	infant, baby	yapakaru
+2.31	husband	ngumparna
+2.32	wife	janka
+2.33	marry	luku
+2.34	marriage, wedding	witing
+2.35	father	ngaji
+2.36	mother	ngamayi
+2.38	married man	luku
+2.39	married woman	kajirri
+2.41	son	ngalawuny
+2.42	daughter	kurturtu
+2.43	offspring (son or daughter)	karu
+2.44	brother	papa
+2.444	older brother	ngapa
+2.445	younger brother	karlaj
+2.45	sister	kapuku
+2.454	older sister	kawurlu
+2.455	younger sister	karlaj
+2.458	twins	karlikujarra
+2.46	grandfather	kaku
+2.46	grandfather	jawiji
+2.461	old man	marluka
+2.47	grandmother	jaju
+2.47	grandmother	ngapuju
+2.471	old woman	kajirri
+2.48	grandson	kaminyjarr
+2.49	granddaughter	kaminyjarr
+2.511	mother's brother	ngamirni
+2.512	father's brother	ngaji
+2.521	mother's sister	ngamayi
+2.522	father's sister	mukurl
+2.53	nephew	kurturtu
+2.54	niece	ngalawuny
+2.55	cousin	parnkurti
+2.56	ancestors	kamparrijang
+2.57	descendants	ngumayijang
+2.61	father-in-law (of a man)	lamparra
+2.611	father-in-law (of a woman)	lamparra
+2.62	mother-in-law (of a man)	mali
+2.621	mother-in-law (of a woman)	kurriji
+2.63	son-in-law (of a man)	lamparra
+2.631	son-in-law (of a woman)	mali
+2.64	daughter-in-law (of a man)	lamparra
+2.641	daughter-in-law (of a woman)	kurriji
+2.75	orphan	wangaak
+2.76	widow	wangu
+2.77	widower	karliyinta
+2.81	relatives, kinsmen	nungkiying
+2.82	family	nungkiying
+2.91	I	ngayu
+2.92	you (singular)	nyuntu
+2.93	he/she/it	nyantu
+2.941	we (inclusive)	ngaliwa
+2.942	we (exclusive)	ngantipa
+2.95	you (plural)	nyurrulu
+2.96	they	nyarrulu
+3.11	animal	ngarin
+3.12	male (adj)	malyju
+3.13	female (adj)	nampiyita
+3.16	pasture	patik
+3.18	herdsman	takman
+3.19	stable, stall	yawartawumarru
+3.2	cattle (bovine)	puliki
+3.23	cow	puliki
+3.24	calf	kaapikaapi
+3.25	sheep	kartpiralang
+3.35	pig	pikipiki
+3.36	goat	kilpukut
+3.41	horse (equine)	yawarta
+3.46	ass, donkey	langajuwal
+3.55	chicken	kukkuk
+3.57	duck	jipilyuku
+3.58	nest	juru
+3.581	bird	jurlak
+3.583	heron	jalwa
+3.584	eagle	warlawurru
+3.585	hawk	kalpun
+3.591	bat	parnkal
+3.591	bat	warrpawurru
+3.592	parrot	pangarra
+3.592	parrot	ngarnalang
+3.592	parrot	milnginymilnginy
+3.593	crow	wangkuriny
+3.594	dove	kuljara
+3.596	owl	mukmuk
+3.596	owl	kuyarru
+3.61	dog	warlaku
+3.614	rabbit	jangana
+3.62	cat	minija
+3.622	opossum	jangana
+3.63	mouse, rat	puwuny
+3.63	mouse, rat	murrunkirn
+3.65	fish	yawu
+3.653	fishscale	nyili
+3.655	shell	parnngirri
+3.72	lion	murlukurr
+3.76	monkey	wutungarna
+3.78	camel	yartupkarrawaji
+3.811	louse	wutu
+3.812	nit (louse egg)	yingkuwarl
+3.814	centipede	lirrimi
+3.815	scorpion	muntarla
+3.816	cockroach	kumpirlang
+3.817	ant	pingi
+3.818	spider	tarru
+3.819	spider web	karrata
+3.82	bee	nama
+3.821	beeswax	tarla
+3.822	beehive	ngarlu
+3.823	wasp	nganyanya
+3.83	fly	walngirn
+3.832	mosquito	kirnali
+3.832	mosquito	kanamarrurru
+3.85	snake	kuljany
+3.91	firefly	kampangayi
+3.92	butterfly	malimali
+3.93	grasshopper	pirlpirlji
+3.94	snail	jakiliny
+3.95	frog	ngalja
+3.96	lizard	lungkura
+3.96	lizard	kirrawa
+3.97	crocodile, alligator	warrija
+3.98	turtle	narrinyjila
+4.11	body	puya
+4.12	skin, hide	wajawurr
+4.13	flesh	niyan
+4.14	hair (head)	kartpi
+4.142	beard	jika
+4.145	pubic hair	ngurrurn
+4.146	dandruff	yarrji
+4.15	blood	kungulu
+4.151	vein, artery	kampun
+4.16	bone	kuyuwarn
+4.162	rib	pirntiyi
+4.17	horn	wirnturru
+4.18	tail	jawut
+4.19	back	parntawurru
+4.191	spine	parntawurru
+4.2	head	ngarlaka
+4.203	brain	mikilyi
+4.204	face	lungarn
+4.205	forehead	lungarn
+4.207	jaw	jakuwi
+4.208	cheek	jakuwi
+4.209	chin	jangarnka
+4.21	eye	mila
+4.212	eyebrow	yimitjimitji
+4.213	eyelid	miljangarriny
+4.214	eyelash	milyjangarriny
+4.215	blink	nyimij
+4.22	ear	langa
+4.222	earwax	mankalinyan
+4.23	nose	jitji
+4.231	nostril	jitjijarriny
+4.232	mucus (nasal)	nyitjira
+4.24	mouth	lirra
+4.241	beak	jitji
+4.25	lip	wanyput
+4.26	tongue	jalany
+4.27	tooth	lirra
+4.28	neck	ngirlkirri
+4.281	nape of neck	jikirtikirti
+4.29	throat	ngirlkirri
+4.3	shoulder	laja
+4.301	shoulderblade	laparn
+4.302	collarbone	warting
+4.31	arm	wartarn
+4.312	armpit	karrwi
+4.32	elbow	nungkuru
+4.321	wrist	kajurta
+4.33	hand	wartarn
+4.331	palm of hand	wartarnmajul
+4.34	finger	wartarnnanta
+4.342	thumb	wartarnngamayi
+4.344	fingernail	lipi
+4.345	claw	lipi
+4.35	leg	jamana
+4.351	thigh	kala
+4.352	calf of leg	kurtpu
+4.36	knee	tingarri
+4.37	foot	jamana
+4.371	ankle	tari
+4.372	heel	luju
+4.374	footprint	jamana
+4.38	toe	jamanangamayi
+4.392	wing	pinkirr
+4.393	feather	pinkirr
+4.4	chest	mangali
+4.41	breast (of woman)	ngapurlu
+4.412	nipple, teat	timpi
+4.42	udder	ngapurlu
+4.43	navel	jurlu
+4.44	heart	tulang
+4.441	lung	yaya
+4.45	liver	malumpa
+4.451	kidney	jiminkirt
+4.46	stomach	majul
+4.461	intestines, guts	lupu
+4.463	hip	larnti
+4.464	buttocks	maru
+4.47	womb	warlapan
+4.49	testicle	ngirlngirl
+4.492	penis	lumpa
+4.51	breathe, breath	ngayirrpma
+4.52	yawn, gape	jaakipma
+4.521	hiccough	ringakapma
+4.53	cough	kulyurrkma
+4.54	sneeze	ngajirrpma
+4.55	perspire	jilngitya
+4.56	spit	jupakyuwa
+4.57	vomit	kurlpakyuwa
+4.58	bite	paya
+4.59	lick	ngalyakpaya
+4.591	dribble	jawulwalywalyarrakarri
+4.61	sleep	makinkarri
+4.612	snore	purrngipma
+4.62	dream	kunima
+4.63	wake up	tulinyya
+4.64	break wind	tirrirnngaya
+4.65	urinate	kumpungaya
+4.66	defecate	kurangaya
+4.67	have sexual intercourse	kupuknga
+4.68	shiver	tarlarlapkarri
+4.69	bathe	tarukwani
+4.71	beget (of father)	parajpu
+4.72	born (to be)	parajwani
+4.73	pregnant	ngarturr
+4.74	live, living, life	wanji
+4.75	die, dead	tampang
+4.751	drowned	nyinynga
+4.76	kill	tampangpa
+4.77	corpse	linyjarr
+4.78	bury (the dead)	jipijyuwa
+4.79	grave, tomb	nakurr
+4.81	strong, mighty, powerful	patawarn
+4.82	weak	marlurlumpurrkarri
+4.83	well, health	yalpuyalpukarri
+4.84	sick, sickness	janga
+4.841	fever	makurrmakurr
+4.843	cold (catarrh)	kulyurr
+4.85	wound, sore	janga
+4.853	swelling	rumpa
+4.854	itch	jalya
+4.855	blister	kira
+4.856	boil (noun)	karlapa
+4.857	pus	puka
+4.858	scar	paturu
+4.87	physician	nyangunyangu
+4.88	medicine, drug	mirrijin
+4.89	poison	mawuya
+4.91	tired, weary	purrku
+4.912	rest	yawarra
+4.92	lazy	pujarl
+4.93	bald	papulwari
+4.94	lame	martilyi
+4.95	deaf	wila
+4.96	mute	marnumulung
+4.97	blind	kamamurru
+4.98	intoxicated	ngawanginyi
+4.99	naked, bare	wijparlarra
+5.11	eat	jaartkarranga
+5.12	food	mangarri
+5.121	cooked	jiwirri
+5.122	raw	kurnka
+5.123	ripe	jiwirri
+5.124	green, unripe	kurnka
+5.125	rotten	puka
+5.13	drink	kukijpaya
+5.14	hunger	nunykuwarra
+5.15	thirst	kurranyku
+5.16	suck	nyukpaya
+5.18	chew	ngulyngulypaya
+5.181	swallow	ngirljiknga
+5.19	choke	kartajma
+5.21	cook	kampa
+5.22	boil (vb)	purrngpurrngkarrakarri
+5.23	roast, fry	wupkarrakampa
+5.24	bake	kampa
+5.25	oven	kurrku
+5.26	pot, cooking vessel	kartak
+5.27	kettle	kartak
+5.32	plate	pilayit
+5.35	cup, drinking vessel	kartak
+5.37	spoon	lurlupkarraaji
+5.38	knife	japirri
+5.41	meal (a)	tanku
+5.42	breakfast	kurrjalp
+5.43	lunch	tina
+5.44	dinner	tina
+5.45	supper	japa
+5.46	peel	mirlijpa
+5.48	scrape	wirnarrkma
+5.49	stir, mix	parlakyuwa
+5.51	bread	mangarri
+5.53	dough	ngamayak
+5.54	knead	jalajkarrama
+5.55	meal, flour	mangarri
+5.56	crush, grind	jama
+5.58	mortar	jikurnu
+5.59	pestle	marang
+5.61	meat	ngarin
+5.63	sausage	jarrarrwuluk
+5.64	soup, broth	yingalk
+5.65	vegetables	mangarri
+5.7	potato	pikurta
+5.71	fruit	mangarri
+5.712	bunch	kulpapkarri
+5.75	fig	nampula
+5.77	nut	timpi
+5.79	oil	wararr
+5.791	grease, fat	wararr
+5.81	salt	karang
+5.82	pepper	pipa
+5.84	honey	ngarlu
+5.85	sugar	warrayal
+5.86	milk (noun)	ngapurlu
+5.87	milk (vb)	julymipma
+5.89	butter	wararr
+5.9	beverage, drink	ngawa
+5.93	beer	mirlarrang
+5.94	fermented drink	ngawa
+5.97	egg	kampij
+5.971	egg yolk	karrikurn
+6.11	put on (clothes)	wirrimanyuwa
+6.12	clothing, clothes	wapaapa
+6.13	tailor	mintimkaji
+6.21	cloth	yurnun
+6.28	fur	kartpi
+6.29	leather	wajawurr
+6.31	spin	wamippa
+6.32	spindle	mankurru
+6.35	sew	mintimma
+6.36	needle	niil
+6.42	woman's dress	warrpa
+6.43	coat	lunkurrngarna
+6.44	shirt	lunkurrngarna
+6.48	trousers	jurrulungku
+6.51	shoe	jamana
+6.52	boot	jamana
+6.55	hat, cap	murrkartu
+6.57	belt, girdle	wirriji
+6.59	veil	wurruny
+6.61	pocket	nunpa
+6.71	ornament, adornment	kiki
+6.74	bracelet	taman
+6.78	headband, headdress	tartij
+6.92	brush	purrjarn
+6.921	braid	pijina
+6.95	soap	nyumurli
+7.11	dwell, live	karri
+7.12	house	marru
+7.13	hut	mangkaya
+7.16	men's house	maralyi
+7.18	meeting house	kurrmari
+7.22	door, gate	jawitiwiti
+7.31	fireplace	warluwaji
+7.37	ladder	tankuj
+7.42	bed	pang
+7.421	pillow	tuwarrji
+7.422	blanket	palkin
+7.43	chair	lurluwaji
+7.45	lamp, torch	ngunti
+7.51	roof	kantata
+8.12	field (for cultivation)	patik
+8.16	fence	patik
+8.22	dig	kurrijkarrapu
+8.311	seed	timpi
+8.42	grain (barley, oats etc)	mangurlu
+8.51	grass	yuka
+8.54	root	wirnturru
+8.55	branch	jalyi
+8.56	leaf	jalyi
+8.57	flower	yirna
+8.6	tree	karnti
+8.67	vine	warampurr
+8.68	tobacco	ngunyju
+8.69	smoke (tobacco)	lujkarranga
+8.691	pipe	lujkarraaji
+8.73	tree trunk	marna
+8.74	forked branch	jarra
+8.75	bark	parnnga
+8.76	sap	tinung
+8.81	palm tree	kajkuru
+8.83	citrus fruit	kurlartarti
+8.84	banana tree	panana
+8.91	sweet potato	pikurta
+8.912	yam	pikurta
+8.94	bamboo	rawurru
+8.96	fish poison (root)	manyingila
+8.98	mushroom	jarnpirta
+9.11	do, make	karriwithLOCATVE
+9.12	work	waruk
+9.14	bend	kirturlkma
+9.15	fold	nurlunurluyuwa
+9.16	tie, bind	tipitma
+9.161	untie	jurlalyuwa
+9.19	rope, cord	muntiri
+9.192	knot (noun)	mijirrk
+9.21	strike (hit, beat)	pa
+9.211	pound with fist	tarlpa
+9.22	cut	katajpa
+9.223	stab	turrppu
+9.23	knife	japirri
+9.25	ax	wirlka
+9.251	adze	pakipaki
+9.26	break	pakirrpa
+9.261	broken	jilmungpari
+9.27	split	lakpa
+9.28	tear	jirrippa
+9.29	flay, skin	mirlijpa
+9.31	rub, wipe	yurrma
+9.32	stretch	wuyima
+9.33	pull	yirrma
+9.34	spread out	palkinyuwa
+9.341	hang up	talwirryuwa
+9.342	press	nutpapa
+9.343	squeeze, wring	julyma
+9.35	pour	julurlwuya
+9.36	wash	wulyukma
+9.37	sweep	wirnarrkma
+9.44	build	pirrkama
+9.46	bore	tampurrma
+9.461	hollow out	jarrinypirrkama
+9.56	glue	jikala
+9.6	smith, blacksmith	tartajkarraaji
+9.73	clay	yatu
+9.74	glass	murlukurn
+9.75	weave, plait	wamipma
+9.78	netbag	wananga
+9.791	fan (vb)	wuppa
+9.81	carve	yinka
+9.84	chisel	jangurru
+9.88	paint (noun)	yatu
+9.89	paint (vb)	punipma
+10.11	move	yinginyuwa
+10.12	turn over	wirrminyyuwa
+10.13	turn around	wirrminykarri
+10.14	wind, wrap	nurluyuwa
+10.15	roll	kirritinkarrayuwa
+10.16	drop (vb)	jakma
+10.17	twist	walnyirryuwa
+10.21	rise	jikya
+10.22	raise, lift	jarrpipma
+10.23	fall	wani
+10.24	drip	jilkwani
+10.25	throw	wajwuya
+10.252	catch (ball)	japma
+10.26	shake	yinginpa
+10.32	flow	warrayiya
+10.33	sink	tarapwani
+10.34	float	wumpalpkarri
+10.35	swim	lilajya
+10.351	dive	nyimurlukwa
+10.352	splash	tijkurlppa
+10.37	fly (vb)	tiwuya
+10.38	blow	purriipmarn
+10.41	creep, crawl	mingipya
+10.412	kneel	lutwani
+10.413	crouch	jalurlkkarri
+10.42	slide, slip	yarntalywani
+10.43	jump, leap	tipartwani
+10.431	kick	kaya
+10.44	dance	warrkapwanyja
+10.45	walk	kaluya
+10.451	limp	takujkarraya
+10.46	run	rarrajya
+10.47	go	ya
+10.471	go up	partajya
+10.472	climb	partajya
+10.473	go down	jawurrukya
+10.474	go out	kitangkurraya
+10.48	come	ya
+10.481	come back	wartya
+10.49	go away, depart	warrijya
+10.491	disappear	wapajakarri
+10.51	flee	warlwanyja
+10.52	follow	kayipa
+10.53	pursue	kayipa
+10.55	reach, arrive	tuwaya
+10.56	approach	jarrminiminikarri
+10.57	enter	walyakya
+10.61	carry (bear)	ka
+10.613	carry-on-shoulder	lajapka
+10.615	carry-underarm	julujka
+10.62	bring	ka
+10.63	send	jalakyuwa
+10.64	lead (vb)	jirriyirrika
+10.65	drive	ka
+10.66	ride	jalngakwani
+10.67	push, shove	jurlkapyuwa
+10.71	road	warntarri
+10.72	path	warntarri
+10.83	boat	kartiyi
+10.92	land (vb)	parrwani
+11.11	have	karrwa
+11.12	own, possess	murlngkarrwa
+11.13	take	ka
+11.14	seize, grasp	jangkawuma
+11.15	hold	turtma
+11.16	get, obtain	warrkujma
+11.17	keep, retain	jartikarrwa
+11.18	thing	nyampayala
+11.21	give	jayi
+11.22	give back	wartjayi
+11.24	preserve, look after	warraka
+11.25	save, rescue	jalyuwa
+11.27	destroy	kamangma
+11.28	harm, injure, damage	jangkaka
+11.31	seek, look for	karrapnya
+11.32	find	parajpu
+11.33	lose	wartujma
+11.34	release, let go	purrulyuwa
+11.43	money	wumara
+11.44	coin	tumpalak
+11.52	poor	wangaak
+11.53	beggar	liwurrapkaji
+11.54	avaricious, stingy	muntapungu
+11.65	pay (vb)	payimma
+11.77	hire	jalarryuwa
+11.78	wages	warukkuwumara
+11.79	earn	wumarama
+11.81	buy	payimma
+11.82	sell	jalimjayi
+11.83	trade, barter	wirnarnjayi
+11.86	store, shop	tuwa
+11.88	dear (costly, expensive)	wumarajangkarni
+11.89	cheap	wumarayapawurru
+11.91	share (distribute)	jarrmipkarri
+12.11	place	ngurra
+12.12	put	yuwa
+12.13	sit	lurlukarri
+12.14	lie down	makinkarri
+12.15	stand	kutijkarri
+12.16	remain, stay	karri
+12.21	collect, gather	kurlpapma
+12.212	pick up	warrkujma
+12.213	pile up	jurtatma
+12.22	join, unite	jalarryuwa
+12.23	separate	tirirtma
+12.24	open	warnparlkma
+12.25	shut, close	jipurtma
+12.26	cover	jakarrma
+12.27	hide, conceal	wurlajyuwa
+12.31	high	ngaramala
+12.32	low	kanyjal
+12.33	top	japiyapi
+12.34	bottom	kaninyjal
+12.35	end	japiyapi
+12.352	pointed	kijijiyawung
+12.353	edge	pirnti
+12.36	side	pirnti
+12.37	middle, center	kamurra
+12.41	right (side)	jutu
+12.42	left (side)	jampukarra
+12.43	near (adv)	kajupari
+12.44	far (adv)	yikili
+12.45	east	karrawarra
+12.46	west	karlarra
+12.47	north	kayirra
+12.48	south	kurlarra
+12.53	grow	tuma
+12.55	large, big	jangkarni
+12.56	small, little	yapawurru
+12.57	long	juwal
+12.58	tall	juwal
+12.59	short	lutu
+12.61	wide, broad	payal
+12.62	narrow	kurrpu
+12.63	thick (in dimension)	junyju
+12.65	thin (in dimension)	tinkal
+12.67	deep	tarlukurru
+12.68	shallow	kalja
+12.71	flat	palki
+12.73	straight	jutu
+12.74	crooked	kirturlkpari
+12.75	hook	narra
+12.76	corner	nunpa
+12.77	cross	jarrapaljawung
+12.78	square	nunpanunpa
+12.81	round	pirtakpari
+12.83	sphere, ball	kurrunyung
+12.84	line	pakuntarri
+12.85	hole	jimpiri
+12.92	like, similar	marraj
+12.93	change	wirrminyyuwa
+13.107	count	yurrkma
+13.14	every, all	purrp
+13.15	much, many	jarrwa
+13.16	more	maya
+13.17	little (quantity), few	murrkunpurru
+13.18	enough	marulu
+13.181	some	walija
+13.19	multitude, crowd	larrkunyja
+13.21	full	timpak
+13.22	empty	tangka
+13.23	part, piece	wirrip
+13.24	half	julurrpnginyi
+13.33	alone, only	rni
+13.34	first	kamparrijang
+13.35	last	jiti
+13.37	pair	kujarrap
+13.38	two times	kujarrawurt
+13.44	three times	murrkunkurt
+14.11	time	mayani
+14.13	new	jalayalang
+14.14	young	kulyarri
+14.15	old	kajirri
+14.16	early	kaputkaput
+14.18	now	jala
+14.19	immediately	wajija
+14.21	swift, fast, quick	wajija
+14.22	slow	yamak
+14.23	hasten, hurry	wajijaya
+14.25	begin, beginning	jujupma
+14.26	end (temporal)	nginyi
+14.27	finish	purrpma
+14.28	cease, stop	murrkarri
+14.29	ready	kirli
+14.31	always	ngajikparni
+14.32	often	rni
+14.33	sometimes	mayanikarimayanikari
+14.331	soon	kurtirni
+14.332	long-time (for a)	ngajik
+14.35	again	rningan
+14.41	day	wurlngarn
+14.42	night	kaputa
+14.43	dawn	rangkarr
+14.44	morning	kaput
+14.45	noon, midday	minyjarlk
+14.451	afternoon	puriny
+14.46	evening	parntamarik
+14.47	today	jala
+14.48	tomorrow	kaput
+14.481	day-after-tomorrow	kaputkari
+14.49	yesterday	puriny
+14.491	day-before-yesterday	purinykari
+14.53	clock, timepiece	wurlngarn
+14.61	week	talymip
+14.62	Sunday	talymip
+14.63	Monday	wajintayi
+14.71	month	jakiliny
+14.73	year	parunga
+14.74	winter	kalajawuny
+14.75	spring	yipu
+14.76	summer	parunga
+14.78	season	mirntij
+15.21	smell (vb intrans)	ngapukkarri
+15.212	sniff	ngapukma
+15.22	smell (vb trans)	ngapukma
+15.25	fragrant, good smelling	ngapukarriny
+15.26	stinking, bad smelling	puka
+15.31	taste	ngurluk
+15.35	sweet	kunyja
+15.36	salty	wiingki
+15.37	bitter	jalingki
+15.38	acid, sour	jalingki
+15.39	brackish	wiingki
+15.41	hear	kurrunya
+15.42	listen	kurrunya
+15.44	sound, noise	yilying
+15.45	loud	jirrimarna
+15.46	quiet, silence	yamak
+15.51	see	karrapnya
+15.52	look, look at	karrapnya
+15.55	show	wiyitjayi
+15.56	shine	mirlinyinyipkarri
+15.57	bright	mirlinyinyipkaji
+15.61	color	winkilying
+15.62	light (in color)	ngunti
+15.63	dark (in color)	mum
+15.64	white	waki
+15.65	black	mumpung
+15.66	red	winkilying
+15.67	blue	wurrkawurrkal
+15.68	green	wurrkawurrkal
+15.69	yellow	karrikurnkarrikurn
+15.71	touch	patma
+15.712	pinch	yintijma
+15.72	feel	patpatma
+15.74	hard	patawarn
+15.75	soft	kalypa
+15.76	rough	purtuwurtu
+15.77	smooth	kirinykiriny
+15.78	sharp	kutukutu
+15.79	blunt, dull	tapu
+15.81	heavy	ngarturr
+15.82	light (in weight)	rampali
+15.83	wet, damp	pantij
+15.84	dry	pulwarr
+15.85	hot	tupurrng
+15.851	warm	tanyji
+15.86	cold	makurru
+15.87	clean	kirlka
+15.88	dirty, soiled	nyunal
+15.89	wrinkled	wanyjarrng
+16.11	soul, spirit	ngayiwa
+16.15	surprised, astonished	pirartnginyi
+16.18	good fortune, luck	mijal
+16.23	joyful, glad, happy	marrunyu
+16.25	laugh	yayipma
+16.251	smile	nginykarri
+16.26	play	wajarrakarri
+16.27	love	pulyapma
+16.29	kiss	punyma
+16.3	embrace	kawirirrima
+16.31	pain	ngurrulyp
+16.32	grief, sorrow, sadness	luyurr
+16.33	anxiety, worry	nguran
+16.34	regret, be sorry	juwurlma
+16.37	cry, weep	lungkarrakarri
+16.38	tear (noun)	mikara
+16.39	groan	ngarlarripma
+16.41	hate	jirtartkarri
+16.42	anger	kuli
+16.44	envy, jealousy	nguwajkarra
+16.45	shame (noun)	minyirri
+16.52	brave	kumpurlakpurlak
+16.53	fear, fright	wukarra
+16.54	danger	kuliyan
+16.62	desire, want	wilngwilngma
+16.622	choose	ngatjima
+16.66	true	yijarni
+16.67	lie, tell lies	kuranykarrama
+16.68	deceit	kuranykarra
+16.69	forgive	wapurtkarri
+16.71	good	punyu
+16.72	bad	wankaj
+16.73	right, correct	jutu
+16.74	wrong	kulanypung
+16.77	mistake, error	tanypalma
+16.78	blame	kurrwarayuwa
+16.81	beautiful	jalungurru
+16.82	ugly	kilypikilypi
+16.83	greedy	ngalking
+16.84	clever	tarrpijipiji
+17.11	mind	langa
+17.13	think (= reflect)	kirrka
+17.16	understand	ngarrkama
+17.17	know	pinakarri
+17.172	imitate	marrma
+17.21	wise	pinarri
+17.22	foolish, stupid	walnga
+17.23	insane, crazy	walnga
+17.24	learn	pinarrikkarri
+17.25	teach	pinarrikma
+17.27	teacher	pinakjayinguwaji
+17.28	school	makurru
+17.31	remember	kirrka
+17.32	forget	nyirnma
+17.36	secret	limpal
+17.41	intention, purpose	kawu
+17.44	suspect	ngurrkupa
+17.46	easy	kanung
+17.48	try, attempt	majka
+17.52	because	paju
+17.53	if	nyamunga
+17.54	or	waku
+17.55	yes, affirmative	yuwayi
+17.56	no, negative	lawara
+17.61	how?	nyatpa
+17.62	how many?	nyatjang
+17.63	how much?	nyatjang
+17.64	what?	nyampa
+17.65	when?	nyangurla
+17.66	where?	wanyjika
+17.67	which?	wanyji
+17.68	who?	ngana
+17.69	why?	nyampawu
+18.11	voice	ngirlkirri
+18.12	sing	yunpa
+18.13	shout, cry out	wayarrapma
+18.15	whisper	kiyakiyapma
+18.16	mumble	nguyurrpma
+18.17	whistle	wurunyma
+18.18	shriek, screech	wartayipkarri
+18.19	howl	muwupma
+18.21	speak, talk	jarrakapma
+18.22	say	ma
+18.221	tell story	piyarrpma
+18.222	speech (make a)	pampaya
+18.23	silent (be)	mukkarri
+18.24	language	jaru
+18.26	word	jaru
+18.28	name	yini
+18.31	ask (question, inquire)	yangkipa
+18.32	answer	jangatpu
+18.35	ask, request	yangkipa
+18.36	promise	ngungungma
+18.37	refuse	mamampa
+18.38	forbid	mamampa
+18.39	rebuke, scold	ju
+18.41	call (=summon)	kajyuwa
+18.42	call (=name)	talpa
+18.43	announce	piyarrpka
+18.44	threaten	ngananyma
+18.51	write	jatajatajkarrayuwa
+18.52	read	riitimma
+18.56	paper	mirlimirli
+18.57	pen	tuturrpkaji
+18.61	book	mirlimirli
+19.12	one's native country	kanyjurrawurt
+19.16	village	marru
+19.23	tribe, clan	panpiya
+19.24	chief, chieftain	ngampukuju
+19.25	staff, walking stick	mirlirri
+19.41	master	karlpumarn
+19.45	command, order	majpa
+19.47	let, permit	jangarrayuwa
+19.51	friend, companion	jaliji
+19.55	stranger	kamaliwang
+19.58	help, aid	punyuwa
+19.59	hinder, prevent	jartpa
+19.61	custom	yumi
+19.62	strife, quarrel	kuli
+19.65	meet	tuwaya
+20.11	fight (vb)	kuiikarri
+20.13	war, battle	waringarri
+20.14	peace	yawaliwali
+20.15	army	waringarri
+20.17	soldier	waringarri
+20.21	weapons, arms	larrmij
+20.22	club	kuturu
+20.23	sling	jangayi
+20.26	spear	mirlarrang
+20.28	gun, cannon	turlkkaji
+20.34	shield	mirta
+20.43	attack	pululujwani
+20.44	defend	wurrwa
+20.45	retreat	warlwanyja
+20.46	surrender	pujarlma
+20.49	ambush	witikarri
+20.51	fisherman	wuyurrurnkarraaji
+20.52	fishhook	mirlirti
+20.53	fishing line	wuyurrurn
+20.54	fishnet	warni
+20.55	fish trap	puul
+20.56	bait	nguru
+20.61	hunt	yangkarrpya
+20.62	shoot	turlkkarrapa
+20.63	miss (target)	purruly
+20.64	trap (noun)	larrkan
+20.65	trap (vb)	yanyma
+21.11	law	yumi
+21.22	defendant	kalanyjurrwaji
+21.31	accuse	kurrwarayuwa
+21.35	guilty	ngampukuju
+21.42	murder	parnkarrang
+21.44	rape	lutlutkarra
+21.47	perjury	kuranykarra
+21.51	steal	jawurrama
+21.52	thief	jawurraaji

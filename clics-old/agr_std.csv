@@ -1,0 +1,1213 @@
+@classification: Jivaroan
+@ids-name: Aguaruna_Phonemic
+@iso: agr
+@language: Aguaruna
+@size: 1206
+@source: ids
+@variety: std
+1.1	world	nugka
+1.21	earth, land	nugka
+1.212	earth=ground, soil	nugka
+1.213	dust	yu'kuukuntu
+1.214	mud	c̷a'kus
+1.215	sand	ka'amatak
+1.22	mountain, hill	nain
+1.222	cliff, precipice	'bɨc̷ag
+1.23	plain, field	paka
+1.24	valley	ɨnc̷a'sɨgahu
+1.25	island	'ahuntai
+1.26	mainland	nugkamuun
+1.27	shore	'nayanc̷apakahi
+1.28	cave	waa
+1.31	water	yumi
+1.32	sea	'nayanc̷
+1.322	calm (of sea)	bitat
+1.323	rough (of sea)	'nayanc̷c̷u'katbau
+1.324	foam	sau
+1.329	ocean	'nayanc̷
+1.33	lake	kuča
+1.34	gulf, bay	'waintaumuun
+1.341	lagoon	kučayaig
+1.342	reef	hin'takayapapamu
+1.343	headland, point	tɨ'pɨtpɨtuwaaku
+1.35	wave	c̷ukatu
+1.36	river, stream, brook	namak
+1.362	whirlpool	'wainči
+1.37	spring, well	'yumigmat
+1.38	swamp	pakakučak'čagmatu
+1.39	waterfall	bɨc̷ahau
+1.41	woods, forest	'ikam
+1.42	tree (cf 08.600)	numi
+1.42	tree (cf 08.600)	kampu'ha
+1.43	wood	numi
+1.44	stone, rock	kaya
+1.45	earthquake	u'ugbau
+1.51	sky	nayaim
+1.52	sun	ɨc̷a
+1.53	moon	nantu
+1.54	star	yaya
+1.55	lightning	čahip
+1.56	thunder	ipamatpu'hutamu
+1.57	lightning (as striking)	pɨ'ɨm
+1.58	storm	yumig'migmatdasɨkɨ'nɨgtau
+1.59	rainbow	pagkiwahau
+1.61	light (noun)	c̷aaptin
+1.62	darkness	suwɨ
+1.62	darkness	kiyahu
+1.62	darkness	kanči
+1.63	shade, shadow	bikintu
+1.64	dew	yumic̷a'kigmitkamu
+1.71	air	dasɨ
+1.72	wind	dasɨ
+1.73	cloud	yuhagkim
+1.74	fog	yuhagkimuc̷anhau
+1.75	rain (noun)	yumi
+1.76	snow (noun)	muhapiši
+1.77	ice	yuminanahu
+1.78	weather	c̷a'wan
+1.81	fire	hiikɨɨ'ku
+1.82	flame (noun)	hiikɨɨ'ku
+1.83	smoke (noun)	c̷aagbuku'itimu
+1.84	ashes	yuku
+1.841	embers	hiiikapa'agbau
+1.841	embers	kapau
+1.851	burn (vb trans)	apɨt
+1.852	burn (vb intrans)	kɨɨt
+1.86	light, kindle, ignite	ɨ'kɨmat
+1.861	extinguish	i'kagnat
+1.88	firewood	hiic̷u'piamu
+1.89	charcoal	kayušik
+2.1	person, human being	aɨnc̷
+2.21	man (vs. woman)	'aišmag
+2.22	woman	nuwa
+2.23	male	'aišmag
+2.24	female	nuwa
+2.25	boy	'c̷akat
+2.26	girl	nuwaučinatai
+2.27	child	uči
+2.28	infant, baby	uči
+2.31	husband	aiši
+2.32	wife	nuwatkamu
+2.33	marry	nu'wɨnat
+2.34	marriage, wedding	nu'wɨnbau
+2.341	divorce	inai'nayat
+2.341	divorce	a'hapnayat
+2.35	father	apag
+2.36	mother	duku
+2.37	parents	apa'hidu'kuhihai
+2.38	married man	'nuwɨntin
+2.39	married woman	a'išintin
+2.41	son	učig
+2.42	daughter	nawanhi
+2.43	offspring (son or daughter)	učig
+2.44	brother	yac̷ug
+2.444	older brother	'yac̷utɨ'ɨmkau
+2.444	older brother	u'maɨ'ɨmkau
+2.45	sister	ubag
+2.454	older sister	yac̷ug
+2.454	older sister	ubag
+2.458	twins	himagmamu
+2.46	grandfather	apač
+2.47	grandmother	dukuč
+2.471	old woman	nuwa'muuntuč
+2.48	grandson	'tihag
+2.49	granddaughter	'tihag
+2.51	uncle	diič
+2.511	mother's brother	'yac̷ut
+2.512	father's brother	apa'huyači
+2.52	aunt	dukug
+2.521	mother's sister	u'ma
+2.521	mother's sister	umayui
+2.522	father's sister	apa'huumayi
+2.53	nephew	'awɨt
+2.54	niece	'awɨt
+2.55	cousin	i'ka'yac̷ut
+2.56	ancestors	u'čiuyukau
+2.57	descendants	nuuwɨantu
+2.57	descendants	nuupata
+2.61	father-in-law (of a man)	wɨgag
+2.61	father-in-law (of a man)	diič
+2.611	father-in-law (of a woman)	wɨgag
+2.611	father-in-law (of a woman)	diič
+2.62	mother-in-law (of a man)	c̷ac̷ag
+2.62	mother-in-law (of a man)	dukug
+2.621	mother-in-law (of a woman)	c̷ac̷ag
+2.621	mother-in-law (of a woman)	dukug
+2.63	son-in-law (of a man)	awɨg
+2.631	son-in-law (of a woman)	awɨg
+2.64	daughter-in-law (of a man)	uči'hinuwɨ
+2.64	daughter-in-law (of a man)	awɨg
+2.641	daughter-in-law (of a woman)	uči'hinuwɨ
+2.641	daughter-in-law (of a woman)	nawan
+2.71	stepfather	apa'himamu
+2.72	stepmother	duku'himamu
+2.73	stepson	uči'himamu
+2.74	stepdaughter	na'wanhimamu
+2.75	orphan	witaik
+2.76	widow	nuwawahɨ
+2.77	widower	'aišmagwahɨ
+2.81	relatives, kinsmen	pa'ta'aidau
+2.82	family	pa'ta
+2.91	I	wi
+2.92	you (singular)	amɨ
+2.93	he/she/it	'atum
+2.94	we	nii
+2.95	you (plural)	hu'ti
+2.96	they	dita
+3.11	animal	kuntin
+3.12	male (adj)	'aišmagwɨantu
+3.13	female (adj)	nuwawɨantu
+3.19	stable, stall	tagkučimpitai
+3.25	sheep	uwig
+3.28	ewe	uwig
+3.32	boar	paki
+3.34	sow	wapik
+3.34	sow	c̷umain
+3.42	stallion	apa'hi
+3.44	mare	nuwɨ
+3.5	fowl	čigki
+3.52	cock, rooster	atašayum
+3.54	hen	ataš
+3.55	chicken	atašc̷akat
+3.56	goose	apač
+3.581	bird	'pišak
+3.582	seagull	pa'pahau
+3.583	heron	ima
+3.584	eagle	ukukui
+3.585	hawk	pinču
+3.586	vulture	ukukui
+3.591	bat	hi'inčam
+3.592	parrot	kawau
+3.593	crow	kaip
+3.594	dove	paum
+3.596	owl	'pumpuk
+3.61	dog	ya'wa
+3.614	rabbit	wapuhuš
+3.622	opossum	ku'hančam
+3.63	mouse, rat	katip
+3.65	fish	namak
+3.652	fin (dorsal)	šihaptahi
+3.653	fishscale	namak'asaɨpɨ
+3.654	gill	kayakmatai
+3.655	shell	c̷unc̷uukun'či
+3.71	wolf	uyu
+3.72	lion	hapayua
+3.72	lion	hinta
+3.73	bear	ča'yu
+3.74	fox	'amič
+3.75	deer	hapa
+3.76	monkey	yakum
+3.81	insect	samig
+3.81	insect	kuntinpiipič
+3.811	louse	tɨma
+3.812	nit (louse egg)	tɨmanuhinhi
+3.813	flea	sugku
+3.815	scorpion	titig
+3.816	cockroach	tukahuš
+3.817	ant	'wisut
+3.818	spider	c̷ɨhɨ
+3.819	spider web	'aagku
+3.82	bee	dapa
+3.821	beeswax	nuhi
+3.822	beehive	dapahɨɨ
+3.823	wasp	ɨtɨ
+3.83	fly	kaap
+3.832	mosquito	tɨtɨ
+3.84	worm	nampič
+3.85	snake	'pasug
+3.85	snake	dapi
+3.91	firefly	taigkak
+3.92	butterfly	'wampišuk
+3.93	grasshopper	manči
+3.94	snail	c̷unc̷u
+3.94	snail	kugku
+3.95	frog	kuwau
+3.96	lizard	šaampiu
+3.97	crocodile, alligator	sɨmagkau
+3.98	turtle	kugkuim
+4.11	body	iyaš
+4.12	skin, hide	duwapɨpušihi
+4.13	flesh	nɨhɨ
+4.14	hair (head)	intaš
+4.142	beard	intaš
+4.144	body hair	susu
+4.146	dandruff	du'sɨbuuk
+4.15	blood	numpa
+4.151	vein, artery	num'pahinti
+4.16	bone	ukunč
+4.162	rib	pagaɨ
+4.17	horn	kaču
+4.18	tail	uhu'kɨ
+4.19	back	tuntup
+4.19	back	mayatai
+4.191	spine	tagkihi
+4.2	head	buuk
+4.201	side of head, temple	kahašik
+4.202	skull	buuksakahu
+4.203	brain	buc̷uk
+4.204	face	yapi
+4.205	forehead	tu'tupit
+4.207	jaw	hagkɨ
+4.208	cheek	yapi
+4.209	chin	susuhisuisuigmstu
+4.21	eye	hii
+4.212	eyebrow	tampɨgkɨa
+4.213	eyelid	hiiduwap'ɨ
+4.214	eyelash	uhagtahi
+4.215	blink	pusahut
+4.22	ear	kuwiš
+4.221	earlobe	kuwiš'tukumatai
+4.222	earwax	ihigkuiš
+4.23	nose	nuhi
+4.231	nostril	nuhiwaahi
+4.232	mucus (nasal)	šiik
+4.24	mouth	wɨnu
+4.241	beak	nuhi
+4.25	lip	wɨnu
+4.26	tongue	idai
+4.27	tooth	dai
+4.271	gums	c̷amadai
+4.271	gums	mantag
+4.272	molartooth	'ikidai
+4.28	neck	suwɨ
+4.281	nape of neck	kuntuhɨa
+4.29	throat	tu'hunhuhi
+4.3	shoulder	yakai
+4.301	shoulderblade	hapɨg
+4.302	collarbone	'wiyunč
+4.31	arm	kuntu
+4.312	armpit	c̷ukap
+4.32	elbow	čig'kun
+4.321	wrist	šiigbaučdakumsamu
+4.33	hand	uwɨh
+4.331	palm of hand	akap'uwɨh
+4.34	finger	c̷aham'uwɨg
+4.342	thumb	muun'uwɨh
+4.344	fingernail	nančik
+4.345	claw	kuntinunančiki
+4.35	leg	kuhap
+4.351	thigh	baku
+4.352	calf of leg	kuhap
+4.36	knee	ti'kišmat
+4.37	foot	dawɨ
+4.371	ankle	wanus
+4.372	heel	sag'kan
+4.374	footprint	nahamaaipkimu
+4.38	toe	c̷ahamdawɨ
+4.392	wing	nanapɨ
+4.393	feather	uhɨ
+4.4	chest	dɨc̷ɨp
+4.41	breast (of woman)	munc̷u
+4.412	nipple, teat	munc̷u
+4.43	navel	'untuč
+4.44	heart	anɨntai
+4.441	lung	suwač
+4.45	liver	akap
+4.451	kidney	bɨɨhi
+4.452	spleen	bɨɨg
+4.46	stomach	tan'tan
+4.461	intestines, guts	'c̷ɨhɨg'ampug
+4.462	waist	a'kačumtai
+4.463	hip	'nantag
+4.464	buttocks	puhutai
+4.464	buttocks	nantah
+4.47	womb	iki'či
+4.49	testicle	suki
+4.492	penis	kata
+4.52	yawn, gape	wa'animat
+4.521	hiccough	hɨ'kɨtbau
+4.53	cough	uhutut
+4.54	sneeze	nu'hinumu'hutbau
+4.54	sneeze	ka'agmat
+4.55	perspire	sɨɨmat
+4.56	spit	usukit
+4.57	vomit	'imut
+4.58	bite	ɨsat
+4.59	lick	dukat
+4.591	dribble	kitau
+4.61	sleep	'kanut
+4.612	snore	hu'kaatut
+4.62	dream	kaha
+4.62	dream	kahi
+4.63	wake up	šintaut
+4.64	break wind	wac̷a'hu
+4.65	urinate	ši'kipat
+4.66	defecate	i'hapat
+4.67	have sexual intercourse	di'higmat
+4.68	shiver	ku'haut
+4.69	bathe	maat
+4.71	beget (of father)	a'kiimat
+4.73	pregnant	kuntini'haahu
+4.732	conceive	akiit
+4.732	conceive	huhɨt
+4.74	live, living, life	puhut
+4.75	die, dead	hakau
+4.75	die, dead	hakɨ'hu
+4.75	die, dead	kihak
+4.76	kill	maut
+4.77	corpse	hakauiya'ši
+4.78	bury (the dead)	yutut
+4.79	grave, tomb	u'kumasbau
+4.81	strong, mighty, powerful	sɨnči
+4.82	weak	kakakčau
+4.83	well, health	'hamamtuču
+4.84	sick, sickness	hau
+4.841	fever	c̷uwɨmu
+4.842	goiter	'imum
+4.843	cold (catarrh)	šiikmamu
+4.85	wound, sore	tɨhɨmaš
+4.85	wound, sore	c̷u'pimakbau
+4.852	bruise	kutuimu
+4.853	swelling	imut
+4.855	blister	tukuniu
+4.856	boil (noun)	ugku
+4.857	pus	pukuau
+4.858	scar	ɨ'samamu
+4.86	cure, heal	c̷uwamu
+4.88	medicine, drug	ampi
+4.89	poison	hatai
+4.912	rest	ayamat
+4.92	lazy	ka'kauču
+4.94	lame	šu'tu
+4.95	deaf	ɨmpɨ'ku
+4.96	mute	čičaču
+4.97	blind	wa'inmaču
+4.98	intoxicated	nampɨ'ku
+4.99	naked, bare	wi'su
+5.11	eat	'yuwamu
+5.12	food	yuta
+5.121	cooked	inagkamu
+5.122	raw	u'du
+5.123	ripe	c̷amau
+5.124	green, unripe	'aɨt
+5.124	green, unripe	c̷amagčau
+5.125	rotten	kau'hu
+5.13	drink	'umut
+5.14	hunger	nu'han
+5.141	famine	nu'han
+5.15	thirst	kitak
+5.16	suck	bukunat
+5.18	chew	daut
+5.181	swallow	'kuhat
+5.19	choke	hanihnitu
+5.21	cook	inahut
+5.22	boil (vb)	ukuwat
+5.23	roast, fry	hi'yai'nagbau
+5.26	pot, cooking vessel	i'činak
+5.31	dish	ɨgkɨayutai
+5.34	pitcher, jug	buic̷
+5.35	cup, drinking vessel	šiki'ka'umutai
+5.38	knife	c̷upikayutai
+5.39	fork	takaku
+5.41	meal (a)	yuta
+5.42	breakfast	'kasikyuta
+5.43	lunch	ɨc̷ata'himai'yuwamu
+5.44	dinner	yutai
+5.45	supper	aag'ku'yuwamu
+5.46	peel	ma'anit
+5.48	scrape	kɨsat
+5.49	stir, mix	aɨnc̷'pačimau
+5.51	bread	tata
+5.53	dough	pa'čimhamu
+5.54	knead	pa'čimat
+5.55	meal, flour	mamapuwahii'nanhamu
+5.56	crush, grind	čanuut
+5.56	crush, grind	dɨkɨɨt
+5.57	mill	dɨkɨɨtai
+5.58	mortar	ihutainumi'taimu
+5.58	mortar	tuntuip
+5.59	pestle	tuntuipkuntuhɨamu
+5.61	meat	nɨhɨ
+5.63	sausage	nɨhɨ'ampuhinčimpikbau
+5.64	soup, broth	ɨgkɨthainagkamu
+5.65	vegetables	'ahak
+5.66	bean	biik
+5.71	fruit	yuhag
+5.712	bunch	'nantag
+5.77	nut	tu'hunhuhi
+5.79	oil	asait
+5.791	grease, fat	wiya
+5.81	salt	wɨɨ
+5.821	chili pepper	hima
+5.84	honey	dapayumihi
+5.85	sugar	pagatna'hanamu
+5.86	milk (noun)	munc̷u
+5.87	milk (vb)	munc̷uihugbau
+5.88	cheese	munc̷uinanhamu
+5.9	beverage, drink	umutai
+5.91	mead	yumidapahaipa'čimhamu
+5.92	wine	umutaiyu'minc̷ak
+5.94	fermented drink	kahiau
+5.97	egg	nu'hin
+5.971	egg yolk	nuhin'tamama'hi
+5.971	egg yolk	tag'kuipihi
+6.11	put on (clothes)	nugkut
+6.12	clothing, clothes	haančapihamu
+6.12	clothing, clothes	'kutug
+6.13	tailor	haančinapau
+6.21	cloth	haanč
+6.22	wool	kuntinu'uhɨ
+6.24	cotton	uhuč
+6.28	fur	duwap
+6.29	leather	duwap
+6.31	spin	ku'tamat
+6.33	weave	awantut
+6.33	weave	apihut
+6.34	loom	haanč'awantai
+6.35	sew	apihut
+6.37	awl	c̷a'kaskatuɨ'c̷akamu
+6.38	thread	nihi
+6.39	dye	ɨgkɨt
+6.41	cloak	pɨm'pɨmatai
+6.41	cloak	i'himatai
+6.42	woman's dress	pɨɨtai'haanč
+6.44	shirt	'kutug
+6.45	collar	kuntuhɨa
+6.46	skirt	i'tipak
+6.461	grass-skirt	suyaig
+6.48	trousers	a'wɨmak
+6.49	stocking, sock	haančda'wɨnumwɨamatai
+6.54	shoemaker, cobbler	nahanin
+6.55	hat, cap	ac̷ɨhutai
+6.58	glove	uwɨhnumwɨgamatai
+6.59	veil	dukumatai
+6.63	pin	hihuc̷a'kaskatu
+6.71	ornament, adornment	i'wagmamtai
+6.72	jewel	nugkutaiwinča
+6.73	ring (for finger)	c̷aham'uwɨhnum'patakumtai
+6.74	bracelet	pataku
+6.75	necklace	nugkutai
+6.76	bead	šauk
+6.77	earring	akiitai
+6.78	headband, headdress	kagkapnugkatutupitakaɨgu
+6.79	tattoo	u'sumtai
+6.79	tattoo	u'sumat
+6.81	handkerchief, rag	hapimatai
+6.82	towel	uhug'mamtai
+6.91	comb	tɨmaš
+6.92	brush	'kɨsatai
+6.921	braid	ča'pikmat
+6.93	razor	susuawatai
+6.94	ointment	ampikuta
+7.11	dwell, live	puhut
+7.12	house	hɨga
+7.13	hut	aak'magbau
+7.15	yard, court	'aga
+7.16	men's house	hɨga'áišmagku'ihuntai
+7.18	meeting house	i'huntai
+7.21	room	kanutai
+7.22	door, gate	waiti
+7.23	lock (noun)	'ɨpɨntai
+7.25	window	a'agkamu
+7.26	floor	nugka
+7.27	wall	taniš
+7.31	fireplace	hiiika'pagbau
+7.32	stove	anamtaihihu
+7.33	chimney	bukuitihintaihiuyuhuamu
+7.37	ladder	wataimina'agbau
+7.421	pillow	'atamhutai
+7.43	chair	ɨkɨmtaiačigbau
+7.44	table	patasayutai
+7.45	lamp, torch	ɨkɨmatai
+7.47	shelf	patatai
+7.48	trough	tuntuip
+7.48	trough	mantig
+7.51	roof	'ɨsahi
+7.52	thatch	dukainumhahɨgamkamu
+7.53	ridgepole	'ɨsahi
+7.54	rafter	'minag
+7.55	beam	'minag
+7.56	post, pole	yu'minc̷akna'hanamu
+7.61	mason	hɨ'gahɨga'min
+7.62	brick	nugkainagkamu
+7.63	mortar	čimihinč
+7.64	adobe	nugkai'nanhamu
+8.11	farmer	awau
+8.12	field (for cultivation)	a'hakmamu
+8.13	garden	yagkugahakbau
+8.15	cultivate, till	a'hakmat
+8.16	fence	taniš
+8.21	plow	nugkac̷ait
+8.212	furrow	saat'huamu
+8.22	dig	ta'umat
+8.26	fork	c̷ɨ́gkɨn
+8.27	rake	wɨbau
+8.31	sow	ukagbau
+8.31	sow	ukat
+8.311	seed	ahakɨ
+8.32	mow, reap	c̷upihahuut
+8.33	sickle, scythe	hihua'hɨnkau
+8.34	thresh	akat
+8.35	threshing-floor	akatai
+8.35	threshing-floor	c̷aitai
+8.41	crop, harvest	'ahak
+8.42	grain (barley, oats etc)	šaa
+8.47	maize, corn	šaa
+8.51	grass	dupa
+8.53	plant (noun)	'ahat
+8.531	plant (vb)	'ahak
+8.54	root	kagka'pɨ
+8.55	branch	kanawɨ
+8.56	leaf	duka
+8.6	tree	numi
+8.6	tree	kampu'ha
+8.67	vine	dupahawa
+8.67	vine	pɨɨmhau
+8.68	tobacco	c̷aag
+8.69	smoke (tobacco)	c̷aagbu'kunbau
+8.72	tree stump	kampu'haihig'kɨ
+8.73	tree trunk	kampuhi
+8.74	forked branch	hɨ'gabakui
+8.75	bark	saɨ'pɨ
+8.76	sap	nu'miyumihi
+8.81	palm tree	ihu
+8.83	citrus fruit	yumug
+8.84	banana tree	paampa
+8.91	sweet potato	inči
+8.91	sweet potato	idauk
+8.912	yam	mama
+8.912	yam	yu'humak
+8.93	gourd	yumi
+8.93	gourd	punu
+8.931	pumpkin, squash	yu'wi
+8.94	bamboo	kɨgku
+8.941	sugar cane	pagat
+8.96	fish poison (root)	hatai
+8.97	nettle	naha
+8.98	mushroom	'ɨšɨm
+9.11	do, make	naut
+9.11	do, make	takat
+9.12	work	takat
+9.14	bend	punut
+9.15	fold	'ninut
+9.16	tie, bind	higkat
+9.161	untie	atit
+9.18	chain	hihuikagbau
+9.19	rope, cord	wa'sakɨa
+9.192	knot (noun)	tuhuhiamu
+9.21	strike (hit, beat)	awatut
+9.211	pound with fist	'hipit'ɨmat
+9.22	cut	puut
+9.22	cut	'c̷upit
+9.221	cut down	'ahat
+9.222	chop, hew	puut
+9.223	stab	nawahai'ihut
+9.24	scissors, shears	tihig
+9.26	break	'kupit
+9.261	broken	kupinkau
+9.27	split	kag'kuinu
+9.28	tear	intakut
+9.29	flay, skin	duwap'pakamu
+9.31	rub, wipe	yakat
+9.31	rub, wipe	kɨɨmat
+9.32	stretch	'dakuɨt
+9.33	pull	hapit
+9.34	spread out	'dakuɨt
+9.341	hang up	a'wagkɨt
+9.342	press	ča'nuut
+9.343	squeeze, wring	čanuut
+9.35	pour	saat
+9.36	wash	nihat
+9.37	sweep	hapimat
+9.38	broom	ha'pimuk
+9.422	tool	takatai
+9.43	carpenter	takau
+9.44	build	hɨgamat
+9.46	bore	uyut
+9.461	hollow out	uyut
+9.48	saw	c̷u'pitaida'yagbau
+9.6	smith, blacksmith	hi'hunahanin
+9.61	forge	hihu'nahanat
+9.62	anvil	anɨntainɨmɨthau
+9.63	cast (metals)	hihuukuiyat
+9.64	gold	kuri
+9.65	silver	ku'ičik
+9.67	iron	hihu
+9.71	potter	ičinkan'nahanin
+9.72	mold (clay etc)	a'kinat
+9.72	mold (clay etc)	anuhtukadɨ'kapamu
+9.73	clay	c̷a'kus
+9.75	weave, plait	'hɨɨt
+9.76	basket	čag'kin
+9.77	mat	'c̷ɨnc̷ak
+9.771	rug	a'tɨktutai
+9.79	fan (noun)	a'wahuk
+9.791	fan (vb)	a'wagtut
+9.81	carve	nahana'umit
+9.82	sculptor	numita'umagnahanin
+9.83	statue	aɨnc̷dakumkamu
+9.84	chisel	taumtaihihu
+9.88	paint (noun)	i'pakuamu
+9.89	paint (vb)	ipakut
+10.11	move	umučit
+10.12	turn over	pɨgat
+10.13	turn around	ayanhamu
+10.14	wind, wrap	ihit
+10.15	roll	akagkɨt
+10.16	drop (vb)	kitamu
+10.17	twist	'pɨmpɨɨt
+10.21	rise	'ɨkɨmat
+10.22	raise, lift	ya'ki'takut
+10.22	raise, lift	inantut
+10.22	raise, lift	nantat
+10.23	fall	iyaut
+10.24	drip	da'kiitamu
+10.25	throw	ɨgkɨt
+10.252	catch (ball)	ačit
+10.26	shake	pɨgat
+10.32	flow	yumi'pugkanu
+10.33	sink	ipuknamu
+10.34	float	nama'ka'nanamat
+10.35	swim	yukumat
+10.351	dive	yuušmat
+10.352	splash	c̷a'kimtikat
+10.36	sail (vb)	nama'ka'wɨkaɨgat
+10.37	fly (vb)	nanamat
+10.38	blow	umpuut
+10.41	creep, crawl	ši'tamat
+10.412	kneel	ti'kišmamu
+10.413	crouch	c̷uc̷umat
+10.413	crouch	ka'kayat
+10.42	slide, slip	ataku'inat
+10.43	jump, leap	c̷ɨkɨt
+10.431	kick	tukumat
+10.44	dance	nampɨt
+10.45	walk	da'wɨ'wɨamu
+10.451	limp	šutut
+10.46	run	tupikaut
+10.47	go	wɨta
+10.471	go up	ya'kiwaamu
+10.472	climb	pɨɨm'kawaamu
+10.473	go down	akaɨgat
+10.474	go out	hiinat
+10.48	come	minit
+10.481	come back	wa'kɨtut
+10.49	go away, depart	'wɨgamu
+10.491	disappear	ɨmɨgkaut
+10.51	flee	tupikakiu
+10.51	flee	mɨnagkiu
+10.52	follow	nɨ'mahut
+10.53	pursue	aintut
+10.55	reach, arrive	amayit
+10.56	approach	a'nihit
+10.57	enter	wa'it
+10.57	enter	wayamu
+10.61	carry (bear)	'ɨmat
+10.612	carry-in-hand	ači'ka'ɨmat
+10.613	carry-on-shoulder	ɨnc̷aki'ɨmat
+10.614	carry-on-head	ɨkɨni'ɨmat
+10.615	carry-underarm	ɨtɨa'ɨmat
+10.62	bring	itat
+10.63	send	a'wɨmat
+10.64	lead (vb)	dɨkaphut
+10.65	drive	'ɨmat
+10.66	ride	ɨnc̷amat
+10.67	push, shove	'šitat
+10.71	road	hinta
+10.74	bridge	papaaikankamu
+10.76	wheel	kagkɨtaihi
+10.77	axle	ɨha'pɨn
+10.77	axle	wa'hatamu
+10.832	outrigger	nanamu
+10.84	raft	'papag
+10.85	oar	ɨhɨmu
+10.85	oar	kanait
+10.851	paddle (noun)	kanait'sutag
+10.852	row (vb)	wiyaut
+10.87	mast	hiitaiahiamu
+10.91	harbor, port	anumtai
+10.92	land (vb)	a'nuumat
+11.11	have	ahutu
+11.11	have	a'hutkagtau
+11.12	own, possess	wahiigtin
+11.13	take	'umut
+11.14	seize, grasp	ačiamu
+11.15	hold	a'čiamu
+11.16	get, obtain	'huwamu
+11.17	keep, retain	kuitamat
+11.18	thing	wa'hi
+11.21	give	'suwamu
+11.22	give back	a'wakɨt
+11.24	preserve, look after	kuitamka'ukut
+11.25	save, rescue	u'wɨmtikbau
+11.27	destroy	c̷ait
+11.28	harm, injure, damage	ɨ'mɨsɨt
+11.31	seek, look for	ɨgat
+11.32	find	wainat
+11.33	lose	mɨg'kaɨbau
+11.34	release, let go	akupɨt
+11.43	money	ku'ičik
+11.44	coin	ku'ičik
+11.51	rich	'wiakuč
+11.52	poor	uhunauč
+11.53	beggar	tunamahu
+11.54	avaricious, stingy	suhi
+11.61	lend	c̷agkamat
+11.62	borrow	c̷agkat'nayat
+11.63	owe	umiktin
+11.64	debt	diwimkagtamu
+11.65	pay (vb)	'akit
+11.66	account, reckoning	dɨ'kapatai
+11.66	account, reckoning	diwi
+11.69	tax, tribute	a'kikmatbau
+11.77	hire	c̷agkamat
+11.79	earn	dɨ'pɨtmat
+11.81	buy	'sumat
+11.82	sell	'suhut
+11.83	trade, barter	yapa'hit
+11.84	merchant	wa'hisuhin
+11.85	market (place)	yutai'sumatai
+11.86	store, shop	wa'hi'suhutai
+11.87	price	akikɨ
+11.89	cheap	'akik
+11.89	cheap	akikčau
+11.91	share (distribute)	tinamat
+11.92	weigh	nɨ'nadɨ́kapat
+12.1	after	ahum
+12.11	place	u'kunum
+12.2	beside	yantamɨn
+12.3	down, below	nug'kan
+12.4	before	ɨɨm
+12.41	right (side)	'ɨɨmtaku
+12.5	inside, in	i'nitak
+12.6	outside	aga
+12.7	under	wakɨn'tin
+12.8	up, above	ya'ki
+12.11	place	ag'kan
+12.12	put	a'puhut
+12.13	sit	ɨ'kɨmat
+12.14	lie down	tɨpɨt
+12.15	stand	wahamu
+12.16	remain, stay	'huwat
+12.17	remains, left overs	ampinkau
+12.21	collect, gather	huut
+12.212	pick up	yahumat
+12.213	pile up	utuamat
+12.22	join, unite	i'humat
+12.23	separate	akanat
+12.232	divide	akanat
+12.24	open	uhat
+12.25	shut, close	'ɨpɨnbau
+12.26	cover	dukut
+12.27	hide, conceal	uumat
+12.31	high	ɨ'saham
+12.31	high	ya'ki
+12.32	low	nugkauč
+12.33	top	mu'hahiitkau
+12.34	bottom	ɨha'pɨn
+12.35	end	nama'ka'uwɨt
+12.35	end	kuntuc̷ɨg'kɨagbau
+12.352	pointed	c̷a'kaskatu
+12.36	side	yantame
+12.37	middle, center	ɨha'pɨ
+12.41	right (side)	unc̷ug
+12.42	left (side)	mɨna
+12.43	near (adv)	tikihu
+12.44	far (adv)	a'tušat
+12.45	east	ɨ'c̷ahiintai
+12.46	west	ɨ'c̷aakaɨtai
+12.53	grow	'c̷akat
+12.54	measure	dɨ'kapat
+12.55	large, big	muun
+12.56	small, little	piipič
+12.57	long	ɨ'saham
+12.58	tall	ɨ'saham
+12.59	short	'sutag
+12.61	wide, broad	wag'kaham
+12.62	narrow	c̷ɨ́hɨg
+12.62	narrow	'mɨnaku
+12.63	thick (in dimension)	kam'puham
+12.65	thin (in dimension)	c̷ɨ́hɨg
+12.67	deep	kuna
+12.67	deep	i'nitak
+12.68	shallow	'uhumakkuna
+12.71	flat	paka
+12.73	straight	tu'tupit
+12.74	crooked	tuni'hu
+12.75	hook	'činap
+12.76	corner	c̷u'kin
+12.77	cross	numiyapahiaačiamu
+12.81	round	tɨntɨɨ
+12.82	circle	tɨntɨɨ
+12.83	sphere, ball	tɨn'tɨɨ
+12.84	line	c̷ɨnc̷akbau
+12.85	hole	uyuamu
+12.92	like, similar	bɨ'tɨkmamtin
+12.93	change	yapahit
+13.1	one	makičik
+13.2	two	'himag
+13.3	three	kam'patum
+13.4	four	ipak'usumat
+13.5	five	uwɨ'haamua
+13.6	six	'huinia'uwɨhama'kičikihuk
+13.7	seven	uwɨ'hahimahaihuk
+13.8	eight	'huinia'uwɨhakam'patumihuk
+13.9	nine	'huiniauwɨ'haipak'usumatihuk
+13.10	ten	uwɨ'hamai'amua
+13.101	eleven	'huiniadawɨnmakičikihuk
+13.102	twelve	dawɨhimahaihuk
+13.103	fifteen	'huiniadawɨnmakičikamua
+13.104	twenty	dawɨmaiamua
+13.107	count	dɨ'kapat
+13.15	much, many	ku'ašat
+13.16	more	'dukap
+13.17	little (quantity), few	'uhumak
+13.18	enough	ku'ašat
+13.181	some	'mačikiuč
+13.19	multitude, crowd	unc̷u'hi
+13.21	full	bɨtɨ
+13.22	empty	'pahatčau
+13.22	empty	ɨg'kɨtčau
+13.23	part, piece	puukbau
+13.24	half	'himaituk
+13.33	alone, only	nigki
+13.34	first	'dɨkatkau
+13.35	last	i'nagnamu
+13.37	pair	apatka
+13.38	two times	hima'ha
+13.42	third	kam'patumanuiya
+13.44	three times	kam'patumaima'nia
+14.11	time	c̷a'wan
+14.12	age	mihanhi
+14.13	new	ya'maham
+14.14	young	makima'kičik
+14.15	old	'muuntuč
+14.16	early	'kašik
+14.17	late	ag'ku
+14.18	now	yamai
+14.19	immediately	wamkɨs
+14.21	swift, fast, quick	wa'amak
+14.22	slow	diipasa
+14.23	hasten, hurry	waugtusa
+14.23	hasten, hurry	'wamkɨsa
+14.24	retard, delay	mɨgkaɨgat
+14.25	begin, beginning	nag'kamat
+14.252	last, endure	ku'ašatc̷a'wanda'kahatu
+14.26	end (temporal)	'nagkatkau
+14.27	finish	ašimat
+14.28	cease, stop	ašimat
+14.29	ready	uminc̷au
+14.31	always	tu'kɨau
+14.32	often	i'mihc̷uk
+14.33	sometimes	'nuniktatak
+14.331	soon	'waamak
+14.332	long-time (for a)	ku'ašatc̷a'wan
+14.34	never	a'humaiš
+14.35	again	atak'tu
+14.41	day	c̷a'wan
+14.42	night	kaši
+14.43	dawn	'kašikmas
+14.44	morning	'kašik
+14.45	noon, midday	'himaituk
+14.451	afternoon	ag'ku
+14.46	evening	c̷a'wanhɨgatinai
+14.47	today	yamai
+14.48	tomorrow	'kašikmas
+14.481	day-after-tomorrow	ka'šinpu'husc̷awak
+14.49	yesterday	ya'u
+14.491	day-before-yesterday	nuuyau
+14.51	hour	ɨc̷awa'hupakitatusa'dɨkamu
+14.53	clock, timepiece	ɨc̷adakumkamu
+14.71	month	nantu'tin
+14.73	year	mi'han
+14.74	winter	'yumitin
+14.75	spring	ɨsat
+14.76	summer	ɨsatsɨnčiɨc̷antu
+15.21	smell (vb intrans)	kug'kuut
+15.212	sniff	mɨhɨt
+15.22	smell (vb trans)	dɨkapɨt
+15.25	fragrant, good smelling	kugkug'ku
+15.26	stinking, bad smelling	c̷umainunmɨhɨau
+15.31	taste	'pɨgkɨt'dɨkapɨt
+15.35	sweet	yuminc̷ak
+15.36	salty	yapa'ku
+15.37	bitter	yapau
+15.38	acid, sour	čuhuin
+15.39	brackish	hɨa'hɨatu
+15.41	hear	'antut
+15.42	listen	'antut
+15.44	sound, noise	ši'namuhi
+15.45	loud	čahatu
+15.46	quiet, silence	bitat
+15.51	see	wainat
+15.52	look, look at	diit
+15.55	show	i'nakmamu
+15.56	shine	winčaɨmamu
+15.57	bright	winčamtin
+15.61	color	kɨ'patnuhi
+15.62	light (in color)	'paantu
+15.63	dark (in color)	bukusɨa
+15.63	dark (in color)	ka'hithau
+15.63	dark (in color)	bušapau
+15.64	white	puhu
+15.65	black	bu'kusɨa
+15.65	black	šu'win
+15.66	red	kapantu
+15.67	blue	wigka
+15.68	green	sa'mɨkbau
+15.69	yellow	šušui
+15.71	touch	awatut
+15.71	touch	umpuut
+15.712	pinch	čičit
+15.72	feel	dɨkapɨt
+15.74	hard	ka'c̷uham
+15.75	soft	tu'huthutu
+15.75	soft	ma'hamhatu
+15.76	rough	šuham
+15.77	smooth	ču'win
+15.77	smooth	pinu
+15.78	sharp	ɨ'c̷akamu
+15.79	blunt, dull	suyu'hu
+15.81	heavy	ki'hin
+15.82	light (in weight)	čikugpatin
+15.82	light (in weight)	'wahimas
+15.83	wet, damp	čupi'hu
+15.84	dry	buku
+15.85	hot	suku'tin
+15.851	warm	suku'tin
+15.86	cold	c̷ɨc̷ɨk
+15.87	clean	c̷u'watčau
+15.88	dirty, soiled	c̷uwat
+15.89	wrinkled	ni'nuɨhau
+15.89	wrinkled	mačuthau
+16.11	soul, spirit	wa'kan
+16.15	surprised, astonished	a'pagkamu
+16.18	good fortune, luck	uhuig
+16.19	misfortune, bad luck	ɨ'mɨsɨk
+16.23	joyful, glad, happy	da'kunkutu
+16.25	laugh	du'šiamu
+16.251	smile	dušit
+16.26	play	wa'sugkamat
+16.27	love	wa'kɨhut
+16.29	kiss	kugkut
+16.29	kiss	saukut
+16.3	embrace	'pagkut
+16.31	pain	nahamau
+16.32	grief, sorrow, sadness	na'hamau
+16.33	anxiety, worry	muumpat
+16.34	regret, be sorry	ɨ'hɨtut
+16.35	pity	wait'anɨntut
+16.37	cry, weep	'buutut
+16.37	cry, weep	'buutbau
+16.38	tear (noun)	nɨgaiki
+16.39	groan	'buutbau
+16.41	hate	kahɨhut
+16.42	anger	kahɨt
+16.44	envy, jealousy	ka'hɨhamu
+16.45	shame (noun)	da'c̷an
+16.48	proud	'ɨmɨbau
+16.52	brave	ka'kaham
+16.53	fear, fright	'sapig
+16.54	danger	i'šamain
+16.62	desire, want	anɨnta'imtamu
+16.62	desire, want	wa'kɨhamu
+16.622	choose	ɨtɨgkɨt
+16.63	hope	hintani'imhamu
+16.65	faithful	'šiigčičamanu'min
+16.66	true	šiigdɨkas
+16.67	lie, tell lies	wa'ithut
+16.68	deceit	c̷anubau
+16.69	forgive	c̷agkuhut
+16.71	good	'pɨgkɨg
+16.72	bad	'kac̷ɨk
+16.72	bad	'pɨgkɨgčau
+16.73	right, correct	bɨtɨk
+16.73	right, correct	dɨ'wakčamu
+16.74	wrong	bɨ'tɨkčau
+16.76	fault	ba'kumat
+16.77	mistake, error	dɨwat
+16.78	blame	baku'niamu
+16.79	praise	ɨmɨ'anɨnmikat
+16.81	beautiful	šiiham
+16.82	ugly	c̷umain
+16.82	ugly	'pɨgkɨgčau
+16.83	greedy	yukagtin
+16.84	clever	yan'c̷aptin
+16.84	clever	c̷ɨkɨskɨntau
+17.11	mind	anɨnta'imat
+17.13	think (= reflect)	anɨnta'imat
+17.14	think (= be of the opinion)	dɨkas'kɨapitamau
+17.15	believe	an'tuhut
+17.16	understand	'antut
+17.17	know	'dɨkat
+17.171	guess	diic̷uk'anaiyat
+17.172	imitate	dakumat
+17.18	seem	bɨtɨkniimtin
+17.19	idea, notion	anɨnta'imtamu
+17.19	idea, notion	anɨn'taibau
+17.21	wise	yača
+17.21	wise	dɨkau
+17.22	foolish, stupid	'antumtikmainčau
+17.23	insane, crazy	i'manhau
+17.24	learn	unu'imat
+17.242	study	a'uhut
+17.25	teach	hintintut
+17.26	pupil	ham
+17.27	teacher	hin'tinkagtin
+17.28	school	auhtai
+17.31	remember	anɨ'agbau
+17.32	forget	kahi'matut
+17.34	clear, plain	'paantu
+17.35	obscure	suwɨ
+17.36	secret	ɨ'c̷ɨgmainčau
+17.37	sure, certain	u'duɨkašmin
+17.38	explain	uhat
+17.38	explain	ɨ'c̷ɨhut
+17.41	intention, purpose	tukɨanɨas
+17.42	cause	nunikbauahamu
+17.43	doubt	utu'himau
+17.44	suspect	'nigkičuašittusaanɨnta'imtamu
+17.441	betray	c̷anuha'bakut
+17.441	betray	anagkuabakut
+17.45	need, necessity	a'c̷umat
+17.46	easy	'yupiču
+17.47	difficult	u'tugčat
+17.48	try, attempt	dɨkapɨt
+17.49	way, manner	ni'mɨ
+17.52	because	'wagkapa
+17.53	if	ɨ'ʔɨ
+17.55	yes, affirmative	ɨ'ʔɨ
+17.56	no, negative	a'c̷a
+17.61	how?	wahuk
+17.62	how many?	wa'hupaita
+17.63	how much?	wahupa
+17.64	what?	wa'hi
+17.65	when?	wahu'ti
+17.66	where?	tu'wi
+17.67	which?	tuuwa
+17.68	who?	ya
+17.69	why?	'wagkapa
+18.11	voice	'čičam
+18.12	sing	mat
+18.13	shout, cry out	šinut
+18.15	whisper	a'šišmat
+18.16	mumble	na'iɨmɨnačičau
+18.17	whistle	uhu'igmat
+18.18	shriek, screech	ča'hatbau
+18.19	howl	kuntinšinamu
+18.21	speak, talk	čičat
+18.211	stutter, stammer	dɨwamu
+18.211	stutter, stammer	dɨwat
+18.22	say	ɨ'čɨhut
+18.23	silent (be)	itatut
+18.24	language	'čičam
+18.26	word	čičam
+18.28	name	daahi
+18.31	ask (question, inquire)	ini'imat
+18.32	answer	aimat
+18.33	admit, confess	ait
+18.34	deny	uwamu
+18.35	ask, request	sɨgat
+18.36	promise	a'nagkut
+18.37	refuse	yapahia'čičat
+18.38	forbid	a'kasmatkamu
+18.39	rebuke, scold	hiyat
+18.41	call (=summon)	unc̷ut
+18.42	call (=name)	pɨak
+18.42	call (=name)	anaimat
+18.43	announce	uhat
+18.43	announce	ɨ'c̷ɨhut
+18.44	threaten	a'wanmat
+18.45	boast	'ɨmɨat
+18.51	write	'agat
+18.52	read	'auhut
+18.57	pen	uhɨ
+18.67	poet	'pɨgkɨhananɨnta'imagčičau
+18.71	flute	pigkui
+18.72	drum	tampug
+18.73	horn, trumpet	kistiankaču
+19.11	country	nugkamuunaɨnc̷ba'c̷atkamu
+19.12	one's native country	iinugkɨ
+19.15	city, town	yaakat
+19.16	village	ya'akat
+19.17	boundary	'nagkathamu
+19.21	people (populace)	aɨnc̷
+19.23	tribe, clan	aɨnc̷
+19.24	chief, chieftain	apuhi
+19.25	staff, walking stick	wai
+19.25	staff, walking stick	payag
+19.31	rule, govern	aɨnc̷čiča'ka'bac̷at
+19.36	noble, nobleman	'iman
+19.37	citizen, subject	aɨnc̷hiašiahamu
+19.41	master	wahiigtin
+19.42	slave	inak
+19.43	servant	inak
+19.44	freeman	aɨnc̷ag'kan
+19.45	command, order	a'wɨmat
+19.46	obey	umihut
+19.47	let, permit	inaiyat
+19.51	friend, companion	kumpag
+19.52	enemy	šiwag
+19.54	neighbor	'ihutkamu
+19.55	stranger	aɨnc̷'tikič'nugkanmaya
+19.56	guest	'ihag
+19.57	host	kahitai
+19.58	help, aid	ya'iniamu
+19.59	hinder, prevent	utuhit
+19.61	custom	inia'puhut
+19.62	strife, quarrel	ma'anit
+19.63	conspiracy, plot	i'huntuha'čičam'úmihut
+19.65	meet	wainat
+19.72	prostitute	nuwani'hiaku'akitai
+20.11	fight (vb)	ma'anit
+20.13	war, battle	ma'anit
+20.14	peace	ag'kan
+20.15	army	suntag
+20.17	soldier	suntag
+20.21	weapons, arms	maanitai
+20.22	club	kačuim
+20.222	battle-ax	kanam
+20.23	sling	kayaɨgkɨa'nagkimtai
+20.24	bow	numi'apunbau
+20.25	arrow	ihutaia'hagkɨmamu
+20.26	spear	nagki
+20.27	sword	c̷akaskatu
+20.28	gun, cannon	aka'hu
+20.31	armor (defensive)	ɨkɨnhamu
+20.34	shield	tantag
+20.35	fortress	kum'pin
+20.36	tower	kum'pin
+20.41	victory	dɨ'pɨtmakbau
+20.42	defeat	dɨ'pɨtmabau
+20.43	attack	hɨtɨt
+20.44	defend	a'yamhut
+20.45	retreat	hi'inbau
+20.46	surrender	su'humanat
+20.47	captive, prisoner	bisatak
+20.47	captive, prisoner	ači'kawa'itkamu
+20.471	guard, sentinel	hin'taniimin
+20.48	booty, spoils	ya'humakbau
+20.49	ambush	diyaku
+20.51	fisherman	namak'adaša'min
+20.52	fishhook	agsɨa
+20.53	fishing line	agsɨaanagkɨ
+20.56	bait	wiya
+20.61	hunt	kuntinmaut
+20.62	shoot	nagkit
+20.63	miss (target)	wagat
+20.63	miss (target)	imaut
+20.64	trap (noun)	i'wagtutai
+20.65	trap (vb)	ain'ha'ačit
+21.11	law	'čičamumiktin
+21.16	judge (vb)	aɨnc̷ba'kumatinɨ'hɨtamu
+21.17	judgment	tutit'čičam'dɨkamu
+21.18	judge (noun)	čičamanɨsɨ'yin
+21.21	plaintiff	čičamanpata'su
+21.22	defendant	a'yamhau
+21.23	witness	ɨtsɨgtin
+21.23	witness	atuwɨ
+21.25	oath	dɨkasɨku'niktina'sačičamu
+21.31	accuse	'čičama'punum'umihut
+21.32	condemn	ayam'humamainčauɨmat
+21.33	convict (vb)	dɨ'kapɨt
+21.34	acquit	ɨ'pɨgkɨt
+21.35	guilty	ba'kumagtin
+21.36	innocent	pɨg'kɨham
+21.37	penalty, punishment	su'wimak
+21.39	prison, jail	aɨnc̷ači'ka'ɨgkɨtai
+21.42	murder	aɨnc̷uu'ka'maut
+21.43	adultery	i'kagmat
+21.44	rape	wa'itkasadihigbau
+21.46	arson	kɨɨ'ku
+21.51	steal	kasamat
+21.52	thief	kasa

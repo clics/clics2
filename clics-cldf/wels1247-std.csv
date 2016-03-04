@@ -1,0 +1,2075 @@
+ID,Language_ID,Feature_ID,IDS_Key,Value,Concept,IPA_UDECODE
+clics-doculect-65-1,wels1247-std,concepticon-965,1.1,byd,world,byd
+clics-doculect-65-2,wels1247-std,concepticon-626,1.21,daear,"earth, land",daear
+clics-doculect-65-3,wels1247-std,concepticon-626,1.21,tir,"earth, land",tir
+clics-doculect-65-4,wels1247-std,concepticon-1228,1.212,pridd,"earth=ground, soil",pridd
+clics-doculect-65-5,wels1247-std,concepticon-2,1.213,llwch,dust,llwch
+clics-doculect-65-6,wels1247-std,concepticon-2,1.213,pylor,dust,pylor
+clics-doculect-65-7,wels1247-std,concepticon-640,1.214,llaid,mud,llaid
+clics-doculect-65-8,wels1247-std,concepticon-640,1.214,mwd,mud,mwd
+clics-doculect-65-9,wels1247-std,concepticon-671,1.215,tywod,sand,tywod
+clics-doculect-65-10,wels1247-std,concepticon-2118,1.22,mynydd,"mountain, hill",mynydd
+clics-doculect-65-11,wels1247-std,concepticon-2118,1.22,bryn,"mountain, hill",bryn
+clics-doculect-65-12,wels1247-std,concepticon-2118,1.22,bre,"mountain, hill",bre
+clics-doculect-65-13,wels1247-std,concepticon-618,1.222,clogwyn,"cliff, precipice",clogwyn
+clics-doculect-65-14,wels1247-std,concepticon-618,1.222,dibyn,"cliff, precipice",dibyn
+clics-doculect-65-15,wels1247-std,concepticon-652,1.23,gwastad,"plain, field",gwastad
+clics-doculect-65-16,wels1247-std,concepticon-652,1.23,maes,"plain, field",maes
+clics-doculect-65-17,wels1247-std,concepticon-652,1.23,gwastatir,"plain, field",gwastatir
+clics-doculect-65-18,wels1247-std,concepticon-921,1.24,dyffryn,valley,dyffryn
+clics-doculect-65-19,wels1247-std,concepticon-921,1.24,glyn,valley,glyn
+clics-doculect-65-20,wels1247-std,concepticon-921,1.24,cwm,valley,cwm
+clics-doculect-65-21,wels1247-std,concepticon-622,1.25,ynys,island,ynys
+clics-doculect-65-22,wels1247-std,concepticon-166,1.26,tirmawr,mainland,tirmawr
+clics-doculect-65-23,wels1247-std,concepticon-113,1.27,glan,shore,glan
+clics-doculect-65-24,wels1247-std,concepticon-113,1.27,tywyn,shore,tywyn
+clics-doculect-65-25,wels1247-std,concepticon-113,1.27,traeth,shore,traeth
+clics-doculect-65-26,wels1247-std,concepticon-113,1.27,arfordir,shore,arfordir
+clics-doculect-65-27,wels1247-std,concepticon-1155,1.28,ogof,cave,ogof
+clics-doculect-65-28,wels1247-std,concepticon-948,1.31,dwfr,water,dwfr
+clics-doculect-65-29,wels1247-std,concepticon-948,1.31,dŵr,water,dwr
+clics-doculect-65-30,wels1247-std,concepticon-1474,1.32,môr,sea,mor
+clics-doculect-65-31,wels1247-std,concepticon-258,1.322,llonydd,calm (of sea),llonydd
+clics-doculect-65-32,wels1247-std,concepticon-258,1.322,tawel,calm (of sea),tawel
+clics-doculect-65-33,wels1247-std,concepticon-259,1.323,garw,rough (of sea),garw
+clics-doculect-65-34,wels1247-std,concepticon-1768,1.324,ewyn,foam,ewyn
+clics-doculect-65-35,wels1247-std,concepticon-645,1.329,cefnfor,ocean,cefnfor
+clics-doculect-65-36,wels1247-std,concepticon-624,1.33,llyn,lake,llyn
+clics-doculect-65-37,wels1247-std,concepticon-663,1.34,morgainc,"gulf, bay",morgainc
+clics-doculect-65-38,wels1247-std,concepticon-663,1.34,gwlff,"gulf, bay",gwlff
+clics-doculect-65-39,wels1247-std,concepticon-623,1.341,merllyn,lagoon,merllyn
+clics-doculect-65-40,wels1247-std,concepticon-623,1.341,morlyn,lagoon,morlyn
+clics-doculect-65-41,wels1247-std,concepticon-623,1.341,lagŵn,lagoon,lagwn
+clics-doculect-65-42,wels1247-std,concepticon-660,1.342,creigres,reef,creigres
+clics-doculect-65-43,wels1247-std,concepticon-1662,1.343,penrhyn,"headland, point",penrhyn
+clics-doculect-65-44,wels1247-std,concepticon-1662,1.343,pentir,"headland, point",pentir
+clics-doculect-65-45,wels1247-std,concepticon-978,1.35,ton,wave,ton
+clics-doculect-65-46,wels1247-std,concepticon-978,1.35,gwaneg,wave,gwaneg
+clics-doculect-65-47,wels1247-std,concepticon-891,1.352,llanw,tide,llanw
+clics-doculect-65-48,wels1247-std,concepticon-1026,1.353,llanwisel,lowtide,llanwisel
+clics-doculect-65-49,wels1247-std,concepticon-613,1.354,llanwuchel,hightide,llanwuchel
+clics-doculect-65-50,wels1247-std,concepticon-666,1.36,afon,"river, stream, brook",afon
+clics-doculect-65-51,wels1247-std,concepticon-666,1.36,ffrwd,"river, stream, brook",ffrwd
+clics-doculect-65-52,wels1247-std,concepticon-666,1.36,nant,"river, stream, brook",nant
+clics-doculect-65-53,wels1247-std,concepticon-666,1.36,afonig,"river, stream, brook",afonig
+clics-doculect-65-54,wels1247-std,concepticon-1982,1.362,trobwll,whirlpool,trobwll
+clics-doculect-65-55,wels1247-std,concepticon-2144,1.37,ffynnon,"spring, well",ffynnon
+clics-doculect-65-56,wels1247-std,concepticon-2144,1.37,pydew,"spring, well",pydew
+clics-doculect-65-57,wels1247-std,concepticon-1145,1.38,cors,swamp,cors
+clics-doculect-65-58,wels1247-std,concepticon-943,1.39,pistyll,waterfall,pistyll
+clics-doculect-65-59,wels1247-std,concepticon-420,1.41,coedwig,"woods, forest",coedwig
+clics-doculect-65-60,wels1247-std,concepticon-420,1.41,coed,"woods, forest",coed
+clics-doculect-65-61,wels1247-std,concepticon-420,1.41,gwŷdd,"woods, forest",gwydd
+clics-doculect-65-64,wels1247-std,concepticon-1803,1.43,coed,wood,coed
+clics-doculect-65-65,wels1247-std,concepticon-1803,1.43,pren,wood,pren
+clics-doculect-65-66,wels1247-std,concepticon-2125,1.44,carreg,"stone, rock",carreg
+clics-doculect-65-67,wels1247-std,concepticon-2125,1.44,maen,"stone, rock",maen
+clics-doculect-65-68,wels1247-std,concepticon-2125,1.44,craig,"stone, rock",craig
+clics-doculect-65-69,wels1247-std,concepticon-6,1.45,daeargryn,earthquake,daeargryn
+clics-doculect-65-70,wels1247-std,concepticon-1732,1.51,wybr,sky,wybr
+clics-doculect-65-71,wels1247-std,concepticon-1732,1.51,wybren,sky,wybren
+clics-doculect-65-72,wels1247-std,concepticon-1732,1.51,nef,sky,nef
+clics-doculect-65-73,wels1247-std,concepticon-1343,1.52,haul,sun,haul
+clics-doculect-65-74,wels1247-std,concepticon-1343,1.52,huan,sun,huan
+clics-doculect-65-75,wels1247-std,concepticon-1313,1.53,lleuad,moon,lleuad
+clics-doculect-65-76,wels1247-std,concepticon-1313,1.53,lloer,moon,lloer
+clics-doculect-65-77,wels1247-std,concepticon-1430,1.54,seren,star,seren
+clics-doculect-65-78,wels1247-std,concepticon-1654,1.55,mellt,lightning,mellt
+clics-doculect-65-79,wels1247-std,concepticon-1654,1.55,lluched,lightning,lluched
+clics-doculect-65-80,wels1247-std,concepticon-1150,1.56,taran,thunder,taran
+clics-doculect-65-81,wels1247-std,concepticon-2007,1.57,mellten,lightning (as striking),mellten
+clics-doculect-65-82,wels1247-std,concepticon-2007,1.57,taran,lightning (as striking),taran
+clics-doculect-65-83,wels1247-std,concepticon-2007,1.57,tyrfau,lightning (as striking),tyrfau
+clics-doculect-65-84,wels1247-std,concepticon-858,1.58,storm,storm,storm
+clics-doculect-65-85,wels1247-std,concepticon-858,1.58,tymestl,storm,tymestl
+clics-doculect-65-86,wels1247-std,concepticon-858,1.58,rhyferthwy,storm,rhyferthwy
+clics-doculect-65-87,wels1247-std,concepticon-1733,1.59,enfys,rainbow,enfys
+clics-doculect-65-88,wels1247-std,concepticon-630,1.61,golau,light (noun),golau
+clics-doculect-65-89,wels1247-std,concepticon-630,1.61,goleuni,light (noun),goleuni
+clics-doculect-65-90,wels1247-std,concepticon-11,1.62,tywyllwch,darkness,tywyllwch
+clics-doculect-65-91,wels1247-std,concepticon-1388,1.63,cysgod,"shade, shadow",cysgod
+clics-doculect-65-92,wels1247-std,concepticon-1977,1.64,gwlith,dew,gwlith
+clics-doculect-65-93,wels1247-std,concepticon-27,1.71,awyr,air,awyr
+clics-doculect-65-94,wels1247-std,concepticon-27,1.71,aer,air,aer
+clics-doculect-65-95,wels1247-std,concepticon-960,1.72,gwynt,wind,gwynt
+clics-doculect-65-96,wels1247-std,concepticon-960,1.72,awel,wind,awel
+clics-doculect-65-97,wels1247-std,concepticon-1489,1.73,cwmwl,cloud,cwmwl
+clics-doculect-65-98,wels1247-std,concepticon-249,1.74,niwl,fog,niwl
+clics-doculect-65-99,wels1247-std,concepticon-249,1.74,nudd,fog,nudd
+clics-doculect-65-100,wels1247-std,concepticon-658,1.75,glaw,rain (noun),glaw
+clics-doculect-65-101,wels1247-std,concepticon-784,1.76,eira,snow (noun),eira
+clics-doculect-65-102,wels1247-std,concepticon-784,1.76,nyf,snow (noun),nyf
+clics-doculect-65-103,wels1247-std,concepticon-617,1.77,rhew,ice,rhew
+clics-doculect-65-104,wels1247-std,concepticon-617,1.77,iâ,ice,ia
+clics-doculect-65-105,wels1247-std,concepticon-952,1.78,tywydd,weather,tywydd
+clics-doculect-65-106,wels1247-std,concepticon-952,1.78,hin,weather,hin
+clics-doculect-65-107,wels1247-std,concepticon-221,1.81,tân,fire,tan
+clics-doculect-65-108,wels1247-std,concepticon-889,1.82,fflam,flame (noun),fflam
+clics-doculect-65-109,wels1247-std,concepticon-889,1.82,ffagl,flame (noun),ffagl
+clics-doculect-65-110,wels1247-std,concepticon-778,1.83,mwg,smoke (noun),mwg
+clics-doculect-65-111,wels1247-std,concepticon-646,1.84,lludw,ashes,lludw
+clics-doculect-65-112,wels1247-std,concepticon-67,1.841,marwor,embers,marwor
+clics-doculect-65-113,wels1247-std,concepticon-67,1.841,marwydos,embers,marwydos
+clics-doculect-65-114,wels1247-std,concepticon-141,1.851,llosgi,burn (vb trans),llosgi
+clics-doculect-65-115,wels1247-std,concepticon-1428,1.852,llosgi,burn (vb intrans),llosgi
+clics-doculect-65-116,wels1247-std,concepticon-737,1.86,ennyn,"light, kindle, ignite",ennyn
+clics-doculect-65-117,wels1247-std,concepticon-737,1.86,cynneu,"light, kindle, ignite",cynneu
+clics-doculect-65-118,wels1247-std,concepticon-127,1.861,diffodd,extinguish,diffodd
+clics-doculect-65-119,wels1247-std,concepticon-1133,1.87,matsen,match (noun),matsen
+clics-doculect-65-120,wels1247-std,concepticon-10,1.88,cynnud,firewood,cynnud
+clics-doculect-65-121,wels1247-std,concepticon-10,1.88,coedtân,firewood,coedtan
+clics-doculect-65-122,wels1247-std,concepticon-1188,1.89,siarcol,charcoal,siarcol
+clics-doculect-65-123,wels1247-std,concepticon-1188,1.89,sercol,charcoal,sercol
+clics-doculect-65-124,wels1247-std,concepticon-683,2.1,dyn,"person, human being",dyn
+clics-doculect-65-125,wels1247-std,concepticon-683,2.1,person,"person, human being",person
+clics-doculect-65-126,wels1247-std,concepticon-683,2.1,boddynol,"person, human being",boddynol
+clics-doculect-65-127,wels1247-std,concepticon-1554,2.21,gŵr,man (vs. woman),gwr
+clics-doculect-65-128,wels1247-std,concepticon-1554,2.21,dyn,man (vs. woman),dyn
+clics-doculect-65-129,wels1247-std,concepticon-962,2.22,gwraig,woman,gwraig
+clics-doculect-65-130,wels1247-std,concepticon-962,2.22,benyw,woman,benyw
+clics-doculect-65-131,wels1247-std,concepticon-962,2.22,dynes,woman,dynes
+clics-doculect-65-132,wels1247-std,concepticon-1553,2.23,gwryw,male,gwryw
+clics-doculect-65-133,wels1247-std,concepticon-1551,2.24,benyw,female,benyw
+clics-doculect-65-134,wels1247-std,concepticon-1366,2.25,bachgen,boy,bachgen
+clics-doculect-65-135,wels1247-std,concepticon-1366,2.25,hogyn,boy,hogyn
+clics-doculect-65-136,wels1247-std,concepticon-76,2.251,llanc,young man (adolescent),llanc
+clics-doculect-65-137,wels1247-std,concepticon-1646,2.26,geneth,girl,geneth
+clics-doculect-65-138,wels1247-std,concepticon-1646,2.26,hogen,girl,hogen
+clics-doculect-65-139,wels1247-std,concepticon-1646,2.26,merch,girl,merch
+clics-doculect-65-140,wels1247-std,concepticon-77,2.261,merch,young woman (adolescent),merch
+clics-doculect-65-141,wels1247-std,concepticon-77,2.261,llances,young woman (adolescent),llances
+clics-doculect-65-142,wels1247-std,concepticon-77,2.261,morwyn,young woman (adolescent),morwyn
+clics-doculect-65-143,wels1247-std,concepticon-1304,2.27,plentyn,child,plentyn
+clics-doculect-65-144,wels1247-std,concepticon-1289,2.28,maban,"infant, baby",maban
+clics-doculect-65-145,wels1247-std,concepticon-1289,2.28,babi,"infant, baby",babi
+clics-doculect-65-146,wels1247-std,concepticon-1200,2.31,gŵr,husband,gwr
+clics-doculect-65-147,wels1247-std,concepticon-1200,2.31,priod,husband,priod
+clics-doculect-65-148,wels1247-std,concepticon-1199,2.32,gwraig,wife,gwraig
+clics-doculect-65-149,wels1247-std,concepticon-1199,2.32,priod,wife,priod
+clics-doculect-65-150,wels1247-std,concepticon-203,2.33,priodi,marry,priodi
+clics-doculect-65-151,wels1247-std,concepticon-1259,2.34,priodas,"marriage, wedding",priodas
+clics-doculect-65-152,wels1247-std,concepticon-1259,2.34,neithior,"marriage, wedding",neithior
+clics-doculect-65-153,wels1247-std,concepticon-1134,2.341,ysgariad,divorce,ysgariad
+clics-doculect-65-154,wels1247-std,concepticon-1217,2.35,tad,father,tad
+clics-doculect-65-155,wels1247-std,concepticon-1216,2.36,mam,mother,mam
+clics-doculect-65-156,wels1247-std,concepticon-505,2.37,rhieni,parents,rhieni
+clics-doculect-65-157,wels1247-std,concepticon-424,2.38,dynpriod,married man,dynpriod
+clics-doculect-65-158,wels1247-std,concepticon-426,2.39,menywbriod,married woman,menywbriod
+clics-doculect-65-159,wels1247-std,concepticon-426,2.39,dynesbriod,married woman,dynesbriod
+clics-doculect-65-160,wels1247-std,concepticon-1620,2.41,mab,son,mab
+clics-doculect-65-161,wels1247-std,concepticon-1357,2.42,merch,daughter,merch
+clics-doculect-65-162,wels1247-std,concepticon-1801,2.43,plentyn,offspring (son or daughter),plentyn
+clics-doculect-65-163,wels1247-std,concepticon-1801,2.43,epil,offspring (son or daughter),epil
+clics-doculect-65-164,wels1247-std,concepticon-1262,2.44,brawd,brother,brawd
+clics-doculect-65-165,wels1247-std,concepticon-1759,2.444,brawdhŷn,older brother,brawdhyn
+clics-doculect-65-166,wels1247-std,concepticon-1760,2.445,brawdiau,younger brother,brawdiau
+clics-doculect-65-167,wels1247-std,concepticon-1263,2.45,chwaer,sister,chwaer
+clics-doculect-65-168,wels1247-std,concepticon-1758,2.454,chwaerhŷn,older sister,chwaerhyn
+clics-doculect-65-169,wels1247-std,concepticon-1761,2.455,chwaeriau,younger sister,chwaeriau
+clics-doculect-65-170,wels1247-std,concepticon-1640,2.456,brawd,sibling,brawd
+clics-doculect-65-171,wels1247-std,concepticon-1640,2.456,chwaer,sibling,chwaer
+clics-doculect-65-172,wels1247-std,concepticon-1005,2.458,efeilliaid,twins,efeilliaid
+clics-doculect-65-173,wels1247-std,concepticon-1383,2.46,taid,grandfather,taid
+clics-doculect-65-174,wels1247-std,concepticon-1383,2.46,tadcu,grandfather,tadcu
+clics-doculect-65-175,wels1247-std,concepticon-406,2.461,henwr,old man,henwr
+clics-doculect-65-176,wels1247-std,concepticon-406,2.461,henddyn,old man,henddyn
+clics-doculect-65-177,wels1247-std,concepticon-1496,2.47,nain,grandmother,nain
+clics-doculect-65-178,wels1247-std,concepticon-1496,2.47,mamgu,grandmother,mamgu
+clics-doculect-65-179,wels1247-std,concepticon-907,2.471,henfenyw,old woman,henfenyw
+clics-doculect-65-180,wels1247-std,concepticon-907,2.471,henwraig,old woman,henwraig
+clics-doculect-65-181,wels1247-std,concepticon-1618,2.48,ŵyr,grandson,wyr
+clics-doculect-65-182,wels1247-std,concepticon-1619,2.49,wyres,granddaughter,wyres
+clics-doculect-65-183,wels1247-std,concepticon-1327,2.51,ewythr,uncle,ewythr
+clics-doculect-65-184,wels1247-std,concepticon-1984,2.511,brawdmam,mother's brother,brawdmam
+clics-doculect-65-185,wels1247-std,concepticon-1985,2.512,brawdtad,father's brother,brawdtad
+clics-doculect-65-186,wels1247-std,concepticon-1272,2.52,modryb,aunt,modryb
+clics-doculect-65-187,wels1247-std,concepticon-171,2.521,chwaermam,mother's sister,chwaermam
+clics-doculect-65-188,wels1247-std,concepticon-170,2.522,chwaertad,father's sister,chwaertad
+clics-doculect-65-189,wels1247-std,concepticon-1063,2.53,nai,nephew,nai
+clics-doculect-65-190,wels1247-std,concepticon-1642,2.54,nith,niece,nith
+clics-doculect-65-191,wels1247-std,concepticon-1643,2.55,cefnder,cousin,cefnder
+clics-doculect-65-192,wels1247-std,concepticon-1643,2.55,cyfnither,cousin,cyfnither
+clics-doculect-65-193,wels1247-std,concepticon-1669,2.56,cyndadau,ancestors,cyndadau
+clics-doculect-65-194,wels1247-std,concepticon-1669,2.56,hynafiaid,ancestors,hynafiaid
+clics-doculect-65-195,wels1247-std,concepticon-1669,2.56,cyndeidiau,ancestors,cyndeidiau
+clics-doculect-65-196,wels1247-std,concepticon-490,2.57,disgynyddion,descendants,disgynyddion
+clics-doculect-65-197,wels1247-std,concepticon-2255,2.61,tadyngnghyfraith,father-in-law (of a man),tadyngnghyfraith
+clics-doculect-65-198,wels1247-std,concepticon-2254,2.611,tadyngnghyfraith,father-in-law (of a woman),tadyngnghyfraith
+clics-doculect-65-199,wels1247-std,concepticon-2256,2.62,mamyngnghyfraith,mother-in-law (of a man),mamyngnghyfraith
+clics-doculect-65-200,wels1247-std,concepticon-2257,2.621,mamyngnghyfraith,mother-in-law (of a woman),mamyngnghyfraith
+clics-doculect-65-201,wels1247-std,concepticon-2267,2.63,mabyngnghyfraith,son-in-law (of a man),mabyngnghyfraith
+clics-doculect-65-202,wels1247-std,concepticon-2266,2.631,mabyngnghyfraith,son-in-law (of a woman),mabyngnghyfraith
+clics-doculect-65-203,wels1247-std,concepticon-2265,2.64,merchyngnghyfraith,daughter-in-law (of a man),merchyngnghyfraith
+clics-doculect-65-204,wels1247-std,concepticon-2264,2.641,merchyngnghyfraith,daughter-in-law (of a woman),merchyngnghyfraith
+clics-doculect-65-205,wels1247-std,concepticon-237,2.71,llystad,stepfather,llystad
+clics-doculect-65-206,wels1247-std,concepticon-237,2.71,tadgwyn,stepfather,tadgwyn
+clics-doculect-65-207,wels1247-std,concepticon-236,2.72,llysfam,stepmother,llysfam
+clics-doculect-65-208,wels1247-std,concepticon-236,2.72,mamwen,stepmother,mamwen
+clics-doculect-65-209,wels1247-std,concepticon-1059,2.73,llysfab,stepson,llysfab
+clics-doculect-65-210,wels1247-std,concepticon-1058,2.74,llysferch,stepdaughter,llysferch
+clics-doculect-65-211,wels1247-std,concepticon-1149,2.75,plentynamddifad,orphan,plentynamddifad
+clics-doculect-65-212,wels1247-std,concepticon-1756,2.76,gweddw,widow,gweddw
+clics-doculect-65-213,wels1247-std,concepticon-1981,2.77,gŵrgweddw,widower,gwrgweddw
+clics-doculect-65-214,wels1247-std,concepticon-1981,2.77,gwidwer,widower,gwidwer
+clics-doculect-65-215,wels1247-std,concepticon-1981,2.77,gwidman,widower,gwidman
+clics-doculect-65-216,wels1247-std,concepticon-1644,2.81,perthnasau,"relatives, kinsmen",perthnasau
+clics-doculect-65-217,wels1247-std,concepticon-1644,2.81,ceraint,"relatives, kinsmen",ceraint
+clics-doculect-65-218,wels1247-std,concepticon-1644,2.81,perthynau,"relatives, kinsmen",perthynau
+clics-doculect-65-219,wels1247-std,concepticon-1644,2.81,tylwyth,"relatives, kinsmen",tylwyth
+clics-doculect-65-220,wels1247-std,concepticon-194,2.82,teulu,family,teulu
+clics-doculect-65-221,wels1247-std,concepticon-194,2.82,tylwyth,family,tylwyth
+clics-doculect-65-222,wels1247-std,concepticon-1209,2.91,fi,I,fi
+clics-doculect-65-223,wels1247-std,concepticon-1215,2.92,ti,you (singular),ti
+clics-doculect-65-224,wels1247-std,concepticon-262,2.93,ef,he/she/it,ef
+clics-doculect-65-225,wels1247-std,concepticon-262,2.93,hi,he/she/it,hi
+clics-doculect-65-226,wels1247-std,concepticon-1212,2.94,ni,we,ni
+clics-doculect-65-227,wels1247-std,concepticon-1131,2.941,ni,we (inclusive),ni
+clics-doculect-65-228,wels1247-std,concepticon-1130,2.942,ni,we (exclusive),ni
+clics-doculect-65-229,wels1247-std,concepticon-1213,2.95,chi,you (plural),chi
+clics-doculect-65-230,wels1247-std,concepticon-1213,2.95,chwi,you (plural),chwi
+clics-doculect-65-231,wels1247-std,concepticon-817,2.96,hwy,they,hwy
+clics-doculect-65-232,wels1247-std,concepticon-817,2.96,hwynt,they,hwynt
+clics-doculect-65-233,wels1247-std,concepticon-619,3.11,anifail,animal,anifail
+clics-doculect-65-234,wels1247-std,concepticon-619,3.11,mil,animal,mil
+clics-doculect-65-235,wels1247-std,concepticon-2261,3.12,gwryw,male (adj),gwryw
+clics-doculect-65-236,wels1247-std,concepticon-2262,3.13,benyw,female (adj),benyw
+clics-doculect-65-237,wels1247-std,concepticon-631,3.15,anifeiliaid,livestock,anifeiliaid
+clics-doculect-65-238,wels1247-std,concepticon-631,3.15,da,livestock,da
+clics-doculect-65-239,wels1247-std,concepticon-649,3.16,bugeilio,pasture,bugeilio
+clics-doculect-65-240,wels1247-std,concepticon-649,3.16,porfelaeth,pasture,porfelaeth
+clics-doculect-65-241,wels1247-std,concepticon-649,3.16,porfela,pasture,porfela
+clics-doculect-65-242,wels1247-std,concepticon-649,3.16,porfel,pasture,porfel
+clics-doculect-65-243,wels1247-std,concepticon-649,3.16,porfa,pasture,porfa
+clics-doculect-65-244,wels1247-std,concepticon-263,3.18,bugail,herdsman,bugail
+clics-doculect-65-245,wels1247-std,concepticon-263,3.18,cowmon,herdsman,cowmon
+clics-doculect-65-246,wels1247-std,concepticon-263,3.18,hensor,herdsman,hensor
+clics-doculect-65-247,wels1247-std,concepticon-851,3.19,ystabl,"stable, stall",ystabl
+clics-doculect-65-248,wels1247-std,concepticon-851,3.19,côr,"stable, stall",cor
+clics-doculect-65-249,wels1247-std,concepticon-1153,3.2,gwartheg,cattle (bovine),gwartheg
+clics-doculect-65-250,wels1247-std,concepticon-1153,3.2,da,cattle (bovine),da
+clics-doculect-65-251,wels1247-std,concepticon-1008,3.21,tarw,bull,tarw
+clics-doculect-65-252,wels1247-std,concepticon-1169,3.22,ych,ox,ych
+clics-doculect-65-253,wels1247-std,concepticon-1169,3.22,eidion,ox,eidion
+clics-doculect-65-254,wels1247-std,concepticon-1169,3.22,bustach,ox,bustach
+clics-doculect-65-255,wels1247-std,concepticon-1007,3.23,buwch,cow,buwch
+clics-doculect-65-256,wels1247-std,concepticon-1989,3.24,llo,calf,llo
+clics-doculect-65-257,wels1247-std,concepticon-1331,3.25,dafad,sheep,dafad
+clics-doculect-65-258,wels1247-std,concepticon-1344,3.26,hwrdd,ram,hwrdd
+clics-doculect-65-259,wels1247-std,concepticon-1344,3.26,maharen,ram,maharen
+clics-doculect-65-260,wels1247-std,concepticon-1345,3.28,dafad,ewe,dafad
+clics-doculect-65-261,wels1247-std,concepticon-1345,3.28,mamog,ewe,mamog
+clics-doculect-65-262,wels1247-std,concepticon-820,3.29,oen,lamb,oen
+clics-doculect-65-263,wels1247-std,concepticon-1348,3.32,baedd,boar,baedd
+clics-doculect-65-264,wels1247-std,concepticon-1348,3.32,twrch,boar,twrch
+clics-doculect-65-265,wels1247-std,concepticon-1351,3.34,hwch,sow,hwch
+clics-doculect-65-266,wels1247-std,concepticon-1337,3.35,mochyn,pig,mochyn
+clics-doculect-65-267,wels1247-std,concepticon-1502,3.36,gafr,goat,gafr
+clics-doculect-65-268,wels1247-std,concepticon-264,3.37,bwch,he-goat,bwch
+clics-doculect-65-269,wels1247-std,concepticon-1972,3.38,myn,kid,myn
+clics-doculect-65-270,wels1247-std,concepticon-615,3.41,ceffyl,horse (equine),ceffyl
+clics-doculect-65-271,wels1247-std,concepticon-615,3.41,march,horse (equine),march
+clics-doculect-65-272,wels1247-std,concepticon-936,3.42,march,stallion,march
+clics-doculect-65-273,wels1247-std,concepticon-936,3.42,ystalwyn,stallion,ystalwyn
+clics-doculect-65-274,wels1247-std,concepticon-938,3.44,caseg,mare,caseg
+clics-doculect-65-275,wels1247-std,concepticon-1647,3.45,ebol,"foal, colt",ebol
+clics-doculect-65-276,wels1247-std,concepticon-1862,3.46,asyn,"ass, donkey",asyn
+clics-doculect-65-277,wels1247-std,concepticon-890,3.47,mul,mule,mul
+clics-doculect-65-278,wels1247-std,concepticon-265,3.5,ffowlyn,fowl,ffowlyn
+clics-doculect-65-279,wels1247-std,concepticon-265,3.5,iâr,fowl,iar
+clics-doculect-65-280,wels1247-std,concepticon-265,3.5,dofedn,fowl,dofedn
+clics-doculect-65-281,wels1247-std,concepticon-1511,3.52,ceiliog,"cock, rooster",ceiliog
+clics-doculect-65-282,wels1247-std,concepticon-1514,3.54,iâr,hen,iar
+clics-doculect-65-283,wels1247-std,concepticon-1318,3.55,cyw,chicken,cyw
+clics-doculect-65-284,wels1247-std,concepticon-1187,3.56,gŵydd,goose,gwydd
+clics-doculect-65-285,wels1247-std,concepticon-1360,3.57,hwyad,duck,hwyad
+clics-doculect-65-286,wels1247-std,concepticon-1360,3.57,hwyaden,duck,hwyaden
+clics-doculect-65-287,wels1247-std,concepticon-539,3.58,nyth,nest,nyth
+clics-doculect-65-288,wels1247-std,concepticon-937,3.581,aderyn,bird,aderyn
+clics-doculect-65-289,wels1247-std,concepticon-937,3.581,edn,bird,edn
+clics-doculect-65-290,wels1247-std,concepticon-950,3.582,gwylan,seagull,gwylan
+clics-doculect-65-291,wels1247-std,concepticon-758,3.583,crëyr,heron,creyr
+clics-doculect-65-292,wels1247-std,concepticon-1905,3.584,eryr,eagle,eryr
+clics-doculect-65-293,wels1247-std,concepticon-307,3.585,gwalch,hawk,gwalch
+clics-doculect-65-294,wels1247-std,concepticon-307,3.585,hebog,hawk,hebog
+clics-doculect-65-295,wels1247-std,concepticon-1185,3.586,fwltur,vulture,fwltur
+clics-doculect-65-296,wels1247-std,concepticon-1793,3.591,ystlum,bat,ystlum
+clics-doculect-65-297,wels1247-std,concepticon-882,3.592,parot,parrot,parot
+clics-doculect-65-298,wels1247-std,concepticon-882,3.592,poliparot,parrot,poliparot
+clics-doculect-65-299,wels1247-std,concepticon-913,3.593,brân,crow,bran
+clics-doculect-65-300,wels1247-std,concepticon-1853,3.594,colomen,dove,colomen
+clics-doculect-65-301,wels1247-std,concepticon-735,3.596,tylluan,owl,tylluan
+clics-doculect-65-302,wels1247-std,concepticon-735,3.596,gwdihŵ,owl,gwdihw
+clics-doculect-65-303,wels1247-std,concepticon-2009,3.61,ci,dog,ci
+clics-doculect-65-304,wels1247-std,concepticon-1136,3.614,cwningen,rabbit,cwningen
+clics-doculect-65-305,wels1247-std,concepticon-1208,3.62,cath,cat,cath
+clics-doculect-65-306,wels1247-std,concepticon-309,3.622,oposwm,opossum,oposwm
+clics-doculect-65-307,wels1247-std,concepticon-2139,3.63,llygoden,"mouse, rat",llygoden
+clics-doculect-65-308,wels1247-std,concepticon-2139,3.63,llygodenfawr,"mouse, rat",llygodenfawr
+clics-doculect-65-309,wels1247-std,concepticon-2139,3.63,llygodenffyrnig,"mouse, rat",llygodenffyrnig
+clics-doculect-65-310,wels1247-std,concepticon-227,3.65,pysgodyn,fish,pysgodyn
+clics-doculect-65-311,wels1247-std,concepticon-227,3.65,pysg,fish,pysg
+clics-doculect-65-312,wels1247-std,concepticon-213,3.652,asgell,fin (dorsal),asgell
+clics-doculect-65-313,wels1247-std,concepticon-266,3.653,cen,fishscale,cen
+clics-doculect-65-314,wels1247-std,concepticon-266,3.653,cennyn,fishscale,cennyn
+clics-doculect-65-315,wels1247-std,concepticon-1916,3.654,tagell,gill,tagell
+clics-doculect-65-316,wels1247-std,concepticon-1916,3.654,crogen,gill,crogen
+clics-doculect-65-317,wels1247-std,concepticon-1916,3.654,cragen,gill,cragen
+clics-doculect-65-318,wels1247-std,concepticon-598,3.655,cragen,shell,cragen
+clics-doculect-65-319,wels1247-std,concepticon-1110,3.661,siarc,shark,siarc
+clics-doculect-65-320,wels1247-std,concepticon-1110,3.661,morgi,shark,morgi
+clics-doculect-65-321,wels1247-std,concepticon-1479,3.662,llamhidydd,"porpoise, dolphin",llamhidydd
+clics-doculect-65-322,wels1247-std,concepticon-1479,3.662,morhwch,"porpoise, dolphin",morhwch
+clics-doculect-65-323,wels1247-std,concepticon-1479,3.662,dolffin,"porpoise, dolphin",dolffin
+clics-doculect-65-324,wels1247-std,concepticon-957,3.663,morfil,whale,morfil
+clics-doculect-65-325,wels1247-std,concepticon-1910,3.664,cathfôrddu,stingray,cathforddu
+clics-doculect-65-326,wels1247-std,concepticon-1910,3.664,morgathddu,stingray,morgathddu
+clics-doculect-65-327,wels1247-std,concepticon-1013,3.665,llysywenrawn,freshwater eel,llysywenrawn
+clics-doculect-65-328,wels1247-std,concepticon-522,3.71,blaidd,wolf,blaidd
+clics-doculect-65-329,wels1247-std,concepticon-1386,3.72,llew,lion,llew
+clics-doculect-65-330,wels1247-std,concepticon-1820,3.73,arth,bear,arth
+clics-doculect-65-331,wels1247-std,concepticon-1312,3.74,cadno,fox,cadno
+clics-doculect-65-332,wels1247-std,concepticon-1312,3.74,llwynog,fox,llwynog
+clics-doculect-65-333,wels1247-std,concepticon-1936,3.75,carw,deer,carw
+clics-doculect-65-334,wels1247-std,concepticon-1936,3.75,hydd,deer,hydd
+clics-doculect-65-335,wels1247-std,concepticon-1350,3.76,mwnci,monkey,mwnci
+clics-doculect-65-336,wels1247-std,concepticon-1350,3.76,epa,monkey,epa
+clics-doculect-65-337,wels1247-std,concepticon-1290,3.77,eliffant,elephant,eliffant
+clics-doculect-65-338,wels1247-std,concepticon-1290,3.77,cawrfil,elephant,cawrfil
+clics-doculect-65-339,wels1247-std,concepticon-1871,3.78,camel,camel,camel
+clics-doculect-65-340,wels1247-std,concepticon-1871,3.78,cawrfarch,camel,cawrfarch
+clics-doculect-65-341,wels1247-std,concepticon-620,3.81,trychfilyn,insect,trychfilyn
+clics-doculect-65-342,wels1247-std,concepticon-620,3.81,pryfyn,insect,pryfyn
+clics-doculect-65-343,wels1247-std,concepticon-1392,3.811,lleuen,louse,lleuen
+clics-doculect-65-344,wels1247-std,concepticon-267,3.812,nedden,nit (louse egg),nedden
+clics-doculect-65-345,wels1247-std,concepticon-232,3.813,chwannen,flea,chwannen
+clics-doculect-65-346,wels1247-std,concepticon-1974,3.814,neidrgantroed,centipede,neidrgantroed
+clics-doculect-65-347,wels1247-std,concepticon-1974,3.814,cantroed,centipede,cantroed
+clics-doculect-65-348,wels1247-std,concepticon-1538,3.815,sgorpion,scorpion,sgorpion
+clics-doculect-65-349,wels1247-std,concepticon-1575,3.816,chwilenddu,cockroach,chwilenddu
+clics-doculect-65-350,wels1247-std,concepticon-587,3.817,morgrugyn,ant,morgrugyn
+clics-doculect-65-351,wels1247-std,concepticon-587,3.817,mywionyn,ant,mywionyn
+clics-doculect-65-352,wels1247-std,concepticon-587,3.817,mowion,ant,mowion
+clics-doculect-65-353,wels1247-std,concepticon-843,3.818,cor,spider,cor
+clics-doculect-65-354,wels1247-std,concepticon-843,3.818,corryn,spider,corryn
+clics-doculect-65-355,wels1247-std,concepticon-843,3.818,pryfcopyn,spider,pryfcopyn
+clics-doculect-65-356,wels1247-std,concepticon-1065,3.819,gwecorryn,spider web,gwecorryn
+clics-doculect-65-357,wels1247-std,concepticon-1065,3.819,gwepryfcopyn,spider web,gwepryfcopyn
+clics-doculect-65-358,wels1247-std,concepticon-665,3.82,gwenynen,bee,gwenynen
+clics-doculect-65-359,wels1247-std,concepticon-1931,3.821,cŵyrgwenyn,beeswax,cwyrgwenyn
+clics-doculect-65-360,wels1247-std,concepticon-88,3.822,cwchgwenyn,beehive,cwchgwenyn
+clics-doculect-65-361,wels1247-std,concepticon-1517,3.823,cacynen,wasp,cacynen
+clics-doculect-65-362,wels1247-std,concepticon-1517,3.823,piffgi,wasp,piffgi
+clics-doculect-65-363,wels1247-std,concepticon-1517,3.823,picwnen,wasp,picwnen
+clics-doculect-65-364,wels1247-std,concepticon-1517,3.823,piffgwnen,wasp,piffgwnen
+clics-doculect-65-365,wels1247-std,concepticon-1504,3.83,gwybedyn,fly,gwybedyn
+clics-doculect-65-366,wels1247-std,concepticon-1504,3.83,cylionyn,fly,cylionyn
+clics-doculect-65-367,wels1247-std,concepticon-1504,3.83,pry,fly,pry
+clics-doculect-65-368,wels1247-std,concepticon-1504,3.83,pryfyn,fly,pryfyn
+clics-doculect-65-369,wels1247-std,concepticon-1504,3.83,cleren,fly,cleren
+clics-doculect-65-370,wels1247-std,concepticon-95,3.831,gwybedynmân,"sandfly (midge), gnat",gwybedynman
+clics-doculect-65-371,wels1247-std,concepticon-95,3.831,mânwybedyn,"sandfly (midge), gnat",manwybedyn
+clics-doculect-65-372,wels1247-std,concepticon-95,3.831,piwiad,"sandfly (midge), gnat",piwiad
+clics-doculect-65-373,wels1247-std,concepticon-95,3.831,piwiedyn,"sandfly (midge), gnat",piwiedyn
+clics-doculect-65-374,wels1247-std,concepticon-1509,3.832,mosgito,mosquito,mosgito
+clics-doculect-65-375,wels1247-std,concepticon-1219,3.84,pryfgenwair,worm,pryfgenwair
+clics-doculect-65-376,wels1247-std,concepticon-730,3.85,neidr,snake,neidr
+clics-doculect-65-377,wels1247-std,concepticon-730,3.85,sarff,snake,sarff
+clics-doculect-65-378,wels1247-std,concepticon-206,3.91,pryftân,firefly,pryftan
+clics-doculect-65-379,wels1247-std,concepticon-1791,3.92,glöynbyw,butterfly,gloynbyw
+clics-doculect-65-380,wels1247-std,concepticon-1791,3.92,pilipala,butterfly,pilipala
+clics-doculect-65-381,wels1247-std,concepticon-607,3.93,ceiliogyrhedyn,grasshopper,ceiliogyrhedyn
+clics-doculect-65-382,wels1247-std,concepticon-1543,3.94,malwoden,snail,malwoden
+clics-doculect-65-383,wels1247-std,concepticon-503,3.95,broga,frog,broga
+clics-doculect-65-384,wels1247-std,concepticon-632,3.96,madfall,lizard,madfall
+clics-doculect-65-385,wels1247-std,concepticon-632,3.96,genaugoeg,lizard,genaugoeg
+clics-doculect-65-386,wels1247-std,concepticon-1857,3.97,crocodil,"crocodile, alligator",crocodil
+clics-doculect-65-387,wels1247-std,concepticon-1857,3.97,crocodeil,"crocodile, alligator",crocodeil
+clics-doculect-65-388,wels1247-std,concepticon-112,3.98,crwbanymôr,turtle,crwbanymor
+clics-doculect-65-389,wels1247-std,concepticon-112,3.98,môrgrwban,turtle,morgrwban
+clics-doculect-65-390,wels1247-std,concepticon-1480,4.11,corff,body,corff
+clics-doculect-65-391,wels1247-std,concepticon-763,4.12,croen,"skin, hide",croen
+clics-doculect-65-392,wels1247-std,concepticon-763,4.12,cen,"skin, hide",cen
+clics-doculect-65-393,wels1247-std,concepticon-2259,4.13,cig,flesh,cig
+clics-doculect-65-394,wels1247-std,concepticon-2259,4.13,cnawd,flesh,cnawd
+clics-doculect-65-395,wels1247-std,concepticon-1040,4.14,gwallt,hair (head),gwallt
+clics-doculect-65-396,wels1247-std,concepticon-1040,4.14,blew,hair (head),blew
+clics-doculect-65-397,wels1247-std,concepticon-678,4.142,barf,beard,barf
+clics-doculect-65-398,wels1247-std,concepticon-189,4.144,blew,body hair,blew
+clics-doculect-65-399,wels1247-std,concepticon-36,4.145,cedor,pubic hair,cedor
+clics-doculect-65-400,wels1247-std,concepticon-36,4.145,blewcedor,pubic hair,blewcedor
+clics-doculect-65-401,wels1247-std,concepticon-36,4.145,blew'rarffed,pubic hair,blew'rarffed
+clics-doculect-65-402,wels1247-std,concepticon-576,4.146,marwdon,dandruff,marwdon
+clics-doculect-65-403,wels1247-std,concepticon-576,4.146,mardon,dandruff,mardon
+clics-doculect-65-404,wels1247-std,concepticon-576,4.146,cen,dandruff,cen
+clics-doculect-65-405,wels1247-std,concepticon-946,4.15,gwaed,blood,gwaed
+clics-doculect-65-406,wels1247-std,concepticon-946,4.15,crau,blood,crau
+clics-doculect-65-407,wels1247-std,concepticon-525,4.151,gwythïen,"vein, artery",gwythien
+clics-doculect-65-408,wels1247-std,concepticon-1394,4.16,asgwrn,bone,asgwrn
+clics-doculect-65-409,wels1247-std,concepticon-801,4.162,asen,rib,asen
+clics-doculect-65-410,wels1247-std,concepticon-1393,4.17,corn,horn,corn
+clics-doculect-65-411,wels1247-std,concepticon-1220,4.18,cynffon,tail,cynffon
+clics-doculect-65-412,wels1247-std,concepticon-1291,4.19,cefn,back,cefn
+clics-doculect-65-413,wels1247-std,concepticon-805,4.191,asgwrncefn,spine,asgwrncefn
+clics-doculect-65-414,wels1247-std,concepticon-1256,4.2,pen,head,pen
+clics-doculect-65-415,wels1247-std,concepticon-1604,4.201,arlais,"side of head, temple",arlais
+clics-doculect-65-416,wels1247-std,concepticon-1605,4.202,penglog,skull,penglog
+clics-doculect-65-417,wels1247-std,concepticon-1583,4.203,ymennydd,brain,ymennydd
+clics-doculect-65-418,wels1247-std,concepticon-1560,4.204,wyneb,face,wyneb
+clics-doculect-65-419,wels1247-std,concepticon-123,4.205,talcen,forehead,talcen
+clics-doculect-65-420,wels1247-std,concepticon-798,4.207,gên,jaw,gen
+clics-doculect-65-421,wels1247-std,concepticon-798,4.207,cern,jaw,cern
+clics-doculect-65-422,wels1247-std,concepticon-1730,4.208,grudd,cheek,grudd
+clics-doculect-65-423,wels1247-std,concepticon-1730,4.208,boch,cheek,boch
+clics-doculect-65-424,wels1247-std,concepticon-1510,4.209,gên,chin,gen
+clics-doculect-65-425,wels1247-std,concepticon-1248,4.21,llygad,eye,llygad
+clics-doculect-65-426,wels1247-std,concepticon-1173,4.212,aelyllygad,eyebrow,aelyllygad
+clics-doculect-65-427,wels1247-std,concepticon-17,4.213,amrant,eyelid,amrant
+clics-doculect-65-428,wels1247-std,concepticon-17,4.213,clawrllygad,eyelid,clawrllygad
+clics-doculect-65-429,wels1247-std,concepticon-1540,4.214,blewynamrant,eyelash,blewynamrant
+clics-doculect-65-430,wels1247-std,concepticon-1655,4.215,amrantu,blink,amrantu
+clics-doculect-65-431,wels1247-std,concepticon-1655,4.215,ysmicio,blink,ysmicio
+clics-doculect-65-432,wels1247-std,concepticon-1247,4.22,clust,ear,clust
+clics-doculect-65-433,wels1247-std,concepticon-18,4.221,llabedclust,earlobe,llabedclust
+clics-doculect-65-434,wels1247-std,concepticon-32,4.222,cwyrclust,earwax,cwyrclust
+clics-doculect-65-435,wels1247-std,concepticon-1221,4.23,trwyn,nose,trwyn
+clics-doculect-65-436,wels1247-std,concepticon-1178,4.231,ffroen,nostril,ffroen
+clics-doculect-65-437,wels1247-std,concepticon-208,4.232,llysnafedd,mucus (nasal),llysnafedd
+clics-doculect-65-438,wels1247-std,concepticon-674,4.24,ceg,mouth,ceg
+clics-doculect-65-439,wels1247-std,concepticon-674,4.24,genau,mouth,genau
+clics-doculect-65-440,wels1247-std,concepticon-73,4.241,pig,beak,pig
+clics-doculect-65-441,wels1247-std,concepticon-478,4.25,gwefus,lip,gwefus
+clics-doculect-65-442,wels1247-std,concepticon-478,4.25,gwefl,lip,gwefl
+clics-doculect-65-443,wels1247-std,concepticon-1205,4.26,tafod,tongue,tafod
+clics-doculect-65-444,wels1247-std,concepticon-1380,4.27,dant,tooth,dant
+clics-doculect-65-445,wels1247-std,concepticon-139,4.271,cigydannedd,gums,cigydannedd
+clics-doculect-65-446,wels1247-std,concepticon-139,4.271,gorchafan,gums,gorchafan
+clics-doculect-65-447,wels1247-std,concepticon-1049,4.272,dantmalu,molartooth,dantmalu
+clics-doculect-65-448,wels1247-std,concepticon-1049,4.272,cilddant,molartooth,cilddant
+clics-doculect-65-449,wels1247-std,concepticon-1049,4.272,bochddant,molartooth,bochddant
+clics-doculect-65-450,wels1247-std,concepticon-1333,4.28,gwddf,neck,gwddf
+clics-doculect-65-451,wels1247-std,concepticon-1333,4.28,mwnwgl,neck,mwnwgl
+clics-doculect-65-452,wels1247-std,concepticon-1347,4.281,gwar,nape of neck,gwar
+clics-doculect-65-453,wels1247-std,concepticon-1347,4.281,gwegil,nape of neck,gwegil
+clics-doculect-65-454,wels1247-std,concepticon-1346,4.29,gwddf,throat,gwddf
+clics-doculect-65-455,wels1247-std,concepticon-1482,4.3,ysgwydd,shoulder,ysgwydd
+clics-doculect-65-456,wels1247-std,concepticon-172,4.301,palfais,shoulderblade,palfais
+clics-doculect-65-457,wels1247-std,concepticon-172,4.301,crafellysgwydd,shoulderblade,crafellysgwydd
+clics-doculect-65-458,wels1247-std,concepticon-1994,4.302,pontyrysgwydd,collarbone,pontyrysgwydd
+clics-doculect-65-459,wels1247-std,concepticon-1994,4.302,trybeddyrysgwydd,collarbone,trybeddyrysgwydd
+clics-doculect-65-460,wels1247-std,concepticon-1673,4.31,braich,arm,braich
+clics-doculect-65-461,wels1247-std,concepticon-1886,4.312,cesail,armpit,cesail
+clics-doculect-65-462,wels1247-std,concepticon-981,4.32,elin,elbow,elin
+clics-doculect-65-463,wels1247-std,concepticon-981,4.32,penelin,elbow,penelin
+clics-doculect-65-464,wels1247-std,concepticon-799,4.321,arddwrn,wrist,arddwrn
+clics-doculect-65-465,wels1247-std,concepticon-1277,4.33,llaw,hand,llaw
+clics-doculect-65-466,wels1247-std,concepticon-1183,4.331,palf,palm of hand,palf
+clics-doculect-65-467,wels1247-std,concepticon-1303,4.34,bys,finger,bys
+clics-doculect-65-468,wels1247-std,concepticon-1781,4.342,bawd,thumb,bawd
+clics-doculect-65-469,wels1247-std,concepticon-1781,4.342,bodfys,thumb,bodfys
+clics-doculect-65-470,wels1247-std,concepticon-1781,4.342,bysbawd,thumb,bysbawd
+clics-doculect-65-471,wels1247-std,concepticon-1258,4.344,ewin,fingernail,ewin
+clics-doculect-65-472,wels1247-std,concepticon-72,4.345,crafanc,claw,crafanc
+clics-doculect-65-473,wels1247-std,concepticon-1297,4.35,coes,leg,coes
+clics-doculect-65-474,wels1247-std,concepticon-800,4.351,morddwyd,thigh,morddwyd
+clics-doculect-65-475,wels1247-std,concepticon-498,4.352,crothcoes,calf of leg,crothcoes
+clics-doculect-65-476,wels1247-std,concepticon-498,4.352,bolacoes,calf of leg,bolacoes
+clics-doculect-65-477,wels1247-std,concepticon-1371,4.36,glin,knee,glin
+clics-doculect-65-478,wels1247-std,concepticon-1371,4.36,penglin,knee,penglin
+clics-doculect-65-479,wels1247-std,concepticon-1301,4.37,troed,foot,troed
+clics-doculect-65-480,wels1247-std,concepticon-803,4.371,ffêr,ankle,ffer
+clics-doculect-65-481,wels1247-std,concepticon-803,4.371,migwrn,ankle,migwrn
+clics-doculect-65-482,wels1247-std,concepticon-980,4.372,sawdl,heel,sawdl
+clics-doculect-65-483,wels1247-std,concepticon-318,4.374,ôltroed,footprint,oltroed
+clics-doculect-65-484,wels1247-std,concepticon-1389,4.38,bystroed,toe,bystroed
+clics-doculect-65-485,wels1247-std,concepticon-1257,4.392,adain,wing,adain
+clics-doculect-65-486,wels1247-std,concepticon-1257,4.392,asgell,wing,asgell
+clics-doculect-65-487,wels1247-std,concepticon-1201,4.393,pluen,feather,pluen
+clics-doculect-65-488,wels1247-std,concepticon-1592,4.4,bron,chest,bron
+clics-doculect-65-489,wels1247-std,concepticon-1592,4.4,dwyfron,chest,dwyfron
+clics-doculect-65-490,wels1247-std,concepticon-1402,4.41,bron,breast (of woman),bron
+clics-doculect-65-491,wels1247-std,concepticon-796,4.412,teth,"nipple, teat",teth
+clics-doculect-65-492,wels1247-std,concepticon-154,4.42,pwrs,udder,pwrs
+clics-doculect-65-493,wels1247-std,concepticon-154,4.42,cader,udder,cader
+clics-doculect-65-494,wels1247-std,concepticon-1838,4.43,bogail,navel,bogail
+clics-doculect-65-495,wels1247-std,concepticon-1223,4.44,calon,heart,calon
+clics-doculect-65-496,wels1247-std,concepticon-688,4.441,ysgyfaint,lung,ysgyfaint
+clics-doculect-65-497,wels1247-std,concepticon-1224,4.45,afu,liver,afu
+clics-doculect-65-498,wels1247-std,concepticon-1224,4.45,iau,liver,iau
+clics-doculect-65-499,wels1247-std,concepticon-489,4.451,aren,kidney,aren
+clics-doculect-65-500,wels1247-std,concepticon-489,4.451,lwlen,kidney,lwlen
+clics-doculect-65-501,wels1247-std,concepticon-1744,4.452,dueg,spleen,dueg
+clics-doculect-65-502,wels1247-std,concepticon-1744,4.452,potenludw,spleen,potenludw
+clics-doculect-65-503,wels1247-std,concepticon-819,4.46,bol,stomach,bol
+clics-doculect-65-504,wels1247-std,concepticon-819,4.46,bola,stomach,bola
+clics-doculect-65-505,wels1247-std,concepticon-819,4.46,cylla,stomach,cylla
+clics-doculect-65-506,wels1247-std,concepticon-819,4.46,stumog,stomach,stumog
+clics-doculect-65-507,wels1247-std,concepticon-1991,4.461,coluddion,"intestines, guts",coluddion
+clics-doculect-65-508,wels1247-std,concepticon-1991,4.461,perfeddion,"intestines, guts",perfeddion
+clics-doculect-65-509,wels1247-std,concepticon-1681,4.462,canol,waist,canol
+clics-doculect-65-510,wels1247-std,concepticon-1681,4.462,gwasg,waist,gwasg
+clics-doculect-65-511,wels1247-std,concepticon-1681,4.462,meingorff,waist,meingorff
+clics-doculect-65-512,wels1247-std,concepticon-1745,4.463,clun,hip,clun
+clics-doculect-65-513,wels1247-std,concepticon-1745,4.463,penyglun,hip,penyglun
+clics-doculect-65-514,wels1247-std,concepticon-834,4.464,penôl,buttocks,penol
+clics-doculect-65-515,wels1247-std,concepticon-834,4.464,tin,buttocks,tin
+clics-doculect-65-516,wels1247-std,concepticon-804,4.47,croth,womb,croth
+clics-doculect-65-517,wels1247-std,concepticon-804,4.47,bru,womb,bru
+clics-doculect-65-518,wels1247-std,concepticon-797,4.49,caill,testicle,caill
+clics-doculect-65-519,wels1247-std,concepticon-1222,4.492,cal,penis,cal
+clics-doculect-65-520,wels1247-std,concepticon-1222,4.492,pidyn,penis,pidyn
+clics-doculect-65-521,wels1247-std,concepticon-1407,4.51,anadlu,"breathe, breath",anadlu
+clics-doculect-65-522,wels1247-std,concepticon-1407,4.51,anadl,"breathe, breath",anadl
+clics-doculect-65-523,wels1247-std,concepticon-1028,4.52,dylyfugên,"yawn, gape",dylyfugen
+clics-doculect-65-524,wels1247-std,concepticon-162,4.521,igian,hiccough,igian
+clics-doculect-65-525,wels1247-std,concepticon-879,4.53,pesychu,cough,pesychu
+clics-doculect-65-526,wels1247-std,concepticon-1621,4.54,tisian,sneeze,tisian
+clics-doculect-65-527,wels1247-std,concepticon-126,4.55,chwysu,perspire,chwysu
+clics-doculect-65-528,wels1247-std,concepticon-1440,4.56,poeri,spit,poeri
+clics-doculect-65-529,wels1247-std,concepticon-1278,4.57,cyfogi,vomit,cyfogi
+clics-doculect-65-530,wels1247-std,concepticon-1278,4.57,chwydu,vomit,chwydu
+clics-doculect-65-531,wels1247-std,concepticon-1403,4.58,brathu,bite,brathu
+clics-doculect-65-532,wels1247-std,concepticon-1403,4.58,cnoi,bite,cnoi
+clics-doculect-65-533,wels1247-std,concepticon-319,4.59,llyfu,lick,llyfu
+clics-doculect-65-534,wels1247-std,concepticon-268,4.591,glafoerio,dribble,glafoerio
+clics-doculect-65-535,wels1247-std,concepticon-268,4.591,dreflu,dribble,dreflu
+clics-doculect-65-536,wels1247-std,concepticon-1585,4.61,cysgu,sleep,cysgu
+clics-doculect-65-537,wels1247-std,concepticon-1585,4.61,huno,sleep,huno
+clics-doculect-65-538,wels1247-std,concepticon-1585,4.61,hun,sleep,hun
+clics-doculect-65-539,wels1247-std,concepticon-1585,4.61,cwsg,sleep,cwsg
+clics-doculect-65-540,wels1247-std,concepticon-1983,4.612,rhochian,snore,rhochian
+clics-doculect-65-541,wels1247-std,concepticon-1920,4.62,breuddwydio,dream,breuddwydio
+clics-doculect-65-542,wels1247-std,concepticon-1602,4.63,dihuno,wake up,dihuno
+clics-doculect-65-543,wels1247-std,concepticon-1602,4.63,deffro,wake up,deffro
+clics-doculect-65-544,wels1247-std,concepticon-1159,4.64,bramu,break wind,bramu
+clics-doculect-65-545,wels1247-std,concepticon-1159,4.64,rhechian,break wind,rhechian
+clics-doculect-65-546,wels1247-std,concepticon-1159,4.64,torrigwynt,break wind,torrigwynt
+clics-doculect-65-547,wels1247-std,concepticon-1159,4.64,rhechu,break wind,rhechu
+clics-doculect-65-548,wels1247-std,concepticon-592,4.65,piso,urinate,piso
+clics-doculect-65-549,wels1247-std,concepticon-592,4.65,troethi,urinate,troethi
+clics-doculect-65-550,wels1247-std,concepticon-592,4.65,pis,urinate,pis
+clics-doculect-65-551,wels1247-std,concepticon-592,4.65,troeth,urinate,troeth
+clics-doculect-65-552,wels1247-std,concepticon-676,4.66,cachu,defecate,cachu
+clics-doculect-65-553,wels1247-std,concepticon-676,4.66,caca,defecate,caca
+clics-doculect-65-554,wels1247-std,concepticon-676,4.66,cach,defecate,cach
+clics-doculect-65-555,wels1247-std,concepticon-676,4.66,tom,defecate,tom
+clics-doculect-65-556,wels1247-std,concepticon-1785,4.67,caelcyfathrach,have sexual intercourse,caelcyfathrach
+clics-doculect-65-557,wels1247-std,concepticon-1785,4.67,cnuchio,have sexual intercourse,cnuchio
+clics-doculect-65-558,wels1247-std,concepticon-1785,4.67,cydio,have sexual intercourse,cydio
+clics-doculect-65-559,wels1247-std,concepticon-52,4.68,rhynnu,shiver,rhynnu
+clics-doculect-65-560,wels1247-std,concepticon-52,4.68,crynu,shiver,crynu
+clics-doculect-65-561,wels1247-std,concepticon-138,4.69,ymdrochi,bathe,ymdrochi
+clics-doculect-65-562,wels1247-std,concepticon-138,4.69,ymolchi,bathe,ymolchi
+clics-doculect-65-563,wels1247-std,concepticon-138,4.69,trochi,bathe,trochi
+clics-doculect-65-564,wels1247-std,concepticon-138,4.69,golchi,bathe,golchi
+clics-doculect-65-565,wels1247-std,concepticon-1152,4.71,cenhedlu,beget (of father),cenhedlu
+clics-doculect-65-566,wels1247-std,concepticon-1090,4.72,geni,born (to be),geni
+clics-doculect-65-567,wels1247-std,concepticon-1123,4.73,beichiog,pregnant,beichiog
+clics-doculect-65-568,wels1247-std,concepticon-1087,4.732,beichiogi,conceive,beichiogi
+clics-doculect-65-569,wels1247-std,concepticon-1087,4.732,cenhedluplentyn,conceive,cenhedluplentyn
+clics-doculect-65-570,wels1247-std,concepticon-1422,4.74,byw,"live, living, life",byw
+clics-doculect-65-571,wels1247-std,concepticon-1422,4.74,bywyd,"live, living, life",bywyd
+clics-doculect-65-572,wels1247-std,concepticon-1494,4.75,marw,"die, dead",marw
+clics-doculect-65-573,wels1247-std,concepticon-1494,4.75,wedimarw,"die, dead",wedimarw
+clics-doculect-65-574,wels1247-std,concepticon-1494,4.75,angau,"die, dead",angau
+clics-doculect-65-575,wels1247-std,concepticon-1494,4.75,marwolaeth,"die, dead",marwolaeth
+clics-doculect-65-576,wels1247-std,concepticon-1904,4.751,wedieifoddi,drowned,wedieifoddi
+clics-doculect-65-577,wels1247-std,concepticon-1904,4.751,boddedig,drowned,boddedig
+clics-doculect-65-578,wels1247-std,concepticon-1417,4.76,lladd,kill,lladd
+clics-doculect-65-579,wels1247-std,concepticon-767,4.77,corff,corpse,corff
+clics-doculect-65-580,wels1247-std,concepticon-767,4.77,celain,corpse,celain
+clics-doculect-65-581,wels1247-std,concepticon-1719,4.78,claddu,bury (the dead),claddu
+clics-doculect-65-582,wels1247-std,concepticon-1719,4.78,daearu,bury (the dead),daearu
+clics-doculect-65-583,wels1247-std,concepticon-1773,4.79,bedd,"grave, tomb",bedd
+clics-doculect-65-584,wels1247-std,concepticon-1773,4.79,beddrod,"grave, tomb",beddrod
+clics-doculect-65-585,wels1247-std,concepticon-785,4.81,cryf,"strong, mighty, powerful",cryf
+clics-doculect-65-586,wels1247-std,concepticon-785,4.81,cadarn,"strong, mighty, powerful",cadarn
+clics-doculect-65-587,wels1247-std,concepticon-785,4.81,nerthol,"strong, mighty, powerful",nerthol
+clics-doculect-65-588,wels1247-std,concepticon-1601,4.82,gwan,weak,gwan
+clics-doculect-65-589,wels1247-std,concepticon-1601,4.82,eiddil,weak,eiddil
+clics-doculect-65-590,wels1247-std,concepticon-1364,4.83,iach,"well, health",iach
+clics-doculect-65-591,wels1247-std,concepticon-1364,4.83,holliach,"well, health",holliach
+clics-doculect-65-592,wels1247-std,concepticon-1364,4.83,iechyd,"well, health",iechyd
+clics-doculect-65-593,wels1247-std,concepticon-1847,4.84,claf,"sick, sickness",claf
+clics-doculect-65-594,wels1247-std,concepticon-1847,4.84,clefyd,"sick, sickness",clefyd
+clics-doculect-65-595,wels1247-std,concepticon-1847,4.84,afiechyd,"sick, sickness",afiechyd
+clics-doculect-65-596,wels1247-std,concepticon-1534,4.841,twymyn,fever,twymyn
+clics-doculect-65-597,wels1247-std,concepticon-1534,4.841,gwres,fever,gwres
+clics-doculect-65-598,wels1247-std,concepticon-1957,4.842,chwyddygwddf,goiter,chwyddygwddf
+clics-doculect-65-599,wels1247-std,concepticon-102,4.843,annwyd,cold (catarrh),annwyd
+clics-doculect-65-600,wels1247-std,concepticon-1109,4.85,archoll,"wound, sore",archoll
+clics-doculect-65-601,wels1247-std,concepticon-1109,4.85,gweli,"wound, sore",gweli
+clics-doculect-65-602,wels1247-std,concepticon-1109,4.85,briw,"wound, sore",briw
+clics-doculect-65-603,wels1247-std,concepticon-1109,4.85,clwyf,"wound, sore",clwyf
+clics-doculect-65-604,wels1247-std,concepticon-1148,4.852,clais,bruise,clais
+clics-doculect-65-605,wels1247-std,concepticon-1903,4.853,chwydd,swelling,chwydd
+clics-doculect-65-606,wels1247-std,concepticon-1903,4.853,chwyddi,swelling,chwyddi
+clics-doculect-65-607,wels1247-std,concepticon-148,4.854,cosfa,itch,cosfa
+clics-doculect-65-608,wels1247-std,concepticon-148,4.854,cosi,itch,cosi
+clics-doculect-65-609,wels1247-std,concepticon-1584,4.855,pothell,blister,pothell
+clics-doculect-65-610,wels1247-std,concepticon-1584,4.855,plistryn,blister,plistryn
+clics-doculect-65-611,wels1247-std,concepticon-1584,4.855,chwysigen,blister,chwysigen
+clics-doculect-65-612,wels1247-std,concepticon-1584,4.855,swigen,blister,swigen
+clics-doculect-65-613,wels1247-std,concepticon-793,4.856,casgliad,boil (noun),casgliad
+clics-doculect-65-614,wels1247-std,concepticon-793,4.856,cornwyd,boil (noun),cornwyd
+clics-doculect-65-615,wels1247-std,concepticon-793,4.856,pendduyn,boil (noun),pendduyn
+clics-doculect-65-616,wels1247-std,concepticon-1808,4.857,crawn,pus,crawn
+clics-doculect-65-617,wels1247-std,concepticon-1808,4.857,crawniad,pus,crawniad
+clics-doculect-65-618,wels1247-std,concepticon-1808,4.857,casgl,pus,casgl
+clics-doculect-65-619,wels1247-std,concepticon-497,4.858,craith,scar,craith
+clics-doculect-65-620,wels1247-std,concepticon-499,4.86,iacháu,"cure, heal",iachau
+clics-doculect-65-621,wels1247-std,concepticon-499,4.86,gwella,"cure, heal",gwella
+clics-doculect-65-622,wels1247-std,concepticon-597,4.87,meddyg,physician,meddyg
+clics-doculect-65-623,wels1247-std,concepticon-597,4.87,doctor,physician,doctor
+clics-doculect-65-624,wels1247-std,concepticon-1372,4.88,meddyginiaeth,"medicine, drug",meddyginiaeth
+clics-doculect-65-625,wels1247-std,concepticon-1372,4.88,cyffur,"medicine, drug",cyffur
+clics-doculect-65-626,wels1247-std,concepticon-1372,4.88,ffisig,"medicine, drug",ffisig
+clics-doculect-65-627,wels1247-std,concepticon-1372,4.88,moddion,"medicine, drug",moddion
+clics-doculect-65-628,wels1247-std,concepticon-655,4.89,gwenwyn,poison,gwenwyn
+clics-doculect-65-629,wels1247-std,concepticon-1757,4.91,lluddedig,"tired, weary",lluddedig
+clics-doculect-65-630,wels1247-std,concepticon-1757,4.91,blinedig,"tired, weary",blinedig
+clics-doculect-65-631,wels1247-std,concepticon-1757,4.91,blin,"tired, weary",blin
+clics-doculect-65-632,wels1247-std,concepticon-168,4.912,gorffwys,rest,gorffwys
+clics-doculect-65-633,wels1247-std,concepticon-168,4.912,dadflino,rest,dadflino
+clics-doculect-65-634,wels1247-std,concepticon-1564,4.92,diog,lazy,diog
+clics-doculect-65-635,wels1247-std,concepticon-1125,4.93,moel,bald,moel
+clics-doculect-65-636,wels1247-std,concepticon-320,4.94,cloff,lame,cloff
+clics-doculect-65-637,wels1247-std,concepticon-996,4.95,byddar,deaf,byddar
+clics-doculect-65-638,wels1247-std,concepticon-1666,4.96,mud,mute,mud
+clics-doculect-65-639,wels1247-std,concepticon-1653,4.97,dall,blind,dall
+clics-doculect-65-640,wels1247-std,concepticon-1463,4.98,meddw,intoxicated,meddw
+clics-doculect-65-641,wels1247-std,concepticon-590,4.99,noeth,"naked, bare",noeth
+clics-doculect-65-642,wels1247-std,concepticon-590,4.99,llwm,"naked, bare",llwm
+clics-doculect-65-643,wels1247-std,concepticon-1336,5.11,bwyta,eat,bwyta
+clics-doculect-65-644,wels1247-std,concepticon-256,5.12,bwyd,food,bwyd
+clics-doculect-65-645,wels1247-std,concepticon-269,5.121,wedieigoginio,cooked,wedieigoginio
+clics-doculect-65-646,wels1247-std,concepticon-1959,5.122,amrwd,raw,amrwd
+clics-doculect-65-647,wels1247-std,concepticon-1959,5.122,crai,raw,crai
+clics-doculect-65-648,wels1247-std,concepticon-178,5.123,aeddfed,ripe,aeddfed
+clics-doculect-65-649,wels1247-std,concepticon-1958,5.124,anaeddfed,"green, unripe",anaeddfed
+clics-doculect-65-650,wels1247-std,concepticon-1728,5.125,pwdr,rotten,pwdr
+clics-doculect-65-651,wels1247-std,concepticon-1728,5.125,pydredig,rotten,pydredig
+clics-doculect-65-652,wels1247-std,concepticon-1401,5.13,yfed,drink,yfed
+clics-doculect-65-653,wels1247-std,concepticon-1864,5.14,eisiaubwyd,hunger,eisiaubwyd
+clics-doculect-65-654,wels1247-std,concepticon-1864,5.14,chwantbwyd,hunger,chwantbwyd
+clics-doculect-65-655,wels1247-std,concepticon-199,5.141,newyn,famine,newyn
+clics-doculect-65-656,wels1247-std,concepticon-199,5.141,llwgfa,famine,llwgfa
+clics-doculect-65-657,wels1247-std,concepticon-848,5.15,syched,thirst,syched
+clics-doculect-65-658,wels1247-std,concepticon-1421,5.16,sugno,suck,sugno
+clics-doculect-65-659,wels1247-std,concepticon-1421,5.16,dyfnu,suck,dyfnu
+clics-doculect-65-660,wels1247-std,concepticon-321,5.18,cnoi,chew,cnoi
+clics-doculect-65-661,wels1247-std,concepticon-897,5.181,llyncu,swallow,llyncu
+clics-doculect-65-662,wels1247-std,concepticon-129,5.19,tagu,choke,tagu
+clics-doculect-65-663,wels1247-std,concepticon-1100,5.21,coginio,cook,coginio
+clics-doculect-65-664,wels1247-std,concepticon-792,5.22,berwi,boil (vb),berwi
+clics-doculect-65-665,wels1247-std,concepticon-2146,5.23,rhostio,"roast, fry",rhostio
+clics-doculect-65-666,wels1247-std,concepticon-2146,5.23,crasu,"roast, fry",crasu
+clics-doculect-65-667,wels1247-std,concepticon-2146,5.23,ffrio,"roast, fry",ffrio
+clics-doculect-65-668,wels1247-std,concepticon-183,5.24,pobi,bake,pobi
+clics-doculect-65-669,wels1247-std,concepticon-183,5.24,crasu,bake,crasu
+clics-doculect-65-670,wels1247-std,concepticon-1143,5.25,ffwrn,oven,ffwrn
+clics-doculect-65-671,wels1247-std,concepticon-1143,5.25,popty,oven,popty
+clics-doculect-65-672,wels1247-std,concepticon-1462,5.26,pot,"pot, cooking vessel",pot
+clics-doculect-65-673,wels1247-std,concepticon-1462,5.26,crochan,"pot, cooking vessel",crochan
+clics-doculect-65-674,wels1247-std,concepticon-854,5.27,tegell,kettle,tegell
+clics-doculect-65-675,wels1247-std,concepticon-31,5.28,padell,pan,padell
+clics-doculect-65-676,wels1247-std,concepticon-31,5.28,pan,pan,pan
+clics-doculect-65-677,wels1247-std,concepticon-31,5.28,caserol,pan,caserol
+clics-doculect-65-678,wels1247-std,concepticon-481,5.31,dysgl,dish,dysgl
+clics-doculect-65-679,wels1247-std,concepticon-480,5.32,plât,plate,plat
+clics-doculect-65-680,wels1247-std,concepticon-1530,5.33,powlen,bowl,powlen
+clics-doculect-65-681,wels1247-std,concepticon-270,5.34,piser,"pitcher, jug",piser
+clics-doculect-65-682,wels1247-std,concepticon-270,5.34,siwg,"pitcher, jug",siwg
+clics-doculect-65-683,wels1247-std,concepticon-476,5.35,cwpan,"cup, drinking vessel",cwpan
+clics-doculect-65-684,wels1247-std,concepticon-271,5.36,soser,saucer,soser
+clics-doculect-65-685,wels1247-std,concepticon-1378,5.37,llwy,spoon,llwy
+clics-doculect-65-686,wels1247-std,concepticon-1352,5.38,cyllell,knife,cyllell
+clics-doculect-65-687,wels1247-std,concepticon-337,5.39,fforcyn,fork,fforcyn
+clics-doculect-65-688,wels1247-std,concepticon-272,5.391,gefeiliau,tongs,gefeiliau
+clics-doculect-65-689,wels1247-std,concepticon-1526,5.41,pryd,meal (a),pryd
+clics-doculect-65-690,wels1247-std,concepticon-1322,5.42,brecwast,breakfast,brecwast
+clics-doculect-65-691,wels1247-std,concepticon-1322,5.42,boreufwyd,breakfast,boreufwyd
+clics-doculect-65-692,wels1247-std,concepticon-768,5.43,cinio,lunch,cinio
+clics-doculect-65-693,wels1247-std,concepticon-1833,5.44,cinio,dinner,cinio
+clics-doculect-65-694,wels1247-std,concepticon-1833,5.45,swper,supper,swper
+clics-doculect-65-695,wels1247-std,concepticon-275,5.46,plicio,peel,plicio
+clics-doculect-65-696,wels1247-std,concepticon-275,5.46,pilio,peel,pilio
+clics-doculect-65-697,wels1247-std,concepticon-86,5.47,hidlo,"sieve, strain",hidlo
+clics-doculect-65-698,wels1247-std,concepticon-1767,5.48,crafu,scrape,crafu
+clics-doculect-65-699,wels1247-std,concepticon-1767,5.48,plicio,scrape,plicio
+clics-doculect-65-700,wels1247-std,concepticon-2017,5.49,troi,"stir, mix",troi
+clics-doculect-65-701,wels1247-std,concepticon-2017,5.49,cymysgu,"stir, mix",cymysgu
+clics-doculect-65-702,wels1247-std,concepticon-1368,5.51,bara,bread,bara
+clics-doculect-65-703,wels1247-std,concepticon-273,5.53,toes,dough,toes
+clics-doculect-65-704,wels1247-std,concepticon-274,5.54,tylino,knead,tylino
+clics-doculect-65-705,wels1247-std,concepticon-1594,5.55,blawd,"meal, flour",blawd
+clics-doculect-65-706,wels1247-std,concepticon-1033,5.56,malu,"crush, grind",malu
+clics-doculect-65-707,wels1247-std,concepticon-636,5.57,melin,mill,melin
+clics-doculect-65-708,wels1247-std,concepticon-224,5.58,breuan,mortar,breuan
+clics-doculect-65-709,wels1247-std,concepticon-224,5.58,mortar,mortar,mortar
+clics-doculect-65-710,wels1247-std,concepticon-225,5.59,pestl,pestle,pestl
+clics-doculect-65-711,wels1247-std,concepticon-634,5.61,cig,meat,cig
+clics-doculect-65-712,wels1247-std,concepticon-1874,5.63,selsig,sausage,selsig
+clics-doculect-65-713,wels1247-std,concepticon-1874,5.63,sosej,sausage,sosej
+clics-doculect-65-714,wels1247-std,concepticon-1547,5.64,potes,"soup, broth",potes
+clics-doculect-65-715,wels1247-std,concepticon-1547,5.64,cawl,"soup, broth",cawl
+clics-doculect-65-716,wels1247-std,concepticon-924,5.65,llysiau,vegetables,llysiau
+clics-doculect-65-717,wels1247-std,concepticon-832,5.66,ffäen,bean,ffaen
+clics-doculect-65-718,wels1247-std,concepticon-832,5.66,ffeuen,bean,ffeuen
+clics-doculect-65-719,wels1247-std,concepticon-593,5.7,taten,potato,taten
+clics-doculect-65-720,wels1247-std,concepticon-1507,5.71,ffrwyth,fruit,ffrwyth
+clics-doculect-65-721,wels1247-std,concepticon-1966,5.712,bwnsiad,bunch,bwnsiad
+clics-doculect-65-722,wels1247-std,concepticon-322,5.75,ffigysen,fig,ffigysen
+clics-doculect-65-723,wels1247-std,concepticon-920,5.76,grawnwinen,grape,grawnwinen
+clics-doculect-65-724,wels1247-std,concepticon-191,5.77,cneuen,nut,cneuen
+clics-doculect-65-725,wels1247-std,concepticon-1154,5.78,olif,olive,olif
+clics-doculect-65-726,wels1247-std,concepticon-1484,5.79,olew,oil,olew
+clics-doculect-65-727,wels1247-std,concepticon-323,5.791,saim,"grease, fat",saim
+clics-doculect-65-728,wels1247-std,concepticon-323,5.791,braster,"grease, fat",braster
+clics-doculect-65-729,wels1247-std,concepticon-1274,5.81,halen,salt,halen
+clics-doculect-65-730,wels1247-std,concepticon-1385,5.82,pupur,pepper,pupur
+clics-doculect-65-731,wels1247-std,concepticon-919,5.821,tsili,chili pepper,tsili
+clics-doculect-65-732,wels1247-std,concepticon-942,5.84,mêl,honey,mel
+clics-doculect-65-733,wels1247-std,concepticon-862,5.85,siwgr,sugar,siwgr
+clics-doculect-65-734,wels1247-std,concepticon-635,5.86,llaeth,milk (noun),llaeth
+clics-doculect-65-735,wels1247-std,concepticon-635,5.86,llefrith,milk (noun),llefrith
+clics-doculect-65-736,wels1247-std,concepticon-93,5.87,godro,milk (vb),godro
+clics-doculect-65-737,wels1247-std,concepticon-1569,5.88,caws,cheese,caws
+clics-doculect-65-738,wels1247-std,concepticon-1245,5.89,ymenyn,butter,ymenyn
+clics-doculect-65-739,wels1247-std,concepticon-731,5.9,diod,"beverage, drink",diod
+clics-doculect-65-740,wels1247-std,concepticon-731,5.9,llymaid,"beverage, drink",llymaid
+clics-doculect-65-741,wels1247-std,concepticon-941,5.91,medd,mead,medd
+clics-doculect-65-742,wels1247-std,concepticon-1524,5.92,gwin,wine,gwin
+clics-doculect-65-743,wels1247-std,concepticon-1639,5.93,cwrw,beer,cwrw
+clics-doculect-65-744,wels1247-std,concepticon-404,5.94,diodwedieiheplesu,fermented drink,diodwedieiheplesu
+clics-doculect-65-745,wels1247-std,concepticon-744,5.97,wy,egg,wy
+clics-doculect-65-746,wels1247-std,concepticon-1556,5.971,melynwy,egg yolk,melynwy
+clics-doculect-65-747,wels1247-std,concepticon-158,6.11,gwisgo,put on (clothes),gwisgo
+clics-doculect-65-748,wels1247-std,concepticon-158,6.11,dilladu,put on (clothes),dilladu
+clics-doculect-65-749,wels1247-std,concepticon-158,6.11,ymwisgo,put on (clothes),ymwisgo
+clics-doculect-65-750,wels1247-std,concepticon-1895,6.12,dillad,"clothing, clothes",dillad
+clics-doculect-65-751,wels1247-std,concepticon-1895,6.12,gwisg,"clothing, clothes",gwisg
+clics-doculect-65-752,wels1247-std,concepticon-1895,6.12,gwisgoedd,"clothing, clothes",gwisgoedd
+clics-doculect-65-753,wels1247-std,concepticon-881,6.13,teiliwr,tailor,teiliwr
+clics-doculect-65-754,wels1247-std,concepticon-1616,6.21,brethyn,cloth,brethyn
+clics-doculect-65-755,wels1247-std,concepticon-1616,6.21,defnydd,cloth,defnydd
+clics-doculect-65-756,wels1247-std,concepticon-964,6.22,gwlân,wool,gwlan
+clics-doculect-65-757,wels1247-std,concepticon-964,6.22,edafedd,wool,edafedd
+clics-doculect-65-758,wels1247-std,concepticon-916,6.23,lliain,"linen, flax",lliain
+clics-doculect-65-759,wels1247-std,concepticon-916,6.23,llin,"linen, flax",llin
+clics-doculect-65-760,wels1247-std,concepticon-1850,6.24,cotwm,cotton,cotwm
+clics-doculect-65-761,wels1247-std,concepticon-1641,6.25,sidan,silk,sidan
+clics-doculect-65-762,wels1247-std,concepticon-325,6.27,ffelt,felt,ffelt
+clics-doculect-65-763,wels1247-std,concepticon-325,6.27,brethyn,felt,brethyn
+clics-doculect-65-764,wels1247-std,concepticon-325,6.27,llawban,felt,llawban
+clics-doculect-65-765,wels1247-std,concepticon-580,6.28,ffwr,fur,ffwr
+clics-doculect-65-766,wels1247-std,concepticon-629,6.29,lledr,leather,lledr
+clics-doculect-65-767,wels1247-std,concepticon-121,6.31,nyddu,spin,nyddu
+clics-doculect-65-768,wels1247-std,concepticon-277,6.32,gwerthyd,spindle,gwerthyd
+clics-doculect-65-769,wels1247-std,concepticon-133,6.33,gwehyddu,weave,gwehyddu
+clics-doculect-65-770,wels1247-std,concepticon-133,6.33,gweu,weave,gweu
+clics-doculect-65-771,wels1247-std,concepticon-1787,6.34,gwŷdd,loom,gwydd
+clics-doculect-65-772,wels1247-std,concepticon-1457,6.35,gwnïo,sew,gwnio
+clics-doculect-65-773,wels1247-std,concepticon-1382,6.36,nodwydd,needle,nodwydd
+clics-doculect-65-774,wels1247-std,concepticon-278,6.37,mynawyd,awl,mynawyd
+clics-doculect-65-775,wels1247-std,concepticon-1161,6.38,edau,thread,edau
+clics-doculect-65-776,wels1247-std,concepticon-157,6.39,llifo,dye,llifo
+clics-doculect-65-777,wels1247-std,concepticon-157,6.39,lliwio,dye,lliwio
+clics-doculect-65-778,wels1247-std,concepticon-326,6.41,mantell,cloak,mantell
+clics-doculect-65-779,wels1247-std,concepticon-326,6.41,cochl,cloak,cochl
+clics-doculect-65-780,wels1247-std,concepticon-326,6.41,clog,cloak,clog
+clics-doculect-65-781,wels1247-std,concepticon-327,6.411,ponsio,poncho,ponsio
+clics-doculect-65-782,wels1247-std,concepticon-474,6.42,ffrog,woman's dress,ffrog
+clics-doculect-65-783,wels1247-std,concepticon-603,6.43,côt,coat,cot
+clics-doculect-65-784,wels1247-std,concepticon-1622,6.44,crys,shirt,crys
+clics-doculect-65-785,wels1247-std,concepticon-2012,6.45,coler,collar,coler
+clics-doculect-65-786,wels1247-std,concepticon-1600,6.46,sgert,skirt,sgert
+clics-doculect-65-787,wels1247-std,concepticon-328,6.461,sgertwair,grass-skirt,sgertwair
+clics-doculect-65-788,wels1247-std,concepticon-809,6.48,trowsus,trousers,trowsus
+clics-doculect-65-789,wels1247-std,concepticon-809,6.48,llodrau,trousers,llodrau
+clics-doculect-65-790,wels1247-std,concepticon-329,6.49,hosan,"stocking, sock",hosan
+clics-doculect-65-791,wels1247-std,concepticon-329,6.49,socsen,"stocking, sock",socsen
+clics-doculect-65-792,wels1247-std,concepticon-329,6.49,socas,"stocking, sock",socas
+clics-doculect-65-793,wels1247-std,concepticon-1381,6.51,esgid,shoe,esgid
+clics-doculect-65-794,wels1247-std,concepticon-585,6.52,esgiddrom,boot,esgiddrom
+clics-doculect-65-795,wels1247-std,concepticon-585,6.52,botas,boot,botas
+clics-doculect-65-796,wels1247-std,concepticon-875,6.54,crydd,"shoemaker, cobbler",crydd
+clics-doculect-65-797,wels1247-std,concepticon-2130,6.55,het,"hat, cap",het
+clics-doculect-65-798,wels1247-std,concepticon-2130,6.55,cap,"hat, cap",cap
+clics-doculect-65-799,wels1247-std,concepticon-772,6.57,gwregys,"belt, girdle",gwregys
+clics-doculect-65-800,wels1247-std,concepticon-867,6.58,maneg,glove,maneg
+clics-doculect-65-801,wels1247-std,concepticon-1151,6.59,gorchudd,veil,gorchudd
+clics-doculect-65-802,wels1247-std,concepticon-1851,6.61,llogell,pocket,llogell
+clics-doculect-65-803,wels1247-std,concepticon-1851,6.61,poced,pocket,poced
+clics-doculect-65-804,wels1247-std,concepticon-757,6.62,botwm,button,botwm
+clics-doculect-65-805,wels1247-std,concepticon-64,6.63,pìn,pin,pin
+clics-doculect-65-806,wels1247-std,concepticon-917,6.71,addurniad,"ornament, adornment",addurniad
+clics-doculect-65-807,wels1247-std,concepticon-917,6.71,trwsiad,"ornament, adornment",trwsiad
+clics-doculect-65-808,wels1247-std,concepticon-1029,6.72,gem,jewel,gem
+clics-doculect-65-809,wels1247-std,concepticon-1029,6.72,tlws,jewel,tlws
+clics-doculect-65-810,wels1247-std,concepticon-1374,6.73,modrwy,ring (for finger),modrwy
+clics-doculect-65-811,wels1247-std,concepticon-1754,6.74,breichled,bracelet,breichled
+clics-doculect-65-812,wels1247-std,concepticon-1961,6.75,cadwen,necklace,cadwen
+clics-doculect-65-813,wels1247-std,concepticon-1961,6.75,mwclis,necklace,mwclis
+clics-doculect-65-814,wels1247-std,concepticon-1961,6.75,neclis,necklace,neclis
+clics-doculect-65-815,wels1247-std,concepticon-1860,6.76,glain,bead,glain
+clics-doculect-65-816,wels1247-std,concepticon-770,6.77,clustdlws,earring,clustdlws
+clics-doculect-65-817,wels1247-std,concepticon-330,6.78,penrwymyn,"headband, headdress",penrwymyn
+clics-doculect-65-818,wels1247-std,concepticon-330,6.78,ffunen,"headband, headdress",ffunen
+clics-doculect-65-819,wels1247-std,concepticon-68,6.79,tatŵ,tattoo,tatw
+clics-doculect-65-820,wels1247-std,concepticon-332,6.81,cadach,"handkerchief, rag",cadach
+clics-doculect-65-821,wels1247-std,concepticon-332,6.81,hances,"handkerchief, rag",hances
+clics-doculect-65-822,wels1247-std,concepticon-1021,6.82,lliain,towel,lliain
+clics-doculect-65-823,wels1247-std,concepticon-1021,6.82,tywel,towel,tywel
+clics-doculect-65-824,wels1247-std,concepticon-1475,6.91,crib,comb,crib
+clics-doculect-65-825,wels1247-std,concepticon-1821,6.92,brws,brush,brws
+clics-doculect-65-826,wels1247-std,concepticon-333,6.921,plethen,braid,plethen
+clics-doculect-65-827,wels1247-std,concepticon-151,6.93,rasel,razor,rasel
+clics-doculect-65-828,wels1247-std,concepticon-151,6.93,ellyn,razor,ellyn
+clics-doculect-65-829,wels1247-std,concepticon-1926,6.94,ennaint,ointment,ennaint
+clics-doculect-65-830,wels1247-std,concepticon-1926,6.94,eli,ointment,eli
+clics-doculect-65-831,wels1247-std,concepticon-788,6.95,sebon,soap,sebon
+clics-doculect-65-832,wels1247-std,concepticon-1171,6.96,drych,mirror,drych
+clics-doculect-65-833,wels1247-std,concepticon-363,7.11,trigiannu,"dwell, live",trigiannu
+clics-doculect-65-834,wels1247-std,concepticon-363,7.11,trigo,"dwell, live",trigo
+clics-doculect-65-835,wels1247-std,concepticon-363,7.11,preswylio,"dwell, live",preswylio
+clics-doculect-65-836,wels1247-std,concepticon-363,7.11,byw,"dwell, live",byw
+clics-doculect-65-837,wels1247-std,concepticon-1252,7.12,tŷ,house,ty
+clics-doculect-65-838,wels1247-std,concepticon-1678,7.13,bwth,hut,bwth
+clics-doculect-65-839,wels1247-std,concepticon-1678,7.13,cwt,hut,cwt
+clics-doculect-65-840,wels1247-std,concepticon-1678,7.13,caban,hut,caban
+clics-doculect-65-841,wels1247-std,concepticon-1678,7.13,cut,hut,cut
+clics-doculect-65-842,wels1247-std,concepticon-403,7.131,hafdy,garden-house,hafdy
+clics-doculect-65-843,wels1247-std,concepticon-403,7.131,tŷhaf,garden-house,tyhaf
+clics-doculect-65-844,wels1247-std,concepticon-1316,7.14,pabell,tent,pabell
+clics-doculect-65-845,wels1247-std,concepticon-736,7.15,iard,"yard, court",iard
+clics-doculect-65-846,wels1247-std,concepticon-736,7.15,buarth,"yard, court",buarth
+clics-doculect-65-847,wels1247-std,concepticon-408,7.16,tŷdynion,men's house,tydynion
+clics-doculect-65-848,wels1247-std,concepticon-334,7.17,cegin,cookhouse,cegin
+clics-doculect-65-849,wels1247-std,concepticon-335,7.18,tŷcwrdd,meeting house,tycwrdd
+clics-doculect-65-850,wels1247-std,concepticon-1450,7.21,ystafell,room,ystafell
+clics-doculect-65-851,wels1247-std,concepticon-1567,7.22,drws,"door, gate",drws
+clics-doculect-65-852,wels1247-std,concepticon-1567,7.22,dôr,"door, gate",dor
+clics-doculect-65-853,wels1247-std,concepticon-1567,7.22,porth,"door, gate",porth
+clics-doculect-65-854,wels1247-std,concepticon-80,7.221,cilbost,"doorpost, jamb",cilbost
+clics-doculect-65-855,wels1247-std,concepticon-80,7.221,postyndrws,"doorpost, jamb",postyndrws
+clics-doculect-65-856,wels1247-std,concepticon-1596,7.23,clo,lock (noun),clo
+clics-doculect-65-857,wels1247-std,concepticon-1012,7.231,clicied,"latch, door-bolt",clicied
+clics-doculect-65-858,wels1247-std,concepticon-1012,7.231,bollt,"latch, door-bolt",bollt
+clics-doculect-65-859,wels1247-std,concepticon-1472,7.24,allwedd,key,allwedd
+clics-doculect-65-860,wels1247-std,concepticon-1472,7.24,agoriad,key,agoriad
+clics-doculect-65-861,wels1247-std,concepticon-1375,7.25,ffenestr,window,ffenestr
+clics-doculect-65-862,wels1247-std,concepticon-1632,7.26,llawr,floor,llawr
+clics-doculect-65-863,wels1247-std,concepticon-933,7.27,mur,wall,mur
+clics-doculect-65-864,wels1247-std,concepticon-933,7.27,wal,wall,wal
+clics-doculect-65-865,wels1247-std,concepticon-933,7.27,gwal,wall,gwal
+clics-doculect-65-866,wels1247-std,concepticon-933,7.27,magwyr,wall,magwyr
+clics-doculect-65-867,wels1247-std,concepticon-933,7.27,pared,wall,pared
+clics-doculect-65-868,wels1247-std,concepticon-185,7.31,lletân,fireplace,lletan
+clics-doculect-65-869,wels1247-std,concepticon-859,7.32,stof,stove,stof
+clics-doculect-65-870,wels1247-std,concepticon-1305,7.33,simdde,chimney,simdde
+clics-doculect-65-871,wels1247-std,concepticon-1305,7.33,simnai,chimney,simnai
+clics-doculect-65-872,wels1247-std,concepticon-1464,7.37,ysgol,ladder,ysgol
+clics-doculect-65-873,wels1247-std,concepticon-1663,7.42,gwely,bed,gwely
+clics-doculect-65-874,wels1247-std,concepticon-1044,7.421,clustog,pillow,clustog
+clics-doculect-65-875,wels1247-std,concepticon-806,7.422,blanced,blanket,blanced
+clics-doculect-65-876,wels1247-std,concepticon-806,7.422,gwrthban,blanket,gwrthban
+clics-doculect-65-877,wels1247-std,concepticon-806,7.422,carthen,blanket,carthen
+clics-doculect-65-878,wels1247-std,concepticon-1476,7.43,cadair,chair,cadair
+clics-doculect-65-879,wels1247-std,concepticon-1775,7.44,bwrdd,table,bwrdd
+clics-doculect-65-880,wels1247-std,concepticon-1775,7.44,bord,table,bord
+clics-doculect-65-881,wels1247-std,concepticon-2131,7.45,lamp,"lamp, torch",lamp
+clics-doculect-65-882,wels1247-std,concepticon-2131,7.45,llusern,"lamp, torch",llusern
+clics-doculect-65-883,wels1247-std,concepticon-1273,7.46,cannwyll,candle,cannwyll
+clics-doculect-65-884,wels1247-std,concepticon-745,7.47,silff,shelf,silff
+clics-doculect-65-885,wels1247-std,concepticon-205,7.48,cafn,trough,cafn
+clics-doculect-65-886,wels1247-std,concepticon-769,7.51,to,roof,to
+clics-doculect-65-887,wels1247-std,concepticon-279,7.52,gwellt,thatch,gwellt
+clics-doculect-65-888,wels1247-std,concepticon-280,7.53,polyncrib,ridgepole,polyncrib
+clics-doculect-65-889,wels1247-std,concepticon-829,7.54,trawst,rafter,trawst
+clics-doculect-65-890,wels1247-std,concepticon-829,7.54,cwpl,rafter,cwpl
+clics-doculect-65-891,wels1247-std,concepticon-829,7.54,dist,rafter,dist
+clics-doculect-65-892,wels1247-std,concepticon-1132,7.55,trawst,beam,trawst
+clics-doculect-65-893,wels1247-std,concepticon-281,7.56,post,"post, pole",post
+clics-doculect-65-894,wels1247-std,concepticon-281,7.56,polyn,"post, pole",polyn
+clics-doculect-65-895,wels1247-std,concepticon-1227,7.57,astell,board,astell
+clics-doculect-65-896,wels1247-std,concepticon-1227,7.57,estyllen,board,estyllen
+clics-doculect-65-897,wels1247-std,concepticon-876,7.58,bwa,arch,bwa
+clics-doculect-65-898,wels1247-std,concepticon-877,7.61,saermaen,mason,saermaen
+clics-doculect-65-899,wels1247-std,concepticon-877,7.61,saercerrig,mason,saercerrig
+clics-doculect-65-900,wels1247-std,concepticon-1006,7.62,bricsen,brick,bricsen
+clics-doculect-65-901,wels1247-std,concepticon-1006,7.62,priddfaen,brick,priddfaen
+clics-doculect-65-902,wels1247-std,concepticon-224,7.63,cymrwd,mortar,cymrwd
+clics-doculect-65-903,wels1247-std,concepticon-224,7.63,morter,mortar,morter
+clics-doculect-65-904,wels1247-std,concepticon-901,7.64,bricsenglai,adobe,bricsenglai
+clics-doculect-65-905,wels1247-std,concepticon-979,8.11,amaethwr,farmer,amaethwr
+clics-doculect-65-906,wels1247-std,concepticon-979,8.11,ffermwr,farmer,ffermwr
+clics-doculect-65-907,wels1247-std,concepticon-212,8.12,cae,field (for cultivation),cae
+clics-doculect-65-908,wels1247-std,concepticon-212,8.12,maes,field (for cultivation),maes
+clics-doculect-65-909,wels1247-std,concepticon-586,8.13,gardd,garden,gardd
+clics-doculect-65-910,wels1247-std,concepticon-1541,8.15,diwyllio,"cultivate, till",diwyllio
+clics-doculect-65-911,wels1247-std,concepticon-1541,8.15,trintir,"cultivate, till",trintir
+clics-doculect-65-912,wels1247-std,concepticon-1541,8.15,amaethu,"cultivate, till",amaethu
+clics-doculect-65-913,wels1247-std,concepticon-1690,8.16,ffens,fence,ffens
+clics-doculect-65-914,wels1247-std,concepticon-1690,8.16,sietyn,fence,sietyn
+clics-doculect-65-915,wels1247-std,concepticon-2002,8.17,ffos,ditch,ffos
+clics-doculect-65-916,wels1247-std,concepticon-1921,8.21,aredig,plow,aredig
+clics-doculect-65-917,wels1247-std,concepticon-1921,8.21,aradr,plow,aradr
+clics-doculect-65-918,wels1247-std,concepticon-1794,8.212,rhych,furrow,rhych
+clics-doculect-65-919,wels1247-std,concepticon-1418,8.22,cloddio,dig,cloddio
+clics-doculect-65-920,wels1247-std,concepticon-1418,8.22,palu,dig,palu
+clics-doculect-65-921,wels1247-std,concepticon-1176,8.23,pâl,spade,pal
+clics-doculect-65-922,wels1247-std,concepticon-1176,8.23,rhaw,spade,rhaw
+clics-doculect-65-923,wels1247-std,concepticon-1901,8.24,rhaw,shovel,rhaw
+clics-doculect-65-924,wels1247-std,concepticon-1901,8.24,siefl,shovel,siefl
+clics-doculect-65-925,wels1247-std,concepticon-284,8.25,hof,hoe,hof
+clics-doculect-65-926,wels1247-std,concepticon-337,8.26,fforch,fork,fforch
+clics-doculect-65-927,wels1247-std,concepticon-338,8.27,cribin,rake,cribin
+clics-doculect-65-928,wels1247-std,concepticon-338,8.27,rhaca,rake,rhaca
+clics-doculect-65-929,wels1247-std,concepticon-1351,8.31,hau,sow,hau
+clics-doculect-65-930,wels1247-std,concepticon-714,8.311,had,seed,had
+clics-doculect-65-931,wels1247-std,concepticon-714,8.311,hadau,seed,hadau
+clics-doculect-65-932,wels1247-std,concepticon-714,8.311,hedyn,seed,hedyn
+clics-doculect-65-933,wels1247-std,concepticon-190,8.32,medi,"mow, reap",medi
+clics-doculect-65-934,wels1247-std,concepticon-190,8.32,pladuro,"mow, reap",pladuro
+clics-doculect-65-935,wels1247-std,concepticon-2132,8.33,cryman,"sickle, scythe",cryman
+clics-doculect-65-936,wels1247-std,concepticon-2132,8.33,pladur,"sickle, scythe",pladur
+clics-doculect-65-937,wels1247-std,concepticon-285,8.34,dyrnu,thresh,dyrnu
+clics-doculect-65-938,wels1247-std,concepticon-223,8.35,llawrdyrnu,threshing-floor,llawrdyrnu
+clics-doculect-65-939,wels1247-std,concepticon-611,8.41,cnwd,"crop, harvest",cnwd
+clics-doculect-65-940,wels1247-std,concepticon-611,8.41,cynhaeaf,"crop, harvest",cynhaeaf
+clics-doculect-65-941,wels1247-std,concepticon-605,8.42,ŷd,"grain (barley, oats etc)",yd
+clics-doculect-65-942,wels1247-std,concepticon-1077,8.43,gwenith,wheat,gwenith
+clics-doculect-65-943,wels1247-std,concepticon-932,8.44,haidd,barley,haidd
+clics-doculect-65-944,wels1247-std,concepticon-23,8.45,rhyg,rye,rhyg
+clics-doculect-65-945,wels1247-std,concepticon-60,8.46,ceirch,oats,ceirch
+clics-doculect-65-946,wels1247-std,concepticon-506,8.47,indrawn,"maize, corn",indrawn
+clics-doculect-65-947,wels1247-std,concepticon-506,8.47,indiacorn,"maize, corn",indiacorn
+clics-doculect-65-948,wels1247-std,concepticon-926,8.48,reis,rice,reis
+clics-doculect-65-949,wels1247-std,concepticon-606,8.51,gwair,grass,gwair
+clics-doculect-65-950,wels1247-std,concepticon-606,8.51,gwellt,grass,gwellt
+clics-doculect-65-951,wels1247-std,concepticon-606,8.51,glaswellt,grass,glaswellt
+clics-doculect-65-952,wels1247-std,concepticon-342,8.52,gwair,hay,gwair
+clics-doculect-65-953,wels1247-std,concepticon-342,8.52,gwellt,hay,gwellt
+clics-doculect-65-954,wels1247-std,concepticon-653,8.53,planhigyn,plant (noun),planhigyn
+clics-doculect-65-955,wels1247-std,concepticon-653,8.53,llysieuyn,plant (noun),llysieuyn
+clics-doculect-65-956,wels1247-std,concepticon-1486,8.531,plannu,plant (vb),plannu
+clics-doculect-65-957,wels1247-std,concepticon-670,8.54,gwreiddyn,root,gwreiddyn
+clics-doculect-65-958,wels1247-std,concepticon-1531,8.55,cangen,branch,cangen
+clics-doculect-65-959,wels1247-std,concepticon-1531,8.55,cainc,branch,cainc
+clics-doculect-65-960,wels1247-std,concepticon-628,8.56,deilen,leaf,deilen
+clics-doculect-65-961,wels1247-std,concepticon-239,8.57,blodeuyn,flower,blodeuyn
+clics-doculect-65-962,wels1247-std,concepticon-239,8.57,blodyn,flower,blodyn
+clics-doculect-65-963,wels1247-std,concepticon-906,8.6,coeden,tree,coeden
+clics-doculect-65-964,wels1247-std,concepticon-906,8.6,pren,tree,pren
+clics-doculect-65-965,wels1247-std,concepticon-644,8.61,derwen,oak,derwen
+clics-doculect-65-966,wels1247-std,concepticon-1950,8.62,ffawydden,beech,ffawydden
+clics-doculect-65-967,wels1247-std,concepticon-1855,8.63,bedwen,birch,bedwen
+clics-doculect-65-968,wels1247-std,concepticon-1740,8.64,pin,pine,pin
+clics-doculect-65-969,wels1247-std,concepticon-1915,8.65,ffynidwydden,fir,ffynidwydden
+clics-doculect-65-970,wels1247-std,concepticon-968,8.66,mesen,acorn,mesen
+clics-doculect-65-971,wels1247-std,concepticon-343,8.67,gwinwydden,vine,gwinwydden
+clics-doculect-65-972,wels1247-std,concepticon-974,8.68,tybaco,tobacco,tybaco
+clics-doculect-65-973,wels1247-std,concepticon-974,8.68,baco,tobacco,baco
+clics-doculect-65-974,wels1247-std,concepticon-974,8.68,myglys,tobacco,myglys
+clics-doculect-65-975,wels1247-std,concepticon-1689,8.69,ysmygu,smoke (tobacco),ysmygu
+clics-doculect-65-976,wels1247-std,concepticon-1689,8.69,smocio,smoke (tobacco),smocio
+clics-doculect-65-977,wels1247-std,concepticon-1124,8.691,pib,pipe,pib
+clics-doculect-65-978,wels1247-std,concepticon-1124,8.691,cetyn,pipe,cetyn
+clics-doculect-65-979,wels1247-std,concepticon-241,8.72,bonyn,tree stump,bonyn
+clics-doculect-65-980,wels1247-std,concepticon-241,8.72,bôn,tree stump,bon
+clics-doculect-65-981,wels1247-std,concepticon-241,8.72,stwmp,tree stump,stwmp
+clics-doculect-65-982,wels1247-std,concepticon-344,8.73,boncyff,tree trunk,boncyff
+clics-doculect-65-983,wels1247-std,concepticon-344,8.73,bôncoeden,tree trunk,boncoeden
+clics-doculect-65-984,wels1247-std,concepticon-409,8.74,cangenfforchog,forked branch,cangenfforchog
+clics-doculect-65-985,wels1247-std,concepticon-1204,8.75,rhisgl,bark,rhisgl
+clics-doculect-65-986,wels1247-std,concepticon-345,8.76,nodd,sap,nodd
+clics-doculect-65-987,wels1247-std,concepticon-345,8.76,sudd,sap,sudd
+clics-doculect-65-988,wels1247-std,concepticon-345,8.76,sug,sap,sug
+clics-doculect-65-989,wels1247-std,concepticon-1181,8.81,palmwydden,palm tree,palmwydden
+clics-doculect-65-990,wels1247-std,concepticon-970,8.82,coconyt,coconut,coconyt
+clics-doculect-65-991,wels1247-std,concepticon-1126,8.83,ffrwythsitrws,citrus fruit,ffrwythsitrws
+clics-doculect-65-992,wels1247-std,concepticon-868,8.84,coedenfananas,banana tree,coedenfananas
+clics-doculect-65-993,wels1247-std,concepticon-346,8.85,coedenfanian,banyan,coedenfanian
+clics-doculect-65-994,wels1247-std,concepticon-346,8.85,coedenffigysIndia,banyan,coedenffigysIndia
+clics-doculect-65-995,wels1247-std,concepticon-159,8.91,tatenfelys,sweet potato,tatenfelys
+clics-doculect-65-996,wels1247-std,concepticon-159,8.91,tatwsmelys,sweet potato,tatwsmelys
+clics-doculect-65-997,wels1247-std,concepticon-410,8.912,iam,yam,iam
+clics-doculect-65-998,wels1247-std,concepticon-925,8.92,tapioca,"tapioca, manioc, cassava",tapioca
+clics-doculect-65-999,wels1247-std,concepticon-411,8.93,gwrd,gourd,gwrd
+clics-doculect-65-1000,wels1247-std,concepticon-411,8.93,pompion,gourd,pompion
+clics-doculect-65-1001,wels1247-std,concepticon-864,8.931,pwmpen,"pumpkin, squash",pwmpen
+clics-doculect-65-1002,wels1247-std,concepticon-864,8.931,pompion,"pumpkin, squash",pompion
+clics-doculect-65-1003,wels1247-std,concepticon-864,8.931,gwrd,"pumpkin, squash",gwrd
+clics-doculect-65-1004,wels1247-std,concepticon-1927,8.94,bambŵ,bamboo,bambw
+clics-doculect-65-1005,wels1247-std,concepticon-146,8.941,siwgwrcân,sugar cane,siwgwrcan
+clics-doculect-65-1006,wels1247-std,concepticon-33,8.97,danadl,nettle,danadl
+clics-doculect-65-1007,wels1247-std,concepticon-641,8.98,madarchen,mushroom,madarchen
+clics-doculect-65-1008,wels1247-std,concepticon-641,8.98,madarch,mushroom,madarch
+clics-doculect-65-1009,wels1247-std,concepticon-641,8.98,cawsllyffant,mushroom,cawsllyffant
+clics-doculect-65-1010,wels1247-std,concepticon-2575,9.11,gwneuthur,"do, make",gwneuthur
+clics-doculect-65-1011,wels1247-std,concepticon-2575,9.11,gwneud,"do, make",gwneud
+clics-doculect-65-1012,wels1247-std,concepticon-984,9.12,gwaith,work,gwaith
+clics-doculect-65-1013,wels1247-std,concepticon-984,9.12,llafur,work,llafur
+clics-doculect-65-1014,wels1247-std,concepticon-2004,9.14,plygu,bend,plygu
+clics-doculect-65-1015,wels1247-std,concepticon-1470,9.15,plygu,fold,plygu
+clics-doculect-65-1016,wels1247-std,concepticon-1917,9.16,rhwymo,"tie, bind",rhwymo
+clics-doculect-65-1017,wels1247-std,concepticon-1917,9.16,clymu,"tie, bind",clymu
+clics-doculect-65-1018,wels1247-std,concepticon-352,9.161,datod,untie,datod
+clics-doculect-65-1019,wels1247-std,concepticon-1627,9.18,cadwyn,chain,cadwyn
+clics-doculect-65-1020,wels1247-std,concepticon-1218,9.19,rhaff,"rope, cord",rhaff
+clics-doculect-65-1021,wels1247-std,concepticon-1218,9.19,cortyn,"rope, cord",cortyn
+clics-doculect-65-1022,wels1247-std,concepticon-760,9.192,clwm,knot (noun),clwm
+clics-doculect-65-1023,wels1247-std,concepticon-760,9.192,cwlwm,knot (noun),cwlwm
+clics-doculect-65-1024,wels1247-std,concepticon-2133,9.21,taro,"strike (hit, beat)",taro
+clics-doculect-65-1025,wels1247-std,concepticon-2133,9.21,curo,"strike (hit, beat)",curo
+clics-doculect-65-1026,wels1247-std,concepticon-354,9.211,dyrnu,pound with fist,dyrnu
+clics-doculect-65-1027,wels1247-std,concepticon-1432,9.22,torri,cut,torri
+clics-doculect-65-1028,wels1247-std,concepticon-1432,9.22,naddu,cut,naddu
+clics-doculect-65-1029,wels1247-std,concepticon-1432,9.22,trychu,cut,trychu
+clics-doculect-65-1030,wels1247-std,concepticon-355,9.221,torri,cut down,torri
+clics-doculect-65-1031,wels1247-std,concepticon-155,9.222,torri,"chop, hew",torri
+clics-doculect-65-1032,wels1247-std,concepticon-155,9.222,hollti,"chop, hew",hollti
+clics-doculect-65-1033,wels1247-std,concepticon-155,9.222,naddu,"chop, hew",naddu
+clics-doculect-65-1034,wels1247-std,concepticon-1434,9.223,trywanu,stab,trywanu
+clics-doculect-65-1035,wels1247-std,concepticon-1434,9.223,gwanu,stab,gwanu
+clics-doculect-65-1036,wels1247-std,concepticon-1352,9.23,cyllell,knife,cyllell
+clics-doculect-65-1037,wels1247-std,concepticon-356,9.24,siswrn,"scissors, shears",siswrn
+clics-doculect-65-1038,wels1247-std,concepticon-356,9.24,gwellaif,"scissors, shears",gwellaif
+clics-doculect-65-1039,wels1247-std,concepticon-677,9.25,bwyall,ax,bwyall
+clics-doculect-65-1040,wels1247-std,concepticon-290,9.251,neddyf,adze,neddyf
+clics-doculect-65-1041,wels1247-std,concepticon-290,9.251,neddai,adze,neddai
+clics-doculect-65-1042,wels1247-std,concepticon-290,9.251,neddau,adze,neddau
+clics-doculect-65-1043,wels1247-std,concepticon-290,9.251,bwyallgam,adze,bwyallgam
+clics-doculect-65-1044,wels1247-std,concepticon-680,9.26,torri,break,torri
+clics-doculect-65-1045,wels1247-std,concepticon-588,9.261,toredig,broken,toredig
+clics-doculect-65-1046,wels1247-std,concepticon-588,9.261,wedieidorri,broken,wedieidorri
+clics-doculect-65-1047,wels1247-std,concepticon-1437,9.27,hollti,split,hollti
+clics-doculect-65-1048,wels1247-std,concepticon-1735,9.28,rhwygo,tear,rhwygo
+clics-doculect-65-1049,wels1247-std,concepticon-291,9.29,blingo,"flay, skin",blingo
+clics-doculect-65-1050,wels1247-std,concepticon-291,9.29,digroeni,"flay, skin",digroeni
+clics-doculect-65-1051,wels1247-std,concepticon-1449,9.31,rhwbio,"rub, wipe",rhwbio
+clics-doculect-65-1052,wels1247-std,concepticon-214,9.32,estyn,stretch,estyn
+clics-doculect-65-1053,wels1247-std,concepticon-1455,9.33,tynnu,pull,tynnu
+clics-doculect-65-1054,wels1247-std,concepticon-38,9.34,taenu,spread out,taenu
+clics-doculect-65-1055,wels1247-std,concepticon-38,9.34,chwalu,spread out,chwalu
+clics-doculect-65-1056,wels1247-std,concepticon-357,9.341,hongian,hang up,hongian
+clics-doculect-65-1057,wels1247-std,concepticon-357,9.341,crogi,hang up,crogi
+clics-doculect-65-1058,wels1247-std,concepticon-1913,9.342,gwasgu,press,gwasgu
+clics-doculect-65-1059,wels1247-std,concepticon-1414,9.343,gwasgu,"squeeze, wring",gwasgu
+clics-doculect-65-1060,wels1247-std,concepticon-1487,9.35,tywallt,pour,tywallt
+clics-doculect-65-1061,wels1247-std,concepticon-1487,9.35,arllwys,pour,arllwys
+clics-doculect-65-1062,wels1247-std,concepticon-1453,9.36,golchi,wash,golchi
+clics-doculect-65-1063,wels1247-std,concepticon-230,9.37,ysgubo,sweep,ysgubo
+clics-doculect-65-1064,wels1247-std,concepticon-245,9.38,ysgub,broom,ysgub
+clics-doculect-65-1065,wels1247-std,concepticon-1361,9.422,offeryn,tool,offeryn
+clics-doculect-65-1066,wels1247-std,concepticon-1361,9.422,erfyn,tool,erfyn
+clics-doculect-65-1067,wels1247-std,concepticon-1361,9.422,arf,tool,arf
+clics-doculect-65-1068,wels1247-std,concepticon-1361,9.422,teclyn,tool,teclyn
+clics-doculect-65-1069,wels1247-std,concepticon-1042,9.43,saer,carpenter,saer
+clics-doculect-65-1070,wels1247-std,concepticon-1840,9.44,adeiladu,build,adeiladu
+clics-doculect-65-1071,wels1247-std,concepticon-1501,9.46,tyllu,bore,tyllu
+clics-doculect-65-1072,wels1247-std,concepticon-46,9.461,cafnu,hollow out,cafnu
+clics-doculect-65-1073,wels1247-std,concepticon-46,9.461,cafnio,hollow out,cafnio
+clics-doculect-65-1074,wels1247-std,concepticon-46,9.461,pantio,hollow out,pantio
+clics-doculect-65-1075,wels1247-std,concepticon-1948,9.48,llif,saw,llif
+clics-doculect-65-1076,wels1247-std,concepticon-1481,9.49,morthwyl,hammer,morthwyl
+clics-doculect-65-1077,wels1247-std,concepticon-502,9.5,hoel,nail,hoel
+clics-doculect-65-1078,wels1247-std,concepticon-1069,9.56,glud,glue,glud
+clics-doculect-65-1079,wels1247-std,concepticon-1001,9.6,gof,"smith, blacksmith",gof
+clics-doculect-65-1080,wels1247-std,concepticon-288,9.61,morthwylio,forge,morthwylio
+clics-doculect-65-1081,wels1247-std,concepticon-1648,9.62,einion,anvil,einion
+clics-doculect-65-1082,wels1247-std,concepticon-211,9.63,bwrw,cast (metals),bwrw
+clics-doculect-65-1083,wels1247-std,concepticon-1369,9.64,aur,gold,aur
+clics-doculect-65-1084,wels1247-std,concepticon-759,9.65,arian,silver,arian
+clics-doculect-65-1085,wels1247-std,concepticon-1825,9.66,copr,"copper, bronze",copr
+clics-doculect-65-1086,wels1247-std,concepticon-1825,9.66,efydd,"copper, bronze",efydd
+clics-doculect-65-1087,wels1247-std,concepticon-1825,9.66,pres,"copper, bronze",pres
+clics-doculect-65-1088,wels1247-std,concepticon-621,9.67,haearn,iron,haearn
+clics-doculect-65-1089,wels1247-std,concepticon-627,9.68,plwm,lead (noun),plwm
+clics-doculect-65-1090,wels1247-std,concepticon-358,9.69,ystaen,"tin, tinplate",ystaen
+clics-doculect-65-1091,wels1247-std,concepticon-358,9.69,tun,"tin, tinplate",tun
+clics-doculect-65-1092,wels1247-std,concepticon-358,9.69,tunplat,"tin, tinplate",tunplat
+clics-doculect-65-1093,wels1247-std,concepticon-359,9.71,crochenydd,potter,crochenydd
+clics-doculect-65-1094,wels1247-std,concepticon-289,9.72,ffurfio,mold (clay etc),ffurfio
+clics-doculect-65-1095,wels1247-std,concepticon-289,9.72,llunio,mold (clay etc),llunio
+clics-doculect-65-1096,wels1247-std,concepticon-289,9.72,moldio,mold (clay etc),moldio
+clics-doculect-65-1097,wels1247-std,concepticon-1399,9.73,clai,clay,clai
+clics-doculect-65-1098,wels1247-std,concepticon-1399,9.73,pridd,clay,pridd
+clics-doculect-65-1099,wels1247-std,concepticon-604,9.74,gwydr,glass,gwydr
+clics-doculect-65-1100,wels1247-std,concepticon-1729,9.75,plethu,"weave, plait",plethu
+clics-doculect-65-1101,wels1247-std,concepticon-1729,9.75,gwehyddu,"weave, plait",gwehyddu
+clics-doculect-65-1102,wels1247-std,concepticon-1729,9.75,cyfrodeddu,"weave, plait",cyfrodeddu
+clics-doculect-65-1103,wels1247-std,concepticon-1539,9.76,basged,basket,basged
+clics-doculect-65-1104,wels1247-std,concepticon-1539,9.76,cawell,basket,cawell
+clics-doculect-65-1105,wels1247-std,concepticon-1539,9.76,cest,basket,cest
+clics-doculect-65-1106,wels1247-std,concepticon-195,9.77,mat,mat,mat
+clics-doculect-65-1107,wels1247-std,concepticon-292,9.771,carthen,rug,carthen
+clics-doculect-65-1108,wels1247-std,concepticon-292,9.771,rỳg,rug,ryg
+clics-doculect-65-1109,wels1247-std,concepticon-1971,9.79,gwyntyll,fan (noun),gwyntyll
+clics-doculect-65-1110,wels1247-std,concepticon-1971,9.79,ffan,fan (noun),ffan
+clics-doculect-65-1111,wels1247-std,concepticon-360,9.791,gwyntyllu,fan (vb),gwyntyllu
+clics-doculect-65-1112,wels1247-std,concepticon-228,9.81,cerfio,carve,cerfio
+clics-doculect-65-1113,wels1247-std,concepticon-914,9.82,cerflunydd,sculptor,cerflunydd
+clics-doculect-65-1114,wels1247-std,concepticon-1002,9.83,delw,statue,delw
+clics-doculect-65-1115,wels1247-std,concepticon-1002,9.83,cerflun,statue,cerflun
+clics-doculect-65-1116,wels1247-std,concepticon-1979,9.84,cŷn,chisel,cyn
+clics-doculect-65-1117,wels1247-std,concepticon-1979,9.84,gaing,chisel,gaing
+clics-doculect-65-1118,wels1247-std,concepticon-647,9.88,paent,paint (noun),paent
+clics-doculect-65-1119,wels1247-std,concepticon-647,9.88,lliw,paint (noun),lliw
+clics-doculect-65-1120,wels1247-std,concepticon-2001,9.89,paentio,paint (vb),paentio
+clics-doculect-65-1121,wels1247-std,concepticon-2001,9.89,peintio,paint (vb),peintio
+clics-doculect-65-1122,wels1247-std,concepticon-765,10.11,symud,move,symud
+clics-doculect-65-1123,wels1247-std,concepticon-765,10.11,syflyd,move,syflyd
+clics-doculect-65-1124,wels1247-std,concepticon-1588,10.12,troi,turn over,troi
+clics-doculect-65-1125,wels1247-std,concepticon-1445,10.13,troiogwmpas,turn around,troiogwmpas
+clics-doculect-65-1126,wels1247-std,concepticon-1445,10.13,troiyneiunfan,turn around,troiyneiunfan
+clics-doculect-65-1127,wels1247-std,concepticon-1113,10.14,dirwyn,"wind, wrap",dirwyn
+clics-doculect-65-1128,wels1247-std,concepticon-1113,10.14,lapio,"wind, wrap",lapio
+clics-doculect-65-1129,wels1247-std,concepticon-827,10.15,rholio,roll,rholio
+clics-doculect-65-1130,wels1247-std,concepticon-827,10.15,treiglo,roll,treiglo
+clics-doculect-65-1131,wels1247-std,concepticon-808,10.16,gollwng,drop (vb),gollwng
+clics-doculect-65-1132,wels1247-std,concepticon-808,10.16,cwympo,drop (vb),cwympo
+clics-doculect-65-1133,wels1247-std,concepticon-430,10.17,troelli,twist,troelli
+clics-doculect-65-1134,wels1247-std,concepticon-430,10.17,cyfrodeddu,twist,cyfrodeddu
+clics-doculect-65-1135,wels1247-std,concepticon-430,10.17,plethu,twist,plethu
+clics-doculect-65-1136,wels1247-std,concepticon-568,10.21,codi,rise,codi
+clics-doculect-65-1137,wels1247-std,concepticon-568,10.21,cyfodi,rise,cyfodi
+clics-doculect-65-1138,wels1247-std,concepticon-568,10.21,cynnu,rise,cynnu
+clics-doculect-65-1139,wels1247-std,concepticon-501,10.22,codi,"raise, lift",codi
+clics-doculect-65-1140,wels1247-std,concepticon-1280,10.23,cwympo,fall,cwympo
+clics-doculect-65-1141,wels1247-std,concepticon-1280,10.23,syrthio,fall,syrthio
+clics-doculect-65-1142,wels1247-std,concepticon-2253,10.24,diferu,drip,diferu
+clics-doculect-65-1143,wels1247-std,concepticon-2253,10.24,dafnu,drip,dafnu
+clics-doculect-65-1144,wels1247-std,concepticon-2253,10.24,dafnio,drip,dafnio
+clics-doculect-65-1145,wels1247-std,concepticon-1456,10.25,taflu,throw,taflu
+clics-doculect-65-1146,wels1247-std,concepticon-1456,10.25,taflyd,throw,taflyd
+clics-doculect-65-1147,wels1247-std,concepticon-1456,10.25,lluchio,throw,lluchio
+clics-doculect-65-1148,wels1247-std,concepticon-702,10.252,dal,catch (ball),dal
+clics-doculect-65-1149,wels1247-std,concepticon-1909,10.26,siglo,shake,siglo
+clics-doculect-65-1150,wels1247-std,concepticon-1909,10.26,ysgwyd,shake,ysgwyd
+clics-doculect-65-1151,wels1247-std,concepticon-2003,10.32,llifo,flow,llifo
+clics-doculect-65-1152,wels1247-std,concepticon-2003,10.32,rhedeg,flow,rhedeg
+clics-doculect-65-1153,wels1247-std,concepticon-1088,10.33,suddo,sink,suddo
+clics-doculect-65-1154,wels1247-std,concepticon-1088,10.33,soddi,sink,soddi
+clics-doculect-65-1155,wels1247-std,concepticon-1574,10.34,nofio,float,nofio
+clics-doculect-65-1156,wels1247-std,concepticon-1574,10.34,arnofio,float,arnofio
+clics-doculect-65-1157,wels1247-std,concepticon-1439,10.35,nofio,swim,nofio
+clics-doculect-65-1158,wels1247-std,concepticon-119,10.351,plymio,dive,plymio
+clics-doculect-65-1159,wels1247-std,concepticon-365,10.352,ysgeintio,splash,ysgeintio
+clics-doculect-65-1160,wels1247-std,concepticon-365,10.352,tasgu,splash,tasgu
+clics-doculect-65-1161,wels1247-std,concepticon-365,10.352,sblasio,splash,sblasio
+clics-doculect-65-1162,wels1247-std,concepticon-787,10.36,hwylio,sail (vb),hwylio
+clics-doculect-65-1163,wels1247-std,concepticon-787,10.36,morio,sail (vb),morio
+clics-doculect-65-1164,wels1247-std,concepticon-787,10.36,mordwyo,sail (vb),mordwyo
+clics-doculect-65-1165,wels1247-std,concepticon-1441,10.37,ehedeg,fly (vb),ehedeg
+clics-doculect-65-1166,wels1247-std,concepticon-1441,10.37,hedfan,fly (vb),hedfan
+clics-doculect-65-1167,wels1247-std,concepticon-1441,10.37,fflio,fly (vb),fflio
+clics-doculect-65-1168,wels1247-std,concepticon-175,10.38,chwythu,blow,chwythu
+clics-doculect-65-1169,wels1247-std,concepticon-96,10.41,ymlusgo,"creep, crawl",ymlusgo
+clics-doculect-65-1170,wels1247-std,concepticon-96,10.41,cropian,"creep, crawl",cropian
+clics-doculect-65-1171,wels1247-std,concepticon-66,10.412,penlinio,kneel,penlinio
+clics-doculect-65-1172,wels1247-std,concepticon-296,10.413,cyrcydu,crouch,cyrcydu
+clics-doculect-65-1173,wels1247-std,concepticon-296,10.413,cwrcwd,crouch,cwrcwd
+clics-doculect-65-1174,wels1247-std,concepticon-296,10.413,cwmanu,crouch,cwmanu
+clics-doculect-65-1175,wels1247-std,concepticon-296,10.413,swatio,crouch,swatio
+clics-doculect-65-1176,wels1247-std,concepticon-1324,10.42,llithro,"slide, slip",llithro
+clics-doculect-65-1177,wels1247-std,concepticon-1829,10.43,neidio,"jump, leap",neidio
+clics-doculect-65-1178,wels1247-std,concepticon-1829,10.43,llamu,"jump, leap",llamu
+clics-doculect-65-1179,wels1247-std,concepticon-1135,10.431,cicio,kick,cicio
+clics-doculect-65-1180,wels1247-std,concepticon-1879,10.44,dawnsio,dance,dawnsio
+clics-doculect-65-1181,wels1247-std,concepticon-1443,10.45,cerdded,walk,cerdded
+clics-doculect-65-1182,wels1247-std,concepticon-1443,10.45,rhodio,walk,rhodio
+clics-doculect-65-1183,wels1247-std,concepticon-366,10.451,hercio,limp,hercio
+clics-doculect-65-1184,wels1247-std,concepticon-366,10.451,hercian,limp,hercian
+clics-doculect-65-1185,wels1247-std,concepticon-366,10.451,honcian,limp,honcian
+clics-doculect-65-1186,wels1247-std,concepticon-1519,10.46,rhedeg,run,rhedeg
+clics-doculect-65-1187,wels1247-std,concepticon-695,10.47,mynd,go,mynd
+clics-doculect-65-1188,wels1247-std,concepticon-695,10.47,â,go,a
+clics-doculect-65-1189,wels1247-std,concepticon-695,10.47,aeth,go,aeth
+clics-doculect-65-1190,wels1247-std,concepticon-695,10.47,êl,go,el
+clics-doculect-65-1191,wels1247-std,concepticon-705,10.471,myndifyny,go up,myndifyny
+clics-doculect-65-1192,wels1247-std,concepticon-705,10.471,esgyn,go up,esgyn
+clics-doculect-65-1193,wels1247-std,concepticon-1102,10.472,dringo,climb,dringo
+clics-doculect-65-1194,wels1247-std,concepticon-2014,10.473,myndilawr,go down,myndilawr
+clics-doculect-65-1195,wels1247-std,concepticon-2014,10.473,disgyn,go down,disgyn
+clics-doculect-65-1196,wels1247-std,concepticon-1107,10.474,myndallan,go out,myndallan
+clics-doculect-65-1197,wels1247-std,concepticon-1446,10.48,dyfod,come,dyfod
+clics-doculect-65-1198,wels1247-std,concepticon-1446,10.48,daw,come,daw
+clics-doculect-65-1199,wels1247-std,concepticon-1446,10.48,daeth,come,daeth
+clics-doculect-65-1200,wels1247-std,concepticon-1446,10.48,del,come,del
+clics-doculect-65-1201,wels1247-std,concepticon-581,10.481,dodynôl,come back,dodynol
+clics-doculect-65-1202,wels1247-std,concepticon-581,10.481,dychwelyd,come back,dychwelyd
+clics-doculect-65-1203,wels1247-std,concepticon-1752,10.49,ymadael,"go away, depart",ymadael
+clics-doculect-65-1204,wels1247-std,concepticon-1752,10.49,myndiffwrdd,"go away, depart",myndiffwrdd
+clics-doculect-65-1205,wels1247-std,concepticon-485,10.491,diflannu,disappear,diflannu
+clics-doculect-65-1206,wels1247-std,concepticon-485,10.491,myndo'rgolwg,disappear,myndo'rgolwg
+clics-doculect-65-1207,wels1247-std,concepticon-956,10.51,ffoi,flee,ffoi
+clics-doculect-65-1208,wels1247-std,concepticon-1085,10.52,dilyn,follow,dilyn
+clics-doculect-65-1209,wels1247-std,concepticon-1085,10.52,canlyn,follow,canlyn
+clics-doculect-65-1210,wels1247-std,concepticon-1047,10.53,erlid,pursue,erlid
+clics-doculect-65-1211,wels1247-std,concepticon-1047,10.53,canlyn,pursue,canlyn
+clics-doculect-65-1212,wels1247-std,concepticon-1047,10.53,dilyn,pursue,dilyn
+clics-doculect-65-1213,wels1247-std,concepticon-1387,10.55,dodi,"reach, arrive",dodi
+clics-doculect-65-1214,wels1247-std,concepticon-1387,10.55,cyrraedd,"reach, arrive",cyrraedd
+clics-doculect-65-1215,wels1247-std,concepticon-1778,10.56,dynesu,approach,dynesu
+clics-doculect-65-1216,wels1247-std,concepticon-1778,10.56,nesu,approach,nesu
+clics-doculect-65-1217,wels1247-std,concepticon-1778,10.56,agosáu,approach,agosau
+clics-doculect-65-1218,wels1247-std,concepticon-1778,10.56,nesáu,approach,nesau
+clics-doculect-65-1219,wels1247-std,concepticon-749,10.57,mynodimewn,enter,mynodimewn
+clics-doculect-65-1220,wels1247-std,concepticon-700,10.61,cludo,carry (bear),cludo
+clics-doculect-65-1221,wels1247-std,concepticon-700,10.61,cario,carry (bear),cario
+clics-doculect-65-1222,wels1247-std,concepticon-700,10.61,dwyn,carry (bear),dwyn
+clics-doculect-65-1223,wels1247-std,concepticon-700,10.61,porthi,carry (bear),porthi
+clics-doculect-65-1224,wels1247-std,concepticon-412,10.612,cario,carry-in-hand,cario
+clics-doculect-65-1225,wels1247-std,concepticon-412,10.612,dal,carry-in-hand,dal
+clics-doculect-65-1226,wels1247-std,concepticon-413,10.613,cario,carry-on-shoulder,cario
+clics-doculect-65-1227,wels1247-std,concepticon-413,10.613,dalareiysgwydd,carry-on-shoulder,dalareiysgwydd
+clics-doculect-65-1228,wels1247-std,concepticon-414,10.614,cario,carry-on-head,cario
+clics-doculect-65-1229,wels1247-std,concepticon-414,10.614,dalareiben,carry-on-head,dalareiben
+clics-doculect-65-1230,wels1247-std,concepticon-415,10.615,cario,carry-underarm,cario
+clics-doculect-65-1231,wels1247-std,concepticon-415,10.615,daldaneifraich,carry-underarm,daldaneifraich
+clics-doculect-65-1232,wels1247-std,concepticon-692,10.62,dodâ,bring,doda
+clics-doculect-65-1233,wels1247-std,concepticon-692,10.62,dwyn,bring,dwyn
+clics-doculect-65-1234,wels1247-std,concepticon-692,10.62,cyrchu,bring,cyrchu
+clics-doculect-65-1235,wels1247-std,concepticon-1127,10.63,anfon,send,anfon
+clics-doculect-65-1236,wels1247-std,concepticon-43,10.64,arwain,lead (vb),arwain
+clics-doculect-65-1237,wels1247-std,concepticon-43,10.64,tywys,lead (vb),tywys
+clics-doculect-65-1238,wels1247-std,concepticon-741,10.65,gyrru,drive,gyrru
+clics-doculect-65-1239,wels1247-std,concepticon-367,10.66,marchogaeth,ride,marchogaeth
+clics-doculect-65-1240,wels1247-std,concepticon-367,10.66,reidio,ride,reidio
+clics-doculect-65-1241,wels1247-std,concepticon-1452,10.67,gwthio,"push, shove",gwthio
+clics-doculect-65-1242,wels1247-std,concepticon-1452,10.67,hyrddiaf,"push, shove",hyrddiaf
+clics-doculect-65-1243,wels1247-std,concepticon-1452,10.67,hyrddu,"push, shove",hyrddu
+clics-doculect-65-1244,wels1247-std,concepticon-667,10.71,ffordd,road,ffordd
+clics-doculect-65-1245,wels1247-std,concepticon-2252,10.72,llwybr,path,llwybr
+clics-doculect-65-1246,wels1247-std,concepticon-1011,10.74,pont,bridge,pont
+clics-doculect-65-1247,wels1247-std,concepticon-122,10.75,cerbyd,"carriage, wagon, cart",cerbyd
+clics-doculect-65-1248,wels1247-std,concepticon-122,10.75,wagen,"carriage, wagon, cart",wagen
+clics-doculect-65-1249,wels1247-std,concepticon-122,10.75,men,"carriage, wagon, cart",men
+clics-doculect-65-1250,wels1247-std,concepticon-122,10.75,ben,"carriage, wagon, cart",ben
+clics-doculect-65-1251,wels1247-std,concepticon-122,10.75,cert,"carriage, wagon, cart",cert
+clics-doculect-65-1252,wels1247-std,concepticon-710,10.76,olwyn,wheel,olwyn
+clics-doculect-65-1253,wels1247-std,concepticon-710,10.76,rhod,wheel,rhod
+clics-doculect-65-1254,wels1247-std,concepticon-1769,10.77,echel,axle,echel
+clics-doculect-65-1255,wels1247-std,concepticon-14,10.78,iau,yoke,iau
+clics-doculect-65-1256,wels1247-std,concepticon-740,10.81,llong,ship,llong
+clics-doculect-65-1257,wels1247-std,concepticon-1844,10.83,bad,boat,bad
+clics-doculect-65-1258,wels1247-std,concepticon-1844,10.83,cwch,boat,cwch
+clics-doculect-65-1259,wels1247-std,concepticon-1970,10.831,canŵ,canoe,canw
+clics-doculect-65-1260,wels1247-std,concepticon-416,10.832,sadiwr,outrigger,sadiwr
+clics-doculect-65-1261,wels1247-std,concepticon-1664,10.84,rafft,raft,rafft
+clics-doculect-65-1262,wels1247-std,concepticon-1664,10.84,cludair,raft,cludair
+clics-doculect-65-1263,wels1247-std,concepticon-108,10.85,rhwyf,oar,rhwyf
+clics-doculect-65-1264,wels1247-std,concepticon-234,10.851,rhwyf,paddle (noun),rhwyf
+clics-doculect-65-1265,wels1247-std,concepticon-234,10.851,padl,paddle (noun),padl
+clics-doculect-65-1266,wels1247-std,concepticon-234,10.851,rhodl,paddle (noun),rhodl
+clics-doculect-65-1267,wels1247-std,concepticon-1849,10.852,rhwyfo,row (vb),rhwyfo
+clics-doculect-65-1268,wels1247-std,concepticon-108,10.86,llyw,rudder,llyw
+clics-doculect-65-1269,wels1247-std,concepticon-184,10.87,hwylbren,mast,hwylbren
+clics-doculect-65-1270,wels1247-std,concepticon-786,10.88,hwyl,sail (noun),hwyl
+clics-doculect-65-1271,wels1247-std,concepticon-1870,10.89,angor,anchor,angor
+clics-doculect-65-1272,wels1247-std,concepticon-610,10.91,porthladd,"harbor, port",porthladd
+clics-doculect-65-1273,wels1247-std,concepticon-610,10.91,harbwr,"harbor, port",harbwr
+clics-doculect-65-1274,wels1247-std,concepticon-610,10.91,porth,"harbor, port",porth
+clics-doculect-65-1275,wels1247-std,concepticon-1922,10.92,glanio,land (vb),glanio
+clics-doculect-65-1276,wels1247-std,concepticon-773,11.11,bodâ,have,boda
+clics-doculect-65-1277,wels1247-std,concepticon-773,11.11,bodgan,have,bodgan
+clics-doculect-65-1278,wels1247-std,concepticon-684,11.12,meddu,"own, possess",meddu
+clics-doculect-65-1279,wels1247-std,concepticon-1749,11.13,cymryd,take,cymryd
+clics-doculect-65-1280,wels1247-std,concepticon-2021,11.14,gafael,"seize, grasp",gafael
+clics-doculect-65-1281,wels1247-std,concepticon-1448,11.15,dal,hold,dal
+clics-doculect-65-1282,wels1247-std,concepticon-694,11.16,cael,"get, obtain",cael
+clics-doculect-65-1283,wels1247-std,concepticon-694,11.16,caffael,"get, obtain",caffael
+clics-doculect-65-1284,wels1247-std,concepticon-1477,11.17,cadw,"keep, retain",cadw
+clics-doculect-65-1285,wels1247-std,concepticon-738,11.18,peth,thing,peth
+clics-doculect-65-1286,wels1247-std,concepticon-1447,11.21,rhoi,give,rhoi
+clics-doculect-65-1287,wels1247-std,concepticon-1447,11.21,rhoddi,give,rhoddi
+clics-doculect-65-1288,wels1247-std,concepticon-85,11.22,rhoiynôl,give back,rhoiynol
+clics-doculect-65-1289,wels1247-std,concepticon-85,11.22,dychwelyd,give back,dychwelyd
+clics-doculect-65-1290,wels1247-std,concepticon-1997,11.24,cadw,"preserve, look after",cadw
+clics-doculect-65-1291,wels1247-std,concepticon-1997,11.24,gofalu,"preserve, look after",gofalu
+clics-doculect-65-1292,wels1247-std,concepticon-2008,11.25,achub,"save, rescue",achub
+clics-doculect-65-1293,wels1247-std,concepticon-681,11.27,dinistrio,destroy,dinistrio
+clics-doculect-65-1294,wels1247-std,concepticon-681,11.27,distrywio,destroy,distrywio
+clics-doculect-65-1295,wels1247-std,concepticon-44,11.28,niweidio,"harm, injure, damage",niweidio
+clics-doculect-65-1296,wels1247-std,concepticon-1468,11.31,ceisio,"seek, look for",ceisio
+clics-doculect-65-1297,wels1247-std,concepticon-719,11.32,caffael,find,caffael
+clics-doculect-65-1298,wels1247-std,concepticon-719,11.32,cael,find,cael
+clics-doculect-65-1299,wels1247-std,concepticon-719,11.32,caelhyd,find,caelhyd
+clics-doculect-65-1300,wels1247-std,concepticon-719,11.32,ffeindio,find,ffeindio
+clics-doculect-65-1301,wels1247-std,concepticon-1660,11.33,colli,lose,colli
+clics-doculect-65-1302,wels1247-std,concepticon-1095,11.34,gollwng,"release, let go",gollwng
+clics-doculect-65-1303,wels1247-std,concepticon-1559,11.43,arian,money,arian
+clics-doculect-65-1304,wels1247-std,concepticon-1559,11.43,pres,money,pres
+clics-doculect-65-1305,wels1247-std,concepticon-1867,11.44,arianbath,coin,arianbath
+clics-doculect-65-1306,wels1247-std,concepticon-712,11.51,cyfoethog,rich,cyfoethog
+clics-doculect-65-1307,wels1247-std,concepticon-1674,11.52,tlawd,poor,tlawd
+clics-doculect-65-1308,wels1247-std,concepticon-1934,11.53,cardotyn,beggar,cardotyn
+clics-doculect-65-1309,wels1247-std,concepticon-1774,11.54,cybyddlyd,"avaricious, stingy",cybyddlyd
+clics-doculect-65-1310,wels1247-std,concepticon-1774,11.54,crintach,"avaricious, stingy",crintach
+clics-doculect-65-1311,wels1247-std,concepticon-582,11.61,benthyg,lend,benthyg
+clics-doculect-65-1312,wels1247-std,concepticon-582,11.61,benthyca,lend,benthyca
+clics-doculect-65-1313,wels1247-std,concepticon-582,11.61,echwyna,lend,echwyna
+clics-doculect-65-1314,wels1247-std,concepticon-582,11.61,benthycio,lend,benthycio
+clics-doculect-65-1315,wels1247-std,concepticon-1823,11.62,benthycio,borrow,benthycio
+clics-doculect-65-1316,wels1247-std,concepticon-369,11.63,bodmewndyled,owe,bodmewndyled
+clics-doculect-65-1317,wels1247-std,concepticon-1914,11.64,dyled,debt,dyled
+clics-doculect-65-1318,wels1247-std,concepticon-718,11.65,talu,pay (vb),talu
+clics-doculect-65-1319,wels1247-std,concepticon-1081,11.66,cyfrif,"account, reckoning",cyfrif
+clics-doculect-65-1320,wels1247-std,concepticon-873,11.69,treth,"tax, tribute",treth
+clics-doculect-65-1321,wels1247-std,concepticon-856,11.77,cyflogi,hire,cyflogi
+clics-doculect-65-1322,wels1247-std,concepticon-856,11.77,llogi,hire,llogi
+clics-doculect-65-1323,wels1247-std,concepticon-856,11.77,hurio,hire,hurio
+clics-doculect-65-1324,wels1247-std,concepticon-1122,11.78,cyflog,wages,cyflog
+clics-doculect-65-1325,wels1247-std,concepticon-1122,11.78,hur,wages,hur
+clics-doculect-65-1326,wels1247-std,concepticon-733,11.79,ennill,earn,ennill
+clics-doculect-65-1327,wels1247-std,concepticon-1869,11.81,prynu,buy,prynu
+clics-doculect-65-1328,wels1247-std,concepticon-1571,11.82,gwerthu,sell,gwerthu
+clics-doculect-65-1329,wels1247-std,concepticon-2135,11.83,masnachu,"trade, barter",masnachu
+clics-doculect-65-1330,wels1247-std,concepticon-1082,11.84,masnachydd,merchant,masnachydd
+clics-doculect-65-1331,wels1247-std,concepticon-1082,11.84,marsiandwr,merchant,marsiandwr
+clics-doculect-65-1332,wels1247-std,concepticon-633,11.85,marchnad,market (place),marchnad
+clics-doculect-65-1333,wels1247-std,concepticon-752,11.86,siop,"store, shop",siop
+clics-doculect-65-1334,wels1247-std,concepticon-752,11.86,maelfa,"store, shop",maelfa
+clics-doculect-65-1335,wels1247-std,concepticon-657,11.87,pris,price,pris
+clics-doculect-65-1336,wels1247-std,concepticon-1426,11.88,drud,"dear (costly, expensive)",drud
+clics-doculect-65-1337,wels1247-std,concepticon-1426,11.88,costus,"dear (costly, expensive)",costus
+clics-doculect-65-1338,wels1247-std,concepticon-1887,11.89,rhad,cheap,rhad
+clics-doculect-65-1339,wels1247-std,concepticon-884,11.91,rhannu,share (distribute),rhannu
+clics-doculect-65-1340,wels1247-std,concepticon-1098,11.92,pwyso,weigh,pwyso
+clics-doculect-65-1341,wels1247-std,concepticon-1685,12.1,arôl,after,arol
+clics-doculect-65-1342,wels1247-std,concepticon-723,12.11,ytuôl,place,ytuol
+clics-doculect-65-1343,wels1247-std,concepticon-1816,12.2,ynymyl,beside,ynymyl
+clics-doculect-65-1344,wels1247-std,concepticon-1816,12.2,wrthochr,beside,wrthochr
+clics-doculect-65-1345,wels1247-std,concepticon-1816,12.2,ger,beside,ger
+clics-doculect-65-1346,wels1247-std,concepticon-1816,12.2,arbwys,beside,arbwys
+clics-doculect-65-1347,wels1247-std,concepticon-2094,12.3,ilawr,"down, below",ilawr
+clics-doculect-65-1348,wels1247-std,concepticon-2094,12.3,islaw,"down, below",islaw
+clics-doculect-65-1349,wels1247-std,concepticon-1882,12.4,oflaen,before,oflaen
+clics-doculect-65-1350,wels1247-std,concepticon-1019,12.41,blaen,right (side),blaen
+clics-doculect-65-1351,wels1247-std,concepticon-1606,12.5,ytumewn,"inside, in",ytumewn
+clics-doculect-65-1352,wels1247-std,concepticon-1606,12.5,mewn,"inside, in",mewn
+clics-doculect-65-1353,wels1247-std,concepticon-1606,12.5,yn,"inside, in",yn
+clics-doculect-65-1354,wels1247-std,concepticon-762,12.6,ytuallan,outside,ytuallan
+clics-doculect-65-1355,wels1247-std,concepticon-1485,12.7,odan,under,odan
+clics-doculect-65-1356,wels1247-std,concepticon-1485,12.7,tan,under,tan
+clics-doculect-65-1357,wels1247-std,concepticon-1591,12.8,ifyny,"up, above",ifyny
+clics-doculect-65-1358,wels1247-std,concepticon-1591,12.8,lan,"up, above",lan
+clics-doculect-65-1359,wels1247-std,concepticon-1591,12.8,uwchben,"up, above",uwchben
+clics-doculect-65-1360,wels1247-std,concepticon-723,12.11,lle,place,lle
+clics-doculect-65-1361,wels1247-std,concepticon-723,12.11,man,place,man
+clics-doculect-65-1362,wels1247-std,concepticon-998,12.12,gosod,put,gosod
+clics-doculect-65-1363,wels1247-std,concepticon-998,12.12,dodi,put,dodi
+clics-doculect-65-1364,wels1247-std,concepticon-998,12.12,rhoi,put,rhoi
+clics-doculect-65-1365,wels1247-std,concepticon-1416,12.13,eistedd,sit,eistedd
+clics-doculect-65-1366,wels1247-std,concepticon-215,12.14,gorwedd,lie down,gorwedd
+clics-doculect-65-1367,wels1247-std,concepticon-1442,12.15,sefyll,stand,sefyll
+clics-doculect-65-1368,wels1247-std,concepticon-987,12.16,aros,"remain, stay",aros
+clics-doculect-65-1369,wels1247-std,concepticon-838,12.17,gweddillion,"remains, left overs",gweddillion
+clics-doculect-65-1370,wels1247-std,concepticon-7,12.21,casglu,"collect, gather",casglu
+clics-doculect-65-1371,wels1247-std,concepticon-7,12.21,cynnull,"collect, gather",cynnull
+clics-doculect-65-1372,wels1247-std,concepticon-371,12.212,codi,pick up,codi
+clics-doculect-65-1373,wels1247-std,concepticon-371,12.212,casglu,pick up,casglu
+clics-doculect-65-1374,wels1247-std,concepticon-1576,12.213,pentyrru,pile up,pentyrru
+clics-doculect-65-1375,wels1247-std,concepticon-1576,12.213,cruglwytho,pile up,cruglwytho
+clics-doculect-65-1376,wels1247-std,concepticon-1743,12.22,cysylltu,"join, unite",cysylltu
+clics-doculect-65-1377,wels1247-std,concepticon-1743,12.22,cydio,"join, unite",cydio
+clics-doculect-65-1378,wels1247-std,concepticon-1743,12.22,uno,"join, unite",uno
+clics-doculect-65-1379,wels1247-std,concepticon-1743,12.22,cyfuno,"join, unite",cyfuno
+clics-doculect-65-1380,wels1247-std,concepticon-1359,12.23,gwahanu,separate,gwahanu
+clics-doculect-65-1381,wels1247-std,concepticon-1119,12.232,rhannu,divide,rhannu
+clics-doculect-65-1382,wels1247-std,concepticon-1119,12.232,gwahanu,divide,gwahanu
+clics-doculect-65-1383,wels1247-std,concepticon-1156,12.24,agor,open,agor
+clics-doculect-65-1384,wels1247-std,concepticon-1046,12.25,cau,"shut, close",cau
+clics-doculect-65-1385,wels1247-std,concepticon-761,12.26,gorchuddio,cover,gorchuddio
+clics-doculect-65-1386,wels1247-std,concepticon-602,12.27,cuddio,"hide, conceal",cuddio
+clics-doculect-65-1387,wels1247-std,concepticon-602,12.27,celu,"hide, conceal",celu
+clics-doculect-65-1388,wels1247-std,concepticon-1265,12.31,uchel,high,uchel
+clics-doculect-65-1389,wels1247-std,concepticon-721,12.32,isel,low,isel
+clics-doculect-65-1390,wels1247-std,concepticon-1753,12.33,brig,top,brig
+clics-doculect-65-1391,wels1247-std,concepticon-690,12.34,gwaelod,bottom,gwaelod
+clics-doculect-65-1392,wels1247-std,concepticon-690,12.34,bôn,bottom,bon
+clics-doculect-65-1393,wels1247-std,concepticon-742,12.35,pen,end,pen
+clics-doculect-65-1394,wels1247-std,concepticon-372,12.352,pwyntiedig,pointed,pwyntiedig
+clics-doculect-65-1395,wels1247-std,concepticon-372,12.352,blaenllym,pointed,blaenllym
+clics-doculect-65-1396,wels1247-std,concepticon-863,12.353,ymyl,edge,ymyl
+clics-doculect-65-1397,wels1247-std,concepticon-863,12.353,min,edge,min
+clics-doculect-65-1398,wels1247-std,concepticon-863,12.353,awch,edge,awch
+clics-doculect-65-1399,wels1247-std,concepticon-863,12.353,ochr,edge,ochr
+clics-doculect-65-1400,wels1247-std,concepticon-682,12.36,ochr,side,ochr
+clics-doculect-65-1401,wels1247-std,concepticon-682,12.36,ystlys,side,ystlys
+clics-doculect-65-1402,wels1247-std,concepticon-682,12.36,tu,side,tu
+clics-doculect-65-1403,wels1247-std,concepticon-1093,12.37,canol,"middle, center",canol
+clics-doculect-65-1404,wels1247-std,concepticon-1093,12.37,perfedd,"middle, center",perfedd
+clics-doculect-65-1405,wels1247-std,concepticon-1019,12.41,de,right (side),de
+clics-doculect-65-1406,wels1247-std,concepticon-1019,12.41,dehau,right (side),dehau
+clics-doculect-65-1407,wels1247-std,concepticon-244,12.42,chwith,left (side),chwith
+clics-doculect-65-1408,wels1247-std,concepticon-244,12.42,aswy,left (side),aswy
+clics-doculect-65-1409,wels1247-std,concepticon-1942,12.43,ynagos,near (adv),ynagos
+clics-doculect-65-1410,wels1247-std,concepticon-1942,12.43,nidnepell,near (adv),nidnepell
+clics-doculect-65-1411,wels1247-std,concepticon-1942,12.43,gerllaw,near (adv),gerllaw
+clics-doculect-65-1412,wels1247-std,concepticon-1406,12.44,ymhell,far (adv),ymhell
+clics-doculect-65-1413,wels1247-std,concepticon-1406,12.44,ynbell,far (adv),ynbell
+clics-doculect-65-1414,wels1247-std,concepticon-1877,12.45,dwyrain,east,dwyrain
+clics-doculect-65-1415,wels1247-std,concepticon-1817,12.46,gorllewin,west,gorllewin
+clics-doculect-65-1416,wels1247-std,concepticon-1598,12.47,gogledd,north,gogledd
+clics-doculect-65-1417,wels1247-std,concepticon-1595,12.48,de,south,de
+clics-doculect-65-1418,wels1247-std,concepticon-1595,12.48,dehau,south,dehau
+clics-doculect-65-1419,wels1247-std,concepticon-479,12.53,tyfu,grow,tyfu
+clics-doculect-65-1420,wels1247-std,concepticon-1506,12.54,mesur,measure,mesur
+clics-doculect-65-1421,wels1247-std,concepticon-81,12.541,lled,"span, fathom",lled
+clics-doculect-65-1422,wels1247-std,concepticon-81,12.541,rhychwant,"span, fathom",rhychwant
+clics-doculect-65-1423,wels1247-std,concepticon-81,12.541,gwryd,"span, fathom",gwryd
+clics-doculect-65-1424,wels1247-std,concepticon-1202,12.55,mawr,"large, big",mawr
+clics-doculect-65-1425,wels1247-std,concepticon-1246,12.56,bach,"small, little",bach
+clics-doculect-65-1426,wels1247-std,concepticon-1246,12.56,bychan,"small, little",bychan
+clics-doculect-65-1427,wels1247-std,concepticon-1203,12.57,hir,long,hir
+clics-doculect-65-1428,wels1247-std,concepticon-1203,12.57,maith,long,maith
+clics-doculect-65-1429,wels1247-std,concepticon-711,12.58,tal,tall,tal
+clics-doculect-65-1430,wels1247-std,concepticon-1645,12.59,byr,short,byr
+clics-doculect-65-1431,wels1247-std,concepticon-1243,12.61,llydan,"wide, broad",llydan
+clics-doculect-65-1432,wels1247-std,concepticon-1243,12.61,eang,"wide, broad",eang
+clics-doculect-65-1433,wels1247-std,concepticon-1267,12.62,cul,narrow,cul
+clics-doculect-65-1434,wels1247-std,concepticon-1267,12.62,cyfyng,narrow,cyfyng
+clics-doculect-65-1435,wels1247-std,concepticon-1244,12.63,tew,thick (in dimension),tew
+clics-doculect-65-1436,wels1247-std,concepticon-1244,12.63,trwchus,thick (in dimension),trwchus
+clics-doculect-65-1437,wels1247-std,concepticon-2249,12.65,tenau,thin (in dimension),tenau
+clics-doculect-65-1438,wels1247-std,concepticon-1593,12.67,dwfn,deep,dwfn
+clics-doculect-65-1439,wels1247-std,concepticon-193,12.68,bas,shallow,bas
+clics-doculect-65-1440,wels1247-std,concepticon-1633,12.71,fflat,flat,fflat
+clics-doculect-65-1441,wels1247-std,concepticon-1633,12.71,gwastad,flat,gwastad
+clics-doculect-65-1442,wels1247-std,concepticon-1404,12.73,union,straight,union
+clics-doculect-65-1443,wels1247-std,concepticon-1404,12.73,syth,straight,syth
+clics-doculect-65-1444,wels1247-std,concepticon-297,12.74,cam,crooked,cam
+clics-doculect-65-1445,wels1247-std,concepticon-297,12.74,crwm,crooked,crwm
+clics-doculect-65-1446,wels1247-std,concepticon-1071,12.75,bach,hook,bach
+clics-doculect-65-1447,wels1247-std,concepticon-192,12.76,congl,corner,congl
+clics-doculect-65-1448,wels1247-std,concepticon-192,12.76,cornel,corner,cornel
+clics-doculect-65-1449,wels1247-std,concepticon-1367,12.77,croes,cross,croes
+clics-doculect-65-1450,wels1247-std,concepticon-1367,12.77,crog,cross,crog
+clics-doculect-65-1451,wels1247-std,concepticon-850,12.78,sgwâr,square,sgwar
+clics-doculect-65-1452,wels1247-std,concepticon-850,12.78,pedrongl,square,pedrongl
+clics-doculect-65-1453,wels1247-std,concepticon-1395,12.81,crwn,round,crwn
+clics-doculect-65-1454,wels1247-std,concepticon-1467,12.82,cylch,circle,cylch
+clics-doculect-65-1455,wels1247-std,concepticon-1467,12.82,cant,circle,cant
+clics-doculect-65-1456,wels1247-std,concepticon-1845,12.83,sffêr,"sphere, ball",sffer
+clics-doculect-65-1457,wels1247-std,concepticon-1845,12.83,pêl,"sphere, ball",pel
+clics-doculect-65-1458,wels1247-std,concepticon-1845,12.83,pelen,"sphere, ball",pelen
+clics-doculect-65-1459,wels1247-std,concepticon-1845,12.83,cronnell,"sphere, ball",cronnell
+clics-doculect-65-1460,wels1247-std,concepticon-1048,12.84,llinell,line,llinell
+clics-doculect-65-1461,wels1247-std,concepticon-1667,12.85,twll,hole,twll
+clics-doculect-65-1462,wels1247-std,concepticon-1558,12.92,tebyg,"like, similar",tebyg
+clics-doculect-65-1463,wels1247-std,concepticon-1558,12.92,hafal,"like, similar",hafal
+clics-doculect-65-1464,wels1247-std,concepticon-1264,12.93,newid,change,newid
+clics-doculect-65-1465,wels1247-std,concepticon-1264,12.93,troi,change,troi
+clics-doculect-65-1466,wels1247-std,concepticon-1294,13.0,dim,"zero, nothing",dim
+clics-doculect-65-1467,wels1247-std,concepticon-1294,13.0,sero,"zero, nothing",sero
+clics-doculect-65-1468,wels1247-std,concepticon-1493,13.1,un,one,un
+clics-doculect-65-1469,wels1247-std,concepticon-1498,13.2,dau,two,dau
+clics-doculect-65-1470,wels1247-std,concepticon-1498,13.2,dwy,two,dwy
+clics-doculect-65-1471,wels1247-std,concepticon-492,13.3,tri,three,tri
+clics-doculect-65-1472,wels1247-std,concepticon-492,13.3,tair,three,tair
+clics-doculect-65-1473,wels1247-std,concepticon-1500,13.4,pedwar,four,pedwar
+clics-doculect-65-1474,wels1247-std,concepticon-1500,13.4,pedair,four,pedair
+clics-doculect-65-1475,wels1247-std,concepticon-493,13.5,pump,five,pump
+clics-doculect-65-1476,wels1247-std,concepticon-1703,13.6,chwech,six,chwech
+clics-doculect-65-1477,wels1247-std,concepticon-1704,13.7,saith,seven,saith
+clics-doculect-65-1478,wels1247-std,concepticon-1705,13.8,wyth,eight,wyth
+clics-doculect-65-1479,wels1247-std,concepticon-1483,13.9,naw,nine,naw
+clics-doculect-65-1480,wels1247-std,concepticon-1515,13.10,deg,ten,deg
+clics-doculect-65-1481,wels1247-std,concepticon-1706,13.101,unarddeg,eleven,unarddeg
+clics-doculect-65-1482,wels1247-std,concepticon-1707,13.102,deuddeg,twelve,deuddeg
+clics-doculect-65-1483,wels1247-std,concepticon-1709,13.103,pymtheg,fifteen,pymtheg
+clics-doculect-65-1484,wels1247-std,concepticon-1710,13.104,ugain,twenty,ugain
+clics-doculect-65-1485,wels1247-std,concepticon-1634,13.105,cant,hundred,cant
+clics-doculect-65-1486,wels1247-std,concepticon-1843,13.106,mil,thousand,mil
+clics-doculect-65-1487,wels1247-std,concepticon-1420,13.107,cyfrif,count,cyfrif
+clics-doculect-65-1488,wels1247-std,concepticon-98,13.14,pob,"every, all",pob
+clics-doculect-65-1489,wels1247-std,concepticon-98,13.14,holl,"every, all",holl
+clics-doculect-65-1490,wels1247-std,concepticon-1198,13.15,llawer,"much, many",llawer
+clics-doculect-65-1491,wels1247-std,concepticon-1992,13.16,mwy,more,mwy
+clics-doculect-65-1492,wels1247-std,concepticon-1992,13.16,ychwaneg,more,ychwaneg
+clics-doculect-65-1493,wels1247-std,concepticon-1992,13.16,rhagor,more,rhagor
+clics-doculect-65-1494,wels1247-std,concepticon-1242,13.17,ychydig,"little (quantity), few",ychydig
+clics-doculect-65-1495,wels1247-std,concepticon-1881,13.18,digon,enough,digon
+clics-doculect-65-1496,wels1247-std,concepticon-1241,13.181,rhai,some,rhai
+clics-doculect-65-1497,wels1247-std,concepticon-1241,13.181,ychydig,some,ychydig
+clics-doculect-65-1498,wels1247-std,concepticon-1241,13.181,peth,some,peth
+clics-doculect-65-1499,wels1247-std,concepticon-2023,13.19,lliaws,"multitude, crowd",lliaws
+clics-doculect-65-1500,wels1247-std,concepticon-2023,13.19,torf,"multitude, crowd",torf
+clics-doculect-65-1501,wels1247-std,concepticon-2023,13.19,llu,"multitude, crowd",llu
+clics-doculect-65-1502,wels1247-std,concepticon-1429,13.21,llawn,full,llawn
+clics-doculect-65-1503,wels1247-std,concepticon-1624,13.22,gwag,empty,gwag
+clics-doculect-65-1504,wels1247-std,concepticon-779,13.23,rhan,"part, piece",rhan
+clics-doculect-65-1505,wels1247-std,concepticon-779,13.23,darn,"part, piece",darn
+clics-doculect-65-1506,wels1247-std,concepticon-816,13.24,hanner,half,hanner
+clics-doculect-65-1507,wels1247-std,concepticon-1580,13.33,ynunig,"alone, only",ynunig
+clics-doculect-65-1508,wels1247-std,concepticon-1580,13.33,unig,"alone, only",unig
+clics-doculect-65-1509,wels1247-std,concepticon-728,13.34,cyntaf,first,cyntaf
+clics-doculect-65-1510,wels1247-std,concepticon-1529,13.35,olaf,last,olaf
+clics-doculect-65-1511,wels1247-std,concepticon-1529,13.35,diwethaf,last,diwethaf
+clics-doculect-65-1512,wels1247-std,concepticon-1384,13.36,ail,second,ail
+clics-doculect-65-1513,wels1247-std,concepticon-1888,13.37,pâr,pair,par
+clics-doculect-65-1514,wels1247-std,concepticon-1888,13.37,cwpl,pair,cwpl
+clics-doculect-65-1515,wels1247-std,concepticon-1546,13.38,dwywaith,two times,dwywaith
+clics-doculect-65-1516,wels1247-std,concepticon-1546,13.38,daudro,two times,daudro
+clics-doculect-65-1517,wels1247-std,concepticon-1546,13.38,dwyadeg,two times,dwyadeg
+clics-doculect-65-1518,wels1247-std,concepticon-1859,13.42,tryddydd,third,tryddydd
+clics-doculect-65-1519,wels1247-std,concepticon-1859,13.42,trydedd,third,trydedd
+clics-doculect-65-1520,wels1247-std,concepticon-417,13.44,teirgwaith,three times,teirgwaith
+clics-doculect-65-1521,wels1247-std,concepticon-417,13.44,tairgwaith,three times,tairgwaith
+clics-doculect-65-1522,wels1247-std,concepticon-417,13.44,tairadeg,three times,tairadeg
+clics-doculect-65-1523,wels1247-std,concepticon-417,13.44,trithro,three times,trithro
+clics-doculect-65-1524,wels1247-std,concepticon-892,14.11,amser,time,amser
+clics-doculect-65-1525,wels1247-std,concepticon-892,14.11,pryd,time,pryd
+clics-doculect-65-1526,wels1247-std,concepticon-1789,14.12,oed,age,oed
+clics-doculect-65-1527,wels1247-std,concepticon-1789,14.12,oes,age,oes
+clics-doculect-65-1528,wels1247-std,concepticon-1231,14.13,newydd,new,newydd
+clics-doculect-65-1529,wels1247-std,concepticon-1207,14.14,ieuanc,young,ieuanc
+clics-doculect-65-1530,wels1247-std,concepticon-1207,14.14,ifanc,young,ifanc
+clics-doculect-65-1531,wels1247-std,concepticon-1229,14.15,hen,old,hen
+clics-doculect-65-1532,wels1247-std,concepticon-672,14.16,cynnar,early,cynnar
+clics-doculect-65-1533,wels1247-std,concepticon-672,14.16,bore,early,bore
+clics-doculect-65-1534,wels1247-std,concepticon-477,14.17,hwyr,late,hwyr
+clics-doculect-65-1535,wels1247-std,concepticon-477,14.17,diweddar,late,diweddar
+clics-doculect-65-1536,wels1247-std,concepticon-1376,14.18,ynawr,now,ynawr
+clics-doculect-65-1537,wels1247-std,concepticon-1963,14.19,ynyfan,immediately,ynyfan
+clics-doculect-65-1538,wels1247-std,concepticon-1963,14.19,arunwaith,immediately,arunwaith
+clics-doculect-65-1539,wels1247-std,concepticon-1963,14.19,ynsyth,immediately,ynsyth
+clics-doculect-65-1540,wels1247-std,concepticon-1631,14.21,buan,"swift, fast, quick",buan
+clics-doculect-65-1541,wels1247-std,concepticon-1631,14.21,cyflym,"swift, fast, quick",cyflym
+clics-doculect-65-1542,wels1247-std,concepticon-1631,14.21,chwyrn,"swift, fast, quick",chwyrn
+clics-doculect-65-1543,wels1247-std,concepticon-1631,14.21,clau,"swift, fast, quick",clau
+clics-doculect-65-1544,wels1247-std,concepticon-701,14.22,araf,slow,araf
+clics-doculect-65-1545,wels1247-std,concepticon-754,14.23,brysio,"hasten, hurry",brysio
+clics-doculect-65-1546,wels1247-std,concepticon-754,14.23,prysuro,"hasten, hurry",prysuro
+clics-doculect-65-1547,wels1247-std,concepticon-754,14.23,hastu,"hasten, hurry",hastu
+clics-doculect-65-1548,wels1247-std,concepticon-425,14.24,arafu,"retard, delay",arafu
+clics-doculect-65-1549,wels1247-std,concepticon-425,14.24,oedi,"retard, delay",oedi
+clics-doculect-65-1550,wels1247-std,concepticon-1806,14.25,dechrau,"begin, beginning",dechrau
+clics-doculect-65-1551,wels1247-std,concepticon-1806,14.25,cychwyn,"begin, beginning",cychwyn
+clics-doculect-65-1552,wels1247-std,concepticon-1806,14.25,dechreuad,"begin, beginning",dechreuad
+clics-doculect-65-1553,wels1247-std,concepticon-1186,14.252,parhau,"last, endure",parhau
+clics-doculect-65-1554,wels1247-std,concepticon-1186,14.252,para,"last, endure",para
+clics-doculect-65-1555,wels1247-std,concepticon-1186,14.252,goroesi,"last, endure",goroesi
+clics-doculect-65-1556,wels1247-std,concepticon-743,14.26,diwedd,end (temporal),diwedd
+clics-doculect-65-1557,wels1247-std,concepticon-1766,14.27,diweddu,finish,diweddu
+clics-doculect-65-1558,wels1247-std,concepticon-1766,14.27,gorffen,finish,gorffen
+clics-doculect-65-1559,wels1247-std,concepticon-1766,14.27,dodiben,finish,dodiben
+clics-doculect-65-1560,wels1247-std,concepticon-1928,14.28,peidio,"cease, stop",peidio
+clics-doculect-65-1561,wels1247-std,concepticon-1928,14.28,stopio,"cease, stop",stopio
+clics-doculect-65-1562,wels1247-std,concepticon-790,14.29,parod,ready,parod
+clics-doculect-65-1563,wels1247-std,concepticon-1676,14.31,bobamser,always,bobamser
+clics-doculect-65-1564,wels1247-std,concepticon-1676,14.31,bobtro,always,bobtro
+clics-doculect-65-1565,wels1247-std,concepticon-1676,14.31,drwy'ramser,always,drwy'ramser
+clics-doculect-65-1566,wels1247-std,concepticon-1852,14.32,ynaml,often,ynaml
+clics-doculect-65-1567,wels1247-std,concepticon-1852,14.32,ynfynych,often,ynfynych
+clics-doculect-65-1568,wels1247-std,concepticon-1544,14.33,weithiau,sometimes,weithiau
+clics-doculect-65-1569,wels1247-std,concepticon-1544,14.33,ambellwaith,sometimes,ambellwaith
+clics-doculect-65-1570,wels1247-std,concepticon-703,14.331,cynhir,soon,cynhir
+clics-doculect-65-1571,wels1247-std,concepticon-703,14.331,ynfuan,soon,ynfuan
+clics-doculect-65-1572,wels1247-std,concepticon-418,14.332,erstro,long-time (for a),erstro
+clics-doculect-65-1573,wels1247-std,concepticon-418,14.332,erstalwm,long-time (for a),erstalwm
+clics-doculect-65-1574,wels1247-std,concepticon-418,14.332,ersmeitin,long-time (for a),ersmeitin
+clics-doculect-65-1575,wels1247-std,concepticon-1656,14.34,byth,never,byth
+clics-doculect-65-1576,wels1247-std,concepticon-1656,14.34,erioed,never,erioed
+clics-doculect-65-1577,wels1247-std,concepticon-204,14.35,eto,again,eto
+clics-doculect-65-1578,wels1247-std,concepticon-204,14.35,eilwaith,again,eilwaith
+clics-doculect-65-1579,wels1247-std,concepticon-204,14.35,drachefn,again,drachefn
+clics-doculect-65-1580,wels1247-std,concepticon-1225,14.41,dydd,day,dydd
+clics-doculect-65-1581,wels1247-std,concepticon-1225,14.41,diwrnod,day,diwrnod
+clics-doculect-65-1582,wels1247-std,concepticon-1233,14.42,nos,night,nos
+clics-doculect-65-1583,wels1247-std,concepticon-729,14.43,gwawr,dawn,gwawr
+clics-doculect-65-1584,wels1247-std,concepticon-1339,14.44,bore,morning,bore
+clics-doculect-65-1585,wels1247-std,concepticon-12,14.45,canoldydd,"noon, midday",canoldydd
+clics-doculect-65-1586,wels1247-std,concepticon-12,14.45,nawn,"noon, midday",nawn
+clics-doculect-65-1587,wels1247-std,concepticon-12,14.45,hannerdydd,"noon, midday",hannerdydd
+clics-doculect-65-1588,wels1247-std,concepticon-1807,14.451,prynhawn,afternoon,prynhawn
+clics-doculect-65-1589,wels1247-std,concepticon-1629,14.46,minnos,evening,minnos
+clics-doculect-65-1590,wels1247-std,concepticon-1629,14.46,hwyr,evening,hwyr
+clics-doculect-65-1591,wels1247-std,concepticon-1629,14.46,noswaith,evening,noswaith
+clics-doculect-65-1592,wels1247-std,concepticon-1283,14.47,heddiw,today,heddiw
+clics-doculect-65-1593,wels1247-std,concepticon-1329,14.48,yfory,tomorrow,yfory
+clics-doculect-65-1594,wels1247-std,concepticon-1179,14.481,trennydd,day-after-tomorrow,trennydd
+clics-doculect-65-1595,wels1247-std,concepticon-1174,14.49,doe,yesterday,doe
+clics-doculect-65-1596,wels1247-std,concepticon-1180,14.491,echdoe,day-before-yesterday,echdoe
+clics-doculect-65-1597,wels1247-std,concepticon-1353,14.51,awr,hour,awr
+clics-doculect-65-1598,wels1247-std,concepticon-1323,14.53,cloc,"clock, timepiece",cloc
+clics-doculect-65-1599,wels1247-std,concepticon-1323,14.53,awrlais,"clock, timepiece",awrlais
+clics-doculect-65-1600,wels1247-std,concepticon-1323,14.53,amserydd,"clock, timepiece",amserydd
+clics-doculect-65-1601,wels1247-std,concepticon-1469,14.61,wythnos,week,wythnos
+clics-doculect-65-1602,wels1247-std,concepticon-1699,14.62,dyddSul,Sunday,dyddSul
+clics-doculect-65-1603,wels1247-std,concepticon-1697,14.63,dyddLlun,Monday,dyddLlun
+clics-doculect-65-1604,wels1247-std,concepticon-1695,14.64,dyddMawrth,Tuesday,dyddMawrth
+clics-doculect-65-1605,wels1247-std,concepticon-1694,14.65,dyddMercher,Wednesday,dyddMercher
+clics-doculect-65-1606,wels1247-std,concepticon-1693,14.66,dyddIau,Thursday,dyddIau
+clics-doculect-65-1607,wels1247-std,concepticon-1692,14.67,dyddGwener,Friday,dyddGwener
+clics-doculect-65-1608,wels1247-std,concepticon-1700,14.68,dyddSadwrn,Saturday,dyddSadwrn
+clics-doculect-65-1609,wels1247-std,concepticon-1370,14.71,mis,month,mis
+clics-doculect-65-1610,wels1247-std,concepticon-1226,14.73,blwyddyn,year,blwyddyn
+clics-doculect-65-1611,wels1247-std,concepticon-1471,14.74,gaeaf,winter,gaeaf
+clics-doculect-65-1612,wels1247-std,concepticon-1537,14.75,gwanwyn,spring,gwanwyn
+clics-doculect-65-1613,wels1247-std,concepticon-1342,14.76,haf,summer,haf
+clics-doculect-65-1614,wels1247-std,concepticon-1276,14.77,hydref,autumn,hydref
+clics-doculect-65-1615,wels1247-std,concepticon-691,14.78,tymor,season,tymor
+clics-doculect-65-1616,wels1247-std,concepticon-1587,15.21,arogli,smell (vb intrans),arogli
+clics-doculect-65-1617,wels1247-std,concepticon-1587,15.21,arogleuo,smell (vb intrans),arogleuo
+clics-doculect-65-1618,wels1247-std,concepticon-1587,15.21,gwynto,smell (vb intrans),gwynto
+clics-doculect-65-1619,wels1247-std,concepticon-375,15.212,ffroeni,sniff,ffroeni
+clics-doculect-65-1620,wels1247-std,concepticon-375,15.212,synhwyro,sniff,synhwyro
+clics-doculect-65-1621,wels1247-std,concepticon-1586,15.22,arogleuo,smell (vb trans),arogleuo
+clics-doculect-65-1622,wels1247-std,concepticon-1586,15.22,synhwyro,smell (vb trans),synhwyro
+clics-doculect-65-1623,wels1247-std,concepticon-1586,15.22,clywed,smell (vb trans),clywed
+clics-doculect-65-1624,wels1247-std,concepticon-376,15.25,peraroglus,"fragrant, good smelling",peraroglus
+clics-doculect-65-1625,wels1247-std,concepticon-376,15.25,persawrus,"fragrant, good smelling",persawrus
+clics-doculect-65-1626,wels1247-std,concepticon-42,15.26,drewllyd,"stinking, bad smelling",drewllyd
+clics-doculect-65-1627,wels1247-std,concepticon-42,15.26,drycsawrus,"stinking, bad smelling",drycsawrus
+clics-doculect-65-1628,wels1247-std,concepticon-21,15.31,blasu,taste,blasu
+clics-doculect-65-1629,wels1247-std,concepticon-21,15.31,chwaethu,taste,chwaethu
+clics-doculect-65-1630,wels1247-std,concepticon-717,15.35,melys,sweet,melys
+clics-doculect-65-1631,wels1247-std,concepticon-1091,15.36,hallt,salty,hallt
+clics-doculect-65-1632,wels1247-std,concepticon-887,15.37,chwerw,bitter,chwerw
+clics-doculect-65-1633,wels1247-std,concepticon-1906,15.38,sur,"acid, sour",sur
+clics-doculect-65-1634,wels1247-std,concepticon-1906,15.38,egr,"acid, sour",egr
+clics-doculect-65-1635,wels1247-std,concepticon-70,15.39,helïaidd,brackish,heliaidd
+clics-doculect-65-1636,wels1247-std,concepticon-70,15.39,halltaidd,brackish,halltaidd
+clics-doculect-65-1637,wels1247-std,concepticon-1408,15.41,clywed,hear,clywed
+clics-doculect-65-1638,wels1247-std,concepticon-1608,15.42,gwrando,listen,gwrando
+clics-doculect-65-1639,wels1247-std,concepticon-1811,15.44,sain,"sound, noise",sain
+clics-doculect-65-1640,wels1247-std,concepticon-1811,15.44,sŵn,"sound, noise",swn
+clics-doculect-65-1641,wels1247-std,concepticon-377,15.45,uchel,loud,uchel
+clics-doculect-65-1642,wels1247-std,concepticon-377,15.45,swnllyd,loud,swnllyd
+clics-doculect-65-1643,wels1247-std,concepticon-1314,15.46,llonydd,"quiet, silence",llonydd
+clics-doculect-65-1644,wels1247-std,concepticon-1314,15.46,tawelwch,"quiet, silence",tawelwch
+clics-doculect-65-1645,wels1247-std,concepticon-1409,15.51,gweld,see,gweld
+clics-doculect-65-1646,wels1247-std,concepticon-1409,15.51,gweled,see,gweled
+clics-doculect-65-1647,wels1247-std,concepticon-1819,15.52,edrych,"look, look at",edrych
+clics-doculect-65-1648,wels1247-std,concepticon-1819,15.52,syllu,"look, look at",syllu
+clics-doculect-65-1649,wels1247-std,concepticon-1039,15.55,dangos,show,dangos
+clics-doculect-65-1650,wels1247-std,concepticon-708,15.56,disgleirio,shine,disgleirio
+clics-doculect-65-1651,wels1247-std,concepticon-708,15.56,llewyrchu,shine,llewyrchu
+clics-doculect-65-1652,wels1247-std,concepticon-679,15.57,golau,bright,golau
+clics-doculect-65-1653,wels1247-std,concepticon-679,15.57,disglair,bright,disglair
+clics-doculect-65-1654,wels1247-std,concepticon-1613,15.61,lliw,color,lliw
+clics-doculect-65-1655,wels1247-std,concepticon-250,15.62,golau,light (in color),golau
+clics-doculect-65-1656,wels1247-std,concepticon-706,15.63,tywyll,dark (in color),tywyll
+clics-doculect-65-1657,wels1247-std,concepticon-1335,15.64,gwyn,white,gwyn
+clics-doculect-65-1658,wels1247-std,concepticon-1335,15.64,can,white,can
+clics-doculect-65-1659,wels1247-std,concepticon-163,15.65,du,black,du
+clics-doculect-65-1660,wels1247-std,concepticon-156,15.66,coch,red,coch
+clics-doculect-65-1661,wels1247-std,concepticon-156,15.66,rhudd,red,rhudd
+clics-doculect-65-1662,wels1247-std,concepticon-837,15.67,glas,blue,glas
+clics-doculect-65-1663,wels1247-std,concepticon-1425,15.68,gwyrdd,green,gwyrdd
+clics-doculect-65-1664,wels1247-std,concepticon-1425,15.68,glas,green,glas
+clics-doculect-65-1665,wels1247-std,concepticon-1424,15.69,melyn,yellow,melyn
+clics-doculect-65-1666,wels1247-std,concepticon-1892,15.71,cyffwrdd,touch,cyffwrdd
+clics-doculect-65-1667,wels1247-std,concepticon-378,15.712,pinsio,pinch,pinsio
+clics-doculect-65-1668,wels1247-std,concepticon-378,15.712,gwasgu,pinch,gwasgu
+clics-doculect-65-1669,wels1247-std,concepticon-1079,15.72,teimlo,feel,teimlo
+clics-doculect-65-1670,wels1247-std,concepticon-1079,15.72,synhwyro,feel,synhwyro
+clics-doculect-65-1671,wels1247-std,concepticon-1884,15.74,caled,hard,caled
+clics-doculect-65-1672,wels1247-std,concepticon-1856,15.75,meddal,soft,meddal
+clics-doculect-65-1673,wels1247-std,concepticon-1923,15.76,garw,rough,garw
+clics-doculect-65-1674,wels1247-std,concepticon-1234,15.77,llyfn,smooth,llyfn
+clics-doculect-65-1675,wels1247-std,concepticon-1396,15.78,llym,sharp,llym
+clics-doculect-65-1676,wels1247-std,concepticon-1396,15.78,siarp,sharp,siarp
+clics-doculect-65-1677,wels1247-std,concepticon-379,15.79,pwl,"blunt, dull",pwl
+clics-doculect-65-1678,wels1247-std,concepticon-1210,15.81,trwm,heavy,trwm
+clics-doculect-65-1679,wels1247-std,concepticon-1052,15.82,ysgafn,light (in weight),ysgafn
+clics-doculect-65-1680,wels1247-std,concepticon-1726,15.83,gwlyb,"wet, damp",gwlyb
+clics-doculect-65-1681,wels1247-std,concepticon-1726,15.83,llaith,"wet, damp",llaith
+clics-doculect-65-1682,wels1247-std,concepticon-1726,15.83,tamp,"wet, damp",tamp
+clics-doculect-65-1683,wels1247-std,concepticon-1398,15.84,sych,dry,sych
+clics-doculect-65-1684,wels1247-std,concepticon-1286,15.85,poeth,hot,poeth
+clics-doculect-65-1685,wels1247-std,concepticon-1286,15.85,twym,hot,twym
+clics-doculect-65-1686,wels1247-std,concepticon-1286,15.85,cynnes,hot,cynnes
+clics-doculect-65-1687,wels1247-std,concepticon-1286,15.85,brwd,hot,brwd
+clics-doculect-65-1688,wels1247-std,concepticon-1232,15.851,cynnes,warm,cynnes
+clics-doculect-65-1689,wels1247-std,concepticon-1232,15.851,twym,warm,twym
+clics-doculect-65-1690,wels1247-std,concepticon-1287,15.86,oer,cold,oer
+clics-doculect-65-1691,wels1247-std,concepticon-704,15.87,glân,clean,glan
+clics-doculect-65-1692,wels1247-std,concepticon-1230,15.88,budr,"dirty, soiled",budr
+clics-doculect-65-1693,wels1247-std,concepticon-1230,15.88,brwnt,"dirty, soiled",brwnt
+clics-doculect-65-1694,wels1247-std,concepticon-380,15.89,crych,wrinkled,crych
+clics-doculect-65-1695,wels1247-std,concepticon-380,15.89,crychlyd,wrinkled,crychlyd
+clics-doculect-65-1696,wels1247-std,concepticon-380,15.89,crychog,wrinkled,crychog
+clics-doculect-65-1697,wels1247-std,concepticon-53,16.11,enaid,"soul, spirit",enaid
+clics-doculect-65-1698,wels1247-std,concepticon-53,16.11,ysbryd,"soul, spirit",ysbryd
+clics-doculect-65-1699,wels1247-std,concepticon-1572,16.15,syn,"surprised, astonished",syn
+clics-doculect-65-1700,wels1247-std,concepticon-1572,16.15,wedieisynnu,"surprised, astonished",wedieisynnu
+clics-doculect-65-1701,wels1247-std,concepticon-720,16.18,lwcdda,"good fortune, luck",lwcdda
+clics-doculect-65-1702,wels1247-std,concepticon-720,16.18,ffawddda,"good fortune, luck",ffawddda
+clics-doculect-65-1703,wels1247-std,concepticon-56,16.19,anffawd,"misfortune, bad luck",anffawd
+clics-doculect-65-1704,wels1247-std,concepticon-56,16.19,anlwc,"misfortune, bad luck",anlwc
+clics-doculect-65-1705,wels1247-std,concepticon-1495,16.23,llawen,"joyful, glad, happy",llawen
+clics-doculect-65-1706,wels1247-std,concepticon-1495,16.23,llon,"joyful, glad, happy",llon
+clics-doculect-65-1707,wels1247-std,concepticon-1495,16.23,llawenydd,"joyful, glad, happy",llawenydd
+clics-doculect-65-1708,wels1247-std,concepticon-1495,16.23,dywenydd,"joyful, glad, happy",dywenydd
+clics-doculect-65-1709,wels1247-std,concepticon-1355,16.25,chwerthin,laugh,chwerthin
+clics-doculect-65-1710,wels1247-std,concepticon-1451,16.251,gwenu,smile,gwenu
+clics-doculect-65-1711,wels1247-std,concepticon-1413,16.26,chwarae,play,chwarae
+clics-doculect-65-1712,wels1247-std,concepticon-923,16.27,cariad,love,cariad
+clics-doculect-65-1713,wels1247-std,concepticon-923,16.27,serch,love,serch
+clics-doculect-65-1714,wels1247-std,concepticon-923,16.27,caru,love,caru
+clics-doculect-65-1715,wels1247-std,concepticon-578,16.29,cusanu,kiss,cusanu
+clics-doculect-65-1716,wels1247-std,concepticon-928,16.3,cofleidio,embrace,cofleidio
+clics-doculect-65-1717,wels1247-std,concepticon-1783,16.31,poen,pain,poen
+clics-doculect-65-1718,wels1247-std,concepticon-1668,16.32,gofid,"grief, sorrow, sadness",gofid
+clics-doculect-65-1719,wels1247-std,concepticon-1668,16.32,galar,"grief, sorrow, sadness",galar
+clics-doculect-65-1720,wels1247-std,concepticon-1668,16.32,tristwch,"grief, sorrow, sadness",tristwch
+clics-doculect-65-1721,wels1247-std,concepticon-1000,16.33,pryder,"anxiety, worry",pryder
+clics-doculect-65-1722,wels1247-std,concepticon-1875,16.34,edifarhau,"regret, be sorry",edifarhau
+clics-doculect-65-1723,wels1247-std,concepticon-1875,16.34,gresynu,"regret, be sorry",gresynu
+clics-doculect-65-1724,wels1247-std,concepticon-1141,16.35,tosturi,pity,tosturi
+clics-doculect-65-1725,wels1247-std,concepticon-1141,16.35,trugaredd,pity,trugaredd
+clics-doculect-65-1726,wels1247-std,concepticon-1839,16.37,wylo,"cry, weep",wylo
+clics-doculect-65-1727,wels1247-std,concepticon-1839,16.37,crio,"cry, weep",crio
+clics-doculect-65-1728,wels1247-std,concepticon-1651,16.38,deigryn,tear (noun),deigryn
+clics-doculect-65-1729,wels1247-std,concepticon-716,16.39,griddfan,groan,griddfan
+clics-doculect-65-1730,wels1247-std,concepticon-716,16.39,ochain,groan,ochain
+clics-doculect-65-1731,wels1247-std,concepticon-716,16.39,ocheneidio,groan,ocheneidio
+clics-doculect-65-1732,wels1247-std,concepticon-1607,16.41,cas,hate,cas
+clics-doculect-65-1733,wels1247-std,concepticon-1607,16.41,casineb,hate,casineb
+clics-doculect-65-1734,wels1247-std,concepticon-82,16.42,dicter,anger,dicter
+clics-doculect-65-1735,wels1247-std,concepticon-82,16.42,llid,anger,llid
+clics-doculect-65-1736,wels1247-std,concepticon-40,16.44,cenfigen,"envy, jealousy",cenfigen
+clics-doculect-65-1737,wels1247-std,concepticon-40,16.44,eiddigedd,"envy, jealousy",eiddigedd
+clics-doculect-65-1738,wels1247-std,concepticon-1776,16.45,cywilydd,shame (noun),cywilydd
+clics-doculect-65-1739,wels1247-std,concepticon-1776,16.45,gwaradwydd,shame (noun),gwaradwydd
+clics-doculect-65-1740,wels1247-std,concepticon-1776,16.45,gwarth,shame (noun),gwarth
+clics-doculect-65-1741,wels1247-std,concepticon-174,16.48,balch,proud,balch
+clics-doculect-65-1742,wels1247-std,concepticon-1779,16.51,beiddio,dare,beiddio
+clics-doculect-65-1743,wels1247-std,concepticon-1779,16.51,meiddio,dare,meiddio
+clics-doculect-65-1744,wels1247-std,concepticon-3,16.52,dewr,brave,dewr
+clics-doculect-65-1745,wels1247-std,concepticon-3,16.52,gwrol,brave,gwrol
+clics-doculect-65-1746,wels1247-std,concepticon-781,16.53,ofn,"fear, fright",ofn
+clics-doculect-65-1747,wels1247-std,concepticon-781,16.53,dychryn,"fear, fright",dychryn
+clics-doculect-65-1748,wels1247-std,concepticon-1810,16.54,perygl,danger,perygl
+clics-doculect-65-1749,wels1247-std,concepticon-1810,16.54,enbydrwydd,danger,enbydrwydd
+clics-doculect-65-1750,wels1247-std,concepticon-1784,16.62,dymuno,"desire, want",dymuno
+clics-doculect-65-1751,wels1247-std,concepticon-1750,16.622,dewis,choose,dewis
+clics-doculect-65-1752,wels1247-std,concepticon-1092,16.63,gobaith,hope,gobaith
+clics-doculect-65-1753,wels1247-std,concepticon-100,16.65,ffyddlon,faithful,ffyddlon
+clics-doculect-65-1754,wels1247-std,concepticon-1657,16.66,gwir,true,gwir
+clics-doculect-65-1755,wels1247-std,concepticon-1657,16.66,cywir,true,cywir
+clics-doculect-65-1756,wels1247-std,concepticon-601,16.67,dweudcelwydd,"lie, tell lies",dweudcelwydd
+clics-doculect-65-1757,wels1247-std,concepticon-13,16.68,twyll,deceit,twyll
+clics-doculect-65-1758,wels1247-std,concepticon-1528,16.69,maddau,forgive,maddau
+clics-doculect-65-1759,wels1247-std,concepticon-1035,16.71,da,good,da
+clics-doculect-65-1760,wels1247-std,concepticon-1035,16.71,mad,good,mad
+clics-doculect-65-1761,wels1247-std,concepticon-1292,16.72,drwg,bad,drwg
+clics-doculect-65-1762,wels1247-std,concepticon-1725,16.73,iawn,"right, correct",iawn
+clics-doculect-65-1763,wels1247-std,concepticon-1725,16.73,cyfiawn,"right, correct",cyfiawn
+clics-doculect-65-1764,wels1247-std,concepticon-1725,16.73,cywir,"right, correct",cywir
+clics-doculect-65-1765,wels1247-std,concepticon-1390,16.74,anghywir,wrong,anghywir
+clics-doculect-65-1766,wels1247-std,concepticon-134,16.76,bai,fault,bai
+clics-doculect-65-1767,wels1247-std,concepticon-1293,16.77,camgymeriad,"mistake, error",camgymeriad
+clics-doculect-65-1768,wels1247-std,concepticon-1293,16.77,gwall,"mistake, error",gwall
+clics-doculect-65-1769,wels1247-std,concepticon-381,16.78,bai,blame,bai
+clics-doculect-65-1770,wels1247-std,concepticon-1687,16.79,moliant,praise,moliant
+clics-doculect-65-1771,wels1247-std,concepticon-1687,16.79,mawl,praise,mawl
+clics-doculect-65-1772,wels1247-std,concepticon-1427,16.81,hardd,beautiful,hardd
+clics-doculect-65-1773,wels1247-std,concepticon-1427,16.81,del,beautiful,del
+clics-doculect-65-1774,wels1247-std,concepticon-1427,16.81,glân,beautiful,glan
+clics-doculect-65-1775,wels1247-std,concepticon-1427,16.81,teg,beautiful,teg
+clics-doculect-65-1776,wels1247-std,concepticon-1427,16.81,tlws,beautiful,tlws
+clics-doculect-65-1777,wels1247-std,concepticon-1548,16.82,hyll,ugly,hyll
+clics-doculect-65-1778,wels1247-std,concepticon-1548,16.82,hagr,ugly,hagr
+clics-doculect-65-1779,wels1247-std,concepticon-2018,16.83,barus,greedy,barus
+clics-doculect-65-1780,wels1247-std,concepticon-2018,16.83,gwancus,greedy,gwancus
+clics-doculect-65-1781,wels1247-std,concepticon-1310,16.84,call,clever,call
+clics-doculect-65-1782,wels1247-std,concepticon-1310,16.84,clyfar,clever,clyfar
+clics-doculect-65-1783,wels1247-std,concepticon-1310,16.84,deallus,clever,deallus
+clics-doculect-65-1784,wels1247-std,concepticon-1562,17.11,meddwl,mind,meddwl
+clics-doculect-65-1785,wels1247-std,concepticon-1415,17.13,meddwl,think (= reflect),meddwl
+clics-doculect-65-1786,wels1247-std,concepticon-1513,17.14,tybio,think (= be of the opinion),tybio
+clics-doculect-65-1787,wels1247-std,concepticon-1513,17.14,credu,think (= be of the opinion),credu
+clics-doculect-65-1788,wels1247-std,concepticon-1890,17.15,credu,believe,credu
+clics-doculect-65-1789,wels1247-std,concepticon-1536,17.16,deall,understand,deall
+clics-doculect-65-1790,wels1247-std,concepticon-1410,17.17,gwybod,know,gwybod
+clics-doculect-65-1791,wels1247-std,concepticon-1410,17.17,adnabod,know,adnabod
+clics-doculect-65-1792,wels1247-std,concepticon-1932,17.171,dyfalu,guess,dyfalu
+clics-doculect-65-1793,wels1247-std,concepticon-117,17.172,dynwared,imitate,dynwared
+clics-doculect-65-1794,wels1247-std,concepticon-1521,17.18,ymddangos,seem,ymddangos
+clics-doculect-65-1795,wels1247-std,concepticon-1609,17.19,syniad,"idea, notion",syniad
+clics-doculect-65-1796,wels1247-std,concepticon-698,17.21,doeth,wise,doeth
+clics-doculect-65-1797,wels1247-std,concepticon-698,17.21,call,wise,call
+clics-doculect-65-1798,wels1247-std,concepticon-1518,17.22,ffôl,"foolish, stupid",ffol
+clics-doculect-65-1799,wels1247-std,concepticon-1518,17.22,ynfyd,"foolish, stupid",ynfyd
+clics-doculect-65-1800,wels1247-std,concepticon-1518,17.22,hurt,"foolish, stupid",hurt
+clics-doculect-65-1801,wels1247-std,concepticon-1899,17.23,gwallgof,"insane, crazy",gwallgof
+clics-doculect-65-1802,wels1247-std,concepticon-1899,17.23,gorffwyll,"insane, crazy",gorffwyll
+clics-doculect-65-1803,wels1247-std,concepticon-504,17.24,dysgu,learn,dysgu
+clics-doculect-65-1804,wels1247-std,concepticon-1929,17.242,astudio,study,astudio
+clics-doculect-65-1805,wels1247-std,concepticon-709,17.25,dysgu,teach,dysgu
+clics-doculect-65-1806,wels1247-std,concepticon-753,17.26,disgybl,pupil,disgybl
+clics-doculect-65-1807,wels1247-std,concepticon-1038,17.27,athro,teacher,athro
+clics-doculect-65-1808,wels1247-std,concepticon-673,17.28,ysgol,school,ysgol
+clics-doculect-65-1809,wels1247-std,concepticon-707,17.31,cofio,remember,cofio
+clics-doculect-65-1810,wels1247-std,concepticon-1523,17.32,anghofio,forget,anghofio
+clics-doculect-65-1811,wels1247-std,concepticon-1523,17.32,ebargofi,forget,ebargofi
+clics-doculect-65-1812,wels1247-std,concepticon-989,17.34,clir,"clear, plain",clir
+clics-doculect-65-1813,wels1247-std,concepticon-989,17.34,golau,"clear, plain",golau
+clics-doculect-65-1814,wels1247-std,concepticon-989,17.34,eglur,"clear, plain",eglur
+clics-doculect-65-1815,wels1247-std,concepticon-1764,17.35,aneglur,obscure,aneglur
+clics-doculect-65-1816,wels1247-std,concepticon-1121,17.36,dirgel,secret,dirgel
+clics-doculect-65-1817,wels1247-std,concepticon-1121,17.36,cyfrinachol,secret,cyfrinachol
+clics-doculect-65-1818,wels1247-std,concepticon-509,17.37,siŵr,"sure, certain",siwr
+clics-doculect-65-1819,wels1247-std,concepticon-509,17.37,sicr,"sure, certain",sicr
+clics-doculect-65-1820,wels1247-std,concepticon-1626,17.38,esbonio,explain,esbonio
+clics-doculect-65-1821,wels1247-std,concepticon-1626,17.38,egluro,explain,egluro
+clics-doculect-65-1822,wels1247-std,concepticon-1162,17.41,bwriad,"intention, purpose",bwriad
+clics-doculect-65-1823,wels1247-std,concepticon-1162,17.41,amcan,"intention, purpose",amcan
+clics-doculect-65-1824,wels1247-std,concepticon-1162,17.41,pwrpas,"intention, purpose",pwrpas
+clics-doculect-65-1825,wels1247-std,concepticon-860,17.42,achosi,cause,achosi
+clics-doculect-65-1826,wels1247-std,concepticon-1308,17.43,amau,doubt,amau
+clics-doculect-65-1827,wels1247-std,concepticon-1841,17.44,drwgdybio,suspect,drwgdybio
+clics-doculect-65-1828,wels1247-std,concepticon-1902,17.441,bradychu,betray,bradychu
+clics-doculect-65-1829,wels1247-std,concepticon-643,17.45,angen,"need, necessity",angen
+clics-doculect-65-1830,wels1247-std,concepticon-643,17.45,rhaid,"need, necessity",rhaid
+clics-doculect-65-1831,wels1247-std,concepticon-686,17.46,hawdd,easy,hawdd
+clics-doculect-65-1832,wels1247-std,concepticon-584,17.47,anodd,difficult,anodd
+clics-doculect-65-1833,wels1247-std,concepticon-1812,17.48,ceisio,"try, attempt",ceisio
+clics-doculect-65-1834,wels1247-std,concepticon-488,17.49,modd,"way, manner",modd
+clics-doculect-65-1835,wels1247-std,concepticon-488,17.49,ffordd,"way, manner",ffordd
+clics-doculect-65-1836,wels1247-std,concepticon-1577,17.51,a,and,a
+clics-doculect-65-1837,wels1247-std,concepticon-1157,17.52,oherwydd,because,oherwydd
+clics-doculect-65-1838,wels1247-std,concepticon-1157,17.52,oblegid,because,oblegid
+clics-doculect-65-1839,wels1247-std,concepticon-1157,17.52,achos,because,achos
+clics-doculect-65-1840,wels1247-std,concepticon-1459,17.53,os,if,os
+clics-doculect-65-1841,wels1247-std,concepticon-1459,17.53,a,if,a
+clics-doculect-65-1842,wels1247-std,concepticon-1014,17.54,neu,or,neu
+clics-doculect-65-1843,wels1247-std,concepticon-1014,17.54,ynteu,or,ynteu
+clics-doculect-65-1844,wels1247-std,concepticon-1268,17.55,ie,"yes, affirmative",ie
+clics-doculect-65-1845,wels1247-std,concepticon-1268,17.55,do,"yes, affirmative",do
+clics-doculect-65-1846,wels1247-std,concepticon-1269,17.56,na,"no, negative",na
+clics-doculect-65-1847,wels1247-std,concepticon-1269,17.56,negyddol,"no, negative",negyddol
+clics-doculect-65-1848,wels1247-std,concepticon-1239,17.61,sut?,how?,sut?
+clics-doculect-65-1849,wels1247-std,concepticon-822,17.62,sawl?,how many?,sawl?
+clics-doculect-65-1850,wels1247-std,concepticon-531,17.63,faint?,how much?,faint?
+clics-doculect-65-1851,wels1247-std,concepticon-1236,17.64,beth?,what?,beth?
+clics-doculect-65-1852,wels1247-std,concepticon-1238,17.65,pabryd?,when?,pabryd?
+clics-doculect-65-1853,wels1247-std,concepticon-1238,17.65,pryd?,when?,pryd?
+clics-doculect-65-1854,wels1247-std,concepticon-1237,17.66,ble?,where?,ble?
+clics-doculect-65-1855,wels1247-std,concepticon-727,17.67,paun?,which?,paun?
+clics-doculect-65-1856,wels1247-std,concepticon-727,17.67,p'un?,which?,p'un?
+clics-doculect-65-1857,wels1247-std,concepticon-1235,17.68,pwy?,who?,pwy?
+clics-doculect-65-1858,wels1247-std,concepticon-1270,17.69,pam?,why?,pam?
+clics-doculect-65-1859,wels1247-std,concepticon-1363,18.11,llais,voice,llais
+clics-doculect-65-1860,wels1247-std,concepticon-1261,18.12,canu,sing,canu
+clics-doculect-65-1861,wels1247-std,concepticon-715,18.13,bloeddio,"shout, cry out",bloeddio
+clics-doculect-65-1862,wels1247-std,concepticon-715,18.13,gweiddi,"shout, cry out",gweiddi
+clics-doculect-65-1863,wels1247-std,concepticon-55,18.15,sibrwd,whisper,sibrwd
+clics-doculect-65-1864,wels1247-std,concepticon-55,18.15,siffrwd,whisper,siffrwd
+clics-doculect-65-1865,wels1247-std,concepticon-128,18.16,myngial,mumble,myngial
+clics-doculect-65-1866,wels1247-std,concepticon-128,18.16,mwmial,mumble,mwmial
+clics-doculect-65-1867,wels1247-std,concepticon-128,18.16,mwmian,mumble,mwmian
+clics-doculect-65-1868,wels1247-std,concepticon-1025,18.17,chwibanu,whistle,chwibanu
+clics-doculect-65-1869,wels1247-std,concepticon-298,18.18,sgrechian,"shriek, screech",sgrechian
+clics-doculect-65-1870,wels1247-std,concepticon-526,18.19,udo,howl,udo
+clics-doculect-65-1871,wels1247-std,concepticon-526,18.19,ubain,howl,ubain
+clics-doculect-65-1872,wels1247-std,concepticon-1623,18.21,siarad,"speak, talk",siarad
+clics-doculect-65-1873,wels1247-std,concepticon-1623,18.21,llefaru,"speak, talk",llefaru
+clics-doculect-65-1874,wels1247-std,concepticon-1866,18.211,siaradagatal,"stutter, stammer",siaradagatal
+clics-doculect-65-1875,wels1247-std,concepticon-1866,18.211,cecian,"stutter, stammer",cecian
+clics-doculect-65-1876,wels1247-std,concepticon-1458,18.22,dweud,say,dweud
+clics-doculect-65-1877,wels1247-std,concepticon-1458,18.22,dywedyd,say,dywedyd
+clics-doculect-65-1878,wels1247-std,concepticon-1711,18.221,adroddstori,tell story,adroddstori
+clics-doculect-65-1879,wels1247-std,concepticon-1115,18.222,araith,speech (make a),araith
+clics-doculect-65-1880,wels1247-std,concepticon-1115,18.222,areithio,speech (make a),areithio
+clics-doculect-65-1881,wels1247-std,concepticon-48,18.23,tewi,silent (be),tewi
+clics-doculect-65-1882,wels1247-std,concepticon-48,18.23,bodynddistaw,silent (be),bodynddistaw
+clics-doculect-65-1883,wels1247-std,concepticon-1307,18.24,iaith,language,iaith
+clics-doculect-65-1884,wels1247-std,concepticon-1599,18.26,gair,word,gair
+clics-doculect-65-1885,wels1247-std,concepticon-1405,18.28,enw,name,enw
+clics-doculect-65-1886,wels1247-std,concepticon-1309,18.31,gofyn,"ask (question, inquire)",gofyn
+clics-doculect-65-1887,wels1247-std,concepticon-1309,18.31,holi,"ask (question, inquire)",holi
+clics-doculect-65-1888,wels1247-std,concepticon-1275,18.32,ateb,answer,ateb
+clics-doculect-65-1889,wels1247-std,concepticon-2022,18.33,cyfaddef,"admit, confess",cyfaddef
+clics-doculect-65-1890,wels1247-std,concepticon-2022,18.33,cyffesu,"admit, confess",cyffesu
+clics-doculect-65-1891,wels1247-std,concepticon-755,18.34,gwadu,deny,gwadu
+clics-doculect-65-1892,wels1247-std,concepticon-1828,18.35,gofyn,"ask, request",gofyn
+clics-doculect-65-1893,wels1247-std,concepticon-1675,18.36,addo,promise,addo
+clics-doculect-65-1894,wels1247-std,concepticon-49,18.37,gwrthod,refuse,gwrthod
+clics-doculect-65-1895,wels1247-std,concepticon-49,18.37,gwarafun,refuse,gwarafun
+clics-doculect-65-1896,wels1247-std,concepticon-49,18.37,nadu,refuse,nadu
+clics-doculect-65-1897,wels1247-std,concepticon-49,18.37,nacáu,refuse,nacau
+clics-doculect-65-1898,wels1247-std,concepticon-49,18.37,gomedd,refuse,gomedd
+clics-doculect-65-1899,wels1247-std,concepticon-83,18.38,gwahardd,forbid,gwahardd
+clics-doculect-65-1900,wels1247-std,concepticon-299,18.39,ceryddu,"rebuke, scold",ceryddu
+clics-doculect-65-1901,wels1247-std,concepticon-299,18.39,cystwyo,"rebuke, scold",cystwyo
+clics-doculect-65-1902,wels1247-std,concepticon-1084,18.41,galw,call (=summon),galw
+clics-doculect-65-1903,wels1247-std,concepticon-180,18.42,galw,call (=name),galw
+clics-doculect-65-1904,wels1247-std,concepticon-9,18.43,cyhoeddi,announce,cyhoeddi
+clics-doculect-65-1905,wels1247-std,concepticon-9,18.43,datgan,announce,datgan
+clics-doculect-65-1906,wels1247-std,concepticon-1192,18.44,bygwth,threaten,bygwth
+clics-doculect-65-1907,wels1247-std,concepticon-101,18.45,ymffrostio,boast,ymffrostio
+clics-doculect-65-1908,wels1247-std,concepticon-101,18.45,brolio,boast,brolio
+clics-doculect-65-1909,wels1247-std,concepticon-1672,18.51,ysgrifennu,write,ysgrifennu
+clics-doculect-65-1910,wels1247-std,concepticon-724,18.52,darllen,read,darllen
+clics-doculect-65-1911,wels1247-std,concepticon-648,18.56,papur,paper,papur
+clics-doculect-65-1912,wels1247-std,concepticon-794,18.57,pin,pen,pin
+clics-doculect-65-1913,wels1247-std,concepticon-963,18.61,llyfr,book,llyfr
+clics-doculect-65-1916,wels1247-std,concepticon-777,18.71,ffliwt,flute,ffliwt
+clics-doculect-65-1917,wels1247-std,concepticon-777,18.71,chwibanogl,flute,chwibanogl
+clics-doculect-65-1918,wels1247-std,concepticon-908,18.72,drwm,drum,drwm
+clics-doculect-65-1919,wels1247-std,concepticon-908,18.72,tabwrdd,drum,tabwrdd
+clics-doculect-65-1920,wels1247-std,concepticon-2136,18.73,corn,"horn, trumpet",corn
+clics-doculect-65-1921,wels1247-std,concepticon-2136,18.73,utgorn,"horn, trumpet",utgorn
+clics-doculect-65-1922,wels1247-std,concepticon-300,18.74,ratl,rattle,ratl
+clics-doculect-65-1923,wels1247-std,concepticon-300,18.74,cleciwr,rattle,cleciwr
+clics-doculect-65-1924,wels1247-std,concepticon-1300,19.11,gwlad,country,gwlad
+clics-doculect-65-1925,wels1247-std,concepticon-89,19.12,gwlad,one's native country,gwlad
+clics-doculect-65-1926,wels1247-std,concepticon-1391,19.15,dinas,"city, town",dinas
+clics-doculect-65-1927,wels1247-std,concepticon-1391,19.15,tref,"city, town",tref
+clics-doculect-65-1928,wels1247-std,concepticon-930,19.16,pentref,village,pentref
+clics-doculect-65-1929,wels1247-std,concepticon-1010,19.17,terfyn,boundary,terfyn
+clics-doculect-65-1930,wels1247-std,concepticon-1010,19.17,ffin,boundary,ffin
+clics-doculect-65-1931,wels1247-std,concepticon-789,19.21,pobl,people (populace),pobl
+clics-doculect-65-1932,wels1247-std,concepticon-789,19.21,gwerin,people (populace),gwerin
+clics-doculect-65-1933,wels1247-std,concepticon-302,19.23,llwyth,"tribe, clan",llwyth
+clics-doculect-65-1934,wels1247-std,concepticon-302,19.23,tylwyth,"tribe, clan",tylwyth
+clics-doculect-65-1935,wels1247-std,concepticon-302,19.23,clan,"tribe, clan",clan
+clics-doculect-65-1936,wels1247-std,concepticon-301,19.24,pennaeth,"chief, chieftain",pennaeth
+clics-doculect-65-1937,wels1247-std,concepticon-1296,19.25,ffon,"staff, walking stick",ffon
+clics-doculect-65-1938,wels1247-std,concepticon-1846,19.31,rheoli,"rule, govern",rheoli
+clics-doculect-65-1939,wels1247-std,concepticon-1846,19.31,llywodraethu,"rule, govern",llywodraethu
+clics-doculect-65-1940,wels1247-std,concepticon-1508,19.32,brenin,"king, ruler",brenin
+clics-doculect-65-1941,wels1247-std,concepticon-1508,19.32,rheolwr,"king, ruler",rheolwr
+clics-doculect-65-1942,wels1247-std,concepticon-1508,19.32,llywodraethwr,"king, ruler",llywodraethwr
+clics-doculect-65-1943,wels1247-std,concepticon-1306,19.33,brenhines,queen,brenhines
+clics-doculect-65-1944,wels1247-std,concepticon-482,19.36,pendefig,"noble, nobleman",pendefig
+clics-doculect-65-1945,wels1247-std,concepticon-482,19.36,uchelwr,"noble, nobleman",uchelwr
+clics-doculect-65-1946,wels1247-std,concepticon-1032,19.37,dinesydd,"citizen, subject",dinesydd
+clics-doculect-65-1947,wels1247-std,concepticon-1032,19.37,deiliad,"citizen, subject",deiliad
+clics-doculect-65-1948,wels1247-std,concepticon-383,19.41,meistr,master,meistr
+clics-doculect-65-1949,wels1247-std,concepticon-383,19.41,arglwydd,master,arglwydd
+clics-doculect-65-1950,wels1247-std,concepticon-812,19.42,caethwas,slave,caethwas
+clics-doculect-65-1951,wels1247-std,concepticon-255,19.43,gwas,servant,gwas
+clics-doculect-65-1952,wels1247-std,concepticon-255,19.43,gweinidog,servant,gweinidog
+clics-doculect-65-1953,wels1247-std,concepticon-384,19.44,rhydd,freeman,rhydd
+clics-doculect-65-1954,wels1247-std,concepticon-1128,19.45,gorchymyn,"command, order",gorchymyn
+clics-doculect-65-1955,wels1247-std,concepticon-1128,19.45,ordro,"command, order",ordro
+clics-doculect-65-1956,wels1247-std,concepticon-1635,19.46,ufuddhau,obey,ufuddhau
+clics-doculect-65-1957,wels1247-std,concepticon-1003,19.47,gadael,"let, permit",gadael
+clics-doculect-65-1958,wels1247-std,concepticon-1003,19.47,caniatáu,"let, permit",caniatau
+clics-doculect-65-1959,wels1247-std,concepticon-1325,19.51,cyfaill,"friend, companion",cyfaill
+clics-doculect-65-1960,wels1247-std,concepticon-1325,19.51,ffrind,"friend, companion",ffrind
+clics-doculect-65-1961,wels1247-std,concepticon-1325,19.51,cydymaith,"friend, companion",cydymaith
+clics-doculect-65-1962,wels1247-std,concepticon-1358,19.52,gelyn,enemy,gelyn
+clics-doculect-65-1963,wels1247-std,concepticon-1332,19.54,cymydog,neighbor,cymydog
+clics-doculect-65-1964,wels1247-std,concepticon-791,19.55,dieithryn,stranger,dieithryn
+clics-doculect-65-1965,wels1247-std,concepticon-791,19.55,dyndieithr,stranger,dyndieithr
+clics-doculect-65-1966,wels1247-std,concepticon-791,19.55,merch,stranger,merch
+clics-doculect-65-1967,wels1247-std,concepticon-791,19.55,menyw,stranger,menyw
+clics-doculect-65-1968,wels1247-std,concepticon-791,19.55,dynesddieithr,stranger,dynesddieithr
+clics-doculect-65-1969,wels1247-std,concepticon-1782,19.56,gwestai,guest,gwestai
+clics-doculect-65-1970,wels1247-std,concepticon-1545,19.57,lletywr,host,lletywr
+clics-doculect-65-1971,wels1247-std,concepticon-1545,19.57,gwesteiwr,host,gwesteiwr
+clics-doculect-65-1972,wels1247-std,concepticon-1897,19.58,cynorthwyo,"help, aid",cynorthwyo
+clics-doculect-65-1973,wels1247-std,concepticon-1897,19.58,helpu,"help, aid",helpu
+clics-doculect-65-1974,wels1247-std,concepticon-1550,19.59,rhwystro,"hinder, prevent",rhwystro
+clics-doculect-65-1975,wels1247-std,concepticon-1550,19.59,atal,"hinder, prevent",atal
+clics-doculect-65-1976,wels1247-std,concepticon-1747,19.61,defod,custom,defod
+clics-doculect-65-1977,wels1247-std,concepticon-1747,19.61,arfer,custom,arfer
+clics-doculect-65-1978,wels1247-std,concepticon-1848,19.62,cynnen,"strife, quarrel",cynnen
+clics-doculect-65-1979,wels1247-std,concepticon-1848,19.62,ymryson,"strife, quarrel",ymryson
+clics-doculect-65-1980,wels1247-std,concepticon-1848,19.62,ymrafael,"strife, quarrel",ymrafael
+clics-doculect-65-1981,wels1247-std,concepticon-1848,19.62,ffrae,"strife, quarrel",ffrae
+clics-doculect-65-1982,wels1247-std,concepticon-1848,19.62,cweryl,"strife, quarrel",cweryl
+clics-doculect-65-1983,wels1247-std,concepticon-2024,19.63,cynllwyn,"conspiracy, plot",cynllwyn
+clics-doculect-65-1984,wels1247-std,concepticon-1831,19.65,cyfarfod,meet,cyfarfod
+clics-doculect-65-1985,wels1247-std,concepticon-1610,19.72,putain,prostitute,putain
+clics-doculect-65-1986,wels1247-std,concepticon-1423,20.11,ymladd,fight (vb),ymladd
+clics-doculect-65-1987,wels1247-std,concepticon-579,20.13,rhyfel,"war, battle",rhyfel
+clics-doculect-65-1988,wels1247-std,concepticon-579,20.13,brwydr,"war, battle",brwydr
+clics-doculect-65-1989,wels1247-std,concepticon-579,20.13,cad,"war, battle",cad
+clics-doculect-65-1990,wels1247-std,concepticon-1338,20.14,heddwch,peace,heddwch
+clics-doculect-65-1991,wels1247-std,concepticon-1561,20.15,byddin,army,byddin
+clics-doculect-65-1992,wels1247-std,concepticon-1561,20.15,llu,army,llu
+clics-doculect-65-1993,wels1247-std,concepticon-1941,20.17,milwr,soldier,milwr
+clics-doculect-65-1994,wels1247-std,concepticon-951,20.21,arfau,"weapons, arms",arfau
+clics-doculect-65-1995,wels1247-std,concepticon-1763,20.22,pastwn,club,pastwn
+clics-doculect-65-1996,wels1247-std,concepticon-386,20.222,bwyellryfel,battle-ax,bwyellryfel
+clics-doculect-65-1997,wels1247-std,concepticon-387,20.23,ffondafl,sling,ffondafl
+clics-doculect-65-1998,wels1247-std,concepticon-994,20.24,bwa,bow,bwa
+clics-doculect-65-1999,wels1247-std,concepticon-977,20.25,saeth,arrow,saeth
+clics-doculect-65-2000,wels1247-std,concepticon-945,20.26,gwaywffon,spear,gwaywffon
+clics-doculect-65-2001,wels1247-std,concepticon-945,20.26,gwayw,spear,gwayw
+clics-doculect-65-2002,wels1247-std,concepticon-1535,20.27,cleddyf,sword,cleddyf
+clics-doculect-65-2003,wels1247-std,concepticon-1566,20.28,gwn,"gun, cannon",gwn
+clics-doculect-65-2004,wels1247-std,concepticon-1566,20.28,gwnmawr,"gun, cannon",gwnmawr
+clics-doculect-65-2005,wels1247-std,concepticon-1061,20.31,arfwisg,armor (defensive),arfwisg
+clics-doculect-65-2006,wels1247-std,concepticon-1061,20.31,arfogaeth,armor (defensive),arfogaeth
+clics-doculect-65-2007,wels1247-std,concepticon-1680,20.33,helm,helmet,helm
+clics-doculect-65-2008,wels1247-std,concepticon-1064,20.34,tarian,shield,tarian
+clics-doculect-65-2009,wels1247-std,concepticon-1938,20.35,caer,fortress,caer
+clics-doculect-65-2010,wels1247-std,concepticon-1938,20.35,castell,fortress,castell
+clics-doculect-65-2011,wels1247-std,concepticon-1671,20.36,tŵr,tower,twr
+clics-doculect-65-2012,wels1247-std,concepticon-783,20.41,buddugoliaeth,victory,buddugoliaeth
+clics-doculect-65-2013,wels1247-std,concepticon-782,20.42,gorchfygiad,defeat,gorchfygiad
+clics-doculect-65-2014,wels1247-std,concepticon-782,20.42,trechiad,defeat,trechiad
+clics-doculect-65-2015,wels1247-std,concepticon-722,20.43,ymosod,attack,ymosod
+clics-doculect-65-2016,wels1247-std,concepticon-1330,20.44,amddiffyn,defend,amddiffyn
+clics-doculect-65-2017,wels1247-std,concepticon-421,20.45,cilio,retreat,cilio
+clics-doculect-65-2018,wels1247-std,concepticon-421,20.45,encilio,retreat,encilio
+clics-doculect-65-2019,wels1247-std,concepticon-1696,20.46,ildio,surrender,ildio
+clics-doculect-65-2020,wels1247-std,concepticon-1696,20.46,rhoddiifyny,surrender,rhoddiifyny
+clics-doculect-65-2021,wels1247-std,concepticon-1696,20.46,rhoi'rgorau,surrender,rhoi'rgorau
+clics-doculect-65-2022,wels1247-std,concepticon-1072,20.47,carcharor,"captive, prisoner",carcharor
+clics-doculect-65-2023,wels1247-std,concepticon-1940,20.471,gwarchodwr,"guard, sentinel",gwarchodwr
+clics-doculect-65-2024,wels1247-std,concepticon-1940,20.471,gwyliwr,"guard, sentinel",gwyliwr
+clics-doculect-65-2025,wels1247-std,concepticon-1022,20.48,ysglyfaeth,"booty, spoils",ysglyfaeth
+clics-doculect-65-2026,wels1247-std,concepticon-1022,20.48,ysbail,"booty, spoils",ysbail
+clics-doculect-65-2027,wels1247-std,concepticon-65,20.49,cynllwyn,ambush,cynllwyn
+clics-doculect-65-2028,wels1247-std,concepticon-1858,20.51,pysgotwr,fisherman,pysgotwr
+clics-doculect-65-2029,wels1247-std,concepticon-1074,20.52,bachpysgota,fishhook,bachpysgota
+clics-doculect-65-2030,wels1247-std,concepticon-19,20.53,leinbysgota,fishing line,leinbysgota
+clics-doculect-65-2031,wels1247-std,concepticon-19,20.53,llinynpysgota,fishing line,llinynpysgota
+clics-doculect-65-2032,wels1247-std,concepticon-388,20.54,rhwydbysgota,fishnet,rhwydbysgota
+clics-doculect-65-2033,wels1247-std,concepticon-389,20.55,maglbysgod,fish trap,maglbysgod
+clics-doculect-65-2034,wels1247-std,concepticon-2013,20.56,abwyd,bait,abwyd
+clics-doculect-65-2035,wels1247-std,concepticon-1435,20.61,hela,hunt,hela
+clics-doculect-65-2036,wels1247-std,concepticon-1172,20.62,saethu,shoot,saethu
+clics-doculect-65-2037,wels1247-std,concepticon-161,20.63,methu,miss (target),methu
+clics-doculect-65-2038,wels1247-std,concepticon-1075,20.64,magl,trap (noun),magl
+clics-doculect-65-2039,wels1247-std,concepticon-1075,20.64,trap,trap (noun),trap
+clics-doculect-65-2040,wels1247-std,concepticon-1170,20.65,maglu,trap (vb),maglu
+clics-doculect-65-2041,wels1247-std,concepticon-1170,20.65,dal,trap (vb),dal
+clics-doculect-65-2042,wels1247-std,concepticon-1170,20.65,trapio,trap (vb),trapio
+clics-doculect-65-2043,wels1247-std,concepticon-1062,21.11,cyfraith,law,cyfraith
+clics-doculect-65-2044,wels1247-std,concepticon-1062,21.11,deddf,law,deddf
+clics-doculect-65-2045,wels1247-std,concepticon-1068,21.15,llys,court,llys
+clics-doculect-65-2046,wels1247-std,concepticon-1818,21.16,barnu,judge (vb),barnu
+clics-doculect-65-2047,wels1247-std,concepticon-1067,21.17,barn,judgment,barn
+clics-doculect-65-2048,wels1247-std,concepticon-1067,21.17,brawd,judgment,brawd
+clics-doculect-65-2049,wels1247-std,concepticon-861,21.18,barnwr,judge (noun),barnwr
+clics-doculect-65-2050,wels1247-std,concepticon-861,21.18,brawdwr,judge (noun),brawdwr
+clics-doculect-65-2051,wels1247-std,concepticon-2020,21.21,achwynydd,plaintiff,achwynydd
+clics-doculect-65-2052,wels1247-std,concepticon-1034,21.22,diffynnydd,defendant,diffynnydd
+clics-doculect-65-2053,wels1247-std,concepticon-1144,21.23,tyst,witness,tyst
+clics-doculect-65-2054,wels1247-std,concepticon-1939,21.24,tyngu,swear,tyngu
+clics-doculect-65-2055,wels1247-std,concepticon-1712,21.25,llw,oath,llw
+clics-doculect-65-2056,wels1247-std,concepticon-1814,21.31,cyhuddo,accuse,cyhuddo
+clics-doculect-65-2057,wels1247-std,concepticon-484,21.32,condemnio,condemn,condemnio
+clics-doculect-65-2058,wels1247-std,concepticon-983,21.33,barnu,convict (vb),barnu
+clics-doculect-65-2059,wels1247-std,concepticon-983,21.33,dyfarnuyneuog,convict (vb),dyfarnuyneuog
+clics-doculect-65-2060,wels1247-std,concepticon-983,21.33,euogfarnu,convict (vb),euogfarnu
+clics-doculect-65-2061,wels1247-std,concepticon-983,21.33,euogbrofi,convict (vb),euogbrofi
+clics-doculect-65-2062,wels1247-std,concepticon-988,21.34,dieuogi,acquit,dieuogi
+clics-doculect-65-2063,wels1247-std,concepticon-988,21.34,rhyddfarnu,acquit,rhyddfarnu
+clics-doculect-65-2064,wels1247-std,concepticon-1682,21.35,euog,guilty,euog
+clics-doculect-65-2065,wels1247-std,concepticon-90,21.36,dieuog,innocent,dieuog
+clics-doculect-65-2066,wels1247-std,concepticon-90,21.36,diniwed,innocent,diniwed
+clics-doculect-65-2067,wels1247-std,concepticon-390,21.37,cosb,"penalty, punishment",cosb
+clics-doculect-65-2068,wels1247-std,concepticon-390,21.37,poen,"penalty, punishment",poen
+clics-doculect-65-2069,wels1247-std,concepticon-218,21.38,dirwy,fine,dirwy
+clics-doculect-65-2070,wels1247-std,concepticon-1281,21.39,carchar,"prison, jail",carchar
+clics-doculect-65-2071,wels1247-std,concepticon-845,21.42,llofruddiaeth,murder,llofruddiaeth
+clics-doculect-65-2072,wels1247-std,concepticon-902,21.43,godineb,adultery,godineb
+clics-doculect-65-2073,wels1247-std,concepticon-953,21.44,trais,rape,trais
+clics-doculect-65-2074,wels1247-std,concepticon-1889,21.46,llosgi,arson,llosgi
+clics-doculect-65-2075,wels1247-std,concepticon-1792,21.47,anudon,perjury,anudon
+clics-doculect-65-2076,wels1247-std,concepticon-713,21.51,dwyn,steal,dwyn
+clics-doculect-65-2077,wels1247-std,concepticon-713,21.51,lladrata,steal,lladrata
+clics-doculect-65-2078,wels1247-std,concepticon-1160,21.52,lleidr,thief,lleidr

@@ -1,0 +1,809 @@
+@classification: Penutian,Tsimshian
+@ids-name: Tsimshian_Phonemic
+@iso: tsi
+@language: Tsimshian
+@size: 802
+@source: ids
+@variety: std
+1.1	world	haʔlidzook
+1.21	earth, land	yuup
+1.21	earth, land	yuub
+1.212	earth=ground, soil	laxyuup
+1.213	dust	yuup
+1.213	dust	yuub
+1.214	mud	loʔoky
+1.215	sand	aws
+1.22	mountain, hill	sgaʔniis
+1.22	mountain, hill	saʔniist
+1.22	mountain, hill	dii
+1.22	mountain, hill	didiiya
+1.22	mountain, hill	laxdii
+1.22	mountain, hill	didii
+1.222	cliff, precipice	biaaxł
+1.222	cliff, precipice	kˀyabeelda
+1.23	plain, field	laxnapˀaa
+1.24	valley	łgwtˀiin
+1.25	island	lükstaa
+1.27	shore	gyeeka
+1.27	shore	hałgyiik
+1.28	cave	c̷ˀmloob
+1.31	water	ksaʔaamks
+1.32	sea	moon
+1.324	foam	xeex
+1.329	ocean	laxsüülda
+1.33	lake	laxtˀaa
+1.35	wave	goop
+1.353	lowtide	wagagyik
+1.354	hightide	leeksʔaaks
+1.36	river, stream, brook	kˀalaʔaks
+1.36	river, stream, brook	smhuʔadzak
+1.362	whirlpool	c̷ˀalaks
+1.37	spring, well	gwanüks
+1.39	waterfall	ʔyagagwinuusk
+1.41	woods, forest	gyilhawli
+1.41	woods, forest	spaygangan
+1.42	tree (cf 08.600)	gan
+1.42	tree (cf 08.600)	gangan
+1.44	stone, rock	loop
+1.44	stone, rock	loob
+1.44	stone, rock	lüploop
+1.45	earthquake	yaak
+1.45	earthquake	yaag
+1.51	sky	laxa
+1.52	sun	gimgmdziws
+1.53	moon	gooypah
+1.53	moon	gyemgmaatk
+1.54	star	biyaals
+1.55	lightning	c̷ˀamti
+1.56	thunder	galapliib
+1.58	storm	beegaʔaks
+1.58	storm	laxa
+1.58	storm	xbaʔala
+1.59	rainbow	maaxay
+1.61	light (noun)	dziiws
+1.61	light (noun)	laakws
+1.62	darkness	hupl
+1.62	darkness	sgaytk
+1.71	air	ha
+1.73	cloud	wukc̷ˀan
+1.74	fog	waasmyeen
+1.74	fog	yeen
+1.75	rain (noun)	waas
+1.76	snow (noun)	maadm
+1.76	snow (noun)	yaamooks
+1.81	fire	lak
+1.81	fire	lac
+1.81	fire	smlak
+1.81	fire	smlag
+1.82	flame (noun)	duulalek
+1.83	smoke (noun)	pˀiyaan
+1.83	smoke (noun)	xpˀiyeen
+1.84	ashes	goom
+1.84	ashes	uuniksik
+1.851	burn (vb trans)	dziiblk
+1.851	burn (vb trans)	laguula
+1.851	burn (vb trans)	maalk
+1.852	burn (vb intrans)	gwalak
+1.86	light, kindle, ignite	sülaks
+1.861	extinguish	c̷ˀaky
+1.88	firewood	ołk
+1.89	charcoal	gamtʔuʔc̷k
+1.89	charcoal	lügooks
+2.1	person, human being	gyet
+2.21	man (vs. woman)	ʔyuuta
+2.21	man (vs. woman)	yikˀyuuta
+2.21	man (vs. woman)	gyet
+2.22	woman	hanaʔa
+2.22	woman	hanaʔnk
+2.25	boy	gyinaas
+2.25	boy	łgułgmʔyu
+2.26	girl	łgułgmhanaʔa
+2.27	child	kˀabatgüüłk
+2.27	child	łguwoomłk
+2.28	infant, baby	kłgüü
+2.28	infant, baby	łguwoomłk
+2.33	marry	naks
+2.33	marry	smhawnaks
+2.35	father	aap
+2.35	father	aab
+2.35	father	pˀaʔa
+2.35	father	gwat
+2.35	father	nagwaat
+2.36	mother	nay
+2.36	mother	noo
+2.41	son	łgułgmʔyu
+2.42	daughter	łgułgmhanaʔa
+2.44	brother	haat
+2.44	brother	hadm
+2.44	brother	łmktii
+2.44	brother	wegi
+2.44	brother	weky
+2.45	sister	łgaawkˀ
+2.45	sister	łmktii
+2.458	twins	süwiihoon
+2.46	grandfather	niiya
+2.46	grandfather	ʔyeʔe
+2.47	grandmother	dziʔis
+2.47	grandmother	nc̷ˀiʔis
+2.47	grandmother	c̷ˀiʔi
+2.51	uncle	nibip
+2.52	aunt	daʔas
+2.52	aunt	niktˀaa
+2.53	nephew	łguł
+2.54	niece	łguł
+2.55	cousin	oʔos
+2.57	descendants	ntxalaa
+3.23	cow	mismuus
+3.36	goat	mati
+3.41	horse (equine)	gyudan
+3.56	goose	haʔa
+3.58	nest	luułk
+3.58	nest	naluułk
+3.581	bird	c̷ˀuuʔc̷
+3.582	seagull	gagoom
+3.584	eagle	xsgyiik
+3.585	hawk	sgyaamsm
+3.585	hawk	xsuʔusk
+3.591	bat	c̷ˀogatˀaxtxaył
+3.596	owl	gwitgwiniiks
+3.61	dog	haas
+3.61	dog	hashaas
+3.614	rabbit	stukwliin
+3.63	mouse, rat	gaagłik
+3.65	fish	hon
+3.65	fish	uu
+3.652	fin (dorsal)	haas
+3.661	shark	ksaa
+3.662	porpoise, dolphin	dziiẅ
+3.663	whale	łbuun
+3.665	freshwater eel	loʔk
+3.665	freshwater eel	loʔox
+3.73	bear	masgmˀol
+3.75	deer	wan
+3.811	louse	c̷ˀaskw
+3.818	spider	sgyet
+3.82	bee	ap
+3.82	bee	ab
+3.823	wasp	ap
+3.823	wasp	ab
+3.823	wasp	hakhaps
+3.83	fly	gyiik
+3.832	mosquito	gyiik
+3.84	worm	laalt
+3.84	worm	laald
+3.85	snake	matxalaalt
+3.92	butterfly	baxbogmgyemk
+3.95	frog	ganaw
+3.96	lizard	ksiił
+4.12	skin, hide	anaas
+4.12	skin, hide	akˀanaas
+4.13	flesh	sami
+4.14	hair (head)	gaws
+4.14	hair (head)	nakʔawst
+4.142	beard	iimk
+4.144	body hair	lii
+4.145	pubic hair	lii
+4.15	blood	iłee
+4.151	vein, artery	gawiłee
+4.16	bone	sayp
+4.162	rib	ptal
+4.162	rib	buptal
+4.17	horn	gagaaws
+4.18	tail	c̷ˀuup
+4.19	back	akˀoo
+4.19	back	hakˀoo
+4.19	back	kˀo
+4.19	back	kˀakˀo
+4.191	spine	kˀoo
+4.191	spine	seybmkˀoo
+4.191	spine	tˀmkˀo
+4.2	head	tˀmgaws
+4.201	side of head, temple	hanhani
+4.202	skull	kˀooli
+4.203	brain	wüngaws
+4.204	face	c̷ˀal
+4.204	face	c̷ˀikc̷alt
+4.205	forehead	woopx
+4.208	cheek	daʔoox
+4.208	cheek	wündo
+4.209	chin	kpaaẅ
+4.21	eye	c̷ˀal
+4.21	eye	c̷ˀikc̷alt
+4.212	eyebrow	lagyiil
+4.213	eyelid	laxˀool
+4.214	eyelash	nooml
+4.214	eyelash	woʔaml
+4.215	blink	gapʔeeltk
+4.215	blink	kˀasiipsl
+4.22	ear	muk
+4.22	ear	mug
+4.22	ear	gamuukt
+4.22	ear	c̷ˀmmuu
+4.23	nose	c̷ˀak
+4.231	nostril	c̷ˀmc̷ˀax
+4.24	mouth	c̷ˀmʔaax
+4.25	lip	gwak
+4.25	lip	gwiłʔaax
+4.26	tongue	duula
+4.27	tooth	ʔwaan
+4.27	tooth	wükˀwaan
+4.28	neck	tˀmlaani
+4.281	nape of neck	c̷ˀmtˀii
+4.29	throat	sˀaawg
+4.3	shoulder	tˀmgay
+4.301	shoulderblade	spinooł
+4.31	arm	tˀmgay
+4.31	arm	hac̷ˀaʔanˀon
+4.312	armpit	c̷ʔaans
+4.32	elbow	maʔon
+4.32	elbow	sganis
+4.321	wrist	łmˀanʔon
+4.33	hand	anʔon
+4.33	hand	gaʔanʔon
+4.331	palm of hand	kˀyilaa
+4.331	palm of hand	c̷ˀmʔanʔon
+4.34	finger	hadzeyx
+4.34	finger	kˀac̷iweelt
+4.34	finger	c̷ˀawaal
+4.342	thumb	moos
+4.344	fingernail	łaxs
+4.345	claw	łaxs
+4.35	leg	gasasi
+4.35	leg	tˀmłaam
+4.36	knee	galgaʔaaysuu
+4.36	knee	kˀalkˀays
+4.37	foot	asii
+4.37	foot	gasasi
+4.37	foot	gasisii
+4.371	ankle	hamhom
+4.371	ankle	xc̷ˀaʔasi
+4.38	toe	xskˀaanaxs
+4.392	wing	gaʔay
+4.392	wing	kˀakˀay
+4.393	feather	lii
+4.393	feather	liimc̷ˀuʔuc̷
+4.4	chest	gayk
+4.43	navel	tˀiʔik
+4.43	navel	tˀiʔig
+4.44	heart	goot
+4.441	lung	bee
+4.451	kidney	libec̷ˀaẅ
+4.46	stomach	galˀoos
+4.46	stomach	oʔos
+4.46	stomach	galˀoʔos
+4.461	intestines, guts	haat
+4.462	waist	gyikʔaak
+4.463	hip	gyikʔaak
+4.463	hip	tˀmba
+4.463	hip	waa
+4.492	penis	c̷ˀuuʔc̷
+4.51	breathe, breath	ksinaał
+4.51	breathe, breath	naał
+4.56	spit	puksk
+4.56	spit	yaaxł
+4.57	vomit	xsiit
+4.58	bite	kˀay
+4.58	bite	laʔa
+4.58	bite	łaʔax
+4.58	bite	łakˀaw
+4.61	sleep	stox
+4.61	sleep	laxstox
+4.61	sleep	wok
+4.61	sleep	xstˀook
+4.62	dream	ksaʔwoox
+4.62	dream	xsiwoox
+4.63	wake up	gaksk
+4.63	wake up	gyenitgn
+4.64	break wind	pˀaasü
+4.64	break wind	wilaan
+4.67	have sexual intercourse	kˀaas
+4.67	have sexual intercourse	kˀuuʔk
+4.69	bathe	laxs
+4.72	born (to be)	klagyet
+4.73	pregnant	kˀwaadamłk
+4.73	pregnant	lusisguum
+4.74	live, living, life	diduuls
+4.75	die, dead	lukˀahgyet
+4.751	drowned	dukwłgn
+4.751	drowned	luudagwn
+4.751	drowned	uksdaawł
+4.76	kill	dzak
+4.77	corpse	baaʔlx
+4.78	bury (the dead)	luc̷ikˀaax
+4.78	bury (the dead)	waʔa
+4.78	bury (the dead)	waʔwax
+4.84	sick, sickness	hasiipk
+4.84	sick, sickness	siipk
+4.85	wound, sore	kˀaa
+4.85	wound, sore	sgaayksk
+4.858	scar	łaʔagy
+4.88	medicine, drug	xaldawk
+4.91	tired, weary	sunaał
+4.93	bald	naakˀok
+4.93	bald	wahlii
+4.94	lame	kˀabaa
+4.94	lame	kˀyabaa
+4.95	deaf	sgawg
+4.95	deaf	c̷ˀawx
+4.95	deaf	gac̷ˀawgyit
+4.97	blind	suuns
+4.97	blind	gasuuns
+4.98	intoxicated	lüsiin
+4.99	naked, bare	dzaxʔootk
+5.11	eat	gag
+5.11	eat	gab
+5.11	eat	txooxk
+5.11	eat	ʔyaak
+5.11	eat	ʔyaax
+5.11	eat	xdii
+5.11	eat	yaawxk
+5.12	food	wüneey
+5.123	ripe	miik
+5.124	green, unripe	kˀasgi
+5.125	rotten	lok
+5.125	rotten	log
+5.13	drink	aks
+5.13	drink	akˀaks
+5.13	drink	laʔaks
+5.14	hunger	kwdii
+5.15	thirst	lugüünksax
+5.16	suck	tˀaxtˀoox
+5.16	suck	tˀook
+5.18	chew	gawn
+5.18	chew	gangawn
+5.18	chew	kˀawn
+5.18	chew	gagawn
+5.181	swallow	gac̷ʔał
+5.181	swallow	kˀadzaa
+5.19	choke	kˀaław
+5.19	choke	kˀyag
+5.22	boil (vb)	dzem
+5.22	boil (vb)	hathotxk
+5.23	roast, fry	c̷ˀlmʔmaʔa
+5.24	bake	sigwaan
+5.24	bake	uut
+5.31	dish	noł
+5.37	spoon	hapsgaawlk
+5.38	knife	kwdusˀ
+5.46	peel	pˀiił
+5.49	stir, mix	łˀwaʔil
+5.54	knead	tkyitˀuus
+5.56	crush, grind	kˀłikˀagun
+5.58	mortar	gayłmloop
+5.59	pestle	hatˀaapa
+5.61	meat	sami
+5.791	grease, fat	kˀawc̷i
+5.791	grease, fat	yee
+5.86	milk (noun)	ksamˀesk
+5.86	milk (noun)	mmo
+5.86	milk (noun)	gamo
+5.93	beer	laam
+5.97	egg	łgumet
+6.11	put on (clothes)	liisgüü
+6.12	clothing, clothes	hakhooya
+6.22	wool	liimeti
+6.24	cotton	ligyimti
+6.28	fur	lii
+6.31	spin	tkwabaanł
+6.35	sew	luʔapüs
+6.35	sew	luupk
+6.36	needle	ʔlax
+6.38	thread	nluʔupis
+6.42	woman's dress	naʔa
+6.42	woman's dress	ganaaʔnax
+6.42	woman's dress	nuutk
+6.48	trousers	pˀaxs
+6.62	button	nipˀaʔla
+6.75	necklace	gahuud
+6.77	earring	muu
+6.77	earring	pˀałmuu
+6.79	tattoo	gyiłʔon
+6.79	tattoo	naygyełxs
+6.91	comb	pc̷ˀih
+7.12	house	waap
+7.22	door, gate	gamgaantk
+7.22	door, gate	liksoog
+7.22	door, gate	lüksoʔak
+7.25	window	naksuniisk
+7.26	floor	haʔliwaalxs
+7.27	wall	haałgn
+7.31	fireplace	nlak
+7.42	bed	haʔlinook
+7.421	pillow	mełüü
+7.422	blanket	smwüs
+7.422	blanket	was
+7.422	blanket	wiswas
+7.43	chair	haʔlitˀah
+7.51	roof	laxʔoowaap
+7.51	roof	galiilp
+7.51	roof	kˀiliilp
+7.55	beam	galiilp
+7.56	post, pole	haaʔytisk
+8.13	garden	laxc̷ˀaʔadzaks
+8.13	garden	siʔndoonik
+8.16	fence	galaxun
+8.22	dig	wukˀaw
+8.311	seed	nüwaʔna
+8.48	rice	miyoop
+8.51	grass	kyooxt
+8.531	plant (vb)	waʔnaa
+8.54	root	huus
+8.56	leaf	yans
+8.57	flower	müdzagale
+8.6	tree	gan
+8.6	tree	gangan
+8.68	tobacco	wündoumksiwa
+8.72	tree stump	haac̷
+8.75	bark	maas
+8.75	bark	maasagan
+8.97	nettle	stüti
+8.98	mushroom	gaaydibaaʔlx
+9.11	do, make	weel
+9.11	do, make	sagaytweel
+9.12	work	hałaals
+9.14	bend	łaʔgyin
+9.14	bend	tˀaʔił
+9.15	fold	xpaak
+9.16	tie, bind	c̷ˀiip
+9.19	rope, cord	hagwilhuu
+9.21	strike (hit, beat)	guu
+9.21	strike (hit, beat)	kˀalisyec̷
+9.22	cut	kˀodz
+9.222	chop, hew	kˀoc̷
+9.223	stab	gyełk
+9.23	knife	hagyiłaam
+9.25	ax	gyigyootk
+9.251	adze	daxwans
+9.251	adze	tˀaxwans
+9.26	break	kˀwaas
+9.261	broken	pˀoo
+9.27	split	buus
+9.27	split	pˀasaxk
+9.27	split	saʔkt
+9.28	tear	liʔaʔpl
+9.31	rub, wipe	ʔman
+9.33	pull	saʔky
+9.341	hang up	ʔyak
+9.343	squeeze, wring	ludmdam
+9.36	wash	lumaaks
+9.36	wash	yooks
+9.44	build	dzap
+9.461	hollow out	kˀaax
+9.66	copper, bronze	müsiin
+9.73	clay	psah
+9.76	basket	goos
+9.76	basket	kˀook
+9.81	carve	nadaam
+9.89	paint (vb)	tˀmmiis
+10.11	move	łaʔal
+10.14	wind, wrap	laʔagwil
+10.21	rise	gyiniitx
+10.21	rise	niitk
+10.23	fall	kˀyaʔapayk
+10.23	fall	oks
+10.24	drip	laʔweel
+10.24	drip	luuwal
+10.24	drip	luʔwal
+10.25	throw	ooy
+10.26	shake	babaa
+10.32	flow	c̷ˀmhuuc̷a
+10.33	sink	kˀyidawł
+10.35	swim	hadiks
+10.35	swim	laheediks
+10.35	swim	łoo
+10.351	dive	xswooxsk
+10.37	fly (vb)	gyipaayk
+10.38	blow	baask
+10.43	jump, leap	goos
+10.43	jump, leap	saalogamgos
+10.431	kick	kwłaask
+10.44	dance	miilk
+10.45	walk	baxyaa
+10.45	walk	yaa
+10.45	walk	łoga
+10.45	walk	waalxs
+10.46	run	baa
+10.46	run	kˀol
+10.47	go	baxyaa
+10.47	go	laa
+10.471	go up	münyaa
+10.472	climb	łaʔayask
+10.473	go down	tkyiyaa
+10.473	go down	ʔyagagoo
+10.474	go out	ksüü
+10.48	come	gaa
+10.48	come	kˀah
+10.48	come	goydiks
+10.48	come	hooks
+10.481	come back	luuyeeltk
+10.49	go away, depart	dawł
+10.49	go away, depart	kwdaxs
+10.51	flee	kˀyeexk
+10.52	follow	liyaak
+10.55	reach, arrive	batsk
+10.57	enter	c̷ˀii
+10.57	enter	lamdzax
+10.61	carry (bear)	weli
+10.61	carry (bear)	wilweli
+10.613	carry-on-shoulder	kˀoʔoldzax
+10.63	send	hashayc̷
+10.63	send	haysk
+10.63	send	hayc̷
+10.67	push, shove	tˀuus
+10.71	road	gayna
+10.71	road	laxgayna
+10.76	wheel	ganhadaay
+10.83	boat	xasoo
+10.83	boat	gaxso
+10.83	boat	boot
+10.83	boat	bood
+10.831	canoe	smxso
+10.85	oar	gaamgants
+10.851	paddle (noun)	duway
+10.851	paddle (noun)	luway
+10.852	row (vb)	giˀwkłw?
+10.852	row (vb)	waay
+10.852	row (vb)	huway
+10.852	row (vb)	luway
+10.852	row (vb)	wuwaay
+10.87	mast	gaʔnah
+10.87	mast	kˀaʔana
+10.88	sail (noun)	ałoom
+10.88	sail (noun)	hakˀałoom
+10.88	sail (noun)	hałoomboot
+11.13	take	gyaa
+11.13	take	dox
+11.15	hold	dam
+11.15	hold	gyad
+11.21	give	kˀilam
+11.21	give	yaa
+11.24	preserve, look after	łuʔadüü
+11.33	lose	gwaaltk
+11.33	lose	kˀwaaʔtis
+11.81	buy	gyiik
+11.82	sell	ʔwaʔat
+11.83	trade, barter	lunigyiisn
+11.83	trade, barter	sütyeel
+12.11	place	akˀom
+12.11	place	txalaan
+12.3	down, below	ksłüüdat
+12.3	down, below	tkyi
+12.41	right (side)	hac̷ˀaxłk
+12.41	right (side)	nagook
+12.5	inside, in	c̷ˀaaw
+12.6	outside	gyelag
+12.8	up, above	man
+12.13	sit	logmtˀaa
+12.13	sit	tˀaa
+12.13	sit	wan
+12.14	lie down	lisgüü
+12.14	lie down	nook
+12.15	stand	haaytk
+12.15	stand	haʔyin
+12.17	remains, left overs	maanwineeya
+12.21	collect, gather	saxdoo
+12.232	divide	saʔał
+12.25	shut, close	gwindaalpk
+12.26	cover	haaps
+12.27	hide, conceal	yüü
+12.31	high	gyeps
+12.31	high	maʔnaxk
+12.33	top	laxˀoh
+12.35	end	c̷ˀuwaan
+12.35	end	xbiil
+12.352	pointed	c̷ˀuwaanł
+12.353	edge	aak
+12.353	edge	aag
+12.353	edge	gaʔaak
+12.353	edge	ndzok
+12.36	side	anhaat
+12.36	side	anhaad
+12.37	middle, center	ksüülg
+12.41	right (side)	naksmyaʔwin
+12.41	right (side)	smyaʔawin
+12.42	left (side)	mooms
+12.42	left (side)	mütkyaʔwn
+12.44	far (adv)	wilʔnak
+12.47	north	gyisiyaask
+12.48	south	gyaʔc̷
+12.53	grow	pˀas
+12.54	measure	saʔkalst
+12.55	large, big	ʔwiileeks
+12.55	large, big	wiitˀis
+12.56	small, little	łguc̷ˀuusk
+12.56	small, little	c̷ˀusk
+12.56	small, little	sisuus
+12.57	long	ʔnak
+12.57	long	ʔnag
+12.57	long	wiiʔnak
+12.58	tall	napłaxł
+12.59	short	dalpk
+12.61	wide, broad	luʔooks
+12.61	wide, broad	wiilee
+12.62	narrow	lułguul
+12.65	thin (in dimension)	hani
+12.67	deep	łap
+12.74	crooked	łeʔign
+12.76	corner	amuus
+12.76	corner	gyic̷ʔoon
+12.83	sphere, ball	łaʔt
+12.85	hole	lułap
+13.1	one	kˀameet
+13.2	two	galbeeltk
+13.2	two	goopsxn
+13.2	two	gulapdaat
+13.2	two	guʔpl
+13.2	two	guplʔon
+13.3	three	galsgantk
+13.3	three	gwan
+13.3	three	gwindaat
+13.4	four	txaalpx
+13.5	five	kstnsool
+13.5	five	kstuuns
+13.5	five	kstuunsxn
+13.8	eight	iwkłaʔadool
+13.107	count	dap
+13.14	every, all	gawdi
+13.14	every, all	txaʔnii
+13.15	much, many	held
+13.15	much, many	lugwil
+13.17	little (quantity), few	nagadzaw
+13.21	full	luhoʔnł
+13.22	empty	gol
+13.22	empty	loogawdi
+13.24	half	nastoo
+13.24	half	xbiyee
+13.33	alone, only	kˀool
+13.33	alone, only	kˀyaal
+13.34	first	sgoox
+13.38	two times	müla
+14.13	new	su
+14.14	young	supˀas
+14.14	young	sumaxs
+14.23	hasten, hurry	sümela
+14.25	begin, beginning	sitˀaa
+14.28	cease, stop	leheeld
+14.332	long-time (for a)	gyikʔooł
+14.332	long-time (for a)	łaʔnaak
+14.35	again	gyik
+14.41	day	sah
+14.42	night	aatk
+14.42	night	aatg
+14.42	night	hupl
+14.43	dawn	aksyaadziws
+14.44	morning	ganłaak
+14.45	noon, midday	labaxsaʔyagagyemk
+14.45	noon, midday	süülgasah
+14.451	afternoon	ludawłdagyemk
+14.46	evening	hupl
+14.46	evening	łakyiyaasah
+14.48	tomorrow	dzigyidziip
+14.49	yesterday	gyic̷ʔiipta
+14.73	year	kˀoł
+14.73	year	gokˀoł
+14.74	winter	gomsm
+14.75	spring	gooym
+14.75	spring	laxsüʔyens
+14.76	summer	suunt
+14.77	autumn	ksuud
+15.21	smell (vb intrans)	huum
+15.25	fragrant, good smelling	mihooks
+15.26	stinking, bad smelling	uusk
+15.35	sweet	c̷ˀmʔaatk
+15.38	acid, sour	kˀaas
+15.38	acid, sour	moksa
+15.41	hear	ʔnaxʔnuu
+15.51	see	ʔniidz
+15.52	look, look at	ʔniidz
+15.55	show	gwaniʔc̷
+15.55	show	gwünniidzn
+15.57	bright	gooypah
+15.63	dark (in color)	łan
+15.64	white	moks
+15.65	black	gaax
+15.65	black	tˀuʔuc̷k
+15.66	red	masgmʔiłee
+15.66	red	mask
+15.66	red	masg
+15.66	red	mismaskt
+15.67	blue	gwisgwaask
+15.68	green	małiitk
+15.71	touch	gwaantk
+15.77	smooth	naʔyełk
+15.78	sharp	sak
+15.83	wet, damp	logask
+15.84	dry	güünaks
+15.84	dry	luuna
+15.84	dry	süluuna
+15.85	hot	gyemk
+15.85	hot	luʔgwilgyemk
+15.87	clean	saksk
+15.88	dirty, soiled	maatg
+16.11	soul, spirit	haayuk
+16.23	joyful, glad, happy	łgwüsgüü
+16.25	laugh	süsˀaaks
+16.251	smile	moʔmx
+16.29	kiss	humˀc̷a
+16.33	anxiety, worry	luwantgmgood
+16.33	anxiety, worry	luwantk
+16.37	cry, weep	wihaawtk
+16.37	cry, weep	xeexs
+16.38	tear (noun)	ksiil
+16.38	tear (noun)	gaksiilt
+16.39	groan	saaldzik
+16.42	anger	łuunti
+16.53	fear, fright	naxʔpidzuu
+16.54	danger	suulg
+16.62	desire, want	hasaakl
+16.67	lie, tell lies	biiʔk
+16.67	lie, tell lies	hukbiiʔk
+16.73	right, correct	hoyax
+17.17	know	wilaay
+17.172	imitate	sasyaamx
+17.23	insane, crazy	liksgoot
+17.23	insane, crazy	lüksgood
+17.24	learn	luudisk
+17.25	teach	skˀuunsk
+17.32	forget	kˀoʔal
+17.32	forget	tˀiisk
+17.38	explain	magon
+17.45	need, necessity	seeg
+17.46	easy	sgyeetk
+17.55	yes, affirmative	oo
+17.56	no, negative	ał
+17.56	no, negative	ałga
+17.61	how?	ndeh
+17.64	what?	goo
+17.65	when?	dzindeh
+17.65	when?	ndeh
+17.66	where?	ndeh
+17.68	who?	naa
+18.11	voice	amhaw
+18.12	sing	liimi
+18.15	whisper	stuunł
+18.17	whistle	waʔtaxk
+18.19	howl	kˀagawʔtk
+18.21	speak, talk	algyax
+18.21	speak, talk	haw
+18.21	speak, talk	pliyaaẅ
+18.21	speak, talk	xsteltk
+18.221	tell story	maalsk
+18.221	tell story	małiłk
+18.31	ask (question, inquire)	güüdax
+18.36	promise	nasmhawtks
+18.37	refuse	sgaag
+18.38	forbid	haʔweełk
+18.41	call (=summon)	huutk
+18.72	drum	nahooł
+18.74	rattle	sasoo
+19.15	city, town	c̷ˀap
+19.16	village	galdzap
+19.21	people (populace)	gagigyet
+19.23	tribe, clan	c̷ˀap
+19.24	chief, chieftain	algyagask
+19.46	obey	waan
+19.51	friend, companion	damxł
+19.52	enemy	libiltwaltk
+19.55	stranger	lüksc̷ˀap
+19.58	help, aid	łmoom
+19.65	meet	waa
+19.65	meet	wütwaa
+20.13	war, battle	wilduulgyit
+20.22	club	hagayaan
+20.22	club	haʔkalaaẅ
+20.22	club	haʔkayaan
+20.22	club	kˀaayaan
+20.24	bow	hakwdaak
+20.25	arrow	hawaal
+20.25	arrow	tˀaas
+20.26	spear	gyiłgyał
+20.31	armor (defensive)	ganłaan
+20.35	fortress	tˀooʔc̷ip
+20.51	fisherman	hukˀat
+20.55	fish trap	nisahoon
+20.55	fish trap	tˀiin
+20.56	bait	naa
+20.56	bait	siʔnaa
+21.51	steal	kˀaalg
+21.51	steal	kˀyaaʔlk
+21.51	steal	c̷ˀaawil

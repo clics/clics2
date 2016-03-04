@@ -1,0 +1,1742 @@
+@classification: Indo-European,Celtic,Insular,Brythonic
+@ids-name: Breton_Phonemic
+@iso: bre
+@language: Breton
+@size: 1735
+@source: ids
+@variety: std
+1.1	world	bed
+1.21	earth, land	douar
+1.212	earth=ground, soil	douar
+1.213	dust	poultr
+1.213	dust	poucher
+1.214	mud	fank
+1.215	sand	traez
+1.215	sand	sabl
+1.22	mountain, hill	menez
+1.22	mountain, hill	krec’h
+1.222	cliff, precipice	tornaot
+1.222	cliff, precipice	torraot
+1.222	cliff, precipice	bri
+1.23	plain, field	plenenn
+1.23	plain, field	park
+1.24	valley	traonienn
+1.24	valley	saonenn
+1.25	island	enezenn
+1.26	mainland	douarbraz
+1.27	shore	aot
+1.28	cave	grotenn
+1.31	water	dour
+1.32	sea	mor
+1.322	calm (of sea)	kalm
+1.323	rough (of sea)	garorust
+1.324	foam	eon
+1.329	ocean	mor
+1.329	ocean	morbraz
+1.33	lake	lenn
+1.33	lake	loc’h
+1.33	lake	stank
+1.34	gulf, bay	plegmor
+1.342	reef	karreg
+1.343	headland, point	begdouar
+1.35	wave	gwagenn
+1.35	wave	gwachenn
+1.35	wave	koumm
+1.35	wave	houlenn
+1.352	tide	mare
+1.353	lowtide	tre
+1.354	hightide	lano
+1.36	river, stream, brook	ster
+1.36	river, stream, brook	richer
+1.36	river, stream, brook	riɲvier
+1.362	whirlpool	troennvor
+1.37	spring, well	eienenn
+1.37	spring, well	mammenn
+1.37	spring, well	puɲs
+1.38	swamp	lagenn
+1.38	swamp	yun
+1.39	waterfall	lammdour
+1.41	woods, forest	koad
+1.42	tree (cf 08.600)	gwezenn
+1.43	wood	koad
+1.43	wood	prenn
+1.44	stone, rock	maen
+1.44	stone, rock	roh
+1.44	stone, rock	rohell
+1.45	earthquake	krendouar
+1.51	sky	oabl
+1.51	sky	neɲv
+1.52	sun	heol
+1.53	moon	loar
+1.53	moon	loer
+1.54	star	steredenn
+1.55	lightning	luhedenn
+1.55	lightning	daredenn
+1.56	thunder	kurun
+1.56	thunder	kudurun
+1.56	thunder	taran
+1.57	lightning (as striking)	tanfoeltr
+1.57	lightning (as striking)	tankurun
+1.58	storm	arne
+1.58	storm	oraj
+1.58	storm	tourmant
+1.58	storm	tempest
+1.59	rainbow	gwaregarglao
+1.59	rainbow	kanevedenn
+1.61	light (noun)	goulou
+1.62	darkness	teɲvalijenn
+1.63	shade, shadow	disheol
+1.63	shade, shadow	skeud
+1.64	dew	gliz
+1.64	dew	gwliz
+1.71	air	aer
+1.72	wind	avel
+1.73	cloud	koabrenn
+1.73	cloud	koumoulenn
+1.74	fog	latar
+1.74	fog	lusenn
+1.74	fog	brum
+1.75	rain (noun)	glao
+1.76	snow (noun)	erh
+1.77	ice	skorn
+1.78	weather	amzer
+1.81	fire	tan
+1.82	flame (noun)	flammenn
+1.83	smoke (noun)	moged
+1.84	ashes	ludu
+1.841	embers	glaoubeo
+1.851	burn (vb trans)	enemdeviɲ
+1.852	burn (vb intrans)	deviɲ
+1.86	light, kindle, ignite	enaoui
+1.86	light, kindle, ignite	alumiɲ
+1.861	extinguish	laza
+1.861	extinguish	lahaɲ
+1.87	match (noun)	alumetezenn
+1.87	match (noun)	chimikenn
+1.88	firewood	keuneud
+1.89	charcoal	glaoudouar
+2.1	person, human being	den
+2.21	man (vs. woman)	gwaz
+2.21	man (vs. woman)	paotr
+2.22	woman	maouez
+2.22	woman	plah
+2.23	male	gwaz
+2.23	male	paotr
+2.24	female	maouez
+2.24	female	plah
+2.25	boy	paotrbihan
+2.251	young man (adolescent)	paotryaouank
+2.26	girl	plahvihan
+2.261	young woman (adolescent)	plahyaouank
+2.27	child	bugel
+2.28	infant, baby	krouadur
+2.28	infant, baby	poupig
+2.31	husband	den
+2.31	husband	gwaz
+2.31	husband	pried
+2.32	wife	gwreg
+2.32	wife	pried
+2.33	marry	dimezi
+2.33	marry	eureuji
+2.34	marriage, wedding	eured
+2.34	marriage, wedding	friko
+2.35	father	tad
+2.36	mother	mamm
+2.37	parents	tud
+2.37	parents	tadhamamm
+2.38	married man	dendimezet
+2.39	married woman	gwreg
+2.39	married woman	maouez
+2.41	son	mab
+2.42	daughter	merh
+2.43	offspring (son or daughter)	bugel
+2.44	brother	breur
+2.444	older brother	breurhenaɲ
+2.445	younger brother	breurbihan
+2.45	sister	c’hoar
+2.454	older sister	c’hoarhenaɲ
+2.455	younger sister	c’hoarvihan
+2.458	twins	koublad
+2.458	twins	gevell
+2.46	grandfather	tadkoz
+2.46	grandfather	pepe
+2.461	old man	paotrkoz
+2.47	grandmother	mammgoz
+2.471	old woman	plahkoz
+2.471	old woman	maouezkoz
+2.48	grandson	mabbihan
+2.49	granddaughter	merhvihan
+2.51	uncle	eontr
+2.51	uncle	tonton
+2.511	mother's brother	tonton
+2.512	father's brother	tonton
+2.52	aunt	moereb
+2.52	aunt	tantin
+2.52	aunt	tintin
+2.521	mother's sister	moereb
+2.521	mother's sister	tantin
+2.521	mother's sister	tintin
+2.522	father's sister	moereb
+2.522	father's sister	tantin
+2.522	father's sister	tintin
+2.53	nephew	niz
+2.53	nephew	ni
+2.54	niece	nizez
+2.54	niece	niez
+2.55	cousin	kenderv
+2.55	cousin	keniterv
+2.56	ancestors	gourdadou
+2.56	ancestors	tudkoz
+2.57	descendants	diskennidi
+2.61	father-in-law (of a man)	tadkaer
+2.611	father-in-law (of a woman)	tadkaer
+2.62	mother-in-law (of a man)	mammgaer
+2.621	mother-in-law (of a woman)	mammgaer
+2.63	son-in-law (of a man)	mabkaer
+2.63	son-in-law (of a man)	deun
+2.631	son-in-law (of a woman)	mabkaer
+2.631	son-in-law (of a woman)	deun
+2.64	daughter-in-law (of a man)	merhkaer
+2.641	daughter-in-law (of a woman)	merhkaer
+2.71	stepfather	leztad
+2.72	stepmother	lezvamm
+2.73	stepson	lezvab
+2.74	stepdaughter	lezverh
+2.75	orphan	emzivad
+2.75	orphan	minor
+2.75	orphan	minorez
+2.76	widow	intaɲvez
+2.77	widower	intaɲv
+2.81	relatives, kinsmen	kerent
+2.81	relatives, kinsmen	tudkar
+2.82	family	famill
+2.91	I	me
+2.92	you (singular)	te
+2.93	he/she/it	heɲ
+2.93	he/she/it	hi
+2.93	he/she/it	eɲ
+2.93	he/she/it	hi
+2.94	we	ni
+2.95	you (plural)	c’hwi
+2.96	they	i
+2.96	they	int
+3.11	animal	loen
+3.11	animal	aneval
+3.12	male (adj)	par
+3.12	male (adj)	taro
+3.12	male (adj)	mal
+3.13	female (adj)	parez
+3.13	female (adj)	feumeulenn
+3.15	livestock	chatal
+3.15	livestock	loened
+3.16	pasture	peuri
+3.16	pasture	peur
+3.18	herdsman	paotrsaout
+3.18	herdsman	bugul
+3.19	stable, stall	kraou
+3.19	stable, stall	marchosi
+3.2	cattle (bovine)	saout
+3.2	cattle (bovine)	chatal
+3.21	bull	taro
+3.21	bull	kole
+3.22	ox	ejen
+3.23	cow	buoh
+3.24	calf	leue
+3.25	sheep	daɲvad
+3.26	ram	maout
+3.28	ewe	daɲvadez
+3.29	lamb	oan
+3.29	lamb	daɲvadbihan
+3.32	boar	penmohgouez
+3.34	sow	gwiz
+3.34	sow	bano
+3.35	pig	penmoh
+3.35	pig	porhell
+3.35	pig	kochon
+3.36	goat	gaor
+3.37	he-goat	bouh
+3.38	kid	gaorvihan
+3.41	horse (equine)	marh
+3.41	horse (equine)	lon
+3.41	horse (equine)	loenkezeg
+3.41	horse (equine)	aneval
+3.42	stallion	marhantier
+3.44	mare	kazeg
+3.45	foal, colt	ebeulez
+3.45	foal, colt	ebeul
+3.46	ass, donkey	azen
+3.47	mule	mul
+3.5	fowl	yer
+3.52	cock, rooster	killog
+3.52	cock, rooster	kog
+3.54	hen	yar
+3.55	chicken	labousyar
+3.55	chicken	evnyar
+3.56	goose	gwazienn
+3.57	duck	houad
+3.57	duck	kanard
+3.58	nest	neiz
+3.581	bird	labous
+3.581	bird	evn
+3.582	seagull	evngwenn
+3.583	heron	marharidgouzoughir
+3.585	hawk	falhun
+3.591	bat	askellgrohen
+3.591	bat	logodenndall
+3.592	parrot	peroked
+3.593	crow	bran
+3.594	dove	turzunell
+3.596	owl	kaouenn
+3.61	dog	ki
+3.614	rabbit	lapin
+3.614	rabbit	konifenn
+3.614	rabbit	koniklenn
+3.62	cat	kaz
+3.63	mouse, rat	logodenn
+3.63	mouse, rat	raz
+3.65	fish	pesk
+3.652	fin (dorsal)	angell
+3.653	fishscale	skant
+3.654	gill	brenkou
+3.655	shell	krogenn
+3.662	porpoise, dolphin	moroh
+3.663	whale	balen
+3.663	whale	balem
+3.664	stingray	rê
+3.665	freshwater eel	silienn
+3.71	wolf	bleiz
+3.72	lion	leon
+3.72	lion	lion
+3.73	bear	ourz
+3.74	fox	louarn
+3.75	deer	karo
+3.76	monkey	marmouz
+3.76	monkey	siɲj
+3.77	elephant	olifant
+3.77	elephant	elefant
+3.78	camel	kaɲval
+3.81	insect	c’hwil
+3.811	louse	laouenn
+3.812	nit (louse egg)	nezenn
+3.813	flea	c’hwenenn
+3.814	centipede	milkraban
+3.816	cockroach	c’hwildu
+3.817	ant	merienenn
+3.818	spider	kevnidenn
+3.819	spider web	gwiadkevnid
+3.82	bee	gwenanenn
+3.821	beeswax	koar
+3.822	beehive	koloenn
+3.823	wasp	gwespedenn
+3.83	fly	kelienenn
+3.831	sandfly (midge), gnat	fubuenn
+3.831	sandfly (midge), gnat	c’hwibuenn
+3.832	mosquito	moustikenn
+3.84	worm	preɲv
+3.84	worm	buzugenn
+3.85	snake	aer
+3.91	firefly	preɲvgoloig
+3.92	butterfly	papillon
+3.93	grasshopper	kograden
+3.93	grasshopper	killograden
+3.94	snail	melhwedennkrogennet
+3.95	frog	glesker
+3.95	frog	gweskleɲv
+3.95	frog	chignan
+3.95	frog	ranik
+3.96	lizard	glazard
+3.98	turtle	tortu
+4.11	body	korv
+4.12	skin, hide	krohen
+4.13	flesh	kig
+4.14	hair (head)	bleo
+4.142	beard	baro
+4.144	body hair	bleo
+4.145	pubic hair	bleo
+4.146	dandruff	kenn
+4.15	blood	gwad
+4.151	vein, artery	gwazienn
+4.16	bone	askorn
+4.162	rib	kostezenn
+4.17	horn	korn
+4.18	tail	lost
+4.19	back	kein
+4.191	spine	gwalennegein
+4.2	head	penn
+4.201	side of head, temple	kostezarpenn
+4.202	skull	klopenn
+4.203	brain	empenn
+4.204	face	bizaj
+4.204	face	fas
+4.205	forehead	tal
+4.207	jaw	karvan
+4.208	cheek	jod
+4.208	cheek	boh
+4.209	chin	elgez
+4.209	chin	groɲch
+4.209	chin	chink
+4.21	eye	lagad
+4.212	eyebrow	abrant
+4.213	eyelid	malvenn
+4.215	blink	divalwenniɲ
+4.22	ear	skouarn
+4.222	earwax	kaohskouarn
+4.23	nose	fri
+4.231	nostril	fronell
+4.232	mucus (nasal)	mihi
+4.24	mouth	genou
+4.24	mouth	beg
+4.241	beak	beg
+4.25	lip	gweuz
+4.25	lip	muzell
+4.26	tongue	teod
+4.26	tongue	lapenn
+4.26	tongue	laɲchenn
+4.27	tooth	dant
+4.271	gums	moɲsonou
+4.272	molartooth	kildant
+4.28	neck	gouzoug
+4.28	neck	goug
+4.281	nape of neck	kilpenn
+4.29	throat	gouzoug
+4.29	throat	gourlaɲchenn
+4.3	shoulder	skoaz
+4.301	shoulderblade	plankennarskoaz
+4.302	collarbone	ibilskoaz
+4.31	arm	breh
+4.312	armpit	kazel
+4.32	elbow	ilin
+4.321	wrist	pognez
+4.33	hand	dorn
+4.331	palm of hand	palv
+4.34	finger	biz
+4.342	thumb	meud
+4.342	thumb	bizmeud
+4.344	fingernail	ivin
+4.345	claw	kraban
+4.35	leg	gar
+4.351	thigh	morzed
+4.352	calf of leg	kovkar
+4.36	knee	glin
+4.37	foot	troad
+4.371	ankle	ibiltroad
+4.371	ankle	fer
+4.372	heel	seul
+4.372	heel	talon
+4.374	footprint	roudantroad
+4.38	toe	biztroad
+4.392	wing	askell
+4.393	feather	pluenn
+4.4	chest	jave
+4.4	chest	peultrin
+4.4	chest	peutrin
+4.4	chest	stomok
+4.41	breast (of woman)	bronn
+4.412	nipple, teat	begarvronn
+4.42	udder	tez
+4.43	navel	begel
+4.44	heart	kalon
+4.441	lung	skevent
+4.45	liver	avu
+4.45	liver	barazegal
+4.451	kidney	lounez
+4.451	kidney	reɲ
+4.452	spleen	felh
+4.46	stomach	estomak
+4.46	stomach	kov
+4.461	intestines, guts	bouzellou
+4.462	waist	dargreiz
+4.463	hip	haɲch
+4.464	buttocks	peɲsou
+4.464	buttocks	pastellou
+4.47	womb	kov
+4.49	testicle	kouillenn
+4.49	testicle	kellenn
+4.492	penis	pich
+4.492	penis	kokolo
+4.51	breathe, breath	alanad
+4.51	breathe, breath	alan
+4.51	breathe, breath	analad
+4.51	breathe, breath	anal
+4.52	yawn, gape	dislavigen
+4.52	yawn, gape	bazailhad
+4.52	yawn, gape	baraillard
+4.521	hiccough	hik
+4.521	hiccough	kaoudanhik
+4.53	cough	pasaad
+4.53	cough	gwaskennad
+4.53	cough	poursal
+4.54	sneeze	strevia
+4.54	sneeze	distrevial
+4.55	perspire	c’hwezaɲ
+4.55	perspire	c’hweziɲ
+4.56	spit	skopad
+4.56	spit	tufad
+4.56	spit	krachad
+4.57	vomit	dislonkaɲ
+4.57	vomit	bomisaɲ
+4.58	bite	krigiɲ
+4.59	lick	lipad
+4.591	dribble	babouzad
+4.61	sleep	kousked
+4.612	snore	rohal
+4.612	snore	dirohal
+4.62	dream	huɲvreal
+4.63	wake up	dihunaɲ
+4.63	wake up	divuniɲ
+4.64	break wind	brammaɲ
+4.64	break wind	brommaɲ
+4.65	urinate	staota
+4.65	urinate	troazaɲ
+4.65	urinate	pised
+4.66	defecate	kahad
+4.67	have sexual intercourse	enembara
+4.67	have sexual intercourse	c’hwilaɲ
+4.68	shiver	krenaɲ
+4.69	bathe	neuial
+4.72	born (to be)	bezaɲganet
+4.73	pregnant	brazez
+4.73	pregnant	dougerez
+4.732	conceive	genel
+4.74	live, living, life	bevaɲ
+4.74	live, living, life	beo
+4.74	live, living, life	buhez
+4.75	die, dead	mervel
+4.75	die, dead	maro
+4.751	drowned	beuzet
+4.76	kill	lazaɲ
+4.76	kill	lahaɲ
+4.77	corpse	korvmaro
+4.78	bury (the dead)	interi
+4.79	grave, tomb	bez
+4.81	strong, mighty, powerful	kréɲv
+4.81	strong, mighty, powerful	galloudeg
+4.82	weak	gwan
+4.82	weak	feb
+4.83	well, health	yehed
+4.83	well, health	yah
+4.84	sick, sickness	klaɲv
+4.84	sick, sickness	kleɲved
+4.841	fever	terzien
+4.842	goiter	gouzouzed
+4.843	cold (catarrh)	sivern
+4.85	wound, sore	gloaz
+4.85	wound, sore	gouli
+4.852	bruise	bloɲs
+4.853	swelling	bos
+4.854	itch	debron
+4.854	itch	drebon
+4.855	blister	pemohbihan
+4.856	boil (noun)	gor
+4.857	pus	pu
+4.858	scar	kleizenn
+4.86	cure, heal	pareaɲ
+4.87	physician	medesin
+4.88	medicine, drug	louzou
+4.88	medicine, drug	medikamaɲchou
+4.89	poison	kontamm
+4.89	poison	poezon
+4.91	tired, weary	skuiz
+4.912	rest	diskuizaɲ
+4.92	lazy	lezireg
+4.92	lazy	feneant
+4.92	lazy	didalvez
+4.93	bald	moal
+4.93	bald	disto
+4.94	lame	kamm
+4.95	deaf	bouzar
+4.96	mute	mud
+4.97	blind	dall
+4.98	intoxicated	mezo
+4.99	naked, bare	noaz
+5.11	eat	dibriɲ
+5.11	eat	drebi
+5.12	food	boued
+5.121	cooked	poaz
+5.122	raw	kriz
+5.123	ripe	daro
+5.123	ripe	dare
+5.123	ripe	azo
+5.124	green, unripe	glaz
+5.125	rotten	brein
+5.13	drink	evaɲ
+5.14	hunger	naon
+5.141	famine	kernez
+5.141	famine	naonegez
+5.15	thirst	sehed
+5.16	suck	suna
+5.16	suck	hutad
+5.18	chew	chaokad
+5.18	chew	chaogad
+5.181	swallow	lonkaɲ
+5.19	choke	mougaɲ
+5.21	cook	poazad
+5.21	cook	poahad
+5.22	boil (vb)	birviɲ
+5.23	roast, fry	rostaɲ
+5.23	roast, fry	fritaɲ
+5.24	bake	poba
+5.25	oven	forn
+5.26	pot, cooking vessel	kaoter
+5.26	pot, cooking vessel	podhouarn
+5.27	kettle	kaoter
+5.28	pan	kastorolenn
+5.28	pan	kasolorenn
+5.31	dish	plad
+5.32	plate	asied
+5.33	bowl	bolenn
+5.33	bowl	skudell
+5.34	pitcher, jug	brog
+5.35	cup, drinking vessel	tas
+5.36	saucer	asiedvihan
+5.37	spoon	loa
+5.38	knife	kontell
+5.39	fork	fourchetezenn
+5.391	tongs	piɲsetezom
+5.41	meal (a)	pred
+5.41	meal (a)	maɲjer
+5.42	breakfast	dijuniɲ
+5.42	breakfast	lein
+5.43	lunch	lein
+5.43	lunch	merenn
+5.44	dinner	koan
+5.45	supper	adkoan
+5.46	peel	peillad
+5.47	sieve, strain	silaɲ
+5.48	scrape	skrapad
+5.49	stir, mix	meskaɲ
+5.51	bread	bara
+5.53	dough	toaz
+5.54	knead	merad
+5.55	meal, flour	bleud
+5.56	crush, grind	malaɲ
+5.56	crush, grind	frika
+5.57	mill	milin
+5.57	mill	meill
+5.58	mortar	morter
+5.59	pestle	pilouer
+5.61	meat	kig
+5.63	sausage	silzig
+5.63	sausage	chaosis
+5.64	soup, broth	soubenn
+5.65	vegetables	legumach
+5.66	bean	ariko
+5.7	potato	avaldouar
+5.7	potato	patatezenn
+5.71	fruit	frouezenn
+5.712	bunch	bod
+5.712	bunch	torkad
+5.75	fig	figezenn
+5.76	grape	rezin
+5.77	nut	kraonenn
+5.79	oil	eol
+5.79	oil	ioul
+5.791	grease, fat	druzoni
+5.81	salt	holen
+5.81	salt	halen
+5.81	salt	c’hoalen
+5.82	pepper	pebr
+5.84	honey	mel
+5.85	sugar	sukr
+5.86	milk (noun)	laez
+5.86	milk (noun)	lêz
+5.87	milk (vb)	goro
+5.88	cheese	fromaj
+5.89	butter	amann
+5.9	beverage, drink	evaj
+5.91	mead	chouchenn
+5.91	mead	chufere
+5.91	mead	chupere
+5.92	wine	gwin
+5.93	beer	bier
+5.94	fermented drink	boeson
+5.97	egg	vi
+5.97	egg	u
+5.971	egg yolk	melenu
+5.971	egg yolk	melenvi
+6.11	put on (clothes)	gwiskaɲ
+6.12	clothing, clothes	dillad
+6.12	clothing, clothes	gwiskamant
+6.13	tailor	kemener
+6.21	cloth	danvez
+6.22	wool	gloan
+6.23	linen, flax	lin
+6.24	cotton	kotoɲs
+6.24	cotton	koton
+6.25	silk	seiz
+6.27	felt	feltr
+6.28	fur	feur
+6.28	fur	foulinenn
+6.29	leather	ler
+6.31	spin	nezaɲ
+6.32	spindle	gwerzid
+6.33	weave	gweaɲ
+6.34	loom	stern
+6.35	sew	gwriad
+6.36	needle	nadoz
+6.37	awl	minaoued
+6.38	thread	neud
+6.39	dye	livaɲ
+6.41	cloak	tapis
+6.41	cloak	mantell
+6.42	woman's dress	broz
+6.42	woman's dress	robenn
+6.43	coat	mantell
+6.43	coat	porpant
+6.44	shirt	roched
+6.44	shirt	hiɲviz
+6.45	collar	kolier
+6.46	skirt	broz
+6.46	skirt	kotillon
+6.48	trousers	bragou
+6.48	trousers	lavreg
+6.48	trousers	otou
+6.49	stocking, sock	loer
+6.49	stocking, sock	choosetenn
+6.51	shoe	botez
+6.51	shoe	botezler
+6.52	boot	botinezenn
+6.54	shoemaker, cobbler	kere
+6.54	shoemaker, cobbler	kereer
+6.55	hat, cap	tok
+6.55	hat, cap	kasketenn
+6.57	belt, girdle	gouriz
+6.57	belt, girdle	senturenn
+6.58	glove	maneg
+6.59	veil	gwel
+6.61	pocket	godell
+6.61	pocket	chakod
+6.62	button	nozelenn
+6.62	button	boutonenn
+6.63	pin	spillenn
+6.71	ornament, adornment	kinklou
+6.72	jewel	braoig
+6.73	ring (for finger)	gwalenn
+6.73	ring (for finger)	gwalennbiz
+6.74	bracelet	trovrec’h
+6.75	necklace	kolier
+6.77	earring	boudoreillenn
+6.79	tattoo	tatouaj
+6.81	handkerchief, rag	mouchouer
+6.81	handkerchief, rag	lienfri
+6.82	towel	serviedenn
+6.91	comb	krib
+6.92	brush	broɲs
+6.92	brush	bros
+6.921	braid	plaɲsonenniɲ
+6.93	razor	aotenn
+6.93	razor	razouer
+6.94	ointment	traet
+6.95	soap	soavon
+6.96	mirror	melezour
+6.96	mirror	sklasenn
+7.11	dwell, live	bezaɲochom
+7.12	house	ti
+7.13	hut	loch
+7.13	hut	kabanell
+7.131	garden-house	loch
+7.131	garden-house	kabanell
+7.14	tent	tinell
+7.15	yard, court	porz
+7.15	yard, court	kourt
+7.17	cookhouse	kegin
+7.21	room	pez
+7.22	door, gate	dor
+7.221	doorpost, jamb	piedroet
+7.231	latch, door-bolt	krogenn
+7.24	key	alhwez
+7.25	window	prenest
+7.25	window	fenestr
+7.26	floor	leur
+7.26	floor	plaɲchod
+7.27	wall	moger
+7.27	wall	mur
+7.31	fireplace	oaled
+7.32	stove	fornigell
+7.33	chimney	siminal
+7.33	chimney	chiminal
+7.37	ladder	skeul
+7.42	bed	gwele
+7.421	pillow	goubenner
+7.421	pillow	oroiller
+7.422	blanket	tapis
+7.43	chair	kador
+7.44	table	taol
+7.45	lamp, torch	lamp
+7.46	candle	gouloukoar
+7.46	candle	kantell
+7.46	candle	boujienn
+7.47	shelf	estajerenn
+7.48	trough	laouer
+7.51	roof	toenn
+7.52	thatch	soul
+7.52	thatch	plouz
+7.53	ridgepole	treust
+7.54	rafter	treust
+7.55	beam	treust
+7.56	post, pole	peul
+7.56	post, pole	piked
+7.57	board	plankenn
+7.58	arch	bolz
+7.61	mason	masoner
+7.62	brick	brikenn
+7.63	mortar	mortie
+8.11	farmer	feurmier
+8.11	farmer	menajer
+8.11	farmer	kouer
+8.12	field (for cultivation)	park
+8.13	garden	liorz
+8.13	garden	jardin
+8.15	cultivate, till	labouraddouar
+8.16	fence	kloued
+8.17	ditch	foz
+8.17	ditch	douvez
+8.17	ditch	andouv
+8.21	plow	arad
+8.21	plow	arar
+8.21	plow	alar
+8.212	furrow	ero
+8.212	furrow	erv
+8.22	dig	kleuziɲ
+8.22	dig	pigellad
+8.23	spade	raɲ
+8.24	shovel	pal
+8.25	hoe	hou
+8.25	hoe	binetenn
+8.26	fork	forh
+8.27	rake	rastell
+8.31	sow	hadaɲ
+8.311	seed	had
+8.32	mow, reap	medi
+8.32	mow, reap	falc’hat
+8.33	sickle, scythe	falz
+8.33	sickle, scythe	falh
+8.34	thresh	dornaɲed
+8.35	threshing-floor	leur
+8.35	threshing-floor	leurdornaɲ
+8.41	crop, harvest	eost
+8.42	grain (barley, oats etc)	ed
+8.43	wheat	gwiniz
+8.44	barley	heiz
+8.45	rye	segal
+8.46	oats	kerh
+8.47	maize, corn	edTurki
+8.47	maize, corn	maiz
+8.48	rice	riz
+8.51	grass	geot
+8.51	grass	yeot
+8.52	hay	foenn
+8.53	plant (noun)	plantenn
+8.531	plant (vb)	plantaɲ
+8.54	root	gwrizienn
+8.55	branch	brank
+8.55	branch	barr
+8.56	leaf	delienn
+8.57	flower	boked
+8.57	flower	fleur
+8.57	flower	bleunienn
+8.6	tree	gwezenn
+8.61	oak	dervenn
+8.61	oak	gwezenndero
+8.62	beech	gwezennfao
+8.63	birch	gwezennbezo
+8.64	pine	pin
+8.65	fir	saprenn
+8.65	fir	sapin
+8.66	acorn	mezenn
+8.67	vine	gwinienn
+8.68	tobacco	butun
+8.69	smoke (tobacco)	butunad
+8.69	smoke (tobacco)	fumiɲ
+8.691	pipe	kornbutun
+8.691	pipe	pibenn
+8.72	tree stump	revrarwezenn
+8.73	tree trunk	korvarwezenn
+8.74	forked branch	fourchell
+8.75	bark	pluskenn
+8.75	bark	ruskenn
+8.76	sap	sabr
+8.97	nettle	linad
+8.98	mushroom	togtouseg
+8.98	mushroom	bonedtouseg
+8.98	mushroom	kabelltouseg
+9.11	do, make	ober
+9.12	work	labourad
+9.14	bend	plegaɲ
+9.15	fold	plegaɲ
+9.16	tie, bind	stagaɲ
+9.16	tie, bind	eren
+9.161	untie	distagaɲ
+9.18	chain	chadenn
+9.19	rope, cord	kordenn
+9.19	rope, cord	fun
+9.192	knot (noun)	koulm
+9.192	knot (noun)	skoulm
+9.21	strike (hit, beat)	skeiɲ
+9.21	strike (hit, beat)	skoiɲ
+9.211	pound with fist	dornaɲ
+9.22	cut	trohaɲ
+9.221	cut down	diskar
+9.222	chop, hew	krennaɲ
+9.222	chop, hew	trohaɲ
+9.223	stab	reiɲeuntaolkontell
+9.23	knife	kontell
+9.24	scissors, shears	sizaillou
+9.25	ax	bouhal
+9.251	adze	taladur
+9.26	break	terriɲ
+9.26	break	torriɲ
+9.261	broken	torret
+9.27	split	faoutaɲ
+9.28	tear	regiɲ
+9.29	flay, skin	digrohennaɲ
+9.31	rub, wipe	frotaɲ
+9.31	rub, wipe	torchaɲ
+9.32	stretch	astenn
+9.33	pull	tennaɲ
+9.34	spread out	astenn
+9.34	spread out	strewiɲ
+9.34	spread out	ledaɲ
+9.34	spread out	skuill
+9.341	hang up	lakaadenpign
+9.341	hang up	lakaadaistribill
+9.342	press	gwaskaɲ
+9.342	press	pouezaɲ
+9.343	squeeze, wring	diwaskaɲ
+9.35	pour	dinaouiɲ
+9.35	pour	fotaɲ
+9.36	wash	gwalhiɲ
+9.36	wash	kannaɲ
+9.37	sweep	skubaɲ
+9.38	broom	skubellenn
+9.38	broom	balaenn
+9.422	tool	benveg
+9.422	tool	ostill
+9.43	carpenter	kalvez
+9.43	carpenter	charpantour
+9.44	build	sevel
+9.46	bore	toullaɲ
+9.461	hollow out	kleuziɲ
+9.48	saw	heskenn
+9.49	hammer	morzol
+9.5	nail	tach
+9.5	nail	pwentenn
+9.56	glue	peg
+9.6	smith, blacksmith	gov
+9.6	smith, blacksmith	marichal
+9.61	forge	govelia
+9.61	forge	marichalad
+9.62	anvil	anne
+9.63	cast (metals)	teuziɲ
+9.64	gold	aour
+9.65	silver	arhant
+9.66	copper, bronze	kouevr
+9.66	copper, bronze	arem
+9.67	iron	houarn
+9.68	lead (noun)	plom
+9.69	tin, tinplate	sten
+9.71	potter	poder
+9.72	mold (clay etc)	aoza
+9.73	clay	pri
+9.73	clay	douarpri
+9.74	glass	gwer
+9.75	weave, plait	gwiad
+9.75	weave, plait	plaɲsonenniɲ
+9.76	basket	paner
+9.76	basket	kavell
+9.77	mat	plaɲsonenn
+9.771	rug	tapis
+9.78	netbag	rouedenn
+9.81	carve	kizellaɲ
+9.81	carve	benaɲ
+9.82	sculptor	kizeller
+9.82	sculptor	bener
+9.83	statue	statu
+9.84	chisel	kizell
+9.88	paint (noun)	livaj
+9.88	paint (noun)	pentur
+9.89	paint (vb)	livaɲ
+9.89	paint (vb)	penturiɲ
+10.11	move	fiɲval
+10.12	turn over	treiɲ
+10.12	turn over	distreiɲ
+10.13	turn around	treiɲ
+10.14	wind, wrap	rodellaɲ
+10.15	roll	ruillaɲ
+10.16	drop (vb)	loskeldagouezaɲ
+10.17	twist	gweaɲ
+10.21	rise	sevel
+10.22	raise, lift	sevel
+10.23	fall	kouezaɲ
+10.24	drip	beraɲ
+10.24	drip	diveraɲ
+10.25	throw	teurel
+10.25	throw	taol
+10.25	throw	darhao
+10.252	catch (ball)	tapoud
+10.252	catch (ball)	trapoud
+10.26	shake	hejaɲ
+10.32	flow	ruillal
+10.33	sink	gouelediɲ
+10.33	sink	mondd'arstrad
+10.33	sink	mondd'arfoɲs
+10.34	float	chomwarhorreandour
+10.35	swim	neuɲvi
+10.35	swim	neuial
+10.351	dive	plonjaɲ
+10.352	splash	strinkaɲdour
+10.36	sail (vb)	navigaɲ
+10.37	fly (vb)	nijal
+10.38	blow	c’hwezaɲ
+10.41	creep, crawl	enemstleja
+10.41	creep, crawl	ruzaɲ
+10.412	kneel	daoulinaɲ
+10.412	kneel	penndaoulinaɲ
+10.413	crouch	kluchaɲ
+10.42	slide, slip	riklaɲ
+10.42	slide, slip	rampaɲ
+10.43	jump, leap	lammad
+10.43	jump, leap	lampad
+10.431	kick	reiɲeuntaoltroad
+10.44	dance	daɲsal
+10.45	walk	kerzed
+10.45	walk	bale
+10.451	limp	kammaɲ
+10.46	run	redeg
+10.46	run	galoupad
+10.47	go	mond
+10.471	go up	sevel
+10.472	climb	krapad
+10.473	go down	diskenn
+10.474	go out	mondermêz
+10.48	come	dond
+10.481	come back	dondendro
+10.49	go away, depart	mondkuit
+10.491	disappear	monddiwarwel
+10.51	flee	tehel
+10.51	flee	tehoud
+10.52	follow	heuliaɲ
+10.52	follow	monddoheul
+10.53	pursue	mondwarlerh
+10.53	pursue	redegwarlerh
+10.55	reach, arrive	arrioud
+10.55	reach, arrive	arruoud
+10.55	reach, arrive	digouezoud
+10.55	reach, arrive	enemgaoud
+10.56	approach	tostaad
+10.57	enter	mondebarz
+10.57	enter	dondebarz
+10.61	carry (bear)	dougen
+10.612	carry-in-hand	dougenenezorn
+10.613	carry-on-shoulder	dougenwarechouk
+10.614	carry-on-head	dougenwarebenn
+10.615	carry-underarm	dougendindanegazel
+10.62	bring	digas
+10.63	send	kas
+10.64	lead (vb)	kas
+10.65	drive	kas
+10.66	ride	mondwarvarh
+10.67	push, shove	poulzaɲ
+10.67	push, shove	boutaɲ
+10.71	road	hent
+10.72	path	gwenodenn
+10.72	path	ribin
+10.74	bridge	pont
+10.75	carriage, wagon, cart	karr
+10.76	wheel	rod
+10.77	axle	ahel
+10.78	yoke	yeo
+10.81	ship	lestr
+10.81	ship	batimant
+10.83	boat	bag
+10.831	canoe	kanod
+10.84	raft	radell
+10.85	oar	roeɲv
+10.852	row (vb)	roenviɲ
+10.852	row (vb)	reual
+10.86	rudder	stur
+10.87	mast	gwern
+10.88	sail (noun)	gouel
+10.89	anchor	eor
+10.91	harbor, port	porz
+10.92	land (vb)	debarkiɲ
+11.11	have	kaoud
+11.12	own, possess	kaoud
+11.13	take	kemer
+11.14	seize, grasp	kregiɲ
+11.14	seize, grasp	tapoudkrog
+11.15	hold	derhelkrog
+11.16	get, obtain	kavoud
+11.17	keep, retain	mired
+11.17	keep, retain	goarn
+11.18	thing	tra
+11.21	give	reiɲ
+11.22	give back	rentaɲ
+11.22	give back	reiɲendro
+11.24	preserve, look after	mired
+11.24	preserve, look after	delhel
+11.25	save, rescue	saveteiɲ
+11.25	save, rescue	sovetaad
+11.27	destroy	distrujaɲ
+11.27	destroy	dispenn
+11.28	harm, injure, damage	oberdroug
+11.31	seek, look for	klask
+11.32	find	kavoud
+11.33	lose	koll
+11.34	release, let go	leuskeldavond
+11.43	money	arhant
+11.44	coin	pez
+11.44	coin	pezmoneiz
+11.51	rich	pinvidig
+11.52	poor	paour
+11.53	beggar	klaskerbara
+11.54	avaricious, stingy	piz
+11.54	avaricious, stingy	tost
+11.61	lend	prestaɲ
+11.62	borrow	prestaɲ
+11.63	owe	dleoud
+11.63	owe	gleoud
+11.64	debt	dle
+11.64	debt	gle
+11.65	pay (vb)	paeaɲ
+11.66	account, reckoning	kont
+11.69	tax, tribute	kontribusion
+11.69	tax, tribute	impoiou
+11.77	hire	feurmiɲ
+11.78	wages	pê
+11.78	wages	gopr
+11.79	earn	gounidarhant
+11.81	buy	prenaɲ
+11.82	sell	gwerzaɲ
+11.83	trade, barter	oberkoɲvers
+11.84	merchant	marhadour
+11.84	merchant	koɲversant
+11.85	market (place)	marhad
+11.86	store, shop	stal
+11.86	store, shop	koɲvers
+11.86	store, shop	magajin
+11.87	price	priz
+11.88	dear (costly, expensive)	ker
+11.89	cheap	marhadmad
+11.91	share (distribute)	rannaɲ
+11.92	weigh	pouezaɲ
+12.1	after	goude
+12.11	place	adreɲv
+12.11	place	adreg
+12.2	beside	ekichenn
+12.2	beside	etal
+12.3	down, below	entraoɲ
+12.3	down, below	dindan
+12.4	before	araog
+12.4	before	dirag
+12.41	right (side)	dirag
+12.5	inside, in	en
+12.5	inside, in	ebarz
+12.6	outside	ermêz
+12.7	under	dindan
+12.8	up, above	auz
+12.8	up, above	war
+12.8	up, above	warbenn
+12.11	place	plas
+12.11	place	leh
+12.12	put	lakaad
+12.13	sit	azezaɲ
+12.13	sit	mondenezoazez
+12.14	lie down	gourvezaɲ
+12.15	stand	bezaɲennhezao
+12.16	remain, stay	chom
+12.16	remain, stay	gortoz
+12.17	remains, left overs	restajou
+12.21	collect, gather	dastum
+12.212	pick up	dastumdiwarandouar
+12.213	pile up	berniaɲ
+12.22	join, unite	stagaɲkevred
+12.22	join, unite	stagaɲasamblez
+12.22	join, unite	juntraɲ
+12.23	separate	dispartiaɲ
+12.232	divide	disrannaɲ
+12.24	open	digeriɲ
+12.24	open	digoriɲ
+12.25	shut, close	serriɲ
+12.25	shut, close	prennaɲ
+12.26	cover	goleiɲ
+12.26	cover	goloiɲ
+12.27	hide, conceal	kuzad
+12.27	hide, conceal	koach
+12.31	high	uhel
+12.32	low	izel
+12.33	top	lein
+12.33	top	barr
+12.34	bottom	goueled
+12.34	bottom	foɲs
+12.35	end	penn
+12.352	pointed	begeg
+12.352	pointed	lemm
+12.353	edge	bord
+12.353	edge	kostez
+12.36	side	kostez
+12.36	side	tu
+12.37	middle, center	kreiz
+12.41	right (side)	dehou
+12.42	left (side)	kleiz
+12.43	near (adv)	tost
+12.44	far (adv)	pell
+12.45	east	reter
+12.45	east	savheol
+12.46	west	kuzheol
+12.47	north	hanternoz
+12.47	north	nors
+12.48	south	kreisteiz
+12.48	south	su
+12.53	grow	kreskiɲ
+12.54	measure	muzuliaɲ
+12.541	span, fathom	gourhed
+12.55	large, big	braz
+12.56	small, little	bihan
+12.57	long	hir
+12.58	tall	braz
+12.59	short	berr
+12.61	wide, broad	ledan
+12.62	narrow	striz
+12.63	thick (in dimension)	teo
+12.65	thin (in dimension)	tano
+12.67	deep	don
+12.68	shallow	baz
+12.71	flat	plad
+12.73	straight	eeun
+12.74	crooked	kamm
+12.74	crooked	kromm
+12.75	hook	krog
+12.75	hook	bah
+12.76	corner	korn
+12.76	corner	kogn
+12.77	cross	kroaz
+12.78	square	karre
+12.78	square	karrezet
+12.81	round	rond
+12.82	circle	kelh
+12.83	sphere, ball	boull
+12.84	line	linenn
+12.85	hole	toull
+12.92	like, similar	heɲvel
+12.93	change	cheɲch
+12.93	change	chaɲch
+13.0	zero, nothing	zero
+13.1	one	unan
+13.2	two	daou
+13.2	two	diou
+13.3	three	tri
+13.3	three	teir
+13.4	four	pevar
+13.4	four	peder
+13.5	five	pemp
+13.6	six	c’hweh
+13.7	seven	seiz
+13.8	eight	eiz
+13.9	nine	nao
+13.10	ten	deg
+13.101	eleven	unneg
+13.102	twelve	daouzeg
+13.103	fifteen	pemzeg
+13.104	twenty	ugent
+13.105	hundred	kant
+13.106	thousand	mil
+13.107	count	kontaɲ
+13.14	every, all	peb
+13.14	every, all	toud
+13.14	every, all	oll
+13.15	much, many	kalz
+13.16	more	muioh
+13.17	little (quantity), few	nebeud
+13.18	enough	awalh
+13.18	enough	trawalh
+13.181	some	euntamm
+13.181	some	eunbannah
+13.181	some	eunbanne
+13.19	multitude, crowd	engroez
+13.19	multitude, crowd	foul
+13.21	full	leun
+13.22	empty	goullo
+13.22	empty	vid
+13.23	part, piece	tamm
+13.24	half	hanter
+13.33	alone, only	hepken
+13.34	first	kentaɲ
+13.35	last	diwezaɲ
+13.36	second	eil
+13.37	pair	koublad
+13.38	two times	diouwech
+13.42	third	trived
+13.42	third	trede
+13.42	third	teirved
+13.44	three times	teirgwech
+14.11	time	amzer
+14.12	age	oad
+14.13	new	nevez
+14.14	young	yaouank
+14.15	old	koz
+14.16	early	abred
+14.17	late	diwezad
+14.18	now	bremaɲ
+14.19	immediately	dioustu
+14.21	swift, fast, quick	buan
+14.22	slow	gorreg
+14.23	hasten, hurry	hastaɲ
+14.24	retard, delay	daleaɲ
+14.25	begin, beginning	komaɲsamant
+14.252	last, endure	padoud
+14.26	end (temporal)	diwez
+14.26	end (temporal)	fin
+14.27	finish	achuiɲ
+14.27	finish	finisaɲ
+14.28	cease, stop	paouez
+14.28	cease, stop	chomazao
+14.29	ready	prest
+14.31	always	bepred
+14.31	always	atao
+14.32	often	aliez
+14.33	sometimes	awechou
+14.331	soon	prestig
+14.332	long-time (for a)	pell
+14.34	never	biskoaz
+14.34	never	birviken
+14.34	never	jamez
+14.34	never	morse
+14.35	again	adarre
+14.41	day	deiz
+14.42	night	noz
+14.43	dawn	gouloudeiz
+14.43	dawn	tarzandeiz
+14.44	morning	beure
+14.44	morning	mintin
+14.45	noon, midday	kreisteiz
+14.451	afternoon	enderv
+14.451	afternoon	goudekreisteiz
+14.46	evening	abardaez
+14.47	today	hizio
+14.47	today	hirio
+14.47	today	feteiz
+14.47	today	fenoz
+14.48	tomorrow	arhoaz
+14.48	tomorrow	warhoaz
+14.481	day-after-tomorrow	benndaoudevez
+14.49	yesterday	deh
+14.491	day-before-yesterday	andeizaraogdeh
+14.51	hour	eur
+14.53	clock, timepiece	horolaj
+14.53	clock, timepiece	pandulenn
+14.53	clock, timepiece	montr
+14.61	week	sizun
+14.61	week	sun
+14.62	Sunday	sul
+14.62	Sunday	disul
+14.63	Monday	lun
+14.63	Monday	dilun
+14.64	Tuesday	meurz
+14.64	Tuesday	dimeurz
+14.65	Wednesday	merher
+14.65	Wednesday	dimerher
+14.66	Thursday	yaou
+14.66	Thursday	diziou
+14.66	Thursday	diriaou
+14.67	Friday	gwener
+14.67	Friday	dirgwener
+14.67	Friday	digwener
+14.68	Saturday	sadorn
+14.68	Saturday	disadorn
+14.71	month	miz
+14.73	year	bloaz
+14.74	winter	goaɲv
+14.75	spring	nevezamzer
+14.75	spring	beganhaɲv
+14.76	summer	haɲv
+14.77	autumn	diskaramzer
+14.77	autumn	dilosthaɲv
+14.78	season	koulz
+15.21	smell (vb intrans)	kaoudc’hwez
+15.212	sniff	c’hwesa
+15.22	smell (vb trans)	santoudc’hwez
+15.25	fragrant, good smelling	c’hwezvad
+15.26	stinking, bad smelling	flaeriuz
+15.26	stinking, bad smelling	c’hwezfall
+15.31	taste	taɲva
+15.35	sweet	c’hweg
+15.35	sweet	dous
+15.36	salty	sall
+15.37	bitter	c’hwero
+15.38	acid, sour	trenk
+15.41	hear	kleved
+15.42	listen	selaou
+15.42	listen	chilaou
+15.44	sound, noise	trouz
+15.45	loud	kreɲv
+15.46	quiet, silence	sioul
+15.51	see	gweled
+15.52	look, look at	selledouz
+15.55	show	diskouez
+15.56	shine	lugerniɲ
+15.56	shine	skediɲ
+15.56	shine	luhaɲ
+15.57	bright	sklaer
+15.57	bright	skeduz
+15.57	bright	lugernuz
+15.61	color	liou
+15.62	light (in color)	sklaer
+15.63	dark (in color)	teɲval
+15.64	white	gwenn
+15.65	black	du
+15.66	red	ruz
+15.66	red	ru
+15.67	blue	glaz
+15.68	green	gwer
+15.68	green	ver
+15.68	green	glaz
+15.69	yellow	melen
+15.71	touch	touch
+15.71	touch	steki
+15.71	touch	stokaɲ
+15.712	pinch	piɲsad
+15.72	feel	santoud
+15.72	feel	tastonad
+15.74	hard	kaled
+15.75	soft	dous
+15.76	rough	rust
+15.77	smooth	flour
+15.78	sharp	lemm
+15.79	blunt, dull	dall
+15.81	heavy	ponner
+15.81	heavy	lourd
+15.82	light (in weight)	skaɲv
+15.82	light (in weight)	lijer
+15.83	wet, damp	gleb
+15.83	wet, damp	leiz
+15.83	wet, damp	umid
+15.84	dry	seh
+15.85	hot	tomm
+15.851	warm	klouar
+15.86	cold	yen
+15.86	cold	riou
+15.86	cold	anoued
+15.87	clean	prob
+15.87	clean	net
+15.88	dirty, soiled	louz
+15.89	wrinkled	ridet
+16.11	soul, spirit	ene
+16.11	soul, spirit	spered
+16.15	surprised, astonished	souezet
+16.15	surprised, astonished	estonet
+16.18	good fortune, luck	eurvad
+16.18	good fortune, luck	chaɲs
+16.19	misfortune, bad luck	maleur
+16.19	misfortune, bad luck	dichaɲs
+16.23	joyful, glad, happy	laouen
+16.23	joyful, glad, happy	joauz
+16.25	laugh	c’hoarzin
+16.251	smile	c’hoarzin
+16.251	smile	mousc’hoarzin
+16.26	play	c’hoari
+16.27	love	kared
+16.27	love	karantez
+16.29	kiss	pokad
+16.29	kiss	bouchad
+16.3	embrace	briata
+16.31	pain	poan
+16.31	pain	droug
+16.32	grief, sorrow, sadness	glahar
+16.32	grief, sorrow, sadness	poangalon
+16.33	anxiety, worry	neh
+16.34	regret, be sorry	kaoudkeuz
+16.34	regret, be sorry	kaouddesped
+16.35	pity	truez
+16.37	cry, weep	gouelaɲ
+16.37	cry, weep	ouela
+16.37	cry, weep	garmad
+16.38	tear (noun)	daeraouenn
+16.38	tear (noun)	daelaouenn
+16.38	tear (noun)	dour
+16.39	groan	grognal
+16.41	hate	kasaad
+16.41	hate	kaoudkazouz
+16.42	anger	koler
+16.42	anger	droug
+16.44	envy, jealousy	gwarizi
+16.44	envy, jealousy	gourvenn
+16.44	envy, jealousy	jalousi
+16.45	shame (noun)	mez
+16.48	proud	fier
+16.48	proud	lorhuz
+16.51	dare	krediɲ
+16.52	brave	kaloneg
+16.52	brave	kourajuz
+16.53	fear, fright	aon
+16.53	fear, fright	doan
+16.53	fear, fright	neh
+16.54	danger	daɲjer
+16.62	desire, want	c’hoantaad
+16.62	desire, want	kaoudc’hoant
+16.622	choose	choaz
+16.63	hope	spi
+16.63	hope	esper
+16.65	faithful	feal
+16.65	faithful	fidel
+16.66	true	gwir
+16.67	lie, tell lies	kontaɲgevier
+16.68	deceit	touellerez
+16.69	forgive	pardoniɲ
+16.71	good	mad
+16.72	bad	fall
+16.72	bad	droug
+16.73	right, correct	gwir
+16.73	right, correct	just
+16.74	wrong	falz
+16.76	fault	fazi
+16.76	fault	faot
+16.77	mistake, error	fazi
+16.77	mistake, error	faot
+16.78	blame	tamall
+16.79	praise	meuleudi
+16.81	beautiful	kaer
+16.81	beautiful	brao
+16.82	ugly	divalo
+16.82	ugly	vil
+16.83	greedy	gourmant
+16.84	clever	fin
+17.11	mind	spered
+17.11	mind	soɲj
+17.13	think (= reflect)	soɲjal
+17.14	think (= be of the opinion)	krediɲ
+17.15	believe	krediɲ
+17.16	understand	kompren
+17.16	understand	intent
+17.17	know	gouzoud
+17.171	guess	divinoud
+17.172	imitate	difrêz
+17.18	seem	seblantoud
+17.19	idea, notion	ide
+17.21	wise	fur
+17.21	wise	disket
+17.22	foolish, stupid	diod
+17.22	foolish, stupid	sod
+17.23	insane, crazy	sod
+17.23	insane, crazy	diskiant
+17.24	learn	deskiɲ
+17.242	study	studial
+17.25	teach	deskiɲ
+17.25	teach	kelenn
+17.26	pupil	skoliad
+17.26	pupil	bugel
+17.27	teacher	mestr
+17.27	teacher	skolaer
+17.28	school	skol
+17.31	remember	kaoudsoɲj
+17.32	forget	ankounac'haad
+17.32	forget	ankouaad
+17.32	forget	dizoɲjal
+17.34	clear, plain	sklaer
+17.35	obscure	diezdagompren
+17.36	secret	kuzed
+17.36	secret	sekred
+17.37	sure, certain	sur
+17.38	explain	diskleriaɲ
+17.38	explain	esplikoud
+17.41	intention, purpose	pal
+17.42	cause	bezaɲkaoz
+17.43	doubt	kaouddouetaɲs
+17.44	suspect	kaouddisfi
+17.441	betray	traisaɲ
+17.45	need, necessity	ezomm
+17.45	need, necessity	afer
+17.46	easy	êz
+17.46	easy	êzed
+17.47	difficult	diêz
+17.48	try, attempt	êsa
+17.49	way, manner	stumm
+17.49	way, manner	doare
+17.51	and	hag
+17.51	and	ha
+17.52	because	peogwir
+17.52	because	abalamour
+17.53	if	ma
+17.53	if	mar
+17.54	or	pe
+17.55	yes, affirmative	ya
+17.56	no, negative	nann
+17.61	how?	penaoz?peseurtmod?
+17.62	how many?	ped?
+17.63	how much?	pegement?
+17.64	what?	petra?
+17.65	when?	pegoulz?peur?pevare?pedavare?
+17.66	where?	peleh?
+17.67	which?	pehini?
+17.68	who?	piou?
+17.69	why?	perag?abelamourdebetra?
+18.11	voice	mouez
+18.12	sing	kanaɲ
+18.13	shout, cry out	krial
+18.15	whisper	chuchuiɲ
+18.16	mumble	draillaɲ
+18.16	mumble	balbouzad
+18.17	whistle	c’hwitellad
+18.17	whistle	c’hwistellad
+18.18	shriek, screech	youhal
+18.19	howl	houal
+18.19	howl	hudal
+18.21	speak, talk	komz
+18.21	speak, talk	kozeal
+18.21	speak, talk	savar
+18.21	speak, talk	preg
+18.21	speak, talk	precha
+18.211	stutter, stammer	saoznegiɲ
+18.211	stutter, stammer	bezaaretetdagaozeal
+18.22	say	lavared
+18.22	say	lared
+18.221	tell story	kontaɲ
+18.222	speech (make a)	kozeadenn
+18.23	silent (be)	tevel
+18.24	language	yez
+18.24	language	langaj
+18.26	word	ger
+18.26	word	komz
+18.26	word	poz
+18.28	name	hano
+18.31	ask (question, inquire)	goulenn
+18.31	ask (question, inquire)	goull
+18.32	answer	respont
+18.33	admit, confess	anzao
+18.33	admit, confess	kouzantiɲ
+18.34	deny	nah
+18.35	ask, request	goulenn
+18.35	ask, request	goull
+18.36	promise	prometiɲ
+18.37	refuse	nah
+18.38	forbid	divenn
+18.39	rebuke, scold	obertrouz
+18.41	call (=summon)	gervel
+18.41	call (=summon)	gelver
+18.42	call (=name)	bezaɲanvet
+18.43	announce	kemenn
+18.43	announce	embann
+18.44	threaten	gourdrouz
+18.45	boast	fougeal
+18.51	write	skrivaɲ
+18.52	read	lenn
+18.56	paper	paper
+18.57	pen	pluenn
+18.61	book	levr
+18.67	poet	barz
+18.71	flute	fleüt
+18.72	drum	taboulin
+18.73	horn, trumpet	trompill
+19.11	country	bro
+19.12	one's native country	bro
+19.15	city, town	kervraz
+19.16	village	keriadenn
+19.16	village	bilajenn
+19.17	boundary	harzou
+19.17	boundary	bordou
+19.21	people (populace)	tud
+19.21	people (populace)	pobl
+19.25	staff, walking stick	baz
+19.25	staff, walking stick	pennbaz
+19.31	rule, govern	ren
+19.32	king, ruler	roue
+19.33	queen	rouanez
+19.36	noble, nobleman	nobl
+19.41	master	mestr
+19.41	master	aotrou
+19.42	slave	sklav
+19.43	servant	mevel
+19.43	servant	matez
+19.45	command, order	gourhemenn
+19.45	command, order	komandiɲ
+19.46	obey	sentiɲ
+19.47	let, permit	lezel
+19.51	friend, companion	mignon
+19.51	friend, companion	kamarad
+19.52	enemy	enebour
+19.54	neighbor	amezeg
+19.55	stranger	estren
+19.55	stranger	dendiavez
+19.56	guest	ostiz
+19.57	host	ostiz
+19.58	help, aid	sikour
+19.59	hinder, prevent	herzel
+19.59	hinder, prevent	mired
+19.59	hinder, prevent	ampich
+19.61	custom	boaz
+19.61	custom	giz
+19.61	custom	kustum
+19.62	strife, quarrel	bazad
+19.62	strife, quarrel	chikan
+19.65	meet	enemgavoudgand
+19.72	prostitute	gast
+20.11	fight (vb)	enemgannaɲ
+20.13	war, battle	brezel
+20.14	peace	peoh
+20.15	army	arme
+20.17	soldier	soudard
+20.21	weapons, arms	armou
+20.22	club	pennbaz
+20.23	sling	batalm
+20.23	sling	talm
+20.24	bow	gwareg
+20.25	arrow	bir
+20.25	arrow	saez
+20.26	spear	goaf
+20.27	sword	kleze
+20.28	gun, cannon	fuzuill
+20.28	gun, cannon	kanol
+20.28	gun, cannon	kanon
+20.33	helmet	tokhouarn
+20.33	helmet	kask
+20.34	shield	skoed
+20.35	fortress	kastell
+20.36	tower	tour
+20.41	victory	treh
+20.43	attack	atakiɲ
+20.44	defend	divenn
+20.44	defend	stourmouz
+20.45	retreat	kilaɲ
+20.45	retreat	souzaɲ
+20.46	surrender	enemrentaɲ
+20.47	captive, prisoner	prizonier
+20.471	guard, sentinel	gardian
+20.48	booty, spoils	preiz
+20.51	fisherman	pesketaer
+20.52	fishhook	higenn
+20.53	fishing line	linenn
+20.54	fishnet	roued
+20.56	bait	boued
+20.61	hunt	chaseal
+20.62	shoot	tennaɲ
+20.63	miss (target)	c’hwitoud
+20.64	trap (noun)	pech
+20.64	trap (noun)	trap
+20.65	trap (vb)	tapoudeneurpech
+20.65	trap (vb)	tapoudeneurtrap
+21.11	law	lezenn
+21.11	law	lezennou
+21.15	court	lezvarn
+21.16	judge (vb)	barn
+21.17	judgment	barn
+21.17	judgment	barnedigez
+21.18	judge (noun)	barner
+21.23	witness	test
+21.24	swear	touiɲ
+21.25	oath	le
+21.31	accuse	tamall
+21.32	condemn	barn
+21.32	condemn	kondaoniɲ
+21.33	convict (vb)	kavoudkabluz
+21.34	acquit	didamall
+21.35	guilty	kabluz
+21.35	guilty	koupabl
+21.37	penalty, punishment	pinijenn
+21.38	fine	amant
+21.39	prison, jail	prizon
+21.42	murder	muntr
+21.43	adultery	avoultriez
+21.46	arson	tangwall
+21.47	perjury	lefaos
+21.51	steal	laerez
+21.52	thief	laer

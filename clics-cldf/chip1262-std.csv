@@ -1,0 +1,943 @@
+ID,Language_ID,Feature_ID,IDS_Key,Value,Concept,IPA_UDECODE
+clics-doculect-129-1,chip1262-std,concepticon-626,1.21,yoḳa,"earth, land",yoka
+clics-doculect-129-2,chip1262-std,concepticon-1228,1.212,yoḳa,"earth=ground, soil",yoka
+clics-doculect-129-3,chip1262-std,concepticon-2,1.213,ṣ̌ḳeti,dust,sketi
+clics-doculect-129-4,chip1262-std,concepticon-640,1.214,lxoki,mud,lxoki
+clics-doculect-129-5,chip1262-std,concepticon-671,1.215,pʰila,sand,pkila
+clics-doculect-129-6,chip1262-std,concepticon-2118,1.22,kuru,"mountain, hill",kuru
+clics-doculect-129-7,chip1262-std,concepticon-652,1.23,šḳala,"plain, field",skala
+clics-doculect-129-8,chip1262-std,concepticon-948,1.31,ḳʰaš,water,kkas
+clics-doculect-129-9,chip1262-std,concepticon-258,1.322,šexḳ,calm (of sea),sexk
+clics-doculect-129-10,chip1262-std,concepticon-1768,1.324,č̣ˀutu,foam,c?utu
+clics-doculect-129-11,chip1262-std,concepticon-624,1.33,x̣oči,lake,xoci
+clics-doculect-129-12,chip1262-std,concepticon-978,1.35,lxoḳxi,wave,lxokxi
+clics-doculect-129-13,chip1262-std,concepticon-666,1.36,puxu,"river, stream, brook",puxu
+clics-doculect-129-14,chip1262-std,concepticon-2144,1.37,pʰoma,"spring, well",pkoma
+clics-doculect-129-15,chip1262-std,concepticon-2144,1.37,tux,"spring, well",tux
+clics-doculect-129-16,chip1262-std,concepticon-420,1.41,muntinaka,"woods, forest",muntinaka
+clics-doculect-129-18,chip1262-std,concepticon-1803,1.43,para,wood,para
+clics-doculect-129-19,chip1262-std,concepticon-2125,1.44,č̣ara,"stone, rock",cara
+clics-doculect-129-20,chip1262-std,concepticon-2125,1.44,maš,"stone, rock",mas
+clics-doculect-129-21,chip1262-std,concepticon-1732,1.51,arax̣pača,sky,araxpaca
+clics-doculect-129-22,chip1262-std,concepticon-1732,1.51,pača,sky,paca
+clics-doculect-129-23,chip1262-std,concepticon-1343,1.52,tʰuɲi,sun,tkuni
+clics-doculect-129-24,chip1262-std,concepticon-1313,1.53,xiiš,moon,xiis
+clics-doculect-129-25,chip1262-std,concepticon-1430,1.54,warawara,star,warawara
+clics-doculect-129-26,chip1262-std,concepticon-1654,1.55,lʸiwxlʸiwxɲi,lightning,lyiwxlyiwxni
+clics-doculect-129-27,chip1262-std,concepticon-1150,1.56,xorxorɲi,thunder,xorxorni
+clics-doculect-129-28,chip1262-std,concepticon-858,1.58,pʰursantitʰami,storm,pkursantitkami
+clics-doculect-129-29,chip1262-std,concepticon-1733,1.59,kumari,rainbow,kumari
+clics-doculect-129-30,chip1262-std,concepticon-630,1.61,kx̣ana,light (noun),kxana
+clics-doculect-129-31,chip1262-std,concepticon-11,1.62,ṣumči,darkness,sumci
+clics-doculect-129-32,chip1262-std,concepticon-1388,1.63,šiwš,"shade, shadow",siws
+clics-doculect-129-33,chip1262-std,concepticon-1977,1.64,pʰewi,dew,pkewi
+clics-doculect-129-34,chip1262-std,concepticon-27,1.71,kera,air,kera
+clics-doculect-129-35,chip1262-std,concepticon-960,1.72,tʰami,wind,tkami
+clics-doculect-129-36,chip1262-std,concepticon-1489,1.73,c̷xiri,cloud,cxiri
+clics-doculect-129-37,chip1262-std,concepticon-658,1.75,čixɲi,rain (noun),cixni
+clics-doculect-129-38,chip1262-std,concepticon-784,1.76,ḳʰatɲi,snow (noun),kkatni
+clics-doculect-129-39,chip1262-std,concepticon-617,1.77,uyi,ice,uyi
+clics-doculect-129-40,chip1262-std,concepticon-221,1.81,ux,fire,ux
+clics-doculect-129-41,chip1262-std,concepticon-778,1.83,ṣ̌ḳeti,smoke (noun),sketi
+clics-doculect-129-42,chip1262-std,concepticon-646,1.84,ḳʰup,ashes,kkup
+clics-doculect-129-43,chip1262-std,concepticon-67,1.841,uxparasa,embers,uxparasa
+clics-doculect-129-44,chip1262-std,concepticon-141,1.851,tanḳat,burn (vb trans),tankat
+clics-doculect-129-45,chip1262-std,concepticon-141,1.851,tʰapš,burn (vb trans),tkaps
+clics-doculect-129-46,chip1262-std,concepticon-1428,1.852,tʰapš,burn (vb intrans),tkaps
+clics-doculect-129-47,chip1262-std,concepticon-737,1.86,pekš,"light, kindle, ignite",peks
+clics-doculect-129-48,chip1262-std,concepticon-737,1.86,uxpeḳš,"light, kindle, ignite",uxpeks
+clics-doculect-129-49,chip1262-std,concepticon-10,1.88,ṣ̌up,firewood,sup
+clics-doculect-129-50,chip1262-std,concepticon-683,2.1,ṣ̌oɲi,"person, human being",soni
+clics-doculect-129-51,chip1262-std,concepticon-1554,2.21,luktaḳa,man (vs. woman),luktaka
+clics-doculect-129-52,chip1262-std,concepticon-1554,2.21,ṣ̌oɲi,man (vs. woman),soni
+clics-doculect-129-53,chip1262-std,concepticon-962,2.22,maataḳa,woman,maataka
+clics-doculect-129-54,chip1262-std,concepticon-962,2.22,ṣ̌on,woman,son
+clics-doculect-129-55,chip1262-std,concepticon-1553,2.23,ker,male,ker
+clics-doculect-129-56,chip1262-std,concepticon-1553,2.23,keru,male,keru
+clics-doculect-129-57,chip1262-std,concepticon-1551,2.24,lxata,female,lxata
+clics-doculect-129-58,chip1262-std,concepticon-1366,2.25,lukmaxč,boy,lukmaxc
+clics-doculect-129-59,chip1262-std,concepticon-76,2.251,pˀišu,young man (adolescent),p?isu
+clics-doculect-129-60,chip1262-std,concepticon-1646,2.26,uš,girl,us
+clics-doculect-129-61,chip1262-std,concepticon-77,2.261,pˀiš,young woman (adolescent),p?is
+clics-doculect-129-62,chip1262-std,concepticon-77,2.261,tur,young woman (adolescent),tur
+clics-doculect-129-63,chip1262-std,concepticon-77,2.261,tura,young woman (adolescent),tura
+clics-doculect-129-64,chip1262-std,concepticon-1304,2.27,lukmaxč,child,lukmaxc
+clics-doculect-129-65,chip1262-std,concepticon-1289,2.28,čula,"infant, baby",cula
+clics-doculect-129-66,chip1262-std,concepticon-1200,2.31,luko,husband,luko
+clics-doculect-129-67,chip1262-std,concepticon-1200,2.31,luktaḳa,husband,luktaka
+clics-doculect-129-68,chip1262-std,concepticon-1199,2.32,tʰun,wife,tkun
+clics-doculect-129-69,chip1262-std,concepticon-203,2.33,šalš,marry,sals
+clics-doculect-129-70,chip1262-std,concepticon-1259,2.34,šalšpʰixšta,"marriage, wedding",salspkixsta
+clics-doculect-129-71,chip1262-std,concepticon-1134,2.341,xalxtaš,divorce,xalxtas
+clics-doculect-129-72,chip1262-std,concepticon-1217,2.35,exp,father,exp
+clics-doculect-129-73,chip1262-std,concepticon-1216,2.36,mama,mother,mama
+clics-doculect-129-74,chip1262-std,concepticon-1216,2.36,maa,mother,maa
+clics-doculect-129-75,chip1262-std,concepticon-505,2.37,maaexp,parents,maaexp
+clics-doculect-129-76,chip1262-std,concepticon-424,2.38,luktaḳa,married man,luktaka
+clics-doculect-129-77,chip1262-std,concepticon-426,2.39,tʰun,married woman,tkun
+clics-doculect-129-78,chip1262-std,concepticon-1620,2.41,maxč,son,maxc
+clics-doculect-129-79,chip1262-std,concepticon-1357,2.42,maxt,daughter,maxt
+clics-doculect-129-80,chip1262-std,concepticon-1801,2.43,mati,offspring (son or daughter),mati
+clics-doculect-129-81,chip1262-std,concepticon-1262,2.44,xila,brother,xila
+clics-doculect-129-82,chip1262-std,concepticon-1759,2.444,xila,older brother,xila
+clics-doculect-129-83,chip1262-std,concepticon-1760,2.445,laxk,younger brother,laxk
+clics-doculect-129-84,chip1262-std,concepticon-1263,2.45,kulʸaka,sister,kulyaka
+clics-doculect-129-85,chip1262-std,concepticon-1761,2.455,laxk,younger sister,laxk
+clics-doculect-129-86,chip1262-std,concepticon-1005,2.458,pača,twins,paca
+clics-doculect-129-87,chip1262-std,concepticon-1383,2.46,matɲilʸa,grandfather,matnilya
+clics-doculect-129-88,chip1262-std,concepticon-406,2.461,čawk,old man,cawk
+clics-doculect-129-89,chip1262-std,concepticon-406,2.461,čawkʷa,old man,cawkwa
+clics-doculect-129-90,chip1262-std,concepticon-1496,2.47,matilʸa,grandmother,matilya
+clics-doculect-129-91,chip1262-std,concepticon-907,2.471,čawkʷa,old woman,cawkwa
+clics-doculect-129-92,chip1262-std,concepticon-907,2.471,matilʸa,old woman,matilya
+clics-doculect-129-93,chip1262-std,concepticon-1327,2.51,tulu,uncle,tulu
+clics-doculect-129-94,chip1262-std,concepticon-1272,2.52,ipala,aunt,ipala
+clics-doculect-129-95,chip1262-std,concepticon-1272,2.52,upli,aunt,upli
+clics-doculect-129-96,chip1262-std,concepticon-1272,2.52,malaḳa,aunt,malaka
+clics-doculect-129-97,chip1262-std,concepticon-2255,2.61,axmušexp,father-in-law (of a man),axmusexp
+clics-doculect-129-98,chip1262-std,concepticon-2254,2.611,ḳʰiɲi,father-in-law (of a woman),kkini
+clics-doculect-129-99,chip1262-std,concepticon-2256,2.62,axmušmaa,mother-in-law (of a man),axmusmaa
+clics-doculect-129-100,chip1262-std,concepticon-2267,2.63,waši,son-in-law (of a man),wasi
+clics-doculect-129-101,chip1262-std,concepticon-237,2.71,wiriexp,stepfather,wiriexp
+clics-doculect-129-102,chip1262-std,concepticon-236,2.72,wirimaa,stepmother,wirimaa
+clics-doculect-129-103,chip1262-std,concepticon-1149,2.75,axara,orphan,axara
+clics-doculect-129-104,chip1262-std,concepticon-1756,2.76,ṣ̌ew,widow,sew
+clics-doculect-129-105,chip1262-std,concepticon-1981,2.77,ṣ̌ewa,widower,sewa
+clics-doculect-129-106,chip1262-std,concepticon-1209,2.91,werx,I,werx
+clics-doculect-129-107,chip1262-std,concepticon-1209,2.91,wexrki,I,wexrki
+clics-doculect-129-108,chip1262-std,concepticon-1215,2.92,am,you (singular),am
+clics-doculect-129-109,chip1262-std,concepticon-262,2.93,tii,he/she/it,tii
+clics-doculect-129-110,chip1262-std,concepticon-262,2.93,nii,he/she/it,nii
+clics-doculect-129-111,chip1262-std,concepticon-262,2.93,naa,he/she/it,naa
+clics-doculect-129-112,chip1262-std,concepticon-1131,2.941,uč̣um,we (inclusive),ucum
+clics-doculect-129-113,chip1262-std,concepticon-1130,2.942,wexrnaka,we (exclusive),wexrnaka
+clics-doculect-129-114,chip1262-std,concepticon-1213,2.95,anč̣ʰuk,you (plural),anckuk
+clics-doculect-129-115,chip1262-std,concepticon-817,2.96,ninaka,they,ninaka
+clics-doculect-129-116,chip1262-std,concepticon-2261,3.12,ker,male (adj),ker
+clics-doculect-129-117,chip1262-std,concepticon-2262,3.13,lxat,female (adj),lxat
+clics-doculect-129-118,chip1262-std,concepticon-649,3.16,axk,pasture,axk
+clics-doculect-129-119,chip1262-std,concepticon-649,3.16,x̣oṣ̌a,pasture,xosa
+clics-doculect-129-120,chip1262-std,concepticon-263,3.18,awatiri,herdsman,awatiri
+clics-doculect-129-121,chip1262-std,concepticon-1337,3.35,ḳiri,pig,kiri
+clics-doculect-129-122,chip1262-std,concepticon-1337,3.35,kˀami,pig,k?ami
+clics-doculect-129-123,chip1262-std,concepticon-1511,3.52,kerwalʸpa,"cock, rooster",kerwalypa
+clics-doculect-129-124,chip1262-std,concepticon-1514,3.54,lxatwalʸpa,hen,lxatwalypa
+clics-doculect-129-125,chip1262-std,concepticon-1318,3.55,walʸpa,chicken,walypa
+clics-doculect-129-126,chip1262-std,concepticon-1360,3.57,ḳaša,duck,kasa
+clics-doculect-129-127,chip1262-std,concepticon-539,3.58,tʰura,nest,tkura
+clics-doculect-129-128,chip1262-std,concepticon-937,3.581,weṣ̌la,bird,wesla
+clics-doculect-129-129,chip1262-std,concepticon-307,3.585,ṣ̌ḳara,hawk,skara
+clics-doculect-129-130,chip1262-std,concepticon-307,3.585,mamani,hawk,mamani
+clics-doculect-129-131,chip1262-std,concepticon-1793,3.591,čiɲa,bat,cina
+clics-doculect-129-132,chip1262-std,concepticon-735,3.596,ḳoṣ̌ka,owl,koska
+clics-doculect-129-133,chip1262-std,concepticon-2009,3.61,paḳu,dog,paku
+clics-doculect-129-134,chip1262-std,concepticon-2139,3.63,ačiku,"mouse, rat",aciku
+clics-doculect-129-135,chip1262-std,concepticon-2139,3.63,ačuku,"mouse, rat",acuku
+clics-doculect-129-136,chip1262-std,concepticon-227,3.65,čˀiš,fish,c?is
+clics-doculect-129-137,chip1262-std,concepticon-227,3.65,c̷ˀirḳa,fish,c?irka
+clics-doculect-129-138,chip1262-std,concepticon-1312,3.74,ḳiti,fox,kiti
+clics-doculect-129-139,chip1262-std,concepticon-1392,3.811,sami,louse,sami
+clics-doculect-129-140,chip1262-std,concepticon-267,3.812,sḳora,nit (louse egg),skora
+clics-doculect-129-141,chip1262-std,concepticon-1538,3.815,yeḳˀačuŋkʰa,scorpion,yek?acuNGkka
+clics-doculect-129-142,chip1262-std,concepticon-587,3.817,kˀišimiri,ant,k?isimiri
+clics-doculect-129-143,chip1262-std,concepticon-843,3.818,kalʸakalʸa,spider,kalyakalya
+clics-doculect-129-144,chip1262-std,concepticon-1517,3.823,uxuxɲi,wasp,uxuxni
+clics-doculect-129-145,chip1262-std,concepticon-1504,3.83,lorakana,fly,lorakana
+clics-doculect-129-146,chip1262-std,concepticon-95,3.831,smoya,"sandfly (midge), gnat",smoya
+clics-doculect-129-147,chip1262-std,concepticon-730,3.85,šḳora,snake,skora
+clics-doculect-129-148,chip1262-std,concepticon-1791,3.92,pilpinti,butterfly,pilpinti
+clics-doculect-129-149,chip1262-std,concepticon-503,3.95,škiča,frog,skica
+clics-doculect-129-150,chip1262-std,concepticon-632,3.96,pʰixšḳa,lizard,pkixska
+clics-doculect-129-151,chip1262-std,concepticon-1480,4.11,xanči,body,xanci
+clics-doculect-129-152,chip1262-std,concepticon-763,4.12,šḳiši,"skin, hide",skisi
+clics-doculect-129-153,chip1262-std,concepticon-2259,4.13,čʰišwi,flesh,ckiswi
+clics-doculect-129-154,chip1262-std,concepticon-1040,4.14,čara,hair (head),cara
+clics-doculect-129-155,chip1262-std,concepticon-678,4.142,šip,beard,sip
+clics-doculect-129-156,chip1262-std,concepticon-678,4.142,šipš,beard,sips
+clics-doculect-129-157,chip1262-std,concepticon-189,4.144,šakra,body hair,sakra
+clics-doculect-129-158,chip1262-std,concepticon-36,4.145,šara,pubic hair,sara
+clics-doculect-129-159,chip1262-std,concepticon-576,4.146,ḳʰixrpa,dandruff,kkixrpa
+clics-doculect-129-160,chip1262-std,concepticon-946,4.15,lxok,blood,lxok
+clics-doculect-129-161,chip1262-std,concepticon-525,4.151,č̣ˀiwu,"vein, artery",c?iwu
+clics-doculect-129-162,chip1262-std,concepticon-1394,4.16,c̷ʰix,bone,ckix
+clics-doculect-129-163,chip1262-std,concepticon-801,4.162,paki,rib,paki
+clics-doculect-129-164,chip1262-std,concepticon-1393,4.17,irkeirke,horn,irkeirke
+clics-doculect-129-165,chip1262-std,concepticon-1220,4.18,kʰurš,tail,kkurs
+clics-doculect-129-166,chip1262-std,concepticon-1291,4.19,tax,back,tax
+clics-doculect-129-167,chip1262-std,concepticon-805,4.191,tax,spine,tax
+clics-doculect-129-168,chip1262-std,concepticon-1256,4.2,ača,head,aca
+clics-doculect-129-169,chip1262-std,concepticon-1605,4.202,ačc̷ʰix,skull,acckix
+clics-doculect-129-170,chip1262-std,concepticon-1583,4.203,šḳʰex̣pla,brain,skkexpla
+clics-doculect-129-171,chip1262-std,concepticon-1560,4.204,yuxk,face,yuxk
+clics-doculect-129-172,chip1262-std,concepticon-123,4.205,aya,forehead,aya
+clics-doculect-129-173,chip1262-std,concepticon-1730,4.208,yuxklatu,cheek,yuxklatu
+clics-doculect-129-174,chip1262-std,concepticon-1248,4.21,č̣ʰuxki,eye,ckuxki
+clics-doculect-129-175,chip1262-std,concepticon-17,4.213,č̣ʰuxkata,eyelid,ckuxkata
+clics-doculect-129-176,chip1262-std,concepticon-1540,4.214,č̣ʰuxkc̷ems,eyelash,ckuxkcems
+clics-doculect-129-177,chip1262-std,concepticon-1655,4.215,čˀipinš,blink,c?ipins
+clics-doculect-129-178,chip1262-std,concepticon-1247,4.22,kʰuɲi,ear,kkuni
+clics-doculect-129-179,chip1262-std,concepticon-18,4.221,kʰuɲlapʰi,earlobe,kkunlapki
+clics-doculect-129-180,chip1262-std,concepticon-1221,4.23,oša,nose,osa
+clics-doculect-129-181,chip1262-std,concepticon-1178,4.231,ošpʰeta,nostril,ospketa
+clics-doculect-129-182,chip1262-std,concepticon-208,4.232,oša,mucus (nasal),osa
+clics-doculect-129-183,chip1262-std,concepticon-674,4.24,ata,mouth,ata
+clics-doculect-129-184,chip1262-std,concepticon-73,4.241,oša,beak,osa
+clics-doculect-129-185,chip1262-std,concepticon-478,4.25,atpulu,lip,atpulu
+clics-doculect-129-186,chip1262-std,concepticon-1205,4.26,las,tongue,las
+clics-doculect-129-187,chip1262-std,concepticon-1380,4.27,iṣ̌ḳe,tooth,iske
+clics-doculect-129-188,chip1262-std,concepticon-1049,4.272,iṣ̌ḳe,molartooth,iske
+clics-doculect-129-189,chip1262-std,concepticon-1333,4.28,ḳaši,neck,kasi
+clics-doculect-129-190,chip1262-std,concepticon-1347,4.281,tota,nape of neck,tota
+clics-doculect-129-191,chip1262-std,concepticon-1346,4.29,x̣ora,throat,xora
+clics-doculect-129-192,chip1262-std,concepticon-1482,4.3,ɲiɲi,shoulder,nini
+clics-doculect-129-193,chip1262-std,concepticon-172,4.301,asḳara,shoulderblade,askara
+clics-doculect-129-194,chip1262-std,concepticon-1673,4.31,ḳx̣arwičˀu,arm,kxarwic?u
+clics-doculect-129-195,chip1262-std,concepticon-981,4.32,kʰuxc̷,elbow,kkuxc
+clics-doculect-129-196,chip1262-std,concepticon-799,4.321,ḳx̣armoko,wrist,kxarmoko
+clics-doculect-129-197,chip1262-std,concepticon-1277,4.33,ḳxara,hand,kxara
+clics-doculect-129-198,chip1262-std,concepticon-1183,4.331,ḳx̣arkota,palm of hand,kxarkota
+clics-doculect-129-199,chip1262-std,concepticon-1303,4.34,lokˀana,finger,lok?ana
+clics-doculect-129-200,chip1262-std,concepticon-1781,4.342,čaxʷkšmari,thumb,caxwksmari
+clics-doculect-129-201,chip1262-std,concepticon-1258,4.344,isɲi,fingernail,isni
+clics-doculect-129-202,chip1262-std,concepticon-1297,4.35,lis,leg,lis
+clics-doculect-129-203,chip1262-std,concepticon-800,4.351,č̣oḳḳome,thigh,cokkome
+clics-doculect-129-204,chip1262-std,concepticon-498,4.352,tˀušu,calf of leg,t?usu
+clics-doculect-129-205,chip1262-std,concepticon-1371,4.36,owa,knee,owa
+clics-doculect-129-206,chip1262-std,concepticon-1301,4.37,ḳx̣oxča,foot,kxoxca
+clics-doculect-129-207,chip1262-std,concepticon-1389,4.38,lokˀana,toe,lok?ana
+clics-doculect-129-208,chip1262-std,concepticon-1257,4.392,ḳx̣ara,wing,kxara
+clics-doculect-129-209,chip1262-std,concepticon-1201,4.393,pʰaši,feather,pkasi
+clics-doculect-129-210,chip1262-std,concepticon-1592,4.4,keka,chest,keka
+clics-doculect-129-211,chip1262-std,concepticon-1402,4.41,piš,breast (of woman),pis
+clics-doculect-129-212,chip1262-std,concepticon-796,4.412,piš,"nipple, teat",pis
+clics-doculect-129-213,chip1262-std,concepticon-1838,4.43,toɲi,navel,toni
+clics-doculect-129-214,chip1262-std,concepticon-1223,4.44,ḳuš,heart,kus
+clics-doculect-129-215,chip1262-std,concepticon-1223,4.44,tuši,heart,tusi
+clics-doculect-129-216,chip1262-std,concepticon-688,4.441,č̣ʰoxri,lung,ckoxri
+clics-doculect-129-217,chip1262-std,concepticon-1224,4.45,pʰaaxtš,liver,pkaaxts
+clics-doculect-129-218,chip1262-std,concepticon-489,4.451,škoši,kidney,skosi
+clics-doculect-129-219,chip1262-std,concepticon-819,4.46,pʰuč,stomach,pkuc
+clics-doculect-129-220,chip1262-std,concepticon-1991,4.461,walu,"intestines, guts",walu
+clics-doculect-129-221,chip1262-std,concepticon-1745,4.463,tarš,hip,tars
+clics-doculect-129-222,chip1262-std,concepticon-834,4.464,wiri,buttocks,wiri
+clics-doculect-129-223,chip1262-std,concepticon-804,4.47,ikš,womb,iks
+clics-doculect-129-224,chip1262-std,concepticon-797,4.49,šiɲi,testicle,sini
+clics-doculect-129-225,chip1262-std,concepticon-1222,4.492,ḳʰixški,penis,kkixski
+clics-doculect-129-226,chip1262-std,concepticon-1407,4.51,xex,"breathe, breath",xex
+clics-doculect-129-227,chip1262-std,concepticon-1407,4.51,xexa,"breathe, breath",xexa
+clics-doculect-129-228,chip1262-std,concepticon-162,4.521,xikˀiš,hiccough,xik?is
+clics-doculect-129-229,chip1262-std,concepticon-879,4.53,tʰapi,cough,tkapi
+clics-doculect-129-230,chip1262-std,concepticon-1621,4.54,xačˀiš,sneeze,xac?is
+clics-doculect-129-231,chip1262-std,concepticon-126,4.55,pʰalanš,perspire,pkalans
+clics-doculect-129-232,chip1262-std,concepticon-126,4.55,pʰats,perspire,pkats
+clics-doculect-129-233,chip1262-std,concepticon-1440,4.56,tʰuxtš,spit,tkuxts
+clics-doculect-129-234,chip1262-std,concepticon-1440,4.56,lomi,spit,lomi
+clics-doculect-129-235,chip1262-std,concepticon-1440,4.56,tʰaxrki,spit,tkaxrki
+clics-doculect-129-236,chip1262-std,concepticon-1278,4.57,x̣otš,vomit,xots
+clics-doculect-129-237,chip1262-std,concepticon-1403,4.58,tʰup,bite,tkup
+clics-doculect-129-238,chip1262-std,concepticon-1403,4.58,č̣ˀatš,bite,c?ats
+clics-doculect-129-239,chip1262-std,concepticon-319,4.59,is,lick,is
+clics-doculect-129-240,chip1262-std,concepticon-1585,4.61,tx̣ax̣,sleep,txax
+clics-doculect-129-241,chip1262-std,concepticon-1983,4.612,x̣oranš,snore,xorans
+clics-doculect-129-242,chip1262-std,concepticon-1920,4.62,wiya,dream,wiya
+clics-doculect-129-243,chip1262-std,concepticon-1602,4.63,waxt,wake up,waxt
+clics-doculect-129-244,chip1262-std,concepticon-1159,4.64,č̣ʰixc̷,break wind,ckixc
+clics-doculect-129-245,chip1262-std,concepticon-592,4.65,šawxš,urinate,sawxs
+clics-doculect-129-246,chip1262-std,concepticon-592,4.65,šaxwi,urinate,saxwi
+clics-doculect-129-247,chip1262-std,concepticon-592,4.65,šawxwi,urinate,sawxwi
+clics-doculect-129-248,chip1262-std,concepticon-676,4.66,ṣ̌ḳonš,defecate,skons
+clics-doculect-129-249,chip1262-std,concepticon-1785,4.67,ɲekš,have sexual intercourse,neks
+clics-doculect-129-250,chip1262-std,concepticon-1785,4.67,iš,have sexual intercourse,is
+clics-doculect-129-251,chip1262-std,concepticon-52,4.68,čeḳʰinš,shiver,cekkins
+clics-doculect-129-252,chip1262-std,concepticon-138,4.69,awxs,bathe,awxs
+clics-doculect-129-253,chip1262-std,concepticon-1152,4.71,expč̣a,beget (of father),expca
+clics-doculect-129-254,chip1262-std,concepticon-1090,4.72,maxtš,born (to be),maxts
+clics-doculect-129-255,chip1262-std,concepticon-1090,4.72,torš,born (to be),tors
+clics-doculect-129-256,chip1262-std,concepticon-1123,4.73,ik,pregnant,ik
+clics-doculect-129-257,chip1262-std,concepticon-1422,4.74,ṣ̌etš,"live, living, life",sets
+clics-doculect-129-258,chip1262-std,concepticon-1422,4.74,ṣ̌eti,"live, living, life",seti
+clics-doculect-129-259,chip1262-std,concepticon-1494,4.75,tikš,"die, dead",tiks
+clics-doculect-129-260,chip1262-std,concepticon-1494,4.75,tikč̣a,"die, dead",tikca
+clics-doculect-129-261,chip1262-std,concepticon-1904,4.751,šḳexḳš,drowned,skexks
+clics-doculect-129-262,chip1262-std,concepticon-1417,4.76,kon,kill,kon
+clics-doculect-129-263,chip1262-std,concepticon-767,4.77,šerwi,corpse,serwi
+clics-doculect-129-264,chip1262-std,concepticon-785,4.81,aši,"strong, mighty, powerful",asi
+clics-doculect-129-265,chip1262-std,concepticon-785,4.81,tʰupi,"strong, mighty, powerful",tkupi
+clics-doculect-129-266,chip1262-std,concepticon-1601,4.82,šwxax̣li,weak,swxaxli
+clics-doculect-129-267,chip1262-std,concepticon-1601,4.82,šwxax̣lu,weak,swxaxlu
+clics-doculect-129-268,chip1262-std,concepticon-1364,4.83,ṣ̌etči,"well, health",setci
+clics-doculect-129-269,chip1262-std,concepticon-1364,4.83,ṣ̌etiṣ̌exl,"well, health",setisexl
+clics-doculect-129-270,chip1262-std,concepticon-1847,4.84,kona,"sick, sickness",kona
+clics-doculect-129-271,chip1262-std,concepticon-1847,4.84,laa,"sick, sickness",laa
+clics-doculect-129-272,chip1262-std,concepticon-1847,4.84,laači,"sick, sickness",laaci
+clics-doculect-129-273,chip1262-std,concepticon-1534,4.841,č̣ˀuxlɲi,fever,c?uxlni
+clics-doculect-129-274,chip1262-std,concepticon-102,4.843,pišti,cold (catarrh),pisti
+clics-doculect-129-275,chip1262-std,concepticon-102,4.843,pištikona,cold (catarrh),pistikona
+clics-doculect-129-276,chip1262-std,concepticon-1109,4.85,čʰoxritš,"wound, sore",ckoxrits
+clics-doculect-129-277,chip1262-std,concepticon-1109,4.85,lʸaxa,"wound, sore",lyaxa
+clics-doculect-129-278,chip1262-std,concepticon-1903,4.853,tʰuuš,swelling,tkuus
+clics-doculect-129-279,chip1262-std,concepticon-1903,4.853,tʰuuči,swelling,tkuuci
+clics-doculect-129-280,chip1262-std,concepticon-148,4.854,kʰixsinš,itch,kkixsins
+clics-doculect-129-281,chip1262-std,concepticon-1584,4.855,pokulʸči,blister,pokulyci
+clics-doculect-129-282,chip1262-std,concepticon-497,4.858,tˀiri,scar,t?iri
+clics-doculect-129-283,chip1262-std,concepticon-499,4.86,ṣ̌etḳat,"cure, heal",setkat
+clics-doculect-129-284,chip1262-std,concepticon-1372,4.88,ḳulʸa,"medicine, drug",kulya
+clics-doculect-129-285,chip1262-std,concepticon-1757,4.91,otš,"tired, weary",ots
+clics-doculect-129-286,chip1262-std,concepticon-1757,4.91,tx̣itš,"tired, weary",txits
+clics-doculect-129-287,chip1262-std,concepticon-168,4.912,xexs,rest,xexs
+clics-doculect-129-288,chip1262-std,concepticon-168,4.912,xexš,rest,xexs
+clics-doculect-129-289,chip1262-std,concepticon-1564,4.92,xayra,lazy,xayra
+clics-doculect-129-290,chip1262-std,concepticon-1125,4.93,saxplu,bald,saxplu
+clics-doculect-129-291,chip1262-std,concepticon-320,4.94,šuču,lame,sucu
+clics-doculect-129-292,chip1262-std,concepticon-996,4.95,oɲi,deaf,oni
+clics-doculect-129-293,chip1262-std,concepticon-1666,4.96,upa,mute,upa
+clics-doculect-129-294,chip1262-std,concepticon-1653,4.97,šura,blind,sura
+clics-doculect-129-295,chip1262-std,concepticon-1463,4.98,likči,intoxicated,likci
+clics-doculect-129-296,chip1262-std,concepticon-590,4.99,ḳˀalapača,"naked, bare",k?alapaca
+clics-doculect-129-297,chip1262-std,concepticon-590,4.99,ḳˀala,"naked, bare",k?ala
+clics-doculect-129-298,chip1262-std,concepticon-1336,5.11,luxl,eat,luxl
+clics-doculect-129-299,chip1262-std,concepticon-1336,5.11,luxlš,eat,luxls
+clics-doculect-129-300,chip1262-std,concepticon-256,5.12,č̣ʰeri,food,ckeri
+clics-doculect-129-301,chip1262-std,concepticon-269,5.121,wexlči,cooked,wexlci
+clics-doculect-129-302,chip1262-std,concepticon-1959,5.122,ḳaata,raw,kaata
+clics-doculect-129-303,chip1262-std,concepticon-178,5.123,wexlši,ripe,wexlsi
+clics-doculect-129-304,chip1262-std,concepticon-1728,5.125,moxkči,rotten,moxkci
+clics-doculect-129-305,chip1262-std,concepticon-1401,5.13,likš,drink,liks
+clics-doculect-129-306,chip1262-std,concepticon-1864,5.14,eekš,hunger,eeks
+clics-doculect-129-307,chip1262-std,concepticon-848,5.15,eekš,thirst,eeks
+clics-doculect-129-308,chip1262-std,concepticon-1421,5.16,itš,suck,its
+clics-doculect-129-309,chip1262-std,concepticon-321,5.18,muk,chew,muk
+clics-doculect-129-310,chip1262-std,concepticon-897,5.181,tʰatč̣a,swallow,tkatca
+clics-doculect-129-311,chip1262-std,concepticon-897,5.181,tx̣atš,swallow,txats
+clics-doculect-129-312,chip1262-std,concepticon-129,5.19,šḳexḳš,choke,skexks
+clics-doculect-129-313,chip1262-std,concepticon-1100,5.21,taḳ,cook,tak
+clics-doculect-129-314,chip1262-std,concepticon-1100,5.21,wexlš,cook,wexls
+clics-doculect-129-315,chip1262-std,concepticon-2146,5.23,sanš,"roast, fry",sans
+clics-doculect-129-316,chip1262-std,concepticon-2146,5.23,wel,"roast, fry",wel
+clics-doculect-129-317,chip1262-std,concepticon-183,5.24,tˀantapaa,bake,t?antapaa
+clics-doculect-129-318,chip1262-std,concepticon-1462,5.26,ḳʰuč̣a,"pot, cooking vessel",kkuca
+clics-doculect-129-319,chip1262-std,concepticon-481,5.31,čuwa,dish,cuwa
+clics-doculect-129-320,chip1262-std,concepticon-480,5.32,kˀoru,plate,k?oru
+clics-doculect-129-321,chip1262-std,concepticon-480,5.32,čuwa,plate,cuwa
+clics-doculect-129-322,chip1262-std,concepticon-1530,5.33,kˀoru,bowl,k?oru
+clics-doculect-129-323,chip1262-std,concepticon-270,5.34,luuš,"pitcher, jug",luus
+clics-doculect-129-324,chip1262-std,concepticon-270,5.34,kewi,"pitcher, jug",kewi
+clics-doculect-129-325,chip1262-std,concepticon-1378,5.37,xʷixṣ̌lʸa,spoon,xwixslya
+clics-doculect-129-326,chip1262-std,concepticon-1526,5.41,č̣ʰeri,meal (a),ckeri
+clics-doculect-129-327,chip1262-std,concepticon-768,5.43,šima,lunch,sima
+clics-doculect-129-328,chip1262-std,concepticon-1833,5.44,šima,dinner,sima
+clics-doculect-129-329,chip1262-std,concepticon-1767,5.48,ixkš,scrape,ixks
+clics-doculect-129-330,chip1262-std,concepticon-1767,5.48,šixl,scrape,sixl
+clics-doculect-129-331,chip1262-std,concepticon-2017,5.49,tʰaranš,"stir, mix",tkarans
+clics-doculect-129-332,chip1262-std,concepticon-2017,5.49,tˀax̣s,"stir, mix",t?axs
+clics-doculect-129-333,chip1262-std,concepticon-1368,5.51,tˀanta,bread,t?anta
+clics-doculect-129-334,chip1262-std,concepticon-1594,5.55,xakˀu,"meal, flour",xak?u
+clics-doculect-129-335,chip1262-std,concepticon-1033,5.56,x̣alš,"crush, grind",xals
+clics-doculect-129-336,chip1262-std,concepticon-1033,5.56,x̣awunš,"crush, grind",xawuns
+clics-doculect-129-337,chip1262-std,concepticon-224,5.58,takira,mortar,takira
+clics-doculect-129-338,chip1262-std,concepticon-225,5.59,tʰaax,pestle,tkaax
+clics-doculect-129-339,chip1262-std,concepticon-225,5.59,txʷaax,pestle,txwaax
+clics-doculect-129-340,chip1262-std,concepticon-634,5.61,čʰišwi,meat,ckiswi
+clics-doculect-129-341,chip1262-std,concepticon-1547,5.64,xiɲa,"soup, broth",xina
+clics-doculect-129-342,chip1262-std,concepticon-593,5.7,ḳiša,potato,kisa
+clics-doculect-129-343,chip1262-std,concepticon-323,5.791,kʰewa,"grease, fat",kkewa
+clics-doculect-129-344,chip1262-std,concepticon-1274,5.81,yaku,salt,yaku
+clics-doculect-129-345,chip1262-std,concepticon-942,5.84,miskˀi,honey,misk?i
+clics-doculect-129-346,chip1262-std,concepticon-93,5.87,čˀuus,milk (vb),c?uus
+clics-doculect-129-347,chip1262-std,concepticon-404,5.94,keši,fermented drink,kesi
+clics-doculect-129-348,chip1262-std,concepticon-744,5.97,šiɲi,egg,sini
+clics-doculect-129-349,chip1262-std,concepticon-158,6.11,kuxtš,put on (clothes),kuxts
+clics-doculect-129-350,chip1262-std,concepticon-158,6.11,tʰutš,put on (clothes),tkuts
+clics-doculect-129-351,chip1262-std,concepticon-1895,6.12,škiti,"clothing, clothes",skiti
+clics-doculect-129-352,chip1262-std,concepticon-964,6.22,čoma,wool,coma
+clics-doculect-129-353,chip1262-std,concepticon-580,6.28,čara,fur,cara
+clics-doculect-129-354,chip1262-std,concepticon-629,6.29,šḳiši,leather,skisi
+clics-doculect-129-355,chip1262-std,concepticon-121,6.31,spaxt,spin,spaxt
+clics-doculect-129-356,chip1262-std,concepticon-121,6.31,ḳawanš,spin,kawans
+clics-doculect-129-357,chip1262-std,concepticon-277,6.32,tʰeri,spindle,tkeri
+clics-doculect-129-358,chip1262-std,concepticon-133,6.33,wats,weave,wats
+clics-doculect-129-359,chip1262-std,concepticon-1457,6.35,tˀirč̣a,sew,t?irca
+clics-doculect-129-360,chip1262-std,concepticon-1382,6.36,ḳola,needle,kola
+clics-doculect-129-361,chip1262-std,concepticon-1161,6.38,ḳawɲi,thread,kawni
+clics-doculect-129-362,chip1262-std,concepticon-326,6.41,irš,cloak,irs
+clics-doculect-129-363,chip1262-std,concepticon-474,6.42,uxrku,woman's dress,uxrku
+clics-doculect-129-364,chip1262-std,concepticon-1622,6.44,alʸmilʸa,shirt,alymilya
+clics-doculect-129-365,chip1262-std,concepticon-329,6.49,parkatu,"stocking, sock",parkatu
+clics-doculect-129-366,chip1262-std,concepticon-1381,6.51,č̣ʰata,shoe,ckata
+clics-doculect-129-367,chip1262-std,concepticon-2130,6.55,skara,"hat, cap",skara
+clics-doculect-129-368,chip1262-std,concepticon-772,6.57,c̷ʰayi,"belt, girdle",ckayi
+clics-doculect-129-369,chip1262-std,concepticon-64,6.63,pirantura,pin,pirantura
+clics-doculect-129-370,chip1262-std,concepticon-64,6.63,pʰur,pin,pkur
+clics-doculect-129-371,chip1262-std,concepticon-917,6.71,kic̷,"ornament, adornment",kic
+clics-doculect-129-372,chip1262-std,concepticon-1961,6.75,x̣orkiṣ̌a,necklace,xorkisa
+clics-doculect-129-373,chip1262-std,concepticon-332,6.81,čˀoklu,"handkerchief, rag",c?oklu
+clics-doculect-129-374,chip1262-std,concepticon-1475,6.91,ḳara,comb,kara
+clics-doculect-129-375,chip1262-std,concepticon-1475,6.91,kosɲi,comb,kosni
+clics-doculect-129-376,chip1262-std,concepticon-333,6.921,kʰiš,braid,kkis
+clics-doculect-129-377,chip1262-std,concepticon-1926,6.94,kʰewa,ointment,kkewa
+clics-doculect-129-378,chip1262-std,concepticon-1252,7.12,ḳʰuya,house,kkuya
+clics-doculect-129-379,chip1262-std,concepticon-335,7.18,axksḳʰuya,meeting house,axkskkuya
+clics-doculect-129-380,chip1262-std,concepticon-1567,7.22,čaxʷkš,"door, gate",caxwks
+clics-doculect-129-381,chip1262-std,concepticon-1567,7.22,šana,"door, gate",sana
+clics-doculect-129-382,chip1262-std,concepticon-1596,7.23,čawxc̷š,lock (noun),cawxcs
+clics-doculect-129-383,chip1262-std,concepticon-185,7.31,wixt,fireplace,wixt
+clics-doculect-129-384,chip1262-std,concepticon-1663,7.42,axpš,bed,axps
+clics-doculect-129-385,chip1262-std,concepticon-1044,7.421,aš,pillow,as
+clics-doculect-129-386,chip1262-std,concepticon-806,7.422,čʰinšḳiši,blanket,ckinskisi
+clics-doculect-129-387,chip1262-std,concepticon-806,7.422,apxu,blanket,apxu
+clics-doculect-129-388,chip1262-std,concepticon-769,7.51,pʰit,roof,pkit
+clics-doculect-129-389,chip1262-std,concepticon-279,7.52,čoxša,thatch,coxsa
+clics-doculect-129-390,chip1262-std,concepticon-280,7.53,pʰurna,ridgepole,pkurna
+clics-doculect-129-391,chip1262-std,concepticon-281,7.56,tuɲi,"post, pole",tuni
+clics-doculect-129-392,chip1262-std,concepticon-901,7.64,lxaxspa,adobe,lxaxspa
+clics-doculect-129-393,chip1262-std,concepticon-212,8.12,šḳala,field (for cultivation),skala
+clics-doculect-129-394,chip1262-std,concepticon-2002,8.17,kˀolta,ditch,k?olta
+clics-doculect-129-395,chip1262-std,concepticon-1921,8.21,takiša,plow,takisa
+clics-doculect-129-396,chip1262-std,concepticon-1418,8.22,xʷetš,dig,xwets
+clics-doculect-129-397,chip1262-std,concepticon-1418,8.22,ḳulxš,dig,kulxs
+clics-doculect-129-398,chip1262-std,concepticon-284,8.25,astuna,hoe,astuna
+clics-doculect-129-399,chip1262-std,concepticon-611,8.41,ax̣š,"crop, harvest",axs
+clics-doculect-129-400,chip1262-std,concepticon-605,8.42,karanu,"grain (barley, oats etc)",karanu
+clics-doculect-129-401,chip1262-std,concepticon-506,8.47,tara,"maize, corn",tara
+clics-doculect-129-402,chip1262-std,concepticon-606,8.51,sarḳi,grass,sarki
+clics-doculect-129-403,chip1262-std,concepticon-606,8.51,toyi,grass,toyi
+clics-doculect-129-404,chip1262-std,concepticon-342,8.52,pʰit,hay,pkit
+clics-doculect-129-405,chip1262-std,concepticon-1486,8.531,čʰixš,plant (vb),ckixs
+clics-doculect-129-406,chip1262-std,concepticon-1486,8.531,č̣ʰakš,plant (vb),ckaks
+clics-doculect-129-407,chip1262-std,concepticon-670,8.54,šepˀa,root,sep?a
+clics-doculect-129-408,chip1262-std,concepticon-670,8.54,lxomi,root,lxomi
+clics-doculect-129-409,chip1262-std,concepticon-628,8.56,čʰaɲi,leaf,ckani
+clics-doculect-129-410,chip1262-std,concepticon-628,8.56,šika,leaf,sika
+clics-doculect-129-411,chip1262-std,concepticon-239,8.57,pʰaxḳalʸa,flower,pkaxkalya
+clics-doculect-129-412,chip1262-std,concepticon-906,8.6,munti,tree,munti
+clics-doculect-129-413,chip1262-std,concepticon-409,8.74,palka,forked branch,palka
+clics-doculect-129-414,chip1262-std,concepticon-1204,8.75,čʰax̣pi,bark,ckaxpi
+clics-doculect-129-415,chip1262-std,concepticon-2575,9.11,paaš,"do, make",paas
+clics-doculect-129-416,chip1262-std,concepticon-984,9.12,laŋš,work,laNGs
+clics-doculect-129-417,chip1262-std,concepticon-2004,9.14,wex̣ru,bend,wexru
+clics-doculect-129-418,chip1262-std,concepticon-1470,9.15,tʰotš,fold,tkots
+clics-doculect-129-419,chip1262-std,concepticon-1917,9.16,moḳš,"tie, bind",moks
+clics-doculect-129-420,chip1262-std,concepticon-1917,9.16,č̣exlš,"tie, bind",cexls
+clics-doculect-129-421,chip1262-std,concepticon-352,9.161,čʰoxḳ,untie,ckoxk
+clics-doculect-129-422,chip1262-std,concepticon-352,9.161,xʷer,untie,xwer
+clics-doculect-129-423,chip1262-std,concepticon-1218,9.19,ḳoxč,"rope, cord",koxc
+clics-doculect-129-424,chip1262-std,concepticon-2133,9.21,č̣axk,"strike (hit, beat)",caxk
+clics-doculect-129-425,chip1262-std,concepticon-2133,9.21,xʷaxtš,"strike (hit, beat)",xwaxts
+clics-doculect-129-426,chip1262-std,concepticon-1432,9.22,larš,cut,lars
+clics-doculect-129-427,chip1262-std,concepticon-1432,9.22,rikš,cut,riks
+clics-doculect-129-428,chip1262-std,concepticon-355,9.221,ḳˀatš,cut down,k?ats
+clics-doculect-129-429,chip1262-std,concepticon-155,9.222,ḳˀatš,"chop, hew",k?ats
+clics-doculect-129-430,chip1262-std,concepticon-1434,9.223,č̣ʰap,stab,ckap
+clics-doculect-129-431,chip1262-std,concepticon-356,9.24,č̣ʰixp,"scissors, shears",ckixp
+clics-doculect-129-432,chip1262-std,concepticon-290,9.251,astuna,adze,astuna
+clics-doculect-129-433,chip1262-std,concepticon-680,9.26,x̣ʷaxrš,break,xwaxrs
+clics-doculect-129-434,chip1262-std,concepticon-680,9.26,ḳʰolxš,break,kkolxs
+clics-doculect-129-435,chip1262-std,concepticon-588,9.261,x̣ʷarši,broken,xwarsi
+clics-doculect-129-436,chip1262-std,concepticon-588,9.261,aksi,broken,aksi
+clics-doculect-129-437,chip1262-std,concepticon-1735,9.28,c̷ʰela,tear,ckela
+clics-doculect-129-438,chip1262-std,concepticon-291,9.29,čʰoxḳs,"flay, skin",ckoxks
+clics-doculect-129-439,chip1262-std,concepticon-1449,9.31,xʷixtša,"rub, wipe",xwixtsa
+clics-doculect-129-440,chip1262-std,concepticon-214,9.32,č̣ʰeet,stretch,ckeet
+clics-doculect-129-441,chip1262-std,concepticon-1455,9.33,hoo,pull,hoo
+clics-doculect-129-442,chip1262-std,concepticon-38,9.34,čʰinš,spread out,ckins
+clics-doculect-129-443,chip1262-std,concepticon-357,9.341,xooči,hang up,xooci
+clics-doculect-129-444,chip1262-std,concepticon-1913,9.342,ɲeḳš,press,neks
+clics-doculect-129-445,chip1262-std,concepticon-1487,9.35,alš,pour,als
+clics-doculect-129-446,chip1262-std,concepticon-1453,9.36,awxs,wash,awxs
+clics-doculect-129-447,chip1262-std,concepticon-230,9.37,pewš,sweep,pews
+clics-doculect-129-448,chip1262-std,concepticon-1840,9.44,paaš,build,paas
+clics-doculect-129-449,chip1262-std,concepticon-1501,9.46,č̣ʰap,bore,ckap
+clics-doculect-129-450,chip1262-std,concepticon-46,9.461,xwetš,hollow out,xwets
+clics-doculect-129-451,chip1262-std,concepticon-502,9.5,kixtš,nail,kixts
+clics-doculect-129-452,chip1262-std,concepticon-759,9.65,špʰixtɲi,silver,spkixtni
+clics-doculect-129-453,chip1262-std,concepticon-627,9.68,saxwa,lead (noun),saxwa
+clics-doculect-129-454,chip1262-std,concepticon-358,9.69,ḳʰuri,"tin, tinplate",kkuri
+clics-doculect-129-455,chip1262-std,concepticon-1399,9.73,lxoki,clay,lxoki
+clics-doculect-129-456,chip1262-std,concepticon-1539,9.76,ṣ̌epa,basket,sepa
+clics-doculect-129-457,chip1262-std,concepticon-292,9.771,čʰinš,rug,ckins
+clics-doculect-129-458,chip1262-std,concepticon-292,9.771,čʰinššḳiši,rug,ckinsskisi
+clics-doculect-129-459,chip1262-std,concepticon-765,10.11,ḳisḳis,move,kiskis
+clics-doculect-129-460,chip1262-std,concepticon-765,10.11,tʰišinš,move,tkisins
+clics-doculect-129-461,chip1262-std,concepticon-1588,10.12,kexps,turn over,kexps
+clics-doculect-129-462,chip1262-std,concepticon-1588,10.12,kʰeltiš,turn over,kkeltis
+clics-doculect-129-463,chip1262-std,concepticon-1113,10.14,yapanš,"wind, wrap",yapans
+clics-doculect-129-464,chip1262-std,concepticon-808,10.16,tʰoxtš,drop (vb),tkoxts
+clics-doculect-129-465,chip1262-std,concepticon-430,10.17,čutu,twist,cutu
+clics-doculect-129-466,chip1262-std,concepticon-568,10.21,c̷ixtskat,rise,cixtskat
+clics-doculect-129-467,chip1262-std,concepticon-501,10.22,waytˀiš,"raise, lift",wayt?is
+clics-doculect-129-468,chip1262-std,concepticon-1280,10.23,eš,fall,es
+clics-doculect-129-469,chip1262-std,concepticon-1280,10.23,txoḳ,fall,txok
+clics-doculect-129-470,chip1262-std,concepticon-2253,10.24,č̣ʰoxš,drip,ckoxs
+clics-doculect-129-471,chip1262-std,concepticon-1456,10.25,č̣axk,throw,caxk
+clics-doculect-129-472,chip1262-std,concepticon-1909,10.26,pˀulʸinkiš,shake,p?ulyinkis
+clics-doculect-129-473,chip1262-std,concepticon-2003,10.32,oxkš,flow,oxks
+clics-doculect-129-474,chip1262-std,concepticon-1441,10.37,layš,fly (vb),lays
+clics-doculect-129-475,chip1262-std,concepticon-175,10.38,pʰuxš,blow,pkuxs
+clics-doculect-129-476,chip1262-std,concepticon-175,10.38,tʰam,blow,tkam
+clics-doculect-129-477,chip1262-std,concepticon-96,10.41,kʰerwiš,"creep, crawl",kkerwis
+clics-doculect-129-478,chip1262-std,concepticon-66,10.412,kilʸš,kneel,kilys
+clics-doculect-129-479,chip1262-std,concepticon-66,10.412,kilʸxatš,kneel,kilyxats
+clics-doculect-129-480,chip1262-std,concepticon-296,10.413,kaw,crouch,kaw
+clics-doculect-129-481,chip1262-std,concepticon-1324,10.42,šḳʰexš,"slide, slip",skkexs
+clics-doculect-129-482,chip1262-std,concepticon-1829,10.43,layš,"jump, leap",lays
+clics-doculect-129-483,chip1262-std,concepticon-1135,10.431,tʰekš,kick,tkeks
+clics-doculect-129-484,chip1262-std,concepticon-1135,10.431,tʰekanš,kick,tkekans
+clics-doculect-129-485,chip1262-std,concepticon-1879,10.44,c̷axt,dance,caxt
+clics-doculect-129-486,chip1262-std,concepticon-1443,10.45,oxḳ,walk,oxk
+clics-doculect-129-487,chip1262-std,concepticon-1519,10.46,šat,run,sat
+clics-doculect-129-488,chip1262-std,concepticon-1519,10.46,x̣irš,run,xirs
+clics-doculect-129-489,chip1262-std,concepticon-695,10.47,oxḳ,go,oxk
+clics-doculect-129-490,chip1262-std,concepticon-705,10.471,yaw,go up,yaw
+clics-doculect-129-491,chip1262-std,concepticon-1102,10.472,yaw,climb,yaw
+clics-doculect-129-492,chip1262-std,concepticon-2014,10.473,čʰixʷš,go down,ckixws
+clics-doculect-129-493,chip1262-std,concepticon-1107,10.474,ulanš,go out,ulans
+clics-doculect-129-494,chip1262-std,concepticon-1446,10.48,tʰonš,come,tkons
+clics-doculect-129-495,chip1262-std,concepticon-581,10.481,kexpš,come back,kexps
+clics-doculect-129-496,chip1262-std,concepticon-1752,10.49,ekš,"go away, depart",eks
+clics-doculect-129-497,chip1262-std,concepticon-1752,10.49,šarak,"go away, depart",sarak
+clics-doculect-129-498,chip1262-std,concepticon-485,10.491,katš,disappear,kats
+clics-doculect-129-499,chip1262-std,concepticon-956,10.51,atipš,flee,atips
+clics-doculect-129-500,chip1262-std,concepticon-1085,10.52,apš,follow,aps
+clics-doculect-129-501,chip1262-std,concepticon-1085,10.52,tira,follow,tira
+clics-doculect-129-502,chip1262-std,concepticon-1387,10.55,irantiš,"reach, arrive",irantis
+clics-doculect-129-503,chip1262-std,concepticon-1778,10.56,ṣ̌katṣ̌inš,approach,skatsins
+clics-doculect-129-504,chip1262-std,concepticon-749,10.57,luṣ̌,enter,lus
+clics-doculect-129-505,chip1262-std,concepticon-700,10.61,ḳuš,carry (bear),kus
+clics-doculect-129-506,chip1262-std,concepticon-412,10.612,ḳaaš,carry-in-hand,kaas
+clics-doculect-129-507,chip1262-std,concepticon-692,10.62,šxixkš,bring,sxixks
+clics-doculect-129-508,chip1262-std,concepticon-1127,10.63,kučan,send,kucan
+clics-doculect-129-509,chip1262-std,concepticon-1127,10.63,apay,send,apay
+clics-doculect-129-510,chip1262-std,concepticon-43,10.64,irpiš,lead (vb),irpis
+clics-doculect-129-511,chip1262-std,concepticon-741,10.65,axkš,drive,axks
+clics-doculect-129-512,chip1262-std,concepticon-367,10.66,yawš,ride,yaws
+clics-doculect-129-513,chip1262-std,concepticon-1452,10.67,torš,"push, shove",tors
+clics-doculect-129-514,chip1262-std,concepticon-667,10.71,xikš,road,xiks
+clics-doculect-129-515,chip1262-std,concepticon-2252,10.72,xikš,path,xiks
+clics-doculect-129-516,chip1262-std,concepticon-1844,10.83,warku,boat,warku
+clics-doculect-129-517,chip1262-std,concepticon-786,10.88,sira,sail (noun),sira
+clics-doculect-129-518,chip1262-std,concepticon-773,11.11,ṣ̌exl,have,sexl
+clics-doculect-129-519,chip1262-std,concepticon-684,11.12,čis,"own, possess",cis
+clics-doculect-129-520,chip1262-std,concepticon-1749,11.13,lek,take,lek
+clics-doculect-129-521,chip1262-std,concepticon-2021,11.14,tan,"seize, grasp",tan
+clics-doculect-129-522,chip1262-std,concepticon-694,11.16,kunsik,"get, obtain",kunsik
+clics-doculect-129-523,chip1262-std,concepticon-1447,11.21,tʰaa,give,tkaa
+clics-doculect-129-524,chip1262-std,concepticon-85,11.22,tʰepun,give back,tkepun
+clics-doculect-129-525,chip1262-std,concepticon-1997,11.24,kwiti,"preserve, look after",kwiti
+clics-doculect-129-526,chip1262-std,concepticon-2008,11.25,liwrii,"save, rescue",liwrii
+clics-doculect-129-527,chip1262-std,concepticon-2008,11.25,ḳʰexspii,"save, rescue",kkexspii
+clics-doculect-129-528,chip1262-std,concepticon-681,11.27,paxlš,destroy,paxls
+clics-doculect-129-529,chip1262-std,concepticon-44,11.28,čʰoxritš,"harm, injure, damage",ckoxrits
+clics-doculect-129-530,chip1262-std,concepticon-1468,11.31,ḳʰurš,"seek, look for",kkurs
+clics-doculect-129-531,chip1262-std,concepticon-719,11.32,waxt,find,waxt
+clics-doculect-129-532,chip1262-std,concepticon-1660,11.33,pašša,lose,passa
+clics-doculect-129-533,chip1262-std,concepticon-1660,11.33,paš,lose,pas
+clics-doculect-129-534,chip1262-std,concepticon-1095,11.34,kutš,"release, let go",kuts
+clics-doculect-129-535,chip1262-std,concepticon-1559,11.43,paaš,money,paas
+clics-doculect-129-536,chip1262-std,concepticon-1867,11.44,paaš,coin,paas
+clics-doculect-129-537,chip1262-std,concepticon-1934,11.53,ṣ̌oɲi,beggar,soni
+clics-doculect-129-538,chip1262-std,concepticon-582,11.61,onš,lend,ons
+clics-doculect-129-539,chip1262-std,concepticon-1823,11.62,tomč̣a,borrow,tomca
+clics-doculect-129-540,chip1262-std,concepticon-1823,11.62,tomš,borrow,toms
+clics-doculect-129-541,chip1262-std,concepticon-1914,11.64,ḳaxa,debt,kaxa
+clics-doculect-129-542,chip1262-std,concepticon-1081,11.66,ḳaxa,"account, reckoning",kaxa
+clics-doculect-129-543,chip1262-std,concepticon-1869,11.81,ḳʰayš,buy,kkays
+clics-doculect-129-544,chip1262-std,concepticon-1571,11.82,tuyṣ̌,sell,tuys
+clics-doculect-129-545,chip1262-std,concepticon-1426,11.88,xila,"dear (costly, expensive)",xila
+clics-doculect-129-546,chip1262-std,concepticon-1887,11.89,kapuxš,cheap,kapuxs
+clics-doculect-129-547,chip1262-std,concepticon-884,11.91,toxš,share (distribute),toxs
+clics-doculect-129-548,chip1262-std,concepticon-884,11.91,toxtiš,share (distribute),toxtis
+clics-doculect-129-549,chip1262-std,concepticon-1098,11.92,yaxkš,weigh,yaxks
+clics-doculect-129-550,chip1262-std,concepticon-1685,12.1,wiri,after,wiri
+clics-doculect-129-551,chip1262-std,concepticon-1685,12.1,wiruɲ,after,wirun
+clics-doculect-129-552,chip1262-std,concepticon-1685,12.1,wiruɲa,after,wiruna
+clics-doculect-129-553,chip1262-std,concepticon-723,12.11,wiri,place,wiri
+clics-doculect-129-554,chip1262-std,concepticon-1816,12.2,c̷ʰii,beside,ckii
+clics-doculect-129-555,chip1262-std,concepticon-2094,12.3,ḳoštan,"down, below",kostan
+clics-doculect-129-556,chip1262-std,concepticon-1882,12.4,tuki,before,tuki
+clics-doculect-129-557,chip1262-std,concepticon-1882,12.4,tukita,before,tukita
+clics-doculect-129-558,chip1262-std,concepticon-1019,12.41,yuxkkiš,right (side),yuxkkis
+clics-doculect-129-559,chip1262-std,concepticon-1606,12.5,maxk,"inside, in",maxk
+clics-doculect-129-560,chip1262-std,concepticon-762,12.6,šanku,outside,sanku
+clics-doculect-129-561,chip1262-std,concepticon-1485,12.7,ḳoštan,under,kostan
+clics-doculect-129-562,chip1262-std,concepticon-1591,12.8,c̷eeku,"up, above",ceeku
+clics-doculect-129-563,chip1262-std,concepticon-1591,12.8,xuntuɲ,"up, above",xuntun
+clics-doculect-129-564,chip1262-std,concepticon-998,12.12,nonš,put,nons
+clics-doculect-129-565,chip1262-std,concepticon-1416,12.13,xulš,sit,xuls
+clics-doculect-129-566,chip1262-std,concepticon-215,12.14,axpš,lie down,axps
+clics-doculect-129-567,chip1262-std,concepticon-1442,12.15,apatatš,stand,apatats
+clics-doculect-129-568,chip1262-std,concepticon-1442,12.15,c̷ʰits,stand,ckits
+clics-doculect-129-569,chip1262-std,concepticon-987,12.16,ekliṣ̌,"remain, stay",eklis
+clics-doculect-129-570,chip1262-std,concepticon-838,12.17,č̣ʰetči,"remains, left overs",cketci
+clics-doculect-129-571,chip1262-std,concepticon-7,12.21,axks,"collect, gather",axks
+clics-doculect-129-572,chip1262-std,concepticon-7,12.21,xuntiš,"collect, gather",xuntis
+clics-doculect-129-573,chip1262-std,concepticon-1743,12.22,c̷ʰiiḳašc̷ʰis,"join, unite",ckiikasckis
+clics-doculect-129-574,chip1262-std,concepticon-1359,12.23,anaḳš,separate,anaks
+clics-doculect-129-575,chip1262-std,concepticon-1119,12.232,lax̣miš,divide,laxmis
+clics-doculect-129-576,chip1262-std,concepticon-1156,12.24,kʰet,open,kket
+clics-doculect-129-577,chip1262-std,concepticon-1046,12.25,čaxwk,"shut, close",caxwk
+clics-doculect-129-578,chip1262-std,concepticon-761,12.26,pʰukš,cover,pkuks
+clics-doculect-129-579,chip1262-std,concepticon-602,12.27,čʰoxš,"hide, conceal",ckoxs
+clics-doculect-129-580,chip1262-std,concepticon-1265,12.31,c̷eeku,high,ceeku
+clics-doculect-129-581,chip1262-std,concepticon-721,12.32,ḳoši,low,kosi
+clics-doculect-129-582,chip1262-std,concepticon-1753,12.33,pʰurna,top,pkurna
+clics-doculect-129-583,chip1262-std,concepticon-690,12.34,ḳoši,bottom,kosi
+clics-doculect-129-584,chip1262-std,concepticon-372,12.352,puntučiš,pointed,puntucis
+clics-doculect-129-585,chip1262-std,concepticon-863,12.353,ata,edge,ata
+clics-doculect-129-586,chip1262-std,concepticon-682,12.36,ataran,side,ataran
+clics-doculect-129-587,chip1262-std,concepticon-1093,12.37,taypi,"middle, center",taypi
+clics-doculect-129-588,chip1262-std,concepticon-1093,12.37,taypikiš,"middle, center",taypikis
+clics-doculect-129-589,chip1262-std,concepticon-1019,12.41,ṣ̌ewa,right (side),sewa
+clics-doculect-129-590,chip1262-std,concepticon-244,12.42,šḳara,left (side),skara
+clics-doculect-129-591,chip1262-std,concepticon-1942,12.43,xeeku,near (adv),xeeku
+clics-doculect-129-592,chip1262-std,concepticon-1406,12.44,nakʰu,far (adv),nakku
+clics-doculect-129-593,chip1262-std,concepticon-1877,12.45,tuna,east,tuna
+clics-doculect-129-594,chip1262-std,concepticon-1877,12.45,tuwanta,east,tuwanta
+clics-doculect-129-595,chip1262-std,concepticon-1817,12.46,taxa,west,taxa
+clics-doculect-129-596,chip1262-std,concepticon-1598,12.47,uṣ̌a,north,usa
+clics-doculect-129-597,chip1262-std,concepticon-1598,12.47,uṣ̌ačuk,north,usacuk
+clics-doculect-129-598,chip1262-std,concepticon-1595,12.48,waru,south,waru
+clics-doculect-129-599,chip1262-std,concepticon-479,12.53,paxḳš,grow,paxks
+clics-doculect-129-600,chip1262-std,concepticon-1506,12.54,eḳš,measure,eks
+clics-doculect-129-601,chip1262-std,concepticon-1202,12.55,paḳʰi,"large, big",pakki
+clics-doculect-129-602,chip1262-std,concepticon-1202,12.55,nukta,"large, big",nukta
+clics-doculect-129-603,chip1262-std,concepticon-1246,12.56,ḳolta,"small, little",kolta
+clics-doculect-129-604,chip1262-std,concepticon-1246,12.56,čʰuxtu,"small, little",ckuxtu
+clics-doculect-129-605,chip1262-std,concepticon-1203,12.57,laxča,long,laxca
+clics-doculect-129-606,chip1262-std,concepticon-711,12.58,laxča,tall,laxca
+clics-doculect-129-607,chip1262-std,concepticon-711,12.58,paḳxi,tall,pakxi
+clics-doculect-129-608,chip1262-std,concepticon-1645,12.59,ḳolta,short,kolta
+clics-doculect-129-609,chip1262-std,concepticon-1645,12.59,ḳoltalʸa,short,koltalya
+clics-doculect-129-610,chip1262-std,concepticon-1243,12.61,kara,"wide, broad",kara
+clics-doculect-129-611,chip1262-std,concepticon-1243,12.61,kʰari,"wide, broad",kkari
+clics-doculect-129-612,chip1262-std,concepticon-1267,12.62,ṣ̌kʰuxku,narrow,skkuxku
+clics-doculect-129-613,chip1262-std,concepticon-1244,12.63,č̣oḳxa,thick (in dimension),cokxa
+clics-doculect-129-614,chip1262-std,concepticon-2249,12.65,ḳooči,thin (in dimension),kooci
+clics-doculect-129-615,chip1262-std,concepticon-1593,12.67,ḳoši,deep,kosi
+clics-doculect-129-616,chip1262-std,concepticon-193,12.68,šḳx̣ex̣si,shallow,skxexsi
+clics-doculect-129-617,chip1262-std,concepticon-1404,12.73,sex̣wa,straight,sexwa
+clics-doculect-129-618,chip1262-std,concepticon-297,12.74,wexru,crooked,wexru
+clics-doculect-129-619,chip1262-std,concepticon-297,12.74,ṣ̌kakxu,crooked,skakxu
+clics-doculect-129-620,chip1262-std,concepticon-1071,12.75,pirantura,hook,pirantura
+clics-doculect-129-621,chip1262-std,concepticon-850,12.78,tu,square,tu
+clics-doculect-129-622,chip1262-std,concepticon-1395,12.81,ḳˀoštu,round,k?ostu
+clics-doculect-129-623,chip1262-std,concepticon-1048,12.84,piyara,line,piyara
+clics-doculect-129-624,chip1262-std,concepticon-1667,12.85,pʰeta,hole,pketa
+clics-doculect-129-625,chip1262-std,concepticon-1558,12.92,irata,"like, similar",irata
+clics-doculect-129-626,chip1262-std,concepticon-1558,12.92,šakaš,"like, similar",sakas
+clics-doculect-129-627,chip1262-std,concepticon-1294,13.0,anaščʰulumi,"zero, nothing",anasckulumi
+clics-doculect-129-628,chip1262-std,concepticon-1294,13.0,akilʸo,"zero, nothing",akilyo
+clics-doculect-129-629,chip1262-std,concepticon-1493,13.1,c̷ʰii,one,ckii
+clics-doculect-129-630,chip1262-std,concepticon-1498,13.2,piška,two,piska
+clics-doculect-129-631,chip1262-std,concepticon-492,13.3,čʰep,three,ckep
+clics-doculect-129-632,chip1262-std,concepticon-1500,13.4,paḳpik,four,pakpik
+clics-doculect-129-633,chip1262-std,concepticon-493,13.5,pʰixsḳa,five,pkixska
+clics-doculect-129-634,chip1262-std,concepticon-1703,13.6,šoxta,six,soxta
+clics-doculect-129-635,chip1262-std,concepticon-1704,13.7,paḳalʸaku,seven,pakalyaku
+clics-doculect-129-636,chip1262-std,concepticon-1705,13.8,kinsaḳalku,eight,kinsakalku
+clics-doculect-129-637,chip1262-std,concepticon-1483,13.9,lʸatunka,nine,lyatunka
+clics-doculect-129-638,chip1262-std,concepticon-1515,13.10,tunka,ten,tunka
+clics-doculect-129-639,chip1262-std,concepticon-1710,13.104,paatunka,twenty,paatunka
+clics-doculect-129-640,chip1262-std,concepticon-1634,13.105,pataka,hundred,pataka
+clics-doculect-129-641,chip1262-std,concepticon-1843,13.106,waranka,thousand,waranka
+clics-doculect-129-642,chip1262-std,concepticon-98,13.14,ḳʰutu,"every, all",kkutu
+clics-doculect-129-643,chip1262-std,concepticon-98,13.14,šapa,"every, all",sapa
+clics-doculect-129-644,chip1262-std,concepticon-1198,13.15,yuḳxu,"much, many",yukxu
+clics-doculect-129-645,chip1262-std,concepticon-1198,13.15,yuxḳpača,"much, many",yuxkpaca
+clics-doculect-129-646,chip1262-std,concepticon-1992,13.16,iya,more,iya
+clics-doculect-129-647,chip1262-std,concepticon-1242,13.17,yačalʸa,"little (quantity), few",yacalya
+clics-doculect-129-648,chip1262-std,concepticon-1881,13.18,wakš,enough,waks
+clics-doculect-129-649,chip1262-std,concepticon-1241,13.181,c̷ʰiiḳʰaṣ̌,some,ckiikkas
+clics-doculect-129-650,chip1262-std,concepticon-2023,13.19,wakčiṣ̌oɲi,"multitude, crowd",wakcisoni
+clics-doculect-129-651,chip1262-std,concepticon-1429,13.21,čʰixpi,full,ckixpi
+clics-doculect-129-652,chip1262-std,concepticon-1429,13.21,pˀata,full,p?ata
+clics-doculect-129-653,chip1262-std,concepticon-1624,13.22,laači,empty,laaci
+clics-doculect-129-654,chip1262-std,concepticon-816,13.24,čika,half,cika
+clics-doculect-129-655,chip1262-std,concepticon-1580,13.33,alax̣a,"alone, only",alaxa
+clics-doculect-129-656,chip1262-std,concepticon-1580,13.33,kama,"alone, only",kama
+clics-doculect-129-657,chip1262-std,concepticon-1529,13.35,piča,last,pica
+clics-doculect-129-658,chip1262-std,concepticon-1529,13.35,pičut,last,picut
+clics-doculect-129-659,chip1262-std,concepticon-1888,13.37,pokultan,pair,pokultan
+clics-doculect-129-660,chip1262-std,concepticon-1546,13.38,piškwilta,two times,piskwilta
+clics-doculect-129-661,chip1262-std,concepticon-1859,13.42,čʰepultan,third,ckepultan
+clics-doculect-129-662,chip1262-std,concepticon-417,13.44,čʰepwilta,three times,ckepwilta
+clics-doculect-129-663,chip1262-std,concepticon-1231,14.13,ewu,new,ewu
+clics-doculect-129-664,chip1262-std,concepticon-1207,14.14,tʰowa,young,tkowa
+clics-doculect-129-665,chip1262-std,concepticon-1229,14.15,čawkʷa,old,cawkwa
+clics-doculect-129-666,chip1262-std,concepticon-1376,14.18,aɲ,now,an
+clics-doculect-129-667,chip1262-std,concepticon-1376,14.18,xašiki,now,xasiki
+clics-doculect-129-668,chip1262-std,concepticon-1963,14.19,nix̣aru,immediately,nixaru
+clics-doculect-129-669,chip1262-std,concepticon-1631,14.21,uri,"swift, fast, quick",uri
+clics-doculect-129-670,chip1262-std,concepticon-701,14.22,šumat,slow,sumat
+clics-doculect-129-671,chip1262-std,concepticon-701,14.22,šumalʸat,slow,sumalyat
+clics-doculect-129-672,chip1262-std,concepticon-754,14.23,uripaa,"hasten, hurry",uripaa
+clics-doculect-129-673,chip1262-std,concepticon-425,14.24,enenš,"retard, delay",enens
+clics-doculect-129-674,chip1262-std,concepticon-1806,14.25,ḳalʸti,"begin, beginning",kalyti
+clics-doculect-129-675,chip1262-std,concepticon-1186,14.252,wiɲayakʰee,"last, endure",winayakkee
+clics-doculect-129-676,chip1262-std,concepticon-1186,14.252,awanti,"last, endure",awanti
+clics-doculect-129-677,chip1262-std,concepticon-743,14.26,tukušin,end (temporal),tukusin
+clics-doculect-129-678,chip1262-std,concepticon-1766,14.27,č̣ʰaḳ,finish,ckak
+clics-doculect-129-679,chip1262-std,concepticon-1766,14.27,miranš,finish,mirans
+clics-doculect-129-680,chip1262-std,concepticon-1928,14.28,c̷ixt,"cease, stop",cixt
+clics-doculect-129-681,chip1262-std,concepticon-1676,14.31,tira,always,tira
+clics-doculect-129-682,chip1262-std,concepticon-1852,14.32,wiltawilta,often,wiltawilta
+clics-doculect-129-683,chip1262-std,concepticon-1544,14.33,awisaki,sometimes,awisaki
+clics-doculect-129-684,chip1262-std,concepticon-1656,14.34,anawira,never,anawira
+clics-doculect-129-685,chip1262-std,concepticon-204,14.35,wilta,again,wilta
+clics-doculect-129-686,chip1262-std,concepticon-1225,14.41,tʰuɲi,day,tkuni
+clics-doculect-129-687,chip1262-std,concepticon-1225,14.41,noox,day,noox
+clics-doculect-129-688,chip1262-std,concepticon-1233,14.42,wen,night,wen
+clics-doculect-129-689,chip1262-std,concepticon-1233,14.42,ween,night,ween
+clics-doculect-129-690,chip1262-std,concepticon-729,14.43,ḳʰantati,dawn,kkantati
+clics-doculect-129-691,chip1262-std,concepticon-1339,14.44,wenši,morning,wensi
+clics-doculect-129-692,chip1262-std,concepticon-1339,14.44,wenš,morning,wens
+clics-doculect-129-693,chip1262-std,concepticon-12,14.45,taypuru,"noon, midday",taypuru
+clics-doculect-129-694,chip1262-std,concepticon-1807,14.451,max̣ɲa,afternoon,maxna
+clics-doculect-129-695,chip1262-std,concepticon-1807,14.451,šeši,afternoon,sesi
+clics-doculect-129-696,chip1262-std,concepticon-1629,14.46,šeši,evening,sesi
+clics-doculect-129-697,chip1262-std,concepticon-1283,14.47,toŋxi,today,toNGxi
+clics-doculect-129-698,chip1262-std,concepticon-1329,14.48,xaḳa,tomorrow,xaka
+clics-doculect-129-699,chip1262-std,concepticon-1179,14.481,kataḳatwenš,day-after-tomorrow,katakatwens
+clics-doculect-129-700,chip1262-std,concepticon-1174,14.49,ewi,yesterday,ewi
+clics-doculect-129-701,chip1262-std,concepticon-1174,14.49,šešku,yesterday,sesku
+clics-doculect-129-702,chip1262-std,concepticon-1180,14.491,tukamax,day-before-yesterday,tukamax
+clics-doculect-129-703,chip1262-std,concepticon-1370,14.71,xiiš,month,xiis
+clics-doculect-129-704,chip1262-std,concepticon-1226,14.73,wata,year,wata
+clics-doculect-129-705,chip1262-std,concepticon-1471,14.74,šak,winter,sak
+clics-doculect-129-706,chip1262-std,concepticon-1342,14.76,čixɲi,summer,cixni
+clics-doculect-129-707,chip1262-std,concepticon-1276,14.77,šiwi,autumn,siwi
+clics-doculect-129-708,chip1262-std,concepticon-691,14.78,čašɲi,season,casni
+clics-doculect-129-709,chip1262-std,concepticon-1587,15.21,muks,smell (vb intrans),muks
+clics-doculect-129-710,chip1262-std,concepticon-1586,15.22,mukš,smell (vb trans),muks
+clics-doculect-129-711,chip1262-std,concepticon-376,15.25,ulurčiš,"fragrant, good smelling",ulurcis
+clics-doculect-129-712,chip1262-std,concepticon-42,15.26,čʰonanči,"stinking, bad smelling",ckonanci
+clics-doculect-129-713,chip1262-std,concepticon-21,15.31,malʸš,taste,malys
+clics-doculect-129-714,chip1262-std,concepticon-717,15.35,mašḳˀa,sweet,mask?a
+clics-doculect-129-715,chip1262-std,concepticon-1091,15.36,ḳˀara,salty,k?ara
+clics-doculect-129-716,chip1262-std,concepticon-887,15.37,xaru,bitter,xaru
+clics-doculect-129-717,chip1262-std,concepticon-1906,15.38,xaru,"acid, sour",xaru
+clics-doculect-129-718,chip1262-std,concepticon-1408,15.41,nonš,hear,nons
+clics-doculect-129-719,chip1262-std,concepticon-1608,15.42,nonš,listen,nons
+clics-doculect-129-720,chip1262-std,concepticon-1811,15.44,x̣ora,"sound, noise",xora
+clics-doculect-129-721,chip1262-std,concepticon-1314,15.46,čˀuxu,"quiet, silence",c?uxu
+clics-doculect-129-722,chip1262-std,concepticon-1409,15.51,čerš,see,cers
+clics-doculect-129-723,chip1262-std,concepticon-1819,15.52,čerš,"look, look at",cers
+clics-doculect-129-724,chip1262-std,concepticon-1819,15.52,č̣ekš,"look, look at",ceks
+clics-doculect-129-725,chip1262-std,concepticon-1039,15.55,tʰees,show,tkees
+clics-doculect-129-726,chip1262-std,concepticon-708,15.56,lʸipinš,shine,lyipins
+clics-doculect-129-727,chip1262-std,concepticon-679,15.57,lʸixɲi,bright,lyixni
+clics-doculect-129-728,chip1262-std,concepticon-1335,15.64,čiwi,white,ciwi
+clics-doculect-129-729,chip1262-std,concepticon-163,15.65,c̷oḳ,black,cok
+clics-doculect-129-730,chip1262-std,concepticon-156,15.66,lxok,red,lxok
+clics-doculect-129-731,chip1262-std,concepticon-837,15.67,larama,blue,larama
+clics-doculect-129-732,chip1262-std,concepticon-1425,15.68,čˀoxɲa,green,c?oxna
+clics-doculect-129-733,chip1262-std,concepticon-1424,15.69,kˀilʸu,yellow,k?ilyu
+clics-doculect-129-734,chip1262-std,concepticon-1892,15.71,lanš,touch,lans
+clics-doculect-129-735,chip1262-std,concepticon-1079,15.72,lar,feel,lar
+clics-doculect-129-736,chip1262-std,concepticon-1884,15.74,tʰupi,hard,tkupi
+clics-doculect-129-737,chip1262-std,concepticon-1856,15.75,ḳoɲa,soft,kona
+clics-doculect-129-738,chip1262-std,concepticon-1923,15.76,č̣ʰax̣ta,rough,ckaxta
+clics-doculect-129-739,chip1262-std,concepticon-1396,15.78,ari,sharp,ari
+clics-doculect-129-740,chip1262-std,concepticon-1396,15.78,xat,sharp,xat
+clics-doculect-129-741,chip1262-std,concepticon-379,15.79,anapuntučiš,"blunt, dull",anapuntucis
+clics-doculect-129-742,chip1262-std,concepticon-1210,15.81,liksi,heavy,liksi
+clics-doculect-129-743,chip1262-std,concepticon-1052,15.82,kʰeši,light (in weight),kkesi
+clics-doculect-129-744,chip1262-std,concepticon-1052,15.82,waṣ̌a,light (in weight),wasa
+clics-doculect-129-745,chip1262-std,concepticon-1726,15.83,awči,"wet, damp",awci
+clics-doculect-129-746,chip1262-std,concepticon-1726,15.83,awi,"wet, damp",awi
+clics-doculect-129-747,chip1262-std,concepticon-1398,15.84,ḳʰoɲi,dry,kkoni
+clics-doculect-129-748,chip1262-std,concepticon-1286,15.85,ḳʰaḳi,hot,kkaki
+clics-doculect-129-749,chip1262-std,concepticon-1232,15.851,ḳˀoɲi,warm,k?oni
+clics-doculect-129-750,chip1262-std,concepticon-1287,15.86,saki,cold,saki
+clics-doculect-129-751,chip1262-std,concepticon-1287,15.86,laawš,cold,laaws
+clics-doculect-129-752,chip1262-std,concepticon-704,15.87,lʸumpaḳa,clean,lyumpaka
+clics-doculect-129-753,chip1262-std,concepticon-1230,15.88,loč,"dirty, soiled",loc
+clics-doculect-129-754,chip1262-std,concepticon-1230,15.88,lop,"dirty, soiled",lop
+clics-doculect-129-755,chip1262-std,concepticon-1230,15.88,ṣ̌oxr,"dirty, soiled",soxr
+clics-doculect-129-756,chip1262-std,concepticon-380,15.89,spola,wrinkled,spola
+clics-doculect-129-757,chip1262-std,concepticon-53,16.11,kuš,"soul, spirit",kus
+clics-doculect-129-758,chip1262-std,concepticon-1572,16.15,c̷uk,"surprised, astonished",cuk
+clics-doculect-129-759,chip1262-std,concepticon-56,16.19,ḳulʸu,"misfortune, bad luck",kulyu
+clics-doculect-129-760,chip1262-std,concepticon-1495,16.23,čipš,"joyful, glad, happy",cips
+clics-doculect-129-761,chip1262-std,concepticon-1355,16.25,tx̣as,laugh,txas
+clics-doculect-129-762,chip1262-std,concepticon-1355,16.25,x̣arx̣arš,laugh,xarxars
+clics-doculect-129-763,chip1262-std,concepticon-1413,16.26,uṣ̌inš,play,usins
+clics-doculect-129-764,chip1262-std,concepticon-923,16.27,munaši,love,munasi
+clics-doculect-129-765,chip1262-std,concepticon-578,16.29,čʰulš,kiss,ckuls
+clics-doculect-129-766,chip1262-std,concepticon-928,16.3,ṣ̌koxrš,embrace,skoxrs
+clics-doculect-129-767,chip1262-std,concepticon-1783,16.31,lʸaki,pain,lyaki
+clics-doculect-129-768,chip1262-std,concepticon-1783,16.31,ayinš,pain,ayins
+clics-doculect-129-769,chip1262-std,concepticon-1668,16.32,lʸakita,"grief, sorrow, sadness",lyakita
+clics-doculect-129-770,chip1262-std,concepticon-1000,16.33,lʸaki,"anxiety, worry",lyaki
+clics-doculect-129-771,chip1262-std,concepticon-1875,16.34,lʸaktaš,"regret, be sorry",lyaktas
+clics-doculect-129-772,chip1262-std,concepticon-1141,16.35,oḳs,pity,oks
+clics-doculect-129-773,chip1262-std,concepticon-1839,16.37,ḳaašša,"cry, weep",kaassa
+clics-doculect-129-774,chip1262-std,concepticon-1651,16.38,kʰirma,tear (noun),kkirma
+clics-doculect-129-775,chip1262-std,concepticon-716,16.39,čiyanš,groan,ciyans
+clics-doculect-129-776,chip1262-std,concepticon-1607,16.41,mokˀo,hate,mok?o
+clics-doculect-129-777,chip1262-std,concepticon-1607,16.41,čʰaawxḳat,hate,ckaawxkat
+clics-doculect-129-778,chip1262-std,concepticon-82,16.42,suri,anger,suri
+clics-doculect-129-779,chip1262-std,concepticon-82,16.42,ṣ̌awx,anger,sawx
+clics-doculect-129-780,chip1262-std,concepticon-40,16.44,iɲišiš,"envy, jealousy",inisis
+clics-doculect-129-781,chip1262-std,concepticon-1776,16.45,aš,shame (noun),as
+clics-doculect-129-782,chip1262-std,concepticon-1776,16.45,aššakanaka,shame (noun),assakanaka
+clics-doculect-129-783,chip1262-std,concepticon-174,16.48,mita,proud,mita
+clics-doculect-129-784,chip1262-std,concepticon-3,16.52,tʰupkuš,brave,tkupkus
+clics-doculect-129-785,chip1262-std,concepticon-781,16.53,c̷ukči,"fear, fright",cukci
+clics-doculect-129-786,chip1262-std,concepticon-781,16.53,eḳš,"fear, fright",eks
+clics-doculect-129-787,chip1262-std,concepticon-781,16.53,isḳs,"fear, fright",isks
+clics-doculect-129-788,chip1262-std,concepticon-1784,16.62,pekš,"desire, want",peks
+clics-doculect-129-789,chip1262-std,concepticon-1750,16.622,ilʸ,choose,ily
+clics-doculect-129-790,chip1262-std,concepticon-1092,16.63,tʰew,hope,tkew
+clics-doculect-129-791,chip1262-std,concepticon-1657,16.66,werara,true,werara
+clics-doculect-129-792,chip1262-std,concepticon-601,16.67,toskara,"lie, tell lies",toskara
+clics-doculect-129-793,chip1262-std,concepticon-601,16.67,ḳˀotš,"lie, tell lies",k?ots
+clics-doculect-129-794,chip1262-std,concepticon-13,16.68,inkalʸš,deceit,inkalys
+clics-doculect-129-795,chip1262-std,concepticon-13,16.68,iš,deceit,is
+clics-doculect-129-796,chip1262-std,concepticon-1528,16.69,š,forgive,s
+clics-doculect-129-797,chip1262-std,concepticon-1035,16.71,šuma,good,suma
+clics-doculect-129-798,chip1262-std,concepticon-1035,16.71,wali,good,wali
+clics-doculect-129-799,chip1262-std,concepticon-1292,16.72,anašuma,bad,anasuma
+clics-doculect-129-800,chip1262-std,concepticon-1725,16.73,werara,"right, correct",werara
+clics-doculect-129-801,chip1262-std,concepticon-1390,16.74,anašuma,wrong,anasuma
+clics-doculect-129-802,chip1262-std,concepticon-134,16.76,ux,fault,ux
+clics-doculect-129-803,chip1262-std,concepticon-1293,16.77,aḳš,"mistake, error",aks
+clics-doculect-129-804,chip1262-std,concepticon-1293,16.77,ḳiwḳš,"mistake, error",kiwks
+clics-doculect-129-805,chip1262-std,concepticon-381,16.78,uxtʰoxtanš,blame,uxtkoxtans
+clics-doculect-129-806,chip1262-std,concepticon-1687,16.79,honorawaytiš,praise,honorawaytis
+clics-doculect-129-807,chip1262-std,concepticon-1427,16.81,ančašuma,beautiful,ancasuma
+clics-doculect-129-808,chip1262-std,concepticon-1548,16.82,pʰiru,ugly,pkiru
+clics-doculect-129-809,chip1262-std,concepticon-2018,16.83,lxaxri,greedy,lxaxri
+clics-doculect-129-810,chip1262-std,concepticon-1310,16.84,kˀuɲčxi,clever,k?uncxi
+clics-doculect-129-811,chip1262-std,concepticon-1562,17.11,kuš,mind,kus
+clics-doculect-129-812,chip1262-std,concepticon-1415,17.13,lapˀiṣ̌iš,think (= reflect),lap?isis
+clics-doculect-129-813,chip1262-std,concepticon-1513,17.14,pinsiš,think (= be of the opinion),pinsis
+clics-doculect-129-814,chip1262-std,concepticon-1410,17.17,paxš,know,paxs
+clics-doculect-129-815,chip1262-std,concepticon-1410,17.17,šiš,know,sis
+clics-doculect-129-816,chip1262-std,concepticon-117,17.172,čʰiš,imitate,ckis
+clics-doculect-129-817,chip1262-std,concepticon-117,17.172,iratapaa,imitate,iratapaa
+clics-doculect-129-818,chip1262-std,concepticon-1609,17.19,tantiita,"idea, notion",tantiita
+clics-doculect-129-819,chip1262-std,concepticon-698,17.21,šišɲi,wise,sisni
+clics-doculect-129-820,chip1262-std,concepticon-1518,17.22,čʰira,"foolish, stupid",ckira
+clics-doculect-129-821,chip1262-std,concepticon-1899,17.23,rata,"insane, crazy",rata
+clics-doculect-129-822,chip1262-std,concepticon-504,17.24,š,learn,s
+clics-doculect-129-823,chip1262-std,concepticon-504,17.24,katoḳš,learn,katoks
+clics-doculect-129-824,chip1262-std,concepticon-709,17.25,tʰaaxinš,teach,tkaaxins
+clics-doculect-129-825,chip1262-std,concepticon-753,17.26,ɲi,pupil,ni
+clics-doculect-129-826,chip1262-std,concepticon-1038,17.27,tʰaaxiɲi,teacher,tkaaxini
+clics-doculect-129-827,chip1262-std,concepticon-707,17.31,kʰuɲš,remember,kkuns
+clics-doculect-129-828,chip1262-std,concepticon-1523,17.32,tʰatš,forget,tkats
+clics-doculect-129-829,chip1262-std,concepticon-1523,17.32,tx̣atš,forget,txats
+clics-doculect-129-830,chip1262-std,concepticon-1523,17.32,tʰwatš,forget,tkwats
+clics-doculect-129-831,chip1262-std,concepticon-989,17.34,sīɲi,"clear, plain",sini
+clics-doculect-129-832,chip1262-std,concepticon-1121,17.36,anašišta,secret,anasista
+clics-doculect-129-833,chip1262-std,concepticon-509,17.37,kuntˀiš,"sure, certain",kunt?is
+clics-doculect-129-834,chip1262-std,concepticon-509,17.37,ilʸu,"sure, certain",ilyu
+clics-doculect-129-835,chip1262-std,concepticon-1626,17.38,sḳat,explain,skat
+clics-doculect-129-836,chip1262-std,concepticon-1162,17.41,xapa,"intention, purpose",xapa
+clics-doculect-129-837,chip1262-std,concepticon-860,17.42,ḳat,cause,kat
+clics-doculect-129-838,chip1262-std,concepticon-1308,17.43,paysnak,doubt,paysnak
+clics-doculect-129-839,chip1262-std,concepticon-1902,17.441,tarašun,betray,tarasun
+clics-doculect-129-840,chip1262-std,concepticon-643,17.45,pekta,"need, necessity",pekta
+clics-doculect-129-841,chip1262-std,concepticon-686,17.46,pʰasila,easy,pkasila
+clics-doculect-129-842,chip1262-std,concepticon-584,17.47,čˀama,difficult,c?ama
+clics-doculect-129-843,chip1262-std,concepticon-1812,17.48,yans,"try, attempt",yans
+clics-doculect-129-844,chip1262-std,concepticon-1157,17.52,kʰen,because,kken
+clics-doculect-129-845,chip1262-std,concepticon-1459,17.53,niki,if,niki
+clics-doculect-129-846,chip1262-std,concepticon-1268,17.55,xeeš,"yes, affirmative",xees
+clics-doculect-129-847,chip1262-std,concepticon-1268,17.55,xesalʸa,"yes, affirmative",xesalya
+clics-doculect-129-848,chip1262-std,concepticon-1269,17.56,ana,"no, negative",ana
+clics-doculect-129-849,chip1262-std,concepticon-1239,17.61,xaknuš,how?,xaknus
+clics-doculect-129-850,chip1262-std,concepticon-822,17.62,ḳʰaṣ̌ut,how many?,kkasut
+clics-doculect-129-851,chip1262-std,concepticon-531,17.63,ḳʰaṣ̌u,how much?,kkasu
+clics-doculect-129-852,chip1262-std,concepticon-1236,17.64,č̣ʰulut,what?,ckulut
+clics-doculect-129-853,chip1262-std,concepticon-1238,17.65,č̣ʰulora,when?,ckulora
+clics-doculect-129-854,chip1262-std,concepticon-1237,17.66,xaḳsi,where?,xaksi
+clics-doculect-129-855,chip1262-std,concepticon-1237,17.66,xaḳsikin,where?,xaksikin
+clics-doculect-129-856,chip1262-std,concepticon-727,17.67,xakšilta,which?,xaksilta
+clics-doculect-129-857,chip1262-std,concepticon-1235,17.68,xekt,who?,xekt
+clics-doculect-129-858,chip1262-std,concepticon-1235,17.68,xekmi,who?,xekmi
+clics-doculect-129-859,chip1262-std,concepticon-1270,17.69,č̣ʰulx̣apa,why?,ckulxapa
+clics-doculect-129-860,chip1262-std,concepticon-1363,18.11,x̣ora,voice,xora
+clics-doculect-129-861,chip1262-std,concepticon-1261,18.12,its,sing,its
+clics-doculect-129-862,chip1262-std,concepticon-715,18.13,ḳʰaws,"shout, cry out",kkaws
+clics-doculect-129-863,chip1262-std,concepticon-55,18.15,pʰixšpiš,whisper,pkixspis
+clics-doculect-129-864,chip1262-std,concepticon-1025,18.17,smewš,whistle,smews
+clics-doculect-129-865,chip1262-std,concepticon-526,18.19,xaḳš,howl,xaks
+clics-doculect-129-866,chip1262-std,concepticon-526,18.19,xʷaḳš,howl,xwaks
+clics-doculect-129-867,chip1262-std,concepticon-1623,18.21,kʰi,"speak, talk",kki
+clics-doculect-129-868,chip1262-std,concepticon-1458,18.22,kʰi,say,kki
+clics-doculect-129-869,chip1262-std,concepticon-1115,18.222,čii,speech (make a),cii
+clics-doculect-129-870,chip1262-std,concepticon-48,18.23,čuxuṣ̌exl,silent (be),cuxusexl
+clics-doculect-129-871,chip1262-std,concepticon-1307,18.24,taḳu,language,taku
+clics-doculect-129-872,chip1262-std,concepticon-1599,18.26,taḳu,word,taku
+clics-doculect-129-873,chip1262-std,concepticon-1405,18.28,tʰuu,name,tkuu
+clics-doculect-129-874,chip1262-std,concepticon-1309,18.31,pewk,"ask (question, inquire)",pewk
+clics-doculect-129-875,chip1262-std,concepticon-1309,18.31,pekunš,"ask (question, inquire)",pekuns
+clics-doculect-129-876,chip1262-std,concepticon-1275,18.32,ḳʰaaš,answer,kkaas
+clics-doculect-129-877,chip1262-std,concepticon-2022,18.33,pax,"admit, confess",pax
+clics-doculect-129-878,chip1262-std,concepticon-755,18.34,irakipš,deny,irakips
+clics-doculect-129-879,chip1262-std,concepticon-755,18.34,sirašiṣ̌,deny,sirasis
+clics-doculect-129-880,chip1262-std,concepticon-1828,18.35,may,"ask, request",may
+clics-doculect-129-881,chip1262-std,concepticon-1828,18.35,ḳax,"ask, request",kax
+clics-doculect-129-882,chip1262-std,concepticon-1675,18.36,taḳutʰaa,promise,takutkaa
+clics-doculect-129-883,chip1262-std,concepticon-83,18.38,atax,forbid,atax
+clics-doculect-129-884,chip1262-std,concepticon-299,18.39,čiiṣ̌in,"rebuke, scold",ciisin
+clics-doculect-129-885,chip1262-std,concepticon-299,18.39,uxš,"rebuke, scold",uxs
+clics-doculect-129-886,chip1262-std,concepticon-299,18.39,čˀaa,"rebuke, scold",c?aa
+clics-doculect-129-887,chip1262-std,concepticon-1084,18.41,ḳʰawš,call (=summon),kkaws
+clics-doculect-129-888,chip1262-std,concepticon-180,18.42,tʰuuskatš,call (=name),tkuuskats
+clics-doculect-129-889,chip1262-std,concepticon-9,18.43,maššin,announce,massin
+clics-doculect-129-890,chip1262-std,concepticon-1192,18.44,čˀaaš,threaten,c?aas
+clics-doculect-129-891,chip1262-std,concepticon-101,18.45,xaktat,boast,xaktat
+clics-doculect-129-892,chip1262-std,concepticon-1672,18.51,kʰixrš,write,kkixrs
+clics-doculect-129-894,chip1262-std,concepticon-777,18.71,pirkalʸu,flute,pirkalyu
+clics-doculect-129-895,chip1262-std,concepticon-908,18.72,kaxa,drum,kaxa
+clics-doculect-129-896,chip1262-std,concepticon-1300,19.11,waxta,country,waxta
+clics-doculect-129-897,chip1262-std,concepticon-89,19.12,wextwaxta,one's native country,wextwaxta
+clics-doculect-129-898,chip1262-std,concepticon-1391,19.15,waxta,"city, town",waxta
+clics-doculect-129-899,chip1262-std,concepticon-930,19.16,waxta,village,waxta
+clics-doculect-129-900,chip1262-std,concepticon-789,19.21,ṣ̌oɲi,people (populace),soni
+clics-doculect-129-901,chip1262-std,concepticon-302,19.23,čipayṣ̌oɲi,"tribe, clan",cipaysoni
+clics-doculect-129-902,chip1262-std,concepticon-301,19.24,xiliri,"chief, chieftain",xiliri
+clics-doculect-129-903,chip1262-std,concepticon-1296,19.25,axc̷,"staff, walking stick",axc
+clics-doculect-129-904,chip1262-std,concepticon-1508,19.32,čawkxiliri,"king, ruler",cawkxiliri
+clics-doculect-129-905,chip1262-std,concepticon-812,19.42,ṣ̌oɲi,slave,soni
+clics-doculect-129-906,chip1262-std,concepticon-255,19.43,piyuna,servant,piyuna
+clics-doculect-129-907,chip1262-std,concepticon-1635,19.46,kaš,obey,kas
+clics-doculect-129-908,chip1262-std,concepticon-1003,19.47,tʰaa,"let, permit",tkaa
+clics-doculect-129-909,chip1262-std,concepticon-1358,19.52,ṣ̌oɲi,enemy,soni
+clics-doculect-129-910,chip1262-std,concepticon-1332,19.54,ṣ̌katiḳamɲiṣ̌oɲi,neighbor,skatikamnisoni
+clics-doculect-129-911,chip1262-std,concepticon-791,19.55,nakʰuɲtaṣ̌oɲi,stranger,nakkuntasoni
+clics-doculect-129-912,chip1262-std,concepticon-1782,19.56,ṣ̌oɲi,guest,soni
+clics-doculect-129-913,chip1262-std,concepticon-1897,19.58,yanap,"help, aid",yanap
+clics-doculect-129-914,chip1262-std,concepticon-1550,19.59,atax,"hinder, prevent",atax
+clics-doculect-129-915,chip1262-std,concepticon-1747,19.61,ɲi,custom,ni
+clics-doculect-129-916,chip1262-std,concepticon-1848,19.62,axaraš,"strife, quarrel",axaras
+clics-doculect-129-917,chip1262-std,concepticon-1848,19.62,čiyaš,"strife, quarrel",ciyas
+clics-doculect-129-918,chip1262-std,concepticon-1848,19.62,axš,"strife, quarrel",axs
+clics-doculect-129-919,chip1262-std,concepticon-2024,19.63,tantita,"conspiracy, plot",tantita
+clics-doculect-129-920,chip1262-std,concepticon-1831,19.65,šal,meet,sal
+clics-doculect-129-921,chip1262-std,concepticon-1610,19.72,wiiṣ̌oɲ,prostitute,wiison
+clics-doculect-129-922,chip1262-std,concepticon-1423,20.11,kʰatš,fight (vb),kkats
+clics-doculect-129-923,chip1262-std,concepticon-1423,20.11,ḳičaš,fight (vb),kicas
+clics-doculect-129-924,chip1262-std,concepticon-387,20.23,ḳˀorawa,sling,k?orawa
+clics-doculect-129-925,chip1262-std,concepticon-783,20.41,atipwin,victory,atipwin
+clics-doculect-129-926,chip1262-std,concepticon-1858,20.51,čˀištanɲiṣ̌oɲi,fisherman,c?istannisoni
+clics-doculect-129-927,chip1262-std,concepticon-389,20.55,kakuna,fish trap,kakuna
+clics-doculect-129-928,chip1262-std,concepticon-1435,20.61,parinaxwaxtioxḳ,hunt,parinaxwaxtioxk
+clics-doculect-129-929,chip1262-std,concepticon-1172,20.62,tʰak,shoot,tkak
+clics-doculect-129-930,chip1262-std,concepticon-1068,21.15,pʰalspwestu,court,pkalspwestu
+clics-doculect-129-931,chip1262-std,concepticon-1818,21.16,paa,judge (vb),paa
+clics-doculect-129-932,chip1262-std,concepticon-2020,21.21,uxtʰoxtɲi,plaintiff,uxtkoxtni
+clics-doculect-129-933,chip1262-std,concepticon-1034,21.22,uxčiškʰita,defendant,uxciskkita
+clics-doculect-129-934,chip1262-std,concepticon-1939,21.24,paa,swear,paa
+clics-doculect-129-935,chip1262-std,concepticon-1814,21.31,tʰoxtuns,accuse,tkoxtuns
+clics-doculect-129-936,chip1262-std,concepticon-484,21.32,tatʰaa,condemn,tatkaa
+clics-doculect-129-937,chip1262-std,concepticon-983,21.33,uxtʰee,convict (vb),uxtkee
+clics-doculect-129-938,chip1262-std,concepticon-988,21.34,anauxčišwaxt,acquit,anauxciswaxt
+clics-doculect-129-939,chip1262-std,concepticon-1682,21.35,uxčiš,guilty,uxcis
+clics-doculect-129-940,chip1262-std,concepticon-90,21.36,anauxčiš,innocent,anauxcis
+clics-doculect-129-941,chip1262-std,concepticon-845,21.42,ṣ̌oɲikon,murder,sonikon
+clics-doculect-129-942,chip1262-std,concepticon-1792,21.47,toskaračiiɲi,perjury,toskaraciini
+clics-doculect-129-943,chip1262-std,concepticon-713,21.51,txaŋš,steal,txaNGs
+clics-doculect-129-944,chip1262-std,concepticon-1160,21.52,tx̣aɲi,thief,txani

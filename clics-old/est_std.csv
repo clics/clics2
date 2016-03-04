@@ -1,0 +1,1657 @@
+@classification: Uralic,Finnic
+@ids-name: Estonian_Phonemic
+@iso: est
+@language: Estonian
+@size: 1650
+@source: ids
+@variety: std
+1.1	world	maailm
+1.21	earth, land	maa
+1.212	earth=ground, soil	maapind
+1.213	dust	tolm
+1.214	mud	muda
+1.215	sand	liiw
+1.22	mountain, hill	mægi
+1.222	cliff, precipice	kalyu
+1.23	plain, field	tasandik
+1.23	plain, field	pəld
+1.24	valley	or̃g
+1.25	island	saar̃
+1.26	mainland	manner̃
+1.26	mainland	mander̃
+1.27	shore	kallas
+1.27	shore	r̃and
+1.28	cave	koobas
+1.31	water	wesi
+1.32	sea	mer̃i
+1.322	calm (of sea)	r̃ahulik
+1.322	calm (of sea)	waikne
+1.323	rough (of sea)	tor̃mine
+1.324	foam	waht
+1.329	ocean	ookean
+1.33	lake	yær̃w
+1.34	gulf, bay	laht
+1.341	lagoon	laguun
+1.342	reef	kar̃i
+1.343	headland, point	neem
+1.35	wave	laine
+1.352	tide	təusjaməən
+1.353	lowtide	məən
+1.354	hightide	təus
+1.36	river, stream, brook	yəgi
+1.36	river, stream, brook	oya
+1.362	whirlpool	weekeer̃is
+1.37	spring, well	allikas
+1.37	spring, well	læte
+1.37	spring, well	kaew
+1.38	swamp	soo
+1.39	waterfall	kosk
+1.39	waterfall	yuga
+1.41	woods, forest	mets
+1.42	tree (cf 08.600)	puu
+1.43	wood	puit
+1.44	stone, rock	kiwi
+1.44	stone, rock	kalyu
+1.45	earthquake	maawær̃in
+1.51	sky	taewas
+1.52	sun	pæike
+1.53	moon	kuu
+1.54	star	tæht
+1.55	lightning	wælk
+1.56	thunder	kəu
+1.56	thunder	pikne
+1.56	thunder	mür̃istamine
+1.57	lightning (as striking)	pikne
+1.58	storm	tor̃m
+1.59	rainbow	wiker̃kaar̃
+1.61	light (noun)	walgus
+1.62	darkness	pimedus
+1.63	shade, shadow	war̃i
+1.64	dew	kaste
+1.71	air	əhk
+1.72	wind	tuul
+1.73	cloud	pilw
+1.74	fog	udu
+1.75	rain (noun)	wihm
+1.76	snow (noun)	lumi
+1.77	ice	yææ
+1.78	weather	ilm
+1.81	fire	tuli
+1.82	flame (noun)	leek
+1.83	smoke (noun)	suits
+1.84	ashes	tuhk
+1.841	embers	həəguwadsöed
+1.851	burn (vb trans)	pəletama
+1.852	burn (vb intrans)	pəlema
+1.86	light, kindle, ignite	süütama
+1.861	extinguish	kustutama
+1.87	match (noun)	tuletikk
+1.88	firewood	küttepuud
+1.89	charcoal	puusüsi
+2.1	person, human being	inimene
+2.21	man (vs. woman)	mees
+2.22	woman	naine
+2.23	male	meessoost
+2.24	female	naissoost
+2.25	boy	poiss
+2.251	young man (adolescent)	noor̃mees
+2.26	girl	tüdr̃uk
+2.261	young woman (adolescent)	neiu
+2.27	child	laps
+2.28	infant, baby	laps
+2.28	infant, baby	imik
+2.31	husband	mees
+2.31	husband	abikaasa
+2.32	wife	naine
+2.32	wife	abikaasa
+2.33	marry	abielluma
+2.34	marriage, wedding	abielu
+2.34	marriage, wedding	pulmad
+2.34	marriage, wedding	laulatus
+2.341	divorce	abielulahutus
+2.35	father	isa
+2.36	mother	ema
+2.37	parents	wanemad
+2.38	married man	abielumees
+2.39	married woman	abielunaine
+2.41	son	poeg
+2.42	daughter	tütar̃
+2.43	offspring (son or daughter)	yær̃eltuliya
+2.44	brother	wend
+2.444	older brother	wanemwend
+2.445	younger brother	noor̃emwend
+2.45	sister	əde
+2.454	older sister	waneməde
+2.455	younger sister	noor̃eməde
+2.456	sibling	əedwennad
+2.458	twins	kaksikud
+2.46	grandfather	wanaisa
+2.461	old man	wanamees
+2.47	grandmother	wanaema
+2.471	old woman	wananaine
+2.48	grandson	poyapoeg
+2.48	grandson	tütr̃epoeg
+2.49	granddaughter	poyatütar̃
+2.49	granddaughter	tütr̃etütar̃
+2.51	uncle	onu
+2.511	mother's brother	onu
+2.512	father's brother	lell
+2.52	aunt	tædi
+2.521	mother's sister	tædi
+2.522	father's sister	sətse
+2.53	nephew	wennapoeg
+2.53	nephew	əepoeg
+2.54	niece	wennatütar̃
+2.54	niece	əetütar̃
+2.55	cousin	nəbu
+2.56	ancestors	esiwanemad
+2.57	descendants	yær̃glased
+2.61	father-in-law (of a man)	æi
+2.611	father-in-law (of a woman)	æi
+2.62	mother-in-law (of a man)	æmm
+2.621	mother-in-law (of a woman)	æmm
+2.63	son-in-law (of a man)	wæimees
+2.631	son-in-law (of a woman)	wæimees
+2.64	daughter-in-law (of a man)	minia
+2.641	daughter-in-law (of a woman)	minia
+2.71	stepfather	wəər̃asisa
+2.72	stepmother	wəər̃asema
+2.73	stepson	wəər̃aspoeg
+2.74	stepdaughter	wəər̃astütar̃
+2.75	orphan	or̃b
+2.76	widow	lesk
+2.76	widow	lesknaine
+2.77	widower	lesk
+2.77	widower	leskmees
+2.81	relatives, kinsmen	sugulased
+2.82	family	per̃ekond
+2.91	I	mina
+2.92	you (singular)	sina
+2.93	he/she/it	tema
+2.93	he/she/it	ta
+2.94	we	meie
+2.94	we	me
+2.95	you (plural)	teie
+2.95	you (plural)	te
+2.96	they	nemad
+2.96	they	nad
+3.11	animal	loom
+3.12	male (adj)	isane
+3.13	female (adj)	emane
+3.15	livestock	kar̃iloomad
+3.16	pasture	kar̃yamaa
+3.18	herdsman	kar̃yus
+3.19	stable, stall	laut
+3.19	stable, stall	tall
+3.2	cattle (bovine)	kar̃iloomad
+3.21	bull	pull
+3.21	bull	sənn
+3.22	ox	hær̃g
+3.23	cow	lehm
+3.24	calf	wasikas
+3.25	sheep	lammas
+3.26	ram	oinas
+3.26	ram	yæær̃
+3.28	ewe	utt
+3.28	ewe	lammas
+3.29	lamb	woon
+3.29	lamb	tall
+3.32	boar	kult
+3.34	sow	emis
+3.35	pig	pər̃sas
+3.36	goat	kits
+3.37	he-goat	sokk
+3.38	kid	kitsetall
+3.41	horse (equine)	hobune
+3.42	stallion	tækk
+3.44	mare	mær̃a
+3.45	foal, colt	war̃ss
+3.46	ass, donkey	eesel
+3.47	mule	muul
+3.5	fowl	kodulind
+3.52	cock, rooster	kukk
+3.54	hen	kana
+3.55	chicken	kanapoeg
+3.56	goose	hani
+3.57	duck	par̃t
+3.58	nest	pesa
+3.581	bird	lind
+3.582	seagull	mer̃ikayakas
+3.583	heron	haigur̃
+3.584	eagle	kotkas
+3.585	hawk	kull
+3.586	vulture	r̃aisakotkas
+3.591	bat	nahkhiir̃
+3.592	parrot	papagoi
+3.593	crow	war̃es
+3.594	dove	tuwi
+3.596	owl	öökull
+3.61	dog	koer̃
+3.614	rabbit	yænes
+3.62	cat	kass
+3.622	opossum	opossum
+3.622	opossum	kukkur̃r̃ott
+3.63	mouse, rat	hiir̃
+3.63	mouse, rat	r̃ott
+3.65	fish	kala
+3.652	fin (dorsal)	uim
+3.653	fishscale	kalasoomus
+3.654	gill	ləpus
+3.655	shell	teokar̃p
+3.661	shark	hai
+3.662	porpoise, dolphin	delfiin
+3.663	whale	waal
+3.664	stingray	astelr̃ai
+3.665	freshwater eel	mageweeangeryas
+3.71	wolf	hunt
+3.72	lion	ləwi
+3.73	bear	kar̃u
+3.74	fox	r̃ebane
+3.75	deer	hir̃w
+3.76	monkey	ahw
+3.77	elephant	elewant
+3.78	camel	kaamel
+3.81	insect	putukas
+3.811	louse	tæi
+3.812	nit (louse egg)	ting
+3.812	nit (louse egg)	tæimuna
+3.813	flea	kir̃p
+3.814	centipede	sayayalgne
+3.815	scorpion	skor̃pion
+3.816	cockroach	pr̃ussakas
+3.817	ant	sipelgas
+3.818	spider	æmblik
+3.819	spider web	æmblikuwər̃k
+3.82	bee	mesilane
+3.821	beeswax	meewaha
+3.822	beehive	tar̃u
+3.822	beehive	mesipuu
+3.823	wasp	her̃ilane
+3.83	fly	kær̃bes
+3.831	sandfly (midge), gnat	kihulane
+3.831	sandfly (midge), gnat	sææsk
+3.832	mosquito	moskiito
+3.84	worm	uss
+3.84	worm	wagel
+3.85	snake	madu
+3.85	snake	uss
+3.91	firefly	yaanimar̃dikas
+3.92	butterfly	liblikas
+3.93	grasshopper	r̃ohutir̃ts
+3.94	snail	tigu
+3.95	frog	konn
+3.96	lizard	sisalik
+3.97	crocodile, alligator	kr̃okodill
+3.97	crocodile, alligator	alligaator̃
+3.98	turtle	kilpkonn
+4.11	body	keha
+4.11	body	ihu
+4.12	skin, hide	nahk
+4.13	flesh	liha
+4.14	hair (head)	yuuksed
+4.142	beard	habe
+4.144	body hair	kar̃wad
+4.145	pubic hair	hæbemekar̃wad
+4.146	dandruff	kəəm
+4.15	blood	wer̃i
+4.151	vein, artery	ween
+4.151	vein, artery	ar̃ter
+4.16	bone	kont
+4.16	bone	luu
+4.162	rib	r̃oie
+4.162	rib	r̃ibi
+4.17	horn	sar̃w
+4.18	tail	saba
+4.19	back	selg
+4.191	spine	selgr̃oog
+4.2	head	pea
+4.201	side of head, temple	meelekoht
+4.201	side of head, temple	oim
+4.202	skull	kolyu
+4.202	skull	pealuu
+4.203	brain	ayu
+4.204	face	nægu
+4.205	forehead	laup
+4.205	forehead	otsmik
+4.207	jaw	ləualuu
+4.208	cheek	pəsk
+4.209	chin	ləug
+4.21	eye	silm
+4.212	eyebrow	kulm
+4.213	eyelid	silmalaug
+4.214	eyelash	r̃ipse
+4.215	blink	silmipilgutama
+4.22	ear	kər̃w
+4.221	earlobe	kər̃wanibu
+4.222	earwax	kər̃wawaik
+4.23	nose	nina
+4.231	nostril	səər̃e
+4.232	mucus (nasal)	tatt
+4.24	mouth	suu
+4.241	beak	nokk
+4.25	lip	huul
+4.26	tongue	keel
+4.27	tooth	hammas
+4.271	gums	igemed
+4.272	molartooth	pur̃ihammas
+4.28	neck	kael
+4.281	nape of neck	kukal
+4.29	throat	kər̃i
+4.3	shoulder	əlg
+4.301	shoulderblade	abaluu
+4.302	collarbone	r̃angluu
+4.31	arm	kæsiwar̃s
+4.312	armpit	kaenlaauk
+4.32	elbow	küünar̃nukk
+4.321	wrist	r̃anne
+4.33	hand	kæsi
+4.331	palm of hand	pihk
+4.331	palm of hand	peopesa
+4.34	finger	sər̃m
+4.342	thumb	pöial
+4.344	fingernail	küüs
+4.345	claw	küünis
+4.35	leg	yalg
+4.351	thigh	r̃eis
+4.352	calf of leg	sæær̃emar̃i
+4.36	knee	pəlw
+4.37	foot	yalg
+4.37	foot	labayalg
+4.371	ankle	pahkluu
+4.372	heel	kand
+4.374	footprint	yælg
+4.38	toe	war̃was
+4.392	wing	tiib
+4.393	feather	sulg
+4.4	chest	r̃ind
+4.41	breast (of woman)	r̃ind
+4.412	nipple, teat	nisa
+4.412	nipple, teat	r̃ind
+4.42	udder	udar̃
+4.43	navel	naba
+4.44	heart	süda
+4.441	lung	kops
+4.45	liver	maks
+4.451	kidney	neer̃
+4.452	spleen	pər̃n
+4.46	stomach	magu
+4.461	intestines, guts	sisikond
+4.462	waist	piht
+4.462	waist	talye
+4.463	hip	puus
+4.464	buttocks	taguots
+4.464	buttocks	istmik
+4.47	womb	emakas
+4.49	testicle	munand
+4.492	penis	peenis
+4.51	breathe, breath	hingama
+4.51	breathe, breath	hingamine
+4.52	yawn, gape	haigutama
+4.521	hiccough	luksuma
+4.53	cough	köhima
+4.54	sneeze	aewastama
+4.55	perspire	higistama
+4.56	spit	sülitama
+4.57	vomit	oksendama
+4.58	bite	hammustama
+4.59	lick	lakkuma
+4.591	dribble	nir̃isema
+4.591	dribble	nər̃isema
+4.61	sleep	magama
+4.612	snore	nor̃skama
+4.62	dream	undnægema
+4.63	wake up	ær̃kama
+4.64	break wind	peer̃etama
+4.65	urinate	ur̃ineer̃ima
+4.65	urinate	kusema
+4.66	defecate	r̃ooyama
+4.66	defecate	sittuma
+4.67	have sexual intercourse	suguliseswahekor̃r̃asolema
+4.67	have sexual intercourse	nussima
+4.68	shiver	wær̃isema
+4.69	bathe	pesema
+4.69	bathe	suplema
+4.71	beget (of father)	sigitama
+4.72	born (to be)	sündima
+4.72	born (to be)	sündinud
+4.73	pregnant	r̃ase
+4.73	pregnant	tiine
+4.732	conceive	r̃asestuma
+4.732	conceive	eostuma
+4.74	live, living, life	elama
+4.74	live, living, life	elus
+4.74	live, living, life	elaw
+4.74	live, living, life	elu
+4.75	die, dead	sur̃ema
+4.75	die, dead	sur̃nud
+4.751	drowned	uppunud
+4.76	kill	tapma
+4.77	corpse	laip
+4.77	corpse	sur̃nukeha
+4.78	bury (the dead)	matma
+4.79	grave, tomb	haud
+4.79	grave, tomb	kalm
+4.81	strong, mighty, powerful	tugew
+4.81	strong, mighty, powerful	wəimas
+4.81	strong, mighty, powerful	wægew
+4.82	weak	nər̃k
+4.83	well, health	ter̃we
+4.83	well, health	ter̃wis
+4.84	sick, sickness	haige
+4.84	sick, sickness	haigus
+4.841	fever	palawik
+4.842	goiter	str̃uuma
+4.843	cold (catarrh)	külmetus
+4.85	wound, sore	haaw
+4.852	bruise	mulyumishaaw
+4.853	swelling	paistetus
+4.854	itch	sügelus
+4.854	itch	kihelus
+4.855	blister	wesiwill
+4.855	blister	r̃akk
+4.856	boil (noun)	paise
+4.857	pus	mæda
+4.858	scar	ar̃m
+4.86	cure, heal	r̃awima
+4.86	cure, heal	ter̃wekstegema
+4.87	physician	ar̃st
+4.88	medicine, drug	r̃awim
+4.88	medicine, drug	r̃ohi
+4.89	poison	mür̃k
+4.91	tired, weary	wæsinud
+4.912	rest	puhkama
+4.92	lazy	laisk
+4.93	bald	kiilas
+4.94	lame	lombakas
+4.94	lame	lonkaw
+4.95	deaf	kur̃t
+4.96	mute	tumm
+4.97	blind	pime
+4.98	intoxicated	pur̃yus
+4.98	intoxicated	yoobnud
+4.99	naked, bare	alasti
+4.99	naked, bare	palyas
+5.11	eat	sööma
+5.12	food	toit
+5.12	food	söök
+5.121	cooked	keedetud
+5.121	cooked	küpsetatud
+5.122	raw	toor̃es
+5.123	ripe	küps
+5.123	ripe	walminud
+5.124	green, unripe	r̃oheline
+5.124	green, unripe	ebaküps
+5.125	rotten	mædanenud
+5.13	drink	yooma
+5.14	hunger	nælg
+5.141	famine	nælg
+5.15	thirst	yanu
+5.16	suck	imema
+5.18	chew	mæluma
+5.18	chew	nær̃ima
+5.181	swallow	neelama
+5.19	choke	læmbuma
+5.19	choke	læmmatama
+5.21	cook	toituwalmistama
+5.22	boil (vb)	keetma
+5.23	roast, fry	pr̃aadima
+5.23	roast, fry	küpsetama
+5.24	bake	küpsetama
+5.25	oven	ahi
+5.26	pot, cooking vessel	pott
+5.26	pot, cooking vessel	kastr̃ul
+5.27	kettle	katel
+5.27	kettle	pada
+5.28	pan	pann
+5.31	dish	waagen
+5.31	dish	kauss
+5.32	plate	taldr̃ik
+5.33	bowl	kauss
+5.34	pitcher, jug	kann
+5.35	cup, drinking vessel	tass
+5.35	cup, drinking vessel	kr̃uus
+5.36	saucer	alustass
+5.37	spoon	lusikas
+5.38	knife	nuga
+5.39	fork	kahwel
+5.391	tongs	tangid
+5.41	meal (a)	söögiaeg
+5.41	meal (a)	eine
+5.42	breakfast	hommikueine
+5.42	breakfast	hommikusöök
+5.43	lunch	ləunaoode
+5.44	dinner	ləuna
+5.45	supper	əhtusöök
+5.45	supper	əhtueine
+5.46	peel	koor̃ima
+5.47	sieve, strain	səeluma
+5.47	sieve, strain	kur̃nama
+5.48	scrape	kr̃aapima
+5.48	scrape	kaapima
+5.49	stir, mix	segama
+5.49	stir, mix	liigutama
+5.51	bread	leib
+5.53	dough	tainas
+5.53	dough	taigen
+5.54	knead	sətkuma
+5.55	meal, flour	yahu
+5.56	crush, grind	yahwatama
+5.57	mill	weski
+5.58	mortar	uhmer̃
+5.59	pestle	uhmr̃inui
+5.61	meat	liha
+5.63	sausage	wor̃st
+5.64	soup, broth	supp
+5.64	soup, broth	pulyong
+5.65	vegetables	köögiwili
+5.66	bean	uba
+5.7	potato	kar̃tul
+5.71	fruit	puuwili
+5.712	bunch	kimp
+5.712	bunch	kobar̃
+5.75	fig	wiigimar̃i
+5.76	grape	wiinamar̃i
+5.77	nut	pæhkel
+5.78	olive	oliiw
+5.79	oil	əli
+5.791	grease, fat	r̃asw
+5.81	salt	sool
+5.82	pepper	pipar̃
+5.821	chili pepper	tšiilipipar̃
+5.84	honey	mesi
+5.85	sugar	suhkur̃
+5.86	milk (noun)	piim
+5.87	milk (vb)	lüpsma
+5.88	cheese	yuust
+5.89	butter	wəi
+5.9	beverage, drink	yook
+5.91	mead	mədu
+5.92	wine	wein
+5.93	beer	əlu
+5.94	fermented drink	kali
+5.97	egg	muna
+5.971	egg yolk	munakollane
+6.11	put on (clothes)	r̃iietuma
+6.12	clothing, clothes	r̃iided
+6.12	clothing, clothes	r̃əiwad
+6.13	tailor	r̃ætsep
+6.21	cloth	r̃iie
+6.21	cloth	kangas
+6.22	wool	will
+6.23	linen, flax	linaner̃iie
+6.23	linen, flax	lina
+6.24	cotton	puuwill
+6.25	silk	siid
+6.27	felt	wilt
+6.28	fur	kar̃usnahk
+6.29	leather	nahk
+6.31	spin	ketr̃ama
+6.32	spindle	wær̃ten
+6.33	weave	kangastkuduma
+6.34	loom	kangastelyed
+6.35	sew	əmblema
+6.36	needle	nəel
+6.37	awl	naaskel
+6.38	thread	niit
+6.38	thread	ləng
+6.39	dye	wær̃wima
+6.41	cloak	mantel
+6.411	poncho	pontšo
+6.42	woman's dress	kleit
+6.43	coat	kuub
+6.43	coat	pintsak
+6.44	shirt	sær̃k
+6.45	collar	kr̃ae
+6.46	skirt	seelik
+6.48	trousers	püksid
+6.49	stocking, sock	sukk
+6.49	stocking, sock	sokk
+6.51	shoe	king
+6.52	boot	saabas
+6.54	shoemaker, cobbler	kingsepp
+6.55	hat, cap	kübar̃
+6.55	hat, cap	müts
+6.57	belt, girdle	wöö
+6.58	glove	sər̃mkinnas
+6.59	veil	loor̃
+6.61	pocket	tasku
+6.62	button	nööp
+6.63	pin	nööpnəel
+6.71	ornament, adornment	kaunistus
+6.71	ornament, adornment	ehe
+6.72	jewel	yuweel
+6.72	jewel	kalliskiwi
+6.73	ring (for finger)	sər̃mus
+6.74	bracelet	kæewər̃u
+6.75	necklace	kaelakee
+6.76	bead	helmes
+6.76	bead	pær̃l
+6.77	earring	kər̃war̃əngas
+6.78	headband, headdress	peapael
+6.78	headband, headdress	yuukseehis
+6.79	tattoo	tætoweer̃ing
+6.81	handkerchief, rag	taskur̃ætik
+6.81	handkerchief, rag	r̃æbal
+6.81	handkerchief, rag	kalts
+6.82	towel	kæter̃ætik
+6.91	comb	kamm
+6.92	brush	har̃i
+6.921	braid	punuma
+6.921	braid	palmitsema
+6.93	razor	habemenuga
+6.94	ointment	salw
+6.94	ointment	wəie
+6.95	soap	seep
+6.96	mirror	peegel
+7.11	dwell, live	elama
+7.12	house	maya
+7.13	hut	hütt
+7.13	hut	onn
+7.131	garden-house	aiamaya
+7.14	tent	telk
+7.15	yard, court	əu
+7.15	yard, court	hoow
+7.16	men's house	poissmeestemaya
+7.17	cookhouse	suweköök
+7.18	meeting house	palwemaya
+7.21	room	tuba
+7.22	door, gate	uks
+7.22	door, gate	wær̃aw
+7.221	doorpost, jamb	uksepiit
+7.23	lock (noun)	lukk
+7.231	latch, door-bolt	link
+7.24	key	wəti
+7.25	window	aken
+7.26	floor	pər̃and
+7.27	wall	müür̃
+7.27	wall	sein
+7.31	fireplace	kamin
+7.32	stove	ahi
+7.33	chimney	kor̃sten
+7.37	ladder	r̃edel
+7.42	bed	woodi
+7.42	bed	sæng
+7.421	pillow	padi
+7.422	blanket	tekk
+7.43	chair	tool
+7.44	table	laud
+7.45	lamp, torch	lamp
+7.46	candle	küünal
+7.47	shelf	r̃iiul
+7.48	trough	küna
+7.48	trough	mold
+7.51	roof	katus
+7.52	thatch	əlgkatus
+7.53	ridgepole	har̃yapær̃lin
+7.54	rafter	sar̃ikas
+7.55	beam	tala
+7.56	post, pole	teiwas
+7.56	post, pole	latt
+7.57	board	plank
+7.57	board	laud
+7.58	arch	wəlw
+7.61	mason	müür̃sepp
+7.62	brick	telliskiwi
+7.63	mortar	mör̃t
+7.64	adobe	samaan
+7.64	adobe	plonn
+8.11	farmer	pəllumees
+8.11	farmer	talunik
+8.12	field (for cultivation)	pəld
+8.13	garden	aed
+8.15	cultivate, till	wilyelema
+8.15	cultivate, till	har̃ima
+8.16	fence	tar̃astama
+8.17	ditch	kr̃aaw
+8.21	plow	kündma
+8.21	plow	ader̃
+8.212	furrow	wagu
+8.22	dig	kaewama
+8.23	spade	labidas
+8.24	shovel	kühwel
+8.25	hoe	kəblas
+8.26	fork	har̃k
+8.26	fork	han
+8.26	fork	wigel
+8.27	rake	r̃eha
+8.31	sow	külwama
+8.311	seed	seeme
+8.32	mow, reap	niitma
+8.32	mow, reap	wilyaləikama
+8.33	sickle, scythe	sir̃p
+8.33	sickle, scythe	wikat
+8.34	thresh	wilyapeksma
+8.34	thresh	r̃ehtepeksma
+8.35	threshing-floor	r̃ehealune
+8.41	crop, harvest	saak
+8.41	crop, harvest	wilyaləikus
+8.42	grain (barley, oats etc)	ter̃awili
+8.43	wheat	nisu
+8.44	barley	oder̃
+8.45	rye	r̃ukis
+8.46	oats	kaer̃
+8.47	maize, corn	mais
+8.48	rice	r̃iis
+8.51	grass	r̃ohi
+8.52	hay	hein
+8.53	plant (noun)	taim
+8.531	plant (vb)	istutama
+8.54	root	yuur̃
+8.55	branch	oks
+8.56	leaf	leht
+8.57	flower	lill
+8.6	tree	puu
+8.61	oak	tamm
+8.62	beech	pöök
+8.63	birch	kask
+8.64	pine	mænd
+8.65	fir	kuusk
+8.66	acorn	tammetər̃u
+8.67	vine	wiinapuu
+8.67	vine	wiinamar̃yapəəsas
+8.68	tobacco	tubakas
+8.69	smoke (tobacco)	suitsetama
+8.691	pipe	piip
+8.72	tree stump	kænd
+8.73	tree trunk	puutüwi
+8.74	forked branch	har̃alineoks
+8.75	bark	puukoor̃
+8.76	sap	mahl
+8.81	palm tree	palm
+8.82	coconut	kookospæhkel
+8.83	citrus fruit	tsitr̃uswili
+8.84	banana tree	banaanipuu
+8.85	banyan	bengaliwiigipuu
+8.91	sweet potato	bataat
+8.91	sweet potato	maguskar̃tul
+8.912	yam	yamss
+8.92	tapioca, manioc, cassava	tapiokk
+8.93	gourd	pudelkər̃wits
+8.931	pumpkin, squash	kər̃wits
+8.94	bamboo	bambus
+8.941	sugar cane	suhkr̃ur̃oog
+8.97	nettle	nəges
+8.98	mushroom	seen
+9.11	do, make	tegema
+9.11	do, make	walmistama
+9.12	work	töötama
+9.14	bend	painutama
+9.15	fold	woltima
+9.16	tie, bind	siduma
+9.16	tie, bind	köitma
+9.161	untie	lahtisiduma
+9.18	chain	ahel
+9.18	chain	kett
+9.19	rope, cord	nöör̃̈
+9.19	rope, cord	pael
+9.19	rope, cord	köis
+9.192	knot (noun)	səlm
+9.21	strike (hit, beat)	lööma
+9.21	strike (hit, beat)	peksma
+9.211	pound with fist	r̃usikagalööma
+9.22	cut	ləikama
+9.221	cut down	kær̃pima
+9.221	cut down	mahaləikama
+9.222	chop, hew	r̃aiuma
+9.223	stab	læbipistma
+9.223	stab	pussitama
+9.23	knife	nuga
+9.24	scissors, shears	kæær̃id
+9.25	ax	kir̃wes
+9.251	adze	tahumiskir̃wes
+9.26	break	mur̃dma
+9.261	broken	mur̃tud
+9.27	split	ləhkuma
+9.27	split	ləhestama
+9.28	tear	r̃ebima
+9.28	tear	kiskuma
+9.29	flay, skin	nülgima
+9.29	flay, skin	nahkamahawətma
+9.31	rub, wipe	həər̃uma
+9.32	stretch	wenitama
+9.32	stretch	pinguletəmbama
+9.33	pull	təmbama
+9.34	spread out	laotama
+9.341	hang up	r̃iputama
+9.342	press	wayutama
+9.342	press	sur̃uma
+9.343	squeeze, wring	pigistama
+9.35	pour	walama
+9.35	pour	kallama
+9.36	wash	pesema
+9.37	sweep	pühkima
+9.38	broom	luud
+9.422	tool	töör̃iist
+9.43	carpenter	puusepp
+9.44	build	ehitama
+9.46	bore	puur̃ima
+9.461	hollow out	əənestama
+9.48	saw	saag
+9.49	hammer	haamer̃
+9.5	nail	nael
+9.56	glue	liim
+9.6	smith, blacksmith	sepp
+9.61	forge	sepistama
+9.62	anvil	alasi
+9.63	cast (metals)	walama
+9.64	gold	kuld
+9.65	silver	həbe
+9.66	copper, bronze	wask
+9.66	copper, bronze	pr̃onks
+9.67	iron	r̃aud
+9.68	lead (noun)	plii
+9.69	tin, tinplate	tina
+9.69	tin, tinplate	tinutatudplekk
+9.71	potter	pottsepp
+9.72	mold (clay etc)	wor̃miwalama
+9.72	mold (clay etc)	wor̃mima
+9.72	mold (clay etc)	woolima
+9.73	clay	sawi
+9.74	glass	klaas
+9.75	weave, plait	punuma
+9.75	weave, plait	palmima
+9.76	basket	kor̃w
+9.77	mat	matt
+9.77	mat	yalamatt
+9.771	rug	waip
+9.78	netbag	wər̃k
+9.79	fan (noun)	lehwik
+9.791	fan (vb)	tuulama
+9.791	fan (vb)	tuulutama
+9.81	carve	wælyar̃aiuma
+9.81	carve	woolima
+9.82	sculptor	skulptor̃
+9.83	statue	kuyu
+9.84	chisel	peitel
+9.84	chisel	meisel
+9.88	paint (noun)	wær̃w
+9.89	paint (vb)	wær̃wima
+10.11	move	liigutama
+10.12	turn over	pöör̃ama
+10.13	turn around	keer̃ama
+10.13	turn around	keer̃utama
+10.14	wind, wrap	mæssima
+10.14	wind, wrap	mæhkima
+10.15	roll	r̃ullima
+10.15	roll	weer̃etama
+10.16	drop (vb)	pillama
+10.17	twist	wæænama
+10.17	twist	keer̃ama
+10.21	rise	təusma
+10.22	raise, lift	təstma
+10.23	fall	kukkuma
+10.24	drip	tilkuma
+10.25	throw	wiskama
+10.252	catch (ball)	püüdma
+10.26	shake	r̃aputama
+10.32	flow	woolama
+10.33	sink	langema
+10.33	sink	laskuma
+10.33	sink	wayuma
+10.34	float	uyuma
+10.35	swim	uyuma
+10.351	dive	sukelduma
+10.352	splash	pladistama
+10.352	splash	pr̃itsima
+10.36	sail (vb)	pur̃yetama
+10.36	sail (vb)	laewagasəitma
+10.37	fly (vb)	lendama
+10.38	blow	puhuma
+10.41	creep, crawl	r̃oomama
+10.412	kneel	pəlwitama
+10.413	crouch	küür̃utama
+10.42	slide, slip	libisema
+10.43	jump, leap	hüppama
+10.431	kick	pətkima
+10.431	kick	yalagalööma
+10.44	dance	tantsima
+10.45	walk	kæima
+10.45	walk	kəndima
+10.451	limp	lonkama
+10.46	run	yooksma
+10.47	go	minema
+10.47	go	kæima
+10.471	go up	ülesminema
+10.472	climb	r̃onima
+10.473	go down	allaminema
+10.474	go out	wælyaminema
+10.48	come	tulema
+10.481	come back	tagasitulema
+10.481	come back	naasma
+10.49	go away, depart	lahkuma
+10.49	go away, depart	ær̃aminema
+10.491	disappear	kaduma
+10.51	flee	pəgenema
+10.52	follow	yær̃gnema
+10.52	follow	yær̃gima
+10.53	pursue	tagaayama
+10.53	pursue	yælitama
+10.55	reach, arrive	saabuma
+10.55	reach, arrive	yəudma
+10.56	approach	læhenema
+10.56	approach	liginema
+10.57	enter	sisenema
+10.57	enter	sisseastuma
+10.61	carry (bear)	kandma
+10.612	carry-in-hand	kandma
+10.612	carry-in-hand	kæeskandma
+10.613	carry-on-shoulder	əlalkandma
+10.614	carry-on-head	peapealkandma
+10.615	carry-underarm	kaenlaallkandma
+10.62	bring	tooma
+10.63	send	saatma
+10.64	lead (vb)	yuhtima
+10.65	drive	yuhtima
+10.66	ride	r̃atsutama
+10.66	ride	səitma
+10.67	push, shove	təukama
+10.67	push, shove	lükkama
+10.71	road	tee
+10.71	road	maantee
+10.72	path	teer̃ada
+10.72	path	yalgtee
+10.74	bridge	sild
+10.75	carriage, wagon, cart	wanker̃
+10.75	carriage, wagon, cart	wagun
+10.75	carriage, wagon, cart	kaar̃ik
+10.76	wheel	r̃atas
+10.77	axle	r̃attatelg
+10.77	axle	ass
+10.78	yoke	ike
+10.81	ship	laew
+10.83	boat	paat
+10.831	canoe	süst
+10.831	canoe	kanuu
+10.832	outrigger	ulgtullpaat
+10.84	raft	par̃w
+10.85	oar	aer̃
+10.851	paddle (noun)	məla
+10.852	row (vb)	səudma
+10.852	row (vb)	aer̃utama
+10.86	rudder	tüür̃
+10.86	rudder	r̃ool
+10.87	mast	mast
+10.88	sail (noun)	pur̃i
+10.89	anchor	ankur̃
+10.91	harbor, port	sadam
+10.92	land (vb)	maabuma
+10.92	land (vb)	r̃anduma
+11.11	have	olema
+11.12	own, possess	omama
+11.12	own, possess	waldama
+11.13	take	wətma
+11.14	seize, grasp	haar̃ama
+11.15	hold	hoidma
+11.15	hold	pidama
+11.16	get, obtain	saama
+11.16	get, obtain	saawutama
+11.17	keep, retain	hoidma
+11.17	keep, retain	sæilitama
+11.17	keep, retain	pidama
+11.18	thing	asi
+11.21	give	andma
+11.22	give back	tagasiandma
+11.22	give back	tagastama
+11.24	preserve, look after	sæilitama
+11.24	preserve, look after	hoidma
+11.25	save, rescue	pææstma
+11.25	save, rescue	wabastama
+11.27	destroy	hæwitama
+11.27	destroy	pur̃ustama
+11.28	harm, injure, damage	kahyustama
+11.31	seek, look for	otsima
+11.32	find	leidma
+11.33	lose	kaotama
+11.34	release, let go	wabastama
+11.34	release, let go	wabakslaskma
+11.43	money	r̃aha
+11.44	coin	münt
+11.51	rich	r̃ikas
+11.52	poor	waene
+11.53	beggar	ker̃yus
+11.53	beggar	sant
+11.54	avaricious, stingy	ahne
+11.61	lend	laenama
+11.61	lend	laenuksandma
+11.62	borrow	laenama
+11.62	borrow	laenukswətma
+11.63	owe	wəlgnema
+11.63	owe	wəlguolema
+11.64	debt	wəlg
+11.65	pay (vb)	maksma
+11.65	pay (vb)	tasuma
+11.66	account, reckoning	ar̃we
+11.69	tax, tribute	maks
+11.77	hire	töölewətma
+11.77	hire	palkama
+11.78	wages	palk
+11.78	wages	töötasu
+11.79	earn	teenima
+11.81	buy	ostma
+11.82	sell	müüma
+11.83	trade, barter	kauplema
+11.84	merchant	kaupmees
+11.85	market (place)	tur̃g
+11.86	store, shop	kauplus
+11.86	store, shop	pood
+11.87	price	hind
+11.88	dear (costly, expensive)	kallis
+11.89	cheap	odaw
+11.91	share (distribute)	yagama
+11.92	weigh	kaaluma
+12.1	after	pær̃ast
+12.11	place	taga
+12.2	beside	kər̃wal
+12.3	down, below	all
+12.3	down, below	alla
+12.4	before	enne
+12.41	right (side)	esikülg
+12.5	inside, in	sees
+12.6	outside	wælyas
+12.7	under	all
+12.8	up, above	ülewal
+12.8	up, above	kohal
+12.11	place	koht
+12.11	place	paik
+12.12	put	panema
+12.12	put	asetama
+12.13	sit	istuma
+12.14	lie down	lamama
+12.14	lie down	lebama
+12.15	stand	seisma
+12.16	remain, stay	yææma
+12.17	remains, left overs	yæægid
+12.21	collect, gather	koguma
+12.21	collect, gather	kor̃yama
+12.212	pick up	üleswətma
+12.212	pick up	üleskor̃yama
+12.213	pile up	kuhyama
+12.22	join, unite	ühendama
+12.22	join, unite	liitma
+12.23	separate	lahutama
+12.232	divide	yagama
+12.232	divide	yaotama
+12.24	open	awama
+12.24	open	lahtitegema
+12.25	shut, close	sulgema
+12.25	shut, close	kinnipanema
+12.26	cover	katma
+12.27	hide, conceal	peitma
+12.27	hide, conceal	war̃yama
+12.31	high	kər̃ge
+12.32	low	madal
+12.33	top	tipp
+12.34	bottom	pəhi
+12.35	end	ləpp
+12.352	pointed	ter̃aw
+12.353	edge	ser̃w
+12.353	edge	æær̃
+12.36	side	külg
+12.36	side	pool
+12.37	middle, center	keskmine
+12.37	middle, center	keskus
+12.41	right (side)	par̃em
+12.42	left (side)	wasak
+12.43	near (adv)	læhedal
+12.44	far (adv)	kaugel
+12.45	east	ida
+12.46	west	lææs
+12.47	north	pəhi
+12.48	south	ləuna
+12.53	grow	kaswama
+12.54	measure	məətma
+12.541	span, fathom	waks
+12.541	span, fathom	süld
+12.55	large, big	suur̃
+12.56	small, little	wæike
+12.57	long	pikk
+12.58	tall	pikk
+12.58	tall	kər̃ge
+12.59	short	lühike
+12.61	wide, broad	lai
+12.62	narrow	kitsas
+12.63	thick (in dimension)	paks
+12.65	thin (in dimension)	peenike
+12.65	thin (in dimension)	kəhn
+12.67	deep	sügaw
+12.68	shallow	madal
+12.71	flat	lame
+12.71	flat	tasane
+12.73	straight	sir̃ge
+12.74	crooked	kəwer̃
+12.74	crooked	wildak
+12.75	hook	konks
+12.75	hook	haak
+12.76	corner	nur̃k
+12.77	cross	r̃ist
+12.78	square	nelinur̃k
+12.81	round	ümmar̃gune
+12.82	circle	r̃ing
+12.83	sphere, ball	ker̃a
+12.83	sphere, ball	pall
+12.84	line	yoon
+12.84	line	r̃ida
+12.85	hole	auk
+12.92	like, similar	sar̃nane
+12.92	like, similar	samasugune
+12.93	change	muutma
+12.93	change	wahetama
+13.0	zero, nothing	null
+13.0	zero, nothing	mittemidagi
+13.1	one	üks
+13.2	two	kaks
+13.3	three	kolm
+13.4	four	neli
+13.5	five	wiis
+13.6	six	kuus
+13.7	seven	seitse
+13.8	eight	kaheksa
+13.9	nine	üheksa
+13.10	ten	kümme
+13.101	eleven	üksteist
+13.102	twelve	kaksteist
+13.103	fifteen	wiisteist
+13.104	twenty	kakskümmend
+13.105	hundred	sada
+13.106	thousand	tuhat
+13.107	count	loendama
+13.14	every, all	igaüks
+13.14	every, all	kəik
+13.15	much, many	palyu
+13.16	more	r̃ohkem
+13.17	little (quantity), few	wæhe
+13.18	enough	küllalt
+13.181	some	məni
+13.181	some	natuke
+13.19	multitude, crowd	hulk
+13.19	multitude, crowd	r̃ahwahulk
+13.21	full	tæis
+13.22	empty	tühi
+13.23	part, piece	osa
+13.23	part, piece	yagu
+13.23	part, piece	tükk
+13.24	half	pool
+13.33	alone, only	üksi
+13.33	alone, only	ainus
+13.33	alone, only	ainult
+13.33	alone, only	waid
+13.34	first	esimene
+13.35	last	wiimane
+13.36	second	teine
+13.37	pair	paar̃
+13.38	two times	kakskor̃da
+13.42	third	kolmas
+13.44	three times	kolmkor̃da
+14.11	time	aeg
+14.12	age	wanus
+14.13	new	uus
+14.14	young	noor̃
+14.15	old	wana
+14.16	early	war̃a
+14.17	late	hilya
+14.18	now	nüüd
+14.18	now	pr̃aegu
+14.19	immediately	otsekohe
+14.21	swift, fast, quick	kiir̃e
+14.21	swift, fast, quick	kær̃mas
+14.22	slow	aeglane
+14.23	hasten, hurry	kiir̃ustama
+14.23	hasten, hurry	r̃uttama
+14.24	retard, delay	wiiwitama
+14.25	begin, beginning	alustama
+14.25	begin, beginning	hakkama
+14.25	begin, beginning	algus
+14.252	last, endure	kestma
+14.26	end (temporal)	ləpp
+14.27	finish	ləpetama
+14.28	cease, stop	peatuma
+14.28	cease, stop	ləppema
+14.29	ready	walmis
+14.31	always	alati
+14.32	often	tihti
+14.32	often	sageli
+14.33	sometimes	mənikor̃d
+14.33	sometimes	wahel
+14.331	soon	war̃sti
+14.332	long-time (for a)	kaua
+14.34	never	mittekunagi
+14.34	never	eiiialgi
+14.35	again	yælle
+14.35	again	uuesti
+14.41	day	pæew
+14.42	night	öö
+14.43	dawn	koit
+14.43	dawn	koidik
+14.44	morning	hommik
+14.45	noon, midday	keskpæew
+14.45	noon, midday	ləuna
+14.451	afternoon	pær̃astləuna
+14.46	evening	əhtu
+14.47	today	tæna
+14.48	tomorrow	homme
+14.481	day-after-tomorrow	ülehomme
+14.49	yesterday	eile
+14.491	day-before-yesterday	üleeile
+14.51	hour	tund
+14.53	clock, timepiece	kell
+14.61	week	nædal
+14.62	Sunday	pühapæew
+14.63	Monday	esmaspæew
+14.64	Tuesday	teisipæew
+14.65	Wednesday	kolmapæew
+14.66	Thursday	nelyapæew
+14.67	Friday	r̃eede
+14.68	Saturday	laupæew
+14.71	month	kuu
+14.73	year	aasta
+14.74	winter	talw
+14.75	spring	kewad
+14.76	summer	suwi
+14.77	autumn	sügis
+14.78	season	aastaaeg
+15.21	smell (vb intrans)	ləhnama
+15.212	sniff	nuhutama
+15.22	smell (vb trans)	nuusutama
+15.25	fragrant, good smelling	healəhnaline
+15.25	fragrant, good smelling	ar̃omaatne
+15.26	stinking, bad smelling	haisew
+15.26	stinking, bad smelling	lehkaw
+15.31	taste	maitsma
+15.35	sweet	magus
+15.36	salty	soolane
+15.37	bitter	kibe
+15.37	bitter	mər̃u
+15.38	acid, sour	hapu
+15.39	brackish	soolakas
+15.41	hear	kuulma
+15.42	listen	kuulama
+15.44	sound, noise	heli
+15.44	sound, noise	hææl
+15.45	loud	wali
+15.45	loud	kəwa
+15.46	quiet, silence	waikus
+15.51	see	nægema
+15.52	look, look at	waatama
+15.52	look, look at	waatlema
+15.55	show	næitama
+15.56	shine	paistma
+15.56	shine	sær̃ama
+15.57	bright	hele
+15.57	bright	sær̃aw
+15.61	color	wær̃w
+15.62	light (in color)	hele
+15.63	dark (in color)	tume
+15.64	white	walge
+15.65	black	must
+15.66	red	punane
+15.67	blue	sinine
+15.68	green	r̃oheline
+15.69	yellow	kollane
+15.71	touch	puudutama
+15.712	pinch	næpistama
+15.72	feel	tundma
+15.74	hard	kəwa
+15.75	soft	pehme
+15.76	rough	kar̃e
+15.76	rough	kar̃m
+15.77	smooth	sile
+15.77	smooth	tasane
+15.78	sharp	ter̃aw
+15.79	blunt, dull	nür̃i
+15.81	heavy	r̃aske
+15.82	light (in weight)	ker̃ge
+15.83	wet, damp	mær̃g
+15.83	wet, damp	niiske
+15.84	dry	kuiw
+15.85	hot	kuum
+15.85	hot	tuline
+15.851	warm	soe
+15.86	cold	külm
+15.87	clean	puhas
+15.88	dirty, soiled	must
+15.88	dirty, soiled	mæær̃dunud
+15.89	wrinkled	kor̃tsuline
+16.11	soul, spirit	hing
+16.11	soul, spirit	waim
+16.15	surprised, astonished	imestunud
+16.15	surprised, astonished	üllatunud
+16.18	good fortune, luck	ənn
+16.19	misfortune, bad luck	ebaənn
+16.19	misfortune, bad luck	ənnetus
+16.23	joyful, glad, happy	r̃əəmus
+16.23	joyful, glad, happy	ləbus
+16.23	joyful, glad, happy	ənnelik
+16.25	laugh	naer̃ma
+16.251	smile	naer̃atama
+16.26	play	mængima
+16.27	love	ar̃mastus
+16.27	love	ar̃mastama
+16.29	kiss	suudlema
+16.3	embrace	embama
+16.31	pain	walu
+16.31	pain	piin
+16.32	grief, sorrow, sadness	kur̃bus
+16.32	grief, sorrow, sadness	kur̃wastus
+16.33	anxiety, worry	mur̃e
+16.34	regret, be sorry	kahetsema
+16.35	pity	kaastunne
+16.35	pity	halastus
+16.37	cry, weep	nutma
+16.38	tear (noun)	pisar̃
+16.39	groan	ægama
+16.39	groan	oigama
+16.41	hate	wihkama
+16.41	hate	wihkamine
+16.41	hate	wihawaen
+16.42	anger	wiha
+16.44	envy, jealousy	kadedus
+16.44	envy, jealousy	ar̃mukadedus
+16.45	shame (noun)	hæbi
+16.48	proud	uhke
+16.48	proud	kər̃k
+16.51	dare	yulgema
+16.51	dare	söandama
+16.52	brave	yulge
+16.52	brave	wapper̃
+16.53	fear, fright	kar̃tus
+16.53	fear, fright	hir̃m
+16.54	danger	hædaoht
+16.54	danger	oht
+16.62	desire, want	soowima
+16.62	desire, want	tahtma
+16.622	choose	walima
+16.63	hope	lootus
+16.65	faithful	ustaw
+16.65	faithful	tr̃uu
+16.66	true	əige
+16.66	true	təsi
+16.67	lie, tell lies	waletama
+16.68	deceit	pettus
+16.69	forgive	andestama
+16.69	forgive	andeksandma
+16.71	good	hea
+16.72	bad	halb
+16.72	bad	paha
+16.73	right, correct	əige
+16.74	wrong	wale
+16.74	wrong	wæær̃
+16.76	fault	süü
+16.77	mistake, error	wiga
+16.77	mistake, error	eksitus
+16.78	blame	laitus
+16.79	praise	kiitus
+16.81	beautiful	ilus
+16.81	beautiful	kaunis
+16.82	ugly	inetu
+16.83	greedy	ahne
+16.84	clever	tar̃k
+16.84	clever	intelligentne
+17.11	mind	məistus
+17.11	mind	ar̃u
+17.13	think (= reflect)	mətlema
+17.14	think (= be of the opinion)	ar̃wama
+17.15	believe	uskuma
+17.16	understand	ar̃usaama
+17.16	understand	məistma
+17.17	know	teadma
+17.17	know	tundma
+17.171	guess	ar̃wama
+17.171	guess	oletama
+17.172	imitate	yælyendama
+17.172	imitate	matkima
+17.18	seem	næima
+17.18	seem	tunduma
+17.19	idea, notion	məte
+17.19	idea, notion	idee
+17.19	idea, notion	kuyutlus
+17.21	wise	tar̃k
+17.22	foolish, stupid	r̃umal
+17.22	foolish, stupid	yuhm
+17.23	insane, crazy	hullumeelne
+17.23	insane, crazy	hull
+17.24	learn	əppima
+17.242	study	əppima
+17.25	teach	əpetama
+17.26	pupil	əpilane
+17.27	teacher	əpetaya
+17.28	school	kool
+17.31	remember	mæletama
+17.31	remember	meelespidama
+17.32	forget	unustama
+17.34	clear, plain	selge
+17.34	clear, plain	ar̃usaadaw
+17.35	obscure	selgusetu
+17.35	obscure	segane
+17.36	secret	salayane
+17.37	sure, certain	kindel
+17.38	explain	seletama
+17.38	explain	selgitama
+17.41	intention, purpose	kawatsus
+17.41	intention, purpose	eesmær̃k
+17.42	cause	pəhyustama
+17.42	cause	tekitama
+17.43	doubt	kahtlema
+17.44	suspect	kahtlustama
+17.441	betray	r̃eetma
+17.45	need, necessity	wayadus
+17.45	need, necessity	tar̃widus
+17.46	easy	ker̃ge
+17.47	difficult	r̃aske
+17.48	try, attempt	püüdma
+17.48	try, attempt	ür̃itama
+17.49	way, manner	toimimiswiis
+17.49	way, manner	kæitumine
+17.51	and	ya
+17.52	because	sestet
+17.52	because	sellepær̃astet
+17.53	if	kui
+17.54	or	wəi
+17.55	yes, affirmative	yah
+17.55	yes, affirmative	yaataw
+17.56	no, negative	ei
+17.56	no, negative	eitaw
+17.61	how?	kuidas?
+17.62	how many?	mitu?
+17.63	how much?	palyu?
+17.64	what?	mis?
+17.64	what?	mida?
+17.65	when?	millal?
+17.66	where?	kus?
+17.66	where?	kuhu?
+17.67	which?	missugune?
+17.67	which?	milline?
+17.68	who?	kes?
+17.69	why?	miks?
+18.11	voice	hææl
+18.12	sing	laulma
+18.13	shout, cry out	hüüdma
+18.13	shout, cry out	kar̃yuma
+18.15	whisper	sosistama
+18.16	mumble	pomisema
+18.17	whistle	wilistama
+18.18	shriek, screech	kr̃iiskama
+18.18	shriek, screech	kisendama
+18.19	howl	uluma
+18.19	howl	winguma
+18.21	speak, talk	r̃æækima
+18.21	speak, talk	kənelema
+18.211	stutter, stammer	kokutama
+18.211	stutter, stammer	kogelema
+18.22	say	ütlema
+18.221	tell story	yutustama
+18.222	speech (make a)	kənetpidama
+18.23	silent (be)	waikima
+18.23	silent (be)	waitolema
+18.24	language	keel
+18.26	word	səna
+18.28	name	nimi
+18.31	ask (question, inquire)	küsima
+18.32	answer	wastama
+18.33	admit, confess	möönma
+18.33	admit, confess	tunnistama
+18.34	deny	eitama
+18.35	ask, request	paluma
+18.35	ask, request	nəudma
+18.36	promise	lubama
+18.36	promise	təotama
+18.37	refuse	keelduma
+18.38	forbid	keelama
+18.39	rebuke, scold	noomima
+18.39	rebuke, scold	etteheiteidtegema
+18.41	call (=summon)	kutsuma
+18.42	call (=name)	nimetama
+18.43	announce	teatama
+18.43	announce	kuulutama
+18.44	threaten	æhwar̃dama
+18.45	boast	hooplema
+18.45	boast	kelkima
+18.51	write	kir̃yutama
+18.52	read	lugema
+18.56	paper	paber̃
+18.57	pen	sulg
+18.61	book	r̃aamat
+18.67	poet	luuletaya
+18.67	poet	poeet
+18.71	flute	flööt
+18.72	drum	tr̃umm
+18.73	horn, trumpet	sar̃w
+18.73	horn, trumpet	tr̃ompet
+18.74	rattle	kər̃isti
+19.11	country	maa
+19.12	one's native country	kodumaa
+19.12	one's native country	isamaa
+19.15	city, town	linn
+19.16	village	küla
+19.17	boundary	piir̃
+19.21	people (populace)	r̃ahwas
+19.23	tribe, clan	həim
+19.23	tribe, clan	sugukond
+19.24	chief, chieftain	pealik
+19.24	chief, chieftain	yuht
+19.25	staff, walking stick	kepp
+19.25	staff, walking stick	yalutuskepp
+19.31	rule, govern	walitsema
+19.31	rule, govern	yuhtima
+19.32	king, ruler	kuningas
+19.32	king, ruler	walitseya
+19.33	queen	kuninganna
+19.36	noble, nobleman	aadlik
+19.37	citizen, subject	kodanik
+19.37	citizen, subject	alam
+19.41	master	isand
+19.41	master	per̃emees
+19.42	slave	or̃i
+19.43	servant	teener̃
+19.44	freeman	wabamees
+19.44	freeman	wabakodanik
+19.45	command, order	kæskima
+19.45	command, order	kæsutama
+19.46	obey	kuuletuma
+19.46	obey	sənakuulma
+19.47	let, permit	lubama
+19.47	let, permit	laskma
+19.51	friend, companion	səber̃
+19.51	friend, companion	kaaslane
+19.52	enemy	waenlane
+19.54	neighbor	naaber̃
+19.55	stranger	wəər̃as
+19.56	guest	külaline
+19.57	host	per̃emees
+19.57	host	wəər̃ustaya
+19.58	help, aid	aitama
+19.59	hinder, prevent	segama
+19.59	hinder, prevent	takistama
+19.61	custom	komme
+19.61	custom	tawa
+19.62	strife, quarrel	r̃iid
+19.62	strife, quarrel	tüli
+19.63	conspiracy, plot	wandenəu
+19.63	conspiracy, plot	salaplaan
+19.65	meet	kohtama
+19.72	prostitute	pr̃ostituut
+19.72	prostitute	hoor̃
+20.11	fight (vb)	wəitlema
+20.13	war, battle	səda
+20.13	war, battle	lahing
+20.14	peace	r̃ahu
+20.15	army	ar̃mee
+20.15	army	səyawægi
+20.17	soldier	sədur̃
+20.21	weapons, arms	r̃elwad
+20.21	weapons, arms	səyar̃iistad
+20.22	club	nui
+20.222	battle-ax	tapper̃
+20.222	battle-ax	səyakir̃wes
+20.23	sling	ling
+20.24	bow	wibu
+20.25	arrow	nool
+20.26	spear	oda
+20.27	sword	məək
+20.28	gun, cannon	püss
+20.28	gun, cannon	kahur̃
+20.28	gun, cannon	suur̃tükk
+20.31	armor (defensive)	soomusr̃üǘ
+20.31	armor (defensive)	r̃audr̃üü
+20.33	helmet	kiiwer̃
+20.34	shield	kilp
+20.35	fortress	kindlus
+20.36	tower	tor̃n
+20.41	victory	wəit
+20.42	defeat	kaotus
+20.42	defeat	lüüasaamine
+20.43	attack	r̃ünnak
+20.44	defend	kaitsma
+20.45	retreat	taganema
+20.45	retreat	taanduma
+20.46	surrender	allaandma
+20.46	surrender	alistuma
+20.47	captive, prisoner	wangistatu
+20.47	captive, prisoner	wang
+20.471	guard, sentinel	walwur̃
+20.471	guard, sentinel	waht
+20.48	booty, spoils	saak
+20.48	booty, spoils	səyasaak
+20.49	ambush	war̃itsus
+20.51	fisherman	kalur̃
+20.51	fisherman	kalamees
+20.52	fishhook	əngekonks
+20.53	fishing line	əngenöör̃
+20.54	fishnet	kalawər̃k
+20.55	fish trap	mər̃d
+20.56	bait	sööt
+20.61	hunt	küttima
+20.62	shoot	laskma
+20.62	shoot	tulistama
+20.63	miss (target)	möödalaskma
+20.64	trap (noun)	ləks
+20.64	trap (noun)	püünis
+20.65	trap (vb)	ləksupüüdma
+21.11	law	əigus
+21.11	law	seadus
+21.15	court	kohus
+21.16	judge (vb)	kohutməistma
+21.17	judgment	kohtuotsus
+21.18	judge (noun)	kohtunik
+21.21	plaintiff	hageya
+21.22	defendant	kaebealune
+21.22	defendant	süüalune
+21.23	witness	tunnistaya
+21.24	swear	wanduma
+21.24	swear	wannetandma
+21.25	oath	wanne
+21.31	accuse	süüdistama
+21.32	condemn	süüdiməistma
+21.33	convict (vb)	süüdiməistma
+21.34	acquit	əigeksməistma
+21.35	guilty	süüdlane
+21.36	innocent	süütu
+21.37	penalty, punishment	kar̃istus
+21.38	fine	tr̃ahw
+21.39	prison, jail	wangla
+21.42	murder	mər̃w
+21.43	adultery	abielur̃ikkumine
+21.44	rape	wægistamine
+21.46	arson	süütamine
+21.47	perjury	walewanne
+21.51	steal	war̃astama
+21.52	thief	war̃as

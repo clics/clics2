@@ -1,0 +1,1440 @@
+@classification: Uto-Aztecan,Southern Uto-Aztecan,Sonoran,Cahita
+@iso: yaq
+@language: Yaqui
+@size: 1434
+@source: wold
+@variety: std
+1.1	world	ania
+1.21	earth, land	bwia
+1.212	earth=ground, soil	bwia
+1.213	dust	toochia
+1.214	mud	techoa
+1.215	sand	see’e
+1.22	mountain, hill	kawi
+1.222	cliff, precipice	siiba
+1.23	plain, field	pa’aria
+1.24	valley	pa’alabwia
+1.25	island	chopo’oria
+1.26	mainland	kontinente
+1.27	shore	bawemayoa
+1.28	cave	teeso
+1.31	water	ba’am
+1.32	sea	baawe
+1.322	calm (of sea)	kopalai
+1.323	rough (of sea)	ba’amojakte
+1.324	foam	somo’ichia
+1.329	ocean	bwe’ubaawe
+1.33	lake	bauba’a
+1.34	gulf, bay	wolpo
+1.341	lagoon	bauba’a
+1.342	reef	tetmajau
+1.343	headland, point	punta
+1.35	wave	bawero’aktim
+1.352	tide	bawero’aktim
+1.353	lowtide	sumia
+1.354	hightide	bawejikatbo’oka
+1.36	river, stream, brook	batwe
+1.36	river, stream, brook	jakia
+1.362	whirlpool	ba’aemokuria
+1.362	whirlpool	baikuria
+1.37	spring, well	sene’eka
+1.37	spring, well	pooso
+1.38	swamp	ba’ajeelo
+1.39	waterfall	ba’akomwechia
+1.41	woods, forest	juya
+1.43	wood	kuta
+1.44	stone, rock	teta
+1.45	earthquake	bwiaemoyoa
+1.51	sky	teeka
+1.52	sun	taa’a
+1.53	moon	meecha
+1.54	star	choki
+1.55	lightning	yukube’oktia
+1.56	thunder	yukujimaari
+1.57	lightning (as striking)	yukujimaari
+1.58	storm	yukujeka
+1.59	rainbow	kurues
+1.61	light (noun)	tachiria
+1.62	darkness	kutwaate
+1.63	shade, shadow	jekka
+1.64	dew	siijo’ote
+1.71	air	jeeka
+1.72	wind	jeeka
+1.73	cloud	naamu
+1.74	fog	bajewa
+1.75	rain (noun)	yuku
+1.76	snow (noun)	sapam
+1.77	ice	sapam
+1.78	weather	tiempo
+1.81	fire	taji
+1.82	flame (noun)	buaktia
+1.83	smoke (noun)	bwichia
+1.84	ashes	naposa
+1.841	embers	oubam
+1.851	burn (vb trans)	taya
+1.852	burn (vb intrans)	beete
+1.86	light, kindle, ignite	taya
+1.861	extinguish	tuucha
+1.87	match (noun)	seriom
+1.87	match (noun)	pojporo
+1.88	firewood	kutam
+1.89	charcoal	maatum
+2.1	person, human being	bato’i
+2.21	man (vs. woman)	o’ou
+2.22	woman	jamut
+2.23	male	o’ou
+2.24	female	jamut
+2.25	boy	usiju’ubwayo’otume
+2.251	young man (adolescent)	usiju’ubwayo’otume
+2.26	girl	ilijamut
+2.261	young woman (adolescent)	uusibeeme
+2.27	child	uusi
+2.28	infant, baby	iliuusi
+2.31	husband	kuuna
+2.32	wife	jubi
+2.33	marry	juube
+2.33	marry	kuuna
+2.34	marriage, wedding	jujupwame
+2.341	divorce	su’utojiwame
+2.35	father	achai
+2.36	mother	ae
+2.36	mother	maala
+2.37	parents	yo’owam
+2.38	married man	jupla
+2.39	married woman	kunala
+2.41	son	uusi
+2.41	son	pale
+2.41	son	paale
+2.42	daughter	asoa
+2.43	offspring (son or daughter)	yoemia
+2.44	brother	saila
+2.44	brother	sai
+2.444	older brother	sai
+2.445	younger brother	saila
+2.45	sister	ako
+2.454	older sister	ako
+2.455	younger sister	wai
+2.458	twins	wo’orim
+2.46	grandfather	apa
+2.46	grandfather	jaboi
+2.461	old man	yoemyo’otui
+2.47	grandmother	asu
+2.471	old woman	jamyo’ola
+2.471	old woman	jamutyo’otui
+2.48	grandson	apala
+2.48	grandson	apara
+2.48	grandson	amu
+2.48	grandson	jakara
+2.49	granddaughter	apala
+2.49	granddaughter	apara
+2.49	granddaughter	jakara
+2.51	uncle	jaabi
+2.51	uncle	taata
+2.51	uncle	kumui
+2.51	uncle	samai
+2.511	mother's brother	jaabi
+2.512	father's brother	jabai
+2.52	aunt	chi’ila
+2.52	aunt	ja’aka
+2.52	aunt	ne’esa
+2.521	mother's sister	chi’ila
+2.521	mother's sister	ne’esa
+2.522	father's sister	jaaka
+2.53	nephew	asowaara
+2.53	nephew	asowaala
+2.53	nephew	jakara
+2.53	nephew	samali
+2.53	nephew	jabire
+2.54	niece	jabire
+2.54	niece	jakara
+2.54	niece	asowaara
+2.54	niece	asowaala
+2.55	cousin	ako
+2.56	ancestors	yo’owe
+2.56	ancestors	yoowe
+2.57	descendants	chukulakatriam
+2.57	descendants	basiulam
+2.61	father-in-law (of a man)	ase’ebwa
+2.611	father-in-law (of a woman)	aseka
+2.63	son-in-law (of a man)	mo’one
+2.631	son-in-law (of a woman)	mo’one
+2.64	daughter-in-law (of a man)	jaborai
+2.641	daughter-in-law (of a woman)	jaborai
+2.71	stepfather	waimachai
+2.72	stepmother	waimmaala
+2.73	stepson	waimusi
+2.74	stepdaughter	waimmara
+2.74	stepdaughter	waimasoa
+2.75	orphan	leepe
+2.76	widow	jokoptui
+2.77	widower	jokoptui
+2.81	relatives, kinsmen	wawaira
+2.82	family	yoemia
+2.91	I	inepo
+2.92	you (singular)	empo
+2.93	he/she/it	aapo
+2.94	we	itepo
+2.941	we (inclusive)	itepo
+2.942	we (exclusive)	itepo
+2.95	you (plural)	eme’e
+2.96	they	bempo
+3.11	animal	animaal
+3.12	male (adj)	o’ou
+3.13	female (adj)	jamut
+3.15	livestock	wakasim
+3.16	pasture	poteo
+3.18	herdsman	kapyeo
+3.19	stable, stall	rancho
+3.2	cattle (bovine)	wakasim
+3.21	bull	too
+3.21	bull	tooro
+3.22	ox	boes
+3.23	cow	waakas
+3.24	calf	beseo
+3.25	sheep	bwara
+3.26	ram	obeso
+3.28	ewe	bwara
+3.29	lamb	bwara
+3.32	boar	juakowi
+3.34	sow	kowijamut
+3.35	pig	kowio’ou
+3.36	goat	kabaa
+3.36	goat	chiba’ato
+3.37	he-goat	kabaa
+3.38	kid	ilichiba’ato
+3.41	horse (equine)	kaba’i
+3.42	stallion	kaayojan
+3.44	mare	yeewa
+3.44	mare	kaba’ijamut
+3.45	foal, colt	ilikaba’i
+3.46	ass, donkey	buuru
+3.47	mule	muura
+3.52	cock, rooster	totoio’owia
+3.54	hen	totoijamut
+3.55	chicken	totoi
+3.56	goose	kanso
+3.57	duck	ba’amojakte’ela
+3.57	duck	paato
+3.58	nest	toosa
+3.581	bird	wiikit
+3.582	seagull	baetabeo
+3.583	heron	baawo’i
+3.584	eagle	suluma
+3.585	hawk	taawe
+3.586	vulture	tekoe
+3.591	bat	sochik
+3.592	parrot	baro
+3.593	crow	kooni
+3.594	dove	wokkoi
+3.596	owl	muu’u
+3.61	dog	chuu’u
+3.614	rabbit	taabu
+3.62	cat	miisi
+3.622	opossum	takwaachi
+3.63	mouse, rat	tori
+3.65	fish	kuchu
+3.652	fin (dorsal)	masam
+3.653	fishscale	kuupe
+3.661	shark	tamekame
+3.662	porpoise, dolphin	relpin
+3.663	whale	bujteme
+3.664	stingray	raaya
+3.664	stingray	yabarai
+3.71	wolf	juyachu’u
+3.72	lion	ousei
+3.73	bear	ooso
+3.74	fox	kawis
+3.75	deer	maaso
+3.76	monkey	cholua
+3.77	elephant	elepante
+3.78	camel	kameo
+3.81	insect	yoeria
+3.81	insect	insekto
+3.811	louse	ete
+3.812	nit (louse egg)	natchi’ika
+3.813	flea	teput
+3.814	centipede	masiwe
+3.815	scorpion	maachil
+3.816	cockroach	kuka
+3.817	ant	eeye
+3.818	spider	jubaje
+3.819	spider web	witosa
+3.82	bee	muumu
+3.821	beeswax	sito’ori
+3.821	beeswax	mumujo’ara
+3.822	beehive	muumum
+3.822	beehive	kolmeenam
+3.823	wasp	jimawikia
+3.823	wasp	bitaachi
+3.83	fly	se’eboi
+3.831	sandfly (midge), gnat	kuru
+3.832	mosquito	woo’o
+3.84	worm	chumkuria
+3.84	worm	bwitchia
+3.85	snake	baakot
+3.85	snake	baba’atukut
+3.91	firefly	kuupis
+3.92	butterfly	baise’eboli
+3.93	grasshopper	wakawo’ochi
+3.94	snail	kuakteme
+3.95	frog	batat
+3.96	lizard	wikuim
+3.97	crocodile, alligator	kama
+3.98	turtle	mochik
+4.11	body	takaa
+4.12	skin, hide	beea
+4.13	flesh	waakas
+4.13	flesh	tekua
+4.14	hair (head)	choonim
+4.142	beard	chaoboam
+4.144	body hair	boam
+4.145	pubic hair	boam
+4.146	dandruff	kobabeea
+4.15	blood	ojbo
+4.151	vein, artery	ojbowii’i
+4.16	bone	ota
+4.162	rib	sana’im
+4.17	horn	aawam
+4.18	tail	bwasia
+4.19	back	joo’o
+4.191	spine	jooota
+4.2	head	koba
+4.201	side of head, temple	kobananaa
+4.202	skull	kobaota
+4.203	brain	o’oream
+4.204	face	pujba
+4.205	forehead	kobameje’eria
+4.207	jaw	tabawasa’im
+4.208	cheek	jopem
+4.209	chin	chao
+4.21	eye	puusim
+4.212	eyebrow	kumsakam
+4.213	eyelid	pujbeam
+4.214	eyelash	pusse’ebem
+4.215	blink	kupikte
+4.22	ear	nakam
+4.221	earlobe	nakam
+4.222	earwax	nakabwita
+4.23	nose	yeka
+4.231	nostril	yekawojo’oria
+4.232	mucus (nasal)	chomkoria
+4.24	mouth	teeni
+4.241	beak	teeni
+4.241	beak	piiko
+4.25	lip	tenberia
+4.26	tongue	nini
+4.27	tooth	tamim
+4.271	gums	tamtekwa
+4.272	molartooth	tamim
+4.28	neck	kutanaa
+4.281	nape of neck	bi’am
+4.29	throat	kutanaa
+4.29	throat	kusia
+4.3	shoulder	jenom
+4.301	shoulderblade	omooplato
+4.301	shoulderblade	paleetam
+4.302	collarbone	tauota
+4.31	arm	mamam
+4.312	armpit	seekam
+4.32	elbow	techom
+4.321	wrist	koomim
+4.321	wrist	munyeeka
+4.33	hand	mamam
+4.331	palm of hand	mambeta’ariam
+4.34	finger	pusiam
+4.342	thumb	mampusiam
+4.344	fingernail	sutum
+4.345	claw	sutum
+4.35	leg	macham
+4.351	thigh	macham
+4.352	calf of leg	woktomam
+4.36	knee	tonom
+4.37	foot	wokim
+4.371	ankle	tero’okim
+4.372	heel	pempe’im
+4.374	footprint	wokjajai
+4.38	toe	bwe’uwokpusiam
+4.392	wing	masam
+4.393	feather	boa
+4.4	chest	tawi
+4.41	breast (of woman)	pipim
+4.412	nipple, teat	pipkoba
+4.42	udder	pipim
+4.43	navel	siiku
+4.44	heart	jiapsi
+4.44	heart	sula
+4.441	lung	sare’echia
+4.45	liver	jeemam
+4.451	kidney	sikupuriam
+4.452	spleen	baaso
+4.452	spleen	koyyoi
+4.46	stomach	toma
+4.461	intestines, guts	siiam
+4.462	waist	wikosa
+4.463	hip	wikosa
+4.464	buttocks	chobe
+4.47	womb	asoakari
+4.47	womb	souka
+4.47	womb	toma
+4.49	testicle	robonim
+4.49	testicle	bichoom
+4.492	penis	ju’i
+4.492	penis	bichoo
+4.51	breathe, breath	jiabijte
+4.52	yawn, gape	wa’awa’akte
+4.521	hiccough	je’okte
+4.53	cough	tase
+4.54	sneeze	ja’achijte
+4.55	perspire	tatabujte
+4.56	spit	chikwatte
+4.57	vomit	bisata
+4.58	bite	ke’e
+4.59	lick	be’okta
+4.591	dribble	chakte
+4.591	dribble	chichek
+4.61	sleep	koche
+4.612	snore	jororo’otijiia
+4.62	dream	tenku
+4.63	wake up	busa
+4.64	break wind	juujam
+4.65	urinate	siise
+4.66	defecate	bwita
+4.67	have sexual intercourse	nauto’ote
+4.67	have sexual intercourse	soa
+4.68	shiver	emoyooa
+4.69	bathe	uba
+4.69	bathe	ubba
+4.71	beget (of father)	te’ochia
+4.72	born (to be)	tomtek
+4.72	born (to be)	tomta
+4.73	pregnant	bwe’u
+4.732	conceive	yeunu’upa
+4.74	live, living, life	jiapsa
+4.75	die, dead	muuke
+4.751	drowned	ba’apomukia
+4.76	kill	me’a
+4.76	kill	sua
+4.77	corpse	mukila
+4.78	bury (the dead)	maa’a
+4.79	grave, tomb	jimai
+4.81	strong, mighty, powerful	utte’ak
+4.82	weak	kaautte’ak
+4.83	well, health	kaako’okoe
+4.84	sick, sickness	ko’okoe
+4.841	fever	tajiwechia
+4.842	goiter	kutanabajila
+4.843	cold (catarrh)	chomko’okoa
+4.85	wound, sore	sa’awa
+4.852	bruise	taako’ei
+4.853	swelling	bajila
+4.854	itch	elesikia
+4.855	blister	boyoria
+4.856	boil (noun)	purunkulo
+4.857	pus	bikaa
+4.858	scar	yore’eria
+4.86	cure, heal	tu’irea
+4.86	cure, heal	tu’itua
+4.87	physician	jitebii
+4.87	physician	lotor
+4.87	physician	lotoor
+4.87	physician	yoijitebi
+4.88	medicine, drug	jittoa
+4.89	poison	joyo
+4.89	poison	pajti
+4.91	tired, weary	lottila
+4.912	rest	yumjoe
+4.92	lazy	obe’a
+4.93	bald	kaakobaboak
+4.94	lame	ko’okoe
+4.95	deaf	nakapit
+4.96	mute	muuro
+4.96	mute	kaanonoka
+4.97	blind	lipti
+4.97	blind	ripti
+4.98	intoxicated	naamukia
+4.99	naked, bare	biichi
+4.99	naked, bare	kaatajo’orek
+5.11	eat	ji’ibwa
+5.11	eat	bwa’e
+5.12	food	bwa’ame
+5.121	cooked	bwasa’i
+5.122	raw	kaabwasi
+5.123	ripe	momoi
+5.124	green, unripe	kaamomoi
+5.125	rotten	bikala
+5.13	drink	je’e
+5.14	hunger	tebaure
+5.141	famine	tebaure
+5.15	thirst	ba’amuuke
+5.16	suck	che’e
+5.16	suck	chuune
+5.18	chew	ko’a
+5.181	swallow	wi’ukta
+5.19	choke	u’ukte
+5.21	cook	kisaroa
+5.21	cook	bwasa
+5.22	boil (vb)	pojte
+5.22	boil (vb)	pojtia
+5.23	roast, fry	soba
+5.23	roast, fry	kisaaroa
+5.24	bake	orniaroa
+5.25	oven	joona
+5.26	pot, cooking vessel	soto’i
+5.27	kettle	soto’i
+5.27	kettle	bwe’usoto’i
+5.28	pan	kaaso
+5.31	dish	pu’ato
+5.32	plate	pu’ato
+5.33	bowl	pu’atojoroi
+5.34	pitcher, jug	picheel
+5.34	pitcher, jug	soto’i
+5.35	cup, drinking vessel	taasa
+5.36	saucer	ilipu’ato
+5.37	spoon	kucha’ara
+5.37	spoon	kucha’a
+5.38	knife	kuchi’im
+5.39	fork	teneror
+5.391	tongs	tena’asam
+5.41	meal (a)	bwa’ame
+5.42	breakfast	ketwobwa’ame
+5.43	lunch	ketwibwa’ame
+5.44	dinner	luulakatekbwa’ame
+5.45	supper	kupteobwa’ame
+5.45	supper	kaamachiakbwa’ame
+5.46	peel	besuma
+5.47	sieve, strain	kolaroa
+5.48	scrape	bekta
+5.49	stir, mix	kuuta
+5.51	bread	paanim
+5.53	dough	kittim
+5.54	knead	kitta
+5.55	meal, flour	ainam
+5.56	crush, grind	tuuse
+5.57	mill	moina
+5.58	mortar	tutua
+5.59	pestle	tetatutua
+5.61	meat	waakas
+5.63	sausage	salchiicha
+5.64	soup, broth	soopam
+5.65	vegetables	bejetaalim
+5.66	bean	muunim
+5.7	potato	paapa
+5.71	fruit	taakam
+5.712	bunch	ibaktia
+5.712	bunch	bwijria
+5.75	fig	chuuna
+5.76	grape	uuba
+5.77	nut	nues
+5.78	olive	aseituuna
+5.79	oil	aseite
+5.791	grease, fat	awira
+5.81	salt	oona
+5.82	pepper	pimientam
+5.821	chili pepper	ko’okoi
+5.84	honey	mielim
+5.84	honey	kakam
+5.84	honey	mumuba’awam
+5.85	sugar	asuka
+5.86	milk (noun)	kauwam
+5.87	milk (vb)	jipi’ike
+5.88	cheese	keesum
+5.88	cheese	jipiknojim
+5.89	butter	mantekia
+5.9	beverage, drink	pomti
+5.9	beverage, drink	ji’iwame
+5.91	mead	ku’uba’a
+5.92	wine	biino
+5.93	beer	serbeesa
+5.94	fermented drink	ba’ajipo’okoim
+5.97	egg	kabam
+5.971	egg yolk	kabajiapsi
+6.11	put on (clothes)	tajo’ote
+6.11	put on (clothes)	tajo’otua
+6.12	clothing, clothes	tajo’ori
+6.13	tailor	tajo’otajojoame
+6.21	cloth	teela
+6.22	wool	bwaraboa
+6.23	linen, flax	liino
+6.24	cotton	chiinim
+6.25	silk	seeda
+6.27	felt	piltro
+6.28	fur	yoawabeea
+6.28	fur	beea
+6.29	leather	beea
+6.31	spin	wikiatajooa
+6.31	spin	ji’ika
+6.32	spindle	wi’ichaya’aria
+6.33	weave	ji’ika
+6.34	loom	wikiatajoowa’apo
+6.35	sew	ji’ika
+6.36	needle	ji’ikiam
+6.37	awl	bwe’uji’ikiam
+6.38	thread	wii’i
+6.39	dye	tojta
+6.41	cloak	jiniam
+6.41	cloak	bepa’aria
+6.411	poncho	joronwom
+6.42	woman's dress	supem
+6.43	coat	sukasupem
+6.43	coat	saakom
+6.44	shirt	supem
+6.45	collar	kutana
+6.45	collar	kueyo
+6.46	skirt	ko’arim
+6.48	trousers	saaweam
+6.48	trousers	pantaroonim
+6.49	stocking, sock	wokboosam
+6.49	stocking, sock	meriam
+6.49	stocking, sock	kalsetiinim
+6.51	shoe	boocham
+6.52	boot	bootam
+6.54	shoemaker, cobbler	sapateo
+6.54	shoemaker, cobbler	bochareo
+6.55	hat, cap	mo’obei
+6.57	belt, girdle	wikosa
+6.57	belt, girdle	tomajisumiam
+6.58	glove	mamboosam
+6.58	glove	wantem
+6.59	veil	beelom
+6.61	pocket	bolsiom
+6.61	pocket	boosam
+6.62	button	booton
+6.63	pin	alpiler
+6.71	ornament, adornment	arorno
+6.72	jewel	jooyam
+6.73	ring (for finger)	aniilio
+6.74	bracelet	pulseera
+6.75	necklace	kooka
+6.76	bead	kookam
+6.77	earring	reepam
+6.78	headband, headdress	tokila
+6.81	handkerchief, rag	paayum
+6.81	handkerchief, rag	tajo’orim
+6.82	towel	toayam
+6.91	comb	chichikia
+6.92	brush	sepio
+6.921	braid	bwassuma
+6.93	razor	rajtiom
+6.94	ointment	jittoa
+6.95	soap	saabum
+6.96	mirror	ejpeeko
+7.11	dwell, live	jo’ak
+7.12	house	kari
+7.13	hut	ramaa
+7.131	garden-house	raanja
+7.14	tent	bepa’aria
+7.15	yard, court	kancha
+7.17	cookhouse	kosina
+7.18	meeting house	auritoorio
+7.18	meeting house	yaajiwa’apo
+7.21	room	koato
+7.22	door, gate	pueta
+7.221	doorpost, jamb	marko
+7.221	doorpost, jamb	puetamayoa
+7.23	lock (noun)	kanraom
+7.24	key	yaabem
+7.25	window	bentaana
+7.26	floor	bwia
+7.27	wall	sapti
+7.31	fireplace	orniam
+7.32	stove	joona
+7.33	chimney	chimenea
+7.33	chimney	jibwitwojo’oria
+7.37	ladder	ejkalea
+7.42	bed	kaamam
+7.421	pillow	muteka
+7.422	blanket	piisam
+7.43	chair	banko
+7.44	table	meesa
+7.45	lamp, torch	lampaa
+7.46	candle	kanteelam
+7.47	shelf	repiisa
+7.48	trough	batea
+7.51	roof	bepa’aria
+7.52	thatch	ramaa
+7.54	rafter	biika
+7.55	beam	biika
+7.56	post, pole	pojte
+7.57	board	tappla
+7.58	arch	arko
+7.61	mason	albanyil
+7.62	brick	lakrio
+7.63	mortar	chu’aktiria
+7.64	adobe	saami
+8.11	farmer	rancheo
+8.12	field (for cultivation)	wajo’ori
+8.13	garden	echimu
+8.15	cultivate, till	eecha
+8.16	fence	kora
+8.17	ditch	sanja
+8.21	plow	mo’ite
+8.212	furrow	suuko
+8.22	dig	ji’ibweje
+8.23	spade	wojo’oria
+8.24	shovel	paalam
+8.25	hoe	asaroonim
+8.26	fork	orkeetam
+8.26	fork	orkiam
+8.27	rake	rajtiom
+8.31	sow	eecha
+8.311	seed	bachia
+8.32	mow, reap	jipesuma
+8.33	sickle, scythe	oosam
+8.34	thresh	jichiwe
+8.35	threshing-floor	alajea
+8.41	crop, harvest	jipesuma’i
+8.42	grain (barley, oats etc)	bachia
+8.43	wheat	tiikom
+8.44	barley	sebaara
+8.46	oats	abeena
+8.47	maize, corn	bachi
+8.48	rice	arosim
+8.51	grass	baso
+8.52	hay	baso
+8.53	plant (noun)	juya
+8.531	plant (vb)	eecha
+8.54	root	naawa
+8.55	branch	buja
+8.56	leaf	saawa
+8.57	flower	seewa
+8.6	tree	juya
+8.62	beech	okotaaka
+8.64	pine	oko
+8.64	pine	piino
+8.67	vine	wiroa
+8.68	tobacco	biiba
+8.69	smoke (tobacco)	yena
+8.691	pipe	piipa
+8.691	pipe	amayeyenwame
+8.72	tree stump	naawa
+8.73	tree trunk	naawa
+8.74	forked branch	nassa’akaria
+8.74	forked branch	taka’aria
+8.75	bark	beea
+8.76	sap	juyaba’a
+8.81	palm tree	tako
+8.82	coconut	kooko
+8.83	citrus fruit	sittriko
+8.84	banana tree	laatano
+8.84	banana tree	plaatano
+8.91	sweet potato	kamoote
+8.93	gourd	aokos
+8.93	gourd	arokosi
+8.931	pumpkin, squash	kama
+8.94	bamboo	bakao
+8.941	sugar cane	asuka
+8.941	sugar cane	yoisana
+8.96	fish poison (root)	joyo
+8.96	fish poison (root)	pajti
+8.97	nettle	wicha
+8.98	mushroom	burusiisi
+9.11	do, make	jooa
+9.12	work	tekipanoa
+9.14	bend	po’olachaya
+9.14	bend	po’olacha’atu
+9.15	fold	totta
+9.16	tie, bind	suma
+9.161	untie	butta
+9.18	chain	karenam
+9.19	rope, cord	wikia
+9.192	knot (noun)	tenko’i
+9.21	strike (hit, beat)	beba
+9.211	pound with fist	tutuse
+9.22	cut	chukta
+9.221	cut down	tatabe
+9.222	chop, hew	chukta
+9.223	stab	soa
+9.223	stab	kuchi’isoa
+9.23	knife	kuchi’im
+9.24	scissors, shears	chaptiam
+9.25	ax	tepuam
+9.26	break	jamte
+9.26	break	jamta
+9.261	broken	jamtila
+9.27	split	chukta
+9.28	tear	siuta
+9.29	flay, skin	beayecha
+9.31	rub, wipe	ruuse
+9.32	stretch	sunte
+9.32	stretch	sunta
+9.33	pull	wike
+9.34	spread out	na’ikimte
+9.341	hang up	chaya
+9.342	press	kutta
+9.343	squeeze, wring	piike
+9.35	pour	yeuwo’ota
+9.36	wash	baksia
+9.37	sweep	jichike
+9.38	broom	jichikia
+9.422	tool	eramienta
+9.422	tool	sisi’iwoochi
+9.43	carpenter	kapinteo
+9.44	build	kaate
+9.46	bore	wojokta
+9.461	hollow out	bwekaate
+9.48	saw	seruuchom
+9.49	hammer	martiom
+9.5	nail	laabos
+9.56	glue	chu’aktiria
+9.6	smith, blacksmith	ereo
+9.61	forge	joona
+9.63	cast (metals)	pundiaroa
+9.64	gold	ooro
+9.65	silver	laata
+9.65	silver	plaata
+9.66	copper, bronze	koppre
+9.66	copper, bronze	ronse
+9.67	iron	sisi’iwoki
+9.68	lead (noun)	ploomo
+9.69	tin, tinplate	ejtanyo
+9.71	potter	alpareo
+9.72	mold (clay etc)	jooa
+9.73	clay	baabu
+9.74	glass	limeete
+9.75	weave, plait	bwassuma
+9.75	weave, plait	ji’ika
+9.76	basket	waari
+9.77	mat	jipetam
+9.78	netbag	maayamboosa
+9.79	fan (noun)	abaniiko
+9.791	fan (vb)	abanikaroa
+9.791	fan (vb)	baijekta
+9.81	carve	ejkulpiaroa
+9.82	sculptor	ejkultoor
+9.83	statue	ejtaatua
+9.84	chisel	ponchumu’uria
+9.88	paint (noun)	yokia
+9.89	paint (vb)	yoka
+10.11	move	rukta
+10.11	move	mobeiaroa
+10.12	turn over	kuakte
+10.13	turn around	kuakta
+10.14	wind, wrap	bi’ita
+10.15	roll	biakta
+10.16	drop (vb)	komtatabe
+10.17	twist	totta
+10.21	rise	ja’amu
+10.22	raise, lift	pu’akta
+10.23	fall	komweche
+10.24	drip	chakte
+10.25	throw	jimaa
+10.252	catch (ball)	bwise
+10.26	shake	tatake
+10.32	flow	bwite
+10.33	sink	ba’apokomsiime
+10.33	sink	ba’akomsimtua
+10.34	float	ba’apocha’asisime
+10.35	swim	bajume
+10.351	dive	ropte
+10.352	splash	chijakte
+10.352	splash	chijakta
+10.36	sail (vb)	ba’ajoa
+10.37	fly (vb)	ne’e
+10.38	blow	pujta
+10.38	blow	pujte
+10.41	creep, crawl	waka’ate
+10.412	kneel	tonommeakikte
+10.412	kneel	tonommeajapte
+10.413	crouch	po’okte
+10.42	slide, slip	suulu
+10.43	jump, leap	tubukte
+10.43	jump, leap	chepte
+10.431	kick	tetemu
+10.44	dance	ye’e
+10.45	walk	weye
+10.45	walk	kaate
+10.451	limp	ro’ite
+10.46	run	bwite
+10.46	run	tenne
+10.47	go	siika
+10.471	go up	ja’amu
+10.472	climb	ja’amu
+10.473	go down	komyecha
+10.473	go down	komjoa
+10.474	go out	yeuweye
+10.474	go out	yeusiime
+10.48	come	a’aboweye
+10.481	come back	notte
+10.49	go away, depart	si’ime
+10.491	disappear	lu’ute
+10.51	flee	bwite
+10.52	follow	jajase
+10.53	pursue	jajase
+10.55	reach, arrive	jajame
+10.56	approach	rukte
+10.56	approach	rukta
+10.57	enter	kibake
+10.61	carry (bear)	weiya
+10.612	carry-in-hand	machu’ute
+10.613	carry-on-shoulder	pu’akte
+10.614	carry-on-head	mobe’ete
+10.615	carry-underarm	sekawaasime
+10.62	bring	nu’upa
+10.63	send	bittua
+10.64	lead (vb)	bo’otoja
+10.65	drive	weetua
+10.66	ride	kaba’ite
+10.66	ride	choopo
+10.67	push, shove	yu’a
+10.71	road	kareteera
+10.72	path	boo’o
+10.74	bridge	puentes
+10.75	carriage, wagon, cart	kareeta
+10.76	wheel	rueram
+10.77	axle	eeje
+10.78	yoke	tenko’oria
+10.81	ship	bajut
+10.81	ship	barko
+10.83	boat	bajut
+10.83	boat	boote
+10.831	canoe	bajut
+10.831	canoe	kanoa
+10.832	outrigger	batanka
+10.84	raft	bajut
+10.85	oar	reemom
+10.851	paddle (noun)	ilitchireemom
+10.852	row (vb)	remaroa
+10.86	rudder	tiimon
+10.87	mast	majtil
+10.88	sail (noun)	beelam
+10.89	anchor	amklam
+10.91	harbor, port	pueto
+10.92	land (vb)	resembarkaroa
+11.11	have	jippue
+11.12	own, possess	jippue
+11.13	take	nu’e
+11.14	seize, grasp	bwisi
+11.15	hold	jippue
+11.15	hold	machu’ute
+11.16	get, obtain	nu’uka
+11.17	keep, retain	jippue
+11.18	thing	jita
+11.21	give	maka
+11.22	give back	notta
+11.24	preserve, look after	ania
+11.25	save, rescue	ania
+11.25	save, rescue	salbaroa
+11.27	destroy	mojakta
+11.28	harm, injure, damage	ko’okosiyaa
+11.31	seek, look for	jariwa
+11.32	find	tea
+11.33	lose	ta’aru
+11.34	release, let go	su’utoja
+11.43	money	tomi
+11.44	coin	tomi
+11.51	rich	tomekame
+11.52	poor	poloobe
+11.53	beggar	poobe
+11.54	avaricious, stingy	emojiokoera
+11.61	lend	reuwa
+11.62	borrow	rewe
+11.63	owe	wikiria
+11.64	debt	wikiriawame
+11.65	pay (vb)	beje’etua
+11.66	account, reckoning	kueenta
+11.69	tax, tribute	impuejtom
+11.77	hire	takea
+11.78	wages	tomiyo’ori
+11.79	earn	yo’o
+11.81	buy	jinu
+11.82	sell	nenka
+11.83	trade, barter	nakulia
+11.84	merchant	jitanenenkame
+11.85	market (place)	jitanenenkiwa’apo
+11.85	market (place)	merkao
+11.86	store, shop	tienra
+11.87	price	beje’ewa
+11.88	dear (costly, expensive)	beje’e
+11.89	cheap	kaabeje’e
+11.91	share (distribute)	na’ikimte
+11.92	weigh	pesaroa
+12.11	place	jakria
+12.12	put	yecha
+12.12	put	joa
+12.13	sit	yejte
+12.13	sit	joote
+12.14	lie down	bo’ote
+12.14	lie down	to’ote
+12.15	stand	kikte
+12.15	stand	japte
+12.16	remain, stay	tawala
+12.17	remains, left overs	be’eri
+12.21	collect, gather	nautoja
+12.212	pick up	nautoja
+12.213	pile up	naumonto
+12.22	join, unite	nautoja
+12.23	separate	na’ikimte
+12.232	divide	na’ikimte
+12.24	open	etapo
+12.25	shut, close	eta
+12.26	cover	patta
+12.26	cover	jinte
+12.27	hide, conceal	e’eria
+12.31	high	mekjikachi
+12.32	low	ko’ome’ela
+12.33	top	bepa’aria
+12.34	bottom	komria
+12.35	end	lu’utek
+12.352	pointed	bwawisibulai
+12.353	edge	mayoa
+12.36	side	chaka’aria
+12.37	middle, center	nasukria
+12.37	middle, center	sentro
+12.41	right (side)	batam
+12.42	left (side)	mikko’im
+12.43	near (adv)	kaamekka
+12.44	far (adv)	mekka
+12.45	east	kawbetana
+12.45	east	ejte
+12.46	west	bawebetana
+12.46	west	oejte
+12.47	north	ta’ataamankomwechebetana
+12.47	north	noote
+12.48	south	ta’atayeuweyebetana
+12.48	south	suur
+12.53	grow	yo’otu
+12.54	measure	tamachia
+12.54	measure	meriaroa
+12.541	span, fathom	mambebeme’eku
+12.55	large, big	bwe’u
+12.56	small, little	ilitchi
+12.57	long	teebe
+12.58	tall	teebe
+12.59	short	pochilai
+12.61	wide, broad	bweeka
+12.62	narrow	na’ulai
+12.63	thick (in dimension)	ousimaachi
+12.65	thin (in dimension)	wakila
+12.67	deep	mekkako’omi
+12.68	shallow	kaatuamekkako’omi
+12.71	flat	chitabetalai
+12.73	straight	lutulai
+12.74	crooked	tottia
+12.75	hook	kancho
+12.76	corner	kobi’iria
+12.76	corner	ejkiina
+12.77	cross	kuus
+12.77	cross	kurus
+12.78	square	koarao
+12.81	round	lobolai
+12.82	circle	ko’elai
+12.83	sphere, ball	pelo’otam
+12.84	line	wii’i
+12.85	hole	wojo’oria
+12.92	like, similar	nana’ana
+12.93	change	nakulia
+13.1	one	wojmamni
+13.1	one	dies
+13.101	eleven	wojmamniamawepulai
+13.101	eleven	onse
+13.102	twelve	wojmamniamawoi
+13.102	twelve	dose
+13.103	fifteen	wojmamniamamamni
+13.103	fifteen	kinse
+13.104	twenty	senutakaa
+13.104	twenty	beinte
+13.105	hundred	mamnitakaa
+13.105	hundred	sien
+13.106	thousand	miil
+13.107	count	jina’ikia
+13.14	every, all	si’ime
+13.15	much, many	ousi
+13.16	more	bu’u
+13.16	more	ousi
+13.17	little (quantity), few	iliiki
+13.18	enough	bu’u
+13.181	some	jita
+13.19	multitude, crowd	bu’ura
+13.21	full	tapunia
+13.22	empty	june’ela
+13.23	part, piece	rebei
+13.24	half	nasukamani
+13.33	alone, only	jiba
+13.34	first	wepulria
+13.35	last	amauweyeme
+13.36	second	woiria
+13.37	pair	woi
+13.38	two times	woisia
+13.42	third	bajiria
+13.44	three times	bajisia
+14.11	time	tiempo
+14.12	age	wasuktia
+14.13	new	bemela
+14.14	young	uusiju’ubwayo’otume
+14.15	old	o’ora
+14.16	early	ketwo
+14.17	late	kupteo
+14.18	now	ian
+14.18	now	i’ani
+14.19	immediately	jaleppana
+14.21	swift, fast, quick	chumti
+14.21	swift, fast, quick	u’ute
+14.21	swift, fast, quick	lauti
+14.22	slow	laautia
+14.23	hasten, hurry	bamse
+14.24	retard, delay	binwatu
+14.25	begin, beginning	naate
+14.252	last, endure	wasuktek
+14.252	last, endure	meechak
+14.252	last, endure	taewaek
+14.26	end (temporal)	lu’utek
+14.27	finish	lu’uta
+14.27	finish	tejale
+14.27	finish	ansu
+14.28	cease, stop	kikte
+14.28	cease, stop	japte
+14.29	ready	beja
+14.31	always	jiba
+14.31	always	chikti
+14.32	often	jibajeela
+14.33	sometimes	amako
+14.331	soon	lautia
+14.331	soon	leptia
+14.331	soon	sepia
+14.331	soon	sep
+14.332	long-time (for a)	bejako
+14.34	never	kaibu
+14.34	never	katchan
+14.35	again	intuchia
+14.35	again	juchia
+14.41	day	taewai
+14.42	night	tukaa
+14.42	night	tukaaria
+14.43	dawn	maukaa
+14.43	dawn	alba
+14.44	morning	yokoria
+14.45	noon, midday	luulakateko
+14.451	afternoon	kupteo
+14.46	evening	bijpaam
+14.47	today	i’ani
+14.48	tomorrow	yooko
+14.481	day-after-tomorrow	matchuko
+14.49	yesterday	tuuka
+14.491	day-before-yesterday	battuuka
+14.51	hour	oora
+14.53	clock, timepiece	relok
+14.61	week	semaana
+14.62	Sunday	lominko
+14.63	Monday	luunes
+14.64	Tuesday	maates
+14.65	Wednesday	miekoles
+14.66	Thursday	juebes
+14.67	Friday	bienes
+14.68	Saturday	sabala
+14.71	month	meecha
+14.73	year	wasuktia
+14.74	winter	sebemeecha
+14.75	spring	sewameecha
+14.76	summer	tatmeecha
+14.77	autumn	sawawetmeecha
+14.78	season	metkuaktia
+15.21	smell (vb intrans)	winjuba
+15.212	sniff	jukjukta
+15.22	smell (vb trans)	jukta
+15.25	fragrant, good smelling	winjuba
+15.26	stinking, bad smelling	juuba
+15.31	taste	tu’ure
+15.31	taste	kiale
+15.35	sweet	kaka
+15.36	salty	cho’oko
+15.37	bitter	chiibu
+15.38	acid, sour	chiibu
+15.39	brackish	cho’oko
+15.41	hear	jikkaja
+15.42	listen	jikkaja
+15.44	sound, noise	jaitijiia
+15.45	loud	jaitijiia
+15.46	quiet, silence	kopalai
+15.51	see	bicha
+15.52	look, look at	bitchu
+15.55	show	bittua
+15.56	shine	beojtachichi’ite
+15.57	bright	beojtaachi
+15.61	color	jiyoki
+15.61	color	yokia
+15.62	light (in color)	tosali
+15.63	dark (in color)	chukuli
+15.64	white	tosali
+15.65	black	chukuli
+15.66	red	sikili
+15.67	blue	teweli
+15.68	green	siali
+15.69	yellow	sawali
+15.71	touch	bwise
+15.712	pinch	susuke
+15.72	feel	ine’a
+15.74	hard	namaka
+15.75	soft	bwalko
+15.76	rough	sosoko
+15.77	smooth	chitabetalai
+15.78	sharp	bwaawi
+15.79	blunt, dull	rumui
+15.81	heavy	bette
+15.82	light (in weight)	kaabette
+15.83	wet, damp	ba’ari
+15.84	dry	wakia
+15.85	hot	taata
+15.851	warm	suka
+15.86	cold	sebe
+15.87	clean	kaajaitimaachi
+15.88	dirty, soiled	jaitimaachi
+15.89	wrinkled	chookarai
+16.11	soul, spirit	jiapsi
+16.15	surprised, astonished	suumeiya
+16.18	good fortune, luck	tu’isuertek
+16.19	misfortune, bad luck	kaasuertek
+16.23	joyful, glad, happy	allea
+16.25	laugh	aache
+16.251	smile	aache
+16.26	play	yeewe
+16.27	love	waata
+16.29	kiss	liuta
+16.3	embrace	ibakta
+16.31	pain	ko’oko
+16.32	grief, sorrow, sadness	ko’okole
+16.33	anxiety, worry	jiokotea
+16.34	regret, be sorry	jiokole
+16.35	pity	poloobele
+16.35	pity	jiokole
+16.37	cry, weep	bwaana
+16.38	tear (noun)	opoam
+16.39	groan	bwaana
+16.41	hate	omta
+16.42	anger	omtia
+16.44	envy, jealousy	selaaroa
+16.45	shame (noun)	tiiwe
+16.48	proud	emoeiya
+16.51	dare	kaamajae
+16.52	brave	emoouleme
+16.53	fear, fright	majairi
+16.54	danger	jinilwachi
+16.62	desire, want	waata
+16.622	choose	yeupua
+16.63	hope	uu’eiya
+16.65	faithful	kaaanoki’ichi
+16.66	true	tua
+16.67	lie, tell lies	kaalutu’uriatanooka
+16.68	deceit	baita’a
+16.69	forgive	jiokoe
+16.71	good	tu’i
+16.72	bad	kaatu’i
+16.73	right, correct	tu’i
+16.74	wrong	kaalutu’uria
+16.74	wrong	kaatua
+16.76	fault	kulpa
+16.77	mistake, error	ji’opria
+16.78	blame	kulpa
+16.79	praise	jikatjippue
+16.81	beautiful	tutu’uli
+16.81	beautiful	ujyooli
+16.82	ugly	junera
+16.83	greedy	jantiachi
+16.84	clever	aawe
+17.11	mind	kobanamyai
+17.13	think (= reflect)	ea
+17.14	think (= be of the opinion)	jumaktule
+17.15	believe	suale
+17.16	understand	mammatte
+17.17	know	ju’unea
+17.171	guess	ju’une’ea
+17.172	imitate	mamato
+17.18	seem	machia
+17.19	idea, notion	jitasateuwa
+17.21	wise	jitata’ame
+17.22	foolish, stupid	neesio
+17.23	insane, crazy	kaasuak
+17.24	learn	a’awe
+17.242	study	emomajta
+17.25	teach	majta
+17.26	pupil	majtawame
+17.27	teacher	maejto
+17.27	teacher	propesor
+17.28	school	ejkuela
+17.31	remember	wawaate
+17.32	forget	kopta
+17.32	forget	kopte
+17.34	clear, plain	maachi
+17.35	obscure	kaamaachi
+17.36	secret	sekreeto
+17.37	sure, certain	tua
+17.38	explain	tetejwa
+17.41	intention, purpose	iniebetchi’ibo
+17.42	cause	iniebetchi’ibo
+17.43	doubt	dudaroa
+17.43	doubt	ruraroa
+17.44	suspect	junentule
+17.441	betray	traisionaroa
+17.45	need, necessity	nesesira
+17.46	easy	kaaobiachi
+17.47	difficult	obiachi
+17.48	try, attempt	bitne
+17.48	try, attempt	jiune
+17.48	try, attempt	probaroa
+17.51	and	into
+17.52	because	bwe’ituk
+17.53	if	ko
+17.54	or	o
+17.55	yes, affirmative	jeewi
+17.55	yes, affirmative	eewi
+17.55	yes, affirmative	na’aka
+17.56	no, negative	kaa
+17.56	no, negative	e’e
+17.61	how?	jachinia
+17.62	how many?	jaikim
+17.63	how much?	jaiki
+17.64	what?	jita
+17.65	when?	jakko
+17.66	where?	jaksa
+17.67	which?	jita
+17.68	who?	jabesa
+17.69	why?	jaisakai
+18.11	voice	jiawai
+18.12	sing	bwiika
+18.13	shout, cry out	chaae
+18.15	whisper	kuchichi’itinooka
+18.16	mumble	kuchichi’itinooka
+18.17	whistle	bikue
+18.18	shriek, screech	bwaana
+18.19	howl	bwaana
+18.21	speak, talk	nooka
+18.211	stutter, stammer	nene’otu
+18.22	say	tejwa
+18.221	tell story	teuwa
+18.222	speech (make a)	noktateuwa
+18.23	silent (be)	kopalai
+18.24	language	nooki
+18.26	word	nooki
+18.28	name	team
+18.31	ask (question, inquire)	nattemae
+18.32	answer	yoopna
+18.33	admit, confess	konpesaroa
+18.34	deny	nekaroa
+18.34	deny	kaaamabeta
+18.35	ask, request	a’awa
+18.36	promise	prometiaroa
+18.37	refuse	kaaamabeta
+18.38	forbid	proibiaroa
+18.39	rebuke, scold	tetejwa
+18.41	call (=summon)	teuwa
+18.42	call (=name)	tea
+18.43	announce	anunsiaroa
+18.43	announce	tejwa
+18.44	threaten	menasaroa
+18.45	boast	emoeiya
+18.51	write	ji’ojte
+18.52	read	le’iaroa
+18.56	paper	ji’osia
+18.57	pen	pluuma
+18.61	book	liprom
+18.67	poet	tu’ulinokame
+18.71	flute	kusia
+18.72	drum	kubaji
+18.73	horn, trumpet	kusia
+18.74	rattle	teneboim
+18.74	rattle	ayam
+19.11	country	bwiatoosa
+19.12	one's native country	bwiatoosa
+19.15	city, town	bwe’ujo’ara
+19.16	village	puepplo
+19.17	boundary	mamlo
+19.21	people (populace)	puepplo
+19.23	tribe, clan	triibu
+19.24	chief, chieftain	ya’ut
+19.25	staff, walking stick	baara
+19.31	rule, govern	kobanaroa
+19.32	king, ruler	ya’ut
+19.32	king, ruler	kobanaao
+19.37	citizen, subject	yoemia
+19.41	master	teeko
+19.44	freeman	yoemeaapolai
+19.44	freeman	liipre
+19.45	command, order	sawe
+19.46	obey	jikkaja
+19.47	let, permit	su’utoja
+19.51	friend, companion	jala’i
+19.51	friend, companion	joiwai
+19.52	enemy	enemiko
+19.54	neighbor	konilajo’akame
+19.55	stranger	ejtanjeo
+19.55	stranger	yooi
+19.56	guest	bisitaroame
+19.57	host	joakame
+19.58	help, aid	ania
+19.59	hinder, prevent	tejwa
+19.59	hinder, prevent	prebiniaroa
+19.59	hinder, prevent	ejtorbaroa
+19.61	custom	kojtumrem
+19.61	custom	kojtumbrem
+19.62	strife, quarrel	nassuawame
+19.63	conspiracy, plot	naueewame
+19.65	meet	tea
+19.72	prostitute	kiaweamame
+20.11	fight (vb)	nassua
+20.13	war, battle	jusakana
+20.13	war, battle	geer
+20.14	peace	yantijote’ewame
+20.14	peace	paas
+20.15	army	troopa
+20.17	soldier	sontao
+20.21	weapons, arms	wiko’i
+20.22	club	kuta
+20.222	battle-ax	tepuam
+20.23	sling	wicha’arakiam
+20.24	bow	kutawiko’i
+20.25	arrow	kutajuiwam
+20.26	spear	lansam
+20.27	sword	ejpaam
+20.28	gun, cannon	wiko’i
+20.28	gun, cannon	kanyon
+20.41	victory	yo’o
+20.42	defeat	koobe
+20.43	attack	atakaroa
+20.44	defend	ania
+20.45	retreat	euse
+20.46	surrender	emosu’utoja
+20.47	captive, prisoner	eta’i
+20.471	guard, sentinel	waaria
+20.48	booty, spoils	tomi
+20.49	ambush	bo’oyejteria
+20.51	fisherman	kuchureo
+20.52	fishhook	ansueelom
+20.53	fishing line	wii’i
+20.54	fishnet	jite’im
+20.55	fish trap	taampa
+20.56	bait	bwa’ame
+20.61	hunt	aamu
+20.62	shoot	pusilaroa
+20.63	miss (target)	ji’obe
+20.63	miss (target)	payaroa
+20.64	trap (noun)	taampa
+20.65	trap (vb)	bwise
+21.11	law	lei
+21.15	court	tribunaal
+21.16	judge (vb)	juskaroa
+21.17	judgment	juisio
+21.18	judge (noun)	joes
+21.21	plaintiff	jikku’ubwame
+21.22	defendant	jiku’ubwai
+21.22	defendant	yeubwijri
+21.23	witness	tejtiiko
+21.24	swear	juraroa
+21.25	oath	juraroawame
+21.31	accuse	jiku’ubwa
+21.31	accuse	yeubwise
+21.32	condemn	konrenaroa
+21.33	convict (vb)	konrenaroa
+21.34	acquit	kulpataau’ura
+21.35	guilty	kulpakame
+21.36	innocent	kaainenayukame
+21.37	penalty, punishment	kajtiiko
+21.37	penalty, punishment	peena
+21.38	fine	multa
+21.39	prison, jail	kasel
+21.42	murder	mukwame
+21.43	adultery	baita’a
+21.44	rape	kaayoyo’orek
+21.44	rape	biolasion
+21.46	arson	ju’unaktekajittaji
+21.47	perjury	anoki’ichia
+21.51	steal	etbwa
+21.52	thief	lakrom

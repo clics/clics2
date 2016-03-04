@@ -1,0 +1,949 @@
+@classification: Yanomam
+@ids-name: Ninam_Shirishana_Phonemic
+@iso: shb
+@language: Ninam
+@size: 942
+@source: ids
+@variety: std
+1.21	earth, land	ilihi
+1.21	earth, land	mašithak
+1.212	earth=ground, soil	mašithak
+1.213	dust	popoši
+1.214	mud	mašithakãhi
+1.215	sand	lãkak
+1.22	mountain, hill	olina
+1.23	plain, field	ilihihõši
+1.25	island	ilihimakoko
+1.27	shore	palahi
+1.27	shore	kasi
+1.28	cave	maamakpaka
+1.31	water	maup
+1.322	calm (of sea)	siutiti
+1.323	rough (of sea)	payikpayikmo
+1.324	foam	popoši
+1.33	lake	yokoto
+1.35	wave	pola
+1.36	river, stream, brook	u
+1.36	river, stream, brook	mau
+1.362	whirlpool	šĩmoliawei
+1.37	spring, well	mauppaka
+1.38	swamp	yokoto
+1.41	woods, forest	ilihi
+1.42	tree (cf 08.600)	wiitihi
+1.43	wood	wiitihi
+1.44	stone, rock	maama
+1.51	sky	yãnpaluk
+1.52	sun	mothok
+1.53	moon	wilipo
+1.54	star	põlemahuk
+1.55	lightning	wakeyãlimuwei
+1.56	thunder	šiukawe
+1.58	storm	watoli
+1.59	rainbow	yãnomano
+1.61	light (noun)	wakalamawei
+1.62	darkness	tututhehe
+1.63	shade, shadow	lõlap
+1.71	air	hušiampək
+1.72	wind	watoli
+1.73	cloud	wakiši
+1.74	fog	wakiši
+1.75	rain (noun)	ma
+1.81	fire	wake
+1.82	flame (noun)	wake
+1.83	smoke (noun)	wakiši
+1.84	ashes	yupušupu
+1.841	embers	ãnahu
+1.851	burn (vb trans)	ĩšiama
+1.852	burn (vb intrans)	ĩšia
+1.86	light, kindle, ignite	wakehola
+1.861	extinguish	lãlama
+1.87	match (noun)	polewake
+1.88	firewood	thalukuk
+2.1	person, human being	ninam
+2.21	man (vs. woman)	wãlo
+2.22	woman	thuwe
+2.23	male	wãlo
+2.24	female	thuwe
+2.25	boy	wãlooše
+2.251	young man (adolescent)	huya
+2.26	girl	thuweoše
+2.261	young woman (adolescent)	moko
+2.27	child	ulu
+2.28	infant, baby	uluthai
+2.31	husband	pĩyalope
+2.32	wife	pithiope
+2.33	marry	thuweyia
+2.341	divorce	thuwešiye
+2.35	father	popaye
+2.36	mother	naaye
+2.38	married man	thuwehipowei
+2.39	married woman	wãlohipowei
+2.41	son	uluye
+2.42	daughter	theeye
+2.444	older brother	aweye
+2.445	younger brother	šĩaye
+2.454	older sister	amiye
+2.455	younger sister	šĩaye
+2.458	twins	thalahooloweikup
+2.46	grandfather	šoaye
+2.461	old man	wãlopata
+2.47	grandmother	yaaye
+2.471	old woman	thuwelepi
+2.48	grandson	thãlesiye
+2.49	granddaughter	yihaye
+2.511	mother's brother	šoaye
+2.512	father's brother	popaye
+2.521	mother's sister	naaye
+2.522	father's sister	yaaye
+2.53	nephew	thãlesiye
+2.54	niece	yihaye
+2.55	cousin	heliye
+2.56	ancestors	patapək
+2.57	descendants	pulupepəkehetole
+2.61	father-in-law (of a man)	šoaye
+2.611	father-in-law (of a woman)	šoaye
+2.62	mother-in-law (of a man)	yaaye
+2.621	mother-in-law (of a woman)	yaaye
+2.63	son-in-law (of a man)	thãlesiye
+2.631	son-in-law (of a woman)	thãlesiye
+2.64	daughter-in-law (of a man)	yihaye
+2.641	daughter-in-law (of a woman)	yihaye
+2.75	orphan	uluwatili
+2.76	widow	thuwewatili
+2.81	relatives, kinsmen	ipapək
+2.82	family	ipapək
+2.91	I	kamiye
+2.91	I	ya
+2.92	you (singular)	kahowa
+2.92	you (singular)	wa
+2.93	he/she/it	kama
+2.941	we (inclusive)	kahowamak
+2.941	we (inclusive)	wamak
+2.942	we (exclusive)	kamiyamak
+2.942	we (exclusive)	yamak
+2.95	you (plural)	kahowamak
+2.95	you (plural)	wamak
+2.96	they	pək
+3.11	animal	yalo
+3.12	male (adj)	wãlo
+3.13	female (adj)	thuwe
+3.15	livestock	hipoweiyalo
+3.18	herdsman	thẽlemawei
+3.21	bull	wãlo
+3.24	calf	ulup
+3.26	ram	wãlo
+3.28	ewe	thuwe
+3.29	lamb	ulup
+3.32	boar	košwãlo
+3.34	sow	košthuwe
+3.35	pig	koš
+3.42	stallion	wãlo
+3.44	mare	thuwe
+3.45	foal, colt	ulup
+3.52	cock, rooster	kalakawãlo
+3.54	hen	kalakathuwe
+3.55	chicken	kalaka
+3.58	nest	yapək
+3.584	eagle	pohomo
+3.585	hawk	kõkoyom
+3.586	vulture	watupa
+3.591	bat	hewesi
+3.592	parrot	wilikok
+3.594	dove	hoya
+3.596	owl	kuluku
+3.61	dog	okolo
+3.614	rabbit	hõha
+3.622	opossum	nãlo
+3.63	mouse, rat	tholop
+3.65	fish	yalaka
+3.652	fin (dorsal)	yuupusi
+3.653	fishscale	miosip
+3.654	gill	akthak
+3.655	shell	hesi
+3.662	porpoise, dolphin	alašali
+3.664	stingray	šotali
+3.665	freshwater eel	mõlothotho
+3.75	deer	haya
+3.811	louse	noma
+3.812	nit (louse egg)	nomathethepək
+3.813	flea	noma
+3.813	flea	hĩho
+3.815	scorpion	thohi
+3.816	cockroach	oposi
+3.818	spider	waleyehek
+3.819	spider web	waleyehešik
+3.82	bee	oinak
+3.821	beeswax	kosis
+3.823	wasp	kopina
+3.823	wasp	kopesinak
+3.83	fly	lõ
+3.831	sandfly (midge), gnat	moštolo
+3.832	mosquito	potoma
+3.84	worm	ikolomaš
+3.85	snake	oliki
+3.85	snake	walok
+3.91	firefly	põlemahu
+3.91	firefly	põlemahuk
+3.92	butterfly	alasi
+3.93	grasshopper	hiskima
+3.93	grasshopper	pašo
+3.95	frog	poplam
+3.96	lizard	mãiato
+3.97	crocodile, alligator	weli
+3.97	crocodile, alligator	aluweli
+3.98	turtle	yãpolihip
+3.98	turtle	taalehip
+4.11	body	piliyai
+4.12	skin, hide	pilisi
+4.13	flesh	piliyãhi
+4.14	hair (head)	šinak
+4.142	beard	kauik
+4.144	body hair	kõik
+4.145	pubic hair	piliwešik
+4.15	blood	ĩep
+4.151	vein, artery	ĩthetholip
+4.16	bone	pilithũ
+4.162	rib	pililemnahi
+4.17	horn	yõlak
+4.18	tail	pilišina
+4.19	back	yaip
+4.191	spine	pilihulumoto
+4.2	head	pelehe
+4.202	skull	pilehe
+4.203	brain	ĩošip
+4.204	face	pilimuk
+4.205	forehead	pilihũko
+4.207	jaw	pilinakihik
+4.208	cheek	nakthək
+4.209	chin	pilinãalu
+4.21	eye	pilimamo
+4.212	eyebrow	pilimiyok
+4.213	eyelid	pilimamokasi
+4.214	eyelash	pilimamošik
+4.215	blink	misiwãhiwahimowei
+4.22	ear	yũmuk
+4.222	earwax	ãhik
+4.222	earwax	yũmukãhi
+4.23	nose	hũkak
+4.231	nostril	hũkakpaka
+4.232	mucus (nasal)	thoko
+4.24	mouth	kahik
+4.241	beak	hũsehi
+4.25	lip	pilikasi
+4.26	tongue	piliaka
+4.27	tooth	pilinak
+4.271	gums	pilinakhik
+4.28	neck	piliolahi
+4.281	nape of neck	olamii
+4.29	throat	olamusi
+4.3	shoulder	hakalak
+4.301	shoulderblade	halasipə
+4.302	collarbone	paləhiki
+4.302	collarbone	paleyihik
+4.31	arm	poko
+4.312	armpit	hakamsik
+4.32	elbow	ũmolok
+4.321	wrist	ẽheko
+4.33	hand	ũthak
+4.331	palm of hand	ũthakpaluk
+4.34	finger	piliũtha
+4.342	thumb	pataũtha
+4.344	fingernail	namhesi
+4.345	claw	namhesi
+4.35	leg	pilikolona
+4.351	thigh	piliwaku
+4.352	calf of leg	kolonašĩhilip
+4.36	knee	mahekok
+4.37	foot	mãhuk
+4.371	ankle	pilimãiamop
+4.372	heel	mahenausi
+4.374	footprint	pilimãhukmayo
+4.38	toe	mãhehe
+4.392	wing	poko
+4.393	feather	ãhuk
+4.393	feather	šĩoik
+4.393	feather	yõik
+4.4	chest	paluk
+4.41	breast (of woman)	thupək
+4.412	nipple, teat	thupəkakaši
+4.43	navel	piliminaši
+4.44	heart	mašiap
+4.441	lung	šelenak
+4.45	liver	amok
+4.452	spleen	pilihulap
+4.46	stomach	pilisimosi
+4.461	intestines, guts	pilišik
+4.463	hip	piliwakumošolip
+4.464	buttocks	pilikomok
+4.47	womb	šitham
+4.492	penis	pilimoš
+4.51	breathe, breath	hẽlehelekmo
+4.52	yawn, gape	akletemo
+4.521	hiccough	šokolomo
+4.53	cough	thokomo
+4.54	sneeze	akasinamo
+4.55	perspire	yoli
+4.56	spit	hola
+4.57	vomit	thula
+4.58	bite	soa
+4.59	lick	nokoa
+4.61	sleep	mališi
+4.61	sleep	mi
+4.612	snore	hə̃liamo
+4.612	snore	hũkakwãha
+4.62	dream	mãlitaa
+4.63	wake up	lãyo
+4.64	break wind	šĩe
+4.65	urinate	nasikiye
+4.66	defecate	šikiye
+4.67	have sexual intercourse	šowa
+4.68	shiver	yatito
+4.69	bathe	yalumo
+4.71	beget (of father)	thaki
+4.72	born (to be)	thalali
+4.73	pregnant	šipana
+4.732	conceive	šipanayo
+4.74	live, living, life	temi
+4.75	die, dead	hušmi
+4.75	die, dead	huštu
+4.751	drowned	huštupe
+4.76	kill	šela
+4.77	corpse	pilihušmili
+4.78	bury (the dead)	pathu
+4.81	strong, mighty, powerful	lothotho
+4.82	weak	utiti
+4.83	well, health	temi
+4.84	sick, sickness	lãamo
+4.841	fever	watilemo
+4.843	cold (catarrh)	thokop
+4.85	wound, sore	walasi
+4.852	bruise	kolethopi
+4.853	swelling	šu
+4.854	itch	šuti
+4.855	blister	thoolop
+4.856	boil (noun)	yu
+4.857	pus	niip
+4.858	scar	tusi
+4.86	cure, heal	halo
+4.89	poison	noma
+4.91	tired, weary	hašimi
+4.912	rest	hašimwatu
+4.92	lazy	mõšeahi
+4.93	bald	pelehe
+4.93	bald	plehehõši
+4.94	lame	šaklapi
+4.95	deaf	yũmukusi
+4.95	deaf	yũmukkoma
+4.96	mute	akmutu
+4.97	blind	mamokusi
+4.98	intoxicated	noma
+4.99	naked, bare	mãlo
+5.11	eat	ia
+5.11	eat	wa
+5.12	food	amokaik
+5.121	cooked	lupu
+5.122	raw	lie
+5.123	ripe	hamo
+5.123	ripe	wakei
+5.124	green, unripe	ãktale
+5.125	rotten	tale
+5.13	drink	koa
+5.14	hunger	ohi
+5.15	thirst	amiši
+5.16	suck	ukuka
+5.18	chew	wãšika
+5.181	swallow	thuha
+5.19	choke	olamusišia
+5.21	cook	lupuma
+5.22	boil (vb)	yoli
+5.24	bake	hali
+5.26	pot, cooking vessel	hapoka
+5.27	kettle	hapoka
+5.28	pan	thošina
+5.35	cup, drinking vessel	hesi
+5.38	knife	thomuna
+5.46	peel	hõšima
+5.47	sieve, strain	hušu
+5.48	scrape	hoa
+5.48	scrape	hũluka
+5.49	stir, mix	tihili
+5.51	bread	simo
+5.55	meal, flour	naškohi
+5.56	crush, grind	hutika
+5.58	mortar	tokolipaka
+5.59	pestle	tišawei
+5.61	meat	yãhi
+5.64	soup, broth	yalopəi
+5.71	fruit	wiitihihimo
+5.77	nut	howalimok
+5.79	oil	pəi
+5.791	grease, fat	ũta
+5.81	salt	waihok
+5.82	pepper	halamik
+5.84	honey	oi
+5.86	milk (noun)	up
+5.9	beverage, drink	uk
+5.94	fermented drink	ãlihiuk
+5.94	fermented drink	hakalauk
+5.97	egg	kalakathethepək
+5.971	egg yolk	thethepəkamo
+6.11	put on (clothes)	tha
+6.12	clothing, clothes	kamišak
+6.21	cloth	kamiša
+6.24	cotton	mašuušuk
+6.29	leather	pilisi
+6.31	spin	huluka
+6.32	spindle	hesikomo
+6.33	weave	tie
+6.35	sew	hẽha
+6.36	needle	misi
+6.38	thread	mãšithu
+6.42	woman's dress	kamiša
+6.44	shirt	yaipesi
+6.48	trousers	lapai
+6.49	stocking, sock	mãhukpesi
+6.51	shoe	mãhukpesi
+6.55	hat, cap	yohopowei
+6.58	glove	ũthakpesi
+6.62	button	kamišamamo
+6.63	pin	misi
+6.75	necklace	yalepowei
+6.76	bead	šĩtha
+6.81	handkerchief, rag	kamišathahu
+6.91	comb	limasik
+6.95	soap	wape
+6.96	mirror	kalawe
+7.11	dwell, live	yã
+7.12	house	yãno
+7.13	hut	henahi
+7.15	yard, court	yasipohəm
+7.18	meeting house	pooloweiyãno
+7.21	room	yãno
+7.22	door, gate	yasik
+7.25	window	paka
+7.37	ladder	ĩlak
+7.421	pillow	nakthəkmakewei
+7.43	chair	tikeleweitihik
+7.44	table	alaweitihik
+7.47	shelf	alawei
+7.48	trough	ako
+7.51	roof	yãno
+7.52	thatch	yaahenak
+7.53	ridgepole	yãnohik
+7.56	post, pole	wiitihi
+7.57	board	wiitihilasi
+8.12	field (for cultivation)	hutu
+8.13	garden	hutu
+8.15	cultivate, till	õtamo
+8.15	cultivate, till	kẽa
+8.16	fence	šokiawei
+8.24	shovel	okohesi
+8.25	hoe	palo
+8.26	fork	šumunamhesi
+8.27	rake	hõkeka
+8.31	sow	moktha
+8.311	seed	pilimok
+8.42	grain (barley, oats etc)	mok
+8.47	maize, corn	lulumok
+8.51	grass	kaplišak
+8.53	plant (noun)	sik
+8.531	plant (vb)	tha
+8.54	root	nasilik
+8.55	branch	poko
+8.56	leaf	hena
+8.57	flower	nãkši
+8.6	tree	wiitihi
+8.68	tobacco	pinahi
+8.72	tree stump	wiitihimana
+8.73	tree trunk	wiitihiyai
+8.74	forked branch	poko
+8.75	bark	pilisi
+8.76	sap	huthu
+8.84	banana tree	kalathasik
+8.91	sweet potato	hikomik
+8.912	yam	wãahek
+8.912	yam	mõkoi
+8.92	tapioca, manioc, cassava	naškok
+8.92	tapioca, manioc, cassava	hakalakok
+8.93	gourd	hesi
+8.93	gourd	mãlakaaš
+8.94	bamboo	lahok
+8.941	sugar cane	yalekoi
+8.97	nettle	misi
+9.11	do, make	tha
+9.12	work	kẽa
+9.14	bend	tišokoma
+9.14	bend	tolokoma
+9.15	fold	yapama
+9.16	tie, bind	õka
+9.161	untie	uše
+9.18	chain	mãliašikšĩko
+9.19	rope, cord	thãtha
+9.21	strike (hit, beat)	še
+9.21	strike (hit, beat)	tihik
+9.211	pound with fist	še
+9.22	cut	hanu
+9.22	cut	pia
+9.221	cut down	pahathala
+9.222	chop, hew	poa
+9.223	stab	tiho
+9.23	knife	thomuna
+9.24	scissors, shears	alašak
+9.25	ax	patapoo
+9.251	adze	kanawetišawei
+9.26	break	ke
+9.26	break	kaye
+9.26	break	yahathala
+9.27	split	homo
+9.28	tear	ẽkeke
+9.31	rub, wipe	humuka
+9.32	stretch	ikoko
+9.33	pull	šai
+9.34	spread out	hetehe
+9.341	hang up	yauma
+9.342	press	hoo
+9.343	squeeze, wring	pateta
+9.343	squeeze, wring	ãhuha
+9.35	pour	lu
+9.36	wash	ĩšyalu
+9.37	sweep	hãši
+9.38	broom	hašiawei
+9.44	build	tha
+9.46	bore	pakatha
+9.56	glue	huthu
+9.72	mold (clay etc)	tha
+9.73	clay	hapokaši
+9.74	glass	kalawe
+9.75	weave, plait	tie
+9.76	basket	thalosi
+9.79	fan (noun)	šahema
+9.791	fan (vb)	yahuha
+9.83	statue	lõlap
+9.83	statue	utup
+10.11	move	kẽa
+10.12	turn over	hata
+10.13	turn around	hata
+10.14	wind, wrap	õka
+10.15	roll	lulia
+10.16	drop (vb)	kema
+10.17	twist	yapleta
+10.21	rise	tele
+10.22	raise, lift	telema
+10.23	fall	ke
+10.24	drip	piyipiyi
+10.25	throw	šiye
+10.252	catch (ball)	yãmu
+10.26	shake	yatito
+10.32	flow	kale
+10.33	sink	kepe
+10.34	float	kale
+10.35	swim	hele
+10.351	dive	ehelape
+10.352	splash	amiša
+10.36	sail (vb)	kale
+10.36	sail (vb)	wele
+10.36	sail (vb)	lõloho
+10.37	fly (vb)	yiyo
+10.37	fly (vb)	yu
+10.38	blow	hola
+10.41	creep, crawl	holea
+10.412	kneel	yiyeli
+10.413	crouch	yele
+10.42	slide, slip	yõla
+10.43	jump, leap	yutu
+10.431	kick	kahik
+10.44	dance	heli
+10.45	walk	hu
+10.451	limp	kayikayimo
+10.46	run	lelea
+10.47	go	hu
+10.471	go up	hemo
+10.472	climb	tu
+10.473	go down	itho
+10.474	go out	ha
+10.474	go out	ayo
+10.48	come	huima
+10.481	come back	hukõima
+10.49	go away, depart	ayoheli
+10.491	disappear	lãlayo
+10.51	flee	toku
+10.52	follow	noka
+10.52	follow	noha
+10.53	pursue	nothipo
+10.53	pursue	notyia
+10.55	reach, arrive	walo
+10.56	approach	ahathia
+10.57	enter	ha
+10.612	carry-in-hand	hipo
+10.613	carry-on-shoulder	yalukpo
+10.614	carry-on-head	yohopo
+10.62	bring	hipoima
+10.63	send	šuma
+10.64	lead (vb)	utupo
+10.64	lead (vb)	tutupo
+10.64	lead (vb)	nokama
+10.66	ride	lelea
+10.67	push, shove	hĩili
+10.67	push, shove	yaale
+10.67	push, shove	yahuhupo
+10.71	road	piliyo
+10.72	path	piliyo
+10.74	bridge	ĩlak
+10.76	wheel	mãhuk
+10.831	canoe	kanawe
+10.851	paddle (noun)	kanakoli
+10.852	row (vb)	tikolema
+10.86	rudder	manahãthalamawei
+10.92	land (vb)	palahi
+11.11	have	hipo
+11.12	own, possess	hipo
+11.13	take	yia
+11.13	take	te
+11.14	seize, grasp	hu
+11.15	hold	hipo
+11.16	get, obtain	yia
+11.16	get, obtain	te
+11.18	thing	thə
+11.21	give	hipi
+11.22	give back	hipiyapa
+11.22	give back	kõ
+11.24	preserve, look after	thẽlema
+11.25	save, rescue	huka
+11.27	destroy	lãlama
+11.28	harm, injure, damage	ninima
+11.31	seek, look for	hete
+11.31	seek, look for	peli
+11.32	find	taa
+11.33	lose	numutiyo
+11.34	release, let go	hama
+11.52	poor	mĩholi
+11.54	avaricious, stingy	šuulamo
+11.61	lend	nolãihipi
+11.65	pay (vb)	nohipi
+11.65	pay (vb)	nokõama
+11.77	hire	kẽama
+11.78	wages	noa
+11.81	buy	naka
+11.82	sell	wiye
+11.84	merchant	matohipwiyewei
+11.86	store, shop	matohipyãno
+11.87	price	noa
+11.88	dear (costly, expensive)	nolothotho
+11.89	cheap	noutiti
+11.91	share (distribute)	wiye
+11.92	weigh	huletaa
+12.1	after	yaiphəm
+12.11	place	yaiphəm
+12.2	beside	hoolo
+12.3	down, below	pepihə
+12.4	before	palukhəm
+12.41	right (side)	palukhəm
+12.5	inside, in	titi
+12.5	inside, in	õšihəm
+12.6	outside	yasipohə
+12.7	under	pepi
+12.7	under	pepihəm
+12.8	up, above	telehəm
+12.12	put	pa
+12.12	put	ĩtha
+12.13	sit	tikele
+12.13	sit	lo
+12.14	lie down	make
+12.14	lie down	la
+12.14	lie down	pulu
+12.15	stand	ila
+12.16	remain, stay	yãšimo
+12.17	remains, left overs	še
+12.21	collect, gather	hila
+12.21	collect, gather	poolama
+12.213	pile up	pooloma
+12.213	pile up	hila
+12.22	join, unite	yete
+12.23	separate	šeleke
+12.232	divide	šeleke
+12.24	open	kalo
+12.25	shut, close	nahu
+12.26	cover	nahu
+12.27	hide, conceal	šãho
+12.31	high	tele
+12.32	low	yatoto
+12.33	top	ola
+12.34	bottom	mana
+12.352	pointed	akaši
+12.353	edge	kasi
+12.36	side	leposi
+12.37	middle, center	puupuhə
+12.41	right (side)	pokoyai
+12.42	left (side)	pokohai
+12.43	near (adv)	ahathi
+12.43	near (adv)	ahi
+12.44	far (adv)	lahami
+12.53	grow	patayo
+12.54	measure	patataa
+12.54	measure	lapataa
+12.55	large, big	pata
+12.55	large, big	le
+12.56	small, little	sĩilip
+12.56	small, little	oše
+12.57	long	lapa
+12.58	tall	yalehe
+12.59	short	hototi
+12.61	wide, broad	le
+12.62	narrow	miši
+12.62	narrow	masi
+12.63	thick (in dimension)	yikahi
+12.65	thin (in dimension)	sitetehe
+12.67	deep	õki
+12.68	shallow	talomi
+12.71	flat	lasi
+12.73	straight	šaali
+12.74	crooked	toloko
+12.74	crooked	tišoko
+12.77	cross	alaha
+12.85	hole	paka
+12.92	like, similar	meheti
+12.92	like, similar	pəkulenaha
+13.0	zero, nothing	pemi
+13.1	one	mõli
+13.2	two	kup
+13.2	two	yalukup
+13.3	three	pək
+13.107	count	utuha
+13.107	count	yalamitaa
+13.14	every, all	kõmoli
+13.15	much, many	yalami
+13.16	more	aihəm
+13.17	little (quantity), few	yãmi
+13.18	enough	inaha
+13.181	some	ai
+13.19	multitude, crowd	pəkyalami
+13.21	full	ehethe
+13.22	empty	loko
+13.23	part, piece	thahu
+13.23	part, piece	še
+13.24	half	pupuhə
+13.33	alone, only	yãmi
+13.34	first	palu
+13.35	last	hilolo
+14.11	time	thəm
+14.13	new	tito
+14.14	young	oše
+14.15	old	lepi
+14.17	late	thəmtete
+14.18	now	hoithehe
+14.19	immediately	hoithehe
+14.21	swift, fast, quick	lopai
+14.22	slow	opi
+14.22	slow	õli
+14.23	hasten, hurry	šihalimo
+14.24	retard, delay	opi
+14.24	retard, delay	mõšeahi
+14.25	begin, beginning	šoniki
+14.252	last, endure	mašulu
+14.26	end (temporal)	inahakuop
+14.27	finish	hilolo
+14.28	cease, stop	hilolo
+14.31	always	mašulu
+14.32	often	kõthetho
+14.331	soon	hai
+14.332	long-time (for a)	yutuha
+14.35	again	kõ
+14.41	day	thəm
+14.42	night	thəmtututhehe
+14.43	dawn	mothokhathehe
+14.44	morning	henathehe
+14.45	noon, midday	šĩlõlohothehe
+14.451	afternoon	huyathehe
+14.47	today	hoithehe
+14.48	tomorrow	henathehe
+14.481	day-after-tomorrow	aithəmuhə
+14.49	yesterday	aithəmuhə
+14.491	day-before-yesterday	aithəmuhə
+14.51	hour	thəm
+14.71	month	wilipo
+14.73	year	thəmwehe
+14.78	season	thəm
+15.212	sniff	ukuka
+15.25	fragrant, good smelling	tãmili
+15.25	fragrant, good smelling	tãmšili
+15.26	stinking, bad smelling	hũthali
+15.35	sweet	keteti
+15.36	salty	waihopi
+15.37	bitter	koami
+15.38	acid, sour	nãši
+15.41	hear	hĩli
+15.42	listen	hĩli
+15.44	sound, noise	wãha
+15.45	loud	ĩkali
+15.46	quiet, silence	waiti
+15.51	see	taa
+15.52	look, look at	taa
+15.55	show	hiima
+15.55	show	waatoma
+15.56	shine	šĩi
+15.63	dark (in color)	uši
+15.64	white	šĩe
+15.65	black	uši
+15.66	red	ĩe
+15.66	red	wake
+15.67	blue	palahi
+15.67	blue	uši
+15.68	green	palahi
+15.69	yellow	walapasipi
+15.71	touch	hupa
+15.74	hard	lothotho
+15.74	hard	kohipi
+15.75	soft	usi
+15.77	smooth	siãhi
+15.78	sharp	namo
+15.79	blunt, dull	pusi
+15.81	heavy	hule
+15.82	light (in weight)	hẽtehe
+15.83	wet, damp	hele
+15.84	dry	wehe
+15.85	hot	wathotho
+15.85	hot	hĩoši
+15.86	cold	wati
+15.86	cold	watutu
+15.87	clean	lišiši
+15.88	dirty, soiled	ĩši
+15.88	dirty, soiled	šami
+16.11	soul, spirit	pihi
+16.11	soul, spirit	utup
+16.23	joyful, glad, happy	šiho
+16.25	laugh	kahikĩka
+16.26	play	inimo
+16.27	love	pihiyete
+16.27	love	pihišati
+16.29	kiss	nakthəkukuka
+16.31	pain	nini
+16.32	grief, sorrow, sadness	ũku
+16.32	grief, sorrow, sadness	pihiwãli
+16.33	anxiety, worry	pihihete
+16.37	cry, weep	ũku
+16.38	tear (noun)	muapək
+16.39	groan	pelimo
+16.41	hate	nihiwãlipo
+16.42	anger	waaye
+16.45	shame (noun)	kili
+16.52	brave	waithili
+16.53	fear, fright	kili
+16.62	desire, want	pešima
+16.622	choose	yai
+16.66	true	thãšaali
+16.67	lie, tell lies	holemo
+16.68	deceit	thãhole
+16.69	forgive	waayeweišiyewei
+16.71	good	totihi
+16.72	bad	wãlihiki
+16.73	right, correct	totihi
+16.81	beautiful	taamtotihi
+16.82	ugly	taamwãlihiki
+16.83	greedy	šuulamo
+16.84	clever	moyawe
+17.11	mind	pihi
+17.13	think (= reflect)	pihi
+17.14	think (= be of the opinion)	pihiku
+17.15	believe	thãhupo
+17.16	understand	hĩlipo
+17.17	know	tapo
+17.171	guess	pihikupəpəle
+17.172	imitate	ua
+17.21	wise	moyawe
+17.22	foolish, stupid	utmuti
+17.23	insane, crazy	pihišõwali
+17.24	learn	thãhu
+17.24	learn	thãua
+17.242	study	ua
+17.25	teach	uama
+17.28	school	uaweiyãno
+17.31	remember	pihi
+17.32	forget	utmutilayo
+17.34	clear, plain	waato
+17.38	explain	thãwaatoma
+17.42	cause	ma
+17.45	need, necessity	miholimo
+17.47	difficult	nuhmuti
+17.51	and	šo
+17.52	because	keteen
+17.52	because	yalo
+17.53	if	ihə
+17.53	if	hakunoha
+17.55	yes, affirmative	ẽe
+17.56	no, negative	pem
+17.61	how?	hapenaha
+17.62	how many?	hapenaha
+17.63	how much?	hapenaha
+17.64	what?	kale
+17.65	when?	hapeliwilipokuathehe
+17.66	where?	hapeli
+17.68	who?	hati
+17.69	why?	hapenaha
+17.69	why?	kalethəhə
+18.11	voice	wãha
+18.13	shout, cry out	komo
+18.21	speak, talk	wãhaha
+18.21	speak, talk	thãtha
+18.211	stutter, stammer	akpolepi
+18.22	say	ku
+18.221	tell story	thãtha
+18.222	speech (make a)	thãtha
+18.23	silent (be)	waiti
+18.24	language	thã
+18.26	word	thã
+18.28	name	wãha
+18.31	ask (question, inquire)	wãli
+18.35	ask, request	naka
+18.38	forbid	wasi
+18.39	rebuke, scold	notha
+18.41	call (=summon)	naka
+18.42	call (=name)	wãhahila
+18.51	write	thãtũluma
+18.56	paper	si
+18.71	flute	thõlema
+19.11	country	ilihi
+19.12	one's native country	ilihi
+19.15	city, town	pəkyãnop
+19.16	village	pəkyãnop
+19.17	boundary	ilihikasi
+19.21	people (populace)	pək
+19.21	people (populace)	theli
+19.23	tribe, clan	pək
+19.23	tribe, clan	theli
+19.24	chief, chieftain	pata
+19.31	rule, govern	nosiama
+19.41	master	kẽamawei
+19.43	servant	kẽawei
+19.45	command, order	nosiama
+19.46	obey	thãhupo
+19.46	obey	wãhahu
+19.47	let, permit	p
+19.47	let, permit	wasilã
+19.51	friend, companion	thẽlemawei
+19.52	enemy	nihiwãlipowei
+19.56	guest	aheowei
+19.58	help, aid	thẽlema
+19.58	help, aid	payilima
+19.59	hinder, prevent	wasi
+19.62	strife, quarrel	šiyo
+19.65	meet	mipa
+20.11	fight (vb)	šiyo
+20.24	bow	šaknahi
+20.25	arrow	šikawe
+20.45	retreat	yapa
+20.45	retreat	toku
+20.51	fisherman	yalakaləkawei
+20.52	fishhook	yalaknak
+20.52	fishhook	paanak
+20.53	fishing line	mãliašithãthə
+20.56	bait	iawei
+20.61	hunt	hete
+20.61	hunt	peli
+20.61	hunt	šoa
+20.62	shoot	yã
+21.31	accuse	wãlihiktaa
+21.32	condemn	ku
+21.37	penalty, punishment	noa
+21.42	murder	nimanšela
+21.51	steal	thomu
+21.52	thief	thomuwei

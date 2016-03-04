@@ -1,0 +1,1044 @@
+@classification: Choco,Embera,Southern
+@ids-name: Epena_Phonemic
+@iso: sja
+@language: Epena
+@size: 1037
+@source: ids
+@variety: std
+1.1	world	na'euhã
+1.21	earth, land	'euhã
+1.212	earth=ground, soil	'yooro
+1.213	dust	'yooro'pʰora
+1.214	mud	'yoorosu'sua
+1.215	sand	'ipu
+1.22	mountain, hill	'ee
+1.222	cliff, precipice	kʰõo'tʰari
+1.23	plain, field	hewe'daaewa'raa
+1.25	island	'tʰɨɨda
+1.27	shore	i
+1.27	shore	toi
+1.28	cave	'maute
+1.31	water	pa'nia
+1.32	sea	'pʰusa
+1.323	rough (of sea)	'pʰusatʰonɨ'bɨ
+1.324	foam	kʰõpʰe'pʰee
+1.329	ocean	'pʰusa
+1.33	lake	'tʰɨdato
+1.34	gulf, bay	to'tʰaiihoobai
+1.35	wave	'pʰusa
+1.352	tide	to'piru
+1.353	lowtide	to'piruhi'ratɨhõ
+1.354	hightide	to'pirui'puru
+1.36	river, stream, brook	to
+1.36	river, stream, brook	to'čakʰe
+1.362	whirlpool	topʰëre'bai
+1.38	swamp	'euhãsu'sua
+1.41	woods, forest	'mee
+1.42	tree (cf 08.600)	pa'kʰuru
+1.43	wood	pa'kʰuru
+1.44	stone, rock	'mau
+1.45	earthquake	a'wẽra'čai
+1.51	sky	'pahã
+1.51	sky	a'kʰõre'hã
+1.52	sun	a'kʰõre'hĩru
+1.53	moon	a'tane
+1.55	lightning	pa'baai
+1.56	thunder	pa
+1.56	thunder	pahĩ'waa
+1.57	lightning (as striking)	pa'tau'pʰore
+1.58	storm	nau'mia
+1.59	rainbow	'euma
+1.61	light (noun)	ɨ̃'daa
+1.62	darkness	pʰã'riu
+1.63	shade, shadow	pa'kʰurukʰũra'sãae'kʰari
+1.72	wind	'nau
+1.73	cloud	hɨ̃a'rara
+1.74	fog	hɨ̃a'raratʰa'waa
+1.75	rain (noun)	'kʰoi
+1.78	weather	'eu
+1.81	fire	'tʰɨpɨ'tau
+1.82	flame (noun)	'tʰɨpɨ'tauu'rua
+1.83	smoke (noun)	'nari
+1.84	ashes	itʰa'bar̃e'pʰora
+1.841	embers	'tʰɨpɨ'kʰĩra
+1.851	burn (vb trans)	paa
+1.852	burn (vb intrans)	urua
+1.86	light, kindle, ignite	kʰooʔata
+1.861	extinguish	kʰĩi
+1.88	firewood	'tʰɨpɨ
+1.89	charcoal	okʰo'kʰĩra
+2.1	person, human being	e'perã
+2.21	man (vs. woman)	ɨmɨ'kʰĩra
+2.22	woman	'wẽra
+2.23	male	ɨmɨ'kʰĩra
+2.24	female	'wẽra
+2.25	boy	'war̃a
+2.251	young man (adolescent)	kʰũ'trãa
+2.251	young man (adolescent)	kʰũ'tãa
+2.26	girl	'kʰau
+2.26	girl	'wẽra'kʰau
+2.261	young woman (adolescent)	ã'wera
+2.261	young woman (adolescent)	a'wẽra
+2.27	child	'war̃a
+2.28	infant, baby	'čai
+2.28	infant, baby	'čakʰe
+2.31	husband	čiɨmɨ'kʰĩra
+2.32	wife	či'wẽra
+2.33	marry	miakʰãi
+2.341	divorce	miaamaa
+2.35	father	a'kʰõre
+2.36	mother	'nawe
+2.37	parents	akʰõ'reerã
+2.38	married man	'wẽrapa'raa
+2.39	married woman	ɨmɨ'kʰĩrapa'raa
+2.41	son	'war̃a
+2.42	daughter	'kʰau
+2.42	daughter	'wẽra'kʰau
+2.43	offspring (son or daughter)	'war̃a
+2.44	brother	ɨ̃'pema
+2.444	older brother	ɨ̃'pemanaa'pema
+2.445	younger brother	ɨ̃'pematʰẽe'pema
+2.45	sister	ɨ̃pe'wẽra
+2.454	older sister	ɨ̃pe'wẽranaa'pema
+2.455	younger sister	ɨ̃pe'wẽratʰẽe'pema
+2.46	grandfather	akʰõ'čona
+2.461	old man	'čona
+2.471	old woman	čõ'traa
+2.48	grandson	'ãi'čakʰe
+2.48	grandson	'ãi'čai
+2.49	granddaughter	'ãi'čakʰe
+2.49	granddaughter	'ãi'čai
+2.51	uncle	'čĩapa'čona
+2.52	aunt	'čĩapačõ'traa
+2.56	ancestors	čonaarã
+2.61	father-in-law (of a man)	'čãure
+2.611	father-in-law (of a woman)	'čãure
+2.62	mother-in-law (of a man)	pʰã'kʰõre
+2.621	mother-in-law (of a woman)	pʰã'kʰõre
+2.63	son-in-law (of a man)	'wiu
+2.631	son-in-law (of a woman)	'wiu
+2.64	daughter-in-law (of a man)	'ãigu
+2.641	daughter-in-law (of a woman)	'ãigu
+2.71	stepfather	akʰõre'kʰaa
+2.72	stepmother	nawe'kʰaa
+2.73	stepson	war̃a'kʰaa
+2.74	stepdaughter	kʰau'kʰaa
+2.76	widow	pʰẽ'traa
+2.77	widower	'pʰena
+2.81	relatives, kinsmen	ë'reerã
+2.82	family	'deerã
+2.91	I	mɨ
+2.91	I	'mɨči
+2.92	you (singular)	pɨ
+2.92	you (singular)	'pɨči
+2.93	he/she/it	'iru
+2.93	he/she/it	'iči
+2.941	we (inclusive)	'tači
+2.942	we (exclusive)	'tai
+2.95	you (plural)	'pãra
+2.95	you (plural)	'pãči
+2.96	they	'ãra
+2.96	they	'ãči
+3.11	animal	ne
+3.12	male (adj)	čiɨmɨ'kʰĩra
+3.13	female (adj)	či'wẽra
+3.15	livestock	newa'rida
+3.23	cow	'wẽra
+3.34	sow	'wẽra
+3.52	cock, rooster	e'tʰer̃e
+3.54	hen	e'tʰer̃e'wẽra
+3.55	chicken	e'tʰer̃e
+3.58	nest	i'panate
+3.581	bird	i'pana
+3.583	heron	'dopʰe
+3.585	hawk	ne'hõpɨ
+3.586	vulture	ã'koso
+3.591	bat	imi'čiči
+3.592	parrot	'kʰare
+3.61	dog	'usa
+3.622	opossum	poo'sãi
+3.622	opossum	poro'sãi
+3.65	fish	'čikʰo
+3.652	fin (dorsal)	i'sia
+3.654	gill	o'čiči
+3.655	shell	e
+3.662	porpoise, dolphin	tʰũ
+3.665	freshwater eel	'tʰũida
+3.75	deer	'bigi
+3.811	louse	tʰɨ̃
+3.811	louse	'puri
+3.812	nit (louse egg)	tʰɨ̃'ɨmɨ
+3.814	centipede	'eto
+3.815	scorpion	tu'sõre
+3.816	cockroach	kʰẽ'per̃e
+3.817	ant	ne'pʰisi
+3.818	spider	pe'gɨrɨ
+3.819	spider web	či'tʰɨri
+3.82	bee	'kʰimi
+3.821	beeswax	'hɨr̃ɨ
+3.823	wasp	ne'tɨr̃ɨ
+3.83	fly	ɨ̃'gana
+3.831	sandfly (midge), gnat	sĩta'pʰisi
+3.84	worm	mo'kʰitʰaeuhãde'pema
+3.85	snake	'taama
+3.91	firefly	kʰã'kʰãi
+3.92	butterfly	para'pau
+3.92	butterfly	paa'pau
+3.93	grasshopper	'sisi
+3.94	snail	'kʰooro
+3.95	frog	bërë'kʰëkʰë
+3.96	lizard	pʰapʰãyohõ'mia
+3.97	crocodile, alligator	'kʰore
+3.98	turtle	si'bii
+3.98	turtle	be'ber̃e
+4.11	body	kʰa'pʰɨa
+4.12	skin, hide	e
+4.13	flesh	'čiara
+4.14	hair (head)	'puda
+4.142	beard	ida'kʰara
+4.144	body hair	'kʰara
+4.145	pubic hair	me'kʰara
+4.145	pubic hair	kʰẽ'kʰara
+4.15	blood	'waa
+4.151	vein, artery	'kʰĩu
+4.16	bone	'bɨɨrɨ
+4.162	rib	'or̃o
+4.18	tail	tru
+4.18	tail	tu
+4.19	back	e'kʰar̃a
+4.191	spine	e'sɨrɨ
+4.2	head	'poro
+4.201	side of head, temple	uri'tar̃a
+4.202	skull	'poro'bɨɨrɨ
+4.203	brain	'poro'mor̃o
+4.204	face	'kʰĩra
+4.205	forehead	'tautʰu
+4.207	jaw	i'datʰu
+4.208	cheek	'kʰĩra'tar̃a
+4.21	eye	'tau
+4.212	eyebrow	'tau'kʰara
+4.213	eyelid	'taue
+4.214	eyelash	'taue'kʰara
+4.215	blink	'taukʰãikʰãi'yaa
+4.22	ear	'kʰɨɨrɨ
+4.221	earlobe	'kʰɨɨrɨãtu'mia
+4.23	nose	kʰɨ̃
+4.231	nostril	kʰɨ̃u'ria
+4.232	mucus (nasal)	hɨ̃'bari
+4.24	mouth	i'tʰai
+4.241	beak	i'pana'kʰida
+4.25	lip	i
+4.26	tongue	kʰĩ'rame
+4.26	tongue	kʰĩra'me
+4.27	tooth	'kʰida
+4.28	neck	o
+4.28	neck	o'tau
+4.281	nape of neck	ɨ̃'bɨsi
+4.29	throat	o'siru
+4.3	shoulder	i'kʰia
+4.302	collarbone	o'tau'bɨɨrɨ
+4.31	arm	'hua
+4.312	armpit	i'sia'kʰara
+4.32	elbow	'huaãpi'wida
+4.321	wrist	'huakʰokʰo'rãa
+4.33	hand	'hua
+4.331	palm of hand	'huahã
+4.34	finger	'hua'čakʰe
+4.342	thumb	'hua'nawe
+4.344	fingernail	'huapʰi'si
+4.345	claw	pʰi'si
+4.35	leg	'hĩru
+4.35	leg	'bɨɨrɨ
+4.351	thigh	ma'kʰara
+4.352	calf of leg	'pʰotʰo
+4.36	knee	sina'pote
+4.37	foot	'hĩru
+4.371	ankle	'bɨɨrɨ'kʰooro
+4.372	heel	'bɨɨrɨãtu'mia
+4.374	footprint	'bɨɨrɨ
+4.38	toe	'bɨɨrɨ'čakʰe
+4.392	wing	neʔi'sia
+4.392	wing	i'sia
+4.393	feather	i'sia'kʰara
+4.4	chest	'tʰũa
+4.41	breast (of woman)	hu
+4.412	nipple, teat	hukʰɨ̃
+4.43	navel	kʰo'moo
+4.44	heart	sõ
+4.441	lung	pʰopʰo'tʰoo
+4.45	liver	'tʰãri
+4.452	spleen	hõ'hira
+4.46	stomach	bi
+4.461	intestines, guts	'hɨ̃si
+4.462	waist	'kʰɨr̃ɨ
+4.464	buttocks	ã'tau
+4.47	womb	'war̃ate
+4.49	testicle	kʰãra'tau
+4.492	penis	me
+4.51	breathe, breath	ĩapa
+4.52	yawn, gape	ipʰoo
+4.53	cough	oso
+4.54	sneeze	haisa
+4.55	perspire	'hɨače
+4.56	spit	idu
+4.57	vomit	ãpʰo
+4.58	bite	kʰaa
+4.59	lick	sene
+4.591	dribble	i'bača'waa
+4.61	sleep	kʰãi
+4.612	snore	kʰɨ̃hõ'r̃oo
+4.62	dream	kʰãimokʰaraa
+4.63	wake up	ɨ̃ɨ̃ma
+4.63	wake up	ɨ̃rɨma
+4.64	break wind	sĩče
+4.65	urinate	siwa
+4.66	defecate	'ãa
+4.67	have sexual intercourse	kʰẽno
+4.68	shiver	wërewë'ree
+4.69	bathe	kʰui
+4.71	beget (of father)	oo
+4.72	born (to be)	tʰo
+4.73	pregnant	bia'kʰoo
+4.74	live, living, life	čo'kʰaibɨ
+4.75	die, dead	haiʔi'daada
+4.76	kill	pee
+4.77	corpse	'piudakʰa'pʰɨa
+4.78	bury (the dead)	hau
+4.79	grave, tomb	'hãɨra
+4.81	strong, mighty, powerful	hua'tau
+4.82	weak	hua'tauwẽ'ʔee
+4.83	well, health	kʰa'pʰɨa'pia
+4.84	sick, sickness	kʰa'yaa
+4.841	fever	'kʰɨa
+4.85	wound, sore	'tʰuda
+4.85	wound, sore	aiida
+4.85	wound, sore	ta'dia
+4.852	bruise	pʰar̃e'paa
+4.853	swelling	ooro
+4.854	itch	i'sia
+4.855	blister	toočia
+4.856	boil (noun)	'kʰapɨ
+4.857	pus	'mor̃o
+4.86	cure, heal	hɨpa
+4.87	physician	'neerakʰa'waa
+4.88	medicine, drug	'neera
+4.89	poison	'neera
+4.91	tired, weary	hua'tautʰu'maa
+4.912	rest	ɨ̃i
+4.92	lazy	kʰoʔi'daa
+4.93	bald	'porou'rua
+4.94	lame	či'wa
+4.95	deaf	'kʰɨɨrɨkʰi'sua
+4.97	blind	'taupʰã'riu
+4.98	intoxicated	'piubɨi'tuapa
+4.99	naked, bare	ãkʰa'daa
+5.11	eat	kʰo
+5.11	eat	nekʰo
+5.12	food	'čikʰo
+5.121	cooked	ĩ'pada
+5.121	cooked	'čuda
+5.122	raw	õ'kʰoo
+5.123	ripe	wa'raa
+5.123	ripe	'serapʰo'reda
+5.124	green, unripe	či'kʰaa
+5.124	green, unripe	či'kʰa'ʔaa
+5.125	rotten	be'rau
+5.125	rotten	pʰo'kʰee
+5.125	rotten	mi'kʰia
+5.13	drink	to
+5.14	hunger	har̃api'sia
+5.141	famine	'har̃a'hara
+5.15	thirst	opi'sia
+5.16	suck	sõ
+5.18	chew	kʰaikʰayaa
+5.18	chew	kʰai
+5.181	swallow	mi
+5.19	choke	ohɨ̃abai
+5.21	cook	hoo
+5.22	boil (vb)	baakʰa
+5.23	roast, fry	paa
+5.23	roast, fry	wɨrɨ
+5.24	bake	ɨ̃pɨ
+5.26	pot, cooking vessel	'kʰuuru
+5.27	kettle	'kʰuuru
+5.33	bowl	'sãu
+5.34	pitcher, jug	'čokʰo
+5.36	saucer	'čakʰe
+5.46	peel	hoda
+5.46	peel	epʰa
+5.47	sieve, strain	neesĩ
+5.48	scrape	wẽ
+5.49	stir, mix	poiratʰɨ
+5.56	crush, grind	ba
+5.58	mortar	kʰũ'ruma
+5.59	pestle	kʰũ'ruma'kʰida
+5.61	meat	'čiara
+5.64	soup, broth	'neba
+5.64	soup, broth	kʰa
+5.65	vegetables	'pʰata
+5.71	fruit	'nehõ
+5.712	bunch	'kʰɨmɨ
+5.712	bunch	'hua
+5.79	oil	'traa
+5.791	grease, fat	'traa
+5.81	salt	tʰã
+5.821	chili pepper	pʰi'daa
+5.84	honey	'hɨr̃ɨ
+5.86	milk (noun)	'huba
+5.87	milk (vb)	hu
+5.9	beverage, drink	ne'tʰaato'pari
+5.91	mead	ba
+5.94	fermented drink	bekʰai'tʰua
+5.97	egg	'ʔɨmɨ
+6.11	put on (clothes)	hɨ̃
+6.12	clothing, clothes	'pʰaru
+6.21	cloth	'pʰaru
+6.28	fur	'kʰara
+6.29	leather	ne'ʔe
+6.31	spin	sira
+6.33	weave	kʰa
+6.35	sew	kʰaatʰɨ
+6.37	awl	kʰɨ̃mi'sua
+6.39	dye	tʰɨ
+6.42	woman's dress	'wẽra'pʰaru
+6.57	belt, girdle	'kʰɨr̃ɨhɨ̃
+6.71	ornament, adornment	či'ʔoo
+6.71	ornament, adornment	či'ʔau
+6.76	bead	kʰɨ'r̃ɨma
+6.77	earring	kʰɨɨrɨdee'pema
+6.78	headband, headdress	'poro'siru
+6.81	handkerchief, rag	'pʰaru'sore
+6.91	comb	tʰɨ̃'ʔiru
+7.11	dwell, live	ba
+7.11	dwell, live	pʰana
+7.12	house	te
+7.13	hut	te
+7.14	tent	'tʰorte
+7.15	yard, court	teãukʰi'daa
+7.17	cookhouse	itʰa'bar̃e
+7.18	meeting house	tewai'bɨa
+7.26	floor	te'hã
+7.27	wall	hua'bɨra
+7.31	fireplace	itʰa'bar̃e
+7.37	ladder	'tome
+7.42	bed	'kʰɨda
+7.421	pillow	poro'kʰau
+7.422	blanket	po'roba
+7.43	chair	ã'kʰau
+7.46	candle	ĩ'pirã
+7.47	shelf	ba'rawa
+7.51	roof	te'kʰiru
+7.52	thatch	te'kʰiru
+7.53	ridgepole	teporo'sãu
+7.54	rafter	te'or̃o
+7.56	post, pole	te'bɨɨrɨ
+8.11	farmer	neʔuu'pari
+8.12	field (for cultivation)	'kʰãi
+8.15	cultivate, till	hari
+8.22	dig	kʰoro
+8.31	sow	pʰo
+8.311	seed	'netʰa
+8.311	seed	'netʰa'tau
+8.32	mow, reap	ewa
+8.34	thresh	kʰɨrɨ
+8.42	grain (barley, oats etc)	'tau
+8.47	maize, corn	pe
+8.47	maize, corn	pe'tau
+8.48	rice	'tau
+8.51	grass	pʰua'hãra
+8.52	hay	pʰua'hãra'pʰooda
+8.53	plant (noun)	ne'ʔuu'kʰar̃a
+8.531	plant (vb)	uu
+8.54	root	'kʰar̃a
+8.55	branch	pa'kʰuru'hua
+8.56	leaf	'kʰiru
+8.56	leaf	kʰi'tua
+8.57	flower	'pʰono
+8.6	tree	pa'kʰuru
+8.67	vine	hɨ̃'kʰara
+8.69	smoke (tobacco)	to
+8.72	tree stump	pa'kʰuru'kʰar̃a
+8.74	forked branch	pa'kʰuru'hua'nera
+8.75	bark	pa'kʰurue
+8.76	sap	pa'kʰurukʰa'yoo
+8.81	palm tree	'meme
+8.81	palm tree	'hẽe
+8.84	banana tree	'sera'kʰar̃a
+8.912	yam	ĩ'kʰade
+8.93	gourd	hia'tau
+8.94	bamboo	'siaro
+8.941	sugar cane	'sĩasõ
+8.96	fish poison (root)	to'kʰã
+8.97	nettle	'hõikʰa
+9.11	do, make	oo
+9.11	do, make	au
+9.12	work	mimia
+9.14	bend	enatʰɨ
+9.15	fold	beda
+9.16	tie, bind	hɨ̃
+9.161	untie	ẽra
+9.19	rope, cord	hɨ̃'kʰara
+9.192	knot (noun)	kʰã'tar̃a
+9.21	strike (hit, beat)	wɨ
+9.211	pound with fist	sĩ
+9.22	cut	tʰɨɨ
+9.22	cut	tʰɨapʰe
+9.221	cut down	tʰu
+9.222	chop, hew	ogapʰe
+9.223	stab	su
+9.223	stab	awa
+9.25	ax	'čaara
+9.251	adze	'hãitʰe
+9.26	break	kʰõra
+9.261	broken	ãri
+9.27	split	tʰoopʰe
+9.28	tear	hẽ
+9.29	flay, skin	epa
+9.31	rub, wipe	ɨratʰɨ
+9.32	stretch	ẽebai
+9.33	pull	hidiu
+9.34	spread out	pʰai
+9.341	hang up	hõihira
+9.342	press	čiratʰɨ
+9.343	squeeze, wring	hu
+9.343	squeeze, wring	pʰuya
+9.35	pour	wee
+9.36	wash	sɨɨ
+9.44	build	oo
+9.44	build	au
+9.46	bore	uyaa
+9.461	hollow out	kʰoro
+9.48	saw	ɨr̃a
+9.49	hammer	merapʰe
+9.56	glue	kʰara
+9.61	forge	porekʰe
+9.64	gold	'nee
+9.72	mold (clay etc)	kʰa
+9.73	clay	'yooro
+9.75	weave, plait	kʰa
+9.76	basket	kʰo'raa
+9.77	mat	hoi'pʰaru
+9.79	fan (noun)	pʰe'pʰema
+9.791	fan (vb)	pʰua
+9.791	fan (vb)	hãrapʰe
+9.81	carve	tʰẽ
+9.88	paint (noun)	kʰi'pʰara
+9.89	paint (vb)	pʰuru
+10.11	move	mimikʰa
+10.12	turn over	tʰerabai
+10.12	turn over	bar̃o
+10.13	turn around	pʰɨr̃abai
+10.14	wind, wrap	pɨra
+10.15	roll	pɨrabai
+10.16	drop (vb)	baai
+10.17	twist	pʰɨya
+10.21	rise	ɨ'tʰaawã
+10.21	rise	pʰirabai
+10.22	raise, lift	hiraata
+10.23	fall	baai
+10.24	drip	tʰeubaai
+10.25	throw	batʰa
+10.252	catch (ball)	hitʰa
+10.26	shake	hĩapʰe
+10.32	flow	wee
+10.33	sink	tʰaa
+10.34	float	bariʔũu
+10.35	swim	kʰui
+10.351	dive	'hɨ̃tɨkʰui
+10.352	splash	we
+10.37	fly (vb)	wãabai
+10.38	blow	hãrapʰua
+10.41	creep, crawl	sinapo'tepani
+10.412	kneel	bedabai
+10.413	crouch	ɨ̃ɨhaabai
+10.42	slide, slip	siratɨa
+10.43	jump, leap	hɨ̃tɨ
+10.43	jump, leap	hĩbai
+10.431	kick	bɨɨ'rɨpawɨ
+10.44	dance	pëira
+10.45	walk	ni
+10.45	walk	nipa
+10.451	limp	nɨkʰanɨkʰaani
+10.46	run	pʰira
+10.47	go	wã
+10.47	go	na
+10.471	go up	ɨ'tʰaawã
+10.472	climb	ɨ'tʰɨpa
+10.473	go down	ɨrabai
+10.474	go out	učia
+10.48	come	če
+10.481	come back	wa'yače
+10.49	go away, depart	ã'yaawã
+10.49	go away, depart	hirabodo
+10.491	disappear	wẽpa
+10.51	flee	miru
+10.52	follow	'tʰẽewã
+10.53	pursue	'hɨrɨwã
+10.55	reach, arrive	bari
+10.56	approach	'kʰaitʰawã
+10.56	approach	'kʰaitʰače
+10.57	enter	tʰĩu
+10.61	carry (bear)	ãtʰau
+10.61	carry (bear)	ãpʰa
+10.612	carry-in-hand	ua
+10.613	carry-on-shoulder	i'kʰiadeua
+10.614	carry-on-head	eteeporo'sãude
+10.62	bring	enee
+10.63	send	pëi
+10.64	lead (vb)	haratee
+10.64	lead (vb)	'naawã
+10.65	drive	pʰera
+10.67	push, shove	tʰɨsĩa
+10.72	path	o
+10.831	canoe	'hapa
+10.851	paddle (noun)	'toi
+10.852	row (vb)	wii
+10.92	land (vb)	batau
+11.11	have	iruba
+11.11	have	pa'raa
+11.13	take	etee
+11.13	take	hita
+11.14	seize, grasp	para
+11.16	get, obtain	ata
+11.17	keep, retain	ɨa
+11.18	thing	ne'tʰa
+11.18	thing	neʔi'naa
+11.21	give	tee
+11.22	give back	wa'yatee
+11.22	give back	wa'yaatee
+11.24	preserve, look after	akʰɨ
+11.25	save, rescue	kʰaripa
+11.27	destroy	hõma'wedaãri
+11.28	harm, injure, damage	'pʰuaoo
+11.28	harm, injure, damage	ãri
+11.31	seek, look for	'hɨrɨ
+11.32	find	unu
+11.33	lose	atua
+11.34	release, let go	kʰenapëi
+11.44	coin	'tau
+11.51	rich	pa'raa
+11.52	poor	wẽ'ʔe
+11.54	avaricious, stingy	ã'taupʰai'maa
+11.61	lend	pëi
+11.62	borrow	iidi
+11.63	owe	pa'raa
+11.65	pay (vb)	pʰaa
+11.81	buy	netoʔata
+11.82	sell	netopëi
+11.83	trade, barter	tʰerabai
+11.88	dear (costly, expensive)	ɨ̃'pɨa
+11.89	cheap	e'daa
+11.91	share (distribute)	hede
+11.92	weigh	čaa
+12.1	after	'tʰẽe
+12.11	place	ãpɨ'tee
+12.2	beside	i'kʰaawa
+12.3	down, below	e'du
+12.3	down, below	e'daa
+12.4	before	'naa
+12.41	right (side)	kʰĩra'pite
+12.5	inside, in	e'du
+12.6	outside	'taawa
+12.6	outside	taa'waa
+12.7	under	e'kʰari
+12.8	up, above	'ɨ̃rɨ
+12.11	place	'mai
+12.12	put	bɨ
+12.13	sit	suʔakʰɨbee
+12.14	lie down	hẽrabee
+12.15	stand	akʰɨnɨbee
+12.15	stand	bainɨbee
+12.16	remain, stay	bee
+12.16	remain, stay	pʰanee
+12.17	remains, left overs	'beeda
+12.21	collect, gather	pʰe
+12.213	pile up	a'raapʰe
+12.22	join, unite	a'raabɨ
+12.23	separate	ã'yaabɨ
+12.232	divide	tʰoo
+12.24	open	ewa
+12.25	shut, close	hɨ̃a
+12.26	cover	poro
+12.26	cover	wãkʰa
+12.27	hide, conceal	miru
+12.27	hide, conceal	mera
+12.31	high	ɨ'tʰɨ
+12.32	low	he'pʰeda
+12.33	top	no'kʰoo
+12.34	bottom	hã
+12.35	end	kʰɨ̃
+12.35	end	'nokʰo
+12.352	pointed	kʰɨ̃mi'sua
+12.353	edge	i
+12.36	side	bi
+12.37	middle, center	e'sa
+12.37	middle, center	esa'hĩakʰa
+12.41	right (side)	hua'raare
+12.42	left (side)	huabi'are
+12.43	near (adv)	'kʰaitʰa
+12.44	far (adv)	tʰɨ'mɨa
+12.45	east	a'kʰõre'hĩruučia'pari'ere
+12.46	west	a'kʰõre'hĩrubaai'pari'ere
+12.53	grow	wari
+12.54	measure	čaa
+12.541	span, fathom	'hua'čama
+12.55	large, big	'čoma
+12.56	small, little	kʰai'pee
+12.56	small, little	ma'ʔari
+12.57	long	tee'soo
+12.58	tall	ɨ'tʰɨa
+12.58	tall	tee'soo
+12.59	short	kʰakʰa'tʰua
+12.61	wide, broad	ho'bɨa
+12.61	wide, broad	he'tʰee
+12.62	narrow	pʰĩru'pʰee
+12.63	thick (in dimension)	pa'daa
+12.65	thin (in dimension)	na'mia
+12.67	deep	na'pɨa
+12.68	shallow	itʰa'pʰaa
+12.71	flat	hewe'daa
+12.73	straight	'hĩpʰa
+12.74	crooked	hõ'ree
+12.76	corner	kʰi'daa
+12.76	corner	ãukʰi'daa
+12.81	round	porokʰo'kʰoo
+12.82	circle	pʰɨ'trɨa
+12.83	sphere, ball	tau
+12.84	line	wii'bai
+12.85	hole	u'ria
+12.92	like, similar	kʰa
+12.92	like, similar	hĩa'kʰaa
+13.0	zero, nothing	maara'pida
+13.1	one	'aba
+13.2	two	o'me
+13.3	three	õ'pee
+13.4	four	kʰi'mari
+13.5	five	hoiso'maa
+13.10	ten	'huao'mehõ
+13.104	twenty	kʰa'pʰɨa'aba
+13.105	hundred	be'dama'aba
+13.106	thousand	u'rutʰa'kʰɨmɨ'aba
+13.107	count	huasia
+13.14	every, all	'čaa
+13.14	every, all	'hõma'weda
+13.15	much, many	čo'kʰara
+13.16	more	'waa
+13.17	little (quantity), few	makʰɨara'ʔe
+13.17	little (quantity), few	čokʰara'ʔe
+13.18	enough	hãga'pai
+13.181	some	ũ'kʰuru
+13.19	multitude, crowd	see
+13.21	full	i'puru
+13.22	empty	arahã'ga
+13.22	empty	ara'hãa
+13.23	part, piece	'pite
+13.24	half	e'sa
+13.24	half	esa'ʔaukʰa
+13.33	alone, only	i'tuaba
+13.33	alone, only	au'pai
+13.33	alone, only	'pai
+13.34	first	'naa
+13.34	first	naa'pema
+13.35	last	'tʰẽe
+13.35	last	tʰẽe'pema
+13.38	two times	'tauo'me
+13.44	three times	'tauõ'pee
+14.13	new	či'widi
+14.14	young	e'wawarida
+14.15	old	či'sore
+14.15	old	či'wari
+14.16	early	ã'sa
+14.17	late	kʰe'wara
+14.17	late	'nade
+14.18	now	ĩ'ra
+14.18	now	ĩra'weda
+14.19	immediately	ara'mata
+14.21	swift, fast, quick	isa'pai
+14.21	swift, fast, quick	kʰapʰi'pʰia
+14.22	slow	pia'kʰãa
+14.23	hasten, hurry	isa'pai
+14.24	retard, delay	taarã
+14.25	begin, beginning	e'waa
+14.252	last, endure	čoo
+14.26	end (temporal)	hõ
+14.27	finish	aupa
+14.28	cease, stop	bainɨbee
+14.29	ready	'mera
+14.31	always	i'čita
+14.32	often	i'pʰii
+14.32	often	pa
+14.33	sometimes	e'daare
+14.331	soon	arakʰa'tɨa
+14.34	never	'waide
+14.35	again	wa'ya
+14.41	day	e'wari
+14.41	day	e'wate
+14.42	night	pʰãri'kʰua
+14.43	dawn	ewari'titi
+14.44	morning	ta'pʰeda
+14.44	morning	ã'sa
+14.45	noon, midday	ima'tʰipa
+14.451	afternoon	kʰe'wara
+14.46	evening	pʰãriupo'dopa
+14.47	today	'idi
+14.48	tomorrow	nu
+14.481	day-after-tomorrow	nuno'rema
+14.49	yesterday	nu'weda
+14.491	day-before-yesterday	nunore'weda
+14.61	week	to'mia
+14.62	Sunday	to'miae'wate
+14.71	month	a'tane
+14.74	winter	'kʰoi'hara
+14.76	summer	'pʰoo'hara
+14.78	season	'hara
+15.21	smell (vb intrans)	ho
+15.22	smell (vb trans)	ɨ̃
+15.25	fragrant, good smelling	'tʰũa
+15.26	stinking, bad smelling	mi'kʰia
+15.26	stinking, bad smelling	mia'hoo
+15.31	taste	awaa
+15.35	sweet	'kʰũa
+15.36	salty	kʰɨ'yaa
+15.37	bitter	a'sia
+15.38	acid, sour	aču'čua
+15.39	brackish	hɨyahɨ'yaa
+15.39	brackish	mona'naa
+15.41	hear	ũri
+15.42	listen	ũri
+15.44	sound, noise	hĩwa
+15.44	sound, noise	hĩkʰua
+15.45	loud	o'čõbɨ
+15.46	quiet, silence	kʰĩu'pʰee
+15.51	see	unu
+15.52	look, look at	akʰɨ
+15.55	show	akʰɨpi
+15.56	shine	hẽra
+15.56	shine	urua
+15.57	bright	ɨ̃daa
+15.61	color	'kʰĩra
+15.61	color	'tau
+15.62	light (in color)	pʰorepʰo'ree
+15.63	dark (in color)	pʰoʔ'ree
+15.64	white	tʰo'r̃oo
+15.65	black	pʰãi'maa
+15.66	red	pʰo'ree
+15.67	blue	pʰãpʰã'raa
+15.68	green	pʰãwa'raa
+15.69	yellow	kʰua'raa
+15.71	touch	tʰõbai
+15.712	pinch	para
+15.72	feel	para
+15.74	hard	čaa'ree
+15.75	soft	pore'kʰee
+15.75	soft	pʰẽesapʰẽe'saa
+15.76	rough	ɨ'kʰɨa
+15.77	smooth	kʰakʰa'yaa
+15.78	sharp	pʰewe'dee
+15.79	blunt, dull	'kʰidawa'ree
+15.79	blunt, dull	po'sia
+15.81	heavy	'čɨa
+15.81	heavy	čɨ'kʰɨa
+15.82	light (in weight)	wẽ'saa
+15.83	wet, damp	be'kʰee
+15.84	dry	pʰũa'saa
+15.84	dry	pʰoo
+15.85	hot	wã'sia
+15.85	hot	wasta'waa
+15.851	warm	hɨ̃'rɨa
+15.86	cold	kʰũra'saa
+15.86	cold	kʰũ'ratɨ
+15.87	clean	tʰo'tʰoo
+15.88	dirty, soiled	hai'kʰoo
+15.88	dirty, soiled	me'mee
+15.89	wrinkled	pipi'tua
+15.89	wrinkled	ãkʰã'kʰãa
+16.11	soul, spirit	'haure
+16.15	surprised, astonished	pʰera
+16.18	good fortune, luck	'poro'pia
+16.19	misfortune, bad luck	'porokʰa'čia
+16.23	joyful, glad, happy	õʔ'ia
+16.25	laugh	ëi
+16.251	smile	ëi
+16.26	play	hemene
+16.27	love	kʰinia
+16.29	kiss	'kʰĩraɨ̃
+16.3	embrace	wëre
+16.31	pain	'pʰua
+16.32	grief, sorrow, sadness	pia'ʔee
+16.33	anxiety, worry	kʰĩ'sia'pʰua
+16.35	pity	čupɨ'riakʰawa
+16.37	cry, weep	hẽe
+16.38	tear (noun)	'tauba
+16.39	groan	bia
+16.41	hate	'kʰĩraunua'maairuba
+16.42	anger	i'kʰɨ̃atɨ
+16.42	anger	i'hɨ̃atɨ
+16.44	envy, jealousy	miahiwaaʔi'daa
+16.45	shame (noun)	'kʰĩraneha'sia
+16.48	proud	au'dua
+16.48	proud	au'duara
+16.51	dare	'čõohɨrɨ
+16.52	brave	sõ'čar̃a
+16.53	fear, fright	neha'sia
+16.53	fear, fright	wa'wee
+16.62	desire, want	kʰinia
+16.622	choose	hɨrɨtʰera
+16.65	faithful	čokʰe'kʰee
+16.66	true	'wãara
+16.67	lie, tell lies	'seewa
+16.68	deceit	kʰũra
+16.69	forgive	čupɨ'riakʰawaa
+16.71	good	'pia
+16.71	good	piʔ'ia
+16.72	bad	kʰa'čia
+16.73	right, correct	'pia
+16.74	wrong	kʰa'čia
+16.78	blame	kʰau'repa
+16.81	beautiful	piʔ'ia
+16.81	beautiful	'kʰĩrawã'ree
+16.82	ugly	miʔitʰi'tʰia
+16.83	greedy	'kʰɨ̃a
+16.84	clever	'kʰĩraɨ'bɨa
+17.11	mind	kʰĩ'sia
+17.13	think (= reflect)	kʰĩsia
+17.14	think (= be of the opinion)	ihãa
+17.15	believe	ihãa
+17.16	understand	ũri
+17.17	know	kʰawa
+17.171	guess	kʰawa
+17.172	imitate	'aukʰaoo
+17.18	seem	'pɨkʰa
+17.19	idea, notion	kʰĩ'sia
+17.21	wise	'porowẽ'saa
+17.21	wise	kʰĩ'siakʰa'waa
+17.22	foolish, stupid	'kʰĩrakʰawa'ʔee
+17.23	insane, crazy	'kʰĩrakʰawaʔe
+17.24	learn	kʰawaata
+17.25	teach	haratee
+17.27	teacher	harateepa'ri
+17.31	remember	kʰĩ'radepa
+17.32	forget	'kʰĩraatua
+17.37	sure, certain	'wãara
+17.38	explain	haratee
+17.42	cause	pi
+17.43	doubt	ihãaʔ'e
+17.441	betray	kʰũra
+17.46	easy	čaree'ʔee
+17.47	difficult	ča'ree
+17.51	and	mãi'kʰaapa
+17.52	because	irã
+17.52	because	'perã
+17.52	because	pi
+17.53	if	bada'paara
+17.54	or	wa
+17.55	yes, affirmative	o'hoo
+17.56	no, negative	oʔ'oo
+17.61	how?	'sãga
+17.62	how many?	hõma'sa
+17.63	how much?	hõma'sa
+17.64	what?	'kʰãare
+17.64	what?	kʰa'sa
+17.65	when?	sãa'pai
+17.65	when?	sãa'weda
+17.66	where?	'sãma
+17.66	where?	sã'maa
+17.67	which?	čisã'gɨ
+17.68	who?	'kʰai
+17.69	why?	sãa'pʰeda
+18.11	voice	o
+18.12	sing	kʰari
+18.13	shout, cry out	'biapi
+18.13	shout, cry out	'bia
+18.15	whisper	osausa'wa
+18.15	whisper	osau'sau
+18.16	mumble	buru'rua
+18.17	whistle	ikʰoro
+18.18	shriek, screech	'bia
+18.19	howl	'bia
+18.21	speak, talk	pedee
+18.211	stutter, stammer	pe'deetʰetʰe'tʰeepedee
+18.22	say	hara
+18.221	tell story	nepɨrɨ
+18.222	speech (make a)	pe'deehiwa
+18.23	silent (be)	i'pʰiibee
+18.24	language	pe'dee
+18.26	word	pe'dee
+18.28	name	tʰɨ̃
+18.31	ask (question, inquire)	iidi
+18.32	answer	pʰanau
+18.33	admit, confess	hara
+18.34	deny	mera
+18.35	ask, request	iidi
+18.36	promise	pe'deetee
+18.37	refuse	'ookʰiniaʔ'e
+18.38	forbid	ikʰa'raabɨ
+18.39	rebuke, scold	ɨtrɨa
+18.41	call (=summon)	tʰɨ̃
+18.41	call (=summon)	tʰɨ̃hara
+18.42	call (=name)	tʰɨ̃'pata
+18.42	call (=name)	tʰɨ̃bɨ
+18.43	announce	miahara
+18.44	threaten	iharaa
+18.45	boast	au'duapedee
+18.51	write	pʰã
+18.52	read	pedee
+18.56	paper	'kʰiru
+18.71	flute	'siru
+18.71	flute	pʰi'pʰana
+18.72	drum	tʰõ'doo
+19.11	country	'euhã
+19.12	one's native country	mɨto
+19.15	city, town	'pʰuuru'čoma
+19.16	village	'pʰuuru
+19.21	people (populace)	epe'rãarã
+19.24	chief, chieftain	'tači'poro
+19.25	staff, walking stick	'tuma
+19.32	king, ruler	'tačia'kʰõre
+19.33	queen	'tači'nawe
+19.37	citizen, subject	'pida
+19.41	master	'čãure
+19.43	servant	mimia'pari
+19.45	command, order	čokʰapëi
+19.46	obey	čokʰe'kʰee
+19.47	let, permit	pi
+19.51	friend, companion	a'čɨ
+19.54	neighbor	te'aure
+19.55	stranger	'kʰĩratewa'raa
+19.57	host	čiteči'pari
+19.58	help, aid	kʰaripa
+19.59	hinder, prevent	piʔ'e
+19.59	hinder, prevent	'wãakʰa
+19.62	strife, quarrel	ne'pɨra
+19.65	meet	'kʰĩračuu
+19.72	prostitute	kʰãi'pari
+20.11	fight (vb)	čõo
+20.13	war, battle	'hura
+20.13	war, battle	'čõo
+20.15	army	rãčo'kʰara
+20.22	club	pa'kʰuru'hua
+20.24	bow	ema'trɨma
+20.25	arrow	'sia
+20.26	spear	'miasu
+20.26	spear	'tosu
+20.27	sword	'nekʰo
+20.28	gun, cannon	'pʰawã
+20.41	victory	pʰo'yaa
+20.42	defeat	atua
+20.43	attack	wawa
+20.44	defend	hautʰɨ
+20.471	guard, sentinel	hɨ̃apa'ri
+20.49	ambush	otʰewa
+20.49	ambush	wa'pʰɨra
+20.51	fisherman	toʔɨa'mia
+20.52	fishhook	'tua'kʰida
+20.54	fishnet	'tʰɨri
+20.61	hunt	nehɨrɨ
+20.62	shoot	batʰa
+20.62	shoot	trɨ
+20.63	miss (target)	ooʔ'e
+21.18	judge (noun)	'čar̃a
+21.31	accuse	ɨmɨatee
+21.34	acquit	kʰenapëi
+21.42	murder	pee
+21.51	steal	čɨa
+21.52	thief	nečɨai'daa

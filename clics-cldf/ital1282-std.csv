@@ -1,0 +1,1511 @@
+ID,Language_ID,Feature_ID,IDS_Key,Value,Concept,IPA_UDECODE
+clics-doculect-28-1,ital1282-std,concepticon-965,1.1,mondo,world,mondo
+clics-doculect-28-2,ital1282-std,concepticon-626,1.21,terra,"earth, land",terra
+clics-doculect-28-3,ital1282-std,concepticon-1228,1.212,terreno,"earth=ground, soil",terreno
+clics-doculect-28-4,ital1282-std,concepticon-1228,1.212,suolo,"earth=ground, soil",suolo
+clics-doculect-28-5,ital1282-std,concepticon-2,1.213,polvere,dust,polvere
+clics-doculect-28-6,ital1282-std,concepticon-640,1.214,fango,mud,fango
+clics-doculect-28-7,ital1282-std,concepticon-671,1.215,sabbia,sand,sabbia
+clics-doculect-28-8,ital1282-std,concepticon-671,1.215,rena,sand,rena
+clics-doculect-28-9,ital1282-std,concepticon-2118,1.22,montagna,"mountain, hill",montagna
+clics-doculect-28-10,ital1282-std,concepticon-2118,1.22,collina,"mountain, hill",collina
+clics-doculect-28-11,ital1282-std,concepticon-618,1.222,scogliera,"cliff, precipice",scogliera
+clics-doculect-28-12,ital1282-std,concepticon-618,1.222,rupe,"cliff, precipice",rupe
+clics-doculect-28-13,ital1282-std,concepticon-652,1.23,pianura,"plain, field",pianura
+clics-doculect-28-14,ital1282-std,concepticon-652,1.23,campo,"plain, field",campo
+clics-doculect-28-15,ital1282-std,concepticon-921,1.24,valle,valley,valle
+clics-doculect-28-16,ital1282-std,concepticon-622,1.25,isola,island,isola
+clics-doculect-28-17,ital1282-std,concepticon-166,1.26,terraferma,mainland,terraferma
+clics-doculect-28-18,ital1282-std,concepticon-166,1.26,continente,mainland,continente
+clics-doculect-28-19,ital1282-std,concepticon-113,1.27,riva,shore,riva
+clics-doculect-28-20,ital1282-std,concepticon-113,1.27,littorale,shore,littorale
+clics-doculect-28-21,ital1282-std,concepticon-1155,1.28,grotta,cave,grotta
+clics-doculect-28-22,ital1282-std,concepticon-948,1.31,acqua,water,acqua
+clics-doculect-28-23,ital1282-std,concepticon-1474,1.32,mare,sea,mare
+clics-doculect-28-24,ital1282-std,concepticon-258,1.322,bonaccia,calm (of sea),bonaccia
+clics-doculect-28-25,ital1282-std,concepticon-259,1.323,agitato,rough (of sea),agitato
+clics-doculect-28-26,ital1282-std,concepticon-259,1.323,burrascoso,rough (of sea),burrascoso
+clics-doculect-28-27,ital1282-std,concepticon-1768,1.324,schiuma,foam,schiuma
+clics-doculect-28-28,ital1282-std,concepticon-645,1.329,oceano,ocean,oceano
+clics-doculect-28-29,ital1282-std,concepticon-624,1.33,lago,lake,lago
+clics-doculect-28-30,ital1282-std,concepticon-663,1.34,golfo,"gulf, bay",golfo
+clics-doculect-28-31,ital1282-std,concepticon-663,1.34,baia,"gulf, bay",baia
+clics-doculect-28-32,ital1282-std,concepticon-623,1.341,laguna,lagoon,laguna
+clics-doculect-28-33,ital1282-std,concepticon-660,1.342,scoglio,reef,scoglio
+clics-doculect-28-34,ital1282-std,concepticon-1662,1.343,capo,"headland, point",capo
+clics-doculect-28-35,ital1282-std,concepticon-1662,1.343,punta,"headland, point",punta
+clics-doculect-28-36,ital1282-std,concepticon-978,1.35,onda,wave,onda
+clics-doculect-28-37,ital1282-std,concepticon-891,1.352,marea,tide,marea
+clics-doculect-28-38,ital1282-std,concepticon-1026,1.353,bassamarea,lowtide,bassamarea
+clics-doculect-28-39,ital1282-std,concepticon-613,1.354,altamarea,hightide,altamarea
+clics-doculect-28-40,ital1282-std,concepticon-666,1.36,fiume,"river, stream, brook",fiume
+clics-doculect-28-41,ital1282-std,concepticon-666,1.36,torrente,"river, stream, brook",torrente
+clics-doculect-28-42,ital1282-std,concepticon-666,1.36,ruscello,"river, stream, brook",ruscello
+clics-doculect-28-43,ital1282-std,concepticon-1982,1.362,gorgo,whirlpool,gorgo
+clics-doculect-28-44,ital1282-std,concepticon-1982,1.362,vortice,whirlpool,vortice
+clics-doculect-28-45,ital1282-std,concepticon-2144,1.37,sorgente,"spring, well",sorgente
+clics-doculect-28-46,ital1282-std,concepticon-2144,1.37,pozzo,"spring, well",pozzo
+clics-doculect-28-47,ital1282-std,concepticon-1145,1.38,palude,swamp,palude
+clics-doculect-28-48,ital1282-std,concepticon-1145,1.38,pantano,swamp,pantano
+clics-doculect-28-49,ital1282-std,concepticon-943,1.39,cascata,waterfall,cascata
+clics-doculect-28-50,ital1282-std,concepticon-420,1.41,bosco,"woods, forest",bosco
+clics-doculect-28-51,ital1282-std,concepticon-420,1.41,selva,"woods, forest",selva
+clics-doculect-28-53,ital1282-std,concepticon-1803,1.43,legno,wood,legno
+clics-doculect-28-54,ital1282-std,concepticon-2125,1.44,sasso,"stone, rock",sasso
+clics-doculect-28-55,ital1282-std,concepticon-2125,1.44,pietra,"stone, rock",pietra
+clics-doculect-28-56,ital1282-std,concepticon-6,1.45,terremoto,earthquake,terremoto
+clics-doculect-28-57,ital1282-std,concepticon-6,1.45,sisma,earthquake,sisma
+clics-doculect-28-58,ital1282-std,concepticon-1732,1.51,cielo,sky,cielo
+clics-doculect-28-59,ital1282-std,concepticon-1343,1.52,sole,sun,sole
+clics-doculect-28-60,ital1282-std,concepticon-1313,1.53,luna,moon,luna
+clics-doculect-28-61,ital1282-std,concepticon-1430,1.54,stella,star,stella
+clics-doculect-28-62,ital1282-std,concepticon-1654,1.55,lampo,lightning,lampo
+clics-doculect-28-63,ital1282-std,concepticon-1150,1.56,tuono,thunder,tuono
+clics-doculect-28-64,ital1282-std,concepticon-2007,1.57,fulmine,lightning (as striking),fulmine
+clics-doculect-28-65,ital1282-std,concepticon-2007,1.57,saetta,lightning (as striking),saetta
+clics-doculect-28-66,ital1282-std,concepticon-858,1.58,tempesta,storm,tempesta
+clics-doculect-28-67,ital1282-std,concepticon-1733,1.59,arcobaleno,rainbow,arcobaleno
+clics-doculect-28-68,ital1282-std,concepticon-630,1.61,luce,light (noun),luce
+clics-doculect-28-69,ital1282-std,concepticon-11,1.62,oscurità,darkness,oscurita
+clics-doculect-28-70,ital1282-std,concepticon-11,1.62,buio,darkness,buio
+clics-doculect-28-71,ital1282-std,concepticon-1388,1.63,ombra,"shade, shadow",ombra
+clics-doculect-28-72,ital1282-std,concepticon-1977,1.64,rugiada,dew,rugiada
+clics-doculect-28-73,ital1282-std,concepticon-27,1.71,aria,air,aria
+clics-doculect-28-74,ital1282-std,concepticon-960,1.72,vento,wind,vento
+clics-doculect-28-75,ital1282-std,concepticon-1489,1.73,nuvola,cloud,nuvola
+clics-doculect-28-76,ital1282-std,concepticon-249,1.74,nebbia,fog,nebbia
+clics-doculect-28-77,ital1282-std,concepticon-658,1.75,pioggia,rain (noun),pioggia
+clics-doculect-28-78,ital1282-std,concepticon-784,1.76,neve,snow (noun),neve
+clics-doculect-28-79,ital1282-std,concepticon-617,1.77,ghiaccio,ice,ghiaccio
+clics-doculect-28-80,ital1282-std,concepticon-952,1.78,tempo,weather,tempo
+clics-doculect-28-81,ital1282-std,concepticon-221,1.81,fuoco,fire,fuoco
+clics-doculect-28-82,ital1282-std,concepticon-889,1.82,fiamma,flame (noun),fiamma
+clics-doculect-28-83,ital1282-std,concepticon-778,1.83,fumo,smoke (noun),fumo
+clics-doculect-28-84,ital1282-std,concepticon-646,1.84,cenere,ashes,cenere
+clics-doculect-28-85,ital1282-std,concepticon-67,1.841,brace,embers,brace
+clics-doculect-28-86,ital1282-std,concepticon-141,1.851,bruciare,burn (vb trans),bruciare
+clics-doculect-28-87,ital1282-std,concepticon-141,1.851,ardere,burn (vb trans),ardere
+clics-doculect-28-88,ital1282-std,concepticon-1428,1.852,bruciare,burn (vb intrans),bruciare
+clics-doculect-28-89,ital1282-std,concepticon-1428,1.852,ardere,burn (vb intrans),ardere
+clics-doculect-28-90,ital1282-std,concepticon-737,1.86,accendere,"light, kindle, ignite",accendere
+clics-doculect-28-91,ital1282-std,concepticon-127,1.861,spegnere,extinguish,spegnere
+clics-doculect-28-92,ital1282-std,concepticon-1133,1.87,fiammifero,match (noun),fiammifero
+clics-doculect-28-93,ital1282-std,concepticon-10,1.88,legna,firewood,legna
+clics-doculect-28-94,ital1282-std,concepticon-1188,1.89,carbone,charcoal,carbone
+clics-doculect-28-95,ital1282-std,concepticon-683,2.1,persona,"person, human being",persona
+clics-doculect-28-96,ital1282-std,concepticon-683,2.1,essereumano,"person, human being",essereumano
+clics-doculect-28-97,ital1282-std,concepticon-1554,2.21,uomo,man (vs. woman),uomo
+clics-doculect-28-98,ital1282-std,concepticon-962,2.22,femmina,woman,femmina
+clics-doculect-28-99,ital1282-std,concepticon-962,2.22,donna,woman,donna
+clics-doculect-28-100,ital1282-std,concepticon-1553,2.23,maschio,male,maschio
+clics-doculect-28-101,ital1282-std,concepticon-1551,2.24,femmina,female,femmina
+clics-doculect-28-102,ital1282-std,concepticon-1366,2.25,ragazzo,boy,ragazzo
+clics-doculect-28-103,ital1282-std,concepticon-76,2.251,giovanotto,young man (adolescent),giovanotto
+clics-doculect-28-104,ital1282-std,concepticon-1646,2.26,ragazza,girl,ragazza
+clics-doculect-28-105,ital1282-std,concepticon-77,2.261,giovinetta,young woman (adolescent),giovinetta
+clics-doculect-28-106,ital1282-std,concepticon-1304,2.27,bambino,child,bambino
+clics-doculect-28-107,ital1282-std,concepticon-1289,2.28,bimbo,"infant, baby",bimbo
+clics-doculect-28-108,ital1282-std,concepticon-1200,2.31,marito,husband,marito
+clics-doculect-28-109,ital1282-std,concepticon-1199,2.32,moglie,wife,moglie
+clics-doculect-28-110,ital1282-std,concepticon-203,2.33,sposarsi,marry,sposarsi
+clics-doculect-28-111,ital1282-std,concepticon-1259,2.34,nozze,"marriage, wedding",nozze
+clics-doculect-28-112,ital1282-std,concepticon-1134,2.341,divorzio,divorce,divorzio
+clics-doculect-28-113,ital1282-std,concepticon-1217,2.35,padre,father,padre
+clics-doculect-28-114,ital1282-std,concepticon-1216,2.36,madre,mother,madre
+clics-doculect-28-115,ital1282-std,concepticon-505,2.37,genitori,parents,genitori
+clics-doculect-28-116,ital1282-std,concepticon-424,2.38,uomosposato,married man,uomosposato
+clics-doculect-28-117,ital1282-std,concepticon-426,2.39,donnasposata,married woman,donnasposata
+clics-doculect-28-118,ital1282-std,concepticon-1620,2.41,figlio,son,figlio
+clics-doculect-28-119,ital1282-std,concepticon-1357,2.42,figlia,daughter,figlia
+clics-doculect-28-120,ital1282-std,concepticon-1801,2.43,figlio,offspring (son or daughter),figlio
+clics-doculect-28-121,ital1282-std,concepticon-1801,2.43,figlia,offspring (son or daughter),figlia
+clics-doculect-28-122,ital1282-std,concepticon-1262,2.44,fratello,brother,fratello
+clics-doculect-28-123,ital1282-std,concepticon-1759,2.444,fratellomaggiore,older brother,fratellomaggiore
+clics-doculect-28-124,ital1282-std,concepticon-1760,2.445,fratellominore,younger brother,fratellominore
+clics-doculect-28-125,ital1282-std,concepticon-1263,2.45,sorella,sister,sorella
+clics-doculect-28-126,ital1282-std,concepticon-1758,2.454,sorellamaggiore,older sister,sorellamaggiore
+clics-doculect-28-127,ital1282-std,concepticon-1761,2.455,sorellaminore,younger sister,sorellaminore
+clics-doculect-28-128,ital1282-std,concepticon-1640,2.456,fratello,sibling,fratello
+clics-doculect-28-129,ital1282-std,concepticon-1640,2.456,sorella,sibling,sorella
+clics-doculect-28-130,ital1282-std,concepticon-1005,2.458,gemelli,twins,gemelli
+clics-doculect-28-131,ital1282-std,concepticon-1383,2.46,nonno,grandfather,nonno
+clics-doculect-28-132,ital1282-std,concepticon-406,2.461,vecchio,old man,vecchio
+clics-doculect-28-133,ital1282-std,concepticon-1496,2.47,nonna,grandmother,nonna
+clics-doculect-28-134,ital1282-std,concepticon-907,2.471,vecchia,old woman,vecchia
+clics-doculect-28-135,ital1282-std,concepticon-1618,2.48,nipote,grandson,nipote
+clics-doculect-28-136,ital1282-std,concepticon-1618,2.48,nipotino,grandson,nipotino
+clics-doculect-28-137,ital1282-std,concepticon-1619,2.49,nipote,granddaughter,nipote
+clics-doculect-28-138,ital1282-std,concepticon-1619,2.49,nipotina,granddaughter,nipotina
+clics-doculect-28-139,ital1282-std,concepticon-1327,2.51,zio,uncle,zio
+clics-doculect-28-140,ital1282-std,concepticon-1984,2.511,fratellodellamadre,mother's brother,fratellodellamadre
+clics-doculect-28-141,ital1282-std,concepticon-1985,2.512,fratellodelpadre,father's brother,fratellodelpadre
+clics-doculect-28-142,ital1282-std,concepticon-1272,2.52,zia,aunt,zia
+clics-doculect-28-143,ital1282-std,concepticon-171,2.521,sorelladellamadre,mother's sister,sorelladellamadre
+clics-doculect-28-144,ital1282-std,concepticon-170,2.522,sorelladelpadre,father's sister,sorelladelpadre
+clics-doculect-28-145,ital1282-std,concepticon-1063,2.53,nipote,nephew,nipote
+clics-doculect-28-146,ital1282-std,concepticon-1642,2.54,nipote,niece,nipote
+clics-doculect-28-147,ital1282-std,concepticon-1643,2.55,cugino,cousin,cugino
+clics-doculect-28-148,ital1282-std,concepticon-1643,2.55,cugina,cousin,cugina
+clics-doculect-28-149,ital1282-std,concepticon-1669,2.56,antenati,ancestors,antenati
+clics-doculect-28-150,ital1282-std,concepticon-490,2.57,discendenti,descendants,discendenti
+clics-doculect-28-151,ital1282-std,concepticon-2255,2.61,suocero,father-in-law (of a man),suocero
+clics-doculect-28-152,ital1282-std,concepticon-2254,2.611,suocero,father-in-law (of a woman),suocero
+clics-doculect-28-153,ital1282-std,concepticon-2256,2.62,suocera,mother-in-law (of a man),suocera
+clics-doculect-28-154,ital1282-std,concepticon-2257,2.621,suocera,mother-in-law (of a woman),suocera
+clics-doculect-28-155,ital1282-std,concepticon-2267,2.63,genero,son-in-law (of a man),genero
+clics-doculect-28-156,ital1282-std,concepticon-2266,2.631,genero,son-in-law (of a woman),genero
+clics-doculect-28-157,ital1282-std,concepticon-2265,2.64,nuora,daughter-in-law (of a man),nuora
+clics-doculect-28-158,ital1282-std,concepticon-2264,2.641,nuora,daughter-in-law (of a woman),nuora
+clics-doculect-28-159,ital1282-std,concepticon-237,2.71,patrigno,stepfather,patrigno
+clics-doculect-28-160,ital1282-std,concepticon-236,2.72,matrigna,stepmother,matrigna
+clics-doculect-28-161,ital1282-std,concepticon-1059,2.73,figliastro,stepson,figliastro
+clics-doculect-28-162,ital1282-std,concepticon-1058,2.74,figliastra,stepdaughter,figliastra
+clics-doculect-28-163,ital1282-std,concepticon-1149,2.75,orfano,orphan,orfano
+clics-doculect-28-164,ital1282-std,concepticon-1149,2.75,orfana,orphan,orfana
+clics-doculect-28-165,ital1282-std,concepticon-1756,2.76,vedova,widow,vedova
+clics-doculect-28-166,ital1282-std,concepticon-1981,2.77,vedovo,widower,vedovo
+clics-doculect-28-167,ital1282-std,concepticon-1644,2.81,parenti,"relatives, kinsmen",parenti
+clics-doculect-28-168,ital1282-std,concepticon-1644,2.81,parentela,"relatives, kinsmen",parentela
+clics-doculect-28-169,ital1282-std,concepticon-194,2.82,famiglia,family,famiglia
+clics-doculect-28-170,ital1282-std,concepticon-1209,2.91,io,I,io
+clics-doculect-28-171,ital1282-std,concepticon-1215,2.92,tu,you (singular),tu
+clics-doculect-28-172,ital1282-std,concepticon-1215,2.92,Lei,you (singular),Lei
+clics-doculect-28-173,ital1282-std,concepticon-262,2.93,egli,he/she/it,egli
+clics-doculect-28-174,ital1282-std,concepticon-262,2.93,lui,he/she/it,lui
+clics-doculect-28-175,ital1282-std,concepticon-262,2.93,ella,he/she/it,ella
+clics-doculect-28-176,ital1282-std,concepticon-262,2.93,lei,he/she/it,lei
+clics-doculect-28-177,ital1282-std,concepticon-262,2.93,esso,he/she/it,esso
+clics-doculect-28-178,ital1282-std,concepticon-262,2.93,essa,he/she/it,essa
+clics-doculect-28-179,ital1282-std,concepticon-1212,2.94,noi,we,noi
+clics-doculect-28-180,ital1282-std,concepticon-1131,2.941,noi,we (inclusive),noi
+clics-doculect-28-181,ital1282-std,concepticon-1130,2.942,noi,we (exclusive),noi
+clics-doculect-28-182,ital1282-std,concepticon-1213,2.95,voi,you (plural),voi
+clics-doculect-28-183,ital1282-std,concepticon-1213,2.95,Loro,you (plural),Loro
+clics-doculect-28-184,ital1282-std,concepticon-817,2.96,loro,they,loro
+clics-doculect-28-185,ital1282-std,concepticon-817,2.96,essi,they,essi
+clics-doculect-28-186,ital1282-std,concepticon-817,2.96,esse,they,esse
+clics-doculect-28-187,ital1282-std,concepticon-619,3.11,animale,animal,animale
+clics-doculect-28-188,ital1282-std,concepticon-2261,3.12,maschio,male (adj),maschio
+clics-doculect-28-189,ital1282-std,concepticon-2262,3.13,femmina,female (adj),femmina
+clics-doculect-28-190,ital1282-std,concepticon-631,3.15,bestiame,livestock,bestiame
+clics-doculect-28-191,ital1282-std,concepticon-649,3.16,pascolo,pasture,pascolo
+clics-doculect-28-192,ital1282-std,concepticon-263,3.18,pastore,herdsman,pastore
+clics-doculect-28-193,ital1282-std,concepticon-851,3.19,stalla,"stable, stall",stalla
+clics-doculect-28-194,ital1282-std,concepticon-1153,3.2,bestiame,cattle (bovine),bestiame
+clics-doculect-28-195,ital1282-std,concepticon-1008,3.21,toro,bull,toro
+clics-doculect-28-196,ital1282-std,concepticon-1169,3.22,bue,ox,bue
+clics-doculect-28-197,ital1282-std,concepticon-1007,3.23,mucca,cow,mucca
+clics-doculect-28-198,ital1282-std,concepticon-1989,3.24,vitello,calf,vitello
+clics-doculect-28-199,ital1282-std,concepticon-1331,3.25,pecora,sheep,pecora
+clics-doculect-28-200,ital1282-std,concepticon-1344,3.26,ariete,ram,ariete
+clics-doculect-28-201,ital1282-std,concepticon-1344,3.26,montone,ram,montone
+clics-doculect-28-202,ital1282-std,concepticon-1345,3.28,pecora,ewe,pecora
+clics-doculect-28-203,ital1282-std,concepticon-820,3.29,agnello,lamb,agnello
+clics-doculect-28-204,ital1282-std,concepticon-1348,3.32,cinghiale,boar,cinghiale
+clics-doculect-28-205,ital1282-std,concepticon-1351,3.34,troia,sow,troia
+clics-doculect-28-206,ital1282-std,concepticon-1337,3.35,maiale,pig,maiale
+clics-doculect-28-207,ital1282-std,concepticon-1337,3.35,porco,pig,porco
+clics-doculect-28-208,ital1282-std,concepticon-1502,3.36,capra,goat,capra
+clics-doculect-28-209,ital1282-std,concepticon-264,3.37,caprone,he-goat,caprone
+clics-doculect-28-210,ital1282-std,concepticon-1972,3.38,capretto,kid,capretto
+clics-doculect-28-211,ital1282-std,concepticon-615,3.41,cavallo,horse (equine),cavallo
+clics-doculect-28-212,ital1282-std,concepticon-936,3.42,stallone,stallion,stallone
+clics-doculect-28-213,ital1282-std,concepticon-938,3.44,giumenta,mare,giumenta
+clics-doculect-28-214,ital1282-std,concepticon-1647,3.45,puledro,"foal, colt",puledro
+clics-doculect-28-215,ital1282-std,concepticon-1862,3.46,asino,"ass, donkey",asino
+clics-doculect-28-216,ital1282-std,concepticon-890,3.47,mulo,mule,mulo
+clics-doculect-28-217,ital1282-std,concepticon-265,3.5,pollo,fowl,pollo
+clics-doculect-28-218,ital1282-std,concepticon-265,3.5,pollame,fowl,pollame
+clics-doculect-28-219,ital1282-std,concepticon-1511,3.52,gallo,"cock, rooster",gallo
+clics-doculect-28-220,ital1282-std,concepticon-1514,3.54,gallina,hen,gallina
+clics-doculect-28-221,ital1282-std,concepticon-1318,3.55,pollo,chicken,pollo
+clics-doculect-28-222,ital1282-std,concepticon-1187,3.56,oca,goose,oca
+clics-doculect-28-223,ital1282-std,concepticon-1360,3.57,anatra,duck,anatra
+clics-doculect-28-224,ital1282-std,concepticon-539,3.58,nido,nest,nido
+clics-doculect-28-225,ital1282-std,concepticon-937,3.581,uccello,bird,uccello
+clics-doculect-28-226,ital1282-std,concepticon-950,3.582,gabbiano,seagull,gabbiano
+clics-doculect-28-227,ital1282-std,concepticon-758,3.583,airone,heron,airone
+clics-doculect-28-228,ital1282-std,concepticon-1905,3.584,aquila,eagle,aquila
+clics-doculect-28-229,ital1282-std,concepticon-307,3.585,falco,hawk,falco
+clics-doculect-28-230,ital1282-std,concepticon-1185,3.586,avvoltoio,vulture,avvoltoio
+clics-doculect-28-231,ital1282-std,concepticon-1793,3.591,pipistrello,bat,pipistrello
+clics-doculect-28-232,ital1282-std,concepticon-882,3.592,pappagallo,parrot,pappagallo
+clics-doculect-28-233,ital1282-std,concepticon-913,3.593,corbo,crow,corbo
+clics-doculect-28-234,ital1282-std,concepticon-1853,3.594,colomba,dove,colomba
+clics-doculect-28-235,ital1282-std,concepticon-735,3.596,gufo,owl,gufo
+clics-doculect-28-236,ital1282-std,concepticon-735,3.596,civetta,owl,civetta
+clics-doculect-28-237,ital1282-std,concepticon-2009,3.61,cane,dog,cane
+clics-doculect-28-238,ital1282-std,concepticon-1136,3.614,coniglio,rabbit,coniglio
+clics-doculect-28-239,ital1282-std,concepticon-1208,3.62,gatto,cat,gatto
+clics-doculect-28-240,ital1282-std,concepticon-309,3.622,opossum,opossum,opossum
+clics-doculect-28-241,ital1282-std,concepticon-2139,3.63,topo,"mouse, rat",topo
+clics-doculect-28-242,ital1282-std,concepticon-2139,3.63,ratto,"mouse, rat",ratto
+clics-doculect-28-243,ital1282-std,concepticon-227,3.65,pesce,fish,pesce
+clics-doculect-28-244,ital1282-std,concepticon-213,3.652,pinna,fin (dorsal),pinna
+clics-doculect-28-245,ital1282-std,concepticon-266,3.653,squama,fishscale,squama
+clics-doculect-28-246,ital1282-std,concepticon-1916,3.654,branchia,gill,branchia
+clics-doculect-28-247,ital1282-std,concepticon-598,3.655,conchiglia,shell,conchiglia
+clics-doculect-28-248,ital1282-std,concepticon-1110,3.661,squalo,shark,squalo
+clics-doculect-28-249,ital1282-std,concepticon-1479,3.662,focena,"porpoise, dolphin",focena
+clics-doculect-28-250,ital1282-std,concepticon-1479,3.662,delfino,"porpoise, dolphin",delfino
+clics-doculect-28-251,ital1282-std,concepticon-957,3.663,balena,whale,balena
+clics-doculect-28-252,ital1282-std,concepticon-1910,3.664,razza,stingray,razza
+clics-doculect-28-253,ital1282-std,concepticon-1013,3.665,anguillad'acquadolce,freshwater eel,anguillad'acquadolce
+clics-doculect-28-254,ital1282-std,concepticon-522,3.71,lupo,wolf,lupo
+clics-doculect-28-255,ital1282-std,concepticon-1386,3.72,leone,lion,leone
+clics-doculect-28-256,ital1282-std,concepticon-1820,3.73,orso,bear,orso
+clics-doculect-28-257,ital1282-std,concepticon-1312,3.74,volpe,fox,volpe
+clics-doculect-28-258,ital1282-std,concepticon-1936,3.75,cervo,deer,cervo
+clics-doculect-28-259,ital1282-std,concepticon-1350,3.76,scimmia,monkey,scimmia
+clics-doculect-28-260,ital1282-std,concepticon-1290,3.77,elefante,elephant,elefante
+clics-doculect-28-261,ital1282-std,concepticon-1871,3.78,cammello,camel,cammello
+clics-doculect-28-262,ital1282-std,concepticon-620,3.81,insetto,insect,insetto
+clics-doculect-28-263,ital1282-std,concepticon-1392,3.811,pidocchio,louse,pidocchio
+clics-doculect-28-264,ital1282-std,concepticon-267,3.812,lendine,nit (louse egg),lendine
+clics-doculect-28-265,ital1282-std,concepticon-232,3.813,pulce,flea,pulce
+clics-doculect-28-266,ital1282-std,concepticon-1974,3.814,centopiedi,centipede,centopiedi
+clics-doculect-28-267,ital1282-std,concepticon-1538,3.815,scorpione,scorpion,scorpione
+clics-doculect-28-268,ital1282-std,concepticon-1575,3.816,scarafaggio,cockroach,scarafaggio
+clics-doculect-28-269,ital1282-std,concepticon-1575,3.816,blatta,cockroach,blatta
+clics-doculect-28-270,ital1282-std,concepticon-587,3.817,formica,ant,formica
+clics-doculect-28-271,ital1282-std,concepticon-843,3.818,ragno,spider,ragno
+clics-doculect-28-272,ital1282-std,concepticon-1065,3.819,ragnatela,spider web,ragnatela
+clics-doculect-28-273,ital1282-std,concepticon-665,3.82,ape,bee,ape
+clics-doculect-28-274,ital1282-std,concepticon-1931,3.821,ceravergine,beeswax,ceravergine
+clics-doculect-28-275,ital1282-std,concepticon-88,3.822,alveare,beehive,alveare
+clics-doculect-28-276,ital1282-std,concepticon-88,3.822,arnia,beehive,arnia
+clics-doculect-28-277,ital1282-std,concepticon-1517,3.823,vespa,wasp,vespa
+clics-doculect-28-278,ital1282-std,concepticon-1504,3.83,mosca,fly,mosca
+clics-doculect-28-279,ital1282-std,concepticon-95,3.831,pulcedimare,"sandfly (midge), gnat",pulcedimare
+clics-doculect-28-280,ital1282-std,concepticon-1509,3.832,zanzara,mosquito,zanzara
+clics-doculect-28-281,ital1282-std,concepticon-1219,3.84,lombrico,worm,lombrico
+clics-doculect-28-282,ital1282-std,concepticon-730,3.85,serpente,snake,serpente
+clics-doculect-28-283,ital1282-std,concepticon-206,3.91,lucciola,firefly,lucciola
+clics-doculect-28-284,ital1282-std,concepticon-1791,3.92,farfalla,butterfly,farfalla
+clics-doculect-28-285,ital1282-std,concepticon-607,3.93,cavalletta,grasshopper,cavalletta
+clics-doculect-28-286,ital1282-std,concepticon-1543,3.94,lumaca,snail,lumaca
+clics-doculect-28-287,ital1282-std,concepticon-1543,3.94,chiocciola,snail,chiocciola
+clics-doculect-28-288,ital1282-std,concepticon-503,3.95,rana,frog,rana
+clics-doculect-28-289,ital1282-std,concepticon-632,3.96,lucertola,lizard,lucertola
+clics-doculect-28-290,ital1282-std,concepticon-1857,3.97,coccodrillo,"crocodile, alligator",coccodrillo
+clics-doculect-28-291,ital1282-std,concepticon-112,3.98,tartaruga,turtle,tartaruga
+clics-doculect-28-292,ital1282-std,concepticon-1480,4.11,corpo,body,corpo
+clics-doculect-28-293,ital1282-std,concepticon-763,4.12,pelle,"skin, hide",pelle
+clics-doculect-28-294,ital1282-std,concepticon-763,4.12,cute,"skin, hide",cute
+clics-doculect-28-295,ital1282-std,concepticon-2259,4.13,carne,flesh,carne
+clics-doculect-28-296,ital1282-std,concepticon-1040,4.14,capello,hair (head),capello
+clics-doculect-28-297,ital1282-std,concepticon-678,4.142,barba,beard,barba
+clics-doculect-28-298,ital1282-std,concepticon-189,4.144,pelo,body hair,pelo
+clics-doculect-28-299,ital1282-std,concepticon-36,4.145,pelidelpube,pubic hair,pelidelpube
+clics-doculect-28-300,ital1282-std,concepticon-576,4.146,forfora,dandruff,forfora
+clics-doculect-28-301,ital1282-std,concepticon-946,4.15,sangue,blood,sangue
+clics-doculect-28-302,ital1282-std,concepticon-525,4.151,vena,"vein, artery",vena
+clics-doculect-28-303,ital1282-std,concepticon-525,4.151,arteria,"vein, artery",arteria
+clics-doculect-28-304,ital1282-std,concepticon-1394,4.16,osso,bone,osso
+clics-doculect-28-305,ital1282-std,concepticon-801,4.162,costola,rib,costola
+clics-doculect-28-306,ital1282-std,concepticon-1393,4.17,corno,horn,corno
+clics-doculect-28-307,ital1282-std,concepticon-1220,4.18,coda,tail,coda
+clics-doculect-28-308,ital1282-std,concepticon-1291,4.19,schiena,back,schiena
+clics-doculect-28-309,ital1282-std,concepticon-805,4.191,spinadorsale,spine,spinadorsale
+clics-doculect-28-310,ital1282-std,concepticon-1256,4.2,capo,head,capo
+clics-doculect-28-311,ital1282-std,concepticon-1256,4.2,testa,head,testa
+clics-doculect-28-312,ital1282-std,concepticon-1604,4.201,tempia,"side of head, temple",tempia
+clics-doculect-28-313,ital1282-std,concepticon-1605,4.202,teschio,skull,teschio
+clics-doculect-28-314,ital1282-std,concepticon-1605,4.202,cranio,skull,cranio
+clics-doculect-28-315,ital1282-std,concepticon-1583,4.203,cervello,brain,cervello
+clics-doculect-28-316,ital1282-std,concepticon-1560,4.204,faccia,face,faccia
+clics-doculect-28-317,ital1282-std,concepticon-123,4.205,fronte,forehead,fronte
+clics-doculect-28-318,ital1282-std,concepticon-798,4.207,mascella,jaw,mascella
+clics-doculect-28-319,ital1282-std,concepticon-1730,4.208,guancia,cheek,guancia
+clics-doculect-28-320,ital1282-std,concepticon-1510,4.209,mento,chin,mento
+clics-doculect-28-321,ital1282-std,concepticon-1248,4.21,occhio,eye,occhio
+clics-doculect-28-322,ital1282-std,concepticon-1173,4.212,sopracciglio,eyebrow,sopracciglio
+clics-doculect-28-323,ital1282-std,concepticon-17,4.213,palpebra,eyelid,palpebra
+clics-doculect-28-324,ital1282-std,concepticon-1540,4.214,ciglio,eyelash,ciglio
+clics-doculect-28-325,ital1282-std,concepticon-1655,4.215,batterelepalpebre,blink,batterelepalpebre
+clics-doculect-28-326,ital1282-std,concepticon-1247,4.22,orecchio,ear,orecchio
+clics-doculect-28-327,ital1282-std,concepticon-18,4.221,lobodell'orecchio,earlobe,lobodell'orecchio
+clics-doculect-28-328,ital1282-std,concepticon-32,4.222,cerume,earwax,cerume
+clics-doculect-28-329,ital1282-std,concepticon-1221,4.23,naso,nose,naso
+clics-doculect-28-330,ital1282-std,concepticon-1178,4.231,narice,nostril,narice
+clics-doculect-28-331,ital1282-std,concepticon-208,4.232,moccio,mucus (nasal),moccio
+clics-doculect-28-332,ital1282-std,concepticon-674,4.24,bocca,mouth,bocca
+clics-doculect-28-333,ital1282-std,concepticon-73,4.241,becco,beak,becco
+clics-doculect-28-334,ital1282-std,concepticon-478,4.25,labbro,lip,labbro
+clics-doculect-28-335,ital1282-std,concepticon-1205,4.26,lingua,tongue,lingua
+clics-doculect-28-336,ital1282-std,concepticon-1380,4.27,dente,tooth,dente
+clics-doculect-28-337,ital1282-std,concepticon-139,4.271,gengiva,gums,gengiva
+clics-doculect-28-338,ital1282-std,concepticon-1049,4.272,molare,molartooth,molare
+clics-doculect-28-339,ital1282-std,concepticon-1333,4.28,collo,neck,collo
+clics-doculect-28-340,ital1282-std,concepticon-1347,4.281,nuca,nape of neck,nuca
+clics-doculect-28-341,ital1282-std,concepticon-1346,4.29,gola,throat,gola
+clics-doculect-28-342,ital1282-std,concepticon-1482,4.3,spalla,shoulder,spalla
+clics-doculect-28-343,ital1282-std,concepticon-172,4.301,scapola,shoulderblade,scapola
+clics-doculect-28-344,ital1282-std,concepticon-1994,4.302,clavicola,collarbone,clavicola
+clics-doculect-28-345,ital1282-std,concepticon-1673,4.31,braccio,arm,braccio
+clics-doculect-28-346,ital1282-std,concepticon-1886,4.312,ascella,armpit,ascella
+clics-doculect-28-347,ital1282-std,concepticon-981,4.32,gomito,elbow,gomito
+clics-doculect-28-348,ital1282-std,concepticon-799,4.321,polso,wrist,polso
+clics-doculect-28-349,ital1282-std,concepticon-1277,4.33,mano,hand,mano
+clics-doculect-28-350,ital1282-std,concepticon-1183,4.331,palma,palm of hand,palma
+clics-doculect-28-351,ital1282-std,concepticon-1303,4.34,dito,finger,dito
+clics-doculect-28-352,ital1282-std,concepticon-1781,4.342,pollice,thumb,pollice
+clics-doculect-28-353,ital1282-std,concepticon-1258,4.344,unghia,fingernail,unghia
+clics-doculect-28-354,ital1282-std,concepticon-72,4.345,artiglio,claw,artiglio
+clics-doculect-28-355,ital1282-std,concepticon-72,4.345,grinfia,claw,grinfia
+clics-doculect-28-356,ital1282-std,concepticon-1297,4.35,gamba,leg,gamba
+clics-doculect-28-357,ital1282-std,concepticon-800,4.351,coscia,thigh,coscia
+clics-doculect-28-358,ital1282-std,concepticon-498,4.352,polpaccio,calf of leg,polpaccio
+clics-doculect-28-359,ital1282-std,concepticon-1371,4.36,ginocchio,knee,ginocchio
+clics-doculect-28-360,ital1282-std,concepticon-1301,4.37,piede,foot,piede
+clics-doculect-28-361,ital1282-std,concepticon-803,4.371,caviglia,ankle,caviglia
+clics-doculect-28-362,ital1282-std,concepticon-980,4.372,calcagno,heel,calcagno
+clics-doculect-28-363,ital1282-std,concepticon-318,4.374,orma,footprint,orma
+clics-doculect-28-364,ital1282-std,concepticon-1389,4.38,ditodelpiede,toe,ditodelpiede
+clics-doculect-28-365,ital1282-std,concepticon-1257,4.392,ala,wing,ala
+clics-doculect-28-366,ital1282-std,concepticon-1201,4.393,piuma,feather,piuma
+clics-doculect-28-367,ital1282-std,concepticon-1592,4.4,petto,chest,petto
+clics-doculect-28-368,ital1282-std,concepticon-1402,4.41,seno,breast (of woman),seno
+clics-doculect-28-369,ital1282-std,concepticon-796,4.412,capezzolo,"nipple, teat",capezzolo
+clics-doculect-28-370,ital1282-std,concepticon-154,4.42,poppa,udder,poppa
+clics-doculect-28-371,ital1282-std,concepticon-1838,4.43,ombelico,navel,ombelico
+clics-doculect-28-372,ital1282-std,concepticon-1223,4.44,cuore,heart,cuore
+clics-doculect-28-373,ital1282-std,concepticon-688,4.441,polmone,lung,polmone
+clics-doculect-28-374,ital1282-std,concepticon-1224,4.45,fegato,liver,fegato
+clics-doculect-28-375,ital1282-std,concepticon-489,4.451,rene,kidney,rene
+clics-doculect-28-376,ital1282-std,concepticon-1744,4.452,milza,spleen,milza
+clics-doculect-28-377,ital1282-std,concepticon-819,4.46,stomaco,stomach,stomaco
+clics-doculect-28-378,ital1282-std,concepticon-1991,4.461,intestini,"intestines, guts",intestini
+clics-doculect-28-379,ital1282-std,concepticon-1991,4.461,budella,"intestines, guts",budella
+clics-doculect-28-380,ital1282-std,concepticon-1681,4.462,vita,waist,vita
+clics-doculect-28-381,ital1282-std,concepticon-1745,4.463,anca,hip,anca
+clics-doculect-28-382,ital1282-std,concepticon-834,4.464,natiche,buttocks,natiche
+clics-doculect-28-383,ital1282-std,concepticon-804,4.47,utero,womb,utero
+clics-doculect-28-384,ital1282-std,concepticon-797,4.49,testicolo,testicle,testicolo
+clics-doculect-28-385,ital1282-std,concepticon-1222,4.492,pene,penis,pene
+clics-doculect-28-386,ital1282-std,concepticon-1407,4.51,respirare,"breathe, breath",respirare
+clics-doculect-28-387,ital1282-std,concepticon-1407,4.51,respiro,"breathe, breath",respiro
+clics-doculect-28-388,ital1282-std,concepticon-1028,4.52,sbadigliare,"yawn, gape",sbadigliare
+clics-doculect-28-389,ital1282-std,concepticon-162,4.521,singhiozzo,hiccough,singhiozzo
+clics-doculect-28-390,ital1282-std,concepticon-879,4.53,tossire,cough,tossire
+clics-doculect-28-391,ital1282-std,concepticon-1621,4.54,starnutire,sneeze,starnutire
+clics-doculect-28-392,ital1282-std,concepticon-126,4.55,sudare,perspire,sudare
+clics-doculect-28-393,ital1282-std,concepticon-1440,4.56,sputare,spit,sputare
+clics-doculect-28-394,ital1282-std,concepticon-1278,4.57,vomitare,vomit,vomitare
+clics-doculect-28-395,ital1282-std,concepticon-1403,4.58,mordere,bite,mordere
+clics-doculect-28-396,ital1282-std,concepticon-319,4.59,leccare,lick,leccare
+clics-doculect-28-397,ital1282-std,concepticon-268,4.591,sbavare,dribble,sbavare
+clics-doculect-28-398,ital1282-std,concepticon-1585,4.61,dormire,sleep,dormire
+clics-doculect-28-399,ital1282-std,concepticon-1983,4.612,russare,snore,russare
+clics-doculect-28-400,ital1282-std,concepticon-1920,4.62,sognare,dream,sognare
+clics-doculect-28-401,ital1282-std,concepticon-1602,4.63,svegliarse,wake up,svegliarse
+clics-doculect-28-402,ital1282-std,concepticon-1159,4.64,fareunpeto,break wind,fareunpeto
+clics-doculect-28-403,ital1282-std,concepticon-592,4.65,orinare,urinate,orinare
+clics-doculect-28-404,ital1282-std,concepticon-592,4.65,pisciare,urinate,pisciare
+clics-doculect-28-405,ital1282-std,concepticon-676,4.66,defecare,defecate,defecare
+clics-doculect-28-406,ital1282-std,concepticon-676,4.66,cacare,defecate,cacare
+clics-doculect-28-407,ital1282-std,concepticon-1785,4.67,fottere,have sexual intercourse,fottere
+clics-doculect-28-408,ital1282-std,concepticon-1785,4.67,avererapportisessuali,have sexual intercourse,avererapportisessuali
+clics-doculect-28-409,ital1282-std,concepticon-52,4.68,rabbrividire,shiver,rabbrividire
+clics-doculect-28-410,ital1282-std,concepticon-138,4.69,bagnarsi,bathe,bagnarsi
+clics-doculect-28-411,ital1282-std,concepticon-1152,4.71,generare,beget (of father),generare
+clics-doculect-28-412,ital1282-std,concepticon-1090,4.72,nascere,born (to be),nascere
+clics-doculect-28-413,ital1282-std,concepticon-1123,4.73,incinta,pregnant,incinta
+clics-doculect-28-414,ital1282-std,concepticon-1087,4.732,concepire,conceive,concepire
+clics-doculect-28-415,ital1282-std,concepticon-1422,4.74,vivere,"live, living, life",vivere
+clics-doculect-28-416,ital1282-std,concepticon-1422,4.74,vivo,"live, living, life",vivo
+clics-doculect-28-417,ital1282-std,concepticon-1422,4.74,vita,"live, living, life",vita
+clics-doculect-28-418,ital1282-std,concepticon-1494,4.75,morire,"die, dead",morire
+clics-doculect-28-419,ital1282-std,concepticon-1494,4.75,morto,"die, dead",morto
+clics-doculect-28-420,ital1282-std,concepticon-1904,4.751,annegato,drowned,annegato
+clics-doculect-28-421,ital1282-std,concepticon-1417,4.76,uccidere,kill,uccidere
+clics-doculect-28-422,ital1282-std,concepticon-767,4.77,cadavere,corpse,cadavere
+clics-doculect-28-423,ital1282-std,concepticon-1719,4.78,seppellire,bury (the dead),seppellire
+clics-doculect-28-424,ital1282-std,concepticon-1773,4.79,tomba,"grave, tomb",tomba
+clics-doculect-28-425,ital1282-std,concepticon-785,4.81,forte,"strong, mighty, powerful",forte
+clics-doculect-28-426,ital1282-std,concepticon-785,4.81,potente,"strong, mighty, powerful",potente
+clics-doculect-28-427,ital1282-std,concepticon-1601,4.82,debole,weak,debole
+clics-doculect-28-428,ital1282-std,concepticon-1364,4.83,sano,"well, health",sano
+clics-doculect-28-429,ital1282-std,concepticon-1364,4.83,salute,"well, health",salute
+clics-doculect-28-430,ital1282-std,concepticon-1847,4.84,ammalato,"sick, sickness",ammalato
+clics-doculect-28-431,ital1282-std,concepticon-1847,4.84,malattia,"sick, sickness",malattia
+clics-doculect-28-432,ital1282-std,concepticon-1534,4.841,febbre,fever,febbre
+clics-doculect-28-433,ital1282-std,concepticon-1957,4.842,gozzo,goiter,gozzo
+clics-doculect-28-434,ital1282-std,concepticon-102,4.843,raffreddore,cold (catarrh),raffreddore
+clics-doculect-28-435,ital1282-std,concepticon-1109,4.85,ferita,"wound, sore",ferita
+clics-doculect-28-436,ital1282-std,concepticon-1109,4.85,piaga,"wound, sore",piaga
+clics-doculect-28-437,ital1282-std,concepticon-1148,4.852,contusione,bruise,contusione
+clics-doculect-28-438,ital1282-std,concepticon-1903,4.853,gonfiatura,swelling,gonfiatura
+clics-doculect-28-439,ital1282-std,concepticon-148,4.854,prurito,itch,prurito
+clics-doculect-28-440,ital1282-std,concepticon-1584,4.855,vescica,blister,vescica
+clics-doculect-28-441,ital1282-std,concepticon-793,4.856,foruncolo,boil (noun),foruncolo
+clics-doculect-28-442,ital1282-std,concepticon-1808,4.857,pus,pus,pus
+clics-doculect-28-443,ital1282-std,concepticon-497,4.858,cicatrice,scar,cicatrice
+clics-doculect-28-444,ital1282-std,concepticon-499,4.86,guarire,"cure, heal",guarire
+clics-doculect-28-445,ital1282-std,concepticon-597,4.87,medico,physician,medico
+clics-doculect-28-446,ital1282-std,concepticon-1372,4.88,medicina,"medicine, drug",medicina
+clics-doculect-28-447,ital1282-std,concepticon-1372,4.88,farmaco,"medicine, drug",farmaco
+clics-doculect-28-448,ital1282-std,concepticon-655,4.89,veleno,poison,veleno
+clics-doculect-28-449,ital1282-std,concepticon-1757,4.91,stanco,"tired, weary",stanco
+clics-doculect-28-450,ital1282-std,concepticon-168,4.912,riposarsi,rest,riposarsi
+clics-doculect-28-451,ital1282-std,concepticon-1564,4.92,pigro,lazy,pigro
+clics-doculect-28-452,ital1282-std,concepticon-1125,4.93,calvo,bald,calvo
+clics-doculect-28-453,ital1282-std,concepticon-320,4.94,zoppo,lame,zoppo
+clics-doculect-28-454,ital1282-std,concepticon-996,4.95,sordo,deaf,sordo
+clics-doculect-28-455,ital1282-std,concepticon-1666,4.96,muto,mute,muto
+clics-doculect-28-456,ital1282-std,concepticon-1653,4.97,cieco,blind,cieco
+clics-doculect-28-457,ital1282-std,concepticon-1463,4.98,ubriaco,intoxicated,ubriaco
+clics-doculect-28-458,ital1282-std,concepticon-590,4.99,nudo,"naked, bare",nudo
+clics-doculect-28-459,ital1282-std,concepticon-1336,5.11,mangiare,eat,mangiare
+clics-doculect-28-460,ital1282-std,concepticon-256,5.12,cibo,food,cibo
+clics-doculect-28-461,ital1282-std,concepticon-269,5.121,cotto,cooked,cotto
+clics-doculect-28-462,ital1282-std,concepticon-1959,5.122,crudo,raw,crudo
+clics-doculect-28-463,ital1282-std,concepticon-178,5.123,maturo,ripe,maturo
+clics-doculect-28-464,ital1282-std,concepticon-1958,5.124,acerbo,"green, unripe",acerbo
+clics-doculect-28-465,ital1282-std,concepticon-1728,5.125,marcio,rotten,marcio
+clics-doculect-28-466,ital1282-std,concepticon-1401,5.13,bere,drink,bere
+clics-doculect-28-467,ital1282-std,concepticon-1864,5.14,fame,hunger,fame
+clics-doculect-28-468,ital1282-std,concepticon-199,5.141,fame,famine,fame
+clics-doculect-28-469,ital1282-std,concepticon-199,5.141,carestia,famine,carestia
+clics-doculect-28-470,ital1282-std,concepticon-848,5.15,sete,thirst,sete
+clics-doculect-28-471,ital1282-std,concepticon-1421,5.16,succhiare,suck,succhiare
+clics-doculect-28-472,ital1282-std,concepticon-321,5.18,masticare,chew,masticare
+clics-doculect-28-473,ital1282-std,concepticon-897,5.181,inghiottire,swallow,inghiottire
+clics-doculect-28-474,ital1282-std,concepticon-129,5.19,soffocare,choke,soffocare
+clics-doculect-28-475,ital1282-std,concepticon-1100,5.21,cuocere,cook,cuocere
+clics-doculect-28-476,ital1282-std,concepticon-1100,5.21,cucinare,cook,cucinare
+clics-doculect-28-477,ital1282-std,concepticon-792,5.22,bollire,boil (vb),bollire
+clics-doculect-28-478,ital1282-std,concepticon-2146,5.23,arrostire,"roast, fry",arrostire
+clics-doculect-28-479,ital1282-std,concepticon-2146,5.23,friggere,"roast, fry",friggere
+clics-doculect-28-480,ital1282-std,concepticon-183,5.24,cuocere,bake,cuocere
+clics-doculect-28-481,ital1282-std,concepticon-1143,5.25,forno,oven,forno
+clics-doculect-28-482,ital1282-std,concepticon-1462,5.26,pentola,"pot, cooking vessel",pentola
+clics-doculect-28-483,ital1282-std,concepticon-1462,5.26,casseruola,"pot, cooking vessel",casseruola
+clics-doculect-28-484,ital1282-std,concepticon-854,5.27,bollitore,kettle,bollitore
+clics-doculect-28-485,ital1282-std,concepticon-31,5.28,casseruola,pan,casseruola
+clics-doculect-28-486,ital1282-std,concepticon-31,5.28,padella,pan,padella
+clics-doculect-28-487,ital1282-std,concepticon-481,5.31,piatto,dish,piatto
+clics-doculect-28-488,ital1282-std,concepticon-480,5.32,piatto,plate,piatto
+clics-doculect-28-489,ital1282-std,concepticon-1530,5.33,scodella,bowl,scodella
+clics-doculect-28-490,ital1282-std,concepticon-270,5.34,brocca,"pitcher, jug",brocca
+clics-doculect-28-491,ital1282-std,concepticon-476,5.35,tazza,"cup, drinking vessel",tazza
+clics-doculect-28-492,ital1282-std,concepticon-271,5.36,piattino,saucer,piattino
+clics-doculect-28-493,ital1282-std,concepticon-1378,5.37,cucchiaio,spoon,cucchiaio
+clics-doculect-28-494,ital1282-std,concepticon-1352,5.38,coltello,knife,coltello
+clics-doculect-28-495,ital1282-std,concepticon-337,5.39,forchetta,fork,forchetta
+clics-doculect-28-496,ital1282-std,concepticon-272,5.391,pinze,tongs,pinze
+clics-doculect-28-497,ital1282-std,concepticon-272,5.391,tenaglie,tongs,tenaglie
+clics-doculect-28-498,ital1282-std,concepticon-1526,5.41,pasto,meal (a),pasto
+clics-doculect-28-499,ital1282-std,concepticon-1322,5.42,colazione,breakfast,colazione
+clics-doculect-28-500,ital1282-std,concepticon-768,5.43,pranzo,lunch,pranzo
+clics-doculect-28-501,ital1282-std,concepticon-1833,5.44,cena,dinner,cena
+clics-doculect-28-502,ital1282-std,concepticon-1833,5.45,cena,supper,cena
+clics-doculect-28-503,ital1282-std,concepticon-1833,5.45,spuntino,supper,spuntino
+clics-doculect-28-504,ital1282-std,concepticon-275,5.46,sbucciare,peel,sbucciare
+clics-doculect-28-505,ital1282-std,concepticon-86,5.47,setacciare,"sieve, strain",setacciare
+clics-doculect-28-506,ital1282-std,concepticon-86,5.47,scolare,"sieve, strain",scolare
+clics-doculect-28-507,ital1282-std,concepticon-1767,5.48,grattugiare,scrape,grattugiare
+clics-doculect-28-508,ital1282-std,concepticon-2017,5.49,mescolare,"stir, mix",mescolare
+clics-doculect-28-509,ital1282-std,concepticon-2017,5.49,agitare,"stir, mix",agitare
+clics-doculect-28-510,ital1282-std,concepticon-1368,5.51,pane,bread,pane
+clics-doculect-28-511,ital1282-std,concepticon-273,5.53,mollica,dough,mollica
+clics-doculect-28-512,ital1282-std,concepticon-274,5.54,intridere,knead,intridere
+clics-doculect-28-513,ital1282-std,concepticon-1594,5.55,farina,"meal, flour",farina
+clics-doculect-28-514,ital1282-std,concepticon-1033,5.56,schiacciare,"crush, grind",schiacciare
+clics-doculect-28-515,ital1282-std,concepticon-1033,5.56,macinare,"crush, grind",macinare
+clics-doculect-28-516,ital1282-std,concepticon-636,5.57,mulino,mill,mulino
+clics-doculect-28-517,ital1282-std,concepticon-224,5.58,mortaio,mortar,mortaio
+clics-doculect-28-518,ital1282-std,concepticon-225,5.59,pestello,pestle,pestello
+clics-doculect-28-519,ital1282-std,concepticon-634,5.61,carne,meat,carne
+clics-doculect-28-520,ital1282-std,concepticon-1874,5.63,salsiccia,sausage,salsiccia
+clics-doculect-28-521,ital1282-std,concepticon-1547,5.64,minestra,"soup, broth",minestra
+clics-doculect-28-522,ital1282-std,concepticon-1547,5.64,zuppa,"soup, broth",zuppa
+clics-doculect-28-523,ital1282-std,concepticon-924,5.65,legumi,vegetables,legumi
+clics-doculect-28-524,ital1282-std,concepticon-924,5.65,verdura,vegetables,verdura
+clics-doculect-28-525,ital1282-std,concepticon-832,5.66,fava,bean,fava
+clics-doculect-28-526,ital1282-std,concepticon-832,5.66,fagiuolo,bean,fagiuolo
+clics-doculect-28-527,ital1282-std,concepticon-593,5.7,patata,potato,patata
+clics-doculect-28-528,ital1282-std,concepticon-1507,5.71,frutta,fruit,frutta
+clics-doculect-28-529,ital1282-std,concepticon-1966,5.712,grappolo,bunch,grappolo
+clics-doculect-28-530,ital1282-std,concepticon-1966,5.712,racimolo,bunch,racimolo
+clics-doculect-28-531,ital1282-std,concepticon-322,5.75,fico,fig,fico
+clics-doculect-28-532,ital1282-std,concepticon-920,5.76,acinod'uva,grape,acinod'uva
+clics-doculect-28-533,ital1282-std,concepticon-191,5.77,noce,nut,noce
+clics-doculect-28-534,ital1282-std,concepticon-1154,5.78,oliva,olive,oliva
+clics-doculect-28-535,ital1282-std,concepticon-1484,5.79,oglio,oil,oglio
+clics-doculect-28-536,ital1282-std,concepticon-323,5.791,grasso,"grease, fat",grasso
+clics-doculect-28-537,ital1282-std,concepticon-1274,5.81,sale,salt,sale
+clics-doculect-28-538,ital1282-std,concepticon-1385,5.82,pepe,pepper,pepe
+clics-doculect-28-539,ital1282-std,concepticon-919,5.821,peperoncino,chili pepper,peperoncino
+clics-doculect-28-540,ital1282-std,concepticon-942,5.84,miele,honey,miele
+clics-doculect-28-541,ital1282-std,concepticon-862,5.85,zucchero,sugar,zucchero
+clics-doculect-28-542,ital1282-std,concepticon-635,5.86,latte,milk (noun),latte
+clics-doculect-28-543,ital1282-std,concepticon-93,5.87,mungere,milk (vb),mungere
+clics-doculect-28-544,ital1282-std,concepticon-1569,5.88,formaggio,cheese,formaggio
+clics-doculect-28-545,ital1282-std,concepticon-1245,5.89,burro,butter,burro
+clics-doculect-28-546,ital1282-std,concepticon-731,5.9,bevanda,"beverage, drink",bevanda
+clics-doculect-28-547,ital1282-std,concepticon-941,5.91,idromele,mead,idromele
+clics-doculect-28-548,ital1282-std,concepticon-1524,5.92,vino,wine,vino
+clics-doculect-28-549,ital1282-std,concepticon-1639,5.93,birra,beer,birra
+clics-doculect-28-550,ital1282-std,concepticon-404,5.94,bevandafermentata,fermented drink,bevandafermentata
+clics-doculect-28-551,ital1282-std,concepticon-744,5.97,uovo,egg,uovo
+clics-doculect-28-552,ital1282-std,concepticon-1556,5.971,tuorlo,egg yolk,tuorlo
+clics-doculect-28-553,ital1282-std,concepticon-1556,5.971,rossod'uovo,egg yolk,rossod'uovo
+clics-doculect-28-554,ital1282-std,concepticon-158,6.11,vestirsi,put on (clothes),vestirsi
+clics-doculect-28-555,ital1282-std,concepticon-1895,6.12,vestiti,"clothing, clothes",vestiti
+clics-doculect-28-556,ital1282-std,concepticon-881,6.13,sarto,tailor,sarto
+clics-doculect-28-557,ital1282-std,concepticon-1616,6.21,tessuto,cloth,tessuto
+clics-doculect-28-558,ital1282-std,concepticon-964,6.22,lana,wool,lana
+clics-doculect-28-559,ital1282-std,concepticon-916,6.23,lino,"linen, flax",lino
+clics-doculect-28-560,ital1282-std,concepticon-1850,6.24,cotone,cotton,cotone
+clics-doculect-28-561,ital1282-std,concepticon-1641,6.25,seta,silk,seta
+clics-doculect-28-562,ital1282-std,concepticon-325,6.27,feltro,felt,feltro
+clics-doculect-28-563,ital1282-std,concepticon-580,6.28,pelliccia,fur,pelliccia
+clics-doculect-28-564,ital1282-std,concepticon-629,6.29,cuoio,leather,cuoio
+clics-doculect-28-565,ital1282-std,concepticon-121,6.31,filare,spin,filare
+clics-doculect-28-566,ital1282-std,concepticon-277,6.32,fuso,spindle,fuso
+clics-doculect-28-567,ital1282-std,concepticon-133,6.33,tessere,weave,tessere
+clics-doculect-28-568,ital1282-std,concepticon-1787,6.34,telaio,loom,telaio
+clics-doculect-28-569,ital1282-std,concepticon-1457,6.35,cucire,sew,cucire
+clics-doculect-28-570,ital1282-std,concepticon-1382,6.36,ago,needle,ago
+clics-doculect-28-571,ital1282-std,concepticon-278,6.37,punteruolo,awl,punteruolo
+clics-doculect-28-572,ital1282-std,concepticon-1161,6.38,filo,thread,filo
+clics-doculect-28-573,ital1282-std,concepticon-157,6.39,tingere,dye,tingere
+clics-doculect-28-574,ital1282-std,concepticon-326,6.41,cappa,cloak,cappa
+clics-doculect-28-575,ital1282-std,concepticon-327,6.411,poncho,poncho,poncho
+clics-doculect-28-576,ital1282-std,concepticon-474,6.42,vestito,woman's dress,vestito
+clics-doculect-28-577,ital1282-std,concepticon-603,6.43,mantello,coat,mantello
+clics-doculect-28-578,ital1282-std,concepticon-1622,6.44,camicia,shirt,camicia
+clics-doculect-28-579,ital1282-std,concepticon-2012,6.45,colletto,collar,colletto
+clics-doculect-28-580,ital1282-std,concepticon-1600,6.46,gonna,skirt,gonna
+clics-doculect-28-581,ital1282-std,concepticon-328,6.461,gonnellinodipaglia,grass-skirt,gonnellinodipaglia
+clics-doculect-28-582,ital1282-std,concepticon-809,6.48,pantaloni,trousers,pantaloni
+clics-doculect-28-583,ital1282-std,concepticon-329,6.49,calza,"stocking, sock",calza
+clics-doculect-28-584,ital1282-std,concepticon-329,6.49,calzino,"stocking, sock",calzino
+clics-doculect-28-585,ital1282-std,concepticon-1381,6.51,scarpa,shoe,scarpa
+clics-doculect-28-586,ital1282-std,concepticon-585,6.52,stivale,boot,stivale
+clics-doculect-28-587,ital1282-std,concepticon-875,6.54,calzolaio,"shoemaker, cobbler",calzolaio
+clics-doculect-28-588,ital1282-std,concepticon-2130,6.55,cappello,"hat, cap",cappello
+clics-doculect-28-589,ital1282-std,concepticon-2130,6.55,berretto,"hat, cap",berretto
+clics-doculect-28-590,ital1282-std,concepticon-772,6.57,cintura,"belt, girdle",cintura
+clics-doculect-28-591,ital1282-std,concepticon-772,6.57,busto,"belt, girdle",busto
+clics-doculect-28-592,ital1282-std,concepticon-867,6.58,guanto,glove,guanto
+clics-doculect-28-593,ital1282-std,concepticon-1151,6.59,velo,veil,velo
+clics-doculect-28-594,ital1282-std,concepticon-1851,6.61,tasca,pocket,tasca
+clics-doculect-28-595,ital1282-std,concepticon-757,6.62,bottone,button,bottone
+clics-doculect-28-596,ital1282-std,concepticon-64,6.63,spilla,pin,spilla
+clics-doculect-28-597,ital1282-std,concepticon-917,6.71,ornamento,"ornament, adornment",ornamento
+clics-doculect-28-598,ital1282-std,concepticon-917,6.71,ninnolo,"ornament, adornment",ninnolo
+clics-doculect-28-599,ital1282-std,concepticon-1029,6.72,gioiello,jewel,gioiello
+clics-doculect-28-600,ital1282-std,concepticon-1374,6.73,anello,ring (for finger),anello
+clics-doculect-28-601,ital1282-std,concepticon-1754,6.74,braccialetto,bracelet,braccialetto
+clics-doculect-28-602,ital1282-std,concepticon-1961,6.75,collana,necklace,collana
+clics-doculect-28-603,ital1282-std,concepticon-1860,6.76,perlina,bead,perlina
+clics-doculect-28-604,ital1282-std,concepticon-1860,6.76,grano,bead,grano
+clics-doculect-28-605,ital1282-std,concepticon-770,6.77,orecchino,earring,orecchino
+clics-doculect-28-606,ital1282-std,concepticon-330,6.78,fermacapelli,"headband, headdress",fermacapelli
+clics-doculect-28-607,ital1282-std,concepticon-68,6.79,tatuaggio,tattoo,tatuaggio
+clics-doculect-28-608,ital1282-std,concepticon-332,6.81,fazzoletto,"handkerchief, rag",fazzoletto
+clics-doculect-28-609,ital1282-std,concepticon-332,6.81,straccio,"handkerchief, rag",straccio
+clics-doculect-28-610,ital1282-std,concepticon-1021,6.82,tovaglia,towel,tovaglia
+clics-doculect-28-611,ital1282-std,concepticon-1475,6.91,pettine,comb,pettine
+clics-doculect-28-612,ital1282-std,concepticon-1821,6.92,spazzola,brush,spazzola
+clics-doculect-28-613,ital1282-std,concepticon-333,6.921,intrecciare,braid,intrecciare
+clics-doculect-28-614,ital1282-std,concepticon-151,6.93,rasoio,razor,rasoio
+clics-doculect-28-615,ital1282-std,concepticon-1926,6.94,unguento,ointment,unguento
+clics-doculect-28-616,ital1282-std,concepticon-788,6.95,sapone,soap,sapone
+clics-doculect-28-617,ital1282-std,concepticon-1171,6.96,specchio,mirror,specchio
+clics-doculect-28-618,ital1282-std,concepticon-363,7.11,abitare,"dwell, live",abitare
+clics-doculect-28-619,ital1282-std,concepticon-1252,7.12,casa,house,casa
+clics-doculect-28-620,ital1282-std,concepticon-1678,7.13,capanna,hut,capanna
+clics-doculect-28-621,ital1282-std,concepticon-403,7.131,padiglione,garden-house,padiglione
+clics-doculect-28-622,ital1282-std,concepticon-1316,7.14,tenda,tent,tenda
+clics-doculect-28-623,ital1282-std,concepticon-736,7.15,cortile,"yard, court",cortile
+clics-doculect-28-624,ital1282-std,concepticon-408,7.16,casariservataagliuomini,men's house,casariservataagliuomini
+clics-doculect-28-625,ital1282-std,concepticon-334,7.17,cucina,cookhouse,cucina
+clics-doculect-28-626,ital1282-std,concepticon-335,7.18,luogodiriunione,meeting house,luogodiriunione
+clics-doculect-28-627,ital1282-std,concepticon-1450,7.21,stanza,room,stanza
+clics-doculect-28-628,ital1282-std,concepticon-1567,7.22,portacancello,"door, gate",portacancello
+clics-doculect-28-629,ital1282-std,concepticon-80,7.221,montante,"doorpost, jamb",montante
+clics-doculect-28-630,ital1282-std,concepticon-80,7.221,stipite,"doorpost, jamb",stipite
+clics-doculect-28-631,ital1282-std,concepticon-1596,7.23,serratura,lock (noun),serratura
+clics-doculect-28-632,ital1282-std,concepticon-1012,7.231,chiavistello,"latch, door-bolt",chiavistello
+clics-doculect-28-633,ital1282-std,concepticon-1012,7.231,catenaccio,"latch, door-bolt",catenaccio
+clics-doculect-28-634,ital1282-std,concepticon-1472,7.24,chiave,key,chiave
+clics-doculect-28-635,ital1282-std,concepticon-1375,7.25,finestra,window,finestra
+clics-doculect-28-636,ital1282-std,concepticon-1632,7.26,pavimento,floor,pavimento
+clics-doculect-28-637,ital1282-std,concepticon-933,7.27,muro,wall,muro
+clics-doculect-28-638,ital1282-std,concepticon-933,7.27,parete,wall,parete
+clics-doculect-28-639,ital1282-std,concepticon-185,7.31,focolare,fireplace,focolare
+clics-doculect-28-640,ital1282-std,concepticon-859,7.32,stufa,stove,stufa
+clics-doculect-28-641,ital1282-std,concepticon-1305,7.33,cammino,chimney,cammino
+clics-doculect-28-642,ital1282-std,concepticon-1464,7.37,scala,ladder,scala
+clics-doculect-28-643,ital1282-std,concepticon-1663,7.42,letto,bed,letto
+clics-doculect-28-644,ital1282-std,concepticon-1044,7.421,guanciale,pillow,guanciale
+clics-doculect-28-645,ital1282-std,concepticon-806,7.422,coperta,blanket,coperta
+clics-doculect-28-646,ital1282-std,concepticon-1476,7.43,sedia,chair,sedia
+clics-doculect-28-647,ital1282-std,concepticon-1775,7.44,tavola,table,tavola
+clics-doculect-28-648,ital1282-std,concepticon-2131,7.45,lampada,"lamp, torch",lampada
+clics-doculect-28-649,ital1282-std,concepticon-2131,7.45,fiaccola,"lamp, torch",fiaccola
+clics-doculect-28-650,ital1282-std,concepticon-1273,7.46,candela,candle,candela
+clics-doculect-28-651,ital1282-std,concepticon-745,7.47,mensola,shelf,mensola
+clics-doculect-28-652,ital1282-std,concepticon-205,7.48,trogolo,trough,trogolo
+clics-doculect-28-653,ital1282-std,concepticon-769,7.51,tetto,roof,tetto
+clics-doculect-28-654,ital1282-std,concepticon-279,7.52,coperturadipaglia,thatch,coperturadipaglia
+clics-doculect-28-655,ital1282-std,concepticon-280,7.53,astadicolmo,ridgepole,astadicolmo
+clics-doculect-28-656,ital1282-std,concepticon-829,7.54,travicello,rafter,travicello
+clics-doculect-28-657,ital1282-std,concepticon-1132,7.55,trave,beam,trave
+clics-doculect-28-658,ital1282-std,concepticon-281,7.56,palo,"post, pole",palo
+clics-doculect-28-659,ital1282-std,concepticon-1227,7.57,tavoladilegno,board,tavoladilegno
+clics-doculect-28-660,ital1282-std,concepticon-876,7.58,arco,arch,arco
+clics-doculect-28-661,ital1282-std,concepticon-877,7.61,muratore,mason,muratore
+clics-doculect-28-662,ital1282-std,concepticon-1006,7.62,mattone,brick,mattone
+clics-doculect-28-663,ital1282-std,concepticon-224,7.63,malta,mortar,malta
+clics-doculect-28-664,ital1282-std,concepticon-901,7.64,adobe,adobe,adobe
+clics-doculect-28-665,ital1282-std,concepticon-979,8.11,agricoltore,farmer,agricoltore
+clics-doculect-28-666,ital1282-std,concepticon-212,8.12,campo,field (for cultivation),campo
+clics-doculect-28-667,ital1282-std,concepticon-586,8.13,giardino,garden,giardino
+clics-doculect-28-668,ital1282-std,concepticon-1541,8.15,coltivare,"cultivate, till",coltivare
+clics-doculect-28-669,ital1282-std,concepticon-1541,8.15,arare,"cultivate, till",arare
+clics-doculect-28-670,ital1282-std,concepticon-1690,8.16,recinto,fence,recinto
+clics-doculect-28-671,ital1282-std,concepticon-2002,8.17,fossa,ditch,fossa
+clics-doculect-28-672,ital1282-std,concepticon-1921,8.21,arare,plow,arare
+clics-doculect-28-673,ital1282-std,concepticon-1794,8.212,solco,furrow,solco
+clics-doculect-28-674,ital1282-std,concepticon-1418,8.22,zappare,dig,zappare
+clics-doculect-28-675,ital1282-std,concepticon-1418,8.22,vangare,dig,vangare
+clics-doculect-28-676,ital1282-std,concepticon-1176,8.23,badile,spade,badile
+clics-doculect-28-677,ital1282-std,concepticon-1176,8.23,vanga,spade,vanga
+clics-doculect-28-678,ital1282-std,concepticon-1901,8.24,pala,shovel,pala
+clics-doculect-28-679,ital1282-std,concepticon-1901,8.24,badile,shovel,badile
+clics-doculect-28-680,ital1282-std,concepticon-284,8.25,zappa,hoe,zappa
+clics-doculect-28-681,ital1282-std,concepticon-337,8.26,bidente,fork,bidente
+clics-doculect-28-682,ital1282-std,concepticon-337,8.26,forcone,fork,forcone
+clics-doculect-28-683,ital1282-std,concepticon-338,8.27,rastrello,rake,rastrello
+clics-doculect-28-684,ital1282-std,concepticon-1351,8.31,seminare,sow,seminare
+clics-doculect-28-685,ital1282-std,concepticon-714,8.311,semi,seed,semi
+clics-doculect-28-686,ital1282-std,concepticon-190,8.32,mietere,"mow, reap",mietere
+clics-doculect-28-687,ital1282-std,concepticon-2132,8.33,falce,"sickle, scythe",falce
+clics-doculect-28-688,ital1282-std,concepticon-285,8.34,trebbiare,thresh,trebbiare
+clics-doculect-28-689,ital1282-std,concepticon-223,8.35,aia,threshing-floor,aia
+clics-doculect-28-690,ital1282-std,concepticon-611,8.41,messe,"crop, harvest",messe
+clics-doculect-28-691,ital1282-std,concepticon-611,8.41,raccolto,"crop, harvest",raccolto
+clics-doculect-28-692,ital1282-std,concepticon-605,8.42,grano,"grain (barley, oats etc)",grano
+clics-doculect-28-693,ital1282-std,concepticon-1077,8.43,grano,wheat,grano
+clics-doculect-28-694,ital1282-std,concepticon-932,8.44,orzo,barley,orzo
+clics-doculect-28-695,ital1282-std,concepticon-23,8.45,segale,rye,segale
+clics-doculect-28-696,ital1282-std,concepticon-60,8.46,avena,oats,avena
+clics-doculect-28-697,ital1282-std,concepticon-506,8.47,granturco,"maize, corn",granturco
+clics-doculect-28-698,ital1282-std,concepticon-926,8.48,riso,rice,riso
+clics-doculect-28-699,ital1282-std,concepticon-606,8.51,erba,grass,erba
+clics-doculect-28-700,ital1282-std,concepticon-342,8.52,fieno,hay,fieno
+clics-doculect-28-701,ital1282-std,concepticon-653,8.53,pianta,plant (noun),pianta
+clics-doculect-28-702,ital1282-std,concepticon-1486,8.531,piantare,plant (vb),piantare
+clics-doculect-28-703,ital1282-std,concepticon-670,8.54,radice,root,radice
+clics-doculect-28-704,ital1282-std,concepticon-1531,8.55,ramo,branch,ramo
+clics-doculect-28-705,ital1282-std,concepticon-628,8.56,foglia,leaf,foglia
+clics-doculect-28-706,ital1282-std,concepticon-239,8.57,fiore,flower,fiore
+clics-doculect-28-707,ital1282-std,concepticon-906,8.6,albero,tree,albero
+clics-doculect-28-708,ital1282-std,concepticon-644,8.61,quercia,oak,quercia
+clics-doculect-28-709,ital1282-std,concepticon-1950,8.62,faggio,beech,faggio
+clics-doculect-28-710,ital1282-std,concepticon-1855,8.63,betulla,birch,betulla
+clics-doculect-28-711,ital1282-std,concepticon-1740,8.64,pino,pine,pino
+clics-doculect-28-712,ital1282-std,concepticon-1915,8.65,abete,fir,abete
+clics-doculect-28-713,ital1282-std,concepticon-968,8.66,ghianda,acorn,ghianda
+clics-doculect-28-714,ital1282-std,concepticon-343,8.67,vite,vine,vite
+clics-doculect-28-715,ital1282-std,concepticon-974,8.68,tabacco,tobacco,tabacco
+clics-doculect-28-716,ital1282-std,concepticon-1689,8.69,fumare,smoke (tobacco),fumare
+clics-doculect-28-717,ital1282-std,concepticon-1124,8.691,pipa,pipe,pipa
+clics-doculect-28-718,ital1282-std,concepticon-241,8.72,ceppo,tree stump,ceppo
+clics-doculect-28-719,ital1282-std,concepticon-344,8.73,tronco,tree trunk,tronco
+clics-doculect-28-720,ital1282-std,concepticon-409,8.74,ramobiforcuto,forked branch,ramobiforcuto
+clics-doculect-28-721,ital1282-std,concepticon-1204,8.75,corteccia,bark,corteccia
+clics-doculect-28-722,ital1282-std,concepticon-345,8.76,linfa,sap,linfa
+clics-doculect-28-723,ital1282-std,concepticon-1181,8.81,palma,palm tree,palma
+clics-doculect-28-724,ital1282-std,concepticon-970,8.82,nocedicocco,coconut,nocedicocco
+clics-doculect-28-725,ital1282-std,concepticon-1126,8.83,agrume,citrus fruit,agrume
+clics-doculect-28-726,ital1282-std,concepticon-868,8.84,banano,banana tree,banano
+clics-doculect-28-727,ital1282-std,concepticon-346,8.85,ficodelBanian,banyan,ficodelBanian
+clics-doculect-28-728,ital1282-std,concepticon-159,8.91,patataamericana,sweet potato,patataamericana
+clics-doculect-28-729,ital1282-std,concepticon-410,8.912,igname,yam,igname
+clics-doculect-28-730,ital1282-std,concepticon-925,8.92,tapioca,"tapioca, manioc, cassava",tapioca
+clics-doculect-28-731,ital1282-std,concepticon-925,8.92,manioca,"tapioca, manioc, cassava",manioca
+clics-doculect-28-732,ital1282-std,concepticon-925,8.92,cassava,"tapioca, manioc, cassava",cassava
+clics-doculect-28-733,ital1282-std,concepticon-411,8.93,zucca,gourd,zucca
+clics-doculect-28-734,ital1282-std,concepticon-864,8.931,zucca,"pumpkin, squash",zucca
+clics-doculect-28-735,ital1282-std,concepticon-1927,8.94,bambù,bamboo,bambu
+clics-doculect-28-736,ital1282-std,concepticon-146,8.941,cannadazucchero,sugar cane,cannadazucchero
+clics-doculect-28-737,ital1282-std,concepticon-348,8.96,verbasco,fish poison (root),verbasco
+clics-doculect-28-738,ital1282-std,concepticon-348,8.96,tassobarbasso,fish poison (root),tassobarbasso
+clics-doculect-28-739,ital1282-std,concepticon-33,8.97,ortica,nettle,ortica
+clics-doculect-28-740,ital1282-std,concepticon-641,8.98,fungo,mushroom,fungo
+clics-doculect-28-741,ital1282-std,concepticon-2575,9.11,fare,"do, make",fare
+clics-doculect-28-742,ital1282-std,concepticon-984,9.12,lavorare,work,lavorare
+clics-doculect-28-743,ital1282-std,concepticon-2004,9.14,piegare,bend,piegare
+clics-doculect-28-744,ital1282-std,concepticon-2004,9.14,curvare,bend,curvare
+clics-doculect-28-745,ital1282-std,concepticon-1470,9.15,piegare,fold,piegare
+clics-doculect-28-746,ital1282-std,concepticon-1917,9.16,legare,"tie, bind",legare
+clics-doculect-28-747,ital1282-std,concepticon-352,9.161,slegare,untie,slegare
+clics-doculect-28-748,ital1282-std,concepticon-1627,9.18,catena,chain,catena
+clics-doculect-28-749,ital1282-std,concepticon-1218,9.19,corda,"rope, cord",corda
+clics-doculect-28-750,ital1282-std,concepticon-760,9.192,nodo,knot (noun),nodo
+clics-doculect-28-751,ital1282-std,concepticon-2133,9.21,colpire,"strike (hit, beat)",colpire
+clics-doculect-28-752,ital1282-std,concepticon-354,9.211,picchiare,pound with fist,picchiare
+clics-doculect-28-753,ital1282-std,concepticon-1432,9.22,tagliare,cut,tagliare
+clics-doculect-28-754,ital1282-std,concepticon-355,9.221,abbattere,cut down,abbattere
+clics-doculect-28-755,ital1282-std,concepticon-155,9.222,tagliare,"chop, hew",tagliare
+clics-doculect-28-756,ital1282-std,concepticon-155,9.222,spaccare,"chop, hew",spaccare
+clics-doculect-28-757,ital1282-std,concepticon-1434,9.223,accoltellare,stab,accoltellare
+clics-doculect-28-758,ital1282-std,concepticon-1352,9.23,coltello,knife,coltello
+clics-doculect-28-759,ital1282-std,concepticon-356,9.24,forbici,"scissors, shears",forbici
+clics-doculect-28-760,ital1282-std,concepticon-677,9.25,scure,ax,scure
+clics-doculect-28-761,ital1282-std,concepticon-677,9.25,ascia,ax,ascia
+clics-doculect-28-762,ital1282-std,concepticon-290,9.251,ascia,adze,ascia
+clics-doculect-28-763,ital1282-std,concepticon-680,9.26,rompere,break,rompere
+clics-doculect-28-764,ital1282-std,concepticon-588,9.261,rotto,broken,rotto
+clics-doculect-28-765,ital1282-std,concepticon-1437,9.27,spaccare,split,spaccare
+clics-doculect-28-766,ital1282-std,concepticon-1735,9.28,strappare,tear,strappare
+clics-doculect-28-767,ital1282-std,concepticon-291,9.29,scoiare,"flay, skin",scoiare
+clics-doculect-28-768,ital1282-std,concepticon-291,9.29,scorticare,"flay, skin",scorticare
+clics-doculect-28-769,ital1282-std,concepticon-1449,9.31,strofinare,"rub, wipe",strofinare
+clics-doculect-28-770,ital1282-std,concepticon-214,9.32,stendere,stretch,stendere
+clics-doculect-28-771,ital1282-std,concepticon-1455,9.33,tirare,pull,tirare
+clics-doculect-28-772,ital1282-std,concepticon-38,9.34,stendere,spread out,stendere
+clics-doculect-28-773,ital1282-std,concepticon-357,9.341,sospendere,hang up,sospendere
+clics-doculect-28-774,ital1282-std,concepticon-1913,9.342,premere,press,premere
+clics-doculect-28-775,ital1282-std,concepticon-1913,9.342,schiacciare,press,schiacciare
+clics-doculect-28-776,ital1282-std,concepticon-1414,9.343,storcere,"squeeze, wring",storcere
+clics-doculect-28-777,ital1282-std,concepticon-1487,9.35,versare,pour,versare
+clics-doculect-28-778,ital1282-std,concepticon-1453,9.36,lavare,wash,lavare
+clics-doculect-28-779,ital1282-std,concepticon-230,9.37,spazzare,sweep,spazzare
+clics-doculect-28-780,ital1282-std,concepticon-245,9.38,scopa,broom,scopa
+clics-doculect-28-781,ital1282-std,concepticon-1361,9.422,arnese,tool,arnese
+clics-doculect-28-782,ital1282-std,concepticon-1042,9.43,falegname,carpenter,falegname
+clics-doculect-28-783,ital1282-std,concepticon-1840,9.44,costruire,build,costruire
+clics-doculect-28-784,ital1282-std,concepticon-1501,9.46,forare,bore,forare
+clics-doculect-28-785,ital1282-std,concepticon-46,9.461,scavare,hollow out,scavare
+clics-doculect-28-786,ital1282-std,concepticon-1948,9.48,sega,saw,sega
+clics-doculect-28-787,ital1282-std,concepticon-1481,9.49,martello,hammer,martello
+clics-doculect-28-788,ital1282-std,concepticon-502,9.5,chiodo,nail,chiodo
+clics-doculect-28-789,ital1282-std,concepticon-1069,9.56,colla,glue,colla
+clics-doculect-28-790,ital1282-std,concepticon-1001,9.6,fabbroferraio,"smith, blacksmith",fabbroferraio
+clics-doculect-28-791,ital1282-std,concepticon-288,9.61,fucina,forge,fucina
+clics-doculect-28-792,ital1282-std,concepticon-1648,9.62,incudine,anvil,incudine
+clics-doculect-28-793,ital1282-std,concepticon-211,9.63,fondere,cast (metals),fondere
+clics-doculect-28-794,ital1282-std,concepticon-211,9.63,gettare,cast (metals),gettare
+clics-doculect-28-795,ital1282-std,concepticon-1369,9.64,oro,gold,oro
+clics-doculect-28-796,ital1282-std,concepticon-759,9.65,argento,silver,argento
+clics-doculect-28-797,ital1282-std,concepticon-1825,9.66,rame,"copper, bronze",rame
+clics-doculect-28-798,ital1282-std,concepticon-621,9.67,ferro,iron,ferro
+clics-doculect-28-799,ital1282-std,concepticon-627,9.68,piombo,lead (noun),piombo
+clics-doculect-28-800,ital1282-std,concepticon-358,9.69,stagno,"tin, tinplate",stagno
+clics-doculect-28-801,ital1282-std,concepticon-359,9.71,vasaio,potter,vasaio
+clics-doculect-28-802,ital1282-std,concepticon-289,9.72,plasmare,mold (clay etc),plasmare
+clics-doculect-28-803,ital1282-std,concepticon-289,9.72,modellare,mold (clay etc),modellare
+clics-doculect-28-804,ital1282-std,concepticon-1399,9.73,argilla,clay,argilla
+clics-doculect-28-805,ital1282-std,concepticon-604,9.74,vetro,glass,vetro
+clics-doculect-28-806,ital1282-std,concepticon-1729,9.75,tessere,"weave, plait",tessere
+clics-doculect-28-807,ital1282-std,concepticon-1729,9.75,intrecciare,"weave, plait",intrecciare
+clics-doculect-28-808,ital1282-std,concepticon-1539,9.76,cesto,basket,cesto
+clics-doculect-28-809,ital1282-std,concepticon-195,9.77,tappetino,mat,tappetino
+clics-doculect-28-810,ital1282-std,concepticon-195,9.77,stuoia,mat,stuoia
+clics-doculect-28-811,ital1282-std,concepticon-292,9.771,tappetino,rug,tappetino
+clics-doculect-28-812,ital1282-std,concepticon-293,9.78,rete,netbag,rete
+clics-doculect-28-813,ital1282-std,concepticon-1971,9.79,ventaglio,fan (noun),ventaglio
+clics-doculect-28-814,ital1282-std,concepticon-360,9.791,farevento,fan (vb),farevento
+clics-doculect-28-815,ital1282-std,concepticon-360,9.791,ventolare,fan (vb),ventolare
+clics-doculect-28-816,ital1282-std,concepticon-228,9.81,intagliare,carve,intagliare
+clics-doculect-28-817,ital1282-std,concepticon-914,9.82,scultore,sculptor,scultore
+clics-doculect-28-818,ital1282-std,concepticon-1002,9.83,statua,statue,statua
+clics-doculect-28-819,ital1282-std,concepticon-1979,9.84,scalpello,chisel,scalpello
+clics-doculect-28-820,ital1282-std,concepticon-647,9.88,vernice,paint (noun),vernice
+clics-doculect-28-821,ital1282-std,concepticon-2001,9.89,dipingere,paint (vb),dipingere
+clics-doculect-28-822,ital1282-std,concepticon-765,10.11,muovere,move,muovere
+clics-doculect-28-823,ital1282-std,concepticon-1588,10.12,girare,turn over,girare
+clics-doculect-28-824,ital1282-std,concepticon-1445,10.13,girarsi,turn around,girarsi
+clics-doculect-28-825,ital1282-std,concepticon-1113,10.14,avvolgere,"wind, wrap",avvolgere
+clics-doculect-28-826,ital1282-std,concepticon-827,10.15,rotolare,roll,rotolare
+clics-doculect-28-827,ital1282-std,concepticon-808,10.16,lasciarcadere,drop (vb),lasciarcadere
+clics-doculect-28-828,ital1282-std,concepticon-430,10.17,torcere,twist,torcere
+clics-doculect-28-829,ital1282-std,concepticon-568,10.21,salire,rise,salire
+clics-doculect-28-830,ital1282-std,concepticon-501,10.22,alzare,"raise, lift",alzare
+clics-doculect-28-831,ital1282-std,concepticon-1280,10.23,cadere,fall,cadere
+clics-doculect-28-832,ital1282-std,concepticon-2253,10.24,sgocciolare,drip,sgocciolare
+clics-doculect-28-833,ital1282-std,concepticon-1456,10.25,buttare,throw,buttare
+clics-doculect-28-834,ital1282-std,concepticon-702,10.252,acchiappare,catch (ball),acchiappare
+clics-doculect-28-835,ital1282-std,concepticon-1909,10.26,scuotere,shake,scuotere
+clics-doculect-28-836,ital1282-std,concepticon-2003,10.32,scorrere,flow,scorrere
+clics-doculect-28-837,ital1282-std,concepticon-1088,10.33,affondare,sink,affondare
+clics-doculect-28-838,ital1282-std,concepticon-1574,10.34,galleggiare,float,galleggiare
+clics-doculect-28-839,ital1282-std,concepticon-1439,10.35,nuotare,swim,nuotare
+clics-doculect-28-840,ital1282-std,concepticon-119,10.351,tuffarsi,dive,tuffarsi
+clics-doculect-28-841,ital1282-std,concepticon-365,10.352,schizzare,splash,schizzare
+clics-doculect-28-842,ital1282-std,concepticon-787,10.36,navigare,sail (vb),navigare
+clics-doculect-28-843,ital1282-std,concepticon-787,10.36,salpare,sail (vb),salpare
+clics-doculect-28-844,ital1282-std,concepticon-1441,10.37,volare,fly (vb),volare
+clics-doculect-28-845,ital1282-std,concepticon-175,10.38,soffiare,blow,soffiare
+clics-doculect-28-846,ital1282-std,concepticon-96,10.41,strisciare,"creep, crawl",strisciare
+clics-doculect-28-847,ital1282-std,concepticon-66,10.412,inginocchiarsi,kneel,inginocchiarsi
+clics-doculect-28-848,ital1282-std,concepticon-296,10.413,accovacciarsi,crouch,accovacciarsi
+clics-doculect-28-849,ital1282-std,concepticon-1324,10.42,scivolare,"slide, slip",scivolare
+clics-doculect-28-850,ital1282-std,concepticon-1829,10.43,saltare,"jump, leap",saltare
+clics-doculect-28-851,ital1282-std,concepticon-1135,10.431,dareuncalcio,kick,dareuncalcio
+clics-doculect-28-852,ital1282-std,concepticon-1879,10.44,ballare,dance,ballare
+clics-doculect-28-853,ital1282-std,concepticon-1443,10.45,camminare,walk,camminare
+clics-doculect-28-854,ital1282-std,concepticon-366,10.451,zoppicare,limp,zoppicare
+clics-doculect-28-855,ital1282-std,concepticon-1519,10.46,correre,run,correre
+clics-doculect-28-856,ital1282-std,concepticon-695,10.47,andare,go,andare
+clics-doculect-28-857,ital1282-std,concepticon-705,10.471,salire,go up,salire
+clics-doculect-28-858,ital1282-std,concepticon-1102,10.472,arrampicarsi,climb,arrampicarsi
+clics-doculect-28-859,ital1282-std,concepticon-2014,10.473,scendere,go down,scendere
+clics-doculect-28-860,ital1282-std,concepticon-1107,10.474,uscire,go out,uscire
+clics-doculect-28-861,ital1282-std,concepticon-1446,10.48,venire,come,venire
+clics-doculect-28-862,ital1282-std,concepticon-581,10.481,tornare,come back,tornare
+clics-doculect-28-863,ital1282-std,concepticon-1752,10.49,andarsene,"go away, depart",andarsene
+clics-doculect-28-864,ital1282-std,concepticon-1752,10.49,partire,"go away, depart",partire
+clics-doculect-28-865,ital1282-std,concepticon-485,10.491,sparire,disappear,sparire
+clics-doculect-28-866,ital1282-std,concepticon-956,10.51,fuggire,flee,fuggire
+clics-doculect-28-867,ital1282-std,concepticon-1085,10.52,seguire,follow,seguire
+clics-doculect-28-868,ital1282-std,concepticon-1047,10.53,perseguire,pursue,perseguire
+clics-doculect-28-869,ital1282-std,concepticon-1387,10.55,raggiungere,"reach, arrive",raggiungere
+clics-doculect-28-870,ital1282-std,concepticon-1387,10.55,arrivare,"reach, arrive",arrivare
+clics-doculect-28-871,ital1282-std,concepticon-1778,10.56,avvicinarsi,approach,avvicinarsi
+clics-doculect-28-872,ital1282-std,concepticon-749,10.57,entrare,enter,entrare
+clics-doculect-28-873,ital1282-std,concepticon-700,10.61,portare,carry (bear),portare
+clics-doculect-28-874,ital1282-std,concepticon-412,10.612,portare,carry-in-hand,portare
+clics-doculect-28-875,ital1282-std,concepticon-413,10.613,portare,carry-on-shoulder,portare
+clics-doculect-28-876,ital1282-std,concepticon-414,10.614,portare,carry-on-head,portare
+clics-doculect-28-877,ital1282-std,concepticon-415,10.615,portare,carry-underarm,portare
+clics-doculect-28-878,ital1282-std,concepticon-692,10.62,portare,bring,portare
+clics-doculect-28-879,ital1282-std,concepticon-1127,10.63,mandare,send,mandare
+clics-doculect-28-880,ital1282-std,concepticon-1127,10.63,spedire,send,spedire
+clics-doculect-28-881,ital1282-std,concepticon-43,10.64,condurre,lead (vb),condurre
+clics-doculect-28-882,ital1282-std,concepticon-741,10.65,guidare,drive,guidare
+clics-doculect-28-883,ital1282-std,concepticon-367,10.66,cavalcare,ride,cavalcare
+clics-doculect-28-884,ital1282-std,concepticon-1452,10.67,spingere,"push, shove",spingere
+clics-doculect-28-885,ital1282-std,concepticon-667,10.71,strada,road,strada
+clics-doculect-28-886,ital1282-std,concepticon-2252,10.72,sentiero,path,sentiero
+clics-doculect-28-887,ital1282-std,concepticon-1011,10.74,ponte,bridge,ponte
+clics-doculect-28-888,ital1282-std,concepticon-122,10.75,carrozza,"carriage, wagon, cart",carrozza
+clics-doculect-28-889,ital1282-std,concepticon-122,10.75,carro,"carriage, wagon, cart",carro
+clics-doculect-28-890,ital1282-std,concepticon-710,10.76,ruota,wheel,ruota
+clics-doculect-28-891,ital1282-std,concepticon-1769,10.77,asse,axle,asse
+clics-doculect-28-892,ital1282-std,concepticon-14,10.78,giogo,yoke,giogo
+clics-doculect-28-893,ital1282-std,concepticon-740,10.81,nave,ship,nave
+clics-doculect-28-894,ital1282-std,concepticon-1844,10.83,barca,boat,barca
+clics-doculect-28-895,ital1282-std,concepticon-1970,10.831,canoa,canoe,canoa
+clics-doculect-28-896,ital1282-std,concepticon-416,10.832,bilanciere,outrigger,bilanciere
+clics-doculect-28-897,ital1282-std,concepticon-1664,10.84,zattera,raft,zattera
+clics-doculect-28-898,ital1282-std,concepticon-108,10.85,remo,oar,remo
+clics-doculect-28-899,ital1282-std,concepticon-234,10.851,pagaia,paddle (noun),pagaia
+clics-doculect-28-900,ital1282-std,concepticon-1849,10.852,remare,row (vb),remare
+clics-doculect-28-901,ital1282-std,concepticon-108,10.86,timone,rudder,timone
+clics-doculect-28-902,ital1282-std,concepticon-184,10.87,albero,mast,albero
+clics-doculect-28-903,ital1282-std,concepticon-786,10.88,vela,sail (noun),vela
+clics-doculect-28-904,ital1282-std,concepticon-1870,10.89,ancora,anchor,ancora
+clics-doculect-28-905,ital1282-std,concepticon-610,10.91,porto,"harbor, port",porto
+clics-doculect-28-906,ital1282-std,concepticon-1922,10.92,sbarcare,land (vb),sbarcare
+clics-doculect-28-907,ital1282-std,concepticon-1922,10.92,approdare,land (vb),approdare
+clics-doculect-28-908,ital1282-std,concepticon-773,11.11,avere,have,avere
+clics-doculect-28-909,ital1282-std,concepticon-684,11.12,possedere,"own, possess",possedere
+clics-doculect-28-910,ital1282-std,concepticon-1749,11.13,prendere,take,prendere
+clics-doculect-28-911,ital1282-std,concepticon-1749,11.13,pigliare,take,pigliare
+clics-doculect-28-912,ital1282-std,concepticon-2021,11.14,cogliere,"seize, grasp",cogliere
+clics-doculect-28-913,ital1282-std,concepticon-2021,11.14,afferrare,"seize, grasp",afferrare
+clics-doculect-28-914,ital1282-std,concepticon-1448,11.15,tenere,hold,tenere
+clics-doculect-28-915,ital1282-std,concepticon-694,11.16,ottenere,"get, obtain",ottenere
+clics-doculect-28-916,ital1282-std,concepticon-1477,11.17,tenersi,"keep, retain",tenersi
+clics-doculect-28-917,ital1282-std,concepticon-738,11.18,cosa,thing,cosa
+clics-doculect-28-918,ital1282-std,concepticon-1447,11.21,dare,give,dare
+clics-doculect-28-919,ital1282-std,concepticon-85,11.22,rendere,give back,rendere
+clics-doculect-28-920,ital1282-std,concepticon-1997,11.24,conservare,"preserve, look after",conservare
+clics-doculect-28-921,ital1282-std,concepticon-1997,11.24,proteggere,"preserve, look after",proteggere
+clics-doculect-28-922,ital1282-std,concepticon-2008,11.25,salvare,"save, rescue",salvare
+clics-doculect-28-923,ital1282-std,concepticon-681,11.27,distruggere,destroy,distruggere
+clics-doculect-28-924,ital1282-std,concepticon-44,11.28,danneggiare,"harm, injure, damage",danneggiare
+clics-doculect-28-925,ital1282-std,concepticon-44,11.28,ferire,"harm, injure, damage",ferire
+clics-doculect-28-926,ital1282-std,concepticon-1468,11.31,cercare,"seek, look for",cercare
+clics-doculect-28-927,ital1282-std,concepticon-719,11.32,trovare,find,trovare
+clics-doculect-28-928,ital1282-std,concepticon-1660,11.33,perdere,lose,perdere
+clics-doculect-28-929,ital1282-std,concepticon-1095,11.34,liberare,"release, let go",liberare
+clics-doculect-28-930,ital1282-std,concepticon-1095,11.34,rilasciare,"release, let go",rilasciare
+clics-doculect-28-931,ital1282-std,concepticon-1559,11.43,soldi,money,soldi
+clics-doculect-28-932,ital1282-std,concepticon-1559,11.43,danaro,money,danaro
+clics-doculect-28-933,ital1282-std,concepticon-1867,11.44,moneta,coin,moneta
+clics-doculect-28-934,ital1282-std,concepticon-712,11.51,ricco,rich,ricco
+clics-doculect-28-935,ital1282-std,concepticon-1674,11.52,povero,poor,povero
+clics-doculect-28-936,ital1282-std,concepticon-1934,11.53,mendicante,beggar,mendicante
+clics-doculect-28-937,ital1282-std,concepticon-1774,11.54,avaro,"avaricious, stingy",avaro
+clics-doculect-28-938,ital1282-std,concepticon-1774,11.54,tirchio,"avaricious, stingy",tirchio
+clics-doculect-28-939,ital1282-std,concepticon-582,11.61,prestare,lend,prestare
+clics-doculect-28-940,ital1282-std,concepticon-1823,11.62,prendereinprestito,borrow,prendereinprestito
+clics-doculect-28-941,ital1282-std,concepticon-369,11.63,dovere,owe,dovere
+clics-doculect-28-942,ital1282-std,concepticon-1914,11.64,debito,debt,debito
+clics-doculect-28-943,ital1282-std,concepticon-718,11.65,pagare,pay (vb),pagare
+clics-doculect-28-944,ital1282-std,concepticon-1081,11.66,conto,"account, reckoning",conto
+clics-doculect-28-945,ital1282-std,concepticon-873,11.69,tassa,"tax, tribute",tassa
+clics-doculect-28-946,ital1282-std,concepticon-873,11.69,imposta,"tax, tribute",imposta
+clics-doculect-28-947,ital1282-std,concepticon-856,11.77,noleggiare,hire,noleggiare
+clics-doculect-28-948,ital1282-std,concepticon-1122,11.78,salario,wages,salario
+clics-doculect-28-949,ital1282-std,concepticon-1122,11.78,stipendio,wages,stipendio
+clics-doculect-28-950,ital1282-std,concepticon-733,11.79,guadagnare,earn,guadagnare
+clics-doculect-28-951,ital1282-std,concepticon-1869,11.81,comprare,buy,comprare
+clics-doculect-28-952,ital1282-std,concepticon-1571,11.82,vendere,sell,vendere
+clics-doculect-28-953,ital1282-std,concepticon-2135,11.83,commercio,"trade, barter",commercio
+clics-doculect-28-954,ital1282-std,concepticon-2135,11.83,baratto,"trade, barter",baratto
+clics-doculect-28-955,ital1282-std,concepticon-1082,11.84,mercante,merchant,mercante
+clics-doculect-28-956,ital1282-std,concepticon-633,11.85,mercato,market (place),mercato
+clics-doculect-28-957,ital1282-std,concepticon-752,11.86,negozio,"store, shop",negozio
+clics-doculect-28-958,ital1282-std,concepticon-657,11.87,prezzo,price,prezzo
+clics-doculect-28-959,ital1282-std,concepticon-1426,11.88,caro,"dear (costly, expensive)",caro
+clics-doculect-28-960,ital1282-std,concepticon-1887,11.89,abuonmercato,cheap,abuonmercato
+clics-doculect-28-961,ital1282-std,concepticon-884,11.91,spartire,share (distribute),spartire
+clics-doculect-28-962,ital1282-std,concepticon-884,11.91,condividere,share (distribute),condividere
+clics-doculect-28-963,ital1282-std,concepticon-1098,11.92,pesare,weigh,pesare
+clics-doculect-28-964,ital1282-std,concepticon-1685,12.1,dopo,after,dopo
+clics-doculect-28-965,ital1282-std,concepticon-723,12.11,dietro,place,dietro
+clics-doculect-28-966,ital1282-std,concepticon-1816,12.2,accanto,beside,accanto
+clics-doculect-28-967,ital1282-std,concepticon-2094,12.3,giù,"down, below",giu
+clics-doculect-28-968,ital1282-std,concepticon-2094,12.3,disotto,"down, below",disotto
+clics-doculect-28-969,ital1282-std,concepticon-1882,12.4,davantia,before,davantia
+clics-doculect-28-970,ital1282-std,concepticon-1882,12.4,primadi,before,primadi
+clics-doculect-28-971,ital1282-std,concepticon-1019,12.41,davanti,right (side),davanti
+clics-doculect-28-972,ital1282-std,concepticon-1606,12.5,dentro,"inside, in",dentro
+clics-doculect-28-973,ital1282-std,concepticon-1606,12.5,in,"inside, in",in
+clics-doculect-28-974,ital1282-std,concepticon-762,12.6,fuori,outside,fuori
+clics-doculect-28-975,ital1282-std,concepticon-1485,12.7,sotto,under,sotto
+clics-doculect-28-976,ital1282-std,concepticon-1591,12.8,su,"up, above",su
+clics-doculect-28-977,ital1282-std,concepticon-1591,12.8,sopra,"up, above",sopra
+clics-doculect-28-978,ital1282-std,concepticon-723,12.11,luogo,place,luogo
+clics-doculect-28-979,ital1282-std,concepticon-998,12.12,mettere,put,mettere
+clics-doculect-28-980,ital1282-std,concepticon-998,12.12,porre,put,porre
+clics-doculect-28-981,ital1282-std,concepticon-1416,12.13,sedersi,sit,sedersi
+clics-doculect-28-982,ital1282-std,concepticon-215,12.14,sdraiarsi,lie down,sdraiarsi
+clics-doculect-28-983,ital1282-std,concepticon-1442,12.15,stareinpiedi,stand,stareinpiedi
+clics-doculect-28-984,ital1282-std,concepticon-987,12.16,rimanere,"remain, stay",rimanere
+clics-doculect-28-985,ital1282-std,concepticon-987,12.16,restare,"remain, stay",restare
+clics-doculect-28-986,ital1282-std,concepticon-838,12.17,avanzi,"remains, left overs",avanzi
+clics-doculect-28-987,ital1282-std,concepticon-7,12.21,raccogliere,"collect, gather",raccogliere
+clics-doculect-28-988,ital1282-std,concepticon-371,12.212,raccogliere,pick up,raccogliere
+clics-doculect-28-989,ital1282-std,concepticon-1576,12.213,ammucchiare,pile up,ammucchiare
+clics-doculect-28-990,ital1282-std,concepticon-1743,12.22,giungere,"join, unite",giungere
+clics-doculect-28-991,ital1282-std,concepticon-1743,12.22,unire,"join, unite",unire
+clics-doculect-28-992,ital1282-std,concepticon-1359,12.23,separare,separate,separare
+clics-doculect-28-993,ital1282-std,concepticon-1119,12.232,dividere,divide,dividere
+clics-doculect-28-994,ital1282-std,concepticon-1156,12.24,aprire,open,aprire
+clics-doculect-28-995,ital1282-std,concepticon-1046,12.25,chiudere,"shut, close",chiudere
+clics-doculect-28-996,ital1282-std,concepticon-761,12.26,coprire,cover,coprire
+clics-doculect-28-997,ital1282-std,concepticon-602,12.27,nascondere,"hide, conceal",nascondere
+clics-doculect-28-998,ital1282-std,concepticon-1265,12.31,alto,high,alto
+clics-doculect-28-999,ital1282-std,concepticon-721,12.32,basso,low,basso
+clics-doculect-28-1000,ital1282-std,concepticon-1753,12.33,cima,top,cima
+clics-doculect-28-1001,ital1282-std,concepticon-690,12.34,fondo,bottom,fondo
+clics-doculect-28-1002,ital1282-std,concepticon-742,12.35,fine,end,fine
+clics-doculect-28-1003,ital1282-std,concepticon-742,12.35,fondo,end,fondo
+clics-doculect-28-1004,ital1282-std,concepticon-372,12.352,appuntito,pointed,appuntito
+clics-doculect-28-1005,ital1282-std,concepticon-863,12.353,margine,edge,margine
+clics-doculect-28-1006,ital1282-std,concepticon-682,12.36,lato,side,lato
+clics-doculect-28-1007,ital1282-std,concepticon-1093,12.37,mezzo,"middle, center",mezzo
+clics-doculect-28-1008,ital1282-std,concepticon-1093,12.37,centro,"middle, center",centro
+clics-doculect-28-1009,ital1282-std,concepticon-1019,12.41,destra,right (side),destra
+clics-doculect-28-1010,ital1282-std,concepticon-244,12.42,sinistra,left (side),sinistra
+clics-doculect-28-1011,ital1282-std,concepticon-1942,12.43,vicino,near (adv),vicino
+clics-doculect-28-1012,ital1282-std,concepticon-1406,12.44,lontano,far (adv),lontano
+clics-doculect-28-1013,ital1282-std,concepticon-1877,12.45,est,east,est
+clics-doculect-28-1014,ital1282-std,concepticon-1817,12.46,ovest,west,ovest
+clics-doculect-28-1015,ital1282-std,concepticon-1598,12.47,nord,north,nord
+clics-doculect-28-1016,ital1282-std,concepticon-1595,12.48,sud,south,sud
+clics-doculect-28-1017,ital1282-std,concepticon-479,12.53,crescere,grow,crescere
+clics-doculect-28-1018,ital1282-std,concepticon-1506,12.54,misurare,measure,misurare
+clics-doculect-28-1019,ital1282-std,concepticon-81,12.541,spanna,"span, fathom",spanna
+clics-doculect-28-1020,ital1282-std,concepticon-81,12.541,braccio,"span, fathom",braccio
+clics-doculect-28-1021,ital1282-std,concepticon-1202,12.55,grande,"large, big",grande
+clics-doculect-28-1022,ital1282-std,concepticon-1202,12.55,grosso,"large, big",grosso
+clics-doculect-28-1023,ital1282-std,concepticon-1246,12.56,piccolo,"small, little",piccolo
+clics-doculect-28-1024,ital1282-std,concepticon-1203,12.57,lungo,long,lungo
+clics-doculect-28-1025,ital1282-std,concepticon-711,12.58,alto,tall,alto
+clics-doculect-28-1026,ital1282-std,concepticon-1645,12.59,corto,short,corto
+clics-doculect-28-1027,ital1282-std,concepticon-1243,12.61,largo,"wide, broad",largo
+clics-doculect-28-1028,ital1282-std,concepticon-1267,12.62,stretto,narrow,stretto
+clics-doculect-28-1029,ital1282-std,concepticon-1244,12.63,grosso,thick (in dimension),grosso
+clics-doculect-28-1030,ital1282-std,concepticon-1244,12.63,spesso,thick (in dimension),spesso
+clics-doculect-28-1031,ital1282-std,concepticon-2249,12.65,sottile,thin (in dimension),sottile
+clics-doculect-28-1032,ital1282-std,concepticon-1593,12.67,profondo,deep,profondo
+clics-doculect-28-1033,ital1282-std,concepticon-193,12.68,pocoprofondo,shallow,pocoprofondo
+clics-doculect-28-1034,ital1282-std,concepticon-1633,12.71,piatto,flat,piatto
+clics-doculect-28-1035,ital1282-std,concepticon-1404,12.73,dritto,straight,dritto
+clics-doculect-28-1036,ital1282-std,concepticon-297,12.74,storto,crooked,storto
+clics-doculect-28-1037,ital1282-std,concepticon-1071,12.75,gancio,hook,gancio
+clics-doculect-28-1038,ital1282-std,concepticon-192,12.76,angolo,corner,angolo
+clics-doculect-28-1039,ital1282-std,concepticon-1367,12.77,croce,cross,croce
+clics-doculect-28-1040,ital1282-std,concepticon-850,12.78,quadro,square,quadro
+clics-doculect-28-1041,ital1282-std,concepticon-1395,12.81,tondo,round,tondo
+clics-doculect-28-1042,ital1282-std,concepticon-1467,12.82,cerchio,circle,cerchio
+clics-doculect-28-1043,ital1282-std,concepticon-1845,12.83,sfera,"sphere, ball",sfera
+clics-doculect-28-1044,ital1282-std,concepticon-1845,12.83,palla,"sphere, ball",palla
+clics-doculect-28-1045,ital1282-std,concepticon-1048,12.84,linea,line,linea
+clics-doculect-28-1046,ital1282-std,concepticon-1667,12.85,buco,hole,buco
+clics-doculect-28-1047,ital1282-std,concepticon-1558,12.92,simile,"like, similar",simile
+clics-doculect-28-1048,ital1282-std,concepticon-1264,12.93,cambiare,change,cambiare
+clics-doculect-28-1049,ital1282-std,concepticon-1294,13.0,zero,"zero, nothing",zero
+clics-doculect-28-1050,ital1282-std,concepticon-1294,13.0,niente,"zero, nothing",niente
+clics-doculect-28-1051,ital1282-std,concepticon-1294,13.0,nulla,"zero, nothing",nulla
+clics-doculect-28-1052,ital1282-std,concepticon-1493,13.1,uno,one,uno
+clics-doculect-28-1053,ital1282-std,concepticon-1498,13.2,due,two,due
+clics-doculect-28-1054,ital1282-std,concepticon-492,13.3,tre,three,tre
+clics-doculect-28-1055,ital1282-std,concepticon-1500,13.4,quattro,four,quattro
+clics-doculect-28-1056,ital1282-std,concepticon-493,13.5,cinque,five,cinque
+clics-doculect-28-1057,ital1282-std,concepticon-1703,13.6,sei,six,sei
+clics-doculect-28-1058,ital1282-std,concepticon-1704,13.7,sette,seven,sette
+clics-doculect-28-1059,ital1282-std,concepticon-1705,13.8,otto,eight,otto
+clics-doculect-28-1060,ital1282-std,concepticon-1483,13.9,nove,nine,nove
+clics-doculect-28-1061,ital1282-std,concepticon-1515,13.10,dieci,ten,dieci
+clics-doculect-28-1062,ital1282-std,concepticon-1706,13.101,undici,eleven,undici
+clics-doculect-28-1063,ital1282-std,concepticon-1707,13.102,dodici,twelve,dodici
+clics-doculect-28-1064,ital1282-std,concepticon-1709,13.103,quindici,fifteen,quindici
+clics-doculect-28-1065,ital1282-std,concepticon-1710,13.104,venti,twenty,venti
+clics-doculect-28-1066,ital1282-std,concepticon-1634,13.105,cento,hundred,cento
+clics-doculect-28-1067,ital1282-std,concepticon-1843,13.106,mille,thousand,mille
+clics-doculect-28-1068,ital1282-std,concepticon-1420,13.107,contare,count,contare
+clics-doculect-28-1069,ital1282-std,concepticon-98,13.14,ogni,"every, all",ogni
+clics-doculect-28-1070,ital1282-std,concepticon-98,13.14,tutto,"every, all",tutto
+clics-doculect-28-1071,ital1282-std,concepticon-1198,13.15,molto,"much, many",molto
+clics-doculect-28-1072,ital1282-std,concepticon-1992,13.16,più,more,piu
+clics-doculect-28-1073,ital1282-std,concepticon-1992,13.16,ancorapiù,more,ancorapiu
+clics-doculect-28-1074,ital1282-std,concepticon-1242,13.17,poco,"little (quantity), few",poco
+clics-doculect-28-1075,ital1282-std,concepticon-1881,13.18,abbastanza,enough,abbastanza
+clics-doculect-28-1076,ital1282-std,concepticon-1241,13.181,alcuni,some,alcuni
+clics-doculect-28-1077,ital1282-std,concepticon-1241,13.181,qualche,some,qualche
+clics-doculect-28-1078,ital1282-std,concepticon-2023,13.19,moltitudine,"multitude, crowd",moltitudine
+clics-doculect-28-1079,ital1282-std,concepticon-2023,13.19,folla,"multitude, crowd",folla
+clics-doculect-28-1080,ital1282-std,concepticon-1429,13.21,pieno,full,pieno
+clics-doculect-28-1081,ital1282-std,concepticon-1624,13.22,vuoto,empty,vuoto
+clics-doculect-28-1082,ital1282-std,concepticon-779,13.23,pezzo,"part, piece",pezzo
+clics-doculect-28-1083,ital1282-std,concepticon-816,13.24,metà,half,meta
+clics-doculect-28-1084,ital1282-std,concepticon-1580,13.33,solo,"alone, only",solo
+clics-doculect-28-1085,ital1282-std,concepticon-1580,13.33,soltanto,"alone, only",soltanto
+clics-doculect-28-1086,ital1282-std,concepticon-728,13.34,primo,first,primo
+clics-doculect-28-1087,ital1282-std,concepticon-1529,13.35,ultimo,last,ultimo
+clics-doculect-28-1088,ital1282-std,concepticon-1384,13.36,secondo,second,secondo
+clics-doculect-28-1089,ital1282-std,concepticon-1888,13.37,paio,pair,paio
+clics-doculect-28-1090,ital1282-std,concepticon-1888,13.37,coppia,pair,coppia
+clics-doculect-28-1091,ital1282-std,concepticon-1546,13.38,duevolte,two times,duevolte
+clics-doculect-28-1092,ital1282-std,concepticon-1859,13.42,terzo,third,terzo
+clics-doculect-28-1093,ital1282-std,concepticon-417,13.44,trevolte,three times,trevolte
+clics-doculect-28-1094,ital1282-std,concepticon-892,14.11,tempo,time,tempo
+clics-doculect-28-1095,ital1282-std,concepticon-1789,14.12,età,age,eta
+clics-doculect-28-1096,ital1282-std,concepticon-1231,14.13,nuovo,new,nuovo
+clics-doculect-28-1097,ital1282-std,concepticon-1207,14.14,giovine,young,giovine
+clics-doculect-28-1098,ital1282-std,concepticon-1229,14.15,vecchio,old,vecchio
+clics-doculect-28-1099,ital1282-std,concepticon-672,14.16,presto,early,presto
+clics-doculect-28-1100,ital1282-std,concepticon-477,14.17,tardi,late,tardi
+clics-doculect-28-1101,ital1282-std,concepticon-1376,14.18,ora,now,ora
+clics-doculect-28-1102,ital1282-std,concepticon-1376,14.18,adesso,now,adesso
+clics-doculect-28-1103,ital1282-std,concepticon-1963,14.19,subito,immediately,subito
+clics-doculect-28-1104,ital1282-std,concepticon-1631,14.21,rapido,"swift, fast, quick",rapido
+clics-doculect-28-1105,ital1282-std,concepticon-701,14.22,lento,slow,lento
+clics-doculect-28-1106,ital1282-std,concepticon-754,14.23,affrettarsi,"hasten, hurry",affrettarsi
+clics-doculect-28-1107,ital1282-std,concepticon-425,14.24,ritardare,"retard, delay",ritardare
+clics-doculect-28-1108,ital1282-std,concepticon-1806,14.25,cominciare,"begin, beginning",cominciare
+clics-doculect-28-1109,ital1282-std,concepticon-1806,14.25,inizio,"begin, beginning",inizio
+clics-doculect-28-1110,ital1282-std,concepticon-1186,14.252,durare,"last, endure",durare
+clics-doculect-28-1111,ital1282-std,concepticon-743,14.26,fine,end (temporal),fine
+clics-doculect-28-1112,ital1282-std,concepticon-1766,14.27,finire,finish,finire
+clics-doculect-28-1113,ital1282-std,concepticon-1928,14.28,smettere,"cease, stop",smettere
+clics-doculect-28-1114,ital1282-std,concepticon-790,14.29,pronto,ready,pronto
+clics-doculect-28-1115,ital1282-std,concepticon-1676,14.31,sempre,always,sempre
+clics-doculect-28-1116,ital1282-std,concepticon-1852,14.32,spesso,often,spesso
+clics-doculect-28-1117,ital1282-std,concepticon-1544,14.33,avolte,sometimes,avolte
+clics-doculect-28-1118,ital1282-std,concepticon-703,14.331,presto,soon,presto
+clics-doculect-28-1119,ital1282-std,concepticon-418,14.332,per,long-time (for a),per
+clics-doculect-28-1120,ital1282-std,concepticon-418,14.332,damoltotempo,long-time (for a),damoltotempo
+clics-doculect-28-1121,ital1282-std,concepticon-1656,14.34,mai,never,mai
+clics-doculect-28-1122,ital1282-std,concepticon-204,14.35,dinuovo,again,dinuovo
+clics-doculect-28-1123,ital1282-std,concepticon-1225,14.41,giorno,day,giorno
+clics-doculect-28-1124,ital1282-std,concepticon-1233,14.42,notte,night,notte
+clics-doculect-28-1125,ital1282-std,concepticon-729,14.43,alba,dawn,alba
+clics-doculect-28-1126,ital1282-std,concepticon-1339,14.44,mattina,morning,mattina
+clics-doculect-28-1127,ital1282-std,concepticon-12,14.45,mezzogiorno,"noon, midday",mezzogiorno
+clics-doculect-28-1128,ital1282-std,concepticon-1807,14.451,pomeriggio,afternoon,pomeriggio
+clics-doculect-28-1129,ital1282-std,concepticon-1629,14.46,sera,evening,sera
+clics-doculect-28-1130,ital1282-std,concepticon-1283,14.47,oggi,today,oggi
+clics-doculect-28-1131,ital1282-std,concepticon-1329,14.48,domani,tomorrow,domani
+clics-doculect-28-1132,ital1282-std,concepticon-1179,14.481,dopodomani,day-after-tomorrow,dopodomani
+clics-doculect-28-1133,ital1282-std,concepticon-1174,14.49,ieri,yesterday,ieri
+clics-doculect-28-1134,ital1282-std,concepticon-1180,14.491,ieril'altro,day-before-yesterday,ieril'altro
+clics-doculect-28-1135,ital1282-std,concepticon-1353,14.51,ora,hour,ora
+clics-doculect-28-1136,ital1282-std,concepticon-1323,14.53,orologio,"clock, timepiece",orologio
+clics-doculect-28-1137,ital1282-std,concepticon-1469,14.61,settimana,week,settimana
+clics-doculect-28-1138,ital1282-std,concepticon-1699,14.62,domenica,Sunday,domenica
+clics-doculect-28-1139,ital1282-std,concepticon-1697,14.63,lunedì,Monday,lunedi
+clics-doculect-28-1140,ital1282-std,concepticon-1695,14.64,martedì,Tuesday,martedi
+clics-doculect-28-1141,ital1282-std,concepticon-1694,14.65,mercoledì,Wednesday,mercoledi
+clics-doculect-28-1142,ital1282-std,concepticon-1693,14.66,giovedì,Thursday,giovedi
+clics-doculect-28-1143,ital1282-std,concepticon-1692,14.67,venerdì,Friday,venerdi
+clics-doculect-28-1144,ital1282-std,concepticon-1700,14.68,sabato,Saturday,sabato
+clics-doculect-28-1145,ital1282-std,concepticon-1370,14.71,mese,month,mese
+clics-doculect-28-1146,ital1282-std,concepticon-1226,14.73,anno,year,anno
+clics-doculect-28-1147,ital1282-std,concepticon-1471,14.74,inverno,winter,inverno
+clics-doculect-28-1148,ital1282-std,concepticon-1537,14.75,primavera,spring,primavera
+clics-doculect-28-1149,ital1282-std,concepticon-1342,14.76,estate,summer,estate
+clics-doculect-28-1150,ital1282-std,concepticon-1276,14.77,autunno,autumn,autunno
+clics-doculect-28-1151,ital1282-std,concepticon-691,14.78,stagione,season,stagione
+clics-doculect-28-1152,ital1282-std,concepticon-1587,15.21,saperedi,smell (vb intrans),saperedi
+clics-doculect-28-1153,ital1282-std,concepticon-375,15.212,annusare,sniff,annusare
+clics-doculect-28-1154,ital1282-std,concepticon-1586,15.22,sentire,smell (vb trans),sentire
+clics-doculect-28-1155,ital1282-std,concepticon-1586,15.22,annusare,smell (vb trans),annusare
+clics-doculect-28-1156,ital1282-std,concepticon-376,15.25,profumato,"fragrant, good smelling",profumato
+clics-doculect-28-1157,ital1282-std,concepticon-42,15.26,puzzolente,"stinking, bad smelling",puzzolente
+clics-doculect-28-1158,ital1282-std,concepticon-21,15.31,assaggiare,taste,assaggiare
+clics-doculect-28-1159,ital1282-std,concepticon-717,15.35,dolce,sweet,dolce
+clics-doculect-28-1160,ital1282-std,concepticon-1091,15.36,salato,salty,salato
+clics-doculect-28-1161,ital1282-std,concepticon-887,15.37,amaro,bitter,amaro
+clics-doculect-28-1162,ital1282-std,concepticon-1906,15.38,agro,"acid, sour",agro
+clics-doculect-28-1163,ital1282-std,concepticon-1906,15.38,acerbo,"acid, sour",acerbo
+clics-doculect-28-1164,ital1282-std,concepticon-70,15.39,salmastro,brackish,salmastro
+clics-doculect-28-1165,ital1282-std,concepticon-1408,15.41,sentire,hear,sentire
+clics-doculect-28-1166,ital1282-std,concepticon-1408,15.41,udire,hear,udire
+clics-doculect-28-1167,ital1282-std,concepticon-1608,15.42,ascoltare,listen,ascoltare
+clics-doculect-28-1168,ital1282-std,concepticon-1811,15.44,suono,"sound, noise",suono
+clics-doculect-28-1169,ital1282-std,concepticon-1811,15.44,rumore,"sound, noise",rumore
+clics-doculect-28-1170,ital1282-std,concepticon-377,15.45,alto,loud,alto
+clics-doculect-28-1171,ital1282-std,concepticon-377,15.45,forte,loud,forte
+clics-doculect-28-1172,ital1282-std,concepticon-1314,15.46,tranquillo,"quiet, silence",tranquillo
+clics-doculect-28-1173,ital1282-std,concepticon-1314,15.46,silenzio,"quiet, silence",silenzio
+clics-doculect-28-1174,ital1282-std,concepticon-1409,15.51,vedere,see,vedere
+clics-doculect-28-1175,ital1282-std,concepticon-1819,15.52,guardare,"look, look at",guardare
+clics-doculect-28-1176,ital1282-std,concepticon-1039,15.55,mostrare,show,mostrare
+clics-doculect-28-1177,ital1282-std,concepticon-708,15.56,splendere,shine,splendere
+clics-doculect-28-1178,ital1282-std,concepticon-708,15.56,brillare,shine,brillare
+clics-doculect-28-1179,ital1282-std,concepticon-679,15.57,brillante,bright,brillante
+clics-doculect-28-1180,ital1282-std,concepticon-1613,15.61,colore,color,colore
+clics-doculect-28-1181,ital1282-std,concepticon-250,15.62,chiaro,light (in color),chiaro
+clics-doculect-28-1182,ital1282-std,concepticon-706,15.63,cupo,dark (in color),cupo
+clics-doculect-28-1183,ital1282-std,concepticon-1335,15.64,bianco,white,bianco
+clics-doculect-28-1184,ital1282-std,concepticon-163,15.65,nero,black,nero
+clics-doculect-28-1185,ital1282-std,concepticon-156,15.66,rosso,red,rosso
+clics-doculect-28-1186,ital1282-std,concepticon-837,15.67,azzurro,blue,azzurro
+clics-doculect-28-1187,ital1282-std,concepticon-1425,15.68,verde,green,verde
+clics-doculect-28-1188,ital1282-std,concepticon-1424,15.69,giallo,yellow,giallo
+clics-doculect-28-1189,ital1282-std,concepticon-1892,15.71,toccare,touch,toccare
+clics-doculect-28-1190,ital1282-std,concepticon-378,15.712,pizzicare,pinch,pizzicare
+clics-doculect-28-1191,ital1282-std,concepticon-1079,15.72,sentire,feel,sentire
+clics-doculect-28-1192,ital1282-std,concepticon-1884,15.74,duro,hard,duro
+clics-doculect-28-1193,ital1282-std,concepticon-1856,15.75,soave,soft,soave
+clics-doculect-28-1194,ital1282-std,concepticon-1856,15.75,molle,soft,molle
+clics-doculect-28-1195,ital1282-std,concepticon-1923,15.76,ruvido,rough,ruvido
+clics-doculect-28-1196,ital1282-std,concepticon-1234,15.77,liscio,smooth,liscio
+clics-doculect-28-1197,ital1282-std,concepticon-1396,15.78,acuto,sharp,acuto
+clics-doculect-28-1198,ital1282-std,concepticon-379,15.79,spuntato,"blunt, dull",spuntato
+clics-doculect-28-1199,ital1282-std,concepticon-1210,15.81,pesante,heavy,pesante
+clics-doculect-28-1200,ital1282-std,concepticon-1052,15.82,leggero,light (in weight),leggero
+clics-doculect-28-1201,ital1282-std,concepticon-1726,15.83,umido,"wet, damp",umido
+clics-doculect-28-1202,ital1282-std,concepticon-1726,15.83,bagnato,"wet, damp",bagnato
+clics-doculect-28-1203,ital1282-std,concepticon-1398,15.84,secco,dry,secco
+clics-doculect-28-1204,ital1282-std,concepticon-1286,15.85,caldo,hot,caldo
+clics-doculect-28-1205,ital1282-std,concepticon-1232,15.851,tiepido,warm,tiepido
+clics-doculect-28-1206,ital1282-std,concepticon-1232,15.851,caldo,warm,caldo
+clics-doculect-28-1207,ital1282-std,concepticon-1287,15.86,freddo,cold,freddo
+clics-doculect-28-1208,ital1282-std,concepticon-704,15.87,pulito,clean,pulito
+clics-doculect-28-1209,ital1282-std,concepticon-1230,15.88,sudicio,"dirty, soiled",sudicio
+clics-doculect-28-1210,ital1282-std,concepticon-380,15.89,rugoso,wrinkled,rugoso
+clics-doculect-28-1211,ital1282-std,concepticon-380,15.89,increspato,wrinkled,increspato
+clics-doculect-28-1212,ital1282-std,concepticon-53,16.11,anima,"soul, spirit",anima
+clics-doculect-28-1213,ital1282-std,concepticon-53,16.11,spirito,"soul, spirit",spirito
+clics-doculect-28-1214,ital1282-std,concepticon-1572,16.15,sorpreso,"surprised, astonished",sorpreso
+clics-doculect-28-1215,ital1282-std,concepticon-1572,16.15,stupito,"surprised, astonished",stupito
+clics-doculect-28-1216,ital1282-std,concepticon-720,16.18,buonafortuna,"good fortune, luck",buonafortuna
+clics-doculect-28-1217,ital1282-std,concepticon-56,16.19,sfortuna,"misfortune, bad luck",sfortuna
+clics-doculect-28-1218,ital1282-std,concepticon-56,16.19,disgrazia,"misfortune, bad luck",disgrazia
+clics-doculect-28-1219,ital1282-std,concepticon-1495,16.23,allegro,"joyful, glad, happy",allegro
+clics-doculect-28-1220,ital1282-std,concepticon-1495,16.23,felice,"joyful, glad, happy",felice
+clics-doculect-28-1221,ital1282-std,concepticon-1495,16.23,contento,"joyful, glad, happy",contento
+clics-doculect-28-1222,ital1282-std,concepticon-1355,16.25,ridere,laugh,ridere
+clics-doculect-28-1223,ital1282-std,concepticon-1451,16.251,sorridere,smile,sorridere
+clics-doculect-28-1224,ital1282-std,concepticon-1413,16.26,giocare,play,giocare
+clics-doculect-28-1225,ital1282-std,concepticon-923,16.27,amare,love,amare
+clics-doculect-28-1226,ital1282-std,concepticon-923,16.27,volerebene,love,volerebene
+clics-doculect-28-1227,ital1282-std,concepticon-578,16.29,baciare,kiss,baciare
+clics-doculect-28-1228,ital1282-std,concepticon-928,16.3,abbracciare,embrace,abbracciare
+clics-doculect-28-1229,ital1282-std,concepticon-1783,16.31,dolore,pain,dolore
+clics-doculect-28-1230,ital1282-std,concepticon-1668,16.32,dolore,"grief, sorrow, sadness",dolore
+clics-doculect-28-1231,ital1282-std,concepticon-1668,16.32,tristezza,"grief, sorrow, sadness",tristezza
+clics-doculect-28-1232,ital1282-std,concepticon-1000,16.33,ansia,"anxiety, worry",ansia
+clics-doculect-28-1233,ital1282-std,concepticon-1875,16.34,rammaricarsi,"regret, be sorry",rammaricarsi
+clics-doculect-28-1234,ital1282-std,concepticon-1141,16.35,compassione,pity,compassione
+clics-doculect-28-1235,ital1282-std,concepticon-1839,16.37,piangere,"cry, weep",piangere
+clics-doculect-28-1236,ital1282-std,concepticon-1651,16.38,lacrima,tear (noun),lacrima
+clics-doculect-28-1237,ital1282-std,concepticon-716,16.39,gemere,groan,gemere
+clics-doculect-28-1238,ital1282-std,concepticon-1607,16.41,odiare,hate,odiare
+clics-doculect-28-1239,ital1282-std,concepticon-82,16.42,rabbia,anger,rabbia
+clics-doculect-28-1240,ital1282-std,concepticon-40,16.44,invidia,"envy, jealousy",invidia
+clics-doculect-28-1241,ital1282-std,concepticon-40,16.44,gelosia,"envy, jealousy",gelosia
+clics-doculect-28-1242,ital1282-std,concepticon-1776,16.45,vergogna,shame (noun),vergogna
+clics-doculect-28-1243,ital1282-std,concepticon-174,16.48,fiero,proud,fiero
+clics-doculect-28-1244,ital1282-std,concepticon-174,16.48,orgoglioso,proud,orgoglioso
+clics-doculect-28-1245,ital1282-std,concepticon-1779,16.51,osare,dare,osare
+clics-doculect-28-1246,ital1282-std,concepticon-3,16.52,coraggioso,brave,coraggioso
+clics-doculect-28-1247,ital1282-std,concepticon-781,16.53,paura,"fear, fright",paura
+clics-doculect-28-1248,ital1282-std,concepticon-1810,16.54,pericolo,danger,pericolo
+clics-doculect-28-1249,ital1282-std,concepticon-1784,16.62,desiderare,"desire, want",desiderare
+clics-doculect-28-1250,ital1282-std,concepticon-1784,16.62,volere,"desire, want",volere
+clics-doculect-28-1251,ital1282-std,concepticon-1750,16.622,scegliere,choose,scegliere
+clics-doculect-28-1252,ital1282-std,concepticon-1092,16.63,sperare,hope,sperare
+clics-doculect-28-1253,ital1282-std,concepticon-100,16.65,fedele,faithful,fedele
+clics-doculect-28-1254,ital1282-std,concepticon-1657,16.66,vero,true,vero
+clics-doculect-28-1255,ital1282-std,concepticon-601,16.67,mentire,"lie, tell lies",mentire
+clics-doculect-28-1256,ital1282-std,concepticon-601,16.67,direbugie,"lie, tell lies",direbugie
+clics-doculect-28-1257,ital1282-std,concepticon-13,16.68,inganno,deceit,inganno
+clics-doculect-28-1258,ital1282-std,concepticon-1528,16.69,perdonare,forgive,perdonare
+clics-doculect-28-1259,ital1282-std,concepticon-1035,16.71,buono,good,buono
+clics-doculect-28-1260,ital1282-std,concepticon-1292,16.72,cattivo,bad,cattivo
+clics-doculect-28-1261,ital1282-std,concepticon-1725,16.73,giusto,"right, correct",giusto
+clics-doculect-28-1262,ital1282-std,concepticon-1725,16.73,esatto,"right, correct",esatto
+clics-doculect-28-1263,ital1282-std,concepticon-1390,16.74,sbagliato,wrong,sbagliato
+clics-doculect-28-1264,ital1282-std,concepticon-134,16.76,difetto,fault,difetto
+clics-doculect-28-1265,ital1282-std,concepticon-134,16.76,colpa,fault,colpa
+clics-doculect-28-1266,ital1282-std,concepticon-1293,16.77,errore,"mistake, error",errore
+clics-doculect-28-1267,ital1282-std,concepticon-381,16.78,colpa,blame,colpa
+clics-doculect-28-1268,ital1282-std,concepticon-1687,16.79,lode,praise,lode
+clics-doculect-28-1269,ital1282-std,concepticon-1687,16.79,lodare,praise,lodare
+clics-doculect-28-1270,ital1282-std,concepticon-1427,16.81,bello,beautiful,bello
+clics-doculect-28-1271,ital1282-std,concepticon-1548,16.82,brutto,ugly,brutto
+clics-doculect-28-1272,ital1282-std,concepticon-2018,16.83,goloso,greedy,goloso
+clics-doculect-28-1273,ital1282-std,concepticon-2018,16.83,ghiotto,greedy,ghiotto
+clics-doculect-28-1274,ital1282-std,concepticon-1310,16.84,intelligente,clever,intelligente
+clics-doculect-28-1275,ital1282-std,concepticon-1562,17.11,mente,mind,mente
+clics-doculect-28-1276,ital1282-std,concepticon-1562,17.11,pensiero,mind,pensiero
+clics-doculect-28-1277,ital1282-std,concepticon-1415,17.13,pensare,think (= reflect),pensare
+clics-doculect-28-1278,ital1282-std,concepticon-1513,17.14,credere,think (= be of the opinion),credere
+clics-doculect-28-1279,ital1282-std,concepticon-1513,17.14,pensare,think (= be of the opinion),pensare
+clics-doculect-28-1280,ital1282-std,concepticon-1890,17.15,credere,believe,credere
+clics-doculect-28-1281,ital1282-std,concepticon-1536,17.16,capire,understand,capire
+clics-doculect-28-1282,ital1282-std,concepticon-1410,17.17,sapere,know,sapere
+clics-doculect-28-1283,ital1282-std,concepticon-1932,17.171,indovinare,guess,indovinare
+clics-doculect-28-1284,ital1282-std,concepticon-117,17.172,imitare,imitate,imitare
+clics-doculect-28-1285,ital1282-std,concepticon-1521,17.18,sembrare,seem,sembrare
+clics-doculect-28-1286,ital1282-std,concepticon-1521,17.18,parere,seem,parere
+clics-doculect-28-1287,ital1282-std,concepticon-1609,17.19,idea,"idea, notion",idea
+clics-doculect-28-1288,ital1282-std,concepticon-1609,17.19,nozione,"idea, notion",nozione
+clics-doculect-28-1289,ital1282-std,concepticon-698,17.21,sapiente,wise,sapiente
+clics-doculect-28-1290,ital1282-std,concepticon-1518,17.22,scemo,"foolish, stupid",scemo
+clics-doculect-28-1291,ital1282-std,concepticon-1518,17.22,stupido,"foolish, stupid",stupido
+clics-doculect-28-1292,ital1282-std,concepticon-1899,17.23,pazzo,"insane, crazy",pazzo
+clics-doculect-28-1293,ital1282-std,concepticon-1899,17.23,matto,"insane, crazy",matto
+clics-doculect-28-1294,ital1282-std,concepticon-504,17.24,imparare,learn,imparare
+clics-doculect-28-1295,ital1282-std,concepticon-1929,17.242,studiare,study,studiare
+clics-doculect-28-1296,ital1282-std,concepticon-709,17.25,insegnare,teach,insegnare
+clics-doculect-28-1297,ital1282-std,concepticon-753,17.26,alunno,pupil,alunno
+clics-doculect-28-1298,ital1282-std,concepticon-753,17.26,allievo,pupil,allievo
+clics-doculect-28-1299,ital1282-std,concepticon-1038,17.27,professore,teacher,professore
+clics-doculect-28-1300,ital1282-std,concepticon-1038,17.27,insegnante,teacher,insegnante
+clics-doculect-28-1301,ital1282-std,concepticon-673,17.28,scuola,school,scuola
+clics-doculect-28-1302,ital1282-std,concepticon-707,17.31,ricordarsi,remember,ricordarsi
+clics-doculect-28-1303,ital1282-std,concepticon-1523,17.32,dimenticare,forget,dimenticare
+clics-doculect-28-1304,ital1282-std,concepticon-989,17.34,chiaro,"clear, plain",chiaro
+clics-doculect-28-1305,ital1282-std,concepticon-1764,17.35,oscuro,obscure,oscuro
+clics-doculect-28-1306,ital1282-std,concepticon-1121,17.36,segreto,secret,segreto
+clics-doculect-28-1307,ital1282-std,concepticon-509,17.37,sicuro,"sure, certain",sicuro
+clics-doculect-28-1308,ital1282-std,concepticon-509,17.37,certo,"sure, certain",certo
+clics-doculect-28-1309,ital1282-std,concepticon-1626,17.38,spiegare,explain,spiegare
+clics-doculect-28-1310,ital1282-std,concepticon-1162,17.41,scopo,"intention, purpose",scopo
+clics-doculect-28-1311,ital1282-std,concepticon-1162,17.41,fine,"intention, purpose",fine
+clics-doculect-28-1312,ital1282-std,concepticon-860,17.42,causare,cause,causare
+clics-doculect-28-1313,ital1282-std,concepticon-1308,17.43,dubitare,doubt,dubitare
+clics-doculect-28-1314,ital1282-std,concepticon-1841,17.44,sospettare,suspect,sospettare
+clics-doculect-28-1315,ital1282-std,concepticon-1902,17.441,tradire,betray,tradire
+clics-doculect-28-1316,ital1282-std,concepticon-643,17.45,bisogno,"need, necessity",bisogno
+clics-doculect-28-1317,ital1282-std,concepticon-686,17.46,facile,easy,facile
+clics-doculect-28-1318,ital1282-std,concepticon-584,17.47,difficile,difficult,difficile
+clics-doculect-28-1319,ital1282-std,concepticon-1812,17.48,cercaredi,"try, attempt",cercaredi
+clics-doculect-28-1320,ital1282-std,concepticon-488,17.49,modo,"way, manner",modo
+clics-doculect-28-1321,ital1282-std,concepticon-488,17.49,maniera,"way, manner",maniera
+clics-doculect-28-1322,ital1282-std,concepticon-1577,17.51,e,and,e
+clics-doculect-28-1323,ital1282-std,concepticon-1157,17.52,perché,because,perche
+clics-doculect-28-1324,ital1282-std,concepticon-1459,17.53,se,if,se
+clics-doculect-28-1325,ital1282-std,concepticon-1014,17.54,o,or,o
+clics-doculect-28-1326,ital1282-std,concepticon-1014,17.54,oppure,or,oppure
+clics-doculect-28-1327,ital1282-std,concepticon-1268,17.55,sì,"yes, affirmative",si
+clics-doculect-28-1328,ital1282-std,concepticon-1268,17.55,affermativo,"yes, affirmative",affermativo
+clics-doculect-28-1329,ital1282-std,concepticon-1269,17.56,no,"no, negative",no
+clics-doculect-28-1330,ital1282-std,concepticon-1269,17.56,negativo,"no, negative",negativo
+clics-doculect-28-1331,ital1282-std,concepticon-1239,17.61,come?,how?,come?
+clics-doculect-28-1332,ital1282-std,concepticon-822,17.62,quanti?,how many?,quanti?
+clics-doculect-28-1333,ital1282-std,concepticon-531,17.63,quanto?,how much?,quanto?
+clics-doculect-28-1334,ital1282-std,concepticon-1236,17.64,che?,what?,che?
+clics-doculect-28-1335,ital1282-std,concepticon-1236,17.64,checosa?,what?,checosa?
+clics-doculect-28-1336,ital1282-std,concepticon-1236,17.64,cosa?,what?,cosa?
+clics-doculect-28-1337,ital1282-std,concepticon-1238,17.65,quando?,when?,quando?
+clics-doculect-28-1338,ital1282-std,concepticon-1237,17.66,dove?,where?,dove?
+clics-doculect-28-1339,ital1282-std,concepticon-727,17.67,quale?,which?,quale?
+clics-doculect-28-1340,ital1282-std,concepticon-1235,17.68,chi?,who?,chi?
+clics-doculect-28-1341,ital1282-std,concepticon-1270,17.69,perché?,why?,perche?
+clics-doculect-28-1342,ital1282-std,concepticon-1363,18.11,voce,voice,voce
+clics-doculect-28-1343,ital1282-std,concepticon-1261,18.12,cantare,sing,cantare
+clics-doculect-28-1344,ital1282-std,concepticon-715,18.13,gridare,"shout, cry out",gridare
+clics-doculect-28-1345,ital1282-std,concepticon-55,18.15,bisbigliare,whisper,bisbigliare
+clics-doculect-28-1346,ital1282-std,concepticon-128,18.16,borbottare,mumble,borbottare
+clics-doculect-28-1347,ital1282-std,concepticon-1025,18.17,fischiare,whistle,fischiare
+clics-doculect-28-1348,ital1282-std,concepticon-1025,18.17,zufolare,whistle,zufolare
+clics-doculect-28-1349,ital1282-std,concepticon-298,18.18,strillare,"shriek, screech",strillare
+clics-doculect-28-1350,ital1282-std,concepticon-526,18.19,urlare,howl,urlare
+clics-doculect-28-1351,ital1282-std,concepticon-1623,18.21,parlare,"speak, talk",parlare
+clics-doculect-28-1352,ital1282-std,concepticon-1866,18.211,balbuziare,"stutter, stammer",balbuziare
+clics-doculect-28-1353,ital1282-std,concepticon-1458,18.22,dire,say,dire
+clics-doculect-28-1354,ital1282-std,concepticon-1711,18.221,raccontare,tell story,raccontare
+clics-doculect-28-1355,ital1282-std,concepticon-1115,18.222,fareundiscorso,speech (make a),fareundiscorso
+clics-doculect-28-1356,ital1282-std,concepticon-48,18.23,tacere,silent (be),tacere
+clics-doculect-28-1357,ital1282-std,concepticon-48,18.23,rimanerezitto,silent (be),rimanerezitto
+clics-doculect-28-1358,ital1282-std,concepticon-1307,18.24,lingua,language,lingua
+clics-doculect-28-1359,ital1282-std,concepticon-1599,18.26,parola,word,parola
+clics-doculect-28-1360,ital1282-std,concepticon-1405,18.28,nome,name,nome
+clics-doculect-28-1361,ital1282-std,concepticon-1309,18.31,domandare,"ask (question, inquire)",domandare
+clics-doculect-28-1362,ital1282-std,concepticon-1309,18.31,chiedere,"ask (question, inquire)",chiedere
+clics-doculect-28-1363,ital1282-std,concepticon-1275,18.32,rispondere,answer,rispondere
+clics-doculect-28-1364,ital1282-std,concepticon-2022,18.33,ammettere,"admit, confess",ammettere
+clics-doculect-28-1365,ital1282-std,concepticon-2022,18.33,confessare,"admit, confess",confessare
+clics-doculect-28-1366,ital1282-std,concepticon-755,18.34,negare,deny,negare
+clics-doculect-28-1367,ital1282-std,concepticon-1828,18.35,chiedere,"ask, request",chiedere
+clics-doculect-28-1368,ital1282-std,concepticon-1675,18.36,promettere,promise,promettere
+clics-doculect-28-1369,ital1282-std,concepticon-49,18.37,respingere,refuse,respingere
+clics-doculect-28-1370,ital1282-std,concepticon-83,18.38,vietare,forbid,vietare
+clics-doculect-28-1371,ital1282-std,concepticon-299,18.39,rimproverare,"rebuke, scold",rimproverare
+clics-doculect-28-1372,ital1282-std,concepticon-1084,18.41,chiamare,call (=summon),chiamare
+clics-doculect-28-1373,ital1282-std,concepticon-180,18.42,chiamare,call (=name),chiamare
+clics-doculect-28-1374,ital1282-std,concepticon-9,18.43,annunciare,announce,annunciare
+clics-doculect-28-1375,ital1282-std,concepticon-1192,18.44,minacciare,threaten,minacciare
+clics-doculect-28-1376,ital1282-std,concepticon-101,18.45,vantarsi,boast,vantarsi
+clics-doculect-28-1377,ital1282-std,concepticon-1672,18.51,scrivere,write,scrivere
+clics-doculect-28-1378,ital1282-std,concepticon-724,18.52,leggere,read,leggere
+clics-doculect-28-1379,ital1282-std,concepticon-648,18.56,carta,paper,carta
+clics-doculect-28-1380,ital1282-std,concepticon-794,18.57,penna,pen,penna
+clics-doculect-28-1381,ital1282-std,concepticon-963,18.61,libro,book,libro
+clics-doculect-28-1383,ital1282-std,concepticon-777,18.71,flauto,flute,flauto
+clics-doculect-28-1384,ital1282-std,concepticon-908,18.72,tamburo,drum,tamburo
+clics-doculect-28-1385,ital1282-std,concepticon-2136,18.73,corno,"horn, trumpet",corno
+clics-doculect-28-1386,ital1282-std,concepticon-2136,18.73,tromba,"horn, trumpet",tromba
+clics-doculect-28-1387,ital1282-std,concepticon-300,18.74,sonaglio,rattle,sonaglio
+clics-doculect-28-1388,ital1282-std,concepticon-1300,19.11,paese,country,paese
+clics-doculect-28-1389,ital1282-std,concepticon-89,19.12,patria,one's native country,patria
+clics-doculect-28-1390,ital1282-std,concepticon-1391,19.15,città,"city, town",citta
+clics-doculect-28-1391,ital1282-std,concepticon-930,19.16,paese,village,paese
+clics-doculect-28-1392,ital1282-std,concepticon-1010,19.17,confine,boundary,confine
+clics-doculect-28-1393,ital1282-std,concepticon-1010,19.17,frontiera,boundary,frontiera
+clics-doculect-28-1394,ital1282-std,concepticon-789,19.21,popolo,people (populace),popolo
+clics-doculect-28-1395,ital1282-std,concepticon-789,19.21,gente,people (populace),gente
+clics-doculect-28-1396,ital1282-std,concepticon-302,19.23,tribù,"tribe, clan",tribu
+clics-doculect-28-1397,ital1282-std,concepticon-302,19.23,clan,"tribe, clan",clan
+clics-doculect-28-1398,ital1282-std,concepticon-301,19.24,capo,"chief, chieftain",capo
+clics-doculect-28-1399,ital1282-std,concepticon-1296,19.25,bastone,"staff, walking stick",bastone
+clics-doculect-28-1400,ital1282-std,concepticon-1846,19.31,dominare,"rule, govern",dominare
+clics-doculect-28-1401,ital1282-std,concepticon-1846,19.31,governare,"rule, govern",governare
+clics-doculect-28-1402,ital1282-std,concepticon-1508,19.32,re,"king, ruler",re
+clics-doculect-28-1403,ital1282-std,concepticon-1508,19.32,sovrano,"king, ruler",sovrano
+clics-doculect-28-1404,ital1282-std,concepticon-1306,19.33,regina,queen,regina
+clics-doculect-28-1405,ital1282-std,concepticon-482,19.36,nobile,"noble, nobleman",nobile
+clics-doculect-28-1406,ital1282-std,concepticon-1032,19.37,cittadino,"citizen, subject",cittadino
+clics-doculect-28-1407,ital1282-std,concepticon-1032,19.37,soggetto,"citizen, subject",soggetto
+clics-doculect-28-1408,ital1282-std,concepticon-383,19.41,padrone,master,padrone
+clics-doculect-28-1409,ital1282-std,concepticon-812,19.42,schiavo,slave,schiavo
+clics-doculect-28-1410,ital1282-std,concepticon-255,19.43,servo,servant,servo
+clics-doculect-28-1411,ital1282-std,concepticon-384,19.44,uomolibero,freeman,uomolibero
+clics-doculect-28-1412,ital1282-std,concepticon-1128,19.45,comandare,"command, order",comandare
+clics-doculect-28-1413,ital1282-std,concepticon-1128,19.45,ordinare,"command, order",ordinare
+clics-doculect-28-1414,ital1282-std,concepticon-1635,19.46,obbedire,obey,obbedire
+clics-doculect-28-1415,ital1282-std,concepticon-1003,19.47,permettere,"let, permit",permettere
+clics-doculect-28-1416,ital1282-std,concepticon-1003,19.47,concedere,"let, permit",concedere
+clics-doculect-28-1417,ital1282-std,concepticon-1325,19.51,amico,"friend, companion",amico
+clics-doculect-28-1418,ital1282-std,concepticon-1325,19.51,compagno,"friend, companion",compagno
+clics-doculect-28-1419,ital1282-std,concepticon-1358,19.52,nemico,enemy,nemico
+clics-doculect-28-1420,ital1282-std,concepticon-1332,19.54,vicino,neighbor,vicino
+clics-doculect-28-1421,ital1282-std,concepticon-791,19.55,forestiero,stranger,forestiero
+clics-doculect-28-1422,ital1282-std,concepticon-1782,19.56,invitato,guest,invitato
+clics-doculect-28-1423,ital1282-std,concepticon-1782,19.56,ospite,guest,ospite
+clics-doculect-28-1424,ital1282-std,concepticon-1545,19.57,ospite,host,ospite
+clics-doculect-28-1425,ital1282-std,concepticon-1897,19.58,aiutare,"help, aid",aiutare
+clics-doculect-28-1426,ital1282-std,concepticon-1550,19.59,impedire,"hinder, prevent",impedire
+clics-doculect-28-1427,ital1282-std,concepticon-1747,19.61,costume,custom,costume
+clics-doculect-28-1428,ital1282-std,concepticon-1747,19.61,usanza,custom,usanza
+clics-doculect-28-1429,ital1282-std,concepticon-1848,19.62,lotta,"strife, quarrel",lotta
+clics-doculect-28-1430,ital1282-std,concepticon-1848,19.62,lite,"strife, quarrel",lite
+clics-doculect-28-1431,ital1282-std,concepticon-2024,19.63,cospirazione,"conspiracy, plot",cospirazione
+clics-doculect-28-1432,ital1282-std,concepticon-2024,19.63,complotto,"conspiracy, plot",complotto
+clics-doculect-28-1433,ital1282-std,concepticon-1831,19.65,incontrare,meet,incontrare
+clics-doculect-28-1434,ital1282-std,concepticon-1610,19.72,prostituta,prostitute,prostituta
+clics-doculect-28-1435,ital1282-std,concepticon-1610,19.72,puttana,prostitute,puttana
+clics-doculect-28-1436,ital1282-std,concepticon-1423,20.11,combattere,fight (vb),combattere
+clics-doculect-28-1437,ital1282-std,concepticon-1423,20.11,lottare,fight (vb),lottare
+clics-doculect-28-1438,ital1282-std,concepticon-579,20.13,guerra,"war, battle",guerra
+clics-doculect-28-1439,ital1282-std,concepticon-579,20.13,battaglia,"war, battle",battaglia
+clics-doculect-28-1440,ital1282-std,concepticon-1338,20.14,pace,peace,pace
+clics-doculect-28-1441,ital1282-std,concepticon-1561,20.15,esercito,army,esercito
+clics-doculect-28-1442,ital1282-std,concepticon-1941,20.17,soldato,soldier,soldato
+clics-doculect-28-1443,ital1282-std,concepticon-1941,20.17,militare,soldier,militare
+clics-doculect-28-1444,ital1282-std,concepticon-951,20.21,armi,"weapons, arms",armi
+clics-doculect-28-1445,ital1282-std,concepticon-1763,20.22,mazza,club,mazza
+clics-doculect-28-1446,ital1282-std,concepticon-386,20.222,azza,battle-ax,azza
+clics-doculect-28-1447,ital1282-std,concepticon-387,20.23,fionda,sling,fionda
+clics-doculect-28-1448,ital1282-std,concepticon-994,20.24,arco,bow,arco
+clics-doculect-28-1449,ital1282-std,concepticon-977,20.25,freccia,arrow,freccia
+clics-doculect-28-1450,ital1282-std,concepticon-945,20.26,lancia,spear,lancia
+clics-doculect-28-1451,ital1282-std,concepticon-1535,20.27,spada,sword,spada
+clics-doculect-28-1452,ital1282-std,concepticon-1566,20.28,pistola,"gun, cannon",pistola
+clics-doculect-28-1453,ital1282-std,concepticon-1566,20.28,cannone,"gun, cannon",cannone
+clics-doculect-28-1454,ital1282-std,concepticon-1061,20.31,armatura,armor (defensive),armatura
+clics-doculect-28-1455,ital1282-std,concepticon-1680,20.33,elmo,helmet,elmo
+clics-doculect-28-1456,ital1282-std,concepticon-1064,20.34,scudo,shield,scudo
+clics-doculect-28-1457,ital1282-std,concepticon-1938,20.35,fortezza,fortress,fortezza
+clics-doculect-28-1458,ital1282-std,concepticon-1938,20.35,caposaldo,fortress,caposaldo
+clics-doculect-28-1459,ital1282-std,concepticon-1671,20.36,torre,tower,torre
+clics-doculect-28-1460,ital1282-std,concepticon-783,20.41,vittoria,victory,vittoria
+clics-doculect-28-1461,ital1282-std,concepticon-782,20.42,sconfitta,defeat,sconfitta
+clics-doculect-28-1462,ital1282-std,concepticon-722,20.43,aggredire,attack,aggredire
+clics-doculect-28-1463,ital1282-std,concepticon-1330,20.44,difendere,defend,difendere
+clics-doculect-28-1464,ital1282-std,concepticon-421,20.45,ritirarsi,retreat,ritirarsi
+clics-doculect-28-1465,ital1282-std,concepticon-1696,20.46,arrendersi,surrender,arrendersi
+clics-doculect-28-1466,ital1282-std,concepticon-1072,20.47,prigioniero,"captive, prisoner",prigioniero
+clics-doculect-28-1467,ital1282-std,concepticon-1940,20.471,guardia,"guard, sentinel",guardia
+clics-doculect-28-1468,ital1282-std,concepticon-1940,20.471,sentinella,"guard, sentinel",sentinella
+clics-doculect-28-1469,ital1282-std,concepticon-1022,20.48,bottino,"booty, spoils",bottino
+clics-doculect-28-1470,ital1282-std,concepticon-65,20.49,imboscata,ambush,imboscata
+clics-doculect-28-1471,ital1282-std,concepticon-1858,20.51,pescatore,fisherman,pescatore
+clics-doculect-28-1472,ital1282-std,concepticon-1074,20.52,amo,fishhook,amo
+clics-doculect-28-1473,ital1282-std,concepticon-19,20.53,lenza,fishing line,lenza
+clics-doculect-28-1474,ital1282-std,concepticon-388,20.54,retedapesca,fishnet,retedapesca
+clics-doculect-28-1475,ital1282-std,concepticon-389,20.55,nassa,fish trap,nassa
+clics-doculect-28-1476,ital1282-std,concepticon-2013,20.56,esca,bait,esca
+clics-doculect-28-1477,ital1282-std,concepticon-1435,20.61,cacciare,hunt,cacciare
+clics-doculect-28-1478,ital1282-std,concepticon-1172,20.62,sparare,shoot,sparare
+clics-doculect-28-1479,ital1282-std,concepticon-161,20.63,mancare,miss (target),mancare
+clics-doculect-28-1480,ital1282-std,concepticon-1075,20.64,trappola,trap (noun),trappola
+clics-doculect-28-1481,ital1282-std,concepticon-1170,20.65,prendereintrappola,trap (vb),prendereintrappola
+clics-doculect-28-1482,ital1282-std,concepticon-1170,20.65,intrappolare,trap (vb),intrappolare
+clics-doculect-28-1483,ital1282-std,concepticon-1062,21.11,legge,law,legge
+clics-doculect-28-1484,ital1282-std,concepticon-1068,21.15,tribunale,court,tribunale
+clics-doculect-28-1485,ital1282-std,concepticon-1818,21.16,giudicare,judge (vb),giudicare
+clics-doculect-28-1486,ital1282-std,concepticon-1067,21.17,giudizio,judgment,giudizio
+clics-doculect-28-1487,ital1282-std,concepticon-861,21.18,giudice,judge (noun),giudice
+clics-doculect-28-1488,ital1282-std,concepticon-2020,21.21,attore,plaintiff,attore
+clics-doculect-28-1489,ital1282-std,concepticon-1034,21.22,imputato,defendant,imputato
+clics-doculect-28-1490,ital1282-std,concepticon-1144,21.23,testimone,witness,testimone
+clics-doculect-28-1491,ital1282-std,concepticon-1939,21.24,giurare,swear,giurare
+clics-doculect-28-1492,ital1282-std,concepticon-1712,21.25,giuramento,oath,giuramento
+clics-doculect-28-1493,ital1282-std,concepticon-1814,21.31,accusare,accuse,accusare
+clics-doculect-28-1494,ital1282-std,concepticon-1814,21.31,denunciare,accuse,denunciare
+clics-doculect-28-1495,ital1282-std,concepticon-484,21.32,condannare,condemn,condannare
+clics-doculect-28-1496,ital1282-std,concepticon-983,21.33,condannare,convict (vb),condannare
+clics-doculect-28-1497,ital1282-std,concepticon-988,21.34,assolvere,acquit,assolvere
+clics-doculect-28-1498,ital1282-std,concepticon-1682,21.35,colpevole,guilty,colpevole
+clics-doculect-28-1499,ital1282-std,concepticon-90,21.36,innocente,innocent,innocente
+clics-doculect-28-1500,ital1282-std,concepticon-390,21.37,punizione,"penalty, punishment",punizione
+clics-doculect-28-1501,ital1282-std,concepticon-390,21.37,castigo,"penalty, punishment",castigo
+clics-doculect-28-1502,ital1282-std,concepticon-218,21.38,multa,fine,multa
+clics-doculect-28-1503,ital1282-std,concepticon-1281,21.39,carcere,"prison, jail",carcere
+clics-doculect-28-1504,ital1282-std,concepticon-845,21.42,assassinio,murder,assassinio
+clics-doculect-28-1505,ital1282-std,concepticon-845,21.42,omcidio,murder,omcidio
+clics-doculect-28-1506,ital1282-std,concepticon-902,21.43,adulterio,adultery,adulterio
+clics-doculect-28-1507,ital1282-std,concepticon-953,21.44,stupro,rape,stupro
+clics-doculect-28-1508,ital1282-std,concepticon-953,21.44,violenzacarnale,rape,violenzacarnale
+clics-doculect-28-1509,ital1282-std,concepticon-1889,21.46,incendiodoloso,arson,incendiodoloso
+clics-doculect-28-1510,ital1282-std,concepticon-1792,21.47,spergiuro,perjury,spergiuro
+clics-doculect-28-1511,ital1282-std,concepticon-713,21.51,rubare,steal,rubare
+clics-doculect-28-1512,ital1282-std,concepticon-1160,21.52,ladro,thief,ladro

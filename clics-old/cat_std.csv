@@ -1,0 +1,1521 @@
+@classification: Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Ibero-Romance,East Iberian
+@ids-name: Catalan_StandardOrth
+@iso: cat
+@language: Catalan-Valencian-Balear
+@size: 1514
+@source: ids
+@variety: std
+1.1	world	món
+1.21	earth, land	terra
+1.212	earth=ground, soil	sòl
+1.212	earth=ground, soil	terra
+1.213	dust	pols
+1.214	mud	llot
+1.214	mud	fang
+1.215	sand	sorra
+1.22	mountain, hill	muntanya
+1.22	mountain, hill	puig
+1.22	mountain, hill	turó
+1.22	mountain, hill	pujol
+1.222	cliff, precipice	precipici
+1.222	cliff, precipice	penyasegat
+1.23	plain, field	pla
+1.23	plain, field	plana
+1.23	plain, field	camp
+1.24	valley	vall
+1.25	island	illa
+1.26	mainland	continent
+1.27	shore	litoral
+1.27	shore	riba
+1.27	shore	costa
+1.28	cave	cova
+1.31	water	aigua
+1.32	sea	mar
+1.322	calm (of sea)	calma
+1.323	rough (of sea)	agitat
+1.324	foam	escuma
+1.329	ocean	oceà
+1.33	lake	llac
+1.34	gulf, bay	golf
+1.34	gulf, bay	badia
+1.341	lagoon	llacuna
+1.342	reef	escull
+1.343	headland, point	punta
+1.343	headland, point	promontori
+1.35	wave	onada
+1.352	tide	marea
+1.353	lowtide	mareabaixa
+1.354	hightide	mareaaltariu
+1.36	river, stream, brook	riu
+1.36	river, stream, brook	corrent
+1.36	river, stream, brook	riarol
+1.362	whirlpool	remolí
+1.37	spring, well	manantial
+1.37	spring, well	pou
+1.38	swamp	pantà
+1.39	waterfall	saltd'aigua
+1.39	waterfall	cascada
+1.41	woods, forest	selva
+1.41	woods, forest	bosc
+1.42	tree (cf 08.600)	arbre
+1.43	wood	fusta
+1.44	stone, rock	pedra
+1.44	stone, rock	roca
+1.45	earthquake	terratrèmol
+1.51	sky	cel
+1.52	sun	sol
+1.53	moon	lluna
+1.54	star	estrella
+1.55	lightning	llampec
+1.56	thunder	tro
+1.57	lightning (as striking)	llampec
+1.57	lightning (as striking)	llamp
+1.58	storm	tempesta
+1.58	storm	tormenta
+1.59	rainbow	arcdeSantMartí
+1.61	light (noun)	llum
+1.62	darkness	foscor
+1.62	darkness	tenebra
+1.63	shade, shadow	ombra
+1.64	dew	rosada
+1.71	air	aire
+1.72	wind	vent
+1.73	cloud	núvol
+1.74	fog	boira
+1.75	rain (noun)	pluja
+1.76	snow (noun)	neu
+1.77	ice	gel
+1.78	weather	temps
+1.81	fire	foc
+1.82	flame (noun)	flama
+1.83	smoke (noun)	fum
+1.84	ashes	cendra
+1.841	embers	brases
+1.851	burn (vb trans)	cremar
+1.852	burn (vb intrans)	cremarse
+1.86	light, kindle, ignite	encendre
+1.861	extinguish	apagar
+1.87	match (noun)	llumí
+1.88	firewood	llenya
+1.89	charcoal	carbó
+2.1	person, human being	persona
+2.1	person, human being	ésserhumà
+2.21	man (vs. woman)	home
+2.22	woman	dona
+2.23	male	mascle
+2.24	female	femella
+2.25	boy	noi
+2.25	boy	nano
+2.251	young man (adolescent)	noijove
+2.251	young man (adolescent)	adolescent
+2.26	girl	noia
+2.261	young woman (adolescent)	noiajove
+2.261	young woman (adolescent)	adolescent
+2.27	child	nen
+2.28	infant, baby	nen
+2.28	infant, baby	bebè
+2.28	infant, baby	infant
+2.31	husband	marit
+2.31	husband	espòs
+2.32	wife	muller
+2.32	wife	esposa
+2.33	marry	casarse
+2.34	marriage, wedding	casament
+2.34	marriage, wedding	boda
+2.341	divorce	divorci
+2.35	father	pare
+2.36	mother	mare
+2.37	parents	pares
+2.38	married man	homecasat
+2.39	married woman	donacasada
+2.41	son	fill
+2.42	daughter	filla
+2.43	offspring (son or daughter)	fill
+2.43	offspring (son or daughter)	filla
+2.44	brother	germà
+2.444	older brother	germàgran
+2.445	younger brother	germàpetit
+2.45	sister	germana
+2.454	older sister	germanagran
+2.455	younger sister	germanapetita
+2.456	sibling	germà
+2.456	sibling	germana
+2.458	twins	bessons
+2.46	grandfather	avi
+2.461	old man	homevell
+2.461	old man	senyorgran
+2.47	grandmother	àvia
+2.471	old woman	donavella
+2.471	old woman	senyoragran
+2.48	grandson	nét
+2.49	granddaughter	néta
+2.51	uncle	oncle
+2.511	mother's brother	germàdelamare
+2.512	father's brother	germàdelpare
+2.52	aunt	tia
+2.521	mother's sister	germanadelamare
+2.522	father's sister	germanadelpare
+2.53	nephew	nebot
+2.54	niece	neboda
+2.55	cousin	cosí
+2.55	cousin	cosina
+2.56	ancestors	avantpassats
+2.57	descendants	descendents
+2.61	father-in-law (of a man)	sogred'unhome
+2.611	father-in-law (of a woman)	sogred'unadona
+2.62	mother-in-law (of a man)	sograd'unhome
+2.621	mother-in-law (of a woman)	sograd'unadona
+2.63	son-in-law (of a man)	gendred'unhome
+2.631	son-in-law (of a woman)	gendred'unadona
+2.64	daughter-in-law (of a man)	joved'unhome
+2.64	daughter-in-law (of a man)	norad'unhome
+2.641	daughter-in-law (of a woman)	joved'unadona
+2.641	daughter-in-law (of a woman)	norad'unadona
+2.71	stepfather	padrastre
+2.72	stepmother	madrastra
+2.73	stepson	fillastre
+2.74	stepdaughter	fillastra
+2.75	orphan	orfe
+2.75	orphan	òrfena
+2.76	widow	vídua
+2.77	widower	vidu
+2.81	relatives, kinsmen	parents
+2.82	family	família
+2.91	I	jo
+2.92	you (singular)	tu
+2.92	you (singular)	vostè
+2.93	he/she/it	ell
+2.93	he/she/it	ella
+2.93	he/she/it	allò
+2.94	we	nosaltres
+2.941	we (inclusive)	nosaltres
+2.942	we (exclusive)	nosaltres
+2.95	you (plural)	vosaltres
+2.96	they	ells
+2.96	they	elles
+3.11	animal	animal
+3.12	male (adj)	mascle
+3.13	female (adj)	femella
+3.15	livestock	bestiar
+3.16	pasture	pastura
+3.18	herdsman	pastor
+3.19	stable, stall	estable
+3.2	cattle (bovine)	bestiar
+3.21	bull	brau
+3.22	ox	bou
+3.23	cow	vaca
+3.24	calf	vedell
+3.25	sheep	ovella
+3.26	ram	marrà
+3.28	ewe	ovella
+3.29	lamb	anyell
+3.32	boar	porcsenglar
+3.34	sow	truja
+3.35	pig	porc
+3.36	goat	cabra
+3.37	he-goat	cabró
+3.38	kid	cabrit
+3.41	horse (equine)	cavall
+3.42	stallion	semental
+3.42	stallion	cavall
+3.44	mare	euga
+3.45	foal, colt	poltre
+3.46	ass, donkey	ase
+3.46	ass, donkey	burro
+3.47	mule	mula
+3.5	fowl	au
+3.52	cock, rooster	gall
+3.54	hen	gallina
+3.55	chicken	pollastre
+3.56	goose	oca
+3.57	duck	ànec
+3.58	nest	niu
+3.581	bird	ocell
+3.582	seagull	gavina
+3.583	heron	bernatpescaire
+3.584	eagle	àliga
+3.585	hawk	falcó
+3.586	vulture	voltor
+3.591	bat	ratpenat
+3.592	parrot	lloro
+3.593	crow	corb
+3.594	dove	colom
+3.596	owl	mussol
+3.61	dog	gos
+3.614	rabbit	conill
+3.62	cat	gat
+3.622	opossum	opòssum
+3.63	mouse, rat	ratolí
+3.63	mouse, rat	rata
+3.65	fish	peix
+3.652	fin (dorsal)	aleta
+3.653	fishscale	escata
+3.654	gill	ganya
+3.655	shell	closca
+3.655	shell	clofolla
+3.655	shell	petxina
+3.661	shark	tauró
+3.662	porpoise, dolphin	dolfí
+3.663	whale	balena
+3.664	stingray	escurçada
+3.664	stingray	ferrassa
+3.664	stingray	milà
+3.665	freshwater eel	anguilad'aiguadolça
+3.71	wolf	llop
+3.72	lion	lleó
+3.73	bear	ós
+3.74	fox	guineu
+3.75	deer	cèrvol
+3.76	monkey	mono
+3.77	elephant	elefant
+3.78	camel	camell
+3.81	insect	insecte
+3.811	louse	poll
+3.812	nit (louse egg)	llémena
+3.813	flea	puça
+3.814	centipede	centpeus
+3.815	scorpion	escorpí
+3.816	cockroach	escarabat
+3.817	ant	formiga
+3.818	spider	aranya
+3.819	spider web	teranyina
+3.82	bee	abella
+3.821	beeswax	cerad'abella
+3.822	beehive	rusc
+3.823	wasp	vespa
+3.83	fly	mosca
+3.831	sandfly (midge), gnat	mosquit
+3.831	sandfly (midge), gnat	cuïc
+3.831	sandfly (midge), gnat	marfull
+3.831	sandfly (midge), gnat	rantell
+3.831	sandfly (midge), gnat	moscard
+3.832	mosquito	mosquit
+3.84	worm	cuc
+3.85	snake	serp
+3.91	firefly	lluerna
+3.91	firefly	cucadellum
+3.92	butterfly	papallona
+3.93	grasshopper	llagosta
+3.94	snail	cargol
+3.95	frog	granota
+3.96	lizard	llangardaix
+3.97	crocodile, alligator	cocodril
+3.98	turtle	tortuga
+4.11	body	cos
+4.12	skin, hide	pell
+4.13	flesh	carn
+4.14	hair (head)	cabell
+4.142	beard	barba
+4.144	body hair	pèl
+4.145	pubic hair	pèlpúbic
+4.146	dandruff	caspa
+4.15	blood	sang
+4.151	vein, artery	vena
+4.151	vein, artery	artèria
+4.16	bone	os
+4.162	rib	costella
+4.17	horn	banya
+4.18	tail	cua
+4.19	back	esquena
+4.191	spine	espinada
+4.2	head	cap
+4.201	side of head, temple	temple
+4.202	skull	crani
+4.202	skull	calavera
+4.203	brain	cervell
+4.204	face	cara
+4.205	forehead	front
+4.207	jaw	mandíbula
+4.208	cheek	galta
+4.209	chin	barbeta
+4.21	eye	ull
+4.212	eyebrow	cella
+4.213	eyelid	parpell
+4.214	eyelash	pestanya
+4.215	blink	parpellejar
+4.22	ear	orella
+4.221	earlobe	lòbul
+4.222	earwax	cera
+4.23	nose	nas
+4.231	nostril	foratdelnas
+4.231	nostril	nariu
+4.232	mucus (nasal)	mocs
+4.24	mouth	boca
+4.241	beak	bec
+4.25	lip	llavi
+4.26	tongue	llengua
+4.27	tooth	dent
+4.271	gums	genives
+4.272	molartooth	queixal
+4.28	neck	coll
+4.281	nape of neck	clatell
+4.29	throat	gola
+4.3	shoulder	espatlla
+4.301	shoulderblade	omòplat
+4.302	collarbone	clavícula
+4.31	arm	braç
+4.312	armpit	aixella
+4.32	elbow	colze
+4.321	wrist	canyell
+4.33	hand	mà
+4.331	palm of hand	palmadelamà
+4.34	finger	dit
+4.342	thumb	polze
+4.342	thumb	ditgros
+4.344	fingernail	ungla
+4.345	claw	urpa
+4.35	leg	cama
+4.351	thigh	cuixa
+4.352	calf of leg	panxell
+4.36	knee	genoll
+4.37	foot	peu
+4.371	ankle	turmell
+4.372	heel	taló
+4.374	footprint	petjada
+4.38	toe	ditdelpeu
+4.392	wing	ala
+4.393	feather	pluma
+4.4	chest	pit
+4.41	breast (of woman)	pit
+4.412	nipple, teat	mugró
+4.412	nipple, teat	tetina
+4.42	udder	mamella
+4.43	navel	melic
+4.44	heart	cor
+4.441	lung	pulmó
+4.45	liver	fetge
+4.451	kidney	ronyó
+4.452	spleen	braç
+4.46	stomach	estómac
+4.461	intestines, guts	intestins
+4.462	waist	cintura
+4.463	hip	cadera
+4.463	hip	maluc
+4.464	buttocks	natja
+4.47	womb	matriu
+4.49	testicle	testicle
+4.492	penis	penis
+4.51	breathe, breath	respirar
+4.51	breathe, breath	alè
+4.52	yawn, gape	badallar
+4.521	hiccough	singlot
+4.53	cough	tossir
+4.54	sneeze	esternudar
+4.55	perspire	suar
+4.56	spit	escopir
+4.57	vomit	vomitar
+4.58	bite	mossegar
+4.59	lick	llepar
+4.591	dribble	gotejar
+4.61	sleep	dormir
+4.612	snore	roncar
+4.62	dream	somiar
+4.63	wake up	despertarse
+4.64	break wind	flato
+4.65	urinate	orinar
+4.66	defecate	defecar
+4.67	have sexual intercourse	ferl'amor
+4.67	have sexual intercourse	tenirrelacionssexuals
+4.68	shiver	tremolar
+4.69	bathe	banyarse
+4.71	beget (of father)	engendrar
+4.72	born (to be)	néixer
+4.72	born (to be)	nascut
+4.73	pregnant	prenyada
+4.73	pregnant	embarassada
+4.73	pregnant	enestat
+4.732	conceive	concebre
+4.74	live, living, life	viure
+4.74	live, living, life	vida
+4.75	die, dead	morir
+4.75	die, dead	mort
+4.751	drowned	ofegat
+4.76	kill	matar
+4.77	corpse	cadàver
+4.78	bury (the dead)	enterrar
+4.79	grave, tomb	tomba
+4.81	strong, mighty, powerful	fort
+4.81	strong, mighty, powerful	poderós
+4.82	weak	dèbil
+4.83	well, health	sà
+4.83	well, health	salut
+4.84	sick, sickness	malalt
+4.84	sick, sickness	malaltia
+4.841	fever	febre
+4.842	goiter	gota
+4.843	cold (catarrh)	refredat
+4.843	cold (catarrh)	constipat
+4.85	wound, sore	ferida
+4.85	wound, sore	llaga
+4.852	bruise	contusió
+4.853	swelling	inflamor
+4.854	itch	sarna
+4.855	blister	butllofa
+4.856	boil (noun)	furóncol
+4.857	pus	pus
+4.858	scar	cicatriu
+4.86	cure, heal	curar
+4.87	physician	doctor
+4.87	physician	metge
+4.88	medicine, drug	medecina
+4.89	poison	verí
+4.91	tired, weary	cansat
+4.912	rest	descansar
+4.92	lazy	mandrós
+4.93	bald	calb
+4.94	lame	coix
+4.94	lame	esguerrat
+4.95	deaf	sord
+4.96	mute	mut
+4.97	blind	cec
+4.98	intoxicated	ebri
+4.99	naked, bare	despullat
+4.99	naked, bare	nu
+5.11	eat	menjar
+5.12	food	menjar
+5.121	cooked	cuit
+5.122	raw	cru
+5.123	ripe	madur
+5.124	green, unripe	verd
+5.124	green, unripe	immadur
+5.125	rotten	podrit
+5.13	drink	beure
+5.14	hunger	gana
+5.141	famine	fam
+5.15	thirst	set
+5.16	suck	xuclar
+5.18	chew	mastegar
+5.181	swallow	empassarse
+5.19	choke	sofocarse
+5.19	choke	ennuegarse
+5.21	cook	cuinar
+5.22	boil (vb)	bullir
+5.23	roast, fry	rostir
+5.23	roast, fry	fregir
+5.24	bake	cuinaralforn
+5.25	oven	forn
+5.26	pot, cooking vessel	cassola
+5.26	pot, cooking vessel	olla
+5.27	kettle	bullidor
+5.28	pan	cassola
+5.31	dish	plat
+5.32	plate	plat
+5.33	bowl	bol
+5.34	pitcher, jug	gerro
+5.34	pitcher, jug	gerra
+5.35	cup, drinking vessel	tassa
+5.36	saucer	platet
+5.37	spoon	cullera
+5.38	knife	ganivet
+5.39	fork	forquilla
+5.391	tongs	pinces
+5.41	meal (a)	menjar
+5.42	breakfast	esmorzar
+5.43	lunch	dinar
+5.44	dinner	sopar
+5.45	supper	sopar
+5.46	peel	pelar
+5.47	sieve, strain	escórrer
+5.48	scrape	gratar
+5.49	stir, mix	remenar
+5.49	stir, mix	barrejar
+5.51	bread	pa
+5.53	dough	massa
+5.54	knead	pastar
+5.55	meal, flour	farina
+5.56	crush, grind	aixafar
+5.56	crush, grind	moldre
+5.57	mill	molí
+5.58	mortar	morter
+5.59	pestle	màdemorter
+5.61	meat	carn
+5.63	sausage	salsitxa
+5.64	soup, broth	sopa
+5.64	soup, broth	brou
+5.65	vegetables	llegums
+5.66	bean	fava
+5.7	potato	patata
+5.71	fruit	fruita
+5.712	bunch	manat
+5.75	fig	figa
+5.76	grape	raïm
+5.77	nut	nou
+5.78	olive	oliva
+5.79	oil	oli
+5.791	grease, fat	grassa
+5.791	grease, fat	greix
+5.81	salt	sal
+5.82	pepper	pebre
+5.821	chili pepper	bitxo
+5.84	honey	mel
+5.85	sugar	sucre
+5.86	milk (noun)	llet
+5.87	milk (vb)	munyir
+5.88	cheese	formatge
+5.89	butter	mantega
+5.89	butter	mantequilla
+5.9	beverage, drink	beguda
+5.91	mead	aiguamel
+5.92	wine	vi
+5.93	beer	cervesa
+5.94	fermented drink	begudafermentada
+5.97	egg	ou
+5.971	egg yolk	rovelld'ou
+6.11	put on (clothes)	vestirse
+6.12	clothing, clothes	roba
+6.13	tailor	sastre
+6.21	cloth	roba
+6.21	cloth	tela
+6.22	wool	llana
+6.23	linen, flax	lli
+6.24	cotton	cotó
+6.25	silk	seda
+6.27	felt	feltre
+6.28	fur	pell
+6.29	leather	cuir
+6.31	spin	filar
+6.32	spindle	fus
+6.33	weave	teixir
+6.34	loom	teler
+6.35	sew	cosir
+6.36	needle	agulla
+6.37	awl	alena
+6.38	thread	fil
+6.39	dye	tenyir
+6.41	cloak	capa
+6.411	poncho	ponxo
+6.42	woman's dress	robadedona
+6.42	woman's dress	vestit
+6.43	coat	abric
+6.44	shirt	camisa
+6.45	collar	coll
+6.46	skirt	faldilla
+6.461	grass-skirt	faldillad'herbes
+6.48	trousers	pantalons
+6.49	stocking, sock	mitja
+6.49	stocking, sock	mitjó
+6.51	shoe	sabata
+6.52	boot	bota
+6.54	shoemaker, cobbler	sabater
+6.55	hat, cap	barret
+6.55	hat, cap	gorra
+6.57	belt, girdle	cinturó
+6.57	belt, girdle	faixa
+6.58	glove	guant
+6.59	veil	vel
+6.61	pocket	butxaca
+6.62	button	botó
+6.63	pin	agulladecap
+6.71	ornament, adornment	ornament
+6.72	jewel	joia
+6.73	ring (for finger)	anell
+6.74	bracelet	braçalet
+6.75	necklace	collaret
+6.76	bead	gra
+6.77	earring	arracada
+6.78	headband, headdress	cinta
+6.78	headband, headdress	pentinat
+6.79	tattoo	tatuatge
+6.81	handkerchief, rag	mocador
+6.81	handkerchief, rag	drap
+6.82	towel	tovallola
+6.91	comb	pinta
+6.92	brush	raspall
+6.921	braid	trenar
+6.93	razor	navallad'afeitar
+6.94	ointment	pomada
+6.95	soap	sabó
+6.96	mirror	mirall
+7.11	dwell, live	habitar
+7.12	house	casa
+7.13	hut	cabana
+7.131	garden-house	granja
+7.14	tent	tenda
+7.15	yard, court	pati
+7.16	men's house	casad'homes
+7.17	cookhouse	cuina
+7.18	meeting house	casadereunions
+7.21	room	habitació
+7.22	door, gate	porta
+7.221	doorpost, jamb	peudret
+7.221	doorpost, jamb	muntant
+7.221	doorpost, jamb	brancal
+7.23	lock (noun)	pany
+7.231	latch, door-bolt	pany
+7.24	key	clau
+7.25	window	finestra
+7.26	floor	terra
+7.26	floor	sòl
+7.27	wall	paret
+7.27	wall	mur
+7.31	fireplace	llar
+7.32	stove	estufa
+7.33	chimney	xemeneia
+7.37	ladder	escala
+7.42	bed	llit
+7.421	pillow	coixí
+7.422	blanket	manta
+7.422	blanket	flassada
+7.43	chair	cadira
+7.44	table	taula
+7.45	lamp, torch	làmpara
+7.46	candle	espelma
+7.47	shelf	lleixa
+7.47	shelf	prestatge
+7.48	trough	menjadora
+7.51	roof	teulat
+7.52	thatch	teulatdepalla
+7.53	ridgepole	bigacarenera
+7.54	rafter	biga
+7.55	beam	biga
+7.56	post, pole	pal
+7.57	board	planxa
+7.57	board	tauló
+7.58	arch	arc
+7.61	mason	paleta
+7.62	brick	totxo
+7.63	mortar	morter
+7.64	adobe	tova
+8.11	farmer	granger
+8.12	field (for cultivation)	camp
+8.13	garden	jardí
+8.15	cultivate, till	cultivar
+8.15	cultivate, till	conrear
+8.16	fence	tanca
+8.16	fence	closa
+8.17	ditch	fossat
+8.17	ditch	rasa
+8.21	plow	llaurar
+8.212	furrow	solc
+8.22	dig	cavar
+8.23	spade	aixada
+8.24	shovel	pala
+8.25	hoe	aixada
+8.26	fork	forca
+8.27	rake	rasclet
+8.31	sow	sembrar
+8.311	seed	grana
+8.311	seed	llavor
+8.32	mow, reap	segar
+8.32	mow, reap	collir
+8.33	sickle, scythe	falç
+8.33	sickle, scythe	dalla
+8.34	thresh	batre
+8.34	thresh	trillar
+8.35	threshing-floor	era
+8.41	crop, harvest	collita
+8.42	grain (barley, oats etc)	gra
+8.43	wheat	blat
+8.44	barley	ordi
+8.45	rye	sègol
+8.46	oats	civada
+8.47	maize, corn	blatdemoro
+8.48	rice	arròs
+8.51	grass	herba
+8.52	hay	palla
+8.53	plant (noun)	planta
+8.531	plant (vb)	sembrar
+8.531	plant (vb)	plantar
+8.54	root	arrel
+8.55	branch	branca
+8.56	leaf	fulla
+8.57	flower	flor
+8.6	tree	arbre
+8.61	oak	roure
+8.62	beech	faig
+8.63	birch	bedoll
+8.64	pine	pi
+8.65	fir	avet
+8.66	acorn	gla
+8.67	vine	parra
+8.67	vine	enfiladissa
+8.68	tobacco	tabac
+8.69	smoke (tobacco)	fumar
+8.691	pipe	pipa
+8.72	tree stump	socad'arbre
+8.73	tree trunk	tronc
+8.74	forked branch	brancabifurcada
+8.75	bark	escorça
+8.76	sap	saba
+8.81	palm tree	palmera
+8.82	coconut	coco
+8.83	citrus fruit	cítric
+8.84	banana tree	plataner
+8.91	sweet potato	moniato
+8.912	yam	nyam
+8.92	tapioca, manioc, cassava	tapioca
+8.92	tapioca, manioc, cassava	manioca
+8.93	gourd	carbassa
+8.931	pumpkin, squash	carbassa
+8.94	bamboo	bambú
+8.941	sugar cane	canyadesucre
+8.96	fish poison (root)	verí
+8.97	nettle	ortiga
+8.98	mushroom	bolet
+9.11	do, make	fer
+9.12	work	treballar
+9.14	bend	doblegar
+9.15	fold	doblegar
+9.16	tie, bind	lligar
+9.161	untie	deslligar
+9.18	chain	cadena
+9.19	rope, cord	corda
+9.192	knot (noun)	nus
+9.21	strike (hit, beat)	golpejar
+9.211	pound with fist	donarcopsambelpuny
+9.22	cut	tallar
+9.221	cut down	talar
+9.221	cut down	rebatre
+9.222	chop, hew	tallar
+9.222	chop, hew	podar
+9.223	stab	apunyalar
+9.23	knife	ganivet
+9.24	scissors, shears	tisores
+9.25	ax	destral
+9.251	adze	aixa
+9.26	break	trencar
+9.261	broken	trencat
+9.27	split	partir
+9.28	tear	estripar
+9.29	flay, skin	escorxar
+9.31	rub, wipe	fregar
+9.31	rub, wipe	eixugar
+9.32	stretch	allargar
+9.32	stretch	estirar
+9.33	pull	tirar
+9.34	spread out	estendre
+9.341	hang up	penjar
+9.342	press	apretar
+9.343	squeeze, wring	esprémer
+9.35	pour	abocar
+9.35	pour	vessar
+9.36	wash	rentar
+9.37	sweep	escombrar
+9.38	broom	escombra
+9.422	tool	eina
+9.43	carpenter	fuster
+9.44	build	construir
+9.46	bore	perforar
+9.461	hollow out	fondalar
+9.48	saw	serra
+9.49	hammer	martell
+9.5	nail	clau
+9.56	glue	enganxar
+9.6	smith, blacksmith	ferrer
+9.61	forge	forja
+9.62	anvil	enclusa
+9.63	cast (metals)	fondre
+9.64	gold	or
+9.65	silver	plata
+9.66	copper, bronze	cobre
+9.66	copper, bronze	bronze
+9.67	iron	ferro
+9.68	lead (noun)	plom
+9.69	tin, tinplate	estany
+9.71	potter	terrissaire
+9.72	mold (clay etc)	moldejar
+9.73	clay	fang
+9.73	clay	argila
+9.74	glass	vidre
+9.75	weave, plait	teixir
+9.76	basket	cistella
+9.76	basket	cistell
+9.77	mat	estora
+9.771	rug	estora
+9.78	netbag	bossademalla
+9.79	fan (noun)	ventall
+9.791	fan (vb)	ventallar
+9.81	carve	esculpir
+9.82	sculptor	escultor
+9.83	statue	estàtua
+9.84	chisel	cisell
+9.88	paint (noun)	pintura
+9.89	paint (vb)	pintar
+10.11	move	moure
+10.12	turn over	girar
+10.13	turn around	girar
+10.13	turn around	donarlavolta
+10.14	wind, wrap	enrotllar
+10.14	wind, wrap	embolicar
+10.15	roll	enrotllar
+10.16	drop (vb)	deixarcaure
+10.17	twist	torçar
+10.21	rise	pujar
+10.21	rise	elevar
+10.21	rise	ascendir
+10.22	raise, lift	aixecar
+10.23	fall	caure
+10.24	drip	gotejar
+10.25	throw	tirar
+10.252	catch (ball)	agafar
+10.26	shake	agitar
+10.26	shake	sacsejar
+10.32	flow	fluir
+10.32	flow	córrer
+10.33	sink	enfonsar
+10.34	float	flotar
+10.35	swim	nadar
+10.351	dive	capbussarse
+10.352	splash	esquitxar
+10.36	sail (vb)	navegar
+10.37	fly (vb)	volar
+10.38	blow	bufar
+10.41	creep, crawl	arrossegarse
+10.41	creep, crawl	anardequatregrapes
+10.412	kneel	agenollarse
+10.413	crouch	ajopirse
+10.42	slide, slip	relliscar
+10.43	jump, leap	saltar
+10.431	kick	donarcopsdepeu
+10.44	dance	ballar
+10.45	walk	caminar
+10.451	limp	coixejar
+10.46	run	córrer
+10.47	go	anar
+10.471	go up	pujar
+10.472	climb	trepar
+10.473	go down	baixar
+10.474	go out	sortir
+10.48	come	venir
+10.481	come back	tornar
+10.49	go away, depart	marxar
+10.491	disappear	desaparèixer
+10.51	flee	fugir
+10.52	follow	seguir
+10.53	pursue	perseguir
+10.55	reach, arrive	arribar
+10.56	approach	acostarse
+10.57	enter	entrar
+10.61	carry (bear)	portar
+10.612	carry-in-hand	portaralamà
+10.613	carry-on-shoulder	portaral'espatlla
+10.614	carry-on-head	portarenelcap
+10.615	carry-underarm	portarsotaelbraç
+10.62	bring	portar
+10.63	send	enviar
+10.64	lead (vb)	guiar
+10.65	drive	conduir
+10.66	ride	muntar
+10.67	push, shove	empènyer
+10.71	road	carretera
+10.72	path	camí
+10.74	bridge	pont
+10.75	carriage, wagon, cart	carro
+10.75	carriage, wagon, cart	carretó
+10.76	wheel	roda
+10.77	axle	eix
+10.78	yoke	jou
+10.81	ship	vaixell
+10.83	boat	bot
+10.831	canoe	canoa
+10.831	canoe	piragua
+10.832	outrigger	balancí
+10.84	raft	balsa
+10.85	oar	rem
+10.851	paddle (noun)	rem
+10.851	paddle (noun)	platós
+10.852	row (vb)	remar
+10.86	rudder	timó
+10.87	mast	màstil
+10.88	sail (noun)	vela
+10.89	anchor	àncora
+10.91	harbor, port	port
+10.92	land (vb)	desembarcar
+11.11	have	tenir
+11.12	own, possess	posseir
+11.13	take	prendre
+11.14	seize, grasp	agafar
+11.14	seize, grasp	atrapar
+11.15	hold	tenir
+11.16	get, obtain	obtenir
+11.17	keep, retain	mantenir
+11.17	keep, retain	retenir
+11.18	thing	cosa
+11.21	give	donar
+11.22	give back	tornar
+11.24	preserve, look after	preservar
+11.24	preserve, look after	tenircura
+11.25	save, rescue	salvar
+11.27	destroy	destruir
+11.28	harm, injure, damage	fermal
+11.28	harm, injure, damage	ferir
+11.31	seek, look for	buscar
+11.32	find	trobar
+11.33	lose	perdre
+11.34	release, let go	alliberar
+11.34	release, let go	deixaranar
+11.43	money	diners
+11.43	money	calers
+11.44	coin	moneda
+11.51	rich	ric
+11.52	poor	pobre
+11.53	beggar	pidolaire
+11.54	avaricious, stingy	avar
+11.54	avaricious, stingy	tacanyo
+11.61	lend	deixar
+11.62	borrow	manllevar
+11.63	owe	deure
+11.64	debt	deute
+11.65	pay (vb)	pagar
+11.66	account, reckoning	compte
+11.69	tax, tribute	impost
+11.69	tax, tribute	tribut
+11.77	hire	contractar
+11.78	wages	sou
+11.79	earn	guanyar
+11.81	buy	comprar
+11.82	sell	vendre
+11.83	trade, barter	comercialitzar
+11.83	trade, barter	negociar
+11.84	merchant	comerciant
+11.85	market (place)	mercat
+11.86	store, shop	botiga
+11.87	price	preu
+11.88	dear (costly, expensive)	car
+11.89	cheap	barat
+11.91	share (distribute)	repartir
+11.92	weigh	pesar
+12.1	after	després
+12.11	place	darrere
+12.2	beside	alcostatde
+12.3	down, below	sota
+12.4	before	abans
+12.4	before	davant
+12.41	right (side)	davantde
+12.41	right (side)	enfrontde
+12.5	inside, in	dins
+12.6	outside	afora
+12.6	outside	fora
+12.7	under	sota
+12.8	up, above	adalt
+12.8	up, above	sobre
+12.11	place	lloc
+12.12	put	posar
+12.13	sit	asseure's
+12.14	lie down	estirarse
+12.15	stand	posarsedret
+12.16	remain, stay	quedarse
+12.17	remains, left overs	restes
+12.21	collect, gather	recollir
+12.21	collect, gather	reunirse
+12.212	pick up	recollir
+12.213	pile up	amuntegar
+12.22	join, unite	ajuntar
+12.22	join, unite	unir
+12.23	separate	separar
+12.232	divide	dividir
+12.24	open	obrir
+12.25	shut, close	tancar
+12.26	cover	cobrir
+12.27	hide, conceal	amagar
+12.31	high	alt
+12.32	low	baix
+12.33	top	munt
+12.33	top	dalt
+12.34	bottom	fons
+12.35	end	final
+12.352	pointed	punxagut
+12.353	edge	marge
+12.353	edge	vora
+12.36	side	costat
+12.37	middle, center	mig
+12.37	middle, center	centre
+12.41	right (side)	dreta
+12.42	left (side)	esquerre
+12.42	left (side)	esquerra
+12.43	near (adv)	aprop
+12.44	far (adv)	lluny
+12.45	east	est
+12.46	west	oest
+12.47	north	nord
+12.48	south	sud
+12.53	grow	créixer
+12.54	measure	mesurar
+12.541	span, fathom	braça
+12.55	large, big	gros
+12.55	large, big	gran
+12.56	small, little	petit
+12.57	long	llarg
+12.58	tall	alt
+12.59	short	curt
+12.61	wide, broad	ample
+12.61	wide, broad	ampli
+12.62	narrow	estret
+12.63	thick (in dimension)	gruix
+12.65	thin (in dimension)	prim
+12.67	deep	fons
+12.68	shallow	pocprofund
+12.71	flat	pla
+12.73	straight	recte
+12.73	straight	dret
+12.74	crooked	torçat
+12.75	hook	ganxo
+12.76	corner	racó
+12.77	cross	creu
+12.78	square	quadrat
+12.81	round	rodó
+12.82	circle	cercle
+12.83	sphere, ball	esfera
+12.83	sphere, ball	pilota
+12.84	line	línia
+12.85	hole	forat
+12.92	like, similar	semblant
+12.92	like, similar	similar
+12.93	change	canviar
+13.0	zero, nothing	zero
+13.0	zero, nothing	res
+13.1	one	un
+13.2	two	dos
+13.3	three	tres
+13.4	four	quatre
+13.5	five	cinc
+13.6	six	sis
+13.7	seven	set
+13.8	eight	vuit
+13.9	nine	nou
+13.10	ten	deu
+13.101	eleven	onze
+13.102	twelve	dotze
+13.103	fifteen	quinze
+13.104	twenty	vint
+13.105	hundred	cent
+13.106	thousand	mil
+13.107	count	comptar
+13.14	every, all	tot
+13.14	every, all	cada
+13.14	every, all	cadascun
+13.15	much, many	molt
+13.16	more	més
+13.17	little (quantity), few	poc
+13.18	enough	prou
+13.181	some	algun
+13.19	multitude, crowd	multitud
+13.21	full	ple
+13.22	empty	buit
+13.23	part, piece	troç
+13.24	half	meitat
+13.33	alone, only	sol
+13.33	alone, only	només
+13.34	first	primer
+13.35	last	últim
+13.36	second	segon
+13.37	pair	parell
+13.38	two times	duesvegades
+13.42	third	tercer
+13.44	three times	tresvegades
+14.11	time	temps
+14.12	age	edat
+14.13	new	nou
+14.14	young	jove
+14.15	old	vell
+14.16	early	aviat
+14.17	late	tard
+14.18	now	ara
+14.19	immediately	ja
+14.19	immediately	immediatament
+14.21	swift, fast, quick	ràpid
+14.22	slow	pocapoc
+14.22	slow	lent
+14.23	hasten, hurry	espavilarse
+14.23	hasten, hurry	afanyarse
+14.24	retard, delay	retard
+14.25	begin, beginning	començar
+14.25	begin, beginning	començament
+14.252	last, endure	durar
+14.26	end (temporal)	fi
+14.27	finish	finalitzar
+14.27	finish	acabar
+14.28	cease, stop	parar
+14.29	ready	llest
+14.31	always	sempre
+14.32	often	sovint
+14.33	sometimes	avegades
+14.331	soon	aviat
+14.332	long-time (for a)	durantmolttemps
+14.34	never	mai
+14.35	again	unaaltravegada
+14.41	day	dia
+14.42	night	nit
+14.43	dawn	matinada
+14.44	morning	matí
+14.45	noon, midday	migdia
+14.451	afternoon	tarda
+14.46	evening	vespre
+14.47	today	avui
+14.48	tomorrow	demà
+14.481	day-after-tomorrow	demàpassat
+14.49	yesterday	ahir
+14.491	day-before-yesterday	abansd'ahir
+14.51	hour	hora
+14.53	clock, timepiece	rellotge
+14.61	week	setmana
+14.62	Sunday	diumenge
+14.63	Monday	dilluns
+14.64	Tuesday	dimarts
+14.65	Wednesday	dimecres
+14.66	Thursday	dijous
+14.67	Friday	divendres
+14.68	Saturday	dissabte
+14.71	month	mes
+14.73	year	any
+14.74	winter	hivern
+14.75	spring	primavera
+14.76	summer	estiu
+14.77	autumn	tardor
+14.78	season	estació
+15.21	smell (vb intrans)	ferolor
+15.212	sniff	olorar
+15.22	smell (vb trans)	olorar
+15.25	fragrant, good smelling	fragància
+15.25	fragrant, good smelling	bonaolor
+15.26	stinking, bad smelling	malaolor
+15.31	taste	tastar
+15.35	sweet	dolç
+15.36	salty	salat
+15.37	bitter	amarg
+15.38	acid, sour	àcid
+15.38	acid, sour	agre
+15.39	brackish	salabrós
+15.41	hear	sentir
+15.42	listen	escoltar
+15.44	sound, noise	so
+15.44	sound, noise	fressa
+15.44	sound, noise	soroll
+15.45	loud	fort
+15.46	quiet, silence	tranquil
+15.46	quiet, silence	silenci
+15.51	see	veure
+15.52	look, look at	mirar
+15.55	show	ensenyar
+15.56	shine	brillar
+15.57	bright	brillant
+15.57	bright	resplandor
+15.61	color	color
+15.62	light (in color)	clar
+15.63	dark (in color)	fosc
+15.64	white	blanc
+15.65	black	negre
+15.66	red	vermell
+15.67	blue	blau
+15.68	green	verd
+15.69	yellow	groc
+15.71	touch	tocar
+15.712	pinch	pessigar
+15.72	feel	sentir
+15.74	hard	dur
+15.75	soft	suau
+15.76	rough	aspre
+15.77	smooth	llis
+15.78	sharp	afilat
+15.78	sharp	esmolat
+15.79	blunt, dull	esmussat
+15.81	heavy	pesat
+15.82	light (in weight)	lleuger
+15.83	wet, damp	moll
+15.84	dry	sec
+15.85	hot	calent
+15.851	warm	càlid
+15.851	warm	calurós
+15.851	warm	tebi
+15.86	cold	fred
+15.87	clean	net
+15.88	dirty, soiled	brut
+15.89	wrinkled	arrugat
+16.11	soul, spirit	ànima
+16.11	soul, spirit	esperit
+16.15	surprised, astonished	sorprès
+16.18	good fortune, luck	bonasort
+16.19	misfortune, bad luck	malasort
+16.23	joyful, glad, happy	feliç
+16.23	joyful, glad, happy	alegre
+16.25	laugh	riure
+16.251	smile	somriure
+16.26	play	jugar
+16.27	love	estimar
+16.29	kiss	ferunpetó
+16.29	kiss	besar
+16.3	embrace	abraçar
+16.31	pain	mal
+16.31	pain	dolor
+16.32	grief, sorrow, sadness	tristesa
+16.32	grief, sorrow, sadness	dolor
+16.32	grief, sorrow, sadness	pena
+16.33	anxiety, worry	ansietat
+16.33	anxiety, worry	preocupació
+16.34	regret, be sorry	lamentar
+16.35	pity	llàstima
+16.37	cry, weep	plorar
+16.38	tear (noun)	llàgrima
+16.39	groan	gemegar
+16.41	hate	odiar
+16.42	anger	ràbia
+16.44	envy, jealousy	enveja
+16.44	envy, jealousy	gelós
+16.45	shame (noun)	vergonya
+16.48	proud	orgullós
+16.51	dare	atrevirse
+16.51	dare	gosar
+16.52	brave	valent
+16.53	fear, fright	por
+16.54	danger	perill
+16.62	desire, want	desitjar
+16.62	desire, want	voler
+16.622	choose	escollir
+16.63	hope	esperança
+16.65	faithful	fidel
+16.66	true	veritat
+16.67	lie, tell lies	mentir
+16.67	lie, tell lies	dirmentides
+16.68	deceit	enganyar
+16.69	forgive	perdonar
+16.71	good	bo
+16.72	bad	dolent
+16.73	right, correct	correcte
+16.73	right, correct	bé
+16.74	wrong	fals
+16.74	wrong	incorrecte
+16.74	wrong	malament
+16.76	fault	culpa
+16.77	mistake, error	equivocació
+16.77	mistake, error	error
+16.78	blame	culpa
+16.79	praise	elogiar
+16.81	beautiful	bonic
+16.81	beautiful	maco
+16.82	ugly	lleig
+16.83	greedy	tacanyo
+16.83	greedy	avar
+16.84	clever	intelˑligent
+17.11	mind	ment
+17.11	mind	pensament
+17.13	think (= reflect)	pensar
+17.14	think (= be of the opinion)	pensar
+17.14	think (= be of the opinion)	creure
+17.15	believe	creure
+17.16	understand	entendre
+17.16	understand	comprendre
+17.17	know	saber
+17.171	guess	suposar
+17.172	imitate	imitar
+17.18	seem	semblar
+17.19	idea, notion	idea
+17.19	idea, notion	noció
+17.21	wise	sabi
+17.22	foolish, stupid	tonto
+17.22	foolish, stupid	estúpid
+17.23	insane, crazy	boig
+17.24	learn	aprendre
+17.242	study	estudiar
+17.25	teach	ensenyar
+17.26	pupil	alumne
+17.27	teacher	mestre
+17.27	teacher	professor
+17.28	school	escola
+17.28	school	colˑlegi
+17.31	remember	recordar
+17.31	remember	enrecordarse'n
+17.32	forget	oblidar
+17.32	forget	endescuidarse
+17.34	clear, plain	clar
+17.35	obscure	obscur
+17.36	secret	secret
+17.37	sure, certain	segur
+17.37	sure, certain	cert
+17.38	explain	explicar
+17.41	intention, purpose	intenció
+17.41	intention, purpose	propòsit
+17.42	cause	causar
+17.43	doubt	dubtar
+17.44	suspect	sospitar
+17.441	betray	traicionar
+17.441	betray	trair
+17.45	need, necessity	necessitar
+17.45	need, necessity	necessitat
+17.46	easy	fàcil
+17.47	difficult	difícil
+17.48	try, attempt	intentar
+17.48	try, attempt	provar
+17.49	way, manner	manera
+17.51	and	i
+17.52	because	perquè
+17.53	if	si
+17.54	or	o
+17.55	yes, affirmative	sí
+17.55	yes, affirmative	afirmatiu
+17.56	no, negative	no
+17.56	no, negative	negatiu
+17.61	how?	com?
+17.62	how many?	quants?
+17.63	how much?	quant?
+17.64	what?	què?
+17.65	when?	quan?
+17.66	where?	on?aon?
+17.67	which?	quin?
+17.68	who?	qui?
+17.69	why?	perquè?
+18.11	voice	veu
+18.12	sing	cantar
+18.13	shout, cry out	cridar
+18.15	whisper	xiuxiuejar
+18.16	mumble	murmurar
+18.17	whistle	xiular
+18.18	shriek, screech	xerricar
+18.18	shriek, screech	xisclar
+18.19	howl	udolar
+18.21	speak, talk	parlar
+18.211	stutter, stammer	tartamudejar
+18.211	stutter, stammer	quequejar
+18.22	say	dir
+18.221	tell story	explicarunahistòria
+18.222	speech (make a)	discurs
+18.23	silent (be)	callar
+18.24	language	llengua
+18.24	language	idioma
+18.26	word	paraula
+18.28	name	nom
+18.31	ask (question, inquire)	preguntar
+18.32	answer	contestar
+18.32	answer	respondre
+18.33	admit, confess	admetre
+18.33	admit, confess	confessar
+18.34	deny	negar
+18.35	ask, request	demanar
+18.36	promise	prometre
+18.37	refuse	rebutjar
+18.38	forbid	prohibir
+18.39	rebuke, scold	reprendre
+18.39	rebuke, scold	renyar
+18.41	call (=summon)	cridar
+18.42	call (=name)	dirse
+18.43	announce	anunciar
+18.44	threaten	amenaçar
+18.45	boast	xulejar
+18.45	boast	presumir
+18.51	write	escriure
+18.52	read	llegir
+18.56	paper	paper
+18.57	pen	bolígraf
+18.61	book	llibre
+18.67	poet	poeta
+18.71	flute	flauta
+18.72	drum	tambor
+18.73	horn, trumpet	trompeta
+18.74	rattle	cascavell
+19.11	country	país
+19.12	one's native country	pàtria
+19.15	city, town	ciutat
+19.16	village	poble
+19.17	boundary	frontera
+19.17	boundary	límit
+19.21	people (populace)	gent
+19.23	tribe, clan	tribu
+19.23	tribe, clan	clan
+19.24	chief, chieftain	cap
+19.25	staff, walking stick	bastó
+19.31	rule, govern	regnar
+19.31	rule, govern	governar
+19.32	king, ruler	rei
+19.32	king, ruler	governador
+19.33	queen	reina
+19.36	noble, nobleman	noble
+19.37	citizen, subject	ciutadà
+19.37	citizen, subject	súbdit
+19.41	master	amo
+19.42	slave	esclau
+19.43	servant	servent
+19.44	freeman	homelliure
+19.45	command, order	manar
+19.46	obey	obeir
+19.47	let, permit	deixar
+19.47	let, permit	permetre
+19.51	friend, companion	amic
+19.51	friend, companion	company
+19.52	enemy	enemic
+19.54	neighbor	veí
+19.55	stranger	estranger
+19.55	stranger	foraster
+19.56	guest	hoste
+19.56	guest	convidat
+19.57	host	amfitrió
+19.57	host	hoste
+19.58	help, aid	ajudar
+19.59	hinder, prevent	impedir
+19.61	custom	costum
+19.62	strife, quarrel	baralla
+19.63	conspiracy, plot	conspiració
+19.63	conspiracy, plot	complot
+19.65	meet	trobarse
+19.72	prostitute	prostituta
+20.11	fight (vb)	lluitar
+20.13	war, battle	guerra
+20.13	war, battle	batalla
+20.14	peace	pau
+20.15	army	exèrcit
+20.17	soldier	soldat
+20.21	weapons, arms	armes
+20.22	club	pal
+20.222	battle-ax	d'estraldecombat
+20.23	sling	fona
+20.24	bow	arc
+20.25	arrow	fletxa
+20.26	spear	llança
+20.26	spear	arpó
+20.27	sword	espasa
+20.28	gun, cannon	escopeta
+20.28	gun, cannon	canó
+20.31	armor (defensive)	armadura
+20.33	helmet	casc
+20.34	shield	escut
+20.35	fortress	fortalesa
+20.36	tower	torre
+20.41	victory	victòria
+20.42	defeat	derrota
+20.43	attack	atacar
+20.44	defend	defensar
+20.45	retreat	retirarse
+20.46	surrender	rendirse
+20.47	captive, prisoner	presoner
+20.471	guard, sentinel	guàrdia
+20.471	guard, sentinel	sentinelˑla
+20.48	booty, spoils	botí
+20.49	ambush	emboscar
+20.49	ambush	emboscada
+20.51	fisherman	pescador
+20.52	fishhook	ham
+20.53	fishing line	fildepescar
+20.54	fishnet	xarxa
+20.55	fish trap	nas
+20.56	bait	esquer
+20.61	hunt	caçar
+20.62	shoot	disparar
+20.63	miss (target)	fallar
+20.64	trap (noun)	trampa
+20.64	trap (noun)	parany
+20.65	trap (vb)	atrapar
+21.11	law	llei
+21.15	court	tribunal
+21.16	judge (vb)	jutjar
+21.17	judgment	judici
+21.18	judge (noun)	jutge
+21.21	plaintiff	demandant
+21.21	plaintiff	acusador
+21.22	defendant	acusat
+21.23	witness	testimoni
+21.24	swear	jurar
+21.25	oath	jurament
+21.31	accuse	acusar
+21.32	condemn	condemnar
+21.33	convict (vb)	condemnar
+21.34	acquit	absoldre
+21.35	guilty	culpable
+21.36	innocent	innocent
+21.37	penalty, punishment	càstig
+21.38	fine	multa
+21.39	prison, jail	presó
+21.42	murder	assassinar
+21.43	adultery	adulteri
+21.44	rape	violació
+21.46	arson	incendipremeditat
+21.47	perjury	perjuri
+21.51	steal	robar
+21.52	thief	lladre

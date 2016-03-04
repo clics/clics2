@@ -1,0 +1,869 @@
+@classification: Wakashan,Southern
+@ids-name: Nootka_Phonemic
+@iso: noo
+@language: Nootka
+@size: 862
+@source: ids
+@variety: std
+1.21	earth, land	nismˀa
+1.213	dust	c̷ˀakˀʷaq
+1.214	mud	c̷ˀakˀʷaq
+1.215	sand	ʕopxaq
+1.215	sand	sopˀic̷mis
+1.22	mountain, hill	nočiˑ̆q
+1.22	mountain, hill	noč
+1.22	mountain, hill	nočiˑ
+1.22	mountain, hill	tˀočk
+1.22	mountain, hill	tˀočkak
+1.222	cliff, precipice	λatḥ
+1.25	island	ča
+1.25	island	čaʔak
+1.28	cave	ʕaʕiλ
+1.31	water	čˀa
+1.31	water	čˀaʔak
+1.32	sea	topˀał
+1.32	sea	topˀał
+1.322	calm (of sea)	tinḥʷ
+1.322	calm (of sea)	tinḥak
+1.322	calm (of sea)	tinḥok
+1.324	foam	pˀac̷
+1.324	foam	pˀac̷ak
+1.324	foam	pˀac̷aˑ
+1.33	lake	ʕaʔok
+1.35	wave	hoyˀa
+1.35	wave	hoyˀaˑk
+1.353	lowtide	tˀač
+1.353	lowtide	tˀačaˑ
+1.354	hightide	moł
+1.354	hightide	moˑł
+1.354	hightide	mołaˑ
+1.36	river, stream, brook	c̷ˀa
+1.36	river, stream, brook	c̷aʔak
+1.41	woods, forest	ʔiˑqmaq
+1.41	woods, forest	ʔiˑqmaqak
+1.42	tree (cf 08.600)	soč
+1.42	tree (cf 08.600)	sočˀas
+1.43	wood	ʔačyˀaq
+1.43	wood	ʔačyˀaˑp
+1.44	stone, rock	mˀokʷ
+1.44	stone, rock	mˀoksyˀi
+1.44	stone, rock	tˀi
+1.45	earthquake	taqiˑ̆
+1.54	star	tˀatˀos
+1.54	star	tˀatˀoˑ̆s
+1.54	star	tˀatˀoˑs
+1.56	thunder	toˑt
+1.56	thunder	totoˑtš
+1.56	thunder	toˑtaˑ
+1.59	rainbow	c̷ˀawayoˑs
+1.61	light (noun)	hič
+1.61	light (noun)	hičaˑ
+1.61	light (noun)	nˀeʔiλ
+1.61	light (noun)	nˀeʔiλak
+1.62	darkness	čˀitˀa
+1.62	darkness	tomak
+1.63	shade, shadow	misc̷ˀitq
+1.63	shade, shadow	misc̷ˀin
+1.63	shade, shadow	pˀatˀač
+1.73	cloud	łiwˀaḥ
+1.74	fog	ʔočq
+1.74	fog	ʔočqak
+1.75	rain (noun)	mˀiλ
+1.75	rain (noun)	mˀiλaˑ
+1.75	rain (noun)	kaʔoxʷ
+1.75	rain (noun)	kaʔoxʷa
+1.76	snow (noun)	kˀʷis
+1.78	weather	wiˑq
+1.81	fire	ʔink
+1.81	fire	ʔinkˀʷačiλ
+1.82	flame (noun)	moḥ
+1.82	flame (noun)	moḥak
+1.82	flame (noun)	moḥaˑ
+1.82	flame (noun)	tˀic̷q
+1.82	flame (noun)	tˀic̷qaˑ
+1.83	smoke (noun)	qʷiš
+1.84	ashes	λˀint
+1.851	burn (vb trans)	mˀo
+1.851	burn (vb trans)	mˀoʔak
+1.851	burn (vb trans)	mˀoyaˑ
+1.86	light, kindle, ignite	paλ
+1.86	light, kindle, ignite	paλaˑ
+1.861	extinguish	čˀoḥ
+1.861	extinguish	čˀoḥiˑ
+1.88	firewood	wača
+1.89	charcoal	tomis
+1.89	charcoal	tomiˑs
+2.1	person, human being	qoʔac̷
+2.1	person, human being	qoˑʔas
+2.22	woman	łoč
+2.22	woman	łoˑc̷sma
+2.26	girl	ḥakʷaλ
+2.26	girl	ḥałma
+2.27	child	tˀanˀa
+2.28	infant, baby	pˀoˑc̷ˀisyˀok
+2.28	infant, baby	nayˀaq
+2.28	infant, baby	nayˀaqak
+2.31	husband	čapxʷ
+2.31	husband	čakop
+2.32	wife	mˀaʔoˑ̆ł
+2.35	father	nˀowˀi
+2.35	father	nˀowˀiˑqso
+2.35	father	taˑta
+2.36	mother	ʔomʔa
+2.36	mother	ʔomʔiˑqso
+2.41	son	meʔiλqac̷
+2.444	older brother	mˀamˀic̷
+2.444	older brother	mˀaˑmˀiˑqso
+2.444	older brother	tayic̷q
+2.444	older brother	taˑyiˑ
+2.445	younger brother	yˀokʷi
+2.445	younger brother	yˀokʷiˑqso
+2.45	sister	mˀaʔaḥsyˀi
+2.46	grandfather	nani
+2.46	grandfather	nanic̷
+2.46	grandfather	naniˑqso
+2.461	old man	ʔiˑčaqʔiˑčˀim
+2.471	old woman	ʔiˑčaqʔiˑčˀim
+2.48	grandson	kaˑʔoc̷
+2.48	grandson	kaˑʔoˑc̷
+2.51	uncle	naʔa
+2.51	uncle	naʔac̷
+2.51	uncle	neʔiˑqso
+2.52	aunt	ʔiyac̷
+2.52	aunt	ʔiyiˑqso
+2.53	nephew	wiˑʔoc̷
+2.53	nephew	wiˑʔoˑ
+2.54	niece	ʔaˑsic̷
+2.54	niece	ʔaˑsiˑqso
+2.54	niece	wiˑʔoc̷
+2.54	niece	wiˑʔoˑ
+2.75	orphan	qaqiˑʔak
+2.82	family	hił
+2.82	family	hiłsyˀoˑk
+2.91	I	si
+2.91	I	siyˀa
+2.93	he/she/it	ʔo
+2.93	he/she/it	ʔoḥ
+2.94	we	niˑḥ
+2.94	we	niˑwˀa
+2.96	they	ʔo
+2.96	they	ʔoḥ
+3.56	goose	ʔeʔinxʷiˑk
+3.58	nest	paˑwac̷
+3.582	seagull	qʷitq
+3.583	heron	ʕaˑnos
+3.584	eagle	c̷ˀixʷat
+3.585	hawk	čˀisapq
+3.591	bat	mapis
+3.591	bat	maˑpiˑs
+3.596	owl	ʔaλwiˑ
+3.596	owl	tˀoxsokʷatq
+3.596	owl	tˀoxsokʷin
+3.61	dog	ʕiłč
+3.61	dog	ʕiniˑλ
+3.62	cat	piˑšpiš
+3.63	mouse, rat	λˀic̷aʕok
+3.652	fin (dorsal)	čo
+3.653	fishscale	čˀipˀał
+3.653	fishscale	čˀipäłmis
+3.654	gill	tˀakʷ
+3.654	gill	tˀakʷas
+3.654	gill	tˀakˀʷas
+3.662	porpoise, dolphin	hic̷swatq
+3.662	porpoise, dolphin	hic̷swin
+3.662	porpoise, dolphin	hic̷swaniˑčiλ
+3.663	whale	čˀitˀap
+3.71	wolf	qʷayac̷
+3.71	wolf	qˀanaλaq
+3.73	bear	naˑnaq
+3.73	bear	naˑniq
+3.73	bear	čims
+3.75	deer	mowač
+3.75	deer	mok
+3.75	deer	ʕatoš
+3.811	louse	qič
+3.811	louse	qičin
+3.813	flea	mačˀas
+3.813	flea	mačˀasin
+3.82	bee	ʕasic̷
+3.832	mosquito	tanakmaq
+3.832	mosquito	tanakʷ
+3.832	mosquito	tanakmis
+3.84	worm	xitkˀoq
+3.92	butterfly	kˀac̷kˀamˀatq
+3.94	snail	ʕinmˀi
+3.95	frog	waʕit
+3.95	frog	waˑʕit
+3.96	lizard	hahałtoʕakλi
+4.11	body	ʔositi
+4.12	skin, hide	tokʷaq
+4.12	skin, hide	aʔaq
+4.12	skin, hide	λˀiḥaq
+4.14	hair (head)	haphapx̣
+4.14	hair (head)	hapsyˀop
+4.15	blood	ḥis
+4.15	blood	ḥismis
+4.16	bone	hamot
+4.16	bone	hamoˑt
+4.162	rib	naλaq
+4.162	rib	naλaqati
+4.162	rib	ʕopati
+4.17	horn	maˑł
+4.18	tail	nač
+4.18	tail	načˀa
+4.18	tail	sit
+4.18	tail	sitˀa
+4.19	back	kʷa
+4.19	back	kʷaˑʔak
+4.191	spine	ʕic̷syˀiq
+4.2	head	tˀoḥʷ
+4.2	head	tˀoḥc̷ˀiti
+4.201	side of head, temple	wˀałwˀał
+4.207	jaw	c̷ˀiwap
+4.21	eye	qas
+4.21	eye	qasiˑ
+4.212	eyebrow	ʕaʕič
+4.212	eyebrow	ʕaʕiči
+4.215	blink	haλk
+4.215	blink	haλkaˑhaλkak
+4.215	blink	tˀapł
+4.215	blink	tˀapłaˑ
+4.215	blink	tˀimł
+4.215	blink	tˀimłši
+4.22	ear	pˀapˀiq
+4.22	ear	pˀapˀiˑ
+4.23	nose	nic̷
+4.23	nose	nic̷ˀa
+4.232	mucus (nasal)	ʕint
+4.232	mucus (nasal)	ʕintmis
+4.26	tongue	čˀop
+4.27	tooth	čič
+4.27	tooth	čičičiq
+4.28	neck	c̷ˀikˀoq
+4.29	throat	waniq
+4.29	throat	waniˑq
+4.33	hand	kʷikʷinkso
+4.34	finger	kʷikʷinkso
+4.344	fingernail	čˀałčˀa
+4.35	leg	qayˀaptˀa
+4.37	foot	λišλiq
+4.371	ankle	ʕišiq
+4.393	feather	pˀayał
+4.393	feather	pˀayaˑł
+4.393	feather	pˀoˑqλ
+4.412	nipple, teat	ʔinˑʔinmaq
+4.412	nipple, teat	ʔinma
+4.43	navel	ʕimatq
+4.43	navel	ʕimin
+4.441	lung	yox
+4.45	liver	λimˀaˑq̆
+4.46	stomach	ʕospˀat
+4.49	testicle	hoʔoq
+4.49	testicle	hoʔomc̷
+4.492	penis	kˀi
+4.492	penis	kˀimis
+4.51	breathe, breath	haš
+4.51	breathe, breath	hašaˑ
+4.51	breathe, breath	hiḥ
+4.51	breathe, breath	hiḥaˑ
+4.521	hiccough	tˀikˀʷac̷q
+4.521	hiccough	tˀiˑkˀʷac̷qši
+4.53	cough	wˀasaq
+4.53	cough	wˀasaqa
+4.54	sneeze	tˀopˀic̷x
+4.54	sneeze	tˀopˀic̷xši
+4.54	sneeze	ḥaʕic̷x
+4.56	spit	taˑxʷ
+4.57	vomit	ʔałˑ
+4.57	vomit	ʔałaˑ
+4.58	bite	mot
+4.58	bite	motaˑ
+4.61	sleep	weʔič
+4.61	sleep	weʔičo
+4.61	sleep	hoˑš
+4.62	dream	poˑwˀic̷
+4.62	dream	poˑwˀic̷a
+4.63	wake up	pink
+4.63	wake up	pinkaˑ
+4.64	break wind	waxʷ
+4.64	break wind	waxʷaˑ
+4.65	urinate	koˑx
+4.65	urinate	ʕoq
+4.65	urinate	kʷanˀoxʷ
+4.66	defecate	čiˑš
+4.66	defecate	hamaˑs
+4.66	defecate	šo
+4.66	defecate	šomaˑp
+4.66	defecate	ḥic̷
+4.67	have sexual intercourse	ʔamˀaq
+4.67	have sexual intercourse	ʔamˀaqa
+4.67	have sexual intercourse	qop
+4.69	bathe	hatˀinq
+4.69	bathe	hatˀiˑs
+4.73	pregnant	łic̷
+4.74	live, living, life	tiˑ̆č
+4.74	live, living, life	tič
+4.74	live, living, life	tiˑč
+4.751	drowned	hałmiˑ̆ḥa
+4.76	kill	qaḥ
+4.77	corpse	piˑc̷ksyˀi
+4.78	bury (the dead)	nˀoˑḥ
+4.78	bury (the dead)	nˀoˑḥši
+4.81	strong, mighty, powerful	naš
+4.81	strong, mighty, powerful	našok
+4.81	strong, mighty, powerful	našok
+4.82	weak	ʔastˀax̣
+4.82	weak	ʔastˀax̣ak
+4.82	weak	hixʷ
+4.82	weak	hixok
+4.84	sick, sickness	ʔaskˀax̣
+4.84	sick, sickness	ʔaskˀax̣ak
+4.84	sick, sickness	yano
+4.84	sick, sickness	yaˑnaˑk
+4.84	sick, sickness	ta
+4.84	sick, sickness	teʔił
+4.85	wound, sore	ʕeˑʔiˑ
+4.853	swelling	xʷak
+4.854	itch	poˑmał
+4.856	boil (noun)	nˀoq
+4.856	boil (noun)	nˀoqʷiˑ
+4.858	scar	čiqat
+4.858	scar	čiqatak
+4.858	scar	čiqati
+4.86	cure, heal	mas
+4.86	cure, heal	masak
+4.88	medicine, drug	ʕoyˀi
+4.91	tired, weary	pˀos
+4.91	tired, weary	pˀosak
+4.91	tired, weary	tˀiˑwac̷
+4.91	tired, weary	tˀiˑwac̷ak
+4.912	rest	hoˑxsˀato
+4.92	lazy	wišsišc̷
+4.94	lame	ʔiλšʔis
+4.96	mute	moqʷiˑyˀo
+4.96	mute	moqʷiˑyˀoł
+4.98	intoxicated	xoˑc̷
+4.98	intoxicated	xoˑc̷aˑ
+4.99	naked, bare	ḥanˀaḥ
+5.11	eat	hawˀa
+5.11	eat	haʔok
+5.122	raw	čˀaʔoš
+5.122	raw	čˀaʔoˑš
+5.125	rotten	pˀatḥ
+5.125	rotten	pˀatḥak
+5.13	drink	naq
+5.13	drink	naqaˑ
+5.14	hunger	hako
+5.14	hunger	hakʷi
+5.18	chew	tˀač
+5.18	chew	tˀačaˑ
+5.181	swallow	watq
+5.181	swallow	watqaˑ
+5.181	swallow	nˀoʕaq
+5.181	swallow	nˀoʕaqši
+5.19	choke	wipax
+5.21	cook	nˀoč
+5.21	cook	nˀočši
+5.22	boil (vb)	moxʷ
+5.22	boil (vb)	mox̣
+5.22	boil (vb)	mox̣ʷaˑ
+5.22	boil (vb)	c̷apqʷ
+5.23	roast, fry	kačˀas
+5.24	bake	maˑs
+5.24	bake	tikʷatq
+5.24	bake	tiˑkʷin
+5.32	plate	łoʕaq
+5.33	bowl	čˀam
+5.35	cup, drinking vessel	c̷ˀiˑyˀokˀom
+5.37	spoon	kaˑc̷ˀinaˑq
+5.43	lunch	koˑk
+5.55	meal, flour	sapniq
+5.56	crush, grind	tiłq
+5.56	crush, grind	tiłqaˑ
+5.61	meat	c̷ˀisq
+5.66	bean	wawac̷ˀaqkˀok
+5.79	oil	λaq
+5.791	grease, fat	wis
+5.791	grease, fat	wisaˑ
+5.81	salt	topˀał
+5.81	salt	topˀał
+6.11	put on (clothes)	mˀočˀič
+6.21	cloth	łikˀʷax̣ał
+6.28	fur	haphapx̣
+6.28	fur	hapsyˀop
+6.29	leather	ʕasałaq
+6.35	sew	nˀi
+6.35	sew	nˀiyaˑ
+6.35	sew	nˀiq
+6.35	sew	nˀiqaˑ
+6.38	thread	ʕiˑs
+6.42	woman's dress	wˀanoš
+6.42	woman's dress	mišatq
+6.42	woman's dress	mišɔˑn
+6.921	braid	c̷ˀiʔis
+7.11	dwell, live	ma
+7.12	house	maḥtˀiq
+7.12	house	maḥtˀiˑ
+7.22	door, gate	tˀaš
+7.22	door, gate	tˀašiˑ
+7.37	ladder	xaˑʔamin
+7.42	bed	hic̷
+7.42	bed	hic̷aˑk
+7.422	blanket	ʔaʔaˑyaqsaʔaq
+7.422	blanket	kˀac̷ḥaq
+7.422	blanket	aʔaq
+7.45	lamp, torch	hičk
+7.45	lamp, torch	hičkak
+7.45	lamp, torch	hičkaˑ
+7.55	beam	tˀaqosči
+7.55	beam	nit
+7.55	beam	nitop
+7.55	beam	kic̷
+7.57	board	ło
+7.57	board	łoʔok
+8.51	grass	ʕaqmaq
+8.531	plant (vb)	toˑk
+8.531	plant (vb)	toˑkʷaˑ
+8.54	root	λˀopˀač
+8.55	branch	kał
+8.55	branch	kˀʷaˑł
+8.72	tree stump	niḥ
+8.72	tree stump	niḥok
+8.72	tree stump	ʕiˑc̷ˀoq
+8.73	tree trunk	ʔositi
+8.75	bark	c̷ˀaq
+8.97	nettle	ʕiˑłmaq
+8.98	mushroom	kanaˑ̆yˀi
+9.11	do, make	haq
+9.12	work	mamo
+9.12	work	mamoˑk
+9.14	bend	yaˑč
+9.14	bend	yaˑčak
+9.14	bend	qiš
+9.14	bend	qišaˑk
+9.15	fold	λˀač
+9.16	tie, bind	maq
+9.16	tie, bind	maλ
+9.16	tie, bind	maλaˑ
+9.16	tie, bind	tap
+9.16	tie, bind	tˀapq
+9.192	knot (noun)	hopq
+9.192	knot (noun)	hopqak
+9.22	cut	čˀi
+9.22	cut	čˀiyaˑ
+9.22	cut	qat
+9.221	cut down	maḥ
+9.222	chop, hew	his
+9.223	stab	qa
+9.223	stab	qayaˑ
+9.251	adze	čˀaḥʷ
+9.251	adze	čˀaḥaˑ
+9.26	break	kiλ
+9.26	break	kˀax̣
+9.26	break	kˀaḥ
+9.27	split	wˀiˑ
+9.27	split	wˀiˑyaˑ
+9.27	split	čˀał
+9.27	split	čˀalaˑ
+9.31	rub, wipe	tas
+9.31	rub, wipe	tasaˑ
+9.31	rub, wipe	ti
+9.31	rub, wipe	tiyaˑ
+9.33	pull	čiˑ
+9.33	pull	čix̣ʷ
+9.33	pull	čix̣ʷaˑ
+9.34	spread out	ʔałx̣ʷ
+9.34	spread out	ʔałx̣ʷak
+9.34	spread out	ʔinqʷ
+9.34	spread out	ʔinqʷak
+9.343	squeeze, wring	taˑqʷ
+9.343	squeeze, wring	taˑqʷaˑ
+9.36	wash	c̷ˀo
+9.36	wash	c̷ˀoyaˑ
+9.37	sweep	yaxʷ
+9.461	hollow out	ni
+9.461	hollow out	koḥ
+9.48	saw	čit
+9.48	saw	čitaˑ
+9.56	glue	kˀʷin
+9.76	basket	pikaʔoˑpikoʔoˑ
+10.11	move	pis
+10.11	move	pisaˑ
+10.11	move	mał
+10.11	move	małaˑ
+10.13	turn around	mitxʷ
+10.13	turn around	mitxʷaˑ
+10.15	roll	tˀinkʷ
+10.15	roll	tˀinkʷaˑ
+10.15	roll	noˑt
+10.15	roll	noˑtaˑ
+10.17	twist	wac̷k
+10.17	twist	wac̷kak
+10.17	twist	nink
+10.17	twist	ninkak
+10.22	raise, lift	ʔičˀa
+10.22	raise, lift	ʔiˑčˀaˑpi
+10.23	fall	ʔoxʷ
+10.23	fall	ʔoxʷaˑ
+10.23	fall	hoxʷ
+10.23	fall	toxoł
+10.23	fall	toxʷił
+10.23	fall	toqʷat
+10.25	throw	waḥ
+10.25	throw	waḥaˑ
+10.25	throw	tˀi
+10.25	throw	tˀiči
+10.26	shake	yaxʷ
+10.26	shake	toḥ
+10.32	flow	ʕo
+10.32	flow	ʕoʔak
+10.32	flow	łoḥ
+10.32	flow	łoḥaˑ
+10.33	sink	tiˑ
+10.34	float	yoxʷ
+10.35	swim	ʕaḥ
+10.35	swim	sos
+10.35	swim	sosaˑ
+10.351	dive	tˀaps
+10.351	dive	tˀapsaˑ
+10.36	sail (vb)	siˑk
+10.36	sail (vb)	siˑkaˑ
+10.37	fly (vb)	mat
+10.37	fly (vb)	mataˑ
+10.37	fly (vb)	mac̷kʷaq
+10.37	fly (vb)	maˑc̷kʷin
+10.38	blow	hiḥ
+10.38	blow	hiḥaˑ
+10.38	blow	yo
+10.38	blow	yoʔi
+10.38	blow	poˑxʷ
+10.38	blow	poˑxʷaˑ
+10.412	kneel	hatq
+10.412	kneel	hatqak
+10.43	jump, leap	toxʷ
+10.43	jump, leap	toxʷaˑ
+10.431	kick	yac̷k
+10.431	kick	yac̷kaˑ
+10.431	kick	naλkši
+10.44	dance	hoł
+10.44	dance	hoˑyaˑł
+10.45	walk	yac̷
+10.45	walk	yac̷aˑ
+10.45	walk	yaˑc̷
+10.45	walk	yaˑc̷ok
+10.46	run	po
+10.46	run	poʔakpoyaˑ
+10.46	run	kamitqʷ
+10.47	go	wahaˑk
+10.613	carry-on-shoulder	tˀanop
+10.613	carry-on-shoulder	tˀanopa
+10.64	lead (vb)	kot
+10.64	lead (vb)	kotaˑ
+10.67	push, shove	čat
+10.67	push, shove	čataˑ
+10.72	path	tˀaš
+10.72	path	tˀašiˑ
+10.831	canoe	pˀinwˀał
+10.831	canoe	hopinwaq
+10.831	canoe	hopinwaš
+10.84	raft	tapkʷaˑ̆k
+10.851	paddle (noun)	ʔoxʷ
+10.851	paddle (noun)	ʔoxʷaˑp
+10.89	anchor	tˀayoˑ
+10.89	anchor	tˀayoˑs
+10.91	harbor, port	yoˑł
+11.15	hold	so
+11.15	hold	soˑ
+11.18	thing	ʔoˑš
+11.21	give	ʔok
+11.21	give	ʔokši
+11.21	give	nˀaḥiˑ̆
+11.24	preserve, look after	hašaḥ
+11.32	find	kˀinyˀaˑ̆p
+11.33	lose	pawał
+11.33	lose	pawała
+11.51	rich	wic̷awiˑc̷iq
+11.62	borrow	ʔakˀʷał
+11.62	borrow	ʔakˀoł
+11.65	pay (vb)	hałaˑ̆
+11.83	trade, barter	makʷ
+11.83	trade, barter	maˑkok
+11.89	cheap	nixʷ
+11.89	cheap	niˑxʷ
+11.89	cheap	nixʷak
+11.89	cheap	niˑxʷak
+12.3	down, below	ʔaˑmˀaˑ
+12.41	right (side)	hi
+12.41	right (side)	hičiλ
+12.11	place	ʔostˑ
+12.11	place	hisahis
+12.13	sit	tˀiqʷ
+12.14	lie down	nˀiλ
+12.15	stand	taʕał
+12.15	stand	taʕała
+12.15	stand	λakiš
+12.16	remain, stay	wiˑnap
+12.16	remain, stay	wiˑnapi
+12.23	separate	xača
+12.232	divide	xas
+12.27	hide, conceal	hopt
+12.27	hide, conceal	hoptaˑ
+12.352	pointed	kˀoˑk
+12.352	pointed	kˀoˑkʷaˑ
+12.352	pointed	sačk
+12.353	edge	yomaḥtim
+12.36	side	hačis
+12.37	middle, center	ʔam
+12.37	middle, center	ʔap
+12.41	right (side)	čim
+12.41	right (side)	čama
+12.43	near (adv)	ʔanaˑʔis
+12.43	near (adv)	nat
+12.54	measure	ka
+12.54	measure	kayaˑ
+12.55	large, big	ʔaq
+12.55	large, big	ʔiˑḥ
+12.55	large, big	hac̷ˀoḥ
+12.56	small, little	ʔapaˑ̆sʔis
+12.57	long	haˑc̷ˀa
+12.57	long	yˀaqyˀaˑ̆q
+12.57	long	yˀaˑq
+12.59	short	nˀiˑc̷
+12.59	short	nˀiˑc̷ʔis
+12.62	narrow	yˀočk
+12.62	narrow	yˀočkak
+12.63	thick (in dimension)	ʔatˀa
+12.68	shallow	wiḥ
+12.68	shallow	wiḥak
+12.68	shallow	wiḥaˑ
+12.71	flat	λˀax̣
+12.71	flat	λˀaḥ
+12.81	round	hopk
+12.81	round	hopkak
+12.82	circle	minkak
+12.82	circle	λˀink
+12.83	sphere, ball	hop
+13.1	one	nˀop
+13.1	one	c̷ˀawaˑ̆
+13.2	two	ʔaλ
+13.3	three	qačc̷ˀa
+13.3	three	qac̷c̷ˀa
+13.4	four	moˑ
+13.4	four	moy
+13.4	four	moˑ
+13.5	five	sočˀa
+13.6	six	nˀopo<nˀoppo
+13.7	seven	ʔaλpo
+13.9	nine	c̷ˀawaˑkʷał
+13.10	ten	ḥayo
+13.104	twenty	c̷aqiˑ̆c̷
+13.107	count	hoks
+13.107	count	hoksaˑ
+13.14	every, all	hiš
+13.14	every, all	hiq
+13.14	every, all	homaqλ
+13.14	every, all	moxt
+13.14	every, all	moxtak
+13.15	much, many	ʔaya
+13.15	much, many	ʔayi
+13.15	much, many	ʔayo
+13.17	little (quantity), few	kamˀaˑ̆ʔis
+13.33	alone, only	nˀama
+13.34	first	ʔamˀa
+14.15	old	waš
+14.15	old	wašak
+14.18	now	waˑλ
+14.19	immediately	ʔeʔim
+14.19	immediately	takok
+14.21	swift, fast, quick	ʔoˑsa
+14.21	swift, fast, quick	ʔoˑsaˑ̆k
+14.21	swift, fast, quick	wasqʷiˑ̆
+14.21	swift, fast, quick	kixł
+14.23	hasten, hurry	ʔeʔeiˑ̆š
+14.23	hasten, hurry	ʔeʔiš
+14.23	hasten, hurry	yošo
+14.23	hasten, hurry	čˀašaq
+14.23	hasten, hurry	čˀašaˑ
+14.27	finish	hawił
+14.27	finish	hawiˑ
+14.27	finish	hawiˑ
+14.29	ready	ʔiˑnax
+14.29	ready	ʔiˑnaxi
+14.31	always	taˑkšiλ
+14.31	always	nˀoˑmˀaya
+14.332	long-time (for a)	hoˑʔak
+14.34	never	wiˑyˀa
+14.35	again	ʔiqʔiqḥ
+14.35	again	hoʔa
+14.41	day	nˀaˑs
+14.42	night	ʔatḥ
+14.42	night	ʔatḥiˑ
+14.43	dawn	kaλḥ
+14.43	dawn	kaλḥak
+14.43	dawn	c̷ˀiwiˑtqši
+14.44	morning	koʔał
+14.46	evening	toˑpši
+15.21	smell (vb intrans)	mis
+15.21	smell (vb intrans)	misaˑ
+15.212	sniff	nisk
+15.212	sniff	niskaˑ
+15.35	sweet	čamas
+15.38	acid, sour	c̷iḥ
+15.41	hear	naʔaˑ̆
+15.41	hear	naʔaˑ
+15.51	see	nˀač
+15.51	see	nˀaˑc̷sa
+15.51	see	nˀačoʔał
+15.51	see	niˑ
+15.51	see	neˑ
+15.51	see	neˑy
+15.52	look, look at	nˀaš
+15.52	look, look at	nˀaši
+15.55	show	ḥim
+15.64	white	λˀic̷
+15.64	white	λˀis
+15.64	white	λˀisok
+15.65	black	topk
+15.65	black	topkok
+15.65	black	tom
+15.66	red	λˀiḥ
+15.67	blue	kinˀic̷
+15.67	blue	kinˀic̷ak
+15.68	green	kistaq
+15.68	green	ʕomaˑ̆q
+15.69	yellow	ḥic̷pˀiq
+15.81	heavy	kʷatyi
+15.82	light (in weight)	yoxʔis
+15.83	wet, damp	tˀał
+15.83	wet, damp	tˀałak
+15.83	wet, damp	tˀałaˑ
+15.84	dry	ḥapc̷
+15.85	hot	hinq
+15.851	warm	taˑł
+15.851	warm	λˀom
+15.86	cold	pok
+15.86	cold	pokmis
+15.86	cold	mˀał
+15.86	cold	mˀałok
+15.86	cold	mˀała
+15.88	dirty, soiled	ʔašx̣
+15.88	dirty, soiled	ʔašx̣ak
+15.88	dirty, soiled	ʔišk
+15.88	dirty, soiled	ʔiškak
+15.88	dirty, soiled	mač
+15.88	dirty, soiled	mačq
+15.88	dirty, soiled	mačqak
+16.15	surprised, astonished	yˀowaˑ
+16.15	surprised, astonished	yˀowaˑł
+16.23	joyful, glad, happy	našaˑkʷ
+16.23	joyful, glad, happy	naš
+16.23	joyful, glad, happy	našaˑk
+16.23	joyful, glad, happy	čaxt
+16.23	joyful, glad, happy	čaxtak
+16.23	joyful, glad, happy	čit
+16.23	joyful, glad, happy	čitak
+16.25	laugh	hahahaha
+16.25	laugh	hehehehe
+16.31	pain	ʔakayaˑ
+16.32	grief, sorrow, sadness	šiˑwał
+16.37	cry, weep	ʕiḥ
+16.42	anger	wiˑq
+16.44	envy, jealousy	hothotiˑq
+16.44	envy, jealousy	hotiˑqak
+16.45	shame (noun)	yˀimḥ
+16.45	shame (noun)	yˀimḥaˑ
+16.45	shame (noun)	wˀaˑ
+16.45	shame (noun)	wˀaˑʔak
+16.53	fear, fright	howˀaqλ
+16.53	fear, fright	toḥ
+16.53	fear, fright	toˑḥok
+16.62	desire, want	ʔinisʔaˑḥ
+16.62	desire, want	kʷinʔał
+16.66	true	ftˀaqo
+16.66	true	tˀaqoqλ
+16.68	deceit	ʔaˑʔaˑyisax̣a
+16.71	good	ʔoˑq
+16.71	good	λoł
+16.72	bad	pˀiš
+16.72	bad	pˀišaq
+17.13	think (= reflect)	tˀapat
+17.13	think (= reflect)	tˀapata
+17.15	believe	ʔoˑqłaˑp
+17.15	believe	m
+17.17	know	hašił
+17.17	know	hoḥtak
+17.171	guess	ʔanaʕap
+17.22	foolish, stupid	hayoxʷ
+17.23	insane, crazy	hayoxʷ
+17.25	teach	ḥaˑḥoˑp
+17.48	try, attempt	maˑna
+17.48	try, attempt	maˑnokʷi
+17.51	and	ʔiš
+17.51	and	weˑ
+17.55	yes, affirmative	haˑʔa
+17.56	no, negative	hik
+17.56	no, negative	wik
+17.63	how much?	ʔana
+17.63	how much?	ʔani
+17.63	how much?	ʔano
+17.64	what?	ʔaqi
+17.64	what?	ʔaqaq
+17.66	where?	waˑswaˑsa
+17.66	where?	waˑsi
+17.67	which?	waˑyaq
+17.68	who?	ʔača
+17.68	who?	ʔačaq
+18.11	voice	waniq
+18.11	voice	waniˑq
+18.12	sing	nonoˑk
+18.13	shout, cry out	hixoq
+18.13	shout, cry out	hixoqʷa
+18.13	shout, cry out	haˑˑyiˑˑ
+18.15	whisper	kał
+18.15	whisper	kałaˑ
+18.17	whistle	kiˑk
+18.17	whistle	kiˑkaˑ
+18.19	howl	wˀapˀiq
+18.21	speak, talk	c̷iq
+18.21	speak, talk	c̷iqaˑ
+18.22	say	haˑni
+18.22	say	hani
+18.22	say	haneˑ
+18.22	say	waˑł
+18.22	say	wawaˑ
+18.22	say	waˑ
+18.221	tell story	ʔiyaqḥʔiˑqḥ
+18.221	tell story	ʔiˑqḥok
+18.221	tell story	ʔiˑqḥ
+18.221	tell story	ʔiˑqḥok
+18.26	word	waˑł
+18.28	name	ʔiˑwaˑnox
+18.28	name	x̣ʷiˑliˑ
+18.28	name	ḥapˀinyok
+18.31	ask (question, inquire)	ʔaʔatał
+18.34	deny	yaˑ
+18.39	rebuke, scold	wišk
+18.39	rebuke, scold	wiškaˑ
+18.41	call (=summon)	haˑʕin
+18.51	write	qic̷
+19.23	tribe, clan	ma
+19.23	tribe, clan	maʔas
+19.42	slave	qoł
+19.51	friend, companion	wanˀeˑ
+19.55	stranger	λaˑsa
+19.58	help, aid	hopiˑ̆
+20.22	club	čˀitˀoqʷ
+20.22	club	čˀitˀoˑł
+20.24	bow	mos
+20.24	bow	moˑstatiq
+20.24	bow	moˑstati
+20.25	arrow	c̷ˀiˑḥat
+20.26	spear	miłs
+20.26	spear	miłsyˀi
+20.47	captive, prisoner	mˀaˑt
+20.47	captive, prisoner	mˀaˑtił
+20.61	hunt	ʔac̷ʔaˑc̷
+20.62	shoot	λˀi
+21.42	murder	tˀoxʷ
+21.42	murder	tˀoxši
+21.51	steal	koˑwˀił

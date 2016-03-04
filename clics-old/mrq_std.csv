@@ -1,0 +1,1230 @@
+@classification: Austronesian,Malayo-Polynesian,Central-Eastern,Eastern Malayo-Polynesian,Oceanic,Central-Eastern Oceanic,Remote Oceanic,Central Pacific,East Fijian-Polynesian,Polynesian,Nuclear,East,Central,Marquesic
+@ids-name: Marquesan_Phonemic
+@iso: mrq
+@language: Marquesan, North
+@size: 1223
+@source: ids
+@variety: std
+1.1	world	aomaáma
+1.1	world	eaonei
+1.21	earth, land	épo
+1.21	earth, land	one
+1.212	earth=ground, soil	tohua
+1.212	earth=ground, soil	henua
+1.213	dust	épo
+1.213	dust	époéhu
+1.213	dust	kau
+1.214	mud	épo
+1.214	mud	épokoákoá
+1.214	mud	épopaápaáitaó
+1.215	sand	one
+1.22	mountain, hill	uta
+1.22	mountain, hill	ivi
+1.22	mountain, hill	tuaivi
+1.222	cliff, precipice	pauma
+1.222	cliff, precipice	ópata
+1.222	cliff, precipice	paumameniaka
+1.23	plain, field	vahipakahakaha
+1.23	plain, field	vahipaáhaáha
+1.23	plain, field	euta
+1.24	valley	kaávai
+1.24	valley	vavahenua
+1.25	island	motu
+1.25	island	motafenua
+1.26	mainland	motunui
+1.26	mainland	fenuanui
+1.27	shore	hikuotetai
+1.27	shore	one
+1.27	shore	vaávaá
+1.27	shore	vakavaka
+1.28	cave	ana
+1.28	cave	anahohonu
+1.31	water	vai
+1.32	sea	tai
+1.32	sea	taipi
+1.323	rough (of sea)	koukouaia
+1.324	foam	puapua
+1.324	foam	épo
+1.324	foam	ímu
+1.329	ocean	moana
+1.329	ocean	tainui
+1.33	lake	vaióto
+1.33	lake	vaikoto
+1.34	gulf, bay	fana
+1.34	gulf, bay	hanaka
+1.34	gulf, bay	eavaputa
+1.342	reef	motukeáiohetai
+1.342	reef	taihati
+1.342	reef	taifati
+1.342	reef	koutu
+1.342	reef	papakoutu
+1.35	wave	kaú
+1.35	wave	peáutai
+1.352	tide	taipi
+1.352	tide	taiheke
+1.353	lowtide	taihekeatu
+1.36	river, stream, brook	vaitahe
+1.36	river, stream, brook	kaávai
+1.36	river, stream, brook	vaitahe
+1.362	whirlpool	vaikaviívií
+1.37	spring, well	puna
+1.37	spring, well	tumu
+1.38	swamp	vaipaápaátao
+1.39	waterfall	kahivai
+1.39	waterfall	evaikahi
+1.39	waterfall	ekahi
+1.41	woods, forest	tahateitanui
+1.42	tree (cf 08.600)	tumuákau
+1.42	tree (cf 08.600)	tumukaáu
+1.43	wood	tahateitanui
+1.43	wood	kaáu
+1.43	wood	ákau
+1.44	stone, rock	keá
+1.44	stone, rock	tukií
+1.44	stone, rock	kiíkií
+1.45	earthquake	úotehenua
+1.51	sky	áni
+1.51	sky	áki
+1.52	sun	oumati
+1.53	moon	mahina
+1.54	star	fetu
+1.54	star	hetu
+1.54	star	ematafetu
+1.55	lightning	uiá
+1.56	thunder	fatutuí
+1.56	thunder	hatutií
+1.56	thunder	pohe
+1.56	thunder	utumoeáki
+1.58	storm	úatakitehatutií
+1.59	rainbow	anuanua
+1.61	light (noun)	maáma
+1.61	light (noun)	maámaáma
+1.62	darkness	panu
+1.62	darkness	potako
+1.63	shade, shadow	maú
+1.64	dew	hau
+1.71	air	etohua
+1.71	air	eautametaki
+1.71	air	eao
+1.71	air	eataáni
+1.72	wind	metaki
+1.72	wind	metani
+1.72	wind	metakioko
+1.73	cloud	ao
+1.74	fog	kohutopa
+1.74	fog	kohu
+1.75	rain (noun)	uá
+1.81	fire	ahi
+1.82	flame (noun)	uá
+1.82	flame (noun)	ahi
+1.83	smoke (noun)	auahi
+1.84	ashes	éhuahi
+1.84	ashes	kehuahi
+1.841	embers	ánahupuiú
+1.851	burn (vb trans)	tutu
+1.86	light, kindle, ignite	haáuá
+1.86	light, kindle, ignite	uá
+1.861	extinguish	tinai
+1.861	extinguish	kukumi
+1.87	match (noun)	kaáuahi
+1.88	firewood	vehie
+1.89	charcoal	ánahu
+1.89	charcoal	ánahutakapu
+2.1	person, human being	énana
+2.1	person, human being	énata
+2.21	man (vs. woman)	énata
+2.21	man (vs. woman)	kenana
+2.22	woman	vehíne
+2.24	female	vehine
+2.25	boy	tamaóa
+2.251	young man (adolescent)	emahai
+2.26	girl	moí
+2.26	girl	pahoé
+2.261	young woman (adolescent)	epokoéhu
+2.27	child	tama
+2.27	child	tamaóa
+2.27	child	toiti
+2.31	husband	vahana
+2.31	husband	áhana
+2.32	wife	vehine
+2.33	marry	haánohometevahana
+2.33	marry	haánohometevehine
+2.34	marriage, wedding	tuia
+2.341	divorce	titiíítevahana
+2.35	father	motua
+2.36	mother	kui
+2.37	parents	huaá
+2.37	parents	haétoa
+2.37	parents	huaámotua
+2.37	parents	huaákui
+2.41	son	tamaóa
+2.41	son	tama
+2.41	son	tamahamua
+2.42	daughter	moí
+2.42	daughter	pahoé
+2.44	brother	tuaána
+2.44	brother	teina
+2.44	brother	tuname
+2.444	older brother	tuaána
+2.444	older brother	etuakana
+2.445	younger brother	eteina
+2.45	sister	tuehine
+2.45	sister	tuaána
+2.45	sister	teina
+2.454	older sister	etuaána
+2.458	twins	mahana
+2.458	twins	tahioáuakopu
+2.46	grandfather	tupuna
+2.46	grandfather	ahana
+2.461	old man	koóúa
+2.47	grandmother	tupuna
+2.47	grandmother	vehine
+2.471	old woman	vehinepakahio
+2.471	old woman	paáhio
+2.48	grandson	moupuna
+2.48	grandson	poupuna
+2.49	granddaughter	poupuna
+2.51	uncle	motuateina
+2.51	uncle	motuatunane
+2.52	aunt	kuiteina
+2.53	nephew	iámutu
+2.54	niece	moí
+2.54	niece	iamutu
+2.56	ancestors	tupuna
+2.56	ancestors	etaiíáó
+2.56	ancestors	íáó
+2.57	descendants	marée
+2.57	descendants	taiheke
+2.621	mother-in-law (of a woman)	motunoaivehine
+2.64	daughter-in-law (of a man)	hunonavehine
+2.71	stepfather	motunoai
+2.73	stepson	ehunona
+2.75	orphan	tamamotuakoé
+2.75	orphan	metekuikoé
+2.77	widower	popi
+2.77	widower	puouhou
+2.81	relatives, kinsmen	huaá
+2.82	family	haétoa
+2.91	I	au
+2.91	I	ú
+2.92	you (singular)	óe
+2.92	you (singular)	koe
+2.93	he/she/it	ia
+2.941	we (inclusive)	taúa
+2.941	we (inclusive)	tatou
+2.942	we (exclusive)	maúa
+2.942	we (exclusive)	matou
+2.95	you (plural)	ótou
+3.11	animal	epuaá
+3.11	animal	epuaka
+3.15	livestock	puaá
+3.15	livestock	eáhuipuaá
+3.18	herdsman	eénatatiaí
+3.18	herdsman	etiaípuaá
+3.22	ox	epifaááhanahakiuka
+3.26	ram	toa
+3.28	ewe	uha
+3.29	lamb	punua
+3.36	goat	keukeu
+3.37	he-goat	ekeukeutoa
+3.37	he-goat	ekeukeuáhana
+3.38	kid	punuakeukeuepunuamenemene
+3.41	horse (equine)	puakapiíénata
+3.57	duck	ákavaí
+3.57	duck	korokoroánavaí
+3.57	duck	kanikani
+3.581	bird	úpe
+3.61	dog	peto
+3.61	dog	nuhe
+3.62	cat	potu
+3.63	mouse, rat	kioé
+3.65	fish	iá
+3.663	whale	paáoa
+3.665	freshwater eel	epuhi
+3.665	freshwater eel	ekueé
+3.814	centipede	veí
+3.816	cockroach	epopotu
+3.816	cockroach	ekokaha
+3.816	cockroach	koekoeeúa
+3.818	spider	epunaveéveé
+3.819	spider web	efataápunaveéveé
+3.82	bee	tikauéáma
+3.82	bee	etikauétaimanini
+3.821	beeswax	ámatikaué
+4.11	body	tino
+4.11	body	nino
+4.11	body	koói
+4.12	skin, hide	kií
+4.13	flesh	kiko
+4.14	hair (head)	ouoho
+4.142	beard	úmiúmi
+4.142	beard	kumikumi
+4.15	blood	toto
+4.151	vein, artery	euáuá
+4.151	vein, artery	euáuáveákiki
+4.16	bone	ivi
+4.162	rib	vaávaá
+4.162	rib	vakavaka
+4.17	horn	niho
+4.17	horn	keo
+4.18	tail	veó
+4.18	tail	veópoto
+4.18	tail	veóóa
+4.19	back	tua
+4.191	spine	pou
+4.191	spine	átina
+4.191	spine	tuútuú
+4.2	head	upoó
+4.201	side of head, temple	taámata
+4.202	skull	ipuóho
+4.202	skull	úú
+4.203	brain	ipuóó
+4.203	brain	óó
+4.203	brain	roro
+4.203	brain	eihutono
+4.204	face	mata
+4.205	forehead	áe
+4.207	jaw	kouvae
+4.207	jaw	kouvaeúka
+4.207	jaw	kouvaeáó
+4.208	cheek	papaína
+4.208	cheek	papaíka
+4.209	chin	kouvae
+4.21	eye	mata
+4.21	eye	kikomata
+4.212	eyebrow	tukemata
+4.213	eyelid	kiímata
+4.213	eyelid	kiíamata
+4.213	eyelid	kahumata
+4.214	eyelash	huúhuúmata
+4.214	eyelash	huúmata
+4.215	blink	uhiítemata
+4.215	blink	efeííítemata
+4.215	blink	emataferiri
+4.215	blink	emataninia
+4.22	ear	puaika
+4.222	earwax	haátaítaí
+4.23	nose	ihu
+4.231	nostril	mokamokaihu
+4.232	mucus (nasal)	kope
+4.232	mucus (nasal)	kaka
+4.232	mucus (nasal)	kaáka
+4.24	mouth	fafa
+4.24	mouth	haha
+4.241	beak	ekiínutu
+4.25	lip	kiínutu
+4.25	lip	íínutu
+4.25	lip	kiíkutu
+4.26	tongue	éó
+4.26	tongue	aéó
+4.27	tooth	niho
+4.271	gums	paániho
+4.272	molartooth	nihopona
+4.28	neck	kaki
+4.28	neck	áí
+4.28	neck	tumukaki
+4.281	nape of neck	honona
+4.29	throat	kaki
+4.29	throat	katiehe
+4.3	shoulder	paufifi
+4.301	shoulderblade	ivipauhihi
+4.301	shoulderblade	tahiíííma
+4.302	collarbone	tekapaufifi
+4.31	arm	ííma
+4.31	arm	ekoóíííma
+4.31	arm	ekakanoííma
+4.312	armpit	ekaáke
+4.312	armpit	eúakaáke
+4.32	elbow	tukeííma
+4.321	wrist	óhuma
+4.33	hand	íma
+4.331	palm of hand	tohuaííma
+4.331	palm of hand	ahuoneo
+4.331	palm of hand	aohakaííma
+4.34	finger	manamanaííma
+4.342	thumb	makamakanui
+4.344	fingernail	maikuku
+4.345	claw	maiúú
+4.345	claw	maikuku
+4.345	claw	matiúú
+4.35	leg	vae
+4.35	leg	vaevae
+4.351	thigh	puha
+4.352	calf of leg	hikuvaevae
+4.352	calf of leg	huehuevaevae
+4.36	knee	muó
+4.37	foot	vae
+4.37	foot	vaevae
+4.371	ankle	paoka
+4.371	ankle	emeapaoka
+4.371	ankle	epatia
+4.371	ankle	puóvaevae
+4.372	heel	tukevae
+4.374	footprint	hakatu
+4.374	footprint	ata
+4.38	toe	makamakavaevae
+4.392	wing	epekeheu
+4.392	wing	ekeheu
+4.392	wing	epeheu
+4.393	feather	huú
+4.4	chest	umauma
+4.4	chest	uma
+4.41	breast (of woman)	umauma
+4.41	breast (of woman)	uma
+4.41	breast (of woman)	u
+4.41	breast (of woman)	koekoe
+4.41	breast (of woman)	kopu
+4.412	nipple, teat	mata
+4.412	nipple, teat	u
+4.42	udder	huevaiu
+4.43	navel	pito
+4.44	heart	ehoupo
+4.44	heart	úaútehoupo
+4.441	lung	atepua
+4.45	liver	ate
+4.451	kidney	viítua
+4.452	spleen	ate
+4.452	spleen	atemama
+4.46	stomach	ópu
+4.46	stomach	kopu
+4.461	intestines, guts	koekoe
+4.462	waist	mata
+4.462	waist	koói
+4.463	hip	teka
+4.463	hip	hopuhopu
+4.463	hip	tipitipi
+4.464	buttocks	papahohope
+4.464	buttocks	papatitohe
+4.464	buttocks	hope
+4.47	womb	tumu
+4.49	testicle	komai
+4.51	breathe, breath	ao
+4.51	breathe, breath	eatemenava
+4.51	breathe, breath	puhiteao
+4.521	hiccough	neo
+4.53	cough	hekei
+4.53	cough	hapu
+4.54	sneeze	tihe
+4.55	perspire	moahua
+4.55	perspire	tokohana
+4.56	spit	tufaíteanuanu
+4.56	spit	tuhaíteanuanu
+4.57	vomit	úá
+4.58	bite	kakahu
+4.59	lick	miti
+4.59	lick	hoóimeteéó
+4.591	dribble	ekae
+4.591	dribble	ekaenui
+4.591	dribble	etahetekae
+4.61	sleep	hiamoe
+4.612	snore	haátakiteihu
+4.62	dream	moe
+4.62	dream	moemoea
+4.63	wake up	hakaá
+4.63	wake up	hakavaá
+4.64	break wind	hu
+4.65	urinate	mimi
+4.66	defecate	haátaítaí
+4.66	defecate	haáhoata
+4.68	shiver	kiíéte
+4.68	shiver	emieé
+4.69	bathe	ehakaukuíótohevai
+4.71	beget (of father)	fanau
+4.72	born (to be)	hanau
+4.72	born (to be)	tiheívaho
+4.72	born (to be)	koekoemeitaí
+4.73	pregnant	óputama
+4.732	conceive	tupu
+4.732	conceive	kokie
+4.74	live, living, life	pohué
+4.75	die, dead	mate
+4.751	drowned	kaótai
+4.751	drowned	kaóiohetai
+4.76	kill	haámate
+4.76	kill	kukumi
+4.76	kill	pehi
+4.76	kill	tinai
+4.77	corpse	tupapaúeiviivi
+4.78	bury (the dead)	tomiioheépo
+4.79	grave, tomb	anatupapaku
+4.81	strong, mighty, powerful	oko
+4.81	strong, mighty, powerful	toa
+4.82	weak	pepeé
+4.82	weak	ííkoé
+4.82	weak	pepaé
+4.83	well, health	pohué
+4.84	sick, sickness	hopi
+4.84	sick, sickness	mate
+4.841	fever	hautete
+4.841	fever	kamaíí
+4.841	fever	veáveá
+4.842	goiter	kakiuúa
+4.842	goiter	kakihuhua
+4.843	cold (catarrh)	fenei
+4.843	cold (catarrh)	ehapu
+4.85	wound, sore	etu
+4.85	wound, sore	etutina
+4.85	wound, sore	emaki
+4.852	bruise	moho
+4.852	bruise	koka
+4.852	bruise	meheauatu
+4.853	swelling	euto
+4.853	swelling	epuú
+4.853	swelling	etuauto
+4.853	swelling	eumapuú
+4.854	itch	pueva
+4.854	itch	meneo
+4.854	itch	epa
+4.854	itch	pihanahana
+4.855	blister	ekoópu
+4.855	blister	emitaá
+4.856	boil (noun)	fefe
+4.857	pus	piáu
+4.857	pus	meapiáu
+4.858	scar	makioá
+4.86	cure, heal	oá
+4.86	cure, heal	haáoá
+4.86	cure, heal	haákoétemate
+4.87	physician	tatihi
+4.87	physician	taute
+4.88	medicine, drug	haika
+4.88	medicine, drug	hainu
+4.89	poison	meatekeo
+4.89	poison	meamate
+4.91	tired, weary	tono
+4.91	tired, weary	paópaó
+4.91	tired, weary	nano
+4.912	rest	hakamoeiho
+4.912	rest	tukuhakaúa
+4.92	lazy	haátekao
+4.93	bald	ohopekia
+4.93	bald	ohopitaka
+4.94	lame	vaekoki
+4.94	lame	tipikoki
+4.94	lame	timoe
+4.95	deaf	putuí
+4.95	deaf	puaikapivo
+4.96	mute	moha
+4.97	blind	matapo
+4.98	intoxicated	koeá
+4.98	intoxicated	kona
+4.99	naked, bare	áí
+4.99	naked, bare	aámakaka
+5.11	eat	kai
+5.11	eat	oá
+5.11	eat	meaekai
+5.12	food	oá
+5.12	food	meaekai
+5.12	food	ekai
+5.125	rotten	piáu
+5.13	drink	inu
+5.14	hunger	one
+5.15	thirst	maóítevai
+5.15	thirst	emao
+5.18	chew	tapiímeteépau
+5.181	swallow	ehoópuú
+5.181	swallow	emitihuú
+5.181	swallow	emitipuú
+5.181	swallow	emitihoó
+5.181	swallow	ehoóniko
+5.19	choke	haánaénaé
+5.19	choke	kukumi
+5.19	choke	úúmi
+5.21	cook	nunu
+5.22	boil (vb)	pupuhi
+5.23	roast, fry	tao
+5.23	roast, fry	enunu
+5.24	bake	tunu
+5.25	oven	umu
+5.27	kettle	ehuetunuvai
+5.31	dish	koóka
+5.31	dish	papa
+5.32	plate	epapa
+5.33	bowl	eipu
+5.33	bowl	ehue
+5.35	cup, drinking vessel	pué
+5.37	spoon	miti
+5.37	spoon	ápu
+5.37	spoon	kapu
+5.391	tongs	punaku
+5.41	meal (a)	kai
+5.41	meal (a)	ekaiia
+5.41	meal (a)	kaikai
+5.46	peel	íhi
+5.46	peel	vaú
+5.46	peel	unutikaka
+5.47	sieve, strain	ehaápapua
+5.48	scrape	feú
+5.49	stir, mix	kavohi
+5.49	stir, mix	kavai
+5.53	dough	mehepopoi
+5.53	dough	mehema
+5.56	crush, grind	tuki
+5.56	crush, grind	tukituki
+5.56	crush, grind	ehaáéhu
+5.56	crush, grind	epaópaó
+5.56	crush, grind	ehaámamaota
+5.57	mill	meakavií
+5.58	mortar	paémo
+5.59	pestle	momautuki
+5.61	meat	kiko
+5.712	bunch	eaihuóa
+5.712	bunch	epupamutie
+5.712	bunch	epupateita
+5.77	nut	áma
+5.79	oil	kao
+5.791	grease, fat	kao
+5.81	salt	kanatai
+5.81	salt	puhinaú
+5.84	honey	maninitaíaetetikaué
+5.86	milk (noun)	vaiu
+5.9	beverage, drink	efainu
+5.9	beverage, drink	meainu
+5.94	fermented drink	pupuhi
+5.97	egg	mamai
+5.971	egg yolk	énamamai
+6.11	put on (clothes)	kahu
+6.12	clothing, clothes	áhu
+6.21	cloth	tapa
+6.21	cloth	kahu
+6.28	fur	kahukipuaka
+6.29	leather	tapií
+6.31	spin	fió
+6.31	spin	hió
+6.32	spindle	meakaviíaho
+6.33	weave	aáka
+6.33	weave	ekeana
+6.35	sew	tui
+6.36	needle	nina
+6.36	needle	erira
+6.36	needle	eninahunahuna
+6.37	awl	etaá
+6.38	thread	aho
+6.39	dye	tapuí
+6.39	dye	tapau
+6.41	cloak	etuanaé
+6.42	woman's dress	ropa
+6.42	woman's dress	kahuropa
+6.42	woman's dress	kahutuí
+6.44	shirt	kahuúna
+6.46	skirt	kahuúna
+6.46	skirt	eéuéu
+6.46	skirt	kaeu
+6.51	shoe	aihu
+6.51	shoe	fafivaevae
+6.55	hat, cap	paékeapu
+6.55	hat, cap	paéhauáni
+6.57	belt, girdle	takakoói
+6.57	belt, girdle	epitiíkoói
+6.57	belt, girdle	ekitiíkoói
+6.62	button	ehoé
+6.62	button	etupu
+6.63	pin	pine
+6.63	pin	vihuka
+6.71	ornament, adornment	tapi
+6.73	ring (for finger)	ehakatuííma
+6.73	ring (for finger)	eokaííma
+6.74	bracelet	hakatuííma
+6.74	bracelet	etopepu
+6.75	necklace	hei
+6.75	necklace	eheipipi
+6.76	bead	kakano
+6.77	earring	eiviika
+6.78	headband, headdress	paé
+6.78	headband, headdress	fitiíupoó
+6.79	tattoo	tiki
+6.79	tattoo	patutiki
+6.81	handkerchief, rag	kahupepe
+6.91	comb	koheú
+6.91	comb	paheú
+6.92	brush	ehuúpuaáukuikahu
+6.92	brush	emeahaámeniakahu
+6.92	brush	emeaukuikahu
+6.921	braid	aáka
+6.94	ointment	apaukakaá
+7.11	dwell, live	noho
+7.11	dwell, live	ihi
+7.11	dwell, live	taihi
+7.11	dwell, live	tanoho
+7.12	house	haé
+7.13	hut	faéiti
+7.13	hut	haénouo
+7.131	garden-house	efaé
+7.15	yard, court	papua
+7.17	cookhouse	faétumaú
+7.17	cookhouse	faéahi
+7.21	room	apana
+7.21	room	apena
+7.21	room	pahe
+7.22	door, gate	puta
+7.22	door, gate	poho
+7.22	door, gate	papapoho
+7.23	lock (noun)	ekiri
+7.24	key	kiri
+7.25	window	putahaámaáma
+7.26	floor	papahua
+7.27	wall	paá
+7.27	wall	pa
+7.31	fireplace	tahunaahi
+7.31	fireplace	ahi
+7.32	stove	fanaipani
+7.32	stove	nunufanaipani
+7.33	chimney	putaauahi
+7.33	chimney	pukoheauahi
+7.37	ladder	piína
+7.37	ladder	haátumatuma
+7.42	bed	peti
+7.42	bed	moena
+7.42	bed	taha
+7.421	pillow	patiétié
+7.421	pillow	paépaé
+7.422	blanket	kahuuhipu
+7.422	blanket	kahupu
+7.43	chair	nohona
+7.44	table	kaiiakai
+7.44	table	tapukaikai
+7.45	lamp, torch	hueáma
+7.45	lamp, torch	áma
+7.45	lamp, torch	huekaoáma
+7.46	candle	eama
+7.46	candle	eáma
+7.46	candle	ámaóópaáva
+7.46	candle	ámatikaué
+7.47	shelf	fataá
+7.48	trough	úavai
+7.48	trough	hoana
+7.48	trough	papa
+7.48	trough	koóka
+7.48	trough	umete
+7.48	trough	toto
+7.48	trough	tahake
+7.51	roof	úkaotehaé
+7.52	thatch	tumufaraoa
+7.53	ridgepole	pou
+7.54	rafter	oka
+7.54	rafter	eokatitatita
+7.55	beam	pou
+7.56	post, pole	pou
+7.57	board	papapoho
+7.58	arch	earaka
+7.61	mason	tuhukahaéupe
+7.62	brick	tohianaépotao
+7.63	mortar	paémo
+7.63	mortar	taémo
+8.12	field (for cultivation)	kekefenua
+8.12	field (for cultivation)	epiáofenuacga
+8.13	garden	papua
+8.16	fence	pa
+8.17	ditch	úa
+8.21	plow	patitikeiépo
+8.212	furrow	ava
+8.212	furrow	koava
+8.22	dig	keiíteépo
+8.23	spade	ekeiépo
+8.23	spade	eko
+8.24	shovel	mitiépo
+8.24	shovel	kapuépo
+8.24	shovel	meakapuíteépo
+8.24	shovel	tohiépo
+8.31	sow	úú
+8.31	sow	tutu
+8.311	seed	kakano
+8.51	grass	mutie
+8.531	plant (vb)	nanu
+8.54	root	áka
+8.55	branch	emana
+8.55	branch	emanamana
+8.56	leaf	áu
+8.56	leaf	óu
+8.57	flower	tiaé
+8.6	tree	tumuákau
+8.6	tree	etumukaáu
+8.6	tree	etumu
+8.72	tree stump	tumu
+8.73	tree trunk	tumu
+8.73	tree trunk	koói
+8.75	bark	kií
+8.76	sap	epau
+8.76	sap	vai
+8.81	palm tree	vahake
+8.81	palm tree	vahane
+8.82	coconut	áma
+8.84	banana tree	tumumeika
+8.84	banana tree	meiá
+8.84	banana tree	emeika
+8.85	banyan	eaoa
+8.91	sweet potato	úmaá
+8.91	sweet potato	kumaá
+8.912	yam	puauhi
+8.92	tapioca, manioc, cassava	aihuka
+8.92	tapioca, manioc, cassava	manioka
+8.93	gourd	ehuemaoí
+8.931	pumpkin, squash	huekai
+8.94	bamboo	kohe
+8.94	bamboo	kohemaoí
+8.97	nettle	onaona
+8.97	nettle	okaoka
+8.98	mushroom	puainaveinehae
+8.98	mushroom	haápaupau
+9.14	bend	pikao
+9.15	fold	pokai
+9.15	fold	pokao
+9.16	tie, bind	ehaámau
+9.16	tie, bind	ehumu
+9.18	chain	tuítuíkioé
+9.19	rope, cord	touá
+9.192	knot (noun)	pona
+9.192	knot (noun)	ponahuhu
+9.221	cut down	etua
+9.223	stab	okameteoka
+9.23	knife	kohe
+9.25	ax	toí
+9.25	ax	toki
+9.251	adze	tokipeheu
+9.26	break	emotu
+9.26	break	efati
+9.26	break	fefati
+9.26	break	emamape
+9.26	break	emomope
+9.26	break	ehaátiati
+9.26	break	ehaáfati
+9.29	flay, skin	takitekií
+9.31	rub, wipe	hoói
+9.341	hang up	haáéva
+9.342	press	piíí
+9.342	press	etoko
+9.342	press	ehaámau
+9.342	press	etokoítepa
+9.36	wash	hoói
+9.36	wash	hoóimetevai
+9.37	sweep	ehoéíteépo
+9.37	sweep	epurumi
+9.37	sweep	ehoé
+9.38	broom	hoeépo
+9.38	broom	etupeépo
+9.43	carpenter	tuhunaatofaé
+9.44	build	ehakatu
+9.44	build	eato
+9.44	build	eupeítepaépaé
+9.46	bore	tiputa
+9.46	bore	hou
+9.46	bore	oka
+9.46	bore	tuí
+9.56	glue	piípií
+9.56	glue	pipií
+9.56	glue	haátiá
+9.56	glue	eao
+9.56	glue	emau
+9.56	glue	emauia
+9.56	glue	epau
+9.56	glue	emeapipíí
+9.73	clay	eépo
+9.73	clay	eonepahu
+9.75	weave, plait	aáka
+9.75	weave, plait	keana
+9.77	mat	moena
+9.771	rug	maiki
+9.771	rug	maií
+9.771	rug	haií
+9.771	rug	haiki
+9.771	rug	moeka
+9.771	rug	faií
+9.79	fan (noun)	tahií
+9.81	carve	ketu
+9.82	sculptor	tuhukaketu
+9.84	chisel	toki
+9.84	chisel	kiri
+9.84	chisel	nutupahi
+10.11	move	ekeu
+10.14	wind, wrap	kaviííúna
+10.14	wind, wrap	pokaometetuú
+10.21	rise	efitina
+10.22	raise, lift	tiétié
+10.23	fall	topa
+10.25	throw	titii
+10.252	catch (ball)	tikoe
+10.252	catch (ball)	tióe
+10.26	shake	haákeue
+10.32	flow	tahe
+10.34	float	ána
+10.35	swim	kau
+10.35	swim	kaukau
+10.351	dive	úku
+10.37	fly (vb)	kamo
+10.37	fly (vb)	toópu
+10.37	fly (vb)	ona
+10.38	blow	puhi
+10.42	slide, slip	paheke
+10.43	jump, leap	keétu
+10.43	jump, leap	éépao
+10.43	jump, leap	keépao
+10.44	dance	haka
+10.44	dance	heva
+10.45	walk	heé
+10.45	walk	taha
+10.45	walk	hiti
+10.45	walk	heke
+10.45	walk	éé
+10.451	limp	heékohipa
+10.451	limp	eheékoki
+10.451	limp	ekopa
+10.451	limp	ekoki
+10.451	limp	etípikoki
+10.451	limp	etimoé
+10.46	run	tohuti
+10.47	go	ehiti
+10.47	go	eheke
+10.47	go	eheé
+10.491	disappear	íó
+10.53	pursue	aúaú
+10.55	reach, arrive	etihe
+10.55	reach, arrive	eputa
+10.56	approach	ehaátata
+10.57	enter	uú
+10.62	bring	eaáhi
+10.62	bring	ekáve
+10.62	bring	eave
+10.62	bring	ehaímaí
+10.63	send	keéé
+10.71	road	aánui
+10.71	road	vaánui
+10.71	road	purumi
+10.72	path	áánui
+10.72	path	puta
+10.72	path	putakakena
+10.72	path	putanekai
+10.74	bridge	úapu
+10.75	carriage, wagon, cart	patiti
+10.75	carriage, wagon, cart	pipi
+10.75	carriage, wagon, cart	pariri
+10.76	wheel	pipi
+10.76	wheel	patiti
+10.81	ship	vaka
+10.81	ship	vaá
+10.81	ship	poti
+10.83	boat	vaka
+10.83	boat	vaá
+10.83	boat	poti
+10.83	boat	potiiti
+10.831	canoe	vaá
+10.832	outrigger	pakeka
+10.832	outrigger	epateka
+10.832	outrigger	epaápaáavaipu
+10.84	raft	hataá
+10.85	oar	meahaámau
+10.851	paddle (noun)	hoe
+10.852	row (vb)	tokometekaáu
+10.87	mast	tiá
+10.88	sail (noun)	á
+10.89	anchor	ekatau
+11.11	have	aína
+11.11	have	haina
+11.11	have	etaetae
+11.13	take	toó
+11.14	seize, grasp	haátikoe
+11.14	seize, grasp	haátipaí
+11.17	keep, retain	taí
+11.18	thing	mea
+11.21	give	tuú
+11.81	buy	hoko
+11.81	buy	ehokopupa
+11.84	merchant	eénataáko
+11.86	store, shop	faépuénataetae
+11.86	store, shop	efaéavainataetae
+11.86	store, shop	efaéhoko
+11.88	dear (costly, expensive)	kaiéa
+12.1	after	ímui
+12.1	after	ímuího
+12.1	after	ímuímai
+12.11	place	ehope
+12.11	place	tua
+12.2	beside	kaokao
+12.3	down, below	papaúpoto
+12.3	down, below	áó
+12.3	down, below	íáóiho
+12.4	before	aiaimua
+12.4	before	ómuamamua
+12.4	before	nomua
+12.5	inside, in	íoto
+12.6	outside	vaho
+12.7	under	áó
+12.8	up, above	úna
+12.8	up, above	íúka
+12.8	up, above	uo
+12.8	up, above	o
+12.8	up, above	no
+12.11	place	taha
+12.13	sit	haánoho
+12.14	lie down	haámoe
+12.16	remain, stay	etetaí
+12.27	hide, conceal	naó
+12.27	hide, conceal	ehakana
+12.31	high	tiétié
+12.32	low	áó
+12.33	top	pekiaupoko
+12.33	top	pió
+12.34	bottom	peteo
+12.34	bottom	take
+12.34	bottom	áó
+12.35	end	hope
+12.35	end	mata
+12.35	end	pito
+12.35	end	emuamua
+12.35	end	epaona
+12.352	pointed	keokeo
+12.352	pointed	nihinihi
+12.352	pointed	kanihinihi
+12.352	pointed	kanihi
+12.353	edge	etai'etaikiínutu
+12.36	side	kaokao
+12.37	middle, center	vavena
+12.37	middle, center	vaéna
+12.41	right (side)	kaokaoatamai
+12.42	left (side)	kaokaoakeake
+12.43	near (adv)	taá
+12.43	near (adv)	ípií
+12.43	near (adv)	ípataá
+12.43	near (adv)	tatame
+12.44	far (adv)	óa
+12.45	east	matahenua
+12.45	east	tikeiaoumati
+12.46	west	kaóiaoumati
+12.46	west	ítekaóiaoumati
+12.47	north	tiu
+12.48	south	tuatoka
+12.541	span, fathom	maó
+12.55	large, big	nui
+12.55	large, big	haáípaípa
+12.55	large, big	tiétié
+12.56	small, little	iti
+12.56	small, little	momo
+12.56	small, little	hunahuna
+12.59	short	poto
+12.71	flat	pakahakaha
+12.71	flat	paáhaáha
+12.75	hook	tiáu
+12.76	corner	etahapokonaha
+12.76	corner	epokonaha
+12.81	round	kapoípoí
+12.81	round	ápoípoí
+12.82	circle	etutu
+12.82	circle	anavai
+12.83	sphere, ball	huehenua
+12.83	sphere, ball	meakapoípoí
+12.93	change	huí
+12.93	change	hoko
+12.93	change	huíke
+13.1	one	etahi
+13.2	two	eúa
+13.3	three	etoú
+13.4	four	efa
+13.5	five	eíma
+13.6	six	eono
+13.7	seven	efitu
+13.8	eight	evaú
+13.9	nine	eiva
+13.10	ten	ónohuú
+13.10	ten	etahiónohuú
+13.101	eleven	ónohuúetahimeake
+13.102	twelve	ónohuúeúameake
+13.103	fifteen	ónohuúeímameake
+13.104	twenty	tekau
+13.104	twenty	eúaónohuú
+13.105	hundred	eímatekau
+13.105	hundred	eúatoufametetekau
+13.106	thousand	eímaáu
+13.14	every, all	énataketekaoke
+13.15	much, many	nui
+13.15	much, many	meanui
+13.15	much, many	peétipeéti
+13.15	much, many	manomano
+13.15	much, many	tinitini
+13.18	enough	etoe
+13.18	enough	umoí
+13.18	enough	úaava
+13.33	alone, only	anaé
+14.25	begin, beginning	etumu
+14.28	cease, stop	hakaéé
+14.28	cease, stop	hakakoé
+14.28	cease, stop	ehaápao
+14.331	soon	epo
+14.331	soon	epotehuamai
+14.41	day	á
+14.43	dawn	epopouíkehukehu
+14.451	afternoon	íteoateaahiahi
+14.46	evening	éhuéhu
+14.47	today	íteánei
+14.47	today	íteána
+14.47	today	íteáá
+14.47	today	íhuaánei
+14.47	today	íhuaponei
+14.481	day-after-tomorrow	oíoíatu
+14.73	year	emeinui
+14.73	year	epuni
+15.26	stinking, bad smelling	íno
+15.37	bitter	kava
+15.37	bitter	pikava
+15.37	bitter	pikavakava
+15.37	bitter	mai
+15.38	acid, sour	vaioata
+15.38	acid, sour	mehevaioata
+15.38	acid, sour	emeaita
+15.38	acid, sour	ita
+15.38	acid, sour	itaita
+15.38	acid, sour	kava
+15.38	acid, sour	mai
+15.38	acid, sour	éó
+15.44	sound, noise	taki
+15.44	sound, noise	tani
+15.44	sound, noise	poóína
+15.45	loud	eéovivo
+15.46	quiet, silence	tuítuí
+15.56	shine	keapa
+15.56	shine	etapaíí
+15.56	shine	etapariri
+15.56	shine	euá
+15.56	shine	etokihi
+15.57	bright	uá
+15.57	bright	uiá
+15.57	bright	keapa
+15.57	bright	tapaíí
+15.57	bright	tapariri
+15.57	bright	ponionio
+15.62	light (in color)	taítaí
+15.64	white	maita
+15.64	white	tea
+15.64	white	tavatava
+15.64	white	tavaíé
+15.64	white	maitahateóteó
+15.66	red	kuá
+15.78	sharp	keokeo
+15.78	sharp	nihinihi
+15.85	hot	veáveá
+15.85	hot	mahana
+15.85	hot	mehana
+15.85	hot	mehanahana
+15.86	cold	kamaíí
+15.86	cold	makai
+16.18	good fortune, luck	koakoa
+16.18	good fortune, luck	ékaéka
+16.23	joyful, glad, happy	uo
+16.23	joyful, glad, happy	ííoko
+16.23	joyful, glad, happy	oko
+16.27	love	hinenaó
+16.27	love	eue
+16.27	love	ekaóka
+16.32	grief, sorrow, sadness	ue
+16.32	grief, sorrow, sadness	eúhanekoé
+16.33	anxiety, worry	ehaámeéta
+16.33	anxiety, worry	eúhanekoé
+16.33	anxiety, worry	eaúkuha
+16.33	anxiety, worry	pupukina
+16.33	anxiety, worry	pukina
+16.33	anxiety, worry	kukina
+16.33	anxiety, worry	unu
+16.33	anxiety, worry	ahuteate
+16.33	anxiety, worry	aputeate
+16.33	anxiety, worry	áóéhekoekoeítemeaveáveáteate
+16.35	pity	ue
+16.35	pity	kaóha
+16.35	pity	hakaóha
+16.42	anger	íí
+16.42	anger	peke
+16.42	anger	haáhaá
+16.622	choose	vae
+16.71	good	meitaí
+16.76	fault	haá
+16.78	blame	eóónaí
+16.78	blame	eóónaítina
+16.81	beautiful	meitaí
+16.81	beautiful	kanahau
+16.81	beautiful	poéa
+16.81	beautiful	poótu
+17.24	learn	etauéva
+17.24	learn	etautauéva
+17.24	learn	taueétautau
+17.37	sure, certain	tiatohu
+17.37	sure, certain	toitoi
+17.41	intention, purpose	hakatu
+17.41	intention, purpose	etoúmai
+17.41	intention, purpose	ehano
+17.42	cause	ehaáue
+17.42	cause	teáteáo
+17.55	yes, affirmative	hoí
+17.55	yes, affirmative	haátiatohu
+17.56	no, negative	áóé
+17.56	no, negative	kakoé
+17.61	how?	peheá
+17.61	how?	eaha
+17.62	how many?	toóhia
+17.62	how many?	tokohia
+17.68	who?	óai
+18.12	sing	euta
+18.12	sing	panau
+18.12	sing	komumu
+18.12	sing	patike
+18.12	sing	vanana
+18.12	sing	pope
+18.12	sing	viti
+18.15	whisper	potií
+18.15	whisper	motií
+18.15	whisper	kohumuhumu
+18.16	mumble	eéopatati
+18.16	mumble	eéopipií
+18.16	mumble	eéoú
+18.211	stutter, stammer	éopipií
+18.211	stutter, stammer	eéomanaúa
+18.22	say	í
+18.22	say	peáu
+18.24	language	éoetekao
+18.24	language	teáo
+18.24	language	aéó
+18.28	name	ikoa
+18.28	name	inoa
+18.41	call (=summon)	evevaó
+18.43	announce	epeáuna
+18.43	announce	efaina
+18.43	announce	ehaáíte
+18.43	announce	eáveteóno
+18.43	announce	eávetetekao
+19.15	city, town	papuafaé
+19.21	people (populace)	haétoa
+19.24	chief, chieftain	hakaíki
+19.25	staff, walking stick	toótoó
+19.25	staff, walking stick	tokotoko
+19.25	staff, walking stick	etoótoópioó
+19.25	staff, walking stick	etoótoóhakaíki
+19.45	command, order	epeáu
+19.45	command, order	eteáo
+19.45	command, order	etekao
+19.45	command, order	etuina
+19.45	command, order	evivini
+19.51	friend, companion	ehoa
+19.51	friend, companion	hoapií
+19.58	help, aid	toko
+19.63	conspiracy, plot	tekaomuhumuhu
+20.11	fight (vb)	eta
+20.11	fight (vb)	etata
+20.11	fight (vb)	epehi
+20.13	war, battle	enahunatoua
+20.13	war, battle	etoua
+20.21	weapons, arms	epuhi
+20.22	club	úú
+20.24	bow	epana
+20.28	gun, cannon	epuhiketu
+20.28	gun, cannon	pukohe
+20.31	armor (defensive)	eainaotetoa
+20.33	helmet	epaétotetoa
+20.36	tower	mouka
+20.46	surrender	etuúatu
+20.48	booty, spoils	taetaefaoameitehina
+20.48	booty, spoils	emeafaoa
+20.56	bait	emounu
+20.61	hunt	tute
+20.61	hunt	tatai
+21.22	defendant	potohof
+21.22	defendant	etuhi
+21.34	acquit	hamanihaáítetemeaikoakaia
+21.38	fine	ehoko
+21.43	adultery	mako
+21.46	arson	veá

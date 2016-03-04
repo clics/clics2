@@ -1,0 +1,830 @@
+ID,Language_ID,Feature_ID,IDS_Key,Value,Concept,IPA_UDECODE
+clics-doculect-15-1,karo1304-std,concepticon-965,1.1,ʔiθíβθānēn,world,?ithibthanen
+clics-doculect-15-2,karo1304-std,concepticon-626,1.21,ʔiθíβθānēn,"earth, land",?ithibthanen
+clics-doculect-15-3,karo1304-std,concepticon-1228,1.212,ʔiθíβθānēn,"earth=ground, soil",?ithibthanen
+clics-doculect-15-4,karo1304-std,concepticon-2,1.213,ʔámtāp,dust,?amtap
+clics-doculect-15-5,karo1304-std,concepticon-640,1.214,ʔaratβáraf,mud,?aratbaraf
+clics-doculect-15-6,karo1304-std,concepticon-640,1.214,ʔáβax,mud,?abax
+clics-doculect-15-7,karo1304-std,concepticon-671,1.215,yú̄x,sand,yux
+clics-doculect-15-8,karo1304-std,concepticon-2118,1.22,tú̄yšip,"mountain, hill",tuysip
+clics-doculect-15-9,karo1304-std,concepticon-618,1.222,ʔápak,"cliff, precipice",?apak
+clics-doculect-15-10,karo1304-std,concepticon-652,1.23,tišrām,"plain, field",tisram
+clics-doculect-15-11,karo1304-std,concepticon-921,1.24,tišrām,valley,tisram
+clics-doculect-15-12,karo1304-std,concepticon-622,1.25,čī́nkir,island,cinkir
+clics-doculect-15-13,karo1304-std,concepticon-113,1.27,ʔastīp,shore,?astip
+clics-doculect-15-14,karo1304-std,concepticon-1155,1.28,ʔá̄siβ,cave,?asib
+clics-doculect-15-15,karo1304-std,concepticon-948,1.31,ʔá̄s,water,?as
+clics-doculect-15-16,karo1304-std,concepticon-948,1.31,ʔíšaha,water,?isaha
+clics-doculect-15-17,karo1304-std,concepticon-1474,1.32,yúras,sea,yuras
+clics-doculect-15-18,karo1304-std,concepticon-1768,1.324,čánčāf,foam,cancaf
+clics-doculect-15-19,karo1304-std,concepticon-645,1.329,yúras,ocean,yuras
+clics-doculect-15-20,karo1304-std,concepticon-624,1.33,ʔúkrām,lake,?ukram
+clics-doculect-15-21,karo1304-std,concepticon-666,1.36,ʔiškê̄š,"river, stream, brook",?iskes
+clics-doculect-15-22,karo1304-std,concepticon-666,1.36,sāmβárō,"river, stream, brook",sambaro
+clics-doculect-15-23,karo1304-std,concepticon-2144,1.37,ʔišrām,"spring, well",?isram
+clics-doculect-15-24,karo1304-std,concepticon-420,1.41,ʔipahárīk,"woods, forest",?ipaharik
+clics-doculect-15-26,karo1304-std,concepticon-1803,1.43,ʔáhup,wood,?ahup
+clics-doculect-15-27,karo1304-std,concepticon-2125,1.44,ʔas,"stone, rock",?as
+clics-doculect-15-28,karo1304-std,concepticon-6,1.45,ʔiθíβθānēntōké̄n,earthquake,?ithibthanentoken
+clics-doculect-15-29,karo1304-std,concepticon-1732,1.51,páynanuʔáβahkam,sky,paynanu?abahkam
+clics-doculect-15-30,karo1304-std,concepticon-1343,1.52,kú̄sra,sun,kusra
+clics-doculect-15-31,karo1304-std,concepticon-1313,1.53,ʔikxarámkú̄sra,moon,?ikxaramkusra
+clics-doculect-15-32,karo1304-std,concepticon-1430,1.54,ʔatáyrām,star,?atayram
+clics-doculect-15-33,karo1304-std,concepticon-1654,1.55,ʔimaxáynūmβa,lightning,?imaxaynumba
+clics-doculect-15-34,karo1304-std,concepticon-1150,1.56,ʔišnur,thunder,?isnur
+clics-doculect-15-35,karo1304-std,concepticon-1733,1.59,ʔé̄xrih,rainbow,?exrih
+clics-doculect-15-36,karo1304-std,concepticon-630,1.61,ʔimkatáxrah,light (noun),?imkataxrah
+clics-doculect-15-37,karo1304-std,concepticon-1388,1.63,pikšip,"shade, shadow",piksip
+clics-doculect-15-38,karo1304-std,concepticon-960,1.72,ʔikré̄myah,wind,?ikremyah
+clics-doculect-15-39,karo1304-std,concepticon-1489,1.73,pikxárampa,cloud,pikxarampa
+clics-doculect-15-40,karo1304-std,concepticon-249,1.74,pú̄k,fog,puk
+clics-doculect-15-41,karo1304-std,concepticon-658,1.75,paθrih,rain (noun),pathrih
+clics-doculect-15-42,karo1304-std,concepticon-784,1.76,tá̄h,snow (noun),tah
+clics-doculect-15-43,karo1304-std,concepticon-784,1.76,ikyútunih,snow (noun),ikyutunih
+clics-doculect-15-44,karo1304-std,concepticon-617,1.77,ʔikákrih,ice,?ikakrih
+clics-doculect-15-45,karo1304-std,concepticon-221,1.81,ʔá̄h,fire,?ah
+clics-doculect-15-46,karo1304-std,concepticon-778,1.83,ʔámkūf,smoke (noun),?amkuf
+clics-doculect-15-47,karo1304-std,concepticon-646,1.84,ʔámtāp,ashes,?amtap
+clics-doculect-15-48,karo1304-std,concepticon-67,1.841,ʔimnak,embers,?imnak
+clics-doculect-15-49,karo1304-std,concepticon-141,1.851,ʔá̄hka,burn (vb trans),?ahka
+clics-doculect-15-50,karo1304-std,concepticon-1428,1.852,ʔī́nka,burn (vb intrans),?inka
+clics-doculect-15-51,karo1304-std,concepticon-737,1.86,ʔá̄hka,"light, kindle, ignite",?ahka
+clics-doculect-15-52,karo1304-std,concepticon-127,1.861,ʔíšip,extinguish,?isip
+clics-doculect-15-53,karo1304-std,concepticon-1133,1.87,θimyúriš,match (noun),thimyuris
+clics-doculect-15-54,karo1304-std,concepticon-10,1.88,ʔáhup,firewood,?ahup
+clics-doculect-15-55,karo1304-std,concepticon-1188,1.89,ʔimnak,charcoal,?imnak
+clics-doculect-15-56,karo1304-std,concepticon-683,2.1,ʔárār,"person, human being",?arar
+clics-doculect-15-57,karo1304-std,concepticon-1554,2.21,ʔáβansa,man (vs. woman),?abansa
+clics-doculect-15-58,karo1304-std,concepticon-962,2.22,ʔasiktáβān,woman,?asiktaban
+clics-doculect-15-59,karo1304-std,concepticon-1553,2.23,ʔáβansa,male,?abansa
+clics-doculect-15-60,karo1304-std,concepticon-1551,2.24,ʔasiktávān,female,?asiktavan
+clics-doculect-15-61,karo1304-std,concepticon-1366,2.25,ʔaβansáxītič,boy,?abansaxitic
+clics-doculect-15-62,karo1304-std,concepticon-76,2.251,ʔafišríhan,young man (adolescent),?afisrihan
+clics-doculect-15-63,karo1304-std,concepticon-1646,2.26,yēripáxvuh,girl,yeripaxvuh
+clics-doculect-15-64,karo1304-std,concepticon-77,2.261,ʔifápīt,young woman (adolescent),?ifapit
+clics-doculect-15-65,karo1304-std,concepticon-1304,2.27,ʔaxīč,child,?axic
+clics-doculect-15-66,karo1304-std,concepticon-1289,2.28,yupsítanač,"infant, baby",yupsitanac
+clics-doculect-15-67,karo1304-std,concepticon-1200,2.31,ʔáβan,husband,?aban
+clics-doculect-15-68,karo1304-std,concepticon-1199,2.32,ʔihrô̄ha,wife,?ihroha
+clics-doculect-15-69,karo1304-std,concepticon-203,2.33,ʔihrô̄haha,marry,?ihrohaha
+clics-doculect-15-70,karo1304-std,concepticon-203,2.33,ʔáβanha,marry,?abanha
+clics-doculect-15-71,karo1304-std,concepticon-1217,2.35,ʔáka,father,?aka
+clics-doculect-15-72,karo1304-std,concepticon-1216,2.36,tá̄t,mother,tat
+clics-doculect-15-73,karo1304-std,concepticon-424,2.38,ʔifmá̄r,married man,?ifmar
+clics-doculect-15-74,karo1304-std,concepticon-426,2.39,yárar,married woman,yarar
+clics-doculect-15-75,karo1304-std,concepticon-1620,2.41,kač,son,kac
+clics-doculect-15-76,karo1304-std,concepticon-1357,2.42,yāčkan,daughter,yackan
+clics-doculect-15-77,karo1304-std,concepticon-1262,2.44,típah,brother,tipah
+clics-doculect-15-78,karo1304-std,concepticon-1759,2.444,ʔárih,older brother,?arih
+clics-doculect-15-79,karo1304-std,concepticon-1760,2.445,čá̄s,younger brother,cas
+clics-doculect-15-80,karo1304-std,concepticon-1263,2.45,kústān,sister,kustan
+clics-doculect-15-81,karo1304-std,concepticon-1758,2.454,nánač,older sister,nanac
+clics-doculect-15-82,karo1304-std,concepticon-1761,2.455,čī́š,younger sister,cis
+clics-doculect-15-83,karo1304-std,concepticon-1005,2.458,ʔaxakʔiβráβapuh,twins,?axak?ibrabapuh
+clics-doculect-15-84,karo1304-std,concepticon-1383,2.46,kú̄t,grandfather,kut
+clics-doculect-15-85,karo1304-std,concepticon-1383,2.46,átiš,grandfather,atis
+clics-doculect-15-86,karo1304-std,concepticon-406,2.461,pihnī́č,old man,pihnic
+clics-doculect-15-87,karo1304-std,concepticon-1496,2.47,kī́t,grandmother,kit
+clics-doculect-15-88,karo1304-std,concepticon-1496,2.47,átiš,grandmother,atis
+clics-doculect-15-89,karo1304-std,concepticon-907,2.471,ké̄vrīk,old woman,kevrik
+clics-doculect-15-90,karo1304-std,concepticon-1618,2.48,kú̄t,grandson,kut
+clics-doculect-15-91,karo1304-std,concepticon-1618,2.48,átiš,grandson,atis
+clics-doculect-15-92,karo1304-std,concepticon-1619,2.49,kī́t,granddaughter,kit
+clics-doculect-15-93,karo1304-std,concepticon-1619,2.49,átiš,granddaughter,atis
+clics-doculect-15-94,karo1304-std,concepticon-1984,2.511,xúkam,mother's brother,xukam
+clics-doculect-15-95,karo1304-std,concepticon-1985,2.512,párah,father's brother,parah
+clics-doculect-15-96,karo1304-std,concepticon-171,2.521,θúxaθ,mother's sister,thuxath
+clics-doculect-15-97,karo1304-std,concepticon-170,2.522,mī́θ,father's sister,mith
+clics-doculect-15-98,karo1304-std,concepticon-1063,2.53,axiič,nephew,axiic
+clics-doculect-15-99,karo1304-std,concepticon-1063,2.53,ʔúfiθ,nephew,?ufith
+clics-doculect-15-100,karo1304-std,concepticon-1642,2.54,axiič,niece,axiic
+clics-doculect-15-101,karo1304-std,concepticon-1642,2.54,fúriθ,niece,furith
+clics-doculect-15-102,karo1304-std,concepticon-2255,2.61,fíkβān,father-in-law (of a man),fikban
+clics-doculect-15-103,karo1304-std,concepticon-2254,2.611,fíkβān,father-in-law (of a woman),fikban
+clics-doculect-15-104,karo1304-std,concepticon-2256,2.62,faratípiš,mother-in-law (of a man),faratipis
+clics-doculect-15-105,karo1304-std,concepticon-2257,2.621,faratípiš,mother-in-law (of a woman),faratipis
+clics-doculect-15-106,karo1304-std,concepticon-2267,2.63,ʔíkam,son-in-law (of a man),?ikam
+clics-doculect-15-107,karo1304-std,concepticon-2266,2.631,ʔíkam,son-in-law (of a woman),?ikam
+clics-doculect-15-108,karo1304-std,concepticon-2265,2.64,ʔíram,daughter-in-law (of a man),?iram
+clics-doculect-15-109,karo1304-std,concepticon-2264,2.641,ʔíram,daughter-in-law (of a woman),?iram
+clics-doculect-15-110,karo1304-std,concepticon-237,2.71,ʔakáhyān,stepfather,?akahyan
+clics-doculect-15-111,karo1304-std,concepticon-236,2.72,?iptatpíyān,stepmother,?iptatpiyan
+clics-doculect-15-112,karo1304-std,concepticon-1149,2.75,ʔipšāmkírapuh,orphan,?ipsamkirapuh
+clics-doculect-15-113,karo1304-std,concepticon-1756,2.76,ké̄čxaβ,widow,kecxab
+clics-doculect-15-114,karo1304-std,concepticon-1981,2.77,píhrīβ,widower,pihrib
+clics-doculect-15-115,karo1304-std,concepticon-1644,2.81,ʔárāras,"relatives, kinsmen",?araras
+clics-doculect-15-116,karo1304-std,concepticon-1209,2.91,ná̄,I,na
+clics-doculect-15-117,karo1304-std,concepticon-1215,2.92,ʔī́m,you (singular),?im
+clics-doculect-15-118,karo1304-std,concepticon-262,2.93,ʔú̄m,he/she/it,?um
+clics-doculect-15-119,karo1304-std,concepticon-1212,2.94,nú̄,we,nu
+clics-doculect-15-120,karo1304-std,concepticon-1213,2.95,ʔīmkun,you (plural),?imkun
+clics-doculect-15-121,karo1304-std,concepticon-817,2.96,?ūmkun,they,?umkun
+clics-doculect-15-122,karo1304-std,concepticon-1331,3.25,ʔapxantī́čpūfič,sheep,?apxanticpufic
+clics-doculect-15-123,karo1304-std,concepticon-1337,3.35,nákišnakiš,pig,nakisnakis
+clics-doculect-15-124,karo1304-std,concepticon-1502,3.36,ʔapxartī́čpūfič,goat,?apxarticpufic
+clics-doculect-15-125,karo1304-std,concepticon-615,3.41,čišīh,horse (equine),cisih
+clics-doculect-15-126,karo1304-std,concepticon-615,3.41,yurasčíšīh,horse (equine),yurascisih
+clics-doculect-15-127,karo1304-std,concepticon-890,3.47,tiβxarahar,mule,tibxarahar
+clics-doculect-15-128,karo1304-std,concepticon-1187,3.56,ʔaháknah,goose,?ahaknah
+clics-doculect-15-129,karo1304-std,concepticon-1360,3.57,ʔastāh,duck,?astah
+clics-doculect-15-130,karo1304-std,concepticon-539,3.58,ká̄s,nest,kas
+clics-doculect-15-131,karo1304-std,concepticon-937,3.581,ʔačβīβ,bird,?acbib
+clics-doculect-15-132,karo1304-std,concepticon-950,3.582,yuraskanʔáčβīβ,seagull,yuraskan?acbib
+clics-doculect-15-133,karo1304-std,concepticon-758,3.583,ʔáxβāy,heron,?axbay
+clics-doculect-15-134,karo1304-std,concepticon-1905,3.584,βákār,eagle,bakar
+clics-doculect-15-135,karo1304-std,concepticon-307,3.585,ʔikčáxβān,hawk,?ikcaxban
+clics-doculect-15-136,karo1304-std,concepticon-1185,3.586,ʔatipimá̄mβān,vulture,?atipimamban
+clics-doculect-15-137,karo1304-std,concepticon-1793,3.591,timšúkrīh,bat,timsukrih
+clics-doculect-15-138,karo1304-std,concepticon-913,3.593,ʔánāč,crow,?anac
+clics-doculect-15-139,karo1304-std,concepticon-1853,3.594,pimnanihtanákānič,dove,pimnanihtanakanic
+clics-doculect-15-140,karo1304-std,concepticon-735,3.596,θufkírik,owl,thufkirik
+clics-doculect-15-141,karo1304-std,concepticon-2009,3.61,čišīh,dog,cisih
+clics-doculect-15-142,karo1304-std,concepticon-1136,3.614,sahíšyūxač,rabbit,sahisyuxac
+clics-doculect-15-143,karo1304-std,concepticon-2139,3.63,sī́t,"mouse, rat",sit
+clics-doculect-15-144,karo1304-std,concepticon-2139,3.63,ačnāt,"mouse, rat",acnat
+clics-doculect-15-145,karo1304-std,concepticon-227,3.65,á̄ma,fish,ama
+clics-doculect-15-146,karo1304-std,concepticon-213,3.652,tī́t,fin (dorsal),tit
+clics-doculect-15-147,karo1304-std,concepticon-1916,3.654,ʔáθan,gill,?athan
+clics-doculect-15-148,karo1304-std,concepticon-957,3.663,ʔípar,whale,?ipar
+clics-doculect-15-149,karo1304-std,concepticon-1013,3.665,ʔakrāh,freshwater eel,?akrah
+clics-doculect-15-150,karo1304-std,concepticon-522,3.71,ʔikxâ̄βnamič,wolf,?ikxabnamic
+clics-doculect-15-151,karo1304-std,concepticon-1386,3.72,yupθúkirar,lion,yupthukirar
+clics-doculect-15-152,karo1304-std,concepticon-1820,3.73,βírusur,bear,birusur
+clics-doculect-15-153,karo1304-std,concepticon-1312,3.74,aprāx,fox,aprax
+clics-doculect-15-154,karo1304-std,concepticon-1936,3.75,pú̄fič,deer,pufic
+clics-doculect-15-155,karo1304-std,concepticon-1392,3.811,ʔačīč,louse,?acic
+clics-doculect-15-156,karo1304-std,concepticon-232,3.813,ʔú̄t,flea,?ut
+clics-doculect-15-157,karo1304-std,concepticon-1538,3.815,mahxánθūn,scorpion,mahxanthun
+clics-doculect-15-158,karo1304-std,concepticon-587,3.817,asvūt,ant,asvut
+clics-doculect-15-159,karo1304-std,concepticon-843,3.818,xah,spider,xah
+clics-doculect-15-160,karo1304-std,concepticon-1065,3.819,xaháβik,spider web,xahabik
+clics-doculect-15-161,karo1304-std,concepticon-665,3.82,pišpíših,bee,pispisih
+clics-doculect-15-162,karo1304-std,concepticon-1517,3.823,pišpišihxára,wasp,pispisihxara
+clics-doculect-15-163,karo1304-std,concepticon-1504,3.83,čufnî̄mkač,fly,cufnimkac
+clics-doculect-15-164,karo1304-std,concepticon-1509,3.832,čaná̄kat,mosquito,canakat
+clics-doculect-15-165,karo1304-std,concepticon-1219,3.84,βákay,worm,bakay
+clics-doculect-15-166,karo1304-std,concepticon-730,3.85,ápsūn,snake,apsun
+clics-doculect-15-167,karo1304-std,concepticon-1791,3.92,xatímnīm,butterfly,xatimnim
+clics-doculect-15-168,karo1304-std,concepticon-607,3.93,xá̄θ,grasshopper,xath
+clics-doculect-15-169,karo1304-std,concepticon-1543,3.94,ʔasipánaxič,snail,?asipanaxic
+clics-doculect-15-170,karo1304-std,concepticon-503,3.95,xančī́fič,frog,xancific
+clics-doculect-15-171,karo1304-std,concepticon-632,3.96,čīmú̄č,lizard,cimuc
+clics-doculect-15-172,karo1304-std,concepticon-112,3.98,ʔasáxβuh,turtle,?asaxbuh
+clics-doculect-15-173,karo1304-std,concepticon-1480,4.11,ʔī́š,body,?is
+clics-doculect-15-174,karo1304-std,concepticon-763,4.12,má̄n,"skin, hide",man
+clics-doculect-15-175,karo1304-std,concepticon-2259,4.13,ʔı́s,flesh,?is
+clics-doculect-15-176,karo1304-std,concepticon-1040,4.14,ʔífuni,hair (head),?ifuni
+clics-doculect-15-177,karo1304-std,concepticon-678,4.142,ʔapmaráxvuh,beard,?apmaraxvuh
+clics-doculect-15-178,karo1304-std,concepticon-189,4.144,ʔimyāt,body hair,?imyat
+clics-doculect-15-179,karo1304-std,concepticon-946,4.15,ʔá̄x,blood,?ax
+clics-doculect-15-180,karo1304-std,concepticon-525,4.151,ʔaxímpāh,"vein, artery",?aximpah
+clics-doculect-15-181,karo1304-std,concepticon-1394,4.16,ʔípih,bone,?ipih
+clics-doculect-15-182,karo1304-std,concepticon-801,4.162,ʔátpīh,rib,?atpih
+clics-doculect-15-183,karo1304-std,concepticon-1393,4.17,vê̄šur,horn,vesur
+clics-doculect-15-184,karo1304-std,concepticon-1220,4.18,ʔápβūy,tail,?apbuy
+clics-doculect-15-185,karo1304-std,concepticon-1291,4.19,vásih,back,vasih
+clics-doculect-15-186,karo1304-std,concepticon-805,4.191,sūf,spine,suf
+clics-doculect-15-187,karo1304-std,concepticon-1256,4.2,ʔaxβá̄h,head,?axbah
+clics-doculect-15-188,karo1304-std,concepticon-1583,4.203,ʔāsráβar,brain,?asrabar
+clics-doculect-15-189,karo1304-std,concepticon-1560,4.204,ʔá̄β,face,?ab
+clics-doculect-15-190,karo1304-std,concepticon-123,4.205,yúpin,forehead,yupin
+clics-doculect-15-191,karo1304-std,concepticon-1730,4.208,ʔáβʔīš,cheek,?ab?is
+clics-doculect-15-192,karo1304-std,concepticon-1510,4.209,ʔišβāk,chin,?isbak
+clics-doculect-15-193,karo1304-std,concepticon-1248,4.21,yú̄p,eye,yup
+clics-doculect-15-194,karo1304-std,concepticon-1173,4.212,yupípih,eyebrow,yupipih
+clics-doculect-15-195,karo1304-std,concepticon-1540,4.214,yupátrih,eyelash,yupatrih
+clics-doculect-15-196,karo1304-std,concepticon-1247,4.22,tī́β,ear,tib
+clics-doculect-15-197,karo1304-std,concepticon-1221,4.23,yúfiβ,nose,yufib
+clics-doculect-15-198,karo1304-std,concepticon-208,4.232,yufíβrāt,mucus (nasal),yufibrat
+clics-doculect-15-199,karo1304-std,concepticon-674,4.24,ʔapmān,mouth,?apman
+clics-doculect-15-200,karo1304-std,concepticon-73,4.241,ʔapmān,beak,?apman
+clics-doculect-15-201,karo1304-std,concepticon-478,4.25,ʔapmántīm,lip,?apmantim
+clics-doculect-15-202,karo1304-std,concepticon-1205,4.26,ʔáprīh,tongue,?aprih
+clics-doculect-15-203,karo1304-std,concepticon-1380,4.27,βuh,tooth,buh
+clics-doculect-15-204,karo1304-std,concepticon-1333,4.28,βú̄p,neck,bup
+clics-doculect-15-205,karo1304-std,concepticon-1346,4.29,áθkūn,throat,athkun
+clics-doculect-15-206,karo1304-std,concepticon-1482,4.3,takrāβ,shoulder,takrab
+clics-doculect-15-207,karo1304-std,concepticon-172,4.301,tasβānʔípih,shoulderblade,tasban?ipih
+clics-doculect-15-208,karo1304-std,concepticon-1994,4.302,ʔátβāx,collarbone,?atbax
+clics-doculect-15-209,karo1304-std,concepticon-1673,4.31,ʔátrāx,arm,?atrax
+clics-doculect-15-210,karo1304-std,concepticon-1886,4.312,né̄β,armpit,neb
+clics-doculect-15-211,karo1304-std,concepticon-981,4.32,ʔišβírik,elbow,?isbirik
+clics-doculect-15-212,karo1304-std,concepticon-1277,4.33,tī́k,hand,tik
+clics-doculect-15-213,karo1304-std,concepticon-1183,4.331,ʔátrūp,palm of hand,?atrup
+clics-doculect-15-214,karo1304-std,concepticon-1303,4.34,tī́k,finger,tik
+clics-doculect-15-215,karo1304-std,concepticon-1781,4.342,tikánkām,thumb,tikankam
+clics-doculect-15-216,karo1304-std,concepticon-1258,4.344,ʔaxpih,fingernail,?axpih
+clics-doculect-15-217,karo1304-std,concepticon-72,4.345,ʔaxpih,claw,?axpih
+clics-doculect-15-218,karo1304-std,concepticon-1297,4.35,ʔápsīh,leg,?apsih
+clics-doculect-15-219,karo1304-std,concepticon-800,4.351,ʔapkúruh,thigh,?apkuruh
+clics-doculect-15-220,karo1304-std,concepticon-1371,4.36,páθak,knee,pathak
+clics-doculect-15-221,karo1304-std,concepticon-1301,4.37,fíθih,foot,fithih
+clics-doculect-15-222,karo1304-std,concepticon-803,4.371,násak,ankle,nasak
+clics-doculect-15-223,karo1304-std,concepticon-980,4.372,ʔípik,heel,?ipik
+clics-doculect-15-224,karo1304-std,concepticon-318,4.374,ʔaxrān,footprint,?axran
+clics-doculect-15-225,karo1304-std,concepticon-1389,4.38,fíθih,toe,fithih
+clics-doculect-15-226,karo1304-std,concepticon-1257,4.392,kitáxrih,wing,kitaxrih
+clics-doculect-15-227,karo1304-std,concepticon-1201,4.393,ʔī́θka,feather,?ithka
+clics-doculect-15-228,karo1304-std,concepticon-1592,4.4,ʔiθβāy,chest,?ithbay
+clics-doculect-15-229,karo1304-std,concepticon-1402,4.41,ʔú̄čič,breast (of woman),?ucic
+clics-doculect-15-230,karo1304-std,concepticon-1838,4.43,ʔárup,navel,?arup
+clics-doculect-15-231,karo1304-std,concepticon-1223,4.44,ʔimyah,heart,?imyah
+clics-doculect-15-232,karo1304-std,concepticon-688,4.441,ʔuθpiβáxrah,lung,?uthpibaxrah
+clics-doculect-15-233,karo1304-std,concepticon-1224,4.45,βáfiš,liver,bafis
+clics-doculect-15-234,karo1304-std,concepticon-489,4.451,ʔúnuhič,kidney,?unuhic
+clics-doculect-15-235,karo1304-std,concepticon-819,4.46,θafrām,stomach,thafram
+clics-doculect-15-236,karo1304-std,concepticon-1991,4.461,fá̄n,"intestines, guts",fan
+clics-doculect-15-237,karo1304-std,concepticon-1681,4.462,ʔišxíčak,waist,?isxicak
+clics-doculect-15-238,karo1304-std,concepticon-1745,4.463,ʔáfnūn,hip,?afnun
+clics-doculect-15-239,karo1304-std,concepticon-834,4.464,ʔáfup,buttocks,?afup
+clics-doculect-15-240,karo1304-std,concepticon-804,4.47,ʔaxičēkríβrām,womb,?axicekribram
+clics-doculect-15-241,karo1304-std,concepticon-797,4.49,θirixó̄n,testicle,thirixon
+clics-doculect-15-242,karo1304-std,concepticon-1222,4.492,sī́š,penis,sis
+clics-doculect-15-243,karo1304-std,concepticon-1407,4.51,imyah,"breathe, breath",imyah
+clics-doculect-15-244,karo1304-std,concepticon-1028,4.52,tamsá̄kaθβa,"yawn, gape",tamsakathba
+clics-doculect-15-245,karo1304-std,concepticon-162,4.521,čančakvárā,hiccough,cancakvara
+clics-doculect-15-246,karo1304-std,concepticon-879,4.53,ʔáxu,cough,?axu
+clics-doculect-15-247,karo1304-std,concepticon-1621,4.54,pá̄θβa,sneeze,pathba
+clics-doculect-15-248,karo1304-std,concepticon-126,4.55,astú̄kha,perspire,astukha
+clics-doculect-15-249,karo1304-std,concepticon-1440,4.56,yuh,spit,yuh
+clics-doculect-15-250,karo1304-std,concepticon-1278,4.57,yú̄hva,vomit,yuhva
+clics-doculect-15-251,karo1304-std,concepticon-1403,4.58,ʔax,bite,?ax
+clics-doculect-15-252,karo1304-std,concepticon-1403,4.58,par,bite,par
+clics-doculect-15-253,karo1304-std,concepticon-319,4.59,βírax,lick,birax
+clics-doculect-15-254,karo1304-std,concepticon-1585,4.61,ʔásiβ,sleep,?asib
+clics-doculect-15-255,karo1304-std,concepticon-1602,4.63,ʔitxâ̄rihβa,wake up,?itxarihba
+clics-doculect-15-256,karo1304-std,concepticon-1159,4.64,pif,break wind,pif
+clics-doculect-15-257,karo1304-std,concepticon-592,4.65,θúriβ,urinate,thurib
+clics-doculect-15-258,karo1304-std,concepticon-676,4.66,ʔičnah,defecate,?icnah
+clics-doculect-15-259,karo1304-std,concepticon-1785,4.67,kuθ,have sexual intercourse,kuth
+clics-doculect-15-260,karo1304-std,concepticon-52,4.68,kê̄n,shiver,ken
+clics-doculect-15-261,karo1304-std,concepticon-138,4.69,pá̄tβa,bathe,patba
+clics-doculect-15-262,karo1304-std,concepticon-1123,4.73,ʔimú̄tar,pregnant,?imutar
+clics-doculect-15-263,karo1304-std,concepticon-1422,4.74,ʔimyá̄htih,"live, living, life",?imyahtih
+clics-doculect-15-264,karo1304-std,concepticon-1494,4.75,ʔiβ,"die, dead",?ib
+clics-doculect-15-265,karo1304-std,concepticon-1494,4.75,ʔárīm,"die, dead",?arim
+clics-doculect-15-266,karo1304-std,concepticon-1417,4.76,ʔiykat,kill,?iykat
+clics-doculect-15-267,karo1304-std,concepticon-767,4.77,puyâ̄hara,corpse,puyahara
+clics-doculect-15-268,karo1304-std,concepticon-1719,4.78,ʔíšunβa,bury (the dead),?isunba
+clics-doculect-15-269,karo1304-std,concepticon-1773,4.79,ʔaxβiθínih,"grave, tomb",?axbithinih
+clics-doculect-15-270,karo1304-std,concepticon-785,4.81,ʔikpíhan,"strong, mighty, powerful",?ikpihan
+clics-doculect-15-271,karo1304-std,concepticon-1364,4.83,ʔarárīhkanha,"well, health",?ararihkanha
+clics-doculect-15-272,karo1304-std,concepticon-1847,4.84,kúha,"sick, sickness",kuha
+clics-doculect-15-273,karo1304-std,concepticon-1847,4.84,yíkiha,"sick, sickness",yikiha
+clics-doculect-15-274,karo1304-std,concepticon-1903,4.853,ʔimxup,swelling,?imxup
+clics-doculect-15-275,karo1304-std,concepticon-148,4.854,kunukúnuha,itch,kunukunuha
+clics-doculect-15-276,karo1304-std,concepticon-793,4.856,ʔimxup,boil (noun),?imxup
+clics-doculect-15-277,karo1304-std,concepticon-1808,4.857,yūs,pus,yus
+clics-doculect-15-278,karo1304-std,concepticon-497,4.858,piftus,scar,piftus
+clics-doculect-15-279,karo1304-std,concepticon-499,4.86,ʔararī́hkanhiβaθ,"cure, heal",?ararihkanhibath
+clics-doculect-15-280,karo1304-std,concepticon-597,4.87,ʔê̄m,physician,?em
+clics-doculect-15-281,karo1304-std,concepticon-1372,4.88,ʔánaβ,"medicine, drug",?anab
+clics-doculect-15-282,karo1304-std,concepticon-655,4.89,kê̄miš,poison,kemis
+clics-doculect-15-283,karo1304-std,concepticon-1757,4.91,ʔû̄rih,"tired, weary",?urih
+clics-doculect-15-284,karo1304-std,concepticon-168,4.912,ʔípunβa,rest,?ipunba
+clics-doculect-15-285,karo1304-std,concepticon-1564,4.92,ʔû̄rih,lazy,?urih
+clics-doculect-15-286,karo1304-std,concepticon-1125,4.93,fī́nha,bald,finha
+clics-doculect-15-287,karo1304-std,concepticon-320,4.94,ʔišné̄kβa,lame,?isnekba
+clics-doculect-15-288,karo1304-std,concepticon-996,4.95,tiβʔárusar,deaf,tib?arusar
+clics-doculect-15-289,karo1304-std,concepticon-1653,4.97,yupsírihar,blind,yupsirihar
+clics-doculect-15-290,karo1304-std,concepticon-1463,4.98,pahvákir,intoxicated,pahvakir
+clics-doculect-15-291,karo1304-std,concepticon-590,4.99,ʔī́škar,"naked, bare",?iskar
+clics-doculect-15-292,karo1304-std,concepticon-1336,5.11,ʔaβ,eat,?ab
+clics-doculect-15-293,karo1304-std,concepticon-256,5.12,ʔáβaha,food,?abaha
+clics-doculect-15-294,karo1304-std,concepticon-269,5.121,ʔimtup,cooked,?imtup
+clics-doculect-15-295,karo1304-std,concepticon-178,5.123,ʔimtup,ripe,?imtup
+clics-doculect-15-296,karo1304-std,concepticon-1958,5.124,xī́t,"green, unripe",xit
+clics-doculect-15-297,karo1304-std,concepticon-1728,5.125,xá̄t,rotten,xat
+clics-doculect-15-298,karo1304-std,concepticon-1401,5.13,ʔiš,drink,?is
+clics-doculect-15-299,karo1304-std,concepticon-1864,5.14,xúriha,hunger,xuriha
+clics-doculect-15-300,karo1304-std,concepticon-199,5.141,ʔé̄xrih,famine,?exrih
+clics-doculect-15-301,karo1304-std,concepticon-848,5.15,ixrah,thirst,ixrah
+clics-doculect-15-302,karo1304-std,concepticon-1421,5.16,βir,suck,bir
+clics-doculect-15-303,karo1304-std,concepticon-321,5.18,pápuθ,chew,paputh
+clics-doculect-15-304,karo1304-std,concepticon-897,5.181,sī́nkar,swallow,sinkar
+clics-doculect-15-305,karo1304-std,concepticon-1100,5.21,ʔimniš,cook,?imnis
+clics-doculect-15-306,karo1304-std,concepticon-792,5.22,ʔī́βrip,boil (vb),?ibrip
+clics-doculect-15-307,karo1304-std,concepticon-792,5.22,páramβa,boil (vb),paramba
+clics-doculect-15-308,karo1304-std,concepticon-2146,5.23,ʔikī́kβa,"roast, fry",?ikikba
+clics-doculect-15-309,karo1304-std,concepticon-1462,5.26,ʔásip,"pot, cooking vessel",?asip
+clics-doculect-15-310,karo1304-std,concepticon-481,5.31,ʔásip,dish,?asip
+clics-doculect-15-311,karo1304-std,concepticon-480,5.32,ʔimβáram,plate,?imbaram
+clics-doculect-15-312,karo1304-std,concepticon-1530,5.33,ʔásip,bowl,?asip
+clics-doculect-15-313,karo1304-std,concepticon-476,5.35,ʔī́šram,"cup, drinking vessel",?isram
+clics-doculect-15-314,karo1304-std,concepticon-1352,5.38,símsīm,knife,simsim
+clics-doculect-15-315,karo1304-std,concepticon-337,5.39,ʔikrupká̄nβar,fork,?ikrupkanbar
+clics-doculect-15-316,karo1304-std,concepticon-275,5.46,ʔikruh,peel,?ikruh
+clics-doculect-15-317,karo1304-std,concepticon-86,5.47,θantápar,"sieve, strain",thantapar
+clics-doculect-15-318,karo1304-std,concepticon-1767,5.48,taxviš,scrape,taxvis
+clics-doculect-15-319,karo1304-std,concepticon-2017,5.49,taxβaβ,"stir, mix",taxbab
+clics-doculect-15-320,karo1304-std,concepticon-1368,5.51,sára,bread,sara
+clics-doculect-15-321,karo1304-std,concepticon-273,5.53,yāf,dough,yaf
+clics-doculect-15-322,karo1304-std,concepticon-274,5.54,ʔiytup,knead,?iytup
+clics-doculect-15-323,karo1304-std,concepticon-1594,5.55,ʔimpur,"meal, flour",?impur
+clics-doculect-15-324,karo1304-std,concepticon-1033,5.56,ʔikraβ,"crush, grind",?ikrab
+clics-doculect-15-325,karo1304-std,concepticon-224,5.58,ʔikrá̄mnam,mortar,?ikramnam
+clics-doculect-15-326,karo1304-std,concepticon-225,5.59,ʔikrávar,pestle,?ikravar
+clics-doculect-15-327,karo1304-std,concepticon-634,5.61,ʔiθβar,meat,?ithbar
+clics-doculect-15-328,karo1304-std,concepticon-1547,5.64,parámβās,"soup, broth",parambas
+clics-doculect-15-329,karo1304-std,concepticon-920,5.76,ʔāy,grape,?ay
+clics-doculect-15-330,karo1304-std,concepticon-191,5.77,xuntápan,nut,xuntapan
+clics-doculect-15-331,karo1304-std,concepticon-323,5.791,ʔaθkúmt,"grease, fat",?athkumt
+clics-doculect-15-332,karo1304-std,concepticon-1274,5.81,yúfiš,salt,yufis
+clics-doculect-15-333,karo1304-std,concepticon-942,5.84,pišpíših,honey,pispisih
+clics-doculect-15-334,karo1304-std,concepticon-862,5.85,ʔasúxīm,sugar,?asuxim
+clics-doculect-15-335,karo1304-std,concepticon-635,5.86,ʔúčiš,milk (noun),?ucis
+clics-doculect-15-336,karo1304-std,concepticon-1245,5.89,sarataxunkó̄r,butter,sarataxunkor
+clics-doculect-15-337,karo1304-std,concepticon-404,5.94,ʔúxʔās,fermented drink,?ux?as
+clics-doculect-15-338,karo1304-std,concepticon-744,5.97,ʔúruh,egg,?uruh
+clics-doculect-15-339,karo1304-std,concepticon-158,6.11,pásas,put on (clothes),pasas
+clics-doculect-15-340,karo1304-std,concepticon-1895,6.12,sá̄nβa,"clothing, clothes",sanba
+clics-doculect-15-341,karo1304-std,concepticon-1616,6.21,makáyβās,cloth,makaybas
+clics-doculect-15-342,karo1304-std,concepticon-580,6.28,ʔimyāt,fur,?imyat
+clics-doculect-15-343,karo1304-std,concepticon-629,6.29,βastáran,leather,bastaran
+clics-doculect-15-344,karo1304-std,concepticon-133,6.33,βik,weave,bik
+clics-doculect-15-345,karo1304-std,concepticon-1457,6.35,ʔikrup,sew,?ikrup
+clics-doculect-15-346,karo1304-std,concepticon-1382,6.36,ʔičyununuprī́hβanač,needle,?icyununuprihbanac
+clics-doculect-15-347,karo1304-std,concepticon-278,6.37,sī́h,awl,sih
+clics-doculect-15-348,karo1304-std,concepticon-1161,6.38,ʔá̄n,thread,?an
+clics-doculect-15-349,karo1304-std,concepticon-326,6.41,βá̄s,cloak,bas
+clics-doculect-15-350,karo1304-std,concepticon-474,6.42,yáfus,woman's dress,yafus
+clics-doculect-15-351,karo1304-std,concepticon-603,6.43,kútrahar,coat,kutrahar
+clics-doculect-15-352,karo1304-std,concepticon-1622,6.44,βōnβánāč,shirt,bonbanac
+clics-doculect-15-353,karo1304-std,concepticon-1600,6.46,sárukhar,skirt,sarukhar
+clics-doculect-15-354,karo1304-std,concepticon-809,6.48,pó̄r,trousers,por
+clics-doculect-15-355,karo1304-std,concepticon-1381,6.51,yukúkuh,shoe,yukukuh
+clics-doculect-15-356,karo1304-std,concepticon-2130,6.55,ʔápxān,"hat, cap",?apxan
+clics-doculect-15-357,karo1304-std,concepticon-772,6.57,síčakβutβar,"belt, girdle",sicakbutbar
+clics-doculect-15-358,karo1304-std,concepticon-867,6.58,tikakβárār,glove,tikakbarar
+clics-doculect-15-359,karo1304-std,concepticon-1374,6.73,tikakβánāč,ring (for finger),tikakbanac
+clics-doculect-15-360,karo1304-std,concepticon-1754,6.74,paθput,bracelet,pathput
+clics-doculect-15-361,karo1304-std,concepticon-1961,6.75,ʔī́kiβ,necklace,?ikib
+clics-doculect-15-362,karo1304-std,concepticon-1860,6.76,ʔúruhsas,bead,?uruhsas
+clics-doculect-15-363,karo1304-std,concepticon-770,6.77,tê̄nβa,earring,tenba
+clics-doculect-15-364,karo1304-std,concepticon-330,6.78,ʔiyruh,"headband, headdress",?iyruh
+clics-doculect-15-365,karo1304-std,concepticon-68,6.79,θúkinha,tattoo,thukinha
+clics-doculect-15-366,karo1304-std,concepticon-332,6.81,ʔipčimákakananač,"handkerchief, rag",?ipcimakakananac
+clics-doculect-15-367,karo1304-std,concepticon-1475,6.91,ʔiptaxatíhar,comb,?iptaxatihar
+clics-doculect-15-368,karo1304-std,concepticon-333,6.921,ʔiptaxap,braid,?iptaxap
+clics-doculect-15-369,karo1304-std,concepticon-788,6.95,piθxáhar,soap,pithxahar
+clics-doculect-15-370,karo1304-std,concepticon-1171,6.96,pimustihβá̄nar,mirror,pimustihbanar
+clics-doculect-15-371,karo1304-std,concepticon-363,7.11,ʔikriβ,"dwell, live",?ikrib
+clics-doculect-15-372,karo1304-std,concepticon-1252,7.12,ʔiiβ,house,?iib
+clics-doculect-15-373,karo1304-std,concepticon-1252,7.12,ʔikríβrām,house,?ikribram
+clics-doculect-15-374,karo1304-std,concepticon-1316,7.14,makayβasēkríβrām,tent,makaybasekribram
+clics-doculect-15-375,karo1304-std,concepticon-408,7.16,ʔikmaháčrām,men's house,?ikmahacram
+clics-doculect-15-376,karo1304-std,concepticon-1567,7.22,čiβčaksurúrām,"door, gate",cibcaksururam
+clics-doculect-15-377,karo1304-std,concepticon-1596,7.23,ʔasáxβuh,lock (noun),?asaxbuh
+clics-doculect-15-378,karo1304-std,concepticon-1375,7.25,pimustihβá̄nar,window,pimustihbanar
+clics-doculect-15-379,karo1304-std,concepticon-1632,7.26,ʔî̄riš,floor,?iris
+clics-doculect-15-380,karo1304-std,concepticon-185,7.31,ʔahíram,fireplace,?ahiram
+clics-doculect-15-381,karo1304-std,concepticon-859,7.32,pimkúhar,stove,pimkuhar
+clics-doculect-15-382,karo1304-std,concepticon-1305,7.33,ʔahikyá̄rām,chimney,?ahikyaram
+clics-doculect-15-383,karo1304-std,concepticon-1464,7.37,βurá̄kir,ladder,burakir
+clics-doculect-15-384,karo1304-std,concepticon-1663,7.42,ʔasimβáram,bed,?asimbaram
+clics-doculect-15-385,karo1304-std,concepticon-1044,7.421,patúmkir,pillow,patumkir
+clics-doculect-15-386,karo1304-std,concepticon-806,7.422,βá̄s,blanket,bas
+clics-doculect-15-387,karo1304-std,concepticon-1476,7.43,ʔikríβkir,chair,?ikribkir
+clics-doculect-15-388,karo1304-std,concepticon-1775,7.44,ʔamkir,table,?amkir
+clics-doculect-15-389,karo1304-std,concepticon-2131,7.45,ʔá̄h,"lamp, torch",?ah
+clics-doculect-15-390,karo1304-std,concepticon-1273,7.46,ʔaxβâ̄har,candle,?axbahar
+clics-doculect-15-391,karo1304-std,concepticon-769,7.51,ʔiβʔáβahkam,roof,?ib?abahkam
+clics-doculect-15-392,karo1304-std,concepticon-280,7.53,ʔēnákir,ridgepole,?enakir
+clics-doculect-15-393,karo1304-std,concepticon-1132,7.55,kuríhkir,beam,kurihkir
+clics-doculect-15-394,karo1304-std,concepticon-281,7.56,tá̄skar,"post, pole",taskar
+clics-doculect-15-395,karo1304-std,concepticon-1227,7.57,ʔé̄n,board,?en
+clics-doculect-15-396,karo1304-std,concepticon-586,8.13,ʔuhθām,garden,?uhtham
+clics-doculect-15-397,karo1304-std,concepticon-1541,8.15,ʔuhθá̄mha,"cultivate, till",?uhthamha
+clics-doculect-15-398,karo1304-std,concepticon-1690,8.16,tas,fence,tas
+clics-doculect-15-399,karo1304-std,concepticon-1921,8.21,ikyútrih,plow,ikyutrih
+clics-doculect-15-400,karo1304-std,concepticon-1418,8.22,ʔírip,dig,?irip
+clics-doculect-15-401,karo1304-std,concepticon-1901,8.24,tanukyá̄nar,shovel,tanukyanar
+clics-doculect-15-402,karo1304-std,concepticon-1351,8.31,ʔuhθá̄mha,sow,?uhthamha
+clics-doculect-15-403,karo1304-std,concepticon-714,8.311,ʔúhiš,seed,?uhis
+clics-doculect-15-404,karo1304-std,concepticon-605,8.42,ʔikráβapuh,"grain (barley, oats etc)",?ikrabapuh
+clics-doculect-15-405,karo1304-std,concepticon-926,8.48,βakaytunβê̄čas,rice,bakaytunbecas
+clics-doculect-15-406,karo1304-std,concepticon-606,8.51,píriš,grass,piris
+clics-doculect-15-407,karo1304-std,concepticon-670,8.54,ʔuhθá̄mha,root,?uhthamha
+clics-doculect-15-408,karo1304-std,concepticon-1531,8.55,ʔáptīk,branch,?aptik
+clics-doculect-15-409,karo1304-std,concepticon-628,8.56,sá̄n,leaf,san
+clics-doculect-15-410,karo1304-std,concepticon-239,8.57,ʔiθríha,flower,?ithriha
+clics-doculect-15-411,karo1304-std,concepticon-906,8.6,ʔiip,tree,?iip
+clics-doculect-15-412,karo1304-std,concepticon-906,8.6,ʔípaha,tree,?ipaha
+clics-doculect-15-413,karo1304-std,concepticon-644,8.61,xunyé̄p,oak,xunyep
+clics-doculect-15-414,karo1304-std,concepticon-1740,8.64,ʔišβírip,pine,?isbirip
+clics-doculect-15-415,karo1304-std,concepticon-1915,8.65,ʔiθárip,fir,?itharip
+clics-doculect-15-416,karo1304-std,concepticon-968,8.66,xuntápan,acorn,xuntapan
+clics-doculect-15-417,karo1304-std,concepticon-974,8.68,ʔú̄h,tobacco,?uh
+clics-doculect-15-418,karo1304-std,concepticon-974,8.68,ʔihê̄raha,tobacco,?iheraha
+clics-doculect-15-419,karo1304-std,concepticon-1689,8.69,ʔihê̄r,smoke (tobacco),?iher
+clics-doculect-15-420,karo1304-std,concepticon-1124,8.691,ʔuhrām,pipe,?uhram
+clics-doculect-15-421,karo1304-std,concepticon-1204,8.75,má̄n,bark,man
+clics-doculect-15-422,karo1304-std,concepticon-33,8.97,ʔakβīn,nettle,?akbin
+clics-doculect-15-423,karo1304-std,concepticon-641,8.98,xayβīš,mushroom,xaybis
+clics-doculect-15-424,karo1304-std,concepticon-2575,9.11,ʔikyaβ,"do, make",?ikyab
+clics-doculect-15-425,karo1304-std,concepticon-984,9.12,ʔikyáβīčβa,work,?ikyabicba
+clics-doculect-15-426,karo1304-std,concepticon-2004,9.14,kifnuk,bend,kifnuk
+clics-doculect-15-427,karo1304-std,concepticon-1917,9.16,ʔinhíka,"tie, bind",?inhika
+clics-doculect-15-428,karo1304-std,concepticon-1218,9.19,ʔá̄n,"rope, cord",?an
+clics-doculect-15-429,karo1304-std,concepticon-2133,9.21,ʔiykar,"strike (hit, beat)",?iykar
+clics-doculect-15-430,karo1304-std,concepticon-1432,9.22,ʔikβit,cut,?ikbit
+clics-doculect-15-431,karo1304-std,concepticon-155,9.222,ʔá̄k,"chop, hew",?ak
+clics-doculect-15-432,karo1304-std,concepticon-1352,9.23,símsīm,knife,simsim
+clics-doculect-15-433,karo1304-std,concepticon-356,9.24,táčakar,"scissors, shears",tacakar
+clics-doculect-15-434,karo1304-std,concepticon-677,9.25,ʔakó̄r,ax,?akor
+clics-doculect-15-435,karo1304-std,concepticon-680,9.26,ʔikpat,break,?ikpat
+clics-doculect-15-436,karo1304-std,concepticon-588,9.261,ʔišpat,broken,?ispat
+clics-doculect-15-437,karo1304-std,concepticon-1437,9.27,ʔikrak,split,?ikrak
+clics-doculect-15-438,karo1304-std,concepticon-1735,9.28,pititítit,tear,pitititit
+clics-doculect-15-439,karo1304-std,concepticon-291,9.29,išfir,"flay, skin",isfir
+clics-doculect-15-440,karo1304-std,concepticon-1449,9.31,iyβúruk,"rub, wipe",iyburuk
+clics-doculect-15-441,karo1304-std,concepticon-1455,9.33,ʔiθyur,pull,?ithyur
+clics-doculect-15-442,karo1304-std,concepticon-357,9.341,tákararih,hang up,takararih
+clics-doculect-15-443,karo1304-std,concepticon-1487,9.35,ʔiyβê̄š,pour,?iybes
+clics-doculect-15-444,karo1304-std,concepticon-1453,9.36,piθxah,wash,pithxah
+clics-doculect-15-445,karo1304-std,concepticon-230,9.37,tátuy,sweep,tatuy
+clics-doculect-15-446,karo1304-std,concepticon-245,9.38,tátuyšurar,broom,tatuysurar
+clics-doculect-15-447,karo1304-std,concepticon-1948,9.48,βúčixar,saw,bucixar
+clics-doculect-15-448,karo1304-std,concepticon-502,9.5,sī́h,nail,sih
+clics-doculect-15-449,karo1304-std,concepticon-1069,9.56,ʔapunáxβuh,glue,?apunaxbuh
+clics-doculect-15-450,karo1304-std,concepticon-1369,9.64,ʔišpuk,gold,?ispuk
+clics-doculect-15-451,karo1304-std,concepticon-621,9.67,símsīm,iron,simsim
+clics-doculect-15-452,karo1304-std,concepticon-1399,9.73,ʔamtūp,clay,?amtup
+clics-doculect-15-453,karo1304-std,concepticon-604,9.74,pimustihβá̄nar,glass,pimustihbanar
+clics-doculect-15-454,karo1304-std,concepticon-1729,9.75,vik,"weave, plait",vik
+clics-doculect-15-455,karo1304-std,concepticon-1539,9.76,ʔásip,basket,?asip
+clics-doculect-15-456,karo1304-std,concepticon-195,9.77,ʔiθvar,mat,?ithvar
+clics-doculect-15-457,karo1304-std,concepticon-293,9.78,θuxriβ,netbag,thuxrib
+clics-doculect-15-458,karo1304-std,concepticon-1113,10.14,ʔiyxô̄rariβ,"wind, wrap",?iyxorarib
+clics-doculect-15-459,karo1304-std,concepticon-827,10.15,ʔiyruh,roll,?iyruh
+clics-doculect-15-460,karo1304-std,concepticon-430,10.17,ʔátat,twist,?atat
+clics-doculect-15-461,karo1304-std,concepticon-568,10.21,ʔuh,rise,?uh
+clics-doculect-15-462,karo1304-std,concepticon-501,10.22,ʔê̄čip,"raise, lift",?ecip
+clics-doculect-15-463,karo1304-std,concepticon-1280,10.23,ʔikyiβ,fall,?ikyib
+clics-doculect-15-464,karo1304-std,concepticon-2253,10.24,ʔírih,drip,?irih
+clics-doculect-15-465,karo1304-std,concepticon-1456,10.25,paθ,throw,path
+clics-doculect-15-466,karo1304-std,concepticon-702,10.252,pax,catch (ball),pax
+clics-doculect-15-467,karo1304-std,concepticon-2003,10.32,βur,flow,bur
+clics-doculect-15-468,karo1304-std,concepticon-1088,10.33,ʔarankúrih,sink,?arankurih
+clics-doculect-15-469,karo1304-std,concepticon-1574,10.34,θiβruh,float,thibruh
+clics-doculect-15-470,karo1304-std,concepticon-1439,10.35,ʔikpuh,swim,?ikpuh
+clics-doculect-15-471,karo1304-std,concepticon-119,10.351,ʔīpkúrih,dive,?ipkurih
+clics-doculect-15-472,karo1304-std,concepticon-365,10.352,ʔikčusúčus,splash,?ikcusucus
+clics-doculect-15-473,karo1304-std,concepticon-787,10.36,βit,sail (vb),bit
+clics-doculect-15-474,karo1304-std,concepticon-1441,10.37,ʔikxip,fly (vb),?ikxip
+clics-doculect-15-475,karo1304-std,concepticon-175,10.38,fumpuh,blow,fumpuh
+clics-doculect-15-476,karo1304-std,concepticon-96,10.41,βô̄r,"creep, crawl",bor
+clics-doculect-15-477,karo1304-std,concepticon-66,10.412,páθakha,kneel,pathakha
+clics-doculect-15-478,karo1304-std,concepticon-1324,10.42,tápič,"slide, slip",tapic
+clics-doculect-15-479,karo1304-std,concepticon-1829,10.43,ʔiškak,"jump, leap",?iskak
+clics-doculect-15-480,karo1304-std,concepticon-1879,10.44,ʔih,dance,?ih
+clics-doculect-15-481,karo1304-std,concepticon-1443,10.45,ʔáhō,walk,?aho
+clics-doculect-15-482,karo1304-std,concepticon-1519,10.46,ʔikβip,run,?ikbip
+clics-doculect-15-483,karo1304-std,concepticon-695,10.47,ʔáhō,go,?aho
+clics-doculect-15-484,karo1304-std,concepticon-705,10.471,βurā,go up,bura
+clics-doculect-15-485,karo1304-std,concepticon-1102,10.472,ʔikfuk,climb,?ikfuk
+clics-doculect-15-486,karo1304-std,concepticon-2014,10.473,βī́š,go down,bis
+clics-doculect-15-487,karo1304-std,concepticon-1107,10.474,βárip,go out,barip
+clics-doculect-15-488,karo1304-std,concepticon-1446,10.48,ʔáhō,come,?aho
+clics-doculect-15-489,karo1304-std,concepticon-581,10.481,ʔípak,come back,?ipak
+clics-doculect-15-490,karo1304-std,concepticon-1752,10.49,βâ̄ram,"go away, depart",baram
+clics-doculect-15-491,karo1304-std,concepticon-485,10.491,sir,disappear,sir
+clics-doculect-15-492,karo1304-std,concepticon-1085,10.52,ʔáharam,follow,?aharam
+clics-doculect-15-493,karo1304-std,concepticon-1047,10.53,ʔáharam,pursue,?aharam
+clics-doculect-15-494,karo1304-std,concepticon-1387,10.55,ʔūm,"reach, arrive",?um
+clics-doculect-15-495,karo1304-std,concepticon-749,10.57,βô̄nfuruk,enter,bonfuruk
+clics-doculect-15-496,karo1304-std,concepticon-700,10.61,ʔê̄θ,carry (bear),?eth
+clics-doculect-15-497,karo1304-std,concepticon-412,10.612,mû̄t,carry-in-hand,mut
+clics-doculect-15-498,karo1304-std,concepticon-412,10.612,ʔiktaβ,carry-in-hand,?iktab
+clics-doculect-15-499,karo1304-std,concepticon-413,10.613,ʔikβat,carry-on-shoulder,?ikbat
+clics-doculect-15-500,karo1304-std,concepticon-692,10.62,ʔê̄θ,bring,?eth
+clics-doculect-15-501,karo1304-std,concepticon-43,10.64,ʔišrá̄t,lead (vb),?israt
+clics-doculect-15-502,karo1304-std,concepticon-741,10.65,ʔáha,drive,?aha
+clics-doculect-15-503,karo1304-std,concepticon-367,10.66,kû̄ntakō,ride,kuntako
+clics-doculect-15-504,karo1304-std,concepticon-1452,10.67,taxya,"push, shove",taxya
+clics-doculect-15-505,karo1304-std,concepticon-667,10.71,ʔimpāh,road,?impah
+clics-doculect-15-506,karo1304-std,concepticon-2252,10.72,ʔimpāh,path,?impah
+clics-doculect-15-507,karo1304-std,concepticon-1011,10.74,ʔahyūm,bridge,?ahyum
+clics-doculect-15-508,karo1304-std,concepticon-710,10.76,takníhar,wheel,taknihar
+clics-doculect-15-509,karo1304-std,concepticon-1844,10.83,pá̄h,boat,pah
+clics-doculect-15-510,karo1304-std,concepticon-1970,10.831,pá̄h,canoe,pah
+clics-doculect-15-511,karo1304-std,concepticon-108,10.85,pahβítar,oar,pahbitar
+clics-doculect-15-512,karo1304-std,concepticon-234,10.851,pahβítur,paddle (noun),pahbitur
+clics-doculect-15-513,karo1304-std,concepticon-1849,10.852,vit,row (vb),vit
+clics-doculect-15-514,karo1304-std,concepticon-773,11.11,θīn,have,thin
+clics-doculect-15-515,karo1304-std,concepticon-684,11.12,θīn,"own, possess",thin
+clics-doculect-15-516,karo1304-std,concepticon-1749,11.13,ʔé̄θ,take,?eth
+clics-doculect-15-517,karo1304-std,concepticon-2021,11.14,ʔáxay,"seize, grasp",?axay
+clics-doculect-15-518,karo1304-std,concepticon-1448,11.15,θīn,hold,thin
+clics-doculect-15-519,karo1304-std,concepticon-1448,11.15,ʔištak,hold,?istak
+clics-doculect-15-520,karo1304-std,concepticon-1477,11.17,xá̄yha,"keep, retain",xayha
+clics-doculect-15-521,karo1304-std,concepticon-1447,11.21,ʔé̄h,give,?eh
+clics-doculect-15-522,karo1304-std,concepticon-1997,11.24,xú̄sʔé̄θ,"preserve, look after",xus?eth
+clics-doculect-15-523,karo1304-std,concepticon-2008,11.25,xāyha,"save, rescue",xayha
+clics-doculect-15-524,karo1304-std,concepticon-1468,11.31,ʔápiβ,"seek, look for",?apib
+clics-doculect-15-525,karo1304-std,concepticon-719,11.32,mah,find,mah
+clics-doculect-15-526,karo1304-std,concepticon-1660,11.33,pá̄čur,lose,pacur
+clics-doculect-15-527,karo1304-std,concepticon-1559,11.43,ʔišpuk,money,?ispuk
+clics-doculect-15-528,karo1304-std,concepticon-712,11.51,yāsʔára,rich,yas?ara
+clics-doculect-15-529,karo1304-std,concepticon-1674,11.52,kâ̄rim,poor,karim
+clics-doculect-15-530,karo1304-std,concepticon-1934,11.53,ʔimūmáhān,beggar,?imumahan
+clics-doculect-15-531,karo1304-std,concepticon-1774,11.54,ʔamíhyaβ,"avaricious, stingy",?amihyab
+clics-doculect-15-532,karo1304-std,concepticon-718,11.65,ʔiyúriš,pay (vb),?iyuris
+clics-doculect-15-533,karo1304-std,concepticon-856,11.77,ʔihruβ,hire,?ihrub
+clics-doculect-15-534,karo1304-std,concepticon-1869,11.81,ʔikβáriš,buy,?ikbaris
+clics-doculect-15-535,karo1304-std,concepticon-1571,11.82,ʔiyé̄šrīhβa,sell,?iyesrihba
+clics-doculect-15-536,karo1304-std,concepticon-2135,11.83,pê̄βapiθβa,"trade, barter",pebapithba
+clics-doculect-15-537,karo1304-std,concepticon-752,11.86,pēβapiθβāram,"store, shop",pebapithbaram
+clics-doculect-15-538,karo1304-std,concepticon-1098,11.92,má̄θha,weigh,mathha
+clics-doculect-15-539,karo1304-std,concepticon-723,12.11,ʔífuθ,place,?ifuth
+clics-doculect-15-540,karo1304-std,concepticon-1816,12.2,ʔápapkam,beside,?apapkam
+clics-doculect-15-541,karo1304-std,concepticon-2094,12.3,súruk,"down, below",suruk
+clics-doculect-15-542,karo1304-std,concepticon-1019,12.41,ʔá̄vkam,right (side),?avkam
+clics-doculect-15-543,karo1304-std,concepticon-1606,12.5,súruk,"inside, in",suruk
+clics-doculect-15-544,karo1304-std,concepticon-1606,12.5,ʔīná̄k,"inside, in",?inak
+clics-doculect-15-545,karo1304-std,concepticon-762,12.6,ʔî̄kam,outside,?ikam
+clics-doculect-15-546,karo1304-std,concepticon-1485,12.7,súruk,under,suruk
+clics-doculect-15-547,karo1304-std,concepticon-1591,12.8,ʔaʔ,"up, above",?a?
+clics-doculect-15-548,karo1304-std,concepticon-998,12.12,ʔūβ,put,?ub
+clics-doculect-15-549,karo1304-std,concepticon-1416,12.13,ʔikriβ,sit,?ikrib
+clics-doculect-15-550,karo1304-std,concepticon-1416,12.13,kû̄riš,sit,kuris
+clics-doculect-15-551,karo1304-std,concepticon-215,12.14,ʔá̄siš,lie down,?asis
+clics-doculect-15-552,karo1304-std,concepticon-1442,12.15,ʔihyárih,stand,?ihyarih
+clics-doculect-15-553,karo1304-std,concepticon-987,12.16,sām,"remain, stay",sam
+clics-doculect-15-554,karo1304-std,concepticon-7,12.21,ʔífik,"collect, gather",?ifik
+clics-doculect-15-555,karo1304-std,concepticon-371,12.212,ʔê̄čip,pick up,?ecip
+clics-doculect-15-556,karo1304-std,concepticon-1576,12.213,ʔikyut,pile up,?ikyut
+clics-doculect-15-557,karo1304-std,concepticon-1359,12.23,iktak,separate,iktak
+clics-doculect-15-558,karo1304-std,concepticon-1156,12.24,čiβčá̄ksur,open,cibcaksur
+clics-doculect-15-559,karo1304-std,concepticon-1046,12.25,čiβčak,"shut, close",cibcak
+clics-doculect-15-560,karo1304-std,concepticon-761,12.26,ʔiθxup,cover,?ithxup
+clics-doculect-15-561,karo1304-std,concepticon-602,12.27,ʔíšunβa,"hide, conceal",?isunba
+clics-doculect-15-562,karo1304-std,concepticon-1265,12.31,ʔaʔvárih,high,?a?varih
+clics-doculect-15-563,karo1304-std,concepticon-1753,12.33,ʔípan,top,?ipan
+clics-doculect-15-564,karo1304-std,concepticon-690,12.34,ʔáfiβ,bottom,?afib
+clics-doculect-15-565,karo1304-std,concepticon-742,12.35,ʔípan,end,?ipan
+clics-doculect-15-566,karo1304-std,concepticon-372,12.352,yáθah,pointed,yathah
+clics-doculect-15-567,karo1304-std,concepticon-863,12.353,tī́m,edge,tim
+clics-doculect-15-568,karo1304-std,concepticon-682,12.36,ʔápap,side,?apap
+clics-doculect-15-569,karo1304-std,concepticon-1093,12.37,ʔá̄čip,"middle, center",?acip
+clics-doculect-15-570,karo1304-std,concepticon-1019,12.41,yá̄stīkam,right (side),yastikam
+clics-doculect-15-571,karo1304-std,concepticon-244,12.42,kútutukam,left (side),kututukam
+clics-doculect-15-572,karo1304-std,concepticon-1942,12.43,ʔû̄mukič,near (adv),?umukic
+clics-doculect-15-573,karo1304-std,concepticon-1406,12.44,yīβ,far (adv),yib
+clics-doculect-15-574,karo1304-std,concepticon-479,12.53,ʔif,grow,?if
+clics-doculect-15-575,karo1304-std,concepticon-1506,12.54,suprih,measure,suprih
+clics-doculect-15-576,karo1304-std,concepticon-1506,12.54,suprav,measure,suprav
+clics-doculect-15-577,karo1304-std,concepticon-1202,12.55,ké̄č,"large, big",kec
+clics-doculect-15-578,karo1304-std,concepticon-1202,12.55,kām,"large, big",kam
+clics-doculect-15-579,karo1304-std,concepticon-1246,12.56,nî̄namič,"small, little",ninamic
+clics-doculect-15-580,karo1304-std,concepticon-1246,12.56,ʔanamahač,"small, little",?anamahac
+clics-doculect-15-581,karo1304-std,concepticon-1203,12.57,vâ̄ram,long,varam
+clics-doculect-15-582,karo1304-std,concepticon-1203,12.57,xárah,long,xarah
+clics-doculect-15-583,karo1304-std,concepticon-711,12.58,vâ̄ram,tall,varam
+clics-doculect-15-584,karo1304-std,concepticon-711,12.58,xárah,tall,xarah
+clics-doculect-15-585,karo1304-std,concepticon-1645,12.59,ʔipšû̄nkinač,short,?ipsunkinac
+clics-doculect-15-586,karo1304-std,concepticon-1243,12.61,tírih,"wide, broad",tirih
+clics-doculect-15-587,karo1304-std,concepticon-1267,12.62,čû̄yič,narrow,cuyic
+clics-doculect-15-588,karo1304-std,concepticon-1244,12.63,ʔítpūm,thick (in dimension),?itpum
+clics-doculect-15-589,karo1304-std,concepticon-2249,12.65,xútnahič,thin (in dimension),xutnahic
+clics-doculect-15-590,karo1304-std,concepticon-1593,12.67,núkah,deep,nukah
+clics-doculect-15-591,karo1304-std,concepticon-1593,12.67,ʔé̄nīk,deep,?enik
+clics-doculect-15-592,karo1304-std,concepticon-193,12.68,ʔasáxnahič,shallow,?asaxnahic
+clics-doculect-15-593,karo1304-std,concepticon-1633,12.71,tínihič,flat,tinihic
+clics-doculect-15-594,karo1304-std,concepticon-1404,12.73,fīpáyaβ,straight,fipayab
+clics-doculect-15-595,karo1304-std,concepticon-297,12.74,kūn,crooked,kun
+clics-doculect-15-596,karo1304-std,concepticon-1071,12.75,taxβúkar,hook,taxbukar
+clics-doculect-15-597,karo1304-std,concepticon-1395,12.81,ʔúruh,round,?uruh
+clics-doculect-15-598,karo1304-std,concepticon-1558,12.92,kúniš,"like, similar",kunis
+clics-doculect-15-599,karo1304-std,concepticon-1294,13.0,púfāt,"zero, nothing",pufat
+clics-doculect-15-600,karo1304-std,concepticon-1493,13.1,yīθa,one,yitha
+clics-doculect-15-601,karo1304-std,concepticon-1493,13.1,ʔiθa,one,?itha
+clics-doculect-15-602,karo1304-std,concepticon-1498,13.2,ʔáxak,two,?axak
+clics-doculect-15-603,karo1304-std,concepticon-492,13.3,kuyrāk,three,kuyrak
+clics-doculect-15-604,karo1304-std,concepticon-1500,13.4,pīθ,four,pith
+clics-doculect-15-605,karo1304-std,concepticon-493,13.5,ʔitró̄p,five,?itrop
+clics-doculect-15-606,karo1304-std,concepticon-1703,13.6,ʔikrívkih,six,?ikrivkih
+clics-doculect-15-607,karo1304-std,concepticon-1704,13.7,ʔaxakinívkih,seven,?axakinivkih
+clics-doculect-15-608,karo1304-std,concepticon-1705,13.8,kuyrakinívkih,eight,kuyrakinivkih
+clics-doculect-15-609,karo1304-std,concepticon-1483,13.9,ʔitrōpatíšāmnih,nine,?itropatisamnih
+clics-doculect-15-610,karo1304-std,concepticon-1515,13.10,ʔitrahyar,ten,?itrahyar
+clics-doculect-15-611,karo1304-std,concepticon-1515,13.10,ʔitahara,ten,?itahara
+clics-doculect-15-612,karo1304-std,concepticon-1706,13.101,ʔitráhyarkáruyíθa,eleven,?itrahyarkaruyitha
+clics-doculect-15-613,karo1304-std,concepticon-1707,13.102,ʔitráhyarkáruʔáxak,twelve,?itrahyarkaru?axak
+clics-doculect-15-614,karo1304-std,concepticon-1709,13.103,ʔitráhyarkáruʔitró̄p,fifteen,?itrahyarkaru?itrop
+clics-doculect-15-615,karo1304-std,concepticon-1710,13.104,xakitráhyar,twenty,xakitrahyar
+clics-doculect-15-616,karo1304-std,concepticon-1634,13.105,ʔiθapáčiš,hundred,?ithapacis
+clics-doculect-15-617,karo1304-std,concepticon-1843,13.106,ʔitaharapáčiš,thousand,?itaharapacis
+clics-doculect-15-618,karo1304-std,concepticon-1420,13.107,tó̄r,count,tor
+clics-doculect-15-619,karo1304-std,concepticon-98,13.14,kōβúra,"every, all",kobura
+clics-doculect-15-620,karo1304-std,concepticon-1198,13.15,tāy,"much, many",tay
+clics-doculect-15-621,karo1304-std,concepticon-1992,13.16,kumatê̄šič,more,kumatesic
+clics-doculect-15-622,karo1304-std,concepticon-1242,13.17,čî̄mič,"little (quantity), few",cimic
+clics-doculect-15-623,karo1304-std,concepticon-1881,13.18,kó̄nik,enough,konik
+clics-doculect-15-624,karo1304-std,concepticon-1241,13.181,ká̄kum,some,kakum
+clics-doculect-15-625,karo1304-std,concepticon-1429,13.21,ʔaxyar,full,?axyar
+clics-doculect-15-626,karo1304-std,concepticon-1624,13.22,ʔárūn,empty,?arun
+clics-doculect-15-627,karo1304-std,concepticon-779,13.23,ʔišvit,"part, piece",?isvit
+clics-doculect-15-628,karo1304-std,concepticon-816,13.24,ʔišvit,half,?isvit
+clics-doculect-15-629,karo1304-std,concepticon-1580,13.33,páθa,"alone, only",patha
+clics-doculect-15-630,karo1304-std,concepticon-728,13.34,píšīp,first,pisip
+clics-doculect-15-631,karo1304-std,concepticon-1529,13.35,ʔifučtî̄mič,last,?ifuctimic
+clics-doculect-15-632,karo1304-std,concepticon-1546,13.38,ʔaxákyān,two times,?axakyan
+clics-doculect-15-633,karo1304-std,concepticon-417,13.44,kuyrákyān,three times,kuyrakyan
+clics-doculect-15-634,karo1304-std,concepticon-1231,14.13,pī́t,new,pit
+clics-doculect-15-635,karo1304-std,concepticon-1229,14.15,ké̄βrīkha,old,kebrikha
+clics-doculect-15-636,karo1304-std,concepticon-477,14.17,nô̄tah,late,notah
+clics-doculect-15-637,karo1304-std,concepticon-1376,14.18,payé̄m,now,payem
+clics-doculect-15-638,karo1304-std,concepticon-1631,14.21,čé̄myāč,"swift, fast, quick",cemyac
+clics-doculect-15-639,karo1304-std,concepticon-701,14.22,čakaʔî̄mič,slow,caka?imic
+clics-doculect-15-640,karo1304-std,concepticon-701,14.22,kačaʔî̄mič,slow,kaca?imic
+clics-doculect-15-641,karo1304-std,concepticon-754,14.23,yá̄βha,"hasten, hurry",yabha
+clics-doculect-15-642,karo1304-std,concepticon-1806,14.25,ikyâ̄sip,"begin, beginning",ikyasip
+clics-doculect-15-643,karo1304-std,concepticon-1766,14.27,pikyār,finish,pikyar
+clics-doculect-15-644,karo1304-std,concepticon-1928,14.28,ʔiškáxiš,"cease, stop",?iskaxis
+clics-doculect-15-645,karo1304-std,concepticon-790,14.29,káriha,ready,kariha
+clics-doculect-15-646,karo1304-std,concepticon-1676,14.31,ʔatahári,always,?atahari
+clics-doculect-15-647,karo1304-std,concepticon-1544,14.33,hâ̄rih,sometimes,harih
+clics-doculect-15-648,karo1304-std,concepticon-418,14.332,xárah,long-time (for a),xarah
+clics-doculect-15-649,karo1304-std,concepticon-1656,14.34,haríxay,never,harixay
+clics-doculect-15-650,karo1304-std,concepticon-204,14.35,kúkūm,again,kukum
+clics-doculect-15-651,karo1304-std,concepticon-1225,14.41,súpāh,day,supah
+clics-doculect-15-652,karo1304-std,concepticon-1233,14.42,ʔikxáram,night,?ikxaram
+clics-doculect-15-653,karo1304-std,concepticon-729,14.43,mahʔî̄tnihač,dawn,mah?itnihac
+clics-doculect-15-654,karo1304-std,concepticon-1339,14.44,máhʔīt,morning,mah?it
+clics-doculect-15-655,karo1304-std,concepticon-12,14.45,supáhʔāčip,"noon, midday",supah?acip
+clics-doculect-15-656,karo1304-std,concepticon-1629,14.46,ʔikxúrar,evening,?ikxurar
+clics-doculect-15-657,karo1304-std,concepticon-1283,14.47,payê̄mkumasúpāh,today,payemkumasupah
+clics-doculect-15-658,karo1304-std,concepticon-1329,14.48,ʔimān,tomorrow,?iman
+clics-doculect-15-659,karo1304-std,concepticon-1179,14.481,ʔimá̄nmúmānkam,day-after-tomorrow,?imanmumankam
+clics-doculect-15-660,karo1304-std,concepticon-1174,14.49,ʔipit,yesterday,?ipit
+clics-doculect-15-661,karo1304-std,concepticon-1180,14.491,ʔipítmúpitkam,day-before-yesterday,?ipitmupitkam
+clics-doculect-15-662,karo1304-std,concepticon-1323,14.53,kusnáhʔaramahač,"clock, timepiece",kusnah?aramahac
+clics-doculect-15-663,karo1304-std,concepticon-1697,14.63,yíθatōpsúpāhpa,Monday,yithatopsupahpa
+clics-doculect-15-664,karo1304-std,concepticon-1695,14.64,ʔáxaktōpsúpāhpa,Tuesday,?axaktopsupahpa
+clics-doculect-15-665,karo1304-std,concepticon-1694,14.65,kuyrāktōpsúpāhpa,Wednesday,kuyraktopsupahpa
+clics-doculect-15-666,karo1304-std,concepticon-1693,14.66,pīθtōpsúpāhpa,Thursday,pithtopsupahpa
+clics-doculect-15-667,karo1304-std,concepticon-1692,14.67,ʔitrô̄ptōpsúpāhpa,Friday,?itroptopsupahpa
+clics-doculect-15-668,karo1304-std,concepticon-1370,14.71,kú̄srah,month,kusrah
+clics-doculect-15-669,karo1304-std,concepticon-1226,14.73,hárinay,year,harinay
+clics-doculect-15-670,karo1304-std,concepticon-1471,14.74,ʔíšyāβ,winter,?isyab
+clics-doculect-15-671,karo1304-std,concepticon-1537,14.75,pimnanihî̄šrih,spring,pimnanihisrih
+clics-doculect-15-672,karo1304-std,concepticon-1342,14.76,pimná̄nih,summer,pimnanih
+clics-doculect-15-673,karo1304-std,concepticon-1276,14.77,pišyaβpî̄šrih,autumn,pisyabpisrih
+clics-doculect-15-674,karo1304-std,concepticon-1587,15.21,ʔimxaθ,smell (vb intrans),?imxath
+clics-doculect-15-675,karo1304-std,concepticon-1586,15.22,ʔimšákar,smell (vb trans),?imsakar
+clics-doculect-15-676,karo1304-std,concepticon-376,15.25,ʔimxaθáyaβ,"fragrant, good smelling",?imxathayab
+clics-doculect-15-677,karo1304-std,concepticon-42,15.26,ʔimxaθaké̄m,"stinking, bad smelling",?imxathakem
+clics-doculect-15-678,karo1304-std,concepticon-21,15.31,ʔákat,taste,?akat
+clics-doculect-15-679,karo1304-std,concepticon-717,15.35,ʔuxrāh,sweet,?uxrah
+clics-doculect-15-680,karo1304-std,concepticon-1091,15.36,yúfišar,salty,yufisar
+clics-doculect-15-681,karo1304-std,concepticon-887,15.37,ʔú̄x,bitter,?ux
+clics-doculect-15-682,karo1304-std,concepticon-1906,15.38,ʔuxrháθkāy,"acid, sour",?uxrhathkay
+clics-doculect-15-683,karo1304-std,concepticon-1408,15.41,θítiβ,hear,thitib
+clics-doculect-15-684,karo1304-std,concepticon-1314,15.46,iškax,"quiet, silence",iskax
+clics-doculect-15-685,karo1304-std,concepticon-1409,15.51,mah,see,mah
+clics-doculect-15-686,karo1304-std,concepticon-1819,15.52,ʔimus,"look, look at",?imus
+clics-doculect-15-687,karo1304-std,concepticon-1039,15.55,ʔikšup,show,?iksup
+clics-doculect-15-688,karo1304-std,concepticon-708,15.56,ʔimšírih,shine,?imsirih
+clics-doculect-15-689,karo1304-std,concepticon-679,15.57,ʔimkatáxrah,bright,?imkataxrah
+clics-doculect-15-690,karo1304-std,concepticon-1335,15.64,tāhkō,white,tahko
+clics-doculect-15-691,karo1304-std,concepticon-1335,15.64,čánčāfkuniš,white,cancafkunis
+clics-doculect-15-692,karo1304-std,concepticon-163,15.65,ʔikxáramkuniš,black,?ikxaramkunis
+clics-doculect-15-693,karo1304-std,concepticon-156,15.66,ʔá̄xkuniš,red,?axkunis
+clics-doculect-15-694,karo1304-std,concepticon-837,15.67,θúkinkuniš,blue,thukinkunis
+clics-doculect-15-695,karo1304-std,concepticon-1425,15.68,θúkinkuniš,green,thukinkunis
+clics-doculect-15-696,karo1304-std,concepticon-1424,15.69,θúkinkuniš,yellow,thukinkunis
+clics-doculect-15-697,karo1304-std,concepticon-1892,15.71,ʔáfiš,touch,?afis
+clics-doculect-15-698,karo1304-std,concepticon-378,15.712,βimčuk,pinch,bimcuk
+clics-doculect-15-699,karo1304-std,concepticon-1079,15.72,ʔafíšēn,feel,?afisen
+clics-doculect-15-700,karo1304-std,concepticon-1884,15.74,sákrīβ,hard,sakrib
+clics-doculect-15-701,karo1304-std,concepticon-1856,15.75,xé̄čič,soft,xecic
+clics-doculect-15-702,karo1304-std,concepticon-1923,15.76,kúkuh,rough,kukuh
+clics-doculect-15-703,karo1304-std,concepticon-1234,15.77,xūs,smooth,xus
+clics-doculect-15-704,karo1304-std,concepticon-1396,15.78,yáθah,sharp,yathah
+clics-doculect-15-705,karo1304-std,concepticon-379,15.79,múmuh,"blunt, dull",mumuh
+clics-doculect-15-706,karo1304-std,concepticon-1210,15.81,má̄θ,heavy,math
+clics-doculect-15-707,karo1304-std,concepticon-1052,15.82,ʔišná̄nič,light (in weight),?isnanic
+clics-doculect-15-708,karo1304-std,concepticon-1726,15.83,ʔāskípač,"wet, damp",?askipac
+clics-doculect-15-709,karo1304-std,concepticon-1398,15.84,ʔiβáxrah,dry,?ibaxrah
+clics-doculect-15-710,karo1304-std,concepticon-1286,15.85,ʔimfir,hot,?imfir
+clics-doculect-15-711,karo1304-std,concepticon-1286,15.85,ʔimčax,hot,?imcax
+clics-doculect-15-712,karo1304-std,concepticon-1232,15.851,ʔimpuk,warm,?impuk
+clics-doculect-15-713,karo1304-std,concepticon-1287,15.86,ʔáθīk,cold,?athik
+clics-doculect-15-714,karo1304-std,concepticon-1230,15.88,ʔaxβíθin,"dirty, soiled",?axbithin
+clics-doculect-15-715,karo1304-std,concepticon-53,16.11,pikšip,"soul, spirit",piksip
+clics-doculect-15-716,karo1304-std,concepticon-720,16.18,ʔískīt,"good fortune, luck",?iskit
+clics-doculect-15-717,karo1304-std,concepticon-56,16.19,ʔāksâ̄nβa,"misfortune, bad luck",?aksanba
+clics-doculect-15-718,karo1304-std,concepticon-1495,16.23,ʔāčíčha,"joyful, glad, happy",?acicha
+clics-doculect-15-719,karo1304-std,concepticon-1355,16.25,ʔikšah,laugh,?iksah
+clics-doculect-15-720,karo1304-std,concepticon-1413,16.26,ʔixtī́βha,play,?ixtibha
+clics-doculect-15-721,karo1304-std,concepticon-923,16.27,ʔī́mnih,love,?imnih
+clics-doculect-15-722,karo1304-std,concepticon-578,16.29,páčup,kiss,pacup
+clics-doculect-15-723,karo1304-std,concepticon-1783,16.31,kúha,pain,kuha
+clics-doculect-15-724,karo1304-std,concepticon-1668,16.32,tárak,"grief, sorrow, sadness",tarak
+clics-doculect-15-725,karo1304-std,concepticon-1875,16.34,ʔiθvuyxâ̄ha,"regret, be sorry",?ithvuyxaha
+clics-doculect-15-726,karo1304-std,concepticon-1141,16.35,kōhímačkō,pity,kohimacko
+clics-doculect-15-727,karo1304-std,concepticon-1839,16.37,ʔixrar,"cry, weep",?ixrar
+clics-doculect-15-728,karo1304-std,concepticon-1651,16.38,yupastáram,tear (noun),yupastaram
+clics-doculect-15-729,karo1304-std,concepticon-1607,16.41,βî̄ha,hate,biha
+clics-doculect-15-730,karo1304-std,concepticon-82,16.42,ʔixvī́pha,anger,?ixvipha
+clics-doculect-15-731,karo1304-std,concepticon-40,16.44,ʔafitú̄nβa,"envy, jealousy",?afitunba
+clics-doculect-15-732,karo1304-std,concepticon-1776,16.45,ʔahárām,shame (noun),?aharam
+clics-doculect-15-733,karo1304-std,concepticon-3,16.52,ʔišímfir,brave,?isimfir
+clics-doculect-15-734,karo1304-std,concepticon-781,16.53,ʔay,"fear, fright",?ay
+clics-doculect-15-735,karo1304-std,concepticon-1784,16.62,βíštar,"desire, want",bistar
+clics-doculect-15-736,karo1304-std,concepticon-1750,16.622,tayaβ,choose,tayab
+clics-doculect-15-737,karo1304-std,concepticon-1657,16.66,ʔif,true,?if
+clics-doculect-15-738,karo1304-std,concepticon-601,16.67,pikšá̄yβa,"lie, tell lies",piksayba
+clics-doculect-15-739,karo1304-std,concepticon-1035,16.71,yaβ,good,yab
+clics-doculect-15-740,karo1304-std,concepticon-1292,16.72,ké̄m,bad,kem
+clics-doculect-15-741,karo1304-std,concepticon-1427,16.81,yâ̄mač,beautiful,yamac
+clics-doculect-15-742,karo1304-std,concepticon-1427,16.81,ʔimusáyaβ,beautiful,?imusayab
+clics-doculect-15-743,karo1304-std,concepticon-1548,16.82,ʔimusaké̄m,ugly,?imusakem
+clics-doculect-15-744,karo1304-std,concepticon-1415,17.13,xus,think (= reflect),xus
+clics-doculect-15-745,karo1304-std,concepticon-1513,17.14,xus,think (= be of the opinion),xus
+clics-doculect-15-746,karo1304-std,concepticon-1890,17.15,fuhiš,believe,fuhis
+clics-doculect-15-747,karo1304-std,concepticon-1410,17.17,ʔá̄punma,know,?apunma
+clics-doculect-15-748,karo1304-std,concepticon-1521,17.18,ʔimúsaha,seem,?imusaha
+clics-doculect-15-749,karo1304-std,concepticon-1899,17.23,yunyú̄nha,"insane, crazy",yunyunha
+clics-doculect-15-750,karo1304-std,concepticon-504,17.24,ʔāpúnmīk,learn,?apunmik
+clics-doculect-15-751,karo1304-std,concepticon-709,17.25,ʔikšúpih,teach,?iksupih
+clics-doculect-15-752,karo1304-std,concepticon-1038,17.27,ʔikšúpíhān,teacher,?iksupihan
+clics-doculect-15-753,karo1304-std,concepticon-673,17.28,ʔikšupíhrām,school,?iksupihram
+clics-doculect-15-754,karo1304-std,concepticon-707,17.31,pikró̄k,remember,pikrok
+clics-doculect-15-755,karo1304-std,concepticon-1523,17.32,ʔipšinβárih,forget,?ipsinbarih
+clics-doculect-15-756,karo1304-std,concepticon-1841,17.44,θaxústay,suspect,thaxustay
+clics-doculect-15-757,karo1304-std,concepticon-686,17.46,yâ̄mahukač,easy,yamahukac
+clics-doculect-15-758,karo1304-std,concepticon-584,17.47,ikyá̄kām,difficult,ikyakam
+clics-doculect-15-759,karo1304-std,concepticon-1812,17.48,ikyāvárihβa,"try, attempt",ikyavarihba
+clics-doculect-15-760,karo1304-std,concepticon-1577,17.51,káru,and,karu
+clics-doculect-15-761,karo1304-std,concepticon-1157,17.52,ʔayuʔá̄č,because,?ayu?ac
+clics-doculect-15-762,karo1304-std,concepticon-1014,17.54,hum,or,hum
+clics-doculect-15-763,karo1304-std,concepticon-1268,17.55,há̄,"yes, affirmative",ha
+clics-doculect-15-764,karo1304-std,concepticon-1269,17.56,pû̄hara,"no, negative",puhara
+clics-doculect-15-765,karo1304-std,concepticon-1239,17.61,hú̄t,how?,hut
+clics-doculect-15-766,karo1304-std,concepticon-822,17.62,ʔifyá̄,how many?,?ifya
+clics-doculect-15-767,karo1304-std,concepticon-531,17.63,ʔifyā,how much?,?ifya
+clics-doculect-15-768,karo1304-std,concepticon-1236,17.64,fá̄t,what?,fat
+clics-doculect-15-769,karo1304-std,concepticon-1238,17.65,háriβari,when?,haribari
+clics-doculect-15-770,karo1304-std,concepticon-1237,17.66,hó̄y,where?,hoy
+clics-doculect-15-771,karo1304-std,concepticon-1235,17.68,ʔaká̄y,who?,?akay
+clics-doculect-15-772,karo1304-std,concepticon-1270,17.69,fá̄tkumáʔī,why?,fatkuma?i
+clics-doculect-15-773,karo1304-std,concepticon-1261,18.12,pákurih,sing,pakurih
+clics-doculect-15-774,karo1304-std,concepticon-715,18.13,ʔihyiβ,"shout, cry out",?ihyib
+clics-doculect-15-775,karo1304-std,concepticon-1025,18.17,ʔikfuy,whistle,?ikfuy
+clics-doculect-15-776,karo1304-std,concepticon-526,18.19,ʔikβú̄hβa,howl,?ikbuhba
+clics-doculect-15-777,karo1304-std,concepticon-1623,18.21,ʔúhyan,"speak, talk",?uhyan
+clics-doculect-15-778,karo1304-std,concepticon-1866,18.211,yāyá̄ha,"stutter, stammer",yayaha
+clics-doculect-15-779,karo1304-std,concepticon-1458,18.22,pīp,say,pip
+clics-doculect-15-780,karo1304-std,concepticon-1711,18.221,pikβah,tell story,pikbah
+clics-doculect-15-781,karo1304-std,concepticon-48,18.23,ʔastárīš,silent (be),?astaris
+clics-doculect-15-782,karo1304-std,concepticon-1307,18.24,hih,language,hih
+clics-doculect-15-783,karo1304-std,concepticon-1599,18.26,ʔuhyan,word,?uhyan
+clics-doculect-15-784,karo1304-std,concepticon-1405,18.28,ʔiθβuy,name,?ithbuy
+clics-doculect-15-785,karo1304-std,concepticon-1309,18.31,patánβiš,"ask (question, inquire)",patanbis
+clics-doculect-15-786,karo1304-std,concepticon-1275,18.32,ʔíhiβrik,answer,?ihibrik
+clics-doculect-15-787,karo1304-std,concepticon-1828,18.35,pátanβa,"ask, request",patanba
+clics-doculect-15-788,karo1304-std,concepticon-299,18.39,ʔasúβīš,"rebuke, scold",?asubis
+clics-doculect-15-789,karo1304-std,concepticon-180,18.42,ʔiθβuyâ̄naha,call (=name),?ithbuyanaha
+clics-doculect-15-790,karo1304-std,concepticon-101,18.45,pičakúβān,boast,picakuban
+clics-doculect-15-791,karo1304-std,concepticon-1672,18.51,ʔikxúrik,write,?ikxurik
+clics-doculect-15-792,karo1304-std,concepticon-724,18.52,ʔikxúrikʔimus,read,?ikxurik?imus
+clics-doculect-15-793,karo1304-std,concepticon-648,18.56,ʔikxúrik,paper,?ikxurik
+clics-doculect-15-794,karo1304-std,concepticon-794,18.57,ʔikxúrikar,pen,?ikxurikar
+clics-doculect-15-795,karo1304-std,concepticon-963,18.61,ʔikxúrik,book,?ikxurik
+clics-doculect-15-796,karo1304-std,concepticon-777,18.71,ʔikrēmyahβárār,flute,?ikremyahbarar
+clics-doculect-15-797,karo1304-std,concepticon-908,18.72,ʔimθanuβnó̄r,drum,?imthanubnor
+clics-doculect-15-798,karo1304-std,concepticon-2136,18.73,ʔikrēmyahβárār,"horn, trumpet",?ikremyahbarar
+clics-doculect-15-799,karo1304-std,concepticon-1300,19.11,ʔiθíβθānēn,country,?ithibthanen
+clics-doculect-15-800,karo1304-std,concepticon-1391,19.15,ʔarárīk,"city, town",?ararik
+clics-doculect-15-801,karo1304-std,concepticon-930,19.16,ʔarárīk,village,?ararik
+clics-doculect-15-802,karo1304-std,concepticon-1296,19.25,ʔiktīn,"staff, walking stick",?iktin
+clics-doculect-15-803,karo1304-std,concepticon-812,19.42,ʔihrūθ,slave,?ihruth
+clics-doculect-15-804,karo1304-std,concepticon-1635,19.46,fuhiš,obey,fuhis
+clics-doculect-15-805,karo1304-std,concepticon-1325,19.51,ʔafyīβ,"friend, companion",?afyib
+clics-doculect-15-806,karo1304-std,concepticon-1358,19.52,βá̄san,enemy,basan
+clics-doculect-15-807,karo1304-std,concepticon-791,19.55,ʔiθʔárān,stranger,?ith?aran
+clics-doculect-15-808,karo1304-std,concepticon-1897,19.58,ʔipšáraβrik,"help, aid",?ipsarabrik
+clics-doculect-15-809,karo1304-std,concepticon-1550,19.59,ʔiškáxišrihmaθ,"hinder, prevent",?iskaxisrihmath
+clics-doculect-15-810,karo1304-std,concepticon-1747,19.61,kú̄pha,custom,kupha
+clics-doculect-15-811,karo1304-std,concepticon-1831,19.65,ʔikmar,meet,?ikmar
+clics-doculect-15-812,karo1304-std,concepticon-1423,20.11,βaθiβ,fight (vb),bathib
+clics-doculect-15-813,karo1304-std,concepticon-579,20.13,ʔākram,"war, battle",?akram
+clics-doculect-15-814,karo1304-std,concepticon-994,20.24,xuskāmhar,bow,xuskamhar
+clics-doculect-15-815,karo1304-std,concepticon-977,20.25,kuníhar,arrow,kunihar
+clics-doculect-15-816,karo1304-std,concepticon-945,20.26,itká̄nβar,spear,itkanbar
+clics-doculect-15-817,karo1304-std,concepticon-1566,20.28,xuská̄mhar,"gun, cannon",xuskamhar
+clics-doculect-15-818,karo1304-std,concepticon-1061,20.31,pâ̄saha,armor (defensive),pasaha
+clics-doculect-15-819,karo1304-std,concepticon-782,20.42,čífič,defeat,cific
+clics-doculect-15-820,karo1304-std,concepticon-1074,20.52,taxβúkar,fishhook,taxbukar
+clics-doculect-15-821,karo1304-std,concepticon-19,20.53,ʔá̄n,fishing line,?an
+clics-doculect-15-822,karo1304-std,concepticon-388,20.54,ʔurípih,fishnet,?uripih
+clics-doculect-15-823,karo1304-std,concepticon-389,20.55,ʔikríhar,fish trap,?ikrihar
+clics-doculect-15-824,karo1304-std,concepticon-1435,20.61,ʔákunβa,hunt,?akunba
+clics-doculect-15-825,karo1304-std,concepticon-1172,20.62,kunih,shoot,kunih
+clics-doculect-15-826,karo1304-std,concepticon-161,20.63,ʔikfíripriβ,miss (target),?ikfiriprib
+clics-doculect-15-827,karo1304-std,concepticon-1075,20.64,tátapβa,trap (noun),tatapba
+clics-doculect-15-828,karo1304-std,concepticon-1170,20.65,tátapβa,trap (vb),tatapba
+clics-doculect-15-829,karo1304-std,concepticon-713,21.51,sı́tβa,steal,sitba
+clics-doculect-15-830,karo1304-std,concepticon-1160,21.52,sī́t,thief,sit

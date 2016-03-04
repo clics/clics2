@@ -1,0 +1,3876 @@
+@author: Anju Saxena
+@iso: tel
+@language: Telugu
+@source: Språkbanken
+@variety: std
+@size: 3869
+@classification: Dravidian,South-Central,Telugu
+1.1	world	ila
+1.1	world	kuwalayam
+1.1	world	jagam
+1.1	world	jagattu
+1.1	world	jagati
+1.21	earth, land	bhuumi
+1.21	earth, land	neela
+1.212	earth=ground, soil	iriNam
+1.212	earth=ground, soil	uppucawDu
+1.212	earth=ground, soil	ubbaneela
+1.212	earth=ground, soil	erracawuDu
+1.212	earth=ground, soil	garapaneela
+1.212	earth=ground, soil	cawkaneela
+1.212	earth=ground, soil	tuwwa
+1.212	earth=ground, soil	duwwa
+1.212	earth=ground, soil	dubba
+1.213	dust	awakaram
+1.213	dust	dummu
+1.213	dust	duwwa
+1.213	dust	duusaram
+1.213	dust	dhuuLi
+1.213	dust	duuLi
+1.213	dust	paamśuwu
+1.214	mud	aDusu
+1.214	mud	dammu
+1.214	mud	pankam
+1.214	mud	banda
+1.214	mud	burada
+1.214	mud	rompi
+1.215	sand	waaluka
+1.215	sand	isuka
+1.22	mountain, hill	koNDa
+1.22	mountain, hill	giri
+1.22	mountain, hill	nagam
+1.22	mountain, hill	parvatam
+1.222	cliff, precipice	cariya
+1.23	plain, field	maydaanam
+1.23	plain, field	samatalam
+1.24	valley	koona
+1.24	valley	cariya
+1.24	valley	taTam
+1.24	valley	looya
+1.24	valley	loowa
+1.25	island	diiwi
+1.25	island	dwiipam
+1.25	island	lanka
+1.27	shore	oDDu
+1.27	shore	kaTTa
+1.27	shore	kuulam
+1.27	shore	gaTTu
+1.27	shore	celiyalikaTTa
+1.27	shore	taTam
+1.27	shore	tiiram
+1.27	shore	dari
+1.28	cave	kuharam
+1.28	cave	gahwaram
+1.28	cave	guha
+1.28	cave	bilam
+1.28	cave	loNDa
+1.31	water	udakam
+1.31	water	niiru
+1.31	water	niillu
+1.32	sea	ambudhi
+1.32	sea	abdhi
+1.32	sea	jalaraaśi
+1.32	sea	niiradhi
+1.32	sea	samudram
+1.32	sea	kadali
+1.322	calm (of sea)	nistaranga
+1.324	foam	nuccu
+1.324	foam	pheenam
+1.324	foam	nuraga
+1.329	ocean	apaarapaaraawaaram
+1.329	ocean	jaladhi
+1.329	ocean	payoodhi
+1.329	ocean	mahaarNawam
+1.329	ocean	mahaasamudram
+1.329	ocean	waaraaśi
+1.33	lake	kolanu
+1.33	lake	saraswati
+1.33	lake	cheruvu
+1.34	gulf, bay	akhaatam
+1.343	headland, point	agram
+1.35	wave	ala
+1.35	wave	keraTam
+1.35	wave	tarangam
+1.35	wave	taraga
+1.35	wave	tera
+1.352	tide	pooTu
+1.352	tide	weelaa
+1.352	tide	ala
+1.353	lowtide	nimna
+1.353	lowtide	aaTu
+1.354	hightide	pooTu
+1.36	river, stream, brook	eeru
+1.36	river, stream, brook	nadi
+1.362	whirlpool	aawartam
+1.362	whirlpool	sujñaanam
+1.362	whirlpool	suDiguNDam
+1.37	spring, well	uurabaawi
+1.37	spring, well	baawi
+1.37	spring, well	nuyyi
+1.38	swamp	gummi
+1.39	waterfall	jalapaatam
+1.39	waterfall	jharam
+1.39	waterfall	jhari
+1.41	woods, forest	aDawi
+1.41	woods, forest	aTawi
+1.41	woods, forest	kaantaaram
+1.41	woods, forest	kaana[nam]
+1.41	woods, forest	gahana[m]
+1.43	wood	karra
+1.43	wood	kalapa
+1.43	wood	kaTTa
+1.44	stone, rock	upalam
+1.44	stone, rock	caTTu
+1.44	stone, rock	raayi
+1.44	stone, rock	banDa
+1.45	earthquake	bhuukampam
+1.51	sky	ambaram
+1.51	sky	aakasam
+1.51	sky	aakaaśam
+1.51	sky	upparam
+1.51	sky	gaganam
+1.51	sky	diwam
+1.51	sky	nabham
+1.52	sun	aruNuDu
+1.52	sun	arkam
+1.52	sun	arkuDu
+1.52	sun	suuryuDu
+1.53	moon	amṛtaamśuwu
+1.53	moon	indu
+1.53	moon	candamaama
+1.54	star	taara
+1.54	star	nakSatram
+1.54	star	rikka
+1.54	star	cukka
+1.55	lightning	taTittu
+1.55	lightning	piDugu
+1.55	lightning	merupu
+1.55	lightning	merapu
+1.55	lightning	śampa
+1.55	lightning	sawdaamini
+1.56	thunder	urumu
+1.57	lightning (as striking)	taTillata
+1.57	lightning (as striking)	meruputiiga
+1.57	lightning (as striking)	widyullata
+1.58	storm	tupaanu
+1.58	storm	tuphaanu
+1.58	storm	hoorugaali
+1.58	storm	oorugaali
+1.59	rainbow	indradhanassu
+1.59	rainbow	koraDu
+1.59	rainbow	hariwillu
+1.59	rainbow	koraDu
+1.61	light (noun)	welugu
+1.61	light (noun)	weluturn
+1.61	light (noun)	welturu: śoobha
+1.62	darkness	andhakaaram
+1.62	darkness	irulu
+1.62	darkness	tamassu
+1.62	darkness	chiikaTi
+1.63	shade, shadow	tamassu
+1.63	shade, shadow	niiDapaTTu
+1.63	shade, shadow	niiDa
+1.64	dew	tuSaaram
+1.64	dew	mancu
+1.64	dew	himam
+1.71	air	pawanam
+1.71	air	waatam
+1.71	air	śwasanam
+1.71	air	gaali
+1.72	wind	anilam
+1.72	wind	gaaDpu
+1.72	wind	waayuwu
+1.73	cloud	jaladharam
+1.73	cloud	jiimuutam
+1.73	cloud	tooyadam
+1.73	cloud	dhaaraadharam
+1.73	cloud	niiradam
+1.73	cloud	meegham
+1.74	fog	pogamancu
+1.75	rain (noun)	cinuku
+1.75	rain (noun)	vaana
+1.75	rain (noun)	varsham
+1.76	snow (noun)	niihaaram
+1.76	snow (noun)	mancu
+1.77	ice	mancu
+1.77	ice	himam
+1.78	weather	waataawaraNam
+1.78	weather	waayusthiti
+1.81	fire	angaaram
+1.81	fire	aggi
+1.81	fire	agni
+1.81	fire	agnikuNDam
+1.81	fire	agnihootram
+1.81	fire	analam
+1.81	fire	nippu
+1.82	flame (noun)	agnijwaala
+1.82	flame (noun)	kiila
+1.82	flame (noun)	ciccu
+1.82	flame (noun)	jwaala
+1.82	flame (noun)	maNTa
+1.83	smoke (noun)	dhuumam
+1.83	smoke (noun)	poga
+1.84	ashes	buuDida
+1.841	embers	kappina nippu
+1.851	burn (vb trans)	kaalcu
+1.851	burn (vb trans)	manDu
+1.852	burn (vb intrans)	jwalincu
+1.86	light, kindle, ignite	aNTapeTTu
+1.86	light, kindle, ignite	aNTincu
+1.86	light, kindle, ignite	kaalcu
+1.861	extinguish	aarcu
+1.861	extinguish	aarpu
+1.861	extinguish	callaarcu
+1.87	match (noun)	aggipulla
+1.87	match (noun)	nippupulla
+1.87	match (noun)	nippulla
+1.88	firewood	kaTTe
+1.88	firewood	cituku
+1.88	firewood	pulla
+1.89	charcoal	angaaram
+1.89	charcoal	kaTTeboggu
+1.89	charcoal	boggu
+2.1	person, human being	naramaanawuDu
+2.21	man (vs. woman)	maniSi
+2.22	woman	angana
+2.22	woman	atiwa
+2.22	woman	aliweeNi
+2.22	woman	aaDadi
+2.22	woman	tiigabooDi
+2.22	woman	togakaNTi
+2.22	woman	dayta
+2.22	woman	nawala
+2.22	woman	naari
+2.22	woman	polati
+2.22	woman	pramada
+2.23	male	gaNDu
+2.24	female	peNTi
+2.25	boy	abbaayi
+2.25	boy	kurra
+2.25	boy	kurrawaaDu
+2.25	boy	kurraaDu
+2.25	boy	baaluDu
+2.251	young man (adolescent)	kiśooruDu
+2.251	young man (adolescent)	taruNuDu
+2.251	young man (adolescent)	nawayuwakuDu
+2.251	young man (adolescent)	yawwanuDu
+2.251	young man (adolescent)	yuwakuDu
+2.26	girl	aaDaboTTe
+2.26	girl	kiśoori
+2.26	girl	kurradi
+2.26	girl	ammaayi
+2.261	young woman (adolescent)	gubbeta
+2.261	young woman (adolescent)	gubbalaaDi
+2.261	young woman (adolescent)	jawaraalu
+2.261	young woman (adolescent)	taruNi
+2.261	young woman (adolescent)	nawayuwati
+2.261	young woman (adolescent)	madhya
+2.27	child	kasukaaya
+2.28	infant, baby	bucci paapa
+2.28	infant, baby	bujji paapa
+2.31	husband	kaantuDu
+2.31	husband	jiiwiteeśuDu
+2.31	husband	dhawuDu
+2.31	husband	naathuDu
+2.31	husband	pati
+2.31	husband	bharta
+2.32	wife	aalu
+2.32	wife	uuDha
+2.32	wife	kaLatram
+2.32	wife	jaani
+2.32	wife	bhaarya
+2.33	marry	peLL aaDu
+2.33	marry	karagrahaNam ceeyu
+2.33	marry	ceTTapaTTu
+2.33	marry	pariNayam aaDu
+2.33	marry	pariNayam ceesukonu
+2.33	marry	peLLaaDu
+2.33	marry	peLLi ceesukonu
+2.33	marry	peLLaaDu
+2.33	marry	peLLi ceesukonu
+2.34	marriage, wedding	peLLi
+2.341	divorce	wiDaakulu
+2.35	father	abba
+2.35	father	ayya
+2.35	father	janakuDu
+2.35	father	taNDri
+2.35	father	pita
+2.36	mother	amma
+2.37	parents	tallidaNDrulu
+2.37	parents	talidaNDrulu
+2.41	son	aatmajuDu
+2.41	son	kumaaruDu
+2.41	son	koDuku
+2.42	daughter	ammaayi
+2.42	daughter	aatmaja: kumaari
+2.42	daughter	kumaarte
+2.42	daughter	kuuturu
+2.42	daughter	cinnaari
+2.42	daughter	tanaya
+2.42	daughter	duhita
+2.42	daughter	putri[ka]
+2.444	older brother	agrajuDu
+2.444	older brother	agrajuDu
+2.445	younger brother	tammuDu
+2.45	sister	bhagini
+2.454	older sister	akka
+2.455	younger sister	cellelu
+2.455	younger sister	celli
+2.455	younger sister	cellaayi
+2.455	younger sister	celle
+2.458	twins	kavalalu
+2.46	grandfather	pitaamahuDu
+2.46	grandfather	maataamahuDu
+2.46	grandfather	taata
+2.461	old man	mudusali
+2.461	old man	musalayya
+2.461	old man	wṛddhuDu
+2.461	old man	musali waaDu
+2.47	grandmother	ammamma
+2.47	grandmother	awwa
+2.47	grandmother	naayanamma
+2.47	grandmother	baamma
+2.47	grandmother	maamm
+2.47	grandmother	maataamahi
+2.471	old woman	awwa
+2.471	old woman	muttawwa
+2.471	old woman	musalamma
+2.48	grandson	dawhitruDu
+2.48	grandson	pawtruDu
+2.48	grandson	manumaDu
+2.48	grandson	manamaDu
+2.49	granddaughter	dawhitri
+2.49	granddaughter	pawtri
+2.49	granddaughter	manumaraalu
+2.49	granddaughter	manamaraalu
+2.511	mother's brother	maama
+2.511	mother's brother	maawa
+2.511	mother's brother	meenamaama
+2.512	father's brother	kakka
+2.512	father's brother	daaddayya
+2.512	father's brother	dadda
+2.512	father's brother	doDDayya
+2.512	father's brother	pinataNDri
+2.512	father's brother	pettaNDri
+2.512	father's brother	peddayya
+2.52	aunt	pinatalli
+2.52	aunt	meenatta
+2.521	mother's sister	peddamma
+2.521	mother's sister	doDDamma
+2.521	mother's sister	pinni
+2.522	father's sister	atta
+2.53	nephew	meenalluDu
+2.54	niece	meenakooDalu
+2.56	ancestors	wamśapuurwikuDu
+2.57	descendants	awrasaputruDu
+2.57	descendants	wamśasthuDu
+2.63	son-in-law (of a man)	alluDu
+2.63	son-in-law (of a man)	jaamaata
+2.631	son-in-law (of a woman)	alluDu
+2.631	son-in-law (of a woman)	jaamaata
+2.64	daughter-in-law (of a man)	kooDalu
+2.64	daughter-in-law (of a man)	wadhuuTi
+2.641	daughter-in-law (of a woman)	kooDalu
+2.641	daughter-in-law (of a woman)	wadhuuTi
+2.72	stepmother	pinatalli
+2.72	stepmother	maaru[Ti]talli
+2.72	stepmother	sawatitalli
+2.72	stepmother	sawititalli
+2.75	orphan	anaatha
+2.76	widow	kunka
+2.76	widow	tempi
+2.76	widow	muNDa
+2.76	widow	booDemma
+2.76	widow	moopi
+2.76	widow	witantuwu
+2.76	widow	widhawa
+2.76	widow	wedhawa
+2.77	widower	widuruDu
+2.81	relatives, kinsmen	cuTTapakkaalu
+2.82	family	iNTillipaadi
+2.91	I	neenu
+2.92	you (singular)	niiwu
+2.92	you (singular)	nuwwu
+2.92	you (singular)	miiru
+2.941	we (inclusive)	manam
+2.942	we (exclusive)	meem[u]
+2.95	you (plural)	miiru
+2.96	they	waaru
+2.96	they	wiiru
+2.96	they	wiiLLu
+3.11	animal	goDDu
+3.11	animal	jantuwu
+3.11	animal	tiryakku
+3.11	animal	duSTamṛgam .
+3.12	male (adj)	gaNDu
+3.13	female (adj)	peNTi
+3.15	livestock	pasugaNam
+3.16	pasture	kance
+3.16	pasture	paccika
+3.16	pasture	biiDu
+3.16	pasture	meeta
+3.18	herdsman	gollawaaDu
+3.18	herdsman	goopaal[ak]uDu
+3.19	stable, stall	laayam
+3.19	stable, stall	saahiNam
+3.2	cattle (bovine)	sommulu
+3.21	bull	aambootu
+3.21	bull	aabootu
+3.21	bull	ṛSabham
+3.21	bull	gooNi
+3.21	bull	wṛSabham
+3.22	ox	eddu
+3.23	cow	goowu
+3.23	cow	paśuwu 2:
+3.24	calf	tuwwaayi
+3.24	calf	duDDe
+3.24	calf	duuDa
+3.25	sheep	gorre
+3.26	ram	uraNam
+3.26	ram	gorrepootu
+3.26	ram	gorrepoTTeelu
+3.26	ram	poTTeelu
+3.26	ram	poTeelu
+3.26	ram	meeSam
+3.29	lamb	gorrepilla
+3.32	boar	waraaham
+3.32	boar	waalumekam
+3.35	pig	pandi
+3.36	goat	meeka
+3.37	he-goat	eeTa
+3.37	he-goat	meekapootu
+3.38	kid	meekapilla
+3.41	horse (equine)	aśwam
+3.41	horse (equine)	keesari
+3.41	horse (equine)	gurram
+3.41	horse (equine)	ghooTakam
+3.41	horse (equine)	pancakalyaaNi
+3.41	horse (equine)	pancakaLyaaNi
+3.41	horse (equine)	waaji
+3.42	stallion	magajaati aśwam
+3.44	mare	gooDiga
+3.45	foal, colt	gurrappilla
+3.46	ass, donkey	kharam
+3.46	ass, donkey	gardabham
+3.46	ass, donkey	gaardabham
+3.46	ass, donkey	gaaDida
+3.46	ass, donkey	gaaDide
+3.46	ass, donkey	lambakarNam
+3.47	mule	kancaragaaDida
+3.5	fowl	kooDi
+3.52	cock, rooster	kooDipunju
+3.52	cock, rooster	punju
+3.54	hen	kooDipeTTa
+3.54	hen	peTTa
+3.55	chicken	kooDipilla
+3.57	duck	baatu
+3.581	bird	kiiram
+3.581	bird	khagam
+3.581	bird	kheecara[m]
+3.581	bird	pakSi
+3.581	bird	patangam
+3.581	bird	piTTa
+3.583	heron	bakam
+3.584	eagle	poolaDu
+3.584	eagle	gadda
+3.585	hawk	śyeenam
+3.586	vulture	gṛdhram
+3.586	vulture	bandu
+3.586	vulture	raabandu
+3.591	bat	gabbilam
+3.592	parrot	kiiram
+3.592	parrot	cilaka
+3.592	parrot	ciluka
+3.592	parrot	śatapatra
+3.592	parrot	śukam
+3.593	crow	kaaki
+3.593	crow	waayasam
+3.594	dove	kapootam
+3.594	dove	guwwa
+3.594	dove	paawuram
+3.594	dove	paawuraayi
+3.596	owl	uluukam
+3.596	owl	guDLa guuba
+3.596	owl	guuba
+3.596	owl	ghuukam
+3.596	owl	diwaandham
+3.596	owl	peddapulugu
+3.61	dog	kukka
+3.61	dog	graamasimham
+3.61	dog	beepi
+3.614	rabbit	--
+3.62	cat	pilli
+3.62	cat	biDaalam
+3.62	cat	maarjaalam
+3.63	mouse, rat	ciTTeluka
+3.63	mouse, rat	cuNDeluka // eluka
+3.63	mouse, rat	elaka
+3.63	mouse, rat	khanakam  //muuSikam
+3.65	fish	ceepa
+3.652	fin (dorsal)	ceeparekka
+3.653	fishscale	polusu
+3.654	gill	moppa
+3.655	shell	gawwa
+3.661	shark	sora
+3.661	shark	soraceepa
+3.663	whale	timingalam
+3.665	freshwater eel	waalugapaamu
+3.71	wolf	tooDeelu
+3.71	wolf	wṛkam
+3.72	lion	kaNThiirawam
+3.72	lion	keesari
+3.72	lion	mṛgapati
+3.72	lion	mṛgaraaju
+3.72	lion	simham
+3.73	bear	ṛkSam
+3.73	bear	elugu
+3.74	fox	guNTanakka
+3.75	deer	irri
+3.75	deer	kurangam
+3.75	deer	mṛgam
+3.76	monkey	kapi
+3.76	monkey	kooti
+3.76	monkey	tippatimmari
+3.76	monkey	markaTam
+3.76	monkey	muccu
+3.76	monkey	laanguuli
+3.76	monkey	waanaram
+3.76	monkey	waanaruDu
+3.76	monkey	śaakhaamṛgam
+3.77	elephant	eenugu
+3.77	elephant	kari
+3.77	elephant	kunjaram
+3.77	elephant	gajam
+3.78	camel	uSTram
+3.78	camel	oNTe
+3.78	camel	loTipiTa
+3.78	camel	loTipiTTa
+3.81	insect	kiiTakam
+3.81	insect	krimi
+3.81	insect	purugu
+3.811	louse	iipi
+3.811	louse	iiru
+3.811	louse	peenu
+3.812	nit (louse egg)	iipi
+3.812	nit (louse egg)	iiru
+3.812	nit (louse egg)	peenuguDDu
+3.812	nit (louse egg)	peenupilla
+3.813	flea	matkuNam
+3.814	centipede	jerri
+3.814	centipede	jerripootu
+3.814	centipede	rookaTibaNDa
+3.814	centipede	śatapadi
+3.814	centipede	śatapaadajiiwi
+3.815	scorpion	teelu
+3.815	scorpion	wṛścikam
+3.816	cockroach	bariNe purugu
+3.816	cockroach	boddinka
+3.817	ant	ciima
+3.817	ant	pipiili
+3.817	ant	pipiila
+3.817	ant	pipiilikam
+3.817	ant	luuta
+3.818	spider	iigapuli
+3.818	spider	luuta
+3.818	spider	saaliinaa
+3.818	spider	saalepurugu
+3.819	spider web	saaleguuDu
+3.819	spider web	saalepaTTu
+3.82	bee	tummeda
+3.82	bee	teeneTiiga
+3.82	bee	madhukaram
+3.82	bee	madhupam
+3.821	beeswax	maynam
+3.83	fly	iiga
+3.83	fly	makSikam
+3.831	sandfly (midge), gnat	maśakam
+3.832	mosquito	dooma
+3.84	worm	krimi
+3.85	snake	kaakoodaram
+3.85	snake	ciluwa
+3.85	snake	naagam
+3.85	snake	pannagam
+3.85	snake	paamu
+3.91	firefly	miNuguru purugu
+3.92	butterfly	siitaakookaciluka
+3.93	grasshopper	kiicuraayi
+3.93	grasshopper	gollabhaama
+3.93	grasshopper	miData
+3.93	grasshopper	śalabham
+3.94	snail	natta
+3.94	snail	bankapurugu
+3.95	frog	kappa
+3.95	frog	bheekam
+3.95	frog	maNDuukam
+3.96	lizard	balli
+3.97	crocodile, alligator	makara[m]
+3.97	crocodile, alligator	mosali
+3.98	turtle	kuurmam
+3.98	turtle	taabeelu
+3.98	turtle	taambeelu
+4.11	body	angam
+4.11	body	aatma
+4.11	body	oLLu
+4.11	body	kaLeebaram
+4.11	body	śariiram
+4.12	skin, hide	taaTa
+4.12	skin, hide	charmam
+4.13	flesh	kaNDa
+4.13	flesh	ciyya
+4.13	flesh	maamsam
+4.14	hair (head)	kuntalam
+4.14	hair (head)	kurulu
+4.14	hair (head)	keeśam
+4.14	hair (head)	juTTu
+4.142	beard	gaDDam
+4.142	beard	geDDam
+4.142	beard	daaDi
+4.144	body hair	boccu
+4.144	body hair	roomam
+4.145	pubic hair	śaSpam
+4.146	dandruff	cuNDu
+4.146	dandruff	cuNDru
+4.15	blood	netturu
+4.151	vein, artery	raktanaaLam
+4.16	bone	asthi
+4.16	bone	asthika
+4.16	bone	bomike
+4.16	bone	śalyam
+4.162	rib	pakkemuka
+4.162	rib	parsuka
+4.17	horn	kommu
+4.17	horn	wiSaaNam
+4.18	tail	tooka
+4.18	tail	puccham
+4.18	tail	laanguulam
+4.18	tail	waalam
+4.19	back	wiipu
+4.19	back	wennu
+4.191	spine	wennupuusa
+4.191	spine	wennemuka
+4.191	spine	wennupaTTe
+4.191	spine	wennu
+4.2	head	uttamaangam
+4.2	head	burra
+4.2	head	masta[ka]m
+4.2	head	tala
+4.201	side of head, temple	kaNata
+4.202	skull	kapaalam
+4.202	skull	karparam
+4.202	skull	pucce
+4.202	skull	puNiki
+4.202	skull	purre
+4.202	skull	burra
+4.202	skull	masta[ka]m
+4.203	brain	mastiSkam
+4.203	brain	medaDu
+4.204	face	Aasyam
+4.204	face	mukham
+4.204	face	mogamu
+4.204	face	moomu
+4.205	forehead	nuduru
+4.205	forehead	nosalu
+4.205	forehead	noSTa
+4.205	forehead	phaalam
+4.205	forehead	phaalabhaagam
+4.207	jaw	dawaDa
+4.207	jaw	dawaDa
+4.207	jaw	hanuwu
+4.208	cheek	kapoolam
+4.208	cheek	cempa
+4.208	cheek	cekkili
+4.208	cheek	dawaDa
+4.208	cheek	dawaDa
+4.208	cheek	bugga
+4.209	chin	gaDDam
+4.209	chin	geDDam
+4.209	chin	cubukam
+4.209	chin	cibukam
+4.21	eye	akSi
+4.21	eye	kalikam
+4.21	eye	kannu
+4.212	eyebrow	kanuboma
+4.212	eyebrow	kanubomma
+4.212	eyebrow	bomma
+4.213	eyelid	kanureppa
+4.213	eyelid	reppa
+4.214	eyelash	pakSmam
+4.215	blink	ciikirincu
+4.215	blink	pulukupuluku cuucu
+4.215	blink	pulukupuluku cuucu
+4.22	ear	karNam
+4.22	ear	cewi
+4.221	earlobe	tamme
+4.222	earwax	gubili
+4.222	earwax	gulimi
+4.23	nose	naasika
+4.23	nose	mukku
+4.231	nostril	mukkurandhram
+4.232	mucus (nasal)	ciimiDi
+4.232	mucus (nasal)	ciimuDu
+4.232	mucus (nasal)	simhaaNam
+4.24	mouth	aasyam
+4.24	mouth	nooru
+4.24	mouth	muuti
+4.241	beak	mukku
+4.25	lip	adharam
+4.25	lip	awDu
+4.25	lip	ooSTham
+4.25	lip	pedawi
+4.26	tongue	toNDam
+4.26	tongue	naalika
+4.26	tongue	naaluka
+4.27	tooth	dantam
+4.27	tooth	pannu
+4.27	tooth	palu
+4.271	gums	ciguLLu
+4.28	neck	gaLam
+4.28	neck	griiwam
+4.28	neck	meDa
+4.281	nape of neck	mucciliguNTa
+4.29	throat	kaNTham
+4.29	throat	kutika
+4.29	throat	kuttuka
+4.29	throat	gaLam
+4.29	throat	gontu[ka]
+4.29	throat	griiwam
+4.3	shoulder	bhujam
+4.3	shoulder	bhujakiirti
+4.3	shoulder	bhujaskandham
+4.302	collarbone	jatruwu
+4.31	arm	karam
+4.31	arm	ceyyi
+4.31	arm	ceeyi
+4.31	arm	baahuwu
+4.312	armpit	canka
+4.312	armpit	cakkili
+4.312	armpit	baahumuulam
+4.32	elbow	muDuku
+4.32	elbow	muNuku
+4.32	elbow	muDusu
+4.32	elbow	mooceyyi
+4.321	wrist	maNikaTTu
+4.33	hand	karam
+4.33	hand	ceyyi
+4.33	hand	ceeyi
+4.33	hand	baahuwu
+4.33	hand	hastam
+4.331	palm of hand	araceeyi
+4.331	palm of hand	ariceeyi
+4.331	palm of hand	karatalam
+4.34	finger	anguLi
+4.34	finger	ceetiweelu
+4.342	thumb	anguSTam
+4.342	thumb	boTanaweelu
+4.344	fingernail	gooru
+4.344	fingernail	nakham
+4.345	claw	gooru
+4.345	claw	nakham
+4.35	leg	kaalu
+4.351	thigh	utsangam
+4.351	thigh	uuruwu
+4.351	thigh	toNTi
+4.351	thigh	pikka
+4.352	calf of leg	jangha
+4.352	calf of leg	pikka
+4.36	knee	jaanuwu
+4.36	knee	muDuku
+4.36	knee	muNuku
+4.36	knee	muDusu
+4.36	knee	mookaalu
+4.37	foot	aDugu
+4.37	foot	kaalu
+4.371	ankle	gulpham
+4.371	ankle	gulbham
+4.371	ankle	ciilamaNDa
+4.371	ankle	maNDa
+4.371	ankle	siilamaNDa
+4.372	heel	maDama
+4.374	footprint	anja
+4.374	footprint	aDugujaaDa
+4.38	toe	anguLi
+4.38	toe	anguLi
+4.38	toe	mungaalu
+4.392	wing	pakSam
+4.392	wing	pakSmam
+4.392	wing	rekka
+4.393	feather	iika
+4.393	feather	parNam
+4.4	chest	uram
+4.4	chest	urassu
+4.4	chest	edururommu
+4.4	chest	guNDe
+4.4	chest	chaatii
+4.4	chest	rommu
+4.4	chest	wakSasthalam
+4.41	breast (of woman)	uroojam
+4.41	breast (of woman)	kucam
+4.41	breast (of woman)	canukaTTu
+4.41	breast (of woman)	cannu
+4.41	breast (of woman)	baayi
+4.412	nipple, teat	cannu
+4.412	nipple, teat	cucukam
+4.412	nipple, teat	cuucukam
+4.412	nipple, teat	stanam
+4.42	udder	uudham
+4.42	udder	uudhassu
+4.43	navel	pokkili
+4.43	navel	boDDu
+4.44	heart	antaḥkaraNa[m]
+4.44	heart	antarangam
+4.44	heart	antaraantaraalu
+4.44	heart	antassu
+4.44	heart	aantaryam
+4.44	heart	ullam
+4.441	lung	uupirititti
+4.441	lung	puppusam
+4.441	lung	śwaasakoośam
+4.45	liver	kaarijam
+4.45	liver	kaaleeyam
+4.451	kidney	muutrapiNDam
+4.452	spleen	gulmam
+4.452	spleen	pliiham
+4.46	stomach	annakoośam
+4.46	stomach	aamaaśayam
+4.46	stomach	udaram
+4.46	stomach	kaDupu
+4.46	stomach	kukSi
+4.46	stomach	garbham
+4.46	stomach	jiirNakoośam
+4.46	stomach	poTTa
+4.461	intestines, guts	p[r]eegu
+4.462	waist	naDum
+4.462	waist	mola
+4.463	hip	toNTi1
+4.463	hip	tuNTi
+4.464	buttocks	pirra
+4.47	womb	kaDupu
+4.47	womb	kaalagarbham
+4.47	womb	garbham
+4.47	womb	jaTharam
+4.47	womb	yooni
+4.49	testicle	aNDakoośam
+4.49	testicle	picca
+4.49	testicle	piccakaaya
+4.49	testicle	biijam
+4.49	testicle	wṛSaNam
+4.49	testicle	śukraaśayam
+4.492	penis	culla
+4.492	penis	culli
+4.492	penis	bulla[kaaya]
+4.492	penis	bullapaNDu
+4.492	penis	śiśinam
+4.51	breathe, breath	uudu
+4.51	breathe, breath	uupiritiiyu
+4.51	breathe, breath	gukkatippukonu
+4.51	breathe, breath	dammukoTTu
+4.51	breathe, breath	dammupaTTu
+4.51	breathe, breath	dammupiilcu
+4.51	breathe, breath	dammulaagu
+4.51	breathe, breath	niśwasincu
+4.51	breathe, breath	piilcu
+4.52	yawn, gape	aawalincu
+4.52	yawn, gape	aawulincu
+4.52	yawn, gape	jṛmbhincu
+4.53	cough	daggu
+4.54	sneeze	tummu
+4.56	spit	umiyu
+4.56	spit	ummi weeyu
+4.56	spit	ummeeyu
+4.56	spit	uuyu
+4.57	vomit	udgaarincu
+4.57	vomit	kakkincu
+4.57	vomit	kakku
+4.57	vomit	Dooku
+4.57	vomit	waanti ceesukonu
+4.57	vomit	weligrakku
+4.57	vomit	weLLagrakku
+4.58	bite	karacu
+4.58	bite	karucu
+4.58	bite	kaaTu weeyu
+4.58	bite	koruku
+4.59	lick	naaku
+4.591	dribble	congakaarcu
+4.61	sleep	Kanumuuyu
+4.61	sleep	paDukonu
+4.612	snore	gurakapeTTu
+4.612	snore	gurrupeTTu
+4.612	snore	gurru peTTu
+4.62	dream	kala[lu] kanu
+4.62	dream	kalagaacu
+4.63	wake up	nidra leecu
+4.63	wake up	meelukonu
+4.63	wake up	meelkonu
+4.63	wake up	leepu
+4.64	break wind	pittu
+4.66	defecate	--
+4.67	have sexual intercourse	dengu
+4.67	have sexual intercourse	ramincu
+4.67	have sexual intercourse	ramiyincu
+4.68	shiver	adaru
+4.68	shiver	aduru
+4.68	shiver	udaru
+4.68	shiver	gaDagaDalaaDu
+4.68	shiver	gijagijalaaDu
+4.68	shiver	jaladarincu
+4.68	shiver	tuLLipaDu
+4.68	shiver	waDaku
+4.68	shiver	waNaku
+4.68	shiver	waNuku
+4.69	bathe	jalakamaaDu
+4.69	bathe	jalakaalaaDu
+4.69	bathe	snaanam ceeyu
+4.71	beget (of father)	kanu
+4.71	beget (of father)	paDayu
+4.72	born (to be)	awatarincu
+4.72	born (to be)	awataaram ettu
+4.72	born (to be)	udbhawincu
+4.72	born (to be)	janincu
+4.72	born (to be)	janmam ettu
+4.73	pregnant	garbhavati
+4.732	conceive	garbham dharincu
+4.732	conceive	garbhamtoo uNDu
+4.74	live, living, life	uNDu
+4.74	live, living, life	masalu
+4.75	die, dead	antarincu
+4.75	die, dead	aNagipoowu
+4.75	die, dead	awataaram caalincu
+4.75	die, dead	astamincu
+4.75	die, dead	ukkipoowu
+4.75	die, dead	kaDateeru
+4.75	die, dead	kanumuuyu
+4.75	die, dead	kaalam ceeyu
+4.75	die, dead	kaaladharmam ceeyu
+4.75	die, dead	kaaladharmam cendu
+4.75	die, dead	gatincu
+4.75	die, dead	giTTu
+4.76	kill	antam ceeyu
+4.76	kill	antam ondincu
+4.76	kill	kuulcu
+4.76	kill	campu
+4.76	kill	tunumu
+4.76	kill	tunmu
+4.76	kill	tegaTaarcu
+4.76	kill	nugguceeyu
+4.76	kill	parimaarcu
+4.76	kill	balipeTTu
+4.76	kill	maTTu peTTu
+4.76	kill	ruupumaapu
+4.76	kill	wadhincu
+4.76	kill	samharincu
+4.77	corpse	kaTTe
+4.77	corpse	kaLeebaram
+4.77	corpse	piinuga
+4.77	corpse	piinugu
+4.77	corpse	mṛtadeeham
+4.77	corpse	śawam
+4.78	bury (the dead)	nikSeepincu
+4.78	bury (the dead)	paatu
+4.78	bury (the dead)	puuDcu
+4.79	grave, tomb	goyyi
+4.79	grave, tomb	gooyi
+4.79	grave, tomb	bonda
+4.79	grave, tomb	samaadhi
+4.81	strong, mighty, powerful	gaTTi
+4.81	strong, mighty, powerful	gaaDha
+4.81	strong, mighty, powerful	gaaDhya
+4.81	strong, mighty, powerful	ghaaTu
+4.81	strong, mighty, powerful	cikka
+4.81	strong, mighty, powerful	cikkaTi
+4.81	strong, mighty, powerful	cikkani
+4.82	weak	arthahiina
+4.82	weak	arbhakam
+4.82	weak	asanaaTu
+4.82	weak	cappa
+4.82	weak	durbalam
+4.82	weak	nirwiirya
+4.82	weak	nissattuwa
+4.83	well, health	aaroogyawanta
+4.83	well, health	pikkalaaNTi
+4.83	well, health	sasi
+4.84	sick, sickness	jabbu
+4.841	fever	kaaka
+4.841	fever	jwaram
+4.842	goiter	gaNDamaala
+4.842	goiter	puTTalamma
+4.843	cold (catarrh)	jalubu
+4.85	wound, sore	udghaatam
+4.85	wound, sore	kSatam
+4.85	wound, sore	gaNTu
+4.85	wound, sore	gaNTu
+4.85	wound, sore	gaayam
+4.85	wound, sore	gaayaparacu
+4.85	wound, sore	tiita
+4.852	bruise	kamuku debba
+4.853	swelling	ubuku
+4.853	swelling	ubbaram
+4.853	swelling	ubbu
+4.853	swelling	ubbettu
+4.853	swelling	uuda
+4.853	swelling	uuduDu
+4.853	swelling	kadum
+4.853	swelling	gulla
+4.853	swelling	poTamarimpu
+4.853	swelling	buDipa
+4.853	swelling	buDipe
+4.853	swelling	boDipe
+4.853	swelling	boppi
+4.853	swelling	waapu
+4.853	swelling	śoopha
+4.854	itch	kaNDuuti
+4.854	itch	ciDum
+4.854	itch	jila
+4.854	itch	nawa
+4.855	blister	pokku
+4.855	blister	bobba
+4.856	boil (noun)	kurupu
+4.856	boil (noun)	gaDDa
+4.856	boil (noun)	geDDa
+4.857	pus	ciimu
+4.857	pus	rasi[ka]
+4.858	scar	macca
+4.86	cure, heal	niwaaraNi
+4.86	cure, heal	maanpu
+4.86	cure, heal	swasthaparacu
+4.87	physician	waydyuDu
+4.88	medicine, drug	awSadham
+4.88	medicine, drug	mandu
+4.89	poison	garaLam
+4.89	poison	naabhi
+4.89	poison	paaSaaNam
+4.89	poison	wiSam
+4.91	tired, weary	Diilaa
+4.91	tired, weary	alisi
+4.912	rest	naDum waalcu
+4.912	rest	naDDi waalcu
+4.912	rest	paalumaalu
+4.92	lazy	jaDDu
+4.92	lazy	baddakam
+4.93	bald	baTTa
+4.93	bald	muNDa[na]m
+4.94	lame	kuNTi
+4.94	lame	coTTa
+4.94	lame	soTTa
+4.94	lame	moNDi
+4.94	lame	soTTa
+4.95	deaf	cewiTi
+4.95	deaf	badhira
+4.96	mute	muuga
+4.97	blind	andha[m]
+4.97	blind	andhawiśwaasam
+4.97	blind	guDDi
+4.98	intoxicated	unmatta[m]
+4.98	intoxicated	taagi
+4.99	naked, bare	daDDu
+4.99	naked, bare	disa
+4.99	naked, bare	disamola
+4.99	naked, bare	nagna
+4.99	naked, bare	moNDimola
+5.11	eat	katuku
+5.11	eat	tinu
+5.12	food	p[r]oogu
+5.12	food	bhukti
+5.12	food	bhoojanam
+5.12	food	kuuDu
+5.121	cooked	Pakwa
+5.121	cooked	vanDina
+5.122	raw	apakwa
+5.122	raw	kaccaa
+5.122	raw	pacci
+5.123	ripe	aaramuggina
+5.123	ripe	muggina
+5.123	ripe	pakwa
+5.124	green, unripe	apakwa
+5.124	green, unripe	aparipakwam
+5.124	green, unripe	kaccaa
+5.124	green, unripe	pacci
+5.125	rotten	kuccita
+5.125	rotten	kutsita
+5.125	rotten	puppi
+5.125	rotten	pippi
+5.125	rotten	murugu
+5.125	rotten	kuLLina
+5.13	drink	aaragincu
+5.13	drink	taagu
+5.14	hunger	aakalikonu
+5.14	hunger	aakonu
+5.14	hunger	nakanakalaaDu
+5.14	hunger	soTasoTalaadu
+5.141	famine	karuwu
+5.141	famine	kaaTakam
+5.141	famine	kSaamam
+5.141	famine	durbhikSam
+5.15	thirst	dappika konu
+5.16	suck	cibuku
+5.16	suck	ciiku
+5.18	chew	kasakasa namalu
+5.18	chew	namalu
+5.18	chew	namulu
+5.181	swallow	kabaLincu
+5.181	swallow	digamingu
+5.181	swallow	mi m[r]ingu
+5.19	choke	ukkiribikkiri avvu
+5.21	cook	waNDu
+5.22	boil (vb)	uDuku
+5.22	boil (vb)	uDakapeTTu
+5.22	boil (vb)	uDukulekkincu
+5.22	boil (vb)	uDukulettincu
+5.22	boil (vb)	kurupu
+5.23	roast, fry	kaalcu
+5.23	roast, fry	bharjincu
+5.23	roast, fry	vEpu
+5.26	pot, cooking vessel	kalaśam
+5.26	pot, cooking vessel	kuNDii
+5.26	pot, cooking vessel	kunDa
+5.28	pan	penam
+5.28	pan	buurlamuukuDu
+5.31	dish	kancam
+5.31	dish	taTTi
+5.31	dish	tabuku
+5.31	dish	paLLem
+5.32	plate	kancam
+5.32	plate	taTTa
+5.32	plate	taTTi
+5.32	plate	tabuku
+5.32	plate	wistara
+5.33	bowl	kuNDii
+5.33	bowl	ginne
+5.33	bowl	taTTi
+5.33	bowl	puNiki
+5.34	pitcher, jug	jaggu
+5.35	cup, drinking vessel	kappu
+5.35	cup, drinking vessel	ginne
+5.35	cup, drinking vessel	taTTi
+5.36	saucer	paLLem
+5.37	spoon	gaNTe
+5.38	knife	gaNTe
+5.38	knife	cancaa
+5.38	knife	cencaa
+5.39	fork	panga
+5.391	tongs	cimaTaa
+5.391	tongs	pa[T]Takaaru
+5.41	meal (a)	bhojanam
+5.42	breakfast	upaahaaram
+5.42	breakfast	naastaa
+5.43	lunch	madhyaahnam
+5.43	lunch	madhyaannam ~ bhoojanam
+5.44	dinner	windu
+5.46	peel	ekkatiiyu
+5.46	peel	olucu
+5.46	peel	tokka tiiyu
+5.47	sieve, strain	jallincu
+5.47	sieve, strain	jalleDa paTTu
+5.47	sieve, strain	jalleDa pooyu
+5.47	sieve, strain	taalcu
+5.48	scrape	giiku
+5.48	scrape	giicu
+5.48	scrape	giita
+5.48	scrape	giiru
+5.48	scrape	gooku
+5.48	scrape	ciiru
+5.48	scrape	cekkipaareeyu
+5.48	scrape	turumu
+5.48	scrape	dooku
+5.48	scrape	bakkuru
+5.48	scrape	raayu
+5.49	stir, mix	kadalabaaru
+5.49	stir, mix	kadalu
+5.49	stir, mix	kadalcu
+5.49	stir, mix	kadilincu
+5.49	stir, mix	calincu
+5.51	bread	naanrooTTe
+5.51	bread	roTTe
+5.54	knead	pisuku
+5.55	meal, flour	piNDi
+5.56	crush, grind	nuuru
+5.56	crush, grind	piNDi ceeyu
+5.56	crush, grind	rubbu
+5.57	mill	girni
+5.57	mill	mara
+5.58	mortar	roolu
+5.59	pestle	guNDraayi
+5.59	pestle	guuTam
+5.59	pestle	rookali
+5.61	meat	maamsam
+5.61	meat	kakka
+5.61	meat	mukka
+5.61	meat	niicu
+5.65	vegetables	kaayaguuralu
+5.65	vegetables	kuuragaayalu
+5.66	bean	śamiidhaanyam
+5.7	potato	aalugaDDa
+5.71	fruit	kaapu
+5.712	bunch	guccham
+5.712	bunch	gutti
+5.712	bunch	gela
+5.75	fig	anjuuru
+5.76	grape	anguuru
+5.76	grape	draakSa
+5.77	nut	pikka
+5.78	olive	--
+5.79	oil	camuru
+5.79	oil	jiDDu
+5.79	oil	nuune
+5.791	grease, fat	kowwuL
+5.791	grease, fat	jiDDu
+5.81	salt	uppu
+5.82	pepper	miriyaalu
+5.821	chili pepper	mirapakaaya
+5.84	honey	teene
+5.84	honey	teeni
+5.84	honey	madhuwu
+5.85	sugar	cakkera
+5.85	sugar	ciini
+5.85	sugar	pancadaara
+5.86	milk (noun)	uudhasyam
+5.86	milk (noun)	kSiiram
+5.86	milk (noun)	taripaalu
+5.86	milk (noun)	paalu
+5.87	milk (vb)	pituku
+5.87	milk (vb)	piduku
+5.88	cheese	junnu
+5.89	butter	maskaa
+5.89	butter	wenna
+5.9	beverage, drink	taaguDu
+5.92	wine	draakSarasam
+5.92	wine	draakSarasam
+5.92	wine	draakSasaaraayi
+5.93	beer	biiru
+5.97	egg	aNDam
+5.97	egg	guDDu
+5.97	egg	Dimbham
+5.971	egg yolk	candamaama
+5.971	egg yolk	sona
+6.11	put on (clothes)	tagilincukonu
+6.11	put on (clothes)	taalcu
+6.11	put on (clothes)	toDukkonu
+6.11	put on (clothes)	digaweesukonu
+6.12	clothing, clothes	uDupulu
+6.12	clothing, clothes	guDDalu
+6.12	clothing, clothes	baTTalu
+6.13	tailor	kuTTupaniwaaDu
+6.13	tailor	darjii
+6.21	cloth	paccaDam
+6.21	cloth	paTam
+6.21	cloth	paTTaa
+6.21	cloth	baTTa
+6.22	wool	unni
+6.22	wool	uulu
+6.22	wool	uulu
+6.23	linen, flax	guDDa
+6.24	cotton	duudi
+6.24	cotton	duudipinja
+6.24	cotton	nuulu
+6.24	cotton	p[r]atti
+6.25	silk	paTTutaapita
+6.25	silk	reeSam
+6.29	leather	carmam
+6.29	leather	toolu
+6.31	spin	waDuku
+6.32	spindle	kaduru
+6.33	weave	allu
+6.33	weave	neeyu
+6.34	loom	neetayantram
+6.34	loom	maggam
+6.35	sew	kuTTu
+6.36	needle	suudi
+6.37	awl	aara
+6.37	awl	Tenki
+6.38	thread	tantuwu
+6.38	thread	daaram
+6.39	dye	rangu
+6.39	dye	warNam
+6.41	cloak	aacchaadanam
+6.41	cloak	uttariiyam
+6.42	woman's dress	ooNii
+6.42	woman's dress	waaNii
+6.42	woman's dress	weeSam
+6.43	coat	angarakaa
+6.43	coat	angarkhaa
+6.43	coat	angii
+6.43	coat	śarwaaNi
+6.44	shirt	cokkaa
+6.45	collar	paTakaa
+6.46	skirt	aDDapance
+6.46	skirt	panca
+6.46	skirt	langaa
+6.48	trousers	ijaaru
+6.48	trousers	paNTLaam
+6.48	trousers	Saraabu
+6.49	stocking, sock	mejooLLu
+6.51	shoe	ceppu
+6.51	shoe	paadarakSa
+6.52	boot	kaalijooDu
+6.52	boot	jooDu
+6.54	shoemaker, cobbler	aasaadi
+6.54	shoemaker, cobbler	goDagari
+6.54	shoemaker, cobbler	goDaari
+6.55	hat, cap	kuLaayi
+6.55	hat, cap	Toopii
+6.57	belt, girdle	paTakaa
+6.57	belt, girdle	paTTii
+6.59	veil	paradaa
+6.59	veil	musugu
+6.61	pocket	jeebu
+6.62	button	guNDii
+6.62	button	bottaam
+6.63	pin	aaNi
+6.63	pin	kiilam
+6.63	pin	guNDusuudi
+6.63	pin	ciila
+6.71	ornament, adornment	alankaaram
+6.71	ornament, adornment	aabharaNam
+6.71	ornament, adornment	toDupu
+6.72	jewel	upalam
+6.72	jewel	naga
+6.72	jewel	maNDanam
+6.72	jewel	maaNikyam
+6.72	jewel	ratnam
+6.73	ring (for finger)	anguLiiyakam
+6.73	ring (for finger)	anaamika
+6.74	bracelet	kankaNam
+6.74	bracelet	kaDiyam
+6.74	bracelet	gaaju
+6.75	necklace	kutikaNTu
+6.75	necklace	candrahaaram
+6.75	necklace	daNDa
+6.76	bead	puusa
+6.77	earring	uttamśam
+6.77	earring	kamma
+6.77	earring	kuNDalam
+6.78	headband, headdress	turaayi
+6.79	tattoo	pacca
+6.81	handkerchief, rag	piilika
+6.81	handkerchief, rag	rumaalu
+6.82	towel	angawastram
+6.82	towel	angoostram
+6.82	towel	tuNDuguDDa
+6.82	towel	tuNDu
+6.82	towel	tuwwaalu
+6.82	towel	tuwaalu
+6.82	towel	tuwwaala
+6.82	towel	tuwaala
+6.82	towel	masipaata
+6.82	towel	masiguDDa
+6.82	towel	masibaTTa
+6.91	comb	duwwena
+6.92	brush	kunce
+6.921	braid	WeeNi
+6.921	braid	jaDa
+6.93	razor	kSurika
+6.94	ointment	angaraagam
+6.94	ointment	taylam
+6.94	ointment	paypuuta
+6.94	ointment	wileepanam
+6.95	soap	sabbu
+6.96	mirror	addam
+6.96	mirror	aadarśakam
+6.96	mirror	darpaNam
+7.11	dwell, live	uNDu
+7.12	house	Tenki
+7.12	house	nilayam
+7.12	house	niwaasam
+7.12	house	niweeśam
+7.12	house	niweeśanasthalam
+7.12	house	bhawanam
+7.12	house	maha[a]l
+7.12	house	sadanam
+7.12	house	illu
+7.13	hut	kuTiiram
+7.13	hut	koTTam
+7.13	hut	koTTaam
+7.13	hut	guDise
+7.13	hut	paaka
+7.14	tent	guDaaram
+7.14	tent	guDaaru
+7.14	tent	śibiram
+7.15	yard, court	mungili
+7.15	yard, court	mellaa
+7.17	cookhouse	vanTagadi
+7.18	meeting house	samaaVesa mandiram
+7.21	room	aaspadam
+7.21	room	irumu
+7.21	room	iruwu
+7.21	room	koTTu
+7.21	room	gadi
+7.22	door, gate	kawaaTam
+7.22	door, gate	darwaajaa
+7.22	door, gate	dwaaram
+7.22	door, gate	talupu
+7.23	lock (noun)	taaLam
+7.23	lock (noun)	biigam
+7.231	latch, door-bolt	uucagoLLem
+7.231	latch, door-bolt	goLLem
+7.24	key	udghaaTanam
+7.24	key	kii
+7.24	key	taaLamcewi
+7.25	window	taaLamcewi
+7.25	window	gawaakSam
+7.25	window	kitikii
+7.26	floor	neela
+7.27	wall	kuDyam
+7.27	wall	bhitti
+7.27	wall	gooDa
+7.31	fireplace	cullaa
+7.31	fireplace	p[r]oyyi
+7.32	stove	cullaa
+7.33	chimney	cimnii
+7.33	chimney	pogaguuDu
+7.33	chimney	pogagoTTam
+7.37	ladder	niccena
+7.37	ladder	niśreeNi
+7.42	bed	talpam
+7.42	bed	pakka
+7.42	bed	mancam
+7.42	bed	śayanam
+7.42	bed	śayya
+7.421	pillow	upadhaanam
+7.421	pillow	talagaDa
+7.421	pillow	dinDu
+7.421	pillow	metta
+7.422	blanket	kambaLam
+7.422	blanket	kambaLi
+7.422	blanket	buurniisu
+7.422	blanket	rajaayi
+7.43	chair	kurcii
+7.44	table	balla
+7.44	table	meejaa
+7.45	lamp, torch	jyooti
+7.45	lamp, torch	diwwe
+7.45	lamp, torch	diipam // ulka
+7.45	lamp, torch	karadiipika
+7.45	lamp, torch	kaagaDa
+7.45	lamp, torch	kaagaDaa
+7.45	lamp, torch	diwiTii
+7.46	candle	kowwu watti
+7.46	candle	kowwotti
+7.46	candle	maynapuwatti
+7.47	shelf	ara
+7.48	trough	ara
+7.48	trough	aawaapam
+7.48	trough	toTTi
+7.48	trough	toTTe
+7.51	roof	iNTikappu
+7.51	roof	paykappu
+7.51	roof	cuuru
+7.52	thatch	puuri
+7.54	rafter	waasam
+7.55	beam	duulam
+7.56	post, pole	kambam
+7.56	post, pole	kunda
+7.56	post, pole	gunja
+7.56	post, pole	guuTam
+7.57	board	cekka
+7.57	board	balla
+7.58	arch	kamaanu
+7.61	mason	gaDeekaari
+7.61	mason	taapiipaniwaaDu
+7.61	mason	beeludaari
+7.61	mason	mestrii
+7.61	mason	taapi mestrii
+7.62	brick	iTika
+7.62	brick	iTike
+7.62	brick	baTTii
+7.63	mortar	gaccu
+7.63	mortar	gawwa sunnam
+7.63	mortar	gaara
+7.64	adobe	dhaamam
+8.11	farmer	karSakuDu
+8.11	farmer	kaapu
+8.11	farmer	kṛSiiwaluDu
+8.11	farmer	raytu
+8.11	farmer	rayitu
+8.11	farmer	wyawasaayadaaruDu
+8.11	farmer	seedyagaaDu
+8.12	field (for cultivation)	polam
+8.12	field (for cultivation)	maagani
+8.13	garden	udyaanam
+8.13	garden	upawanam
+8.13	garden	tooTa
+8.13	garden	wana[m]
+8.15	cultivate, till	paNDincu
+8.15	cultivate, till	saagu ceeyu
+8.15	cultivate, till	seedyam
+8.16	fence	elugu
+8.16	fence	kance
+8.16	fence	kalla
+8.16	fence	daDi
+8.16	fence	daDigooDa
+8.16	fence	welugu
+8.17	ditch	agaDta
+8.17	ditch	kandakam
+8.17	ditch	gaaDi
+8.17	ditch	gaata
+8.17	ditch	gaala
+8.21	plow	dunnu
+8.212	furrow	caalu
+8.212	furrow	siita
+8.22	dig	tawwu
+8.23	spade	tawwukoola
+8.23	spade	dooku[Du] paara
+8.23	spade	paara
+8.23	spade	selagapaara
+8.25	hoe	guddali
+8.27	rake	aaTagorru
+8.31	sow	callu
+8.31	sow	wittu
+8.31	sow	wedacallu
+8.31	sow	wedajallu
+8.31	sow	weeyu
+8.31	sow	paatu
+8.311	seed	ginja
+8.311	seed	biijam
+8.311	seed	wittanam
+8.311	seed	wittu
+8.32	mow, reap	uucakoota kooyu
+8.33	sickle, scythe	koDawali
+8.34	thresh	kuppakoTTu
+8.35	threshing-floor	kaLLam
+8.41	crop, harvest	koota
+8.42	grain (barley, oats etc)	galla
+8.42	grain (barley, oats etc)	ginja
+8.42	grain (barley, oats etc)	sasyam
+8.43	wheat	goodhuma
+8.44	barley	yawalu
+8.47	maize, corn	ennu
+8.47	maize, corn	mokkajonna
+8.48	rice	annam
+8.48	rice	praalu
+8.51	grass	gaDDi
+8.51	grass	graasam
+8.51	grass	gaasam
+8.51	grass	tṛ tṛNam
+8.52	hay	eNDu
+8.52	hay	kasuwu
+8.52	hay	gaDDi
+8.53	plant (noun)	ceTTu
+8.53	plant (noun)	mokka
+8.531	plant (vb)	naaTu
+8.531	plant (vb)	paatipeTTu
+8.531	plant (vb)	paatiweeyu
+8.531	plant (vb)	paatu
+8.54	root	veeru
+8.55	branch	komma
+8.56	leaf	aaku
+8.57	flower	kusuma[m]
+8.57	flower	puwwu
+8.57	flower	puuwu
+8.57	flower	puSpam
+8.57	flower	rooham
+8.57	flower	lataantam
+8.6	tree	awaniiruham
+8.6	tree	ceTTu
+8.6	tree	taruwu
+8.6	tree	drumam
+8.6	tree	pogaDa
+8.6	tree	wṛkSam
+8.67	vine	draakSa
+8.67	vine	draakSatiiga
+8.67	vine	draakSawalli
+8.67	vine	lata
+8.68	tobacco	pogaaku
+8.69	smoke (tobacco)	kaalcu
+8.69	smoke (tobacco)	pogat[r]aagu
+8.72	tree stump	kaalu
+8.72	tree stump	moNDem
+8.72	tree stump	mooDu
+8.73	tree trunk	kaaNDam
+8.73	tree trunk	dukka
+8.73	tree trunk	prakaaNDam
+8.73	tree trunk	skandham
+8.74	forked branch	palawa
+8.75	bark	oliyup
+8.75	bark	tokka
+8.75	bark	paTTaa
+8.75	bark	beraDu
+8.76	sap	pasa
+8.76	sap	pasaru
+8.76	sap	majja
+8.76	sap	saaram
+8.82	coconut	kobbari kaaya
+8.82	coconut	Tenkaaya
+8.84	banana tree	araTi
+8.84	banana tree	ariTi
+8.84	banana tree	kadaLam
+8.84	banana tree	kadaLi
+8.84	banana tree	rambhaaphalam
+8.85	banyan	waTam
+8.85	banyan	waTawṛkSam
+8.91	sweet potato	genusu
+8.91	sweet potato	cilagaDa dumpa
+8.91	sweet potato	telagadumpa
+8.912	yam	peNDalam
+8.93	gourd	kuuSmaaNDam
+8.93	gourd	gummaDi
+8.931	pumpkin, squash	kuuSmaaNDam
+8.931	pumpkin, squash	gummaDi
+8.94	bamboo	weduru
+8.941	sugar cane	ceruku
+8.97	nettle	duradagoNDi[aaku]
+8.97	nettle	duulagoNDi
+8.98	mushroom	śiliindram
+9.11	do, make	kaawinc
+9.11	do, make	kaanichu
+9.11	do, make	ceeyu
+9.12	work	kaSTapaDu
+9.12	work	kaSTincu
+9.14	bend	oggu
+9.14	bend	tongu
+9.14	bend	wangadiiyu
+9.14	bend	vancu
+9.15	fold	maDacu
+9.15	fold	maData
+9.15	fold	maDatapeTTu
+9.15	fold	maDataweeyu
+9.15	fold	maDupu
+9.15	fold	muDucu
+9.15	fold	muDucukonu
+9.16	tie, bind	aNTakaTTu
+9.16	tie, bind	egakaTTu
+9.16	tie, bind	muDucu
+9.161	untie	uuDatiiyu
+9.161	untie	uuDcu
+9.161	untie	wadilincu
+9.161	untie	wadalcu
+9.161	untie	wadulcu
+9.161	untie	wippu
+9.161	untie	saDalincu
+9.18	chain	golusu
+9.18	chain	nigaLam
+9.18	chain	śṛnkhalam
+9.19	rope, cord	paggam
+9.19	rope, cord	paaśam
+9.19	rope, cord	t[r]aaDu
+9.192	knot (noun)	kaTTu
+9.192	knot (noun)	muDi
+9.21	strike (hit, beat)	koTTu
+9.21	strike (hit, beat)	moodu
+9.21	strike (hit, beat)	weeyu
+9.211	pound with fist	citakabaadu
+9.211	pound with fist	dampu
+9.211	pound with fist	nalagagoTTu
+9.211	pound with fist	pawnu
+9.211	pound with fist	mardincu
+9.22	cut	uttarincu
+9.22	cut	kattirincu
+9.22	cut	kooyu
+9.22	cut	cheedincu
+9.22	cut	tegakoTTu
+9.22	cut	tegatencu
+9.22	cut	tegaweeyu
+9.22	cut	tegaweeyu
+9.221	cut down	celagu
+9.221	cut down	cheedincu
+9.222	chop, hew	naraku
+9.222	chop, hew	naruku
+9.223	stab	poDucu
+9.223	stab	pooTu
+9.23	knife	katti
+9.24	scissors, shears	kattera
+9.25	ax	goDDali
+9.251	adze	baaDida
+9.251	adze	baaDisa
+9.26	break	udghaaTincu
+9.26	break	cheedincu
+9.26	break	pagalagoTTu
+9.26	break	baddalu koTTu
+9.26	break	bhangaparacu
+9.261	broken	bokki
+9.27	split	ciiru
+9.27	split	ciircu
+9.27	split	ciilcu
+9.28	tear	uuDakoTTu
+9.28	tear	cimpu
+9.29	flay, skin	oliyu
+9.29	flay, skin	olucu
+9.29	flay, skin	titti olucu
+9.29	flay, skin	titti tiiyu
+9.31	rub, wipe	aragatiiyu
+9.31	rub, wipe	nulupukonu
+9.31	rub, wipe	ruddu
+9.32	stretch	caapu
+9.32	stretch	nigaDadannu
+9.32	stretch	niguDcu
+9.32	stretch	nigiDincu
+9.32	stretch	wirucukonu
+9.32	stretch	saagadiiyu
+9.33	pull	iggulaaDu
+9.33	pull	iiDcu
+9.33	pull	iiDucu
+9.33	pull	gunjaayincu
+9.33	pull	gunju
+9.33	pull	tooDu
+9.33	pull	piiku
+9.33	pull	laagu
+9.34	spread out	wistarincu
+9.341	hang up	tagilincu
+9.342	press	aanu
+9.342	press	aanci
+9.343	squeeze, wring	adumu
+9.343	squeeze, wring	cidumu
+9.343	squeeze, wring	nulucu
+9.343	squeeze, wring	nulupu
+9.343	squeeze, wring	piDucu
+9.343	squeeze, wring	pisuku
+9.35	pour	dimmarincu
+9.35	pour	pooyu
+9.36	wash	kaDigeeyu
+9.36	wash	kaDugu
+9.36	wash	prakSaaLana ceeyu
+9.37	sweep	cimmu
+9.37	sweep	jimmu
+9.37	sweep	tuDucu
+9.38	broom	ciipuru
+9.38	broom	ciipurukaTTa
+9.38	broom	puucika[la]kaTTa
+9.38	broom	poraka
+9.38	broom	paraka
+9.422	tool	aayudham
+9.422	tool	upakaraNam
+9.422	tool	parikaram
+9.422	tool	saadhanam
+9.43	carpenter	waDrangi
+9.44	build	ettincu
+9.44	build	kaTTu
+9.44	build	kaTTukonu
+9.46	bore	tolucu
+9.46	bore	tolacu
+9.46	bore	t[r]awwu
+9.461	hollow out	tolipincu
+9.461	hollow out	tolucu
+9.461	hollow out	tolacu
+9.48	saw	rampam
+9.49	hammer	mudgaram
+9.49	hammer	sutti
+9.49	hammer	sutte
+9.5	nail	aaNi
+9.5	nail	ciila
+9.5	nail	nemmu
+9.5	nail	meeku
+9.5	nail	mola
+9.56	glue	banka
+9.56	glue	jiguru
+9.6	smith, blacksmith	kammara
+9.6	smith, blacksmith	kammari
+9.61	forge	--
+9.62	anvil	daagali
+9.62	anvil	daakali
+9.62	anvil	paTTiDi
+9.63	cast (metals)	accupooyu
+9.63	cast (metals)	pootapooyu
+9.64	gold	kanakam
+9.64	gold	kaancanam
+9.64	gold	kaancanam
+9.64	gold	kundanam
+9.64	gold	pasiDi
+9.64	gold	puttaDi
+9.64	gold	puttaLi
+9.64	gold	payDi
+9.64	gold	ponnu
+9.64	gold	bangaaru
+9.64	gold	bangaaram
+9.64	gold	suwarNam
+9.64	gold	swarNam
+9.65	silver	rajatam
+9.65	silver	weNDi
+9.66	copper, bronze	taamram
+9.66	copper, bronze	raagi
+9.67	iron	inumu
+9.68	lead (noun)	siisam
+9.69	tin, tinplate	naagam
+9.69	tin, tinplate	wangam
+9.71	potter	kumbhakaaruDu
+9.71	potter	kummarawaaDu
+9.71	potter	kummari
+9.72	mold (clay etc)	diddi tiircu
+9.72	mold (clay etc)	buuju
+9.72	mold (clay etc)	malacu
+9.72	mold (clay etc)	muusapooyu
+9.73	clay	aDusu
+9.73	clay	mṛttika
+9.73	clay	regaDa
+9.73	clay	reegaDi
+9.73	clay	reewaDi
+9.74	glass	kaacam
+9.74	glass	gaaju
+9.74	glass	addam
+9.75	weave, plait	neeyu
+9.76	basket	gampa
+9.76	basket	sajja
+9.77	mat	caapa
+9.771	rug	kambaLi
+9.79	fan (noun)	pankaa
+9.79	fan (noun)	pankhaa
+9.79	fan (noun)	wiiwana
+9.791	fan (vb)	cerugu
+9.791	fan (vb)	wiicu
+9.81	carve	cekku
+9.81	carve	tolucu
+9.81	carve	tolacu
+9.81	carve	malacu
+9.82	sculptor	śilpi
+9.83	statue	wigraham
+9.84	chisel	uli
+9.84	chisel	Tankam
+9.84	chisel	nakku
+9.84	chisel	seeNam
+9.84	chisel	śaaNam
+9.84	chisel	seenam
+9.88	paint (noun)	rangu
+9.88	paint (noun)	warNam
+9.89	paint (vb)	citrincu
+10.11	move	oosarincu
+10.11	move	oosarillu
+10.11	move	kadalcu
+10.11	move	kadilincu
+10.11	move	jarugu
+10.11	move	taralincu
+10.11	move	tarlincu
+10.12	turn over	tippukonu
+10.12	turn over	meli[kalu]tippu
+10.13	turn around	ghuurNillu
+10.14	wind, wrap	cuTTukonu
+10.15	roll	ghuurNillu
+10.15	roll	Dollu
+10.15	roll	dorlu
+10.15	roll	por[a]lu
+10.16	drop (vb)	paDa veeyu
+10.17	twist	nulucu
+10.17	twist	nulupu
+10.17	twist	nulupukonu
+10.17	twist	penawweeyu
+10.17	twist	peenu
+10.17	twist	meli[kalu]tippu
+10.17	twist	wampulu tirugu
+10.21	rise	udayincu
+10.21	rise	udgamincu
+10.21	rise	upacayam
+10.21	rise	tuuru
+10.22	raise, lift	ankincu
+10.22	raise, lift	ettincu
+10.22	raise, lift	leewadiiyu
+10.23	fall	tiragabaDu
+10.23	fall	treLLu
+10.23	fall	patanam awu
+10.23	fall	raalipaDipoowu
+10.23	fall	raalu
+10.24	drip	ooDu
+10.25	throw	ruuwwu
+10.25	throw	wikSeepincu
+10.25	throw	weeyu
+10.25	throw	wisuru
+10.252	catch (ball)	cikkincukonu
+10.252	catch (ball)	paTTukonu
+10.26	shake	adirincu
+10.26	shake	allaarcu
+10.26	shake	aarpu
+10.26	shake	ulucu
+10.26	shake	kudilincu
+10.26	shake	kudulcu
+10.26	shake	kadupu
+10.32	flow	ooDu
+10.32	flow	kaaru
+10.32	flow	jaaluwaaru
+10.32	flow	paaru
+10.32	flow	prawahincu
+10.32	flow	baTTe kaTTu
+10.32	flow	srawincu
+10.33	sink	aDugaNTu
+10.33	sink	iiDigilu
+10.33	sink	iiDigilapaDu
+10.34	float	teelaaDu
+10.34	float	teeliyaaDu
+10.34	float	teelu
+10.35	swim	iidu
+10.351	dive	munugu
+10.351	dive	mulugu
+10.352	splash	pulumu
+10.352	splash	ceduru
+10.37	fly (vb)	udgamincu
+10.37	fly (vb)	eguru
+10.38	blow	uudu
+10.38	blow	wisaru
+10.38	blow	wiicu
+10.41	creep, crawl	doogaaDu
+10.41	creep, crawl	paaku
+10.41	creep, crawl	praaku
+10.412	kneel	muTTikaaLLu weesukonu
+10.412	kneel	mookarincu
+10.412	kneel	mookarillu
+10.413	crouch	poncu
+10.413	crouch	ponci uNDu
+10.42	slide, slip	jarugu
+10.42	slide, slip	jaaru
+10.42	slide, slip	jaaripoowu
+10.43	jump, leap	unku
+10.43	jump, leap	uruku
+10.43	jump, leap	egasipaDu
+10.43	jump, leap	gantu
+10.43	jump, leap	gentu
+10.43	jump, leap	cindulaaDu
+10.43	jump, leap	tuLLu
+10.43	jump, leap	daaTukonu
+10.43	jump, leap	daaTLuweeyu
+10.43	jump, leap	dumuku
+10.43	jump, leap	duuku
+10.43	jump, leap	langhanam
+10.431	kick	tannu
+10.44	dance	aaDu
+10.44	dance	cindulutokku
+10.45	walk	naDucu
+10.45	walk	naDacu
+10.45	walk	pacaarum
+10.45	walk	meTTu
+10.451	limp	kuNTu
+10.46	run	uruku
+10.46	run	duuTu
+10.46	run	parigettu
+10.47	go	arudencu
+10.47	go	eegu
+10.47	go	eegudencu
+10.47	go	eetencu
+10.47	go	canu
+10.47	go	canudencu
+10.47	go	wellu
+10.471	go up	ekku
+10.472	climb	adhiroohincu
+10.472	climb	aaroohincu
+10.472	climb	egapaaku
+10.473	go down	digu
+10.474	go out	daaTu
+10.48	come	arudencu
+10.48	come	ceeru
+10.48	come	ceerukonu
+10.48	come	muTTu
+10.481	come back	tippiweeyu
+10.481	come back	tirugu
+10.49	go away, depart	tyajincu
+10.49	go away, depart	daaTu
+10.49	go away, depart	wiDu
+10.491	disappear	antardhaanam awu
+10.491	disappear	adṛśyam awu
+10.491	disappear	egiripoowu
+10.491	disappear	kanumarugawu
+10.491	disappear	gallantu awu
+10.491	disappear	naśincu
+10.491	disappear	poowu
+10.491	disappear	maTumaayam awu
+10.491	disappear	marugu[na]paDu
+10.491	disappear	marugu[na]paDu
+10.51	flee	uuDu
+10.51	flee	paraaru cittagincu
+10.51	flee	palaayanam awu
+10.51	flee	palaayanam cittagincu
+10.51	flee	palaayana mantram paThincu
+10.51	flee	paaripoowu
+10.51	flee	wenniccu
+10.52	follow	anusarincu
+10.52	follow	tarumu
+10.53	pursue	tarumu
+10.53	pursue	weNTa tarumu
+10.53	pursue	weNTaaDu
+10.53	pursue	wembaDincu
+10.53	pursue	wennaaDu
+10.53	pursue	weeTaaDu
+10.55	reach, arrive	ceeru
+10.55	reach, arrive	ceerukonu
+10.55	reach, arrive	muTTu
+10.56	approach	edureegu
+10.56	approach	kawiyu
+10.56	approach	ceera poowu
+10.56	approach	ceeru
+10.56	approach	taarukonu
+10.56	approach	daggirapaDu
+10.56	approach	daakonu
+10.56	approach	samiipincu
+10.57	enter	uccu
+10.57	enter	coccu
+10.57	enter	corabaaru
+10.57	enter	jorabaru
+10.57	enter	tuuru
+10.57	enter	duuru
+10.57	enter	duusukonu
+10.57	enter	duusukupoowu
+10.57	enter	praweeśincu
+10.61	carry (bear)	mooyu
+10.61	carry (bear)	paTTukonu
+10.612	carry-in-hand	ceetilo paTTukonu
+10.613	carry-on-shoulder	mooyu
+10.614	carry-on-head	tala meeda mooyu
+10.615	carry-underarm	cankana peTTukonu
+10.62	bring	teccu
+10.63	send	ancu
+10.63	send	uccu
+10.63	send	tagulu
+10.63	send	pampu
+10.63	send	panucu
+10.63	send	puttencu
+10.64	lead (vb)	naDupu
+10.64	lead (vb)	naDapu
+10.65	drive	naDipincu
+10.65	drive	pooniccu
+10.66	ride	sawaariiceeyu
+10.66	ride	swaariiceeyu
+10.67	push, shove	irikincu
+10.67	push, shove	jarupu
+10.67	push, shove	toopu
+10.67	push, shove	toopulaaDu
+10.67	push, shove	dobbu
+10.67	push, shove	nuuku
+10.67	push, shove	neTTu
+10.67	push, shove	tooyu
+10.71	road	teragu
+10.71	road	teruwu
+10.71	road	doowa
+10.71	road	troowa
+10.71	road	towwa
+10.71	road	patham
+10.71	road	baaTa
+10.71	road	maargam
+10.71	road	rastaa
+10.71	road	wiidhi
+10.72	path	goorje
+10.72	path	teragu
+10.72	path	teruwu
+10.72	path	daari
+10.72	path	doowa
+10.72	path	troowa
+10.72	path	towwa
+10.72	path	patham
+10.72	path	punta
+10.72	path	maargam
+10.74	bridge	wantena
+10.74	bridge	waaradhi
+10.74	bridge	seetuwu
+10.75	carriage, wagon, cart	śakaTam
+10.76	wheel	cakram
+10.77	axle	akSam
+10.77	axle	irusu
+10.78	yoke	kaaDi
+10.78	yoke	puuju
+10.81	ship	ooDa: naawa
+10.81	ship	nawka
+10.83	boat	naawa
+10.83	boat	paDawa
+10.831	canoe	taaTidoone
+10.84	raft	teppa
+10.84	raft	ballakaTTu
+10.85	oar	teDDu
+10.851	paddle (noun)	kSeepaNi
+10.851	paddle (noun)	teDDu
+10.86	rudder	cukkaani
+10.86	rudder	cukkaanu
+10.87	mast	kambam
+10.87	mast	terakoyya
+10.88	sail (noun)	teracaapa
+10.89	anchor	langaru
+10.91	harbor, port	ooDareewu
+10.91	harbor, port	nawkaasrayam
+10.92	land (vb)	neela miidaki digu
+11.11	have	ondu
+11.11	have	kaancu
+11.11	have	gaancu
+11.13	take	andukonu
+11.13	take	parigrahincu
+11.13	take	tiisukonu
+11.14	seize, grasp	waDukkonu
+11.14	seize, grasp	paTTukonu
+11.15	hold	oDisipaTTu
+11.15	hold	waDisipaTTu
+11.15	hold	jumaayincu
+11.15	hold	jhumaayincu
+11.15	hold	bigincu
+11.17	keep, retain	kaapaaDu
+11.17	keep, retain	takkincukonu
+11.17	keep, retain	dakkincukonu
+11.17	keep, retain	padilam ceeyu
+11.17	keep, retain	bhadramceeyu
+11.17	keep, retain	bhadraparacu
+11.18	thing	artham
+11.18	thing	dinusu
+11.18	thing	padaartham
+11.18	thing	wastuwu
+11.18	thing	sangati
+11.21	give	andincu
+11.21	give	iccu
+11.21	give	iwwu
+11.21	give	osangu
+11.22	give back	phiraayincu
+11.24	preserve, look after	jaagrattaceeyu
+11.24	preserve, look after	dakkincu
+11.24	preserve, look after	pukkiTa peTTukonu
+11.25	save, rescue	uddharincu
+11.25	save, rescue	rakshincu
+11.27	destroy	dhwamsincu
+11.27	destroy	naśimpajeeyu
+11.27	destroy	paaDu ceeyu
+11.27	destroy	paaDupeTTu
+11.27	destroy	buggi ceeyu
+11.27	destroy	samayincu
+11.28	harm, injure, damage	gaayaparacu
+11.28	harm, injure, damage	himsincu
+11.31	seek, look for	anweeSincu
+11.31	seek, look for	cuucukonu
+11.33	lose	koolupoowu
+11.33	lose	koolpoowu
+11.33	lose	poogoTTu
+11.34	release, let go	wiDu
+11.34	release, let go	wadulu
+11.43	money	artham
+11.43	money	kaasu
+11.43	money	camuru
+11.43	money	cilum
+11.43	money	Dabbu
+11.43	money	Dabbudaskam
+11.43	money	taNDulaalu
+11.43	money	taylam
+11.43	money	dastu
+11.43	money	drawyam
+11.43	money	dhana
+11.43	money	paykam
+11.43	money	ruuka
+11.43	money	sommu
+11.44	coin	iccaruupaayi
+11.44	coin	iccuruupaayi
+11.44	coin	wiccaruupaayi
+11.44	coin	wiccuruupaayi
+11.44	coin	kaasu
+11.44	coin	naaNem
+11.51	rich	pasiDi
+11.51	rich	dhanawantuDu
+11.52	poor	baDugu
+11.52	poor	biida
+11.53	beggar	tiripekaaDu
+11.53	beggar	bikaari
+11.53	beggar	bhikSukuDu
+11.53	beggar	maadaakabaLam waaDu
+11.53	beggar	muSTiwaaDu
+11.54	avaricious, stingy	pisinaari
+11.54	avaricious, stingy	piinaasi
+11.61	lend	iccu
+11.61	lend	eruwu iccu
+11.61	lend	eruwiccu
+11.62	borrow	appuceeyu
+11.63	owe	acci uNDu
+11.63	owe	baakii uNDu
+11.64	debt	appu
+11.64	debt	ṛNam
+11.65	pay (vb)	aalakincu
+11.65	pay (vb)	muTTaceppu
+11.66	account, reckoning	huNDii
+11.66	account, reckoning	uNDii
+11.69	tax, tribute	kappam
+11.69	tax, tribute	tiiruwa
+11.69	tax, tribute	tiirwa
+11.69	tax, tribute	mahasuulu
+11.69	tax, tribute	maasuulu
+11.69	tax, tribute	sunkam
+11.77	hire	adde
+11.77	hire	kiraayi
+11.78	wages	weetanam
+11.79	earn	aarjincu
+11.79	earn	gaDincu
+11.79	earn	laabhapaDu
+11.79	earn	laabham pondu
+11.79	earn	sampaadincu
+11.79	earn	samupaarjincu
+11.81	buy	konu
+11.81	buy	krayincu
+11.81	buy	khariidu ceeyu
+11.82	sell	ammu
+11.82	sell	wikrayincu
+11.83	trade, barter	wastu maarpiDi
+11.84	merchant	koomaTi
+11.84	merchant	wartakuDu
+11.84	merchant	wayśyuDu
+11.84	merchant	wyaapari
+11.84	merchant	wyaapaarasthuDu
+11.85	market (place)	bajaaru
+11.85	market (place)	wip[h]aNi
+11.86	store, shop	angaDi
+11.86	store, shop	koTTu
+11.86	store, shop	dukaaNam
+11.86	store, shop	wip[h]aNi
+11.87	price	khariidu
+11.87	price	dhara
+11.87	price	paNam
+11.87	price	wela
+11.88	dear (costly, expensive)	khariidayna
+11.88	dear (costly, expensive)	wyayapuurita
+11.88	dear (costly, expensive)	priyam
+11.89	cheap	cawka
+11.89	cheap	cawkabaaru
+11.91	share (distribute)	paalupancukonu
+11.91	share (distribute)	paalupancukonu
+11.91	share (distribute)	pancukonu
+11.92	weigh	ettuweeyu
+11.92	weigh	kaaTaa
+11.92	weigh	tuukam weeyu
+11.92	weigh	tuucu
+11.92	weigh	tuugu
+12.11	place	antupontu
+12.11	place	antupantu
+12.11	place	aaTapaTTu
+12.11	place	aaśrayam
+12.11	place	aaspadam
+12.11	place	ikkuwa
+12.11	place	immu
+12.11	place	irawu
+12.11	place	irumu
+12.11	place	iruwu
+12.11	place	cooTu
+12.11	place	T[h]ikaaNaa
+12.11	place	Tenki
+12.11	place	Thaawu
+12.11	place	taawalam
+12.11	place	taawaram
+12.11	place	taawu
+12.11	place	pradeeśam
+12.11	place	waaTi[ka]
+12.11	place	sthaanam
+12.12	put	peTTu
+12.12	put	weesukonu
+12.13	sit	kuur-cuNDu
+12.13	sit	kuurconu
+12.13	sit	kuucunu
+12.13	sit	kuuconu
+12.13	sit	bayThaayincu
+12.14	lie down	orugu
+12.14	lie down	tongu
+12.14	lie down	paNDu
+12.14	lie down	śayanincu
+12.15	stand	nilucu
+12.16	remain, stay	uNDu
+12.21	collect, gather	uurcu
+12.21	collect, gather	eekam ceeyu
+12.21	collect, gather	kuuDakaTTukonu
+12.21	collect, gather	gumiguuDu
+12.21	collect, gather	samakuurcu
+12.21	collect, gather	samiikarincu
+12.21	collect, gather	seekarincu
+12.21	collect, gather	kuuDagaTTu
+12.212	pick up	andukonu
+12.212	pick up	ettukonu
+12.212	pick up	eeru
+12.213	pile up	peerukonu
+12.213	pile up	peercu
+12.213	pile up	raaśipooyu
+12.213	pile up	lagaayincu
+12.22	join, unite	aNTakaTTu
+12.22	join, unite	atikincu
+12.22	join, unite	anubandhincu
+12.22	join, unite	kalupu
+12.22	join, unite	muDiweeyu
+12.23	separate	paapu
+12.23	separate	wingaDincu
+12.23	separate	wiDagoTTu wiDadiiyu
+12.23	separate	wiDipoowu
+12.23	separate	wiDu
+12.23	separate	wibhajincu
+12.23	separate	weeru ceeyu
+12.23	separate	weeruparacu
+12.232	divide	andaceeyu
+12.232	divide	pancipeTTu
+12.232	divide	pancu
+12.232	divide	pampakam ceeyu
+12.232	divide	saddu
+12.24	open	teracu
+12.24	open	terucu
+12.24	open	wiccu
+12.24	open	wippu
+12.25	shut, close	kaTTiweeyu
+12.25	shut, close	kaTTeeyu
+12.25	shut, close	mukuLincu
+12.25	shut, close	muuyu
+12.26	cover	apawaarincu
+12.26	cover	aawarincu
+12.26	cover	kappi peTTu
+12.26	cover	kappu
+12.26	cover	kammu
+12.26	cover	kammukonu
+12.26	cover	muuyu
+12.27	hide, conceal	kammu
+12.27	hide, conceal	kammukonu
+12.27	hide, conceal	taladaacukonu
+12.27	hide, conceal	daakkonu
+12.27	hide, conceal	daagukonu
+12.27	hide, conceal	daagu
+12.27	hide, conceal	daacukonu
+12.27	hide, conceal	maruguparacu
+12.27	hide, conceal	marugunapeTTu
+12.31	high	uThaaNi
+12.31	high	uttaalam
+12.31	high	uttunga
+12.31	high	unnata
+12.31	high	ekkuwa
+12.31	high	poDagu
+12.31	high	poDawu
+12.31	high	poDugu
+12.31	high	poDuwu
+12.31	high	ettu
+12.33	top	agram
+12.33	top	upparam
+12.33	top	eguwa
+12.33	top	Taapu
+12.34	bottom	aDuguna
+12.35	end	antam
+12.35	end	antupontu
+12.35	end	antupantu
+12.35	end	miti
+12.35	end	civara
+12.352	pointed	koora
+12.353	edge	ancalam
+12.353	edge	ancu
+12.353	edge	upaantam
+12.353	edge	motta
+12.36	side	oora
+12.36	side	cempa
+12.36	side	taTTu
+12.36	side	daNDa
+12.36	side	dikku
+12.36	side	pakkam
+12.36	side	peDa
+12.36	side	wanka
+12.36	side	waara
+12.36	side	waypu
+12.37	middle, center	naDi
+12.37	middle, center	naDuma
+12.37	middle, center	boDDu
+12.37	middle, center	madhyam
+12.37	middle, center	mayam
+12.41	right (side)	kuDi
+12.42	left (side)	daapaTa
+12.42	left (side)	daapala
+12.42	left (side)	eDama
+12.43	near (adv)	upaanta
+12.43	near (adv)	cengaTa
+12.43	near (adv)	darigaa
+12.43	near (adv)	daapuna
+12.43	near (adv)	sannihita
+12.43	near (adv)	samiipa
+12.44	far (adv)	antala pontala
+12.44	far (adv)	suduura
+12.45	east	tuurpu
+12.45	east	tolidikku
+12.45	east	puurwam
+12.45	east	praacyam
+12.46	west	paDamaraM
+12.46	west	pascimam
+12.47	north	uttaram
+12.47	north	udiici
+12.48	south	dakSiNa
+12.48	south	dakSiNam
+12.53	grow	pencu
+12.54	measure	kolataweeyu
+12.54	measure	kolucu
+12.541	span, fathom	baara
+12.55	large, big	oDDu
+12.55	large, big	gaNDu
+12.55	large, big	doDDu
+12.55	large, big	bhaarii
+12.56	small, little	alpa
+12.56	small, little	koddi
+12.56	small, little	koddipaaTi
+12.56	small, little	kSudra
+12.56	small, little	ciTTi
+12.56	small, little	cituku
+12.56	small, little	cinna
+12.56	small, little	bucci
+12.56	small, little	bujji
+12.56	small, little	sunta
+12.56	small, little	suukSma
+12.56	small, little	swalpa
+12.56	small, little	hraswa
+12.57	long	uttaalam
+12.57	long	diirgha
+12.57	long	niDuda
+12.57	long	poDagu
+12.57	long	poDawu
+12.57	long	poDugu
+12.57	long	poDuwu
+12.57	long	sudiirgha
+12.58	tall	uttunga
+12.58	tall	poDagu
+12.58	tall	poDawu
+12.58	tall	poDugu
+12.58	tall	poDuwu
+12.59	short	kuruca
+12.59	short	kuraca
+12.59	short	poTTi
+12.61	wide, broad	Suwiśaala
+12.61	wide, broad	weDalpu
+12.62	narrow	iruku
+12.62	narrow	sankucita
+12.62	narrow	sanna
+12.63	thick (in dimension)	gahana[m]
+12.63	thick (in dimension)	daTTam
+12.63	thick (in dimension)	dappa
+12.63	thick (in dimension)	daLasari
+12.63	thick (in dimension)	saandra
+12.65	thin (in dimension)	arbhakam
+12.65	thin (in dimension)	Diilu
+12.65	thin (in dimension)	piila
+12.65	thin (in dimension)	wakki
+12.65	thin (in dimension)	sanna
+12.67	deep	nimna
+12.67	deep	lootu
+12.68	shallow	lootuleeni
+12.71	flat	cadunu
+12.73	straight	ṛju
+12.73	straight	niTaaru
+12.73	straight	tinnaga
+12.74	crooked	aSTaawakram
+12.74	crooked	kuncita
+12.74	crooked	kuTila
+12.74	crooked	wankara
+12.74	crooked	wakra
+12.74	crooked	wikaTa
+12.75	hook	onke
+12.75	hook	koNDi
+12.75	hook	kokkii
+12.75	hook	kokkem
+12.75	hook	koliki
+12.75	hook	wankii
+12.76	corner	kooNam
+12.76	corner	ceragu
+12.76	corner	muula
+12.77	cross	siluwa
+12.78	square	gaDi
+12.78	square	caturasram
+12.78	square	cadaram
+12.81	round	aaNi
+12.81	round	uNDa
+12.81	round	uNDram
+12.81	round	guNDu
+12.81	round	guNDra[m]
+12.81	round	guNDrani
+12.81	round	boNDu
+12.81	round	wartula
+12.81	round	walayaakaara
+12.81	round	wṛtta
+12.82	circle	cakram
+12.82	circle	walayam
+12.82	circle	wṛttam
+12.83	sphere, ball	uNTa
+12.83	sphere, ball	kandukam
+12.83	sphere, ball	gooLam
+12.84	line	ṛjureekha
+12.84	line	giiTu
+12.84	line	caara
+12.84	line	jiira
+12.85	hole	kanta
+12.85	hole	kranta
+12.85	hole	kannam
+12.85	hole	kalugu
+12.92	like, similar	anuruupa
+12.92	like, similar	tattulyam
+12.92	like, similar	tulita
+12.92	like, similar	diiTu
+12.93	change	tappincu
+12.93	change	maarcu
+12.93	change	maarcukonu
+12.93	change	maaripiDiceeyu
+13.1	one	daśa
+13.1	one	daśakam
+13.1	one	padi
+13.101	eleven	padakoNDu
+13.102	twelve	dwaadaśam
+13.102	twelve	paNDreNDu
+13.102	twelve	panneNDu
+13.103	fifteen	padiheenu
+13.104	twenty	iraway
+13.104	twenty	wimśati
+13.105	hundred	wanda
+13.105	hundred	śatam
+13.106	thousand	weyyi
+13.106	thousand	weeyi
+13.106	thousand	sahasram
+13.107	count	ennu
+13.107	count	ennukonu
+13.107	count	lekkaceeyu
+13.107	count	lekkapeTTu
+13.107	count	lekkincu
+13.14	every, all	antaa
+13.14	every, all	akhila
+13.14	every, all	akhila
+13.14	every, all	aśubhram
+13.14	every, all	ella
+13.14	every, all	tamaam
+13.14	every, all	nikhilam
+13.15	much, many	adhika
+13.15	much, many	aneeka
+13.15	much, many	caalaa
+13.15	much, many	jaasti
+13.15	much, many	naanaa
+13.15	much, many	padi
+13.15	much, many	palu
+13.15	much, many	pekku
+13.15	much, many	sphiitam
+13.15	much, many	bahu
+13.16	more	jaasti
+13.16	more	marinta
+13.16	more	lessa
+13.16	more	heccu
+13.16	more	heccugaa
+13.17	little (quantity), few	katipaya
+13.17	little (quantity), few	punjeDu
+13.17	little (quantity), few	konni
+13.18	enough	saripaDaa
+13.181	some	antoo intoo
+13.181	some	allanta
+13.181	some	eemaynaa
+13.181	some	eemannaa
+13.181	some	okinta
+13.181	some	katipaya
+13.181	some	kaasta
+13.181	some	koncem
+13.19	multitude, crowd	uccayam
+13.19	multitude, crowd	utkaram
+13.19	multitude, crowd	gumpu
+13.19	multitude, crowd	gumi
+13.19	multitude, crowd	janabaahuLyam
+13.19	multitude, crowd	T[h]oolaa
+13.19	multitude, crowd	tuugiDii
+13.19	multitude, crowd	tungiDii
+13.21	full	paripuurNa
+13.21	full	puurNa
+13.21	full	prapuurNa
+13.21	full	ninDu
+13.22	empty	abooru
+13.22	empty	utta
+13.22	empty	utti
+13.22	empty	waTTi
+13.22	empty	oTTi
+13.22	empty	rikta
+13.22	empty	śuunya
+13.23	part, piece	angam
+13.23	part, piece	amśa
+13.23	part, piece	awayawam
+13.23	part, piece	minjumala
+13.23	part, piece	wibhaagam
+13.24	half	adda
+13.24	half	ara
+13.24	half	ardha
+13.24	half	sagam
+13.24	half	saham
+13.33	alone, only	keewalam
+13.34	first	agra
+13.34	first	uttama
+13.34	first	toli
+13.34	first	modaTi
+13.35	last	antima
+13.35	last	antya
+13.35	last	aakharu
+13.35	last	kaDa
+13.35	last	kona
+13.35	last	carama
+13.35	last	ciwara
+13.35	last	ciwari
+13.35	last	tuTTatudi
+13.35	last	tuTTatuda
+13.35	last	tudi
+13.36	second	dwitiiya
+13.36	second	mali
+13.36	second	malu
+13.36	second	renDawa
+13.37	pair	jaNTa
+13.37	pair	jata
+13.37	pair	jooDaa
+13.37	pair	jooDii
+13.37	pair	jooDu
+13.37	pair	dwandwam
+13.37	pair	sangaDi
+13.37	pair	iruwuru
+13.38	two times	inumaaru
+13.38	two times	renDu saarlu
+13.42	third	tṛtiiya
+13.42	third	muuDoo
+13.44	three times	MubbaDi
+13.44	three times	muuDu saarlu
+14.11	time	taDawu
+14.11	time	tEEpa
+14.12	age	mahaayugam
+14.12	age	yugam
+14.13	new	kotta
+14.13	new	krotta
+14.13	new	taruNa
+14.14	young	koNDika
+14.14	young	kooDe
+14.14	young	ciTTi
+14.14	young	cinna
+14.14	young	cinnakaaru
+14.14	young	paDucu
+14.14	young	yawwana
+14.15	old	jiirNa
+14.15	old	mudi
+14.15	old	mudusali
+14.15	old	musali
+14.16	early	pendaraaLee
+14.16	early	pendaraaDee
+14.16	early	pendalaaDee
+14.16	early	pendalakaDa
+14.16	early	p[r]oddunnanee
+14.17	late	aalasyam
+14.18	now	ippuDu
+14.18	now	iipaTTu[na]
+14.18	now	iisariki
+14.19	immediately	grakkuna
+14.19	immediately	sadyaḥ
+14.19	immediately	wenTanee
+14.21	swift, fast, quick	cakacaka
+14.21	swift, fast, quick	cekaceka
+14.21	swift, fast, quick	tiiwra
+14.21	swift, fast, quick	twaragaa
+14.21	swift, fast, quick	twarita
+14.21	swift, fast, quick	wisawisa
+14.21	swift, fast, quick	wayLam
+14.21	swift, fast, quick	śiighra
+14.22	slow	manda
+14.22	slow	mella
+14.23	hasten, hurry	cekapikalaaDu
+14.23	hasten, hurry	takatakalaaDu
+14.23	hasten, hurry	tahatahapeTTu
+14.23	hasten, hurry	tondarapaDu
+14.23	hasten, hurry	weegirapaDu
+14.24	retard, delay	aalasyamgaa
+14.25	begin, beginning	andukonu
+14.25	begin, beginning	aarambhincu
+14.25	begin, beginning	awpoosanapaTTu
+14.25	begin, beginning	talapaDu
+14.25	begin, beginning	talapeTTu
+14.25	begin, beginning	praarambham awu
+14.25	begin, beginning	modalawu
+14.25	begin, beginning	lankincu
+14.25	begin, beginning	śriikaaram cuTTu
+14.252	last, endure	uNDu
+14.252	last, endure	nilucu
+14.252	last, endure	mannu
+14.26	end (temporal)	antu
+14.26	end (temporal)	awasaanam
+14.26	end (temporal)	kaDa
+14.27	finish	temulcukonu
+14.27	finish	puurti ceeyu
+14.27	finish	mugincu
+14.28	cease, stop	eDatiiyu
+14.28	cease, stop	eDategu
+14.28	cease, stop	eDapaDu
+14.28	cease, stop	tolagu
+14.28	cease, stop	wiramincu[konu]
+14.29	ready	aayatta
+14.29	ready	udyukta
+14.29	ready	tayaaru
+14.29	ready	sannaddham
+14.31	always	anayam
+14.31	always	anawaratam
+14.31	always	eppaTikii
+14.31	always	eppuDuu
+14.31	always	nityam
+14.31	always	sadaa
+14.32	often	padee padee
+14.33	sometimes	appuDappuDu
+14.331	soon	dabbuna
+14.331	soon	tondaraloo
+14.332	long-time (for a)	kalakaalam
+14.332	long-time (for a)	cirasthaayigaa
+14.34	never	ennaDuu
+14.34	never	eppaTikii
+14.34	never	eppuDuu
+14.35	again	krammara
+14.35	again	weNDi
+14.35	again	weNDiyu
+14.35	again	marala
+14.35	again	maLLii
+14.41	day	pagalu
+14.42	night	yaamini
+14.42	night	rajani
+14.42	night	raatri
+14.42	night	reeyi
+14.42	night	wibhaawari
+14.43	dawn	uSa[ssu]
+14.43	dawn	niśaantam
+14.43	dawn	pratyuuSa
+14.43	dawn	prabhaata[m]
+14.43	dawn	wibhaatam
+14.43	dawn	weekuwa[jaamu]
+14.44	morning	udayam
+14.45	noon, midday	madhyaahnam
+14.45	noon, midday	madhyaannam
+14.451	afternoon	aparaahnam
+14.451	afternoon	waalupoddu
+14.46	evening	asurasandhya
+14.46	evening	asurasanje
+14.46	evening	astamaanam
+14.46	evening	maapu
+14.46	evening	saayantram
+14.47	today	iwwEELa
+14.47	today	iweeLa
+14.47	today	iinaaDu
+14.47	today	iiwEELa
+14.47	today	iiweeLa
+14.47	today	neeDu
+14.48	tomorrow	reepu
+14.481	day-after-tomorrow	elluNDi
+14.49	yesterday	ninna
+14.491	day-before-yesterday	monna
+14.51	hour	hoora
+14.51	hour	ganTa
+14.53	clock, timepiece	GhaTiikaaram
+14.53	clock, timepiece	gaDiyaaram
+14.61	week	saptaaham
+14.61	week	waaram
+14.62	Sunday	aadiwaaram
+14.62	Sunday	bhaanuwaaram
+14.63	Monday	soomawaaram
+14.64	Tuesday	angaarakawaaram
+14.64	Tuesday	mangaLawaaram
+14.65	Wednesday	budhawaaram
+14.66	Thursday	guruwaaram
+14.66	Thursday	bṛhaspatiwaaram
+14.66	Thursday	lakSmiiwaaram
+14.67	Friday	śukrawaaram
+14.68	Saturday	mandawaaram
+14.68	Saturday	sthirawaaram
+14.68	Saturday	śaniwaaram
+14.71	month	maasam
+14.71	month	nela
+14.73	year	eeDu
+14.73	year	samwastaram
+14.73	year	eeDadi
+14.74	winter	śiita[a]kaalam
+14.74	winter	siitu
+14.74	winter	heemantam
+14.74	winter	cali kaalam
+14.75	spring	aamani
+14.76	summer	eNDakaalam
+14.77	autumn	śaratkaalam
+14.77	autumn	saradṛtuwu
+14.77	autumn	śarattu
+14.78	season	adanu
+14.78	season	aawrtti
+14.78	season	kaalam
+14.78	season	taDawa
+14.78	season	tari
+14.78	season	taruNam
+14.78	season	tuuku
+14.78	season	ṛutuwu
+15.21	smell (vb intrans)	aaghraaNincu
+15.21	smell (vb intrans)	taawikonu
+15.212	sniff	egapiilcu[konu]
+15.212	sniff	muucuucu
+15.22	smell (vb trans)	adanu
+15.22	smell (vb trans)	aawrtti
+15.22	smell (vb trans)	kaalam
+15.22	smell (vb trans)	taDawa
+15.22	smell (vb trans)	tari
+15.22	smell (vb trans)	taruNam
+15.22	smell (vb trans)	tuuku
+15.25	fragrant, good smelling	sawgandhika
+15.25	fragrant, good smelling	suwaasana
+15.26	stinking, bad smelling	kuLLina
+15.31	taste	aaswaadincu
+15.31	taste	cawicuucu
+15.31	taste	rucicuucu
+15.35	sweet	tiipi
+15.35	sweet	madhura
+15.35	sweet	tiiya
+15.36	salty	uppani
+15.36	salty	cawiTi
+15.37	bitter	ceedu
+15.38	acid, sour	puli
+15.41	hear	winu
+15.42	listen	awadharincu
+15.42	listen	aakarNinc
+15.42	listen	aalakincu
+15.44	sound, noise	alikiDi
+15.44	sound, noise	caDi
+15.44	sound, noise	cappuDu
+15.44	sound, noise	dhwaanam
+15.44	sound, noise	rawam
+15.44	sound, noise	roda
+15.44	sound, noise	śabdam
+15.44	sound, noise	saDi
+15.44	sound, noise	saddu
+15.45	loud	baahaaTam
+15.45	loud	gaTTigaa
+15.46	quiet, silence	nemmadi
+15.46	quiet, silence	nemmadi
+15.51	see	arayu
+15.51	see	aarayu
+15.51	see	aalookincu
+15.51	see	kaanu
+15.51	see	cuucu
+15.51	see	darśincu
+15.51	see	wilookincu
+15.52	look, look at	vetuku
+15.55	show	aguparacu
+15.55	show	awparacu
+15.55	show	goocarincu
+15.55	show	cuupincu
+15.55	show	cuupeTTu
+15.55	show	talacuupu
+15.56	shine	ullasincu
+15.56	shine	jwalincu
+15.56	shine	tanaru
+15.56	shine	tiiNDrincu
+15.56	shine	diipincu
+15.56	shine	nigaarincu
+15.56	shine	prakaaśincu
+15.56	shine	raajillu
+15.56	shine	raaNincu
+15.56	shine	wibhaasincu
+15.56	shine	wira[a]jillu
+15.56	shine	wilasillu
+15.56	shine	welayincu
+15.56	shine	welaarcu
+15.56	shine	welugu
+15.56	shine	welugondu
+15.56	shine	śoobhincu
+15.56	shine	śoobhillu
+15.57	bright	ujjwala
+15.57	bright	cikili
+15.57	bright	teejita
+15.57	bright	pacca
+15.57	bright	prakaaśawanta
+15.57	bright	wibhaata
+15.57	bright	śoobhana
+15.57	bright	snigdha
+15.61	color	caaya
+15.61	color	chaaya
+15.61	color	wanne
+15.61	color	warNam
+15.61	color	rangu
+15.62	light (in color)	cawTa
+15.62	light (in color)	leeta
+15.63	dark (in color)	ceekaTi
+15.64	white	arjuna
+15.64	white	ella
+15.64	white	teli
+15.64	white	tella
+15.64	white	dhawaLa
+15.64	white	dhawaLa
+15.64	white	śweeta
+15.65	black	karri
+15.65	black	kaaLa
+15.65	black	kaala
+15.65	black	nalupu
+15.65	black	malina
+15.65	black	malina
+15.65	black	kaaru
+15.66	red	aruNa
+15.66	red	kaSaayi
+15.66	red	kaawi
+15.66	red	kaawi
+15.66	red	erupu
+15.67	blue	niilam
+15.68	green	pasirika
+15.68	green	pasarika
+15.68	green	harita
+15.68	green	pacca
+15.69	yellow	koNDagoogu
+15.69	yellow	pasupupacca
+15.69	yellow	piita
+15.69	yellow	piiti
+15.71	touch	aNTu
+15.71	touch	taDawu
+15.71	touch	puNuku
+15.71	touch	puDuku
+15.71	touch	muTTincukonu
+15.71	touch	samspṛśincu
+15.71	touch	sparśincu
+15.71	touch	spṛśincu
+15.712	pinch	giccu
+15.712	pinch	gillu
+15.72	feel	taDawu
+15.74	hard	gaTTi
+15.74	hard	dṛDha
+15.75	soft	gulla
+15.75	soft	mṛdula
+15.75	soft	mṛduwu
+15.75	soft	metta
+15.76	rough	cittu
+15.77	smooth	nunu
+15.77	smooth	nunupu
+15.77	smooth	nunna
+15.77	smooth	mṛduwu
+15.78	sharp	karaku
+15.78	sharp	koosu
+15.78	sharp	waaDi
+15.79	blunt, dull	booDi
+15.79	blunt, dull	moNDi
+15.79	blunt, dull	mokka
+15.79	blunt, dull	moddu
+15.79	blunt, dull	mooTu
+15.81	heavy	uddhura
+15.81	heavy	gariSTa
+15.81	heavy	baruwu
+15.81	heavy	baLuwu
+15.81	heavy	baluwu
+15.83	wet, damp	aardra
+15.83	wet, damp	cittaDi
+15.83	wet, damp	taDi
+15.83	wet, damp	naanuDu
+15.83	wet, damp	saardra
+15.85	hot	uDuku
+15.85	hot	uSNam
+15.85	hot	tiikSNa
+15.85	hot	wecca
+15.85	hot	weeDi
+15.851	warm	uSNam
+15.851	warm	wecca
+15.851	warm	weeDi
+15.86	cold	cali
+15.86	cold	caluwa
+15.86	cold	calawa
+15.86	cold	calla
+15.86	cold	śiita
+15.86	cold	śiitala
+15.87	clean	nirmala
+15.87	clean	pariśuddha
+15.87	clean	pariśubhra
+15.87	clean	pawitra
+15.87	clean	paawana
+15.87	clean	śuddha
+15.88	dirty, soiled	apariśuddha
+15.88	dirty, soiled	aśuci
+15.88	dirty, soiled	engili
+15.88	dirty, soiled	makila
+15.88	dirty, soiled	muriki
+15.89	wrinkled	muDatalu paDDa
+16.11	soul, spirit	antaraatma
+16.11	soul, spirit	antaryaami
+16.11	soul, spirit	aatma
+16.11	soul, spirit	kSeetrajñuDu
+16.11	soul, spirit	jiiwaatma
+16.11	soul, spirit	hamsa[m]
+16.15	surprised, astonished	cakita
+16.15	surprised, astonished	wismayam
+16.15	surprised, astonished	aaścaryam
+16.18	good fortune, luck	adṛSTam
+16.18	good fortune, luck	daśa
+16.18	good fortune, luck	bhaagyam
+16.19	misfortune, bad luck	karmawaśaattuu
+16.19	misfortune, bad luck	duradṛSTam
+16.19	misfortune, bad luck	dawrbhaagyam
+16.23	joyful, glad, happy	kulaasaa
+16.23	joyful, glad, happy	khulaasaa
+16.23	joyful, glad, happy	kuśala
+16.23	joyful, glad, happy	kSeemam
+16.23	joyful, glad, happy	nimmaLam
+16.23	joyful, glad, happy	prasanna
+16.23	joyful, glad, happy	śubha
+16.23	joyful, glad, happy	santooSangala
+16.25	laugh	nagu
+16.25	laugh	nawwu
+16.25	laugh	hasincu
+16.251	smile	nawwu
+16.251	smile	mandahaasam ceeyu
+16.26	play	aaTalaaDu
+16.26	play	aaDu
+16.26	play	caralaaDu
+16.26	play	ceralaaDu
+16.27	love	abhimaanincu
+16.27	love	preemincu
+16.27	love	walacu
+16.29	kiss	cumbincu
+16.29	kiss	muddaaDu
+16.29	kiss	muddupeTTukonu
+16.29	kiss	muddiDu
+16.29	kiss	muddulaaDu
+16.3	embrace	aaśleeSincu
+16.3	embrace	kaawalincu
+16.3	embrace	kaawilincu
+16.3	embrace	kawgilincu
+16.3	embrace	podugu
+16.31	pain	tiita
+16.31	pain	tiipi
+16.31	pain	nowwu
+16.31	pain	noppi
+16.31	pain	yaatana
+16.31	pain	weedana
+16.31	pain	wyadha
+16.32	grief, sorrow, sadness	aTamaTa
+16.32	grief, sorrow, sadness	aandooLana
+16.32	grief, sorrow, sadness	aarti
+16.32	grief, sorrow, sadness	aaweedana
+16.32	grief, sorrow, sadness	udila
+16.32	grief, sorrow, sadness	kinca
+16.32	grief, sorrow, sadness	kSoobha
+16.32	grief, sorrow, sadness	kheedam
+16.32	grief, sorrow, sadness	gooDu
+16.32	grief, sorrow, sadness	glaani
+16.32	grief, sorrow, sadness	cinta
+16.32	grief, sorrow, sadness	digulu
+16.32	grief, sorrow, sadness	digaalu
+16.32	grief, sorrow, sadness	duḥkham
+16.32	grief, sorrow, sadness	nirweedam
+16.32	grief, sorrow, sadness	nirweedana
+16.32	grief, sorrow, sadness	baamu
+16.32	grief, sorrow, sadness	wanta
+16.32	grief, sorrow, sadness	waga
+16.33	anxiety, worry	aadurdaa
+16.33	anxiety, worry	aaraaTam
+16.33	anxiety, worry	udweegam
+16.33	anxiety, worry	udweejanam
+16.33	anxiety, worry	kangaaru
+16.33	anxiety, worry	khangaaru
+16.33	anxiety, worry	kalawaram
+16.33	anxiety, worry	tahataha
+16.33	anxiety, worry	taapatrayam
+16.33	anxiety, worry	digulu
+16.33	anxiety, worry	digaalu
+16.34	regret, be sorry	noccukonu
+16.34	regret, be sorry	pastaayincu
+16.34	regret, be sorry	baadha paDu
+16.34	regret, be sorry	wyasanapaDu
+16.35	pity	kanikaram
+16.35	pity	kanikaaram
+16.35	pity	karuNa
+16.35	pity	kaaruNyam
+16.35	pity	kṛpa
+16.35	pity	jaali
+16.35	pity	daya
+16.37	cry, weep	EeDcu
+16.37	cry, weep	eeDupu
+16.38	tear (noun)	aśruwu
+16.38	tear (noun)	kanniiru
+16.38	tear (noun)	cinugu
+16.38	tear (noun)	cirugu
+16.38	tear (noun)	baaSpam
+16.39	groan	muul[u]gu
+16.41	hate	asahyincu
+16.41	hate	iisaDincu
+16.41	hate	eewagincu
+16.41	hate	kaNTagincu
+16.41	hate	dweeSincu
+16.41	hate	widweeSincu
+16.42	anger	akkasu
+16.42	anger	alaka
+16.42	anger	aakroośam
+16.42	anger	iisu
+16.42	anger	ukrooSam
+16.44	envy, jealousy	asuuya
+16.44	envy, jealousy	iDugaDa
+16.44	envy, jealousy	iirSya
+16.44	envy, jealousy	iisu
+16.44	envy, jealousy	uuda
+16.44	envy, jealousy	oorwami
+16.44	envy, jealousy	oorwaleenitanam
+16.44	envy, jealousy	kuLLu
+16.44	envy, jealousy	cuupoopami
+16.44	envy, jealousy	dugdha
+16.44	envy, jealousy	durdha
+16.45	shame (noun)	awamaanam
+16.45	shame (noun)	apamaanam
+16.45	shame (noun)	eggu
+16.45	shame (noun)	cinnatanam
+16.45	shame (noun)	talawampu
+16.45	shame (noun)	b[h]ajiitu
+16.45	shame (noun)	biDiyam
+16.45	shame (noun)	lajja
+16.48	proud	ahankaari
+16.48	proud	udgriiwuDu
+16.48	proud	garwiSTi
+16.51	dare	tegabaDu
+16.51	dare	tegabaaru
+16.51	dare	tegincu
+16.51	dare	saahasincu
+16.52	brave	gaNDu
+16.52	brave	dhiira
+16.53	fear, fright	adaru bedaru
+16.53	fear, fright	aadurdaa
+16.53	fear, fright	udweegam
+16.53	fear, fright	janku
+16.53	fear, fright	jaDupu
+16.53	fear, fright	toNukubeNuku
+16.53	fear, fright	pangu
+16.53	fear, fright	biitu
+16.53	fear, fright	beduru
+16.53	fear, fright	bedaru
+16.53	fear, fright	bhiiti
+16.53	fear, fright	wera[pu]
+16.53	fear, fright	weracu
+16.53	fear, fright	bhayam
+16.54	danger	apaayam
+16.62	desire, want	tala[n]cu
+16.622	choose	encu
+16.622	choose	empikaceeyu
+16.622	choose	ennukonu
+16.622	choose	eerukonu
+16.622	choose	warincu
+16.622	choose	warincu
+16.622	choose	swiikarincu
+16.63	hope	aaśincu
+16.63	hope	aasakonu
+16.65	faithful	wiśwaasangala
+16.66	true	awyaajya
+16.66	true	asalu
+16.66	true	asalu sisalu
+16.66	true	ṛtam
+16.66	true	tathyam
+16.66	true	tadhyam
+16.66	true	taatwika
+16.66	true	nija[mayna]
+16.66	true	nirwyaajya
+16.66	true	waastawika
+16.66	true	satya
+16.68	deceit	kapaTam
+16.68	deceit	chadma
+16.68	deceit	chalam
+16.68	deceit	taTamaTa
+16.68	deceit	dambham
+16.68	deceit	buuTakam
+16.68	deceit	bheeSajam
+16.68	deceit	maaya
+16.68	deceit	moosam
+16.68	deceit	wancana[m]
+16.68	deceit	weeDabam
+16.68	deceit	wyaajam
+16.69	forgive	oorcu
+16.69	forgive	mannincu
+16.71	good	puNya
+16.71	good	baagu
+16.71	good	manci
+16.71	good	lessa
+16.71	good	saadu
+16.71	good	saadhu
+16.71	good	suSTu
+16.71	good	hita
+16.72	bad	adhwaanam
+16.72	bad	adhwaannam
+16.72	bad	ardhaannam
+16.72	bad	apuNya
+16.72	bad	apraśasta
+16.72	bad	kacaDaa
+16.72	bad	kaani
+16.72	bad	kharaabu
+16.72	bad	ceDu
+16.72	bad	ceDugu
+16.72	bad	ceDDa
+16.73	right, correct	niiti
+16.74	wrong	adharma[m]
+16.74	wrong	anarthadaayaka
+16.74	wrong	ayukta
+16.74	wrong	kacaDaa
+16.74	wrong	tappu
+16.74	wrong	tappuDu
+16.74	wrong	porapaaTu
+16.76	fault	agaDu
+16.76	fault	aparaadha[m]
+16.76	fault	chidram
+16.76	fault	tappitam
+16.76	fault	tappidam
+16.76	fault	tappu
+16.76	fault	dooSam
+16.76	fault	losugu
+16.76	fault	soDDu
+16.77	mistake, error	tappu
+16.77	mistake, error	dosagu
+16.77	mistake, error	dooSam
+16.77	mistake, error	nerasu
+16.77	mistake, error	neerami
+16.77	mistake, error	porapaaTu
+16.77	mistake, error	skhaalityam
+16.78	blame	agaDu
+16.78	blame	iisaDam
+16.78	blame	upakroośam
+16.78	blame	tegaDika
+16.78	blame	ninda
+16.78	blame	nepam
+16.79	praise	pogaDika
+16.79	praise	pogaDta
+16.79	praise	praśamsa
+16.79	praise	prastuti
+16.79	praise	bhuuSaNa
+16.79	praise	bhuuSincu
+16.79	praise	meccukoolu
+16.79	praise	meppu
+16.79	praise	sannuti
+16.79	praise	stootram
+16.81	beautiful	andaala
+16.81	beautiful	cakka
+16.81	beautiful	caaru
+16.81	beautiful	jaanu
+16.81	beautiful	nawakam
+16.81	beautiful	manjula
+16.81	beautiful	miTaarapu
+16.81	beautiful	sogasu
+16.81	beautiful	sooyagapu
+16.82	ugly	anaakaara
+16.82	ugly	aparuupa
+16.82	ugly	ebbeTTu
+16.82	ugly	wikaTa
+16.82	ugly	wikaara
+16.83	greedy	kaDupaatram
+16.83	greedy	lubdha
+16.84	clever	kuśala
+16.84	clever	gaDusu
+16.84	clever	teliwayna
+16.84	clever	paTu[wu]
+17.11	mind	antaḥkaraNa[m]
+17.11	mind	antarangam
+17.11	mind	aantaryam
+17.11	mind	ullam
+17.11	mind	eda
+17.11	mind	cittam
+17.11	mind	Dendam
+17.11	mind	madi
+17.11	mind	manam
+17.11	mind	maanasam
+17.13	think (= reflect)	anukonu
+17.13	think (= reflect)	aaloocincu
+17.13	think (= reflect)	uuhincu
+17.13	think (= reflect)	cintincu
+17.13	think (= reflect)	cintillu
+17.13	think (= reflect)	tala[n]cu
+17.13	think (= reflect)	talapooyu
+17.14	think (= be of the opinion)	anukonu
+17.14	think (= be of the opinion)	aaloocincu
+17.14	think (= be of the opinion)	uuhincu
+17.14	think (= be of the opinion)	ennu
+17.14	think (= be of the opinion)	tala[n]cu
+17.14	think (= be of the opinion)	talapooyu
+17.15	believe	nammapaluku
+17.15	believe	nammu
+17.16	understand	artham ceesukonu
+17.16	understand	awagatam ceesukonu
+17.16	understand	grahincu
+17.17	know	arayu
+17.17	know	aarayu
+17.17	know	aakaLimpu ceesukonu
+17.17	know	telusukonu
+17.171	guess	ujjakonu
+17.171	guess	ujjaayincu
+17.171	guess	uuhincu
+17.171	guess	uuhincukonu
+17.172	imitate	anukarincu
+17.18	seem	kanipincu
+17.18	seem	anipincu
+17.19	idea, notion	uddeeśam
+17.19	idea, notion	uuha
+17.19	idea, notion	prasanna
+17.19	idea, notion	prasannuDu
+17.19	idea, notion	prasarincu
+17.19	idea, notion	prasawam
+17.19	idea, notion	prasawincu
+17.19	idea, notion	prasaadincu
+17.19	idea, notion	prasaaram
+17.19	idea, notion	prasaara
+17.19	idea, notion	prasiddhaartham
+17.19	idea, notion	prasiddhiki ekku
+17.19	idea, notion	prasuuti
+17.19	idea, notion	prasuutigrham
+17.19	idea, notion	prasuunam
+17.19	idea, notion	prastaawana
+17.19	idea, notion	prastaawana
+17.19	idea, notion	prastuta
+17.19	idea, notion	prastutam
+17.19	idea, notion	prastuti
+17.19	idea, notion	prastutincu
+17.19	idea, notion	prastham
+17.19	idea, notion	prasthaanam
+17.19	idea, notion	prasthaanam
+17.19	idea, notion	prasthaanincu
+17.19	idea, notion	prasphuTa
+17.19	idea, notion	prasphooTanam
+17.19	idea, notion	praswanam
+17.19	idea, notion	prahari[gooDa]
+17.19	idea, notion	praharSam
+17.19	idea, notion	prahasanam
+17.19	idea, notion	prahaaram
+17.19	idea, notion	praheeLi[ka]
+17.19	idea, notion	prahlaadam
+17.19	idea, notion	buddhi
+17.19	idea, notion	bhaawam
+17.19	idea, notion	matam
+17.21	wise	buddhigala
+17.21	wise	wiweekangala
+17.22	foolish, stupid	awiweeka
+17.22	foolish, stupid	cawaTa
+17.22	foolish, stupid	jaDa
+17.22	foolish, stupid	jaDDi
+17.22	foolish, stupid	teliwitakkuwa
+17.22	foolish, stupid	buddhitakkuwa
+17.22	foolish, stupid	buddhileeni
+17.22	foolish, stupid	manda
+17.22	foolish, stupid	muurkha
+17.23	insane, crazy	unmatta[m]
+17.23	insane, crazy	picci
+17.24	learn	abhyasana
+17.24	learn	telusukonu
+17.24	learn	paThincu
+17.24	learn	boodhaparacukonu
+17.24	learn	walleweeyu
+17.24	learn	wallincu
+17.24	learn	neercukonu
+17.242	study	adhyayanam ceeyu
+17.242	study	adhyayanincu
+17.242	study	caduwukonu
+17.25	teach	upadeeśincu
+17.25	teach	karapu
+17.25	teach	karupu
+17.25	teach	garupu
+17.25	teach	neerpincu
+17.25	teach	boodhakuDu
+17.25	teach	mappu
+17.26	pupil	śiSyuDu
+17.26	pupil	vidyaarthi
+17.27	teacher	adhyaapakuDu
+17.27	teacher	ayyawaaru
+17.27	teacher	upadeeSTa
+17.27	teacher	guruwu
+17.28	school	paaThaśaala
+17.28	school	baDi
+17.31	remember	smarincu
+17.31	remember	gurtu teccukonu
+17.32	forget	eemarcu
+17.32	forget	maracu
+17.34	clear, plain	tellam
+17.34	clear, plain	teeTa
+17.34	clear, plain	teeTatellam
+17.34	clear, plain	dhawaLa
+17.34	clear, plain	nirmala
+17.34	clear, plain	niSkalanka
+17.34	clear, plain	niSkaLanka
+17.34	clear, plain	parisphuTa
+17.34	clear, plain	pratyakSa
+17.34	clear, plain	widita
+17.34	clear, plain	wiśada
+17.34	clear, plain	wyaktam
+17.35	obscure	ciikaTi
+17.35	obscure	makila
+17.36	secret	gupta
+17.36	secret	guuDha
+17.36	secret	guuDham
+17.36	secret	pracchanna
+17.36	secret	rahasya
+17.36	secret	loopaayakaarii
+17.37	sure, certain	tathyam
+17.37	sure, certain	tadhyam
+17.37	sure, certain	nirdiSTa
+17.37	sure, certain	niścaya
+17.38	explain	upanyasincu
+17.38	explain	boodha ceeyu
+17.38	explain	wipuliikarincu
+17.38	explain	ardha parucu
+17.41	intention, purpose	abhipraayam
+17.41	intention, purpose	aaśayam
+17.41	intention, purpose	ingitam
+17.41	intention, purpose	uddeeśam
+17.41	intention, purpose	taatparyam
+17.41	intention, purpose	pharaku
+17.41	intention, purpose	manoogatam
+17.41	intention, purpose	wiwakSa
+17.42	cause	upapatti
+17.42	cause	katam
+17.42	cause	kaaraNam
+17.42	cause	nidaanam
+17.42	cause	nimittam
+17.42	cause	sababu
+17.42	cause	heetuwu
+17.43	doubt	awiśwaasam
+17.43	doubt	aaśanka
+17.43	doubt	gili
+17.43	doubt	wicikitsa
+17.43	doubt	witarkam
+17.43	doubt	śanka
+17.43	doubt	sandigdha[m]
+17.43	doubt	sandiyam
+17.43	doubt	sandeeham
+17.43	doubt	samśayam
+17.44	suspect	anumaanapaDu
+17.44	suspect	anumaanincu
+17.44	suspect	śankincu
+17.44	suspect	sandeehincu
+17.44	suspect	samśayincu
+17.45	need, necessity	akkara
+17.45	need, necessity	agatyam
+17.45	need, necessity	awaśyakam
+17.45	need, necessity	awaśyakata
+17.45	need, necessity	awasaram
+17.45	need, necessity	aawaśyakam
+17.45	need, necessity	aawaśyakata
+17.45	need, necessity	garaju
+17.45	need, necessity	garju
+17.46	easy	teelika
+17.46	easy	nistantram
+17.46	easy	sukha
+17.46	easy	sulabha[m]
+17.47	difficult	kaThina
+17.47	difficult	kaSTam
+17.47	difficult	kaani
+17.47	difficult	gaDDu
+17.47	difficult	goTTu
+17.47	difficult	duSkara
+17.48	try, attempt	unkincu
+17.48	try, attempt	paTTi cuucu
+17.48	try, attempt	prayatnincu
+17.48	try, attempt	yatnincu
+17.49	way, manner	karaNi
+17.49	way, manner	kramapaddhati
+17.49	way, manner	candam
+17.49	way, manner	Theewa
+17.49	way, manner	tariikha
+17.49	way, manner	tiiru
+17.51	and	mariyu
+17.52	because	kaaraNangaa
+17.53	if	ayte
+17.54	or	leeka
+17.55	yes, affirmative	awnu
+17.55	yes, affirmative	walle
+17.56	no, negative	waddu
+17.61	how?	elaa
+17.62	how many?	enni
+17.63	how much?	enta
+17.64	what?	eem
+17.64	what?	eemi[Ti]
+17.65	when?	eppuDu
+17.66	where?	eTa
+17.66	where?	eedi
+17.66	where?	ekkaDa
+17.67	which?	eevi
+17.68	who?	ewaru
+17.69	why?	en[du]ceeta
+17.69	why?	enduku
+18.11	voice	dhwani
+18.11	voice	swaram
+18.12	sing	aalapincu
+18.12	sing	paaDu
+18.13	shout, cry out	arucu
+18.13	shout, cry out	aruwu
+18.13	shout, cry out	aaghooSincu
+18.13	shout, cry out	keekapeTTu
+18.13	shout, cry out	bobbarincu
+18.15	whisper	uudu
+18.15	whisper	gusagusalaaDu
+18.16	mumble	kotuku
+18.17	whistle	iila koTTu
+18.17	whistle	iila weeyu
+18.17	whistle	uuyu
+18.19	howl	uula
+18.21	speak, talk	bhaaSincu
+18.21	speak, talk	maaTLaaDu
+18.211	stutter, stammer	nattu
+18.22	say	anipincu
+18.22	say	wacincu
+18.22	say	waakonu
+18.221	tell story	telupu
+18.222	speech (make a)	upanyaasam
+18.222	speech (make a)	prasangam
+18.23	silent (be)	uurukonu
+18.24	language	baasa
+18.24	language	bhaaSa
+18.26	word	nuDi
+18.26	word	padam
+18.26	word	śabdam
+18.28	name	peeru
+18.28	name	naamadheeyam
+18.28	name	naamam
+18.31	ask (question, inquire)	aDugu
+18.31	ask (question, inquire)	kooru
+18.32	answer	andukonu
+18.32	answer	maarumaaTLaaDu
+18.33	admit, confess	angiikarincu
+18.34	deny	apalapincu
+18.34	deny	kaadanu
+18.35	ask, request	arthincu
+18.35	ask, request	kooru
+18.36	promise	baasaceeyu
+18.36	promise	maaTivvu
+18.37	refuse	kaadanu
+18.37	refuse	kaaladannu
+18.37	refuse	moraayincu
+18.38	forbid	niSeedhincu
+18.38	forbid	pratiSeedhincu
+18.38	forbid	waarincu
+18.39	rebuke, scold	aaraDipeTTu
+18.39	rebuke, scold	kasaru
+18.39	rebuke, scold	gadamaayincu
+18.39	rebuke, scold	gadumu
+18.39	rebuke, scold	ciiwaaTLu peTTu
+18.39	rebuke, scold	ciiwaaTLu weeyu
+18.39	rebuke, scold	ceDanaaDu
+18.39	rebuke, scold	durbhaaSalaaDu
+18.41	call (=summon)	anu
+18.41	call (=summon)	keekaweeyu
+18.42	call (=name)	piluwu
+18.43	announce	wellaDi ceeyu
+18.43	announce	wellaDincu
+18.44	threaten	dengulupeTTu
+18.45	boast	kootalu kooyu
+18.45	boast	gappaalukoTTu
+18.51	write	bakkuru
+18.51	write	racincu
+18.51	write	raayu
+18.51	write	wraayu
+18.51	write	raasukonu
+18.51	write	likhincu
+18.52	read	caduwu
+18.52	read	caduwukonu
+18.52	read	paThincu
+18.56	paper	kaagitam
+18.56	paper	kaayitam
+18.56	paper	kaakitam
+18.56	paper	patram
+18.57	pen	kalam
+18.57	pen	peenaa
+18.57	pen	leekhini
+18.61	book	pustakam
+18.67	poet	ana
+18.67	poet	kawi
+18.71	flute	kroowi
+18.71	flute	pillan[a]groowi
+18.71	flute	muraLi
+18.71	flute	wamśi
+18.71	flute	weeNuwu
+18.72	drum	DiNDima
+18.72	drum	Dappu
+18.73	horn, trumpet	kaahaLa[m]
+18.73	horn, trumpet	tuutuubaakaa
+18.73	horn, trumpet	baakaa
+18.73	horn, trumpet	buuraa
+18.73	horn, trumpet	śṛngam
+18.74	rattle	gilaka
+18.74	rattle	gilakkaaya
+19.11	country	gaDDa
+19.11	country	geDDa
+19.11	country	deeśam
+19.11	country	naaDu
+19.11	country	siima
+19.12	one's native country	janmabhuumi
+19.15	city, town	paTTaNam
+19.15	city, town	paTNam
+19.15	city, town	bastii
+19.15	city, town	wiiDu
+19.16	village	uuru
+19.16	village	guuDem
+19.16	village	palle
+19.17	boundary	awadhi
+19.17	boundary	ella
+19.17	boundary	mandala
+19.17	boundary	sarihaddu
+19.17	boundary	haddu
+19.17	boundary	addu
+19.17	boundary	hadduraayi
+19.21	people (populace)	janam
+19.21	people (populace)	janaaniikam
+19.21	people (populace)	lookulu
+19.23	tribe, clan	kulamu
+19.23	tribe, clan	wamsamu
+19.24	chief, chieftain	yoodhuDu
+19.25	staff, walking stick	aanukarra
+19.25	staff, walking stick	uutakarra
+19.25	staff, walking stick	uutakoola
+19.25	staff, walking stick	uutagaDa
+19.25	staff, walking stick	ceetikarra
+19.25	staff, walking stick	ponnukarra
+19.31	rule, govern	eelu[konu]
+19.31	rule, govern	paripaalincu
+19.31	rule, govern	paalincuśaasincu
+19.32	king, ruler	arasu
+19.32	king, ruler	arusu
+19.32	king, ruler	awaniinaathuDu
+19.32	king, ruler	awaniipati
+19.32	king, ruler	awaniipaaluDu
+19.32	king, ruler	awaniiśuDu
+19.32	king, ruler	urwiipati
+19.32	king, ruler	eelika
+19.32	king, ruler	kSitipati
+19.32	king, ruler	janapati
+19.32	king, ruler	deewara
+19.32	king, ruler	naathuDu
+19.32	king, ruler	nṛpaalakuDu
+19.32	king, ruler	paarthiwuDu
+19.32	king, ruler	kSitipati
+19.32	king, ruler	pṛthwiipati
+19.32	king, ruler	maNDaleeśwaruDu
+19.32	king, ruler	mahaaraaju
+19.32	king, ruler	muurdhaabhiSiktuDu
+19.32	king, ruler	raaju
+19.32	king, ruler	raayuDu
+19.32	king, ruler	reeDu
+19.33	queen	deeweeri
+19.33	queen	mahiSi
+19.33	queen	raajñi
+19.33	queen	raaNi
+19.36	noble, nobleman	Thaakuuru
+19.37	citizen, subject	pawruDu
+19.41	master	adhikaari
+19.41	master	adhipati
+19.41	master	adhiiśuDu
+19.41	master	iiśuDu
+19.41	master	kaamandu
+19.41	master	khaamandu
+19.41	master	jiyya
+19.41	master	deewara
+19.41	master	dora
+19.41	master	dhawuDu
+19.41	master	naathuDu
+19.41	master	prabhu[wu]
+19.41	master	yajamaani
+19.41	master	yajamaanuDu
+19.41	master	raayuDu
+19.41	master	reeDu
+19.42	slave	kinkaruDu
+19.42	slave	gulaam
+19.42	slave	Dingari
+19.42	slave	tottu
+19.42	slave	baanisa
+19.43	servant	kaasaa
+19.43	servant	guNDaDu
+19.43	servant	jiitagaaDu
+19.43	servant	nawkaru
+19.43	servant	panna
+19.43	servant	paricaruDu
+19.43	servant	paricaarakuDu
+19.43	servant	b[h]aTuDu
+19.43	servant	bhṛtyuDu
+19.43	servant	seewi
+19.44	freeman	swatantruDu
+19.45	command, order	nirdeeśincu
+19.46	obey	taladharincu
+19.47	let, permit	angiikarincu
+19.47	let, permit	oppukonu
+19.51	friend, companion	iSTuDu
+19.51	friend, companion	celikaaDu
+19.51	friend, companion	neestam
+19.51	friend, companion	baandhawuDu
+19.51	friend, companion	mitram
+19.51	friend, companion	mitruDu
+19.51	friend, companion	wihituDu
+19.51	friend, companion	saawaasi
+19.51	friend, companion	hituDu
+19.51	friend, companion	hitaySi
+19.52	enemy	araati
+19.52	enemy	ari
+19.52	enemy	ahituDu
+19.52	enemy	pagawaaDu
+19.52	enemy	pratikakSi
+19.52	enemy	widweeSi
+19.52	enemy	wiroodhi
+19.52	enemy	wayri
+19.52	enemy	śatruwu
+19.54	neighbor	irugu porugu waru
+19.55	stranger	andipondaniwaaDu
+19.55	stranger	aparicituDu
+19.55	stranger	koonkiskaa
+19.55	stranger	paradeeśi
+19.55	stranger	paruDu
+19.55	stranger	paraayi waaDu
+19.56	guest	atithi
+19.56	guest	aahuutuDu
+19.56	guest	nimantrituDu
+19.57	host	aatitheeyi
+19.57	host	kooTi
+19.58	help, aid	TooDawu
+19.58	help, aid	saahaaya paDu
+19.58	help, aid	saayam ceeyu
+19.59	hinder, prevent	aDDu
+19.59	hinder, prevent	niwaarincu
+19.61	custom	alawaaTu
+19.61	custom	aacaaram
+19.61	custom	aanawaayitii
+19.61	custom	kaaNDa
+19.61	custom	nikaNTu[wu]
+19.61	custom	riwaaju
+19.61	custom	waaDuka
+19.61	custom	waaDika
+19.62	strife, quarrel	kacce
+19.62	strife, quarrel	kajjaa
+19.62	strife, quarrel	kayyam
+19.62	strife, quarrel	kalaha
+19.62	strife, quarrel	kaaTLaaTa
+19.62	strife, quarrel	kiiculaaTa
+19.62	strife, quarrel	kummulaaTa
+19.62	strife, quarrel	koTLaaTa
+19.62	strife, quarrel	jagaDam
+19.62	strife, quarrel	jaTTii
+19.63	conspiracy, plot	guuDupuThaaNii
+19.63	conspiracy, plot	kutantram
+19.63	conspiracy, plot	pannagam
+19.63	conspiracy, plot	kuTra
+19.65	meet	kalusukonu
+19.65	meet	samaaweeśam awu
+19.72	prostitute	aaTaweladi
+19.72	prostitute	kaLaawati
+19.72	prostitute	kaamuki
+19.72	prostitute	gaNika
+19.72	prostitute	jaariNi
+19.72	prostitute	tottu
+19.72	prostitute	daaTLamaari
+19.72	prostitute	paDupukatte
+19.72	prostitute	muNDa
+20.11	fight (vb)	pooTLaaDu
+20.11	fight (vb)	pooraaDu
+20.11	fight (vb)	sangharSincu
+20.13	war, battle	ani
+20.13	war, battle	aaji
+20.13	war, battle	utthaanam
+20.13	war, battle	raNam
+20.13	war, battle	samprahaaram
+20.14	peace	śaantam
+20.14	peace	śaanti
+20.14	peace	swaantana[m]
+20.14	peace	haayi
+20.15	army	utthaanam
+20.15	army	daNDu
+20.15	army	phawju
+20.15	army	pawju
+20.15	army	waahini
+20.15	army	seena
+20.15	army	saynyam
+20.17	soldier	jawaanu
+20.17	soldier	jamaanu
+20.17	soldier	baNTu
+20.17	soldier	b[h]aTuDu
+20.17	soldier	sipaayi
+20.17	soldier	saynikuDu
+20.21	weapons, arms	astram
+20.21	weapons, arms	aayudham
+20.21	weapons, arms	śastram
+20.22	club	gada
+20.22	club	duDDu
+20.22	club	mudgaram
+20.22	club	laaThii
+20.23	sling	waDise[la]
+20.24	bow	dhanussu
+20.24	bow	wilu
+20.24	bow	willu
+20.25	arrow	ampa
+20.25	arrow	ambu
+20.25	arrow	ammu
+20.25	arrow	tuupu
+20.25	arrow	waaji
+20.25	arrow	śaram
+20.25	arrow	baaNam
+20.26	spear	iiTe
+20.26	spear	barise
+20.26	spear	ballem
+20.27	sword	aDidam
+20.27	sword	asi
+20.27	sword	katti
+20.27	sword	karawaalam
+20.27	sword	khaDgam
+20.28	gun, cannon	tupaaki
+20.31	armor (defensive)	kawacam
+20.31	armor (defensive)	sajja
+20.33	helmet	śirastraaNam
+20.33	helmet	śirastram
+20.34	shield	Daalu
+20.35	fortress	kancukooTa
+20.35	fortress	kooTa
+20.35	fortress	durgam
+20.36	tower	śikharam
+20.36	tower	goopuram
+20.41	victory	gelupu
+20.41	victory	jayam
+20.41	victory	wijayam
+20.42	defeat	apajayam
+20.42	defeat	asaphalata
+20.42	defeat	ooTami
+20.42	defeat	paraajayam
+20.42	defeat	bhangapaaTu
+20.43	attack	aakramaNam
+20.43	attack	Dhaakaa
+20.43	attack	taaku
+20.44	defend	rakSaNa
+20.45	retreat	tappukonu
+20.45	retreat	tiroogamincu
+20.45	retreat	wenakadiiyu
+20.45	retreat	wenudiiyu
+20.45	retreat	wenakaaDu
+20.46	surrender	śaraNu kooru
+20.47	captive, prisoner	kaydii
+20.47	captive, prisoner	khaydii
+20.47	captive, prisoner	bandi
+20.471	guard, sentinel	kaapari
+20.471	guard, sentinel	paharaa
+20.471	guard, sentinel	paaraa
+20.48	booty, spoils	kolla
+20.49	ambush	maaTu
+20.51	fisherman	jaalari
+20.51	fisherman	daaśuDu
+20.51	fisherman	besta[waaDu]
+20.51	fisherman	matsyakaaruDu
+20.52	fishhook	gaalam
+20.52	fishhook	geelam
+20.54	fishnet	wala
+20.55	fish trap	uudi
+20.56	bait	era
+20.61	hunt	weeTaaDu
+20.62	shoot	kaalcu
+20.63	miss (target)	guri tappu
+20.64	trap (noun)	uccu
+20.64	trap (noun)	uri
+20.64	trap (noun)	waagura
+20.65	trap (vb)	wala veeyu
+21.11	law	caTTam
+21.11	law	nyaayam
+21.15	court	adaalatu
+21.15	court	nyaayasthaanam
+21.17	judgment	tiirpu
+21.18	judge (noun)	tagawari
+21.18	judge (noun)	praaDwiwaakuDu
+21.21	plaintiff	daawaadaaru
+21.21	plaintiff	waadi
+21.22	defendant	uttarawaadi
+21.22	defendant	pratiwaadi
+21.23	witness	saakSi
+21.24	swear	pramaaNam ceeyu
+21.24	swear	śapatham paTTu
+21.25	oath	aana
+21.25	oath	oTTu  satyapramaaNam
+21.31	accuse	aaroopincu
+21.32	condemn	adhikSeepincu
+21.32	condemn	garhincu
+21.32	condemn	c[h]iikoTTu
+21.33	convict (vb)	muddaai
+21.33	convict (vb)	neerastuDu
+21.34	acquit	--
+21.35	guilty	dooSi
+21.36	innocent	amaayaka
+21.36	innocent	amaayika
+21.36	innocent	amaayakuDu
+21.36	innocent	beela
+21.37	penalty, punishment	jarimaanaa
+21.37	penalty, punishment	julmaanaa
+21.37	penalty, punishment	julmaanaa
+21.37	penalty, punishment	daNDana
+21.37	penalty, punishment	daNDuga
+21.37	penalty, punishment	daNDaga
+21.37	penalty, punishment	śikSa
+21.38	fine	julmaanaa
+21.39	prison, jail	kaydu
+21.39	prison, jail	khaydu
+21.39	prison, jail	cera
+21.39	prison, jail	bandikaana
+21.39	prison, jail	bandiikhaanaa
+21.42	murder	kuunii
+21.42	murder	khuunii
+21.42	murder	hatya
+21.43	adultery	jaaratwam
+21.43	adultery	miNDatanam
+21.43	adultery	ranku
+21.43	adultery	wyabhicaaram
+21.43	adultery	swayrawihaaram
+21.44	rape	atyaacaaram
+21.44	rape	balaatkaaram
+21.46	arson	illu tagulabeTTuTa
+21.47	perjury	apramaaNamu
+21.47	perjury	asatyamu
+21.51	steal	apaharincu
+21.51	steal	taskarincu
+21.51	steal	daaTaweeyu
+21.51	steal	daaTeeyu
+21.51	steal	dongilincu
+21.51	steal	dongilu
+21.51	steal	dobbu
+21.51	steal	nuuku
+21.51	steal	m[r]uccilincu
+21.52	thief	apharta
+21.52	thief	cooruDu
+21.52	thief	Takkari
+21.52	thief	takkari
+21.52	thief	taskaruDu
+21.52	thief	donga
+21.52	thief	mucci
+21.52	thief	rudraakSapilli

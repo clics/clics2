@@ -1,0 +1,1870 @@
+@classification: Japonic
+@iso: jpn
+@language: Japanese
+@size: 1864
+@source: wold
+@variety: std
+1.1	world	sekai
+1.1	world	yo
+1.21	earth, land	tairiku
+1.21	earth, land	rikuchi
+1.21	earth, land	riku
+1.212	earth=ground, soil	tsuchi
+1.213	dust	hokori
+1.214	mud	doro
+1.215	sand	suna
+1.22	mountain, hill	yama
+1.22	mountain, hill	oka
+1.222	cliff, precipice	gake
+1.23	plain, field	heichi
+1.23	plain, field	nohara
+1.24	valley	tani
+1.25	island	shima
+1.26	mainland	naichi
+1.26	mainland	tairiku
+1.27	shore	kishi
+1.27	shore	kaigan
+1.27	shore	kagan
+1.28	cave	dōkutsu
+1.28	cave	horaana
+1.31	water	mizu
+1.32	sea	umi
+1.322	calm (of sea)	nagi
+1.323	rough (of sea)	shikeru
+1.324	foam	awa
+1.329	ocean	kaiyō
+1.329	ocean	taiyō
+1.33	lake	mizuumi
+1.33	lake	ike
+1.34	gulf, bay	irie
+1.34	gulf, bay	wan
+1.341	lagoon	kata
+1.342	reef	anshō
+1.343	headland, point	misaki
+1.35	wave	nami
+1.352	tide	shio
+1.353	lowtide	hikishio
+1.353	lowtide	kanchō
+1.354	hightide	michishio
+1.354	hightide	manchō
+1.36	river, stream, brook	kawa
+1.362	whirlpool	uzumaki
+1.37	spring, well	izumi
+1.37	spring, well	ido
+1.38	swamp	numa
+1.38	swamp	shitchi
+1.39	waterfall	taki
+1.41	woods, forest	mori
+1.41	woods, forest	hayashi
+1.43	wood	ki
+1.43	wood	mokuzai
+1.44	stone, rock	ishi
+1.44	stone, rock	iwa
+1.45	earthquake	jishin
+1.51	sky	sora
+1.52	sun	hi
+1.52	sun	taiyō
+1.53	moon	tsuki
+1.54	star	hoshi
+1.55	lightning	inazuma
+1.56	thunder	kaminari
+1.56	thunder	ikazuchi
+1.57	lightning (as striking)	kaminari
+1.57	lightning (as striking)	rakurai
+1.58	storm	arashi
+1.59	rainbow	niji
+1.61	light (noun)	hikari
+1.62	darkness	yami
+1.63	shade, shadow	kage
+1.64	dew	tsuyu
+1.71	air	kūki
+1.72	wind	kaze
+1.73	cloud	kumo
+1.74	fog	kiri
+1.75	rain (noun)	ame
+1.76	snow (noun)	yuki
+1.77	ice	kōri
+1.78	weather	tenki
+1.78	weather	tenkō
+1.81	fire	hi
+1.82	flame (noun)	honoo
+1.83	smoke (noun)	kemuri
+1.84	ashes	hai
+1.841	embers	moesashi
+1.851	burn (vb trans)	moyasu
+1.852	burn (vb intrans)	moeru
+1.86	light, kindle, ignite	tomosu
+1.861	extinguish	kesu
+1.87	match (noun)	matchi
+1.88	firewood	maki
+1.88	firewood	takigi
+1.89	charcoal	sumi
+1.89	charcoal	mokutan
+2.1	person, human being	hito
+2.1	person, human being	ningen
+2.21	man (vs. woman)	otoko
+2.21	man (vs. woman)	dansei
+2.22	woman	onna
+2.22	woman	josei
+2.23	male	otoko
+2.23	male	dansei
+2.24	female	onna
+2.24	female	josei
+2.25	boy	otokonoko
+2.25	boy	danshi
+2.25	boy	shōnen
+2.251	young man (adolescent)	seinen
+2.251	young man (adolescent)	wakamono
+2.26	girl	onnanoko
+2.26	girl	joshi
+2.26	girl	shōjo
+2.261	young woman (adolescent)	seijo
+2.261	young woman (adolescent)	otome
+2.27	child	kodomo
+2.28	infant, baby	akachan
+2.31	husband	otto
+2.31	husband	danna
+2.31	husband	shujin
+2.31	husband	teishu
+2.32	wife	tsuma
+2.32	wife	okusan
+2.32	wife	kanai
+2.32	wife	nyōbō
+2.33	marry	kekkon
+2.34	marriage, wedding	kekkonshiki
+2.341	divorce	rikon
+2.35	father	chichi
+2.35	father	otōsan
+2.36	mother	haha
+2.36	mother	okāsan
+2.37	parents	oya
+2.37	parents	ryōshin
+2.38	married man	saitaisha
+2.39	married woman	hitozuma
+2.41	son	musuko
+2.42	daughter	musume
+2.43	offspring (son or daughter)	kodomo
+2.44	brother	otokokyōdai
+2.44	brother	keitei
+2.444	older brother	ani
+2.444	older brother	oniisan
+2.445	younger brother	otōto
+2.45	sister	shimai
+2.45	sister	onnakyōdai
+2.454	older sister	ane
+2.454	older sister	onēsan
+2.455	younger sister	imōto
+2.456	sibling	kyōdai
+2.456	sibling	kyōdaishimai
+2.458	twins	futago
+2.46	grandfather	sofu
+2.46	grandfather	ojiisan
+2.461	old man	rōjin
+2.461	old man	toshiyori
+2.461	old man	ojiisan
+2.47	grandmother	sobo
+2.47	grandmother	obāsan
+2.471	old woman	rōba
+2.471	old woman	obāsan
+2.471	old woman	rōfu
+2.48	grandson	mago
+2.49	granddaughter	magomusume
+2.51	uncle	oji
+2.511	mother's brother	oji
+2.512	father's brother	oji
+2.52	aunt	oba
+2.521	mother's sister	oba
+2.522	father's sister	oba
+2.53	nephew	oi
+2.54	niece	mei
+2.55	cousin	itoko
+2.56	ancestors	senzo
+2.57	descendants	shison
+2.61	father-in-law (of a man)	shūto
+2.611	father-in-law (of a woman)	shūto
+2.62	mother-in-law (of a man)	shūtome
+2.621	mother-in-law (of a woman)	shūtome
+2.63	son-in-law (of a man)	muko
+2.631	son-in-law (of a woman)	muko
+2.64	daughter-in-law (of a man)	yome
+2.641	daughter-in-law (of a woman)	yome
+2.71	stepfather	mamachichi
+2.71	stepfather	gifu
+2.72	stepmother	mamahaha
+2.72	stepmother	gibo
+2.73	stepson	mamamusuko
+2.74	stepdaughter	mamamusume
+2.75	orphan	koji
+2.76	widow	mibōjin
+2.76	widow	yamome
+2.76	widow	kafu
+2.77	widower	otokoyamome
+2.81	relatives, kinsmen	shinseki
+2.82	family	miuchi
+2.82	family	kazoku
+2.91	I	watashi
+2.91	I	boku
+2.91	I	ore
+2.92	you (singular)	kimi
+2.92	you (singular)	omae
+2.92	you (singular)	anata
+2.93	he/she/it	kare
+2.93	he/she/it	kanojo
+2.94	we	watashitachi
+2.94	we	oretachi
+2.94	we	bokura
+2.94	we	wareware
+2.95	you (plural)	kimitachi
+2.95	you (plural)	anatagata
+2.96	they	karera
+3.11	animal	dōbutsu
+3.12	male (adj)	osu
+3.13	female (adj)	mesu
+3.15	livestock	kachiku
+3.16	pasture	bokujō
+3.18	herdsman	bokufu
+3.19	stable, stall	kachikugoya
+3.2	cattle (bovine)	ushi
+3.21	bull	oushi
+3.22	ox	kyoseigyū
+3.23	cow	meushi
+3.24	calf	koushi
+3.25	sheep	hitsuji
+3.26	ram	ohitsuji
+3.28	ewe	mehitsuji
+3.29	lamb	kohitsuji
+3.32	boar	inoshishi
+3.34	sow	mebuta
+3.35	pig	buta
+3.36	goat	yagi
+3.37	he-goat	osuyagi
+3.38	kid	koyagi
+3.41	horse (equine)	uma
+3.42	stallion	taneuma
+3.44	mare	meuma
+3.45	foal, colt	kouma
+3.46	ass, donkey	roba
+3.47	mule	raba
+3.5	fowl	kakin
+3.52	cock, rooster	ondori
+3.54	hen	mendori
+3.55	chicken	niwatori
+3.56	goose	gachō
+3.57	duck	ahiru
+3.58	nest	su
+3.581	bird	tori
+3.582	seagull	kamome
+3.583	heron	sagi
+3.584	eagle	washi
+3.585	hawk	taka
+3.586	vulture	hagetaka
+3.591	bat	kōmori
+3.592	parrot	ōmu
+3.593	crow	karasu
+3.594	dove	hato
+3.596	owl	fukurō
+3.61	dog	inu
+3.614	rabbit	usagi
+3.62	cat	neko
+3.622	opossum	fukuronezumi
+3.622	opossum	opossamu
+3.63	mouse, rat	nezumi
+3.65	fish	sakana
+3.652	fin (dorsal)	hire
+3.653	fishscale	uroko
+3.654	gill	era
+3.655	shell	kai
+3.661	shark	same
+3.662	porpoise, dolphin	iruka
+3.663	whale	kujira
+3.664	stingray	ei
+3.665	freshwater eel	unagi
+3.71	wolf	ōkami
+3.72	lion	shishi
+3.72	lion	raion
+3.73	bear	kuma
+3.74	fox	kitsune
+3.75	deer	shika
+3.76	monkey	saru
+3.77	elephant	zō
+3.78	camel	rakuda
+3.81	insect	mushi
+3.81	insect	konchū
+3.811	louse	atamajirami
+3.811	louse	shirami
+3.813	flea	nomi
+3.814	centipede	mukade
+3.815	scorpion	sasori
+3.816	cockroach	gokiburi
+3.816	cockroach	aburamushi
+3.817	ant	ari
+3.818	spider	kumo
+3.82	bee	mitsubachi
+3.821	beeswax	mitsurō
+3.822	beehive	hachisu
+3.822	beehive	hōka
+3.823	wasp	hachi
+3.83	fly	hae
+3.831	sandfly (midge), gnat	sunabae
+3.831	sandfly (midge), gnat	yusurika
+3.831	sandfly (midge), gnat	buyo
+3.832	mosquito	ka
+3.84	worm	mushi
+3.85	snake	hebi
+3.91	firefly	hotaru
+3.92	butterfly	chō
+3.93	grasshopper	batta
+3.93	grasshopper	inago
+3.93	grasshopper	kirigirisu
+3.94	snail	katatsumuri
+3.95	frog	kaeru
+3.96	lizard	tokage
+3.97	crocodile, alligator	wani
+3.98	turtle	kame
+4.11	body	karada
+4.12	skin, hide	hifu
+4.12	skin, hide	kawa
+4.13	flesh	niku
+4.14	hair (head)	kami
+4.14	hair (head)	ke
+4.142	beard	hige
+4.144	body hair	taimō
+4.145	pubic hair	inmō
+4.145	pubic hair	chimō
+4.146	dandruff	fuke
+4.15	blood	chi
+4.151	vein, artery	kekkan
+4.16	bone	hone
+4.162	rib	abara
+4.162	rib	rokkotsu
+4.17	horn	tsuno
+4.18	tail	o
+4.18	tail	shippo
+4.19	back	se
+4.19	back	senaka
+4.191	spine	sekichū
+4.191	spine	sebone
+4.2	head	atama
+4.201	side of head, temple	komekami
+4.202	skull	zugaikotsu
+4.203	brain	nō
+4.204	face	kao
+4.205	forehead	hitai
+4.207	jaw	kiba
+4.207	jaw	ago
+4.208	cheek	hō
+4.209	chin	ago
+4.209	chin	otogai
+4.21	eye	me
+4.212	eyebrow	mayuge
+4.213	eyelid	mabuta
+4.214	eyelash	matsuge
+4.215	blink	mabataki
+4.22	ear	mimi
+4.22	ear	jida
+4.221	earlobe	mimitabu
+4.221	earlobe	jida
+4.222	earwax	mimiaka
+4.23	nose	hana
+4.231	nostril	bikō
+4.232	mucus (nasal)	hanakuso
+4.232	mucus (nasal)	hanamizu
+4.232	mucus (nasal)	hana
+4.24	mouth	kuchi
+4.241	beak	kuchibashi
+4.25	lip	kuchibiru
+4.26	tongue	shita
+4.27	tooth	ha
+4.271	gums	haguki
+4.271	gums	shigin
+4.271	gums	shiniku
+4.272	molartooth	kyūshi
+4.272	molartooth	okuba
+4.28	neck	kubi
+4.281	nape of neck	unaji
+4.281	nape of neck	erikubi
+4.29	throat	nodo
+4.3	shoulder	kata
+4.301	shoulderblade	kenkōkotsu
+4.302	collarbone	sakotsu
+4.31	arm	ude
+4.312	armpit	ekika
+4.312	armpit	wakinoshita
+4.32	elbow	hiji
+4.321	wrist	tekubi
+4.33	hand	te
+4.331	palm of hand	tenohira
+4.331	palm of hand	tanagokoro
+4.34	finger	yubi
+4.342	thumb	oyayubi
+4.344	fingernail	tsume
+4.345	claw	tsume
+4.345	claw	hasami
+4.35	leg	ashi
+4.351	thigh	momo
+4.352	calf of leg	fukurahagi
+4.352	calf of leg	komura
+4.36	knee	hiza
+4.37	foot	ashi
+4.371	ankle	ashikubi
+4.371	ankle	kurubushi
+4.372	heel	kakato
+4.374	footprint	ashiato
+4.38	toe	ashiyubi
+4.392	wing	tsubasa
+4.393	feather	hane
+4.4	chest	mune
+4.41	breast (of woman)	oppai
+4.41	breast (of woman)	chichi
+4.412	nipple, teat	chichikubi
+4.42	udder	chibusa
+4.42	udder	oppai
+4.43	navel	heso
+4.44	heart	kokoro
+4.44	heart	shinzō
+4.441	lung	haizō
+4.45	liver	kimo
+4.45	liver	kanzō
+4.451	kidney	jinzō
+4.452	spleen	hizō
+4.46	stomach	i
+4.461	intestines, guts	chō
+4.461	intestines, guts	naizō
+4.462	waist	koshi
+4.462	waist	yōbu
+4.463	hip	shiri
+4.463	hip	denbu
+4.464	buttocks	shiri
+4.464	buttocks	denbu
+4.47	womb	shikyū
+4.49	testicle	kintama
+4.49	testicle	kōgan
+4.492	penis	dankon
+4.492	penis	penisu
+4.492	penis	chinko
+4.51	breathe, breath	suu
+4.51	breathe, breath	kokyū
+4.52	yawn, gape	akubi
+4.521	hiccough	shakkuri
+4.53	cough	seki
+4.54	sneeze	kushami
+4.55	perspire	aseokaku
+4.55	perspire	hakkan
+4.56	spit	tsubaohaku
+4.57	vomit	haku
+4.57	vomit	ōto
+4.58	bite	kamu
+4.58	bite	sasu
+4.59	lick	nameru
+4.591	dribble	yodareotarasu
+4.61	sleep	neru
+4.61	sleep	nemuru
+4.612	snore	ibikiokaku
+4.62	dream	yumeomiru
+4.63	wake up	megasameru
+4.64	break wind	onara
+4.64	break wind	hōhi
+4.65	urinate	shōben
+4.65	urinate	nyō
+4.65	urinate	oshikko
+4.66	defecate	daiben
+4.66	defecate	kuso
+4.66	defecate	unko
+4.67	have sexual intercourse	sekkusu
+4.67	have sexual intercourse	neru
+4.68	shiver	miburui
+4.68	shiver	furueru
+4.69	bathe	nyūyoku
+4.69	bathe	furonihairu
+4.71	beget (of father)	mōkeru
+4.72	born (to be)	umareru
+4.73	pregnant	miomo
+4.732	conceive	ninshin
+4.732	conceive	haramu
+4.74	live, living, life	ikiru
+4.75	die, dead	shinu
+4.75	die, dead	shibō
+4.751	drowned	oboreru
+4.751	drowned	dekishi
+4.76	kill	korosu
+4.77	corpse	shitai
+4.78	bury (the dead)	hōmuru
+4.79	grave, tomb	haka
+4.81	strong, mighty, powerful	tsuyoi
+4.82	weak	yowai
+4.83	well, health	kenkō
+4.83	well, health	genki
+4.84	sick, sickness	byōki
+4.841	fever	netsu
+4.842	goiter	kōjōsenshu
+4.843	cold (catarrh)	kaze
+4.85	wound, sore	kizu
+4.85	wound, sore	kega
+4.852	bruise	uchikizu
+4.852	bruise	aza
+4.853	swelling	kobu
+4.853	swelling	hare
+4.854	itch	kayumi
+4.855	blister	hibukure
+4.855	blister	mizubukure
+4.856	boil (noun)	nebuto
+4.856	boil (noun)	nōyō
+4.856	boil (noun)	dekimono
+4.857	pus	umi
+4.858	scar	kizuato
+4.86	cure, heal	naosu
+4.87	physician	isha
+4.88	medicine, drug	kusuri
+4.89	poison	doku
+4.91	tired, weary	nemui
+4.91	tired, weary	tsukareru
+4.912	rest	yasumu
+4.912	rest	kyūyō
+4.92	lazy	darui
+4.92	lazy	taida
+4.93	bald	hageru
+4.93	bald	tokutō
+4.94	lame	ashigafujiyūda
+4.94	lame	bikko
+4.94	lame	fuzui
+4.95	deaf	mimigakikoenai
+4.95	deaf	tsunbo
+4.96	mute	kuchigakikenai
+4.96	mute	oshi
+4.97	blind	megamienai
+4.97	blind	mōmoku
+4.97	blind	mekura
+4.98	intoxicated	you
+4.99	naked, bare	hadaka
+5.11	eat	taberu
+5.12	food	tabemono
+5.121	cooked	hiotōsu
+5.121	cooked	chōri
+5.122	raw	nama
+5.123	ripe	minoru
+5.123	ripe	juku
+5.124	green, unripe	mijuku
+5.124	green, unripe	aoi
+5.125	rotten	kusaru
+5.13	drink	nomu
+5.14	hunger	haragaheru
+5.14	hunger	kūfuku
+5.141	famine	kikin
+5.15	thirst	nodogakawaku
+5.16	suck	suu
+5.18	chew	kamu
+5.181	swallow	nomu
+5.19	choke	ikigatsumaru
+5.19	choke	chissoku
+5.21	cook	ryōri
+5.21	cook	hiotōsu
+5.21	cook	niru
+5.21	cook	chōri
+5.22	boil (vb)	waku
+5.22	boil (vb)	futtō
+5.23	roast, fry	yaku
+5.23	roast, fry	itameru
+5.23	roast, fry	aburu
+5.24	bake	yaku
+5.25	oven	ōbun
+5.25	oven	renji
+5.26	pot, cooking vessel	nabe
+5.27	kettle	yakan
+5.28	pan	nabe
+5.28	pan	furaipan
+5.31	dish	sara
+5.31	dish	utsuwa
+5.32	plate	sara
+5.33	bowl	hachi
+5.33	bowl	chawan
+5.33	bowl	bōru
+5.33	bowl	donburi
+5.34	pitcher, jug	mizusashi
+5.35	cup, drinking vessel	kappu
+5.35	cup, drinking vessel	chawan
+5.36	saucer	ukezara
+5.37	spoon	supūn
+5.37	spoon	saji
+5.38	knife	naifu
+5.39	fork	fōku
+5.391	tongs	tongu
+5.41	meal (a)	shokuji
+5.41	meal (a)	gohan
+5.41	meal (a)	meshi
+5.42	breakfast	asameshi
+5.42	breakfast	chōshoku
+5.43	lunch	hirumeshi
+5.43	lunch	chūshoku
+5.45	supper	yūmeshi
+5.45	supper	yūshoku
+5.45	supper	bansan
+5.46	peel	muku
+5.47	sieve, strain	furuu
+5.48	scrape	kosuru
+5.49	stir, mix	kaku
+5.49	stir, mix	mazeru
+5.51	bread	pan
+5.53	dough	kiji
+5.54	knead	koneru
+5.55	meal, flour	komugiko
+5.56	crush, grind	kudaku
+5.56	crush, grind	hiku
+5.57	mill	hikiusu
+5.58	mortar	nyūbachi
+5.58	mortar	suribachi
+5.58	mortar	usu
+5.59	pestle	nyūbō
+5.59	pestle	surikogi
+5.59	pestle	kine
+5.61	meat	niku
+5.63	sausage	sōsēji
+5.64	soup, broth	sūpu
+5.64	soup, broth	shiru
+5.65	vegetables	yasai
+5.66	bean	mame
+5.7	potato	jagaimo
+5.7	potato	imo
+5.71	fruit	kudamono
+5.71	fruit	furūtsu
+5.712	bunch	taba
+5.75	fig	ichijiku
+5.76	grape	budō
+5.77	nut	kinomi
+5.77	nut	nattsu
+5.78	olive	oriibu
+5.79	oil	abura
+5.79	oil	oiru
+5.791	grease, fat	abura
+5.791	grease, fat	shibō
+5.81	salt	shio
+5.82	pepper	koshō
+5.821	chili pepper	tōgarashi
+5.84	honey	mitsu
+5.85	sugar	satō
+5.86	milk (noun)	miruku
+5.86	milk (noun)	gyūnyū
+5.87	milk (vb)	shiboru
+5.88	cheese	chiizu
+5.89	butter	batā
+5.9	beverage, drink	nomimono
+5.91	mead	miido
+5.92	wine	sake
+5.92	wine	wain
+5.92	wine	budōshu
+5.93	beer	biiru
+5.94	fermented drink	hakkōinryō
+5.97	egg	tamago
+5.971	egg yolk	kimi
+6.11	put on (clothes)	kiru
+6.12	clothing, clothes	fuku
+6.13	tailor	shitateya
+6.21	cloth	nuno
+6.21	cloth	orimono
+6.22	wool	ūru
+6.22	wool	keito
+6.22	wool	yōmō
+6.23	linen, flax	rinneru
+6.24	cotton	momen
+6.25	silk	kinu
+6.25	silk	shiruku
+6.27	felt	feruto
+6.28	fur	kegawa
+6.29	leather	kawa
+6.29	leather	hikaku
+6.31	spin	tsumugu
+6.32	spindle	tsumu
+6.32	spindle	bōsui
+6.33	weave	oru
+6.34	loom	hata
+6.34	loom	oriki
+6.35	sew	nuu
+6.36	needle	hari
+6.37	awl	kiri
+6.38	thread	ito
+6.39	dye	someru
+6.41	cloak	manto
+6.411	poncho	poncho
+6.42	woman's dress	doresu
+6.43	coat	uwagi
+6.43	coat	kōto
+6.44	shirt	shatsu
+6.45	collar	eri
+6.46	skirt	sukāto
+6.461	grass-skirt	koshiminosukāto
+6.48	trousers	zubon
+6.48	trousers	surakkusu
+6.49	stocking, sock	kutsushita
+6.49	stocking, sock	sokkusu
+6.49	stocking, sock	sutokkingu
+6.51	shoe	kutsu
+6.52	boot	nagagutsu
+6.52	boot	būtsu
+6.54	shoemaker, cobbler	kutsuya
+6.55	hat, cap	bōshi
+6.57	belt, girdle	beruto
+6.57	belt, girdle	obi
+6.58	glove	tebukuro
+6.59	veil	bēru
+6.61	pocket	poketto
+6.61	pocket	futokoro
+6.62	button	botan
+6.63	pin	pin
+6.71	ornament, adornment	akusesarii
+6.71	ornament, adornment	kazarimono
+6.72	jewel	hōseki
+6.73	ring (for finger)	yubiwa
+6.74	bracelet	udewa
+6.75	necklace	nekkuresu
+6.75	necklace	kubikazari
+6.76	bead	juzudama
+6.76	bead	biizu
+6.77	earring	iyaringu
+6.77	earring	mimiwa
+6.78	headband, headdress	hachimaki
+6.79	tattoo	irezumi
+6.81	handkerchief, rag	hankachi
+6.81	handkerchief, rag	borokire
+6.82	towel	taoru
+6.91	comb	kushi
+6.92	brush	burashi
+6.92	brush	hake
+6.921	braid	mitsuami
+6.921	braid	osagekami
+6.93	razor	kamisori
+6.94	ointment	nankō
+6.95	soap	sekken
+6.96	mirror	kagami
+7.11	dwell, live	sumu
+7.11	dwell, live	kurasu
+7.12	house	ie
+7.13	hut	koya
+7.131	garden-house	azumaya
+7.14	tent	tento
+7.15	yard, court	niwa
+7.17	cookhouse	suijijō
+7.18	meeting house	kaidō
+7.21	room	heya
+7.22	door, gate	doa
+7.22	door, gate	tobira
+7.221	doorpost, jamb	gawabashira
+7.23	lock (noun)	rokku
+7.23	lock (noun)	jō
+7.231	latch, door-bolt	kakegane
+7.24	key	kagi
+7.25	window	mado
+7.26	floor	yuka
+7.27	wall	kabe
+7.31	fireplace	danro
+7.32	stove	sutōbu
+7.33	chimney	entotsu
+7.37	ladder	hashigo
+7.42	bed	beddo
+7.42	bed	toko
+7.42	bed	shindai
+7.421	pillow	makura
+7.422	blanket	mōfu
+7.43	chair	isu
+7.44	table	tēburu
+7.44	table	taku
+7.44	table	tsukue
+7.45	lamp, torch	akari
+7.45	lamp, torch	rampu
+7.45	lamp, torch	dentō
+7.46	candle	rōsoku
+7.47	shelf	tana
+7.48	trough	kaibaoke
+7.48	trough	mizuire
+7.51	roof	yane
+7.52	thatch	yanefuki
+7.52	thatch	warabuki
+7.53	ridgepole	munagi
+7.54	rafter	taruki
+7.55	beam	hari
+7.56	post, pole	hashira
+7.56	post, pole	sao
+7.56	post, pole	kui
+7.57	board	ita
+7.58	arch	āchi
+7.58	arch	serimochi
+7.61	mason	sekkō
+7.62	brick	renga
+7.63	mortar	morutaru
+7.63	mortar	shikkui
+7.64	adobe	hiboshirenga
+7.64	adobe	adōbirenga
+8.11	farmer	nōmin
+8.11	farmer	hyakushō
+8.12	field (for cultivation)	hatake
+8.13	garden	niwa
+8.15	cultivate, till	tagayasu
+8.16	fence	hei
+8.16	fence	kakoi
+8.16	fence	saku
+8.17	ditch	mizo
+8.17	ditch	hori
+8.21	plow	suku
+8.21	plow	tagayasu
+8.212	furrow	mizo
+8.22	dig	horu
+8.23	spade	fumiguwa
+8.24	shovel	shaberu
+8.25	hoe	kuwa
+8.25	hoe	suki
+8.26	fork	mataguwa
+8.27	rake	kumade
+8.31	sow	maku
+8.311	seed	tane
+8.311	seed	shushi
+8.32	mow, reap	karu
+8.33	sickle, scythe	kama
+8.34	thresh	koku
+8.34	thresh	dakkoku
+8.35	threshing-floor	dakkokujō
+8.41	crop, harvest	toriire
+8.41	crop, harvest	shūkaku
+8.42	grain (barley, oats etc)	kokumotsu
+8.43	wheat	mugi
+8.43	wheat	komugi
+8.44	barley	mugi
+8.44	barley	ōmugi
+8.45	rye	mugi
+8.45	rye	raimugi
+8.46	oats	mugi
+8.46	oats	ōtomugi
+8.46	oats	enbaku
+8.47	maize, corn	tōmorokoshi
+8.48	rice	gohan
+8.48	rice	raisu
+8.51	grass	kusa
+8.52	hay	hoshikusa
+8.53	plant (noun)	shokubutsu
+8.531	plant (vb)	haeru
+8.54	root	ne
+8.55	branch	eda
+8.56	leaf	ha
+8.57	flower	hana
+8.6	tree	ki
+8.61	oak	ōku
+8.61	oak	kashiwa
+8.61	oak	kashi
+8.61	oak	nara
+8.62	beech	buna
+8.63	birch	kaba
+8.64	pine	matsu
+8.65	fir	momi
+8.66	acorn	donguri
+8.67	vine	budōnoki
+8.68	tobacco	tabako
+8.69	smoke (tobacco)	suu
+8.69	smoke (tobacco)	kitsuen
+8.691	pipe	paipu
+8.72	tree stump	kirikabu
+8.73	tree trunk	miki
+8.75	bark	juhi
+8.76	sap	jueki
+8.81	palm tree	yashi
+8.82	coconut	kokonattsu
+8.83	citrus fruit	kankitsurui
+8.84	banana tree	banana
+8.85	banyan	gajumaru
+8.91	sweet potato	satsumaimo
+8.91	sweet potato	imo
+8.912	yam	yamuimo
+8.912	yam	yamaimo
+8.92	tapioca, manioc, cassava	kyassaba
+8.93	gourd	hyōtan
+8.931	pumpkin, squash	kabocha
+8.94	bamboo	take
+8.941	sugar cane	satōkibi
+8.97	nettle	irakusa
+8.98	mushroom	kinoko
+9.11	do, make	suru
+9.11	do, make	yaru
+9.12	work	shigoto
+9.14	bend	mageru
+9.15	fold	oritatamu
+9.16	tie, bind	shibaru
+9.16	tie, bind	musubu
+9.161	untie	toku
+9.161	untie	hodoku
+9.18	chain	kusari
+9.19	rope, cord	nawa
+9.19	rope, cord	tsuna
+9.19	rope, cord	rōpu
+9.192	knot (noun)	musubime
+9.21	strike (hit, beat)	utsu
+9.21	strike (hit, beat)	tataku
+9.211	pound with fist	naguru
+9.211	pound with fist	butsu
+9.22	cut	kiru
+9.22	cut	setsudan
+9.221	cut down	kiritaosu
+9.221	cut down	bassai
+9.222	chop, hew	kizamu
+9.223	stab	sasu
+9.23	knife	hōchō
+9.23	knife	naifu
+9.24	scissors, shears	hasami
+9.25	ax	ono
+9.251	adze	chōna
+9.251	adze	teono
+9.26	break	kowasu
+9.261	broken	kowareru
+9.27	split	waru
+9.27	split	bunretsu
+9.27	split	saku
+9.28	tear	yaburu
+9.28	tear	saku
+9.29	flay, skin	kawaomuku
+9.29	flay, skin	dappi
+9.29	flay, skin	kawaohagu
+9.31	rub, wipe	kosuru
+9.32	stretch	nobasu
+9.32	stretch	hipparu
+9.33	pull	hipparu
+9.33	pull	hiku
+9.34	spread out	hirogeru
+9.341	hang up	kakeru
+9.342	press	osu
+9.343	squeeze, wring	shiboru
+9.35	pour	sosogu
+9.36	wash	arau
+9.36	wash	sentaku
+9.37	sweep	haku
+9.37	sweep	sōji
+9.38	broom	hōki
+9.422	tool	dōgu
+9.422	tool	kōgu
+9.43	carpenter	daiku
+9.44	build	kizuku
+9.44	build	tateru
+9.44	build	kenchiku
+9.46	bore	anaoakeru
+9.461	hollow out	kurinuku
+9.461	hollow out	eguru
+9.48	saw	nokogiri
+9.49	hammer	tsuchi
+9.49	hammer	hanmā
+9.5	nail	kugi
+9.56	glue	nori
+9.56	glue	setchakuzai
+9.56	glue	nikawa
+9.6	smith, blacksmith	kajiya
+9.61	forge	kitaeru
+9.62	anvil	kanatoko
+9.63	cast (metals)	chūzō
+9.64	gold	kin
+9.64	gold	ōgon
+9.65	silver	gin
+9.66	copper, bronze	dō
+9.67	iron	tetsu
+9.68	lead (noun)	namari
+9.69	tin, tinplate	suzu
+9.69	tin, tinplate	buriki
+9.71	potter	tōkō
+9.72	mold (clay etc)	katachidukuru
+9.73	clay	nendo
+9.73	clay	tsuchi
+9.74	glass	garasu
+9.75	weave, plait	amu
+9.76	basket	kago
+9.77	mat	mushiro
+9.77	mat	matto
+9.77	mat	tatami
+9.771	rug	jūtan
+9.771	rug	kāpetto
+9.78	netbag	nettobaggu
+9.79	fan (noun)	uchiwa
+9.79	fan (noun)	ōgi
+9.79	fan (noun)	sensu
+9.791	fan (vb)	aogu
+9.81	carve	horu
+9.81	carve	chōkoku
+9.81	carve	kizamu
+9.82	sculptor	chōkokuka
+9.83	statue	zō
+9.84	chisel	nomi
+9.84	chisel	chōkokutō
+9.88	paint (noun)	penki
+9.88	paint (noun)	enogu
+9.89	paint (vb)	nuru
+10.11	move	ugokasu
+10.12	turn over	mukeru
+10.13	turn around	furimuku
+10.14	wind, wrap	tsutsumu
+10.15	roll	korogasu
+10.16	drop (vb)	otosu
+10.17	twist	yoru
+10.17	twist	nejiru
+10.21	rise	okiru
+10.21	rise	tachiagaru
+10.21	rise	higaderu
+10.22	raise, lift	mochiageru
+10.23	fall	ochiru
+10.24	drip	potopotoochiru
+10.25	throw	nageru
+10.252	catch (ball)	tsukamaeru
+10.252	catch (ball)	toraeru
+10.26	shake	furu
+10.32	flow	nagareru
+10.33	sink	shizumu
+10.34	float	uku
+10.35	swim	oyogu
+10.351	dive	moguru
+10.351	dive	daibingu
+10.352	splash	haneru
+10.352	splash	shibukiotobasu
+10.36	sail (vb)	hansō
+10.36	sail (vb)	kōkō
+10.37	fly (vb)	tobu
+10.38	blow	fuku
+10.41	creep, crawl	hau
+10.412	kneel	hizamazuku
+10.413	crouch	shagamu
+10.42	slide, slip	suberu
+10.43	jump, leap	haneru
+10.43	jump, leap	tobu
+10.431	kick	keru
+10.44	dance	odoru
+10.45	walk	aruku
+10.451	limp	ashiohikizuru
+10.451	limp	hakō
+10.451	limp	bikkoohiku
+10.46	run	hashiru
+10.47	go	iku
+10.471	go up	agaru
+10.471	go up	noboru
+10.472	climb	noboru
+10.473	go down	oriru
+10.474	go out	deru
+10.48	come	kuru
+10.481	come back	kaeru
+10.481	come back	modoru
+10.49	go away, depart	saru
+10.49	go away, depart	shuppatsu
+10.491	disappear	kieru
+10.51	flee	nigeru
+10.52	follow	tsuku
+10.52	follow	tadoru
+10.52	follow	shitagau
+10.52	follow	kōzoku
+10.53	pursue	ou
+10.53	pursue	tsuiseki
+10.55	reach, arrive	tsuku
+10.55	reach, arrive	tōchaku
+10.56	approach	chikayoru
+10.56	approach	sekkin
+10.57	enter	hairu
+10.61	carry (bear)	hakobu
+10.612	carry-in-hand	motsu
+10.613	carry-on-shoulder	katsugu
+10.614	carry-on-head	kaburu
+10.615	carry-underarm	daku
+10.615	carry-underarm	kakaeru
+10.62	bring	motsu
+10.63	send	okuru
+10.64	lead (vb)	michibiku
+10.64	lead (vb)	annai
+10.65	drive	unten
+10.66	ride	noru
+10.66	ride	jōba
+10.67	push, shove	osu
+10.67	push, shove	tsuku
+10.71	road	michi
+10.71	road	dōro
+10.72	path	michi
+10.72	path	roji
+10.74	bridge	hashi
+10.75	carriage, wagon, cart	kuruma
+10.75	carriage, wagon, cart	nibasha
+10.76	wheel	wa
+10.76	wheel	sharin
+10.77	axle	jiku
+10.78	yoke	kubiki
+10.81	ship	fune
+10.83	boat	fune
+10.83	boat	bōto
+10.831	canoe	kanū
+10.832	outrigger	autoriggā
+10.84	raft	ikada
+10.85	oar	kai
+10.85	oar	ro
+10.85	oar	ōru
+10.851	paddle (noun)	kai
+10.851	paddle (noun)	padoru
+10.852	row (vb)	kogu
+10.86	rudder	kaji
+10.87	mast	hobashira
+10.87	mast	masuto
+10.88	sail (noun)	ho
+10.89	anchor	ikari
+10.91	harbor, port	minato
+10.92	land (vb)	jōriku
+10.92	land (vb)	chakuriku
+11.11	have	motsu
+11.11	have	aru
+11.12	own, possess	shoyū
+11.13	take	toru
+11.14	seize, grasp	tsukamu
+11.14	seize, grasp	nigiru
+11.15	hold	motsu
+11.15	hold	toru
+11.16	get, obtain	morau
+11.16	get, obtain	eru
+11.17	keep, retain	tamotsu
+11.17	keep, retain	azukaru
+11.17	keep, retain	hoyū
+11.18	thing	mono
+11.21	give	ataeru
+11.21	give	ageru
+11.21	give	kureru
+11.21	give	yaru
+11.22	give back	kaesu
+11.24	preserve, look after	tamotsu
+11.24	preserve, look after	hozon
+11.25	save, rescue	sukuu
+11.25	save, rescue	kyūjo
+11.27	destroy	kowasu
+11.27	destroy	hakai
+11.28	harm, injure, damage	kizutsukeru
+11.28	harm, injure, damage	sokonau
+11.28	harm, injure, damage	gai
+11.31	seek, look for	sagasu
+11.32	find	mitsukeru
+11.32	find	hakken
+11.33	lose	nakusu
+11.33	lose	ushinau
+11.34	release, let go	hanasu
+11.43	money	kane
+11.44	coin	kōka
+11.44	coin	koin
+11.51	rich	kanemochi
+11.51	rich	yūfuku
+11.52	poor	binbō
+11.52	poor	mazushii
+11.53	beggar	kojiki
+11.54	avaricious, stingy	kechi
+11.61	lend	kasu
+11.62	borrow	kariru
+11.63	owe	kariru
+11.64	debt	shakkin
+11.64	debt	kari
+11.64	debt	fusai
+11.65	pay (vb)	harau
+11.65	pay (vb)	dasu
+11.66	account, reckoning	kanjō
+11.66	account, reckoning	seikyūsho
+11.69	tax, tribute	zeikin
+11.77	hire	yatou
+11.78	wages	kyūryō
+11.78	wages	chingin
+11.79	earn	kasegu
+11.79	earn	mōkeru
+11.81	buy	kau
+11.82	sell	uru
+11.83	trade, barter	kōkan
+11.84	merchant	shōnin
+11.85	market (place)	ichi
+11.86	store, shop	mise
+11.87	price	nedan
+11.87	price	kakaku
+11.88	dear (costly, expensive)	takai
+11.89	cheap	yasui
+11.91	share (distribute)	wakeru
+11.92	weigh	omosa
+12.11	place	tokoro
+12.11	place	basho
+12.12	put	oku
+12.13	sit	suwaru
+12.14	lie down	yokotawaru
+12.14	lie down	neru
+12.15	stand	tatsu
+12.16	remain, stay	todomaru
+12.16	remain, stay	nokoru
+12.17	remains, left overs	nokori
+12.21	collect, gather	atsumeru
+12.212	pick up	hirou
+12.213	pile up	tsumikasaneru
+12.22	join, unite	tsunagu
+12.22	join, unite	musubu
+12.23	separate	wakeru
+12.232	divide	wakeru
+12.24	open	akeru
+12.24	open	hirakeru
+12.25	shut, close	shimeru
+12.25	shut, close	tojiru
+12.26	cover	oou
+12.27	hide, conceal	kakusu
+12.31	high	takai
+12.32	low	hikui
+12.33	top	chōten
+12.33	top	teppen
+12.34	bottom	soko
+12.35	end	hashi
+12.35	end	hate
+12.352	pointed	togaru
+12.353	edge	hashi
+12.353	edge	fuchi
+12.36	side	sokumen
+12.36	side	yoko
+12.37	middle, center	man’naka
+12.37	middle, center	chūō
+12.41	right (side)	migi
+12.42	left (side)	hidari
+12.43	near (adv)	chikai
+12.44	far (adv)	tōi
+12.45	east	higashi
+12.46	west	nishi
+12.47	north	kita
+12.48	south	minami
+12.53	grow	sodatsu
+12.53	grow	nobiru
+12.54	measure	hakaru
+12.541	span, fathom	fazomu
+12.541	span, fathom	hiro
+12.55	large, big	ōkii
+12.56	small, little	chiisai
+12.57	long	nagai
+12.58	tall	takai
+12.59	short	mijikai
+12.61	wide, broad	hiroi
+12.62	narrow	semai
+12.62	narrow	hosoi
+12.63	thick (in dimension)	atsui
+12.65	thin (in dimension)	hosoi
+12.65	thin (in dimension)	usui
+12.67	deep	fukai
+12.68	shallow	asai
+12.71	flat	taira
+12.73	straight	massugu
+12.74	crooked	magaru
+12.75	hook	kagi
+12.75	hook	fukku
+12.76	corner	kado
+12.76	corner	sumi
+12.77	cross	jūji
+12.78	square	seihōkei
+12.78	square	mashikaku
+12.81	round	marui
+12.82	circle	maru
+12.82	circle	en
+12.83	sphere, ball	tama
+12.83	sphere, ball	kyū
+12.83	sphere, ball	bōru
+12.84	line	suji
+12.84	line	sen
+12.85	hole	ana
+12.92	like, similar	niru
+12.93	change	kaeru
+12.93	change	henka
+13.1	one	tō
+13.1	one	jū
+13.101	eleven	jūichi
+13.102	twelve	jūni
+13.103	fifteen	jūgo
+13.104	twenty	nijū
+13.105	hundred	hyaku
+13.106	thousand	sen
+13.107	count	kazoeru
+13.14	every, all	zenbu
+13.14	every, all	subete
+13.14	every, all	minna
+13.15	much, many	ōi
+13.15	much, many	takusan
+13.16	more	motto
+13.17	little (quantity), few	sukoshi
+13.18	enough	jūbun
+13.18	enough	tariru
+13.181	some	ikutsuka
+13.19	multitude, crowd	mure
+13.19	multitude, crowd	gunshū
+13.19	multitude, crowd	hitogomi
+13.21	full	ippai
+13.21	full	michiru
+13.22	empty	kara
+13.22	empty	aku
+13.23	part, piece	bubun
+13.23	part, piece	ichibu
+13.24	half	hanbun
+13.24	half	nakaba
+13.33	alone, only	tadahitotsu
+13.33	alone, only	yuiitsu
+13.34	first	daiichi
+13.34	first	ichibanme
+13.34	first	hajimete
+13.35	last	saigo
+13.36	second	nibanme
+13.36	second	daini
+13.36	second	tsugu
+13.37	pair	ittsui
+13.37	pair	hitokumi
+13.38	two times	nikai
+13.38	two times	nido
+13.42	third	daisan
+13.42	third	sanbanme
+13.44	three times	sankai
+13.44	three times	sando
+14.11	time	toki
+14.11	time	jikan
+14.12	age	toshi
+14.12	age	nenrei
+14.13	new	atarashii
+14.14	young	wakai
+14.15	old	furui
+14.15	old	toshitoru
+14.16	early	hayai
+14.17	late	osoi
+14.18	now	ima
+14.19	immediately	sugu
+14.21	swift, fast, quick	hayai
+14.22	slow	yukkuri
+14.22	slow	noroi
+14.22	slow	osoi
+14.23	hasten, hurry	isogu
+14.24	retard, delay	chikoku
+14.24	retard, delay	okureru
+14.25	begin, beginning	hajimeru
+14.252	last, endure	kakaru
+14.252	last, endure	tsuzuku
+14.26	end (temporal)	owari
+14.27	finish	oeru
+14.27	finish	shūryō
+14.28	cease, stop	yameru
+14.28	cease, stop	chūshi
+14.29	ready	junbi
+14.29	ready	yōi
+14.29	ready	shitaku
+14.29	ready	sonaeru
+14.31	always	itsumo
+14.31	always	tsune
+14.32	often	yoku
+14.32	often	shibashiba
+14.32	often	tabitabi
+14.32	often	hinpan
+14.33	sometimes	tokidoki
+14.33	sometimes	tokiori
+14.331	soon	mōsugu
+14.331	soon	mamonaku
+14.332	long-time (for a)	nagai
+14.34	never	itsudemo
+14.34	never	kesshite
+14.35	again	mata
+14.35	again	futatabi
+14.41	day	hi
+14.41	day	nitchū
+14.42	night	yoru
+14.43	dawn	yoake
+14.43	dawn	akebono
+14.44	morning	asa
+14.44	morning	gozenchū
+14.45	noon, midday	hiru
+14.45	noon, midday	shōgo
+14.451	afternoon	gogo
+14.46	evening	yūgata
+14.46	evening	ban
+14.47	today	kyō
+14.48	tomorrow	ashita
+14.48	tomorrow	asu
+14.481	day-after-tomorrow	asatte
+14.49	yesterday	kinō
+14.49	yesterday	sakujitsu
+14.491	day-before-yesterday	ototoi
+14.491	day-before-yesterday	issakujitsu
+14.51	hour	jikan
+14.53	clock, timepiece	tokei
+14.61	week	shū
+14.61	week	shūkan
+14.62	Sunday	nichiyō
+14.63	Monday	getsuyō
+14.64	Tuesday	kayō
+14.65	Wednesday	suiyō
+14.66	Thursday	mokuyō
+14.67	Friday	kin’yō
+14.68	Saturday	doyō
+14.71	month	tsuki
+14.71	month	gatsu
+14.73	year	toshi
+14.73	year	nen
+14.73	year	nenkan
+14.74	winter	fuyu
+14.75	spring	haru
+14.76	summer	natsu
+14.77	autumn	aki
+14.78	season	kisetsu
+15.21	smell (vb intrans)	niou
+15.212	sniff	kagu
+15.22	smell (vb trans)	nioigasuru
+15.25	fragrant, good smelling	nioigaii
+15.25	fragrant, good smelling	kanbashii
+15.26	stinking, bad smelling	kusai
+15.31	taste	aji
+15.35	sweet	amai
+15.36	salty	shoppai
+15.37	bitter	nigai
+15.38	acid, sour	suppai
+15.39	brackish	shioke
+15.41	hear	kikoeru
+15.41	hear	kiku
+15.42	listen	kiku
+15.44	sound, noise	oto
+15.45	loud	urusai
+15.45	loud	yakamashii
+15.46	quiet, silence	shizuka
+15.51	see	mieru
+15.51	see	miru
+15.52	look, look at	miru
+15.55	show	miseru
+15.55	show	shimesu
+15.56	shine	kagayaku
+15.56	shine	hikaru
+15.57	bright	akarui
+15.61	color	iro
+15.62	light (in color)	akarui
+15.63	dark (in color)	kurai
+15.64	white	shiroi
+15.65	black	kuroi
+15.66	red	akai
+15.67	blue	aoi
+15.68	green	midori
+15.69	yellow	kiiro
+15.71	touch	sawaru
+15.71	touch	fureru
+15.712	pinch	tsuneru
+15.72	feel	sawaru
+15.72	feel	kanjiru
+15.74	hard	katai
+15.75	soft	yawarakai
+15.76	rough	arai
+15.76	rough	somatsu
+15.76	rough	zarazara
+15.77	smooth	nameraka
+15.77	smooth	subesube
+15.77	smooth	tsurutsuru
+15.78	sharp	surodoi
+15.78	sharp	eiri
+15.79	blunt, dull	nibui
+15.79	blunt, dull	namakura
+15.81	heavy	omoi
+15.82	light (in weight)	karui
+15.83	wet, damp	nureru
+15.83	wet, damp	shikeru
+15.84	dry	kawaku
+15.85	hot	atsui
+15.851	warm	atatakai
+15.86	cold	samui
+15.86	cold	tsumetai
+15.87	clean	kirei
+15.87	clean	kiyoi
+15.87	clean	seiketsu
+15.88	dirty, soiled	kitanai
+15.89	wrinkled	shiwashiwa
+16.11	soul, spirit	tamashii
+16.11	soul, spirit	reikon
+16.11	soul, spirit	seishin
+16.11	soul, spirit	kokoro
+16.15	surprised, astonished	odoroku
+16.15	surprised, astonished	bikkuri
+16.18	good fortune, luck	kō’un
+16.18	good fortune, luck	kichi
+16.18	good fortune, luck	saiwai
+16.18	good fortune, luck	shiawase
+16.19	misfortune, bad luck	fukō
+16.19	misfortune, bad luck	kyō
+16.19	misfortune, bad luck	akuun
+16.23	joyful, glad, happy	ureshii
+16.23	joyful, glad, happy	medetai
+16.25	laugh	warau
+16.251	smile	hohoemu
+16.251	smile	bishō
+16.251	smile	nikoniko
+16.26	play	asobu
+16.27	love	ai
+16.27	love	koi
+16.29	kiss	kisu
+16.29	kiss	kuchizuke
+16.3	embrace	daku
+16.31	pain	itami
+16.31	pain	kutsū
+16.32	grief, sorrow, sadness	kanashimi
+16.32	grief, sorrow, sadness	hitan
+16.33	anxiety, worry	shinpai
+16.33	anxiety, worry	fu’an
+16.34	regret, be sorry	zannen
+16.34	regret, be sorry	kōkai
+16.34	regret, be sorry	sumanai
+16.34	regret, be sorry	kuyamu
+16.35	pity	dōjō
+16.35	pity	aware
+16.37	cry, weep	naku
+16.38	tear (noun)	namida
+16.39	groan	umeku
+16.41	hate	nikumu
+16.42	anger	ikari
+16.42	anger	gekido
+16.44	envy, jealousy	netami
+16.44	envy, jealousy	shitto
+16.44	envy, jealousy	urayami
+16.45	shame (noun)	haji
+16.45	shame (noun)	shūchi
+16.48	proud	hokoritakai
+16.48	proud	kōman
+16.48	proud	puraido
+16.51	dare	aete
+16.51	dare	okasu
+16.52	brave	yūkan
+16.52	brave	isamashii
+16.53	fear, fright	osore
+16.53	fear, fright	kyōfu
+16.54	danger	kiken
+16.54	danger	abunai
+16.62	desire, want	hoshii
+16.62	desire, want	nozomu
+16.622	choose	erabu
+16.622	choose	sentaku
+16.63	hope	nozomu
+16.63	hope	kibō
+16.65	faithful	chūjitsu
+16.65	faithful	seijitsu
+16.66	true	hontō
+16.66	true	makoto
+16.66	true	shin
+16.67	lie, tell lies	usootsuku
+16.68	deceit	itsuwari
+16.68	deceit	uso
+16.69	forgive	yurusu
+16.69	forgive	kanben
+16.69	forgive	yōsha
+16.71	good	ii
+16.72	bad	warui
+16.73	right, correct	tadashii
+16.73	right, correct	seikaku
+16.74	wrong	machigau
+16.74	wrong	ayamaru
+16.76	fault	sei
+16.76	fault	sekinin
+16.77	mistake, error	ayamachi
+16.77	mistake, error	ayamari
+16.77	mistake, error	misu
+16.78	blame	sekinin
+16.78	blame	hinan
+16.79	praise	homeru
+16.79	praise	shōsan
+16.81	beautiful	kirei
+16.81	beautiful	utsukushii
+16.82	ugly	minikui
+16.82	ugly	shūaku
+16.83	greedy	don’yoku
+16.83	greedy	yokubari
+16.83	greedy	gatsugatsu
+16.84	clever	kashikoi
+16.84	clever	rikō
+16.84	clever	sōmei
+17.11	mind	kokoro
+17.11	mind	seishin
+17.13	think (= reflect)	kangaeru
+17.14	think (= be of the opinion)	omou
+17.15	believe	shinjiru
+17.15	believe	shin’yō
+17.16	understand	wakaru
+17.16	understand	rikai
+17.17	know	shiru
+17.171	guess	ateru
+17.171	guess	suisoku
+17.172	imitate	maneru
+17.172	imitate	mohō
+17.18	seem	rashii
+17.18	seem	sō
+17.18	seem	yō
+17.19	idea, notion	omoitsuki
+17.19	idea, notion	gainen
+17.19	idea, notion	aidea
+17.21	wise	kashikoi
+17.21	wise	kenmei
+17.21	wise	sōmei
+17.22	foolish, stupid	baka
+17.22	foolish, stupid	oroka
+17.23	insane, crazy	kuruu
+17.24	learn	narau
+17.24	learn	benkyō
+17.24	learn	oboeru
+17.24	learn	manabu
+17.242	study	benkyō
+17.242	study	manabu
+17.25	teach	oshieru
+17.26	pupil	seito
+17.27	teacher	sensei
+17.27	teacher	kyōshi
+17.28	school	gakkō
+17.31	remember	omoidasu
+17.31	remember	kioku
+17.32	forget	wasureru
+17.34	clear, plain	akiraka
+17.34	clear, plain	meikaku
+17.35	obscure	fumeiryō
+17.35	obscure	aimai
+17.36	secret	himitsu
+17.36	secret	hisoka
+17.37	sure, certain	tashika
+17.38	explain	setsumei
+17.41	intention, purpose	ito
+17.41	intention, purpose	ki
+17.41	intention, purpose	tsumori
+17.42	cause	gen’in
+17.42	cause	moto
+17.43	doubt	utagai
+17.43	doubt	gimon
+17.44	suspect	utagau
+17.44	suspect	ayashimu
+17.441	betray	uragiru
+17.45	need, necessity	hitsuyō
+17.46	easy	kantan
+17.46	easy	yasashii
+17.46	easy	yōi
+17.47	difficult	muzukashii
+17.47	difficult	konnan
+17.48	try, attempt	kokoromiru
+17.48	try, attempt	tamesu
+17.49	way, manner	shikata
+17.49	way, manner	hōhō
+17.51	and	to
+17.51	and	ya
+17.51	and	soshite
+17.52	because	kara
+17.53	if	moshi
+17.54	or	ka
+17.54	or	mata
+17.55	yes, affirmative	hai
+17.55	yes, affirmative	ē
+17.56	no, negative	iie
+17.61	how?	dō
+17.62	how many?	ikutsu
+17.63	how much?	ikura
+17.64	what?	nani
+17.65	when?	itsu
+17.65	when?	nanji
+17.66	where?	doko
+17.67	which?	dono
+17.67	which?	dore
+17.68	who?	dare
+17.69	why?	naze
+17.69	why?	dōshite
+18.11	voice	koe
+18.12	sing	utau
+18.13	shout, cry out	sakebu
+18.13	shout, cry out	donaru
+18.15	whisper	sasayaku
+18.16	mumble	tsubuyaku
+18.16	mumble	butsubutsu
+18.17	whistle	kuchibueofuku
+18.18	shriek, screech	himeioageru
+18.18	shriek, screech	wameku
+18.19	howl	hoeru
+18.21	speak, talk	hanasu
+18.211	stutter, stammer	domoru
+18.22	say	iu
+18.221	tell story	kataru
+18.222	speech (make a)	enzetsu
+18.222	speech (make a)	supiichi
+18.23	silent (be)	damaru
+18.24	language	kotoba
+18.24	language	gengo
+18.26	word	kotoba
+18.26	word	go
+18.28	name	namae
+18.31	ask (question, inquire)	kiku
+18.31	ask (question, inquire)	shitsumon
+18.31	ask (question, inquire)	tazuneru
+18.31	ask (question, inquire)	tou
+18.32	answer	kotaeru
+18.32	answer	henji
+18.33	admit, confess	mitomeru
+18.33	admit, confess	shōnin
+18.34	deny	hitei
+18.34	deny	uchikesu
+18.35	ask, request	motomeru
+18.35	ask, request	tanomu
+18.36	promise	yakusoku
+18.37	refuse	kotowaru
+18.37	refuse	kyohi
+18.38	forbid	kinjiru
+18.38	forbid	kinshi
+18.39	rebuke, scold	shikaru
+18.41	call (=summon)	yobu
+18.42	call (=name)	yobu
+18.42	call (=name)	nazukeru
+18.43	announce	happyō
+18.43	announce	tsugeru
+18.44	threaten	odosu
+18.44	threaten	kyōhaku
+18.45	boast	ibaru
+18.45	boast	hokoru
+18.45	boast	jiman
+18.51	write	kaku
+18.52	read	yomu
+18.56	paper	kami
+18.57	pen	fude
+18.57	pen	pen
+18.61	book	hon
+18.67	poet	shijin
+18.71	flute	fue
+18.71	flute	furūto
+18.72	drum	taiko
+18.72	drum	doramu
+18.73	horn, trumpet	horun
+18.73	horn, trumpet	tsunobue
+18.73	horn, trumpet	toranpetto
+18.73	horn, trumpet	rappa
+18.74	rattle	garagara
+19.11	country	kuni
+19.12	one's native country	sokoku
+19.15	city, town	machi
+19.15	city, town	toshi
+19.16	village	mura
+19.17	boundary	sakai
+19.21	people (populace)	hitobito
+19.21	people (populace)	kokumin
+19.23	tribe, clan	shizoku
+19.23	tribe, clan	ichizoku
+19.24	chief, chieftain	shūchō
+19.25	staff, walking stick	tsue
+19.25	staff, walking stick	sutekki
+19.31	rule, govern	shihai
+19.31	rule, govern	osameru
+19.32	king, ruler	ō
+19.33	queen	jo’ō
+19.36	noble, nobleman	kizoku
+19.37	citizen, subject	shimin
+19.37	citizen, subject	kokumin
+19.41	master	shujin
+19.41	master	aruji
+19.42	slave	dorei
+19.43	servant	meshitsukai
+19.43	servant	kerai
+19.44	freeman	jiyūmin
+19.45	command, order	meijiru
+19.45	command, order	meirei
+19.46	obey	shitagau
+19.46	obey	fukujū
+19.47	let, permit	yurusu
+19.47	let, permit	kyoka
+19.51	friend, companion	tomodachi
+19.52	enemy	teki
+19.52	enemy	kataki
+19.54	neighbor	tonarinohito
+19.54	neighbor	kinjonohito
+19.55	stranger	yosomono
+19.55	stranger	ijin
+19.56	guest	kyaku
+19.57	host	shujin
+19.57	host	aruji
+19.58	help, aid	tasukeru
+19.58	help, aid	enjo
+19.59	hinder, prevent	fusegu
+19.59	hinder, prevent	soshi
+19.61	custom	shūkan
+19.62	strife, quarrel	kenka
+19.62	strife, quarrel	iiarasoi
+19.63	conspiracy, plot	inbō
+19.63	conspiracy, plot	takurami
+19.63	conspiracy, plot	guru
+19.65	meet	au
+19.72	prostitute	baishunfu
+20.11	fight (vb)	tatakau
+20.11	fight (vb)	arasou
+20.13	war, battle	sensō
+20.13	war, battle	ikusa
+20.13	war, battle	sentō
+20.14	peace	heiwa
+20.15	army	guntai
+20.17	soldier	heitai
+20.17	soldier	gunjin
+20.21	weapons, arms	buki
+20.21	weapons, arms	heiki
+20.22	club	konbō
+20.222	battle-ax	senpu
+20.23	sling	tōsekiki
+20.23	sling	pachinko
+20.23	sling	gomujū
+20.24	bow	yumi
+20.25	arrow	ya
+20.26	spear	yari
+20.27	sword	tsurugi
+20.27	sword	katana
+20.27	sword	ken
+20.28	gun, cannon	jū
+20.28	gun, cannon	teppō
+20.31	armor (defensive)	yoroi
+20.33	helmet	kabuto
+20.33	helmet	herumetto
+20.34	shield	tate
+20.35	fortress	yōsai
+20.35	fortress	toride
+20.36	tower	tō
+20.41	victory	shōri
+20.41	victory	kachi
+20.42	defeat	haiboku
+20.42	defeat	make
+20.43	attack	kōgeki
+20.44	defend	mamoru
+20.44	defend	bōei
+20.45	retreat	shirizoku
+20.45	retreat	taikyo
+20.46	surrender	kōfuku
+20.46	surrender	kōsan
+20.47	captive, prisoner	toriko
+20.47	captive, prisoner	horyo
+20.47	captive, prisoner	shūjin
+20.471	guard, sentinel	mihari
+20.471	guard, sentinel	ban’nin
+20.471	guard, sentinel	gādoman
+20.48	booty, spoils	emono
+20.48	booty, spoils	senrihin
+20.49	ambush	machibuse
+20.51	fisherman	gyofu
+20.51	fisherman	ryōshi
+20.52	fishhook	tsuribari
+20.53	fishing line	tsuriito
+20.54	fishnet	gyomō
+20.54	fishnet	nageami
+20.55	fish trap	yana
+20.56	bait	esa
+20.61	hunt	karu
+20.62	shoot	utsu
+20.63	miss (target)	hazureru
+20.64	trap (noun)	wana
+20.65	trap (vb)	toraeru
+21.11	law	hōritsu
+21.15	court	saibansho
+21.16	judge (vb)	hanketsu
+21.16	judge (vb)	sabaku
+21.17	judgment	saiban
+21.17	judgment	hanketsu
+21.18	judge (noun)	saibankan
+21.21	plaintiff	genkoku
+21.22	defendant	hikoku
+21.23	witness	shōnin
+21.23	witness	mokugekisha
+21.24	swear	chikau
+21.25	oath	chikai
+21.25	oath	sensei
+21.31	accuse	uttaeru
+21.31	accuse	kokuso
+21.32	condemn	sho
+21.33	convict (vb)	yūzaitosuru
+21.34	acquit	muzaitosuru
+21.35	guilty	yūzai
+21.36	innocent	muzai
+21.37	penalty, punishment	batsu
+21.38	fine	bakkin
+21.39	prison, jail	rōya
+21.39	prison, jail	keimusho
+21.42	murder	satsujin
+21.42	murder	hitogoroshi
+21.43	adultery	furin
+21.43	adultery	uwaki
+21.44	rape	gōkan
+21.44	rape	reipu
+21.46	arson	hōka
+21.47	perjury	gishō
+21.51	steal	nusumu
+21.52	thief	dorobō

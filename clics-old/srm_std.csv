@@ -1,0 +1,1152 @@
+@classification: Creole,English based
+@iso: srm
+@language: Saramaccan
+@size: 1146
+@source: wold
+@variety: std
+1.1	world	goónlíba
+1.21	earth, land	téla
+1.212	earth=ground, soil	goón
+1.213	dust	gudugúdu
+1.213	dust	súndju
+1.214	mud	pötöpötö
+1.215	sand	sándu
+1.22	mountain, hill	kúnunu
+1.222	cliff, precipice	benga
+1.24	valley	básúkúnunu
+1.25	island	djégi
+1.25	island	paatí
+1.27	shore	télábúka
+1.28	cave	sitónúbaáku
+1.31	water	wáta
+1.32	sea	zé
+1.322	calm (of sea)	sáápi
+1.323	rough (of sea)	séki
+1.324	foam	pululú
+1.324	foam	sukúma
+1.329	ocean	zé
+1.33	lake	zé
+1.34	gulf, bay	gódo
+1.341	lagoon	gódo
+1.35	wave	pakapaka
+1.354	hightide	foóou
+1.36	river, stream, brook	lío
+1.362	whirlpool	biáwáta
+1.37	spring, well	baákúwáta
+1.38	swamp	suwámpu
+1.39	waterfall	dán
+1.41	woods, forest	mátu
+1.43	wood	páu
+1.44	stone, rock	sitónu
+1.51	sky	gaángádu
+1.52	sun	sónu
+1.53	moon	líba
+1.54	star	teéja
+1.55	lightning	gádukótifája
+1.56	thunder	gaángádúbái
+1.57	lightning (as striking)	gádukótifája
+1.58	storm	taángávë́ntu
+1.59	rainbow	mutjáma
+1.61	light (noun)	fája
+1.62	darkness	sugúu
+1.63	shade, shadow	sómba
+1.63	shade, shadow	jejé
+1.64	dew	adjíwáta
+1.64	dew	dö́ö́wáta
+1.71	air	vë́ntu
+1.72	wind	vë́ntu
+1.73	cloud	wö́lúku
+1.74	fog	bundji
+1.75	rain (noun)	tjúba
+1.77	ice	ë́ísi
+1.78	weather	wéi
+1.81	fire	fája
+1.82	flame (noun)	fájátö́ngö
+1.83	smoke (noun)	sumúku
+1.84	ashes	síndja
+1.841	embers	zonká
+1.851	burn (vb trans)	tjumá
+1.852	burn (vb intrans)	tjumá
+1.86	light, kindle, ignite	kísi
+1.861	extinguish	tapá
+1.87	match (noun)	suwálufu
+1.88	firewood	údu
+1.89	charcoal	koofája
+2.1	person, human being	sëmbë
+2.21	man (vs. woman)	wómi
+2.22	woman	mujë́ë
+2.23	male	wómi
+2.24	female	mujë́ë
+2.25	boy	kamísama
+2.251	young man (adolescent)	kijóo
+2.26	girl	koósuma
+2.27	child	mií
+2.28	infant, baby	miíi
+2.31	husband	mánu
+2.32	wife	koósuma
+2.33	marry	töö́u
+2.34	marriage, wedding	töö́u
+2.341	divorce	túwë
+2.35	father	taatá
+2.36	mother	mamá
+2.37	parents	gaánsëmbë
+2.41	son	wómímíí
+2.42	daughter	mujë́ë́míí
+2.43	offspring (son or daughter)	mií
+2.44	brother	baáa
+2.45	sister	sísa
+2.454	older sister	gaínsa
+2.458	twins	túlíngi
+2.458	twins	túmíi
+2.461	old man	tatá
+2.511	mother's brother	tío
+2.512	father's brother	taatá
+2.52	aunt	mamásísa
+2.521	mother's sister	maamá
+2.56	ancestors	avóavo
+2.57	descendants	böngö
+2.57	descendants	paansú
+2.61	father-in-law (of a man)	pái
+2.611	father-in-law (of a woman)	pái
+2.62	mother-in-law (of a man)	mái
+2.621	mother-in-law (of a woman)	mái
+2.63	son-in-law (of a man)	pái
+2.631	son-in-law (of a woman)	pái
+2.64	daughter-in-law (of a man)	mái
+2.641	daughter-in-law (of a woman)	mái
+2.81	relatives, kinsmen	famíi
+2.82	family	djúbë́ë
+2.91	I	mi
+2.92	you (singular)	i
+2.93	he/she/it	a
+2.93	he/she/it	ë́n
+2.94	we	u
+2.941	we (inclusive)	u
+2.942	we (exclusive)	u
+2.95	you (plural)	un
+2.96	they	de
+3.11	animal	mbéti
+3.12	male (adj)	wómi
+3.13	female (adj)	mujë́ë
+3.15	livestock	hía
+3.16	pasture	goón
+3.19	stable, stall	mbétíwósu
+3.21	bull	káu
+3.22	ox	wómíkáu
+3.23	cow	káu
+3.24	calf	káúmííi
+3.25	sheep	sikápu
+3.25	sheep	sikáfu
+3.26	ram	wómísíkáfu
+3.28	ewe	mujë́ë́síkápu
+3.29	lamb	sikápúmíi
+3.32	boar	píngo
+3.32	boar	gunsá
+3.34	sow	hágu
+3.35	pig	hágu
+3.36	goat	kaabíta
+3.37	he-goat	kaabíta
+3.38	kid	kaabíta
+3.41	horse (equine)	hási
+3.42	stallion	hási
+3.44	mare	hási
+3.45	foal, colt	ásímííi
+3.46	ass, donkey	bulíki
+3.5	fowl	fóu
+3.52	cock, rooster	wómígánía
+3.54	hen	ganían
+3.55	chicken	ganían
+3.56	goose	gánsi
+3.57	duck	patupátu
+3.58	nest	në́si
+3.581	bird	fóu
+3.583	heron	akamawái
+3.584	eagle	gbaniní
+3.585	hawk	gabián
+3.586	vulture	tíngífóo
+3.591	bat	pukusu
+3.591	bat	takufóo
+3.592	parrot	alála
+3.594	dove	pómba
+3.596	owl	hógífóu
+3.61	dog	dágu
+3.614	rabbit	lapëkökö́ni
+3.62	cat	pusipúsi
+3.622	opossum	kwátíwójo
+3.63	mouse, rat	mösimö́si
+3.65	fish	físi
+3.652	fin (dorsal)	jakajaka
+3.653	fishscale	físíkákísa
+3.654	gill	gééja
+3.655	shell	kókóo
+3.663	whale	laláo
+3.664	stingray	djampáini
+3.664	stingray	sipaí
+3.664	stingray	tjubula
+3.665	freshwater eel	maisi
+3.665	freshwater eel	lángáfísi
+3.72	lion	lë́un
+3.74	fox	aliá
+3.75	deer	djangafútu
+3.76	monkey	makáku
+3.76	monkey	babúnu
+3.76	monkey	kaánu
+3.77	elephant	zaun
+3.811	louse	lósu
+3.813	flea	dágúsíka
+3.814	centipede	ahalala
+3.815	scorpion	bóntani
+3.815	scorpion	kúkútúlábu
+3.815	scorpion	adingöutéla
+3.816	cockroach	ahalakpákpa
+3.816	cockroach	adabasíi
+3.817	ant	hánsi
+3.818	spider	adjáansi
+3.819	spider web	anásíwósu
+3.82	bee	hö́ni
+3.821	beeswax	hö́nikáká
+3.822	beehive	hö́níwósu
+3.823	wasp	wasiwási
+3.823	wasp	fétima
+3.83	fly	wë́nwën
+3.831	sandfly (midge), gnat	támúndúfóo
+3.831	sandfly (midge), gnat	buábua
+3.832	mosquito	máku
+3.832	mosquito	biibíífóo
+3.84	worm	bítju
+3.85	snake	sindéki
+3.91	firefly	azönkíjënjën
+3.92	butterfly	adömítö
+3.93	grasshopper	atíti
+3.94	snail	kóla
+3.95	frog	bése
+3.96	lizard	kaluwá
+3.97	crocodile, alligator	akalé
+3.97	crocodile, alligator	gandí
+3.97	crocodile, alligator	káima
+3.98	turtle	logoso
+4.11	body	sínkíi
+4.12	skin, hide	kákísa
+4.12	skin, hide	búba
+4.13	flesh	mbéti
+4.14	hair (head)	uwíi
+4.142	beard	bía
+4.144	body hair	puúma
+4.15	blood	buúu
+4.15	blood	akóni
+4.15	blood	nöngö́
+4.15	blood	gadjabiá
+4.151	vein, artery	tatái
+4.16	bone	bónu
+4.162	rib	bandjapapáíbónu
+4.17	horn	tutú
+4.18	tail	lábu
+4.19	back	báka
+4.191	spine	bákámíndí
+4.2	head	hédi
+4.202	skull	hédíbónu
+4.203	brain	töönsö́n
+4.204	face	fési
+4.205	forehead	fésímíndi
+4.205	forehead	míndífési
+4.207	jaw	agbapáu
+4.208	cheek	bandjabúka
+4.208	cheek	bandjajési
+4.209	chin	agba
+4.21	eye	wójo
+4.212	eyebrow	wójólíbápúúma
+4.213	eyelid	wójókókóo
+4.214	eyelash	wójókókóópúúma
+4.215	blink	fónwójo
+4.22	ear	jési
+4.221	earlobe	jésíbúka
+4.23	nose	núsu
+4.231	nostril	núsúbáaku
+4.232	mucus (nasal)	katáu
+4.24	mouth	búka
+4.241	beak	búka
+4.25	lip	búkákásíka
+4.26	tongue	tö́ngö
+4.27	tooth	tánda
+4.271	gums	tándámbéti
+4.272	molartooth	mamágógótánda
+4.28	neck	gangáa
+4.29	throat	tutú
+4.3	shoulder	ahö́máun
+4.31	arm	máun
+4.312	armpit	básúmáun
+4.32	elbow	agómáun
+4.321	wrist	akiikö́umáun
+4.33	hand	máun
+4.34	finger	fínga
+4.342	thumb	gaánfínga
+4.342	thumb	mamáfínga
+4.344	fingernail	húnjan
+4.345	claw	húnjan
+4.35	leg	fútu
+4.351	thigh	asákpáa
+4.352	calf of leg	pantéja
+4.36	knee	kiní
+4.37	foot	fútu
+4.371	ankle	agófútúwójo
+4.372	heel	agófútu
+4.372	heel	bákáfútu
+4.374	footprint	fútu
+4.38	toe	fíngaufútu
+4.392	wing	hánza
+4.393	feather	puúma
+4.4	chest	hátímíndi
+4.41	breast (of woman)	bóbi
+4.412	nipple, teat	bóbíbúka
+4.43	navel	bíngo
+4.44	heart	háti
+4.441	lung	fuköfukö
+4.45	liver	lë́bën
+4.451	kidney	alibí
+4.452	spleen	básu
+4.46	stomach	bë́ë
+4.461	intestines, guts	tiípa
+4.462	waist	míndi
+4.463	hip	djönkú
+4.463	hip	gogómbéti
+4.464	buttocks	gogó
+4.47	womb	bë́ë
+4.49	testicle	kökö
+4.492	penis	pipí
+4.51	breathe, breath	háiböö́
+4.52	yawn, gape	hóha
+4.521	hiccough	tekútekú
+4.53	cough	mbéiköökö́ö
+4.54	sneeze	mbéihékísee
+4.55	perspire	suwá
+4.56	spit	tuntá
+4.57	vomit	gumbitá
+4.57	vomit	baláki
+4.57	vomit	djukú
+4.57	vomit	pió
+4.58	bite	nján
+4.59	lick	lëmbë́
+4.591	dribble	babá
+4.61	sleep	duumí
+4.612	snore	lonká
+4.62	dream	sunján
+4.63	wake up	wéki
+4.64	break wind	kakápuun
+4.65	urinate	miindjá
+4.66	defecate	diiná
+4.66	defecate	kaká
+4.67	have sexual intercourse	tumá
+4.68	shiver	tëëmë́
+4.69	bathe	wási
+4.71	beget (of father)	paí
+4.72	born (to be)	nasí
+4.73	pregnant	dë́kubë́ë
+4.74	live, living, life	vívo
+4.75	die, dead	dë́dë
+4.751	drowned	makéiawáta
+4.76	kill	kíi
+4.77	corpse	dë́dësëmbë
+4.78	bury (the dead)	béi
+4.79	grave, tomb	geébi
+4.81	strong, mighty, powerful	taánga
+4.81	strong, mighty, powerful	sitéífi
+4.82	weak	lë́kíti
+4.83	well, health	búnu
+4.84	sick, sickness	síki
+4.84	sick, sickness	suwáki
+4.841	fever	fë́bë
+4.842	goiter	gaángángáa
+4.842	goiter	gaántútú
+4.843	cold (catarrh)	katáu
+4.85	wound, sore	kasikaási
+4.855	blister	baási
+4.856	boil (noun)	bói
+4.857	pus	bóíwáta
+4.858	scar	kasikaásímááka
+4.86	cure, heal	kulá
+4.87	physician	dáta
+4.88	medicine, drug	deési
+4.89	poison	opión
+4.89	poison	poosián
+4.91	tired, weary	wéi
+4.912	rest	lö́sútu
+4.92	lazy	lési
+4.92	lazy	malë́ngë
+4.93	bald	buukáhédi
+4.94	lame	lán
+4.95	deaf	boókójési
+4.97	blind	boókówójo
+4.98	intoxicated	döö́ngö
+4.99	naked, bare	pë́në́pënë
+5.11	eat	nján
+5.12	food	njanján
+5.121	cooked	mö́i
+5.122	raw	kúákúa
+5.123	ripe	lépi
+5.124	green, unripe	kúa
+5.125	rotten	póndi
+5.13	drink	bebé
+5.14	hunger	hángi
+5.141	famine	gaánhángi
+5.15	thirst	dëë́wáta
+5.16	suck	tjupá
+5.18	chew	bulíbúka
+5.181	swallow	gulí
+5.21	cook	bói
+5.21	cook	fëëbë́
+5.22	boil (vb)	bói
+5.22	boil (vb)	fëëbë́
+5.23	roast, fry	fiidjí
+5.23	roast, fry	jasá
+5.23	roast, fry	báka
+5.24	bake	jasá
+5.24	bake	báka
+5.25	oven	ónfu
+5.26	pot, cooking vessel	awandai
+5.27	kettle	kë́të
+5.28	pan	pánu
+5.31	dish	paabí
+5.32	plate	paabí
+5.33	bowl	apakí
+5.34	pitcher, jug	búngu
+5.35	cup, drinking vessel	sikö́tííki
+5.37	spoon	kujë́ë
+5.38	knife	fáka
+5.39	fork	tjökö́
+5.39	fork	fö́lúku
+5.391	tongs	kaábútánda
+5.41	meal (a)	nján
+5.45	supper	ndétítáfa
+5.46	peel	buuká
+5.46	peel	limbá
+5.47	sieve, strain	maaní
+5.49	stir, mix	mö́kísi
+5.51	bread	bëë́ë
+5.53	dough	boón
+5.54	knead	dián
+5.55	meal, flour	boón
+5.56	crush, grind	lalá
+5.57	mill	mbíi
+5.58	mortar	máta
+5.59	pestle	tatí
+5.61	meat	mbéti
+5.64	soup, broth	baáfu
+5.65	vegetables	gulúntu
+5.66	bean	alibí
+5.7	potato	pomtë́
+5.7	potato	bakáábátáta
+5.71	fruit	fuúta
+5.712	bunch	bóndji
+5.77	nut	nóto
+5.79	oil	fátu
+5.791	grease, fat	fátu
+5.81	salt	sátu
+5.82	pepper	pë́pë
+5.821	chili pepper	pë́pë
+5.84	honey	hö́níwáta
+5.85	sugar	súki
+5.86	milk (noun)	më́íki
+5.88	cheese	kási
+5.89	butter	bótófátu
+5.9	beverage, drink	diíngi
+5.92	wine	wín
+5.93	beer	bíi
+5.94	fermented drink	diíngi
+5.97	egg	óbo
+5.971	egg yolk	bëbë
+6.11	put on (clothes)	bisí
+6.12	clothing, clothes	koósu
+6.13	tailor	náikoósuma
+6.21	cloth	koósu
+6.22	wool	aniítiputu
+6.24	cotton	maáun
+6.28	fur	uwíi
+6.29	leather	kákísa
+6.31	spin	fási
+6.32	spindle	këkë́
+6.33	weave	beéi
+6.35	sew	nái
+6.36	needle	agúja
+6.38	thread	maáun
+6.39	dye	féífi
+6.42	woman's dress	jápo
+6.43	coat	djákíti
+6.44	shirt	hë́mpi
+6.45	collar	bákágángááángísa
+6.46	skirt	kóto
+6.48	trousers	buúku
+6.49	stocking, sock	köúsu
+6.51	shoe	saapátu
+6.51	shoe	súsu
+6.52	boot	godión
+6.55	hat, cap	kaapúsa
+6.57	belt, girdle	bánti
+6.57	belt, girdle	lelibúba
+6.61	pocket	sáku
+6.62	button	kö́nö́pu
+6.63	pin	pilásu
+6.71	ornament, adornment	bisí
+6.72	jewel	djamátísítónu
+6.73	ring (for finger)	andélu
+6.74	bracelet	muungá
+6.75	necklace	kónda
+6.76	bead	peéli
+6.77	earring	línga
+6.79	tattoo	kamambá
+6.81	handkerchief, rag	koósúpísi
+6.82	towel	angísa
+6.91	comb	pénti
+6.92	brush	bö́sö
+6.93	razor	sémíndééfi
+6.94	ointment	fékísi
+6.95	soap	sópu
+6.96	mirror	sipéi
+7.11	dwell, live	líbi
+7.12	house	wósu
+7.14	tent	peláwósu
+7.15	yard, court	djái
+7.17	cookhouse	bóíwósu
+7.21	room	kámba
+7.22	door, gate	dö́ö
+7.221	doorpost, jamb	dö́ö́páu
+7.23	lock (noun)	söö́tö
+7.24	key	söö́tö́míi
+7.25	window	fë́nsë
+7.26	floor	wósúgóón
+7.27	wall	bandja
+7.31	fireplace	fájákámían
+7.32	stove	gási
+7.37	ladder	sikáda
+7.37	ladder	láda
+7.42	bed	bédi
+7.421	pillow	kúnsu
+7.422	blanket	déígi
+7.43	chair	sutúu
+7.44	table	táfa
+7.45	lamp, torch	fája
+7.46	candle	kánda
+7.48	trough	báki
+7.51	roof	wósúlíba
+7.54	rafter	láta
+7.55	beam	bén
+7.55	beam	báíki
+7.56	post, pole	pósu
+7.57	board	paánga
+7.61	mason	mésema
+7.63	mortar	simá
+8.12	field (for cultivation)	goón
+8.13	garden	djaaí
+8.15	cultivate, till	kiijá
+8.16	fence	péni
+8.17	ditch	ngö́tö
+8.21	plow	tjaba
+8.22	dig	díki
+8.23	spade	sikópu
+8.24	shovel	sikópu
+8.25	hoe	ahö́
+8.27	rake	hálíki
+8.31	sow	jaa
+8.311	seed	síi
+8.32	mow, reap	kóti
+8.34	thresh	sakpí
+8.34	thresh	më́
+8.41	crop, harvest	kóti
+8.47	maize, corn	kálu
+8.48	rice	alísi
+8.51	grass	gaási
+8.53	plant (noun)	uwíi
+8.531	plant (vb)	paandí
+8.54	root	lútu
+8.55	branch	máun
+8.56	leaf	uwíi
+8.57	flower	foló
+8.6	tree	páu
+8.67	vine	tatái
+8.68	tobacco	tabáku
+8.69	smoke (tobacco)	sumúku
+8.691	pipe	pípa
+8.72	tree stump	tómpi
+8.73	tree trunk	toómpu
+8.74	forked branch	ahala
+8.75	bark	kákísa
+8.76	sap	wáta
+8.82	coconut	kökönö́tö
+8.83	citrus fruit	apeesína
+8.84	banana tree	bakúba
+8.91	sweet potato	batáta
+8.912	yam	njámísi
+8.92	tapioca, manioc, cassava	kasába
+8.93	gourd	kúja
+8.931	pumpkin, squash	pampú
+8.94	bamboo	bambúsi
+8.941	sugar cane	tjéni
+8.96	fish poison (root)	ndekú
+8.97	nettle	azö
+8.98	mushroom	adikpókpo
+9.11	do, make	dú
+9.12	work	woóko
+9.14	bend	béndi
+9.15	fold	dobá
+9.16	tie, bind	tái
+9.161	untie	lúsu
+9.161	untie	bösö
+9.18	chain	búi
+9.18	chain	kë́ti
+9.19	rope, cord	tatái
+9.192	knot (noun)	agó
+9.21	strike (hit, beat)	náki
+9.211	pound with fist	fón
+9.22	cut	kóti
+9.221	cut down	fáa
+9.223	stab	tjökö́
+9.23	knife	fáka
+9.24	scissors, shears	seséi
+9.25	ax	matjáu
+9.251	adze	lukwétu
+9.26	break	boóko
+9.261	broken	boóko
+9.27	split	latjá
+9.28	tear	fë́n
+9.28	tear	tënë́
+9.31	rub, wipe	feegá
+9.31	rub, wipe	lóbi
+9.32	stretch	tëndë́
+9.33	pull	hái
+9.34	spread out	paajá
+9.341	hang up	hë́ngi
+9.342	press	zín
+9.343	squeeze, wring	peetá
+9.343	squeeze, wring	kwíndji
+9.343	squeeze, wring	zín
+9.35	pour	kándi
+9.35	pour	tutú
+9.36	wash	wási
+9.37	sweep	baí
+9.38	broom	basö́ö
+9.422	tool	félu
+9.43	carpenter	të́mbëma
+9.44	build	mbéi
+9.46	bore	bólu
+9.461	hollow out	díki
+9.48	saw	sán
+9.49	hammer	háma
+9.5	nail	peégu
+9.56	glue	láki
+9.64	gold	goútu
+9.65	silver	sóófu
+9.66	copper, bronze	kö́pö
+9.67	iron	félu
+9.68	lead (noun)	lóto
+9.74	glass	gaási
+9.75	weave, plait	beéi
+9.76	basket	mánda
+9.77	mat	káma
+9.79	fan (noun)	wawái
+9.81	carve	të́mbë
+9.82	sculptor	të́mbëma
+9.83	statue	pindi
+9.83	statue	póbíki
+9.84	chisel	bë́të
+9.88	paint (noun)	féífi
+9.89	paint (vb)	féífi
+10.11	move	bulí
+10.12	turn over	béndi
+10.13	turn around	biá
+10.14	wind, wrap	dimbolí
+10.15	roll	lolá
+10.15	roll	logodá
+10.17	twist	toosá
+10.21	rise	hópo
+10.22	raise, lift	hópo
+10.23	fall	kaí
+10.24	drip	tötö
+10.25	throw	híti
+10.252	catch (ball)	kísi
+10.26	shake	séki
+10.26	shake	djëkpë
+10.32	flow	kulé
+10.33	sink	síngi
+10.34	float	diípi
+10.35	swim	sún
+10.351	dive	dóki
+10.352	splash	jaa
+10.36	sail (vb)	púuzéibóto
+10.37	fly (vb)	buwá
+10.38	blow	böö́
+10.41	creep, crawl	háikubë́ë
+10.412	kneel	kaíkukiní
+10.413	crouch	djökötö́
+10.42	slide, slip	koogá
+10.43	jump, leap	djómbo
+10.431	kick	sikópu
+10.44	dance	bajá
+10.45	walk	wáka
+10.451	limp	tónto
+10.46	run	kulé
+10.47	go	gó
+10.471	go up	subí
+10.472	climb	subí
+10.473	go down	baziá
+10.473	go down	sáka
+10.474	go out	kumútu
+10.48	come	kó
+10.481	come back	tooná
+10.49	go away, depart	disá
+10.491	disappear	fusí
+10.51	flee	fusí
+10.52	follow	faáka
+10.53	pursue	jáka
+10.55	reach, arrive	dóu
+10.57	enter	dendá
+10.61	carry (bear)	tjá
+10.613	carry-on-shoulder	adjö́kömë
+10.614	carry-on-head	agbágba
+10.63	send	mandá
+10.64	lead (vb)	tíi
+10.65	drive	lë́i
+10.67	push, shove	tö́tö
+10.67	push, shove	tuúsi
+10.71	road	pási
+10.72	path	pási
+10.74	bridge	boóki
+10.75	carriage, wagon, cart	wági
+10.76	wheel	wágífútu
+10.77	axle	masíníási
+10.81	ship	sípi
+10.83	boat	bóto
+10.831	canoe	palibóto
+10.84	raft	údúpáki
+10.851	paddle (noun)	páda
+10.852	row (vb)	púu
+10.88	sail (noun)	zéi
+10.89	anchor	hánka
+10.92	land (vb)	tjökö́
+11.11	have	ábi
+11.12	own, possess	ábi
+11.13	take	téi
+11.14	seize, grasp	panján
+11.15	hold	panjá
+11.15	hold	hói
+11.16	get, obtain	kísi
+11.17	keep, retain	hói
+11.18	thing	soní
+11.21	give	dá
+11.22	give back	toonádá
+11.24	preserve, look after	tjubí
+11.27	destroy	boóko
+11.28	harm, injure, damage	háti
+11.31	seek, look for	súku
+11.32	find	féndi
+11.33	lose	lási
+11.34	release, let go	disá
+11.43	money	mö́ni
+11.44	coin	kpë́ngë́lë́mö́ni
+11.51	rich	gúdu
+11.52	poor	pená
+11.52	poor	pootí
+11.53	beggar	pootíma
+11.54	avaricious, stingy	giíi
+11.61	lend	léni
+11.62	borrow	léni
+11.64	debt	paimá
+11.65	pay (vb)	paká
+11.69	tax, tribute	lantimö́ni
+11.78	wages	paká
+11.81	buy	bái
+11.82	sell	séi
+11.84	merchant	séisónima
+11.85	market (place)	wojowójo
+11.86	store, shop	wë́nkë
+11.88	dear (costly, expensive)	díi
+11.89	cheap	búnkópu
+11.91	share (distribute)	paatí
+11.92	weigh	wégi
+12.11	place	kamían
+12.12	put	butá
+12.13	sit	sindó
+12.14	lie down	kándi
+12.15	stand	taámpu
+12.16	remain, stay	fiká
+12.21	collect, gather	píi
+12.212	pick up	píi
+12.22	join, unite	namá
+12.23	separate	paatí
+12.232	divide	paatí
+12.24	open	jabí
+12.25	shut, close	tapá
+12.26	cover	tapá
+12.27	hide, conceal	tjubí
+12.31	high	héi
+12.33	top	hédi
+12.34	bottom	básu
+12.35	end	gogó
+12.352	pointed	tjö́nítjö́ni
+12.353	edge	lénti
+12.353	edge	búka
+12.36	side	bandja
+12.37	middle, center	míndi
+12.41	right (side)	léti
+12.42	left (side)	töö́tö
+12.43	near (adv)	zúntu
+12.44	far (adv)	lóngi
+12.45	east	sónúkúmútu
+12.46	west	sónugo
+12.47	north	básusë
+12.48	south	líbasë
+12.53	grow	nasí
+12.54	measure	maaká
+12.55	large, big	gaán
+12.56	small, little	pikí
+12.56	small, little	sumáa
+12.57	long	lánga
+12.58	tall	lánga
+12.59	short	sáti
+12.61	wide, broad	baái
+12.62	narrow	fitjá
+12.63	thick (in dimension)	dégi
+12.65	thin (in dimension)	fínu
+12.65	thin (in dimension)	mángu
+12.67	deep	fúndu
+12.71	flat	paáta
+12.74	crooked	töö́tö
+12.74	crooked	béndíbéndi
+12.75	hook	húku
+12.76	corner	tjö́ni
+12.77	cross	lakwá
+12.78	square	fö́kánti
+12.81	round	logoo
+12.82	circle	tjangaa
+12.83	sphere, ball	báli
+12.84	line	lín
+12.84	line	alö
+12.85	hole	baáku
+12.92	like, similar	djéi
+12.93	change	tooká
+13.1	one	téni
+13.101	eleven	ë́lúfu
+13.102	twelve	tuwálufu
+13.103	fifteen	téniaféífi
+13.104	twenty	túwénti
+13.105	hundred	hö́ndö
+13.106	thousand	dúsu
+13.107	count	kondá
+13.14	every, all	túu
+13.14	every, all	híi
+13.15	much, many	hía
+13.16	more	mö́ön
+13.17	little (quantity), few	wántú
+13.18	enough	tjiká
+13.181	some	wánlö
+13.21	full	fúu
+13.22	empty	sö́sö
+13.23	part, piece	písi
+13.24	half	háfu
+13.33	alone, only	wánwan
+13.34	first	fósu
+13.35	last	kabá
+13.37	pair	páa
+13.38	two times	túpási
+13.44	three times	díípási
+14.11	time	tén
+14.13	new	njúnjun
+14.14	young	njö́nku
+14.15	old	gaándi
+14.15	old	awoo
+14.16	early	fuúku
+14.17	late	láti
+14.18	now	awáa
+14.19	immediately	wántéwante
+14.21	swift, fast, quick	hési
+14.21	swift, fast, quick	gáu
+14.22	slow	sáápísáápi
+14.22	slow	téígi
+14.23	hasten, hurry	biingá
+14.24	retard, delay	láti
+14.25	begin, beginning	bigí
+14.26	end (temporal)	kabá
+14.27	finish	kabá
+14.28	cease, stop	kabá
+14.29	ready	kabá
+14.31	always	nö́ö́mö
+14.32	often	híniwánten
+14.33	sometimes	sotoón
+14.331	soon	abítímö́ön
+14.331	soon	djúnsu
+14.332	long-time (for a)	té
+14.34	never	mö́önsö
+14.34	never	nö́íti
+14.35	again	báka
+14.41	day	didía
+14.42	night	ndéti
+14.43	dawn	sónúbóókotákó
+14.44	morning	mámate
+14.45	noon, midday	sónúáti
+14.451	afternoon	sápate
+14.46	evening	ndétíbúka
+14.47	today	tidé
+14.48	tomorrow	amanján
+14.481	day-after-tomorrow	ótoamanján
+14.49	yesterday	jéside
+14.491	day-before-yesterday	ótojéside
+14.51	hour	júu
+14.53	clock, timepiece	olóísi
+14.61	week	sabá
+14.61	week	wíki
+14.62	Sunday	sónde
+14.63	Monday	fö́dáka
+14.64	Tuesday	féifídáka
+14.65	Wednesday	pikísaba
+14.65	Wednesday	sumáásaba
+14.66	Thursday	gaánsaba
+14.67	Friday	fééda
+14.68	Saturday	sata
+14.71	month	líba
+14.73	year	jáa
+15.21	smell (vb intrans)	sumë́ë
+15.212	sniff	háinúsu
+15.22	smell (vb trans)	sumë́ë
+15.25	fragrant, good smelling	sumë́ë́súti
+15.26	stinking, bad smelling	tíngi
+15.31	taste	tési
+15.35	sweet	súti
+15.37	bitter	bíta
+15.38	acid, sour	gándji
+15.41	hear	jéi
+15.42	listen	háíka
+15.44	sound, noise	fan
+15.45	loud	taánga
+15.46	quiet, silence	sáápi
+15.51	see	sí
+15.52	look, look at	lúku
+15.55	show	léi
+15.56	shine	sëndë́
+15.57	bright	sëndë́
+15.62	light (in color)	límbo
+15.63	dark (in color)	dúngu
+15.63	dark (in color)	sugúu
+15.64	white	wéti
+15.65	black	baáka
+15.66	red	bë
+15.67	blue	baáu
+15.68	green	guúun
+15.69	yellow	kóóko
+15.71	touch	namá
+15.712	pinch	píndja
+15.72	feel	fíi
+15.74	hard	taánga
+15.75	soft	mö́i
+15.75	soft	fulufulu
+15.77	smooth	línzo
+15.78	sharp	saápu
+15.81	heavy	hébi
+15.82	light (in weight)	fúkë
+15.83	wet, damp	munján
+15.84	dry	dëë́
+15.85	hot	kéndi
+15.851	warm	kéndi
+15.86	cold	kö́tö
+15.87	clean	límbo
+15.88	dirty, soiled	nási
+15.89	wrinkled	kpíngíkpíngi
+16.11	soul, spirit	akáa
+16.18	good fortune, luck	kölö́ku
+16.18	good fortune, luck	búnúhédi
+16.19	misfortune, bad luck	wógíhédi
+16.23	joyful, glad, happy	piizíi
+16.23	joyful, glad, happy	wái
+16.25	laugh	láfu
+16.251	smile	jabítánda
+16.26	play	pëë́
+16.27	love	lóbi
+16.29	kiss	bósi
+16.3	embrace	baasá
+16.31	pain	pén
+16.32	grief, sorrow, sadness	tjalí
+16.33	anxiety, worry	boókóhédi
+16.34	regret, be sorry	pená
+16.35	pity	sáa
+16.37	cry, weep	këë́
+16.38	tear (noun)	wójówáta
+16.39	groan	giitá
+16.39	groan	djëmë́
+16.41	hate	buusé
+16.42	anger	hátíbóónu
+16.44	envy, jealousy	fédja
+16.45	shame (noun)	sén
+16.48	proud	gaánfási
+16.51	dare	peevú
+16.52	brave	dégíháti
+16.53	fear, fright	fëë́ë
+16.54	danger	hógi
+16.62	desire, want	kë́
+16.66	true	léti
+16.67	lie, tell lies	lëgëdë
+16.68	deceit	ganjá
+16.71	good	búnu
+16.72	bad	pói
+16.72	bad	hógi
+16.72	bad	taku
+16.73	right, correct	léti
+16.76	fault	fö́útu
+16.77	mistake, error	fö́útu
+16.78	blame	hébi
+16.79	praise	gafá
+16.81	beautiful	hánse
+16.82	ugly	taku
+16.84	clever	kö́ni
+17.13	think (= reflect)	pakiséi
+17.14	think (= be of the opinion)	më́ni
+17.14	think (= be of the opinion)	tínga
+17.15	believe	biíbi
+17.16	understand	fusután
+17.17	know	sábi
+17.172	imitate	djeési
+17.18	seem	djéi
+17.19	idea, notion	háti
+17.21	wise	tjáhédi
+17.22	foolish, stupid	dón
+17.23	insane, crazy	laú
+17.24	learn	léi
+17.242	study	léi
+17.25	teach	léi
+17.27	teacher	më́sítë
+17.28	school	sikö́ö
+17.31	remember	më́mbë
+17.32	forget	fëëkë́të
+17.34	clear, plain	límbo
+17.35	obscure	dúngu
+17.36	secret	goónbë́ë́óto
+17.37	sure, certain	sóífi
+17.38	explain	púu
+17.42	cause	bákaudíwóto
+17.441	betray	kö́nku
+17.45	need, necessity	nö́útu
+17.46	easy	fúkë
+17.47	difficult	taánga
+17.48	try, attempt	poobá
+17.49	way, manner	fási
+17.51	and	ku
+17.52	because	bíga
+17.52	because	fudí
+17.53	if	ée
+17.54	or	násö
+17.55	yes, affirmative	aái
+17.56	no, negative	nö́nö́
+17.61	how?	unfá
+17.62	how many?	únmë́ni
+17.63	how much?	únmë́ni
+17.64	what?	andí
+17.65	when?	naúnten
+17.66	where?	naunsë́
+17.67	which?	ún
+17.68	who?	ambë́
+17.69	why?	faándímbéi
+18.11	voice	tö́ngö
+18.12	sing	kandá
+18.13	shout, cry out	bái
+18.17	whistle	fofío
+18.21	speak, talk	fan
+18.211	stutter, stammer	ngáku
+18.22	say	táki
+18.221	tell story	kondá
+18.222	speech (make a)	fan
+18.24	language	tö́ngö
+18.26	word	wö́útu
+18.28	name	në́
+18.31	ask (question, inquire)	hákísi
+18.32	answer	píki
+18.33	admit, confess	kósí
+18.34	deny	fiá
+18.35	ask, request	pidí
+18.36	promise	paamúsi
+18.37	refuse	niingá
+18.38	forbid	tapá
+18.39	rebuke, scold	kósi
+18.41	call (=summon)	bái
+18.42	call (=name)	kái
+18.43	announce	tjábúkakó
+18.44	threaten	bëwójo
+18.45	boast	njánbúka
+18.51	write	sikífi
+18.52	read	lési
+18.56	paper	pampía
+18.57	pen	pë́ni
+18.61	book	búku
+18.71	flute	foloíti
+18.72	drum	doón
+18.73	horn, trumpet	tutú
+18.74	rattle	tjaká
+19.11	country	kö́ndë
+19.15	city, town	fóto
+19.16	village	kö́ndë
+19.17	boundary	lántímááka
+19.21	people (populace)	nasíön
+19.23	tribe, clan	lö́
+19.24	chief, chieftain	gaamá
+19.25	staff, walking stick	kokotí
+19.25	staff, walking stick	wakatíki
+19.31	rule, govern	tíi
+19.32	king, ruler	kö́nu
+19.33	queen	kö́númújë́ë
+19.33	queen	mújë́ë́kö́nu
+19.41	master	mása
+19.42	slave	saáfu
+19.43	servant	woókoma
+19.44	freeman	fiíma
+19.45	command, order	mandá
+19.45	command, order	kumadéi
+19.47	let, permit	bé
+19.51	friend, companion	máti
+19.51	friend, companion	kómpe
+19.51	friend, companion	bája
+19.52	enemy	buuséma
+19.52	enemy	feántima
+19.56	guest	wakamá
+19.58	help, aid	heépi
+19.59	hinder, prevent	tapá
+19.61	custom	guwénti
+19.62	strife, quarrel	búja
+19.65	meet	míti
+19.72	prostitute	mötjö́
+20.11	fight (vb)	féti
+20.13	war, battle	féti
+20.17	soldier	sodáti
+20.21	weapons, arms	fétílái
+20.22	club	kódjo
+20.23	sling	víndema
+20.24	bow	bö́
+20.25	arrow	piiwá
+20.26	spear	lánza
+20.28	gun, cannon	góni
+20.36	tower	tö́lu
+20.41	victory	wíni
+20.471	guard, sentinel	wátjima
+20.49	ambush	wátji
+20.52	fishhook	húku
+20.54	fishnet	në́ti
+20.54	fishnet	séépi
+20.54	fishnet	taamáni
+20.55	fish trap	bakisi
+20.56	bait	béti
+20.61	hunt	hö́ndi
+20.62	shoot	súti
+20.63	miss (target)	mísi
+20.64	trap (noun)	taápu
+20.64	trap (noun)	aviti
+20.65	trap (vb)	kísi
+21.11	law	wë́ti
+21.15	court	kuútu
+21.16	judge (vb)	hóikuútu
+21.17	judgment	táki
+21.18	judge (noun)	kuútúbákáa
+21.23	witness	kotóígima
+21.24	swear	djulá
+21.24	swear	sói
+21.37	penalty, punishment	sitááfu
+21.38	fine	bútu
+21.39	prison, jail	dunguwósu
+21.51	steal	fufúu
+21.52	thief	fufúuma
+21.31	accuse	kaági
+3.71	wolf	sabánádágu
+9.6	smith, blacksmith	simítima

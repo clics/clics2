@@ -1,0 +1,1864 @@
+ID,Language_ID,Feature_ID,IDS_Key,Value,Concept,IPA_UDECODE
+clics-doculect-62-1,nucl1643-std,concepticon-965,1.1,sekai,world,sekai
+clics-doculect-62-2,nucl1643-std,concepticon-965,1.1,yo,world,yo
+clics-doculect-62-3,nucl1643-std,concepticon-626,1.21,tairiku,"earth, land",tairiku
+clics-doculect-62-4,nucl1643-std,concepticon-626,1.21,rikuchi,"earth, land",rikuchi
+clics-doculect-62-5,nucl1643-std,concepticon-626,1.21,riku,"earth, land",riku
+clics-doculect-62-6,nucl1643-std,concepticon-1228,1.212,tsuchi,"earth=ground, soil",tsuchi
+clics-doculect-62-7,nucl1643-std,concepticon-2,1.213,hokori,dust,hokori
+clics-doculect-62-8,nucl1643-std,concepticon-640,1.214,doro,mud,doro
+clics-doculect-62-9,nucl1643-std,concepticon-671,1.215,suna,sand,suna
+clics-doculect-62-10,nucl1643-std,concepticon-2118,1.22,yama,"mountain, hill",yama
+clics-doculect-62-11,nucl1643-std,concepticon-2118,1.22,oka,"mountain, hill",oka
+clics-doculect-62-12,nucl1643-std,concepticon-618,1.222,gake,"cliff, precipice",gake
+clics-doculect-62-13,nucl1643-std,concepticon-652,1.23,heichi,"plain, field",heichi
+clics-doculect-62-14,nucl1643-std,concepticon-652,1.23,nohara,"plain, field",nohara
+clics-doculect-62-15,nucl1643-std,concepticon-921,1.24,tani,valley,tani
+clics-doculect-62-16,nucl1643-std,concepticon-622,1.25,shima,island,shima
+clics-doculect-62-17,nucl1643-std,concepticon-166,1.26,naichi,mainland,naichi
+clics-doculect-62-18,nucl1643-std,concepticon-166,1.26,tairiku,mainland,tairiku
+clics-doculect-62-19,nucl1643-std,concepticon-113,1.27,kishi,shore,kishi
+clics-doculect-62-20,nucl1643-std,concepticon-113,1.27,kaigan,shore,kaigan
+clics-doculect-62-21,nucl1643-std,concepticon-113,1.27,kagan,shore,kagan
+clics-doculect-62-22,nucl1643-std,concepticon-1155,1.28,dōkutsu,cave,dokutsu
+clics-doculect-62-23,nucl1643-std,concepticon-1155,1.28,horaana,cave,horaana
+clics-doculect-62-24,nucl1643-std,concepticon-948,1.31,mizu,water,mizu
+clics-doculect-62-25,nucl1643-std,concepticon-1474,1.32,umi,sea,umi
+clics-doculect-62-26,nucl1643-std,concepticon-258,1.322,nagi,calm (of sea),nagi
+clics-doculect-62-27,nucl1643-std,concepticon-259,1.323,shikeru,rough (of sea),shikeru
+clics-doculect-62-28,nucl1643-std,concepticon-1768,1.324,awa,foam,awa
+clics-doculect-62-29,nucl1643-std,concepticon-645,1.329,kaiyō,ocean,kaiyo
+clics-doculect-62-30,nucl1643-std,concepticon-645,1.329,taiyō,ocean,taiyo
+clics-doculect-62-31,nucl1643-std,concepticon-624,1.33,mizuumi,lake,mizuumi
+clics-doculect-62-32,nucl1643-std,concepticon-624,1.33,ike,lake,ike
+clics-doculect-62-33,nucl1643-std,concepticon-663,1.34,irie,"gulf, bay",irie
+clics-doculect-62-34,nucl1643-std,concepticon-663,1.34,wan,"gulf, bay",wan
+clics-doculect-62-35,nucl1643-std,concepticon-623,1.341,kata,lagoon,kata
+clics-doculect-62-36,nucl1643-std,concepticon-660,1.342,anshō,reef,ansho
+clics-doculect-62-37,nucl1643-std,concepticon-1662,1.343,misaki,"headland, point",misaki
+clics-doculect-62-38,nucl1643-std,concepticon-978,1.35,nami,wave,nami
+clics-doculect-62-39,nucl1643-std,concepticon-891,1.352,shio,tide,shio
+clics-doculect-62-40,nucl1643-std,concepticon-1026,1.353,hikishio,lowtide,hikishio
+clics-doculect-62-41,nucl1643-std,concepticon-1026,1.353,kanchō,lowtide,kancho
+clics-doculect-62-42,nucl1643-std,concepticon-613,1.354,michishio,hightide,michishio
+clics-doculect-62-43,nucl1643-std,concepticon-613,1.354,manchō,hightide,mancho
+clics-doculect-62-44,nucl1643-std,concepticon-666,1.36,kawa,"river, stream, brook",kawa
+clics-doculect-62-45,nucl1643-std,concepticon-1982,1.362,uzumaki,whirlpool,uzumaki
+clics-doculect-62-46,nucl1643-std,concepticon-2144,1.37,izumi,"spring, well",izumi
+clics-doculect-62-47,nucl1643-std,concepticon-2144,1.37,ido,"spring, well",ido
+clics-doculect-62-48,nucl1643-std,concepticon-1145,1.38,numa,swamp,numa
+clics-doculect-62-49,nucl1643-std,concepticon-1145,1.38,shitchi,swamp,shitchi
+clics-doculect-62-50,nucl1643-std,concepticon-943,1.39,taki,waterfall,taki
+clics-doculect-62-51,nucl1643-std,concepticon-420,1.41,mori,"woods, forest",mori
+clics-doculect-62-52,nucl1643-std,concepticon-420,1.41,hayashi,"woods, forest",hayashi
+clics-doculect-62-53,nucl1643-std,concepticon-1803,1.43,ki,wood,ki
+clics-doculect-62-54,nucl1643-std,concepticon-1803,1.43,mokuzai,wood,mokuzai
+clics-doculect-62-55,nucl1643-std,concepticon-2125,1.44,ishi,"stone, rock",ishi
+clics-doculect-62-56,nucl1643-std,concepticon-2125,1.44,iwa,"stone, rock",iwa
+clics-doculect-62-57,nucl1643-std,concepticon-6,1.45,jishin,earthquake,jishin
+clics-doculect-62-58,nucl1643-std,concepticon-1732,1.51,sora,sky,sora
+clics-doculect-62-59,nucl1643-std,concepticon-1343,1.52,hi,sun,hi
+clics-doculect-62-60,nucl1643-std,concepticon-1343,1.52,taiyō,sun,taiyo
+clics-doculect-62-61,nucl1643-std,concepticon-1313,1.53,tsuki,moon,tsuki
+clics-doculect-62-62,nucl1643-std,concepticon-1430,1.54,hoshi,star,hoshi
+clics-doculect-62-63,nucl1643-std,concepticon-1654,1.55,inazuma,lightning,inazuma
+clics-doculect-62-64,nucl1643-std,concepticon-1150,1.56,kaminari,thunder,kaminari
+clics-doculect-62-65,nucl1643-std,concepticon-1150,1.56,ikazuchi,thunder,ikazuchi
+clics-doculect-62-66,nucl1643-std,concepticon-2007,1.57,kaminari,lightning (as striking),kaminari
+clics-doculect-62-67,nucl1643-std,concepticon-2007,1.57,rakurai,lightning (as striking),rakurai
+clics-doculect-62-68,nucl1643-std,concepticon-858,1.58,arashi,storm,arashi
+clics-doculect-62-69,nucl1643-std,concepticon-1733,1.59,niji,rainbow,niji
+clics-doculect-62-70,nucl1643-std,concepticon-630,1.61,hikari,light (noun),hikari
+clics-doculect-62-71,nucl1643-std,concepticon-11,1.62,yami,darkness,yami
+clics-doculect-62-72,nucl1643-std,concepticon-1388,1.63,kage,"shade, shadow",kage
+clics-doculect-62-73,nucl1643-std,concepticon-1977,1.64,tsuyu,dew,tsuyu
+clics-doculect-62-74,nucl1643-std,concepticon-27,1.71,kūki,air,kuki
+clics-doculect-62-75,nucl1643-std,concepticon-960,1.72,kaze,wind,kaze
+clics-doculect-62-76,nucl1643-std,concepticon-1489,1.73,kumo,cloud,kumo
+clics-doculect-62-77,nucl1643-std,concepticon-249,1.74,kiri,fog,kiri
+clics-doculect-62-78,nucl1643-std,concepticon-658,1.75,ame,rain (noun),ame
+clics-doculect-62-79,nucl1643-std,concepticon-784,1.76,yuki,snow (noun),yuki
+clics-doculect-62-80,nucl1643-std,concepticon-617,1.77,kōri,ice,kori
+clics-doculect-62-81,nucl1643-std,concepticon-952,1.78,tenki,weather,tenki
+clics-doculect-62-82,nucl1643-std,concepticon-952,1.78,tenkō,weather,tenko
+clics-doculect-62-83,nucl1643-std,concepticon-221,1.81,hi,fire,hi
+clics-doculect-62-84,nucl1643-std,concepticon-889,1.82,honoo,flame (noun),honoo
+clics-doculect-62-85,nucl1643-std,concepticon-778,1.83,kemuri,smoke (noun),kemuri
+clics-doculect-62-86,nucl1643-std,concepticon-646,1.84,hai,ashes,hai
+clics-doculect-62-87,nucl1643-std,concepticon-67,1.841,moesashi,embers,moesashi
+clics-doculect-62-88,nucl1643-std,concepticon-141,1.851,moyasu,burn (vb trans),moyasu
+clics-doculect-62-89,nucl1643-std,concepticon-1428,1.852,moeru,burn (vb intrans),moeru
+clics-doculect-62-90,nucl1643-std,concepticon-737,1.86,tomosu,"light, kindle, ignite",tomosu
+clics-doculect-62-91,nucl1643-std,concepticon-127,1.861,kesu,extinguish,kesu
+clics-doculect-62-92,nucl1643-std,concepticon-1133,1.87,matchi,match (noun),matchi
+clics-doculect-62-93,nucl1643-std,concepticon-10,1.88,maki,firewood,maki
+clics-doculect-62-94,nucl1643-std,concepticon-10,1.88,takigi,firewood,takigi
+clics-doculect-62-95,nucl1643-std,concepticon-1188,1.89,sumi,charcoal,sumi
+clics-doculect-62-96,nucl1643-std,concepticon-1188,1.89,mokutan,charcoal,mokutan
+clics-doculect-62-97,nucl1643-std,concepticon-683,2.1,hito,"person, human being",hito
+clics-doculect-62-98,nucl1643-std,concepticon-683,2.1,ningen,"person, human being",ningen
+clics-doculect-62-99,nucl1643-std,concepticon-1554,2.21,otoko,man (vs. woman),otoko
+clics-doculect-62-100,nucl1643-std,concepticon-1554,2.21,dansei,man (vs. woman),dansei
+clics-doculect-62-101,nucl1643-std,concepticon-962,2.22,onna,woman,onna
+clics-doculect-62-102,nucl1643-std,concepticon-962,2.22,josei,woman,josei
+clics-doculect-62-103,nucl1643-std,concepticon-1553,2.23,otoko,male,otoko
+clics-doculect-62-104,nucl1643-std,concepticon-1553,2.23,dansei,male,dansei
+clics-doculect-62-105,nucl1643-std,concepticon-1551,2.24,onna,female,onna
+clics-doculect-62-106,nucl1643-std,concepticon-1551,2.24,josei,female,josei
+clics-doculect-62-107,nucl1643-std,concepticon-1366,2.25,otokonoko,boy,otokonoko
+clics-doculect-62-108,nucl1643-std,concepticon-1366,2.25,danshi,boy,danshi
+clics-doculect-62-109,nucl1643-std,concepticon-1366,2.25,shōnen,boy,shonen
+clics-doculect-62-110,nucl1643-std,concepticon-76,2.251,seinen,young man (adolescent),seinen
+clics-doculect-62-111,nucl1643-std,concepticon-76,2.251,wakamono,young man (adolescent),wakamono
+clics-doculect-62-112,nucl1643-std,concepticon-1646,2.26,onnanoko,girl,onnanoko
+clics-doculect-62-113,nucl1643-std,concepticon-1646,2.26,joshi,girl,joshi
+clics-doculect-62-114,nucl1643-std,concepticon-1646,2.26,shōjo,girl,shojo
+clics-doculect-62-115,nucl1643-std,concepticon-77,2.261,seijo,young woman (adolescent),seijo
+clics-doculect-62-116,nucl1643-std,concepticon-77,2.261,otome,young woman (adolescent),otome
+clics-doculect-62-117,nucl1643-std,concepticon-1304,2.27,kodomo,child,kodomo
+clics-doculect-62-118,nucl1643-std,concepticon-1289,2.28,akachan,"infant, baby",akachan
+clics-doculect-62-119,nucl1643-std,concepticon-1200,2.31,otto,husband,otto
+clics-doculect-62-120,nucl1643-std,concepticon-1200,2.31,danna,husband,danna
+clics-doculect-62-121,nucl1643-std,concepticon-1200,2.31,shujin,husband,shujin
+clics-doculect-62-122,nucl1643-std,concepticon-1200,2.31,teishu,husband,teishu
+clics-doculect-62-123,nucl1643-std,concepticon-1199,2.32,tsuma,wife,tsuma
+clics-doculect-62-124,nucl1643-std,concepticon-1199,2.32,okusan,wife,okusan
+clics-doculect-62-125,nucl1643-std,concepticon-1199,2.32,kanai,wife,kanai
+clics-doculect-62-126,nucl1643-std,concepticon-1199,2.32,nyōbō,wife,nyobo
+clics-doculect-62-127,nucl1643-std,concepticon-203,2.33,kekkon,marry,kekkon
+clics-doculect-62-128,nucl1643-std,concepticon-1259,2.34,kekkonshiki,"marriage, wedding",kekkonshiki
+clics-doculect-62-129,nucl1643-std,concepticon-1134,2.341,rikon,divorce,rikon
+clics-doculect-62-130,nucl1643-std,concepticon-1217,2.35,chichi,father,chichi
+clics-doculect-62-131,nucl1643-std,concepticon-1217,2.35,otōsan,father,otosan
+clics-doculect-62-132,nucl1643-std,concepticon-1216,2.36,haha,mother,haha
+clics-doculect-62-133,nucl1643-std,concepticon-1216,2.36,okāsan,mother,okasan
+clics-doculect-62-134,nucl1643-std,concepticon-505,2.37,oya,parents,oya
+clics-doculect-62-135,nucl1643-std,concepticon-505,2.37,ryōshin,parents,ryoshin
+clics-doculect-62-136,nucl1643-std,concepticon-424,2.38,saitaisha,married man,saitaisha
+clics-doculect-62-137,nucl1643-std,concepticon-426,2.39,hitozuma,married woman,hitozuma
+clics-doculect-62-138,nucl1643-std,concepticon-1620,2.41,musuko,son,musuko
+clics-doculect-62-139,nucl1643-std,concepticon-1357,2.42,musume,daughter,musume
+clics-doculect-62-140,nucl1643-std,concepticon-1801,2.43,kodomo,offspring (son or daughter),kodomo
+clics-doculect-62-141,nucl1643-std,concepticon-1262,2.44,otokokyōdai,brother,otokokyodai
+clics-doculect-62-142,nucl1643-std,concepticon-1262,2.44,keitei,brother,keitei
+clics-doculect-62-143,nucl1643-std,concepticon-1759,2.444,ani,older brother,ani
+clics-doculect-62-144,nucl1643-std,concepticon-1759,2.444,oniisan,older brother,oniisan
+clics-doculect-62-145,nucl1643-std,concepticon-1760,2.445,otōto,younger brother,ototo
+clics-doculect-62-146,nucl1643-std,concepticon-1263,2.45,shimai,sister,shimai
+clics-doculect-62-147,nucl1643-std,concepticon-1263,2.45,onnakyōdai,sister,onnakyodai
+clics-doculect-62-148,nucl1643-std,concepticon-1758,2.454,ane,older sister,ane
+clics-doculect-62-149,nucl1643-std,concepticon-1758,2.454,onēsan,older sister,onesan
+clics-doculect-62-150,nucl1643-std,concepticon-1761,2.455,imōto,younger sister,imoto
+clics-doculect-62-151,nucl1643-std,concepticon-1640,2.456,kyōdai,sibling,kyodai
+clics-doculect-62-152,nucl1643-std,concepticon-1640,2.456,kyōdaishimai,sibling,kyodaishimai
+clics-doculect-62-153,nucl1643-std,concepticon-1005,2.458,futago,twins,futago
+clics-doculect-62-154,nucl1643-std,concepticon-1383,2.46,sofu,grandfather,sofu
+clics-doculect-62-155,nucl1643-std,concepticon-1383,2.46,ojiisan,grandfather,ojiisan
+clics-doculect-62-156,nucl1643-std,concepticon-406,2.461,rōjin,old man,rojin
+clics-doculect-62-157,nucl1643-std,concepticon-406,2.461,toshiyori,old man,toshiyori
+clics-doculect-62-158,nucl1643-std,concepticon-406,2.461,ojiisan,old man,ojiisan
+clics-doculect-62-159,nucl1643-std,concepticon-1496,2.47,sobo,grandmother,sobo
+clics-doculect-62-160,nucl1643-std,concepticon-1496,2.47,obāsan,grandmother,obasan
+clics-doculect-62-161,nucl1643-std,concepticon-907,2.471,rōba,old woman,roba
+clics-doculect-62-162,nucl1643-std,concepticon-907,2.471,obāsan,old woman,obasan
+clics-doculect-62-163,nucl1643-std,concepticon-907,2.471,rōfu,old woman,rofu
+clics-doculect-62-164,nucl1643-std,concepticon-1618,2.48,mago,grandson,mago
+clics-doculect-62-165,nucl1643-std,concepticon-1619,2.49,magomusume,granddaughter,magomusume
+clics-doculect-62-166,nucl1643-std,concepticon-1327,2.51,oji,uncle,oji
+clics-doculect-62-167,nucl1643-std,concepticon-1984,2.511,oji,mother's brother,oji
+clics-doculect-62-168,nucl1643-std,concepticon-1985,2.512,oji,father's brother,oji
+clics-doculect-62-169,nucl1643-std,concepticon-1272,2.52,oba,aunt,oba
+clics-doculect-62-170,nucl1643-std,concepticon-171,2.521,oba,mother's sister,oba
+clics-doculect-62-171,nucl1643-std,concepticon-170,2.522,oba,father's sister,oba
+clics-doculect-62-172,nucl1643-std,concepticon-1063,2.53,oi,nephew,oi
+clics-doculect-62-173,nucl1643-std,concepticon-1642,2.54,mei,niece,mei
+clics-doculect-62-174,nucl1643-std,concepticon-1643,2.55,itoko,cousin,itoko
+clics-doculect-62-175,nucl1643-std,concepticon-1669,2.56,senzo,ancestors,senzo
+clics-doculect-62-176,nucl1643-std,concepticon-490,2.57,shison,descendants,shison
+clics-doculect-62-177,nucl1643-std,concepticon-2255,2.61,shūto,father-in-law (of a man),shuto
+clics-doculect-62-178,nucl1643-std,concepticon-2254,2.611,shūto,father-in-law (of a woman),shuto
+clics-doculect-62-179,nucl1643-std,concepticon-2256,2.62,shūtome,mother-in-law (of a man),shutome
+clics-doculect-62-180,nucl1643-std,concepticon-2257,2.621,shūtome,mother-in-law (of a woman),shutome
+clics-doculect-62-181,nucl1643-std,concepticon-2267,2.63,muko,son-in-law (of a man),muko
+clics-doculect-62-182,nucl1643-std,concepticon-2266,2.631,muko,son-in-law (of a woman),muko
+clics-doculect-62-183,nucl1643-std,concepticon-2265,2.64,yome,daughter-in-law (of a man),yome
+clics-doculect-62-184,nucl1643-std,concepticon-2264,2.641,yome,daughter-in-law (of a woman),yome
+clics-doculect-62-185,nucl1643-std,concepticon-237,2.71,mamachichi,stepfather,mamachichi
+clics-doculect-62-186,nucl1643-std,concepticon-237,2.71,gifu,stepfather,gifu
+clics-doculect-62-187,nucl1643-std,concepticon-236,2.72,mamahaha,stepmother,mamahaha
+clics-doculect-62-188,nucl1643-std,concepticon-236,2.72,gibo,stepmother,gibo
+clics-doculect-62-189,nucl1643-std,concepticon-1059,2.73,mamamusuko,stepson,mamamusuko
+clics-doculect-62-190,nucl1643-std,concepticon-1058,2.74,mamamusume,stepdaughter,mamamusume
+clics-doculect-62-191,nucl1643-std,concepticon-1149,2.75,koji,orphan,koji
+clics-doculect-62-192,nucl1643-std,concepticon-1756,2.76,mibōjin,widow,mibojin
+clics-doculect-62-193,nucl1643-std,concepticon-1756,2.76,yamome,widow,yamome
+clics-doculect-62-194,nucl1643-std,concepticon-1756,2.76,kafu,widow,kafu
+clics-doculect-62-195,nucl1643-std,concepticon-1981,2.77,otokoyamome,widower,otokoyamome
+clics-doculect-62-196,nucl1643-std,concepticon-1644,2.81,shinseki,"relatives, kinsmen",shinseki
+clics-doculect-62-197,nucl1643-std,concepticon-194,2.82,miuchi,family,miuchi
+clics-doculect-62-198,nucl1643-std,concepticon-194,2.82,kazoku,family,kazoku
+clics-doculect-62-199,nucl1643-std,concepticon-1209,2.91,watashi,I,watashi
+clics-doculect-62-200,nucl1643-std,concepticon-1209,2.91,boku,I,boku
+clics-doculect-62-201,nucl1643-std,concepticon-1209,2.91,ore,I,ore
+clics-doculect-62-202,nucl1643-std,concepticon-1215,2.92,kimi,you (singular),kimi
+clics-doculect-62-203,nucl1643-std,concepticon-1215,2.92,omae,you (singular),omae
+clics-doculect-62-204,nucl1643-std,concepticon-1215,2.92,anata,you (singular),anata
+clics-doculect-62-205,nucl1643-std,concepticon-262,2.93,kare,he/she/it,kare
+clics-doculect-62-206,nucl1643-std,concepticon-262,2.93,kanojo,he/she/it,kanojo
+clics-doculect-62-207,nucl1643-std,concepticon-1212,2.94,watashitachi,we,watashitachi
+clics-doculect-62-208,nucl1643-std,concepticon-1212,2.94,oretachi,we,oretachi
+clics-doculect-62-209,nucl1643-std,concepticon-1212,2.94,bokura,we,bokura
+clics-doculect-62-210,nucl1643-std,concepticon-1212,2.94,wareware,we,wareware
+clics-doculect-62-211,nucl1643-std,concepticon-1213,2.95,kimitachi,you (plural),kimitachi
+clics-doculect-62-212,nucl1643-std,concepticon-1213,2.95,anatagata,you (plural),anatagata
+clics-doculect-62-213,nucl1643-std,concepticon-817,2.96,karera,they,karera
+clics-doculect-62-214,nucl1643-std,concepticon-619,3.11,dōbutsu,animal,dobutsu
+clics-doculect-62-215,nucl1643-std,concepticon-2261,3.12,osu,male (adj),osu
+clics-doculect-62-216,nucl1643-std,concepticon-2262,3.13,mesu,female (adj),mesu
+clics-doculect-62-217,nucl1643-std,concepticon-631,3.15,kachiku,livestock,kachiku
+clics-doculect-62-218,nucl1643-std,concepticon-649,3.16,bokujō,pasture,bokujo
+clics-doculect-62-219,nucl1643-std,concepticon-263,3.18,bokufu,herdsman,bokufu
+clics-doculect-62-220,nucl1643-std,concepticon-851,3.19,kachikugoya,"stable, stall",kachikugoya
+clics-doculect-62-221,nucl1643-std,concepticon-1153,3.2,ushi,cattle (bovine),ushi
+clics-doculect-62-222,nucl1643-std,concepticon-1008,3.21,oushi,bull,oushi
+clics-doculect-62-223,nucl1643-std,concepticon-1169,3.22,kyoseigyū,ox,kyoseigyu
+clics-doculect-62-224,nucl1643-std,concepticon-1007,3.23,meushi,cow,meushi
+clics-doculect-62-225,nucl1643-std,concepticon-1989,3.24,koushi,calf,koushi
+clics-doculect-62-226,nucl1643-std,concepticon-1331,3.25,hitsuji,sheep,hitsuji
+clics-doculect-62-227,nucl1643-std,concepticon-1344,3.26,ohitsuji,ram,ohitsuji
+clics-doculect-62-228,nucl1643-std,concepticon-1345,3.28,mehitsuji,ewe,mehitsuji
+clics-doculect-62-229,nucl1643-std,concepticon-820,3.29,kohitsuji,lamb,kohitsuji
+clics-doculect-62-230,nucl1643-std,concepticon-1348,3.32,inoshishi,boar,inoshishi
+clics-doculect-62-231,nucl1643-std,concepticon-1351,3.34,mebuta,sow,mebuta
+clics-doculect-62-232,nucl1643-std,concepticon-1337,3.35,buta,pig,buta
+clics-doculect-62-233,nucl1643-std,concepticon-1502,3.36,yagi,goat,yagi
+clics-doculect-62-234,nucl1643-std,concepticon-264,3.37,osuyagi,he-goat,osuyagi
+clics-doculect-62-235,nucl1643-std,concepticon-1972,3.38,koyagi,kid,koyagi
+clics-doculect-62-236,nucl1643-std,concepticon-615,3.41,uma,horse (equine),uma
+clics-doculect-62-237,nucl1643-std,concepticon-936,3.42,taneuma,stallion,taneuma
+clics-doculect-62-238,nucl1643-std,concepticon-938,3.44,meuma,mare,meuma
+clics-doculect-62-239,nucl1643-std,concepticon-1647,3.45,kouma,"foal, colt",kouma
+clics-doculect-62-240,nucl1643-std,concepticon-1862,3.46,roba,"ass, donkey",roba
+clics-doculect-62-241,nucl1643-std,concepticon-890,3.47,raba,mule,raba
+clics-doculect-62-242,nucl1643-std,concepticon-265,3.5,kakin,fowl,kakin
+clics-doculect-62-243,nucl1643-std,concepticon-1511,3.52,ondori,"cock, rooster",ondori
+clics-doculect-62-244,nucl1643-std,concepticon-1514,3.54,mendori,hen,mendori
+clics-doculect-62-245,nucl1643-std,concepticon-1318,3.55,niwatori,chicken,niwatori
+clics-doculect-62-246,nucl1643-std,concepticon-1187,3.56,gachō,goose,gacho
+clics-doculect-62-247,nucl1643-std,concepticon-1360,3.57,ahiru,duck,ahiru
+clics-doculect-62-248,nucl1643-std,concepticon-539,3.58,su,nest,su
+clics-doculect-62-249,nucl1643-std,concepticon-937,3.581,tori,bird,tori
+clics-doculect-62-250,nucl1643-std,concepticon-950,3.582,kamome,seagull,kamome
+clics-doculect-62-251,nucl1643-std,concepticon-758,3.583,sagi,heron,sagi
+clics-doculect-62-252,nucl1643-std,concepticon-1905,3.584,washi,eagle,washi
+clics-doculect-62-253,nucl1643-std,concepticon-307,3.585,taka,hawk,taka
+clics-doculect-62-254,nucl1643-std,concepticon-1185,3.586,hagetaka,vulture,hagetaka
+clics-doculect-62-255,nucl1643-std,concepticon-1793,3.591,kōmori,bat,komori
+clics-doculect-62-256,nucl1643-std,concepticon-882,3.592,ōmu,parrot,omu
+clics-doculect-62-257,nucl1643-std,concepticon-913,3.593,karasu,crow,karasu
+clics-doculect-62-258,nucl1643-std,concepticon-1853,3.594,hato,dove,hato
+clics-doculect-62-259,nucl1643-std,concepticon-735,3.596,fukurō,owl,fukuro
+clics-doculect-62-260,nucl1643-std,concepticon-2009,3.61,inu,dog,inu
+clics-doculect-62-261,nucl1643-std,concepticon-1136,3.614,usagi,rabbit,usagi
+clics-doculect-62-262,nucl1643-std,concepticon-1208,3.62,neko,cat,neko
+clics-doculect-62-263,nucl1643-std,concepticon-309,3.622,fukuronezumi,opossum,fukuronezumi
+clics-doculect-62-264,nucl1643-std,concepticon-309,3.622,opossamu,opossum,opossamu
+clics-doculect-62-265,nucl1643-std,concepticon-2139,3.63,nezumi,"mouse, rat",nezumi
+clics-doculect-62-266,nucl1643-std,concepticon-227,3.65,sakana,fish,sakana
+clics-doculect-62-267,nucl1643-std,concepticon-213,3.652,hire,fin (dorsal),hire
+clics-doculect-62-268,nucl1643-std,concepticon-266,3.653,uroko,fishscale,uroko
+clics-doculect-62-269,nucl1643-std,concepticon-1916,3.654,era,gill,era
+clics-doculect-62-270,nucl1643-std,concepticon-598,3.655,kai,shell,kai
+clics-doculect-62-271,nucl1643-std,concepticon-1110,3.661,same,shark,same
+clics-doculect-62-272,nucl1643-std,concepticon-1479,3.662,iruka,"porpoise, dolphin",iruka
+clics-doculect-62-273,nucl1643-std,concepticon-957,3.663,kujira,whale,kujira
+clics-doculect-62-274,nucl1643-std,concepticon-1910,3.664,ei,stingray,ei
+clics-doculect-62-275,nucl1643-std,concepticon-1013,3.665,unagi,freshwater eel,unagi
+clics-doculect-62-276,nucl1643-std,concepticon-522,3.71,ōkami,wolf,okami
+clics-doculect-62-277,nucl1643-std,concepticon-1386,3.72,shishi,lion,shishi
+clics-doculect-62-278,nucl1643-std,concepticon-1386,3.72,raion,lion,raion
+clics-doculect-62-279,nucl1643-std,concepticon-1820,3.73,kuma,bear,kuma
+clics-doculect-62-280,nucl1643-std,concepticon-1312,3.74,kitsune,fox,kitsune
+clics-doculect-62-281,nucl1643-std,concepticon-1936,3.75,shika,deer,shika
+clics-doculect-62-282,nucl1643-std,concepticon-1350,3.76,saru,monkey,saru
+clics-doculect-62-283,nucl1643-std,concepticon-1290,3.77,zō,elephant,zo
+clics-doculect-62-284,nucl1643-std,concepticon-1871,3.78,rakuda,camel,rakuda
+clics-doculect-62-285,nucl1643-std,concepticon-620,3.81,mushi,insect,mushi
+clics-doculect-62-286,nucl1643-std,concepticon-620,3.81,konchū,insect,konchu
+clics-doculect-62-287,nucl1643-std,concepticon-1392,3.811,atamajirami,louse,atamajirami
+clics-doculect-62-288,nucl1643-std,concepticon-1392,3.811,shirami,louse,shirami
+clics-doculect-62-289,nucl1643-std,concepticon-232,3.813,nomi,flea,nomi
+clics-doculect-62-290,nucl1643-std,concepticon-1974,3.814,mukade,centipede,mukade
+clics-doculect-62-291,nucl1643-std,concepticon-1538,3.815,sasori,scorpion,sasori
+clics-doculect-62-292,nucl1643-std,concepticon-1575,3.816,gokiburi,cockroach,gokiburi
+clics-doculect-62-293,nucl1643-std,concepticon-1575,3.816,aburamushi,cockroach,aburamushi
+clics-doculect-62-294,nucl1643-std,concepticon-587,3.817,ari,ant,ari
+clics-doculect-62-295,nucl1643-std,concepticon-843,3.818,kumo,spider,kumo
+clics-doculect-62-296,nucl1643-std,concepticon-665,3.82,mitsubachi,bee,mitsubachi
+clics-doculect-62-297,nucl1643-std,concepticon-1931,3.821,mitsurō,beeswax,mitsuro
+clics-doculect-62-298,nucl1643-std,concepticon-88,3.822,hachisu,beehive,hachisu
+clics-doculect-62-299,nucl1643-std,concepticon-88,3.822,hōka,beehive,hoka
+clics-doculect-62-300,nucl1643-std,concepticon-1517,3.823,hachi,wasp,hachi
+clics-doculect-62-301,nucl1643-std,concepticon-1504,3.83,hae,fly,hae
+clics-doculect-62-302,nucl1643-std,concepticon-95,3.831,sunabae,"sandfly (midge), gnat",sunabae
+clics-doculect-62-303,nucl1643-std,concepticon-95,3.831,yusurika,"sandfly (midge), gnat",yusurika
+clics-doculect-62-304,nucl1643-std,concepticon-95,3.831,buyo,"sandfly (midge), gnat",buyo
+clics-doculect-62-305,nucl1643-std,concepticon-1509,3.832,ka,mosquito,ka
+clics-doculect-62-306,nucl1643-std,concepticon-1219,3.84,mushi,worm,mushi
+clics-doculect-62-307,nucl1643-std,concepticon-730,3.85,hebi,snake,hebi
+clics-doculect-62-308,nucl1643-std,concepticon-206,3.91,hotaru,firefly,hotaru
+clics-doculect-62-309,nucl1643-std,concepticon-1791,3.92,chō,butterfly,cho
+clics-doculect-62-310,nucl1643-std,concepticon-607,3.93,batta,grasshopper,batta
+clics-doculect-62-311,nucl1643-std,concepticon-607,3.93,inago,grasshopper,inago
+clics-doculect-62-312,nucl1643-std,concepticon-607,3.93,kirigirisu,grasshopper,kirigirisu
+clics-doculect-62-313,nucl1643-std,concepticon-1543,3.94,katatsumuri,snail,katatsumuri
+clics-doculect-62-314,nucl1643-std,concepticon-503,3.95,kaeru,frog,kaeru
+clics-doculect-62-315,nucl1643-std,concepticon-632,3.96,tokage,lizard,tokage
+clics-doculect-62-316,nucl1643-std,concepticon-1857,3.97,wani,"crocodile, alligator",wani
+clics-doculect-62-317,nucl1643-std,concepticon-112,3.98,kame,turtle,kame
+clics-doculect-62-318,nucl1643-std,concepticon-1480,4.11,karada,body,karada
+clics-doculect-62-319,nucl1643-std,concepticon-763,4.12,hifu,"skin, hide",hifu
+clics-doculect-62-320,nucl1643-std,concepticon-763,4.12,kawa,"skin, hide",kawa
+clics-doculect-62-321,nucl1643-std,concepticon-2259,4.13,niku,flesh,niku
+clics-doculect-62-322,nucl1643-std,concepticon-1040,4.14,kami,hair (head),kami
+clics-doculect-62-323,nucl1643-std,concepticon-1040,4.14,ke,hair (head),ke
+clics-doculect-62-324,nucl1643-std,concepticon-678,4.142,hige,beard,hige
+clics-doculect-62-325,nucl1643-std,concepticon-189,4.144,taimō,body hair,taimo
+clics-doculect-62-326,nucl1643-std,concepticon-36,4.145,inmō,pubic hair,inmo
+clics-doculect-62-327,nucl1643-std,concepticon-36,4.145,chimō,pubic hair,chimo
+clics-doculect-62-328,nucl1643-std,concepticon-576,4.146,fuke,dandruff,fuke
+clics-doculect-62-329,nucl1643-std,concepticon-946,4.15,chi,blood,chi
+clics-doculect-62-330,nucl1643-std,concepticon-525,4.151,kekkan,"vein, artery",kekkan
+clics-doculect-62-331,nucl1643-std,concepticon-1394,4.16,hone,bone,hone
+clics-doculect-62-332,nucl1643-std,concepticon-801,4.162,abara,rib,abara
+clics-doculect-62-333,nucl1643-std,concepticon-801,4.162,rokkotsu,rib,rokkotsu
+clics-doculect-62-334,nucl1643-std,concepticon-1393,4.17,tsuno,horn,tsuno
+clics-doculect-62-335,nucl1643-std,concepticon-1220,4.18,o,tail,o
+clics-doculect-62-336,nucl1643-std,concepticon-1220,4.18,shippo,tail,shippo
+clics-doculect-62-337,nucl1643-std,concepticon-1291,4.19,se,back,se
+clics-doculect-62-338,nucl1643-std,concepticon-1291,4.19,senaka,back,senaka
+clics-doculect-62-339,nucl1643-std,concepticon-805,4.191,sekichū,spine,sekichu
+clics-doculect-62-340,nucl1643-std,concepticon-805,4.191,sebone,spine,sebone
+clics-doculect-62-341,nucl1643-std,concepticon-1256,4.2,atama,head,atama
+clics-doculect-62-342,nucl1643-std,concepticon-1604,4.201,komekami,"side of head, temple",komekami
+clics-doculect-62-343,nucl1643-std,concepticon-1605,4.202,zugaikotsu,skull,zugaikotsu
+clics-doculect-62-344,nucl1643-std,concepticon-1583,4.203,nō,brain,no
+clics-doculect-62-345,nucl1643-std,concepticon-1560,4.204,kao,face,kao
+clics-doculect-62-346,nucl1643-std,concepticon-123,4.205,hitai,forehead,hitai
+clics-doculect-62-347,nucl1643-std,concepticon-798,4.207,kiba,jaw,kiba
+clics-doculect-62-348,nucl1643-std,concepticon-798,4.207,ago,jaw,ago
+clics-doculect-62-349,nucl1643-std,concepticon-1730,4.208,hō,cheek,ho
+clics-doculect-62-350,nucl1643-std,concepticon-1510,4.209,ago,chin,ago
+clics-doculect-62-351,nucl1643-std,concepticon-1510,4.209,otogai,chin,otogai
+clics-doculect-62-352,nucl1643-std,concepticon-1248,4.21,me,eye,me
+clics-doculect-62-353,nucl1643-std,concepticon-1173,4.212,mayuge,eyebrow,mayuge
+clics-doculect-62-354,nucl1643-std,concepticon-17,4.213,mabuta,eyelid,mabuta
+clics-doculect-62-355,nucl1643-std,concepticon-1540,4.214,matsuge,eyelash,matsuge
+clics-doculect-62-356,nucl1643-std,concepticon-1655,4.215,mabataki,blink,mabataki
+clics-doculect-62-357,nucl1643-std,concepticon-1247,4.22,mimi,ear,mimi
+clics-doculect-62-358,nucl1643-std,concepticon-1247,4.22,jida,ear,jida
+clics-doculect-62-359,nucl1643-std,concepticon-18,4.221,mimitabu,earlobe,mimitabu
+clics-doculect-62-360,nucl1643-std,concepticon-18,4.221,jida,earlobe,jida
+clics-doculect-62-361,nucl1643-std,concepticon-32,4.222,mimiaka,earwax,mimiaka
+clics-doculect-62-362,nucl1643-std,concepticon-1221,4.23,hana,nose,hana
+clics-doculect-62-363,nucl1643-std,concepticon-1178,4.231,bikō,nostril,biko
+clics-doculect-62-364,nucl1643-std,concepticon-208,4.232,hanakuso,mucus (nasal),hanakuso
+clics-doculect-62-365,nucl1643-std,concepticon-208,4.232,hanamizu,mucus (nasal),hanamizu
+clics-doculect-62-366,nucl1643-std,concepticon-208,4.232,hana,mucus (nasal),hana
+clics-doculect-62-367,nucl1643-std,concepticon-674,4.24,kuchi,mouth,kuchi
+clics-doculect-62-368,nucl1643-std,concepticon-73,4.241,kuchibashi,beak,kuchibashi
+clics-doculect-62-369,nucl1643-std,concepticon-478,4.25,kuchibiru,lip,kuchibiru
+clics-doculect-62-370,nucl1643-std,concepticon-1205,4.26,shita,tongue,shita
+clics-doculect-62-371,nucl1643-std,concepticon-1380,4.27,ha,tooth,ha
+clics-doculect-62-372,nucl1643-std,concepticon-139,4.271,haguki,gums,haguki
+clics-doculect-62-373,nucl1643-std,concepticon-139,4.271,shigin,gums,shigin
+clics-doculect-62-374,nucl1643-std,concepticon-139,4.271,shiniku,gums,shiniku
+clics-doculect-62-375,nucl1643-std,concepticon-1049,4.272,kyūshi,molartooth,kyushi
+clics-doculect-62-376,nucl1643-std,concepticon-1049,4.272,okuba,molartooth,okuba
+clics-doculect-62-377,nucl1643-std,concepticon-1333,4.28,kubi,neck,kubi
+clics-doculect-62-378,nucl1643-std,concepticon-1347,4.281,unaji,nape of neck,unaji
+clics-doculect-62-379,nucl1643-std,concepticon-1347,4.281,erikubi,nape of neck,erikubi
+clics-doculect-62-380,nucl1643-std,concepticon-1346,4.29,nodo,throat,nodo
+clics-doculect-62-381,nucl1643-std,concepticon-1482,4.3,kata,shoulder,kata
+clics-doculect-62-382,nucl1643-std,concepticon-172,4.301,kenkōkotsu,shoulderblade,kenkokotsu
+clics-doculect-62-383,nucl1643-std,concepticon-1994,4.302,sakotsu,collarbone,sakotsu
+clics-doculect-62-384,nucl1643-std,concepticon-1673,4.31,ude,arm,ude
+clics-doculect-62-385,nucl1643-std,concepticon-1886,4.312,ekika,armpit,ekika
+clics-doculect-62-386,nucl1643-std,concepticon-1886,4.312,wakinoshita,armpit,wakinoshita
+clics-doculect-62-387,nucl1643-std,concepticon-981,4.32,hiji,elbow,hiji
+clics-doculect-62-388,nucl1643-std,concepticon-799,4.321,tekubi,wrist,tekubi
+clics-doculect-62-389,nucl1643-std,concepticon-1277,4.33,te,hand,te
+clics-doculect-62-390,nucl1643-std,concepticon-1183,4.331,tenohira,palm of hand,tenohira
+clics-doculect-62-391,nucl1643-std,concepticon-1183,4.331,tanagokoro,palm of hand,tanagokoro
+clics-doculect-62-392,nucl1643-std,concepticon-1303,4.34,yubi,finger,yubi
+clics-doculect-62-393,nucl1643-std,concepticon-1781,4.342,oyayubi,thumb,oyayubi
+clics-doculect-62-394,nucl1643-std,concepticon-1258,4.344,tsume,fingernail,tsume
+clics-doculect-62-395,nucl1643-std,concepticon-72,4.345,tsume,claw,tsume
+clics-doculect-62-396,nucl1643-std,concepticon-72,4.345,hasami,claw,hasami
+clics-doculect-62-397,nucl1643-std,concepticon-1297,4.35,ashi,leg,ashi
+clics-doculect-62-398,nucl1643-std,concepticon-800,4.351,momo,thigh,momo
+clics-doculect-62-399,nucl1643-std,concepticon-498,4.352,fukurahagi,calf of leg,fukurahagi
+clics-doculect-62-400,nucl1643-std,concepticon-498,4.352,komura,calf of leg,komura
+clics-doculect-62-401,nucl1643-std,concepticon-1371,4.36,hiza,knee,hiza
+clics-doculect-62-402,nucl1643-std,concepticon-1301,4.37,ashi,foot,ashi
+clics-doculect-62-403,nucl1643-std,concepticon-803,4.371,ashikubi,ankle,ashikubi
+clics-doculect-62-404,nucl1643-std,concepticon-803,4.371,kurubushi,ankle,kurubushi
+clics-doculect-62-405,nucl1643-std,concepticon-980,4.372,kakato,heel,kakato
+clics-doculect-62-406,nucl1643-std,concepticon-318,4.374,ashiato,footprint,ashiato
+clics-doculect-62-407,nucl1643-std,concepticon-1389,4.38,ashiyubi,toe,ashiyubi
+clics-doculect-62-408,nucl1643-std,concepticon-1257,4.392,tsubasa,wing,tsubasa
+clics-doculect-62-409,nucl1643-std,concepticon-1201,4.393,hane,feather,hane
+clics-doculect-62-410,nucl1643-std,concepticon-1592,4.4,mune,chest,mune
+clics-doculect-62-411,nucl1643-std,concepticon-1402,4.41,oppai,breast (of woman),oppai
+clics-doculect-62-412,nucl1643-std,concepticon-1402,4.41,chichi,breast (of woman),chichi
+clics-doculect-62-413,nucl1643-std,concepticon-796,4.412,chichikubi,"nipple, teat",chichikubi
+clics-doculect-62-414,nucl1643-std,concepticon-154,4.42,chibusa,udder,chibusa
+clics-doculect-62-415,nucl1643-std,concepticon-154,4.42,oppai,udder,oppai
+clics-doculect-62-416,nucl1643-std,concepticon-1838,4.43,heso,navel,heso
+clics-doculect-62-417,nucl1643-std,concepticon-1223,4.44,kokoro,heart,kokoro
+clics-doculect-62-418,nucl1643-std,concepticon-1223,4.44,shinzō,heart,shinzo
+clics-doculect-62-419,nucl1643-std,concepticon-688,4.441,haizō,lung,haizo
+clics-doculect-62-420,nucl1643-std,concepticon-1224,4.45,kimo,liver,kimo
+clics-doculect-62-421,nucl1643-std,concepticon-1224,4.45,kanzō,liver,kanzo
+clics-doculect-62-422,nucl1643-std,concepticon-489,4.451,jinzō,kidney,jinzo
+clics-doculect-62-423,nucl1643-std,concepticon-1744,4.452,hizō,spleen,hizo
+clics-doculect-62-424,nucl1643-std,concepticon-819,4.46,i,stomach,i
+clics-doculect-62-425,nucl1643-std,concepticon-1991,4.461,chō,"intestines, guts",cho
+clics-doculect-62-426,nucl1643-std,concepticon-1991,4.461,naizō,"intestines, guts",naizo
+clics-doculect-62-427,nucl1643-std,concepticon-1681,4.462,koshi,waist,koshi
+clics-doculect-62-428,nucl1643-std,concepticon-1681,4.462,yōbu,waist,yobu
+clics-doculect-62-429,nucl1643-std,concepticon-1745,4.463,shiri,hip,shiri
+clics-doculect-62-430,nucl1643-std,concepticon-1745,4.463,denbu,hip,denbu
+clics-doculect-62-431,nucl1643-std,concepticon-834,4.464,shiri,buttocks,shiri
+clics-doculect-62-432,nucl1643-std,concepticon-834,4.464,denbu,buttocks,denbu
+clics-doculect-62-433,nucl1643-std,concepticon-804,4.47,shikyū,womb,shikyu
+clics-doculect-62-434,nucl1643-std,concepticon-797,4.49,kintama,testicle,kintama
+clics-doculect-62-435,nucl1643-std,concepticon-797,4.49,kōgan,testicle,kogan
+clics-doculect-62-436,nucl1643-std,concepticon-1222,4.492,dankon,penis,dankon
+clics-doculect-62-437,nucl1643-std,concepticon-1222,4.492,penisu,penis,penisu
+clics-doculect-62-438,nucl1643-std,concepticon-1222,4.492,chinko,penis,chinko
+clics-doculect-62-439,nucl1643-std,concepticon-1407,4.51,suu,"breathe, breath",suu
+clics-doculect-62-440,nucl1643-std,concepticon-1407,4.51,kokyū,"breathe, breath",kokyu
+clics-doculect-62-441,nucl1643-std,concepticon-1028,4.52,akubi,"yawn, gape",akubi
+clics-doculect-62-442,nucl1643-std,concepticon-162,4.521,shakkuri,hiccough,shakkuri
+clics-doculect-62-443,nucl1643-std,concepticon-879,4.53,seki,cough,seki
+clics-doculect-62-444,nucl1643-std,concepticon-1621,4.54,kushami,sneeze,kushami
+clics-doculect-62-445,nucl1643-std,concepticon-126,4.55,aseokaku,perspire,aseokaku
+clics-doculect-62-446,nucl1643-std,concepticon-126,4.55,hakkan,perspire,hakkan
+clics-doculect-62-447,nucl1643-std,concepticon-1440,4.56,tsubaohaku,spit,tsubaohaku
+clics-doculect-62-448,nucl1643-std,concepticon-1278,4.57,haku,vomit,haku
+clics-doculect-62-449,nucl1643-std,concepticon-1278,4.57,ōto,vomit,oto
+clics-doculect-62-450,nucl1643-std,concepticon-1403,4.58,kamu,bite,kamu
+clics-doculect-62-451,nucl1643-std,concepticon-1403,4.58,sasu,bite,sasu
+clics-doculect-62-452,nucl1643-std,concepticon-319,4.59,nameru,lick,nameru
+clics-doculect-62-453,nucl1643-std,concepticon-268,4.591,yodareotarasu,dribble,yodareotarasu
+clics-doculect-62-454,nucl1643-std,concepticon-1585,4.61,neru,sleep,neru
+clics-doculect-62-455,nucl1643-std,concepticon-1585,4.61,nemuru,sleep,nemuru
+clics-doculect-62-456,nucl1643-std,concepticon-1983,4.612,ibikiokaku,snore,ibikiokaku
+clics-doculect-62-457,nucl1643-std,concepticon-1920,4.62,yumeomiru,dream,yumeomiru
+clics-doculect-62-458,nucl1643-std,concepticon-1602,4.63,megasameru,wake up,megasameru
+clics-doculect-62-459,nucl1643-std,concepticon-1159,4.64,onara,break wind,onara
+clics-doculect-62-460,nucl1643-std,concepticon-1159,4.64,hōhi,break wind,hohi
+clics-doculect-62-461,nucl1643-std,concepticon-592,4.65,shōben,urinate,shoben
+clics-doculect-62-462,nucl1643-std,concepticon-592,4.65,nyō,urinate,nyo
+clics-doculect-62-463,nucl1643-std,concepticon-592,4.65,oshikko,urinate,oshikko
+clics-doculect-62-464,nucl1643-std,concepticon-676,4.66,daiben,defecate,daiben
+clics-doculect-62-465,nucl1643-std,concepticon-676,4.66,kuso,defecate,kuso
+clics-doculect-62-466,nucl1643-std,concepticon-676,4.66,unko,defecate,unko
+clics-doculect-62-467,nucl1643-std,concepticon-1785,4.67,sekkusu,have sexual intercourse,sekkusu
+clics-doculect-62-468,nucl1643-std,concepticon-1785,4.67,neru,have sexual intercourse,neru
+clics-doculect-62-469,nucl1643-std,concepticon-52,4.68,miburui,shiver,miburui
+clics-doculect-62-470,nucl1643-std,concepticon-52,4.68,furueru,shiver,furueru
+clics-doculect-62-471,nucl1643-std,concepticon-138,4.69,nyūyoku,bathe,nyuyoku
+clics-doculect-62-472,nucl1643-std,concepticon-138,4.69,furonihairu,bathe,furonihairu
+clics-doculect-62-473,nucl1643-std,concepticon-1152,4.71,mōkeru,beget (of father),mokeru
+clics-doculect-62-474,nucl1643-std,concepticon-1090,4.72,umareru,born (to be),umareru
+clics-doculect-62-475,nucl1643-std,concepticon-1123,4.73,miomo,pregnant,miomo
+clics-doculect-62-476,nucl1643-std,concepticon-1087,4.732,ninshin,conceive,ninshin
+clics-doculect-62-477,nucl1643-std,concepticon-1087,4.732,haramu,conceive,haramu
+clics-doculect-62-478,nucl1643-std,concepticon-1422,4.74,ikiru,"live, living, life",ikiru
+clics-doculect-62-479,nucl1643-std,concepticon-1494,4.75,shinu,"die, dead",shinu
+clics-doculect-62-480,nucl1643-std,concepticon-1494,4.75,shibō,"die, dead",shibo
+clics-doculect-62-481,nucl1643-std,concepticon-1904,4.751,oboreru,drowned,oboreru
+clics-doculect-62-482,nucl1643-std,concepticon-1904,4.751,dekishi,drowned,dekishi
+clics-doculect-62-483,nucl1643-std,concepticon-1417,4.76,korosu,kill,korosu
+clics-doculect-62-484,nucl1643-std,concepticon-767,4.77,shitai,corpse,shitai
+clics-doculect-62-485,nucl1643-std,concepticon-1719,4.78,hōmuru,bury (the dead),homuru
+clics-doculect-62-486,nucl1643-std,concepticon-1773,4.79,haka,"grave, tomb",haka
+clics-doculect-62-487,nucl1643-std,concepticon-785,4.81,tsuyoi,"strong, mighty, powerful",tsuyoi
+clics-doculect-62-488,nucl1643-std,concepticon-1601,4.82,yowai,weak,yowai
+clics-doculect-62-489,nucl1643-std,concepticon-1364,4.83,kenkō,"well, health",kenko
+clics-doculect-62-490,nucl1643-std,concepticon-1364,4.83,genki,"well, health",genki
+clics-doculect-62-491,nucl1643-std,concepticon-1847,4.84,byōki,"sick, sickness",byoki
+clics-doculect-62-492,nucl1643-std,concepticon-1534,4.841,netsu,fever,netsu
+clics-doculect-62-493,nucl1643-std,concepticon-1957,4.842,kōjōsenshu,goiter,kojosenshu
+clics-doculect-62-494,nucl1643-std,concepticon-102,4.843,kaze,cold (catarrh),kaze
+clics-doculect-62-495,nucl1643-std,concepticon-1109,4.85,kizu,"wound, sore",kizu
+clics-doculect-62-496,nucl1643-std,concepticon-1109,4.85,kega,"wound, sore",kega
+clics-doculect-62-497,nucl1643-std,concepticon-1148,4.852,uchikizu,bruise,uchikizu
+clics-doculect-62-498,nucl1643-std,concepticon-1148,4.852,aza,bruise,aza
+clics-doculect-62-499,nucl1643-std,concepticon-1903,4.853,kobu,swelling,kobu
+clics-doculect-62-500,nucl1643-std,concepticon-1903,4.853,hare,swelling,hare
+clics-doculect-62-501,nucl1643-std,concepticon-148,4.854,kayumi,itch,kayumi
+clics-doculect-62-502,nucl1643-std,concepticon-1584,4.855,hibukure,blister,hibukure
+clics-doculect-62-503,nucl1643-std,concepticon-1584,4.855,mizubukure,blister,mizubukure
+clics-doculect-62-504,nucl1643-std,concepticon-793,4.856,nebuto,boil (noun),nebuto
+clics-doculect-62-505,nucl1643-std,concepticon-793,4.856,nōyō,boil (noun),noyo
+clics-doculect-62-506,nucl1643-std,concepticon-793,4.856,dekimono,boil (noun),dekimono
+clics-doculect-62-507,nucl1643-std,concepticon-1808,4.857,umi,pus,umi
+clics-doculect-62-508,nucl1643-std,concepticon-497,4.858,kizuato,scar,kizuato
+clics-doculect-62-509,nucl1643-std,concepticon-499,4.86,naosu,"cure, heal",naosu
+clics-doculect-62-510,nucl1643-std,concepticon-597,4.87,isha,physician,isha
+clics-doculect-62-511,nucl1643-std,concepticon-1372,4.88,kusuri,"medicine, drug",kusuri
+clics-doculect-62-512,nucl1643-std,concepticon-655,4.89,doku,poison,doku
+clics-doculect-62-513,nucl1643-std,concepticon-1757,4.91,nemui,"tired, weary",nemui
+clics-doculect-62-514,nucl1643-std,concepticon-1757,4.91,tsukareru,"tired, weary",tsukareru
+clics-doculect-62-515,nucl1643-std,concepticon-168,4.912,yasumu,rest,yasumu
+clics-doculect-62-516,nucl1643-std,concepticon-168,4.912,kyūyō,rest,kyuyo
+clics-doculect-62-517,nucl1643-std,concepticon-1564,4.92,darui,lazy,darui
+clics-doculect-62-518,nucl1643-std,concepticon-1564,4.92,taida,lazy,taida
+clics-doculect-62-519,nucl1643-std,concepticon-1125,4.93,hageru,bald,hageru
+clics-doculect-62-520,nucl1643-std,concepticon-1125,4.93,tokutō,bald,tokuto
+clics-doculect-62-521,nucl1643-std,concepticon-320,4.94,ashigafujiyūda,lame,ashigafujiyuda
+clics-doculect-62-522,nucl1643-std,concepticon-320,4.94,bikko,lame,bikko
+clics-doculect-62-523,nucl1643-std,concepticon-320,4.94,fuzui,lame,fuzui
+clics-doculect-62-524,nucl1643-std,concepticon-996,4.95,mimigakikoenai,deaf,mimigakikoenai
+clics-doculect-62-525,nucl1643-std,concepticon-996,4.95,tsunbo,deaf,tsunbo
+clics-doculect-62-526,nucl1643-std,concepticon-1666,4.96,kuchigakikenai,mute,kuchigakikenai
+clics-doculect-62-527,nucl1643-std,concepticon-1666,4.96,oshi,mute,oshi
+clics-doculect-62-528,nucl1643-std,concepticon-1653,4.97,megamienai,blind,megamienai
+clics-doculect-62-529,nucl1643-std,concepticon-1653,4.97,mōmoku,blind,momoku
+clics-doculect-62-530,nucl1643-std,concepticon-1653,4.97,mekura,blind,mekura
+clics-doculect-62-531,nucl1643-std,concepticon-1463,4.98,you,intoxicated,you
+clics-doculect-62-532,nucl1643-std,concepticon-590,4.99,hadaka,"naked, bare",hadaka
+clics-doculect-62-533,nucl1643-std,concepticon-1336,5.11,taberu,eat,taberu
+clics-doculect-62-534,nucl1643-std,concepticon-256,5.12,tabemono,food,tabemono
+clics-doculect-62-535,nucl1643-std,concepticon-269,5.121,hiotōsu,cooked,hiotosu
+clics-doculect-62-536,nucl1643-std,concepticon-269,5.121,chōri,cooked,chori
+clics-doculect-62-537,nucl1643-std,concepticon-1959,5.122,nama,raw,nama
+clics-doculect-62-538,nucl1643-std,concepticon-178,5.123,minoru,ripe,minoru
+clics-doculect-62-539,nucl1643-std,concepticon-178,5.123,juku,ripe,juku
+clics-doculect-62-540,nucl1643-std,concepticon-1958,5.124,mijuku,"green, unripe",mijuku
+clics-doculect-62-541,nucl1643-std,concepticon-1958,5.124,aoi,"green, unripe",aoi
+clics-doculect-62-542,nucl1643-std,concepticon-1728,5.125,kusaru,rotten,kusaru
+clics-doculect-62-543,nucl1643-std,concepticon-1401,5.13,nomu,drink,nomu
+clics-doculect-62-544,nucl1643-std,concepticon-1864,5.14,haragaheru,hunger,haragaheru
+clics-doculect-62-545,nucl1643-std,concepticon-1864,5.14,kūfuku,hunger,kufuku
+clics-doculect-62-546,nucl1643-std,concepticon-199,5.141,kikin,famine,kikin
+clics-doculect-62-547,nucl1643-std,concepticon-848,5.15,nodogakawaku,thirst,nodogakawaku
+clics-doculect-62-548,nucl1643-std,concepticon-1421,5.16,suu,suck,suu
+clics-doculect-62-549,nucl1643-std,concepticon-321,5.18,kamu,chew,kamu
+clics-doculect-62-550,nucl1643-std,concepticon-897,5.181,nomu,swallow,nomu
+clics-doculect-62-551,nucl1643-std,concepticon-129,5.19,ikigatsumaru,choke,ikigatsumaru
+clics-doculect-62-552,nucl1643-std,concepticon-129,5.19,chissoku,choke,chissoku
+clics-doculect-62-553,nucl1643-std,concepticon-1100,5.21,ryōri,cook,ryori
+clics-doculect-62-554,nucl1643-std,concepticon-1100,5.21,hiotōsu,cook,hiotosu
+clics-doculect-62-555,nucl1643-std,concepticon-1100,5.21,niru,cook,niru
+clics-doculect-62-556,nucl1643-std,concepticon-1100,5.21,chōri,cook,chori
+clics-doculect-62-557,nucl1643-std,concepticon-792,5.22,waku,boil (vb),waku
+clics-doculect-62-558,nucl1643-std,concepticon-792,5.22,futtō,boil (vb),futto
+clics-doculect-62-559,nucl1643-std,concepticon-2146,5.23,yaku,"roast, fry",yaku
+clics-doculect-62-560,nucl1643-std,concepticon-2146,5.23,itameru,"roast, fry",itameru
+clics-doculect-62-561,nucl1643-std,concepticon-2146,5.23,aburu,"roast, fry",aburu
+clics-doculect-62-562,nucl1643-std,concepticon-183,5.24,yaku,bake,yaku
+clics-doculect-62-563,nucl1643-std,concepticon-1143,5.25,ōbun,oven,obun
+clics-doculect-62-564,nucl1643-std,concepticon-1143,5.25,renji,oven,renji
+clics-doculect-62-565,nucl1643-std,concepticon-1462,5.26,nabe,"pot, cooking vessel",nabe
+clics-doculect-62-566,nucl1643-std,concepticon-854,5.27,yakan,kettle,yakan
+clics-doculect-62-567,nucl1643-std,concepticon-31,5.28,nabe,pan,nabe
+clics-doculect-62-568,nucl1643-std,concepticon-31,5.28,furaipan,pan,furaipan
+clics-doculect-62-569,nucl1643-std,concepticon-481,5.31,sara,dish,sara
+clics-doculect-62-570,nucl1643-std,concepticon-481,5.31,utsuwa,dish,utsuwa
+clics-doculect-62-571,nucl1643-std,concepticon-480,5.32,sara,plate,sara
+clics-doculect-62-572,nucl1643-std,concepticon-1530,5.33,hachi,bowl,hachi
+clics-doculect-62-573,nucl1643-std,concepticon-1530,5.33,chawan,bowl,chawan
+clics-doculect-62-574,nucl1643-std,concepticon-1530,5.33,bōru,bowl,boru
+clics-doculect-62-575,nucl1643-std,concepticon-1530,5.33,donburi,bowl,donburi
+clics-doculect-62-576,nucl1643-std,concepticon-270,5.34,mizusashi,"pitcher, jug",mizusashi
+clics-doculect-62-577,nucl1643-std,concepticon-476,5.35,kappu,"cup, drinking vessel",kappu
+clics-doculect-62-578,nucl1643-std,concepticon-476,5.35,chawan,"cup, drinking vessel",chawan
+clics-doculect-62-579,nucl1643-std,concepticon-271,5.36,ukezara,saucer,ukezara
+clics-doculect-62-580,nucl1643-std,concepticon-1378,5.37,supūn,spoon,supun
+clics-doculect-62-581,nucl1643-std,concepticon-1378,5.37,saji,spoon,saji
+clics-doculect-62-582,nucl1643-std,concepticon-1352,5.38,naifu,knife,naifu
+clics-doculect-62-583,nucl1643-std,concepticon-337,5.39,fōku,fork,foku
+clics-doculect-62-584,nucl1643-std,concepticon-272,5.391,tongu,tongs,tongu
+clics-doculect-62-585,nucl1643-std,concepticon-1526,5.41,shokuji,meal (a),shokuji
+clics-doculect-62-586,nucl1643-std,concepticon-1526,5.41,gohan,meal (a),gohan
+clics-doculect-62-587,nucl1643-std,concepticon-1526,5.41,meshi,meal (a),meshi
+clics-doculect-62-588,nucl1643-std,concepticon-1322,5.42,asameshi,breakfast,asameshi
+clics-doculect-62-589,nucl1643-std,concepticon-1322,5.42,chōshoku,breakfast,choshoku
+clics-doculect-62-590,nucl1643-std,concepticon-768,5.43,hirumeshi,lunch,hirumeshi
+clics-doculect-62-591,nucl1643-std,concepticon-768,5.43,chūshoku,lunch,chushoku
+clics-doculect-62-592,nucl1643-std,concepticon-1833,5.45,yūmeshi,supper,yumeshi
+clics-doculect-62-593,nucl1643-std,concepticon-1833,5.45,yūshoku,supper,yushoku
+clics-doculect-62-594,nucl1643-std,concepticon-1833,5.45,bansan,supper,bansan
+clics-doculect-62-595,nucl1643-std,concepticon-275,5.46,muku,peel,muku
+clics-doculect-62-596,nucl1643-std,concepticon-86,5.47,furuu,"sieve, strain",furuu
+clics-doculect-62-597,nucl1643-std,concepticon-1767,5.48,kosuru,scrape,kosuru
+clics-doculect-62-598,nucl1643-std,concepticon-2017,5.49,kaku,"stir, mix",kaku
+clics-doculect-62-599,nucl1643-std,concepticon-2017,5.49,mazeru,"stir, mix",mazeru
+clics-doculect-62-600,nucl1643-std,concepticon-1368,5.51,pan,bread,pan
+clics-doculect-62-601,nucl1643-std,concepticon-273,5.53,kiji,dough,kiji
+clics-doculect-62-602,nucl1643-std,concepticon-274,5.54,koneru,knead,koneru
+clics-doculect-62-603,nucl1643-std,concepticon-1594,5.55,komugiko,"meal, flour",komugiko
+clics-doculect-62-604,nucl1643-std,concepticon-1033,5.56,kudaku,"crush, grind",kudaku
+clics-doculect-62-605,nucl1643-std,concepticon-1033,5.56,hiku,"crush, grind",hiku
+clics-doculect-62-606,nucl1643-std,concepticon-636,5.57,hikiusu,mill,hikiusu
+clics-doculect-62-607,nucl1643-std,concepticon-224,5.58,nyūbachi,mortar,nyubachi
+clics-doculect-62-608,nucl1643-std,concepticon-224,5.58,suribachi,mortar,suribachi
+clics-doculect-62-609,nucl1643-std,concepticon-224,5.58,usu,mortar,usu
+clics-doculect-62-610,nucl1643-std,concepticon-225,5.59,nyūbō,pestle,nyubo
+clics-doculect-62-611,nucl1643-std,concepticon-225,5.59,surikogi,pestle,surikogi
+clics-doculect-62-612,nucl1643-std,concepticon-225,5.59,kine,pestle,kine
+clics-doculect-62-613,nucl1643-std,concepticon-634,5.61,niku,meat,niku
+clics-doculect-62-614,nucl1643-std,concepticon-1874,5.63,sōsēji,sausage,soseji
+clics-doculect-62-615,nucl1643-std,concepticon-1547,5.64,sūpu,"soup, broth",supu
+clics-doculect-62-616,nucl1643-std,concepticon-1547,5.64,shiru,"soup, broth",shiru
+clics-doculect-62-617,nucl1643-std,concepticon-924,5.65,yasai,vegetables,yasai
+clics-doculect-62-618,nucl1643-std,concepticon-832,5.66,mame,bean,mame
+clics-doculect-62-619,nucl1643-std,concepticon-593,5.7,jagaimo,potato,jagaimo
+clics-doculect-62-620,nucl1643-std,concepticon-593,5.7,imo,potato,imo
+clics-doculect-62-621,nucl1643-std,concepticon-1507,5.71,kudamono,fruit,kudamono
+clics-doculect-62-622,nucl1643-std,concepticon-1507,5.71,furūtsu,fruit,furutsu
+clics-doculect-62-623,nucl1643-std,concepticon-1966,5.712,taba,bunch,taba
+clics-doculect-62-624,nucl1643-std,concepticon-322,5.75,ichijiku,fig,ichijiku
+clics-doculect-62-625,nucl1643-std,concepticon-920,5.76,budō,grape,budo
+clics-doculect-62-626,nucl1643-std,concepticon-191,5.77,kinomi,nut,kinomi
+clics-doculect-62-627,nucl1643-std,concepticon-191,5.77,nattsu,nut,nattsu
+clics-doculect-62-628,nucl1643-std,concepticon-1154,5.78,oriibu,olive,oriibu
+clics-doculect-62-629,nucl1643-std,concepticon-1484,5.79,abura,oil,abura
+clics-doculect-62-630,nucl1643-std,concepticon-1484,5.79,oiru,oil,oiru
+clics-doculect-62-631,nucl1643-std,concepticon-323,5.791,abura,"grease, fat",abura
+clics-doculect-62-632,nucl1643-std,concepticon-323,5.791,shibō,"grease, fat",shibo
+clics-doculect-62-633,nucl1643-std,concepticon-1274,5.81,shio,salt,shio
+clics-doculect-62-634,nucl1643-std,concepticon-1385,5.82,koshō,pepper,kosho
+clics-doculect-62-635,nucl1643-std,concepticon-919,5.821,tōgarashi,chili pepper,togarashi
+clics-doculect-62-636,nucl1643-std,concepticon-942,5.84,mitsu,honey,mitsu
+clics-doculect-62-637,nucl1643-std,concepticon-862,5.85,satō,sugar,sato
+clics-doculect-62-638,nucl1643-std,concepticon-635,5.86,miruku,milk (noun),miruku
+clics-doculect-62-639,nucl1643-std,concepticon-635,5.86,gyūnyū,milk (noun),gyunyu
+clics-doculect-62-640,nucl1643-std,concepticon-93,5.87,shiboru,milk (vb),shiboru
+clics-doculect-62-641,nucl1643-std,concepticon-1569,5.88,chiizu,cheese,chiizu
+clics-doculect-62-642,nucl1643-std,concepticon-1245,5.89,batā,butter,bata
+clics-doculect-62-643,nucl1643-std,concepticon-731,5.9,nomimono,"beverage, drink",nomimono
+clics-doculect-62-644,nucl1643-std,concepticon-941,5.91,miido,mead,miido
+clics-doculect-62-645,nucl1643-std,concepticon-1524,5.92,sake,wine,sake
+clics-doculect-62-646,nucl1643-std,concepticon-1524,5.92,wain,wine,wain
+clics-doculect-62-647,nucl1643-std,concepticon-1524,5.92,budōshu,wine,budoshu
+clics-doculect-62-648,nucl1643-std,concepticon-1639,5.93,biiru,beer,biiru
+clics-doculect-62-649,nucl1643-std,concepticon-404,5.94,hakkōinryō,fermented drink,hakkoinryo
+clics-doculect-62-650,nucl1643-std,concepticon-744,5.97,tamago,egg,tamago
+clics-doculect-62-651,nucl1643-std,concepticon-1556,5.971,kimi,egg yolk,kimi
+clics-doculect-62-652,nucl1643-std,concepticon-158,6.11,kiru,put on (clothes),kiru
+clics-doculect-62-653,nucl1643-std,concepticon-1895,6.12,fuku,"clothing, clothes",fuku
+clics-doculect-62-654,nucl1643-std,concepticon-881,6.13,shitateya,tailor,shitateya
+clics-doculect-62-655,nucl1643-std,concepticon-1616,6.21,nuno,cloth,nuno
+clics-doculect-62-656,nucl1643-std,concepticon-1616,6.21,orimono,cloth,orimono
+clics-doculect-62-657,nucl1643-std,concepticon-964,6.22,ūru,wool,uru
+clics-doculect-62-658,nucl1643-std,concepticon-964,6.22,keito,wool,keito
+clics-doculect-62-659,nucl1643-std,concepticon-964,6.22,yōmō,wool,yomo
+clics-doculect-62-660,nucl1643-std,concepticon-916,6.23,rinneru,"linen, flax",rinneru
+clics-doculect-62-661,nucl1643-std,concepticon-1850,6.24,momen,cotton,momen
+clics-doculect-62-662,nucl1643-std,concepticon-1641,6.25,kinu,silk,kinu
+clics-doculect-62-663,nucl1643-std,concepticon-1641,6.25,shiruku,silk,shiruku
+clics-doculect-62-664,nucl1643-std,concepticon-325,6.27,feruto,felt,feruto
+clics-doculect-62-665,nucl1643-std,concepticon-580,6.28,kegawa,fur,kegawa
+clics-doculect-62-666,nucl1643-std,concepticon-629,6.29,kawa,leather,kawa
+clics-doculect-62-667,nucl1643-std,concepticon-629,6.29,hikaku,leather,hikaku
+clics-doculect-62-668,nucl1643-std,concepticon-121,6.31,tsumugu,spin,tsumugu
+clics-doculect-62-669,nucl1643-std,concepticon-277,6.32,tsumu,spindle,tsumu
+clics-doculect-62-670,nucl1643-std,concepticon-277,6.32,bōsui,spindle,bosui
+clics-doculect-62-671,nucl1643-std,concepticon-133,6.33,oru,weave,oru
+clics-doculect-62-672,nucl1643-std,concepticon-1787,6.34,hata,loom,hata
+clics-doculect-62-673,nucl1643-std,concepticon-1787,6.34,oriki,loom,oriki
+clics-doculect-62-674,nucl1643-std,concepticon-1457,6.35,nuu,sew,nuu
+clics-doculect-62-675,nucl1643-std,concepticon-1382,6.36,hari,needle,hari
+clics-doculect-62-676,nucl1643-std,concepticon-278,6.37,kiri,awl,kiri
+clics-doculect-62-677,nucl1643-std,concepticon-1161,6.38,ito,thread,ito
+clics-doculect-62-678,nucl1643-std,concepticon-157,6.39,someru,dye,someru
+clics-doculect-62-679,nucl1643-std,concepticon-326,6.41,manto,cloak,manto
+clics-doculect-62-680,nucl1643-std,concepticon-327,6.411,poncho,poncho,poncho
+clics-doculect-62-681,nucl1643-std,concepticon-474,6.42,doresu,woman's dress,doresu
+clics-doculect-62-682,nucl1643-std,concepticon-603,6.43,uwagi,coat,uwagi
+clics-doculect-62-683,nucl1643-std,concepticon-603,6.43,kōto,coat,koto
+clics-doculect-62-684,nucl1643-std,concepticon-1622,6.44,shatsu,shirt,shatsu
+clics-doculect-62-685,nucl1643-std,concepticon-2012,6.45,eri,collar,eri
+clics-doculect-62-686,nucl1643-std,concepticon-1600,6.46,sukāto,skirt,sukato
+clics-doculect-62-687,nucl1643-std,concepticon-328,6.461,koshiminosukāto,grass-skirt,koshiminosukato
+clics-doculect-62-688,nucl1643-std,concepticon-809,6.48,zubon,trousers,zubon
+clics-doculect-62-689,nucl1643-std,concepticon-809,6.48,surakkusu,trousers,surakkusu
+clics-doculect-62-690,nucl1643-std,concepticon-329,6.49,kutsushita,"stocking, sock",kutsushita
+clics-doculect-62-691,nucl1643-std,concepticon-329,6.49,sokkusu,"stocking, sock",sokkusu
+clics-doculect-62-692,nucl1643-std,concepticon-329,6.49,sutokkingu,"stocking, sock",sutokkingu
+clics-doculect-62-693,nucl1643-std,concepticon-1381,6.51,kutsu,shoe,kutsu
+clics-doculect-62-694,nucl1643-std,concepticon-585,6.52,nagagutsu,boot,nagagutsu
+clics-doculect-62-695,nucl1643-std,concepticon-585,6.52,būtsu,boot,butsu
+clics-doculect-62-696,nucl1643-std,concepticon-875,6.54,kutsuya,"shoemaker, cobbler",kutsuya
+clics-doculect-62-697,nucl1643-std,concepticon-2130,6.55,bōshi,"hat, cap",boshi
+clics-doculect-62-698,nucl1643-std,concepticon-772,6.57,beruto,"belt, girdle",beruto
+clics-doculect-62-699,nucl1643-std,concepticon-772,6.57,obi,"belt, girdle",obi
+clics-doculect-62-700,nucl1643-std,concepticon-867,6.58,tebukuro,glove,tebukuro
+clics-doculect-62-701,nucl1643-std,concepticon-1151,6.59,bēru,veil,beru
+clics-doculect-62-702,nucl1643-std,concepticon-1851,6.61,poketto,pocket,poketto
+clics-doculect-62-703,nucl1643-std,concepticon-1851,6.61,futokoro,pocket,futokoro
+clics-doculect-62-704,nucl1643-std,concepticon-757,6.62,botan,button,botan
+clics-doculect-62-705,nucl1643-std,concepticon-64,6.63,pin,pin,pin
+clics-doculect-62-706,nucl1643-std,concepticon-917,6.71,akusesarii,"ornament, adornment",akusesarii
+clics-doculect-62-707,nucl1643-std,concepticon-917,6.71,kazarimono,"ornament, adornment",kazarimono
+clics-doculect-62-708,nucl1643-std,concepticon-1029,6.72,hōseki,jewel,hoseki
+clics-doculect-62-709,nucl1643-std,concepticon-1374,6.73,yubiwa,ring (for finger),yubiwa
+clics-doculect-62-710,nucl1643-std,concepticon-1754,6.74,udewa,bracelet,udewa
+clics-doculect-62-711,nucl1643-std,concepticon-1961,6.75,nekkuresu,necklace,nekkuresu
+clics-doculect-62-712,nucl1643-std,concepticon-1961,6.75,kubikazari,necklace,kubikazari
+clics-doculect-62-713,nucl1643-std,concepticon-1860,6.76,juzudama,bead,juzudama
+clics-doculect-62-714,nucl1643-std,concepticon-1860,6.76,biizu,bead,biizu
+clics-doculect-62-715,nucl1643-std,concepticon-770,6.77,iyaringu,earring,iyaringu
+clics-doculect-62-716,nucl1643-std,concepticon-770,6.77,mimiwa,earring,mimiwa
+clics-doculect-62-717,nucl1643-std,concepticon-330,6.78,hachimaki,"headband, headdress",hachimaki
+clics-doculect-62-718,nucl1643-std,concepticon-68,6.79,irezumi,tattoo,irezumi
+clics-doculect-62-719,nucl1643-std,concepticon-332,6.81,hankachi,"handkerchief, rag",hankachi
+clics-doculect-62-720,nucl1643-std,concepticon-332,6.81,borokire,"handkerchief, rag",borokire
+clics-doculect-62-721,nucl1643-std,concepticon-1021,6.82,taoru,towel,taoru
+clics-doculect-62-722,nucl1643-std,concepticon-1475,6.91,kushi,comb,kushi
+clics-doculect-62-723,nucl1643-std,concepticon-1821,6.92,burashi,brush,burashi
+clics-doculect-62-724,nucl1643-std,concepticon-1821,6.92,hake,brush,hake
+clics-doculect-62-725,nucl1643-std,concepticon-333,6.921,mitsuami,braid,mitsuami
+clics-doculect-62-726,nucl1643-std,concepticon-333,6.921,osagekami,braid,osagekami
+clics-doculect-62-727,nucl1643-std,concepticon-151,6.93,kamisori,razor,kamisori
+clics-doculect-62-728,nucl1643-std,concepticon-1926,6.94,nankō,ointment,nanko
+clics-doculect-62-729,nucl1643-std,concepticon-788,6.95,sekken,soap,sekken
+clics-doculect-62-730,nucl1643-std,concepticon-1171,6.96,kagami,mirror,kagami
+clics-doculect-62-731,nucl1643-std,concepticon-363,7.11,sumu,"dwell, live",sumu
+clics-doculect-62-732,nucl1643-std,concepticon-363,7.11,kurasu,"dwell, live",kurasu
+clics-doculect-62-733,nucl1643-std,concepticon-1252,7.12,ie,house,ie
+clics-doculect-62-734,nucl1643-std,concepticon-1678,7.13,koya,hut,koya
+clics-doculect-62-735,nucl1643-std,concepticon-403,7.131,azumaya,garden-house,azumaya
+clics-doculect-62-736,nucl1643-std,concepticon-1316,7.14,tento,tent,tento
+clics-doculect-62-737,nucl1643-std,concepticon-736,7.15,niwa,"yard, court",niwa
+clics-doculect-62-738,nucl1643-std,concepticon-334,7.17,suijijō,cookhouse,suijijo
+clics-doculect-62-739,nucl1643-std,concepticon-335,7.18,kaidō,meeting house,kaido
+clics-doculect-62-740,nucl1643-std,concepticon-1450,7.21,heya,room,heya
+clics-doculect-62-741,nucl1643-std,concepticon-1567,7.22,doa,"door, gate",doa
+clics-doculect-62-742,nucl1643-std,concepticon-1567,7.22,tobira,"door, gate",tobira
+clics-doculect-62-743,nucl1643-std,concepticon-80,7.221,gawabashira,"doorpost, jamb",gawabashira
+clics-doculect-62-744,nucl1643-std,concepticon-1596,7.23,rokku,lock (noun),rokku
+clics-doculect-62-745,nucl1643-std,concepticon-1596,7.23,jō,lock (noun),jo
+clics-doculect-62-746,nucl1643-std,concepticon-1012,7.231,kakegane,"latch, door-bolt",kakegane
+clics-doculect-62-747,nucl1643-std,concepticon-1472,7.24,kagi,key,kagi
+clics-doculect-62-748,nucl1643-std,concepticon-1375,7.25,mado,window,mado
+clics-doculect-62-749,nucl1643-std,concepticon-1632,7.26,yuka,floor,yuka
+clics-doculect-62-750,nucl1643-std,concepticon-933,7.27,kabe,wall,kabe
+clics-doculect-62-751,nucl1643-std,concepticon-185,7.31,danro,fireplace,danro
+clics-doculect-62-752,nucl1643-std,concepticon-859,7.32,sutōbu,stove,sutobu
+clics-doculect-62-753,nucl1643-std,concepticon-1305,7.33,entotsu,chimney,entotsu
+clics-doculect-62-754,nucl1643-std,concepticon-1464,7.37,hashigo,ladder,hashigo
+clics-doculect-62-755,nucl1643-std,concepticon-1663,7.42,beddo,bed,beddo
+clics-doculect-62-756,nucl1643-std,concepticon-1663,7.42,toko,bed,toko
+clics-doculect-62-757,nucl1643-std,concepticon-1663,7.42,shindai,bed,shindai
+clics-doculect-62-758,nucl1643-std,concepticon-1044,7.421,makura,pillow,makura
+clics-doculect-62-759,nucl1643-std,concepticon-806,7.422,mōfu,blanket,mofu
+clics-doculect-62-760,nucl1643-std,concepticon-1476,7.43,isu,chair,isu
+clics-doculect-62-761,nucl1643-std,concepticon-1775,7.44,tēburu,table,teburu
+clics-doculect-62-762,nucl1643-std,concepticon-1775,7.44,taku,table,taku
+clics-doculect-62-763,nucl1643-std,concepticon-1775,7.44,tsukue,table,tsukue
+clics-doculect-62-764,nucl1643-std,concepticon-2131,7.45,akari,"lamp, torch",akari
+clics-doculect-62-765,nucl1643-std,concepticon-2131,7.45,rampu,"lamp, torch",rampu
+clics-doculect-62-766,nucl1643-std,concepticon-2131,7.45,dentō,"lamp, torch",dento
+clics-doculect-62-767,nucl1643-std,concepticon-1273,7.46,rōsoku,candle,rosoku
+clics-doculect-62-768,nucl1643-std,concepticon-745,7.47,tana,shelf,tana
+clics-doculect-62-769,nucl1643-std,concepticon-205,7.48,kaibaoke,trough,kaibaoke
+clics-doculect-62-770,nucl1643-std,concepticon-205,7.48,mizuire,trough,mizuire
+clics-doculect-62-771,nucl1643-std,concepticon-769,7.51,yane,roof,yane
+clics-doculect-62-772,nucl1643-std,concepticon-279,7.52,yanefuki,thatch,yanefuki
+clics-doculect-62-773,nucl1643-std,concepticon-279,7.52,warabuki,thatch,warabuki
+clics-doculect-62-774,nucl1643-std,concepticon-280,7.53,munagi,ridgepole,munagi
+clics-doculect-62-775,nucl1643-std,concepticon-829,7.54,taruki,rafter,taruki
+clics-doculect-62-776,nucl1643-std,concepticon-1132,7.55,hari,beam,hari
+clics-doculect-62-777,nucl1643-std,concepticon-281,7.56,hashira,"post, pole",hashira
+clics-doculect-62-778,nucl1643-std,concepticon-281,7.56,sao,"post, pole",sao
+clics-doculect-62-779,nucl1643-std,concepticon-281,7.56,kui,"post, pole",kui
+clics-doculect-62-780,nucl1643-std,concepticon-1227,7.57,ita,board,ita
+clics-doculect-62-781,nucl1643-std,concepticon-876,7.58,āchi,arch,achi
+clics-doculect-62-782,nucl1643-std,concepticon-876,7.58,serimochi,arch,serimochi
+clics-doculect-62-783,nucl1643-std,concepticon-877,7.61,sekkō,mason,sekko
+clics-doculect-62-784,nucl1643-std,concepticon-1006,7.62,renga,brick,renga
+clics-doculect-62-785,nucl1643-std,concepticon-224,7.63,morutaru,mortar,morutaru
+clics-doculect-62-786,nucl1643-std,concepticon-224,7.63,shikkui,mortar,shikkui
+clics-doculect-62-787,nucl1643-std,concepticon-901,7.64,hiboshirenga,adobe,hiboshirenga
+clics-doculect-62-788,nucl1643-std,concepticon-901,7.64,adōbirenga,adobe,adobirenga
+clics-doculect-62-789,nucl1643-std,concepticon-979,8.11,nōmin,farmer,nomin
+clics-doculect-62-790,nucl1643-std,concepticon-979,8.11,hyakushō,farmer,hyakusho
+clics-doculect-62-791,nucl1643-std,concepticon-212,8.12,hatake,field (for cultivation),hatake
+clics-doculect-62-792,nucl1643-std,concepticon-586,8.13,niwa,garden,niwa
+clics-doculect-62-793,nucl1643-std,concepticon-1541,8.15,tagayasu,"cultivate, till",tagayasu
+clics-doculect-62-794,nucl1643-std,concepticon-1690,8.16,hei,fence,hei
+clics-doculect-62-795,nucl1643-std,concepticon-1690,8.16,kakoi,fence,kakoi
+clics-doculect-62-796,nucl1643-std,concepticon-1690,8.16,saku,fence,saku
+clics-doculect-62-797,nucl1643-std,concepticon-2002,8.17,mizo,ditch,mizo
+clics-doculect-62-798,nucl1643-std,concepticon-2002,8.17,hori,ditch,hori
+clics-doculect-62-799,nucl1643-std,concepticon-1921,8.21,suku,plow,suku
+clics-doculect-62-800,nucl1643-std,concepticon-1921,8.21,tagayasu,plow,tagayasu
+clics-doculect-62-801,nucl1643-std,concepticon-1794,8.212,mizo,furrow,mizo
+clics-doculect-62-802,nucl1643-std,concepticon-1418,8.22,horu,dig,horu
+clics-doculect-62-803,nucl1643-std,concepticon-1176,8.23,fumiguwa,spade,fumiguwa
+clics-doculect-62-804,nucl1643-std,concepticon-1901,8.24,shaberu,shovel,shaberu
+clics-doculect-62-805,nucl1643-std,concepticon-284,8.25,kuwa,hoe,kuwa
+clics-doculect-62-806,nucl1643-std,concepticon-284,8.25,suki,hoe,suki
+clics-doculect-62-807,nucl1643-std,concepticon-337,8.26,mataguwa,fork,mataguwa
+clics-doculect-62-808,nucl1643-std,concepticon-338,8.27,kumade,rake,kumade
+clics-doculect-62-809,nucl1643-std,concepticon-1351,8.31,maku,sow,maku
+clics-doculect-62-810,nucl1643-std,concepticon-714,8.311,tane,seed,tane
+clics-doculect-62-811,nucl1643-std,concepticon-714,8.311,shushi,seed,shushi
+clics-doculect-62-812,nucl1643-std,concepticon-190,8.32,karu,"mow, reap",karu
+clics-doculect-62-813,nucl1643-std,concepticon-2132,8.33,kama,"sickle, scythe",kama
+clics-doculect-62-814,nucl1643-std,concepticon-285,8.34,koku,thresh,koku
+clics-doculect-62-815,nucl1643-std,concepticon-285,8.34,dakkoku,thresh,dakkoku
+clics-doculect-62-816,nucl1643-std,concepticon-223,8.35,dakkokujō,threshing-floor,dakkokujo
+clics-doculect-62-817,nucl1643-std,concepticon-611,8.41,toriire,"crop, harvest",toriire
+clics-doculect-62-818,nucl1643-std,concepticon-611,8.41,shūkaku,"crop, harvest",shukaku
+clics-doculect-62-819,nucl1643-std,concepticon-605,8.42,kokumotsu,"grain (barley, oats etc)",kokumotsu
+clics-doculect-62-820,nucl1643-std,concepticon-1077,8.43,mugi,wheat,mugi
+clics-doculect-62-821,nucl1643-std,concepticon-1077,8.43,komugi,wheat,komugi
+clics-doculect-62-822,nucl1643-std,concepticon-932,8.44,mugi,barley,mugi
+clics-doculect-62-823,nucl1643-std,concepticon-932,8.44,ōmugi,barley,omugi
+clics-doculect-62-824,nucl1643-std,concepticon-23,8.45,mugi,rye,mugi
+clics-doculect-62-825,nucl1643-std,concepticon-23,8.45,raimugi,rye,raimugi
+clics-doculect-62-826,nucl1643-std,concepticon-60,8.46,mugi,oats,mugi
+clics-doculect-62-827,nucl1643-std,concepticon-60,8.46,ōtomugi,oats,otomugi
+clics-doculect-62-828,nucl1643-std,concepticon-60,8.46,enbaku,oats,enbaku
+clics-doculect-62-829,nucl1643-std,concepticon-506,8.47,tōmorokoshi,"maize, corn",tomorokoshi
+clics-doculect-62-830,nucl1643-std,concepticon-926,8.48,gohan,rice,gohan
+clics-doculect-62-831,nucl1643-std,concepticon-926,8.48,raisu,rice,raisu
+clics-doculect-62-832,nucl1643-std,concepticon-606,8.51,kusa,grass,kusa
+clics-doculect-62-833,nucl1643-std,concepticon-342,8.52,hoshikusa,hay,hoshikusa
+clics-doculect-62-834,nucl1643-std,concepticon-653,8.53,shokubutsu,plant (noun),shokubutsu
+clics-doculect-62-835,nucl1643-std,concepticon-1486,8.531,haeru,plant (vb),haeru
+clics-doculect-62-836,nucl1643-std,concepticon-670,8.54,ne,root,ne
+clics-doculect-62-837,nucl1643-std,concepticon-1531,8.55,eda,branch,eda
+clics-doculect-62-838,nucl1643-std,concepticon-628,8.56,ha,leaf,ha
+clics-doculect-62-839,nucl1643-std,concepticon-239,8.57,hana,flower,hana
+clics-doculect-62-840,nucl1643-std,concepticon-906,8.6,ki,tree,ki
+clics-doculect-62-841,nucl1643-std,concepticon-644,8.61,ōku,oak,oku
+clics-doculect-62-842,nucl1643-std,concepticon-644,8.61,kashiwa,oak,kashiwa
+clics-doculect-62-843,nucl1643-std,concepticon-644,8.61,kashi,oak,kashi
+clics-doculect-62-844,nucl1643-std,concepticon-644,8.61,nara,oak,nara
+clics-doculect-62-845,nucl1643-std,concepticon-1950,8.62,buna,beech,buna
+clics-doculect-62-846,nucl1643-std,concepticon-1855,8.63,kaba,birch,kaba
+clics-doculect-62-847,nucl1643-std,concepticon-1740,8.64,matsu,pine,matsu
+clics-doculect-62-848,nucl1643-std,concepticon-1915,8.65,momi,fir,momi
+clics-doculect-62-849,nucl1643-std,concepticon-968,8.66,donguri,acorn,donguri
+clics-doculect-62-850,nucl1643-std,concepticon-343,8.67,budōnoki,vine,budonoki
+clics-doculect-62-851,nucl1643-std,concepticon-974,8.68,tabako,tobacco,tabako
+clics-doculect-62-852,nucl1643-std,concepticon-1689,8.69,suu,smoke (tobacco),suu
+clics-doculect-62-853,nucl1643-std,concepticon-1689,8.69,kitsuen,smoke (tobacco),kitsuen
+clics-doculect-62-854,nucl1643-std,concepticon-1124,8.691,paipu,pipe,paipu
+clics-doculect-62-855,nucl1643-std,concepticon-241,8.72,kirikabu,tree stump,kirikabu
+clics-doculect-62-856,nucl1643-std,concepticon-344,8.73,miki,tree trunk,miki
+clics-doculect-62-857,nucl1643-std,concepticon-1204,8.75,juhi,bark,juhi
+clics-doculect-62-858,nucl1643-std,concepticon-345,8.76,jueki,sap,jueki
+clics-doculect-62-859,nucl1643-std,concepticon-1181,8.81,yashi,palm tree,yashi
+clics-doculect-62-860,nucl1643-std,concepticon-970,8.82,kokonattsu,coconut,kokonattsu
+clics-doculect-62-861,nucl1643-std,concepticon-1126,8.83,kankitsurui,citrus fruit,kankitsurui
+clics-doculect-62-862,nucl1643-std,concepticon-868,8.84,banana,banana tree,banana
+clics-doculect-62-863,nucl1643-std,concepticon-346,8.85,gajumaru,banyan,gajumaru
+clics-doculect-62-864,nucl1643-std,concepticon-159,8.91,satsumaimo,sweet potato,satsumaimo
+clics-doculect-62-865,nucl1643-std,concepticon-159,8.91,imo,sweet potato,imo
+clics-doculect-62-866,nucl1643-std,concepticon-410,8.912,yamuimo,yam,yamuimo
+clics-doculect-62-867,nucl1643-std,concepticon-410,8.912,yamaimo,yam,yamaimo
+clics-doculect-62-868,nucl1643-std,concepticon-925,8.92,kyassaba,"tapioca, manioc, cassava",kyassaba
+clics-doculect-62-869,nucl1643-std,concepticon-411,8.93,hyōtan,gourd,hyotan
+clics-doculect-62-870,nucl1643-std,concepticon-864,8.931,kabocha,"pumpkin, squash",kabocha
+clics-doculect-62-871,nucl1643-std,concepticon-1927,8.94,take,bamboo,take
+clics-doculect-62-872,nucl1643-std,concepticon-146,8.941,satōkibi,sugar cane,satokibi
+clics-doculect-62-873,nucl1643-std,concepticon-33,8.97,irakusa,nettle,irakusa
+clics-doculect-62-874,nucl1643-std,concepticon-641,8.98,kinoko,mushroom,kinoko
+clics-doculect-62-875,nucl1643-std,concepticon-2575,9.11,suru,"do, make",suru
+clics-doculect-62-876,nucl1643-std,concepticon-2575,9.11,yaru,"do, make",yaru
+clics-doculect-62-877,nucl1643-std,concepticon-984,9.12,shigoto,work,shigoto
+clics-doculect-62-878,nucl1643-std,concepticon-2004,9.14,mageru,bend,mageru
+clics-doculect-62-879,nucl1643-std,concepticon-1470,9.15,oritatamu,fold,oritatamu
+clics-doculect-62-880,nucl1643-std,concepticon-1917,9.16,shibaru,"tie, bind",shibaru
+clics-doculect-62-881,nucl1643-std,concepticon-1917,9.16,musubu,"tie, bind",musubu
+clics-doculect-62-882,nucl1643-std,concepticon-352,9.161,toku,untie,toku
+clics-doculect-62-883,nucl1643-std,concepticon-352,9.161,hodoku,untie,hodoku
+clics-doculect-62-884,nucl1643-std,concepticon-1627,9.18,kusari,chain,kusari
+clics-doculect-62-885,nucl1643-std,concepticon-1218,9.19,nawa,"rope, cord",nawa
+clics-doculect-62-886,nucl1643-std,concepticon-1218,9.19,tsuna,"rope, cord",tsuna
+clics-doculect-62-887,nucl1643-std,concepticon-1218,9.19,rōpu,"rope, cord",ropu
+clics-doculect-62-888,nucl1643-std,concepticon-760,9.192,musubime,knot (noun),musubime
+clics-doculect-62-889,nucl1643-std,concepticon-2133,9.21,utsu,"strike (hit, beat)",utsu
+clics-doculect-62-890,nucl1643-std,concepticon-2133,9.21,tataku,"strike (hit, beat)",tataku
+clics-doculect-62-891,nucl1643-std,concepticon-354,9.211,naguru,pound with fist,naguru
+clics-doculect-62-892,nucl1643-std,concepticon-354,9.211,butsu,pound with fist,butsu
+clics-doculect-62-893,nucl1643-std,concepticon-1432,9.22,kiru,cut,kiru
+clics-doculect-62-894,nucl1643-std,concepticon-1432,9.22,setsudan,cut,setsudan
+clics-doculect-62-895,nucl1643-std,concepticon-355,9.221,kiritaosu,cut down,kiritaosu
+clics-doculect-62-896,nucl1643-std,concepticon-355,9.221,bassai,cut down,bassai
+clics-doculect-62-897,nucl1643-std,concepticon-155,9.222,kizamu,"chop, hew",kizamu
+clics-doculect-62-898,nucl1643-std,concepticon-1434,9.223,sasu,stab,sasu
+clics-doculect-62-899,nucl1643-std,concepticon-1352,9.23,hōchō,knife,hocho
+clics-doculect-62-900,nucl1643-std,concepticon-1352,9.23,naifu,knife,naifu
+clics-doculect-62-901,nucl1643-std,concepticon-356,9.24,hasami,"scissors, shears",hasami
+clics-doculect-62-902,nucl1643-std,concepticon-677,9.25,ono,ax,ono
+clics-doculect-62-903,nucl1643-std,concepticon-290,9.251,chōna,adze,chona
+clics-doculect-62-904,nucl1643-std,concepticon-290,9.251,teono,adze,teono
+clics-doculect-62-905,nucl1643-std,concepticon-680,9.26,kowasu,break,kowasu
+clics-doculect-62-906,nucl1643-std,concepticon-588,9.261,kowareru,broken,kowareru
+clics-doculect-62-907,nucl1643-std,concepticon-1437,9.27,waru,split,waru
+clics-doculect-62-908,nucl1643-std,concepticon-1437,9.27,bunretsu,split,bunretsu
+clics-doculect-62-909,nucl1643-std,concepticon-1437,9.27,saku,split,saku
+clics-doculect-62-910,nucl1643-std,concepticon-1735,9.28,yaburu,tear,yaburu
+clics-doculect-62-911,nucl1643-std,concepticon-1735,9.28,saku,tear,saku
+clics-doculect-62-912,nucl1643-std,concepticon-291,9.29,kawaomuku,"flay, skin",kawaomuku
+clics-doculect-62-913,nucl1643-std,concepticon-291,9.29,dappi,"flay, skin",dappi
+clics-doculect-62-914,nucl1643-std,concepticon-291,9.29,kawaohagu,"flay, skin",kawaohagu
+clics-doculect-62-915,nucl1643-std,concepticon-1449,9.31,kosuru,"rub, wipe",kosuru
+clics-doculect-62-916,nucl1643-std,concepticon-214,9.32,nobasu,stretch,nobasu
+clics-doculect-62-917,nucl1643-std,concepticon-214,9.32,hipparu,stretch,hipparu
+clics-doculect-62-918,nucl1643-std,concepticon-1455,9.33,hipparu,pull,hipparu
+clics-doculect-62-919,nucl1643-std,concepticon-1455,9.33,hiku,pull,hiku
+clics-doculect-62-920,nucl1643-std,concepticon-38,9.34,hirogeru,spread out,hirogeru
+clics-doculect-62-921,nucl1643-std,concepticon-357,9.341,kakeru,hang up,kakeru
+clics-doculect-62-922,nucl1643-std,concepticon-1913,9.342,osu,press,osu
+clics-doculect-62-923,nucl1643-std,concepticon-1414,9.343,shiboru,"squeeze, wring",shiboru
+clics-doculect-62-924,nucl1643-std,concepticon-1487,9.35,sosogu,pour,sosogu
+clics-doculect-62-925,nucl1643-std,concepticon-1453,9.36,arau,wash,arau
+clics-doculect-62-926,nucl1643-std,concepticon-1453,9.36,sentaku,wash,sentaku
+clics-doculect-62-927,nucl1643-std,concepticon-230,9.37,haku,sweep,haku
+clics-doculect-62-928,nucl1643-std,concepticon-230,9.37,sōji,sweep,soji
+clics-doculect-62-929,nucl1643-std,concepticon-245,9.38,hōki,broom,hoki
+clics-doculect-62-930,nucl1643-std,concepticon-1361,9.422,dōgu,tool,dogu
+clics-doculect-62-931,nucl1643-std,concepticon-1361,9.422,kōgu,tool,kogu
+clics-doculect-62-932,nucl1643-std,concepticon-1042,9.43,daiku,carpenter,daiku
+clics-doculect-62-933,nucl1643-std,concepticon-1840,9.44,kizuku,build,kizuku
+clics-doculect-62-934,nucl1643-std,concepticon-1840,9.44,tateru,build,tateru
+clics-doculect-62-935,nucl1643-std,concepticon-1840,9.44,kenchiku,build,kenchiku
+clics-doculect-62-936,nucl1643-std,concepticon-1501,9.46,anaoakeru,bore,anaoakeru
+clics-doculect-62-937,nucl1643-std,concepticon-46,9.461,kurinuku,hollow out,kurinuku
+clics-doculect-62-938,nucl1643-std,concepticon-46,9.461,eguru,hollow out,eguru
+clics-doculect-62-939,nucl1643-std,concepticon-1948,9.48,nokogiri,saw,nokogiri
+clics-doculect-62-940,nucl1643-std,concepticon-1481,9.49,tsuchi,hammer,tsuchi
+clics-doculect-62-941,nucl1643-std,concepticon-1481,9.49,hanmā,hammer,hanma
+clics-doculect-62-942,nucl1643-std,concepticon-502,9.5,kugi,nail,kugi
+clics-doculect-62-943,nucl1643-std,concepticon-1069,9.56,nori,glue,nori
+clics-doculect-62-944,nucl1643-std,concepticon-1069,9.56,setchakuzai,glue,setchakuzai
+clics-doculect-62-945,nucl1643-std,concepticon-1069,9.56,nikawa,glue,nikawa
+clics-doculect-62-946,nucl1643-std,concepticon-1001,9.6,kajiya,"smith, blacksmith",kajiya
+clics-doculect-62-947,nucl1643-std,concepticon-288,9.61,kitaeru,forge,kitaeru
+clics-doculect-62-948,nucl1643-std,concepticon-1648,9.62,kanatoko,anvil,kanatoko
+clics-doculect-62-949,nucl1643-std,concepticon-211,9.63,chūzō,cast (metals),chuzo
+clics-doculect-62-950,nucl1643-std,concepticon-1369,9.64,kin,gold,kin
+clics-doculect-62-951,nucl1643-std,concepticon-1369,9.64,ōgon,gold,ogon
+clics-doculect-62-952,nucl1643-std,concepticon-759,9.65,gin,silver,gin
+clics-doculect-62-953,nucl1643-std,concepticon-1825,9.66,dō,"copper, bronze",do
+clics-doculect-62-954,nucl1643-std,concepticon-621,9.67,tetsu,iron,tetsu
+clics-doculect-62-955,nucl1643-std,concepticon-627,9.68,namari,lead (noun),namari
+clics-doculect-62-956,nucl1643-std,concepticon-358,9.69,suzu,"tin, tinplate",suzu
+clics-doculect-62-957,nucl1643-std,concepticon-358,9.69,buriki,"tin, tinplate",buriki
+clics-doculect-62-958,nucl1643-std,concepticon-359,9.71,tōkō,potter,toko
+clics-doculect-62-959,nucl1643-std,concepticon-289,9.72,katachidukuru,mold (clay etc),katachidukuru
+clics-doculect-62-960,nucl1643-std,concepticon-1399,9.73,nendo,clay,nendo
+clics-doculect-62-961,nucl1643-std,concepticon-1399,9.73,tsuchi,clay,tsuchi
+clics-doculect-62-962,nucl1643-std,concepticon-604,9.74,garasu,glass,garasu
+clics-doculect-62-963,nucl1643-std,concepticon-1729,9.75,amu,"weave, plait",amu
+clics-doculect-62-964,nucl1643-std,concepticon-1539,9.76,kago,basket,kago
+clics-doculect-62-965,nucl1643-std,concepticon-195,9.77,mushiro,mat,mushiro
+clics-doculect-62-966,nucl1643-std,concepticon-195,9.77,matto,mat,matto
+clics-doculect-62-967,nucl1643-std,concepticon-195,9.77,tatami,mat,tatami
+clics-doculect-62-968,nucl1643-std,concepticon-292,9.771,jūtan,rug,jutan
+clics-doculect-62-969,nucl1643-std,concepticon-292,9.771,kāpetto,rug,kapetto
+clics-doculect-62-970,nucl1643-std,concepticon-293,9.78,nettobaggu,netbag,nettobaggu
+clics-doculect-62-971,nucl1643-std,concepticon-1971,9.79,uchiwa,fan (noun),uchiwa
+clics-doculect-62-972,nucl1643-std,concepticon-1971,9.79,ōgi,fan (noun),ogi
+clics-doculect-62-973,nucl1643-std,concepticon-1971,9.79,sensu,fan (noun),sensu
+clics-doculect-62-974,nucl1643-std,concepticon-360,9.791,aogu,fan (vb),aogu
+clics-doculect-62-975,nucl1643-std,concepticon-228,9.81,horu,carve,horu
+clics-doculect-62-976,nucl1643-std,concepticon-228,9.81,chōkoku,carve,chokoku
+clics-doculect-62-977,nucl1643-std,concepticon-228,9.81,kizamu,carve,kizamu
+clics-doculect-62-978,nucl1643-std,concepticon-914,9.82,chōkokuka,sculptor,chokokuka
+clics-doculect-62-979,nucl1643-std,concepticon-1002,9.83,zō,statue,zo
+clics-doculect-62-980,nucl1643-std,concepticon-1979,9.84,nomi,chisel,nomi
+clics-doculect-62-981,nucl1643-std,concepticon-1979,9.84,chōkokutō,chisel,chokokuto
+clics-doculect-62-982,nucl1643-std,concepticon-647,9.88,penki,paint (noun),penki
+clics-doculect-62-983,nucl1643-std,concepticon-647,9.88,enogu,paint (noun),enogu
+clics-doculect-62-984,nucl1643-std,concepticon-2001,9.89,nuru,paint (vb),nuru
+clics-doculect-62-985,nucl1643-std,concepticon-765,10.11,ugokasu,move,ugokasu
+clics-doculect-62-986,nucl1643-std,concepticon-1588,10.12,mukeru,turn over,mukeru
+clics-doculect-62-987,nucl1643-std,concepticon-1445,10.13,furimuku,turn around,furimuku
+clics-doculect-62-988,nucl1643-std,concepticon-1113,10.14,tsutsumu,"wind, wrap",tsutsumu
+clics-doculect-62-989,nucl1643-std,concepticon-827,10.15,korogasu,roll,korogasu
+clics-doculect-62-990,nucl1643-std,concepticon-808,10.16,otosu,drop (vb),otosu
+clics-doculect-62-991,nucl1643-std,concepticon-430,10.17,yoru,twist,yoru
+clics-doculect-62-992,nucl1643-std,concepticon-430,10.17,nejiru,twist,nejiru
+clics-doculect-62-993,nucl1643-std,concepticon-568,10.21,okiru,rise,okiru
+clics-doculect-62-994,nucl1643-std,concepticon-568,10.21,tachiagaru,rise,tachiagaru
+clics-doculect-62-995,nucl1643-std,concepticon-568,10.21,higaderu,rise,higaderu
+clics-doculect-62-996,nucl1643-std,concepticon-501,10.22,mochiageru,"raise, lift",mochiageru
+clics-doculect-62-997,nucl1643-std,concepticon-1280,10.23,ochiru,fall,ochiru
+clics-doculect-62-998,nucl1643-std,concepticon-2253,10.24,potopotoochiru,drip,potopotoochiru
+clics-doculect-62-999,nucl1643-std,concepticon-1456,10.25,nageru,throw,nageru
+clics-doculect-62-1000,nucl1643-std,concepticon-702,10.252,tsukamaeru,catch (ball),tsukamaeru
+clics-doculect-62-1001,nucl1643-std,concepticon-702,10.252,toraeru,catch (ball),toraeru
+clics-doculect-62-1002,nucl1643-std,concepticon-1909,10.26,furu,shake,furu
+clics-doculect-62-1003,nucl1643-std,concepticon-2003,10.32,nagareru,flow,nagareru
+clics-doculect-62-1004,nucl1643-std,concepticon-1088,10.33,shizumu,sink,shizumu
+clics-doculect-62-1005,nucl1643-std,concepticon-1574,10.34,uku,float,uku
+clics-doculect-62-1006,nucl1643-std,concepticon-1439,10.35,oyogu,swim,oyogu
+clics-doculect-62-1007,nucl1643-std,concepticon-119,10.351,moguru,dive,moguru
+clics-doculect-62-1008,nucl1643-std,concepticon-119,10.351,daibingu,dive,daibingu
+clics-doculect-62-1009,nucl1643-std,concepticon-365,10.352,haneru,splash,haneru
+clics-doculect-62-1010,nucl1643-std,concepticon-365,10.352,shibukiotobasu,splash,shibukiotobasu
+clics-doculect-62-1011,nucl1643-std,concepticon-787,10.36,hansō,sail (vb),hanso
+clics-doculect-62-1012,nucl1643-std,concepticon-787,10.36,kōkō,sail (vb),koko
+clics-doculect-62-1013,nucl1643-std,concepticon-1441,10.37,tobu,fly (vb),tobu
+clics-doculect-62-1014,nucl1643-std,concepticon-175,10.38,fuku,blow,fuku
+clics-doculect-62-1015,nucl1643-std,concepticon-96,10.41,hau,"creep, crawl",hau
+clics-doculect-62-1016,nucl1643-std,concepticon-66,10.412,hizamazuku,kneel,hizamazuku
+clics-doculect-62-1017,nucl1643-std,concepticon-296,10.413,shagamu,crouch,shagamu
+clics-doculect-62-1018,nucl1643-std,concepticon-1324,10.42,suberu,"slide, slip",suberu
+clics-doculect-62-1019,nucl1643-std,concepticon-1829,10.43,haneru,"jump, leap",haneru
+clics-doculect-62-1020,nucl1643-std,concepticon-1829,10.43,tobu,"jump, leap",tobu
+clics-doculect-62-1021,nucl1643-std,concepticon-1135,10.431,keru,kick,keru
+clics-doculect-62-1022,nucl1643-std,concepticon-1879,10.44,odoru,dance,odoru
+clics-doculect-62-1023,nucl1643-std,concepticon-1443,10.45,aruku,walk,aruku
+clics-doculect-62-1024,nucl1643-std,concepticon-366,10.451,ashiohikizuru,limp,ashiohikizuru
+clics-doculect-62-1025,nucl1643-std,concepticon-366,10.451,hakō,limp,hako
+clics-doculect-62-1026,nucl1643-std,concepticon-366,10.451,bikkoohiku,limp,bikkoohiku
+clics-doculect-62-1027,nucl1643-std,concepticon-1519,10.46,hashiru,run,hashiru
+clics-doculect-62-1028,nucl1643-std,concepticon-695,10.47,iku,go,iku
+clics-doculect-62-1029,nucl1643-std,concepticon-705,10.471,agaru,go up,agaru
+clics-doculect-62-1030,nucl1643-std,concepticon-705,10.471,noboru,go up,noboru
+clics-doculect-62-1031,nucl1643-std,concepticon-1102,10.472,noboru,climb,noboru
+clics-doculect-62-1032,nucl1643-std,concepticon-2014,10.473,oriru,go down,oriru
+clics-doculect-62-1033,nucl1643-std,concepticon-1107,10.474,deru,go out,deru
+clics-doculect-62-1034,nucl1643-std,concepticon-1446,10.48,kuru,come,kuru
+clics-doculect-62-1035,nucl1643-std,concepticon-581,10.481,kaeru,come back,kaeru
+clics-doculect-62-1036,nucl1643-std,concepticon-581,10.481,modoru,come back,modoru
+clics-doculect-62-1037,nucl1643-std,concepticon-1752,10.49,saru,"go away, depart",saru
+clics-doculect-62-1038,nucl1643-std,concepticon-1752,10.49,shuppatsu,"go away, depart",shuppatsu
+clics-doculect-62-1039,nucl1643-std,concepticon-485,10.491,kieru,disappear,kieru
+clics-doculect-62-1040,nucl1643-std,concepticon-956,10.51,nigeru,flee,nigeru
+clics-doculect-62-1041,nucl1643-std,concepticon-1085,10.52,tsuku,follow,tsuku
+clics-doculect-62-1042,nucl1643-std,concepticon-1085,10.52,tadoru,follow,tadoru
+clics-doculect-62-1043,nucl1643-std,concepticon-1085,10.52,shitagau,follow,shitagau
+clics-doculect-62-1044,nucl1643-std,concepticon-1085,10.52,kōzoku,follow,kozoku
+clics-doculect-62-1045,nucl1643-std,concepticon-1047,10.53,ou,pursue,ou
+clics-doculect-62-1046,nucl1643-std,concepticon-1047,10.53,tsuiseki,pursue,tsuiseki
+clics-doculect-62-1047,nucl1643-std,concepticon-1387,10.55,tsuku,"reach, arrive",tsuku
+clics-doculect-62-1048,nucl1643-std,concepticon-1387,10.55,tōchaku,"reach, arrive",tochaku
+clics-doculect-62-1049,nucl1643-std,concepticon-1778,10.56,chikayoru,approach,chikayoru
+clics-doculect-62-1050,nucl1643-std,concepticon-1778,10.56,sekkin,approach,sekkin
+clics-doculect-62-1051,nucl1643-std,concepticon-749,10.57,hairu,enter,hairu
+clics-doculect-62-1052,nucl1643-std,concepticon-700,10.61,hakobu,carry (bear),hakobu
+clics-doculect-62-1053,nucl1643-std,concepticon-412,10.612,motsu,carry-in-hand,motsu
+clics-doculect-62-1054,nucl1643-std,concepticon-413,10.613,katsugu,carry-on-shoulder,katsugu
+clics-doculect-62-1055,nucl1643-std,concepticon-414,10.614,kaburu,carry-on-head,kaburu
+clics-doculect-62-1056,nucl1643-std,concepticon-415,10.615,daku,carry-underarm,daku
+clics-doculect-62-1057,nucl1643-std,concepticon-415,10.615,kakaeru,carry-underarm,kakaeru
+clics-doculect-62-1058,nucl1643-std,concepticon-692,10.62,motsu,bring,motsu
+clics-doculect-62-1059,nucl1643-std,concepticon-1127,10.63,okuru,send,okuru
+clics-doculect-62-1060,nucl1643-std,concepticon-43,10.64,michibiku,lead (vb),michibiku
+clics-doculect-62-1061,nucl1643-std,concepticon-43,10.64,annai,lead (vb),annai
+clics-doculect-62-1062,nucl1643-std,concepticon-741,10.65,unten,drive,unten
+clics-doculect-62-1063,nucl1643-std,concepticon-367,10.66,noru,ride,noru
+clics-doculect-62-1064,nucl1643-std,concepticon-367,10.66,jōba,ride,joba
+clics-doculect-62-1065,nucl1643-std,concepticon-1452,10.67,osu,"push, shove",osu
+clics-doculect-62-1066,nucl1643-std,concepticon-1452,10.67,tsuku,"push, shove",tsuku
+clics-doculect-62-1067,nucl1643-std,concepticon-667,10.71,michi,road,michi
+clics-doculect-62-1068,nucl1643-std,concepticon-667,10.71,dōro,road,doro
+clics-doculect-62-1069,nucl1643-std,concepticon-2252,10.72,michi,path,michi
+clics-doculect-62-1070,nucl1643-std,concepticon-2252,10.72,roji,path,roji
+clics-doculect-62-1071,nucl1643-std,concepticon-1011,10.74,hashi,bridge,hashi
+clics-doculect-62-1072,nucl1643-std,concepticon-122,10.75,kuruma,"carriage, wagon, cart",kuruma
+clics-doculect-62-1073,nucl1643-std,concepticon-122,10.75,nibasha,"carriage, wagon, cart",nibasha
+clics-doculect-62-1074,nucl1643-std,concepticon-710,10.76,wa,wheel,wa
+clics-doculect-62-1075,nucl1643-std,concepticon-710,10.76,sharin,wheel,sharin
+clics-doculect-62-1076,nucl1643-std,concepticon-1769,10.77,jiku,axle,jiku
+clics-doculect-62-1077,nucl1643-std,concepticon-14,10.78,kubiki,yoke,kubiki
+clics-doculect-62-1078,nucl1643-std,concepticon-740,10.81,fune,ship,fune
+clics-doculect-62-1079,nucl1643-std,concepticon-1844,10.83,fune,boat,fune
+clics-doculect-62-1080,nucl1643-std,concepticon-1844,10.83,bōto,boat,boto
+clics-doculect-62-1081,nucl1643-std,concepticon-1970,10.831,kanū,canoe,kanu
+clics-doculect-62-1082,nucl1643-std,concepticon-416,10.832,autoriggā,outrigger,autorigga
+clics-doculect-62-1083,nucl1643-std,concepticon-1664,10.84,ikada,raft,ikada
+clics-doculect-62-1084,nucl1643-std,concepticon-108,10.85,kai,oar,kai
+clics-doculect-62-1085,nucl1643-std,concepticon-108,10.85,ro,oar,ro
+clics-doculect-62-1086,nucl1643-std,concepticon-108,10.85,ōru,oar,oru
+clics-doculect-62-1087,nucl1643-std,concepticon-234,10.851,kai,paddle (noun),kai
+clics-doculect-62-1088,nucl1643-std,concepticon-234,10.851,padoru,paddle (noun),padoru
+clics-doculect-62-1089,nucl1643-std,concepticon-1849,10.852,kogu,row (vb),kogu
+clics-doculect-62-1090,nucl1643-std,concepticon-108,10.86,kaji,rudder,kaji
+clics-doculect-62-1091,nucl1643-std,concepticon-184,10.87,hobashira,mast,hobashira
+clics-doculect-62-1092,nucl1643-std,concepticon-184,10.87,masuto,mast,masuto
+clics-doculect-62-1093,nucl1643-std,concepticon-786,10.88,ho,sail (noun),ho
+clics-doculect-62-1094,nucl1643-std,concepticon-1870,10.89,ikari,anchor,ikari
+clics-doculect-62-1095,nucl1643-std,concepticon-610,10.91,minato,"harbor, port",minato
+clics-doculect-62-1096,nucl1643-std,concepticon-1922,10.92,jōriku,land (vb),joriku
+clics-doculect-62-1097,nucl1643-std,concepticon-1922,10.92,chakuriku,land (vb),chakuriku
+clics-doculect-62-1098,nucl1643-std,concepticon-773,11.11,motsu,have,motsu
+clics-doculect-62-1099,nucl1643-std,concepticon-773,11.11,aru,have,aru
+clics-doculect-62-1100,nucl1643-std,concepticon-684,11.12,shoyū,"own, possess",shoyu
+clics-doculect-62-1101,nucl1643-std,concepticon-1749,11.13,toru,take,toru
+clics-doculect-62-1102,nucl1643-std,concepticon-2021,11.14,tsukamu,"seize, grasp",tsukamu
+clics-doculect-62-1103,nucl1643-std,concepticon-2021,11.14,nigiru,"seize, grasp",nigiru
+clics-doculect-62-1104,nucl1643-std,concepticon-1448,11.15,motsu,hold,motsu
+clics-doculect-62-1105,nucl1643-std,concepticon-1448,11.15,toru,hold,toru
+clics-doculect-62-1106,nucl1643-std,concepticon-694,11.16,morau,"get, obtain",morau
+clics-doculect-62-1107,nucl1643-std,concepticon-694,11.16,eru,"get, obtain",eru
+clics-doculect-62-1108,nucl1643-std,concepticon-1477,11.17,tamotsu,"keep, retain",tamotsu
+clics-doculect-62-1109,nucl1643-std,concepticon-1477,11.17,azukaru,"keep, retain",azukaru
+clics-doculect-62-1110,nucl1643-std,concepticon-1477,11.17,hoyū,"keep, retain",hoyu
+clics-doculect-62-1111,nucl1643-std,concepticon-738,11.18,mono,thing,mono
+clics-doculect-62-1112,nucl1643-std,concepticon-1447,11.21,ataeru,give,ataeru
+clics-doculect-62-1113,nucl1643-std,concepticon-1447,11.21,ageru,give,ageru
+clics-doculect-62-1114,nucl1643-std,concepticon-1447,11.21,kureru,give,kureru
+clics-doculect-62-1115,nucl1643-std,concepticon-1447,11.21,yaru,give,yaru
+clics-doculect-62-1116,nucl1643-std,concepticon-85,11.22,kaesu,give back,kaesu
+clics-doculect-62-1117,nucl1643-std,concepticon-1997,11.24,tamotsu,"preserve, look after",tamotsu
+clics-doculect-62-1118,nucl1643-std,concepticon-1997,11.24,hozon,"preserve, look after",hozon
+clics-doculect-62-1119,nucl1643-std,concepticon-2008,11.25,sukuu,"save, rescue",sukuu
+clics-doculect-62-1120,nucl1643-std,concepticon-2008,11.25,kyūjo,"save, rescue",kyujo
+clics-doculect-62-1121,nucl1643-std,concepticon-681,11.27,kowasu,destroy,kowasu
+clics-doculect-62-1122,nucl1643-std,concepticon-681,11.27,hakai,destroy,hakai
+clics-doculect-62-1123,nucl1643-std,concepticon-44,11.28,kizutsukeru,"harm, injure, damage",kizutsukeru
+clics-doculect-62-1124,nucl1643-std,concepticon-44,11.28,sokonau,"harm, injure, damage",sokonau
+clics-doculect-62-1125,nucl1643-std,concepticon-44,11.28,gai,"harm, injure, damage",gai
+clics-doculect-62-1126,nucl1643-std,concepticon-1468,11.31,sagasu,"seek, look for",sagasu
+clics-doculect-62-1127,nucl1643-std,concepticon-719,11.32,mitsukeru,find,mitsukeru
+clics-doculect-62-1128,nucl1643-std,concepticon-719,11.32,hakken,find,hakken
+clics-doculect-62-1129,nucl1643-std,concepticon-1660,11.33,nakusu,lose,nakusu
+clics-doculect-62-1130,nucl1643-std,concepticon-1660,11.33,ushinau,lose,ushinau
+clics-doculect-62-1131,nucl1643-std,concepticon-1095,11.34,hanasu,"release, let go",hanasu
+clics-doculect-62-1132,nucl1643-std,concepticon-1559,11.43,kane,money,kane
+clics-doculect-62-1133,nucl1643-std,concepticon-1867,11.44,kōka,coin,koka
+clics-doculect-62-1134,nucl1643-std,concepticon-1867,11.44,koin,coin,koin
+clics-doculect-62-1135,nucl1643-std,concepticon-712,11.51,kanemochi,rich,kanemochi
+clics-doculect-62-1136,nucl1643-std,concepticon-712,11.51,yūfuku,rich,yufuku
+clics-doculect-62-1137,nucl1643-std,concepticon-1674,11.52,binbō,poor,binbo
+clics-doculect-62-1138,nucl1643-std,concepticon-1674,11.52,mazushii,poor,mazushii
+clics-doculect-62-1139,nucl1643-std,concepticon-1934,11.53,kojiki,beggar,kojiki
+clics-doculect-62-1140,nucl1643-std,concepticon-1774,11.54,kechi,"avaricious, stingy",kechi
+clics-doculect-62-1141,nucl1643-std,concepticon-582,11.61,kasu,lend,kasu
+clics-doculect-62-1142,nucl1643-std,concepticon-1823,11.62,kariru,borrow,kariru
+clics-doculect-62-1143,nucl1643-std,concepticon-369,11.63,kariru,owe,kariru
+clics-doculect-62-1144,nucl1643-std,concepticon-1914,11.64,shakkin,debt,shakkin
+clics-doculect-62-1145,nucl1643-std,concepticon-1914,11.64,kari,debt,kari
+clics-doculect-62-1146,nucl1643-std,concepticon-1914,11.64,fusai,debt,fusai
+clics-doculect-62-1147,nucl1643-std,concepticon-718,11.65,harau,pay (vb),harau
+clics-doculect-62-1148,nucl1643-std,concepticon-718,11.65,dasu,pay (vb),dasu
+clics-doculect-62-1149,nucl1643-std,concepticon-1081,11.66,kanjō,"account, reckoning",kanjo
+clics-doculect-62-1150,nucl1643-std,concepticon-1081,11.66,seikyūsho,"account, reckoning",seikyusho
+clics-doculect-62-1151,nucl1643-std,concepticon-873,11.69,zeikin,"tax, tribute",zeikin
+clics-doculect-62-1152,nucl1643-std,concepticon-856,11.77,yatou,hire,yatou
+clics-doculect-62-1153,nucl1643-std,concepticon-1122,11.78,kyūryō,wages,kyuryo
+clics-doculect-62-1154,nucl1643-std,concepticon-1122,11.78,chingin,wages,chingin
+clics-doculect-62-1155,nucl1643-std,concepticon-733,11.79,kasegu,earn,kasegu
+clics-doculect-62-1156,nucl1643-std,concepticon-733,11.79,mōkeru,earn,mokeru
+clics-doculect-62-1157,nucl1643-std,concepticon-1869,11.81,kau,buy,kau
+clics-doculect-62-1158,nucl1643-std,concepticon-1571,11.82,uru,sell,uru
+clics-doculect-62-1159,nucl1643-std,concepticon-2135,11.83,kōkan,"trade, barter",kokan
+clics-doculect-62-1160,nucl1643-std,concepticon-1082,11.84,shōnin,merchant,shonin
+clics-doculect-62-1161,nucl1643-std,concepticon-633,11.85,ichi,market (place),ichi
+clics-doculect-62-1162,nucl1643-std,concepticon-752,11.86,mise,"store, shop",mise
+clics-doculect-62-1163,nucl1643-std,concepticon-657,11.87,nedan,price,nedan
+clics-doculect-62-1164,nucl1643-std,concepticon-657,11.87,kakaku,price,kakaku
+clics-doculect-62-1165,nucl1643-std,concepticon-1426,11.88,takai,"dear (costly, expensive)",takai
+clics-doculect-62-1166,nucl1643-std,concepticon-1887,11.89,yasui,cheap,yasui
+clics-doculect-62-1167,nucl1643-std,concepticon-884,11.91,wakeru,share (distribute),wakeru
+clics-doculect-62-1168,nucl1643-std,concepticon-1098,11.92,omosa,weigh,omosa
+clics-doculect-62-1169,nucl1643-std,concepticon-723,12.11,tokoro,place,tokoro
+clics-doculect-62-1170,nucl1643-std,concepticon-723,12.11,basho,place,basho
+clics-doculect-62-1171,nucl1643-std,concepticon-998,12.12,oku,put,oku
+clics-doculect-62-1172,nucl1643-std,concepticon-1416,12.13,suwaru,sit,suwaru
+clics-doculect-62-1173,nucl1643-std,concepticon-215,12.14,yokotawaru,lie down,yokotawaru
+clics-doculect-62-1174,nucl1643-std,concepticon-215,12.14,neru,lie down,neru
+clics-doculect-62-1175,nucl1643-std,concepticon-1442,12.15,tatsu,stand,tatsu
+clics-doculect-62-1176,nucl1643-std,concepticon-987,12.16,todomaru,"remain, stay",todomaru
+clics-doculect-62-1177,nucl1643-std,concepticon-987,12.16,nokoru,"remain, stay",nokoru
+clics-doculect-62-1178,nucl1643-std,concepticon-838,12.17,nokori,"remains, left overs",nokori
+clics-doculect-62-1179,nucl1643-std,concepticon-7,12.21,atsumeru,"collect, gather",atsumeru
+clics-doculect-62-1180,nucl1643-std,concepticon-371,12.212,hirou,pick up,hirou
+clics-doculect-62-1181,nucl1643-std,concepticon-1576,12.213,tsumikasaneru,pile up,tsumikasaneru
+clics-doculect-62-1182,nucl1643-std,concepticon-1743,12.22,tsunagu,"join, unite",tsunagu
+clics-doculect-62-1183,nucl1643-std,concepticon-1743,12.22,musubu,"join, unite",musubu
+clics-doculect-62-1184,nucl1643-std,concepticon-1359,12.23,wakeru,separate,wakeru
+clics-doculect-62-1185,nucl1643-std,concepticon-1119,12.232,wakeru,divide,wakeru
+clics-doculect-62-1186,nucl1643-std,concepticon-1156,12.24,akeru,open,akeru
+clics-doculect-62-1187,nucl1643-std,concepticon-1156,12.24,hirakeru,open,hirakeru
+clics-doculect-62-1188,nucl1643-std,concepticon-1046,12.25,shimeru,"shut, close",shimeru
+clics-doculect-62-1189,nucl1643-std,concepticon-1046,12.25,tojiru,"shut, close",tojiru
+clics-doculect-62-1190,nucl1643-std,concepticon-761,12.26,oou,cover,oou
+clics-doculect-62-1191,nucl1643-std,concepticon-602,12.27,kakusu,"hide, conceal",kakusu
+clics-doculect-62-1192,nucl1643-std,concepticon-1265,12.31,takai,high,takai
+clics-doculect-62-1193,nucl1643-std,concepticon-721,12.32,hikui,low,hikui
+clics-doculect-62-1194,nucl1643-std,concepticon-1753,12.33,chōten,top,choten
+clics-doculect-62-1195,nucl1643-std,concepticon-1753,12.33,teppen,top,teppen
+clics-doculect-62-1196,nucl1643-std,concepticon-690,12.34,soko,bottom,soko
+clics-doculect-62-1197,nucl1643-std,concepticon-742,12.35,hashi,end,hashi
+clics-doculect-62-1198,nucl1643-std,concepticon-742,12.35,hate,end,hate
+clics-doculect-62-1199,nucl1643-std,concepticon-372,12.352,togaru,pointed,togaru
+clics-doculect-62-1200,nucl1643-std,concepticon-863,12.353,hashi,edge,hashi
+clics-doculect-62-1201,nucl1643-std,concepticon-863,12.353,fuchi,edge,fuchi
+clics-doculect-62-1202,nucl1643-std,concepticon-682,12.36,sokumen,side,sokumen
+clics-doculect-62-1203,nucl1643-std,concepticon-682,12.36,yoko,side,yoko
+clics-doculect-62-1204,nucl1643-std,concepticon-1093,12.37,man’naka,"middle, center",man'naka
+clics-doculect-62-1205,nucl1643-std,concepticon-1093,12.37,chūō,"middle, center",chuo
+clics-doculect-62-1206,nucl1643-std,concepticon-1019,12.41,migi,right (side),migi
+clics-doculect-62-1207,nucl1643-std,concepticon-244,12.42,hidari,left (side),hidari
+clics-doculect-62-1208,nucl1643-std,concepticon-1942,12.43,chikai,near (adv),chikai
+clics-doculect-62-1209,nucl1643-std,concepticon-1406,12.44,tōi,far (adv),toi
+clics-doculect-62-1210,nucl1643-std,concepticon-1877,12.45,higashi,east,higashi
+clics-doculect-62-1211,nucl1643-std,concepticon-1817,12.46,nishi,west,nishi
+clics-doculect-62-1212,nucl1643-std,concepticon-1598,12.47,kita,north,kita
+clics-doculect-62-1213,nucl1643-std,concepticon-1595,12.48,minami,south,minami
+clics-doculect-62-1214,nucl1643-std,concepticon-479,12.53,sodatsu,grow,sodatsu
+clics-doculect-62-1215,nucl1643-std,concepticon-479,12.53,nobiru,grow,nobiru
+clics-doculect-62-1216,nucl1643-std,concepticon-1506,12.54,hakaru,measure,hakaru
+clics-doculect-62-1217,nucl1643-std,concepticon-81,12.541,fazomu,"span, fathom",fazomu
+clics-doculect-62-1218,nucl1643-std,concepticon-81,12.541,hiro,"span, fathom",hiro
+clics-doculect-62-1219,nucl1643-std,concepticon-1202,12.55,ōkii,"large, big",okii
+clics-doculect-62-1220,nucl1643-std,concepticon-1246,12.56,chiisai,"small, little",chiisai
+clics-doculect-62-1221,nucl1643-std,concepticon-1203,12.57,nagai,long,nagai
+clics-doculect-62-1222,nucl1643-std,concepticon-711,12.58,takai,tall,takai
+clics-doculect-62-1223,nucl1643-std,concepticon-1645,12.59,mijikai,short,mijikai
+clics-doculect-62-1224,nucl1643-std,concepticon-1243,12.61,hiroi,"wide, broad",hiroi
+clics-doculect-62-1225,nucl1643-std,concepticon-1267,12.62,semai,narrow,semai
+clics-doculect-62-1226,nucl1643-std,concepticon-1267,12.62,hosoi,narrow,hosoi
+clics-doculect-62-1227,nucl1643-std,concepticon-1244,12.63,atsui,thick (in dimension),atsui
+clics-doculect-62-1228,nucl1643-std,concepticon-2249,12.65,hosoi,thin (in dimension),hosoi
+clics-doculect-62-1229,nucl1643-std,concepticon-2249,12.65,usui,thin (in dimension),usui
+clics-doculect-62-1230,nucl1643-std,concepticon-1593,12.67,fukai,deep,fukai
+clics-doculect-62-1231,nucl1643-std,concepticon-193,12.68,asai,shallow,asai
+clics-doculect-62-1232,nucl1643-std,concepticon-1633,12.71,taira,flat,taira
+clics-doculect-62-1233,nucl1643-std,concepticon-1404,12.73,massugu,straight,massugu
+clics-doculect-62-1234,nucl1643-std,concepticon-297,12.74,magaru,crooked,magaru
+clics-doculect-62-1235,nucl1643-std,concepticon-1071,12.75,kagi,hook,kagi
+clics-doculect-62-1236,nucl1643-std,concepticon-1071,12.75,fukku,hook,fukku
+clics-doculect-62-1237,nucl1643-std,concepticon-192,12.76,kado,corner,kado
+clics-doculect-62-1238,nucl1643-std,concepticon-192,12.76,sumi,corner,sumi
+clics-doculect-62-1239,nucl1643-std,concepticon-1367,12.77,jūji,cross,juji
+clics-doculect-62-1240,nucl1643-std,concepticon-850,12.78,seihōkei,square,seihokei
+clics-doculect-62-1241,nucl1643-std,concepticon-850,12.78,mashikaku,square,mashikaku
+clics-doculect-62-1242,nucl1643-std,concepticon-1395,12.81,marui,round,marui
+clics-doculect-62-1243,nucl1643-std,concepticon-1467,12.82,maru,circle,maru
+clics-doculect-62-1244,nucl1643-std,concepticon-1467,12.82,en,circle,en
+clics-doculect-62-1245,nucl1643-std,concepticon-1845,12.83,tama,"sphere, ball",tama
+clics-doculect-62-1246,nucl1643-std,concepticon-1845,12.83,kyū,"sphere, ball",kyu
+clics-doculect-62-1247,nucl1643-std,concepticon-1845,12.83,bōru,"sphere, ball",boru
+clics-doculect-62-1248,nucl1643-std,concepticon-1048,12.84,suji,line,suji
+clics-doculect-62-1249,nucl1643-std,concepticon-1048,12.84,sen,line,sen
+clics-doculect-62-1250,nucl1643-std,concepticon-1667,12.85,ana,hole,ana
+clics-doculect-62-1251,nucl1643-std,concepticon-1558,12.92,niru,"like, similar",niru
+clics-doculect-62-1252,nucl1643-std,concepticon-1264,12.93,kaeru,change,kaeru
+clics-doculect-62-1253,nucl1643-std,concepticon-1264,12.93,henka,change,henka
+clics-doculect-62-1254,nucl1643-std,concepticon-1493,13.1,tō,one,to
+clics-doculect-62-1255,nucl1643-std,concepticon-1493,13.1,jū,one,ju
+clics-doculect-62-1256,nucl1643-std,concepticon-1706,13.101,jūichi,eleven,juichi
+clics-doculect-62-1257,nucl1643-std,concepticon-1707,13.102,jūni,twelve,juni
+clics-doculect-62-1258,nucl1643-std,concepticon-1709,13.103,jūgo,fifteen,jugo
+clics-doculect-62-1259,nucl1643-std,concepticon-1710,13.104,nijū,twenty,niju
+clics-doculect-62-1260,nucl1643-std,concepticon-1634,13.105,hyaku,hundred,hyaku
+clics-doculect-62-1261,nucl1643-std,concepticon-1843,13.106,sen,thousand,sen
+clics-doculect-62-1262,nucl1643-std,concepticon-1420,13.107,kazoeru,count,kazoeru
+clics-doculect-62-1263,nucl1643-std,concepticon-98,13.14,zenbu,"every, all",zenbu
+clics-doculect-62-1264,nucl1643-std,concepticon-98,13.14,subete,"every, all",subete
+clics-doculect-62-1265,nucl1643-std,concepticon-98,13.14,minna,"every, all",minna
+clics-doculect-62-1266,nucl1643-std,concepticon-1198,13.15,ōi,"much, many",oi
+clics-doculect-62-1267,nucl1643-std,concepticon-1198,13.15,takusan,"much, many",takusan
+clics-doculect-62-1268,nucl1643-std,concepticon-1992,13.16,motto,more,motto
+clics-doculect-62-1269,nucl1643-std,concepticon-1242,13.17,sukoshi,"little (quantity), few",sukoshi
+clics-doculect-62-1270,nucl1643-std,concepticon-1881,13.18,jūbun,enough,jubun
+clics-doculect-62-1271,nucl1643-std,concepticon-1881,13.18,tariru,enough,tariru
+clics-doculect-62-1272,nucl1643-std,concepticon-1241,13.181,ikutsuka,some,ikutsuka
+clics-doculect-62-1273,nucl1643-std,concepticon-2023,13.19,mure,"multitude, crowd",mure
+clics-doculect-62-1274,nucl1643-std,concepticon-2023,13.19,gunshū,"multitude, crowd",gunshu
+clics-doculect-62-1275,nucl1643-std,concepticon-2023,13.19,hitogomi,"multitude, crowd",hitogomi
+clics-doculect-62-1276,nucl1643-std,concepticon-1429,13.21,ippai,full,ippai
+clics-doculect-62-1277,nucl1643-std,concepticon-1429,13.21,michiru,full,michiru
+clics-doculect-62-1278,nucl1643-std,concepticon-1624,13.22,kara,empty,kara
+clics-doculect-62-1279,nucl1643-std,concepticon-1624,13.22,aku,empty,aku
+clics-doculect-62-1280,nucl1643-std,concepticon-779,13.23,bubun,"part, piece",bubun
+clics-doculect-62-1281,nucl1643-std,concepticon-779,13.23,ichibu,"part, piece",ichibu
+clics-doculect-62-1282,nucl1643-std,concepticon-816,13.24,hanbun,half,hanbun
+clics-doculect-62-1283,nucl1643-std,concepticon-816,13.24,nakaba,half,nakaba
+clics-doculect-62-1284,nucl1643-std,concepticon-1580,13.33,tadahitotsu,"alone, only",tadahitotsu
+clics-doculect-62-1285,nucl1643-std,concepticon-1580,13.33,yuiitsu,"alone, only",yuiitsu
+clics-doculect-62-1286,nucl1643-std,concepticon-728,13.34,daiichi,first,daiichi
+clics-doculect-62-1287,nucl1643-std,concepticon-728,13.34,ichibanme,first,ichibanme
+clics-doculect-62-1288,nucl1643-std,concepticon-728,13.34,hajimete,first,hajimete
+clics-doculect-62-1289,nucl1643-std,concepticon-1529,13.35,saigo,last,saigo
+clics-doculect-62-1290,nucl1643-std,concepticon-1384,13.36,nibanme,second,nibanme
+clics-doculect-62-1291,nucl1643-std,concepticon-1384,13.36,daini,second,daini
+clics-doculect-62-1292,nucl1643-std,concepticon-1384,13.36,tsugu,second,tsugu
+clics-doculect-62-1293,nucl1643-std,concepticon-1888,13.37,ittsui,pair,ittsui
+clics-doculect-62-1294,nucl1643-std,concepticon-1888,13.37,hitokumi,pair,hitokumi
+clics-doculect-62-1295,nucl1643-std,concepticon-1546,13.38,nikai,two times,nikai
+clics-doculect-62-1296,nucl1643-std,concepticon-1546,13.38,nido,two times,nido
+clics-doculect-62-1297,nucl1643-std,concepticon-1859,13.42,daisan,third,daisan
+clics-doculect-62-1298,nucl1643-std,concepticon-1859,13.42,sanbanme,third,sanbanme
+clics-doculect-62-1299,nucl1643-std,concepticon-417,13.44,sankai,three times,sankai
+clics-doculect-62-1300,nucl1643-std,concepticon-417,13.44,sando,three times,sando
+clics-doculect-62-1301,nucl1643-std,concepticon-892,14.11,toki,time,toki
+clics-doculect-62-1302,nucl1643-std,concepticon-892,14.11,jikan,time,jikan
+clics-doculect-62-1303,nucl1643-std,concepticon-1789,14.12,toshi,age,toshi
+clics-doculect-62-1304,nucl1643-std,concepticon-1789,14.12,nenrei,age,nenrei
+clics-doculect-62-1305,nucl1643-std,concepticon-1231,14.13,atarashii,new,atarashii
+clics-doculect-62-1306,nucl1643-std,concepticon-1207,14.14,wakai,young,wakai
+clics-doculect-62-1307,nucl1643-std,concepticon-1229,14.15,furui,old,furui
+clics-doculect-62-1308,nucl1643-std,concepticon-1229,14.15,toshitoru,old,toshitoru
+clics-doculect-62-1309,nucl1643-std,concepticon-672,14.16,hayai,early,hayai
+clics-doculect-62-1310,nucl1643-std,concepticon-477,14.17,osoi,late,osoi
+clics-doculect-62-1311,nucl1643-std,concepticon-1376,14.18,ima,now,ima
+clics-doculect-62-1312,nucl1643-std,concepticon-1963,14.19,sugu,immediately,sugu
+clics-doculect-62-1313,nucl1643-std,concepticon-1631,14.21,hayai,"swift, fast, quick",hayai
+clics-doculect-62-1314,nucl1643-std,concepticon-701,14.22,yukkuri,slow,yukkuri
+clics-doculect-62-1315,nucl1643-std,concepticon-701,14.22,noroi,slow,noroi
+clics-doculect-62-1316,nucl1643-std,concepticon-701,14.22,osoi,slow,osoi
+clics-doculect-62-1317,nucl1643-std,concepticon-754,14.23,isogu,"hasten, hurry",isogu
+clics-doculect-62-1318,nucl1643-std,concepticon-425,14.24,chikoku,"retard, delay",chikoku
+clics-doculect-62-1319,nucl1643-std,concepticon-425,14.24,okureru,"retard, delay",okureru
+clics-doculect-62-1320,nucl1643-std,concepticon-1806,14.25,hajimeru,"begin, beginning",hajimeru
+clics-doculect-62-1321,nucl1643-std,concepticon-1186,14.252,kakaru,"last, endure",kakaru
+clics-doculect-62-1322,nucl1643-std,concepticon-1186,14.252,tsuzuku,"last, endure",tsuzuku
+clics-doculect-62-1323,nucl1643-std,concepticon-743,14.26,owari,end (temporal),owari
+clics-doculect-62-1324,nucl1643-std,concepticon-1766,14.27,oeru,finish,oeru
+clics-doculect-62-1325,nucl1643-std,concepticon-1766,14.27,shūryō,finish,shuryo
+clics-doculect-62-1326,nucl1643-std,concepticon-1928,14.28,yameru,"cease, stop",yameru
+clics-doculect-62-1327,nucl1643-std,concepticon-1928,14.28,chūshi,"cease, stop",chushi
+clics-doculect-62-1328,nucl1643-std,concepticon-790,14.29,junbi,ready,junbi
+clics-doculect-62-1329,nucl1643-std,concepticon-790,14.29,yōi,ready,yoi
+clics-doculect-62-1330,nucl1643-std,concepticon-790,14.29,shitaku,ready,shitaku
+clics-doculect-62-1331,nucl1643-std,concepticon-790,14.29,sonaeru,ready,sonaeru
+clics-doculect-62-1332,nucl1643-std,concepticon-1676,14.31,itsumo,always,itsumo
+clics-doculect-62-1333,nucl1643-std,concepticon-1676,14.31,tsune,always,tsune
+clics-doculect-62-1334,nucl1643-std,concepticon-1852,14.32,yoku,often,yoku
+clics-doculect-62-1335,nucl1643-std,concepticon-1852,14.32,shibashiba,often,shibashiba
+clics-doculect-62-1336,nucl1643-std,concepticon-1852,14.32,tabitabi,often,tabitabi
+clics-doculect-62-1337,nucl1643-std,concepticon-1852,14.32,hinpan,often,hinpan
+clics-doculect-62-1338,nucl1643-std,concepticon-1544,14.33,tokidoki,sometimes,tokidoki
+clics-doculect-62-1339,nucl1643-std,concepticon-1544,14.33,tokiori,sometimes,tokiori
+clics-doculect-62-1340,nucl1643-std,concepticon-703,14.331,mōsugu,soon,mosugu
+clics-doculect-62-1341,nucl1643-std,concepticon-703,14.331,mamonaku,soon,mamonaku
+clics-doculect-62-1342,nucl1643-std,concepticon-418,14.332,nagai,long-time (for a),nagai
+clics-doculect-62-1343,nucl1643-std,concepticon-1656,14.34,itsudemo,never,itsudemo
+clics-doculect-62-1344,nucl1643-std,concepticon-1656,14.34,kesshite,never,kesshite
+clics-doculect-62-1345,nucl1643-std,concepticon-204,14.35,mata,again,mata
+clics-doculect-62-1346,nucl1643-std,concepticon-204,14.35,futatabi,again,futatabi
+clics-doculect-62-1347,nucl1643-std,concepticon-1225,14.41,hi,day,hi
+clics-doculect-62-1348,nucl1643-std,concepticon-1225,14.41,nitchū,day,nitchu
+clics-doculect-62-1349,nucl1643-std,concepticon-1233,14.42,yoru,night,yoru
+clics-doculect-62-1350,nucl1643-std,concepticon-729,14.43,yoake,dawn,yoake
+clics-doculect-62-1351,nucl1643-std,concepticon-729,14.43,akebono,dawn,akebono
+clics-doculect-62-1352,nucl1643-std,concepticon-1339,14.44,asa,morning,asa
+clics-doculect-62-1353,nucl1643-std,concepticon-1339,14.44,gozenchū,morning,gozenchu
+clics-doculect-62-1354,nucl1643-std,concepticon-12,14.45,hiru,"noon, midday",hiru
+clics-doculect-62-1355,nucl1643-std,concepticon-12,14.45,shōgo,"noon, midday",shogo
+clics-doculect-62-1356,nucl1643-std,concepticon-1807,14.451,gogo,afternoon,gogo
+clics-doculect-62-1357,nucl1643-std,concepticon-1629,14.46,yūgata,evening,yugata
+clics-doculect-62-1358,nucl1643-std,concepticon-1629,14.46,ban,evening,ban
+clics-doculect-62-1359,nucl1643-std,concepticon-1283,14.47,kyō,today,kyo
+clics-doculect-62-1360,nucl1643-std,concepticon-1329,14.48,ashita,tomorrow,ashita
+clics-doculect-62-1361,nucl1643-std,concepticon-1329,14.48,asu,tomorrow,asu
+clics-doculect-62-1362,nucl1643-std,concepticon-1179,14.481,asatte,day-after-tomorrow,asatte
+clics-doculect-62-1363,nucl1643-std,concepticon-1174,14.49,kinō,yesterday,kino
+clics-doculect-62-1364,nucl1643-std,concepticon-1174,14.49,sakujitsu,yesterday,sakujitsu
+clics-doculect-62-1365,nucl1643-std,concepticon-1180,14.491,ototoi,day-before-yesterday,ototoi
+clics-doculect-62-1366,nucl1643-std,concepticon-1180,14.491,issakujitsu,day-before-yesterday,issakujitsu
+clics-doculect-62-1367,nucl1643-std,concepticon-1353,14.51,jikan,hour,jikan
+clics-doculect-62-1368,nucl1643-std,concepticon-1323,14.53,tokei,"clock, timepiece",tokei
+clics-doculect-62-1369,nucl1643-std,concepticon-1469,14.61,shū,week,shu
+clics-doculect-62-1370,nucl1643-std,concepticon-1469,14.61,shūkan,week,shukan
+clics-doculect-62-1371,nucl1643-std,concepticon-1699,14.62,nichiyō,Sunday,nichiyo
+clics-doculect-62-1372,nucl1643-std,concepticon-1697,14.63,getsuyō,Monday,getsuyo
+clics-doculect-62-1373,nucl1643-std,concepticon-1695,14.64,kayō,Tuesday,kayo
+clics-doculect-62-1374,nucl1643-std,concepticon-1694,14.65,suiyō,Wednesday,suiyo
+clics-doculect-62-1375,nucl1643-std,concepticon-1693,14.66,mokuyō,Thursday,mokuyo
+clics-doculect-62-1376,nucl1643-std,concepticon-1692,14.67,kin’yō,Friday,kin'yo
+clics-doculect-62-1377,nucl1643-std,concepticon-1700,14.68,doyō,Saturday,doyo
+clics-doculect-62-1378,nucl1643-std,concepticon-1370,14.71,tsuki,month,tsuki
+clics-doculect-62-1379,nucl1643-std,concepticon-1370,14.71,gatsu,month,gatsu
+clics-doculect-62-1380,nucl1643-std,concepticon-1226,14.73,toshi,year,toshi
+clics-doculect-62-1381,nucl1643-std,concepticon-1226,14.73,nen,year,nen
+clics-doculect-62-1382,nucl1643-std,concepticon-1226,14.73,nenkan,year,nenkan
+clics-doculect-62-1383,nucl1643-std,concepticon-1471,14.74,fuyu,winter,fuyu
+clics-doculect-62-1384,nucl1643-std,concepticon-1537,14.75,haru,spring,haru
+clics-doculect-62-1385,nucl1643-std,concepticon-1342,14.76,natsu,summer,natsu
+clics-doculect-62-1386,nucl1643-std,concepticon-1276,14.77,aki,autumn,aki
+clics-doculect-62-1387,nucl1643-std,concepticon-691,14.78,kisetsu,season,kisetsu
+clics-doculect-62-1388,nucl1643-std,concepticon-1587,15.21,niou,smell (vb intrans),niou
+clics-doculect-62-1389,nucl1643-std,concepticon-375,15.212,kagu,sniff,kagu
+clics-doculect-62-1390,nucl1643-std,concepticon-1586,15.22,nioigasuru,smell (vb trans),nioigasuru
+clics-doculect-62-1391,nucl1643-std,concepticon-376,15.25,nioigaii,"fragrant, good smelling",nioigaii
+clics-doculect-62-1392,nucl1643-std,concepticon-376,15.25,kanbashii,"fragrant, good smelling",kanbashii
+clics-doculect-62-1393,nucl1643-std,concepticon-42,15.26,kusai,"stinking, bad smelling",kusai
+clics-doculect-62-1394,nucl1643-std,concepticon-21,15.31,aji,taste,aji
+clics-doculect-62-1395,nucl1643-std,concepticon-717,15.35,amai,sweet,amai
+clics-doculect-62-1396,nucl1643-std,concepticon-1091,15.36,shoppai,salty,shoppai
+clics-doculect-62-1397,nucl1643-std,concepticon-887,15.37,nigai,bitter,nigai
+clics-doculect-62-1398,nucl1643-std,concepticon-1906,15.38,suppai,"acid, sour",suppai
+clics-doculect-62-1399,nucl1643-std,concepticon-70,15.39,shioke,brackish,shioke
+clics-doculect-62-1400,nucl1643-std,concepticon-1408,15.41,kikoeru,hear,kikoeru
+clics-doculect-62-1401,nucl1643-std,concepticon-1408,15.41,kiku,hear,kiku
+clics-doculect-62-1402,nucl1643-std,concepticon-1608,15.42,kiku,listen,kiku
+clics-doculect-62-1403,nucl1643-std,concepticon-1811,15.44,oto,"sound, noise",oto
+clics-doculect-62-1404,nucl1643-std,concepticon-377,15.45,urusai,loud,urusai
+clics-doculect-62-1405,nucl1643-std,concepticon-377,15.45,yakamashii,loud,yakamashii
+clics-doculect-62-1406,nucl1643-std,concepticon-1314,15.46,shizuka,"quiet, silence",shizuka
+clics-doculect-62-1407,nucl1643-std,concepticon-1409,15.51,mieru,see,mieru
+clics-doculect-62-1408,nucl1643-std,concepticon-1409,15.51,miru,see,miru
+clics-doculect-62-1409,nucl1643-std,concepticon-1819,15.52,miru,"look, look at",miru
+clics-doculect-62-1410,nucl1643-std,concepticon-1039,15.55,miseru,show,miseru
+clics-doculect-62-1411,nucl1643-std,concepticon-1039,15.55,shimesu,show,shimesu
+clics-doculect-62-1412,nucl1643-std,concepticon-708,15.56,kagayaku,shine,kagayaku
+clics-doculect-62-1413,nucl1643-std,concepticon-708,15.56,hikaru,shine,hikaru
+clics-doculect-62-1414,nucl1643-std,concepticon-679,15.57,akarui,bright,akarui
+clics-doculect-62-1415,nucl1643-std,concepticon-1613,15.61,iro,color,iro
+clics-doculect-62-1416,nucl1643-std,concepticon-250,15.62,akarui,light (in color),akarui
+clics-doculect-62-1417,nucl1643-std,concepticon-706,15.63,kurai,dark (in color),kurai
+clics-doculect-62-1418,nucl1643-std,concepticon-1335,15.64,shiroi,white,shiroi
+clics-doculect-62-1419,nucl1643-std,concepticon-163,15.65,kuroi,black,kuroi
+clics-doculect-62-1420,nucl1643-std,concepticon-156,15.66,akai,red,akai
+clics-doculect-62-1421,nucl1643-std,concepticon-837,15.67,aoi,blue,aoi
+clics-doculect-62-1422,nucl1643-std,concepticon-1425,15.68,midori,green,midori
+clics-doculect-62-1423,nucl1643-std,concepticon-1424,15.69,kiiro,yellow,kiiro
+clics-doculect-62-1424,nucl1643-std,concepticon-1892,15.71,sawaru,touch,sawaru
+clics-doculect-62-1425,nucl1643-std,concepticon-1892,15.71,fureru,touch,fureru
+clics-doculect-62-1426,nucl1643-std,concepticon-378,15.712,tsuneru,pinch,tsuneru
+clics-doculect-62-1427,nucl1643-std,concepticon-1079,15.72,sawaru,feel,sawaru
+clics-doculect-62-1428,nucl1643-std,concepticon-1079,15.72,kanjiru,feel,kanjiru
+clics-doculect-62-1429,nucl1643-std,concepticon-1884,15.74,katai,hard,katai
+clics-doculect-62-1430,nucl1643-std,concepticon-1856,15.75,yawarakai,soft,yawarakai
+clics-doculect-62-1431,nucl1643-std,concepticon-1923,15.76,arai,rough,arai
+clics-doculect-62-1432,nucl1643-std,concepticon-1923,15.76,somatsu,rough,somatsu
+clics-doculect-62-1433,nucl1643-std,concepticon-1923,15.76,zarazara,rough,zarazara
+clics-doculect-62-1434,nucl1643-std,concepticon-1234,15.77,nameraka,smooth,nameraka
+clics-doculect-62-1435,nucl1643-std,concepticon-1234,15.77,subesube,smooth,subesube
+clics-doculect-62-1436,nucl1643-std,concepticon-1234,15.77,tsurutsuru,smooth,tsurutsuru
+clics-doculect-62-1437,nucl1643-std,concepticon-1396,15.78,surodoi,sharp,surodoi
+clics-doculect-62-1438,nucl1643-std,concepticon-1396,15.78,eiri,sharp,eiri
+clics-doculect-62-1439,nucl1643-std,concepticon-379,15.79,nibui,"blunt, dull",nibui
+clics-doculect-62-1440,nucl1643-std,concepticon-379,15.79,namakura,"blunt, dull",namakura
+clics-doculect-62-1441,nucl1643-std,concepticon-1210,15.81,omoi,heavy,omoi
+clics-doculect-62-1442,nucl1643-std,concepticon-1052,15.82,karui,light (in weight),karui
+clics-doculect-62-1443,nucl1643-std,concepticon-1726,15.83,nureru,"wet, damp",nureru
+clics-doculect-62-1444,nucl1643-std,concepticon-1726,15.83,shikeru,"wet, damp",shikeru
+clics-doculect-62-1445,nucl1643-std,concepticon-1398,15.84,kawaku,dry,kawaku
+clics-doculect-62-1446,nucl1643-std,concepticon-1286,15.85,atsui,hot,atsui
+clics-doculect-62-1447,nucl1643-std,concepticon-1232,15.851,atatakai,warm,atatakai
+clics-doculect-62-1448,nucl1643-std,concepticon-1287,15.86,samui,cold,samui
+clics-doculect-62-1449,nucl1643-std,concepticon-1287,15.86,tsumetai,cold,tsumetai
+clics-doculect-62-1450,nucl1643-std,concepticon-704,15.87,kirei,clean,kirei
+clics-doculect-62-1451,nucl1643-std,concepticon-704,15.87,kiyoi,clean,kiyoi
+clics-doculect-62-1452,nucl1643-std,concepticon-704,15.87,seiketsu,clean,seiketsu
+clics-doculect-62-1453,nucl1643-std,concepticon-1230,15.88,kitanai,"dirty, soiled",kitanai
+clics-doculect-62-1454,nucl1643-std,concepticon-380,15.89,shiwashiwa,wrinkled,shiwashiwa
+clics-doculect-62-1455,nucl1643-std,concepticon-53,16.11,tamashii,"soul, spirit",tamashii
+clics-doculect-62-1456,nucl1643-std,concepticon-53,16.11,reikon,"soul, spirit",reikon
+clics-doculect-62-1457,nucl1643-std,concepticon-53,16.11,seishin,"soul, spirit",seishin
+clics-doculect-62-1458,nucl1643-std,concepticon-53,16.11,kokoro,"soul, spirit",kokoro
+clics-doculect-62-1459,nucl1643-std,concepticon-1572,16.15,odoroku,"surprised, astonished",odoroku
+clics-doculect-62-1460,nucl1643-std,concepticon-1572,16.15,bikkuri,"surprised, astonished",bikkuri
+clics-doculect-62-1461,nucl1643-std,concepticon-720,16.18,kō’un,"good fortune, luck",ko'un
+clics-doculect-62-1462,nucl1643-std,concepticon-720,16.18,kichi,"good fortune, luck",kichi
+clics-doculect-62-1463,nucl1643-std,concepticon-720,16.18,saiwai,"good fortune, luck",saiwai
+clics-doculect-62-1464,nucl1643-std,concepticon-720,16.18,shiawase,"good fortune, luck",shiawase
+clics-doculect-62-1465,nucl1643-std,concepticon-56,16.19,fukō,"misfortune, bad luck",fuko
+clics-doculect-62-1466,nucl1643-std,concepticon-56,16.19,kyō,"misfortune, bad luck",kyo
+clics-doculect-62-1467,nucl1643-std,concepticon-56,16.19,akuun,"misfortune, bad luck",akuun
+clics-doculect-62-1468,nucl1643-std,concepticon-1495,16.23,ureshii,"joyful, glad, happy",ureshii
+clics-doculect-62-1469,nucl1643-std,concepticon-1495,16.23,medetai,"joyful, glad, happy",medetai
+clics-doculect-62-1470,nucl1643-std,concepticon-1355,16.25,warau,laugh,warau
+clics-doculect-62-1471,nucl1643-std,concepticon-1451,16.251,hohoemu,smile,hohoemu
+clics-doculect-62-1472,nucl1643-std,concepticon-1451,16.251,bishō,smile,bisho
+clics-doculect-62-1473,nucl1643-std,concepticon-1451,16.251,nikoniko,smile,nikoniko
+clics-doculect-62-1474,nucl1643-std,concepticon-1413,16.26,asobu,play,asobu
+clics-doculect-62-1475,nucl1643-std,concepticon-923,16.27,ai,love,ai
+clics-doculect-62-1476,nucl1643-std,concepticon-923,16.27,koi,love,koi
+clics-doculect-62-1477,nucl1643-std,concepticon-578,16.29,kisu,kiss,kisu
+clics-doculect-62-1478,nucl1643-std,concepticon-578,16.29,kuchizuke,kiss,kuchizuke
+clics-doculect-62-1479,nucl1643-std,concepticon-928,16.3,daku,embrace,daku
+clics-doculect-62-1480,nucl1643-std,concepticon-1783,16.31,itami,pain,itami
+clics-doculect-62-1481,nucl1643-std,concepticon-1783,16.31,kutsū,pain,kutsu
+clics-doculect-62-1482,nucl1643-std,concepticon-1668,16.32,kanashimi,"grief, sorrow, sadness",kanashimi
+clics-doculect-62-1483,nucl1643-std,concepticon-1668,16.32,hitan,"grief, sorrow, sadness",hitan
+clics-doculect-62-1484,nucl1643-std,concepticon-1000,16.33,shinpai,"anxiety, worry",shinpai
+clics-doculect-62-1485,nucl1643-std,concepticon-1000,16.33,fu’an,"anxiety, worry",fu'an
+clics-doculect-62-1486,nucl1643-std,concepticon-1875,16.34,zannen,"regret, be sorry",zannen
+clics-doculect-62-1487,nucl1643-std,concepticon-1875,16.34,kōkai,"regret, be sorry",kokai
+clics-doculect-62-1488,nucl1643-std,concepticon-1875,16.34,sumanai,"regret, be sorry",sumanai
+clics-doculect-62-1489,nucl1643-std,concepticon-1875,16.34,kuyamu,"regret, be sorry",kuyamu
+clics-doculect-62-1490,nucl1643-std,concepticon-1141,16.35,dōjō,pity,dojo
+clics-doculect-62-1491,nucl1643-std,concepticon-1141,16.35,aware,pity,aware
+clics-doculect-62-1492,nucl1643-std,concepticon-1839,16.37,naku,"cry, weep",naku
+clics-doculect-62-1493,nucl1643-std,concepticon-1651,16.38,namida,tear (noun),namida
+clics-doculect-62-1494,nucl1643-std,concepticon-716,16.39,umeku,groan,umeku
+clics-doculect-62-1495,nucl1643-std,concepticon-1607,16.41,nikumu,hate,nikumu
+clics-doculect-62-1496,nucl1643-std,concepticon-82,16.42,ikari,anger,ikari
+clics-doculect-62-1497,nucl1643-std,concepticon-82,16.42,gekido,anger,gekido
+clics-doculect-62-1498,nucl1643-std,concepticon-40,16.44,netami,"envy, jealousy",netami
+clics-doculect-62-1499,nucl1643-std,concepticon-40,16.44,shitto,"envy, jealousy",shitto
+clics-doculect-62-1500,nucl1643-std,concepticon-40,16.44,urayami,"envy, jealousy",urayami
+clics-doculect-62-1501,nucl1643-std,concepticon-1776,16.45,haji,shame (noun),haji
+clics-doculect-62-1502,nucl1643-std,concepticon-1776,16.45,shūchi,shame (noun),shuchi
+clics-doculect-62-1503,nucl1643-std,concepticon-174,16.48,hokoritakai,proud,hokoritakai
+clics-doculect-62-1504,nucl1643-std,concepticon-174,16.48,kōman,proud,koman
+clics-doculect-62-1505,nucl1643-std,concepticon-174,16.48,puraido,proud,puraido
+clics-doculect-62-1506,nucl1643-std,concepticon-1779,16.51,aete,dare,aete
+clics-doculect-62-1507,nucl1643-std,concepticon-1779,16.51,okasu,dare,okasu
+clics-doculect-62-1508,nucl1643-std,concepticon-3,16.52,yūkan,brave,yukan
+clics-doculect-62-1509,nucl1643-std,concepticon-3,16.52,isamashii,brave,isamashii
+clics-doculect-62-1510,nucl1643-std,concepticon-781,16.53,osore,"fear, fright",osore
+clics-doculect-62-1511,nucl1643-std,concepticon-781,16.53,kyōfu,"fear, fright",kyofu
+clics-doculect-62-1512,nucl1643-std,concepticon-1810,16.54,kiken,danger,kiken
+clics-doculect-62-1513,nucl1643-std,concepticon-1810,16.54,abunai,danger,abunai
+clics-doculect-62-1514,nucl1643-std,concepticon-1784,16.62,hoshii,"desire, want",hoshii
+clics-doculect-62-1515,nucl1643-std,concepticon-1784,16.62,nozomu,"desire, want",nozomu
+clics-doculect-62-1516,nucl1643-std,concepticon-1750,16.622,erabu,choose,erabu
+clics-doculect-62-1517,nucl1643-std,concepticon-1750,16.622,sentaku,choose,sentaku
+clics-doculect-62-1518,nucl1643-std,concepticon-1092,16.63,nozomu,hope,nozomu
+clics-doculect-62-1519,nucl1643-std,concepticon-1092,16.63,kibō,hope,kibo
+clics-doculect-62-1520,nucl1643-std,concepticon-100,16.65,chūjitsu,faithful,chujitsu
+clics-doculect-62-1521,nucl1643-std,concepticon-100,16.65,seijitsu,faithful,seijitsu
+clics-doculect-62-1522,nucl1643-std,concepticon-1657,16.66,hontō,true,honto
+clics-doculect-62-1523,nucl1643-std,concepticon-1657,16.66,makoto,true,makoto
+clics-doculect-62-1524,nucl1643-std,concepticon-1657,16.66,shin,true,shin
+clics-doculect-62-1525,nucl1643-std,concepticon-601,16.67,usootsuku,"lie, tell lies",usootsuku
+clics-doculect-62-1526,nucl1643-std,concepticon-13,16.68,itsuwari,deceit,itsuwari
+clics-doculect-62-1527,nucl1643-std,concepticon-13,16.68,uso,deceit,uso
+clics-doculect-62-1528,nucl1643-std,concepticon-1528,16.69,yurusu,forgive,yurusu
+clics-doculect-62-1529,nucl1643-std,concepticon-1528,16.69,kanben,forgive,kanben
+clics-doculect-62-1530,nucl1643-std,concepticon-1528,16.69,yōsha,forgive,yosha
+clics-doculect-62-1531,nucl1643-std,concepticon-1035,16.71,ii,good,ii
+clics-doculect-62-1532,nucl1643-std,concepticon-1292,16.72,warui,bad,warui
+clics-doculect-62-1533,nucl1643-std,concepticon-1725,16.73,tadashii,"right, correct",tadashii
+clics-doculect-62-1534,nucl1643-std,concepticon-1725,16.73,seikaku,"right, correct",seikaku
+clics-doculect-62-1535,nucl1643-std,concepticon-1390,16.74,machigau,wrong,machigau
+clics-doculect-62-1536,nucl1643-std,concepticon-1390,16.74,ayamaru,wrong,ayamaru
+clics-doculect-62-1537,nucl1643-std,concepticon-134,16.76,sei,fault,sei
+clics-doculect-62-1538,nucl1643-std,concepticon-134,16.76,sekinin,fault,sekinin
+clics-doculect-62-1539,nucl1643-std,concepticon-1293,16.77,ayamachi,"mistake, error",ayamachi
+clics-doculect-62-1540,nucl1643-std,concepticon-1293,16.77,ayamari,"mistake, error",ayamari
+clics-doculect-62-1541,nucl1643-std,concepticon-1293,16.77,misu,"mistake, error",misu
+clics-doculect-62-1542,nucl1643-std,concepticon-381,16.78,sekinin,blame,sekinin
+clics-doculect-62-1543,nucl1643-std,concepticon-381,16.78,hinan,blame,hinan
+clics-doculect-62-1544,nucl1643-std,concepticon-1687,16.79,homeru,praise,homeru
+clics-doculect-62-1545,nucl1643-std,concepticon-1687,16.79,shōsan,praise,shosan
+clics-doculect-62-1546,nucl1643-std,concepticon-1427,16.81,kirei,beautiful,kirei
+clics-doculect-62-1547,nucl1643-std,concepticon-1427,16.81,utsukushii,beautiful,utsukushii
+clics-doculect-62-1548,nucl1643-std,concepticon-1548,16.82,minikui,ugly,minikui
+clics-doculect-62-1549,nucl1643-std,concepticon-1548,16.82,shūaku,ugly,shuaku
+clics-doculect-62-1550,nucl1643-std,concepticon-2018,16.83,don’yoku,greedy,don'yoku
+clics-doculect-62-1551,nucl1643-std,concepticon-2018,16.83,yokubari,greedy,yokubari
+clics-doculect-62-1552,nucl1643-std,concepticon-2018,16.83,gatsugatsu,greedy,gatsugatsu
+clics-doculect-62-1553,nucl1643-std,concepticon-1310,16.84,kashikoi,clever,kashikoi
+clics-doculect-62-1554,nucl1643-std,concepticon-1310,16.84,rikō,clever,riko
+clics-doculect-62-1555,nucl1643-std,concepticon-1310,16.84,sōmei,clever,somei
+clics-doculect-62-1556,nucl1643-std,concepticon-1562,17.11,kokoro,mind,kokoro
+clics-doculect-62-1557,nucl1643-std,concepticon-1562,17.11,seishin,mind,seishin
+clics-doculect-62-1558,nucl1643-std,concepticon-1415,17.13,kangaeru,think (= reflect),kangaeru
+clics-doculect-62-1559,nucl1643-std,concepticon-1513,17.14,omou,think (= be of the opinion),omou
+clics-doculect-62-1560,nucl1643-std,concepticon-1890,17.15,shinjiru,believe,shinjiru
+clics-doculect-62-1561,nucl1643-std,concepticon-1890,17.15,shin’yō,believe,shin'yo
+clics-doculect-62-1562,nucl1643-std,concepticon-1536,17.16,wakaru,understand,wakaru
+clics-doculect-62-1563,nucl1643-std,concepticon-1536,17.16,rikai,understand,rikai
+clics-doculect-62-1564,nucl1643-std,concepticon-1410,17.17,shiru,know,shiru
+clics-doculect-62-1565,nucl1643-std,concepticon-1932,17.171,ateru,guess,ateru
+clics-doculect-62-1566,nucl1643-std,concepticon-1932,17.171,suisoku,guess,suisoku
+clics-doculect-62-1567,nucl1643-std,concepticon-117,17.172,maneru,imitate,maneru
+clics-doculect-62-1568,nucl1643-std,concepticon-117,17.172,mohō,imitate,moho
+clics-doculect-62-1569,nucl1643-std,concepticon-1521,17.18,rashii,seem,rashii
+clics-doculect-62-1570,nucl1643-std,concepticon-1521,17.18,sō,seem,so
+clics-doculect-62-1571,nucl1643-std,concepticon-1521,17.18,yō,seem,yo
+clics-doculect-62-1572,nucl1643-std,concepticon-1609,17.19,omoitsuki,"idea, notion",omoitsuki
+clics-doculect-62-1573,nucl1643-std,concepticon-1609,17.19,gainen,"idea, notion",gainen
+clics-doculect-62-1574,nucl1643-std,concepticon-1609,17.19,aidea,"idea, notion",aidea
+clics-doculect-62-1575,nucl1643-std,concepticon-698,17.21,kashikoi,wise,kashikoi
+clics-doculect-62-1576,nucl1643-std,concepticon-698,17.21,kenmei,wise,kenmei
+clics-doculect-62-1577,nucl1643-std,concepticon-698,17.21,sōmei,wise,somei
+clics-doculect-62-1578,nucl1643-std,concepticon-1518,17.22,baka,"foolish, stupid",baka
+clics-doculect-62-1579,nucl1643-std,concepticon-1518,17.22,oroka,"foolish, stupid",oroka
+clics-doculect-62-1580,nucl1643-std,concepticon-1899,17.23,kuruu,"insane, crazy",kuruu
+clics-doculect-62-1581,nucl1643-std,concepticon-504,17.24,narau,learn,narau
+clics-doculect-62-1582,nucl1643-std,concepticon-504,17.24,benkyō,learn,benkyo
+clics-doculect-62-1583,nucl1643-std,concepticon-504,17.24,oboeru,learn,oboeru
+clics-doculect-62-1584,nucl1643-std,concepticon-504,17.24,manabu,learn,manabu
+clics-doculect-62-1585,nucl1643-std,concepticon-1929,17.242,benkyō,study,benkyo
+clics-doculect-62-1586,nucl1643-std,concepticon-1929,17.242,manabu,study,manabu
+clics-doculect-62-1587,nucl1643-std,concepticon-709,17.25,oshieru,teach,oshieru
+clics-doculect-62-1588,nucl1643-std,concepticon-753,17.26,seito,pupil,seito
+clics-doculect-62-1589,nucl1643-std,concepticon-1038,17.27,sensei,teacher,sensei
+clics-doculect-62-1590,nucl1643-std,concepticon-1038,17.27,kyōshi,teacher,kyoshi
+clics-doculect-62-1591,nucl1643-std,concepticon-673,17.28,gakkō,school,gakko
+clics-doculect-62-1592,nucl1643-std,concepticon-707,17.31,omoidasu,remember,omoidasu
+clics-doculect-62-1593,nucl1643-std,concepticon-707,17.31,kioku,remember,kioku
+clics-doculect-62-1594,nucl1643-std,concepticon-1523,17.32,wasureru,forget,wasureru
+clics-doculect-62-1595,nucl1643-std,concepticon-989,17.34,akiraka,"clear, plain",akiraka
+clics-doculect-62-1596,nucl1643-std,concepticon-989,17.34,meikaku,"clear, plain",meikaku
+clics-doculect-62-1597,nucl1643-std,concepticon-1764,17.35,fumeiryō,obscure,fumeiryo
+clics-doculect-62-1598,nucl1643-std,concepticon-1764,17.35,aimai,obscure,aimai
+clics-doculect-62-1599,nucl1643-std,concepticon-1121,17.36,himitsu,secret,himitsu
+clics-doculect-62-1600,nucl1643-std,concepticon-1121,17.36,hisoka,secret,hisoka
+clics-doculect-62-1601,nucl1643-std,concepticon-509,17.37,tashika,"sure, certain",tashika
+clics-doculect-62-1602,nucl1643-std,concepticon-1626,17.38,setsumei,explain,setsumei
+clics-doculect-62-1603,nucl1643-std,concepticon-1162,17.41,ito,"intention, purpose",ito
+clics-doculect-62-1604,nucl1643-std,concepticon-1162,17.41,ki,"intention, purpose",ki
+clics-doculect-62-1605,nucl1643-std,concepticon-1162,17.41,tsumori,"intention, purpose",tsumori
+clics-doculect-62-1606,nucl1643-std,concepticon-860,17.42,gen’in,cause,gen'in
+clics-doculect-62-1607,nucl1643-std,concepticon-860,17.42,moto,cause,moto
+clics-doculect-62-1608,nucl1643-std,concepticon-1308,17.43,utagai,doubt,utagai
+clics-doculect-62-1609,nucl1643-std,concepticon-1308,17.43,gimon,doubt,gimon
+clics-doculect-62-1610,nucl1643-std,concepticon-1841,17.44,utagau,suspect,utagau
+clics-doculect-62-1611,nucl1643-std,concepticon-1841,17.44,ayashimu,suspect,ayashimu
+clics-doculect-62-1612,nucl1643-std,concepticon-1902,17.441,uragiru,betray,uragiru
+clics-doculect-62-1613,nucl1643-std,concepticon-643,17.45,hitsuyō,"need, necessity",hitsuyo
+clics-doculect-62-1614,nucl1643-std,concepticon-686,17.46,kantan,easy,kantan
+clics-doculect-62-1615,nucl1643-std,concepticon-686,17.46,yasashii,easy,yasashii
+clics-doculect-62-1616,nucl1643-std,concepticon-686,17.46,yōi,easy,yoi
+clics-doculect-62-1617,nucl1643-std,concepticon-584,17.47,muzukashii,difficult,muzukashii
+clics-doculect-62-1618,nucl1643-std,concepticon-584,17.47,konnan,difficult,konnan
+clics-doculect-62-1619,nucl1643-std,concepticon-1812,17.48,kokoromiru,"try, attempt",kokoromiru
+clics-doculect-62-1620,nucl1643-std,concepticon-1812,17.48,tamesu,"try, attempt",tamesu
+clics-doculect-62-1621,nucl1643-std,concepticon-488,17.49,shikata,"way, manner",shikata
+clics-doculect-62-1622,nucl1643-std,concepticon-488,17.49,hōhō,"way, manner",hoho
+clics-doculect-62-1623,nucl1643-std,concepticon-1577,17.51,to,and,to
+clics-doculect-62-1624,nucl1643-std,concepticon-1577,17.51,ya,and,ya
+clics-doculect-62-1625,nucl1643-std,concepticon-1577,17.51,soshite,and,soshite
+clics-doculect-62-1626,nucl1643-std,concepticon-1157,17.52,kara,because,kara
+clics-doculect-62-1627,nucl1643-std,concepticon-1459,17.53,moshi,if,moshi
+clics-doculect-62-1628,nucl1643-std,concepticon-1014,17.54,ka,or,ka
+clics-doculect-62-1629,nucl1643-std,concepticon-1014,17.54,mata,or,mata
+clics-doculect-62-1630,nucl1643-std,concepticon-1268,17.55,hai,"yes, affirmative",hai
+clics-doculect-62-1631,nucl1643-std,concepticon-1268,17.55,ē,"yes, affirmative",e
+clics-doculect-62-1632,nucl1643-std,concepticon-1269,17.56,iie,"no, negative",iie
+clics-doculect-62-1633,nucl1643-std,concepticon-1239,17.61,dō,how?,do
+clics-doculect-62-1634,nucl1643-std,concepticon-822,17.62,ikutsu,how many?,ikutsu
+clics-doculect-62-1635,nucl1643-std,concepticon-531,17.63,ikura,how much?,ikura
+clics-doculect-62-1636,nucl1643-std,concepticon-1236,17.64,nani,what?,nani
+clics-doculect-62-1637,nucl1643-std,concepticon-1238,17.65,itsu,when?,itsu
+clics-doculect-62-1638,nucl1643-std,concepticon-1238,17.65,nanji,when?,nanji
+clics-doculect-62-1639,nucl1643-std,concepticon-1237,17.66,doko,where?,doko
+clics-doculect-62-1640,nucl1643-std,concepticon-727,17.67,dono,which?,dono
+clics-doculect-62-1641,nucl1643-std,concepticon-727,17.67,dore,which?,dore
+clics-doculect-62-1642,nucl1643-std,concepticon-1235,17.68,dare,who?,dare
+clics-doculect-62-1643,nucl1643-std,concepticon-1270,17.69,naze,why?,naze
+clics-doculect-62-1644,nucl1643-std,concepticon-1270,17.69,dōshite,why?,doshite
+clics-doculect-62-1645,nucl1643-std,concepticon-1363,18.11,koe,voice,koe
+clics-doculect-62-1646,nucl1643-std,concepticon-1261,18.12,utau,sing,utau
+clics-doculect-62-1647,nucl1643-std,concepticon-715,18.13,sakebu,"shout, cry out",sakebu
+clics-doculect-62-1648,nucl1643-std,concepticon-715,18.13,donaru,"shout, cry out",donaru
+clics-doculect-62-1649,nucl1643-std,concepticon-55,18.15,sasayaku,whisper,sasayaku
+clics-doculect-62-1650,nucl1643-std,concepticon-128,18.16,tsubuyaku,mumble,tsubuyaku
+clics-doculect-62-1651,nucl1643-std,concepticon-128,18.16,butsubutsu,mumble,butsubutsu
+clics-doculect-62-1652,nucl1643-std,concepticon-1025,18.17,kuchibueofuku,whistle,kuchibueofuku
+clics-doculect-62-1653,nucl1643-std,concepticon-298,18.18,himeioageru,"shriek, screech",himeioageru
+clics-doculect-62-1654,nucl1643-std,concepticon-298,18.18,wameku,"shriek, screech",wameku
+clics-doculect-62-1655,nucl1643-std,concepticon-526,18.19,hoeru,howl,hoeru
+clics-doculect-62-1656,nucl1643-std,concepticon-1623,18.21,hanasu,"speak, talk",hanasu
+clics-doculect-62-1657,nucl1643-std,concepticon-1866,18.211,domoru,"stutter, stammer",domoru
+clics-doculect-62-1658,nucl1643-std,concepticon-1458,18.22,iu,say,iu
+clics-doculect-62-1659,nucl1643-std,concepticon-1711,18.221,kataru,tell story,kataru
+clics-doculect-62-1660,nucl1643-std,concepticon-1115,18.222,enzetsu,speech (make a),enzetsu
+clics-doculect-62-1661,nucl1643-std,concepticon-1115,18.222,supiichi,speech (make a),supiichi
+clics-doculect-62-1662,nucl1643-std,concepticon-48,18.23,damaru,silent (be),damaru
+clics-doculect-62-1663,nucl1643-std,concepticon-1307,18.24,kotoba,language,kotoba
+clics-doculect-62-1664,nucl1643-std,concepticon-1307,18.24,gengo,language,gengo
+clics-doculect-62-1665,nucl1643-std,concepticon-1599,18.26,kotoba,word,kotoba
+clics-doculect-62-1666,nucl1643-std,concepticon-1599,18.26,go,word,go
+clics-doculect-62-1667,nucl1643-std,concepticon-1405,18.28,namae,name,namae
+clics-doculect-62-1668,nucl1643-std,concepticon-1309,18.31,kiku,"ask (question, inquire)",kiku
+clics-doculect-62-1669,nucl1643-std,concepticon-1309,18.31,shitsumon,"ask (question, inquire)",shitsumon
+clics-doculect-62-1670,nucl1643-std,concepticon-1309,18.31,tazuneru,"ask (question, inquire)",tazuneru
+clics-doculect-62-1671,nucl1643-std,concepticon-1309,18.31,tou,"ask (question, inquire)",tou
+clics-doculect-62-1672,nucl1643-std,concepticon-1275,18.32,kotaeru,answer,kotaeru
+clics-doculect-62-1673,nucl1643-std,concepticon-1275,18.32,henji,answer,henji
+clics-doculect-62-1674,nucl1643-std,concepticon-2022,18.33,mitomeru,"admit, confess",mitomeru
+clics-doculect-62-1675,nucl1643-std,concepticon-2022,18.33,shōnin,"admit, confess",shonin
+clics-doculect-62-1676,nucl1643-std,concepticon-755,18.34,hitei,deny,hitei
+clics-doculect-62-1677,nucl1643-std,concepticon-755,18.34,uchikesu,deny,uchikesu
+clics-doculect-62-1678,nucl1643-std,concepticon-1828,18.35,motomeru,"ask, request",motomeru
+clics-doculect-62-1679,nucl1643-std,concepticon-1828,18.35,tanomu,"ask, request",tanomu
+clics-doculect-62-1680,nucl1643-std,concepticon-1675,18.36,yakusoku,promise,yakusoku
+clics-doculect-62-1681,nucl1643-std,concepticon-49,18.37,kotowaru,refuse,kotowaru
+clics-doculect-62-1682,nucl1643-std,concepticon-49,18.37,kyohi,refuse,kyohi
+clics-doculect-62-1683,nucl1643-std,concepticon-83,18.38,kinjiru,forbid,kinjiru
+clics-doculect-62-1684,nucl1643-std,concepticon-83,18.38,kinshi,forbid,kinshi
+clics-doculect-62-1685,nucl1643-std,concepticon-299,18.39,shikaru,"rebuke, scold",shikaru
+clics-doculect-62-1686,nucl1643-std,concepticon-1084,18.41,yobu,call (=summon),yobu
+clics-doculect-62-1687,nucl1643-std,concepticon-180,18.42,yobu,call (=name),yobu
+clics-doculect-62-1688,nucl1643-std,concepticon-180,18.42,nazukeru,call (=name),nazukeru
+clics-doculect-62-1689,nucl1643-std,concepticon-9,18.43,happyō,announce,happyo
+clics-doculect-62-1690,nucl1643-std,concepticon-9,18.43,tsugeru,announce,tsugeru
+clics-doculect-62-1691,nucl1643-std,concepticon-1192,18.44,odosu,threaten,odosu
+clics-doculect-62-1692,nucl1643-std,concepticon-1192,18.44,kyōhaku,threaten,kyohaku
+clics-doculect-62-1693,nucl1643-std,concepticon-101,18.45,ibaru,boast,ibaru
+clics-doculect-62-1694,nucl1643-std,concepticon-101,18.45,hokoru,boast,hokoru
+clics-doculect-62-1695,nucl1643-std,concepticon-101,18.45,jiman,boast,jiman
+clics-doculect-62-1696,nucl1643-std,concepticon-1672,18.51,kaku,write,kaku
+clics-doculect-62-1697,nucl1643-std,concepticon-724,18.52,yomu,read,yomu
+clics-doculect-62-1698,nucl1643-std,concepticon-648,18.56,kami,paper,kami
+clics-doculect-62-1699,nucl1643-std,concepticon-794,18.57,fude,pen,fude
+clics-doculect-62-1700,nucl1643-std,concepticon-794,18.57,pen,pen,pen
+clics-doculect-62-1701,nucl1643-std,concepticon-963,18.61,hon,book,hon
+clics-doculect-62-1703,nucl1643-std,concepticon-777,18.71,fue,flute,fue
+clics-doculect-62-1704,nucl1643-std,concepticon-777,18.71,furūto,flute,furuto
+clics-doculect-62-1705,nucl1643-std,concepticon-908,18.72,taiko,drum,taiko
+clics-doculect-62-1706,nucl1643-std,concepticon-908,18.72,doramu,drum,doramu
+clics-doculect-62-1707,nucl1643-std,concepticon-2136,18.73,horun,"horn, trumpet",horun
+clics-doculect-62-1708,nucl1643-std,concepticon-2136,18.73,tsunobue,"horn, trumpet",tsunobue
+clics-doculect-62-1709,nucl1643-std,concepticon-2136,18.73,toranpetto,"horn, trumpet",toranpetto
+clics-doculect-62-1710,nucl1643-std,concepticon-2136,18.73,rappa,"horn, trumpet",rappa
+clics-doculect-62-1711,nucl1643-std,concepticon-300,18.74,garagara,rattle,garagara
+clics-doculect-62-1712,nucl1643-std,concepticon-1300,19.11,kuni,country,kuni
+clics-doculect-62-1713,nucl1643-std,concepticon-89,19.12,sokoku,one's native country,sokoku
+clics-doculect-62-1714,nucl1643-std,concepticon-1391,19.15,machi,"city, town",machi
+clics-doculect-62-1715,nucl1643-std,concepticon-1391,19.15,toshi,"city, town",toshi
+clics-doculect-62-1716,nucl1643-std,concepticon-930,19.16,mura,village,mura
+clics-doculect-62-1717,nucl1643-std,concepticon-1010,19.17,sakai,boundary,sakai
+clics-doculect-62-1718,nucl1643-std,concepticon-789,19.21,hitobito,people (populace),hitobito
+clics-doculect-62-1719,nucl1643-std,concepticon-789,19.21,kokumin,people (populace),kokumin
+clics-doculect-62-1720,nucl1643-std,concepticon-302,19.23,shizoku,"tribe, clan",shizoku
+clics-doculect-62-1721,nucl1643-std,concepticon-302,19.23,ichizoku,"tribe, clan",ichizoku
+clics-doculect-62-1722,nucl1643-std,concepticon-301,19.24,shūchō,"chief, chieftain",shucho
+clics-doculect-62-1723,nucl1643-std,concepticon-1296,19.25,tsue,"staff, walking stick",tsue
+clics-doculect-62-1724,nucl1643-std,concepticon-1296,19.25,sutekki,"staff, walking stick",sutekki
+clics-doculect-62-1725,nucl1643-std,concepticon-1846,19.31,shihai,"rule, govern",shihai
+clics-doculect-62-1726,nucl1643-std,concepticon-1846,19.31,osameru,"rule, govern",osameru
+clics-doculect-62-1727,nucl1643-std,concepticon-1508,19.32,ō,"king, ruler",o
+clics-doculect-62-1728,nucl1643-std,concepticon-1306,19.33,jo’ō,queen,jo'o
+clics-doculect-62-1729,nucl1643-std,concepticon-482,19.36,kizoku,"noble, nobleman",kizoku
+clics-doculect-62-1730,nucl1643-std,concepticon-1032,19.37,shimin,"citizen, subject",shimin
+clics-doculect-62-1731,nucl1643-std,concepticon-1032,19.37,kokumin,"citizen, subject",kokumin
+clics-doculect-62-1732,nucl1643-std,concepticon-383,19.41,shujin,master,shujin
+clics-doculect-62-1733,nucl1643-std,concepticon-383,19.41,aruji,master,aruji
+clics-doculect-62-1734,nucl1643-std,concepticon-812,19.42,dorei,slave,dorei
+clics-doculect-62-1735,nucl1643-std,concepticon-255,19.43,meshitsukai,servant,meshitsukai
+clics-doculect-62-1736,nucl1643-std,concepticon-255,19.43,kerai,servant,kerai
+clics-doculect-62-1737,nucl1643-std,concepticon-384,19.44,jiyūmin,freeman,jiyumin
+clics-doculect-62-1738,nucl1643-std,concepticon-1128,19.45,meijiru,"command, order",meijiru
+clics-doculect-62-1739,nucl1643-std,concepticon-1128,19.45,meirei,"command, order",meirei
+clics-doculect-62-1740,nucl1643-std,concepticon-1635,19.46,shitagau,obey,shitagau
+clics-doculect-62-1741,nucl1643-std,concepticon-1635,19.46,fukujū,obey,fukuju
+clics-doculect-62-1742,nucl1643-std,concepticon-1003,19.47,yurusu,"let, permit",yurusu
+clics-doculect-62-1743,nucl1643-std,concepticon-1003,19.47,kyoka,"let, permit",kyoka
+clics-doculect-62-1744,nucl1643-std,concepticon-1325,19.51,tomodachi,"friend, companion",tomodachi
+clics-doculect-62-1745,nucl1643-std,concepticon-1358,19.52,teki,enemy,teki
+clics-doculect-62-1746,nucl1643-std,concepticon-1358,19.52,kataki,enemy,kataki
+clics-doculect-62-1747,nucl1643-std,concepticon-1332,19.54,tonarinohito,neighbor,tonarinohito
+clics-doculect-62-1748,nucl1643-std,concepticon-1332,19.54,kinjonohito,neighbor,kinjonohito
+clics-doculect-62-1749,nucl1643-std,concepticon-791,19.55,yosomono,stranger,yosomono
+clics-doculect-62-1750,nucl1643-std,concepticon-791,19.55,ijin,stranger,ijin
+clics-doculect-62-1751,nucl1643-std,concepticon-1782,19.56,kyaku,guest,kyaku
+clics-doculect-62-1752,nucl1643-std,concepticon-1545,19.57,shujin,host,shujin
+clics-doculect-62-1753,nucl1643-std,concepticon-1545,19.57,aruji,host,aruji
+clics-doculect-62-1754,nucl1643-std,concepticon-1897,19.58,tasukeru,"help, aid",tasukeru
+clics-doculect-62-1755,nucl1643-std,concepticon-1897,19.58,enjo,"help, aid",enjo
+clics-doculect-62-1756,nucl1643-std,concepticon-1550,19.59,fusegu,"hinder, prevent",fusegu
+clics-doculect-62-1757,nucl1643-std,concepticon-1550,19.59,soshi,"hinder, prevent",soshi
+clics-doculect-62-1758,nucl1643-std,concepticon-1747,19.61,shūkan,custom,shukan
+clics-doculect-62-1759,nucl1643-std,concepticon-1848,19.62,kenka,"strife, quarrel",kenka
+clics-doculect-62-1760,nucl1643-std,concepticon-1848,19.62,iiarasoi,"strife, quarrel",iiarasoi
+clics-doculect-62-1761,nucl1643-std,concepticon-2024,19.63,inbō,"conspiracy, plot",inbo
+clics-doculect-62-1762,nucl1643-std,concepticon-2024,19.63,takurami,"conspiracy, plot",takurami
+clics-doculect-62-1763,nucl1643-std,concepticon-2024,19.63,guru,"conspiracy, plot",guru
+clics-doculect-62-1764,nucl1643-std,concepticon-1831,19.65,au,meet,au
+clics-doculect-62-1765,nucl1643-std,concepticon-1610,19.72,baishunfu,prostitute,baishunfu
+clics-doculect-62-1766,nucl1643-std,concepticon-1423,20.11,tatakau,fight (vb),tatakau
+clics-doculect-62-1767,nucl1643-std,concepticon-1423,20.11,arasou,fight (vb),arasou
+clics-doculect-62-1768,nucl1643-std,concepticon-579,20.13,sensō,"war, battle",senso
+clics-doculect-62-1769,nucl1643-std,concepticon-579,20.13,ikusa,"war, battle",ikusa
+clics-doculect-62-1770,nucl1643-std,concepticon-579,20.13,sentō,"war, battle",sento
+clics-doculect-62-1771,nucl1643-std,concepticon-1338,20.14,heiwa,peace,heiwa
+clics-doculect-62-1772,nucl1643-std,concepticon-1561,20.15,guntai,army,guntai
+clics-doculect-62-1773,nucl1643-std,concepticon-1941,20.17,heitai,soldier,heitai
+clics-doculect-62-1774,nucl1643-std,concepticon-1941,20.17,gunjin,soldier,gunjin
+clics-doculect-62-1775,nucl1643-std,concepticon-951,20.21,buki,"weapons, arms",buki
+clics-doculect-62-1776,nucl1643-std,concepticon-951,20.21,heiki,"weapons, arms",heiki
+clics-doculect-62-1777,nucl1643-std,concepticon-1763,20.22,konbō,club,konbo
+clics-doculect-62-1778,nucl1643-std,concepticon-386,20.222,senpu,battle-ax,senpu
+clics-doculect-62-1779,nucl1643-std,concepticon-387,20.23,tōsekiki,sling,tosekiki
+clics-doculect-62-1780,nucl1643-std,concepticon-387,20.23,pachinko,sling,pachinko
+clics-doculect-62-1781,nucl1643-std,concepticon-387,20.23,gomujū,sling,gomuju
+clics-doculect-62-1782,nucl1643-std,concepticon-994,20.24,yumi,bow,yumi
+clics-doculect-62-1783,nucl1643-std,concepticon-977,20.25,ya,arrow,ya
+clics-doculect-62-1784,nucl1643-std,concepticon-945,20.26,yari,spear,yari
+clics-doculect-62-1785,nucl1643-std,concepticon-1535,20.27,tsurugi,sword,tsurugi
+clics-doculect-62-1786,nucl1643-std,concepticon-1535,20.27,katana,sword,katana
+clics-doculect-62-1787,nucl1643-std,concepticon-1535,20.27,ken,sword,ken
+clics-doculect-62-1788,nucl1643-std,concepticon-1566,20.28,jū,"gun, cannon",ju
+clics-doculect-62-1789,nucl1643-std,concepticon-1566,20.28,teppō,"gun, cannon",teppo
+clics-doculect-62-1790,nucl1643-std,concepticon-1061,20.31,yoroi,armor (defensive),yoroi
+clics-doculect-62-1791,nucl1643-std,concepticon-1680,20.33,kabuto,helmet,kabuto
+clics-doculect-62-1792,nucl1643-std,concepticon-1680,20.33,herumetto,helmet,herumetto
+clics-doculect-62-1793,nucl1643-std,concepticon-1064,20.34,tate,shield,tate
+clics-doculect-62-1794,nucl1643-std,concepticon-1938,20.35,yōsai,fortress,yosai
+clics-doculect-62-1795,nucl1643-std,concepticon-1938,20.35,toride,fortress,toride
+clics-doculect-62-1796,nucl1643-std,concepticon-1671,20.36,tō,tower,to
+clics-doculect-62-1797,nucl1643-std,concepticon-783,20.41,shōri,victory,shori
+clics-doculect-62-1798,nucl1643-std,concepticon-783,20.41,kachi,victory,kachi
+clics-doculect-62-1799,nucl1643-std,concepticon-782,20.42,haiboku,defeat,haiboku
+clics-doculect-62-1800,nucl1643-std,concepticon-782,20.42,make,defeat,make
+clics-doculect-62-1801,nucl1643-std,concepticon-722,20.43,kōgeki,attack,kogeki
+clics-doculect-62-1802,nucl1643-std,concepticon-1330,20.44,mamoru,defend,mamoru
+clics-doculect-62-1803,nucl1643-std,concepticon-1330,20.44,bōei,defend,boei
+clics-doculect-62-1804,nucl1643-std,concepticon-421,20.45,shirizoku,retreat,shirizoku
+clics-doculect-62-1805,nucl1643-std,concepticon-421,20.45,taikyo,retreat,taikyo
+clics-doculect-62-1806,nucl1643-std,concepticon-1696,20.46,kōfuku,surrender,kofuku
+clics-doculect-62-1807,nucl1643-std,concepticon-1696,20.46,kōsan,surrender,kosan
+clics-doculect-62-1808,nucl1643-std,concepticon-1072,20.47,toriko,"captive, prisoner",toriko
+clics-doculect-62-1809,nucl1643-std,concepticon-1072,20.47,horyo,"captive, prisoner",horyo
+clics-doculect-62-1810,nucl1643-std,concepticon-1072,20.47,shūjin,"captive, prisoner",shujin
+clics-doculect-62-1811,nucl1643-std,concepticon-1940,20.471,mihari,"guard, sentinel",mihari
+clics-doculect-62-1812,nucl1643-std,concepticon-1940,20.471,ban’nin,"guard, sentinel",ban'nin
+clics-doculect-62-1813,nucl1643-std,concepticon-1940,20.471,gādoman,"guard, sentinel",gadoman
+clics-doculect-62-1814,nucl1643-std,concepticon-1022,20.48,emono,"booty, spoils",emono
+clics-doculect-62-1815,nucl1643-std,concepticon-1022,20.48,senrihin,"booty, spoils",senrihin
+clics-doculect-62-1816,nucl1643-std,concepticon-65,20.49,machibuse,ambush,machibuse
+clics-doculect-62-1817,nucl1643-std,concepticon-1858,20.51,gyofu,fisherman,gyofu
+clics-doculect-62-1818,nucl1643-std,concepticon-1858,20.51,ryōshi,fisherman,ryoshi
+clics-doculect-62-1819,nucl1643-std,concepticon-1074,20.52,tsuribari,fishhook,tsuribari
+clics-doculect-62-1820,nucl1643-std,concepticon-19,20.53,tsuriito,fishing line,tsuriito
+clics-doculect-62-1821,nucl1643-std,concepticon-388,20.54,gyomō,fishnet,gyomo
+clics-doculect-62-1822,nucl1643-std,concepticon-388,20.54,nageami,fishnet,nageami
+clics-doculect-62-1823,nucl1643-std,concepticon-389,20.55,yana,fish trap,yana
+clics-doculect-62-1824,nucl1643-std,concepticon-2013,20.56,esa,bait,esa
+clics-doculect-62-1825,nucl1643-std,concepticon-1435,20.61,karu,hunt,karu
+clics-doculect-62-1826,nucl1643-std,concepticon-1172,20.62,utsu,shoot,utsu
+clics-doculect-62-1827,nucl1643-std,concepticon-161,20.63,hazureru,miss (target),hazureru
+clics-doculect-62-1828,nucl1643-std,concepticon-1075,20.64,wana,trap (noun),wana
+clics-doculect-62-1829,nucl1643-std,concepticon-1170,20.65,toraeru,trap (vb),toraeru
+clics-doculect-62-1830,nucl1643-std,concepticon-1062,21.11,hōritsu,law,horitsu
+clics-doculect-62-1831,nucl1643-std,concepticon-1068,21.15,saibansho,court,saibansho
+clics-doculect-62-1832,nucl1643-std,concepticon-1818,21.16,hanketsu,judge (vb),hanketsu
+clics-doculect-62-1833,nucl1643-std,concepticon-1818,21.16,sabaku,judge (vb),sabaku
+clics-doculect-62-1834,nucl1643-std,concepticon-1067,21.17,saiban,judgment,saiban
+clics-doculect-62-1835,nucl1643-std,concepticon-1067,21.17,hanketsu,judgment,hanketsu
+clics-doculect-62-1836,nucl1643-std,concepticon-861,21.18,saibankan,judge (noun),saibankan
+clics-doculect-62-1837,nucl1643-std,concepticon-2020,21.21,genkoku,plaintiff,genkoku
+clics-doculect-62-1838,nucl1643-std,concepticon-1034,21.22,hikoku,defendant,hikoku
+clics-doculect-62-1839,nucl1643-std,concepticon-1144,21.23,shōnin,witness,shonin
+clics-doculect-62-1840,nucl1643-std,concepticon-1144,21.23,mokugekisha,witness,mokugekisha
+clics-doculect-62-1841,nucl1643-std,concepticon-1939,21.24,chikau,swear,chikau
+clics-doculect-62-1842,nucl1643-std,concepticon-1712,21.25,chikai,oath,chikai
+clics-doculect-62-1843,nucl1643-std,concepticon-1712,21.25,sensei,oath,sensei
+clics-doculect-62-1844,nucl1643-std,concepticon-1814,21.31,uttaeru,accuse,uttaeru
+clics-doculect-62-1845,nucl1643-std,concepticon-1814,21.31,kokuso,accuse,kokuso
+clics-doculect-62-1846,nucl1643-std,concepticon-484,21.32,sho,condemn,sho
+clics-doculect-62-1847,nucl1643-std,concepticon-983,21.33,yūzaitosuru,convict (vb),yuzaitosuru
+clics-doculect-62-1848,nucl1643-std,concepticon-988,21.34,muzaitosuru,acquit,muzaitosuru
+clics-doculect-62-1849,nucl1643-std,concepticon-1682,21.35,yūzai,guilty,yuzai
+clics-doculect-62-1850,nucl1643-std,concepticon-90,21.36,muzai,innocent,muzai
+clics-doculect-62-1851,nucl1643-std,concepticon-390,21.37,batsu,"penalty, punishment",batsu
+clics-doculect-62-1852,nucl1643-std,concepticon-218,21.38,bakkin,fine,bakkin
+clics-doculect-62-1853,nucl1643-std,concepticon-1281,21.39,rōya,"prison, jail",roya
+clics-doculect-62-1854,nucl1643-std,concepticon-1281,21.39,keimusho,"prison, jail",keimusho
+clics-doculect-62-1855,nucl1643-std,concepticon-845,21.42,satsujin,murder,satsujin
+clics-doculect-62-1856,nucl1643-std,concepticon-845,21.42,hitogoroshi,murder,hitogoroshi
+clics-doculect-62-1857,nucl1643-std,concepticon-902,21.43,furin,adultery,furin
+clics-doculect-62-1858,nucl1643-std,concepticon-902,21.43,uwaki,adultery,uwaki
+clics-doculect-62-1859,nucl1643-std,concepticon-953,21.44,gōkan,rape,gokan
+clics-doculect-62-1860,nucl1643-std,concepticon-953,21.44,reipu,rape,reipu
+clics-doculect-62-1861,nucl1643-std,concepticon-1889,21.46,hōka,arson,hoka
+clics-doculect-62-1862,nucl1643-std,concepticon-1792,21.47,gishō,perjury,gisho
+clics-doculect-62-1863,nucl1643-std,concepticon-713,21.51,nusumu,steal,nusumu
+clics-doculect-62-1864,nucl1643-std,concepticon-1160,21.52,dorobō,thief,dorobo

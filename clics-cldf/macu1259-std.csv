@@ -1,0 +1,914 @@
+ID,Language_ID,Feature_ID,IDS_Key,Value,Concept,IPA_UDECODE
+clics-doculect-54-1,macu1259-std,concepticon-626,1.21,pata,"earth, land",pata
+clics-doculect-54-2,macu1259-std,concepticon-1228,1.212,non,"earth=ground, soil",non
+clics-doculect-54-3,macu1259-std,concepticon-2,1.213,kutuppan,dust,kutuppan
+clics-doculect-54-4,macu1259-std,concepticon-640,1.214,kuusaʔ,mud,kuusa?
+clics-doculect-54-5,macu1259-std,concepticon-671,1.215,sakapan,sand,sakapan
+clics-doculect-54-6,macu1259-std,concepticon-2118,1.22,wɨʔ,"mountain, hill",wi?
+clics-doculect-54-7,macu1259-std,concepticon-618,1.222,tɨkapi,"cliff, precipice",tikapi
+clics-doculect-54-8,macu1259-std,concepticon-652,1.23,etei,"plain, field",etei
+clics-doculect-54-9,macu1259-std,concepticon-921,1.24,ramon,valley,ramon
+clics-doculect-54-10,macu1259-std,concepticon-622,1.25,wonoʔ,island,wono?
+clics-doculect-54-11,macu1259-std,concepticon-113,1.27,tunaena,shore,tunaena
+clics-doculect-54-12,macu1259-std,concepticon-1155,1.28,tɨʔta,cave,ti?ta
+clics-doculect-54-13,macu1259-std,concepticon-948,1.31,tuna,water,tuna
+clics-doculect-54-14,macu1259-std,concepticon-1474,1.32,pɨranna,sea,piranna
+clics-doculect-54-15,macu1259-std,concepticon-258,1.322,tɨʔne,calm (of sea),ti?ne
+clics-doculect-54-16,macu1259-std,concepticon-259,1.323,sipasipapeawanɨ,rough (of sea),sipasipapeawani
+clics-doculect-54-17,macu1259-std,concepticon-1768,1.324,tunarakkon,foam,tunarakkon
+clics-doculect-54-18,macu1259-std,concepticon-645,1.329,pɨranna,ocean,piranna
+clics-doculect-54-19,macu1259-std,concepticon-624,1.33,ikuʔpɨ,lake,iku?pi
+clics-doculect-54-20,macu1259-std,concepticon-978,1.35,sipasipa,wave,sipasipa
+clics-doculect-54-21,macu1259-std,concepticon-1026,1.353,tunaaapaʔsaʔman,lowtide,tunaaapa?sa?man
+clics-doculect-54-22,macu1259-std,concepticon-613,1.354,tunaawannɨsaʔman,hightide,tunaawannisa?man
+clics-doculect-54-23,macu1259-std,concepticon-666,1.36,eren,"river, stream, brook",eren
+clics-doculect-54-24,macu1259-std,concepticon-666,1.36,iwɨtɨ,"river, stream, brook",iwiti
+clics-doculect-54-25,macu1259-std,concepticon-1982,1.362,tunataime,whirlpool,tunataime
+clics-doculect-54-26,macu1259-std,concepticon-2144,1.37,yani,"spring, well",yani
+clics-doculect-54-27,macu1259-std,concepticon-943,1.39,tunameru,waterfall,tunameru
+clics-doculect-54-28,macu1259-std,concepticon-420,1.41,yuʔ,"woods, forest",yu?
+clics-doculect-54-30,macu1259-std,concepticon-1803,1.43,yei,wood,yei
+clics-doculect-54-31,macu1259-std,concepticon-2125,1.44,tɨʔ,"stone, rock",ti?
+clics-doculect-54-32,macu1259-std,concepticon-1732,1.51,kaʔ,sky,ka?
+clics-doculect-54-33,macu1259-std,concepticon-1343,1.52,wei,sun,wei
+clics-doculect-54-34,macu1259-std,concepticon-1313,1.53,kapoi,moon,kapoi
+clics-doculect-54-35,macu1259-std,concepticon-1430,1.54,kaiwanoʔ,star,kaiwano?
+clics-doculect-54-36,macu1259-std,concepticon-1654,1.55,waraʔnapiesensiʔma,lightning,wara?napiesensi?ma
+clics-doculect-54-37,macu1259-std,concepticon-1150,1.56,waraʔnapiyataa,thunder,wara?napiyataa
+clics-doculect-54-38,macu1259-std,concepticon-1733,1.59,merenmereʔ,rainbow,merenmere?
+clics-doculect-54-39,macu1259-std,concepticon-630,1.61,aʔka,light (noun),a?ka
+clics-doculect-54-40,macu1259-std,concepticon-11,1.62,ewaron,darkness,ewaron
+clics-doculect-54-41,macu1259-std,concepticon-1388,1.63,yekaton,"shade, shadow",yekaton
+clics-doculect-54-42,macu1259-std,concepticon-1977,1.64,iʔnɨ,dew,i?ni
+clics-doculect-54-43,macu1259-std,concepticon-960,1.72,aʔsitun,wind,a?situn
+clics-doculect-54-44,macu1259-std,concepticon-1489,1.73,kutupuru,cloud,kutupuru
+clics-doculect-54-45,macu1259-std,concepticon-658,1.75,konoʔ,rain (noun),kono?
+clics-doculect-54-46,macu1259-std,concepticon-617,1.77,iʔnɨ,ice,i?ni
+clics-doculect-54-47,macu1259-std,concepticon-221,1.81,apoʔ,fire,apo?
+clics-doculect-54-48,macu1259-std,concepticon-778,1.83,wɨreʔsin,smoke (noun),wire?sin
+clics-doculect-54-49,macu1259-std,concepticon-646,1.84,runuʔpɨ,ashes,runu?pi
+clics-doculect-54-50,macu1259-std,concepticon-67,1.841,apoʔyarɨn,embers,apo?yarin
+clics-doculect-54-51,macu1259-std,concepticon-141,1.851,poʔtɨ,burn (vb trans),po?ti
+clics-doculect-54-52,macu1259-std,concepticon-1428,1.852,aramɨ,burn (vb intrans),arami
+clics-doculect-54-53,macu1259-std,concepticon-737,1.86,tɨrɨka,"light, kindle, ignite",tirika
+clics-doculect-54-54,macu1259-std,concepticon-127,1.861,yiʔnɨpɨ,extinguish,yi?nipi
+clics-doculect-54-55,macu1259-std,concepticon-10,1.88,apoʔkeme,firewood,apo?keme
+clics-doculect-54-56,macu1259-std,concepticon-683,2.1,pemonkon,"person, human being",pemonkon
+clics-doculect-54-57,macu1259-std,concepticon-1554,2.21,warayoʔ,man (vs. woman),warayo?
+clics-doculect-54-58,macu1259-std,concepticon-962,2.22,wɨriʔ,woman,wiri?
+clics-doculect-54-59,macu1259-std,concepticon-1553,2.23,warayoʔ,male,warayo?
+clics-doculect-54-60,macu1259-std,concepticon-1551,2.24,wɨriʔ,female,wiri?
+clics-doculect-54-61,macu1259-std,concepticon-77,2.261,auronoʔpɨ,young woman (adolescent),aurono?pi
+clics-doculect-54-62,macu1259-std,concepticon-1304,2.27,more,child,more
+clics-doculect-54-63,macu1259-std,concepticon-1289,2.28,more,"infant, baby",more
+clics-doculect-54-64,macu1259-std,concepticon-1200,2.31,inyo,husband,inyo
+clics-doculect-54-65,macu1259-std,concepticon-1199,2.32,inoʔpɨ,wife,ino?pi
+clics-doculect-54-66,macu1259-std,concepticon-203,2.33,noʔpɨta,marry,no?pita
+clics-doculect-54-67,macu1259-std,concepticon-1259,2.34,eemantoʔ,"marriage, wedding",eemanto?
+clics-doculect-54-68,macu1259-std,concepticon-1134,2.341,irumakasaʔ,divorce,irumakasa?
+clics-doculect-54-69,macu1259-std,concepticon-1217,2.35,uyun,father,uyun
+clics-doculect-54-70,macu1259-std,concepticon-1216,2.36,usan,mother,usan
+clics-doculect-54-71,macu1259-std,concepticon-505,2.37,uyuntonon,parents,uyuntonon
+clics-doculect-54-72,macu1259-std,concepticon-424,2.38,tɨnoʔpɨkenan,married man,tino?pikenan
+clics-doculect-54-73,macu1259-std,concepticon-426,2.39,tɨnyokenan,married woman,tinyokenan
+clics-doculect-54-74,macu1259-std,concepticon-1620,2.41,unmu,son,unmu
+clics-doculect-54-75,macu1259-std,concepticon-1357,2.42,uyensi,daughter,uyensi
+clics-doculect-54-76,macu1259-std,concepticon-1801,2.43,munkɨ,offspring (son or daughter),munki
+clics-doculect-54-77,macu1259-std,concepticon-1262,2.44,uwi,brother,uwi
+clics-doculect-54-78,macu1259-std,concepticon-1759,2.444,urui,older brother,urui
+clics-doculect-54-79,macu1259-std,concepticon-1760,2.445,uyakon,younger brother,uyakon
+clics-doculect-54-80,macu1259-std,concepticon-1758,2.454,naʔnaʔ,older sister,na?na?
+clics-doculect-54-81,macu1259-std,concepticon-1761,2.455,uwɨrɨsi,younger sister,uwirisi
+clics-doculect-54-82,macu1259-std,concepticon-1005,2.458,monoiʔyamɨʔ,twins,monoi?yami?
+clics-doculect-54-83,macu1259-std,concepticon-1383,2.46,amoko,grandfather,amoko
+clics-doculect-54-84,macu1259-std,concepticon-406,2.461,aʔyeketon,old man,a?yeketon
+clics-doculect-54-85,macu1259-std,concepticon-1496,2.47,koʔkoʔ,grandmother,ko?ko?
+clics-doculect-54-86,macu1259-std,concepticon-907,2.471,noʔsanton,old woman,no?santon
+clics-doculect-54-87,macu1259-std,concepticon-1618,2.48,upa,grandson,upa
+clics-doculect-54-88,macu1259-std,concepticon-1619,2.49,upa,granddaughter,upa
+clics-doculect-54-89,macu1259-std,concepticon-1327,2.51,inton,uncle,inton
+clics-doculect-54-90,macu1259-std,concepticon-1984,2.511,inton,mother's brother,inton
+clics-doculect-54-91,macu1259-std,concepticon-1985,2.512,papai,father's brother,papai
+clics-doculect-54-92,macu1259-std,concepticon-1272,2.52,eeru,aunt,eeru
+clics-doculect-54-93,macu1259-std,concepticon-171,2.521,mamai,mother's sister,mamai
+clics-doculect-54-94,macu1259-std,concepticon-170,2.522,waʔnɨ,father's sister,wa?ni
+clics-doculect-54-95,macu1259-std,concepticon-1063,2.53,poito,nephew,poito
+clics-doculect-54-96,macu1259-std,concepticon-1642,2.54,passe,niece,passe
+clics-doculect-54-97,macu1259-std,concepticon-1642,2.54,upaʔse,niece,upa?se
+clics-doculect-54-98,macu1259-std,concepticon-1643,2.55,uwi,cousin,uwi
+clics-doculect-54-99,macu1259-std,concepticon-1643,2.55,moyi,cousin,moyi
+clics-doculect-54-100,macu1259-std,concepticon-1643,2.55,piipi,cousin,piipi
+clics-doculect-54-101,macu1259-std,concepticon-1669,2.56,utamokon,ancestors,utamokon
+clics-doculect-54-102,macu1259-std,concepticon-490,2.57,payanyamɨʔ,descendants,payanyami?
+clics-doculect-54-103,macu1259-std,concepticon-2255,2.61,mɨi,father-in-law (of a man),mii
+clics-doculect-54-104,macu1259-std,concepticon-2255,2.61,uyawo,father-in-law (of a man),uyawo
+clics-doculect-54-105,macu1259-std,concepticon-2254,2.611,aawo,father-in-law (of a woman),aawo
+clics-doculect-54-106,macu1259-std,concepticon-2254,2.611,ako,father-in-law (of a woman),ako
+clics-doculect-54-107,macu1259-std,concepticon-2254,2.611,uyawo,father-in-law (of a woman),uyawo
+clics-doculect-54-108,macu1259-std,concepticon-2256,2.62,waʔnɨ,mother-in-law (of a man),wa?ni
+clics-doculect-54-109,macu1259-std,concepticon-2256,2.62,uyawoʔpɨ,mother-in-law (of a man),uyawo?pi
+clics-doculect-54-110,macu1259-std,concepticon-2257,2.621,waʔnɨ,mother-in-law (of a woman),wa?ni
+clics-doculect-54-111,macu1259-std,concepticon-2257,2.621,uyawoʔpɨ,mother-in-law (of a woman),uyawo?pi
+clics-doculect-54-112,macu1259-std,concepticon-2267,2.63,poito,son-in-law (of a man),poito
+clics-doculect-54-113,macu1259-std,concepticon-2267,2.63,upayun,son-in-law (of a man),upayun
+clics-doculect-54-114,macu1259-std,concepticon-2266,2.631,mɨine,son-in-law (of a woman),miine
+clics-doculect-54-115,macu1259-std,concepticon-2266,2.631,upayun,son-in-law (of a woman),upayun
+clics-doculect-54-116,macu1259-std,concepticon-2265,2.64,passe,daughter-in-law (of a man),passe
+clics-doculect-54-117,macu1259-std,concepticon-2265,2.64,upaʔse,daughter-in-law (of a man),upa?se
+clics-doculect-54-118,macu1259-std,concepticon-2264,2.641,passe,daughter-in-law (of a woman),passe
+clics-doculect-54-119,macu1259-std,concepticon-2264,2.641,upaʔse,daughter-in-law (of a woman),upa?se
+clics-doculect-54-120,macu1259-std,concepticon-1149,2.75,isantonpɨn,orphan,isantonpin
+clics-doculect-54-121,macu1259-std,concepticon-1756,2.76,inyosaʔmantaʔsan,widow,inyosa?manta?san
+clics-doculect-54-122,macu1259-std,concepticon-1981,2.77,inoʔpɨsaʔmantaʔsan,widower,ino?pisa?manta?san
+clics-doculect-54-123,macu1259-std,concepticon-1644,2.81,yonpa,"relatives, kinsmen",yonpa
+clics-doculect-54-124,macu1259-std,concepticon-1209,2.91,uurɨ,I,uuri
+clics-doculect-54-125,macu1259-std,concepticon-1215,2.92,amɨrɨ,you (singular),amiri
+clics-doculect-54-126,macu1259-std,concepticon-262,2.93,mɨɨkɨrɨ,he/she/it,miikiri
+clics-doculect-54-127,macu1259-std,concepticon-1131,2.941,uurɨʔnɨkon,we (inclusive),uuri?nikon
+clics-doculect-54-128,macu1259-std,concepticon-1130,2.942,anna,we (exclusive),anna
+clics-doculect-54-129,macu1259-std,concepticon-1213,2.95,amɨrɨʔkon,you (plural),amiri?kon
+clics-doculect-54-130,macu1259-std,concepticon-817,2.96,inkamoro,they,inkamoro
+clics-doculect-54-131,macu1259-std,concepticon-817,2.96,insemoro,they,insemoro
+clics-doculect-54-132,macu1259-std,concepticon-619,3.11,uyekɨn,animal,uyekin
+clics-doculect-54-133,macu1259-std,concepticon-2262,3.13,pa,female (adj),pa
+clics-doculect-54-134,macu1259-std,concepticon-631,3.15,uyekɨnan,livestock,uyekinan
+clics-doculect-54-135,macu1259-std,concepticon-1153,3.2,yamɨʔ,cattle (bovine),yami?
+clics-doculect-54-136,macu1259-std,concepticon-1008,3.21,yun,bull,yun
+clics-doculect-54-137,macu1259-std,concepticon-1989,3.24,more,calf,more
+clics-doculect-54-138,macu1259-std,concepticon-1647,3.45,more,"foal, colt",more
+clics-doculect-54-139,macu1259-std,concepticon-265,3.5,toron,fowl,toron
+clics-doculect-54-140,macu1259-std,concepticon-1511,3.52,kariwanayunkon,"cock, rooster",kariwanayunkon
+clics-doculect-54-141,macu1259-std,concepticon-1514,3.54,kariwana,hen,kariwana
+clics-doculect-54-142,macu1259-std,concepticon-1318,3.55,kariwana,chicken,kariwana
+clics-doculect-54-143,macu1259-std,concepticon-1360,3.57,maiʔwa,duck,mai?wa
+clics-doculect-54-144,macu1259-std,concepticon-539,3.58,toronyaponse,nest,toronyaponse
+clics-doculect-54-145,macu1259-std,concepticon-937,3.581,toron,bird,toron
+clics-doculect-54-146,macu1259-std,concepticon-1905,3.584,kuwano,eagle,kuwano
+clics-doculect-54-147,macu1259-std,concepticon-1185,3.586,kaʔsanaʔ,vulture,ka?sana?
+clics-doculect-54-148,macu1259-std,concepticon-1793,3.591,marappa,bat,marappa
+clics-doculect-54-149,macu1259-std,concepticon-882,3.592,woroʔke,parrot,woro?ke
+clics-doculect-54-150,macu1259-std,concepticon-1853,3.594,wakuʔkaimɨ,dove,waku?kaimi
+clics-doculect-54-151,macu1259-std,concepticon-735,3.596,poosiʔkɨ,owl,poosi?ki
+clics-doculect-54-152,macu1259-std,concepticon-2009,3.61,arinmaraka,dog,arinmaraka
+clics-doculect-54-153,macu1259-std,concepticon-1208,3.62,pisana,cat,pisana
+clics-doculect-54-154,macu1259-std,concepticon-309,3.622,waiʔwo,opossum,wai?wo
+clics-doculect-54-155,macu1259-std,concepticon-2139,3.63,waimu,"mouse, rat",waimu
+clics-doculect-54-156,macu1259-std,concepticon-227,3.65,moroʔ,fish,moro?
+clics-doculect-54-157,macu1259-std,concepticon-266,3.653,moroʔpiʔpɨ,fishscale,moro?pi?pi
+clics-doculect-54-158,macu1259-std,concepticon-1910,3.664,supareʔ,stingray,supare?
+clics-doculect-54-159,macu1259-std,concepticon-1013,3.665,arinraʔ,freshwater eel,arinra?
+clics-doculect-54-160,macu1259-std,concepticon-1312,3.74,maikan,fox,maikan
+clics-doculect-54-161,macu1259-std,concepticon-1936,3.75,waikin,deer,waikin
+clics-doculect-54-162,macu1259-std,concepticon-1936,3.75,usari,deer,usari
+clics-doculect-54-163,macu1259-std,concepticon-1350,3.76,iwarɨka,monkey,iwarika
+clics-doculect-54-164,macu1259-std,concepticon-620,3.81,oʔma,insect,o?ma
+clics-doculect-54-165,macu1259-std,concepticon-1392,3.811,ayan,louse,ayan
+clics-doculect-54-166,macu1259-std,concepticon-1392,3.811,ayamɨ,louse,ayami
+clics-doculect-54-167,macu1259-std,concepticon-267,3.812,ayanpɨmoi,nit (louse egg),ayanpimoi
+clics-doculect-54-168,macu1259-std,concepticon-232,3.813,sikɨ,flea,siki
+clics-doculect-54-169,macu1259-std,concepticon-1974,3.814,konope,centipede,konope
+clics-doculect-54-170,macu1259-std,concepticon-1538,3.815,mariʔtɨ,scorpion,mari?ti
+clics-doculect-54-171,macu1259-std,concepticon-1575,3.816,masarɨwa,cockroach,masariwa
+clics-doculect-54-172,macu1259-std,concepticon-587,3.817,miʔkɨ,ant,mi?ki
+clics-doculect-54-173,macu1259-std,concepticon-843,3.818,moyoi,spider,moyoi
+clics-doculect-54-174,macu1259-std,concepticon-1065,3.819,moyoiyette,spider web,moyoiyette
+clics-doculect-54-175,macu1259-std,concepticon-665,3.82,wan,bee,wan
+clics-doculect-54-176,macu1259-std,concepticon-1931,3.821,moronpɨ,beeswax,moronpi
+clics-doculect-54-177,macu1259-std,concepticon-1504,3.83,ereuwe,fly,ereuwe
+clics-doculect-54-178,macu1259-std,concepticon-95,3.831,nunkɨ,"sandfly (midge), gnat",nunki
+clics-doculect-54-179,macu1259-std,concepticon-1509,3.832,masaʔ,mosquito,masa?
+clics-doculect-54-180,macu1259-std,concepticon-1219,3.84,moʔ,worm,mo?
+clics-doculect-54-181,macu1259-std,concepticon-730,3.85,ɨkɨi,snake,ikii
+clics-doculect-54-182,macu1259-std,concepticon-206,3.91,motowe,firefly,motowe
+clics-doculect-54-183,macu1259-std,concepticon-1791,3.92,peppeʔ,butterfly,peppe?
+clics-doculect-54-184,macu1259-std,concepticon-607,3.93,kaira,grasshopper,kaira
+clics-doculect-54-185,macu1259-std,concepticon-1543,3.94,kuimeʔ,snail,kuime?
+clics-doculect-54-186,macu1259-std,concepticon-1543,3.94,kiiwa,snail,kiiwa
+clics-doculect-54-187,macu1259-std,concepticon-503,3.95,pɨrettɨku,frog,pirettiku
+clics-doculect-54-188,macu1259-std,concepticon-632,3.96,enwaraʔ,lizard,enwara?
+clics-doculect-54-189,macu1259-std,concepticon-632,3.96,tɨpukkari,lizard,tipukkari
+clics-doculect-54-190,macu1259-std,concepticon-1857,3.97,akare,"crocodile, alligator",akare
+clics-doculect-54-191,macu1259-std,concepticon-1857,3.97,kuratu,"crocodile, alligator",kuratu
+clics-doculect-54-192,macu1259-std,concepticon-112,3.98,wayanmuri,turtle,wayanmuri
+clics-doculect-54-193,macu1259-std,concepticon-1480,4.11,uyesaʔ,body,uyesa?
+clics-doculect-54-194,macu1259-std,concepticon-763,4.12,upiʔpɨ,"skin, hide",upi?pi
+clics-doculect-54-195,macu1259-std,concepticon-2259,4.13,upun,flesh,upun
+clics-doculect-54-196,macu1259-std,concepticon-1040,4.14,upuʔpaisiʔpo,hair (head),upu?paisi?po
+clics-doculect-54-197,macu1259-std,concepticon-678,4.142,iteʔpo,beard,ite?po
+clics-doculect-54-198,macu1259-std,concepticon-678,4.142,mɨɨkɨrɨyeʔpo,beard,miikiriye?po
+clics-doculect-54-199,macu1259-std,concepticon-189,4.144,itewansiʔposaru,body hair,itewansi?posaru
+clics-doculect-54-200,macu1259-std,concepticon-36,4.145,simoi,pubic hair,simoi
+clics-doculect-54-201,macu1259-std,concepticon-576,4.146,uʔpi,dandruff,u?pi
+clics-doculect-54-202,macu1259-std,concepticon-946,4.15,umɨnɨ,blood,umini
+clics-doculect-54-203,macu1259-std,concepticon-525,4.151,ukara,"vein, artery",ukara
+clics-doculect-54-204,macu1259-std,concepticon-1394,4.16,uyeʔpɨ,bone,uye?pi
+clics-doculect-54-205,macu1259-std,concepticon-801,4.162,uratayeʔpɨ,rib,urataye?pi
+clics-doculect-54-206,macu1259-std,concepticon-1393,4.17,retɨ,horn,reti
+clics-doculect-54-207,macu1259-std,concepticon-1220,4.18,itaukɨ,tail,itauki
+clics-doculect-54-208,macu1259-std,concepticon-1291,4.19,inpo,back,inpo
+clics-doculect-54-209,macu1259-std,concepticon-805,4.191,uyeppayeʔpɨ,spine,uyeppaye?pi
+clics-doculect-54-210,macu1259-std,concepticon-1256,4.2,ipuʔpai,head,ipu?pai
+clics-doculect-54-211,macu1259-std,concepticon-1604,4.201,upanamaka,"side of head, temple",upanamaka
+clics-doculect-54-212,macu1259-std,concepticon-1605,4.202,ipuʔpaiyeʔpɨ,skull,ipu?paiye?pi
+clics-doculect-54-213,macu1259-std,concepticon-1583,4.203,ikase,brain,ikase
+clics-doculect-54-214,macu1259-std,concepticon-1560,4.204,uyenpata,face,uyenpata
+clics-doculect-54-215,macu1259-std,concepticon-123,4.205,uyepin,forehead,uyepin
+clics-doculect-54-216,macu1259-std,concepticon-798,4.207,umata,jaw,umata
+clics-doculect-54-217,macu1259-std,concepticon-1730,4.208,uʔpita,cheek,u?pita
+clics-doculect-54-218,macu1259-std,concepticon-1510,4.209,uyetamu,chin,uyetamu
+clics-doculect-54-219,macu1259-std,concepticon-1248,4.21,uyenu,eye,uyenu
+clics-doculect-54-220,macu1259-std,concepticon-1173,4.212,uwaramaʔpo,eyebrow,uwarama?po
+clics-doculect-54-221,macu1259-std,concepticon-17,4.213,uyenupiʔpɨ,eyelid,uyenupi?pi
+clics-doculect-54-222,macu1259-std,concepticon-1540,4.214,uyenukaramaʔsiʔpo,eyelash,uyenukarama?si?po
+clics-doculect-54-223,macu1259-std,concepticon-1655,4.215,pɨriutaa,blink,piriutaa
+clics-doculect-54-224,macu1259-std,concepticon-1247,4.22,upana,ear,upana
+clics-doculect-54-225,macu1259-std,concepticon-18,4.221,upanayemu,earlobe,upanayemu
+clics-doculect-54-226,macu1259-std,concepticon-32,4.222,upanayaweʔ,earwax,upanayawe?
+clics-doculect-54-227,macu1259-std,concepticon-1221,4.23,uyeuna,nose,uyeuna
+clics-doculect-54-228,macu1259-std,concepticon-1178,4.231,uyeunayetta,nostril,uyeunayetta
+clics-doculect-54-229,macu1259-std,concepticon-208,4.232,aton,mucus (nasal),aton
+clics-doculect-54-230,macu1259-std,concepticon-674,4.24,unta,mouth,unta
+clics-doculect-54-231,macu1259-std,concepticon-73,4.241,toronpotɨ,beak,toronpoti
+clics-doculect-54-232,macu1259-std,concepticon-478,4.25,uyeʔpi,lip,uye?pi
+clics-doculect-54-233,macu1259-std,concepticon-478,4.25,upotɨ,lip,upoti
+clics-doculect-54-234,macu1259-std,concepticon-1205,4.26,unu,tongue,unu
+clics-doculect-54-235,macu1259-std,concepticon-1380,4.27,uye,tooth,uye
+clics-doculect-54-236,macu1259-std,concepticon-139,4.271,uyeyapon,gums,uyeyapon
+clics-doculect-54-237,macu1259-std,concepticon-1049,4.272,yakuiponawon,molartooth,yakuiponawon
+clics-doculect-54-238,macu1259-std,concepticon-1333,4.28,uʔmɨ,neck,u?mi
+clics-doculect-54-239,macu1259-std,concepticon-1347,4.281,umɨyeʔpɨ,nape of neck,umiye?pi
+clics-doculect-54-240,macu1259-std,concepticon-1346,4.29,uʔmɨyetta,throat,u?miyetta
+clics-doculect-54-241,macu1259-std,concepticon-1482,4.3,umota,shoulder,umota
+clics-doculect-54-242,macu1259-std,concepticon-172,4.301,umotayeʔpɨ,shoulderblade,umotaye?pi
+clics-doculect-54-243,macu1259-std,concepticon-1994,4.302,umoʔmoʔyeʔpɨ,collarbone,umo?mo?ye?pi
+clics-doculect-54-244,macu1259-std,concepticon-1673,4.31,uyemekon,arm,uyemekon
+clics-doculect-54-245,macu1259-std,concepticon-1886,4.312,uyewata,armpit,uyewata
+clics-doculect-54-246,macu1259-std,concepticon-981,4.32,uperesi,elbow,uperesi
+clics-doculect-54-247,macu1259-std,concepticon-799,4.321,uyenyapɨmɨ,wrist,uyenyapimi
+clics-doculect-54-248,macu1259-std,concepticon-1277,4.33,uyenya,hand,uyenya
+clics-doculect-54-249,macu1259-std,concepticon-1183,4.331,uyenya,palm of hand,uyenya
+clics-doculect-54-250,macu1259-std,concepticon-1303,4.34,uyenyaeperu,finger,uyenyaeperu
+clics-doculect-54-251,macu1259-std,concepticon-1781,4.342,uyenyayunkon,thumb,uyenyayunkon
+clics-doculect-54-252,macu1259-std,concepticon-1258,4.344,uyenyapiʔpɨ,fingernail,uyenyapi?pi
+clics-doculect-54-253,macu1259-std,concepticon-72,4.345,itenyapuʔpɨ,claw,itenyapu?pi
+clics-doculect-54-254,macu1259-std,concepticon-1297,4.35,ipeʔ,leg,ipe?
+clics-doculect-54-255,macu1259-std,concepticon-800,4.351,uyeʔmata,thigh,uye?mata
+clics-doculect-54-256,macu1259-std,concepticon-498,4.352,usipun,calf of leg,usipun
+clics-doculect-54-257,macu1259-std,concepticon-1371,4.36,uyeseʔmo,knee,uyese?mo
+clics-doculect-54-258,macu1259-std,concepticon-1301,4.37,uʔpu,foot,u?pu
+clics-doculect-54-259,macu1259-std,concepticon-803,4.371,urupukon,ankle,urupukon
+clics-doculect-54-260,macu1259-std,concepticon-980,4.372,utana,heel,utana
+clics-doculect-54-261,macu1259-std,concepticon-318,4.374,iteʔmaʔpɨ,footprint,ite?ma?pi
+clics-doculect-54-262,macu1259-std,concepticon-1389,4.38,uʔpuyeperu,toe,u?puyeperu
+clics-doculect-54-263,macu1259-std,concepticon-1257,4.392,yapɨri,wing,yapiri
+clics-doculect-54-264,macu1259-std,concepticon-1592,4.4,uruppota,chest,uruppota
+clics-doculect-54-265,macu1259-std,concepticon-1402,4.41,imanatɨ,breast (of woman),imanati
+clics-doculect-54-266,macu1259-std,concepticon-796,4.412,imanatɨpotɨ,"nipple, teat",imanatipoti
+clics-doculect-54-267,macu1259-std,concepticon-154,4.42,manatɨmun,udder,manatimun
+clics-doculect-54-268,macu1259-std,concepticon-1838,4.43,iponi,navel,iponi
+clics-doculect-54-269,macu1259-std,concepticon-1223,4.44,uyewan,heart,uyewan
+clics-doculect-54-270,macu1259-std,concepticon-688,4.441,uyarakku,lung,uyarakku
+clics-doculect-54-271,macu1259-std,concepticon-1224,4.45,yere,liver,yere
+clics-doculect-54-272,macu1259-std,concepticon-489,4.451,ukuimari,kidney,ukuimari
+clics-doculect-54-273,macu1259-std,concepticon-819,4.46,uyaʔreʔyense,stomach,uya?re?yense
+clics-doculect-54-274,macu1259-std,concepticon-1991,4.461,isiwisikɨ,"intestines, guts",isiwisiki
+clics-doculect-54-275,macu1259-std,concepticon-1681,4.462,uworomɨʔ,waist,uworomi?
+clics-doculect-54-276,macu1259-std,concepticon-1745,4.463,upɨnyeʔpɨ,hip,upinye?pi
+clics-doculect-54-277,macu1259-std,concepticon-834,4.464,imaiko,buttocks,imaiko
+clics-doculect-54-278,macu1259-std,concepticon-804,4.47,inrepon,womb,inrepon
+clics-doculect-54-279,macu1259-std,concepticon-797,4.49,itemu,testicle,itemu
+clics-doculect-54-280,macu1259-std,concepticon-1222,4.492,imere,penis,imere
+clics-doculect-54-281,macu1259-std,concepticon-1407,4.51,yettapusin,"breathe, breath",yettapusin
+clics-doculect-54-282,macu1259-std,concepticon-1028,4.52,entapiʔma,"yawn, gape",entapi?ma
+clics-doculect-54-283,macu1259-std,concepticon-162,4.521,eʔsɨkeʔma,hiccough,e?sike?ma
+clics-doculect-54-284,macu1259-std,concepticon-879,4.53,aheheʔtaiya,cough,ahehe?taiya
+clics-doculect-54-285,macu1259-std,concepticon-1621,4.54,a'sikautaiya,sneeze,a'sikautaiya
+clics-doculect-54-286,macu1259-std,concepticon-126,4.55,awaisaʔ,perspire,awaisa?
+clics-doculect-54-287,macu1259-std,concepticon-1440,4.56,uyetakuyenumɨuya,spit,uyetakuyenumiuya
+clics-doculect-54-288,macu1259-std,concepticon-1278,4.57,yarakka,vomit,yarakka
+clics-doculect-54-289,macu1259-std,concepticon-1403,4.58,yeʔka,bite,ye?ka
+clics-doculect-54-290,macu1259-std,concepticon-319,4.59,yemeka,lick,yemeka
+clics-doculect-54-291,macu1259-std,concepticon-268,4.591,etiʔkamɨ,dribble,eti?kami
+clics-doculect-54-292,macu1259-std,concepticon-1585,4.61,wetun,sleep,wetun
+clics-doculect-54-293,macu1259-std,concepticon-1983,4.612,tororɨyen,snore,tororiyen
+clics-doculect-54-294,macu1259-std,concepticon-1920,4.62,eʔmoronoʔpe,dream,e?morono?pe
+clics-doculect-54-295,macu1259-std,concepticon-1602,4.63,aapaka,wake up,aapaka
+clics-doculect-54-296,macu1259-std,concepticon-1159,4.64,iwiʔkɨyenpewai,break wind,iwi?kiyenpewai
+clics-doculect-54-297,macu1259-std,concepticon-592,4.65,asuʔta,urinate,asu?ta
+clics-doculect-54-298,macu1259-std,concepticon-676,4.66,weka,defecate,weka
+clics-doculect-54-299,macu1259-std,concepticon-1785,4.67,toʔesenpansaʔman,have sexual intercourse,to?esenpansa?man
+clics-doculect-54-300,macu1259-std,concepticon-52,4.68,aweʔtɨtɨkakomiʔpe,shiver,awe?titikakomi?pe
+clics-doculect-54-301,macu1259-std,concepticon-138,4.69,eʔpɨ,bathe,e?pi
+clics-doculect-54-302,macu1259-std,concepticon-1090,4.72,esenpo,born (to be),esenpo
+clics-doculect-54-303,macu1259-std,concepticon-1123,4.73,moreyanpe,pregnant,moreyanpe
+clics-doculect-54-304,macu1259-std,concepticon-1087,4.732,inreʔsaiʔya,conceive,inre?sai?ya
+clics-doculect-54-305,macu1259-std,concepticon-1422,4.74,enen,"live, living, life",enen
+clics-doculect-54-306,macu1259-std,concepticon-1494,4.75,saʔmanta,"die, dead",sa?manta
+clics-doculect-54-307,macu1259-std,concepticon-1904,4.751,aanasaʔ,drowned,aanasa?
+clics-doculect-54-308,macu1259-std,concepticon-1417,4.76,wɨʔ,kill,wi?
+clics-doculect-54-309,macu1259-std,concepticon-767,4.77,itesaʔrɨʔpɨ,corpse,itesa?ri?pi
+clics-doculect-54-310,macu1259-std,concepticon-1719,4.78,yuʔnaʔtɨ,bury (the dead),yu?na?ti
+clics-doculect-54-311,macu1259-std,concepticon-1773,4.79,uuruwai,"grave, tomb",uuruwai
+clics-doculect-54-312,macu1259-std,concepticon-785,4.81,meruntɨ,"strong, mighty, powerful",merunti
+clics-doculect-54-313,macu1259-std,concepticon-1601,4.82,aʔtuʔmara,weak,a?tu?mara
+clics-doculect-54-314,macu1259-std,concepticon-1364,4.83,priʔya,"well, health",pri?ya
+clics-doculect-54-315,macu1259-std,concepticon-1847,4.84,paran,"sick, sickness",paran
+clics-doculect-54-316,macu1259-std,concepticon-1534,4.841,ekomiʔma,fever,ekomi?ma
+clics-doculect-54-317,macu1259-std,concepticon-102,4.843,aton,cold (catarrh),aton
+clics-doculect-54-318,macu1259-std,concepticon-1109,4.85,ereʔ,"wound, sore",ere?
+clics-doculect-54-319,macu1259-std,concepticon-1148,4.852,eerekɨʔtɨsaʔ,bruise,eereki?tisa?
+clics-doculect-54-320,macu1259-std,concepticon-1903,4.853,awoisaʔ,swelling,awoisa?
+clics-doculect-54-321,macu1259-std,concepticon-148,4.854,kaʔnare,itch,ka?nare
+clics-doculect-54-322,macu1259-std,concepticon-1584,4.855,aasɨkoiwataʔsaʔ,blister,aasikoiwata?sa?
+clics-doculect-54-323,macu1259-std,concepticon-793,4.856,aawoisaʔ,boil (noun),aawoisa?
+clics-doculect-54-324,macu1259-std,concepticon-1808,4.857,kunaru,pus,kunaru
+clics-doculect-54-325,macu1259-std,concepticon-497,4.858,eekaimasaʔ,scar,eekaimasa?
+clics-doculect-54-326,macu1259-std,concepticon-499,4.86,yepiʔtɨ,"cure, heal",yepi?ti
+clics-doculect-54-327,macu1259-std,concepticon-597,4.87,pemonkonyepiʔtɨnen,physician,pemonkonyepi?tinen
+clics-doculect-54-328,macu1259-std,concepticon-1372,4.88,epiʔtoʔ,"medicine, drug",epi?to?
+clics-doculect-54-329,macu1259-std,concepticon-655,4.89,maiʔpaiyamaiʔke,poison,mai?paiyamai?ke
+clics-doculect-54-330,macu1259-std,concepticon-1757,4.91,apɨkasaʔ,"tired, weary",apikasa?
+clics-doculect-54-331,macu1259-std,concepticon-168,4.912,erɨkka,rest,erikka
+clics-doculect-54-332,macu1259-std,concepticon-1564,4.92,enyanneʔ,lazy,enyanne?
+clics-doculect-54-333,macu1259-std,concepticon-1125,4.93,pɨkaiʔpan,bald,pikai?pan
+clics-doculect-54-334,macu1259-std,concepticon-320,4.94,tɨkɨipe,lame,tikiipe
+clics-doculect-54-335,macu1259-std,concepticon-996,4.95,panaʔtɨ,deaf,pana?ti
+clics-doculect-54-336,macu1259-std,concepticon-1666,4.96,imaimupɨn,mute,imaimupin
+clics-doculect-54-337,macu1259-std,concepticon-1653,4.97,enkaruʔne,blind,enkaru?ne
+clics-doculect-54-338,macu1259-std,concepticon-1463,4.98,eʔtɨripe,intoxicated,e?tiripe
+clics-doculect-54-339,macu1259-std,concepticon-590,4.99,iponpɨn,"naked, bare",iponpin
+clics-doculect-54-340,macu1259-std,concepticon-1336,5.11,entamoʔka,eat,entamo?ka
+clics-doculect-54-341,macu1259-std,concepticon-256,5.12,yaʔre,food,ya?re
+clics-doculect-54-342,macu1259-std,concepticon-178,5.123,emɨsaʔ,ripe,emisa?
+clics-doculect-54-343,macu1259-std,concepticon-1958,5.124,yaʔpɨre,"green, unripe",ya?pire
+clics-doculect-54-344,macu1259-std,concepticon-1728,5.125,aakatasaʔ,rotten,aakatasa?
+clics-doculect-54-345,macu1259-std,concepticon-1401,5.13,enɨrɨ,drink,eniri
+clics-doculect-54-346,macu1259-std,concepticon-1864,5.14,iwanpe,hunger,iwanpe
+clics-doculect-54-347,macu1259-std,concepticon-199,5.141,iwan,famine,iwan
+clics-doculect-54-348,macu1259-std,concepticon-848,5.15,tunaaninɨpai,thirst,tunaaninipai
+clics-doculect-54-349,macu1259-std,concepticon-1421,5.16,yuʔna,suck,yu?na
+clics-doculect-54-350,macu1259-std,concepticon-321,5.18,yapo,chew,yapo
+clics-doculect-54-351,macu1259-std,concepticon-897,5.181,yennoʔma,swallow,yenno?ma
+clics-doculect-54-352,macu1259-std,concepticon-129,5.19,aawoʔtɨ,choke,aawo?ti
+clics-doculect-54-353,macu1259-std,concepticon-792,5.22,rintɨ,boil (vb),rinti
+clics-doculect-54-354,macu1259-std,concepticon-2146,5.23,puru,"roast, fry",puru
+clics-doculect-54-355,macu1259-std,concepticon-1462,5.26,yerin,"pot, cooking vessel",yerin
+clics-doculect-54-356,macu1259-std,concepticon-1530,5.33,pisaʔ,bowl,pisa?
+clics-doculect-54-357,macu1259-std,concepticon-1352,5.38,taura,knife,taura
+clics-doculect-54-358,macu1259-std,concepticon-1526,5.41,entamoʔkantoʔ,meal (a),entamo?kanto?
+clics-doculect-54-359,macu1259-std,concepticon-1322,5.42,uyekkari,breakfast,uyekkari
+clics-doculect-54-360,macu1259-std,concepticon-275,5.46,piʔka,peel,pi?ka
+clics-doculect-54-361,macu1259-std,concepticon-86,5.47,yainonka,"sieve, strain",yainonka
+clics-doculect-54-362,macu1259-std,concepticon-1767,5.48,piʔka,scrape,pi?ka
+clics-doculect-54-363,macu1259-std,concepticon-2017,5.49,yaiʔma,"stir, mix",yai?ma
+clics-doculect-54-364,macu1259-std,concepticon-1368,5.51,puusaʔ,bread,puusa?
+clics-doculect-54-365,macu1259-std,concepticon-224,5.58,aʔ,mortar,a?
+clics-doculect-54-366,macu1259-std,concepticon-225,5.59,aʔyainon,pestle,a?yainon
+clics-doculect-54-367,macu1259-std,concepticon-634,5.61,sararu,meat,sararu
+clics-doculect-54-368,macu1259-std,concepticon-1547,5.64,tuma,"soup, broth",tuma
+clics-doculect-54-369,macu1259-std,concepticon-832,5.66,maʔsari,bean,ma?sari
+clics-doculect-54-370,macu1259-std,concepticon-593,5.7,saʔ,potato,sa?
+clics-doculect-54-371,macu1259-std,concepticon-1507,5.71,yekkari,fruit,yekkari
+clics-doculect-54-372,macu1259-std,concepticon-323,5.791,kaiwan,"grease, fat",kaiwan
+clics-doculect-54-373,macu1259-std,concepticon-1274,5.81,pan,salt,pan
+clics-doculect-54-374,macu1259-std,concepticon-919,5.821,pimi,chili pepper,pimi
+clics-doculect-54-375,macu1259-std,concepticon-942,5.84,wan,honey,wan
+clics-doculect-54-376,macu1259-std,concepticon-862,5.85,aʔkiʔku,sugar,a?ki?ku
+clics-doculect-54-377,macu1259-std,concepticon-635,5.86,manatɨyekku,milk (noun),manatiyekku
+clics-doculect-54-378,macu1259-std,concepticon-731,5.9,uwuku,"beverage, drink",uwuku
+clics-doculect-54-379,macu1259-std,concepticon-731,5.9,woʔ,"beverage, drink",wo?
+clics-doculect-54-380,macu1259-std,concepticon-404,5.94,kasiri,fermented drink,kasiri
+clics-doculect-54-381,macu1259-std,concepticon-744,5.97,kariwanapɨmoi,egg,kariwanapimoi
+clics-doculect-54-382,macu1259-std,concepticon-158,6.11,yakaʔma,put on (clothes),yaka?ma
+clics-doculect-54-383,macu1259-std,concepticon-1895,6.12,pon,"clothing, clothes",pon
+clics-doculect-54-384,macu1259-std,concepticon-1616,6.21,yaʔsan,cloth,ya?san
+clics-doculect-54-385,macu1259-std,concepticon-1850,6.24,kotoʔka,cotton,koto?ka
+clics-doculect-54-386,macu1259-std,concepticon-629,6.29,piʔpɨ,leather,pi?pi
+clics-doculect-54-387,macu1259-std,concepticon-121,6.31,yeʔpɨsɨ,spin,ye?pisi
+clics-doculect-54-388,macu1259-std,concepticon-277,6.32,perepi,spindle,perepi
+clics-doculect-54-389,macu1259-std,concepticon-133,6.33,kaneʔtɨ,weave,kane?ti
+clics-doculect-54-390,macu1259-std,concepticon-1457,6.35,siʔpɨmɨ,sew,si?pimi
+clics-doculect-54-391,macu1259-std,concepticon-474,6.42,pon,woman's dress,pon
+clics-doculect-54-392,macu1259-std,concepticon-1622,6.44,inpaipon,shirt,inpaipon
+clics-doculect-54-393,macu1259-std,concepticon-2012,6.45,uponpɨmɨ,collar,uponpimi
+clics-doculect-54-394,macu1259-std,concepticon-1600,6.46,uri,skirt,uri
+clics-doculect-54-395,macu1259-std,concepticon-809,6.48,surura,trousers,surura
+clics-doculect-54-396,macu1259-std,concepticon-1381,6.51,pisaʔsaʔ,shoe,pisa?sa?
+clics-doculect-54-397,macu1259-std,concepticon-2130,6.55,aroʔ,"hat, cap",aro?
+clics-doculect-54-398,macu1259-std,concepticon-772,6.57,iworomɨ,"belt, girdle",iworomi
+clics-doculect-54-399,macu1259-std,concepticon-1851,6.61,unen,pocket,unen
+clics-doculect-54-400,macu1259-std,concepticon-917,6.71,yariʔku,"ornament, adornment",yari?ku
+clics-doculect-54-401,macu1259-std,concepticon-1961,6.75,moʔmoʔ,necklace,mo?mo?
+clics-doculect-54-402,macu1259-std,concepticon-1860,6.76,kaʔsiru,bead,ka?siru
+clics-doculect-54-403,macu1259-std,concepticon-1475,6.91,saraisarai,comb,saraisarai
+clics-doculect-54-404,macu1259-std,concepticon-1171,6.96,wanamari,mirror,wanamari
+clics-doculect-54-405,macu1259-std,concepticon-363,7.11,koʔmamɨ,"dwell, live",ko?mami
+clics-doculect-54-406,macu1259-std,concepticon-1252,7.12,wɨttɨ,house,witti
+clics-doculect-54-407,macu1259-std,concepticon-1316,7.14,tappɨi,tent,tappii
+clics-doculect-54-408,macu1259-std,concepticon-736,7.15,poroiʔpɨ,"yard, court",poroi?pi
+clics-doculect-54-409,macu1259-std,concepticon-1567,7.22,manaʔta,"door, gate",mana?ta
+clics-doculect-54-410,macu1259-std,concepticon-1472,7.24,manaʔta,key,mana?ta
+clics-doculect-54-411,macu1259-std,concepticon-1632,7.26,wɨttɨroʔta,floor,wittiro?ta
+clics-doculect-54-412,macu1259-std,concepticon-1663,7.42,atta,bed,atta
+clics-doculect-54-413,macu1259-std,concepticon-1663,7.42,yetteʔ,bed,yette?
+clics-doculect-54-414,macu1259-std,concepticon-1476,7.43,aponoʔ,chair,apono?
+clics-doculect-54-415,macu1259-std,concepticon-769,7.51,wɨttɨnekata,roof,wittinekata
+clics-doculect-54-416,macu1259-std,concepticon-279,7.52,kuwaiyare,thatch,kuwaiyare
+clics-doculect-54-417,macu1259-std,concepticon-280,7.53,wɨttɨnekatayawɨron,ridgepole,wittinekatayawiron
+clics-doculect-54-418,macu1259-std,concepticon-829,7.54,wɨttɨyara,rafter,wittiyara
+clics-doculect-54-419,macu1259-std,concepticon-1132,7.55,pakɨʔnan,beam,paki?nan
+clics-doculect-54-420,macu1259-std,concepticon-281,7.56,yei,"post, pole",yei
+clics-doculect-54-421,macu1259-std,concepticon-1006,7.62,nonkuʔsaʔ,brick,nonku?sa?
+clics-doculect-54-422,macu1259-std,concepticon-901,7.64,nonkuʔsaʔ,adobe,nonku?sa?
+clics-doculect-54-423,macu1259-std,concepticon-212,8.12,mɨɨ,field (for cultivation),mii
+clics-doculect-54-424,macu1259-std,concepticon-1541,8.15,naa,"cultivate, till",naa
+clics-doculect-54-425,macu1259-std,concepticon-1690,8.16,iwaʔtoʔ,fence,iwa?to?
+clics-doculect-54-426,macu1259-std,concepticon-1418,8.22,yaka,dig,yaka
+clics-doculect-54-427,macu1259-std,concepticon-1176,8.23,yakatoʔ,spade,yakato?
+clics-doculect-54-428,macu1259-std,concepticon-1901,8.24,yakatoʔ,shovel,yakato?
+clics-doculect-54-429,macu1259-std,concepticon-284,8.25,sanpa,hoe,sanpa
+clics-doculect-54-430,macu1259-std,concepticon-1351,8.31,pɨmɨ,sow,pimi
+clics-doculect-54-431,macu1259-std,concepticon-714,8.311,enaʔpɨ,seed,ena?pi
+clics-doculect-54-432,macu1259-std,concepticon-506,8.47,aʔnai,"maize, corn",a?nai
+clics-doculect-54-433,macu1259-std,concepticon-606,8.51,wanaʔ,grass,wana?
+clics-doculect-54-434,macu1259-std,concepticon-606,8.51,parɨʔ,grass,pari?
+clics-doculect-54-435,macu1259-std,concepticon-653,8.53,yeʔ,plant (noun),ye?
+clics-doculect-54-436,macu1259-std,concepticon-1486,8.531,pɨmɨ,plant (vb),pimi
+clics-doculect-54-437,macu1259-std,concepticon-670,8.54,kara,root,kara
+clics-doculect-54-438,macu1259-std,concepticon-1531,8.55,panta,branch,panta
+clics-doculect-54-439,macu1259-std,concepticon-628,8.56,yare,leaf,yare
+clics-doculect-54-440,macu1259-std,concepticon-239,8.57,yariʔku,flower,yari?ku
+clics-doculect-54-441,macu1259-std,concepticon-906,8.6,yei,tree,yei
+clics-doculect-54-442,macu1259-std,concepticon-343,8.67,siʔna,vine,si?na
+clics-doculect-54-443,macu1259-std,concepticon-974,8.68,kawai,tobacco,kawai
+clics-doculect-54-444,macu1259-std,concepticon-1689,8.69,kawaiwereʔtɨ,smoke (tobacco),kawaiwere?ti
+clics-doculect-54-445,macu1259-std,concepticon-241,8.72,prakon,tree stump,prakon
+clics-doculect-54-446,macu1259-std,concepticon-344,8.73,yeiurupukon,tree trunk,yeiurupukon
+clics-doculect-54-447,macu1259-std,concepticon-409,8.74,yeipanta,forked branch,yeipanta
+clics-doculect-54-448,macu1259-std,concepticon-1204,8.75,yeipiʔpɨ,bark,yeipi?pi
+clics-doculect-54-449,macu1259-std,concepticon-345,8.76,yekku,sap,yekku
+clics-doculect-54-450,macu1259-std,concepticon-868,8.84,paruruyeʔ,banana tree,paruruye?
+clics-doculect-54-451,macu1259-std,concepticon-159,8.91,saʔ,sweet potato,sa?
+clics-doculect-54-452,macu1259-std,concepticon-925,8.92,imu,"tapioca, manioc, cassava",imu
+clics-doculect-54-453,macu1259-std,concepticon-925,8.92,kɨse,"tapioca, manioc, cassava",kise
+clics-doculect-54-454,macu1259-std,concepticon-411,8.93,maʔ,gourd,ma?
+clics-doculect-54-455,macu1259-std,concepticon-864,8.931,kaiyuma,"pumpkin, squash",kaiyuma
+clics-doculect-54-456,macu1259-std,concepticon-146,8.941,kaiwaraku,sugar cane,kaiwaraku
+clics-doculect-54-457,macu1259-std,concepticon-348,8.96,aya,fish poison (root),aya
+clics-doculect-54-458,macu1259-std,concepticon-641,8.98,yeipana,mushroom,yeipana
+clics-doculect-54-459,macu1259-std,concepticon-641,8.98,nonpana,mushroom,nonpana
+clics-doculect-54-460,macu1259-std,concepticon-2575,9.11,kupɨ,"do, make",kupi
+clics-doculect-54-461,macu1259-std,concepticon-2575,9.11,koneka,"do, make",koneka
+clics-doculect-54-462,macu1259-std,concepticon-984,9.12,esenyakaʔma,work,esenyaka?ma
+clics-doculect-54-463,macu1259-std,concepticon-2004,9.14,yeiʔme,bend,yei?me
+clics-doculect-54-464,macu1259-std,concepticon-1470,9.15,yeiʔme,fold,yei?me
+clics-doculect-54-465,macu1259-std,concepticon-1917,9.16,yewaʔtɨ,"tie, bind",yewa?ti
+clics-doculect-54-466,macu1259-std,concepticon-352,9.161,yeuka,untie,yeuka
+clics-doculect-54-467,macu1259-std,concepticon-1218,9.19,eʔseusa,"rope, cord",e?seusa
+clics-doculect-54-468,macu1259-std,concepticon-760,9.192,yeuronsaʔ,knot (noun),yeuronsa?
+clics-doculect-54-469,macu1259-std,concepticon-2133,9.21,paʔtɨ,"strike (hit, beat)",pa?ti
+clics-doculect-54-470,macu1259-std,concepticon-1432,9.22,yaʔtɨ,cut,ya?ti
+clics-doculect-54-471,macu1259-std,concepticon-355,9.221,yaʔtɨuyaeesenuntoʔpe,cut down,ya?tiuyaeesenunto?pe
+clics-doculect-54-472,macu1259-std,concepticon-1434,9.223,yasoʔka,stab,yaso?ka
+clics-doculect-54-473,macu1259-std,concepticon-1352,9.23,taura,knife,taura
+clics-doculect-54-474,macu1259-std,concepticon-356,9.24,sakɨi,"scissors, shears",sakii
+clics-doculect-54-475,macu1259-std,concepticon-677,9.25,waʔka,ax,wa?ka
+clics-doculect-54-476,macu1259-std,concepticon-680,9.26,yaʔmorikka,break,ya?morikka
+clics-doculect-54-477,macu1259-std,concepticon-588,9.261,yaʔmorikkasaʔ,broken,ya?morikkasa?
+clics-doculect-54-478,macu1259-std,concepticon-1437,9.27,yaʔmorikka,split,ya?morikka
+clics-doculect-54-479,macu1259-std,concepticon-1735,9.28,karaka,tear,karaka
+clics-doculect-54-480,macu1259-std,concepticon-291,9.29,piʔka,"flay, skin",pi?ka
+clics-doculect-54-481,macu1259-std,concepticon-214,9.32,kuʔna,stretch,ku?na
+clics-doculect-54-482,macu1259-std,concepticon-1455,9.33,kuʔna,pull,ku?na
+clics-doculect-54-483,macu1259-std,concepticon-38,9.34,pareppɨka,spread out,pareppika
+clics-doculect-54-484,macu1259-std,concepticon-357,9.341,miʔka,hang up,mi?ka
+clics-doculect-54-485,macu1259-std,concepticon-1414,9.343,suʔka,"squeeze, wring",su?ka
+clics-doculect-54-486,macu1259-std,concepticon-1487,9.35,etiʔkamo,pour,eti?kamo
+clics-doculect-54-487,macu1259-std,concepticon-1453,9.36,rona,wash,rona
+clics-doculect-54-488,macu1259-std,concepticon-230,9.37,kuima,sweep,kuima
+clics-doculect-54-489,macu1259-std,concepticon-245,9.38,tuʔtɨmai,broom,tu?timai
+clics-doculect-54-490,macu1259-std,concepticon-1840,9.44,wɨttɨemɨʔsaʔkauya,build,wittiemi?sa?kauya
+clics-doculect-54-491,macu1259-std,concepticon-1501,9.46,yeiyaʔpo,bore,yeiya?po
+clics-doculect-54-492,macu1259-std,concepticon-46,9.461,yeiyaka,hollow out,yeiyaka
+clics-doculect-54-493,macu1259-std,concepticon-1948,9.48,yeisaraʔma,saw,yeisara?ma
+clics-doculect-54-494,macu1259-std,concepticon-502,9.5,yeipokatoʔ,nail,yeipokato?
+clics-doculect-54-495,macu1259-std,concepticon-1069,9.56,kaaretayapiʔtoʔ,glue,kaaretayapi?to?
+clics-doculect-54-496,macu1259-std,concepticon-359,9.71,ɨinɨkaʔnen,potter,iinika?nen
+clics-doculect-54-497,macu1259-std,concepticon-289,9.72,ɨinɨyeʔkapɨuya,mold (clay etc),iiniye?kapiuya
+clics-doculect-54-498,macu1259-std,concepticon-604,9.74,pattɨre,glass,pattire
+clics-doculect-54-499,macu1259-std,concepticon-1539,9.76,waikaraʔpɨ,basket,waikara?pi
+clics-doculect-54-500,macu1259-std,concepticon-195,9.77,sunpa,mat,sunpa
+clics-doculect-54-501,macu1259-std,concepticon-195,9.77,upa,mat,upa
+clics-doculect-54-502,macu1259-std,concepticon-1971,9.79,wɨriwo,fan (noun),wiriwo
+clics-doculect-54-503,macu1259-std,concepticon-360,9.791,yaʔseʔma,fan (vb),ya?se?ma
+clics-doculect-54-504,macu1259-std,concepticon-228,9.81,yeiyaraʔka,carve,yeiyara?ka
+clics-doculect-54-505,macu1259-std,concepticon-2001,9.89,kɨʔpa,paint (vb),ki?pa
+clics-doculect-54-506,macu1259-std,concepticon-765,10.11,moʔta,move,mo?ta
+clics-doculect-54-507,macu1259-std,concepticon-1588,10.12,eraʔtɨ,turn over,era?ti
+clics-doculect-54-508,macu1259-std,concepticon-1445,10.13,ennaʔpo,turn around,enna?po
+clics-doculect-54-509,macu1259-std,concepticon-1113,10.14,yaʔsantɨ,"wind, wrap",ya?santi
+clics-doculect-54-510,macu1259-std,concepticon-827,10.15,perema,roll,perema
+clics-doculect-54-511,macu1259-std,concepticon-808,10.16,maa,drop (vb),maa
+clics-doculect-54-512,macu1259-std,concepticon-430,10.17,sekesekema,twist,sekesekema
+clics-doculect-54-513,macu1259-std,concepticon-568,10.21,eʔmɨʔsaʔka,rise,e?mi?sa?ka
+clics-doculect-54-514,macu1259-std,concepticon-501,10.22,pɨmɨʔsaʔka,"raise, lift",pimi?sa?ka
+clics-doculect-54-515,macu1259-std,concepticon-1280,10.23,enaʔpɨ,fall,ena?pi
+clics-doculect-54-516,macu1259-std,concepticon-2253,10.24,aʔtesuʔka,drip,a?tesu?ka
+clics-doculect-54-517,macu1259-std,concepticon-1456,10.25,yenumɨ,throw,yenumi
+clics-doculect-54-518,macu1259-std,concepticon-702,10.252,yapiʔsɨ,catch (ball),yapi?si
+clics-doculect-54-519,macu1259-std,concepticon-1909,10.26,tuʔma,shake,tu?ma
+clics-doculect-54-520,macu1259-std,concepticon-1088,10.33,eseronka,sink,eseronka
+clics-doculect-54-521,macu1259-std,concepticon-1574,10.34,merenkatɨ,float,merenkati
+clics-doculect-54-522,macu1259-std,concepticon-1439,10.35,upɨnɨnu,swim,upininu
+clics-doculect-54-523,macu1259-std,concepticon-119,10.351,arapumɨtunaka,dive,arapumitunaka
+clics-doculect-54-524,macu1259-std,concepticon-365,10.352,tunaarapumɨupona,splash,tunaarapumiupona
+clics-doculect-54-525,macu1259-std,concepticon-1441,10.37,awainamu,fly (vb),awainamu
+clics-doculect-54-526,macu1259-std,concepticon-175,10.38,pumɨ,blow,pumi
+clics-doculect-54-527,macu1259-std,concepticon-96,10.41,eʔworoʔka,"creep, crawl",e?woro?ka
+clics-doculect-54-528,macu1259-std,concepticon-66,10.412,aweʔsɨkunka,kneel,awe?sikunka
+clics-doculect-54-529,macu1259-std,concepticon-296,10.413,eʔtamɨikasaʔ,crouch,e?tamiikasa?
+clics-doculect-54-530,macu1259-std,concepticon-1324,10.42,aweʔtaraikasaʔ,"slide, slip",awe?taraikasa?
+clics-doculect-54-531,macu1259-std,concepticon-1829,10.43,arapumɨ,"jump, leap",arapumi
+clics-doculect-54-532,macu1259-std,concepticon-1135,10.431,tukka,kick,tukka
+clics-doculect-54-533,macu1259-std,concepticon-1879,10.44,mananu,dance,mananu
+clics-doculect-54-534,macu1259-std,concepticon-1443,10.45,asarɨ,walk,asari
+clics-doculect-54-535,macu1259-std,concepticon-366,10.451,tɨkɨipeattɨ,limp,tikiipeatti
+clics-doculect-54-536,macu1259-std,concepticon-1519,10.46,ekaʔtumɨ,run,eka?tumi
+clics-doculect-54-537,macu1259-std,concepticon-695,10.47,wɨtɨ,go,witi
+clics-doculect-54-538,macu1259-std,concepticon-705,10.471,enuku,go up,enuku
+clics-doculect-54-539,macu1259-std,concepticon-1102,10.472,enuku,climb,enuku
+clics-doculect-54-540,macu1259-std,concepticon-2014,10.473,autɨ,go down,auti
+clics-doculect-54-541,macu1259-std,concepticon-1107,10.474,epaʔka,go out,epa?ka
+clics-doculect-54-542,macu1259-std,concepticon-1446,10.48,iipɨ,come,iipi
+clics-doculect-54-543,macu1259-std,concepticon-581,10.481,ennaʔpo,come back,enna?po
+clics-doculect-54-544,macu1259-std,concepticon-1752,10.49,epaʔka,"go away, depart",epa?ka
+clics-doculect-54-545,macu1259-std,concepticon-485,10.491,eesenomɨ,disappear,eesenomi
+clics-doculect-54-546,macu1259-std,concepticon-956,10.51,eepe,flee,eepe
+clics-doculect-54-547,macu1259-std,concepticon-1085,10.52,wenaimɨ,follow,wenaimi
+clics-doculect-54-548,macu1259-std,concepticon-1047,10.53,yuwaiattɨ,pursue,yuwaiatti
+clics-doculect-54-549,macu1259-std,concepticon-1387,10.55,erepamɨ,"reach, arrive",erepami
+clics-doculect-54-550,macu1259-std,concepticon-1778,10.56,yeporɨ,approach,yepori
+clics-doculect-54-551,macu1259-std,concepticon-749,10.57,ewomɨ,enter,ewomi
+clics-doculect-54-552,macu1259-std,concepticon-700,10.61,yarɨ,carry (bear),yari
+clics-doculect-54-553,macu1259-std,concepticon-412,10.612,uyenyayaʔyarɨ,carry-in-hand,uyenyaya?yari
+clics-doculect-54-554,macu1259-std,concepticon-413,10.613,umotapoyarɨ,carry-on-shoulder,umotapoyari
+clics-doculect-54-555,macu1259-std,concepticon-414,10.614,upuʔpaipoyarɨ,carry-on-head,upu?paipoyari
+clics-doculect-54-556,macu1259-std,concepticon-415,10.615,uyewaʔtanayarɨ,carry-underarm,uyewa?tanayari
+clics-doculect-54-557,macu1259-std,concepticon-692,10.62,enepɨ,bring,enepi
+clics-doculect-54-558,macu1259-std,concepticon-1127,10.63,yarima,send,yarima
+clics-doculect-54-559,macu1259-std,concepticon-43,10.64,pinunpa,lead (vb),pinunpa
+clics-doculect-54-560,macu1259-std,concepticon-1452,10.67,tukka,"push, shove",tukka
+clics-doculect-54-561,macu1259-std,concepticon-667,10.71,eʔma,road,e?ma
+clics-doculect-54-562,macu1259-std,concepticon-2252,10.72,eʔma,path,e?ma
+clics-doculect-54-563,macu1259-std,concepticon-1011,10.74,miyeʔ,bridge,miye?
+clics-doculect-54-564,macu1259-std,concepticon-122,10.75,tararan,"carriage, wagon, cart",tararan
+clics-doculect-54-565,macu1259-std,concepticon-710,10.76,tararanpisaʔsaʔ,wheel,tararanpisa?sa?
+clics-doculect-54-566,macu1259-std,concepticon-740,10.81,apoʔyen,ship,apo?yen
+clics-doculect-54-567,macu1259-std,concepticon-1970,10.831,kanau,canoe,kanau
+clics-doculect-54-568,macu1259-std,concepticon-234,10.851,naire,paddle (noun),naire
+clics-doculect-54-569,macu1259-std,concepticon-1849,10.852,kuru,row (vb),kuru
+clics-doculect-54-570,macu1259-std,concepticon-773,11.11,moronaiaapia,have,moronaiaapia
+clics-doculect-54-571,macu1259-std,concepticon-1749,11.13,moʔka,take,mo?ka
+clics-doculect-54-572,macu1259-std,concepticon-2021,11.14,yapiʔsɨ,"seize, grasp",yapi?si
+clics-doculect-54-573,macu1259-std,concepticon-694,11.16,eraʔma,"get, obtain",era?ma
+clics-doculect-54-574,macu1259-std,concepticon-1477,11.17,koʔmamɨ,"keep, retain",ko?mami
+clics-doculect-54-575,macu1259-std,concepticon-738,11.18,yemane,thing,yemane
+clics-doculect-54-576,macu1259-std,concepticon-1447,11.21,tɨrɨ,give,tiri
+clics-doculect-54-577,macu1259-std,concepticon-85,11.22,innaʔpo,give back,inna?po
+clics-doculect-54-578,macu1259-std,concepticon-1997,11.24,koneka,"preserve, look after",koneka
+clics-doculect-54-579,macu1259-std,concepticon-2008,11.25,pɨikaʔtɨ,"save, rescue",piika?ti
+clics-doculect-54-580,macu1259-std,concepticon-44,11.28,maʔta,"harm, injure, damage",ma?ta
+clics-doculect-54-581,macu1259-std,concepticon-1468,11.31,yuwa,"seek, look for",yuwa
+clics-doculect-54-582,macu1259-std,concepticon-719,11.32,eporɨ,find,epori
+clics-doculect-54-583,macu1259-std,concepticon-1660,11.33,yakaʔma,lose,yaka?ma
+clics-doculect-54-584,macu1259-std,concepticon-1095,11.34,rumaka,"release, let go",rumaka
+clics-doculect-54-585,macu1259-std,concepticon-712,11.51,ipɨkku,rich,ipikku
+clics-doculect-54-586,macu1259-std,concepticon-1674,11.52,ɨʔtonpɨn,poor,i?tonpin
+clics-doculect-54-587,macu1259-std,concepticon-1774,11.54,anne,"avaricious, stingy",anne
+clics-doculect-54-588,macu1259-std,concepticon-369,11.63,ipeʔmara,owe,ipe?mara
+clics-doculect-54-589,macu1259-std,concepticon-1914,11.64,ipeʔmara,debt,ipe?mara
+clics-doculect-54-590,macu1259-std,concepticon-718,11.65,yeʔma,pay (vb),ye?ma
+clics-doculect-54-591,macu1259-std,concepticon-1869,11.81,yenna,buy,yenna
+clics-doculect-54-592,macu1259-std,concepticon-1571,11.82,siranma,sell,siranma
+clics-doculect-54-593,macu1259-std,concepticon-2135,11.83,puana,"trade, barter",puana
+clics-doculect-54-594,macu1259-std,concepticon-657,11.87,itepe,price,itepe
+clics-doculect-54-595,macu1259-std,concepticon-1426,11.88,ipeʔke,"dear (costly, expensive)",ipe?ke
+clics-doculect-54-596,macu1259-std,concepticon-1887,11.89,ipeʔmara,cheap,ipe?mara
+clics-doculect-54-597,macu1259-std,concepticon-884,11.91,tɨrɨ,share (distribute),tiri
+clics-doculect-54-598,macu1259-std,concepticon-1098,11.92,kuʔneʔtɨ,weigh,ku?ne?ti
+clics-doculect-54-599,macu1259-std,concepticon-1685,12.1,tɨpo,after,tipo
+clics-doculect-54-600,macu1259-std,concepticon-723,12.11,iteʔmaʔpɨ,place,ite?ma?pi
+clics-doculect-54-601,macu1259-std,concepticon-1816,12.2,pia,beside,pia
+clics-doculect-54-602,macu1259-std,concepticon-2094,12.3,yepoi,"down, below",yepoi
+clics-doculect-54-603,macu1259-std,concepticon-1882,12.4,arape,before,arape
+clics-doculect-54-604,macu1259-std,concepticon-1882,12.4,irawɨrɨ,before,irawiri
+clics-doculect-54-605,macu1259-std,concepticon-1019,12.41,wɨttɨyenpata,right (side),wittiyenpata
+clics-doculect-54-606,macu1259-std,concepticon-1606,12.5,ya,"inside, in",ya
+clics-doculect-54-607,macu1259-std,concepticon-762,12.6,poropo,outside,poropo
+clics-doculect-54-608,macu1259-std,concepticon-1485,12.7,yoʔko,under,yo?ko
+clics-doculect-54-609,macu1259-std,concepticon-1591,12.8,yepoi,"up, above",yepoi
+clics-doculect-54-610,macu1259-std,concepticon-1591,12.8,pairɨ,"up, above",pairi
+clics-doculect-54-611,macu1259-std,concepticon-723,12.11,pata,place,pata
+clics-doculect-54-612,macu1259-std,concepticon-998,12.12,tɨrɨ,put,tiri
+clics-doculect-54-613,macu1259-std,concepticon-1416,12.13,ereuta,sit,ereuta
+clics-doculect-54-614,macu1259-std,concepticon-215,12.14,aittun,lie down,aittun
+clics-doculect-54-615,macu1259-std,concepticon-1442,12.15,sattipe,stand,sattipe
+clics-doculect-54-616,macu1259-std,concepticon-987,12.16,koʔmamɨ,"remain, stay",ko?mami
+clics-doculect-54-617,macu1259-std,concepticon-838,12.17,itonparɨʔpɨ,"remains, left overs",itonpari?pi
+clics-doculect-54-618,macu1259-std,concepticon-7,12.21,perepɨ,"collect, gather",perepi
+clics-doculect-54-619,macu1259-std,concepticon-371,12.212,yanumɨ,pick up,yanumi
+clics-doculect-54-620,macu1259-std,concepticon-1119,12.232,pantaka,divide,pantaka
+clics-doculect-54-621,macu1259-std,concepticon-1156,12.24,atarakamɨka,open,atarakamika
+clics-doculect-54-622,macu1259-std,concepticon-1046,12.25,atarakamɨ,"shut, close",atarakami
+clics-doculect-54-623,macu1259-std,concepticon-761,12.26,yettapurɨ,cover,yettapuri
+clics-doculect-54-624,macu1259-std,concepticon-602,12.27,esonomɨ,"hide, conceal",esonomi
+clics-doculect-54-625,macu1259-std,concepticon-1265,12.31,kawɨne,high,kawine
+clics-doculect-54-626,macu1259-std,concepticon-721,12.32,nonporo,low,nonporo
+clics-doculect-54-627,macu1259-std,concepticon-1753,12.33,ipona,top,ipona
+clics-doculect-54-628,macu1259-std,concepticon-690,12.34,panelamaikko,bottom,panelamaikko
+clics-doculect-54-629,macu1259-std,concepticon-742,12.35,ikɨnɨʔpɨ,end,ikini?pi
+clics-doculect-54-630,macu1259-std,concepticon-863,12.353,ena,edge,ena
+clics-doculect-54-631,macu1259-std,concepticon-682,12.36,iratai,side,iratai
+clics-doculect-54-632,macu1259-std,concepticon-1093,12.37,arakkita,"middle, center",arakkita
+clics-doculect-54-633,macu1259-std,concepticon-1019,12.41,maiwinɨkɨi,right (side),maiwinikii
+clics-doculect-54-634,macu1259-std,concepticon-244,12.42,kaiwinɨkɨi,left (side),kaiwinikii
+clics-doculect-54-635,macu1259-std,concepticon-1942,12.43,aminkepra,near (adv),aminkepra
+clics-doculect-54-636,macu1259-std,concepticon-1406,12.44,aminke,far (adv),aminke
+clics-doculect-54-637,macu1259-std,concepticon-1877,12.45,weiepaʔkawinɨ,east,weiepa?kawini
+clics-doculect-54-638,macu1259-std,concepticon-1817,12.46,weiewomɨwinɨ,west,weiewomiwini
+clics-doculect-54-639,macu1259-std,concepticon-479,12.53,akɨpɨ,grow,akipi
+clics-doculect-54-640,macu1259-std,concepticon-479,12.53,arenta,grow,arenta
+clics-doculect-54-641,macu1259-std,concepticon-1506,12.54,kuʔneʔtɨ,measure,ku?ne?ti
+clics-doculect-54-642,macu1259-std,concepticon-1202,12.55,kureʔne,"large, big",kure?ne
+clics-doculect-54-643,macu1259-std,concepticon-1246,12.56,siʔmɨrikkɨ,"small, little",si?mirikki
+clics-doculect-54-644,macu1259-std,concepticon-1203,12.57,kusan,long,kusan
+clics-doculect-54-645,macu1259-std,concepticon-711,12.58,kusan,tall,kusan
+clics-doculect-54-646,macu1259-std,concepticon-1645,12.59,piaʔmɨtɨ,short,pia?miti
+clics-doculect-54-647,macu1259-std,concepticon-1243,12.61,iwene,"wide, broad",iwene
+clics-doculect-54-648,macu1259-std,concepticon-1267,12.62,tuʔnakan,narrow,tu?nakan
+clics-doculect-54-649,macu1259-std,concepticon-1244,12.63,ereʔsin,thick (in dimension),ere?sin
+clics-doculect-54-650,macu1259-std,concepticon-2249,12.65,siiriru,thin (in dimension),siiriru
+clics-doculect-54-651,macu1259-std,concepticon-1593,12.67,mairon,deep,mairon
+clics-doculect-54-652,macu1259-std,concepticon-193,12.68,arenpuru,shallow,arenpuru
+clics-doculect-54-653,macu1259-std,concepticon-1404,12.73,awemɨn,straight,awemin
+clics-doculect-54-654,macu1259-std,concepticon-1404,12.73,toʔsarɨ,straight,to?sari
+clics-doculect-54-655,macu1259-std,concepticon-297,12.74,weyepan,crooked,weyepan
+clics-doculect-54-656,macu1259-std,concepticon-1071,12.75,iteʔna,hook,ite?na
+clics-doculect-54-657,macu1259-std,concepticon-192,12.76,akoʔtɨnaʔ,corner,ako?tina?
+clics-doculect-54-658,macu1259-std,concepticon-1367,12.77,pakɨʔnan,cross,paki?nan
+clics-doculect-54-659,macu1259-std,concepticon-1395,12.81,amokoʔwarɨ,round,amoko?wari
+clics-doculect-54-660,macu1259-std,concepticon-1467,12.82,amokoʔwarɨ,circle,amoko?wari
+clics-doculect-54-661,macu1259-std,concepticon-1845,12.83,amokoʔwarɨ,"sphere, ball",amoko?wari
+clics-doculect-54-662,macu1259-std,concepticon-1048,12.84,katɨn,line,katin
+clics-doculect-54-663,macu1259-std,concepticon-1667,12.85,aʔta,hole,a?ta
+clics-doculect-54-664,macu1259-std,concepticon-1558,12.92,warantɨ,"like, similar",waranti
+clics-doculect-54-665,macu1259-std,concepticon-1264,12.93,miaʔka,change,mia?ka
+clics-doculect-54-666,macu1259-std,concepticon-1294,13.0,ɨʔtonpɨn,"zero, nothing",i?tonpin
+clics-doculect-54-667,macu1259-std,concepticon-1493,13.1,tiwin,one,tiwin
+clics-doculect-54-668,macu1259-std,concepticon-1498,13.2,asakɨʔne,two,asaki?ne
+clics-doculect-54-669,macu1259-std,concepticon-492,13.3,eseurɨwɨʔne,three,eseuriwi?ne
+clics-doculect-54-670,macu1259-std,concepticon-1500,13.4,saakɨrɨrɨ,four,saakiriri
+clics-doculect-54-671,macu1259-std,concepticon-493,13.5,miaʔtaikin,five,mia?taikin
+clics-doculect-54-672,macu1259-std,concepticon-1703,13.6,tiwinmiaʔponatɨɨmoʔtai,six,tiwinmia?ponatiimo?tai
+clics-doculect-54-673,macu1259-std,concepticon-1704,13.7,asakɨnemiaʔponatɨɨmoʔtai,seven,asakinemia?ponatiimo?tai
+clics-doculect-54-674,macu1259-std,concepticon-1705,13.8,eseurɨwɨʔnemiaʔponatɨɨmoʔtai,eight,eseuriwi?nemia?ponatiimo?tai
+clics-doculect-54-675,macu1259-std,concepticon-1483,13.9,saakɨrɨrɨmiaʔponatɨɨmoʔtai,nine,saakiririmia?ponatiimo?tai
+clics-doculect-54-676,macu1259-std,concepticon-1515,13.10,miaʔtamɨʔnawɨrɨ,ten,mia?tami?nawiri
+clics-doculect-54-677,macu1259-std,concepticon-1706,13.101,tiwinpuʔponatɨɨmoʔtai,eleven,tiwinpu?ponatiimo?tai
+clics-doculect-54-678,macu1259-std,concepticon-1707,13.102,asakɨʔnepuʔponatɨɨmoʔtai,twelve,asaki?nepu?ponatiimo?tai
+clics-doculect-54-679,macu1259-std,concepticon-1710,13.104,tiwinpemonkon,twenty,tiwinpemonkon
+clics-doculect-54-680,macu1259-std,concepticon-1420,13.107,kuʔneʔtɨ,count,ku?ne?ti
+clics-doculect-54-681,macu1259-std,concepticon-98,13.14,tamɨʔnawɨrɨ,"every, all",tami?nawiri
+clics-doculect-54-682,macu1259-std,concepticon-1198,13.15,tuʔke,"much, many",tu?ke
+clics-doculect-54-683,macu1259-std,concepticon-1992,13.16,inɨʔ,more,ini?
+clics-doculect-54-684,macu1259-std,concepticon-1242,13.17,mararɨ,"little (quantity), few",marari
+clics-doculect-54-685,macu1259-std,concepticon-1881,13.18,aasɨrɨ,enough,aasiri
+clics-doculect-54-686,macu1259-std,concepticon-1241,13.181,tiaron,some,tiaron
+clics-doculect-54-687,macu1259-std,concepticon-2023,13.19,mararonkonpepɨn,"multitude, crowd",mararonkonpepin
+clics-doculect-54-688,macu1259-std,concepticon-1429,13.21,intapɨkɨrɨ,full,intapikiri
+clics-doculect-54-689,macu1259-std,concepticon-1624,13.22,itenpɨ,empty,itenpi
+clics-doculect-54-690,macu1259-std,concepticon-779,13.23,itonpa,"part, piece",itonpa
+clics-doculect-54-691,macu1259-std,concepticon-816,13.24,arakkitapairɨ,half,arakkitapairi
+clics-doculect-54-692,macu1259-std,concepticon-1580,13.33,tiwinsarɨ,"alone, only",tiwinsari
+clics-doculect-54-693,macu1259-std,concepticon-728,13.34,eʔmaiʔpe,first,e?mai?pe
+clics-doculect-54-694,macu1259-std,concepticon-1529,13.35,ikɨnɨʔpɨ,last,ikini?pi
+clics-doculect-54-695,macu1259-std,concepticon-1384,13.36,itonpape,second,itonpape
+clics-doculect-54-696,macu1259-std,concepticon-1888,13.37,saʔnɨrɨ,pair,sa?niri
+clics-doculect-54-697,macu1259-std,concepticon-1546,13.38,saʔteʔka,two times,sa?te?ka
+clics-doculect-54-698,macu1259-std,concepticon-1859,13.42,teeseurɨnon,third,teeseurinon
+clics-doculect-54-699,macu1259-std,concepticon-417,13.44,teeseurɨʔneiteʔka,three times,teeseuri?neite?ka
+clics-doculect-54-700,macu1259-std,concepticon-892,14.11,pensa,time,pensa
+clics-doculect-54-701,macu1259-std,concepticon-1789,14.12,ikonopo,age,ikonopo
+clics-doculect-54-702,macu1259-std,concepticon-1231,14.13,amenan,new,amenan
+clics-doculect-54-703,macu1259-std,concepticon-1207,14.14,maasaron,young,maasaron
+clics-doculect-54-704,macu1259-std,concepticon-1229,14.15,penaroʔ,old,penaro?
+clics-doculect-54-705,macu1259-std,concepticon-672,14.16,penanepuʔkuru,early,penanepu?kuru
+clics-doculect-54-706,macu1259-std,concepticon-477,14.17,tɨɨkoʔmanpe,late,tiiko?manpe
+clics-doculect-54-707,macu1259-std,concepticon-1376,14.18,sɨrɨrɨ,now,siriri
+clics-doculect-54-708,macu1259-std,concepticon-1963,14.19,tiwinarɨ,immediately,tiwinari
+clics-doculect-54-709,macu1259-std,concepticon-1631,14.21,kaʔneʔpe,"swift, fast, quick",ka?ne?pe
+clics-doculect-54-710,macu1259-std,concepticon-701,14.22,tɨnɨnpɨʔ,slow,tininpi?
+clics-doculect-54-711,macu1259-std,concepticon-754,14.23,teesemiʔtɨpai,"hasten, hurry",teesemi?tipai
+clics-doculect-54-712,macu1259-std,concepticon-425,14.24,maasa,"retard, delay",maasa
+clics-doculect-54-713,macu1259-std,concepticon-1806,14.25,piaʔtɨ,"begin, beginning",pia?ti
+clics-doculect-54-714,macu1259-std,concepticon-743,14.26,ikɨnɨʔpɨ,end (temporal),ikini?pi
+clics-doculect-54-715,macu1259-std,concepticon-1766,14.27,aretɨʔka,finish,areti?ka
+clics-doculect-54-716,macu1259-std,concepticon-1928,14.28,emɨʔpamɨ,"cease, stop",emi?pami
+clics-doculect-54-717,macu1259-std,concepticon-790,14.29,aasɨrɨ,ready,aasiri
+clics-doculect-54-718,macu1259-std,concepticon-1676,14.31,tɨwɨrɨ,always,tiwiri
+clics-doculect-54-719,macu1259-std,concepticon-1852,14.32,ikoʔnoro,often,iko?noro
+clics-doculect-54-720,macu1259-std,concepticon-1544,14.33,tiaronpensa,sometimes,tiaronpensa
+clics-doculect-54-721,macu1259-std,concepticon-703,14.331,o,soon,o
+clics-doculect-54-722,macu1259-std,concepticon-1656,14.34,tiwinken,never,tiwinken
+clics-doculect-54-723,macu1259-std,concepticon-204,14.35,inɨʔrɨ,again,ini?ri
+clics-doculect-54-724,macu1259-std,concepticon-1225,14.41,wei,day,wei
+clics-doculect-54-725,macu1259-std,concepticon-1233,14.42,ewaron,night,ewaron
+clics-doculect-54-726,macu1259-std,concepticon-729,14.43,erenmapɨ,dawn,erenmapi
+clics-doculect-54-727,macu1259-std,concepticon-1339,14.44,penanepuʔkuru,morning,penanepu?kuru
+clics-doculect-54-728,macu1259-std,concepticon-12,14.45,nekatapairɨweitɨɨse,"noon, midday",nekatapairiweitiise
+clics-doculect-54-729,macu1259-std,concepticon-1807,14.451,koʔmamɨiya,afternoon,ko?mamiiya
+clics-doculect-54-730,macu1259-std,concepticon-1283,14.47,sɨrɨrɨpe,today,siriripe
+clics-doculect-54-731,macu1259-std,concepticon-1329,14.48,penane,tomorrow,penane
+clics-doculect-54-732,macu1259-std,concepticon-1179,14.481,penanetɨɨkoʔmanse,day-after-tomorrow,penanetiiko?manse
+clics-doculect-54-733,macu1259-std,concepticon-1174,14.49,koʔmanpra,yesterday,ko?manpra
+clics-doculect-54-734,macu1259-std,concepticon-1180,14.491,minikoʔmanpra,day-before-yesterday,miniko?manpra
+clics-doculect-54-735,macu1259-std,concepticon-1469,14.61,tiwinsuntaka,week,tiwinsuntaka
+clics-doculect-54-736,macu1259-std,concepticon-1370,14.71,kapoi,month,kapoi
+clics-doculect-54-737,macu1259-std,concepticon-1226,14.73,konoʔ,year,kono?
+clics-doculect-54-738,macu1259-std,concepticon-691,14.78,konoʔyai,season,kono?yai
+clics-doculect-54-739,macu1259-std,concepticon-691,14.78,weiyai,season,weiyai
+clics-doculect-54-740,macu1259-std,concepticon-1587,15.21,puʔnɨkɨ,smell (vb intrans),pu?niki
+clics-doculect-54-741,macu1259-std,concepticon-376,15.25,aʔposin,"fragrant, good smelling",a?posin
+clics-doculect-54-742,macu1259-std,concepticon-42,15.26,ikɨ,"stinking, bad smelling",iki
+clics-doculect-54-743,macu1259-std,concepticon-21,15.31,ipope,taste,ipope
+clics-doculect-54-744,macu1259-std,concepticon-717,15.35,aʔkiʔku,sweet,a?ki?ku
+clics-doculect-54-745,macu1259-std,concepticon-1091,15.36,inɨʔne,salty,ini?ne
+clics-doculect-54-746,macu1259-std,concepticon-887,15.37,maiʔ,bitter,mai?
+clics-doculect-54-747,macu1259-std,concepticon-1906,15.38,soʔri,"acid, sour",so?ri
+clics-doculect-54-748,macu1259-std,concepticon-1408,15.41,eta,hear,eta
+clics-doculect-54-749,macu1259-std,concepticon-1811,15.44,wawataatoʔya,"sound, noise",wawataato?ya
+clics-doculect-54-750,macu1259-std,concepticon-377,15.45,aronne,loud,aronne
+clics-doculect-54-751,macu1259-std,concepticon-1314,15.46,moo,"quiet, silence",moo
+clics-doculect-54-752,macu1259-std,concepticon-1409,15.51,eraʔma,see,era?ma
+clics-doculect-54-753,macu1259-std,concepticon-1819,15.52,aʔkɨ,"look, look at",a?ki
+clics-doculect-54-754,macu1259-std,concepticon-1039,15.55,yenpo,show,yenpo
+clics-doculect-54-755,macu1259-std,concepticon-708,15.56,weiyuʔma,shine,weiyu?ma
+clics-doculect-54-756,macu1259-std,concepticon-706,15.63,suuyu,dark (in color),suuyu
+clics-doculect-54-757,macu1259-std,concepticon-1335,15.64,aimutun,white,aimutun
+clics-doculect-54-758,macu1259-std,concepticon-163,15.65,arikkɨtun,black,arikkitun
+clics-doculect-54-759,macu1259-std,concepticon-156,15.66,suuyu,red,suuyu
+clics-doculect-54-760,macu1259-std,concepticon-837,15.67,rora,blue,rora
+clics-doculect-54-761,macu1259-std,concepticon-1425,15.68,rora,green,rora
+clics-doculect-54-762,macu1259-std,concepticon-1424,15.69,aʔmutun,yellow,a?mutun
+clics-doculect-54-763,macu1259-std,concepticon-1892,15.71,yapɨ,touch,yapi
+clics-doculect-54-764,macu1259-std,concepticon-378,15.712,nɨkɨ,pinch,niki
+clics-doculect-54-765,macu1259-std,concepticon-1079,15.72,yapɨ,feel,yapi
+clics-doculect-54-766,macu1259-std,concepticon-1884,15.74,saʔme,hard,sa?me
+clics-doculect-54-767,macu1259-std,concepticon-1856,15.75,we,soft,we
+clics-doculect-54-768,macu1259-std,concepticon-1234,15.77,erekkuru,smooth,erekkuru
+clics-doculect-54-769,macu1259-std,concepticon-1396,15.78,ikeʔ,sharp,ike?
+clics-doculect-54-770,macu1259-std,concepticon-379,15.79,ikeʔmara,"blunt, dull",ike?mara
+clics-doculect-54-771,macu1259-std,concepticon-1210,15.81,amaiʔne,heavy,amai?ne
+clics-doculect-54-772,macu1259-std,concepticon-1052,15.82,amaiʔmara,light (in weight),amai?mara
+clics-doculect-54-773,macu1259-std,concepticon-1726,15.83,amansaʔ,"wet, damp",amansa?
+clics-doculect-54-774,macu1259-std,concepticon-1398,15.84,awaʔpiʔta,dry,awa?pi?ta
+clics-doculect-54-775,macu1259-std,concepticon-1286,15.85,aʔneʔ,hot,a?ne?
+clics-doculect-54-776,macu1259-std,concepticon-1287,15.86,komiʔ,cold,komi?
+clics-doculect-54-777,macu1259-std,concepticon-704,15.87,morɨ,clean,mori
+clics-doculect-54-778,macu1259-std,concepticon-1230,15.88,koron,"dirty, soiled",koron
+clics-doculect-54-779,macu1259-std,concepticon-1230,15.88,nora,"dirty, soiled",nora
+clics-doculect-54-780,macu1259-std,concepticon-53,16.11,yekaton,"soul, spirit",yekaton
+clics-doculect-54-781,macu1259-std,concepticon-1572,16.15,esiʔnɨpɨ,"surprised, astonished",esi?nipi
+clics-doculect-54-782,macu1259-std,concepticon-1495,16.23,atausinpa,"joyful, glad, happy",atausinpa
+clics-doculect-54-783,macu1259-std,concepticon-1355,16.25,sii,laugh,sii
+clics-doculect-54-784,macu1259-std,concepticon-1413,16.26,suʔmin,play,su?min
+clics-doculect-54-785,macu1259-std,concepticon-923,16.27,saʔnama,love,sa?nama
+clics-doculect-54-786,macu1259-std,concepticon-578,16.29,yuʔna,kiss,yu?na
+clics-doculect-54-787,macu1259-std,concepticon-1783,16.31,neʔneʔ,pain,ne?ne?
+clics-doculect-54-788,macu1259-std,concepticon-1668,16.32,esewankonoʔma,"grief, sorrow, sadness",esewankono?ma
+clics-doculect-54-789,macu1259-std,concepticon-1000,16.33,teesenumenkai,"anxiety, worry",teesenumenkai
+clics-doculect-54-790,macu1259-std,concepticon-1875,16.34,esewankonoʔma,"regret, be sorry",esewankono?ma
+clics-doculect-54-791,macu1259-std,concepticon-1141,16.35,saʔnama,pity,sa?nama
+clics-doculect-54-792,macu1259-std,concepticon-1839,16.37,ikarau,"cry, weep",ikarau
+clics-doculect-54-793,macu1259-std,concepticon-1651,16.38,enmusukuru,tear (noun),enmusukuru
+clics-doculect-54-794,macu1259-std,concepticon-716,16.39,esekaʔnunka,groan,eseka?nunka
+clics-doculect-54-795,macu1259-std,concepticon-1607,16.41,yewanmɨrɨ,hate,yewanmiri
+clics-doculect-54-796,macu1259-std,concepticon-82,16.42,ekoreʔmatoʔ,anger,ekore?mato?
+clics-doculect-54-797,macu1259-std,concepticon-40,16.44,kiimuwa,"envy, jealousy",kiimuwa
+clics-doculect-54-798,macu1259-std,concepticon-174,16.48,mɨɨpe,proud,miipe
+clics-doculect-54-799,macu1259-std,concepticon-3,16.52,meruntɨ,brave,merunti
+clics-doculect-54-800,macu1259-std,concepticon-781,16.53,esiʔnɨpɨ,"fear, fright",esi?nipi
+clics-doculect-54-801,macu1259-std,concepticon-1810,16.54,nariʔ,danger,nari?
+clics-doculect-54-802,macu1259-std,concepticon-1784,16.62,yuʔse,"desire, want",yu?se
+clics-doculect-54-803,macu1259-std,concepticon-1750,16.622,moʔka,choose,mo?ka
+clics-doculect-54-804,macu1259-std,concepticon-1657,16.66,innarɨ,true,innari
+clics-doculect-54-805,macu1259-std,concepticon-601,16.67,seruʔ,"lie, tell lies",seru?
+clics-doculect-54-806,macu1259-std,concepticon-601,16.67,seruʔma,"lie, tell lies",seru?ma
+clics-doculect-54-807,macu1259-std,concepticon-13,16.68,yenkuʔtɨ,deceit,yenku?ti
+clics-doculect-54-808,macu1259-std,concepticon-1528,16.69,tɨɨwanmɨraikupɨ,forgive,tiiwanmiraikupi
+clics-doculect-54-809,macu1259-std,concepticon-1035,16.71,morɨ,good,mori
+clics-doculect-54-810,macu1259-std,concepticon-1292,16.72,imakuiʔpɨ,bad,imakui?pi
+clics-doculect-54-811,macu1259-std,concepticon-1725,16.73,yairɨ,"right, correct",yairi
+clics-doculect-54-812,macu1259-std,concepticon-1390,16.74,yairɨpra,wrong,yairipra
+clics-doculect-54-813,macu1259-std,concepticon-1293,16.77,puremekɨ,"mistake, error",puremeki
+clics-doculect-54-814,macu1259-std,concepticon-1687,16.79,yapurɨ,praise,yapuri
+clics-doculect-54-815,macu1259-std,concepticon-1427,16.81,emaʔnonpe,beautiful,ema?nonpe
+clics-doculect-54-816,macu1259-std,concepticon-1548,16.82,nora,ugly,nora
+clics-doculect-54-817,macu1259-std,concepticon-1310,16.84,ariʔku,clever,ari?ku
+clics-doculect-54-818,macu1259-std,concepticon-1562,17.11,esenumenkatoʔ,mind,esenumenkato?
+clics-doculect-54-819,macu1259-std,concepticon-1415,17.13,esenumenka,think (= reflect),esenumenka
+clics-doculect-54-820,macu1259-std,concepticon-1890,17.15,innapeikupɨ,believe,innapeikupi
+clics-doculect-54-821,macu1259-std,concepticon-1536,17.16,epuʔtɨ,understand,epu?ti
+clics-doculect-54-822,macu1259-std,concepticon-1410,17.17,epuʔtɨ,know,epu?ti
+clics-doculect-54-823,macu1259-std,concepticon-698,17.21,epuʔnen,wise,epu?nen
+clics-doculect-54-824,macu1259-std,concepticon-1899,17.23,yawɨpe,"insane, crazy",yawipe
+clics-doculect-54-825,macu1259-std,concepticon-504,17.24,esenupa,learn,esenupa
+clics-doculect-54-826,macu1259-std,concepticon-1929,17.242,esenupa,study,esenupa
+clics-doculect-54-827,macu1259-std,concepticon-709,17.25,yenupa,teach,yenupa
+clics-doculect-54-828,macu1259-std,concepticon-753,17.26,teesenupasen,pupil,teesenupasen
+clics-doculect-54-829,macu1259-std,concepticon-1038,17.27,yenupanen,teacher,yenupanen
+clics-doculect-54-830,macu1259-std,concepticon-707,17.31,enpenata,remember,enpenata
+clics-doculect-54-831,macu1259-std,concepticon-1523,17.32,yewanmɨra,forget,yewanmira
+clics-doculect-54-832,macu1259-std,concepticon-989,17.34,aronne,"clear, plain",aronne
+clics-doculect-54-833,macu1259-std,concepticon-1121,17.36,amaʔpe,secret,ama?pe
+clics-doculect-54-834,macu1259-std,concepticon-509,17.37,yairɨ,"sure, certain",yairi
+clics-doculect-54-835,macu1259-std,concepticon-1626,17.38,ekaremekɨ,explain,ekaremeki
+clics-doculect-54-836,macu1259-std,concepticon-1308,17.43,kaʔrɨ,doubt,ka?ri
+clics-doculect-54-837,macu1259-std,concepticon-1308,17.43,naka,doubt,naka
+clics-doculect-54-838,macu1259-std,concepticon-643,17.45,yuʔse,"need, necessity",yu?se
+clics-doculect-54-839,macu1259-std,concepticon-686,17.46,saʔmepra,easy,sa?mepra
+clics-doculect-54-840,macu1259-std,concepticon-584,17.47,saʔme,difficult,sa?me
+clics-doculect-54-841,macu1259-std,concepticon-1812,17.48,yonpa,"try, attempt",yonpa
+clics-doculect-54-842,macu1259-std,concepticon-488,17.49,yeseru,"way, manner",yeseru
+clics-doculect-54-843,macu1259-std,concepticon-1577,17.51,moropai,and,moropai
+clics-doculect-54-844,macu1259-std,concepticon-1157,17.52,yeʔnen,because,ye?nen
+clics-doculect-54-845,macu1259-std,concepticon-1459,17.53,ya,if,ya
+clics-doculect-54-846,macu1259-std,concepticon-1014,17.54,kaʔrɨ,or,ka?ri
+clics-doculect-54-847,macu1259-std,concepticon-1268,17.55,inna,"yes, affirmative",inna
+clics-doculect-54-848,macu1259-std,concepticon-1269,17.56,kaane,"no, negative",kaane
+clics-doculect-54-849,macu1259-std,concepticon-1239,17.61,oʔnonyeʔka,how?,o?nonye?ka
+clics-doculect-54-850,macu1259-std,concepticon-822,17.62,ɨʔwarapo,how many?,i?warapo
+clics-doculect-54-851,macu1259-std,concepticon-531,17.63,ɨʔwarapo,how much?,i?warapo
+clics-doculect-54-852,macu1259-std,concepticon-1236,17.64,ɨʔ,what?,i?
+clics-doculect-54-853,macu1259-std,concepticon-1238,17.65,ɨʔpensa,when?,i?pensa
+clics-doculect-54-854,macu1259-std,concepticon-1237,17.66,oʔnonpata,where?,o?nonpata
+clics-doculect-54-855,macu1259-std,concepticon-727,17.67,oʔnon,which?,o?non
+clics-doculect-54-856,macu1259-std,concepticon-1235,17.68,anɨʔ,who?,ani?
+clics-doculect-54-857,macu1259-std,concepticon-1270,17.69,ɨʔtonpe,why?,i?tonpe
+clics-doculect-54-858,macu1259-std,concepticon-1363,18.11,imaimu,voice,imaimu
+clics-doculect-54-859,macu1259-std,concepticon-1261,18.12,eserenkamaimu,sing,eserenkamaimu
+clics-doculect-54-860,macu1259-std,concepticon-715,18.13,entaimepɨtɨ,"shout, cry out",entaimepiti
+clics-doculect-54-861,macu1259-std,concepticon-55,18.15,amaʔpeeseurɨma,whisper,ama?peeseurima
+clics-doculect-54-862,macu1259-std,concepticon-1025,18.17,tɨpottɨyeʔnunpaiya,whistle,tipottiye?nunpaiya
+clics-doculect-54-863,macu1259-std,concepticon-1623,18.21,eseurɨma,"speak, talk",eseurima
+clics-doculect-54-864,macu1259-std,concepticon-1458,18.22,taa,say,taa
+clics-doculect-54-865,macu1259-std,concepticon-1711,18.221,ekaremekɨ,tell story,ekaremeki
+clics-doculect-54-866,macu1259-std,concepticon-48,18.23,moo,silent (be),moo
+clics-doculect-54-867,macu1259-std,concepticon-1307,18.24,maimu,language,maimu
+clics-doculect-54-868,macu1259-std,concepticon-1599,18.26,mai,word,mai
+clics-doculect-54-869,macu1259-std,concepticon-1405,18.28,yeseʔ,name,yese?
+clics-doculect-54-870,macu1259-std,concepticon-1309,18.31,ekaranmapo,"ask (question, inquire)",ekaranmapo
+clics-doculect-54-871,macu1259-std,concepticon-1275,18.32,yuuku,answer,yuuku
+clics-doculect-54-872,macu1259-std,concepticon-2022,18.33,ekaremekɨ,"admit, confess",ekaremeki
+clics-doculect-54-873,macu1259-std,concepticon-1828,18.35,esatɨ,"ask, request",esati
+clics-doculect-54-874,macu1259-std,concepticon-299,18.39,yeurɨma,"rebuke, scold",yeurima
+clics-doculect-54-875,macu1259-std,concepticon-1084,18.41,yeta,call (=summon),yeta
+clics-doculect-54-876,macu1259-std,concepticon-180,18.42,esatɨ,call (=name),esati
+clics-doculect-54-877,macu1259-std,concepticon-1672,18.51,menuka,write,menuka
+clics-doculect-54-878,macu1259-std,concepticon-724,18.52,erenka,read,erenka
+clics-doculect-54-879,macu1259-std,concepticon-1300,19.11,pata,country,pata
+clics-doculect-54-880,macu1259-std,concepticon-789,19.21,pemonkonyamɨʔ,people (populace),pemonkonyami?
+clics-doculect-54-881,macu1259-std,concepticon-1296,19.25,meʔsipu,"staff, walking stick",me?sipu
+clics-doculect-54-882,macu1259-std,concepticon-1508,19.32,yaipontɨ,"king, ruler",yaiponti
+clics-doculect-54-883,macu1259-std,concepticon-383,19.41,yepotorɨ,master,yepotori
+clics-doculect-54-884,macu1259-std,concepticon-812,19.42,yepoitorɨ,slave,yepoitori
+clics-doculect-54-885,macu1259-std,concepticon-255,19.43,yepoitorɨ,servant,yepoitori
+clics-doculect-54-886,macu1259-std,concepticon-1128,19.45,yaipontɨ,"command, order",yaiponti
+clics-doculect-54-887,macu1259-std,concepticon-1635,19.46,yuuku,obey,yuuku
+clics-doculect-54-888,macu1259-std,concepticon-1003,19.47,tɨrɨ,"let, permit",tiri
+clics-doculect-54-889,macu1259-std,concepticon-1325,19.51,iwaniyakon,"friend, companion",iwaniyakon
+clics-doculect-54-890,macu1259-std,concepticon-1358,19.52,yeyaton,enemy,yeyaton
+clics-doculect-54-891,macu1259-std,concepticon-791,19.55,kaʔran,stranger,ka?ran
+clics-doculect-54-892,macu1259-std,concepticon-1897,19.58,pɨikaʔtɨ,"help, aid",piika?ti
+clics-doculect-54-893,macu1259-std,concepticon-1550,19.59,maʔnapa,"hinder, prevent",ma?napa
+clics-doculect-54-894,macu1259-std,concepticon-1747,19.61,yeseru,custom,yeseru
+clics-doculect-54-895,macu1259-std,concepticon-1848,19.62,esiyuʔpɨtɨ,"strife, quarrel",esiyu?piti
+clics-doculect-54-896,macu1259-std,concepticon-1831,19.65,eporɨ,meet,epori
+clics-doculect-54-897,macu1259-std,concepticon-1610,19.72,eseporowɨriʔ,prostitute,eseporowiri?
+clics-doculect-54-898,macu1259-std,concepticon-1423,20.11,ekoreʔma,fight (vb),ekore?ma
+clics-doculect-54-899,macu1259-std,concepticon-579,20.13,epɨ,"war, battle",epi
+clics-doculect-54-900,macu1259-std,concepticon-1338,20.14,tɨɨwanmɨn,peace,tiiwanmin
+clics-doculect-54-901,macu1259-std,concepticon-994,20.24,urapa,bow,urapa
+clics-doculect-54-902,macu1259-std,concepticon-977,20.25,pɨrɨu,arrow,piriu
+clics-doculect-54-903,macu1259-std,concepticon-1566,20.28,arakkapusaʔ,"gun, cannon",arakkapusa?
+clics-doculect-54-904,macu1259-std,concepticon-1074,20.52,konoi,fishhook,konoi
+clics-doculect-54-905,macu1259-std,concepticon-19,20.53,konoiyewa,fishing line,konoiyewa
+clics-doculect-54-906,macu1259-std,concepticon-389,20.55,pentɨ,fish trap,penti
+clics-doculect-54-907,macu1259-std,concepticon-2013,20.56,musun,bait,musun
+clics-doculect-54-908,macu1259-std,concepticon-1435,20.61,wonopɨ,hunt,wonopi
+clics-doculect-54-909,macu1259-std,concepticon-161,20.63,puremekɨ,miss (target),puremeki
+clics-doculect-54-910,macu1259-std,concepticon-1075,20.64,maare,trap (noun),maare
+clics-doculect-54-911,macu1259-std,concepticon-845,21.42,wɨɨ,murder,wii
+clics-doculect-54-912,macu1259-std,concepticon-1792,21.47,seruʔyeʔ,perjury,seru?ye?
+clics-doculect-54-913,macu1259-std,concepticon-713,21.51,yamaʔronpa,steal,yama?ronpa
+clics-doculect-54-914,macu1259-std,concepticon-1160,21.52,amaʔyeʔ,thief,ama?ye?

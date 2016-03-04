@@ -1,0 +1,2067 @@
+@classification: Indo-European,Germanic,North,East Scandinavian,Danish-Swedish,Swedish
+@ids-name: Swedish_StandardOrth
+@iso: swe
+@language: Swedish
+@size: 2060
+@source: ids
+@variety: std
+1.1	world	verld
+1.1	world	värld
+1.21	earth, land	jord
+1.21	earth, land	land
+1.212	earth=ground, soil	grund
+1.212	earth=ground, soil	land
+1.212	earth=ground, soil	mark
+1.212	earth=ground, soil	jord
+1.213	dust	damm
+1.213	dust	stoft
+1.214	mud	gyttja
+1.214	mud	dy
+1.214	mud	mudder
+1.214	mud	gäggamoja
+1.214	mud	lera
+1.215	sand	sand
+1.22	mountain, hill	berg
+1.22	mountain, hill	kulle
+1.22	mountain, hill	fjäll
+1.22	mountain, hill	backe
+1.222	cliff, precipice	klippa
+1.222	cliff, precipice	stup
+1.23	plain, field	slätt
+1.23	plain, field	fält
+1.24	valley	dal
+1.25	island	ö
+1.26	mainland	fastland
+1.27	shore	strand
+1.27	shore	kust
+1.28	cave	håla
+1.28	cave	grotta
+1.31	water	vatten
+1.32	sea	hav
+1.32	sea	sjö
+1.322	calm (of sea)	stilla
+1.323	rough (of sea)	stormig
+1.324	foam	skum
+1.329	ocean	hav
+1.329	ocean	ocean
+1.33	lake	sjö
+1.33	lake	insjö
+1.34	gulf, bay	vik
+1.34	gulf, bay	bukt
+1.341	lagoon	lagun
+1.342	reef	rev
+1.343	headland, point	udde
+1.343	headland, point	landtunga
+1.343	headland, point	tunga
+1.35	wave	våg
+1.35	wave	bölja
+1.352	tide	tidvatten
+1.352	tide	ebbochflod
+1.353	lowtide	lågvatten
+1.353	lowtide	ebb
+1.354	hightide	högvatten
+1.354	hightide	flod
+1.36	river, stream, brook	flod
+1.36	river, stream, brook	älv
+1.36	river, stream, brook	å
+1.36	river, stream, brook	ström
+1.36	river, stream, brook	bäck
+1.362	whirlpool	virvel
+1.362	whirlpool	strömvirvel
+1.37	spring, well	källa
+1.37	spring, well	brunn
+1.38	swamp	kärr
+1.38	swamp	myr
+1.38	swamp	träsk
+1.38	swamp	sumpmark
+1.39	waterfall	vattenfall
+1.39	waterfall	fors
+1.41	woods, forest	skog
+1.42	tree (cf 08.600)	träd
+1.43	wood	trä
+1.44	stone, rock	sten
+1.44	stone, rock	klippa
+1.45	earthquake	jordbävning
+1.51	sky	himmel
+1.51	sky	sky
+1.52	sun	sol
+1.53	moon	måne
+1.54	star	stjärna
+1.55	lightning	blixt
+1.56	thunder	åska
+1.56	thunder	tordön
+1.57	lightning (as striking)	blixt
+1.57	lightning (as striking)	åskslag
+1.57	lightning (as striking)	åskvigg
+1.58	storm	storm
+1.58	storm	oväder
+1.59	rainbow	regnbåge
+1.61	light (noun)	ljus
+1.62	darkness	mörker
+1.63	shade, shadow	skugga
+1.64	dew	dagg
+1.71	air	luft
+1.72	wind	vind
+1.73	cloud	moln
+1.73	cloud	sky
+1.74	fog	dimma
+1.74	fog	töcken
+1.75	rain (noun)	regn
+1.76	snow (noun)	snö
+1.77	ice	is
+1.78	weather	väder
+1.81	fire	eld
+1.82	flame (noun)	låga
+1.82	flame (noun)	flamma
+1.83	smoke (noun)	rök
+1.84	ashes	aska
+1.841	embers	glöd
+1.841	embers	glödandekol
+1.851	burn (vb trans)	bränna
+1.852	burn (vb intrans)	brinna
+1.86	light, kindle, ignite	tända
+1.861	extinguish	släcka
+1.87	match (noun)	tändsticka
+1.88	firewood	ved
+1.89	charcoal	kol
+2.1	person, human being	menniska
+2.1	person, human being	människa
+2.21	man (vs. woman)	man
+2.22	woman	kvinna
+2.23	male	manlig
+2.24	female	kvinnlig
+2.25	boy	gosse
+2.25	boy	pojke
+2.251	young man (adolescent)	ungman
+2.251	young man (adolescent)	ungdom
+2.26	girl	flicka
+2.261	young woman (adolescent)	ungflicka
+2.261	young woman (adolescent)	ungdom
+2.27	child	barn
+2.28	infant, baby	spädbarn
+2.28	infant, baby	baby
+2.31	husband	man
+2.31	husband	äktaman
+2.31	husband	make
+2.32	wife	hustru
+2.32	wife	maka
+2.32	wife	fru
+2.33	marry	giftasig
+2.33	marry	äkta
+2.34	marriage, wedding	giftermål
+2.34	marriage, wedding	äktenskap
+2.34	marriage, wedding	bröllop
+2.341	divorce	skilsmässa
+2.35	father	fader
+2.35	father	far
+2.36	mother	moder
+2.36	mother	mor
+2.37	parents	föräldrar
+2.38	married man	giftman
+2.39	married woman	giftkvinna
+2.41	son	son
+2.42	daughter	dotter
+2.43	offspring (son or daughter)	avkomma
+2.43	offspring (son or daughter)	ättling
+2.44	brother	broder
+2.44	brother	bror
+2.444	older brother	äldrebror
+2.445	younger brother	yngrebror
+2.45	sister	syster
+2.454	older sister	äldresyster
+2.455	younger sister	yngresyster
+2.456	sibling	syskon
+2.458	twins	tvillingar
+2.46	grandfather	farfar
+2.46	grandfather	morfar
+2.461	old man	åldring
+2.47	grandmother	farmor
+2.47	grandmother	mormor
+2.471	old woman	åldring
+2.48	grandson	sonson
+2.48	grandson	dotterson
+2.49	granddaughter	sondotter
+2.49	granddaughter	dotterdotter
+2.51	uncle	farbror
+2.51	uncle	morbror
+2.51	uncle	onkel
+2.511	mother's brother	morbror
+2.512	father's brother	farbror
+2.52	aunt	moster
+2.52	aunt	faster
+2.52	aunt	tant
+2.521	mother's sister	moster
+2.522	father's sister	faster
+2.53	nephew	brorson
+2.53	nephew	systerson
+2.53	nephew	nevö
+2.54	niece	brorsdotter
+2.54	niece	systerdotter
+2.55	cousin	syskonbarn
+2.55	cousin	kusin
+2.56	ancestors	förfäder
+2.57	descendants	avkomlingar
+2.57	descendants	ättlingar
+2.61	father-in-law (of a man)	svärfar
+2.611	father-in-law (of a woman)	svärfar
+2.62	mother-in-law (of a man)	svärmor
+2.621	mother-in-law (of a woman)	svärmor
+2.63	son-in-law (of a man)	svärson
+2.631	son-in-law (of a woman)	svärson
+2.64	daughter-in-law (of a man)	svärdotter
+2.641	daughter-in-law (of a woman)	svärdotter
+2.71	stepfather	styffar
+2.71	stepfather	styvfar
+2.72	stepmother	styfmoder
+2.72	stepmother	styvmoder
+2.73	stepson	styfson
+2.73	stepson	styvson
+2.74	stepdaughter	styfdotter
+2.74	stepdaughter	styvdotter
+2.75	orphan	föräldralöstbarn
+2.76	widow	änka
+2.77	widower	änkling
+2.81	relatives, kinsmen	släktingar
+2.82	family	familj
+2.91	I	jag
+2.92	you (singular)	du
+2.93	he/she/it	han
+2.93	he/she/it	hon
+2.93	he/she/it	den
+2.93	he/she/it	det
+2.94	we	vi
+2.941	we (inclusive)	vi
+2.942	we (exclusive)	vi
+2.95	you (plural)	ni
+2.96	they	de
+3.11	animal	djur
+3.12	male (adj)	han
+3.12	male (adj)	hanne
+3.13	female (adj)	hon
+3.15	livestock	kreatur
+3.15	livestock	boskap
+3.16	pasture	bete
+3.16	pasture	beta
+3.16	pasture	betesmark
+3.18	herdsman	herde
+3.19	stable, stall	stall
+3.2	cattle (bovine)	boskap
+3.21	bull	tjur
+3.22	ox	oxe
+3.23	cow	ko
+3.24	calf	kalv
+3.25	sheep	får
+3.26	ram	bagge
+3.26	ram	vädur
+3.26	ram	gumse
+3.28	ewe	tacka
+3.29	lamb	lamm
+3.32	boar	galt
+3.32	boar	fargalt
+3.34	sow	sugga
+3.34	sow	so
+3.35	pig	gris
+3.36	goat	get
+3.37	he-goat	bock
+3.38	kid	kid
+3.41	horse (equine)	häst
+3.42	stallion	hingst
+3.44	mare	sto
+3.44	mare	märr
+3.45	foal, colt	föl
+3.45	foal, colt	fåle
+3.46	ass, donkey	åsna
+3.47	mule	mulåsna
+3.5	fowl	fågel
+3.52	cock, rooster	tupp
+3.52	cock, rooster	hane
+3.54	hen	höna
+3.55	chicken	höns
+3.55	chicken	kyckling
+3.56	goose	gås
+3.57	duck	and
+3.58	nest	bo
+3.58	nest	näste
+3.58	nest	rede
+3.581	bird	fågel
+3.582	seagull	fiskmås
+3.582	seagull	mås
+3.583	heron	häger
+3.584	eagle	örn
+3.585	hawk	hök
+3.586	vulture	gam
+3.591	bat	fladdermus
+3.592	parrot	papegoja
+3.593	crow	kråka
+3.594	dove	duva
+3.596	owl	uggla
+3.61	dog	hund
+3.614	rabbit	kanin
+3.614	rabbit	hare
+3.62	cat	katt
+3.622	opossum	opossum
+3.63	mouse, rat	mus
+3.63	mouse, rat	råtta
+3.65	fish	fisk
+3.652	fin (dorsal)	fena
+3.653	fishscale	fjäll
+3.654	gill	gäl
+3.655	shell	snäcka
+3.655	shell	snäckskal
+3.661	shark	haj
+3.662	porpoise, dolphin	tumlare
+3.662	porpoise, dolphin	delfin
+3.663	whale	val
+3.663	whale	valfisk
+3.664	stingray	rocka
+3.665	freshwater eel	ål
+3.71	wolf	varg
+3.71	wolf	ulv
+3.72	lion	lejon
+3.73	bear	björn
+3.74	fox	räv
+3.75	deer	hjort
+3.76	monkey	apa
+3.77	elephant	elefant
+3.78	camel	kamel
+3.81	insect	insekt
+3.811	louse	lus
+3.813	flea	loppa
+3.814	centipede	tusenfoting
+3.815	scorpion	skorpion
+3.816	cockroach	kackerlacka
+3.817	ant	myra
+3.818	spider	spindel
+3.819	spider web	spindelnät
+3.819	spider web	spindelväv
+3.82	bee	bi
+3.821	beeswax	bivax
+3.822	beehive	bikupa
+3.823	wasp	geting
+3.83	fly	fluga
+3.832	mosquito	mygga
+3.84	worm	mask
+3.85	snake	snok
+3.85	snake	orm
+3.91	firefly	lysmask
+3.92	butterfly	fjäril
+3.93	grasshopper	gräshoppa
+3.94	snail	snigel
+3.95	frog	groda
+3.96	lizard	ödla
+3.97	crocodile, alligator	krokodil
+3.98	turtle	sköldpadda
+4.11	body	kropp
+4.12	skin, hide	hud
+4.12	skin, hide	hudar
+4.12	skin, hide	skinn
+4.13	flesh	kött
+4.14	hair (head)	hår
+4.142	beard	skägg
+4.144	body hair	kroppshår
+4.145	pubic hair	könshår
+4.146	dandruff	mjäll
+4.15	blood	blod
+4.151	vein, artery	ven
+4.151	vein, artery	artär
+4.151	vein, artery	blodåder
+4.151	vein, artery	pulsåder
+4.16	bone	ben
+4.162	rib	revben
+4.17	horn	horn
+4.18	tail	svans
+4.19	back	rygg
+4.191	spine	ryggrad
+4.2	head	huvud
+4.201	side of head, temple	tinning
+4.202	skull	skalle
+4.203	brain	hjärna
+4.204	face	ansikte
+4.204	face	anlete
+4.205	forehead	panna
+4.207	jaw	käke
+4.208	cheek	kind
+4.209	chin	haka
+4.21	eye	öga
+4.212	eyebrow	ögonbryn
+4.213	eyelid	ögonlock
+4.214	eyelash	ögonhår
+4.215	blink	blinka
+4.22	ear	öra
+4.221	earlobe	örsnibb
+4.222	earwax	öronvax
+4.23	nose	näsa
+4.231	nostril	näsborre
+4.232	mucus (nasal)	slem
+4.24	mouth	mun
+4.241	beak	näbb
+4.25	lip	läpp
+4.26	tongue	tunga
+4.27	tooth	tand
+4.271	gums	tandkött
+4.272	molartooth	kindtand
+4.272	molartooth	oxeltand
+4.28	neck	hals
+4.281	nape of neck	nacke
+4.29	throat	strupe
+4.3	shoulder	axel
+4.3	shoulder	skuldra
+4.301	shoulderblade	skulderblad
+4.302	collarbone	nyckelben
+4.31	arm	arm
+4.312	armpit	armhåla
+4.32	elbow	armbåge
+4.321	wrist	handled
+4.321	wrist	handlov
+4.321	wrist	handlove
+4.33	hand	hand
+4.331	palm of hand	handflata
+4.34	finger	finger
+4.342	thumb	tumme
+4.344	fingernail	nagel
+4.345	claw	klo
+4.345	claw	klösa
+4.345	claw	riva
+4.35	leg	ben
+4.351	thigh	lår
+4.352	calf of leg	vad
+4.36	knee	knä
+4.37	foot	fot
+4.371	ankle	fotled
+4.371	ankle	ankel
+4.372	heel	häl
+4.374	footprint	fotspår
+4.374	footprint	fotavtryck
+4.38	toe	tå
+4.392	wing	vinge
+4.393	feather	fjäder
+4.4	chest	bröst
+4.41	breast (of woman)	bröst
+4.412	nipple, teat	bröstvårta
+4.412	nipple, teat	spene
+4.42	udder	juver
+4.43	navel	navel
+4.44	heart	hjärta
+4.441	lung	lunga
+4.45	liver	lever
+4.451	kidney	njure
+4.452	spleen	splena
+4.46	stomach	buk
+4.46	stomach	mage
+4.461	intestines, guts	darm
+4.462	waist	midja
+4.463	hip	höft
+4.463	hip	höftled
+4.463	hip	bäcken
+4.464	buttocks	bakdel
+4.464	buttocks	ända
+4.464	buttocks	skinka
+4.464	buttocks	or
+4.47	womb	moderlif
+4.47	womb	moderliv
+4.49	testicle	testikel
+4.492	penis	penis
+4.51	breathe, breath	andas
+4.51	breathe, breath	andedräkt
+4.52	yawn, gape	gapa
+4.52	yawn, gape	gäspa
+4.521	hiccough	hicka
+4.521	hiccough	hickning
+4.53	cough	hosta
+4.54	sneeze	nysa
+4.55	perspire	svett
+4.56	spit	spotta
+4.57	vomit	kräkas
+4.57	vomit	spy
+4.58	bite	bita
+4.59	lick	slicka
+4.591	dribble	droppa
+4.591	dribble	drypa
+4.591	dribble	dregla
+4.61	sleep	sova
+4.61	sleep	sömn
+4.612	snore	snarka
+4.612	snore	snarkning
+4.62	dream	dröm
+4.63	wake up	väcka
+4.63	wake up	vakna
+4.63	wake up	vaka
+4.64	break wind	släppasig
+4.64	break wind	fisa
+4.64	break wind	fjärta
+4.65	urinate	urinera
+4.65	urinate	kissa
+4.65	urinate	pinka
+4.65	urinate	pissa
+4.66	defecate	gåpåtoa
+4.66	defecate	bajsa
+4.66	defecate	skita
+4.67	have sexual intercourse	hasamlag
+4.67	have sexual intercourse	hasex
+4.67	have sexual intercourse	liggamed
+4.67	have sexual intercourse	knulla
+4.68	shiver	darra
+4.68	shiver	skälva
+4.68	shiver	huttra
+4.68	shiver	rysa
+4.69	bathe	bada
+4.71	beget (of father)	avla
+4.72	born (to be)	födas
+4.73	pregnant	gravid
+4.73	pregnant	havande
+4.73	pregnant	dräktig
+4.732	conceive	blihavande
+4.732	conceive	avla
+4.74	live, living, life	leva
+4.74	live, living, life	levande
+4.74	live, living, life	liv
+4.75	die, dead	dö
+4.75	die, dead	död
+4.751	drowned	dränkt
+4.76	kill	döda
+4.76	kill	dräpa
+4.77	corpse	lik
+4.78	bury (the dead)	begrava
+4.79	grave, tomb	grav
+4.81	strong, mighty, powerful	stark
+4.81	strong, mighty, powerful	kraftig
+4.81	strong, mighty, powerful	mäktig
+4.82	weak	svag
+4.83	well, health	frisk
+4.83	well, health	hälsa
+4.83	well, health	sundhet
+4.83	well, health	sund
+4.84	sick, sickness	sjuk
+4.84	sick, sickness	sjukdom
+4.841	fever	feber
+4.842	goiter	struma
+4.843	cold (catarrh)	förkylning
+4.85	wound, sore	sår
+4.852	bruise	blåmärke
+4.853	swelling	svällande
+4.853	swelling	svullnad
+4.853	swelling	svullnande
+4.853	swelling	bula
+4.854	itch	kläda
+4.855	blister	blåsa
+4.855	blister	blemma
+4.856	boil (noun)	böld
+4.856	boil (noun)	varböld
+4.857	pus	var
+4.858	scar	ärr
+4.86	cure, heal	bota
+4.86	cure, heal	hela
+4.86	cure, heal	läka
+4.87	physician	läkare
+4.87	physician	doktor
+4.88	medicine, drug	medicin
+4.88	medicine, drug	läkemedel
+4.88	medicine, drug	drog
+4.89	poison	gift
+4.91	tired, weary	trött
+4.912	rest	vila
+4.912	rest	vilasig
+4.92	lazy	lat
+4.93	bald	skallig
+4.93	bald	kal
+4.94	lame	halt
+4.94	lame	lam
+4.95	deaf	döv
+4.96	mute	stum
+4.97	blind	blind
+4.98	intoxicated	berusad
+4.98	intoxicated	drucken
+4.98	intoxicated	full
+4.98	intoxicated	packad
+4.99	naked, bare	naken
+4.99	naked, bare	bar
+5.11	eat	äta
+5.12	food	mat
+5.12	food	föda
+5.12	food	spis
+5.121	cooked	tilllagad
+5.121	cooked	kokt
+5.122	raw	rå
+5.122	raw	okokt
+5.123	ripe	mogen
+5.124	green, unripe	grön
+5.124	green, unripe	omogen
+5.125	rotten	rutten
+5.125	rotten	murken
+5.125	rotten	skämɑ
+5.13	drink	dricka
+5.14	hunger	hunger
+5.141	famine	hungersnöd
+5.141	famine	svält
+5.141	famine	hunger
+5.15	thirst	törst
+5.16	suck	suga
+5.16	suck	dia
+5.18	chew	tugga
+5.181	swallow	svälja
+5.19	choke	strypa
+5.19	choke	kväva
+5.21	cook	tilllaga
+5.21	cook	koka
+5.22	boil (vb)	koka
+5.23	roast, fry	steka
+5.24	bake	baka
+5.25	oven	bakugn
+5.25	oven	stekugn
+5.26	pot, cooking vessel	gryta
+5.26	pot, cooking vessel	kokkärl
+5.27	kettle	kittel
+5.28	pan	panna
+5.28	pan	gryta
+5.31	dish	fat
+5.32	plate	tallrik
+5.32	plate	fat
+5.33	bowl	skål
+5.33	bowl	bål
+5.34	pitcher, jug	kruka
+5.34	pitcher, jug	kanna
+5.34	pitcher, jug	tillbringare
+5.35	cup, drinking vessel	kopp
+5.36	saucer	fat
+5.37	spoon	sked
+5.38	knife	knif
+5.38	knife	kniv
+5.39	fork	gaffel
+5.391	tongs	tång
+5.41	meal (a)	mål
+5.41	meal (a)	måltid
+5.42	breakfast	frukost
+5.43	lunch	lunch
+5.43	lunch	middag
+5.44	dinner	middag
+5.45	supper	kvällsmat
+5.45	supper	aftonmåltid
+5.45	supper	kvällsvard
+5.46	peel	skala
+5.46	peel	skal
+5.47	sieve, strain	sålla
+5.47	sieve, strain	sikta
+5.47	sieve, strain	såll
+5.48	scrape	skrapa
+5.48	scrape	raspa
+5.48	scrape	riva
+5.49	stir, mix	röra
+5.49	stir, mix	vispa
+5.49	stir, mix	blanda
+5.51	bread	bröd
+5.53	dough	deg
+5.54	knead	knåda
+5.55	meal, flour	mjöl
+5.56	crush, grind	mala
+5.57	mill	kvarn
+5.58	mortar	mortel
+5.59	pestle	mortelstöt
+5.61	meat	kött
+5.63	sausage	korv
+5.64	soup, broth	soppa
+5.65	vegetables	grönsaker
+5.66	bean	böna
+5.7	potato	potatis
+5.71	fruit	frukt
+5.712	bunch	knippa
+5.712	bunch	bunt
+5.712	bunch	blase
+5.75	fig	fikon
+5.76	grape	druva
+5.77	nut	nöt
+5.78	olive	oliv
+5.79	oil	olja
+5.791	grease, fat	fett
+5.791	grease, fat	ister
+5.791	grease, fat	talg
+5.791	grease, fat	smörjfett
+5.791	grease, fat	smörja
+5.81	salt	salt
+5.82	pepper	peppar
+5.821	chili pepper	chilipeppar
+5.84	honey	honung
+5.85	sugar	socker
+5.86	milk (noun)	mjölk
+5.87	milk (vb)	mjölka
+5.88	cheese	ost
+5.89	butter	smör
+5.9	beverage, drink	dryck
+5.9	beverage, drink	dricka
+5.91	mead	mjöd
+5.92	wine	vin
+5.93	beer	öl
+5.94	fermented drink	jästdryck
+5.97	egg	ägg
+5.971	egg yolk	ägggula
+6.11	put on (clothes)	kläda
+6.11	put on (clothes)	klä
+6.11	put on (clothes)	kläpåsig
+6.12	clothing, clothes	kläder
+6.13	tailor	skräddare
+6.21	cloth	tyg
+6.22	wool	ull
+6.23	linen, flax	lärft
+6.23	linen, flax	linne
+6.23	linen, flax	lin
+6.24	cotton	bomull
+6.25	silk	silke
+6.25	silk	siden
+6.27	felt	filt
+6.28	fur	päls
+6.29	leather	läder
+6.31	spin	spinna
+6.32	spindle	spindel
+6.33	weave	väva
+6.34	loom	vävstol
+6.35	sew	sy
+6.35	sew	sömma
+6.36	needle	nål
+6.37	awl	syl
+6.38	thread	tråd
+6.39	dye	färga
+6.41	cloak	kappa
+6.41	cloak	slängkappa
+6.41	cloak	mantel
+6.42	woman's dress	klänning
+6.43	coat	rock
+6.43	coat	kavaj
+6.44	shirt	skjorta
+6.45	collar	krage
+6.46	skirt	kjol
+6.461	grass-skirt	bastkjol
+6.48	trousers	byxor
+6.49	stocking, sock	strumpa
+6.49	stocking, sock	socka
+6.51	shoe	sko
+6.52	boot	stövel
+6.52	boot	känga
+6.52	boot	pjäxa
+6.54	shoemaker, cobbler	skomakare
+6.55	hat, cap	hatt
+6.55	hat, cap	mössa
+6.57	belt, girdle	bälte
+6.57	belt, girdle	gördel
+6.58	glove	handske
+6.59	veil	flor
+6.59	veil	slöja
+6.61	pocket	ficka
+6.62	button	knapp
+6.63	pin	nål
+6.71	ornament, adornment	prydnad
+6.71	ornament, adornment	smycke
+6.72	jewel	juvel
+6.72	jewel	smycke
+6.73	ring (for finger)	ring
+6.74	bracelet	armband
+6.75	necklace	halsband
+6.76	bead	pärla
+6.77	earring	örhänge
+6.78	headband, headdress	hårband
+6.79	tattoo	tatuering
+6.81	handkerchief, rag	näsduk
+6.82	towel	handduk
+6.91	comb	kam
+6.92	brush	borste
+6.921	braid	fläta
+6.93	razor	rakknif
+6.93	razor	rakkniv
+6.93	razor	rakhyvel
+6.93	razor	elhyvel
+6.93	razor	rakapparat
+6.94	ointment	salva
+6.95	soap	såpa
+6.95	soap	tvål
+6.96	mirror	spegel
+7.11	dwell, live	bo
+7.12	house	hus
+7.13	hut	hydda
+7.13	hut	koja
+7.13	hut	barack
+7.131	garden-house	gårdshus
+7.131	garden-house	kolonistuga
+7.14	tent	tält
+7.15	yard, court	gård
+7.16	men's house	manshus
+7.17	cookhouse	kök
+7.18	meeting house	möteslokal
+7.18	meeting house	kommunhus
+7.21	room	rum
+7.22	door, gate	dörr
+7.22	door, gate	port
+7.221	doorpost, jamb	dörrpost
+7.23	lock (noun)	lås
+7.231	latch, door-bolt	regel
+7.231	latch, door-bolt	klinka
+7.231	latch, door-bolt	regla
+7.24	key	nyckel
+7.25	window	fönster
+7.26	floor	golv
+7.27	wall	mur
+7.27	wall	vägg
+7.31	fireplace	eldstad
+7.31	fireplace	öppenspis
+7.32	stove	spis
+7.32	stove	ugn
+7.32	stove	kamin
+7.32	stove	kakelugn
+7.33	chimney	skorsten
+7.37	ladder	stege
+7.42	bed	bädd
+7.42	bed	säng
+7.421	pillow	kudde
+7.421	pillow	dyna
+7.422	blanket	filt
+7.422	blanket	täcke
+7.43	chair	stol
+7.44	table	bord
+7.45	lamp, torch	lampa
+7.46	candle	ljus
+7.46	candle	stearinljus
+7.46	candle	vaxljus
+7.47	shelf	hylla
+7.48	trough	ho
+7.48	trough	tråg
+7.48	trough	kar
+7.48	trough	ränna
+7.51	roof	tak
+7.52	thatch	halm
+7.52	thatch	vass
+7.53	ridgepole	ryggås
+7.54	rafter	sparr
+7.55	beam	bjälke
+7.55	beam	balk
+7.56	post, pole	stöd
+7.56	post, pole	stolpe
+7.56	post, pole	stötta
+7.56	post, pole	påle
+7.57	board	bräda
+7.58	arch	valv
+7.58	arch	valvbåge
+7.61	mason	stenhuggare
+7.61	mason	murare
+7.62	brick	tegel
+7.62	brick	tegelsten
+7.63	mortar	mortel
+7.64	adobe	adobe
+7.64	adobe	lertegel
+8.11	farmer	jordbrukare
+8.11	farmer	bonde
+8.11	farmer	åkerman
+8.12	field (for cultivation)	åker
+8.12	field (for cultivation)	mark
+8.13	garden	trädgård
+8.15	cultivate, till	bruka
+8.15	cultivate, till	odla
+8.15	cultivate, till	plöja
+8.16	fence	stängsel
+8.16	fence	staket
+8.16	fence	inhägnad
+8.17	ditch	dike
+8.17	ditch	grav
+8.21	plow	plöja
+8.21	plow	plog
+8.212	furrow	fåra
+8.22	dig	gräva
+8.23	spade	spade
+8.24	shovel	skovel
+8.24	shovel	skyffel
+8.25	hoe	hacka
+8.26	fork	högaffel
+8.26	fork	grepe
+8.26	fork	grep
+8.27	rake	räfsa
+8.31	sow	så
+8.311	seed	frö
+8.32	mow, reap	slå
+8.32	mow, reap	meja
+8.33	sickle, scythe	skära
+8.33	sickle, scythe	lie
+8.34	thresh	tröska
+8.35	threshing-floor	loge
+8.41	crop, harvest	gröda
+8.41	crop, harvest	skörd
+8.41	crop, harvest	skördetid
+8.42	grain (barley, oats etc)	säd
+8.42	grain (barley, oats etc)	korn
+8.43	wheat	hvete
+8.43	wheat	vete
+8.44	barley	bjugg
+8.44	barley	korn
+8.45	rye	råg
+8.46	oats	havre
+8.47	maize, corn	majs
+8.48	rice	ris
+8.51	grass	gräs
+8.52	hay	hö
+8.53	plant (noun)	planta
+8.53	plant (noun)	ört
+8.53	plant (noun)	växt
+8.531	plant (vb)	plantera
+8.531	plant (vb)	sätta
+8.531	plant (vb)	så
+8.54	root	rot
+8.55	branch	gren
+8.55	branch	kvist
+8.56	leaf	löf
+8.56	leaf	löv
+8.56	leaf	blad
+8.57	flower	blomma
+8.57	flower	blomster
+8.6	tree	träd
+8.61	oak	ek
+8.62	beech	bok
+8.63	birch	björk
+8.64	pine	tall
+8.64	pine	fura
+8.65	fir	gran
+8.66	acorn	ekollon
+8.67	vine	vinranka
+8.67	vine	vinstock
+8.68	tobacco	tobak
+8.69	smoke (tobacco)	röka
+8.691	pipe	pipa
+8.72	tree stump	stubbe
+8.73	tree trunk	trädstam
+8.73	tree trunk	stam
+8.74	forked branch	klyka
+8.75	bark	bark
+8.76	sap	sav
+8.76	sap	växtsaft
+8.81	palm tree	palm
+8.82	coconut	kokosnöt
+8.83	citrus fruit	citrusfrukt
+8.84	banana tree	bananträd
+8.912	yam	jams
+8.93	gourd	flaskkurbits
+8.93	gourd	kalebass
+8.93	gourd	kalabass
+8.931	pumpkin, squash	pumpa
+8.931	pumpkin, squash	kurbits
+8.94	bamboo	bambu
+8.94	bamboo	bamburör
+8.941	sugar cane	sockerrör
+8.96	fish poison (root)	växtgift
+8.97	nettle	nässla
+8.97	nettle	brännnässla
+8.98	mushroom	svamp
+9.11	do, make	göra
+9.12	work	arbete
+9.12	work	verk
+9.12	work	jobb
+9.14	bend	böja
+9.14	bend	kröka
+9.15	fold	vika
+9.16	tie, bind	binda
+9.161	untie	knytaupp
+9.161	untie	knytaloss
+9.161	untie	lossa
+9.161	untie	släppaloss
+9.161	untie	släppalös
+9.18	chain	kedja
+9.19	rope, cord	rep
+9.19	rope, cord	tåg
+9.19	rope, cord	lina
+9.19	rope, cord	snöre
+9.192	knot (noun)	knut
+9.21	strike (hit, beat)	slå
+9.211	pound with fist	slåmot
+9.211	pound with fist	dunka
+9.211	pound with fist	banka
+9.211	pound with fist	bulta
+9.211	pound with fist	hamra
+9.22	cut	skära
+9.22	cut	klippa
+9.22	cut	hugga
+9.221	cut down	skäraav
+9.221	cut down	klippaav
+9.221	cut down	hugganer
+9.221	cut down	hackaner
+9.222	chop, hew	hugga
+9.222	chop, hew	hacka
+9.223	stab	sticka
+9.223	stab	stöta
+9.23	knife	knif
+9.23	knife	kniv
+9.24	scissors, shears	sax
+9.25	ax	yxa
+9.251	adze	skarvyxa
+9.251	adze	däxel
+9.26	break	bryta
+9.26	break	bräcka
+9.261	broken	sönder
+9.261	broken	sönderslagen
+9.261	broken	bruten
+9.27	split	splittra
+9.27	split	klyva
+9.28	tear	riva
+9.28	tear	slita
+9.29	flay, skin	flå
+9.31	rub, wipe	gnida
+9.32	stretch	sträcka
+9.32	stretch	spänna
+9.32	stretch	tänja
+9.33	pull	draga
+9.33	pull	dra
+9.34	spread out	bredaut
+9.34	spread out	strö
+9.341	hang up	hänga
+9.341	hang up	hängaupp
+9.342	press	trycka
+9.342	press	tryckapå
+9.342	press	pressa
+9.343	squeeze, wring	trycka
+9.343	squeeze, wring	klämma
+9.343	squeeze, wring	krama
+9.343	squeeze, wring	pressa
+9.35	pour	hälla
+9.35	pour	gjuta
+9.35	pour	skänka
+9.36	wash	tvätta
+9.36	wash	vaska
+9.37	sweep	sopa
+9.38	broom	kvast
+9.422	tool	verktyg
+9.422	tool	redskap
+9.43	carpenter	snickare
+9.43	carpenter	timmerman
+9.44	build	bygga
+9.46	bore	borra
+9.461	hollow out	urholka
+9.461	hollow out	göraihålig
+9.48	saw	såg
+9.49	hammer	hammare
+9.5	nail	spik
+9.56	glue	lim
+9.56	glue	klister
+9.6	smith, blacksmith	smed
+9.61	forge	smida
+9.62	anvil	städ
+9.63	cast (metals)	gjuta
+9.63	cast (metals)	stöpa
+9.64	gold	guld
+9.65	silver	silver
+9.66	copper, bronze	koppar
+9.66	copper, bronze	brons
+9.67	iron	järn
+9.68	lead (noun)	bly
+9.69	tin, tinplate	tenn
+9.69	tin, tinplate	bleck
+9.69	tin, tinplate	plåt
+9.71	potter	krukmakare
+9.71	potter	keramiker
+9.72	mold (clay etc)	forma
+9.72	mold (clay etc)	dana
+9.73	clay	lera
+9.74	glass	glas
+9.75	weave, plait	fläta
+9.75	weave, plait	väva
+9.76	basket	korg
+9.77	mat	matta
+9.77	mat	dörrmatta
+9.771	rug	matta
+9.78	netbag	bärnät
+9.78	netbag	nätväska
+9.79	fan (noun)	fläkt
+9.79	fan (noun)	solfjäder
+9.791	fan (vb)	fläktasig
+9.791	fan (vb)	bredautsig
+9.81	carve	huggaut
+9.81	carve	skulptera
+9.82	sculptor	bildhuggare
+9.82	sculptor	skulptör
+9.83	statue	staty
+9.83	statue	bildstod
+9.84	chisel	mejsel
+9.88	paint (noun)	färg
+9.89	paint (vb)	måla
+10.11	move	röra
+10.11	move	flytta
+10.12	turn over	vända
+10.13	turn around	vrida
+10.13	turn around	sno
+10.14	wind, wrap	vinda
+10.14	wind, wrap	linda
+10.14	wind, wrap	veckla
+10.15	roll	rulla
+10.16	drop (vb)	droppa
+10.16	drop (vb)	droppaner
+10.17	twist	vrida
+10.17	twist	vridatill
+10.17	twist	vricka
+10.17	twist	förvrida
+10.21	rise	ställasig
+10.21	rise	resasig
+10.22	raise, lift	lyfta
+10.22	raise, lift	höja
+10.23	fall	falla
+10.24	drip	droppa
+10.25	throw	kasta
+10.252	catch (ball)	fånga
+10.252	catch (ball)	tafast
+10.26	shake	skaka
+10.32	flow	flyta
+10.32	flow	rinna
+10.33	sink	sjunka
+10.33	sink	sänka
+10.34	float	flyta
+10.35	swim	simma
+10.351	dive	dyka
+10.352	splash	stänka
+10.352	splash	slaska
+10.352	splash	skvätta
+10.352	splash	plaska
+10.352	splash	plumsa
+10.352	splash	skvalpa
+10.36	sail (vb)	segla
+10.37	fly (vb)	flyga
+10.38	blow	blåsa
+10.41	creep, crawl	krypa
+10.41	creep, crawl	kräla
+10.412	kneel	knäböja
+10.412	kneel	fallapåknä
+10.413	crouch	hukasigner
+10.42	slide, slip	glida
+10.42	slide, slip	slippa
+10.42	slide, slip	halka
+10.43	jump, leap	hoppa
+10.431	kick	sparka
+10.44	dance	dansa
+10.45	walk	gå
+10.451	limp	halta
+10.451	limp	linka
+10.46	run	springa
+10.46	run	ränna
+10.46	run	löpa
+10.47	go	gå
+10.47	go	fara
+10.47	go	resa
+10.471	go up	ståup
+10.471	go up	gåup
+10.472	climb	klättra
+10.472	climb	kliva
+10.472	climb	klänga
+10.473	go down	gåner
+10.474	go out	gåut
+10.48	come	komma
+10.481	come back	kommatillbaka
+10.49	go away, depart	gåbort
+10.49	go away, depart	resabort
+10.491	disappear	försvinna
+10.51	flee	fly
+10.52	follow	följa
+10.53	pursue	förfölja
+10.55	reach, arrive	kommatill
+10.55	reach, arrive	anländatill
+10.55	reach, arrive	komma
+10.55	reach, arrive	anlända
+10.55	reach, arrive	hinna
+10.55	reach, arrive	nå
+10.56	approach	närmasig
+10.57	enter	inträda
+10.57	enter	gåin
+10.61	carry (bear)	bära
+10.61	carry (bear)	föra
+10.61	carry (bear)	köra
+10.612	carry-in-hand	bära
+10.613	carry-on-shoulder	bära
+10.614	carry-on-head	bära
+10.615	carry-underarm	bära
+10.62	bring	bringa
+10.62	bring	tamedsig
+10.62	bring	hämta
+10.63	send	sända
+10.63	send	skicka
+10.64	lead (vb)	leda
+10.64	lead (vb)	föra
+10.65	drive	driva
+10.65	drive	köra
+10.66	ride	rida
+10.66	ride	åka
+10.67	push, shove	knuffa
+10.67	push, shove	knuffapå
+10.67	push, shove	skjuta
+10.67	push, shove	skjutapå
+10.67	push, shove	stöta
+10.67	push, shove	stötatill
+10.71	road	väg
+10.72	path	stig
+10.74	bridge	bro
+10.74	bridge	brygga
+10.75	carriage, wagon, cart	vagn
+10.75	carriage, wagon, cart	kärra
+10.76	wheel	hjul
+10.77	axle	axel
+10.78	yoke	ok
+10.81	ship	skepp
+10.81	ship	fartyg
+10.83	boat	båt
+10.83	boat	fartyg
+10.831	canoe	kanot
+10.832	outrigger	utriggare
+10.84	raft	flotte
+10.85	oar	åra
+10.851	paddle (noun)	paddel
+10.852	row (vb)	ro
+10.86	rudder	roder
+10.87	mast	mast
+10.88	sail (noun)	segel
+10.89	anchor	ankare
+10.91	harbor, port	hamn
+10.92	land (vb)	landa
+10.92	land (vb)	förailand
+10.92	land (vb)	sättailand
+10.92	land (vb)	halain
+11.11	have	ha
+11.11	have	hava
+11.12	own, possess	äga
+11.12	own, possess	besitta
+11.13	take	ta
+11.13	take	taga
+11.14	seize, grasp	gripa
+11.15	hold	hålla
+11.16	get, obtain	få
+11.17	keep, retain	behålla
+11.18	thing	sak
+11.18	thing	ting
+11.18	thing	föremål
+11.21	give	ge
+11.21	give	giva
+11.22	give back	getillbaka
+11.22	give back	återge
+11.22	give back	givatillbaka
+11.22	give back	återgiva
+11.24	preserve, look after	bevara
+11.24	preserve, look after	seefter
+11.24	preserve, look after	spara
+11.25	save, rescue	rädda
+11.25	save, rescue	frälsa
+11.27	destroy	förstöra
+11.28	harm, injure, damage	skada
+11.31	seek, look for	söka
+11.31	seek, look for	letaefter
+11.32	find	finna
+11.32	find	hitta
+11.33	lose	förlora
+11.33	lose	tappa
+11.34	release, let go	lössläppa
+11.34	release, let go	lösgiva
+11.34	release, let go	släppa
+11.34	release, let go	frige
+11.43	money	pengar
+11.44	coin	mynt
+11.44	coin	penning
+11.51	rich	rik
+11.52	poor	fattig
+11.53	beggar	tiggare
+11.54	avaricious, stingy	girig
+11.54	avaricious, stingy	snål
+11.54	avaricious, stingy	njugg
+11.61	lend	låna
+11.62	borrow	låna
+11.63	owe	varaskyldig
+11.64	debt	skuld
+11.64	debt	gäld
+11.65	pay (vb)	betala
+11.66	account, reckoning	räkningskonto
+11.66	account, reckoning	beräkning
+11.66	account, reckoning	räkenskap
+11.69	tax, tribute	skatt
+11.77	hire	hyra
+11.77	hire	lega
+11.77	hire	leja
+11.77	hire	anställa
+11.78	wages	lön
+11.78	wages	betalning
+11.79	earn	förtjäna
+11.81	buy	köpa
+11.82	sell	sälja
+11.83	trade, barter	handla
+11.83	trade, barter	sälja
+11.84	merchant	köpman
+11.84	merchant	affärsman
+11.84	merchant	handlare
+11.85	market (place)	torg
+11.85	market (place)	marknad
+11.86	store, shop	handelsbod
+11.86	store, shop	butik
+11.86	store, shop	affär
+11.87	price	pris
+11.88	dear (costly, expensive)	dyr
+11.89	cheap	billig
+11.91	share (distribute)	dela
+11.91	share (distribute)	fördela
+11.92	weigh	väga
+12.1	after	efter
+12.11	place	bakom
+12.11	place	efter
+12.2	beside	bredvid
+12.2	beside	vidsidanav
+12.2	beside	intill
+12.3	down, below	nedanför
+12.3	down, below	under
+12.4	before	framför
+12.4	before	inför
+12.4	before	före
+12.41	right (side)	framsida
+12.41	right (side)	främredel
+12.5	inside, in	in
+12.5	inside, in	inåt
+12.5	inside, in	innei
+12.5	inside, in	inom
+12.5	inside, in	innanför
+12.6	outside	utanför
+12.6	outside	utanpå
+12.6	outside	ute
+12.7	under	under
+12.7	under	nedanför
+12.7	under	nere
+12.8	up, above	över
+12.8	up, above	ovanför
+12.8	up, above	ovan
+12.8	up, above	uptill
+12.11	place	plats
+12.12	put	sätte
+12.12	put	ställa
+12.12	put	lägga
+12.13	sit	sitta
+12.14	lie down	ligga
+12.15	stand	stå
+12.16	remain, stay	förbliva
+12.16	remain, stay	stanna
+12.16	remain, stay	stannakvar
+12.16	remain, stay	vänta
+12.17	remains, left overs	blikvar
+12.17	remains, left overs	varakvar
+12.21	collect, gather	samla
+12.212	pick up	plocka
+12.212	pick up	plockaup
+12.213	pile up	stapla
+12.213	pile up	trava
+12.213	pile up	läggaihög
+12.213	pile up	samla
+12.213	pile up	läggapå
+12.22	join, unite	förbinda
+12.22	join, unite	förena
+12.22	join, unite	foga
+12.22	join, unite	sammanfoga
+12.23	separate	skilja
+12.232	divide	dela
+12.232	divide	delapå
+12.24	open	öppna
+12.25	shut, close	stänga
+12.26	cover	täcke
+12.26	cover	täcka
+12.27	hide, conceal	gömma
+12.27	hide, conceal	dölja
+12.31	high	hög
+12.32	low	låg
+12.33	top	topp
+12.33	top	spets
+12.33	top	överst
+12.34	bottom	botten
+12.35	end	ända
+12.35	end	ände
+12.352	pointed	spetsig
+12.353	edge	egg
+12.353	edge	kant
+12.353	edge	rand
+12.36	side	sida
+12.37	middle, center	mellerst
+12.37	middle, center	medel
+12.37	middle, center	mellan
+12.41	right (side)	höger
+12.42	left (side)	vänster
+12.43	near (adv)	nära
+12.44	far (adv)	långtborta
+12.44	far (adv)	fjärran
+12.45	east	öster
+12.45	east	öst
+12.46	west	väster
+12.46	west	väst
+12.47	north	nord
+12.47	north	norr
+12.48	south	söder
+12.53	grow	växa
+12.54	measure	mäta
+12.541	span, fathom	spann
+12.541	span, fathom	spänna
+12.55	large, big	stor
+12.56	small, little	liten
+12.56	small, little	små
+12.57	long	lång
+12.58	tall	lång
+12.59	short	kort
+12.61	wide, broad	bred
+12.61	wide, broad	vid
+12.62	narrow	smal
+12.62	narrow	trång
+12.63	thick (in dimension)	tjock
+12.65	thin (in dimension)	tunn
+12.67	deep	djup
+12.68	shallow	grund
+12.71	flat	flat
+12.71	flat	platt
+12.73	straight	rak
+12.73	straight	rät
+12.74	crooked	krokig
+12.74	crooked	krum
+12.75	hook	krok
+12.75	hook	hake
+12.76	corner	hörn
+12.77	cross	kors
+12.78	square	fyrkant
+12.81	round	rund
+12.82	circle	krets
+12.82	circle	ring
+12.82	circle	cirkel
+12.83	sphere, ball	klot
+12.84	line	linje
+12.84	line	streck
+12.85	hole	hål
+12.92	like, similar	lika
+12.92	like, similar	liknande
+12.93	change	ändra
+12.93	change	byta
+12.93	change	skifta
+12.93	change	vexla
+13.0	zero, nothing	noll
+13.0	zero, nothing	nolla
+13.0	zero, nothing	ingenting
+13.1	one	en
+13.1	one	ett
+13.2	two	två
+13.3	three	tre
+13.4	four	fyra
+13.5	five	fem
+13.6	six	sex
+13.7	seven	sju
+13.8	eight	åtta
+13.9	nine	nio
+13.10	ten	tio
+13.101	eleven	elva
+13.102	twelve	tolv
+13.103	fifteen	femton
+13.104	twenty	tjugo
+13.105	hundred	hundra
+13.106	thousand	tusen
+13.107	count	räkna
+13.14	every, all	var
+13.14	every, all	varje
+13.14	every, all	alla
+13.15	much, many	mycket
+13.15	much, many	många
+13.16	more	mer
+13.16	more	fler
+13.16	more	flera
+13.17	little (quantity), few	litet
+13.17	little (quantity), few	få
+13.17	little (quantity), few	intemycket
+13.17	little (quantity), few	intemånga
+13.18	enough	nog
+13.181	some	någorlunda
+13.181	some	endel
+13.19	multitude, crowd	mängd
+13.19	multitude, crowd	hop
+13.21	full	full
+13.22	empty	tom
+13.23	part, piece	del
+13.24	half	halv
+13.33	alone, only	ensam
+13.33	alone, only	allena
+13.33	alone, only	ende
+13.33	alone, only	enda
+13.33	alone, only	bara
+13.33	alone, only	allenast
+13.33	alone, only	blott
+13.33	alone, only	endast
+13.34	first	först
+13.35	last	sist
+13.36	second	andra
+13.36	second	somtvåa
+13.37	pair	par
+13.38	two times	tvågånger
+13.42	third	tredje
+13.44	three times	tregånger
+14.11	time	tid
+14.12	age	ålder
+14.13	new	ny
+14.14	young	ung
+14.15	old	gammal
+14.16	early	tidigt
+14.16	early	arla
+14.17	late	sent
+14.18	now	nu
+14.19	immediately	snart
+14.19	immediately	strax
+14.19	immediately	genast
+14.21	swift, fast, quick	snabb
+14.21	swift, fast, quick	snabbt
+14.21	swift, fast, quick	snar
+14.21	swift, fast, quick	rask
+14.21	swift, fast, quick	fort
+14.22	slow	sakta
+14.22	slow	långsam
+14.22	slow	långsamt
+14.22	slow	trög
+14.23	hasten, hurry	skyndasig
+14.23	hasten, hurry	hasta
+14.23	hasten, hurry	ila
+14.23	hasten, hurry	brådska
+14.24	retard, delay	dröja
+14.25	begin, beginning	börja
+14.25	begin, beginning	begynna
+14.25	begin, beginning	början
+14.25	begin, beginning	begynnelse
+14.252	last, endure	vara
+14.252	last, endure	räcka
+14.26	end (temporal)	ände
+14.26	end (temporal)	slut
+14.27	finish	afsluta
+14.27	finish	avsluta
+14.27	finish	sluta
+14.27	finish	ända
+14.28	cease, stop	upphöra
+14.28	cease, stop	sluta
+14.29	ready	färdig
+14.31	always	alltid
+14.32	often	ofta
+14.33	sometimes	ibland
+14.33	sometimes	emellanåt
+14.33	sometimes	stundom
+14.331	soon	snart
+14.331	soon	strax
+14.332	long-time (for a)	förenlångtid
+14.332	long-time (for a)	underlångtid
+14.34	never	aldrig
+14.35	again	igen
+14.35	again	åter
+14.41	day	dag
+14.42	night	natt
+14.43	dawn	dagning
+14.43	dawn	gryning
+14.44	morning	morgon
+14.45	noon, midday	middag
+14.451	afternoon	eftermiddag
+14.46	evening	afton
+14.46	evening	kväll
+14.47	today	idag
+14.48	tomorrow	imorgon
+14.481	day-after-tomorrow	övermorgon
+14.49	yesterday	igår
+14.491	day-before-yesterday	förrgår
+14.491	day-before-yesterday	förgår
+14.51	hour	timme
+14.53	clock, timepiece	klocka
+14.53	clock, timepiece	ur
+14.61	week	vecka
+14.62	Sunday	söndag
+14.63	Monday	måndag
+14.64	Tuesday	tisdag
+14.65	Wednesday	onsdag
+14.66	Thursday	torsdag
+14.67	Friday	fredag
+14.68	Saturday	lördag
+14.71	month	månad
+14.73	year	år
+14.74	winter	vinter
+14.75	spring	vår
+14.76	summer	sommar
+14.77	autumn	höst
+14.78	season	årstid
+14.78	season	tid
+14.78	season	säsong
+15.21	smell (vb intrans)	lukta
+15.212	sniff	andasin
+15.212	sniff	sniffa
+15.212	sniff	lukta
+15.22	smell (vb trans)	luktapå
+15.22	smell (vb trans)	nosapå
+15.25	fragrant, good smelling	välluktande
+15.25	fragrant, good smelling	doftande
+15.26	stinking, bad smelling	stinkande
+15.26	stinking, bad smelling	illaluktande
+15.31	taste	smaka
+15.35	sweet	söt
+15.35	sweet	sött
+15.36	salty	salt
+15.37	bitter	bitter
+15.38	acid, sour	sur
+15.39	brackish	bräckt
+15.41	hear	höra
+15.42	listen	lyssna
+15.44	sound, noise	ljud
+15.45	loud	hög
+15.46	quiet, silence	tyst
+15.46	quiet, silence	stilla
+15.46	quiet, silence	lugn
+15.46	quiet, silence	tystnad
+15.46	quiet, silence	stillhet
+15.46	quiet, silence	ro
+15.51	see	se
+15.52	look, look at	sepå
+15.52	look, look at	blicka
+15.52	look, look at	tittapå
+15.55	show	visa
+15.56	shine	skina
+15.56	shine	lysa
+15.56	shine	glänsa
+15.57	bright	ljus
+15.57	bright	blank
+15.57	bright	klar
+15.57	bright	glänsande
+15.61	color	färg
+15.62	light (in color)	ljus
+15.63	dark (in color)	mörk
+15.63	dark (in color)	dunkel
+15.64	white	hvit
+15.64	white	vit
+15.65	black	svart
+15.66	red	röd
+15.67	blue	blå
+15.68	green	grön
+15.69	yellow	gul
+15.71	touch	vidröra
+15.71	touch	beröra
+15.712	pinch	nypa
+15.712	pinch	knipa
+15.712	pinch	klämma
+15.712	pinch	nypning
+15.712	pinch	knipning
+15.712	pinch	klämning
+15.72	feel	kännapå
+15.72	feel	treva
+15.74	hard	hård
+15.75	soft	mjuk
+15.76	rough	ojämn
+15.76	rough	skrovlig
+15.77	smooth	slät
+15.77	smooth	jämn
+15.77	smooth	glatt
+15.78	sharp	skarp
+15.78	sharp	vass
+15.79	blunt, dull	slö
+15.79	blunt, dull	trubbig
+15.81	heavy	tung
+15.82	light (in weight)	lätt
+15.83	wet, damp	våt
+15.83	wet, damp	fuktig
+15.84	dry	torr
+15.85	hot	het
+15.851	warm	varm
+15.86	cold	kall
+15.87	clean	ren
+15.88	dirty, soiled	smutsig
+15.88	dirty, soiled	oren
+15.89	wrinkled	skrynklig
+16.11	soul, spirit	själ
+16.11	soul, spirit	ande
+16.15	surprised, astonished	förundran
+16.15	surprised, astonished	förvåning
+16.18	good fortune, luck	lycka
+16.18	good fortune, luck	tur
+16.19	misfortune, bad luck	olycka
+16.19	misfortune, bad luck	otur
+16.23	joyful, glad, happy	glad
+16.25	laugh	skratta
+16.25	laugh	le
+16.251	smile	småle
+16.251	smile	leende
+16.26	play	leka
+16.26	play	spela
+16.27	love	kärlek
+16.27	love	älskog
+16.27	love	älska
+16.29	kiss	kyssa
+16.3	embrace	omfamna
+16.31	pain	smärta
+16.31	pain	värk
+16.31	pain	ont
+16.31	pain	lidande
+16.32	grief, sorrow, sadness	djupsorg
+16.32	grief, sorrow, sadness	sorg
+16.32	grief, sorrow, sadness	grämelse
+16.33	anxiety, worry	ängslan
+16.33	anxiety, worry	oro
+16.33	anxiety, worry	bekymmer
+16.34	regret, be sorry	beklaga
+16.34	regret, be sorry	ångra
+16.35	pity	medlidande
+16.35	pity	medömkan
+16.37	cry, weep	gråta
+16.38	tear (noun)	tår
+16.39	groan	stöna
+16.41	hate	hat
+16.41	hate	hata
+16.42	anger	vrede
+16.42	anger	ilska
+16.44	envy, jealousy	avund
+16.44	envy, jealousy	svartsjuka
+16.45	shame (noun)	skam
+16.48	proud	stolt
+16.51	dare	våga
+16.51	dare	töras
+16.52	brave	tapper
+16.52	brave	modig
+16.53	fear, fright	fruktan
+16.53	fear, fright	rädsla
+16.53	fear, fright	skräck
+16.54	danger	fara
+16.62	desire, want	åstunda
+16.62	desire, want	begära
+16.62	desire, want	önska
+16.62	desire, want	viljaha
+16.622	choose	välja
+16.622	choose	utvälja
+16.63	hope	hopp
+16.63	hope	hoppas
+16.65	faithful	trogen
+16.66	true	sann
+16.67	lie, tell lies	lögn
+16.68	deceit	bedrägeri
+16.68	deceit	svek
+16.69	forgive	förlåta
+16.69	forgive	tillgiva
+16.71	good	god
+16.71	good	bra
+16.71	good	snäll
+16.72	bad	ond
+16.72	bad	elak
+16.72	bad	dålig
+16.73	right, correct	rätt
+16.74	wrong	orätt
+16.76	fault	skuld
+16.77	mistake, error	fel
+16.78	blame	tadel
+16.78	blame	kritik
+16.79	praise	beröm
+16.79	praise	pris
+16.79	praise	lov
+16.81	beautiful	vacker
+16.81	beautiful	skön
+16.81	beautiful	fager
+16.82	ugly	ful
+16.82	ugly	stygg
+16.83	greedy	lysten
+16.83	greedy	glupsk
+16.84	clever	begåvad
+16.84	clever	intelligent
+16.84	clever	skicklig
+16.84	clever	duktig
+16.84	clever	fiffig
+17.11	mind	sinne
+17.13	think (= reflect)	tänka
+17.14	think (= be of the opinion)	tycka
+17.14	think (= be of the opinion)	mena
+17.14	think (= be of the opinion)	tänka
+17.14	think (= be of the opinion)	tro
+17.15	believe	tro
+17.16	understand	förstå
+17.17	know	veta
+17.17	know	känna
+17.171	guess	gissa
+17.172	imitate	imitera
+17.172	imitate	härma
+17.172	imitate	apaefter
+17.18	seem	synas
+17.18	seem	tyckas
+17.19	idea, notion	idé
+17.19	idea, notion	infall
+17.19	idea, notion	föreställning
+17.19	idea, notion	begrepp
+17.19	idea, notion	aning
+17.21	wise	vis
+17.21	wise	klok
+17.22	foolish, stupid	idiotisk
+17.22	foolish, stupid	tokig
+17.22	foolish, stupid	dum
+17.23	insane, crazy	galen
+17.23	insane, crazy	vansinnig
+17.23	insane, crazy	tokig
+17.23	insane, crazy	förryckt
+17.24	learn	lärasig
+17.242	study	läsa
+17.242	study	studera
+17.242	study	lärasig
+17.25	teach	lära
+17.25	teach	undervisa
+17.26	pupil	elev
+17.26	pupil	lärjunge
+17.27	teacher	lärare
+17.28	school	skola
+17.31	remember	ihågkomma
+17.31	remember	kommaihåg
+17.31	remember	minnas
+17.32	forget	glömma
+17.34	clear, plain	klar
+17.34	clear, plain	tydlig
+17.35	obscure	dunkel
+17.35	obscure	oklar
+17.35	obscure	otydlig
+17.36	secret	hemlig
+17.36	secret	lönnlig
+17.37	sure, certain	säker
+17.37	sure, certain	viss
+17.38	explain	förklara
+17.41	intention, purpose	avsikt
+17.41	intention, purpose	föresats
+17.41	intention, purpose	uppsåt
+17.41	intention, purpose	syfte
+17.42	cause	orsak
+17.43	doubt	tvivel
+17.44	suspect	misstanke
+17.441	betray	förråda
+17.441	betray	avslöja
+17.441	betray	röja
+17.45	need, necessity	nöd
+17.46	easy	lätt
+17.46	easy	enkel
+17.47	difficult	svår
+17.48	try, attempt	försöka
+17.48	try, attempt	prövapå
+17.49	way, manner	sätt
+17.49	way, manner	vis
+17.49	way, manner	vana
+17.49	way, manner	egenhet
+17.51	and	och
+17.52	because	emedan
+17.52	because	därföratt
+17.52	because	pågrundav
+17.53	if	om
+17.54	or	eller
+17.55	yes, affirmative	ja
+17.56	no, negative	nej
+17.61	how?	hur
+17.62	how many?	hurmånga
+17.63	how much?	hurmycket
+17.64	what?	vad
+17.65	when?	när
+17.66	where?	var
+17.67	which?	vilken
+17.68	who?	vem
+17.69	why?	varför
+18.11	voice	röst
+18.11	voice	stämma
+18.12	sing	sjunga
+18.13	shout, cry out	ropa
+18.13	shout, cry out	skrika
+18.15	whisper	viska
+18.16	mumble	mumla
+18.16	mumble	muttra
+18.17	whistle	vissla
+18.18	shriek, screech	skrika
+18.19	howl	tjuta
+18.19	howl	vråla
+18.19	howl	yla
+18.19	howl	vina
+18.21	speak, talk	tala
+18.21	speak, talk	prata
+18.211	stutter, stammer	stamma
+18.22	say	säga
+18.221	tell story	berätta
+18.222	speech (make a)	tal
+18.222	speech (make a)	anförande
+18.222	speech (make a)	hållaetttal
+18.23	silent (be)	tyst
+18.23	silent (be)	tiga
+18.24	language	språk
+18.24	language	mål
+18.24	language	tungomål
+18.26	word	ord
+18.28	name	namn
+18.31	ask (question, inquire)	fråga
+18.32	answer	svara
+18.33	admit, confess	medge
+18.33	admit, confess	medgiva
+18.33	admit, confess	tillstå
+18.33	admit, confess	bekänna
+18.34	deny	neka
+18.34	deny	förneka
+18.35	ask, request	be
+18.35	ask, request	begära
+18.35	ask, request	fordra
+18.36	promise	lova
+18.37	refuse	förvägra
+18.37	refuse	vägra
+18.37	refuse	avslå
+18.38	forbid	förbjuda
+18.39	rebuke, scold	tillrättavisa
+18.39	rebuke, scold	klandra
+18.41	call (=summon)	kallapånågon
+18.41	call (=summon)	ropapånågon
+18.42	call (=name)	kalla
+18.42	call (=name)	heta
+18.43	announce	kungöra
+18.43	announce	förkunna
+18.44	threaten	hota
+18.45	boast	skryta
+18.51	write	skriva
+18.52	read	läsa
+18.56	paper	papper
+18.57	pen	penna
+18.61	book	bok
+18.67	poet	skald
+18.67	poet	diktare
+18.67	poet	poet
+18.71	flute	flöjt
+18.72	drum	trumma
+18.73	horn, trumpet	trumpet
+18.73	horn, trumpet	blåsinstrument
+18.74	rattle	skallra
+19.11	country	land
+19.12	one's native country	fädernesland
+19.12	one's native country	fosterland
+19.15	city, town	stad
+19.16	village	by
+19.17	boundary	gräns
+19.21	people (populace)	folk
+19.23	tribe, clan	stam
+19.23	tribe, clan	slägt
+19.23	tribe, clan	släkt
+19.23	tribe, clan	ätt
+19.24	chief, chieftain	ledare
+19.24	chief, chieftain	chef
+19.24	chief, chieftain	hövding
+19.24	chief, chieftain	huvudman
+19.25	staff, walking stick	stav
+19.25	staff, walking stick	käpp
+19.31	rule, govern	styra
+19.31	rule, govern	härska
+19.31	rule, govern	regera
+19.32	king, ruler	konung
+19.33	queen	drottning
+19.36	noble, nobleman	ädling
+19.36	noble, nobleman	adelsman
+19.37	citizen, subject	borgare
+19.37	citizen, subject	medborgare
+19.41	master	herre
+19.42	slave	slav
+19.42	slave	träl
+19.43	servant	tjänare
+19.44	freeman	fri
+19.45	command, order	befalla
+19.45	command, order	bjuda
+19.46	obey	lyda
+19.46	obey	hörsamma
+19.47	let, permit	låta
+19.47	let, permit	tilllåta
+19.51	friend, companion	vän
+19.52	enemy	ovän
+19.52	enemy	fiende
+19.54	neighbor	granne
+19.55	stranger	främling
+19.56	guest	gäst
+19.57	host	värd
+19.58	help, aid	hjälpa
+19.59	hinder, prevent	förhindra
+19.59	hinder, prevent	hindra
+19.59	hinder, prevent	hämma
+19.59	hinder, prevent	förekomma
+19.61	custom	sedvänja
+19.61	custom	sed
+19.61	custom	vana
+19.62	strife, quarrel	strid
+19.62	strife, quarrel	tvist
+19.62	strife, quarrel	gräl
+19.62	strife, quarrel	träta
+19.63	conspiracy, plot	sammansvärjning
+19.65	meet	möta
+19.65	meet	träffa
+19.72	prostitute	prostituerad
+19.72	prostitute	sköka
+19.72	prostitute	hora
+20.11	fight (vb)	slåss
+20.11	fight (vb)	kämpa
+20.11	fight (vb)	fäkta
+20.13	war, battle	krig
+20.14	peace	fred
+20.15	army	här
+20.15	army	armé
+20.17	soldier	soldat
+20.21	weapons, arms	vapen
+20.22	club	klubba
+20.222	battle-ax	stridsyxa
+20.23	sling	slunga
+20.24	bow	båge
+20.25	arrow	pil
+20.26	spear	spjut
+20.26	spear	lans
+20.27	sword	svärd
+20.28	gun, cannon	gevär
+20.28	gun, cannon	bössa
+20.28	gun, cannon	skjutvapen
+20.28	gun, cannon	kanon
+20.31	armor (defensive)	vapenrustning
+20.31	armor (defensive)	rustning
+20.31	armor (defensive)	harnesk
+20.33	helmet	hjälm
+20.34	shield	sköld
+20.35	fortress	fästning
+20.36	tower	torn
+20.41	victory	seger
+20.42	defeat	nederlag
+20.43	attack	anfall
+20.44	defend	försvar
+20.45	retreat	reträtt
+20.45	retreat	återtåg
+20.46	surrender	kapitulera
+20.46	surrender	geupp
+20.46	surrender	överlämna
+20.47	captive, prisoner	fånge
+20.471	guard, sentinel	vakt
+20.471	guard, sentinel	väktare
+20.48	booty, spoils	byte
+20.48	booty, spoils	rov
+20.49	ambush	bakhåll
+20.51	fisherman	fiskare
+20.52	fishhook	krok
+20.53	fishing line	metrev
+20.54	fishnet	fisknät
+20.55	fish trap	snärja
+20.55	fish trap	fiskfälla
+20.55	fish trap	snara
+20.56	bait	agn
+20.56	bait	bete
+20.61	hunt	jaga
+20.62	shoot	skjuta
+20.62	shoot	fyraav
+20.63	miss (target)	missa
+20.63	miss (target)	gåmisteom
+20.64	trap (noun)	fälla
+20.64	trap (noun)	snara
+20.65	trap (vb)	sättautfällor
+20.65	trap (vb)	lockaifällan
+20.65	trap (vb)	snara
+20.65	trap (vb)	snärja
+21.11	law	lag
+21.11	law	rätt
+21.15	court	rätt
+21.15	court	domstol
+21.16	judge (vb)	döma
+21.17	judgment	dom
+21.18	judge (noun)	domare
+21.21	plaintiff	kärande
+21.22	defendant	svarande
+21.23	witness	vittne
+21.24	swear	svära
+21.24	swear	svärja
+21.25	oath	ed
+21.31	accuse	anklaga
+21.31	accuse	beskylla
+21.32	condemn	döma
+21.33	convict (vb)	överbevisa
+21.33	convict (vb)	förklaraskyldig
+21.34	acquit	frikänna
+21.35	guilty	skyldig
+21.36	innocent	oskyldig
+21.37	penalty, punishment	straff
+21.38	fine	plikt
+21.38	fine	böter
+21.39	prison, jail	fängelse
+21.42	murder	mord
+21.43	adultery	äktenskapsbrott
+21.43	adultery	hor
+21.44	rape	våldtäkt
+21.46	arson	mordbrand
+21.47	perjury	mened
+21.51	steal	stjäla
+21.52	thief	tjuv

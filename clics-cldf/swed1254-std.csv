@@ -1,0 +1,2057 @@
+ID,Language_ID,Feature_ID,IDS_Key,Value,Concept,IPA_UDECODE
+clics-doculect-87-1,swed1254-std,concepticon-965,1.1,verld,world,verld
+clics-doculect-87-2,swed1254-std,concepticon-965,1.1,värld,world,varld
+clics-doculect-87-3,swed1254-std,concepticon-626,1.21,jord,"earth, land",jord
+clics-doculect-87-4,swed1254-std,concepticon-626,1.21,land,"earth, land",land
+clics-doculect-87-5,swed1254-std,concepticon-1228,1.212,grund,"earth=ground, soil",grund
+clics-doculect-87-6,swed1254-std,concepticon-1228,1.212,land,"earth=ground, soil",land
+clics-doculect-87-7,swed1254-std,concepticon-1228,1.212,mark,"earth=ground, soil",mark
+clics-doculect-87-8,swed1254-std,concepticon-1228,1.212,jord,"earth=ground, soil",jord
+clics-doculect-87-9,swed1254-std,concepticon-2,1.213,damm,dust,damm
+clics-doculect-87-10,swed1254-std,concepticon-2,1.213,stoft,dust,stoft
+clics-doculect-87-11,swed1254-std,concepticon-640,1.214,gyttja,mud,gyttja
+clics-doculect-87-12,swed1254-std,concepticon-640,1.214,dy,mud,dy
+clics-doculect-87-13,swed1254-std,concepticon-640,1.214,mudder,mud,mudder
+clics-doculect-87-14,swed1254-std,concepticon-640,1.214,gäggamoja,mud,gaggamoja
+clics-doculect-87-15,swed1254-std,concepticon-640,1.214,lera,mud,lera
+clics-doculect-87-16,swed1254-std,concepticon-671,1.215,sand,sand,sand
+clics-doculect-87-17,swed1254-std,concepticon-2118,1.22,berg,"mountain, hill",berg
+clics-doculect-87-18,swed1254-std,concepticon-2118,1.22,kulle,"mountain, hill",kulle
+clics-doculect-87-19,swed1254-std,concepticon-2118,1.22,fjäll,"mountain, hill",fjall
+clics-doculect-87-20,swed1254-std,concepticon-2118,1.22,backe,"mountain, hill",backe
+clics-doculect-87-21,swed1254-std,concepticon-618,1.222,klippa,"cliff, precipice",klippa
+clics-doculect-87-22,swed1254-std,concepticon-618,1.222,stup,"cliff, precipice",stup
+clics-doculect-87-23,swed1254-std,concepticon-652,1.23,slätt,"plain, field",slatt
+clics-doculect-87-24,swed1254-std,concepticon-652,1.23,fält,"plain, field",falt
+clics-doculect-87-25,swed1254-std,concepticon-921,1.24,dal,valley,dal
+clics-doculect-87-26,swed1254-std,concepticon-622,1.25,ö,island,o
+clics-doculect-87-27,swed1254-std,concepticon-166,1.26,fastland,mainland,fastland
+clics-doculect-87-28,swed1254-std,concepticon-113,1.27,strand,shore,strand
+clics-doculect-87-29,swed1254-std,concepticon-113,1.27,kust,shore,kust
+clics-doculect-87-30,swed1254-std,concepticon-1155,1.28,håla,cave,hala
+clics-doculect-87-31,swed1254-std,concepticon-1155,1.28,grotta,cave,grotta
+clics-doculect-87-32,swed1254-std,concepticon-948,1.31,vatten,water,vatten
+clics-doculect-87-33,swed1254-std,concepticon-1474,1.32,hav,sea,hav
+clics-doculect-87-34,swed1254-std,concepticon-1474,1.32,sjö,sea,sjo
+clics-doculect-87-35,swed1254-std,concepticon-258,1.322,stilla,calm (of sea),stilla
+clics-doculect-87-36,swed1254-std,concepticon-259,1.323,stormig,rough (of sea),stormig
+clics-doculect-87-37,swed1254-std,concepticon-1768,1.324,skum,foam,skum
+clics-doculect-87-38,swed1254-std,concepticon-645,1.329,hav,ocean,hav
+clics-doculect-87-39,swed1254-std,concepticon-645,1.329,ocean,ocean,ocean
+clics-doculect-87-40,swed1254-std,concepticon-624,1.33,sjö,lake,sjo
+clics-doculect-87-41,swed1254-std,concepticon-624,1.33,insjö,lake,insjo
+clics-doculect-87-42,swed1254-std,concepticon-663,1.34,vik,"gulf, bay",vik
+clics-doculect-87-43,swed1254-std,concepticon-663,1.34,bukt,"gulf, bay",bukt
+clics-doculect-87-44,swed1254-std,concepticon-623,1.341,lagun,lagoon,lagun
+clics-doculect-87-45,swed1254-std,concepticon-660,1.342,rev,reef,rev
+clics-doculect-87-46,swed1254-std,concepticon-1662,1.343,udde,"headland, point",udde
+clics-doculect-87-47,swed1254-std,concepticon-1662,1.343,landtunga,"headland, point",landtunga
+clics-doculect-87-48,swed1254-std,concepticon-1662,1.343,tunga,"headland, point",tunga
+clics-doculect-87-49,swed1254-std,concepticon-978,1.35,våg,wave,vag
+clics-doculect-87-50,swed1254-std,concepticon-978,1.35,bölja,wave,bolja
+clics-doculect-87-51,swed1254-std,concepticon-891,1.352,tidvatten,tide,tidvatten
+clics-doculect-87-52,swed1254-std,concepticon-891,1.352,ebbochflod,tide,ebbochflod
+clics-doculect-87-53,swed1254-std,concepticon-1026,1.353,lågvatten,lowtide,lagvatten
+clics-doculect-87-54,swed1254-std,concepticon-1026,1.353,ebb,lowtide,ebb
+clics-doculect-87-55,swed1254-std,concepticon-613,1.354,högvatten,hightide,hogvatten
+clics-doculect-87-56,swed1254-std,concepticon-613,1.354,flod,hightide,flod
+clics-doculect-87-57,swed1254-std,concepticon-666,1.36,flod,"river, stream, brook",flod
+clics-doculect-87-58,swed1254-std,concepticon-666,1.36,älv,"river, stream, brook",alv
+clics-doculect-87-59,swed1254-std,concepticon-666,1.36,å,"river, stream, brook",a
+clics-doculect-87-60,swed1254-std,concepticon-666,1.36,ström,"river, stream, brook",strom
+clics-doculect-87-61,swed1254-std,concepticon-666,1.36,bäck,"river, stream, brook",back
+clics-doculect-87-62,swed1254-std,concepticon-1982,1.362,virvel,whirlpool,virvel
+clics-doculect-87-63,swed1254-std,concepticon-1982,1.362,strömvirvel,whirlpool,stromvirvel
+clics-doculect-87-64,swed1254-std,concepticon-2144,1.37,källa,"spring, well",kalla
+clics-doculect-87-65,swed1254-std,concepticon-2144,1.37,brunn,"spring, well",brunn
+clics-doculect-87-66,swed1254-std,concepticon-1145,1.38,kärr,swamp,karr
+clics-doculect-87-67,swed1254-std,concepticon-1145,1.38,myr,swamp,myr
+clics-doculect-87-68,swed1254-std,concepticon-1145,1.38,träsk,swamp,trask
+clics-doculect-87-69,swed1254-std,concepticon-1145,1.38,sumpmark,swamp,sumpmark
+clics-doculect-87-70,swed1254-std,concepticon-943,1.39,vattenfall,waterfall,vattenfall
+clics-doculect-87-71,swed1254-std,concepticon-943,1.39,fors,waterfall,fors
+clics-doculect-87-72,swed1254-std,concepticon-420,1.41,skog,"woods, forest",skog
+clics-doculect-87-74,swed1254-std,concepticon-1803,1.43,trä,wood,tra
+clics-doculect-87-75,swed1254-std,concepticon-2125,1.44,sten,"stone, rock",sten
+clics-doculect-87-76,swed1254-std,concepticon-2125,1.44,klippa,"stone, rock",klippa
+clics-doculect-87-77,swed1254-std,concepticon-6,1.45,jordbävning,earthquake,jordbavning
+clics-doculect-87-78,swed1254-std,concepticon-1732,1.51,himmel,sky,himmel
+clics-doculect-87-79,swed1254-std,concepticon-1732,1.51,sky,sky,sky
+clics-doculect-87-80,swed1254-std,concepticon-1343,1.52,sol,sun,sol
+clics-doculect-87-81,swed1254-std,concepticon-1313,1.53,måne,moon,mane
+clics-doculect-87-82,swed1254-std,concepticon-1430,1.54,stjärna,star,stjarna
+clics-doculect-87-83,swed1254-std,concepticon-1654,1.55,blixt,lightning,blixt
+clics-doculect-87-84,swed1254-std,concepticon-1150,1.56,åska,thunder,aska
+clics-doculect-87-85,swed1254-std,concepticon-1150,1.56,tordön,thunder,tordon
+clics-doculect-87-86,swed1254-std,concepticon-2007,1.57,blixt,lightning (as striking),blixt
+clics-doculect-87-87,swed1254-std,concepticon-2007,1.57,åskslag,lightning (as striking),askslag
+clics-doculect-87-88,swed1254-std,concepticon-2007,1.57,åskvigg,lightning (as striking),askvigg
+clics-doculect-87-89,swed1254-std,concepticon-858,1.58,storm,storm,storm
+clics-doculect-87-90,swed1254-std,concepticon-858,1.58,oväder,storm,ovader
+clics-doculect-87-91,swed1254-std,concepticon-1733,1.59,regnbåge,rainbow,regnbage
+clics-doculect-87-92,swed1254-std,concepticon-630,1.61,ljus,light (noun),ljus
+clics-doculect-87-93,swed1254-std,concepticon-11,1.62,mörker,darkness,morker
+clics-doculect-87-94,swed1254-std,concepticon-1388,1.63,skugga,"shade, shadow",skugga
+clics-doculect-87-95,swed1254-std,concepticon-1977,1.64,dagg,dew,dagg
+clics-doculect-87-96,swed1254-std,concepticon-27,1.71,luft,air,luft
+clics-doculect-87-97,swed1254-std,concepticon-960,1.72,vind,wind,vind
+clics-doculect-87-98,swed1254-std,concepticon-1489,1.73,moln,cloud,moln
+clics-doculect-87-99,swed1254-std,concepticon-1489,1.73,sky,cloud,sky
+clics-doculect-87-100,swed1254-std,concepticon-249,1.74,dimma,fog,dimma
+clics-doculect-87-101,swed1254-std,concepticon-249,1.74,töcken,fog,tocken
+clics-doculect-87-102,swed1254-std,concepticon-658,1.75,regn,rain (noun),regn
+clics-doculect-87-103,swed1254-std,concepticon-784,1.76,snö,snow (noun),sno
+clics-doculect-87-104,swed1254-std,concepticon-617,1.77,is,ice,is
+clics-doculect-87-105,swed1254-std,concepticon-952,1.78,väder,weather,vader
+clics-doculect-87-106,swed1254-std,concepticon-221,1.81,eld,fire,eld
+clics-doculect-87-107,swed1254-std,concepticon-889,1.82,låga,flame (noun),laga
+clics-doculect-87-108,swed1254-std,concepticon-889,1.82,flamma,flame (noun),flamma
+clics-doculect-87-109,swed1254-std,concepticon-778,1.83,rök,smoke (noun),rok
+clics-doculect-87-110,swed1254-std,concepticon-646,1.84,aska,ashes,aska
+clics-doculect-87-111,swed1254-std,concepticon-67,1.841,glöd,embers,glod
+clics-doculect-87-112,swed1254-std,concepticon-67,1.841,glödandekol,embers,glodandekol
+clics-doculect-87-113,swed1254-std,concepticon-141,1.851,bränna,burn (vb trans),branna
+clics-doculect-87-114,swed1254-std,concepticon-1428,1.852,brinna,burn (vb intrans),brinna
+clics-doculect-87-115,swed1254-std,concepticon-737,1.86,tända,"light, kindle, ignite",tanda
+clics-doculect-87-116,swed1254-std,concepticon-127,1.861,släcka,extinguish,slacka
+clics-doculect-87-117,swed1254-std,concepticon-1133,1.87,tändsticka,match (noun),tandsticka
+clics-doculect-87-118,swed1254-std,concepticon-10,1.88,ved,firewood,ved
+clics-doculect-87-119,swed1254-std,concepticon-1188,1.89,kol,charcoal,kol
+clics-doculect-87-120,swed1254-std,concepticon-683,2.1,menniska,"person, human being",menniska
+clics-doculect-87-121,swed1254-std,concepticon-683,2.1,människa,"person, human being",manniska
+clics-doculect-87-122,swed1254-std,concepticon-1554,2.21,man,man (vs. woman),man
+clics-doculect-87-123,swed1254-std,concepticon-962,2.22,kvinna,woman,kvinna
+clics-doculect-87-124,swed1254-std,concepticon-1553,2.23,manlig,male,manlig
+clics-doculect-87-125,swed1254-std,concepticon-1551,2.24,kvinnlig,female,kvinnlig
+clics-doculect-87-126,swed1254-std,concepticon-1366,2.25,gosse,boy,gosse
+clics-doculect-87-127,swed1254-std,concepticon-1366,2.25,pojke,boy,pojke
+clics-doculect-87-128,swed1254-std,concepticon-76,2.251,ungman,young man (adolescent),ungman
+clics-doculect-87-129,swed1254-std,concepticon-76,2.251,ungdom,young man (adolescent),ungdom
+clics-doculect-87-130,swed1254-std,concepticon-1646,2.26,flicka,girl,flicka
+clics-doculect-87-131,swed1254-std,concepticon-77,2.261,ungflicka,young woman (adolescent),ungflicka
+clics-doculect-87-132,swed1254-std,concepticon-77,2.261,ungdom,young woman (adolescent),ungdom
+clics-doculect-87-133,swed1254-std,concepticon-1304,2.27,barn,child,barn
+clics-doculect-87-134,swed1254-std,concepticon-1289,2.28,spädbarn,"infant, baby",spadbarn
+clics-doculect-87-135,swed1254-std,concepticon-1289,2.28,baby,"infant, baby",baby
+clics-doculect-87-136,swed1254-std,concepticon-1200,2.31,man,husband,man
+clics-doculect-87-137,swed1254-std,concepticon-1200,2.31,äktaman,husband,aktaman
+clics-doculect-87-138,swed1254-std,concepticon-1200,2.31,make,husband,make
+clics-doculect-87-139,swed1254-std,concepticon-1199,2.32,hustru,wife,hustru
+clics-doculect-87-140,swed1254-std,concepticon-1199,2.32,maka,wife,maka
+clics-doculect-87-141,swed1254-std,concepticon-1199,2.32,fru,wife,fru
+clics-doculect-87-142,swed1254-std,concepticon-203,2.33,giftasig,marry,giftasig
+clics-doculect-87-143,swed1254-std,concepticon-203,2.33,äkta,marry,akta
+clics-doculect-87-144,swed1254-std,concepticon-1259,2.34,giftermål,"marriage, wedding",giftermal
+clics-doculect-87-145,swed1254-std,concepticon-1259,2.34,äktenskap,"marriage, wedding",aktenskap
+clics-doculect-87-146,swed1254-std,concepticon-1259,2.34,bröllop,"marriage, wedding",brollop
+clics-doculect-87-147,swed1254-std,concepticon-1134,2.341,skilsmässa,divorce,skilsmassa
+clics-doculect-87-148,swed1254-std,concepticon-1217,2.35,fader,father,fader
+clics-doculect-87-149,swed1254-std,concepticon-1217,2.35,far,father,far
+clics-doculect-87-150,swed1254-std,concepticon-1216,2.36,moder,mother,moder
+clics-doculect-87-151,swed1254-std,concepticon-1216,2.36,mor,mother,mor
+clics-doculect-87-152,swed1254-std,concepticon-505,2.37,föräldrar,parents,foraldrar
+clics-doculect-87-153,swed1254-std,concepticon-424,2.38,giftman,married man,giftman
+clics-doculect-87-154,swed1254-std,concepticon-426,2.39,giftkvinna,married woman,giftkvinna
+clics-doculect-87-155,swed1254-std,concepticon-1620,2.41,son,son,son
+clics-doculect-87-156,swed1254-std,concepticon-1357,2.42,dotter,daughter,dotter
+clics-doculect-87-157,swed1254-std,concepticon-1801,2.43,avkomma,offspring (son or daughter),avkomma
+clics-doculect-87-158,swed1254-std,concepticon-1801,2.43,ättling,offspring (son or daughter),attling
+clics-doculect-87-159,swed1254-std,concepticon-1262,2.44,broder,brother,broder
+clics-doculect-87-160,swed1254-std,concepticon-1262,2.44,bror,brother,bror
+clics-doculect-87-161,swed1254-std,concepticon-1759,2.444,äldrebror,older brother,aldrebror
+clics-doculect-87-162,swed1254-std,concepticon-1760,2.445,yngrebror,younger brother,yngrebror
+clics-doculect-87-163,swed1254-std,concepticon-1263,2.45,syster,sister,syster
+clics-doculect-87-164,swed1254-std,concepticon-1758,2.454,äldresyster,older sister,aldresyster
+clics-doculect-87-165,swed1254-std,concepticon-1761,2.455,yngresyster,younger sister,yngresyster
+clics-doculect-87-166,swed1254-std,concepticon-1640,2.456,syskon,sibling,syskon
+clics-doculect-87-167,swed1254-std,concepticon-1005,2.458,tvillingar,twins,tvillingar
+clics-doculect-87-168,swed1254-std,concepticon-1383,2.46,farfar,grandfather,farfar
+clics-doculect-87-169,swed1254-std,concepticon-1383,2.46,morfar,grandfather,morfar
+clics-doculect-87-170,swed1254-std,concepticon-406,2.461,åldring,old man,aldring
+clics-doculect-87-171,swed1254-std,concepticon-1496,2.47,farmor,grandmother,farmor
+clics-doculect-87-172,swed1254-std,concepticon-1496,2.47,mormor,grandmother,mormor
+clics-doculect-87-173,swed1254-std,concepticon-907,2.471,åldring,old woman,aldring
+clics-doculect-87-174,swed1254-std,concepticon-1618,2.48,sonson,grandson,sonson
+clics-doculect-87-175,swed1254-std,concepticon-1618,2.48,dotterson,grandson,dotterson
+clics-doculect-87-176,swed1254-std,concepticon-1619,2.49,sondotter,granddaughter,sondotter
+clics-doculect-87-177,swed1254-std,concepticon-1619,2.49,dotterdotter,granddaughter,dotterdotter
+clics-doculect-87-178,swed1254-std,concepticon-1327,2.51,farbror,uncle,farbror
+clics-doculect-87-179,swed1254-std,concepticon-1327,2.51,morbror,uncle,morbror
+clics-doculect-87-180,swed1254-std,concepticon-1327,2.51,onkel,uncle,onkel
+clics-doculect-87-181,swed1254-std,concepticon-1984,2.511,morbror,mother's brother,morbror
+clics-doculect-87-182,swed1254-std,concepticon-1985,2.512,farbror,father's brother,farbror
+clics-doculect-87-183,swed1254-std,concepticon-1272,2.52,moster,aunt,moster
+clics-doculect-87-184,swed1254-std,concepticon-1272,2.52,faster,aunt,faster
+clics-doculect-87-185,swed1254-std,concepticon-1272,2.52,tant,aunt,tant
+clics-doculect-87-186,swed1254-std,concepticon-171,2.521,moster,mother's sister,moster
+clics-doculect-87-187,swed1254-std,concepticon-170,2.522,faster,father's sister,faster
+clics-doculect-87-188,swed1254-std,concepticon-1063,2.53,brorson,nephew,brorson
+clics-doculect-87-189,swed1254-std,concepticon-1063,2.53,systerson,nephew,systerson
+clics-doculect-87-190,swed1254-std,concepticon-1063,2.53,nevö,nephew,nevo
+clics-doculect-87-191,swed1254-std,concepticon-1642,2.54,brorsdotter,niece,brorsdotter
+clics-doculect-87-192,swed1254-std,concepticon-1642,2.54,systerdotter,niece,systerdotter
+clics-doculect-87-193,swed1254-std,concepticon-1643,2.55,syskonbarn,cousin,syskonbarn
+clics-doculect-87-194,swed1254-std,concepticon-1643,2.55,kusin,cousin,kusin
+clics-doculect-87-195,swed1254-std,concepticon-1669,2.56,förfäder,ancestors,forfader
+clics-doculect-87-196,swed1254-std,concepticon-490,2.57,avkomlingar,descendants,avkomlingar
+clics-doculect-87-197,swed1254-std,concepticon-490,2.57,ättlingar,descendants,attlingar
+clics-doculect-87-198,swed1254-std,concepticon-2255,2.61,svärfar,father-in-law (of a man),svarfar
+clics-doculect-87-199,swed1254-std,concepticon-2254,2.611,svärfar,father-in-law (of a woman),svarfar
+clics-doculect-87-200,swed1254-std,concepticon-2256,2.62,svärmor,mother-in-law (of a man),svarmor
+clics-doculect-87-201,swed1254-std,concepticon-2257,2.621,svärmor,mother-in-law (of a woman),svarmor
+clics-doculect-87-202,swed1254-std,concepticon-2267,2.63,svärson,son-in-law (of a man),svarson
+clics-doculect-87-203,swed1254-std,concepticon-2266,2.631,svärson,son-in-law (of a woman),svarson
+clics-doculect-87-204,swed1254-std,concepticon-2265,2.64,svärdotter,daughter-in-law (of a man),svardotter
+clics-doculect-87-205,swed1254-std,concepticon-2264,2.641,svärdotter,daughter-in-law (of a woman),svardotter
+clics-doculect-87-206,swed1254-std,concepticon-237,2.71,styffar,stepfather,styffar
+clics-doculect-87-207,swed1254-std,concepticon-237,2.71,styvfar,stepfather,styvfar
+clics-doculect-87-208,swed1254-std,concepticon-236,2.72,styfmoder,stepmother,styfmoder
+clics-doculect-87-209,swed1254-std,concepticon-236,2.72,styvmoder,stepmother,styvmoder
+clics-doculect-87-210,swed1254-std,concepticon-1059,2.73,styfson,stepson,styfson
+clics-doculect-87-211,swed1254-std,concepticon-1059,2.73,styvson,stepson,styvson
+clics-doculect-87-212,swed1254-std,concepticon-1058,2.74,styfdotter,stepdaughter,styfdotter
+clics-doculect-87-213,swed1254-std,concepticon-1058,2.74,styvdotter,stepdaughter,styvdotter
+clics-doculect-87-214,swed1254-std,concepticon-1149,2.75,föräldralöstbarn,orphan,foraldralostbarn
+clics-doculect-87-215,swed1254-std,concepticon-1756,2.76,änka,widow,anka
+clics-doculect-87-216,swed1254-std,concepticon-1981,2.77,änkling,widower,ankling
+clics-doculect-87-217,swed1254-std,concepticon-1644,2.81,släktingar,"relatives, kinsmen",slaktingar
+clics-doculect-87-218,swed1254-std,concepticon-194,2.82,familj,family,familj
+clics-doculect-87-219,swed1254-std,concepticon-1209,2.91,jag,I,jag
+clics-doculect-87-220,swed1254-std,concepticon-1215,2.92,du,you (singular),du
+clics-doculect-87-221,swed1254-std,concepticon-262,2.93,han,he/she/it,han
+clics-doculect-87-222,swed1254-std,concepticon-262,2.93,hon,he/she/it,hon
+clics-doculect-87-223,swed1254-std,concepticon-262,2.93,den,he/she/it,den
+clics-doculect-87-224,swed1254-std,concepticon-262,2.93,det,he/she/it,det
+clics-doculect-87-225,swed1254-std,concepticon-1212,2.94,vi,we,vi
+clics-doculect-87-226,swed1254-std,concepticon-1131,2.941,vi,we (inclusive),vi
+clics-doculect-87-227,swed1254-std,concepticon-1130,2.942,vi,we (exclusive),vi
+clics-doculect-87-228,swed1254-std,concepticon-1213,2.95,ni,you (plural),ni
+clics-doculect-87-229,swed1254-std,concepticon-817,2.96,de,they,de
+clics-doculect-87-230,swed1254-std,concepticon-619,3.11,djur,animal,djur
+clics-doculect-87-231,swed1254-std,concepticon-2261,3.12,han,male (adj),han
+clics-doculect-87-232,swed1254-std,concepticon-2261,3.12,hanne,male (adj),hanne
+clics-doculect-87-233,swed1254-std,concepticon-2262,3.13,hon,female (adj),hon
+clics-doculect-87-234,swed1254-std,concepticon-631,3.15,kreatur,livestock,kreatur
+clics-doculect-87-235,swed1254-std,concepticon-631,3.15,boskap,livestock,boskap
+clics-doculect-87-236,swed1254-std,concepticon-649,3.16,bete,pasture,bete
+clics-doculect-87-237,swed1254-std,concepticon-649,3.16,beta,pasture,beta
+clics-doculect-87-238,swed1254-std,concepticon-649,3.16,betesmark,pasture,betesmark
+clics-doculect-87-239,swed1254-std,concepticon-263,3.18,herde,herdsman,herde
+clics-doculect-87-240,swed1254-std,concepticon-851,3.19,stall,"stable, stall",stall
+clics-doculect-87-241,swed1254-std,concepticon-1153,3.2,boskap,cattle (bovine),boskap
+clics-doculect-87-242,swed1254-std,concepticon-1008,3.21,tjur,bull,tjur
+clics-doculect-87-243,swed1254-std,concepticon-1169,3.22,oxe,ox,oxe
+clics-doculect-87-244,swed1254-std,concepticon-1007,3.23,ko,cow,ko
+clics-doculect-87-245,swed1254-std,concepticon-1989,3.24,kalv,calf,kalv
+clics-doculect-87-246,swed1254-std,concepticon-1331,3.25,får,sheep,far
+clics-doculect-87-247,swed1254-std,concepticon-1344,3.26,bagge,ram,bagge
+clics-doculect-87-248,swed1254-std,concepticon-1344,3.26,vädur,ram,vadur
+clics-doculect-87-249,swed1254-std,concepticon-1344,3.26,gumse,ram,gumse
+clics-doculect-87-250,swed1254-std,concepticon-1345,3.28,tacka,ewe,tacka
+clics-doculect-87-251,swed1254-std,concepticon-820,3.29,lamm,lamb,lamm
+clics-doculect-87-252,swed1254-std,concepticon-1348,3.32,galt,boar,galt
+clics-doculect-87-253,swed1254-std,concepticon-1348,3.32,fargalt,boar,fargalt
+clics-doculect-87-254,swed1254-std,concepticon-1351,3.34,sugga,sow,sugga
+clics-doculect-87-255,swed1254-std,concepticon-1351,3.34,so,sow,so
+clics-doculect-87-256,swed1254-std,concepticon-1337,3.35,gris,pig,gris
+clics-doculect-87-257,swed1254-std,concepticon-1502,3.36,get,goat,get
+clics-doculect-87-258,swed1254-std,concepticon-264,3.37,bock,he-goat,bock
+clics-doculect-87-259,swed1254-std,concepticon-1972,3.38,kid,kid,kid
+clics-doculect-87-260,swed1254-std,concepticon-615,3.41,häst,horse (equine),hast
+clics-doculect-87-261,swed1254-std,concepticon-936,3.42,hingst,stallion,hingst
+clics-doculect-87-262,swed1254-std,concepticon-938,3.44,sto,mare,sto
+clics-doculect-87-263,swed1254-std,concepticon-938,3.44,märr,mare,marr
+clics-doculect-87-264,swed1254-std,concepticon-1647,3.45,föl,"foal, colt",fol
+clics-doculect-87-265,swed1254-std,concepticon-1647,3.45,fåle,"foal, colt",fale
+clics-doculect-87-266,swed1254-std,concepticon-1862,3.46,åsna,"ass, donkey",asna
+clics-doculect-87-267,swed1254-std,concepticon-890,3.47,mulåsna,mule,mulasna
+clics-doculect-87-268,swed1254-std,concepticon-265,3.5,fågel,fowl,fagel
+clics-doculect-87-269,swed1254-std,concepticon-1511,3.52,tupp,"cock, rooster",tupp
+clics-doculect-87-270,swed1254-std,concepticon-1511,3.52,hane,"cock, rooster",hane
+clics-doculect-87-271,swed1254-std,concepticon-1514,3.54,höna,hen,hona
+clics-doculect-87-272,swed1254-std,concepticon-1318,3.55,höns,chicken,hons
+clics-doculect-87-273,swed1254-std,concepticon-1318,3.55,kyckling,chicken,kyckling
+clics-doculect-87-274,swed1254-std,concepticon-1187,3.56,gås,goose,gas
+clics-doculect-87-275,swed1254-std,concepticon-1360,3.57,and,duck,and
+clics-doculect-87-276,swed1254-std,concepticon-539,3.58,bo,nest,bo
+clics-doculect-87-277,swed1254-std,concepticon-539,3.58,näste,nest,naste
+clics-doculect-87-278,swed1254-std,concepticon-539,3.58,rede,nest,rede
+clics-doculect-87-279,swed1254-std,concepticon-937,3.581,fågel,bird,fagel
+clics-doculect-87-280,swed1254-std,concepticon-950,3.582,fiskmås,seagull,fiskmas
+clics-doculect-87-281,swed1254-std,concepticon-950,3.582,mås,seagull,mas
+clics-doculect-87-282,swed1254-std,concepticon-758,3.583,häger,heron,hager
+clics-doculect-87-283,swed1254-std,concepticon-1905,3.584,örn,eagle,orn
+clics-doculect-87-284,swed1254-std,concepticon-307,3.585,hök,hawk,hok
+clics-doculect-87-285,swed1254-std,concepticon-1185,3.586,gam,vulture,gam
+clics-doculect-87-286,swed1254-std,concepticon-1793,3.591,fladdermus,bat,fladdermus
+clics-doculect-87-287,swed1254-std,concepticon-882,3.592,papegoja,parrot,papegoja
+clics-doculect-87-288,swed1254-std,concepticon-913,3.593,kråka,crow,kraka
+clics-doculect-87-289,swed1254-std,concepticon-1853,3.594,duva,dove,duva
+clics-doculect-87-290,swed1254-std,concepticon-735,3.596,uggla,owl,uggla
+clics-doculect-87-291,swed1254-std,concepticon-2009,3.61,hund,dog,hund
+clics-doculect-87-292,swed1254-std,concepticon-1136,3.614,kanin,rabbit,kanin
+clics-doculect-87-293,swed1254-std,concepticon-1136,3.614,hare,rabbit,hare
+clics-doculect-87-294,swed1254-std,concepticon-1208,3.62,katt,cat,katt
+clics-doculect-87-295,swed1254-std,concepticon-309,3.622,opossum,opossum,opossum
+clics-doculect-87-296,swed1254-std,concepticon-2139,3.63,mus,"mouse, rat",mus
+clics-doculect-87-297,swed1254-std,concepticon-2139,3.63,råtta,"mouse, rat",ratta
+clics-doculect-87-298,swed1254-std,concepticon-227,3.65,fisk,fish,fisk
+clics-doculect-87-299,swed1254-std,concepticon-213,3.652,fena,fin (dorsal),fena
+clics-doculect-87-300,swed1254-std,concepticon-266,3.653,fjäll,fishscale,fjall
+clics-doculect-87-301,swed1254-std,concepticon-1916,3.654,gäl,gill,gal
+clics-doculect-87-302,swed1254-std,concepticon-598,3.655,snäcka,shell,snacka
+clics-doculect-87-303,swed1254-std,concepticon-598,3.655,snäckskal,shell,snackskal
+clics-doculect-87-304,swed1254-std,concepticon-1110,3.661,haj,shark,haj
+clics-doculect-87-305,swed1254-std,concepticon-1479,3.662,tumlare,"porpoise, dolphin",tumlare
+clics-doculect-87-306,swed1254-std,concepticon-1479,3.662,delfin,"porpoise, dolphin",delfin
+clics-doculect-87-307,swed1254-std,concepticon-957,3.663,val,whale,val
+clics-doculect-87-308,swed1254-std,concepticon-957,3.663,valfisk,whale,valfisk
+clics-doculect-87-309,swed1254-std,concepticon-1910,3.664,rocka,stingray,rocka
+clics-doculect-87-310,swed1254-std,concepticon-1013,3.665,ål,freshwater eel,al
+clics-doculect-87-311,swed1254-std,concepticon-522,3.71,varg,wolf,varg
+clics-doculect-87-312,swed1254-std,concepticon-522,3.71,ulv,wolf,ulv
+clics-doculect-87-313,swed1254-std,concepticon-1386,3.72,lejon,lion,lejon
+clics-doculect-87-314,swed1254-std,concepticon-1820,3.73,björn,bear,bjorn
+clics-doculect-87-315,swed1254-std,concepticon-1312,3.74,räv,fox,rav
+clics-doculect-87-316,swed1254-std,concepticon-1936,3.75,hjort,deer,hjort
+clics-doculect-87-317,swed1254-std,concepticon-1350,3.76,apa,monkey,apa
+clics-doculect-87-318,swed1254-std,concepticon-1290,3.77,elefant,elephant,elefant
+clics-doculect-87-319,swed1254-std,concepticon-1871,3.78,kamel,camel,kamel
+clics-doculect-87-320,swed1254-std,concepticon-620,3.81,insekt,insect,insekt
+clics-doculect-87-321,swed1254-std,concepticon-1392,3.811,lus,louse,lus
+clics-doculect-87-322,swed1254-std,concepticon-232,3.813,loppa,flea,loppa
+clics-doculect-87-323,swed1254-std,concepticon-1974,3.814,tusenfoting,centipede,tusenfoting
+clics-doculect-87-324,swed1254-std,concepticon-1538,3.815,skorpion,scorpion,skorpion
+clics-doculect-87-325,swed1254-std,concepticon-1575,3.816,kackerlacka,cockroach,kackerlacka
+clics-doculect-87-326,swed1254-std,concepticon-587,3.817,myra,ant,myra
+clics-doculect-87-327,swed1254-std,concepticon-843,3.818,spindel,spider,spindel
+clics-doculect-87-328,swed1254-std,concepticon-1065,3.819,spindelnät,spider web,spindelnat
+clics-doculect-87-329,swed1254-std,concepticon-1065,3.819,spindelväv,spider web,spindelvav
+clics-doculect-87-330,swed1254-std,concepticon-665,3.82,bi,bee,bi
+clics-doculect-87-331,swed1254-std,concepticon-1931,3.821,bivax,beeswax,bivax
+clics-doculect-87-332,swed1254-std,concepticon-88,3.822,bikupa,beehive,bikupa
+clics-doculect-87-333,swed1254-std,concepticon-1517,3.823,geting,wasp,geting
+clics-doculect-87-334,swed1254-std,concepticon-1504,3.83,fluga,fly,fluga
+clics-doculect-87-335,swed1254-std,concepticon-1509,3.832,mygga,mosquito,mygga
+clics-doculect-87-336,swed1254-std,concepticon-1219,3.84,mask,worm,mask
+clics-doculect-87-337,swed1254-std,concepticon-730,3.85,snok,snake,snok
+clics-doculect-87-338,swed1254-std,concepticon-730,3.85,orm,snake,orm
+clics-doculect-87-339,swed1254-std,concepticon-206,3.91,lysmask,firefly,lysmask
+clics-doculect-87-340,swed1254-std,concepticon-1791,3.92,fjäril,butterfly,fjaril
+clics-doculect-87-341,swed1254-std,concepticon-607,3.93,gräshoppa,grasshopper,grashoppa
+clics-doculect-87-342,swed1254-std,concepticon-1543,3.94,snigel,snail,snigel
+clics-doculect-87-343,swed1254-std,concepticon-503,3.95,groda,frog,groda
+clics-doculect-87-344,swed1254-std,concepticon-632,3.96,ödla,lizard,odla
+clics-doculect-87-345,swed1254-std,concepticon-1857,3.97,krokodil,"crocodile, alligator",krokodil
+clics-doculect-87-346,swed1254-std,concepticon-112,3.98,sköldpadda,turtle,skoldpadda
+clics-doculect-87-347,swed1254-std,concepticon-1480,4.11,kropp,body,kropp
+clics-doculect-87-348,swed1254-std,concepticon-763,4.12,hud,"skin, hide",hud
+clics-doculect-87-349,swed1254-std,concepticon-763,4.12,hudar,"skin, hide",hudar
+clics-doculect-87-350,swed1254-std,concepticon-763,4.12,skinn,"skin, hide",skinn
+clics-doculect-87-351,swed1254-std,concepticon-2259,4.13,kött,flesh,kott
+clics-doculect-87-352,swed1254-std,concepticon-1040,4.14,hår,hair (head),har
+clics-doculect-87-353,swed1254-std,concepticon-678,4.142,skägg,beard,skagg
+clics-doculect-87-354,swed1254-std,concepticon-189,4.144,kroppshår,body hair,kroppshar
+clics-doculect-87-355,swed1254-std,concepticon-36,4.145,könshår,pubic hair,konshar
+clics-doculect-87-356,swed1254-std,concepticon-576,4.146,mjäll,dandruff,mjall
+clics-doculect-87-357,swed1254-std,concepticon-946,4.15,blod,blood,blod
+clics-doculect-87-358,swed1254-std,concepticon-525,4.151,ven,"vein, artery",ven
+clics-doculect-87-359,swed1254-std,concepticon-525,4.151,artär,"vein, artery",artar
+clics-doculect-87-360,swed1254-std,concepticon-525,4.151,blodåder,"vein, artery",blodader
+clics-doculect-87-361,swed1254-std,concepticon-525,4.151,pulsåder,"vein, artery",pulsader
+clics-doculect-87-362,swed1254-std,concepticon-1394,4.16,ben,bone,ben
+clics-doculect-87-363,swed1254-std,concepticon-801,4.162,revben,rib,revben
+clics-doculect-87-364,swed1254-std,concepticon-1393,4.17,horn,horn,horn
+clics-doculect-87-365,swed1254-std,concepticon-1220,4.18,svans,tail,svans
+clics-doculect-87-366,swed1254-std,concepticon-1291,4.19,rygg,back,rygg
+clics-doculect-87-367,swed1254-std,concepticon-805,4.191,ryggrad,spine,ryggrad
+clics-doculect-87-368,swed1254-std,concepticon-1256,4.2,huvud,head,huvud
+clics-doculect-87-369,swed1254-std,concepticon-1604,4.201,tinning,"side of head, temple",tinning
+clics-doculect-87-370,swed1254-std,concepticon-1605,4.202,skalle,skull,skalle
+clics-doculect-87-371,swed1254-std,concepticon-1583,4.203,hjärna,brain,hjarna
+clics-doculect-87-372,swed1254-std,concepticon-1560,4.204,ansikte,face,ansikte
+clics-doculect-87-373,swed1254-std,concepticon-1560,4.204,anlete,face,anlete
+clics-doculect-87-374,swed1254-std,concepticon-123,4.205,panna,forehead,panna
+clics-doculect-87-375,swed1254-std,concepticon-798,4.207,käke,jaw,kake
+clics-doculect-87-376,swed1254-std,concepticon-1730,4.208,kind,cheek,kind
+clics-doculect-87-377,swed1254-std,concepticon-1510,4.209,haka,chin,haka
+clics-doculect-87-378,swed1254-std,concepticon-1248,4.21,öga,eye,oga
+clics-doculect-87-379,swed1254-std,concepticon-1173,4.212,ögonbryn,eyebrow,ogonbryn
+clics-doculect-87-380,swed1254-std,concepticon-17,4.213,ögonlock,eyelid,ogonlock
+clics-doculect-87-381,swed1254-std,concepticon-1540,4.214,ögonhår,eyelash,ogonhar
+clics-doculect-87-382,swed1254-std,concepticon-1655,4.215,blinka,blink,blinka
+clics-doculect-87-383,swed1254-std,concepticon-1247,4.22,öra,ear,ora
+clics-doculect-87-384,swed1254-std,concepticon-18,4.221,örsnibb,earlobe,orsnibb
+clics-doculect-87-385,swed1254-std,concepticon-32,4.222,öronvax,earwax,oronvax
+clics-doculect-87-386,swed1254-std,concepticon-1221,4.23,näsa,nose,nasa
+clics-doculect-87-387,swed1254-std,concepticon-1178,4.231,näsborre,nostril,nasborre
+clics-doculect-87-388,swed1254-std,concepticon-208,4.232,slem,mucus (nasal),slem
+clics-doculect-87-389,swed1254-std,concepticon-674,4.24,mun,mouth,mun
+clics-doculect-87-390,swed1254-std,concepticon-73,4.241,näbb,beak,nabb
+clics-doculect-87-391,swed1254-std,concepticon-478,4.25,läpp,lip,lapp
+clics-doculect-87-392,swed1254-std,concepticon-1205,4.26,tunga,tongue,tunga
+clics-doculect-87-393,swed1254-std,concepticon-1380,4.27,tand,tooth,tand
+clics-doculect-87-394,swed1254-std,concepticon-139,4.271,tandkött,gums,tandkott
+clics-doculect-87-395,swed1254-std,concepticon-1049,4.272,kindtand,molartooth,kindtand
+clics-doculect-87-396,swed1254-std,concepticon-1049,4.272,oxeltand,molartooth,oxeltand
+clics-doculect-87-397,swed1254-std,concepticon-1333,4.28,hals,neck,hals
+clics-doculect-87-398,swed1254-std,concepticon-1347,4.281,nacke,nape of neck,nacke
+clics-doculect-87-399,swed1254-std,concepticon-1346,4.29,strupe,throat,strupe
+clics-doculect-87-400,swed1254-std,concepticon-1482,4.3,axel,shoulder,axel
+clics-doculect-87-401,swed1254-std,concepticon-1482,4.3,skuldra,shoulder,skuldra
+clics-doculect-87-402,swed1254-std,concepticon-172,4.301,skulderblad,shoulderblade,skulderblad
+clics-doculect-87-403,swed1254-std,concepticon-1994,4.302,nyckelben,collarbone,nyckelben
+clics-doculect-87-404,swed1254-std,concepticon-1673,4.31,arm,arm,arm
+clics-doculect-87-405,swed1254-std,concepticon-1886,4.312,armhåla,armpit,armhala
+clics-doculect-87-406,swed1254-std,concepticon-981,4.32,armbåge,elbow,armbage
+clics-doculect-87-407,swed1254-std,concepticon-799,4.321,handled,wrist,handled
+clics-doculect-87-408,swed1254-std,concepticon-799,4.321,handlov,wrist,handlov
+clics-doculect-87-409,swed1254-std,concepticon-799,4.321,handlove,wrist,handlove
+clics-doculect-87-410,swed1254-std,concepticon-1277,4.33,hand,hand,hand
+clics-doculect-87-411,swed1254-std,concepticon-1183,4.331,handflata,palm of hand,handflata
+clics-doculect-87-412,swed1254-std,concepticon-1303,4.34,finger,finger,finger
+clics-doculect-87-413,swed1254-std,concepticon-1781,4.342,tumme,thumb,tumme
+clics-doculect-87-414,swed1254-std,concepticon-1258,4.344,nagel,fingernail,nagel
+clics-doculect-87-415,swed1254-std,concepticon-72,4.345,klo,claw,klo
+clics-doculect-87-416,swed1254-std,concepticon-72,4.345,klösa,claw,klosa
+clics-doculect-87-417,swed1254-std,concepticon-72,4.345,riva,claw,riva
+clics-doculect-87-418,swed1254-std,concepticon-1297,4.35,ben,leg,ben
+clics-doculect-87-419,swed1254-std,concepticon-800,4.351,lår,thigh,lar
+clics-doculect-87-420,swed1254-std,concepticon-498,4.352,vad,calf of leg,vad
+clics-doculect-87-421,swed1254-std,concepticon-1371,4.36,knä,knee,kna
+clics-doculect-87-422,swed1254-std,concepticon-1301,4.37,fot,foot,fot
+clics-doculect-87-423,swed1254-std,concepticon-803,4.371,fotled,ankle,fotled
+clics-doculect-87-424,swed1254-std,concepticon-803,4.371,ankel,ankle,ankel
+clics-doculect-87-425,swed1254-std,concepticon-980,4.372,häl,heel,hal
+clics-doculect-87-426,swed1254-std,concepticon-318,4.374,fotspår,footprint,fotspar
+clics-doculect-87-427,swed1254-std,concepticon-318,4.374,fotavtryck,footprint,fotavtryck
+clics-doculect-87-428,swed1254-std,concepticon-1389,4.38,tå,toe,ta
+clics-doculect-87-429,swed1254-std,concepticon-1257,4.392,vinge,wing,vinge
+clics-doculect-87-430,swed1254-std,concepticon-1201,4.393,fjäder,feather,fjader
+clics-doculect-87-431,swed1254-std,concepticon-1592,4.4,bröst,chest,brost
+clics-doculect-87-432,swed1254-std,concepticon-1402,4.41,bröst,breast (of woman),brost
+clics-doculect-87-433,swed1254-std,concepticon-796,4.412,bröstvårta,"nipple, teat",brostvarta
+clics-doculect-87-434,swed1254-std,concepticon-796,4.412,spene,"nipple, teat",spene
+clics-doculect-87-435,swed1254-std,concepticon-154,4.42,juver,udder,juver
+clics-doculect-87-436,swed1254-std,concepticon-1838,4.43,navel,navel,navel
+clics-doculect-87-437,swed1254-std,concepticon-1223,4.44,hjärta,heart,hjarta
+clics-doculect-87-438,swed1254-std,concepticon-688,4.441,lunga,lung,lunga
+clics-doculect-87-439,swed1254-std,concepticon-1224,4.45,lever,liver,lever
+clics-doculect-87-440,swed1254-std,concepticon-489,4.451,njure,kidney,njure
+clics-doculect-87-441,swed1254-std,concepticon-1744,4.452,splena,spleen,splena
+clics-doculect-87-442,swed1254-std,concepticon-819,4.46,buk,stomach,buk
+clics-doculect-87-443,swed1254-std,concepticon-819,4.46,mage,stomach,mage
+clics-doculect-87-444,swed1254-std,concepticon-1991,4.461,darm,"intestines, guts",darm
+clics-doculect-87-445,swed1254-std,concepticon-1681,4.462,midja,waist,midja
+clics-doculect-87-446,swed1254-std,concepticon-1745,4.463,höft,hip,hoft
+clics-doculect-87-447,swed1254-std,concepticon-1745,4.463,höftled,hip,hoftled
+clics-doculect-87-448,swed1254-std,concepticon-1745,4.463,bäcken,hip,backen
+clics-doculect-87-449,swed1254-std,concepticon-834,4.464,bakdel,buttocks,bakdel
+clics-doculect-87-450,swed1254-std,concepticon-834,4.464,ända,buttocks,anda
+clics-doculect-87-451,swed1254-std,concepticon-834,4.464,skinka,buttocks,skinka
+clics-doculect-87-452,swed1254-std,concepticon-834,4.464,or,buttocks,or
+clics-doculect-87-453,swed1254-std,concepticon-804,4.47,moderlif,womb,moderlif
+clics-doculect-87-454,swed1254-std,concepticon-804,4.47,moderliv,womb,moderliv
+clics-doculect-87-455,swed1254-std,concepticon-797,4.49,testikel,testicle,testikel
+clics-doculect-87-456,swed1254-std,concepticon-1222,4.492,penis,penis,penis
+clics-doculect-87-457,swed1254-std,concepticon-1407,4.51,andas,"breathe, breath",andas
+clics-doculect-87-458,swed1254-std,concepticon-1407,4.51,andedräkt,"breathe, breath",andedrakt
+clics-doculect-87-459,swed1254-std,concepticon-1028,4.52,gapa,"yawn, gape",gapa
+clics-doculect-87-460,swed1254-std,concepticon-1028,4.52,gäspa,"yawn, gape",gaspa
+clics-doculect-87-461,swed1254-std,concepticon-162,4.521,hicka,hiccough,hicka
+clics-doculect-87-462,swed1254-std,concepticon-162,4.521,hickning,hiccough,hickning
+clics-doculect-87-463,swed1254-std,concepticon-879,4.53,hosta,cough,hosta
+clics-doculect-87-464,swed1254-std,concepticon-1621,4.54,nysa,sneeze,nysa
+clics-doculect-87-465,swed1254-std,concepticon-126,4.55,svett,perspire,svett
+clics-doculect-87-466,swed1254-std,concepticon-1440,4.56,spotta,spit,spotta
+clics-doculect-87-467,swed1254-std,concepticon-1278,4.57,kräkas,vomit,krakas
+clics-doculect-87-468,swed1254-std,concepticon-1278,4.57,spy,vomit,spy
+clics-doculect-87-469,swed1254-std,concepticon-1403,4.58,bita,bite,bita
+clics-doculect-87-470,swed1254-std,concepticon-319,4.59,slicka,lick,slicka
+clics-doculect-87-471,swed1254-std,concepticon-268,4.591,droppa,dribble,droppa
+clics-doculect-87-472,swed1254-std,concepticon-268,4.591,drypa,dribble,drypa
+clics-doculect-87-473,swed1254-std,concepticon-268,4.591,dregla,dribble,dregla
+clics-doculect-87-474,swed1254-std,concepticon-1585,4.61,sova,sleep,sova
+clics-doculect-87-475,swed1254-std,concepticon-1585,4.61,sömn,sleep,somn
+clics-doculect-87-476,swed1254-std,concepticon-1983,4.612,snarka,snore,snarka
+clics-doculect-87-477,swed1254-std,concepticon-1983,4.612,snarkning,snore,snarkning
+clics-doculect-87-478,swed1254-std,concepticon-1920,4.62,dröm,dream,drom
+clics-doculect-87-479,swed1254-std,concepticon-1602,4.63,väcka,wake up,vacka
+clics-doculect-87-480,swed1254-std,concepticon-1602,4.63,vakna,wake up,vakna
+clics-doculect-87-481,swed1254-std,concepticon-1602,4.63,vaka,wake up,vaka
+clics-doculect-87-482,swed1254-std,concepticon-1159,4.64,släppasig,break wind,slappasig
+clics-doculect-87-483,swed1254-std,concepticon-1159,4.64,fisa,break wind,fisa
+clics-doculect-87-484,swed1254-std,concepticon-1159,4.64,fjärta,break wind,fjarta
+clics-doculect-87-485,swed1254-std,concepticon-592,4.65,urinera,urinate,urinera
+clics-doculect-87-486,swed1254-std,concepticon-592,4.65,kissa,urinate,kissa
+clics-doculect-87-487,swed1254-std,concepticon-592,4.65,pinka,urinate,pinka
+clics-doculect-87-488,swed1254-std,concepticon-592,4.65,pissa,urinate,pissa
+clics-doculect-87-489,swed1254-std,concepticon-676,4.66,gåpåtoa,defecate,gapatoa
+clics-doculect-87-490,swed1254-std,concepticon-676,4.66,bajsa,defecate,bajsa
+clics-doculect-87-491,swed1254-std,concepticon-676,4.66,skita,defecate,skita
+clics-doculect-87-492,swed1254-std,concepticon-1785,4.67,hasamlag,have sexual intercourse,hasamlag
+clics-doculect-87-493,swed1254-std,concepticon-1785,4.67,hasex,have sexual intercourse,hasex
+clics-doculect-87-494,swed1254-std,concepticon-1785,4.67,liggamed,have sexual intercourse,liggamed
+clics-doculect-87-495,swed1254-std,concepticon-1785,4.67,knulla,have sexual intercourse,knulla
+clics-doculect-87-496,swed1254-std,concepticon-52,4.68,darra,shiver,darra
+clics-doculect-87-497,swed1254-std,concepticon-52,4.68,skälva,shiver,skalva
+clics-doculect-87-498,swed1254-std,concepticon-52,4.68,huttra,shiver,huttra
+clics-doculect-87-499,swed1254-std,concepticon-52,4.68,rysa,shiver,rysa
+clics-doculect-87-500,swed1254-std,concepticon-138,4.69,bada,bathe,bada
+clics-doculect-87-501,swed1254-std,concepticon-1152,4.71,avla,beget (of father),avla
+clics-doculect-87-502,swed1254-std,concepticon-1090,4.72,födas,born (to be),fodas
+clics-doculect-87-503,swed1254-std,concepticon-1123,4.73,gravid,pregnant,gravid
+clics-doculect-87-504,swed1254-std,concepticon-1123,4.73,havande,pregnant,havande
+clics-doculect-87-505,swed1254-std,concepticon-1123,4.73,dräktig,pregnant,draktig
+clics-doculect-87-506,swed1254-std,concepticon-1087,4.732,blihavande,conceive,blihavande
+clics-doculect-87-507,swed1254-std,concepticon-1087,4.732,avla,conceive,avla
+clics-doculect-87-508,swed1254-std,concepticon-1422,4.74,leva,"live, living, life",leva
+clics-doculect-87-509,swed1254-std,concepticon-1422,4.74,levande,"live, living, life",levande
+clics-doculect-87-510,swed1254-std,concepticon-1422,4.74,liv,"live, living, life",liv
+clics-doculect-87-511,swed1254-std,concepticon-1494,4.75,dö,"die, dead",do
+clics-doculect-87-512,swed1254-std,concepticon-1494,4.75,död,"die, dead",dod
+clics-doculect-87-513,swed1254-std,concepticon-1904,4.751,dränkt,drowned,drankt
+clics-doculect-87-514,swed1254-std,concepticon-1417,4.76,döda,kill,doda
+clics-doculect-87-515,swed1254-std,concepticon-1417,4.76,dräpa,kill,drapa
+clics-doculect-87-516,swed1254-std,concepticon-767,4.77,lik,corpse,lik
+clics-doculect-87-517,swed1254-std,concepticon-1719,4.78,begrava,bury (the dead),begrava
+clics-doculect-87-518,swed1254-std,concepticon-1773,4.79,grav,"grave, tomb",grav
+clics-doculect-87-519,swed1254-std,concepticon-785,4.81,stark,"strong, mighty, powerful",stark
+clics-doculect-87-520,swed1254-std,concepticon-785,4.81,kraftig,"strong, mighty, powerful",kraftig
+clics-doculect-87-521,swed1254-std,concepticon-785,4.81,mäktig,"strong, mighty, powerful",maktig
+clics-doculect-87-522,swed1254-std,concepticon-1601,4.82,svag,weak,svag
+clics-doculect-87-523,swed1254-std,concepticon-1364,4.83,frisk,"well, health",frisk
+clics-doculect-87-524,swed1254-std,concepticon-1364,4.83,hälsa,"well, health",halsa
+clics-doculect-87-525,swed1254-std,concepticon-1364,4.83,sundhet,"well, health",sundhet
+clics-doculect-87-526,swed1254-std,concepticon-1364,4.83,sund,"well, health",sund
+clics-doculect-87-527,swed1254-std,concepticon-1847,4.84,sjuk,"sick, sickness",sjuk
+clics-doculect-87-528,swed1254-std,concepticon-1847,4.84,sjukdom,"sick, sickness",sjukdom
+clics-doculect-87-529,swed1254-std,concepticon-1534,4.841,feber,fever,feber
+clics-doculect-87-530,swed1254-std,concepticon-1957,4.842,struma,goiter,struma
+clics-doculect-87-531,swed1254-std,concepticon-102,4.843,förkylning,cold (catarrh),forkylning
+clics-doculect-87-532,swed1254-std,concepticon-1109,4.85,sår,"wound, sore",sar
+clics-doculect-87-533,swed1254-std,concepticon-1148,4.852,blåmärke,bruise,blamarke
+clics-doculect-87-534,swed1254-std,concepticon-1903,4.853,svällande,swelling,svallande
+clics-doculect-87-535,swed1254-std,concepticon-1903,4.853,svullnad,swelling,svullnad
+clics-doculect-87-536,swed1254-std,concepticon-1903,4.853,svullnande,swelling,svullnande
+clics-doculect-87-537,swed1254-std,concepticon-1903,4.853,bula,swelling,bula
+clics-doculect-87-538,swed1254-std,concepticon-148,4.854,kläda,itch,klada
+clics-doculect-87-539,swed1254-std,concepticon-1584,4.855,blåsa,blister,blasa
+clics-doculect-87-540,swed1254-std,concepticon-1584,4.855,blemma,blister,blemma
+clics-doculect-87-541,swed1254-std,concepticon-793,4.856,böld,boil (noun),bold
+clics-doculect-87-542,swed1254-std,concepticon-793,4.856,varböld,boil (noun),varbold
+clics-doculect-87-543,swed1254-std,concepticon-1808,4.857,var,pus,var
+clics-doculect-87-544,swed1254-std,concepticon-497,4.858,ärr,scar,arr
+clics-doculect-87-545,swed1254-std,concepticon-499,4.86,bota,"cure, heal",bota
+clics-doculect-87-546,swed1254-std,concepticon-499,4.86,hela,"cure, heal",hela
+clics-doculect-87-547,swed1254-std,concepticon-499,4.86,läka,"cure, heal",laka
+clics-doculect-87-548,swed1254-std,concepticon-597,4.87,läkare,physician,lakare
+clics-doculect-87-549,swed1254-std,concepticon-597,4.87,doktor,physician,doktor
+clics-doculect-87-550,swed1254-std,concepticon-1372,4.88,medicin,"medicine, drug",medicin
+clics-doculect-87-551,swed1254-std,concepticon-1372,4.88,läkemedel,"medicine, drug",lakemedel
+clics-doculect-87-552,swed1254-std,concepticon-1372,4.88,drog,"medicine, drug",drog
+clics-doculect-87-553,swed1254-std,concepticon-655,4.89,gift,poison,gift
+clics-doculect-87-554,swed1254-std,concepticon-1757,4.91,trött,"tired, weary",trott
+clics-doculect-87-555,swed1254-std,concepticon-168,4.912,vila,rest,vila
+clics-doculect-87-556,swed1254-std,concepticon-168,4.912,vilasig,rest,vilasig
+clics-doculect-87-557,swed1254-std,concepticon-1564,4.92,lat,lazy,lat
+clics-doculect-87-558,swed1254-std,concepticon-1125,4.93,skallig,bald,skallig
+clics-doculect-87-559,swed1254-std,concepticon-1125,4.93,kal,bald,kal
+clics-doculect-87-560,swed1254-std,concepticon-320,4.94,halt,lame,halt
+clics-doculect-87-561,swed1254-std,concepticon-320,4.94,lam,lame,lam
+clics-doculect-87-562,swed1254-std,concepticon-996,4.95,döv,deaf,dov
+clics-doculect-87-563,swed1254-std,concepticon-1666,4.96,stum,mute,stum
+clics-doculect-87-564,swed1254-std,concepticon-1653,4.97,blind,blind,blind
+clics-doculect-87-565,swed1254-std,concepticon-1463,4.98,berusad,intoxicated,berusad
+clics-doculect-87-566,swed1254-std,concepticon-1463,4.98,drucken,intoxicated,drucken
+clics-doculect-87-567,swed1254-std,concepticon-1463,4.98,full,intoxicated,full
+clics-doculect-87-568,swed1254-std,concepticon-1463,4.98,packad,intoxicated,packad
+clics-doculect-87-569,swed1254-std,concepticon-590,4.99,naken,"naked, bare",naken
+clics-doculect-87-570,swed1254-std,concepticon-590,4.99,bar,"naked, bare",bar
+clics-doculect-87-571,swed1254-std,concepticon-1336,5.11,äta,eat,ata
+clics-doculect-87-572,swed1254-std,concepticon-256,5.12,mat,food,mat
+clics-doculect-87-573,swed1254-std,concepticon-256,5.12,föda,food,foda
+clics-doculect-87-574,swed1254-std,concepticon-256,5.12,spis,food,spis
+clics-doculect-87-575,swed1254-std,concepticon-269,5.121,tilllagad,cooked,tilllagad
+clics-doculect-87-576,swed1254-std,concepticon-269,5.121,kokt,cooked,kokt
+clics-doculect-87-577,swed1254-std,concepticon-1959,5.122,rå,raw,ra
+clics-doculect-87-578,swed1254-std,concepticon-1959,5.122,okokt,raw,okokt
+clics-doculect-87-579,swed1254-std,concepticon-178,5.123,mogen,ripe,mogen
+clics-doculect-87-580,swed1254-std,concepticon-1958,5.124,grön,"green, unripe",gron
+clics-doculect-87-581,swed1254-std,concepticon-1958,5.124,omogen,"green, unripe",omogen
+clics-doculect-87-582,swed1254-std,concepticon-1728,5.125,rutten,rotten,rutten
+clics-doculect-87-583,swed1254-std,concepticon-1728,5.125,murken,rotten,murken
+clics-doculect-87-584,swed1254-std,concepticon-1728,5.125,skämɑ,rotten,skama
+clics-doculect-87-585,swed1254-std,concepticon-1401,5.13,dricka,drink,dricka
+clics-doculect-87-586,swed1254-std,concepticon-1864,5.14,hunger,hunger,hunger
+clics-doculect-87-587,swed1254-std,concepticon-199,5.141,hungersnöd,famine,hungersnod
+clics-doculect-87-588,swed1254-std,concepticon-199,5.141,svält,famine,svalt
+clics-doculect-87-589,swed1254-std,concepticon-199,5.141,hunger,famine,hunger
+clics-doculect-87-590,swed1254-std,concepticon-848,5.15,törst,thirst,torst
+clics-doculect-87-591,swed1254-std,concepticon-1421,5.16,suga,suck,suga
+clics-doculect-87-592,swed1254-std,concepticon-1421,5.16,dia,suck,dia
+clics-doculect-87-593,swed1254-std,concepticon-321,5.18,tugga,chew,tugga
+clics-doculect-87-594,swed1254-std,concepticon-897,5.181,svälja,swallow,svalja
+clics-doculect-87-595,swed1254-std,concepticon-129,5.19,strypa,choke,strypa
+clics-doculect-87-596,swed1254-std,concepticon-129,5.19,kväva,choke,kvava
+clics-doculect-87-597,swed1254-std,concepticon-1100,5.21,tilllaga,cook,tilllaga
+clics-doculect-87-598,swed1254-std,concepticon-1100,5.21,koka,cook,koka
+clics-doculect-87-599,swed1254-std,concepticon-792,5.22,koka,boil (vb),koka
+clics-doculect-87-600,swed1254-std,concepticon-2146,5.23,steka,"roast, fry",steka
+clics-doculect-87-601,swed1254-std,concepticon-183,5.24,baka,bake,baka
+clics-doculect-87-602,swed1254-std,concepticon-1143,5.25,bakugn,oven,bakugn
+clics-doculect-87-603,swed1254-std,concepticon-1143,5.25,stekugn,oven,stekugn
+clics-doculect-87-604,swed1254-std,concepticon-1462,5.26,gryta,"pot, cooking vessel",gryta
+clics-doculect-87-605,swed1254-std,concepticon-1462,5.26,kokkärl,"pot, cooking vessel",kokkarl
+clics-doculect-87-606,swed1254-std,concepticon-854,5.27,kittel,kettle,kittel
+clics-doculect-87-607,swed1254-std,concepticon-31,5.28,panna,pan,panna
+clics-doculect-87-608,swed1254-std,concepticon-31,5.28,gryta,pan,gryta
+clics-doculect-87-609,swed1254-std,concepticon-481,5.31,fat,dish,fat
+clics-doculect-87-610,swed1254-std,concepticon-480,5.32,tallrik,plate,tallrik
+clics-doculect-87-611,swed1254-std,concepticon-480,5.32,fat,plate,fat
+clics-doculect-87-612,swed1254-std,concepticon-1530,5.33,skål,bowl,skal
+clics-doculect-87-613,swed1254-std,concepticon-1530,5.33,bål,bowl,bal
+clics-doculect-87-614,swed1254-std,concepticon-270,5.34,kruka,"pitcher, jug",kruka
+clics-doculect-87-615,swed1254-std,concepticon-270,5.34,kanna,"pitcher, jug",kanna
+clics-doculect-87-616,swed1254-std,concepticon-270,5.34,tillbringare,"pitcher, jug",tillbringare
+clics-doculect-87-617,swed1254-std,concepticon-476,5.35,kopp,"cup, drinking vessel",kopp
+clics-doculect-87-618,swed1254-std,concepticon-271,5.36,fat,saucer,fat
+clics-doculect-87-619,swed1254-std,concepticon-1378,5.37,sked,spoon,sked
+clics-doculect-87-620,swed1254-std,concepticon-1352,5.38,knif,knife,knif
+clics-doculect-87-621,swed1254-std,concepticon-1352,5.38,kniv,knife,kniv
+clics-doculect-87-622,swed1254-std,concepticon-337,5.39,gaffel,fork,gaffel
+clics-doculect-87-623,swed1254-std,concepticon-272,5.391,tång,tongs,tang
+clics-doculect-87-624,swed1254-std,concepticon-1526,5.41,mål,meal (a),mal
+clics-doculect-87-625,swed1254-std,concepticon-1526,5.41,måltid,meal (a),maltid
+clics-doculect-87-626,swed1254-std,concepticon-1322,5.42,frukost,breakfast,frukost
+clics-doculect-87-627,swed1254-std,concepticon-768,5.43,lunch,lunch,lunch
+clics-doculect-87-628,swed1254-std,concepticon-768,5.43,middag,lunch,middag
+clics-doculect-87-629,swed1254-std,concepticon-1833,5.44,middag,dinner,middag
+clics-doculect-87-630,swed1254-std,concepticon-1833,5.45,kvällsmat,supper,kvallsmat
+clics-doculect-87-631,swed1254-std,concepticon-1833,5.45,aftonmåltid,supper,aftonmaltid
+clics-doculect-87-632,swed1254-std,concepticon-1833,5.45,kvällsvard,supper,kvallsvard
+clics-doculect-87-633,swed1254-std,concepticon-275,5.46,skala,peel,skala
+clics-doculect-87-634,swed1254-std,concepticon-275,5.46,skal,peel,skal
+clics-doculect-87-635,swed1254-std,concepticon-86,5.47,sålla,"sieve, strain",salla
+clics-doculect-87-636,swed1254-std,concepticon-86,5.47,sikta,"sieve, strain",sikta
+clics-doculect-87-637,swed1254-std,concepticon-86,5.47,såll,"sieve, strain",sall
+clics-doculect-87-638,swed1254-std,concepticon-1767,5.48,skrapa,scrape,skrapa
+clics-doculect-87-639,swed1254-std,concepticon-1767,5.48,raspa,scrape,raspa
+clics-doculect-87-640,swed1254-std,concepticon-1767,5.48,riva,scrape,riva
+clics-doculect-87-641,swed1254-std,concepticon-2017,5.49,röra,"stir, mix",rora
+clics-doculect-87-642,swed1254-std,concepticon-2017,5.49,vispa,"stir, mix",vispa
+clics-doculect-87-643,swed1254-std,concepticon-2017,5.49,blanda,"stir, mix",blanda
+clics-doculect-87-644,swed1254-std,concepticon-1368,5.51,bröd,bread,brod
+clics-doculect-87-645,swed1254-std,concepticon-273,5.53,deg,dough,deg
+clics-doculect-87-646,swed1254-std,concepticon-274,5.54,knåda,knead,knada
+clics-doculect-87-647,swed1254-std,concepticon-1594,5.55,mjöl,"meal, flour",mjol
+clics-doculect-87-648,swed1254-std,concepticon-1033,5.56,mala,"crush, grind",mala
+clics-doculect-87-649,swed1254-std,concepticon-636,5.57,kvarn,mill,kvarn
+clics-doculect-87-650,swed1254-std,concepticon-224,5.58,mortel,mortar,mortel
+clics-doculect-87-651,swed1254-std,concepticon-225,5.59,mortelstöt,pestle,mortelstot
+clics-doculect-87-652,swed1254-std,concepticon-634,5.61,kött,meat,kott
+clics-doculect-87-653,swed1254-std,concepticon-1874,5.63,korv,sausage,korv
+clics-doculect-87-654,swed1254-std,concepticon-1547,5.64,soppa,"soup, broth",soppa
+clics-doculect-87-655,swed1254-std,concepticon-924,5.65,grönsaker,vegetables,gronsaker
+clics-doculect-87-656,swed1254-std,concepticon-832,5.66,böna,bean,bona
+clics-doculect-87-657,swed1254-std,concepticon-593,5.7,potatis,potato,potatis
+clics-doculect-87-658,swed1254-std,concepticon-1507,5.71,frukt,fruit,frukt
+clics-doculect-87-659,swed1254-std,concepticon-1966,5.712,knippa,bunch,knippa
+clics-doculect-87-660,swed1254-std,concepticon-1966,5.712,bunt,bunch,bunt
+clics-doculect-87-661,swed1254-std,concepticon-1966,5.712,blase,bunch,blase
+clics-doculect-87-662,swed1254-std,concepticon-322,5.75,fikon,fig,fikon
+clics-doculect-87-663,swed1254-std,concepticon-920,5.76,druva,grape,druva
+clics-doculect-87-664,swed1254-std,concepticon-191,5.77,nöt,nut,not
+clics-doculect-87-665,swed1254-std,concepticon-1154,5.78,oliv,olive,oliv
+clics-doculect-87-666,swed1254-std,concepticon-1484,5.79,olja,oil,olja
+clics-doculect-87-667,swed1254-std,concepticon-323,5.791,fett,"grease, fat",fett
+clics-doculect-87-668,swed1254-std,concepticon-323,5.791,ister,"grease, fat",ister
+clics-doculect-87-669,swed1254-std,concepticon-323,5.791,talg,"grease, fat",talg
+clics-doculect-87-670,swed1254-std,concepticon-323,5.791,smörjfett,"grease, fat",smorjfett
+clics-doculect-87-671,swed1254-std,concepticon-323,5.791,smörja,"grease, fat",smorja
+clics-doculect-87-672,swed1254-std,concepticon-1274,5.81,salt,salt,salt
+clics-doculect-87-673,swed1254-std,concepticon-1385,5.82,peppar,pepper,peppar
+clics-doculect-87-674,swed1254-std,concepticon-919,5.821,chilipeppar,chili pepper,chilipeppar
+clics-doculect-87-675,swed1254-std,concepticon-942,5.84,honung,honey,honung
+clics-doculect-87-676,swed1254-std,concepticon-862,5.85,socker,sugar,socker
+clics-doculect-87-677,swed1254-std,concepticon-635,5.86,mjölk,milk (noun),mjolk
+clics-doculect-87-678,swed1254-std,concepticon-93,5.87,mjölka,milk (vb),mjolka
+clics-doculect-87-679,swed1254-std,concepticon-1569,5.88,ost,cheese,ost
+clics-doculect-87-680,swed1254-std,concepticon-1245,5.89,smör,butter,smor
+clics-doculect-87-681,swed1254-std,concepticon-731,5.9,dryck,"beverage, drink",dryck
+clics-doculect-87-682,swed1254-std,concepticon-731,5.9,dricka,"beverage, drink",dricka
+clics-doculect-87-683,swed1254-std,concepticon-941,5.91,mjöd,mead,mjod
+clics-doculect-87-684,swed1254-std,concepticon-1524,5.92,vin,wine,vin
+clics-doculect-87-685,swed1254-std,concepticon-1639,5.93,öl,beer,ol
+clics-doculect-87-686,swed1254-std,concepticon-404,5.94,jästdryck,fermented drink,jastdryck
+clics-doculect-87-687,swed1254-std,concepticon-744,5.97,ägg,egg,agg
+clics-doculect-87-688,swed1254-std,concepticon-1556,5.971,ägggula,egg yolk,agggula
+clics-doculect-87-689,swed1254-std,concepticon-158,6.11,kläda,put on (clothes),klada
+clics-doculect-87-690,swed1254-std,concepticon-158,6.11,klä,put on (clothes),kla
+clics-doculect-87-691,swed1254-std,concepticon-158,6.11,kläpåsig,put on (clothes),klapasig
+clics-doculect-87-692,swed1254-std,concepticon-1895,6.12,kläder,"clothing, clothes",klader
+clics-doculect-87-693,swed1254-std,concepticon-881,6.13,skräddare,tailor,skraddare
+clics-doculect-87-694,swed1254-std,concepticon-1616,6.21,tyg,cloth,tyg
+clics-doculect-87-695,swed1254-std,concepticon-964,6.22,ull,wool,ull
+clics-doculect-87-696,swed1254-std,concepticon-916,6.23,lärft,"linen, flax",larft
+clics-doculect-87-697,swed1254-std,concepticon-916,6.23,linne,"linen, flax",linne
+clics-doculect-87-698,swed1254-std,concepticon-916,6.23,lin,"linen, flax",lin
+clics-doculect-87-699,swed1254-std,concepticon-1850,6.24,bomull,cotton,bomull
+clics-doculect-87-700,swed1254-std,concepticon-1641,6.25,silke,silk,silke
+clics-doculect-87-701,swed1254-std,concepticon-1641,6.25,siden,silk,siden
+clics-doculect-87-702,swed1254-std,concepticon-325,6.27,filt,felt,filt
+clics-doculect-87-703,swed1254-std,concepticon-580,6.28,päls,fur,pals
+clics-doculect-87-704,swed1254-std,concepticon-629,6.29,läder,leather,lader
+clics-doculect-87-705,swed1254-std,concepticon-121,6.31,spinna,spin,spinna
+clics-doculect-87-706,swed1254-std,concepticon-277,6.32,spindel,spindle,spindel
+clics-doculect-87-707,swed1254-std,concepticon-133,6.33,väva,weave,vava
+clics-doculect-87-708,swed1254-std,concepticon-1787,6.34,vävstol,loom,vavstol
+clics-doculect-87-709,swed1254-std,concepticon-1457,6.35,sy,sew,sy
+clics-doculect-87-710,swed1254-std,concepticon-1457,6.35,sömma,sew,somma
+clics-doculect-87-711,swed1254-std,concepticon-1382,6.36,nål,needle,nal
+clics-doculect-87-712,swed1254-std,concepticon-278,6.37,syl,awl,syl
+clics-doculect-87-713,swed1254-std,concepticon-1161,6.38,tråd,thread,trad
+clics-doculect-87-714,swed1254-std,concepticon-157,6.39,färga,dye,farga
+clics-doculect-87-715,swed1254-std,concepticon-326,6.41,kappa,cloak,kappa
+clics-doculect-87-716,swed1254-std,concepticon-326,6.41,slängkappa,cloak,slangkappa
+clics-doculect-87-717,swed1254-std,concepticon-326,6.41,mantel,cloak,mantel
+clics-doculect-87-718,swed1254-std,concepticon-474,6.42,klänning,woman's dress,klanning
+clics-doculect-87-719,swed1254-std,concepticon-603,6.43,rock,coat,rock
+clics-doculect-87-720,swed1254-std,concepticon-603,6.43,kavaj,coat,kavaj
+clics-doculect-87-721,swed1254-std,concepticon-1622,6.44,skjorta,shirt,skjorta
+clics-doculect-87-722,swed1254-std,concepticon-2012,6.45,krage,collar,krage
+clics-doculect-87-723,swed1254-std,concepticon-1600,6.46,kjol,skirt,kjol
+clics-doculect-87-724,swed1254-std,concepticon-328,6.461,bastkjol,grass-skirt,bastkjol
+clics-doculect-87-725,swed1254-std,concepticon-809,6.48,byxor,trousers,byxor
+clics-doculect-87-726,swed1254-std,concepticon-329,6.49,strumpa,"stocking, sock",strumpa
+clics-doculect-87-727,swed1254-std,concepticon-329,6.49,socka,"stocking, sock",socka
+clics-doculect-87-728,swed1254-std,concepticon-1381,6.51,sko,shoe,sko
+clics-doculect-87-729,swed1254-std,concepticon-585,6.52,stövel,boot,stovel
+clics-doculect-87-730,swed1254-std,concepticon-585,6.52,känga,boot,kanga
+clics-doculect-87-731,swed1254-std,concepticon-585,6.52,pjäxa,boot,pjaxa
+clics-doculect-87-732,swed1254-std,concepticon-875,6.54,skomakare,"shoemaker, cobbler",skomakare
+clics-doculect-87-733,swed1254-std,concepticon-2130,6.55,hatt,"hat, cap",hatt
+clics-doculect-87-734,swed1254-std,concepticon-2130,6.55,mössa,"hat, cap",mossa
+clics-doculect-87-735,swed1254-std,concepticon-772,6.57,bälte,"belt, girdle",balte
+clics-doculect-87-736,swed1254-std,concepticon-772,6.57,gördel,"belt, girdle",gordel
+clics-doculect-87-737,swed1254-std,concepticon-867,6.58,handske,glove,handske
+clics-doculect-87-738,swed1254-std,concepticon-1151,6.59,flor,veil,flor
+clics-doculect-87-739,swed1254-std,concepticon-1151,6.59,slöja,veil,sloja
+clics-doculect-87-740,swed1254-std,concepticon-1851,6.61,ficka,pocket,ficka
+clics-doculect-87-741,swed1254-std,concepticon-757,6.62,knapp,button,knapp
+clics-doculect-87-742,swed1254-std,concepticon-64,6.63,nål,pin,nal
+clics-doculect-87-743,swed1254-std,concepticon-917,6.71,prydnad,"ornament, adornment",prydnad
+clics-doculect-87-744,swed1254-std,concepticon-917,6.71,smycke,"ornament, adornment",smycke
+clics-doculect-87-745,swed1254-std,concepticon-1029,6.72,juvel,jewel,juvel
+clics-doculect-87-746,swed1254-std,concepticon-1029,6.72,smycke,jewel,smycke
+clics-doculect-87-747,swed1254-std,concepticon-1374,6.73,ring,ring (for finger),ring
+clics-doculect-87-748,swed1254-std,concepticon-1754,6.74,armband,bracelet,armband
+clics-doculect-87-749,swed1254-std,concepticon-1961,6.75,halsband,necklace,halsband
+clics-doculect-87-750,swed1254-std,concepticon-1860,6.76,pärla,bead,parla
+clics-doculect-87-751,swed1254-std,concepticon-770,6.77,örhänge,earring,orhange
+clics-doculect-87-752,swed1254-std,concepticon-330,6.78,hårband,"headband, headdress",harband
+clics-doculect-87-753,swed1254-std,concepticon-68,6.79,tatuering,tattoo,tatuering
+clics-doculect-87-754,swed1254-std,concepticon-332,6.81,näsduk,"handkerchief, rag",nasduk
+clics-doculect-87-755,swed1254-std,concepticon-1021,6.82,handduk,towel,handduk
+clics-doculect-87-756,swed1254-std,concepticon-1475,6.91,kam,comb,kam
+clics-doculect-87-757,swed1254-std,concepticon-1821,6.92,borste,brush,borste
+clics-doculect-87-758,swed1254-std,concepticon-333,6.921,fläta,braid,flata
+clics-doculect-87-759,swed1254-std,concepticon-151,6.93,rakknif,razor,rakknif
+clics-doculect-87-760,swed1254-std,concepticon-151,6.93,rakkniv,razor,rakkniv
+clics-doculect-87-761,swed1254-std,concepticon-151,6.93,rakhyvel,razor,rakhyvel
+clics-doculect-87-762,swed1254-std,concepticon-151,6.93,elhyvel,razor,elhyvel
+clics-doculect-87-763,swed1254-std,concepticon-151,6.93,rakapparat,razor,rakapparat
+clics-doculect-87-764,swed1254-std,concepticon-1926,6.94,salva,ointment,salva
+clics-doculect-87-765,swed1254-std,concepticon-788,6.95,såpa,soap,sapa
+clics-doculect-87-766,swed1254-std,concepticon-788,6.95,tvål,soap,tval
+clics-doculect-87-767,swed1254-std,concepticon-1171,6.96,spegel,mirror,spegel
+clics-doculect-87-768,swed1254-std,concepticon-363,7.11,bo,"dwell, live",bo
+clics-doculect-87-769,swed1254-std,concepticon-1252,7.12,hus,house,hus
+clics-doculect-87-770,swed1254-std,concepticon-1678,7.13,hydda,hut,hydda
+clics-doculect-87-771,swed1254-std,concepticon-1678,7.13,koja,hut,koja
+clics-doculect-87-772,swed1254-std,concepticon-1678,7.13,barack,hut,barack
+clics-doculect-87-773,swed1254-std,concepticon-403,7.131,gårdshus,garden-house,gardshus
+clics-doculect-87-774,swed1254-std,concepticon-403,7.131,kolonistuga,garden-house,kolonistuga
+clics-doculect-87-775,swed1254-std,concepticon-1316,7.14,tält,tent,talt
+clics-doculect-87-776,swed1254-std,concepticon-736,7.15,gård,"yard, court",gard
+clics-doculect-87-777,swed1254-std,concepticon-408,7.16,manshus,men's house,manshus
+clics-doculect-87-778,swed1254-std,concepticon-334,7.17,kök,cookhouse,kok
+clics-doculect-87-779,swed1254-std,concepticon-335,7.18,möteslokal,meeting house,moteslokal
+clics-doculect-87-780,swed1254-std,concepticon-335,7.18,kommunhus,meeting house,kommunhus
+clics-doculect-87-781,swed1254-std,concepticon-1450,7.21,rum,room,rum
+clics-doculect-87-782,swed1254-std,concepticon-1567,7.22,dörr,"door, gate",dorr
+clics-doculect-87-783,swed1254-std,concepticon-1567,7.22,port,"door, gate",port
+clics-doculect-87-784,swed1254-std,concepticon-80,7.221,dörrpost,"doorpost, jamb",dorrpost
+clics-doculect-87-785,swed1254-std,concepticon-1596,7.23,lås,lock (noun),las
+clics-doculect-87-786,swed1254-std,concepticon-1012,7.231,regel,"latch, door-bolt",regel
+clics-doculect-87-787,swed1254-std,concepticon-1012,7.231,klinka,"latch, door-bolt",klinka
+clics-doculect-87-788,swed1254-std,concepticon-1012,7.231,regla,"latch, door-bolt",regla
+clics-doculect-87-789,swed1254-std,concepticon-1472,7.24,nyckel,key,nyckel
+clics-doculect-87-790,swed1254-std,concepticon-1375,7.25,fönster,window,fonster
+clics-doculect-87-791,swed1254-std,concepticon-1632,7.26,golv,floor,golv
+clics-doculect-87-792,swed1254-std,concepticon-933,7.27,mur,wall,mur
+clics-doculect-87-793,swed1254-std,concepticon-933,7.27,vägg,wall,vagg
+clics-doculect-87-794,swed1254-std,concepticon-185,7.31,eldstad,fireplace,eldstad
+clics-doculect-87-795,swed1254-std,concepticon-185,7.31,öppenspis,fireplace,oppenspis
+clics-doculect-87-796,swed1254-std,concepticon-859,7.32,spis,stove,spis
+clics-doculect-87-797,swed1254-std,concepticon-859,7.32,ugn,stove,ugn
+clics-doculect-87-798,swed1254-std,concepticon-859,7.32,kamin,stove,kamin
+clics-doculect-87-799,swed1254-std,concepticon-859,7.32,kakelugn,stove,kakelugn
+clics-doculect-87-800,swed1254-std,concepticon-1305,7.33,skorsten,chimney,skorsten
+clics-doculect-87-801,swed1254-std,concepticon-1464,7.37,stege,ladder,stege
+clics-doculect-87-802,swed1254-std,concepticon-1663,7.42,bädd,bed,badd
+clics-doculect-87-803,swed1254-std,concepticon-1663,7.42,säng,bed,sang
+clics-doculect-87-804,swed1254-std,concepticon-1044,7.421,kudde,pillow,kudde
+clics-doculect-87-805,swed1254-std,concepticon-1044,7.421,dyna,pillow,dyna
+clics-doculect-87-806,swed1254-std,concepticon-806,7.422,filt,blanket,filt
+clics-doculect-87-807,swed1254-std,concepticon-806,7.422,täcke,blanket,tacke
+clics-doculect-87-808,swed1254-std,concepticon-1476,7.43,stol,chair,stol
+clics-doculect-87-809,swed1254-std,concepticon-1775,7.44,bord,table,bord
+clics-doculect-87-810,swed1254-std,concepticon-2131,7.45,lampa,"lamp, torch",lampa
+clics-doculect-87-811,swed1254-std,concepticon-1273,7.46,ljus,candle,ljus
+clics-doculect-87-812,swed1254-std,concepticon-1273,7.46,stearinljus,candle,stearinljus
+clics-doculect-87-813,swed1254-std,concepticon-1273,7.46,vaxljus,candle,vaxljus
+clics-doculect-87-814,swed1254-std,concepticon-745,7.47,hylla,shelf,hylla
+clics-doculect-87-815,swed1254-std,concepticon-205,7.48,ho,trough,ho
+clics-doculect-87-816,swed1254-std,concepticon-205,7.48,tråg,trough,trag
+clics-doculect-87-817,swed1254-std,concepticon-205,7.48,kar,trough,kar
+clics-doculect-87-818,swed1254-std,concepticon-205,7.48,ränna,trough,ranna
+clics-doculect-87-819,swed1254-std,concepticon-769,7.51,tak,roof,tak
+clics-doculect-87-820,swed1254-std,concepticon-279,7.52,halm,thatch,halm
+clics-doculect-87-821,swed1254-std,concepticon-279,7.52,vass,thatch,vass
+clics-doculect-87-822,swed1254-std,concepticon-280,7.53,ryggås,ridgepole,ryggas
+clics-doculect-87-823,swed1254-std,concepticon-829,7.54,sparr,rafter,sparr
+clics-doculect-87-824,swed1254-std,concepticon-1132,7.55,bjälke,beam,bjalke
+clics-doculect-87-825,swed1254-std,concepticon-1132,7.55,balk,beam,balk
+clics-doculect-87-826,swed1254-std,concepticon-281,7.56,stöd,"post, pole",stod
+clics-doculect-87-827,swed1254-std,concepticon-281,7.56,stolpe,"post, pole",stolpe
+clics-doculect-87-828,swed1254-std,concepticon-281,7.56,stötta,"post, pole",stotta
+clics-doculect-87-829,swed1254-std,concepticon-281,7.56,påle,"post, pole",pale
+clics-doculect-87-830,swed1254-std,concepticon-1227,7.57,bräda,board,brada
+clics-doculect-87-831,swed1254-std,concepticon-876,7.58,valv,arch,valv
+clics-doculect-87-832,swed1254-std,concepticon-876,7.58,valvbåge,arch,valvbage
+clics-doculect-87-833,swed1254-std,concepticon-877,7.61,stenhuggare,mason,stenhuggare
+clics-doculect-87-834,swed1254-std,concepticon-877,7.61,murare,mason,murare
+clics-doculect-87-835,swed1254-std,concepticon-1006,7.62,tegel,brick,tegel
+clics-doculect-87-836,swed1254-std,concepticon-1006,7.62,tegelsten,brick,tegelsten
+clics-doculect-87-837,swed1254-std,concepticon-224,7.63,mortel,mortar,mortel
+clics-doculect-87-838,swed1254-std,concepticon-901,7.64,adobe,adobe,adobe
+clics-doculect-87-839,swed1254-std,concepticon-901,7.64,lertegel,adobe,lertegel
+clics-doculect-87-840,swed1254-std,concepticon-979,8.11,jordbrukare,farmer,jordbrukare
+clics-doculect-87-841,swed1254-std,concepticon-979,8.11,bonde,farmer,bonde
+clics-doculect-87-842,swed1254-std,concepticon-979,8.11,åkerman,farmer,akerman
+clics-doculect-87-843,swed1254-std,concepticon-212,8.12,åker,field (for cultivation),aker
+clics-doculect-87-844,swed1254-std,concepticon-212,8.12,mark,field (for cultivation),mark
+clics-doculect-87-845,swed1254-std,concepticon-586,8.13,trädgård,garden,tradgard
+clics-doculect-87-846,swed1254-std,concepticon-1541,8.15,bruka,"cultivate, till",bruka
+clics-doculect-87-847,swed1254-std,concepticon-1541,8.15,odla,"cultivate, till",odla
+clics-doculect-87-848,swed1254-std,concepticon-1541,8.15,plöja,"cultivate, till",ploja
+clics-doculect-87-849,swed1254-std,concepticon-1690,8.16,stängsel,fence,stangsel
+clics-doculect-87-850,swed1254-std,concepticon-1690,8.16,staket,fence,staket
+clics-doculect-87-851,swed1254-std,concepticon-1690,8.16,inhägnad,fence,inhagnad
+clics-doculect-87-852,swed1254-std,concepticon-2002,8.17,dike,ditch,dike
+clics-doculect-87-853,swed1254-std,concepticon-2002,8.17,grav,ditch,grav
+clics-doculect-87-854,swed1254-std,concepticon-1921,8.21,plöja,plow,ploja
+clics-doculect-87-855,swed1254-std,concepticon-1921,8.21,plog,plow,plog
+clics-doculect-87-856,swed1254-std,concepticon-1794,8.212,fåra,furrow,fara
+clics-doculect-87-857,swed1254-std,concepticon-1418,8.22,gräva,dig,grava
+clics-doculect-87-858,swed1254-std,concepticon-1176,8.23,spade,spade,spade
+clics-doculect-87-859,swed1254-std,concepticon-1901,8.24,skovel,shovel,skovel
+clics-doculect-87-860,swed1254-std,concepticon-1901,8.24,skyffel,shovel,skyffel
+clics-doculect-87-861,swed1254-std,concepticon-284,8.25,hacka,hoe,hacka
+clics-doculect-87-862,swed1254-std,concepticon-337,8.26,högaffel,fork,hogaffel
+clics-doculect-87-863,swed1254-std,concepticon-337,8.26,grepe,fork,grepe
+clics-doculect-87-864,swed1254-std,concepticon-337,8.26,grep,fork,grep
+clics-doculect-87-865,swed1254-std,concepticon-338,8.27,räfsa,rake,rafsa
+clics-doculect-87-866,swed1254-std,concepticon-1351,8.31,så,sow,sa
+clics-doculect-87-867,swed1254-std,concepticon-714,8.311,frö,seed,fro
+clics-doculect-87-868,swed1254-std,concepticon-190,8.32,slå,"mow, reap",sla
+clics-doculect-87-869,swed1254-std,concepticon-190,8.32,meja,"mow, reap",meja
+clics-doculect-87-870,swed1254-std,concepticon-2132,8.33,skära,"sickle, scythe",skara
+clics-doculect-87-871,swed1254-std,concepticon-2132,8.33,lie,"sickle, scythe",lie
+clics-doculect-87-872,swed1254-std,concepticon-285,8.34,tröska,thresh,troska
+clics-doculect-87-873,swed1254-std,concepticon-223,8.35,loge,threshing-floor,loge
+clics-doculect-87-874,swed1254-std,concepticon-611,8.41,gröda,"crop, harvest",groda
+clics-doculect-87-875,swed1254-std,concepticon-611,8.41,skörd,"crop, harvest",skord
+clics-doculect-87-876,swed1254-std,concepticon-611,8.41,skördetid,"crop, harvest",skordetid
+clics-doculect-87-877,swed1254-std,concepticon-605,8.42,säd,"grain (barley, oats etc)",sad
+clics-doculect-87-878,swed1254-std,concepticon-605,8.42,korn,"grain (barley, oats etc)",korn
+clics-doculect-87-879,swed1254-std,concepticon-1077,8.43,hvete,wheat,hvete
+clics-doculect-87-880,swed1254-std,concepticon-1077,8.43,vete,wheat,vete
+clics-doculect-87-881,swed1254-std,concepticon-932,8.44,bjugg,barley,bjugg
+clics-doculect-87-882,swed1254-std,concepticon-932,8.44,korn,barley,korn
+clics-doculect-87-883,swed1254-std,concepticon-23,8.45,råg,rye,rag
+clics-doculect-87-884,swed1254-std,concepticon-60,8.46,havre,oats,havre
+clics-doculect-87-885,swed1254-std,concepticon-506,8.47,majs,"maize, corn",majs
+clics-doculect-87-886,swed1254-std,concepticon-926,8.48,ris,rice,ris
+clics-doculect-87-887,swed1254-std,concepticon-606,8.51,gräs,grass,gras
+clics-doculect-87-888,swed1254-std,concepticon-342,8.52,hö,hay,ho
+clics-doculect-87-889,swed1254-std,concepticon-653,8.53,planta,plant (noun),planta
+clics-doculect-87-890,swed1254-std,concepticon-653,8.53,ört,plant (noun),ort
+clics-doculect-87-891,swed1254-std,concepticon-653,8.53,växt,plant (noun),vaxt
+clics-doculect-87-892,swed1254-std,concepticon-1486,8.531,plantera,plant (vb),plantera
+clics-doculect-87-893,swed1254-std,concepticon-1486,8.531,sätta,plant (vb),satta
+clics-doculect-87-894,swed1254-std,concepticon-1486,8.531,så,plant (vb),sa
+clics-doculect-87-895,swed1254-std,concepticon-670,8.54,rot,root,rot
+clics-doculect-87-896,swed1254-std,concepticon-1531,8.55,gren,branch,gren
+clics-doculect-87-897,swed1254-std,concepticon-1531,8.55,kvist,branch,kvist
+clics-doculect-87-898,swed1254-std,concepticon-628,8.56,löf,leaf,lof
+clics-doculect-87-899,swed1254-std,concepticon-628,8.56,löv,leaf,lov
+clics-doculect-87-900,swed1254-std,concepticon-628,8.56,blad,leaf,blad
+clics-doculect-87-901,swed1254-std,concepticon-239,8.57,blomma,flower,blomma
+clics-doculect-87-902,swed1254-std,concepticon-239,8.57,blomster,flower,blomster
+clics-doculect-87-903,swed1254-std,concepticon-906,8.6,träd,tree,trad
+clics-doculect-87-904,swed1254-std,concepticon-644,8.61,ek,oak,ek
+clics-doculect-87-905,swed1254-std,concepticon-1950,8.62,bok,beech,bok
+clics-doculect-87-906,swed1254-std,concepticon-1855,8.63,björk,birch,bjork
+clics-doculect-87-907,swed1254-std,concepticon-1740,8.64,tall,pine,tall
+clics-doculect-87-908,swed1254-std,concepticon-1740,8.64,fura,pine,fura
+clics-doculect-87-909,swed1254-std,concepticon-1915,8.65,gran,fir,gran
+clics-doculect-87-910,swed1254-std,concepticon-968,8.66,ekollon,acorn,ekollon
+clics-doculect-87-911,swed1254-std,concepticon-343,8.67,vinranka,vine,vinranka
+clics-doculect-87-912,swed1254-std,concepticon-343,8.67,vinstock,vine,vinstock
+clics-doculect-87-913,swed1254-std,concepticon-974,8.68,tobak,tobacco,tobak
+clics-doculect-87-914,swed1254-std,concepticon-1689,8.69,röka,smoke (tobacco),roka
+clics-doculect-87-915,swed1254-std,concepticon-1124,8.691,pipa,pipe,pipa
+clics-doculect-87-916,swed1254-std,concepticon-241,8.72,stubbe,tree stump,stubbe
+clics-doculect-87-917,swed1254-std,concepticon-344,8.73,trädstam,tree trunk,tradstam
+clics-doculect-87-918,swed1254-std,concepticon-344,8.73,stam,tree trunk,stam
+clics-doculect-87-919,swed1254-std,concepticon-409,8.74,klyka,forked branch,klyka
+clics-doculect-87-920,swed1254-std,concepticon-1204,8.75,bark,bark,bark
+clics-doculect-87-921,swed1254-std,concepticon-345,8.76,sav,sap,sav
+clics-doculect-87-922,swed1254-std,concepticon-345,8.76,växtsaft,sap,vaxtsaft
+clics-doculect-87-923,swed1254-std,concepticon-1181,8.81,palm,palm tree,palm
+clics-doculect-87-924,swed1254-std,concepticon-970,8.82,kokosnöt,coconut,kokosnot
+clics-doculect-87-925,swed1254-std,concepticon-1126,8.83,citrusfrukt,citrus fruit,citrusfrukt
+clics-doculect-87-926,swed1254-std,concepticon-868,8.84,bananträd,banana tree,banantrad
+clics-doculect-87-927,swed1254-std,concepticon-410,8.912,jams,yam,jams
+clics-doculect-87-928,swed1254-std,concepticon-411,8.93,flaskkurbits,gourd,flaskkurbits
+clics-doculect-87-929,swed1254-std,concepticon-411,8.93,kalebass,gourd,kalebass
+clics-doculect-87-930,swed1254-std,concepticon-411,8.93,kalabass,gourd,kalabass
+clics-doculect-87-931,swed1254-std,concepticon-864,8.931,pumpa,"pumpkin, squash",pumpa
+clics-doculect-87-932,swed1254-std,concepticon-864,8.931,kurbits,"pumpkin, squash",kurbits
+clics-doculect-87-933,swed1254-std,concepticon-1927,8.94,bambu,bamboo,bambu
+clics-doculect-87-934,swed1254-std,concepticon-1927,8.94,bamburör,bamboo,bamburor
+clics-doculect-87-935,swed1254-std,concepticon-146,8.941,sockerrör,sugar cane,sockerror
+clics-doculect-87-936,swed1254-std,concepticon-348,8.96,växtgift,fish poison (root),vaxtgift
+clics-doculect-87-937,swed1254-std,concepticon-33,8.97,nässla,nettle,nassla
+clics-doculect-87-938,swed1254-std,concepticon-33,8.97,brännnässla,nettle,brannnassla
+clics-doculect-87-939,swed1254-std,concepticon-641,8.98,svamp,mushroom,svamp
+clics-doculect-87-940,swed1254-std,concepticon-2575,9.11,göra,"do, make",gora
+clics-doculect-87-941,swed1254-std,concepticon-984,9.12,arbete,work,arbete
+clics-doculect-87-942,swed1254-std,concepticon-984,9.12,verk,work,verk
+clics-doculect-87-943,swed1254-std,concepticon-984,9.12,jobb,work,jobb
+clics-doculect-87-944,swed1254-std,concepticon-2004,9.14,böja,bend,boja
+clics-doculect-87-945,swed1254-std,concepticon-2004,9.14,kröka,bend,kroka
+clics-doculect-87-946,swed1254-std,concepticon-1470,9.15,vika,fold,vika
+clics-doculect-87-947,swed1254-std,concepticon-1917,9.16,binda,"tie, bind",binda
+clics-doculect-87-948,swed1254-std,concepticon-352,9.161,knytaupp,untie,knytaupp
+clics-doculect-87-949,swed1254-std,concepticon-352,9.161,knytaloss,untie,knytaloss
+clics-doculect-87-950,swed1254-std,concepticon-352,9.161,lossa,untie,lossa
+clics-doculect-87-951,swed1254-std,concepticon-352,9.161,släppaloss,untie,slappaloss
+clics-doculect-87-952,swed1254-std,concepticon-352,9.161,släppalös,untie,slappalos
+clics-doculect-87-953,swed1254-std,concepticon-1627,9.18,kedja,chain,kedja
+clics-doculect-87-954,swed1254-std,concepticon-1218,9.19,rep,"rope, cord",rep
+clics-doculect-87-955,swed1254-std,concepticon-1218,9.19,tåg,"rope, cord",tag
+clics-doculect-87-956,swed1254-std,concepticon-1218,9.19,lina,"rope, cord",lina
+clics-doculect-87-957,swed1254-std,concepticon-1218,9.19,snöre,"rope, cord",snore
+clics-doculect-87-958,swed1254-std,concepticon-760,9.192,knut,knot (noun),knut
+clics-doculect-87-959,swed1254-std,concepticon-2133,9.21,slå,"strike (hit, beat)",sla
+clics-doculect-87-960,swed1254-std,concepticon-354,9.211,slåmot,pound with fist,slamot
+clics-doculect-87-961,swed1254-std,concepticon-354,9.211,dunka,pound with fist,dunka
+clics-doculect-87-962,swed1254-std,concepticon-354,9.211,banka,pound with fist,banka
+clics-doculect-87-963,swed1254-std,concepticon-354,9.211,bulta,pound with fist,bulta
+clics-doculect-87-964,swed1254-std,concepticon-354,9.211,hamra,pound with fist,hamra
+clics-doculect-87-965,swed1254-std,concepticon-1432,9.22,skära,cut,skara
+clics-doculect-87-966,swed1254-std,concepticon-1432,9.22,klippa,cut,klippa
+clics-doculect-87-967,swed1254-std,concepticon-1432,9.22,hugga,cut,hugga
+clics-doculect-87-968,swed1254-std,concepticon-355,9.221,skäraav,cut down,skaraav
+clics-doculect-87-969,swed1254-std,concepticon-355,9.221,klippaav,cut down,klippaav
+clics-doculect-87-970,swed1254-std,concepticon-355,9.221,hugganer,cut down,hugganer
+clics-doculect-87-971,swed1254-std,concepticon-355,9.221,hackaner,cut down,hackaner
+clics-doculect-87-972,swed1254-std,concepticon-155,9.222,hugga,"chop, hew",hugga
+clics-doculect-87-973,swed1254-std,concepticon-155,9.222,hacka,"chop, hew",hacka
+clics-doculect-87-974,swed1254-std,concepticon-1434,9.223,sticka,stab,sticka
+clics-doculect-87-975,swed1254-std,concepticon-1434,9.223,stöta,stab,stota
+clics-doculect-87-976,swed1254-std,concepticon-1352,9.23,knif,knife,knif
+clics-doculect-87-977,swed1254-std,concepticon-1352,9.23,kniv,knife,kniv
+clics-doculect-87-978,swed1254-std,concepticon-356,9.24,sax,"scissors, shears",sax
+clics-doculect-87-979,swed1254-std,concepticon-677,9.25,yxa,ax,yxa
+clics-doculect-87-980,swed1254-std,concepticon-290,9.251,skarvyxa,adze,skarvyxa
+clics-doculect-87-981,swed1254-std,concepticon-290,9.251,däxel,adze,daxel
+clics-doculect-87-982,swed1254-std,concepticon-680,9.26,bryta,break,bryta
+clics-doculect-87-983,swed1254-std,concepticon-680,9.26,bräcka,break,bracka
+clics-doculect-87-984,swed1254-std,concepticon-588,9.261,sönder,broken,sonder
+clics-doculect-87-985,swed1254-std,concepticon-588,9.261,sönderslagen,broken,sonderslagen
+clics-doculect-87-986,swed1254-std,concepticon-588,9.261,bruten,broken,bruten
+clics-doculect-87-987,swed1254-std,concepticon-1437,9.27,splittra,split,splittra
+clics-doculect-87-988,swed1254-std,concepticon-1437,9.27,klyva,split,klyva
+clics-doculect-87-989,swed1254-std,concepticon-1735,9.28,riva,tear,riva
+clics-doculect-87-990,swed1254-std,concepticon-1735,9.28,slita,tear,slita
+clics-doculect-87-991,swed1254-std,concepticon-291,9.29,flå,"flay, skin",fla
+clics-doculect-87-992,swed1254-std,concepticon-1449,9.31,gnida,"rub, wipe",gnida
+clics-doculect-87-993,swed1254-std,concepticon-214,9.32,sträcka,stretch,stracka
+clics-doculect-87-994,swed1254-std,concepticon-214,9.32,spänna,stretch,spanna
+clics-doculect-87-995,swed1254-std,concepticon-214,9.32,tänja,stretch,tanja
+clics-doculect-87-996,swed1254-std,concepticon-1455,9.33,draga,pull,draga
+clics-doculect-87-997,swed1254-std,concepticon-1455,9.33,dra,pull,dra
+clics-doculect-87-998,swed1254-std,concepticon-38,9.34,bredaut,spread out,bredaut
+clics-doculect-87-999,swed1254-std,concepticon-38,9.34,strö,spread out,stro
+clics-doculect-87-1000,swed1254-std,concepticon-357,9.341,hänga,hang up,hanga
+clics-doculect-87-1001,swed1254-std,concepticon-357,9.341,hängaupp,hang up,hangaupp
+clics-doculect-87-1002,swed1254-std,concepticon-1913,9.342,trycka,press,trycka
+clics-doculect-87-1003,swed1254-std,concepticon-1913,9.342,tryckapå,press,tryckapa
+clics-doculect-87-1004,swed1254-std,concepticon-1913,9.342,pressa,press,pressa
+clics-doculect-87-1005,swed1254-std,concepticon-1414,9.343,trycka,"squeeze, wring",trycka
+clics-doculect-87-1006,swed1254-std,concepticon-1414,9.343,klämma,"squeeze, wring",klamma
+clics-doculect-87-1007,swed1254-std,concepticon-1414,9.343,krama,"squeeze, wring",krama
+clics-doculect-87-1008,swed1254-std,concepticon-1414,9.343,pressa,"squeeze, wring",pressa
+clics-doculect-87-1009,swed1254-std,concepticon-1487,9.35,hälla,pour,halla
+clics-doculect-87-1010,swed1254-std,concepticon-1487,9.35,gjuta,pour,gjuta
+clics-doculect-87-1011,swed1254-std,concepticon-1487,9.35,skänka,pour,skanka
+clics-doculect-87-1012,swed1254-std,concepticon-1453,9.36,tvätta,wash,tvatta
+clics-doculect-87-1013,swed1254-std,concepticon-1453,9.36,vaska,wash,vaska
+clics-doculect-87-1014,swed1254-std,concepticon-230,9.37,sopa,sweep,sopa
+clics-doculect-87-1015,swed1254-std,concepticon-245,9.38,kvast,broom,kvast
+clics-doculect-87-1016,swed1254-std,concepticon-1361,9.422,verktyg,tool,verktyg
+clics-doculect-87-1017,swed1254-std,concepticon-1361,9.422,redskap,tool,redskap
+clics-doculect-87-1018,swed1254-std,concepticon-1042,9.43,snickare,carpenter,snickare
+clics-doculect-87-1019,swed1254-std,concepticon-1042,9.43,timmerman,carpenter,timmerman
+clics-doculect-87-1020,swed1254-std,concepticon-1840,9.44,bygga,build,bygga
+clics-doculect-87-1021,swed1254-std,concepticon-1501,9.46,borra,bore,borra
+clics-doculect-87-1022,swed1254-std,concepticon-46,9.461,urholka,hollow out,urholka
+clics-doculect-87-1023,swed1254-std,concepticon-46,9.461,göraihålig,hollow out,goraihalig
+clics-doculect-87-1024,swed1254-std,concepticon-1948,9.48,såg,saw,sag
+clics-doculect-87-1025,swed1254-std,concepticon-1481,9.49,hammare,hammer,hammare
+clics-doculect-87-1026,swed1254-std,concepticon-502,9.5,spik,nail,spik
+clics-doculect-87-1027,swed1254-std,concepticon-1069,9.56,lim,glue,lim
+clics-doculect-87-1028,swed1254-std,concepticon-1069,9.56,klister,glue,klister
+clics-doculect-87-1029,swed1254-std,concepticon-1001,9.6,smed,"smith, blacksmith",smed
+clics-doculect-87-1030,swed1254-std,concepticon-288,9.61,smida,forge,smida
+clics-doculect-87-1031,swed1254-std,concepticon-1648,9.62,städ,anvil,stad
+clics-doculect-87-1032,swed1254-std,concepticon-211,9.63,gjuta,cast (metals),gjuta
+clics-doculect-87-1033,swed1254-std,concepticon-211,9.63,stöpa,cast (metals),stopa
+clics-doculect-87-1034,swed1254-std,concepticon-1369,9.64,guld,gold,guld
+clics-doculect-87-1035,swed1254-std,concepticon-759,9.65,silver,silver,silver
+clics-doculect-87-1036,swed1254-std,concepticon-1825,9.66,koppar,"copper, bronze",koppar
+clics-doculect-87-1037,swed1254-std,concepticon-1825,9.66,brons,"copper, bronze",brons
+clics-doculect-87-1038,swed1254-std,concepticon-621,9.67,järn,iron,jarn
+clics-doculect-87-1039,swed1254-std,concepticon-627,9.68,bly,lead (noun),bly
+clics-doculect-87-1040,swed1254-std,concepticon-358,9.69,tenn,"tin, tinplate",tenn
+clics-doculect-87-1041,swed1254-std,concepticon-358,9.69,bleck,"tin, tinplate",bleck
+clics-doculect-87-1042,swed1254-std,concepticon-358,9.69,plåt,"tin, tinplate",plat
+clics-doculect-87-1043,swed1254-std,concepticon-359,9.71,krukmakare,potter,krukmakare
+clics-doculect-87-1044,swed1254-std,concepticon-359,9.71,keramiker,potter,keramiker
+clics-doculect-87-1045,swed1254-std,concepticon-289,9.72,forma,mold (clay etc),forma
+clics-doculect-87-1046,swed1254-std,concepticon-289,9.72,dana,mold (clay etc),dana
+clics-doculect-87-1047,swed1254-std,concepticon-1399,9.73,lera,clay,lera
+clics-doculect-87-1048,swed1254-std,concepticon-604,9.74,glas,glass,glas
+clics-doculect-87-1049,swed1254-std,concepticon-1729,9.75,fläta,"weave, plait",flata
+clics-doculect-87-1050,swed1254-std,concepticon-1729,9.75,väva,"weave, plait",vava
+clics-doculect-87-1051,swed1254-std,concepticon-1539,9.76,korg,basket,korg
+clics-doculect-87-1052,swed1254-std,concepticon-195,9.77,matta,mat,matta
+clics-doculect-87-1053,swed1254-std,concepticon-195,9.77,dörrmatta,mat,dorrmatta
+clics-doculect-87-1054,swed1254-std,concepticon-292,9.771,matta,rug,matta
+clics-doculect-87-1055,swed1254-std,concepticon-293,9.78,bärnät,netbag,barnat
+clics-doculect-87-1056,swed1254-std,concepticon-293,9.78,nätväska,netbag,natvaska
+clics-doculect-87-1057,swed1254-std,concepticon-1971,9.79,fläkt,fan (noun),flakt
+clics-doculect-87-1058,swed1254-std,concepticon-1971,9.79,solfjäder,fan (noun),solfjader
+clics-doculect-87-1059,swed1254-std,concepticon-360,9.791,fläktasig,fan (vb),flaktasig
+clics-doculect-87-1060,swed1254-std,concepticon-360,9.791,bredautsig,fan (vb),bredautsig
+clics-doculect-87-1061,swed1254-std,concepticon-228,9.81,huggaut,carve,huggaut
+clics-doculect-87-1062,swed1254-std,concepticon-228,9.81,skulptera,carve,skulptera
+clics-doculect-87-1063,swed1254-std,concepticon-914,9.82,bildhuggare,sculptor,bildhuggare
+clics-doculect-87-1064,swed1254-std,concepticon-914,9.82,skulptör,sculptor,skulptor
+clics-doculect-87-1065,swed1254-std,concepticon-1002,9.83,staty,statue,staty
+clics-doculect-87-1066,swed1254-std,concepticon-1002,9.83,bildstod,statue,bildstod
+clics-doculect-87-1067,swed1254-std,concepticon-1979,9.84,mejsel,chisel,mejsel
+clics-doculect-87-1068,swed1254-std,concepticon-647,9.88,färg,paint (noun),farg
+clics-doculect-87-1069,swed1254-std,concepticon-2001,9.89,måla,paint (vb),mala
+clics-doculect-87-1070,swed1254-std,concepticon-765,10.11,röra,move,rora
+clics-doculect-87-1071,swed1254-std,concepticon-765,10.11,flytta,move,flytta
+clics-doculect-87-1072,swed1254-std,concepticon-1588,10.12,vända,turn over,vanda
+clics-doculect-87-1073,swed1254-std,concepticon-1445,10.13,vrida,turn around,vrida
+clics-doculect-87-1074,swed1254-std,concepticon-1445,10.13,sno,turn around,sno
+clics-doculect-87-1075,swed1254-std,concepticon-1113,10.14,vinda,"wind, wrap",vinda
+clics-doculect-87-1076,swed1254-std,concepticon-1113,10.14,linda,"wind, wrap",linda
+clics-doculect-87-1077,swed1254-std,concepticon-1113,10.14,veckla,"wind, wrap",veckla
+clics-doculect-87-1078,swed1254-std,concepticon-827,10.15,rulla,roll,rulla
+clics-doculect-87-1079,swed1254-std,concepticon-808,10.16,droppa,drop (vb),droppa
+clics-doculect-87-1080,swed1254-std,concepticon-808,10.16,droppaner,drop (vb),droppaner
+clics-doculect-87-1081,swed1254-std,concepticon-430,10.17,vrida,twist,vrida
+clics-doculect-87-1082,swed1254-std,concepticon-430,10.17,vridatill,twist,vridatill
+clics-doculect-87-1083,swed1254-std,concepticon-430,10.17,vricka,twist,vricka
+clics-doculect-87-1084,swed1254-std,concepticon-430,10.17,förvrida,twist,forvrida
+clics-doculect-87-1085,swed1254-std,concepticon-568,10.21,ställasig,rise,stallasig
+clics-doculect-87-1086,swed1254-std,concepticon-568,10.21,resasig,rise,resasig
+clics-doculect-87-1087,swed1254-std,concepticon-501,10.22,lyfta,"raise, lift",lyfta
+clics-doculect-87-1088,swed1254-std,concepticon-501,10.22,höja,"raise, lift",hoja
+clics-doculect-87-1089,swed1254-std,concepticon-1280,10.23,falla,fall,falla
+clics-doculect-87-1090,swed1254-std,concepticon-2253,10.24,droppa,drip,droppa
+clics-doculect-87-1091,swed1254-std,concepticon-1456,10.25,kasta,throw,kasta
+clics-doculect-87-1092,swed1254-std,concepticon-702,10.252,fånga,catch (ball),fanga
+clics-doculect-87-1093,swed1254-std,concepticon-702,10.252,tafast,catch (ball),tafast
+clics-doculect-87-1094,swed1254-std,concepticon-1909,10.26,skaka,shake,skaka
+clics-doculect-87-1095,swed1254-std,concepticon-2003,10.32,flyta,flow,flyta
+clics-doculect-87-1096,swed1254-std,concepticon-2003,10.32,rinna,flow,rinna
+clics-doculect-87-1097,swed1254-std,concepticon-1088,10.33,sjunka,sink,sjunka
+clics-doculect-87-1098,swed1254-std,concepticon-1088,10.33,sänka,sink,sanka
+clics-doculect-87-1099,swed1254-std,concepticon-1574,10.34,flyta,float,flyta
+clics-doculect-87-1100,swed1254-std,concepticon-1439,10.35,simma,swim,simma
+clics-doculect-87-1101,swed1254-std,concepticon-119,10.351,dyka,dive,dyka
+clics-doculect-87-1102,swed1254-std,concepticon-365,10.352,stänka,splash,stanka
+clics-doculect-87-1103,swed1254-std,concepticon-365,10.352,slaska,splash,slaska
+clics-doculect-87-1104,swed1254-std,concepticon-365,10.352,skvätta,splash,skvatta
+clics-doculect-87-1105,swed1254-std,concepticon-365,10.352,plaska,splash,plaska
+clics-doculect-87-1106,swed1254-std,concepticon-365,10.352,plumsa,splash,plumsa
+clics-doculect-87-1107,swed1254-std,concepticon-365,10.352,skvalpa,splash,skvalpa
+clics-doculect-87-1108,swed1254-std,concepticon-787,10.36,segla,sail (vb),segla
+clics-doculect-87-1109,swed1254-std,concepticon-1441,10.37,flyga,fly (vb),flyga
+clics-doculect-87-1110,swed1254-std,concepticon-175,10.38,blåsa,blow,blasa
+clics-doculect-87-1111,swed1254-std,concepticon-96,10.41,krypa,"creep, crawl",krypa
+clics-doculect-87-1112,swed1254-std,concepticon-96,10.41,kräla,"creep, crawl",krala
+clics-doculect-87-1113,swed1254-std,concepticon-66,10.412,knäböja,kneel,knaboja
+clics-doculect-87-1114,swed1254-std,concepticon-66,10.412,fallapåknä,kneel,fallapakna
+clics-doculect-87-1115,swed1254-std,concepticon-296,10.413,hukasigner,crouch,hukasigner
+clics-doculect-87-1116,swed1254-std,concepticon-1324,10.42,glida,"slide, slip",glida
+clics-doculect-87-1117,swed1254-std,concepticon-1324,10.42,slippa,"slide, slip",slippa
+clics-doculect-87-1118,swed1254-std,concepticon-1324,10.42,halka,"slide, slip",halka
+clics-doculect-87-1119,swed1254-std,concepticon-1829,10.43,hoppa,"jump, leap",hoppa
+clics-doculect-87-1120,swed1254-std,concepticon-1135,10.431,sparka,kick,sparka
+clics-doculect-87-1121,swed1254-std,concepticon-1879,10.44,dansa,dance,dansa
+clics-doculect-87-1122,swed1254-std,concepticon-1443,10.45,gå,walk,ga
+clics-doculect-87-1123,swed1254-std,concepticon-366,10.451,halta,limp,halta
+clics-doculect-87-1124,swed1254-std,concepticon-366,10.451,linka,limp,linka
+clics-doculect-87-1125,swed1254-std,concepticon-1519,10.46,springa,run,springa
+clics-doculect-87-1126,swed1254-std,concepticon-1519,10.46,ränna,run,ranna
+clics-doculect-87-1127,swed1254-std,concepticon-1519,10.46,löpa,run,lopa
+clics-doculect-87-1128,swed1254-std,concepticon-695,10.47,gå,go,ga
+clics-doculect-87-1129,swed1254-std,concepticon-695,10.47,fara,go,fara
+clics-doculect-87-1130,swed1254-std,concepticon-695,10.47,resa,go,resa
+clics-doculect-87-1131,swed1254-std,concepticon-705,10.471,ståup,go up,staup
+clics-doculect-87-1132,swed1254-std,concepticon-705,10.471,gåup,go up,gaup
+clics-doculect-87-1133,swed1254-std,concepticon-1102,10.472,klättra,climb,klattra
+clics-doculect-87-1134,swed1254-std,concepticon-1102,10.472,kliva,climb,kliva
+clics-doculect-87-1135,swed1254-std,concepticon-1102,10.472,klänga,climb,klanga
+clics-doculect-87-1136,swed1254-std,concepticon-2014,10.473,gåner,go down,ganer
+clics-doculect-87-1137,swed1254-std,concepticon-1107,10.474,gåut,go out,gaut
+clics-doculect-87-1138,swed1254-std,concepticon-1446,10.48,komma,come,komma
+clics-doculect-87-1139,swed1254-std,concepticon-581,10.481,kommatillbaka,come back,kommatillbaka
+clics-doculect-87-1140,swed1254-std,concepticon-1752,10.49,gåbort,"go away, depart",gabort
+clics-doculect-87-1141,swed1254-std,concepticon-1752,10.49,resabort,"go away, depart",resabort
+clics-doculect-87-1142,swed1254-std,concepticon-485,10.491,försvinna,disappear,forsvinna
+clics-doculect-87-1143,swed1254-std,concepticon-956,10.51,fly,flee,fly
+clics-doculect-87-1144,swed1254-std,concepticon-1085,10.52,följa,follow,folja
+clics-doculect-87-1145,swed1254-std,concepticon-1047,10.53,förfölja,pursue,forfolja
+clics-doculect-87-1146,swed1254-std,concepticon-1387,10.55,kommatill,"reach, arrive",kommatill
+clics-doculect-87-1147,swed1254-std,concepticon-1387,10.55,anländatill,"reach, arrive",anlandatill
+clics-doculect-87-1148,swed1254-std,concepticon-1387,10.55,komma,"reach, arrive",komma
+clics-doculect-87-1149,swed1254-std,concepticon-1387,10.55,anlända,"reach, arrive",anlanda
+clics-doculect-87-1150,swed1254-std,concepticon-1387,10.55,hinna,"reach, arrive",hinna
+clics-doculect-87-1151,swed1254-std,concepticon-1387,10.55,nå,"reach, arrive",na
+clics-doculect-87-1152,swed1254-std,concepticon-1778,10.56,närmasig,approach,narmasig
+clics-doculect-87-1153,swed1254-std,concepticon-749,10.57,inträda,enter,intrada
+clics-doculect-87-1154,swed1254-std,concepticon-749,10.57,gåin,enter,gain
+clics-doculect-87-1155,swed1254-std,concepticon-700,10.61,bära,carry (bear),bara
+clics-doculect-87-1156,swed1254-std,concepticon-700,10.61,föra,carry (bear),fora
+clics-doculect-87-1157,swed1254-std,concepticon-700,10.61,köra,carry (bear),kora
+clics-doculect-87-1158,swed1254-std,concepticon-412,10.612,bära,carry-in-hand,bara
+clics-doculect-87-1159,swed1254-std,concepticon-413,10.613,bära,carry-on-shoulder,bara
+clics-doculect-87-1160,swed1254-std,concepticon-414,10.614,bära,carry-on-head,bara
+clics-doculect-87-1161,swed1254-std,concepticon-415,10.615,bära,carry-underarm,bara
+clics-doculect-87-1162,swed1254-std,concepticon-692,10.62,bringa,bring,bringa
+clics-doculect-87-1163,swed1254-std,concepticon-692,10.62,tamedsig,bring,tamedsig
+clics-doculect-87-1164,swed1254-std,concepticon-692,10.62,hämta,bring,hamta
+clics-doculect-87-1165,swed1254-std,concepticon-1127,10.63,sända,send,sanda
+clics-doculect-87-1166,swed1254-std,concepticon-1127,10.63,skicka,send,skicka
+clics-doculect-87-1167,swed1254-std,concepticon-43,10.64,leda,lead (vb),leda
+clics-doculect-87-1168,swed1254-std,concepticon-43,10.64,föra,lead (vb),fora
+clics-doculect-87-1169,swed1254-std,concepticon-741,10.65,driva,drive,driva
+clics-doculect-87-1170,swed1254-std,concepticon-741,10.65,köra,drive,kora
+clics-doculect-87-1171,swed1254-std,concepticon-367,10.66,rida,ride,rida
+clics-doculect-87-1172,swed1254-std,concepticon-367,10.66,åka,ride,aka
+clics-doculect-87-1173,swed1254-std,concepticon-1452,10.67,knuffa,"push, shove",knuffa
+clics-doculect-87-1174,swed1254-std,concepticon-1452,10.67,knuffapå,"push, shove",knuffapa
+clics-doculect-87-1175,swed1254-std,concepticon-1452,10.67,skjuta,"push, shove",skjuta
+clics-doculect-87-1176,swed1254-std,concepticon-1452,10.67,skjutapå,"push, shove",skjutapa
+clics-doculect-87-1177,swed1254-std,concepticon-1452,10.67,stöta,"push, shove",stota
+clics-doculect-87-1178,swed1254-std,concepticon-1452,10.67,stötatill,"push, shove",stotatill
+clics-doculect-87-1179,swed1254-std,concepticon-667,10.71,väg,road,vag
+clics-doculect-87-1180,swed1254-std,concepticon-2252,10.72,stig,path,stig
+clics-doculect-87-1181,swed1254-std,concepticon-1011,10.74,bro,bridge,bro
+clics-doculect-87-1182,swed1254-std,concepticon-1011,10.74,brygga,bridge,brygga
+clics-doculect-87-1183,swed1254-std,concepticon-122,10.75,vagn,"carriage, wagon, cart",vagn
+clics-doculect-87-1184,swed1254-std,concepticon-122,10.75,kärra,"carriage, wagon, cart",karra
+clics-doculect-87-1185,swed1254-std,concepticon-710,10.76,hjul,wheel,hjul
+clics-doculect-87-1186,swed1254-std,concepticon-1769,10.77,axel,axle,axel
+clics-doculect-87-1187,swed1254-std,concepticon-14,10.78,ok,yoke,ok
+clics-doculect-87-1188,swed1254-std,concepticon-740,10.81,skepp,ship,skepp
+clics-doculect-87-1189,swed1254-std,concepticon-740,10.81,fartyg,ship,fartyg
+clics-doculect-87-1190,swed1254-std,concepticon-1844,10.83,båt,boat,bat
+clics-doculect-87-1191,swed1254-std,concepticon-1844,10.83,fartyg,boat,fartyg
+clics-doculect-87-1192,swed1254-std,concepticon-1970,10.831,kanot,canoe,kanot
+clics-doculect-87-1193,swed1254-std,concepticon-416,10.832,utriggare,outrigger,utriggare
+clics-doculect-87-1194,swed1254-std,concepticon-1664,10.84,flotte,raft,flotte
+clics-doculect-87-1195,swed1254-std,concepticon-108,10.85,åra,oar,ara
+clics-doculect-87-1196,swed1254-std,concepticon-234,10.851,paddel,paddle (noun),paddel
+clics-doculect-87-1197,swed1254-std,concepticon-1849,10.852,ro,row (vb),ro
+clics-doculect-87-1198,swed1254-std,concepticon-108,10.86,roder,rudder,roder
+clics-doculect-87-1199,swed1254-std,concepticon-184,10.87,mast,mast,mast
+clics-doculect-87-1200,swed1254-std,concepticon-786,10.88,segel,sail (noun),segel
+clics-doculect-87-1201,swed1254-std,concepticon-1870,10.89,ankare,anchor,ankare
+clics-doculect-87-1202,swed1254-std,concepticon-610,10.91,hamn,"harbor, port",hamn
+clics-doculect-87-1203,swed1254-std,concepticon-1922,10.92,landa,land (vb),landa
+clics-doculect-87-1204,swed1254-std,concepticon-1922,10.92,förailand,land (vb),forailand
+clics-doculect-87-1205,swed1254-std,concepticon-1922,10.92,sättailand,land (vb),sattailand
+clics-doculect-87-1206,swed1254-std,concepticon-1922,10.92,halain,land (vb),halain
+clics-doculect-87-1207,swed1254-std,concepticon-773,11.11,ha,have,ha
+clics-doculect-87-1208,swed1254-std,concepticon-773,11.11,hava,have,hava
+clics-doculect-87-1209,swed1254-std,concepticon-684,11.12,äga,"own, possess",aga
+clics-doculect-87-1210,swed1254-std,concepticon-684,11.12,besitta,"own, possess",besitta
+clics-doculect-87-1211,swed1254-std,concepticon-1749,11.13,ta,take,ta
+clics-doculect-87-1212,swed1254-std,concepticon-1749,11.13,taga,take,taga
+clics-doculect-87-1213,swed1254-std,concepticon-2021,11.14,gripa,"seize, grasp",gripa
+clics-doculect-87-1214,swed1254-std,concepticon-1448,11.15,hålla,hold,halla
+clics-doculect-87-1215,swed1254-std,concepticon-694,11.16,få,"get, obtain",fa
+clics-doculect-87-1216,swed1254-std,concepticon-1477,11.17,behålla,"keep, retain",behalla
+clics-doculect-87-1217,swed1254-std,concepticon-738,11.18,sak,thing,sak
+clics-doculect-87-1218,swed1254-std,concepticon-738,11.18,ting,thing,ting
+clics-doculect-87-1219,swed1254-std,concepticon-738,11.18,föremål,thing,foremal
+clics-doculect-87-1220,swed1254-std,concepticon-1447,11.21,ge,give,ge
+clics-doculect-87-1221,swed1254-std,concepticon-1447,11.21,giva,give,giva
+clics-doculect-87-1222,swed1254-std,concepticon-85,11.22,getillbaka,give back,getillbaka
+clics-doculect-87-1223,swed1254-std,concepticon-85,11.22,återge,give back,aterge
+clics-doculect-87-1224,swed1254-std,concepticon-85,11.22,givatillbaka,give back,givatillbaka
+clics-doculect-87-1225,swed1254-std,concepticon-85,11.22,återgiva,give back,atergiva
+clics-doculect-87-1226,swed1254-std,concepticon-1997,11.24,bevara,"preserve, look after",bevara
+clics-doculect-87-1227,swed1254-std,concepticon-1997,11.24,seefter,"preserve, look after",seefter
+clics-doculect-87-1228,swed1254-std,concepticon-1997,11.24,spara,"preserve, look after",spara
+clics-doculect-87-1229,swed1254-std,concepticon-2008,11.25,rädda,"save, rescue",radda
+clics-doculect-87-1230,swed1254-std,concepticon-2008,11.25,frälsa,"save, rescue",fralsa
+clics-doculect-87-1231,swed1254-std,concepticon-681,11.27,förstöra,destroy,forstora
+clics-doculect-87-1232,swed1254-std,concepticon-44,11.28,skada,"harm, injure, damage",skada
+clics-doculect-87-1233,swed1254-std,concepticon-1468,11.31,söka,"seek, look for",soka
+clics-doculect-87-1234,swed1254-std,concepticon-1468,11.31,letaefter,"seek, look for",letaefter
+clics-doculect-87-1235,swed1254-std,concepticon-719,11.32,finna,find,finna
+clics-doculect-87-1236,swed1254-std,concepticon-719,11.32,hitta,find,hitta
+clics-doculect-87-1237,swed1254-std,concepticon-1660,11.33,förlora,lose,forlora
+clics-doculect-87-1238,swed1254-std,concepticon-1660,11.33,tappa,lose,tappa
+clics-doculect-87-1239,swed1254-std,concepticon-1095,11.34,lössläppa,"release, let go",losslappa
+clics-doculect-87-1240,swed1254-std,concepticon-1095,11.34,lösgiva,"release, let go",losgiva
+clics-doculect-87-1241,swed1254-std,concepticon-1095,11.34,släppa,"release, let go",slappa
+clics-doculect-87-1242,swed1254-std,concepticon-1095,11.34,frige,"release, let go",frige
+clics-doculect-87-1243,swed1254-std,concepticon-1559,11.43,pengar,money,pengar
+clics-doculect-87-1244,swed1254-std,concepticon-1867,11.44,mynt,coin,mynt
+clics-doculect-87-1245,swed1254-std,concepticon-1867,11.44,penning,coin,penning
+clics-doculect-87-1246,swed1254-std,concepticon-712,11.51,rik,rich,rik
+clics-doculect-87-1247,swed1254-std,concepticon-1674,11.52,fattig,poor,fattig
+clics-doculect-87-1248,swed1254-std,concepticon-1934,11.53,tiggare,beggar,tiggare
+clics-doculect-87-1249,swed1254-std,concepticon-1774,11.54,girig,"avaricious, stingy",girig
+clics-doculect-87-1250,swed1254-std,concepticon-1774,11.54,snål,"avaricious, stingy",snal
+clics-doculect-87-1251,swed1254-std,concepticon-1774,11.54,njugg,"avaricious, stingy",njugg
+clics-doculect-87-1252,swed1254-std,concepticon-582,11.61,låna,lend,lana
+clics-doculect-87-1253,swed1254-std,concepticon-1823,11.62,låna,borrow,lana
+clics-doculect-87-1254,swed1254-std,concepticon-369,11.63,varaskyldig,owe,varaskyldig
+clics-doculect-87-1255,swed1254-std,concepticon-1914,11.64,skuld,debt,skuld
+clics-doculect-87-1256,swed1254-std,concepticon-1914,11.64,gäld,debt,gald
+clics-doculect-87-1257,swed1254-std,concepticon-718,11.65,betala,pay (vb),betala
+clics-doculect-87-1258,swed1254-std,concepticon-1081,11.66,räkningskonto,"account, reckoning",rakningskonto
+clics-doculect-87-1259,swed1254-std,concepticon-1081,11.66,beräkning,"account, reckoning",berakning
+clics-doculect-87-1260,swed1254-std,concepticon-1081,11.66,räkenskap,"account, reckoning",rakenskap
+clics-doculect-87-1261,swed1254-std,concepticon-873,11.69,skatt,"tax, tribute",skatt
+clics-doculect-87-1262,swed1254-std,concepticon-856,11.77,hyra,hire,hyra
+clics-doculect-87-1263,swed1254-std,concepticon-856,11.77,lega,hire,lega
+clics-doculect-87-1264,swed1254-std,concepticon-856,11.77,leja,hire,leja
+clics-doculect-87-1265,swed1254-std,concepticon-856,11.77,anställa,hire,anstalla
+clics-doculect-87-1266,swed1254-std,concepticon-1122,11.78,lön,wages,lon
+clics-doculect-87-1267,swed1254-std,concepticon-1122,11.78,betalning,wages,betalning
+clics-doculect-87-1268,swed1254-std,concepticon-733,11.79,förtjäna,earn,fortjana
+clics-doculect-87-1269,swed1254-std,concepticon-1869,11.81,köpa,buy,kopa
+clics-doculect-87-1270,swed1254-std,concepticon-1571,11.82,sälja,sell,salja
+clics-doculect-87-1271,swed1254-std,concepticon-2135,11.83,handla,"trade, barter",handla
+clics-doculect-87-1272,swed1254-std,concepticon-2135,11.83,sälja,"trade, barter",salja
+clics-doculect-87-1273,swed1254-std,concepticon-1082,11.84,köpman,merchant,kopman
+clics-doculect-87-1274,swed1254-std,concepticon-1082,11.84,affärsman,merchant,affarsman
+clics-doculect-87-1275,swed1254-std,concepticon-1082,11.84,handlare,merchant,handlare
+clics-doculect-87-1276,swed1254-std,concepticon-633,11.85,torg,market (place),torg
+clics-doculect-87-1277,swed1254-std,concepticon-633,11.85,marknad,market (place),marknad
+clics-doculect-87-1278,swed1254-std,concepticon-752,11.86,handelsbod,"store, shop",handelsbod
+clics-doculect-87-1279,swed1254-std,concepticon-752,11.86,butik,"store, shop",butik
+clics-doculect-87-1280,swed1254-std,concepticon-752,11.86,affär,"store, shop",affar
+clics-doculect-87-1281,swed1254-std,concepticon-657,11.87,pris,price,pris
+clics-doculect-87-1282,swed1254-std,concepticon-1426,11.88,dyr,"dear (costly, expensive)",dyr
+clics-doculect-87-1283,swed1254-std,concepticon-1887,11.89,billig,cheap,billig
+clics-doculect-87-1284,swed1254-std,concepticon-884,11.91,dela,share (distribute),dela
+clics-doculect-87-1285,swed1254-std,concepticon-884,11.91,fördela,share (distribute),fordela
+clics-doculect-87-1286,swed1254-std,concepticon-1098,11.92,väga,weigh,vaga
+clics-doculect-87-1287,swed1254-std,concepticon-1685,12.1,efter,after,efter
+clics-doculect-87-1288,swed1254-std,concepticon-723,12.11,bakom,place,bakom
+clics-doculect-87-1289,swed1254-std,concepticon-723,12.11,efter,place,efter
+clics-doculect-87-1290,swed1254-std,concepticon-1816,12.2,bredvid,beside,bredvid
+clics-doculect-87-1291,swed1254-std,concepticon-1816,12.2,vidsidanav,beside,vidsidanav
+clics-doculect-87-1292,swed1254-std,concepticon-1816,12.2,intill,beside,intill
+clics-doculect-87-1293,swed1254-std,concepticon-2094,12.3,nedanför,"down, below",nedanfor
+clics-doculect-87-1294,swed1254-std,concepticon-2094,12.3,under,"down, below",under
+clics-doculect-87-1295,swed1254-std,concepticon-1882,12.4,framför,before,framfor
+clics-doculect-87-1296,swed1254-std,concepticon-1882,12.4,inför,before,infor
+clics-doculect-87-1297,swed1254-std,concepticon-1882,12.4,före,before,fore
+clics-doculect-87-1298,swed1254-std,concepticon-1019,12.41,framsida,right (side),framsida
+clics-doculect-87-1299,swed1254-std,concepticon-1019,12.41,främredel,right (side),framredel
+clics-doculect-87-1300,swed1254-std,concepticon-1606,12.5,in,"inside, in",in
+clics-doculect-87-1301,swed1254-std,concepticon-1606,12.5,inåt,"inside, in",inat
+clics-doculect-87-1302,swed1254-std,concepticon-1606,12.5,innei,"inside, in",innei
+clics-doculect-87-1303,swed1254-std,concepticon-1606,12.5,inom,"inside, in",inom
+clics-doculect-87-1304,swed1254-std,concepticon-1606,12.5,innanför,"inside, in",innanfor
+clics-doculect-87-1305,swed1254-std,concepticon-762,12.6,utanför,outside,utanfor
+clics-doculect-87-1306,swed1254-std,concepticon-762,12.6,utanpå,outside,utanpa
+clics-doculect-87-1307,swed1254-std,concepticon-762,12.6,ute,outside,ute
+clics-doculect-87-1308,swed1254-std,concepticon-1485,12.7,under,under,under
+clics-doculect-87-1309,swed1254-std,concepticon-1485,12.7,nedanför,under,nedanfor
+clics-doculect-87-1310,swed1254-std,concepticon-1485,12.7,nere,under,nere
+clics-doculect-87-1311,swed1254-std,concepticon-1591,12.8,över,"up, above",over
+clics-doculect-87-1312,swed1254-std,concepticon-1591,12.8,ovanför,"up, above",ovanfor
+clics-doculect-87-1313,swed1254-std,concepticon-1591,12.8,ovan,"up, above",ovan
+clics-doculect-87-1314,swed1254-std,concepticon-1591,12.8,uptill,"up, above",uptill
+clics-doculect-87-1315,swed1254-std,concepticon-723,12.11,plats,place,plats
+clics-doculect-87-1316,swed1254-std,concepticon-998,12.12,sätte,put,satte
+clics-doculect-87-1317,swed1254-std,concepticon-998,12.12,ställa,put,stalla
+clics-doculect-87-1318,swed1254-std,concepticon-998,12.12,lägga,put,lagga
+clics-doculect-87-1319,swed1254-std,concepticon-1416,12.13,sitta,sit,sitta
+clics-doculect-87-1320,swed1254-std,concepticon-215,12.14,ligga,lie down,ligga
+clics-doculect-87-1321,swed1254-std,concepticon-1442,12.15,stå,stand,sta
+clics-doculect-87-1322,swed1254-std,concepticon-987,12.16,förbliva,"remain, stay",forbliva
+clics-doculect-87-1323,swed1254-std,concepticon-987,12.16,stanna,"remain, stay",stanna
+clics-doculect-87-1324,swed1254-std,concepticon-987,12.16,stannakvar,"remain, stay",stannakvar
+clics-doculect-87-1325,swed1254-std,concepticon-987,12.16,vänta,"remain, stay",vanta
+clics-doculect-87-1326,swed1254-std,concepticon-838,12.17,blikvar,"remains, left overs",blikvar
+clics-doculect-87-1327,swed1254-std,concepticon-838,12.17,varakvar,"remains, left overs",varakvar
+clics-doculect-87-1328,swed1254-std,concepticon-7,12.21,samla,"collect, gather",samla
+clics-doculect-87-1329,swed1254-std,concepticon-371,12.212,plocka,pick up,plocka
+clics-doculect-87-1330,swed1254-std,concepticon-371,12.212,plockaup,pick up,plockaup
+clics-doculect-87-1331,swed1254-std,concepticon-1576,12.213,stapla,pile up,stapla
+clics-doculect-87-1332,swed1254-std,concepticon-1576,12.213,trava,pile up,trava
+clics-doculect-87-1333,swed1254-std,concepticon-1576,12.213,läggaihög,pile up,laggaihog
+clics-doculect-87-1334,swed1254-std,concepticon-1576,12.213,samla,pile up,samla
+clics-doculect-87-1335,swed1254-std,concepticon-1576,12.213,läggapå,pile up,laggapa
+clics-doculect-87-1336,swed1254-std,concepticon-1743,12.22,förbinda,"join, unite",forbinda
+clics-doculect-87-1337,swed1254-std,concepticon-1743,12.22,förena,"join, unite",forena
+clics-doculect-87-1338,swed1254-std,concepticon-1743,12.22,foga,"join, unite",foga
+clics-doculect-87-1339,swed1254-std,concepticon-1743,12.22,sammanfoga,"join, unite",sammanfoga
+clics-doculect-87-1340,swed1254-std,concepticon-1359,12.23,skilja,separate,skilja
+clics-doculect-87-1341,swed1254-std,concepticon-1119,12.232,dela,divide,dela
+clics-doculect-87-1342,swed1254-std,concepticon-1119,12.232,delapå,divide,delapa
+clics-doculect-87-1343,swed1254-std,concepticon-1156,12.24,öppna,open,oppna
+clics-doculect-87-1344,swed1254-std,concepticon-1046,12.25,stänga,"shut, close",stanga
+clics-doculect-87-1345,swed1254-std,concepticon-761,12.26,täcke,cover,tacke
+clics-doculect-87-1346,swed1254-std,concepticon-761,12.26,täcka,cover,tacka
+clics-doculect-87-1347,swed1254-std,concepticon-602,12.27,gömma,"hide, conceal",gomma
+clics-doculect-87-1348,swed1254-std,concepticon-602,12.27,dölja,"hide, conceal",dolja
+clics-doculect-87-1349,swed1254-std,concepticon-1265,12.31,hög,high,hog
+clics-doculect-87-1350,swed1254-std,concepticon-721,12.32,låg,low,lag
+clics-doculect-87-1351,swed1254-std,concepticon-1753,12.33,topp,top,topp
+clics-doculect-87-1352,swed1254-std,concepticon-1753,12.33,spets,top,spets
+clics-doculect-87-1353,swed1254-std,concepticon-1753,12.33,överst,top,overst
+clics-doculect-87-1354,swed1254-std,concepticon-690,12.34,botten,bottom,botten
+clics-doculect-87-1355,swed1254-std,concepticon-742,12.35,ända,end,anda
+clics-doculect-87-1356,swed1254-std,concepticon-742,12.35,ände,end,ande
+clics-doculect-87-1357,swed1254-std,concepticon-372,12.352,spetsig,pointed,spetsig
+clics-doculect-87-1358,swed1254-std,concepticon-863,12.353,egg,edge,egg
+clics-doculect-87-1359,swed1254-std,concepticon-863,12.353,kant,edge,kant
+clics-doculect-87-1360,swed1254-std,concepticon-863,12.353,rand,edge,rand
+clics-doculect-87-1361,swed1254-std,concepticon-682,12.36,sida,side,sida
+clics-doculect-87-1362,swed1254-std,concepticon-1093,12.37,mellerst,"middle, center",mellerst
+clics-doculect-87-1363,swed1254-std,concepticon-1093,12.37,medel,"middle, center",medel
+clics-doculect-87-1364,swed1254-std,concepticon-1093,12.37,mellan,"middle, center",mellan
+clics-doculect-87-1365,swed1254-std,concepticon-1019,12.41,höger,right (side),hoger
+clics-doculect-87-1366,swed1254-std,concepticon-244,12.42,vänster,left (side),vanster
+clics-doculect-87-1367,swed1254-std,concepticon-1942,12.43,nära,near (adv),nara
+clics-doculect-87-1368,swed1254-std,concepticon-1406,12.44,långtborta,far (adv),langtborta
+clics-doculect-87-1369,swed1254-std,concepticon-1406,12.44,fjärran,far (adv),fjarran
+clics-doculect-87-1370,swed1254-std,concepticon-1877,12.45,öster,east,oster
+clics-doculect-87-1371,swed1254-std,concepticon-1877,12.45,öst,east,ost
+clics-doculect-87-1372,swed1254-std,concepticon-1817,12.46,väster,west,vaster
+clics-doculect-87-1373,swed1254-std,concepticon-1817,12.46,väst,west,vast
+clics-doculect-87-1374,swed1254-std,concepticon-1598,12.47,nord,north,nord
+clics-doculect-87-1375,swed1254-std,concepticon-1598,12.47,norr,north,norr
+clics-doculect-87-1376,swed1254-std,concepticon-1595,12.48,söder,south,soder
+clics-doculect-87-1377,swed1254-std,concepticon-479,12.53,växa,grow,vaxa
+clics-doculect-87-1378,swed1254-std,concepticon-1506,12.54,mäta,measure,mata
+clics-doculect-87-1379,swed1254-std,concepticon-81,12.541,spann,"span, fathom",spann
+clics-doculect-87-1380,swed1254-std,concepticon-81,12.541,spänna,"span, fathom",spanna
+clics-doculect-87-1381,swed1254-std,concepticon-1202,12.55,stor,"large, big",stor
+clics-doculect-87-1382,swed1254-std,concepticon-1246,12.56,liten,"small, little",liten
+clics-doculect-87-1383,swed1254-std,concepticon-1246,12.56,små,"small, little",sma
+clics-doculect-87-1384,swed1254-std,concepticon-1203,12.57,lång,long,lang
+clics-doculect-87-1385,swed1254-std,concepticon-711,12.58,lång,tall,lang
+clics-doculect-87-1386,swed1254-std,concepticon-1645,12.59,kort,short,kort
+clics-doculect-87-1387,swed1254-std,concepticon-1243,12.61,bred,"wide, broad",bred
+clics-doculect-87-1388,swed1254-std,concepticon-1243,12.61,vid,"wide, broad",vid
+clics-doculect-87-1389,swed1254-std,concepticon-1267,12.62,smal,narrow,smal
+clics-doculect-87-1390,swed1254-std,concepticon-1267,12.62,trång,narrow,trang
+clics-doculect-87-1391,swed1254-std,concepticon-1244,12.63,tjock,thick (in dimension),tjock
+clics-doculect-87-1392,swed1254-std,concepticon-2249,12.65,tunn,thin (in dimension),tunn
+clics-doculect-87-1393,swed1254-std,concepticon-1593,12.67,djup,deep,djup
+clics-doculect-87-1394,swed1254-std,concepticon-193,12.68,grund,shallow,grund
+clics-doculect-87-1395,swed1254-std,concepticon-1633,12.71,flat,flat,flat
+clics-doculect-87-1396,swed1254-std,concepticon-1633,12.71,platt,flat,platt
+clics-doculect-87-1397,swed1254-std,concepticon-1404,12.73,rak,straight,rak
+clics-doculect-87-1398,swed1254-std,concepticon-1404,12.73,rät,straight,rat
+clics-doculect-87-1399,swed1254-std,concepticon-297,12.74,krokig,crooked,krokig
+clics-doculect-87-1400,swed1254-std,concepticon-297,12.74,krum,crooked,krum
+clics-doculect-87-1401,swed1254-std,concepticon-1071,12.75,krok,hook,krok
+clics-doculect-87-1402,swed1254-std,concepticon-1071,12.75,hake,hook,hake
+clics-doculect-87-1403,swed1254-std,concepticon-192,12.76,hörn,corner,horn
+clics-doculect-87-1404,swed1254-std,concepticon-1367,12.77,kors,cross,kors
+clics-doculect-87-1405,swed1254-std,concepticon-850,12.78,fyrkant,square,fyrkant
+clics-doculect-87-1406,swed1254-std,concepticon-1395,12.81,rund,round,rund
+clics-doculect-87-1407,swed1254-std,concepticon-1467,12.82,krets,circle,krets
+clics-doculect-87-1408,swed1254-std,concepticon-1467,12.82,ring,circle,ring
+clics-doculect-87-1409,swed1254-std,concepticon-1467,12.82,cirkel,circle,cirkel
+clics-doculect-87-1410,swed1254-std,concepticon-1845,12.83,klot,"sphere, ball",klot
+clics-doculect-87-1411,swed1254-std,concepticon-1048,12.84,linje,line,linje
+clics-doculect-87-1412,swed1254-std,concepticon-1048,12.84,streck,line,streck
+clics-doculect-87-1413,swed1254-std,concepticon-1667,12.85,hål,hole,hal
+clics-doculect-87-1414,swed1254-std,concepticon-1558,12.92,lika,"like, similar",lika
+clics-doculect-87-1415,swed1254-std,concepticon-1558,12.92,liknande,"like, similar",liknande
+clics-doculect-87-1416,swed1254-std,concepticon-1264,12.93,ändra,change,andra
+clics-doculect-87-1417,swed1254-std,concepticon-1264,12.93,byta,change,byta
+clics-doculect-87-1418,swed1254-std,concepticon-1264,12.93,skifta,change,skifta
+clics-doculect-87-1419,swed1254-std,concepticon-1264,12.93,vexla,change,vexla
+clics-doculect-87-1420,swed1254-std,concepticon-1294,13.0,noll,"zero, nothing",noll
+clics-doculect-87-1421,swed1254-std,concepticon-1294,13.0,nolla,"zero, nothing",nolla
+clics-doculect-87-1422,swed1254-std,concepticon-1294,13.0,ingenting,"zero, nothing",ingenting
+clics-doculect-87-1423,swed1254-std,concepticon-1493,13.1,en,one,en
+clics-doculect-87-1424,swed1254-std,concepticon-1493,13.1,ett,one,ett
+clics-doculect-87-1425,swed1254-std,concepticon-1498,13.2,två,two,tva
+clics-doculect-87-1426,swed1254-std,concepticon-492,13.3,tre,three,tre
+clics-doculect-87-1427,swed1254-std,concepticon-1500,13.4,fyra,four,fyra
+clics-doculect-87-1428,swed1254-std,concepticon-493,13.5,fem,five,fem
+clics-doculect-87-1429,swed1254-std,concepticon-1703,13.6,sex,six,sex
+clics-doculect-87-1430,swed1254-std,concepticon-1704,13.7,sju,seven,sju
+clics-doculect-87-1431,swed1254-std,concepticon-1705,13.8,åtta,eight,atta
+clics-doculect-87-1432,swed1254-std,concepticon-1483,13.9,nio,nine,nio
+clics-doculect-87-1433,swed1254-std,concepticon-1515,13.10,tio,ten,tio
+clics-doculect-87-1434,swed1254-std,concepticon-1706,13.101,elva,eleven,elva
+clics-doculect-87-1435,swed1254-std,concepticon-1707,13.102,tolv,twelve,tolv
+clics-doculect-87-1436,swed1254-std,concepticon-1709,13.103,femton,fifteen,femton
+clics-doculect-87-1437,swed1254-std,concepticon-1710,13.104,tjugo,twenty,tjugo
+clics-doculect-87-1438,swed1254-std,concepticon-1634,13.105,hundra,hundred,hundra
+clics-doculect-87-1439,swed1254-std,concepticon-1843,13.106,tusen,thousand,tusen
+clics-doculect-87-1440,swed1254-std,concepticon-1420,13.107,räkna,count,rakna
+clics-doculect-87-1441,swed1254-std,concepticon-98,13.14,var,"every, all",var
+clics-doculect-87-1442,swed1254-std,concepticon-98,13.14,varje,"every, all",varje
+clics-doculect-87-1443,swed1254-std,concepticon-98,13.14,alla,"every, all",alla
+clics-doculect-87-1444,swed1254-std,concepticon-1198,13.15,mycket,"much, many",mycket
+clics-doculect-87-1445,swed1254-std,concepticon-1198,13.15,många,"much, many",manga
+clics-doculect-87-1446,swed1254-std,concepticon-1992,13.16,mer,more,mer
+clics-doculect-87-1447,swed1254-std,concepticon-1992,13.16,fler,more,fler
+clics-doculect-87-1448,swed1254-std,concepticon-1992,13.16,flera,more,flera
+clics-doculect-87-1449,swed1254-std,concepticon-1242,13.17,litet,"little (quantity), few",litet
+clics-doculect-87-1450,swed1254-std,concepticon-1242,13.17,få,"little (quantity), few",fa
+clics-doculect-87-1451,swed1254-std,concepticon-1242,13.17,intemycket,"little (quantity), few",intemycket
+clics-doculect-87-1452,swed1254-std,concepticon-1242,13.17,intemånga,"little (quantity), few",intemanga
+clics-doculect-87-1453,swed1254-std,concepticon-1881,13.18,nog,enough,nog
+clics-doculect-87-1454,swed1254-std,concepticon-1241,13.181,någorlunda,some,nagorlunda
+clics-doculect-87-1455,swed1254-std,concepticon-1241,13.181,endel,some,endel
+clics-doculect-87-1456,swed1254-std,concepticon-2023,13.19,mängd,"multitude, crowd",mangd
+clics-doculect-87-1457,swed1254-std,concepticon-2023,13.19,hop,"multitude, crowd",hop
+clics-doculect-87-1458,swed1254-std,concepticon-1429,13.21,full,full,full
+clics-doculect-87-1459,swed1254-std,concepticon-1624,13.22,tom,empty,tom
+clics-doculect-87-1460,swed1254-std,concepticon-779,13.23,del,"part, piece",del
+clics-doculect-87-1461,swed1254-std,concepticon-816,13.24,halv,half,halv
+clics-doculect-87-1462,swed1254-std,concepticon-1580,13.33,ensam,"alone, only",ensam
+clics-doculect-87-1463,swed1254-std,concepticon-1580,13.33,allena,"alone, only",allena
+clics-doculect-87-1464,swed1254-std,concepticon-1580,13.33,ende,"alone, only",ende
+clics-doculect-87-1465,swed1254-std,concepticon-1580,13.33,enda,"alone, only",enda
+clics-doculect-87-1466,swed1254-std,concepticon-1580,13.33,bara,"alone, only",bara
+clics-doculect-87-1467,swed1254-std,concepticon-1580,13.33,allenast,"alone, only",allenast
+clics-doculect-87-1468,swed1254-std,concepticon-1580,13.33,blott,"alone, only",blott
+clics-doculect-87-1469,swed1254-std,concepticon-1580,13.33,endast,"alone, only",endast
+clics-doculect-87-1470,swed1254-std,concepticon-728,13.34,först,first,forst
+clics-doculect-87-1471,swed1254-std,concepticon-1529,13.35,sist,last,sist
+clics-doculect-87-1472,swed1254-std,concepticon-1384,13.36,andra,second,andra
+clics-doculect-87-1473,swed1254-std,concepticon-1384,13.36,somtvåa,second,somtvaa
+clics-doculect-87-1474,swed1254-std,concepticon-1888,13.37,par,pair,par
+clics-doculect-87-1475,swed1254-std,concepticon-1546,13.38,tvågånger,two times,tvaganger
+clics-doculect-87-1476,swed1254-std,concepticon-1859,13.42,tredje,third,tredje
+clics-doculect-87-1477,swed1254-std,concepticon-417,13.44,tregånger,three times,treganger
+clics-doculect-87-1478,swed1254-std,concepticon-892,14.11,tid,time,tid
+clics-doculect-87-1479,swed1254-std,concepticon-1789,14.12,ålder,age,alder
+clics-doculect-87-1480,swed1254-std,concepticon-1231,14.13,ny,new,ny
+clics-doculect-87-1481,swed1254-std,concepticon-1207,14.14,ung,young,ung
+clics-doculect-87-1482,swed1254-std,concepticon-1229,14.15,gammal,old,gammal
+clics-doculect-87-1483,swed1254-std,concepticon-672,14.16,tidigt,early,tidigt
+clics-doculect-87-1484,swed1254-std,concepticon-672,14.16,arla,early,arla
+clics-doculect-87-1485,swed1254-std,concepticon-477,14.17,sent,late,sent
+clics-doculect-87-1486,swed1254-std,concepticon-1376,14.18,nu,now,nu
+clics-doculect-87-1487,swed1254-std,concepticon-1963,14.19,snart,immediately,snart
+clics-doculect-87-1488,swed1254-std,concepticon-1963,14.19,strax,immediately,strax
+clics-doculect-87-1489,swed1254-std,concepticon-1963,14.19,genast,immediately,genast
+clics-doculect-87-1490,swed1254-std,concepticon-1631,14.21,snabb,"swift, fast, quick",snabb
+clics-doculect-87-1491,swed1254-std,concepticon-1631,14.21,snabbt,"swift, fast, quick",snabbt
+clics-doculect-87-1492,swed1254-std,concepticon-1631,14.21,snar,"swift, fast, quick",snar
+clics-doculect-87-1493,swed1254-std,concepticon-1631,14.21,rask,"swift, fast, quick",rask
+clics-doculect-87-1494,swed1254-std,concepticon-1631,14.21,fort,"swift, fast, quick",fort
+clics-doculect-87-1495,swed1254-std,concepticon-701,14.22,sakta,slow,sakta
+clics-doculect-87-1496,swed1254-std,concepticon-701,14.22,långsam,slow,langsam
+clics-doculect-87-1497,swed1254-std,concepticon-701,14.22,långsamt,slow,langsamt
+clics-doculect-87-1498,swed1254-std,concepticon-701,14.22,trög,slow,trog
+clics-doculect-87-1499,swed1254-std,concepticon-754,14.23,skyndasig,"hasten, hurry",skyndasig
+clics-doculect-87-1500,swed1254-std,concepticon-754,14.23,hasta,"hasten, hurry",hasta
+clics-doculect-87-1501,swed1254-std,concepticon-754,14.23,ila,"hasten, hurry",ila
+clics-doculect-87-1502,swed1254-std,concepticon-754,14.23,brådska,"hasten, hurry",bradska
+clics-doculect-87-1503,swed1254-std,concepticon-425,14.24,dröja,"retard, delay",droja
+clics-doculect-87-1504,swed1254-std,concepticon-1806,14.25,börja,"begin, beginning",borja
+clics-doculect-87-1505,swed1254-std,concepticon-1806,14.25,begynna,"begin, beginning",begynna
+clics-doculect-87-1506,swed1254-std,concepticon-1806,14.25,början,"begin, beginning",borjan
+clics-doculect-87-1507,swed1254-std,concepticon-1806,14.25,begynnelse,"begin, beginning",begynnelse
+clics-doculect-87-1508,swed1254-std,concepticon-1186,14.252,vara,"last, endure",vara
+clics-doculect-87-1509,swed1254-std,concepticon-1186,14.252,räcka,"last, endure",racka
+clics-doculect-87-1510,swed1254-std,concepticon-743,14.26,ände,end (temporal),ande
+clics-doculect-87-1511,swed1254-std,concepticon-743,14.26,slut,end (temporal),slut
+clics-doculect-87-1512,swed1254-std,concepticon-1766,14.27,afsluta,finish,afsluta
+clics-doculect-87-1513,swed1254-std,concepticon-1766,14.27,avsluta,finish,avsluta
+clics-doculect-87-1514,swed1254-std,concepticon-1766,14.27,sluta,finish,sluta
+clics-doculect-87-1515,swed1254-std,concepticon-1766,14.27,ända,finish,anda
+clics-doculect-87-1516,swed1254-std,concepticon-1928,14.28,upphöra,"cease, stop",upphora
+clics-doculect-87-1517,swed1254-std,concepticon-1928,14.28,sluta,"cease, stop",sluta
+clics-doculect-87-1518,swed1254-std,concepticon-790,14.29,färdig,ready,fardig
+clics-doculect-87-1519,swed1254-std,concepticon-1676,14.31,alltid,always,alltid
+clics-doculect-87-1520,swed1254-std,concepticon-1852,14.32,ofta,often,ofta
+clics-doculect-87-1521,swed1254-std,concepticon-1544,14.33,ibland,sometimes,ibland
+clics-doculect-87-1522,swed1254-std,concepticon-1544,14.33,emellanåt,sometimes,emellanat
+clics-doculect-87-1523,swed1254-std,concepticon-1544,14.33,stundom,sometimes,stundom
+clics-doculect-87-1524,swed1254-std,concepticon-703,14.331,snart,soon,snart
+clics-doculect-87-1525,swed1254-std,concepticon-703,14.331,strax,soon,strax
+clics-doculect-87-1526,swed1254-std,concepticon-418,14.332,förenlångtid,long-time (for a),forenlangtid
+clics-doculect-87-1527,swed1254-std,concepticon-418,14.332,underlångtid,long-time (for a),underlangtid
+clics-doculect-87-1528,swed1254-std,concepticon-1656,14.34,aldrig,never,aldrig
+clics-doculect-87-1529,swed1254-std,concepticon-204,14.35,igen,again,igen
+clics-doculect-87-1530,swed1254-std,concepticon-204,14.35,åter,again,ater
+clics-doculect-87-1531,swed1254-std,concepticon-1225,14.41,dag,day,dag
+clics-doculect-87-1532,swed1254-std,concepticon-1233,14.42,natt,night,natt
+clics-doculect-87-1533,swed1254-std,concepticon-729,14.43,dagning,dawn,dagning
+clics-doculect-87-1534,swed1254-std,concepticon-729,14.43,gryning,dawn,gryning
+clics-doculect-87-1535,swed1254-std,concepticon-1339,14.44,morgon,morning,morgon
+clics-doculect-87-1536,swed1254-std,concepticon-12,14.45,middag,"noon, midday",middag
+clics-doculect-87-1537,swed1254-std,concepticon-1807,14.451,eftermiddag,afternoon,eftermiddag
+clics-doculect-87-1538,swed1254-std,concepticon-1629,14.46,afton,evening,afton
+clics-doculect-87-1539,swed1254-std,concepticon-1629,14.46,kväll,evening,kvall
+clics-doculect-87-1540,swed1254-std,concepticon-1283,14.47,idag,today,idag
+clics-doculect-87-1541,swed1254-std,concepticon-1329,14.48,imorgon,tomorrow,imorgon
+clics-doculect-87-1542,swed1254-std,concepticon-1179,14.481,övermorgon,day-after-tomorrow,overmorgon
+clics-doculect-87-1543,swed1254-std,concepticon-1174,14.49,igår,yesterday,igar
+clics-doculect-87-1544,swed1254-std,concepticon-1180,14.491,förrgår,day-before-yesterday,forrgar
+clics-doculect-87-1545,swed1254-std,concepticon-1180,14.491,förgår,day-before-yesterday,forgar
+clics-doculect-87-1546,swed1254-std,concepticon-1353,14.51,timme,hour,timme
+clics-doculect-87-1547,swed1254-std,concepticon-1323,14.53,klocka,"clock, timepiece",klocka
+clics-doculect-87-1548,swed1254-std,concepticon-1323,14.53,ur,"clock, timepiece",ur
+clics-doculect-87-1549,swed1254-std,concepticon-1469,14.61,vecka,week,vecka
+clics-doculect-87-1550,swed1254-std,concepticon-1699,14.62,söndag,Sunday,sondag
+clics-doculect-87-1551,swed1254-std,concepticon-1697,14.63,måndag,Monday,mandag
+clics-doculect-87-1552,swed1254-std,concepticon-1695,14.64,tisdag,Tuesday,tisdag
+clics-doculect-87-1553,swed1254-std,concepticon-1694,14.65,onsdag,Wednesday,onsdag
+clics-doculect-87-1554,swed1254-std,concepticon-1693,14.66,torsdag,Thursday,torsdag
+clics-doculect-87-1555,swed1254-std,concepticon-1692,14.67,fredag,Friday,fredag
+clics-doculect-87-1556,swed1254-std,concepticon-1700,14.68,lördag,Saturday,lordag
+clics-doculect-87-1557,swed1254-std,concepticon-1370,14.71,månad,month,manad
+clics-doculect-87-1558,swed1254-std,concepticon-1226,14.73,år,year,ar
+clics-doculect-87-1559,swed1254-std,concepticon-1471,14.74,vinter,winter,vinter
+clics-doculect-87-1560,swed1254-std,concepticon-1537,14.75,vår,spring,var
+clics-doculect-87-1561,swed1254-std,concepticon-1342,14.76,sommar,summer,sommar
+clics-doculect-87-1562,swed1254-std,concepticon-1276,14.77,höst,autumn,host
+clics-doculect-87-1563,swed1254-std,concepticon-691,14.78,årstid,season,arstid
+clics-doculect-87-1564,swed1254-std,concepticon-691,14.78,tid,season,tid
+clics-doculect-87-1565,swed1254-std,concepticon-691,14.78,säsong,season,sasong
+clics-doculect-87-1566,swed1254-std,concepticon-1587,15.21,lukta,smell (vb intrans),lukta
+clics-doculect-87-1567,swed1254-std,concepticon-375,15.212,andasin,sniff,andasin
+clics-doculect-87-1568,swed1254-std,concepticon-375,15.212,sniffa,sniff,sniffa
+clics-doculect-87-1569,swed1254-std,concepticon-375,15.212,lukta,sniff,lukta
+clics-doculect-87-1570,swed1254-std,concepticon-1586,15.22,luktapå,smell (vb trans),luktapa
+clics-doculect-87-1571,swed1254-std,concepticon-1586,15.22,nosapå,smell (vb trans),nosapa
+clics-doculect-87-1572,swed1254-std,concepticon-376,15.25,välluktande,"fragrant, good smelling",valluktande
+clics-doculect-87-1573,swed1254-std,concepticon-376,15.25,doftande,"fragrant, good smelling",doftande
+clics-doculect-87-1574,swed1254-std,concepticon-42,15.26,stinkande,"stinking, bad smelling",stinkande
+clics-doculect-87-1575,swed1254-std,concepticon-42,15.26,illaluktande,"stinking, bad smelling",illaluktande
+clics-doculect-87-1576,swed1254-std,concepticon-21,15.31,smaka,taste,smaka
+clics-doculect-87-1577,swed1254-std,concepticon-717,15.35,söt,sweet,sot
+clics-doculect-87-1578,swed1254-std,concepticon-717,15.35,sött,sweet,sott
+clics-doculect-87-1579,swed1254-std,concepticon-1091,15.36,salt,salty,salt
+clics-doculect-87-1580,swed1254-std,concepticon-887,15.37,bitter,bitter,bitter
+clics-doculect-87-1581,swed1254-std,concepticon-1906,15.38,sur,"acid, sour",sur
+clics-doculect-87-1582,swed1254-std,concepticon-70,15.39,bräckt,brackish,brackt
+clics-doculect-87-1583,swed1254-std,concepticon-1408,15.41,höra,hear,hora
+clics-doculect-87-1584,swed1254-std,concepticon-1608,15.42,lyssna,listen,lyssna
+clics-doculect-87-1585,swed1254-std,concepticon-1811,15.44,ljud,"sound, noise",ljud
+clics-doculect-87-1586,swed1254-std,concepticon-377,15.45,hög,loud,hog
+clics-doculect-87-1587,swed1254-std,concepticon-1314,15.46,tyst,"quiet, silence",tyst
+clics-doculect-87-1588,swed1254-std,concepticon-1314,15.46,stilla,"quiet, silence",stilla
+clics-doculect-87-1589,swed1254-std,concepticon-1314,15.46,lugn,"quiet, silence",lugn
+clics-doculect-87-1590,swed1254-std,concepticon-1314,15.46,tystnad,"quiet, silence",tystnad
+clics-doculect-87-1591,swed1254-std,concepticon-1314,15.46,stillhet,"quiet, silence",stillhet
+clics-doculect-87-1592,swed1254-std,concepticon-1314,15.46,ro,"quiet, silence",ro
+clics-doculect-87-1593,swed1254-std,concepticon-1409,15.51,se,see,se
+clics-doculect-87-1594,swed1254-std,concepticon-1819,15.52,sepå,"look, look at",sepa
+clics-doculect-87-1595,swed1254-std,concepticon-1819,15.52,blicka,"look, look at",blicka
+clics-doculect-87-1596,swed1254-std,concepticon-1819,15.52,tittapå,"look, look at",tittapa
+clics-doculect-87-1597,swed1254-std,concepticon-1039,15.55,visa,show,visa
+clics-doculect-87-1598,swed1254-std,concepticon-708,15.56,skina,shine,skina
+clics-doculect-87-1599,swed1254-std,concepticon-708,15.56,lysa,shine,lysa
+clics-doculect-87-1600,swed1254-std,concepticon-708,15.56,glänsa,shine,glansa
+clics-doculect-87-1601,swed1254-std,concepticon-679,15.57,ljus,bright,ljus
+clics-doculect-87-1602,swed1254-std,concepticon-679,15.57,blank,bright,blank
+clics-doculect-87-1603,swed1254-std,concepticon-679,15.57,klar,bright,klar
+clics-doculect-87-1604,swed1254-std,concepticon-679,15.57,glänsande,bright,glansande
+clics-doculect-87-1605,swed1254-std,concepticon-1613,15.61,färg,color,farg
+clics-doculect-87-1606,swed1254-std,concepticon-250,15.62,ljus,light (in color),ljus
+clics-doculect-87-1607,swed1254-std,concepticon-706,15.63,mörk,dark (in color),mork
+clics-doculect-87-1608,swed1254-std,concepticon-706,15.63,dunkel,dark (in color),dunkel
+clics-doculect-87-1609,swed1254-std,concepticon-1335,15.64,hvit,white,hvit
+clics-doculect-87-1610,swed1254-std,concepticon-1335,15.64,vit,white,vit
+clics-doculect-87-1611,swed1254-std,concepticon-163,15.65,svart,black,svart
+clics-doculect-87-1612,swed1254-std,concepticon-156,15.66,röd,red,rod
+clics-doculect-87-1613,swed1254-std,concepticon-837,15.67,blå,blue,bla
+clics-doculect-87-1614,swed1254-std,concepticon-1425,15.68,grön,green,gron
+clics-doculect-87-1615,swed1254-std,concepticon-1424,15.69,gul,yellow,gul
+clics-doculect-87-1616,swed1254-std,concepticon-1892,15.71,vidröra,touch,vidrora
+clics-doculect-87-1617,swed1254-std,concepticon-1892,15.71,beröra,touch,berora
+clics-doculect-87-1618,swed1254-std,concepticon-378,15.712,nypa,pinch,nypa
+clics-doculect-87-1619,swed1254-std,concepticon-378,15.712,knipa,pinch,knipa
+clics-doculect-87-1620,swed1254-std,concepticon-378,15.712,klämma,pinch,klamma
+clics-doculect-87-1621,swed1254-std,concepticon-378,15.712,nypning,pinch,nypning
+clics-doculect-87-1622,swed1254-std,concepticon-378,15.712,knipning,pinch,knipning
+clics-doculect-87-1623,swed1254-std,concepticon-378,15.712,klämning,pinch,klamning
+clics-doculect-87-1624,swed1254-std,concepticon-1079,15.72,kännapå,feel,kannapa
+clics-doculect-87-1625,swed1254-std,concepticon-1079,15.72,treva,feel,treva
+clics-doculect-87-1626,swed1254-std,concepticon-1884,15.74,hård,hard,hard
+clics-doculect-87-1627,swed1254-std,concepticon-1856,15.75,mjuk,soft,mjuk
+clics-doculect-87-1628,swed1254-std,concepticon-1923,15.76,ojämn,rough,ojamn
+clics-doculect-87-1629,swed1254-std,concepticon-1923,15.76,skrovlig,rough,skrovlig
+clics-doculect-87-1630,swed1254-std,concepticon-1234,15.77,slät,smooth,slat
+clics-doculect-87-1631,swed1254-std,concepticon-1234,15.77,jämn,smooth,jamn
+clics-doculect-87-1632,swed1254-std,concepticon-1234,15.77,glatt,smooth,glatt
+clics-doculect-87-1633,swed1254-std,concepticon-1396,15.78,skarp,sharp,skarp
+clics-doculect-87-1634,swed1254-std,concepticon-1396,15.78,vass,sharp,vass
+clics-doculect-87-1635,swed1254-std,concepticon-379,15.79,slö,"blunt, dull",slo
+clics-doculect-87-1636,swed1254-std,concepticon-379,15.79,trubbig,"blunt, dull",trubbig
+clics-doculect-87-1637,swed1254-std,concepticon-1210,15.81,tung,heavy,tung
+clics-doculect-87-1638,swed1254-std,concepticon-1052,15.82,lätt,light (in weight),latt
+clics-doculect-87-1639,swed1254-std,concepticon-1726,15.83,våt,"wet, damp",vat
+clics-doculect-87-1640,swed1254-std,concepticon-1726,15.83,fuktig,"wet, damp",fuktig
+clics-doculect-87-1641,swed1254-std,concepticon-1398,15.84,torr,dry,torr
+clics-doculect-87-1642,swed1254-std,concepticon-1286,15.85,het,hot,het
+clics-doculect-87-1643,swed1254-std,concepticon-1232,15.851,varm,warm,varm
+clics-doculect-87-1644,swed1254-std,concepticon-1287,15.86,kall,cold,kall
+clics-doculect-87-1645,swed1254-std,concepticon-704,15.87,ren,clean,ren
+clics-doculect-87-1646,swed1254-std,concepticon-1230,15.88,smutsig,"dirty, soiled",smutsig
+clics-doculect-87-1647,swed1254-std,concepticon-1230,15.88,oren,"dirty, soiled",oren
+clics-doculect-87-1648,swed1254-std,concepticon-380,15.89,skrynklig,wrinkled,skrynklig
+clics-doculect-87-1649,swed1254-std,concepticon-53,16.11,själ,"soul, spirit",sjal
+clics-doculect-87-1650,swed1254-std,concepticon-53,16.11,ande,"soul, spirit",ande
+clics-doculect-87-1651,swed1254-std,concepticon-1572,16.15,förundran,"surprised, astonished",forundran
+clics-doculect-87-1652,swed1254-std,concepticon-1572,16.15,förvåning,"surprised, astonished",forvaning
+clics-doculect-87-1653,swed1254-std,concepticon-720,16.18,lycka,"good fortune, luck",lycka
+clics-doculect-87-1654,swed1254-std,concepticon-720,16.18,tur,"good fortune, luck",tur
+clics-doculect-87-1655,swed1254-std,concepticon-56,16.19,olycka,"misfortune, bad luck",olycka
+clics-doculect-87-1656,swed1254-std,concepticon-56,16.19,otur,"misfortune, bad luck",otur
+clics-doculect-87-1657,swed1254-std,concepticon-1495,16.23,glad,"joyful, glad, happy",glad
+clics-doculect-87-1658,swed1254-std,concepticon-1355,16.25,skratta,laugh,skratta
+clics-doculect-87-1659,swed1254-std,concepticon-1355,16.25,le,laugh,le
+clics-doculect-87-1660,swed1254-std,concepticon-1451,16.251,småle,smile,smale
+clics-doculect-87-1661,swed1254-std,concepticon-1451,16.251,leende,smile,leende
+clics-doculect-87-1662,swed1254-std,concepticon-1413,16.26,leka,play,leka
+clics-doculect-87-1663,swed1254-std,concepticon-1413,16.26,spela,play,spela
+clics-doculect-87-1664,swed1254-std,concepticon-923,16.27,kärlek,love,karlek
+clics-doculect-87-1665,swed1254-std,concepticon-923,16.27,älskog,love,alskog
+clics-doculect-87-1666,swed1254-std,concepticon-923,16.27,älska,love,alska
+clics-doculect-87-1667,swed1254-std,concepticon-578,16.29,kyssa,kiss,kyssa
+clics-doculect-87-1668,swed1254-std,concepticon-928,16.3,omfamna,embrace,omfamna
+clics-doculect-87-1669,swed1254-std,concepticon-1783,16.31,smärta,pain,smarta
+clics-doculect-87-1670,swed1254-std,concepticon-1783,16.31,värk,pain,vark
+clics-doculect-87-1671,swed1254-std,concepticon-1783,16.31,ont,pain,ont
+clics-doculect-87-1672,swed1254-std,concepticon-1783,16.31,lidande,pain,lidande
+clics-doculect-87-1673,swed1254-std,concepticon-1668,16.32,djupsorg,"grief, sorrow, sadness",djupsorg
+clics-doculect-87-1674,swed1254-std,concepticon-1668,16.32,sorg,"grief, sorrow, sadness",sorg
+clics-doculect-87-1675,swed1254-std,concepticon-1668,16.32,grämelse,"grief, sorrow, sadness",gramelse
+clics-doculect-87-1676,swed1254-std,concepticon-1000,16.33,ängslan,"anxiety, worry",angslan
+clics-doculect-87-1677,swed1254-std,concepticon-1000,16.33,oro,"anxiety, worry",oro
+clics-doculect-87-1678,swed1254-std,concepticon-1000,16.33,bekymmer,"anxiety, worry",bekymmer
+clics-doculect-87-1679,swed1254-std,concepticon-1875,16.34,beklaga,"regret, be sorry",beklaga
+clics-doculect-87-1680,swed1254-std,concepticon-1875,16.34,ångra,"regret, be sorry",angra
+clics-doculect-87-1681,swed1254-std,concepticon-1141,16.35,medlidande,pity,medlidande
+clics-doculect-87-1682,swed1254-std,concepticon-1141,16.35,medömkan,pity,medomkan
+clics-doculect-87-1683,swed1254-std,concepticon-1839,16.37,gråta,"cry, weep",grata
+clics-doculect-87-1684,swed1254-std,concepticon-1651,16.38,tår,tear (noun),tar
+clics-doculect-87-1685,swed1254-std,concepticon-716,16.39,stöna,groan,stona
+clics-doculect-87-1686,swed1254-std,concepticon-1607,16.41,hat,hate,hat
+clics-doculect-87-1687,swed1254-std,concepticon-1607,16.41,hata,hate,hata
+clics-doculect-87-1688,swed1254-std,concepticon-82,16.42,vrede,anger,vrede
+clics-doculect-87-1689,swed1254-std,concepticon-82,16.42,ilska,anger,ilska
+clics-doculect-87-1690,swed1254-std,concepticon-40,16.44,avund,"envy, jealousy",avund
+clics-doculect-87-1691,swed1254-std,concepticon-40,16.44,svartsjuka,"envy, jealousy",svartsjuka
+clics-doculect-87-1692,swed1254-std,concepticon-1776,16.45,skam,shame (noun),skam
+clics-doculect-87-1693,swed1254-std,concepticon-174,16.48,stolt,proud,stolt
+clics-doculect-87-1694,swed1254-std,concepticon-1779,16.51,våga,dare,vaga
+clics-doculect-87-1695,swed1254-std,concepticon-1779,16.51,töras,dare,toras
+clics-doculect-87-1696,swed1254-std,concepticon-3,16.52,tapper,brave,tapper
+clics-doculect-87-1697,swed1254-std,concepticon-3,16.52,modig,brave,modig
+clics-doculect-87-1698,swed1254-std,concepticon-781,16.53,fruktan,"fear, fright",fruktan
+clics-doculect-87-1699,swed1254-std,concepticon-781,16.53,rädsla,"fear, fright",radsla
+clics-doculect-87-1700,swed1254-std,concepticon-781,16.53,skräck,"fear, fright",skrack
+clics-doculect-87-1701,swed1254-std,concepticon-1810,16.54,fara,danger,fara
+clics-doculect-87-1702,swed1254-std,concepticon-1784,16.62,åstunda,"desire, want",astunda
+clics-doculect-87-1703,swed1254-std,concepticon-1784,16.62,begära,"desire, want",begara
+clics-doculect-87-1704,swed1254-std,concepticon-1784,16.62,önska,"desire, want",onska
+clics-doculect-87-1705,swed1254-std,concepticon-1784,16.62,viljaha,"desire, want",viljaha
+clics-doculect-87-1706,swed1254-std,concepticon-1750,16.622,välja,choose,valja
+clics-doculect-87-1707,swed1254-std,concepticon-1750,16.622,utvälja,choose,utvalja
+clics-doculect-87-1708,swed1254-std,concepticon-1092,16.63,hopp,hope,hopp
+clics-doculect-87-1709,swed1254-std,concepticon-1092,16.63,hoppas,hope,hoppas
+clics-doculect-87-1710,swed1254-std,concepticon-100,16.65,trogen,faithful,trogen
+clics-doculect-87-1711,swed1254-std,concepticon-1657,16.66,sann,true,sann
+clics-doculect-87-1712,swed1254-std,concepticon-601,16.67,lögn,"lie, tell lies",logn
+clics-doculect-87-1713,swed1254-std,concepticon-13,16.68,bedrägeri,deceit,bedrageri
+clics-doculect-87-1714,swed1254-std,concepticon-13,16.68,svek,deceit,svek
+clics-doculect-87-1715,swed1254-std,concepticon-1528,16.69,förlåta,forgive,forlata
+clics-doculect-87-1716,swed1254-std,concepticon-1528,16.69,tillgiva,forgive,tillgiva
+clics-doculect-87-1717,swed1254-std,concepticon-1035,16.71,god,good,god
+clics-doculect-87-1718,swed1254-std,concepticon-1035,16.71,bra,good,bra
+clics-doculect-87-1719,swed1254-std,concepticon-1035,16.71,snäll,good,snall
+clics-doculect-87-1720,swed1254-std,concepticon-1292,16.72,ond,bad,ond
+clics-doculect-87-1721,swed1254-std,concepticon-1292,16.72,elak,bad,elak
+clics-doculect-87-1722,swed1254-std,concepticon-1292,16.72,dålig,bad,dalig
+clics-doculect-87-1723,swed1254-std,concepticon-1725,16.73,rätt,"right, correct",ratt
+clics-doculect-87-1724,swed1254-std,concepticon-1390,16.74,orätt,wrong,oratt
+clics-doculect-87-1725,swed1254-std,concepticon-134,16.76,skuld,fault,skuld
+clics-doculect-87-1726,swed1254-std,concepticon-1293,16.77,fel,"mistake, error",fel
+clics-doculect-87-1727,swed1254-std,concepticon-381,16.78,tadel,blame,tadel
+clics-doculect-87-1728,swed1254-std,concepticon-381,16.78,kritik,blame,kritik
+clics-doculect-87-1729,swed1254-std,concepticon-1687,16.79,beröm,praise,berom
+clics-doculect-87-1730,swed1254-std,concepticon-1687,16.79,pris,praise,pris
+clics-doculect-87-1731,swed1254-std,concepticon-1687,16.79,lov,praise,lov
+clics-doculect-87-1732,swed1254-std,concepticon-1427,16.81,vacker,beautiful,vacker
+clics-doculect-87-1733,swed1254-std,concepticon-1427,16.81,skön,beautiful,skon
+clics-doculect-87-1734,swed1254-std,concepticon-1427,16.81,fager,beautiful,fager
+clics-doculect-87-1735,swed1254-std,concepticon-1548,16.82,ful,ugly,ful
+clics-doculect-87-1736,swed1254-std,concepticon-1548,16.82,stygg,ugly,stygg
+clics-doculect-87-1737,swed1254-std,concepticon-2018,16.83,lysten,greedy,lysten
+clics-doculect-87-1738,swed1254-std,concepticon-2018,16.83,glupsk,greedy,glupsk
+clics-doculect-87-1739,swed1254-std,concepticon-1310,16.84,begåvad,clever,begavad
+clics-doculect-87-1740,swed1254-std,concepticon-1310,16.84,intelligent,clever,intelligent
+clics-doculect-87-1741,swed1254-std,concepticon-1310,16.84,skicklig,clever,skicklig
+clics-doculect-87-1742,swed1254-std,concepticon-1310,16.84,duktig,clever,duktig
+clics-doculect-87-1743,swed1254-std,concepticon-1310,16.84,fiffig,clever,fiffig
+clics-doculect-87-1744,swed1254-std,concepticon-1562,17.11,sinne,mind,sinne
+clics-doculect-87-1745,swed1254-std,concepticon-1415,17.13,tänka,think (= reflect),tanka
+clics-doculect-87-1746,swed1254-std,concepticon-1513,17.14,tycka,think (= be of the opinion),tycka
+clics-doculect-87-1747,swed1254-std,concepticon-1513,17.14,mena,think (= be of the opinion),mena
+clics-doculect-87-1748,swed1254-std,concepticon-1513,17.14,tänka,think (= be of the opinion),tanka
+clics-doculect-87-1749,swed1254-std,concepticon-1513,17.14,tro,think (= be of the opinion),tro
+clics-doculect-87-1750,swed1254-std,concepticon-1890,17.15,tro,believe,tro
+clics-doculect-87-1751,swed1254-std,concepticon-1536,17.16,förstå,understand,forsta
+clics-doculect-87-1752,swed1254-std,concepticon-1410,17.17,veta,know,veta
+clics-doculect-87-1753,swed1254-std,concepticon-1410,17.17,känna,know,kanna
+clics-doculect-87-1754,swed1254-std,concepticon-1932,17.171,gissa,guess,gissa
+clics-doculect-87-1755,swed1254-std,concepticon-117,17.172,imitera,imitate,imitera
+clics-doculect-87-1756,swed1254-std,concepticon-117,17.172,härma,imitate,harma
+clics-doculect-87-1757,swed1254-std,concepticon-117,17.172,apaefter,imitate,apaefter
+clics-doculect-87-1758,swed1254-std,concepticon-1521,17.18,synas,seem,synas
+clics-doculect-87-1759,swed1254-std,concepticon-1521,17.18,tyckas,seem,tyckas
+clics-doculect-87-1760,swed1254-std,concepticon-1609,17.19,idé,"idea, notion",ide
+clics-doculect-87-1761,swed1254-std,concepticon-1609,17.19,infall,"idea, notion",infall
+clics-doculect-87-1762,swed1254-std,concepticon-1609,17.19,föreställning,"idea, notion",forestallning
+clics-doculect-87-1763,swed1254-std,concepticon-1609,17.19,begrepp,"idea, notion",begrepp
+clics-doculect-87-1764,swed1254-std,concepticon-1609,17.19,aning,"idea, notion",aning
+clics-doculect-87-1765,swed1254-std,concepticon-698,17.21,vis,wise,vis
+clics-doculect-87-1766,swed1254-std,concepticon-698,17.21,klok,wise,klok
+clics-doculect-87-1767,swed1254-std,concepticon-1518,17.22,idiotisk,"foolish, stupid",idiotisk
+clics-doculect-87-1768,swed1254-std,concepticon-1518,17.22,tokig,"foolish, stupid",tokig
+clics-doculect-87-1769,swed1254-std,concepticon-1518,17.22,dum,"foolish, stupid",dum
+clics-doculect-87-1770,swed1254-std,concepticon-1899,17.23,galen,"insane, crazy",galen
+clics-doculect-87-1771,swed1254-std,concepticon-1899,17.23,vansinnig,"insane, crazy",vansinnig
+clics-doculect-87-1772,swed1254-std,concepticon-1899,17.23,tokig,"insane, crazy",tokig
+clics-doculect-87-1773,swed1254-std,concepticon-1899,17.23,förryckt,"insane, crazy",forryckt
+clics-doculect-87-1774,swed1254-std,concepticon-504,17.24,lärasig,learn,larasig
+clics-doculect-87-1775,swed1254-std,concepticon-1929,17.242,läsa,study,lasa
+clics-doculect-87-1776,swed1254-std,concepticon-1929,17.242,studera,study,studera
+clics-doculect-87-1777,swed1254-std,concepticon-1929,17.242,lärasig,study,larasig
+clics-doculect-87-1778,swed1254-std,concepticon-709,17.25,lära,teach,lara
+clics-doculect-87-1779,swed1254-std,concepticon-709,17.25,undervisa,teach,undervisa
+clics-doculect-87-1780,swed1254-std,concepticon-753,17.26,elev,pupil,elev
+clics-doculect-87-1781,swed1254-std,concepticon-753,17.26,lärjunge,pupil,larjunge
+clics-doculect-87-1782,swed1254-std,concepticon-1038,17.27,lärare,teacher,larare
+clics-doculect-87-1783,swed1254-std,concepticon-673,17.28,skola,school,skola
+clics-doculect-87-1784,swed1254-std,concepticon-707,17.31,ihågkomma,remember,ihagkomma
+clics-doculect-87-1785,swed1254-std,concepticon-707,17.31,kommaihåg,remember,kommaihag
+clics-doculect-87-1786,swed1254-std,concepticon-707,17.31,minnas,remember,minnas
+clics-doculect-87-1787,swed1254-std,concepticon-1523,17.32,glömma,forget,glomma
+clics-doculect-87-1788,swed1254-std,concepticon-989,17.34,klar,"clear, plain",klar
+clics-doculect-87-1789,swed1254-std,concepticon-989,17.34,tydlig,"clear, plain",tydlig
+clics-doculect-87-1790,swed1254-std,concepticon-1764,17.35,dunkel,obscure,dunkel
+clics-doculect-87-1791,swed1254-std,concepticon-1764,17.35,oklar,obscure,oklar
+clics-doculect-87-1792,swed1254-std,concepticon-1764,17.35,otydlig,obscure,otydlig
+clics-doculect-87-1793,swed1254-std,concepticon-1121,17.36,hemlig,secret,hemlig
+clics-doculect-87-1794,swed1254-std,concepticon-1121,17.36,lönnlig,secret,lonnlig
+clics-doculect-87-1795,swed1254-std,concepticon-509,17.37,säker,"sure, certain",saker
+clics-doculect-87-1796,swed1254-std,concepticon-509,17.37,viss,"sure, certain",viss
+clics-doculect-87-1797,swed1254-std,concepticon-1626,17.38,förklara,explain,forklara
+clics-doculect-87-1798,swed1254-std,concepticon-1162,17.41,avsikt,"intention, purpose",avsikt
+clics-doculect-87-1799,swed1254-std,concepticon-1162,17.41,föresats,"intention, purpose",foresats
+clics-doculect-87-1800,swed1254-std,concepticon-1162,17.41,uppsåt,"intention, purpose",uppsat
+clics-doculect-87-1801,swed1254-std,concepticon-1162,17.41,syfte,"intention, purpose",syfte
+clics-doculect-87-1802,swed1254-std,concepticon-860,17.42,orsak,cause,orsak
+clics-doculect-87-1803,swed1254-std,concepticon-1308,17.43,tvivel,doubt,tvivel
+clics-doculect-87-1804,swed1254-std,concepticon-1841,17.44,misstanke,suspect,misstanke
+clics-doculect-87-1805,swed1254-std,concepticon-1902,17.441,förråda,betray,forrada
+clics-doculect-87-1806,swed1254-std,concepticon-1902,17.441,avslöja,betray,avsloja
+clics-doculect-87-1807,swed1254-std,concepticon-1902,17.441,röja,betray,roja
+clics-doculect-87-1808,swed1254-std,concepticon-643,17.45,nöd,"need, necessity",nod
+clics-doculect-87-1809,swed1254-std,concepticon-686,17.46,lätt,easy,latt
+clics-doculect-87-1810,swed1254-std,concepticon-686,17.46,enkel,easy,enkel
+clics-doculect-87-1811,swed1254-std,concepticon-584,17.47,svår,difficult,svar
+clics-doculect-87-1812,swed1254-std,concepticon-1812,17.48,försöka,"try, attempt",forsoka
+clics-doculect-87-1813,swed1254-std,concepticon-1812,17.48,prövapå,"try, attempt",provapa
+clics-doculect-87-1814,swed1254-std,concepticon-488,17.49,sätt,"way, manner",satt
+clics-doculect-87-1815,swed1254-std,concepticon-488,17.49,vis,"way, manner",vis
+clics-doculect-87-1816,swed1254-std,concepticon-488,17.49,vana,"way, manner",vana
+clics-doculect-87-1817,swed1254-std,concepticon-488,17.49,egenhet,"way, manner",egenhet
+clics-doculect-87-1818,swed1254-std,concepticon-1577,17.51,och,and,och
+clics-doculect-87-1819,swed1254-std,concepticon-1157,17.52,emedan,because,emedan
+clics-doculect-87-1820,swed1254-std,concepticon-1157,17.52,därföratt,because,darforatt
+clics-doculect-87-1821,swed1254-std,concepticon-1157,17.52,pågrundav,because,pagrundav
+clics-doculect-87-1822,swed1254-std,concepticon-1459,17.53,om,if,om
+clics-doculect-87-1823,swed1254-std,concepticon-1014,17.54,eller,or,eller
+clics-doculect-87-1824,swed1254-std,concepticon-1268,17.55,ja,"yes, affirmative",ja
+clics-doculect-87-1825,swed1254-std,concepticon-1269,17.56,nej,"no, negative",nej
+clics-doculect-87-1826,swed1254-std,concepticon-1239,17.61,hur,how?,hur
+clics-doculect-87-1827,swed1254-std,concepticon-822,17.62,hurmånga,how many?,hurmanga
+clics-doculect-87-1828,swed1254-std,concepticon-531,17.63,hurmycket,how much?,hurmycket
+clics-doculect-87-1829,swed1254-std,concepticon-1236,17.64,vad,what?,vad
+clics-doculect-87-1830,swed1254-std,concepticon-1238,17.65,när,when?,nar
+clics-doculect-87-1831,swed1254-std,concepticon-1237,17.66,var,where?,var
+clics-doculect-87-1832,swed1254-std,concepticon-727,17.67,vilken,which?,vilken
+clics-doculect-87-1833,swed1254-std,concepticon-1235,17.68,vem,who?,vem
+clics-doculect-87-1834,swed1254-std,concepticon-1270,17.69,varför,why?,varfor
+clics-doculect-87-1835,swed1254-std,concepticon-1363,18.11,röst,voice,rost
+clics-doculect-87-1836,swed1254-std,concepticon-1363,18.11,stämma,voice,stamma
+clics-doculect-87-1837,swed1254-std,concepticon-1261,18.12,sjunga,sing,sjunga
+clics-doculect-87-1838,swed1254-std,concepticon-715,18.13,ropa,"shout, cry out",ropa
+clics-doculect-87-1839,swed1254-std,concepticon-715,18.13,skrika,"shout, cry out",skrika
+clics-doculect-87-1840,swed1254-std,concepticon-55,18.15,viska,whisper,viska
+clics-doculect-87-1841,swed1254-std,concepticon-128,18.16,mumla,mumble,mumla
+clics-doculect-87-1842,swed1254-std,concepticon-128,18.16,muttra,mumble,muttra
+clics-doculect-87-1843,swed1254-std,concepticon-1025,18.17,vissla,whistle,vissla
+clics-doculect-87-1844,swed1254-std,concepticon-298,18.18,skrika,"shriek, screech",skrika
+clics-doculect-87-1845,swed1254-std,concepticon-526,18.19,tjuta,howl,tjuta
+clics-doculect-87-1846,swed1254-std,concepticon-526,18.19,vråla,howl,vrala
+clics-doculect-87-1847,swed1254-std,concepticon-526,18.19,yla,howl,yla
+clics-doculect-87-1848,swed1254-std,concepticon-526,18.19,vina,howl,vina
+clics-doculect-87-1849,swed1254-std,concepticon-1623,18.21,tala,"speak, talk",tala
+clics-doculect-87-1850,swed1254-std,concepticon-1623,18.21,prata,"speak, talk",prata
+clics-doculect-87-1851,swed1254-std,concepticon-1866,18.211,stamma,"stutter, stammer",stamma
+clics-doculect-87-1852,swed1254-std,concepticon-1458,18.22,säga,say,saga
+clics-doculect-87-1853,swed1254-std,concepticon-1711,18.221,berätta,tell story,beratta
+clics-doculect-87-1854,swed1254-std,concepticon-1115,18.222,tal,speech (make a),tal
+clics-doculect-87-1855,swed1254-std,concepticon-1115,18.222,anförande,speech (make a),anforande
+clics-doculect-87-1856,swed1254-std,concepticon-1115,18.222,hållaetttal,speech (make a),hallaetttal
+clics-doculect-87-1857,swed1254-std,concepticon-48,18.23,tyst,silent (be),tyst
+clics-doculect-87-1858,swed1254-std,concepticon-48,18.23,tiga,silent (be),tiga
+clics-doculect-87-1859,swed1254-std,concepticon-1307,18.24,språk,language,sprak
+clics-doculect-87-1860,swed1254-std,concepticon-1307,18.24,mål,language,mal
+clics-doculect-87-1861,swed1254-std,concepticon-1307,18.24,tungomål,language,tungomal
+clics-doculect-87-1862,swed1254-std,concepticon-1599,18.26,ord,word,ord
+clics-doculect-87-1863,swed1254-std,concepticon-1405,18.28,namn,name,namn
+clics-doculect-87-1864,swed1254-std,concepticon-1309,18.31,fråga,"ask (question, inquire)",fraga
+clics-doculect-87-1865,swed1254-std,concepticon-1275,18.32,svara,answer,svara
+clics-doculect-87-1866,swed1254-std,concepticon-2022,18.33,medge,"admit, confess",medge
+clics-doculect-87-1867,swed1254-std,concepticon-2022,18.33,medgiva,"admit, confess",medgiva
+clics-doculect-87-1868,swed1254-std,concepticon-2022,18.33,tillstå,"admit, confess",tillsta
+clics-doculect-87-1869,swed1254-std,concepticon-2022,18.33,bekänna,"admit, confess",bekanna
+clics-doculect-87-1870,swed1254-std,concepticon-755,18.34,neka,deny,neka
+clics-doculect-87-1871,swed1254-std,concepticon-755,18.34,förneka,deny,forneka
+clics-doculect-87-1872,swed1254-std,concepticon-1828,18.35,be,"ask, request",be
+clics-doculect-87-1873,swed1254-std,concepticon-1828,18.35,begära,"ask, request",begara
+clics-doculect-87-1874,swed1254-std,concepticon-1828,18.35,fordra,"ask, request",fordra
+clics-doculect-87-1875,swed1254-std,concepticon-1675,18.36,lova,promise,lova
+clics-doculect-87-1876,swed1254-std,concepticon-49,18.37,förvägra,refuse,forvagra
+clics-doculect-87-1877,swed1254-std,concepticon-49,18.37,vägra,refuse,vagra
+clics-doculect-87-1878,swed1254-std,concepticon-49,18.37,avslå,refuse,avsla
+clics-doculect-87-1879,swed1254-std,concepticon-83,18.38,förbjuda,forbid,forbjuda
+clics-doculect-87-1880,swed1254-std,concepticon-299,18.39,tillrättavisa,"rebuke, scold",tillrattavisa
+clics-doculect-87-1881,swed1254-std,concepticon-299,18.39,klandra,"rebuke, scold",klandra
+clics-doculect-87-1882,swed1254-std,concepticon-1084,18.41,kallapånågon,call (=summon),kallapanagon
+clics-doculect-87-1883,swed1254-std,concepticon-1084,18.41,ropapånågon,call (=summon),ropapanagon
+clics-doculect-87-1884,swed1254-std,concepticon-180,18.42,kalla,call (=name),kalla
+clics-doculect-87-1885,swed1254-std,concepticon-180,18.42,heta,call (=name),heta
+clics-doculect-87-1886,swed1254-std,concepticon-9,18.43,kungöra,announce,kungora
+clics-doculect-87-1887,swed1254-std,concepticon-9,18.43,förkunna,announce,forkunna
+clics-doculect-87-1888,swed1254-std,concepticon-1192,18.44,hota,threaten,hota
+clics-doculect-87-1889,swed1254-std,concepticon-101,18.45,skryta,boast,skryta
+clics-doculect-87-1890,swed1254-std,concepticon-1672,18.51,skriva,write,skriva
+clics-doculect-87-1891,swed1254-std,concepticon-724,18.52,läsa,read,lasa
+clics-doculect-87-1892,swed1254-std,concepticon-648,18.56,papper,paper,papper
+clics-doculect-87-1893,swed1254-std,concepticon-794,18.57,penna,pen,penna
+clics-doculect-87-1894,swed1254-std,concepticon-963,18.61,bok,book,bok
+clics-doculect-87-1898,swed1254-std,concepticon-777,18.71,flöjt,flute,flojt
+clics-doculect-87-1899,swed1254-std,concepticon-908,18.72,trumma,drum,trumma
+clics-doculect-87-1900,swed1254-std,concepticon-2136,18.73,trumpet,"horn, trumpet",trumpet
+clics-doculect-87-1901,swed1254-std,concepticon-2136,18.73,blåsinstrument,"horn, trumpet",blasinstrument
+clics-doculect-87-1902,swed1254-std,concepticon-300,18.74,skallra,rattle,skallra
+clics-doculect-87-1903,swed1254-std,concepticon-1300,19.11,land,country,land
+clics-doculect-87-1904,swed1254-std,concepticon-89,19.12,fädernesland,one's native country,fadernesland
+clics-doculect-87-1905,swed1254-std,concepticon-89,19.12,fosterland,one's native country,fosterland
+clics-doculect-87-1906,swed1254-std,concepticon-1391,19.15,stad,"city, town",stad
+clics-doculect-87-1907,swed1254-std,concepticon-930,19.16,by,village,by
+clics-doculect-87-1908,swed1254-std,concepticon-1010,19.17,gräns,boundary,grans
+clics-doculect-87-1909,swed1254-std,concepticon-789,19.21,folk,people (populace),folk
+clics-doculect-87-1910,swed1254-std,concepticon-302,19.23,stam,"tribe, clan",stam
+clics-doculect-87-1911,swed1254-std,concepticon-302,19.23,slägt,"tribe, clan",slagt
+clics-doculect-87-1912,swed1254-std,concepticon-302,19.23,släkt,"tribe, clan",slakt
+clics-doculect-87-1913,swed1254-std,concepticon-302,19.23,ätt,"tribe, clan",att
+clics-doculect-87-1914,swed1254-std,concepticon-301,19.24,ledare,"chief, chieftain",ledare
+clics-doculect-87-1915,swed1254-std,concepticon-301,19.24,chef,"chief, chieftain",chef
+clics-doculect-87-1916,swed1254-std,concepticon-301,19.24,hövding,"chief, chieftain",hovding
+clics-doculect-87-1917,swed1254-std,concepticon-301,19.24,huvudman,"chief, chieftain",huvudman
+clics-doculect-87-1918,swed1254-std,concepticon-1296,19.25,stav,"staff, walking stick",stav
+clics-doculect-87-1919,swed1254-std,concepticon-1296,19.25,käpp,"staff, walking stick",kapp
+clics-doculect-87-1920,swed1254-std,concepticon-1846,19.31,styra,"rule, govern",styra
+clics-doculect-87-1921,swed1254-std,concepticon-1846,19.31,härska,"rule, govern",harska
+clics-doculect-87-1922,swed1254-std,concepticon-1846,19.31,regera,"rule, govern",regera
+clics-doculect-87-1923,swed1254-std,concepticon-1508,19.32,konung,"king, ruler",konung
+clics-doculect-87-1924,swed1254-std,concepticon-1306,19.33,drottning,queen,drottning
+clics-doculect-87-1925,swed1254-std,concepticon-482,19.36,ädling,"noble, nobleman",adling
+clics-doculect-87-1926,swed1254-std,concepticon-482,19.36,adelsman,"noble, nobleman",adelsman
+clics-doculect-87-1927,swed1254-std,concepticon-1032,19.37,borgare,"citizen, subject",borgare
+clics-doculect-87-1928,swed1254-std,concepticon-1032,19.37,medborgare,"citizen, subject",medborgare
+clics-doculect-87-1929,swed1254-std,concepticon-383,19.41,herre,master,herre
+clics-doculect-87-1930,swed1254-std,concepticon-812,19.42,slav,slave,slav
+clics-doculect-87-1931,swed1254-std,concepticon-812,19.42,träl,slave,tral
+clics-doculect-87-1932,swed1254-std,concepticon-255,19.43,tjänare,servant,tjanare
+clics-doculect-87-1933,swed1254-std,concepticon-384,19.44,fri,freeman,fri
+clics-doculect-87-1934,swed1254-std,concepticon-1128,19.45,befalla,"command, order",befalla
+clics-doculect-87-1935,swed1254-std,concepticon-1128,19.45,bjuda,"command, order",bjuda
+clics-doculect-87-1936,swed1254-std,concepticon-1635,19.46,lyda,obey,lyda
+clics-doculect-87-1937,swed1254-std,concepticon-1635,19.46,hörsamma,obey,horsamma
+clics-doculect-87-1938,swed1254-std,concepticon-1003,19.47,låta,"let, permit",lata
+clics-doculect-87-1939,swed1254-std,concepticon-1003,19.47,tilllåta,"let, permit",tilllata
+clics-doculect-87-1940,swed1254-std,concepticon-1325,19.51,vän,"friend, companion",van
+clics-doculect-87-1941,swed1254-std,concepticon-1358,19.52,ovän,enemy,ovan
+clics-doculect-87-1942,swed1254-std,concepticon-1358,19.52,fiende,enemy,fiende
+clics-doculect-87-1943,swed1254-std,concepticon-1332,19.54,granne,neighbor,granne
+clics-doculect-87-1944,swed1254-std,concepticon-791,19.55,främling,stranger,framling
+clics-doculect-87-1945,swed1254-std,concepticon-1782,19.56,gäst,guest,gast
+clics-doculect-87-1946,swed1254-std,concepticon-1545,19.57,värd,host,vard
+clics-doculect-87-1947,swed1254-std,concepticon-1897,19.58,hjälpa,"help, aid",hjalpa
+clics-doculect-87-1948,swed1254-std,concepticon-1550,19.59,förhindra,"hinder, prevent",forhindra
+clics-doculect-87-1949,swed1254-std,concepticon-1550,19.59,hindra,"hinder, prevent",hindra
+clics-doculect-87-1950,swed1254-std,concepticon-1550,19.59,hämma,"hinder, prevent",hamma
+clics-doculect-87-1951,swed1254-std,concepticon-1550,19.59,förekomma,"hinder, prevent",forekomma
+clics-doculect-87-1952,swed1254-std,concepticon-1747,19.61,sedvänja,custom,sedvanja
+clics-doculect-87-1953,swed1254-std,concepticon-1747,19.61,sed,custom,sed
+clics-doculect-87-1954,swed1254-std,concepticon-1747,19.61,vana,custom,vana
+clics-doculect-87-1955,swed1254-std,concepticon-1848,19.62,strid,"strife, quarrel",strid
+clics-doculect-87-1956,swed1254-std,concepticon-1848,19.62,tvist,"strife, quarrel",tvist
+clics-doculect-87-1957,swed1254-std,concepticon-1848,19.62,gräl,"strife, quarrel",gral
+clics-doculect-87-1958,swed1254-std,concepticon-1848,19.62,träta,"strife, quarrel",trata
+clics-doculect-87-1959,swed1254-std,concepticon-2024,19.63,sammansvärjning,"conspiracy, plot",sammansvarjning
+clics-doculect-87-1960,swed1254-std,concepticon-1831,19.65,möta,meet,mota
+clics-doculect-87-1961,swed1254-std,concepticon-1831,19.65,träffa,meet,traffa
+clics-doculect-87-1962,swed1254-std,concepticon-1610,19.72,prostituerad,prostitute,prostituerad
+clics-doculect-87-1963,swed1254-std,concepticon-1610,19.72,sköka,prostitute,skoka
+clics-doculect-87-1964,swed1254-std,concepticon-1610,19.72,hora,prostitute,hora
+clics-doculect-87-1965,swed1254-std,concepticon-1423,20.11,slåss,fight (vb),slass
+clics-doculect-87-1966,swed1254-std,concepticon-1423,20.11,kämpa,fight (vb),kampa
+clics-doculect-87-1967,swed1254-std,concepticon-1423,20.11,fäkta,fight (vb),fakta
+clics-doculect-87-1968,swed1254-std,concepticon-579,20.13,krig,"war, battle",krig
+clics-doculect-87-1969,swed1254-std,concepticon-1338,20.14,fred,peace,fred
+clics-doculect-87-1970,swed1254-std,concepticon-1561,20.15,här,army,har
+clics-doculect-87-1971,swed1254-std,concepticon-1561,20.15,armé,army,arme
+clics-doculect-87-1972,swed1254-std,concepticon-1941,20.17,soldat,soldier,soldat
+clics-doculect-87-1973,swed1254-std,concepticon-951,20.21,vapen,"weapons, arms",vapen
+clics-doculect-87-1974,swed1254-std,concepticon-1763,20.22,klubba,club,klubba
+clics-doculect-87-1975,swed1254-std,concepticon-386,20.222,stridsyxa,battle-ax,stridsyxa
+clics-doculect-87-1976,swed1254-std,concepticon-387,20.23,slunga,sling,slunga
+clics-doculect-87-1977,swed1254-std,concepticon-994,20.24,båge,bow,bage
+clics-doculect-87-1978,swed1254-std,concepticon-977,20.25,pil,arrow,pil
+clics-doculect-87-1979,swed1254-std,concepticon-945,20.26,spjut,spear,spjut
+clics-doculect-87-1980,swed1254-std,concepticon-945,20.26,lans,spear,lans
+clics-doculect-87-1981,swed1254-std,concepticon-1535,20.27,svärd,sword,svard
+clics-doculect-87-1982,swed1254-std,concepticon-1566,20.28,gevär,"gun, cannon",gevar
+clics-doculect-87-1983,swed1254-std,concepticon-1566,20.28,bössa,"gun, cannon",bossa
+clics-doculect-87-1984,swed1254-std,concepticon-1566,20.28,skjutvapen,"gun, cannon",skjutvapen
+clics-doculect-87-1985,swed1254-std,concepticon-1566,20.28,kanon,"gun, cannon",kanon
+clics-doculect-87-1986,swed1254-std,concepticon-1061,20.31,vapenrustning,armor (defensive),vapenrustning
+clics-doculect-87-1987,swed1254-std,concepticon-1061,20.31,rustning,armor (defensive),rustning
+clics-doculect-87-1988,swed1254-std,concepticon-1061,20.31,harnesk,armor (defensive),harnesk
+clics-doculect-87-1989,swed1254-std,concepticon-1680,20.33,hjälm,helmet,hjalm
+clics-doculect-87-1990,swed1254-std,concepticon-1064,20.34,sköld,shield,skold
+clics-doculect-87-1991,swed1254-std,concepticon-1938,20.35,fästning,fortress,fastning
+clics-doculect-87-1992,swed1254-std,concepticon-1671,20.36,torn,tower,torn
+clics-doculect-87-1993,swed1254-std,concepticon-783,20.41,seger,victory,seger
+clics-doculect-87-1994,swed1254-std,concepticon-782,20.42,nederlag,defeat,nederlag
+clics-doculect-87-1995,swed1254-std,concepticon-722,20.43,anfall,attack,anfall
+clics-doculect-87-1996,swed1254-std,concepticon-1330,20.44,försvar,defend,forsvar
+clics-doculect-87-1997,swed1254-std,concepticon-421,20.45,reträtt,retreat,retratt
+clics-doculect-87-1998,swed1254-std,concepticon-421,20.45,återtåg,retreat,atertag
+clics-doculect-87-1999,swed1254-std,concepticon-1696,20.46,kapitulera,surrender,kapitulera
+clics-doculect-87-2000,swed1254-std,concepticon-1696,20.46,geupp,surrender,geupp
+clics-doculect-87-2001,swed1254-std,concepticon-1696,20.46,överlämna,surrender,overlamna
+clics-doculect-87-2002,swed1254-std,concepticon-1072,20.47,fånge,"captive, prisoner",fange
+clics-doculect-87-2003,swed1254-std,concepticon-1940,20.471,vakt,"guard, sentinel",vakt
+clics-doculect-87-2004,swed1254-std,concepticon-1940,20.471,väktare,"guard, sentinel",vaktare
+clics-doculect-87-2005,swed1254-std,concepticon-1022,20.48,byte,"booty, spoils",byte
+clics-doculect-87-2006,swed1254-std,concepticon-1022,20.48,rov,"booty, spoils",rov
+clics-doculect-87-2007,swed1254-std,concepticon-65,20.49,bakhåll,ambush,bakhall
+clics-doculect-87-2008,swed1254-std,concepticon-1858,20.51,fiskare,fisherman,fiskare
+clics-doculect-87-2009,swed1254-std,concepticon-1074,20.52,krok,fishhook,krok
+clics-doculect-87-2010,swed1254-std,concepticon-19,20.53,metrev,fishing line,metrev
+clics-doculect-87-2011,swed1254-std,concepticon-388,20.54,fisknät,fishnet,fisknat
+clics-doculect-87-2012,swed1254-std,concepticon-389,20.55,snärja,fish trap,snarja
+clics-doculect-87-2013,swed1254-std,concepticon-389,20.55,fiskfälla,fish trap,fiskfalla
+clics-doculect-87-2014,swed1254-std,concepticon-389,20.55,snara,fish trap,snara
+clics-doculect-87-2015,swed1254-std,concepticon-2013,20.56,agn,bait,agn
+clics-doculect-87-2016,swed1254-std,concepticon-2013,20.56,bete,bait,bete
+clics-doculect-87-2017,swed1254-std,concepticon-1435,20.61,jaga,hunt,jaga
+clics-doculect-87-2018,swed1254-std,concepticon-1172,20.62,skjuta,shoot,skjuta
+clics-doculect-87-2019,swed1254-std,concepticon-1172,20.62,fyraav,shoot,fyraav
+clics-doculect-87-2020,swed1254-std,concepticon-161,20.63,missa,miss (target),missa
+clics-doculect-87-2021,swed1254-std,concepticon-161,20.63,gåmisteom,miss (target),gamisteom
+clics-doculect-87-2022,swed1254-std,concepticon-1075,20.64,fälla,trap (noun),falla
+clics-doculect-87-2023,swed1254-std,concepticon-1075,20.64,snara,trap (noun),snara
+clics-doculect-87-2024,swed1254-std,concepticon-1170,20.65,sättautfällor,trap (vb),sattautfallor
+clics-doculect-87-2025,swed1254-std,concepticon-1170,20.65,lockaifällan,trap (vb),lockaifallan
+clics-doculect-87-2026,swed1254-std,concepticon-1170,20.65,snara,trap (vb),snara
+clics-doculect-87-2027,swed1254-std,concepticon-1170,20.65,snärja,trap (vb),snarja
+clics-doculect-87-2028,swed1254-std,concepticon-1062,21.11,lag,law,lag
+clics-doculect-87-2029,swed1254-std,concepticon-1062,21.11,rätt,law,ratt
+clics-doculect-87-2030,swed1254-std,concepticon-1068,21.15,rätt,court,ratt
+clics-doculect-87-2031,swed1254-std,concepticon-1068,21.15,domstol,court,domstol
+clics-doculect-87-2032,swed1254-std,concepticon-1818,21.16,döma,judge (vb),doma
+clics-doculect-87-2033,swed1254-std,concepticon-1067,21.17,dom,judgment,dom
+clics-doculect-87-2034,swed1254-std,concepticon-861,21.18,domare,judge (noun),domare
+clics-doculect-87-2035,swed1254-std,concepticon-2020,21.21,kärande,plaintiff,karande
+clics-doculect-87-2036,swed1254-std,concepticon-1034,21.22,svarande,defendant,svarande
+clics-doculect-87-2037,swed1254-std,concepticon-1144,21.23,vittne,witness,vittne
+clics-doculect-87-2038,swed1254-std,concepticon-1939,21.24,svära,swear,svara
+clics-doculect-87-2039,swed1254-std,concepticon-1939,21.24,svärja,swear,svarja
+clics-doculect-87-2040,swed1254-std,concepticon-1712,21.25,ed,oath,ed
+clics-doculect-87-2041,swed1254-std,concepticon-1814,21.31,anklaga,accuse,anklaga
+clics-doculect-87-2042,swed1254-std,concepticon-1814,21.31,beskylla,accuse,beskylla
+clics-doculect-87-2043,swed1254-std,concepticon-484,21.32,döma,condemn,doma
+clics-doculect-87-2044,swed1254-std,concepticon-983,21.33,överbevisa,convict (vb),overbevisa
+clics-doculect-87-2045,swed1254-std,concepticon-983,21.33,förklaraskyldig,convict (vb),forklaraskyldig
+clics-doculect-87-2046,swed1254-std,concepticon-988,21.34,frikänna,acquit,frikanna
+clics-doculect-87-2047,swed1254-std,concepticon-1682,21.35,skyldig,guilty,skyldig
+clics-doculect-87-2048,swed1254-std,concepticon-90,21.36,oskyldig,innocent,oskyldig
+clics-doculect-87-2049,swed1254-std,concepticon-390,21.37,straff,"penalty, punishment",straff
+clics-doculect-87-2050,swed1254-std,concepticon-218,21.38,plikt,fine,plikt
+clics-doculect-87-2051,swed1254-std,concepticon-218,21.38,böter,fine,boter
+clics-doculect-87-2052,swed1254-std,concepticon-1281,21.39,fängelse,"prison, jail",fangelse
+clics-doculect-87-2053,swed1254-std,concepticon-845,21.42,mord,murder,mord
+clics-doculect-87-2054,swed1254-std,concepticon-902,21.43,äktenskapsbrott,adultery,aktenskapsbrott
+clics-doculect-87-2055,swed1254-std,concepticon-902,21.43,hor,adultery,hor
+clics-doculect-87-2056,swed1254-std,concepticon-953,21.44,våldtäkt,rape,valdtakt
+clics-doculect-87-2057,swed1254-std,concepticon-1889,21.46,mordbrand,arson,mordbrand
+clics-doculect-87-2058,swed1254-std,concepticon-1792,21.47,mened,perjury,mened
+clics-doculect-87-2059,swed1254-std,concepticon-713,21.51,stjäla,steal,stjala
+clics-doculect-87-2060,swed1254-std,concepticon-1160,21.52,tjuv,thief,tjuv

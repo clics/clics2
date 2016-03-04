@@ -1,0 +1,879 @@
+@classification: Arawakan,Maipuran,Southern Maipuran,Bolivia-Parana
+@ids-name: Trinitario_Phonemic
+@iso: trn
+@language: Trinitario
+@size: 872
+@source: ids
+@variety: std
+1.1	world	ʔpoɣʔe
+1.21	earth, land	ʔpoɣʔe
+1.212	earth=ground, soil	'motehi
+1.213	dust	'motehi
+1.214	mud	'tʸurahi
+1.215	sand	ta'woparu
+1.22	mountain, hill	ʔnuɣʔemari
+1.222	cliff, precipice	tačusi
+1.23	plain, field	womʔi
+1.25	island	tʸuupuʔi
+1.27	shore	ta'čočoku
+1.28	cave	peno
+1.31	water	une
+1.31	water	'unera
+1.322	calm (of sea)	tmotnaʔi
+1.324	foam	tarissohi
+1.33	lake	koɣure
+1.341	lagoon	koɣure
+1.35	wave	tapkuuʔo
+1.36	river, stream, brook	khokre
+1.362	whirlpool	roʔera
+1.37	spring, well	skoku
+1.38	swamp	y'momohi
+1.41	woods, forest	smeno
+1.42	tree (cf 08.600)	wkuɣi
+1.42	tree (cf 08.600)	ykuɣi
+1.43	wood	wkuɣi
+1.43	wood	ykuɣi
+1.44	stone, rock	mari
+1.44	stone, rock	marihaʔi
+1.45	earthquake	yamrikoʔpoɣʔe
+1.51	sky	anumo
+1.52	sun	sače
+1.53	moon	kohe
+1.54	star	hreeɣi
+1.55	lightning	emareko
+1.56	thunder	čunnuko
+1.57	lightning (as striking)	ec̷'čarako
+1.59	rainbow	oʔe
+1.61	light (noun)	meča
+1.61	light (noun)	mikʔu
+1.62	darkness	mopku
+1.62	darkness	ta'mopkuwo
+1.63	shade, shadow	tkawi
+1.64	dew	ʔyoru
+1.72	wind	tektikwo
+1.73	cloud	'ukohi
+1.74	fog	ʔyoru
+1.75	rain (noun)	tɣiwo
+1.81	fire	yuku
+1.81	fire	yukne
+1.82	flame (noun)	neneyuku
+1.83	smoke (noun)	'ɣhorepa
+1.83	smoke (noun)	'ɣhore
+1.84	ashes	c̷mapa
+1.841	embers	tamoni
+1.851	burn (vb trans)	niko
+1.851	burn (vb trans)	yustako
+1.852	burn (vb intrans)	riiko
+1.86	light, kindle, ignite	pohko
+1.861	extinguish	emʔo
+1.861	extinguish	kemʔo
+1.88	firewood	tohɣeru
+1.89	charcoal	monɣi
+2.1	person, human being	ʔčane
+2.21	man (vs. woman)	oʔʸono
+2.22	woman	ʔseno
+2.23	male	ʔhiro
+2.251	young man (adolescent)	'ʔretona
+2.261	young woman (adolescent)	ʔčeno
+2.27	child	ʔmoyo
+2.27	child	'ʔmoperu
+2.28	infant, baby	ʔmoyo
+2.31	husband	ima
+2.32	wife	yeno
+2.33	marry	itučwo
+2.35	father	tata
+2.36	mother	eno
+2.36	mother	meme
+2.41	son	čiča
+2.42	daughter	čiča
+2.44	brother	ati
+2.444	older brother	'porape
+2.444	older brother	'ečowi
+2.445	younger brother	ati
+2.45	sister	ati
+2.454	older sister	'porape
+2.454	older sister	'ečowi
+2.455	younger sister	ati
+2.458	twins	čoho
+2.46	grandfather	očko
+2.47	grandmother	oc̷e
+2.48	grandson	amri
+2.49	granddaughter	amri
+2.51	uncle	apʸaru
+2.52	aunt	apenru
+2.53	nephew	čera
+2.54	niece	čehi
+2.61	father-in-law (of a man)	imčuko
+2.62	mother-in-law (of a man)	imse
+2.63	son-in-law (of a man)	čina
+2.63	son-in-law (of a man)	čnare
+2.64	daughter-in-law (of a man)	'čineno
+2.71	stepfather	tataraʔo
+2.72	stepmother	memereʔo
+2.75	orphan	wača
+2.76	widow	emuimarahisemuinarahi
+2.77	widower	muemyenorohi
+2.81	relatives, kinsmen	haɲono
+2.82	family	haɲono
+2.91	I	n
+2.92	you (singular)	p
+2.92	you (singular)	pʸ
+2.93	he/she/it	ma
+2.93	he/she/it	mue
+2.93	he/she/it	ema
+2.93	he/she/it	enʸi
+2.94	we	w
+2.94	we	wʸ
+2.95	you (plural)	ʔʸ
+2.96	they	na
+2.96	they	nae
+3.11	animal	'sorare
+3.35	pig	smoru
+3.52	cock, rooster	ʔhiiʔi
+3.54	hen	wrayu
+3.55	chicken	wrayu
+3.57	duck	ʔpohi
+3.58	nest	tamoko
+3.58	nest	ta'mokohi
+3.581	bird	koyre
+3.582	seagull	c̷weʔi
+3.583	heron	c̷nʸuuno
+3.584	eagle	čopo
+3.584	eagle	pripri
+3.591	bat	wite
+3.592	parrot	čora
+3.592	parrot	woru
+3.594	dove	siwi
+3.61	dog	paku
+3.614	rabbit	myuko
+3.62	cat	mic̷i
+3.63	mouse, rat	koc̷o
+3.63	mouse, rat	ʔc̷aru
+3.65	fish	himo
+3.665	freshwater eel	'ʔtirepi
+3.72	lion	tʸore
+3.74	fox	čuye
+3.75	deer	ropo
+3.75	deer	khowo
+3.76	monkey	iyo
+3.811	louse	inʸe
+3.813	flea	'stukaya
+3.814	centipede	'tnʸosopi
+3.815	scorpion	sose'čreɣi
+3.816	cockroach	poymo
+3.817	ant	kčiru
+3.818	spider	mtono
+3.82	bee	'moposi
+3.821	beeswax	mophui
+3.822	beehive	hanemoko
+3.823	wasp	hane
+3.83	fly	ʔčuwe
+3.831	sandfly (midge), gnat	'wayosi
+3.831	sandfly (midge), gnat	pac̷iisi
+3.832	mosquito	ʔnʸiʔu
+3.84	worm	ɣ'ɣorepi
+3.84	worm	kane
+3.85	snake	ɣɣore
+3.85	snake	činʸompi
+3.91	firefly	ʔriɣnʸo
+3.95	frog	uupe
+3.96	lizard	khʸure
+3.97	crocodile, alligator	me'romero
+3.98	turtle	sipu
+3.98	turtle	trakayasi
+4.11	body	oɣʔe
+4.12	skin, hide	ummo
+4.13	flesh	eče
+4.14	hair (head)	čutmoko
+4.14	hair (head)	čtimkore
+4.142	beard	hiimama
+4.144	body hair	'hiyoʔo
+4.15	blood	itne
+4.15	blood	iti
+4.151	vein, artery	it'nerepi
+4.16	bone	'ʔʸopeɣe
+4.162	rib	hii'monepa
+4.17	horn	hiʔu
+4.18	tail	ihɣi
+4.19	back	muiɣʔe
+4.19	back	ɣeku
+4.191	spine	mic̷ɣiiɣi
+4.2	head	čutmoko
+4.2	head	čuti
+4.202	skull	čtire
+4.203	brain	'kuyahi
+4.203	brain	kuyarahi
+4.204	face	miro
+4.204	face	hmiro
+4.205	forehead	noʔu
+4.207	jaw	pani
+4.208	cheek	puku
+4.209	chin	mama
+4.21	eye	uɣʔa
+4.212	eyebrow	hiičonoʔu
+4.213	eyelid	uɣmo
+4.214	eyelash	'moc̷ipa
+4.22	ear	čoka
+4.23	nose	siri
+4.231	nostril	siipeno
+4.232	mucus (nasal)	mučhi
+4.24	mouth	haka
+4.241	beak	haka
+4.241	beak	tahaka
+4.25	lip	čeyo
+4.26	tongue	nene
+4.27	tooth	oʔe
+4.272	molartooth	hakaraɣi
+4.28	neck	'piɣenu
+4.29	throat	'ereno
+4.3	shoulder	hiʔu
+4.31	arm	powɣi
+4.312	armpit	'siɣeku
+4.32	elbow	c̷uc̷u
+4.321	wrist	woʔu
+4.33	hand	wupe
+4.331	palm of hand	tupopewʔu
+4.34	finger	wuɣi
+4.342	thumb	ʔčopewuɣi
+4.344	fingernail	hipnʸo
+4.345	claw	hipnʸo
+4.35	leg	pueɣe
+4.351	thigh	paʔe
+4.352	calf of leg	'hewehi
+4.36	knee	'puyusi
+4.37	foot	iype
+4.371	ankle	piɣi
+4.372	heel	čuksipewo
+4.374	footprint	iy'pereku
+4.38	toe	iwɣi
+4.392	wing	powo
+4.393	feather	'hiyoʔi
+4.4	chest	tupo
+4.41	breast (of woman)	čene
+4.412	nipple, teat	čene
+4.43	navel	tuyu
+4.43	navel	tuyrupi
+4.44	heart	samre
+4.441	lung	'romone
+4.45	liver	'topono
+4.451	kidney	kotru
+4.46	stomach	omi
+4.46	stomach	nʸuri
+4.461	intestines, guts	yeeruwhuʔe
+4.462	waist	nʸoʔe
+4.463	hip	'sokono
+4.464	buttocks	tete
+4.47	womb	čičaraʔi
+4.49	testicle	aɣi
+4.492	penis	e'hirowo
+4.51	breathe, breath	omčo
+4.52	yawn, gape	iiyarakwo
+4.521	hiccough	tuʔkuʔo
+4.53	cough	unkowo
+4.54	sneeze	ahc̷iko
+4.55	perspire	epac̷uko
+4.56	spit	attiko
+4.57	vomit	oʔko
+4.58	bite	niko
+4.58	bite	nikririko
+4.59	lick	eweroko
+4.61	sleep	imko
+4.612	snore	kočo'ronohi
+4.62	dream	wop'rereʔi
+4.63	wake up	ehamiko
+4.64	break wind	ehwako
+4.65	urinate	hoʔo
+4.66	defecate	soko
+4.67	have sexual intercourse	anʸoko
+4.67	have sexual intercourse	'aneko
+4.68	shiver	ettotoko
+4.69	bathe	ikčo
+4.71	beget (of father)	kočiča
+4.72	born (to be)	učko
+4.73	pregnant	'kohari
+4.74	live, living, life	itoriko
+4.75	die, dead	'epeno
+4.751	drowned	eeko
+4.751	drowned	keeko
+4.76	kill	'kopako
+4.77	corpse	epenoɣne
+4.78	bury (the dead)	'ekoro
+4.79	grave, tomb	'ekori
+4.79	grave, tomb	ekorosi
+4.81	strong, mighty, powerful	ʔtume
+4.82	weak	woʔtumena
+4.83	well, health	mhumarare
+4.84	sick, sickness	kohma
+4.841	fever	tihre
+4.85	wound, sore	hora
+4.852	bruise	'horomo
+4.853	swelling	amo
+4.854	itch	uhaʔo
+4.855	blister	emiu
+4.856	boil (noun)	ammoʔo
+4.856	boil (noun)	c̷eɣe
+4.858	scar	hora
+4.858	scar	horeni
+4.86	cure, heal	ipruhčo
+4.87	physician	ipruhrikraʔi
+4.88	medicine, drug	ipruhi
+4.88	medicine, drug	ʔpuuhi
+4.89	poison	ʔmoti
+4.89	poison	'motiwo
+4.91	tired, weary	wita
+4.91	tired, weary	wta
+4.912	rest	'narako
+4.92	lazy	yakhi
+4.94	lame	inʸu
+4.95	deaf	mɣinʸo
+4.96	mute	čo
+4.97	blind	hmaʔu
+4.97	blind	pučuɣi
+4.98	intoxicated	kowʔo
+4.99	naked, bare	ipc̷ino
+4.99	naked, bare	ip'c̷inoʔe
+4.99	naked, bare	ip'c̷inohi
+5.11	eat	niko
+5.12	food	čeehi
+5.12	food	čaruhi
+5.121	cooked	'imaɣi
+5.123	ripe	yoʔo
+5.125	rotten	heče
+5.13	drink	ero
+5.13	drink	eeriko
+5.14	hunger	ekʔo
+5.141	famine	ʔkomʔi
+5.15	thirst	etarako
+5.16	suck	čučko
+5.18	chew	nuʔo
+5.181	swallow	hiiko
+5.19	choke	kohpanko
+5.21	cook	imaɣičo
+5.22	boil (vb)	riʔčoko
+5.23	roast, fry	htooko
+5.23	roast, fry	suuko
+5.24	bake	kohoono
+5.26	pot, cooking vessel	metsi
+5.27	kettle	metsi
+5.32	plate	kuuho
+5.32	plate	kruho
+5.34	pitcher, jug	yupi
+5.35	cup, drinking vessel	eerisi
+5.35	cup, drinking vessel	eeresi
+5.37	spoon	kok'čarahi
+5.38	knife	tumra
+5.38	knife	ʔčatrope
+5.41	meal (a)	čeehi
+5.41	meal (a)	čaruhi
+5.43	lunch	niipo
+5.46	peel	čoʔiko
+5.47	sieve, strain	koɣheko
+5.49	stir, mix	siiɣičo
+5.51	bread	ʔsomo
+5.61	meat	ʔrak'parahi
+5.64	soup, broth	toči
+5.66	bean	iko
+5.79	oil	'uhewo
+5.791	grease, fat	sina
+5.81	salt	ʔčewe
+5.821	chili pepper	ʔčeti
+5.84	honey	mopomo
+5.86	milk (noun)	čenʸomo
+5.87	milk (vb)	koptiko
+5.9	beverage, drink	eesa
+5.9	beverage, drink	'ʔresare
+5.94	fermented drink	eesa
+5.94	fermented drink	'ʔresare
+5.97	egg	wrayʔa
+6.11	put on (clothes)	muiriočowo
+6.12	clothing, clothes	muiiʔo
+6.12	clothing, clothes	yeeruwo
+6.21	cloth	attahi
+6.21	cloth	attahra
+6.22	wool	kohyoʔo'ʔhiyoʔo
+6.24	cotton	khore
+6.29	leather	prumo
+6.32	spindle	ihruupa
+6.32	spindle	hʸuurupa
+6.33	weave	ic̷meko
+6.35	sew	poohiko
+6.36	needle	pooropa
+6.36	needle	priipa
+6.38	thread	pooripi
+6.38	thread	ʔc̷epi
+6.39	dye	esioko
+6.42	woman's dress	'ʔmorohi
+6.43	coat	ep'kočepo
+6.46	skirt	paʔe
+6.48	trousers	mu'ipaʔe
+6.55	hat, cap	hosi
+6.55	hat, cap	hosre
+6.57	belt, girdle	itʔe
+6.57	belt, girdle	'teremo
+6.71	ornament, adornment	uupowo
+6.73	ring (for finger)	tiɣwure
+6.73	ring (for finger)	itɣiwʔu
+6.75	necklace	tnʸosehi
+6.81	handkerchief, rag	attahi
+6.91	comb	kottasi
+6.91	comb	k'tatasi
+6.921	braid	ic̷mehɣi
+7.11	dwell, live	'kopeno
+7.11	dwell, live	tupko
+7.12	house	peno
+7.12	house	peti
+7.13	hut	'petihi
+7.13	hut	'penohi
+7.15	yard, court	'miroʔu
+7.21	room	ptiku
+7.22	door, gate	pahra
+7.22	door, gate	tapaho
+7.26	floor	saeera
+7.27	wall	yučmo
+7.31	fireplace	wkučkoyo
+7.421	pillow	čnushire
+7.422	blanket	epkoʔu
+7.46	candle	yukpi
+7.51	roof	ktihmo
+7.53	ridgepole	ʔkunu
+7.55	beam	ʔkunu
+7.55	beam	'wočuɣi
+7.57	board	'toračo
+8.12	field (for cultivation)	'esane
+8.12	field (for cultivation)	ʔsanti
+8.16	fence	yučmo
+8.22	dig	seko
+8.24	shovel	kwiča
+8.31	sow	ewko
+8.311	seed	taɣira
+8.41	crop, harvest	wʸoʔiko
+8.47	maize, corn	sponi
+8.47	maize, corn	sponɣi
+8.51	grass	muihi
+8.53	plant (noun)	sukre
+8.53	plant (noun)	'skureko
+8.531	plant (vb)	ewko
+8.54	root	pore
+8.55	branch	tatawo
+8.55	branch	'tawohi
+8.56	leaf	'pokohi
+8.57	flower	ohʔu
+8.6	tree	wkuɣi
+8.6	tree	ykuɣi
+8.67	vine	epre
+8.68	tobacco	saware
+8.69	smoke (tobacco)	sapko
+8.73	tree trunk	čupu
+8.75	bark	'točohi
+8.76	sap	totu
+8.91	sweet potato	kaere
+8.92	tapioca, manioc, cassava	'kuhpara
+8.92	tapioca, manioc, cassava	kuhpa
+8.93	gourd	c̷nʸowe
+8.93	gourd	eera
+8.931	pumpkin, squash	mkure
+8.941	sugar cane	ektenrahi
+8.941	sugar cane	'ʔkuteno
+8.97	nettle	čunʸesi
+9.11	do, make	epyako
+9.11	do, make	hičo
+9.12	work	'kwemtone
+9.14	bend	kotʸako
+9.15	fold	koc̷nʸako
+9.15	fold	akyokowo
+9.16	tie, bind	'tičo
+9.16	tie, bind	'itičo
+9.19	rope, cord	ikoropi
+9.192	knot (noun)	taeti
+9.21	strike (hit, beat)	eʔo
+9.21	strike (hit, beat)	estako
+9.22	cut	ečtiko
+9.221	cut down	aɣpueko
+9.222	chop, hew	ečko
+9.23	knife	tumra
+9.23	knife	ʔčatrope
+9.24	scissors, shears	whisrope
+9.24	scissors, shears	wihsiipe
+9.25	ax	yowo
+9.25	ax	ywoti
+9.26	break	etapoko
+9.261	broken	ewarako
+9.27	split	eheko
+9.28	tear	kowčihko
+9.29	flay, skin	emakuko
+9.29	flay, skin	maʔoko
+9.31	rub, wipe	kotruʔoko
+9.32	stretch	kotpakrakowo
+9.33	pull	čuuko
+9.341	hang up	čumko
+9.343	squeeze, wring	kopčako
+9.36	wash	kac̷kuʔo
+9.37	sweep	piʔiko
+9.38	broom	'piroɣi
+9.38	broom	proɣi
+9.48	saw	erekuko
+9.73	clay	'tʸurahi
+9.76	basket	moʔo
+9.78	netbag	niipowkure
+9.79	fan (noun)	'pewera
+9.79	fan (noun)	pewe
+9.791	fan (vb)	peweko
+9.791	fan (vb)	ewʔʸučo
+10.11	move	yamriko
+10.12	turn over	epčooko
+10.12	turn over	ewkuuko
+10.14	wind, wrap	muihko
+10.16	drop (vb)	kočmiko
+10.17	twist	ayiko
+10.21	rise	ečepuko
+10.22	raise, lift	yooko
+10.22	raise, lift	kočepuko
+10.23	fall	'wenopo
+10.23	fall	pakareko
+10.25	throw	waririomčo
+10.252	catch (ball)	jačpo
+10.26	shake	eyhoko
+10.35	swim	owreko
+10.37	fly (vb)	oro
+10.38	blow	ewʔʸučo
+10.41	creep, crawl	mahriko
+10.412	kneel	epyusiko
+10.413	crouch	osyeko
+10.42	slide, slip	okhučiko
+10.43	jump, leap	etereko
+10.431	kick	okčuko
+10.44	dance	iimuiko
+10.45	walk	puiko
+10.45	walk	puiiriko
+10.46	run	'hunopo
+10.47	go	yono
+10.472	climb	opno
+10.473	go down	kopahko
+10.473	go down	ukpuiko
+10.474	go out	imoriko
+10.48	come	uteko
+10.481	come back	čowo
+10.49	go away, depart	kewisʔo
+10.49	go away, depart	učko
+10.52	follow	pono
+10.55	reach, arrive	kopayako
+10.55	reach, arrive	itekpo
+10.57	enter	sʸopo
+10.61	carry (bear)	'yereko
+10.61	carry (bear)	omo
+10.62	bring	omo
+10.62	bring	wehno
+10.71	road	ʔčene
+10.71	road	očenekra
+10.831	canoe	pokre
+10.831	canoe	pkura
+10.852	row (vb)	naʔeko
+10.91	harbor, port	ana'ereku
+11.11	have	koyʔe
+11.12	own, possess	'oɣenu
+11.13	take	omo
+11.14	seize, grasp	kootoko
+11.17	keep, retain	'unako
+11.21	give	ihroko
+11.28	harm, injure, damage	ehiko
+11.31	seek, look for	tanko
+11.31	seek, look for	taniko
+11.32	find	ičmowo
+11.32	find	itkowo
+11.33	lose	emtiko
+11.33	lose	komtiko
+11.51	rich	siyerereewo
+11.54	avaricious, stingy	yowʔi
+11.63	owe	ntewe
+11.65	pay (vb)	waʔčo
+11.81	buy	wačriko
+11.82	sell	ihroriko
+11.87	price	tawačo
+11.88	dear (costly, expensive)	'siwačo
+12.1	after	eɣne
+12.1	after	huitne
+12.11	place	eɣnehriko
+12.11	place	ihɣiipi
+12.3	down, below	ʔpoɣʔe
+12.4	before	kopeni
+12.41	right (side)	'miroʔu
+12.5	inside, in	ʔwiʔku
+12.6	outside	ʔneko
+12.7	under	'mopeku
+12.8	up, above	ʔnuɣʔe
+12.8	up, above	'inaʔu
+12.8	up, above	muiɣʔe
+12.11	place	topaʔiwo
+12.12	put	noko
+12.13	sit	ehako
+12.14	lie down	'epahi
+12.14	lie down	pahi
+12.15	stand	kotpiʔeko
+12.16	remain, stay	'nosi
+12.24	open	ewac̷ako
+12.25	shut, close	hočo
+12.25	shut, close	hʸočo
+12.26	cover	yučeɣneʔo
+12.27	hide, conceal	yumruko
+12.31	high	inɣewo
+12.352	pointed	tapu
+12.352	pointed	'tapuɣi
+12.36	side	nopo
+12.37	middle, center	ttupreko
+12.41	right (side)	wowre
+12.41	right (side)	nopowowre
+12.42	left (side)	sopa
+12.42	left (side)	nopotesopa
+12.43	near (adv)	čokyo
+12.44	far (adv)	ewire
+12.44	far (adv)	ʔe'wirečo
+12.47	north	khoʔo
+12.48	south	wono
+12.53	grow	huuko
+12.55	large, big	ʔčoperiʔi
+12.56	small, little	ʔčiʔču
+12.56	small, little	ʔčiʔčoʔo
+12.57	long	siku
+12.58	tall	una
+12.58	tall	tʸuna
+12.61	wide, broad	'aharu
+12.62	narrow	ʔc̷enkure
+12.62	narrow	'ʔc̷epaku
+12.63	thick (in dimension)	ʔčope
+12.65	thin (in dimension)	eh'woroʔi
+12.67	deep	'upeno
+12.73	straight	'utpiʔo
+12.75	hook	tkohka
+12.76	corner	'ɣinʸoku
+12.81	round	čyoroʔčoyoro
+12.82	circle	'ʔčoyoro
+12.85	hole	ʔnuuku
+13.0	zero, nothing	tahina
+13.1	one	'etona
+13.2	two	apina
+13.3	three	mopona
+13.8	eight	knowɣi
+13.107	count	'tupačo
+13.14	every, all	mutumtu
+13.14	every, all	ʔmu'irihi
+13.15	much, many	komuri
+13.15	much, many	mowera
+13.16	more	ʔpona
+13.17	little (quantity), few	ommuri
+13.18	enough	kečemuriono
+13.181	some	ʔponnahi
+13.181	some	ʔpomriono
+13.21	full	inko
+13.21	full	inkočo
+13.33	alone, only	kehwo
+13.33	alone, only	kehoriču
+13.34	first	tiwo
+13.34	first	uwo
+13.35	last	kene
+13.35	last	ihɣiipi
+13.36	second	nopoko
+13.37	pair	etomuri
+13.38	two times	apiʔe
+13.44	three times	mopoʔe
+14.13	new	ʔrahru
+14.15	old	ʔčosi
+14.17	late	ečanako
+14.18	now	huiti
+14.19	immediately	'totohi
+14.21	swift, fast, quick	haahiko
+14.21	swift, fast, quick	roʔo
+14.22	slow	ep'yarako
+14.23	hasten, hurry	yoyučo
+14.24	retard, delay	emtoko
+14.25	begin, beginning	naekčowo
+14.252	last, endure	hikpuiko
+14.27	finish	'itowo
+14.31	always	enemuiihi
+14.332	long-time (for a)	koperipo
+14.34	never	kaeerapukaeni
+14.35	again	apečwo
+14.41	day	sače
+14.42	night	yoti
+14.43	dawn	urihamisra
+14.44	morning	tyotko
+14.45	noon, midday	tupriɣi
+14.451	afternoon	kopereʔi
+14.47	today	huiti
+14.48	tomorrow	ʔčoču
+14.49	yesterday	kope
+14.491	day-before-yesterday	kopeʔponasače
+14.71	month	'kohera
+14.71	month	kohe
+15.21	smell (vb intrans)	ehweko
+15.22	smell (vb trans)	huko
+15.25	fragrant, good smelling	ihʸe
+15.35	sweet	itwe
+15.36	salty	'ičewe
+15.37	bitter	sukorohi
+15.37	bitter	'sukore
+15.38	acid, sour	kootsi
+15.38	acid, sour	kooc̷i
+15.41	hear	atsamo
+15.41	hear	ɣinʸo
+15.42	listen	uɣnʸo
+15.42	listen	samrooko
+15.46	quiet, silence	motnaʔi
+15.51	see	imʔo
+15.52	look, look at	imooroko
+15.55	show	imeko
+15.55	show	'imečo
+15.56	shine	rappeko
+15.56	shine	motc̷iko
+15.64	white	hopu
+15.65	black	siso
+15.66	red	ic̷ʸoro
+15.66	red	tic̷i
+15.67	blue	ripu
+15.68	green	heʔču
+15.68	green	anoʔo
+15.69	yellow	yokko
+15.74	hard	'ʔčoɣeru
+15.74	hard	mraka
+15.75	soft	himʸa
+15.76	rough	reru
+15.78	sharp	kosri
+15.78	sharp	eksiičo
+15.81	heavy	hitakore
+15.83	wet, damp	nono
+15.83	wet, damp	'patahi
+15.84	dry	oohi
+15.85	hot	ihre
+15.85	hot	ihruʔi
+15.851	warm	ihruromo
+15.851	warm	ihruɣɣomo
+15.86	cold	tummaʔoko
+15.86	cold	kosarečo
+15.87	clean	tʸuuna
+15.87	clean	uuna
+15.88	dirty, soiled	koʔča
+15.89	wrinkled	'c̷inʸaku
+16.11	soul, spirit	kunaraʔi
+16.15	surprised, astonished	ooʔoko
+16.23	joyful, glad, happy	uusamre
+16.23	joyful, glad, happy	wopnoniko
+16.25	laugh	ekowowriʔi
+16.251	smile	e'masako
+16.26	play	'uc̷aru
+16.27	love	wooʔo
+16.27	love	wroʔo
+16.29	kiss	c̷uko
+16.33	anxiety, worry	ečomhi
+16.37	cry, weep	'iyoʔo
+16.37	cry, weep	iyoʔomro
+16.38	tear (noun)	'c̷eramo
+16.41	hate	'kotičo
+16.42	anger	semo
+16.44	envy, jealousy	etʸoko
+16.45	shame (noun)	c̷iiʔo
+16.45	shame (noun)	c̷riʔo
+16.53	fear, fright	piko
+16.62	desire, want	kimuira
+16.62	desire, want	homračo
+16.622	choose	nerʸoko
+16.66	true	yatpi
+16.66	true	heʔču
+16.67	lie, tell lies	emc̷ʸoko
+16.67	lie, tell lies	onʸučwo
+16.71	good	tʸuri
+16.71	good	uri
+16.72	bad	winarahi
+16.72	bad	mueperahi
+16.81	beautiful	uuna
+17.14	think (= be of the opinion)	etʸoko
+17.14	think (= be of the opinion)	ihčo
+17.15	believe	ihčo
+17.16	understand	ečemčo
+17.17	know	imoti
+17.24	learn	karawoʔu
+17.242	study	karawoʔu
+17.25	teach	imitko
+17.31	remember	ečo
+17.32	forget	emtisko
+17.34	clear, plain	emkečorohko
+17.36	secret	yum'rurewo
+17.42	cause	im
+17.42	cause	em
+17.43	doubt	kikčopuiiwo
+17.45	need, necessity	takomnu
+17.45	need, necessity	komnu
+17.46	easy	muehrare
+17.47	difficult	kehra
+17.51	and	ene
+17.52	because	tahičo
+17.55	yes, affirmative	hooʔo
+17.56	no, negative	woʔi
+17.61	how?	ooyo
+17.62	how many?	oyna
+17.63	how much?	oyna
+17.64	what?	taa
+17.65	when?	tahamuʔi
+17.65	when?	kaeera
+17.66	where?	ooyo
+17.67	which?	taa
+17.68	who?	naha
+18.11	voice	oʔu
+18.12	sing	hiro
+18.13	shout, cry out	pʸooko
+18.17	whistle	pipi
+18.21	speak, talk	ečhiko
+18.211	stutter, stammer	mnessohi
+18.211	stutter, stammer	hriʔi
+18.22	say	koʔe
+18.22	say	hičo
+18.23	silent (be)	motna
+18.23	silent (be)	mtina
+18.24	language	ečhiriiwo
+18.28	name	'ihare
+18.31	ask (question, inquire)	yserikriʔi
+18.32	answer	uremraʔi
+18.32	answer	hikpo
+18.35	ask, request	yosʸoko
+18.39	rebuke, scold	kohčo
+18.41	call (=summon)	ičʔo
+18.51	write	ahčo
+18.51	write	'ahriko
+18.52	read	hiro
+18.56	paper	ʔhʸumeruko
+18.71	flute	swiwre
+18.74	rattle	wriiʔi
+19.15	city, town	'ʔwosareowsa
+19.16	village	'ʔwosare
+19.16	village	owsa
+19.24	chief, chieftain	iyaraʔo
+19.25	staff, walking stick	c̷ukrupa
+19.25	staff, walking stick	koc̷krupa
+19.41	master	'oɣenu
+19.42	slave	ahire
+19.43	servant	wonra
+19.43	servant	yorokora
+19.45	command, order	woniko
+19.46	obey	uremčo
+19.47	let, permit	isopo
+19.51	friend, companion	emnaksare
+19.52	enemy	kotičoswo
+19.52	enemy	okposwo
+19.54	neighbor	čawsaana
+19.55	stranger	ʔpowsaheku
+19.58	help, aid	im'katako
+20.11	fight (vb)	eʔroriko
+20.24	bow	aaku
+20.24	bow	ec̷pooku
+20.25	arrow	taɣriɣi
+20.25	arrow	taɣiɣire
+20.44	defend	kotʸučo
+20.52	fishhook	ʔniiwe
+20.52	fishhook	enrowe
+20.53	fishing line	enripi
+20.54	fishnet	ytaʔe'yutaʔe
+20.56	bait	enrihi
+20.61	hunt	kaseko
+20.62	shoot	yuko
+20.62	shoot	yukriʔi
+21.11	law	woniipi
+21.51	steal	'omečo
+21.52	thief	omeraʔi

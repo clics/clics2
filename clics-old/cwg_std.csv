@@ -1,0 +1,857 @@
+@classification: Austro-Asiatic,Mon-Khmer,Aslian,North Aslian,Chewong
+@iso: cwg
+@language: Cheq Wong
+@size: 851
+@source: wold
+@variety: std
+1.21	earth, land	tɛʔ
+1.212	earth=ground, soil	tɛʔ
+1.213	dust	hmɛ̃c
+1.214	mud	gaʔɛ̃c
+1.215	sand	pasir
+1.22	mountain, hill	mnĩm
+1.22	mountain, hill	cbɑʔ
+1.222	cliff, precipice	trɛh
+1.24	valley	taɲoŋ
+1.25	island	pulaw
+1.28	cave	daraŋ
+1.31	water	tɑm
+1.32	sea	lawot
+1.324	foam	cucuk
+1.329	ocean	lawot
+1.36	river, stream, brook	tɑm
+1.37	spring, well	ncɔktɑm
+1.38	swamp	payaʔ
+1.39	waterfall	jrəm
+1.41	woods, forest	brtɛʔ
+1.43	wood	lɨŋ
+1.43	wood	jəhũʔ
+1.44	stone, rock	tmɔ̃ʔ
+1.51	sky	laŋĩt
+1.52	sun	mɛ̃tktɔʔ
+1.53	moon	kcɛʔ
+1.54	star	bintaŋ
+1.55	lightning	kilɑt
+1.56	thunder	karay
+1.57	lightning (as striking)	klantãr
+1.59	rainbow	bayaŋtalon
+1.61	light (noun)	cinhəy
+1.62	darkness	saŋkuy
+1.63	shade, shadow	bayaŋ
+1.64	dew	mon
+1.72	wind	hɔŋ
+1.73	cloud	ʔɑl
+1.74	fog	ʔɑl
+1.75	rain (noun)	səm
+1.77	ice	tɑmbatuʔ
+1.81	fire	ʔɔs
+1.82	flame (noun)	ʔɔs
+1.83	smoke (noun)	siyay
+1.84	ashes	habuʔ
+1.841	embers	cikɛh
+1.851	burn (vb trans)	siut
+1.851	burn (vb trans)	jəʔ
+1.852	burn (vb intrans)	ŋəc
+1.86	light, kindle, ignite	cŋɔ̃ɲ
+1.86	light, kindle, ignite	cos
+1.861	extinguish	pilɨt
+1.87	match (noun)	ʔɔs
+1.88	firewood	ʔɔs
+2.1	person, human being	biʔ
+2.1	person, human being	briʔ
+2.21	man (vs. woman)	tuŋkal
+2.22	woman	koŋ
+2.23	male	tuŋkal
+2.24	female	koŋ
+2.251	young man (adolescent)	bujaŋ
+2.261	young woman (adolescent)	kdɑh
+2.27	child	budak
+2.31	husband	teʔ
+2.32	wife	jəʔ
+2.33	marry	ʔɑm
+2.35	father	bap
+2.36	mother	mɔ̃y
+2.36	mother	mɛ̃p
+2.37	parents	teʔmɔ̃y
+2.43	offspring (son or daughter)	wɔŋ
+2.458	twins	kmar
+2.46	grandfather	tɑʔ
+2.47	grandmother	yɑʔ
+2.56	ancestors	briʔkmanɨ̃h
+2.71	stepfather	bapgɔy
+2.72	stepmother	mɔ̃ygɔy
+2.82	family	kamĩn
+2.91	I	ʔiŋ
+2.92	you (singular)	mɨ̃ʔ
+2.93	he/she/it	ʔuh
+2.941	we (inclusive)	hɛʔ
+2.942	we (exclusive)	jaʔ
+2.95	you (plural)	jin
+2.96	they	gən
+3.11	animal	nataŋ
+3.12	male (adj)	tuŋkal
+3.13	female (adj)	koŋ
+3.32	boar	gaw
+3.35	pig	gawʔɔ̃t
+3.36	goat	kamiŋ
+3.41	horse (equine)	kudə
+3.5	fowl	hayam
+3.58	nest	sɔm
+3.581	bird	kawaw
+3.584	eagle	kawawklɑŋ
+3.586	vulture	klɑŋkday
+3.591	bat	plek
+3.593	crow	kawawlupɔl
+3.61	dog	ʔɛ̃ŋ
+3.62	cat	kuceŋ
+3.62	cat	yãw
+3.63	mouse, rat	knɛ̃ʔ
+3.65	fish	kiəʔ
+3.652	fin (dorsal)	layar
+3.653	fishscale	sisik
+3.654	gill	səʔaŋ
+3.655	shell	hoʔ
+3.73	bear	slabɑs
+3.77	elephant	gajah
+3.811	louse	cɛʔ
+3.812	nit (louse egg)	ktuət
+3.813	flea	cɛʔʔɛ̃ŋ
+3.814	centipede	kəʔɛp
+3.815	scorpion	caŋkiyɛ̃ʔ
+3.816	cockroach	sdɛʔ
+3.817	ant	lɑs
+3.818	spider	cambɨŋ
+3.819	spider web	sɔmcambɨŋ
+3.82	bee	lway
+3.821	beeswax	saraŋlway
+3.822	beehive	saraŋlway
+3.83	fly	yay
+3.831	sandfly (midge), gnat	kmɨ̃thmɛ̃c
+3.831	sandfly (midge), gnat	kboŋ
+3.832	mosquito	kmɨ̃t
+3.84	worm	caceŋ
+3.85	snake	talon
+3.91	firefly	ktlət
+3.92	butterfly	lkwɔk
+3.93	grasshopper	balaŋ
+3.94	snail	siput
+3.95	frog	katak
+3.97	crocodile, alligator	bahayaʔ
+4.12	skin, hide	hoʔ
+4.13	flesh	sac
+4.14	hair (head)	sɔk
+4.144	body hair	sɔk
+4.145	pubic hair	sɔk
+4.15	blood	mhə̃m
+4.151	vein, artery	ʔurat
+4.16	bone	jəʔeŋ
+4.162	rib	crɨs
+4.17	horn	tanok
+4.18	tail	hateʔ
+4.19	back	hŋkɨŋ
+4.191	spine	jəʔeŋhŋkɨŋ
+4.2	head	kuy
+4.202	skull	jəʔeŋkyɛm
+4.203	brain	kyɛm
+4.204	face	hŋgɔs
+4.205	forehead	btɨʔ
+4.207	jaw	jaŋkwɛ̃ʔ
+4.208	cheek	mɛ̃ŋ
+4.209	chin	jaŋkwɛ̃ʔ
+4.21	eye	mɛ̃t
+4.212	eyebrow	cymɨ̃y
+4.213	eyelid	hoʔmɛ̃t
+4.214	eyelash	sɔkmɛ̃t
+4.215	blink	kilep
+4.22	ear	hntəŋ
+4.221	earlobe	haleʔhntəŋ
+4.222	earwax	ʔachntəŋ
+4.23	nose	mɔ̃h
+4.231	nostril	daraŋmɔ̃h
+4.232	mucus (nasal)	biʔhawar
+4.24	mouth	hɑɲ
+4.241	beak	paroh
+4.25	lip	hoʔhɑɲ
+4.26	tongue	latek
+4.27	tooth	lmũɲ
+4.271	gums	saclmũɲ
+4.272	molartooth	taŋgəm
+4.28	neck	lŋɛ̃ʔ
+4.281	nape of neck	taŋkɔk
+4.29	throat	cnroŋ
+4.3	shoulder	bahoʔ
+4.301	shoulderblade	jəʔeŋbahoʔ
+4.302	collarbone	jʔeŋgaloŋ
+4.312	armpit	ladaʔ
+4.32	elbow	knɨ̃ŋ
+4.321	wrist	raŋɛ̃l
+4.33	hand	cɑs
+4.331	palm of hand	tapakcɑs
+4.34	finger	wɔŋcɑs
+4.342	thumb	bəʔcɑs
+4.344	fingernail	skoʔ
+4.345	claw	skoʔ
+4.351	thigh	bləʔ
+4.352	calf of leg	baŋkoʔkəhɛr
+4.36	knee	ktoŋ
+4.37	foot	cɑn
+4.371	ankle	kteŋcɑn
+4.372	heel	lol
+4.374	footprint	tel
+4.38	toe	wɔŋcɑn
+4.392	wing	prac
+4.393	feather	sɔk
+4.4	chest	cnʔɑh
+4.41	breast (of woman)	buʔ
+4.42	udder	buʔ
+4.43	navel	sksiak
+4.44	heart	kaɲɛ̃s
+4.441	lung	sop
+4.45	liver	ros
+4.451	kidney	ploʔgal
+4.452	spleen	koh
+4.452	spleen	plih
+4.46	stomach	ʔaccəŋ
+4.461	intestines, guts	ʔacwar
+4.462	waist	gal
+4.463	hip	wɛ̃ŋ
+4.464	buttocks	wɛ̃ŋ
+4.47	womb	sɔm
+4.49	testicle	hntap
+4.492	penis	lɑʔ
+4.51	breathe, breath	snjɨk
+4.52	yawn, gape	hyhuay
+4.521	hiccough	madɨk
+4.53	cough	batok
+4.54	sneeze	bsin
+4.55	perspire	brahɔc
+4.56	spit	kbac
+4.57	vomit	kəʔ
+4.58	bite	kap
+4.59	lick	kɑl
+4.591	dribble	snjər
+4.61	sleep	ʔɑm
+4.612	snore	snər
+4.62	dream	mamɔ̃ɲ
+4.63	wake up	tas
+4.63	wake up	həy
+4.64	break wind	pəhəm
+4.65	urinate	kmnɑ̃m
+4.66	defecate	cicɒh
+4.67	have sexual intercourse	ncɛ̃n
+4.68	shiver	craŋ
+4.69	bathe	mamũh
+4.71	beget (of father)	biŋkoʔ
+4.72	born (to be)	kateʔ
+4.73	pregnant	baŋkoʔ
+4.74	live, living, life	gɔs
+4.75	die, dead	kbɨs
+4.751	drowned	gɔt
+4.76	kill	kibɨs
+4.77	corpse	baŋkay
+4.78	bury (the dead)	bɑy
+4.79	grave, tomb	kbur
+4.81	strong, mighty, powerful	kwat
+4.81	strong, mighty, powerful	hanal
+4.83	well, health	sihat
+4.84	sick, sickness	dən
+4.841	fever	ndən
+4.842	goiter	gok
+4.843	cold (catarrh)	hawar
+4.85	wound, sore	prus
+4.852	bruise	lmũh
+4.853	swelling	swah
+4.856	boil (noun)	knɛ̃r
+4.858	scar	parut
+4.858	scar	malɔ̃c
+4.86	cure, heal	blaʔ
+4.88	medicine, drug	ʔubat
+4.91	tired, weary	jreh
+4.912	rest	rehat
+4.92	lazy	malas
+4.92	lazy	kəʔɔy
+4.93	bald	plhɔc
+4.95	deaf	pkak
+4.96	mute	pnel
+4.97	blind	butãʔ
+4.98	intoxicated	bəl
+4.99	naked, bare	kitŋɑ̃c
+5.11	eat	cəʔ
+5.121	cooked	ncen
+5.122	raw	gɔs
+5.123	ripe	sak
+5.125	rotten	soʔ
+5.13	drink	ʔuh
+5.14	hunger	hŋkɔŋ
+5.15	thirst	gɑt
+5.16	suck	ɲɔ̃k
+5.18	chew	raɲ
+5.181	swallow	gɔt
+5.19	choke	gasak
+5.21	cook	pncen
+5.21	cook	kirə
+5.22	boil (vb)	ʔək
+5.22	boil (vb)	sbus
+5.23	roast, fry	cwəs
+5.23	roast, fry	paŋaŋ
+5.23	roast, fry	cway
+5.26	pot, cooking vessel	priyok
+5.27	kettle	kuniʔ
+5.27	kettle	crɛk
+5.31	dish	piŋan
+5.32	plate	piŋan
+5.33	bowl	baŋkok
+5.34	pitcher, jug	kulehbəʔ
+5.35	cup, drinking vessel	kuleh
+5.36	saucer	piŋan
+5.37	spoon	suduʔ
+5.39	fork	suduʔ
+5.391	tongs	kntap
+5.46	peel	pok
+5.47	sieve, strain	tapis
+5.48	scrape	kɔs
+5.49	stir, mix	gudɛr
+5.51	bread	roti
+5.54	knead	cpit
+5.55	meal, flour	tpuŋ
+5.56	crush, grind	piret
+5.58	mortar	gul
+5.59	pestle	pniret
+5.61	meat	ʔɑy
+5.66	bean	kacaŋ
+5.71	fruit	ploʔ
+5.712	bunch	nɑ̃ysiat
+5.79	oil	miɲɛ̃k
+5.791	grease, fat	ləʔos
+5.81	salt	garam
+5.821	chili pepper	pigoʔ
+5.84	honey	cɑh
+5.85	sugar	gulə
+5.86	milk (noun)	tɑmbuʔ
+5.86	milk (noun)	susuʔ
+5.9	beverage, drink	tɑm
+5.97	egg	ktuət
+6.11	put on (clothes)	slɔk
+6.12	clothing, clothes	bajuʔ
+6.21	cloth	kayen
+6.28	fur	sɔk
+6.33	weave	teŋ
+6.35	sew	jayit
+6.36	needle	jarom
+6.38	thread	taliʔmnãŋ
+6.39	dye	clup
+6.44	shirt	bajuʔ
+6.46	skirt	bajuʔ
+6.48	trousers	swɑl
+6.49	stocking, sock	tɔken
+6.51	shoe	kasut
+6.71	ornament, adornment	cnũr
+6.73	ring (for finger)	cincan
+6.74	bracelet	manɛ̃k
+6.75	necklace	manɛ̃k
+6.76	bead	manɛ̃k
+6.77	earring	ʔanteŋ
+6.78	headband, headdress	tiŋkuy
+6.81	handkerchief, rag	bicaʔ
+6.82	towel	kayentɔlah
+6.91	comb	sikat
+6.94	ointment	ʔubatsapuʔ
+6.95	soap	sabun
+7.11	dwell, live	ŋɔk
+7.12	house	hyãʔ
+7.21	room	bilik
+7.22	door, gate	pintuʔ
+7.221	doorpost, jamb	jəhũʔpintuʔ
+7.24	key	kunciʔ
+7.26	floor	lantay
+7.27	wall	deneŋ
+7.37	ladder	raŋkal
+7.421	pillow	tiŋkol
+7.422	blanket	simɨ̃t
+7.43	chair	kusiʔ
+7.44	table	mɛjə
+7.45	lamp, torch	tarəŋ
+7.51	roof	hapɔy
+7.52	thatch	hapɔy
+7.53	ridgepole	ŋɑlɑŋ
+7.54	rafter	cnraŋ
+7.55	beam	bnul
+7.55	beam	ŋɑlɑŋ
+7.56	post, pole	tiaŋ
+7.56	post, pole	togoh
+7.57	board	papɑn
+8.12	field (for cultivation)	pɨl
+8.16	fence	pagɑr
+8.22	dig	bɑy
+8.27	rake	knwãs
+8.31	sow	sɔk
+8.311	seed	kyaŋ
+8.47	maize, corn	jagoŋ
+8.48	rice	mɑ̃m
+8.531	plant (vb)	ptəm
+8.54	root	jəʔes
+8.55	branch	yoh
+8.56	leaf	haleʔ
+8.57	flower	bkɑw
+8.6	tree	jəhũʔ
+8.67	vine	jer
+8.68	tobacco	makaw
+8.69	smoke (tobacco)	njɔt
+8.72	tree stump	tuŋul
+8.73	tree trunk	krɨŋ
+8.74	forked branch	cabaŋjəhũʔ
+8.75	bark	ktəʔ
+8.76	sap	gtah
+8.76	sap	tarəŋ
+8.82	coconut	ploʔɲũr
+8.84	banana tree	tyək
+8.91	sweet potato	silaʔ
+8.912	yam	taləs
+8.92	tapioca, manioc, cassava	galə
+8.93	gourd	labuʔ
+8.931	pumpkin, squash	labuʔ
+8.94	bamboo	ləw
+8.941	sugar cane	buay
+8.96	fish poison (root)	jnũʔ
+8.98	mushroom	tis
+9.11	do, make	buat
+9.12	work	kjaʔ
+9.14	bend	luŋkor
+9.15	fold	spək
+9.15	fold	lipək
+9.15	fold	lipat
+9.16	tie, bind	siat
+9.161	untie	pisur
+9.18	chain	rantay
+9.19	rope, cord	taliʔ
+9.21	strike (hit, beat)	tapɑt
+9.21	strike (hit, beat)	hmat
+9.211	pound with fist	tmok
+9.22	cut	kac
+9.221	cut down	cəh
+9.222	chop, hew	tap
+9.223	stab	cɔk
+9.23	knife	waɲ
+9.24	scissors, shears	waɲcukur
+9.25	ax	kapɑk
+9.251	adze	biyoŋ
+9.26	break	bikɑh
+9.261	broken	jabuc
+9.27	split	blɑh
+9.28	tear	cɛs
+9.29	flay, skin	pok
+9.31	rub, wipe	sər
+9.33	pull	tarek
+9.34	spread out	buəl
+9.341	hang up	saŋkut
+9.342	press	tkan
+9.343	squeeze, wring	hapit
+9.343	squeeze, wring	wɛ̃t
+9.35	pour	tuh
+9.36	wash	soc
+9.37	sweep	kwãs
+9.44	build	buat
+9.44	build	kɨŋ
+9.46	bore	gurɛk
+9.461	hollow out	puŋ
+9.48	saw	gaji
+9.5	nail	bsiʔpakuʔ
+9.56	glue	gam
+9.64	gold	mɛ̃s
+9.67	iron	bsiʔ
+9.73	clay	teʔkunĩŋ
+9.75	weave, plait	teŋ
+9.76	basket	loŋ
+9.77	mat	nɨ̃s
+9.791	fan (vb)	pək
+10.11	move	ʔaleh
+10.612	carry-in-hand	cadom
+10.12	turn over	paleŋ
+10.13	turn around	pusiŋ
+10.14	wind, wrap	sbuʔ
+10.15	roll	guliŋ
+10.16	drop (vb)	gɨs
+10.17	twist	hwɛ̃t
+10.21	rise	wək
+10.22	raise, lift	piwək
+10.23	fall	ras
+10.25	throw	kaloŋ
+10.252	catch (ball)	cap
+10.26	shake	guncaŋ
+10.32	flow	wət
+10.33	sink	gɔt
+10.34	float	haɲũt
+10.34	float	wət
+10.35	swim	bnɛ̃ŋ
+10.351	dive	kiram
+10.351	dive	hlam
+10.352	splash	prɑy
+10.37	fly (vb)	kapɔy
+10.38	blow	pət
+10.41	creep, crawl	raŋkak
+10.413	crouch	teŋɛʔ
+10.42	slide, slip	tiyɛ̃s
+10.43	jump, leap	lompat
+10.431	kick	sipak
+10.44	dance	leŋseŋ
+10.45	walk	cɨpbaləycɑn
+10.46	run	psət
+10.47	go	cɨp
+10.471	go up	lwəc
+10.472	climb	lwəc
+10.473	go down	sɑr
+10.474	go out	hus
+10.48	come	təs
+10.481	come back	balek
+10.49	go away, depart	cɨp
+10.491	disappear	sawər
+10.51	flee	dəʔ
+10.52	follow	kuc
+10.52	follow	dias
+10.53	pursue	halaw
+10.55	reach, arrive	təs
+10.55	reach, arrive	tibaʔ
+10.56	approach	jisəʔ
+10.57	enter	hɨr
+10.61	carry (bear)	yey
+10.612	carry-in-hand	gnam
+10.613	carry-on-shoulder	taŋɔŋ
+10.614	carry-on-head	tol
+10.615	carry-underarm	raŋem
+10.62	bring	yey
+10.65	drive	yey
+10.67	push, shove	tolak
+10.71	road	lboh
+10.72	path	baləy
+10.72	path	sbəʔ
+10.74	bridge	titiʔ
+10.81	ship	kapal
+10.84	raft	rakit
+10.92	land (vb)	kɨt
+11.11	have	wəʔ
+11.13	take	kit
+11.13	take	kapoc
+11.15	hold	gɔy
+11.16	get, obtain	kɔm
+11.18	thing	mnə
+11.21	give	ʔak
+11.22	give back	piwek
+11.31	seek, look for	koʔ
+11.32	find	yow
+11.43	money	dwet
+11.54	avaricious, stingy	knjet
+11.61	lend	pnjam
+11.62	borrow	pnjam
+11.64	debt	hutɑŋ
+11.65	pay (vb)	bayar
+11.78	wages	gaji
+11.81	buy	bliʔ
+11.82	sell	jwal
+11.83	trade, barter	tukar
+11.85	market (place)	pasar
+11.86	store, shop	kday
+11.87	price	sgaʔ
+11.88	dear (costly, expensive)	mɛhɛ̃l
+11.89	cheap	murɑh
+11.91	share (distribute)	ʔageh
+12.11	place	mnɑ̃ʔ
+12.12	put	boh
+12.12	put	pilɑh
+12.13	sit	ŋɔk
+12.14	lie down	pklək
+12.15	stand	hɲaɲ
+12.16	remain, stay	tyən
+12.21	collect, gather	cɛp
+12.21	collect, gather	bɑh
+12.212	pick up	kotep
+12.212	pick up	ckɑt
+12.213	pile up	tamon
+12.22	join, unite	samoŋ
+12.23	separate	cray
+12.24	open	bukɑʔ
+12.24	open	buŋkãr
+12.25	shut, close	tutop
+12.26	cover	tuduŋ
+12.27	hide, conceal	pdul
+12.27	hide, conceal	pəl
+12.31	high	tiŋgiʔ
+12.32	low	katɛʔ
+12.33	top	jujuŋ
+12.33	top	kuy
+12.34	bottom	kit
+12.35	end	saɲ
+12.352	pointed	sɨŋ
+12.353	edge	tŋboŋ
+12.36	side	nilaŋ
+12.36	side	tber
+12.37	middle, center	pnwɑʔ
+12.41	right (side)	təm
+12.42	left (side)	yal
+12.43	near (adv)	dwah
+12.44	far (adv)	con
+12.53	grow	gɔs
+12.53	grow	lɔr
+12.55	large, big	mnɨ̃ʔ
+12.56	small, little	hiʔɔ̃y
+12.57	long	jsɨŋ
+12.58	tall	tiŋgiʔ
+12.59	short	cinhũɛ̃t
+12.61	wide, broad	mnɨ̃ʔ
+12.62	narrow	gac
+12.63	thick (in dimension)	tbəl
+12.65	thin (in dimension)	stal
+12.67	deep	dalam
+12.73	straight	dŋũk
+12.74	crooked	klawer
+12.81	round	twaw
+12.85	hole	daraŋ
+12.85	hole	ʔet
+13.1	one	spuloh
+13.101	eleven	sblas
+13.102	twelve	duwəblas
+13.103	fifteen	limãʔblas
+13.104	twenty	duwəpuloh
+13.105	hundred	satus
+13.106	thousand	sibu
+13.107	count	bilaŋ
+13.14	every, all	hnũn
+13.15	much, many	bsoʔ
+13.16	more	lbeh
+13.17	little (quantity), few	kanɛ̃t
+13.18	enough	cukup
+13.181	some	dɨl
+13.21	full	bək
+13.33	alone, only	ŋɑ̃c
+13.34	first	cicoʔləy
+13.35	last	ɲudah
+13.36	second	kaber
+13.37	pair	pasaŋ
+13.38	two times	bersɑn
+13.42	third	kapɛt
+13.44	three times	pɛtsɑn
+14.13	new	rɛʔ
+14.15	old	badɔn
+14.18	now	nidih
+14.19	immediately	lər
+14.21	swift, fast, quick	cpat
+14.21	swift, fast, quick	law
+14.22	slow	dmɨ̃y
+14.24	retard, delay	lambat
+14.28	cease, stop	bntiʔ
+14.29	ready	siap
+14.31	always	slaloʔ
+14.33	sometimes	kadaŋkadaŋ
+14.331	soon	heʔnnəŋ
+14.332	long-time (for a)	nəŋ
+14.34	never	həʔswɑh
+14.35	again	wel
+14.41	day	ktɔʔ
+14.42	night	btom
+14.43	dawn	tnrɨʔ
+14.44	morning	tnrɨʔ
+14.45	noon, midday	pnwɑʔnatɔʔ
+14.451	afternoon	kəs
+14.46	evening	kəs
+14.47	today	ktɔʔdaʔ
+14.48	tomorrow	hndɑʔ
+14.481	day-after-tomorrow	biruylaŋ
+14.49	yesterday	didɑʔ
+14.491	day-before-yesterday	biruydih
+14.51	hour	nijam
+14.53	clock, timepiece	jam
+14.61	week	biŋuʔ
+14.62	Sunday	ktɔʔʔahat
+14.63	Monday	ktɔʔsnɛ̃n
+14.64	Tuesday	ktɔʔpkan
+14.65	Wednesday	ktɔʔrabu
+14.66	Thursday	ktɔʔhamɛ̃s
+14.67	Friday	ktɔʔjumãhãn
+14.68	Saturday	ktɔʔsatuʔ
+14.71	month	kcɛʔ
+14.73	year	thun
+14.78	season	thun
+15.212	sniff	haloŋ
+15.212	sniff	ʔɔ̃ɲ
+15.22	smell (vb trans)	ʔɔ̃ɲ
+15.25	fragrant, good smelling	səʔɔm
+15.26	stinking, bad smelling	haʔũt
+15.35	sweet	gəhɛt
+15.36	salty	ptɔ̃t
+15.37	bitter	kdak
+15.38	acid, sour	pcəs
+15.39	brackish	haɲĩr
+15.41	hear	kjəŋ
+15.42	listen	hmãŋ
+15.44	sound, noise	rɔŋ
+15.45	loud	ktaʔ
+15.51	see	yow
+15.52	look, look at	daŋ
+15.55	show	pidaŋ
+15.57	bright	cnhəy
+15.61	color	wanãʔ
+15.62	light (in color)	jaŋhəy
+15.63	dark (in color)	skuy
+15.64	white	puteh
+15.65	black	səʔɛ̃ŋ
+15.66	red	swət
+15.67	blue	blyãk
+15.68	green	blwəɲ
+15.68	green	hijaw
+15.69	yellow	kunĩŋ
+15.69	yellow	tmagaʔ
+15.71	touch	cwɛ̃ŋ
+15.712	pinch	kutɛ̃t
+15.72	feel	tpəʔ
+15.74	hard	cgih
+15.75	soft	skɔc
+15.75	soft	lmɔ̃n
+15.76	rough	kasar
+15.77	smooth	sluc
+15.78	sharp	cbɨt
+15.78	sharp	lut
+15.79	blunt, dull	həʔcnbɨt
+15.81	heavy	ɲũt
+15.81	heavy	lbat
+15.82	light (in weight)	hayoŋ
+15.83	wet, damp	məʔɑ̃c
+15.84	dry	kriŋ
+15.85	hot	bɨt
+15.851	warm	kʔəc
+15.86	cold	sdɛc
+15.87	clean	bayek
+15.88	dirty, soiled	kamãh
+15.89	wrinkled	kusɛ̃y
+16.11	soul, spirit	lwɑy
+16.15	surprised, astonished	kaɲɨ̃s
+16.18	good fortune, luck	nasip
+16.18	good fortune, luck	ʔuntuŋ
+16.23	joyful, glad, happy	pnmɛ̃n
+16.23	joyful, glad, happy	kŋraŋ
+16.25	laugh	glɨk
+16.251	smile	sɲɔ̃m
+16.26	play	nihɑʔ
+16.27	love	sayaŋ
+16.3	embrace	kbɔt
+16.31	pain	pdih
+16.33	anxiety, worry	həʔtngəp
+16.34	regret, be sorry	was
+16.37	cry, weep	njəm
+16.38	tear (noun)	tɑmmɛ̃t
+16.39	groan	hĩʔ
+16.41	hate	bnciʔ
+16.42	anger	mɛ̃tbisiŋ
+16.44	envy, jealousy	mksɛk
+16.52	brave	branĩʔ
+16.62	desire, want	mɛ̃ʔ
+16.622	choose	pilih
+16.63	hope	harapros
+16.66	true	ləy
+16.67	lie, tell lies	pryɑʔ
+16.71	good	bayek
+16.72	bad	həʔmayek
+16.73	right, correct	ləy
+16.74	wrong	həʔmtol
+16.77	mistake, error	lac
+16.81	beautiful	bayek
+16.82	ugly	jabuc
+16.84	clever	panãy
+17.13	think (= reflect)	wɨ̃t
+17.13	think (= reflect)	peker
+17.14	think (= be of the opinion)	bət
+17.15	believe	cayaʔ
+17.16	understand	harən
+17.17	know	harən
+17.17	know	knɛ̃l
+17.171	guess	barat
+17.171	guess	kaʔah
+17.172	imitate	ʔojok
+17.19	idea, notion	ʔakal
+17.24	learn	blajar
+17.242	study	blajar
+17.25	teach	blajar
+17.27	teacher	ciguʔ
+17.28	school	kolah
+17.31	remember	wɨ̃t
+17.32	forget	həʔnwɨ̃t
+17.32	forget	lupaʔ
+17.46	easy	snɛ̃ŋ
+17.47	difficult	susɑh
+17.47	difficult	payɑh
+17.48	try, attempt	patuʔ
+17.52	because	sbap
+17.53	if	mɛ̃n
+17.53	if	kalaw
+17.54	or	ʔantaw
+17.55	yes, affirmative	ʔə̃ʔ
+17.61	how?	cin
+17.62	how many?	bapaʔ
+17.63	how much?	bapaʔ
+17.64	what?	coʔ
+17.65	when?	pon
+17.66	where?	hɑ̃n
+17.67	which?	hɑ̃n
+17.68	who?	biʔʔay
+17.69	why?	coʔʔay
+18.11	voice	kluŋ
+18.12	sing	nəhaŋ
+18.13	shout, cry out	hlawat
+18.13	shout, cry out	kanteŋ
+18.15	whisper	kisɛh
+18.17	whistle	hwchwac
+18.18	shriek, screech	karaw
+18.19	howl	njəm
+18.21	speak, talk	kluŋ
+18.21	speak, talk	pagak
+18.211	stutter, stammer	gagap
+18.22	say	bət
+18.22	say	tlɛʔ
+18.221	tell story	citərə
+18.23	silent (be)	sayɔk
+18.28	name	coʔ
+18.31	ask (question, inquire)	taɲɛ̃ʔ
+18.32	answer	tamɑh
+18.32	answer	jawap
+18.33	admit, confess	saŋoʔ
+18.35	ask, request	haguʔ
+18.39	rebuke, scold	caɲ
+18.41	call (=summon)	hoh
+18.42	call (=name)	pncoʔ
+18.44	threaten	krɲɛ̃s
+18.51	write	tulis
+18.56	paper	ktas
+18.57	pen	pensel
+18.61	book	bukuʔ
+18.71	flute	sunɛ̃ʔ
+19.15	city, town	pkan
+19.16	village	kampoŋ
+19.21	people (populace)	briʔ
+19.25	staff, walking stick	tuŋkat
+19.32	king, ruler	rajaʔ
+19.45	command, order	ʔɔr
+19.47	let, permit	ʔak
+19.51	friend, companion	kawan
+19.55	stranger	gop
+19.58	help, aid	toloŋ
+19.61	custom	ʔadat
+19.65	meet	yow
+20.11	fight (vb)	lawan
+20.13	war, battle	praŋ
+20.15	army	ʔasəkar
+20.17	soldier	ʔasəkar
+20.21	weapons, arms	ɲataʔ
+20.24	bow	lɔc
+20.25	arrow	panɛ̃h
+20.26	spear	ʔɑt
+20.27	sword	kres
+20.28	gun, cannon	bdil
+20.52	fishhook	mɛ̃tkayel
+20.53	fishing line	taliʔtaŋsiʔ
+20.54	fishnet	jareŋ
+20.55	fish trap	sareŋ
+20.55	fish trap	twar
+20.56	bait	ʔumpan
+20.61	hunt	pndap
+20.62	shoot	tembaʔ
+20.63	miss (target)	bəhac
+20.63	miss (target)	lac
+21.51	steal	maleŋ

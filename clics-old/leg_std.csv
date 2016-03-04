@@ -1,0 +1,1097 @@
+@classification: Mascoian
+@ids-name: Lengua_Phonemic
+@iso: leg
+@language: Lengua
+@size: 1090
+@source: ids
+@variety: std
+1.1	world	kyisonelwanmeŋkaɬa
+1.21	earth, land	ɬapup
+1.212	earth=ground, soil	ɬapup
+1.213	dust	ɬapupanik
+1.214	mud	yilpa
+1.215	sand	yinkamith
+1.22	mountain, hill	inkyiɬe
+1.23	plain, field	paiheɬapup
+1.24	valley	yipwatiam
+1.25	island	ikhaiamɬapup
+1.27	shore	takaɬityiŋmin
+1.31	water	yiŋmin
+1.322	calm (of sea)	kyinmanteyi
+1.324	foam	ikyakmopaia
+1.33	lake	ikyakyeŋwaiam
+1.341	lagoon	saŋye
+1.343	headland, point	nataklawatsam
+1.35	wave	elyakyahaiam
+1.36	river, stream, brook	watsam
+1.36	river, stream, brook	elwata
+1.362	whirlpool	waiŋkyikmekyiŋmin
+1.37	spring, well	yamilkyit
+1.38	swamp	saŋye
+1.41	woods, forest	nathma
+1.42	tree (cf 08.600)	yamit
+1.43	wood	yantesiksik
+1.44	stone, rock	mitaimaŋ
+1.45	earthquake	ikyohekaɬapup
+1.51	sky	netin
+1.52	sun	him
+1.53	moon	piltin
+1.54	star	apyowa
+1.55	lightning	kilyinma
+1.56	thunder	takha
+1.57	lightning (as striking)	kilyinmukme
+1.58	storm	kaihokankoithkyihaiam
+1.59	rainbow	pimhit
+1.61	light (noun)	elsiye
+1.62	darkness	yaktesčamathma
+1.63	shade, shadow	pišiši
+1.64	dew	yalyi
+1.72	wind	apyiam
+1.72	wind	ithkyahaiam
+1.73	cloud	yiphopaiya
+1.74	fog	tiyametin
+1.75	rain (noun)	mameyi
+1.77	ice	yiamapuk
+1.81	fire	taɬa
+1.82	flame (noun)	eyalewe
+1.83	smoke (noun)	etin
+1.84	ashes	tahap
+1.841	embers	atith
+1.851	burn (vb trans)	watneyi
+1.852	burn (vb intrans)	mitkyi
+1.86	light, kindle, ignite	watneyi
+1.861	extinguish	saponasči
+1.87	match (noun)	taɬa
+1.88	firewood	yantapuk
+1.89	charcoal	atith
+2.1	person, human being	enɬit
+2.21	man (vs. woman)	enɬit
+2.22	woman	kilana
+2.23	male	kilnawa
+2.24	female	kilwana
+2.25	boy	wukmaak
+2.251	young man (adolescent)	wukmaak
+2.26	girl	kilanaetkuk
+2.261	young woman (adolescent)	kilanaetkuk
+2.27	child	sakyaa
+2.28	infant, baby	sakyaa
+2.31	husband	tawa
+2.32	wife	tawa
+2.33	marry	kilyamhapkyi
+2.34	marriage, wedding	selyamhapma
+2.341	divorce	yamasmatawa
+2.35	father	yapam
+2.36	mother	inkyin
+2.37	parents	yipmaik
+2.38	married man	enɬitikhaaptawa
+2.39	married woman	kilanaikhaatawa
+2.41	son	apkyitkya
+2.42	daughter	apkyitkya
+2.42	daughter	etkya
+2.43	offspring (son or daughter)	apkyitkya
+2.444	older brother	yipma
+2.445	younger brother	yaɬiŋ
+2.454	older sister	yaɬa
+2.455	younger sister	yaɬiŋ
+2.458	twins	tetekyak
+2.46	grandfather	yata
+2.461	old man	kilapapaiyi
+2.47	grandmother	yama
+2.471	old woman	kilapaiyi
+2.48	grandson	tawin
+2.49	granddaughter	tawin
+2.511	mother's brother	yapka
+2.512	father's brother	yaha
+2.521	mother's sister	moinkyin
+2.522	father's sister	kyatim
+2.53	nephew	kyitkyi
+2.55	cousin	yaɬiŋ
+2.56	ancestors	yeheŋkyaa
+2.57	descendants	towanantamin
+2.61	father-in-law (of a man)	ipyata
+2.611	father-in-law (of a woman)	ipyata
+2.62	mother-in-law (of a man)	ipyamum
+2.621	mother-in-law (of a woman)	ipyamum
+2.63	son-in-law (of a man)	iphaiyim
+2.631	son-in-law (of a woman)	iphaiyim
+2.64	daughter-in-law (of a man)	ipyata
+2.641	daughter-in-law (of a woman)	ipyamum
+2.71	stepfather	yamyapam
+2.72	stepmother	yaminkyin
+2.73	stepson	yamkyitkyi
+2.74	stepdaughter	yamkyitkyi
+2.75	orphan	hkuk
+2.76	widow	ɬintampe
+2.77	widower	ɬintampe
+2.81	relatives, kinsmen	namokkuk
+2.82	family	aŋyithpanma
+2.91	I	koo
+2.92	you (singular)	ɬiyip
+2.92	you (singular)	ɬiyi
+2.94	we	niŋkoo
+2.95	you (plural)	kyelɬiŋkyip
+3.11	animal	aksaknohak
+3.12	male (adj)	kilnowu
+3.13	female (adj)	kilwana
+3.15	livestock	ninnaktošama
+3.16	pasture	paat
+3.18	herdsman	takmilčisčamanipkyesik
+3.19	stable, stall	yatnaɬiŋapɬankuk
+3.21	bull	kilnowu
+3.22	ox	yankilwana
+3.24	calf	etkuk
+3.25	sheep	nipkyesik
+3.26	ram	nipkyesikapkilnowu
+3.28	ewe	nipkyesikapkilwana
+3.29	lamb	nipkyesikapkyitkuk
+3.32	boar	yatapomapapkilnowu
+3.34	sow	yatapomapapkilwana
+3.35	pig	yatapomap
+3.36	goat	yatai
+3.37	he-goat	yataiapkilnowu
+3.38	kid	yataiapkyitkuk
+3.41	horse (equine)	yatnaɬiŋ
+3.42	stallion	yatnaɬiŋapkilnowu
+3.44	mare	yatnaɬiŋapkilwana
+3.45	foal, colt	yatnaɬiŋapkyitkuk
+3.46	ass, donkey	yamelyowahaikuk
+3.47	mule	elyowahaikuk
+3.5	fowl	tataa
+3.52	cock, rooster	tataakilnowu
+3.54	hen	tataa
+3.55	chicken	tataaetkuk
+3.56	goose	yammittiktiŋ
+3.57	duck	mittiktiŋ
+3.58	nest	nataaɬankuk
+3.581	bird	nata
+3.583	heron	pana
+3.584	eagle	nataikpaisiam
+3.585	hawk	me'wa
+3.586	vulture	mama
+3.591	bat	mepop
+3.592	parrot	taawe
+3.593	crow	kala
+3.594	dove	koniŋmaktik
+3.596	owl	sowaiyi
+3.61	dog	simhiŋ
+3.614	rabbit	tomhaŋ
+3.62	cat	kames
+3.622	opossum	pokwe
+3.63	mouse, rat	pomoo
+3.65	fish	kilasma
+3.652	fin (dorsal)	awa
+3.653	fishscale	impehik
+3.655	shell	ɬankuk
+3.665	freshwater eel	lolay
+3.71	wolf	wawu
+3.72	lion	mewa
+3.74	fox	yinmaliŋ
+3.75	deer	popyit
+3.76	monkey	kilyiniet
+3.81	insect	askuk
+3.811	louse	petim
+3.812	nit (louse egg)	petimapuk
+3.813	flea	maliŋaskuk
+3.814	centipede	ɬamokmek
+3.815	scorpion	yittaha
+3.816	cockroach	pikma
+3.817	ant	topili
+3.818	spider	yowaikyi
+3.819	spider web	yowaikyiɬankuk
+3.82	bee	yohena
+3.821	beeswax	papa
+3.822	beehive	yamyohenaaɬankuk
+3.823	wasp	kinawit
+3.823	wasp	maha
+3.83	fly	yapa
+3.831	sandfly (midge), gnat	yinsinsik
+3.832	mosquito	paiyi
+3.84	worm	koniŋmaktikapto
+3.85	snake	yewa
+3.91	firefly	tenakyak
+3.92	butterfly	seliklik
+3.93	grasshopper	sowa
+3.94	snail	akpoŋ
+3.95	frog	napniktiŋ
+3.96	lizard	sittaha
+3.97	crocodile, alligator	yateyim
+3.98	turtle	yatnata
+4.11	body	yokɬoho
+4.12	skin, hide	empehik
+4.13	flesh	apitik
+4.14	hair (head)	wa
+4.142	beard	iŋwaiŋatoŋ
+4.144	body hair	wa
+4.145	pubic hair	wa
+4.146	dandruff	athčamukpatik
+4.15	blood	ema
+4.151	vein, artery	hahak
+4.16	bone	ithčipuk
+4.162	rib	hak
+4.17	horn	kyipitik
+4.18	tail	epakyik
+4.19	back	akpuk
+4.191	spine	akpukithčipuk
+4.2	head	patik
+4.202	skull	patikithčipuk
+4.203	brain	apaŋkuk
+4.204	face	nat
+4.205	forehead	paihakɬanat
+4.207	jaw	maɬimpinikithčipuk
+4.208	cheek	maɬimpinik
+4.209	chin	koniŋatoŋ
+4.21	eye	aktik
+4.212	eyebrow	tikwahan
+4.213	eyelid	aktikimpehik
+4.214	eyelash	awaaktik
+4.215	blink	kilitsapa
+4.22	ear	haikuk
+4.222	earwax	papa
+4.23	nose	waihik
+4.231	nostril	nikhawaihik
+4.232	mucus (nasal)	yithwala
+4.24	mouth	atoŋ
+4.241	beak	maak
+4.25	lip	atoŋimpehik
+4.26	tongue	athkuk
+4.27	tooth	maak
+4.271	gums	ahokmaak
+4.272	molartooth	maak
+4.28	neck	yispuk
+4.281	nape of neck	nnyetik
+4.29	throat	naksapmakɬa
+4.3	shoulder	nltana
+4.301	shoulderblade	pittik
+4.302	collarbone	pithpathankuk
+4.31	arm	ektoŋ
+4.312	armpit	kanyama
+4.32	elbow	piŋkittik
+4.321	wrist	mik
+4.33	hand	mik
+4.331	palm of hand	nokathwamik
+4.34	finger	aphehik
+4.342	thumb	yaiikɬaaphehik
+4.344	fingernail	ikmopaiaaphehik
+4.345	claw	aphehik
+4.35	leg	ithčipuk
+4.351	thigh	yowuk
+4.352	calf of leg	ithčipukapitik
+4.36	knee	tapnik
+4.37	foot	minik
+4.371	ankle	ikyitetaklaminik
+4.372	heel	pahak
+4.374	footprint	tamnik
+4.38	toe	aphehik
+4.392	wing	ɬimpinik
+4.393	feather	wa
+4.4	chest	kyinyik
+4.41	breast (of woman)	nime
+4.412	nipple, teat	nime
+4.42	udder	namankuk
+4.43	navel	tathna
+4.44	heart	wanneya
+4.441	lung	kohoy
+4.45	liver	hikhik
+4.451	kidney	elyakyeankuk
+4.452	spleen	simhiŋathkuk
+4.46	stomach	wukmo
+4.461	intestines, guts	nokathwa
+4.462	waist	nɬit
+4.463	hip	auhakyo
+4.464	buttocks	takla
+4.47	womb	tathnak
+4.49	testicle	pupuk
+4.492	penis	tiɬa
+4.51	breathe, breath	kyinnama
+4.52	yawn, gape	maiheha
+4.521	hiccough	yapesči
+4.53	cough	kyitnakɬeyi
+4.54	sneeze	kyithaiyi
+4.55	perspire	yimis
+4.56	spit	kilpatseyiyimanaŋ
+4.57	vomit	yikɬeyi
+4.58	bite	takɬeyi
+4.59	lick	kilyakmilkyi
+4.591	dribble	tipkyiyimanaŋ
+4.61	sleep	tinkyi
+4.612	snore	yithwankaiyi
+4.62	dream	witaiyiwanmaŋkama
+4.63	wake up	ɬatakaiyi
+4.64	break wind	ɬenčiktakla
+4.65	urinate	yisweyi
+4.66	defecate	yakneyi
+4.67	have sexual intercourse	minsokyi
+4.68	shiver	pithyiniŋkyi
+4.69	bathe	yakpasčiyiŋmin
+4.71	beget (of father)	timesčisčiloso
+4.72	born (to be)	tiyikme
+4.73	pregnant	loso
+4.732	conceive	timeloso
+4.74	live, living, life	yinnakteneŋyak
+4.75	die, dead	kyitsipkyi
+4.751	drowned	yiŋmininkyakhak
+4.76	kill	kyakhaiyi
+4.77	corpse	apak
+4.78	bury (the dead)	kyetowanyi
+4.79	grave, tomb	takhathpup
+4.81	strong, mighty, powerful	mehe
+4.82	weak	mekoyinnakte
+4.83	well, health	kaiheempehik
+4.84	sick, sickness	haɬethči
+4.841	fever	ateheempehik
+4.842	goiter	yipheyispuk
+4.843	cold (catarrh)	neknakɬama
+4.85	wound, sore	yinse
+4.852	bruise	yitneyikema
+4.853	swelling	yiphe
+4.854	itch	osekaiyi
+4.855	blister	kiltapahanaiyi
+4.856	boil (noun)	yiphe
+4.857	pus	kyawin
+4.858	scar	nanokyinse
+4.86	cure, heal	takmilčisčikme
+4.87	physician	panakteiŋyapam
+4.88	medicine, drug	panakte
+4.89	poison	panaktesiŋwaiya
+4.91	tired, weary	yampaiyi
+4.912	rest	kilokasčiyampaia
+4.93	bald	mekyiwa
+4.94	lame	yaktiyaha
+4.95	deaf	mlnyaithma
+4.96	mute	mekyipaiwa
+4.97	blind	mtaithma
+4.98	intoxicated	anmininkyakhak
+4.99	naked, bare	mekyiapawa
+5.11	eat	tokyi
+5.12	food	ninto
+5.121	cooked	makhitčisči
+5.122	raw	witik
+5.123	ripe	makhitkyi
+5.124	green, unripe	lapamko
+5.125	rotten	tahapkyi
+5.13	drink	yinči
+5.14	hunger	maik
+5.141	famine	maikelnapma
+5.15	thirst	himselnapma
+5.16	suck	petsisči
+5.18	chew	kyinsakkaiyi
+5.181	swallow	naksipkyi
+5.19	choke	kyipwukme
+5.21	cook	hanči
+5.22	boil (vb)	meɬiŋkisči
+5.23	roast, fry	yithnyekme
+5.24	bake	timeknamaɬik
+5.25	oven	maɬik
+5.26	pot, cooking vessel	soŋwaiŋkyi
+5.27	kettle	meɬiŋkisčamayiŋmin
+5.28	pan	soŋwaiŋkyi
+5.31	dish	aksakpaihe
+5.32	plate	aksakpaihe
+5.33	bowl	hopuku
+5.34	pitcher, jug	iŋhaikuk
+5.35	cup, drinking vessel	iŋhaikuk
+5.36	saucer	aksakpaiheetkuk
+5.37	spoon	ikwepto
+5.38	knife	sowu
+5.39	fork	kilyikɬakɬamaninto
+5.391	tongs	tathčisčama
+5.41	meal (a)	ninto
+5.42	breakfast	nintoathtoo
+5.43	lunch	nintoiŋyitsiksoikhim
+5.44	dinner	ninto
+5.45	supper	nintotathnam
+5.46	peel	likyiimpehik
+5.47	sieve, strain	kiliktiŋithneyi
+5.48	scrape	kilkyitkasči
+5.49	stir, mix	pathnakyi
+5.51	bread	yamkyelpasmaŋa
+5.53	dough	kyelpasmaŋaapwitik
+5.54	knead	pasmaŋkyi
+5.55	meal, flour	hotahap
+5.56	crush, grind	tikɬikyi
+5.57	mill	tikɬikɬama
+5.58	mortar	memoŋathwa
+5.59	pestle	tikɬikɬama
+5.61	meat	apitik
+5.64	soup, broth	iŋminata
+5.66	bean	kilaikyi
+5.7	potato	yampiheyi
+5.71	fruit	ikyithna
+5.77	nut	mokwa
+5.79	oil	pithmukiŋminik
+5.791	grease, fat	pithmuk
+5.81	salt	yasik
+5.82	pepper	yamnatikhik
+5.84	honey	yamyohena
+5.85	sugar	yampaatiŋminik
+5.86	milk (noun)	namankukiŋminik
+5.87	milk (vb)	kilyakhapkyinamankuk
+5.9	beverage, drink	niŋya
+5.92	wine	yamanmin
+5.93	beer	yamanmin
+5.94	fermented drink	anmin
+5.97	egg	apuk
+5.971	egg yolk	tataapukikyatiktama
+6.11	put on (clothes)	tathneyi
+6.12	clothing, clothes	apawa
+6.21	cloth	apawa
+6.22	wool	nipkyesikapwa
+6.24	cotton	yatepepe
+6.28	fur	awa
+6.29	leather	aksoempehik
+6.31	spin	nithpoŋkyi
+6.32	spindle	nithpoŋa
+6.33	weave	kilanaiyiapawa
+6.34	loom	apawaelanaiyi
+6.35	sew	yitnakyi
+6.36	needle	sokyitama
+6.37	awl	yaŋkathkatma
+6.38	thread	tama
+6.39	dye	yakmaŋkasčiiktaɬama
+6.41	cloak	niŋaklamathči
+6.411	poncho	niŋaklamathči
+6.42	woman's dress	inkilanaiktathnama
+6.43	coat	pehesčiamnetin
+6.44	shirt	tathnama
+6.45	collar	tathnamaapyispuk
+6.46	skirt	yakma
+6.57	belt, girdle	ninteteninɬit
+6.61	pocket	nahapa
+6.62	button	apawaapatnyaak
+6.63	pin	yansokyitama
+6.71	ornament, adornment	kyaikmasčisči
+6.74	bracelet	naktetmek
+6.75	necklace	momatik
+6.76	bead	lamum
+6.78	headband, headdress	pitkinmanat
+6.79	tattoo	taɬamo
+6.81	handkerchief, rag	titeyispukapkyitkuk
+6.91	comb	inkyetik
+6.921	braid	wankisči
+6.93	razor	yesesčamaatoŋ
+6.94	ointment	neltithmomathči
+6.95	soap	kiltithnaikyak
+6.96	mirror	nelanyonintaɬama
+7.11	dwell, live	heyi
+7.12	house	ɬankuk
+7.13	hut	tiŋmakyitkuk
+7.14	tent	apawakyelpakɬanma
+7.17	cookhouse	taɬaɬankuk
+7.18	meeting house	niŋaknaikikɬiɬa
+7.21	room	yakyesčiamtiŋma
+7.22	door, gate	atoŋ
+7.221	doorpost, jamb	atoŋimpehik
+7.24	key	kyitkisčamaatoŋ
+7.25	window	atoŋetkuk
+7.26	floor	tiŋmaapwathwuk
+7.27	wall	napakhatiŋma
+7.32	stove	sowutaɬa
+7.33	chimney	tiyipmakɬaetin
+7.37	ladder	amainetin
+7.42	bed	tahanama
+7.421	pillow	tiyaiam
+7.422	blanket	tahanamaapawa
+7.43	chair	tahanama
+7.44	table	yantesiksik
+7.45	lamp, torch	kyalewasčama
+7.46	candle	papataɬa
+7.47	shelf	yakhapmakɬaaksak
+7.51	roof	pakɬanma
+7.52	thatch	paatappakɬanma
+7.54	rafter	tiŋyesčama
+7.55	beam	tiŋyesčama
+7.56	post, pole	kyiniŋkisčama
+7.57	board	yantesiksik
+7.62	brick	yataphaimakyak
+8.12	field (for cultivation)	amyip
+8.13	garden	kilčikha
+8.15	cultivate, till	kilčikyi
+8.16	fence	aphathta
+8.17	ditch	yiŋminatamnik
+8.212	furrow	elipwatekyak
+8.22	dig	mitmeyi
+8.23	spade	mitaɬapup
+8.25	hoe	sowathpehik
+8.27	rake	hopomooapaphehik
+8.31	sow	kyinakɬeyi
+8.311	seed	aktik
+8.32	mow, reap	yaktenči
+8.33	sickle, scythe	sowuikwinakteikhaɬe
+8.34	thresh	makhesči
+8.35	threshing-floor	makhesčamakɬa
+8.41	crop, harvest	wathitma
+8.42	grain (barley, oats etc)	aktik
+8.43	wheat	hotahapapaktik
+8.47	maize, corn	latsehe
+8.51	grass	paat
+8.53	plant (noun)	panakte
+8.531	plant (vb)	kilapkyi
+8.54	root	kyipminik
+8.55	branch	ektoŋ
+8.56	leaf	awa
+8.57	flower	panakteithnamuk
+8.6	tree	yamit
+8.67	vine	yamit
+8.68	tobacco	hena
+8.69	smoke (tobacco)	kyispeyi
+8.691	pipe	ɬapup
+8.72	tree stump	auhak
+8.73	tree trunk	yamit
+8.74	forked branch	elnaiha
+8.75	bark	yamitimpehik
+8.76	sap	iŋminik
+8.81	palm tree	aɬa
+8.82	coconut	yamaɬaaktik
+8.83	citrus fruit	aksakmaši
+8.84	banana tree	yamkamuk
+8.91	sweet potato	piheyi
+8.92	tapioca, manioc, cassava	sappo
+8.93	gourd	kyaiyi
+8.931	pumpkin, squash	yansiŋheyi
+8.931	pumpkin, squash	yakteba
+8.94	bamboo	yamamuk
+8.941	sugar cane	yampaat
+8.97	nettle	piŋkyi
+9.11	do, make	kilanaiyi
+9.12	work	tamhaha
+9.14	bend	haɬesči
+9.15	fold	pathapekɬeyi
+9.16	tie, bind	titkyi
+9.161	untie	likyi
+9.18	chain	hotopili
+9.19	rope, cord	tama
+9.192	knot (noun)	tete
+9.21	strike (hit, beat)	tikpoŋkyi
+9.211	pound with fist	tikpoŋkyi
+9.22	cut	yaktenči
+9.221	cut down	yakneŋkyi
+9.222	chop, hew	pathkatkyi
+9.223	stab	kilyikɬakyi
+9.23	knife	sowu
+9.24	scissors, shears	sowat
+9.25	ax	pote
+9.26	break	kyintasči
+9.261	broken	pakɬeyi
+9.27	split	kyinweyi
+9.28	tear	yipteyi
+9.29	flay, skin	kilaŋkeyi
+9.31	rub, wipe	tathnyiaseha
+9.32	stretch	kyekisči
+9.33	pull	yinnaktesči
+9.34	spread out	paikisči
+9.341	hang up	kyithneyi
+9.343	squeeze, wring	kilyitsomaŋkyi
+9.35	pour	yinkinkyi
+9.36	wash	likyiyiŋmin
+9.37	sweep	kyathnyasči
+9.38	broom	kyathnyasčama
+9.422	tool	aksakniŋmaikha
+9.44	build	kilanatiŋma
+9.46	bore	yaŋkathkatkyi
+9.48	saw	honaiyimapakyik
+9.56	glue	yampapa
+9.64	gold	yansowuikyatiktama
+9.65	silver	yansowuikmopaiya
+9.66	copper, bronze	yansowuikyithwase
+9.67	iron	sowu
+9.69	tin, tinplate	kilyinmaŋa
+9.72	mold (clay etc)	yilpaŋkasči
+9.73	clay	yilpa
+9.74	glass	aksakpaisiam
+9.75	weave, plait	wankisči
+9.76	basket	howinakapɬankuk
+9.78	netbag	aiyin
+9.79	fan (noun)	aɬaawa
+9.791	fan (vb)	makhaiyi
+9.81	carve	kyaikmasčiyamit
+9.83	statue	kyelaikmasčisčama
+10.11	move	ɬiŋkisči
+10.12	turn over	pankyikme
+10.13	turn around	yekisči
+10.14	wind, wrap	kyaklasči
+10.16	drop (vb)	tiŋkisči
+10.17	twist	pithyančikme
+10.21	rise	kyinamteyi
+10.22	raise, lift	kyanaiyi
+10.23	fall	tiŋkyi
+10.24	drip	sipkinči
+10.25	throw	yiknaiyi
+10.252	catch (ball)	meyitakha
+10.26	shake	yohoseha
+10.32	flow	ɬiŋkyi
+10.33	sink	waiweŋkyi
+10.34	float	sokyiyiŋmin
+10.35	swim	meyiyiŋmin
+10.351	dive	tathnekɬeyi
+10.352	splash	kyithpakhaiyi
+10.37	fly (vb)	kyimpaiyi
+10.38	blow	watikhapkyi
+10.41	creep, crawl	lokha
+10.412	kneel	tikɬikyitapnakɬapup
+10.413	crouch	pithyokme
+10.42	slide, slip	tathnyiaiyi
+10.43	jump, leap	nithtiŋkyi
+10.431	kick	tikpoŋkyiminik
+10.44	dance	taiha
+10.45	walk	ɬiŋkyi
+10.451	limp	yaktiyikɬa
+10.46	run	kyetkyaha
+10.47	go	ɬiŋkyi
+10.471	go up	ɬiŋkyinetin
+10.472	climb	kyinamteyi
+10.473	go down	waiweŋkyi
+10.474	go out	tipkyi
+10.48	come	kyithyikme
+10.481	come back	wakteyi
+10.49	go away, depart	winkyipkyi
+10.491	disappear	winkyipkyi
+10.51	flee	kyinyeyi
+10.52	follow	yitlokyi
+10.53	pursue	minɬinkyi
+10.55	reach, arrive	wukme
+10.56	approach	ɬiŋakme
+10.57	enter	tathneyi
+10.61	carry (bear)	sokyi
+10.613	carry-on-shoulder	patmeyi
+10.62	bring	santeyi
+10.63	send	kyaphasči
+10.64	lead (vb)	naklanteyi
+10.65	drive	naklanteyi
+10.66	ride	kyinamteyi
+10.67	push, shove	yiŋkyi
+10.71	road	amai
+10.72	path	amaietkuk
+10.74	bridge	amainetin
+10.75	carriage, wagon, cart	takɬithčipkuk
+10.76	wheel	mik
+10.83	boat	yantakpaihe
+10.831	canoe	namuk
+10.84	raft	aɬaapak
+10.85	oar	yikwemin
+10.852	row (vb)	yikweyi
+10.86	rudder	kyelpankyamekyak
+10.87	mast	kyiniŋkisčama
+10.88	sail (noun)	apawa
+10.89	anchor	yimyekintanaiŋmin
+10.92	land (vb)	tipkyi
+11.11	have	yitneyi
+11.13	take	meyi
+11.14	seize, grasp	maŋkyi
+11.15	hold	meyi
+11.17	keep, retain	miyokyi
+11.18	thing	aksak
+11.21	give	mesči
+11.22	give back	mesekɬeyi
+11.24	preserve, look after	takmilčisči
+11.25	save, rescue	wamkasčitaip
+11.27	destroy	towaseha
+11.28	harm, injure, damage	towaseha
+11.31	seek, look for	kyitamkyi
+11.32	find	witakɬeyi
+11.33	lose	ɬiŋaniŋkisči
+11.34	release, let go	yimyekɬeyi
+11.43	money	akselyakye
+11.44	coin	akselyakye
+11.51	rich	ikhaapkilnakta
+11.52	poor	mekyiaksak
+11.53	beggar	yikhamekha
+11.54	avaricious, stingy	masma
+11.61	lend	mesčisikɬo
+11.62	borrow	meyisikɬo
+11.63	owe	timemaikyak
+11.64	debt	maikyak
+11.65	pay (vb)	yinyokyiikyanmaŋa
+11.81	buy	meyi
+11.82	sell	yinyokyi
+11.83	trade, barter	yanmaŋkasči
+11.86	store, shop	elyanmomathčiɬa
+11.87	price	ikyanmaŋa
+11.88	dear (costly, expensive)	innokyi
+11.89	cheap	kyitsiikyanmaŋa
+11.91	share (distribute)	milasikte
+11.92	weigh	kilyitsate
+12.1	after	natamin
+12.11	place	akpuk
+12.2	beside	nikha
+12.3	down, below	koniŋ
+12.4	before	mamyi
+12.41	right (side)	mamyi
+12.5	inside, in	kanyi
+12.6	outside	yokɬithma
+12.7	under	koniŋ
+12.8	up, above	netin
+12.11	place	akɬa
+12.12	put	pitkinkyi
+12.13	sit	heyi
+12.14	lie down	yitneyi
+12.15	stand	kyaknaha
+12.16	remain, stay	mwiŋkepuk
+12.17	remains, left overs	aksakelemomathči
+12.21	collect, gather	makɬeyi
+12.212	pick up	makɬeyi
+12.213	pile up	kyikhesči
+12.22	join, unite	yibitčisči
+12.23	separate	kyithpančisči
+12.232	divide	yipteyi
+12.24	open	likyi
+12.25	shut, close	kyepekɬeyi
+12.26	cover	kyipkyi
+12.27	hide, conceal	posči
+12.31	high	netin
+12.32	low	koniŋ
+12.33	top	netin
+12.34	bottom	natakla
+12.35	end	nowa
+12.352	pointed	ikhanipkyitama
+12.353	edge	nyawa
+12.36	side	nikha
+12.37	middle, center	nsiksa
+12.41	right (side)	yinnaktamakɬa
+12.42	left (side)	saŋkalwe
+12.43	near (adv)	kyito
+12.44	far (adv)	tiyepe
+12.45	east	tiyipmakɬaikhim
+12.46	west	tathniŋwanɬaikhim
+12.47	north	nithkyiha
+12.48	south	nipyiam
+12.53	grow	wanemyi
+12.54	measure	kilyitsači
+12.55	large, big	yowea
+12.56	small, little	kyitsi
+12.57	long	winnakte
+12.58	tall	winnakte
+12.59	short	yakwate
+12.61	wide, broad	paihe
+12.62	narrow	tkuk
+12.63	thick (in dimension)	yintiɬi
+12.65	thin (in dimension)	kyithyokyi
+12.67	deep	towanyi
+12.68	shallow	takhaiyi
+12.71	flat	paihe
+12.73	straight	pewowu
+12.74	crooked	takheyi
+12.75	hook	sowukhaɬe
+12.76	corner	masekyak
+12.77	cross	aksaktiŋyesčama
+12.81	round	yakye
+12.82	circle	wainkyiam
+12.83	sphere, ball	aksakyakye
+12.85	hole	yaŋkaɬe
+12.93	change	yakmaŋkasči
+13.0	zero, nothing	mekoaksak
+13.1	one	ɬama
+13.2	two	anit
+13.3	three	antanɬama
+13.4	four	howuknkha
+13.5	five	ɬamemik
+13.6	six	wakthlomokemikthlama
+13.7	seven	wakthlomokemikanit
+13.8	eight	wakthlomokemikantanthlama
+13.9	nine	wakthlomokemikhowuknkha
+13.10	ten	sohokemek
+13.101	eleven	wakthloeminikthlama
+13.103	fifteen	sohokthlamʔeminik
+13.104	twenty	sohokemankuk
+13.107	count	kilyitsatči
+13.14	every, all	ɬamokɬoho
+13.15	much, many	ɬamok
+13.16	more	mokmakham
+13.17	little (quantity), few	kyitso
+13.18	enough	howuk
+13.181	some	nkha
+13.19	multitude, crowd	apɬamokenɬit
+13.21	full	lanowu
+13.22	empty	mekyiaksakwathwuk
+13.23	part, piece	nkha
+13.33	alone, only	ɬapko
+13.34	first	iŋmamyi
+13.35	last	eɬaiyi
+13.37	pair	anit
+14.13	new	athnankuk
+14.14	young	kyitkuk
+14.15	old	wanakmo
+14.16	early	athtookanko
+14.17	late	tathnam
+14.18	now	kathwowu
+14.19	immediately	hiŋyahamo
+14.21	swift, fast, quick	pikhesowu
+14.22	slow	yihemyi
+14.23	hasten, hurry	pikhesči
+14.24	retard, delay	yihemyi
+14.25	begin, beginning	sikɬo
+14.26	end (temporal)	ineɬa
+14.27	finish	pinčisči
+14.28	cease, stop	kilwatesči
+14.29	ready	wanɬa
+14.31	always	kyimata
+14.32	often	kyimata
+14.33	sometimes	mokɬamaikhim
+14.331	soon	haikyi
+14.332	long-time (for a)	nanok
+14.35	again	makham
+14.41	day	ikhim
+14.42	night	athtaa
+14.43	dawn	elsiye
+14.44	morning	athtoo
+14.45	noon, midday	iŋyitsiksoikhim
+14.451	afternoon	tathnam
+14.46	evening	tathnakmo
+14.47	today	kyisoikhim
+14.48	tomorrow	elsakhasata
+14.481	day-after-tomorrow	mokhimsata
+14.49	yesterday	himathta
+14.491	day-before-yesterday	mokhimathta
+14.53	clock, timepiece	tiktik
+14.71	month	piltin
+14.73	year	apyiam
+14.74	winter	yiam
+14.75	spring	kilyapwakɬeyi
+14.76	summer	maiyahat
+14.77	autumn	tainiŋ
+15.21	smell (vb intrans)	paknakme
+15.212	sniff	kilwitaiyi
+15.22	smell (vb trans)	liŋaiyi
+15.25	fragrant, good smelling	atsikpakniam
+15.26	stinking, bad smelling	yitsipakniam
+15.31	taste	liŋaiyi
+15.35	sweet	atsik
+15.36	salty	yasik
+15.37	bitter	ikmamyasa
+15.38	acid, sour	askyihe
+15.39	brackish	yasikyiŋmin
+15.41	hear	liŋaiyi
+15.42	listen	hathnowu
+15.44	sound, noise	kyelpaɬama
+15.45	loud	askyiheikmek
+15.46	quiet, silence	wanma
+15.51	see	witaiyi
+15.52	look, look at	kilanowu
+15.55	show	ɬikmosči
+15.56	shine	kyatiŋmakyi
+15.57	bright	kilyinmeyi
+15.62	light (in color)	mopaiya
+15.63	dark (in color)	paisiam
+15.64	white	mopaiya
+15.65	black	paisiam
+15.66	red	yithwase
+15.67	blue	yapakmate
+15.68	green	yapakmate
+15.69	yellow	yatiktama
+15.71	touch	paknamowu
+15.712	pinch	yinsipkyi
+15.72	feel	liŋaiyi
+15.74	hard	kaihe
+15.75	soft	sipyokyi
+15.78	sharp	hamtik
+15.79	blunt, dull	mekoahamtik
+15.81	heavy	yintiɬi
+15.82	light (in weight)	kyithyokyi
+15.83	wet, damp	yesowu
+15.84	dry	yimakaiyi
+15.85	hot	atehe
+15.851	warm	yamamiɬanma
+15.86	cold	somaŋyi
+15.87	clean	kyathnyowu
+15.88	dirty, soiled	yitsi
+15.89	wrinkled	yipwakkyi
+16.11	soul, spirit	haŋak
+16.15	surprised, astonished	pilapkasči
+16.18	good fortune, luck	kilinyahowu
+16.19	misfortune, bad luck	samčitahakɬa
+16.23	joyful, glad, happy	paihekɬeyiwathwuk
+16.25	laugh	kyiktiŋmaha
+16.251	smile	kyismesči
+16.26	play	neweha
+16.27	love	kyasikheyo
+16.29	kiss	petsisči
+16.3	embrace	pakhitkyi
+16.31	pain	maša
+16.32	grief, sorrow, sadness	yakhapowuwathwuk
+16.33	anxiety, worry	tamhaikhawathwuk
+16.34	regret, be sorry	liŋaŋkowathwuk
+16.35	pity	kyimlekme
+16.37	cry, weep	wuneyi
+16.38	tear (noun)	yiŋminaktik
+16.39	groan	kyapiŋtiŋkyi
+16.41	hate	taknokyi
+16.42	anger	lokyi
+16.44	envy, jealousy	yasipkisčama
+16.45	shame (noun)	minkaktama
+16.48	proud	kyekpo
+16.52	brave	kaihewathwuk
+16.53	fear, fright	kyikaiyi
+16.62	desire, want	maiheyowathwuk
+16.622	choose	kilyesaha
+16.63	hope	kilhathneyiwathwuk
+16.66	true	nakso
+16.67	lie, tell lies	wančikamyaa
+16.68	deceit	kilyiɬančisaikha
+16.69	forgive	masčesčisči
+16.71	good	tasik
+16.72	bad	samčik
+16.73	right, correct	pewowu
+16.74	wrong	kapewowu
+16.76	fault	sithniniakpe
+16.77	mistake, error	timeankuk
+16.78	blame	sithninaik
+16.79	praise	kyikyowu
+16.81	beautiful	tasok
+16.82	ugly	samči
+16.83	greedy	mto
+16.84	clever	yasiŋkothma
+17.11	mind	wathwuk
+17.13	think (= reflect)	kilkyitamkyiwathwuk
+17.14	think (= be of the opinion)	kyinaikyi
+17.15	believe	myašikme
+17.16	understand	yasekiŋkothma
+17.17	know	yasiŋko
+17.172	imitate	heasowu
+17.19	idea, notion	elkyitamsamawathwuk
+17.21	wise	yasiŋkathma
+17.22	foolish, stupid	mysikyakaksak
+17.23	insane, crazy	yehathma
+17.24	learn	kiltamesakpe
+17.242	study	kiltamesakpe
+17.25	teach	ɬikmosči
+17.26	pupil	kiltamesčama
+17.27	teacher	kilɬikmosčama
+17.28	school	nimpaiwaetkuk
+17.31	remember	mlwanakme
+17.32	forget	kilwankakme
+17.34	clear, plain	kyathnyowu
+17.36	secret	yiɬamathči
+17.37	sure, certain	naksoksat
+17.38	explain	pekisakɬeyi
+17.43	doubt	yašikme
+17.44	suspect	pehesčikme
+17.441	betray	yinyokyi
+17.45	need, necessity	kyemethči
+17.46	easy	kyithyokyi
+17.47	difficult	yintiɬi
+17.48	try, attempt	yipkainči
+17.49	way, manner	temakɬa
+17.51	and	kyinhan
+17.51	and	hahan
+17.51	and	anhan
+17.52	because	hakte
+17.53	if	ankuk
+17.54	or	ešianhan
+17.55	yes, affirmative	ehai
+17.56	no, negative	ma
+17.61	how?	hathko
+17.62	how many?	hathkowanɬa
+17.63	how much?	hathkowanɬa
+17.64	what?	yaksa
+17.66	where?	hathko
+17.67	which?	yaksa
+17.69	why?	yaksaktaha
+18.11	voice	paiwa
+18.12	sing	minaikmasči
+18.13	shout, cry out	woneha
+18.15	whisper	maliŋyoaha
+18.16	mumble	pakmeteha
+18.17	whistle	moheha
+18.18	shriek, screech	wehesčisha
+18.19	howl	woneha
+18.21	speak, talk	pakmitkyi
+18.211	stutter, stammer	kapaiwa
+18.22	say	taha
+18.221	tell story	kiltinnaha
+18.222	speech (make a)	kiltinnaha
+18.23	silent (be)	wanmakyi
+18.24	language	paiwa
+18.26	word	paiwa
+18.28	name	wisaia
+18.31	ask (question, inquire)	kilmathnakyi
+18.32	answer	kyatiŋmakyi
+18.33	admit, confess	kiltinnasowuwisaia
+18.35	ask, request	kilmathnakyi
+18.36	promise	pitkinkyipaiwa
+18.37	refuse	miyokyi
+18.38	forbid	kilasčiithma
+18.39	rebuke, scold	kilyimatčisaha
+18.41	call (=summon)	kyokha
+18.42	call (=name)	timesčisčiwisaia
+18.45	boast	kyethkopaiwa
+18.51	write	taɬesči
+18.52	read	kilyitsatči
+18.56	paper	waikyahak
+18.57	pen	taɬesčama
+18.61	book	waikyahak
+18.72	drum	waiŋkyi
+18.73	horn, trumpet	kyapkyahasčama
+18.74	rattle	kyaiyi
+19.11	country	yokɬithma
+19.12	one's native country	kyokɬa
+19.15	city, town	tiŋmawanyam
+19.16	village	tiŋma
+19.17	boundary	nethlaɬapup
+19.21	people (populace)	enɬitak
+19.24	chief, chieftain	wiši
+19.25	staff, walking stick	taskhapaikha
+19.31	rule, govern	timewiši
+19.32	king, ruler	wišiapwanyam
+19.33	queen	wišiikwanyam
+19.41	master	wiši
+19.43	servant	kilanekha
+19.45	command, order	kyinaikyi
+19.46	obey	kilyahakɬoho
+19.47	let, permit	kyowu
+19.51	friend, companion	ɬiŋithma
+19.52	enemy	mtnahaiŋmowuk
+19.54	neighbor	howuɬama
+19.55	stranger	pokenɬit
+19.56	guest	maikyaa
+19.57	host	kyapekha
+19.58	help, aid	pasmeyi
+19.59	hinder, prevent	kilyasčithma
+19.61	custom	time
+19.62	strife, quarrel	iklopaiwa
+19.65	meet	tahanyowu
+19.72	prostitute	kilanamiɬanma
+20.11	fight (vb)	kyimpakhaiyi
+20.13	war, battle	kyimpakhapma
+20.14	peace	wanmakithma
+20.17	soldier	selpithtetamo
+20.21	weapons, arms	kyelmaikhakyimpakhapma
+20.23	sling	milwaktama
+20.24	bow	pithpath
+20.25	arrow	yanči
+20.26	spear	hewa
+20.26	spear	sohewa
+20.27	sword	sowuikwinakte
+20.28	gun, cannon	enmaŋa
+20.31	armor (defensive)	kyahapkasamap
+20.36	tower	tiŋmanetin
+20.41	victory	kilnapkyi
+20.42	defeat	selnapma
+20.43	attack	tahanyakpok
+20.44	defend	kilaithčisči
+20.45	retreat	yeŋkyi
+20.46	surrender	measekpo
+20.47	captive, prisoner	kilmomap
+20.51	fisherman	tiŋyekilasma
+20.52	fishhook	sowukhaɬe
+20.53	fishing line	kilasmatama
+20.54	fishnet	yamaiyin
+20.56	bait	niŋegyakto
+20.61	hunt	mimpakwukme
+20.62	shoot	maktaiyi
+20.63	miss (target)	mlinseyi
+20.64	trap (noun)	kilhanma
+20.65	trap (vb)	kilhanči
+21.16	judge (vb)	yikpilčowu
+21.17	judgment	siŋyikpilčemo
+21.18	judge (noun)	siŋyikpilčamo
+21.23	witness	liŋasčama
+21.31	accuse	sithninaik
+21.32	condemn	ɬenčikso
+21.33	convict (vb)	witathčiso
+21.35	guilty	sithnaneathči
+21.36	innocent	msithnanekpe
+21.37	penalty, punishment	kilyikpithčitma
+21.39	prison, jail	selpithtetamakɬa
+21.42	murder	kyakheenɬit
+21.44	rape	towasehainkilana
+21.51	steal	minyithči
+21.52	thief	minyithma

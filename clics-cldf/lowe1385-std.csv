@@ -1,0 +1,1516 @@
+ID,Language_ID,Feature_ID,IDS_Key,Value,Concept,IPA_UDECODE
+clics-doculect-34-1,lowe1385-std,concepticon-965,1.1,swět,world,swet
+clics-doculect-34-2,lowe1385-std,concepticon-626,1.21,land,"earth, land",land
+clics-doculect-34-3,lowe1385-std,concepticon-626,1.21,kraj,"earth, land",kraj
+clics-doculect-34-4,lowe1385-std,concepticon-1228,1.212,zemja,"earth=ground, soil",zemja
+clics-doculect-34-5,lowe1385-std,concepticon-2,1.213,proch,dust,proch
+clics-doculect-34-6,lowe1385-std,concepticon-2,1.213,kuŕ,dust,kur
+clics-doculect-34-7,lowe1385-std,concepticon-640,1.214,para,mud,para
+clics-doculect-34-8,lowe1385-std,concepticon-671,1.215,pěsk,sand,pesk
+clics-doculect-34-9,lowe1385-std,concepticon-2118,1.22,góra,"mountain, hill",gora
+clics-doculect-34-10,lowe1385-std,concepticon-618,1.222,skała,"cliff, precipice",skala
+clics-doculect-34-11,lowe1385-std,concepticon-652,1.23,rownina,"plain, field",rownina
+clics-doculect-34-12,lowe1385-std,concepticon-652,1.23,płonina,"plain, field",plonina
+clics-doculect-34-13,lowe1385-std,concepticon-921,1.24,doł,valley,dol
+clics-doculect-34-14,lowe1385-std,concepticon-622,1.25,kupa,island,kupa
+clics-doculect-34-15,lowe1385-std,concepticon-622,1.25,inzula,island,inzula
+clics-doculect-34-16,lowe1385-std,concepticon-166,1.26,zemja,mainland,zemja
+clics-doculect-34-17,lowe1385-std,concepticon-113,1.27,pśibrjog,shore,psibrjog
+clics-doculect-34-18,lowe1385-std,concepticon-113,1.27,brjog,shore,brjog
+clics-doculect-34-19,lowe1385-std,concepticon-1155,1.28,jama,cave,jama
+clics-doculect-34-20,lowe1385-std,concepticon-948,1.31,wóda,water,woda
+clics-doculect-34-21,lowe1385-std,concepticon-1474,1.32,mórjo,sea,morjo
+clics-doculect-34-22,lowe1385-std,concepticon-258,1.322,měrny,calm (of sea),merny
+clics-doculect-34-23,lowe1385-std,concepticon-259,1.323,rozžwalony,rough (of sea),rozzwalony
+clics-doculect-34-24,lowe1385-std,concepticon-1768,1.324,šum,foam,sum
+clics-doculect-34-25,lowe1385-std,concepticon-1768,1.324,jěšć,foam,jesc
+clics-doculect-34-26,lowe1385-std,concepticon-645,1.329,ocean,ocean,ocean
+clics-doculect-34-27,lowe1385-std,concepticon-624,1.33,jazor,lake,jazor
+clics-doculect-34-28,lowe1385-std,concepticon-624,1.33,jazoro,lake,jazoro
+clics-doculect-34-29,lowe1385-std,concepticon-663,1.34,buchta,"gulf, bay",buchta
+clics-doculect-34-30,lowe1385-std,concepticon-663,1.34,mórskizalew,"gulf, bay",morskizalew
+clics-doculect-34-31,lowe1385-std,concepticon-623,1.341,laguna,lagoon,laguna
+clics-doculect-34-32,lowe1385-std,concepticon-660,1.342,riff,reef,riff
+clics-doculect-34-33,lowe1385-std,concepticon-978,1.35,žwała,wave,zwala
+clics-doculect-34-34,lowe1385-std,concepticon-1026,1.353,spadowanjemórja,lowtide,spadowanjemorja
+clics-doculect-34-35,lowe1385-std,concepticon-1026,1.353,wótlew,lowtide,wotlew
+clics-doculect-34-36,lowe1385-std,concepticon-613,1.354,stupanjemórja,hightide,stupanjemorja
+clics-doculect-34-37,lowe1385-std,concepticon-613,1.354,pśilew,hightide,psilew
+clics-doculect-34-38,lowe1385-std,concepticon-666,1.36,rěka,"river, stream, brook",reka
+clics-doculect-34-39,lowe1385-std,concepticon-1982,1.362,kružoł,whirlpool,kruzol
+clics-doculect-34-40,lowe1385-std,concepticon-2144,1.37,žrědło,"spring, well",zredlo
+clics-doculect-34-41,lowe1385-std,concepticon-2144,1.37,studnia,"spring, well",studnia
+clics-doculect-34-42,lowe1385-std,concepticon-1145,1.38,bagno,swamp,bagno
+clics-doculect-34-43,lowe1385-std,concepticon-1145,1.38,tonidło,swamp,tonidlo
+clics-doculect-34-44,lowe1385-std,concepticon-943,1.39,wódopad,waterfall,wodopad
+clics-doculect-34-45,lowe1385-std,concepticon-943,1.39,wódowyspad,waterfall,wodowyspad
+clics-doculect-34-46,lowe1385-std,concepticon-420,1.41,góla,"woods, forest",gola
+clics-doculect-34-47,lowe1385-std,concepticon-1803,1.43,drjewo,wood,drjewo
+clics-doculect-34-48,lowe1385-std,concepticon-2125,1.44,kamjeń,"stone, rock",kamjen
+clics-doculect-34-49,lowe1385-std,concepticon-6,1.45,zemjerdžanje,earthquake,zemjerdzanje
+clics-doculect-34-50,lowe1385-std,concepticon-1732,1.51,njebjo,sky,njebjo
+clics-doculect-34-51,lowe1385-std,concepticon-1343,1.52,słyńco,sun,slynco
+clics-doculect-34-52,lowe1385-std,concepticon-1313,1.53,mjasec,moon,mjasec
+clics-doculect-34-53,lowe1385-std,concepticon-1430,1.54,gwežda,star,gwezda
+clics-doculect-34-54,lowe1385-std,concepticon-1654,1.55,błysk,lightning,blysk
+clics-doculect-34-55,lowe1385-std,concepticon-1150,1.56,grimanje,thunder,grimanje
+clics-doculect-34-56,lowe1385-std,concepticon-2007,1.57,njewjedro,lightning (as striking),njewjedro
+clics-doculect-34-57,lowe1385-std,concepticon-858,1.58,štorm,storm,storm
+clics-doculect-34-58,lowe1385-std,concepticon-858,1.58,tergatywětš,storm,tergatywets
+clics-doculect-34-59,lowe1385-std,concepticon-858,1.58,wichor,storm,wichor
+clics-doculect-34-60,lowe1385-std,concepticon-1733,1.59,tyca,rainbow,tyca
+clics-doculect-34-61,lowe1385-std,concepticon-630,1.61,swětło,light (noun),swetlo
+clics-doculect-34-62,lowe1385-std,concepticon-11,1.62,śma,darkness,sma
+clics-doculect-34-63,lowe1385-std,concepticon-1388,1.63,seń,"shade, shadow",sen
+clics-doculect-34-64,lowe1385-std,concepticon-1977,1.64,rosa,dew,rosa
+clics-doculect-34-65,lowe1385-std,concepticon-27,1.71,luft,air,luft
+clics-doculect-34-66,lowe1385-std,concepticon-27,1.71,pówětš,air,powets
+clics-doculect-34-67,lowe1385-std,concepticon-960,1.72,wětš,wind,wets
+clics-doculect-34-68,lowe1385-std,concepticon-1489,1.73,mrok,cloud,mrok
+clics-doculect-34-69,lowe1385-std,concepticon-249,1.74,kurjawa,fog,kurjawa
+clics-doculect-34-70,lowe1385-std,concepticon-658,1.75,dešć,rain (noun),desc
+clics-doculect-34-71,lowe1385-std,concepticon-784,1.76,sněg,snow (noun),sneg
+clics-doculect-34-72,lowe1385-std,concepticon-617,1.77,lod,ice,lod
+clics-doculect-34-73,lowe1385-std,concepticon-952,1.78,wjedro,weather,wjedro
+clics-doculect-34-74,lowe1385-std,concepticon-221,1.81,wogeń,fire,wogen
+clics-doculect-34-75,lowe1385-std,concepticon-889,1.82,płomje,flame (noun),plomje
+clics-doculect-34-76,lowe1385-std,concepticon-778,1.83,dym,smoke (noun),dym
+clics-doculect-34-77,lowe1385-std,concepticon-778,1.83,kuŕ,smoke (noun),kur
+clics-doculect-34-78,lowe1385-std,concepticon-646,1.84,popjeł,ashes,popjel
+clics-doculect-34-79,lowe1385-std,concepticon-67,1.841,wugle,embers,wugle
+clics-doculect-34-80,lowe1385-std,concepticon-67,1.841,žagle,embers,zagle
+clics-doculect-34-81,lowe1385-std,concepticon-141,1.851,paliś,burn (vb trans),palis
+clics-doculect-34-82,lowe1385-std,concepticon-1428,1.852,paliśse,burn (vb intrans),palisse
+clics-doculect-34-83,lowe1385-std,concepticon-737,1.86,zapaliś,"light, kindle, ignite",zapalis
+clics-doculect-34-84,lowe1385-std,concepticon-127,1.861,lašowaś,extinguish,lasowas
+clics-doculect-34-85,lowe1385-std,concepticon-127,1.861,gasyś,extinguish,gasys
+clics-doculect-34-86,lowe1385-std,concepticon-1133,1.87,zapalka,match (noun),zapalka
+clics-doculect-34-87,lowe1385-std,concepticon-1133,1.87,strajcholc,match (noun),strajcholc
+clics-doculect-34-88,lowe1385-std,concepticon-10,1.88,drjewo,firewood,drjewo
+clics-doculect-34-89,lowe1385-std,concepticon-1188,1.89,wugel,charcoal,wugel
+clics-doculect-34-90,lowe1385-std,concepticon-683,2.1,wósoba,"person, human being",wosoba
+clics-doculect-34-91,lowe1385-std,concepticon-683,2.1,paršona,"person, human being",parsona
+clics-doculect-34-92,lowe1385-std,concepticon-1554,2.21,muski,man (vs. woman),muski
+clics-doculect-34-93,lowe1385-std,concepticon-1554,2.21,muž,man (vs. woman),muz
+clics-doculect-34-94,lowe1385-std,concepticon-962,2.22,žeńska,woman,zenska
+clics-doculect-34-95,lowe1385-std,concepticon-1553,2.23,muskecy,male,muskecy
+clics-doculect-34-96,lowe1385-std,concepticon-1551,2.24,žeńskecy,female,zenskecy
+clics-doculect-34-97,lowe1385-std,concepticon-1366,2.25,gólc,boy,golc
+clics-doculect-34-98,lowe1385-std,concepticon-76,2.251,młodostny,young man (adolescent),mlodostny
+clics-doculect-34-99,lowe1385-std,concepticon-1646,2.26,źowćo,girl,zowco
+clics-doculect-34-100,lowe1385-std,concepticon-77,2.261,młodostna,young woman (adolescent),mlodostna
+clics-doculect-34-101,lowe1385-std,concepticon-1304,2.27,góle,child,gole
+clics-doculect-34-102,lowe1385-std,concepticon-1289,2.28,góletko,"infant, baby",goletko
+clics-doculect-34-103,lowe1385-std,concepticon-1200,2.31,cłowjek,husband,clowjek
+clics-doculect-34-104,lowe1385-std,concepticon-1199,2.32,žeńska,wife,zenska
+clics-doculect-34-105,lowe1385-std,concepticon-203,2.33,ženiśse,marry,zenisse
+clics-doculect-34-106,lowe1385-std,concepticon-1259,2.34,swajźba,"marriage, wedding",swajzba
+clics-doculect-34-107,lowe1385-std,concepticon-1134,2.341,šejdowanje,divorce,sejdowanje
+clics-doculect-34-108,lowe1385-std,concepticon-1134,2.341,rozwěrowanje,divorce,rozwerowanje
+clics-doculect-34-109,lowe1385-std,concepticon-1134,2.341,šejdunga,divorce,sejdunga
+clics-doculect-34-110,lowe1385-std,concepticon-1217,2.35,nan,father,nan
+clics-doculect-34-111,lowe1385-std,concepticon-1217,2.35,foter,father,foter
+clics-doculect-34-112,lowe1385-std,concepticon-1216,2.36,muter,mother,muter
+clics-doculect-34-113,lowe1385-std,concepticon-1216,2.36,maś,mother,mas
+clics-doculect-34-114,lowe1385-std,concepticon-1216,2.36,mama,mother,mama
+clics-doculect-34-115,lowe1385-std,concepticon-505,2.37,starjejšej,parents,starjejsej
+clics-doculect-34-116,lowe1385-std,concepticon-424,2.38,ženjony,married man,zenjony
+clics-doculect-34-117,lowe1385-std,concepticon-426,2.39,ženjona,married woman,zenjona
+clics-doculect-34-118,lowe1385-std,concepticon-1620,2.41,syn,son,syn
+clics-doculect-34-119,lowe1385-std,concepticon-1357,2.42,źowka,daughter,zowka
+clics-doculect-34-120,lowe1385-std,concepticon-1801,2.43,źiśi,offspring (son or daughter),zisi
+clics-doculect-34-121,lowe1385-std,concepticon-1262,2.44,bratš,brother,brats
+clics-doculect-34-122,lowe1385-std,concepticon-1759,2.444,staršybratš,older brother,starsybrats
+clics-doculect-34-123,lowe1385-std,concepticon-1760,2.445,młodšybratš,younger brother,mlodsybrats
+clics-doculect-34-124,lowe1385-std,concepticon-1263,2.45,sotša,sister,sotsa
+clics-doculect-34-125,lowe1385-std,concepticon-1758,2.454,staršasotša,older sister,starsasotsa
+clics-doculect-34-126,lowe1385-std,concepticon-1761,2.455,młodšasotša,younger sister,mlodsasotsa
+clics-doculect-34-127,lowe1385-std,concepticon-1640,2.456,bratšasotša,sibling,bratsasotsa
+clics-doculect-34-128,lowe1385-std,concepticon-1640,2.456,bratšzesotšu,sibling,bratszesotsu
+clics-doculect-34-129,lowe1385-std,concepticon-1005,2.458,dwójnika,twins,dwojnika
+clics-doculect-34-130,lowe1385-std,concepticon-1383,2.46,starynan,grandfather,starynan
+clics-doculect-34-131,lowe1385-std,concepticon-1383,2.46,grosk,grandfather,grosk
+clics-doculect-34-132,lowe1385-std,concepticon-1383,2.46,grosnan,grandfather,grosnan
+clics-doculect-34-133,lowe1385-std,concepticon-1383,2.46,grosfoter,grandfather,grosfoter
+clics-doculect-34-134,lowe1385-std,concepticon-406,2.461,starki,old man,starki
+clics-doculect-34-135,lowe1385-std,concepticon-406,2.461,starc,old man,starc
+clics-doculect-34-136,lowe1385-std,concepticon-1496,2.47,grosa,grandmother,grosa
+clics-doculect-34-137,lowe1385-std,concepticon-1496,2.47,grosmuter,grandmother,grosmuter
+clics-doculect-34-138,lowe1385-std,concepticon-1496,2.47,staramama,grandmother,staramama
+clics-doculect-34-139,lowe1385-std,concepticon-907,2.471,starka,old woman,starka
+clics-doculect-34-140,lowe1385-std,concepticon-907,2.471,staručka,old woman,starucka
+clics-doculect-34-141,lowe1385-std,concepticon-1618,2.48,enkelsyn,grandson,enkelsyn
+clics-doculect-34-142,lowe1385-std,concepticon-1618,2.48,synasyn,grandson,synasyn
+clics-doculect-34-143,lowe1385-std,concepticon-1618,2.48,źowkisyn,grandson,zowkisyn
+clics-doculect-34-144,lowe1385-std,concepticon-1619,2.49,enkelźowka,granddaughter,enkelzowka
+clics-doculect-34-145,lowe1385-std,concepticon-1619,2.49,synaźowka,granddaughter,synazowka
+clics-doculect-34-146,lowe1385-std,concepticon-1619,2.49,źowkiźowka,granddaughter,zowkizowka
+clics-doculect-34-147,lowe1385-std,concepticon-1327,2.51,wujk,uncle,wujk
+clics-doculect-34-148,lowe1385-std,concepticon-1984,2.511,wujk,mother's brother,wujk
+clics-doculect-34-149,lowe1385-std,concepticon-1985,2.512,wujk,father's brother,wujk
+clics-doculect-34-150,lowe1385-std,concepticon-1272,2.52,śota,aunt,sota
+clics-doculect-34-151,lowe1385-std,concepticon-171,2.521,śota,mother's sister,sota
+clics-doculect-34-152,lowe1385-std,concepticon-170,2.522,śota,father's sister,sota
+clics-doculect-34-153,lowe1385-std,concepticon-1063,2.53,bratšasyn,nephew,bratsasyn
+clics-doculect-34-154,lowe1385-std,concepticon-1063,2.53,sotšysyn,nephew,sotsysyn
+clics-doculect-34-155,lowe1385-std,concepticon-1063,2.53,nefa,nephew,nefa
+clics-doculect-34-156,lowe1385-std,concepticon-1642,2.54,bratšaźowka,niece,bratsazowka
+clics-doculect-34-157,lowe1385-std,concepticon-1642,2.54,sotšyźowka,niece,sotsyzowka
+clics-doculect-34-158,lowe1385-std,concepticon-1642,2.54,nichta,niece,nichta
+clics-doculect-34-159,lowe1385-std,concepticon-1643,2.55,śeśko,cousin,sesko
+clics-doculect-34-160,lowe1385-std,concepticon-1643,2.55,śeśenica,cousin,sesenica
+clics-doculect-34-161,lowe1385-std,concepticon-1669,2.56,prědowniki,ancestors,predowniki
+clics-doculect-34-162,lowe1385-std,concepticon-490,2.57,pótomniki,descendants,potomniki
+clics-doculect-34-163,lowe1385-std,concepticon-2255,2.61,pśichodnynan,father-in-law (of a man),psichodnynan
+clics-doculect-34-164,lowe1385-std,concepticon-2255,2.61,šwigernan,father-in-law (of a man),swigernan
+clics-doculect-34-165,lowe1385-std,concepticon-2255,2.61,šwigerfoter,father-in-law (of a man),swigerfoter
+clics-doculect-34-166,lowe1385-std,concepticon-2254,2.611,šwigerfoter,father-in-law (of a woman),swigerfoter
+clics-doculect-34-167,lowe1385-std,concepticon-2254,2.611,šwigernan,father-in-law (of a woman),swigernan
+clics-doculect-34-168,lowe1385-std,concepticon-2254,2.611,pśichodnynan,father-in-law (of a woman),psichodnynan
+clics-doculect-34-169,lowe1385-std,concepticon-2256,2.62,pśichodnamaś,mother-in-law (of a man),psichodnamas
+clics-doculect-34-170,lowe1385-std,concepticon-2256,2.62,šwigermuter,mother-in-law (of a man),swigermuter
+clics-doculect-34-171,lowe1385-std,concepticon-2256,2.62,šwigermaś,mother-in-law (of a man),swigermas
+clics-doculect-34-172,lowe1385-std,concepticon-2257,2.621,šwigermaś,mother-in-law (of a woman),swigermas
+clics-doculect-34-173,lowe1385-std,concepticon-2257,2.621,pśichodnamaś,mother-in-law (of a woman),psichodnamas
+clics-doculect-34-174,lowe1385-std,concepticon-2257,2.621,šwigermuter,mother-in-law (of a woman),swigermuter
+clics-doculect-34-175,lowe1385-std,concepticon-2267,2.63,pśichodnysyn,son-in-law (of a man),psichodnysyn
+clics-doculect-34-176,lowe1385-std,concepticon-2267,2.63,šwigersyn,son-in-law (of a man),swigersyn
+clics-doculect-34-177,lowe1385-std,concepticon-2266,2.631,šwigersyn,son-in-law (of a woman),swigersyn
+clics-doculect-34-178,lowe1385-std,concepticon-2266,2.631,pśichodnysyn,son-in-law (of a woman),psichodnysyn
+clics-doculect-34-179,lowe1385-std,concepticon-2265,2.64,šwigerźowka,daughter-in-law (of a man),swigerzowka
+clics-doculect-34-180,lowe1385-std,concepticon-2265,2.64,pśichodnaźowka,daughter-in-law (of a man),psichodnazowka
+clics-doculect-34-181,lowe1385-std,concepticon-2264,2.641,šwigerźowka,daughter-in-law (of a woman),swigerzowka
+clics-doculect-34-182,lowe1385-std,concepticon-2264,2.641,pśichodnaźowka,daughter-in-law (of a woman),psichodnazowka
+clics-doculect-34-183,lowe1385-std,concepticon-237,2.71,pśirodnynan,stepfather,psirodnynan
+clics-doculect-34-184,lowe1385-std,concepticon-237,2.71,štifnan,stepfather,stifnan
+clics-doculect-34-185,lowe1385-std,concepticon-237,2.71,štifoter,stepfather,stifoter
+clics-doculect-34-186,lowe1385-std,concepticon-237,2.71,nank,stepfather,nank
+clics-doculect-34-187,lowe1385-std,concepticon-236,2.72,pśirodnamaś,stepmother,psirodnamas
+clics-doculect-34-188,lowe1385-std,concepticon-236,2.72,štifmuter,stepmother,stifmuter
+clics-doculect-34-189,lowe1385-std,concepticon-236,2.72,štifmaś,stepmother,stifmas
+clics-doculect-34-190,lowe1385-std,concepticon-236,2.72,mamka,stepmother,mamka
+clics-doculect-34-191,lowe1385-std,concepticon-1059,2.73,pśirodnysyn,stepson,psirodnysyn
+clics-doculect-34-192,lowe1385-std,concepticon-1059,2.73,štifsyn,stepson,stifsyn
+clics-doculect-34-193,lowe1385-std,concepticon-1058,2.74,pśirodnaźowka,stepdaughter,psirodnazowka
+clics-doculect-34-194,lowe1385-std,concepticon-1058,2.74,štifźowka,stepdaughter,stifzowka
+clics-doculect-34-195,lowe1385-std,concepticon-1149,2.75,syrota,orphan,syrota
+clics-doculect-34-196,lowe1385-std,concepticon-1756,2.76,wudowa,widow,wudowa
+clics-doculect-34-197,lowe1385-std,concepticon-1981,2.77,wudojc,widower,wudojc
+clics-doculect-34-198,lowe1385-std,concepticon-1644,2.81,swójźba,"relatives, kinsmen",swojzba
+clics-doculect-34-199,lowe1385-std,concepticon-194,2.82,familija,family,familija
+clics-doculect-34-200,lowe1385-std,concepticon-1209,2.91,ja,I,ja
+clics-doculect-34-201,lowe1385-std,concepticon-1215,2.92,ty,you (singular),ty
+clics-doculect-34-202,lowe1385-std,concepticon-262,2.93,wón,he/she/it,won
+clics-doculect-34-203,lowe1385-std,concepticon-262,2.93,wóna,he/she/it,wona
+clics-doculect-34-204,lowe1385-std,concepticon-262,2.93,wóno,he/she/it,wono
+clics-doculect-34-205,lowe1385-std,concepticon-1212,2.94,my,we,my
+clics-doculect-34-206,lowe1385-std,concepticon-1131,2.941,my,we (inclusive),my
+clics-doculect-34-207,lowe1385-std,concepticon-1130,2.942,my,we (exclusive),my
+clics-doculect-34-208,lowe1385-std,concepticon-1213,2.95,wy,you (plural),wy
+clics-doculect-34-209,lowe1385-std,concepticon-817,2.96,wóni,they,woni
+clics-doculect-34-210,lowe1385-std,concepticon-619,3.11,zwěrje,animal,zwerje
+clics-doculect-34-211,lowe1385-std,concepticon-2261,3.12,muskecy,male (adj),muskecy
+clics-doculect-34-212,lowe1385-std,concepticon-2262,3.13,žeńskecy,female (adj),zenskecy
+clics-doculect-34-213,lowe1385-std,concepticon-631,3.15,dobytk,livestock,dobytk
+clics-doculect-34-214,lowe1385-std,concepticon-631,3.15,zbóžo,livestock,zbozo
+clics-doculect-34-215,lowe1385-std,concepticon-649,3.16,pastwa,pasture,pastwa
+clics-doculect-34-216,lowe1385-std,concepticon-263,3.18,pastyŕ,herdsman,pastyr
+clics-doculect-34-217,lowe1385-std,concepticon-851,3.19,groź,"stable, stall",groz
+clics-doculect-34-218,lowe1385-std,concepticon-1153,3.2,gowjedo,cattle (bovine),gowjedo
+clics-doculect-34-219,lowe1385-std,concepticon-1153,3.2,gowjeź,cattle (bovine),gowjez
+clics-doculect-34-220,lowe1385-std,concepticon-1008,3.21,byk,bull,byk
+clics-doculect-34-221,lowe1385-std,concepticon-1169,3.22,woł,ox,wol
+clics-doculect-34-222,lowe1385-std,concepticon-1007,3.23,krowa,cow,krowa
+clics-doculect-34-223,lowe1385-std,concepticon-1989,3.24,śele,calf,sele
+clics-doculect-34-224,lowe1385-std,concepticon-1331,3.25,wójca,sheep,wojca
+clics-doculect-34-225,lowe1385-std,concepticon-1344,3.26,baran,ram,baran
+clics-doculect-34-226,lowe1385-std,concepticon-1345,3.28,wójca,ewe,wojca
+clics-doculect-34-227,lowe1385-std,concepticon-820,3.29,jagnje,lamb,jagnje
+clics-doculect-34-228,lowe1385-std,concepticon-1348,3.32,kjandroz,boar,kjandroz
+clics-doculect-34-229,lowe1385-std,concepticon-1351,3.34,rampa,sow,rampa
+clics-doculect-34-230,lowe1385-std,concepticon-1337,3.35,swinja,pig,swinja
+clics-doculect-34-231,lowe1385-std,concepticon-1502,3.36,kóza,goat,koza
+clics-doculect-34-232,lowe1385-std,concepticon-264,3.37,kózoł,he-goat,kozol
+clics-doculect-34-233,lowe1385-std,concepticon-1972,3.38,kózle,kid,kozle
+clics-doculect-34-234,lowe1385-std,concepticon-615,3.41,koń,horse (equine),kon
+clics-doculect-34-235,lowe1385-std,concepticon-936,3.42,hengist,stallion,hengist
+clics-doculect-34-236,lowe1385-std,concepticon-938,3.44,kobyła,mare,kobyla
+clics-doculect-34-237,lowe1385-std,concepticon-1647,3.45,žrěbje,"foal, colt",zrebje
+clics-doculect-34-238,lowe1385-std,concepticon-1862,3.46,ezel,"ass, donkey",ezel
+clics-doculect-34-239,lowe1385-std,concepticon-1862,3.46,wósoł,"ass, donkey",wosol
+clics-doculect-34-240,lowe1385-std,concepticon-890,3.47,mul,mule,mul
+clics-doculect-34-241,lowe1385-std,concepticon-265,3.5,pjerina,fowl,pjerina
+clics-doculect-34-242,lowe1385-std,concepticon-1511,3.52,kokot,"cock, rooster",kokot
+clics-doculect-34-243,lowe1385-std,concepticon-1514,3.54,kokoš,hen,kokos
+clics-doculect-34-244,lowe1385-std,concepticon-1514,3.54,kura,hen,kura
+clics-doculect-34-245,lowe1385-std,concepticon-1318,3.55,kurje,chicken,kurje
+clics-doculect-34-246,lowe1385-std,concepticon-1187,3.56,gus,goose,gus
+clics-doculect-34-247,lowe1385-std,concepticon-1360,3.57,kacka,duck,kacka
+clics-doculect-34-248,lowe1385-std,concepticon-539,3.58,gnězdo,nest,gnezdo
+clics-doculect-34-249,lowe1385-std,concepticon-937,3.581,ptašk,bird,ptask
+clics-doculect-34-250,lowe1385-std,concepticon-950,3.582,rybnicy,seagull,rybnicy
+clics-doculect-34-251,lowe1385-std,concepticon-950,3.582,ryborak,seagull,ryborak
+clics-doculect-34-252,lowe1385-std,concepticon-758,3.583,šytawa,heron,sytawa
+clics-doculect-34-253,lowe1385-std,concepticon-1905,3.584,hodlaŕ,eagle,hodlar
+clics-doculect-34-254,lowe1385-std,concepticon-1905,3.584,jerjeł,eagle,jerjel
+clics-doculect-34-255,lowe1385-std,concepticon-307,3.585,sokoł,hawk,sokol
+clics-doculect-34-256,lowe1385-std,concepticon-307,3.585,pašturlica,hawk,pasturlica
+clics-doculect-34-257,lowe1385-std,concepticon-307,3.585,jastśeb,hawk,jastseb
+clics-doculect-34-258,lowe1385-std,concepticon-1185,3.586,sup,vulture,sup
+clics-doculect-34-259,lowe1385-std,concepticon-1793,3.591,njetopyŕ,bat,njetopyr
+clics-doculect-34-260,lowe1385-std,concepticon-882,3.592,papagaj,parrot,papagaj
+clics-doculect-34-261,lowe1385-std,concepticon-913,3.593,garona,crow,garona
+clics-doculect-34-262,lowe1385-std,concepticon-913,3.593,karwona,crow,karwona
+clics-doculect-34-263,lowe1385-std,concepticon-1853,3.594,gołub,dove,golub
+clics-doculect-34-264,lowe1385-std,concepticon-735,3.596,sowa,owl,sowa
+clics-doculect-34-265,lowe1385-std,concepticon-2009,3.61,pjas,dog,pjas
+clics-doculect-34-266,lowe1385-std,concepticon-1136,3.614,karnikel,rabbit,karnikel
+clics-doculect-34-267,lowe1385-std,concepticon-1208,3.62,kócka,cat,kocka
+clics-doculect-34-268,lowe1385-std,concepticon-2139,3.63,myš,"mouse, rat",mys
+clics-doculect-34-269,lowe1385-std,concepticon-2139,3.63,ratwa,"mouse, rat",ratwa
+clics-doculect-34-270,lowe1385-std,concepticon-2139,3.63,wjelikamyš,"mouse, rat",wjelikamys
+clics-doculect-34-271,lowe1385-std,concepticon-227,3.65,ryba,fish,ryba
+clics-doculect-34-272,lowe1385-std,concepticon-213,3.652,pjeraso,fin (dorsal),pjeraso
+clics-doculect-34-273,lowe1385-std,concepticon-266,3.653,ceslina,fishscale,ceslina
+clics-doculect-34-274,lowe1385-std,concepticon-1916,3.654,chrapje,gill,chrapje
+clics-doculect-34-275,lowe1385-std,concepticon-598,3.655,mušla,shell,musla
+clics-doculect-34-276,lowe1385-std,concepticon-1110,3.661,hajryba,shark,hajryba
+clics-doculect-34-277,lowe1385-std,concepticon-1110,3.661,haj,shark,haj
+clics-doculect-34-278,lowe1385-std,concepticon-1110,3.661,žrawik,shark,zrawik
+clics-doculect-34-279,lowe1385-std,concepticon-1479,3.662,delfin,"porpoise, dolphin",delfin
+clics-doculect-34-280,lowe1385-std,concepticon-957,3.663,wjelryba,whale,wjelryba
+clics-doculect-34-281,lowe1385-std,concepticon-957,3.663,walryba,whale,walryba
+clics-doculect-34-282,lowe1385-std,concepticon-1013,3.665,wugoŕ,freshwater eel,wugor
+clics-doculect-34-283,lowe1385-std,concepticon-1013,3.665,al,freshwater eel,al
+clics-doculect-34-284,lowe1385-std,concepticon-522,3.71,wjelk,wolf,wjelk
+clics-doculect-34-285,lowe1385-std,concepticon-1386,3.72,law,lion,law
+clics-doculect-34-286,lowe1385-std,concepticon-1820,3.73,mjadwjeź,bear,mjadwjez
+clics-doculect-34-287,lowe1385-std,concepticon-1312,3.74,liška,fox,liska
+clics-doculect-34-288,lowe1385-std,concepticon-1936,3.75,jeleń,deer,jelen
+clics-doculect-34-289,lowe1385-std,concepticon-1936,3.75,sarnja,deer,sarnja
+clics-doculect-34-290,lowe1385-std,concepticon-1936,3.75,jelenje,deer,jelenje
+clics-doculect-34-291,lowe1385-std,concepticon-1350,3.76,nałpa,monkey,nalpa
+clics-doculect-34-292,lowe1385-std,concepticon-1350,3.76,afeńc,monkey,afenc
+clics-doculect-34-293,lowe1385-std,concepticon-1350,3.76,afa,monkey,afa
+clics-doculect-34-294,lowe1385-std,concepticon-1290,3.77,elefant,elephant,elefant
+clics-doculect-34-295,lowe1385-std,concepticon-1290,3.77,słon,elephant,slon
+clics-doculect-34-296,lowe1385-std,concepticon-1871,3.78,kamel,camel,kamel
+clics-doculect-34-297,lowe1385-std,concepticon-620,3.81,insekt,insect,insekt
+clics-doculect-34-298,lowe1385-std,concepticon-1392,3.811,weš,louse,wes
+clics-doculect-34-299,lowe1385-std,concepticon-267,3.812,gnida,nit (louse egg),gnida
+clics-doculect-34-300,lowe1385-std,concepticon-232,3.813,pcha,flea,pcha
+clics-doculect-34-301,lowe1385-std,concepticon-1538,3.815,skorpion,scorpion,skorpion
+clics-doculect-34-302,lowe1385-std,concepticon-1575,3.816,šaba,cockroach,saba
+clics-doculect-34-303,lowe1385-std,concepticon-1575,3.816,šwoba,cockroach,swoba
+clics-doculect-34-304,lowe1385-std,concepticon-587,3.817,mroja,ant,mroja
+clics-doculect-34-305,lowe1385-std,concepticon-843,3.818,pawk,spider,pawk
+clics-doculect-34-306,lowe1385-std,concepticon-1065,3.819,pawcyna,spider web,pawcyna
+clics-doculect-34-307,lowe1385-std,concepticon-665,3.82,pcołka,bee,pcolka
+clics-doculect-34-308,lowe1385-std,concepticon-1931,3.821,pcołkowywósk,beeswax,pcolkowywosk
+clics-doculect-34-309,lowe1385-std,concepticon-88,3.822,wul,beehive,wul
+clics-doculect-34-310,lowe1385-std,concepticon-88,3.822,kórb,beehive,korb
+clics-doculect-34-311,lowe1385-std,concepticon-1517,3.823,wósa,wasp,wosa
+clics-doculect-34-312,lowe1385-std,concepticon-1504,3.83,mucha,fly,mucha
+clics-doculect-34-313,lowe1385-std,concepticon-95,3.831,pšyca,"sandfly (midge), gnat",psyca
+clics-doculect-34-314,lowe1385-std,concepticon-95,3.831,kuntwor,"sandfly (midge), gnat",kuntwor
+clics-doculect-34-315,lowe1385-std,concepticon-1509,3.832,moskit,mosquito,moskit
+clics-doculect-34-316,lowe1385-std,concepticon-1219,3.84,wužeńc,worm,wuzenc
+clics-doculect-34-317,lowe1385-std,concepticon-1219,3.84,cerw,worm,cerw
+clics-doculect-34-318,lowe1385-std,concepticon-730,3.85,wuž,snake,wuz
+clics-doculect-34-319,lowe1385-std,concepticon-206,3.91,latarnik,firefly,latarnik
+clics-doculect-34-320,lowe1385-std,concepticon-1791,3.92,mjatel,butterfly,mjatel
+clics-doculect-34-321,lowe1385-std,concepticon-607,3.93,skóck,grasshopper,skock
+clics-doculect-34-322,lowe1385-std,concepticon-1543,3.94,slinik,snail,slinik
+clics-doculect-34-323,lowe1385-std,concepticon-1543,3.94,šneka,snail,sneka
+clics-doculect-34-324,lowe1385-std,concepticon-503,3.95,žaba,frog,zaba
+clics-doculect-34-325,lowe1385-std,concepticon-632,3.96,jašćerica,lizard,jascerica
+clics-doculect-34-326,lowe1385-std,concepticon-1857,3.97,krokodil,"crocodile, alligator",krokodil
+clics-doculect-34-327,lowe1385-std,concepticon-112,3.98,nopawa,turtle,nopawa
+clics-doculect-34-328,lowe1385-std,concepticon-1480,4.11,śěło,body,selo
+clics-doculect-34-329,lowe1385-std,concepticon-763,4.12,kóža,"skin, hide",koza
+clics-doculect-34-330,lowe1385-std,concepticon-2259,4.13,měso,flesh,meso
+clics-doculect-34-331,lowe1385-std,concepticon-1040,4.14,włos,hair (head),wlos
+clics-doculect-34-332,lowe1385-std,concepticon-678,4.142,broda,beard,broda
+clics-doculect-34-333,lowe1385-std,concepticon-189,4.144,kósma,body hair,kosma
+clics-doculect-34-334,lowe1385-std,concepticon-36,4.145,sromnekósmy,pubic hair,sromnekosmy
+clics-doculect-34-335,lowe1385-std,concepticon-576,4.146,spjerchlina,dandruff,spjerchlina
+clics-doculect-34-336,lowe1385-std,concepticon-946,4.15,kšej,blood,ksej
+clics-doculect-34-337,lowe1385-std,concepticon-525,4.151,žyła,"vein, artery",zyla
+clics-doculect-34-338,lowe1385-std,concepticon-525,4.151,wena,"vein, artery",wena
+clics-doculect-34-339,lowe1385-std,concepticon-525,4.151,arteria,"vein, artery",arteria
+clics-doculect-34-340,lowe1385-std,concepticon-1394,4.16,knocha,bone,knocha
+clics-doculect-34-341,lowe1385-std,concepticon-1394,4.16,kósć,bone,kosc
+clics-doculect-34-342,lowe1385-std,concepticon-801,4.162,kórabja,rib,korabja
+clics-doculect-34-343,lowe1385-std,concepticon-1393,4.17,rog,horn,rog
+clics-doculect-34-344,lowe1385-std,concepticon-1220,4.18,wogon,tail,wogon
+clics-doculect-34-345,lowe1385-std,concepticon-1291,4.19,kśebjat,back,ksebjat
+clics-doculect-34-346,lowe1385-std,concepticon-805,4.191,rěp,spine,rep
+clics-doculect-34-347,lowe1385-std,concepticon-1256,4.2,głowa,head,glowa
+clics-doculect-34-348,lowe1385-std,concepticon-1604,4.201,psyki,"side of head, temple",psyki
+clics-doculect-34-349,lowe1385-std,concepticon-1605,4.202,nop,skull,nop
+clics-doculect-34-350,lowe1385-std,concepticon-1605,4.202,knop,skull,knop
+clics-doculect-34-351,lowe1385-std,concepticon-1583,4.203,mórzgi,brain,morzgi
+clics-doculect-34-352,lowe1385-std,concepticon-1560,4.204,woblico,face,woblico
+clics-doculect-34-353,lowe1385-std,concepticon-123,4.205,coło,forehead,colo
+clics-doculect-34-354,lowe1385-std,concepticon-798,4.207,crjono,jaw,crjono
+clics-doculect-34-355,lowe1385-std,concepticon-798,4.207,škrjono,jaw,skrjono
+clics-doculect-34-356,lowe1385-std,concepticon-1730,4.208,lico,cheek,lico
+clics-doculect-34-357,lowe1385-std,concepticon-1510,4.209,pódguba,chin,podguba
+clics-doculect-34-358,lowe1385-std,concepticon-1248,4.21,woko,eye,woko
+clics-doculect-34-359,lowe1385-std,concepticon-1173,4.212,wobwóco,eyebrow,wobwoco
+clics-doculect-34-360,lowe1385-std,concepticon-17,4.213,pówoko,eyelid,powoko
+clics-doculect-34-361,lowe1385-std,concepticon-17,4.213,lapka,eyelid,lapka
+clics-doculect-34-362,lowe1385-std,concepticon-1540,4.214,mykawka,eyelash,mykawka
+clics-doculect-34-363,lowe1385-std,concepticon-1655,4.215,mykotaś,blink,mykotas
+clics-doculect-34-364,lowe1385-std,concepticon-1247,4.22,wucho,ear,wucho
+clics-doculect-34-365,lowe1385-std,concepticon-18,4.221,lapka,earlobe,lapka
+clics-doculect-34-366,lowe1385-std,concepticon-32,4.222,taług,earwax,talug
+clics-doculect-34-367,lowe1385-std,concepticon-1221,4.23,nos,nose,nos
+clics-doculect-34-368,lowe1385-std,concepticon-1178,4.231,nosowaźěrka,nostril,nosowazerka
+clics-doculect-34-369,lowe1385-std,concepticon-208,4.232,wochol,mucus (nasal),wochol
+clics-doculect-34-370,lowe1385-std,concepticon-208,4.232,parskel,mucus (nasal),parskel
+clics-doculect-34-371,lowe1385-std,concepticon-208,4.232,branzgel,mucus (nasal),branzgel
+clics-doculect-34-372,lowe1385-std,concepticon-674,4.24,guba,mouth,guba
+clics-doculect-34-373,lowe1385-std,concepticon-73,4.241,šnapac,beak,snapac
+clics-doculect-34-374,lowe1385-std,concepticon-73,4.241,šnobel,beak,snobel
+clics-doculect-34-375,lowe1385-std,concepticon-73,4.241,zob,beak,zob
+clics-doculect-34-376,lowe1385-std,concepticon-478,4.25,guba,lip,guba
+clics-doculect-34-377,lowe1385-std,concepticon-1205,4.26,jězyk,tongue,jezyk
+clics-doculect-34-378,lowe1385-std,concepticon-1380,4.27,zub,tooth,zub
+clics-doculect-34-379,lowe1385-std,concepticon-139,4.271,źěsna,gums,zesna
+clics-doculect-34-380,lowe1385-std,concepticon-1049,4.272,crjonak,molartooth,crjonak
+clics-doculect-34-381,lowe1385-std,concepticon-1333,4.28,šyja,neck,syja
+clics-doculect-34-382,lowe1385-std,concepticon-1347,4.281,tyło,nape of neck,tylo
+clics-doculect-34-383,lowe1385-std,concepticon-1347,4.281,knyka,nape of neck,knyka
+clics-doculect-34-384,lowe1385-std,concepticon-1346,4.29,gjargawa,throat,gjargawa
+clics-doculect-34-385,lowe1385-std,concepticon-1482,4.3,ramje,shoulder,ramje
+clics-doculect-34-386,lowe1385-std,concepticon-172,4.301,łopatka,shoulderblade,lopatka
+clics-doculect-34-387,lowe1385-std,concepticon-172,4.301,šupla,shoulderblade,supla
+clics-doculect-34-388,lowe1385-std,concepticon-1994,4.302,klucyna,collarbone,klucyna
+clics-doculect-34-389,lowe1385-std,concepticon-1673,4.31,ruka,arm,ruka
+clics-doculect-34-390,lowe1385-std,concepticon-1886,4.312,paža,armpit,paza
+clics-doculect-34-391,lowe1385-std,concepticon-981,4.32,łokś,elbow,loks
+clics-doculect-34-392,lowe1385-std,concepticon-799,4.321,rucnezgibk,wrist,rucnezgibk
+clics-doculect-34-393,lowe1385-std,concepticon-799,4.321,lenk,wrist,lenk
+clics-doculect-34-394,lowe1385-std,concepticon-1277,4.33,ruka,hand,ruka
+clics-doculect-34-395,lowe1385-std,concepticon-1183,4.331,dłoń,palm of hand,dlon
+clics-doculect-34-396,lowe1385-std,concepticon-1303,4.34,palc,finger,palc
+clics-doculect-34-397,lowe1385-std,concepticon-1781,4.342,wjelikipalc,thumb,wjelikipalc
+clics-doculect-34-398,lowe1385-std,concepticon-1258,4.344,nokś,fingernail,noks
+clics-doculect-34-399,lowe1385-std,concepticon-72,4.345,parnocht,claw,parnocht
+clics-doculect-34-400,lowe1385-std,concepticon-72,4.345,pazora,claw,pazora
+clics-doculect-34-401,lowe1385-std,concepticon-1297,4.35,noga,leg,noga
+clics-doculect-34-402,lowe1385-std,concepticon-800,4.351,sćogno,thigh,scogno
+clics-doculect-34-403,lowe1385-std,concepticon-498,4.352,brjuško,calf of leg,brjusko
+clics-doculect-34-404,lowe1385-std,concepticon-1371,4.36,kóleno,knee,koleno
+clics-doculect-34-405,lowe1385-std,concepticon-1301,4.37,noga,foot,noga
+clics-doculect-34-406,lowe1385-std,concepticon-803,4.371,glozonk,ankle,glozonk
+clics-doculect-34-407,lowe1385-std,concepticon-980,4.372,pěta,heel,peta
+clics-doculect-34-408,lowe1385-std,concepticon-318,4.374,stopa,footprint,stopa
+clics-doculect-34-409,lowe1385-std,concepticon-1389,4.38,palc,toe,palc
+clics-doculect-34-410,lowe1385-std,concepticon-1257,4.392,kśidło,wing,ksidlo
+clics-doculect-34-411,lowe1385-std,concepticon-1201,4.393,pjero,feather,pjero
+clics-doculect-34-412,lowe1385-std,concepticon-1592,4.4,brust,chest,brust
+clics-doculect-34-413,lowe1385-std,concepticon-1592,4.4,gruź,chest,gruz
+clics-doculect-34-414,lowe1385-std,concepticon-1402,4.41,nadro,breast (of woman),nadro
+clics-doculect-34-415,lowe1385-std,concepticon-796,4.412,brodajca,"nipple, teat",brodajca
+clics-doculect-34-416,lowe1385-std,concepticon-796,4.412,cyck,"nipple, teat",cyck
+clics-doculect-34-417,lowe1385-std,concepticon-154,4.42,wumje,udder,wumje
+clics-doculect-34-418,lowe1385-std,concepticon-1838,4.43,pup,navel,pup
+clics-doculect-34-419,lowe1385-std,concepticon-1223,4.44,wutšoba,heart,wutsoba
+clics-doculect-34-420,lowe1385-std,concepticon-688,4.441,płuca,lung,pluca
+clics-doculect-34-421,lowe1385-std,concepticon-688,4.441,lunga,lung,lunga
+clics-doculect-34-422,lowe1385-std,concepticon-1224,4.45,jětša,liver,jetsa
+clics-doculect-34-423,lowe1385-std,concepticon-489,4.451,nerka,kidney,nerka
+clics-doculect-34-424,lowe1385-std,concepticon-1744,4.452,słozyna,spleen,slozyna
+clics-doculect-34-425,lowe1385-std,concepticon-819,4.46,magan,stomach,magan
+clics-doculect-34-426,lowe1385-std,concepticon-819,4.46,žołdk,stomach,zoldk
+clics-doculect-34-427,lowe1385-std,concepticon-1991,4.461,crjowa,"intestines, guts",crjowa
+clics-doculect-34-428,lowe1385-std,concepticon-1681,4.462,talja,waist,talja
+clics-doculect-34-429,lowe1385-std,concepticon-1745,4.463,kłud,hip,klud
+clics-doculect-34-430,lowe1385-std,concepticon-834,4.464,slědk,buttocks,sledk
+clics-doculect-34-431,lowe1385-std,concepticon-804,4.47,roźeńca,womb,rozenca
+clics-doculect-34-432,lowe1385-std,concepticon-797,4.49,jajo,testicle,jajo
+clics-doculect-34-433,lowe1385-std,concepticon-1222,4.492,penis,penis,penis
+clics-doculect-34-434,lowe1385-std,concepticon-1222,4.492,tšumpel,penis,tsumpel
+clics-doculect-34-435,lowe1385-std,concepticon-1407,4.51,dychaś,"breathe, breath",dychas
+clics-doculect-34-436,lowe1385-std,concepticon-1028,4.52,zewaś,"yawn, gape",zewas
+clics-doculect-34-437,lowe1385-std,concepticon-162,4.521,hykaś,hiccough,hykas
+clics-doculect-34-438,lowe1385-std,concepticon-879,4.53,kašliś,cough,kaslis
+clics-doculect-34-439,lowe1385-std,concepticon-1621,4.54,tśichaś,sneeze,tsichas
+clics-doculect-34-440,lowe1385-std,concepticon-126,4.55,znojśse,perspire,znojsse
+clics-doculect-34-441,lowe1385-std,concepticon-1440,4.56,pluwaś,spit,pluwas
+clics-doculect-34-442,lowe1385-std,concepticon-1278,4.57,bluwaś,vomit,bluwas
+clics-doculect-34-443,lowe1385-std,concepticon-1403,4.58,kusaś,bite,kusas
+clics-doculect-34-444,lowe1385-std,concepticon-319,4.59,lizaś,lick,lizas
+clics-doculect-34-445,lowe1385-std,concepticon-268,4.591,sliniś,dribble,slinis
+clics-doculect-34-446,lowe1385-std,concepticon-1585,4.61,spaś,sleep,spas
+clics-doculect-34-447,lowe1385-std,concepticon-1983,4.612,smarcaś,snore,smarcas
+clics-doculect-34-448,lowe1385-std,concepticon-1920,4.62,cowaś,dream,cowas
+clics-doculect-34-449,lowe1385-std,concepticon-1602,4.63,wócuśeś,wake up,wocuses
+clics-doculect-34-450,lowe1385-std,concepticon-1159,4.64,rikaś,break wind,rikas
+clics-doculect-34-451,lowe1385-std,concepticon-592,4.65,scaś,urinate,scas
+clics-doculect-34-452,lowe1385-std,concepticon-676,4.66,sraś,defecate,sras
+clics-doculect-34-453,lowe1385-std,concepticon-1785,4.67,wótspaś,have sexual intercourse,wotspas
+clics-doculect-34-454,lowe1385-std,concepticon-1785,4.67,walaś,have sexual intercourse,walas
+clics-doculect-34-455,lowe1385-std,concepticon-1785,4.67,spaś,have sexual intercourse,spas
+clics-doculect-34-456,lowe1385-std,concepticon-52,4.68,tśěsć,shiver,tsesc
+clics-doculect-34-457,lowe1385-std,concepticon-138,4.69,kupaśse,bathe,kupasse
+clics-doculect-34-458,lowe1385-std,concepticon-1152,4.71,płoźiś,beget (of father),plozis
+clics-doculect-34-459,lowe1385-std,concepticon-1090,4.72,naroźiśse,born (to be),narozisse
+clics-doculect-34-460,lowe1385-std,concepticon-1123,4.73,samadruga,pregnant,samadruga
+clics-doculect-34-461,lowe1385-std,concepticon-1087,4.732,pódjeś,conceive,podjes
+clics-doculect-34-462,lowe1385-std,concepticon-1422,4.74,labowaś,"live, living, life",labowas
+clics-doculect-34-463,lowe1385-std,concepticon-1422,4.74,žywybyś,"live, living, life",zywybys
+clics-doculect-34-464,lowe1385-std,concepticon-1494,4.75,wumrěś,"die, dead",wumres
+clics-doculect-34-465,lowe1385-std,concepticon-1904,4.751,zalaśse,drowned,zalasse
+clics-doculect-34-466,lowe1385-std,concepticon-1417,4.76,zabiś,kill,zabis
+clics-doculect-34-467,lowe1385-std,concepticon-767,4.77,śěło,corpse,selo
+clics-doculect-34-468,lowe1385-std,concepticon-1719,4.78,zakopowaś,bury (the dead),zakopowas
+clics-doculect-34-469,lowe1385-std,concepticon-1773,4.79,row,"grave, tomb",row
+clics-doculect-34-470,lowe1385-std,concepticon-785,4.81,mócny,"strong, mighty, powerful",mocny
+clics-doculect-34-471,lowe1385-std,concepticon-1601,4.82,słaby,weak,slaby
+clics-doculect-34-472,lowe1385-std,concepticon-1364,4.83,strowy,"well, health",strowy
+clics-doculect-34-473,lowe1385-std,concepticon-1847,4.84,chóry,"sick, sickness",chory
+clics-doculect-34-474,lowe1385-std,concepticon-1534,4.841,zymnica,fever,zymnica
+clics-doculect-34-475,lowe1385-std,concepticon-1534,4.841,fiber,fever,fiber
+clics-doculect-34-476,lowe1385-std,concepticon-1957,4.842,chrop,goiter,chrop
+clics-doculect-34-477,lowe1385-std,concepticon-102,4.843,pśezymnjenje,cold (catarrh),psezymnjenje
+clics-doculect-34-478,lowe1385-std,concepticon-1109,4.85,rana,"wound, sore",rana
+clics-doculect-34-479,lowe1385-std,concepticon-1148,4.852,módryflak,bruise,modryflak
+clics-doculect-34-480,lowe1385-std,concepticon-1903,4.853,wopuklina,swelling,wopuklina
+clics-doculect-34-481,lowe1385-std,concepticon-1903,4.853,kula,swelling,kula
+clics-doculect-34-482,lowe1385-std,concepticon-148,4.854,swjerbjenje,itch,swjerbjenje
+clics-doculect-34-483,lowe1385-std,concepticon-1584,4.855,puchoŕ,blister,puchor
+clics-doculect-34-484,lowe1385-std,concepticon-793,4.856,wrjod,boil (noun),wrjod
+clics-doculect-34-485,lowe1385-std,concepticon-793,4.856,swińc,boil (noun),swinc
+clics-doculect-34-486,lowe1385-std,concepticon-1808,4.857,taług,pus,talug
+clics-doculect-34-487,lowe1385-std,concepticon-1808,4.857,gnoj,pus,gnoj
+clics-doculect-34-488,lowe1385-std,concepticon-497,4.858,šmara,scar,smara
+clics-doculect-34-489,lowe1385-std,concepticon-497,4.858,bluzna,scar,bluzna
+clics-doculect-34-490,lowe1385-std,concepticon-499,4.86,gójś,"cure, heal",gojs
+clics-doculect-34-491,lowe1385-std,concepticon-597,4.87,duchtaŕ,physician,duchtar
+clics-doculect-34-492,lowe1385-std,concepticon-597,4.87,gójc,physician,gojc
+clics-doculect-34-493,lowe1385-std,concepticon-1372,4.88,medicina,"medicine, drug",medicina
+clics-doculect-34-494,lowe1385-std,concepticon-1372,4.88,lěkarstwo,"medicine, drug",lekarstwo
+clics-doculect-34-495,lowe1385-std,concepticon-1372,4.88,gójarstwo,"medicine, drug",gojarstwo
+clics-doculect-34-496,lowe1385-std,concepticon-655,4.89,gad,poison,gad
+clics-doculect-34-497,lowe1385-std,concepticon-655,4.89,gift,poison,gift
+clics-doculect-34-498,lowe1385-std,concepticon-1757,4.91,mucny,"tired, weary",mucny
+clics-doculect-34-499,lowe1385-std,concepticon-168,4.912,wótpócywaś,rest,wotpocywas
+clics-doculect-34-500,lowe1385-std,concepticon-1564,4.92,gniły,lazy,gnily
+clics-doculect-34-501,lowe1385-std,concepticon-1125,4.93,goły,bald,goly
+clics-doculect-34-502,lowe1385-std,concepticon-320,4.94,chromy,lame,chromy
+clics-doculect-34-503,lowe1385-std,concepticon-996,4.95,głuchy,deaf,gluchy
+clics-doculect-34-504,lowe1385-std,concepticon-1666,4.96,nimy,mute,nimy
+clics-doculect-34-505,lowe1385-std,concepticon-1653,4.97,slěpy,blind,slepy
+clics-doculect-34-506,lowe1385-std,concepticon-1463,4.98,napity,intoxicated,napity
+clics-doculect-34-507,lowe1385-std,concepticon-1463,4.98,pijany,intoxicated,pijany
+clics-doculect-34-508,lowe1385-std,concepticon-590,4.99,nagi,"naked, bare",nagi
+clics-doculect-34-509,lowe1385-std,concepticon-1336,5.11,jěsć,eat,jesc
+clics-doculect-34-510,lowe1385-std,concepticon-256,5.12,jěza,food,jeza
+clics-doculect-34-511,lowe1385-std,concepticon-269,5.121,warjony,cooked,warjony
+clics-doculect-34-512,lowe1385-std,concepticon-1959,5.122,syry,raw,syry
+clics-doculect-34-513,lowe1385-std,concepticon-178,5.123,zdrjały,ripe,zdrjaly
+clics-doculect-34-514,lowe1385-std,concepticon-1958,5.124,njezdrjały,"green, unripe",njezdrjaly
+clics-doculect-34-515,lowe1385-std,concepticon-1728,5.125,zgnity,rotten,zgnity
+clics-doculect-34-516,lowe1385-std,concepticon-1401,5.13,piś,drink,pis
+clics-doculect-34-517,lowe1385-std,concepticon-1864,5.14,głodnybyś,hunger,glodnybys
+clics-doculect-34-518,lowe1385-std,concepticon-199,5.141,głod,famine,glod
+clics-doculect-34-519,lowe1385-std,concepticon-848,5.15,łacnybyś,thirst,lacnybys
+clics-doculect-34-520,lowe1385-std,concepticon-1421,5.16,cycaś,suck,cycas
+clics-doculect-34-521,lowe1385-std,concepticon-321,5.18,kusaś,chew,kusas
+clics-doculect-34-522,lowe1385-std,concepticon-897,5.181,póžrěś,swallow,pozres
+clics-doculect-34-523,lowe1385-std,concepticon-129,5.19,zadušyś,choke,zadusys
+clics-doculect-34-524,lowe1385-std,concepticon-1100,5.21,wariś,cook,waris
+clics-doculect-34-525,lowe1385-std,concepticon-792,5.22,wariśse,boil (vb),warisse
+clics-doculect-34-526,lowe1385-std,concepticon-2146,5.23,pjac,"roast, fry",pjac
+clics-doculect-34-527,lowe1385-std,concepticon-183,5.24,pjac,bake,pjac
+clics-doculect-34-528,lowe1385-std,concepticon-1143,5.25,pjac,oven,pjac
+clics-doculect-34-529,lowe1385-std,concepticon-1462,5.26,gjarnc,"pot, cooking vessel",gjarnc
+clics-doculect-34-530,lowe1385-std,concepticon-854,5.27,kóśeł,kettle,kosel
+clics-doculect-34-531,lowe1385-std,concepticon-31,5.28,brotfana,pan,brotfana
+clics-doculect-34-532,lowe1385-std,concepticon-31,5.28,panej,pan,panej
+clics-doculect-34-533,lowe1385-std,concepticon-481,5.31,škla,dish,skla
+clics-doculect-34-534,lowe1385-std,concepticon-480,5.32,talaŕ,plate,talar
+clics-doculect-34-535,lowe1385-std,concepticon-1530,5.33,škla,bowl,skla
+clics-doculect-34-536,lowe1385-std,concepticon-270,5.34,kruž,"pitcher, jug",kruz
+clics-doculect-34-537,lowe1385-std,concepticon-270,5.34,banja,"pitcher, jug",banja
+clics-doculect-34-538,lowe1385-std,concepticon-476,5.35,tasa,"cup, drinking vessel",tasa
+clics-doculect-34-539,lowe1385-std,concepticon-271,5.36,šklicka,saucer,sklicka
+clics-doculect-34-540,lowe1385-std,concepticon-1378,5.37,łžyca,spoon,lzyca
+clics-doculect-34-541,lowe1385-std,concepticon-1352,5.38,nož,knife,noz
+clics-doculect-34-542,lowe1385-std,concepticon-337,5.39,widlicki,fork,widlicki
+clics-doculect-34-543,lowe1385-std,concepticon-272,5.391,klěšće,tongs,klesce
+clics-doculect-34-544,lowe1385-std,concepticon-1526,5.41,jěza,meal (a),jeza
+clics-doculect-34-545,lowe1385-std,concepticon-1322,5.42,fryštuka,breakfast,frystuka
+clics-doculect-34-546,lowe1385-std,concepticon-1322,5.42,snědanje,breakfast,snedanje
+clics-doculect-34-547,lowe1385-std,concepticon-768,5.43,wobjed,lunch,wobjed
+clics-doculect-34-548,lowe1385-std,concepticon-1833,5.45,wjacerja,supper,wjacerja
+clics-doculect-34-549,lowe1385-std,concepticon-275,5.46,běliś,peel,belis
+clics-doculect-34-550,lowe1385-std,concepticon-86,5.47,wósowaś,"sieve, strain",wosowas
+clics-doculect-34-551,lowe1385-std,concepticon-1767,5.48,škrabaś,scrape,skrabas
+clics-doculect-34-552,lowe1385-std,concepticon-2017,5.49,měšaś,"stir, mix",mesas
+clics-doculect-34-553,lowe1385-std,concepticon-1368,5.51,klěb,bread,kleb
+clics-doculect-34-554,lowe1385-std,concepticon-273,5.53,śěsto,dough,sesto
+clics-doculect-34-555,lowe1385-std,concepticon-274,5.54,měsyś,knead,mesys
+clics-doculect-34-556,lowe1385-std,concepticon-1594,5.55,muka,"meal, flour",muka
+clics-doculect-34-557,lowe1385-std,concepticon-1033,5.56,mlaś,"crush, grind",mlas
+clics-doculect-34-558,lowe1385-std,concepticon-636,5.57,młyn,mill,mlyn
+clics-doculect-34-559,lowe1385-std,concepticon-224,5.58,mjeržel,mortar,mjerzel
+clics-doculect-34-560,lowe1385-std,concepticon-225,5.59,tłucnik,pestle,tlucnik
+clics-doculect-34-561,lowe1385-std,concepticon-634,5.61,měso,meat,meso
+clics-doculect-34-562,lowe1385-std,concepticon-1874,5.63,jěšnica,sausage,jesnica
+clics-doculect-34-563,lowe1385-std,concepticon-1547,5.64,zupa,"soup, broth",zupa
+clics-doculect-34-564,lowe1385-std,concepticon-1547,5.64,pólewanka,"soup, broth",polewanka
+clics-doculect-34-565,lowe1385-std,concepticon-924,5.65,zelenina,vegetables,zelenina
+clics-doculect-34-566,lowe1385-std,concepticon-832,5.66,bob,bean,bob
+clics-doculect-34-567,lowe1385-std,concepticon-832,5.66,šnibob,bean,snibob
+clics-doculect-34-568,lowe1385-std,concepticon-593,5.7,kulka,potato,kulka
+clics-doculect-34-569,lowe1385-std,concepticon-1507,5.71,płod,fruit,plod
+clics-doculect-34-570,lowe1385-std,concepticon-1966,5.712,bundel,bunch,bundel
+clics-doculect-34-571,lowe1385-std,concepticon-322,5.75,figa,fig,figa
+clics-doculect-34-572,lowe1385-std,concepticon-920,5.76,granka,grape,granka
+clics-doculect-34-573,lowe1385-std,concepticon-191,5.77,wórjech,nut,worjech
+clics-doculect-34-574,lowe1385-std,concepticon-1154,5.78,oliwa,olive,oliwa
+clics-doculect-34-575,lowe1385-std,concepticon-1484,5.79,wólej,oil,wolej
+clics-doculect-34-576,lowe1385-std,concepticon-323,5.791,tucne,"grease, fat",tucne
+clics-doculect-34-577,lowe1385-std,concepticon-1274,5.81,sol,salt,sol
+clics-doculect-34-578,lowe1385-std,concepticon-1385,5.82,pjepjeŕ,pepper,pjepjer
+clics-doculect-34-579,lowe1385-std,concepticon-919,5.821,paprika,chili pepper,paprika
+clics-doculect-34-580,lowe1385-std,concepticon-942,5.84,mjod,honey,mjod
+clics-doculect-34-581,lowe1385-std,concepticon-862,5.85,cukor,sugar,cukor
+clics-doculect-34-582,lowe1385-std,concepticon-635,5.86,mloko,milk (noun),mloko
+clics-doculect-34-583,lowe1385-std,concepticon-93,5.87,dojś,milk (vb),dojs
+clics-doculect-34-584,lowe1385-std,concepticon-1569,5.88,twarožk,cheese,twarozk
+clics-doculect-34-585,lowe1385-std,concepticon-1245,5.89,butra,butter,butra
+clics-doculect-34-586,lowe1385-std,concepticon-731,5.9,piśe,"beverage, drink",pise
+clics-doculect-34-587,lowe1385-std,concepticon-731,5.9,napoj,"beverage, drink",napoj
+clics-doculect-34-588,lowe1385-std,concepticon-941,5.91,mjodowina,mead,mjodowina
+clics-doculect-34-589,lowe1385-std,concepticon-1524,5.92,wino,wine,wino
+clics-doculect-34-590,lowe1385-std,concepticon-1639,5.93,piwo,beer,piwo
+clics-doculect-34-591,lowe1385-std,concepticon-744,5.97,jajo,egg,jajo
+clics-doculect-34-592,lowe1385-std,concepticon-1556,5.971,cenk,egg yolk,cenk
+clics-doculect-34-593,lowe1385-std,concepticon-158,6.11,woblekaś,put on (clothes),woblekas
+clics-doculect-34-594,lowe1385-std,concepticon-1895,6.12,drastwa,"clothing, clothes",drastwa
+clics-doculect-34-595,lowe1385-std,concepticon-881,6.13,šlodaŕ,tailor,slodar
+clics-doculect-34-596,lowe1385-std,concepticon-1616,6.21,sukno,cloth,sukno
+clics-doculect-34-597,lowe1385-std,concepticon-964,6.22,wałma,wool,walma
+clics-doculect-34-598,lowe1385-std,concepticon-916,6.23,płat,"linen, flax",plat
+clics-doculect-34-599,lowe1385-std,concepticon-916,6.23,lejwant,"linen, flax",lejwant
+clics-doculect-34-600,lowe1385-std,concepticon-1850,6.24,bałma,cotton,balma
+clics-doculect-34-601,lowe1385-std,concepticon-1850,6.24,bomelwałma,cotton,bomelwalma
+clics-doculect-34-602,lowe1385-std,concepticon-1641,6.25,žyźe,silk,zyze
+clics-doculect-34-603,lowe1385-std,concepticon-325,6.27,filc,felt,filc
+clics-doculect-34-604,lowe1385-std,concepticon-580,6.28,kóžuch,fur,kozuch
+clics-doculect-34-605,lowe1385-std,concepticon-629,6.29,kóža,leather,koza
+clics-doculect-34-606,lowe1385-std,concepticon-121,6.31,pśěsć,spin,psesc
+clics-doculect-34-607,lowe1385-std,concepticon-277,6.32,wrjeśeno,spindle,wrjeseno
+clics-doculect-34-608,lowe1385-std,concepticon-133,6.33,tkaś,weave,tkas
+clics-doculect-34-609,lowe1385-std,concepticon-1787,6.34,staśiwy,loom,stasiwy
+clics-doculect-34-610,lowe1385-std,concepticon-1457,6.35,šyś,sew,sys
+clics-doculect-34-611,lowe1385-std,concepticon-1382,6.36,glicka,needle,glicka
+clics-doculect-34-612,lowe1385-std,concepticon-1382,6.36,šywalnica,needle,sywalnica
+clics-doculect-34-613,lowe1385-std,concepticon-278,6.37,šydło,awl,sydlo
+clics-doculect-34-614,lowe1385-std,concepticon-1161,6.38,niś,thread,nis
+clics-doculect-34-615,lowe1385-std,concepticon-157,6.39,barwiś,dye,barwis
+clics-doculect-34-616,lowe1385-std,concepticon-326,6.41,mantel,cloak,mantel
+clics-doculect-34-617,lowe1385-std,concepticon-326,6.41,płašć,cloak,plasc
+clics-doculect-34-618,lowe1385-std,concepticon-327,6.411,pontšo,poncho,pontso
+clics-doculect-34-619,lowe1385-std,concepticon-474,6.42,suknja,woman's dress,suknja
+clics-doculect-34-620,lowe1385-std,concepticon-474,6.42,klejd,woman's dress,klejd
+clics-doculect-34-621,lowe1385-std,concepticon-603,6.43,jaka,coat,jaka
+clics-doculect-34-622,lowe1385-std,concepticon-603,6.43,kamzol,coat,kamzol
+clics-doculect-34-623,lowe1385-std,concepticon-1622,6.44,zgło,shirt,zglo
+clics-doculect-34-624,lowe1385-std,concepticon-2012,6.45,kraga,collar,kraga
+clics-doculect-34-625,lowe1385-std,concepticon-2012,6.45,kłopka,collar,klopka
+clics-doculect-34-626,lowe1385-std,concepticon-1600,6.46,kóšula,skirt,kosula
+clics-doculect-34-627,lowe1385-std,concepticon-809,6.48,zec,trousers,zec
+clics-doculect-34-628,lowe1385-std,concepticon-329,6.49,štrumpa,"stocking, sock",strumpa
+clics-doculect-34-629,lowe1385-std,concepticon-1381,6.51,crjej,shoe,crjej
+clics-doculect-34-630,lowe1385-std,concepticon-585,6.52,škórnja,boot,skornja
+clics-doculect-34-631,lowe1385-std,concepticon-875,6.54,šejc,"shoemaker, cobbler",sejc
+clics-doculect-34-632,lowe1385-std,concepticon-2130,6.55,kłobyk,"hat, cap",klobyk
+clics-doculect-34-633,lowe1385-std,concepticon-772,6.57,pas,"belt, girdle",pas
+clics-doculect-34-634,lowe1385-std,concepticon-867,6.58,rukajca,glove,rukajca
+clics-doculect-34-635,lowe1385-std,concepticon-1151,6.59,šlewjeŕ,veil,slewjer
+clics-doculect-34-636,lowe1385-std,concepticon-1851,6.61,kapsa,pocket,kapsa
+clics-doculect-34-637,lowe1385-std,concepticon-757,6.62,bublin,button,bublin
+clics-doculect-34-638,lowe1385-std,concepticon-64,6.63,glicka,pin,glicka
+clics-doculect-34-639,lowe1385-std,concepticon-917,6.71,wupyšnjenje,"ornament, adornment",wupysnjenje
+clics-doculect-34-640,lowe1385-std,concepticon-917,6.71,pyšnjeńki,"ornament, adornment",pysnjenki
+clics-doculect-34-641,lowe1385-std,concepticon-917,6.71,pyšnotka,"ornament, adornment",pysnotka
+clics-doculect-34-642,lowe1385-std,concepticon-1029,6.72,juwel,jewel,juwel
+clics-doculect-34-643,lowe1385-std,concepticon-1374,6.73,pjeršćeń,ring (for finger),pjerscen
+clics-doculect-34-644,lowe1385-std,concepticon-1754,6.74,narucnik,bracelet,narucnik
+clics-doculect-34-645,lowe1385-std,concepticon-1961,6.75,rjeśazk,necklace,rjesazk
+clics-doculect-34-646,lowe1385-std,concepticon-1860,6.76,parla,bead,parla
+clics-doculect-34-647,lowe1385-std,concepticon-770,6.77,zawušnik,earring,zawusnik
+clics-doculect-34-648,lowe1385-std,concepticon-330,6.78,pódwijka,"headband, headdress",podwijka
+clics-doculect-34-649,lowe1385-std,concepticon-68,6.79,tetowěrowanje,tattoo,tetowerowanje
+clics-doculect-34-650,lowe1385-std,concepticon-332,6.81,šnyptuch,"handkerchief, rag",snyptuch
+clics-doculect-34-651,lowe1385-std,concepticon-332,6.81,šantk,"handkerchief, rag",santk
+clics-doculect-34-652,lowe1385-std,concepticon-1021,6.82,hantwal,towel,hantwal
+clics-doculect-34-653,lowe1385-std,concepticon-1475,6.91,cesak,comb,cesak
+clics-doculect-34-654,lowe1385-std,concepticon-1821,6.92,bjeršta,brush,bjersta
+clics-doculect-34-655,lowe1385-std,concepticon-333,6.921,cop,braid,cop
+clics-doculect-34-656,lowe1385-std,concepticon-333,6.921,zapleta,braid,zapleta
+clics-doculect-34-657,lowe1385-std,concepticon-151,6.93,britwa,razor,britwa
+clics-doculect-34-658,lowe1385-std,concepticon-1926,6.94,žałba,ointment,zalba
+clics-doculect-34-659,lowe1385-std,concepticon-788,6.95,zejpa,soap,zejpa
+clics-doculect-34-660,lowe1385-std,concepticon-788,6.95,mydło,soap,mydlo
+clics-doculect-34-661,lowe1385-std,concepticon-1171,6.96,glědałko,mirror,gledalko
+clics-doculect-34-662,lowe1385-std,concepticon-363,7.11,bydliś,"dwell, live",bydlis
+clics-doculect-34-663,lowe1385-std,concepticon-1252,7.12,dom,house,dom
+clics-doculect-34-664,lowe1385-std,concepticon-1252,7.12,śpa,house,spa
+clics-doculect-34-665,lowe1385-std,concepticon-1678,7.13,buda,hut,buda
+clics-doculect-34-666,lowe1385-std,concepticon-1316,7.14,celt,tent,celt
+clics-doculect-34-667,lowe1385-std,concepticon-1316,7.14,stan,tent,stan
+clics-doculect-34-668,lowe1385-std,concepticon-736,7.15,dwór,"yard, court",dwor
+clics-doculect-34-669,lowe1385-std,concepticon-334,7.17,kuchnja,cookhouse,kuchnja
+clics-doculect-34-670,lowe1385-std,concepticon-1450,7.21,śpa,room,spa
+clics-doculect-34-671,lowe1385-std,concepticon-1567,7.22,źurja,"door, gate",zurja
+clics-doculect-34-672,lowe1385-std,concepticon-1567,7.22,wrota,"door, gate",wrota
+clics-doculect-34-673,lowe1385-std,concepticon-80,7.221,słup,"doorpost, jamb",slup
+clics-doculect-34-674,lowe1385-std,concepticon-1596,7.23,pyto,lock (noun),pyto
+clics-doculect-34-675,lowe1385-std,concepticon-1012,7.231,zamk,"latch, door-bolt",zamk
+clics-doculect-34-676,lowe1385-std,concepticon-1472,7.24,kluc,key,kluc
+clics-doculect-34-677,lowe1385-std,concepticon-1375,7.25,wokno,window,wokno
+clics-doculect-34-678,lowe1385-std,concepticon-1632,7.26,spódk,floor,spodk
+clics-doculect-34-679,lowe1385-std,concepticon-1632,7.26,špundowanje,floor,spundowanje
+clics-doculect-34-680,lowe1385-std,concepticon-933,7.27,sćěna,wall,scena
+clics-doculect-34-681,lowe1385-std,concepticon-185,7.31,kamin,fireplace,kamin
+clics-doculect-34-682,lowe1385-std,concepticon-185,7.31,wognisćo,fireplace,wognisco
+clics-doculect-34-683,lowe1385-std,concepticon-859,7.32,kamjenki,stove,kamjenki
+clics-doculect-34-684,lowe1385-std,concepticon-1305,7.33,fajernica,chimney,fajernica
+clics-doculect-34-685,lowe1385-std,concepticon-1305,7.33,wugeń,chimney,wugen
+clics-doculect-34-686,lowe1385-std,concepticon-1305,7.33,dymnica,chimney,dymnica
+clics-doculect-34-687,lowe1385-std,concepticon-1464,7.37,jabeŕ,ladder,jaber
+clics-doculect-34-688,lowe1385-std,concepticon-1663,7.42,póstola,bed,postola
+clics-doculect-34-689,lowe1385-std,concepticon-1044,7.421,zagłowk,pillow,zaglowk
+clics-doculect-34-690,lowe1385-std,concepticon-806,7.422,deka,blanket,deka
+clics-doculect-34-691,lowe1385-std,concepticon-806,7.422,pókšywadło,blanket,poksywadlo
+clics-doculect-34-692,lowe1385-std,concepticon-1476,7.43,stoł,chair,stol
+clics-doculect-34-693,lowe1385-std,concepticon-1775,7.44,blido,table,blido
+clics-doculect-34-694,lowe1385-std,concepticon-2131,7.45,lampa,"lamp, torch",lampa
+clics-doculect-34-695,lowe1385-std,concepticon-2131,7.45,fakla,"lamp, torch",fakla
+clics-doculect-34-696,lowe1385-std,concepticon-2131,7.45,pochornja,"lamp, torch",pochornja
+clics-doculect-34-697,lowe1385-std,concepticon-1273,7.46,swěca,candle,sweca
+clics-doculect-34-698,lowe1385-std,concepticon-745,7.47,dela,shelf,dela
+clics-doculect-34-699,lowe1385-std,concepticon-745,7.47,pólica,shelf,polica
+clics-doculect-34-700,lowe1385-std,concepticon-205,7.48,kóryto,trough,koryto
+clics-doculect-34-701,lowe1385-std,concepticon-769,7.51,kšywo,roof,ksywo
+clics-doculect-34-702,lowe1385-std,concepticon-279,7.52,słomjanekšywo,thatch,slomjaneksywo
+clics-doculect-34-703,lowe1385-std,concepticon-280,7.53,kopankowagrěda,ridgepole,kopankowagreda
+clics-doculect-34-704,lowe1385-std,concepticon-280,7.53,kopankowabałka,ridgepole,kopankowabalka
+clics-doculect-34-705,lowe1385-std,concepticon-280,7.53,rejtaŕ,ridgepole,rejtar
+clics-doculect-34-706,lowe1385-std,concepticon-829,7.54,kózołnik,rafter,kozolnik
+clics-doculect-34-707,lowe1385-std,concepticon-1132,7.55,bałka,beam,balka
+clics-doculect-34-708,lowe1385-std,concepticon-1132,7.55,grěda,beam,greda
+clics-doculect-34-709,lowe1385-std,concepticon-281,7.56,słup,"post, pole",slup
+clics-doculect-34-710,lowe1385-std,concepticon-1227,7.57,dela,board,dela
+clics-doculect-34-711,lowe1385-std,concepticon-876,7.58,wobłuk,arch,wobluk
+clics-doculect-34-712,lowe1385-std,concepticon-877,7.61,murjaŕ,mason,murjar
+clics-doculect-34-713,lowe1385-std,concepticon-1006,7.62,cygel,brick,cygel
+clics-doculect-34-714,lowe1385-std,concepticon-224,7.63,mertel,mortar,mertel
+clics-doculect-34-715,lowe1385-std,concepticon-979,8.11,bur,farmer,bur
+clics-doculect-34-716,lowe1385-std,concepticon-212,8.12,pólo,field (for cultivation),polo
+clics-doculect-34-717,lowe1385-std,concepticon-586,8.13,zagroda,garden,zagroda
+clics-doculect-34-718,lowe1385-std,concepticon-586,8.13,gumno,garden,gumno
+clics-doculect-34-719,lowe1385-std,concepticon-1541,8.15,wobźěłaś,"cultivate, till",wobzelas
+clics-doculect-34-720,lowe1385-std,concepticon-1690,8.16,płot,fence,plot
+clics-doculect-34-721,lowe1385-std,concepticon-2002,8.17,grobla,ditch,grobla
+clics-doculect-34-722,lowe1385-std,concepticon-1921,8.21,wóraś,plow,woras
+clics-doculect-34-723,lowe1385-std,concepticon-1794,8.212,brozda,furrow,brozda
+clics-doculect-34-724,lowe1385-std,concepticon-1418,8.22,ryś,dig,rys
+clics-doculect-34-725,lowe1385-std,concepticon-1176,8.23,špóda,spade,spoda
+clics-doculect-34-726,lowe1385-std,concepticon-1901,8.24,šupa,shovel,supa
+clics-doculect-34-727,lowe1385-std,concepticon-284,8.25,kopawa,hoe,kopawa
+clics-doculect-34-728,lowe1385-std,concepticon-337,8.26,widły,fork,widly
+clics-doculect-34-729,lowe1385-std,concepticon-338,8.27,grabje,rake,grabje
+clics-doculect-34-730,lowe1385-std,concepticon-1351,8.31,seś,sow,ses
+clics-doculect-34-731,lowe1385-std,concepticon-714,8.311,semje,seed,semje
+clics-doculect-34-732,lowe1385-std,concepticon-190,8.32,sec,"mow, reap",sec
+clics-doculect-34-733,lowe1385-std,concepticon-2132,8.33,serp,"sickle, scythe",serp
+clics-doculect-34-734,lowe1385-std,concepticon-2132,8.33,hapa,"sickle, scythe",hapa
+clics-doculect-34-735,lowe1385-std,concepticon-2132,8.33,knyp,"sickle, scythe",knyp
+clics-doculect-34-736,lowe1385-std,concepticon-285,8.34,młośiś,thresh,mlosis
+clics-doculect-34-737,lowe1385-std,concepticon-223,8.35,tła,threshing-floor,tla
+clics-doculect-34-738,lowe1385-std,concepticon-611,8.41,žni,"crop, harvest",zni
+clics-doculect-34-739,lowe1385-std,concepticon-605,8.42,trajda,"grain (barley, oats etc)",trajda
+clics-doculect-34-740,lowe1385-std,concepticon-1077,8.43,pšenica,wheat,psenica
+clics-doculect-34-741,lowe1385-std,concepticon-932,8.44,jacmjeń,barley,jacmjen
+clics-doculect-34-742,lowe1385-std,concepticon-23,8.45,žyto,rye,zyto
+clics-doculect-34-743,lowe1385-std,concepticon-60,8.46,wows,oats,wows
+clics-doculect-34-744,lowe1385-std,concepticon-506,8.47,majs,"maize, corn",majs
+clics-doculect-34-745,lowe1385-std,concepticon-926,8.48,rajs,rice,rajs
+clics-doculect-34-746,lowe1385-std,concepticon-606,8.51,tšawa,grass,tsawa
+clics-doculect-34-747,lowe1385-std,concepticon-342,8.52,seno,hay,seno
+clics-doculect-34-748,lowe1385-std,concepticon-653,8.53,rostlina,plant (noun),rostlina
+clics-doculect-34-749,lowe1385-std,concepticon-653,8.53,flanca,plant (noun),flanca
+clics-doculect-34-750,lowe1385-std,concepticon-1486,8.531,sajźaś,plant (vb),sajzas
+clics-doculect-34-751,lowe1385-std,concepticon-670,8.54,kórjen,root,korjen
+clics-doculect-34-752,lowe1385-std,concepticon-1531,8.55,gałuz,branch,galuz
+clics-doculect-34-753,lowe1385-std,concepticon-1531,8.55,gałuzka,branch,galuzka
+clics-doculect-34-754,lowe1385-std,concepticon-628,8.56,łopjeno,leaf,lopjeno
+clics-doculect-34-755,lowe1385-std,concepticon-239,8.57,kwět,flower,kwet
+clics-doculect-34-756,lowe1385-std,concepticon-239,8.57,štrus,flower,strus
+clics-doculect-34-757,lowe1385-std,concepticon-906,8.6,bom,tree,bom
+clics-doculect-34-758,lowe1385-std,concepticon-644,8.61,dub,oak,dub
+clics-doculect-34-759,lowe1385-std,concepticon-1950,8.62,buk,beech,buk
+clics-doculect-34-760,lowe1385-std,concepticon-1950,8.62,grab,beech,grab
+clics-doculect-34-761,lowe1385-std,concepticon-1855,8.63,brjaza,birch,brjaza
+clics-doculect-34-762,lowe1385-std,concepticon-1740,8.64,chójca,pine,chojca
+clics-doculect-34-763,lowe1385-std,concepticon-1915,8.65,škrjok,fir,skrjok
+clics-doculect-34-764,lowe1385-std,concepticon-1915,8.65,jedła,fir,jedla
+clics-doculect-34-765,lowe1385-std,concepticon-968,8.66,klon,acorn,klon
+clics-doculect-34-766,lowe1385-std,concepticon-968,8.66,jawor,acorn,jawor
+clics-doculect-34-767,lowe1385-std,concepticon-343,8.67,winowykeŕ,vine,winowyker
+clics-doculect-34-768,lowe1385-std,concepticon-974,8.68,tubak,tobacco,tubak
+clics-doculect-34-769,lowe1385-std,concepticon-1689,8.69,kuriś,smoke (tobacco),kuris
+clics-doculect-34-770,lowe1385-std,concepticon-1124,8.691,fejfa,pipe,fejfa
+clics-doculect-34-771,lowe1385-std,concepticon-241,8.72,pjeńk,tree stump,pjenk
+clics-doculect-34-772,lowe1385-std,concepticon-344,8.73,štom,tree trunk,stom
+clics-doculect-34-773,lowe1385-std,concepticon-409,8.74,rozsocha,forked branch,rozsocha
+clics-doculect-34-774,lowe1385-std,concepticon-1204,8.75,škóra,bark,skora
+clics-doculect-34-775,lowe1385-std,concepticon-345,8.76,brjacka,sap,brjacka
+clics-doculect-34-776,lowe1385-std,concepticon-1181,8.81,palma,palm tree,palma
+clics-doculect-34-777,lowe1385-std,concepticon-1181,8.81,palmowybom,palm tree,palmowybom
+clics-doculect-34-778,lowe1385-std,concepticon-970,8.82,kokosowywórjech,coconut,kokosowyworjech
+clics-doculect-34-779,lowe1385-std,concepticon-1126,8.83,citrusowypłod,citrus fruit,citrusowyplod
+clics-doculect-34-780,lowe1385-std,concepticon-868,8.84,banana,banana tree,banana
+clics-doculect-34-781,lowe1385-std,concepticon-925,8.92,maniok,"tapioca, manioc, cassava",maniok
+clics-doculect-34-782,lowe1385-std,concepticon-864,8.931,banja,"pumpkin, squash",banja
+clics-doculect-34-783,lowe1385-std,concepticon-1927,8.94,bambus,bamboo,bambus
+clics-doculect-34-784,lowe1385-std,concepticon-146,8.941,cukorina,sugar cane,cukorina
+clics-doculect-34-785,lowe1385-std,concepticon-33,8.97,kopśiwa,nettle,kopsiwa
+clics-doculect-34-786,lowe1385-std,concepticon-641,8.98,grib,mushroom,grib
+clics-doculect-34-787,lowe1385-std,concepticon-2575,9.11,cyniś,"do, make",cynis
+clics-doculect-34-788,lowe1385-std,concepticon-984,9.12,źěło,work,zelo
+clics-doculect-34-789,lowe1385-std,concepticon-2004,9.14,zgibaś,bend,zgibas
+clics-doculect-34-790,lowe1385-std,concepticon-1470,9.15,złožyś,fold,zlozys
+clics-doculect-34-791,lowe1385-std,concepticon-1917,9.16,wězaś,"tie, bind",wezas
+clics-doculect-34-792,lowe1385-std,concepticon-352,9.161,wótwězaś,untie,wotwezas
+clics-doculect-34-793,lowe1385-std,concepticon-1627,9.18,rjeśaz,chain,rjesaz
+clics-doculect-34-794,lowe1385-std,concepticon-1218,9.19,powrjoz,"rope, cord",powrjoz
+clics-doculect-34-795,lowe1385-std,concepticon-760,9.192,suk,knot (noun),suk
+clics-doculect-34-796,lowe1385-std,concepticon-2133,9.21,biś,"strike (hit, beat)",bis
+clics-doculect-34-797,lowe1385-std,concepticon-354,9.211,deriś,pound with fist,deris
+clics-doculect-34-798,lowe1385-std,concepticon-1432,9.22,rězaś,cut,rezas
+clics-doculect-34-799,lowe1385-std,concepticon-355,9.221,pušćiś,cut down,puscis
+clics-doculect-34-800,lowe1385-std,concepticon-155,9.222,rubaś,"chop, hew",rubas
+clics-doculect-34-801,lowe1385-std,concepticon-1434,9.223,štapiś,stab,stapis
+clics-doculect-34-802,lowe1385-std,concepticon-1352,9.23,hapa,knife,hapa
+clics-doculect-34-803,lowe1385-std,concepticon-356,9.24,nožyce,"scissors, shears",nozyce
+clics-doculect-34-804,lowe1385-std,concepticon-677,9.25,sekera,ax,sekera
+clics-doculect-34-805,lowe1385-std,concepticon-677,9.25,sekerc,ax,sekerc
+clics-doculect-34-806,lowe1385-std,concepticon-680,9.26,złamaś,break,zlamas
+clics-doculect-34-807,lowe1385-std,concepticon-588,9.261,dokusow,broken,dokusow
+clics-doculect-34-808,lowe1385-std,concepticon-1437,9.27,kłojś,split,klojs
+clics-doculect-34-809,lowe1385-std,concepticon-1735,9.28,ryś,tear,rys
+clics-doculect-34-810,lowe1385-std,concepticon-291,9.29,wodrěś,"flay, skin",wodres
+clics-doculect-34-811,lowe1385-std,concepticon-1449,9.31,šurowaś,"rub, wipe",surowas
+clics-doculect-34-812,lowe1385-std,concepticon-214,9.32,rozćěgnuś,stretch,rozcegnus
+clics-doculect-34-813,lowe1385-std,concepticon-1455,9.33,śěgaś,pull,segas
+clics-doculect-34-814,lowe1385-std,concepticon-38,9.34,rozdźěliś,spread out,rozdzelis
+clics-doculect-34-815,lowe1385-std,concepticon-357,9.341,powjesyś,hang up,powjesys
+clics-doculect-34-816,lowe1385-std,concepticon-1913,9.342,tłocyś,press,tlocys
+clics-doculect-34-817,lowe1385-std,concepticon-1414,9.343,prasowaś,"squeeze, wring",prasowas
+clics-doculect-34-818,lowe1385-std,concepticon-1414,9.343,tłocyś,"squeeze, wring",tlocys
+clics-doculect-34-819,lowe1385-std,concepticon-1487,9.35,laś,pour,las
+clics-doculect-34-820,lowe1385-std,concepticon-1453,9.36,myś,wash,mys
+clics-doculect-34-821,lowe1385-std,concepticon-1453,9.36,pałkaś,wash,palkas
+clics-doculect-34-822,lowe1385-std,concepticon-230,9.37,mjasć,sweep,mjasc
+clics-doculect-34-823,lowe1385-std,concepticon-245,9.38,chóžyšćo,broom,chozysco
+clics-doculect-34-824,lowe1385-std,concepticon-1361,9.422,rěd,tool,red
+clics-doculect-34-825,lowe1385-std,concepticon-1042,9.43,twarc,carpenter,twarc
+clics-doculect-34-826,lowe1385-std,concepticon-1840,9.44,twariś,build,twaris
+clics-doculect-34-827,lowe1385-std,concepticon-1501,9.46,wjerśeś,bore,wjerses
+clics-doculect-34-828,lowe1385-std,concepticon-46,9.461,wužłobiś,hollow out,wuzlobis
+clics-doculect-34-829,lowe1385-std,concepticon-1948,9.48,piła,saw,pila
+clics-doculect-34-830,lowe1385-std,concepticon-1481,9.49,klapac,hammer,klapac
+clics-doculect-34-831,lowe1385-std,concepticon-502,9.5,gózdź,nail,gozdz
+clics-doculect-34-832,lowe1385-std,concepticon-1069,9.56,lim,glue,lim
+clics-doculect-34-833,lowe1385-std,concepticon-1001,9.6,kowal,"smith, blacksmith",kowal
+clics-doculect-34-834,lowe1385-std,concepticon-288,9.61,kowaś,forge,kowas
+clics-doculect-34-835,lowe1385-std,concepticon-1648,9.62,nakowa,anvil,nakowa
+clics-doculect-34-836,lowe1385-std,concepticon-211,9.63,laś,cast (metals),las
+clics-doculect-34-837,lowe1385-std,concepticon-1369,9.64,złoto,gold,zloto
+clics-doculect-34-838,lowe1385-std,concepticon-759,9.65,slobro,silver,slobro
+clics-doculect-34-839,lowe1385-std,concepticon-1825,9.66,kupor,"copper, bronze",kupor
+clics-doculect-34-840,lowe1385-std,concepticon-621,9.67,zelezo,iron,zelezo
+clics-doculect-34-841,lowe1385-std,concepticon-627,9.68,wołoj,lead (noun),woloj
+clics-doculect-34-842,lowe1385-std,concepticon-358,9.69,cen,"tin, tinplate",cen
+clics-doculect-34-843,lowe1385-std,concepticon-359,9.71,gjarncaŕ,potter,gjarncar
+clics-doculect-34-844,lowe1385-std,concepticon-289,9.72,formowaś,mold (clay etc),formowas
+clics-doculect-34-845,lowe1385-std,concepticon-1399,9.73,glina,clay,glina
+clics-doculect-34-846,lowe1385-std,concepticon-604,9.74,głažk,glass,glazk
+clics-doculect-34-847,lowe1385-std,concepticon-1729,9.75,plasć,"weave, plait",plasc
+clics-doculect-34-848,lowe1385-std,concepticon-1539,9.76,kórb,basket,korb
+clics-doculect-34-849,lowe1385-std,concepticon-195,9.77,mata,mat,mata
+clics-doculect-34-850,lowe1385-std,concepticon-292,9.771,tepich,rug,tepich
+clics-doculect-34-851,lowe1385-std,concepticon-292,9.771,pśestrěńc,rug,psestrenc
+clics-doculect-34-852,lowe1385-std,concepticon-1971,9.79,machawka,fan (noun),machawka
+clics-doculect-34-853,lowe1385-std,concepticon-360,9.791,machotaś,fan (vb),machotas
+clics-doculect-34-854,lowe1385-std,concepticon-228,9.81,tšugaś,carve,tsugas
+clics-doculect-34-855,lowe1385-std,concepticon-228,9.81,dłypaś,carve,dlypas
+clics-doculect-34-856,lowe1385-std,concepticon-914,9.82,tśasaŕ,sculptor,tsasar
+clics-doculect-34-857,lowe1385-std,concepticon-1002,9.83,statua,statue,statua
+clics-doculect-34-858,lowe1385-std,concepticon-1979,9.84,błosćo,chisel,blosco
+clics-doculect-34-859,lowe1385-std,concepticon-647,9.88,barwa,paint (noun),barwa
+clics-doculect-34-860,lowe1385-std,concepticon-2001,9.89,barwiś,paint (vb),barwis
+clics-doculect-34-861,lowe1385-std,concepticon-2001,9.89,běliś,paint (vb),belis
+clics-doculect-34-862,lowe1385-std,concepticon-2001,9.89,mólowaś,paint (vb),molowas
+clics-doculect-34-863,lowe1385-std,concepticon-765,10.11,gibaś,move,gibas
+clics-doculect-34-864,lowe1385-std,concepticon-1588,10.12,wobrośiś,turn over,wobrosis
+clics-doculect-34-865,lowe1385-std,concepticon-1445,10.13,wobrośiśse,turn around,wobrosisse
+clics-doculect-34-866,lowe1385-std,concepticon-1113,10.14,wiś,"wind, wrap",wis
+clics-doculect-34-867,lowe1385-std,concepticon-827,10.15,kulaś,roll,kulas
+clics-doculect-34-868,lowe1385-std,concepticon-827,10.15,bulaś,roll,bulas
+clics-doculect-34-869,lowe1385-std,concepticon-808,10.16,pušćiś,drop (vb),puscis
+clics-doculect-34-870,lowe1385-std,concepticon-430,10.17,wjerśeś,twist,wjerses
+clics-doculect-34-871,lowe1385-std,concepticon-568,10.21,schadaś,rise,schadas
+clics-doculect-34-872,lowe1385-std,concepticon-501,10.22,zwignuś,"raise, lift",zwignus
+clics-doculect-34-873,lowe1385-std,concepticon-1280,10.23,padaś,fall,padas
+clics-doculect-34-874,lowe1385-std,concepticon-2253,10.24,kapaś,drip,kapas
+clics-doculect-34-875,lowe1385-std,concepticon-1456,10.25,chyśiś,throw,chysis
+clics-doculect-34-876,lowe1385-std,concepticon-702,10.252,łapiś,catch (ball),lapis
+clics-doculect-34-877,lowe1385-std,concepticon-1909,10.26,tśěsć,shake,tsesc
+clics-doculect-34-878,lowe1385-std,concepticon-2003,10.32,běžaś,flow,bezas
+clics-doculect-34-879,lowe1385-std,concepticon-1088,10.33,pódnuriśse,sink,podnurisse
+clics-doculect-34-880,lowe1385-std,concepticon-1574,10.34,pławiś,float,plawis
+clics-doculect-34-881,lowe1385-std,concepticon-1439,10.35,plěś,swim,ples
+clics-doculect-34-882,lowe1385-std,concepticon-119,10.351,pódnuriśse,dive,podnurisse
+clics-doculect-34-883,lowe1385-std,concepticon-365,10.352,kaliś,splash,kalis
+clics-doculect-34-884,lowe1385-std,concepticon-787,10.36,płachtowaś,sail (vb),plachtowas
+clics-doculect-34-885,lowe1385-std,concepticon-1441,10.37,lětaś,fly (vb),letas
+clics-doculect-34-886,lowe1385-std,concepticon-175,10.38,duś,blow,dus
+clics-doculect-34-887,lowe1385-std,concepticon-96,10.41,lězć,"creep, crawl",lezc
+clics-doculect-34-888,lowe1385-std,concepticon-66,10.412,kólenkowaś,kneel,kolenkowas
+clics-doculect-34-889,lowe1385-std,concepticon-296,10.413,kokacowaś,crouch,kokacowas
+clics-doculect-34-890,lowe1385-std,concepticon-1324,10.42,suwaśse,"slide, slip",suwasse
+clics-doculect-34-891,lowe1385-std,concepticon-1829,10.43,skokaś,"jump, leap",skokas
+clics-doculect-34-892,lowe1385-std,concepticon-1135,10.431,kopaś,kick,kopas
+clics-doculect-34-893,lowe1385-std,concepticon-1879,10.44,rejowaś,dance,rejowas
+clics-doculect-34-894,lowe1385-std,concepticon-1443,10.45,chójźiś,walk,chojzis
+clics-doculect-34-895,lowe1385-std,concepticon-366,10.451,klěcaś,limp,klecas
+clics-doculect-34-896,lowe1385-std,concepticon-366,10.451,hympliś,limp,hymplis
+clics-doculect-34-897,lowe1385-std,concepticon-1519,10.46,ganjaś,run,ganjas
+clics-doculect-34-898,lowe1385-std,concepticon-695,10.47,hyś,go,hys
+clics-doculect-34-899,lowe1385-std,concepticon-695,10.47,jěś,go,jes
+clics-doculect-34-900,lowe1385-std,concepticon-705,10.471,górjejhyś,go up,gorjejhys
+clics-doculect-34-901,lowe1385-std,concepticon-1102,10.472,lězć,climb,lezc
+clics-doculect-34-902,lowe1385-std,concepticon-2014,10.473,dołojhyš,go down,dolojhys
+clics-doculect-34-903,lowe1385-std,concepticon-1107,10.474,wenhyś,go out,wenhys
+clics-doculect-34-904,lowe1385-std,concepticon-1446,10.48,pśiś,come,psis
+clics-doculect-34-905,lowe1385-std,concepticon-581,10.481,wrośiśse,come back,wrosisse
+clics-doculect-34-906,lowe1385-std,concepticon-581,10.481,slědkpśiś,come back,sledkpsis
+clics-doculect-34-907,lowe1385-std,concepticon-1752,10.49,wótejś,"go away, depart",wotejs
+clics-doculect-34-908,lowe1385-std,concepticon-1752,10.49,pšechyś,"go away, depart",psechys
+clics-doculect-34-909,lowe1385-std,concepticon-485,10.491,minuśse,disappear,minusse
+clics-doculect-34-910,lowe1385-std,concepticon-956,10.51,wuběgnuś,flee,wubegnus
+clics-doculect-34-911,lowe1385-std,concepticon-1085,10.52,slědowaś,follow,sledowas
+clics-doculect-34-912,lowe1385-std,concepticon-1047,10.53,pśeslědowaś,pursue,psesledowas
+clics-doculect-34-913,lowe1385-std,concepticon-1387,10.55,dojś,"reach, arrive",dojs
+clics-doculect-34-914,lowe1385-std,concepticon-1387,10.55,pśiś,"reach, arrive",psis
+clics-doculect-34-915,lowe1385-std,concepticon-1778,10.56,bližyśse,approach,blizysse
+clics-doculect-34-916,lowe1385-std,concepticon-749,10.57,nutśpśiś,enter,nutspsis
+clics-doculect-34-917,lowe1385-std,concepticon-749,10.57,nutśhyś,enter,nutshys
+clics-doculect-34-918,lowe1385-std,concepticon-700,10.61,njasć,carry (bear),njasc
+clics-doculect-34-919,lowe1385-std,concepticon-692,10.62,pśinjasć,bring,psinjasc
+clics-doculect-34-920,lowe1385-std,concepticon-1127,10.63,pósłaś,send,poslas
+clics-doculect-34-921,lowe1385-std,concepticon-43,10.64,wjasć,lead (vb),wjasc
+clics-doculect-34-922,lowe1385-std,concepticon-741,10.65,jěś,drive,jes
+clics-doculect-34-923,lowe1385-std,concepticon-367,10.66,rejtowaś,ride,rejtowas
+clics-doculect-34-924,lowe1385-std,concepticon-367,10.66,jěchaś,ride,jechas
+clics-doculect-34-925,lowe1385-std,concepticon-1452,10.67,starcyś,"push, shove",starcys
+clics-doculect-34-926,lowe1385-std,concepticon-667,10.71,droga,road,droga
+clics-doculect-34-927,lowe1385-std,concepticon-2252,10.72,sćažka,path,scazka
+clics-doculect-34-928,lowe1385-std,concepticon-1011,10.74,móst,bridge,most
+clics-doculect-34-929,lowe1385-std,concepticon-122,10.75,wóz,"carriage, wagon, cart",woz
+clics-doculect-34-930,lowe1385-std,concepticon-122,10.75,kara,"carriage, wagon, cart",kara
+clics-doculect-34-931,lowe1385-std,concepticon-710,10.76,kólaso,wheel,kolaso
+clics-doculect-34-932,lowe1385-std,concepticon-1769,10.77,wós,axle,wos
+clics-doculect-34-933,lowe1385-std,concepticon-14,10.78,kokula,yoke,kokula
+clics-doculect-34-934,lowe1385-std,concepticon-740,10.81,łoź,ship,loz
+clics-doculect-34-935,lowe1385-std,concepticon-1844,10.83,cołn,boat,coln
+clics-doculect-34-936,lowe1385-std,concepticon-1970,10.831,kanu,canoe,kanu
+clics-doculect-34-937,lowe1385-std,concepticon-416,10.832,wukładowak,outrigger,wukladowak
+clics-doculect-34-938,lowe1385-std,concepticon-1664,10.84,pław,raft,plaw
+clics-doculect-34-939,lowe1385-std,concepticon-1664,10.84,flos,raft,flos
+clics-doculect-34-940,lowe1385-std,concepticon-108,10.85,wjasło,oar,wjaslo
+clics-doculect-34-941,lowe1385-std,concepticon-234,10.851,padla,paddle (noun),padla
+clics-doculect-34-942,lowe1385-std,concepticon-1849,10.852,wjasłowaś,row (vb),wjaslowas
+clics-doculect-34-943,lowe1385-std,concepticon-108,10.86,wóźidło,rudder,wozidlo
+clics-doculect-34-944,lowe1385-std,concepticon-108,10.86,štyr,rudder,styr
+clics-doculect-34-945,lowe1385-std,concepticon-184,10.87,sćažor,mast,scazor
+clics-doculect-34-946,lowe1385-std,concepticon-184,10.87,mast,mast,mast
+clics-doculect-34-947,lowe1385-std,concepticon-786,10.88,płachta,sail (noun),plachta
+clics-doculect-34-948,lowe1385-std,concepticon-1870,10.89,kokula,anchor,kokula
+clics-doculect-34-949,lowe1385-std,concepticon-610,10.91,pśistaw,"harbor, port",psistaw
+clics-doculect-34-950,lowe1385-std,concepticon-610,10.91,wustawadło,"harbor, port",wustawadlo
+clics-doculect-34-951,lowe1385-std,concepticon-1922,10.92,pśistajiś,land (vb),psistajis
+clics-doculect-34-952,lowe1385-std,concepticon-1922,10.92,pśizemjeś,land (vb),psizemjes
+clics-doculect-34-953,lowe1385-std,concepticon-773,11.11,měś,have,mes
+clics-doculect-34-954,lowe1385-std,concepticon-684,11.12,wobsejźeś,"own, possess",wobsejzes
+clics-doculect-34-955,lowe1385-std,concepticon-1749,11.13,braś,take,bras
+clics-doculect-34-956,lowe1385-std,concepticon-2021,11.14,pśimaś,"seize, grasp",psimas
+clics-doculect-34-957,lowe1385-std,concepticon-1448,11.15,źaržaś,hold,zarzas
+clics-doculect-34-958,lowe1385-std,concepticon-694,11.16,dostaś,"get, obtain",dostas
+clics-doculect-34-959,lowe1385-std,concepticon-694,11.16,krydnuś,"get, obtain",krydnus
+clics-doculect-34-960,lowe1385-std,concepticon-1477,11.17,wobchowaś,"keep, retain",wobchowas
+clics-doculect-34-961,lowe1385-std,concepticon-738,11.18,wěc,thing,wec
+clics-doculect-34-962,lowe1385-std,concepticon-1447,11.21,daś,give,das
+clics-doculect-34-963,lowe1385-std,concepticon-85,11.22,slědkdaś,give back,sledkdas
+clics-doculect-34-964,lowe1385-std,concepticon-85,11.22,wrośiś,give back,wrosis
+clics-doculect-34-965,lowe1385-std,concepticon-1997,11.24,warnowaś,"preserve, look after",warnowas
+clics-doculect-34-966,lowe1385-std,concepticon-1997,11.24,zdźaržaś,"preserve, look after",zdzarzas
+clics-doculect-34-967,lowe1385-std,concepticon-2008,11.25,wumožyś,"save, rescue",wumozys
+clics-doculect-34-968,lowe1385-std,concepticon-681,11.27,znicyś,destroy,znicys
+clics-doculect-34-969,lowe1385-std,concepticon-44,11.28,zraniś,"harm, injure, damage",zranis
+clics-doculect-34-970,lowe1385-std,concepticon-1468,11.31,pytaś,"seek, look for",pytas
+clics-doculect-34-971,lowe1385-std,concepticon-719,11.32,namakaś,find,namakas
+clics-doculect-34-972,lowe1385-std,concepticon-1660,11.33,zgubiś,lose,zgubis
+clics-doculect-34-973,lowe1385-std,concepticon-1095,11.34,pušćiś,"release, let go",puscis
+clics-doculect-34-974,lowe1385-std,concepticon-1559,11.43,pjenjeze,money,pjenjeze
+clics-doculect-34-975,lowe1385-std,concepticon-1867,11.44,pjenjez,coin,pjenjez
+clics-doculect-34-976,lowe1385-std,concepticon-712,11.51,bogaty,rich,bogaty
+clics-doculect-34-977,lowe1385-std,concepticon-1674,11.52,chudy,poor,chudy
+clics-doculect-34-978,lowe1385-std,concepticon-1934,11.53,pšosaŕ,beggar,psosar
+clics-doculect-34-979,lowe1385-std,concepticon-1774,11.54,póžytny,"avaricious, stingy",pozytny
+clics-doculect-34-980,lowe1385-std,concepticon-582,11.61,póžycyś,lend,pozycys
+clics-doculect-34-981,lowe1385-std,concepticon-1823,11.62,póžycyśsebje,borrow,pozycyssebje
+clics-doculect-34-982,lowe1385-std,concepticon-369,11.63,dłužyś,owe,dluzys
+clics-doculect-34-983,lowe1385-std,concepticon-1914,11.64,dług,debt,dlug
+clics-doculect-34-984,lowe1385-std,concepticon-718,11.65,płaśiś,pay (vb),plasis
+clics-doculect-34-985,lowe1385-std,concepticon-1081,11.66,zliceńka,"account, reckoning",zlicenka
+clics-doculect-34-986,lowe1385-std,concepticon-1081,11.66,rachninga,"account, reckoning",rachninga
+clics-doculect-34-987,lowe1385-std,concepticon-873,11.69,dank,"tax, tribute",dank
+clics-doculect-34-988,lowe1385-std,concepticon-856,11.77,pśistajiś,hire,psistajis
+clics-doculect-34-989,lowe1385-std,concepticon-1122,11.78,myto,wages,myto
+clics-doculect-34-990,lowe1385-std,concepticon-1122,11.78,lon,wages,lon
+clics-doculect-34-991,lowe1385-std,concepticon-733,11.79,zasłužyś,earn,zasluzys
+clics-doculect-34-992,lowe1385-std,concepticon-1869,11.81,kupiś,buy,kupis
+clics-doculect-34-993,lowe1385-std,concepticon-1571,11.82,pśedaś,sell,psedas
+clics-doculect-34-994,lowe1385-std,concepticon-2135,11.83,wikowaś,"trade, barter",wikowas
+clics-doculect-34-995,lowe1385-std,concepticon-2135,11.83,handlowaś,"trade, barter",handlowas
+clics-doculect-34-996,lowe1385-std,concepticon-2135,11.83,pśekupowaś,"trade, barter",psekupowas
+clics-doculect-34-997,lowe1385-std,concepticon-1082,11.84,wikowaŕ,merchant,wikowar
+clics-doculect-34-998,lowe1385-std,concepticon-1082,11.84,handlaŕ,merchant,handlar
+clics-doculect-34-999,lowe1385-std,concepticon-1082,11.84,pśekupowaŕ,merchant,psekupowar
+clics-doculect-34-1000,lowe1385-std,concepticon-633,11.85,wiki,market (place),wiki
+clics-doculect-34-1001,lowe1385-std,concepticon-633,11.85,mark,market (place),mark
+clics-doculect-34-1002,lowe1385-std,concepticon-752,11.86,wobchod,"store, shop",wobchod
+clics-doculect-34-1003,lowe1385-std,concepticon-752,11.86,loda,"store, shop",loda
+clics-doculect-34-1004,lowe1385-std,concepticon-657,11.87,płaśizna,price,plasizna
+clics-doculect-34-1005,lowe1385-std,concepticon-657,11.87,płaśenje,price,plasenje
+clics-doculect-34-1006,lowe1385-std,concepticon-1426,11.88,drogi,"dear (costly, expensive)",drogi
+clics-doculect-34-1007,lowe1385-std,concepticon-1887,11.89,tuni,cheap,tuni
+clics-doculect-34-1008,lowe1385-std,concepticon-1887,11.89,bylich,cheap,bylich
+clics-doculect-34-1009,lowe1385-std,concepticon-884,11.91,źěliś,share (distribute),zelis
+clics-doculect-34-1010,lowe1385-std,concepticon-1098,11.92,wažyś,weigh,wazys
+clics-doculect-34-1011,lowe1385-std,concepticon-723,12.11,město,place,mesto
+clics-doculect-34-1012,lowe1385-std,concepticon-998,12.12,połožyś,put,polozys
+clics-doculect-34-1013,lowe1385-std,concepticon-998,12.12,scyniś,put,scynis
+clics-doculect-34-1014,lowe1385-std,concepticon-1416,12.13,sejźeś,sit,sejzes
+clics-doculect-34-1015,lowe1385-std,concepticon-215,12.14,lagnuśse,lie down,lagnusse
+clics-doculect-34-1016,lowe1385-std,concepticon-1442,12.15,stojaś,stand,stojas
+clics-doculect-34-1017,lowe1385-std,concepticon-987,12.16,wóstaś,"remain, stay",wostas
+clics-doculect-34-1018,lowe1385-std,concepticon-838,12.17,wušk,"remains, left overs",wusk
+clics-doculect-34-1019,lowe1385-std,concepticon-838,12.17,zbytk,"remains, left overs",zbytk
+clics-doculect-34-1020,lowe1385-std,concepticon-7,12.21,zběraś,"collect, gather",zberas
+clics-doculect-34-1021,lowe1385-std,concepticon-371,12.212,wuzběraś,pick up,wuzberas
+clics-doculect-34-1022,lowe1385-std,concepticon-1576,12.213,kopiś,pile up,kopis
+clics-doculect-34-1023,lowe1385-std,concepticon-1743,12.22,zwězaś,"join, unite",zwezas
+clics-doculect-34-1024,lowe1385-std,concepticon-1359,12.23,źěliś,separate,zelis
+clics-doculect-34-1025,lowe1385-std,concepticon-1119,12.232,źěliś,divide,zelis
+clics-doculect-34-1026,lowe1385-std,concepticon-1156,12.24,wótcyniś,open,wotcynis
+clics-doculect-34-1027,lowe1385-std,concepticon-1046,12.25,zacyniś,"shut, close",zacynis
+clics-doculect-34-1028,lowe1385-std,concepticon-761,12.26,pókšyś,cover,poksys
+clics-doculect-34-1029,lowe1385-std,concepticon-602,12.27,chowaś,"hide, conceal",chowas
+clics-doculect-34-1030,lowe1385-std,concepticon-1265,12.31,wusoki,high,wusoki
+clics-doculect-34-1031,lowe1385-std,concepticon-721,12.32,niski,low,niski
+clics-doculect-34-1032,lowe1385-std,concepticon-1753,12.33,wjerašk,top,wjerask
+clics-doculect-34-1033,lowe1385-std,concepticon-1753,12.33,špic,top,spic
+clics-doculect-34-1034,lowe1385-std,concepticon-690,12.34,dno,bottom,dno
+clics-doculect-34-1035,lowe1385-std,concepticon-742,12.35,kóńc,end,konc
+clics-doculect-34-1036,lowe1385-std,concepticon-372,12.352,špicny,pointed,spicny
+clics-doculect-34-1037,lowe1385-std,concepticon-863,12.353,kšoma,edge,ksoma
+clics-doculect-34-1038,lowe1385-std,concepticon-682,12.36,bok,side,bok
+clics-doculect-34-1039,lowe1385-std,concepticon-1093,12.37,srjejź,"middle, center",srjejz
+clics-doculect-34-1040,lowe1385-std,concepticon-1019,12.41,pšawy,right (side),psawy
+clics-doculect-34-1041,lowe1385-std,concepticon-244,12.42,lěwy,left (side),lewy
+clics-doculect-34-1042,lowe1385-std,concepticon-1942,12.43,blisko,near (adv),blisko
+clics-doculect-34-1043,lowe1385-std,concepticon-1406,12.44,daloko,far (adv),daloko
+clics-doculect-34-1044,lowe1385-std,concepticon-1877,12.45,pódzajtšo,east,podzajtso
+clics-doculect-34-1045,lowe1385-std,concepticon-1817,12.46,pódwjacor,west,podwjacor
+clics-doculect-34-1046,lowe1385-std,concepticon-1598,12.47,połnoc,north,polnoc
+clics-doculect-34-1047,lowe1385-std,concepticon-1595,12.48,pódpołdnjo,south,podpoldnjo
+clics-doculect-34-1048,lowe1385-std,concepticon-479,12.53,rosć,grow,rosc
+clics-doculect-34-1049,lowe1385-std,concepticon-1506,12.54,měriś,measure,meris
+clics-doculect-34-1050,lowe1385-std,concepticon-81,12.541,kloftaŕ,"span, fathom",kloftar
+clics-doculect-34-1051,lowe1385-std,concepticon-1202,12.55,wjeliki,"large, big",wjeliki
+clics-doculect-34-1052,lowe1385-std,concepticon-1246,12.56,mały,"small, little",maly
+clics-doculect-34-1053,lowe1385-std,concepticon-1203,12.57,dłujki,long,dlujki
+clics-doculect-34-1054,lowe1385-std,concepticon-711,12.58,wusoki,tall,wusoki
+clics-doculect-34-1055,lowe1385-std,concepticon-1645,12.59,krotki,short,krotki
+clics-doculect-34-1056,lowe1385-std,concepticon-1243,12.61,šyroki,"wide, broad",syroki
+clics-doculect-34-1057,lowe1385-std,concepticon-1267,12.62,wuski,narrow,wuski
+clics-doculect-34-1058,lowe1385-std,concepticon-1244,12.63,tłusty,thick (in dimension),tlusty
+clics-doculect-34-1059,lowe1385-std,concepticon-2249,12.65,śańki,thin (in dimension),sanki
+clics-doculect-34-1060,lowe1385-std,concepticon-1593,12.67,dłymoki,deep,dlymoki
+clics-doculect-34-1061,lowe1385-std,concepticon-193,12.68,měłki,shallow,melki
+clics-doculect-34-1062,lowe1385-std,concepticon-1633,12.71,płony,flat,plony
+clics-doculect-34-1063,lowe1385-std,concepticon-1404,12.73,rowny,straight,rowny
+clics-doculect-34-1064,lowe1385-std,concepticon-297,12.74,kśiwy,crooked,ksiwy
+clics-doculect-34-1065,lowe1385-std,concepticon-1071,12.75,kokula,hook,kokula
+clics-doculect-34-1066,lowe1385-std,concepticon-192,12.76,rog,corner,rog
+clics-doculect-34-1067,lowe1385-std,concepticon-1367,12.77,kśica,cross,ksica
+clics-doculect-34-1068,lowe1385-std,concepticon-850,12.78,kwadrat,square,kwadrat
+clics-doculect-34-1069,lowe1385-std,concepticon-850,12.78,styrirog,square,styrirog
+clics-doculect-34-1070,lowe1385-std,concepticon-1395,12.81,kulowaty,round,kulowaty
+clics-doculect-34-1071,lowe1385-std,concepticon-1467,12.82,koło,circle,kolo
+clics-doculect-34-1072,lowe1385-std,concepticon-1467,12.82,krejz,circle,krejz
+clics-doculect-34-1073,lowe1385-std,concepticon-1845,12.83,kula,"sphere, ball",kula
+clics-doculect-34-1074,lowe1385-std,concepticon-1048,12.84,rěd,line,red
+clics-doculect-34-1075,lowe1385-std,concepticon-1048,12.84,smuga,line,smuga
+clics-doculect-34-1076,lowe1385-std,concepticon-1048,12.84,linija,line,linija
+clics-doculect-34-1077,lowe1385-std,concepticon-1667,12.85,źěra,hole,zera
+clics-doculect-34-1078,lowe1385-std,concepticon-1558,12.92,pódobny,"like, similar",podobny
+clics-doculect-34-1079,lowe1385-std,concepticon-1264,12.93,změniś,change,zmenis
+clics-doculect-34-1080,lowe1385-std,concepticon-1493,13.1,zaseś,one,zases
+clics-doculect-34-1081,lowe1385-std,concepticon-1706,13.101,jadnasćo,eleven,jadnasco
+clics-doculect-34-1082,lowe1385-std,concepticon-1707,13.102,dwanasćo,twelve,dwanasco
+clics-doculect-34-1083,lowe1385-std,concepticon-1709,13.103,pěśnasćo,fifteen,pesnasco
+clics-doculect-34-1084,lowe1385-std,concepticon-1710,13.104,dwaźasća,twenty,dwazasca
+clics-doculect-34-1085,lowe1385-std,concepticon-1634,13.105,sto,hundred,sto
+clics-doculect-34-1086,lowe1385-std,concepticon-1634,13.105,hundert,hundred,hundert
+clics-doculect-34-1087,lowe1385-std,concepticon-1843,13.106,tysac,thousand,tysac
+clics-doculect-34-1088,lowe1385-std,concepticon-1843,13.106,towzynt,thousand,towzynt
+clics-doculect-34-1089,lowe1385-std,concepticon-1420,13.107,licyś,count,licys
+clics-doculect-34-1090,lowe1385-std,concepticon-98,13.14,wše,"every, all",wse
+clics-doculect-34-1091,lowe1385-std,concepticon-1198,13.15,wjele,"much, many",wjele
+clics-doculect-34-1092,lowe1385-std,concepticon-1992,13.16,wěcej,more,wecej
+clics-doculect-34-1093,lowe1385-std,concepticon-1242,13.17,mało,"little (quantity), few",malo
+clics-doculect-34-1094,lowe1385-std,concepticon-1881,13.18,dosć,enough,dosc
+clics-doculect-34-1095,lowe1385-std,concepticon-1241,13.181,někotare,some,nekotare
+clics-doculect-34-1096,lowe1385-std,concepticon-1241,13.181,pór,some,por
+clics-doculect-34-1097,lowe1385-std,concepticon-2023,13.19,kopica,"multitude, crowd",kopica
+clics-doculect-34-1098,lowe1385-std,concepticon-2023,13.19,mań,"multitude, crowd",man
+clics-doculect-34-1099,lowe1385-std,concepticon-1429,13.21,połny,full,polny
+clics-doculect-34-1100,lowe1385-std,concepticon-1624,13.22,prozny,empty,prozny
+clics-doculect-34-1101,lowe1385-std,concepticon-779,13.23,źěl,"part, piece",zel
+clics-doculect-34-1102,lowe1385-std,concepticon-816,13.24,połojca,half,polojca
+clics-doculect-34-1103,lowe1385-std,concepticon-1580,13.33,jano,"alone, only",jano
+clics-doculect-34-1104,lowe1385-std,concepticon-728,13.34,prědny,first,predny
+clics-doculect-34-1105,lowe1385-std,concepticon-1529,13.35,slědny,last,sledny
+clics-doculect-34-1106,lowe1385-std,concepticon-1384,13.36,drugi,second,drugi
+clics-doculect-34-1107,lowe1385-std,concepticon-1888,13.37,pór,pair,por
+clics-doculect-34-1108,lowe1385-std,concepticon-1546,13.38,dwójcy,two times,dwojcy
+clics-doculect-34-1109,lowe1385-std,concepticon-1859,13.42,tśeśi,third,tsesi
+clics-doculect-34-1110,lowe1385-std,concepticon-417,13.44,tśiraze,three times,tsiraze
+clics-doculect-34-1111,lowe1385-std,concepticon-892,14.11,cas,time,cas
+clics-doculect-34-1112,lowe1385-std,concepticon-1789,14.12,starstwo,age,starstwo
+clics-doculect-34-1113,lowe1385-std,concepticon-1231,14.13,nowy,new,nowy
+clics-doculect-34-1114,lowe1385-std,concepticon-1207,14.14,młody,young,mlody
+clics-doculect-34-1115,lowe1385-std,concepticon-1229,14.15,stary,old,stary
+clics-doculect-34-1116,lowe1385-std,concepticon-672,14.16,rano,early,rano
+clics-doculect-34-1117,lowe1385-std,concepticon-672,14.16,jěsno,early,jesno
+clics-doculect-34-1118,lowe1385-std,concepticon-477,14.17,pózny,late,pozny
+clics-doculect-34-1119,lowe1385-std,concepticon-1376,14.18,něto,now,neto
+clics-doculect-34-1120,lowe1385-std,concepticon-1963,14.19,ned,immediately,ned
+clics-doculect-34-1121,lowe1385-std,concepticon-1631,14.21,malsny,"swift, fast, quick",malsny
+clics-doculect-34-1122,lowe1385-std,concepticon-1631,14.21,spěšny,"swift, fast, quick",spesny
+clics-doculect-34-1123,lowe1385-std,concepticon-701,14.22,pómały,slow,pomaly
+clics-doculect-34-1124,lowe1385-std,concepticon-754,14.23,chwataś,"hasten, hurry",chwatas
+clics-doculect-34-1125,lowe1385-std,concepticon-425,14.24,wopózdźiśse,"retard, delay",wopozdzisse
+clics-doculect-34-1126,lowe1385-std,concepticon-1806,14.25,chopiś,"begin, beginning",chopis
+clics-doculect-34-1127,lowe1385-std,concepticon-1186,14.252,traś,"last, endure",tras
+clics-doculect-34-1128,lowe1385-std,concepticon-1186,14.252,warnowaś,"last, endure",warnowas
+clics-doculect-34-1129,lowe1385-std,concepticon-743,14.26,kóńc,end (temporal),konc
+clics-doculect-34-1130,lowe1385-std,concepticon-1766,14.27,kóńcyś,finish,koncys
+clics-doculect-34-1131,lowe1385-std,concepticon-1928,14.28,pśestaś,"cease, stop",psestas
+clics-doculect-34-1132,lowe1385-std,concepticon-790,14.29,gótowy,ready,gotowy
+clics-doculect-34-1133,lowe1385-std,concepticon-1676,14.31,pśecej,always,psecej
+clics-doculect-34-1134,lowe1385-std,concepticon-1852,14.32,cesto,often,cesto
+clics-doculect-34-1135,lowe1385-std,concepticon-1544,14.33,wótergi,sometimes,wotergi
+clics-doculect-34-1136,lowe1385-std,concepticon-703,14.331,skóro,soon,skoro
+clics-doculect-34-1137,lowe1385-std,concepticon-418,14.332,dłujko,long-time (for a),dlujko
+clics-doculect-34-1138,lowe1385-std,concepticon-1656,14.34,nigdy,never,nigdy
+clics-doculect-34-1139,lowe1385-std,concepticon-1656,14.34,žednje,never,zednje
+clics-doculect-34-1140,lowe1385-std,concepticon-204,14.35,zasej,again,zasej
+clics-doculect-34-1141,lowe1385-std,concepticon-1225,14.41,źeń,day,zen
+clics-doculect-34-1142,lowe1385-std,concepticon-1233,14.42,noc,night,noc
+clics-doculect-34-1143,lowe1385-std,concepticon-729,14.43,switanje,dawn,switanje
+clics-doculect-34-1144,lowe1385-std,concepticon-1339,14.44,zajtšo,morning,zajtso
+clics-doculect-34-1145,lowe1385-std,concepticon-12,14.45,połdnjo,"noon, midday",poldnjo
+clics-doculect-34-1146,lowe1385-std,concepticon-1807,14.451,wótpołdnjo,afternoon,wotpoldnjo
+clics-doculect-34-1147,lowe1385-std,concepticon-1629,14.46,wjacor,evening,wjacor
+clics-doculect-34-1148,lowe1385-std,concepticon-1283,14.47,źinsa,today,zinsa
+clics-doculect-34-1149,lowe1385-std,concepticon-1329,14.48,witśe,tomorrow,witse
+clics-doculect-34-1150,lowe1385-std,concepticon-1179,14.481,pśezwitśe,day-after-tomorrow,psezwitse
+clics-doculect-34-1151,lowe1385-std,concepticon-1174,14.49,cora,yesterday,cora
+clics-doculect-34-1152,lowe1385-std,concepticon-1180,14.491,pśedcora,day-before-yesterday,psedcora
+clics-doculect-34-1153,lowe1385-std,concepticon-1353,14.51,góźina,hour,gozina
+clics-doculect-34-1154,lowe1385-std,concepticon-1353,14.51,štunda,hour,stunda
+clics-doculect-34-1155,lowe1385-std,concepticon-1323,14.53,zeger,"clock, timepiece",zeger
+clics-doculect-34-1156,lowe1385-std,concepticon-1469,14.61,tyźeń,week,tyzen
+clics-doculect-34-1157,lowe1385-std,concepticon-1699,14.62,njeźela,Sunday,njezela
+clics-doculect-34-1158,lowe1385-std,concepticon-1697,14.63,pónjeźele,Monday,ponjezele
+clics-doculect-34-1159,lowe1385-std,concepticon-1695,14.64,wałtora,Tuesday,waltora
+clics-doculect-34-1160,lowe1385-std,concepticon-1694,14.65,srjoda,Wednesday,srjoda
+clics-doculect-34-1161,lowe1385-std,concepticon-1693,14.66,stwórtk,Thursday,stwortk
+clics-doculect-34-1162,lowe1385-std,concepticon-1692,14.67,pětk,Friday,petk
+clics-doculect-34-1163,lowe1385-std,concepticon-1700,14.68,sobota,Saturday,sobota
+clics-doculect-34-1164,lowe1385-std,concepticon-1370,14.71,mjasec,month,mjasec
+clics-doculect-34-1165,lowe1385-std,concepticon-1226,14.73,lěto,year,leto
+clics-doculect-34-1166,lowe1385-std,concepticon-1471,14.74,zyma,winter,zyma
+clics-doculect-34-1167,lowe1385-std,concepticon-1537,14.75,nalěśe,spring,nalese
+clics-doculect-34-1168,lowe1385-std,concepticon-1342,14.76,lěśe,summer,lese
+clics-doculect-34-1169,lowe1385-std,concepticon-1276,14.77,nazyma,autumn,nazyma
+clics-doculect-34-1170,lowe1385-std,concepticon-691,14.78,lětnycas,season,letnycas
+clics-doculect-34-1171,lowe1385-std,concepticon-1587,15.21,wónjaś,smell (vb intrans),wonjas
+clics-doculect-34-1172,lowe1385-std,concepticon-375,15.212,nuchaś,sniff,nuchas
+clics-doculect-34-1173,lowe1385-std,concepticon-1586,15.22,cuś,smell (vb trans),cus
+clics-doculect-34-1174,lowe1385-std,concepticon-376,15.25,wónjaty,"fragrant, good smelling",wonjaty
+clics-doculect-34-1175,lowe1385-std,concepticon-42,15.26,smjerźecy,"stinking, bad smelling",smjerzecy
+clics-doculect-34-1176,lowe1385-std,concepticon-21,15.31,słoźeś,taste,slozes
+clics-doculect-34-1177,lowe1385-std,concepticon-21,15.31,šmekowaś,taste,smekowas
+clics-doculect-34-1178,lowe1385-std,concepticon-717,15.35,słodki,sweet,slodki
+clics-doculect-34-1179,lowe1385-std,concepticon-1091,15.36,słony,salty,slony
+clics-doculect-34-1180,lowe1385-std,concepticon-887,15.37,górki,bitter,gorki
+clics-doculect-34-1181,lowe1385-std,concepticon-1906,15.38,kisały,"acid, sour",kisaly
+clics-doculect-34-1182,lowe1385-std,concepticon-1408,15.41,słyšaś,hear,slysas
+clics-doculect-34-1183,lowe1385-std,concepticon-1608,15.42,słuchaś,listen,sluchas
+clics-doculect-34-1184,lowe1385-std,concepticon-1811,15.44,zuk,"sound, noise",zuk
+clics-doculect-34-1185,lowe1385-std,concepticon-1811,15.44,šum,"sound, noise",sum
+clics-doculect-34-1186,lowe1385-std,concepticon-377,15.45,głosny,loud,glosny
+clics-doculect-34-1187,lowe1385-std,concepticon-1314,15.46,śichy,"quiet, silence",sichy
+clics-doculect-34-1188,lowe1385-std,concepticon-1409,15.51,wiźeś,see,wizes
+clics-doculect-34-1189,lowe1385-std,concepticon-1819,15.52,glědaś,"look, look at",gledas
+clics-doculect-34-1190,lowe1385-std,concepticon-1039,15.55,pokazaś,show,pokazas
+clics-doculect-34-1191,lowe1385-std,concepticon-708,15.56,swěśiś,shine,swesis
+clics-doculect-34-1192,lowe1385-std,concepticon-679,15.57,swětły,bright,swetly
+clics-doculect-34-1193,lowe1385-std,concepticon-1613,15.61,barwa,color,barwa
+clics-doculect-34-1194,lowe1385-std,concepticon-250,15.62,swětły,light (in color),swetly
+clics-doculect-34-1195,lowe1385-std,concepticon-706,15.63,śamny,dark (in color),samny
+clics-doculect-34-1196,lowe1385-std,concepticon-1335,15.64,běły,white,bely
+clics-doculect-34-1197,lowe1385-std,concepticon-163,15.65,carny,black,carny
+clics-doculect-34-1198,lowe1385-std,concepticon-156,15.66,cerwjeny,red,cerwjeny
+clics-doculect-34-1199,lowe1385-std,concepticon-837,15.67,módry,blue,modry
+clics-doculect-34-1200,lowe1385-std,concepticon-1425,15.68,zeleny,green,zeleny
+clics-doculect-34-1201,lowe1385-std,concepticon-1424,15.69,žołty,yellow,zolty
+clics-doculect-34-1202,lowe1385-std,concepticon-1892,15.71,tyknuś,touch,tyknus
+clics-doculect-34-1203,lowe1385-std,concepticon-378,15.712,šćipaś,pinch,scipas
+clics-doculect-34-1204,lowe1385-std,concepticon-1079,15.72,smasaś,feel,smasas
+clics-doculect-34-1205,lowe1385-std,concepticon-1884,15.74,twardy,hard,twardy
+clics-doculect-34-1206,lowe1385-std,concepticon-1856,15.75,měki,soft,meki
+clics-doculect-34-1207,lowe1385-std,concepticon-1923,15.76,gropny,rough,gropny
+clics-doculect-34-1208,lowe1385-std,concepticon-1923,15.76,škropaty,rough,skropaty
+clics-doculect-34-1209,lowe1385-std,concepticon-1234,15.77,rowny,smooth,rowny
+clics-doculect-34-1210,lowe1385-std,concepticon-1396,15.78,wótšy,sharp,wotsy
+clics-doculect-34-1211,lowe1385-std,concepticon-379,15.79,tupy,"blunt, dull",tupy
+clics-doculect-34-1212,lowe1385-std,concepticon-1210,15.81,śěžki,heavy,sezki
+clics-doculect-34-1213,lowe1385-std,concepticon-1052,15.82,lažki,light (in weight),lazki
+clics-doculect-34-1214,lowe1385-std,concepticon-1726,15.83,mokšy,"wet, damp",moksy
+clics-doculect-34-1215,lowe1385-std,concepticon-1398,15.84,suchy,dry,suchy
+clics-doculect-34-1216,lowe1385-std,concepticon-1286,15.85,górucy,hot,gorucy
+clics-doculect-34-1217,lowe1385-std,concepticon-1232,15.851,śopły,warm,soply
+clics-doculect-34-1218,lowe1385-std,concepticon-1287,15.86,zymny,cold,zymny
+clics-doculect-34-1219,lowe1385-std,concepticon-704,15.87,cysty,clean,cysty
+clics-doculect-34-1220,lowe1385-std,concepticon-1230,15.88,njerěšny,"dirty, soiled",njeresny
+clics-doculect-34-1221,lowe1385-std,concepticon-1230,15.88,brudny,"dirty, soiled",brudny
+clics-doculect-34-1222,lowe1385-std,concepticon-380,15.89,ropaty,wrinkled,ropaty
+clics-doculect-34-1223,lowe1385-std,concepticon-53,16.11,duša,"soul, spirit",dusa
+clics-doculect-34-1224,lowe1385-std,concepticon-1572,16.15,pśechwatany,"surprised, astonished",psechwatany
+clics-doculect-34-1225,lowe1385-std,concepticon-720,16.18,gluka,"good fortune, luck",gluka
+clics-doculect-34-1226,lowe1385-std,concepticon-56,16.19,njegluka,"misfortune, bad luck",njegluka
+clics-doculect-34-1227,lowe1385-std,concepticon-1495,16.23,glucny,"joyful, glad, happy",glucny
+clics-doculect-34-1228,lowe1385-std,concepticon-1495,16.23,radosny,"joyful, glad, happy",radosny
+clics-doculect-34-1229,lowe1385-std,concepticon-1495,16.23,wjasoły,"joyful, glad, happy",wjasoly
+clics-doculect-34-1230,lowe1385-std,concepticon-1355,16.25,smjaśse,laugh,smjasse
+clics-doculect-34-1231,lowe1385-std,concepticon-1451,16.251,smjejkotaśse,smile,smjejkotasse
+clics-doculect-34-1232,lowe1385-std,concepticon-1413,16.26,graś,play,gras
+clics-doculect-34-1233,lowe1385-std,concepticon-923,16.27,lubowaś,love,lubowas
+clics-doculect-34-1234,lowe1385-std,concepticon-578,16.29,póškaś,kiss,poskas
+clics-doculect-34-1235,lowe1385-std,concepticon-928,16.3,wobejmjeś,embrace,wobejmjes
+clics-doculect-34-1236,lowe1385-std,concepticon-1783,16.31,ból,pain,bol
+clics-doculect-34-1237,lowe1385-std,concepticon-1668,16.32,tužyca,"grief, sorrow, sadness",tuzyca
+clics-doculect-34-1238,lowe1385-std,concepticon-1000,16.33,starosć,"anxiety, worry",starosc
+clics-doculect-34-1239,lowe1385-std,concepticon-1875,16.34,woblutowaś,"regret, be sorry",woblutowas
+clics-doculect-34-1240,lowe1385-std,concepticon-1141,16.35,lutosć,pity,lutosc
+clics-doculect-34-1241,lowe1385-std,concepticon-1839,16.37,płakaś,"cry, weep",plakas
+clics-doculect-34-1242,lowe1385-std,concepticon-1651,16.38,łdza,tear (noun),ldza
+clics-doculect-34-1243,lowe1385-std,concepticon-716,16.39,stukaś,groan,stukas
+clics-doculect-34-1244,lowe1385-std,concepticon-716,16.39,wajmerowaś,groan,wajmerowas
+clics-doculect-34-1245,lowe1385-std,concepticon-1607,16.41,gramowaś,hate,gramowas
+clics-doculect-34-1246,lowe1385-std,concepticon-82,16.42,gniw,anger,gniw
+clics-doculect-34-1247,lowe1385-std,concepticon-40,16.44,zawisć,"envy, jealousy",zawisc
+clics-doculect-34-1248,lowe1385-std,concepticon-1776,16.45,sromota,shame (noun),sromota
+clics-doculect-34-1249,lowe1385-std,concepticon-174,16.48,gjardy,proud,gjardy
+clics-doculect-34-1250,lowe1385-std,concepticon-1779,16.51,wažyśse,dare,wazysse
+clics-doculect-34-1251,lowe1385-std,concepticon-1779,16.51,wěriśse,dare,werisse
+clics-doculect-34-1252,lowe1385-std,concepticon-3,16.52,skobodny,brave,skobodny
+clics-doculect-34-1253,lowe1385-std,concepticon-3,16.52,zmužny,brave,zmuzny
+clics-doculect-34-1254,lowe1385-std,concepticon-781,16.53,tšach,"fear, fright",tsach
+clics-doculect-34-1255,lowe1385-std,concepticon-1810,16.54,tšachota,danger,tsachota
+clics-doculect-34-1256,lowe1385-std,concepticon-1810,16.54,tšach,danger,tsach
+clics-doculect-34-1257,lowe1385-std,concepticon-1784,16.62,póžedaś,"desire, want",pozedas
+clics-doculect-34-1258,lowe1385-std,concepticon-1750,16.622,wubraś,choose,wubras
+clics-doculect-34-1259,lowe1385-std,concepticon-1092,16.63,naźejaśse,hope,nazejasse
+clics-doculect-34-1260,lowe1385-std,concepticon-100,16.65,zwěrny,faithful,zwerny
+clics-doculect-34-1261,lowe1385-std,concepticon-1657,16.66,wěrny,true,werny
+clics-doculect-34-1262,lowe1385-std,concepticon-601,16.67,łdgaś,"lie, tell lies",ldgas
+clics-doculect-34-1263,lowe1385-std,concepticon-13,16.68,wobšuda,deceit,wobsuda
+clics-doculect-34-1264,lowe1385-std,concepticon-1528,16.69,wódaś,forgive,wodas
+clics-doculect-34-1265,lowe1385-std,concepticon-1035,16.71,dobry,good,dobry
+clics-doculect-34-1266,lowe1385-std,concepticon-1292,16.72,zły,bad,zly
+clics-doculect-34-1267,lowe1385-std,concepticon-1292,16.72,špatny,bad,spatny
+clics-doculect-34-1268,lowe1385-std,concepticon-1725,16.73,pšawy,"right, correct",psawy
+clics-doculect-34-1269,lowe1385-std,concepticon-1390,16.74,wopacny,wrong,wopacny
+clics-doculect-34-1270,lowe1385-std,concepticon-1390,16.74,njepšawy,wrong,njepsawy
+clics-doculect-34-1271,lowe1385-std,concepticon-134,16.76,wina,fault,wina
+clics-doculect-34-1272,lowe1385-std,concepticon-1293,16.77,zmólka,"mistake, error",zmolka
+clics-doculect-34-1273,lowe1385-std,concepticon-381,16.78,pórok,blame,porok
+clics-doculect-34-1274,lowe1385-std,concepticon-1687,16.79,chwalba,praise,chwalba
+clics-doculect-34-1275,lowe1385-std,concepticon-1427,16.81,rědny,beautiful,redny
+clics-doculect-34-1276,lowe1385-std,concepticon-1427,16.81,pěkny,beautiful,pekny
+clics-doculect-34-1277,lowe1385-std,concepticon-1548,16.82,grozny,ugly,grozny
+clics-doculect-34-1278,lowe1385-std,concepticon-2018,16.83,zekśěty,greedy,zeksety
+clics-doculect-34-1279,lowe1385-std,concepticon-1310,16.84,mudry,clever,mudry
+clics-doculect-34-1280,lowe1385-std,concepticon-1562,17.11,rozym,mind,rozym
+clics-doculect-34-1281,lowe1385-std,concepticon-1415,17.13,mysliś,think (= reflect),myslis
+clics-doculect-34-1282,lowe1385-std,concepticon-1513,17.14,mysliśse,think (= be of the opinion),myslisse
+clics-doculect-34-1283,lowe1385-std,concepticon-1513,17.14,měniś,think (= be of the opinion),menis
+clics-doculect-34-1284,lowe1385-std,concepticon-1890,17.15,wěriś,believe,weris
+clics-doculect-34-1285,lowe1385-std,concepticon-1536,17.16,rozměś,understand,rozmes
+clics-doculect-34-1286,lowe1385-std,concepticon-1410,17.17,wěźeś,know,wezes
+clics-doculect-34-1287,lowe1385-std,concepticon-1932,17.171,gódaś,guess,godas
+clics-doculect-34-1288,lowe1385-std,concepticon-117,17.172,napódobniś,imitate,napodobnis
+clics-doculect-34-1289,lowe1385-std,concepticon-117,17.172,imitěrowaś,imitate,imiterowas
+clics-doculect-34-1290,lowe1385-std,concepticon-1521,17.18,zdaśse,seem,zdasse
+clics-doculect-34-1291,lowe1385-std,concepticon-1609,17.19,ideja,"idea, notion",ideja
+clics-doculect-34-1292,lowe1385-std,concepticon-698,17.21,mudry,wise,mudry
+clics-doculect-34-1293,lowe1385-std,concepticon-1518,17.22,głupy,"foolish, stupid",glupy
+clics-doculect-34-1294,lowe1385-std,concepticon-1899,17.23,błudny,"insane, crazy",bludny
+clics-doculect-34-1295,lowe1385-std,concepticon-504,17.24,wuknuś,learn,wuknus
+clics-doculect-34-1296,lowe1385-std,concepticon-1929,17.242,študěrowaś,study,studerowas
+clics-doculect-34-1297,lowe1385-std,concepticon-709,17.25,wucyś,teach,wucys
+clics-doculect-34-1298,lowe1385-std,concepticon-753,17.26,wuknik,pupil,wuknik
+clics-doculect-34-1299,lowe1385-std,concepticon-1038,17.27,ceptaŕ,teacher,ceptar
+clics-doculect-34-1300,lowe1385-std,concepticon-1038,17.27,wucabnik,teacher,wucabnik
+clics-doculect-34-1301,lowe1385-std,concepticon-1038,17.27,šulaŕ,teacher,sular
+clics-doculect-34-1302,lowe1385-std,concepticon-673,17.28,šula,school,sula
+clics-doculect-34-1303,lowe1385-std,concepticon-707,17.31,pomnjeśse,remember,pomnjesse
+clics-doculect-34-1304,lowe1385-std,concepticon-1523,17.32,zabyś,forget,zabys
+clics-doculect-34-1305,lowe1385-std,concepticon-989,17.34,jasny,"clear, plain",jasny
+clics-doculect-34-1306,lowe1385-std,concepticon-1764,17.35,njejasny,obscure,njejasny
+clics-doculect-34-1307,lowe1385-std,concepticon-1121,17.36,kšajźny,secret,ksajzny
+clics-doculect-34-1308,lowe1385-std,concepticon-1121,17.36,pótajmny,secret,potajmny
+clics-doculect-34-1309,lowe1385-std,concepticon-509,17.37,wěsty,"sure, certain",westy
+clics-doculect-34-1310,lowe1385-std,concepticon-1626,17.38,wujasniś,explain,wujasnis
+clics-doculect-34-1311,lowe1385-std,concepticon-1162,17.41,wótglěd,"intention, purpose",wotgled
+clics-doculect-34-1312,lowe1385-std,concepticon-1162,17.41,zaměr,"intention, purpose",zamer
+clics-doculect-34-1313,lowe1385-std,concepticon-1162,17.41,cil,"intention, purpose",cil
+clics-doculect-34-1314,lowe1385-std,concepticon-860,17.42,pśicyna,cause,psicyna
+clics-doculect-34-1315,lowe1385-std,concepticon-860,17.42,grunt,cause,grunt
+clics-doculect-34-1316,lowe1385-std,concepticon-860,17.42,zawina,cause,zawina
+clics-doculect-34-1317,lowe1385-std,concepticon-1308,17.43,cwibel,doubt,cwibel
+clics-doculect-34-1318,lowe1385-std,concepticon-1841,17.44,gódaśse,suspect,godasse
+clics-doculect-34-1319,lowe1385-std,concepticon-1902,17.441,pśeraźiś,betray,pserazis
+clics-doculect-34-1320,lowe1385-std,concepticon-643,17.45,pótrjeba,"need, necessity",potrjeba
+clics-doculect-34-1321,lowe1385-std,concepticon-643,17.45,notnosć,"need, necessity",notnosc
+clics-doculect-34-1322,lowe1385-std,concepticon-643,17.45,trěbnosć,"need, necessity",trebnosc
+clics-doculect-34-1323,lowe1385-std,concepticon-686,17.46,jadnory,easy,jadnory
+clics-doculect-34-1324,lowe1385-std,concepticon-584,17.47,śěžki,difficult,sezki
+clics-doculect-34-1325,lowe1385-std,concepticon-1812,17.48,wopytaś,"try, attempt",wopytas
+clics-doculect-34-1326,lowe1385-std,concepticon-488,17.49,wašnja,"way, manner",wasnja
+clics-doculect-34-1327,lowe1385-std,concepticon-488,17.49,part,"way, manner",part
+clics-doculect-34-1328,lowe1385-std,concepticon-488,17.49,wiza,"way, manner",wiza
+clics-doculect-34-1329,lowe1385-std,concepticon-1577,17.51,a,and,a
+clics-doculect-34-1330,lowe1385-std,concepticon-1157,17.52,dokulaž,because,dokulaz
+clics-doculect-34-1331,lowe1385-std,concepticon-1459,17.53,gaž,if,gaz
+clics-doculect-34-1332,lowe1385-std,concepticon-1014,17.54,abo,or,abo
+clics-doculect-34-1333,lowe1385-std,concepticon-1268,17.55,jo,"yes, affirmative",jo
+clics-doculect-34-1334,lowe1385-std,concepticon-1269,17.56,ně,"no, negative",ne
+clics-doculect-34-1335,lowe1385-std,concepticon-1239,17.61,kak?,how?,kak?
+clics-doculect-34-1336,lowe1385-std,concepticon-822,17.62,wjele?,how many?,wjele?
+clics-doculect-34-1337,lowe1385-std,concepticon-531,17.63,wjele?,how much?,wjele?
+clics-doculect-34-1338,lowe1385-std,concepticon-1236,17.64,co?,what?,co?
+clics-doculect-34-1339,lowe1385-std,concepticon-1238,17.65,ga?,when?,ga?
+clics-doculect-34-1340,lowe1385-std,concepticon-1237,17.66,źo?,where?,zo?
+clics-doculect-34-1341,lowe1385-std,concepticon-727,17.67,kótary?,which?,kotary?
+clics-doculect-34-1342,lowe1385-std,concepticon-1235,17.68,chto?,who?,chto?
+clics-doculect-34-1343,lowe1385-std,concepticon-1270,17.69,cogodla?,why?,cogodla?
+clics-doculect-34-1344,lowe1385-std,concepticon-1363,18.11,głos,voice,glos
+clics-doculect-34-1345,lowe1385-std,concepticon-1261,18.12,spiwaś,sing,spiwas
+clics-doculect-34-1346,lowe1385-std,concepticon-715,18.13,drěśse,"shout, cry out",dresse
+clics-doculect-34-1347,lowe1385-std,concepticon-715,18.13,wołaś,"shout, cry out",wolas
+clics-doculect-34-1348,lowe1385-std,concepticon-55,18.15,šepotaś,whisper,sepotas
+clics-doculect-34-1349,lowe1385-std,concepticon-128,18.16,borkotaś,mumble,borkotas
+clics-doculect-34-1350,lowe1385-std,concepticon-1025,18.17,šwicaś,whistle,swicas
+clics-doculect-34-1351,lowe1385-std,concepticon-298,18.18,kwicaś,"shriek, screech",kwicas
+clics-doculect-34-1352,lowe1385-std,concepticon-526,18.19,wuś,howl,wus
+clics-doculect-34-1353,lowe1385-std,concepticon-1623,18.21,powědaś,"speak, talk",powedas
+clics-doculect-34-1354,lowe1385-std,concepticon-1866,18.211,jěkotaś,"stutter, stammer",jekotas
+clics-doculect-34-1355,lowe1385-std,concepticon-1458,18.22,groniś,say,gronis
+clics-doculect-34-1356,lowe1385-std,concepticon-1711,18.221,wulicowaś,tell story,wulicowas
+clics-doculect-34-1357,lowe1385-std,concepticon-1115,18.222,nagrono,speech (make a),nagrono
+clics-doculect-34-1358,lowe1385-std,concepticon-48,18.23,mjelcaś,silent (be),mjelcas
+clics-doculect-34-1359,lowe1385-std,concepticon-1307,18.24,rěc,language,rec
+clics-doculect-34-1360,lowe1385-std,concepticon-1599,18.26,słowo,word,slowo
+clics-doculect-34-1361,lowe1385-std,concepticon-1405,18.28,mě,name,me
+clics-doculect-34-1362,lowe1385-std,concepticon-1309,18.31,pšašaś,"ask (question, inquire)",psasas
+clics-doculect-34-1363,lowe1385-std,concepticon-1275,18.32,wótgroniś,answer,wotgronis
+clics-doculect-34-1364,lowe1385-std,concepticon-2022,18.33,pśiwdaś,"admit, confess",psiwdas
+clics-doculect-34-1365,lowe1385-std,concepticon-755,18.34,prěś,deny,pres
+clics-doculect-34-1366,lowe1385-std,concepticon-1828,18.35,pšosyś,"ask, request",psosys
+clics-doculect-34-1367,lowe1385-std,concepticon-1675,18.36,lubiś,promise,lubis
+clics-doculect-34-1368,lowe1385-std,concepticon-49,18.37,wótpokazaś,refuse,wotpokazas
+clics-doculect-34-1369,lowe1385-std,concepticon-83,18.38,zakazaś,forbid,zakazas
+clics-doculect-34-1370,lowe1385-std,concepticon-299,18.39,pórokowaś,"rebuke, scold",porokowas
+clics-doculect-34-1371,lowe1385-std,concepticon-299,18.39,mjenaś,"rebuke, scold",mjenas
+clics-doculect-34-1372,lowe1385-std,concepticon-299,18.39,todlowaś,"rebuke, scold",todlowas
+clics-doculect-34-1373,lowe1385-std,concepticon-299,18.39,šumpowaś,"rebuke, scold",sumpowas
+clics-doculect-34-1374,lowe1385-std,concepticon-299,18.39,šćokaś,"rebuke, scold",scokas
+clics-doculect-34-1375,lowe1385-std,concepticon-1084,18.41,wołaś,call (=summon),wolas
+clics-doculect-34-1376,lowe1385-std,concepticon-180,18.42,groniś,call (=name),gronis
+clics-doculect-34-1377,lowe1385-std,concepticon-9,18.43,pśipowěźeś,announce,psipowezes
+clics-doculect-34-1378,lowe1385-std,concepticon-1192,18.44,grozyś,threaten,grozys
+clics-doculect-34-1379,lowe1385-std,concepticon-101,18.45,wjelicaśse,boast,wjelicasse
+clics-doculect-34-1380,lowe1385-std,concepticon-101,18.45,prolowaśse,boast,prolowasse
+clics-doculect-34-1381,lowe1385-std,concepticon-1672,18.51,pisaś,write,pisas
+clics-doculect-34-1382,lowe1385-std,concepticon-724,18.52,cytaś,read,cytas
+clics-doculect-34-1383,lowe1385-std,concepticon-724,18.52,lazowaś,read,lazowas
+clics-doculect-34-1384,lowe1385-std,concepticon-648,18.56,papjera,paper,papjera
+clics-doculect-34-1385,lowe1385-std,concepticon-794,18.57,pisak,pen,pisak
+clics-doculect-34-1386,lowe1385-std,concepticon-963,18.61,knigły,book,knigly
+clics-doculect-34-1388,lowe1385-std,concepticon-777,18.71,flejta,flute,flejta
+clics-doculect-34-1389,lowe1385-std,concepticon-908,18.72,bubon,drum,bubon
+clics-doculect-34-1390,lowe1385-std,concepticon-2136,18.73,trompeta,"horn, trumpet",trompeta
+clics-doculect-34-1391,lowe1385-std,concepticon-300,18.74,šćerkotawa,rattle,scerkotawa
+clics-doculect-34-1392,lowe1385-std,concepticon-1300,19.11,kraj,country,kraj
+clics-doculect-34-1393,lowe1385-std,concepticon-1300,19.11,land,country,land
+clics-doculect-34-1394,lowe1385-std,concepticon-89,19.12,wóścnykraj,one's native country,woscnykraj
+clics-doculect-34-1395,lowe1385-std,concepticon-89,19.12,domownja,one's native country,domownja
+clics-doculect-34-1396,lowe1385-std,concepticon-1391,19.15,město,"city, town",mesto
+clics-doculect-34-1397,lowe1385-std,concepticon-930,19.16,wjas,village,wjas
+clics-doculect-34-1398,lowe1385-std,concepticon-1010,19.17,granica,boundary,granica
+clics-doculect-34-1399,lowe1385-std,concepticon-1010,19.17,mroka,boundary,mroka
+clics-doculect-34-1400,lowe1385-std,concepticon-789,19.21,lud,people (populace),lud
+clics-doculect-34-1401,lowe1385-std,concepticon-302,19.23,rod,"tribe, clan",rod
+clics-doculect-34-1402,lowe1385-std,concepticon-301,19.24,wjednik,"chief, chieftain",wjednik
+clics-doculect-34-1403,lowe1385-std,concepticon-1296,19.25,kij,"staff, walking stick",kij
+clics-doculect-34-1404,lowe1385-std,concepticon-1846,19.31,kněžyśse,"rule, govern",knezysse
+clics-doculect-34-1405,lowe1385-std,concepticon-1846,19.31,regěrowaś,"rule, govern",regerowas
+clics-doculect-34-1406,lowe1385-std,concepticon-1508,19.32,kral,"king, ruler",kral
+clics-doculect-34-1407,lowe1385-std,concepticon-1306,19.33,kralowka,queen,kralowka
+clics-doculect-34-1408,lowe1385-std,concepticon-482,19.36,zemjan,"noble, nobleman",zemjan
+clics-doculect-34-1409,lowe1385-std,concepticon-1032,19.37,bergaŕ,"citizen, subject",bergar
+clics-doculect-34-1410,lowe1385-std,concepticon-383,19.41,kněz,master,knez
+clics-doculect-34-1411,lowe1385-std,concepticon-812,19.42,škloba,slave,skloba
+clics-doculect-34-1412,lowe1385-std,concepticon-812,19.42,njewólnik,slave,njewolnik
+clics-doculect-34-1413,lowe1385-std,concepticon-255,19.43,słužabnik,servant,sluzabnik
+clics-doculect-34-1414,lowe1385-std,concepticon-384,19.44,lichotnyluź,freeman,lichotnyluz
+clics-doculect-34-1415,lowe1385-std,concepticon-384,19.44,fryjluź,freeman,fryjluz
+clics-doculect-34-1416,lowe1385-std,concepticon-1128,19.45,pśikazaś,"command, order",psikazas
+clics-doculect-34-1417,lowe1385-std,concepticon-1635,19.46,słuchaś,obey,sluchas
+clics-doculect-34-1418,lowe1385-std,concepticon-1003,19.47,zwóliś,"let, permit",zwolis
+clics-doculect-34-1419,lowe1385-std,concepticon-1325,19.51,pśijaśel,"friend, companion",psijasel
+clics-doculect-34-1420,lowe1385-std,concepticon-1358,19.52,winik,enemy,winik
+clics-doculect-34-1421,lowe1385-std,concepticon-1332,19.54,sused,neighbor,sused
+clics-doculect-34-1422,lowe1385-std,concepticon-791,19.55,cuzbnik,stranger,cuzbnik
+clics-doculect-34-1423,lowe1385-std,concepticon-791,19.55,cuzy,stranger,cuzy
+clics-doculect-34-1424,lowe1385-std,concepticon-1782,19.56,gósć,guest,gosc
+clics-doculect-34-1425,lowe1385-std,concepticon-1545,19.57,gósćinaŕ,host,goscinar
+clics-doculect-34-1426,lowe1385-std,concepticon-1897,19.58,pómoc,"help, aid",pomoc
+clics-doculect-34-1427,lowe1385-std,concepticon-1550,19.59,zajźowaś,"hinder, prevent",zajzowas
+clics-doculect-34-1428,lowe1385-std,concepticon-1550,19.59,zadoraś,"hinder, prevent",zadoras
+clics-doculect-34-1429,lowe1385-std,concepticon-1747,19.61,nałog,custom,nalog
+clics-doculect-34-1430,lowe1385-std,concepticon-1848,19.62,zwada,"strife, quarrel",zwada
+clics-doculect-34-1431,lowe1385-std,concepticon-2024,19.63,zapśisega,"conspiracy, plot",zapsisega
+clics-doculect-34-1432,lowe1385-std,concepticon-1831,19.65,zmakaś,meet,zmakas
+clics-doculect-34-1433,lowe1385-std,concepticon-1831,19.65,trjefiś,meet,trjefis
+clics-doculect-34-1434,lowe1385-std,concepticon-1610,19.72,prostitutka,prostitute,prostitutka
+clics-doculect-34-1435,lowe1385-std,concepticon-1610,19.72,hura,prostitute,hura
+clics-doculect-34-1436,lowe1385-std,concepticon-1423,20.11,wójowaś,fight (vb),wojowas
+clics-doculect-34-1437,lowe1385-std,concepticon-579,20.13,wójna,"war, battle",wojna
+clics-doculect-34-1438,lowe1385-std,concepticon-1338,20.14,měr,peace,mer
+clics-doculect-34-1439,lowe1385-std,concepticon-1561,20.15,wójsko,army,wojsko
+clics-doculect-34-1440,lowe1385-std,concepticon-1561,20.15,armeja,army,armeja
+clics-doculect-34-1441,lowe1385-std,concepticon-1941,20.17,wójak,soldier,wojak
+clics-doculect-34-1442,lowe1385-std,concepticon-951,20.21,broń,"weapons, arms",bron
+clics-doculect-34-1443,lowe1385-std,concepticon-1763,20.22,heja,club,heja
+clics-doculect-34-1444,lowe1385-std,concepticon-387,20.23,prokadło,sling,prokadlo
+clics-doculect-34-1445,lowe1385-std,concepticon-994,20.24,pšužyna,bow,psuzyna
+clics-doculect-34-1446,lowe1385-std,concepticon-977,20.25,klek,arrow,klek
+clics-doculect-34-1447,lowe1385-std,concepticon-977,20.25,šypa,arrow,sypa
+clics-doculect-34-1448,lowe1385-std,concepticon-945,20.26,kopje,spear,kopje
+clics-doculect-34-1449,lowe1385-std,concepticon-1535,20.27,mjac,sword,mjac
+clics-doculect-34-1450,lowe1385-std,concepticon-1566,20.28,flinta,"gun, cannon",flinta
+clics-doculect-34-1451,lowe1385-std,concepticon-1566,20.28,buška,"gun, cannon",buska
+clics-doculect-34-1452,lowe1385-std,concepticon-1566,20.28,stśělba,"gun, cannon",stselba
+clics-doculect-34-1453,lowe1385-std,concepticon-1061,20.31,bronidło,armor (defensive),bronidlo
+clics-doculect-34-1454,lowe1385-std,concepticon-1680,20.33,nagłowk,helmet,naglowk
+clics-doculect-34-1455,lowe1385-std,concepticon-1064,20.34,šćit,shield,scit
+clics-doculect-34-1456,lowe1385-std,concepticon-1938,20.35,twardnica,fortress,twardnica
+clics-doculect-34-1457,lowe1385-std,concepticon-1938,20.35,festunga,fortress,festunga
+clics-doculect-34-1458,lowe1385-std,concepticon-1938,20.35,twarźizna,fortress,twarzizna
+clics-doculect-34-1459,lowe1385-std,concepticon-1671,20.36,torm,tower,torm
+clics-doculect-34-1460,lowe1385-std,concepticon-783,20.41,dobyśe,victory,dobyse
+clics-doculect-34-1461,lowe1385-std,concepticon-782,20.42,póbiśe,defeat,pobise
+clics-doculect-34-1462,lowe1385-std,concepticon-722,20.43,napad,attack,napad
+clics-doculect-34-1463,lowe1385-std,concepticon-1330,20.44,zašćitaś,defend,zascitas
+clics-doculect-34-1464,lowe1385-std,concepticon-421,20.45,copaś,retreat,copas
+clics-doculect-34-1465,lowe1385-std,concepticon-1696,20.46,powdaśse,surrender,powdasse
+clics-doculect-34-1466,lowe1385-std,concepticon-1072,20.47,popajźony,"captive, prisoner",popajzony
+clics-doculect-34-1467,lowe1385-std,concepticon-1072,20.47,fangowany,"captive, prisoner",fangowany
+clics-doculect-34-1468,lowe1385-std,concepticon-1940,20.471,stražnik,"guard, sentinel",straznik
+clics-doculect-34-1469,lowe1385-std,concepticon-1940,20.471,wajchtaŕ,"guard, sentinel",wajchtar
+clics-doculect-34-1470,lowe1385-std,concepticon-1022,20.48,rubjeństwo,"booty, spoils",rubjenstwo
+clics-doculect-34-1471,lowe1385-std,concepticon-1022,20.48,bejta,"booty, spoils",bejta
+clics-doculect-34-1472,lowe1385-std,concepticon-65,20.49,zakšyśe,ambush,zaksyse
+clics-doculect-34-1473,lowe1385-std,concepticon-65,20.49,pasle,ambush,pasle
+clics-doculect-34-1474,lowe1385-std,concepticon-1858,20.51,rybaŕ,fisherman,rybar
+clics-doculect-34-1475,lowe1385-std,concepticon-1074,20.52,kokulka,fishhook,kokulka
+clics-doculect-34-1476,lowe1385-std,concepticon-19,20.53,šnora,fishing line,snora
+clics-doculect-34-1477,lowe1385-std,concepticon-388,20.54,rybacnyseś,fishnet,rybacnyses
+clics-doculect-34-1478,lowe1385-std,concepticon-389,20.55,bubańc,fish trap,bubanc
+clics-doculect-34-1479,lowe1385-std,concepticon-389,20.55,tunka,fish trap,tunka
+clics-doculect-34-1480,lowe1385-std,concepticon-2013,20.56,łapotka,bait,lapotka
+clics-doculect-34-1481,lowe1385-std,concepticon-1435,20.61,góńtwowaś,hunt,gontwowas
+clics-doculect-34-1482,lowe1385-std,concepticon-1172,20.62,stśěliś,shoot,stselis
+clics-doculect-34-1483,lowe1385-std,concepticon-161,20.63,sfelowaś,miss (target),sfelowas
+clics-doculect-34-1484,lowe1385-std,concepticon-1075,20.64,pasle,trap (noun),pasle
+clics-doculect-34-1485,lowe1385-std,concepticon-1170,20.65,łapiś,trap (vb),lapis
+clics-doculect-34-1486,lowe1385-std,concepticon-1062,21.11,kazń,law,kazn
+clics-doculect-34-1487,lowe1385-std,concepticon-1068,21.15,sudnistwo,court,sudnistwo
+clics-doculect-34-1488,lowe1385-std,concepticon-1818,21.16,suźiś,judge (vb),suzis
+clics-doculect-34-1489,lowe1385-std,concepticon-1067,21.17,wusud,judgment,wusud
+clics-doculect-34-1490,lowe1385-std,concepticon-861,21.18,sudnik,judge (noun),sudnik
+clics-doculect-34-1491,lowe1385-std,concepticon-2020,21.21,skjaržaŕ,plaintiff,skjarzar
+clics-doculect-34-1492,lowe1385-std,concepticon-1034,21.22,pśeskjaržony,defendant,pseskjarzony
+clics-doculect-34-1493,lowe1385-std,concepticon-1144,21.23,znank,witness,znank
+clics-doculect-34-1494,lowe1385-std,concepticon-1939,21.24,pśisegaś,swear,psisegas
+clics-doculect-34-1495,lowe1385-std,concepticon-1712,21.25,pśisega,oath,psisega
+clics-doculect-34-1496,lowe1385-std,concepticon-1814,21.31,pśeskjaržyś,accuse,pseskjarzys
+clics-doculect-34-1497,lowe1385-std,concepticon-484,21.32,zasuźiś,condemn,zasuzis
+clics-doculect-34-1498,lowe1385-std,concepticon-983,21.33,dopokazaś,convict (vb),dopokazas
+clics-doculect-34-1499,lowe1385-std,concepticon-988,21.34,wuwinowaś,acquit,wuwinowas
+clics-doculect-34-1500,lowe1385-std,concepticon-1682,21.35,winowaty,guilty,winowaty
+clics-doculect-34-1501,lowe1385-std,concepticon-90,21.36,njewinowaty,innocent,njewinowaty
+clics-doculect-34-1502,lowe1385-std,concepticon-390,21.37,pokuta,"penalty, punishment",pokuta
+clics-doculect-34-1503,lowe1385-std,concepticon-390,21.37,štrofa,"penalty, punishment",strofa
+clics-doculect-34-1504,lowe1385-std,concepticon-218,21.38,pjenjeznapokuta,fine,pjenjeznapokuta
+clics-doculect-34-1505,lowe1385-std,concepticon-218,21.38,pjenjeznaštrofa,fine,pjenjeznastrofa
+clics-doculect-34-1506,lowe1385-std,concepticon-1281,21.39,popajźeństwo,"prison, jail",popajzenstwo
+clics-doculect-34-1507,lowe1385-std,concepticon-845,21.42,mordarstwo,murder,mordarstwo
+clics-doculect-34-1508,lowe1385-std,concepticon-902,21.43,łamanjemanźelstwa,adultery,lamanjemanzelstwa
+clics-doculect-34-1509,lowe1385-std,concepticon-902,21.43,ehebracharstwo,adultery,ehebracharstwo
+clics-doculect-34-1510,lowe1385-std,concepticon-902,21.43,manźelstwołamanje,adultery,manzelstwolamanje
+clics-doculect-34-1511,lowe1385-std,concepticon-953,21.44,wótsromośenje,rape,wotsromosenje
+clics-doculect-34-1512,lowe1385-std,concepticon-1889,21.46,pódpalowanje,arson,podpalowanje
+clics-doculect-34-1513,lowe1385-std,concepticon-1792,21.47,njepšawapśisega,perjury,njepsawapsisega
+clics-doculect-34-1514,lowe1385-std,concepticon-713,21.51,kšadnuś,steal,ksadnus
+clics-doculect-34-1515,lowe1385-std,concepticon-1160,21.52,złoźej,thief,zlozej
+clics-doculect-34-1516,lowe1385-std,concepticon-1160,21.52,paduch,thief,paduch

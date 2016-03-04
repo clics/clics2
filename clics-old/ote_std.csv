@@ -1,0 +1,2223 @@
+@classification: Oto-Manguean,Otopamean,Otomian,Otomi
+@iso: ote
+@language: Otomi, Mezquital
+@size: 2217
+@source: wold
+@variety: std
+1.1	world	ximha̲i
+1.21	earth, land	hai
+1.212	earth=ground, soil	hai
+1.213	dust	fonthai
+1.214	mud	bo̲ha̲i
+1.215	sand	'bomu
+1.22	mountain, hill	t'o̲ho̲
+1.22	mountain, hill	mbots'i
+1.222	cliff, precipice	xotha̲i
+1.23	plain, field	'batha
+1.24	valley	ni
+1.24	valley	nidi
+1.24	valley	'batha
+1.25	island	haimbodehe
+1.26	mainland	ximhai
+1.26	mainland	hai
+1.27	shore	ñänthe
+1.27	shore	nenthe
+1.27	shore	ñäni
+1.27	shore	nengi
+1.28	cave	nku̲ts'i
+1.28	cave	ñu̲ts'i
+1.28	cave	kweba
+1.31	water	dehe
+1.32	sea	däzabi
+1.324	foam	fu̲gi
+1.329	ocean	däzabi
+1.33	lake	zabi
+1.34	gulf, bay	zabi
+1.343	headland, point	nts'ähai
+1.35	wave	munts'i
+1.352	tide	munts'udehe
+1.352	tide	'ño
+1.352	tide	'nihi
+1.352	tide	nthihi
+1.352	tide	'ñänidehe
+1.353	lowtide	dehehingihets’i
+1.354	hightide	dehexihñets’i
+1.36	river, stream, brook	däthe
+1.36	river, stream, brook	hñe
+1.362	whirlpool	xedidehe
+1.37	spring, well	pothe
+1.37	spring, well	mehe
+1.39	waterfall	nzothe
+1.41	woods, forest	mbozaa
+1.43	wood	zaa
+1.44	stone, rock	do
+1.44	stone, rock	ma’ye
+1.44	stone, rock	ndo̲do
+1.45	earthquake	mpo̲ñha̲i
+1.45	earthquake	mpo̲ni
+1.51	sky	mahets'i
+1.52	sun	hyadi
+1.53	moon	zänä
+1.54	star	tso̲ho̲
+1.55	lightning	jwe̲i
+1.56	thunder	nga̲ni
+1.56	thunder	ñu̲ni
+1.57	lightning (as striking)	jwe̲i
+1.58	storm	bu̲nthi
+1.59	rainbow	‘be̲jini
+1.61	light (noun)	ñot’i
+1.61	light (noun)	tsibi
+1.62	darkness	'be̲xui
+1.62	darkness	mpumha̲i
+1.63	shade, shadow	xudi
+1.64	dew	xa
+1.71	air	ndähi
+1.72	wind	ndähi
+1.73	cloud	gui
+1.74	fog	'bo̲ngui
+1.74	fog	‘bipa
+1.75	rain (noun)	'ye
+1.76	snow (noun)	xija
+1.77	ice	tse̲
+1.78	weather	pa
+1.81	fire	tsibi
+1.82	flame (noun)	faspi
+1.83	smoke (noun)	'bifi
+1.84	ashes	'bospi
+1.841	embers	de̲spi
+1.851	burn (vb trans)	tsät'i
+1.852	burn (vb intrans)	zo̲
+1.86	light, kindle, ignite	the̲ti
+1.86	light, kindle, ignite	tso̲ke
+1.86	light, kindle, ignite	udi
+1.86	light, kindle, ignite	fe̲ts'i
+1.861	extinguish	jwet'i
+1.87	match (noun)	mfe̲ts'i
+1.87	match (noun)	nthe̲ti
+1.87	match (noun)	nts'o̲ke
+1.87	match (noun)	siriyo
+1.87	match (noun)	seriyo
+1.88	firewood	zaa
+1.89	charcoal	thehñä
+2.1	person, human being	jä'i
+2.21	man (vs. woman)	'ño̲ho̲
+2.22	woman	'be̲hñä
+2.23	male	‘ño̲ho̲
+2.24	female	‘be̲hñä
+2.25	boy	ts'u̲nt'u̲
+2.25	boy	metsi
+2.251	young man (adolescent)	ts'u̲nt'u̲
+2.251	young man (adolescent)	metsi
+2.26	girl	nxutsi
+2.261	young woman (adolescent)	nxutsi
+2.27	child	bätsi
+2.28	infant, baby	le̲le̲
+2.31	husband	ndo̲
+2.32	wife	'be̲hñä
+2.33	marry	nthäti
+2.34	marriage, wedding	nthäti
+2.34	marriage, wedding	dängo
+2.34	marriage, wedding	ngo
+2.341	divorce	nthe̲ku̲nthäti
+2.341	divorce	thekunthäti
+2.35	father	tada
+2.35	father	ta
+2.36	mother	nänä
+2.36	mother	me
+2.37	parents	mengu
+2.38	married man	‘ño̲ho̲
+2.39	married woman	‘be̲hñä
+2.41	son	bätsi
+2.41	son	ts'u̲nt'u̲
+2.41	son	metsi
+2.42	daughter	t'ixu
+2.43	offspring (son or daughter)	bätsi
+2.44	brother	jwädä
+2.44	brother	ida̲
+2.444	older brother	dätäjwädä
+2.444	older brother	dätäida̲
+2.445	younger brother	jwädäbätsitho
+2.445	younger brother	idabätsitho
+2.45	sister	nju
+2.45	sister	jujwe̲
+2.454	older sister	dätänju
+2.454	older sister	dätäjujwe̲
+2.455	younger sister	njubätsitho
+2.455	younger sister	jujwebätsitho
+2.456	sibling	ku
+2.458	twins	kwate
+2.46	grandfather	xita
+2.46	grandfather	pale
+2.461	old man	xita
+2.461	old man	pale
+2.47	grandmother	txu
+2.471	old woman	txu
+2.48	grandson	'be̲to
+2.49	granddaughter	‘be̲to
+2.49	granddaughter	'be̲ta
+2.51	uncle	'we
+2.51	uncle	tiyo
+2.511	mother's brother	'we
+2.511	mother's brother	tiyo
+2.512	father's brother	'we
+2.512	father's brother	tiyo
+2.52	aunt	zitsí
+2.521	mother's sister	zitsí
+2.522	father's sister	zitsí
+2.53	nephew	sobrinu
+2.54	niece	sobrinä
+2.55	cousin	ho̲ku
+2.55	cousin	ho̲ida̲
+2.55	cousin	ho̲jujwe̲
+2.55	cousin	ho̲jwädä
+2.56	ancestors	mbo̲xita
+2.57	descendants	yabätsineya'be̲to
+2.61	father-in-law (of a man)	ndo̲hñä
+2.611	father-in-law (of a woman)	tsa
+2.62	mother-in-law (of a man)	to
+2.621	mother-in-law (of a woman)	ka̲
+2.63	son-in-law (of a man)	'me̲hä
+2.631	son-in-law (of a woman)	'me̲hä
+2.64	daughter-in-law (of a man)	ts'ijwe̲
+2.641	daughter-in-law (of a woman)	ts'ijwe̲
+2.71	stepfather	ho̲ta
+2.72	stepmother	ho̲me
+2.73	stepson	ho̲bätsí
+2.73	stepson	ho̲metsí
+2.74	stepdaughter	ho̲t'ixu
+2.75	orphan	hyoya
+2.76	widow	’ranxu
+2.77	widower	‘rame
+2.81	relatives, kinsmen	meni
+2.82	family	mengu
+2.82	family	‘mu̲i
+2.91	I	nuga̲
+2.91	I	nugu̲gi
+2.91	I	nugu̲ga̲
+2.91	I	geka̲
+2.91	I	geku̲ga̲
+2.91	I	geki
+2.92	you (singular)	nu'i
+2.92	you (singular)	nu'ä'i
+2.92	you (singular)	ge'i
+2.92	you (singular)	ge'e
+2.92	you (singular)	ge'ñe
+2.93	he/she/it	nuna
+2.93	he/she/it	gehna
+2.93	he/she/it	gehnu̲
+2.93	he/she/it	nu'ä
+2.93	he/she/it	ge'ä
+2.94	we	nugahu
+2.941	we (inclusive)	nugawi
+2.941	we (inclusive)	nugwi
+2.941	we (inclusive)	gekwi
+2.941	we (inclusive)	geku̲wi
+2.941	we (inclusive)	geka̲wi
+2.941	we (inclusive)	nughu̲
+2.941	we (inclusive)	nugu̲hu̲
+2.941	we (inclusive)	nuga̲hu̲
+2.942	we (exclusive)	nuga'be
+2.942	we (exclusive)	nuga̲'be
+2.942	we (exclusive)	gek'be
+2.942	we (exclusive)	geku̲'be
+2.942	we (exclusive)	geka̲'be
+2.942	we (exclusive)	nughe
+2.942	we (exclusive)	nugu̲he
+2.942	we (exclusive)	nuga̲he
+2.942	we (exclusive)	geje
+2.942	we (exclusive)	geka̲he
+2.95	you (plural)	nu'iwi
+2.95	you (plural)	nu'u̲wi
+2.95	you (plural)	ge'awi
+2.95	you (plural)	ge'ewi
+2.95	you (plural)	nu'ahu̲
+2.95	you (plural)	nu'u̲hu̲
+2.95	you (plural)	ge'ahu̲
+2.95	you (plural)	ge'ehu̲
+2.96	they	nu’u
+2.96	they	nuyu̲
+2.96	they	gehya
+2.96	they	gehyu̲
+2.96	they	nu'u̲
+2.96	they	ge'u̲
+3.11	animal	zu'we
+3.12	male (adj)	ndo̲
+3.13	female (adj)	tsu
+3.15	livestock	me̲ti
+3.15	livestock	'yo
+3.16	pasture	pasto
+3.18	herdsman	ma̲’yo
+3.18	herdsman	ma̲meti
+3.19	stable, stall	nguume̲ti
+3.19	stable, stall	nguu'ño
+3.2	cattle (bovine)	me̲ti
+3.21	bull	doro
+3.22	ox	boi
+3.23	cow	baga
+3.24	calf	t'olodoro
+3.24	calf	t'u̲boi
+3.24	calf	ternera
+3.24	calf	t’olobaga
+3.25	sheep	deti
+3.26	ram	ndäni
+3.28	ewe	tsu'yo
+3.29	lamb	t'udeti
+3.29	lamb	t'utudi
+3.29	lamb	wa'xo
+3.32	boar	zakwa
+3.32	boar	ts'udit'oho
+3.34	sow	tsubu̲ts'u̲di
+3.35	pig	ts'udi
+3.35	pig	berko
+3.35	pig	ndobuts'udi
+3.35	pig	ndots'udi
+3.35	pig	tats'udi
+3.35	pig	tabuts'udi
+3.36	goat	t'äxi
+3.37	he-goat	ndo̲t'äxi
+3.38	kid	t'olot'äxi
+3.38	kid	t'u̲ndo̲t'äxi
+3.38	kid	t'olotsut'äxi
+3.38	kid	t'u̲tsut'äxi
+3.41	horse (equine)	fani
+3.42	stallion	tafni
+3.42	stallion	ndo̲fni
+3.44	mare	tsufni
+3.45	foal, colt	t'olofani
+3.45	foal, colt	t'ufani
+3.46	ass, donkey	burru
+3.46	ass, donkey	ndo̲bru
+3.46	ass, donkey	tsubru
+3.47	mule	mäzo
+3.47	mule	tsumu̲zo
+3.47	mule	mula
+3.5	fowl	ts'ints'u
+3.52	cock, rooster	me'ni
+3.54	hen	o̲ni
+3.54	hen	'ñunde
+3.55	chicken	o̲ni
+3.56	goose	ganso
+3.57	duck	badu
+3.58	nest	'mafi
+3.581	bird	ts'ints'u̲
+3.582	seagull	gabyota
+3.583	heron	garsa
+3.584	eagle	nxu̲ni
+3.585	hawk	nt’it’uxa
+3.585	hawk	nxuni
+3.586	vulture	padá
+3.591	bat	tsaxmagu
+3.592	parrot	loro
+3.593	crow	ka
+3.594	dove	palomä
+3.596	owl	tukru
+3.596	owl	pu̲xjwai
+3.596	owl	letxusa
+3.61	dog	tsat'yo
+3.61	dog	txu̲ku̲
+3.61	dog	ndo̲'yo
+3.61	dog	tsu'yo
+3.61	dog	'yo
+3.614	rabbit	kwa
+3.62	cat	mixi
+3.62	cat	ndo̲mu̲xi
+3.62	cat	t'olomixi
+3.62	cat	t'u̲mu̲xi
+3.62	cat	tsumu̲xi
+3.622	opossum	däzu̲
+3.622	opossum	mezu̲
+3.63	mouse, rat	ngu
+3.63	mouse, rat	dätängu
+3.63	mouse, rat	ndongu
+3.63	mouse, rat	tsungu
+3.63	mouse, rat	t'ungu
+3.65	fish	hwä
+3.653	fishscale	kwixi
+3.655	shell	xeni
+3.655	shell	tsi’buxi
+3.661	shark	tiburon
+3.662	porpoise, dolphin	delfin
+3.663	whale	bayenä
+3.71	wolf	‘muhu
+3.71	wolf	lobo
+3.71	wolf	mi’ño
+3.72	lion	liyon
+3.73	bear	'muhu
+3.74	fox	sorro
+3.74	fox	sorra
+3.75	deer	hogu̲fani
+3.75	deer	fantho̲
+3.76	monkey	nzu̲pa
+3.77	elephant	elefante
+3.78	camel	kameyo
+3.81	insect	zu'we
+3.811	louse	t'o
+3.811	louse	t'o'ni
+3.811	louse	mu̲xt'o
+3.812	nit (louse egg)	bo̲t'o
+3.813	flea	a̲
+3.813	flea	'yext'o
+3.814	centipede	xifik'eñä
+3.815	scorpion	penzu̲
+3.815	scorpion	tsoku̲mo
+3.816	cockroach	zu'wets'othe
+3.817	ant	xäju̲
+3.818	spider	mexe
+3.819	spider web	namu̲xe
+3.82	bee	kolmenä
+3.82	bee	gäne
+3.821	beeswax	serakolmenä
+3.822	beehive	kolmenä
+3.823	wasp	setu
+3.83	fly	gin'we̲
+3.832	mosquito	t'ologin'we̲
+3.84	worm	matse̲
+3.84	worm	zu'we
+3.84	worm	zu'we'wada
+3.84	worm	zu'wet'ähi
+3.84	worm	hmänthe
+3.84	worm	zu'wengo̲
+3.84	worm	nthäxuni
+3.85	snake	pa̲
+3.85	snake	k'eñä
+3.91	firefly	de̲'ni
+3.92	butterfly	tu̲xu̲mu
+3.93	grasshopper	k'oto
+3.94	snail	tsi’buxi
+3.95	frog	'we̲
+3.96	lizard	korga
+3.96	lizard	sandu̲ga
+3.96	lizard	tsathi
+3.97	crocodile, alligator	kokodrilo
+3.98	turtle	xaha
+4.11	body	ndo'yo
+4.11	body	jä'i
+4.12	skin, hide	xifni
+4.13	flesh	ngo̲
+4.14	hair (head)	xtä
+4.142	beard	ju̲ni
+4.144	body hair	xingu
+4.145	pubic hair	xingu
+4.146	dandruff	fu̲xu̲ñä
+4.15	blood	ji
+4.151	vein, artery	‘ñuji
+4.16	bone	ndo'yo
+4.162	rib	'bo̲ts'e
+4.17	horn	ndäni
+4.18	tail	ts'u̲
+4.19	back	xu̲tha
+4.191	spine	'ñuxtha
+4.2	head	ñä
+4.2	head	ñäxu̲mu
+4.201	side of head, temple	xithi
+4.202	skull	doxu̲mo
+4.202	skull	nju̲nu̲ndo'yo
+4.203	brain	bont’yo
+4.203	brain	ñäxumo
+4.203	brain	mfeni
+4.204	face	hmi
+4.205	forehead	de
+4.207	jaw	‘yone
+4.208	cheek	'yongu
+4.209	chin	juni
+4.21	eye	da̲
+4.212	eyebrow	‘yoda̲
+4.213	eyelid	xida
+4.213	eyelid	'yoda
+4.214	eyelash	xida̲
+4.215	blink	k'wi'mu̲da̲
+4.22	ear	zagu
+4.22	ear	gu
+4.221	earlobe	dungu
+4.221	earlobe	tukungo
+4.222	earwax	bo̲gu
+4.23	nose	xiñu
+4.231	nostril	oku̲xiñu
+4.232	mucus (nasal)	'ba̲xi
+4.24	mouth	ne
+4.241	beak	ndo'yone
+4.25	lip	xine
+4.26	tongue	jähne
+4.27	tooth	ts'i
+4.271	gums	ngäts'i
+4.272	molartooth	ts'afi
+4.28	neck	'yu̲ga̲
+4.281	nape of neck	ts'ibdo
+4.29	throat	‘yu̲ga̲
+4.29	throat	dox'yu̲ga̲
+4.3	shoulder	xi'xi
+4.301	shoulderblade	nxi'ñe
+4.302	collarbone	ndo'yotiñä
+4.31	arm	'ye̲
+4.312	armpit	kaxjo
+4.32	elbow	yu̲ni
+4.321	wrist	bots'u̲ndo'yo'ye̲
+4.33	hand	'ye̲
+4.331	palm of hand	nxa'ñe
+4.331	palm of hand	nxi'ñe
+4.34	finger	nsa'ñe̲
+4.342	thumb	noku̲nsa'ñe̲
+4.344	fingernail	xa̲
+4.345	claw	xa̲
+4.345	claw	nts'ähmi
+4.35	leg	xinthe
+4.351	thigh	tuku̲ngo̲
+4.352	calf of leg	dot'u̲wa
+4.36	knee	ñähmu
+4.37	foot	wa
+4.371	ankle	bots'undo'yowa
+4.372	heel	du̲nwa
+4.374	footprint	wa
+4.374	footprint	'boho
+4.38	toe	nsanwa
+4.392	wing	jwa
+4.393	feather	xi'ni
+4.4	chest	tiñä
+4.41	breast (of woman)	'ba
+4.412	nipple, teat	ts'u̲
+4.412	nipple, teat	do'ba
+4.412	nipple, teat	txitxi
+4.42	udder	mo'ba
+4.42	udder	txitxi
+4.43	navel	ts'a̲i
+4.44	heart	mu̲i
+4.441	lung	pulmon
+4.45	liver	ya
+4.451	kidney	riñu
+4.452	spleen	ye
+4.46	stomach	mu̲i
+4.461	intestines, guts	xefo
+4.462	waist	ngu̲t'i
+4.463	hip	'yozu̲
+4.463	hip	hyo
+4.464	buttocks	nthudi
+4.464	buttocks	xiji
+4.464	buttocks	hñamfo
+4.47	womb	nt'oxu̲bätsi
+4.49	testicle	mädo
+4.49	testicle	t’axi
+4.492	penis	nts'u̲
+4.51	breathe, breath	nju̲xu̲hñä
+4.52	yawn, gape	hane
+4.521	hiccough	nk'u̲ts'i
+4.53	cough	hehe
+4.54	sneeze	k'waki
+4.55	perspire	nxanthe
+4.55	perspire	honthe
+4.56	spit	tsogi
+4.57	vomit	e̲i
+4.57	vomit	tsogi
+4.57	vomit	'yaha
+4.57	vomit	'ñe̲i
+4.58	bite	tsa
+4.59	lick	tet'e
+4.591	dribble	ju̲t'i
+4.591	dribble	ju̲xt'i
+4.61	sleep	ähä
+4.612	snore	ga̲ni
+4.62	dream	'wi
+4.62	dream	'withä
+4.63	wake up	tsa̲
+4.64	break wind	e̲iyafixi
+4.64	break wind	he̲giyafixi
+4.65	urinate	pit'i
+4.66	defecate	poho
+4.67	have sexual intercourse	kui
+4.67	have sexual intercourse	heki
+4.67	have sexual intercourse	hñuxui
+4.68	shiver	bi
+4.68	shiver	bit'i
+4.68	shiver	nhwät'i
+4.69	bathe	nxaha
+4.71	beget (of father)	‘ñembätsi
+4.71	beget (of father)	japi
+4.72	born (to be)	‘bui
+4.73	pregnant	xi'ñu̲
+4.73	pregnant	ndubätsi
+4.73	pregnant	'ñu̲
+4.74	live, living, life	‘bui
+4.74	live, living, life	te
+4.75	die, dead	tu
+4.751	drowned	njät’i
+4.76	kill	ho
+4.77	corpse	animä
+4.78	bury (the dead)	'a̲gi
+4.79	grave, tomb	nt'a̲gi
+4.81	strong, mighty, powerful	nts'e̲di
+4.82	weak	nduts'e̲di
+4.82	weak	ndundo'yo
+4.82	weak	went'i
+4.83	well, health	‘yomu̲nhño
+4.84	sick, sickness	da̲thi
+4.841	fever	tsoxpa
+4.842	goiter	ne'ñu̲ga̲
+4.843	cold (catarrh)	nthuñu
+4.843	cold (catarrh)	thehe
+4.85	wound, sore	nthe̲ni
+4.85	wound, sore	mo
+4.852	bruise	xut'i
+4.852	bruise	k'e̲t'i
+4.853	swelling	hneni
+4.854	itch	nxähi
+4.854	itch	nxäki
+4.854	itch	nxä’i
+4.855	blister	ndu̲xt'i
+4.856	boil (noun)	säsi
+4.856	boil (noun)	mo'ya
+4.856	boil (noun)	mpo'ya
+4.857	pus	mo
+4.857	pus	'ya
+4.858	scar	señä
+4.858	scar	nthe̲ni
+4.86	cure, heal	thits’i
+4.87	physician	'yo̲the
+4.87	physician	doku̲tor
+4.88	medicine, drug	'ñithi
+4.89	poison	'ñithindäte
+4.91	tired, weary	nza̲bi
+4.91	tired, weary	nza̲’i
+4.91	tired, weary	nza̲ki
+4.912	rest	tsa̲ya̲
+4.92	lazy	dähñi
+4.92	lazy	hu̲xji
+4.93	bald	ngo̲ñä
+4.93	bald	ngo̲xumo
+4.93	bald	ngo̲ro
+4.93	bald	the̲ngu̲ñä
+4.94	lame	nwent’i
+4.95	deaf	gogu
+4.96	mute	gone
+4.97	blind	goda̲
+4.97	blind	xa̲da̲
+4.97	blind	k'eda̲
+4.98	intoxicated	tixfani
+4.98	intoxicated	zisei
+4.98	intoxicated	mihni
+4.98	intoxicated	nti
+4.99	naked, bare	nthe̲mfo
+4.99	naked, bare	maxji
+5.11	eat	ñuni
+5.11	eat	tsa
+5.11	eat	tsi
+5.12	food	nts’i
+5.12	food	hñuni
+5.121	cooked	ndä
+5.122	raw	'ñä
+5.123	ripe	ñäts'i
+5.123	ripe	ndä
+5.124	green, unripe	hingiñäts'i
+5.124	green, unripe	hingindä
+5.124	green, unripe	nk’a’mi
+5.124	green, unripe	nk’ants’i
+5.124	green, unripe	nk’angi
+5.125	rotten	'ya
+5.13	drink	tsi
+5.13	drink	tsithe
+5.13	drink	'bet'i
+5.14	hunger	tumunthu
+5.141	famine	dätäthuhu
+5.15	thirst	'ruthe
+5.16	suck	juts’i
+5.16	suck	tsu̲hni
+5.16	suck	tsu̲t'i
+5.18	chew	ñähí
+5.181	swallow	jänt'i
+5.181	swallow	tut'i
+5.19	choke	het'e
+5.19	choke	hñet'e
+5.21	cook	jatä
+5.21	cook	hoku̲hñuni
+5.22	boil (vb)	nthuni
+5.22	boil (vb)	nsani
+5.22	boil (vb)	tä
+5.22	boil (vb)	embindä
+5.22	boil (vb)	embinthuni
+5.23	roast, fry	häxi
+5.23	roast, fry	tsäni
+5.23	roast, fry	thu̲t'i
+5.24	bake	hu
+5.24	bake	ut'i
+5.25	oven	nthu
+5.25	oven	nt’ut’i
+5.25	oven	ornu
+5.26	pot, cooking vessel	ts'o̲e
+5.27	kettle	dätätsant'its'oe
+5.28	pan	manza
+5.28	pan	mamhi
+5.31	dish	mohi
+5.32	plate	mohi
+5.33	bowl	dätämohi
+5.34	pitcher, jug	xo̲ni
+5.34	pitcher, jug	'bada
+5.35	cup, drinking vessel	tasa
+5.36	saucer	t'olomohi
+5.37	spoon	nt'a̲ts'i
+5.38	knife	jwai
+5.39	fork	hmihi
+5.391	tongs	nts'its'i
+5.391	tongs	pinsa
+5.41	meal (a)	nts’i
+5.41	meal (a)	hñuni
+5.42	breakfast	zimxudi
+5.43	lunch	nzimuxudi
+5.44	dinner	nts’i
+5.44	dinner	hñuni
+5.45	supper	nt'oxi
+5.46	peel	xont'i
+5.46	peel	xänts'i
+5.47	sieve, strain	fats'i
+5.47	sieve, strain	faki
+5.48	scrape	ext'e
+5.48	scrape	a̲fi
+5.49	stir, mix	thänts'i
+5.49	stir, mix	wänts'i
+5.51	bread	thuhme
+5.53	dough	ju̲níhogu̲t'e̲i
+5.53	dough	ju̲nítrigo
+5.53	dough	ju̲níde̲thä
+5.54	knead	pant'i
+5.55	meal, flour	ju̲ni
+5.56	crush, grind	ku̲ni
+5.57	mill	ju̲ni
+5.58	mortar	mada
+5.59	pestle	hmihimada
+5.61	meat	ngo̲
+5.63	sausage	t'uxfots'udi
+5.63	sausage	xikungo
+5.64	soup, broth	sopa
+5.65	vegetables	k'ani
+5.66	bean	ju̲
+5.7	potato	‘rok'a
+5.7	potato	'bo̲'kwä
+5.71	fruit	fruta
+5.71	fruit	ixi
+5.712	bunch	uba
+5.75	fig	igo
+5.76	grape	uba
+5.77	nut	de̲mu̲za
+5.77	nut	nwes
+5.79	oil	nziki
+5.79	oil	asete
+5.791	grease, fat	nziki
+5.791	grease, fat	hnoho
+5.81	salt	u
+5.82	pepper	nthänts'i
+5.821	chili pepper	‘ñi
+5.84	honey	t'afi
+5.85	sugar	t'axu̲t'afi
+5.86	milk (noun)	'ba
+5.87	milk (vb)	te̲'mi
+5.88	cheese	ge̲xu
+5.89	butter	mäntekiya
+5.89	butter	nde̲ga
+5.9	beverage, drink	nts’i
+5.9	beverage, drink	dehents'i
+5.91	mead	t’afi‘wada
+5.92	wine	binu
+5.93	beer	serbesa
+5.94	fermented drink	sei
+5.97	egg	mädo
+5.97	egg	t’axi
+5.971	egg yolk	k'axt'i
+6.11	put on (clothes)	hñe
+6.11	put on (clothes)	hete
+6.11	put on (clothes)	he
+6.11	put on (clothes)	ko̲de
+6.12	clothing, clothes	'bitu
+6.13	tailor	‘we̲di
+6.13	tailor	'we̲’bitu
+6.21	cloth	'bitu
+6.22	wool	xi'yo
+6.23	linen, flax	lino
+6.24	cotton	nda̲
+6.25	silk	seda
+6.27	felt	fyeltro
+6.28	fur	xifni
+6.29	leather	xifni
+6.31	spin	käxi
+6.31	spin	maxo̲ts'e
+6.31	spin	ts’ant’i
+6.32	spindle	thet'i
+6.33	weave	pe
+6.34	loom	'be
+6.35	sew	'we̲ti
+6.36	needle	'yofni
+6.37	awl	hñehe
+6.37	awl	'rangu
+6.37	awl	'ratangu
+6.38	thread	thähi
+6.38	thread	ilo
+6.39	dye	kät'i
+6.41	cloak	majwi
+6.411	poncho	däx’yo
+6.411	poncho	mfo'mi
+6.411	poncho	mänta
+6.42	woman's dress	‘bitu'be̲hñä
+6.42	woman's dress	nthe'be̲hñä
+6.43	coat	däx’yo
+6.43	coat	thoxo
+6.44	shirt	xayu
+6.44	shirt	pahni
+6.45	collar	'yu̲ga̲
+6.46	skirt	ngo̲de
+6.48	trousers	ze̲xjo
+6.48	trousers	t'oloze̲xjo
+6.49	stocking, sock	nkät'u̲wa
+6.49	stocking, sock	medya
+6.51	shoe	ze̲xthi
+6.52	boot	hets'u̲ze̲xthi
+6.52	boot	bota
+6.54	shoemaker, cobbler	mot’uzexthi
+6.54	shoemaker, cobbler	mazexthi
+6.55	hat, cap	fu̲i
+6.55	hat, cap	mfoñä
+6.55	hat, cap	nt'oñä
+6.55	hat, cap	nkät'u̲ñä
+6.55	hat, cap	gorro
+6.57	belt, girdle	bät'i
+6.58	glove	nt'o'ye
+6.59	veil	njo’mi
+6.61	pocket	'ñägi
+6.62	button	boto
+6.63	pin	'no̲t'e
+6.63	pin	'no̲'mi
+6.71	ornament, adornment	nk'a'mi
+6.72	jewel	oro
+6.73	ring (for finger)	mfo'ye̲
+6.74	bracelet	nkät'u'ye
+6.75	necklace	nto̲de
+6.75	necklace	thebe
+6.76	bead	nxaji
+6.77	earring	nts'u̲nigu
+6.78	headband, headdress	ts'u̲t'u̲'me
+6.78	headband, headdress	nts'u̲t'i
+6.78	headband, headdress	sinta
+6.79	tattoo	kwatu̲ja̲t'iarngo̲
+6.81	handkerchief, rag	nthu'ye̲
+6.81	handkerchief, rag	'bitu
+6.82	towel	nthuku̲dehe
+6.91	comb	nsani
+6.91	comb	t'eku̲ñä
+6.91	comb	nt'eñä
+6.92	brush	nt'eku̲ñä
+6.92	brush	nt'eñä
+6.92	brush	nsu̲t'u̲ts'i
+6.92	brush	nt'ext'u̲ts'i
+6.92	brush	nt'eku̲'bitu
+6.92	brush	nt'ext'u̲xa̲
+6.921	braid	pe
+6.921	braid	pet'e
+6.93	razor	nthe̲ts'i
+6.93	razor	t'olojwai
+6.93	razor	t'u̲jwai
+6.94	ointment	njots'i
+6.94	ointment	unwento
+6.95	soap	xabo
+6.96	mirror	hñe
+7.11	dwell, live	‘bui
+7.12	house	nguu
+7.13	hut	nguu
+7.14	tent	dätänjo'mi
+7.15	yard, court	thi
+7.16	men's house	nguuya‘ñoho
+7.17	cookhouse	nthoku̲nts'i
+7.17	cookhouse	nthoku̲hñuni
+7.17	cookhouse	nthoku̲komida
+7.18	meeting house	nguuhmunts’i
+7.21	room	kut'unguu
+7.21	room	xeni
+7.22	door, gate	goxthi
+7.221	doorpost, jamb	’maigoxthi
+7.221	doorpost, jamb	poste
+7.23	lock (noun)	njot'i
+7.24	key	nsogi
+7.24	key	nsoki
+7.25	window	hats’i
+7.25	window	bentanä
+7.26	floor	hai
+7.27	wall	jot'i
+7.31	fireplace	nt'uspi
+7.32	stove	stufa
+7.33	chimney	mpoxu'bifi
+7.37	ladder	'rede
+7.42	bed	nt'ots'i
+7.42	bed	xifi
+7.421	pillow	nthuxu̲ñä
+7.422	blanket	däx'yo
+7.422	blanket	mänta
+7.43	chair	thuhni
+7.43	chair	njwat'i
+7.43	chair	nthúts'i
+7.43	chair	siya
+7.44	table	mexa
+7.45	lamp, torch	ñot'i
+7.45	lamp, torch	ñot’i
+7.45	lamp, torch	nt'udi
+7.46	candle	hyats’i
+7.47	shelf	nt'u̲xu̲he̲'mi
+7.47	shelf	nt'u̲ts'i
+7.48	trough	motsa
+7.48	trough	'bo̲de
+7.51	roof	njo'mi
+7.51	roof	'bet'e
+7.52	thatch	‘met'epaxa
+7.53	ridgepole	'yoxtha
+7.54	rafter	‘bu̲ts'i
+7.55	beam	däzaa
+7.56	post, pole	'ma̲i
+7.56	post, pole	poste
+7.57	board	xithe̲
+7.58	arch	nsä'mi
+7.58	arch	arko
+7.61	mason	gädo
+7.61	mason	hyoku̲nguu
+7.61	mason	hyonguu
+7.62	brick	ladriyo
+7.63	mortar	meskla
+7.63	mortar	nthänts'i
+7.64	adobe	ñäha̲i
+8.11	farmer	wähi
+8.11	farmer	mot'i
+8.11	farmer	fuxuhai
+8.12	field (for cultivation)	hwähi
+8.13	garden	mbodu̲ni
+8.13	garden	mbo'xi
+8.13	garden	mbozaa
+8.15	cultivate, till	fuxuhai
+8.15	cultivate, till	fu̲ts'i
+8.15	cultivate, till	fo̲'mi
+8.16	fence	jädo
+8.16	fence	jot’i
+8.17	ditch	'ñuthe
+8.21	plow	fuxuhai
+8.21	plow	fu̲ts'i
+8.21	plow	fo̲'mi
+8.212	furrow	thee
+8.22	dig	he̲t'i
+8.22	dig	he̲ki
+8.22	dig	o̲t'u̲'ñuthe
+8.23	spade	nt'e̲ñha̲i
+8.23	spade	pala
+8.24	shovel	pala
+8.25	hoe	bo̲jänt'e̲ñha̲i
+8.25	hoe	bo̲jänku̲thä
+8.27	rake	hmunts'upasto
+8.31	sow	pot'i
+8.31	sow	poni
+8.311	seed	simiya
+8.311	seed	nda̲
+8.32	mow, reap	xa
+8.33	sickle, scythe	t'e̲xu̲
+8.34	thresh	fe̲i
+8.34	thresh	täki
+8.35	threshing-floor	‘me̲t’e̲i
+8.35	threshing-floor	era
+8.41	crop, harvest	sofo
+8.42	grain (barley, oats etc)	de
+8.42	grain (barley, oats etc)	simiya
+8.43	wheat	hogu̲t'e̲i
+8.43	wheat	trigo
+8.44	barley	su̲bada
+8.45	rye	‘boju̲ni
+8.45	rye	potheju̲ni
+8.46	oats	benä
+8.47	maize, corn	de̲thä
+8.47	maize, corn	thä
+8.48	rice	arros
+8.51	grass	pasto
+8.52	hay	paxa
+8.53	plant (noun)	do̲ni
+8.53	plant (noun)	planta
+8.531	plant (vb)	et'i
+8.531	plant (vb)	kät'i
+8.54	root	'yu̲
+8.55	branch	‘ye̲zaa
+8.56	leaf	xi
+8.56	leaf	thot'i
+8.57	flower	do̲ni
+8.6	tree	zaa
+8.6	tree	'ba̲izaa
+8.61	oak	dozaa
+8.61	oak	xiza
+8.62	beech	nze̲dizaa
+8.63	birch	t'axu̲zaa
+8.64	pine	tu̲di
+8.64	pine	pinu
+8.65	fir	tu̲di
+8.66	acorn	ro
+8.67	vine	uba
+8.68	tobacco	tabako
+8.69	smoke (tobacco)	tsiyu̲i
+8.691	pipe	nja̲t'u̲'yu̲i
+8.72	tree stump	ndu̲nzaa
+8.73	tree trunk	wazaa
+8.75	bark	'ma̲ts'i
+8.75	bark	'ma̲xu̲zaa
+8.75	bark	'ma̲ts'u̲zaa
+8.76	sap	‘bazaa
+8.76	sap	dehe'yomuhñongizá
+8.81	palm tree	denthi
+8.82	coconut	koko
+8.83	citrus fruit	‘ñixi
+8.83	citrus fruit	'ñits'i
+8.83	citrus fruit	'ñixt'i
+8.84	banana tree	däza
+8.91	sweet potato	bo̲'kwä
+8.93	gourd	mu
+8.931	pumpkin, squash	mu
+8.931	pumpkin, squash	'beza
+8.94	bamboo	maazaa
+8.94	bamboo	maazaa
+8.94	bamboo	bambu
+8.941	sugar cane	ndu̲xo
+8.97	nettle	nzänä
+8.98	mushroom	jo
+8.98	mushroom	njothä
+9.11	do, make	o̲t'e
+9.12	work	mpe̲fi
+9.14	bend	tot'i
+9.14	bend	'bo̲nt'e
+9.14	bend	tx'a̲ki
+9.14	bend	'ba̲t'i
+9.14	bend	yuki
+9.15	fold	kwe'mi
+9.15	fold	tot'i
+9.15	fold	muhni
+9.16	tie, bind	tut'i
+9.16	tie, bind	thät'i
+9.16	tie, bind	xo̲t'e
+9.16	tie, bind	tuts'i
+9.161	untie	xot'i
+9.18	chain	ntoku̲bo̲jä
+9.18	chain	njunu̲bo̲jä
+9.18	chain	kadenä
+9.19	rope, cord	nthähi
+9.192	knot (noun)	‘ruts'i
+9.21	strike (hit, beat)	umbi
+9.21	strike (hit, beat)	fa'mi
+9.21	strike (hit, beat)	fati
+9.21	strike (hit, beat)	fant’i
+9.21	strike (hit, beat)	fu̲t'i
+9.21	strike (hit, beat)	hu̲hni
+9.21	strike (hit, beat)	hu̲t'i
+9.211	pound with fist	pu̲'mi
+9.211	pound with fist	pu̲ni
+9.22	cut	he̲ki
+9.22	cut	thot'i
+9.22	cut	heni
+9.22	cut	het'i
+9.22	cut	hets'i
+9.22	cut	tseni
+9.22	cut	äxi
+9.22	cut	tuki
+9.22	cut	toki
+9.22	cut	tsenzaa
+9.22	cut	thoki
+9.22	cut	tseki
+9.22	cut	tse̲ki
+9.22	cut	tse̲ni
+9.22	cut	tse̲nzaa
+9.221	cut down	e̲nt'i
+9.221	cut down	tse̲t'i
+9.222	chop, hew	he̲ki
+9.222	chop, hew	he̲ts'i
+9.222	chop, hew	he̲ni
+9.222	chop, hew	su̲t'i
+9.222	chop, hew	ts'ant'i
+9.223	stab	heni
+9.223	stab	ts’ant’i
+9.223	stab	suni
+9.223	stab	suki
+9.223	stab	sut'i
+9.223	stab	fots'i
+9.223	stab	foti
+9.223	stab	su'mi
+9.223	stab	hokoarjwai
+9.223	stab	henikoarjwai
+9.23	knife	jwai
+9.24	scissors, shears	t'äxte
+9.25	ax	t'e̲gi
+9.26	break	tehmi
+9.26	break	'waki
+9.261	broken	xindehmi
+9.261	broken	xintot’i
+9.261	broken	xixe̲gi
+9.27	split	he̲ni
+9.27	split	heke
+9.27	split	he̲ki
+9.28	tear	xe̲ki
+9.28	tear	t'u̲ni
+9.29	flay, skin	xänts'i
+9.29	flay, skin	pu̲t'i
+9.31	rub, wipe	koxt'i
+9.32	stretch	ju̲i
+9.32	stretch	maki
+9.33	pull	ju̲t'i
+9.33	pull	juts’i
+9.33	pull	ju̲'mi
+9.33	pull	k'ots'i
+9.34	spread out	tu̲ngi
+9.34	spread out	ini
+9.34	spread out	xits'i
+9.34	spread out	xani
+9.341	hang up	zu̲i
+9.341	hang up	nts'u̲ni
+9.341	hang up	'räts'i
+9.341	hang up	mfe̲ni
+9.342	press	dut'i
+9.342	press	ts'its'i
+9.343	squeeze, wring	te̲'mi
+9.35	pour	ba̲ñä
+9.35	pour	o̲ni
+9.35	pour	nxani
+9.35	pour	nä'mi
+9.36	wash	pet'e
+9.36	wash	peni
+9.36	wash	nxaha
+9.36	wash	xu̲ki
+9.36	wash	xu̲'ye̲
+9.36	wash	xu̲hmi
+9.36	wash	hiñä
+9.36	wash	xu̲t'i
+9.37	sweep	paxi
+9.37	sweep	joki
+9.38	broom	'baxi
+9.422	tool	bo̲jä
+9.422	tool	erramyenta
+9.43	carpenter	yaxi
+9.44	build	hoki
+9.44	build	ho̲e
+9.44	build	ho̲nguu
+9.46	bore	hets'i
+9.461	hollow out	bo̲mí
+9.461	hollow out	'bo̲nt'e
+9.461	hollow out	mo'mi
+9.48	saw	the̲gi
+9.49	hammer	‘mu̲ni
+9.49	hammer	'mu̲'mi
+9.49	hammer	märtiyo
+9.5	nail	'no̲t'e
+9.5	nail	klabo
+9.56	glue	njoxumpe
+9.56	glue	pega
+9.56	glue	'rät'i
+9.56	glue	koxumpe
+9.56	glue	pet'i
+9.6	smith, blacksmith	jwit'i
+9.6	smith, blacksmith	hyoku̲bo̲jä
+9.6	smith, blacksmith	'yo̲t'u̲bo̲jä
+9.61	forge	nt'uspints'ät'u̲bo̲jä
+9.61	forge	pu̲'mi
+9.62	anvil	nt'u̲xu̲bo̲jä
+9.63	cast (metals)	deni
+9.64	gold	k’axt’i
+9.65	silver	t'axi
+9.66	copper, bronze	kobre
+9.66	copper, bronze	bronse
+9.66	copper, bronze	k'axt'u̲bo̲jä
+9.67	iron	bo̲jä
+9.67	iron	nzobujä
+9.67	iron	nzät'u̲bo̲jä
+9.68	lead (noun)	plomu
+9.69	tin, tinplate	t'axubojä
+9.71	potter	‘yot’u̲ts'o̲e
+9.71	potter	hyoku̲ts'o̲e
+9.72	mold (clay etc)	kät'i
+9.72	mold (clay etc)	hoki
+9.73	clay	hai
+9.74	glass	nhñe
+9.74	glass	xito
+9.74	glass	bidryo
+9.75	weave, plait	pe
+9.76	basket	'bo̲ts'e
+9.77	mat	t'olofidi
+9.771	rug	njo'mi
+9.78	netbag	‘rozä
+9.79	fan (noun)	nthitu̲ndähi
+9.791	fan (vb)	hitu̲ndähi
+9.81	carve	o̲t'u̲do
+9.82	sculptor	yaxudo
+9.83	statue	njäts'i
+9.83	statue	tsita
+9.84	chisel	bo̲jant'äts'u̲zaa
+9.84	chisel	sinsel
+9.88	paint (noun)	njät’i
+9.88	paint (noun)	njät’i
+9.89	paint (vb)	kät'ikuhu
+9.89	paint (vb)	kots'ikuhu
+10.11	move	wäni
+10.11	move	'ñäni
+10.11	move	jwäni
+10.12	turn over	‘ba̲t'i
+10.12	turn over	pu̲nts'i
+10.13	turn around	‘ba̲t'i
+10.13	turn around	'ba̲hni
+10.13	turn around	mpu̲nts'i
+10.13	turn around	uni'narxint'i
+10.13	turn around	xint'i
+10.14	wind, wrap	pa̲'mi
+10.14	wind, wrap	pant'i
+10.14	wind, wrap	thänts'i
+10.14	wind, wrap	pa̲ts'i
+10.15	roll	maxo̲ts'e
+10.15	roll	täni
+10.16	drop (vb)	hegi
+10.16	drop (vb)	hegitsots'i
+10.17	twist	‘bat'i
+10.17	twist	käxi
+10.21	rise	po̲ts'e
+10.22	raise, lift	juts’i
+10.22	raise, lift	pats'i
+10.22	raise, lift	'wäts'i
+10.23	fall	ta̲gi
+10.23	fall	jwangi
+10.23	fall	ho̲e
+10.24	drip	ju̲t'i
+10.24	drip	ju̲xt'i
+10.25	throw	u̲ts'i
+10.25	throw	e̲nt'i
+10.25	throw	ho̲t'e
+10.25	throw	e̲nts'i
+10.25	throw	nät'i
+10.25	throw	e̲i
+10.25	throw	poni
+10.25	throw	näni
+10.252	catch (ball)	mihi
+10.252	catch (ball)	ju
+10.26	shake	jwät'i
+10.26	shake	jwähmi
+10.32	flow	tihi
+10.32	flow	nextri
+10.32	flow	nixtri
+10.32	flow	'yo
+10.33	sink	ku̲i
+10.33	sink	ñunt'i
+10.34	float	hñe̲nts'i
+10.35	swim	'ña̲the
+10.35	swim	'me̲the
+10.351	dive	ku̲i
+10.351	dive	nku̲'mijardehe
+10.351	dive	nku̲'mu̲dehe
+10.352	splash	kwaxt'i
+10.36	sail (vb)	'yodehe
+10.37	fly (vb)	nsa̲ni
+10.38	blow	jwixt'i
+10.38	blow	jwiki
+10.38	blow	bu̲
+10.41	creep, crawl	'ñani
+10.412	kneel	ndändu̲ñähmu
+10.413	crouch	yuki
+10.413	crouch	'ñani
+10.42	slide, slip	ya̲xt'i
+10.43	jump, leap	sa̲gi
+10.43	jump, leap	sa̲ki
+10.43	jump, leap	'nats'i
+10.43	jump, leap	sa̲ts'i
+10.431	kick	tit'i
+10.44	dance	nei
+10.45	walk	‘yowa
+10.45	walk	'yo
+10.45	walk	ne’ñu
+10.451	limp	nk'u̲'mi
+10.451	limp	nk'u̲ts'i
+10.46	run	nixtri
+10.46	run	tihi
+10.47	go	ma
+10.47	go	pa
+10.471	go up	tets'e
+10.471	go up	po̲ts'e
+10.472	climb	po̲ts'e
+10.472	climb	tets'e
+10.473	go down	käi
+10.474	go out	poni
+10.48	come	ehe
+10.481	come back	kots’i
+10.49	go away, depart	ma
+10.49	go away, depart	pa
+10.49	go away, depart	poni
+10.491	disappear	‘bedi
+10.51	flee	‘wege
+10.51	flee	'ragi
+10.52	follow	te̲ni
+10.52	follow	sige
+10.53	pursue	kui
+10.53	pursue	kute
+10.53	pursue	teni
+10.55	reach, arrive	tso̲ho̲
+10.55	reach, arrive	tso̲kwa
+10.55	reach, arrive	tso̲ni
+10.55	reach, arrive	tso̲t'e
+10.55	reach, arrive	tso̲ts'e
+10.56	approach	kwat'i
+10.57	enter	ku̲t'i
+10.61	carry (bear)	tuts'i
+10.61	carry (bear)	tu
+10.61	carry (bear)	häts'i
+10.61	carry (bear)	käts'i
+10.61	carry (bear)	tsits'i
+10.61	carry (bear)	tuti
+10.61	carry (bear)	theni
+10.612	carry-in-hand	tu
+10.612	carry-in-hand	häjar'ye̲
+10.612	carry-in-hand	häts'i
+10.612	carry-in-hand	kähä
+10.613	carry-on-shoulder	pe̲x'yo
+10.614	carry-on-head	tu
+10.614	carry-on-head	häjarñä
+10.615	carry-underarm	tsatu̲kaxjo
+10.615	carry-underarm	the̲ts'i
+10.62	bring	hä
+10.63	send	pe̲hni
+10.64	lead (vb)	uti
+10.64	lead (vb)	xokwiyáda̲
+10.65	drive	e̲t'i
+10.65	drive	e̲
+10.65	drive	'yoni
+10.66	ride	nat'i
+10.66	ride	nto̲ge
+10.67	push, shove	tuki
+10.71	road	ts’ixt’u‘ñu
+10.71	road	kartera
+10.72	path	ts’ixt’u‘ñu
+10.72	path	'ñu
+10.74	bridge	'rani
+10.75	carriage, wagon, cart	bo̲jä
+10.75	carriage, wagon, cart	karreta
+10.75	carriage, wagon, cart	maxo̲ts'e
+10.76	wheel	tsant'i
+10.76	wheel	rweda
+10.77	axle	tsant'i
+10.77	axle	ehe
+10.78	yoke	yugu
+10.81	ship	motsadehe
+10.81	ship	bojädehe
+10.81	ship	barko
+10.83	boat	motsadehe
+10.83	boat	bojädehe
+10.83	boat	barko
+10.831	canoe	motsa
+10.832	outrigger	k'a'mi
+10.85	oar	ñänzaa
+10.851	paddle (noun)	nt'e̲ñha̲i
+10.852	row (vb)	‘yoni
+10.86	rudder	timu
+10.87	mast	njwänizaa
+10.91	harbor, port	goxthidehe
+10.91	harbor, port	goxthe
+10.92	land (vb)	tsohojarhai
+11.11	have	pe̲ts'i
+11.11	have	'ñehe
+11.12	own, possess	pets'i
+11.12	own, possess	'ñehe
+11.13	take	ju
+11.14	seize, grasp	mihi
+11.14	seize, grasp	pe̲nt'i
+11.14	seize, grasp	ju
+11.14	seize, grasp	mit'i
+11.15	hold	hä
+11.15	hold	mihi
+11.16	get, obtain	hä
+11.16	get, obtain	pe̲ts'i
+11.16	get, obtain	honi
+11.17	keep, retain	tsuni
+11.17	keep, retain	kwati
+11.18	thing	nt'o̲t'e
+11.18	thing	kosa
+11.21	give	uni
+11.22	give back	kots’i
+11.22	give back	kots'i
+11.24	preserve, look after	tsuni
+11.25	save, rescue	pote
+11.25	save, rescue	poho
+11.25	save, rescue	jasalba
+11.27	destroy	xa̲ni
+11.27	destroy	ts'oni
+11.27	destroy	yo̲t'e
+11.28	harm, injure, damage	u̲ni
+11.28	harm, injure, damage	o̲t'earnts'o
+11.28	harm, injure, damage	o̲t'edañu
+11.28	harm, injure, damage	ot’uñu̲
+11.28	harm, injure, damage	heni
+11.28	harm, injure, damage	su̲ni
+11.31	seek, look for	honi
+11.32	find	tini
+11.32	find	tsu̲di
+11.33	lose	'be̲di
+11.34	release, let go	he̲gi
+11.43	money	bojä
+11.44	coin	bojä
+11.44	coin	bojäbojä
+11.51	rich	hñäbojä
+11.52	poor	hyoya
+11.53	beggar	me̲ti
+11.54	avaricious, stingy	zuda
+11.54	avaricious, stingy	'bifi
+11.61	lend	hmihi
+11.61	lend	hmi
+11.62	borrow	hmihi
+11.62	borrow	hmi
+11.63	owe	tu
+11.64	debt	tha̲i
+11.65	pay (vb)	jut'i
+11.66	account, reckoning	njut'i
+11.66	account, reckoning	kwenta
+11.69	tax, tribute	njut'i
+11.77	hire	hmihi
+11.77	hire	japu̲'be̲fi
+11.77	hire	renta
+11.78	wages	nthe̲t'i
+11.79	earn	tähä
+11.81	buy	ta̲i
+11.81	buy	ta̲mbi
+11.81	buy	po̲hó
+11.82	sell	pa̲
+11.82	sell	tso
+11.83	trade, barter	pa̲ti
+11.84	merchant	da̲i
+11.85	market (place)	ta̲i
+11.85	market (place)	merkado
+11.86	store, shop	de̲nda
+11.87	price	njut’i
+11.88	dear (costly, expensive)	xihmädi
+11.89	cheap	hingihmädi
+11.91	share (distribute)	heke
+11.92	weigh	pesa
+12.11	place	lugar
+12.11	place	xe̲ni
+12.12	put	pegi
+12.12	put	'ba'mi
+12.12	put	hots'e
+12.12	put	kats'i
+12.12	put	käts'i
+12.12	put	pogi
+12.13	sit	hudi
+12.14	lie down	‘be̲ni
+12.14	lie down	'me̲mfo
+12.14	lie down	mpits'i
+12.14	lie down	'be̲nijarfidi
+12.15	stand	'ba̲i
+12.16	remain, stay	kohi
+12.17	remains, left overs	mbongi
+12.17	remains, left overs	t'e̲gi
+12.17	remains, left overs	hñäfi
+12.21	collect, gather	jo
+12.21	collect, gather	käki
+12.21	collect, gather	munts'i
+12.21	collect, gather	tuki
+12.212	pick up	juts’i
+12.212	pick up	pats'i
+12.213	pile up	munts'i
+12.213	pile up	mundo
+12.213	pile up	muhni
+12.22	join, unite	zo̲te
+12.23	separate	he̲ki
+12.23	separate	'weke
+12.232	divide	heke
+12.24	open	xoki
+12.24	open	yaki
+12.24	open	zo̲t'e
+12.25	shut, close	kot'i
+12.26	cover	ko'mi
+12.27	hide, conceal	ägi
+12.31	high	xihñets'i
+12.32	low	hingihets'i
+12.32	low	mextha
+12.33	top	ñätho̲
+12.33	top	ñäzaa
+12.34	bottom	mbo
+12.34	bottom	nts’ogi
+12.34	bottom	xiji
+12.34	bottom	hñamfo
+12.35	end	ngäts'i
+12.352	pointed	nts'ä
+12.352	pointed	nts'ät'i
+12.353	edge	ñäni
+12.353	edge	ne
+12.36	side	hyo
+12.37	middle, center	made
+12.41	right (side)	'ñe̲i
+12.42	left (side)	ngähä
+12.43	near (adv)	getu̲'bu̲
+12.44	far (adv)	ya'bu̲
+12.45	east	mbo̲xu̲hyadi
+12.46	west	'ñu̲hyadi
+12.47	north	norte
+12.48	south	sur
+12.53	grow	te
+12.54	measure	e̲ni
+12.541	span, fathom	nthu̲fi
+12.55	large, big	dätä
+12.56	small, little	txu̲tx'u̲lo
+12.56	small, little	tx'u̲lo
+12.56	small, little	t'olo
+12.56	small, little	t'u̲lo
+12.57	long	xima
+12.57	long	ximaki
+12.58	tall	xihñets'i
+12.58	tall	xima
+12.58	tall	hets'i
+12.59	short	hingima
+12.59	short	ardozu
+12.59	short	tatxu̲tx'u̲lo
+12.59	short	xitx'u̲ki
+12.59	short	nkohi
+12.61	wide, broad	xinxidi
+12.61	wide, broad	ximaxt'i
+12.61	wide, broad	xixogi
+12.62	narrow	xints'i'mi
+12.62	narrow	xints'ixt'i
+12.62	narrow	xints'it'i
+12.62	narrow	xints'u̲t'i
+12.62	narrow	xints'u̲
+12.63	thick (in dimension)	ximpidi
+12.63	thick (in dimension)	xindä
+12.65	thin (in dimension)	xints'u̲
+12.65	thin (in dimension)	xints'u̲t'i
+12.65	thin (in dimension)	xinxini
+12.67	deep	xihñei
+12.68	shallow	hingihei
+12.71	flat	nidi
+12.73	straight	njwäntho
+12.74	crooked	‘ba̲t'i
+12.74	crooked	nkäxi
+12.74	crooked	mpa̲ni
+12.75	hook	nthu̲t'i
+12.76	corner	ts'ät'i
+12.77	cross	pont'i
+12.77	cross	pont'u̲zaa
+12.78	square	kwadro
+12.81	round	tsant’i
+12.82	circle	maxo̲ts'e
+12.83	sphere, ball	pelota
+12.83	sphere, ball	pilota
+12.83	sphere, ball	nuhni
+12.83	sphere, ball	lobo
+12.83	sphere, ball	tsant’i
+12.84	line	raya
+12.84	line	'ñu
+12.85	hole	oki
+12.85	hole	ots'i
+12.92	like, similar	hñe̲he̲
+12.92	like, similar	'rangu
+12.92	like, similar	nthe̲
+12.92	like, similar	mahye̲gi
+12.92	like, similar	mahye̲tho
+12.93	change	pati
+12.93	change	poni
+13.1	one	‘re̲t’a
+13.101	eleven	‘re̲t’aman'aha
+13.102	twelve	‘re̲t’amayoho
+13.103	fifteen	‘re̲t’amaku̲t’a
+13.104	twenty	n’a̲te
+13.105	hundred	nthebe
+13.106	thousand	mil
+13.106	thousand	're̲t'anthebe
+13.107	count	pede
+13.14	every, all	ga̲tho
+13.14	every, all	kadu̲
+13.14	every, all	ta̲t’i
+13.15	much, many	xingu
+13.15	much, many	xi
+13.15	much, many	ndunthe
+13.15	much, many	nts'e̲di
+13.16	more	mäs
+13.16	more	man’a
+13.16	more	ma'ra
+13.17	little (quantity), few	tx'u̲tho
+13.18	enough	nts'e̲di
+13.18	enough	xingu
+13.18	enough	ndunthe
+13.18	enough	mahyoni
+13.18	enough	konge'ä
+13.181	some	'naxtui
+13.181	some	'na
+13.19	multitude, crowd	hmunts’ujä’i
+13.19	multitude, crowd	mundo
+13.21	full	xiñuts'i
+13.22	empty	hintio
+13.22	empty	hintipo
+13.22	empty	hintiku̲
+13.23	part, piece	xe̲ni
+13.24	half	made
+13.33	alone, only	ho̲nse̲
+13.33	alone, only	ho̲nt'ä
+13.33	alone, only	ho̲ntho
+13.33	alone, only	ho̲ndu̲'bu̲
+13.34	first	ndu̲i
+13.34	first	'me̲t'o
+13.34	first	'be̲t'o
+13.35	last	ngäts'i
+13.36	second	ñoho
+13.37	pair	pare
+13.37	pair	yoho
+13.38	two times	yohoyan’andi
+13.38	two times	yohoyabes
+13.42	third	nhñu
+13.44	three times	hñuyan’andi
+13.44	three times	hñuyabes
+14.11	time	pa
+14.12	age	je̲ya
+14.13	new	'ra'yo
+14.14	young	bätsitho
+14.14	young	ts'u̲nt'u̲tho
+14.14	young	metsitho
+14.14	young	nxutsitho
+14.15	old	xita
+14.15	old	txu
+14.16	early	ngut'ä
+14.16	early	xuditho
+14.17	late	yabihñuxadi
+14.17	late	yabinde
+14.17	late	yabinxui
+14.18	now	nu'bya
+14.18	now	‘bya
+14.19	immediately	ngut'ä
+14.19	immediately	isarora'ä
+14.21	swift, fast, quick	'nihi
+14.21	swift, fast, quick	nso̲ni
+14.22	slow	njante
+14.23	hasten, hurry	xo̲ni
+14.23	hasten, hurry	nixtri
+14.23	hasten, hurry	tihi
+14.24	retard, delay	tsohobinde
+14.24	retard, delay	tsohobihñuxadi
+14.24	retard, delay	tsohobinxui
+14.25	begin, beginning	ndu̲i
+14.25	begin, beginning	du̲'mi
+14.25	begin, beginning	fu̲ti
+14.252	last, endure	tse̲ti
+14.252	last, endure	dura
+14.26	end (temporal)	ngäts'i
+14.27	finish	kwadi
+14.27	finish	jäts'i
+14.28	cease, stop	thege
+14.28	cease, stop	jäts'i
+14.28	cease, stop	kwadi
+14.29	ready	yabíwadi
+14.29	ready	yaxinthoki
+14.29	ready	di'butho
+14.31	always	zäntho
+14.31	always	zäm'bu̲
+14.32	often	jat'o
+14.33	sometimes	yan’andi
+14.331	soon	'nihi
+14.332	long-time (for a)	xinguyapa
+14.34	never	nunka
+14.34	never	ni'nabes
+14.34	never	ni'nandi
+14.34	never	ni'narpa
+14.35	again	man’agi
+14.41	day	pa
+14.42	night	nxui
+14.43	dawn	hats'i
+14.43	dawn	'ñalba
+14.44	morning	xudi
+14.45	noon, midday	madempa
+14.45	noon, midday	huxadi
+14.451	afternoon	nde
+14.46	evening	xui
+14.46	evening	bispu̲ra
+14.47	today	nu'bya
+14.47	today	gem'bya
+14.47	today	'bya
+14.48	tomorrow	arxudi
+14.481	day-after-tomorrow	ndamäni
+14.49	yesterday	mande
+14.491	day-before-yesterday	mangu̲nde
+14.51	hour	ora
+14.53	clock, timepiece	ora
+14.61	week	su̲mänä
+14.62	Sunday	ndomingo
+14.63	Monday	nonxi
+14.64	Tuesday	yopa
+14.65	Wednesday	hñupa
+14.66	Thursday	nhwebe
+14.67	Friday	mbehe
+14.68	Saturday	nsabdo
+14.71	month	zänä
+14.73	year	je̲ya
+14.74	winter	tsenthi
+14.74	winter	ndäbehe
+14.75	spring	nk'a'mi
+14.75	spring	nk'ants'i
+14.76	summer	hñethe
+14.77	autumn	nk'ants'i
+14.78	season	mpadi
+14.78	season	bongu
+14.78	season	hyethe
+14.78	season	mpat'i
+14.78	season	nda'ye
+14.78	season	ntsenthi
+14.78	season	tset'i
+15.21	smell (vb intrans)	yu̲ni
+15.212	sniff	hunts'i
+15.22	smell (vb trans)	pähä
+15.22	smell (vb trans)	hu̲nts'i
+15.25	fragrant, good smelling	yunixihño
+15.25	fragrant, good smelling	xinkuhi
+15.26	stinking, bad smelling	yu̲nixints'o
+15.31	taste	xinkuhi
+15.35	sweet	xi'ñu
+15.36	salty	xi'ñuxi
+15.37	bitter	xinjuts'i
+15.37	bitter	xinju
+15.38	acid, sour	xiixki
+15.38	acid, sour	xi'ñixt'i
+15.38	acid, sour	xi'ñixi
+15.38	acid, sour	xi'ñits'i
+15.41	hear	o̲de
+15.42	listen	o̲ts'e
+15.44	sound, noise	ñu̲ni
+15.44	sound, noise	'ront'i
+15.44	sound, noise	hmafi
+15.44	sound, noise	hñahni
+15.44	sound, noise	nga̲nt'i
+15.44	sound, noise	ntu̲ni
+15.44	sound, noise	nzu̲ni
+15.44	sound, noise	yu̲nt'i
+15.44	sound, noise	zu̲nt'i
+15.44	sound, noise	ñu̲niwa
+15.45	loud	nts’e̲di
+15.46	quiet, silence	‘yomu̲nhño
+15.46	quiet, silence	'yoxihño
+15.46	quiet, silence	'yoarza̲
+15.51	see	nu
+15.51	see	k’äts’i
+15.52	look, look at	handi
+15.52	look, look at	he'mi
+15.52	look, look at	no̲ts'e
+15.55	show	udi
+15.55	show	uti
+15.56	shine	jwe̲ts'i
+15.56	shine	jwe̲ti
+15.56	shine	jwe̲xki
+15.57	bright	njwe̲ti
+15.57	bright	hats’i
+15.61	color	kolor
+15.61	color	njät'i
+15.62	light (in color)	xinzi
+15.63	dark (in color)	mbots'i
+15.64	white	t'axi
+15.64	white	xint'axki
+15.65	black	'bo
+15.65	black	ximpothe
+15.65	black	pothe
+15.66	red	the̲ni
+15.66	red	xinthe̲ni
+15.67	blue	k'angi
+15.67	blue	xink'angi
+15.67	blue	xink'angixinzi
+15.67	blue	xink'angiximbots'i
+15.68	green	k’ants’i
+15.68	green	xink’ants’i
+15.68	green	k’a’mi
+15.68	green	xink’a’mi
+15.69	yellow	k'axt'i
+15.69	yellow	xink'axt'i
+15.71	touch	tha̲ni
+15.71	touch	konts'i
+15.712	pinch	xe̲t'i
+15.72	feel	tsa̲
+15.74	hard	xime
+15.75	soft	xintudi
+15.76	rough	xinzadi
+15.77	smooth	xints'u̲ki
+15.78	sharp	hye̲nte
+15.78	sharp	hye̲ku̲te
+15.78	sharp	xihño
+15.78	sharp	xints'ät'i
+15.79	blunt, dull	doñä
+15.81	heavy	xihñu̲
+15.82	light (in weight)	hingihu
+15.82	light (in weight)	xitho
+15.83	wet, damp	ximobo
+15.83	wet, damp	xink'a
+15.84	dry	xi‘yot'i
+15.84	dry	xi'ñoni
+15.85	hot	ximpa
+15.851	warm	ximpani
+15.86	cold	xintse̲
+15.87	clean	xint'axki
+15.87	clean	xint'axi
+15.88	dirty, soiled	xints'o
+15.89	wrinkled	xinuxki
+15.89	wrinkled	xi'bahni
+16.11	soul, spirit	anxe̲
+16.15	surprised, astonished	'yo̲
+16.18	good fortune, luck	hogu̲swerte
+16.19	misfortune, bad luck	ts’oswerte
+16.23	joyful, glad, happy	johya
+16.25	laugh	thede
+16.25	laugh	theni
+16.251	smile	thedetx'u̲tho
+16.251	smile	these̲
+16.26	play	'ñeni
+16.27	love	ne
+16.27	love	mädi
+16.29	kiss	tsu̲ts'i
+16.3	embrace	hu̲fi
+16.31	pain	xi’ñu̲
+16.31	pain	u̲ñä
+16.31	pain	u̲hmi
+16.31	pain	u̲ts'i
+16.31	pain	u̲'ye̲
+16.31	pain	u̲ts'afi
+16.31	pain	u̲da̲
+16.31	pain	u̲wa
+16.31	pain	u̲ñähmu
+16.32	grief, sorrow, sadness	dumu̲i
+16.32	grief, sorrow, sadness	penä
+16.33	anxiety, worry	dumu̲i
+16.34	regret, be sorry	tsa̲
+16.35	pity	ntheku̲te
+16.35	pity	ntheki
+16.37	cry, weep	zoni
+16.38	tear (noun)	gida̲
+16.39	groan	gäts'i
+16.41	hate	u̲tsa̲
+16.42	anger	kwe̲
+16.44	envy, jealousy	zu̲da̲
+16.44	envy, jealousy	gunt'e̲i
+16.44	envy, jealousy	kunt'e̲i
+16.45	shame (noun)	tsa̲
+16.45	shame (noun)	'be̲tsa̲
+16.48	proud	‘ñets'i
+16.51	dare	'ñe̲nt'i
+16.52	brave	tse̲di
+16.52	brave	hingintsu
+16.53	fear, fright	ntsu
+16.53	fear, fright	xikwa
+16.54	danger	nts'uni
+16.62	desire, want	ne
+16.622	choose	jwahni
+16.63	hope	to’mi
+16.63	hope	humu̲i
+16.65	faithful	makwäni
+16.65	faithful	hogumui
+16.66	true	makwäni
+16.67	lie, tell lies	k'wam'bi
+16.67	lie, tell lies	nehñä
+16.67	lie, tell lies	kate
+16.68	deceit	njadi
+16.69	forgive	puni
+16.71	good	za
+16.71	good	xihño
+16.71	good	hogi
+16.72	bad	hingiza̲
+16.72	bad	hingarza̲
+16.72	bad	hingiho
+16.72	bad	xints'o
+16.73	right, correct	hogi
+16.73	right, correct	xihño
+16.73	right, correct	makwäni
+16.74	wrong	himakwäni
+16.76	fault	ts'oku̲te
+16.76	fault	hingiho
+16.77	mistake, error	nts'oni
+16.77	mistake, error	nts'o
+16.77	mistake, error	'be̲di
+16.78	blame	ts'oku̲te
+16.79	praise	nsadi
+16.79	praise	jähñä
+16.79	praise	'ñets'uwi
+16.79	praise	mäxihño
+16.79	praise	mämuhño
+16.79	praise	xadi
+16.81	beautiful	xinza̲tho
+16.82	ugly	hingiza̲tho
+16.82	ugly	xints'o
+16.83	greedy	zuda
+16.83	greedy	ñunixingu
+16.84	clever	nthuts’i
+16.84	clever	timfeni
+17.11	mind	mfeni
+17.13	think (= reflect)	mbeni
+17.13	think (= reflect)	'yomfeni
+17.14	think (= be of the opinion)	kre
+17.14	think (= be of the opinion)	'ñeme
+17.15	believe	kre
+17.15	believe	'ñeme
+17.16	understand	o̲de
+17.16	understand	o̲te
+17.17	know	ät’i
+17.171	guess	tini
+17.171	guess	ät’i
+17.171	guess	k'ahni
+17.172	imitate	fe̲ti
+17.18	seem	neki
+17.18	seem	'ñenä
+17.18	seem	want'ä
+17.19	idea, notion	mfeni
+17.19	idea, notion	mpomuhñä
+17.19	idea, notion	mpongumfeni
+17.21	wise	bädi
+17.21	wise	bämhñä
+17.22	foolish, stupid	dondo
+17.22	foolish, stupid	xongo
+17.22	foolish, stupid	'be̲mfeni
+17.23	insane, crazy	'be̲mfeni
+17.23	insane, crazy	dondo
+17.24	learn	meya
+17.242	study	xa̲di
+17.25	teach	xahni
+17.25	teach	xa̲nbi
+17.25	teach	udi
+17.25	teach	uti
+17.25	teach	nete
+17.26	pupil	xa̲di
+17.26	pupil	'yoskwela
+17.27	teacher	xa̲mbate
+17.27	teacher	xa̲hnate
+17.27	teacher	mästro
+17.27	teacher	'ñutate
+17.28	school	skwela
+17.28	school	nguuxa̲di
+17.31	remember	mbeni
+17.32	forget	pumbu̲ni
+17.34	clear, plain	hats’i
+17.34	clear, plain	hñats'i
+17.34	clear, plain	neki
+17.34	clear, plain	maxt'i
+17.35	obscure	mbots'i
+17.35	obscure	'bexui
+17.36	secret	nt'ägi
+17.36	secret	njot'i
+17.37	sure, certain	makwäni
+17.38	explain	xifi
+17.41	intention, purpose	mfeni
+17.41	intention, purpose	hne
+17.42	cause	ndui
+17.42	cause	ndu’mi
+17.42	cause	mfuti
+17.42	cause	'yu
+17.42	cause	irnge
+17.43	doubt	ntso̲'mi
+17.44	suspect	beni
+17.44	suspect	ntso̲'mi
+17.44	suspect	nsu
+17.441	betray	kadi
+17.45	need, necessity	mahyoni
+17.45	need, necessity	nthoni
+17.45	need, necessity	'be̲di
+17.46	easy	hingihei
+17.46	easy	hingihembi
+17.47	difficult	xihñei
+17.47	difficult	xihñembi
+17.48	try, attempt	tsa̲pi
+17.49	way, manner	komongu
+17.49	way, manner	komu̲
+17.49	way, manner	njangu
+17.49	way, manner	jangu
+17.51	and	ne
+17.52	because	ngetho
+17.52	because	nge'ä
+17.53	if	nu'bu̲
+17.53	if	nu'mu̲
+17.53	if	ha
+17.54	or	wa
+17.54	or	wage
+17.54	or	o
+17.55	yes, affirmative	hä
+17.56	no, negative	hi'nä
+17.56	no, negative	hingi
+17.56	no, negative	o
+17.61	how?	temu?
+17.61	how?	hanja?
+17.61	how?	honja?
+17.61	how?	yogo?
+17.62	how many?	tengu?
+17.62	how many?	hangu?
+17.63	how much?	tengu?
+17.63	how much?	hangu?
+17.64	what?	te?
+17.64	what?	tem?
+17.64	what?	temu?
+17.65	when?	hä'mu̲?
+17.65	when?	häm'bu̲?
+17.66	where?	ho'bu̲?
+17.66	where?	hogem'bu̲?
+17.67	which?	tange?
+17.67	which?	tange'ä?
+17.68	who?	togo?
+17.68	who?	togo'ä?
+17.69	why?	yogo?
+17.69	why?	yogo'ä?
+18.11	voice	hñä
+18.12	sing	tuhu
+18.13	shout, cry out	mafi
+18.13	shout, cry out	mahni
+18.13	shout, cry out	mat'i
+18.13	shout, cry out	nwe̲t'i
+18.15	whisper	njont'u̲ne
+18.16	mumble	hingiñänts'e̲di
+18.17	whistle	hu̲xi
+18.17	whistle	hu̲xt'i
+18.17	whistle	hu̲xu̲nsa'ñe̲
+18.18	shriek, screech	mafi
+18.18	shriek, screech	nts'ihni
+18.19	howl	mafi
+18.21	speak, talk	ñä
+18.21	speak, talk	ñätx'u̲tho
+18.21	speak, talk	ñäxihño
+18.21	speak, talk	ñämfo̲
+18.21	speak, talk	ñänhwaro
+18.21	speak, talk	ñätho
+18.21	speak, talk	ñäthä
+18.21	speak, talk	ñäñho
+18.211	stutter, stammer	nk'u̲ne
+18.211	stutter, stammer	mfane
+18.22	say	mä
+18.22	say	xifi
+18.22	say	xi'i
+18.22	say	xiki
+18.221	tell story	pedenthogi
+18.221	tell story	mänthogi
+18.222	speech (make a)	hmämu̲nhño
+18.222	speech (make a)	hmä
+18.23	silent (be)	hñei
+18.24	language	hñä
+18.26	word	hñä
+18.28	name	thuhu
+18.28	name	hu
+18.31	ask (question, inquire)	a̲ni
+18.32	answer	thädi
+18.32	answer	thäti
+18.32	answer	kots'i
+18.33	admit, confess	hä
+18.33	admit, confess	hegi
+18.33	admit, confess	japiarkaso
+18.34	deny	ko̲ni
+18.35	ask, request	a̲di
+18.36	promise	ñät'i
+18.37	refuse	hingihä
+18.38	forbid	k’ats’i
+18.38	forbid	häki
+18.39	rebuke, scold	ntsu̲i
+18.41	call (=summon)	mat'i
+18.41	call (=summon)	zofo
+18.42	call (=name)	hut'i
+18.42	call (=name)	arhugi
+18.42	call (=name)	mathuhu
+18.42	call (=name)	arhu'i
+18.42	call (=name)	irthuhu
+18.42	call (=name)	arhu'ä
+18.42	call (=name)	árthuhu
+18.43	announce	no̲ni
+18.43	announce	bembi
+18.44	threaten	pidi
+18.45	boast	'ñets'i
+18.51	write	ot'i
+18.51	write	huts'i
+18.52	read	lei
+18.52	read	nehe
+18.52	read	xa̲di
+18.56	paper	he̲'mi
+18.57	pen	xi'nit'ot'i
+18.57	pen	lapisero
+18.61	book	he̲'mi
+18.67	poet	‘yotunsadi
+18.67	poet	'yofo
+18.71	flute	thu̲xi
+18.72	drum	bixfani
+18.72	drum	tambo
+18.73	horn, trumpet	dätäthu̲xi
+18.73	horn, trumpet	dätänthu̲xt'i
+18.73	horn, trumpet	trompeta
+18.74	rattle	nxint'i
+19.11	country	hai
+19.12	one's native country	hai'mui
+19.12	one's native country	haiyamboxita
+19.15	city, town	dähnini
+19.15	city, town	swida
+19.15	city, town	dätähnini
+19.16	village	yajä’i
+19.17	boundary	nzot'e
+19.17	boundary	ngäts'i
+19.17	boundary	ñäni
+19.21	people (populace)	yajä’i
+19.21	people (populace)	hnini
+19.23	tribe, clan	hmunts'u'muimahä'mu
+19.24	chief, chieftain	hmu
+19.24	chief, chieftain	ndä
+19.24	chief, chieftain	tada
+19.24	chief, chieftain	däbämuhñä
+19.25	staff, walking stick	ndo̲ho̲
+19.31	rule, govern	ts'u̲t'u̲bi
+19.31	rule, govern	ndä
+19.32	king, ruler	ndä
+19.33	queen	‘behñändä
+19.36	noble, nobleman	hogumui
+19.37	citizen, subject	jäidähnini
+19.37	citizen, subject	mengudähnini
+19.37	citizen, subject	’bego
+19.41	master	hmu
+19.41	master	ndä
+19.42	slave	pe̲fime̲ti
+19.42	slave	pe̲fihingitsa̲ya̲
+19.43	servant	’be̲go
+19.43	servant	ma̲xte
+19.43	servant	me̲pu̲te
+19.43	servant	pe̲fi
+19.44	freeman	pale
+19.44	freeman	dänsya
+19.44	freeman	'ño̲ho̲'yose̲
+19.44	freeman	'ño̲ho̲'yoxihño
+19.44	freeman	'ño̲ho̲'mu̲ixihño
+19.44	freeman	'ño̲ho̲'yomu̲hño
+19.45	command, order	‘be̲pi
+19.45	command, order	pe̲hni
+19.45	command, order	mända
+19.46	obey	o̲de
+19.47	let, permit	he̲gi
+19.51	friend, companion	mpädi
+19.51	friend, companion	'ñowi
+19.51	friend, companion	'ñohu̲
+19.51	friend, companion	ntsits'i
+19.51	friend, companion	mijei
+19.52	enemy	tuhni
+19.52	enemy	enemigo
+19.54	neighbor	bisinu
+19.55	stranger	zubi
+19.55	stranger	nzo̲ho̲
+19.55	stranger	armi'rangdi
+19.56	guest	oxi
+19.56	guest	nzo̲ho̲
+19.57	host	xepute
+19.57	host	nthänzo̲ho̲
+19.57	host	xe̲pu̲te
+19.58	help, aid	fa̲ts'i
+19.59	hinder, prevent	k’ats’i
+19.61	custom	‘mu̲i
+19.61	custom	nzäi
+19.62	strife, quarrel	ntsa̲
+19.62	strife, quarrel	tuhni
+19.62	strife, quarrel	hñäki
+19.63	conspiracy, plot	hmunts'ipaarnt'e̲ni
+19.65	meet	nthe̲wi
+19.65	meet	nthe̲hu̲
+19.72	prostitute	ts'o'be̲hñä
+20.11	fight (vb)	ntuhni
+20.11	fight (vb)	ntsa̲
+20.13	war, battle	hñäki
+20.13	war, battle	tuhni
+20.14	peace	njohya
+20.15	army	ejersito
+20.15	army	tropa
+20.15	army	hmunts'u̲sundado
+20.17	soldier	su̲ndado
+20.17	soldier	soldado
+20.21	weapons, arms	bojä
+20.22	club	mäkänä
+20.22	club	zaa'mat'i
+20.22	club	däkuzaa
+20.222	battle-ax	t'e̲gihñäki
+20.222	battle-ax	t'e̲gituhni
+20.23	sling	nt'e̲ndo
+20.24	bow	nsä'mi
+20.25	arrow	mfit'i
+20.26	spear	nsu̲ni
+20.26	spear	lansa
+20.27	sword	mants'äjwai
+20.28	gun, cannon	nzafi
+20.28	gun, cannon	kañon
+20.31	armor (defensive)	nt'u̲t'i
+20.31	armor (defensive)	nthoki
+20.31	armor (defensive)	nxo̲ge
+20.33	helmet	kasko
+20.33	helmet	nthuts'i
+20.33	helmet	boho
+20.34	shield	ñänte
+20.34	shield	nxu̲ni
+20.34	shield	'ma̲i
+20.35	fortress	nt'units'e̲di
+20.35	fortress	nt'ungu̲ts'e̲di
+20.36	tower	ñänijä
+20.36	tower	nts'änijä
+20.36	tower	manijä
+20.36	tower	denijä
+20.36	tower	ndehearnijä
+20.41	victory	‘rähä
+20.42	defeat	njäts'i
+20.43	attack	ta̲ki
+20.44	defend	ñäni
+20.44	defend	mfende
+20.45	retreat	‘wege
+20.45	retreat	'ragi
+20.46	surrender	tsabi
+20.47	captive, prisoner	'ñofa̲di
+20.47	captive, prisoner	mafa̲di
+20.471	guard, sentinel	heti
+20.471	guard, sentinel	do̲'mte
+20.471	guard, sentinel	do̲'munguu
+20.471	guard, sentinel	jamansu
+20.48	booty, spoils	nthäni
+20.48	booty, spoils	nthäts'i
+20.49	ambush	nt’ä
+20.49	ambush	nu
+20.51	fisherman	mejwä
+20.51	fisherman	hyuts’i
+20.51	fisherman	ngu̲jwä
+20.51	fisherman	ngu̲peskado
+20.52	fishhook	nthuts’i
+20.52	fishhook	'yofni
+20.53	fishing line	ilo‘bejwä
+20.53	fishing line	ilonthuts’i
+20.53	fishing line	nthähinthu̲ts'i
+20.53	fishing line	nthähi'be̲jwä
+20.54	fishnet	t'a̲ts'i
+20.55	fish trap	t'a̲ts'i
+20.55	fish trap	da̲xijwä
+20.55	fish trap	däxinthu̲ts'i
+20.56	bait	xebo
+20.61	hunt	pe̲
+20.61	hunt	k'ahni
+20.61	hunt	ät’i
+20.61	hunt	ju
+20.62	shoot	e̲i
+20.62	shoot	k'ahni
+20.62	shoot	ät’i
+20.62	shoot	he̲gi
+20.63	miss (target)	hingiät'i
+20.64	trap (noun)	njadi
+20.65	trap (vb)	ju
+20.65	trap (vb)	hu̲ts'i
+20.65	trap (vb)	kä'mí
+21.11	law	ley
+21.15	court	ndäts'ut'ubi
+21.15	court	tribunäl
+21.16	judge (vb)	o̲t'u̲ts'u̲t'u̲bi
+21.17	judgment	nt'e̲nt'i
+21.17	judgment	nthädi
+21.17	judgment	nts'u̲i
+21.18	judge (noun)	akute
+21.18	judge (noun)	ndembunzaya
+21.21	plaintiff	ngaxte
+21.22	defendant	ntho̲ts'ents'o
+21.22	defendant	nts'oku̲te
+21.23	witness	ungu̲makwäni
+21.24	swear	noniJwä
+21.25	oath	hnonijwä
+21.31	accuse	ka̲ts'i
+21.31	accuse	mämbi
+21.32	condemn	tsatu'ñu
+21.33	convict (vb)	tsatu'ñu
+21.33	convict (vb)	hoxuthai
+21.34	acquit	puni
+21.35	guilty	pets'iyats'okute
+21.36	innocent	hogumui
+21.36	innocent	hingints'oni
+21.37	penalty, punishment	ntsatu'ñu
+21.38	fine	ntsatu'ñu
+21.38	fine	njut'ibojä
+21.39	prison, jail	fa̲di
+21.42	murder	nthote
+21.42	murder	ntho
+21.43	adultery	nthekunthäti
+21.44	rape	nt'ot'ents'o
+21.44	rape	nxaxte
+21.46	arson	nzät'its'u̲armu̲i
+21.47	perjury	nts'oni
+21.47	perjury	nts'oku̲te
+21.47	perjury	nduxte
+21.51	steal	pe
+21.52	thief	be

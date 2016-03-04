@@ -1,0 +1,968 @@
+ID,Language_ID,Feature_ID,IDS_Key,Value,Concept,IPA_UDECODE
+clics-doculect-130-1,zuni1245-std,concepticon-965,1.1,ʔawiteli,world,?awiteli
+clics-doculect-130-2,zuni1245-std,concepticon-626,1.21,teyala,"earth, land",teyala
+clics-doculect-130-3,zuni1245-std,concepticon-1228,1.212,ʔaweɬi,"earth=ground, soil",?aweli
+clics-doculect-130-4,zuni1245-std,concepticon-1228,1.212,ʔawekli,"earth=ground, soil",?awekli
+clics-doculect-130-5,zuni1245-std,concepticon-2,1.213,so,dust,so
+clics-doculect-130-6,zuni1245-std,concepticon-640,1.214,heli,mud,heli
+clics-doculect-130-7,zuni1245-std,concepticon-671,1.215,so,sand,so
+clics-doculect-130-8,zuni1245-std,concepticon-2118,1.22,yala,"mountain, hill",yala
+clics-doculect-130-9,zuni1245-std,concepticon-2118,1.22,kuʔtele,"mountain, hill",ku?tele
+clics-doculect-130-10,zuni1245-std,concepticon-618,1.222,teleči,"cliff, precipice",teleci
+clics-doculect-130-11,zuni1245-std,concepticon-652,1.23,teyaččina,"plain, field",teyaccina
+clics-doculect-130-12,zuni1245-std,concepticon-948,1.31,kˀʸa,water,k?ya
+clics-doculect-130-13,zuni1245-std,concepticon-1474,1.32,kˀʸātuɬʔullapna,sea,k?yatul?ullapna
+clics-doculect-130-14,zuni1245-std,concepticon-1768,1.324,ʔummo,foam,?ummo
+clics-doculect-130-15,zuni1245-std,concepticon-645,1.329,kˀʸātuɬʔullapna,ocean,k?yatul?ullapna
+clics-doculect-130-16,zuni1245-std,concepticon-624,1.33,kˀʸana,lake,k?yana
+clics-doculect-130-17,zuni1245-std,concepticon-666,1.36,kˀʸawina,"river, stream, brook",k?yawina
+clics-doculect-130-18,zuni1245-std,concepticon-2144,1.37,kˀʸanakʷayina,"spring, well",k?yanakwayina
+clics-doculect-130-19,zuni1245-std,concepticon-420,1.41,tanayāwe,"woods, forest",tanayawe
+clics-doculect-130-21,zuni1245-std,concepticon-1803,1.43,ta,wood,ta
+clics-doculect-130-22,zuni1245-std,concepticon-2125,1.44,ʔa,"stone, rock",?a
+clics-doculect-130-23,zuni1245-std,concepticon-6,1.45,ʔanukʷayi,earthquake,?anukwayi
+clics-doculect-130-24,zuni1245-std,concepticon-1732,1.51,ʔaʔpoʔya,sky,?a?po?ya
+clics-doculect-130-25,zuni1245-std,concepticon-1343,1.52,yatokkʸa,sun,yatokkya
+clics-doculect-130-26,zuni1245-std,concepticon-1313,1.53,yaʔonakkʸa,moon,ya?onakkya
+clics-doculect-130-27,zuni1245-std,concepticon-1430,1.54,moʔyaču,star,mo?yacu
+clics-doculect-130-28,zuni1245-std,concepticon-1654,1.55,wilo,lightning,wilo
+clics-doculect-130-29,zuni1245-std,concepticon-1150,1.56,towowo,thunder,towowo
+clics-doculect-130-30,zuni1245-std,concepticon-630,1.61,ʔakli,light (noun),?akli
+clics-doculect-130-31,zuni1245-std,concepticon-11,1.62,tekˀʷi,darkness,tek?wi
+clics-doculect-130-32,zuni1245-std,concepticon-1388,1.63,teɬuʔwa,"shade, shadow",telu?wa
+clics-doculect-130-33,zuni1245-std,concepticon-960,1.72,pinna,wind,pinna
+clics-doculect-130-34,zuni1245-std,concepticon-1489,1.73,lo,cloud,lo
+clics-doculect-130-35,zuni1245-std,concepticon-249,1.74,šipololo,fog,sipololo
+clics-doculect-130-36,zuni1245-std,concepticon-658,1.75,ɬito,rain (noun),lito
+clics-doculect-130-37,zuni1245-std,concepticon-784,1.76,ʔu,snow (noun),?u
+clics-doculect-130-38,zuni1245-std,concepticon-617,1.77,ɬemkˀʸaya,ice,lemk?yaya
+clics-doculect-130-39,zuni1245-std,concepticon-952,1.78,tewuc̷oʔya,weather,tewuco?ya
+clics-doculect-130-40,zuni1245-std,concepticon-221,1.81,ʔakli,fire,?akli
+clics-doculect-130-41,zuni1245-std,concepticon-889,1.82,hapiya,flame (noun),hapiya
+clics-doculect-130-42,zuni1245-std,concepticon-778,1.83,ɬikˀʸaya,smoke (noun),lik?yaya
+clics-doculect-130-43,zuni1245-std,concepticon-646,1.84,lu,ashes,lu
+clics-doculect-130-44,zuni1245-std,concepticon-67,1.841,makʸēwe,embers,makyewe
+clics-doculect-130-45,zuni1245-std,concepticon-141,1.851,čapikˀʸa,burn (vb trans),capik?ya
+clics-doculect-130-46,zuni1245-std,concepticon-1428,1.852,čapi,burn (vb intrans),capi
+clics-doculect-130-47,zuni1245-std,concepticon-737,1.86,makču,"light, kindle, ignite",makcu
+clics-doculect-130-48,zuni1245-std,concepticon-1133,1.87,ɬečči,match (noun),lecci
+clics-doculect-130-49,zuni1245-std,concepticon-10,1.88,ta,firewood,ta
+clics-doculect-130-50,zuni1245-std,concepticon-1188,1.89,nokʸe,charcoal,nokye
+clics-doculect-130-51,zuni1245-std,concepticon-683,2.1,hoʔʔi,"person, human being",ho??i
+clics-doculect-130-52,zuni1245-std,concepticon-1554,2.21,ɬaššikˀʸi,man (vs. woman),lassik?yi
+clics-doculect-130-53,zuni1245-std,concepticon-962,2.22,makkˀʸi,woman,makk?yi
+clics-doculect-130-54,zuni1245-std,concepticon-1553,2.23,ʔoc̷c̷iʔ,male,?occi?
+clics-doculect-130-55,zuni1245-std,concepticon-1551,2.24,ʔokʸa,female,?okya
+clics-doculect-130-56,zuni1245-std,concepticon-1366,2.25,ʔakc̷ekˀʸi,boy,?akcek?yi
+clics-doculect-130-57,zuni1245-std,concepticon-76,2.251,c̷awakˀʸi,young man (adolescent),cawak?yi
+clics-doculect-130-58,zuni1245-std,concepticon-1646,2.26,kʸac̷ikˀʸi,girl,kyacik?yi
+clics-doculect-130-59,zuni1245-std,concepticon-77,2.261,ʔe,young woman (adolescent),?e
+clics-doculect-130-60,zuni1245-std,concepticon-77,2.261,ʔeʔlaštoˀʸi,young woman (adolescent),?e?lasto?yi
+clics-doculect-130-61,zuni1245-std,concepticon-1304,2.27,ča,child,ca
+clics-doculect-130-62,zuni1245-std,concepticon-1289,2.28,wih,"infant, baby",wih
+clics-doculect-130-63,zuni1245-std,concepticon-1200,2.31,ʔoyemši,husband,?oyemsi
+clics-doculect-130-64,zuni1245-std,concepticon-1199,2.32,?ōye,wife,?oye
+clics-doculect-130-65,zuni1245-std,concepticon-1217,2.35,tačču,father,taccu
+clics-doculect-130-66,zuni1245-std,concepticon-1216,2.36,c̷itta,mother,citta
+clics-doculect-130-67,zuni1245-std,concepticon-505,2.37,ʔāɬaššīnāwe,parents,?alassinawe
+clics-doculect-130-68,zuni1245-std,concepticon-1759,2.444,papa,older brother,papa
+clics-doculect-130-69,zuni1245-std,concepticon-1760,2.445,suwe,younger brother,suwe
+clics-doculect-130-70,zuni1245-std,concepticon-1760,2.445,hanni,younger brother,hanni
+clics-doculect-130-71,zuni1245-std,concepticon-1758,2.454,kʸawu,older sister,kyawu
+clics-doculect-130-72,zuni1245-std,concepticon-1761,2.455,hanni,younger sister,hanni
+clics-doculect-130-73,zuni1245-std,concepticon-1761,2.455,ʔikʸina,younger sister,?ikyina
+clics-doculect-130-74,zuni1245-std,concepticon-1383,2.46,nana,grandfather,nana
+clics-doculect-130-75,zuni1245-std,concepticon-406,2.461,ɬaššikˀʸi,old man,lassik?yi
+clics-doculect-130-76,zuni1245-std,concepticon-1496,2.47,hotta,grandmother,hotta
+clics-doculect-130-77,zuni1245-std,concepticon-1496,2.47,wowo,grandmother,wowo
+clics-doculect-130-78,zuni1245-std,concepticon-907,2.471,ʔokʸac̷c̷ikˀʸi,old woman,?okyaccik?yi
+clics-doculect-130-79,zuni1245-std,concepticon-1618,2.48,nana,grandson,nana
+clics-doculect-130-80,zuni1245-std,concepticon-1619,2.49,wowo,granddaughter,wowo
+clics-doculect-130-81,zuni1245-std,concepticon-1619,2.49,hotta,granddaughter,hotta
+clics-doculect-130-82,zuni1245-std,concepticon-1984,2.511,kʸakʸa,mother's brother,kyakya
+clics-doculect-130-83,zuni1245-std,concepticon-1985,2.512,tačču,father's brother,taccu
+clics-doculect-130-84,zuni1245-std,concepticon-1985,2.512,taččuc̷ʔana,father's brother,taccuc?ana
+clics-doculect-130-85,zuni1245-std,concepticon-1985,2.512,taččuɬašši,father's brother,tacculassi
+clics-doculect-130-86,zuni1245-std,concepticon-171,2.521,c̷itta,mother's sister,citta
+clics-doculect-130-87,zuni1245-std,concepticon-171,2.521,c̷ittac̷ʔana,mother's sister,cittac?ana
+clics-doculect-130-88,zuni1245-std,concepticon-171,2.521,c̷ittaɬašši,mother's sister,cittalassi
+clics-doculect-130-89,zuni1245-std,concepticon-170,2.522,kuku,father's sister,kuku
+clics-doculect-130-90,zuni1245-std,concepticon-1063,2.53,ča,nephew,ca
+clics-doculect-130-91,zuni1245-std,concepticon-1063,2.53,tale,nephew,tale
+clics-doculect-130-92,zuni1245-std,concepticon-1063,2.53,kˀʸasse,nephew,k?yasse
+clics-doculect-130-93,zuni1245-std,concepticon-1642,2.54,ča,niece,ca
+clics-doculect-130-94,zuni1245-std,concepticon-1642,2.54,ʔeyye,niece,?eyye
+clics-doculect-130-95,zuni1245-std,concepticon-1642,2.54,kˀʸasse,niece,k?yasse
+clics-doculect-130-96,zuni1245-std,concepticon-1669,2.56,ʔāɬaššināwe,ancestors,?alassinawe
+clics-doculect-130-97,zuni1245-std,concepticon-2267,2.63,tālakˀʸi,son-in-law (of a man),talak?yi
+clics-doculect-130-98,zuni1245-std,concepticon-2266,2.631,tā̈lakˀʸi,son-in-law (of a woman),talak?yi
+clics-doculect-130-99,zuni1245-std,concepticon-2265,2.64,ʔulani,daughter-in-law (of a man),?ulani
+clics-doculect-130-100,zuni1245-std,concepticon-2264,2.641,ʔulani,daughter-in-law (of a woman),?ulani
+clics-doculect-130-101,zuni1245-std,concepticon-236,2.72,ʔiniha,stepmother,?iniha
+clics-doculect-130-102,zuni1245-std,concepticon-1756,2.76,hammiši,widow,hammisi
+clics-doculect-130-103,zuni1245-std,concepticon-1981,2.77,hammiši,widower,hammisi
+clics-doculect-130-104,zuni1245-std,concepticon-1644,2.81,ʔīyanikʸina,"relatives, kinsmen",?iyanikyina
+clics-doculect-130-105,zuni1245-std,concepticon-1209,2.91,hoʔ,I,ho?
+clics-doculect-130-106,zuni1245-std,concepticon-1215,2.92,toʔ,you (singular),to?
+clics-doculect-130-107,zuni1245-std,concepticon-262,2.93,∅,he/she/it,[?]
+clics-doculect-130-108,zuni1245-std,concepticon-1212,2.94,hoʔno,we,ho?no
+clics-doculect-130-109,zuni1245-std,concepticon-1212,2.94,hon,we,hon
+clics-doculect-130-110,zuni1245-std,concepticon-1213,2.95,ton,you (plural),ton
+clics-doculect-130-111,zuni1245-std,concepticon-817,2.96,ʔāči,they,?aci
+clics-doculect-130-112,zuni1245-std,concepticon-817,2.96,∅,they,[?]
+clics-doculect-130-113,zuni1245-std,concepticon-619,3.11,wo,animal,wo
+clics-doculect-130-114,zuni1245-std,concepticon-619,3.11,na,animal,na
+clics-doculect-130-115,zuni1245-std,concepticon-619,3.11,wem,animal,wem
+clics-doculect-130-116,zuni1245-std,concepticon-2261,3.12,ʔoc̷c̷i,male (adj),?occi
+clics-doculect-130-117,zuni1245-std,concepticon-2262,3.13,ʔokʸa,female (adj),?okya
+clics-doculect-130-118,zuni1245-std,concepticon-631,3.15,wo,livestock,wo
+clics-doculect-130-119,zuni1245-std,concepticon-263,3.18,wowillīkʷe,herdsman,wowillikwe
+clics-doculect-130-120,zuni1245-std,concepticon-1153,3.2,wākʸaši,cattle (bovine),wakyasi
+clics-doculect-130-121,zuni1245-std,concepticon-1008,3.21,wamohap,bull,wamohap
+clics-doculect-130-122,zuni1245-std,concepticon-1989,3.24,wamc̷ʔana,calf,wamc?ana
+clics-doculect-130-123,zuni1245-std,concepticon-1331,3.25,kʸanēlu,sheep,kyanelu
+clics-doculect-130-124,zuni1245-std,concepticon-1344,3.26,mohākʷe,ram,mohakwe
+clics-doculect-130-125,zuni1245-std,concepticon-1344,3.26,kʸanēlʔoc̷c̷i,ram,kyanel?occi
+clics-doculect-130-126,zuni1245-std,concepticon-1345,3.28,kʸanēlʔokʸa,ewe,kyanel?okya
+clics-doculect-130-127,zuni1245-std,concepticon-820,3.29,čaʔc̷ʔana,lamb,ca?c?ana
+clics-doculect-130-128,zuni1245-std,concepticon-1337,3.35,pic̷ūti,pig,picuti
+clics-doculect-130-129,zuni1245-std,concepticon-1502,3.36,čiwātu,goat,ciwatu
+clics-doculect-130-130,zuni1245-std,concepticon-264,3.37,čiwātmohhoppa,he-goat,ciwatmohhoppa
+clics-doculect-130-131,zuni1245-std,concepticon-1972,3.38,čimc̷ʔana,kid,cimc?ana
+clics-doculect-130-132,zuni1245-std,concepticon-615,3.41,tūši,horse (equine),tusi
+clics-doculect-130-133,zuni1245-std,concepticon-938,3.44,yēwa,mare,yewa
+clics-doculect-130-134,zuni1245-std,concepticon-1647,3.45,tumc̷ʔana,"foal, colt",tumc?ana
+clics-doculect-130-135,zuni1245-std,concepticon-1862,3.46,mešokˀo,"ass, donkey",mesok?o
+clics-doculect-130-136,zuni1245-std,concepticon-890,3.47,mūla,mule,mula
+clics-doculect-130-137,zuni1245-std,concepticon-1318,3.55,tokōko,chicken,tokoko
+clics-doculect-130-138,zuni1245-std,concepticon-1187,3.56,ʔowa,goose,?owa
+clics-doculect-130-139,zuni1245-std,concepticon-1360,3.57,ʔeya,duck,?eya
+clics-doculect-130-140,zuni1245-std,concepticon-937,3.581,woʔc̷ˀana,bird,wo?c?ana
+clics-doculect-130-141,zuni1245-std,concepticon-1905,3.584,kˀʸakˀʸali,eagle,k?yak?yali
+clics-doculect-130-142,zuni1245-std,concepticon-1185,3.586,šuʔc̷ˀina,vulture,su?c?ina
+clics-doculect-130-143,zuni1245-std,concepticon-1793,3.591,ʔešoc̷i,bat,?esoci
+clics-doculect-130-144,zuni1245-std,concepticon-882,3.592,mula,parrot,mula
+clics-doculect-130-145,zuni1245-std,concepticon-913,3.593,kˀʷalaši,crow,k?walasi
+clics-doculect-130-146,zuni1245-std,concepticon-1853,3.594,nīšapakˀo,dove,nisapak?o
+clics-doculect-130-147,zuni1245-std,concepticon-735,3.596,muhukʷi,owl,muhukwi
+clics-doculect-130-148,zuni1245-std,concepticon-2009,3.61,wac̷c̷ita,dog,waccita
+clics-doculect-130-149,zuni1245-std,concepticon-1136,3.614,pokˀʸa,rabbit,pok?ya
+clics-doculect-130-150,zuni1245-std,concepticon-1136,3.614,ʔokšikˀo,rabbit,?oksik?o
+clics-doculect-130-151,zuni1245-std,concepticon-1208,3.62,mūsa,cat,musa
+clics-doculect-130-152,zuni1245-std,concepticon-2139,3.63,c̷ˀokɬikˀo,"mouse, rat",c?oklik?o
+clics-doculect-130-153,zuni1245-std,concepticon-227,3.65,kˀʸaššita,fish,k?yassita
+clics-doculect-130-154,zuni1245-std,concepticon-522,3.71,yunāwikˀo,wolf,yunawik?o
+clics-doculect-130-155,zuni1245-std,concepticon-1386,3.72,hoktitaša,lion,hoktitasa
+clics-doculect-130-156,zuni1245-std,concepticon-1820,3.73,ʔanše,bear,?anse
+clics-doculect-130-157,zuni1245-std,concepticon-1312,3.74,ɬanako,fox,lanako
+clics-doculect-130-158,zuni1245-std,concepticon-1350,3.76,monkʸi,monkey,monkyi
+clics-doculect-130-159,zuni1245-std,concepticon-1871,3.78,kʸamelākʷe,camel,kyamelakwe
+clics-doculect-130-160,zuni1245-std,concepticon-620,3.81,nom,insect,nom
+clics-doculect-130-161,zuni1245-std,concepticon-1392,3.811,me,louse,me
+clics-doculect-130-162,zuni1245-std,concepticon-232,3.813,me,flea,me
+clics-doculect-130-163,zuni1245-std,concepticon-1974,3.814,šola,centipede,sola
+clics-doculect-130-164,zuni1245-std,concepticon-1538,3.815,šola,scorpion,sola
+clics-doculect-130-165,zuni1245-std,concepticon-587,3.817,halo,ant,halo
+clics-doculect-130-166,zuni1245-std,concepticon-587,3.817,hūpiskʸa,ant,hupiskya
+clics-doculect-130-167,zuni1245-std,concepticon-843,3.818,tohsito,spider,tohsito
+clics-doculect-130-168,zuni1245-std,concepticon-665,3.82,ʔohhāpa,bee,?ohhapa
+clics-doculect-130-169,zuni1245-std,concepticon-1517,3.823,ʔohhāpa,wasp,?ohhapa
+clics-doculect-130-170,zuni1245-std,concepticon-1504,3.83,šonnaɬikˀo,fly,sonnalik?o
+clics-doculect-130-171,zuni1245-std,concepticon-1509,3.832,ʔoʔtotaša,mosquito,?o?totasa
+clics-doculect-130-172,zuni1245-std,concepticon-1219,3.84,wi,worm,wi
+clics-doculect-130-173,zuni1245-std,concepticon-730,3.85,ʔayasoʔa,snake,?ayaso?a
+clics-doculect-130-174,zuni1245-std,concepticon-1791,3.92,pūla,butterfly,pula
+clics-doculect-130-175,zuni1245-std,concepticon-607,3.93,čappa,grasshopper,cappa
+clics-doculect-130-176,zuni1245-std,concepticon-503,3.95,takkʸa,frog,takkya
+clics-doculect-130-177,zuni1245-std,concepticon-632,3.96,mišo,lizard,miso
+clics-doculect-130-178,zuni1245-std,concepticon-1857,3.97,čittolʔasipa,"crocodile, alligator",cittol?asipa
+clics-doculect-130-179,zuni1245-std,concepticon-112,3.98,ʔetōwa,turtle,?etowa
+clics-doculect-130-180,zuni1245-std,concepticon-1480,4.11,ɬuni,body,luni
+clics-doculect-130-181,zuni1245-std,concepticon-763,4.12,kʸemc̷ˀikʷa,"skin, hide",kyemc?ikwa
+clics-doculect-130-182,zuni1245-std,concepticon-2259,4.13,ši,flesh,si
+clics-doculect-130-183,zuni1245-std,concepticon-1040,4.14,taya,hair (head),taya
+clics-doculect-130-184,zuni1245-std,concepticon-678,4.142,c̷iponi,beard,ciponi
+clics-doculect-130-185,zuni1245-std,concepticon-189,4.144,c̷i,body hair,ci
+clics-doculect-130-186,zuni1245-std,concepticon-36,4.145,c̷iya,pubic hair,ciya
+clics-doculect-130-187,zuni1245-std,concepticon-576,4.146,kʸeɬaya,dandruff,kyelaya
+clics-doculect-130-188,zuni1245-std,concepticon-946,4.15,ʔate,blood,?ate
+clics-doculect-130-189,zuni1245-std,concepticon-525,4.151,kˀopalo,"vein, artery",k?opalo
+clics-doculect-130-190,zuni1245-std,concepticon-1394,4.16,sa,bone,sa
+clics-doculect-130-191,zuni1245-std,concepticon-801,4.162,šotto,rib,sotto
+clics-doculect-130-192,zuni1245-std,concepticon-1393,4.17,saya,horn,saya
+clics-doculect-130-193,zuni1245-std,concepticon-1220,4.18,hokti,tail,hokti
+clics-doculect-130-194,zuni1245-std,concepticon-1291,4.19,massi,back,massi
+clics-doculect-130-195,zuni1245-std,concepticon-805,4.191,sappokʸaɬa,spine,sappokyala
+clics-doculect-130-196,zuni1245-std,concepticon-1256,4.2,ʔošokʷi,head,?osokwi
+clics-doculect-130-197,zuni1245-std,concepticon-1604,4.201,šontela,"side of head, temple",sontela
+clics-doculect-130-198,zuni1245-std,concepticon-1583,4.203,ʔoh,brain,?oh
+clics-doculect-130-199,zuni1245-std,concepticon-1560,4.204,noponni,face,noponni
+clics-doculect-130-200,zuni1245-std,concepticon-123,4.205,hakʸi,forehead,hakyi
+clics-doculect-130-201,zuni1245-std,concepticon-798,4.207,ɬeweči,jaw,leweci
+clics-doculect-130-202,zuni1245-std,concepticon-1730,4.208,poheči,cheek,poheci
+clics-doculect-130-203,zuni1245-std,concepticon-1510,4.209,ɬeweči,chin,leweci
+clics-doculect-130-204,zuni1245-std,concepticon-1248,4.21,tuna,eye,tuna
+clics-doculect-130-205,zuni1245-std,concepticon-1173,4.212,samyalanne,eyebrow,samyalanne
+clics-doculect-130-206,zuni1245-std,concepticon-17,4.213,tunakʸempoʔya,eyelid,tunakyempo?ya
+clics-doculect-130-207,zuni1245-std,concepticon-1540,4.214,c̷ipčiyali,eyelash,cipciyali
+clics-doculect-130-208,zuni1245-std,concepticon-1247,4.22,lašokti,ear,lasokti
+clics-doculect-130-209,zuni1245-std,concepticon-32,4.222,kʸēpōwe,earwax,kyepowe
+clics-doculect-130-210,zuni1245-std,concepticon-1221,4.23,noʔli,nose,no?li
+clics-doculect-130-211,zuni1245-std,concepticon-1178,4.231,noʔaʔa,nostril,no?a?a
+clics-doculect-130-212,zuni1245-std,concepticon-208,4.232,mačitōwe,mucus (nasal),macitowe
+clics-doculect-130-213,zuni1245-std,concepticon-208,4.232,sinokʷīwe,mucus (nasal),sinokwiwe
+clics-doculect-130-214,zuni1245-std,concepticon-674,4.24,ʔawati,mouth,?awati
+clics-doculect-130-215,zuni1245-std,concepticon-478,4.25,ʔišši,lip,?issi
+clics-doculect-130-216,zuni1245-std,concepticon-1205,4.26,honni,tongue,honni
+clics-doculect-130-217,zuni1245-std,concepticon-1380,4.27,ʔoʔna,tooth,?o?na
+clics-doculect-130-218,zuni1245-std,concepticon-139,4.271,šiwuɬta,gums,siwulta
+clics-doculect-130-219,zuni1245-std,concepticon-1333,4.28,kˀʸisi,neck,k?yisi
+clics-doculect-130-220,zuni1245-std,concepticon-1347,4.281,takˀʸiʔmowa,nape of neck,tak?yi?mowa
+clics-doculect-130-221,zuni1245-std,concepticon-1346,4.29,kˀʸisi,throat,k?yisi
+clics-doculect-130-222,zuni1245-std,concepticon-1482,4.3,čuti,shoulder,cuti
+clics-doculect-130-223,zuni1245-std,concepticon-172,4.301,čutinsampočči,shoulderblade,cutinsampocci
+clics-doculect-130-224,zuni1245-std,concepticon-1994,4.302,pomtaku,collarbone,pomtaku
+clics-doculect-130-225,zuni1245-std,concepticon-1673,4.31,ʔasi,arm,?asi
+clics-doculect-130-226,zuni1245-std,concepticon-1886,4.312,nolokti,armpit,nolokti
+clics-doculect-130-227,zuni1245-std,concepticon-981,4.32,mokči,elbow,mokci
+clics-doculect-130-228,zuni1245-std,concepticon-799,4.321,ʔasic̷ʔana,wrist,?asic?ana
+clics-doculect-130-229,zuni1245-std,concepticon-1277,4.33,ʔasi,hand,?asi
+clics-doculect-130-230,zuni1245-std,concepticon-1183,4.331,ʔasitešokta,palm of hand,?asitesokta
+clics-doculect-130-231,zuni1245-std,concepticon-1303,4.34,ʔasipiɬto,finger,?asipilto
+clics-doculect-130-232,zuni1245-std,concepticon-1781,4.342,ʔasiɬanakkʸa,thumb,?asilanakkya
+clics-doculect-130-233,zuni1245-std,concepticon-1258,4.344,šonči,fingernail,sonci
+clics-doculect-130-234,zuni1245-std,concepticon-72,4.345,šonči,claw,sonci
+clics-doculect-130-235,zuni1245-std,concepticon-1297,4.35,sakʷi,leg,sakwi
+clics-doculect-130-236,zuni1245-std,concepticon-800,4.351,ʔoyyi,thigh,?oyyi
+clics-doculect-130-237,zuni1245-std,concepticon-498,4.352,šiʔpiya,calf of leg,si?piya
+clics-doculect-130-238,zuni1245-std,concepticon-1371,4.36,ʔošši,knee,?ossi
+clics-doculect-130-239,zuni1245-std,concepticon-1301,4.37,wekʷi,foot,wekwi
+clics-doculect-130-240,zuni1245-std,concepticon-803,4.371,moʔɬeyakkʷi,ankle,mo?leyakkwi
+clics-doculect-130-241,zuni1245-std,concepticon-980,4.372,ʔekˀossi,heel,?ek?ossi
+clics-doculect-130-242,zuni1245-std,concepticon-318,4.374,teʔana,footprint,te?ana
+clics-doculect-130-243,zuni1245-std,concepticon-1389,4.38,tukni,toe,tukni
+clics-doculect-130-244,zuni1245-std,concepticon-1257,4.392,ʔepisse,wing,?episse
+clics-doculect-130-245,zuni1245-std,concepticon-1257,4.392,lata,wing,lata
+clics-doculect-130-246,zuni1245-std,concepticon-1201,4.393,la,feather,la
+clics-doculect-130-247,zuni1245-std,concepticon-1592,4.4,poʔhata,chest,po?hata
+clics-doculect-130-248,zuni1245-std,concepticon-1402,4.41,mehana,breast (of woman),mehana
+clics-doculect-130-249,zuni1245-std,concepticon-796,4.412,suʔto,"nipple, teat",su?to
+clics-doculect-130-250,zuni1245-std,concepticon-154,4.42,kʷikˀʸa,udder,kwik?ya
+clics-doculect-130-251,zuni1245-std,concepticon-1838,4.43,šāmuluʔkʷi,navel,samulu?kwi
+clics-doculect-130-252,zuni1245-std,concepticon-1223,4.44,ʔikˀʸēna,heart,?ik?yena
+clics-doculect-130-253,zuni1245-std,concepticon-688,4.441,yupšali,lung,yupsali
+clics-doculect-130-254,zuni1245-std,concepticon-1224,4.45,hakkʷali,liver,hakkwali
+clics-doculect-130-255,zuni1245-std,concepticon-489,4.451,moʔpewi,kidney,mo?pewi
+clics-doculect-130-256,zuni1245-std,concepticon-1744,4.452,pali,spleen,pali
+clics-doculect-130-257,zuni1245-std,concepticon-819,4.46,c̷u,stomach,cu
+clics-doculect-130-258,zuni1245-std,concepticon-1991,4.461,kˀo,"intestines, guts",k?o
+clics-doculect-130-259,zuni1245-std,concepticon-1681,4.462,ʔikkʷiʔkowa,waist,?ikkwi?kowa
+clics-doculect-130-260,zuni1245-std,concepticon-1745,4.463,siti,hip,siti
+clics-doculect-130-261,zuni1245-std,concepticon-834,4.464,puʔc̷i,buttocks,pu?ci
+clics-doculect-130-262,zuni1245-std,concepticon-797,4.49,mohāwe,testicle,mohawe
+clics-doculect-130-263,zuni1245-std,concepticon-1222,4.492,tuʔli,penis,tu?li
+clics-doculect-130-264,zuni1245-std,concepticon-1407,4.51,yanhaku,"breathe, breath",yanhaku
+clics-doculect-130-265,zuni1245-std,concepticon-1407,4.51,pinna,"breathe, breath",pinna
+clics-doculect-130-266,zuni1245-std,concepticon-1028,4.52,hawawa,"yawn, gape",hawawa
+clics-doculect-130-267,zuni1245-std,concepticon-1028,4.52,hawawa,"yawn, gape",hawawa
+clics-doculect-130-268,zuni1245-std,concepticon-162,4.521,sukˀu,hiccough,suk?u
+clics-doculect-130-269,zuni1245-std,concepticon-879,4.53,ʔoho,cough,?oho
+clics-doculect-130-270,zuni1245-std,concepticon-1621,4.54,hac̷ˀic̷ˀi,sneeze,hac?ic?i
+clics-doculect-130-271,zuni1245-std,concepticon-126,4.55,hakʸiɬi,perspire,hakyili
+clics-doculect-130-272,zuni1245-std,concepticon-1440,4.56,čukkˀoti,spit,cukk?oti
+clics-doculect-130-273,zuni1245-std,concepticon-1440,4.56,pikˀʸa,spit,pik?ya
+clics-doculect-130-274,zuni1245-std,concepticon-1278,4.57,yakˀōwe,vomit,yak?owe
+clics-doculect-130-275,zuni1245-std,concepticon-1278,4.57,yakˀo,vomit,yak?o
+clics-doculect-130-276,zuni1245-std,concepticon-1403,4.58,ʔutte,bite,?utte
+clics-doculect-130-277,zuni1245-std,concepticon-319,4.59,c̷ʔupɬi,lick,c?upli
+clics-doculect-130-278,zuni1245-std,concepticon-268,4.591,kˀʸašošo,dribble,k?yasoso
+clics-doculect-130-279,zuni1245-std,concepticon-1585,4.61,ʔala,sleep,?ala
+clics-doculect-130-280,zuni1245-std,concepticon-1585,4.61,yātela,sleep,yatela
+clics-doculect-130-281,zuni1245-std,concepticon-1983,4.612,ɬelolo,snore,lelolo
+clics-doculect-130-282,zuni1245-std,concepticon-1920,4.62,halowa,dream,halowa
+clics-doculect-130-283,zuni1245-std,concepticon-1602,4.63,ʔokʷi,wake up,?okwi
+clics-doculect-130-284,zuni1245-std,concepticon-1159,4.64,ɬic̷ʔic̷ʔi,break wind,lic?ic?i
+clics-doculect-130-285,zuni1245-std,concepticon-1159,4.64,heɬi,break wind,heli
+clics-doculect-130-286,zuni1245-std,concepticon-592,4.65,hepi,urinate,hepi
+clics-doculect-130-287,zuni1245-std,concepticon-676,4.66,heye,defecate,heye
+clics-doculect-130-288,zuni1245-std,concepticon-1785,4.67,šoha,have sexual intercourse,soha
+clics-doculect-130-289,zuni1245-std,concepticon-138,4.69,ʔikˀošo,bathe,?ik?oso
+clics-doculect-130-290,zuni1245-std,concepticon-1152,4.71,ʔančawo,beget (of father),?ancawo
+clics-doculect-130-291,zuni1245-std,concepticon-1123,4.73,ʔisana,pregnant,?isana
+clics-doculect-130-292,zuni1245-std,concepticon-1087,4.732,ʔihtoha,conceive,?ihtoha
+clics-doculect-130-293,zuni1245-std,concepticon-1422,4.74,tekˀohanna,"live, living, life",tek?ohanna
+clics-doculect-130-294,zuni1245-std,concepticon-1494,4.75,ʔaše,"die, dead",?ase
+clics-doculect-130-295,zuni1245-std,concepticon-1417,4.76,ʔayna,kill,?ayna
+clics-doculect-130-296,zuni1245-std,concepticon-767,4.77,ʔeɬʔe,corpse,?el?e
+clics-doculect-130-297,zuni1245-std,concepticon-1719,4.78,ʔupalo,bury (the dead),?upalo
+clics-doculect-130-298,zuni1245-std,concepticon-785,4.81,c̷ʔumme,"strong, mighty, powerful",c?umme
+clics-doculect-130-299,zuni1245-std,concepticon-785,4.81,ɬoʔo,"strong, mighty, powerful",lo?o
+clics-doculect-130-300,zuni1245-std,concepticon-1601,4.82,pučʔali,weak,puc?ali
+clics-doculect-130-301,zuni1245-std,concepticon-1364,4.83,c̷emakʷikˀokši,"well, health",cemakwik?oksi
+clics-doculect-130-302,zuni1245-std,concepticon-1847,4.84,c̷emakʷipotti,"sick, sickness",cemakwipotti
+clics-doculect-130-303,zuni1245-std,concepticon-102,4.843,noʔčoma,cold (catarrh),no?coma
+clics-doculect-130-304,zuni1245-std,concepticon-1109,4.85,ʔaʔʔi,"wound, sore",?a??i
+clics-doculect-130-305,zuni1245-std,concepticon-1903,4.853,šole,swelling,sole
+clics-doculect-130-306,zuni1245-std,concepticon-148,4.854,kˀossa,itch,k?ossa
+clics-doculect-130-307,zuni1245-std,concepticon-1808,4.857,heppo,pus,heppo
+clics-doculect-130-308,zuni1245-std,concepticon-497,4.858,ʔaʔna,scar,?a?na
+clics-doculect-130-309,zuni1245-std,concepticon-499,4.86,wenah,"cure, heal",wenah
+clics-doculect-130-310,zuni1245-std,concepticon-1372,4.88,ʔakˀʷa,"medicine, drug",?ak?wa
+clics-doculect-130-311,zuni1245-std,concepticon-1757,4.91,yuteʔči,"tired, weary",yute?ci
+clics-doculect-130-312,zuni1245-std,concepticon-168,4.912,ʔiyuteʔčinaha,rest,?iyute?cinaha
+clics-doculect-130-313,zuni1245-std,concepticon-1564,4.92,ʔiči,lazy,?ici
+clics-doculect-130-314,zuni1245-std,concepticon-1564,4.92,ʔamina,lazy,?amina
+clics-doculect-130-315,zuni1245-std,concepticon-1125,4.93,moʔsakˀʸaya,bald,mo?sak?yaya
+clics-doculect-130-316,zuni1245-std,concepticon-320,4.94,ʔimoči,lame,?imoci
+clics-doculect-130-317,zuni1245-std,concepticon-996,4.95,šopčina,deaf,sopcina
+clics-doculect-130-318,zuni1245-std,concepticon-1653,4.97,tunašnapa,blind,tunasnapa
+clics-doculect-130-319,zuni1245-std,concepticon-1463,4.98,hališona,intoxicated,halisona
+clics-doculect-130-320,zuni1245-std,concepticon-1336,5.11,ʔito,eat,?ito
+clics-doculect-130-321,zuni1245-std,concepticon-256,5.12,ʔitōwe,food,?itowe
+clics-doculect-130-322,zuni1245-std,concepticon-269,5.121,ʔakʷa,cooked,?akwa
+clics-doculect-130-323,zuni1245-std,concepticon-1959,5.122,kˀʸapi,raw,k?yapi
+clics-doculect-130-324,zuni1245-std,concepticon-178,5.123,kˀʸa,ripe,k?ya
+clics-doculect-130-325,zuni1245-std,concepticon-1728,5.125,teči,rotten,teci
+clics-doculect-130-326,zuni1245-std,concepticon-1401,5.13,tutu,drink,tutu
+clics-doculect-130-327,zuni1245-std,concepticon-1864,5.14,ʔoše,hunger,?ose
+clics-doculect-130-328,zuni1245-std,concepticon-848,5.15,kˀʸeya,thirst,k?yeya
+clics-doculect-130-329,zuni1245-std,concepticon-1421,5.16,c̷ic̷i,suck,cici
+clics-doculect-130-330,zuni1245-std,concepticon-321,5.18,heyaʔu,chew,heya?u
+clics-doculect-130-331,zuni1245-std,concepticon-897,5.181,ʔikʷiɬi,swallow,?ikwili
+clics-doculect-130-332,zuni1245-std,concepticon-129,5.19,kˀʷistokˀʸa,choke,k?wistok?ya
+clics-doculect-130-333,zuni1245-std,concepticon-129,5.19,pinnayaɬti,choke,pinnayalti
+clics-doculect-130-334,zuni1245-std,concepticon-1100,5.21,ʔakʷa,cook,?akwa
+clics-doculect-130-335,zuni1245-std,concepticon-792,5.22,hemmo,boil (vb),hemmo
+clics-doculect-130-336,zuni1245-std,concepticon-2146,5.23,ʔalo,"roast, fry",?alo
+clics-doculect-130-337,zuni1245-std,concepticon-183,5.24,mulo,bake,mulo
+clics-doculect-130-338,zuni1245-std,concepticon-1143,5.25,heʔpokˀo,oven,he?pok?o
+clics-doculect-130-339,zuni1245-std,concepticon-1462,5.26,te,"pot, cooking vessel",te
+clics-doculect-130-340,zuni1245-std,concepticon-854,5.27,sōte,kettle,sote
+clics-doculect-130-341,zuni1245-std,concepticon-31,5.28,sa,pan,sa
+clics-doculect-130-342,zuni1245-std,concepticon-481,5.31,sa,dish,sa
+clics-doculect-130-343,zuni1245-std,concepticon-480,5.32,sa,plate,sa
+clics-doculect-130-344,zuni1245-std,concepticon-1530,5.33,sa,bowl,sa
+clics-doculect-130-345,zuni1245-std,concepticon-270,5.34,te,"pitcher, jug",te
+clics-doculect-130-346,zuni1245-std,concepticon-476,5.35,sa,"cup, drinking vessel",sa
+clics-doculect-130-347,zuni1245-std,concepticon-271,5.36,sa,saucer,sa
+clics-doculect-130-348,zuni1245-std,concepticon-1378,5.37,šokˀo,spoon,sok?o
+clics-doculect-130-349,zuni1245-std,concepticon-1352,5.38,ʔačiya,knife,?aciya
+clics-doculect-130-350,zuni1245-std,concepticon-337,5.39,kˀoyaʔči,fork,k?oya?ci
+clics-doculect-130-351,zuni1245-std,concepticon-768,5.43,haneɬa,lunch,hanela
+clics-doculect-130-352,zuni1245-std,concepticon-275,5.46,c̷ˀikkʷa,peel,c?ikkwa
+clics-doculect-130-353,zuni1245-std,concepticon-86,5.47,siwi,"sieve, strain",siwi
+clics-doculect-130-354,zuni1245-std,concepticon-2017,5.49,kʷilipi,"stir, mix",kwilipi
+clics-doculect-130-355,zuni1245-std,concepticon-2017,5.49,ʔīpohɬikˀʸa,"stir, mix",?ipohlik?ya
+clics-doculect-130-356,zuni1245-std,concepticon-1368,5.51,mu,bread,mu
+clics-doculect-130-357,zuni1245-std,concepticon-273,5.53,moc̷a,dough,moca
+clics-doculect-130-358,zuni1245-std,concepticon-274,5.54,hec̷ˀuc̷ˀukˀa,knead,hec?uc?uk?a
+clics-doculect-130-359,zuni1245-std,concepticon-1594,5.55,ʔo,"meal, flour",?o
+clics-doculect-130-360,zuni1245-std,concepticon-1033,5.56,ʔokkˀʸa,"crush, grind",?okk?ya
+clics-doculect-130-361,zuni1245-std,concepticon-1033,5.56,heyaʔu,"crush, grind",heya?u
+clics-doculect-130-362,zuni1245-std,concepticon-224,5.58,ʔakˀʸe,mortar,?ak?ye
+clics-doculect-130-363,zuni1245-std,concepticon-1874,5.63,mossiyya,sausage,mossiyya
+clics-doculect-130-364,zuni1245-std,concepticon-1547,5.64,woleyāwe,"soup, broth",woleyawe
+clics-doculect-130-365,zuni1245-std,concepticon-832,5.66,no,bean,no
+clics-doculect-130-366,zuni1245-std,concepticon-593,5.7,kˀʸapimo,potato,k?yapimo
+clics-doculect-130-367,zuni1245-std,concepticon-1507,5.71,mowe,fruit,mowe
+clics-doculect-130-368,zuni1245-std,concepticon-1966,5.712,simo,bunch,simo
+clics-doculect-130-369,zuni1245-std,concepticon-920,5.76,molimo,grape,molimo
+clics-doculect-130-370,zuni1245-std,concepticon-920,5.76,ʔuwa,grape,?uwa
+clics-doculect-130-371,zuni1245-std,concepticon-191,5.77,kˀu,nut,k?u
+clics-doculect-130-372,zuni1245-std,concepticon-1484,5.79,ʔišana,oil,?isana
+clics-doculect-130-373,zuni1245-std,concepticon-323,5.791,ʔišana,"grease, fat",?isana
+clics-doculect-130-374,zuni1245-std,concepticon-1274,5.81,ma,salt,ma
+clics-doculect-130-375,zuni1245-std,concepticon-1274,5.81,mākˀose,salt,mak?ose
+clics-doculect-130-376,zuni1245-std,concepticon-1385,5.82,kˀolʔowe,pepper,k?ol?owe
+clics-doculect-130-377,zuni1245-std,concepticon-919,5.821,kˀola,chili pepper,k?ola
+clics-doculect-130-378,zuni1245-std,concepticon-942,5.84,kˀʸalīwe,honey,k?yaliwe
+clics-doculect-130-379,zuni1245-std,concepticon-862,5.85,māčikʷa,sugar,macikwa
+clics-doculect-130-380,zuni1245-std,concepticon-635,5.86,kʷikˀʸa,milk (noun),kwik?ya
+clics-doculect-130-381,zuni1245-std,concepticon-1569,5.88,kʷikˀʸāɬoʔonna,cheese,kwik?yalo?onna
+clics-doculect-130-382,zuni1245-std,concepticon-1569,5.88,kʸeso,cheese,kyeso
+clics-doculect-130-383,zuni1245-std,concepticon-1524,5.92,ʔuwakˀʸawe,wine,?uwak?yawe
+clics-doculect-130-384,zuni1245-std,concepticon-1639,5.93,kˀʸaʔopīwe,beer,k?ya?opiwe
+clics-doculect-130-385,zuni1245-std,concepticon-744,5.97,tokōkomo,egg,tokokomo
+clics-doculect-130-386,zuni1245-std,concepticon-158,6.11,kʷanɬeya,put on (clothes),kwanleya
+clics-doculect-130-387,zuni1245-std,concepticon-1895,6.12,ɬeyāwe,"clothing, clothes",leyawe
+clics-doculect-130-388,zuni1245-std,concepticon-881,6.13,ʔipikɬēnʔona,tailor,?ipiklen?ona
+clics-doculect-130-389,zuni1245-std,concepticon-1616,6.21,kuč,cloth,kuc
+clics-doculect-130-390,zuni1245-std,concepticon-1616,6.21,pisse,cloth,pisse
+clics-doculect-130-391,zuni1245-std,concepticon-964,6.22,ʔuwe,wool,?uwe
+clics-doculect-130-392,zuni1245-std,concepticon-1850,6.24,ʔuʔle,cotton,?u?le
+clics-doculect-130-393,zuni1245-std,concepticon-1641,6.25,sēla,silk,sela
+clics-doculect-130-394,zuni1245-std,concepticon-580,6.28,we,fur,we
+clics-doculect-130-395,zuni1245-std,concepticon-580,6.28,ʔuyāwe,fur,?uyawe
+clics-doculect-130-396,zuni1245-std,concepticon-629,6.29,kʸe,leather,kye
+clics-doculect-130-397,zuni1245-std,concepticon-1457,6.35,pikɬa,sew,pikla
+clics-doculect-130-398,zuni1245-std,concepticon-1382,6.36,simi,needle,simi
+clics-doculect-130-399,zuni1245-std,concepticon-157,6.39,yaʔšo,dye,ya?so
+clics-doculect-130-400,zuni1245-std,concepticon-157,6.39,yaʔšonakʸa,dye,ya?sonakya
+clics-doculect-130-401,zuni1245-std,concepticon-326,6.41,yatona,cloak,yatona
+clics-doculect-130-402,zuni1245-std,concepticon-474,6.42,ʔučču,woman's dress,?uccu
+clics-doculect-130-403,zuni1245-std,concepticon-603,6.43,lēwa,coat,lewa
+clics-doculect-130-404,zuni1245-std,concepticon-1622,6.44,ʔuččǔ,shirt,?uccu
+clics-doculect-130-405,zuni1245-std,concepticon-1600,6.46,hasikkʷi,skirt,hasikkwi
+clics-doculect-130-406,zuni1245-std,concepticon-809,6.48,kučči,trousers,kucci
+clics-doculect-130-407,zuni1245-std,concepticon-329,6.49,tumokkˀʷa,"stocking, sock",tumokk?wa
+clics-doculect-130-408,zuni1245-std,concepticon-1381,6.51,mokkˀʷa,shoe,mokk?wa
+clics-doculect-130-409,zuni1245-std,concepticon-585,6.52,pūc̷i,boot,puci
+clics-doculect-130-410,zuni1245-std,concepticon-875,6.54,mokkˀʷāwašenʔona,"shoemaker, cobbler",mokk?wawasen?ona
+clics-doculect-130-411,zuni1245-std,concepticon-2130,6.55,poʔya,"hat, cap",po?ya
+clics-doculect-130-412,zuni1245-std,concepticon-772,6.57,kʸemmekʷi,"belt, girdle",kyemmekwi
+clics-doculect-130-413,zuni1245-std,concepticon-867,6.58,ʔasuli,glove,?asuli
+clics-doculect-130-414,zuni1245-std,concepticon-1851,6.61,wahta,pocket,wahta
+clics-doculect-130-415,zuni1245-std,concepticon-757,6.62,matto,button,matto
+clics-doculect-130-416,zuni1245-std,concepticon-64,6.63,hematto,pin,hematto
+clics-doculect-130-417,zuni1245-std,concepticon-917,6.71,čito,"ornament, adornment",cito
+clics-doculect-130-418,zuni1245-std,concepticon-1374,6.73,nic̷ikʸa,ring (for finger),nicikya
+clics-doculect-130-419,zuni1245-std,concepticon-1961,6.75,taku,necklace,taku
+clics-doculect-130-420,zuni1245-std,concepticon-1860,6.76,mo,bead,mo
+clics-doculect-130-421,zuni1245-std,concepticon-770,6.77,sato,earring,sato
+clics-doculect-130-422,zuni1245-std,concepticon-330,6.78,ʔoɬpa,"headband, headdress",?olpa
+clics-doculect-130-423,zuni1245-std,concepticon-332,6.81,ɬihali,"handkerchief, rag",lihali
+clics-doculect-130-424,zuni1245-std,concepticon-332,6.81,hankʸeči,"handkerchief, rag",hankyeci
+clics-doculect-130-425,zuni1245-std,concepticon-1475,6.91,ʔipiškʸa,comb,?ipiskya
+clics-doculect-130-426,zuni1245-std,concepticon-151,6.93,ʔiyalušnakʸa,razor,?iyalusnakya
+clics-doculect-130-427,zuni1245-std,concepticon-1926,6.94,ʔišonāwe,ointment,?isonawe
+clics-doculect-130-428,zuni1245-std,concepticon-1926,6.94,ʔišakˀʸanakʸa,ointment,?isak?yanakya
+clics-doculect-130-429,zuni1245-std,concepticon-1171,6.96,ʔīyunakˀʸaʔaʔle,mirror,?iyunak?ya?a?le
+clics-doculect-130-430,zuni1245-std,concepticon-363,7.11,teya,"dwell, live",teya
+clics-doculect-130-431,zuni1245-std,concepticon-1252,7.12,kˀʸakʷe,house,k?yakwe
+clics-doculect-130-432,zuni1245-std,concepticon-1252,7.12,hešota,house,hesota
+clics-doculect-130-433,zuni1245-std,concepticon-1316,7.14,hampo,tent,hampo
+clics-doculect-130-434,zuni1245-std,concepticon-736,7.15,tekʷana,"yard, court",tekwana
+clics-doculect-130-435,zuni1245-std,concepticon-408,7.16,kʸiwihc̷i,men's house,kyiwihci
+clics-doculect-130-436,zuni1245-std,concepticon-335,7.18,kʸiwihc̷i,meeting house,kyiwihci
+clics-doculect-130-437,zuni1245-std,concepticon-1450,7.21,kˀʸakʷe,room,k?yakwe
+clics-doculect-130-438,zuni1245-std,concepticon-1450,7.21,hešota,room,hesota
+clics-doculect-130-439,zuni1245-std,concepticon-1567,7.22,ʔaɬti,"door, gate",?alti
+clics-doculect-130-440,zuni1245-std,concepticon-1567,7.22,ʔawēna,"door, gate",?awena
+clics-doculect-130-441,zuni1245-std,concepticon-1596,7.23,ɬac̷ˀikʷa,lock (noun),lac?ikwa
+clics-doculect-130-442,zuni1245-std,concepticon-1012,7.231,kˀuc̷ˀa,"latch, door-bolt",k?uc?a
+clics-doculect-130-443,zuni1245-std,concepticon-1375,7.25,ʔaššoʔwa,window,?asso?wa
+clics-doculect-130-444,zuni1245-std,concepticon-1632,7.26,ʔaweɬa,floor,?awela
+clics-doculect-130-445,zuni1245-std,concepticon-933,7.27,heʔʔi,wall,he??i
+clics-doculect-130-446,zuni1245-std,concepticon-185,7.31,ɬemotina,fireplace,lemotina
+clics-doculect-130-447,zuni1245-std,concepticon-185,7.31,ʔaklikʸana,fireplace,?aklikyana
+clics-doculect-130-448,zuni1245-std,concepticon-859,7.32,heɬemotina,stove,helemotina
+clics-doculect-130-449,zuni1245-std,concepticon-1464,7.37,ɬec̷ˀilo,ladder,lec?ilo
+clics-doculect-130-450,zuni1245-std,concepticon-1663,7.42,pewi,bed,pewi
+clics-doculect-130-451,zuni1245-std,concepticon-1044,7.421,payya,pillow,payya
+clics-doculect-130-452,zuni1245-std,concepticon-806,7.422,paʔʔi,blanket,pa??i
+clics-doculect-130-453,zuni1245-std,concepticon-806,7.422,yanni,blanket,yanni
+clics-doculect-130-454,zuni1245-std,concepticon-1476,7.43,ɬempayya,chair,lempayya
+clics-doculect-130-455,zuni1245-std,concepticon-1775,7.44,ɬempowa,table,lempowa
+clics-doculect-130-456,zuni1245-std,concepticon-2131,7.45,hapiya,"lamp, torch",hapiya
+clics-doculect-130-457,zuni1245-std,concepticon-2131,7.45,ʔopc̷ˀi,"lamp, torch",?opc?i
+clics-doculect-130-458,zuni1245-std,concepticon-769,7.51,teyala,roof,teyala
+clics-doculect-130-459,zuni1245-std,concepticon-1132,7.55,yaɬa,beam,yala
+clics-doculect-130-460,zuni1245-std,concepticon-281,7.56,kˀum,"post, pole",k?um
+clics-doculect-130-461,zuni1245-std,concepticon-1227,7.57,ɬe,board,le
+clics-doculect-130-462,zuni1245-std,concepticon-877,7.61,heʔʔēnʔona,mason,he??en?ona
+clics-doculect-130-463,zuni1245-std,concepticon-901,7.64,ʔēʔa,adobe,?e?a
+clics-doculect-130-464,zuni1245-std,concepticon-212,8.12,tehwa,field (for cultivation),tehwa
+clics-doculect-130-465,zuni1245-std,concepticon-212,8.12,teyaččina,field (for cultivation),teyaccina
+clics-doculect-130-466,zuni1245-std,concepticon-586,8.13,ɬattekˀʷa,garden,lattek?wa
+clics-doculect-130-467,zuni1245-std,concepticon-1541,8.15,ɬalla,"cultivate, till",lalla
+clics-doculect-130-468,zuni1245-std,concepticon-2002,8.17,ʔakkʷe,ditch,?akkwe
+clics-doculect-130-469,zuni1245-std,concepticon-1921,8.21,heʔčoɬto,plow,he?colto
+clics-doculect-130-470,zuni1245-std,concepticon-1418,8.22,ʔakˀoʔu,dig,?ak?o?u
+clics-doculect-130-471,zuni1245-std,concepticon-1176,8.23,hēɬe,spade,hele
+clics-doculect-130-472,zuni1245-std,concepticon-1901,8.24,hēɬe,shovel,hele
+clics-doculect-130-473,zuni1245-std,concepticon-284,8.25,wapaʔʔana,hoe,wapa??ana
+clics-doculect-130-474,zuni1245-std,concepticon-337,8.26,kˀoyaʔči,fork,k?oya?ci
+clics-doculect-130-475,zuni1245-std,concepticon-338,8.27,hešonči,rake,hesonci
+clics-doculect-130-476,zuni1245-std,concepticon-714,8.311,tōšōwe,seed,tosowe
+clics-doculect-130-477,zuni1245-std,concepticon-2132,8.33,čimayašnakʸa,"sickle, scythe",cimayasnakya
+clics-doculect-130-478,zuni1245-std,concepticon-605,8.42,kʸa,"grain (barley, oats etc)",kya
+clics-doculect-130-479,zuni1245-std,concepticon-1077,8.43,čimaya,wheat,cimaya
+clics-doculect-130-480,zuni1245-std,concepticon-1077,8.43,čimatta,wheat,cimatta
+clics-doculect-130-481,zuni1245-std,concepticon-60,8.46,ʔowc̷i,oats,?owci
+clics-doculect-130-482,zuni1245-std,concepticon-60,8.46,kʸasililīwe,oats,kyasililiwe
+clics-doculect-130-483,zuni1245-std,concepticon-506,8.47,towa,"maize, corn",towa
+clics-doculect-130-484,zuni1245-std,concepticon-926,8.48,wic̷ʔanāwe,rice,wic?anawe
+clics-doculect-130-485,zuni1245-std,concepticon-606,8.51,pe,grass,pe
+clics-doculect-130-486,zuni1245-std,concepticon-342,8.52,hawe,hay,hawe
+clics-doculect-130-487,zuni1245-std,concepticon-653,8.53,lena,plant (noun),lena
+clics-doculect-130-488,zuni1245-std,concepticon-1486,8.531,toye,plant (vb),toye
+clics-doculect-130-489,zuni1245-std,concepticon-670,8.54,ɬakʷimo,root,lakwimo
+clics-doculect-130-490,zuni1245-std,concepticon-1531,8.55,yači,branch,yaci
+clics-doculect-130-491,zuni1245-std,concepticon-628,8.56,ha,leaf,ha
+clics-doculect-130-492,zuni1245-std,concepticon-628,8.56,ho,leaf,ho
+clics-doculect-130-493,zuni1245-std,concepticon-239,8.57,ʔuteya,flower,?uteya
+clics-doculect-130-494,zuni1245-std,concepticon-906,8.6,tatta,tree,tatta
+clics-doculect-130-495,zuni1245-std,concepticon-644,8.61,taʔwi,oak,ta?wi
+clics-doculect-130-496,zuni1245-std,concepticon-1740,8.64,ʔašekˀʸa,pine,?asek?ya
+clics-doculect-130-497,zuni1245-std,concepticon-1915,8.65,kˀʸaɬac̷ˀilo,fir,k?yalac?ilo
+clics-doculect-130-498,zuni1245-std,concepticon-968,8.66,taʔwimo,acorn,ta?wimo
+clics-doculect-130-499,zuni1245-std,concepticon-343,8.67,piwanna,vine,piwanna
+clics-doculect-130-500,zuni1245-std,concepticon-974,8.68,c̷ana,tobacco,cana
+clics-doculect-130-501,zuni1245-std,concepticon-974,8.68,ʔanate,tobacco,?anate
+clics-doculect-130-502,zuni1245-std,concepticon-1689,8.69,pokɬi,smoke (tobacco),pokli
+clics-doculect-130-503,zuni1245-std,concepticon-344,8.73,kˀum,tree trunk,k?um
+clics-doculect-130-504,zuni1245-std,concepticon-409,8.74,kˀoyaʔči,forked branch,k?oya?ci
+clics-doculect-130-505,zuni1245-std,concepticon-1204,8.75,c̷ˀikkʷa,bark,c?ikkwa
+clics-doculect-130-506,zuni1245-std,concepticon-411,8.93,mōkˀʸisi,gourd,mok?yisi
+clics-doculect-130-507,zuni1245-std,concepticon-411,8.93,tom,gourd,tom
+clics-doculect-130-508,zuni1245-std,concepticon-864,8.931,mōteyaɬa,"pumpkin, squash",moteyala
+clics-doculect-130-509,zuni1245-std,concepticon-864,8.931,mēmo,"pumpkin, squash",memo
+clics-doculect-130-510,zuni1245-std,concepticon-146,8.941,kˀʸewe,sugar cane,k?yewe
+clics-doculect-130-511,zuni1245-std,concepticon-641,8.98,puhči,mushroom,puhci
+clics-doculect-130-512,zuni1245-std,concepticon-2575,9.11,ʔaša,"do, make",?asa
+clics-doculect-130-513,zuni1245-std,concepticon-984,9.12,yuʔmakʷe,work,yu?makwe
+clics-doculect-130-514,zuni1245-std,concepticon-984,9.12,ʔīkʷāni,work,?ikwani
+clics-doculect-130-515,zuni1245-std,concepticon-2004,9.14,toc̷ippo,bend,tocippo
+clics-doculect-130-516,zuni1245-std,concepticon-2004,9.14,c̷ˀikˀo,bend,c?ik?o
+clics-doculect-130-517,zuni1245-std,concepticon-2004,9.14,noʔtekla,bend,no?tekla
+clics-doculect-130-518,zuni1245-std,concepticon-1470,9.15,ʔīpoʔku,fold,?ipo?ku
+clics-doculect-130-519,zuni1245-std,concepticon-352,9.161,ʔihtoha,untie,?ihtoha
+clics-doculect-130-520,zuni1245-std,concepticon-1627,9.18,hewiyulli,chain,hewiyulli
+clics-doculect-130-521,zuni1245-std,concepticon-1218,9.19,toʔni,"rope, cord",to?ni
+clics-doculect-130-522,zuni1245-std,concepticon-1432,9.22,c̷ˀiya,cut,c?iya
+clics-doculect-130-523,zuni1245-std,concepticon-355,9.221,ʔiteha,cut down,?iteha
+clics-doculect-130-524,zuni1245-std,concepticon-155,9.222,ɬepakčo,"chop, hew",lepakco
+clics-doculect-130-525,zuni1245-std,concepticon-1434,9.223,ɬakʷu,stab,lakwu
+clics-doculect-130-526,zuni1245-std,concepticon-1352,9.23,ʔačiya,knife,?aciya
+clics-doculect-130-527,zuni1245-std,concepticon-356,9.24,ʔīpačči,"scissors, shears",?ipacci
+clics-doculect-130-528,zuni1245-std,concepticon-356,9.24,ʔapc̷ˀišlenakʸa,"scissors, shears",?apc?islenakya
+clics-doculect-130-529,zuni1245-std,concepticon-677,9.25,kˀʸi,ax,k?yi
+clics-doculect-130-530,zuni1245-std,concepticon-680,9.26,yami,break,yami
+clics-doculect-130-531,zuni1245-std,concepticon-588,9.261,kˀuhmo,broken,k?uhmo
+clics-doculect-130-532,zuni1245-std,concepticon-1437,9.27,ʔīšokʷiha,split,?isokwiha
+clics-doculect-130-533,zuni1245-std,concepticon-1735,9.28,c̷ˀiya,tear,c?iya
+clics-doculect-130-534,zuni1245-std,concepticon-1449,9.31,čišša,"rub, wipe",cissa
+clics-doculect-130-535,zuni1245-std,concepticon-1449,9.31,muyye,"rub, wipe",muyye
+clics-doculect-130-536,zuni1245-std,concepticon-214,9.32,šalu,stretch,salu
+clics-doculect-130-537,zuni1245-std,concepticon-214,9.32,c̷ˀaɬi,stretch,c?ali
+clics-doculect-130-538,zuni1245-std,concepticon-1455,9.33,ʔanahha,pull,?anahha
+clics-doculect-130-539,zuni1245-std,concepticon-38,9.34,wakˀʷa,spread out,wak?wa
+clics-doculect-130-540,zuni1245-std,concepticon-357,9.341,piyaʔu,hang up,piya?u
+clics-doculect-130-541,zuni1245-std,concepticon-1913,9.342,hec̷ˀu,press,hec?u
+clics-doculect-130-542,zuni1245-std,concepticon-1414,9.343,hec̷ʔu,"squeeze, wring",hec?u
+clics-doculect-130-543,zuni1245-std,concepticon-1453,9.36,kˀošo,wash,k?oso
+clics-doculect-130-544,zuni1245-std,concepticon-230,9.37,tepišša,sweep,tepissa
+clics-doculect-130-545,zuni1245-std,concepticon-245,9.38,pep,broom,pep
+clics-doculect-130-546,zuni1245-std,concepticon-1042,9.43,ɬewīkʷanikʸēnʔona,carpenter,lewikwanikyen?ona
+clics-doculect-130-547,zuni1245-std,concepticon-1840,9.44,ʔaša,build,?asa
+clics-doculect-130-548,zuni1245-std,concepticon-1501,9.46,piɬkʷe,bore,pilkwe
+clics-doculect-130-549,zuni1245-std,concepticon-46,9.461,heʔkˀoʔu,hollow out,he?k?o?u
+clics-doculect-130-550,zuni1245-std,concepticon-1948,9.48,ɬititina,saw,lititina
+clics-doculect-130-551,zuni1245-std,concepticon-1481,9.49,hetoknakʸa,hammer,hetoknakya
+clics-doculect-130-552,zuni1245-std,concepticon-502,9.5,hēkˀʸac̷c̷oto,nail,hek?yaccoto
+clics-doculect-130-553,zuni1245-std,concepticon-1069,9.56,kˀʸapikˀʸāwe,glue,k?yapik?yawe
+clics-doculect-130-554,zuni1245-std,concepticon-1001,9.6,hetokkˀʸēnʔona,"smith, blacksmith",hetokk?yen?ona
+clics-doculect-130-555,zuni1245-std,concepticon-1369,9.64,ʔōlo,gold,?olo
+clics-doculect-130-556,zuni1245-std,concepticon-759,9.65,lāta,silver,lata
+clics-doculect-130-557,zuni1245-std,concepticon-759,9.65,c̷īhewe,silver,cihewe
+clics-doculect-130-558,zuni1245-std,concepticon-1825,9.66,tesililīwe,"copper, bronze",tesililiwe
+clics-doculect-130-559,zuni1245-std,concepticon-621,9.67,hewe,iron,hewe
+clics-doculect-130-560,zuni1245-std,concepticon-359,9.71,tewašēnʔona,potter,tewasen?ona
+clics-doculect-130-561,zuni1245-std,concepticon-1399,9.73,heli,clay,heli
+clics-doculect-130-562,zuni1245-std,concepticon-604,9.74,ʔa,glass,?a
+clics-doculect-130-563,zuni1245-std,concepticon-292,9.771,pisāli,rug,pisali
+clics-doculect-130-564,zuni1245-std,concepticon-647,9.88,heli,paint (noun),heli
+clics-doculect-130-565,zuni1245-std,concepticon-765,10.11,ʔīmoha,move,?imoha
+clics-doculect-130-566,zuni1245-std,concepticon-765,10.11,tinaha,move,tinaha
+clics-doculect-130-567,zuni1245-std,concepticon-1588,10.12,yampaʔkʷiha,turn over,yampa?kwiha
+clics-doculect-130-568,zuni1245-std,concepticon-1588,10.12,noʔteklaʔu,turn over,no?tekla?u
+clics-doculect-130-569,zuni1245-std,concepticon-1445,10.13,ʔallūpi,turn around,?allupi
+clics-doculect-130-570,zuni1245-std,concepticon-1113,10.14,peha,"wind, wrap",peha
+clics-doculect-130-571,zuni1245-std,concepticon-827,10.15,ponoɬpani,roll,ponolpani
+clics-doculect-130-572,zuni1245-std,concepticon-827,10.15,pololoʔu,roll,pololo?u
+clics-doculect-130-573,zuni1245-std,concepticon-808,10.16,ʔiteha,drop (vb),?iteha
+clics-doculect-130-574,zuni1245-std,concepticon-501,10.22,kˀʸeyatoʔu,"raise, lift",k?yeyato?u
+clics-doculect-130-575,zuni1245-std,concepticon-1280,10.23,lani,fall,lani
+clics-doculect-130-576,zuni1245-std,concepticon-2253,10.24,c̷ˀokˀo,drip,c?ok?o
+clics-doculect-130-577,zuni1245-std,concepticon-1456,10.25,ʔipaku,throw,?ipaku
+clics-doculect-130-578,zuni1245-std,concepticon-702,10.252,yate,catch (ball),yate
+clics-doculect-130-579,zuni1245-std,concepticon-1088,10.33,wakkʷato,sink,wakkwato
+clics-doculect-130-580,zuni1245-std,concepticon-1574,10.34,kˀʸaya,float,k?yaya
+clics-doculect-130-581,zuni1245-std,concepticon-1439,10.35,ʔičukˀʸayē,swim,?icuk?yaye
+clics-doculect-130-582,zuni1245-std,concepticon-365,10.352,čepe,splash,cepe
+clics-doculect-130-583,zuni1245-std,concepticon-1441,10.37,laʔhi,fly (vb),la?hi
+clics-doculect-130-584,zuni1245-std,concepticon-175,10.38,ʔuʔʔa,blow,?u??a
+clics-doculect-130-585,zuni1245-std,concepticon-175,10.38,pūpuʔʔa,blow,pupu??a
+clics-doculect-130-586,zuni1245-std,concepticon-96,10.41,ponān,"creep, crawl",ponan
+clics-doculect-130-587,zuni1245-std,concepticon-66,10.412,moʔc̷oktipowa,kneel,mo?coktipowa
+clics-doculect-130-588,zuni1245-std,concepticon-296,10.413,moʔc̷okʔīmu,crouch,mo?cok?imu
+clics-doculect-130-589,zuni1245-std,concepticon-1829,10.43,ʔīpuʔlaʔhi,"jump, leap",?ipu?la?hi
+clics-doculect-130-590,zuni1245-std,concepticon-1135,10.431,yačču,kick,yaccu
+clics-doculect-130-591,zuni1245-std,concepticon-1879,10.44,ʔota,dance,?ota
+clics-doculect-130-592,zuni1245-std,concepticon-366,10.451,ʔimoči,limp,?imoci
+clics-doculect-130-593,zuni1245-std,concepticon-1519,10.46,yēlaha,run,yelaha
+clics-doculect-130-594,zuni1245-std,concepticon-1519,10.46,ʔiɬuwaha,run,?iluwaha
+clics-doculect-130-595,zuni1245-std,concepticon-695,10.47,ʔān,go,?an
+clics-doculect-130-596,zuni1245-std,concepticon-705,10.471,yemaku,go up,yemaku
+clics-doculect-130-597,zuni1245-std,concepticon-1102,10.472,yemaku,climb,yemaku
+clics-doculect-130-598,zuni1245-std,concepticon-2014,10.473,paniyu,go down,paniyu
+clics-doculect-130-599,zuni1245-std,concepticon-1107,10.474,kʷayi,go out,kwayi
+clics-doculect-130-600,zuni1245-std,concepticon-1446,10.48,ʔiy,come,?iy
+clics-doculect-130-601,zuni1245-std,concepticon-581,10.481,ʔikˀʷaɬtʔiy,come back,?ik?walt?iy
+clics-doculect-130-602,zuni1245-std,concepticon-485,10.491,ʔotti,disappear,?otti
+clics-doculect-130-603,zuni1245-std,concepticon-1085,10.52,ʔantapanʔān,follow,?antapan?an
+clics-doculect-130-604,zuni1245-std,concepticon-1047,10.53,ʔallaha,pursue,?allaha
+clics-doculect-130-605,zuni1245-std,concepticon-1387,10.55,teʔči,"reach, arrive",te?ci
+clics-doculect-130-606,zuni1245-std,concepticon-749,10.57,kʷato,enter,kwato
+clics-doculect-130-607,zuni1245-std,concepticon-700,10.61,seto,carry (bear),seto
+clics-doculect-130-608,zuni1245-std,concepticon-412,10.612,ɬeʔā,carry-in-hand,le?a
+clics-doculect-130-609,zuni1245-std,concepticon-413,10.613,čutʔanyaɬtokˀʸa,carry-on-shoulder,cut?anyaltok?ya
+clics-doculect-130-610,zuni1245-std,concepticon-414,10.614,ɬakto,carry-on-head,lakto
+clics-doculect-130-611,zuni1245-std,concepticon-415,10.615,noloktʔanɬac̷c̷ˀu,carry-underarm,nolokt?anlacc?u
+clics-doculect-130-612,zuni1245-std,concepticon-415,10.615,noloktʔanɬac̷c̷ˀiye,carry-underarm,nolokt?anlacc?iye
+clics-doculect-130-613,zuni1245-std,concepticon-367,10.66,ʔimyaɬto,ride,?imyalto
+clics-doculect-130-614,zuni1245-std,concepticon-1452,10.67,ʔulate,"push, shove",?ulate
+clics-doculect-130-615,zuni1245-std,concepticon-667,10.71,ʔona,road,?ona
+clics-doculect-130-616,zuni1245-std,concepticon-2252,10.72,ʔona,path,?ona
+clics-doculect-130-617,zuni1245-std,concepticon-1011,10.74,yatonakʸa,bridge,yatonakya
+clics-doculect-130-618,zuni1245-std,concepticon-710,10.76,heʔpowa,wheel,he?powa
+clics-doculect-130-619,zuni1245-std,concepticon-1844,10.83,kˀʸayanʔallukkʸanakʸa,boat,k?yayan?allukkyanakya
+clics-doculect-130-620,zuni1245-std,concepticon-773,11.11,ʔilli,have,?illi
+clics-doculect-130-621,zuni1245-std,concepticon-1749,11.13,ʔiɬeyaʔu,take,?ileya?u
+clics-doculect-130-622,zuni1245-std,concepticon-1749,11.13,ʔahha,take,?ahha
+clics-doculect-130-623,zuni1245-std,concepticon-2021,11.14,yakna,"seize, grasp",yakna
+clics-doculect-130-624,zuni1245-std,concepticon-1448,11.15,ɬeya,hold,leya
+clics-doculect-130-625,zuni1245-std,concepticon-694,11.16,ʔahha,"get, obtain",?ahha
+clics-doculect-130-626,zuni1245-std,concepticon-1477,11.17,yakna,"keep, retain",yakna
+clics-doculect-130-627,zuni1245-std,concepticon-738,11.18,wo,thing,wo
+clics-doculect-130-628,zuni1245-std,concepticon-1447,11.21,ʔuc̷ˀi,give,?uc?i
+clics-doculect-130-629,zuni1245-std,concepticon-1997,11.24,ʔayyupači,"preserve, look after",?ayyupaci
+clics-doculect-130-630,zuni1245-std,concepticon-2008,11.25,tehyaʔu,"save, rescue",tehya?u
+clics-doculect-130-631,zuni1245-std,concepticon-681,11.27,yaɬakʷayi,destroy,yalakwayi
+clics-doculect-130-632,zuni1245-std,concepticon-44,11.28,haši,"harm, injure, damage",hasi
+clics-doculect-130-633,zuni1245-std,concepticon-1468,11.31,tešu,"seek, look for",tesu
+clics-doculect-130-634,zuni1245-std,concepticon-1660,11.33,ʔokkˀʸa,lose,?okk?ya
+clics-doculect-130-635,zuni1245-std,concepticon-1095,11.34,yaknaha,"release, let go",yaknaha
+clics-doculect-130-636,zuni1245-std,concepticon-1559,11.43,he,money,he
+clics-doculect-130-637,zuni1245-std,concepticon-1867,11.44,he,coin,he
+clics-doculect-130-638,zuni1245-std,concepticon-712,11.51,līku,rich,liku
+clics-doculect-130-639,zuni1245-std,concepticon-1674,11.52,tewukoʔliya,poor,tewuko?liya
+clics-doculect-130-640,zuni1245-std,concepticon-1934,11.53,ʔanɬimoša,beggar,?anlimosa
+clics-doculect-130-641,zuni1245-std,concepticon-1774,11.54,miʔtokˀo,"avaricious, stingy",mi?tok?o
+clics-doculect-130-642,zuni1245-std,concepticon-1774,11.54,ɬoʔo,"avaricious, stingy",lo?o
+clics-doculect-130-643,zuni1245-std,concepticon-1823,11.62,ʔilopi,borrow,?ilopi
+clics-doculect-130-644,zuni1245-std,concepticon-1869,11.81,tapi,buy,tapi
+clics-doculect-130-645,zuni1245-std,concepticon-1571,11.82,haliso,sell,haliso
+clics-doculect-130-646,zuni1245-std,concepticon-1082,11.84,halisoynʔona,merchant,halisoyn?ona
+clics-doculect-130-647,zuni1245-std,concepticon-1426,11.88,tehya,"dear (costly, expensive)",tehya
+clics-doculect-130-648,zuni1245-std,concepticon-884,11.91,pači,share (distribute),paci
+clics-doculect-130-649,zuni1245-std,concepticon-723,12.11,yalu,place,yalu
+clics-doculect-130-650,zuni1245-std,concepticon-1816,12.2,pakkʷi,beside,pakkwi
+clics-doculect-130-651,zuni1245-std,concepticon-2094,12.3,manikkʸa,"down, below",manikkya
+clics-doculect-130-652,zuni1245-std,concepticon-1606,12.5,ʔuli,"inside, in",?uli
+clics-doculect-130-653,zuni1245-std,concepticon-762,12.6,ʔuɬɬa,outside,?ulla
+clics-doculect-130-654,zuni1245-std,concepticon-762,12.6,tekʷana,outside,tekwana
+clics-doculect-130-655,zuni1245-std,concepticon-1485,12.7,manikkʸa,under,manikkya
+clics-doculect-130-656,zuni1245-std,concepticon-1485,12.7,ʔapalli,under,?apalli
+clics-doculect-130-657,zuni1245-std,concepticon-1591,12.8,ʔīyama,"up, above",?iyama
+clics-doculect-130-658,zuni1245-std,concepticon-838,12.17,yeččikˀona,"remains, left overs",yeccik?ona
+clics-doculect-130-659,zuni1245-std,concepticon-371,12.212,ʔahha,pick up,?ahha
+clics-doculect-130-660,zuni1245-std,concepticon-1743,12.22,yakšu,"join, unite",yaksu
+clics-doculect-130-661,zuni1245-std,concepticon-1743,12.22,ʔisliʔu,"join, unite",?isli?u
+clics-doculect-130-662,zuni1245-std,concepticon-1359,12.23,ʔiwopc̷ˀiha,separate,?iwopc?iha
+clics-doculect-130-663,zuni1245-std,concepticon-1119,12.232,ʔīpači,divide,?ipaci
+clics-doculect-130-664,zuni1245-std,concepticon-602,12.27,ʔikˀoloʔu,"hide, conceal",?ik?olo?u
+clics-doculect-130-665,zuni1245-std,concepticon-1265,12.31,kuʔtelʔan,high,ku?tel?an
+clics-doculect-130-666,zuni1245-std,concepticon-1753,12.33,kˀʸac̷c̷oʔwa,top,k?yacco?wa
+clics-doculect-130-667,zuni1245-std,concepticon-690,12.34,paɬto,bottom,palto
+clics-doculect-130-668,zuni1245-std,concepticon-372,12.352,tahna,pointed,tahna
+clics-doculect-130-669,zuni1245-std,concepticon-1093,12.37,ʔitiwa,"middle, center",?itiwa
+clics-doculect-130-670,zuni1245-std,concepticon-1019,12.41,ʔitokkʷa,right (side),?itokkwa
+clics-doculect-130-671,zuni1245-std,concepticon-244,12.42,wešikkˀʸa,left (side),wesikk?ya
+clics-doculect-130-672,zuni1245-std,concepticon-1942,12.43,lotte,near (adv),lotte
+clics-doculect-130-673,zuni1245-std,concepticon-1406,12.44,hoɬomaši,far (adv),holomasi
+clics-doculect-130-674,zuni1245-std,concepticon-1877,12.45,tewankʷin,east,tewankwin
+clics-doculect-130-675,zuni1245-std,concepticon-1817,12.46,sunhākʷin,west,sunhakwin
+clics-doculect-130-676,zuni1245-std,concepticon-1598,12.47,pišlankʷin,north,pislankwin
+clics-doculect-130-677,zuni1245-std,concepticon-1595,12.48,maʔkˀʸayakʷin,south,ma?k?yayakwin
+clics-doculect-130-678,zuni1245-std,concepticon-479,12.53,ɬa,grow,la
+clics-doculect-130-679,zuni1245-std,concepticon-1506,12.54,ʔiteču,measure,?itecu
+clics-doculect-130-680,zuni1245-std,concepticon-1202,12.55,ɬana,"large, big",lana
+clics-doculect-130-681,zuni1245-std,concepticon-1246,12.56,c̷ˀana,"small, little",c?ana
+clics-doculect-130-682,zuni1245-std,concepticon-1203,12.57,tašana,long,tasana
+clics-doculect-130-683,zuni1245-std,concepticon-711,12.58,tašana,tall,tasana
+clics-doculect-130-684,zuni1245-std,concepticon-1645,12.59,koni,short,koni
+clics-doculect-130-685,zuni1245-std,concepticon-1243,12.61,kˀʸapa,"wide, broad",k?yapa
+clics-doculect-130-686,zuni1245-std,concepticon-1244,12.63,yahoni,thick (in dimension),yahoni
+clics-doculect-130-687,zuni1245-std,concepticon-2249,12.65,pisse,thin (in dimension),pisse
+clics-doculect-130-688,zuni1245-std,concepticon-1593,12.67,tetašana,deep,tetasana
+clics-doculect-130-689,zuni1245-std,concepticon-193,12.68,tekoni,shallow,tekoni
+clics-doculect-130-690,zuni1245-std,concepticon-1404,12.73,moɬa,straight,mola
+clics-doculect-130-691,zuni1245-std,concepticon-297,12.74,c̷ˀikˀo,crooked,c?ik?o
+clics-doculect-130-692,zuni1245-std,concepticon-192,12.76,heʔšokˀo,corner,he?sok?o
+clics-doculect-130-693,zuni1245-std,concepticon-850,12.78,mayākˀokši,square,mayak?oksi
+clics-doculect-130-694,zuni1245-std,concepticon-1395,12.81,pic̷ulliya,round,piculliya
+clics-doculect-130-695,zuni1245-std,concepticon-1467,12.82,pic̷ulliya,circle,piculliya
+clics-doculect-130-696,zuni1245-std,concepticon-1845,12.83,mo,"sphere, ball",mo
+clics-doculect-130-697,zuni1245-std,concepticon-1048,12.84,pi,line,pi
+clics-doculect-130-698,zuni1245-std,concepticon-1558,12.92,ʔikna,"like, similar",?ikna
+clics-doculect-130-699,zuni1245-std,concepticon-1264,12.93,ʔiyalihkˀʸa,change,?iyalihk?ya
+clics-doculect-130-700,zuni1245-std,concepticon-1493,13.1,topinte,one,topinte
+clics-doculect-130-701,zuni1245-std,concepticon-1498,13.2,kʷilin,two,kwilin
+clics-doculect-130-702,zuni1245-std,concepticon-492,13.3,haʔin,three,ha?in
+clics-doculect-130-703,zuni1245-std,concepticon-1500,13.4,ʔāwiten,four,?awiten
+clics-doculect-130-704,zuni1245-std,concepticon-493,13.5,ʔapten,five,?apten
+clics-doculect-130-705,zuni1245-std,concepticon-1703,13.6,topalekkˀʸa,six,topalekk?ya
+clics-doculect-130-706,zuni1245-std,concepticon-1704,13.7,kʷilelekkˀʸa,seven,kwilelekk?ya
+clics-doculect-130-707,zuni1245-std,concepticon-1705,13.8,haʔelekkˀʸa,eight,ha?elekk?ya
+clics-doculect-130-708,zuni1245-std,concepticon-1483,13.9,tenalekkˀʸa,nine,tenalekk?ya
+clics-doculect-130-709,zuni1245-std,concepticon-1515,13.10,ʔastemɬan,ten,?astemlan
+clics-doculect-130-710,zuni1245-std,concepticon-1706,13.101,ʔastemɬatāptopinte,eleven,?astemlataptopinte
+clics-doculect-130-711,zuni1245-std,concepticon-1707,13.102,ʔastemɬatāpkʷilin,twelve,?astemlatapkwilin
+clics-doculect-130-712,zuni1245-std,concepticon-1709,13.103,ʔastemɬatāpʔapten,fifteen,?astemlatap?apten
+clics-doculect-130-713,zuni1245-std,concepticon-1710,13.104,kʷilikˀʸanʔastemɬan,twenty,kwilik?yan?astemlan
+clics-doculect-130-714,zuni1245-std,concepticon-1634,13.105,ʔasiʔastemɬan,hundred,?asi?astemlan
+clics-doculect-130-715,zuni1245-std,concepticon-1843,13.106,tapnimtemīɬ,thousand,tapnimtemil
+clics-doculect-130-716,zuni1245-std,concepticon-1420,13.107,yale,count,yale
+clics-doculect-130-717,zuni1245-std,concepticon-98,13.14,lēwi,"every, all",lewi
+clics-doculect-130-718,zuni1245-std,concepticon-98,13.14,temɬan,"every, all",temlan
+clics-doculect-130-719,zuni1245-std,concepticon-1198,13.15,ʔemma,"much, many",?emma
+clics-doculect-130-720,zuni1245-std,concepticon-1992,13.16,ʔaɬna,more,?alna
+clics-doculect-130-721,zuni1245-std,concepticon-1242,13.17,kōwi,"little (quantity), few",kowi
+clics-doculect-130-722,zuni1245-std,concepticon-1881,13.18,ʔečči,enough,?ecci
+clics-doculect-130-723,zuni1245-std,concepticon-1429,13.21,potti,full,potti
+clics-doculect-130-724,zuni1245-std,concepticon-1429,13.21,kosna,full,kosna
+clics-doculect-130-725,zuni1245-std,concepticon-779,13.23,mu,"part, piece",mu
+clics-doculect-130-726,zuni1245-std,concepticon-1580,13.33,samma,"alone, only",samma
+clics-doculect-130-727,zuni1245-std,concepticon-1580,13.33,teʔči,"alone, only",te?ci
+clics-doculect-130-728,zuni1245-std,concepticon-728,13.34,ʔehkʷi,first,?ehkwi
+clics-doculect-130-729,zuni1245-std,concepticon-728,13.34,kʸela,first,kyela
+clics-doculect-130-730,zuni1245-std,concepticon-1529,13.35,yalu,last,yalu
+clics-doculect-130-731,zuni1245-std,concepticon-1384,13.36,kʷilikˀʸan,second,kwilik?yan
+clics-doculect-130-732,zuni1245-std,concepticon-1888,13.37,ʔāči,pair,?aci
+clics-doculect-130-733,zuni1245-std,concepticon-1546,13.38,kʷilikʔʸan,two times,kwilik?yan
+clics-doculect-130-734,zuni1245-std,concepticon-1859,13.42,haʔikˀʸan,third,ha?ik?yan
+clics-doculect-130-735,zuni1245-std,concepticon-417,13.44,haʔikˀʸan,three times,ha?ik?yan
+clics-doculect-130-736,zuni1245-std,concepticon-1789,14.12,ɬaššīwe,age,lassiwe
+clics-doculect-130-737,zuni1245-std,concepticon-1231,14.13,čimʔona,new,cim?ona
+clics-doculect-130-738,zuni1245-std,concepticon-1207,14.14,šiha,young,siha
+clics-doculect-130-739,zuni1245-std,concepticon-1229,14.15,ɬašši,old,lassi
+clics-doculect-130-740,zuni1245-std,concepticon-1376,14.18,čimi,now,cimi
+clics-doculect-130-741,zuni1245-std,concepticon-1963,14.19,hanaʔte,immediately,hana?te
+clics-doculect-130-742,zuni1245-std,concepticon-1631,14.21,kˀʸahaya,"swift, fast, quick",k?yahaya
+clics-doculect-130-743,zuni1245-std,concepticon-701,14.22,tikʷahna,slow,tikwahna
+clics-doculect-130-744,zuni1245-std,concepticon-754,14.23,hešši,"hasten, hurry",hessi
+clics-doculect-130-745,zuni1245-std,concepticon-1806,14.25,teyʔu,"begin, beginning",tey?u
+clics-doculect-130-746,zuni1245-std,concepticon-1186,14.252,yoc̷c̷ikkˀʸa,"last, endure",yoccikk?ya
+clics-doculect-130-747,zuni1245-std,concepticon-1766,14.27,yākˀʸa,finish,yak?ya
+clics-doculect-130-748,zuni1245-std,concepticon-1928,14.28,čune,"cease, stop",cune
+clics-doculect-130-749,zuni1245-std,concepticon-790,14.29,yāna,ready,yana
+clics-doculect-130-750,zuni1245-std,concepticon-1676,14.31,ʔišaɬmaʔte,always,?isalma?te
+clics-doculect-130-751,zuni1245-std,concepticon-1852,14.32,ʔimaštoɬi,often,?imastoli
+clics-doculect-130-752,zuni1245-std,concepticon-1544,14.33,kʸākˀʸi,sometimes,kyak?yi
+clics-doculect-130-753,zuni1245-std,concepticon-703,14.331,wan,soon,wan
+clics-doculect-130-754,zuni1245-std,concepticon-1656,14.34,kʷaʔkʸayiʔinaʔmaʔ,never,kwa?kyayi?ina?ma?
+clics-doculect-130-755,zuni1245-std,concepticon-204,14.35,tēya,again,teya
+clics-doculect-130-756,zuni1245-std,concepticon-1225,14.41,yato,day,yato
+clics-doculect-130-757,zuni1245-std,concepticon-1233,14.42,tehɬappa,night,tehlappa
+clics-doculect-130-758,zuni1245-std,concepticon-1233,14.42,tehɬina,night,tehlina
+clics-doculect-130-759,zuni1245-std,concepticon-1339,14.44,ʔiččite,morning,?iccite
+clics-doculect-130-760,zuni1245-std,concepticon-12,14.45,ʔitiwʔan,"noon, midday",?itiw?an
+clics-doculect-130-761,zuni1245-std,concepticon-1807,14.451,ʔitiwakʸatappa,afternoon,?itiwakyatappa
+clics-doculect-130-762,zuni1245-std,concepticon-1629,14.46,sunha,evening,sunha
+clics-doculect-130-763,zuni1245-std,concepticon-1629,14.46,sunnaha,evening,sunnaha
+clics-doculect-130-764,zuni1245-std,concepticon-1283,14.47,lākˀʸi,today,lak?yi
+clics-doculect-130-765,zuni1245-std,concepticon-1329,14.48,tewani,tomorrow,tewani
+clics-doculect-130-766,zuni1245-std,concepticon-1174,14.49,teššukˀʷaʔ,yesterday,tessuk?wa?
+clics-doculect-130-767,zuni1245-std,concepticon-1323,14.53,yatokkʸa,"clock, timepiece",yatokkya
+clics-doculect-130-768,zuni1245-std,concepticon-1469,14.61,tuminku,week,tuminku
+clics-doculect-130-769,zuni1245-std,concepticon-1699,14.62,tuminkutewappa,Sunday,tuminkutewappa
+clics-doculect-130-770,zuni1245-std,concepticon-1697,14.63,činnakʷʔīkʷānʔappa,Monday,cinnakw?ikwan?appa
+clics-doculect-130-771,zuni1245-std,concepticon-1695,14.64,kʷilitewanʔīkʷānʔappa,Tuesday,kwilitewan?ikwan?appa
+clics-doculect-130-772,zuni1245-std,concepticon-1694,14.65,haʔitewanʔīkʷānʔappa,Wednesday,ha?itewan?ikwan?appa
+clics-doculect-130-773,zuni1245-std,concepticon-1693,14.66,ʔāwitenʔīkʷānʔappa,Thursday,?awiten?ikwan?appa
+clics-doculect-130-774,zuni1245-std,concepticon-1692,14.67,ʔaɬnaʔteʔīkʷānʔappa,Friday,?alna?te?ikwan?appa
+clics-doculect-130-775,zuni1245-std,concepticon-1700,14.68,tuminkuʔančˀappa,Saturday,tuminku?anc?appa
+clics-doculect-130-776,zuni1245-std,concepticon-1370,14.71,yaču,month,yacu
+clics-doculect-130-777,zuni1245-std,concepticon-1226,14.73,tepikʷayina,year,tepikwayina
+clics-doculect-130-778,zuni1245-std,concepticon-1471,14.74,tehc̷ˀi,winter,tehc?i
+clics-doculect-130-779,zuni1245-std,concepticon-1537,14.75,telakʷayi,spring,telakwayi
+clics-doculect-130-780,zuni1245-std,concepticon-1342,14.76,ʔoloʔʔikˀʸa,summer,?olo??ik?ya
+clics-doculect-130-781,zuni1245-std,concepticon-1276,14.77,miyašēnakˀʸappa,autumn,miyasenak?yappa
+clics-doculect-130-782,zuni1245-std,concepticon-1587,15.21,teči,smell (vb intrans),teci
+clics-doculect-130-783,zuni1245-std,concepticon-375,15.212,musmu,sniff,musmu
+clics-doculect-130-784,zuni1245-std,concepticon-1586,15.22,musmu,smell (vb trans),musmu
+clics-doculect-130-785,zuni1245-std,concepticon-717,15.35,čikʷa,sweet,cikwa
+clics-doculect-130-786,zuni1245-std,concepticon-1091,15.36,kˀose,salty,k?ose
+clics-doculect-130-787,zuni1245-std,concepticon-1906,15.38,ʔopi,"acid, sour",?opi
+clics-doculect-130-788,zuni1245-std,concepticon-70,15.39,kˀose,brackish,k?ose
+clics-doculect-130-789,zuni1245-std,concepticon-1408,15.41,hatiyāw,hear,hatiyaw
+clics-doculect-130-790,zuni1245-std,concepticon-1608,15.42,hatiyāw,listen,hatiyaw
+clics-doculect-130-791,zuni1245-std,concepticon-1811,15.44,ʔawoteya,"sound, noise",?awoteya
+clics-doculect-130-792,zuni1245-std,concepticon-377,15.45,wawawa,loud,wawawa
+clics-doculect-130-793,zuni1245-std,concepticon-1314,15.46,ʔayyuɬaššina,"quiet, silence",?ayyulassina
+clics-doculect-130-794,zuni1245-std,concepticon-1409,15.51,ʔankˀohakˀʸa,see,?ank?ohak?ya
+clics-doculect-130-795,zuni1245-std,concepticon-1819,15.52,ʔuna,"look, look at",?una
+clics-doculect-130-796,zuni1245-std,concepticon-1819,15.52,tuna,"look, look at",tuna
+clics-doculect-130-797,zuni1245-std,concepticon-1039,15.55,ʔunaʔu,show,?una?u
+clics-doculect-130-798,zuni1245-std,concepticon-708,15.56,walolo,shine,walolo
+clics-doculect-130-799,zuni1245-std,concepticon-250,15.62,kˀoha,light (in color),k?oha
+clics-doculect-130-800,zuni1245-std,concepticon-706,15.63,kˀʷi,dark (in color),k?wi
+clics-doculect-130-801,zuni1245-std,concepticon-1335,15.64,kˀoha,white,k?oha
+clics-doculect-130-802,zuni1245-std,concepticon-163,15.65,kˀʷi,black,k?wi
+clics-doculect-130-803,zuni1245-std,concepticon-156,15.66,šilowa,red,silowa
+clics-doculect-130-804,zuni1245-std,concepticon-837,15.67,ɬiʔʔa,blue,li??a
+clics-doculect-130-805,zuni1245-std,concepticon-1425,15.68,ʔašena,green,?asena
+clics-doculect-130-806,zuni1245-std,concepticon-1424,15.69,ɬupc̷ˀi,yellow,lupc?i
+clics-doculect-130-807,zuni1245-std,concepticon-1892,15.71,yate,touch,yate
+clics-doculect-130-808,zuni1245-std,concepticon-1079,15.72,hati,feel,hati
+clics-doculect-130-809,zuni1245-std,concepticon-1884,15.74,ɬoʔo,hard,lo?o
+clics-doculect-130-810,zuni1245-std,concepticon-1856,15.75,ɬuc̷ˀina,soft,luc?ina
+clics-doculect-130-811,zuni1245-std,concepticon-1923,15.76,čippa,rough,cippa
+clics-doculect-130-812,zuni1245-std,concepticon-1234,15.77,kˀʸalolo,smooth,k?yalolo
+clics-doculect-130-813,zuni1245-std,concepticon-1396,15.78,ʔotta,sharp,?otta
+clics-doculect-130-814,zuni1245-std,concepticon-1210,15.81,yukti,heavy,yukti
+clics-doculect-130-815,zuni1245-std,concepticon-1726,15.83,kˀʸi,"wet, damp",k?yi
+clics-doculect-130-816,zuni1245-std,concepticon-1398,15.84,kˀusa,dry,k?usa
+clics-doculect-130-817,zuni1245-std,concepticon-1286,15.85,kˀʸaɬi,hot,k?yali
+clics-doculect-130-818,zuni1245-std,concepticon-1232,15.851,yusu,warm,yusu
+clics-doculect-130-819,zuni1245-std,concepticon-1287,15.86,c̷ˀe,cold,c?e
+clics-doculect-130-820,zuni1245-std,concepticon-1230,15.88,ʔančiʔmowa,"dirty, soiled",?anci?mowa
+clics-doculect-130-821,zuni1245-std,concepticon-380,15.89,wikˀolīwe,wrinkled,wik?oliwe
+clics-doculect-130-822,zuni1245-std,concepticon-53,16.11,hapa,"soul, spirit",hapa
+clics-doculect-130-823,zuni1245-std,concepticon-1572,16.15,yučiʔa,"surprised, astonished",yuci?a
+clics-doculect-130-824,zuni1245-std,concepticon-720,16.18,ʔanikčiya,"good fortune, luck",?anikciya
+clics-doculect-130-825,zuni1245-std,concepticon-1495,16.23,kˀʸec̷c̷ana,"joyful, glad, happy",k?yeccana
+clics-doculect-130-826,zuni1245-std,concepticon-1355,16.25,šikʷi,laugh,sikwi
+clics-doculect-130-827,zuni1245-std,concepticon-1451,16.251,šikʷi,smile,sikwi
+clics-doculect-130-828,zuni1245-std,concepticon-1413,16.26,ʔikˀoša,play,?ik?osa
+clics-doculect-130-829,zuni1245-std,concepticon-923,16.27,ʔičema,love,?icema
+clics-doculect-130-830,zuni1245-std,concepticon-578,16.29,c̷ˀupɬi,kiss,c?upli
+clics-doculect-130-831,zuni1245-std,concepticon-928,16.3,kˀʸeškʷi,embrace,k?yeskwi
+clics-doculect-130-832,zuni1245-std,concepticon-1783,16.31,ʔuwe,pain,?uwe
+clics-doculect-130-833,zuni1245-std,concepticon-1000,16.33,c̷eʔma,"anxiety, worry",ce?ma
+clics-doculect-130-834,zuni1245-std,concepticon-1141,16.35,ʔankoʔhati,pity,?anko?hati
+clics-doculect-130-835,zuni1245-std,concepticon-1839,16.37,tuwowokˀʸa,"cry, weep",tuwowok?ya
+clics-doculect-130-836,zuni1245-std,concepticon-716,16.39,yuɬamiččo,groan,yulamicco
+clics-doculect-130-837,zuni1245-std,concepticon-1607,16.41,ʔayyukˀʸaɬi,hate,?ayyuk?yali
+clics-doculect-130-838,zuni1245-std,concepticon-82,16.42,ʔikʸa,anger,?ikya
+clics-doculect-130-839,zuni1245-std,concepticon-40,16.44,ʔočoma,"envy, jealousy",?ocoma
+clics-doculect-130-840,zuni1245-std,concepticon-174,16.48,ʔanc̷ʔuhma,proud,?anc?uhma
+clics-doculect-130-841,zuni1245-std,concepticon-1779,16.51,ʔeɬʔe,dare,?el?e
+clics-doculect-130-842,zuni1245-std,concepticon-3,16.52,yoc̷c̷ikkˀʸa,brave,yoccikk?ya
+clics-doculect-130-843,zuni1245-std,concepticon-781,16.53,ʔattana,"fear, fright",?attana
+clics-doculect-130-844,zuni1245-std,concepticon-1810,16.54,ʔattanni,danger,?attanni
+clics-doculect-130-845,zuni1245-std,concepticon-1784,16.62,ʔalima,"desire, want",?alima
+clics-doculect-130-846,zuni1245-std,concepticon-1750,16.622,ʔakšiha,choose,?aksiha
+clics-doculect-130-847,zuni1245-std,concepticon-1657,16.66,ʔelleya,true,?elleya
+clics-doculect-130-848,zuni1245-std,concepticon-601,16.67,yosēwe,"lie, tell lies",yosewe
+clics-doculect-130-849,zuni1245-std,concepticon-601,16.67,yosekˀʸē,"lie, tell lies",yosek?ye
+clics-doculect-130-850,zuni1245-std,concepticon-1035,16.71,kˀokši,good,k?oksi
+clics-doculect-130-851,zuni1245-std,concepticon-1292,16.72,poča,bad,poca
+clics-doculect-130-852,zuni1245-std,concepticon-1725,16.73,lesnu,"right, correct",lesnu
+clics-doculect-130-853,zuni1245-std,concepticon-1390,16.74,tekˀʸayaɬaʔu,wrong,tek?yayala?u
+clics-doculect-130-854,zuni1245-std,concepticon-134,16.76,c̷eʔmakʷinnakʸa,fault,ce?makwinnakya
+clics-doculect-130-855,zuni1245-std,concepticon-1293,16.77,koʔtilewu,"mistake, error",ko?tilewu
+clics-doculect-130-856,zuni1245-std,concepticon-381,16.78,ʔahkˀʸa,blame,?ahk?ya
+clics-doculect-130-857,zuni1245-std,concepticon-1427,16.81,c̷oʔya,beautiful,co?ya
+clics-doculect-130-858,zuni1245-std,concepticon-1548,16.82,ʔayyac̷a,ugly,?ayyaca
+clics-doculect-130-859,zuni1245-std,concepticon-1415,17.13,c̷eʔma,think (= reflect),ce?ma
+clics-doculect-130-860,zuni1245-std,concepticon-1513,17.14,c̷eʔma,think (= be of the opinion),ce?ma
+clics-doculect-130-861,zuni1245-std,concepticon-1890,17.15,ʔiɬtema,believe,?iltema
+clics-doculect-130-862,zuni1245-std,concepticon-1536,17.16,yuʔhētu,understand,yu?hetu
+clics-doculect-130-863,zuni1245-std,concepticon-1410,17.17,ʔanikʷa,know,?anikwa
+clics-doculect-130-864,zuni1245-std,concepticon-1410,17.17,ʔannapi,know,?annapi
+clics-doculect-130-865,zuni1245-std,concepticon-1932,17.171,ʔanʔawa,guess,?an?awa
+clics-doculect-130-866,zuni1245-std,concepticon-117,17.172,kˀʸeya,imitate,k?yeya
+clics-doculect-130-867,zuni1245-std,concepticon-698,17.21,yayyuʔyāna,wise,yayyu?yana
+clics-doculect-130-868,zuni1245-std,concepticon-1518,17.22,yayyuʔyānʔamme,"foolish, stupid",yayyu?yan?amme
+clics-doculect-130-869,zuni1245-std,concepticon-1899,17.23,wiʔwi,"insane, crazy",wi?wi
+clics-doculect-130-870,zuni1245-std,concepticon-504,17.24,yanikʷati,learn,yanikwati
+clics-doculect-130-871,zuni1245-std,concepticon-709,17.25,ʔanikkˀʸa,teach,?anikk?ya
+clics-doculect-130-872,zuni1245-std,concepticon-1038,17.27,c̷ˀināyanikkˀʸēnona,teacher,c?inayanikk?yenona
+clics-doculect-130-873,zuni1245-std,concepticon-707,17.31,ʔanʔawa,remember,?an?awa
+clics-doculect-130-874,zuni1245-std,concepticon-1523,17.32,tommiyo,forget,tommiyo
+clics-doculect-130-875,zuni1245-std,concepticon-1523,17.32,tettomāyo,forget,tettomayo
+clics-doculect-130-876,zuni1245-std,concepticon-509,17.37,ʔelleya,"sure, certain",?elleya
+clics-doculect-130-877,zuni1245-std,concepticon-584,17.47,teni,difficult,teni
+clics-doculect-130-878,zuni1245-std,concepticon-1812,17.48,ʔiteʔču,"try, attempt",?ite?cu
+clics-doculect-130-879,zuni1245-std,concepticon-1577,17.51,tāp,and,tap
+clics-doculect-130-880,zuni1245-std,concepticon-1577,17.51,s,and,s
+clics-doculect-130-881,zuni1245-std,concepticon-1157,17.52,ʔakkʸa,because,?akkya
+clics-doculect-130-882,zuni1245-std,concepticon-1459,17.53,čiš,if,cis
+clics-doculect-130-883,zuni1245-std,concepticon-1014,17.54,hapiš,or,hapis
+clics-doculect-130-884,zuni1245-std,concepticon-1268,17.55,hayi,"yes, affirmative",hayi
+clics-doculect-130-885,zuni1245-std,concepticon-1268,17.55,ʔe,"yes, affirmative",?e
+clics-doculect-130-886,zuni1245-std,concepticon-1269,17.56,ʔeɬɬa,"no, negative",?ella
+clics-doculect-130-887,zuni1245-std,concepticon-1239,17.61,koʔpi,how?,ko?pi
+clics-doculect-130-888,zuni1245-std,concepticon-1239,17.61,koppi,how?,koppi
+clics-doculect-130-889,zuni1245-std,concepticon-822,17.62,kōwiʔpi,how many?,kowi?pi
+clics-doculect-130-890,zuni1245-std,concepticon-531,17.63,kōwiʔpi,how much?,kowi?pi
+clics-doculect-130-891,zuni1245-std,concepticon-1236,17.64,koʔpi,what?,ko?pi
+clics-doculect-130-892,zuni1245-std,concepticon-1236,17.64,koppi,what?,koppi
+clics-doculect-130-893,zuni1245-std,concepticon-1238,17.65,kʸākˀʸipi,when?,kyak?yipi
+clics-doculect-130-894,zuni1245-std,concepticon-1237,17.66,hoppi,where?,hoppi
+clics-doculect-130-895,zuni1245-std,concepticon-727,17.67,hokˀʸampi,which?,hok?yampi
+clics-doculect-130-896,zuni1245-std,concepticon-1235,17.68,čuwapi,who?,cuwapi
+clics-doculect-130-897,zuni1245-std,concepticon-1270,17.69,koplāti,why?,koplati
+clics-doculect-130-898,zuni1245-std,concepticon-1363,18.11,pena,voice,pena
+clics-doculect-130-899,zuni1245-std,concepticon-1261,18.12,tenʔu,sing,ten?u
+clics-doculect-130-900,zuni1245-std,concepticon-715,18.13,weʔa,"shout, cry out",we?a
+clics-doculect-130-901,zuni1245-std,concepticon-55,18.15,šakʷakʷa,whisper,sakwakwa
+clics-doculect-130-902,zuni1245-std,concepticon-128,18.16,ʔumumu,mumble,?umumu
+clics-doculect-130-903,zuni1245-std,concepticon-1025,18.17,saʔsa,whistle,sa?sa
+clics-doculect-130-904,zuni1245-std,concepticon-298,18.18,čʔewowo,"shriek, screech",c?ewowo
+clics-doculect-130-905,zuni1245-std,concepticon-526,18.19,tuwowokˀʸa,howl,tuwowok?ya
+clics-doculect-130-906,zuni1245-std,concepticon-1623,18.21,pen,"speak, talk",pen
+clics-doculect-130-907,zuni1245-std,concepticon-1866,18.211,penʔīnē,"stutter, stammer",pen?ine
+clics-doculect-130-908,zuni1245-std,concepticon-1458,18.22,ʔikʷa,say,?ikwa
+clics-doculect-130-909,zuni1245-std,concepticon-1711,18.221,ʔatinē,tell story,?atine
+clics-doculect-130-910,zuni1245-std,concepticon-48,18.23,telokkˀʸana,silent (be),telokk?yana
+clics-doculect-130-911,zuni1245-std,concepticon-1599,18.26,pena,word,pena
+clics-doculect-130-912,zuni1245-std,concepticon-1405,18.28,šiʔi,name,si?i
+clics-doculect-130-913,zuni1245-std,concepticon-1309,18.31,yaɬa,"ask (question, inquire)",yala
+clics-doculect-130-914,zuni1245-std,concepticon-1275,18.32,ʔansewahkˀʸa,answer,?ansewahk?ya
+clics-doculect-130-915,zuni1245-std,concepticon-2022,18.33,moɬaʔpen,"admit, confess",mola?pen
+clics-doculect-130-916,zuni1245-std,concepticon-755,18.34,yalih,deny,yalih
+clics-doculect-130-917,zuni1245-std,concepticon-755,18.34,yališ,deny,yalis
+clics-doculect-130-918,zuni1245-std,concepticon-1828,18.35,hakkˀʸa,"ask, request",hakk?ya
+clics-doculect-130-919,zuni1245-std,concepticon-1675,18.36,ʔeletoknaʔhaytoš,promise,?eletokna?haytos
+clics-doculect-130-920,zuni1245-std,concepticon-83,18.38,ʔipanaye,forbid,?ipanaye
+clics-doculect-130-921,zuni1245-std,concepticon-83,18.38,ʔayyutenkʸa,forbid,?ayyutenkya
+clics-doculect-130-922,zuni1245-std,concepticon-299,18.39,ʔanhemmoti,"rebuke, scold",?anhemmoti
+clics-doculect-130-923,zuni1245-std,concepticon-299,18.39,ʔinapē,"rebuke, scold",?inape
+clics-doculect-130-924,zuni1245-std,concepticon-1084,18.41,šema,call (=summon),sema
+clics-doculect-130-925,zuni1245-std,concepticon-9,18.43,weʔaččoy,announce,we?accoy
+clics-doculect-130-926,zuni1245-std,concepticon-648,18.56,c̷ˀina,paper,c?ina
+clics-doculect-130-927,zuni1245-std,concepticon-777,18.71,pūpuna,flute,pupuna
+clics-doculect-130-928,zuni1245-std,concepticon-908,18.72,tomtona,drum,tomtona
+clics-doculect-130-929,zuni1245-std,concepticon-2136,18.73,pūpuna,"horn, trumpet",pupuna
+clics-doculect-130-930,zuni1245-std,concepticon-300,18.74,c̷iʔmo,rattle,ci?mo
+clics-doculect-130-931,zuni1245-std,concepticon-1300,19.11,ʔulohna,country,?ulohna
+clics-doculect-130-932,zuni1245-std,concepticon-1010,19.17,paɬto,boundary,palto
+clics-doculect-130-933,zuni1245-std,concepticon-302,19.23,ʔannoti,"tribe, clan",?annoti
+clics-doculect-130-934,zuni1245-std,concepticon-301,19.24,ʔanʔuɬɬamossʔona,"chief, chieftain",?an?ullamoss?ona
+clics-doculect-130-935,zuni1245-std,concepticon-301,19.24,tāpūpu,"chief, chieftain",tapupu
+clics-doculect-130-936,zuni1245-std,concepticon-1296,19.25,tamteɬna,"staff, walking stick",tamtelna
+clics-doculect-130-937,zuni1245-std,concepticon-812,19.42,wo,slave,wo
+clics-doculect-130-938,zuni1245-std,concepticon-255,19.43,wo,servant,wo
+clics-doculect-130-939,zuni1245-std,concepticon-1635,19.46,hatiyāw,obey,hatiyaw
+clics-doculect-130-940,zuni1245-std,concepticon-1003,19.47,ʔansewaha,"let, permit",?ansewaha
+clics-doculect-130-941,zuni1245-std,concepticon-1325,19.51,kuwaye,"friend, companion",kuwaye
+clics-doculect-130-942,zuni1245-std,concepticon-1358,19.52,ʔinākʷe,enemy,?inakwe
+clics-doculect-130-943,zuni1245-std,concepticon-791,19.55,čuhoɬti,stranger,cuholti
+clics-doculect-130-944,zuni1245-std,concepticon-1897,19.58,ʔansatto,"help, aid",?ansatto
+clics-doculect-130-945,zuni1245-std,concepticon-1747,19.61,haytošnāwe,custom,haytosnawe
+clics-doculect-130-946,zuni1245-std,concepticon-1848,19.62,ʔīyanapē,"strife, quarrel",?iyanape
+clics-doculect-130-947,zuni1245-std,concepticon-1848,19.62,ʔīwolē,"strife, quarrel",?iwole
+clics-doculect-130-948,zuni1245-std,concepticon-1941,20.17,sontālīkʷe,soldier,sontalikwe
+clics-doculect-130-949,zuni1245-std,concepticon-1941,20.17,sontālu,soldier,sontalu
+clics-doculect-130-950,zuni1245-std,concepticon-994,20.24,piʔɬa,bow,pi?la
+clics-doculect-130-951,zuni1245-std,concepticon-977,20.25,šo,arrow,so
+clics-doculect-130-952,zuni1245-std,concepticon-945,20.26,lansa,spear,lansa
+clics-doculect-130-953,zuni1245-std,concepticon-1566,20.28,towoʔʔana,"gun, cannon",towo??ana
+clics-doculect-130-954,zuni1245-std,concepticon-1064,20.34,ʔalla,shield,?alla
+clics-doculect-130-955,zuni1245-std,concepticon-1072,20.47,yatenaʔkʸanʔuččukˀona,"captive, prisoner",yatena?kyan?uccuk?ona
+clics-doculect-130-956,zuni1245-std,concepticon-1072,20.47,wo,"captive, prisoner",wo
+clics-doculect-130-957,zuni1245-std,concepticon-1940,20.471,yupačˀona,"guard, sentinel",yupac?ona
+clics-doculect-130-958,zuni1245-std,concepticon-1858,20.51,wopkˀʸališēnʔona,fisherman,wopk?yalisen?ona
+clics-doculect-130-959,zuni1245-std,concepticon-1074,20.52,kˀʸaššitokkʸaniʔc̷ˀikˀo,fishhook,k?yassitokkyani?c?ik?o
+clics-doculect-130-960,zuni1245-std,concepticon-1435,20.61,ɬata,hunt,lata
+clics-doculect-130-961,zuni1245-std,concepticon-1172,20.62,ɬaku,shoot,laku
+clics-doculect-130-962,zuni1245-std,concepticon-1172,20.62,towo,shoot,towo
+clics-doculect-130-963,zuni1245-std,concepticon-1068,21.15,koɬta,court,kolta
+clics-doculect-130-964,zuni1245-std,concepticon-1144,21.23,ʔayyuʔyānākʷe,witness,?ayyu?yanakwe
+clics-doculect-130-965,zuni1245-std,concepticon-1281,21.39,ʔučču,"prison, jail",?uccu
+clics-doculect-130-966,zuni1245-std,concepticon-902,21.43,ʔoyemšišē,adultery,?oyemsise
+clics-doculect-130-967,zuni1245-std,concepticon-713,21.51,hanɬi,steal,hanli
+clics-doculect-130-968,zuni1245-std,concepticon-1160,21.52,kʷaʔaɬhanɬinʔona,thief,kwa?alhanlin?ona

@@ -1,0 +1,1727 @@
+ID,Language_ID,Feature_ID,IDS_Key,Value,Concept,IPA_UDECODE
+clics-doculect-27-1,sout2697-std,concepticon-965,1.1,дүнја,world,dunja
+clics-doculect-27-2,sout2697-std,concepticon-626,1.21,өлкә,"earth, land",olk@
+clics-doculect-27-3,sout2697-std,concepticon-1228,1.212,торпаг,"earth=ground, soil",torpag
+clics-doculect-27-4,sout2697-std,concepticon-2,1.213,тоз,dust,toz
+clics-doculect-27-5,sout2697-std,concepticon-640,1.214,палчыг,mud,palchyg
+clics-doculect-27-6,sout2697-std,concepticon-671,1.215,гум,sand,gum
+clics-doculect-27-7,sout2697-std,concepticon-2118,1.22,даг,"mountain, hill",dag
+clics-doculect-27-8,sout2697-std,concepticon-2118,1.22,тәпә,"mountain, hill",t@p@
+clics-doculect-27-9,sout2697-std,concepticon-618,1.222,гаја,"cliff, precipice",gaja
+clics-doculect-27-10,sout2697-std,concepticon-618,1.222,сылдырим,"cliff, precipice",syldyrim
+clics-doculect-27-11,sout2697-std,concepticon-652,1.23,дүзәнлик,"plain, field",duz@nlik
+clics-doculect-27-12,sout2697-std,concepticon-652,1.23,чөл,"plain, field",chol
+clics-doculect-27-13,sout2697-std,concepticon-921,1.24,вади,valley,vadi
+clics-doculect-27-14,sout2697-std,concepticon-622,1.25,ада,island,ada
+clics-doculect-27-15,sout2697-std,concepticon-166,1.26,гитә,mainland,git@
+clics-doculect-27-16,sout2697-std,concepticon-113,1.27,ғырағисаһил,shore,g'yrag'isahil
+clics-doculect-27-17,sout2697-std,concepticon-1155,1.28,мағара,cave,mag'ara
+clics-doculect-27-18,sout2697-std,concepticon-1155,1.28,капа,cave,kapa
+clics-doculect-27-19,sout2697-std,concepticon-1155,1.28,заға,cave,zag'a
+clics-doculect-27-20,sout2697-std,concepticon-948,1.31,су,water,su
+clics-doculect-27-21,sout2697-std,concepticon-1474,1.32,дәниз,sea,d@niz
+clics-doculect-27-22,sout2697-std,concepticon-258,1.322,сакит,calm (of sea),sakit
+clics-doculect-27-23,sout2697-std,concepticon-259,1.323,ҹошгун,rough (of sea),ch'oshgun
+clics-doculect-27-24,sout2697-std,concepticon-1768,1.324,көпүк,foam,kopuk
+clics-doculect-27-25,sout2697-std,concepticon-645,1.329,океан,ocean,okean
+clics-doculect-27-26,sout2697-std,concepticon-624,1.33,ҝөл,lake,k'ol
+clics-doculect-27-27,sout2697-std,concepticon-663,1.34,көрфәз,"gulf, bay",korf@z
+clics-doculect-27-28,sout2697-std,concepticon-663,1.34,бухта,"gulf, bay",bukhta
+clics-doculect-27-29,sout2697-std,concepticon-623,1.341,лагун,lagoon,lagun
+clics-doculect-27-30,sout2697-std,concepticon-660,1.342,риф,reef,rif
+clics-doculect-27-31,sout2697-std,concepticon-1662,1.343,бурун,"headland, point",burun
+clics-doculect-27-32,sout2697-std,concepticon-978,1.35,ләпә,wave,l@p@
+clics-doculect-27-33,sout2697-std,concepticon-978,1.35,далға,wave,dalg'a
+clics-doculect-27-34,sout2697-std,concepticon-891,1.352,дәнизахымы,tide,d@nizakhymy
+clics-doculect-27-35,sout2697-std,concepticon-891,1.352,јығымывәчәкилмә,tide,jyg'ymyv@ch@kilm@
+clics-doculect-27-36,sout2697-std,concepticon-1026,1.353,чәкилмә,lowtide,ch@kilm@
+clics-doculect-27-37,sout2697-std,concepticon-613,1.354,ахым,hightide,akhym
+clics-doculect-27-38,sout2697-std,concepticon-666,1.36,чай,"river, stream, brook",chai
+clics-doculect-27-39,sout2697-std,concepticon-666,1.36,сел,"river, stream, brook",sel
+clics-doculect-27-40,sout2697-std,concepticon-1982,1.362,ҝирдаб,whirlpool,k'irdab
+clics-doculect-27-41,sout2697-std,concepticon-1982,1.362,бурулған,whirlpool,burulg'an
+clics-doculect-27-42,sout2697-std,concepticon-2144,1.37,гајнаг,"spring, well",gajnag
+clics-doculect-27-43,sout2697-std,concepticon-2144,1.37,гују,"spring, well",guju
+clics-doculect-27-44,sout2697-std,concepticon-1145,1.38,батаглыг,swamp,bataglyg
+clics-doculect-27-45,sout2697-std,concepticon-943,1.39,шәлалә,waterfall,sh@lal@
+clics-doculect-27-46,sout2697-std,concepticon-420,1.41,мешә,"woods, forest",mesh@
+clics-doculect-27-48,sout2697-std,concepticon-1803,1.43,ағаҹ,wood,ag'ach'
+clics-doculect-27-49,sout2697-std,concepticon-1803,1.43,одун,wood,odun
+clics-doculect-27-50,sout2697-std,concepticon-2125,1.44,даш,"stone, rock",dash
+clics-doculect-27-51,sout2697-std,concepticon-2125,1.44,гаја,"stone, rock",gaja
+clics-doculect-27-52,sout2697-std,concepticon-6,1.45,зәлзәлә,earthquake,z@lz@l@
+clics-doculect-27-53,sout2697-std,concepticon-1732,1.51,ҝөј,sky,k'oj
+clics-doculect-27-54,sout2697-std,concepticon-1343,1.52,ҝүнәш,sun,k'un@sh
+clics-doculect-27-55,sout2697-std,concepticon-1343,1.52,күн,sun,kun
+clics-doculect-27-56,sout2697-std,concepticon-1313,1.53,ај,moon,aj
+clics-doculect-27-57,sout2697-std,concepticon-1430,1.54,улдуз,star,ulduz
+clics-doculect-27-58,sout2697-std,concepticon-1654,1.55,илдырым,lightning,ildyrym
+clics-doculect-27-59,sout2697-std,concepticon-1150,1.56,ҝөјҝурултусу,thunder,k'ojk'urultusu
+clics-doculect-27-60,sout2697-std,concepticon-2007,1.57,шимшәк,lightning (as striking),shimsh@k
+clics-doculect-27-61,sout2697-std,concepticon-858,1.58,фыртына,storm,fyrtyna
+clics-doculect-27-62,sout2697-std,concepticon-1733,1.59,ҝөјгуршағы,rainbow,k'ojgurshag'y
+clics-doculect-27-63,sout2697-std,concepticon-630,1.61,ишыг,light (noun),ishyg
+clics-doculect-27-64,sout2697-std,concepticon-630,1.61,нур,light (noun),nur
+clics-doculect-27-65,sout2697-std,concepticon-11,1.62,гаранлыг,darkness,garanlyg
+clics-doculect-27-66,sout2697-std,concepticon-11,1.62,зүлмәт,darkness,zulm@t
+clics-doculect-27-67,sout2697-std,concepticon-1388,1.63,көлҝә,"shade, shadow",kolk'@
+clics-doculect-27-68,sout2697-std,concepticon-1977,1.64,шеһ,dew,sheh
+clics-doculect-27-69,sout2697-std,concepticon-1977,1.64,шәбнәм,dew,sh@bn@m
+clics-doculect-27-70,sout2697-std,concepticon-27,1.71,һава,air,hava
+clics-doculect-27-71,sout2697-std,concepticon-960,1.72,күләк,wind,kul@k
+clics-doculect-27-72,sout2697-std,concepticon-960,1.72,јел,wind,jel
+clics-doculect-27-73,sout2697-std,concepticon-1489,1.73,булуд,cloud,bulud
+clics-doculect-27-74,sout2697-std,concepticon-1489,1.73,гарабулуд,cloud,garabulud
+clics-doculect-27-75,sout2697-std,concepticon-249,1.74,думан,fog,duman
+clics-doculect-27-76,sout2697-std,concepticon-249,1.74,сис,fog,sis
+clics-doculect-27-77,sout2697-std,concepticon-658,1.75,јағыш,rain (noun),jag'ysh
+clics-doculect-27-78,sout2697-std,concepticon-784,1.76,гар,snow (noun),gar
+clics-doculect-27-79,sout2697-std,concepticon-617,1.77,буз,ice,buz
+clics-doculect-27-80,sout2697-std,concepticon-617,1.77,бузбағлама,ice,buzbag'lama
+clics-doculect-27-81,sout2697-std,concepticon-952,1.78,һава,weather,hava
+clics-doculect-27-82,sout2697-std,concepticon-221,1.81,од,fire,od
+clics-doculect-27-83,sout2697-std,concepticon-889,1.82,алов,flame (noun),alov
+clics-doculect-27-84,sout2697-std,concepticon-778,1.83,түстү,smoke (noun),tustu
+clics-doculect-27-85,sout2697-std,concepticon-646,1.84,күл,ashes,kul
+clics-doculect-27-86,sout2697-std,concepticon-67,1.841,гызғынкөмүр,embers,gyzg'ynkomur
+clics-doculect-27-87,sout2697-std,concepticon-141,1.851,јандырмаг,burn (vb trans),jandyrmag
+clics-doculect-27-88,sout2697-std,concepticon-141,1.851,одламаг,burn (vb trans),odlamag
+clics-doculect-27-89,sout2697-std,concepticon-1428,1.852,јанмаг,burn (vb intrans),janmag
+clics-doculect-27-90,sout2697-std,concepticon-737,1.86,алышдырмаг,"light, kindle, ignite",alyshdyrmag
+clics-doculect-27-91,sout2697-std,concepticon-127,1.861,сөндүрмәк,extinguish,sondurm@k
+clics-doculect-27-92,sout2697-std,concepticon-1133,1.87,кибрит,match (noun),kibrit
+clics-doculect-27-93,sout2697-std,concepticon-10,1.88,одун,firewood,odun
+clics-doculect-27-94,sout2697-std,concepticon-1188,1.89,ағаҹкөмүрү,charcoal,ag'ach'komuru
+clics-doculect-27-95,sout2697-std,concepticon-683,2.1,адам,"person, human being",adam
+clics-doculect-27-96,sout2697-std,concepticon-683,2.1,шәхс,"person, human being",sh@khs
+clics-doculect-27-97,sout2697-std,concepticon-1554,2.21,киши,man (vs. woman),kishi
+clics-doculect-27-98,sout2697-std,concepticon-962,2.22,гадын,woman,gadyn
+clics-doculect-27-99,sout2697-std,concepticon-1553,2.23,еркәк,male,erk@k
+clics-doculect-27-100,sout2697-std,concepticon-1551,2.24,диши,female,dishi
+clics-doculect-27-101,sout2697-std,concepticon-1366,2.25,оғлан,boy,og'lan
+clics-doculect-27-102,sout2697-std,concepticon-76,2.251,ҹаваноғлан,young man (adolescent),ch'avanog'lan
+clics-doculect-27-103,sout2697-std,concepticon-1646,2.26,кичикгыз,girl,kichikgyz
+clics-doculect-27-104,sout2697-std,concepticon-77,2.261,ҹавангыз,young woman (adolescent),ch'avangyz
+clics-doculect-27-105,sout2697-std,concepticon-1304,2.27,бала,child,bala
+clics-doculect-27-106,sout2697-std,concepticon-1289,2.28,ушаг,"infant, baby",ushag
+clics-doculect-27-107,sout2697-std,concepticon-1289,2.28,көрпә,"infant, baby",korp@
+clics-doculect-27-108,sout2697-std,concepticon-1200,2.31,әр,husband,@r
+clics-doculect-27-109,sout2697-std,concepticon-1199,2.32,арвад,wife,arvad
+clics-doculect-27-110,sout2697-std,concepticon-203,2.33,евләнмәк,marry,evl@nm@k
+clics-doculect-27-111,sout2697-std,concepticon-203,2.33,әрәкетмәк,marry,@r@ketm@k
+clics-doculect-27-112,sout2697-std,concepticon-1259,2.34,тој,"marriage, wedding",toj
+clics-doculect-27-113,sout2697-std,concepticon-1259,2.34,кәбин,"marriage, wedding",k@bin
+clics-doculect-27-114,sout2697-std,concepticon-1134,2.341,ајрылма,divorce,ajrylma
+clics-doculect-27-115,sout2697-std,concepticon-1217,2.35,ата,father,ata
+clics-doculect-27-116,sout2697-std,concepticon-1216,2.36,ана,mother,ana
+clics-doculect-27-117,sout2697-std,concepticon-505,2.37,валидејнләр,parents,validejnl@r
+clics-doculect-27-118,sout2697-std,concepticon-505,2.37,атаана,parents,ataana
+clics-doculect-27-119,sout2697-std,concepticon-424,2.38,евли,married man,evli
+clics-doculect-27-120,sout2697-std,concepticon-426,2.39,әрли,married woman,@rli
+clics-doculect-27-121,sout2697-std,concepticon-1620,2.41,оғул,son,og'ul
+clics-doculect-27-122,sout2697-std,concepticon-1357,2.42,гыз,daughter,gyz
+clics-doculect-27-123,sout2697-std,concepticon-1801,2.43,өвладлар,offspring (son or daughter),ovladlar
+clics-doculect-27-124,sout2697-std,concepticon-1801,2.43,ушаглар,offspring (son or daughter),ushaglar
+clics-doculect-27-125,sout2697-std,concepticon-1262,2.44,гардаш,brother,gardash
+clics-doculect-27-126,sout2697-std,concepticon-1759,2.444,бөјүкгардаш,older brother,bojukgardash
+clics-doculect-27-127,sout2697-std,concepticon-1760,2.445,кичикгардаш,younger brother,kichikgardash
+clics-doculect-27-128,sout2697-std,concepticon-1263,2.45,баҹы,sister,bach'y
+clics-doculect-27-129,sout2697-std,concepticon-1758,2.454,бөјүкбаҹы,older sister,bojukbach'y
+clics-doculect-27-130,sout2697-std,concepticon-1761,2.455,кичикбаҹы,younger sister,kichikbach'y
+clics-doculect-27-131,sout2697-std,concepticon-1640,2.456,баҹыгардаш,sibling,bach'ygardash
+clics-doculect-27-132,sout2697-std,concepticon-1005,2.458,әкиз,twins,@kiz
+clics-doculect-27-133,sout2697-std,concepticon-1383,2.46,бабаҹан,grandfather,babach'an
+clics-doculect-27-134,sout2697-std,concepticon-406,2.461,гоҹакиши,old man,goch'akishi
+clics-doculect-27-135,sout2697-std,concepticon-1496,2.47,нәнә,grandmother,n@n@
+clics-doculect-27-136,sout2697-std,concepticon-907,2.471,гоҹаарвад,old woman,goch'aarvad
+clics-doculect-27-137,sout2697-std,concepticon-1618,2.48,нәвә,grandson,n@v@
+clics-doculect-27-138,sout2697-std,concepticon-1619,2.49,нәвә,granddaughter,n@v@
+clics-doculect-27-139,sout2697-std,concepticon-1327,2.51,әми,uncle,@mi
+clics-doculect-27-140,sout2697-std,concepticon-1327,2.51,дајы,uncle,dajy
+clics-doculect-27-141,sout2697-std,concepticon-1984,2.511,дајы,mother's brother,dajy
+clics-doculect-27-142,sout2697-std,concepticon-1985,2.512,әми,father's brother,@mi
+clics-doculect-27-143,sout2697-std,concepticon-1272,2.52,хала,aunt,khala
+clics-doculect-27-144,sout2697-std,concepticon-1272,2.52,биби,aunt,bibi
+clics-doculect-27-145,sout2697-std,concepticon-171,2.521,хала,mother's sister,khala
+clics-doculect-27-146,sout2697-std,concepticon-170,2.522,биби,father's sister,bibi
+clics-doculect-27-147,sout2697-std,concepticon-1063,2.53,гардашоғлу,nephew,gardashog'lu
+clics-doculect-27-148,sout2697-std,concepticon-1063,2.53,баҹыоғлу,nephew,bach'yog'lu
+clics-doculect-27-149,sout2697-std,concepticon-1642,2.54,гардашгызы,niece,gardashgyzy
+clics-doculect-27-150,sout2697-std,concepticon-1642,2.54,баҹыгызы,niece,bach'ygyzy
+clics-doculect-27-151,sout2697-std,concepticon-1643,2.55,дајыоғлу,cousin,dajyog'lu
+clics-doculect-27-152,sout2697-std,concepticon-1643,2.55,әмиоғлу,cousin,@miog'lu
+clics-doculect-27-153,sout2697-std,concepticon-1643,2.55,гызы,cousin,gyzy
+clics-doculect-27-154,sout2697-std,concepticon-1643,2.55,әмигызы,cousin,@migyzy
+clics-doculect-27-155,sout2697-std,concepticon-1643,2.55,дајы,cousin,dajy
+clics-doculect-27-156,sout2697-std,concepticon-1643,2.55,хала,cousin,khala
+clics-doculect-27-157,sout2697-std,concepticon-1669,2.56,атабаба,ancestors,atababa
+clics-doculect-27-158,sout2697-std,concepticon-490,2.57,нәвәнәтиҹә,descendants,n@v@n@tich'@
+clics-doculect-27-159,sout2697-std,concepticon-2255,2.61,гајыната,father-in-law (of a man),gajynata
+clics-doculect-27-160,sout2697-std,concepticon-2254,2.611,гајыната,father-in-law (of a woman),gajynata
+clics-doculect-27-161,sout2697-std,concepticon-2254,2.611,арвадынатасы,father-in-law (of a woman),arvadynatasy
+clics-doculect-27-162,sout2697-std,concepticon-2256,2.62,гајнана,mother-in-law (of a man),gajnana
+clics-doculect-27-163,sout2697-std,concepticon-2257,2.621,гајнана,mother-in-law (of a woman),gajnana
+clics-doculect-27-164,sout2697-std,concepticon-2257,2.621,арвадынанасы,mother-in-law (of a woman),arvadynanasy
+clics-doculect-27-165,sout2697-std,concepticon-2267,2.63,күрәкән,son-in-law (of a man),kur@k@n
+clics-doculect-27-166,sout2697-std,concepticon-2266,2.631,језнә,son-in-law (of a woman),jezn@
+clics-doculect-27-167,sout2697-std,concepticon-2265,2.64,ҝәлин,daughter-in-law (of a man),k'@lin
+clics-doculect-27-168,sout2697-std,concepticon-2264,2.641,гардашарвады,daughter-in-law (of a woman),gardasharvady
+clics-doculect-27-169,sout2697-std,concepticon-2264,2.641,гајынарвадыҝәлин,daughter-in-law (of a woman),gajynarvadyk'@lin
+clics-doculect-27-170,sout2697-std,concepticon-237,2.71,өкејата,stepfather,okejata
+clics-doculect-27-171,sout2697-std,concepticon-236,2.72,өкејана,stepmother,okejana
+clics-doculect-27-172,sout2697-std,concepticon-1059,2.73,өкејогул,stepson,okejogul
+clics-doculect-27-173,sout2697-std,concepticon-1058,2.74,өкејгыз,stepdaughter,okejgyz
+clics-doculect-27-174,sout2697-std,concepticon-1149,2.75,јетим,orphan,jetim
+clics-doculect-27-175,sout2697-std,concepticon-1756,2.76,дулгадын,widow,dulgadyn
+clics-doculect-27-176,sout2697-std,concepticon-1981,2.77,дулкиши,widower,dulkishi
+clics-doculect-27-177,sout2697-std,concepticon-1644,2.81,гоһумлар,"relatives, kinsmen",gohumlar
+clics-doculect-27-178,sout2697-std,concepticon-194,2.82,күлфәт,family,kulf@t
+clics-doculect-27-179,sout2697-std,concepticon-194,2.82,аилә,family,ail@
+clics-doculect-27-180,sout2697-std,concepticon-1209,2.91,мән,I,m@n
+clics-doculect-27-181,sout2697-std,concepticon-1215,2.92,сән,you (singular),s@n
+clics-doculect-27-182,sout2697-std,concepticon-1215,2.92,сиз,you (singular),siz
+clics-doculect-27-183,sout2697-std,concepticon-262,2.93,о,he/she/it,o
+clics-doculect-27-184,sout2697-std,concepticon-1212,2.94,биз,we,biz
+clics-doculect-27-185,sout2697-std,concepticon-1131,2.941,биз,we (inclusive),biz
+clics-doculect-27-186,sout2697-std,concepticon-1130,2.942,биз,we (exclusive),biz
+clics-doculect-27-187,sout2697-std,concepticon-1213,2.95,сиз,you (plural),siz
+clics-doculect-27-188,sout2697-std,concepticon-817,2.96,онлар,they,onlar
+clics-doculect-27-189,sout2697-std,concepticon-619,3.11,һејван,animal,hejvan
+clics-doculect-27-190,sout2697-std,concepticon-2261,3.12,кишиүчүн,male (adj),kishiuchun
+clics-doculect-27-191,sout2697-std,concepticon-2262,3.13,гадынүчүн,female (adj),gadynuchun
+clics-doculect-27-192,sout2697-std,concepticon-631,3.15,малгара,livestock,malgara
+clics-doculect-27-193,sout2697-std,concepticon-649,3.16,отлаг,pasture,otlag
+clics-doculect-27-194,sout2697-std,concepticon-263,3.18,чобан,herdsman,choban
+clics-doculect-27-195,sout2697-std,concepticon-263,3.18,нахырчы,herdsman,nakhyrchy
+clics-doculect-27-196,sout2697-std,concepticon-851,3.19,төвлә,"stable, stall",tovl@
+clics-doculect-27-197,sout2697-std,concepticon-851,3.19,бурдаг,"stable, stall",burdag
+clics-doculect-27-198,sout2697-std,concepticon-1153,3.2,гарамал,cattle (bovine),garamal
+clics-doculect-27-199,sout2697-std,concepticon-1008,3.21,өкүз,bull,okuz
+clics-doculect-27-200,sout2697-std,concepticon-1169,3.22,өкүз,ox,okuz
+clics-doculect-27-201,sout2697-std,concepticon-1007,3.23,инәк,cow,in@k
+clics-doculect-27-202,sout2697-std,concepticon-1989,3.24,бузов,calf,buzov
+clics-doculect-27-203,sout2697-std,concepticon-1331,3.25,гојун,sheep,gojun
+clics-doculect-27-204,sout2697-std,concepticon-1331,3.25,гоч,sheep,goch
+clics-doculect-27-205,sout2697-std,concepticon-1344,3.26,гоч,ram,goch
+clics-doculect-27-206,sout2697-std,concepticon-1345,3.28,гојун,ewe,gojun
+clics-doculect-27-207,sout2697-std,concepticon-820,3.29,гузу,lamb,guzu
+clics-doculect-27-208,sout2697-std,concepticon-1348,3.32,габан,boar,gaban
+clics-doculect-27-209,sout2697-std,concepticon-1351,3.34,донуз,sow,donuz
+clics-doculect-27-210,sout2697-std,concepticon-1351,3.34,аначедонуз,sow,anachedonuz
+clics-doculect-27-211,sout2697-std,concepticon-1337,3.35,донуз,pig,donuz
+clics-doculect-27-212,sout2697-std,concepticon-1502,3.36,кечи,goat,kechi
+clics-doculect-27-213,sout2697-std,concepticon-264,3.37,еркәккечи,he-goat,erk@kkechi
+clics-doculect-27-214,sout2697-std,concepticon-1972,3.38,кечибаласы,kid,kechibalasy
+clics-doculect-27-215,sout2697-std,concepticon-615,3.41,ат,horse (equine),at
+clics-doculect-27-216,sout2697-std,concepticon-936,3.42,ајғыр,stallion,ajg'yr
+clics-doculect-27-217,sout2697-std,concepticon-938,3.44,мадјан,mare,madjan
+clics-doculect-27-218,sout2697-std,concepticon-1647,3.45,гулан,"foal, colt",gulan
+clics-doculect-27-219,sout2697-std,concepticon-1862,3.46,ешшәк,"ass, donkey",eshsh@k
+clics-doculect-27-220,sout2697-std,concepticon-890,3.47,гатыр,mule,gatyr
+clics-doculect-27-221,sout2697-std,concepticon-265,3.5,евгушлары,fowl,evgushlary
+clics-doculect-27-222,sout2697-std,concepticon-1511,3.52,хоруз,"cock, rooster",khoruz
+clics-doculect-27-223,sout2697-std,concepticon-1514,3.54,тојуг,hen,tojug
+clics-doculect-27-224,sout2697-std,concepticon-1318,3.55,ҹүҹә,chicken,ch'uch'@
+clics-doculect-27-225,sout2697-std,concepticon-1318,3.55,чолпа,chicken,cholpa
+clics-doculect-27-226,sout2697-std,concepticon-1187,3.56,газ,goose,gaz
+clics-doculect-27-227,sout2697-std,concepticon-1360,3.57,өрдәк,duck,ord@k
+clics-doculect-27-228,sout2697-std,concepticon-539,3.58,јува,nest,juva
+clics-doculect-27-229,sout2697-std,concepticon-937,3.581,гуш,bird,gush
+clics-doculect-27-230,sout2697-std,concepticon-950,3.582,гағајы,seagull,gag'ajy
+clics-doculect-27-231,sout2697-std,concepticon-758,3.583,гуш,heron,gush
+clics-doculect-27-232,sout2697-std,concepticon-1905,3.584,гартал,eagle,gartal
+clics-doculect-27-233,sout2697-std,concepticon-307,3.585,гырғы,hawk,gyrg'y
+clics-doculect-27-234,sout2697-std,concepticon-307,3.585,шаһин,hawk,shahin
+clics-doculect-27-235,sout2697-std,concepticon-1185,3.586,ганадлыәждаһа,vulture,ganadly@zhdaha
+clics-doculect-27-236,sout2697-std,concepticon-1793,3.591,јараса,bat,jarasa
+clics-doculect-27-237,sout2697-std,concepticon-882,3.592,тутугушу,parrot,tutugushu
+clics-doculect-27-238,sout2697-std,concepticon-913,3.593,алагарға,crow,alagarg'a
+clics-doculect-27-239,sout2697-std,concepticon-1853,3.594,ҝөјәрчин,dove,k'oj@rchin
+clics-doculect-27-240,sout2697-std,concepticon-1853,3.594,дишиҝөјәрчин,dove,dishik'oj@rchin
+clics-doculect-27-241,sout2697-std,concepticon-735,3.596,бајгуш,owl,bajgush
+clics-doculect-27-242,sout2697-std,concepticon-735,3.596,јапалаг,owl,japalag
+clics-doculect-27-243,sout2697-std,concepticon-2009,3.61,ит,dog,it
+clics-doculect-27-244,sout2697-std,concepticon-1136,3.614,кролик,rabbit,krolik
+clics-doculect-27-245,sout2697-std,concepticon-1208,3.62,пишик,cat,pishik
+clics-doculect-27-246,sout2697-std,concepticon-309,3.622,кисәлисичовул,opossum,kis@lisichovul
+clics-doculect-27-247,sout2697-std,concepticon-2139,3.63,сичан,"mouse, rat",sichan
+clics-doculect-27-248,sout2697-std,concepticon-2139,3.63,сичовул,"mouse, rat",sichovul
+clics-doculect-27-249,sout2697-std,concepticon-227,3.65,балыг,fish,balyg
+clics-doculect-27-250,sout2697-std,concepticon-213,3.652,үзҝәҹ,fin (dorsal),uzk'@ch'
+clics-doculect-27-251,sout2697-std,concepticon-266,3.653,пул,fishscale,pul
+clics-doculect-27-252,sout2697-std,concepticon-266,3.653,ахча,fishscale,akhcha
+clics-doculect-27-253,sout2697-std,concepticon-266,3.653,хал,fishscale,khal
+clics-doculect-27-254,sout2697-std,concepticon-1916,3.654,гәлсәмә,gill,g@ls@m@
+clics-doculect-27-255,sout2697-std,concepticon-598,3.655,балыггулағы,shell,balyggulag'y
+clics-doculect-27-256,sout2697-std,concepticon-598,3.655,мәрҹангулу,shell,m@rch'angulu
+clics-doculect-27-257,sout2697-std,concepticon-1110,3.661,акула,shark,akula
+clics-doculect-27-258,sout2697-std,concepticon-1479,3.662,дәниздонузу,"porpoise, dolphin",d@nizdonuzu
+clics-doculect-27-259,sout2697-std,concepticon-1479,3.662,делфин,"porpoise, dolphin",delfin
+clics-doculect-27-260,sout2697-std,concepticon-957,3.663,кит,whale,kit
+clics-doculect-27-261,sout2697-std,concepticon-1910,3.664,јыртыҹыбалыг,stingray,jyrtych'ybalyg
+clics-doculect-27-262,sout2697-std,concepticon-1013,3.665,анҝвил,freshwater eel,ank'vil
+clics-doculect-27-263,sout2697-std,concepticon-1013,3.665,мозалансуфрәси,freshwater eel,mozalansufr@si
+clics-doculect-27-264,sout2697-std,concepticon-522,3.71,гурд,wolf,gurd
+clics-doculect-27-265,sout2697-std,concepticon-522,3.71,ҹанавар,wolf,ch'anavar
+clics-doculect-27-266,sout2697-std,concepticon-1386,3.72,шир,lion,shir
+clics-doculect-27-267,sout2697-std,concepticon-1820,3.73,ајы,bear,ajy
+clics-doculect-27-268,sout2697-std,concepticon-1312,3.74,түлкү,fox,tulku
+clics-doculect-27-269,sout2697-std,concepticon-1936,3.75,марал,deer,maral
+clics-doculect-27-270,sout2697-std,concepticon-1350,3.76,мејмун,monkey,mejmun
+clics-doculect-27-271,sout2697-std,concepticon-1290,3.77,фил,elephant,fil
+clics-doculect-27-272,sout2697-std,concepticon-1871,3.78,дәвә,camel,d@v@
+clics-doculect-27-273,sout2697-std,concepticon-620,3.81,һәшәрат,insect,h@sh@rat
+clics-doculect-27-274,sout2697-std,concepticon-1392,3.811,бит,louse,bit
+clics-doculect-27-275,sout2697-std,concepticon-267,3.812,сиркә,nit (louse egg),sirk@
+clics-doculect-27-276,sout2697-std,concepticon-232,3.813,бирә,flea,bir@
+clics-doculect-27-277,sout2697-std,concepticon-1974,3.814,чохајаглы,centipede,chokhajagly
+clics-doculect-27-278,sout2697-std,concepticon-1974,3.814,гырхајаг,centipede,gyrkhajag
+clics-doculect-27-279,sout2697-std,concepticon-1538,3.815,әгрәб,scorpion,@gr@b
+clics-doculect-27-280,sout2697-std,concepticon-1575,3.816,таракан,cockroach,tarakan
+clics-doculect-27-281,sout2697-std,concepticon-1575,3.816,мәтбәхбөчәји,cockroach,m@tb@khboch@ji
+clics-doculect-27-282,sout2697-std,concepticon-587,3.817,гарышга,ant,garyshga
+clics-doculect-27-283,sout2697-std,concepticon-843,3.818,һөрүмчәк,spider,horumch@k
+clics-doculect-27-284,sout2697-std,concepticon-1065,3.819,һөрүмчәктору,spider web,horumch@ktoru
+clics-doculect-27-285,sout2697-std,concepticon-665,3.82,ары,bee,ary
+clics-doculect-27-286,sout2697-std,concepticon-1931,3.821,мум,beeswax,mum
+clics-doculect-27-287,sout2697-std,concepticon-88,3.822,арытәкнәси,beehive,aryt@kn@si
+clics-doculect-27-288,sout2697-std,concepticon-1517,3.823,ары,wasp,ary
+clics-doculect-27-289,sout2697-std,concepticon-1504,3.83,милчәк,fly,milch@k
+clics-doculect-27-290,sout2697-std,concepticon-95,3.831,ағҹаганад,"sandfly (midge), gnat",ag'ch'aganad
+clics-doculect-27-291,sout2697-std,concepticon-95,3.831,мығмыға,"sandfly (midge), gnat",myg'myg'a
+clics-doculect-27-292,sout2697-std,concepticon-1509,3.832,ағҹаганад,mosquito,ag'ch'aganad
+clics-doculect-27-293,sout2697-std,concepticon-1219,3.84,гурд,worm,gurd
+clics-doculect-27-294,sout2697-std,concepticon-730,3.85,илан,snake,ilan
+clics-doculect-27-295,sout2697-std,concepticon-206,3.91,ишылдагуш,firefly,ishyldagush
+clics-doculect-27-296,sout2697-std,concepticon-1791,3.92,кәпнәк,butterfly,k@pn@k
+clics-doculect-27-297,sout2697-std,concepticon-607,3.93,шалаҹырҹырама,grasshopper,shalach'yrch'yrama
+clics-doculect-27-298,sout2697-std,concepticon-1543,3.94,илбиз,snail,ilbiz
+clics-doculect-27-299,sout2697-std,concepticon-503,3.95,гурбаға,frog,gurbag'a
+clics-doculect-27-300,sout2697-std,concepticon-632,3.96,кәртәнкәлә,lizard,k@rt@nk@l@
+clics-doculect-27-301,sout2697-std,concepticon-1857,3.97,тимсаһ,"crocodile, alligator",timsah
+clics-doculect-27-302,sout2697-std,concepticon-112,3.98,тысбаға,turtle,tysbag'a
+clics-doculect-27-303,sout2697-std,concepticon-1480,4.11,бәдән,body,b@d@n
+clics-doculect-27-304,sout2697-std,concepticon-763,4.12,дәри,"skin, hide",d@ri
+clics-doculect-27-305,sout2697-std,concepticon-2259,4.13,бәдән,flesh,b@d@n
+clics-doculect-27-306,sout2697-std,concepticon-2259,4.13,ҹисм,flesh,ch'ism
+clics-doculect-27-307,sout2697-std,concepticon-1040,4.14,сач,hair (head),sach
+clics-doculect-27-308,sout2697-std,concepticon-678,4.142,саггал,beard,saggal
+clics-doculect-27-309,sout2697-std,concepticon-189,4.144,түк,body hair,tuk
+clics-doculect-27-310,sout2697-std,concepticon-36,4.145,алынтүкү,pubic hair,alyntuku
+clics-doculect-27-311,sout2697-std,concepticon-576,4.146,кәпәк,dandruff,k@p@k
+clics-doculect-27-312,sout2697-std,concepticon-946,4.15,ган,blood,gan
+clics-doculect-27-313,sout2697-std,concepticon-525,4.151,вена,"vein, artery",vena
+clics-doculect-27-314,sout2697-std,concepticon-525,4.151,артерија,"vein, artery",arterija
+clics-doculect-27-315,sout2697-std,concepticon-525,4.151,дамар,"vein, artery",damar
+clics-doculect-27-316,sout2697-std,concepticon-1394,4.16,сүмүк,bone,sumuk
+clics-doculect-27-317,sout2697-std,concepticon-801,4.162,габырга,rib,gabyrga
+clics-doculect-27-318,sout2697-std,concepticon-1393,4.17,бујнуз,horn,bujnuz
+clics-doculect-27-319,sout2697-std,concepticon-1220,4.18,гујруг,tail,gujrug
+clics-doculect-27-320,sout2697-std,concepticon-1291,4.19,арха,back,arkha
+clics-doculect-27-321,sout2697-std,concepticon-1291,4.19,бел,back,bel
+clics-doculect-27-322,sout2697-std,concepticon-805,4.191,онурға,spine,onurg'a
+clics-doculect-27-323,sout2697-std,concepticon-805,4.191,белсүмүјү,spine,belsumuju
+clics-doculect-27-324,sout2697-std,concepticon-1256,4.2,баш,head,bash
+clics-doculect-27-325,sout2697-std,concepticon-1604,4.201,ҝиҹҝаһ,"side of head, temple",k'ich'k'ah
+clics-doculect-27-326,sout2697-std,concepticon-1605,4.202,кәллә,skull,k@ll@
+clics-doculect-27-327,sout2697-std,concepticon-1605,4.202,гафатасы,skull,gafatasy
+clics-doculect-27-328,sout2697-std,concepticon-1583,4.203,бејин,brain,bejin
+clics-doculect-27-329,sout2697-std,concepticon-1560,4.204,сифәт,face,sif@t
+clics-doculect-27-330,sout2697-std,concepticon-1560,4.204,үз,face,uz
+clics-doculect-27-331,sout2697-std,concepticon-123,4.205,алын,forehead,alyn
+clics-doculect-27-332,sout2697-std,concepticon-798,4.207,чәнә,jaw,ch@n@
+clics-doculect-27-333,sout2697-std,concepticon-1730,4.208,јанаг,cheek,janag
+clics-doculect-27-334,sout2697-std,concepticon-1510,4.209,чәнә,chin,ch@n@
+clics-doculect-27-335,sout2697-std,concepticon-1248,4.21,ҝөз,eye,k'oz
+clics-doculect-27-336,sout2697-std,concepticon-1173,4.212,гаш,eyebrow,gash
+clics-doculect-27-337,sout2697-std,concepticon-17,4.213,ҝөзгапағы,eyelid,k'ozgapag'y
+clics-doculect-27-338,sout2697-std,concepticon-1540,4.214,кирпик,eyelash,kirpik
+clics-doculect-27-339,sout2697-std,concepticon-1655,4.215,ҝөзләринигыјмаг,blink,k'ozl@rinigyjmag
+clics-doculect-27-340,sout2697-std,concepticon-1247,4.22,гулаг,ear,gulag
+clics-doculect-27-341,sout2697-std,concepticon-18,4.221,мәрҹәк,earlobe,m@rch'@k
+clics-doculect-27-342,sout2697-std,concepticon-32,4.222,күкүрд,earwax,kukurd
+clics-doculect-27-343,sout2697-std,concepticon-32,4.222,гулагчирки,earwax,gulagchirki
+clics-doculect-27-344,sout2697-std,concepticon-1221,4.23,бурун,nose,burun
+clics-doculect-27-345,sout2697-std,concepticon-1178,4.231,буруннаһијәси,nostril,burunnahij@si
+clics-doculect-27-346,sout2697-std,concepticon-208,4.232,селик,mucus (nasal),selik
+clics-doculect-27-347,sout2697-std,concepticon-208,4.232,фыртыг,mucus (nasal),fyrtyg
+clics-doculect-27-348,sout2697-std,concepticon-674,4.24,ағыз,mouth,ag'yz
+clics-doculect-27-349,sout2697-std,concepticon-73,4.241,димдик,beak,dimdik
+clics-doculect-27-350,sout2697-std,concepticon-478,4.25,додаг,lip,dodag
+clics-doculect-27-351,sout2697-std,concepticon-1205,4.26,дил,tongue,dil
+clics-doculect-27-352,sout2697-std,concepticon-1380,4.27,диш,tooth,dish
+clics-doculect-27-353,sout2697-std,concepticon-139,4.271,дишәти,gums,dish@ti
+clics-doculect-27-354,sout2697-std,concepticon-1049,4.272,азыдиш,molartooth,azydish
+clics-doculect-27-355,sout2697-std,concepticon-1333,4.28,бојун,neck,bojun
+clics-doculect-27-356,sout2697-std,concepticon-1347,4.281,пејсәр,nape of neck,pejs@r
+clics-doculect-27-357,sout2697-std,concepticon-1347,4.281,әнсә,nape of neck,@ns@
+clics-doculect-27-358,sout2697-std,concepticon-1346,4.29,боғаз,throat,bog'az
+clics-doculect-27-359,sout2697-std,concepticon-1346,4.29,удлаг,throat,udlag
+clics-doculect-27-360,sout2697-std,concepticon-1482,4.3,чијин,shoulder,chijin
+clics-doculect-27-361,sout2697-std,concepticon-172,4.301,күрәк,shoulderblade,kur@k
+clics-doculect-27-362,sout2697-std,concepticon-1994,4.302,көрпүҹүксүмүјү,collarbone,korpuch'uksumuju
+clics-doculect-27-363,sout2697-std,concepticon-1673,4.31,әл,arm,@l
+clics-doculect-27-364,sout2697-std,concepticon-1673,4.31,гол,arm,gol
+clics-doculect-27-365,sout2697-std,concepticon-1886,4.312,голтуг,armpit,goltug
+clics-doculect-27-366,sout2697-std,concepticon-981,4.32,дирсәк,elbow,dirs@k
+clics-doculect-27-367,sout2697-std,concepticon-799,4.321,биләк,wrist,bil@k
+clics-doculect-27-368,sout2697-std,concepticon-1277,4.33,әл,hand,@l
+clics-doculect-27-369,sout2697-std,concepticon-1183,4.331,овуҹ,palm of hand,ovuch'
+clics-doculect-27-370,sout2697-std,concepticon-1303,4.34,бармаг,finger,barmag
+clics-doculect-27-371,sout2697-std,concepticon-1781,4.342,башбармаг,thumb,bashbarmag
+clics-doculect-27-372,sout2697-std,concepticon-1258,4.344,дырнаг,fingernail,dyrnag
+clics-doculect-27-373,sout2697-std,concepticon-72,4.345,ҹајнаг,claw,ch'ajnag
+clics-doculect-27-374,sout2697-std,concepticon-1297,4.35,ајаг,leg,ajag
+clics-doculect-27-375,sout2697-std,concepticon-800,4.351,омба,thigh,omba
+clics-doculect-27-376,sout2697-std,concepticon-800,4.351,буд,thigh,bud
+clics-doculect-27-377,sout2697-std,concepticon-498,4.352,ајагбалдыры,calf of leg,ajagbaldyry
+clics-doculect-27-378,sout2697-std,concepticon-1371,4.36,диз,knee,diz
+clics-doculect-27-379,sout2697-std,concepticon-1301,4.37,ајағыналты,foot,ajag'ynalty
+clics-doculect-27-380,sout2697-std,concepticon-1301,4.37,пәнҹә,foot,p@nch'@
+clics-doculect-27-381,sout2697-std,concepticon-803,4.371,топуг,ankle,topug
+clics-doculect-27-382,sout2697-std,concepticon-980,4.372,дабан,heel,daban
+clics-doculect-27-383,sout2697-std,concepticon-318,4.374,из,footprint,iz
+clics-doculect-27-384,sout2697-std,concepticon-318,4.374,ајагизи,footprint,ajagizi
+clics-doculect-27-385,sout2697-std,concepticon-1389,4.38,бармаг,toe,barmag
+clics-doculect-27-386,sout2697-std,concepticon-1257,4.392,ганад,wing,ganad
+clics-doculect-27-387,sout2697-std,concepticon-1201,4.393,ләләк,feather,l@l@k
+clics-doculect-27-388,sout2697-std,concepticon-1592,4.4,дөшгәфәси,chest,doshg@f@si
+clics-doculect-27-389,sout2697-std,concepticon-1402,4.41,көкс,breast (of woman),koks
+clics-doculect-27-390,sout2697-std,concepticon-1402,4.41,синә,breast (of woman),sin@
+clics-doculect-27-391,sout2697-std,concepticon-796,4.412,мәмәҹик,"nipple, teat",m@m@ch'ik
+clics-doculect-27-392,sout2697-std,concepticon-154,4.42,јелин,udder,jelin
+clics-doculect-27-393,sout2697-std,concepticon-154,4.42,әмҹәк,udder,@mch'@k
+clics-doculect-27-394,sout2697-std,concepticon-1838,4.43,ҝөбәк,navel,k'ob@k
+clics-doculect-27-395,sout2697-std,concepticon-1223,4.44,үрәк,heart,ur@k
+clics-doculect-27-396,sout2697-std,concepticon-688,4.441,ағҹијәр,lung,ag'ch'ij@r
+clics-doculect-27-397,sout2697-std,concepticon-1224,4.45,гараҹијәр,liver,garach'ij@r
+clics-doculect-27-398,sout2697-std,concepticon-489,4.451,бөјрәк,kidney,bojr@k
+clics-doculect-27-399,sout2697-std,concepticon-1744,4.452,далаг,spleen,dalag
+clics-doculect-27-400,sout2697-std,concepticon-819,4.46,мәдә,stomach,m@d@
+clics-doculect-27-401,sout2697-std,concepticon-1991,4.461,бағырсаглар,"intestines, guts",bag'yrsaglar
+clics-doculect-27-402,sout2697-std,concepticon-1681,4.462,бел,waist,bel
+clics-doculect-27-403,sout2697-std,concepticon-1745,4.463,буд,hip,bud
+clics-doculect-27-404,sout2697-std,concepticon-834,4.464,сағры,buttocks,sag'ry
+clics-doculect-27-405,sout2697-std,concepticon-834,4.464,јан,buttocks,jan
+clics-doculect-27-406,sout2697-std,concepticon-804,4.47,ушалглыг,womb,ushalglyg
+clics-doculect-27-407,sout2697-std,concepticon-804,4.47,ағум,womb,ag'um
+clics-doculect-27-408,sout2697-std,concepticon-797,4.49,хаја,testicle,khaja
+clics-doculect-27-409,sout2697-std,concepticon-1407,4.51,нәфәс,"breathe, breath",n@f@s
+clics-doculect-27-410,sout2697-std,concepticon-1407,4.51,нәфәсалмаг,"breathe, breath",n@f@salmag
+clics-doculect-27-411,sout2697-std,concepticon-1028,4.52,әснәмәк,"yawn, gape",@sn@m@k
+clics-doculect-27-412,sout2697-std,concepticon-162,4.521,һычгырмаг,hiccough,hychgyrmag
+clics-doculect-27-413,sout2697-std,concepticon-879,4.53,өскүрмәк,cough,oskurm@k
+clics-doculect-27-414,sout2697-std,concepticon-1621,4.54,асгырмаг,sneeze,asgyrmag
+clics-doculect-27-415,sout2697-std,concepticon-126,4.55,тәрләмәк,perspire,t@rl@m@k
+clics-doculect-27-416,sout2697-std,concepticon-1440,4.56,түпүрҹәк,spit,tupurch'@k
+clics-doculect-27-417,sout2697-std,concepticon-1278,4.57,гусмаданәзабтәкмә,vomit,gusmadan@zabt@km@
+clics-doculect-27-418,sout2697-std,concepticon-1403,4.58,дишләмәк,bite,dishl@m@k
+clics-doculect-27-419,sout2697-std,concepticon-319,4.59,јаламаг,lick,jalamag
+clics-doculect-27-420,sout2697-std,concepticon-268,4.591,ағызсујунутөкмәк,dribble,ag'yzsujunutokm@k
+clics-doculect-27-421,sout2697-std,concepticon-1585,4.61,јатмаг,sleep,jatmag
+clics-doculect-27-422,sout2697-std,concepticon-1983,4.612,хорулдамаг,snore,khoruldamag
+clics-doculect-27-423,sout2697-std,concepticon-1920,4.62,арзуетмәк,dream,arzuetm@k
+clics-doculect-27-424,sout2697-std,concepticon-1920,4.62,јухуҝөрмәк,dream,jukhuk'orm@k
+clics-doculect-27-425,sout2697-std,concepticon-1602,4.63,ојанмаг,wake up,ojanmag
+clics-doculect-27-426,sout2697-std,concepticon-1159,4.64,газанданазадолмаг,break wind,gazandanazadolmag
+clics-doculect-27-427,sout2697-std,concepticon-592,4.65,ишәмәк,urinate,ish@m@k
+clics-doculect-27-428,sout2697-std,concepticon-676,4.66,нәҹисифразетмәк,defecate,n@ch'isifrazetm@k
+clics-doculect-27-429,sout2697-std,concepticon-1785,4.67,ҹинсиәлагәјәҝирмәк,have sexual intercourse,ch'insi@lag@j@k'irm@k
+clics-doculect-27-430,sout2697-std,concepticon-52,4.68,әсмәк,shiver,@sm@k
+clics-doculect-27-431,sout2697-std,concepticon-138,4.69,чиммәк,bathe,chimm@k
+clics-doculect-27-432,sout2697-std,concepticon-1152,4.71,доғмаг,beget (of father),dog'mag
+clics-doculect-27-433,sout2697-std,concepticon-1090,4.72,доғулмаг,born (to be),dog'ulmag
+clics-doculect-27-434,sout2697-std,concepticon-1123,4.73,һамилә,pregnant,hamil@
+clics-doculect-27-435,sout2697-std,concepticon-1087,4.732,һамиләолмаг,conceive,hamil@olmag
+clics-doculect-27-436,sout2697-std,concepticon-1422,4.74,јашамаг,"live, living, life",jashamag
+clics-doculect-27-437,sout2697-std,concepticon-1422,4.74,дири,"live, living, life",diri
+clics-doculect-27-438,sout2697-std,concepticon-1422,4.74,һәјат,"live, living, life",h@jat
+clics-doculect-27-439,sout2697-std,concepticon-1494,4.75,өлмәк,"die, dead",olm@k
+clics-doculect-27-440,sout2697-std,concepticon-1494,4.75,өлү,"die, dead",olu
+clics-doculect-27-441,sout2697-std,concepticon-1494,4.75,вәфатетмәк,"die, dead",v@fatetm@k
+clics-doculect-27-442,sout2697-std,concepticon-1904,4.751,судабатмышадам,drowned,sudabatmyshadam
+clics-doculect-27-443,sout2697-std,concepticon-1417,4.76,өлдүрмәк,kill,oldurm@k
+clics-doculect-27-444,sout2697-std,concepticon-767,4.77,мејит,corpse,mejit
+clics-doculect-27-445,sout2697-std,concepticon-1719,4.78,дәфнетмәк,bury (the dead),d@fnetm@k
+clics-doculect-27-446,sout2697-std,concepticon-1773,4.79,гәбир,"grave, tomb",g@bir
+clics-doculect-27-447,sout2697-std,concepticon-1773,4.79,мәзар,"grave, tomb",m@zar
+clics-doculect-27-448,sout2697-std,concepticon-785,4.81,гүдрәтли,"strong, mighty, powerful",gudr@tli
+clics-doculect-27-449,sout2697-std,concepticon-785,4.81,күҹлү,"strong, mighty, powerful",kuch'lu
+clics-doculect-27-450,sout2697-std,concepticon-785,4.81,гүввәтли,"strong, mighty, powerful",guvv@tli
+clics-doculect-27-451,sout2697-std,concepticon-1601,4.82,зәиф,weak,z@if
+clics-doculect-27-452,sout2697-std,concepticon-1601,4.82,арыг,weak,aryg
+clics-doculect-27-453,sout2697-std,concepticon-1601,4.82,ҹансыз,weak,ch'ansyz
+clics-doculect-27-454,sout2697-std,concepticon-1364,4.83,соьлале,"well, health",so'lale
+clics-doculect-27-455,sout2697-std,concepticon-1364,4.83,сағлам,"well, health",sag'lam
+clics-doculect-27-456,sout2697-std,concepticon-1364,4.83,сағламлыг,"well, health",sag'lamlyg
+clics-doculect-27-457,sout2697-std,concepticon-1847,4.84,хәстәлик,"sick, sickness",kh@st@lik
+clics-doculect-27-458,sout2697-std,concepticon-1847,4.84,хәстә,"sick, sickness",kh@st@
+clics-doculect-27-459,sout2697-std,concepticon-1534,4.841,гыздырма,fever,gyzdyrma
+clics-doculect-27-460,sout2697-std,concepticon-1534,4.841,һәрарәт,fever,h@rar@t
+clics-doculect-27-461,sout2697-std,concepticon-1957,4.842,ур,goiter,ur
+clics-doculect-27-462,sout2697-std,concepticon-1957,4.842,боғазуру,goiter,bog'azuru
+clics-doculect-27-463,sout2697-std,concepticon-102,4.843,сојугдәјмә,cold (catarrh),sojugd@jm@
+clics-doculect-27-464,sout2697-std,concepticon-1109,4.85,јара,"wound, sore",jara
+clics-doculect-27-465,sout2697-std,concepticon-1109,4.85,хора,"wound, sore",khora
+clics-doculect-27-466,sout2697-std,concepticon-1148,4.852,әзмә,bruise,@zm@
+clics-doculect-27-467,sout2697-std,concepticon-1148,4.852,зәдәләмә,bruise,z@d@l@m@
+clics-doculect-27-468,sout2697-std,concepticon-1903,4.853,шиш,swelling,shish
+clics-doculect-27-469,sout2697-std,concepticon-148,4.854,ҝиҹишмә,itch,k'ich'ishm@
+clics-doculect-27-470,sout2697-std,concepticon-1584,4.855,габар,blister,gabar
+clics-doculect-27-471,sout2697-std,concepticon-1584,4.855,сулуг,blister,sulug
+clics-doculect-27-472,sout2697-std,concepticon-793,4.856,чибан,boil (noun),chiban
+clics-doculect-27-473,sout2697-std,concepticon-1808,4.857,ирин,pus,irin
+clics-doculect-27-474,sout2697-std,concepticon-497,4.858,јарајери,scar,jarajeri
+clics-doculect-27-475,sout2697-std,concepticon-497,4.858,чапыг,scar,chapyg
+clics-doculect-27-476,sout2697-std,concepticon-499,4.86,мүалиҹәетмәк,"cure, heal",mualich'@etm@k
+clics-doculect-27-477,sout2697-std,concepticon-597,4.87,һәким,physician,h@kim
+clics-doculect-27-478,sout2697-std,concepticon-1372,4.88,дәрман,"medicine, drug",d@rman
+clics-doculect-27-479,sout2697-std,concepticon-655,4.89,зәһәр,poison,z@h@r
+clics-doculect-27-480,sout2697-std,concepticon-1757,4.91,јорғун,"tired, weary",jorg'un
+clics-doculect-27-481,sout2697-std,concepticon-168,4.912,истираһәтетмәк,rest,istirah@tetm@k
+clics-doculect-27-482,sout2697-std,concepticon-1564,4.92,тәнбәл,lazy,t@nb@l
+clics-doculect-27-483,sout2697-std,concepticon-1125,4.93,даз,bald,daz
+clics-doculect-27-484,sout2697-std,concepticon-320,4.94,ахсамаг,lame,akhsamag
+clics-doculect-27-485,sout2697-std,concepticon-996,4.95,кар,deaf,kar
+clics-doculect-27-486,sout2697-std,concepticon-1666,4.96,лал,mute,lal
+clics-doculect-27-487,sout2697-std,concepticon-1653,4.97,кор,blind,kor
+clics-doculect-27-488,sout2697-std,concepticon-1463,4.98,сәрхош,intoxicated,s@rkhosh
+clics-doculect-27-489,sout2697-std,concepticon-1463,4.98,кефли,intoxicated,kefli
+clics-doculect-27-490,sout2697-std,concepticon-590,4.99,лүт,"naked, bare",lut
+clics-doculect-27-491,sout2697-std,concepticon-590,4.99,чылпаг,"naked, bare",chylpag
+clics-doculect-27-492,sout2697-std,concepticon-1336,5.11,јемәк,eat,jem@k
+clics-doculect-27-493,sout2697-std,concepticon-256,5.12,јемәк,food,jem@k
+clics-doculect-27-494,sout2697-std,concepticon-269,5.121,судабишмиш,cooked,sudabishmish
+clics-doculect-27-495,sout2697-std,concepticon-1959,5.122,нәм,raw,n@m
+clics-doculect-27-496,sout2697-std,concepticon-1959,5.122,јаш,raw,jash
+clics-doculect-27-497,sout2697-std,concepticon-178,5.123,јетишмиш,ripe,jetishmish
+clics-doculect-27-498,sout2697-std,concepticon-178,5.123,јеткин,ripe,jetkin
+clics-doculect-27-499,sout2697-std,concepticon-1958,5.124,јашыл,"green, unripe",jashyl
+clics-doculect-27-500,sout2697-std,concepticon-1958,5.124,јетишмәмиш,"green, unripe",jetishm@mish
+clics-doculect-27-501,sout2697-std,concepticon-1958,5.124,кал,"green, unripe",kal
+clics-doculect-27-502,sout2697-std,concepticon-1728,5.125,ҹүрүк,rotten,ch'uruk
+clics-doculect-27-503,sout2697-std,concepticon-1401,5.13,ичмәк,drink,ichm@k
+clics-doculect-27-504,sout2697-std,concepticon-1864,5.14,аҹлыг,hunger,ach'lyg
+clics-doculect-27-505,sout2697-std,concepticon-199,5.141,аҹлыг,famine,ach'lyg
+clics-doculect-27-506,sout2697-std,concepticon-199,5.141,аҹотигта,famine,ach'otigta
+clics-doculect-27-507,sout2697-std,concepticon-848,5.15,сусузлуг,thirst,susuzlug
+clics-doculect-27-508,sout2697-std,concepticon-1421,5.16,сормаг,suck,sormag
+clics-doculect-27-509,sout2697-std,concepticon-1421,5.16,һопмаг,suck,hopmag
+clics-doculect-27-510,sout2697-std,concepticon-321,5.18,чејнәмәк,chew,chejn@m@k
+clics-doculect-27-511,sout2697-std,concepticon-897,5.181,удмаг,swallow,udmag
+clics-doculect-27-512,sout2697-std,concepticon-129,5.19,богмаг,choke,bogmag
+clics-doculect-27-513,sout2697-std,concepticon-1100,5.21,биширмәк,cook,bishirm@k
+clics-doculect-27-514,sout2697-std,concepticon-792,5.22,гајнатмаг,boil (vb),gajnatmag
+clics-doculect-27-515,sout2697-std,concepticon-2146,5.23,гызартмаг,"roast, fry",gyzartmag
+clics-doculect-27-516,sout2697-std,concepticon-183,5.24,биширмәк,bake,bishirm@k
+clics-doculect-27-517,sout2697-std,concepticon-1143,5.25,оҹаг,oven,och'ag
+clics-doculect-27-518,sout2697-std,concepticon-1462,5.26,ҝүвәҹ,"pot, cooking vessel",k'uv@ch'
+clics-doculect-27-519,sout2697-std,concepticon-1462,5.26,газанча,"pot, cooking vessel",gazancha
+clics-doculect-27-520,sout2697-std,concepticon-854,5.27,чајдан,kettle,chajdan
+clics-doculect-27-521,sout2697-std,concepticon-31,5.28,газан,pan,gazan
+clics-doculect-27-522,sout2697-std,concepticon-481,5.31,дөврә,dish,dovr@
+clics-doculect-27-523,sout2697-std,concepticon-481,5.31,нимчә,dish,nimch@
+clics-doculect-27-524,sout2697-std,concepticon-481,5.31,бошгаб,dish,boshgab
+clics-doculect-27-525,sout2697-std,concepticon-480,5.32,нимчә,plate,nimch@
+clics-doculect-27-526,sout2697-std,concepticon-480,5.32,бошгаб,plate,boshgab
+clics-doculect-27-527,sout2697-std,concepticon-1530,5.33,каса,bowl,kasa
+clics-doculect-27-528,sout2697-std,concepticon-270,5.34,сәһәнҝ,"pitcher, jug",s@h@nk'
+clics-doculect-27-529,sout2697-std,concepticon-270,5.34,бардаг,"pitcher, jug",bardag
+clics-doculect-27-530,sout2697-std,concepticon-476,5.35,пијалә,"cup, drinking vessel",pijal@
+clics-doculect-27-531,sout2697-std,concepticon-476,5.35,каса,"cup, drinking vessel",kasa
+clics-doculect-27-532,sout2697-std,concepticon-476,5.35,гәдәһ,"cup, drinking vessel",g@d@h
+clics-doculect-27-533,sout2697-std,concepticon-271,5.36,нәлбәки,saucer,n@lb@ki
+clics-doculect-27-534,sout2697-std,concepticon-1378,5.37,гашыг,spoon,gashyg
+clics-doculect-27-535,sout2697-std,concepticon-1352,5.38,бычаг,knife,bychag
+clics-doculect-27-536,sout2697-std,concepticon-337,5.39,чәнҝәл,fork,ch@nk'@l
+clics-doculect-27-537,sout2697-std,concepticon-272,5.391,маша,tongs,masha
+clics-doculect-27-538,sout2697-std,concepticon-272,5.391,кәлбәтин,tongs,k@lb@tin
+clics-doculect-27-539,sout2697-std,concepticon-1526,5.41,јемәјиалмаг,meal (a),jem@jialmag
+clics-doculect-27-540,sout2697-std,concepticon-1526,5.41,јемәк,meal (a),jem@k
+clics-doculect-27-541,sout2697-std,concepticon-1322,5.42,сәһәрјемәји,breakfast,s@h@rjem@ji
+clics-doculect-27-542,sout2697-std,concepticon-768,5.43,икинҹисәһәрјемәји,lunch,ikinch'is@h@rjem@ji
+clics-doculect-27-543,sout2697-std,concepticon-1833,5.44,наһар,dinner,nahar
+clics-doculect-27-544,sout2697-std,concepticon-1833,5.44,ҝүнортајемәји,dinner,k'unortajem@ji
+clics-doculect-27-545,sout2697-std,concepticon-1833,5.45,ахшамјемәји,supper,akhshamjem@ji
+clics-doculect-27-546,sout2697-std,concepticon-1833,5.45,шам,supper,sham
+clics-doculect-27-547,sout2697-std,concepticon-275,5.46,тәмизләмәк,peel,t@mizl@m@k
+clics-doculect-27-548,sout2697-std,concepticon-86,5.47,әләмәк,"sieve, strain",@l@m@k
+clics-doculect-27-549,sout2697-std,concepticon-86,5.47,сүзмәк,"sieve, strain",suzm@k
+clics-doculect-27-550,sout2697-std,concepticon-1767,5.48,сүртмәк,scrape,surtm@k
+clics-doculect-27-551,sout2697-std,concepticon-1767,5.48,овмаг,scrape,ovmag
+clics-doculect-27-552,sout2697-std,concepticon-2017,5.49,гарышдырмаг,"stir, mix",garyshdyrmag
+clics-doculect-27-553,sout2697-std,concepticon-1368,5.51,чөрәк,bread,chor@k
+clics-doculect-27-554,sout2697-std,concepticon-273,5.53,хәмир,dough,kh@mir
+clics-doculect-27-555,sout2697-std,concepticon-274,5.54,хәмирјоғурмаг,knead,kh@mirjog'urmag
+clics-doculect-27-556,sout2697-std,concepticon-1594,5.55,ун,"meal, flour",un
+clics-doculect-27-557,sout2697-std,concepticon-1033,5.56,әзмәк,"crush, grind",@zm@k
+clics-doculect-27-558,sout2697-std,concepticon-1033,5.56,хырдаламаг,"crush, grind",khyrdalamag
+clics-doculect-27-559,sout2697-std,concepticon-636,5.57,дәјирман,mill,d@jirman
+clics-doculect-27-560,sout2697-std,concepticon-224,5.58,һәвәнҝдәстә,mortar,h@v@nk'd@st@
+clics-doculect-27-561,sout2697-std,concepticon-225,5.59,дәстҹик,pestle,d@stch'ik
+clics-doculect-27-562,sout2697-std,concepticon-634,5.61,әт,meat,@t
+clics-doculect-27-563,sout2697-std,concepticon-1874,5.63,колбаса,sausage,kolbasa
+clics-doculect-27-564,sout2697-std,concepticon-1874,5.63,сосиска,sausage,sosiska
+clics-doculect-27-565,sout2697-std,concepticon-1547,5.64,суп,"soup, broth",sup
+clics-doculect-27-566,sout2697-std,concepticon-1547,5.64,шорба,"soup, broth",shorba
+clics-doculect-27-567,sout2697-std,concepticon-924,5.65,тәрәвәз,vegetables,t@r@v@z
+clics-doculect-27-568,sout2697-std,concepticon-832,5.66,пахла,bean,pakhla
+clics-doculect-27-569,sout2697-std,concepticon-593,5.7,картоф,potato,kartof
+clics-doculect-27-570,sout2697-std,concepticon-1507,5.71,мејвә,fruit,mejv@
+clics-doculect-27-571,sout2697-std,concepticon-1966,5.712,салхым,bunch,salkhym
+clics-doculect-27-572,sout2697-std,concepticon-1966,5.712,дәстә,bunch,d@st@
+clics-doculect-27-573,sout2697-std,concepticon-322,5.75,әнҹир,fig,@nch'ir
+clics-doculect-27-574,sout2697-std,concepticon-322,5.75,әнҹирағаҹы,fig,@nch'irag'ach'y
+clics-doculect-27-575,sout2697-std,concepticon-920,5.76,үзүм,grape,uzum
+clics-doculect-27-576,sout2697-std,concepticon-191,5.77,гоз,nut,goz
+clics-doculect-27-577,sout2697-std,concepticon-1154,5.78,зејтун,olive,zejtun
+clics-doculect-27-578,sout2697-std,concepticon-1154,5.78,зејтунағаҹы,olive,zejtunag'ach'y
+clics-doculect-27-579,sout2697-std,concepticon-1484,5.79,биткијағы,oil,bitkijag'y
+clics-doculect-27-580,sout2697-std,concepticon-323,5.791,пиј,"grease, fat",pij
+clics-doculect-27-581,sout2697-std,concepticon-1274,5.81,дуз,salt,duz
+clics-doculect-27-582,sout2697-std,concepticon-1385,5.82,истиот,pepper,istiot
+clics-doculect-27-583,sout2697-std,concepticon-919,5.821,аҹыистиот,chili pepper,ach'yistiot
+clics-doculect-27-584,sout2697-std,concepticon-942,5.84,бал,honey,bal
+clics-doculect-27-585,sout2697-std,concepticon-862,5.85,гәнд,sugar,g@nd
+clics-doculect-27-586,sout2697-std,concepticon-635,5.86,сүд,milk (noun),sud
+clics-doculect-27-587,sout2697-std,concepticon-93,5.87,сағмаг,milk (vb),sag'mag
+clics-doculect-27-588,sout2697-std,concepticon-1569,5.88,пендир,cheese,pendir
+clics-doculect-27-589,sout2697-std,concepticon-1245,5.89,кәрәјағы,butter,k@r@jag'y
+clics-doculect-27-590,sout2697-std,concepticon-731,5.9,ички,"beverage, drink",ichki
+clics-doculect-27-591,sout2697-std,concepticon-941,5.91,балшәрабы,mead,balsh@raby
+clics-doculect-27-592,sout2697-std,concepticon-1524,5.92,шәраб,wine,sh@rab
+clics-doculect-27-593,sout2697-std,concepticon-1524,5.92,чахыр,wine,chakhyr
+clics-doculect-27-594,sout2697-std,concepticon-1639,5.93,пивә,beer,piv@
+clics-doculect-27-595,sout2697-std,concepticon-404,5.94,брага,fermented drink,braga
+clics-doculect-27-596,sout2697-std,concepticon-744,5.97,јумурта,egg,jumurta
+clics-doculect-27-597,sout2697-std,concepticon-1556,5.971,јумуртасарысы,egg yolk,jumurtasarysy
+clics-doculect-27-598,sout2697-std,concepticon-158,6.11,ҝејиндирмәк,put on (clothes),k'ejindirm@k
+clics-doculect-27-599,sout2697-std,concepticon-158,6.11,ҝејинмәк,put on (clothes),k'ejinm@k
+clics-doculect-27-600,sout2697-std,concepticon-1895,6.12,палтар,"clothing, clothes",paltar
+clics-doculect-27-601,sout2697-std,concepticon-881,6.13,дәрзи,tailor,d@rzi
+clics-doculect-27-602,sout2697-std,concepticon-1616,6.21,парча,cloth,parcha
+clics-doculect-27-603,sout2697-std,concepticon-1616,6.21,маһуд,cloth,mahud
+clics-doculect-27-604,sout2697-std,concepticon-964,6.22,јун,wool,jun
+clics-doculect-27-605,sout2697-std,concepticon-964,6.22,јунпарча,wool,junparcha
+clics-doculect-27-606,sout2697-std,concepticon-916,6.23,кәтан,"linen, flax",k@tan
+clics-doculect-27-607,sout2697-std,concepticon-1850,6.24,памбыг,cotton,pambyg
+clics-doculect-27-608,sout2697-std,concepticon-1850,6.24,парча,cotton,parcha
+clics-doculect-27-609,sout2697-std,concepticon-1641,6.25,ипәк,silk,ip@k
+clics-doculect-27-610,sout2697-std,concepticon-325,6.27,кечә,felt,kech@
+clics-doculect-27-611,sout2697-std,concepticon-325,6.27,фетр,felt,fetr
+clics-doculect-27-612,sout2697-std,concepticon-580,6.28,хәз,fur,kh@z
+clics-doculect-27-613,sout2697-std,concepticon-629,6.29,дәри,leather,d@ri
+clics-doculect-27-614,sout2697-std,concepticon-121,6.31,гулагларыныҹүтләмәк,spin,gulaglarynych'utl@m@k
+clics-doculect-27-615,sout2697-std,concepticon-121,6.31,әјирмәк,spin,@jirm@k
+clics-doculect-27-616,sout2697-std,concepticon-277,6.32,иј,spindle,ij
+clics-doculect-27-617,sout2697-std,concepticon-277,6.32,ох,spindle,okh
+clics-doculect-27-618,sout2697-std,concepticon-133,6.33,һөрмәк,weave,horm@k
+clics-doculect-27-619,sout2697-std,concepticon-1787,6.34,тохумадәзҝаһы,loom,tokhumad@zk'ahy
+clics-doculect-27-620,sout2697-std,concepticon-1457,6.35,тикмәк,sew,tikm@k
+clics-doculect-27-621,sout2697-std,concepticon-1382,6.36,ијнә,needle,ijn@
+clics-doculect-27-622,sout2697-std,concepticon-278,6.37,биз,awl,biz
+clics-doculect-27-623,sout2697-std,concepticon-1161,6.38,сап,thread,sap
+clics-doculect-27-624,sout2697-std,concepticon-157,6.39,боја,dye,boja
+clics-doculect-27-625,sout2697-std,concepticon-326,6.41,бүрүнҹәк,cloak,burunch'@k
+clics-doculect-27-626,sout2697-std,concepticon-326,6.41,плаш,cloak,plash
+clics-doculect-27-627,sout2697-std,concepticon-327,6.411,пончо,poncho,poncho
+clics-doculect-27-628,sout2697-std,concepticon-474,6.42,гадынкөјнәји,woman's dress,gadynkojn@ji
+clics-doculect-27-629,sout2697-std,concepticon-603,6.43,палто,coat,palto
+clics-doculect-27-630,sout2697-std,concepticon-1622,6.44,көјнәк,shirt,kojn@k
+clics-doculect-27-631,sout2697-std,concepticon-2012,6.45,јахалыг,collar,jakhalyg
+clics-doculect-27-632,sout2697-std,concepticon-2012,6.45,јаха,collar,jakha
+clics-doculect-27-633,sout2697-std,concepticon-1600,6.46,јубка,skirt,jubka
+clics-doculect-27-634,sout2697-std,concepticon-328,6.461,јарпагјубкасы,grass-skirt,jarpagjubkasy
+clics-doculect-27-635,sout2697-std,concepticon-809,6.48,шалвар,trousers,shalvar
+clics-doculect-27-636,sout2697-std,concepticon-329,6.49,ҹораб,"stocking, sock",ch'orab
+clics-doculect-27-637,sout2697-std,concepticon-1381,6.51,туфли,shoe,tufli
+clics-doculect-27-638,sout2697-std,concepticon-585,6.52,ботинка,boot,botinka
+clics-doculect-27-639,sout2697-std,concepticon-585,6.52,чәкмә,boot,ch@km@
+clics-doculect-27-640,sout2697-std,concepticon-875,6.54,чәкмәчи,"shoemaker, cobbler",ch@km@chi
+clics-doculect-27-641,sout2697-std,concepticon-2130,6.55,шлјапа,"hat, cap",shljapa
+clics-doculect-27-642,sout2697-std,concepticon-772,6.57,кәмәр,"belt, girdle",k@m@r
+clics-doculect-27-643,sout2697-std,concepticon-772,6.57,тогга,"belt, girdle",togga
+clics-doculect-27-644,sout2697-std,concepticon-867,6.58,әлҹәк,glove,@lch'@k
+clics-doculect-27-645,sout2697-std,concepticon-1151,6.59,тор,veil,tor
+clics-doculect-27-646,sout2697-std,concepticon-1151,6.59,дуваг,veil,duvag
+clics-doculect-27-647,sout2697-std,concepticon-1851,6.61,ҹиб,pocket,ch'ib
+clics-doculect-27-648,sout2697-std,concepticon-757,6.62,дүјмә,button,dujm@
+clics-doculect-27-649,sout2697-std,concepticon-64,6.63,санҹаг,pin,sanch'ag
+clics-doculect-27-650,sout2697-std,concepticon-917,6.71,бәзәмә,"ornament, adornment",b@z@m@
+clics-doculect-27-651,sout2697-std,concepticon-917,6.71,нахыш,"ornament, adornment",nakhysh
+clics-doculect-27-652,sout2697-std,concepticon-917,6.71,бәзәкәшјалары,"ornament, adornment",b@z@k@shjalary
+clics-doculect-27-653,sout2697-std,concepticon-1029,6.72,гијмәтлидаш,jewel,gijm@tlidash
+clics-doculect-27-654,sout2697-std,concepticon-1029,6.72,зәрҝәрликмаллары,jewel,z@rk'@rlikmallary
+clics-doculect-27-655,sout2697-std,concepticon-1374,6.73,үзүк,ring (for finger),uzuk
+clics-doculect-27-656,sout2697-std,concepticon-1754,6.74,голбаг,bracelet,golbag
+clics-doculect-27-657,sout2697-std,concepticon-1754,6.74,биләрзик,bracelet,bil@rzik
+clics-doculect-27-658,sout2697-std,concepticon-1961,6.75,мунҹуг,necklace,munch'ug
+clics-doculect-27-659,sout2697-std,concepticon-1961,6.75,бојунбағы,necklace,bojunbag'y
+clics-doculect-27-660,sout2697-std,concepticon-1860,6.76,мунҹугдәнәси,bead,munch'ugd@n@si
+clics-doculect-27-661,sout2697-std,concepticon-770,6.77,сырға,earring,syrg'a
+clics-doculect-27-662,sout2697-std,concepticon-770,6.77,тәнә,earring,t@n@
+clics-doculect-27-663,sout2697-std,concepticon-330,6.78,папаг,"headband, headdress",papag
+clics-doculect-27-664,sout2697-std,concepticon-330,6.78,башҝејими,"headband, headdress",bashk'ejimi
+clics-doculect-27-665,sout2697-std,concepticon-68,6.79,татуировка,tattoo,tatuirovka
+clics-doculect-27-666,sout2697-std,concepticon-332,6.81,ҹибдәсмалы,"handkerchief, rag",ch'ibd@smaly
+clics-doculect-27-667,sout2697-std,concepticon-1021,6.82,дәсмал,towel,d@smal
+clics-doculect-27-668,sout2697-std,concepticon-1021,6.82,мәһрәба,towel,m@hr@ba
+clics-doculect-27-669,sout2697-std,concepticon-1475,6.91,дараг,comb,darag
+clics-doculect-27-670,sout2697-std,concepticon-1475,6.91,шана,comb,shana
+clics-doculect-27-671,sout2697-std,concepticon-1821,6.92,дараг,brush,darag
+clics-doculect-27-672,sout2697-std,concepticon-333,6.921,һөрүк,braid,horuk
+clics-doculect-27-673,sout2697-std,concepticon-151,6.93,үлҝүҹ,razor,ulk'uch'
+clics-doculect-27-674,sout2697-std,concepticon-1926,6.94,маз,ointment,maz
+clics-doculect-27-675,sout2697-std,concepticon-1926,6.94,мәлһәм,ointment,m@lh@m
+clics-doculect-27-676,sout2697-std,concepticon-788,6.95,сабун,soap,sabun
+clics-doculect-27-677,sout2697-std,concepticon-1171,6.96,ҝүзҝү,mirror,k'uzk'u
+clics-doculect-27-678,sout2697-std,concepticon-1171,6.96,ајна,mirror,ajna
+clics-doculect-27-679,sout2697-std,concepticon-363,7.11,јашамаг,"dwell, live",jashamag
+clics-doculect-27-680,sout2697-std,concepticon-1252,7.12,ев,house,ev
+clics-doculect-27-681,sout2697-std,concepticon-1678,7.13,кома,hut,koma
+clics-doculect-27-682,sout2697-std,concepticon-1678,7.13,дахма,hut,dakhma
+clics-doculect-27-683,sout2697-std,concepticon-403,7.131,јајлагеви,garden-house,jajlagevi
+clics-doculect-27-684,sout2697-std,concepticon-1316,7.14,чадыр,tent,chadyr
+clics-doculect-27-685,sout2697-std,concepticon-736,7.15,талвар,"yard, court",talvar
+clics-doculect-27-686,sout2697-std,concepticon-408,7.16,кишиләреви,men's house,kishil@revi
+clics-doculect-27-687,sout2697-std,concepticon-334,7.17,мәтбәх,cookhouse,m@tb@kh
+clics-doculect-27-688,sout2697-std,concepticon-335,7.18,јығынчагеви,meeting house,jyg'ynchagevi
+clics-doculect-27-689,sout2697-std,concepticon-1450,7.21,отаг,room,otag
+clics-doculect-27-690,sout2697-std,concepticon-1567,7.22,гапы,"door, gate",gapy
+clics-doculect-27-691,sout2697-std,concepticon-1567,7.22,дарваза,"door, gate",darvaza
+clics-doculect-27-692,sout2697-std,concepticon-80,7.221,чәпинә,"doorpost, jamb",ch@pin@
+clics-doculect-27-693,sout2697-std,concepticon-1596,7.23,килид,lock (noun),kilid
+clics-doculect-27-694,sout2697-std,concepticon-1596,7.23,гыфыл,lock (noun),gyfyl
+clics-doculect-27-695,sout2697-std,concepticon-1012,7.231,бағлама,"latch, door-bolt",bag'lama
+clics-doculect-27-696,sout2697-std,concepticon-1012,7.231,сијирмә,"latch, door-bolt",sijirm@
+clics-doculect-27-697,sout2697-std,concepticon-1472,7.24,ачар,key,achar
+clics-doculect-27-698,sout2697-std,concepticon-1375,7.25,пәнҹәрә,window,p@nch'@r@
+clics-doculect-27-699,sout2697-std,concepticon-1632,7.26,полдөшәмә,floor,poldosh@m@
+clics-doculect-27-700,sout2697-std,concepticon-933,7.27,дивар,wall,divar
+clics-doculect-27-701,sout2697-std,concepticon-185,7.31,бухары,fireplace,bukhary
+clics-doculect-27-702,sout2697-std,concepticon-859,7.32,оҹаг,stove,och'ag
+clics-doculect-27-703,sout2697-std,concepticon-859,7.32,печ,stove,pech
+clics-doculect-27-704,sout2697-std,concepticon-1305,7.33,баҹа,chimney,bach'a
+clics-doculect-27-705,sout2697-std,concepticon-1464,7.37,пилләкән,ladder,pill@k@n
+clics-doculect-27-706,sout2697-std,concepticon-1464,7.37,сөјкәмәнәрдиван,ladder,sojk@m@n@rdivan
+clics-doculect-27-707,sout2697-std,concepticon-1663,7.42,чарпајы,bed,charpajy
+clics-doculect-27-708,sout2697-std,concepticon-1044,7.421,јастыг,pillow,jastyg
+clics-doculect-27-709,sout2697-std,concepticon-1044,7.421,балыш,pillow,balysh
+clics-doculect-27-710,sout2697-std,concepticon-806,7.422,јорған,blanket,jorg'an
+clics-doculect-27-711,sout2697-std,concepticon-806,7.422,әдјал,blanket,@djal
+clics-doculect-27-712,sout2697-std,concepticon-1476,7.43,стул,chair,stul
+clics-doculect-27-713,sout2697-std,concepticon-1775,7.44,стол,table,stol
+clics-doculect-27-714,sout2697-std,concepticon-1775,7.44,маса,table,masa
+clics-doculect-27-715,sout2697-std,concepticon-2131,7.45,лампа,"lamp, torch",lampa
+clics-doculect-27-716,sout2697-std,concepticon-2131,7.45,фәнәр,"lamp, torch",f@n@r
+clics-doculect-27-717,sout2697-std,concepticon-1273,7.46,шам,candle,sham
+clics-doculect-27-718,sout2697-std,concepticon-745,7.47,рәф,shelf,r@f
+clics-doculect-27-719,sout2697-std,concepticon-745,7.47,тахча,shelf,takhcha
+clics-doculect-27-720,sout2697-std,concepticon-205,7.48,нов,trough,nov
+clics-doculect-27-721,sout2697-std,concepticon-205,7.48,навалча,trough,navalcha
+clics-doculect-27-722,sout2697-std,concepticon-769,7.51,дам,roof,dam
+clics-doculect-27-723,sout2697-std,concepticon-279,7.52,күләшдам,thatch,kul@shdam
+clics-doculect-27-724,sout2697-std,concepticon-280,7.53,сөкмә,ridgepole,sokm@
+clics-doculect-27-725,sout2697-std,concepticon-280,7.53,сөкүлмә,ridgepole,sokulm@
+clics-doculect-27-726,sout2697-std,concepticon-829,7.54,чаты,rafter,chaty
+clics-doculect-27-727,sout2697-std,concepticon-829,7.54,чатма,rafter,chatma
+clics-doculect-27-728,sout2697-std,concepticon-1132,7.55,тир,beam,tir
+clics-doculect-27-729,sout2697-std,concepticon-1132,7.55,көндәләнтир,beam,kond@l@ntir
+clics-doculect-27-730,sout2697-std,concepticon-281,7.56,сүтун,"post, pole",sutun
+clics-doculect-27-731,sout2697-std,concepticon-281,7.56,дирәк,"post, pole",dir@k
+clics-doculect-27-732,sout2697-std,concepticon-1227,7.57,тахта,board,takhta
+clics-doculect-27-733,sout2697-std,concepticon-876,7.58,алагапы,arch,alagapy
+clics-doculect-27-734,sout2697-std,concepticon-876,7.58,тағ,arch,tag'
+clics-doculect-27-735,sout2697-std,concepticon-877,7.61,бәнна,mason,b@nna
+clics-doculect-27-736,sout2697-std,concepticon-1006,7.62,кәрпиҹ,brick,k@rpich'
+clics-doculect-27-737,sout2697-std,concepticon-224,7.63,әһәнҝлимәһлул,mortar,@h@nk'lim@hlul
+clics-doculect-27-738,sout2697-std,concepticon-901,7.64,палчыгдантикилмиш,adobe,palchygdantikilmish
+clics-doculect-27-739,sout2697-std,concepticon-979,8.11,фермер,farmer,fermer
+clics-doculect-27-740,sout2697-std,concepticon-212,8.12,тарла,field (for cultivation),tarla
+clics-doculect-27-741,sout2697-std,concepticon-212,8.12,зәми,field (for cultivation),z@mi
+clics-doculect-27-742,sout2697-std,concepticon-586,8.13,бағ,garden,bag'
+clics-doculect-27-743,sout2697-std,concepticon-1541,8.15,јерибеҹәрмәк,"cultivate, till",jeribech'@rm@k
+clics-doculect-27-744,sout2697-std,concepticon-1690,8.16,һасар,fence,hasar
+clics-doculect-27-745,sout2697-std,concepticon-1690,8.16,чәпәр,fence,ch@p@r
+clics-doculect-27-746,sout2697-std,concepticon-2002,8.17,хәндәк,ditch,kh@nd@k
+clics-doculect-27-747,sout2697-std,concepticon-2002,8.17,канал,ditch,kanal
+clics-doculect-27-748,sout2697-std,concepticon-1921,8.21,шумламаг,plow,shumlamag
+clics-doculect-27-749,sout2697-std,concepticon-1794,8.212,әкинјери,furrow,@kinjeri
+clics-doculect-27-750,sout2697-std,concepticon-1794,8.212,шырым,furrow,shyrym
+clics-doculect-27-751,sout2697-std,concepticon-1418,8.22,дамҹыламаг,dig,damch'ylamag
+clics-doculect-27-752,sout2697-std,concepticon-1176,8.23,күрәк,spade,kur@k
+clics-doculect-27-753,sout2697-std,concepticon-1176,8.23,бел,spade,bel
+clics-doculect-27-754,sout2697-std,concepticon-1901,8.24,бел,shovel,bel
+clics-doculect-27-755,sout2697-std,concepticon-1901,8.24,хәкәндаз,shovel,kh@k@ndaz
+clics-doculect-27-756,sout2697-std,concepticon-284,8.25,тоха,hoe,tokha
+clics-doculect-27-757,sout2697-std,concepticon-284,8.25,кәрки,hoe,k@rki
+clics-doculect-27-758,sout2697-std,concepticon-337,8.26,чәнҝәл,fork,ch@nk'@l
+clics-doculect-27-759,sout2697-std,concepticon-337,8.26,јаба,fork,jaba
+clics-doculect-27-760,sout2697-std,concepticon-338,8.27,дырмыг,rake,dyrmyg
+clics-doculect-27-761,sout2697-std,concepticon-338,8.27,чәнҝ,rake,ch@nk'
+clics-doculect-27-762,sout2697-std,concepticon-1351,8.31,сапмәк,sow,sapm@k
+clics-doculect-27-763,sout2697-std,concepticon-1351,8.31,әкмәк,sow,@km@k
+clics-doculect-27-764,sout2697-std,concepticon-714,8.311,тохум,seed,tokhum
+clics-doculect-27-765,sout2697-std,concepticon-190,8.32,бичмәк,"mow, reap",bichm@k
+clics-doculect-27-766,sout2697-std,concepticon-190,8.32,чалмаг,"mow, reap",chalmag
+clics-doculect-27-767,sout2697-std,concepticon-2132,8.33,ораг,"sickle, scythe",orag
+clics-doculect-27-768,sout2697-std,concepticon-2132,8.33,дәрјаз,"sickle, scythe",d@rjaz
+clics-doculect-27-769,sout2697-std,concepticon-285,8.34,дөјмәк,thresh,dojm@k
+clics-doculect-27-770,sout2697-std,concepticon-223,8.35,ахма,threshing-floor,akhma
+clics-doculect-27-771,sout2697-std,concepticon-223,8.35,ҹәрәјан,threshing-floor,ch'@r@jan
+clics-doculect-27-772,sout2697-std,concepticon-611,8.41,мәһсул,"crop, harvest",m@hsul
+clics-doculect-27-773,sout2697-std,concepticon-605,8.42,тохум,"grain (barley, oats etc)",tokhum
+clics-doculect-27-774,sout2697-std,concepticon-605,8.42,дән,"grain (barley, oats etc)",d@n
+clics-doculect-27-775,sout2697-std,concepticon-1077,8.43,буғда,wheat,bug'da
+clics-doculect-27-776,sout2697-std,concepticon-932,8.44,арпа,barley,arpa
+clics-doculect-27-777,sout2697-std,concepticon-23,8.45,човдар,rye,chovdar
+clics-doculect-27-778,sout2697-std,concepticon-60,8.46,јулаф,oats,julaf
+clics-doculect-27-779,sout2697-std,concepticon-506,8.47,гарғыдалы,"maize, corn",garg'ydaly
+clics-doculect-27-780,sout2697-std,concepticon-926,8.48,дүјү,rice,duju
+clics-doculect-27-781,sout2697-std,concepticon-606,8.51,от,grass,ot
+clics-doculect-27-782,sout2697-std,concepticon-342,8.52,гуруот,hay,guruot
+clics-doculect-27-783,sout2697-std,concepticon-653,8.53,битки,plant (noun),bitki
+clics-doculect-27-784,sout2697-std,concepticon-1486,8.531,јетишдирмәк,plant (vb),jetishdirm@k
+clics-doculect-27-785,sout2697-std,concepticon-670,8.54,көк,root,kok
+clics-doculect-27-786,sout2697-std,concepticon-1531,8.55,будаг,branch,budag
+clics-doculect-27-787,sout2697-std,concepticon-628,8.56,јарпаг,leaf,jarpag
+clics-doculect-27-788,sout2697-std,concepticon-239,8.57,ҝүл,flower,k'ul
+clics-doculect-27-789,sout2697-std,concepticon-906,8.6,ағаҹ,tree,ag'ach'
+clics-doculect-27-790,sout2697-std,concepticon-644,8.61,палыд,oak,palyd
+clics-doculect-27-791,sout2697-std,concepticon-1950,8.62,фыстыг,beech,fystyg
+clics-doculect-27-792,sout2697-std,concepticon-1855,8.63,тозағаҹы,birch,tozag'ach'y
+clics-doculect-27-793,sout2697-std,concepticon-1740,8.64,шам,pine,sham
+clics-doculect-27-794,sout2697-std,concepticon-1915,8.65,күкнар,fir,kuknar
+clics-doculect-27-795,sout2697-std,concepticon-1915,8.65,ағшамағаҹы,fir,ag'shamag'ach'y
+clics-doculect-27-796,sout2697-std,concepticon-968,8.66,палыдгозасы,acorn,palydgozasy
+clics-doculect-27-797,sout2697-std,concepticon-343,8.67,үзүмтәнәки,vine,uzumt@n@ki
+clics-doculect-27-798,sout2697-std,concepticon-974,8.68,түтүн,tobacco,tutun
+clics-doculect-27-799,sout2697-std,concepticon-1689,8.69,түтүнтүстүсү,smoke (tobacco),tutuntustusu
+clics-doculect-27-800,sout2697-std,concepticon-1124,8.691,бору,pipe,boru
+clics-doculect-27-801,sout2697-std,concepticon-241,8.72,көтүк,tree stump,kotuk
+clics-doculect-27-802,sout2697-std,concepticon-344,8.73,ағаҹынҝөвдәси,tree trunk,ag'ach'ynk'ovd@si
+clics-doculect-27-803,sout2697-std,concepticon-409,8.74,һачабудаг,forked branch,hachabudag
+clics-doculect-27-804,sout2697-std,concepticon-1204,8.75,габыг,bark,gabyg
+clics-doculect-27-805,sout2697-std,concepticon-345,8.76,биткиширәси,sap,bitkishir@si
+clics-doculect-27-806,sout2697-std,concepticon-1181,8.81,палма,palm tree,palma
+clics-doculect-27-807,sout2697-std,concepticon-970,8.82,һиндгозуағаҹы,coconut,hindgozuag'ach'y
+clics-doculect-27-808,sout2697-std,concepticon-1126,8.83,ситрусмејвәси,citrus fruit,sitrusmejv@si
+clics-doculect-27-809,sout2697-std,concepticon-868,8.84,бананағаҹы,banana tree,bananag'ach'y
+clics-doculect-27-810,sout2697-std,concepticon-346,8.85,әнҹирағаҹы,banyan,@nch'irag'ach'y
+clics-doculect-27-811,sout2697-std,concepticon-159,8.91,батат,sweet potato,batat
+clics-doculect-27-812,sout2697-std,concepticon-410,8.912,батат,yam,batat
+clics-doculect-27-813,sout2697-std,concepticon-925,8.92,тапиока,"tapioca, manioc, cassava",tapioka
+clics-doculect-27-814,sout2697-std,concepticon-925,8.92,маниок,"tapioca, manioc, cassava",maniok
+clics-doculect-27-815,sout2697-std,concepticon-411,8.93,габаг,gourd,gabag
+clics-doculect-27-816,sout2697-std,concepticon-864,8.931,габаг,"pumpkin, squash",gabag
+clics-doculect-27-817,sout2697-std,concepticon-1927,8.94,бамбук,bamboo,bambuk
+clics-doculect-27-818,sout2697-std,concepticon-146,8.941,шәкәргамышы,sugar cane,sh@k@rgamyshy
+clics-doculect-27-819,sout2697-std,concepticon-348,8.96,балыгҹәһәннәми,fish poison (root),balygch'@h@nn@mi
+clics-doculect-27-820,sout2697-std,concepticon-33,8.97,ҝиҹиткән,nettle,k'ich'itk@n
+clics-doculect-27-821,sout2697-std,concepticon-641,8.98,ҝөбәләк,mushroom,k'ob@l@k
+clics-doculect-27-822,sout2697-std,concepticon-2575,9.11,етмәк,"do, make",etm@k
+clics-doculect-27-823,sout2697-std,concepticon-984,9.12,иш,work,ish
+clics-doculect-27-824,sout2697-std,concepticon-2004,9.14,әјмәк,bend,@jm@k
+clics-doculect-27-825,sout2697-std,concepticon-2004,9.14,гатламаг,bend,gatlamag
+clics-doculect-27-826,sout2697-std,concepticon-1470,9.15,чевирмәк,fold,chevirm@k
+clics-doculect-27-827,sout2697-std,concepticon-1470,9.15,јығмаг,fold,jyg'mag
+clics-doculect-27-828,sout2697-std,concepticon-1917,9.16,бағламаг,"tie, bind",bag'lamag
+clics-doculect-27-829,sout2697-std,concepticon-352,9.161,ачмаг,untie,achmag
+clics-doculect-27-830,sout2697-std,concepticon-1627,9.18,зәнҹир,chain,z@nch'ir
+clics-doculect-27-831,sout2697-std,concepticon-1218,9.19,ип,"rope, cord",ip
+clics-doculect-27-832,sout2697-std,concepticon-1218,9.19,кәндир,"rope, cord",k@ndir
+clics-doculect-27-833,sout2697-std,concepticon-760,9.192,дүјүн,knot (noun),dujun
+clics-doculect-27-834,sout2697-std,concepticon-2133,9.21,вурмаг,"strike (hit, beat)",vurmag
+clics-doculect-27-835,sout2697-std,concepticon-2133,9.21,дөјмәк,"strike (hit, beat)",dojm@k
+clics-doculect-27-836,sout2697-std,concepticon-354,9.211,јумруглавурмаг,pound with fist,jumruglavurmag
+clics-doculect-27-837,sout2697-std,concepticon-1432,9.22,кәсмәк,cut,k@sm@k
+clics-doculect-27-838,sout2697-std,concepticon-355,9.221,ихтисаретмәк,cut down,ikhtisaretm@k
+clics-doculect-27-839,sout2697-std,concepticon-355,9.221,гысалтмаг,cut down,gysaltmag
+clics-doculect-27-840,sout2697-std,concepticon-155,9.222,кәсмәк,"chop, hew",k@sm@k
+clics-doculect-27-841,sout2697-std,concepticon-155,9.222,чапмаг,"chop, hew",chapmag
+clics-doculect-27-842,sout2697-std,concepticon-1434,9.223,өлдүрмәк,stab,oldurm@k
+clics-doculect-27-843,sout2697-std,concepticon-1434,9.223,јармаг,stab,jarmag
+clics-doculect-27-844,sout2697-std,concepticon-1352,9.23,бычаг,knife,bychag
+clics-doculect-27-845,sout2697-std,concepticon-356,9.24,гајчы,"scissors, shears",gajchy
+clics-doculect-27-846,sout2697-std,concepticon-677,9.25,балта,ax,balta
+clics-doculect-27-847,sout2697-std,concepticon-290,9.251,кәрки,adze,k@rki
+clics-doculect-27-848,sout2697-std,concepticon-680,9.26,гырмаг,break,gyrmag
+clics-doculect-27-849,sout2697-std,concepticon-680,9.26,сындырмаг,break,syndyrmag
+clics-doculect-27-850,sout2697-std,concepticon-588,9.261,сындырылмыш,broken,syndyrylmysh
+clics-doculect-27-851,sout2697-std,concepticon-588,9.261,гырылмыш,broken,gyrylmysh
+clics-doculect-27-852,sout2697-std,concepticon-1437,9.27,јармаг,split,jarmag
+clics-doculect-27-853,sout2697-std,concepticon-1735,9.28,ҹырмаг,tear,ch'yrmag
+clics-doculect-27-854,sout2697-std,concepticon-1735,9.28,јыртмаг,tear,jyrtmag
+clics-doculect-27-855,sout2697-std,concepticon-291,9.29,дәринисыјырмаг,"flay, skin",d@rinisyjyrmag
+clics-doculect-27-856,sout2697-std,concepticon-1449,9.31,позмаг,"rub, wipe",pozmag
+clics-doculect-27-857,sout2697-std,concepticon-1449,9.31,силмәк,"rub, wipe",silm@k
+clics-doculect-27-858,sout2697-std,concepticon-214,9.32,дартмаг,stretch,dartmag
+clics-doculect-27-859,sout2697-std,concepticon-214,9.32,узатмаг,stretch,uzatmag
+clics-doculect-27-860,sout2697-std,concepticon-1455,9.33,чәкмәк,pull,ch@km@k
+clics-doculect-27-861,sout2697-std,concepticon-1455,9.33,дартмаг,pull,dartmag
+clics-doculect-27-862,sout2697-std,concepticon-38,9.34,јајмаг,spread out,jajmag
+clics-doculect-27-863,sout2697-std,concepticon-38,9.34,интишаретдирмәк,spread out,intisharetdirm@k
+clics-doculect-27-864,sout2697-std,concepticon-357,9.341,асмаг,hang up,asmag
+clics-doculect-27-865,sout2697-std,concepticon-1913,9.342,әзмәк,press,@zm@k
+clics-doculect-27-866,sout2697-std,concepticon-1913,9.342,басмаг,press,basmag
+clics-doculect-27-867,sout2697-std,concepticon-1414,9.343,сығмаг,"squeeze, wring",syg'mag
+clics-doculect-27-868,sout2697-std,concepticon-1487,9.35,төкмәк,pour,tokm@k
+clics-doculect-27-869,sout2697-std,concepticon-1487,9.35,төкүлмәк,pour,tokulm@k
+clics-doculect-27-870,sout2697-std,concepticon-1453,9.36,јумаг,wash,jumag
+clics-doculect-27-871,sout2697-std,concepticon-230,9.37,сүпүрмәк,sweep,supurm@k
+clics-doculect-27-872,sout2697-std,concepticon-245,9.38,сүпүркә,broom,supurk@
+clics-doculect-27-873,sout2697-std,concepticon-1361,9.422,аләт,tool,al@t
+clics-doculect-27-874,sout2697-std,concepticon-1042,9.43,дүлҝәр,carpenter,dulk'@r
+clics-doculect-27-875,sout2697-std,concepticon-1840,9.44,тикмәк,build,tikm@k
+clics-doculect-27-876,sout2697-std,concepticon-1501,9.46,дешик,bore,deshik
+clics-doculect-27-877,sout2697-std,concepticon-46,9.461,дешмәк,hollow out,deshm@k
+clics-doculect-27-878,sout2697-std,concepticon-46,9.461,ојмаг,hollow out,ojmag
+clics-doculect-27-879,sout2697-std,concepticon-1948,9.48,мишар,saw,mishar
+clics-doculect-27-880,sout2697-std,concepticon-1948,9.48,бычгы,saw,bychgy
+clics-doculect-27-881,sout2697-std,concepticon-1481,9.49,чәкич,hammer,ch@kich
+clics-doculect-27-882,sout2697-std,concepticon-502,9.5,мисмар,nail,mismar
+clics-doculect-27-883,sout2697-std,concepticon-502,9.5,мых,nail,mykh
+clics-doculect-27-884,sout2697-std,concepticon-1069,9.56,јапышган,glue,japyshgan
+clics-doculect-27-885,sout2697-std,concepticon-1001,9.6,дәмирчи,"smith, blacksmith",d@mirchi
+clics-doculect-27-886,sout2697-std,concepticon-288,9.61,дәмирчихана,forge,d@mirchikhana
+clics-doculect-27-887,sout2697-std,concepticon-1648,9.62,зиндан,anvil,zindan
+clics-doculect-27-888,sout2697-std,concepticon-211,9.63,төкмәк,cast (metals),tokm@k
+clics-doculect-27-889,sout2697-std,concepticon-211,9.63,гәлибәтөкмә,cast (metals),g@lib@tokm@
+clics-doculect-27-890,sout2697-std,concepticon-1369,9.64,гызыл,gold,gyzyl
+clics-doculect-27-891,sout2697-std,concepticon-759,9.65,ҝүмүш,silver,k'umush
+clics-doculect-27-892,sout2697-std,concepticon-1825,9.66,јез,"copper, bronze",jez
+clics-doculect-27-893,sout2697-std,concepticon-1825,9.66,тунҹ,"copper, bronze",tunch'
+clics-doculect-27-894,sout2697-std,concepticon-621,9.67,дәмир,iron,d@mir
+clics-doculect-27-895,sout2697-std,concepticon-627,9.68,гурғушун,lead (noun),gurg'ushun
+clics-doculect-27-896,sout2697-std,concepticon-358,9.69,тәнәкә,"tin, tinplate",t@n@k@
+clics-doculect-27-897,sout2697-std,concepticon-358,9.69,ағдәмир,"tin, tinplate",ag'd@mir
+clics-doculect-27-898,sout2697-std,concepticon-359,9.71,дулусчу,potter,duluschu
+clics-doculect-27-899,sout2697-std,concepticon-289,9.72,формаламаг,mold (clay etc),formalamag
+clics-doculect-27-900,sout2697-std,concepticon-289,9.72,гәлибләмәк,mold (clay etc),g@libl@m@k
+clics-doculect-27-901,sout2697-std,concepticon-1399,9.73,палчыг,clay,palchyg
+clics-doculect-27-902,sout2697-std,concepticon-604,9.74,шүшә,glass,shush@
+clics-doculect-27-903,sout2697-std,concepticon-604,9.74,ајна,glass,ajna
+clics-doculect-27-904,sout2697-std,concepticon-1729,9.75,тохумаг,"weave, plait",tokhumag
+clics-doculect-27-905,sout2697-std,concepticon-1729,9.75,һөрмәк,"weave, plait",horm@k
+clics-doculect-27-906,sout2697-std,concepticon-1539,9.76,сәбәт,basket,s@b@t
+clics-doculect-27-907,sout2697-std,concepticon-195,9.77,һәсир,mat,h@sir
+clics-doculect-27-908,sout2697-std,concepticon-292,9.771,халча,rug,khalcha
+clics-doculect-27-909,sout2697-std,concepticon-292,9.771,шал,rug,shal
+clics-doculect-27-910,sout2697-std,concepticon-293,9.78,торлусумка,netbag,torlusumka
+clics-doculect-27-911,sout2697-std,concepticon-1971,9.79,јелпик,fan (noun),jelpik
+clics-doculect-27-912,sout2697-std,concepticon-1971,9.79,јелпәјән,fan (noun),jelp@j@n
+clics-doculect-27-913,sout2697-std,concepticon-360,9.791,тәзәлмәк,fan (vb),t@z@lm@k
+clics-doculect-27-914,sout2697-std,concepticon-360,9.791,сәрипләтмәк,fan (vb),s@ripl@tm@k
+clics-doculect-27-915,sout2697-std,concepticon-228,9.81,кәсмәк,carve,k@sm@k
+clics-doculect-27-916,sout2697-std,concepticon-914,9.82,һејкәлтәраш,sculptor,hejk@lt@rash
+clics-doculect-27-917,sout2697-std,concepticon-1002,9.83,һејкәл,statue,hejk@l
+clics-doculect-27-918,sout2697-std,concepticon-1979,9.84,кәсәр,chisel,k@s@r
+clics-doculect-27-919,sout2697-std,concepticon-1979,9.84,искәнә,chisel,isk@n@
+clics-doculect-27-920,sout2697-std,concepticon-647,9.88,боја,paint (noun),boja
+clics-doculect-27-921,sout2697-std,concepticon-647,9.88,рәнҝ,paint (noun),r@nk'
+clics-doculect-27-922,sout2697-std,concepticon-2001,9.89,рәнҝләмә,paint (vb),r@nk'l@m@
+clics-doculect-27-923,sout2697-std,concepticon-2001,9.89,бојама,paint (vb),bojama
+clics-doculect-27-924,sout2697-std,concepticon-765,10.11,тәрпәнмәк,move,t@rp@nm@k
+clics-doculect-27-925,sout2697-std,concepticon-1588,10.12,чеврилмәк,turn over,chevrilm@k
+clics-doculect-27-926,sout2697-std,concepticon-1445,10.13,ачмаг,turn around,achmag
+clics-doculect-27-927,sout2697-std,concepticon-1445,10.13,ачылмагдөнмәк,turn around,achylmagdonm@k
+clics-doculect-27-928,sout2697-std,concepticon-1113,10.14,сарымаг,"wind, wrap",sarymag
+clics-doculect-27-929,sout2697-std,concepticon-827,10.15,фырландырмаг,roll,fyrlandyrmag
+clics-doculect-27-930,sout2697-std,concepticon-808,10.16,дашҹылама,drop (vb),dashch'ylama
+clics-doculect-27-931,sout2697-std,concepticon-430,10.17,ешмәк,twist,eshm@k
+clics-doculect-27-932,sout2697-std,concepticon-430,10.17,сарымаг,twist,sarymag
+clics-doculect-27-933,sout2697-std,concepticon-568,10.21,галхмаг,rise,galkhmag
+clics-doculect-27-934,sout2697-std,concepticon-568,10.21,чыхмаг,rise,chykhmag
+clics-doculect-27-935,sout2697-std,concepticon-501,10.22,галдырмаг,"raise, lift",galdyrmag
+clics-doculect-27-936,sout2697-std,concepticon-1280,10.23,дүшмәк,fall,dushm@k
+clics-doculect-27-937,sout2697-std,concepticon-2253,10.24,дамҹыиләтөкмәк,drip,damch'yil@tokm@k
+clics-doculect-27-938,sout2697-std,concepticon-2253,10.24,дамҹыламаг,drip,damch'ylamag
+clics-doculect-27-939,sout2697-std,concepticon-1456,10.25,атмаг,throw,atmag
+clics-doculect-27-940,sout2697-std,concepticon-1456,10.25,тулламаг,throw,tullamag
+clics-doculect-27-941,sout2697-std,concepticon-702,10.252,тутмаг,catch (ball),tutmag
+clics-doculect-27-942,sout2697-std,concepticon-1909,10.26,силкәләмәк,shake,silk@l@m@k
+clics-doculect-27-943,sout2697-std,concepticon-1909,10.26,јырғаламаг,shake,jyrg'alamag
+clics-doculect-27-944,sout2697-std,concepticon-2003,10.32,ахма,flow,akhma
+clics-doculect-27-945,sout2697-std,concepticon-2003,10.32,селкимиахма,flow,selkimiakhma
+clics-doculect-27-946,sout2697-std,concepticon-1088,10.33,батмаг,sink,batmag
+clics-doculect-27-947,sout2697-std,concepticon-1088,10.33,сујабатырылмаг,sink,sujabatyrylmag
+clics-doculect-27-948,sout2697-std,concepticon-1574,10.34,сујунүзүиләүзмәк,float,sujunuzuil@uzm@k
+clics-doculect-27-949,sout2697-std,concepticon-1439,10.35,үзмәк,swim,uzm@k
+clics-doculect-27-950,sout2697-std,concepticon-119,10.351,ҹуммаг,dive,ch'ummag
+clics-doculect-27-951,sout2697-std,concepticon-119,10.351,башвурмаг,dive,bashvurmag
+clics-doculect-27-952,sout2697-std,concepticon-365,10.352,ләпәләнмәк,splash,l@p@l@nm@k
+clics-doculect-27-953,sout2697-std,concepticon-365,10.352,далғаланмаг,splash,dalg'alanmag
+clics-doculect-27-954,sout2697-std,concepticon-787,10.36,јелкәналтындаүзмәк,sail (vb),jelk@naltyndauzm@k
+clics-doculect-27-955,sout2697-std,concepticon-1441,10.37,учмаг,fly (vb),uchmag
+clics-doculect-27-956,sout2697-std,concepticon-175,10.38,үфүрмәк,blow,ufurm@k
+clics-doculect-27-957,sout2697-std,concepticon-175,10.38,әсмәк,blow,@sm@k
+clics-doculect-27-958,sout2697-std,concepticon-96,10.41,сүрүнмәк,"creep, crawl",surunm@k
+clics-doculect-27-959,sout2697-std,concepticon-66,10.412,дизүстәдурмаг,kneel,dizust@durmag
+clics-doculect-27-960,sout2697-std,concepticon-296,10.413,отурмаг,crouch,oturmag
+clics-doculect-27-961,sout2697-std,concepticon-1324,10.42,сүрүшмәк,"slide, slip",surushm@k
+clics-doculect-27-962,sout2697-std,concepticon-1829,10.43,һоппанмаг,"jump, leap",hoppanmag
+clics-doculect-27-963,sout2697-std,concepticon-1135,10.431,тәпикләмәк,kick,t@pikl@m@k
+clics-doculect-27-964,sout2697-std,concepticon-1879,10.44,ојнамаг,dance,ojnamag
+clics-doculect-27-965,sout2697-std,concepticon-1443,10.45,јеримәк,walk,jerim@k
+clics-doculect-27-966,sout2697-std,concepticon-1443,10.45,ҝетмәк,walk,k'etm@k
+clics-doculect-27-967,sout2697-std,concepticon-366,10.451,ахсамаг,limp,akhsamag
+clics-doculect-27-968,sout2697-std,concepticon-1519,10.46,гачмаг,run,gachmag
+clics-doculect-27-969,sout2697-std,concepticon-695,10.47,ҝетмәк,go,k'etm@k
+clics-doculect-27-970,sout2697-std,concepticon-705,10.471,галхмаг,go up,galkhmag
+clics-doculect-27-971,sout2697-std,concepticon-705,10.471,јухарыҝетмәк,go up,jukharyk'etm@k
+clics-doculect-27-972,sout2697-std,concepticon-1102,10.472,галхмаг,climb,galkhmag
+clics-doculect-27-973,sout2697-std,concepticon-2014,10.473,дүшмәк,go down,dushm@k
+clics-doculect-27-974,sout2697-std,concepticon-2014,10.473,ашағыҝетмәк,go down,ashag'yk'etm@k
+clics-doculect-27-975,sout2697-std,concepticon-1107,10.474,чыхмаг,go out,chykhmag
+clics-doculect-27-976,sout2697-std,concepticon-1446,10.48,ҝәлмәк,come,k'@lm@k
+clics-doculect-27-977,sout2697-std,concepticon-581,10.481,гајытмаг,come back,gajytmag
+clics-doculect-27-978,sout2697-std,concepticon-1752,10.49,ҝетмәк,"go away, depart",k'etm@k
+clics-doculect-27-979,sout2697-std,concepticon-485,10.491,итмәк,disappear,itm@k
+clics-doculect-27-980,sout2697-std,concepticon-956,10.51,гачмаг,flee,gachmag
+clics-doculect-27-981,sout2697-std,concepticon-956,10.51,гачмагачлахиласолунма,flee,gachmagachlakhilasolunma
+clics-doculect-27-982,sout2697-std,concepticon-1085,10.52,изләмәк,follow,izl@m@k
+clics-doculect-27-983,sout2697-std,concepticon-1085,10.52,далынҹаҝетмәк,follow,dalynch'ak'etm@k
+clics-doculect-27-984,sout2697-std,concepticon-1047,10.53,изләмәк,pursue,izl@m@k
+clics-doculect-27-985,sout2697-std,concepticon-1387,10.55,чатмаг,"reach, arrive",chatmag
+clics-doculect-27-986,sout2697-std,concepticon-1387,10.55,ҝәлибчыхмаг,"reach, arrive",k'@libchykhmag
+clics-doculect-27-987,sout2697-std,concepticon-1778,10.56,јахынлашмаг,approach,jakhynlashmag
+clics-doculect-27-988,sout2697-std,concepticon-749,10.57,ҝирмәк,enter,k'irm@k
+clics-doculect-27-989,sout2697-std,concepticon-749,10.57,дахилолмаг,enter,dakhilolmag
+clics-doculect-27-990,sout2697-std,concepticon-700,10.61,апармаг,carry (bear),aparmag
+clics-doculect-27-991,sout2697-std,concepticon-412,10.612,әлдәапармаг,carry-in-hand,@ld@aparmag
+clics-doculect-27-992,sout2697-std,concepticon-413,10.613,апармаг,carry-on-shoulder,aparmag
+clics-doculect-27-993,sout2697-std,concepticon-413,10.613,чијниндәапармаг,carry-on-shoulder,chijnind@aparmag
+clics-doculect-27-994,sout2697-std,concepticon-414,10.614,апармаг,carry-on-head,aparmag
+clics-doculect-27-995,sout2697-std,concepticon-414,10.614,башындаапармаг,carry-on-head,bashyndaaparmag
+clics-doculect-27-996,sout2697-std,concepticon-415,10.615,голтуғундаапармаг,carry-underarm,goltug'undaaparmag
+clics-doculect-27-997,sout2697-std,concepticon-692,10.62,ҝәтирмәк,bring,k'@tirm@k
+clics-doculect-27-998,sout2697-std,concepticon-1127,10.63,ҝөндәрмәк,send,k'ond@rm@k
+clics-doculect-27-999,sout2697-std,concepticon-43,10.64,апармаг,lead (vb),aparmag
+clics-doculect-27-1000,sout2697-std,concepticon-741,10.65,машындаҝетмәк,drive,mashyndak'etm@k
+clics-doculect-27-1001,sout2697-std,concepticon-367,10.66,атлаҝетмәк,ride,atlak'etm@k
+clics-doculect-27-1002,sout2697-std,concepticon-1452,10.67,итәләмәк,"push, shove",it@l@m@k
+clics-doculect-27-1003,sout2697-std,concepticon-667,10.71,јол,road,jol
+clics-doculect-27-1004,sout2697-std,concepticon-2252,10.72,ҹығыр,path,ch'yg'yr
+clics-doculect-27-1005,sout2697-std,concepticon-1011,10.74,көрпү,bridge,korpu
+clics-doculect-27-1006,sout2697-std,concepticon-122,10.75,миник,"carriage, wagon, cart",minik
+clics-doculect-27-1007,sout2697-std,concepticon-122,10.75,араба,"carriage, wagon, cart",araba
+clics-doculect-27-1008,sout2697-std,concepticon-710,10.76,тәкәр,wheel,t@k@r
+clics-doculect-27-1009,sout2697-std,concepticon-710,10.76,чарх,wheel,charkh
+clics-doculect-27-1010,sout2697-std,concepticon-1769,10.77,ох,axle,okh
+clics-doculect-27-1011,sout2697-std,concepticon-1769,10.77,меһвәр,axle,mehv@r
+clics-doculect-27-1012,sout2697-std,concepticon-14,10.78,бојундуруг,yoke,bojundurug
+clics-doculect-27-1013,sout2697-std,concepticon-14,10.78,зүлм,yoke,zulm
+clics-doculect-27-1014,sout2697-std,concepticon-740,10.81,ҝәми,ship,k'@mi
+clics-doculect-27-1015,sout2697-std,concepticon-1844,10.83,гајыг,boat,gajyg
+clics-doculect-27-1016,sout2697-std,concepticon-1970,10.831,каное,canoe,kanoe
+clics-doculect-27-1017,sout2697-std,concepticon-416,10.832,гајыг,outrigger,gajyg
+clics-doculect-27-1018,sout2697-std,concepticon-1664,10.84,сал,raft,sal
+clics-doculect-27-1019,sout2697-std,concepticon-1664,10.84,көркүҹүк,raft,korkuch'uk
+clics-doculect-27-1020,sout2697-std,concepticon-108,10.85,авар,oar,avar
+clics-doculect-27-1021,sout2697-std,concepticon-108,10.85,күрәк,oar,kur@k
+clics-doculect-27-1022,sout2697-std,concepticon-234,10.851,авар,paddle (noun),avar
+clics-doculect-27-1023,sout2697-std,concepticon-234,10.851,күрәк,paddle (noun),kur@k
+clics-doculect-27-1024,sout2697-std,concepticon-1849,10.852,аварчәкмәк,row (vb),avarch@km@k
+clics-doculect-27-1025,sout2697-std,concepticon-108,10.86,сүкан,rudder,sukan
+clics-doculect-27-1026,sout2697-std,concepticon-184,10.87,дор,mast,dor
+clics-doculect-27-1027,sout2697-std,concepticon-786,10.88,јелкән,sail (noun),jelk@n
+clics-doculect-27-1028,sout2697-std,concepticon-1870,10.89,лөвбәр,anchor,lovb@r
+clics-doculect-27-1029,sout2697-std,concepticon-610,10.91,лиманкөрпү,"harbor, port",limankorpu
+clics-doculect-27-1030,sout2697-std,concepticon-610,10.91,лиман,"harbor, port",liman
+clics-doculect-27-1031,sout2697-std,concepticon-1922,10.92,јанашдырыббағламаг,land (vb),janashdyrybbag'lamag
+clics-doculect-27-1032,sout2697-std,concepticon-1922,10.92,јерәотурмаг,land (vb),jer@oturmag
+clics-doculect-27-1033,sout2697-std,concepticon-773,11.11,олмаг,have,olmag
+clics-doculect-27-1034,sout2697-std,concepticon-684,11.12,јијәолмаг,"own, possess",jij@olmag
+clics-doculect-27-1035,sout2697-std,concepticon-684,11.12,маликолмаг,"own, possess",malikolmag
+clics-doculect-27-1036,sout2697-std,concepticon-1749,11.13,алмаг,take,almag
+clics-doculect-27-1037,sout2697-std,concepticon-2021,11.14,тутмаг,"seize, grasp",tutmag
+clics-doculect-27-1038,sout2697-std,concepticon-1448,11.15,тутмаг,hold,tutmag
+clics-doculect-27-1039,sout2697-std,concepticon-694,11.16,алмаг,"get, obtain",almag
+clics-doculect-27-1040,sout2697-std,concepticon-694,11.16,гәбулетмәк,"get, obtain",g@buletm@k
+clics-doculect-27-1041,sout2697-std,concepticon-1477,11.17,сахламаг,"keep, retain",sakhlamag
+clics-doculect-27-1042,sout2697-std,concepticon-738,11.18,әшја,thing,@shja
+clics-doculect-27-1043,sout2697-std,concepticon-1447,11.21,вермәк,give,verm@k
+clics-doculect-27-1044,sout2697-std,concepticon-85,11.22,гајтармаг,give back,gajtarmag
+clics-doculect-27-1045,sout2697-std,concepticon-85,11.22,ҝеривермәк,give back,k'eriverm@k
+clics-doculect-27-1046,sout2697-std,concepticon-1997,11.24,горумаг,"preserve, look after",gorumag
+clics-doculect-27-1047,sout2697-std,concepticon-1997,11.24,сахламаг,"preserve, look after",sakhlamag
+clics-doculect-27-1048,sout2697-std,concepticon-2008,11.25,хиласетмәк,"save, rescue",khilasetm@k
+clics-doculect-27-1049,sout2697-std,concepticon-2008,11.25,гуртармаг,"save, rescue",gurtarmag
+clics-doculect-27-1050,sout2697-std,concepticon-681,11.27,дағытмаг,destroy,dag'ytmag
+clics-doculect-27-1051,sout2697-std,concepticon-681,11.27,сөкмәк,destroy,sokm@k
+clics-doculect-27-1052,sout2697-std,concepticon-44,11.28,зәрәрвурмаг,"harm, injure, damage",z@r@rvurmag
+clics-doculect-27-1053,sout2697-std,concepticon-1468,11.31,ахтармаг,"seek, look for",akhtarmag
+clics-doculect-27-1054,sout2697-std,concepticon-719,11.32,тапмаг,find,tapmag
+clics-doculect-27-1055,sout2697-std,concepticon-1660,11.33,итирмәк,lose,itirm@k
+clics-doculect-27-1056,sout2697-std,concepticon-1095,11.34,бурахмаг,"release, let go",burakhmag
+clics-doculect-27-1057,sout2697-std,concepticon-1559,11.43,пул,money,pul
+clics-doculect-27-1058,sout2697-std,concepticon-1867,11.44,пул,coin,pul
+clics-doculect-27-1059,sout2697-std,concepticon-1867,11.44,сиккә,coin,sikk@
+clics-doculect-27-1060,sout2697-std,concepticon-712,11.51,варлы,rich,varly
+clics-doculect-27-1061,sout2697-std,concepticon-712,11.51,зәнҝин,rich,z@nk'in
+clics-doculect-27-1062,sout2697-std,concepticon-1674,11.52,касыб,poor,kasyb
+clics-doculect-27-1063,sout2697-std,concepticon-1934,11.53,диләнчи,beggar,dil@nchi
+clics-doculect-27-1064,sout2697-std,concepticon-1934,11.53,јохсул,beggar,jokhsul
+clics-doculect-27-1065,sout2697-std,concepticon-1774,11.54,хәсис,"avaricious, stingy",kh@sis
+clics-doculect-27-1066,sout2697-std,concepticon-1774,11.54,симиҹ,"avaricious, stingy",simich'
+clics-doculect-27-1067,sout2697-std,concepticon-582,11.61,борҹвермәк,lend,borch'verm@k
+clics-doculect-27-1068,sout2697-std,concepticon-1823,11.62,борҹалмаг,borrow,borch'almag
+clics-doculect-27-1069,sout2697-std,concepticon-369,11.63,борҹлуолмаг,owe,borch'luolmag
+clics-doculect-27-1070,sout2697-std,concepticon-1914,11.64,борҹ,debt,borch'
+clics-doculect-27-1071,sout2697-std,concepticon-718,11.65,өдәмәк,pay (vb),od@m@k
+clics-doculect-27-1072,sout2697-std,concepticon-1081,11.66,һесаб,"account, reckoning",hesab
+clics-doculect-27-1073,sout2697-std,concepticon-1081,11.66,сај,"account, reckoning",saj
+clics-doculect-27-1074,sout2697-std,concepticon-873,11.69,верҝи,"tax, tribute",verk'i
+clics-doculect-27-1075,sout2697-std,concepticon-856,11.77,тутмаг,hire,tutmag
+clics-doculect-27-1076,sout2697-std,concepticon-856,11.77,кирәјәалмаг,hire,kir@j@almag
+clics-doculect-27-1077,sout2697-std,concepticon-1122,11.78,әмәкһаггы,wages,@m@khaggy
+clics-doculect-27-1078,sout2697-std,concepticon-733,11.79,газанмаг,earn,gazanmag
+clics-doculect-27-1079,sout2697-std,concepticon-1869,11.81,сатыналмаг,buy,satynalmag
+clics-doculect-27-1080,sout2697-std,concepticon-1869,11.81,алмаг,buy,almag
+clics-doculect-27-1081,sout2697-std,concepticon-1571,11.82,сатмаг,sell,satmag
+clics-doculect-27-1082,sout2697-std,concepticon-2135,11.83,алвер,"trade, barter",alver
+clics-doculect-27-1083,sout2697-std,concepticon-2135,11.83,дәјишмә,"trade, barter",d@jishm@
+clics-doculect-27-1084,sout2697-std,concepticon-1082,11.84,таҹир,merchant,tach'ir
+clics-doculect-27-1085,sout2697-std,concepticon-1082,11.84,алверчи,merchant,alverchi
+clics-doculect-27-1086,sout2697-std,concepticon-633,11.85,базар,market (place),bazar
+clics-doculect-27-1087,sout2697-std,concepticon-752,11.86,мағаза,"store, shop",mag'aza
+clics-doculect-27-1088,sout2697-std,concepticon-752,11.86,дүккан,"store, shop",dukkan
+clics-doculect-27-1089,sout2697-std,concepticon-657,11.87,гијмәт,price,gijm@t
+clics-doculect-27-1090,sout2697-std,concepticon-1426,11.88,баһа,"dear (costly, expensive)",baha
+clics-doculect-27-1091,sout2697-std,concepticon-1887,11.89,уҹуз,cheap,uch'uz
+clics-doculect-27-1092,sout2697-std,concepticon-884,11.91,бөлүшдүрмәк,share (distribute),bolushdurm@k
+clics-doculect-27-1093,sout2697-std,concepticon-1098,11.92,чәкмәк,weigh,ch@km@k
+clics-doculect-27-1094,sout2697-std,concepticon-1685,12.1,сонра,after,sonra
+clics-doculect-27-1095,sout2697-std,concepticon-723,12.11,далында,place,dalynda
+clics-doculect-27-1096,sout2697-std,concepticon-723,12.11,архасында,place,arkhasynda
+clics-doculect-27-1097,sout2697-std,concepticon-1816,12.2,јанјана,beside,janjana
+clics-doculect-27-1098,sout2697-std,concepticon-2094,12.3,ашағы,"down, below",ashag'y
+clics-doculect-27-1099,sout2697-std,concepticon-2094,12.3,ашағыистигатәтдә,"down, below",ashag'yistigat@td@
+clics-doculect-27-1100,sout2697-std,concepticon-1882,12.4,габағында,before,gabag'ynda
+clics-doculect-27-1101,sout2697-std,concepticon-1882,12.4,дәк,before,d@k
+clics-doculect-27-1102,sout2697-std,concepticon-1019,12.41,гаршысында,right (side),garshysynda
+clics-doculect-27-1103,sout2697-std,concepticon-1606,12.5,ичәрисиндә,"inside, in",ich@risind@
+clics-doculect-27-1104,sout2697-std,concepticon-762,12.6,бајырдан,outside,bajyrdan
+clics-doculect-27-1105,sout2697-std,concepticon-1485,12.7,алт,under,alt
+clics-doculect-27-1106,sout2697-std,concepticon-1591,12.8,үстүндә,"up, above",ustund@
+clics-doculect-27-1107,sout2697-std,concepticon-723,12.11,јер,place,jer
+clics-doculect-27-1108,sout2697-std,concepticon-998,12.12,гојмаг,put,gojmag
+clics-doculect-27-1109,sout2697-std,concepticon-1416,12.13,отурмаг,sit,oturmag
+clics-doculect-27-1110,sout2697-std,concepticon-1416,12.13,әјләшмәк,sit,@jl@shm@k
+clics-doculect-27-1111,sout2697-std,concepticon-215,12.14,узанмаг,lie down,uzanmag
+clics-doculect-27-1112,sout2697-std,concepticon-215,12.14,јатмаг,lie down,jatmag
+clics-doculect-27-1113,sout2697-std,concepticon-1442,12.15,дурмаг,stand,durmag
+clics-doculect-27-1114,sout2697-std,concepticon-1442,12.15,дајанмаг,stand,dajanmag
+clics-doculect-27-1115,sout2697-std,concepticon-987,12.16,галмаг,"remain, stay",galmag
+clics-doculect-27-1116,sout2697-std,concepticon-838,12.17,галыглар,"remains, left overs",galyglar
+clics-doculect-27-1117,sout2697-std,concepticon-7,12.21,јығмаг,"collect, gather",jyg'mag
+clics-doculect-27-1118,sout2697-std,concepticon-371,12.212,ҝөтүрмәк,pick up,k'oturm@k
+clics-doculect-27-1119,sout2697-std,concepticon-1576,12.213,јығмаг,pile up,jyg'mag
+clics-doculect-27-1120,sout2697-std,concepticon-1576,12.213,топламаг,pile up,toplamag
+clics-doculect-27-1121,sout2697-std,concepticon-1576,12.213,галамаг,pile up,galamag
+clics-doculect-27-1122,sout2697-std,concepticon-1743,12.22,бирләшдирмәк,"join, unite",birl@shdirm@k
+clics-doculect-27-1123,sout2697-std,concepticon-1743,12.22,бирләшмәк,"join, unite",birl@shm@k
+clics-doculect-27-1124,sout2697-std,concepticon-1359,12.23,ајырмаг,separate,ajyrmag
+clics-doculect-27-1125,sout2697-std,concepticon-1119,12.232,бөлмәк,divide,bolm@k
+clics-doculect-27-1126,sout2697-std,concepticon-1156,12.24,ачмаг,open,achmag
+clics-doculect-27-1127,sout2697-std,concepticon-1046,12.25,бағламаг,"shut, close",bag'lamag
+clics-doculect-27-1128,sout2697-std,concepticon-1046,12.25,өртмәк,"shut, close",ortm@k
+clics-doculect-27-1129,sout2697-std,concepticon-761,12.26,өртмәк,cover,ortm@k
+clics-doculect-27-1130,sout2697-std,concepticon-602,12.27,ҝизләтмәк,"hide, conceal",k'izl@tm@k
+clics-doculect-27-1131,sout2697-std,concepticon-1265,12.31,уҹа,high,uch'a
+clics-doculect-27-1132,sout2697-std,concepticon-1265,12.31,јүксәкдә,high,juks@kd@
+clics-doculect-27-1133,sout2697-std,concepticon-1265,12.31,һүндүрдә,high,hundurd@
+clics-doculect-27-1134,sout2697-std,concepticon-721,12.32,алчаг,low,alchag
+clics-doculect-27-1135,sout2697-std,concepticon-1753,12.33,тәпә,top,t@p@
+clics-doculect-27-1136,sout2697-std,concepticon-690,12.34,диб,bottom,dib
+clics-doculect-27-1137,sout2697-std,concepticon-742,12.35,сон,end,son
+clics-doculect-27-1138,sout2697-std,concepticon-742,12.35,ахыр,end,akhyr
+clics-doculect-27-1139,sout2697-std,concepticon-372,12.352,сиври,pointed,sivri
+clics-doculect-27-1140,sout2697-std,concepticon-863,12.353,гыраг,edge,gyrag
+clics-doculect-27-1141,sout2697-std,concepticon-863,12.353,кәнар,edge,k@nar
+clics-doculect-27-1142,sout2697-std,concepticon-682,12.36,тәрәф,side,t@r@f
+clics-doculect-27-1143,sout2697-std,concepticon-1093,12.37,орта,"middle, center",orta
+clics-doculect-27-1144,sout2697-std,concepticon-1093,12.37,мәркәз,"middle, center",m@rk@z
+clics-doculect-27-1145,sout2697-std,concepticon-1019,12.41,сағтәрәф,right (side),sag't@r@f
+clics-doculect-27-1146,sout2697-std,concepticon-244,12.42,солтәрәф,left (side),solt@r@f
+clics-doculect-27-1147,sout2697-std,concepticon-1942,12.43,јанјана,near (adv),janjana
+clics-doculect-27-1148,sout2697-std,concepticon-1942,12.43,јанашы,near (adv),janashy
+clics-doculect-27-1149,sout2697-std,concepticon-1406,12.44,узаг,far (adv),uzag
+clics-doculect-27-1150,sout2697-std,concepticon-1877,12.45,шәрг,east,sh@rg
+clics-doculect-27-1151,sout2697-std,concepticon-1817,12.46,гәрб,west,g@rb
+clics-doculect-27-1152,sout2697-std,concepticon-1598,12.47,шимал,north,shimal
+clics-doculect-27-1153,sout2697-std,concepticon-1595,12.48,ҹәнуб,south,ch'@nub
+clics-doculect-27-1154,sout2697-std,concepticon-479,12.53,бөјүмәк,grow,bojum@k
+clics-doculect-27-1155,sout2697-std,concepticon-479,12.53,јүксәлмәк,grow,juks@lm@k
+clics-doculect-27-1156,sout2697-std,concepticon-1506,12.54,өлчмәк,measure,olchm@k
+clics-doculect-27-1157,sout2697-std,concepticon-81,12.541,гарыш,"span, fathom",garysh
+clics-doculect-27-1158,sout2697-std,concepticon-1202,12.55,бөјүк,"large, big",bojuk
+clics-doculect-27-1159,sout2697-std,concepticon-1246,12.56,балаҹа,"small, little",balach'a
+clics-doculect-27-1160,sout2697-std,concepticon-1203,12.57,узун,long,uzun
+clics-doculect-27-1161,sout2697-std,concepticon-711,12.58,уҹа,tall,uch'a
+clics-doculect-27-1162,sout2697-std,concepticon-711,12.58,һүндүр,tall,hundur
+clics-doculect-27-1163,sout2697-std,concepticon-1645,12.59,гысса,short,gyssa
+clics-doculect-27-1164,sout2697-std,concepticon-1243,12.61,енли,"wide, broad",enli
+clics-doculect-27-1165,sout2697-std,concepticon-1243,12.61,ҝениш,"wide, broad",k'enish
+clics-doculect-27-1166,sout2697-std,concepticon-1267,12.62,дар,narrow,dar
+clics-doculect-27-1167,sout2697-std,concepticon-1267,12.62,енсиз,narrow,ensiz
+clics-doculect-27-1168,sout2697-std,concepticon-1244,12.63,јоғун,thick (in dimension),jog'un
+clics-doculect-27-1169,sout2697-std,concepticon-1244,12.63,галын,thick (in dimension),galyn
+clics-doculect-27-1170,sout2697-std,concepticon-2249,12.65,назик,thin (in dimension),nazik
+clics-doculect-27-1171,sout2697-std,concepticon-1593,12.67,дәрин,deep,d@rin
+clics-doculect-27-1172,sout2697-std,concepticon-193,12.68,хырда,shallow,khyrda
+clics-doculect-27-1173,sout2697-std,concepticon-1633,12.71,јасты,flat,jasty
+clics-doculect-27-1174,sout2697-std,concepticon-1633,12.71,һамар,flat,hamar
+clics-doculect-27-1175,sout2697-std,concepticon-1404,12.73,дүз,straight,duz
+clics-doculect-27-1176,sout2697-std,concepticon-297,12.74,әјри,crooked,@jri
+clics-doculect-27-1177,sout2697-std,concepticon-1071,12.75,гармаг,hook,garmag
+clics-doculect-27-1178,sout2697-std,concepticon-192,12.76,күнҹ,corner,kunch'
+clics-doculect-27-1179,sout2697-std,concepticon-192,12.76,буҹаг,corner,buch'ag
+clics-doculect-27-1180,sout2697-std,concepticon-1367,12.77,хач,cross,khach
+clics-doculect-27-1181,sout2697-std,concepticon-850,12.78,квадрат,square,kvadrat
+clics-doculect-27-1182,sout2697-std,concepticon-850,12.78,ханә,square,khan@
+clics-doculect-27-1183,sout2697-std,concepticon-1395,12.81,јумру,round,jumru
+clics-doculect-27-1184,sout2697-std,concepticon-1395,12.81,ҝирдә,round,k'ird@
+clics-doculect-27-1185,sout2697-std,concepticon-1467,12.82,даирә,circle,dair@
+clics-doculect-27-1186,sout2697-std,concepticon-1467,12.82,һәндәвәр,circle,h@nd@v@r
+clics-doculect-27-1187,sout2697-std,concepticon-1845,12.83,күрә,"sphere, ball",kur@
+clics-doculect-27-1188,sout2697-std,concepticon-1048,12.84,хәтт,line,kh@tt
+clics-doculect-27-1189,sout2697-std,concepticon-1048,12.84,ҹизҝи,line,ch'izk'i
+clics-doculect-27-1190,sout2697-std,concepticon-1667,12.85,дешик,hole,deshik
+clics-doculect-27-1191,sout2697-std,concepticon-1558,12.92,охшар,"like, similar",okhshar
+clics-doculect-27-1192,sout2697-std,concepticon-1558,12.92,ејни,"like, similar",ejni
+clics-doculect-27-1193,sout2697-std,concepticon-1264,12.93,дәјишмәк,change,d@jishm@k
+clics-doculect-27-1194,sout2697-std,concepticon-1294,13.0,сыфыр,"zero, nothing",syfyr
+clics-doculect-27-1195,sout2697-std,concepticon-1493,13.1,бир,one,bir
+clics-doculect-27-1196,sout2697-std,concepticon-1498,13.2,ики,two,iki
+clics-doculect-27-1197,sout2697-std,concepticon-492,13.3,үч,three,uch
+clics-doculect-27-1198,sout2697-std,concepticon-1500,13.4,дөрд,four,dord
+clics-doculect-27-1199,sout2697-std,concepticon-493,13.5,беш,five,besh
+clics-doculect-27-1200,sout2697-std,concepticon-1703,13.6,алты,six,alty
+clics-doculect-27-1201,sout2697-std,concepticon-1704,13.7,једди,seven,jeddi
+clics-doculect-27-1202,sout2697-std,concepticon-1705,13.8,сәккиз,eight,s@kkiz
+clics-doculect-27-1203,sout2697-std,concepticon-1483,13.9,доггуз,nine,dogguz
+clics-doculect-27-1204,sout2697-std,concepticon-1515,13.10,он,ten,on
+clics-doculect-27-1205,sout2697-std,concepticon-1706,13.101,онбир,eleven,onbir
+clics-doculect-27-1206,sout2697-std,concepticon-1707,13.102,оники,twelve,oniki
+clics-doculect-27-1207,sout2697-std,concepticon-1709,13.103,онбеш,fifteen,onbesh
+clics-doculect-27-1208,sout2697-std,concepticon-1710,13.104,ијирми,twenty,ijirmi
+clics-doculect-27-1209,sout2697-std,concepticon-1634,13.105,јүз,hundred,juz
+clics-doculect-27-1210,sout2697-std,concepticon-1843,13.106,мин,thousand,min
+clics-doculect-27-1211,sout2697-std,concepticon-1420,13.107,һесабламаг,count,hesablamag
+clics-doculect-27-1212,sout2697-std,concepticon-1420,13.107,сајмаг,count,sajmag
+clics-doculect-27-1213,sout2697-std,concepticon-98,13.14,һамы,"every, all",hamy
+clics-doculect-27-1214,sout2697-std,concepticon-1198,13.15,чох,"much, many",chokh
+clics-doculect-27-1215,sout2697-std,concepticon-1198,13.15,артыг,"much, many",artyg
+clics-doculect-27-1216,sout2697-std,concepticon-1992,13.16,чох,more,chokh
+clics-doculect-27-1217,sout2697-std,concepticon-1992,13.16,артыг,more,artyg
+clics-doculect-27-1218,sout2697-std,concepticon-1242,13.17,аз,"little (quantity), few",az
+clics-doculect-27-1219,sout2697-std,concepticon-1881,13.18,кифајәтгәдәр,enough,kifaj@tg@d@r
+clics-doculect-27-1220,sout2697-std,concepticon-1881,13.18,хејли,enough,khejli
+clics-doculect-27-1221,sout2697-std,concepticon-1241,13.181,бирнечә,some,birnech@
+clics-doculect-27-1222,sout2697-std,concepticon-2023,13.19,чохлу,"multitude, crowd",chokhlu
+clics-doculect-27-1223,sout2697-std,concepticon-1429,13.21,долу,full,dolu
+clics-doculect-27-1224,sout2697-std,concepticon-1624,13.22,баш,empty,bash
+clics-doculect-27-1225,sout2697-std,concepticon-779,13.23,һиссә,"part, piece",hiss@
+clics-doculect-27-1226,sout2697-std,concepticon-779,13.23,гисим,"part, piece",gisim
+clics-doculect-27-1227,sout2697-std,concepticon-779,13.23,дилим,"part, piece",dilim
+clics-doculect-27-1228,sout2697-std,concepticon-816,13.24,јарым,half,jarym
+clics-doculect-27-1229,sout2697-std,concepticon-1580,13.33,тәкјеҝанә,"alone, only",t@kjek'an@
+clics-doculect-27-1230,sout2697-std,concepticon-1580,13.33,ваһид,"alone, only",vahid
+clics-doculect-27-1231,sout2697-std,concepticon-728,13.34,биринҹи,first,birinch'i
+clics-doculect-27-1232,sout2697-std,concepticon-1529,13.35,ахырынҹы,last,akhyrynch'y
+clics-doculect-27-1233,sout2697-std,concepticon-1384,13.36,икинҹи,second,ikinch'i
+clics-doculect-27-1234,sout2697-std,concepticon-1888,13.37,ҹүт,pair,ch'ut
+clics-doculect-27-1235,sout2697-std,concepticon-1546,13.38,икидәфә,two times,ikid@f@
+clics-doculect-27-1236,sout2697-std,concepticon-1859,13.42,үчүнҹү,third,uchunch'u
+clics-doculect-27-1237,sout2697-std,concepticon-417,13.44,үчдәфә,three times,uchd@f@
+clics-doculect-27-1238,sout2697-std,concepticon-892,14.11,вахт,time,vakht
+clics-doculect-27-1239,sout2697-std,concepticon-892,14.11,заман,time,zaman
+clics-doculect-27-1240,sout2697-std,concepticon-1789,14.12,јаш,age,jash
+clics-doculect-27-1241,sout2697-std,concepticon-1789,14.12,әср,age,@sr
+clics-doculect-27-1242,sout2697-std,concepticon-1789,14.12,дөвр,age,dovr
+clics-doculect-27-1243,sout2697-std,concepticon-1231,14.13,тәзә,new,t@z@
+clics-doculect-27-1244,sout2697-std,concepticon-1207,14.14,ҝәнҹ,young,k'@nch'
+clics-doculect-27-1245,sout2697-std,concepticon-1229,14.15,гоҹа,old,goch'a
+clics-doculect-27-1246,sout2697-std,concepticon-1229,14.15,көһнә,old,kohn@
+clics-doculect-27-1247,sout2697-std,concepticon-672,14.16,тез,early,tez
+clics-doculect-27-1248,sout2697-std,concepticon-477,14.17,ҝеҹ,late,k'ech'
+clics-doculect-27-1249,sout2697-std,concepticon-1376,14.18,инди,now,indi
+clics-doculect-27-1250,sout2697-std,concepticon-1963,14.19,тезликлә,immediately,tezlikl@
+clics-doculect-27-1251,sout2697-std,concepticon-1963,14.19,ҹәлд,immediately,ch'@ld
+clics-doculect-27-1252,sout2697-std,concepticon-1631,14.21,һәрәкәтли,"swift, fast, quick",h@r@k@tli
+clics-doculect-27-1253,sout2697-std,concepticon-1631,14.21,тез,"swift, fast, quick",tez
+clics-doculect-27-1254,sout2697-std,concepticon-701,14.22,јаваш,slow,javash
+clics-doculect-27-1255,sout2697-std,concepticon-754,14.23,тәләсмәк,"hasten, hurry",t@l@sm@k
+clics-doculect-27-1256,sout2697-std,concepticon-425,14.24,јавашытмаг,"retard, delay",javashytmag
+clics-doculect-27-1257,sout2697-std,concepticon-425,14.24,јубатмаг,"retard, delay",jubatmag
+clics-doculect-27-1258,sout2697-std,concepticon-1806,14.25,башламаг,"begin, beginning",bashlamag
+clics-doculect-27-1259,sout2697-std,concepticon-1806,14.25,башланғыҹ,"begin, beginning",bashlang'ych'
+clics-doculect-27-1260,sout2697-std,concepticon-1186,14.252,даваметмәк,"last, endure",davametm@k
+clics-doculect-27-1261,sout2697-std,concepticon-1186,14.252,узанмаг,"last, endure",uzanmag
+clics-doculect-27-1262,sout2697-std,concepticon-743,14.26,гуртармаг,end (temporal),gurtarmag
+clics-doculect-27-1263,sout2697-std,concepticon-743,14.26,битирмәк,end (temporal),bitirm@k
+clics-doculect-27-1264,sout2697-std,concepticon-1766,14.27,гуртармаг,finish,gurtarmag
+clics-doculect-27-1265,sout2697-std,concepticon-1928,14.28,дајандырмаг,"cease, stop",dajandyrmag
+clics-doculect-27-1266,sout2697-std,concepticon-790,14.29,һазыр,ready,hazyr
+clics-doculect-27-1267,sout2697-std,concepticon-1676,14.31,һәмишә,always,h@mish@
+clics-doculect-27-1268,sout2697-std,concepticon-1676,14.31,даим,always,daim
+clics-doculect-27-1269,sout2697-std,concepticon-1852,14.32,тезтез,often,teztez
+clics-doculect-27-1270,sout2697-std,concepticon-1544,14.33,бәʼзән,sometimes,b@'z@n
+clics-doculect-27-1271,sout2697-std,concepticon-703,14.331,тезликлә,soon,tezlikl@
+clics-doculect-27-1272,sout2697-std,concepticon-703,14.331,тез,soon,tez
+clics-doculect-27-1273,sout2697-std,concepticon-703,14.331,ҹәлд,soon,ch'@ld
+clics-doculect-27-1274,sout2697-std,concepticon-418,14.332,узунмүддәтли,long-time (for a),uzunmudd@tli
+clics-doculect-27-1275,sout2697-std,concepticon-1656,14.34,һечвахт,never,hechvakht
+clics-doculect-27-1276,sout2697-std,concepticon-204,14.35,јенә,again,jen@
+clics-doculect-27-1277,sout2697-std,concepticon-204,14.35,јенидән,again,jenid@n
+clics-doculect-27-1278,sout2697-std,concepticon-1225,14.41,ҝүндүз,day,k'unduz
+clics-doculect-27-1279,sout2697-std,concepticon-1225,14.41,ҝүн,day,k'un
+clics-doculect-27-1280,sout2697-std,concepticon-1233,14.42,ҝеҹә,night,k'ech'@
+clics-doculect-27-1281,sout2697-std,concepticon-729,14.43,шәфәг,dawn,sh@f@g
+clics-doculect-27-1282,sout2697-std,concepticon-1339,14.44,сәһәр,morning,s@h@r
+clics-doculect-27-1283,sout2697-std,concepticon-12,14.45,ҝүнорта,"noon, midday",k'unorta
+clics-doculect-27-1284,sout2697-std,concepticon-1807,14.451,ҝүнортадансолра,afternoon,k'unortadansolra
+clics-doculect-27-1285,sout2697-std,concepticon-1629,14.46,ахшам,evening,akhsham
+clics-doculect-27-1286,sout2697-std,concepticon-1283,14.47,буҝүн,today,buk'un
+clics-doculect-27-1287,sout2697-std,concepticon-1329,14.48,сабаһ,tomorrow,sabah
+clics-doculect-27-1288,sout2697-std,concepticon-1179,14.481,бирисиҝүн,day-after-tomorrow,birisik'un
+clics-doculect-27-1289,sout2697-std,concepticon-1174,14.49,дүнән,yesterday,dun@n
+clics-doculect-27-1290,sout2697-std,concepticon-1180,14.491,сырағаҝүн,day-before-yesterday,syrag'ak'un
+clics-doculect-27-1291,sout2697-std,concepticon-1353,14.51,вахт,hour,vakht
+clics-doculect-27-1292,sout2697-std,concepticon-1323,14.53,саат,"clock, timepiece",saat
+clics-doculect-27-1293,sout2697-std,concepticon-1469,14.61,һәфтә,week,h@ft@
+clics-doculect-27-1294,sout2697-std,concepticon-1699,14.62,базарҝүнү,Sunday,bazark'unu
+clics-doculect-27-1295,sout2697-std,concepticon-1697,14.63,базарертәси,Monday,bazarert@si
+clics-doculect-27-1296,sout2697-std,concepticon-1695,14.64,чәршәнбәахшамы,Tuesday,ch@rsh@nb@akhshamy
+clics-doculect-27-1297,sout2697-std,concepticon-1694,14.65,чәршәнбә,Wednesday,ch@rsh@nb@
+clics-doculect-27-1298,sout2697-std,concepticon-1693,14.66,ҹүмәахшамы,Thursday,ch'um@akhshamy
+clics-doculect-27-1299,sout2697-std,concepticon-1692,14.67,ҹүмә,Friday,ch'um@
+clics-doculect-27-1300,sout2697-std,concepticon-1700,14.68,шәнбә,Saturday,sh@nb@
+clics-doculect-27-1301,sout2697-std,concepticon-1370,14.71,ај,month,aj
+clics-doculect-27-1302,sout2697-std,concepticon-1226,14.73,ил,year,il
+clics-doculect-27-1303,sout2697-std,concepticon-1471,14.74,гыш,winter,gysh
+clics-doculect-27-1304,sout2697-std,concepticon-1537,14.75,баһар,spring,bahar
+clics-doculect-27-1305,sout2697-std,concepticon-1342,14.76,јај,summer,jaj
+clics-doculect-27-1306,sout2697-std,concepticon-1276,14.77,пајыз,autumn,pajyz
+clics-doculect-27-1307,sout2697-std,concepticon-691,14.78,илинфәсилләри,season,ilinf@sill@ri
+clics-doculect-27-1308,sout2697-std,concepticon-1587,15.21,гохумаг,smell (vb intrans),gokhumag
+clics-doculect-27-1309,sout2697-std,concepticon-375,15.212,фысылдамаг,sniff,fysyldamag
+clics-doculect-27-1310,sout2697-std,concepticon-1586,15.22,ијләмәк,smell (vb trans),ijl@m@k
+clics-doculect-27-1311,sout2697-std,concepticon-376,15.25,әтир,"fragrant, good smelling",@tir
+clics-doculect-27-1312,sout2697-std,concepticon-376,15.25,хошиј,"fragrant, good smelling",khoshij
+clics-doculect-27-1313,sout2697-std,concepticon-42,15.26,писиј,"stinking, bad smelling",pisij
+clics-doculect-27-1314,sout2697-std,concepticon-42,15.26,үфунәт,"stinking, bad smelling",ufun@t
+clics-doculect-27-1315,sout2697-std,concepticon-21,15.31,дад,taste,dad
+clics-doculect-27-1316,sout2697-std,concepticon-717,15.35,ширин,sweet,shirin
+clics-doculect-27-1317,sout2697-std,concepticon-1091,15.36,дузлу,salty,duzlu
+clics-doculect-27-1318,sout2697-std,concepticon-887,15.37,аҹы,bitter,ach'y
+clics-doculect-27-1319,sout2697-std,concepticon-1906,15.38,турш,"acid, sour",tursh
+clics-doculect-27-1320,sout2697-std,concepticon-70,15.39,шор,brackish,shor
+clics-doculect-27-1321,sout2697-std,concepticon-1408,15.41,ешитмәк,hear,eshitm@k
+clics-doculect-27-1322,sout2697-std,concepticon-1608,15.42,гулагасмаг,listen,gulagasmag
+clics-doculect-27-1323,sout2697-std,concepticon-1811,15.44,сәс,"sound, noise",s@s
+clics-doculect-27-1324,sout2697-std,concepticon-377,15.45,бәрк,loud,b@rk
+clics-doculect-27-1325,sout2697-std,concepticon-377,15.45,уҹа,loud,uch'a
+clics-doculect-27-1326,sout2697-std,concepticon-1314,15.46,раһат,"quiet, silence",rahat
+clics-doculect-27-1327,sout2697-std,concepticon-1314,15.46,сакит,"quiet, silence",sakit
+clics-doculect-27-1328,sout2697-std,concepticon-1409,15.51,ҝөрмәк,see,k'orm@k
+clics-doculect-27-1329,sout2697-std,concepticon-1819,15.52,бахмаг,"look, look at",bakhmag
+clics-doculect-27-1330,sout2697-std,concepticon-1039,15.55,ҝөстәрмәк,show,k'ost@rm@k
+clics-doculect-27-1331,sout2697-std,concepticon-708,15.56,ишыгланмаг,shine,ishyglanmag
+clics-doculect-27-1332,sout2697-std,concepticon-679,15.57,парлаг,bright,parlag
+clics-doculect-27-1333,sout2697-std,concepticon-1613,15.61,рәнҝ,color,r@nk'
+clics-doculect-27-1334,sout2697-std,concepticon-250,15.62,ишыглы,light (in color),ishygly
+clics-doculect-27-1335,sout2697-std,concepticon-706,15.63,гаранлыг,dark (in color),garanlyg
+clics-doculect-27-1336,sout2697-std,concepticon-706,15.63,түнд,dark (in color),tund
+clics-doculect-27-1337,sout2697-std,concepticon-1335,15.64,ағ,white,ag'
+clics-doculect-27-1338,sout2697-std,concepticon-163,15.65,гара,black,gara
+clics-doculect-27-1339,sout2697-std,concepticon-156,15.66,гырмызы,red,gyrmyzy
+clics-doculect-27-1340,sout2697-std,concepticon-837,15.67,ҝөј,blue,k'oj
+clics-doculect-27-1341,sout2697-std,concepticon-837,15.67,мави,blue,mavi
+clics-doculect-27-1342,sout2697-std,concepticon-1425,15.68,јашыл,green,jashyl
+clics-doculect-27-1343,sout2697-std,concepticon-1424,15.69,сары,yellow,sary
+clics-doculect-27-1344,sout2697-std,concepticon-1892,15.71,дәјмәк,touch,d@jm@k
+clics-doculect-27-1345,sout2697-std,concepticon-1892,15.71,тохунмаг,touch,tokhunmag
+clics-doculect-27-1346,sout2697-std,concepticon-378,15.712,чимдикләмәк,pinch,chimdikl@m@k
+clics-doculect-27-1347,sout2697-std,concepticon-378,15.712,сыхмаг,pinch,sykhmag
+clics-doculect-27-1348,sout2697-std,concepticon-1079,15.72,һиссетмәк,feel,hissetm@k
+clics-doculect-27-1349,sout2697-std,concepticon-1884,15.74,бәрк,hard,b@rk
+clics-doculect-27-1350,sout2697-std,concepticon-1884,15.74,сәрт,hard,s@rt
+clics-doculect-27-1351,sout2697-std,concepticon-1856,15.75,јумшаг,soft,jumshag
+clics-doculect-27-1352,sout2697-std,concepticon-1856,15.75,мүлајим,soft,mulajim
+clics-doculect-27-1353,sout2697-std,concepticon-1923,15.76,кобут,rough,kobut
+clics-doculect-27-1354,sout2697-std,concepticon-1234,15.77,һамар,smooth,hamar
+clics-doculect-27-1355,sout2697-std,concepticon-1234,15.77,дүз,smooth,duz
+clics-doculect-27-1356,sout2697-std,concepticon-1396,15.78,ити,sharp,iti
+clics-doculect-27-1357,sout2697-std,concepticon-379,15.79,күт,"blunt, dull",kut
+clics-doculect-27-1358,sout2697-std,concepticon-1210,15.81,ағыр,heavy,ag'yr
+clics-doculect-27-1359,sout2697-std,concepticon-1052,15.82,јүнҝүл,light (in weight),junk'ul
+clics-doculect-27-1360,sout2697-std,concepticon-1726,15.83,јаш,"wet, damp",jash
+clics-doculect-27-1361,sout2697-std,concepticon-1726,15.83,ислаг,"wet, damp",islag
+clics-doculect-27-1362,sout2697-std,concepticon-1398,15.84,гуру,dry,guru
+clics-doculect-27-1363,sout2697-std,concepticon-1286,15.85,исти,hot,isti
+clics-doculect-27-1364,sout2697-std,concepticon-1286,15.85,гајнар,hot,gajnar
+clics-doculect-27-1365,sout2697-std,concepticon-1232,15.851,исти,warm,isti
+clics-doculect-27-1366,sout2697-std,concepticon-1232,15.851,илыг,warm,ilyg
+clics-doculect-27-1367,sout2697-std,concepticon-1287,15.86,сојуг,cold,sojug
+clics-doculect-27-1368,sout2697-std,concepticon-704,15.87,тәмиз,clean,t@miz
+clics-doculect-27-1369,sout2697-std,concepticon-1230,15.88,чиркли,"dirty, soiled",chirkli
+clics-doculect-27-1370,sout2697-std,concepticon-1230,15.88,палчыглы,"dirty, soiled",palchygly
+clics-doculect-27-1371,sout2697-std,concepticon-380,15.89,әзилмиш,wrinkled,@zilmish
+clics-doculect-27-1372,sout2697-std,concepticon-380,15.89,јығылмыш,wrinkled,jyg'ylmysh
+clics-doculect-27-1373,sout2697-std,concepticon-53,16.11,руһ,"soul, spirit",ruh
+clics-doculect-27-1374,sout2697-std,concepticon-53,16.11,ҹан,"soul, spirit",ch'an
+clics-doculect-27-1375,sout2697-std,concepticon-1572,16.15,тәәҹүбләндирилмиш,"surprised, astonished",t@@ch'ubl@ndirilmish
+clics-doculect-27-1376,sout2697-std,concepticon-1572,16.15,тәәҹблүгәрибәлик,"surprised, astonished",t@@ch'blug@rib@lik
+clics-doculect-27-1377,sout2697-std,concepticon-720,16.18,уғур,"good fortune, luck",ug'ur
+clics-doculect-27-1378,sout2697-std,concepticon-720,16.18,мүвәффәгијјәт,"good fortune, luck",muv@ff@gijj@t
+clics-doculect-27-1379,sout2697-std,concepticon-56,16.19,уғурсузлуг,"misfortune, bad luck",ug'ursuzlug
+clics-doculect-27-1380,sout2697-std,concepticon-1495,16.23,бәхтли,"joyful, glad, happy",b@khtli
+clics-doculect-27-1381,sout2697-std,concepticon-1495,16.23,севинғли,"joyful, glad, happy",seving'li
+clics-doculect-27-1382,sout2697-std,concepticon-1495,16.23,фәрәһли,"joyful, glad, happy",f@r@hli
+clics-doculect-27-1383,sout2697-std,concepticon-1355,16.25,ҝүлмәк,laugh,k'ulm@k
+clics-doculect-27-1384,sout2697-std,concepticon-1451,16.251,ҝүлүмсәмәк,smile,k'ulums@m@k
+clics-doculect-27-1385,sout2697-std,concepticon-1413,16.26,ојнамаг,play,ojnamag
+clics-doculect-27-1386,sout2697-std,concepticon-923,16.27,севмәк,love,sevm@k
+clics-doculect-27-1387,sout2697-std,concepticon-578,16.29,өпмәк,kiss,opm@k
+clics-doculect-27-1388,sout2697-std,concepticon-928,16.3,гуҹагламаг,embrace,guch'aglamag
+clics-doculect-27-1389,sout2697-std,concepticon-1783,16.31,ағры,pain,ag'ry
+clics-doculect-27-1390,sout2697-std,concepticon-1668,16.32,гәм,"grief, sorrow, sadness",g@m
+clics-doculect-27-1391,sout2697-std,concepticon-1668,16.32,гүссә,"grief, sorrow, sadness",guss@
+clics-doculect-27-1392,sout2697-std,concepticon-1000,16.33,тәһлүкә,"anxiety, worry",t@hluk@
+clics-doculect-27-1393,sout2697-std,concepticon-1000,16.33,һәјәҹан,"anxiety, worry",h@j@ch'an
+clics-doculect-27-1394,sout2697-std,concepticon-1875,16.34,тәәссүфетмәк,"regret, be sorry",t@@ssufetm@k
+clics-doculect-27-1395,sout2697-std,concepticon-1875,16.34,һејифсләнмәк,"regret, be sorry",hejifsl@nm@k
+clics-doculect-27-1396,sout2697-std,concepticon-1141,16.35,рәһм,pity,r@hm
+clics-doculect-27-1397,sout2697-std,concepticon-1141,16.35,шәфгәт,pity,sh@fg@t
+clics-doculect-27-1398,sout2697-std,concepticon-1839,16.37,ағламаг,"cry, weep",ag'lamag
+clics-doculect-27-1399,sout2697-std,concepticon-1839,16.37,һычгырмаг,"cry, weep",hychgyrmag
+clics-doculect-27-1400,sout2697-std,concepticon-1651,16.38,ҝөзјашы,tear (noun),k'ozjashy
+clics-doculect-27-1401,sout2697-std,concepticon-716,16.39,инилдәмәк,groan,inild@m@k
+clics-doculect-27-1402,sout2697-std,concepticon-716,16.39,зарылдамаг,groan,zaryldamag
+clics-doculect-27-1403,sout2697-std,concepticon-1607,16.41,нифрәтетмәк,hate,nifr@tetm@k
+clics-doculect-27-1404,sout2697-std,concepticon-82,16.42,гәзәб,anger,g@z@b
+clics-doculect-27-1405,sout2697-std,concepticon-82,16.42,аҹыг,anger,ach'yg
+clics-doculect-27-1406,sout2697-std,concepticon-82,16.42,һирс,anger,hirs
+clics-doculect-27-1407,sout2697-std,concepticon-40,16.44,пахыллыг,"envy, jealousy",pakhyllyg
+clics-doculect-27-1408,sout2697-std,concepticon-40,16.44,гызганҹлыг,"envy, jealousy",gyzganch'lyg
+clics-doculect-27-1409,sout2697-std,concepticon-1776,16.45,һәја,shame (noun),h@ja
+clics-doculect-27-1410,sout2697-std,concepticon-1776,16.45,абыр,shame (noun),abyr
+clics-doculect-27-1411,sout2697-std,concepticon-1776,16.45,намус,shame (noun),namus
+clics-doculect-27-1412,sout2697-std,concepticon-174,16.48,мәғрур,proud,m@g'rur
+clics-doculect-27-1413,sout2697-std,concepticon-174,16.48,вүгарлы,proud,vugarly
+clics-doculect-27-1414,sout2697-std,concepticon-1779,16.51,гачаг,dare,gachag
+clics-doculect-27-1415,sout2697-std,concepticon-1779,16.51,иҝид,dare,ik'id
+clics-doculect-27-1416,sout2697-std,concepticon-3,16.52,ҹәсарәтли,brave,ch'@sar@tli
+clics-doculect-27-1417,sout2697-std,concepticon-781,16.53,горху,"fear, fright",gorkhu
+clics-doculect-27-1418,sout2697-std,concepticon-1810,16.54,тәһлүкә,danger,t@hluk@
+clics-doculect-27-1419,sout2697-std,concepticon-1810,16.54,горху,danger,gorkhu
+clics-doculect-27-1420,sout2697-std,concepticon-1784,16.62,арзу,"desire, want",arzu
+clics-doculect-27-1421,sout2697-std,concepticon-1750,16.622,сечмәк,choose,sechm@k
+clics-doculect-27-1422,sout2697-std,concepticon-1750,16.622,ајырмаг,choose,ajyrmag
+clics-doculect-27-1423,sout2697-std,concepticon-1092,16.63,архајынолмаг,hope,arkhajynolmag
+clics-doculect-27-1424,sout2697-std,concepticon-100,16.65,садиг,faithful,sadig
+clics-doculect-27-1425,sout2697-std,concepticon-100,16.65,дүзҝүн,faithful,duzk'un
+clics-doculect-27-1426,sout2697-std,concepticon-100,16.65,сәдагәтли,faithful,s@dag@tli
+clics-doculect-27-1427,sout2697-std,concepticon-1657,16.66,индики,true,indiki
+clics-doculect-27-1428,sout2697-std,concepticon-1657,16.66,там,true,tam
+clics-doculect-27-1429,sout2697-std,concepticon-601,16.67,јаланданышмаг,"lie, tell lies",jalandanyshmag
+clics-doculect-27-1430,sout2697-std,concepticon-13,16.68,алдатмаг,deceit,aldatmag
+clics-doculect-27-1431,sout2697-std,concepticon-1528,16.69,бағышламаг,forgive,bag'yshlamag
+clics-doculect-27-1432,sout2697-std,concepticon-1035,16.71,јахшы,good,jakhshy
+clics-doculect-27-1433,sout2697-std,concepticon-1292,16.72,пис,bad,pis
+clics-doculect-27-1434,sout2697-std,concepticon-1725,16.73,дүз,"right, correct",duz
+clics-doculect-27-1435,sout2697-std,concepticon-1390,16.74,дүзҝүнолмајан,wrong,duzk'unolmajan
+clics-doculect-27-1436,sout2697-std,concepticon-1390,16.74,јанлыш,wrong,janlysh
+clics-doculect-27-1437,sout2697-std,concepticon-134,16.76,ҝүнаһ,fault,k'unah
+clics-doculect-27-1438,sout2697-std,concepticon-134,16.76,хата,fault,khata
+clics-doculect-27-1439,sout2697-std,concepticon-134,16.76,тәгсир,fault,t@gsir
+clics-doculect-27-1440,sout2697-std,concepticon-1293,16.77,сәһф,"mistake, error",s@hf
+clics-doculect-27-1441,sout2697-std,concepticon-1293,16.77,хата,"mistake, error",khata
+clics-doculect-27-1442,sout2697-std,concepticon-381,16.78,тәгсирләндирмәк,blame,t@gsirl@ndirm@k
+clics-doculect-27-1443,sout2697-std,concepticon-1687,16.79,тәрифләмәк,praise,t@rifl@m@k
+clics-doculect-27-1444,sout2697-std,concepticon-1427,16.81,ҝөзәл,beautiful,k'oz@l
+clics-doculect-27-1445,sout2697-std,concepticon-1427,16.81,гәшәнҝ,beautiful,g@sh@nk'
+clics-doculect-27-1446,sout2697-std,concepticon-1548,16.82,ејбәҹәр,ugly,ejb@ch'@r
+clics-doculect-27-1447,sout2697-std,concepticon-2018,16.83,симиҹ,greedy,simich'
+clics-doculect-27-1448,sout2697-std,concepticon-2018,16.83,тамаһкар,greedy,tamahkar
+clics-doculect-27-1449,sout2697-std,concepticon-1310,16.84,ағыллы,clever,ag'ylly
+clics-doculect-27-1450,sout2697-std,concepticon-1310,16.84,зәкалы,clever,z@kaly
+clics-doculect-27-1451,sout2697-std,concepticon-1562,17.11,ағыл,mind,ag'yl
+clics-doculect-27-1452,sout2697-std,concepticon-1562,17.11,дәрракә,mind,d@rrak@
+clics-doculect-27-1453,sout2697-std,concepticon-1415,17.13,дүшүнмәк,think (= reflect),dushunm@k
+clics-doculect-27-1454,sout2697-std,concepticon-1513,17.14,фикирләшмәк,think (= be of the opinion),fikirl@shm@k
+clics-doculect-27-1455,sout2697-std,concepticon-1513,17.14,сајмаг,think (= be of the opinion),sajmag
+clics-doculect-27-1456,sout2697-std,concepticon-1513,17.14,һесабетмәк,think (= be of the opinion),hesabetm@k
+clics-doculect-27-1457,sout2697-std,concepticon-1890,17.15,инанмаг,believe,inanmag
+clics-doculect-27-1458,sout2697-std,concepticon-1890,17.15,етибаретмәк,believe,etibaretm@k
+clics-doculect-27-1459,sout2697-std,concepticon-1536,17.16,анламаг,understand,anlamag
+clics-doculect-27-1460,sout2697-std,concepticon-1536,17.16,ганмаг,understand,ganmag
+clics-doculect-27-1461,sout2697-std,concepticon-1536,17.16,башадүшмәк,understand,bashadushm@k
+clics-doculect-27-1462,sout2697-std,concepticon-1410,17.17,билмәк,know,bilm@k
+clics-doculect-27-1463,sout2697-std,concepticon-1410,17.17,танымаг,know,tanymag
+clics-doculect-27-1464,sout2697-std,concepticon-1932,17.171,ҝүманетмәк,guess,k'umanetm@k
+clics-doculect-27-1465,sout2697-std,concepticon-117,17.172,охшатмаг,imitate,okhshatmag
+clics-doculect-27-1466,sout2697-std,concepticon-117,17.172,бәнзәтмәк,imitate,b@nz@tm@k
+clics-doculect-27-1467,sout2697-std,concepticon-1521,17.18,ҝөрсәнмәк,seem,k'ors@nm@k
+clics-doculect-27-1468,sout2697-std,concepticon-1521,17.18,ҝөрүнмәк,seem,k'orunm@k
+clics-doculect-27-1469,sout2697-std,concepticon-1609,17.19,идеја,"idea, notion",ideja
+clics-doculect-27-1470,sout2697-std,concepticon-1609,17.19,әгидә,"idea, notion",@gid@
+clics-doculect-27-1471,sout2697-std,concepticon-1609,17.19,анлајыш,"idea, notion",anlajysh
+clics-doculect-27-1472,sout2697-std,concepticon-698,17.21,мүдрик,wise,mudrik
+clics-doculect-27-1473,sout2697-std,concepticon-698,17.21,алим,wise,alim
+clics-doculect-27-1474,sout2697-std,concepticon-1518,17.22,сарсаг,"foolish, stupid",sarsag
+clics-doculect-27-1475,sout2697-std,concepticon-1518,17.22,ҝиҹ,"foolish, stupid",k'ich'
+clics-doculect-27-1476,sout2697-std,concepticon-1899,17.23,дәли,"insane, crazy",d@li
+clics-doculect-27-1477,sout2697-std,concepticon-1899,17.23,ағылсыз,"insane, crazy",ag'ylsyz
+clics-doculect-27-1478,sout2697-std,concepticon-504,17.24,танымаг,learn,tanymag
+clics-doculect-27-1479,sout2697-std,concepticon-504,17.24,өјрәнмәк,learn,ojr@nm@k
+clics-doculect-27-1480,sout2697-std,concepticon-1929,17.242,өјрәнмәк,study,ojr@nm@k
+clics-doculect-27-1481,sout2697-std,concepticon-709,17.25,өјрәтмәк,teach,ojr@tm@k
+clics-doculect-27-1482,sout2697-std,concepticon-753,17.26,шаҝирд,pupil,shak'ird
+clics-doculect-27-1483,sout2697-std,concepticon-1038,17.27,мүәллим,teacher,mu@llim
+clics-doculect-27-1484,sout2697-std,concepticon-673,17.28,мәктәб,school,m@kt@b
+clics-doculect-27-1485,sout2697-std,concepticon-707,17.31,јаддасахламаг,remember,jaddasakhlamag
+clics-doculect-27-1486,sout2697-std,concepticon-1523,17.32,унутмаг,forget,unutmag
+clics-doculect-27-1487,sout2697-std,concepticon-989,17.34,ајдын,"clear, plain",ajdyn
+clics-doculect-27-1488,sout2697-std,concepticon-1764,17.35,анлашылмајан,obscure,anlashylmajan
+clics-doculect-27-1489,sout2697-std,concepticon-1121,17.36,сирр,secret,sirr
+clics-doculect-27-1490,sout2697-std,concepticon-509,17.37,инандырылмыш,"sure, certain",inandyrylmysh
+clics-doculect-27-1491,sout2697-std,concepticon-1626,17.38,анлатмаг,explain,anlatmag
+clics-doculect-27-1492,sout2697-std,concepticon-1626,17.38,изаһетмәк,explain,izahetm@k
+clics-doculect-27-1493,sout2697-std,concepticon-1162,17.41,нијјәт,"intention, purpose",nijj@t
+clics-doculect-27-1494,sout2697-std,concepticon-1162,17.41,мәгсәд,"intention, purpose",m@gs@d
+clics-doculect-27-1495,sout2697-std,concepticon-1162,17.41,һәдәф,"intention, purpose",h@d@f
+clics-doculect-27-1496,sout2697-std,concepticon-860,17.42,сәбәб,cause,s@b@b
+clics-doculect-27-1497,sout2697-std,concepticon-1308,17.43,шүбһә,doubt,shubh@
+clics-doculect-27-1498,sout2697-std,concepticon-1841,17.44,шүбһәләнмәк,suspect,shubh@l@nm@k
+clics-doculect-27-1499,sout2697-std,concepticon-1902,17.441,хәјанәтетмәк,betray,kh@jan@tetm@k
+clics-doculect-27-1500,sout2697-std,concepticon-1902,17.441,сатмаг,betray,satmag
+clics-doculect-27-1501,sout2697-std,concepticon-643,17.45,лүзум,"need, necessity",luzum
+clics-doculect-27-1502,sout2697-std,concepticon-643,17.45,еһтијаҹ,"need, necessity",ehtijach'
+clics-doculect-27-1503,sout2697-std,concepticon-686,17.46,асан,easy,asan
+clics-doculect-27-1504,sout2697-std,concepticon-686,17.46,јүнҝүл,easy,junk'ul
+clics-doculect-27-1505,sout2697-std,concepticon-584,17.47,чәтин,difficult,ch@tin
+clics-doculect-27-1506,sout2697-std,concepticon-1812,17.48,чалышмаг,"try, attempt",chalyshmag
+clics-doculect-27-1507,sout2697-std,concepticon-488,17.49,үсул,"way, manner",usul
+clics-doculect-27-1508,sout2697-std,concepticon-488,17.49,гајда,"way, manner",gajda
+clics-doculect-27-1509,sout2697-std,concepticon-1577,17.51,вә,and,v@
+clics-doculect-27-1510,sout2697-std,concepticon-1157,17.52,чүнки,because,chunki
+clics-doculect-27-1511,sout2697-std,concepticon-1157,17.52,онаҝөрә,because,onak'or@
+clics-doculect-27-1512,sout2697-std,concepticon-1459,17.53,әҝәр,if,@k'@r
+clics-doculect-27-1513,sout2697-std,concepticon-1014,17.54,ја,or,ja
+clics-doculect-27-1514,sout2697-std,concepticon-1014,17.54,јада,or,jada
+clics-doculect-27-1515,sout2697-std,concepticon-1014,17.54,јахуд,or,jakhud
+clics-doculect-27-1516,sout2697-std,concepticon-1268,17.55,бәли,"yes, affirmative",b@li
+clics-doculect-27-1517,sout2697-std,concepticon-1269,17.56,хејр,"no, negative",khejr
+clics-doculect-27-1518,sout2697-std,concepticon-1269,17.56,јох,"no, negative",jokh
+clics-doculect-27-1519,sout2697-std,concepticon-1239,17.61,неҹә?,how?,nech'@?
+clics-doculect-27-1520,sout2697-std,concepticon-822,17.62,нәгәдәр?,how many?,n@g@d@r?
+clics-doculect-27-1521,sout2697-std,concepticon-531,17.63,нечә?,how much?,nech@?
+clics-doculect-27-1522,sout2697-std,concepticon-1236,17.64,нә?,what?,n@?
+clics-doculect-27-1523,sout2697-std,concepticon-1238,17.65,нәвахт?,when?,n@vakht?
+clics-doculect-27-1524,sout2697-std,concepticon-1238,17.65,һачан?,when?,hachan?
+clics-doculect-27-1525,sout2697-std,concepticon-1237,17.66,һарада?,where?,harada?
+clics-doculect-27-1526,sout2697-std,concepticon-1237,17.66,һарадан?,where?,haradan?
+clics-doculect-27-1527,sout2697-std,concepticon-727,17.67,һансы?,which?,hansy?
+clics-doculect-27-1528,sout2697-std,concepticon-1235,17.68,ким?,who?,kim?
+clics-doculect-27-1529,sout2697-std,concepticon-1270,17.69,нијә?,why?,nij@?
+clics-doculect-27-1530,sout2697-std,concepticon-1270,17.69,нәјәҝөрә?,why?,n@j@k'or@?
+clics-doculect-27-1531,sout2697-std,concepticon-1363,18.11,сәс,voice,s@s
+clics-doculect-27-1532,sout2697-std,concepticon-1261,18.12,охумаг,sing,okhumag
+clics-doculect-27-1533,sout2697-std,concepticon-1261,18.12,ифаетмәк,sing,ifaetm@k
+clics-doculect-27-1534,sout2697-std,concepticon-715,18.13,чығырмаг,"shout, cry out",chyg'yrmag
+clics-doculect-27-1535,sout2697-std,concepticon-715,18.13,гышгырмаг,"shout, cry out",gyshgyrmag
+clics-doculect-27-1536,sout2697-std,concepticon-55,18.15,пычылдамаг,whisper,pychyldamag
+clics-doculect-27-1537,sout2697-std,concepticon-128,18.16,мыртылдамаг,mumble,myrtyldamag
+clics-doculect-27-1538,sout2697-std,concepticon-1025,18.17,фитчалмаг,whistle,fitchalmag
+clics-doculect-27-1539,sout2697-std,concepticon-298,18.18,зинҝилдәмәк,"shriek, screech",zink'ild@m@k
+clics-doculect-27-1540,sout2697-std,concepticon-526,18.19,уламаг,howl,ulamag
+clics-doculect-27-1541,sout2697-std,concepticon-1623,18.21,данышмаг,"speak, talk",danyshmag
+clics-doculect-27-1542,sout2697-std,concepticon-1623,18.21,сөһбәтетмәк,"speak, talk",sohb@tetm@k
+clics-doculect-27-1543,sout2697-std,concepticon-1866,18.211,пәлтәкләмәк,"stutter, stammer",p@lt@kl@m@k
+clics-doculect-27-1544,sout2697-std,concepticon-1866,18.211,һычгынмаг,"stutter, stammer",hychgynmag
+clics-doculect-27-1545,sout2697-std,concepticon-1458,18.22,демәк,say,dem@k
+clics-doculect-27-1546,sout2697-std,concepticon-1711,18.221,әһвалатданышмаг,tell story,@hvalatdanyshmag
+clics-doculect-27-1547,sout2697-std,concepticon-1115,18.222,нитг,speech (make a),nitg
+clics-doculect-27-1548,sout2697-std,concepticon-1115,18.222,нитгсөјләмәк,speech (make a),nitgsojl@m@k
+clics-doculect-27-1549,sout2697-std,concepticon-48,18.23,сусмаг,silent (be),susmag
+clics-doculect-27-1550,sout2697-std,concepticon-1307,18.24,дил,language,dil
+clics-doculect-27-1551,sout2697-std,concepticon-1599,18.26,сөз,word,soz
+clics-doculect-27-1552,sout2697-std,concepticon-1405,18.28,ад,name,ad
+clics-doculect-27-1553,sout2697-std,concepticon-1405,18.28,нам,name,nam
+clics-doculect-27-1554,sout2697-std,concepticon-1309,18.31,сорушмаг,"ask (question, inquire)",sorushmag
+clics-doculect-27-1555,sout2697-std,concepticon-1275,18.32,хәбәралмаг,answer,kh@b@ralmag
+clics-doculect-27-1556,sout2697-std,concepticon-2022,18.33,танымаг,"admit, confess",tanymag
+clics-doculect-27-1557,sout2697-std,concepticon-2022,18.33,сајылмаг,"admit, confess",sajylmag
+clics-doculect-27-1558,sout2697-std,concepticon-755,18.34,данмаг,deny,danmag
+clics-doculect-27-1559,sout2697-std,concepticon-755,18.34,инкаретмәк,deny,inkaretm@k
+clics-doculect-27-1560,sout2697-std,concepticon-1828,18.35,истәмәк,"ask, request",ist@m@k
+clics-doculect-27-1561,sout2697-std,concepticon-1828,18.35,диләмәк,"ask, request",dil@m@k
+clics-doculect-27-1562,sout2697-std,concepticon-1675,18.36,вәдетмәк,promise,v@detm@k
+clics-doculect-27-1563,sout2697-std,concepticon-1675,18.36,сөзвермәк,promise,sozverm@k
+clics-doculect-27-1564,sout2697-std,concepticon-49,18.37,рәддетмәк,refuse,r@ddetm@k
+clics-doculect-27-1565,sout2697-std,concepticon-49,18.37,имтинаетмәк,refuse,imtinaetm@k
+clics-doculect-27-1566,sout2697-std,concepticon-83,18.38,гадағанетмәк,forbid,gadag'anetm@k
+clics-doculect-27-1567,sout2697-std,concepticon-299,18.39,данламаг,"rebuke, scold",danlamag
+clics-doculect-27-1568,sout2697-std,concepticon-299,18.39,сөјмәк,"rebuke, scold",sojm@k
+clics-doculect-27-1569,sout2697-std,concepticon-1084,18.41,чағырмаг,call (=summon),chag'yrmag
+clics-doculect-27-1570,sout2697-std,concepticon-180,18.42,андландырылмаг,call (=name),andlandyrylmag
+clics-doculect-27-1571,sout2697-std,concepticon-9,18.43,еланетмәк,announce,elanetm@k
+clics-doculect-27-1572,sout2697-std,concepticon-9,18.43,билдирмәк,announce,bildirm@k
+clics-doculect-27-1573,sout2697-std,concepticon-1192,18.44,горхутмаг,threaten,gorkhutmag
+clics-doculect-27-1574,sout2697-std,concepticon-101,18.45,ловғаланмаг,boast,lovg'alanmag
+clics-doculect-27-1575,sout2697-std,concepticon-101,18.45,өзүнүтәрифләмәк,boast,ozunut@rifl@m@k
+clics-doculect-27-1576,sout2697-std,concepticon-1672,18.51,јазмаг,write,jazmag
+clics-doculect-27-1577,sout2697-std,concepticon-724,18.52,охумаг,read,okhumag
+clics-doculect-27-1578,sout2697-std,concepticon-648,18.56,кағыз,paper,kag'yz
+clics-doculect-27-1579,sout2697-std,concepticon-794,18.57,гәләм,pen,g@l@m
+clics-doculect-27-1580,sout2697-std,concepticon-963,18.61,китаб,book,kitab
+clics-doculect-27-1582,sout2697-std,concepticon-777,18.71,флејта,flute,flejta
+clics-doculect-27-1583,sout2697-std,concepticon-908,18.72,барабан,drum,baraban
+clics-doculect-27-1584,sout2697-std,concepticon-908,18.72,тәбил,drum,t@bil
+clics-doculect-27-1585,sout2697-std,concepticon-2136,18.73,бору,"horn, trumpet",boru
+clics-doculect-27-1586,sout2697-std,concepticon-2136,18.73,күнҝ,"horn, trumpet",kunk'
+clics-doculect-27-1587,sout2697-std,concepticon-300,18.74,шахшах,rattle,shakhshakh
+clics-doculect-27-1588,sout2697-std,concepticon-300,18.74,ојунҹаг,rattle,ojunch'ag
+clics-doculect-27-1589,sout2697-std,concepticon-1300,19.11,өлкә,country,olk@
+clics-doculect-27-1590,sout2697-std,concepticon-89,19.12,доғмаөлкә,one's native country,dog'maolk@
+clics-doculect-27-1591,sout2697-std,concepticon-1391,19.15,шәһәр,"city, town",sh@h@r
+clics-doculect-27-1592,sout2697-std,concepticon-930,19.16,кәнд,village,k@nd
+clics-doculect-27-1593,sout2697-std,concepticon-1010,19.17,сәрһәд,boundary,s@rh@d
+clics-doculect-27-1594,sout2697-std,concepticon-1010,19.17,һүдуд,boundary,hudud
+clics-doculect-27-1595,sout2697-std,concepticon-789,19.21,халг,people (populace),khalg
+clics-doculect-27-1596,sout2697-std,concepticon-302,19.23,тајфа,"tribe, clan",tajfa
+clics-doculect-27-1597,sout2697-std,concepticon-302,19.23,гөви,"tribe, clan",govi
+clics-doculect-27-1598,sout2697-std,concepticon-301,19.24,рәһбәр,"chief, chieftain",r@hb@r
+clics-doculect-27-1599,sout2697-std,concepticon-301,19.24,башчы,"chief, chieftain",bashchy
+clics-doculect-27-1600,sout2697-std,concepticon-1296,19.25,әса,"staff, walking stick",@sa
+clics-doculect-27-1601,sout2697-std,concepticon-1296,19.25,әлағаҹы,"staff, walking stick",@lag'ach'y
+clics-doculect-27-1602,sout2697-std,concepticon-1846,19.31,идарәетмәк,"rule, govern",idar@etm@k
+clics-doculect-27-1603,sout2697-std,concepticon-1508,19.32,крал,"king, ruler",kral
+clics-doculect-27-1604,sout2697-std,concepticon-1508,19.32,падшаһ,"king, ruler",padshah
+clics-doculect-27-1605,sout2697-std,concepticon-1306,19.33,краличә,queen,kralich@
+clics-doculect-27-1606,sout2697-std,concepticon-1306,19.33,шаһзадә,queen,shahzad@
+clics-doculect-27-1607,sout2697-std,concepticon-482,19.36,нәҹиб,"noble, nobleman",n@ch'ib
+clics-doculect-27-1608,sout2697-std,concepticon-482,19.36,мәрд,"noble, nobleman",m@rd
+clics-doculect-27-1609,sout2697-std,concepticon-482,19.36,алиҹәнаб,"noble, nobleman",alich'@nab
+clics-doculect-27-1610,sout2697-std,concepticon-1032,19.37,вәтәндаш,"citizen, subject",v@t@ndash
+clics-doculect-27-1611,sout2697-std,concepticon-383,19.41,ҹәнаб,master,ch'@nab
+clics-doculect-27-1612,sout2697-std,concepticon-383,19.41,саһибкар,master,sahibkar
+clics-doculect-27-1613,sout2697-std,concepticon-812,19.42,гул,slave,gul
+clics-doculect-27-1614,sout2697-std,concepticon-812,19.42,көлә,slave,kol@
+clics-doculect-27-1615,sout2697-std,concepticon-255,19.43,хадим,servant,khadim
+clics-doculect-27-1616,sout2697-std,concepticon-384,19.44,азададам,freeman,azadadam
+clics-doculect-27-1617,sout2697-std,concepticon-1128,19.45,бујурмаг,"command, order",bujurmag
+clics-doculect-27-1618,sout2697-std,concepticon-1128,19.45,әмретмәк,"command, order",@mretm@k
+clics-doculect-27-1619,sout2697-std,concepticon-1635,19.46,табеалмаг,obey,tabealmag
+clics-doculect-27-1620,sout2697-std,concepticon-1003,19.47,иҹазәвермәк,"let, permit",ich'az@verm@k
+clics-doculect-27-1621,sout2697-std,concepticon-1325,19.51,дост,"friend, companion",dost
+clics-doculect-27-1622,sout2697-std,concepticon-1358,19.52,дүшмән,enemy,dushm@n
+clics-doculect-27-1623,sout2697-std,concepticon-1332,19.54,гоншу,neighbor,gonshu
+clics-doculect-27-1624,sout2697-std,concepticon-791,19.55,јададам,stranger,jadadam
+clics-doculect-27-1625,sout2697-std,concepticon-791,19.55,танышолмајанадам,stranger,tanysholmajanadam
+clics-doculect-27-1626,sout2697-std,concepticon-1782,19.56,гонаг,guest,gonag
+clics-doculect-27-1627,sout2697-std,concepticon-1545,19.57,аға,host,ag'a
+clics-doculect-27-1628,sout2697-std,concepticon-1545,19.57,саһибкар,host,sahibkar
+clics-doculect-27-1629,sout2697-std,concepticon-1897,19.58,көмәк,"help, aid",kom@k
+clics-doculect-27-1630,sout2697-std,concepticon-1897,19.58,јардым,"help, aid",jardym
+clics-doculect-27-1631,sout2697-std,concepticon-1550,19.59,манеалмаг,"hinder, prevent",manealmag
+clics-doculect-27-1632,sout2697-std,concepticon-1747,19.61,адәт,custom,ad@t
+clics-doculect-27-1633,sout2697-std,concepticon-1747,19.61,гајда,custom,gajda
+clics-doculect-27-1634,sout2697-std,concepticon-1848,19.62,далашма,"strife, quarrel",dalashma
+clics-doculect-27-1635,sout2697-std,concepticon-1848,19.62,вурушма,"strife, quarrel",vurushma
+clics-doculect-27-1636,sout2697-std,concepticon-2024,19.63,гәсд,"conspiracy, plot",g@sd
+clics-doculect-27-1637,sout2697-std,concepticon-2024,19.63,дилбирлик,"conspiracy, plot",dilbirlik
+clics-doculect-27-1638,sout2697-std,concepticon-1831,19.65,ҝөрүшмәк,meet,k'orushm@k
+clics-doculect-27-1639,sout2697-std,concepticon-1610,19.72,фаһишә,prostitute,fahish@
+clics-doculect-27-1640,sout2697-std,concepticon-1610,19.72,сатгын,prostitute,satgyn
+clics-doculect-27-1641,sout2697-std,concepticon-1423,20.11,савашмаг,fight (vb),savashmag
+clics-doculect-27-1642,sout2697-std,concepticon-1423,20.11,вурушмаг,fight (vb),vurushmag
+clics-doculect-27-1643,sout2697-std,concepticon-579,20.13,дөјүш,"war, battle",dojush
+clics-doculect-27-1644,sout2697-std,concepticon-579,20.13,давамүһарибә,"war, battle",davamuharib@
+clics-doculect-27-1645,sout2697-std,concepticon-1338,20.14,дүнја,peace,dunja
+clics-doculect-27-1646,sout2697-std,concepticon-1561,20.15,орду,army,ordu
+clics-doculect-27-1647,sout2697-std,concepticon-1941,20.17,әсҝәр,soldier,@sk'@r
+clics-doculect-27-1648,sout2697-std,concepticon-951,20.21,јараг,"weapons, arms",jarag
+clics-doculect-27-1649,sout2697-std,concepticon-951,20.21,силаһ,"weapons, arms",silah
+clics-doculect-27-1650,sout2697-std,concepticon-1763,20.22,дәјәнәк,club,d@j@n@k
+clics-doculect-27-1651,sout2697-std,concepticon-1763,20.22,көтәк,club,kot@k
+clics-doculect-27-1652,sout2697-std,concepticon-386,20.222,һәрбибалта,battle-ax,h@rbibalta
+clics-doculect-27-1653,sout2697-std,concepticon-387,20.23,сапанд,sling,sapand
+clics-doculect-27-1654,sout2697-std,concepticon-994,20.24,јај,bow,jaj
+clics-doculect-27-1655,sout2697-std,concepticon-994,20.24,каман,bow,kaman
+clics-doculect-27-1656,sout2697-std,concepticon-977,20.25,ох,arrow,okh
+clics-doculect-27-1657,sout2697-std,concepticon-945,20.26,низә,spear,niz@
+clics-doculect-27-1658,sout2697-std,concepticon-945,20.26,ҹида,spear,ch'ida
+clics-doculect-27-1659,sout2697-std,concepticon-945,20.26,бәркдалашмаг,spear,b@rkdalashmag
+clics-doculect-27-1660,sout2697-std,concepticon-1535,20.27,гылынҹ,sword,gylynch'
+clics-doculect-27-1661,sout2697-std,concepticon-1566,20.28,түфәнҝ,"gun, cannon",tuf@nk'
+clics-doculect-27-1662,sout2697-std,concepticon-1566,20.28,топ,"gun, cannon",top
+clics-doculect-27-1663,sout2697-std,concepticon-1061,20.31,јарагәсләһә,armor (defensive),jarag@sl@h@
+clics-doculect-27-1664,sout2697-std,concepticon-1680,20.33,дәбилғә,helmet,d@bilg'@
+clics-doculect-27-1665,sout2697-std,concepticon-1680,20.33,дәмирпапаг,helmet,d@mirpapag
+clics-doculect-27-1666,sout2697-std,concepticon-1064,20.34,галхан,shield,galkhan
+clics-doculect-27-1667,sout2697-std,concepticon-1938,20.35,гала,fortress,gala
+clics-doculect-27-1668,sout2697-std,concepticon-1671,20.36,гала,tower,gala
+clics-doculect-27-1669,sout2697-std,concepticon-783,20.41,гәләбә,victory,g@l@b@
+clics-doculect-27-1670,sout2697-std,concepticon-782,20.42,мәғлубијјәт,defeat,m@g'lubijj@t
+clics-doculect-27-1671,sout2697-std,concepticon-722,20.43,һүҹуметмәк,attack,huch'umetm@k
+clics-doculect-27-1672,sout2697-std,concepticon-1330,20.44,өзүнүгорумаг,defend,ozunugorumag
+clics-doculect-27-1673,sout2697-std,concepticon-1330,20.44,идарәетмәк,defend,idar@etm@k
+clics-doculect-27-1674,sout2697-std,concepticon-421,20.45,ҝеричәкилмәк,retreat,k'erich@kilm@k
+clics-doculect-27-1675,sout2697-std,concepticon-1696,20.46,тәслимолмаг,surrender,t@slimolmag
+clics-doculect-27-1676,sout2697-std,concepticon-1072,20.47,әсир,"captive, prisoner",@sir
+clics-doculect-27-1677,sout2697-std,concepticon-1072,20.47,дустаг,"captive, prisoner",dustag
+clics-doculect-27-1678,sout2697-std,concepticon-1940,20.471,мүһафизәдәстәси,"guard, sentinel",muhafiz@d@st@si
+clics-doculect-27-1679,sout2697-std,concepticon-1940,20.471,гаровул,"guard, sentinel",garovul
+clics-doculect-27-1680,sout2697-std,concepticon-1022,20.48,таланмышмал,"booty, spoils",talanmyshmal
+clics-doculect-27-1681,sout2697-std,concepticon-65,20.49,јолунапусгугојмаг,ambush,jolunapusgugojmag
+clics-doculect-27-1682,sout2697-std,concepticon-1858,20.51,балыгчы,fisherman,balygchy
+clics-doculect-27-1683,sout2697-std,concepticon-1074,20.52,гармаг,fishhook,garmag
+clics-doculect-27-1684,sout2697-std,concepticon-1074,20.52,тилов,fishhook,tilov
+clics-doculect-27-1685,sout2697-std,concepticon-19,20.53,тиловипи,fishing line,tilovipi
+clics-doculect-27-1686,sout2697-std,concepticon-388,20.54,балыгчылыгтору,fishnet,balygchylygtoru
+clics-doculect-27-1687,sout2697-std,concepticon-389,20.55,балыгүчүнтәлә,fish trap,balyguchunt@l@
+clics-doculect-27-1688,sout2697-std,concepticon-2013,20.56,ҹазибә,bait,ch'azib@
+clics-doculect-27-1689,sout2697-std,concepticon-2013,20.56,тәләјеми,bait,t@l@jemi
+clics-doculect-27-1690,sout2697-std,concepticon-1435,20.61,овчулугетмәк,hunt,ovchulugetm@k
+clics-doculect-27-1691,sout2697-std,concepticon-1172,20.62,атмаг,shoot,atmag
+clics-doculect-27-1692,sout2697-std,concepticon-1172,20.62,атылмаг,shoot,atylmag
+clics-doculect-27-1693,sout2697-std,concepticon-161,20.63,сәһветмәк,miss (target),s@hvetm@k
+clics-doculect-27-1694,sout2697-std,concepticon-1075,20.64,тәлә,trap (noun),t@l@
+clics-doculect-27-1695,sout2697-std,concepticon-1075,20.64,һијлә,trap (noun),hijl@
+clics-doculect-27-1696,sout2697-std,concepticon-1170,20.65,тутмаг,trap (vb),tutmag
+clics-doculect-27-1697,sout2697-std,concepticon-1062,21.11,ганун,law,ganun
+clics-doculect-27-1698,sout2697-std,concepticon-1068,21.15,мәһкәмә,court,m@hk@m@
+clics-doculect-27-1699,sout2697-std,concepticon-1818,21.16,мүһакимәјеритмәк,judge (vb),muhakim@jeritm@k
+clics-doculect-27-1700,sout2697-std,concepticon-1067,21.17,мәһкәмәнинһөкмү,judgment,m@hk@m@ninhokmu
+clics-doculect-27-1701,sout2697-std,concepticon-861,21.18,һаким,judge (noun),hakim
+clics-doculect-27-1702,sout2697-std,concepticon-2020,21.21,тәләбкар,plaintiff,t@l@bkar
+clics-doculect-27-1703,sout2697-std,concepticon-1034,21.22,ҹавабдеһ,defendant,ch'avabdeh
+clics-doculect-27-1704,sout2697-std,concepticon-1144,21.23,шаһид,witness,shahid
+clics-doculect-27-1705,sout2697-std,concepticon-1939,21.24,андичмәк,swear,andichm@k
+clics-doculect-27-1706,sout2697-std,concepticon-1712,21.25,анд,oath,and
+clics-doculect-27-1707,sout2697-std,concepticon-1814,21.31,тагсырландырмаг,accuse,tagsyrlandyrmag
+clics-doculect-27-1708,sout2697-std,concepticon-1814,21.31,ҝунаһкарландырмаг,accuse,k'unahkarlandyrmag
+clics-doculect-27-1709,sout2697-std,concepticon-484,21.32,писләмәк,condemn,pisl@m@k
+clics-doculect-27-1710,sout2697-std,concepticon-484,21.32,мәһкуметмәк,condemn,m@hkumetm@k
+clics-doculect-27-1711,sout2697-std,concepticon-983,21.33,ҝүнаһкаредилмиш,convict (vb),k'unahkaredilmish
+clics-doculect-27-1712,sout2697-std,concepticon-988,21.34,тәмизәгыхартмаг,acquit,t@miz@gykhartmag
+clics-doculect-27-1713,sout2697-std,concepticon-1682,21.35,тагсырлы,guilty,tagsyrly
+clics-doculect-27-1714,sout2697-std,concepticon-1682,21.35,ҝүнаһкар,guilty,k'unahkar
+clics-doculect-27-1715,sout2697-std,concepticon-90,21.36,ҝүнаһсыз,innocent,k'unahsyz
+clics-doculect-27-1716,sout2697-std,concepticon-390,21.37,ҹәза,"penalty, punishment",ch'@za
+clics-doculect-27-1717,sout2697-std,concepticon-218,21.38,пуллуҹәримә,fine,pulluch'@rim@
+clics-doculect-27-1718,sout2697-std,concepticon-1281,21.39,дустагхана,"prison, jail",dustagkhana
+clics-doculect-27-1719,sout2697-std,concepticon-1281,21.39,һәбсхана,"prison, jail",h@bskhana
+clics-doculect-27-1720,sout2697-std,concepticon-845,21.42,өлдүрмә,murder,oldurm@
+clics-doculect-27-1721,sout2697-std,concepticon-845,21.42,өлдүрүлмә,murder,oldurulm@
+clics-doculect-27-1722,sout2697-std,concepticon-902,21.43,зина,adultery,zina
+clics-doculect-27-1723,sout2697-std,concepticon-953,21.44,зорлама,rape,zorlama
+clics-doculect-27-1724,sout2697-std,concepticon-1889,21.46,гәсдәнјандырма,arson,g@sd@njandyrma
+clics-doculect-27-1725,sout2697-std,concepticon-1889,21.46,одвурма,arson,odvurma
+clics-doculect-27-1726,sout2697-std,concepticon-1792,21.47,јаланчышаһидлик,perjury,jalanchyshahidlik
+clics-doculect-27-1727,sout2697-std,concepticon-713,21.51,оғурламаг,steal,og'urlamag
+clics-doculect-27-1728,sout2697-std,concepticon-1160,21.52,оғру,thief,og'ru

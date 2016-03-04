@@ -1,0 +1,1879 @@
+@classification: Austronesian,Malayo-Polynesian,Malayo-Sumbawan,North and East,Malayic,Malay
+@iso: ind
+@language: Indonesian
+@size: 1873
+@source: wold
+@variety: std
+1.1	world	dunia
+1.1	world	alam
+1.1	world	jagat
+1.1	world	buana
+1.21	earth, land	darat
+1.21	earth, land	tanah
+1.21	earth, land	bumi
+1.212	earth=ground, soil	tanah
+1.213	dust	debu
+1.213	dust	serdak
+1.213	dust	duli
+1.214	mud	lumpur
+1.215	sand	pasir
+1.22	mountain, hill	gunung
+1.22	mountain, hill	bukit
+1.222	cliff, precipice	tebing
+1.23	plain, field	dataran
+1.23	plain, field	padang
+1.23	plain, field	médan
+1.24	valley	lembah
+1.25	island	pulau
+1.25	island	nusa
+1.26	mainland	daratan
+1.27	shore	pantai
+1.27	shore	pesisir
+1.28	cave	gua
+1.31	water	air
+1.32	sea	laut
+1.32	sea	samudra
+1.322	calm (of sea)	tenang
+1.323	rough (of sea)	bergejolak
+1.323	rough (of sea)	bergelora
+1.323	rough (of sea)	bergolak
+1.324	foam	buih
+1.324	foam	busa
+1.329	ocean	lautan
+1.329	ocean	samudra
+1.33	lake	danau
+1.33	lake	situ
+1.34	gulf, bay	teluk
+1.341	lagoon	laguna
+1.342	reef	terumbu
+1.343	headland, point	tanjung
+1.343	headland, point	ancol
+1.35	wave	ombak
+1.35	wave	gelombang
+1.35	wave	alun
+1.352	tide	pasangsurut
+1.353	lowtide	surut
+1.354	hightide	pasang
+1.36	river, stream, brook	sungai
+1.36	river, stream, brook	anaksungai
+1.36	river, stream, brook	kali
+1.362	whirlpool	pusaranair
+1.37	spring, well	mataair
+1.37	spring, well	sumur
+1.37	spring, well	perigi
+1.38	swamp	rawa
+1.38	swamp	paya
+1.39	waterfall	airterjun
+1.41	woods, forest	hutan
+1.41	woods, forest	rimba
+1.41	woods, forest	wana
+1.43	wood	kayu
+1.44	stone, rock	batu
+1.44	stone, rock	séla
+1.45	earthquake	gempa
+1.45	earthquake	lindu
+1.51	sky	langit
+1.51	sky	angkasa
+1.51	sky	cakrawala
+1.51	sky	dirgantara
+1.52	sun	matahari
+1.52	sun	mentari
+1.52	sun	surya
+1.53	moon	bulan
+1.53	moon	rembulan
+1.53	moon	candra
+1.54	star	bintang
+1.54	star	kartika
+1.55	lightning	kilat
+1.56	thunder	guntur
+1.56	thunder	guruh
+1.56	thunder	glédék
+1.56	thunder	gelédék
+1.57	lightning (as striking)	petir
+1.57	lightning (as striking)	halilintar
+1.58	storm	badai
+1.58	storm	ribut
+1.59	rainbow	pelangi
+1.59	rainbow	bianglala
+1.61	light (noun)	cahaya
+1.61	light (noun)	sinar
+1.62	darkness	kegelapan
+1.62	darkness	kekelaman
+1.62	darkness	kegelitaan
+1.63	shade, shadow	bayangan
+1.63	shade, shadow	bayangbayang
+1.63	shade, shadow	naung
+1.64	dew	embun
+1.64	dew	ibun
+1.71	air	udara
+1.71	air	angin
+1.71	air	hawa
+1.72	wind	angin
+1.72	wind	bayu
+1.72	wind	pawana
+1.73	cloud	awan
+1.73	cloud	méga
+1.74	fog	kabut
+1.74	fog	halimun
+1.75	rain (noun)	hujan
+1.76	snow (noun)	salju
+1.77	ice	és
+1.78	weather	cuaca
+1.78	weather	udara
+1.78	weather	hawa
+1.81	fire	api
+1.81	fire	pawaka
+1.82	flame (noun)	lidahapi
+1.82	flame (noun)	nyala
+1.83	smoke (noun)	asap
+1.84	ashes	abu
+1.841	embers	bara
+1.851	burn (vb trans)	membakar
+1.852	burn (vb intrans)	terbakar
+1.86	light, kindle, ignite	menyalakan
+1.86	light, kindle, ignite	menyulut
+1.86	light, kindle, ignite	menyulutkan
+1.861	extinguish	memadamkan
+1.87	match (noun)	korékapi
+1.88	firewood	kayubakar
+1.89	charcoal	arang
+2.1	person, human being	orang
+2.1	person, human being	manusia
+2.1	person, human being	insan
+2.21	man (vs. woman)	lakilaki
+2.21	man (vs. woman)	lelaki
+2.21	man (vs. woman)	pria
+2.21	man (vs. woman)	cowok
+2.22	woman	perempuan
+2.22	woman	wanita
+2.22	woman	céwék
+2.23	male	lakilaki
+2.23	male	lelaki
+2.23	male	pria
+2.24	female	perempuan
+2.24	female	wanita
+2.25	boy	putra
+2.25	boy	putera
+2.251	young man (adolescent)	anakmuda
+2.251	young man (adolescent)	teruna
+2.251	young man (adolescent)	pemuda
+2.26	girl	gadis
+2.26	girl	putri
+2.26	girl	puteri
+2.26	girl	dara
+2.261	young woman (adolescent)	gadis
+2.27	child	anak
+2.27	child	bocah
+2.28	infant, baby	bayi
+2.31	husband	suami
+2.31	husband	laki
+2.32	wife	istri
+2.32	wife	bini
+2.33	marry	mengawini
+2.33	marry	menikahi
+2.34	marriage, wedding	pernikahan
+2.34	marriage, wedding	perkawinan
+2.341	divorce	perceraian
+2.341	divorce	talak
+2.35	father	bapa
+2.35	father	bapak
+2.35	father	ayah
+2.35	father	papa
+2.35	father	papi
+2.36	mother	ibu
+2.36	mother	mak
+2.36	mother	emak
+2.36	mother	bunda
+2.36	mother	ibunda
+2.36	mother	induk
+2.36	mother	indung
+2.36	mother	mama
+2.36	mother	mami
+2.37	parents	orangtua
+2.41	son	putra
+2.41	son	putera
+2.42	daughter	putri
+2.42	daughter	puteri
+2.43	offspring (son or daughter)	anak
+2.444	older brother	abang
+2.456	sibling	saudara
+2.458	twins	kembar
+2.46	grandfather	kakék
+2.46	grandfather	opa
+2.47	grandmother	nénék
+2.47	grandmother	oma
+2.51	uncle	paman
+2.51	uncle	om
+2.51	uncle	oom
+2.52	aunt	bibi
+2.52	aunt	tante
+2.55	cousin	sepupu
+2.56	ancestors	nénékmoyang
+2.56	ancestors	leluhur
+2.57	descendants	keturunan
+2.57	descendants	anakcucu
+2.71	stepfather	bapaktiri
+2.71	stepfather	ayahtiri
+2.72	stepmother	ibutiri
+2.72	stepmother	mak
+2.72	stepmother	emaktiri
+2.75	orphan	yatimpiatu
+2.76	widow	janda
+2.77	widower	duda
+2.81	relatives, kinsmen	famili
+2.81	relatives, kinsmen	saudara
+2.81	relatives, kinsmen	sanak
+2.81	relatives, kinsmen	kerabat
+2.82	family	keluarga
+2.91	I	aku
+2.91	I	saya
+2.92	you (singular)	kamu
+2.92	you (singular)	kau
+2.92	you (singular)	engkau
+2.93	he/she/it	dia
+2.93	he/she/it	ia
+2.93	he/she/it	beliau
+2.941	we (inclusive)	kita
+2.942	we (exclusive)	kami
+2.95	you (plural)	kalian
+2.96	they	meréka
+3.11	animal	binatang
+3.11	animal	héwan
+3.12	male (adj)	jantan
+3.13	female (adj)	betina
+3.15	livestock	ternak
+3.18	herdsman	gembala
+3.19	stable, stall	kandang
+3.2	cattle (bovine)	sapi
+3.2	cattle (bovine)	lembu
+3.25	sheep	domba
+3.25	sheep	biribiri
+3.32	boar	babihutan
+3.32	boar	céléng
+3.35	pig	babi
+3.36	goat	kambing
+3.41	horse (equine)	kuda
+3.46	ass, donkey	keledai
+3.47	mule	bagal
+3.5	fowl	unggas
+3.52	cock, rooster	jago
+3.55	chicken	ayam
+3.56	goose	angsa
+3.57	duck	bébék
+3.57	duck	itik
+3.58	nest	sarang
+3.581	bird	burung
+3.582	seagull	camar
+3.583	heron	bangau
+3.584	eagle	rajawali
+3.585	hawk	elang
+3.586	vulture	hering
+3.591	bat	kelelawar
+3.591	bat	kalong
+3.592	parrot	nuri
+3.592	parrot	bétét
+3.593	crow	gagak
+3.594	dove	merpati
+3.596	owl	burunghantu
+3.61	dog	anjing
+3.614	rabbit	kelinci
+3.614	rabbit	terwélu
+3.614	rabbit	arnab
+3.62	cat	kucing
+3.622	opossum	oposum
+3.63	mouse, rat	tikus
+3.65	fish	ikan
+3.652	fin (dorsal)	sirip
+3.653	fishscale	sisik
+3.654	gill	insang
+3.655	shell	kerang
+3.661	shark	hiu
+3.662	porpoise, dolphin	lumbalumba
+3.663	whale	paus
+3.664	stingray	pari
+3.665	freshwater eel	belut
+3.665	freshwater eel	lindung
+3.71	wolf	serigala
+3.72	lion	singa
+3.73	bear	beruang
+3.74	fox	rubah
+3.75	deer	rusa
+3.75	deer	kijang
+3.76	monkey	monyét
+3.77	elephant	gajah
+3.78	camel	unta
+3.78	camel	onta
+3.81	insect	serangga
+3.811	louse	tuma
+3.813	flea	caplak
+3.814	centipede	lipan
+3.815	scorpion	kalajengking
+3.816	cockroach	kecoa
+3.817	ant	semut
+3.818	spider	labalaba
+3.82	bee	lebah
+3.82	bee	tawon
+3.821	beeswax	lilin
+3.823	wasp	tawon
+3.823	wasp	penyengat
+3.823	wasp	tabuhan
+3.83	fly	lalat
+3.831	sandfly (midge), gnat	agas
+3.832	mosquito	nyamuk
+3.84	worm	cacing
+3.85	snake	ular
+3.91	firefly	kunangkunang
+3.92	butterfly	kupukupu
+3.92	butterfly	ramarama
+3.93	grasshopper	belalang
+3.94	snail	siput
+3.94	snail	kéong
+3.94	snail	bekicot
+3.95	frog	kodok
+3.95	frog	katak
+3.96	lizard	kadal
+3.96	lizard	cicak
+3.97	crocodile, alligator	buaya
+3.98	turtle	kurakura
+4.11	body	badan
+4.11	body	tubuh
+4.12	skin, hide	kulit
+4.12	skin, hide	belulang
+4.13	flesh	daging
+4.14	hair (head)	rambut
+4.142	beard	jénggot
+4.142	beard	janggut
+4.142	beard	bréwok
+4.144	body hair	bulu
+4.145	pubic hair	jambut
+4.146	dandruff	ketombé
+4.15	blood	darah
+4.151	vein, artery	pembuluh
+4.151	vein, artery	urat
+4.151	vein, artery	arteri
+4.16	bone	tulang
+4.162	rib	rusuk
+4.162	rib	iga
+4.17	horn	tanduk
+4.18	tail	ékor
+4.18	tail	buntut
+4.19	back	punggung
+4.19	back	belakang
+4.19	back	pinggang
+4.191	spine	tulangbelakang
+4.2	head	kepala
+4.201	side of head, temple	pelipis
+4.202	skull	tengkorak
+4.203	brain	otak
+4.204	face	muka
+4.204	face	wajah
+4.205	forehead	dahi
+4.207	jaw	rahang
+4.208	cheek	pipi
+4.209	chin	dagu
+4.21	eye	mata
+4.212	eyebrow	alis
+4.213	eyelid	kelopakmata
+4.214	eyelash	bulumata
+4.215	blink	berkedip
+4.22	ear	telinga
+4.22	ear	kuping
+4.221	earlobe	cuping
+4.222	earwax	kotorantelinga
+4.222	earwax	tahikuping
+4.23	nose	hidung
+4.231	nostril	lubanghidung
+4.231	nostril	ronggahidung
+4.232	mucus (nasal)	ingus
+4.24	mouth	mulut
+4.241	beak	paruh
+4.25	lip	bibir
+4.26	tongue	lidah
+4.27	tooth	gigi
+4.271	gums	gusi
+4.272	molartooth	geraham
+4.28	neck	léhér
+4.281	nape of neck	tengkuk
+4.29	throat	tenggorokan
+4.29	throat	kerongkongan
+4.3	shoulder	bahu
+4.3	shoulder	pundak
+4.301	shoulderblade	tulangbelikat
+4.302	collarbone	tulangselangka
+4.31	arm	lengan
+4.312	armpit	ketiak
+4.312	armpit	kéték
+4.32	elbow	siku
+4.321	wrist	pergelangantangan
+4.33	hand	tangan
+4.331	palm of hand	tapak
+4.331	palm of hand	telapaktangan
+4.34	finger	jari
+4.342	thumb	jempol
+4.342	thumb	ibujari
+4.344	fingernail	kuku
+4.345	claw	cakar
+4.35	leg	kaki
+4.351	thigh	paha
+4.352	calf of leg	betis
+4.36	knee	lutut
+4.37	foot	kaki
+4.371	ankle	matakaki
+4.372	heel	tumit
+4.374	footprint	jejak
+4.38	toe	jarikaki
+4.392	wing	sayap
+4.393	feather	bulu
+4.4	chest	dada
+4.41	breast (of woman)	susu
+4.41	breast (of woman)	payudara
+4.412	nipple, teat	puting
+4.42	udder	ambing
+4.43	navel	pusar
+4.44	heart	jantung
+4.441	lung	paruparu
+4.45	liver	léver
+4.45	liver	hati
+4.451	kidney	ginjal
+4.452	spleen	limpa
+4.46	stomach	lambung
+4.46	stomach	maag
+4.46	stomach	perut
+4.461	intestines, guts	usus
+4.462	waist	pinggang
+4.463	hip	pinggul
+4.464	buttocks	pantat
+4.47	womb	rahim
+4.47	womb	kandung
+4.47	womb	kandungan
+4.49	testicle	bijikemaluan
+4.49	testicle	buahpelir
+4.49	testicle	testis
+4.492	penis	pénis
+4.492	penis	kontol
+4.492	penis	pelir
+4.51	breathe, breath	bernafas
+4.52	yawn, gape	menguap
+4.521	hiccough	cegukan
+4.53	cough	batuk
+4.54	sneeze	bersin
+4.55	perspire	berkeringat
+4.56	spit	meludah
+4.57	vomit	muntah
+4.58	bite	menggigit
+4.59	lick	menjilat
+4.591	dribble	berliur
+4.591	dribble	mengiler
+4.61	sleep	tidur
+4.612	snore	mendengkur
+4.62	dream	mimpi
+4.63	wake up	bangun
+4.64	break wind	kentut
+4.64	break wind	buangangin
+4.65	urinate	kencing
+4.66	defecate	bérak
+4.67	have sexual intercourse	bersetubuh
+4.68	shiver	menggigil
+4.69	bathe	mandi
+4.71	beget (of father)	memperanakkan
+4.72	born (to be)	lahir
+4.73	pregnant	hamil
+4.73	pregnant	bunting
+4.73	pregnant	mengandung
+4.74	live, living, life	hidup
+4.75	die, dead	mati
+4.751	drowned	tenggelam
+4.76	kill	membunuh
+4.77	corpse	mayat
+4.77	corpse	jasad
+4.77	corpse	jenazah
+4.78	bury (the dead)	mengubur
+4.79	grave, tomb	kubur
+4.79	grave, tomb	kuburan
+4.79	grave, tomb	makam
+4.81	strong, mighty, powerful	kuat
+4.82	weak	lemah
+4.83	well, health	séhat
+4.84	sick, sickness	sakit
+4.841	fever	demam
+4.842	goiter	gondok
+4.843	cold (catarrh)	flu
+4.843	cold (catarrh)	pilek
+4.843	cold (catarrh)	selesma
+4.843	cold (catarrh)	selésma
+4.843	cold (catarrh)	masukangin
+4.85	wound, sore	luka
+4.852	bruise	memar
+4.853	swelling	bengkak
+4.854	itch	gatal
+4.855	blister	lepuh
+4.856	boil (noun)	bisul
+4.857	pus	nanah
+4.858	scar	parut
+4.86	cure, heal	meyembuhkan
+4.87	physician	dokter
+4.88	medicine, drug	obat
+4.89	poison	racun
+4.91	tired, weary	capék
+4.91	tired, weary	capai
+4.91	tired, weary	lelah
+4.912	rest	beristirahat
+4.92	lazy	malas
+4.93	bald	botak
+4.94	lame	pincang
+4.95	deaf	tuli
+4.95	deaf	budek
+4.96	mute	bisu
+4.97	blind	buta
+4.98	intoxicated	mabuk
+4.99	naked, bare	telanjang
+5.11	eat	makan
+5.12	food	makanan
+5.121	cooked	masak
+5.122	raw	mentah
+5.123	ripe	matang
+5.123	ripe	masak
+5.124	green, unripe	mentah
+5.125	rotten	basi
+5.125	rotten	busuk
+5.13	drink	minum
+5.14	hunger	lapar
+5.141	famine	kelaparan
+5.141	famine	paceklik
+5.15	thirst	haus
+5.16	suck	mengisap
+5.18	chew	mengunyah
+5.18	chew	mamah
+5.181	swallow	menelan
+5.19	choke	mencekik
+5.21	cook	memasak
+5.22	boil (vb)	mendidih
+5.23	roast, fry	menggoréng
+5.23	roast, fry	memanggang
+5.24	bake	memanggang
+5.25	oven	open
+5.25	oven	tungku
+5.25	oven	dapur
+5.26	pot, cooking vessel	panci
+5.26	pot, cooking vessel	periuk
+5.26	pot, cooking vessel	belanga
+5.27	kettle	cérét
+5.27	kettle	téko
+5.27	kettle	cérék
+5.28	pan	penggoréngan
+5.28	pan	panci
+5.28	pan	kuali
+5.28	pan	wajan
+5.31	dish	piring
+5.31	dish	pinggan
+5.32	plate	piring
+5.33	bowl	mangkuk
+5.33	bowl	mangkok
+5.34	pitcher, jug	kendi
+5.34	pitcher, jug	picer
+5.35	cup, drinking vessel	cangkir
+5.35	cup, drinking vessel	gelas
+5.35	cup, drinking vessel	cawan
+5.36	saucer	alascangkir
+5.37	spoon	séndok
+5.38	knife	pisau
+5.39	fork	garpu
+5.391	tongs	tang
+5.42	breakfast	sarapan
+5.42	breakfast	makanpagi
+5.43	lunch	makansiang
+5.45	supper	makanmalam
+5.46	peel	mengupas
+5.47	sieve, strain	menyaring
+5.47	sieve, strain	meniriskan
+5.48	scrape	mengerik
+5.48	scrape	mengeruk
+5.49	stir, mix	mengaduk
+5.49	stir, mix	mencampur
+5.51	bread	roti
+5.53	dough	adonan
+5.54	knead	meremas
+5.54	knead	meramas
+5.55	meal, flour	tepung
+5.56	crush, grind	menumbuk
+5.56	crush, grind	menggiling
+5.56	crush, grind	menghancurkan
+5.57	mill	gilingan
+5.58	mortar	lesung
+5.59	pestle	alu
+5.61	meat	daging
+5.63	sausage	sosis
+5.64	soup, broth	sop
+5.64	soup, broth	sup
+5.64	soup, broth	soto
+5.65	vegetables	sayur
+5.65	vegetables	sayuran
+5.66	bean	kacang
+5.7	potato	kentang
+5.71	fruit	buah
+5.712	bunch	ikat
+5.712	bunch	gugus
+5.712	bunch	tandan
+5.75	fig	ara
+5.76	grape	anggur
+5.77	nut	kacang
+5.78	olive	zaitun
+5.78	olive	olive
+5.79	oil	minyak
+5.791	grease, fat	lemak
+5.81	salt	garam
+5.82	pepper	lada
+5.82	pepper	merica
+5.821	chili pepper	cabé
+5.821	chili pepper	cabai
+5.821	chili pepper	lombok
+5.84	honey	madu
+5.85	sugar	gula
+5.86	milk (noun)	susu
+5.87	milk (vb)	memerah
+5.88	cheese	kéju
+5.89	butter	mentéga
+5.9	beverage, drink	minuman
+5.92	wine	anggur
+5.92	wine	wine
+5.93	beer	bir
+5.94	fermented drink	tuak
+5.97	egg	telur
+5.97	egg	telor
+5.971	egg yolk	kuningtelur
+6.11	put on (clothes)	memakai
+6.11	put on (clothes)	mengenakan
+6.12	clothing, clothes	pakaian
+6.12	clothing, clothes	baju
+6.12	clothing, clothes	busana
+6.13	tailor	tukangjahit
+6.21	cloth	kain
+6.22	wool	wol
+6.23	linen, flax	linen
+6.24	cotton	katun
+6.24	cotton	kapas
+6.25	silk	sutera
+6.28	fur	bulu
+6.29	leather	kulit
+6.31	spin	memintal
+6.32	spindle	kumparan
+6.33	weave	menenun
+6.34	loom	alattenun
+6.35	sew	menjahit
+6.36	needle	jarum
+6.37	awl	pusut
+6.38	thread	benang
+6.39	dye	mencelup
+6.41	cloak	jubah
+6.42	woman's dress	daster
+6.42	woman's dress	terusan
+6.42	woman's dress	gaun
+6.42	woman's dress	tunik
+6.43	coat	mantel
+6.44	shirt	baju
+6.44	shirt	keméja
+6.44	shirt	blus
+6.44	shirt	kaos
+6.45	collar	kerah
+6.46	skirt	rok
+6.48	trousers	celana
+6.48	trousers	seluar
+6.49	stocking, sock	kaos
+6.51	shoe	sepatu
+6.52	boot	bot
+6.54	shoemaker, cobbler	tukangsepatu
+6.55	hat, cap	topi
+6.55	hat, cap	péci
+6.57	belt, girdle	ikatpinggang
+6.57	belt, girdle	talipinggang
+6.57	belt, girdle	sabuk
+6.57	belt, girdle	géspér
+6.58	glove	sarungtangan
+6.59	veil	kerudung
+6.59	veil	tudung
+6.59	veil	cadar
+6.61	pocket	kantung
+6.61	pocket	kantong
+6.61	pocket	saku
+6.62	button	kancing
+6.63	pin	jarum
+6.63	pin	peniti
+6.71	ornament, adornment	perhiasan
+6.72	jewel	permata
+6.73	ring (for finger)	cincin
+6.74	bracelet	gelang
+6.75	necklace	kalung
+6.76	bead	manikmanik
+6.77	earring	antinganting
+6.77	earring	giwang
+6.78	headband, headdress	ikatkepala
+6.78	headband, headdress	serban
+6.78	headband, headdress	sorban
+6.78	headband, headdress	blangkon
+6.78	headband, headdress	destar
+6.78	headband, headdress	jilbab
+6.79	tattoo	tato
+6.81	handkerchief, rag	saputangan
+6.81	handkerchief, rag	lap
+6.82	towel	handuk
+6.82	towel	tuala
+6.91	comb	sisir
+6.92	brush	sikat
+6.921	braid	képang
+6.93	razor	pisaucukur
+6.93	razor	silét
+6.94	ointment	salep
+6.95	soap	sabun
+6.96	mirror	cermin
+6.96	mirror	kaca
+7.11	dwell, live	tinggal
+7.11	dwell, live	berdiam
+7.12	house	rumah
+7.13	hut	pondok
+7.13	hut	gubuk
+7.14	tent	ténda
+7.14	tent	kémah
+7.15	yard, court	halaman
+7.17	cookhouse	dapur
+7.18	meeting house	balai
+7.21	room	kamar
+7.21	room	bilik
+7.21	room	ruang
+7.21	room	ruangan
+7.22	door, gate	pintu
+7.22	door, gate	gerbang
+7.22	door, gate	gapura
+7.221	doorpost, jamb	tiangpintu
+7.23	lock (noun)	kunci
+7.23	lock (noun)	selot
+7.231	latch, door-bolt	palangpintu
+7.231	latch, door-bolt	gréndél
+7.231	latch, door-bolt	selot
+7.24	key	kunci
+7.25	window	jendéla
+7.26	floor	lantai
+7.27	wall	dinding
+7.27	wall	témbok
+7.31	fireplace	perapian
+7.32	stove	kompor
+7.33	chimney	cerobong
+7.37	ladder	tangga
+7.42	bed	tempattidur
+7.42	bed	ranjang
+7.421	pillow	bantal
+7.422	blanket	selimut
+7.43	chair	kursi
+7.44	table	méja
+7.45	lamp, torch	lampu
+7.45	lamp, torch	obor
+7.45	lamp, torch	suluh
+7.45	lamp, torch	dian
+7.46	candle	lilin
+7.47	shelf	rak
+7.48	trough	palung
+7.51	roof	atap
+7.52	thatch	ijuk
+7.53	ridgepole	bubungan
+7.54	rafter	kasau
+7.55	beam	balok
+7.56	post, pole	tiang
+7.57	board	papan
+7.58	arch	lengkung
+7.61	mason	tukangbatu
+7.62	brick	batubata
+7.63	mortar	semén
+7.63	mortar	lépa
+8.11	farmer	petani
+8.12	field (for cultivation)	ladang
+8.12	field (for cultivation)	kebun
+8.12	field (for cultivation)	kebon
+8.13	garden	taman
+8.15	cultivate, till	menggarap
+8.16	fence	pagar
+8.17	ditch	parit
+8.17	ditch	got
+8.17	ditch	bandar
+8.21	plow	membajak
+8.21	plow	menenggala
+8.212	furrow	alur
+8.22	dig	menggali
+8.23	spade	pacul
+8.24	shovel	sekop
+8.25	hoe	cangkul
+8.26	fork	garpu
+8.27	rake	penggaruk
+8.31	sow	menabur
+8.311	seed	benih
+8.311	seed	biji
+8.32	mow, reap	membabat
+8.32	mow, reap	menebas
+8.33	sickle, scythe	arit
+8.33	sickle, scythe	sabit
+8.33	sickle, scythe	celurit
+8.33	sickle, scythe	clurit
+8.34	thresh	menebahkan
+8.34	thresh	menumbuk
+8.41	crop, harvest	panén
+8.42	grain (barley, oats etc)	butir
+8.42	grain (barley, oats etc)	biji
+8.43	wheat	terigu
+8.43	wheat	gandum
+8.46	oats	havermut
+8.47	maize, corn	jagung
+8.48	rice	nasi
+8.48	rice	beras
+8.48	rice	padi
+8.51	grass	rumput
+8.52	hay	jerami
+8.53	plant (noun)	tanaman
+8.53	plant (noun)	tumbuhan
+8.53	plant (noun)	pohon
+8.531	plant (vb)	menanam
+8.54	root	akar
+8.55	branch	cabang
+8.55	branch	dahan
+8.55	branch	ranting
+8.56	leaf	daun
+8.57	flower	bunga
+8.57	flower	kembang
+8.6	tree	pohon
+8.64	pine	pinus
+8.65	fir	cemara
+8.67	vine	tanamanmerambat
+8.68	tobacco	tembakau
+8.69	smoke (tobacco)	merokok
+8.691	pipe	pipa
+8.691	pipe	cangklong
+8.72	tree stump	tunggul
+8.73	tree trunk	pokok
+8.73	tree trunk	batang
+8.74	forked branch	cabang
+8.75	bark	kulitkayu
+8.76	sap	getah
+8.81	palm tree	palem
+8.82	coconut	kelapa
+8.82	coconut	nyiur
+8.83	citrus fruit	jeruk
+8.84	banana tree	pisang
+8.85	banyan	beringin
+8.91	sweet potato	ubijalar
+8.912	yam	ubimadu
+8.92	tapioca, manioc, cassava	singkong
+8.92	tapioca, manioc, cassava	ubikayu
+8.93	gourd	labu
+8.931	pumpkin, squash	labu
+8.94	bamboo	bambu
+8.941	sugar cane	tebu
+8.96	fish poison (root)	tuba
+8.97	nettle	jelatang
+8.98	mushroom	jamur
+9.11	do, make	melakukan
+9.12	work	kerja
+9.12	work	pekerjaan
+9.14	bend	menekukkan
+9.14	bend	membéngkokkan
+9.15	fold	melipat
+9.16	tie, bind	mengikat
+9.161	untie	menguraikan
+9.18	chain	rantai
+9.19	rope, cord	tali
+9.192	knot (noun)	ikatan
+9.192	knot (noun)	simpul
+9.21	strike (hit, beat)	memukul
+9.211	pound with fist	menggebrak
+9.211	pound with fist	menghantam
+9.22	cut	memotong
+9.221	cut down	menebang
+9.222	chop, hew	membelah
+9.222	chop, hew	mencincang
+9.223	stab	menusuk
+9.223	stab	menikam
+9.23	knife	pisau
+9.24	scissors, shears	gunting
+9.25	ax	kapak
+9.251	adze	beliung
+9.26	break	memecahkan
+9.261	broken	rusak
+9.27	split	membelah
+9.28	tear	menyobék
+9.28	tear	merobék
+9.29	flay, skin	menguliti
+9.31	rub, wipe	menggosok
+9.31	rub, wipe	menggésék
+9.32	stretch	merentangkan
+9.32	stretch	merenggangkan
+9.33	pull	menarik
+9.34	spread out	menggelar
+9.341	hang up	menggantung
+9.342	press	menekan
+9.342	press	memencét
+9.343	squeeze, wring	memeras
+9.343	squeeze, wring	memerah
+9.35	pour	menuang
+9.36	wash	mencuci
+9.36	wash	membasuh
+9.37	sweep	menyapu
+9.38	broom	sapu
+9.422	tool	alat
+9.43	carpenter	tukangkayu
+9.44	build	membangun
+9.46	bore	mengebor
+9.46	bore	melubangi
+9.461	hollow out	melubangi
+9.48	saw	gergaji
+9.49	hammer	palu
+9.5	nail	paku
+9.56	glue	lém
+9.6	smith, blacksmith	tukangbesi
+9.61	forge	menempa
+9.62	anvil	paron
+9.62	anvil	landasan
+9.63	cast (metals)	mencétak
+9.63	cast (metals)	mengacu
+9.63	cast (metals)	mengecor
+9.64	gold	mas
+9.64	gold	emas
+9.64	gold	kencana
+9.65	silver	pérak
+9.66	copper, bronze	tembaga
+9.67	iron	besi
+9.68	lead (noun)	timbal
+9.69	tin, tinplate	timah
+9.71	potter	tukangtembikar
+9.72	mold (clay etc)	membentuk
+9.73	clay	tanahliat
+9.74	glass	kaca
+9.75	weave, plait	menganyam
+9.75	weave, plait	mengépang
+9.75	weave, plait	meramin
+9.76	basket	keranjang
+9.76	basket	bakul
+9.77	mat	tikar
+9.771	rug	permadani
+9.771	rug	karpet
+9.771	rug	sejedah
+9.771	rug	sajadah
+9.78	netbag	nokén
+9.79	fan (noun)	kipas
+9.791	fan (vb)	mengipasi
+9.81	carve	mengukir
+9.82	sculptor	tukangpatung
+9.83	statue	patung
+9.84	chisel	pahat
+9.88	paint (noun)	cat
+9.89	paint (vb)	mengecat
+10.11	move	memindahkan
+10.12	turn over	membalikkan
+10.12	turn over	membélokkan
+10.12	turn over	memutar
+10.13	turn around	berpaling
+10.13	turn around	putarbalik
+10.14	wind, wrap	membungkus
+10.15	roll	meggulingkan
+10.16	drop (vb)	menjatuhkan
+10.16	drop (vb)	mencemplungkan
+10.16	drop (vb)	menceburkan
+10.17	twist	melilitkan
+10.21	rise	bangkit
+10.21	rise	bangun
+10.21	rise	naik
+10.21	rise	menanjak
+10.21	rise	terbit
+10.22	raise, lift	mengangkat
+10.23	fall	jatuh
+10.23	fall	gugur
+10.24	drip	menétés
+10.25	throw	melémparkan
+10.252	catch (ball)	menangkap
+10.26	shake	mengocok
+10.26	shake	menggoncang
+10.32	flow	mengalir
+10.33	sink	tenggelam
+10.33	sink	terbenam
+10.34	float	mengapung
+10.34	float	mengambang
+10.35	swim	berenang
+10.351	dive	menyelam
+10.352	splash	menyemprot
+10.352	splash	memercikkan
+10.352	splash	menyiram
+10.352	splash	mengguyur
+10.36	sail (vb)	berlayar
+10.37	fly (vb)	terbang
+10.38	blow	bertiup
+10.41	creep, crawl	merangkak
+10.41	creep, crawl	merayap
+10.412	kneel	berlutut
+10.413	crouch	jongkok
+10.42	slide, slip	tergelincir
+10.42	slide, slip	terpelését
+10.42	slide, slip	terselip
+10.42	slide, slip	luncur
+10.43	jump, leap	meloncat
+10.43	jump, leap	melompat
+10.431	kick	menendang
+10.431	kick	menyépak
+10.44	dance	menari
+10.44	dance	berdansa
+10.44	dance	berjogét
+10.45	walk	berjalan
+10.451	limp	pincang
+10.46	run	lari
+10.46	run	berlari
+10.47	go	pergi
+10.471	go up	naik
+10.472	climb	memanjat
+10.473	go down	turun
+10.474	go out	keluar
+10.48	come	datang
+10.481	come back	kembali
+10.481	come back	balik
+10.49	go away, depart	berangkat
+10.491	disappear	menghilang
+10.491	disappear	lenyap
+10.491	disappear	raib
+10.51	flee	melarikandiri
+10.51	flee	mengungsi
+10.51	flee	kabur
+10.52	follow	menyusul
+10.52	follow	mengikuti
+10.52	follow	menurut
+10.53	pursue	mengejar
+10.53	pursue	memburu
+10.55	reach, arrive	sampai
+10.55	reach, arrive	tiba
+10.56	approach	mendekati
+10.56	approach	menghampiri
+10.57	enter	masuk
+10.61	carry (bear)	membawa
+10.61	carry (bear)	menggéndong
+10.612	carry-in-hand	menggenggam
+10.612	carry-in-hand	menénténg
+10.612	carry-in-hand	menjinjing
+10.613	carry-on-shoulder	memikul
+10.614	carry-on-head	menjunjung
+10.615	carry-underarm	mengepit
+10.62	bring	membawa
+10.62	bring	mengambil
+10.62	bring	mengantar
+10.63	send	mengirim
+10.64	lead (vb)	memimpin
+10.64	lead (vb)	membimbing
+10.64	lead (vb)	menuntun
+10.65	drive	mengemudikan
+10.65	drive	menyupir
+10.65	drive	menyetir
+10.65	drive	mengendarai
+10.66	ride	naik
+10.67	push, shove	mendorong
+10.71	road	jalan
+10.71	road	marga
+10.72	path	jalan
+10.74	bridge	jembatan
+10.74	bridge	titi
+10.74	bridge	titian
+10.75	carriage, wagon, cart	keréta
+10.76	wheel	roda
+10.77	axle	gandar
+10.77	axle	poros
+10.77	axle	as
+10.78	yoke	kuk
+10.81	ship	kapal
+10.81	ship	bahtera
+10.83	boat	perahu
+10.831	canoe	perahulesung
+10.831	canoe	kano
+10.832	outrigger	katir
+10.84	raft	rakit
+10.85	oar	dayung
+10.851	paddle (noun)	dayung
+10.851	paddle (noun)	kayuh
+10.852	row (vb)	mendayung
+10.852	row (vb)	mengayuh
+10.86	rudder	kemudi
+10.87	mast	tiang
+10.88	sail (noun)	layar
+10.89	anchor	jangkar
+10.89	anchor	sauh
+10.91	harbor, port	pelabuhan
+10.91	harbor, port	bandar
+10.92	land (vb)	mendarat
+11.11	have	mempunyai
+11.11	have	ada
+11.11	have	memiliki
+11.12	own, possess	memiliki
+11.13	take	mengambil
+11.13	take	membawa
+11.13	take	mengantar
+11.14	seize, grasp	memegang
+11.14	seize, grasp	menggenggam
+11.15	hold	memegang
+11.16	get, obtain	mendapat
+11.17	keep, retain	menyimpan
+11.18	thing	barang
+11.18	thing	benda
+11.21	give	memberi
+11.22	give back	mengembalikan
+11.24	preserve, look after	memelihara
+11.24	preserve, look after	melestarikan
+11.24	preserve, look after	mengawétkan
+11.25	save, rescue	menyelamatkan
+11.27	destroy	menghancurkan
+11.27	destroy	membinasakan
+11.28	harm, injure, damage	melukai
+11.28	harm, injure, damage	mencederai
+11.31	seek, look for	mencari
+11.32	find	ketemu
+11.32	find	menemukan
+11.33	lose	kehilangan
+11.34	release, let go	melepas
+11.43	money	uang
+11.43	money	duit
+11.44	coin	uanglogam
+11.44	coin	koin
+11.51	rich	kaya
+11.52	poor	miskin
+11.52	poor	papa
+11.53	beggar	pengemis
+11.54	avaricious, stingy	pelit
+11.54	avaricious, stingy	kikir
+11.54	avaricious, stingy	sekakar
+11.54	avaricious, stingy	sekaker
+11.61	lend	meminjamkan
+11.62	borrow	meminjam
+11.63	owe	berhutang
+11.64	debt	hutang
+11.65	pay (vb)	membayar
+11.66	account, reckoning	rékening
+11.66	account, reckoning	tagihan
+11.66	account, reckoning	bon
+11.66	account, reckoning	bil
+11.69	tax, tribute	pajak
+11.77	hire	mempekerjakan
+11.77	hire	mengupahi
+11.77	hire	menggaji
+11.78	wages	gaji
+11.78	wages	upah
+11.81	buy	membeli
+11.82	sell	menjual
+11.83	trade, barter	menukar
+11.83	trade, barter	membarter
+11.84	merchant	pedagang
+11.84	merchant	saudagar
+11.85	market (place)	pasar
+11.85	market (place)	pekan
+11.86	store, shop	toko
+11.86	store, shop	kedai
+11.87	price	harga
+11.88	dear (costly, expensive)	mahal
+11.89	cheap	murah
+11.91	share (distribute)	membagi
+12.11	place	tempat
+12.12	put	menaruh
+12.12	put	meletakkan
+12.13	sit	duduk
+12.14	lie down	berbaring
+12.14	lie down	tidur
+12.15	stand	berdiri
+12.16	remain, stay	tinggal
+12.17	remains, left overs	sisa
+12.17	remains, left overs	tulangbelulang
+12.17	remains, left overs	puing
+12.17	remains, left overs	reruntuhan
+12.21	collect, gather	mengumpulkan
+12.212	pick up	memungut
+12.213	pile up	menumpukkan
+12.213	pile up	menimbun
+12.22	join, unite	menggabung
+12.23	separate	memisahkan
+12.23	separate	menceraikan
+12.232	divide	membagi
+12.24	open	membuka
+12.25	shut, close	menutup
+12.26	cover	menutup
+12.27	hide, conceal	menyembunyikan
+12.31	high	tinggi
+12.32	low	rendah
+12.33	top	puncak
+12.34	bottom	dasar
+12.35	end	ujung
+12.352	pointed	runcing
+12.353	edge	tepi
+12.36	side	sisi
+12.36	side	samping
+12.36	side	segi
+12.37	middle, center	tengah
+12.41	right (side)	kanan
+12.42	left (side)	kiri
+12.43	near (adv)	dekat
+12.44	far (adv)	jauh
+12.45	east	timur
+12.46	west	barat
+12.47	north	utara
+12.47	north	paksina
+12.48	south	selatan
+12.48	south	daksina
+12.53	grow	tumbuh
+12.54	measure	mengukur
+12.541	span, fathom	depa
+12.55	large, big	besar
+12.56	small, little	kecil
+12.57	long	panjang
+12.58	tall	tinggi
+12.59	short	péndék
+12.61	wide, broad	lébar
+12.61	wide, broad	luas
+12.62	narrow	sempit
+12.63	thick (in dimension)	tebal
+12.65	thin (in dimension)	tipis
+12.65	thin (in dimension)	kurus
+12.65	thin (in dimension)	langsing
+12.67	deep	dalam
+12.68	shallow	dangkal
+12.71	flat	rata
+12.71	flat	datar
+12.71	flat	gépéng
+12.73	straight	lurus
+12.74	crooked	béngkok
+12.75	hook	kait
+12.76	corner	pojok
+12.76	corner	sudut
+12.76	corner	huk
+12.77	cross	palang
+12.78	square	segiempat
+12.81	round	bundar
+12.81	round	bulat
+12.82	circle	lingkaran
+12.83	sphere, ball	bola
+12.84	line	garis
+12.84	line	baris
+12.85	hole	lubang
+12.85	hole	lobang
+12.92	like, similar	mirip
+12.93	change	mengubah
+12.93	change	mengganti
+13.1	one	sepuluh
+13.101	eleven	sebelas
+13.102	twelve	duabelas
+13.103	fifteen	limabelas
+13.104	twenty	duapuluh
+13.105	hundred	seratus
+13.106	thousand	seribu
+13.107	count	menghitung
+13.14	every, all	semua
+13.14	every, all	segala
+13.15	much, many	banyak
+13.16	more	lebih
+13.16	more	lagi
+13.17	little (quantity), few	sedikit
+13.18	enough	cukup
+13.181	some	beberapa
+13.19	multitude, crowd	massa
+13.21	full	penuh
+13.22	empty	kosong
+13.23	part, piece	bagian
+13.24	half	setengah
+13.24	half	separo
+13.24	half	separuh
+13.33	alone, only	hanya
+13.33	alone, only	cuma
+13.33	alone, only	satusatunya
+13.34	first	pertama
+13.34	first	kesatu
+13.35	last	terakhir
+13.36	second	kedua
+13.37	pair	pasang
+13.42	third	ketiga
+14.11	time	waktu
+14.11	time	masa
+14.11	time	tempo
+14.12	age	umur
+14.12	age	usia
+14.13	new	baru
+14.14	young	muda
+14.15	old	tua
+14.16	early	awal
+14.16	early	dini
+14.17	late	lat
+14.17	late	terlambat
+14.17	late	telat
+14.18	now	sekarang
+14.18	now	kini
+14.19	immediately	segera
+14.19	immediately	langsung
+14.19	immediately	sertamerta
+14.21	swift, fast, quick	cepat
+14.21	swift, fast, quick	laju
+14.21	swift, fast, quick	pesat
+14.22	slow	pelan
+14.22	slow	lambat
+14.23	hasten, hurry	terburuburu
+14.23	hasten, hurry	cepat
+14.23	hasten, hurry	tergesagesa
+14.23	hasten, hurry	bergegas
+14.24	retard, delay	telat
+14.24	retard, delay	terlambat
+14.24	retard, delay	lat
+14.25	begin, beginning	memulai
+14.252	last, endure	berlangsung
+14.26	end (temporal)	akhir
+14.26	end (temporal)	penghabisan
+14.26	end (temporal)	tamat
+14.26	end (temporal)	penghujung
+14.27	finish	selesai
+14.28	cease, stop	berhenti
+14.29	ready	siap
+14.29	ready	sedia
+14.31	always	selalu
+14.31	always	sentiasa
+14.31	always	senantiasa
+14.32	often	sering
+14.32	often	acapkali
+14.32	often	kerapkali
+14.33	sometimes	kadangkadang
+14.33	sometimes	kadangkala
+14.331	soon	segera
+14.332	long-time (for a)	lama
+14.35	again	lagi
+14.35	again	semula
+14.41	day	siang
+14.42	night	malam
+14.43	dawn	fajar
+14.43	dawn	subuh
+14.44	morning	pagi
+14.45	noon, midday	siang
+14.45	noon, midday	tengahhari
+14.451	afternoon	soré
+14.451	afternoon	petang
+14.47	today	hariini
+14.48	tomorrow	bésok
+14.48	tomorrow	ésok
+14.481	day-after-tomorrow	lusa
+14.49	yesterday	kemarin
+14.491	day-before-yesterday	kemarindulu
+14.491	day-before-yesterday	kemarinlusa
+14.51	hour	jam
+14.53	clock, timepiece	jam
+14.53	clock, timepiece	arloji
+14.61	week	minggu
+14.61	week	pekan
+14.62	Sunday	Minggu
+14.62	Sunday	Ahad
+14.63	Monday	Senin
+14.64	Tuesday	Selasa
+14.65	Wednesday	Rabu
+14.66	Thursday	Kamis
+14.67	Friday	Jum'at
+14.68	Saturday	Sabtu
+14.71	month	bulan
+14.73	year	tahun
+14.74	winter	musimdingin
+14.75	spring	musimsemi
+14.76	summer	musimpanas
+14.77	autumn	musimgugur
+14.78	season	musim
+15.21	smell (vb intrans)	bau
+15.21	smell (vb intrans)	berbau
+15.212	sniff	menciumi
+15.212	sniff	menghidu
+15.212	sniff	mengendus
+15.22	smell (vb trans)	mencium
+15.25	fragrant, good smelling	harum
+15.25	fragrant, good smelling	wangi
+15.26	stinking, bad smelling	bau
+15.31	taste	terasa
+15.35	sweet	manis
+15.36	salty	asin
+15.36	salty	masin
+15.37	bitter	pahit
+15.38	acid, sour	asam
+15.38	acid, sour	masam
+15.38	acid, sour	kecut
+15.39	brackish	payau
+15.41	hear	mendengar
+15.42	listen	mendengarkan
+15.44	sound, noise	suara
+15.44	sound, noise	bunyi
+15.45	loud	keras
+15.46	quiet, silence	sepi
+15.46	quiet, silence	tenang
+15.46	quiet, silence	diam
+15.46	quiet, silence	sunyi
+15.51	see	melihat
+15.52	look, look at	melihat
+15.55	show	menunjukkan
+15.55	show	memperlihatkan
+15.56	shine	bersinar
+15.56	shine	mengkilat
+15.56	shine	bercahaya
+15.56	shine	berkilau
+15.56	shine	mengkilap
+15.56	shine	menyilaukan
+15.57	bright	cerah
+15.61	color	warna
+15.61	color	kelir
+15.62	light (in color)	terang
+15.63	dark (in color)	gelap
+15.63	dark (in color)	tua
+15.64	white	putih
+15.65	black	hitam
+15.66	red	mérah
+15.67	blue	biru
+15.68	green	hijau
+15.69	yellow	kuning
+15.71	touch	menyentuh
+15.71	touch	meraba
+15.71	touch	menyinggung
+15.71	touch	memegang
+15.71	touch	mengenai
+15.712	pinch	mencubit
+15.72	feel	merasakan
+15.72	feel	meraba
+15.74	hard	keras
+15.75	soft	empuk
+15.75	soft	lembék
+15.75	soft	lunak
+15.75	soft	lembut
+15.76	rough	kasar
+15.77	smooth	halus
+15.77	smooth	licin
+15.77	smooth	mulus
+15.78	sharp	tajam
+15.79	blunt, dull	tumpul
+15.79	blunt, dull	majal
+15.81	heavy	berat
+15.82	light (in weight)	énténg
+15.82	light (in weight)	ringan
+15.83	wet, damp	basah
+15.84	dry	kering
+15.85	hot	panas
+15.851	warm	hangat
+15.86	cold	dingin
+15.87	clean	bersih
+15.88	dirty, soiled	kotor
+15.88	dirty, soiled	kumuh
+15.88	dirty, soiled	cemar
+15.89	wrinkled	berkerut
+15.89	wrinkled	keriput
+16.11	soul, spirit	nyawa
+16.11	soul, spirit	jiwa
+16.11	soul, spirit	arwah
+16.11	soul, spirit	roh
+16.11	soul, spirit	semangat
+16.11	soul, spirit	hantu
+16.15	surprised, astonished	héran
+16.15	surprised, astonished	kagét
+16.15	surprised, astonished	terkejut
+16.18	good fortune, luck	keberuntungan
+16.18	good fortune, luck	kemujuran
+16.18	good fortune, luck	hoki
+16.19	misfortune, bad luck	kemalangan
+16.19	misfortune, bad luck	sial
+16.19	misfortune, bad luck	kesialan
+16.19	misfortune, bad luck	celaka
+16.19	misfortune, bad luck	sué
+16.23	joyful, glad, happy	senang
+16.23	joyful, glad, happy	bahagia
+16.23	joyful, glad, happy	gembira
+16.25	laugh	tertawa
+16.25	laugh	ketawa
+16.251	smile	tersenyum
+16.26	play	bermain
+16.27	love	cinta
+16.27	love	mencintai
+16.27	love	mengasihi
+16.27	love	menyayangi
+16.29	kiss	mencium
+16.3	embrace	memeluk
+16.3	embrace	merangkul
+16.31	pain	rasasakit
+16.32	grief, sorrow, sadness	kesedihan
+16.33	anxiety, worry	kekhawatiran
+16.33	anxiety, worry	kekuatiran
+16.33	anxiety, worry	kecemasan
+16.33	anxiety, worry	kebimbangan
+16.33	anxiety, worry	kegelisahan
+16.34	regret, be sorry	menyesal
+16.35	pity	kasihan
+16.37	cry, weep	menangis
+16.38	tear (noun)	airmata
+16.39	groan	merintih
+16.39	groan	mengerang
+16.41	hate	membenci
+16.42	anger	kemarahan
+16.42	anger	amarah
+16.42	anger	murka
+16.44	envy, jealousy	kecemburuan
+16.44	envy, jealousy	irihati
+16.44	envy, jealousy	dengki
+16.45	shame (noun)	rasamalu
+16.45	shame (noun)	nista
+16.45	shame (noun)	aib
+16.48	proud	bangga
+16.51	dare	berani
+16.52	brave	berani
+16.53	fear, fright	rasatakut
+16.53	fear, fright	ketakutan
+16.54	danger	bahaya
+16.62	desire, want	mau
+16.62	desire, want	ingin
+16.622	choose	memilih
+16.63	hope	berharap
+16.65	faithful	setia
+16.66	true	benar
+16.67	lie, tell lies	berbohong
+16.67	lie, tell lies	berdusta
+16.68	deceit	penipuan
+16.68	deceit	kebohongan
+16.68	deceit	kecurangan
+16.69	forgive	memaafkan
+16.69	forgive	mengampuni
+16.71	good	baik
+16.71	good	bagus
+16.72	bad	jelék
+16.72	bad	buruk
+16.73	right, correct	betul
+16.73	right, correct	benar
+16.74	wrong	salah
+16.76	fault	kesalahan
+16.77	mistake, error	kesalahan
+16.78	blame	kesalahan
+16.79	praise	puji
+16.81	beautiful	indah
+16.81	beautiful	cantik
+16.81	beautiful	asri
+16.81	beautiful	permai
+16.82	ugly	jelék
+16.83	greedy	rakus
+16.83	greedy	loba
+16.83	greedy	serakah
+16.83	greedy	tamak
+16.84	clever	cerdas
+16.84	clever	cerdik
+16.84	clever	pintar
+16.84	clever	pandai
+17.11	mind	akal
+17.11	mind	benak
+17.13	think (= reflect)	pikir
+17.14	think (= be of the opinion)	pikir
+17.14	think (= be of the opinion)	kira
+17.15	believe	percaya
+17.16	understand	mengerti
+17.16	understand	memahami
+17.17	know	tahu
+17.171	guess	menebak
+17.171	guess	menduga
+17.171	guess	menerka
+17.172	imitate	meniru
+17.18	seem	kelihatan
+17.18	seem	tampak
+17.18	seem	nampak
+17.18	seem	terlihat
+17.19	idea, notion	idé
+17.19	idea, notion	gagasan
+17.21	wise	bijaksana
+17.22	foolish, stupid	bodoh
+17.22	foolish, stupid	goblok
+17.22	foolish, stupid	bégo
+17.22	foolish, stupid	konyol
+17.22	foolish, stupid	dungu
+17.23	insane, crazy	gila
+17.24	learn	belajar
+17.242	study	belajar
+17.25	teach	mengajar
+17.26	pupil	murid
+17.27	teacher	guru
+17.28	school	sekolah
+17.31	remember	mengingat
+17.32	forget	lupa
+17.32	forget	melupakan
+17.34	clear, plain	jelas
+17.35	obscure	kabur
+17.36	secret	rahasia
+17.37	sure, certain	pasti
+17.37	sure, certain	tentu
+17.37	sure, certain	yakin
+17.38	explain	menjelaskan
+17.38	explain	menerangkan
+17.41	intention, purpose	maksud
+17.41	intention, purpose	niat
+17.41	intention, purpose	kehendak
+17.42	cause	sebab
+17.43	doubt	keraguan
+17.43	doubt	kesangsian
+17.44	suspect	mencurigai
+17.44	suspect	menyangka
+17.441	betray	mengkhianati
+17.45	need, necessity	keperluan
+17.45	need, necessity	kebutuhan
+17.46	easy	gampang
+17.46	easy	mudah
+17.47	difficult	susah
+17.47	difficult	sulit
+17.47	difficult	sukar
+17.48	try, attempt	mencoba
+17.49	way, manner	cara
+17.49	way, manner	gaya
+17.51	and	dan
+17.51	and	serta
+17.52	because	karena
+17.52	because	sebab
+17.52	because	garagara
+17.53	if	kalau
+17.53	if	jika
+17.53	if	andai
+17.54	or	atau
+17.55	yes, affirmative	ya
+17.55	yes, affirmative	iya
+17.56	no, negative	bukan
+17.56	no, negative	tak
+17.56	no, negative	enggak
+17.56	no, negative	nggak
+17.56	no, negative	gak
+17.56	no, negative	ga
+17.56	no, negative	tidak
+17.61	how?	bagaimana
+17.62	how many?	berapa
+17.63	how much?	berapa
+17.64	what?	apa
+17.65	when?	kapan
+17.65	when?	bila
+17.66	where?	mana
+17.67	which?	mana
+17.68	who?	siapa
+17.69	why?	mengapa
+17.69	why?	kenapa
+18.11	voice	suara
+18.12	sing	menyanyi
+18.12	sing	bernyanyi
+18.13	shout, cry out	teriak
+18.15	whisper	berbisik
+18.16	mumble	bergumam
+18.17	whistle	bersiul
+18.18	shriek, screech	menjerit
+18.19	howl	melolong
+18.21	speak, talk	berbicara
+18.21	speak, talk	ngomong
+18.21	speak, talk	ngobrol
+18.211	stutter, stammer	menggagap
+18.22	say	mengatakan
+18.22	say	bilang
+18.221	tell story	menceritakan
+18.222	speech (make a)	pidato
+18.23	silent (be)	diam
+18.24	language	bahasa
+18.26	word	kata
+18.28	name	nama
+18.31	ask (question, inquire)	bertanya
+18.32	answer	menjawab
+18.32	answer	membalas
+18.32	answer	menyahut
+18.33	admit, confess	mengaku
+18.34	deny	menyangkal
+18.34	deny	membantah
+18.34	deny	menyanggah
+18.35	ask, request	meminta
+18.36	promise	berjanji
+18.37	refuse	menolak
+18.38	forbid	melarang
+18.39	rebuke, scold	menegur
+18.39	rebuke, scold	menghardik
+18.39	rebuke, scold	mencacimaki
+18.39	rebuke, scold	mengoméli
+18.39	rebuke, scold	mengatangatai
+18.39	rebuke, scold	memarahi
+18.41	call (=summon)	memanggil
+18.42	call (=name)	menamakan
+18.42	call (=name)	menamai
+18.43	announce	mengumumkan
+18.44	threaten	mengancam
+18.45	boast	membual
+18.45	boast	menyombongkandiri
+18.51	write	menulis
+18.52	read	membaca
+18.56	paper	kertas
+18.57	pen	pulpén
+18.57	pen	péna
+18.57	pen	bolpoin
+18.57	pen	kalam
+18.61	book	buku
+18.67	poet	penyair
+18.67	poet	pujangga
+18.71	flute	suling
+18.71	flute	seruling
+18.72	drum	gendang
+18.72	drum	genderang
+18.73	horn, trumpet	trompét
+18.74	rattle	écékécék
+18.74	rattle	kécrékan
+19.11	country	negara
+19.12	one's native country	tanahair
+19.12	one's native country	tumpahdarah
+19.15	city, town	kota
+19.16	village	désa
+19.16	village	kampung
+19.17	boundary	perbatasan
+19.21	people (populace)	rakyat
+19.23	tribe, clan	marga
+19.23	tribe, clan	suku
+19.24	chief, chieftain	kepalaadat
+19.24	chief, chieftain	kepalasuku
+19.25	staff, walking stick	tongkat
+19.31	rule, govern	memerintah
+19.32	king, ruler	raja
+19.33	queen	ratu
+19.36	noble, nobleman	bangsawan
+19.37	citizen, subject	warga
+19.41	master	tuan
+19.42	slave	budak
+19.43	servant	pembantu
+19.45	command, order	memerintahkan
+19.46	obey	mentaati
+19.46	obey	menaati
+19.46	obey	mematuhi
+19.47	let, permit	mengijinkan
+19.47	let, permit	mengizinkan
+19.47	let, permit	memperboléhkan
+19.47	let, permit	membiarkan
+19.51	friend, companion	teman
+19.51	friend, companion	kawan
+19.51	friend, companion	handai
+19.51	friend, companion	taulan
+19.51	friend, companion	sahabat
+19.51	friend, companion	sobat
+19.52	enemy	musuh
+19.52	enemy	seteru
+19.54	neighbor	tetangga
+19.54	neighbor	jiran
+19.56	guest	tamu
+19.56	guest	tetamu
+19.57	host	tuanrumah
+19.58	help, aid	membantu
+19.58	help, aid	menolong
+19.59	hinder, prevent	mencegah
+19.59	hinder, prevent	menghalangI
+19.61	custom	adat
+19.62	strife, quarrel	perselisihan
+19.62	strife, quarrel	pertikaian
+19.62	strife, quarrel	pertengkaran
+19.62	strife, quarrel	perkelahian
+19.62	strife, quarrel	percékcokan
+19.63	conspiracy, plot	persekongkolan
+19.63	conspiracy, plot	komplot
+19.63	conspiracy, plot	kongkalikong
+19.63	conspiracy, plot	konspirasi
+19.63	conspiracy, plot	kasakkisik
+19.63	conspiracy, plot	kasakkusuk
+19.65	meet	berjumpa
+19.65	meet	bersua
+19.65	meet	ketemu
+19.65	meet	bertemu
+19.72	prostitute	pelacur
+19.72	prostitute	lonté
+19.72	prostitute	pérék
+19.72	prostitute	WTS
+19.72	prostitute	PSK
+19.72	prostitute	cabo
+20.11	fight (vb)	berkelahi
+20.11	fight (vb)	berperang
+20.11	fight (vb)	bertengkar
+20.11	fight (vb)	bertempur
+20.11	fight (vb)	brantem
+20.11	fight (vb)	berantem
+20.11	fight (vb)	bertikai
+20.11	fight (vb)	bertarung
+20.13	war, battle	perang
+20.13	war, battle	pertempuran
+20.14	peace	perdamaian
+20.15	army	tentara
+20.17	soldier	tentara
+20.17	soldier	serdadu
+20.17	soldier	prajurit
+20.17	soldier	laskar
+20.21	weapons, arms	senjata
+20.22	club	pentung
+20.222	battle-ax	jipang
+20.23	sling	ketapél
+20.24	bow	panah
+20.24	bow	busur
+20.25	arrow	anakpanah
+20.26	spear	tombak
+20.27	sword	pedang
+20.28	gun, cannon	bedil
+20.28	gun, cannon	senapan
+20.28	gun, cannon	senapang
+20.31	armor (defensive)	bajubaja
+20.33	helmet	hélem
+20.34	shield	perisai
+20.34	shield	taméng
+20.35	fortress	bénténg
+20.36	tower	menara
+20.41	victory	kemenangan
+20.41	victory	kejayaan
+20.42	defeat	kekalahan
+20.43	attack	serangan
+20.43	attack	serbuan
+20.43	attack	gempuran
+20.44	defend	membéla
+20.44	defend	mempertahankan
+20.45	retreat	mundur
+20.46	surrender	menyerahkandiri
+20.47	captive, prisoner	tawanan
+20.47	captive, prisoner	tahanan
+20.47	captive, prisoner	narapidana
+20.47	captive, prisoner	pesakitan
+20.471	guard, sentinel	penjaga
+20.471	guard, sentinel	satpam
+20.48	booty, spoils	jarahan
+20.49	ambush	peradangan
+20.51	fisherman	nelayan
+20.52	fishhook	matakail
+20.53	fishing line	talikail
+20.54	fishnet	jala
+20.54	fishnet	pukat
+20.54	fishnet	jaring
+20.55	fish trap	bubu
+20.56	bait	umpan
+20.61	hunt	berburu
+20.62	shoot	menémbak
+20.63	miss (target)	luncas
+20.63	miss (target)	melését
+20.63	miss (target)	ketinggalan
+20.64	trap (noun)	perangkap
+20.65	trap (vb)	menjerat
+20.65	trap (vb)	menjebak
+21.11	law	undangundang
+21.11	law	hukum
+21.15	court	pengadilan
+21.15	court	mahkamah
+21.16	judge (vb)	mengadili
+21.17	judgment	putusan
+21.18	judge (noun)	hakim
+21.21	plaintiff	penuntut
+21.22	defendant	terdakwa
+21.23	witness	saksi
+21.24	swear	bersumpah
+21.25	oath	sumpah
+21.31	accuse	menuduh
+21.31	accuse	menuding
+21.31	accuse	mendakwa
+21.32	condemn	menghukum
+21.32	condemn	memvonis
+21.35	guilty	bersalah
+21.37	penalty, punishment	hukuman
+21.37	penalty, punishment	setrap
+21.37	penalty, punishment	penalti
+21.37	penalty, punishment	vonis
+21.37	penalty, punishment	pidana
+21.37	penalty, punishment	sanksi
+21.38	fine	denda
+21.39	prison, jail	penjara
+21.39	prison, jail	bui
+21.39	prison, jail	lembagapemasyarakatan
+21.42	murder	pembunuhan
+21.43	adultery	zina
+21.44	rape	pemerkosaan
+21.47	perjury	sumpahpalsu
+21.51	steal	mencuri
+21.52	thief	pencuri
+21.52	thief	maling

@@ -1,0 +1,1064 @@
+@classification: Maku
+@iso: jup
+@language: Hupdë
+@size: 1058
+@source: wold
+@variety: std
+1.1	world	j’áh
+1.21	earth, land	j’áh
+1.212	earth=ground, soil	m’ǎj’
+1.213	dust	mɔyj’ɨ̌k
+1.214	mud	b’ɔ̌k
+1.215	sand	wægyɔ̌h
+1.22	mountain, hill	pǎç
+1.222	cliff, precipice	pǎç
+1.23	plain, field	hohód
+1.25	island	pód
+1.27	shore	dehpə̌w
+1.28	cave	pǎçmɔy
+1.31	water	děh
+1.324	foam	pǔh
+1.33	lake	mɔ́h
+1.35	wave	ʔaʔáb
+1.35	wave	capáw’
+1.36	river, stream, brook	dehmí
+1.36	river, stream, brook	má
+1.362	whirlpool	wɔ̃wɔ̃´y’
+1.37	spring, well	děhmɔy
+1.38	swamp	b’ɔ̌k
+1.39	waterfall	hǔh
+1.41	woods, forest	j’ǔg
+1.41	woods, forest	hǎy
+1.43	wood	těg
+1.44	stone, rock	pǎç
+1.45	earthquake	j’áhy’ũy’ũ´y’
+1.51	sky	pǎç
+1.52	sun	wædhɔ́
+1.53	moon	wædhɔ́
+1.54	star	wædhɔm’æ̌h
+1.55	lightning	cə́p
+1.56	thunder	pæ̃y
+1.57	lightning (as striking)	pæ̃y
+1.58	storm	bohǒtpɨ́b
+1.59	rainbow	cɔ́
+1.61	light (noun)	b’ág
+1.62	darkness	baʔtúk
+1.63	shade, shadow	nɨ́m
+1.64	dew	wædhɔm’æ̌hnɔcáw
+1.64	dew	paçnáŋ
+1.72	wind	bohót
+1.73	cloud	j’ɨkkudú
+1.74	fog	j’ɨ̌k
+1.75	rain (noun)	děh
+1.77	ice	cédu
+1.77	ice	děhm’ǽ
+1.81	fire	teghɔ̃
+1.82	flame (noun)	teghɔ̃
+1.83	smoke (noun)	j’ɨ̌k
+1.84	ashes	teghɔ́w
+1.841	embers	teghɔ̃
+1.851	burn (vb trans)	tujd’ak
+1.852	burn (vb intrans)	hɔ̃
+1.86	light, kindle, ignite	tujd’ak
+1.86	light, kindle, ignite	tǝʔ
+1.861	extinguish	d’ɔk
+1.87	match (noun)	tegcáʔ
+1.88	firewood	těg
+1.89	charcoal	tegcə̌h
+2.1	person, human being	húp
+2.21	man (vs. woman)	tiyǐʔ
+2.22	woman	tãʔáy
+2.23	male	tiyǐʔ
+2.24	female	tãʔáy
+2.25	boy	tiyiʔdóʔ
+2.251	young man (adolescent)	pæcǽw
+2.26	girl	tãʔãydóʔ
+2.261	young woman (adolescent)	taʔacáw
+2.27	child	dóʔ
+2.28	infant, baby	hɔ̃wǽ
+2.31	husband	tæ̃hʔíp
+2.32	wife	tæ̃hʔín
+2.33	marry	dapũhj’ɨ̃p
+2.33	marry	d’oʔ
+2.34	marriage, wedding	dapũhj’ɨ̃pwág
+2.35	father	ʔíp
+2.36	mother	ʔín
+2.41	son	tæ̃´h
+2.42	daughter	tóg
+2.43	offspring (son or daughter)	tæ̃´h
+2.44	brother	báb’
+2.444	older brother	cə̌t
+2.445	younger brother	yãwám
+2.45	sister	ʔũhʔãy
+2.454	older sister	cǝtʔãy
+2.455	younger sister	yãwãmʔãy
+2.455	younger sister	babmã´y
+2.456	sibling	báb’
+2.456	sibling	ʔũˇh
+2.458	twins	báb’d’ǝh
+2.46	grandfather	ʔǔw
+2.461	old man	wǝhə́d
+2.47	grandmother	ʔɔ́h
+2.471	old woman	wá
+2.48	grandson	dú
+2.49	granddaughter	dú
+2.511	mother's brother	g’ɔ́t
+2.512	father's brother	pã´ç
+2.521	mother's sister	ʔinhã´ç
+2.522	father's sister	pæ̃ʔǽy’
+2.53	nephew	tæ̃´h
+2.54	niece	tóg
+2.55	cousin	báb’
+2.56	ancestors	dúd’ǝh
+2.57	descendants	dúd’ǝh
+2.61	father-in-law (of a man)	g’ɔ́t
+2.611	father-in-law (of a woman)	g’ɔ́t
+2.62	mother-in-law (of a man)	pæ̃ʔǽy’
+2.62	mother-in-law (of a man)	tæ̃hʔɔ̌h
+2.621	mother-in-law (of a woman)	pæ̃ʔǽy’
+2.621	mother-in-law (of a woman)	tæ̃hʔɔ̌h
+2.63	son-in-law (of a man)	togtúg
+2.631	son-in-law (of a woman)	togtúg
+2.64	daughter-in-law (of a man)	tæ̃hʔǽm
+2.641	daughter-in-law (of a woman)	tæ̃hʔǽm
+2.71	stepfather	ʔintúg
+2.72	stepmother	ʔipʔǽm
+2.73	stepson	ʔæmtæ̃h
+2.74	stepdaughter	ʔæmtóg
+2.81	relatives, kinsmen	báb’d’ǝh
+2.91	I	ʔãh
+2.92	you (singular)	ʔám
+2.93	he/she/it	tɨ́h
+2.94	we	ʔɨ́n
+2.941	we (inclusive)	ʔɨ́n
+2.942	we (exclusive)	ʔɨ́n
+2.95	you (plural)	nɨ́ŋ
+2.96	they	hɨ́d
+3.11	animal	hũ´
+3.12	male (adj)	tiyǐʔ
+3.13	female (adj)	tãʔáy
+3.15	livestock	bɨ́
+3.19	stable, stall	tǎhmɔy
+3.2	cattle (bovine)	tǎhd’ǝh
+3.21	bull	tǎh
+3.22	ox	tǎh
+3.23	cow	tǎh
+3.24	calf	tǎh
+3.32	boar	tɔ̃´h
+3.34	sow	tɔ̃´h
+3.35	pig	tɔ̃´h
+3.41	horse (equine)	kawádu
+3.42	stallion	kawádu
+3.44	mare	kawádu
+3.45	foal, colt	kawádu
+3.52	cock, rooster	cadakǎʔ
+3.54	hen	cadakǎʔ
+3.55	chicken	cadakǎʔ
+3.57	duck	pátu
+3.58	nest	hũtæ̃hcáʔ
+3.581	bird	hũtæ̃´h
+3.583	heron	bohów’
+3.585	hawk	wǐh
+3.586	vulture	wã´ʔ
+3.591	bat	cɨʔb’ɨ́h
+3.592	parrot	yǎk
+3.594	dove	wɔhwěw
+3.596	owl	pǝpə́p
+3.596	owl	cǔk
+3.61	dog	yaʔamhóʔ
+3.62	cat	picána
+3.622	opossum	caʔmáy
+3.63	mouse, rat	bǐʔ
+3.65	fish	hɔ̃ˇp
+3.652	fin (dorsal)	cɨ̃cɨ́n
+3.653	fishscale	péc
+3.654	gill	cecěw
+3.655	shell	b’ɔ́k
+3.662	porpoise, dolphin	tǎy
+3.664	stingray	j’æ̌ʔ
+3.665	freshwater eel	cuʔbút
+3.75	deer	mɔ̃hɔ̌y
+3.76	monkey	tǔg
+3.76	monkey	yawǎç
+3.811	louse	næ̌m
+3.812	nit (louse egg)	næmtíp
+3.813	flea	n’ang’ɔ́b
+3.814	centipede	cǎy
+3.815	scorpion	cə́ʔ
+3.816	cockroach	dadáp
+3.817	ant	yǔy
+3.817	ant	hǔd
+3.817	ant	bobób
+3.818	spider	bɔyɔ́ʔ
+3.819	spider web	bɔyɔʔyág
+3.82	bee	næŋʔã´w
+3.821	beeswax	næ̌ŋcak
+3.822	beehive	næ̌ŋb’ak
+3.823	wasp	yɔ̌ʔ
+3.83	fly	wowǒw
+3.83	fly	bə́g
+3.831	sandfly (midge), gnat	húʔ
+3.832	mosquito	g’í
+3.84	worm	m’ɨ́ʔ
+3.85	snake	m’æ̌h
+3.85	snake	tɨ̃hɨ̃´y
+3.91	firefly	kedó
+3.91	firefly	huhǔy
+3.92	butterfly	b’eb’ěp
+3.93	grasshopper	cũ´c
+3.93	grasshopper	tə́t
+3.94	snail	g’ɔ̃´j
+3.95	frog	j’ǎy
+3.95	frog	yə́h
+3.96	lizard	ʔɔ́w
+3.97	crocodile, alligator	hǎt
+3.98	turtle	mǐh
+4.11	body	cáp
+4.12	skin, hide	b’ɔ́k
+4.13	flesh	d’áp
+4.14	hair (head)	pã´t
+4.142	beard	nɔcúg
+4.144	body hair	pã´t
+4.145	pubic hair	cán
+4.146	dandruff	nuhpohów’
+4.15	blood	biyǐw
+4.151	vein, artery	j’ɨ̃j’ɨ̃´p
+4.16	bone	g’æ̌g
+4.162	rib	hohóʔg’æg
+4.17	horn	cǎn’
+4.18	tail	d’ǔb
+4.19	back	hupáh
+4.19	back	cĩcĩʔ
+4.191	spine	j’ujtǐh
+4.2	head	núh
+4.201	side of head, temple	y’aʔáw’d’ǝhj’ák
+4.202	skull	nuhb’ɔ̌ʔ
+4.203	brain	cɔ̃wɔ̃ˇh
+4.204	face	dɔwɔ̌h
+4.204	face	mig’ǒd
+4.205	forehead	kág’
+4.207	jaw	tǝgcáʔ
+4.208	cheek	dɔwɔhbúg’
+4.209	chin	j’ǝj’ə́g
+4.21	eye	kǝwə̌g
+4.212	eyebrow	kǝwǝgb’ɔkcũˇh
+4.212	eyebrow	kǝwǝgpə̌w
+4.213	eyelid	kǝwǝgb’ɔ́k
+4.214	eyelash	kǝwǝgpã´t
+4.215	blink	ʔɔ̃hwiŋ
+4.22	ear	bɔtɔ́k
+4.222	earwax	cæ̃cæ̃ˇy’
+4.23	nose	tǒj
+4.231	nostril	tojmɔ̌y
+4.232	mucus (nasal)	tũhũ´ʔ
+4.24	mouth	nɔg’ǒd
+4.241	beak	nɔg’ǒd
+4.25	lip	nɔj’ǐj
+4.26	tongue	nɔg’æ̌d
+4.27	tooth	tə́g
+4.271	gums	tǝgpə́w
+4.272	molartooth	tǝgpáb
+4.28	neck	kaʔtɨ́t
+4.281	nape of neck	nuhtotóy’
+4.29	throat	ʔɔ̃´g’
+4.3	shoulder	cǎc
+4.301	shoulderblade	cǎcg’æg
+4.302	collarbone	wǐhg’æg
+4.31	arm	mumǔy
+4.312	armpit	hahád
+4.32	elbow	buyj’óg
+4.321	wrist	kinǐm
+4.33	hand	d’apũ´h
+4.331	palm of hand	n’apũhg’odhɔ́
+4.34	finger	cǒb
+4.342	thumb	cobpopǒg
+4.344	fingernail	cobb’ɔ́k
+4.345	claw	j’ibb’ɔ́k
+4.351	thigh	tɔ̌k
+4.352	calf of leg	cɨ̌ʔ
+4.36	knee	wɔ̃ʔdǽ
+4.37	foot	j’ǐb
+4.371	ankle	j’ibkãkã´w
+4.371	ankle	kabǎç
+4.372	heel	j’ibcə̌k
+4.374	footprint	j’ǐbcud
+4.38	toe	j’ibtæ̃tæ̃´h
+4.38	toe	j’ibpopǒg
+4.392	wing	ké
+4.393	feather	hũtæ̃´hpã´t
+4.4	chest	hɔ̃tə́g
+4.41	breast (of woman)	pǔd
+4.412	nipple, teat	pudnúh
+4.42	udder	pǔd
+4.43	navel	pǔç
+4.44	heart	hã´wɨg
+4.441	lung	hɔwowǒw’
+4.45	liver	hɔ́
+4.451	kidney	kadawá
+4.46	stomach	tǒk
+4.461	intestines, guts	toktɨ́t
+4.462	waist	tɔktibd’ǎk
+4.463	hip	pãpáŋ
+4.464	buttocks	cə̌k
+4.47	womb	tæ̃´hyud
+4.49	testicle	hatípwɨg
+4.492	penis	tɨ́b
+4.51	breathe, breath	haŋcak
+4.51	breathe, breath	haŋcɔw
+4.52	yawn, gape	nɔg’a
+4.521	hiccough	cǝbǝk
+4.53	cough	hohot
+4.54	sneeze	hãcĩh
+4.55	perspire	kub’áhdehway
+4.56	spit	j’ɔç
+4.57	vomit	hɔn
+4.58	bite	g’ǝç
+4.59	lick	n’æm’
+4.591	dribble	hut
+4.61	sleep	ʔɔ̃h
+4.612	snore	hɔ̃hɔ̃k
+4.62	dream	cɔ̃hni
+4.63	wake up	cǝwǝʔ
+4.64	break wind	tɔç
+4.65	urinate	ciʔ
+4.66	defecate	y’æʔ
+4.67	have sexual intercourse	ʔan
+4.68	shiver	wɨʔwɨʔ
+4.69	bathe	j’ɔm
+4.71	beget (of father)	tæ̃hbɨʔ
+4.72	born (to be)	macã
+4.73	pregnant	tokni
+4.732	conceive	tokni
+4.74	live, living, life	ʔɨb’
+4.75	die, dead	naʔ
+4.751	drowned	g’ǝmnaʔ
+4.76	kill	m’æh
+4.77	corpse	g’ɔg
+4.78	bury (the dead)	kæ̃ʔ
+4.79	grave, tomb	húphod
+4.81	strong, mighty, powerful	pɨ́b
+4.82	weak	wæ̌y
+4.83	well, health	náw
+4.84	sick, sickness	peʔ
+4.841	fever	peʔwɨdnæ̌n
+4.843	cold (catarrh)	tũhũ´ʔni
+4.85	wound, sore	hɔ́m
+4.852	bruise	mamáŋ
+4.853	swelling	puhú
+4.854	itch	j’uk
+4.855	blister	páb’
+4.857	pus	nunǔh
+4.858	scar	hɔmbɨ̌g
+4.86	cure, heal	hiwɔb
+4.87	physician	yɔ̃ˇhʔĩh
+4.88	medicine, drug	yɔ̃ˇh
+4.89	poison	nǎm
+4.91	tired, weary	cɨh
+4.912	rest	co
+4.92	lazy	hũtũynɨh
+4.93	bald	nuhhohód
+4.94	lame	kɨnɨŋ
+4.98	intoxicated	ʔǝgnaʔ
+5.11	eat	wæd
+5.12	food	wæ̌d
+5.122	raw	ʔɨb’
+5.123	ripe	hɔ̃
+5.124	green, unripe	hɔ
+5.125	rotten	d’ɔhyɨʔ
+5.13	drink	ʔǝg
+5.14	hunger	g’ubnaʔ
+5.141	famine	g’ub
+5.15	thirst	hɔwæd
+5.16	suck	ʔay’
+5.18	chew	y’aw’
+5.181	swallow	yaŋ
+5.19	choke	kãk
+5.21	cook	j’ɨw
+5.22	boil (vb)	wɔç
+5.23	roast, fry	yæ̃ʔ
+5.23	roast, fry	prita
+5.24	bake	b’aʔ
+5.25	oven	b’ɔkkáb
+5.26	pot, cooking vessel	mɔmb’ɔ́k
+5.28	pan	mɔmb’ɔ́k
+5.31	dish	wæ̌db’ɔk
+5.31	dish	padátu
+5.32	plate	wæ̌db’ɔk
+5.32	plate	padátu
+5.33	bowl	b’ɔ̌ʔ
+5.35	cup, drinking vessel	kópu
+5.35	cup, drinking vessel	ʔə̌gb’ɔk
+5.37	spoon	wæ̌db’ah
+5.37	spoon	koyéw
+5.38	knife	wǎn
+5.39	fork	cɔ̌hteg
+5.41	meal (a)	b’ɔ́k
+5.46	peel	g’ob
+5.46	peel	koʔ
+5.47	sieve, strain	yah
+5.48	scrape	hæw
+5.49	stir, mix	wot
+5.49	stir, mix	mɔnæ
+5.49	stir, mix	hikaku
+5.51	bread	pã´w
+5.53	dough	cǎk
+5.54	knead	nuh
+5.55	meal, flour	kæ̌n
+5.56	crush, grind	tok
+5.56	crush, grind	dɨp
+5.58	mortar	tǒkteg
+5.59	pestle	tǒkteg
+5.61	meat	hũd’áp
+5.64	soup, broth	cópa
+5.65	vegetables	vedúra
+5.66	bean	peyã´w
+5.7	potato	píʔ
+5.71	fruit	ʔág
+5.712	bunch	b’ak
+5.76	grape	pɨ̌ŋ
+5.77	nut	tat
+5.79	oil	náŋ
+5.791	grease, fat	náŋ
+5.81	salt	b’ǒh
+5.821	chili pepper	kɔ́w
+5.84	honey	nǽŋ
+5.85	sugar	ʔacúka
+5.86	milk (noun)	puděh
+5.86	milk (noun)	déti
+5.9	beverage, drink	ʔə̌g
+5.93	beer	cervéca
+5.94	fermented drink	húptok
+5.97	egg	tip
+5.971	egg yolk	tɨhdó
+6.11	put on (clothes)	cud
+6.12	clothing, clothes	yǔd
+6.21	cloth	yǔd
+6.24	cotton	cuwǔk
+6.28	fur	hũpã´t
+6.29	leather	hũb’ɔ́k
+6.31	spin	cɔbɔt
+6.33	weave	d’ab
+6.35	sew	hicuh
+6.36	needle	mǎcʔut
+6.38	thread	yutá
+6.42	woman's dress	tãʔã´yyud
+6.44	shirt	caccǔd
+6.46	skirt	tãʔã´yyud
+6.48	trousers	tɔkcǔd
+6.49	stocking, sock	méya
+6.51	shoe	candária
+6.51	shoe	capátu
+6.52	boot	bóta
+6.55	hat, cap	nuhuytǔk
+6.55	hat, cap	boné
+6.57	belt, girdle	wãˇʔ
+6.61	pocket	bóca
+6.62	button	mutã´w
+6.71	ornament, adornment	hupbɨ́ʔɨp
+6.73	ring (for finger)	d’apũhd’ǎk
+6.74	bracelet	mumuyd’ǎk
+6.75	necklace	g’ǎç
+6.76	bead	g’ǎç
+6.77	earring	b’ɔtɔkg’ãˇʔ
+6.78	headband, headdress	pãttǔd
+6.78	headband, headdress	pãtwɔ̌t
+6.81	handkerchief, rag	nǽcũb’ah
+6.82	towel	toáya
+6.91	comb	pə̌ç
+6.92	brush	pə̌ç
+6.921	braid	b’ek
+6.94	ointment	wókteg
+6.95	soap	cabonéci
+6.96	mirror	mɔyə̌k
+7.11	dwell, live	ni
+7.12	house	mɔ̌y
+7.13	hut	bɔyɔ̌h
+7.17	cookhouse	wæ̌dbɨ̌ʔmɔy
+7.18	meeting house	ʔə̌gmɔy
+7.18	meeting house	kudúbi
+7.21	room	tóg’
+7.22	door, gate	mɔyɔ́
+7.221	doorpost, jamb	mɔytúʔ
+7.23	lock (noun)	bíb’teg
+7.24	key	cáwi
+7.25	window	mɔyɔ́
+7.26	floor	tú
+7.27	wall	ʔúb
+7.31	fireplace	těghod
+7.37	ladder	cikáda
+7.37	ladder	cákapteg
+7.42	bed	káma
+7.422	blanket	hikóp
+7.43	chair	kə́d
+7.44	table	mécab’ah
+7.45	lamp, torch	j’áʔ
+7.45	lamp, torch	tǔjtod’
+7.46	candle	wéda
+7.47	shelf	wáb
+7.48	trough	tǎhwæ̌dhɔb
+7.51	roof	mɔ̌yb’ah
+7.52	thatch	tɔ́pg’æt
+7.53	ridgepole	mɔ̌yc’ujtǐh
+7.54	rafter	mɔyyǒk
+7.55	beam	kǝtǝgd’ǎk
+7.56	post, pole	mɔytúʔ
+7.57	board	tábwab’ah
+7.62	brick	m’ǎy’yæ̃ʔ
+8.12	field (for cultivation)	b’ɔ̌t
+8.16	fence	hicǎd
+8.17	ditch	mamǎp
+8.22	dig	hat
+8.23	spade	pá
+8.24	shovel	pá
+8.25	hoe	cɔ̌c
+8.311	seed	wɨg
+8.32	mow, reap	maç
+8.47	maize, corn	pɨhɨtyǔm
+8.48	rice	ʔarócu
+8.51	grass	cǐh
+8.52	hay	cǐhhə́b
+8.53	plant (noun)	yúm
+8.531	plant (vb)	yum
+8.531	plant (vb)	cĩy’
+8.54	root	tǐh
+8.55	branch	nɔw
+8.56	leaf	cug’æ̌t
+8.57	flower	c’ɔ́
+8.6	tree	tegd’ǔh
+8.67	vine	tɨ́t
+8.68	tobacco	hũˇt
+8.69	smoke (tobacco)	ʔun’
+8.72	tree stump	b’ɔ̌tdɨ́d
+8.73	tree trunk	c’ǎt
+8.74	forked branch	nɔwcacác
+8.75	bark	b’ɔk
+8.76	sap	deh
+8.82	coconut	kóku
+8.83	citrus fruit	naránya
+8.83	citrus fruit	wirimɔ́
+8.84	banana tree	pɨhɨ́t
+8.92	tapioca, manioc, cassava	kayaktɔ́ʔ
+8.93	gourd	b’ɔ̌ʔ
+8.931	pumpkin, squash	b’ɔʔwæ̌d
+8.941	sugar cane	mǔhteg
+8.96	fish poison (root)	d’ǔç
+8.98	mushroom	pə́b’
+9.11	do, make	bɨʔ
+9.12	work	bɨʔ
+9.14	bend	totoy
+9.15	fold	camam
+9.16	tie, bind	j’ɨp
+9.16	tie, bind	hɔ̃w’
+9.161	untie	cod
+9.19	rope, cord	tɨ́t
+9.192	knot (noun)	hɔ̃´w’
+9.192	knot (noun)	kukú
+9.21	strike (hit, beat)	mæh
+9.211	pound with fist	j’ɔŋ
+9.22	cut	hɔ̃k
+9.221	cut down	b’ɔt
+9.222	chop, hew	kɨt
+9.223	stab	yok
+9.23	knife	wǎn
+9.24	scissors, shears	hæ̌y’b’ah
+9.25	ax	mɔ̌m
+9.26	break	kǝbǝk
+9.26	break	tǝh
+9.261	broken	payyɨʔ
+9.27	split	b’ah
+9.28	tear	cæ̃y’
+9.29	flay, skin	yɔj
+9.31	rub, wipe	yɔyɔp
+9.32	stretch	y’ɔʔ
+9.33	pull	kǝk
+9.34	spread out	hicæp
+9.341	hang up	d’oʔg’ãʔ
+9.342	press	m’æc
+9.343	squeeze, wring	koʔwow’
+9.35	pour	b’ǝh
+9.36	wash	j’id
+9.37	sweep	hæp
+9.38	broom	hæpb’ɔ̌g
+9.422	tool	bɨ̌ʔteg
+9.44	build	bɨʔ
+9.46	bore	yoktod
+9.461	hollow out	tod
+9.461	hollow out	cɔh
+9.48	saw	tegd’uhhɔ̃ˇk
+9.49	hammer	barutéru
+9.5	nail	pǝrégu
+9.56	glue	tǎk
+9.56	glue	hicɨʔteg
+9.67	iron	mɔ̌m
+9.68	lead (noun)	cúmbu
+9.69	tin, tinplate	mǎc
+9.72	mold (clay etc)	m’ǎy’b’ɔkbɨʔ
+9.73	clay	m’ǎy’
+9.74	glass	mɔyə̌kb’ah
+9.74	glass	wídriu
+9.75	weave, plait	cæ̃c
+9.75	weave, plait	g’ud
+9.76	basket	máj
+9.79	fan (noun)	hěb’
+9.791	fan (vb)	heb’
+9.81	carve	cǝk
+9.88	paint (noun)	pintáteg
+9.88	paint (noun)	hə̌w
+9.88	paint (noun)	d’ǎd
+9.89	paint (vb)	pinta
+9.89	paint (vb)	hɨʔ
+9.89	paint (vb)	wok
+10.13	turn around	hupkǝd
+10.13	turn around	d’oʔkǝd
+10.14	wind, wrap	bud’
+10.15	roll	d’oʔpǝpǝd
+10.16	drop (vb)	duʔ
+10.17	twist	kǝbǝt
+10.21	rise	cak
+10.22	raise, lift	d’oʔcak
+10.23	fall	nɔh
+10.24	drip	hut
+10.25	throw	b’uy
+10.252	catch (ball)	cuʔ
+10.26	shake	y’ũy’ũy’
+10.26	shake	ʔoʔok
+10.32	flow	hi
+10.33	sink	g’ǝm
+10.34	float	popow
+10.35	swim	j’ɔmham
+10.351	dive	j’ǝknɔhtuʔ
+10.352	splash	hicũ
+10.37	fly (vb)	wayd’oʔ
+10.38	blow	pohow’
+10.41	creep, crawl	doy
+10.412	kneel	capæm
+10.413	crouch	bogpæm
+10.42	slide, slip	cædæw
+10.43	jump, leap	j’ǝk
+10.431	kick	tac
+10.44	dance	yam
+10.45	walk	g’etg’oʔ
+10.451	limp	kidig
+10.46	run	tɔʔɔh
+10.47	go	ham
+10.471	go up	cak
+10.472	climb	cak
+10.473	go down	hi
+10.474	go out	way
+10.48	come	næn
+10.481	come back	b’ay
+10.49	go away, depart	hamyɨʔ
+10.51	flee	ham
+10.52	follow	wɔn
+10.53	pursue	wɔn
+10.55	reach, arrive	hiwɨd
+10.56	approach	næn
+10.57	enter	ye
+10.61	carry (bear)	cet
+10.612	carry-in-hand	yo
+10.612	carry-in-hand	tɔn
+10.613	carry-on-shoulder	hũh
+10.614	carry-on-head	hitoy’
+10.615	carry-underarm	kæmæm
+10.62	bring	d’oʔnæn
+10.63	send	d’ǝh
+10.64	lead (vb)	cob
+10.65	drive	wɔnd’ǝh
+10.66	ride	wob
+10.67	push, shove	tu
+10.67	push, shove	tɨy
+10.71	road	tiwpǒg
+10.72	path	tíw
+10.74	bridge	b’ěhteg
+10.75	carriage, wagon, cart	pǝpə́dteg
+10.76	wheel	pǝpə́dpɔt
+10.83	boat	nácia
+10.831	canoe	hɔhtěg
+10.84	raft	báwca
+10.851	paddle (noun)	hæ̃ˇy’b’ah
+10.852	row (vb)	hæ̃y’
+10.91	harbor, port	dehd’óʔ
+10.92	land (vb)	pæyæt
+10.92	land (vb)	hiyæt
+11.11	have	tɔn
+11.11	have	nɨ
+11.12	own, possess	tɔn
+11.13	take	d’oʔ
+11.14	seize, grasp	cuʔ
+11.15	hold	tɔn
+11.16	get, obtain	d’oʔ
+11.18	thing	teg
+11.18	thing	hinín’ɨ̌h
+11.21	give	nɔʔ
+11.22	give back	wi
+11.24	preserve, look after	wɔy
+11.27	destroy	hipay
+11.27	destroy	poʔ
+11.28	harm, injure, damage	hipay
+11.31	seek, look for	yɔhɔy
+11.32	find	yæ̃wæ̃c
+11.33	lose	b’uyd’ǝhyɨʔ
+11.34	release, let go	poʔ
+11.43	money	yénu
+11.44	coin	yénuwɨg
+11.54	avaricious, stingy	wɔy
+11.61	lend	way
+11.62	borrow	wayyæ̃h
+11.63	owe	mæytubud
+11.65	pay (vb)	mæy
+11.78	wages	mæ̌y
+11.79	earn	mæ̌yd’oʔ
+11.81	buy	du
+11.82	sell	du
+11.83	trade, barter	du
+11.86	store, shop	dúmɔy
+11.87	price	mæ̌y
+11.88	dear (costly, expensive)	mæypǒg
+11.91	share (distribute)	paha
+11.92	weigh	tæ̃ʔkey
+12.11	place	coʔ
+12.12	put	w’ob
+12.13	sit	pæm
+12.14	lie down	yæt
+12.15	stand	g’et
+12.16	remain, stay	dɨʔ
+12.17	remains, left overs	dɨ̌ʔ
+12.21	collect, gather	cog
+12.212	pick up	d’oʔ
+12.213	pile up	bug’g’et
+12.22	join, unite	d’oʔnæ
+12.23	separate	d’oʔkawa
+12.232	divide	d’oʔkawa
+12.24	open	poʔ
+12.25	shut, close	bib’
+12.26	cover	hicuʔ
+12.27	hide, conceal	yǝd
+12.31	high	póh
+12.32	low	tú
+12.33	top	buycóʔ
+12.34	bottom	tú
+12.35	end	g’ætd’óh
+12.352	pointed	j’ɨ̌g
+12.353	edge	pə̌w
+12.36	side	cáʔah
+12.37	middle, center	hæyhɔ́
+12.41	right (side)	pɨbcáʔah
+12.42	left (side)	cɔ̃hcáʔah
+12.43	near (adv)	máhyɨʔ
+12.44	far (adv)	w’ěh
+12.53	grow	cap
+12.54	measure	tæ̃ʔkey
+12.55	large, big	póg
+12.56	small, little	cĩ´pm’æh
+12.57	long	w’ə̌t
+12.58	tall	w’ə̌t
+12.61	wide, broad	hǽy
+12.63	thick (in dimension)	g’ə́ʔ
+12.65	thin (in dimension)	cə̌pmæh
+12.67	deep	wán
+12.71	flat	ʔæ̌ytænyɨ́ʔ
+12.73	straight	mɨnɨ́ŋ
+12.73	straight	yɔ́w
+12.74	crooked	totoy
+12.75	hook	kĩkĩn
+12.76	corner	tóg’j’ɨ̌g
+12.77	cross	kǝtǝgwob
+12.78	square	kwádru
+12.81	round	dedéb
+12.82	circle	pɔ̌t
+12.83	sphere, ball	bóda
+12.83	sphere, ball	tat
+12.85	hole	hǒd
+12.92	like, similar	nɨh
+12.93	change	hidoho
+13.1	one	déc
+13.1	one	d’apũhnihũ´ʔ
+13.101	eleven	ʔõ´ci
+13.102	twelve	dóci
+13.103	fifteen	kĩci
+13.104	twenty	vĩ´ci
+13.105	hundred	cẽ´
+13.106	thousand	míw
+13.107	count	dɔʔ
+13.14	every, all	nihũ´ʔ
+13.14	every, all	ʔápyɨʔ
+13.15	much, many	də́b
+13.16	more	kǝd
+13.181	some	ʔayuppɨ́d
+13.19	multitude, crowd	pipiw’
+13.21	full	hitab
+13.23	part, piece	cə́g
+13.24	half	hæyhɔ́
+13.33	alone, only	b’ɨ́yɨʔ
+13.34	first	tɨhcúm
+13.35	last	tɨhg’ætd’óh
+13.37	pair	báb’d’ǝh
+13.38	two times	kaʔǎpmæ̌y
+13.44	three times	mɔtaʔapmæ̌y
+14.11	time	ʔóra
+14.12	age	ʔidáci
+14.13	new	d’ǝw
+14.13	new	hup
+14.14	young	tɨhdóʔtæ
+14.15	old	bɨ̌g
+14.15	old	tɨhwǝhə́d
+14.15	old	tɨhwá
+14.16	early	dɨʔtǽyɨʔ
+14.18	now	núpmæhyɨ́ʔ
+14.19	immediately	ʔopɨ́dyɨʔ
+14.21	swift, fast, quick	hæ̌ŋyɨʔ
+14.22	slow	hæ̌myɨʔ
+14.23	hasten, hurry	hæ̌ŋyɨʔ
+14.25	begin, beginning	cumni
+14.26	end (temporal)	g’ætd’óh
+14.27	finish	hũʔ
+14.28	cease, stop	yãhãʔ
+14.31	always	kǝkǝynɨ́h
+14.32	often	bɨ́g
+14.331	soon	núpmæhyɨ́ʔ
+14.332	long-time (for a)	bɨ̌g
+14.35	again	cã´ptaʔ
+14.41	day	wág
+14.42	night	j’ə́b
+14.43	dawn	wághiyǽt
+14.44	morning	j’ǝbtǽyɨʔ
+14.45	noon, midday	himɨ̌ʔg’et
+14.451	afternoon	d’úʔ
+14.46	evening	j’ə́bay
+14.47	today	nutæ̌n
+14.48	tomorrow	ʔecáp
+14.481	day-after-tomorrow	ʔecáphɔtʔah
+14.49	yesterday	j’ám
+14.491	day-before-yesterday	j’ámhɔ̌tʔah
+14.51	hour	ʔóra
+14.53	clock, timepiece	wágtæ̃ʔkéy
+14.61	week	camána
+14.62	Sunday	cówag
+14.63	Monday	cegúndawag
+14.64	Tuesday	técawag
+14.65	Wednesday	kwátawag
+14.66	Thursday	kíntawag
+14.67	Friday	céctawag
+14.68	Saturday	cáuru
+14.71	month	wædhɔ́
+14.73	year	g’ɨ́
+14.74	winter	cɔ̃ˇhdeh
+14.76	summer	g’ɨ́
+15.21	smell (vb intrans)	cĩhni
+15.21	smell (vb intrans)	mújni
+15.212	sniff	cĩhwɨʔ
+15.22	smell (vb trans)	cĩhwɨʔ
+15.25	fragrant, good smelling	cĩhnáw
+15.26	stinking, bad smelling	múj
+15.31	taste	wædtæ̃ʔkey
+15.35	sweet	g’ə́h
+15.36	salty	b’ǒhni
+15.37	bitter	j’á
+15.38	acid, sour	g’í
+15.41	hear	wɨʔ
+15.42	listen	wɨʔ
+15.44	sound, noise	hɔ̃ˇh
+15.45	loud	hɔ̃ˇhpɨ́b
+15.51	see	key
+15.52	look, look at	key
+15.55	show	be
+15.56	shine	b’ag
+15.57	bright	b’ag
+15.62	light (in color)	tohó
+15.63	dark (in color)	b’atúk
+15.64	white	tohó
+15.65	black	j’á
+15.66	red	dó
+15.67	blue	pɔ̃pɔ̃´h
+15.68	green	pɔ̃pɔ̃´h
+15.69	yellow	pohó
+15.71	touch	hutiʔ
+15.712	pinch	cuʔkey
+15.72	feel	huwɨʔ
+15.74	hard	tab’áʔ
+15.75	soft	y’úʔ
+15.76	rough	kukuç
+15.77	smooth	yíb
+15.78	sharp	j’ɨ́g
+15.81	heavy	yiwík
+15.83	wet, damp	pu
+15.84	dry	hǝb
+15.85	hot	g’ɨ́
+15.86	cold	tút
+15.86	cold	m’ǽ
+15.88	dirty, soiled	titíʔ
+15.88	dirty, soiled	j’ɔ̌w’
+15.89	wrinkled	niniŋ
+16.11	soul, spirit	hã´wɨg
+16.15	surprised, astonished	cewe
+16.23	joyful, glad, happy	hicoco
+16.25	laugh	tæ̃ʔnɔ
+16.251	smile	tæ̃ʔnɔ
+16.26	play	mũhũʔ
+16.27	love	wɔy
+16.29	kiss	beca
+16.29	kiss	dɔwɔ̌hʔun’
+16.3	embrace	kay’
+16.31	pain	pěʔ
+16.32	grief, sorrow, sadness	hãwɨghihũʔ
+16.33	anxiety, worry	hɔni
+16.34	regret, be sorry	hɔni
+16.35	pity	hɔni
+16.37	cry, weep	ʔɔt
+16.38	tear (noun)	kǝwǝgděh
+16.39	groan	papad
+16.41	hate	keytǝw
+16.42	anger	tǝwway
+16.44	envy, jealousy	hib’i
+16.45	shame (noun)	hutbi
+16.48	proud	hãwɨgnáw
+16.52	brave	tɨhpɨ´bʔĩh
+16.53	fear, fright	ʔɔm
+16.54	danger	yɔ̃ʔɔ́m
+16.62	desire, want	tuk
+16.622	choose	hid
+16.66	true	tɨhɨ́tyɨʔ
+16.67	lie, tell lies	tɨh
+16.69	forgive	himɨhɨn
+16.71	good	náw
+16.72	bad	páy
+16.73	right, correct	dɔʔkěy
+16.76	fault	hiyóʔ
+16.76	fault	kúpa
+16.77	mistake, error	páybɨʔ
+16.79	praise	hitamaʔ
+16.81	beautiful	tuhúp
+16.82	ugly	páy
+16.83	greedy	wɔy
+17.11	mind	huphipãˇh
+17.14	think (= be of the opinion)	hipãh
+17.15	believe	hipãh
+17.16	understand	hipãh
+17.17	know	hipãh
+17.171	guess	keyhipãh
+17.172	imitate	hitæ̃ʔ
+17.18	seem	bahad
+17.19	idea, notion	hipãˇhteg
+17.23	insane, crazy	miŋ
+17.24	learn	b’oy
+17.242	study	b’oy
+17.25	teach	b’oy
+17.26	pupil	b’ǒyopʔĩh
+17.27	teacher	b’ǒyopʔĩh
+17.28	school	b’ǒymɔy
+17.31	remember	hipãh
+17.32	forget	himɨhɨn
+17.37	sure, certain	tɨhɨ́tyɨʔ
+17.38	explain	tɔ̃h
+17.41	intention, purpose	wɨʔhamd’ə̌hteg
+17.42	cause	hicéʔ
+17.441	betray	ʔɨdcud
+17.45	need, necessity	tǔk
+17.47	difficult	hamhũynɨ́h
+17.48	try, attempt	key
+17.52	because	keyóʔ
+17.53	if	tæn
+17.54	or	ʔó
+17.55	yes, affirmative	hə̌ʔ
+17.56	no, negative	nɨ́h
+17.61	how?	hɨ̃p
+17.62	how many?	hɨ̃ʔap
+17.63	how much?	hɨ̃m’ǽ
+17.64	what?	hɨ̃n’ɨ̌h
+17.65	when?	hɨ̃m’ǽ
+17.66	where?	hɨ̃cóʔ
+17.66	where?	hɨ̃kán
+17.67	which?	hɨ̃p
+17.68	who?	ʔǔy
+17.69	why?	hɨnɨykeyóʔ
+18.11	voice	ʔɨ́d
+18.12	sing	yamhĩdɔʔ
+18.13	shout, cry out	kaw
+18.15	whisper	ʔɨdcacay
+18.16	mumble	ʔɨʔɨd
+18.17	whistle	wiç
+18.17	whistle	wɔ̃c
+18.18	shriek, screech	pĩk
+18.19	howl	ʔɔt
+18.21	speak, talk	ʔɨd
+18.211	stutter, stammer	kukuʔ
+18.211	stutter, stammer	w’ãʔw’ãʔ
+18.22	say	nɔ
+18.221	tell story	pɨnɨŋ
+18.222	speech (make a)	ʔɨ́d
+18.24	language	ʔɨ́d
+18.26	word	ʔɨ́d
+18.28	name	hǎt
+18.31	ask (question, inquire)	ʔihkey
+18.32	answer	g’ætd’oʔ
+18.35	ask, request	ʔih
+18.38	forbid	yæ̃hnɨ́h
+18.39	rebuke, scold	tǝw
+18.41	call (=summon)	ʔey
+18.42	call (=name)	hǎtʔey
+18.51	write	hɨʔ
+18.52	read	cug’æ̌tkey
+18.52	read	de
+18.56	paper	cug’æ̌t
+18.57	pen	dápi
+18.61	book	cug’æ̌t
+18.71	flute	pĩˇhteg
+18.72	drum	mætb’ɔ́k
+18.73	horn, trumpet	mǔc
+18.74	rattle	tǎj
+19.11	country	j’áh
+19.15	city, town	hayám
+19.16	village	hayám
+19.17	boundary	tǎʔ
+19.23	tribe, clan	tæ̃ˇhd’ǝh
+19.24	chief, chieftain	kapitã´w
+19.24	chief, chieftain	yɔʔɔ̌mʔĩh
+19.25	staff, walking stick	cǒhteg
+19.43	servant	hũˇh
+19.45	command, order	yæ̃h
+19.47	let, permit	y’æt
+19.51	friend, companion	ʔɨnɨtʔǔyʔĩh
+19.52	enemy	keytə́wǝpʔĩh
+19.54	neighbor	ʔɨnmáhayʔĩh
+19.55	stranger	w’ěheyʔĩh
+19.58	help, aid	bɨʔhitam
+19.58	help, aid	bɨʔnæ
+19.59	hinder, prevent	d’oʔyahãʔ
+19.61	custom	niteg
+19.62	strife, quarrel	ʔũhtǝw
+19.65	meet	hitaʔ
+19.65	meet	yæ̃wæ̃c
+20.11	fight (vb)	ʔũhmæh
+20.13	war, battle	ʔũhmæh
+20.17	soldier	cudáda
+20.21	weapons, arms	d’apb’ǔyteg
+20.22	club	tǎw
+20.24	bow	g’ígb’ah
+20.25	arrow	mǔh
+20.26	spear	cɔ̌hteg
+20.28	gun, cannon	teghɔ̃´teg
+20.35	fortress	hicád
+20.41	victory	gaña
+20.43	attack	ʔũhmæh
+20.44	defend	ʔũhmæh
+20.48	booty, spoils	hæ̃ˇh
+20.51	fisherman	hɔ̃pkə́kǝpʔĩh
+20.52	fishhook	hɔ̃pkə́k
+20.53	fishing line	hɔ̃pkǝktɨ́t
+20.54	fishnet	hɔ̃pcæ̌g
+20.55	fish trap	wɨ̌ç
+20.61	hunt	hũ´mæh
+20.61	hunt	nɔway
+20.62	shoot	teghɔ̃
+20.62	shoot	g’ig
+20.63	miss (target)	duʔ
+20.64	trap (noun)	mɔhká
+20.65	trap (vb)	d’oʔ
+21.18	judge (noun)	yǔy
+21.39	prison, jail	pǝrécumɔy
+21.42	murder	mæh
+21.43	adultery	bɨʔyǝd
+21.44	rape	d’oʔ
+21.46	arson	tujd’ak
+21.51	steal	j’ek
+21.52	thief	j’ekpóg

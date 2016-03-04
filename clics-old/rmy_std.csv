@@ -1,0 +1,993 @@
+@classification: Indo-European,Indo-Iranian,Indo-Aryan,Central zone,Romani,Vlax
+@ids-name: Romani_Phonemic
+@iso: rmy
+@language: Romani, Vlax
+@size: 986
+@source: ids
+@variety: std
+1.21	earth, land	pʰuv
+1.212	earth=ground, soil	pʰuv
+1.213	dust	poš
+1.214	mud	čik
+1.215	sand	tisai
+1.22	mountain, hill	playin
+1.24	valley	xar
+1.26	mainland	barotʰem
+1.27	shore	prasav
+1.31	water	pai
+1.32	sea	deriav
+1.33	lake	pai
+1.343	headland, point	gor
+1.343	headland, point	agor
+1.353	lowtide	avryalo
+1.353	lowtide	opaisitele
+1.354	hightide	andralo
+1.354	hightide	opaisivučo
+1.36	river, stream, brook	doreavo
+1.36	river, stream, brook	deriav
+1.36	river, stream, brook	len
+1.362	whirlpool	balvalioʀi
+1.37	spring, well	xaing
+1.39	waterfall	barepaia
+1.39	waterfall	payeskoperipe
+1.39	waterfall	payeskoperimos
+1.41	woods, forest	veš
+1.42	tree (cf 08.600)	kaš
+1.42	tree (cf 08.600)	rukʰ
+1.43	wood	kaš
+1.44	stone, rock	baʀ
+1.45	earthquake	isdraimospʰuviako
+1.51	sky	čeri
+1.51	sky	del
+1.51	sky	bolimos
+1.52	sun	kʰam
+1.53	moon	šʸon
+1.54	star	čerhai
+1.55	lightning	mos
+1.56	thunder	uri
+1.61	light (noun)	vudud
+1.61	light (noun)	dud
+1.62	darkness	kalimos
+1.63	shade, shadow	usalin
+1.72	wind	balval
+1.75	rain (noun)	brišind
+1.76	snow (noun)	yiv
+1.77	ice	paxo
+1.81	fire	yag
+1.82	flame (noun)	para
+1.83	smoke (noun)	tʰuv
+1.84	ashes	vušar
+1.841	embers	amblal
+1.841	embers	ušʸar
+1.851	burn (vb trans)	pʰab
+1.852	burn (vb intrans)	pʰabuvav
+1.86	light, kindle, ignite	depeyag
+1.861	extinguish	mudar
+1.87	match (noun)	mašina
+1.88	firewood	kaš
+1.89	charcoal	angar
+2.1	person, human being	manuš
+2.21	man (vs. woman)	murš
+2.21	man (vs. woman)	manuš
+2.21	man (vs. woman)	ʀom
+2.21	man (vs. woman)	gažo
+2.22	woman	žʸuvel
+2.22	woman	manušni
+2.22	woman	ʀomni
+2.22	woman	gaži
+2.23	male	muršikano
+2.24	female	žʸuvlikano
+2.25	boy	šʸav
+2.25	boy	šʸavo
+2.25	boy	raklo
+2.251	young man (adolescent)	šʸav
+2.251	young man (adolescent)	šʸavo
+2.251	young man (adolescent)	raklo
+2.26	girl	šʸei
+2.26	girl	rakli
+2.261	young woman (adolescent)	šʸei
+2.261	young woman (adolescent)	rakli
+2.27	child	šʸavoʀo
+2.27	child	šʸavoʀi
+2.27	child	rakloʀo
+2.27	child	raklioʀi
+2.27	child	šʸeioʀi
+2.31	husband	gažʸo
+2.31	husband	ʀom
+2.32	wife	gažʸi
+2.32	wife	ʀomni
+2.33	marry	lav
+2.341	divorce	mekimos
+2.35	father	dad
+2.36	mother	dei
+2.41	son	šʸav
+2.41	son	šʸavo
+2.41	son	raklo
+2.42	daughter	šʸei
+2.42	daughter	rakli
+2.44	brother	pral
+2.44	brother	pʰral
+2.444	older brother	pralbaro
+2.45	sister	pʰe
+2.45	sister	pʰei
+2.45	sister	pʰen
+2.456	sibling	pʰral
+2.456	sibling	pʰe
+2.458	twins	žʸameia
+2.46	grandfather	dadeskodad
+2.46	grandfather	dakodad
+2.461	old man	pʰuro
+2.47	grandmother	dadeskidei
+2.47	grandmother	dakidei
+2.471	old woman	pʰuri
+2.471	old woman	bibi
+2.48	grandson	šʸaveskošav
+2.48	grandson	šʸeyakišav
+2.49	granddaughter	šʸaveskišʸei
+2.49	granddaughter	šʸeyakišʸei
+2.51	uncle	kak
+2.511	mother's brother	dakopral
+2.511	mother's brother	kak
+2.512	father's brother	kak
+2.52	aunt	bibi
+2.521	mother's sister	bibi
+2.522	father's sister	bibi
+2.57	descendants	kʰer
+2.63	son-in-law (of a man)	žʸamutro
+2.631	son-in-law (of a woman)	žʸamutro
+2.64	daughter-in-law (of a man)	bori
+2.641	daughter-in-law (of a woman)	bori
+2.71	stepfather	dad
+2.72	stepmother	dei
+2.73	stepson	sʸav
+2.74	stepdaughter	sʸei
+2.75	orphan	bidakobidadesko
+2.76	widow	pʰivli
+2.77	widower	pʰivlo
+2.91	I	me
+2.92	you (singular)	tu
+2.93	he/she/it	vo
+2.93	he/she/it	voi
+2.94	we	ame
+2.941	we (inclusive)	ame
+2.942	we (exclusive)	ame
+2.95	you (plural)	tume
+2.96	they	von
+3.12	male (adj)	muršikano
+3.13	female (adj)	žuvlikano
+3.13	female (adj)	žuvlyano
+3.18	herdsman	bakriari
+3.18	herdsman	gurumniari
+3.2	cattle (bovine)	guruva
+3.22	ox	guruv
+3.23	cow	guruvni
+3.23	cow	gurumni
+3.25	sheep	bakro
+3.26	ram	bakro
+3.28	ewe	bakri
+3.29	lamb	bakroʀo
+3.29	lamb	bakroʀi
+3.32	boar	balo
+3.34	sow	bali
+3.35	pig	balo
+3.36	goat	buzni
+3.37	he-goat	buzno
+3.38	kid	buznoʀo
+3.41	horse (equine)	grast
+3.42	stallion	grast
+3.44	mare	grazni
+3.45	foal, colt	grastoʀo
+3.45	foal, colt	kʰuro
+3.47	mule	zoro
+3.5	fowl	kʰaynya
+3.52	cock, rooster	bašno
+3.54	hen	kʰayni
+3.55	chicken	puyo
+3.56	goose	papin
+3.581	bird	čirikli
+3.582	seagull	mašyarka
+3.593	crow	kaličirikli
+3.61	dog	rikon
+3.61	dog	džukel
+3.614	rabbit	šošoi
+3.63	mouse, rat	rič
+3.65	fish	mašʸo
+3.652	fin (dorsal)	pʰak
+3.652	fin (dorsal)	por
+3.654	gill	kan
+3.661	shark	mašʸomudarimasko
+3.662	porpoise, dolphin	maryakobalo
+3.71	wolf	ruv
+3.73	bear	riči
+3.77	elephant	roslano
+3.81	insect	byndavo
+3.81	insect	araklano
+3.81	insect	pužuvuno
+3.811	louse	žʸuv
+3.812	nit (louse egg)	likʰ
+3.813	flea	pišom
+3.814	centipede	šelepirengeri
+3.817	ant	kirmi
+3.818	spider	araxni
+3.82	bee	ruvli
+3.82	bee	birovli
+3.821	beeswax	mom
+3.822	beehive	birovlengokʰer
+3.823	wasp	birovli
+3.83	fly	makʰi
+3.84	worm	kermo
+3.85	snake	sap
+3.93	grasshopper	grastoʀo
+3.94	snail	limori
+3.95	frog	xutʸamni
+4.12	skin, hide	morc̷i
+4.13	flesh	mas
+4.14	hair (head)	bal
+4.142	beard	šʸor
+4.144	body hair	zar
+4.145	pubic hair	zar
+4.15	blood	rat
+4.151	vein, artery	vina
+4.162	rib	prasav
+4.17	horn	šing
+4.18	tail	pori
+4.19	back	dumo
+4.19	back	zeya
+4.191	spine	rafin
+4.2	head	šero
+4.201	side of head, temple	šero
+4.202	skull	šero
+4.203	brain	godi
+4.204	face	mui
+4.205	forehead	čikat
+4.207	jaw	mui
+4.208	cheek	čʰam
+4.21	eye	yakʰ
+4.212	eyebrow	pʰov
+4.215	blink	kerandalyakʰa
+4.22	ear	kan
+4.221	earlobe	kanesko
+4.222	earwax	kaneskočiken
+4.222	earwax	kaneskimom
+4.23	nose	nakʰ
+4.231	nostril	rutai
+4.232	mucus (nasal)	lim
+4.24	mouth	mui
+4.241	beak	nakʰ
+4.25	lip	vušt
+4.26	tongue	šʸib
+4.27	tooth	dand
+4.271	gums	zara
+4.272	molartooth	tʰar
+4.28	neck	kor
+4.28	neck	men
+4.29	throat	kor
+4.3	shoulder	piko
+4.301	shoulderblade	dumesko
+4.302	collarbone	suv
+4.302	collarbone	suvledumeski
+4.31	arm	vast
+4.31	arm	musi
+4.312	armpit	takʰ
+4.312	armpit	kakʰ
+4.32	elbow	kuni
+4.321	wrist	vast
+4.33	hand	vast
+4.34	finger	nai
+4.342	thumb	naibaro
+4.344	fingernail	nai
+4.35	leg	pinro
+4.35	leg	heroi
+4.352	calf of leg	mašʸo
+4.36	knee	čang
+4.36	knee	koč
+4.36	knee	pʰabay
+4.37	foot	pinro
+4.37	foot	punro
+4.372	heel	kʰur
+4.38	toe	nai
+4.392	wing	pakʰ
+4.393	feather	por
+4.4	chest	kolin
+4.41	breast (of woman)	berk
+4.412	nipple, teat	čuči
+4.42	udder	čuči
+4.44	heart	ilo
+4.441	lung	bukoparno
+4.45	liver	bukokalo
+4.46	stomach	ogi
+4.46	stomach	poʀ
+4.461	intestines, guts	poʀa
+4.462	waist	maškar
+4.464	buttocks	bul
+4.47	womb	poʀ
+4.49	testicle	pelo
+4.492	penis	kar
+4.51	breathe, breath	pʰurd
+4.51	breathe, breath	c̷ird
+4.51	breathe, breath	c̷irdimos
+4.521	hiccough	mos
+4.53	cough	xasav
+4.54	sneeze	čikde
+4.55	perspire	lepayalenman
+4.56	spit	čungade
+4.57	vomit	šʸad
+4.58	bite	dandar
+4.59	lick	čar
+4.591	dribble	meksalyakaomuy
+4.61	sleep	sov
+4.612	snore	xireisar
+4.612	snore	xarisar
+4.62	dream	dikʰandosuno
+4.63	wake up	žangiarel
+4.64	break wind	rilde
+4.65	urinate	muter
+4.66	defecate	xin
+4.67	have sexual intercourse	deminž
+4.68	shiver	šudrimos
+4.69	bathe	nʸar
+4.71	beget (of father)	ker
+4.72	born (to be)	arakʰ
+4.73	pregnant	kʰamni
+4.74	live, living, life	živ
+4.74	live, living, life	živdo
+4.74	live, living, life	živipen
+4.75	die, dead	mer
+4.75	die, dead	mulo
+4.751	drowned	tasavdo
+4.76	kill	mudar
+4.77	corpse	mulo
+4.78	bury (the dead)	praxar
+4.79	grave, tomb	limori
+4.81	strong, mighty, powerful	zoralo
+4.82	weak	kovlo
+4.82	weak	bizuralo
+4.83	well, health	sasto
+4.83	well, health	sastimos
+4.84	sick, sickness	nasvalo
+4.84	sick, sickness	nasvalimos
+4.85	wound, sore	šindimos
+4.853	swelling	pʰuc̷imos
+4.853	swelling	šuvlimos
+4.853	swelling	šuvlipe
+4.854	itch	xandž
+4.855	blister	boska
+4.857	pus	pʰum
+4.86	cure, heal	sastiar
+4.88	medicine, drug	drab
+4.91	tired, weary	kʰino
+4.92	lazy	kʰančesko
+4.92	lazy	kʰandino
+4.93	bald	pʰako
+4.94	lame	langalo
+4.95	deaf	kašuko
+4.96	mute	laloʀo
+4.97	blind	koʀo
+4.98	intoxicated	mato
+4.99	naked, bare	nango
+5.11	eat	xa
+5.12	food	xaben
+5.121	cooked	kiravdo
+5.122	raw	ivand
+5.123	ripe	pako
+5.124	green, unripe	napako
+5.125	rotten	kerno
+5.13	drink	pi
+5.14	hunger	bokʰ
+5.141	famine	bokʰ
+5.15	thirst	truš
+5.16	suck	c̷ird
+5.16	suck	čaʀ
+5.18	chew	čamb
+5.181	swallow	nakʰav
+5.19	choke	tasuv
+5.21	cook	kirav
+5.22	boil (vb)	kirav
+5.23	roast, fry	pek
+5.24	bake	pek
+5.25	oven	bov
+5.26	pot, cooking vessel	piri
+5.31	dish	čaro
+5.33	bowl	čaro
+5.34	pitcher, jug	piri
+5.34	pitcher, jug	kʰoro
+5.35	cup, drinking vessel	taxtai
+5.37	spoon	ʀoy
+5.38	knife	šʸuri
+5.41	meal (a)	xaben
+5.42	breakfast	dimneac̷akoxaben
+5.45	supper	ratiakoxaben
+5.46	peel	rand
+5.48	scrape	rand
+5.51	bread	maʀo
+5.53	dough	xumer
+5.55	meal, flour	aro
+5.56	crush, grind	litiar
+5.56	crush, grind	ičar
+5.57	mill	asav
+5.61	meat	mas
+5.63	sausage	goi
+5.64	soup, broth	zumi
+5.65	vegetables	zelenimata
+5.712	bunch	drez
+5.76	grape	drakʰ
+5.77	nut	pendex
+5.791	grease, fat	čiken
+5.81	salt	lon
+5.82	pepper	piperi
+5.84	honey	avdzin
+5.86	milk (noun)	tʰud
+5.87	milk (vb)	duš
+5.88	cheese	kiral
+5.89	butter	c̷il
+5.89	butter	kʰil
+5.9	beverage, drink	pimos
+5.91	mead	avginakimol
+5.92	wine	mol
+5.94	fermented drink	tʰari
+5.97	egg	anʀo
+6.11	put on (clothes)	lavpete
+6.11	put on (clothes)	huriav
+6.12	clothing, clothes	gada
+6.22	wool	pošom
+6.25	silk	kez
+6.29	leather	morc̷i
+6.31	spin	katisar
+6.33	weave	kʰuv
+6.35	sew	suv
+6.36	needle	siv
+6.38	thread	tʰav
+6.43	coat	raxami
+6.44	shirt	gad
+6.461	grass-skirt	zulumakic̷oxa
+6.461	grass-skirt	ʀokyasolumaki
+6.52	boot	kʰer
+6.57	belt, girdle	kuštik
+6.59	veil	selia
+6.61	pocket	kisi
+6.61	pocket	posetʸi
+6.62	button	koc̷ak
+6.72	jewel	kuč
+6.72	jewel	bar
+6.73	ring (for finger)	angrušti
+6.77	earring	c̷erc̷elo
+6.78	headband, headdress	diklo
+6.79	tattoo	šinimos
+6.82	towel	kʰosno
+6.91	comb	kanglo
+6.921	braid	c̷unra
+7.11	dwell, live	beš
+7.12	house	kʰer
+7.14	tent	c̷ehra
+7.15	yard, court	bar
+7.22	door, gate	vudar
+7.26	floor	pʰuv
+7.31	fireplace	bov
+7.32	stove	bov
+7.42	bed	tʰan
+7.421	pillow	šerand
+7.46	candle	momeli
+7.48	trough	balai
+7.53	ridgepole	berand
+7.54	rafter	beli
+7.56	post, pole	kilo
+7.57	board	pʰal
+8.12	field (for cultivation)	mal
+8.15	cultivate, till	bariar
+8.16	fence	bar
+8.22	dig	hunav
+8.32	mow, reap	šʸin
+8.32	mow, reap	kid
+8.41	crop, harvest	kʸidipe
+8.41	crop, harvest	kʸidimos
+8.42	grain (barley, oats etc)	gʸiv
+8.43	wheat	gʸivparno
+8.45	rye	gʸivkalo
+8.46	oats	žʸov
+8.51	grass	čar
+8.52	hay	kʰas
+8.531	plant (vb)	šʸa
+8.55	branch	rai
+8.56	leaf	patrin
+8.6	tree	kaš
+8.67	vine	res
+8.69	smoke (tobacco)	pi
+8.93	gourd	dudum
+8.931	pumpkin, squash	dudum
+8.94	bamboo	trestia
+8.98	mushroom	xuxuʀ
+9.11	do, make	ker
+9.12	work	butʸi
+9.14	bend	bandžar
+9.15	fold	kʸid
+9.16	tie, bind	pʰand
+9.161	untie	putar
+9.19	rope, cord	šelo
+9.21	strike (hit, beat)	mar
+9.22	cut	šʸin
+9.222	chop, hew	pʰarav
+9.223	stab	pušav
+9.23	knife	šʸuri
+9.24	scissors, shears	kat
+9.25	ax	tover
+9.26	break	pʰag
+9.261	broken	pʰaglo
+9.27	split	pʰarav
+9.28	tear	šʸin
+9.29	flay, skin	rand
+9.29	flay, skin	c̷irmorc̷ipa
+9.31	rub, wipe	kʰos
+9.32	stretch	porav
+9.33	pull	c̷ird
+9.34	spread out	buhliar
+9.34	spread out	šʸud
+9.341	hang up	amblav
+9.342	press	kʸid
+9.343	squeeze, wring	kʸid
+9.35	pour	šʸor
+9.36	wash	tʰa
+9.37	sweep	šelav
+9.37	sweep	šulav
+9.422	tool	sastri
+9.43	carpenter	kʰerari
+9.44	build	zidoisar
+9.46	bore	xiviar
+9.461	hollow out	hunav
+9.63	cast (metals)	šʸor
+9.64	gold	sumnakai
+9.65	silver	rup
+9.67	iron	sastri
+9.69	tin, tinplate	arčiči
+9.71	potter	piriari
+9.73	clay	čik
+9.75	weave, plait	kʰuv
+10.11	move	c̷irdpe
+10.12	turn over	depe
+10.12	turn over	muyal
+10.13	turn around	ambold
+10.13	turn around	irin
+10.16	drop (vb)	perav
+10.17	twist	ambold
+10.21	rise	vazdinisav
+10.21	rise	vazdpe
+10.22	raise, lift	vazd
+10.23	fall	per
+10.24	drip	tʰavde
+10.25	throw	šʸud
+10.252	catch (ball)	astar
+10.252	catch (ball)	le
+10.32	flow	žʸa
+10.351	dive	depe
+10.351	dive	deprufundak
+10.36	sail (vb)	žʸapeopai
+10.37	fly (vb)	hury
+10.41	creep, crawl	c̷irdpe
+10.412	kneel	dečanga
+10.412	kneel	perpečangende
+10.413	crouch	beš
+10.43	jump, leap	xutʸ
+10.431	kick	deekʰpunro
+10.44	dance	kʰel
+10.45	walk	pʰir
+10.451	limp	langa
+10.46	run	naš
+10.46	run	prast
+10.47	go	žʸa
+10.471	go up	žʸaopre
+10.472	climb	ankel
+10.473	go down	depetele
+10.474	go out	žʸaavri
+10.48	come	av
+10.481	come back	avpalpale
+10.49	go away, depart	žʸatar
+10.491	disappear	xasav
+10.51	flee	naš
+10.52	follow	žʸapala
+10.52	follow	avpala
+10.55	reach, arrive	ares
+10.56	approach	pašuv
+10.57	enter	žʸaandre
+10.61	carry (bear)	anger
+10.612	carry-in-hand	anger
+10.612	carry-in-hand	inger
+10.612	carry-in-hand	ninger
+10.612	carry-in-hand	pʰirav
+10.62	bring	an
+10.63	send	bičav
+10.63	send	trad
+10.64	lead (vb)	pʰirav
+10.64	lead (vb)	anger
+10.64	lead (vb)	inger
+10.64	lead (vb)	ninger
+10.65	drive	trad
+10.66	ride	trad
+10.67	push, shove	spid
+10.74	bridge	pʰurt
+10.75	carriage, wagon, cart	vurdon
+10.81	ship	bero
+10.83	boat	c̷uno
+10.92	land (vb)	areslapʰuvate
+11.11	have	tʰer
+11.11	have	siman
+11.12	own, possess	siman
+11.13	take	le
+11.14	seize, grasp	astar
+11.14	seize, grasp	xutil
+11.15	hold	anker
+11.16	get, obtain	le
+11.17	keep, retain	anker
+11.18	thing	buči
+11.18	thing	buti
+11.18	thing	šey
+11.21	give	de
+11.22	give back	depalpale
+11.24	preserve, look after	arakʰ
+11.25	save, rescue	arakʰ
+11.28	harm, injure, damage	dukʰav
+11.31	seek, look for	rod
+11.32	find	arakʰ
+11.33	lose	našav
+11.34	release, let go	mek
+11.43	money	love
+11.44	coin	lov
+11.51	rich	barvalo
+11.52	poor	čoʀo
+11.54	avaricious, stingy	xandžuvalo
+11.61	lend	de
+11.62	borrow	le
+11.63	owe	av
+11.65	pay (vb)	pokin
+11.66	account, reckoning	pokinimos
+11.79	earn	ker
+11.79	earn	le
+11.81	buy	kin
+11.82	sell	bikin
+11.87	price	pokindimos
+11.88	dear (costly, expensive)	kuč
+12.1	after	pala
+12.11	place	pala
+12.2	beside	paša
+12.3	down, below	tele
+12.4	before	angla
+12.41	right (side)	angla
+12.41	right (side)	angle
+12.41	right (side)	mayanglal
+12.5	inside, in	ande
+12.6	outside	avri
+12.7	under	tela
+12.8	up, above	opre
+12.11	place	tʰan
+12.12	put	tʰo
+12.13	sit	beš
+12.14	lie down	pašliuv
+12.15	stand	beš
+12.15	stand	tʰer
+12.16	remain, stay	ašʸ
+12.17	remains, left overs	ašʸilimos
+12.21	collect, gather	kʸid
+12.21	collect, gather	c̷id
+12.212	pick up	kʸid
+12.212	pick up	c̷id
+12.213	pile up	kʸid
+12.22	join, unite	asba
+12.24	open	pitr
+12.24	open	pʰutr
+12.25	shut, close	pʰand
+12.26	cover	vušar
+12.27	hide, conceal	garav
+12.31	high	vučo
+12.32	low	c̷ino
+12.32	low	c̷igno
+12.33	top	gor
+12.35	end	gor
+12.36	side	rig
+12.37	middle, center	maškar
+12.41	right (side)	čačo
+12.43	near (adv)	paše
+12.44	far (adv)	dur
+12.45	east	kʰameske
+12.45	east	iklimaskirig
+12.45	east	kʰameskoiklipe
+12.46	west	divesesko
+12.46	west	kʰameskopʰagipe
+12.46	west	kʰameskopašlʸipe
+12.46	west	kʰameskepašlʸimaskirig
+12.47	north	čačirig
+12.48	south	rigtele
+12.53	grow	bariuv
+12.541	span, fathom	empan
+12.541	span, fathom	obuxlipe
+12.541	span, fathom	šovpunʀe
+12.55	large, big	baro
+12.56	small, little	c̷ino
+12.56	small, little	c̷igno
+12.58	tall	vučo
+12.61	wide, broad	buhlo
+12.62	narrow	tang
+12.63	thick (in dimension)	tʰulo
+12.65	thin (in dimension)	kislo
+12.65	thin (in dimension)	sano
+12.68	shallow	c̷iknoʀo
+12.68	shallow	naidurtele
+12.74	crooked	bango
+12.77	cross	trušul
+12.78	square	štaregorenc̷a
+12.92	like, similar	sar
+12.93	change	paʀuv
+13.0	zero, nothing	kʰanči
+13.1	one	ekʰ
+13.1	one	yekʰ
+13.2	two	dui
+13.3	three	trin
+13.4	four	štar
+13.5	five	panž
+13.5	five	pandž
+13.6	six	šov
+13.10	ten	deš
+13.101	eleven	dešuyekʰ
+13.102	twelve	dešudui
+13.103	fifteen	dešupanž
+13.104	twenty	biš
+13.105	hundred	šel
+13.106	thousand	gʸin
+13.106	thousand	dʸin
+13.107	count	dʸin
+13.107	count	gʸin
+13.14	every, all	sa
+13.14	every, all	savoʀo
+13.14	every, all	savoʀe
+13.15	much, many	but
+13.21	full	pʰerdo
+13.22	empty	nango
+13.24	half	dopaš
+13.24	half	paš
+13.33	alone, only	korkoʀo
+13.34	first	yekʰto
+13.34	first	avgo
+13.35	last	palatuno
+13.35	last	palal
+13.36	second	duito
+13.37	pair	žʸuto
+13.38	two times	duvar
+13.42	third	trito
+13.42	third	yekʰpartiaandatrin
+13.44	three times	trivar
+14.12	age	pʰurimos
+14.12	age	pʰuripe
+14.12	age	pʰerdebrešengo
+14.13	new	nevo
+14.14	young	terno
+14.15	old	purano
+14.15	old	pʰuro
+14.16	early	andairiat
+14.16	early	tehiario
+14.18	now	akana
+14.19	immediately	akanaš
+14.21	swift, fast, quick	sigo
+14.22	slow	loko
+14.24	retard, delay	kerteažiuker
+14.252	last, endure	anker
+14.26	end (temporal)	gor
+14.28	cease, stop	ašʸ
+14.31	always	sa
+14.331	soon	akanaš
+14.332	long-time (for a)	butvriamia
+14.35	again	pale
+14.41	day	dies
+14.42	night	riat
+14.451	afternoon	palao
+14.46	evening	riat
+14.46	evening	blevel
+14.47	today	avdies
+14.481	day-after-tomorrow	okaver
+14.49	yesterday	aratʸi
+14.491	day-before-yesterday	koldiesendar
+14.71	month	šon
+14.73	year	berš
+14.74	winter	yivend
+14.76	summer	milai
+14.76	summer	lilai
+15.21	smell (vb intrans)	kʰand
+15.212	sniff	šung
+15.22	smell (vb trans)	šung
+15.25	fragrant, good smelling	kʰand
+15.26	stinking, bad smelling	kʰand
+15.35	sweet	guglo
+15.36	salty	londo
+15.38	acid, sour	šutlo
+15.39	brackish	kernopai
+15.39	brackish	kerkopai
+15.39	brackish	naiguglo
+15.39	brackish	painaiguglo
+15.41	hear	ašun
+15.42	listen	ašun
+15.44	sound, noise	bašimos
+15.45	loud	vučo
+15.45	loud	zuralo
+15.51	see	dikʰ
+15.52	look, look at	dikʰ
+15.55	show	sikav
+15.55	show	dišav
+15.57	bright	vužo
+15.63	dark (in color)	kalo
+15.63	dark (in color)	melaxno
+15.63	dark (in color)	kaličoso
+15.63	dark (in color)	pʰandado
+15.64	white	parno
+15.65	black	kalo
+15.66	red	lolo
+15.71	touch	azb
+15.712	pinch	kid
+15.72	feel	azb
+15.74	hard	zuralo
+15.81	heavy	pʰaro
+15.82	light (in weight)	vušoʀo
+15.83	wet, damp	kingo
+15.84	dry	šuko
+15.85	hot	tato
+15.851	warm	tato
+15.86	cold	šudro
+15.86	cold	šilalo
+15.87	clean	šužo
+15.88	dirty, soiled	melalo
+16.15	surprised, astonished	mirisavav
+16.18	good fortune, luck	bax
+16.19	misfortune, bad luck	bax
+16.23	joyful, glad, happy	lošano
+16.25	laugh	asa
+16.251	smile	asa
+16.26	play	kʰel
+16.27	love	kam
+16.29	kiss	čumid
+16.3	embrace	de
+16.31	pain	dukʰ
+16.37	cry, weep	rov
+16.38	tear (noun)	asvin
+16.42	anger	xoli
+16.45	shame (noun)	lažʸav
+16.48	proud	barikano
+16.51	dare	trum
+16.53	fear, fright	daraimos
+16.62	desire, want	kam
+16.65	faithful	čačo
+16.66	true	čačo
+16.67	lie, tell lies	xoxav
+16.68	deceit	xoxavimos
+16.71	good	lašʸo
+16.72	bad	nasul
+16.73	right, correct	čačo
+16.74	wrong	bango
+16.76	fault	bezex
+16.77	mistake, error	bangipe
+16.78	blame	motʰav
+16.79	praise	ašarimos
+16.81	beautiful	šukar
+16.82	ugly	žungalo
+16.84	clever	godiaver
+17.11	mind	godi
+17.15	believe	patia
+17.16	understand	hatiar
+17.17	know	žʸan
+17.172	imitate	kerpala
+17.18	seem	falman
+17.21	wise	godiaver
+17.21	wise	hatiarno
+17.22	foolish, stupid	dilo
+17.23	insane, crazy	dilo
+17.24	learn	sitiuv
+17.242	study	sitiuv
+17.25	teach	sitiar
+17.26	pupil	sikado
+17.26	pupil	sikadi
+17.31	remember	depegodi
+17.32	forget	bistr
+17.34	clear, plain	vužo
+17.35	obscure	tuniariko
+17.38	explain	sitiar
+17.41	intention, purpose	gindo
+17.42	cause	ker
+17.43	doubt	bipačape
+17.441	betray	pʰukav
+17.47	difficult	pʰaro
+17.48	try, attempt	zumav
+17.51	and	tʰai
+17.51	and	hai
+17.52	because	ke
+17.53	if	te
+17.54	or	vai
+17.55	yes, affirmative	ei
+17.56	no, negative	na
+17.61	how?	sar
+17.62	how many?	kazom
+17.63	how much?	kabor
+17.64	what?	so
+17.65	when?	kana
+17.66	where?	kai
+17.67	which?	savo
+17.68	who?	kon
+17.69	why?	soste
+17.69	why?	sostar
+18.12	sing	gʸilaba
+18.13	shout, cry out	akʰar
+18.13	shout, cry out	demui
+18.17	whistle	dešol
+18.21	speak, talk	de
+18.22	say	pʰen
+18.221	tell story	motʰo
+18.222	speech (make a)	ker
+18.23	silent (be)	ašʸ
+18.24	language	šʸib
+18.26	word	lav
+18.28	name	anav
+18.31	ask (question, inquire)	puš
+18.32	answer	deanglal
+18.35	ask, request	puš
+18.35	ask, request	mang
+18.36	promise	delav
+18.37	refuse	depepalpale
+18.37	refuse	čikam
+18.39	rebuke, scold	akuš
+18.39	rebuke, scold	buzukurisarav
+18.39	rebuke, scold	xa
+18.41	call (=summon)	akʰar
+18.41	call (=summon)	c̷ip
+18.42	call (=name)	tʰoanav
+18.43	announce	pʰen
+18.44	threaten	prasa
+18.52	read	gin
+18.57	pen	por
+18.73	horn, trumpet	šing
+19.11	country	pʰuv
+19.11	country	tʰem
+19.16	village	gav
+19.25	staff, walking stick	rovli
+19.32	king, ruler	tʰagar
+19.41	master	rai
+19.42	slave	robo
+19.43	servant	sluga
+19.45	command, order	porunčisar
+19.46	obey	kand
+19.47	let, permit	mek
+19.54	neighbor	pašutno
+19.59	hinder, prevent	ašʸav
+19.62	strife, quarrel	čingar
+19.65	meet	maladiuv
+20.11	fight (vb)	mar
+20.13	war, battle	marimos
+20.222	battle-ax	tover
+20.31	armor (defensive)	zor
+20.31	armor (defensive)	arakʰipe
+20.33	helmet	stadisastruni
+20.42	defeat	peravel
+20.43	attack	vazdepepe
+20.44	defend	arakʰ
+20.45	retreat	durio
+20.46	surrender	depeka
+20.471	guard, sentinel	arakʰavno
+20.48	booty, spoils	arakʰimos
+20.48	booty, spoils	arakʰ
+20.51	fisherman	mašʸari
+20.56	bait	mom
+20.61	hunt	trad
+20.61	hunt	rod
+20.62	shoot	de
+20.63	miss (target)	c̷id
+20.65	trap (vb)	astar
+21.16	judge (vb)	de
+21.18	judge (noun)	krisino
+21.21	plaintiff	piritori
+21.22	defendant	došano
+21.24	swear	desolax
+21.25	oath	solax
+21.32	condemn	de
+21.33	convict (vb)	de
+21.34	acquit	keranda
+21.35	guilty	došalo
+21.36	innocent	bidošalo
+21.42	murder	mudarimos
+21.44	rape	kernasulke
+21.46	arson	pʰabaripe
+21.46	arson	pʰabarimos
+21.47	perjury	xoxamnisolax
+21.51	steal	c̷or
+21.52	thief	c̷or

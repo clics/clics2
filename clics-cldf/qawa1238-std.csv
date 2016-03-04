@@ -1,0 +1,623 @@
+ID,Language_ID,Feature_ID,IDS_Key,Value,Concept,IPA_UDECODE
+clics-doculect-202-1,qawa1238-std,concepticon-626,1.21,wes,"earth, land",wes
+clics-doculect-202-2,qawa1238-std,concepticon-1228,1.212,xaleytḳal,"earth=ground, soil",xaleytkal
+clics-doculect-202-3,qawa1238-std,concepticon-2,1.213,papasḳʰar,dust,papaskkar
+clics-doculect-202-4,qawa1238-std,concepticon-640,1.214,papˀe,mud,pap?e
+clics-doculect-202-5,qawa1238-std,concepticon-671,1.215,ḳyepc̷aḳs,sand,kyepcaks
+clics-doculect-202-6,qawa1238-std,concepticon-2118,1.22,arḳaḳʰar,"mountain, hill",arkakkar
+clics-doculect-202-7,qawa1238-std,concepticon-618,1.222,aḳsalc̷ewe,"cliff, precipice",aksalcewe
+clics-doculect-202-8,qawa1238-std,concepticon-652,1.23,arḳaḳalaḳs,"plain, field",arkakalaks
+clics-doculect-202-9,qawa1238-std,concepticon-622,1.25,xaleḳʰar,island,xalekkar
+clics-doculect-202-10,qawa1238-std,concepticon-166,1.26,weserlay,mainland,weserlay
+clics-doculect-202-11,qawa1238-std,concepticon-113,1.27,wesya,shore,wesya
+clics-doculect-202-12,qawa1238-std,concepticon-1155,1.28,c̷ˀayesalowe,cave,c?ayesalowe
+clics-doculect-202-13,qawa1238-std,concepticon-948,1.31,c̷efalay,water,cefalay
+clics-doculect-202-14,qawa1238-std,concepticon-1474,1.32,c̷ams,sea,cams
+clics-doculect-202-15,qawa1238-std,concepticon-258,1.322,eytaḳsta,calm (of sea),eytaksta
+clics-doculect-202-16,qawa1238-std,concepticon-1768,1.324,ma,foam,ma
+clics-doculect-202-17,qawa1238-std,concepticon-624,1.33,c̷efalaytḳal,lake,cefalaytkal
+clics-doculect-202-18,qawa1238-std,concepticon-663,1.34,sapar,"gulf, bay",sapar
+clics-doculect-202-19,qawa1238-std,concepticon-623,1.341,c̷efalaytḳal,lagoon,cefalaytkal
+clics-doculect-202-20,qawa1238-std,concepticon-660,1.342,c̷elasḳʰar,reef,celaskkar
+clics-doculect-202-21,qawa1238-std,concepticon-978,1.35,yerḳỵarya,wave,yerkyarya
+clics-doculect-202-22,qawa1238-std,concepticon-1026,1.353,afseḳta,lowtide,afsekta
+clics-doculect-202-23,qawa1238-std,concepticon-1026,1.353,afsoḳta,lowtide,afsokta
+clics-doculect-202-24,qawa1238-std,concepticon-613,1.354,xayeḳta,hightide,xayekta
+clics-doculect-202-25,qawa1238-std,concepticon-666,1.36,c̷efalayerlay,"river, stream, brook",cefalayerlay
+clics-doculect-202-26,qawa1238-std,concepticon-1982,1.362,c̷eḳwolas,whirlpool,cekwolas
+clics-doculect-202-27,qawa1238-std,concepticon-2144,1.37,c̷efalayḳawaḳsa,"spring, well",cefalaykawaksa
+clics-doculect-202-28,qawa1238-std,concepticon-1145,1.38,papˀe,swamp,pap?e
+clics-doculect-202-29,qawa1238-std,concepticon-420,1.41,arḳʰatawan,"woods, forest",arkkatawan
+clics-doculect-202-31,qawa1238-std,concepticon-2125,1.44,ḳyesaw,"stone, rock",kyesaw
+clics-doculect-202-32,qawa1238-std,concepticon-1732,1.51,arḳac̷ewe,sky,arkacewe
+clics-doculect-202-33,qawa1238-std,concepticon-1343,1.52,aswalḳseles,sun,aswalkseles
+clics-doculect-202-34,qawa1238-std,concepticon-1313,1.53,yeḳaptseweḳseles,moon,yekaptsewekseles
+clics-doculect-202-35,qawa1238-std,concepticon-1430,1.54,c̷elesewe,star,celesewe
+clics-doculect-202-36,qawa1238-std,concepticon-1150,1.56,aryor,thunder,aryor
+clics-doculect-202-37,qawa1238-std,concepticon-2007,1.57,ḳyoyes,lightning (as striking),kyoyes
+clics-doculect-202-38,qawa1238-std,concepticon-1733,1.59,aḳyepena,rainbow,akyepena
+clics-doculect-202-39,qawa1238-std,concepticon-630,1.61,ḳyoyesḳʰar,light (noun),kyoyeskkar
+clics-doculect-202-40,qawa1238-std,concepticon-11,1.62,aḳyawe,darkness,akyawe
+clics-doculect-202-41,qawa1238-std,concepticon-1388,1.63,ḳʰawes,"shade, shadow",kkawes
+clics-doculect-202-42,qawa1238-std,concepticon-960,1.72,safḳyas,wind,safkyas
+clics-doculect-202-43,qawa1238-std,concepticon-1489,1.73,arḳayeta,cloud,arkayeta
+clics-doculect-202-44,qawa1238-std,concepticon-249,1.74,ayxer,fog,ayxer
+clics-doculect-202-45,qawa1238-std,concepticon-658,1.75,aperḳs,rain (noun),aperks
+clics-doculect-202-46,qawa1238-std,concepticon-784,1.76,asewe,snow (noun),asewe
+clics-doculect-202-47,qawa1238-std,concepticon-617,1.77,yeterya,ice,yeterya
+clics-doculect-202-48,qawa1238-std,concepticon-221,1.81,afc̷ˀar,fire,afc?ar
+clics-doculect-202-49,qawa1238-std,concepticon-889,1.82,ḳyoyareḳ,flame (noun),kyoyarek
+clics-doculect-202-50,qawa1238-std,concepticon-778,1.83,ayeḳyo,smoke (noun),ayekyo
+clics-doculect-202-51,qawa1238-std,concepticon-646,1.84,aymaḳʰar,ashes,aymakkar
+clics-doculect-202-52,qawa1238-std,concepticon-67,1.841,ḳstatel,embers,kstatel
+clics-doculect-202-53,qawa1238-std,concepticon-141,1.851,awafna,burn (vb trans),awafna
+clics-doculect-202-54,qawa1238-std,concepticon-737,1.86,tˀeḳya,"light, kindle, ignite",t?ekya
+clics-doculect-202-55,qawa1238-std,concepticon-127,1.861,ḳayes,extinguish,kayes
+clics-doculect-202-56,qawa1238-std,concepticon-1133,1.87,yeḳstat,match (noun),yekstat
+clics-doculect-202-57,qawa1238-std,concepticon-10,1.88,afc̷ˀar,firewood,afc?ar
+clics-doculect-202-58,qawa1238-std,concepticon-683,2.1,ḳawasḳʰar,"person, human being",kawaskkar
+clics-doculect-202-59,qawa1238-std,concepticon-1554,2.21,aḳsenes,man (vs. woman),aksenes
+clics-doculect-202-60,qawa1238-std,concepticon-962,2.22,esatap,woman,esatap
+clics-doculect-202-61,qawa1238-std,concepticon-1553,2.23,areḳ,male,arek
+clics-doculect-202-62,qawa1238-std,concepticon-1551,2.24,waleḳ,female,walek
+clics-doculect-202-63,qawa1238-std,concepticon-76,2.251,erḳsa,young man (adolescent),erksa
+clics-doculect-202-64,qawa1238-std,concepticon-1646,2.26,ḳawesḳʰarseles,girl,kaweskkarseles
+clics-doculect-202-65,qawa1238-std,concepticon-1304,2.27,eyxyol,child,eyxyol
+clics-doculect-202-66,qawa1238-std,concepticon-1200,2.31,areḳ,husband,arek
+clics-doculect-202-67,qawa1238-std,concepticon-1199,2.32,aftsoḳ,wife,aftsok
+clics-doculect-202-68,qawa1238-std,concepticon-1217,2.35,c̷ewal,father,cewal
+clics-doculect-202-69,qawa1238-std,concepticon-1216,2.36,c̷ap,mother,cap
+clics-doculect-202-70,qawa1238-std,concepticon-1620,2.41,eyxyol,son,eyxyol
+clics-doculect-202-71,qawa1238-std,concepticon-1357,2.42,eyxyolseles,daughter,eyxyolseles
+clics-doculect-202-72,qawa1238-std,concepticon-1801,2.43,eyxyol,offspring (son or daughter),eyxyol
+clics-doculect-202-73,qawa1238-std,concepticon-1262,2.44,taḳsoḳte,brother,taksokte
+clics-doculect-202-74,qawa1238-std,concepticon-1759,2.444,yerḳeperḳ,older brother,yerkeperk
+clics-doculect-202-75,qawa1238-std,concepticon-1760,2.445,are,younger brother,are
+clics-doculect-202-76,qawa1238-std,concepticon-1263,2.45,taḳsoḳteseles,sister,taksokteseles
+clics-doculect-202-77,qawa1238-std,concepticon-1758,2.454,c̷ewelḳer,older sister,cewelker
+clics-doculect-202-78,qawa1238-std,concepticon-1761,2.455,areseles,younger sister,areseles
+clics-doculect-202-79,qawa1238-std,concepticon-1383,2.46,yersas,grandfather,yersas
+clics-doculect-202-80,qawa1238-std,concepticon-406,2.461,oyḳepḳʰar,old man,oykepkkar
+clics-doculect-202-81,qawa1238-std,concepticon-1496,2.47,ḳyewoseles,grandmother,kyewoseles
+clics-doculect-202-82,qawa1238-std,concepticon-907,2.471,xoyḳolas,old woman,xoykolas
+clics-doculect-202-83,qawa1238-std,concepticon-1618,2.48,seḳwayoḳ,grandson,sekwayok
+clics-doculect-202-84,qawa1238-std,concepticon-1619,2.49,seḳwayoḳseles,granddaughter,sekwayokseles
+clics-doculect-202-85,qawa1238-std,concepticon-1985,2.512,yerwotaḳ,father's brother,yerwotak
+clics-doculect-202-86,qawa1238-std,concepticon-1272,2.52,soterḳ,aunt,soterk
+clics-doculect-202-87,qawa1238-std,concepticon-170,2.522,yerwotaḳ,father's sister,yerwotak
+clics-doculect-202-88,qawa1238-std,concepticon-1063,2.53,eyxyolyerwasḳay,nephew,eyxyolyerwaskay
+clics-doculect-202-89,qawa1238-std,concepticon-1643,2.55,yerwasḳe,cousin,yerwaske
+clics-doculect-202-90,qawa1238-std,concepticon-2255,2.61,tarḳeyep,father-in-law (of a man),tarkeyep
+clics-doculect-202-91,qawa1238-std,concepticon-2256,2.62,tayxarseles,mother-in-law (of a man),tayxarseles
+clics-doculect-202-92,qawa1238-std,concepticon-237,2.71,wareḳsens,stepfather,wareksens
+clics-doculect-202-93,qawa1238-std,concepticon-236,2.72,wareḳsenseles,stepmother,wareksenseles
+clics-doculect-202-94,qawa1238-std,concepticon-1644,2.81,yeḳyareḳ,"relatives, kinsmen",yekyarek
+clics-doculect-202-95,qawa1238-std,concepticon-194,2.82,yeḳyareḳ,family,yekyarek
+clics-doculect-202-96,qawa1238-std,concepticon-1209,2.91,c̷e,I,ce
+clics-doculect-202-97,qawa1238-std,concepticon-1215,2.92,c̷aw,you (singular),caw
+clics-doculect-202-98,qawa1238-std,concepticon-262,2.93,c̷aw,he/she/it,caw
+clics-doculect-202-99,qawa1238-std,concepticon-1212,2.94,c̷e,we,ce
+clics-doculect-202-100,qawa1238-std,concepticon-1213,2.95,c̷aw,you (plural),caw
+clics-doculect-202-101,qawa1238-std,concepticon-817,2.96,c̷aw,they,caw
+clics-doculect-202-102,qawa1238-std,concepticon-2261,3.12,areḳ,male (adj),arek
+clics-doculect-202-103,qawa1238-std,concepticon-2262,3.13,waleḳ,female (adj),walek
+clics-doculect-202-104,qawa1238-std,concepticon-1514,3.54,xaḳawaḳa,hen,xakawaka
+clics-doculect-202-105,qawa1238-std,concepticon-1360,3.57,ḳayep,duck,kayep
+clics-doculect-202-106,qawa1238-std,concepticon-539,3.58,eytḳal,nest,eytkal
+clics-doculect-202-107,qawa1238-std,concepticon-937,3.581,ḳayesḳa,bird,kayeska
+clics-doculect-202-108,qawa1238-std,concepticon-950,3.582,ḳaḳayes,seagull,kakayes
+clics-doculect-202-109,qawa1238-std,concepticon-758,3.583,c̷ˀaḳʰa,heron,c?akka
+clics-doculect-202-110,qawa1238-std,concepticon-1905,3.584,c̷eyes,eagle,ceyes
+clics-doculect-202-111,qawa1238-std,concepticon-1185,3.586,aḳorasap,vulture,akorasap
+clics-doculect-202-112,qawa1238-std,concepticon-1793,3.591,atoloc̷alaḳya,bat,atolocalakya
+clics-doculect-202-113,qawa1238-std,concepticon-882,3.592,parpar,parrot,parpar
+clics-doculect-202-114,qawa1238-std,concepticon-735,3.596,ḳoḳoles,owl,kokoles
+clics-doculect-202-115,qawa1238-std,concepticon-2009,3.61,ḳyoro,dog,kyoro
+clics-doculect-202-116,qawa1238-std,concepticon-1208,3.62,ḳeyeto,cat,keyeto
+clics-doculect-202-117,qawa1238-std,concepticon-2139,3.63,atḳasap,"mouse, rat",atkasap
+clics-doculect-202-118,qawa1238-std,concepticon-227,3.65,yawc̷en,fish,yawcen
+clics-doculect-202-119,qawa1238-std,concepticon-213,3.652,eḳarte,fin (dorsal),ekarte
+clics-doculect-202-120,qawa1238-std,concepticon-266,3.653,ḳse,fishscale,kse
+clics-doculect-202-121,qawa1238-std,concepticon-1916,3.654,afḳyal,gill,afkyal
+clics-doculect-202-122,qawa1238-std,concepticon-598,3.655,ḳʰar,shell,kkar
+clics-doculect-202-123,qawa1238-std,concepticon-1479,3.662,saḳstar,"porpoise, dolphin",sakstar
+clics-doculect-202-124,qawa1238-std,concepticon-957,3.663,apela,whale,apela
+clics-doculect-202-125,qawa1238-std,concepticon-1312,3.74,ḳyonc̷ar,fox,kyoncar
+clics-doculect-202-126,qawa1238-std,concepticon-1936,3.75,yeḳc̷al,deer,yekcal
+clics-doculect-202-127,qawa1238-std,concepticon-1392,3.811,yeḳstawes,louse,yekstawes
+clics-doculect-202-128,qawa1238-std,concepticon-843,3.818,ḳac̷ayema,spider,kacayema
+clics-doculect-202-129,qawa1238-std,concepticon-1504,3.83,ḳyematela,fly,kyematela
+clics-doculect-202-130,qawa1238-std,concepticon-1509,3.832,ḳyematela,mosquito,kyematela
+clics-doculect-202-131,qawa1238-std,concepticon-1219,3.84,ḳc̷eryaap,worm,kceryaap
+clics-doculect-202-132,qawa1238-std,concepticon-730,3.85,terḳoyasoḳ,snake,terkoyasok
+clics-doculect-202-133,qawa1238-std,concepticon-1791,3.92,c̷eḳelstaḳʰo,butterfly,cekelstakko
+clics-doculect-202-134,qawa1238-std,concepticon-607,3.93,ḳʰaserpeḳʰar,grasshopper,kkaserpekkar
+clics-doculect-202-135,qawa1238-std,concepticon-1543,3.94,taḳˀoyawes,snail,tak?oyawes
+clics-doculect-202-136,qawa1238-std,concepticon-503,3.95,ataḳtele,frog,ataktele
+clics-doculect-202-137,qawa1238-std,concepticon-763,4.12,ḳawes,"skin, hide",kawes
+clics-doculect-202-138,qawa1238-std,concepticon-1040,4.14,eyoḳ,hair (head),eyok
+clics-doculect-202-139,qawa1238-std,concepticon-678,4.142,afeyoḳ,beard,afeyok
+clics-doculect-202-140,qawa1238-std,concepticon-189,4.144,ḳaweseyoḳ,body hair,kaweseyok
+clics-doculect-202-141,qawa1238-std,concepticon-946,4.15,ḳstanḳse,blood,kstankse
+clics-doculect-202-142,qawa1238-std,concepticon-525,4.151,ḳstanḳseḳwar,"vein, artery",kstanksekwar
+clics-doculect-202-143,qawa1238-std,concepticon-1394,4.16,ḳʰar,bone,kkar
+clics-doculect-202-144,qawa1238-std,concepticon-801,4.162,arḳsarḳte,rib,arksarkte
+clics-doculect-202-145,qawa1238-std,concepticon-1393,4.17,aḳter,horn,akter
+clics-doculect-202-146,qawa1238-std,concepticon-1220,4.18,ḳso,tail,kso
+clics-doculect-202-147,qawa1238-std,concepticon-1291,4.19,taḳʰayḳte,back,takkaykte
+clics-doculect-202-148,qawa1238-std,concepticon-805,4.191,c̷anerḳwop,spine,canerkwop
+clics-doculect-202-149,qawa1238-std,concepticon-1256,4.2,tesḳʰar,head,teskkar
+clics-doculect-202-150,qawa1238-std,concepticon-1583,4.203,ḳayec̷ewor,brain,kayecewor
+clics-doculect-202-151,qawa1238-std,concepticon-1560,4.204,testḳal,face,testkal
+clics-doculect-202-152,qawa1238-std,concepticon-123,4.205,testes,forehead,testes
+clics-doculect-202-153,qawa1238-std,concepticon-798,4.207,afḳʰar,jaw,afkkar
+clics-doculect-202-154,qawa1238-std,concepticon-1730,4.208,ḳsec̷epe,cheek,ksecepe
+clics-doculect-202-155,qawa1238-std,concepticon-1510,4.209,afḳʰar,chin,afkkar
+clics-doculect-202-156,qawa1238-std,concepticon-1248,4.21,tes,eye,tes
+clics-doculect-202-157,qawa1238-std,concepticon-1173,4.212,teseyoḳ,eyebrow,teseyok
+clics-doculect-202-158,qawa1238-std,concepticon-17,4.213,tesḳawes,eyelid,teskawes
+clics-doculect-202-159,qawa1238-std,concepticon-1540,4.214,tesataleyoḳ,eyelash,tesataleyok
+clics-doculect-202-160,qawa1238-std,concepticon-1247,4.22,ḳyawe,ear,kyawe
+clics-doculect-202-161,qawa1238-std,concepticon-32,4.222,ḳyaweḳstaytˀole,earwax,kyawekstayt?ole
+clics-doculect-202-162,qawa1238-std,concepticon-1221,4.23,nows,nose,nows
+clics-doculect-202-163,qawa1238-std,concepticon-1178,4.231,nowsḳstay,nostril,nowskstay
+clics-doculect-202-164,qawa1238-std,concepticon-674,4.24,afḳstay,mouth,afkstay
+clics-doculect-202-165,qawa1238-std,concepticon-478,4.25,afsere,lip,afsere
+clics-doculect-202-166,qawa1238-std,concepticon-1205,4.26,ḳalaḳtes,tongue,kalaktes
+clics-doculect-202-167,qawa1238-std,concepticon-1380,4.27,sereḳte,tooth,serekte
+clics-doculect-202-168,qawa1238-std,concepticon-139,4.271,ḳarḳsḳosese,gums,karkskosese
+clics-doculect-202-169,qawa1238-std,concepticon-1333,4.28,ḳyelefḳʰar,neck,kyelefkkar
+clics-doculect-202-170,qawa1238-std,concepticon-1347,4.281,ḳyasenḳyot,nape of neck,kyasenkyot
+clics-doculect-202-171,qawa1238-std,concepticon-1346,4.29,ḳawora,throat,kawora
+clics-doculect-202-172,qawa1238-std,concepticon-1482,4.3,taḳʰon,shoulder,takkon
+clics-doculect-202-173,qawa1238-std,concepticon-1994,4.302,ḳˀelesḳʰar,collarbone,k?eleskkar
+clics-doculect-202-174,qawa1238-std,concepticon-1673,4.31,terwaḳʰar,arm,terwakkar
+clics-doculect-202-175,qawa1238-std,concepticon-1886,4.312,xanḳstay,armpit,xankstay
+clics-doculect-202-176,qawa1238-std,concepticon-981,4.32,apaay,elbow,apaay
+clics-doculect-202-177,qawa1238-std,concepticon-799,4.321,terwastal,wrist,terwastal
+clics-doculect-202-178,qawa1238-std,concepticon-1277,4.33,terwa,hand,terwa
+clics-doculect-202-179,qawa1238-std,concepticon-1183,4.331,terwac̷ewe,palm of hand,terwacewe
+clics-doculect-202-180,qawa1238-std,concepticon-1303,4.34,arḳsen,finger,arksen
+clics-doculect-202-181,qawa1238-std,concepticon-1781,4.342,atʰelesatʰelesoxar,thumb,atkelesatkelesoxar
+clics-doculect-202-182,qawa1238-std,concepticon-1258,4.344,ḳsteyesḳʰar,fingernail,ksteyeskkar
+clics-doculect-202-183,qawa1238-std,concepticon-72,4.345,ḳsteyesḳʰar,claw,ksteyeskkar
+clics-doculect-202-184,qawa1238-std,concepticon-1297,4.35,ḳʰat,leg,kkat
+clics-doculect-202-185,qawa1238-std,concepticon-800,4.351,ḳʰatserpe,thigh,kkatserpe
+clics-doculect-202-186,qawa1238-std,concepticon-498,4.352,ḳʰatḳʰar,calf of leg,kkatkkar
+clics-doculect-202-187,qawa1238-std,concepticon-1371,4.36,tˀeltal,knee,t?eltal
+clics-doculect-202-188,qawa1238-std,concepticon-1301,4.37,ḳʰat,foot,kkat
+clics-doculect-202-189,qawa1238-std,concepticon-803,4.371,ḳʰatḳʰar,ankle,kkatkkar
+clics-doculect-202-190,qawa1238-std,concepticon-980,4.372,ḳatse,heel,katse
+clics-doculect-202-191,qawa1238-std,concepticon-318,4.374,ḳsepsoḳoc̷er,footprint,ksepsokocer
+clics-doculect-202-192,qawa1238-std,concepticon-1389,4.38,towsarḳsens,toe,towsarksens
+clics-doculect-202-193,qawa1238-std,concepticon-1257,4.392,terwa,wing,terwa
+clics-doculect-202-194,qawa1238-std,concepticon-1201,4.393,c̷apas,feather,capas
+clics-doculect-202-195,qawa1238-std,concepticon-1592,4.4,ḳyepḳʰar,chest,kyepkkar
+clics-doculect-202-196,qawa1238-std,concepticon-1402,4.41,c̷exyaw,breast (of woman),cexyaw
+clics-doculect-202-197,qawa1238-std,concepticon-796,4.412,c̷exyaw,"nipple, teat",cexyaw
+clics-doculect-202-198,qawa1238-std,concepticon-1838,4.43,ḳc̷ˀenes,navel,kc?enes
+clics-doculect-202-199,qawa1238-std,concepticon-1223,4.44,c̷enaḳs,heart,cenaks
+clics-doculect-202-200,qawa1238-std,concepticon-688,4.441,paroḳs,lung,paroks
+clics-doculect-202-201,qawa1238-std,concepticon-1224,4.45,atʰaḳ,liver,atkak
+clics-doculect-202-202,qawa1238-std,concepticon-489,4.451,ḳerḳstama,kidney,kerkstama
+clics-doculect-202-203,qawa1238-std,concepticon-819,4.46,aḳyaw,stomach,akyaw
+clics-doculect-202-204,qawa1238-std,concepticon-1991,4.461,ḳyoc̷ḳtel,"intestines, guts",kyocktel
+clics-doculect-202-205,qawa1238-std,concepticon-1681,4.462,ḳyotestal,waist,kyotestal
+clics-doculect-202-206,qawa1238-std,concepticon-1745,4.463,yeḳas,hip,yekas
+clics-doculect-202-207,qawa1238-std,concepticon-804,4.47,c̷eftsamaḳ,womb,ceftsamak
+clics-doculect-202-208,qawa1238-std,concepticon-797,4.49,yaaḳto,testicle,yaakto
+clics-doculect-202-209,qawa1238-std,concepticon-1222,4.492,xayaso,penis,xayaso
+clics-doculect-202-210,qawa1238-std,concepticon-1407,4.51,aws,"breathe, breath",aws
+clics-doculect-202-211,qawa1238-std,concepticon-1028,4.52,ḳaḳareḳs,"yawn, gape",kakareks
+clics-doculect-202-212,qawa1238-std,concepticon-162,4.521,c̷ˀelaḳs,hiccough,c?elaks
+clics-doculect-202-213,qawa1238-std,concepticon-879,4.53,yerḳsa,cough,yerksa
+clics-doculect-202-214,qawa1238-std,concepticon-1621,4.54,arḳstems,sneeze,arkstems
+clics-doculect-202-215,qawa1238-std,concepticon-126,4.55,selḳwaser,perspire,selkwaser
+clics-doculect-202-216,qawa1238-std,concepticon-1440,4.56,fteyes,spit,fteyes
+clics-doculect-202-217,qawa1238-std,concepticon-1278,4.57,laal,vomit,laal
+clics-doculect-202-218,qawa1238-std,concepticon-1403,4.58,c̷aḳˀawes,bite,cak?awes
+clics-doculect-202-219,qawa1238-std,concepticon-319,4.59,melc̷as,lick,melcas
+clics-doculect-202-220,qawa1238-std,concepticon-1585,4.61,tḳame,sleep,tkame
+clics-doculect-202-221,qawa1238-std,concepticon-1983,4.612,ḳseneḳtserḳsta,snore,ksenektserksta
+clics-doculect-202-222,qawa1238-std,concepticon-1920,4.62,aseḳsor,dream,aseksor
+clics-doculect-202-223,qawa1238-std,concepticon-1159,4.64,ḳermaseya,break wind,kermaseya
+clics-doculect-202-224,qawa1238-std,concepticon-592,4.65,ḳsḳar,urinate,kskar
+clics-doculect-202-225,qawa1238-std,concepticon-676,4.66,ḳˀyeyeḳ,defecate,k?yeyek
+clics-doculect-202-226,qawa1238-std,concepticon-1785,4.67,areyo,have sexual intercourse,areyo
+clics-doculect-202-227,qawa1238-std,concepticon-52,4.68,ac̷ernaḳ,shiver,acernak
+clics-doculect-202-228,qawa1238-std,concepticon-138,4.69,yepayxen,bathe,yepayxen
+clics-doculect-202-229,qawa1238-std,concepticon-1123,4.73,ayxyolḳwar,pregnant,ayxyolkwar
+clics-doculect-202-230,qawa1238-std,concepticon-1422,4.74,ḳsḳyal,"live, living, life",kskyal
+clics-doculect-202-231,qawa1238-std,concepticon-1494,4.75,yexanar,"die, dead",yexanar
+clics-doculect-202-232,qawa1238-std,concepticon-1904,4.751,paḳtas,drowned,paktas
+clics-doculect-202-233,qawa1238-std,concepticon-1417,4.76,ḳaar,kill,kaar
+clics-doculect-202-234,qawa1238-std,concepticon-1719,4.78,ḳawaḳso,bury (the dead),kawakso
+clics-doculect-202-235,qawa1238-std,concepticon-1773,4.79,ḳeyerḳstay,"grave, tomb",keyerkstay
+clics-doculect-202-236,qawa1238-std,concepticon-785,4.81,c̷ˀeleḳs,"strong, mighty, powerful",c?eleks
+clics-doculect-202-237,qawa1238-std,concepticon-1364,4.83,afḳyawelna,"well, health",afkyawelna
+clics-doculect-202-238,qawa1238-std,concepticon-1847,4.84,af,"sick, sickness",af
+clics-doculect-202-239,qawa1238-std,concepticon-1109,4.85,erso,"wound, sore",erso
+clics-doculect-202-240,qawa1238-std,concepticon-497,4.858,setḳapc̷oyo,scar,setkapcoyo
+clics-doculect-202-241,qawa1238-std,concepticon-1372,4.88,c̷eseḳʰar,"medicine, drug",cesekkar
+clics-doculect-202-242,qawa1238-std,concepticon-1757,4.91,ḳʰarḳʰap,"tired, weary",kkarkkap
+clics-doculect-202-243,qawa1238-std,concepticon-168,4.912,yepana,rest,yepana
+clics-doculect-202-244,qawa1238-std,concepticon-1564,4.92,serḳsḳwena,lazy,serkskwena
+clics-doculect-202-245,qawa1238-std,concepticon-320,4.94,ḳasc̷el,lame,kascel
+clics-doculect-202-246,qawa1238-std,concepticon-996,4.95,ḳyaweḳyawel,deaf,kyawekyawel
+clics-doculect-202-247,qawa1238-std,concepticon-1653,4.97,tasḳyawel,blind,taskyawel
+clics-doculect-202-248,qawa1238-std,concepticon-1463,4.98,ḳyepʰasna,intoxicated,kyepkasna
+clics-doculect-202-249,qawa1238-std,concepticon-590,4.99,teyesḳes,"naked, bare",teyeskes
+clics-doculect-202-250,qawa1238-std,concepticon-1336,5.11,yefayes,eat,yefayes
+clics-doculect-202-251,qawa1238-std,concepticon-256,5.12,yefayes,food,yefayes
+clics-doculect-202-252,qawa1238-std,concepticon-269,5.121,awasḳeso,cooked,awaskeso
+clics-doculect-202-253,qawa1238-std,concepticon-1959,5.122,es,raw,es
+clics-doculect-202-254,qawa1238-std,concepticon-178,5.123,ac̷aas,ripe,acaas
+clics-doculect-202-255,qawa1238-std,concepticon-1958,5.124,ac̷aḳseḳer,"green, unripe",acakseker
+clics-doculect-202-256,qawa1238-std,concepticon-1728,5.125,aḳsna,rotten,aksna
+clics-doculect-202-257,qawa1238-std,concepticon-1401,5.13,c̷efalay,drink,cefalay
+clics-doculect-202-258,qawa1238-std,concepticon-1864,5.14,ḳyewas,hunger,kyewas
+clics-doculect-202-259,qawa1238-std,concepticon-848,5.15,c̷efaḳayna,thirst,cefakayna
+clics-doculect-202-260,qawa1238-std,concepticon-1421,5.16,c̷eptsas,suck,ceptsas
+clics-doculect-202-261,qawa1238-std,concepticon-321,5.18,yefatawan,chew,yefatawan
+clics-doculect-202-262,qawa1238-std,concepticon-897,5.181,aḳstaraḳso,swallow,akstarakso
+clics-doculect-202-263,qawa1238-std,concepticon-1100,5.21,awas,cook,awas
+clics-doculect-202-264,qawa1238-std,concepticon-792,5.22,malmas,boil (vb),malmas
+clics-doculect-202-265,qawa1238-std,concepticon-1462,5.26,peyḳyoḳʰar,"pot, cooking vessel",peykyokkar
+clics-doculect-202-266,qawa1238-std,concepticon-481,5.31,yefayestḳal,dish,yefayestkal
+clics-doculect-202-267,qawa1238-std,concepticon-270,5.34,ḳyanesḳʰar,"pitcher, jug",kyaneskkar
+clics-doculect-202-268,qawa1238-std,concepticon-1378,5.37,yefayesḳʰar,spoon,yefayeskkar
+clics-doculect-202-269,qawa1238-std,concepticon-1352,5.38,afsasḳe,knife,afsaske
+clics-doculect-202-270,qawa1238-std,concepticon-1322,5.42,papesḳa,breakfast,papeska
+clics-doculect-202-271,qawa1238-std,concepticon-275,5.46,ḳseyes,peel,kseyes
+clics-doculect-202-272,qawa1238-std,concepticon-1767,5.48,c̷eftselay,scrape,ceftselay
+clics-doculect-202-273,qawa1238-std,concepticon-1368,5.51,tasensḳa,bread,tasenska
+clics-doculect-202-274,qawa1238-std,concepticon-274,5.54,panepes,knead,panepes
+clics-doculect-202-275,qawa1238-std,concepticon-1594,5.55,tasensḳa,"meal, flour",tasenska
+clics-doculect-202-276,qawa1238-std,concepticon-1033,5.56,ḳsḳerḳyena,"crush, grind",kskerkyena
+clics-doculect-202-277,qawa1238-std,concepticon-634,5.61,c̷ewalc̷eḳ,meat,cewalcek
+clics-doculect-202-278,qawa1238-std,concepticon-593,5.7,ḳwena,potato,kwena
+clics-doculect-202-279,qawa1238-std,concepticon-1484,5.79,ḳarnaḳar,oil,karnakar
+clics-doculect-202-280,qawa1238-std,concepticon-1274,5.81,c̷ams,salt,cams
+clics-doculect-202-281,qawa1238-std,concepticon-1385,5.82,aḳoḳstayesḳa,pepper,akokstayeska
+clics-doculect-202-282,qawa1238-std,concepticon-862,5.85,yenc̷epasḳa,sugar,yencepaska
+clics-doculect-202-283,qawa1238-std,concepticon-635,5.86,ḳʰarxase,milk (noun),kkarxase
+clics-doculect-202-284,qawa1238-std,concepticon-1569,5.88,waḳapsḳa,cheese,wakapska
+clics-doculect-202-285,qawa1238-std,concepticon-1245,5.89,ḳenḳʰar,butter,kenkkar
+clics-doculect-202-286,qawa1238-std,concepticon-731,5.9,aḳc̷oḳarafxar,"beverage, drink",akcokarafxar
+clics-doculect-202-287,qawa1238-std,concepticon-1524,5.92,afxar,wine,afxar
+clics-doculect-202-288,qawa1238-std,concepticon-744,5.97,yese,egg,yese
+clics-doculect-202-289,qawa1238-std,concepticon-1556,5.971,tˀanowas,egg yolk,t?anowas
+clics-doculect-202-290,qawa1238-std,concepticon-1895,6.12,awelḳa,"clothing, clothes",awelka
+clics-doculect-202-291,qawa1238-std,concepticon-133,6.33,yeta,weave,yeta
+clics-doculect-202-292,qawa1238-std,concepticon-1457,6.35,aḳapas,sew,akapas
+clics-doculect-202-293,qawa1238-std,concepticon-1382,6.36,aḳapasḳʰar,needle,akapaskkar
+clics-doculect-202-294,qawa1238-std,concepticon-278,6.37,wasḳala,awl,waskala
+clics-doculect-202-295,qawa1238-std,concepticon-326,6.41,yewala,cloak,yewala
+clics-doculect-202-296,qawa1238-std,concepticon-1622,6.44,ḳaweseḳse,shirt,kawesekse
+clics-doculect-202-297,qawa1238-std,concepticon-809,6.48,ḳʰatpeyḳe,trousers,kkatpeyke
+clics-doculect-202-298,qawa1238-std,concepticon-329,6.49,ḳʰatyare,"stocking, sock",kkatyare
+clics-doculect-202-299,qawa1238-std,concepticon-2130,6.55,yeneḳ,"hat, cap",yenek
+clics-doculect-202-300,qawa1238-std,concepticon-772,6.57,ḳyerḳyena,"belt, girdle",kyerkyena
+clics-doculect-202-301,qawa1238-std,concepticon-1851,6.61,xapalo,pocket,xapalo
+clics-doculect-202-302,qawa1238-std,concepticon-757,6.62,yeḳenaḳʰar,button,yekenakkar
+clics-doculect-202-303,qawa1238-std,concepticon-1961,6.75,ḳamaseyar,necklace,kamaseyar
+clics-doculect-202-304,qawa1238-std,concepticon-1475,6.91,yeḳseḳenaḳʰar,comb,yeksekenakkar
+clics-doculect-202-305,qawa1238-std,concepticon-1821,6.92,sewesḳʰar,brush,seweskkar
+clics-doculect-202-306,qawa1238-std,concepticon-151,6.93,afsayoḳc̷efc̷asḳʰar,razor,afsayokcefcaskkar
+clics-doculect-202-307,qawa1238-std,concepticon-788,6.95,aḳwasḳʰar,soap,akwaskkar
+clics-doculect-202-308,qawa1238-std,concepticon-1171,6.96,leyesḳʰar,mirror,leyeskkar
+clics-doculect-202-309,qawa1238-std,concepticon-1252,7.12,at,house,at
+clics-doculect-202-310,qawa1238-std,concepticon-1678,7.13,at,hut,at
+clics-doculect-202-311,qawa1238-std,concepticon-335,7.18,yenc̷exawa,meeting house,yencexawa
+clics-doculect-202-312,qawa1238-std,concepticon-1567,7.22,ḳstap,"door, gate",kstap
+clics-doculect-202-313,qawa1238-std,concepticon-1375,7.25,ḳstaleḳsa,window,kstaleksa
+clics-doculect-202-314,qawa1238-std,concepticon-1632,7.26,ḳsemnaḳotḳal,floor,ksemnakotkal
+clics-doculect-202-315,qawa1238-std,concepticon-933,7.27,atḳaleḳel,wall,atkalekel
+clics-doculect-202-316,qawa1238-std,concepticon-185,7.31,aftsartḳal,fireplace,aftsartkal
+clics-doculect-202-317,qawa1238-std,concepticon-859,7.32,afc̷arḳwal,stove,afcarkwal
+clics-doculect-202-318,qawa1238-std,concepticon-1305,7.33,ḳowepeḳʰar,chimney,kowepekkar
+clics-doculect-202-319,qawa1238-std,concepticon-1464,7.37,taryoḳʰar,ladder,taryokkar
+clics-doculect-202-320,qawa1238-std,concepticon-1663,7.42,talayxotḳal,bed,talayxotkal
+clics-doculect-202-321,qawa1238-std,concepticon-806,7.422,laaḳs,blanket,laaks
+clics-doculect-202-322,qawa1238-std,concepticon-1476,7.43,papotḳal,chair,papotkal
+clics-doculect-202-323,qawa1238-std,concepticon-1775,7.44,yefayestḳal,table,yefayestkal
+clics-doculect-202-324,qawa1238-std,concepticon-2131,7.45,ḳyoyesḳʰar,"lamp, torch",kyoyeskkar
+clics-doculect-202-325,qawa1238-std,concepticon-1273,7.46,ḳyoyesḳʰar,candle,kyoyeskkar
+clics-doculect-202-326,qawa1238-std,concepticon-769,7.51,estestḳal,roof,estestkal
+clics-doculect-202-327,qawa1238-std,concepticon-1227,7.57,seyaneḳʰar,board,seyanekkar
+clics-doculect-202-328,qawa1238-std,concepticon-1690,8.16,yec̷etḳana,fence,yecetkana
+clics-doculect-202-329,qawa1238-std,concepticon-1418,8.22,ḳawelay,dig,kawelay
+clics-doculect-202-330,qawa1238-std,concepticon-714,8.311,yec̷ˀoy,seed,yec?oy
+clics-doculect-202-331,qawa1238-std,concepticon-926,8.48,c̷eryapsḳa,rice,ceryapska
+clics-doculect-202-332,qawa1238-std,concepticon-606,8.51,c̷apḳstas,grass,capkstas
+clics-doculect-202-333,qawa1238-std,concepticon-653,8.53,ḳawoḳyena,plant (noun),kawokyena
+clics-doculect-202-334,qawa1238-std,concepticon-670,8.54,wespel,root,wespel
+clics-doculect-202-335,qawa1238-std,concepticon-1531,8.55,ḳc̷eyḳe,branch,kceyke
+clics-doculect-202-336,qawa1238-std,concepticon-628,8.56,ḳse,leaf,kse
+clics-doculect-202-337,qawa1238-std,concepticon-239,8.57,yeḳstas,flower,yekstas
+clics-doculect-202-338,qawa1238-std,concepticon-906,8.6,ḳʰar,tree,kkar
+clics-doculect-202-339,qawa1238-std,concepticon-644,8.61,yerḳseḳenoḳar,oak,yerksekenokar
+clics-doculect-202-340,qawa1238-std,concepticon-974,8.68,tˀelḳs,tobacco,t?elks
+clics-doculect-202-341,qawa1238-std,concepticon-1689,8.69,c̷efas,smoke (tobacco),cefas
+clics-doculect-202-342,qawa1238-std,concepticon-1124,8.691,tˀalḳsḳʰar,pipe,t?alkskkar
+clics-doculect-202-343,qawa1238-std,concepticon-1204,8.75,ḳʰarḳawes,bark,kkarkawes
+clics-doculect-202-344,qawa1238-std,concepticon-345,8.76,ḳʰen,sap,kken
+clics-doculect-202-345,qawa1238-std,concepticon-33,8.97,awasap,nettle,awasap
+clics-doculect-202-346,qawa1238-std,concepticon-641,8.98,arḳyawe,mushroom,arkyawe
+clics-doculect-202-347,qawa1238-std,concepticon-2575,9.11,yeta,"do, make",yeta
+clics-doculect-202-348,qawa1238-std,concepticon-984,9.12,altal,work,altal
+clics-doculect-202-349,qawa1238-std,concepticon-1917,9.16,c̷epaḳyena,"tie, bind",cepakyena
+clics-doculect-202-350,qawa1238-std,concepticon-1218,9.19,ḳasapaḳs,"rope, cord",kasapaks
+clics-doculect-202-351,qawa1238-std,concepticon-760,9.192,c̷epatḳaps,knot (noun),cepatkaps
+clics-doculect-202-352,qawa1238-std,concepticon-2133,9.21,c̷eḳows,"strike (hit, beat)",cekows
+clics-doculect-202-353,qawa1238-std,concepticon-1432,9.22,c̷era,cut,cera
+clics-doculect-202-354,qawa1238-std,concepticon-1352,9.23,c̷erasḳe,knife,ceraske
+clics-doculect-202-355,qawa1238-std,concepticon-356,9.24,ḳstepasḳʰar,"scissors, shears",kstepaskkar
+clics-doculect-202-356,qawa1238-std,concepticon-677,9.25,ḳaryesḳa,ax,karyeska
+clics-doculect-202-357,qawa1238-std,concepticon-680,9.26,c̷aḳsa,break,caksa
+clics-doculect-202-358,qawa1238-std,concepticon-1735,9.28,ḳstaḳsa,tear,kstaksa
+clics-doculect-202-359,qawa1238-std,concepticon-291,9.29,ḳseyes,"flay, skin",kseyes
+clics-doculect-202-360,qawa1238-std,concepticon-1449,9.31,yentˀas,"rub, wipe",yent?as
+clics-doculect-202-361,qawa1238-std,concepticon-214,9.32,ac̷eḳyas,stretch,acekyas
+clics-doculect-202-362,qawa1238-std,concepticon-1455,9.33,ḳyerḳyeyan,pull,kyerkyeyan
+clics-doculect-202-363,qawa1238-std,concepticon-357,9.341,ḳstawan,hang up,kstawan
+clics-doculect-202-364,qawa1238-std,concepticon-1913,9.342,ḳserḳyena,press,kserkyena
+clics-doculect-202-365,qawa1238-std,concepticon-1453,9.36,aḳwas,wash,akwas
+clics-doculect-202-366,qawa1238-std,concepticon-230,9.37,c̷efc̷as,sweep,cefcas
+clics-doculect-202-367,qawa1238-std,concepticon-245,9.38,ḳelḳstaḳʰar,broom,kelkstakkar
+clics-doculect-202-368,qawa1238-std,concepticon-1361,9.422,wal,tool,wal
+clics-doculect-202-369,qawa1238-std,concepticon-1501,9.46,aḳstaplay,bore,akstaplay
+clics-doculect-202-370,qawa1238-std,concepticon-1481,9.49,c̷eyesḳʰar,hammer,ceyeskkar
+clics-doculect-202-371,qawa1238-std,concepticon-502,9.5,ḳyeḳasḳe,nail,kyekaske
+clics-doculect-202-372,qawa1238-std,concepticon-621,9.67,aḳaperwa,iron,akaperwa
+clics-doculect-202-373,qawa1238-std,concepticon-604,9.74,ḳawesyeḳc̷elsḳa,glass,kawesyekcelska
+clics-doculect-202-374,qawa1238-std,concepticon-1539,9.76,tayo,basket,tayo
+clics-doculect-202-375,qawa1238-std,concepticon-1113,10.14,tˀerḳwaḳso,"wind, wrap",t?erkwakso
+clics-doculect-202-376,qawa1238-std,concepticon-827,10.15,tˀaranaḳ,roll,t?aranak
+clics-doculect-202-377,qawa1238-std,concepticon-808,10.16,ḳstoc̷ḳal,drop (vb),kstockal
+clics-doculect-202-378,qawa1238-std,concepticon-501,10.22,altḳa,"raise, lift",altka
+clics-doculect-202-379,qawa1238-std,concepticon-1280,10.23,c̷eḳar,fall,cekar
+clics-doculect-202-380,qawa1238-std,concepticon-2253,10.24,ḳstawes,drip,kstawes
+clics-doculect-202-381,qawa1238-std,concepticon-1909,10.26,ac̷ernaḳ,shake,acernak
+clics-doculect-202-382,qawa1238-std,concepticon-2003,10.32,c̷elḳwas,flow,celkwas
+clics-doculect-202-383,qawa1238-std,concepticon-1574,10.34,ḳyol,float,kyol
+clics-doculect-202-384,qawa1238-std,concepticon-1439,10.35,lalas,swim,lalas
+clics-doculect-202-385,qawa1238-std,concepticon-119,10.351,ḳsḳoy,dive,kskoy
+clics-doculect-202-386,qawa1238-std,concepticon-1441,10.37,alas,fly (vb),alas
+clics-doculect-202-387,qawa1238-std,concepticon-175,10.38,seḳwas,blow,sekwas
+clics-doculect-202-388,qawa1238-std,concepticon-1324,10.42,c̷eḳar,"slide, slip",cekar
+clics-doculect-202-389,qawa1238-std,concepticon-1829,10.43,ḳyestat,"jump, leap",kyestat
+clics-doculect-202-390,qawa1238-std,concepticon-1135,10.431,ftawlay,kick,ftawlay
+clics-doculect-202-391,qawa1238-std,concepticon-1879,10.44,wareḳ,dance,warek
+clics-doculect-202-392,qawa1238-std,concepticon-1443,10.45,ḳsemnal,walk,ksemnal
+clics-doculect-202-393,qawa1238-std,concepticon-1519,10.46,ḳyeḳyayeḳs,run,kyekyayeks
+clics-doculect-202-394,qawa1238-std,concepticon-695,10.47,as,go,as
+clics-doculect-202-395,qawa1238-std,concepticon-705,10.471,yetḳʰar,go up,yetkkar
+clics-doculect-202-396,qawa1238-std,concepticon-2014,10.473,ḳseyep,go down,kseyep
+clics-doculect-202-397,qawa1238-std,concepticon-1107,10.474,lap,go out,lap
+clics-doculect-202-398,qawa1238-std,concepticon-1446,10.48,yec̷al,come,yecal
+clics-doculect-202-399,qawa1238-std,concepticon-581,10.481,ḳotereḳ,come back,koterek
+clics-doculect-202-400,qawa1238-std,concepticon-1752,10.49,c̷elḳwayeḳs,"go away, depart",celkwayeks
+clics-doculect-202-401,qawa1238-std,concepticon-956,10.51,ḳsḳena,flee,kskena
+clics-doculect-202-402,qawa1238-std,concepticon-1387,10.55,yetac̷al,"reach, arrive",yetacal
+clics-doculect-202-403,qawa1238-std,concepticon-1778,10.56,xac̷oḳ,approach,xacok
+clics-doculect-202-404,qawa1238-std,concepticon-749,10.57,loy,enter,loy
+clics-doculect-202-405,qawa1238-std,concepticon-700,10.61,c̷elḳose,carry (bear),celkose
+clics-doculect-202-406,qawa1238-std,concepticon-413,10.613,yeḳorlay,carry-on-shoulder,yekorlay
+clics-doculect-202-407,qawa1238-std,concepticon-692,10.62,seḳc̷al,bring,sekcal
+clics-doculect-202-408,qawa1238-std,concepticon-1127,10.63,yerwoḳʰos,send,yerwokkos
+clics-doculect-202-409,qawa1238-std,concepticon-1452,10.67,eyxaḳer,"push, shove",eyxaker
+clics-doculect-202-410,qawa1238-std,concepticon-667,10.71,taryo,road,taryo
+clics-doculect-202-411,qawa1238-std,concepticon-1011,10.74,taryoar,bridge,taryoar
+clics-doculect-202-412,qawa1238-std,concepticon-1844,10.83,yemase,boat,yemase
+clics-doculect-202-413,qawa1238-std,concepticon-1970,10.831,ḳayef,canoe,kayef
+clics-doculect-202-414,qawa1238-std,concepticon-108,10.85,yemoḳʰar,oar,yemokkar
+clics-doculect-202-415,qawa1238-std,concepticon-234,10.851,ḳc̷ewesḳʰar,paddle (noun),kceweskkar
+clics-doculect-202-416,qawa1238-std,concepticon-1849,10.852,yemo,row (vb),yemo
+clics-doculect-202-417,qawa1238-std,concepticon-184,10.87,c̷erḳar,mast,cerkar
+clics-doculect-202-418,qawa1238-std,concepticon-786,10.88,c̷erseḳta,sail (noun),cersekta
+clics-doculect-202-419,qawa1238-std,concepticon-1870,10.89,c̷aparsḳʰar,anchor,caparskkar
+clics-doculect-202-420,qawa1238-std,concepticon-610,10.91,c̷eyoxo,"harbor, port",ceyoxo
+clics-doculect-202-421,qawa1238-std,concepticon-1922,10.92,sas,land (vb),sas
+clics-doculect-202-422,qawa1238-std,concepticon-1749,11.13,xeno,take,xeno
+clics-doculect-202-423,qawa1238-std,concepticon-738,11.18,wal,thing,wal
+clics-doculect-202-424,qawa1238-std,concepticon-1447,11.21,xaar,give,xaar
+clics-doculect-202-425,qawa1238-std,concepticon-1468,11.31,yalay,"seek, look for",yalay
+clics-doculect-202-426,qawa1238-std,concepticon-1468,11.31,leyes,"seek, look for",leyes
+clics-doculect-202-427,qawa1238-std,concepticon-719,11.32,c̷elḳoḳenar,find,celkokenar
+clics-doculect-202-428,qawa1238-std,concepticon-1660,11.33,yeteḳyepasna,lose,yetekyepasna
+clics-doculect-202-429,qawa1238-std,concepticon-1559,11.43,aḳyoy,money,akyoy
+clics-doculect-202-430,qawa1238-std,concepticon-1674,11.52,walḳyawel,poor,walkyawel
+clics-doculect-202-431,qawa1238-std,concepticon-718,11.65,aḳyoy,pay (vb),akyoy
+clics-doculect-202-432,qawa1238-std,concepticon-1869,11.81,aḳyoy,buy,akyoy
+clics-doculect-202-433,qawa1238-std,concepticon-1887,11.89,aḳyoyeḳet,cheap,akyoyeket
+clics-doculect-202-434,qawa1238-std,concepticon-884,11.91,c̷asḳelay,share (distribute),caskelay
+clics-doculect-202-435,qawa1238-std,concepticon-723,12.11,ḳyotereḳ,place,kyoterek
+clics-doculect-202-436,qawa1238-std,concepticon-1816,12.2,atel,beside,atel
+clics-doculect-202-437,qawa1238-std,concepticon-1882,12.4,oftereḳ,before,ofterek
+clics-doculect-202-438,qawa1238-std,concepticon-1606,12.5,alewe,"inside, in",alewe
+clics-doculect-202-439,qawa1238-std,concepticon-762,12.6,lap,outside,lap
+clics-doculect-202-440,qawa1238-std,concepticon-1591,12.8,arka,"up, above",arka
+clics-doculect-202-441,qawa1238-std,concepticon-1416,12.13,pap,sit,pap
+clics-doculect-202-442,qawa1238-std,concepticon-215,12.14,talay,lie down,talay
+clics-doculect-202-443,qawa1238-std,concepticon-1442,12.15,altḳa,stand,altka
+clics-doculect-202-444,qawa1238-std,concepticon-838,12.17,ḳalḳsta,"remains, left overs",kalksta
+clics-doculect-202-445,qawa1238-std,concepticon-1576,12.213,yerpena,pile up,yerpena
+clics-doculect-202-446,qawa1238-std,concepticon-1156,12.24,yetaḳsa,open,yetaksa
+clics-doculect-202-447,qawa1238-std,concepticon-761,12.26,c̷epḳayes,cover,cepkayes
+clics-doculect-202-448,qawa1238-std,concepticon-602,12.27,ḳol,"hide, conceal",kol
+clics-doculect-202-449,qawa1238-std,concepticon-1265,12.31,ḳstas,high,kstas
+clics-doculect-202-450,qawa1238-std,concepticon-1753,12.33,tˀes,top,t?es
+clics-doculect-202-451,qawa1238-std,concepticon-690,12.34,xaleḳstay,bottom,xalekstay
+clics-doculect-202-452,qawa1238-std,concepticon-742,12.35,tefc̷elas,end,tefcelas
+clics-doculect-202-453,qawa1238-std,concepticon-1093,12.37,alese,"middle, center",alese
+clics-doculect-202-454,qawa1238-std,concepticon-1019,12.41,ḳeyaxantereḳ,right (side),keyaxanterek
+clics-doculect-202-455,qawa1238-std,concepticon-244,12.42,asantereḳ,left (side),asanterek
+clics-doculect-202-456,qawa1238-std,concepticon-1942,12.43,ḳwaḳyaḳ,near (adv),kwakyak
+clics-doculect-202-457,qawa1238-std,concepticon-1406,12.44,talaḳ,far (adv),talak
+clics-doculect-202-458,qawa1238-std,concepticon-1877,12.45,yetaḳsor,east,yetaksor
+clics-doculect-202-459,qawa1238-std,concepticon-1817,12.46,otḳalaloe,west,otkalaloe
+clics-doculect-202-460,qawa1238-std,concepticon-1598,12.47,xaḳate,north,xakate
+clics-doculect-202-461,qawa1238-std,concepticon-1595,12.48,ḳolayeḳ,south,kolayek
+clics-doculect-202-462,qawa1238-std,concepticon-479,12.53,fsayna,grow,fsayna
+clics-doculect-202-463,qawa1238-std,concepticon-1202,12.55,erlay,"large, big",erlay
+clics-doculect-202-464,qawa1238-std,concepticon-1246,12.56,yeḳe,"small, little",yeke
+clics-doculect-202-465,qawa1238-std,concepticon-1203,12.57,ḳstas,long,kstas
+clics-doculect-202-466,qawa1238-std,concepticon-711,12.58,ḳstas,tall,kstas
+clics-doculect-202-467,qawa1238-std,concepticon-1645,12.59,tˀaw,short,t?aw
+clics-doculect-202-468,qawa1238-std,concepticon-1267,12.62,aḳwos,narrow,akwos
+clics-doculect-202-469,qawa1238-std,concepticon-1244,12.63,yesa,thick (in dimension),yesa
+clics-doculect-202-470,qawa1238-std,concepticon-2249,12.65,ḳʰarsḳa,thin (in dimension),kkarska
+clics-doculect-202-471,qawa1238-std,concepticon-1593,12.67,xaleḳstay,deep,xalekstay
+clics-doculect-202-472,qawa1238-std,concepticon-1404,12.73,ḳses,straight,kses
+clics-doculect-202-473,qawa1238-std,concepticon-1367,12.77,ac̷alḳac̷eḳs,cross,acalkaceks
+clics-doculect-202-474,qawa1238-std,concepticon-850,12.78,ḳsayḳses,square,ksaykses
+clics-doculect-202-475,qawa1238-std,concepticon-1395,12.81,ḳoyerxas,round,koyerxas
+clics-doculect-202-476,qawa1238-std,concepticon-1294,13.0,ḳyep,"zero, nothing",kyep
+clics-doculect-202-477,qawa1238-std,concepticon-1493,13.1,taḳso,one,takso
+clics-doculect-202-478,qawa1238-std,concepticon-1498,13.2,woḳs,two,woks
+clics-doculect-202-479,qawa1238-std,concepticon-492,13.3,woḳstow,three,wokstow
+clics-doculect-202-480,qawa1238-std,concepticon-1198,13.15,aḳyay,"much, many",akyay
+clics-doculect-202-481,qawa1238-std,concepticon-1242,13.17,taḳso,"little (quantity), few",takso
+clics-doculect-202-482,qawa1238-std,concepticon-1429,13.21,ḳwal,full,kwal
+clics-doculect-202-483,qawa1238-std,concepticon-1624,13.22,ḳapḳʰar,empty,kapkkar
+clics-doculect-202-484,qawa1238-std,concepticon-1580,13.33,tʰaw,"alone, only",tkaw
+clics-doculect-202-485,qawa1238-std,concepticon-728,13.34,oftereḳ,first,ofterek
+clics-doculect-202-486,qawa1238-std,concepticon-1529,13.35,ḳexataw,last,kexataw
+clics-doculect-202-487,qawa1238-std,concepticon-1231,14.13,layep,new,layep
+clics-doculect-202-488,qawa1238-std,concepticon-1229,14.15,arxana,old,arxana
+clics-doculect-202-489,qawa1238-std,concepticon-1376,14.18,lafḳ,now,lafk
+clics-doculect-202-490,qawa1238-std,concepticon-1963,14.19,yac̷ḳyaḳ,immediately,yackyak
+clics-doculect-202-491,qawa1238-std,concepticon-1631,14.21,apay,"swift, fast, quick",apay
+clics-doculect-202-492,qawa1238-std,concepticon-754,14.23,apayesḳa,"hasten, hurry",apayeska
+clics-doculect-202-493,qawa1238-std,concepticon-743,14.26,ḳyexaso,end (temporal),kyexaso
+clics-doculect-202-494,qawa1238-std,concepticon-1766,14.27,ḳyexaso,finish,kyexaso
+clics-doculect-202-495,qawa1238-std,concepticon-204,14.35,ḳoteyo,again,koteyo
+clics-doculect-202-496,qawa1238-std,concepticon-1225,14.41,aswal,day,aswal
+clics-doculect-202-497,qawa1238-std,concepticon-1233,14.42,aḳyawe,night,akyawe
+clics-doculect-202-498,qawa1238-std,concepticon-729,14.43,aswaḳyar,dawn,aswakyar
+clics-doculect-202-499,qawa1238-std,concepticon-12,14.45,aswaloyḳemna,"noon, midday",aswaloykemna
+clics-doculect-202-500,qawa1238-std,concepticon-1807,14.451,aswalḳte,afternoon,aswalkte
+clics-doculect-202-501,qawa1238-std,concepticon-1629,14.46,yewel,evening,yewel
+clics-doculect-202-502,qawa1238-std,concepticon-1283,14.47,lafḳ,today,lafk
+clics-doculect-202-503,qawa1238-std,concepticon-1329,14.48,aswalaḳ,tomorrow,aswalak
+clics-doculect-202-504,qawa1238-std,concepticon-1179,14.481,aswalaḳaswalaḳ,day-after-tomorrow,aswalakaswalak
+clics-doculect-202-505,qawa1238-std,concepticon-1174,14.49,aswalaḳ,yesterday,aswalak
+clics-doculect-202-506,qawa1238-std,concepticon-1323,14.53,teratera,"clock, timepiece",teratera
+clics-doculect-202-507,qawa1238-std,concepticon-1370,14.71,arḳaḳseles,month,arkakseles
+clics-doculect-202-508,qawa1238-std,concepticon-1471,14.74,aḳʰape,winter,akkape
+clics-doculect-202-509,qawa1238-std,concepticon-1342,14.76,ac̷aḳsta,summer,acaksta
+clics-doculect-202-510,qawa1238-std,concepticon-1276,14.77,yerḳorap,autumn,yerkorap
+clics-doculect-202-511,qawa1238-std,concepticon-1587,15.21,xanḳstas,smell (vb intrans),xankstas
+clics-doculect-202-512,qawa1238-std,concepticon-1586,15.22,xanḳstas,smell (vb trans),xankstas
+clics-doculect-202-513,qawa1238-std,concepticon-376,15.25,aḳsḳaryaḳ,"fragrant, good smelling",akskaryak
+clics-doculect-202-514,qawa1238-std,concepticon-42,15.26,aḳstaw,"stinking, bad smelling",akstaw
+clics-doculect-202-515,qawa1238-std,concepticon-21,15.31,melc̷elaay,taste,melcelaay
+clics-doculect-202-516,qawa1238-std,concepticon-717,15.35,melc̷eḳstaḳʰareyḳ,sweet,melcekstakkareyk
+clics-doculect-202-517,qawa1238-std,concepticon-1091,15.36,c̷ams,salty,cams
+clics-doculect-202-518,qawa1238-std,concepticon-887,15.37,c̷afaḳstato,bitter,cafakstato
+clics-doculect-202-519,qawa1238-std,concepticon-1408,15.41,telḳsor,hear,telksor
+clics-doculect-202-520,qawa1238-std,concepticon-1608,15.42,telḳsor,listen,telksor
+clics-doculect-202-521,qawa1238-std,concepticon-1811,15.44,erwoḳsta,"sound, noise",erwoksta
+clics-doculect-202-522,qawa1238-std,concepticon-1314,15.46,osereḳʰas,"quiet, silence",oserekkas
+clics-doculect-202-523,qawa1238-std,concepticon-1409,15.51,yeḳsor,see,yeksor
+clics-doculect-202-524,qawa1238-std,concepticon-1819,15.52,leyes,"look, look at",leyes
+clics-doculect-202-525,qawa1238-std,concepticon-1039,15.55,yeḳc̷alay,show,yekcalay
+clics-doculect-202-526,qawa1238-std,concepticon-706,15.63,aḳyawe,dark (in color),akyawe
+clics-doculect-202-527,qawa1238-std,concepticon-1335,15.64,aḳyefḳyar,white,akyefkyar
+clics-doculect-202-528,qawa1238-std,concepticon-163,15.65,semen,black,semen
+clics-doculect-202-529,qawa1238-std,concepticon-156,15.66,ḳyeyero,red,kyeyero
+clics-doculect-202-530,qawa1238-std,concepticon-837,15.67,arḳʰa,blue,arkka
+clics-doculect-202-531,qawa1238-std,concepticon-1425,15.68,arḳʰa,green,arkka
+clics-doculect-202-532,qawa1238-std,concepticon-1424,15.69,tˀel,yellow,t?el
+clics-doculect-202-533,qawa1238-std,concepticon-1884,15.74,seweyep,hard,seweyep
+clics-doculect-202-534,qawa1238-std,concepticon-1856,15.75,ftoyeḳs,soft,ftoyeks
+clics-doculect-202-535,qawa1238-std,concepticon-1234,15.77,senaḳs,smooth,senaks
+clics-doculect-202-536,qawa1238-std,concepticon-1210,15.81,paḳyel,heavy,pakyel
+clics-doculect-202-537,qawa1238-std,concepticon-1052,15.82,paḳsḳya,light (in weight),pakskya
+clics-doculect-202-538,qawa1238-std,concepticon-1726,15.83,c̷amsna,"wet, damp",camsna
+clics-doculect-202-539,qawa1238-std,concepticon-1398,15.84,c̷elas,dry,celas
+clics-doculect-202-540,qawa1238-std,concepticon-1286,15.85,apʰen,hot,apken
+clics-doculect-202-541,qawa1238-std,concepticon-1287,15.86,ḳyesas,cold,kyesas
+clics-doculect-202-542,qawa1238-std,concepticon-704,15.87,c̷ˀepac̷ewel,clean,c?epacewel
+clics-doculect-202-543,qawa1238-std,concepticon-1230,15.88,ḳʰayel,"dirty, soiled",kkayel
+clics-doculect-202-544,qawa1238-std,concepticon-380,15.89,atˀalpena,wrinkled,at?alpena
+clics-doculect-202-545,qawa1238-std,concepticon-1495,16.23,pana,"joyful, glad, happy",pana
+clics-doculect-202-546,qawa1238-std,concepticon-1355,16.25,aneḳsta,laugh,aneksta
+clics-doculect-202-547,qawa1238-std,concepticon-1413,16.26,yepatal,play,yepatal
+clics-doculect-202-548,qawa1238-std,concepticon-923,16.27,ḳyexena,love,kyexena
+clics-doculect-202-549,qawa1238-std,concepticon-578,16.29,c̷efc̷ana,kiss,cefcana
+clics-doculect-202-550,qawa1238-std,concepticon-928,16.3,ac̷epafsar,embrace,acepafsar
+clics-doculect-202-551,qawa1238-std,concepticon-1783,16.31,c̷elc̷es,pain,celces
+clics-doculect-202-552,qawa1238-std,concepticon-1839,16.37,aḳtelḳsta,"cry, weep",aktelksta
+clics-doculect-202-553,qawa1238-std,concepticon-1651,16.38,aḳtelḳsta,tear (noun),aktelksta
+clics-doculect-202-554,qawa1238-std,concepticon-82,16.42,atas,anger,atas
+clics-doculect-202-555,qawa1238-std,concepticon-1776,16.45,al,shame (noun),al
+clics-doculect-202-556,qawa1238-std,concepticon-3,16.52,c̷ˀelaḳs,brave,c?elaks
+clics-doculect-202-557,qawa1238-std,concepticon-781,16.53,fte,"fear, fright",fte
+clics-doculect-202-558,qawa1238-std,concepticon-601,16.67,taḳaro,"lie, tell lies",takaro
+clics-doculect-202-559,qawa1238-std,concepticon-13,16.68,aḳsaro,deceit,aksaro
+clics-doculect-202-560,qawa1238-std,concepticon-1035,16.71,layep,good,layep
+clics-doculect-202-561,qawa1238-std,concepticon-1292,16.72,asar,bad,asar
+clics-doculect-202-562,qawa1238-std,concepticon-1427,16.81,layep,beautiful,layep
+clics-doculect-202-563,qawa1238-std,concepticon-1548,16.82,asar,ugly,asar
+clics-doculect-202-564,qawa1238-std,concepticon-1415,17.13,c̷epas,think (= reflect),cepas
+clics-doculect-202-565,qawa1238-std,concepticon-1410,17.17,ḳowloḳ,know,kowlok
+clics-doculect-202-566,qawa1238-std,concepticon-1899,17.23,telaḳyexer,"insane, crazy",telakyexer
+clics-doculect-202-567,qawa1238-std,concepticon-709,17.25,yetaḳwaloḳ,teach,yetakwalok
+clics-doculect-202-568,qawa1238-std,concepticon-673,17.28,yetaḳwaloḳ,school,yetakwalok
+clics-doculect-202-569,qawa1238-std,concepticon-707,17.31,c̷epalay,remember,cepalay
+clics-doculect-202-570,qawa1238-std,concepticon-1523,17.32,owsḳoyona,forget,owskoyona
+clics-doculect-202-571,qawa1238-std,concepticon-989,17.34,yeḳwa,"clear, plain",yekwa
+clics-doculect-202-572,qawa1238-std,concepticon-1577,17.51,ḳotoyḳe,and,kotoyke
+clics-doculect-202-573,qawa1238-std,concepticon-1157,17.52,ḳopep,because,kopep
+clics-doculect-202-574,qawa1238-std,concepticon-1268,17.55,ayaw,"yes, affirmative",ayaw
+clics-doculect-202-575,qawa1238-std,concepticon-1269,17.56,ḳyeloḳ,"no, negative",kyelok
+clics-doculect-202-576,qawa1238-std,concepticon-1239,17.61,ḳwa,how?,kwa
+clics-doculect-202-577,qawa1238-std,concepticon-531,17.63,aḳwosḳa,how much?,akwoska
+clics-doculect-202-578,qawa1238-std,concepticon-1236,17.64,aḳwaso,what?,akwaso
+clics-doculect-202-579,qawa1238-std,concepticon-1238,17.65,aḳwac̷ḳyoḳ,when?,akwackyok
+clics-doculect-202-580,qawa1238-std,concepticon-1237,17.66,aḳwac̷ḳyoḳ,where?,akwackyok
+clics-doculect-202-581,qawa1238-std,concepticon-1235,17.68,paseso,who?,paseso
+clics-doculect-202-582,qawa1238-std,concepticon-1261,18.12,yeḳtal,sing,yektal
+clics-doculect-202-583,qawa1238-std,concepticon-715,18.13,ḳselḳsta,"shout, cry out",kselksta
+clics-doculect-202-584,qawa1238-std,concepticon-128,18.16,taḳwas,mumble,takwas
+clics-doculect-202-585,qawa1238-std,concepticon-1025,18.17,ḳyeleḳsta,whistle,kyeleksta
+clics-doculect-202-586,qawa1238-std,concepticon-1623,18.21,afsaḳsta,"speak, talk",afsaksta
+clics-doculect-202-587,qawa1238-std,concepticon-1458,18.22,esetel,say,esetel
+clics-doculect-202-588,qawa1238-std,concepticon-48,18.23,osereḳʰas,silent (be),oserekkas
+clics-doculect-202-589,qawa1238-std,concepticon-1307,18.24,afsaḳsta,language,afsaksta
+clics-doculect-202-590,qawa1238-std,concepticon-1405,18.28,ḳtel,name,ktel
+clics-doculect-202-591,qawa1238-std,concepticon-1309,18.31,seplalay,"ask (question, inquire)",seplalay
+clics-doculect-202-592,qawa1238-std,concepticon-1828,18.35,tesaxaḳ,"ask, request",tesaxak
+clics-doculect-202-593,qawa1238-std,concepticon-1084,18.41,ḳselaxay,call (=summon),kselaxay
+clics-doculect-202-594,qawa1238-std,concepticon-1672,18.51,payes,write,payes
+clics-doculect-202-595,qawa1238-std,concepticon-1672,18.51,peyes,write,peyes
+clics-doculect-202-596,qawa1238-std,concepticon-724,18.52,teresafsar,read,teresafsar
+clics-doculect-202-597,qawa1238-std,concepticon-648,18.56,teres,paper,teres
+clics-doculect-202-598,qawa1238-std,concepticon-963,18.61,teres,book,teres
+clics-doculect-202-599,qawa1238-std,concepticon-1391,19.15,aterlay,"city, town",aterlay
+clics-doculect-202-600,qawa1238-std,concepticon-930,19.16,ataḳtse,village,ataktse
+clics-doculect-202-601,qawa1238-std,concepticon-789,19.21,ḳawasḳar,people (populace),kawaskar
+clics-doculect-202-602,qawa1238-std,concepticon-301,19.24,c̷efteyxor,"chief, chieftain",cefteyxor
+clics-doculect-202-603,qawa1238-std,concepticon-1296,19.25,yeḳolaḳe,"staff, walking stick",yekolake
+clics-doculect-202-604,qawa1238-std,concepticon-1128,19.45,yerwoḳʰos,"command, order",yerwokkos
+clics-doculect-202-605,qawa1238-std,concepticon-1325,19.51,ḳoc̷alaḳ,"friend, companion",kocalak
+clics-doculect-202-606,qawa1238-std,concepticon-791,19.55,pelḳsc̷ewe,stranger,pelkscewe
+clics-doculect-202-607,qawa1238-std,concepticon-1897,19.58,alpaḳsna,"help, aid",alpaksna
+clics-doculect-202-608,qawa1238-std,concepticon-1831,19.65,c̷elḳoḳenar,meet,celkokenar
+clics-doculect-202-609,qawa1238-std,concepticon-1423,20.11,afsayer,fight (vb),afsayer
+clics-doculect-202-610,qawa1238-std,concepticon-951,20.21,walc̷eleḳs,"weapons, arms",walceleks
+clics-doculect-202-611,qawa1238-std,concepticon-387,20.23,senasḳyas,sling,senaskyas
+clics-doculect-202-612,qawa1238-std,concepticon-994,20.24,ḳyeraḳʰana,bow,kyerakkana
+clics-doculect-202-613,qawa1238-std,concepticon-977,20.25,ḳyeraḳʰana,arrow,kyerakkana
+clics-doculect-202-614,qawa1238-std,concepticon-1566,20.28,c̷aleḳa,"gun, cannon",caleka
+clics-doculect-202-615,qawa1238-std,concepticon-421,20.45,ḳsḳena,retreat,kskena
+clics-doculect-202-616,qawa1238-std,concepticon-1074,20.52,ḳc̷ewesḳʰar,fishhook,kceweskkar
+clics-doculect-202-617,qawa1238-std,concepticon-388,20.54,asawer,fishnet,asawer
+clics-doculect-202-618,qawa1238-std,concepticon-1435,20.61,yepˀas,hunt,yep?as
+clics-doculect-202-619,qawa1238-std,concepticon-1172,20.62,yeftawas,shoot,yeftawas
+clics-doculect-202-620,qawa1238-std,concepticon-1075,20.64,ewes,trap (noun),ewes
+clics-doculect-202-621,qawa1238-std,concepticon-1889,21.46,ḳyewos,arson,kyewos
+clics-doculect-202-622,qawa1238-std,concepticon-713,21.51,lol,steal,lol
+clics-doculect-202-623,qawa1238-std,concepticon-1160,21.52,lol,thief,lol

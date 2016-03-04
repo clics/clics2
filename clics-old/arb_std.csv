@@ -1,0 +1,2080 @@
+@classification: Afro-Asiatic,Semitic,Central,South,Arabic
+@ids-name: Arabic_Standard
+@iso: arb
+@language: Arabic, Standard
+@size: 2073
+@source: ids
+@variety: std
+1.1	world	عالم
+1.21	earth, land	أرْض
+1.212	earth=ground, soil	أرْض
+1.212	earth=ground, soil	تُرْبة
+1.213	dust	غُبار
+1.214	mud	وحْل
+1.214	mud	طِين
+1.215	sand	رمْل
+1.22	mountain, hill	جبل
+1.22	mountain, hill	تلّ
+1.222	cliff, precipice	جُرﹸف
+1.222	cliff, precipice	مُنْحدِرصخْري
+1.23	plain, field	سهْل
+1.23	plain, field	أرْضمُنْبسِطة
+1.24	valley	وادٍ
+1.25	island	جزِيرة
+1.26	mainland	برّ
+1.27	shore	شاطِئ
+1.28	cave	كهْف
+1.28	cave	مغارة
+1.31	water	ماء
+1.32	sea	بحْر
+1.322	calm (of sea)	هادِئ
+1.323	rough (of sea)	هاِئج
+1.324	foam	زبد
+1.329	ocean	مُحِيط
+1.33	lake	بُحيرة
+1.34	gulf, bay	خلِيج
+1.341	lagoon	هَوْر
+1.341	lagoon	بُحَيْرةشاطِئِيَّة
+1.342	reef	شِعْب
+1.342	reef	حيْدبحْري
+1.343	headland, point	رأس
+1.35	wave	موْج
+1.352	tide	المدّوالجزْر
+1.353	lowtide	جزْر
+1.354	hightide	مدّ
+1.36	river, stream, brook	نهْر
+1.36	river, stream, brook	نُهير
+1.36	river, stream, brook	جدْول
+1.362	whirlpool	دﹸوّامة
+1.362	whirlpool	دﹸرْدﹸور
+1.37	spring, well	بِئْر
+1.37	spring, well	ينْبُوع
+1.37	spring, well	عيْن
+1.38	swamp	مُسْتنْقع
+1.39	waterfall	شلّال
+1.39	waterfall	شاغُور
+1.41	woods, forest	غابة
+1.42	tree (cf 08.600)	شجرة
+1.43	wood	خشب
+1.44	stone, rock	حجر
+1.44	stone, rock	صخْرة
+1.44	stone, rock	صخْر
+1.45	earthquake	زِلْزال
+1.51	sky	سماء
+1.52	sun	شمْس
+1.53	moon	قمر
+1.54	star	نجْم
+1.54	star	نجْمة
+1.54	star	كوْكب
+1.55	lightning	برْق
+1.56	thunder	رعْد
+1.57	lightning (as striking)	صاعِقة
+1.58	storm	عاصِفة
+1.59	rainbow	قوْسﹸقُزح
+1.61	light (noun)	ضوْء
+1.61	light (noun)	نُور
+1.62	darkness	ظلام
+1.62	darkness	ظُلْمة
+1.63	shade, shadow	ظِلّ
+1.64	dew	ندىً
+1.64	dew	نداوة
+1.71	air	هواء
+1.72	wind	رِيح
+1.73	cloud	سحاب
+1.73	cloud	سحابة
+1.73	cloud	غيْمة
+1.74	fog	ضباب
+1.75	rain (noun)	مطر
+1.76	snow (noun)	ثلْج
+1.77	ice	جلِيد
+1.77	ice	ثلْج
+1.78	weather	طقْس
+1.78	weather	حالةﹸالجوّ
+1.81	fire	نار
+1.82	flame (noun)	لهب
+1.82	flame (noun)	لهِيب
+1.83	smoke (noun)	دﹸخان
+1.83	smoke (noun)	دﹸخّان
+1.84	ashes	رماد
+1.841	embers	جمْرة
+1.841	embers	جذْوة
+1.851	burn (vb trans)	أَحْرَقَ
+1.851	burn (vb trans)	حَرَقَ
+1.851	burn (vb trans)	حَرَّقَ
+1.852	burn (vb intrans)	اِحْتَرَقَ
+1.852	burn (vb intrans)	اِشْتَعَلَ
+1.86	light, kindle, ignite	أَوْقَدَ
+1.86	light, kindle, ignite	أَشْعَلَ
+1.86	light, kindle, ignite	وَلَّعَ
+1.861	extinguish	أَطْفَأَ
+1.861	extinguish	أَخْمَدَ
+1.87	match (noun)	كِبْرِيت
+1.87	match (noun)	عُودﹸالكِبْرِيت
+1.88	firewood	حطب
+1.89	charcoal	فحْم
+1.89	charcoal	فحْمﹸحطب
+2.1	person, human being	شخْص
+2.1	person, human being	إِنْسان
+2.21	man (vs. woman)	رجُل
+2.22	woman	اِمْرأة
+2.23	male	ذكر
+2.24	female	نِسائِيّ
+2.24	female	نِسْوِيّ
+2.25	boy	صبِيّ
+2.25	boy	فتىً
+2.25	boy	ولد
+2.251	young man (adolescent)	شابّ
+2.251	young man (adolescent)	مُراهِق
+2.26	girl	فتاة
+2.26	girl	بِنْت
+2.261	young woman (adolescent)	شابَّة
+2.27	child	طِفْل
+2.28	infant, baby	رضِيع
+2.31	husband	زوْج
+2.32	wife	زوْجة
+2.33	marry	تَزَوَّجَ
+2.34	marriage, wedding	زواج
+2.34	marriage, wedding	عُرْس
+2.341	divorce	طﻻق
+2.35	father	أب
+2.35	father	والِد
+2.36	mother	أﹸمّ
+2.36	mother	والِدة
+2.37	parents	والِدان
+2.38	married man	رجُلمُتزوﳴج
+2.39	married woman	اِمْرأةمُتزوﳴجة
+2.41	son	اِبْن
+2.42	daughter	بِنْت
+2.42	daughter	اِبْنة
+2.43	offspring (son or daughter)	ولد
+2.43	offspring (son or daughter)	اِبْنأوبِنْت
+2.43	offspring (son or daughter)	ذﹸرﱢيﱠة
+2.44	brother	أخ
+2.44	brother	شقِيق
+2.444	older brother	اﻷخاﻷكْبر
+2.445	younger brother	اﻷخاﻷصْغر
+2.45	sister	أﹸخْت
+2.45	sister	شقِيقة
+2.454	older sister	اﻷﹸختالكُبْرَى
+2.455	younger sister	اﻷﹸخْتالصُغْرَى
+2.456	sibling	أخأوأﹸخْت
+2.458	twins	توْأمان
+2.46	grandfather	جِدّ
+2.461	old man	شيْخ
+2.461	old man	عجُوز
+2.47	grandmother	جدَّة
+2.471	old woman	شيْخة
+2.471	old woman	عجُوزة
+2.48	grandson	حفِيد
+2.49	granddaughter	حفِيدة
+2.51	uncle	عمّ
+2.51	uncle	خال
+2.511	mother's brother	خال
+2.512	father's brother	عمّ
+2.52	aunt	خالة
+2.52	aunt	عمّة
+2.521	mother's sister	خالة
+2.522	father's sister	عمّة
+2.53	nephew	اِبْناﻷخ
+2.53	nephew	اِبْناﻷﹸخْت
+2.54	niece	بِنْتاﻷﹸخْت
+2.54	niece	بِنْتاﻷخ
+2.55	cousin	اِبْن
+2.55	cousin	بِنْتالخال
+2.55	cousin	الخالة
+2.55	cousin	العمّ
+2.55	cousin	العمّة
+2.56	ancestors	أسْﻻف
+2.57	descendants	سُﻻلة
+2.57	descendants	نسْل
+2.61	father-in-law (of a man)	حموﹸالرجُل
+2.611	father-in-law (of a woman)	حموﹸالمرْأة
+2.62	mother-in-law (of a man)	حماةالرجُل
+2.621	mother-in-law (of a woman)	حماةالمرْأة
+2.63	son-in-law (of a man)	صِحْر
+2.63	son-in-law (of a man)	زوْجاﻻِبْنةلﻷب
+2.631	son-in-law (of a woman)	صِحْر
+2.631	son-in-law (of a woman)	زوْجاﻻِبْنةلﻷﹸمّ
+2.64	daughter-in-law (of a man)	كنّة
+2.64	daughter-in-law (of a man)	زوْجةاﻻِبْنلﻷب
+2.641	daughter-in-law (of a woman)	كنّة
+2.641	daughter-in-law (of a woman)	زوْجةاﻻِبْنلﻷﹸمّ
+2.71	stepfather	رابّ
+2.72	stepmother	رابّة
+2.73	stepson	ربِيب
+2.73	stepson	اِبْنالزوْج
+2.73	stepson	الزوْجة
+2.74	stepdaughter	ربِيبة
+2.75	orphan	يتِيم
+2.76	widow	أرْملة
+2.77	widower	أرْمل
+2.81	relatives, kinsmen	أهْل
+2.81	relatives, kinsmen	أقْرِباء
+2.82	family	عائِلة
+2.82	family	أﹸسْرة
+2.91	I	أنا
+2.92	you (singular)	أنْت
+2.92	you (singular)	أنْتِ
+2.93	he/she/it	هُو
+2.93	he/she/it	هِي
+2.94	we	نحْنﹸ
+2.941	we (inclusive)	نحْنﹸبﻻكُم
+2.942	we (exclusive)	نحْنﹸمعكُم
+2.95	you (plural)	أنْتُمْ
+2.95	you (plural)	أنْتُنَّ
+2.95	you (plural)	أنْتُما
+2.96	they	هُمْ
+2.96	they	هُنَّ
+2.96	they	هُما
+3.11	animal	حيوان
+3.12	male (adj)	ذكر
+3.13	female (adj)	نِسائِيّ
+3.13	female (adj)	نِسْوِيّ
+3.15	livestock	مواشٍ
+3.16	pasture	مرْعىً
+3.18	herdsman	راعٍ
+3.19	stable, stall	إِسْطبْل
+3.2	cattle (bovine)	مواشٍ
+3.2	cattle (bovine)	بقر
+3.21	bull	ثوْر
+3.22	ox	ثوْر
+3.22	ox	ثوْرمخْصِيّ
+3.23	cow	بقرة
+3.24	calf	عِجْل
+3.25	sheep	غنم
+3.25	sheep	ضأْن
+3.26	ram	كبش
+3.28	ewe	شاة
+3.28	ewe	نعْجة
+3.29	lamb	حمل
+3.29	lamb	خرﹸوفٌصغِير
+3.32	boar	خنْزِيرذكر
+3.34	sow	خنْزِيرة
+3.35	pig	خنْزِير
+3.36	goat	معز
+3.36	goat	ماعِز
+3.36	goat	مِعْزاة
+3.37	he-goat	تيْس
+3.38	kid	جدْي
+3.41	horse (equine)	حِصان
+3.41	horse (equine)	جواد
+3.41	horse (equine)	خيْل
+3.42	stallion	فحل
+3.42	stallion	حِصان
+3.44	mare	فرس
+3.45	foal, colt	مُهْر
+3.46	ass, donkey	حِمار
+3.47	mule	بغْل
+3.5	fowl	طيْرداجِن
+3.52	cock, rooster	دِيك
+3.54	hen	دجاجة
+3.55	chicken	فرﳳوج
+3.56	goose	وزّ
+3.56	goose	إِوزﳲة
+3.57	duck	بطﳲة
+3.58	nest	عُشّ
+3.581	bird	طيْر
+3.581	bird	طائِر
+3.582	seagull	نوْرس
+3.582	seagull	زﹸمﳲجﹸالماء
+3.583	heron	مالِكﹸالحزِين
+3.583	heron	بلشُون
+3.584	eagle	عُقاب
+3.584	eagle	نسْر
+3.585	hawk	صقْر
+3.585	hawk	باز
+3.586	vulture	رخم
+3.586	vulture	نسْر
+3.591	bat	خُفﳲاش
+3.591	bat	وطْواط
+3.592	parrot	ببﳲغاء
+3.593	crow	غُراب
+3.594	dove	حمامة
+3.596	owl	بُومة
+3.61	dog	كلْب
+3.614	rabbit	أرْنب
+3.62	cat	قِطﳲة
+3.622	opossum	أبوﹸسوﹸم
+3.63	mouse, rat	فأْرة
+3.63	mouse, rat	فارة
+3.63	mouse, rat	جُرذ
+3.65	fish	سمك
+3.65	fish	سمكة
+3.652	fin (dorsal)	زِعْنِفة
+3.653	fishscale	قِشْرةﹸالسمكة
+3.654	gill	خيْشُومﹸالسمكة
+3.655	shell	صدف
+3.655	shell	صدفة
+3.661	shark	قِرْش
+3.662	porpoise, dolphin	درْفِيل
+3.663	whale	حوﹾت
+3.664	stingray	سفن
+3.664	stingray	شيْطانﹸالبحْر
+3.665	freshwater eel	أنْكلِيس
+3.665	freshwater eel	سمكثُعْبانماءعذْب
+3.71	wolf	ذِئْب
+3.72	lion	أسد
+3.73	bear	دﹸبّ
+3.74	fox	ثعْلب
+3.75	deer	أيﳴل
+3.76	monkey	قِرْد
+3.77	elephant	فِيل
+3.78	camel	جمل
+3.81	insect	حشرة
+3.811	louse	قمْلة
+3.812	nit (louse egg)	صُؤَابة
+3.812	nit (louse egg)	بيْضةالقمْلة
+3.813	flea	بُرْغُوث
+3.814	centipede	أﹸمﱡأرْبعوأرْبعِين
+3.815	scorpion	عقْرب
+3.816	cockroach	صُرْصُر
+3.816	cockroach	صُرْصُور
+3.816	cockroach	بِنْتورْدان
+3.817	ant	نمْلة
+3.818	spider	عنْكبُوت
+3.819	spider web	نسِيجعنْكبُوت
+3.82	bee	نحْلة
+3.821	beeswax	شمعالعسل
+3.822	beehive	قفِير
+3.822	beehive	خلِيﳲةﹸنحْل
+3.823	wasp	دبﳳور
+3.83	fly	ذﹸبابة
+3.831	sandfly (midge), gnat	جِرْجِسة
+3.831	sandfly (midge), gnat	بعُوضةصغِيرة
+3.832	mosquito	بعُوضة
+3.84	worm	دﹸودة
+3.85	snake	ثُعْبان
+3.85	snake	حيﳴة
+3.85	snake	أفْعى
+3.91	firefly	يراعة
+3.91	firefly	حُباحِب
+3.91	firefly	أﹸمﳳحُباحِب
+3.92	butterfly	فراشة
+3.93	grasshopper	جُنْدﹸب
+3.94	snail	حلزﹸونة
+3.94	snail	بزﳲاقة
+3.95	frog	ضِفْدِعة
+3.96	lizard	سِحْلِيﳲة
+3.96	lizard	عظاءة
+3.96	lizard	سِقﳲاية
+3.97	crocodile, alligator	تِمْساح
+3.98	turtle	سُلحْفاة
+4.11	body	جِسْم
+4.11	body	جسد
+4.12	skin, hide	جِلْد
+4.13	flesh	لحْم
+4.13	flesh	جسد
+4.13	flesh	ربْلة
+4.14	hair (head)	شعْر
+4.14	hair (head)	شعْرةالرأْس
+4.142	beard	لِحْية
+4.144	body hair	شعْرالجِسْم
+4.145	pubic hair	شعْرالعوْرة
+4.146	dandruff	قِشْرةُالرأْس
+4.15	blood	دم
+4.151	vein, artery	شِرْيان:عِرْق
+4.151	vein, artery	ورِيد
+4.16	bone	عظْم
+4.162	rib	ضِلْع
+4.17	horn	قرْن
+4.18	tail	ذيْل
+4.18	tail	ذنب
+4.19	back	ظهْر
+4.191	spine	العمُودُالفِقْرِيّ
+4.2	head	رأْس
+4.201	side of head, temple	صُدْغ
+4.202	skull	جُمْجُمة
+4.203	brain	مُخّ
+4.203	brain	دِماغ
+4.204	face	وجْه
+4.204	face	مُحيًّا
+4.205	forehead	جبْهة
+4.205	forehead	جبِين
+4.207	jaw	فكّ
+4.207	jaw	حنك
+4.208	cheek	خدّ
+4.208	cheek	وجْنة
+4.209	chin	ذقن
+4.209	chin	ذِقن
+4.21	eye	عيْن
+4.212	eyebrow	حاجِبالعيْن
+4.213	eyelid	جفْن
+4.213	eyelid	غِطاءُالعيْن
+4.214	eyelash	رمْش
+4.214	eyelash	رِمْش
+4.214	eyelash	هُدْب
+4.215	blink	رَمَشَبِعيْنِهِ
+4.22	ear	أُذُن
+4.221	earlobe	شحْمةُاﻷُذُن
+4.222	earwax	صِمْﻻخ
+4.23	nose	أنْف
+4.231	nostril	منْخِر
+4.231	nostril	مِنْخر
+4.231	nostril	ثُقْبُاﻷنْف
+4.232	mucus (nasal)	مُخاط
+4.232	mucus (nasal)	مادﳲةمُخاطِيﳲة
+4.24	mouth	فم
+4.24	mouth	فُم
+4.24	mouth	فوُ
+4.241	beak	مِنْقار
+4.241	beak	مِنْقاد
+4.25	lip	شفة
+4.26	tongue	لِسان
+4.27	tooth	سِنّ
+4.271	gums	لِثة
+4.272	molartooth	ضِرْس
+4.28	neck	عُنُق
+4.28	neck	رقبة
+4.281	nape of neck	قفاً
+4.29	throat	حلْق
+4.29	throat	حُلْقوم
+4.29	throat	حنْجرة
+4.3	shoulder	كتِف
+4.3	shoulder	عاتِق
+4.301	shoulderblade	العظْمُالكتِفِيّ
+4.302	collarbone	ترْقُوة
+4.31	arm	ذِراع
+4.312	armpit	إبْط
+4.32	elbow	مِرْفق
+4.321	wrist	مِعْصم
+4.321	wrist	رُسْغ
+4.33	hand	يد
+4.331	palm of hand	كفّ
+4.331	palm of hand	راحةُاليد
+4.34	finger	إصْبعاليد
+4.342	thumb	إبْهامُاليد
+4.344	fingernail	ظُفُر
+4.345	claw	مِخْلب
+4.345	claw	بُرْثُن
+4.35	leg	رِجْل
+4.35	leg	ساق
+4.35	leg	قائِمة
+4.351	thigh	فخْذ
+4.352	calf of leg	ربْلةُ
+4.352	calf of leg	بطﳴةُالسﳲاق
+4.36	knee	رُكْبة
+4.37	foot	قدم
+4.37	foot	رِجْل
+4.371	ankle	كاحِل
+4.372	heel	كعْب
+4.372	heel	عقِب
+4.374	footprint	أثرُالقدم
+4.374	footprint	طبْعةُالقدم
+4.38	toe	إصْبعالقدم
+4.392	wing	جناح
+4.393	feather	رِيشة
+4.4	chest	صدْر
+4.41	breast (of woman)	صدْر
+4.41	breast (of woman)	ثدْي
+4.412	nipple, teat	حلمةالثﳲدْي
+4.42	udder	ضرْع
+4.42	udder	ثدْيُالبقرة
+4.43	navel	سُرﳲةالبطْن
+4.44	heart	قلْب
+4.441	lung	رِئة
+4.45	liver	كبِد
+4.451	kidney	كُلْية
+4.451	kidney	كُلْوة
+4.452	spleen	طِحال
+4.46	stomach	معِدة
+4.46	stomach	مِعْدة
+4.461	intestines, guts	أحْشاء
+4.462	waist	خصْر
+4.462	waist	وسط
+4.463	hip	وِرْك
+4.464	buttocks	عجُز
+4.464	buttocks	كفل
+4.464	buttocks	رِدْفان
+4.47	womb	رحِم
+4.47	womb	رحْم
+4.49	testicle	خُصْية
+4.492	penis	ذكر
+4.492	penis	قضِيب
+4.51	breathe, breath	تَنَفﳲسَ
+4.52	yawn, gape	تَثاءَبَ
+4.521	hiccough	عنْدُهُفُواق
+4.521	hiccough	حازُوقة
+4.53	cough	سَعَلَ
+4.53	cough	كَحﳲ
+4.53	cough	كَحْكَحَ
+4.54	sneeze	عَطَسَ
+4.55	perspire	عَرِقَ
+4.55	perspire	أَفْرَزَعرقاً
+4.55	perspire	رَشَحَ
+4.56	spit	بَصَقَ
+4.57	vomit	تَقَيﳲأَ
+4.58	bite	عَضﳲ
+4.59	lick	لَعِقَ
+4.591	dribble	يَسِيلُلُعابُهُ
+4.61	sleep	نامَ
+4.612	snore	خَرﳲ
+4.612	snore	خَرْخَرَ
+4.612	snore	غَطﳲ
+4.62	dream	حَلَمَ
+4.63	wake up	اِسْتَيْقَظَ
+4.64	break wind	أَطْلَقَرِيحاً
+4.65	urinate	بالَ
+4.65	urinate	بَوﳲلَ
+4.66	defecate	تَبَرﳲزَ
+4.66	defecate	تَغَوﳲطَ
+4.67	have sexual intercourse	جامَعَ
+4.68	shiver	اِرْتَعَدَ
+4.68	shiver	اِرْتَعَشَ
+4.69	bathe	اِسْتَحَمﳲ
+4.71	beget (of father)	أَنْجَبَ
+4.72	born (to be)	وُلِدَ
+4.73	pregnant	حامِل
+4.732	conceive	حَمَلَ
+4.74	live, living, life	عاشَ
+4.74	live, living, life	حَيِيَ
+4.75	die, dead	ماتَ
+4.75	die, dead	ميْت
+4.75	die, dead	ميﳴت
+4.751	drowned	غَرِقَ
+4.751	drowned	ماتَغرقاً
+4.76	kill	قَتَلَ
+4.77	corpse	جُثﳲة
+4.77	corpse	جُثْمان
+4.78	bury (the dead)	دَفَنَ
+4.78	bury (the dead)	قَبَرَ
+4.79	grave, tomb	قبْر
+4.79	grave, tomb	ضرِيح
+4.81	strong, mighty, powerful	قوِيّ
+4.81	strong, mighty, powerful	قادِر
+4.81	strong, mighty, powerful	شدِيد
+4.82	weak	ضعِيف
+4.82	weak	واهِن
+4.83	well, health	صِحﳲة
+4.83	well, health	صحِيح
+4.83	well, health	سلِيم
+4.83	well, health	مُعافىً
+4.84	sick, sickness	مرض
+4.84	sick, sickness	مرِيض
+4.841	fever	حُمﳲى
+4.842	goiter	تضخﳳمُالغُدﳲةالدﳲرقِيﳲة
+4.843	cold (catarrh)	زُكام
+4.843	cold (catarrh)	رشْح
+4.85	wound, sore	جُرْح
+4.85	wound, sore	قرْحة
+4.852	bruise	رضﳲة
+4.853	swelling	تضخﳳم
+4.853	swelling	اِنْتِفاخ
+4.854	itch	حِكﳲة
+4.855	blister	نفْطة
+4.855	blister	بثْرة
+4.855	blister	حبﳲة
+4.856	boil (noun)	دُمﳲل
+4.857	pus	قيْح
+4.857	pus	صدِيد
+4.858	scar	ندبة
+4.86	cure, heal	صَحﳲ
+4.86	cure, heal	شُفِيَ
+4.86	cure, heal	بَرِئَ
+4.86	cure, heal	شَفَى
+4.87	physician	طبِيب
+4.88	medicine, drug	دواء
+4.88	medicine, drug	عقﳲار
+4.89	poison	سمّ
+4.89	poison	سُمّ
+4.91	tired, weary	تعْبان
+4.91	tired, weary	تعِب
+4.91	tired, weary	مُرْهق
+4.912	rest	اِسْتَراحَ
+4.92	lazy	كسُول
+4.92	lazy	كسْﻻن
+4.93	bald	أصْلع
+4.94	lame	أعْرج
+4.95	deaf	أطْرش
+4.96	mute	أخْرس
+4.96	mute	أبْكم
+4.97	blind	أعْمى
+4.98	intoxicated	سكْران
+4.98	intoxicated	ثمِل
+4.99	naked, bare	عارٍ
+4.99	naked, bare	عُرْيان
+5.11	eat	أَكَلَ
+5.12	food	غِذاء
+5.12	food	قُوْت
+5.12	food	طعام
+5.121	cooked	مطْبُوخ
+5.121	cooked	مطْهُرّ
+5.121	cooked	طُبِخَ
+5.122	raw	نِيْء
+5.122	raw	غيْرُمطْبُوخ
+5.123	ripe	ناضِج
+5.123	ripe	يانِع
+5.124	green, unripe	فِجّ
+5.124	green, unripe	غيْرُناضِج
+5.125	rotten	فاسِد
+5.125	rotten	عفِن
+5.13	drink	شَرِبَ
+5.14	hunger	جُوْع
+5.141	famine	مجاعة
+5.15	thirst	عطش
+5.15	thirst	ظماء
+5.16	suck	مَصﳲ
+5.16	suck	اِمْتَصﳲ
+5.18	chew	مَضَغَ
+5.18	chew	عَلَكَ
+5.181	swallow	بَلَعَ
+5.19	choke	خَنَقَ
+5.21	cook	طَبَخَ
+5.21	cook	طَها
+5.22	boil (vb)	سَلَقَ
+5.23	roast, fry	حَمﳲرَ
+5.23	roast, fry	شَوَى
+5.24	bake	خَبَزَ
+5.25	oven	فُرْن
+5.25	oven	طبﳲاخ
+5.26	pot, cooking vessel	طنْجرة
+5.26	pot, cooking vessel	قِدْر
+5.27	kettle	غلﳲاية
+5.28	pan	مِقْﻻة
+5.28	pan	مِقْلىً
+5.31	dish	طبق
+5.31	dish	صِينِيﳲة
+5.32	plate	طبق
+5.32	plate	صحْن
+5.33	bowl	سُلْطانِيﳲة
+5.33	bowl	زُبْدِيﳲة
+5.34	pitcher, jug	إبْرِيق
+5.34	pitcher, jug	جرﳲة
+5.34	pitcher, jug	قُلﳲة
+5.35	cup, drinking vessel	فِنْجان
+5.35	cup, drinking vessel	طاسة
+5.35	cup, drinking vessel	كأْس
+5.35	cup, drinking vessel	إناء
+5.36	saucer	صُحيْفة
+5.36	saucer	صحْنُالفِنْجان
+5.37	spoon	مِلْعقة
+5.38	knife	سِكﳴين
+5.38	knife	سِكﳴينة
+5.39	fork	شوْكة
+5.391	tongs	مِلْقط
+5.41	meal (a)	وجْبة
+5.41	meal (a)	أكْلة
+5.42	breakfast	فطُور
+5.43	lunch	غداء
+5.43	lunch	طعامُالﳳظهْرخفِيف
+5.44	dinner	غداء
+5.44	dinner	عشاء
+5.45	supper	عشاء
+5.45	supper	طعامُالمساء
+5.46	peel	قَشَرَ
+5.46	peel	قَشﳲرَ
+5.47	sieve, strain	نَخَلَ
+5.47	sieve, strain	غَرْبَلَ
+5.48	scrape	بَرَدَ
+5.48	scrape	بَشَرَ
+5.48	scrape	حَكﳲ
+5.49	stir, mix	مَزَجَ
+5.49	stir, mix	خَلَطَ
+5.49	stir, mix	حَرﳲكَ
+5.51	bread	خُبْز
+5.53	dough	عجِين
+5.54	knead	عَجَنَ
+5.55	meal, flour	دقِيق
+5.55	meal, flour	طحِين
+5.56	crush, grind	طَحَنَ
+5.57	mill	طاحُون
+5.57	mill	مِطْحنة
+5.58	mortar	هاوُن
+5.59	pestle	يدُالهاوُن
+5.61	meat	لحْم
+5.63	sausage	سُجُق
+5.64	soup, broth	حساء
+5.64	soup, broth	شُرْبة
+5.65	vegetables	خضْراوات
+5.65	vegetables	خُضر
+5.65	vegetables	خُضار
+5.66	bean	فُوْل
+5.7	potato	بطاطا
+5.7	potato	بطاطِس
+5.71	fruit	فاكِهة
+5.71	fruit	فواكِه
+5.712	bunch	حُزْمة
+5.712	bunch	عُنْقُود
+5.712	bunch	باقة
+5.75	fig	تِين
+5.76	grape	عِنب
+5.77	nut	جوْز
+5.77	nut	جوْزة
+5.78	olive	زيْتُون
+5.78	olive	زيْتُونة
+5.79	oil	زيْت
+5.791	grease, fat	سمْن
+5.791	grease, fat	دُهْن
+5.791	grease, fat	شحْم
+5.81	salt	مِلْح
+5.82	pepper	فِلْفِل
+5.82	pepper	فُلْفُل
+5.821	chili pepper	فُلْفُلحارّ
+5.84	honey	عسل
+5.85	sugar	سُكﳲر
+5.86	milk (noun)	حلِيب
+5.86	milk (noun)	لبن
+5.87	milk (vb)	حَلَبَ
+5.88	cheese	جُبْن
+5.88	cheese	جُبْنة
+5.89	butter	زُبْد
+5.89	butter	زُبْدة
+5.9	beverage, drink	مشْرُوب
+5.9	beverage, drink	شراب
+5.92	wine	نبِيذ
+5.92	wine	خمْر
+5.93	beer	بِيرة
+5.94	fermented drink	مشْرُوبمُتَخَمﳴر
+5.97	egg	بيْض
+5.97	egg	بيْضة
+5.971	egg yolk	مُحّ
+5.971	egg yolk	صفارُالبيْض
+6.11	put on (clothes)	لَبِسَ
+6.12	clothing, clothes	مﻻبِس
+6.13	tailor	خيﱠاط
+6.21	cloth	قُماش
+6.21	cloth	نسِيج
+6.22	wool	صُوف
+6.23	linen, flax	كتﱠان
+6.24	cotton	قُطْن
+6.25	silk	حرِير
+6.27	felt	لِبْد
+6.27	felt	لبﱠاد
+6.28	fur	فرْو
+6.28	fur	فرْوة
+6.29	leather	جِلْد
+6.31	spin	غَزَلَ
+6.31	spin	رَدَنَ
+6.32	spindle	مِغْزل
+6.33	weave	حَاكَ
+6.33	weave	نَسَجَ
+6.34	loom	نوْل
+6.34	loom	مِنْوال
+6.35	sew	خَاطَ
+6.35	sew	خَيﱠطَ
+6.36	needle	إبْرة
+6.36	needle	مِخْيط
+6.37	awl	مِخْرز
+6.37	awl	مِثْقب
+6.38	thread	خيْط
+6.39	dye	صَبَغَ
+6.39	dye	لَوﱠنَ
+6.41	cloak	عباءة
+6.42	woman's dress	فُسْتان
+6.42	woman's dress	ثوْبُالمرْأة
+6.43	coat	مِعْطف
+6.43	coat	سُتْرة
+6.44	shirt	قمِيص
+6.45	collar	ياقة
+6.45	collar	قَبﱠة
+6.46	skirt	تنﱡورة
+6.461	grass-skirt	تنﱡورةمصْنُوعةمِنعُشْب
+6.48	trousers	بنْطلُون
+6.48	trousers	بِنْطال
+6.48	trousers	سِرْوال
+6.49	stocking, sock	جوْرب
+6.51	shoe	حِذاء
+6.51	shoe	جزْمة
+6.52	boot	جزْمةطوِيلة
+6.52	boot	حِذاءعاليالساق
+6.54	shoemaker, cobbler	سكﱢاف
+6.54	shoemaker, cobbler	إسْكاف
+6.55	hat, cap	قُبﱠعة
+6.55	hat, cap	بُرْنَيْطة
+6.55	hat, cap	قلنْسُوة
+6.57	belt, girdle	حِزام
+6.58	glove	قُفﱠاز
+6.59	veil	حِجاب
+6.59	veil	سِتْر
+6.61	pocket	جيْب
+6.62	button	زِرّ
+6.63	pin	دبﱡوس
+6.71	ornament, adornment	زِينة
+6.72	jewel	جوْهرة
+6.72	jewel	حِلْية
+6.72	jewel	حجركرِيم
+6.73	ring (for finger)	خاتِم
+6.73	ring (for finger)	دِبْلة
+6.74	bracelet	سُوار
+6.74	bracelet	سِوار
+6.75	necklace	عِقْد
+6.75	necklace	قِﻻدة
+6.76	bead	خرزة
+6.77	earring	قُرْط
+6.77	earring	حلْقةاﻷُذُن
+6.78	headband, headdress	رِباطُلِلرﱠأْس
+6.79	tattoo	وشْم
+6.81	handkerchief, rag	مِنْدِيل
+6.81	handkerchief, rag	محْرمة
+6.81	handkerchief, rag	خِرْقة
+6.82	towel	فُوطة
+6.82	towel	مِنْشفة
+6.91	comb	مِشْط
+6.92	brush	فُرْشة
+6.92	brush	فُرْشاة
+6.921	braid	ضَفَرَ
+6.921	braid	ضَفﱠرَ
+6.921	braid	جَدَلَ
+6.93	razor	مُوْسى
+6.94	ointment	مرْهم
+6.94	ointment	دلُوك
+6.95	soap	صابُون
+6.96	mirror	مِرْآة
+7.11	dwell, live	سَكَنَ
+7.11	dwell, live	قَطَنَ
+7.12	house	بيْت
+7.13	hut	كُوخ
+7.131	garden-house	عرِيش
+7.14	tent	خيْمة
+7.15	yard, court	فِناء
+7.15	yard, court	ساحة
+7.15	yard, court	حوْش
+7.16	men's house	بيْتُالرﱢجال
+7.17	cookhouse	مطْبخ
+7.18	meeting house	بيْتُاﻹجْتِماع
+7.21	room	غُرْفة
+7.21	room	حُجْرة
+7.22	door, gate	باب
+7.221	doorpost, jamb	عضادةُالباب
+7.23	lock (noun)	قُفْل
+7.23	lock (noun)	غال
+7.231	latch, door-bolt	مِزْﻻج
+7.231	latch, door-bolt	سقﱠاطة
+7.24	key	مِفْتاح
+7.25	window	شُبﱠاك
+7.25	window	نافِذة
+7.26	floor	أرْض
+7.26	floor	أرْضِية
+7.27	wall	جِدار
+7.27	wall	حائِط
+7.31	fireplace	مُسْتوْقد
+7.31	fireplace	مُصْطلىً
+7.32	stove	موْقِد
+7.33	chimney	مدْخنة
+7.37	ladder	سُلﱠم
+7.37	ladder	مِرْقاة
+7.42	bed	سرِير
+7.42	bed	تخْت
+7.421	pillow	مِخدﱠة
+7.421	pillow	وِسادة
+7.422	blanket	بطﱠانِيﱠة
+7.422	blanket	حِرام
+7.43	chair	كُرْسِيّ
+7.43	chair	مقْعد
+7.44	table	طاوِلة
+7.44	table	مِنْضدة
+7.45	lamp, torch	مِصْباح
+7.45	lamp, torch	مشْعل
+7.46	candle	شمْعة
+7.47	shelf	رفّ
+7.48	trough	حوْض
+7.48	trough	جُرْن
+7.48	trough	مِذْود
+7.51	roof	سقْف
+7.52	thatch	سقْفُالبيْتِالقشﱢيّ
+7.53	ridgepole	قِمﱠةُالسﱠقْف
+7.53	ridgepole	أُفُقِيﱠةبأعْلىالسﱠقْف
+7.54	rafter	رافِدةأودِعامةُالسﱠقْف
+7.55	beam	رافِدة
+7.55	beam	عارِضةخشب
+7.56	post, pole	عمُود
+7.57	board	لوْح
+7.58	arch	قوْس
+7.58	arch	قنْطرة
+7.61	mason	بنﱠاء
+7.61	mason	بانٍ
+7.62	brick	آجُرّ
+7.62	brick	قِرْمِيدة
+7.63	mortar	مِﻻط
+7.63	mortar	طِيْن
+7.64	adobe	طُوب
+7.64	adobe	لِبْن
+8.11	farmer	فلﱠاح
+8.12	field (for cultivation)	حقْل
+8.13	garden	حدِيقة
+8.13	garden	جُنيْنة
+8.15	cultivate, till	فَلَحَ
+8.15	cultivate, till	حَرَثَ
+8.16	fence	سِياج
+8.16	fence	حاجِز
+8.17	ditch	خنْدق
+8.17	ditch	قناة
+8.21	plow	حَرَثَ
+8.212	furrow	أُخْدُود
+8.212	furrow	ثلْم
+8.22	dig	حَفَرَ
+8.22	dig	نَقَرَ
+8.23	spade	مِسْحاة
+8.23	spade	مرّ
+8.24	shovel	مِجْرفة
+8.24	shovel	رفْش
+8.25	hoe	مِعْزقة
+8.25	hoe	فأْس
+8.26	fork	مِذْراة
+8.27	rake	مِدمﱠة
+8.27	rake	جرﱠافة
+8.27	rake	مُشْط
+8.31	sow	بَذَرَ
+8.31	sow	بَزَرَ
+8.311	seed	بذْرة
+8.311	seed	بِزْرة
+8.311	seed	حبﱠة
+8.32	mow, reap	حَصَدَ
+8.32	mow, reap	حَشﱠ
+8.32	mow, reap	جَزﱠ
+8.33	sickle, scythe	مِنْجل
+8.33	sickle, scythe	مِحْصد
+8.33	sickle, scythe	مِحشّ
+8.34	thresh	دَرَسَ
+8.35	threshing-floor	جُرْنمكانُالدﱠرْس
+8.41	crop, harvest	حصاد
+8.42	grain (barley, oats etc)	حبﱠة
+8.43	wheat	قمْح
+8.43	wheat	حِنْطة
+8.44	barley	شعِير
+8.45	rye	جاوْدار
+8.45	rye	جوْدار
+8.45	rye	حِنْطةسوْداء
+8.46	oats	هُرْطُمان
+8.46	oats	شُوفان
+8.47	maize, corn	ذُرة
+8.48	rice	رُزّ
+8.48	rice	أرُزّ
+8.51	grass	حشِيش
+8.51	grass	عُشْب
+8.52	hay	قشّ
+8.52	hay	تِبْن
+8.53	plant (noun)	نبْتة
+8.531	plant (vb)	زَرَعَ
+8.54	root	جذْر
+8.54	root	جِذْر
+8.55	branch	فرْع
+8.55	branch	غُصْن
+8.56	leaf	ورقة
+8.57	flower	زهْرة
+8.6	tree	شجرة
+8.61	oak	شجرةاﻟ
+8.61	oak	بلﱡوط
+8.62	beech	زان
+8.63	birch	شجرةاﻟ
+8.63	birch	بتُوﻻ
+8.64	pine	صنَوْبرة
+8.65	fir	تنﱡوبة
+8.66	acorn	ثمرةالبلﱡوط
+8.67	vine	كرْمة
+8.67	vine	نباتمُتسلﱢق
+8.68	tobacco	تبْغ
+8.69	smoke (tobacco)	دَخﱠنَ
+8.691	pipe	بِيبة
+8.691	pipe	غلْيُون
+8.72	tree stump	جِذْل
+8.72	tree stump	أصْلُالشﱠجرة
+8.73	tree trunk	جِذْع
+8.73	tree trunk	ساق
+8.74	forked branch	غُصْنمُتفرﱢع
+8.75	bark	لِحاء
+8.75	bark	قِشْر
+8.76	sap	نُسْغ
+8.81	palm tree	نخْلة
+8.82	coconut	جوْزُالهِنْد
+8.83	citrus fruit	ليْمُونبِأنْواعِهِ
+8.84	banana tree	شجرةُالموْز
+8.85	banyan	اﻷثْأب
+8.85	banyan	تِينُالبنْغال
+8.91	sweet potato	بطاطاحُلْوة
+8.912	yam	اليامضرْبمنالبطاطا
+8.92	tapioca, manioc, cassava	التﱠبْيُوكةنباتغِذائِيّإسْتِوائِيّ
+8.93	gourd	قرْع
+8.93	gourd	يقْطِين
+8.931	pumpkin, squash	قرْعة
+8.94	bamboo	خيْزُران
+8.941	sugar cane	قصبُالسﱡكﱠر
+8.96	fish poison (root)	سمﱡالسﱠمكنوْعمنالجُذُور
+8.97	nettle	قُرﱠاص
+8.98	mushroom	فُطْر
+9.11	do, make	فَعَلَ
+9.11	do, make	عَمِلَ
+9.12	work	عَمِلَ
+9.12	work	اِشْتَغَلَ
+9.14	bend	لَوَى
+9.14	bend	ثَنَى
+9.15	fold	ثَنَى
+9.15	fold	طَوَى
+9.16	tie, bind	رَبَطَ
+9.16	tie, bind	أوْثَقَ
+9.16	tie, bind	قَيﱠدَ
+9.161	untie	حَلﱠ
+9.161	untie	فَكﱠ
+9.18	chain	سِلْسِلة
+9.19	rope, cord	حبْلة
+9.192	knot (noun)	عُقْدة
+9.21	strike (hit, beat)	ضَرَبَ
+9.21	strike (hit, beat)	خَبَطَ
+9.211	pound with fist	دقﱠبِجمِيعِاليد
+9.22	cut	قَطَعَ
+9.22	cut	قَصﱠ
+9.221	cut down	قَطَعَشجرةإلخ
+9.222	chop, hew	فَرَمَ
+9.222	chop, hew	نَجَرَ
+9.223	stab	طَعَنَ
+9.223	stab	شَكﱠ
+9.23	knife	سِكﱢينة
+9.24	scissors, shears	مِقصّ
+9.25	ax	بلْطة
+9.25	ax	فأْس
+9.251	adze	قدﱡومأداةٌللنﱠحْتِ
+9.26	break	كَسَرَ
+9.26	break	كَسﱠرَ
+9.261	broken	مكْسُور
+9.27	split	شَقﱠ
+9.27	split	فَلَعَ
+9.28	tear	مَزﱠقَ
+9.28	tear	مَزَقَ
+9.29	flay, skin	سَلَخَ
+9.29	flay, skin	قَشَرَ
+9.31	rub, wipe	مَسَحَ
+9.31	rub, wipe	حَكﱠ
+9.32	stretch	مَدﱠ
+9.32	stretch	مَدﱠدَ
+9.33	pull	سَحَبَ
+9.33	pull	جَرﱠ
+9.34	spread out	نَشَرَ
+9.34	spread out	بَسَطَ
+9.341	hang up	عَلﱠقَ
+9.342	press	ضَغَطَ
+9.342	press	كَبَسَعلى
+9.343	squeeze, wring	عَصَرَ
+9.35	pour	صَبﱠ
+9.35	pour	سَكَبَ
+9.36	wash	غَسَلَ
+9.37	sweep	كَنَسَ
+9.37	sweep	كَنﱠسَ
+9.38	broom	مِكْنسة
+9.422	tool	أداة
+9.43	carpenter	نَجﱠار
+9.44	build	بَنَى
+9.46	bore	ثَقَبَ
+9.46	bore	خَرَمَ
+9.46	bore	خَرﱠمَ
+9.461	hollow out	جَوﱠفَ
+9.48	saw	مِنْشار
+9.49	hammer	مِطْرقة
+9.5	nail	مِسْمار
+9.56	glue	صمْغ
+9.56	glue	غِراء
+9.56	glue	لِصاق
+9.6	smith, blacksmith	حدﱠاد
+9.61	forge	طَرَقَ
+9.61	forge	طَرﱠقَ
+9.62	anvil	سنْدان
+9.62	anvil	سِنْدان
+9.63	cast (metals)	سَبَكَالمعادِن
+9.64	gold	ذهب
+9.65	silver	فضﱠة
+9.66	copper, bronze	نُحاس
+9.66	copper, bronze	برُونْز
+9.67	iron	حدِيد
+9.68	lead (noun)	رصاص
+9.69	tin, tinplate	قصْدِير
+9.69	tin, tinplate	صفِيح
+9.71	potter	فاخِورِيّ
+9.71	potter	خزﱠاف
+9.72	mold (clay etc)	صَاغَالطﱢيْنإلخ
+9.73	clay	طِيْن
+9.74	glass	زُجاج
+9.75	weave, plait	جَدَلَ
+9.75	weave, plait	جَدﱢلَ
+9.76	basket	سلﱠة
+9.76	basket	قُفﱠة
+9.77	mat	حصِيرة
+9.771	rug	سجﱠادة
+9.771	rug	بِساط
+9.78	netbag	كِيسشبكة
+9.79	fan (noun)	مِرْوحةيدوِيﱠة
+9.791	fan (vb)	رَوﱠحَ
+9.81	carve	نَحَتَ
+9.81	carve	نَقَشَ
+9.82	sculptor	نحﱠات
+9.82	sculptor	مثﱠال
+9.83	statue	تِمْثال
+9.83	statue	نُصُب
+9.84	chisel	إزْمِيل
+9.88	paint (noun)	دِهان
+9.88	paint (noun)	طِﻻء
+9.89	paint (vb)	صَبَغَ
+9.89	paint (vb)	لَوﱠنَ
+9.89	paint (vb)	دَهَنَ
+9.89	paint (vb)	رَسَمَ
+10.11	move	تَحَرﱠكَ
+10.12	turn over	قَلَبَ
+10.12	turn over	قَلﱠبَ
+10.13	turn around	اِلْتَفَتَ
+10.14	wind, wrap	دَوﱠرَ
+10.14	wind, wrap	أدَارَ
+10.14	wind, wrap	لَفﱠ
+10.15	roll	دَحْرَجَ
+10.15	roll	تَدَحْرَجَ
+10.16	drop (vb)	أَسْقَطَ
+10.16	drop (vb)	أَوْقَعَ
+10.17	twist	جَدَلَ
+10.17	twist	فَتَلَ
+10.21	rise	طَلَعَ
+10.21	rise	اِرْتَفَعَ
+10.22	raise, lift	رَفَعَ
+10.22	raise, lift	عَلﱠى
+10.23	fall	سَقَطَ
+10.23	fall	وَقَعَ
+10.24	drip	قَطَرَ
+10.24	drip	تَقَطﱠرَ
+10.25	throw	رَمَى
+10.25	throw	أَلْقَى
+10.252	catch (ball)	اِلْتَقَطَ
+10.252	catch (ball)	لَقَطَكُرةإلخ
+10.26	shake	هَزﱠ
+10.26	shake	رَجﱠ
+10.32	flow	سَالَ
+10.32	flow	جَرَى
+10.33	sink	غَرِقَ
+10.33	sink	غَطَسَ
+10.34	float	طَفَا
+10.35	swim	عَامَ
+10.35	swim	سَبَحَ
+10.351	dive	غَطَسَ
+10.352	splash	رَشﱠ
+10.352	splash	بَخﱠ
+10.352	splash	رَذﱠ
+10.36	sail (vb)	أَبْحَرَ
+10.36	sail (vb)	سَافَرَبحْراً
+10.37	fly (vb)	طَارَ
+10.38	blow	نَفَخَ
+10.41	creep, crawl	دَبﱠ
+10.41	creep, crawl	زَحَفَ
+10.41	creep, crawl	حَبَا
+10.412	kneel	رَكَعَ
+10.412	kneel	رَبَضَ
+10.412	kneel	وَقَفَعلىرُكْبتيْهِ
+10.413	crouch	قَرْفَصَ
+10.42	slide, slip	زَلِقَ
+10.42	slide, slip	اِنْزَلَقَ
+10.43	jump, leap	قَفَزَ
+10.43	jump, leap	وَثَبَ
+10.431	kick	رَفَسَ
+10.431	kick	رَكَلَ
+10.44	dance	رَقَصَ
+10.45	walk	مَشىَ
+10.45	walk	سَارَ
+10.451	limp	عَرَجَ
+10.451	limp	مَشَىمُضْطرِباً
+10.46	run	عَدَا
+10.46	run	رَكَضَ
+10.47	go	ذَهَبَ
+10.471	go up	صَعِدَ
+10.472	climb	تَسَلﱠق
+10.473	go down	نَزَلَ
+10.473	go down	هَبَطَ
+10.474	go out	خَرَجَ
+10.474	go out	سَرَحَ
+10.48	come	جَاءَ
+10.48	come	أَتَى
+10.481	come back	رَجَعَ
+10.481	come back	عَادَ
+10.49	go away, depart	غَادَرَ
+10.49	go away, depart	سَرَحَ
+10.491	disappear	اِخْتَفَى
+10.491	disappear	تَوَارَى
+10.51	flee	فَرﱠ
+10.51	flee	هَرَبَ
+10.52	follow	تَبِعَ
+10.52	follow	عَقَبَ
+10.53	pursue	ﻻحَقَ
+10.53	pursue	طَارَدَ
+10.53	pursue	تَتَبﱠع
+10.53	pursue	تَعَقﱠب
+10.55	reach, arrive	وَصَلَ
+10.55	reach, arrive	بَلَغَ
+10.56	approach	اِقْتَرَبَ
+10.57	enter	دَخَلَ
+10.61	carry (bear)	حَمَلَ
+10.612	carry-in-hand	حَمَلَفياليد
+10.613	carry-on-shoulder	حَمَلَفيالكتف
+10.614	carry-on-head	حَمَلَفيالرﱠأْس
+10.615	carry-underarm	حَمَلَبيْنالجنْبوالذﱢراع
+10.62	bring	جَلَبَ
+10.62	bring	أَتَىبِ
+10.62	bring	أَحْضَرَ
+10.63	send	بَعَثَ
+10.63	send	أَرْسَلَ
+10.64	lead (vb)	قَادَ
+10.64	lead (vb)	أَرْشَدَ
+10.65	drive	سَاقَ
+10.66	ride	رَكِبَ
+10.67	push, shove	دَفَعَ
+10.71	road	طرِيق
+10.72	path	سبِيل
+10.72	path	مجاز
+10.74	bridge	جِسْر
+10.74	bridge	كُوبْرِي
+10.75	carriage, wagon, cart	عربة
+10.75	carriage, wagon, cart	مرْكبة
+10.76	wheel	عجلة
+10.76	wheel	دُوﻻب
+10.77	axle	مِحْور
+10.78	yoke	نِيْر
+10.81	ship	سفِينة
+10.83	boat	مرْكب
+10.83	boat	زوْرق
+10.83	boat	قارِب
+10.831	canoe	زوْرقطوِيل
+10.832	outrigger	مرْكبذوذِراع
+10.84	raft	رمث
+10.84	raft	طوْف
+10.85	oar	مِجْذاف
+10.85	oar	مِجْداف
+10.851	paddle (noun)	مِجْذافقصِير
+10.852	row (vb)	جَذﱠفَ
+10.86	rudder	دفﱠة
+10.87	mast	صارٍ
+10.88	sail (noun)	شِراع
+10.89	anchor	مِرْساة
+10.91	harbor, port	مِيْناء
+10.91	harbor, port	مرْفأ
+10.92	land (vb)	نَزَلَإلىالبرّ
+10.92	land (vb)	رَسَا
+11.11	have	عِنْدُهُ
+11.11	have	لديهِ
+11.11	have	لهُ
+11.12	own, possess	مَلَكَ
+11.12	own, possess	اِقْتَنَى
+11.13	take	أَخَذَ
+11.13	take	تَنَاوَلَ
+11.14	seize, grasp	أَمْسَكَبِ
+11.14	seize, grasp	قَبَضَ
+11.14	seize, grasp	اِسْتَوْلَىعلى
+11.15	hold	مَسَكَبِ
+11.15	hold	أَمْسَكَبِ
+11.15	hold	قَبَضَ
+11.16	get, obtain	حَصَلَعلى
+11.16	get, obtain	نَالَ
+11.16	get, obtain	تَسَلﱠم
+11.17	keep, retain	اِحْتَفَظَبِ
+11.17	keep, retain	حَفِظَ
+11.17	keep, retain	حَجَزَ
+11.18	thing	شَيْء
+11.21	give	أَعْطَى
+11.22	give back	رَدﱠ
+11.22	give back	أَعَادَ
+11.22	give back	أَرْجَعَ
+11.24	preserve, look after	عُنِيَبِ
+11.24	preserve, look after	وَقَى
+11.24	preserve, look after	حَفِظَ
+11.25	save, rescue	أَنْقَذَ
+11.27	destroy	دَمﱠرَ
+11.27	destroy	خَرﱠبَ
+11.28	harm, injure, damage	أَضَرﱠ
+11.28	harm, injure, damage	ضَرﱠ
+11.28	harm, injure, damage	آذَى
+11.31	seek, look for	بَحَثَعن
+11.31	seek, look for	فَتﱠشَعن
+11.32	find	وَجَدَ
+11.32	find	عَثَرَعلى
+11.33	lose	فَقَدَ
+11.34	release, let go	أَطْلَقَ
+11.34	release, let go	سَرﱠحَ
+11.43	money	نُقُود
+11.43	money	نقْد
+11.43	money	فُلُوس
+11.44	coin	سِكﱠة
+11.44	coin	عُمْلة
+11.44	coin	نقْدمعْدنِيّ
+11.51	rich	غنِيّ
+11.51	rich	ثرِيّ
+11.52	poor	فقِير
+11.52	poor	مُعْوْز
+11.53	beggar	شحﱠاذ
+11.53	beggar	مُتسوﱢل
+11.54	avaricious, stingy	جشِع
+11.54	avaricious, stingy	بخِيل
+11.61	lend	أَعَارَ
+11.61	lend	أَقْرَضَ
+11.62	borrow	اِسْتَعَارَ
+11.62	borrow	اِقْتَرَضَ
+11.63	owe	دَانَلهب
+11.63	owe	كَانَمدِيناًلهب
+11.64	debt	دَيْن
+11.65	pay (vb)	دَفَعَالمال
+11.66	account, reckoning	حِساب
+11.69	tax, tribute	ضرِيبة
+11.69	tax, tribute	جِزْية
+11.77	hire	اِسْتَأْجَرَ
+11.78	wages	أَجْر
+11.78	wages	أُجْرة
+11.78	wages	راتِب
+11.79	earn	كَسَبَ
+11.79	earn	نَالَ
+11.81	buy	اِشْتَرَى
+11.81	buy	اِبْتَاعَ
+11.82	sell	بَاعَ
+11.83	trade, barter	تِجارة
+11.83	trade, barter	مُقايضة
+11.84	merchant	تاجِر
+11.85	market (place)	سُوْق
+11.86	store, shop	محلّ
+11.86	store, shop	دُكﱠان
+11.86	store, shop	حانُوت
+11.87	price	سِعْر
+11.87	price	ثمن
+11.88	dear (costly, expensive)	غالٍ
+11.89	cheap	رخِيص
+11.91	share (distribute)	قَاسَمَ
+11.91	share (distribute)	شَاطَرَ
+11.92	weigh	وَزَنَ
+12.1	after	بعْدَ
+12.11	place	خلْفَ
+12.11	place	وراءَ
+12.2	beside	بِجانِبِ
+12.2	beside	إلىجانِبِ
+12.3	down, below	تحْتُ
+12.4	before	قبْلَ
+12.41	right (side)	أمامَ
+12.5	inside, in	فِي
+12.5	inside, in	داخِلَ
+12.6	outside	خارِجَ
+12.7	under	تحْتَ
+12.8	up, above	فَوْق
+12.11	place	مكان
+12.11	place	محلّ
+12.12	put	وَضَعَ
+12.12	put	حَطﱠ
+12.13	sit	جَلَسَ
+12.14	lie down	إسْتَلْقَى
+12.14	lie down	إضْطَجَعَ
+12.15	stand	وَقَفَ
+12.16	remain, stay	بَقِيَ
+12.16	remain, stay	مَكَثَ
+12.17	remains, left overs	بقِيﱠة
+12.21	collect, gather	جَمَعَ
+12.21	collect, gather	جَبَى
+12.212	pick up	لَقَطَ
+12.212	pick up	إلْتَقَطَ
+12.213	pile up	رَكَمَ
+12.213	pile up	كَدﱠسَ
+12.22	join, unite	ضَمﱠ
+12.22	join, unite	دَمَجَ
+12.23	separate	عَزَلَ
+12.23	separate	فَصَلَ
+12.23	separate	فَرﱠقَ
+12.232	divide	قَسَمَ
+12.232	divide	جَزﱠأَ
+12.24	open	فَتَحَ
+12.25	shut, close	أَغْلَقَ
+12.26	cover	غَطﱠى
+12.26	cover	سَتَرَ
+12.27	hide, conceal	أخْفَى
+12.27	hide, conceal	خَبﱠأَ
+12.31	high	عالٍ
+12.31	high	مُرْتفِع
+12.32	low	مُنْخفِض
+12.32	low	واطِىء
+12.33	top	قِمﱠة
+12.34	bottom	قاع
+12.34	bottom	قعْر
+12.35	end	طرف
+12.35	end	نِهايَة
+12.352	pointed	مُسْتدِقﱡالرﱠأْس
+12.353	edge	حاشِية
+12.36	side	جانِب
+12.37	middle, center	وسط
+12.37	middle, center	مُنْتصف
+12.41	right (side)	يَمِين
+12.42	left (side)	يَسار
+12.42	left (side)	شِمال
+12.43	near (adv)	قُرْبَ
+12.43	near (adv)	بِالقُرْبِ
+12.44	far (adv)	بعِيداً
+12.45	east	شرْق
+12.46	west	غرْب
+12.47	north	شمال
+12.48	south	جنُوب
+12.53	grow	نَمَا
+12.53	grow	كَبُرَ
+12.53	grow	اِزْدَادَ
+12.54	measure	قَاسَ
+12.55	large, big	كبِير
+12.56	small, little	صغِير
+12.57	long	طُوِيل
+12.58	tall	طُوِيل
+12.58	tall	مُرْتفِع
+12.59	short	قصِير
+12.61	wide, broad	واسِع
+12.61	wide, broad	عرِيض
+12.62	narrow	ضَيﱢق
+12.63	thick (in dimension)	سمِيك
+12.63	thick (in dimension)	ثخِين
+12.63	thick (in dimension)	غلِيظ
+12.65	thin (in dimension)	رقِيق
+12.65	thin (in dimension)	رفِيع
+12.67	deep	عمِيق
+12.68	shallow	ضحْل
+12.68	shallow	قلِيلُالعُمْق
+12.71	flat	مُسطﱠح
+12.71	flat	مُنْبسِط
+12.73	straight	مُسْتقِيم
+12.74	crooked	معْقُوف
+12.74	crooked	مُنْحنٍ
+12.75	hook	كُلﱠاب
+12.75	hook	صِنﱠارة
+12.76	corner	زاوِية
+12.76	corner	رُكْن
+12.77	cross	صلِيب
+12.78	square	مُربﱠع
+12.81	round	مُسْتدِير
+12.81	round	داِئرِيّ
+12.82	circle	دائِرة
+12.82	circle	مُسْتدِيرة
+12.83	sphere, ball	كُرة
+12.84	line	خطّ
+12.84	line	سطْر
+12.85	hole	ثُقْب
+12.85	hole	حُفْرة
+12.92	like, similar	مِثْل
+12.92	like, similar	شبِيه
+12.92	like, similar	مثِيل
+12.93	change	غَيﱠرَ
+12.93	change	بَدﱠلَ
+13.0	zero, nothing	صِفْر
+13.1	one	واحِد
+13.2	two	إثْنان
+13.3	three	ثﻻثة
+13.4	four	أرْبعة
+13.5	five	خمْسة
+13.6	six	سِتﱠة
+13.7	seven	سبْعة
+13.8	eight	ثمانِية
+13.9	nine	تِسْعة
+13.10	ten	عشرة
+13.101	eleven	أحدعشرَ
+13.102	twelve	إثْناعشرَ
+13.103	fifteen	خمْسةَعشرَ
+13.104	twenty	عِشْرُون
+13.105	hundred	مِئَة
+13.106	thousand	ألْف
+13.107	count	عَدﱠ
+13.107	count	أَحْصَى
+13.14	every, all	كُلّ
+13.14	every, all	جمِيع
+13.15	much, many	كثِير
+13.16	more	أكْثر
+13.17	little (quantity), few	قلِيل
+13.18	enough	كافٍ
+13.181	some	بعْض
+13.19	multitude, crowd	حشْد
+13.19	multitude, crowd	مجْمُوعةكبِيرة
+13.21	full	ملِيء
+13.21	full	حافِل
+13.22	empty	فارِغ
+13.22	empty	خالٍ
+13.23	part, piece	جُزْء
+13.23	part, piece	قِطْعة
+13.23	part, piece	قِسْم
+13.24	half	نِصْف
+13.24	half	شطْر
+13.33	alone, only	مُنْفرِد
+13.33	alone, only	مُتَوحﱢد
+13.33	alone, only	فقط
+13.33	alone, only	فحسب
+13.34	first	أوﱠل
+13.35	last	أخِير
+13.36	second	ثانٍ
+13.37	pair	إثْنان
+13.37	pair	زَوْج
+13.38	two times	مرﱠتَيْن
+13.42	third	ثالِث
+13.44	three times	ثﻻثَمرﱠاتٍ
+14.11	time	وقْت
+14.11	time	زمن
+14.11	time	حِيْن
+14.12	age	عُمْر
+14.12	age	سِنّ
+14.13	new	جدِيد
+14.14	young	صغِيرُالسﱢنّ
+14.14	young	صغِيرفيالعُمر
+14.14	young	ناشِىء
+14.15	old	قدِيم
+14.15	old	كبِيرفيالعُمْر
+14.16	early	مُبكﱢر
+14.16	early	باكِر
+14.17	late	مُتأخﱢر
+14.18	now	اﻵن
+14.19	immediately	فَوْراً
+14.21	swift, fast, quick	سرِيع
+14.22	slow	بطِيء
+14.23	hasten, hurry	عَجﱠلَ
+14.23	hasten, hurry	اِسْتَعْجَلَ
+14.23	hasten, hurry	أَسْرَعَ
+14.24	retard, delay	تأخﱡر
+14.25	begin, beginning	بدْء
+14.25	begin, beginning	بِدايَة
+14.25	begin, beginning	اِبْتِداء
+14.252	last, endure	دامَ
+14.252	last, endure	اِسْتَغْرَقَ
+14.26	end (temporal)	نِهايَة
+14.26	end (temporal)	اِنْتِهاء
+14.27	finish	أَنْهَى
+14.27	finish	أَتَمﱠ
+14.28	cease, stop	تَوَقﱠفَ
+14.28	cease, stop	وَقَفَ
+14.28	cease, stop	اِنْقَطَعَ
+14.29	ready	جاهِز
+14.29	ready	مُسْتعِدّ
+14.31	always	دائِماً
+14.32	often	كثِيراًما
+14.33	sometimes	أحْيَاناً
+14.331	soon	قرِيباً
+14.331	soon	عمﱠاقرِيب
+14.332	long-time (for a)	لِمُدﱠةٍطَوِيلة
+14.34	never	ﻻأبداً
+14.35	again	مرﱠةًأُخْرى
+14.35	again	ثانِياً
+14.35	again	مِنجدِيد
+14.41	day	يَوْم
+14.41	day	نهار
+14.42	night	لَيْل
+14.43	dawn	فجْر
+14.44	morning	صباح
+14.44	morning	صُبْح
+14.45	noon, midday	ظُهْر
+14.45	noon, midday	ظهِيرة
+14.451	afternoon	عصْر
+14.451	afternoon	بعْدَالظﱡهْر
+14.46	evening	مساء
+14.47	today	اليَوْم
+14.48	tomorrow	الغد
+14.48	tomorrow	غداً
+14.481	day-after-tomorrow	بعْدَغد
+14.49	yesterday	أمْسِ
+14.49	yesterday	البارِحة
+14.491	day-before-yesterday	أمْسِالأوﱠل
+14.51	hour	ساعة
+14.51	hour	سِتﱡوندقِيقة
+14.53	clock, timepiece	ساعة
+14.53	clock, timepiece	عدﱠادالسﱡرْعة
+14.61	week	أُسْبُوع
+14.62	Sunday	يَوْمُالأحد
+14.63	Monday	يَوْمُاﻹثْنَيْن
+14.64	Tuesday	يَوْمُالثﱡﻻثاء
+14.65	Wednesday	يَوْمُالأرْبِعاء
+14.66	Thursday	يَوْمُالخمِيس
+14.67	Friday	يَوْمُالجُمْعة
+14.68	Saturday	يَوْمُالسﱠبْت
+14.71	month	شهْر
+14.73	year	سنة
+14.73	year	عام
+14.73	year	حَوْل
+14.74	winter	شِتاء
+14.75	spring	ربِيع
+14.76	summer	صَيْف
+14.77	autumn	خرِيف
+14.78	season	فصْلمِنفُصُولالسﱠنةالأرْبعة
+15.21	smell (vb intrans)	فَاحَ
+15.21	smell (vb intrans)	فاحَترائِحةٌ
+15.212	sniff	شَمْشَمَ
+15.22	smell (vb trans)	شَمﱠ
+15.22	smell (vb trans)	اِشْتَمﱠ
+15.25	fragrant, good smelling	عِطْرِيّ
+15.25	fragrant, good smelling	عطِر
+15.26	stinking, bad smelling	نتِن
+15.26	stinking, bad smelling	مُنْتِن
+15.31	taste	ذَاقَ
+15.31	taste	اِخْتَبَرَطعْمَهُ
+15.35	sweet	حُلْو
+15.36	salty	مالِح
+15.36	salty	مِلْحِيّ
+15.37	bitter	مُرّ
+15.38	acid, sour	حامِض
+15.39	brackish	مالِحٌقلِيﻻً
+15.39	brackish	كرِيه
+15.41	hear	سَمِعَ
+15.42	listen	اِسْتَمَعَإلىَ
+15.44	sound, noise	صَوْت
+15.44	sound, noise	ضَوْضاء
+15.44	sound, noise	ضجﱠة
+15.45	loud	بِصَوْتٍعالٍ
+15.46	quiet, silence	هُدُوء
+15.51	see	رَأَى
+15.52	look, look at	نَظَرَإلَى
+15.55	show	أَرَى
+15.55	show	أَظْهَرَ
+15.55	show	أَشارَإلَى
+15.56	shine	لَمَعَ
+15.56	shine	أَضَاءَ
+15.56	shine	أَشْرَقَ
+15.57	bright	نَيﱢر
+15.57	bright	مُضِيء
+15.57	bright	زاهٍ
+15.61	color	لَوْن
+15.62	light (in color)	فاتِح
+15.63	dark (in color)	غامِق
+15.63	dark (in color)	قاتِم
+15.64	white	أبْيَض
+15.65	black	أسْوَد
+15.66	red	أحْمر
+15.67	blue	أزْرق
+15.68	green	أخْضر
+15.69	yellow	أصْفر
+15.71	touch	لَمَسَ
+15.71	touch	مَسﱢ
+15.712	pinch	قَرَصَ
+15.72	feel	شَعَرَبِ
+15.74	hard	صُلْب
+15.74	hard	قاسٍ
+15.74	hard	جامِد
+15.75	soft	ليﱢن
+15.75	soft	ناعِم
+15.76	rough	خشِن
+15.76	rough	فظّ
+15.77	smooth	أمْلس
+15.77	smooth	سهْل
+15.78	sharp	حادّ
+15.78	sharp	قاطِع
+15.79	blunt, dull	كلِيل
+15.79	blunt, dull	غيْرحادّ
+15.81	heavy	ثقِيل
+15.82	light (in weight)	خفِيف
+15.83	wet, damp	رطْب
+15.83	wet, damp	ندِيّ
+15.83	wet, damp	مُبْتلّ
+15.84	dry	جافّ
+15.84	dry	ناشِف
+15.85	hot	حارّ
+15.85	hot	ساخِن
+15.851	warm	دافِىء
+15.851	warm	دفِيء
+15.86	cold	بارِد
+15.87	clean	نظِيف
+15.88	dirty, soiled	وَسِخ
+15.88	dirty, soiled	قذِر
+15.89	wrinkled	مُجعﱠدالجِلْد
+16.11	soul, spirit	نفْس
+16.11	soul, spirit	رُوح
+16.15	surprised, astonished	مدْهُوش
+16.15	surprised, astonished	مذْهُول
+16.18	good fortune, luck	حظّ
+16.18	good fortune, luck	بخْت
+16.19	misfortune, bad luck	سُوءُالحظﱢ
+16.23	joyful, glad, happy	فرِح
+16.23	joyful, glad, happy	فرْحان
+16.23	joyful, glad, happy	مسْرُور
+16.23	joyful, glad, happy	سعِيد
+16.25	laugh	ضَحِكَ
+16.251	smile	اِبْتَسَمَ
+16.26	play	لَعِبَ
+16.26	play	لَهَا
+16.27	love	أَحَبﱠ
+16.27	love	حُبّ
+16.29	kiss	قَبﱠلَ
+16.29	kiss	بَاسَ
+16.3	embrace	عَانَقَ
+16.31	pain	ألم
+16.32	grief, sorrow, sadness	حُزْن
+16.32	grief, sorrow, sadness	غَمّ
+16.32	grief, sorrow, sadness	كآبة
+16.32	grief, sorrow, sadness	كرْب
+16.33	anxiety, worry	قلق
+16.34	regret, be sorry	تَأَسﱠفَ
+16.35	pity	شفقة
+16.35	pity	حنان
+16.37	cry, weep	بَكَى
+16.38	tear (noun)	دمْع
+16.38	tear (noun)	دمْعة
+16.39	groan	أَنﱠ
+16.41	hate	كُرْه
+16.41	hate	كراهة
+16.41	hate	بُغْض
+16.42	anger	غضب
+16.44	envy, jealousy	حسد
+16.44	envy, jealousy	غِيرة
+16.45	shame (noun)	خجل
+16.45	shame (noun)	حَياء
+16.48	proud	فخُور
+16.51	dare	جَرُؤَعلى
+16.51	dare	تَجَاسَرَ
+16.52	brave	شُجاع
+16.53	fear, fright	خَوْف
+16.53	fear, fright	رُعْب
+16.54	danger	خطر
+16.62	desire, want	أَرَادَ
+16.62	desire, want	رَغِبَفِي
+16.62	desire, want	حَرَصَ
+16.622	choose	اِخْتَارَ
+16.63	hope	أَمَلَ
+16.63	hope	رَجَا
+16.65	faithful	مُخْلِص
+16.66	true	حقِيقِيّ
+16.66	true	صحِيح
+16.67	lie, tell lies	كَذَبَ
+16.68	deceit	خِداع
+16.68	deceit	غِشّ
+16.69	forgive	عَذَرَ
+16.69	forgive	غَفَرَ
+16.69	forgive	صَفَحَعن
+16.71	good	جَيﱢد
+16.71	good	طَيﱢب
+16.72	bad	سَيﱢىء
+16.72	bad	ردِيء
+16.73	right, correct	صحِيح
+16.73	right, correct	صَواب
+16.74	wrong	خاطِىء
+16.74	wrong	خطأ
+16.74	wrong	مُخْطِىء
+16.76	fault	ذنْب
+16.76	fault	جُنْحة
+16.76	fault	جُناح
+16.77	mistake, error	غلط
+16.77	mistake, error	خطأ
+16.78	blame	لَوْم
+16.78	blame	مﻻمة
+16.78	blame	ذمّ
+16.79	praise	مدْح
+16.79	praise	حمْد
+16.81	beautiful	جمِيل
+16.81	beautiful	حسن
+16.81	beautiful	وَسِيم
+16.82	ugly	قبِيح
+16.82	ugly	بشِع
+16.83	greedy	جشِع
+16.83	greedy	طمﱠاع
+16.83	greedy	شرِه
+16.84	clever	ذكِيّ
+16.84	clever	شاطِر
+17.11	mind	عقْل
+17.13	think (= reflect)	فَكﱠرَ
+17.13	think (= reflect)	اِفْتَكَرَ
+17.14	think (= be of the opinion)	اِعْتَقَدَ
+17.14	think (= be of the opinion)	رَأَى
+17.14	think (= be of the opinion)	فَكﱠرَ
+17.14	think (= be of the opinion)	ظَنﱠ
+17.15	believe	صَدﱠقَ
+17.16	understand	فَهِمَ
+17.16	understand	أَدْرَكَ
+17.17	know	عَرَفَ
+17.17	know	عَلِمَ
+17.17	know	أَدْرَكَ
+17.171	guess	خَمﱠنَ
+17.171	guess	حَزَرَ
+17.171	guess	قَدﱠرَ
+17.172	imitate	قَلﱠدَ
+17.172	imitate	حَاكَى
+17.18	seem	بَدَا
+17.18	seem	ظَهَرَ
+17.19	idea, notion	فِكْرة
+17.19	idea, notion	مفْهُوم
+17.19	idea, notion	تصَوﱡر
+17.21	wise	حكِيم
+17.22	foolish, stupid	أبْله
+17.22	foolish, stupid	أحْمق
+17.23	insane, crazy	مجْنُون
+17.23	insane, crazy	مُخبﱠل
+17.23	insane, crazy	مخْبُول
+17.24	learn	تَعَلﱠمَ
+17.242	study	دَرَسَ
+17.25	teach	عَلﱠمَ
+17.25	teach	دَرﱠسَ
+17.26	pupil	تِلْمِيذ
+17.26	pupil	طالِب
+17.27	teacher	مُعلﱢم
+17.27	teacher	مُدرﱢس
+17.28	school	مدْرسة
+17.31	remember	تَذَكﱠرَ
+17.32	forget	نَسِيَ
+17.34	clear, plain	واضِح
+17.34	clear, plain	جلِيّ
+17.35	obscure	غامِض
+17.35	obscure	مغْمُور
+17.36	secret	سِرّ
+17.37	sure, certain	أكِيد
+17.37	sure, certain	مُؤكﱠد
+17.38	explain	شَرَحَ
+17.38	explain	فَسﱠرَ
+17.38	explain	أَوْضَحَ
+17.41	intention, purpose	نِيﱠة
+17.41	intention, purpose	قصْد
+17.41	intention, purpose	غاية
+17.41	intention, purpose	عمْد
+17.42	cause	سبب
+17.42	cause	عِلﱠة
+17.43	doubt	شَكﱠفي
+17.44	suspect	اِرْتَابَفي
+17.44	suspect	اِشْتَبَهَفي
+17.441	betray	خَانَ
+17.441	betray	غَدَرَ
+17.45	need, necessity	حاجة
+17.45	need, necessity	اِحْتِياج
+17.45	need, necessity	لُزُوم
+17.46	easy	سهْل
+17.46	easy	هَيﱢن
+17.47	difficult	صعْب
+17.47	difficult	عسِير
+17.48	try, attempt	جَرﱠبَ
+17.48	try, attempt	حَاوَلَ
+17.49	way, manner	طرِيقة
+17.49	way, manner	كَيْفِيﱠة
+17.49	way, manner	أُسْلُوب
+17.51	and	وَ
+17.52	because	لِأَنﱠ
+17.53	if	إذْ
+17.53	if	إنْ
+17.53	if	لَوْ
+17.53	if	لَوْأَنﱠ
+17.54	or	أوْ
+17.54	or	أمْ
+17.55	yes, affirmative	نعمْ
+17.55	yes, affirmative	بلى
+17.55	yes, affirmative	إيْجابِيّ
+17.56	no, negative	ﻻ
+17.56	no, negative	سلْبِيّ
+17.61	how?	كَيْفَ
+17.62	how many?	كَمْ
+17.63	how much?	كَمْمِن
+17.64	what?	ماذا
+17.65	when?	متى
+17.66	where?	أَيْنَ
+17.67	which?	أَيّ
+17.68	who?	منْ
+17.69	why?	لِماذا
+17.69	why?	لِما
+18.11	voice	صَوْت
+18.12	sing	غَنﱠى
+18.12	sing	أَنْشَدَ
+18.13	shout, cry out	صَاحَ
+18.15	whisper	هَمَسَ
+18.16	mumble	تَمْتَمَ
+18.16	mumble	غَمْغَمَ
+18.17	whistle	صَفَرَ
+18.17	whistle	أَحْدَثَصفِيراً
+18.18	shriek, screech	صَرَخَ
+18.19	howl	عَوَى
+18.21	speak, talk	تَكَلﱠمَ
+18.21	speak, talk	تَحَدﱠثَ
+18.211	stutter, stammer	تَأْتَأَ
+18.211	stutter, stammer	فَأْفَأَ
+18.22	say	قَالَ
+18.221	tell story	حَكَى
+18.221	tell story	قَصﱠ
+18.221	tell story	رَوَى
+18.23	silent (be)	سَكَتَ
+18.24	language	لُغة
+18.24	language	لِسان
+18.26	word	كلِمة
+18.26	word	لفْظة
+18.28	name	اِسْم
+18.31	ask (question, inquire)	سَأَلَعن
+18.32	answer	أَجَابَ
+18.32	answer	رَدﱠ
+18.33	admit, confess	اِعْتَرَفَب
+18.33	admit, confess	أَقَرﱠب
+18.34	deny	أَنْكَرَ
+18.35	ask, request	طَلَبَ
+18.36	promise	وَعَدَ
+18.37	refuse	رَفَضَ
+18.38	forbid	مَنَعَ
+18.38	forbid	حَرﱠمَ
+18.39	rebuke, scold	وَبﱠخَ
+18.39	rebuke, scold	أَنﱠبَ
+18.41	call (=summon)	دَعَا
+18.41	call (=summon)	نَادَى
+18.42	call (=name)	سَمﱠى
+18.43	announce	أَعْلَنَ
+18.43	announce	أَبْلَغَ
+18.44	threaten	هَدﱠدَ
+18.44	threaten	تَوَعﱠدَ
+18.45	boast	تَبَاهَىب
+18.51	write	كَتَبَ
+18.52	read	قَرَأَﻻ
+18.56	paper	ورقة
+18.57	pen	قلم
+18.61	book	كِتاب
+18.67	poet	شاعِر
+18.67	poet	ناظِمُالشﱢعْر
+18.71	flute	ناي
+18.71	flute	فلوت
+18.72	drum	طبْلة
+18.73	horn, trumpet	بُوْق
+18.73	horn, trumpet	نفِير
+18.74	rattle	خشْخشة
+18.74	rattle	قعْقعة
+19.11	country	بلد
+19.12	one's native country	وطن
+19.15	city, town	مدِينة
+19.16	village	قرْية
+19.17	boundary	حدّ
+19.17	boundary	تخْم
+19.21	people (populace)	ناس
+19.21	people (populace)	بشر
+19.23	tribe, clan	قبِيلة
+19.23	tribe, clan	عشِيرة
+19.24	chief, chieftain	رَئِيس
+19.24	chief, chieftain	سَيﱢد
+19.24	chief, chieftain	شَيْخ
+19.24	chief, chieftain	زعِيم
+19.25	staff, walking stick	عصاً
+19.25	staff, walking stick	عُكﱠاز
+19.31	rule, govern	حَكَمَ
+19.31	rule, govern	أَدَارَ
+19.32	king, ruler	ملِك
+19.32	king, ruler	عاهِل
+19.32	king, ruler	حاكِم
+19.33	queen	ملِكة
+19.36	noble, nobleman	شرِيف
+19.36	noble, nobleman	نبِيل
+19.37	citizen, subject	مُواطِن
+19.37	citizen, subject	رعِيﱠة
+19.41	master	سَيﱢد
+19.41	master	مَوْلىً
+19.42	slave	عبْد
+19.42	slave	عبِيد
+19.42	slave	رقِيق
+19.43	servant	خادِم
+19.44	freeman	شخْصحُرّ
+19.45	command, order	أَمَرَ
+19.46	obey	أَطَاعَ
+19.47	let, permit	سَمَحَ
+19.47	let, permit	أَجَازَ
+19.47	let, permit	رَخﱠصَ
+19.51	friend, companion	صدِيق
+19.51	friend, companion	صاحِب
+19.51	friend, companion	رفِيق
+19.52	enemy	عدُوّ
+19.52	enemy	خصْم
+19.54	neighbor	جار
+19.55	stranger	أجْنبِيّ
+19.55	stranger	غرِيب
+19.56	guest	ضَيْف
+19.56	guest	نزِيل
+19.56	guest	زائِر
+19.57	host	مُضِيف
+19.58	help, aid	سَاعَدَ
+19.58	help, aid	عَاوَنَ
+19.59	hinder, prevent	عَاقَ
+19.59	hinder, prevent	أَعَاقَ
+19.59	hinder, prevent	حَالَدُونَ
+19.59	hinder, prevent	مَنَعَ
+19.61	custom	عادة
+19.61	custom	عُرْف
+19.62	strife, quarrel	نِزاع
+19.62	strife, quarrel	شِجار
+19.62	strife, quarrel	مُشاجرة
+19.62	strife, quarrel	نِضال
+19.63	conspiracy, plot	تآمُر
+19.63	conspiracy, plot	مُؤامرة
+19.65	meet	ﻻقَى
+19.65	meet	لَقِيَ
+19.65	meet	اِلْتَقَى
+19.65	meet	قَابَلَ
+19.72	prostitute	مُوْمِسة
+20.11	fight (vb)	كَافَحَ
+20.11	fight (vb)	تَقَاتَلَ
+20.13	war, battle	حرْب
+20.13	war, battle	معْركة
+20.14	peace	سﻻم
+20.14	peace	سِلْم
+20.15	army	جَيْش
+20.17	soldier	عسْكرِيّ
+20.17	soldier	جُنْدِيّ
+20.21	weapons, arms	سِﻻح
+20.21	weapons, arms	أسْلِحة
+20.22	club	هِراوَة
+20.222	battle-ax	فأْسُالحرْب
+20.23	sling	مِقْﻻع
+20.24	bow	قَوْس
+20.25	arrow	سهْم
+20.25	arrow	نبْلة
+20.26	spear	رُمْح
+20.27	sword	سَيْف
+20.27	sword	حُسام
+20.28	gun, cannon	بُنْدُقِيﱠة
+20.28	gun, cannon	مِدْفع
+20.31	armor (defensive)	دِرْعكامِل
+20.33	helmet	خُوْذة
+20.33	helmet	قُبﱠعةُالمُحارِب
+20.34	shield	تُرْس
+20.34	shield	دِرْع
+20.35	fortress	قلْعة
+20.35	fortress	حِصْن
+20.36	tower	بُرْج
+20.41	victory	نصْر
+20.41	victory	اِنْتِصار
+20.41	victory	غلبة
+20.42	defeat	هزِيمة
+20.42	defeat	اِنْدِحار
+20.43	attack	هَاجَمَ
+20.43	attack	هَجَمَعلى
+20.44	defend	دَافَعَعن
+20.45	retreat	اِنْسَحَبَ
+20.46	surrender	اِسْتَسْلَمَ
+20.47	captive, prisoner	أسِير
+20.47	captive, prisoner	سجِين
+20.471	guard, sentinel	حارِس
+20.471	guard, sentinel	حرس
+20.471	guard, sentinel	خفِير
+20.48	booty, spoils	غنِيمة
+20.48	booty, spoils	أسْﻻب
+20.49	ambush	كمِين
+20.49	ambush	مكْمن
+20.49	ambush	فخّ
+20.51	fisherman	صَيﱠادُالسﱠمك
+20.52	fishhook	صِنﱠارة
+20.52	fishhook	شِصّ
+20.53	fishing line	خَيْطُالصﱢنﱠارة
+20.54	fishnet	شبكةالسﱠمك
+20.55	fish trap	فخّالسﱠمك
+20.56	bait	طُعْملِلصﱠيْد
+20.61	hunt	صَادَ
+20.62	shoot	أَطْلَقَالرﱠصاص
+20.63	miss (target)	أَخْطَأَهدفاً
+20.64	trap (noun)	فخّ
+20.64	trap (noun)	شرك
+20.64	trap (noun)	مِصْيدة
+20.65	trap (vb)	أَوْقَعَفيشرك
+20.65	trap (vb)	فخّ
+21.11	law	قانُون
+21.11	law	الحُقُوق
+21.15	court	محْكمة
+21.16	judge (vb)	حَكَمَعلى
+21.16	judge (vb)	حَاكَمَ
+21.17	judgment	حُكْم
+21.17	judgment	قرار
+21.18	judge (noun)	حاكِم
+21.18	judge (noun)	قاضٍ
+21.21	plaintiff	مُدﱠعٍ
+21.22	defendant	مُتﱠهم
+21.23	witness	شاهِد
+21.24	swear	أَقْسَمَ
+21.24	swear	حَلَفَ
+21.25	oath	يَمِين
+21.25	oath	حلْف
+21.25	oath	قسم
+21.31	accuse	اِتﱠهَمَ
+21.32	condemn	اِسْتَنْكَرَ
+21.32	condemn	شَجَبَ
+21.33	convict (vb)	أَدَانَ
+21.33	convict (vb)	جَرﱠمَ
+21.34	acquit	بَرﱠأَ
+21.34	acquit	أَعْفَى
+21.35	guilty	مُذْنِب
+21.36	innocent	برِيء
+21.37	penalty, punishment	عِقاب
+21.37	penalty, punishment	عُقُوبة
+21.37	penalty, punishment	جزاء
+21.38	fine	غرامة
+21.39	prison, jail	سِجْن
+21.39	prison, jail	حبْس
+21.42	murder	قتْل
+21.42	murder	اِغْتِيال
+21.43	adultery	زِناً
+21.43	adultery	زِناء
+21.44	rape	اِغْتِصابامْرأْةٍ
+21.46	arson	إحْراقُالمبانِيعمْداً
+21.47	perjury	الحلْفكذِباً
+21.47	perjury	حِنْثبِاليَمِين
+21.51	steal	سَرَقَ
+21.52	thief	سارِق
+21.52	thief	لِصّ

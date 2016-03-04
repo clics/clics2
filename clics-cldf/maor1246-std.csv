@@ -1,0 +1,2122 @@
+ID,Language_ID,Feature_ID,IDS_Key,Value,Concept,IPA_UDECODE
+clics-doculect-183-1,maor1246-std,concepticon-965,1.1,ao,world,ao
+clics-doculect-183-2,maor1246-std,concepticon-626,1.21,ao,"earth, land",ao
+clics-doculect-183-3,maor1246-std,concepticon-626,1.21,whenua,"earth, land",whenua
+clics-doculect-183-4,maor1246-std,concepticon-1228,1.212,oneone,"earth=ground, soil",oneone
+clics-doculect-183-5,maor1246-std,concepticon-1228,1.212,paru,"earth=ground, soil",paru
+clics-doculect-183-6,maor1246-std,concepticon-1228,1.212,whenua,"earth=ground, soil",whenua
+clics-doculect-183-7,maor1246-std,concepticon-1228,1.212,papa,"earth=ground, soil",papa
+clics-doculect-183-8,maor1246-std,concepticon-2,1.213,nehu,dust,nehu
+clics-doculect-183-9,maor1246-std,concepticon-2,1.213,puehu,dust,puehu
+clics-doculect-183-10,maor1246-std,concepticon-640,1.214,paru,mud,paru
+clics-doculect-183-11,maor1246-std,concepticon-640,1.214,paruparu,mud,paruparu
+clics-doculect-183-12,maor1246-std,concepticon-640,1.214,one,mud,one
+clics-doculect-183-13,maor1246-std,concepticon-671,1.215,onepuu,sand,onepuu
+clics-doculect-183-14,maor1246-std,concepticon-671,1.215,one,sand,one
+clics-doculect-183-15,maor1246-std,concepticon-2118,1.22,mauŋa,"mountain, hill",mauNGa
+clics-doculect-183-16,maor1246-std,concepticon-2118,1.22,puke,"mountain, hill",puke
+clics-doculect-183-17,maor1246-std,concepticon-618,1.222,pari,"cliff, precipice",pari
+clics-doculect-183-18,maor1246-std,concepticon-652,1.23,paatiki,"plain, field",paatiki
+clics-doculect-183-19,maor1246-std,concepticon-652,1.23,taiapa,"plain, field",taiapa
+clics-doculect-183-20,maor1246-std,concepticon-652,1.23,maania,"plain, field",maania
+clics-doculect-183-21,maor1246-std,concepticon-652,1.23,raorao,"plain, field",raorao
+clics-doculect-183-22,maor1246-std,concepticon-652,1.23,parae,"plain, field",parae
+clics-doculect-183-23,maor1246-std,concepticon-921,1.24,awaawa,valley,awaawa
+clics-doculect-183-24,maor1246-std,concepticon-921,1.24,riu,valley,riu
+clics-doculect-183-25,maor1246-std,concepticon-921,1.24,whaarua,valley,whaarua
+clics-doculect-183-26,maor1246-std,concepticon-622,1.25,motu,island,motu
+clics-doculect-183-27,maor1246-std,concepticon-622,1.25,moutere,island,moutere
+clics-doculect-183-28,maor1246-std,concepticon-166,1.26,tuawhenua,mainland,tuawhenua
+clics-doculect-183-29,maor1246-std,concepticon-113,1.27,taha,shore,taha
+clics-doculect-183-30,maor1246-std,concepticon-113,1.27,tahataha,shore,tahataha
+clics-doculect-183-31,maor1246-std,concepticon-113,1.27,pareŋa,shore,pareNGa
+clics-doculect-183-32,maor1246-std,concepticon-113,1.27,one,shore,one
+clics-doculect-183-33,maor1246-std,concepticon-1155,1.28,ana,cave,ana
+clics-doculect-183-34,maor1246-std,concepticon-1155,1.28,rua,cave,rua
+clics-doculect-183-35,maor1246-std,concepticon-948,1.31,wai,water,wai
+clics-doculect-183-36,maor1246-std,concepticon-1474,1.32,moana,sea,moana
+clics-doculect-183-37,maor1246-std,concepticon-1474,1.32,tai,sea,tai
+clics-doculect-183-38,maor1246-std,concepticon-259,1.323,ŋaruŋaru,rough (of sea),NGaruNGaru
+clics-doculect-183-39,maor1246-std,concepticon-259,1.323,karekare,rough (of sea),karekare
+clics-doculect-183-40,maor1246-std,concepticon-1768,1.324,huka,foam,huka
+clics-doculect-183-41,maor1246-std,concepticon-645,1.329,moana,ocean,moana
+clics-doculect-183-42,maor1246-std,concepticon-624,1.33,roto,lake,roto
+clics-doculect-183-43,maor1246-std,concepticon-624,1.33,moana,lake,moana
+clics-doculect-183-44,maor1246-std,concepticon-663,1.34,kokoru,"gulf, bay",kokoru
+clics-doculect-183-45,maor1246-std,concepticon-1662,1.343,rae,"headland, point",rae
+clics-doculect-183-46,maor1246-std,concepticon-1662,1.343,kuurae,"headland, point",kuurae
+clics-doculect-183-47,maor1246-std,concepticon-1662,1.343,more,"headland, point",more
+clics-doculect-183-48,maor1246-std,concepticon-1662,1.343,kuumore,"headland, point",kuumore
+clics-doculect-183-49,maor1246-std,concepticon-978,1.35,ŋaru,wave,NGaru
+clics-doculect-183-50,maor1246-std,concepticon-891,1.352,tai,tide,tai
+clics-doculect-183-51,maor1246-std,concepticon-1026,1.353,taitimu,lowtide,taitimu
+clics-doculect-183-52,maor1246-std,concepticon-1026,1.353,timu,lowtide,timu
+clics-doculect-183-53,maor1246-std,concepticon-1026,1.353,mimiti,lowtide,mimiti
+clics-doculect-183-54,maor1246-std,concepticon-613,1.354,taipari,hightide,taipari
+clics-doculect-183-55,maor1246-std,concepticon-666,1.36,awa,"river, stream, brook",awa
+clics-doculect-183-56,maor1246-std,concepticon-666,1.36,maŋa,"river, stream, brook",maNGa
+clics-doculect-183-57,maor1246-std,concepticon-666,1.36,wai,"river, stream, brook",wai
+clics-doculect-183-58,maor1246-std,concepticon-1982,1.362,riporipo,whirlpool,riporipo
+clics-doculect-183-59,maor1246-std,concepticon-1982,1.362,aawhiowhio,whirlpool,aawhiowhio
+clics-doculect-183-60,maor1246-std,concepticon-2144,1.37,puna,"spring, well",puna
+clics-doculect-183-61,maor1246-std,concepticon-2144,1.37,pokawai,"spring, well",pokawai
+clics-doculect-183-62,maor1246-std,concepticon-1145,1.38,repo,swamp,repo
+clics-doculect-183-63,maor1246-std,concepticon-943,1.39,rere,waterfall,rere
+clics-doculect-183-64,maor1246-std,concepticon-943,1.39,taaheke,waterfall,taaheke
+clics-doculect-183-65,maor1246-std,concepticon-943,1.39,wairere,waterfall,wairere
+clics-doculect-183-66,maor1246-std,concepticon-420,1.41,ŋahere,"woods, forest",NGahere
+clics-doculect-183-67,maor1246-std,concepticon-420,1.41,ŋaaherehere,"woods, forest",NGaaherehere
+clics-doculect-183-68,maor1246-std,concepticon-420,1.41,ŋaheŋahe,"woods, forest",NGaheNGahe
+clics-doculect-183-70,maor1246-std,concepticon-1803,1.43,raakau,wood,raakau
+clics-doculect-183-71,maor1246-std,concepticon-2125,1.44,koowhatu,"stone, rock",koowhatu
+clics-doculect-183-72,maor1246-std,concepticon-2125,1.44,koohatu,"stone, rock",koohatu
+clics-doculect-183-73,maor1246-std,concepticon-2125,1.44,poowhatu,"stone, rock",poowhatu
+clics-doculect-183-74,maor1246-std,concepticon-2125,1.44,poohatu,"stone, rock",poohatu
+clics-doculect-183-75,maor1246-std,concepticon-2125,1.44,toka,"stone, rock",toka
+clics-doculect-183-76,maor1246-std,concepticon-2125,1.44,kaamaka,"stone, rock",kaamaka
+clics-doculect-183-77,maor1246-std,concepticon-6,1.45,ruu,earthquake,ruu
+clics-doculect-183-78,maor1246-std,concepticon-6,1.45,wiri,earthquake,wiri
+clics-doculect-183-79,maor1246-std,concepticon-6,1.45,ŋapu,earthquake,NGapu
+clics-doculect-183-80,maor1246-std,concepticon-1732,1.51,raŋi,sky,raNGi
+clics-doculect-183-81,maor1246-std,concepticon-1343,1.52,raa,sun,raa
+clics-doculect-183-82,maor1246-std,concepticon-1313,1.53,marama,moon,marama
+clics-doculect-183-83,maor1246-std,concepticon-1430,1.54,whetuu,star,whetuu
+clics-doculect-183-84,maor1246-std,concepticon-1654,1.55,uira,lightning,uira
+clics-doculect-183-85,maor1246-std,concepticon-1654,1.55,kanapu,lightning,kanapu
+clics-doculect-183-86,maor1246-std,concepticon-1654,1.55,hiko,lightning,hiko
+clics-doculect-183-87,maor1246-std,concepticon-1150,1.56,whatitiri,thunder,whatitiri
+clics-doculect-183-88,maor1246-std,concepticon-1150,1.56,whaitiri,thunder,whaitiri
+clics-doculect-183-89,maor1246-std,concepticon-858,1.58,tupuhi,storm,tupuhi
+clics-doculect-183-90,maor1246-std,concepticon-858,1.58,aawhaa,storm,aawhaa
+clics-doculect-183-91,maor1246-std,concepticon-1733,1.59,aaniwaniwa,rainbow,aaniwaniwa
+clics-doculect-183-92,maor1246-std,concepticon-1733,1.59,koopere,rainbow,koopere
+clics-doculect-183-93,maor1246-std,concepticon-1733,1.59,Kahukura,rainbow,Kahukura
+clics-doculect-183-94,maor1246-std,concepticon-630,1.61,raatana,light (noun),raatana
+clics-doculect-183-95,maor1246-std,concepticon-630,1.61,raiti,light (noun),raiti
+clics-doculect-183-96,maor1246-std,concepticon-630,1.61,rama,light (noun),rama
+clics-doculect-183-97,maor1246-std,concepticon-11,1.62,poouri,darkness,poouri
+clics-doculect-183-98,maor1246-std,concepticon-11,1.62,pooŋia,darkness,pooNGia
+clics-doculect-183-99,maor1246-std,concepticon-11,1.62,hinapoouri,darkness,hinapoouri
+clics-doculect-183-100,maor1246-std,concepticon-1388,1.63,whakamarumaru,"shade, shadow",whakamarumaru
+clics-doculect-183-101,maor1246-std,concepticon-1388,1.63,marumaru,"shade, shadow",marumaru
+clics-doculect-183-102,maor1246-std,concepticon-1977,1.64,haukuu,dew,haukuu
+clics-doculect-183-103,maor1246-std,concepticon-1977,1.64,toomairaŋi,dew,toomairaNGi
+clics-doculect-183-104,maor1246-std,concepticon-960,1.72,hau,wind,hau
+clics-doculect-183-105,maor1246-std,concepticon-960,1.72,muri,wind,muri
+clics-doculect-183-106,maor1246-std,concepticon-960,1.72,hauora,wind,hauora
+clics-doculect-183-107,maor1246-std,concepticon-1489,1.73,kapua,cloud,kapua
+clics-doculect-183-108,maor1246-std,concepticon-1489,1.73,aohia,cloud,aohia
+clics-doculect-183-109,maor1246-std,concepticon-1489,1.73,kopua,cloud,kopua
+clics-doculect-183-110,maor1246-std,concepticon-249,1.74,kohu,fog,kohu
+clics-doculect-183-111,maor1246-std,concepticon-249,1.74,puukohu,fog,puukohu
+clics-doculect-183-112,maor1246-std,concepticon-658,1.75,ua,rain (noun),ua
+clics-doculect-183-113,maor1246-std,concepticon-658,1.75,uaina,rain (noun),uaina
+clics-doculect-183-114,maor1246-std,concepticon-658,1.75,maraŋai,rain (noun),maraNGai
+clics-doculect-183-115,maor1246-std,concepticon-784,1.76,huka,snow (noun),huka
+clics-doculect-183-116,maor1246-std,concepticon-784,1.76,hukarere,snow (noun),hukarere
+clics-doculect-183-117,maor1246-std,concepticon-952,1.78,raŋi,weather,raNGi
+clics-doculect-183-118,maor1246-std,concepticon-221,1.81,ahi,fire,ahi
+clics-doculect-183-119,maor1246-std,concepticon-221,1.81,kaapura,fire,kaapura
+clics-doculect-183-120,maor1246-std,concepticon-889,1.82,mura,flame (noun),mura
+clics-doculect-183-121,maor1246-std,concepticon-778,1.83,paoa,smoke (noun),paoa
+clics-doculect-183-122,maor1246-std,concepticon-778,1.83,auahi,smoke (noun),auahi
+clics-doculect-183-123,maor1246-std,concepticon-646,1.84,puŋarehu,ashes,puNGarehu
+clics-doculect-183-124,maor1246-std,concepticon-67,1.841,ŋaarehu,embers,NGaarehu
+clics-doculect-183-125,maor1246-std,concepticon-67,1.841,waro,embers,waro
+clics-doculect-183-126,maor1246-std,concepticon-141,1.851,kaaŋia,burn (vb trans),kaaNGia
+clics-doculect-183-127,maor1246-std,concepticon-141,1.851,ŋiha,burn (vb trans),NGiha
+clics-doculect-183-128,maor1246-std,concepticon-141,1.851,tahuna,burn (vb trans),tahuna
+clics-doculect-183-129,maor1246-std,concepticon-141,1.851,tahu,burn (vb trans),tahu
+clics-doculect-183-130,maor1246-std,concepticon-737,1.86,tahuna,"light, kindle, ignite",tahuna
+clics-doculect-183-131,maor1246-std,concepticon-127,1.861,tineia,extinguish,tineia
+clics-doculect-183-132,maor1246-std,concepticon-1133,1.87,maati,match (noun),maati
+clics-doculect-183-133,maor1246-std,concepticon-10,1.88,wahie,firewood,wahie
+clics-doculect-183-134,maor1246-std,concepticon-10,1.88,peka,firewood,peka
+clics-doculect-183-135,maor1246-std,concepticon-1188,1.89,waro,charcoal,waro
+clics-doculect-183-136,maor1246-std,concepticon-683,2.1,taŋata,"person, human being",taNGata
+clics-doculect-183-137,maor1246-std,concepticon-683,2.1,paake,"person, human being",paake
+clics-doculect-183-138,maor1246-std,concepticon-683,2.1,pakeke,"person, human being",pakeke
+clics-doculect-183-139,maor1246-std,concepticon-1554,2.21,taŋata,man (vs. woman),taNGata
+clics-doculect-183-140,maor1246-std,concepticon-1554,2.21,taane,man (vs. woman),taane
+clics-doculect-183-141,maor1246-std,concepticon-1554,2.21,tama,man (vs. woman),tama
+clics-doculect-183-142,maor1246-std,concepticon-962,2.22,wahine,woman,wahine
+clics-doculect-183-143,maor1246-std,concepticon-962,2.22,waahine,woman,waahine
+clics-doculect-183-144,maor1246-std,concepticon-1553,2.23,toa,male,toa
+clics-doculect-183-145,maor1246-std,concepticon-1553,2.23,tame,male,tame
+clics-doculect-183-146,maor1246-std,concepticon-1553,2.23,taane,male,taane
+clics-doculect-183-147,maor1246-std,concepticon-1553,2.23,tama,male,tama
+clics-doculect-183-148,maor1246-std,concepticon-1551,2.24,wahine,female,wahine
+clics-doculect-183-149,maor1246-std,concepticon-1366,2.25,poai,boy,poai
+clics-doculect-183-150,maor1246-std,concepticon-1366,2.25,taitama,boy,taitama
+clics-doculect-183-151,maor1246-std,concepticon-1366,2.25,tamaiti,boy,tamaiti
+clics-doculect-183-152,maor1246-std,concepticon-76,2.251,taitama,young man (adolescent),taitama
+clics-doculect-183-153,maor1246-std,concepticon-1646,2.26,hine,girl,hine
+clics-doculect-183-154,maor1246-std,concepticon-1646,2.26,kootiro,girl,kootiro
+clics-doculect-183-155,maor1246-std,concepticon-1646,2.26,koohine,girl,koohine
+clics-doculect-183-156,maor1246-std,concepticon-1646,2.26,tamaahine,girl,tamaahine
+clics-doculect-183-157,maor1246-std,concepticon-77,2.261,taitamaahine,young woman (adolescent),taitamaahine
+clics-doculect-183-158,maor1246-std,concepticon-1304,2.27,tamaiti,child,tamaiti
+clics-doculect-183-159,maor1246-std,concepticon-1304,2.27,koohuŋahuŋa,child,koohuNGahuNGa
+clics-doculect-183-160,maor1246-std,concepticon-1289,2.28,peepi,"infant, baby",peepi
+clics-doculect-183-161,maor1246-std,concepticon-1200,2.31,taane,husband,taane
+clics-doculect-183-162,maor1246-std,concepticon-1199,2.32,wahine,wife,wahine
+clics-doculect-183-163,maor1246-std,concepticon-203,2.33,moea,marry,moea
+clics-doculect-183-164,maor1246-std,concepticon-203,2.33,moe,marry,moe
+clics-doculect-183-165,maor1246-std,concepticon-203,2.33,maarenatia,marry,maarenatia
+clics-doculect-183-166,maor1246-std,concepticon-203,2.33,whakamoea,marry,whakamoea
+clics-doculect-183-167,maor1246-std,concepticon-1259,2.34,maarenataŋa,"marriage, wedding",maarenataNGa
+clics-doculect-183-168,maor1246-std,concepticon-1217,2.35,paapaa,father,paapaa
+clics-doculect-183-169,maor1246-std,concepticon-1217,2.35,matuataane,father,matuataane
+clics-doculect-183-170,maor1246-std,concepticon-1216,2.36,matuawahine,mother,matuawahine
+clics-doculect-183-171,maor1246-std,concepticon-1216,2.36,whaea,mother,whaea
+clics-doculect-183-172,maor1246-std,concepticon-1216,2.36,whaaea,mother,whaaea
+clics-doculect-183-173,maor1246-std,concepticon-1216,2.36,kookaa,mother,kookaa
+clics-doculect-183-174,maor1246-std,concepticon-1216,2.36,Maamaa,mother,Maamaa
+clics-doculect-183-175,maor1246-std,concepticon-505,2.37,matua,parents,matua
+clics-doculect-183-176,maor1246-std,concepticon-505,2.37,maatua,parents,maatua
+clics-doculect-183-177,maor1246-std,concepticon-1620,2.41,tamaititaane,son,tamaititaane
+clics-doculect-183-178,maor1246-std,concepticon-1620,2.41,tama,son,tama
+clics-doculect-183-179,maor1246-std,concepticon-1357,2.42,tamaahine,daughter,tamaahine
+clics-doculect-183-180,maor1246-std,concepticon-1357,2.42,kootiro,daughter,kootiro
+clics-doculect-183-181,maor1246-std,concepticon-1801,2.43,uri,offspring (son or daughter),uri
+clics-doculect-183-182,maor1246-std,concepticon-1801,2.43,whaanau,offspring (son or daughter),whaanau
+clics-doculect-183-183,maor1246-std,concepticon-1801,2.43,tamariki,offspring (son or daughter),tamariki
+clics-doculect-183-184,maor1246-std,concepticon-1262,2.44,tuŋaane,brother,tuNGaane
+clics-doculect-183-185,maor1246-std,concepticon-1262,2.44,teina,brother,teina
+clics-doculect-183-186,maor1246-std,concepticon-1262,2.44,tuakana,brother,tuakana
+clics-doculect-183-187,maor1246-std,concepticon-1759,2.444,tuakana,older brother,tuakana
+clics-doculect-183-188,maor1246-std,concepticon-1760,2.445,teina,younger brother,teina
+clics-doculect-183-189,maor1246-std,concepticon-1263,2.45,tuahine,sister,tuahine
+clics-doculect-183-190,maor1246-std,concepticon-1263,2.45,teina,sister,teina
+clics-doculect-183-191,maor1246-std,concepticon-1263,2.45,tuakana,sister,tuakana
+clics-doculect-183-192,maor1246-std,concepticon-1758,2.454,tuakana,older sister,tuakana
+clics-doculect-183-193,maor1246-std,concepticon-1761,2.455,teina,younger sister,teina
+clics-doculect-183-194,maor1246-std,concepticon-1640,2.456,taina,sibling,taina
+clics-doculect-183-195,maor1246-std,concepticon-1640,2.456,teina,sibling,teina
+clics-doculect-183-196,maor1246-std,concepticon-1005,2.458,maahaŋa,twins,maahaNGa
+clics-doculect-183-197,maor1246-std,concepticon-1383,2.46,tupuna,grandfather,tupuna
+clics-doculect-183-198,maor1246-std,concepticon-406,2.461,koroua,old man,koroua
+clics-doculect-183-199,maor1246-std,concepticon-1496,2.47,tipuna,grandmother,tipuna
+clics-doculect-183-200,maor1246-std,concepticon-907,2.471,hākui,old woman,hakui
+clics-doculect-183-201,maor1246-std,concepticon-907,2.471,kuia,old woman,kuia
+clics-doculect-183-202,maor1246-std,concepticon-907,2.471,karawa,old woman,karawa
+clics-doculect-183-203,maor1246-std,concepticon-907,2.471,rūruhi,old woman,ruruhi
+clics-doculect-183-204,maor1246-std,concepticon-1618,2.48,mokopuna,grandson,mokopuna
+clics-doculect-183-205,maor1246-std,concepticon-1619,2.49,mokopuna,granddaughter,mokopuna
+clics-doculect-183-206,maor1246-std,concepticon-1327,2.51,matuakeekee,uncle,matuakeekee
+clics-doculect-183-207,maor1246-std,concepticon-1272,2.52,whaaea,aunt,whaaea
+clics-doculect-183-208,maor1246-std,concepticon-1272,2.52,matuakeekee,aunt,matuakeekee
+clics-doculect-183-209,maor1246-std,concepticon-1063,2.53,tamaiti,nephew,tamaiti
+clics-doculect-183-210,maor1246-std,concepticon-1063,2.53,iraamutu,nephew,iraamutu
+clics-doculect-183-211,maor1246-std,concepticon-1642,2.54,tamaiti,niece,tamaiti
+clics-doculect-183-212,maor1246-std,concepticon-1642,2.54,iraamutu,niece,iraamutu
+clics-doculect-183-213,maor1246-std,concepticon-1643,2.55,tuŋaane,cousin,tuNGaane
+clics-doculect-183-214,maor1246-std,concepticon-1643,2.55,tuahine,cousin,tuahine
+clics-doculect-183-215,maor1246-std,concepticon-1643,2.55,tuakana,cousin,tuakana
+clics-doculect-183-216,maor1246-std,concepticon-1643,2.55,teina,cousin,teina
+clics-doculect-183-217,maor1246-std,concepticon-1669,2.56,tupuna,ancestors,tupuna
+clics-doculect-183-218,maor1246-std,concepticon-1669,2.56,tipuna,ancestors,tipuna
+clics-doculect-183-219,maor1246-std,concepticon-490,2.57,uri,descendants,uri
+clics-doculect-183-220,maor1246-std,concepticon-490,2.57,aitaŋa,descendants,aitaNGa
+clics-doculect-183-221,maor1246-std,concepticon-2255,2.61,huŋawai,father-in-law (of a man),huNGawai
+clics-doculect-183-222,maor1246-std,concepticon-2255,2.61,huŋarei,father-in-law (of a man),huNGarei
+clics-doculect-183-223,maor1246-std,concepticon-2256,2.62,huŋawai,mother-in-law (of a man),huNGawai
+clics-doculect-183-224,maor1246-std,concepticon-2256,2.62,huŋarei,mother-in-law (of a man),huNGarei
+clics-doculect-183-225,maor1246-std,concepticon-2267,2.63,hunaoŋa,son-in-law (of a man),hunaoNGa
+clics-doculect-183-226,maor1246-std,concepticon-2265,2.64,hunaoŋa,daughter-in-law (of a man),hunaoNGa
+clics-doculect-183-227,maor1246-std,concepticon-1149,2.75,pani,orphan,pani
+clics-doculect-183-228,maor1246-std,concepticon-1756,2.76,pouaru,widow,pouaru
+clics-doculect-183-229,maor1246-std,concepticon-1644,2.81,huaaŋa,"relatives, kinsmen",huaaNGa
+clics-doculect-183-230,maor1246-std,concepticon-1644,2.81,paaŋa,"relatives, kinsmen",paaNGa
+clics-doculect-183-231,maor1246-std,concepticon-1644,2.81,whanauŋa,"relatives, kinsmen",whanauNGa
+clics-doculect-183-232,maor1246-std,concepticon-194,2.82,whaanau,family,whaanau
+clics-doculect-183-233,maor1246-std,concepticon-1209,2.91,au,I,au
+clics-doculect-183-234,maor1246-std,concepticon-1209,2.91,ahau,I,ahau
+clics-doculect-183-235,maor1246-std,concepticon-1209,2.91,awau,I,awau
+clics-doculect-183-236,maor1246-std,concepticon-1209,2.91,hau,I,hau
+clics-doculect-183-237,maor1246-std,concepticon-1215,2.92,koe,you (singular),koe
+clics-doculect-183-238,maor1246-std,concepticon-262,2.93,ia,he/she/it,ia
+clics-doculect-183-239,maor1246-std,concepticon-262,2.93,iia,he/she/it,iia
+clics-doculect-183-240,maor1246-std,concepticon-1212,2.94,taaua,we,taaua
+clics-doculect-183-241,maor1246-std,concepticon-1212,2.94,maaua,we,maaua
+clics-doculect-183-242,maor1246-std,concepticon-1212,2.94,taatou,we,taatou
+clics-doculect-183-243,maor1246-std,concepticon-1212,2.94,maatou,we,maatou
+clics-doculect-183-244,maor1246-std,concepticon-1131,2.941,taaou,we (inclusive),taaou
+clics-doculect-183-245,maor1246-std,concepticon-1131,2.941,taaua,we (inclusive),taaua
+clics-doculect-183-246,maor1246-std,concepticon-1130,2.942,maatau,we (exclusive),maatau
+clics-doculect-183-247,maor1246-std,concepticon-1130,2.942,maatou,we (exclusive),maatou
+clics-doculect-183-248,maor1246-std,concepticon-1130,2.942,maaua,we (exclusive),maaua
+clics-doculect-183-249,maor1246-std,concepticon-1213,2.95,koutou,you (plural),koutou
+clics-doculect-183-250,maor1246-std,concepticon-817,2.96,raaua,they,raaua
+clics-doculect-183-251,maor1246-std,concepticon-817,2.96,raatou,they,raatou
+clics-doculect-183-252,maor1246-std,concepticon-817,2.96,taatau,they,taatau
+clics-doculect-183-253,maor1246-std,concepticon-619,3.11,kararehe,animal,kararehe
+clics-doculect-183-254,maor1246-std,concepticon-2261,3.12,toa,male (adj),toa
+clics-doculect-183-255,maor1246-std,concepticon-2261,3.12,tame,male (adj),tame
+clics-doculect-183-256,maor1246-std,concepticon-2262,3.13,uha,female (adj),uha
+clics-doculect-183-257,maor1246-std,concepticon-2262,3.13,uwha,female (adj),uwha
+clics-doculect-183-258,maor1246-std,concepticon-631,3.15,kaahui,livestock,kaahui
+clics-doculect-183-259,maor1246-std,concepticon-631,3.15,maapu,livestock,maapu
+clics-doculect-183-260,maor1246-std,concepticon-263,3.18,heepara,herdsman,heepara
+clics-doculect-183-261,maor1246-std,concepticon-851,3.19,teepara,"stable, stall",teepara
+clics-doculect-183-262,maor1246-std,concepticon-1169,3.22,okiha,ox,okiha
+clics-doculect-183-263,maor1246-std,concepticon-1007,3.23,kau,cow,kau
+clics-doculect-183-264,maor1246-std,concepticon-1989,3.24,kaawhe,calf,kaawhe
+clics-doculect-183-265,maor1246-std,concepticon-1331,3.25,hipi,sheep,hipi
+clics-doculect-183-266,maor1246-std,concepticon-820,3.29,reeme,lamb,reeme
+clics-doculect-183-267,maor1246-std,concepticon-1348,3.32,taariana,boar,taariana
+clics-doculect-183-268,maor1246-std,concepticon-1348,3.32,tamepoaka,boar,tamepoaka
+clics-doculect-183-269,maor1246-std,concepticon-1351,3.34,uwhapoaka,sow,uwhapoaka
+clics-doculect-183-270,maor1246-std,concepticon-1351,3.34,whaereere,sow,whaereere
+clics-doculect-183-271,maor1246-std,concepticon-1337,3.35,poaka,pig,poaka
+clics-doculect-183-272,maor1246-std,concepticon-1337,3.35,pooaka,pig,pooaka
+clics-doculect-183-273,maor1246-std,concepticon-1502,3.36,koati,goat,koati
+clics-doculect-183-274,maor1246-std,concepticon-1502,3.36,nanenane,goat,nanenane
+clics-doculect-183-275,maor1246-std,concepticon-615,3.41,hooiho,horse (equine),hooiho
+clics-doculect-183-276,maor1246-std,concepticon-936,3.42,taariana,stallion,taariana
+clics-doculect-183-277,maor1246-std,concepticon-1862,3.46,kaaihe,"ass, donkey",kaaihe
+clics-doculect-183-278,maor1246-std,concepticon-265,3.5,heihei,fowl,heihei
+clics-doculect-183-279,maor1246-std,concepticon-265,3.5,piikaokao,fowl,piikaokao
+clics-doculect-183-280,maor1246-std,concepticon-265,3.5,tiikaokao,fowl,tiikaokao
+clics-doculect-183-281,maor1246-std,concepticon-1514,3.54,heihei,hen,heihei
+clics-doculect-183-282,maor1246-std,concepticon-1514,3.54,piikaokao,hen,piikaokao
+clics-doculect-183-283,maor1246-std,concepticon-1514,3.54,tiikaokao,hen,tiikaokao
+clics-doculect-183-284,maor1246-std,concepticon-1318,3.55,pii,chicken,pii
+clics-doculect-183-285,maor1246-std,concepticon-1187,3.56,kuihi,goose,kuihi
+clics-doculect-183-286,maor1246-std,concepticon-1360,3.57,rakiraki,duck,rakiraki
+clics-doculect-183-287,maor1246-std,concepticon-1360,3.57,paarera,duck,paarera
+clics-doculect-183-288,maor1246-std,concepticon-539,3.58,koohaŋa,nest,koohaNGa
+clics-doculect-183-289,maor1246-std,concepticon-539,3.58,oowhaŋa,nest,oowhaNGa
+clics-doculect-183-290,maor1246-std,concepticon-937,3.581,manu,bird,manu
+clics-doculect-183-291,maor1246-std,concepticon-950,3.582,karoro,seagull,karoro
+clics-doculect-183-292,maor1246-std,concepticon-758,3.583,matuku,heron,matuku
+clics-doculect-183-293,maor1246-std,concepticon-758,3.583,kootuku,heron,kootuku
+clics-doculect-183-294,maor1246-std,concepticon-307,3.585,kaahu,hawk,kaahu
+clics-doculect-183-295,maor1246-std,concepticon-1793,3.591,pekapeka,bat,pekapeka
+clics-doculect-183-296,maor1246-std,concepticon-882,3.592,kaakaa,parrot,kaakaa
+clics-doculect-183-297,maor1246-std,concepticon-913,3.593,kookako,crow,kookako
+clics-doculect-183-298,maor1246-std,concepticon-1853,3.594,kereruu,dove,kereruu
+clics-doculect-183-299,maor1246-std,concepticon-1853,3.594,kuukuu,dove,kuukuu
+clics-doculect-183-300,maor1246-std,concepticon-1853,3.594,kuukupa,dove,kuukupa
+clics-doculect-183-301,maor1246-std,concepticon-735,3.596,ruru,owl,ruru
+clics-doculect-183-302,maor1246-std,concepticon-735,3.596,koukou,owl,koukou
+clics-doculect-183-303,maor1246-std,concepticon-2009,3.61,kurii,dog,kurii
+clics-doculect-183-304,maor1246-std,concepticon-2009,3.61,kirehe,dog,kirehe
+clics-doculect-183-305,maor1246-std,concepticon-1136,3.614,raapeti,rabbit,raapeti
+clics-doculect-183-306,maor1246-std,concepticon-1208,3.62,ŋeru,cat,NGeru
+clics-doculect-183-307,maor1246-std,concepticon-1208,3.62,tori,cat,tori
+clics-doculect-183-308,maor1246-std,concepticon-1208,3.62,puuihi,cat,puuihi
+clics-doculect-183-309,maor1246-std,concepticon-309,3.622,paihamu,opossum,paihamu
+clics-doculect-183-310,maor1246-std,concepticon-2139,3.63,kioreiti,"mouse, rat",kioreiti
+clics-doculect-183-311,maor1246-std,concepticon-2139,3.63,kiore,"mouse, rat",kiore
+clics-doculect-183-312,maor1246-std,concepticon-227,3.65,ika,fish,ika
+clics-doculect-183-313,maor1246-std,concepticon-227,3.65,ŋohi,fish,NGohi
+clics-doculect-183-314,maor1246-std,concepticon-213,3.652,tira,fin (dorsal),tira
+clics-doculect-183-315,maor1246-std,concepticon-213,3.652,urutira,fin (dorsal),urutira
+clics-doculect-183-316,maor1246-std,concepticon-266,3.653,unahi,fishscale,unahi
+clics-doculect-183-317,maor1246-std,concepticon-1916,3.654,piha,gill,piha
+clics-doculect-183-318,maor1246-std,concepticon-1916,3.654,puha,gill,puha
+clics-doculect-183-319,maor1246-std,concepticon-598,3.655,aŋa,shell,aNGa
+clics-doculect-183-320,maor1246-std,concepticon-598,3.655,kota,shell,kota
+clics-doculect-183-321,maor1246-std,concepticon-1110,3.661,maŋoo,shark,maNGoo
+clics-doculect-183-322,maor1246-std,concepticon-1479,3.662,tuupoupou,"porpoise, dolphin",tuupoupou
+clics-doculect-183-323,maor1246-std,concepticon-1479,3.662,upokohue,"porpoise, dolphin",upokohue
+clics-doculect-183-324,maor1246-std,concepticon-957,3.663,tohoraa,whale,tohoraa
+clics-doculect-183-325,maor1246-std,concepticon-957,3.663,pakakee,whale,pakakee
+clics-doculect-183-326,maor1246-std,concepticon-957,3.663,paraaoa,whale,paraaoa
+clics-doculect-183-327,maor1246-std,concepticon-957,3.663,weera,whale,weera
+clics-doculect-183-328,maor1246-std,concepticon-1910,3.664,whai,stingray,whai
+clics-doculect-183-329,maor1246-std,concepticon-1910,3.664,paakaurua,stingray,paakaurua
+clics-doculect-183-330,maor1246-std,concepticon-1013,3.665,tuna,freshwater eel,tuna
+clics-doculect-183-331,maor1246-std,concepticon-522,3.71,wuruhi,wolf,wuruhi
+clics-doculect-183-332,maor1246-std,concepticon-1386,3.72,raiona,lion,raiona
+clics-doculect-183-333,maor1246-std,concepticon-1936,3.75,tia,deer,tia
+clics-doculect-183-334,maor1246-std,concepticon-620,3.81,peepeke,insect,peepeke
+clics-doculect-183-335,maor1246-std,concepticon-620,3.81,ŋaarara,insect,NGaarara
+clics-doculect-183-336,maor1246-std,concepticon-1392,3.811,kutu,louse,kutu
+clics-doculect-183-337,maor1246-std,concepticon-267,3.812,riha,nit (louse egg),riha
+clics-doculect-183-338,maor1246-std,concepticon-232,3.813,puruhi,flea,puruhi
+clics-doculect-183-339,maor1246-std,concepticon-232,3.813,keha,flea,keha
+clics-doculect-183-340,maor1246-std,concepticon-232,3.813,tuiau,flea,tuiau
+clics-doculect-183-341,maor1246-std,concepticon-1974,3.814,weri,centipede,weri
+clics-doculect-183-342,maor1246-std,concepticon-587,3.817,poopokorua,ant,poopokorua
+clics-doculect-183-343,maor1246-std,concepticon-843,3.818,puuŋaawerewere,spider,puuNGaawerewere
+clics-doculect-183-344,maor1246-std,concepticon-1065,3.819,tukutuku,spider web,tukutuku
+clics-doculect-183-345,maor1246-std,concepticon-1065,3.819,whareopuuŋaawerewere,spider web,whareopuuNGaawerewere
+clics-doculect-183-346,maor1246-std,concepticon-665,3.82,pii,bee,pii
+clics-doculect-183-347,maor1246-std,concepticon-1517,3.823,waapu,wasp,waapu
+clics-doculect-183-348,maor1246-std,concepticon-1517,3.823,waapi,wasp,waapi
+clics-doculect-183-349,maor1246-std,concepticon-1504,3.83,ŋaro,fly,NGaro
+clics-doculect-183-350,maor1246-std,concepticon-1504,3.83,raŋo,fly,raNGo
+clics-doculect-183-351,maor1246-std,concepticon-95,3.831,namu,"sandfly (midge), gnat",namu
+clics-doculect-183-352,maor1246-std,concepticon-95,3.831,waeroa,"sandfly (midge), gnat",waeroa
+clics-doculect-183-353,maor1246-std,concepticon-95,3.831,naeroa,"sandfly (midge), gnat",naeroa
+clics-doculect-183-354,maor1246-std,concepticon-95,3.831,naenae,"sandfly (midge), gnat",naenae
+clics-doculect-183-355,maor1246-std,concepticon-95,3.831,naonao,"sandfly (midge), gnat",naonao
+clics-doculect-183-356,maor1246-std,concepticon-1509,3.832,waeroa,mosquito,waeroa
+clics-doculect-183-357,maor1246-std,concepticon-1509,3.832,naeroa,mosquito,naeroa
+clics-doculect-183-358,maor1246-std,concepticon-1509,3.832,naenae,mosquito,naenae
+clics-doculect-183-359,maor1246-std,concepticon-1219,3.84,toke,worm,toke
+clics-doculect-183-360,maor1246-std,concepticon-1219,3.84,noke,worm,noke
+clics-doculect-183-361,maor1246-std,concepticon-730,3.85,ŋaarara,snake,NGaarara
+clics-doculect-183-362,maor1246-std,concepticon-730,3.85,naakahi,snake,naakahi
+clics-doculect-183-363,maor1246-std,concepticon-730,3.85,ŋaakahi,snake,NGaakahi
+clics-doculect-183-364,maor1246-std,concepticon-1791,3.92,peepepe,butterfly,peepepe
+clics-doculect-183-365,maor1246-std,concepticon-1791,3.92,pepe,butterfly,pepe
+clics-doculect-183-366,maor1246-std,concepticon-607,3.93,koowhitiwhiti,grasshopper,koowhitiwhiti
+clics-doculect-183-367,maor1246-std,concepticon-607,3.93,maawhitiwhiti,grasshopper,maawhitiwhiti
+clics-doculect-183-368,maor1246-std,concepticon-607,3.93,paakauroharoha,grasshopper,paakauroharoha
+clics-doculect-183-369,maor1246-std,concepticon-1543,3.94,ŋata,snail,NGata
+clics-doculect-183-370,maor1246-std,concepticon-503,3.95,poroka,frog,poroka
+clics-doculect-183-371,maor1246-std,concepticon-1480,4.11,tinana,body,tinana
+clics-doculect-183-372,maor1246-std,concepticon-763,4.12,kiri,"skin, hide",kiri
+clics-doculect-183-373,maor1246-std,concepticon-763,4.12,hiako,"skin, hide",hiako
+clics-doculect-183-374,maor1246-std,concepticon-763,4.12,tapeha,"skin, hide",tapeha
+clics-doculect-183-375,maor1246-std,concepticon-763,4.12,epaina,"skin, hide",epaina
+clics-doculect-183-376,maor1246-std,concepticon-763,4.12,peha,"skin, hide",peha
+clics-doculect-183-377,maor1246-std,concepticon-2259,4.13,kikokiko,flesh,kikokiko
+clics-doculect-183-378,maor1246-std,concepticon-1040,4.14,makawe,hair (head),makawe
+clics-doculect-183-379,maor1246-std,concepticon-1040,4.14,huru,hair (head),huru
+clics-doculect-183-380,maor1246-std,concepticon-678,4.142,paahau,beard,paahau
+clics-doculect-183-381,maor1246-std,concepticon-189,4.144,huruhuru,body hair,huruhuru
+clics-doculect-183-382,maor1246-std,concepticon-946,4.15,toto,blood,toto
+clics-doculect-183-383,maor1246-std,concepticon-525,4.151,uaua,"vein, artery",uaua
+clics-doculect-183-384,maor1246-std,concepticon-1394,4.16,iwi,bone,iwi
+clics-doculect-183-385,maor1246-std,concepticon-1394,4.16,wheua,bone,wheua
+clics-doculect-183-386,maor1246-std,concepticon-801,4.162,kaokao,rib,kaokao
+clics-doculect-183-387,maor1246-std,concepticon-801,4.162,rara,rib,rara
+clics-doculect-183-388,maor1246-std,concepticon-1393,4.17,haaona,horn,haaona
+clics-doculect-183-389,maor1246-std,concepticon-1220,4.18,whiiore,tail,whiiore
+clics-doculect-183-390,maor1246-std,concepticon-1220,4.18,teera,tail,teera
+clics-doculect-183-391,maor1246-std,concepticon-1291,4.19,tuaraa,back,tuaraa
+clics-doculect-183-392,maor1246-std,concepticon-1291,4.19,muri,back,muri
+clics-doculect-183-393,maor1246-std,concepticon-805,4.191,iwituaraa,spine,iwituaraa
+clics-doculect-183-394,maor1246-std,concepticon-805,4.191,iwituararo,spine,iwituararo
+clics-doculect-183-395,maor1246-std,concepticon-1256,4.2,upoko,head,upoko
+clics-doculect-183-396,maor1246-std,concepticon-1256,4.2,maateŋa,head,maateNGa
+clics-doculect-183-397,maor1246-std,concepticon-1256,4.2,maahuŋa,head,maahuNGa
+clics-doculect-183-398,maor1246-std,concepticon-1256,4.2,maahuna,head,maahuna
+clics-doculect-183-399,maor1246-std,concepticon-1256,4.2,pane,head,pane
+clics-doculect-183-400,maor1246-std,concepticon-1256,4.2,panepane,head,panepane
+clics-doculect-183-401,maor1246-std,concepticon-1605,4.202,aŋaaŋa,skull,aNGaaNGa
+clics-doculect-183-402,maor1246-std,concepticon-1583,4.203,roro,brain,roro
+clics-doculect-183-403,maor1246-std,concepticon-1560,4.204,mata,face,mata
+clics-doculect-183-404,maor1246-std,concepticon-1560,4.204,kanohi,face,kanohi
+clics-doculect-183-405,maor1246-std,concepticon-123,4.205,rae,forehead,rae
+clics-doculect-183-406,maor1246-std,concepticon-798,4.207,kauae,jaw,kauae
+clics-doculect-183-407,maor1246-std,concepticon-1730,4.208,paapaariŋa,cheek,paapaariNGa
+clics-doculect-183-408,maor1246-std,concepticon-1510,4.209,kauwae,chin,kauwae
+clics-doculect-183-409,maor1246-std,concepticon-1248,4.21,kanohi,eye,kanohi
+clics-doculect-183-410,maor1246-std,concepticon-1248,4.21,karu,eye,karu
+clics-doculect-183-411,maor1246-std,concepticon-1248,4.21,mata,eye,mata
+clics-doculect-183-412,maor1246-std,concepticon-1248,4.21,kamo,eye,kamo
+clics-doculect-183-413,maor1246-std,concepticon-1248,4.21,whatu,eye,whatu
+clics-doculect-183-414,maor1246-std,concepticon-1173,4.212,kape,eyebrow,kape
+clics-doculect-183-415,maor1246-std,concepticon-1173,4.212,tukemata,eyebrow,tukemata
+clics-doculect-183-416,maor1246-std,concepticon-1173,4.212,pewa,eyebrow,pewa
+clics-doculect-183-417,maor1246-std,concepticon-17,4.213,rewha,eyelid,rewha
+clics-doculect-183-418,maor1246-std,concepticon-1540,4.214,kamo,eyelash,kamo
+clics-doculect-183-419,maor1246-std,concepticon-1655,4.215,kimo,blink,kimo
+clics-doculect-183-420,maor1246-std,concepticon-1247,4.22,tariŋa,ear,tariNGa
+clics-doculect-183-421,maor1246-std,concepticon-1221,4.23,ihu,nose,ihu
+clics-doculect-183-422,maor1246-std,concepticon-1178,4.231,poŋaihu,nostril,poNGaihu
+clics-doculect-183-423,maor1246-std,concepticon-1178,4.231,poŋapoŋa,nostril,poNGapoNGa
+clics-doculect-183-424,maor1246-std,concepticon-1178,4.231,putaihu,nostril,putaihu
+clics-doculect-183-425,maor1246-std,concepticon-208,4.232,mare,mucus (nasal),mare
+clics-doculect-183-426,maor1246-std,concepticon-208,4.232,kea,mucus (nasal),kea
+clics-doculect-183-427,maor1246-std,concepticon-674,4.24,maaŋai,mouth,maaNGai
+clics-doculect-183-428,maor1246-std,concepticon-674,4.24,maŋai,mouth,maNGai
+clics-doculect-183-429,maor1246-std,concepticon-674,4.24,waha,mouth,waha
+clics-doculect-183-430,maor1246-std,concepticon-73,4.241,ŋutumanu,beak,NGutumanu
+clics-doculect-183-431,maor1246-std,concepticon-73,4.241,timo,beak,timo
+clics-doculect-183-432,maor1246-std,concepticon-478,4.25,ŋutu,lip,NGutu
+clics-doculect-183-433,maor1246-std,concepticon-1205,4.26,arero,tongue,arero
+clics-doculect-183-434,maor1246-std,concepticon-1380,4.27,niho,tooth,niho
+clics-doculect-183-435,maor1246-std,concepticon-139,4.271,tako,gums,tako
+clics-doculect-183-436,maor1246-std,concepticon-139,4.271,paeniho,gums,paeniho
+clics-doculect-183-437,maor1246-std,concepticon-1333,4.28,kakii,neck,kakii
+clics-doculect-183-438,maor1246-std,concepticon-1346,4.29,korokoro,throat,korokoro
+clics-doculect-183-439,maor1246-std,concepticon-1482,4.3,pakihiwi,shoulder,pakihiwi
+clics-doculect-183-440,maor1246-std,concepticon-1482,4.3,pokohiwi,shoulder,pokohiwi
+clics-doculect-183-441,maor1246-std,concepticon-1994,4.302,manumanu,collarbone,manumanu
+clics-doculect-183-442,maor1246-std,concepticon-1994,4.302,paemanu,collarbone,paemanu
+clics-doculect-183-443,maor1246-std,concepticon-1673,4.31,riŋa,arm,riNGa
+clics-doculect-183-444,maor1246-std,concepticon-1673,4.31,kikowhiti,arm,kikowhiti
+clics-doculect-183-445,maor1246-std,concepticon-1886,4.312,keekee,armpit,keekee
+clics-doculect-183-446,maor1246-std,concepticon-981,4.32,tuketukea,elbow,tuketukea
+clics-doculect-183-447,maor1246-std,concepticon-981,4.32,whatiaŋa,elbow,whatiaNGa
+clics-doculect-183-448,maor1246-std,concepticon-799,4.321,kawititaŋaoteriŋariŋa,wrist,kawititaNGaoteriNGariNGa
+clics-doculect-183-449,maor1246-std,concepticon-1277,4.33,riŋariŋa,hand,riNGariNGa
+clics-doculect-183-450,maor1246-std,concepticon-1277,4.33,riŋa,hand,riNGa
+clics-doculect-183-451,maor1246-std,concepticon-1183,4.331,paaroo,palm of hand,paaroo
+clics-doculect-183-452,maor1246-std,concepticon-1183,4.331,kapu,palm of hand,kapu
+clics-doculect-183-453,maor1246-std,concepticon-1781,4.342,koromatua,thumb,koromatua
+clics-doculect-183-454,maor1246-std,concepticon-1781,4.342,koonui,thumb,koonui
+clics-doculect-183-455,maor1246-std,concepticon-1258,4.344,maikuku,fingernail,maikuku
+clics-doculect-183-456,maor1246-std,concepticon-1258,4.344,matikuku,fingernail,matikuku
+clics-doculect-183-457,maor1246-std,concepticon-72,4.345,matikuku,claw,matikuku
+clics-doculect-183-458,maor1246-std,concepticon-72,4.345,maikuku,claw,maikuku
+clics-doculect-183-459,maor1246-std,concepticon-72,4.345,rapihia,claw,rapihia
+clics-doculect-183-460,maor1246-std,concepticon-1297,4.35,waewae,leg,waewae
+clics-doculect-183-461,maor1246-std,concepticon-800,4.351,kuuhaa,thigh,kuuhaa
+clics-doculect-183-462,maor1246-std,concepticon-1371,4.36,turi,knee,turi
+clics-doculect-183-463,maor1246-std,concepticon-1301,4.37,waewae,foot,waewae
+clics-doculect-183-464,maor1246-std,concepticon-803,4.371,pona,ankle,pona
+clics-doculect-183-465,maor1246-std,concepticon-980,4.372,rekereke,heel,rekereke
+clics-doculect-183-466,maor1246-std,concepticon-318,4.374,tapuwae,footprint,tapuwae
+clics-doculect-183-467,maor1246-std,concepticon-1389,4.38,matimati,toe,matimati
+clics-doculect-183-468,maor1246-std,concepticon-1389,4.38,matikara,toe,matikara
+clics-doculect-183-469,maor1246-std,concepticon-1257,4.392,parirau,wing,parirau
+clics-doculect-183-470,maor1246-std,concepticon-1257,4.392,parihau,wing,parihau
+clics-doculect-183-471,maor1246-std,concepticon-1257,4.392,paakau,wing,paakau
+clics-doculect-183-472,maor1246-std,concepticon-1257,4.392,paihau,wing,paihau
+clics-doculect-183-473,maor1246-std,concepticon-1201,4.393,hou,feather,hou
+clics-doculect-183-474,maor1246-std,concepticon-1201,4.393,huruhuru,feather,huruhuru
+clics-doculect-183-475,maor1246-std,concepticon-1201,4.393,piki,feather,piki
+clics-doculect-183-476,maor1246-std,concepticon-1592,4.4,poho,chest,poho
+clics-doculect-183-477,maor1246-std,concepticon-1592,4.4,uma,chest,uma
+clics-doculect-183-478,maor1246-std,concepticon-1402,4.41,uma,breast (of woman),uma
+clics-doculect-183-479,maor1246-std,concepticon-1402,4.41,poho,breast (of woman),poho
+clics-doculect-183-480,maor1246-std,concepticon-1402,4.41,uu,breast (of woman),uu
+clics-doculect-183-481,maor1246-std,concepticon-796,4.412,komata,"nipple, teat",komata
+clics-doculect-183-482,maor1246-std,concepticon-796,4.412,uu,"nipple, teat",uu
+clics-doculect-183-483,maor1246-std,concepticon-796,4.412,titi,"nipple, teat",titi
+clics-doculect-183-484,maor1246-std,concepticon-1838,4.43,pito,navel,pito
+clics-doculect-183-485,maor1246-std,concepticon-1223,4.44,manawa,heart,manawa
+clics-doculect-183-486,maor1246-std,concepticon-1223,4.44,ŋaakau,heart,NGaakau
+clics-doculect-183-487,maor1246-std,concepticon-688,4.441,pukapuka,lung,pukapuka
+clics-doculect-183-488,maor1246-std,concepticon-1224,4.45,ate,liver,ate
+clics-doculect-183-489,maor1246-std,concepticon-489,4.451,taakihi,kidney,taakihi
+clics-doculect-183-490,maor1246-std,concepticon-819,4.46,puku,stomach,puku
+clics-doculect-183-491,maor1246-std,concepticon-819,4.46,koopuu,stomach,koopuu
+clics-doculect-183-492,maor1246-std,concepticon-819,4.46,kona,stomach,kona
+clics-doculect-183-493,maor1246-std,concepticon-1991,4.461,puku,"intestines, guts",puku
+clics-doculect-183-494,maor1246-std,concepticon-1991,4.461,wheekau,"intestines, guts",wheekau
+clics-doculect-183-495,maor1246-std,concepticon-1991,4.461,ŋaakau,"intestines, guts",NGaakau
+clics-doculect-183-496,maor1246-std,concepticon-1681,4.462,hope,waist,hope
+clics-doculect-183-497,maor1246-std,concepticon-1745,4.463,himu,hip,himu
+clics-doculect-183-498,maor1246-std,concepticon-834,4.464,papa,buttocks,papa
+clics-doculect-183-499,maor1246-std,concepticon-804,4.47,koopuu,womb,koopuu
+clics-doculect-183-500,maor1246-std,concepticon-804,4.47,takotoraŋatamariki,womb,takotoraNGatamariki
+clics-doculect-183-501,maor1246-std,concepticon-797,4.49,raho,testicle,raho
+clics-doculect-183-502,maor1246-std,concepticon-1222,4.492,ure,penis,ure
+clics-doculect-183-503,maor1246-std,concepticon-1407,4.51,manawa,"breathe, breath",manawa
+clics-doculect-183-504,maor1246-std,concepticon-1407,4.51,whakaeaea,"breathe, breath",whakaeaea
+clics-doculect-183-505,maor1246-std,concepticon-1407,4.51,haa,"breathe, breath",haa
+clics-doculect-183-506,maor1246-std,concepticon-1407,4.51,ŋaa,"breathe, breath",NGaa
+clics-doculect-183-507,maor1246-std,concepticon-1028,4.52,kohera,"yawn, gape",kohera
+clics-doculect-183-508,maor1246-std,concepticon-162,4.521,tokomauri,hiccough,tokomauri
+clics-doculect-183-509,maor1246-std,concepticon-879,4.53,mare,cough,mare
+clics-doculect-183-510,maor1246-std,concepticon-879,4.53,wharo,cough,wharo
+clics-doculect-183-511,maor1246-std,concepticon-1621,4.54,tihe,sneeze,tihe
+clics-doculect-183-512,maor1246-std,concepticon-1621,4.54,matihe,sneeze,matihe
+clics-doculect-183-513,maor1246-std,concepticon-126,4.55,werawera,perspire,werawera
+clics-doculect-183-514,maor1246-std,concepticon-126,4.55,kakawa,perspire,kakawa
+clics-doculect-183-515,maor1246-std,concepticon-1440,4.56,tuwhaina,spit,tuwhaina
+clics-doculect-183-516,maor1246-std,concepticon-1440,4.56,huuware,spit,huuware
+clics-doculect-183-517,maor1246-std,concepticon-1278,4.57,ruakina,vomit,ruakina
+clics-doculect-183-518,maor1246-std,concepticon-1278,4.57,ruaakina,vomit,ruaakina
+clics-doculect-183-519,maor1246-std,concepticon-1278,4.57,puutanetane,vomit,puutanetane
+clics-doculect-183-520,maor1246-std,concepticon-1403,4.58,ŋaua,bite,NGaua
+clics-doculect-183-521,maor1246-std,concepticon-319,4.59,mitimiti,lick,mitimiti
+clics-doculect-183-522,maor1246-std,concepticon-319,4.59,mitia,lick,mitia
+clics-doculect-183-523,maor1246-std,concepticon-1585,4.61,moea,sleep,moea
+clics-doculect-183-524,maor1246-std,concepticon-1585,4.61,moe,sleep,moe
+clics-doculect-183-525,maor1246-std,concepticon-1983,4.612,ŋoŋoro,snore,NGoNGoro
+clics-doculect-183-526,maor1246-std,concepticon-1920,4.62,moemoeaa,dream,moemoeaa
+clics-doculect-183-527,maor1246-std,concepticon-1920,4.62,moea,dream,moea
+clics-doculect-183-528,maor1246-std,concepticon-1602,4.63,ara,wake up,ara
+clics-doculect-183-529,maor1246-std,concepticon-1602,4.63,oho,wake up,oho
+clics-doculect-183-530,maor1246-std,concepticon-1602,4.63,whakaoho,wake up,whakaoho
+clics-doculect-183-531,maor1246-std,concepticon-592,4.65,mimi,urinate,mimi
+clics-doculect-183-532,maor1246-std,concepticon-1785,4.67,aitia,have sexual intercourse,aitia
+clics-doculect-183-533,maor1246-std,concepticon-52,4.68,wiri,shiver,wiri
+clics-doculect-183-534,maor1246-std,concepticon-52,4.68,huukiki,shiver,huukiki
+clics-doculect-183-535,maor1246-std,concepticon-138,4.69,kau,bathe,kau
+clics-doculect-183-536,maor1246-std,concepticon-138,4.69,kaukau,bathe,kaukau
+clics-doculect-183-537,maor1246-std,concepticon-138,4.69,kauria,bathe,kauria
+clics-doculect-183-538,maor1246-std,concepticon-1152,4.71,aitia,beget (of father),aitia
+clics-doculect-183-539,maor1246-std,concepticon-1090,4.72,whaanau,born (to be),whaanau
+clics-doculect-183-540,maor1246-std,concepticon-1123,4.73,hapuu,pregnant,hapuu
+clics-doculect-183-541,maor1246-std,concepticon-1087,4.732,hapuu,conceive,hapuu
+clics-doculect-183-542,maor1246-std,concepticon-1422,4.74,ora,"live, living, life",ora
+clics-doculect-183-543,maor1246-std,concepticon-1494,4.75,mate,"die, dead",mate
+clics-doculect-183-544,maor1246-std,concepticon-1494,4.75,hemo,"die, dead",hemo
+clics-doculect-183-545,maor1246-std,concepticon-1494,4.75,memeha,"die, dead",memeha
+clics-doculect-183-546,maor1246-std,concepticon-1904,4.751,toremi,drowned,toremi
+clics-doculect-183-547,maor1246-std,concepticon-1904,4.751,toromi,drowned,toromi
+clics-doculect-183-548,maor1246-std,concepticon-1417,4.76,patua,kill,patua
+clics-doculect-183-549,maor1246-std,concepticon-1417,4.76,patu,kill,patu
+clics-doculect-183-550,maor1246-std,concepticon-767,4.77,tuupaapaku,corpse,tuupaapaku
+clics-doculect-183-551,maor1246-std,concepticon-1719,4.78,tanumia,bury (the dead),tanumia
+clics-doculect-183-552,maor1246-std,concepticon-1719,4.78,taapuketia,bury (the dead),taapuketia
+clics-doculect-183-553,maor1246-std,concepticon-1719,4.78,nehua,bury (the dead),nehua
+clics-doculect-183-554,maor1246-std,concepticon-1773,4.79,rua,"grave, tomb",rua
+clics-doculect-183-555,maor1246-std,concepticon-1773,4.79,poka,"grave, tomb",poka
+clics-doculect-183-556,maor1246-std,concepticon-1773,4.79,urupaa,"grave, tomb",urupaa
+clics-doculect-183-557,maor1246-std,concepticon-1773,4.79,toma,"grave, tomb",toma
+clics-doculect-183-558,maor1246-std,concepticon-1773,4.79,waahitapu,"grave, tomb",waahitapu
+clics-doculect-183-559,maor1246-std,concepticon-785,4.81,mana,"strong, mighty, powerful",mana
+clics-doculect-183-560,maor1246-std,concepticon-785,4.81,kaha,"strong, mighty, powerful",kaha
+clics-doculect-183-561,maor1246-std,concepticon-785,4.81,pakari,"strong, mighty, powerful",pakari
+clics-doculect-183-562,maor1246-std,concepticon-785,4.81,maarooroo,"strong, mighty, powerful",maarooroo
+clics-doculect-183-563,maor1246-std,concepticon-1601,4.82,ŋoikore,weak,NGoikore
+clics-doculect-183-564,maor1246-std,concepticon-1601,4.82,iwikore,weak,iwikore
+clics-doculect-183-565,maor1246-std,concepticon-1364,4.83,ora,"well, health",ora
+clics-doculect-183-566,maor1246-std,concepticon-1364,4.83,oraŋa,"well, health",oraNGa
+clics-doculect-183-567,maor1246-std,concepticon-1847,4.84,mate,"sick, sickness",mate
+clics-doculect-183-568,maor1246-std,concepticon-1847,4.84,maauiui,"sick, sickness",maauiui
+clics-doculect-183-569,maor1246-std,concepticon-1847,4.84,maauiuitaŋa,"sick, sickness",maauiuitaNGa
+clics-doculect-183-570,maor1246-std,concepticon-1534,4.841,kirikaa,fever,kirikaa
+clics-doculect-183-571,maor1246-std,concepticon-1534,4.841,piiwa,fever,piiwa
+clics-doculect-183-572,maor1246-std,concepticon-102,4.843,tarutawhiti,cold (catarrh),tarutawhiti
+clics-doculect-183-573,maor1246-std,concepticon-102,4.843,taiawa,cold (catarrh),taiawa
+clics-doculect-183-574,maor1246-std,concepticon-102,4.843,rewharewha,cold (catarrh),rewharewha
+clics-doculect-183-575,maor1246-std,concepticon-1109,4.85,mamae,"wound, sore",mamae
+clics-doculect-183-576,maor1246-std,concepticon-1109,4.85,tuuŋa,"wound, sore",tuuNGa
+clics-doculect-183-577,maor1246-std,concepticon-1109,4.85,taui,"wound, sore",taui
+clics-doculect-183-578,maor1246-std,concepticon-1109,4.85,kino,"wound, sore",kino
+clics-doculect-183-579,maor1246-std,concepticon-1148,4.852,kooparu,bruise,kooparu
+clics-doculect-183-580,maor1246-std,concepticon-1148,4.852,maruu,bruise,maruu
+clics-doculect-183-581,maor1246-std,concepticon-1903,4.853,puku,swelling,puku
+clics-doculect-183-582,maor1246-std,concepticon-1903,4.853,pupuhi,swelling,pupuhi
+clics-doculect-183-583,maor1246-std,concepticon-148,4.854,rekareka,itch,rekareka
+clics-doculect-183-584,maor1246-std,concepticon-148,4.854,ŋaoko,itch,NGaoko
+clics-doculect-183-585,maor1246-std,concepticon-1584,4.855,taaŋoroŋoro,blister,taaNGoroNGoro
+clics-doculect-183-586,maor1246-std,concepticon-1584,4.855,kopuu,blister,kopuu
+clics-doculect-183-587,maor1246-std,concepticon-1584,4.855,kooipuipu,blister,kooipuipu
+clics-doculect-183-588,maor1246-std,concepticon-793,4.856,wheewhee,boil (noun),wheewhee
+clics-doculect-183-589,maor1246-std,concepticon-793,4.856,puku,boil (noun),puku
+clics-doculect-183-590,maor1246-std,concepticon-793,4.856,taapoa,boil (noun),taapoa
+clics-doculect-183-591,maor1246-std,concepticon-1808,4.857,pirau,pus,pirau
+clics-doculect-183-592,maor1246-std,concepticon-497,4.858,riwha,scar,riwha
+clics-doculect-183-593,maor1246-std,concepticon-497,4.858,nawe,scar,nawe
+clics-doculect-183-594,maor1246-std,concepticon-499,4.86,whakaoraŋia,"cure, heal",whakaoraNGia
+clics-doculect-183-595,maor1246-std,concepticon-499,4.86,whakaora,"cure, heal",whakaora
+clics-doculect-183-596,maor1246-std,concepticon-499,4.86,whakamahu,"cure, heal",whakamahu
+clics-doculect-183-597,maor1246-std,concepticon-597,4.87,taakuta,physician,taakuta
+clics-doculect-183-598,maor1246-std,concepticon-597,4.87,rata,physician,rata
+clics-doculect-183-599,maor1246-std,concepticon-1372,4.88,roŋoaa,"medicine, drug",roNGoaa
+clics-doculect-183-600,maor1246-std,concepticon-1757,4.91,ŋeŋe,"tired, weary",NGeNGe
+clics-doculect-183-601,maor1246-std,concepticon-1757,4.91,maauiui,"tired, weary",maauiui
+clics-doculect-183-602,maor1246-std,concepticon-1757,4.91,hoohaa,"tired, weary",hoohaa
+clics-doculect-183-603,maor1246-std,concepticon-168,4.912,okioki,rest,okioki
+clics-doculect-183-604,maor1246-std,concepticon-1564,4.92,maaŋere,lazy,maaNGere
+clics-doculect-183-605,maor1246-std,concepticon-1125,4.93,paakira,bald,paakira
+clics-doculect-183-606,maor1246-std,concepticon-320,4.94,hauaa,lame,hauaa
+clics-doculect-183-607,maor1246-std,concepticon-320,4.94,kopa,lame,kopa
+clics-doculect-183-608,maor1246-std,concepticon-320,4.94,hape,lame,hape
+clics-doculect-183-609,maor1246-std,concepticon-996,4.95,turi,deaf,turi
+clics-doculect-183-610,maor1246-std,concepticon-1666,4.96,wahaŋuu,mute,wahaNGuu
+clics-doculect-183-611,maor1246-std,concepticon-1653,4.97,matapoo,blind,matapoo
+clics-doculect-183-612,maor1246-std,concepticon-1653,4.97,kaapoo,blind,kaapoo
+clics-doculect-183-613,maor1246-std,concepticon-1653,4.97,pohe,blind,pohe
+clics-doculect-183-614,maor1246-std,concepticon-1463,4.98,hauraŋi,intoxicated,hauraNGi
+clics-doculect-183-615,maor1246-std,concepticon-590,4.99,nohotahaŋa,"naked, bare",nohotahaNGa
+clics-doculect-183-616,maor1246-std,concepticon-590,4.99,kirikau,"naked, bare",kirikau
+clics-doculect-183-617,maor1246-std,concepticon-590,4.99,pakiwhara,"naked, bare",pakiwhara
+clics-doculect-183-618,maor1246-std,concepticon-1336,5.11,kaiŋa,eat,kaiNGa
+clics-doculect-183-619,maor1246-std,concepticon-1336,5.11,ota,eat,ota
+clics-doculect-183-620,maor1246-std,concepticon-1336,5.11,hamuhamu,eat,hamuhamu
+clics-doculect-183-621,maor1246-std,concepticon-256,5.12,kai,food,kai
+clics-doculect-183-622,maor1246-std,concepticon-256,5.12,kaiŋa,food,kaiNGa
+clics-doculect-183-623,maor1246-std,concepticon-256,5.12,oo,food,oo
+clics-doculect-183-624,maor1246-std,concepticon-256,5.12,oraŋa,food,oraNGa
+clics-doculect-183-625,maor1246-std,concepticon-269,5.121,maoa,cooked,maoa
+clics-doculect-183-626,maor1246-std,concepticon-1959,5.122,mata,raw,mata
+clics-doculect-183-627,maor1246-std,concepticon-1959,5.122,torouka,raw,torouka
+clics-doculect-183-628,maor1246-std,concepticon-1959,5.122,otaina,raw,otaina
+clics-doculect-183-629,maor1246-std,concepticon-1959,5.122,kaimata,raw,kaimata
+clics-doculect-183-630,maor1246-std,concepticon-178,5.123,maoa,ripe,maoa
+clics-doculect-183-631,maor1246-std,concepticon-1958,5.124,mata,"green, unripe",mata
+clics-doculect-183-632,maor1246-std,concepticon-1958,5.124,kaimata,"green, unripe",kaimata
+clics-doculect-183-633,maor1246-std,concepticon-1958,5.124,ota,"green, unripe",ota
+clics-doculect-183-634,maor1246-std,concepticon-1728,5.125,piro,rotten,piro
+clics-doculect-183-635,maor1246-std,concepticon-1728,5.125,pirau,rotten,pirau
+clics-doculect-183-636,maor1246-std,concepticon-1728,5.125,hauŋa,rotten,hauNGa
+clics-doculect-183-637,maor1246-std,concepticon-1401,5.13,inumia,drink,inumia
+clics-doculect-183-638,maor1246-std,concepticon-1401,5.13,inu,drink,inu
+clics-doculect-183-639,maor1246-std,concepticon-1401,5.13,unu,drink,unu
+clics-doculect-183-640,maor1246-std,concepticon-1864,5.14,hemokai,hunger,hemokai
+clics-doculect-183-641,maor1246-std,concepticon-1864,5.14,hiakai,hunger,hiakai
+clics-doculect-183-642,maor1246-std,concepticon-199,5.141,waakaikore,famine,waakaikore
+clics-doculect-183-643,maor1246-std,concepticon-848,5.15,matewai,thirst,matewai
+clics-doculect-183-644,maor1246-std,concepticon-848,5.15,hiainu,thirst,hiainu
+clics-doculect-183-645,maor1246-std,concepticon-1421,5.16,ŋotea,suck,NGotea
+clics-doculect-183-646,maor1246-std,concepticon-1421,5.16,momia,suck,momia
+clics-doculect-183-647,maor1246-std,concepticon-321,5.18,ŋaua,chew,NGaua
+clics-doculect-183-648,maor1246-std,concepticon-897,5.181,horomia,swallow,horomia
+clics-doculect-183-649,maor1246-std,concepticon-129,5.19,raaoa,choke,raaoa
+clics-doculect-183-650,maor1246-std,concepticon-1100,5.21,taona,cook,taona
+clics-doculect-183-651,maor1246-std,concepticon-1100,5.21,tahuna,cook,tahuna
+clics-doculect-183-652,maor1246-std,concepticon-1100,5.21,whakamaaoatia,cook,whakamaaoatia
+clics-doculect-183-653,maor1246-std,concepticon-792,5.22,koropupuu,boil (vb),koropupuu
+clics-doculect-183-654,maor1246-std,concepticon-792,5.22,huu,boil (vb),huu
+clics-doculect-183-655,maor1246-std,concepticon-792,5.22,paaeratia,boil (vb),paaeratia
+clics-doculect-183-656,maor1246-std,concepticon-2146,5.23,tunua,"roast, fry",tunua
+clics-doculect-183-657,maor1246-std,concepticon-2146,5.23,tunu,"roast, fry",tunu
+clics-doculect-183-658,maor1246-std,concepticon-2146,5.23,parai,"roast, fry",parai
+clics-doculect-183-659,maor1246-std,concepticon-183,5.24,tunua,bake,tunua
+clics-doculect-183-660,maor1246-std,concepticon-1143,5.25,haaŋi,oven,haaNGi
+clics-doculect-183-661,maor1246-std,concepticon-1143,5.25,umu,oven,umu
+clics-doculect-183-662,maor1246-std,concepticon-1462,5.26,koohua,"pot, cooking vessel",koohua
+clics-doculect-183-663,maor1246-std,concepticon-854,5.27,tiikera,kettle,tiikera
+clics-doculect-183-664,maor1246-std,concepticon-31,5.28,hoopane,pan,hoopane
+clics-doculect-183-665,maor1246-std,concepticon-481,5.31,riihi,dish,riihi
+clics-doculect-183-666,maor1246-std,concepticon-480,5.32,pereti,plate,pereti
+clics-doculect-183-667,maor1246-std,concepticon-1530,5.33,kumete,bowl,kumete
+clics-doculect-183-668,maor1246-std,concepticon-1530,5.33,oko,bowl,oko
+clics-doculect-183-669,maor1246-std,concepticon-270,5.34,tiaka,"pitcher, jug",tiaka
+clics-doculect-183-670,maor1246-std,concepticon-270,5.34,haaka,"pitcher, jug",haaka
+clics-doculect-183-671,maor1246-std,concepticon-476,5.35,kapu,"cup, drinking vessel",kapu
+clics-doculect-183-672,maor1246-std,concepticon-271,5.36,hoeha,saucer,hoeha
+clics-doculect-183-673,maor1246-std,concepticon-271,5.36,hoohi,saucer,hoohi
+clics-doculect-183-674,maor1246-std,concepticon-1378,5.37,pune,spoon,pune
+clics-doculect-183-675,maor1246-std,concepticon-1352,5.38,maripi,knife,maripi
+clics-doculect-183-676,maor1246-std,concepticon-1352,5.38,naihi,knife,naihi
+clics-doculect-183-677,maor1246-std,concepticon-1352,5.38,oka,knife,oka
+clics-doculect-183-678,maor1246-std,concepticon-1352,5.38,puutia,knife,puutia
+clics-doculect-183-679,maor1246-std,concepticon-337,5.39,paaoka,fork,paaoka
+clics-doculect-183-680,maor1246-std,concepticon-272,5.391,piinohitia,tongs,piinohitia
+clics-doculect-183-681,maor1246-std,concepticon-272,5.391,kuku,tongs,kuku
+clics-doculect-183-682,maor1246-std,concepticon-1322,5.42,parakuihi,breakfast,parakuihi
+clics-doculect-183-683,maor1246-std,concepticon-768,5.43,tina,lunch,tina
+clics-doculect-183-684,maor1246-std,concepticon-1833,5.45,hapa,supper,hapa
+clics-doculect-183-685,maor1246-std,concepticon-275,5.46,waruhia,peel,waruhia
+clics-doculect-183-686,maor1246-std,concepticon-86,5.47,taataritia,"sieve, strain",taataritia
+clics-doculect-183-687,maor1246-std,concepticon-1767,5.48,waruhia,scrape,waruhia
+clics-doculect-183-688,maor1246-std,concepticon-1767,5.48,haaroo,scrape,haaroo
+clics-doculect-183-689,maor1246-std,concepticon-1767,5.48,wania,scrape,wania
+clics-doculect-183-690,maor1246-std,concepticon-1767,5.48,waru,scrape,waru
+clics-doculect-183-691,maor1246-std,concepticon-1767,5.48,roroi,scrape,roroi
+clics-doculect-183-692,maor1246-std,concepticon-2017,5.49,koororia,"stir, mix",koororia
+clics-doculect-183-693,maor1246-std,concepticon-2017,5.49,whakaranua,"stir, mix",whakaranua
+clics-doculect-183-694,maor1246-std,concepticon-2017,5.49,whakananua,"stir, mix",whakananua
+clics-doculect-183-695,maor1246-std,concepticon-2017,5.49,whakahanumitia,"stir, mix",whakahanumitia
+clics-doculect-183-696,maor1246-std,concepticon-1368,5.51,paraaoa,bread,paraaoa
+clics-doculect-183-697,maor1246-std,concepticon-1368,5.51,paraawa,bread,paraawa
+clics-doculect-183-698,maor1246-std,concepticon-1368,5.51,roohi,bread,roohi
+clics-doculect-183-699,maor1246-std,concepticon-274,5.54,poopoo,knead,poopoo
+clics-doculect-183-700,maor1246-std,concepticon-274,5.54,pokepoke,knead,pokepoke
+clics-doculect-183-701,maor1246-std,concepticon-1594,5.55,paraoa,"meal, flour",paraoa
+clics-doculect-183-702,maor1246-std,concepticon-1594,5.55,paraaoa,"meal, flour",paraaoa
+clics-doculect-183-703,maor1246-std,concepticon-1033,5.56,koopenupenu,"crush, grind",koopenupenu
+clics-doculect-183-704,maor1246-std,concepticon-1033,5.56,maruu,"crush, grind",maruu
+clics-doculect-183-705,maor1246-std,concepticon-1033,5.56,pee,"crush, grind",pee
+clics-doculect-183-706,maor1246-std,concepticon-1033,5.56,whakapee,"crush, grind",whakapee
+clics-doculect-183-707,maor1246-std,concepticon-1033,5.56,moŋamoŋa,"crush, grind",moNGamoNGa
+clics-doculect-183-708,maor1246-std,concepticon-636,5.57,mira,mill,mira
+clics-doculect-183-709,maor1246-std,concepticon-224,5.58,hoaŋa,mortar,hoaNGa
+clics-doculect-183-710,maor1246-std,concepticon-225,5.59,patu,pestle,patu
+clics-doculect-183-711,maor1246-std,concepticon-225,5.59,tukituki,pestle,tukituki
+clics-doculect-183-712,maor1246-std,concepticon-225,5.59,paoi,pestle,paoi
+clics-doculect-183-713,maor1246-std,concepticon-1874,5.63,hōtiti,sausage,hotiti
+clics-doculect-183-714,maor1246-std,concepticon-1874,5.63,tōtiti,sausage,totiti
+clics-doculect-183-715,maor1246-std,concepticon-593,5.7,parareka,potato,parareka
+clics-doculect-183-716,maor1246-std,concepticon-593,5.7,riiwai,potato,riiwai
+clics-doculect-183-717,maor1246-std,concepticon-593,5.7,taewa,potato,taewa
+clics-doculect-183-718,maor1246-std,concepticon-1507,5.71,hua,fruit,hua
+clics-doculect-183-719,maor1246-std,concepticon-1966,5.712,tautau,bunch,tautau
+clics-doculect-183-720,maor1246-std,concepticon-322,5.75,piki,fig,piki
+clics-doculect-183-721,maor1246-std,concepticon-920,5.76,kerepi,grape,kerepi
+clics-doculect-183-722,maor1246-std,concepticon-1484,5.79,hinu,oil,hinu
+clics-doculect-183-723,maor1246-std,concepticon-323,5.791,hinu,"grease, fat",hinu
+clics-doculect-183-724,maor1246-std,concepticon-323,5.791,ŋako,"grease, fat",NGako
+clics-doculect-183-725,maor1246-std,concepticon-1274,5.81,tote,salt,tote
+clics-doculect-183-726,maor1246-std,concepticon-1385,5.82,epa,pepper,epa
+clics-doculect-183-727,maor1246-std,concepticon-942,5.84,miere,honey,miere
+clics-doculect-183-728,maor1246-std,concepticon-942,5.84,honi,honey,honi
+clics-doculect-183-729,maor1246-std,concepticon-862,5.85,huka,sugar,huka
+clics-doculect-183-730,maor1246-std,concepticon-635,5.86,miraka,milk (noun),miraka
+clics-doculect-183-731,maor1246-std,concepticon-93,5.87,mirakatia,milk (vb),mirakatia
+clics-doculect-183-732,maor1246-std,concepticon-93,5.87,waiuu,milk (vb),waiuu
+clics-doculect-183-733,maor1246-std,concepticon-1569,5.88,tiihi,cheese,tiihi
+clics-doculect-183-734,maor1246-std,concepticon-731,5.9,paareti,"beverage, drink",paareti
+clics-doculect-183-735,maor1246-std,concepticon-1639,5.93,pia,beer,pia
+clics-doculect-183-736,maor1246-std,concepticon-744,5.97,huamanu,egg,huamanu
+clics-doculect-183-737,maor1246-std,concepticon-744,5.97,heeki,egg,heeki
+clics-doculect-183-738,maor1246-std,concepticon-158,6.11,kaakahuria,put on (clothes),kaakahuria
+clics-doculect-183-739,maor1246-std,concepticon-158,6.11,kuhukaakahu,put on (clothes),kuhukaakahu
+clics-doculect-183-740,maor1246-std,concepticon-158,6.11,kaka,put on (clothes),kaka
+clics-doculect-183-741,maor1246-std,concepticon-1895,6.12,kahu,"clothing, clothes",kahu
+clics-doculect-183-742,maor1246-std,concepticon-1895,6.12,kaka,"clothing, clothes",kaka
+clics-doculect-183-743,maor1246-std,concepticon-1895,6.12,kaakahu,"clothing, clothes",kaakahu
+clics-doculect-183-744,maor1246-std,concepticon-1895,6.12,puueru,"clothing, clothes",puueru
+clics-doculect-183-745,maor1246-std,concepticon-1895,6.12,huutu,"clothing, clothes",huutu
+clics-doculect-183-746,maor1246-std,concepticon-964,6.22,wuuru,wool,wuuru
+clics-doculect-183-747,maor1246-std,concepticon-964,6.22,huru,wool,huru
+clics-doculect-183-748,maor1246-std,concepticon-916,6.23,harakeke,"linen, flax",harakeke
+clics-doculect-183-749,maor1246-std,concepticon-916,6.23,koorari,"linen, flax",koorari
+clics-doculect-183-750,maor1246-std,concepticon-629,6.29,rera,leather,rera
+clics-doculect-183-751,maor1246-std,concepticon-121,6.31,miroa,spin,miroa
+clics-doculect-183-752,maor1246-std,concepticon-133,6.33,whatua,weave,whatua
+clics-doculect-183-753,maor1246-std,concepticon-133,6.33,raraŋa,weave,raraNGa
+clics-doculect-183-754,maor1246-std,concepticon-1457,6.35,tui,sew,tui
+clics-doculect-183-755,maor1246-std,concepticon-1457,6.35,tuitui,sew,tuitui
+clics-doculect-183-756,maor1246-std,concepticon-1382,6.36,ŋira,needle,NGira
+clics-doculect-183-757,maor1246-std,concepticon-1161,6.38,tau,thread,tau
+clics-doculect-183-758,maor1246-std,concepticon-1161,6.38,miro,thread,miro
+clics-doculect-183-759,maor1246-std,concepticon-1161,6.38,tiriŋi,thread,tiriNGi
+clics-doculect-183-760,maor1246-std,concepticon-1161,6.38,tuaina,thread,tuaina
+clics-doculect-183-761,maor1246-std,concepticon-1161,6.38,tarete,thread,tarete
+clics-doculect-183-762,maor1246-std,concepticon-326,6.41,kahuria,cloak,kahuria
+clics-doculect-183-763,maor1246-std,concepticon-474,6.42,kaakahuria,woman's dress,kaakahuria
+clics-doculect-183-764,maor1246-std,concepticon-474,6.42,whakaakakahuria,woman's dress,whakaakakahuria
+clics-doculect-183-765,maor1246-std,concepticon-1622,6.44,haate,shirt,haate
+clics-doculect-183-766,maor1246-std,concepticon-809,6.48,tarau,trousers,tarau
+clics-doculect-183-767,maor1246-std,concepticon-329,6.49,tookena,"stocking, sock",tookena
+clics-doculect-183-768,maor1246-std,concepticon-1381,6.51,huu,shoe,huu
+clics-doculect-183-769,maor1246-std,concepticon-585,6.52,puutu,boot,puutu
+clics-doculect-183-770,maor1246-std,concepticon-2130,6.55,pootaea,"hat, cap",pootaea
+clics-doculect-183-771,maor1246-std,concepticon-772,6.57,whiitikiria,"belt, girdle",whiitikiria
+clics-doculect-183-772,maor1246-std,concepticon-772,6.57,taatua,"belt, girdle",taatua
+clics-doculect-183-773,maor1246-std,concepticon-1151,6.59,koopare,veil,koopare
+clics-doculect-183-774,maor1246-std,concepticon-1151,6.59,aaraitia,veil,aaraitia
+clics-doculect-183-775,maor1246-std,concepticon-1851,6.61,paakete,pocket,paakete
+clics-doculect-183-776,maor1246-std,concepticon-757,6.62,paatene,button,paatene
+clics-doculect-183-777,maor1246-std,concepticon-64,6.63,pinea,pin,pinea
+clics-doculect-183-778,maor1246-std,concepticon-917,6.71,hei,"ornament, adornment",hei
+clics-doculect-183-779,maor1246-std,concepticon-1029,6.72,rei,jewel,rei
+clics-doculect-183-780,maor1246-std,concepticon-1029,6.72,hakuraŋi,jewel,hakuraNGi
+clics-doculect-183-781,maor1246-std,concepticon-1374,6.73,riiŋi,ring (for finger),riiNGi
+clics-doculect-183-782,maor1246-std,concepticon-1374,6.73,moowhiti,ring (for finger),moowhiti
+clics-doculect-183-783,maor1246-std,concepticon-330,6.78,parea,"headband, headdress",parea
+clics-doculect-183-784,maor1246-std,concepticon-330,6.78,rukutia,"headband, headdress",rukutia
+clics-doculect-183-785,maor1246-std,concepticon-68,6.79,taaia,tattoo,taaia
+clics-doculect-183-786,maor1246-std,concepticon-68,6.79,moko,tattoo,moko
+clics-doculect-183-787,maor1246-std,concepticon-332,6.81,aikiha,"handkerchief, rag",aikiha
+clics-doculect-183-788,maor1246-std,concepticon-332,6.81,karukaru,"handkerchief, rag",karukaru
+clics-doculect-183-789,maor1246-std,concepticon-1021,6.82,tauera,towel,tauera
+clics-doculect-183-790,maor1246-std,concepticon-1021,6.82,taawera,towel,taawera
+clics-doculect-183-791,maor1246-std,concepticon-1475,6.91,herua,comb,herua
+clics-doculect-183-792,maor1246-std,concepticon-1475,6.91,wania,comb,wania
+clics-doculect-183-793,maor1246-std,concepticon-1821,6.92,paraihe,brush,paraihe
+clics-doculect-183-794,maor1246-std,concepticon-333,6.921,whiria,braid,whiria
+clics-doculect-183-795,maor1246-std,concepticon-151,6.93,heu,razor,heu
+clics-doculect-183-796,maor1246-std,concepticon-788,6.95,hopi,soap,hopi
+clics-doculect-183-797,maor1246-std,concepticon-1171,6.96,whakaata,mirror,whakaata
+clics-doculect-183-798,maor1246-std,concepticon-1171,6.96,mira,mirror,mira
+clics-doculect-183-799,maor1246-std,concepticon-363,7.11,nohoia,"dwell, live",nohoia
+clics-doculect-183-800,maor1246-std,concepticon-363,7.11,noho,"dwell, live",noho
+clics-doculect-183-801,maor1246-std,concepticon-1252,7.12,whare,house,whare
+clics-doculect-183-802,maor1246-std,concepticon-1252,7.12,kaaiŋa,house,kaaiNGa
+clics-doculect-183-803,maor1246-std,concepticon-1252,7.12,kaaiŋatupu,house,kaaiNGatupu
+clics-doculect-183-804,maor1246-std,concepticon-1678,7.13,wharau,hut,wharau
+clics-doculect-183-805,maor1246-std,concepticon-1316,7.14,teneti,tent,teneti
+clics-doculect-183-806,maor1246-std,concepticon-736,7.15,marae,"yard, court",marae
+clics-doculect-183-807,maor1246-std,concepticon-736,7.15,raaihe,"yard, court",raaihe
+clics-doculect-183-808,maor1246-std,concepticon-334,7.17,kaauta,cookhouse,kaauta
+clics-doculect-183-809,maor1246-std,concepticon-334,7.17,kiihini,cookhouse,kiihini
+clics-doculect-183-810,maor1246-std,concepticon-1450,7.21,ruuma,room,ruuma
+clics-doculect-183-811,maor1246-std,concepticon-1567,7.22,tatau,"door, gate",tatau
+clics-doculect-183-812,maor1246-std,concepticon-1567,7.22,kuaha,"door, gate",kuaha
+clics-doculect-183-813,maor1246-std,concepticon-1567,7.22,kuwaha,"door, gate",kuwaha
+clics-doculect-183-814,maor1246-std,concepticon-1567,7.22,whatitoka,"door, gate",whatitoka
+clics-doculect-183-815,maor1246-std,concepticon-1596,7.23,raka,lock (noun),raka
+clics-doculect-183-816,maor1246-std,concepticon-1375,7.25,matapihi,window,matapihi
+clics-doculect-183-817,maor1246-std,concepticon-1375,7.25,mataaho,window,mataaho
+clics-doculect-183-818,maor1246-std,concepticon-1375,7.25,wini,window,wini
+clics-doculect-183-819,maor1246-std,concepticon-1632,7.26,whoroa,floor,whoroa
+clics-doculect-183-820,maor1246-std,concepticon-1632,7.26,kaupapa,floor,kaupapa
+clics-doculect-183-821,maor1246-std,concepticon-1632,7.26,papa,floor,papa
+clics-doculect-183-822,maor1246-std,concepticon-933,7.27,pakitara,wall,pakitara
+clics-doculect-183-823,maor1246-std,concepticon-933,7.27,paatuu,wall,paatuu
+clics-doculect-183-824,maor1246-std,concepticon-933,7.27,taiepa,wall,taiepa
+clics-doculect-183-825,maor1246-std,concepticon-933,7.27,taiapa,wall,taiapa
+clics-doculect-183-826,maor1246-std,concepticon-1305,7.33,tuumere,chimney,tuumere
+clics-doculect-183-827,maor1246-std,concepticon-1464,7.37,arawhata,ladder,arawhata
+clics-doculect-183-828,maor1246-std,concepticon-1663,7.42,moeŋa,bed,moeNGa
+clics-doculect-183-829,maor1246-std,concepticon-1044,7.421,uruŋa,pillow,uruNGa
+clics-doculect-183-830,maor1246-std,concepticon-1044,7.421,pera,pillow,pera
+clics-doculect-183-831,maor1246-std,concepticon-806,7.422,paraikete,blanket,paraikete
+clics-doculect-183-832,maor1246-std,concepticon-1476,7.43,nohoaŋa,chair,nohoaNGa
+clics-doculect-183-833,maor1246-std,concepticon-1476,7.43,tuuru,chair,tuuru
+clics-doculect-183-834,maor1246-std,concepticon-1775,7.44,teepu,table,teepu
+clics-doculect-183-835,maor1246-std,concepticon-2131,7.45,ramaa,"lamp, torch",ramaa
+clics-doculect-183-836,maor1246-std,concepticon-2131,7.45,raatana,"lamp, torch",raatana
+clics-doculect-183-837,maor1246-std,concepticon-2131,7.45,raiti,"lamp, torch",raiti
+clics-doculect-183-838,maor1246-std,concepticon-1273,7.46,kaanara,candle,kaanara
+clics-doculect-183-839,maor1246-std,concepticon-205,7.48,kumete,trough,kumete
+clics-doculect-183-840,maor1246-std,concepticon-205,7.48,oko,trough,oko
+clics-doculect-183-841,maor1246-std,concepticon-769,7.51,tuanui,roof,tuanui
+clics-doculect-183-842,maor1246-std,concepticon-279,7.52,atohia,thatch,atohia
+clics-doculect-183-843,maor1246-std,concepticon-279,7.52,taapatutia,thatch,taapatutia
+clics-doculect-183-844,maor1246-std,concepticon-280,7.53,taahuhu,ridgepole,taahuhu
+clics-doculect-183-845,maor1246-std,concepticon-829,7.54,heke,rafter,heke
+clics-doculect-183-846,maor1246-std,concepticon-1132,7.55,kurupae,beam,kurupae
+clics-doculect-183-847,maor1246-std,concepticon-281,7.56,poua,"post, pole",poua
+clics-doculect-183-848,maor1246-std,concepticon-281,7.56,tokotoko,"post, pole",tokotoko
+clics-doculect-183-849,maor1246-std,concepticon-1227,7.57,papa,board,papa
+clics-doculect-183-850,maor1246-std,concepticon-1006,7.62,pereki,brick,pereki
+clics-doculect-183-851,maor1246-std,concepticon-979,8.11,kaimahipaamu,farmer,kaimahipaamu
+clics-doculect-183-852,maor1246-std,concepticon-212,8.12,maara,field (for cultivation),maara
+clics-doculect-183-853,maor1246-std,concepticon-212,8.12,whenuamoomona,field (for cultivation),whenuamoomona
+clics-doculect-183-854,maor1246-std,concepticon-586,8.13,maara,garden,maara
+clics-doculect-183-855,maor1246-std,concepticon-586,8.13,kaari,garden,kaari
+clics-doculect-183-856,maor1246-std,concepticon-1541,8.15,ŋakia,"cultivate, till",NGakia
+clics-doculect-183-857,maor1246-std,concepticon-1541,8.15,taeanoatia,"cultivate, till",taeanoatia
+clics-doculect-183-858,maor1246-std,concepticon-1690,8.16,taiepa,fence,taiepa
+clics-doculect-183-859,maor1246-std,concepticon-1690,8.16,taiapa,fence,taiapa
+clics-doculect-183-860,maor1246-std,concepticon-2002,8.17,waikeri,ditch,waikeri
+clics-doculect-183-861,maor1246-std,concepticon-2002,8.17,awakeri,ditch,awakeri
+clics-doculect-183-862,maor1246-std,concepticon-1921,8.21,parau,plow,parau
+clics-doculect-183-863,maor1246-std,concepticon-1418,8.22,keria,dig,keria
+clics-doculect-183-864,maor1246-std,concepticon-1418,8.22,ŋakia,dig,NGakia
+clics-doculect-183-865,maor1246-std,concepticon-1418,8.22,ketu,dig,ketu
+clics-doculect-183-866,maor1246-std,concepticon-1176,8.23,kaaheru,spade,kaaheru
+clics-doculect-183-867,maor1246-std,concepticon-1176,8.23,kooia,spade,kooia
+clics-doculect-183-868,maor1246-std,concepticon-1176,8.23,hoo,spade,hoo
+clics-doculect-183-869,maor1246-std,concepticon-1901,8.24,haapara,shovel,haapara
+clics-doculect-183-870,maor1246-std,concepticon-1901,8.24,tiikokoa,shovel,tiikokoa
+clics-doculect-183-871,maor1246-std,concepticon-284,8.25,karaone,hoe,karaone
+clics-doculect-183-872,maor1246-std,concepticon-284,8.25,tipitipi,hoe,tipitipi
+clics-doculect-183-873,maor1246-std,concepticon-337,8.26,pekaŋa,fork,pekaNGa
+clics-doculect-183-874,maor1246-std,concepticon-338,8.27,rakuraku,rake,rakuraku
+clics-doculect-183-875,maor1246-std,concepticon-1351,8.31,ruia,sow,ruia
+clics-doculect-183-876,maor1246-std,concepticon-1351,8.31,marara,sow,marara
+clics-doculect-183-877,maor1246-std,concepticon-714,8.311,kaakano,seed,kaakano
+clics-doculect-183-878,maor1246-std,concepticon-714,8.311,purapura,seed,purapura
+clics-doculect-183-879,maor1246-std,concepticon-714,8.311,koopura,seed,koopura
+clics-doculect-183-880,maor1246-std,concepticon-190,8.32,kokoti,"mow, reap",kokoti
+clics-doculect-183-881,maor1246-std,concepticon-190,8.32,kootia,"mow, reap",kootia
+clics-doculect-183-882,maor1246-std,concepticon-2132,8.33,toronaihi,"sickle, scythe",toronaihi
+clics-doculect-183-883,maor1246-std,concepticon-2132,8.33,hai,"sickle, scythe",hai
+clics-doculect-183-884,maor1246-std,concepticon-285,8.34,whiua,thresh,whiua
+clics-doculect-183-885,maor1246-std,concepticon-611,8.41,maea,"crop, harvest",maea
+clics-doculect-183-886,maor1246-std,concepticon-611,8.41,hauhakeŋa,"crop, harvest",hauhakeNGa
+clics-doculect-183-887,maor1246-std,concepticon-611,8.41,kotiŋa,"crop, harvest",kotiNGa
+clics-doculect-183-888,maor1246-std,concepticon-611,8.41,ŋahuru,"crop, harvest",NGahuru
+clics-doculect-183-889,maor1246-std,concepticon-605,8.42,paarei,"grain (barley, oats etc)",paarei
+clics-doculect-183-890,maor1246-std,concepticon-1077,8.43,wiiti,wheat,wiiti
+clics-doculect-183-891,maor1246-std,concepticon-506,8.47,kaaŋa,"maize, corn",kaaNGa
+clics-doculect-183-892,maor1246-std,concepticon-926,8.48,raihi,rice,raihi
+clics-doculect-183-893,maor1246-std,concepticon-606,8.51,karaaihe,grass,karaaihe
+clics-doculect-183-894,maor1246-std,concepticon-606,8.51,paatiitii,grass,paatiitii
+clics-doculect-183-895,maor1246-std,concepticon-606,8.51,tarutaru,grass,tarutaru
+clics-doculect-183-896,maor1246-std,concepticon-342,8.52,taakakau,hay,taakakau
+clics-doculect-183-897,maor1246-std,concepticon-1486,8.531,tupu,plant (vb),tupu
+clics-doculect-183-898,maor1246-std,concepticon-1486,8.531,whakatookia,plant (vb),whakatookia
+clics-doculect-183-899,maor1246-std,concepticon-1486,8.531,onokia,plant (vb),onokia
+clics-doculect-183-900,maor1246-std,concepticon-1486,8.531,toua,plant (vb),toua
+clics-doculect-183-901,maor1246-std,concepticon-670,8.54,pakiaka,root,pakiaka
+clics-doculect-183-902,maor1246-std,concepticon-670,8.54,paiaka,root,paiaka
+clics-doculect-183-903,maor1246-std,concepticon-1531,8.55,peka,branch,peka
+clics-doculect-183-904,maor1246-std,concepticon-1531,8.55,pekaina,branch,pekaina
+clics-doculect-183-905,maor1246-std,concepticon-1531,8.55,maŋa,branch,maNGa
+clics-doculect-183-906,maor1246-std,concepticon-628,8.56,rau,leaf,rau
+clics-doculect-183-907,maor1246-std,concepticon-239,8.57,pua,flower,pua
+clics-doculect-183-908,maor1246-std,concepticon-239,8.57,puaawai,flower,puaawai
+clics-doculect-183-909,maor1246-std,concepticon-239,8.57,puaawaiputiputi,flower,puaawaiputiputi
+clics-doculect-183-910,maor1246-std,concepticon-1950,8.62,tawai,beech,tawai
+clics-doculect-183-911,maor1246-std,concepticon-1740,8.64,mataii,pine,mataii
+clics-doculect-183-912,maor1246-std,concepticon-1740,8.64,paina,pine,paina
+clics-doculect-183-913,maor1246-std,concepticon-1740,8.64,rimu,pine,rimu
+clics-doculect-183-914,maor1246-std,concepticon-1740,8.64,kahikatea,pine,kahikatea
+clics-doculect-183-915,maor1246-std,concepticon-343,8.67,waina,vine,waina
+clics-doculect-183-916,maor1246-std,concepticon-974,8.68,tupeka,tobacco,tupeka
+clics-doculect-183-917,maor1246-std,concepticon-974,8.68,torori,tobacco,torori
+clics-doculect-183-918,maor1246-std,concepticon-974,8.68,paipa,tobacco,paipa
+clics-doculect-183-919,maor1246-std,concepticon-1689,8.69,kaipaipa,smoke (tobacco),kaipaipa
+clics-doculect-183-920,maor1246-std,concepticon-241,8.72,tumu,tree stump,tumu
+clics-doculect-183-921,maor1246-std,concepticon-241,8.72,take,tree stump,take
+clics-doculect-183-922,maor1246-std,concepticon-344,8.73,tinana,tree trunk,tinana
+clics-doculect-183-923,maor1246-std,concepticon-1204,8.75,kiriraakau,bark,kiriraakau
+clics-doculect-183-924,maor1246-std,concepticon-1204,8.75,hiako,bark,hiako
+clics-doculect-183-925,maor1246-std,concepticon-1204,8.75,peha,bark,peha
+clics-doculect-183-926,maor1246-std,concepticon-345,8.76,kaapia,sap,kaapia
+clics-doculect-183-927,maor1246-std,concepticon-345,8.76,pia,sap,pia
+clics-doculect-183-928,maor1246-std,concepticon-1126,8.83,raima,citrus fruit,raima
+clics-doculect-183-929,maor1246-std,concepticon-1126,8.83,aarani,citrus fruit,aarani
+clics-doculect-183-930,maor1246-std,concepticon-159,8.91,kumara,sweet potato,kumara
+clics-doculect-183-931,maor1246-std,concepticon-410,8.912,uwhi,yam,uwhi
+clics-doculect-183-932,maor1246-std,concepticon-411,8.93,hue,gourd,hue
+clics-doculect-183-933,maor1246-std,concepticon-411,8.93,wenewene,gourd,wenewene
+clics-doculect-183-934,maor1246-std,concepticon-411,8.93,tahaa,gourd,tahaa
+clics-doculect-183-935,maor1246-std,concepticon-411,8.93,kiiaka,gourd,kiiaka
+clics-doculect-183-936,maor1246-std,concepticon-411,8.93,ipu,gourd,ipu
+clics-doculect-183-937,maor1246-std,concepticon-864,8.931,paukena,"pumpkin, squash",paukena
+clics-doculect-183-938,maor1246-std,concepticon-33,8.97,oŋaoŋa,nettle,oNGaoNGa
+clics-doculect-183-939,maor1246-std,concepticon-641,8.98,harore,mushroom,harore
+clics-doculect-183-940,maor1246-std,concepticon-2575,9.11,haŋaa,"do, make",haNGaa
+clics-doculect-183-941,maor1246-std,concepticon-2575,9.11,meatia,"do, make",meatia
+clics-doculect-183-942,maor1246-std,concepticon-984,9.12,mahia,work,mahia
+clics-doculect-183-943,maor1246-std,concepticon-984,9.12,mahi,work,mahi
+clics-doculect-183-944,maor1246-std,concepticon-2004,9.14,piko,bend,piko
+clics-doculect-183-945,maor1246-std,concepticon-2004,9.14,whakapikoa,bend,whakapikoa
+clics-doculect-183-946,maor1246-std,concepticon-2004,9.14,koowhana,bend,koowhana
+clics-doculect-183-947,maor1246-std,concepticon-2004,9.14,noni,bend,noni
+clics-doculect-183-948,maor1246-std,concepticon-1470,9.15,taanumi,fold,taanumi
+clics-doculect-183-949,maor1246-std,concepticon-1470,9.15,whakakopakopaia,fold,whakakopakopaia
+clics-doculect-183-950,maor1246-std,concepticon-1470,9.15,koopaketia,fold,koopaketia
+clics-doculect-183-951,maor1246-std,concepticon-1917,9.16,here,"tie, bind",here
+clics-doculect-183-952,maor1246-std,concepticon-1917,9.16,herea,"tie, bind",herea
+clics-doculect-183-953,maor1246-std,concepticon-1917,9.16,hono,"tie, bind",hono
+clics-doculect-183-954,maor1246-std,concepticon-1917,9.16,ponaia,"tie, bind",ponaia
+clics-doculect-183-955,maor1246-std,concepticon-1917,9.16,whiitikitia,"tie, bind",whiitikitia
+clics-doculect-183-956,maor1246-std,concepticon-352,9.161,wewete,untie,wewete
+clics-doculect-183-957,maor1246-std,concepticon-352,9.161,wetekina,untie,wetekina
+clics-doculect-183-958,maor1246-std,concepticon-1627,9.18,tiini,chain,tiini
+clics-doculect-183-959,maor1246-std,concepticon-1627,9.18,mekameka,chain,mekameka
+clics-doculect-183-960,maor1246-std,concepticon-1218,9.19,taura,"rope, cord",taura
+clics-doculect-183-961,maor1246-std,concepticon-1218,9.19,kaha,"rope, cord",kaha
+clics-doculect-183-962,maor1246-std,concepticon-1218,9.19,ropi,"rope, cord",ropi
+clics-doculect-183-963,maor1246-std,concepticon-1218,9.19,kanoi,"rope, cord",kanoi
+clics-doculect-183-964,maor1246-std,concepticon-1218,9.19,aho,"rope, cord",aho
+clics-doculect-183-965,maor1246-std,concepticon-760,9.192,pona,knot (noun),pona
+clics-doculect-183-966,maor1246-std,concepticon-760,9.192,here,knot (noun),here
+clics-doculect-183-967,maor1246-std,concepticon-2133,9.21,paki,"strike (hit, beat)",paki
+clics-doculect-183-968,maor1246-std,concepticon-2133,9.21,pao,"strike (hit, beat)",pao
+clics-doculect-183-969,maor1246-std,concepticon-2133,9.21,patu,"strike (hit, beat)",patu
+clics-doculect-183-970,maor1246-std,concepticon-2133,9.21,tuki,"strike (hit, beat)",tuki
+clics-doculect-183-971,maor1246-std,concepticon-2133,9.21,paakia,"strike (hit, beat)",paakia
+clics-doculect-183-972,maor1246-std,concepticon-2133,9.21,paa,"strike (hit, beat)",paa
+clics-doculect-183-973,maor1246-std,concepticon-2133,9.21,whiua,"strike (hit, beat)",whiua
+clics-doculect-183-974,maor1246-std,concepticon-354,9.211,patu,pound with fist,patu
+clics-doculect-183-975,maor1246-std,concepticon-1432,9.22,kokoti,cut,kokoti
+clics-doculect-183-976,maor1246-std,concepticon-1432,9.22,haehaea,cut,haehaea
+clics-doculect-183-977,maor1246-std,concepticon-1432,9.22,tapahia,cut,tapahia
+clics-doculect-183-978,maor1246-std,concepticon-1432,9.22,wawaea,cut,wawaea
+clics-doculect-183-979,maor1246-std,concepticon-155,9.222,tapahi,"chop, hew",tapahi
+clics-doculect-183-980,maor1246-std,concepticon-155,9.222,poro,"chop, hew",poro
+clics-doculect-183-981,maor1246-std,concepticon-155,9.222,hahau,"chop, hew",hahau
+clics-doculect-183-982,maor1246-std,concepticon-155,9.222,haaua,"chop, hew",haaua
+clics-doculect-183-983,maor1246-std,concepticon-1434,9.223,okaina,stab,okaina
+clics-doculect-183-984,maor1246-std,concepticon-1434,9.223,werohia,stab,werohia
+clics-doculect-183-985,maor1246-std,concepticon-1434,9.223,wero,stab,wero
+clics-doculect-183-986,maor1246-std,concepticon-1434,9.223,pokaia,stab,pokaia
+clics-doculect-183-987,maor1246-std,concepticon-1352,9.23,okaina,knife,okaina
+clics-doculect-183-988,maor1246-std,concepticon-1352,9.23,puutia,knife,puutia
+clics-doculect-183-989,maor1246-std,concepticon-356,9.24,kutikuti,"scissors, shears",kutikuti
+clics-doculect-183-990,maor1246-std,concepticon-677,9.25,toki,ax,toki
+clics-doculect-183-991,maor1246-std,concepticon-290,9.251,kapu,adze,kapu
+clics-doculect-183-992,maor1246-std,concepticon-290,9.251,waru,adze,waru
+clics-doculect-183-993,maor1246-std,concepticon-680,9.26,pakaru,break,pakaru
+clics-doculect-183-994,maor1246-std,concepticon-680,9.26,whati,break,whati
+clics-doculect-183-995,maor1246-std,concepticon-680,9.26,tataaŋia,break,tataaNGia
+clics-doculect-183-996,maor1246-std,concepticon-588,9.261,pakaru,broken,pakaru
+clics-doculect-183-997,maor1246-std,concepticon-588,9.261,whatiia,broken,whatiia
+clics-doculect-183-998,maor1246-std,concepticon-588,9.261,poroa,broken,poroa
+clics-doculect-183-999,maor1246-std,concepticon-1437,9.27,waahia,split,waahia
+clics-doculect-183-1000,maor1246-std,concepticon-1437,9.27,waawahi,split,waawahi
+clics-doculect-183-1001,maor1246-std,concepticon-1735,9.28,tiitorea,tear,tiitorea
+clics-doculect-183-1002,maor1246-std,concepticon-1735,9.28,ŋahae,tear,NGahae
+clics-doculect-183-1003,maor1246-std,concepticon-291,9.29,tiihorea,"flay, skin",tiihorea
+clics-doculect-183-1004,maor1246-std,concepticon-1449,9.31,miria,"rub, wipe",miria
+clics-doculect-183-1005,maor1246-std,concepticon-1449,9.31,murua,"rub, wipe",murua
+clics-doculect-183-1006,maor1246-std,concepticon-1449,9.31,mukua,"rub, wipe",mukua
+clics-doculect-183-1007,maor1246-std,concepticon-1449,9.31,ukuia,"rub, wipe",ukuia
+clics-doculect-183-1008,maor1246-std,concepticon-214,9.32,whakamaaro,stretch,whakamaaro
+clics-doculect-183-1009,maor1246-std,concepticon-214,9.32,kukume,stretch,kukume
+clics-doculect-183-1010,maor1246-std,concepticon-214,9.32,kuumea,stretch,kuumea
+clics-doculect-183-1011,maor1246-std,concepticon-1455,9.33,tooia,pull,tooia
+clics-doculect-183-1012,maor1246-std,concepticon-1455,9.33,kukume,pull,kukume
+clics-doculect-183-1013,maor1246-std,concepticon-1455,9.33,kuumea,pull,kuumea
+clics-doculect-183-1014,maor1246-std,concepticon-38,9.34,toro,spread out,toro
+clics-doculect-183-1015,maor1246-std,concepticon-38,9.34,horahia,spread out,horahia
+clics-doculect-183-1016,maor1246-std,concepticon-357,9.341,iria,hang up,iria
+clics-doculect-183-1017,maor1246-std,concepticon-357,9.341,taairi,hang up,taairi
+clics-doculect-183-1018,maor1246-std,concepticon-357,9.341,taarewa,hang up,taarewa
+clics-doculect-183-1019,maor1246-std,concepticon-357,9.341,tare,hang up,tare
+clics-doculect-183-1020,maor1246-std,concepticon-1913,9.342,peehi,press,peehi
+clics-doculect-183-1021,maor1246-std,concepticon-1913,9.342,taamia,press,taamia
+clics-doculect-183-1022,maor1246-std,concepticon-1414,9.343,roromi,"squeeze, wring",roromi
+clics-doculect-183-1023,maor1246-std,concepticon-1414,9.343,whakawiria,"squeeze, wring",whakawiria
+clics-doculect-183-1024,maor1246-std,concepticon-1414,9.343,taataritia,"squeeze, wring",taataritia
+clics-doculect-183-1025,maor1246-std,concepticon-1487,9.35,ririŋi,pour,ririNGi
+clics-doculect-183-1026,maor1246-std,concepticon-1487,9.35,riŋihia,pour,riNGihia
+clics-doculect-183-1027,maor1246-std,concepticon-1453,9.36,horoia,wash,horoia
+clics-doculect-183-1028,maor1246-std,concepticon-230,9.37,tahia,sweep,tahia
+clics-doculect-183-1029,maor1246-std,concepticon-230,9.37,purumatia,sweep,purumatia
+clics-doculect-183-1030,maor1246-std,concepticon-245,9.38,puruuma,broom,puruuma
+clics-doculect-183-1031,maor1246-std,concepticon-1042,9.43,kaamura,carpenter,kaamura
+clics-doculect-183-1032,maor1246-std,concepticon-1840,9.44,haŋaa,build,haNGaa
+clics-doculect-183-1033,maor1246-std,concepticon-1501,9.46,wiri,bore,wiri
+clics-doculect-183-1034,maor1246-std,concepticon-1501,9.46,orea,bore,orea
+clics-doculect-183-1035,maor1246-std,concepticon-1501,9.46,pokaina,bore,pokaina
+clics-doculect-183-1036,maor1246-std,concepticon-46,9.461,pokorua,hollow out,pokorua
+clics-doculect-183-1037,maor1246-std,concepticon-46,9.461,wharemoa,hollow out,wharemoa
+clics-doculect-183-1038,maor1246-std,concepticon-1948,9.48,kani,saw,kani
+clics-doculect-183-1039,maor1246-std,concepticon-1948,9.48,kanimaitai,saw,kanimaitai
+clics-doculect-183-1040,maor1246-std,concepticon-1481,9.49,tuki,hammer,tuki
+clics-doculect-183-1041,maor1246-std,concepticon-502,9.5,neera,nail,neera
+clics-doculect-183-1042,maor1246-std,concepticon-502,9.5,whao,nail,whao
+clics-doculect-183-1043,maor1246-std,concepticon-1069,9.56,piri,glue,piri
+clics-doculect-183-1044,maor1246-std,concepticon-1069,9.56,rapa,glue,rapa
+clics-doculect-183-1045,maor1246-std,concepticon-1069,9.56,whakarapaŋia,glue,whakarapaNGia
+clics-doculect-183-1046,maor1246-std,concepticon-1001,9.6,parakimete,"smith, blacksmith",parakimete
+clics-doculect-183-1047,maor1246-std,concepticon-1369,9.64,koura,gold,koura
+clics-doculect-183-1048,maor1246-std,concepticon-759,9.65,hiriwa,silver,hiriwa
+clics-doculect-183-1049,maor1246-std,concepticon-621,9.67,rino,iron,rino
+clics-doculect-183-1050,maor1246-std,concepticon-621,9.67,maitai,iron,maitai
+clics-doculect-183-1051,maor1246-std,concepticon-621,9.67,haeana,iron,haeana
+clics-doculect-183-1052,maor1246-std,concepticon-627,9.68,mataa,lead (noun),mataa
+clics-doculect-183-1053,maor1246-std,concepticon-1399,9.73,uku,clay,uku
+clics-doculect-183-1054,maor1246-std,concepticon-604,9.74,wini,glass,wini
+clics-doculect-183-1055,maor1246-std,concepticon-1729,9.75,whiria,"weave, plait",whiria
+clics-doculect-183-1056,maor1246-std,concepticon-1539,9.76,kete,basket,kete
+clics-doculect-183-1057,maor1246-std,concepticon-195,9.77,whaarikitia,mat,whaarikitia
+clics-doculect-183-1058,maor1246-std,concepticon-195,9.77,takapau,mat,takapau
+clics-doculect-183-1059,maor1246-std,concepticon-195,9.77,porera,mat,porera
+clics-doculect-183-1060,maor1246-std,concepticon-292,9.771,whaarikitia,rug,whaarikitia
+clics-doculect-183-1061,maor1246-std,concepticon-292,9.771,takapau,rug,takapau
+clics-doculect-183-1062,maor1246-std,concepticon-292,9.771,kaapeti,rug,kaapeti
+clics-doculect-183-1063,maor1246-std,concepticon-360,9.791,koowhiuwhiu,fan (vb),koowhiuwhiu
+clics-doculect-183-1064,maor1246-std,concepticon-228,9.81,whakairohia,carve,whakairohia
+clics-doculect-183-1065,maor1246-std,concepticon-1002,9.83,whakapakoko,statue,whakapakoko
+clics-doculect-183-1066,maor1246-std,concepticon-2001,9.89,pania,paint (vb),pania
+clics-doculect-183-1067,maor1246-std,concepticon-2001,9.89,peeita,paint (vb),peeita
+clics-doculect-183-1068,maor1246-std,concepticon-765,10.11,neke,move,neke
+clics-doculect-183-1069,maor1246-std,concepticon-765,10.11,haere,move,haere
+clics-doculect-183-1070,maor1246-std,concepticon-1588,10.12,hurikooaro,turn over,hurikooaro
+clics-doculect-183-1071,maor1246-std,concepticon-1445,10.13,huri,turn around,huri
+clics-doculect-183-1072,maor1246-std,concepticon-1445,10.13,porotiti,turn around,porotiti
+clics-doculect-183-1073,maor1246-std,concepticon-1113,10.14,takaia,"wind, wrap",takaia
+clics-doculect-183-1074,maor1246-std,concepticon-1113,10.14,pookai,"wind, wrap",pookai
+clics-doculect-183-1075,maor1246-std,concepticon-827,10.15,hurihuri,roll,hurihuri
+clics-doculect-183-1076,maor1246-std,concepticon-827,10.15,porotiti,roll,porotiti
+clics-doculect-183-1077,maor1246-std,concepticon-808,10.16,makere,drop (vb),makere
+clics-doculect-183-1078,maor1246-std,concepticon-808,10.16,maaturuturu,drop (vb),maaturuturu
+clics-doculect-183-1079,maor1246-std,concepticon-430,10.17,whiria,twist,whiria
+clics-doculect-183-1080,maor1246-std,concepticon-430,10.17,miroa,twist,miroa
+clics-doculect-183-1081,maor1246-std,concepticon-430,10.17,kaawiritia,twist,kaawiritia
+clics-doculect-183-1082,maor1246-std,concepticon-430,10.17,takawiritia,twist,takawiritia
+clics-doculect-183-1083,maor1246-std,concepticon-568,10.21,ara,rise,ara
+clics-doculect-183-1084,maor1246-std,concepticon-568,10.21,maraŋa,rise,maraNGa
+clics-doculect-183-1085,maor1246-std,concepticon-568,10.21,whakatika,rise,whakatika
+clics-doculect-183-1086,maor1246-std,concepticon-501,10.22,whakatuu,"raise, lift",whakatuu
+clics-doculect-183-1087,maor1246-std,concepticon-501,10.22,hiki,"raise, lift",hiki
+clics-doculect-183-1088,maor1246-std,concepticon-501,10.22,whataa,"raise, lift",whataa
+clics-doculect-183-1089,maor1246-std,concepticon-1280,10.23,hiŋa,fall,hiNGa
+clics-doculect-183-1090,maor1246-std,concepticon-1280,10.23,taka,fall,taka
+clics-doculect-183-1091,maor1246-std,concepticon-1280,10.23,makere,fall,makere
+clics-doculect-183-1092,maor1246-std,concepticon-1280,10.23,marere,fall,marere
+clics-doculect-183-1093,maor1246-std,concepticon-2253,10.24,tuturu,drip,tuturu
+clics-doculect-183-1094,maor1246-std,concepticon-1456,10.25,makaa,throw,makaa
+clics-doculect-183-1095,maor1246-std,concepticon-1456,10.25,maka,throw,maka
+clics-doculect-183-1096,maor1246-std,concepticon-1456,10.25,paŋaia,throw,paNGaia
+clics-doculect-183-1097,maor1246-std,concepticon-1456,10.25,whiua,throw,whiua
+clics-doculect-183-1098,maor1246-std,concepticon-1456,10.25,whiu,throw,whiu
+clics-doculect-183-1099,maor1246-std,concepticon-1456,10.25,epa,throw,epa
+clics-doculect-183-1100,maor1246-std,concepticon-702,10.252,hopukia,catch (ball),hopukia
+clics-doculect-183-1101,maor1246-std,concepticon-702,10.252,taŋohia,catch (ball),taNGohia
+clics-doculect-183-1102,maor1246-std,concepticon-1909,10.26,wiri,shake,wiri
+clics-doculect-183-1103,maor1246-std,concepticon-1909,10.26,ŋapu,shake,NGapu
+clics-doculect-183-1104,maor1246-std,concepticon-1909,10.26,ŋaaueue,shake,NGaaueue
+clics-doculect-183-1105,maor1246-std,concepticon-1909,10.26,oioi,shake,oioi
+clics-doculect-183-1106,maor1246-std,concepticon-1909,10.26,rurerure,shake,rurerure
+clics-doculect-183-1107,maor1246-std,concepticon-1909,10.26,ŋarue,shake,NGarue
+clics-doculect-183-1108,maor1246-std,concepticon-1909,10.26,ruu,shake,ruu
+clics-doculect-183-1109,maor1246-std,concepticon-2003,10.32,rere,flow,rere
+clics-doculect-183-1110,maor1246-std,concepticon-2003,10.32,paatere,flow,paatere
+clics-doculect-183-1111,maor1246-std,concepticon-2003,10.32,tere,flow,tere
+clics-doculect-183-1112,maor1246-std,concepticon-1088,10.33,totohu,sink,totohu
+clics-doculect-183-1113,maor1246-std,concepticon-1574,10.34,tere,float,tere
+clics-doculect-183-1114,maor1246-std,concepticon-1574,10.34,maanu,float,maanu
+clics-doculect-183-1115,maor1246-std,concepticon-1574,10.34,rewa,float,rewa
+clics-doculect-183-1116,maor1246-std,concepticon-1439,10.35,kau,swim,kau
+clics-doculect-183-1117,maor1246-std,concepticon-1439,10.35,kauria,swim,kauria
+clics-doculect-183-1118,maor1246-std,concepticon-1439,10.35,kauhoetia,swim,kauhoetia
+clics-doculect-183-1119,maor1246-std,concepticon-1439,10.35,kautaahoe,swim,kautaahoe
+clics-doculect-183-1120,maor1246-std,concepticon-119,10.351,rukuhia,dive,rukuhia
+clics-doculect-183-1121,maor1246-std,concepticon-119,10.351,ruku,dive,ruku
+clics-doculect-183-1122,maor1246-std,concepticon-365,10.352,poorutu,splash,poorutu
+clics-doculect-183-1123,maor1246-std,concepticon-365,10.352,poohutuhutu,splash,poohutuhutu
+clics-doculect-183-1124,maor1246-std,concepticon-365,10.352,whekuwheku,splash,whekuwheku
+clics-doculect-183-1125,maor1246-std,concepticon-787,10.36,rere,sail (vb),rere
+clics-doculect-183-1126,maor1246-std,concepticon-1441,10.37,rere,fly (vb),rere
+clics-doculect-183-1127,maor1246-std,concepticon-1441,10.37,topa,fly (vb),topa
+clics-doculect-183-1128,maor1246-std,concepticon-1441,10.37,whakatopa,fly (vb),whakatopa
+clics-doculect-183-1129,maor1246-std,concepticon-175,10.38,pupuhi,blow,pupuhi
+clics-doculect-183-1130,maor1246-std,concepticon-175,10.38,puhi,blow,puhi
+clics-doculect-183-1131,maor1246-std,concepticon-96,10.41,ŋaoki,"creep, crawl",NGaoki
+clics-doculect-183-1132,maor1246-std,concepticon-96,10.41,ŋaoko,"creep, crawl",NGaoko
+clics-doculect-183-1133,maor1246-std,concepticon-96,10.41,ŋooki,"creep, crawl",NGooki
+clics-doculect-183-1134,maor1246-std,concepticon-96,10.41,ŋoi,"creep, crawl",NGoi
+clics-doculect-183-1135,maor1246-std,concepticon-96,10.41,whakapapa,"creep, crawl",whakapapa
+clics-doculect-183-1136,maor1246-std,concepticon-66,10.412,tuuturi,kneel,tuuturi
+clics-doculect-183-1137,maor1246-std,concepticon-1324,10.42,mania,"slide, slip",mania
+clics-doculect-183-1138,maor1246-std,concepticon-1324,10.42,pareŋo,"slide, slip",pareNGo
+clics-doculect-183-1139,maor1246-std,concepticon-1829,10.43,peke,"jump, leap",peke
+clics-doculect-183-1140,maor1246-std,concepticon-1829,10.43,tuupeketia,"jump, leap",tuupeketia
+clics-doculect-183-1141,maor1246-std,concepticon-1829,10.43,rereŋia,"jump, leap",rereNGia
+clics-doculect-183-1142,maor1246-std,concepticon-1829,10.43,moowhiti,"jump, leap",moowhiti
+clics-doculect-183-1143,maor1246-std,concepticon-1135,10.431,whanaa,kick,whanaa
+clics-doculect-183-1144,maor1246-std,concepticon-1135,10.431,kikia,kick,kikia
+clics-doculect-183-1145,maor1246-std,concepticon-1879,10.44,hakaa,dance,hakaa
+clics-doculect-183-1146,maor1246-std,concepticon-1879,10.44,kanikani,dance,kanikani
+clics-doculect-183-1147,maor1246-std,concepticon-1443,10.45,hiikoi,walk,hiikoi
+clics-doculect-183-1148,maor1246-std,concepticon-1443,10.45,haereawaewae,walk,haereawaewae
+clics-doculect-183-1149,maor1246-std,concepticon-1443,10.45,haeremaararo,walk,haeremaararo
+clics-doculect-183-1150,maor1246-std,concepticon-366,10.451,totitoti,limp,totitoti
+clics-doculect-183-1151,maor1246-std,concepticon-1519,10.46,oma,run,oma
+clics-doculect-183-1152,maor1246-std,concepticon-1519,10.46,kawe,run,kawe
+clics-doculect-183-1153,maor1246-std,concepticon-1519,10.46,torotoro,run,torotoro
+clics-doculect-183-1154,maor1246-std,concepticon-695,10.47,haere,go,haere
+clics-doculect-183-1155,maor1246-std,concepticon-695,10.47,haereaatu,go,haereaatu
+clics-doculect-183-1156,maor1246-std,concepticon-695,10.47,whanatu,go,whanatu
+clics-doculect-183-1157,maor1246-std,concepticon-1102,10.472,kakea,climb,kakea
+clics-doculect-183-1158,maor1246-std,concepticon-1102,10.472,pikitia,climb,pikitia
+clics-doculect-183-1159,maor1246-std,concepticon-2014,10.473,heke,go down,heke
+clics-doculect-183-1160,maor1246-std,concepticon-1446,10.48,haere,come,haere
+clics-doculect-183-1161,maor1246-std,concepticon-1446,10.48,haeremai,come,haeremai
+clics-doculect-183-1162,maor1246-std,concepticon-1446,10.48,haramai,come,haramai
+clics-doculect-183-1163,maor1246-std,concepticon-581,10.481,hokia,come back,hokia
+clics-doculect-183-1164,maor1246-std,concepticon-581,10.481,whakahokia,come back,whakahokia
+clics-doculect-183-1165,maor1246-std,concepticon-1752,10.49,haereatu,"go away, depart",haereatu
+clics-doculect-183-1166,maor1246-std,concepticon-1752,10.49,riro,"go away, depart",riro
+clics-doculect-183-1167,maor1246-std,concepticon-485,10.491,hemo,disappear,hemo
+clics-doculect-183-1168,maor1246-std,concepticon-956,10.51,oma,flee,oma
+clics-doculect-183-1169,maor1246-std,concepticon-1085,10.52,whai,follow,whai
+clics-doculect-183-1170,maor1246-std,concepticon-1085,10.52,whaaia,follow,whaaia
+clics-doculect-183-1171,maor1246-std,concepticon-1085,10.52,aru,follow,aru
+clics-doculect-183-1172,maor1246-std,concepticon-1085,10.52,arumia,follow,arumia
+clics-doculect-183-1173,maor1246-std,concepticon-1047,10.53,arumia,pursue,arumia
+clics-doculect-183-1174,maor1246-std,concepticon-1047,10.53,whai,pursue,whai
+clics-doculect-183-1175,maor1246-std,concepticon-1047,10.53,whaaia,pursue,whaaia
+clics-doculect-183-1176,maor1246-std,concepticon-1387,10.55,taea,"reach, arrive",taea
+clics-doculect-183-1177,maor1246-std,concepticon-1387,10.55,uuŋia,"reach, arrive",uuNGia
+clics-doculect-183-1178,maor1246-std,concepticon-1387,10.55,tau,"reach, arrive",tau
+clics-doculect-183-1179,maor1246-std,concepticon-1387,10.55,eke,"reach, arrive",eke
+clics-doculect-183-1180,maor1246-std,concepticon-1387,10.55,tatuu,"reach, arrive",tatuu
+clics-doculect-183-1181,maor1246-std,concepticon-1778,10.56,whakatataŋia,approach,whakatataNGia
+clics-doculect-183-1182,maor1246-std,concepticon-749,10.57,tomokia,enter,tomokia
+clics-doculect-183-1183,maor1246-std,concepticon-749,10.57,uru,enter,uru
+clics-doculect-183-1184,maor1246-std,concepticon-749,10.57,kuhua,enter,kuhua
+clics-doculect-183-1185,maor1246-std,concepticon-749,10.57,kuhu,enter,kuhu
+clics-doculect-183-1186,maor1246-std,concepticon-749,10.57,hou,enter,hou
+clics-doculect-183-1187,maor1246-std,concepticon-700,10.61,kawea,carry (bear),kawea
+clics-doculect-183-1188,maor1246-std,concepticon-700,10.61,amohia,carry (bear),amohia
+clics-doculect-183-1189,maor1246-std,concepticon-700,10.61,haria,carry (bear),haria
+clics-doculect-183-1190,maor1246-std,concepticon-700,10.61,mauria,carry (bear),mauria
+clics-doculect-183-1191,maor1246-std,concepticon-700,10.61,hari,carry (bear),hari
+clics-doculect-183-1192,maor1246-std,concepticon-700,10.61,mau,carry (bear),mau
+clics-doculect-183-1193,maor1246-std,concepticon-413,10.613,amohia,carry-on-shoulder,amohia
+clics-doculect-183-1194,maor1246-std,concepticon-692,10.62,mauria,bring,mauria
+clics-doculect-183-1195,maor1246-std,concepticon-692,10.62,hari,bring,hari
+clics-doculect-183-1196,maor1246-std,concepticon-1127,10.63,tonoa,send,tonoa
+clics-doculect-183-1197,maor1246-std,concepticon-1127,10.63,ŋarea,send,NGarea
+clics-doculect-183-1198,maor1246-std,concepticon-1127,10.63,uŋaa,send,uNGaa
+clics-doculect-183-1199,maor1246-std,concepticon-1127,10.63,tukua,send,tukua
+clics-doculect-183-1200,maor1246-std,concepticon-43,10.64,arahina,lead (vb),arahina
+clics-doculect-183-1201,maor1246-std,concepticon-43,10.64,aarahina,lead (vb),aarahina
+clics-doculect-183-1202,maor1246-std,concepticon-43,10.64,aratakina,lead (vb),aratakina
+clics-doculect-183-1203,maor1246-std,concepticon-741,10.65,whiu,drive,whiu
+clics-doculect-183-1204,maor1246-std,concepticon-367,10.66,ekehooiho,ride,ekehooiho
+clics-doculect-183-1205,maor1246-std,concepticon-1452,10.67,panaa,"push, shove",panaa
+clics-doculect-183-1206,maor1246-std,concepticon-1452,10.67,tutea,"push, shove",tutea
+clics-doculect-183-1207,maor1246-std,concepticon-667,10.71,huanui,road,huanui
+clics-doculect-183-1208,maor1246-std,concepticon-667,10.71,huarahi,road,huarahi
+clics-doculect-183-1209,maor1246-std,concepticon-667,10.71,ara,road,ara
+clics-doculect-183-1210,maor1246-std,concepticon-667,10.71,roori,road,roori
+clics-doculect-183-1211,maor1246-std,concepticon-667,10.71,rori,road,rori
+clics-doculect-183-1212,maor1246-std,concepticon-667,10.71,haere,road,haere
+clics-doculect-183-1213,maor1246-std,concepticon-2252,10.72,ara,path,ara
+clics-doculect-183-1214,maor1246-std,concepticon-2252,10.72,huarahi,path,huarahi
+clics-doculect-183-1215,maor1246-std,concepticon-1011,10.74,piriti,bridge,piriti
+clics-doculect-183-1216,maor1246-std,concepticon-1011,10.74,arawhata,bridge,arawhata
+clics-doculect-183-1217,maor1246-std,concepticon-122,10.75,waakena,"carriage, wagon, cart",waakena
+clics-doculect-183-1218,maor1246-std,concepticon-710,10.76,wiira,wheel,wiira
+clics-doculect-183-1219,maor1246-std,concepticon-14,10.78,ioka,yoke,ioka
+clics-doculect-183-1220,maor1246-std,concepticon-740,10.81,kaipuke,ship,kaipuke
+clics-doculect-183-1221,maor1246-std,concepticon-1844,10.83,poti,boat,poti
+clics-doculect-183-1222,maor1246-std,concepticon-1844,10.83,waka,boat,waka
+clics-doculect-183-1223,maor1246-std,concepticon-1970,10.831,waka,canoe,waka
+clics-doculect-183-1224,maor1246-std,concepticon-1664,10.84,mookii,raft,mookii
+clics-doculect-183-1225,maor1246-std,concepticon-1664,10.84,mookihi,raft,mookihi
+clics-doculect-183-1226,maor1246-std,concepticon-108,10.85,hoea,oar,hoea
+clics-doculect-183-1227,maor1246-std,concepticon-234,10.851,hoea,paddle (noun),hoea
+clics-doculect-183-1228,maor1246-std,concepticon-1849,10.852,hoe,row (vb),hoe
+clics-doculect-183-1229,maor1246-std,concepticon-108,10.86,uruŋi,rudder,uruNGi
+clics-doculect-183-1230,maor1246-std,concepticon-184,10.87,tira,mast,tira
+clics-doculect-183-1231,maor1246-std,concepticon-786,10.88,raa,sail (noun),raa
+clics-doculect-183-1232,maor1246-std,concepticon-786,10.88,heera,sail (noun),heera
+clics-doculect-183-1233,maor1246-std,concepticon-1870,10.89,puŋaa,anchor,puNGaa
+clics-doculect-183-1234,maor1246-std,concepticon-1870,10.89,haika,anchor,haika
+clics-doculect-183-1235,maor1246-std,concepticon-610,10.91,wahaawa,"harbor, port",wahaawa
+clics-doculect-183-1236,maor1246-std,concepticon-1922,10.92,uuŋiakiuta,land (vb),uuNGiakiuta
+clics-doculect-183-1237,maor1246-std,concepticon-1922,10.92,tau,land (vb),tau
+clics-doculect-183-1238,maor1246-std,concepticon-684,11.12,whai,"own, possess",whai
+clics-doculect-183-1239,maor1246-std,concepticon-684,11.12,whiwhi,"own, possess",whiwhi
+clics-doculect-183-1240,maor1246-std,concepticon-1749,11.13,taŋohia,take,taNGohia
+clics-doculect-183-1241,maor1246-std,concepticon-1749,11.13,taŋo,take,taNGo
+clics-doculect-183-1242,maor1246-std,concepticon-1749,11.13,mauria,take,mauria
+clics-doculect-183-1243,maor1246-std,concepticon-1749,11.13,taria,take,taria
+clics-doculect-183-1244,maor1246-std,concepticon-2021,11.14,hopukia,"seize, grasp",hopukia
+clics-doculect-183-1245,maor1246-std,concepticon-2021,11.14,kapohia,"seize, grasp",kapohia
+clics-doculect-183-1246,maor1246-std,concepticon-2021,11.14,riro,"seize, grasp",riro
+clics-doculect-183-1247,maor1246-std,concepticon-2021,11.14,taŋohia,"seize, grasp",taNGohia
+clics-doculect-183-1248,maor1246-std,concepticon-2021,11.14,mauria,"seize, grasp",mauria
+clics-doculect-183-1249,maor1246-std,concepticon-1448,11.15,pupuri,hold,pupuri
+clics-doculect-183-1250,maor1246-std,concepticon-1448,11.15,rawhia,hold,rawhia
+clics-doculect-183-1251,maor1246-std,concepticon-694,11.16,tiki,"get, obtain",tiki
+clics-doculect-183-1252,maor1246-std,concepticon-694,11.16,tiikina,"get, obtain",tiikina
+clics-doculect-183-1253,maor1246-std,concepticon-694,11.16,kawea,"get, obtain",kawea
+clics-doculect-183-1254,maor1246-std,concepticon-694,11.16,whiwhi,"get, obtain",whiwhi
+clics-doculect-183-1255,maor1246-std,concepticon-694,11.16,riroi,"get, obtain",riroi
+clics-doculect-183-1256,maor1246-std,concepticon-1477,11.17,puritia,"keep, retain",puritia
+clics-doculect-183-1257,maor1246-std,concepticon-1477,11.17,tiakina,"keep, retain",tiakina
+clics-doculect-183-1258,maor1246-std,concepticon-738,11.18,mea,thing,mea
+clics-doculect-183-1259,maor1246-std,concepticon-738,11.18,taoŋa,thing,taoNGa
+clics-doculect-183-1260,maor1246-std,concepticon-1447,11.21,hoatu,give,hoatu
+clics-doculect-183-1261,maor1246-std,concepticon-1447,11.21,hoomai,give,hoomai
+clics-doculect-183-1262,maor1246-std,concepticon-2008,11.25,whakaora,"save, rescue",whakaora
+clics-doculect-183-1263,maor1246-std,concepticon-2008,11.25,tohuŋia,"save, rescue",tohuNGia
+clics-doculect-183-1264,maor1246-std,concepticon-681,11.27,ŋaro,destroy,NGaro
+clics-doculect-183-1265,maor1246-std,concepticon-681,11.27,hunaia,destroy,hunaia
+clics-doculect-183-1266,maor1246-std,concepticon-681,11.27,takakinotia,destroy,takakinotia
+clics-doculect-183-1267,maor1246-std,concepticon-681,11.27,whakamootii,destroy,whakamootii
+clics-doculect-183-1268,maor1246-std,concepticon-44,11.28,tuuŋa,"harm, injure, damage",tuuNGa
+clics-doculect-183-1269,maor1246-std,concepticon-44,11.28,whara,"harm, injure, damage",whara
+clics-doculect-183-1270,maor1246-std,concepticon-44,11.28,kino,"harm, injure, damage",kino
+clics-doculect-183-1271,maor1246-std,concepticon-44,11.28,tuukinotia,"harm, injure, damage",tuukinotia
+clics-doculect-183-1272,maor1246-std,concepticon-1468,11.31,rapua,"seek, look for",rapua
+clics-doculect-183-1273,maor1246-std,concepticon-1468,11.31,kimihia,"seek, look for",kimihia
+clics-doculect-183-1274,maor1246-std,concepticon-1468,11.31,haahaa,"seek, look for",haahaa
+clics-doculect-183-1275,maor1246-std,concepticon-1468,11.31,haahautia,"seek, look for",haahautia
+clics-doculect-183-1276,maor1246-std,concepticon-1468,11.31,kimi,"seek, look for",kimi
+clics-doculect-183-1277,maor1246-std,concepticon-1468,11.31,rapu,"seek, look for",rapu
+clics-doculect-183-1278,maor1246-std,concepticon-1468,11.31,tiro,"seek, look for",tiro
+clics-doculect-183-1279,maor1246-std,concepticon-1468,11.31,tirotiro,"seek, look for",tirotiro
+clics-doculect-183-1280,maor1246-std,concepticon-719,11.32,kitea,find,kitea
+clics-doculect-183-1281,maor1246-std,concepticon-1660,11.33,ŋaro,lose,NGaro
+clics-doculect-183-1282,maor1246-std,concepticon-1095,11.34,tukuna,"release, let go",tukuna
+clics-doculect-183-1283,maor1246-std,concepticon-1095,11.34,tukuakiahaere,"release, let go",tukuakiahaere
+clics-doculect-183-1284,maor1246-std,concepticon-712,11.51,whaitaoŋa,rich,whaitaoNGa
+clics-doculect-183-1285,maor1246-std,concepticon-1674,11.52,rawakore,poor,rawakore
+clics-doculect-183-1286,maor1246-std,concepticon-1934,11.53,inoia,beggar,inoia
+clics-doculect-183-1287,maor1246-std,concepticon-1934,11.53,pati,beggar,pati
+clics-doculect-183-1288,maor1246-std,concepticon-1774,11.54,apo,"avaricious, stingy",apo
+clics-doculect-183-1289,maor1246-std,concepticon-1774,11.54,kaiponuhia,"avaricious, stingy",kaiponuhia
+clics-doculect-183-1290,maor1246-std,concepticon-1774,11.54,haakerea,"avaricious, stingy",haakerea
+clics-doculect-183-1291,maor1246-std,concepticon-1914,11.64,nama,debt,nama
+clics-doculect-183-1292,maor1246-std,concepticon-718,11.65,ea,pay (vb),ea
+clics-doculect-183-1293,maor1246-std,concepticon-718,11.65,utua,pay (vb),utua
+clics-doculect-183-1294,maor1246-std,concepticon-718,11.65,whakaeatia,pay (vb),whakaeatia
+clics-doculect-183-1295,maor1246-std,concepticon-873,11.69,taake,"tax, tribute",taake
+clics-doculect-183-1296,maor1246-std,concepticon-1122,11.78,utu,wages,utu
+clics-doculect-183-1297,maor1246-std,concepticon-1869,11.81,hokona,buy,hokona
+clics-doculect-183-1298,maor1246-std,concepticon-1571,11.82,hokona,sell,hokona
+clics-doculect-183-1299,maor1246-std,concepticon-1571,11.82,hokohoko,sell,hokohoko
+clics-doculect-183-1300,maor1246-std,concepticon-2135,11.83,hokona,"trade, barter",hokona
+clics-doculect-183-1301,maor1246-std,concepticon-2135,11.83,hokohoko,"trade, barter",hokohoko
+clics-doculect-183-1302,maor1246-std,concepticon-752,11.86,toa,"store, shop",toa
+clics-doculect-183-1303,maor1246-std,concepticon-657,11.87,utu,price,utu
+clics-doculect-183-1304,maor1246-std,concepticon-1426,11.88,utunui,"dear (costly, expensive)",utunui
+clics-doculect-183-1305,maor1246-std,concepticon-884,11.91,hea,share (distribute),hea
+clics-doculect-183-1306,maor1246-std,concepticon-884,11.91,waahi,share (distribute),waahi
+clics-doculect-183-1307,maor1246-std,concepticon-884,11.91,tohatoha,share (distribute),tohatoha
+clics-doculect-183-1308,maor1246-std,concepticon-884,11.91,tuwhaia,share (distribute),tuwhaia
+clics-doculect-183-1309,maor1246-std,concepticon-1098,11.92,paunatia,weigh,paunatia
+clics-doculect-183-1310,maor1246-std,concepticon-1685,12.1,muri,after,muri
+clics-doculect-183-1311,maor1246-std,concepticon-723,12.11,kei,place,kei
+clics-doculect-183-1312,maor1246-std,concepticon-723,12.11,ki,place,ki
+clics-doculect-183-1313,maor1246-std,concepticon-723,12.11,imuri,place,imuri
+clics-doculect-183-1314,maor1246-std,concepticon-723,12.11,tua,place,tua
+clics-doculect-183-1315,maor1246-std,concepticon-1816,12.2,itetaha,beside,itetaha
+clics-doculect-183-1316,maor1246-std,concepticon-2094,12.3,iho,"down, below",iho
+clics-doculect-183-1317,maor1246-std,concepticon-2094,12.3,kei,"down, below",kei
+clics-doculect-183-1318,maor1246-std,concepticon-2094,12.3,ki,"down, below",ki
+clics-doculect-183-1319,maor1246-std,concepticon-2094,12.3,iheiraro,"down, below",iheiraro
+clics-doculect-183-1320,maor1246-std,concepticon-2094,12.3,raro,"down, below",raro
+clics-doculect-183-1321,maor1246-std,concepticon-1882,12.4,noo,before,noo
+clics-doculect-183-1322,maor1246-std,concepticon-1882,12.4,kei,before,kei
+clics-doculect-183-1323,maor1246-std,concepticon-1882,12.4,ki,before,ki
+clics-doculect-183-1324,maor1246-std,concepticon-1882,12.4,imua,before,imua
+clics-doculect-183-1325,maor1246-std,concepticon-1019,12.41,mua,right (side),mua
+clics-doculect-183-1326,maor1246-std,concepticon-1019,12.41,aroaro,right (side),aroaro
+clics-doculect-183-1327,maor1246-std,concepticon-1606,12.5,roto,"inside, in",roto
+clics-doculect-183-1328,maor1246-std,concepticon-1606,12.5,roo,"inside, in",roo
+clics-doculect-183-1329,maor1246-std,concepticon-762,12.6,waho,outside,waho
+clics-doculect-183-1330,maor1246-std,concepticon-762,12.6,kiwaho,outside,kiwaho
+clics-doculect-183-1331,maor1246-std,concepticon-1485,12.7,i,under,i
+clics-doculect-183-1332,maor1246-std,concepticon-1485,12.7,keiraro,under,keiraro
+clics-doculect-183-1333,maor1246-std,concepticon-1485,12.7,raro,under,raro
+clics-doculect-183-1334,maor1246-std,concepticon-1591,12.8,kei,"up, above",kei
+clics-doculect-183-1335,maor1246-std,concepticon-1591,12.8,iruŋa,"up, above",iruNGa
+clics-doculect-183-1336,maor1246-std,concepticon-1591,12.8,ake,"up, above",ake
+clics-doculect-183-1337,maor1246-std,concepticon-1591,12.8,ruŋa,"up, above",ruNGa
+clics-doculect-183-1338,maor1246-std,concepticon-723,12.11,waahi,place,waahi
+clics-doculect-183-1339,maor1246-std,concepticon-723,12.11,waa,place,waa
+clics-doculect-183-1340,maor1246-std,concepticon-723,12.11,takiwaa,place,takiwaa
+clics-doculect-183-1341,maor1246-std,concepticon-723,12.11,konei,place,konei
+clics-doculect-183-1342,maor1246-std,concepticon-998,12.12,kuhua,put,kuhua
+clics-doculect-183-1343,maor1246-std,concepticon-998,12.12,whakaurua,put,whakaurua
+clics-doculect-183-1344,maor1246-std,concepticon-998,12.12,purua,put,purua
+clics-doculect-183-1345,maor1246-std,concepticon-1416,12.13,nohoia,sit,nohoia
+clics-doculect-183-1346,maor1246-std,concepticon-1416,12.13,noho,sit,noho
+clics-doculect-183-1347,maor1246-std,concepticon-215,12.14,takotoria,lie down,takotoria
+clics-doculect-183-1348,maor1246-std,concepticon-215,12.14,waihotia,lie down,waihotia
+clics-doculect-183-1349,maor1246-std,concepticon-215,12.14,taapae,lie down,taapae
+clics-doculect-183-1350,maor1246-std,concepticon-1442,12.15,tuu,stand,tuu
+clics-doculect-183-1351,maor1246-std,concepticon-987,12.16,waiho,"remain, stay",waiho
+clics-doculect-183-1352,maor1246-std,concepticon-987,12.16,whakarerea,"remain, stay",whakarerea
+clics-doculect-183-1353,maor1246-std,concepticon-987,12.16,mahue,"remain, stay",mahue
+clics-doculect-183-1354,maor1246-std,concepticon-987,12.16,nohoia,"remain, stay",nohoia
+clics-doculect-183-1355,maor1246-std,concepticon-987,12.16,toe,"remain, stay",toe
+clics-doculect-183-1356,maor1246-std,concepticon-838,12.17,toe,"remains, left overs",toe
+clics-doculect-183-1357,maor1246-std,concepticon-838,12.17,toeŋa,"remains, left overs",toeNGa
+clics-doculect-183-1358,maor1246-std,concepticon-7,12.21,hui,"collect, gather",hui
+clics-doculect-183-1359,maor1246-std,concepticon-7,12.21,kohia,"collect, gather",kohia
+clics-doculect-183-1360,maor1246-std,concepticon-7,12.21,huihuia,"collect, gather",huihuia
+clics-doculect-183-1361,maor1246-std,concepticon-7,12.21,raapoia,"collect, gather",raapoia
+clics-doculect-183-1362,maor1246-std,concepticon-1576,12.213,puu,pile up,puu
+clics-doculect-183-1363,maor1246-std,concepticon-1576,12.213,puuraŋatia,pile up,puuraNGatia
+clics-doculect-183-1364,maor1246-std,concepticon-1576,12.213,apuria,pile up,apuria
+clics-doculect-183-1365,maor1246-std,concepticon-1576,12.213,ahuahu,pile up,ahuahu
+clics-doculect-183-1366,maor1246-std,concepticon-1743,12.22,whakakotahi,"join, unite",whakakotahi
+clics-doculect-183-1367,maor1246-std,concepticon-1743,12.22,honoa,"join, unite",honoa
+clics-doculect-183-1368,maor1246-std,concepticon-1743,12.22,apitiria,"join, unite",apitiria
+clics-doculect-183-1369,maor1246-std,concepticon-1743,12.22,taapiritia,"join, unite",taapiritia
+clics-doculect-183-1370,maor1246-std,concepticon-1359,12.23,wehea,separate,wehea
+clics-doculect-183-1371,maor1246-std,concepticon-1359,12.23,wawaea,separate,wawaea
+clics-doculect-183-1372,maor1246-std,concepticon-1359,12.23,motuhia,separate,motuhia
+clics-doculect-183-1373,maor1246-std,concepticon-1359,12.23,mawehe,separate,mawehe
+clics-doculect-183-1374,maor1246-std,concepticon-1359,12.23,tauwehe,separate,tauwehe
+clics-doculect-183-1375,maor1246-std,concepticon-1119,12.232,waahia,divide,waahia
+clics-doculect-183-1376,maor1246-std,concepticon-1156,12.24,tuwhera,open,tuwhera
+clics-doculect-183-1377,maor1246-std,concepticon-1156,12.24,whakapuaretia,open,whakapuaretia
+clics-doculect-183-1378,maor1246-std,concepticon-1156,12.24,huakina,open,huakina
+clics-doculect-183-1379,maor1246-std,concepticon-1046,12.25,tuutakina,"shut, close",tuutakina
+clics-doculect-183-1380,maor1246-std,concepticon-1046,12.25,kopia,"shut, close",kopia
+clics-doculect-183-1381,maor1246-std,concepticon-1046,12.25,kukua,"shut, close",kukua
+clics-doculect-183-1382,maor1246-std,concepticon-1046,12.25,katia,"shut, close",katia
+clics-doculect-183-1383,maor1246-std,concepticon-1046,12.25,kapia,"shut, close",kapia
+clics-doculect-183-1384,maor1246-std,concepticon-761,12.26,uhi,cover,uhi
+clics-doculect-183-1385,maor1246-std,concepticon-761,12.26,uuhi,cover,uuhi
+clics-doculect-183-1386,maor1246-std,concepticon-761,12.26,uwhia,cover,uwhia
+clics-doculect-183-1387,maor1246-std,concepticon-761,12.26,uuwhi,cover,uuwhi
+clics-doculect-183-1388,maor1246-std,concepticon-761,12.26,whaariki,cover,whaariki
+clics-doculect-183-1389,maor1246-std,concepticon-602,12.27,huna,"hide, conceal",huna
+clics-doculect-183-1390,maor1246-std,concepticon-602,12.27,piri,"hide, conceal",piri
+clics-doculect-183-1391,maor1246-std,concepticon-602,12.27,ŋaro,"hide, conceal",NGaro
+clics-doculect-183-1392,maor1246-std,concepticon-602,12.27,whakaŋaromia,"hide, conceal",whakaNGaromia
+clics-doculect-183-1393,maor1246-std,concepticon-602,12.27,kuhua,"hide, conceal",kuhua
+clics-doculect-183-1394,maor1246-std,concepticon-1265,12.31,teitei,high,teitei
+clics-doculect-183-1395,maor1246-std,concepticon-1265,12.31,tiketike,high,tiketike
+clics-doculect-183-1396,maor1246-std,concepticon-721,12.32,hakahaka,low,hakahaka
+clics-doculect-183-1397,maor1246-std,concepticon-721,12.32,paapaku,low,paapaku
+clics-doculect-183-1398,maor1246-std,concepticon-721,12.32,hauraro,low,hauraro
+clics-doculect-183-1399,maor1246-std,concepticon-1753,12.33,tara,top,tara
+clics-doculect-183-1400,maor1246-std,concepticon-1753,12.33,keo,top,keo
+clics-doculect-183-1401,maor1246-std,concepticon-1753,12.33,tihi,top,tihi
+clics-doculect-183-1402,maor1246-std,concepticon-1753,12.33,ruŋa,top,ruNGa
+clics-doculect-183-1403,maor1246-std,concepticon-690,12.34,raro,bottom,raro
+clics-doculect-183-1404,maor1246-std,concepticon-742,12.35,pito,end,pito
+clics-doculect-183-1405,maor1246-std,concepticon-742,12.35,mutuŋa,end,mutuNGa
+clics-doculect-183-1406,maor1246-std,concepticon-742,12.35,otiŋa,end,otiNGa
+clics-doculect-183-1407,maor1246-std,concepticon-742,12.35,matamata,end,matamata
+clics-doculect-183-1408,maor1246-std,concepticon-742,12.35,koiŋa,end,koiNGa
+clics-doculect-183-1409,maor1246-std,concepticon-742,12.35,mutu,end,mutu
+clics-doculect-183-1410,maor1246-std,concepticon-742,12.35,mutuŋa,end,mutuNGa
+clics-doculect-183-1411,maor1246-std,concepticon-372,12.352,matamata,pointed,matamata
+clics-doculect-183-1412,maor1246-std,concepticon-372,12.352,tara,pointed,tara
+clics-doculect-183-1413,maor1246-std,concepticon-372,12.352,koiŋa,pointed,koiNGa
+clics-doculect-183-1414,maor1246-std,concepticon-863,12.353,rohea,edge,rohea
+clics-doculect-183-1415,maor1246-std,concepticon-863,12.353,tapa,edge,tapa
+clics-doculect-183-1416,maor1246-std,concepticon-863,12.353,ŋutu,edge,NGutu
+clics-doculect-183-1417,maor1246-std,concepticon-863,12.353,taha,edge,taha
+clics-doculect-183-1418,maor1246-std,concepticon-682,12.36,taha,side,taha
+clics-doculect-183-1419,maor1246-std,concepticon-682,12.36,kaokao,side,kaokao
+clics-doculect-183-1420,maor1246-std,concepticon-1093,12.37,waeŋa,"middle, center",waeNGa
+clics-doculect-183-1421,maor1246-std,concepticon-1093,12.37,waeŋanui,"middle, center",waeNGanui
+clics-doculect-183-1422,maor1246-std,concepticon-1093,12.37,waeŋarahi,"middle, center",waeNGarahi
+clics-doculect-183-1423,maor1246-std,concepticon-1019,12.41,riŋamatau,right (side),riNGamatau
+clics-doculect-183-1424,maor1246-std,concepticon-244,12.42,riŋamaui,left (side),riNGamaui
+clics-doculect-183-1425,maor1246-std,concepticon-1942,12.43,tata,near (adv),tata
+clics-doculect-183-1426,maor1246-std,concepticon-1942,12.43,nei,near (adv),nei
+clics-doculect-183-1427,maor1246-std,concepticon-1942,12.43,paatata,near (adv),paatata
+clics-doculect-183-1428,maor1246-std,concepticon-1406,12.44,tawhiti,far (adv),tawhiti
+clics-doculect-183-1429,maor1246-std,concepticon-1406,12.44,taawaahi,far (adv),taawaahi
+clics-doculect-183-1430,maor1246-std,concepticon-1406,12.44,kooraa,far (adv),kooraa
+clics-doculect-183-1431,maor1246-std,concepticon-1406,12.44,kooatu,far (adv),kooatu
+clics-doculect-183-1432,maor1246-std,concepticon-1877,12.45,raawhiti,east,raawhiti
+clics-doculect-183-1433,maor1246-std,concepticon-1817,12.46,uru,west,uru
+clics-doculect-183-1434,maor1246-std,concepticon-1817,12.46,hauauru,west,hauauru
+clics-doculect-183-1435,maor1246-std,concepticon-1817,12.46,taihauauru,west,taihauauru
+clics-doculect-183-1436,maor1246-std,concepticon-1598,12.47,raro,north,raro
+clics-doculect-183-1437,maor1246-std,concepticon-1598,12.47,hauraro,north,hauraro
+clics-doculect-183-1438,maor1246-std,concepticon-1598,12.47,raki,north,raki
+clics-doculect-183-1439,maor1246-std,concepticon-1595,12.48,toŋa,south,toNGa
+clics-doculect-183-1440,maor1246-std,concepticon-1595,12.48,ruŋa,south,ruNGa
+clics-doculect-183-1441,maor1246-std,concepticon-479,12.53,tupuria,grow,tupuria
+clics-doculect-183-1442,maor1246-std,concepticon-479,12.53,tipu,grow,tipu
+clics-doculect-183-1443,maor1246-std,concepticon-479,12.53,tupu,grow,tupu
+clics-doculect-183-1444,maor1246-std,concepticon-1506,12.54,meehua,measure,meehua
+clics-doculect-183-1445,maor1246-std,concepticon-1506,12.54,ruuri,measure,ruuri
+clics-doculect-183-1446,maor1246-std,concepticon-81,12.541,maaroo,"span, fathom",maaroo
+clics-doculect-183-1447,maor1246-std,concepticon-1202,12.55,nui,"large, big",nui
+clics-doculect-183-1448,maor1246-std,concepticon-1202,12.55,rahi,"large, big",rahi
+clics-doculect-183-1449,maor1246-std,concepticon-1246,12.56,iti,"small, little",iti
+clics-doculect-183-1450,maor1246-std,concepticon-1246,12.56,nohinohi,"small, little",nohinohi
+clics-doculect-183-1451,maor1246-std,concepticon-1246,12.56,pakupaku,"small, little",pakupaku
+clics-doculect-183-1452,maor1246-std,concepticon-1246,12.56,paku,"small, little",paku
+clics-doculect-183-1453,maor1246-std,concepticon-1246,12.56,moroiti,"small, little",moroiti
+clics-doculect-183-1454,maor1246-std,concepticon-1203,12.57,roa,long,roa
+clics-doculect-183-1455,maor1246-std,concepticon-711,12.58,roa,tall,roa
+clics-doculect-183-1456,maor1246-std,concepticon-711,12.58,teitei,tall,teitei
+clics-doculect-183-1457,maor1246-std,concepticon-1645,12.59,poto,short,poto
+clics-doculect-183-1458,maor1246-std,concepticon-1645,12.59,hakahaka,short,hakahaka
+clics-doculect-183-1459,maor1246-std,concepticon-1243,12.61,whaanui,"wide, broad",whaanui
+clics-doculect-183-1460,maor1246-std,concepticon-1267,12.62,whaaiti,narrow,whaaiti
+clics-doculect-183-1461,maor1246-std,concepticon-1244,12.63,maatotoru,thick (in dimension),maatotoru
+clics-doculect-183-1462,maor1246-std,concepticon-2249,12.65,rahirahi,thin (in dimension),rahirahi
+clics-doculect-183-1463,maor1246-std,concepticon-2249,12.65,aŋiaŋi,thin (in dimension),aNGiaNGi
+clics-doculect-183-1464,maor1246-std,concepticon-2249,12.65,tuupuhi,thin (in dimension),tuupuhi
+clics-doculect-183-1465,maor1246-std,concepticon-2249,12.65,hiiroki,thin (in dimension),hiiroki
+clics-doculect-183-1466,maor1246-std,concepticon-1593,12.67,hoohonu,deep,hoohonu
+clics-doculect-183-1467,maor1246-std,concepticon-193,12.68,paapaku,shallow,paapaku
+clics-doculect-183-1468,maor1246-std,concepticon-1633,12.71,papa,flat,papa
+clics-doculect-183-1469,maor1246-std,concepticon-1633,12.71,papatahi,flat,papatahi
+clics-doculect-183-1470,maor1246-std,concepticon-1633,12.71,papatairite,flat,papatairite
+clics-doculect-183-1471,maor1246-std,concepticon-1633,12.71,paaraharaha,flat,paaraharaha
+clics-doculect-183-1472,maor1246-std,concepticon-1633,12.71,pararahi,flat,pararahi
+clics-doculect-183-1473,maor1246-std,concepticon-1404,12.73,tootika,straight,tootika
+clics-doculect-183-1474,maor1246-std,concepticon-1404,12.73,tika,straight,tika
+clics-doculect-183-1475,maor1246-std,concepticon-297,12.74,hape,crooked,hape
+clics-doculect-183-1476,maor1246-std,concepticon-297,12.74,noni,crooked,noni
+clics-doculect-183-1477,maor1246-std,concepticon-297,12.74,nuke,crooked,nuke
+clics-doculect-183-1478,maor1246-std,concepticon-297,12.74,hake,crooked,hake
+clics-doculect-183-1479,maor1246-std,concepticon-297,12.74,parori,crooked,parori
+clics-doculect-183-1480,maor1246-std,concepticon-1071,12.75,matau,hook,matau
+clics-doculect-183-1481,maor1246-std,concepticon-1071,12.75,piihuka,hook,piihuka
+clics-doculect-183-1482,maor1246-std,concepticon-192,12.76,kokoŋa,corner,kokoNGa
+clics-doculect-183-1483,maor1246-std,concepticon-192,12.76,koko,corner,koko
+clics-doculect-183-1484,maor1246-std,concepticon-192,12.76,koki,corner,koki
+clics-doculect-183-1485,maor1246-std,concepticon-192,12.76,kopa,corner,kopa
+clics-doculect-183-1486,maor1246-std,concepticon-1367,12.77,riipekatia,cross,riipekatia
+clics-doculect-183-1487,maor1246-std,concepticon-850,12.78,tapawhaa,square,tapawhaa
+clics-doculect-183-1488,maor1246-std,concepticon-1395,12.81,porotaka,round,porotaka
+clics-doculect-183-1489,maor1246-std,concepticon-1395,12.81,porohita,round,porohita
+clics-doculect-183-1490,maor1246-std,concepticon-1395,12.81,pae,round,pae
+clics-doculect-183-1491,maor1246-std,concepticon-1467,12.82,porowhita,circle,porowhita
+clics-doculect-183-1492,maor1246-std,concepticon-1845,12.83,pooro,"sphere, ball",pooro
+clics-doculect-183-1493,maor1246-std,concepticon-1845,12.83,poia,"sphere, ball",poia
+clics-doculect-183-1494,maor1246-std,concepticon-1845,12.83,pookaitia,"sphere, ball",pookaitia
+clics-doculect-183-1495,maor1246-std,concepticon-1667,12.85,poka,hole,poka
+clics-doculect-183-1496,maor1246-std,concepticon-1667,12.85,puta,hole,puta
+clics-doculect-183-1497,maor1246-std,concepticon-1667,12.85,rua,hole,rua
+clics-doculect-183-1498,maor1246-std,concepticon-1667,12.85,koowhao,hole,koowhao
+clics-doculect-183-1499,maor1246-std,concepticon-1558,12.92,aahuataŋa,"like, similar",aahuataNGa
+clics-doculect-183-1500,maor1246-std,concepticon-1558,12.92,rite,"like, similar",rite
+clics-doculect-183-1501,maor1246-std,concepticon-1558,12.92,riteŋa,"like, similar",riteNGa
+clics-doculect-183-1502,maor1246-std,concepticon-1264,12.93,whiti,change,whiti
+clics-doculect-183-1503,maor1246-std,concepticon-1264,12.93,whakawhiti,change,whakawhiti
+clics-doculect-183-1504,maor1246-std,concepticon-1493,13.1,tahi,one,tahi
+clics-doculect-183-1505,maor1246-std,concepticon-1493,13.1,kotahi,one,kotahi
+clics-doculect-183-1506,maor1246-std,concepticon-1498,13.2,rua,two,rua
+clics-doculect-183-1507,maor1246-std,concepticon-1498,13.2,tuarua,two,tuarua
+clics-doculect-183-1508,maor1246-std,concepticon-492,13.3,toru,three,toru
+clics-doculect-183-1509,maor1246-std,concepticon-1500,13.4,whaa,four,whaa
+clics-doculect-183-1510,maor1246-std,concepticon-493,13.5,rima,five,rima
+clics-doculect-183-1511,maor1246-std,concepticon-1703,13.6,ono,six,ono
+clics-doculect-183-1512,maor1246-std,concepticon-1704,13.7,whitu,seven,whitu
+clics-doculect-183-1513,maor1246-std,concepticon-1705,13.8,waru,eight,waru
+clics-doculect-183-1514,maor1246-std,concepticon-1483,13.9,iwa,nine,iwa
+clics-doculect-183-1515,maor1246-std,concepticon-1515,13.10,tekau,ten,tekau
+clics-doculect-183-1516,maor1246-std,concepticon-1706,13.101,tekaumaatahi,eleven,tekaumaatahi
+clics-doculect-183-1517,maor1246-std,concepticon-1707,13.102,tekaumaarua,twelve,tekaumaarua
+clics-doculect-183-1518,maor1246-std,concepticon-1709,13.103,tekaumaarima,fifteen,tekaumaarima
+clics-doculect-183-1519,maor1246-std,concepticon-1710,13.104,ruatekau,twenty,ruatekau
+clics-doculect-183-1520,maor1246-std,concepticon-1634,13.105,rau,hundred,rau
+clics-doculect-183-1521,maor1246-std,concepticon-1843,13.106,mano,thousand,mano
+clics-doculect-183-1522,maor1246-std,concepticon-1420,13.107,tauria,count,tauria
+clics-doculect-183-1523,maor1246-std,concepticon-98,13.14,katoa,"every, all",katoa
+clics-doculect-183-1524,maor1246-std,concepticon-98,13.14,teenei,"every, all",teenei
+clics-doculect-183-1525,maor1246-std,concepticon-1198,13.15,maha,"much, many",maha
+clics-doculect-183-1526,maor1246-std,concepticon-1198,13.15,tini,"much, many",tini
+clics-doculect-183-1527,maor1246-std,concepticon-1198,13.15,nui,"much, many",nui
+clics-doculect-183-1528,maor1246-std,concepticon-1992,13.16,eetahiatu,more,eetahiatu
+clics-doculect-183-1529,maor1246-std,concepticon-1242,13.17,iti,"little (quantity), few",iti
+clics-doculect-183-1530,maor1246-std,concepticon-1242,13.17,poto,"little (quantity), few",poto
+clics-doculect-183-1531,maor1246-std,concepticon-1242,13.17,torutoru,"little (quantity), few",torutoru
+clics-doculect-183-1532,maor1246-std,concepticon-1242,13.17,ouou,"little (quantity), few",ouou
+clics-doculect-183-1533,maor1246-std,concepticon-1242,13.17,itiiho,"little (quantity), few",itiiho
+clics-doculect-183-1534,maor1246-std,concepticon-1881,13.18,kanui,enough,kanui
+clics-doculect-183-1535,maor1246-std,concepticon-1241,13.181,ŋētahi,some,NGetahi
+clics-doculect-183-1536,maor1246-std,concepticon-2023,13.19,mano,"multitude, crowd",mano
+clics-doculect-183-1537,maor1246-std,concepticon-2023,13.19,tini,"multitude, crowd",tini
+clics-doculect-183-1538,maor1246-std,concepticon-2023,13.19,maha,"multitude, crowd",maha
+clics-doculect-183-1539,maor1246-std,concepticon-2023,13.19,huihuiŋa,"multitude, crowd",huihuiNGa
+clics-doculect-183-1540,maor1246-std,concepticon-2023,13.19,whakamineŋa,"multitude, crowd",whakamineNGa
+clics-doculect-183-1541,maor1246-std,concepticon-2023,13.19,roopuu,"multitude, crowd",roopuu
+clics-doculect-183-1542,maor1246-std,concepticon-1429,13.21,kii,full,kii
+clics-doculect-183-1543,maor1246-std,concepticon-1429,13.21,maruu,full,maruu
+clics-doculect-183-1544,maor1246-std,concepticon-1624,13.22,takotokau,empty,takotokau
+clics-doculect-183-1545,maor1246-std,concepticon-779,13.23,waahaŋa,"part, piece",waahaNGa
+clics-doculect-183-1546,maor1246-std,concepticon-779,13.23,waahi,"part, piece",waahi
+clics-doculect-183-1547,maor1246-std,concepticon-779,13.23,maramara,"part, piece",maramara
+clics-doculect-183-1548,maor1246-std,concepticon-779,13.23,piihi,"part, piece",piihi
+clics-doculect-183-1549,maor1246-std,concepticon-816,13.24,haawhetia,half,haawhetia
+clics-doculect-183-1550,maor1246-std,concepticon-1580,13.33,anake,"alone, only",anake
+clics-doculect-183-1551,maor1246-std,concepticon-728,13.34,tuatahi,first,tuatahi
+clics-doculect-183-1552,maor1246-std,concepticon-1384,13.36,tuarua,second,tuarua
+clics-doculect-183-1553,maor1246-std,concepticon-1384,13.36,heekena,second,heekena
+clics-doculect-183-1554,maor1246-std,concepticon-1888,13.37,puurua,pair,puurua
+clics-doculect-183-1555,maor1246-std,concepticon-1888,13.37,whakapeapea,pair,whakapeapea
+clics-doculect-183-1556,maor1246-std,concepticon-1546,13.38,tuarua,two times,tuarua
+clics-doculect-183-1557,maor1246-std,concepticon-1859,13.42,tuatoru,third,tuatoru
+clics-doculect-183-1558,maor1246-std,concepticon-1859,13.42,toru,third,toru
+clics-doculect-183-1559,maor1246-std,concepticon-892,14.11,waa,time,waa
+clics-doculect-183-1560,maor1246-std,concepticon-1789,14.12,pakeke,age,pakeke
+clics-doculect-183-1561,maor1246-std,concepticon-1231,14.13,hoou,new,hoou
+clics-doculect-183-1562,maor1246-std,concepticon-1229,14.15,tawhito,old,tawhito
+clics-doculect-183-1563,maor1246-std,concepticon-1229,14.15,kaumaatua,old,kaumaatua
+clics-doculect-183-1564,maor1246-std,concepticon-1229,14.15,koroheke,old,koroheke
+clics-doculect-183-1565,maor1246-std,concepticon-1229,14.15,koroua,old,koroua
+clics-doculect-183-1566,maor1246-std,concepticon-1229,14.15,kuia,old,kuia
+clics-doculect-183-1567,maor1246-std,concepticon-672,14.16,moata,early,moata
+clics-doculect-183-1568,maor1246-std,concepticon-477,14.17,toomuri,late,toomuri
+clics-doculect-183-1569,maor1246-std,concepticon-477,14.17,tuureiti,late,tuureiti
+clics-doculect-183-1570,maor1246-std,concepticon-1376,14.18,inaianei,now,inaianei
+clics-doculect-183-1571,maor1246-std,concepticon-1376,14.18,aakuanei,now,aakuanei
+clics-doculect-183-1572,maor1246-std,concepticon-1376,14.18,aianei,now,aianei
+clics-doculect-183-1573,maor1246-std,concepticon-1963,14.19,aianeitonu,immediately,aianeitonu
+clics-doculect-183-1574,maor1246-std,concepticon-1631,14.21,tere,"swift, fast, quick",tere
+clics-doculect-183-1575,maor1246-std,concepticon-1631,14.21,au,"swift, fast, quick",au
+clics-doculect-183-1576,maor1246-std,concepticon-1631,14.21,taaheke,"swift, fast, quick",taaheke
+clics-doculect-183-1577,maor1246-std,concepticon-1631,14.21,horo,"swift, fast, quick",horo
+clics-doculect-183-1578,maor1246-std,concepticon-1631,14.21,hohoro,"swift, fast, quick",hohoro
+clics-doculect-183-1579,maor1246-std,concepticon-1631,14.21,kakama,"swift, fast, quick",kakama
+clics-doculect-183-1580,maor1246-std,concepticon-701,14.22,roa,slow,roa
+clics-doculect-183-1581,maor1246-std,concepticon-701,14.22,whakaroatia,slow,whakaroatia
+clics-doculect-183-1582,maor1246-std,concepticon-701,14.22,pooturi,slow,pooturi
+clics-doculect-183-1583,maor1246-std,concepticon-754,14.23,hohoro,"hasten, hurry",hohoro
+clics-doculect-183-1584,maor1246-std,concepticon-754,14.23,whakahohoro,"hasten, hurry",whakahohoro
+clics-doculect-183-1585,maor1246-std,concepticon-425,14.24,whakaroatia,"retard, delay",whakaroatia
+clics-doculect-183-1586,maor1246-std,concepticon-1806,14.25,tiimataria,"begin, beginning",tiimataria
+clics-doculect-183-1587,maor1246-std,concepticon-1806,14.25,whakatiimataŋia,"begin, beginning",whakatiimataNGia
+clics-doculect-183-1588,maor1246-std,concepticon-1766,14.27,oti,finish,oti
+clics-doculect-183-1589,maor1246-std,concepticon-1766,14.27,mutu,finish,mutu
+clics-doculect-183-1590,maor1246-std,concepticon-1766,14.27,whakamutua,finish,whakamutua
+clics-doculect-183-1591,maor1246-std,concepticon-1766,14.27,whakaotia,finish,whakaotia
+clics-doculect-183-1592,maor1246-std,concepticon-1928,14.28,kaati,"cease, stop",kaati
+clics-doculect-183-1593,maor1246-std,concepticon-1928,14.28,whakamutua,"cease, stop",whakamutua
+clics-doculect-183-1594,maor1246-std,concepticon-790,14.29,rite,ready,rite
+clics-doculect-183-1595,maor1246-std,concepticon-790,14.29,reri,ready,reri
+clics-doculect-183-1596,maor1246-std,concepticon-1676,14.31,iŋaawaakatoa,always,iNGaawaakatoa
+clics-doculect-183-1597,maor1246-std,concepticon-703,14.331,aakuanei,soon,aakuanei
+clics-doculect-183-1598,maor1246-std,concepticon-703,14.331,meake,soon,meake
+clics-doculect-183-1599,maor1246-std,concepticon-703,14.331,aianei,soon,aianei
+clics-doculect-183-1600,maor1246-std,concepticon-703,14.331,tataanoo,soon,tataanoo
+clics-doculect-183-1601,maor1246-std,concepticon-204,14.35,anoo,again,anoo
+clics-doculect-183-1602,maor1246-std,concepticon-204,14.35,hoki,again,hoki
+clics-doculect-183-1603,maor1246-std,concepticon-1225,14.41,raa,day,raa
+clics-doculect-183-1604,maor1246-std,concepticon-1225,14.41,raŋi,day,raNGi
+clics-doculect-183-1605,maor1246-std,concepticon-1225,14.41,awatea,day,awatea
+clics-doculect-183-1606,maor1246-std,concepticon-1225,14.41,ao,day,ao
+clics-doculect-183-1607,maor1246-std,concepticon-1233,14.42,pooŋia,night,pooNGia
+clics-doculect-183-1608,maor1246-std,concepticon-1233,14.42,poo,night,poo
+clics-doculect-183-1609,maor1246-std,concepticon-729,14.43,atatuu,dawn,atatuu
+clics-doculect-183-1610,maor1246-std,concepticon-729,14.43,atapoo,dawn,atapoo
+clics-doculect-183-1611,maor1246-std,concepticon-729,14.43,hiiteata,dawn,hiiteata
+clics-doculect-183-1612,maor1246-std,concepticon-1339,14.44,ata,morning,ata
+clics-doculect-183-1613,maor1246-std,concepticon-12,14.45,poupoutaŋaoteraa,"noon, midday",poupoutaNGaoteraa
+clics-doculect-183-1614,maor1246-std,concepticon-1807,14.451,ahiahi,afternoon,ahiahi
+clics-doculect-183-1615,maor1246-std,concepticon-1807,14.451,teheketaŋaoteraa,afternoon,teheketaNGaoteraa
+clics-doculect-183-1616,maor1246-std,concepticon-1629,14.46,ahiahi,evening,ahiahi
+clics-doculect-183-1617,maor1246-std,concepticon-1283,14.47,aianei,today,aianei
+clics-doculect-183-1618,maor1246-std,concepticon-1283,14.47,ināianei,today,inaianei
+clics-doculect-183-1619,maor1246-std,concepticon-1283,14.47,aakuanei,today,aakuanei
+clics-doculect-183-1620,maor1246-std,concepticon-1329,14.48,aapoopoo,tomorrow,aapoopoo
+clics-doculect-183-1621,maor1246-std,concepticon-1174,14.49,inanahi,yesterday,inanahi
+clics-doculect-183-1622,maor1246-std,concepticon-1174,14.49,noonanahi,yesterday,noonanahi
+clics-doculect-183-1623,maor1246-std,concepticon-1174,14.49,itaainahi,yesterday,itaainahi
+clics-doculect-183-1624,maor1246-std,concepticon-1353,14.51,haora,hour,haora
+clics-doculect-183-1625,maor1246-std,concepticon-1699,14.62,Raatapu,Sunday,Raatapu
+clics-doculect-183-1626,maor1246-std,concepticon-1695,14.64,Tuurei,Tuesday,Tuurei
+clics-doculect-183-1627,maor1246-std,concepticon-1694,14.65,Wenerei,Wednesday,Wenerei
+clics-doculect-183-1628,maor1246-std,concepticon-1693,14.66,Taaite,Thursday,Taaite
+clics-doculect-183-1629,maor1246-std,concepticon-1692,14.67,paraire,Friday,paraire
+clics-doculect-183-1630,maor1246-std,concepticon-1700,14.68,Haatarei,Saturday,Haatarei
+clics-doculect-183-1631,maor1246-std,concepticon-1370,14.71,marama,month,marama
+clics-doculect-183-1632,maor1246-std,concepticon-1226,14.73,tau,year,tau
+clics-doculect-183-1633,maor1246-std,concepticon-1471,14.74,hootoke,winter,hootoke
+clics-doculect-183-1634,maor1246-std,concepticon-1471,14.74,takurua,winter,takurua
+clics-doculect-183-1635,maor1246-std,concepticon-1471,14.74,makariri,winter,makariri
+clics-doculect-183-1636,maor1246-std,concepticon-1342,14.76,raumati,summer,raumati
+clics-doculect-183-1637,maor1246-std,concepticon-1276,14.77,ŋahuru,autumn,NGahuru
+clics-doculect-183-1638,maor1246-std,concepticon-691,14.78,tau,season,tau
+clics-doculect-183-1639,maor1246-std,concepticon-691,14.78,waa,season,waa
+clics-doculect-183-1640,maor1246-std,concepticon-1587,15.21,hoŋia,smell (vb intrans),hoNGia
+clics-doculect-183-1641,maor1246-std,concepticon-1587,15.21,roŋohia,smell (vb intrans),roNGohia
+clics-doculect-183-1642,maor1246-std,concepticon-1587,15.21,roŋo,smell (vb intrans),roNGo
+clics-doculect-183-1643,maor1246-std,concepticon-375,15.212,hoŋihoŋi,sniff,hoNGihoNGi
+clics-doculect-183-1644,maor1246-std,concepticon-376,15.25,kakara,"fragrant, good smelling",kakara
+clics-doculect-183-1645,maor1246-std,concepticon-42,15.26,piro,"stinking, bad smelling",piro
+clics-doculect-183-1646,maor1246-std,concepticon-42,15.26,hauŋa,"stinking, bad smelling",hauNGa
+clics-doculect-183-1647,maor1246-std,concepticon-21,15.31,roŋohia,taste,roNGohia
+clics-doculect-183-1648,maor1246-std,concepticon-21,15.31,roŋo,taste,roNGo
+clics-doculect-183-1649,maor1246-std,concepticon-21,15.31,haa,taste,haa
+clics-doculect-183-1650,maor1246-std,concepticon-21,15.31,roŋo,taste,roNGo
+clics-doculect-183-1651,maor1246-std,concepticon-717,15.35,reka,sweet,reka
+clics-doculect-183-1652,maor1246-std,concepticon-887,15.37,kawa,bitter,kawa
+clics-doculect-183-1653,maor1246-std,concepticon-1906,15.38,kawa,"acid, sour",kawa
+clics-doculect-183-1654,maor1246-std,concepticon-70,15.39,maataitai,brackish,maataitai
+clics-doculect-183-1655,maor1246-std,concepticon-1408,15.41,roŋohia,hear,roNGohia
+clics-doculect-183-1656,maor1246-std,concepticon-1408,15.41,raŋona,hear,raNGona
+clics-doculect-183-1657,maor1246-std,concepticon-1408,15.41,roŋo,hear,roNGo
+clics-doculect-183-1658,maor1246-std,concepticon-1608,15.42,whakaroŋo,listen,whakaroNGo
+clics-doculect-183-1659,maor1246-std,concepticon-1811,15.44,taŋihia,"sound, noise",taNGihia
+clics-doculect-183-1660,maor1246-std,concepticon-1811,15.44,haruru,"sound, noise",haruru
+clics-doculect-183-1661,maor1246-std,concepticon-377,15.45,taŋinui,loud,taNGinui
+clics-doculect-183-1662,maor1246-std,concepticon-1314,15.46,marie,"quiet, silence",marie
+clics-doculect-183-1663,maor1246-std,concepticon-1314,15.46,rata,"quiet, silence",rata
+clics-doculect-183-1664,maor1246-std,concepticon-1314,15.46,aatanoho,"quiet, silence",aatanoho
+clics-doculect-183-1665,maor1246-std,concepticon-1409,15.51,kitea,see,kitea
+clics-doculect-183-1666,maor1246-std,concepticon-1409,15.51,matakite,see,matakite
+clics-doculect-183-1667,maor1246-std,concepticon-1409,15.51,kite,see,kite
+clics-doculect-183-1668,maor1246-std,concepticon-1819,15.52,titiro,"look, look at",titiro
+clics-doculect-183-1669,maor1246-std,concepticon-1819,15.52,tirohia,"look, look at",tirohia
+clics-doculect-183-1670,maor1246-std,concepticon-1819,15.52,maatakitaki,"look, look at",maatakitaki
+clics-doculect-183-1671,maor1246-std,concepticon-1039,15.55,tohu,show,tohu
+clics-doculect-183-1672,maor1246-std,concepticon-1039,15.55,maarama,show,maarama
+clics-doculect-183-1673,maor1246-std,concepticon-1039,15.55,tohuŋia,show,tohuNGia
+clics-doculect-183-1674,maor1246-std,concepticon-1039,15.55,tuhia,show,tuhia
+clics-doculect-183-1675,maor1246-std,concepticon-708,15.56,tiaho,shine,tiaho
+clics-doculect-183-1676,maor1246-std,concepticon-708,15.56,whitia,shine,whitia
+clics-doculect-183-1677,maor1246-std,concepticon-708,15.56,piiataata,shine,piiataata
+clics-doculect-183-1678,maor1246-std,concepticon-708,15.56,whiti,shine,whiti
+clics-doculect-183-1679,maor1246-std,concepticon-679,15.57,piiata,bright,piiata
+clics-doculect-183-1680,maor1246-std,concepticon-679,15.57,kanapa,bright,kanapa
+clics-doculect-183-1681,maor1246-std,concepticon-679,15.57,wheriko,bright,wheriko
+clics-doculect-183-1682,maor1246-std,concepticon-679,15.57,maarama,bright,maarama
+clics-doculect-183-1683,maor1246-std,concepticon-1613,15.61,kara,color,kara
+clics-doculect-183-1684,maor1246-std,concepticon-250,15.62,maarama,light (in color),maarama
+clics-doculect-183-1685,maor1246-std,concepticon-250,15.62,ao,light (in color),ao
+clics-doculect-183-1686,maor1246-std,concepticon-250,15.62,taiahoaho,light (in color),taiahoaho
+clics-doculect-183-1687,maor1246-std,concepticon-1335,15.64,maa,white,maa
+clics-doculect-183-1688,maor1246-std,concepticon-1335,15.64,tea,white,tea
+clics-doculect-183-1689,maor1246-std,concepticon-163,15.65,maŋu,black,maNGu
+clics-doculect-183-1690,maor1246-std,concepticon-163,15.65,paŋo,black,paNGo
+clics-doculect-183-1691,maor1246-std,concepticon-156,15.66,whero,red,whero
+clics-doculect-183-1692,maor1246-std,concepticon-156,15.66,kookoowai,red,kookoowai
+clics-doculect-183-1693,maor1246-std,concepticon-156,15.66,kura,red,kura
+clics-doculect-183-1694,maor1246-std,concepticon-837,15.67,puruu,blue,puruu
+clics-doculect-183-1695,maor1246-std,concepticon-1425,15.68,kaakaariki,green,kaakaariki
+clics-doculect-183-1696,maor1246-std,concepticon-1425,15.68,kiriini,green,kiriini
+clics-doculect-183-1697,maor1246-std,concepticon-1424,15.69,koowhai,yellow,koowhai
+clics-doculect-183-1698,maor1246-std,concepticon-1424,15.69,puŋapuŋa,yellow,puNGapuNGa
+clics-doculect-183-1699,maor1246-std,concepticon-1892,15.71,paaŋia,touch,paaNGia
+clics-doculect-183-1700,maor1246-std,concepticon-1892,15.71,paa,touch,paa
+clics-doculect-183-1701,maor1246-std,concepticon-1892,15.71,whakapaa,touch,whakapaa
+clics-doculect-183-1702,maor1246-std,concepticon-1892,15.71,whaawhaaria,touch,whaawhaaria
+clics-doculect-183-1703,maor1246-std,concepticon-378,15.712,kikini,pinch,kikini
+clics-doculect-183-1704,maor1246-std,concepticon-378,15.712,nonoti,pinch,nonoti
+clics-doculect-183-1705,maor1246-std,concepticon-378,15.712,pakini,pinch,pakini
+clics-doculect-183-1706,maor1246-std,concepticon-1079,15.72,roŋo,feel,roNGo
+clics-doculect-183-1707,maor1246-std,concepticon-1079,15.72,roŋohia,feel,roNGohia
+clics-doculect-183-1708,maor1246-std,concepticon-1884,15.74,maaroo,hard,maaroo
+clics-doculect-183-1709,maor1246-std,concepticon-1884,15.74,pakeke,hard,pakeke
+clics-doculect-183-1710,maor1246-std,concepticon-1884,15.74,pakari,hard,pakari
+clics-doculect-183-1711,maor1246-std,concepticon-1856,15.75,ŋaawari,soft,NGaawari
+clics-doculect-183-1712,maor1246-std,concepticon-1856,15.75,ŋoheŋohe,soft,NGoheNGohe
+clics-doculect-183-1713,maor1246-std,concepticon-1923,15.76,taratara,rough,taratara
+clics-doculect-183-1714,maor1246-std,concepticon-1234,15.77,maaeneene,smooth,maaeneene
+clics-doculect-183-1715,maor1246-std,concepticon-1396,15.78,koi,sharp,koi
+clics-doculect-183-1716,maor1246-std,concepticon-1396,15.78,whakakoia,sharp,whakakoia
+clics-doculect-183-1717,maor1246-std,concepticon-379,15.79,puhuki,"blunt, dull",puhuki
+clics-doculect-183-1718,maor1246-std,concepticon-379,15.79,punuki,"blunt, dull",punuki
+clics-doculect-183-1719,maor1246-std,concepticon-1210,15.81,taimaha,heavy,taimaha
+clics-doculect-183-1720,maor1246-std,concepticon-1210,15.81,taumaha,heavy,taumaha
+clics-doculect-183-1721,maor1246-std,concepticon-1210,15.81,toimaha,heavy,toimaha
+clics-doculect-183-1722,maor1246-std,concepticon-1052,15.82,maamaa,light (in weight),maamaa
+clics-doculect-183-1723,maor1246-std,concepticon-1726,15.83,maakuukuu,"wet, damp",maakuukuu
+clics-doculect-183-1724,maor1246-std,concepticon-1726,15.83,haumaakuu,"wet, damp",haumaakuu
+clics-doculect-183-1725,maor1246-std,concepticon-1726,15.83,maakuu,"wet, damp",maakuu
+clics-doculect-183-1726,maor1246-std,concepticon-1398,15.84,maroke,dry,maroke
+clics-doculect-183-1727,maor1246-std,concepticon-1398,15.84,whakamaroketia,dry,whakamaroketia
+clics-doculect-183-1728,maor1246-std,concepticon-1286,15.85,wera,hot,wera
+clics-doculect-183-1729,maor1246-std,concepticon-1286,15.85,paawera,hot,paawera
+clics-doculect-183-1730,maor1246-std,concepticon-1286,15.85,mahana,hot,mahana
+clics-doculect-183-1731,maor1246-std,concepticon-1286,15.85,kakaa,hot,kakaa
+clics-doculect-183-1732,maor1246-std,concepticon-1232,15.851,mahana,warm,mahana
+clics-doculect-183-1733,maor1246-std,concepticon-1232,15.851,werawera,warm,werawera
+clics-doculect-183-1734,maor1246-std,concepticon-1287,15.86,koopeke,cold,koopeke
+clics-doculect-183-1735,maor1246-std,concepticon-1287,15.86,maaeke,cold,maaeke
+clics-doculect-183-1736,maor1246-std,concepticon-1287,15.86,makariri,cold,makariri
+clics-doculect-183-1737,maor1246-std,concepticon-1287,15.86,maatao,cold,maatao
+clics-doculect-183-1738,maor1246-std,concepticon-704,15.87,maa,clean,maa
+clics-doculect-183-1739,maor1246-std,concepticon-1230,15.88,paru,"dirty, soiled",paru
+clics-doculect-183-1740,maor1246-std,concepticon-380,15.89,korukoru,wrinkled,korukoru
+clics-doculect-183-1741,maor1246-std,concepticon-380,15.89,memeŋe,wrinkled,memeNGe
+clics-doculect-183-1742,maor1246-std,concepticon-380,15.89,ŋiŋio,wrinkled,NGiNGio
+clics-doculect-183-1743,maor1246-std,concepticon-53,16.11,wairua,"soul, spirit",wairua
+clics-doculect-183-1744,maor1246-std,concepticon-53,16.11,ŋaakau,"soul, spirit",NGaakau
+clics-doculect-183-1745,maor1246-std,concepticon-1572,16.15,miiharo,"surprised, astonished",miiharo
+clics-doculect-183-1746,maor1246-std,concepticon-1572,16.15,keteketeanateniho,"surprised, astonished",keteketeanateniho
+clics-doculect-183-1747,maor1246-std,concepticon-720,16.18,waimarie,"good fortune, luck",waimarie
+clics-doculect-183-1748,maor1246-std,concepticon-56,16.19,aituaa,"misfortune, bad luck",aituaa
+clics-doculect-183-1749,maor1246-std,concepticon-1495,16.23,manahau,"joyful, glad, happy",manahau
+clics-doculect-183-1750,maor1246-std,concepticon-1495,16.23,ŋahau,"joyful, glad, happy",NGahau
+clics-doculect-183-1751,maor1246-std,concepticon-1495,16.23,tatuu,"joyful, glad, happy",tatuu
+clics-doculect-183-1752,maor1246-std,concepticon-1495,16.23,kuatatuuteŋaakau,"joyful, glad, happy",kuatatuuteNGaakau
+clics-doculect-183-1753,maor1246-std,concepticon-1355,16.25,kataina,laugh,kataina
+clics-doculect-183-1754,maor1246-std,concepticon-1355,16.25,kata,laugh,kata
+clics-doculect-183-1755,maor1246-std,concepticon-1451,16.251,menemeneŋaapaapaariŋa,smile,menemeneNGaapaapaariNGa
+clics-doculect-183-1756,maor1246-std,concepticon-1413,16.26,purei,play,purei
+clics-doculect-183-1757,maor1246-std,concepticon-1413,16.26,tākaro,play,takaro
+clics-doculect-183-1758,maor1246-std,concepticon-923,16.27,arohaina,love,arohaina
+clics-doculect-183-1759,maor1246-std,concepticon-578,16.29,kihia,kiss,kihia
+clics-doculect-183-1760,maor1246-std,concepticon-928,16.3,awhi,embrace,awhi
+clics-doculect-183-1761,maor1246-std,concepticon-928,16.3,awhitia,embrace,awhitia
+clics-doculect-183-1762,maor1246-std,concepticon-928,16.3,tauapohia,embrace,tauapohia
+clics-doculect-183-1763,maor1246-std,concepticon-928,16.3,tauawhi,embrace,tauawhi
+clics-doculect-183-1764,maor1246-std,concepticon-1783,16.31,mamae,pain,mamae
+clics-doculect-183-1765,maor1246-std,concepticon-1783,16.31,whara,pain,whara
+clics-doculect-183-1766,maor1246-std,concepticon-1668,16.32,poouri,"grief, sorrow, sadness",poouri
+clics-doculect-183-1767,maor1246-std,concepticon-1000,16.33,maaharaharatia,"anxiety, worry",maaharaharatia
+clics-doculect-183-1768,maor1246-std,concepticon-1875,16.34,auee,"regret, be sorry",auee
+clics-doculect-183-1769,maor1246-std,concepticon-1875,16.34,taŋihia,"regret, be sorry",taNGihia
+clics-doculect-183-1770,maor1246-std,concepticon-1875,16.34,mihia,"regret, be sorry",mihia
+clics-doculect-183-1771,maor1246-std,concepticon-1875,16.34,aroha,"regret, be sorry",aroha
+clics-doculect-183-1772,maor1246-std,concepticon-1875,16.34,koonohi,"regret, be sorry",koonohi
+clics-doculect-183-1773,maor1246-std,concepticon-1141,16.35,arohaina,pity,arohaina
+clics-doculect-183-1774,maor1246-std,concepticon-1839,16.37,taŋihia,"cry, weep",taNGihia
+clics-doculect-183-1775,maor1246-std,concepticon-1839,16.37,aueetia,"cry, weep",aueetia
+clics-doculect-183-1776,maor1246-std,concepticon-1839,16.37,taŋi,"cry, weep",taNGi
+clics-doculect-183-1777,maor1246-std,concepticon-1651,16.38,roimata,tear (noun),roimata
+clics-doculect-183-1778,maor1246-std,concepticon-716,16.39,auee,groan,auee
+clics-doculect-183-1779,maor1246-std,concepticon-716,16.39,aurere,groan,aurere
+clics-doculect-183-1780,maor1246-std,concepticon-1607,16.41,kino,hate,kino
+clics-doculect-183-1781,maor1246-std,concepticon-1607,16.41,whakakino,hate,whakakino
+clics-doculect-183-1782,maor1246-std,concepticon-1607,16.41,mauaahara,hate,mauaahara
+clics-doculect-183-1783,maor1246-std,concepticon-82,16.42,riria,anger,riria
+clics-doculect-183-1784,maor1246-std,concepticon-82,16.42,pukuriri,anger,pukuriri
+clics-doculect-183-1785,maor1246-std,concepticon-82,16.42,riri,anger,riri
+clics-doculect-183-1786,maor1246-std,concepticon-82,16.42,pooraŋi,anger,pooraNGi
+clics-doculect-183-1787,maor1246-std,concepticon-82,16.42,ŋuha,anger,NGuha
+clics-doculect-183-1788,maor1246-std,concepticon-40,16.44,hae,"envy, jealousy",hae
+clics-doculect-183-1789,maor1246-std,concepticon-40,16.44,puuhaehae,"envy, jealousy",puuhaehae
+clics-doculect-183-1790,maor1246-std,concepticon-40,16.44,harawene,"envy, jealousy",harawene
+clics-doculect-183-1791,maor1246-std,concepticon-1776,16.45,whakamaa,shame (noun),whakamaa
+clics-doculect-183-1792,maor1246-std,concepticon-174,16.48,whakahiihii,proud,whakahiihii
+clics-doculect-183-1793,maor1246-std,concepticon-174,16.48,whakakake,proud,whakakake
+clics-doculect-183-1794,maor1246-std,concepticon-1779,16.51,maaia,dare,maaia
+clics-doculect-183-1795,maor1246-std,concepticon-3,16.52,maaia,brave,maaia
+clics-doculect-183-1796,maor1246-std,concepticon-3,16.52,toa,brave,toa
+clics-doculect-183-1797,maor1246-std,concepticon-781,16.53,mataku,"fear, fright",mataku
+clics-doculect-183-1798,maor1246-std,concepticon-781,16.53,wehi,"fear, fright",wehi
+clics-doculect-183-1799,maor1246-std,concepticon-781,16.53,whakawehi,"fear, fright",whakawehi
+clics-doculect-183-1800,maor1246-std,concepticon-781,16.53,whakamatakuria,"fear, fright",whakamatakuria
+clics-doculect-183-1801,maor1246-std,concepticon-1784,16.62,hia,"desire, want",hia
+clics-doculect-183-1802,maor1246-std,concepticon-1784,16.62,hiahiatia,"desire, want",hiahiatia
+clics-doculect-183-1803,maor1246-std,concepticon-1784,16.62,piiraŋitia,"desire, want",piiraNGitia
+clics-doculect-183-1804,maor1246-std,concepticon-1784,16.62,aro,"desire, want",aro
+clics-doculect-183-1805,maor1246-std,concepticon-1784,16.62,hineŋaro,"desire, want",hineNGaro
+clics-doculect-183-1806,maor1246-std,concepticon-1750,16.622,whiriwhiria,choose,whiriwhiria
+clics-doculect-183-1807,maor1246-std,concepticon-1750,16.622,tohuŋia,choose,tohuNGia
+clics-doculect-183-1808,maor1246-std,concepticon-1750,16.622,koowhiria,choose,koowhiria
+clics-doculect-183-1809,maor1246-std,concepticon-1092,16.63,tuumanakohia,hope,tuumanakohia
+clics-doculect-183-1810,maor1246-std,concepticon-1657,16.66,pono,true,pono
+clics-doculect-183-1811,maor1246-std,concepticon-601,16.67,patau,"lie, tell lies",patau
+clics-doculect-183-1812,maor1246-std,concepticon-601,16.67,teka,"lie, tell lies",teka
+clics-doculect-183-1813,maor1246-std,concepticon-601,16.67,tito,"lie, tell lies",tito
+clics-doculect-183-1814,maor1246-std,concepticon-601,16.67,horihori,"lie, tell lies",horihori
+clics-doculect-183-1815,maor1246-std,concepticon-1035,16.71,pai,good,pai
+clics-doculect-183-1816,maor1246-std,concepticon-1292,16.72,kino,bad,kino
+clics-doculect-183-1817,maor1246-std,concepticon-1292,16.72,piro,bad,piro
+clics-doculect-183-1818,maor1246-std,concepticon-1725,16.73,pono,"right, correct",pono
+clics-doculect-183-1819,maor1246-std,concepticon-1725,16.73,tika,"right, correct",tika
+clics-doculect-183-1820,maor1246-std,concepticon-1725,16.73,tootika,"right, correct",tootika
+clics-doculect-183-1821,maor1246-std,concepticon-1725,16.73,whakatikaia,"right, correct",whakatikaia
+clics-doculect-183-1822,maor1246-std,concepticon-1390,16.74,hee,wrong,hee
+clics-doculect-183-1823,maor1246-std,concepticon-134,16.76,hee,fault,hee
+clics-doculect-183-1824,maor1246-std,concepticon-1293,16.77,hee,"mistake, error",hee
+clics-doculect-183-1825,maor1246-std,concepticon-1293,16.77,pooheehee,"mistake, error",pooheehee
+clics-doculect-183-1826,maor1246-std,concepticon-1293,16.77,pooauau,"mistake, error",pooauau
+clics-doculect-183-1827,maor1246-std,concepticon-381,16.78,hee,blame,hee
+clics-doculect-183-1828,maor1246-std,concepticon-381,16.78,whakaheeŋia,blame,whakaheeNGia
+clics-doculect-183-1829,maor1246-std,concepticon-1687,16.79,whakapaia,praise,whakapaia
+clics-doculect-183-1830,maor1246-std,concepticon-1427,16.81,aataahua,beautiful,aataahua
+clics-doculect-183-1831,maor1246-std,concepticon-1427,16.81,huumarie,beautiful,huumarie
+clics-doculect-183-1832,maor1246-std,concepticon-1548,16.82,aahuakino,ugly,aahuakino
+clics-doculect-183-1833,maor1246-std,concepticon-1548,16.82,kino,ugly,kino
+clics-doculect-183-1834,maor1246-std,concepticon-1310,16.84,moohiotia,clever,moohiotia
+clics-doculect-183-1835,maor1246-std,concepticon-1310,16.84,maatauria,clever,maatauria
+clics-doculect-183-1836,maor1246-std,concepticon-1562,17.11,hineŋaro,mind,hineNGaro
+clics-doculect-183-1837,maor1246-std,concepticon-1415,17.13,whakaaro,think (= reflect),whakaaro
+clics-doculect-183-1838,maor1246-std,concepticon-1415,17.13,maaharahara,think (= reflect),maaharahara
+clics-doculect-183-1839,maor1246-std,concepticon-1890,17.15,whakaponoŋia,believe,whakaponoNGia
+clics-doculect-183-1840,maor1246-std,concepticon-1536,17.16,maatauria,understand,maatauria
+clics-doculect-183-1841,maor1246-std,concepticon-1536,17.16,kitea,understand,kitea
+clics-doculect-183-1842,maor1246-std,concepticon-1410,17.17,moohiotia,know,moohiotia
+clics-doculect-183-1843,maor1246-std,concepticon-1410,17.17,maatauria,know,maatauria
+clics-doculect-183-1844,maor1246-std,concepticon-1410,17.17,kitea,know,kitea
+clics-doculect-183-1845,maor1246-std,concepticon-117,17.172,whaaia,imitate,whaaia
+clics-doculect-183-1846,maor1246-std,concepticon-117,17.172,taawhai,imitate,taawhai
+clics-doculect-183-1847,maor1246-std,concepticon-117,17.172,kape,imitate,kape
+clics-doculect-183-1848,maor1246-std,concepticon-698,17.21,maatauria,wise,maatauria
+clics-doculect-183-1849,maor1246-std,concepticon-698,17.21,moohiotia,wise,moohiotia
+clics-doculect-183-1850,maor1246-std,concepticon-698,17.21,maatauraŋa,wise,maatauraNGa
+clics-doculect-183-1851,maor1246-std,concepticon-1518,17.22,kuuare,"foolish, stupid",kuuare
+clics-doculect-183-1852,maor1246-std,concepticon-1518,17.22,heahea,"foolish, stupid",heahea
+clics-doculect-183-1853,maor1246-std,concepticon-1518,17.22,wairaŋi,"foolish, stupid",wairaNGi
+clics-doculect-183-1854,maor1246-std,concepticon-1899,17.23,pooraŋitia,"insane, crazy",pooraNGitia
+clics-doculect-183-1855,maor1246-std,concepticon-1899,17.23,heahea,"insane, crazy",heahea
+clics-doculect-183-1856,maor1246-std,concepticon-504,17.24,ako,learn,ako
+clics-doculect-183-1857,maor1246-std,concepticon-504,17.24,aakona,learn,aakona
+clics-doculect-183-1858,maor1246-std,concepticon-709,17.25,akona,teach,akona
+clics-doculect-183-1859,maor1246-std,concepticon-709,17.25,whakaakona,teach,whakaakona
+clics-doculect-183-1860,maor1246-std,concepticon-753,17.26,akoŋa,pupil,akoNGa
+clics-doculect-183-1861,maor1246-std,concepticon-753,17.26,tauira,pupil,tauira
+clics-doculect-183-1862,maor1246-std,concepticon-1038,17.27,maahita,teacher,maahita
+clics-doculect-183-1863,maor1246-std,concepticon-1038,17.27,kaiwhakaako,teacher,kaiwhakaako
+clics-doculect-183-1864,maor1246-std,concepticon-1038,17.27,kaikura,teacher,kaikura
+clics-doculect-183-1865,maor1246-std,concepticon-1038,17.27,kuramaahita,teacher,kuramaahita
+clics-doculect-183-1866,maor1246-std,concepticon-673,17.28,wharekura,school,wharekura
+clics-doculect-183-1867,maor1246-std,concepticon-707,17.31,maharatia,remember,maharatia
+clics-doculect-183-1868,maor1246-std,concepticon-1523,17.32,ŋaro,forget,NGaro
+clics-doculect-183-1869,maor1246-std,concepticon-1523,17.32,warewaretia,forget,warewaretia
+clics-doculect-183-1870,maor1246-std,concepticon-989,17.34,maarama,"clear, plain",maarama
+clics-doculect-183-1871,maor1246-std,concepticon-1121,17.36,puku,secret,puku
+clics-doculect-183-1872,maor1246-std,concepticon-1121,17.36,ŋaro,secret,NGaro
+clics-doculect-183-1873,maor1246-std,concepticon-509,17.37,moohio,"sure, certain",moohio
+clics-doculect-183-1874,maor1246-std,concepticon-509,17.37,tuuturu,"sure, certain",tuuturu
+clics-doculect-183-1875,maor1246-std,concepticon-1626,17.38,whakamaaramatia,explain,whakamaaramatia
+clics-doculect-183-1876,maor1246-std,concepticon-860,17.42,meatia,cause,meatia
+clics-doculect-183-1877,maor1246-std,concepticon-860,17.42,whaka,cause,whaka
+clics-doculect-183-1878,maor1246-std,concepticon-1308,17.43,ruarua,doubt,ruarua
+clics-doculect-183-1879,maor1246-std,concepticon-1308,17.43,rapurapu,doubt,rapurapu
+clics-doculect-183-1880,maor1246-std,concepticon-1308,17.43,raupeka,doubt,raupeka
+clics-doculect-183-1881,maor1246-std,concepticon-1841,17.44,whakapaeŋia,suspect,whakapaeNGia
+clics-doculect-183-1882,maor1246-std,concepticon-1902,17.441,kaikaiwaiuu,betray,kaikaiwaiuu
+clics-doculect-183-1883,maor1246-std,concepticon-686,17.46,ŋaawari,easy,NGaawari
+clics-doculect-183-1884,maor1246-std,concepticon-686,17.46,waiŋoohia,easy,waiNGoohia
+clics-doculect-183-1885,maor1246-std,concepticon-584,17.47,uaua,difficult,uaua
+clics-doculect-183-1886,maor1246-std,concepticon-584,17.47,raru,difficult,raru
+clics-doculect-183-1887,maor1246-std,concepticon-1812,17.48,whakamaatauria,"try, attempt",whakamaatauria
+clics-doculect-183-1888,maor1246-std,concepticon-488,17.49,riteŋa,"way, manner",riteNGa
+clics-doculect-183-1889,maor1246-std,concepticon-488,17.49,tikaŋa,"way, manner",tikaNGa
+clics-doculect-183-1890,maor1246-std,concepticon-488,17.49,tuu,"way, manner",tuu
+clics-doculect-183-1891,maor1246-std,concepticon-1577,17.51,me,and,me
+clics-doculect-183-1892,maor1246-std,concepticon-1157,17.52,naa,because,naa
+clics-doculect-183-1893,maor1246-std,concepticon-1157,17.52,noo,because,noo
+clics-doculect-183-1894,maor1246-std,concepticon-1157,17.52,moo,because,moo
+clics-doculect-183-1895,maor1246-std,concepticon-1157,17.52,taatemea,because,taatemea
+clics-doculect-183-1896,maor1246-std,concepticon-1157,17.52,noo,because,noo
+clics-doculect-183-1897,maor1246-std,concepticon-1459,17.53,me,if,me
+clics-doculect-183-1898,maor1246-std,concepticon-1014,17.54,rānei,or,ranei
+clics-doculect-183-1899,maor1246-std,concepticon-1268,17.55,aae,"yes, affirmative",aae
+clics-doculect-183-1900,maor1246-std,concepticon-1269,17.56,kaahore,"no, negative",kaahore
+clics-doculect-183-1901,maor1246-std,concepticon-1269,17.56,kaaore,"no, negative",kaaore
+clics-doculect-183-1902,maor1246-std,concepticon-1269,17.56,kaao,"no, negative",kaao
+clics-doculect-183-1903,maor1246-std,concepticon-1269,17.56,eehe,"no, negative",eehe
+clics-doculect-183-1904,maor1246-std,concepticon-1269,17.56,kaare,"no, negative",kaare
+clics-doculect-183-1905,maor1246-std,concepticon-1269,17.56,kaua,"no, negative",kaua
+clics-doculect-183-1906,maor1246-std,concepticon-1239,17.61,peehea,how?,peehea
+clics-doculect-183-1907,maor1246-std,concepticon-1239,17.61,peewheatia,how?,peewheatia
+clics-doculect-183-1908,maor1246-std,concepticon-822,17.62,hia,how many?,hia
+clics-doculect-183-1909,maor1246-std,concepticon-822,17.62,ehia,how many?,ehia
+clics-doculect-183-1910,maor1246-std,concepticon-1236,17.64,ahatia?,what?,ahatia?
+clics-doculect-183-1911,maor1246-std,concepticon-1238,17.65,aahea?,when?,aahea?
+clics-doculect-183-1912,maor1246-std,concepticon-1238,17.65,noonaahea?,when?,noonaahea?
+clics-doculect-183-1913,maor1246-std,concepticon-1238,17.65,ina,when?,ina
+clics-doculect-183-1914,maor1246-std,concepticon-1237,17.66,hea?,where?,hea?
+clics-doculect-183-1915,maor1246-std,concepticon-1237,17.66,whea?,where?,whea?
+clics-doculect-183-1916,maor1246-std,concepticon-727,17.67,teehea?,which?,teehea?
+clics-doculect-183-1917,maor1246-std,concepticon-727,17.67,tēhea,which?,tehea
+clics-doculect-183-1918,maor1246-std,concepticon-1235,17.68,wai?,who?,wai?
+clics-doculect-183-1919,maor1246-std,concepticon-1270,17.69,naateaha?,why?,naateaha?
+clics-doculect-183-1920,maor1246-std,concepticon-1270,17.69,heahaai?,why?,heahaai?
+clics-doculect-183-1921,maor1246-std,concepticon-1363,18.11,reo,voice,reo
+clics-doculect-183-1922,maor1246-std,concepticon-1261,18.12,waiatatia,sing,waiatatia
+clics-doculect-183-1923,maor1246-std,concepticon-715,18.13,umeretia,"shout, cry out",umeretia
+clics-doculect-183-1924,maor1246-std,concepticon-715,18.13,karaŋatia,"shout, cry out",karaNGatia
+clics-doculect-183-1925,maor1246-std,concepticon-715,18.13,pararee,"shout, cry out",pararee
+clics-doculect-183-1926,maor1246-std,concepticon-715,18.13,tiiwaha,"shout, cry out",tiiwaha
+clics-doculect-183-1927,maor1246-std,concepticon-715,18.13,haamama,"shout, cry out",haamama
+clics-doculect-183-1928,maor1246-std,concepticon-1025,18.17,whio,whistle,whio
+clics-doculect-183-1929,maor1246-std,concepticon-1025,18.17,korowhiti,whistle,korowhiti
+clics-doculect-183-1930,maor1246-std,concepticon-1025,18.17,wiihara,whistle,wiihara
+clics-doculect-183-1931,maor1246-std,concepticon-298,18.18,kowee,"shriek, screech",kowee
+clics-doculect-183-1932,maor1246-std,concepticon-298,18.18,tiwee,"shriek, screech",tiwee
+clics-doculect-183-1933,maor1246-std,concepticon-298,18.18,auee,"shriek, screech",auee
+clics-doculect-183-1934,maor1246-std,concepticon-298,18.18,taŋihia,"shriek, screech",taNGihia
+clics-doculect-183-1935,maor1246-std,concepticon-298,18.18,ŋawii,"shriek, screech",NGawii
+clics-doculect-183-1936,maor1246-std,concepticon-526,18.19,taŋi,howl,taNGi
+clics-doculect-183-1937,maor1246-std,concepticon-526,18.19,auee,howl,auee
+clics-doculect-183-1938,maor1246-std,concepticon-526,18.19,ŋawii,howl,NGawii
+clics-doculect-183-1939,maor1246-std,concepticon-1623,18.21,kiia,"speak, talk",kiia
+clics-doculect-183-1940,maor1246-std,concepticon-1623,18.21,meatia,"speak, talk",meatia
+clics-doculect-183-1941,maor1246-std,concepticon-1623,18.21,koorerotia,"speak, talk",koorerotia
+clics-doculect-183-1942,maor1246-std,concepticon-1623,18.21,whakaaturia,"speak, talk",whakaaturia
+clics-doculect-183-1943,maor1246-std,concepticon-1623,18.21,whaakina,"speak, talk",whaakina
+clics-doculect-183-1944,maor1246-std,concepticon-1458,18.22,koorerotia,say,koorerotia
+clics-doculect-183-1945,maor1246-std,concepticon-1458,18.22,kiia,say,kiia
+clics-doculect-183-1946,maor1246-std,concepticon-1458,18.22,meatia,say,meatia
+clics-doculect-183-1947,maor1246-std,concepticon-1458,18.22,kiia,say,kiia
+clics-doculect-183-1948,maor1246-std,concepticon-1458,18.22,mea,say,mea
+clics-doculect-183-1949,maor1246-std,concepticon-1711,18.221,koorero,tell story,koorero
+clics-doculect-183-1950,maor1246-std,concepticon-1115,18.222,koorerotia,speech (make a),koorerotia
+clics-doculect-183-1951,maor1246-std,concepticon-1115,18.222,kiia,speech (make a),kiia
+clics-doculect-183-1952,maor1246-std,concepticon-1115,18.222,kupu,speech (make a),kupu
+clics-doculect-183-1953,maor1246-std,concepticon-1115,18.222,reo,speech (make a),reo
+clics-doculect-183-1954,maor1246-std,concepticon-48,18.23,nohopuku,silent (be),nohopuku
+clics-doculect-183-1955,maor1246-std,concepticon-48,18.23,haaŋuu,silent (be),haaNGuu
+clics-doculect-183-1956,maor1246-std,concepticon-1307,18.24,reo,language,reo
+clics-doculect-183-1957,maor1246-std,concepticon-1599,18.26,kupu,word,kupu
+clics-doculect-183-1958,maor1246-std,concepticon-1599,18.26,kii,word,kii
+clics-doculect-183-1959,maor1246-std,concepticon-1405,18.28,iŋoa,name,iNGoa
+clics-doculect-183-1960,maor1246-std,concepticon-1309,18.31,uia,"ask (question, inquire)",uia
+clics-doculect-183-1961,maor1246-std,concepticon-1275,18.32,whakahokia,answer,whakahokia
+clics-doculect-183-1962,maor1246-std,concepticon-1275,18.32,whakautua,answer,whakautua
+clics-doculect-183-1963,maor1246-std,concepticon-2022,18.33,whaakina,"admit, confess",whaakina
+clics-doculect-183-1964,maor1246-std,concepticon-755,18.34,whakakaahoretia,deny,whakakaahoretia
+clics-doculect-183-1965,maor1246-std,concepticon-1828,18.35,inoia,"ask, request",inoia
+clics-doculect-183-1966,maor1246-std,concepticon-1675,18.36,oati,promise,oati
+clics-doculect-183-1967,maor1246-std,concepticon-49,18.37,whakakaahoretia,refuse,whakakaahoretia
+clics-doculect-183-1968,maor1246-std,concepticon-49,18.37,whakaparahakotia,refuse,whakaparahakotia
+clics-doculect-183-1969,maor1246-std,concepticon-83,18.38,whakakaahoretia,forbid,whakakaahoretia
+clics-doculect-183-1970,maor1246-std,concepticon-83,18.38,whakakore,forbid,whakakore
+clics-doculect-183-1971,maor1246-std,concepticon-83,18.38,peehia,forbid,peehia
+clics-doculect-183-1972,maor1246-std,concepticon-299,18.39,kohete,"rebuke, scold",kohete
+clics-doculect-183-1973,maor1246-std,concepticon-299,18.39,koowhetewhete,"rebuke, scold",koowhetewhete
+clics-doculect-183-1974,maor1246-std,concepticon-299,18.39,kowhetetia,"rebuke, scold",kowhetetia
+clics-doculect-183-1975,maor1246-std,concepticon-1084,18.41,karaŋa,call (=summon),karaNGa
+clics-doculect-183-1976,maor1246-std,concepticon-1084,18.41,pararē,call (=summon),parare
+clics-doculect-183-1977,maor1246-std,concepticon-180,18.42,huaina,call (=name),huaina
+clics-doculect-183-1978,maor1246-std,concepticon-180,18.42,tapaia,call (=name),tapaia
+clics-doculect-183-1979,maor1246-std,concepticon-9,18.43,pānui,announce,panui
+clics-doculect-183-1980,maor1246-std,concepticon-1192,18.44,whakawehia,threaten,whakawehia
+clics-doculect-183-1981,maor1246-std,concepticon-101,18.45,whakaputa,boast,whakaputa
+clics-doculect-183-1982,maor1246-std,concepticon-101,18.45,whakakake,boast,whakakake
+clics-doculect-183-1983,maor1246-std,concepticon-101,18.45,whakatuu,boast,whakatuu
+clics-doculect-183-1984,maor1246-std,concepticon-101,18.45,paakiwaha,boast,paakiwaha
+clics-doculect-183-1985,maor1246-std,concepticon-1672,18.51,tuhia,write,tuhia
+clics-doculect-183-1986,maor1246-std,concepticon-1672,18.51,tuhi,write,tuhi
+clics-doculect-183-1987,maor1246-std,concepticon-724,18.52,koorerotia,read,koorerotia
+clics-doculect-183-1988,maor1246-std,concepticon-794,18.57,pene,pen,pene
+clics-doculect-183-1989,maor1246-std,concepticon-963,18.61,pukapuka,book,pukapuka
+clics-doculect-183-1990,maor1246-std,concepticon-777,18.71,puutorino,flute,puutorino
+clics-doculect-183-1991,maor1246-std,concepticon-777,18.71,kooauau,flute,kooauau
+clics-doculect-183-1992,maor1246-std,concepticon-2136,18.73,puutaatara,"horn, trumpet",puutaatara
+clics-doculect-183-1993,maor1246-std,concepticon-2136,18.73,teetere,"horn, trumpet",teetere
+clics-doculect-183-1994,maor1246-std,concepticon-300,18.74,tataŋi,rattle,tataNGi
+clics-doculect-183-1995,maor1246-std,concepticon-1300,19.11,whenua,country,whenua
+clics-doculect-183-1996,maor1246-std,concepticon-1391,19.15,taaone,"city, town",taaone
+clics-doculect-183-1997,maor1246-std,concepticon-930,19.16,kaaiŋa,village,kaaiNGa
+clics-doculect-183-1998,maor1246-std,concepticon-930,19.16,paa,village,paa
+clics-doculect-183-1999,maor1246-std,concepticon-1010,19.17,rohea,boundary,rohea
+clics-doculect-183-2000,maor1246-std,concepticon-1010,19.17,raina,boundary,raina
+clics-doculect-183-2001,maor1246-std,concepticon-789,19.21,iwi,people (populace),iwi
+clics-doculect-183-2002,maor1246-std,concepticon-789,19.21,taaŋata,people (populace),taaNGata
+clics-doculect-183-2003,maor1246-std,concepticon-789,19.21,huŋa,people (populace),huNGa
+clics-doculect-183-2004,maor1246-std,concepticon-302,19.23,hapuu,"tribe, clan",hapuu
+clics-doculect-183-2005,maor1246-std,concepticon-302,19.23,iwi,"tribe, clan",iwi
+clics-doculect-183-2006,maor1246-std,concepticon-302,19.23,apa,"tribe, clan",apa
+clics-doculect-183-2007,maor1246-std,concepticon-302,19.23,ohu,"tribe, clan",ohu
+clics-doculect-183-2008,maor1246-std,concepticon-302,19.23,ope,"tribe, clan",ope
+clics-doculect-183-2009,maor1246-std,concepticon-301,19.24,raŋatira,"chief, chieftain",raNGatira
+clics-doculect-183-2010,maor1246-std,concepticon-301,19.24,ariki,"chief, chieftain",ariki
+clics-doculect-183-2011,maor1246-std,concepticon-301,19.24,paahi,"chief, chieftain",paahi
+clics-doculect-183-2012,maor1246-std,concepticon-1296,19.25,tokotoko,"staff, walking stick",tokotoko
+clics-doculect-183-2013,maor1246-std,concepticon-1846,19.31,whakahaeretikaŋa,"rule, govern",whakahaeretikaNGa
+clics-doculect-183-2014,maor1246-std,concepticon-1508,19.32,kiiŋi,"king, ruler",kiiNGi
+clics-doculect-183-2015,maor1246-std,concepticon-1306,19.33,kuiini,queen,kuiini
+clics-doculect-183-2016,maor1246-std,concepticon-1032,19.37,taŋataMaaori,"citizen, subject",taNGataMaaori
+clics-doculect-183-2017,maor1246-std,concepticon-1032,19.37,taŋatawhenua,"citizen, subject",taNGatawhenua
+clics-doculect-183-2018,maor1246-std,concepticon-383,19.41,maahita,master,maahita
+clics-doculect-183-2019,maor1246-std,concepticon-383,19.41,raŋatira,master,raNGatira
+clics-doculect-183-2020,maor1246-std,concepticon-812,19.42,taurekareka,slave,taurekareka
+clics-doculect-183-2021,maor1246-std,concepticon-255,19.43,kaimahi,servant,kaimahi
+clics-doculect-183-2022,maor1246-std,concepticon-255,19.43,ponoŋa,servant,ponoNGa
+clics-doculect-183-2023,maor1246-std,concepticon-1128,19.45,tonoa,"command, order",tonoa
+clics-doculect-183-2024,maor1246-std,concepticon-1128,19.45,whakahaua,"command, order",whakahaua
+clics-doculect-183-2025,maor1246-std,concepticon-1635,19.46,roŋohia,obey,roNGohia
+clics-doculect-183-2026,maor1246-std,concepticon-1635,19.46,aatawhakaroŋo,obey,aatawhakaroNGo
+clics-doculect-183-2027,maor1246-std,concepticon-1003,19.47,tukua,"let, permit",tukua
+clics-doculect-183-2028,maor1246-std,concepticon-1325,19.51,hoa,"friend, companion",hoa
+clics-doculect-183-2029,maor1246-std,concepticon-1325,19.51,hika,"friend, companion",hika
+clics-doculect-183-2030,maor1246-std,concepticon-1325,19.51,mara,"friend, companion",mara
+clics-doculect-183-2031,maor1246-std,concepticon-1325,19.51,paa,"friend, companion",paa
+clics-doculect-183-2032,maor1246-std,concepticon-1325,19.51,takataapui,"friend, companion",takataapui
+clics-doculect-183-2033,maor1246-std,concepticon-1358,19.52,hoariri,enemy,hoariri
+clics-doculect-183-2034,maor1246-std,concepticon-791,19.55,tauiwi,stranger,tauiwi
+clics-doculect-183-2035,maor1246-std,concepticon-791,19.55,Paakehaa,stranger,Paakehaa
+clics-doculect-183-2036,maor1246-std,concepticon-791,19.55,tauhoou,stranger,tauhoou
+clics-doculect-183-2037,maor1246-std,concepticon-1782,19.56,manuhiri,guest,manuhiri
+clics-doculect-183-2038,maor1246-std,concepticon-1545,19.57,taŋatawhenua,host,taNGatawhenua
+clics-doculect-183-2039,maor1246-std,concepticon-1897,19.58,aawhinatia,"help, aid",aawhinatia
+clics-doculect-183-2040,maor1246-std,concepticon-1550,19.59,whakawheruutia,"hinder, prevent",whakawheruutia
+clics-doculect-183-2041,maor1246-std,concepticon-1550,19.59,whakakooroiroi,"hinder, prevent",whakakooroiroi
+clics-doculect-183-2042,maor1246-std,concepticon-1747,19.61,tikaŋa,custom,tikaNGa
+clics-doculect-183-2043,maor1246-std,concepticon-1747,19.61,riteŋa,custom,riteNGa
+clics-doculect-183-2044,maor1246-std,concepticon-1848,19.62,riri,"strife, quarrel",riri
+clics-doculect-183-2045,maor1246-std,concepticon-1848,19.62,pakaŋa,"strife, quarrel",pakaNGa
+clics-doculect-183-2046,maor1246-std,concepticon-1848,19.62,whawhai,"strife, quarrel",whawhai
+clics-doculect-183-2047,maor1246-std,concepticon-1831,19.65,tuutakina,meet,tuutakina
+clics-doculect-183-2048,maor1246-std,concepticon-1423,20.11,whawhaitia,fight (vb),whawhaitia
+clics-doculect-183-2049,maor1246-std,concepticon-1423,20.11,riria,fight (vb),riria
+clics-doculect-183-2050,maor1246-std,concepticon-1423,20.11,parekura,fight (vb),parekura
+clics-doculect-183-2051,maor1246-std,concepticon-579,20.13,pakaŋatia,"war, battle",pakaNGatia
+clics-doculect-183-2052,maor1246-std,concepticon-579,20.13,whawhai,"war, battle",whawhai
+clics-doculect-183-2053,maor1246-std,concepticon-579,20.13,parekura,"war, battle",parekura
+clics-doculect-183-2054,maor1246-std,concepticon-1338,20.14,roŋo,peace,roNGo
+clics-doculect-183-2055,maor1246-std,concepticon-1338,20.14,raŋimaarie,peace,raNGimaarie
+clics-doculect-183-2056,maor1246-std,concepticon-1561,20.15,ope,army,ope
+clics-doculect-183-2057,maor1246-std,concepticon-1561,20.15,taua,army,taua
+clics-doculect-183-2058,maor1246-std,concepticon-1941,20.17,hooia,soldier,hooia
+clics-doculect-183-2059,maor1246-std,concepticon-951,20.21,patu,"weapons, arms",patu
+clics-doculect-183-2060,maor1246-std,concepticon-951,20.21,raakau,"weapons, arms",raakau
+clics-doculect-183-2061,maor1246-std,concepticon-1763,20.22,patua,club,patua
+clics-doculect-183-2062,maor1246-std,concepticon-1763,20.22,wahaika,club,wahaika
+clics-doculect-183-2063,maor1246-std,concepticon-1763,20.22,mere,club,mere
+clics-doculect-183-2064,maor1246-std,concepticon-1763,20.22,kotiate,club,kotiate
+clics-doculect-183-2065,maor1246-std,concepticon-387,20.23,kootaha,sling,kootaha
+clics-doculect-183-2066,maor1246-std,concepticon-387,20.23,piua,sling,piua
+clics-doculect-183-2067,maor1246-std,concepticon-994,20.24,koopere,bow,koopere
+clics-doculect-183-2068,maor1246-std,concepticon-977,20.25,perea,arrow,perea
+clics-doculect-183-2069,maor1246-std,concepticon-945,20.26,tao,spear,tao
+clics-doculect-183-2070,maor1246-std,concepticon-945,20.26,matarau,spear,matarau
+clics-doculect-183-2071,maor1246-std,concepticon-945,20.26,kookiri,spear,kookiri
+clics-doculect-183-2072,maor1246-std,concepticon-1535,20.27,hoari,sword,hoari
+clics-doculect-183-2073,maor1246-std,concepticon-1566,20.28,puu,"gun, cannon",puu
+clics-doculect-183-2074,maor1246-std,concepticon-1566,20.28,puurepo,"gun, cannon",puurepo
+clics-doculect-183-2075,maor1246-std,concepticon-1566,20.28,tuupara,"gun, cannon",tuupara
+clics-doculect-183-2076,maor1246-std,concepticon-1064,20.34,puapua,shield,puapua
+clics-doculect-183-2077,maor1246-std,concepticon-1064,20.34,hiira,shield,hiira
+clics-doculect-183-2078,maor1246-std,concepticon-783,20.41,wikitooria,victory,wikitooria
+clics-doculect-183-2079,maor1246-std,concepticon-782,20.42,hiŋaŋa,defeat,hiNGaNGa
+clics-doculect-183-2080,maor1246-std,concepticon-722,20.43,huakina,attack,huakina
+clics-doculect-183-2081,maor1246-std,concepticon-1330,20.44,wawao,defend,wawao
+clics-doculect-183-2082,maor1246-std,concepticon-1696,20.46,tukua,surrender,tukua
+clics-doculect-183-2083,maor1246-std,concepticon-1072,20.47,herehere,"captive, prisoner",herehere
+clics-doculect-183-2084,maor1246-std,concepticon-1940,20.471,tiakina,"guard, sentinel",tiakina
+clics-doculect-183-2085,maor1246-std,concepticon-1022,20.48,paarureŋa,"booty, spoils",paarureNGa
+clics-doculect-183-2086,maor1246-std,concepticon-1022,20.48,parakete,"booty, spoils",parakete
+clics-doculect-183-2087,maor1246-std,concepticon-1074,20.52,matau,fishhook,matau
+clics-doculect-183-2088,maor1246-std,concepticon-1074,20.52,piihuka,fishhook,piihuka
+clics-doculect-183-2089,maor1246-std,concepticon-19,20.53,hii,fishing line,hii
+clics-doculect-183-2090,maor1246-std,concepticon-19,20.53,aho,fishing line,aho
+clics-doculect-183-2091,maor1246-std,concepticon-19,20.53,raina,fishing line,raina
+clics-doculect-183-2092,maor1246-std,concepticon-388,20.54,haoa,fishnet,haoa
+clics-doculect-183-2093,maor1246-std,concepticon-2013,20.56,moounutia,bait,moounutia
+clics-doculect-183-2094,maor1246-std,concepticon-2013,20.56,maaunutia,bait,maaunutia
+clics-doculect-183-2095,maor1246-std,concepticon-2013,20.56,poa,bait,poa
+clics-doculect-183-2096,maor1246-std,concepticon-1435,20.61,whaiwhai,hunt,whaiwhai
+clics-doculect-183-2097,maor1246-std,concepticon-1435,20.61,whakaŋaua,hunt,whakaNGaua
+clics-doculect-183-2098,maor1246-std,concepticon-1172,20.62,wene,shoot,wene
+clics-doculect-183-2099,maor1246-std,concepticon-1172,20.62,torotoro,shoot,torotoro
+clics-doculect-183-2100,maor1246-std,concepticon-1172,20.62,tupu,shoot,tupu
+clics-doculect-183-2101,maor1246-std,concepticon-1172,20.62,pihipihi,shoot,pihipihi
+clics-doculect-183-2102,maor1246-std,concepticon-1172,20.62,puu,shoot,puu
+clics-doculect-183-2103,maor1246-std,concepticon-1075,20.64,rorea,trap (noun),rorea
+clics-doculect-183-2104,maor1246-std,concepticon-1075,20.64,taawhiti,trap (noun),taawhiti
+clics-doculect-183-2105,maor1246-std,concepticon-1062,21.11,ture,law,ture
+clics-doculect-183-2106,maor1246-std,concepticon-1818,21.16,whakawaakia,judge (vb),whakawaakia
+clics-doculect-183-2107,maor1246-std,concepticon-861,21.18,tiati,judge (noun),tiati
+clics-doculect-183-2108,maor1246-std,concepticon-861,21.18,kaiwhakawaa,judge (noun),kaiwhakawaa
+clics-doculect-183-2109,maor1246-std,concepticon-861,21.18,kaiwhiriwhiri,judge (noun),kaiwhiriwhiri
+clics-doculect-183-2110,maor1246-std,concepticon-1144,21.23,kaiwhakaatu,witness,kaiwhakaatu
+clics-doculect-183-2111,maor1246-std,concepticon-1814,21.31,whakapaea,accuse,whakapaea
+clics-doculect-183-2112,maor1246-std,concepticon-484,21.32,whakaheeŋia,condemn,whakaheeNGia
+clics-doculect-183-2113,maor1246-std,concepticon-390,21.37,whiua,"penalty, punishment",whiua
+clics-doculect-183-2114,maor1246-std,concepticon-1281,21.39,whareherehere,"prison, jail",whareherehere
+clics-doculect-183-2115,maor1246-std,concepticon-845,21.42,koohurutia,murder,koohurutia
+clics-doculect-183-2116,maor1246-std,concepticon-902,21.43,puuremutia,adultery,puuremutia
+clics-doculect-183-2117,maor1246-std,concepticon-713,21.51,paahuatia,steal,paahuatia
+clics-doculect-183-2118,maor1246-std,concepticon-713,21.51,taahaetia,steal,taahaetia
+clics-doculect-183-2119,maor1246-std,concepticon-713,21.51,whaanakotia,steal,whaanakotia
+clics-doculect-183-2120,maor1246-std,concepticon-1160,21.52,taahaetia,thief,taahaetia
+clics-doculect-183-2121,maor1246-std,concepticon-1160,21.52,kaiaa,thief,kaiaa
+clics-doculect-183-2122,maor1246-std,concepticon-1160,21.52,whaanakotia,thief,whaanakotia

@@ -1,0 +1,786 @@
+@classification: Indo-European,Italic,Latino-Faliscan
+@iso: lat
+@language: Latin
+@size: 780
+@source: logos
+@variety: std
+1.212	earth=ground, soil	humus
+1.213	dust	pulvis
+1.214	mud	lutum
+1.23	plain, field	planum
+1.24	valley	vallis
+1.28	cave	antrum
+1.28	cave	spelunca
+1.322	calm (of sea)	lenire
+1.322	calm (of sea)	sedare
+1.322	calm (of sea)	quietus
+1.323	rough (of sea)	asper
+1.34	gulf, bay	Laurusnobilis
+1.341	lagoon	aestuarium
+1.362	whirlpool	gurges
+1.41	woods, forest	silva
+1.45	earthquake	terraemotus
+1.56	thunder	tonitrus
+1.61	light (noun)	lux
+1.62	darkness	obscuritas
+1.63	shade, shadow	umbra
+1.64	dew	ros
+1.82	flame (noun)	flamma
+1.84	ashes	cinis
+1.84	ashes	fraxinus
+1.841	embers	carbonisignis
+1.851	burn (vb trans)	ardere
+1.851	burn (vb trans)	urere
+10.11	move	movere
+10.11	move	sedemmutare
+10.12	turn over	verti
+10.12	turn over	inorbemtorquere
+10.12	turn over	torquere
+10.15	roll	evolvere
+10.17	twist	torquere
+10.21	rise	insurgere
+10.21	rise	assurgere
+10.23	fall	cadĕre
+10.24	drip	destillare
+10.25	throw	iactare
+10.26	shake	concutere
+10.26	shake	concutere
+10.32	flow	fluere
+10.33	sink	demergere
+10.34	float	fluitare
+10.35	swim	natare
+10.36	sail (vb)	velificare
+10.38	blow	flare
+10.412	kneel	geniculare
+10.43	jump, leap	salire
+10.45	walk	cedere
+10.451	limp	claudicare
+10.46	run	currere
+10.46	run	moveri
+10.46	run	currere
+10.47	go	ire
+10.471	go up	ascendere
+10.472	climb	scandere
+10.474	go out	exire
+10.48	come	venire
+10.49	go away, depart	relinquere
+10.49	go away, depart	linquere
+10.491	disappear	excidere
+10.491	disappear	eripere
+10.51	flee	fugere
+10.52	follow	sequi
+10.55	reach, arrive	pervenire
+10.56	approach	accedere
+10.56	approach	appellere
+10.56	approach	appropinquare
+10.57	enter	intrare
+10.61	carry (bear)	ferre
+10.62	bring	ferre
+10.63	send	mittere
+10.63	send	libare
+10.66	ride	equitare
+10.67	push, shove	pellere
+10.71	road	via
+10.77	axle	axis
+10.78	yoke	iugum
+10.852	row (vb)	remigare
+10.87	mast	malus
+11.11	have	habere
+11.13	take	capere
+11.14	seize, grasp	capessere
+11.15	hold	tenere
+11.16	get, obtain	attingere
+11.17	keep, retain	possidere
+11.17	keep, retain	custodire
+11.18	thing	res
+11.21	give	dare
+11.21	give	donare
+11.21	give	praebere
+11.22	give back	reddere
+11.22	give back	redire
+11.27	destroy	destruere
+11.28	harm, injure, damage	dolere
+11.28	harm, injure, damage	ferire
+11.32	find	invenire
+11.33	lose	perdere
+11.43	money	pecunia
+11.52	poor	miser
+11.53	beggar	mendicabulum
+11.53	beggar	mendicus
+11.54	avaricious, stingy	illiberalis
+11.54	avaricious, stingy	significare
+11.54	avaricious, stingy	avarus
+11.54	avaricious, stingy	sordidus
+11.62	borrow	mutuari
+11.65	pay (vb)	solvere
+11.69	tax, tribute	vectigal
+11.69	tax, tribute	tributum
+11.79	earn	merere
+11.81	buy	emere
+11.82	sell	vendere
+11.85	market (place)	mercatus
+11.86	store, shop	taberna
+11.86	store, shop	horreum
+11.87	price	pretium
+11.88	dear (costly, expensive)	carus
+11.89	cheap	vilis
+11.92	weigh	pendere
+12.11	place	locus
+12.12	put	ponere
+12.12	put	ponere
+12.13	sit	sedere
+12.14	lie down	recumbere
+12.15	stand	stare
+12.16	remain, stay	manere
+12.21	collect, gather	colligere
+12.212	pick up	carpere
+12.22	join, unite	adicere
+12.22	join, unite	adhaerescere
+12.23	separate	dividere
+12.232	divide	dividere
+12.24	open	aperire
+12.25	shut, close	claudere
+12.25	shut, close	cludere
+12.26	cover	tegere
+12.31	high	altus
+12.31	high	altus
+12.32	low	humilis
+12.352	pointed	acutus
+12.36	side	latus
+12.43	near (adv)	apud
+12.45	east	oriens
+12.46	west	Occidens
+12.47	north	septentriones
+12.48	south	Meridies
+12.53	grow	crescere
+12.53	grow	colere
+12.53	grow	accrescere
+12.54	measure	metiri
+12.55	large, big	latus
+12.55	large, big	crassus
+12.55	large, big	magnus
+12.56	small, little	paucus
+12.56	small, little	parvus
+12.57	long	longus
+12.58	tall	alta
+12.59	short	brevis
+12.62	narrow	angustus
+12.63	thick (in dimension)	crassus
+12.65	thin (in dimension)	extenuare
+12.65	thin (in dimension)	macer
+12.67	deep	altus
+12.68	shallow	humilis
+12.71	flat	planus
+12.73	straight	rectus
+12.74	crooked	distortus
+12.75	hook	hamus
+12.77	cross	crux
+12.77	cross	crux
+12.82	circle	circulus
+12.82	circle	circus
+12.82	circle	circulus
+12.84	line	linea
+12.85	hole	foramen
+12.93	change	mutare
+13.103	fifteen	quindecim
+13.107	count	computare
+13.14	every, all	totus
+13.15	much, many	multi
+13.16	more	magis
+13.18	enough	satis
+13.18	enough	sufficit
+13.181	some	ullus
+13.21	full	plenus
+13.22	empty	vacuus
+13.22	empty	exhaurire
+13.23	part, piece	pars
+13.24	half	dimidia
+13.33	alone, only	solum
+13.33	alone, only	modo
+13.33	alone, only	solus
+13.34	first	primum
+13.34	first	primus
+13.34	first	primus
+13.35	last	durare
+13.35	last	ultimus
+13.36	second	secundus
+13.37	pair	par
+13.38	two times	bis
+13.42	third	tertius
+14.11	time	tempus
+14.11	time	tempus
+14.12	age	aetas
+14.13	new	novus
+14.14	young	iuvenis
+14.15	old	vetus
+14.15	old	vetus
+14.16	early	mox
+14.17	late	sero
+14.18	now	nunc
+14.19	immediately	protinus
+14.21	swift, fast, quick	rapidus
+14.21	swift, fast, quick	celer
+14.21	swift, fast, quick	ieiunium
+14.21	swift, fast, quick	alacer
+14.22	slow	lentus
+14.23	hasten, hurry	decidere
+14.23	hasten, hurry	properare
+14.25	begin, beginning	incipere
+14.25	begin, beginning	initiare
+14.25	begin, beginning	incipere
+14.28	cease, stop	desinere
+14.29	ready	promptus
+14.31	always	semper
+14.32	often	saepe
+14.33	sometimes	aliquando
+14.331	soon	cito
+14.34	never	numquam
+14.34	never	nunquam
+14.35	again	denuo
+14.43	dawn	aurora
+14.45	noon, midday	meridies
+14.47	today	hodie
+14.48	tomorrow	cras
+14.49	yesterday	heri
+14.51	hour	hora
+14.53	clock, timepiece	horologium
+14.61	week	hebdomas
+14.62	Sunday	dominica
+14.63	Monday	Lunaedies
+14.64	Tuesday	Martisdies
+14.65	Wednesday	Mercuriidies
+14.66	Thursday	Iovisdies
+14.67	Friday	Venerisdies
+14.68	Saturday	Saturnidies
+14.78	season	hora
+15.26	stinking, bad smelling	putidus
+15.31	taste	gustare
+15.31	taste	degustare
+15.36	salty	salsus
+15.37	bitter	amarus
+15.37	bitter	acerbus
+15.41	hear	audire
+15.44	sound, noise	sonus
+15.46	quiet, silence	securus
+15.51	see	videre
+15.52	look, look at	aspicere
+15.55	show	demonstrare
+15.55	show	demonstrare
+15.55	show	ostendere
+15.56	shine	fulgere
+15.57	bright	fulgens
+15.63	dark (in color)	obscurus
+15.63	dark (in color)	tenebrosus
+15.63	dark (in color)	obscurus
+15.71	touch	tangere
+15.712	pinch	stringere
+15.72	feel	sentire
+15.74	hard	acer
+15.75	soft	mollis
+15.77	smooth	levis
+15.78	sharp	asperulus
+15.79	blunt, dull	obtusus
+15.83	wet, damp	madefacere
+15.84	dry	abstergere
+15.84	dry	siccus
+15.85	hot	calidus
+15.851	warm	fovere
+15.87	clean	politus
+15.87	clean	purgare
+15.88	dirty, soiled	perunctus
+15.88	dirty, soiled	sordidus
+16.11	soul, spirit	spiritus
+16.11	soul, spirit	spiritus
+16.23	joyful, glad, happy	contentus
+16.23	joyful, glad, happy	felix
+16.25	laugh	ridere
+16.251	smile	subridere
+16.26	play	sonare
+16.26	play	ludere
+16.26	play	agere
+16.27	love	amare
+16.29	kiss	osculari
+16.3	embrace	complector
+16.31	pain	dolor
+16.32	grief, sorrow, sadness	angor
+16.33	anxiety, worry	anxietas
+16.37	cry, weep	flere
+16.42	anger	ira
+16.42	anger	ira
+16.44	envy, jealousy	invidia
+16.45	shame (noun)	pudor
+16.48	proud	gloriosus
+16.51	dare	audere
+16.52	brave	fortis
+16.52	brave	animosus
+16.53	fear, fright	metus
+16.54	danger	periculum
+16.62	desire, want	volle
+16.622	choose	deligere
+16.622	choose	optare
+16.63	hope	sperare
+16.65	faithful	fidus
+16.66	true	verus
+16.66	true	verus
+16.67	lie, tell lies	iacere
+16.67	lie, tell lies	mentiri
+16.68	deceit	error
+16.68	deceit	falsitas
+16.69	forgive	ignoscere
+16.72	bad	malus
+16.72	bad	malum
+16.77	mistake, error	error
+16.81	beautiful	pulcher
+16.81	beautiful	pulcherrimus
+16.82	ugly	turpis
+16.83	greedy	gulosus
+16.83	greedy	edax
+17.11	mind	mens
+17.11	mind	mens
+17.15	believe	retinere
+17.15	believe	credere
+17.16	understand	intellegere
+17.17	know	noscere
+17.17	know	scire
+17.17	know	scire
+17.171	guess	imaginari
+17.172	imitate	imitari
+17.18	seem	videor
+17.21	wise	sapiens
+17.22	foolish, stupid	stolidus
+17.24	learn	discere
+17.242	study	studere
+17.25	teach	docere
+17.26	pupil	pupilla
+17.31	remember	meminisse
+17.31	remember	memorare
+17.32	forget	oblivisci
+17.34	clear, plain	enucleatus
+17.34	clear, plain	expeditus
+17.35	obscure	ater
+17.36	secret	secretus
+17.36	secret	secretum
+17.37	sure, certain	certus
+17.38	explain	explicare
+17.41	intention, purpose	intentio
+17.42	cause	causa
+17.43	doubt	dubium
+17.44	suspect	suspicari
+17.441	betray	prodere
+17.45	need, necessity	necessitas
+17.45	need, necessity	necessitas
+17.46	easy	facilis
+17.47	difficult	difficilis
+17.48	try, attempt	temptare
+17.48	try, attempt	experiri
+17.49	way, manner	iter
+17.49	way, manner	modus
+17.49	way, manner	via
+17.51	and	et
+17.52	because	quod
+17.53	if	si
+17.54	or	aut
+17.61	how?	tamquam
+17.64	what?	quid?
+17.65	when?	quando
+17.66	where?	ubi
+17.68	who?	qui
+17.69	why?	cur
+18.11	voice	vox
+18.12	sing	canere
+18.13	shout, cry out	latrare
+18.15	whisper	sussurare
+18.19	howl	ululare
+18.21	speak, talk	loqui
+18.211	stutter, stammer	balbutire
+18.211	stutter, stammer	balbutire
+18.22	say	dicere
+18.221	tell story	narrare
+18.222	speech (make a)	oratio
+18.23	silent (be)	tacere
+18.24	language	lingua
+18.26	word	verbum
+18.28	name	nomen
+18.31	ask (question, inquire)	poscere
+18.31	ask (question, inquire)	quaerere
+18.32	answer	respondere
+18.33	admit, confess	admittere
+18.34	deny	negare
+18.36	promise	promittere
+18.41	call (=summon)	vocare
+18.41	call (=summon)	vocare
+18.41	call (=summon)	vocare
+18.43	announce	nuntiare
+18.45	boast	iactare
+19.15	city, town	urbs
+19.16	village	pagus
+19.21	people (populace)	homines
+19.21	people (populace)	homines
+19.21	people (populace)	populus
+19.31	rule, govern	gubernare
+19.36	noble, nobleman	ingenuus
+19.37	citizen, subject	civis
+19.41	master	magister
+19.42	slave	servus
+19.45	command, order	imperare
+19.46	obey	oboedire
+19.52	enemy	inimicus
+19.54	neighbor	vicinus
+19.55	stranger	extraneus
+19.56	guest	hospes
+19.57	host	hostia
+19.57	host	hospes
+19.57	host	hospes
+19.58	help, aid	adiuvare
+19.59	hinder, prevent	impedire
+19.61	custom	usus
+19.61	custom	mos
+19.61	custom	consuetudo
+19.62	strife, quarrel	altercatio
+19.62	strife, quarrel	iurgium
+19.63	conspiracy, plot	textum
+19.63	conspiracy, plot	agellus
+19.65	meet	obire
+19.72	prostitute	meretrix
+2.1	person, human being	homo
+2.23	male	masculus
+2.24	female	femina
+2.26	girl	puella
+2.28	infant, baby	infans
+2.31	husband	maritus
+2.32	wife	uxor
+2.33	marry	uxoremducere
+2.34	marriage, wedding	matrimonium
+2.341	divorce	divortium
+2.37	parents	parens
+2.41	son	filius
+2.42	daughter	filia
+2.47	grandmother	avia
+2.52	aunt	amita
+2.53	nephew	nepos
+2.54	niece	neptis
+2.56	ancestors	avus
+2.61	father-in-law (of a man)	socer
+2.62	mother-in-law (of a man)	socra
+2.63	son-in-law (of a man)	gener
+2.64	daughter-in-law (of a man)	nurus
+2.71	stepfather	vitricus
+2.72	stepmother	noverca
+2.73	stepson	filiaster
+2.77	widower	viduus
+2.91	I	i
+2.91	I	ego
+2.92	you (singular)	vos
+2.92	you (singular)	tu
+2.92	you (singular)	te
+2.92	you (singular)	tu
+2.94	we	nos
+2.96	they	ii
+2.96	they	ii
+20.11	fight (vb)	pugnare
+20.11	fight (vb)	luctari
+20.13	war, battle	pugna
+20.17	soldier	miles
+20.22	club	clava
+20.22	club	circulus
+20.22	club	ferula
+20.23	sling	funda
+20.31	armor (defensive)	arma
+20.33	helmet	cassis
+20.34	shield	scutum
+20.35	fortress	oppidum
+20.42	defeat	clades
+20.43	attack	petitio
+20.44	defend	defendere
+20.46	surrender	deditionemfacere
+20.47	captive, prisoner	captivus
+20.48	booty, spoils	praeda
+20.49	ambush	insidiae
+20.53	fishing line	linum
+20.56	bait	esca
+20.61	hunt	indagare
+20.61	hunt	venatio
+20.62	shoot	vertere
+20.63	miss (target)	doloremabsentiaepati
+21.11	law	lex
+21.11	law	lex
+21.17	judgment	sententia
+21.23	witness	testis
+21.24	swear	exsecrari
+21.25	oath	juramentum
+21.31	accuse	accusare
+21.32	condemn	damnare
+21.34	acquit	absolvere
+21.35	guilty	culpabilis
+21.36	innocent	innocens
+21.38	fine	multa
+21.39	prison, jail	carcer
+21.42	murder	homicidium
+21.43	adultery	adulterium
+21.44	rape	stuprum
+3.19	stable, stall	equile
+3.19	stable, stall	stabulum
+3.2	cattle (bovine)	boves
+3.22	ox	bos
+3.24	calf	vitulus
+3.24	calf	sura
+3.26	ram	aries
+3.32	boar	verres
+3.34	sow	porca
+3.37	he-goat	hircus
+3.38	kid	haedus
+3.38	kid	puerulus
+3.44	mare	equa
+3.45	foal, colt	eculus
+3.47	mule	mulus
+3.54	hen	gallina
+3.56	goose	anser
+3.586	vulture	vulturius
+3.596	owl	strix
+3.63	mouse, rat	musrattus
+3.63	mouse, rat	musculus
+3.63	mouse, rat	mus
+3.654	gill	branchia
+3.655	shell	cortex
+3.655	shell	concha
+3.662	porpoise, dolphin	phocoena
+3.665	freshwater eel	Anguillaanguilla
+3.81	insect	insecta
+3.811	louse	pediculus
+3.812	nit (louse egg)	lens
+3.813	flea	Pulexirritans
+3.814	centipede	chilopodum
+3.816	cockroach	Blattaorientalis
+3.816	cockroach	vermiculus
+3.821	beeswax	cera
+3.84	worm	vermis
+3.97	crocodile, alligator	Alligatorsp
+4.12	skin, hide	pellis
+4.12	skin, hide	membrana
+4.146	dandruff	furfur
+4.15	blood	sanguis
+4.151	vein, artery	vena
+4.151	vein, artery	Arteria
+4.162	rib	costa
+4.17	horn	cornu
+4.202	skull	calva
+4.202	skull	calva
+4.203	brain	cerebrum
+4.213	eyelid	palpebra
+4.214	eyelash	cilia
+4.215	blink	micare
+4.215	blink	micare
+4.231	nostril	naris
+4.232	mucus (nasal)	mucus
+4.24	mouth	os
+4.241	beak	rostrum
+4.281	nape of neck	cervix
+4.29	throat	gula
+4.29	throat	fauces
+4.3	shoulder	scapula
+4.3	shoulder	humerus
+4.302	collarbone	jugulum
+4.312	armpit	Fossaaxillaris
+4.32	elbow	cubitum
+4.321	wrist	carpus
+4.331	palm of hand	palma
+4.345	claw	ungula
+4.345	claw	falcula
+4.35	leg	crus
+4.351	thigh	coxa
+4.372	heel	talus
+4.38	toe	digituspedis
+4.393	feather	penna
+4.41	breast (of woman)	pectus
+4.41	breast (of woman)	mamma
+4.412	nipple, teat	papilla
+4.42	udder	uber
+4.441	lung	pulmo
+4.45	liver	iecur
+4.452	spleen	splen
+4.462	waist	mediumcorporis
+4.462	waist	cinctus
+4.463	hip	coxa
+4.464	buttocks	culus
+4.492	penis	penis
+4.51	breathe, breath	respirare
+4.51	breathe, breath	inhalare
+4.53	cough	tussire
+4.55	perspire	sudare
+4.56	spit	spuere
+4.57	vomit	vomitare
+4.58	bite	mordere
+4.58	bite	hamumvorare
+4.59	lick	lambere
+4.612	snore	roncare
+4.62	dream	somniare
+4.64	break wind	pedere
+4.65	urinate	mingere
+4.66	defecate	cacare
+4.67	have sexual intercourse	futuere
+4.67	have sexual intercourse	amoremfacere
+4.72	born (to be)	nasci
+4.73	pregnant	praegnans
+4.75	die, dead	mori
+4.77	corpse	cadaver
+4.78	bury (the dead)	sepelire
+4.79	grave, tomb	sepulcrum
+4.81	strong, mighty, powerful	resistens
+4.81	strong, mighty, powerful	fortis
+4.82	weak	debilis
+4.82	weak	gracilis
+4.83	well, health	salvus
+4.84	sick, sickness	causarius
+4.841	fever	febris
+4.85	wound, sore	vulnus
+4.85	wound, sore	vulnus
+4.853	swelling	tuberculum
+4.854	itch	pruritus
+4.856	boil (noun)	furunculus
+4.857	pus	tabum
+4.858	scar	cicatrix
+4.86	cure, heal	sanare
+4.88	medicine, drug	medicamen
+4.89	poison	venenum
+4.91	tired, weary	fessus
+4.91	tired, weary	lassus
+4.912	rest	requiescere
+4.92	lazy	piger
+4.93	bald	calvus
+4.94	lame	claudus
+4.95	deaf	surdus
+4.97	blind	caecare
+4.97	blind	oculosperstringere
+4.97	blind	caecus
+4.98	intoxicated	ebrius
+4.98	intoxicated	ebrius
+4.99	naked, bare	nudus
+5.12	food	alimentum
+5.121	cooked	coctilis
+5.122	raw	crudus
+5.122	raw	rudis
+5.123	ripe	maturus
+5.125	rotten	putridus
+5.141	famine	caritas
+5.19	choke	angere
+5.23	roast, fry	frigere
+5.33	bowl	ampulla
+5.33	bowl	pilaligneavelaenea
+5.41	meal (a)	pastus
+5.42	breakfast	ientaculum
+5.43	lunch	prandium
+5.44	dinner	cēna
+5.46	peel	aliquidcorticenudare
+5.49	stir, mix	miscere
+5.54	knead	condepsare
+5.56	crush, grind	molere
+5.57	mill	pistrinum
+5.58	mortar	mortarium
+5.58	mortar	intrita
+5.64	soup, broth	ius
+5.712	bunch	acervus
+5.77	nut	nux
+5.78	olive	olea
+5.791	grease, fat	adeps
+5.92	wine	vinum
+5.94	fermented drink	temetum
+5.971	egg yolk	vitellus
+6.11	put on (clothes)	calceare
+6.13	tailor	vestificus
+6.21	cloth	materialis
+6.22	wool	lana
+6.24	cotton	Gossypiumsp
+6.25	silk	sericum
+6.28	fur	pellis
+6.28	fur	reno
+6.29	leather	corium
+6.29	leather	corium
+6.31	spin	nere
+6.32	spindle	fusus
+6.33	weave	texere
+6.34	loom	iugum
+6.35	sew	suere
+6.39	dye	tingere
+6.45	collar	collare
+6.45	collar	collum
+6.52	boot	pero
+6.59	veil	velum
+6.61	pocket	sinus
+6.72	jewel	gemma
+6.72	jewel	gemma
+6.921	braid	plecta
+7.11	dwell, live	vivere
+7.11	dwell, live	habitare
+7.13	hut	tugurium
+7.13	hut	gurgustium
+7.21	room	conclave
+7.421	pillow	pulvinus
+7.45	lamp, torch	fax
+7.47	shelf	pluteus
+7.48	trough	aquarium
+7.57	board	axis
+7.57	board	mensa
+7.61	mason	fabercaementarius
+8.12	field (for cultivation)	ager
+8.12	field (for cultivation)	ambitus
+8.15	cultivate, till	colere
+8.17	ditch	fossa
+8.21	plow	arare
+8.212	furrow	sulcus
+8.26	fork	furca
+8.311	seed	semen
+8.33	sickle, scythe	falx
+8.34	thresh	terere
+8.35	threshing-floor	area
+8.42	grain (barley, oats etc)	granum
+8.43	wheat	Triticumvulgaris
+8.44	barley	Hordeumvulgare
+8.45	rye	Secalecereale
+8.46	oats	AvenasativaL
+8.53	plant (noun)	planta
+8.55	branch	ramus
+8.62	beech	Fagussylvatica
+8.63	birch	Betulapendula
+8.67	vine	Vitisvinifera
+8.68	tobacco	Nicotianatabacum
+8.691	pipe	fumisugium
+8.75	bark	cortex
+8.76	sap	sucus
+8.83	citrus fruit	acrepomum
+8.83	citrus fruit	citrus
+8.91	sweet potato	Ipomoeabatatas
+8.912	yam	ipomoeabatatas
+8.92	tapioca, manioc, cassava	Manihotesculenta
+8.98	mushroom	fungus
+9.11	do, make	agere
+9.12	work	opera
+9.12	work	opus
+9.14	bend	proclinare
+9.16	tie, bind	fasciare
+9.161	untie	enodare
+9.21	strike (hit, beat)	percutere
+9.21	strike (hit, beat)	plangere
+9.21	strike (hit, beat)	icere
+9.31	rub, wipe	terere
+9.32	stretch	tendere
+9.33	pull	allicere
+9.341	hang up	suspendere
+9.342	press	premere
+9.36	wash	lavare
+9.36	wash	lavare
+9.37	sweep	everrere
+9.43	carpenter	faberlignarius
+9.44	build	struere
+9.46	bore	concitaretaedium
+9.6	smith, blacksmith	equariusmedicus
+9.6	smith, blacksmith	faberferrarius
+9.62	anvil	incus
+9.63	cast (metals)	colare
+9.68	lead (noun)	plumbum
+9.69	tin, tinplate	stannum
+9.69	tin, tinplate	arcastannea
+9.73	clay	lutum
+9.77	mat	storea
+9.81	carve	exsculpere
+9.84	chisel	scalprum
+9.88	paint (noun)	pictura

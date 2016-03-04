@@ -1,0 +1,1780 @@
+@classification: Indo-European,Germanic,West,High German,German,Middle German,East Middle German
+@ids-name: German_Phonemic
+@iso: deu
+@language: German, Standard
+@size: 1773
+@source: ids
+@variety: std
+1.1	world	welt
+1.21	earth, land	erde
+1.21	earth, land	land
+1.212	earth=ground, soil	erde
+1.212	earth=ground, soil	boden
+1.213	dust	staub
+1.214	mud	schlamm
+1.214	mud	dreck
+1.215	sand	sand
+1.22	mountain, hill	berg
+1.22	mountain, hill	hügel
+1.222	cliff, precipice	klippe
+1.23	plain, field	ebene
+1.23	plain, field	fläche
+1.23	plain, field	feld
+1.24	valley	tal
+1.25	island	insel
+1.26	mainland	festland
+1.27	shore	ufer
+1.27	shore	gestade
+1.27	shore	strand
+1.28	cave	höhle
+1.31	water	wasser
+1.32	sea	meer
+1.32	sea	see
+1.322	calm (of sea)	meeresstille
+1.323	rough (of sea)	dasbewegteMeer
+1.323	rough (of sea)	dierauheSee
+1.324	foam	schaum
+1.329	ocean	weltmeer
+1.329	ocean	ozean
+1.33	lake	see
+1.34	gulf, bay	meerbusen
+1.34	gulf, bay	golf
+1.34	gulf, bay	bai
+1.34	gulf, bay	bucht
+1.341	lagoon	lagune
+1.342	reef	riff
+1.343	headland, point	landzunge
+1.35	wave	welle
+1.35	wave	woge
+1.352	tide	gezeiten
+1.352	tide	dieebbeundflut
+1.353	lowtide	ebbe
+1.354	hightide	flut
+1.36	river, stream, brook	fluss
+1.36	river, stream, brook	strom
+1.36	river, stream, brook	bach
+1.362	whirlpool	strudel
+1.362	whirlpool	wirbel
+1.37	spring, well	quelle
+1.37	spring, well	brunnen
+1.38	swamp	sumpf
+1.38	swamp	morast
+1.39	waterfall	wasserfall
+1.41	woods, forest	wald
+1.42	tree (cf 08.600)	baum
+1.43	wood	holz
+1.44	stone, rock	stein
+1.44	stone, rock	fels
+1.45	earthquake	erdbeben
+1.51	sky	himmel
+1.52	sun	sonne
+1.53	moon	mond
+1.54	star	stern
+1.55	lightning	blitz
+1.56	thunder	donner
+1.57	lightning (as striking)	blitz
+1.57	lightning (as striking)	donnerkeil
+1.58	storm	sturm
+1.59	rainbow	regenbogen
+1.61	light (noun)	licht
+1.61	light (noun)	beleuchtung
+1.62	darkness	finsternis
+1.62	darkness	dunkelheit
+1.63	shade, shadow	schatten
+1.64	dew	tau
+1.71	air	luft
+1.72	wind	wind
+1.73	cloud	wolke
+1.74	fog	nebel
+1.75	rain (noun)	regen
+1.76	snow (noun)	schnee
+1.77	ice	eis
+1.78	weather	wetter
+1.81	fire	feuer
+1.82	flame (noun)	flamme
+1.83	smoke (noun)	rauch
+1.84	ashes	asche
+1.841	embers	glimmende
+1.841	embers	glühende
+1.851	burn (vb trans)	brennen
+1.852	burn (vb intrans)	brennen
+1.86	light, kindle, ignite	anzünden
+1.861	extinguish	auslöschen
+1.87	match (noun)	streichholz
+1.87	match (noun)	zündholz
+1.88	firewood	brennholz
+1.89	charcoal	holzkohle
+2.1	person, human being	mensch
+2.21	man (vs. woman)	mann
+2.22	woman	frau
+2.22	woman	weib
+2.23	male	männlich
+2.24	female	weiblich
+2.25	boy	junge
+2.25	boy	knabe
+2.251	young man (adolescent)	junge
+2.251	young man (adolescent)	jungermann
+2.251	young man (adolescent)	jüngling
+2.26	girl	mädchen
+2.261	young woman (adolescent)	mädchen
+2.27	child	kind
+2.28	infant, baby	säugling
+2.28	infant, baby	baby
+2.31	husband	mann
+2.31	husband	ehemann
+2.31	husband	gatte
+2.31	husband	gemahl
+2.32	wife	frau
+2.32	wife	ehefrau
+2.32	wife	gattin
+2.32	wife	gemahlin
+2.33	marry	heiraten
+2.34	marriage, wedding	heirat
+2.34	marriage, wedding	ehe
+2.34	marriage, wedding	hochzeit
+2.341	divorce	ehescheidung
+2.35	father	vater
+2.36	mother	mutter
+2.37	parents	eltern
+2.38	married man	verheiratetermann
+2.39	married woman	verheiratetefrau
+2.41	son	sohn
+2.42	daughter	tochter
+2.43	offspring (son or daughter)	kind
+2.44	brother	bruder
+2.444	older brother	ältererbruder
+2.444	older brother	grosserbruder
+2.445	younger brother	jüngererbruder
+2.445	younger brother	kleinerbruder
+2.45	sister	schwester
+2.454	older sister	ältereschwester
+2.454	older sister	grosseschwester
+2.455	younger sister	jüngereschwester
+2.455	younger sister	kleineschwester
+2.456	sibling	geschwister
+2.458	twins	zwillinge
+2.46	grandfather	grossvater
+2.461	old man	alter
+2.461	old man	greis
+2.47	grandmother	grossmutter
+2.471	old woman	alte
+2.471	old woman	greisin
+2.48	grandson	enkel
+2.49	granddaughter	enkelin
+2.51	uncle	onkel
+2.51	uncle	oheim
+2.511	mother's brother	onkel
+2.511	mother's brother	oheim
+2.512	father's brother	onkel
+2.512	father's brother	oheim
+2.52	aunt	tante
+2.521	mother's sister	tante
+2.522	father's sister	tante
+2.53	nephew	neffe
+2.54	niece	nichte
+2.55	cousin	vetter
+2.55	cousin	kusine
+2.55	cousin	base
+2.56	ancestors	ahnen
+2.56	ancestors	vorfahren
+2.56	ancestors	voreltern
+2.57	descendants	abkömmlinge
+2.57	descendants	nachkommen
+2.61	father-in-law (of a man)	schwiegervater
+2.611	father-in-law (of a woman)	schwiegervater
+2.62	mother-in-law (of a man)	schwiegermutter
+2.621	mother-in-law (of a woman)	schwiegermutter
+2.63	son-in-law (of a man)	schwiegersohn
+2.631	son-in-law (of a woman)	schwiegersohn
+2.64	daughter-in-law (of a man)	schwiegertochter
+2.641	daughter-in-law (of a woman)	schwiegertochter
+2.71	stepfather	stiefvater
+2.72	stepmother	stiefmutter
+2.73	stepson	stiefsohn
+2.74	stepdaughter	stieftochter
+2.75	orphan	waise
+2.76	widow	witwe
+2.77	widower	witwer
+2.81	relatives, kinsmen	verwandten
+2.82	family	familie
+2.91	I	ich
+2.92	you (singular)	du
+2.92	you (singular)	Sie
+2.93	he/she/it	er
+2.93	he/she/it	sie
+2.93	he/she/it	es
+2.94	we	wir
+2.941	we (inclusive)	wir
+2.942	we (exclusive)	wir
+2.95	you (plural)	ihr
+2.95	you (plural)	Sie
+2.96	they	sie
+3.11	animal	tier
+3.12	male (adj)	männlich
+3.13	female (adj)	weiblich
+3.15	livestock	vieh
+3.16	pasture	weide
+3.18	herdsman	hirt
+3.19	stable, stall	stall
+3.2	cattle (bovine)	rinder
+3.2	cattle (bovine)	rindvieh
+3.21	bull	stier
+3.21	bull	bulle
+3.22	ox	ochs
+3.23	cow	kuh
+3.24	calf	kalb
+3.25	sheep	schaf
+3.26	ram	widder
+3.26	ram	schafbock
+3.28	ewe	mutterschaf
+3.29	lamb	lamm
+3.32	boar	eber
+3.34	sow	sau
+3.35	pig	schwein
+3.36	goat	ziege
+3.36	goat	geiss
+3.37	he-goat	bock
+3.38	kid	zicklein
+3.41	horse (equine)	pferd
+3.42	stallion	hengst
+3.44	mare	stute
+3.44	mare	mähre
+3.45	foal, colt	füllen
+3.46	ass, donkey	esel
+3.47	mule	maultier
+3.47	mule	maulesel
+3.5	fowl	geflügel
+3.52	cock, rooster	hahn
+3.54	hen	huhn
+3.54	hen	henne
+3.55	chicken	huhn
+3.55	chicken	hühnchen
+3.55	chicken	küchlein
+3.56	goose	gans
+3.57	duck	ente
+3.58	nest	nest
+3.581	bird	vogel
+3.582	seagull	möwe
+3.583	heron	reiher
+3.584	eagle	adler
+3.585	hawk	falke
+3.585	hawk	habicht
+3.586	vulture	geier
+3.591	bat	fledermaus
+3.592	parrot	papagei
+3.593	crow	krähe
+3.594	dove	taube
+3.596	owl	eule
+3.61	dog	hund
+3.614	rabbit	kaninchen
+3.62	cat	kater
+3.62	cat	katze
+3.622	opossum	beutelratte
+3.622	opossum	opossum
+3.63	mouse, rat	maus
+3.63	mouse, rat	ratte
+3.65	fish	fisch
+3.652	fin (dorsal)	finne
+3.652	fin (dorsal)	rückenflosse
+3.653	fishscale	schuppe
+3.654	gill	kieme
+3.655	shell	muschel
+3.661	shark	hai
+3.661	shark	haifisch
+3.662	porpoise, dolphin	delphin
+3.662	porpoise, dolphin	tümmler
+3.663	whale	wal
+3.664	stingray	stachelrochen
+3.665	freshwater eel	flussaal
+3.71	wolf	wolf
+3.72	lion	löwe
+3.73	bear	bär
+3.74	fox	fuchs
+3.75	deer	hirsch
+3.75	deer	reh
+3.76	monkey	affe
+3.77	elephant	elefant
+3.78	camel	kamel
+3.81	insect	insekt
+3.811	louse	laus
+3.812	nit (louse egg)	nisse
+3.812	nit (louse egg)	lausei
+3.813	flea	floh
+3.814	centipede	tausendfuss
+3.815	scorpion	skorpion
+3.816	cockroach	küchenschabe
+3.816	cockroach	kakerlak
+3.817	ant	ameise
+3.818	spider	spinne
+3.819	spider web	spinngewebe
+3.82	bee	biene
+3.821	beeswax	bienenwachs
+3.822	beehive	bienenwabe
+3.823	wasp	wespe
+3.83	fly	fliege
+3.831	sandfly (midge), gnat	mücke
+3.831	sandfly (midge), gnat	schnake
+3.832	mosquito	stechmücke
+3.832	mosquito	schnake
+3.832	mosquito	moskito
+3.84	worm	wurm
+3.85	snake	schlange
+3.91	firefly	leuchtkäfer
+3.92	butterfly	schmetterling
+3.93	grasshopper	heuschrecke
+3.94	snail	schnecke
+3.95	frog	frosch
+3.96	lizard	eidechse
+3.97	crocodile, alligator	krokodil
+3.97	crocodile, alligator	alligator
+3.97	crocodile, alligator	kaiman
+3.98	turtle	schildkröte
+4.11	body	leib
+4.11	body	körper
+4.12	skin, hide	haut
+4.12	skin, hide	fell
+4.13	flesh	fleisch
+4.14	hair (head)	haar
+4.142	beard	bart
+4.144	body hair	körperhaar
+4.144	body hair	fell
+4.145	pubic hair	schamhaar
+4.146	dandruff	schuppen
+4.15	blood	blut
+4.151	vein, artery	ader
+4.151	vein, artery	arterie
+4.16	bone	knochen
+4.162	rib	rippe
+4.17	horn	horn
+4.18	tail	schwanz
+4.19	back	rücken
+4.191	spine	rückgrat
+4.191	spine	wirbelsäule
+4.2	head	kopf
+4.2	head	haupt
+4.201	side of head, temple	schläfe
+4.202	skull	schädel
+4.202	skull	hirnschale
+4.203	brain	hirn
+4.203	brain	gehirn
+4.204	face	gesicht
+4.205	forehead	stirn
+4.207	jaw	kinnbacken
+4.207	jaw	kiefer
+4.208	cheek	wange
+4.208	cheek	backe
+4.209	chin	kinn
+4.21	eye	auge
+4.212	eyebrow	augenbraue
+4.213	eyelid	augenlid
+4.214	eyelash	augenwimper
+4.215	blink	augenblinzeln
+4.215	blink	blinken
+4.215	blink	blinzeln
+4.22	ear	ohr
+4.221	earlobe	ohrläppchen
+4.222	earwax	ohrenschmalz
+4.23	nose	nase
+4.231	nostril	nasenloch
+4.232	mucus (nasal)	schleim
+4.24	mouth	mund
+4.241	beak	schnabel
+4.25	lip	lippe
+4.26	tongue	zunge
+4.27	tooth	zahn
+4.271	gums	zahnfleisch
+4.272	molartooth	backenzahn
+4.28	neck	hals
+4.281	nape of neck	nacken
+4.281	nape of neck	genick
+4.29	throat	kehle
+4.3	shoulder	schulter
+4.3	shoulder	achsel
+4.301	shoulderblade	schulterblatt
+4.302	collarbone	schlüsselbein
+4.31	arm	arm
+4.312	armpit	achselhöhle
+4.32	elbow	ellenbogen
+4.321	wrist	handgelenk
+4.33	hand	hand
+4.331	palm of hand	handfläche
+4.34	finger	finger
+4.342	thumb	daumen
+4.344	fingernail	nagel
+4.345	claw	klaue
+4.345	claw	kralle
+4.35	leg	bein
+4.351	thigh	schenkel
+4.352	calf of leg	wade
+4.36	knee	knie
+4.37	foot	fuss
+4.371	ankle	fussknöchel
+4.372	heel	ferse
+4.372	heel	hacke
+4.374	footprint	fusstapfe
+4.38	toe	zehe
+4.392	wing	flügel
+4.393	feather	feder
+4.4	chest	brust
+4.41	breast (of woman)	brust
+4.412	nipple, teat	brustwarze
+4.42	udder	euter
+4.43	navel	nabel
+4.44	heart	herz
+4.441	lung	lunge
+4.45	liver	leber
+4.451	kidney	niere
+4.452	spleen	milz
+4.46	stomach	bauch
+4.46	stomach	magen
+4.461	intestines, guts	eingeweide
+4.461	intestines, guts	gedärme
+4.462	waist	taille
+4.463	hip	hüfte
+4.464	buttocks	hinterbacke
+4.464	buttocks	hinterteil
+4.464	buttocks	gesäss
+4.47	womb	gebärmutter
+4.49	testicle	hode
+4.492	penis	penis
+4.51	breathe, breath	atmen
+4.51	breathe, breath	atem
+4.51	breathe, breath	hauch
+4.52	yawn, gape	gähnen
+4.52	yawn, gape	gaffen
+4.521	hiccough	schlucken
+4.521	hiccough	schluckauf
+4.53	cough	husten
+4.54	sneeze	niesen
+4.55	perspire	schwitzen
+4.56	spit	speien
+4.56	spit	spucken
+4.57	vomit	sichbrechen
+4.58	bite	beissen
+4.59	lick	lecken
+4.591	dribble	geifern
+4.61	sleep	schlafen
+4.612	snore	schnarchen
+4.62	dream	träumen
+4.63	wake up	wachen
+4.64	break wind	farzen
+4.64	break wind	furzen
+4.64	break wind	fisten
+4.65	urinate	harnen
+4.65	urinate	urinieren
+4.65	urinate	pissen
+4.66	defecate	stuhlganghaben
+4.66	defecate	scheissen
+4.67	have sexual intercourse	geschlechtsuerkehrhaben
+4.67	have sexual intercourse	beischlafhaben
+4.68	shiver	schauern
+4.68	shiver	frösteln
+4.68	shiver	zittern
+4.69	bathe	baden
+4.71	beget (of father)	zeugen
+4.72	born (to be)	geborensein
+4.72	born (to be)	geborenwerden
+4.73	pregnant	schwanger
+4.73	pregnant	trächtig
+4.732	conceive	empfangen
+4.74	live, living, life	lebendig
+4.74	live, living, life	lebend
+4.74	live, living, life	leben
+4.75	die, dead	sterben
+4.75	die, dead	tot
+4.75	die, dead	tod
+4.751	drowned	ertrunken
+4.76	kill	töten
+4.76	kill	erschlagen
+4.76	kill	umbringen
+4.77	corpse	leichnam
+4.77	corpse	leiche
+4.78	bury (the dead)	begraben
+4.78	bury (the dead)	beerdigen
+4.78	bury (the dead)	bestatten
+4.79	grave, tomb	grab
+4.81	strong, mighty, powerful	stark
+4.81	strong, mighty, powerful	mächtig
+4.81	strong, mighty, powerful	kräftig
+4.81	strong, mighty, powerful	gewaltig
+4.82	weak	schwach
+4.83	well, health	gesund
+4.83	well, health	gesundheit
+4.84	sick, sickness	krank
+4.84	sick, sickness	krankheit
+4.841	fever	fieber
+4.842	goiter	kropf
+4.843	cold (catarrh)	erkältung
+4.85	wound, sore	wunde
+4.852	bruise	quetschung
+4.853	swelling	schwellung
+4.854	itch	jucken
+4.855	blister	blase
+4.856	boil (noun)	furunkel
+4.856	boil (noun)	blutgeschwür
+4.857	pus	eiter
+4.858	scar	narbe
+4.86	cure, heal	heilen
+4.87	physician	arzt
+4.88	medicine, drug	arznei
+4.88	medicine, drug	heilmittel
+4.88	medicine, drug	droge
+4.89	poison	gift
+4.91	tired, weary	müde
+4.912	rest	ausruhen
+4.92	lazy	faul
+4.92	lazy	träge
+4.93	bald	kahl
+4.94	lame	lahn
+4.94	lame	hinkend
+4.95	deaf	taub
+4.96	mute	stumm
+4.97	blind	blind
+4.98	intoxicated	trunken
+4.99	naked, bare	nackt
+5.11	eat	essen
+5.11	eat	speisen
+5.12	food	speise
+5.12	food	essen
+5.12	food	nahrung
+5.12	food	kost
+5.121	cooked	gekocht
+5.122	raw	roh
+5.123	ripe	reif
+5.124	green, unripe	unreif
+5.124	green, unripe	grün
+5.125	rotten	faul
+5.125	rotten	verfault
+5.125	rotten	vermodert
+5.13	drink	trinken
+5.14	hunger	hunger
+5.141	famine	hungersnot
+5.15	thirst	durst
+5.16	suck	saugen
+5.18	chew	kauen
+5.181	swallow	schlucken
+5.19	choke	ersticken
+5.21	cook	kochen
+5.22	boil (vb)	kochen
+5.23	roast, fry	rösten
+5.23	roast, fry	braten
+5.24	bake	backen
+5.25	oven	ofen
+5.26	pot, cooking vessel	topf
+5.27	kettle	kessel
+5.28	pan	pfanne
+5.31	dish	schüssel
+5.32	plate	teller
+5.33	bowl	napf
+5.33	bowl	schale
+5.33	bowl	schüssel
+5.34	pitcher, jug	krug
+5.35	cup, drinking vessel	tasse
+5.35	cup, drinking vessel	becher
+5.36	saucer	untertasse
+5.37	spoon	löffel
+5.38	knife	messer
+5.39	fork	gabel
+5.391	tongs	zange
+5.41	meal (a)	mahlzeit
+5.41	meal (a)	mahl
+5.42	breakfast	frühstück
+5.43	lunch	mittagessen
+5.44	dinner	diner
+5.44	dinner	mittagessen
+5.44	dinner	abendessen
+5.45	supper	abendessen
+5.45	supper	brot
+5.46	peel	schälen
+5.47	sieve, strain	durchsieben
+5.47	sieve, strain	durchseihen
+5.48	scrape	reiben
+5.48	scrape	schaben
+5.49	stir, mix	rühren
+5.49	stir, mix	mischen
+5.51	bread	brot
+5.53	dough	teig
+5.54	knead	kneten
+5.55	meal, flour	mehl
+5.56	crush, grind	mahlen
+5.57	mill	mühle
+5.58	mortar	mörser
+5.59	pestle	stössel
+5.59	pestle	mörserkeule
+5.61	meat	fleisch
+5.63	sausage	wurst
+5.64	soup, broth	suppe
+5.64	soup, broth	brühe
+5.65	vegetables	gemüse
+5.66	bean	bohne
+5.66	bean	fasole
+5.7	potato	kartoffel
+5.71	fruit	obst
+5.712	bunch	bund
+5.75	fig	feige
+5.76	grape	traube
+5.76	grape	weinbeere
+5.77	nut	nuss
+5.78	olive	olive
+5.79	oil	öl
+5.791	grease, fat	fett
+5.81	salt	salz
+5.82	pepper	pfeffer
+5.84	honey	honig
+5.85	sugar	zucker
+5.86	milk (noun)	milch
+5.87	milk (vb)	melken
+5.88	cheese	käse
+5.89	butter	butter
+5.9	beverage, drink	getränk
+5.91	mead	met
+5.92	wine	wein
+5.93	beer	bier
+5.94	fermented drink	most
+5.94	fermented drink	fermentiertesgetränk
+5.97	egg	ei
+5.971	egg yolk	dotter
+5.971	egg yolk	eigelb
+6.11	put on (clothes)	kleiden
+6.12	clothing, clothes	kleider
+6.12	clothing, clothes	kleidung
+6.13	tailor	schneider
+6.21	cloth	tuch
+6.21	cloth	zeug
+6.21	cloth	stoff
+6.22	wool	wolle
+6.23	linen, flax	leinen
+6.23	linen, flax	leinwand
+6.23	linen, flax	flachs
+6.24	cotton	baumwolle
+6.25	silk	seide
+6.27	felt	filz
+6.28	fur	pelz
+6.29	leather	leder
+6.31	spin	spinnen
+6.32	spindle	spindel
+6.33	weave	weben
+6.34	loom	webstuhl
+6.35	sew	nähen
+6.36	needle	nadel
+6.37	awl	ahle
+6.37	awl	pfriem
+6.38	thread	faden
+6.39	dye	färben
+6.41	cloak	mantel
+6.42	woman's dress	kleid
+6.43	coat	rock
+6.44	shirt	hemd
+6.45	collar	kragen
+6.46	skirt	rock
+6.461	grass-skirt	grasrock
+6.48	trousers	hosen
+6.48	trousers	beinkleid
+6.49	stocking, sock	strumpf
+6.49	stocking, sock	socke
+6.51	shoe	schuh
+6.52	boot	stiefel
+6.54	shoemaker, cobbler	schuhmacher
+6.54	shoemaker, cobbler	schuster
+6.55	hat, cap	hut
+6.55	hat, cap	mütze
+6.57	belt, girdle	gürtel
+6.58	glove	handschuh
+6.59	veil	schleier
+6.61	pocket	tasche
+6.62	button	knopf
+6.63	pin	stecknadel
+6.71	ornament, adornment	schmuck
+6.72	jewel	juwel
+6.72	jewel	kleinod
+6.73	ring (for finger)	ring
+6.74	bracelet	armband
+6.75	necklace	halsband
+6.76	bead	perle
+6.77	earring	ohrring
+6.78	headband, headdress	kopf
+6.78	headband, headdress	stirnband
+6.79	tattoo	tätowierung
+6.81	handkerchief, rag	taschentuch
+6.81	handkerchief, rag	schnupftuch
+6.82	towel	handtuch
+6.91	comb	kamm
+6.92	brush	bürste
+6.921	braid	zopf
+6.93	razor	rasiermesser
+6.94	ointment	salbe
+6.95	soap	seife
+6.96	mirror	spiegel
+7.11	dwell, live	wohnen
+7.12	house	haus
+7.13	hut	hütte
+7.131	garden-house	gartenhaus
+7.131	garden-house	laube
+7.14	tent	zelt
+7.15	yard, court	hof
+7.18	meeting house	gemeinschaftshaus
+7.21	room	zimmer
+7.21	room	stube
+7.21	room	gemach
+7.22	door, gate	tür
+7.22	door, gate	tor
+7.22	door, gate	pforte
+7.221	doorpost, jamb	türpfosten
+7.23	lock (noun)	schloss
+7.231	latch, door-bolt	klinke
+7.231	latch, door-bolt	drücker
+7.24	key	schlüssel
+7.25	window	fenster
+7.26	floor	estrich
+7.27	wall	mauer
+7.27	wall	wand
+7.31	fireplace	feuerstätte
+7.31	fireplace	kamin
+7.31	fireplace	herd
+7.32	stove	ofen
+7.33	chimney	schornstein
+7.37	ladder	leiter
+7.42	bed	bett
+7.421	pillow	kissen
+7.422	blanket	decke
+7.43	chair	stuhl
+7.44	table	tisch
+7.45	lamp, torch	lampe
+7.46	candle	kerze
+7.46	candle	licht
+7.47	shelf	regal
+7.48	trough	trog
+7.51	roof	dach
+7.52	thatch	strohdach
+7.52	thatch	dachstroh
+7.53	ridgepole	dachfirstbalken
+7.54	rafter	sparren
+7.54	rafter	dachbalken
+7.55	beam	balken
+7.56	post, pole	pfahl
+7.56	post, pole	pfosten
+7.57	board	brett
+7.58	arch	bogen
+7.58	arch	wölbung
+7.61	mason	maurer
+7.62	brick	ziegel
+7.62	brick	backstein
+7.63	mortar	mörtel
+8.11	farmer	bauer
+8.12	field (for cultivation)	acker
+8.12	field (for cultivation)	feld
+8.13	garden	garten
+8.15	cultivate, till	bebauen
+8.15	cultivate, till	ackern
+8.16	fence	zaun
+8.16	fence	gehege
+8.17	ditch	graben
+8.21	plow	pflügen
+8.21	plow	pflug
+8.212	furrow	furche
+8.22	dig	graben
+8.23	spade	spaten
+8.24	shovel	schaufel
+8.25	hoe	hacke
+8.25	hoe	haue
+8.26	fork	gabel
+8.27	rake	rechen
+8.27	rake	harke
+8.31	sow	säen
+8.31	sow	same
+8.311	seed	samen
+8.311	seed	saat
+8.32	mow, reap	mähen
+8.33	sickle, scythe	sichel
+8.33	sickle, scythe	sense
+8.34	thresh	dreschen
+8.35	threshing-floor	tenne
+8.41	crop, harvest	ernte
+8.41	crop, harvest	ertrag
+8.42	grain (barley, oats etc)	getreide
+8.43	wheat	weizen
+8.44	barley	gerste
+8.45	rye	roggen
+8.46	oats	hafer
+8.47	maize, corn	mais
+8.48	rice	reis
+8.51	grass	gras
+8.52	hay	heu
+8.53	plant (noun)	pflanze
+8.53	plant (noun)	kraut
+8.531	plant (vb)	pflanzen
+8.54	root	wurzel
+8.55	branch	ast
+8.55	branch	zweig
+8.56	leaf	blatt
+8.57	flower	blume
+8.6	tree	baum
+8.61	oak	eiche
+8.62	beech	buche
+8.63	birch	birke
+8.64	pine	kiefer
+8.64	pine	föhre
+8.65	fir	tanne
+8.65	fir	fichte
+8.66	acorn	eichel
+8.67	vine	weinstock
+8.67	vine	rebe
+8.68	tobacco	tabak
+8.69	smoke (tobacco)	rauchen
+8.691	pipe	pfeife
+8.72	tree stump	stumpf
+8.73	tree trunk	stamm
+8.74	forked branch	astgabel
+8.75	bark	rinde
+8.75	bark	borke
+8.76	sap	saft
+8.81	palm tree	palme
+8.82	coconut	kokosnuss
+8.83	citrus fruit	zitrusfrucht
+8.84	banana tree	banane
+8.85	banyan	indischerfeigenbaum
+8.91	sweet potato	batate
+8.912	yam	jamwurzel
+8.92	tapioca, manioc, cassava	tapioka
+8.93	gourd	kürbiss
+8.931	pumpkin, squash	kürbis
+8.94	bamboo	bambus
+8.941	sugar cane	zuckerrohr
+8.97	nettle	nessel
+8.98	mushroom	pilz
+9.11	do, make	tun
+9.11	do, make	machen
+9.12	work	arbeiten
+9.12	work	arbeit
+9.12	work	werk
+9.14	bend	biegen
+9.14	bend	beugen
+9.15	fold	falten
+9.16	tie, bind	binden
+9.161	untie	aufbinden
+9.161	untie	lösen
+9.18	chain	kette
+9.19	rope, cord	seil
+9.19	rope, cord	tau
+9.19	rope, cord	strick
+9.19	rope, cord	schnur
+9.192	knot (noun)	knoten
+9.21	strike (hit, beat)	schlagen
+9.211	pound with fist	losschlagen
+9.211	pound with fist	loshämmern
+9.22	cut	schneiden
+9.221	cut down	fällen
+9.221	cut down	niederhauen
+9.222	chop, hew	hauen
+9.222	chop, hew	hacken
+9.223	stab	stechen
+9.23	knife	messer
+9.24	scissors, shears	schere
+9.25	ax	beil
+9.25	ax	axt
+9.251	adze	breitbeil
+9.251	adze	krummaxt
+9.26	break	brechen
+9.261	broken	gebrochen
+9.27	split	spalten
+9.28	tear	reissen
+9.29	flay, skin	schinden
+9.29	flay, skin	häuten
+9.31	rub, wipe	reiben
+9.31	rub, wipe	wischen
+9.32	stretch	dehnen
+9.32	stretch	strecken
+9.32	stretch	spannen
+9.33	pull	ziehen
+9.34	spread out	ausbreiten
+9.34	spread out	streuen
+9.341	hang up	aufhängen
+9.342	press	drücken
+9.342	press	pressen
+9.343	squeeze, wring	ringen
+9.35	pour	giessen
+9.35	pour	schütten
+9.35	pour	schenken
+9.36	wash	waschen
+9.37	sweep	fegen
+9.37	sweep	kehren
+9.38	broom	besen
+9.422	tool	werkzeug
+9.43	carpenter	zimmermann
+9.44	build	bauen
+9.46	bore	bohren
+9.461	hollow out	aushöhlen
+9.461	hollow out	auskehlen
+9.48	saw	säge
+9.49	hammer	hammer
+9.5	nail	nagel
+9.56	glue	leim
+9.56	glue	klebstoff
+9.6	smith, blacksmith	schmied
+9.61	forge	schmieden
+9.62	anvil	amboss
+9.63	cast (metals)	giessen
+9.64	gold	gold
+9.65	silver	silber
+9.66	copper, bronze	kupfer
+9.66	copper, bronze	erz
+9.66	copper, bronze	bronze
+9.67	iron	eisen
+9.68	lead (noun)	blei
+9.69	tin, tinplate	zinn
+9.69	tin, tinplate	blech
+9.71	potter	töpfer
+9.72	mold (clay etc)	formen
+9.72	mold (clay etc)	bilden
+9.73	clay	ton
+9.73	clay	lehm
+9.74	glass	glas
+9.75	weave, plait	flechten
+9.76	basket	korb
+9.77	mat	matte
+9.771	rug	teppich
+9.78	netbag	netz
+9.79	fan (noun)	fächer
+9.791	fan (vb)	fächeln
+9.81	carve	aushauen
+9.81	carve	ausmeisseln
+9.82	sculptor	bildhauer
+9.83	statue	statue
+9.83	statue	bildsäule
+9.84	chisel	meissel
+9.88	paint (noun)	farbe
+9.89	paint (vb)	malen
+9.89	paint (vb)	anstreichen
+10.11	move	bewegen
+10.12	turn over	umdrehen
+10.12	turn over	umwenden
+10.13	turn around	drehen
+10.14	wind, wrap	winden
+10.14	wind, wrap	wickeln
+10.15	roll	wälzen
+10.15	roll	rollen
+10.16	drop (vb)	fallenlassen
+10.17	twist	drehen
+10.17	twist	zwirnen
+10.17	twist	flechten
+10.21	rise	aufstehen
+10.21	rise	sicherheben
+10.21	rise	steigen
+10.22	raise, lift	heben
+10.23	fall	fallen
+10.24	drip	tropfen
+10.25	throw	werfen
+10.252	catch (ball)	fangen
+10.26	shake	schütteln
+10.32	flow	fliessen
+10.32	flow	rinnen
+10.33	sink	sinken
+10.33	sink	senken
+10.34	float	schwimmen
+10.35	swim	schwimmen
+10.351	dive	tauchen
+10.352	splash	spritzen
+10.352	splash	planschen
+10.352	splash	platschen
+10.36	sail (vb)	schiffen
+10.36	sail (vb)	segeln
+10.37	fly (vb)	fliegen
+10.38	blow	blasen
+10.38	blow	wehen
+10.41	creep, crawl	kriechen
+10.41	creep, crawl	schleichen
+10.412	kneel	knieen
+10.413	crouch	hocken
+10.42	slide, slip	gleiten
+10.42	slide, slip	schlüpfen
+10.43	jump, leap	springen
+10.431	kick	mitdemfussstossen
+10.44	dance	tanzen
+10.45	walk	gehen
+10.451	limp	hinken
+10.46	run	laufen
+10.46	run	rennen
+10.47	go	gehen
+10.471	go up	hinaufgehen
+10.471	go up	aufsteigen
+10.472	climb	steigen
+10.472	climb	klettern
+10.473	go down	hinabgehen
+10.473	go down	hinuntergehen
+10.473	go down	herabgehen
+10.474	go out	ausgehen
+10.48	come	kommen
+10.481	come back	zurückkommen
+10.49	go away, depart	weg
+10.49	go away, depart	fortgehen
+10.491	disappear	verschwinden
+10.51	flee	fliehen
+10.52	follow	folgen
+10.53	pursue	verfolgen
+10.53	pursue	nachjagen
+10.55	reach, arrive	ankommen
+10.55	reach, arrive	gelangen
+10.56	approach	nahen
+10.56	approach	sichnähern
+10.57	enter	hineingehen
+10.57	enter	eintreten
+10.61	carry (bear)	tragen
+10.612	carry-in-hand	tragen
+10.613	carry-on-shoulder	tragen
+10.614	carry-on-head	tragen
+10.615	carry-underarm	tragen
+10.62	bring	bringen
+10.62	bring	holen
+10.63	send	schicken
+10.63	send	senden
+10.64	lead (vb)	führen
+10.64	lead (vb)	leiten
+10.65	drive	treiben
+10.66	ride	reiten
+10.66	ride	fahren
+10.67	push, shove	stossen
+10.67	push, shove	schieben
+10.71	road	weg
+10.71	road	strasse
+10.72	path	pfad
+10.72	path	steig
+10.74	bridge	brücke
+10.75	carriage, wagon, cart	wagen
+10.75	carriage, wagon, cart	karre
+10.76	wheel	rad
+10.77	axle	achse
+10.78	yoke	joch
+10.81	ship	schiff
+10.83	boat	boot
+10.832	outrigger	ausleger
+10.84	raft	floss
+10.85	oar	ruder
+10.851	paddle (noun)	paddel
+10.852	row (vb)	rudern
+10.86	rudder	steuerruder
+10.87	mast	mast
+10.88	sail (noun)	segel
+10.89	anchor	anker
+10.91	harbor, port	hafen
+10.92	land (vb)	landen
+11.11	have	haben
+11.12	own, possess	besitzen
+11.13	take	nehmen
+11.14	seize, grasp	greifen
+11.14	seize, grasp	fassen
+11.15	hold	halten
+11.16	get, obtain	kriegen
+11.16	get, obtain	bekommen
+11.17	keep, retain	behalten
+11.18	thing	sache
+11.18	thing	ding
+11.21	give	geben
+11.22	give back	zurückgeben
+11.24	preserve, look after	bewahren
+11.25	save, rescue	retten
+11.27	destroy	zerstören
+11.27	destroy	vernichten
+11.28	harm, injure, damage	beschädigen
+11.28	harm, injure, damage	schaden
+11.31	seek, look for	suchen
+11.32	find	finden
+11.33	lose	verlieren
+11.34	release, let go	entlassen
+11.34	release, let go	loslassen
+11.43	money	geld
+11.44	coin	münze
+11.51	rich	reich
+11.52	poor	arm
+11.52	poor	dürftig
+11.53	beggar	bettler
+11.54	avaricious, stingy	habsüchtig
+11.54	avaricious, stingy	geizig
+11.54	avaricious, stingy	karg
+11.61	lend	leihen
+11.61	lend	borgen
+11.62	borrow	borgen
+11.62	borrow	leihen
+11.62	borrow	entlehnen
+11.63	owe	schuldigsein
+11.63	owe	schulden
+11.64	debt	schuld
+11.65	pay (vb)	zahlen
+11.66	account, reckoning	rechnung
+11.69	tax, tribute	steuer
+11.77	hire	mieten
+11.77	hire	dingen
+11.77	hire	anstellen
+11.78	wages	lohn
+11.78	wages	sold
+11.78	wages	bezahlung
+11.79	earn	verdienen
+11.81	buy	kaufen
+11.82	sell	verkaufen
+11.83	trade, barter	handeln
+11.84	merchant	kaufmann
+11.84	merchant	händler
+11.85	market (place)	markt
+11.86	store, shop	laden
+11.86	store, shop	geschäft
+11.87	price	preis
+11.88	dear (costly, expensive)	teuer
+11.89	cheap	billig
+11.89	cheap	wohlfeil
+11.91	share (distribute)	austeilen
+11.92	weigh	wiegen
+12.1	after	nach
+12.11	place	hinter
+12.2	beside	neben
+12.3	down, below	unter
+12.4	before	vor
+12.41	right (side)	vor
+12.5	inside, in	in
+12.6	outside	aus
+12.6	outside	ausserhalb
+12.7	under	unter
+12.8	up, above	über
+12.11	place	stelle
+12.11	place	ort
+12.11	place	platz
+12.12	put	setzen
+12.12	put	stellen
+12.12	put	legen
+12.13	sit	sitzen
+12.14	lie down	liegen
+12.15	stand	stehen
+12.16	remain, stay	bleiben
+12.16	remain, stay	warten
+12.17	remains, left overs	bleiben
+12.21	collect, gather	sammeln
+12.212	pick up	aufheben
+12.212	pick up	abholen
+12.213	pile up	aufhäufen
+12.213	pile up	auftürmen
+12.22	join, unite	verbinden
+12.22	join, unite	fügen
+12.22	join, unite	vereinigen
+12.23	separate	scheiden
+12.23	separate	trennen
+12.232	divide	teilen
+12.232	divide	trennen
+12.24	open	öffnen
+12.24	open	aufmachen
+12.25	shut, close	schliessen
+12.25	shut, close	zumachen
+12.26	cover	decken
+12.27	hide, conceal	verbergen
+12.27	hide, conceal	verstecken
+12.27	hide, conceal	verhehlen
+12.31	high	hoch
+12.32	low	niedrig
+12.33	top	spitze
+12.33	top	gipfel
+12.33	top	dasobere
+12.34	bottom	boden
+12.35	end	ende
+12.352	pointed	spitze
+12.353	edge	schneide
+12.353	edge	schärfe
+12.353	edge	kante
+12.353	edge	rand
+12.36	side	seite
+12.37	middle, center	mittler
+12.37	middle, center	mittel
+12.37	middle, center	zentrum
+12.41	right (side)	recht
+12.42	left (side)	link
+12.43	near (adv)	nah
+12.44	far (adv)	fern
+12.44	far (adv)	weit
+12.45	east	osten
+12.46	west	westen
+12.47	north	norden
+12.48	south	süden
+12.53	grow	wachsen
+12.54	measure	messen
+12.541	span, fathom	um
+12.541	span, fathom	überspannen
+12.541	span, fathom	abmessen
+12.55	large, big	gross
+12.56	small, little	klein
+12.57	long	lang
+12.58	tall	gross
+12.59	short	kurz
+12.61	wide, broad	breit
+12.62	narrow	schmal
+12.62	narrow	eng
+12.63	thick (in dimension)	dick
+12.65	thin (in dimension)	dünn
+12.67	deep	tief
+12.68	shallow	seicht
+12.68	shallow	nichttief
+12.68	shallow	flach
+12.71	flat	flach
+12.71	flat	platt
+12.73	straight	gerade
+12.74	crooked	krumm
+12.75	hook	haken
+12.76	corner	ecke
+12.76	corner	winkel
+12.77	cross	kreuz
+12.78	square	viereck
+12.81	round	rund
+12.82	circle	kreis
+12.83	sphere, ball	kugel
+12.85	hole	loch
+12.92	like, similar	ähnlich
+12.93	change	verändern
+12.93	change	wechseln
+12.93	change	tauschen
+13.0	zero, nothing	zero
+13.0	zero, nothing	nichts
+13.0	zero, nothing	null
+13.1	one	ein
+13.1	one	eins
+13.2	two	zwei
+13.3	three	drei
+13.4	four	vier
+13.5	five	fünf
+13.6	six	sechs
+13.7	seven	sieben
+13.8	eight	acht
+13.9	nine	neun
+13.10	ten	zehn
+13.101	eleven	elf
+13.102	twelve	zwölf
+13.103	fifteen	fünfzehn
+13.104	twenty	zwanzig
+13.105	hundred	hundert
+13.106	thousand	tausend
+13.107	count	zählen
+13.14	every, all	jeder
+13.14	every, all	alle
+13.15	much, many	viel
+13.16	more	mehr
+13.17	little (quantity), few	wenig
+13.18	enough	genug
+13.181	some	einige
+13.19	multitude, crowd	menge
+13.19	multitude, crowd	gedränge
+13.21	full	voll
+13.22	empty	leer
+13.23	part, piece	teil
+13.23	part, piece	stück
+13.24	half	halb
+13.24	half	hälfte
+13.33	alone, only	allein
+13.33	alone, only	einzig
+13.33	alone, only	nur
+13.33	alone, only	bloss
+13.34	first	erste
+13.35	last	letzte
+13.36	second	zweite
+13.37	pair	einpaar
+13.38	two times	zweimal
+13.42	third	dritte
+13.44	three times	dreimal
+14.11	time	zeit
+14.12	age	alter
+14.13	new	neu
+14.14	young	jung
+14.15	old	alt
+14.16	early	früh
+14.17	late	spät
+14.18	now	jetzt
+14.18	now	nun
+14.19	immediately	bald
+14.19	immediately	sofort
+14.19	immediately	sogleich
+14.21	swift, fast, quick	schnell
+14.21	swift, fast, quick	rasch
+14.21	swift, fast, quick	geschwind
+14.22	slow	langsam
+14.23	hasten, hurry	eilen
+14.23	hasten, hurry	sichbeeilen
+14.24	retard, delay	zögern
+14.24	retard, delay	säumen
+14.25	begin, beginning	anfangen
+14.25	begin, beginning	beginnen
+14.25	begin, beginning	anfang
+14.252	last, endure	dauern
+14.26	end (temporal)	ende
+14.26	end (temporal)	schluss
+14.27	finish	vollenden
+14.27	finish	beenden
+14.28	cease, stop	aufhören
+14.29	ready	bereit
+14.29	ready	fertig
+14.31	always	immer
+14.31	always	stets
+14.32	often	oft
+14.32	often	häufig
+14.33	sometimes	zuweilen
+14.33	sometimes	bisweilen
+14.331	soon	bald
+14.332	long-time (for a)	lange
+14.34	never	nie
+14.34	never	niemals
+14.34	never	nimmer
+14.35	again	wieder
+14.41	day	tag
+14.42	night	nacht
+14.43	dawn	morgenrot
+14.43	dawn	röte
+14.43	dawn	tagesanbruch
+14.43	dawn	morgendämmerung
+14.44	morning	morgen
+14.45	noon, midday	mittag
+14.451	afternoon	nachmittag
+14.46	evening	abend
+14.47	today	heute
+14.48	tomorrow	morgen
+14.481	day-after-tomorrow	übermorgen
+14.49	yesterday	gestern
+14.491	day-before-yesterday	vorgestern
+14.51	hour	stunde
+14.51	hour	uhr
+14.53	clock, timepiece	uhr
+14.61	week	woche
+14.62	Sunday	sonntag
+14.63	Monday	montag
+14.64	Tuesday	dienstag
+14.65	Wednesday	mittwoch
+14.66	Thursday	donnerstag
+14.67	Friday	freitag
+14.68	Saturday	samstag
+14.68	Saturday	sonnabend
+14.71	month	monat
+14.73	year	jahr
+14.74	winter	winter
+14.75	spring	frühling
+14.76	summer	sommer
+14.77	autumn	herbst
+14.78	season	jahreszeit
+15.21	smell (vb intrans)	riechen
+15.21	smell (vb intrans)	geruch
+15.212	sniff	schnüffeln
+15.22	smell (vb trans)	riechen
+15.25	fragrant, good smelling	wohlriechend
+15.25	fragrant, good smelling	duftend
+15.26	stinking, bad smelling	stinkend
+15.31	taste	schmecken
+15.31	taste	kosten
+15.31	taste	geschmack
+15.35	sweet	süss
+15.36	salty	salzig
+15.37	bitter	bitter
+15.38	acid, sour	sauer
+15.39	brackish	brackig
+15.41	hear	hören
+15.42	listen	horchen
+15.44	sound, noise	laut
+15.44	sound, noise	geräusch
+15.45	loud	laut
+15.46	quiet, silence	ruhig
+15.46	quiet, silence	still
+15.51	see	sehen
+15.52	look, look at	schauen
+15.52	look, look at	blicken
+15.52	look, look at	ansehen
+15.55	show	zeigen
+15.56	shine	scheinen
+15.56	shine	leuchten
+15.57	bright	hell
+15.57	bright	glänzend
+15.61	color	farbe
+15.62	light (in color)	hell
+15.63	dark (in color)	dunkel
+15.64	white	weiss
+15.65	black	schwarz
+15.66	red	rot
+15.67	blue	blau
+15.68	green	grün
+15.69	yellow	gelb
+15.71	touch	berühren
+15.712	pinch	kneifen
+15.712	pinch	zwicken
+15.72	feel	fühlen
+15.72	feel	tasten
+15.74	hard	hart
+15.75	soft	weich
+15.76	rough	rauh
+15.76	rough	uneben
+15.77	smooth	glatt
+15.77	smooth	eben
+15.78	sharp	scharf
+15.79	blunt, dull	stumpf
+15.81	heavy	schwer
+15.82	light (in weight)	leicht
+15.83	wet, damp	nass
+15.83	wet, damp	feucht
+15.84	dry	trocken
+15.84	dry	dürr
+15.85	hot	heiss
+15.85	hot	warm
+15.851	warm	warm
+15.86	cold	kalt
+15.87	clean	rein
+15.87	clean	sauber
+15.88	dirty, soiled	schmutzig
+15.88	dirty, soiled	schmierig
+15.89	wrinkled	runzelig
+15.89	wrinkled	faltig
+16.11	soul, spirit	seele
+16.11	soul, spirit	geist
+16.15	surprised, astonished	erstaunt
+16.15	surprised, astonished	überrascht
+16.18	good fortune, luck	glück
+16.19	misfortune, bad luck	unglück
+16.23	joyful, glad, happy	freude
+16.23	joyful, glad, happy	froh
+16.23	joyful, glad, happy	glücklich
+16.25	laugh	lachen
+16.251	smile	lächeln
+16.26	play	spielen
+16.27	love	liebe
+16.27	love	lieben
+16.29	kiss	küssen
+16.3	embrace	umarmen
+16.3	embrace	umfassen
+16.31	pain	schmerz
+16.31	pain	leiden
+16.31	pain	pein
+16.31	pain	qual
+16.32	grief, sorrow, sadness	kummer
+16.32	grief, sorrow, sadness	betrübnis
+16.32	grief, sorrow, sadness	sorge
+16.33	anxiety, worry	angst
+16.33	anxiety, worry	bangigkeit
+16.33	anxiety, worry	sorge
+16.34	regret, be sorry	bedauern
+16.34	regret, be sorry	bereuen
+16.35	pity	erbarmen
+16.35	pity	mitleid
+16.35	pity	barmherzigkeit
+16.37	cry, weep	weinen
+16.38	tear (noun)	träne
+16.39	groan	stöhnen
+16.39	groan	ächzen
+16.41	hate	hass
+16.41	hate	hassen
+16.42	anger	zorn
+16.44	envy, jealousy	neid
+16.44	envy, jealousy	missgunst
+16.44	envy, jealousy	eifersucht
+16.45	shame (noun)	scham
+16.48	proud	stolz
+16.48	proud	hochmütig
+16.51	dare	wagen
+16.52	brave	tapfer
+16.52	brave	mutig
+16.52	brave	kühn
+16.53	fear, fright	furcht
+16.53	fear, fright	schrecken
+16.54	danger	gefahr
+16.62	desire, want	begehren
+16.622	choose	wählen
+16.63	hope	hoffnung
+16.65	faithful	treu
+16.65	faithful	getreu
+16.66	true	wahr
+16.67	lie, tell lies	lüge
+16.68	deceit	betrug
+16.68	deceit	list
+16.69	forgive	verzeihen
+16.69	forgive	vergeben
+16.71	good	gut
+16.72	bad	schlecht
+16.72	bad	schlimm
+16.73	right, correct	recht
+16.73	right, correct	richtig
+16.74	wrong	falsch
+16.76	fault	schuld
+16.77	mistake, error	fehler
+16.77	mistake, error	irrtum
+16.78	blame	tadel
+16.78	blame	vorwurf
+16.79	praise	lob
+16.79	praise	preis
+16.81	beautiful	schön
+16.81	beautiful	hübsch
+16.82	ugly	hässlich
+16.82	ugly	unschön
+16.83	greedy	habgierig
+16.84	clever	klug
+17.11	mind	sinn
+17.11	mind	geist
+17.13	think (= reflect)	denken
+17.14	think (= be of the opinion)	meinen
+17.14	think (= be of the opinion)	denken
+17.14	think (= be of the opinion)	glauben
+17.15	believe	glauben
+17.16	understand	verstehen
+17.16	understand	begreifen
+17.17	know	wissen
+17.17	know	kennen
+17.171	guess	raten
+17.172	imitate	nachahmen
+17.18	seem	scheinen
+17.19	idea, notion	idee
+17.19	idea, notion	vorstellung
+17.21	wise	weise
+17.21	wise	klug
+17.22	foolish, stupid	töricht
+17.22	foolish, stupid	närrisch
+17.22	foolish, stupid	dumm
+17.22	foolish, stupid	albern
+17.23	insane, crazy	verrückt
+17.23	insane, crazy	toll
+17.23	insane, crazy	wahnsinnig
+17.24	learn	lernen
+17.242	study	studieren
+17.25	teach	lehren
+17.25	teach	unterrichten
+17.26	pupil	schüler
+17.27	teacher	lehrer
+17.28	school	schule
+17.31	remember	sicherinnern
+17.31	remember	gedenken
+17.32	forget	vergessen
+17.34	clear, plain	klar
+17.34	clear, plain	deutlich
+17.35	obscure	dunkel
+17.35	obscure	unklar
+17.36	secret	geheim
+17.36	secret	heimlich
+17.37	sure, certain	sicher
+17.37	sure, certain	gewiss
+17.38	explain	erklären
+17.41	intention, purpose	zweck
+17.42	cause	ursache
+17.43	doubt	zweifel
+17.44	suspect	verdacht
+17.44	suspect	argwohn
+17.441	betray	verraten
+17.45	need, necessity	not
+17.45	need, necessity	notwendigkeit
+17.45	need, necessity	bedürfnis
+17.46	easy	leicht
+17.47	difficult	schwer
+17.48	try, attempt	versuchen
+17.49	way, manner	weg
+17.49	way, manner	weise
+17.49	way, manner	art
+17.51	and	und
+17.52	because	weil
+17.52	because	denn
+17.53	if	wenn
+17.54	or	oder
+17.55	yes, affirmative	ja
+17.56	no, negative	nein
+17.61	how?	wie?
+17.62	how many?	wieviel?
+17.63	how much?	wieviel?
+17.64	what?	was?
+17.65	when?	wann?
+17.66	where?	wo?
+17.67	which?	welche?
+17.68	who?	wer?
+17.69	why?	warum?
+18.11	voice	stimme
+18.12	sing	singen
+18.13	shout, cry out	schreien
+18.13	shout, cry out	rufen
+18.15	whisper	flüstern
+18.16	mumble	murmeln
+18.17	whistle	pfeifen
+18.18	shriek, screech	schreien
+18.18	shriek, screech	kreischen
+18.19	howl	heulen
+18.21	speak, talk	sprechen
+18.21	speak, talk	reden
+18.211	stutter, stammer	stottern
+18.211	stutter, stammer	stammeln
+18.22	say	sagen
+18.221	tell story	erzählen
+18.222	speech (make a)	reden
+18.222	speech (make a)	vortragen
+18.222	speech (make a)	vortraghalten
+18.23	silent (be)	schweigen
+18.24	language	sprache
+18.26	word	wort
+18.28	name	name
+18.31	ask (question, inquire)	fragen
+18.32	answer	antworten
+18.32	answer	erwidern
+18.33	admit, confess	zugeben
+18.33	admit, confess	gestehen
+18.33	admit, confess	bekennen
+18.34	deny	leugnen
+18.35	ask, request	bitten
+18.35	ask, request	verlangen
+18.35	ask, request	fordern
+18.36	promise	versprechen
+18.36	promise	verheissen
+18.37	refuse	verweigern
+18.37	refuse	abschlagen
+18.38	forbid	verbieten
+18.38	forbid	untersagen
+18.39	rebuke, scold	zurechtweisen
+18.39	rebuke, scold	ausscheltentadeln
+18.41	call (=summon)	rufen
+18.42	call (=name)	nennen
+18.42	call (=name)	heissen
+18.43	announce	ankündigen
+18.43	announce	verkündigen
+18.44	threaten	drohen
+18.45	boast	sichrühmen
+18.45	boast	prahlen
+18.51	write	schreiben
+18.52	read	lesen
+18.56	paper	papier
+18.57	pen	feder
+18.61	book	buch
+18.67	poet	dichter
+18.71	flute	flöte
+18.72	drum	trommel
+18.72	drum	pauke
+18.73	horn, trumpet	horn
+18.73	horn, trumpet	trompete
+18.74	rattle	rassel
+18.74	rattle	knarre
+19.11	country	land
+19.12	one's native country	vaterland
+19.15	city, town	stadt
+19.16	village	dorf
+19.17	boundary	grenze
+19.21	people (populace)	volk
+19.21	people (populace)	nation
+19.23	tribe, clan	stamm
+19.23	tribe, clan	geschlecht
+19.23	tribe, clan	sippe
+19.24	chief, chieftain	häuptling
+19.24	chief, chieftain	chef
+19.25	staff, walking stick	stab
+19.25	staff, walking stick	stock
+19.31	rule, govern	herrschen
+19.31	rule, govern	regieren
+19.32	king, ruler	könig
+19.33	queen	königin
+19.36	noble, nobleman	adlige
+19.36	noble, nobleman	edelmann
+19.37	citizen, subject	bürger
+19.41	master	herr
+19.42	slave	sklave
+19.43	servant	diener
+19.43	servant	knecht
+19.44	freeman	freier
+19.45	command, order	befehlen
+19.45	command, order	gebieten
+19.45	command, order	heissen
+19.46	obey	gehorchen
+19.47	let, permit	zulassen
+19.47	let, permit	erlauben
+19.47	let, permit	gestatten
+19.51	friend, companion	freund
+19.52	enemy	feind
+19.54	neighbor	nachbar
+19.55	stranger	fremde
+19.55	stranger	fremdling
+19.56	guest	gast
+19.57	host	wirt
+19.57	host	gastgeber
+19.58	help, aid	helfen
+19.59	hinder, prevent	hindern
+19.59	hinder, prevent	hemmen
+19.59	hinder, prevent	vorbeugen
+19.61	custom	sitte
+19.61	custom	brauch
+19.62	strife, quarrel	streit
+19.62	strife, quarrel	hader
+19.62	strife, quarrel	zwist
+19.62	strife, quarrel	zank
+19.63	conspiracy, plot	verschwörung
+19.65	meet	treffen
+19.72	prostitute	hure
+19.72	prostitute	dirne
+19.72	prostitute	metze
+20.11	fight (vb)	kämpfen
+20.13	war, battle	schlacht
+20.13	war, battle	kampf
+20.13	war, battle	gefecht
+20.14	peace	friede
+20.15	army	heer
+20.15	army	armee
+20.17	soldier	soldat
+20.21	weapons, arms	waffen
+20.22	club	keule
+20.222	battle-ax	streitaxt
+20.23	sling	schleuder
+20.24	bow	bogen
+20.25	arrow	pfeil
+20.26	spear	speer
+20.26	spear	spiess
+20.26	spear	lanze
+20.27	sword	schwert
+20.28	gun, cannon	gewehr
+20.28	gun, cannon	geschütz
+20.28	gun, cannon	kanone
+20.31	armor (defensive)	rüstung
+20.31	armor (defensive)	harnisch
+20.33	helmet	helm
+20.34	shield	schild
+20.35	fortress	festung
+20.36	tower	turm
+20.41	victory	sieg
+20.42	defeat	niederlage
+20.43	attack	angriff
+20.44	defend	verteidigung
+20.45	retreat	rückzug
+20.46	surrender	übergeben
+20.47	captive, prisoner	gefangener
+20.471	guard, sentinel	wächter
+20.471	guard, sentinel	wache
+20.48	booty, spoils	beute
+20.49	ambush	hinterhalt
+20.51	fisherman	fischer
+20.51	fisherman	angler
+20.52	fishhook	angelhacken
+20.53	fishing line	angelschnur
+20.54	fishnet	fangnetz
+20.54	fishnet	fischernetz
+20.55	fish trap	reuse
+20.56	bait	köder
+20.61	hunt	jagen
+20.62	shoot	schiessen
+20.63	miss (target)	verfehlen
+20.63	miss (target)	nichttreffen
+20.64	trap (noun)	falle
+20.65	trap (vb)	fangen
+21.11	law	recht
+21.11	law	gesetz
+21.15	court	gericht
+21.16	judge (vb)	urteilen
+21.16	judge (vb)	richten
+21.17	judgment	urteil
+21.18	judge (noun)	richter
+21.21	plaintiff	kläger
+21.22	defendant	beklagter
+21.22	defendant	angeklagter
+21.23	witness	zeuge
+21.24	swear	schwören
+21.25	oath	eid
+21.31	accuse	anklagen
+21.31	accuse	beschuldigen
+21.32	condemn	verurteilen
+21.33	convict (vb)	überführen
+21.34	acquit	freisprechen
+21.35	guilty	schuldig
+21.36	innocent	unschuldig
+21.37	penalty, punishment	strafe
+21.38	fine	busse
+21.39	prison, jail	gefängnis
+21.39	prison, jail	kerker
+21.42	murder	mord
+21.43	adultery	ehebruch
+21.44	rape	notzucht
+21.46	arson	brandstiftung
+21.46	arson	mordbrand
+21.47	perjury	meineid
+21.51	steal	stehlen
+21.52	thief	dieb

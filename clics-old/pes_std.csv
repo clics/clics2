@@ -1,0 +1,1327 @@
+@classification: Indo-European,Indo-Iranian,Iranian,Western,Southwestern,Persian
+@ids-name: Persian_Phonemic
+@iso: pes
+@language: Farsi, Western
+@size: 1320
+@source: ids
+@variety: std
+1.1	world	ǰæhɑn
+1.21	earth, land	zæmin
+1.212	earth=ground, soil	xɑk
+1.212	earth=ground, soil	zæmin
+1.213	dust	gærd
+1.213	dust	xɑk
+1.214	mud	gel
+1.215	sand	rig
+1.215	sand	šen
+1.22	mountain, hill	kuh
+1.22	mountain, hill	teppe
+1.222	cliff, precipice	pærtgɑh
+1.222	cliff, precipice	tæxtesæng
+1.23	plain, field	dæšt
+1.24	valley	dærre
+1.27	shore	kenɑr
+1.27	shore	kerɑne
+1.31	water	ɑb
+1.32	sea	dæryɑ
+1.322	calm (of sea)	ɑrɑm
+1.324	foam	kæf
+1.33	lake	dæryɑče
+1.343	headland, point	dæmɑḡe
+1.36	river, stream, brook	rud
+1.36	river, stream, brook	rudxɑne
+1.36	river, stream, brook	dæryo
+1.362	whirlpool	gerdɑb
+1.37	spring, well	češme
+1.37	spring, well	čɑh
+1.38	swamp	mordɑb
+1.39	waterfall	ɑbšɑr
+1.41	woods, forest	ǰængæl
+1.42	tree (cf 08.600)	deræxt
+1.42	tree (cf 08.600)	dæræxt
+1.43	wood	čub
+1.44	stone, rock	sæng
+1.51	sky	ɑsmɑn
+1.52	sun	ɑftɑb
+1.52	sun	xoršid
+1.53	moon	mɑh
+1.54	star	setɑre
+1.57	lightning (as striking)	ɑzæræxš
+1.59	rainbow	rænginkæmɑn
+1.61	light (noun)	rowšænɑʔi
+1.62	darkness	tɑriki
+1.63	shade, shadow	sɑye
+1.64	dew	šæbnæm
+1.64	dew	žɑle
+1.71	air	bɑd
+1.72	wind	bɑd
+1.73	cloud	æbr
+1.74	fog	meh
+1.75	rain (noun)	bɑrɑn
+1.76	snow (noun)	bærf
+1.77	ice	yæx
+1.78	weather	ɑbohævɑ
+1.81	fire	ɑteš
+1.81	fire	ɑtæš
+1.81	fire	ɑzær
+1.83	smoke (noun)	dud
+1.84	ashes	xɑkestær
+1.841	embers	æxgær
+1.851	burn (vb trans)	suxtæn
+1.851	burn (vb trans)	suz
+1.852	burn (vb intrans)	suzɑn
+1.86	light, kindle, ignite	æfruxt
+1.86	light, kindle, ignite	æfruz
+1.86	light, kindle, ignite	rowšæn
+1.86	light, kindle, ignite	kærdæn
+1.861	extinguish	xɑmuškærdæn
+1.88	firewood	hizom
+1.89	charcoal	zoḡɑlečub
+2.1	person, human being	ɑdæm
+2.1	person, human being	kæs
+2.21	man (vs. woman)	mærd
+2.22	woman	zæn
+2.23	male	nær
+2.24	female	mɑde
+2.25	boy	pesær
+2.25	boy	bæčče
+2.251	young man (adolescent)	ǰævɑn
+2.26	girl	doxtær
+2.261	young woman (adolescent)	dušize
+2.261	young woman (adolescent)	doxtærzæn
+2.27	child	bæčče
+2.27	child	færzænd
+2.27	child	kudæk
+2.28	infant, baby	kudæk
+2.31	husband	šowhær
+2.32	wife	zæn
+2.32	wife	hæmsær
+2.33	marry	kærdæn
+2.34	marriage, wedding	ærusi
+2.35	father	pedær
+2.35	father	pædær
+2.36	mother	mɑdær
+2.37	parents	pedæromɑdær
+2.41	son	pesær
+2.42	daughter	doxtær
+2.43	offspring (son or daughter)	færzænd
+2.43	offspring (son or daughter)	bæčče
+2.44	brother	berɑdær
+2.44	brother	bærɑdær
+2.444	older brother	kɑkɑ
+2.445	younger brother	dɑdær
+2.45	sister	xɑhær
+2.45	sister	hæmšire
+2.455	younger sister	apa
+2.456	sibling	hæmšire
+2.458	twins	doqolu
+2.458	twins	hæmzɑd
+2.46	grandfather	pedærebozorg
+2.46	grandfather	niyɑ
+2.461	old man	pir
+2.461	old man	piremærd
+2.47	grandmother	mɑdærebozorg
+2.471	old woman	pirezæn
+2.48	grandson	næve
+2.48	grandson	pesærepesær
+2.48	grandson	pesærdoxtær
+2.49	granddaughter	doxtærpesær
+2.49	granddaughter	doxtæredoxtær
+2.51	uncle	dɑi
+2.51	uncle	amak
+2.51	uncle	taḡoi
+2.511	mother's brother	dɑʔi
+2.511	mother's brother	xɑlu
+2.512	father's brother	æmu
+2.53	nephew	pesærbærɑdær
+2.53	nephew	pesærxɑhær
+2.53	nephew	bærɑdærzɑde
+2.53	nephew	xɑhærzɑde
+2.54	niece	doxtærbærɑdær
+2.54	niece	doxtærxɑhær
+2.54	niece	bærɑdærzɑde
+2.54	niece	xɑhærzɑde
+2.55	cousin	pesæræmu
+2.55	cousin	doxtæræmu
+2.55	cousin	pesærxɑle
+2.55	cousin	doxtærxɑle
+2.56	ancestors	niyɑkɑn
+2.56	ancestors	niyɑgɑn
+2.61	father-in-law (of a man)	pedæršowhær
+2.61	father-in-law (of a man)	pedærzæn
+2.611	father-in-law (of a woman)	pedæršowhær
+2.62	mother-in-law (of a man)	mɑdæršowhær
+2.62	mother-in-law (of a man)	mɑdærzæn
+2.621	mother-in-law (of a woman)	mɑdæršowhær
+2.63	son-in-law (of a man)	dɑmɑd
+2.631	son-in-law (of a woman)	dɑmɑd
+2.71	stepfather	nɑpedæri
+2.71	stepfather	pedærændær
+2.72	stepmother	nɑmɑdæri
+2.72	stepmother	mɑdærændær
+2.72	stepmother	zænbɑbɑ
+2.72	stepmother	zænepedær
+2.73	stepson	nɑpesæri
+2.74	stepdaughter	nɑdoxtæri
+2.74	stepdaughter	doxtærændær
+2.75	orphan	pedærmorde
+2.75	orphan	mɑdærmorde
+2.76	widow	bive
+2.81	relatives, kinsmen	nesbi
+2.82	family	xɑnevɑde
+2.82	family	fɑmil
+2.91	I	mæn
+2.92	you (singular)	to
+2.93	he/she/it	u
+2.93	he/she/it	væy
+2.94	we	mɑ
+2.95	you (plural)	šomɑ
+2.96	they	išɑn
+3.11	animal	ǰɑnevær
+3.12	male (adj)	nær
+3.13	female (adj)	mɑde
+3.15	livestock	dɑm
+3.16	pasture	čæridæn
+3.16	pasture	čerɑgɑh
+3.18	herdsman	čupɑn
+3.19	stable, stall	ɑxor
+3.2	cattle (bovine)	mɑl
+3.2	cattle (bovine)	gɑv
+3.21	bull	gɑvenær
+3.22	ox	gɑv
+3.23	cow	mɑdegɑv
+3.24	calf	gusɑle
+3.25	sheep	gusfænd
+3.26	ram	quč
+3.28	ewe	miš
+3.29	lamb	bærre
+3.32	boar	gorɑz
+3.35	pig	xuk
+3.36	goat	boz
+3.38	kid	bozqɑle
+3.41	horse (equine)	æsp
+3.41	horse (equine)	yɑbu
+3.44	mare	mɑdyɑn
+3.45	foal, colt	korre
+3.46	ass, donkey	xær
+3.46	ass, donkey	olɑq
+3.47	mule	qɑter
+3.52	cock, rooster	xorus
+3.54	hen	morq
+3.55	chicken	ǰuǰe
+3.56	goose	qɑz
+3.57	duck	ordæk
+3.57	duck	morqɑbi
+3.58	nest	ɑšeyɑne
+3.581	bird	pærænde
+3.584	eagle	oqɑb
+3.585	hawk	šɑhin
+3.586	vulture	kærkæs
+3.586	vulture	lɑšxur
+3.591	bat	šæppære
+3.592	parrot	tuti
+3.593	crow	kælɑq
+3.594	dove	kæbutær
+3.596	owl	buf
+3.596	owl	bum
+3.61	dog	sæg
+3.614	rabbit	xærguš
+3.62	cat	gorbe
+3.63	mouse, rat	muš
+3.65	fish	mahi
+3.71	wolf	gorg
+3.72	lion	šir
+3.72	lion	šēr
+3.73	bear	xers
+3.74	fox	robɑh
+3.74	fox	rubah
+3.75	deer	gævæzn
+3.76	monkey	meymun
+3.77	elephant	pil
+3.77	elephant	fil
+3.78	camel	šotor
+3.811	louse	šepeš
+3.813	flea	keyk
+3.813	flea	kæk
+3.814	centipede	hezɑrpɑ
+3.815	scorpion	kæždom
+3.817	ant	mur
+3.817	ant	murče
+3.818	spider	kɑrtæng
+3.818	spider	kɑrtæne
+3.818	spider	ǰula
+3.819	spider web	tɑreænkæbut
+3.82	bee	zæmbur
+3.823	wasp	zæmbur
+3.83	fly	mægæs
+3.831	sandfly (midge), gnat	pæše
+3.832	mosquito	pæše
+3.84	worm	kerm
+3.85	snake	mɑr
+3.92	butterfly	pærvɑne
+3.95	frog	qurbɑqe
+3.96	lizard	bozmæǰe
+3.98	turtle	lɑkpošt
+3.98	turtle	sangbaqa
+4.11	body	tæn
+4.12	skin, hide	pust
+4.13	flesh	gušt
+4.14	hair (head)	mu
+4.142	beard	riš
+4.15	blood	xun
+4.151	vein, artery	ræg
+4.16	bone	ostoxɑn
+4.162	rib	dænde
+4.17	horn	šɑx
+4.18	tail	dom
+4.19	back	pošt
+4.2	head	sær
+4.202	skull	kælle
+4.203	brain	mæqz
+4.204	face	ru
+4.205	forehead	pišɑni
+4.207	jaw	ɑrvɑre
+4.208	cheek	rox
+4.209	chin	čɑne
+4.21	eye	čæšm
+4.212	eyebrow	æbru
+4.213	eyelid	pelk
+4.214	eyelash	može
+4.214	eyelash	meže
+4.215	blink	čæšmæk
+4.215	blink	zædæn
+4.22	ear	guš
+4.23	nose	bini
+4.24	mouth	dæhɑn
+4.24	mouth	dæhæn
+4.241	beak	nuk
+4.25	lip	læb
+4.26	tongue	zæbɑn
+4.27	tooth	dændɑn
+4.28	neck	gærdæn
+4.29	throat	gælu
+4.29	throat	golu
+4.3	shoulder	duš
+4.31	arm	bɑzu
+4.312	armpit	bæqæl
+4.32	elbow	ɑrænǰ
+4.321	wrist	moč
+4.33	hand	dæst
+4.33	hand	kæf
+4.331	palm of hand	kæf
+4.34	finger	ængošt
+4.342	thumb	šæst
+4.344	fingernail	nɑxon
+4.345	claw	čæng
+4.35	leg	pɑ
+4.351	thigh	rɑn
+4.36	knee	zɑnu
+4.37	foot	pɑ
+4.371	ankle	močepɑ
+4.372	heel	pɑšæne
+4.38	toe	ængoštepɑ
+4.392	wing	bɑl
+4.393	feather	pær
+4.4	chest	sine
+4.41	breast (of woman)	pestɑn
+4.412	nipple, teat	særpestɑn
+4.42	udder	pestɑn
+4.43	navel	nɑf
+4.44	heart	del
+4.45	liver	ǰegær
+4.451	kidney	gorde
+4.452	spleen	osporz
+4.46	stomach	šekæm
+4.461	intestines, guts	rude
+4.462	waist	kæmær
+4.463	hip	gorde
+4.464	buttocks	kun
+4.47	womb	šekæm
+4.49	testicle	xɑye
+4.492	penis	kir
+4.51	breathe, breath	næfæskæšidæn
+4.51	breathe, breath	dæmzædæn
+4.51	breathe, breath	dæm
+4.521	hiccough	sæksæke
+4.521	hiccough	hoqhoqzædæn
+4.53	cough	sorfe
+4.54	sneeze	ætse
+4.55	perspire	xukærdæn
+4.56	spit	tofkærdæn
+4.57	vomit	kærdæn
+4.58	bite	gæzidæn
+4.59	lick	lisidæn
+4.61	sleep	xɑbidæn
+4.61	sleep	xɑb
+4.612	snore	xorxorkærdæn
+4.62	dream	xabdidæn
+4.63	wake up	bidɑršodæn
+4.64	break wind	guz
+4.64	break wind	tiz
+4.64	break wind	guzidæn
+4.65	urinate	šɑšidæn
+4.66	defecate	goh
+4.66	defecate	ridæn
+4.66	defecate	rin
+4.67	have sexual intercourse	gɑhidæn
+4.68	shiver	lærzidæn
+4.69	bathe	šostušukærdæn
+4.72	born (to be)	zɑʔidæn
+4.73	pregnant	ɑbestæn
+4.74	live, living, life	zende
+4.74	live, living, life	zendegi
+4.74	live, living, life	zistæn
+4.74	live, living, life	zi
+4.75	die, dead	mordæn
+4.75	die, dead	morde
+4.76	kill	koštæn
+4.78	bury (the dead)	kærdæn
+4.79	grave, tomb	gur
+4.81	strong, mighty, powerful	zurmænd
+4.81	strong, mighty, powerful	tævɑnɑ
+4.82	weak	sost
+4.83	well, health	tændorosti
+4.84	sick, sickness	bimɑr
+4.84	sick, sickness	bimɑri
+4.843	cold (catarrh)	særmɑ
+4.843	cold (catarrh)	rizeš
+4.85	wound, sore	zæxm
+4.854	itch	xɑreš
+4.856	boil (noun)	ǰuš
+4.857	pus	rim
+4.858	scar	dɑq
+4.86	cure, heal	dærmɑn
+4.87	physician	pezešk
+4.88	medicine, drug	daru
+4.89	poison	zæhr
+4.91	tired, weary	xæste
+4.91	tired, weary	mɑnde
+4.912	rest	ɑsudæn
+4.912	rest	ɑsɑ
+4.92	lazy	tæmbæl
+4.93	bald	kæl
+4.94	lame	læng
+4.94	lame	šæl
+4.95	deaf	kær
+4.96	mute	gong
+4.97	blind	kur
+4.98	intoxicated	mæst
+4.99	naked, bare	bæræhne
+5.11	eat	xordæn
+5.12	food	xorɑk
+5.121	cooked	poxte
+5.122	raw	xɑm
+5.123	ripe	poxte
+5.123	ripe	ræside
+5.124	green, unripe	xɑm
+5.125	rotten	puside
+5.13	drink	xordæn
+5.13	drink	nušidæn
+5.13	drink	ɑšɑmidæn
+5.14	hunger	gorosnegi
+5.15	thirst	tešnegi
+5.16	suck	mækidæn
+5.18	chew	xɑʔidæn
+5.19	choke	xæfešodæn
+5.21	cook	poxtæn
+5.22	boil (vb)	ǰušidæn
+5.23	roast, fry	sorxkærdæn
+5.23	roast, fry	beryɑnk
+5.24	bake	poxtæn
+5.25	oven	tænur
+5.26	pot, cooking vessel	dig
+5.27	kettle	ketri
+5.32	plate	pošqɑb
+5.32	plate	bošqɑb
+5.33	bowl	kɑse
+5.34	pitcher, jug	kuze
+5.35	cup, drinking vessel	fenǰɑn
+5.35	cup, drinking vessel	piyɑle
+5.38	knife	kɑrd
+5.39	fork	čængɑl
+5.391	tongs	æmbor
+5.42	breakfast	ɑne
+5.42	breakfast	čɑšt
+5.44	dinner	šɑm
+5.47	sieve, strain	ælæk
+5.47	sieve, strain	bixtæn
+5.47	sieve, strain	biz
+5.48	scrape	tærɑšidæn
+5.49	stir, mix	ɑmixtæn
+5.49	stir, mix	ɑmiz
+5.49	stir, mix	ængixtæn
+5.49	stir, mix	ængiz
+5.51	bread	nɑn
+5.53	dough	xæmir
+5.55	meal, flour	ɑrd
+5.56	crush, grind	sɑʔidæn
+5.57	mill	ɑsiyɑ
+5.57	mill	ɑsiyɑb
+5.58	mortar	hɑvæn
+5.61	meat	gušt
+5.64	soup, broth	ɑbgušt
+5.65	vegetables	næbɑti
+5.66	bean	bɑqelɑ
+5.66	bean	lubiyɑ
+5.7	potato	sibzæmini
+5.71	fruit	mive
+5.712	bunch	xuše
+5.75	fig	ænǰir
+5.76	grape	ængur
+5.77	nut	gerdu
+5.77	nut	čɑrmæqz
+5.78	olive	zeytun
+5.79	oil	rowqæn
+5.81	salt	næmæk
+5.82	pepper	felfel
+5.85	sugar	šekær
+5.86	milk (noun)	šir
+5.87	milk (vb)	dušidæn
+5.88	cheese	pænir
+5.89	butter	kære
+5.9	beverage, drink	nušidæni
+5.92	wine	šærɑb
+5.93	beer	ɑbeǰów
+5.97	egg	toxmemorq
+5.971	egg yolk	zærde
+6.11	put on (clothes)	lebɑspušidæn
+6.12	clothing, clothes	ǰɑme
+6.13	tailor	dærzi
+6.21	cloth	pɑrče
+6.22	wool	pæšm
+6.23	linen, flax	kættɑn
+6.24	cotton	pæmbe
+6.24	cotton	pæxtæ
+6.25	silk	æbrišom
+6.27	felt	næmæd
+6.28	fur	xæz
+6.29	leather	čærm
+6.31	spin	rištæn
+6.31	spin	reštæn
+6.31	spin	ris
+6.32	spindle	duk
+6.33	weave	bɑftæn
+6.34	loom	dæstgɑhenæssɑǰi
+6.35	sew	duxtæn
+6.35	sew	duz
+6.36	needle	suzæn
+6.37	awl	mil
+6.38	thread	næx
+6.39	dye	rængkærdæn
+6.43	coat	nimtæne
+6.43	coat	kot
+6.44	shirt	pirahæn
+6.44	shirt	piræhæn
+6.46	skirt	dɑmæn
+6.48	trousers	šælvɑr
+6.51	shoe	kæfš
+6.52	boot	muze
+6.54	shoemaker, cobbler	kæffɑš
+6.55	hat, cap	kolɑh
+6.57	belt, girdle	kæmærbænd
+6.58	glove	dæstkæš
+6.59	veil	heǰɑb
+6.61	pocket	ǰib
+6.62	button	dogme
+6.63	pin	sænǰɑq
+6.71	ornament, adornment	ɑrɑyeš
+6.72	jewel	ǰowhær
+6.73	ring (for finger)	ængoštær
+6.74	bracelet	dæstbænd
+6.75	necklace	gærdænbænd
+6.76	bead	mohre
+6.77	earring	gušvɑre
+6.78	headband, headdress	deyhim
+6.81	handkerchief, rag	dæstmɑl
+6.82	towel	howle
+6.91	comb	šɑne
+6.93	razor	tiq
+6.95	soap	sɑbun
+6.96	mirror	ɑʔine
+7.11	dwell, live	kærdæn
+7.12	house	xɑne
+7.13	hut	kolbe
+7.14	tent	čɑdor
+7.15	yard, court	særɑy
+7.17	cookhouse	ɑšpæzxɑne
+7.22	door, gate	dær
+7.22	door, gate	dærvɑze
+7.231	latch, door-bolt	čeft
+7.24	key	kelid
+7.25	window	pænǰære
+7.25	window	rowzæne
+7.25	window	tireza
+7.26	floor	zæmin
+7.27	wall	divɑr
+7.32	stove	boxɑri
+7.33	chimney	dudkæš
+7.37	ladder	nærdæbɑn
+7.42	bed	tæxtexɑb
+7.422	blanket	pætu
+7.43	chair	sændæli
+7.44	table	miz
+7.45	lamp, torch	čerɑq
+7.47	shelf	ræf
+7.51	roof	bɑm
+7.55	beam	tir
+7.55	beam	bɑtɑr
+7.56	post, pole	mile
+7.56	post, pole	tir
+7.57	board	tæxt
+7.58	arch	tɑq
+7.58	arch	tɑqčeeyvɑn
+7.62	brick	xešt
+7.64	adobe	gel
+8.11	farmer	dehqɑn
+8.12	field (for cultivation)	keštzɑr
+8.13	garden	bɑq
+8.15	cultivate, till	kærdæn
+8.15	cultivate, till	keštæn
+8.15	cultivate, till	kɑr
+8.17	ditch	gudɑl
+8.21	plow	gɑvɑhæn
+8.212	furrow	šiyɑr
+8.22	dig	kændæn
+8.23	spade	bil
+8.24	shovel	bil
+8.31	sow	keštænkar
+8.311	seed	dɑne
+8.32	mow, reap	derowkærdæn
+8.33	sickle, scythe	dɑs
+8.34	thresh	kubidæn
+8.35	threshing-floor	xærmængæli
+8.41	crop, harvest	xærmæn
+8.42	grain (barley, oats etc)	qælle
+8.43	wheat	gændom
+8.44	barley	ǰow
+8.47	maize, corn	zorræt
+8.47	maize, corn	bælɑl
+8.48	rice	berenǰ
+8.51	grass	giyɑh
+8.52	hay	ælæfexošk
+8.53	plant (noun)	næbɑt
+8.531	plant (vb)	keštæn
+8.531	plant (vb)	kɑr
+8.54	root	bix
+8.54	root	riše
+8.55	branch	šɑx
+8.55	branch	šɑxe
+8.56	leaf	bærg
+8.57	flower	gol
+8.6	tree	dæræxt
+8.61	oak	bælut
+8.65	fir	kɑǰ
+8.65	fir	senowbær
+8.66	acorn	bælut
+8.67	vine	tæk
+8.67	vine	ræz
+8.67	vine	mow
+8.68	tobacco	tæmbɑku
+8.68	tobacco	totun
+8.68	tobacco	tutun
+8.69	smoke (tobacco)	dudkæšidæn
+8.691	pipe	čopok
+8.691	pipe	qælæyɑn
+8.72	tree stump	konde
+8.73	tree trunk	tæne
+8.74	forked branch	došɑxe
+8.76	sap	šire
+8.83	citrus fruit	limu
+8.93	gourd	kædu
+8.931	pumpkin, squash	kædu
+8.94	bamboo	xeyzorɑn
+8.941	sugar cane	neyšækær
+8.98	mushroom	qɑrč
+9.11	do, make	kærdæn
+9.11	do, make	kon
+9.12	work	kɑr
+9.12	work	kɑrkærdæn
+9.14	bend	xæmkærdæn
+9.15	fold	tɑkærdæn
+9.16	tie, bind	bæstæn
+9.16	tie, bind	bænd
+9.161	untie	gošudæn
+9.161	untie	gošɑ
+9.18	chain	selsele
+9.19	rope, cord	tænɑb
+9.19	rope, cord	rismɑn
+9.192	knot (noun)	gereh
+9.21	strike (hit, beat)	zædæn
+9.21	strike (hit, beat)	zæn
+9.22	cut	boridæn
+9.221	cut down	kændæn
+9.222	chop, hew	tærɑšidæn
+9.23	knife	kɑrd
+9.25	ax	tæbær
+9.251	adze	tiše
+9.26	break	šekæstæn
+9.26	break	šekæn
+9.261	broken	šekæste
+9.261	broken	xærɑb
+9.27	split	šekɑftæn
+9.28	tear	parekærdæn
+9.29	flay, skin	pustkændæn
+9.31	rub, wipe	mɑlidæn
+9.32	stretch	kæšidæn
+9.33	pull	kæšidæn
+9.34	spread out	pæhnkærdæn
+9.341	hang up	ɑvixtæn
+9.341	hang up	ɑviz
+9.341	hang up	ɑvizɑndæn
+9.342	press	fešordæn
+9.342	press	fešɑr
+9.343	squeeze, wring	fešordæn
+9.343	squeeze, wring	fešar
+9.35	pour	rixtæn
+9.35	pour	riz
+9.36	wash	šostæn
+9.36	wash	šu
+9.37	sweep	roftæn
+9.37	sweep	rub
+9.38	broom	ǰɑru
+9.422	tool	ɑlæt
+9.44	build	saxtæn
+9.44	build	kærdæn
+9.46	bore	softæn
+9.46	bore	somb
+9.48	saw	ærre
+9.49	hammer	čækoš
+9.5	nail	mix
+9.56	glue	seriš
+9.56	glue	čæsb
+9.6	smith, blacksmith	næʔlbænd
+9.6	smith, blacksmith	ahængær
+9.61	forge	kure
+9.62	anvil	sendɑn
+9.63	cast (metals)	rixtæn
+9.63	cast (metals)	riz
+9.64	gold	zær
+9.65	silver	sim
+9.66	copper, bronze	mes
+9.66	copper, bronze	čudæn
+9.67	iron	ɑhæn
+9.68	lead (noun)	sorb
+9.71	potter	kuzegær
+9.73	clay	gel
+9.74	glass	šiše
+9.75	weave, plait	bɑftæn
+9.76	basket	zæmbil
+9.76	basket	sæbæd
+9.77	mat	zilu
+9.771	rug	qɑliče
+9.79	fan (noun)	bɑdbezæn
+9.81	carve	tærɑšidæn
+9.82	sculptor	sængtærɑs
+9.84	chisel	eskenæk
+9.84	chisel	eskene
+9.88	paint (noun)	ræng
+9.89	paint (vb)	rængzædæn
+10.11	move	kærdæn
+10.11	move	ǰombidæn
+10.11	move	tækɑnxordæn
+10.12	turn over	gærdidæn
+10.13	turn around	bærgæštæn
+10.14	wind, wrap	pičidæn
+10.15	roll	qæltidæn
+10.16	drop (vb)	velkærdæn
+10.17	twist	pičidæn
+10.21	rise	bærxɑstæn
+10.22	raise, lift	bærdɑštæn
+10.23	fall	oftɑdæn
+10.24	drip	čekidæn
+10.25	throw	ændɑxtæn
+10.25	throw	pærtɑftæn
+10.252	catch (ball)	girkærdæn
+10.26	shake	tækɑndɑdæn
+10.26	shake	ǰombɑnidæn
+10.32	flow	ǰɑrišodæn
+10.33	sink	foruræftæn
+10.35	swim	šenɑkærdæn
+10.37	fly (vb)	pærvɑzkærdæn
+10.38	blow	dæmidæn
+10.41	creep, crawl	xæzidæn
+10.412	kneel	čæhɑrzanunešæstæn
+10.413	crouch	čombɑtæmezædæn
+10.42	slide, slip	sorxordæn
+10.42	slide, slip	lisxordæn
+10.42	slide, slip	læqzidæn
+10.43	jump, leap	ǰæstæn
+10.43	jump, leap	pæridæn
+10.431	kick	lægædzædæn
+10.44	dance	kærdæn
+10.45	walk	rɑhræftæn
+10.46	run	dævidæn
+10.47	go	ræftæn
+10.47	go	ræv
+10.471	go up	bɑlɑræftæn
+10.473	go down	foruræftæn
+10.474	go out	birunræftæn
+10.48	come	ɑmædæn
+10.48	come	ɑ
+10.481	come back	bærgæštæn
+10.491	disappear	æzbeynræftæn
+10.51	flee	gorixtæn
+10.51	flee	goriz
+10.51	flee	færɑrkærdæn
+10.53	pursue	dombɑlkærdæn
+10.55	reach, arrive	ræsidæn
+10.55	reach, arrive	šodæn
+10.56	approach	næzdikšodæn
+10.57	enter	vɑreddɑxelšodæn
+10.57	enter	dæramædæn
+10.61	carry (bear)	bordæn
+10.615	carry-underarm	bæqælkærdæn
+10.615	carry-underarm	daštæn
+10.62	bring	ɑvordæn
+10.62	bring	ɑvær
+10.63	send	ferestɑdæn
+10.64	lead (vb)	kærdæn
+10.64	lead (vb)	ræhnæmɑkærdæn
+10.65	drive	rɑndæn
+10.66	ride	sævɑršodæn
+10.67	push, shove	tekɑndɑdæn
+10.71	road	rɑh
+10.72	path	rɑh
+10.74	bridge	pol
+10.75	carriage, wagon, cart	gɑri
+10.76	wheel	čærx
+10.77	axle	mil
+10.77	axle	mile
+10.78	yoke	yuq
+10.81	ship	kešti
+10.81	ship	nɑv
+10.85	oar	pɑru
+10.851	paddle (noun)	pɑru
+10.852	row (vb)	pɑruzædæn
+10.86	rudder	sokkɑnekešti
+10.87	mast	dægæl
+10.88	sail (noun)	bɑdbɑn
+10.89	anchor	længær
+10.91	harbor, port	bændær
+11.11	have	dɑštæn
+11.11	have	dɑr
+11.12	own, possess	dɑštæn
+11.12	own, possess	dɑr
+11.13	take	gereftæn
+11.13	take	gir
+11.13	take	bærdɑštæn
+11.14	seize, grasp	gereftæn
+11.14	seize, grasp	gir
+11.15	hold	negɑhdɑštæn
+11.15	hold	negæhdɑštæn
+11.16	get, obtain	kærdæn
+11.16	get, obtain	bedæstɑværdæn
+11.17	keep, retain	negɑhdɑštæn
+11.18	thing	čiz
+11.21	give	dɑdæn
+11.21	give	deh
+11.22	give back	pæsdadæn
+11.24	preserve, look after	negɑhdɑštæn
+11.24	preserve, look after	kærdæn
+11.25	save, rescue	ræhɑʔikærdæn
+11.25	save, rescue	dɑdæn
+11.27	destroy	nistonɑbudkærdæn
+11.28	harm, injure, damage	ræsɑndæn
+11.31	seek, look for	ǰostoǰukærdæn
+11.32	find	peydɑkærdæn
+11.33	lose	gomkærdæn
+11.34	release, let go	kærdæn
+11.34	release, let go	ræhɑdɑdæn
+11.43	money	pul
+11.51	rich	mænd
+11.52	poor	dærviš
+11.52	poor	niyɑzmænd
+11.53	beggar	gædɑ
+11.61	lend	dɑdæn
+11.62	borrow	kærdæn
+11.62	borrow	gereftæn
+11.64	debt	vɑm
+11.64	debt	qærz
+11.65	pay (vb)	pærdɑxtæn
+11.65	pay (vb)	pærdɑz
+11.69	tax, tribute	bɑǰ
+11.77	hire	kærdæn
+11.79	earn	kærdæn
+11.81	buy	xæridæn
+11.82	sell	foruxtæn
+11.82	sell	foruš
+11.83	trade, barter	kærdæn
+11.84	merchant	bɑzærgɑn
+11.85	market (place)	bɑzɑr
+11.86	store, shop	dokkɑn
+11.86	store, shop	mæqɑze
+11.87	price	qeymæt
+11.87	price	bæhɑ
+11.88	dear (costly, expensive)	gerɑn
+11.89	cheap	ærzɑn
+11.91	share (distribute)	kærdæn
+11.92	weigh	kærdæn
+12.1	after	pæs
+12.11	place	pæs
+12.2	beside	pæhlu
+12.2	beside	kenɑr
+12.3	down, below	paʔin
+12.4	before	piš
+12.4	before	ǰelow
+12.41	right (side)	ǰelow
+12.5	inside, in	dær
+12.5	inside, in	dærun
+12.5	inside, in	ændær
+12.6	outside	birun
+12.7	under	zir
+12.8	up, above	bɑlɑ
+12.11	place	ǰɑ
+12.12	put	gozɑštæn
+12.12	put	gozɑr
+12.13	sit	nešæstæn
+12.13	sit	nešin
+12.14	lie down	dærɑzkæšidæn
+12.14	lie down	xɑbidæn
+12.15	stand	istɑdæn
+12.15	stand	xɑstæn
+12.15	stand	xiz
+12.16	remain, stay	mɑndæn
+12.17	remains, left overs	bɑzmɑnde
+12.21	collect, gather	čidænčin
+12.21	collect, gather	kærdæn
+12.212	pick up	bærdɑštæn
+12.22	join, unite	peyvæstæn
+12.22	join, unite	peyvænd
+12.23	separate	ǰodɑkærdæn
+12.24	open	bɑzkærdæn
+12.25	shut, close	bæstæn
+12.25	shut, close	bænd
+12.26	cover	pušidæn
+12.27	hide, conceal	penhɑnkærdæn
+12.31	high	bolænd
+12.32	low	pæst
+12.33	top	sær
+12.34	bottom	tæh
+12.34	bottom	pɑʔin
+12.35	end	pɑyɑn
+12.352	pointed	nuk
+12.352	pointed	sær
+12.353	edge	læbe
+12.353	edge	kenɑr
+12.36	side	kenɑr
+12.37	middle, center	miyɑn
+12.41	right (side)	rɑst
+12.42	left (side)	čæp
+12.43	near (adv)	næzdik
+12.44	far (adv)	dur
+12.45	east	xɑvær
+12.46	west	bɑxtær
+12.47	north	šæmɑl
+12.53	grow	rostæn
+12.53	grow	ru
+12.54	measure	mizɑn
+12.54	measure	ændɑzegereftæn
+12.55	large, big	bozorg
+12.56	small, little	xord
+12.57	long	derɑz
+12.57	long	dærɑz
+12.58	tall	bolænd
+12.59	short	kutɑh
+12.61	wide, broad	pæhn
+12.62	narrow	tæng
+12.62	narrow	bɑrik
+12.63	thick (in dimension)	koloft
+12.63	thick (in dimension)	dorošt
+12.65	thin (in dimension)	lɑqer
+12.67	deep	žærf
+12.71	flat	hæmvɑr
+12.73	straight	rɑst
+12.74	crooked	kæǰ
+12.75	hook	qollɑb
+12.76	corner	guše
+12.78	square	čæhɑrguše
+12.81	round	gerd
+12.83	sphere, ball	gærdun
+12.85	hole	surɑx
+12.92	like, similar	mɑnænd
+12.93	change	degɑrgun
+12.93	change	kærdæn
+13.0	zero, nothing	hič
+13.1	one	yæk
+13.1	one	yek
+13.2	two	do
+13.3	three	se
+13.4	four	čæhɑr
+13.5	five	pænǰ
+13.6	six	šeš
+13.6	six	šiš
+13.7	seven	hæft
+13.8	eight	hæšt
+13.9	nine	noh
+13.10	ten	dæh
+13.101	eleven	yɑzdæh
+13.102	twelve	dævɑzdæh
+13.103	fifteen	pɑnzdæh
+13.104	twenty	bist
+13.105	hundred	sæd
+13.106	thousand	hezɑr
+13.107	count	šomordæn
+13.107	count	šomɑr
+13.107	count	kærdæn
+13.14	every, all	hær
+13.14	every, all	hæme
+13.15	much, many	besyɑr
+13.16	more	biš
+13.16	more	bištær
+13.17	little (quantity), few	ændæk
+13.17	little (quantity), few	kæm
+13.18	enough	bæs
+13.181	some	čænd
+13.181	some	čændin
+13.21	full	por
+13.23	part, piece	tekke
+13.23	part, piece	pɑrče
+13.24	half	nim
+13.33	alone, only	tænhɑ
+13.33	alone, only	tæk
+13.34	first	næxost
+13.36	second	dovom
+13.36	second	duyom
+13.37	pair	ǰoft
+13.38	two times	do
+13.42	third	sevvom
+13.44	three times	sedæfʔe
+13.44	three times	mærtæbe
+14.11	time	væqt
+14.11	time	zæmɑn
+14.13	new	now
+14.13	new	tɑze
+14.14	young	ǰævɑn
+14.15	old	pir
+14.16	early	zud
+14.17	late	dir
+14.18	now	æknun
+14.18	now	konun
+14.19	immediately	darraw
+14.21	swift, fast, quick	zud
+14.21	swift, fast, quick	tond
+14.22	slow	ɑheste
+14.23	hasten, hurry	kærdæn
+14.23	hasten, hurry	šetɑbidæn
+14.24	retard, delay	šetɑb
+14.25	begin, beginning	ɑqɑz
+14.25	begin, beginning	kærdæn
+14.252	last, endure	kærdæn
+14.26	end (temporal)	pɑyɑn
+14.27	finish	kærdæn
+14.27	finish	bepɑyɑnresɑndæn
+14.31	always	hæmiše
+14.32	often	bɑrhɑ
+14.33	sometimes	gɑhi
+14.331	soon	bezudi
+14.332	long-time (for a)	derbɑz
+14.34	never	hičvæqt
+14.34	never	hærgez
+14.35	again	dobɑre
+14.41	day	ruz
+14.42	night	šæb
+14.46	evening	šæb
+14.46	evening	šɑm
+14.47	today	emruz
+14.48	tomorrow	færdɑ
+14.48	tomorrow	pægɑh
+14.481	day-after-tomorrow	pæsfærdɑ
+14.49	yesterday	diruz
+14.491	day-before-yesterday	pæriruz
+14.61	week	hæfte
+14.62	Sunday	yekšæmbe
+14.63	Monday	došæmbe
+14.64	Tuesday	sešæmbe
+14.65	Wednesday	čæhɑršæmbe
+14.66	Thursday	pænǰšæmbe
+14.67	Friday	ɑdine
+14.68	Saturday	šæmbe
+14.71	month	mɑh
+14.73	year	sɑl
+14.74	winter	zemestɑn
+14.75	spring	bæhɑr
+14.76	summer	tɑbestɑn
+14.77	autumn	pɑʔiz
+15.21	smell (vb intrans)	budɑdæn
+15.22	smell (vb trans)	bukærdæn
+15.25	fragrant, good smelling	xošbu
+15.26	stinking, bad smelling	bædbu
+15.26	stinking, bad smelling	gænde
+15.31	taste	čæšidæn
+15.35	sweet	širin
+15.36	salty	šur
+15.37	bitter	tælx
+15.38	acid, sour	torš
+15.39	brackish	šur
+15.41	hear	šenidæn
+15.41	hear	šenæv
+15.42	listen	gušdɑdæn
+15.42	listen	kærdæn
+15.44	sound, noise	bɑng
+15.45	loud	bolænd
+15.51	see	didæn
+15.51	see	bin
+15.52	look, look at	negɑhkærdæn
+15.55	show	nešɑndɑdæn
+15.56	shine	dæræxšidæn
+15.57	bright	rowšæn
+15.61	color	ræng
+15.62	light (in color)	rowšæn
+15.63	dark (in color)	tɑrik
+15.64	white	sæfid
+15.64	white	sefid
+15.65	black	siyɑh
+15.66	red	sorx
+15.66	red	qermez
+15.67	blue	ɑbi
+15.68	green	sæbz
+15.69	yellow	zærd
+15.71	touch	dæstkærdæn
+15.72	feel	kærdæn
+15.74	hard	seft
+15.75	soft	nærm
+15.76	rough	dorošt
+15.77	smooth	hæmvɑr
+15.78	sharp	tiz
+15.79	blunt, dull	kond
+15.81	heavy	sængin
+15.82	light (in weight)	sæbok
+15.83	wet, damp	tær
+15.84	dry	xošk
+15.85	hot	dɑq
+15.851	warm	gærm
+15.86	cold	særd
+15.87	clean	pɑk
+16.11	soul, spirit	ǰɑn
+16.15	surprised, astonished	xire
+16.18	good fortune, luck	nikbæxti
+16.19	misfortune, bad luck	bædbæxti
+16.23	joyful, glad, happy	šɑdmɑn
+16.25	laugh	xændidæn
+16.251	smile	kærdæn
+16.26	play	bɑzikærdæn
+16.27	love	dustdɑštæn
+16.29	kiss	busidæn
+16.3	embrace	ɑquš
+16.3	embrace	dærɑqušgereftæn
+16.31	pain	dærd
+16.32	grief, sorrow, sadness	qæm
+16.32	grief, sorrow, sadness	ænduh
+16.33	anxiety, worry	negærani
+16.34	regret, be sorry	ænduh
+16.34	regret, be sorry	xordæn
+16.34	regret, be sorry	pæšimɑnšodæn
+16.37	cry, weep	geryekærdæn
+16.38	tear (noun)	æšk
+16.39	groan	nɑlekærdæn
+16.45	shame (noun)	šærm
+16.51	dare	dɑštæn
+16.52	brave	dælir
+16.53	fear, fright	tærs
+16.53	fear, fright	bim
+16.62	desire, want	xɑstæn
+16.62	desire, want	ɑrzudɑštæn
+16.622	choose	gozidæn
+16.622	choose	gozin
+16.63	hope	omid
+16.66	true	rɑst
+16.67	lie, tell lies	doruq
+16.68	deceit	færib
+16.69	forgive	bæxšidæn
+16.71	good	xub
+16.72	bad	bæd
+16.73	right, correct	dorost
+16.74	wrong	nɑdorost
+16.81	beautiful	qæšæng
+16.81	beautiful	zibɑ
+16.82	ugly	zešt
+16.83	greedy	porxur
+16.84	clever	zeræng
+16.84	clever	ziræk
+17.13	think (= reflect)	segɑlidæn
+17.14	think (= be of the opinion)	ændišidæn
+17.14	think (= be of the opinion)	pendɑštæn
+17.15	believe	bɑværkærdæn
+17.17	know	dɑnestæn
+17.171	guess	zædæn
+17.172	imitate	ædɑkærdæn
+17.18	seem	mɑnestæn
+17.18	seem	næmudæn
+17.18	seem	næma
+17.21	wise	xerædmænd
+17.23	insane, crazy	divɑne
+17.24	learn	yɑdgereftæn
+17.242	study	kærdæn
+17.25	teach	yɑddɑdæn
+17.26	pupil	dɑnešamuz
+17.27	teacher	ostɑd
+17.31	remember	yɑddɑštæn
+17.32	forget	færamuškærdæn
+17.35	obscure	tɑr
+17.36	secret	penhɑn
+17.38	explain	kærdæn
+17.44	suspect	dɑštæn
+17.441	betray	kærdæn
+17.45	need, necessity	niyɑz
+17.45	need, necessity	niyɑzmændi
+17.46	easy	ɑsɑn
+17.47	difficult	sæxt
+17.48	try, attempt	ɑzmudæn
+17.51	and	væ
+17.51	and	o
+17.52	because	æzinke
+17.52	because	beike
+17.53	if	ægær
+17.54	or	yɑ
+17.54	or	væyɑ
+17.55	yes, affirmative	bɑle
+17.55	yes, affirmative	ɑre
+17.55	yes, affirmative	hæ
+17.56	no, negative	næ
+17.56	no, negative	næ
+17.56	no, negative	nē
+17.61	how?	če?
+17.62	how many?	čændtɑ?
+17.63	how much?	čænd?čeqædr?
+17.64	what?	če?či?
+17.65	when?	key?če?
+17.66	where?	koǰɑ?
+17.67	which?	kodɑm?kædɑm
+17.68	who?	ki?čekæsi?
+17.69	why?	čerɑ?bærɑyeči?
+18.11	voice	ɑvɑz
+18.12	sing	ɑvɑzxɑndæn
+18.13	shout, cry out	færyɑdkæšidæn
+18.13	shout, cry out	zædæn
+18.15	whisper	kærdæn
+18.16	mumble	qorqorkærdæn
+18.16	mumble	šeršerkærdæn
+18.17	whistle	sutzædæn
+18.18	shriek, screech	ǰiqzædæn
+18.18	shriek, screech	færyɑdkæšidæn
+18.21	speak, talk	zædæn
+18.211	stutter, stammer	loknæt
+18.22	say	goftæn
+18.221	tell story	qessegoftæn
+18.222	speech (make a)	soxænrɑnidadæn
+18.23	silent (be)	xɑmuš
+18.24	language	zæbɑn
+18.26	word	læfz
+18.26	word	vɑže
+18.28	name	nɑm
+18.31	ask (question, inquire)	soʔɑlkærdæn
+18.31	ask (question, inquire)	porsidæn
+18.32	answer	dɑdæn
+18.32	answer	pɑsoxdɑdæn
+18.33	admit, confess	kærdæn
+18.34	deny	kærdæn
+18.35	ask, request	dærxɑstkærdæn
+18.36	promise	dɑdæn
+18.37	refuse	kærdæn
+18.38	forbid	kærdæn
+18.39	rebuke, scold	særzæneškærdæn
+18.41	call (=summon)	kærdæn
+18.41	call (=summon)	xɑndæn
+18.42	call (=name)	nɑmidæn
+18.42	call (=name)	xɑndæn
+18.43	announce	kærdæn
+18.44	threaten	kærdæn
+18.45	boast	lɑfzædæn
+18.51	write	neveštæn
+18.51	write	nevis
+18.52	read	xɑndæn
+18.67	poet	soxænvær
+18.71	flute	nɑy
+18.71	flute	næy
+18.72	drum	tombæk
+18.72	drum	dohol
+18.73	horn, trumpet	sur
+19.11	country	kešvær
+19.12	one's native country	mihæn
+19.15	city, town	šæhr
+19.16	village	deh
+19.16	village	dehkæde
+19.17	boundary	mærz
+19.21	people (populace)	mærdom
+19.23	tribe, clan	il
+19.24	chief, chieftain	rišsefid
+19.24	chief, chieftain	særdɑr
+19.31	rule, govern	kærdæn
+19.32	king, ruler	šɑh
+19.32	king, ruler	pɑdšɑh
+19.33	queen	šɑhbɑnu
+19.42	slave	bænde
+19.42	slave	bærde
+19.43	servant	kæniz
+19.43	servant	kænizæk
+19.44	freeman	ɑzɑd
+19.45	command, order	færmɑn
+19.46	obey	færmɑnbærdɑrikærdæn
+19.47	let, permit	dɑdæn
+19.51	friend, companion	dust
+19.52	enemy	došmæn
+19.54	neighbor	hæmsɑye
+19.55	stranger	bigɑne
+19.56	guest	mehmɑn
+19.57	host	mizbɑn
+19.58	help, aid	kærdæn
+19.58	help, aid	yɑridɑdæn
+19.59	hinder, prevent	kærdæn
+19.59	hinder, prevent	ǰelowgirikærdæn
+19.61	custom	ɑʔin
+19.65	meet	kærdæn
+19.65	meet	bærxordæn
+19.72	prostitute	ǰende
+20.11	fight (vb)	ǰængkærdæn
+20.13	war, battle	ǰæng
+20.14	peace	ɑšti
+20.15	army	sepɑh
+20.15	army	ærteš
+20.17	soldier	særbɑz
+20.22	club	čomɑq
+20.222	battle-ax	tæbærzin
+20.23	sling	fælɑxæn
+20.24	bow	kæmɑn
+20.25	arrow	tir
+20.26	spear	neyze
+20.27	sword	šæmšir
+20.31	armor (defensive)	zere
+20.33	helmet	xud
+20.34	shield	sepær
+20.35	fortress	dež
+20.35	fortress	ærg
+20.41	victory	piruzi
+20.42	defeat	šekæst
+20.43	attack	tɑxtkærdæn
+20.44	defend	kærdæn
+20.45	retreat	nešini
+20.47	captive, prisoner	gereftɑr
+20.471	guard, sentinel	negæhbɑn
+20.49	ambush	kæmin
+20.51	fisherman	mɑhigir
+20.52	fishhook	šæst
+20.54	fishnet	dɑm
+20.61	hunt	šekɑr
+20.62	shoot	tirzædæn
+20.64	trap (noun)	dɑm
+20.65	trap (vb)	bedɑmgereftæn
+21.15	court	dɑdgɑh
+21.16	judge (vb)	dɑværikærdæn
+21.17	judgment	dɑd
+21.18	judge (noun)	dɑdgær
+21.18	judge (noun)	dɑvær
+21.21	plaintiff	dɑdxɑh
+21.23	witness	gævɑh
+21.24	swear	sowgændxordæn
+21.25	oath	sowgænd
+21.31	accuse	kærdæn
+21.32	condemn	kærdæn
+21.34	acquit	kærdæn
+21.35	guilty	sæzɑvɑr
+21.36	innocent	bigonɑh
+21.37	penalty, punishment	sæzɑ
+21.39	prison, jail	zendɑn
+21.47	perjury	peymɑnšekæni
+21.47	perjury	gævɑhiyedoruqi
+21.51	steal	dozdidæn
+21.52	thief	dozd

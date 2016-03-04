@@ -1,0 +1,2371 @@
+ID,Language_ID,Feature_ID,IDS_Key,Value,Concept,IPA_UDECODE
+clics-doculect-69-1,iris1253-std,concepticon-965,1.1,domhan,world,domhan
+clics-doculect-69-2,iris1253-std,concepticon-965,1.1,saol,world,saol
+clics-doculect-69-3,iris1253-std,concepticon-626,1.21,talamh,"earth, land",talamh
+clics-doculect-69-4,iris1253-std,concepticon-626,1.21,tír,"earth, land",tir
+clics-doculect-69-5,iris1253-std,concepticon-1228,1.212,ithir,"earth=ground, soil",ithir
+clics-doculect-69-6,iris1253-std,concepticon-1228,1.212,talamh,"earth=ground, soil",talamh
+clics-doculect-69-7,iris1253-std,concepticon-1228,1.212,cré,"earth=ground, soil",cre
+clics-doculect-69-8,iris1253-std,concepticon-1228,1.212,fód,"earth=ground, soil",fod
+clics-doculect-69-9,iris1253-std,concepticon-2,1.213,deannach,dust,deannach
+clics-doculect-69-10,iris1253-std,concepticon-2,1.213,smúit,dust,smuit
+clics-doculect-69-11,iris1253-std,concepticon-2,1.213,cré,dust,cre
+clics-doculect-69-12,iris1253-std,concepticon-640,1.214,puiteach,mud,puiteach
+clics-doculect-69-13,iris1253-std,concepticon-640,1.214,láib,mud,laib
+clics-doculect-69-14,iris1253-std,concepticon-640,1.214,pluda,mud,pluda
+clics-doculect-69-15,iris1253-std,concepticon-640,1.214,lathach,mud,lathach
+clics-doculect-69-16,iris1253-std,concepticon-640,1.214,draoib,mud,draoib
+clics-doculect-69-17,iris1253-std,concepticon-640,1.214,clábar,mud,clabar
+clics-doculect-69-18,iris1253-std,concepticon-640,1.214,glár,mud,glar
+clics-doculect-69-19,iris1253-std,concepticon-671,1.215,gaineamh,sand,gaineamh
+clics-doculect-69-20,iris1253-std,concepticon-2118,1.22,sliabh,"mountain, hill",sliabh
+clics-doculect-69-21,iris1253-std,concepticon-2118,1.22,cnoc,"mountain, hill",cnoc
+clics-doculect-69-22,iris1253-std,concepticon-2118,1.22,tulach,"mountain, hill",tulach
+clics-doculect-69-23,iris1253-std,concepticon-2118,1.22,ard,"mountain, hill",ard
+clics-doculect-69-24,iris1253-std,concepticon-2118,1.22,beann,"mountain, hill",beann
+clics-doculect-69-25,iris1253-std,concepticon-652,1.23,machaire,"plain, field",machaire
+clics-doculect-69-26,iris1253-std,concepticon-652,1.23,má,"plain, field",ma
+clics-doculect-69-27,iris1253-std,concepticon-921,1.24,gleann,valley,gleann
+clics-doculect-69-28,iris1253-std,concepticon-622,1.25,oileán,island,oilean
+clics-doculect-69-29,iris1253-std,concepticon-622,1.25,inis,island,inis
+clics-doculect-69-30,iris1253-std,concepticon-166,1.26,mórthír,mainland,morthir
+clics-doculect-69-31,iris1253-std,concepticon-166,1.26,míntír,mainland,mintir
+clics-doculect-69-32,iris1253-std,concepticon-166,1.26,tírmór,mainland,tirmor
+clics-doculect-69-33,iris1253-std,concepticon-166,1.26,Mórroinn,mainland,Morroinn
+clics-doculect-69-34,iris1253-std,concepticon-166,1.26,ilchríoch,mainland,ilchrioch
+clics-doculect-69-35,iris1253-std,concepticon-113,1.27,cósta,shore,costa
+clics-doculect-69-36,iris1253-std,concepticon-113,1.27,trá,shore,tra
+clics-doculect-69-37,iris1253-std,concepticon-1155,1.28,uaimh,cave,uaimh
+clics-doculect-69-38,iris1253-std,concepticon-948,1.31,uisce,water,uisce
+clics-doculect-69-39,iris1253-std,concepticon-1474,1.32,farraige,sea,farraige
+clics-doculect-69-40,iris1253-std,concepticon-1474,1.32,muir,sea,muir
+clics-doculect-69-41,iris1253-std,concepticon-258,1.322,ciúin,calm (of sea),ciuin
+clics-doculect-69-42,iris1253-std,concepticon-258,1.322,socair,calm (of sea),socair
+clics-doculect-69-43,iris1253-std,concepticon-259,1.323,garbh,rough (of sea),garbh
+clics-doculect-69-44,iris1253-std,concepticon-1768,1.324,cúr,foam,cur
+clics-doculect-69-45,iris1253-std,concepticon-1768,1.324,coipeadh,foam,coipeadh
+clics-doculect-69-46,iris1253-std,concepticon-645,1.329,Aigéan,ocean,Aigean
+clics-doculect-69-47,iris1253-std,concepticon-645,1.329,bóchna,ocean,bochna
+clics-doculect-69-48,iris1253-std,concepticon-645,1.329,farraigemhór,ocean,farraigemhor
+clics-doculect-69-49,iris1253-std,concepticon-624,1.33,loch,lake,loch
+clics-doculect-69-50,iris1253-std,concepticon-624,1.33,linn,lake,linn
+clics-doculect-69-51,iris1253-std,concepticon-663,1.34,cuan,"gulf, bay",cuan
+clics-doculect-69-52,iris1253-std,concepticon-663,1.34,bá,"gulf, bay",ba
+clics-doculect-69-53,iris1253-std,concepticon-663,1.34,camas,"gulf, bay",camas
+clics-doculect-69-54,iris1253-std,concepticon-660,1.342,sceir,reef,sceir
+clics-doculect-69-55,iris1253-std,concepticon-660,1.342,fochais,reef,fochais
+clics-doculect-69-56,iris1253-std,concepticon-1662,1.343,rinn,"headland, point",rinn
+clics-doculect-69-57,iris1253-std,concepticon-1662,1.343,ceann,"headland, point",ceann
+clics-doculect-69-58,iris1253-std,concepticon-978,1.35,tonn,wave,tonn
+clics-doculect-69-59,iris1253-std,concepticon-978,1.35,uain,wave,uain
+clics-doculect-69-60,iris1253-std,concepticon-891,1.352,taoide,tide,taoide
+clics-doculect-69-61,iris1253-std,concepticon-1026,1.353,lagtrá,lowtide,lagtra
+clics-doculect-69-62,iris1253-std,concepticon-613,1.354,lánmara,hightide,lanmara
+clics-doculect-69-63,iris1253-std,concepticon-666,1.36,abhainn,"river, stream, brook",abhainn
+clics-doculect-69-64,iris1253-std,concepticon-666,1.36,sruth,"river, stream, brook",sruth
+clics-doculect-69-65,iris1253-std,concepticon-666,1.36,sruthán,"river, stream, brook",sruthan
+clics-doculect-69-66,iris1253-std,concepticon-1982,1.362,coireguairneáin,whirlpool,coireguairneain
+clics-doculect-69-67,iris1253-std,concepticon-1982,1.362,coireguairdill,whirlpool,coireguairdill
+clics-doculect-69-68,iris1253-std,concepticon-1982,1.362,coiretuathail,whirlpool,coiretuathail
+clics-doculect-69-69,iris1253-std,concepticon-2144,1.37,tobar,"spring, well",tobar
+clics-doculect-69-70,iris1253-std,concepticon-2144,1.37,fuarán,"spring, well",fuaran
+clics-doculect-69-71,iris1253-std,concepticon-2144,1.37,foinse,"spring, well",foinse
+clics-doculect-69-72,iris1253-std,concepticon-1145,1.38,corcach,swamp,corcach
+clics-doculect-69-73,iris1253-std,concepticon-1145,1.38,riasc,swamp,riasc
+clics-doculect-69-74,iris1253-std,concepticon-1145,1.38,bogach,swamp,bogach
+clics-doculect-69-75,iris1253-std,concepticon-1145,1.38,corrach,swamp,corrach
+clics-doculect-69-76,iris1253-std,concepticon-943,1.39,eas,waterfall,eas
+clics-doculect-69-77,iris1253-std,concepticon-420,1.41,coill,"woods, forest",coill
+clics-doculect-69-79,iris1253-std,concepticon-1803,1.43,adhmad,wood,adhmad
+clics-doculect-69-80,iris1253-std,concepticon-1803,1.43,fiodh,wood,fiodh
+clics-doculect-69-81,iris1253-std,concepticon-2125,1.44,cloch,"stone, rock",cloch
+clics-doculect-69-82,iris1253-std,concepticon-2125,1.44,carraig,"stone, rock",carraig
+clics-doculect-69-83,iris1253-std,concepticon-2125,1.44,craig,"stone, rock",craig
+clics-doculect-69-84,iris1253-std,concepticon-6,1.45,crithtalún,earthquake,crithtalun
+clics-doculect-69-85,iris1253-std,concepticon-1732,1.51,spéir,sky,speir
+clics-doculect-69-86,iris1253-std,concepticon-1732,1.51,neamh,sky,neamh
+clics-doculect-69-87,iris1253-std,concepticon-1343,1.52,grian,sun,grian
+clics-doculect-69-88,iris1253-std,concepticon-1313,1.53,gealach,moon,gealach
+clics-doculect-69-89,iris1253-std,concepticon-1313,1.53,ré,moon,re
+clics-doculect-69-90,iris1253-std,concepticon-1313,1.53,éasca,moon,easca
+clics-doculect-69-91,iris1253-std,concepticon-1430,1.54,réalta,star,realta
+clics-doculect-69-92,iris1253-std,concepticon-1654,1.55,tintreach,lightning,tintreach
+clics-doculect-69-93,iris1253-std,concepticon-1654,1.55,splanc,lightning,splanc
+clics-doculect-69-94,iris1253-std,concepticon-1150,1.56,tóirneach,thunder,toirneach
+clics-doculect-69-95,iris1253-std,concepticon-2007,1.57,caor,lightning (as striking),caor
+clics-doculect-69-96,iris1253-std,concepticon-858,1.58,stoirm,storm,stoirm
+clics-doculect-69-97,iris1253-std,concepticon-858,1.58,doineann,storm,doineann
+clics-doculect-69-98,iris1253-std,concepticon-858,1.58,anfa,storm,anfa
+clics-doculect-69-99,iris1253-std,concepticon-1733,1.59,tuarcheatha,rainbow,tuarcheatha
+clics-doculect-69-100,iris1253-std,concepticon-1733,1.59,boghabáistí,rainbow,boghabaisti
+clics-doculect-69-101,iris1253-std,concepticon-630,1.61,solus,light (noun),solus
+clics-doculect-69-102,iris1253-std,concepticon-630,1.61,soilse,light (noun),soilse
+clics-doculect-69-103,iris1253-std,concepticon-11,1.62,dorchadas,darkness,dorchadas
+clics-doculect-69-104,iris1253-std,concepticon-11,1.62,dorchacht,darkness,dorchacht
+clics-doculect-69-105,iris1253-std,concepticon-1388,1.63,scáth,"shade, shadow",scath
+clics-doculect-69-106,iris1253-std,concepticon-1977,1.64,drúcht,dew,drucht
+clics-doculect-69-107,iris1253-std,concepticon-27,1.71,aer,air,aer
+clics-doculect-69-108,iris1253-std,concepticon-960,1.72,gaoth,wind,gaoth
+clics-doculect-69-109,iris1253-std,concepticon-1489,1.73,néal,cloud,neal
+clics-doculect-69-110,iris1253-std,concepticon-1489,1.73,scamall,cloud,scamall
+clics-doculect-69-111,iris1253-std,concepticon-249,1.74,ceo,fog,ceo
+clics-doculect-69-112,iris1253-std,concepticon-658,1.75,fearthainn,rain (noun),fearthainn
+clics-doculect-69-113,iris1253-std,concepticon-658,1.75,báisteach,rain (noun),baisteach
+clics-doculect-69-114,iris1253-std,concepticon-784,1.76,sneachta,snow (noun),sneachta
+clics-doculect-69-115,iris1253-std,concepticon-617,1.77,leacoighir,ice,leacoighir
+clics-doculect-69-116,iris1253-std,concepticon-617,1.77,oighear,ice,oighear
+clics-doculect-69-117,iris1253-std,concepticon-952,1.78,aimsir,weather,aimsir
+clics-doculect-69-118,iris1253-std,concepticon-952,1.78,síon,weather,sion
+clics-doculect-69-119,iris1253-std,concepticon-952,1.78,uain,weather,uain
+clics-doculect-69-120,iris1253-std,concepticon-221,1.81,tine,fire,tine
+clics-doculect-69-121,iris1253-std,concepticon-889,1.82,lasair,flame (noun),lasair
+clics-doculect-69-122,iris1253-std,concepticon-889,1.82,bladhm,flame (noun),bladhm
+clics-doculect-69-123,iris1253-std,concepticon-889,1.82,bladhaire,flame (noun),bladhaire
+clics-doculect-69-124,iris1253-std,concepticon-778,1.83,deatach,smoke (noun),deatach
+clics-doculect-69-125,iris1253-std,concepticon-778,1.83,toit,smoke (noun),toit
+clics-doculect-69-126,iris1253-std,concepticon-646,1.84,luaith,ashes,luaith
+clics-doculect-69-127,iris1253-std,concepticon-67,1.841,aibhleog,embers,aibhleog
+clics-doculect-69-128,iris1253-std,concepticon-67,1.841,splanc,embers,splanc
+clics-doculect-69-129,iris1253-std,concepticon-67,1.841,gríosach,embers,griosach
+clics-doculect-69-130,iris1253-std,concepticon-141,1.851,dóim,burn (vb trans),doim
+clics-doculect-69-131,iris1253-std,concepticon-141,1.851,loiscim,burn (vb trans),loiscim
+clics-doculect-69-132,iris1253-std,concepticon-737,1.86,lasaim,"light, kindle, ignite",lasaim
+clics-doculect-69-133,iris1253-std,concepticon-127,1.861,múch,extinguish,much
+clics-doculect-69-134,iris1253-std,concepticon-1133,1.87,cipín,match (noun),cipin
+clics-doculect-69-135,iris1253-std,concepticon-1133,1.87,lasán,match (noun),lasan
+clics-doculect-69-136,iris1253-std,concepticon-10,1.88,brosna,firewood,brosna
+clics-doculect-69-137,iris1253-std,concepticon-10,1.88,connadh,firewood,connadh
+clics-doculect-69-138,iris1253-std,concepticon-1188,1.89,gualach,charcoal,gualach
+clics-doculect-69-139,iris1253-std,concepticon-1188,1.89,fioghual,charcoal,fioghual
+clics-doculect-69-140,iris1253-std,concepticon-683,2.1,duine,"person, human being",duine
+clics-doculect-69-141,iris1253-std,concepticon-683,2.1,neach,"person, human being",neach
+clics-doculect-69-142,iris1253-std,concepticon-1554,2.21,fear,man (vs. woman),fear
+clics-doculect-69-143,iris1253-std,concepticon-962,2.22,bean,woman,bean
+clics-doculect-69-144,iris1253-std,concepticon-1553,2.23,fireann,male,fireann
+clics-doculect-69-145,iris1253-std,concepticon-1551,2.24,baineann,female,baineann
+clics-doculect-69-146,iris1253-std,concepticon-1366,2.25,buachaill,boy,buachaill
+clics-doculect-69-147,iris1253-std,concepticon-1366,2.25,gasúr,boy,gasur
+clics-doculect-69-148,iris1253-std,concepticon-1366,2.25,garsún,boy,garsun
+clics-doculect-69-149,iris1253-std,concepticon-76,2.251,ógánach,young man (adolescent),oganach
+clics-doculect-69-150,iris1253-std,concepticon-76,2.251,aosánach,young man (adolescent),aosanach
+clics-doculect-69-151,iris1253-std,concepticon-76,2.251,macaomh,young man (adolescent),macaomh
+clics-doculect-69-152,iris1253-std,concepticon-76,2.251,ógfhear,young man (adolescent),ogfhear
+clics-doculect-69-153,iris1253-std,concepticon-76,2.251,stócach,young man (adolescent),stocach
+clics-doculect-69-154,iris1253-std,concepticon-1646,2.26,cailín,girl,cailin
+clics-doculect-69-155,iris1253-std,concepticon-1646,2.26,caile,girl,caile
+clics-doculect-69-156,iris1253-std,concepticon-1646,2.26,gearrchaile,girl,gearrchaile
+clics-doculect-69-157,iris1253-std,concepticon-1646,2.26,girseach,girl,girseach
+clics-doculect-69-158,iris1253-std,concepticon-77,2.261,iníon,young woman (adolescent),inion
+clics-doculect-69-159,iris1253-std,concepticon-77,2.261,ógbhean,young woman (adolescent),ogbhean
+clics-doculect-69-160,iris1253-std,concepticon-77,2.261,maighdean,young woman (adolescent),maighdean
+clics-doculect-69-161,iris1253-std,concepticon-77,2.261,bruinneall,young woman (adolescent),bruinneall
+clics-doculect-69-162,iris1253-std,concepticon-1304,2.27,leanbh,child,leanbh
+clics-doculect-69-163,iris1253-std,concepticon-1304,2.27,páiste,child,paiste
+clics-doculect-69-164,iris1253-std,concepticon-1304,2.27,tachrán,child,tachran
+clics-doculect-69-165,iris1253-std,concepticon-1289,2.28,naí,"infant, baby",nai
+clics-doculect-69-166,iris1253-std,concepticon-1289,2.28,naínán,"infant, baby",nainan
+clics-doculect-69-167,iris1253-std,concepticon-1289,2.28,leanbán,"infant, baby",leanban
+clics-doculect-69-168,iris1253-std,concepticon-1289,2.28,páistín,"infant, baby",paistin
+clics-doculect-69-169,iris1253-std,concepticon-1200,2.31,fear,husband,fear
+clics-doculect-69-170,iris1253-std,concepticon-1200,2.31,fearchéile,husband,fearcheile
+clics-doculect-69-171,iris1253-std,concepticon-1200,2.31,céile,husband,ceile
+clics-doculect-69-172,iris1253-std,concepticon-1199,2.32,bean,wife,bean
+clics-doculect-69-173,iris1253-std,concepticon-1199,2.32,beanchéile,wife,beancheile
+clics-doculect-69-174,iris1253-std,concepticon-1199,2.32,céile,wife,ceile
+clics-doculect-69-175,iris1253-std,concepticon-203,2.33,pós,marry,pos
+clics-doculect-69-176,iris1253-std,concepticon-1259,2.34,pósadh,"marriage, wedding",posadh
+clics-doculect-69-177,iris1253-std,concepticon-1134,2.341,colscaradh,divorce,colscaradh
+clics-doculect-69-178,iris1253-std,concepticon-1217,2.35,athair,father,athair
+clics-doculect-69-179,iris1253-std,concepticon-1216,2.36,máthair,mother,mathair
+clics-doculect-69-180,iris1253-std,concepticon-505,2.37,tuismitheoirí,parents,tuismitheoiri
+clics-doculect-69-181,iris1253-std,concepticon-1620,2.41,mac,son,mac
+clics-doculect-69-182,iris1253-std,concepticon-1357,2.42,iníon,daughter,inion
+clics-doculect-69-183,iris1253-std,concepticon-1262,2.44,deartháir,brother,dearthair
+clics-doculect-69-184,iris1253-std,concepticon-1263,2.45,deirfiúr,sister,deirfiur
+clics-doculect-69-185,iris1253-std,concepticon-1005,2.458,cúpla,twins,cupla
+clics-doculect-69-186,iris1253-std,concepticon-1383,2.46,seanathair,grandfather,seanathair
+clics-doculect-69-187,iris1253-std,concepticon-406,2.461,seanfhear,old man,seanfhear
+clics-doculect-69-188,iris1253-std,concepticon-1496,2.47,seanmháthair,grandmother,seanmhathair
+clics-doculect-69-189,iris1253-std,concepticon-907,2.471,seanbhean,old woman,seanbhean
+clics-doculect-69-190,iris1253-std,concepticon-1618,2.48,garmhac,grandson,garmhac
+clics-doculect-69-191,iris1253-std,concepticon-1618,2.48,ua,grandson,ua
+clics-doculect-69-192,iris1253-std,concepticon-1619,2.49,gariníon,granddaughter,garinion
+clics-doculect-69-193,iris1253-std,concepticon-1327,2.51,uncail,uncle,uncail
+clics-doculect-69-194,iris1253-std,concepticon-1272,2.52,aint,aunt,aint
+clics-doculect-69-195,iris1253-std,concepticon-1272,2.52,aintín,aunt,aintin
+clics-doculect-69-196,iris1253-std,concepticon-1063,2.53,nia,nephew,nia
+clics-doculect-69-197,iris1253-std,concepticon-1642,2.54,neacht,niece,neacht
+clics-doculect-69-198,iris1253-std,concepticon-1643,2.55,colceathar,cousin,colceathar
+clics-doculect-69-199,iris1253-std,concepticon-1669,2.56,sinsear,ancestors,sinsear
+clics-doculect-69-200,iris1253-std,concepticon-490,2.57,sliocht,descendants,sliocht
+clics-doculect-69-201,iris1253-std,concepticon-2255,2.61,athaircéile,father-in-law (of a man),athairceile
+clics-doculect-69-202,iris1253-std,concepticon-2256,2.62,máthaircéile,mother-in-law (of a man),mathairceile
+clics-doculect-69-203,iris1253-std,concepticon-2267,2.63,cliamhain,son-in-law (of a man),cliamhain
+clics-doculect-69-204,iris1253-std,concepticon-2265,2.64,banchliamhain,daughter-in-law (of a man),banchliamhain
+clics-doculect-69-205,iris1253-std,concepticon-237,2.71,leasathair,stepfather,leasathair
+clics-doculect-69-206,iris1253-std,concepticon-236,2.72,leasmháthair,stepmother,leasmhathair
+clics-doculect-69-207,iris1253-std,concepticon-1059,2.73,leasmhac,stepson,leasmhac
+clics-doculect-69-208,iris1253-std,concepticon-1058,2.74,leasiníon,stepdaughter,leasinion
+clics-doculect-69-209,iris1253-std,concepticon-1149,2.75,dílleachta,orphan,dilleachta
+clics-doculect-69-210,iris1253-std,concepticon-1756,2.76,baintreach,widow,baintreach
+clics-doculect-69-211,iris1253-std,concepticon-1981,2.77,baintreachfir,widower,baintreachfir
+clics-doculect-69-212,iris1253-std,concepticon-1644,2.81,gaolta,"relatives, kinsmen",gaolta
+clics-doculect-69-213,iris1253-std,concepticon-1644,2.81,muintear,"relatives, kinsmen",muintear
+clics-doculect-69-214,iris1253-std,concepticon-194,2.82,clann,family,clann
+clics-doculect-69-215,iris1253-std,concepticon-194,2.82,teaghlach,family,teaghlach
+clics-doculect-69-216,iris1253-std,concepticon-1209,2.91,mé,I,me
+clics-doculect-69-217,iris1253-std,concepticon-1209,2.91,mise,I,mise
+clics-doculect-69-218,iris1253-std,concepticon-1215,2.92,tú,you (singular),tu
+clics-doculect-69-219,iris1253-std,concepticon-1215,2.92,thú,you (singular),thu
+clics-doculect-69-220,iris1253-std,concepticon-1215,2.92,tusa,you (singular),tusa
+clics-doculect-69-221,iris1253-std,concepticon-1215,2.92,thusa,you (singular),thusa
+clics-doculect-69-222,iris1253-std,concepticon-262,2.93,sé,he/she/it,se
+clics-doculect-69-223,iris1253-std,concepticon-262,2.93,sí,he/she/it,si
+clics-doculect-69-224,iris1253-std,concepticon-1212,2.94,sinn,we,sinn
+clics-doculect-69-225,iris1253-std,concepticon-1212,2.94,muid,we,muid
+clics-doculect-69-226,iris1253-std,concepticon-1213,2.95,sibh,you (plural),sibh
+clics-doculect-69-227,iris1253-std,concepticon-817,2.96,siad,they,siad
+clics-doculect-69-228,iris1253-std,concepticon-817,2.96,iad,they,iad
+clics-doculect-69-229,iris1253-std,concepticon-619,3.11,ainmhí,animal,ainmhi
+clics-doculect-69-230,iris1253-std,concepticon-619,3.11,beithíoch,animal,beithioch
+clics-doculect-69-231,iris1253-std,concepticon-2261,3.12,fireann,male (adj),fireann
+clics-doculect-69-232,iris1253-std,concepticon-2262,3.13,baineann,female (adj),baineann
+clics-doculect-69-233,iris1253-std,concepticon-631,3.15,stoc,livestock,stoc
+clics-doculect-69-234,iris1253-std,concepticon-631,3.15,eallach,livestock,eallach
+clics-doculect-69-235,iris1253-std,concepticon-631,3.15,airnéis,livestock,airneis
+clics-doculect-69-236,iris1253-std,concepticon-649,3.16,innilt,pasture,innilt
+clics-doculect-69-237,iris1253-std,concepticon-649,3.16,féarach,pasture,fearach
+clics-doculect-69-238,iris1253-std,concepticon-263,3.18,buachaill,herdsman,buachaill
+clics-doculect-69-239,iris1253-std,concepticon-263,3.18,aodhaire,herdsman,aodhaire
+clics-doculect-69-240,iris1253-std,concepticon-851,3.19,stábla,"stable, stall",stabla
+clics-doculect-69-241,iris1253-std,concepticon-1153,3.2,eallach,cattle (bovine),eallach
+clics-doculect-69-242,iris1253-std,concepticon-1153,3.2,bólacht,cattle (bovine),bolacht
+clics-doculect-69-243,iris1253-std,concepticon-1153,3.2,airnéis,cattle (bovine),airneis
+clics-doculect-69-244,iris1253-std,concepticon-1153,3.2,buar,cattle (bovine),buar
+clics-doculect-69-245,iris1253-std,concepticon-1008,3.21,tarbh,bull,tarbh
+clics-doculect-69-246,iris1253-std,concepticon-1169,3.22,damh,ox,damh
+clics-doculect-69-247,iris1253-std,concepticon-1007,3.23,bó,cow,bo
+clics-doculect-69-248,iris1253-std,concepticon-1007,3.23,mart,cow,mart
+clics-doculect-69-249,iris1253-std,concepticon-1989,3.24,lao,calf,lao
+clics-doculect-69-250,iris1253-std,concepticon-1989,3.24,gamhain,calf,gamhain
+clics-doculect-69-251,iris1253-std,concepticon-1331,3.25,caora,sheep,caora
+clics-doculect-69-252,iris1253-std,concepticon-1344,3.26,reithe,ram,reithe
+clics-doculect-69-253,iris1253-std,concepticon-1345,3.28,caora,ewe,caora
+clics-doculect-69-254,iris1253-std,concepticon-820,3.29,uan,lamb,uan
+clics-doculect-69-255,iris1253-std,concepticon-1348,3.32,collach,boar,collach
+clics-doculect-69-256,iris1253-std,concepticon-1348,3.32,torc,boar,torc
+clics-doculect-69-257,iris1253-std,concepticon-1351,3.34,cráin,sow,crain
+clics-doculect-69-258,iris1253-std,concepticon-1337,3.35,muc,pig,muc
+clics-doculect-69-259,iris1253-std,concepticon-1337,3.35,banbh,pig,banbh
+clics-doculect-69-260,iris1253-std,concepticon-1502,3.36,gabhar,goat,gabhar
+clics-doculect-69-261,iris1253-std,concepticon-264,3.37,boc,he-goat,boc
+clics-doculect-69-262,iris1253-std,concepticon-264,3.37,pocán,he-goat,pocan
+clics-doculect-69-263,iris1253-std,concepticon-1972,3.38,meannán,kid,meannan
+clics-doculect-69-264,iris1253-std,concepticon-615,3.41,capall,horse (equine),capall
+clics-doculect-69-265,iris1253-std,concepticon-615,3.41,each,horse (equine),each
+clics-doculect-69-266,iris1253-std,concepticon-936,3.42,stail,stallion,stail
+clics-doculect-69-267,iris1253-std,concepticon-938,3.44,láir,mare,lair
+clics-doculect-69-268,iris1253-std,concepticon-1647,3.45,searrach,"foal, colt",searrach
+clics-doculect-69-269,iris1253-std,concepticon-1862,3.46,asal,"ass, donkey",asal
+clics-doculect-69-270,iris1253-std,concepticon-890,3.47,miúil,mule,miuil
+clics-doculect-69-271,iris1253-std,concepticon-265,3.5,eánlaithe,fowl,eanlaithe
+clics-doculect-69-272,iris1253-std,concepticon-1511,3.52,coileach,"cock, rooster",coileach
+clics-doculect-69-273,iris1253-std,concepticon-1514,3.54,cearc,hen,cearc
+clics-doculect-69-274,iris1253-std,concepticon-1318,3.55,sicín,chicken,sicin
+clics-doculect-69-275,iris1253-std,concepticon-1318,3.55,scalltán,chicken,scalltan
+clics-doculect-69-276,iris1253-std,concepticon-1318,3.55,puiléad,chicken,puilead
+clics-doculect-69-277,iris1253-std,concepticon-1318,3.55,eirog,chicken,eirog
+clics-doculect-69-278,iris1253-std,concepticon-1187,3.56,gé,goose,ge
+clics-doculect-69-279,iris1253-std,concepticon-1360,3.57,lacha,duck,lacha
+clics-doculect-69-280,iris1253-std,concepticon-539,3.58,nead,nest,nead
+clics-doculect-69-281,iris1253-std,concepticon-937,3.581,éan,bird,ean
+clics-doculect-69-282,iris1253-std,concepticon-950,3.582,faoileán,seagull,faoilean
+clics-doculect-69-283,iris1253-std,concepticon-950,3.582,faoileóg,seagull,faoileog
+clics-doculect-69-284,iris1253-std,concepticon-758,3.583,corréisc,heron,correisc
+clics-doculect-69-285,iris1253-std,concepticon-1905,3.584,iolar,eagle,iolar
+clics-doculect-69-286,iris1253-std,concepticon-307,3.585,seabhac,hawk,seabhac
+clics-doculect-69-287,iris1253-std,concepticon-1185,3.586,badhbh,vulture,badhbh
+clics-doculect-69-288,iris1253-std,concepticon-882,3.592,pearóid,parrot,pearoid
+clics-doculect-69-289,iris1253-std,concepticon-913,3.593,préachán,crow,preachan
+clics-doculect-69-290,iris1253-std,concepticon-913,3.593,feannóg,crow,feannog
+clics-doculect-69-291,iris1253-std,concepticon-913,3.593,fiach,crow,fiach
+clics-doculect-69-292,iris1253-std,concepticon-1853,3.594,colm,dove,colm
+clics-doculect-69-293,iris1253-std,concepticon-735,3.596,ulchabhán,owl,ulchabhan
+clics-doculect-69-294,iris1253-std,concepticon-2009,3.61,madra,dog,madra
+clics-doculect-69-295,iris1253-std,concepticon-2009,3.61,madadh,dog,madadh
+clics-doculect-69-296,iris1253-std,concepticon-2009,3.61,gadhar,dog,gadhar
+clics-doculect-69-297,iris1253-std,concepticon-2009,3.61,cú,dog,cu
+clics-doculect-69-298,iris1253-std,concepticon-1136,3.614,coinín,rabbit,coinin
+clics-doculect-69-299,iris1253-std,concepticon-1208,3.62,cat,cat,cat
+clics-doculect-69-300,iris1253-std,concepticon-309,3.622,apasam,opossum,apasam
+clics-doculect-69-301,iris1253-std,concepticon-2139,3.63,luch,"mouse, rat",luch
+clics-doculect-69-302,iris1253-std,concepticon-227,3.65,iasc,fish,iasc
+clics-doculect-69-303,iris1253-std,concepticon-213,3.652,eite,fin (dorsal),eite
+clics-doculect-69-304,iris1253-std,concepticon-266,3.653,lann,fishscale,lann
+clics-doculect-69-305,iris1253-std,concepticon-266,3.653,gainne,fishscale,gainne
+clics-doculect-69-306,iris1253-std,concepticon-1916,3.654,geolbhach,gill,geolbhach
+clics-doculect-69-307,iris1253-std,concepticon-598,3.655,sliogán,shell,sliogan
+clics-doculect-69-308,iris1253-std,concepticon-598,3.655,blaosc,shell,blaosc
+clics-doculect-69-309,iris1253-std,concepticon-1110,3.661,siorc,shark,siorc
+clics-doculect-69-310,iris1253-std,concepticon-1479,3.662,mucmhara,"porpoise, dolphin",mucmhara
+clics-doculect-69-311,iris1253-std,concepticon-957,3.663,míolmór,whale,miolmor
+clics-doculect-69-312,iris1253-std,concepticon-1013,3.665,eascann,freshwater eel,eascann
+clics-doculect-69-313,iris1253-std,concepticon-522,3.71,madadhallta,wolf,madadhallta
+clics-doculect-69-314,iris1253-std,concepticon-522,3.71,cúallta,wolf,cuallta
+clics-doculect-69-315,iris1253-std,concepticon-522,3.71,faolchú,wolf,faolchu
+clics-doculect-69-316,iris1253-std,concepticon-522,3.71,mactíre,wolf,mactire
+clics-doculect-69-317,iris1253-std,concepticon-1386,3.72,leon,lion,leon
+clics-doculect-69-318,iris1253-std,concepticon-1820,3.73,mathúin,bear,mathuin
+clics-doculect-69-319,iris1253-std,concepticon-1820,3.73,béar,bear,bear
+clics-doculect-69-320,iris1253-std,concepticon-1312,3.74,sionnach,fox,sionnach
+clics-doculect-69-321,iris1253-std,concepticon-1312,3.74,madrarua,fox,madrarua
+clics-doculect-69-322,iris1253-std,concepticon-1312,3.74,madadhrua,fox,madadhrua
+clics-doculect-69-323,iris1253-std,concepticon-1936,3.75,fia,deer,fia
+clics-doculect-69-324,iris1253-std,concepticon-1350,3.76,moncaí,monkey,moncai
+clics-doculect-69-325,iris1253-std,concepticon-1350,3.76,ápa,monkey,apa
+clics-doculect-69-326,iris1253-std,concepticon-1290,3.77,eilifint,elephant,eilifint
+clics-doculect-69-327,iris1253-std,concepticon-1871,3.78,camall,camel,camall
+clics-doculect-69-328,iris1253-std,concepticon-620,3.81,feithid,insect,feithid
+clics-doculect-69-329,iris1253-std,concepticon-1392,3.811,míol,louse,miol
+clics-doculect-69-330,iris1253-std,concepticon-267,3.812,sniodh,nit (louse egg),sniodh
+clics-doculect-69-331,iris1253-std,concepticon-1974,3.814,céadchosach,centipede,ceadchosach
+clics-doculect-69-332,iris1253-std,concepticon-1538,3.815,scairp,scorpion,scairp
+clics-doculect-69-333,iris1253-std,concepticon-1575,3.816,ciaróg,cockroach,ciarog
+clics-doculect-69-334,iris1253-std,concepticon-587,3.817,seangán,ant,seangan
+clics-doculect-69-335,iris1253-std,concepticon-843,3.818,damhánalla,spider,damhanalla
+clics-doculect-69-336,iris1253-std,concepticon-1065,3.819,líon,spider web,lion
+clics-doculect-69-337,iris1253-std,concepticon-1065,3.819,téadadamháinalla,spider web,teadadamhainalla
+clics-doculect-69-338,iris1253-std,concepticon-665,3.82,beach,bee,beach
+clics-doculect-69-339,iris1253-std,concepticon-1931,3.821,céirbheach,beeswax,ceirbheach
+clics-doculect-69-340,iris1253-std,concepticon-1931,3.821,céireurláir,beeswax,ceireurlair
+clics-doculect-69-341,iris1253-std,concepticon-88,3.822,coirceog,beehive,coirceog
+clics-doculect-69-342,iris1253-std,concepticon-1517,3.823,puch,wasp,puch
+clics-doculect-69-343,iris1253-std,concepticon-1504,3.83,cuil,fly,cuil
+clics-doculect-69-344,iris1253-std,concepticon-1504,3.83,cuileog,fly,cuileog
+clics-doculect-69-345,iris1253-std,concepticon-95,3.831,corrmhíoltóg,"sandfly (midge), gnat",corrmhioltog
+clics-doculect-69-346,iris1253-std,concepticon-1509,3.832,corrmhíol,mosquito,corrmhiol
+clics-doculect-69-347,iris1253-std,concepticon-1219,3.84,péist,worm,peist
+clics-doculect-69-348,iris1253-std,concepticon-1219,3.84,cruimh,worm,cruimh
+clics-doculect-69-349,iris1253-std,concepticon-1219,3.84,cnuimh,worm,cnuimh
+clics-doculect-69-350,iris1253-std,concepticon-730,3.85,nathair,snake,nathair
+clics-doculect-69-351,iris1253-std,concepticon-206,3.91,lampróg,firefly,lamprog
+clics-doculect-69-352,iris1253-std,concepticon-1791,3.92,féileacán,butterfly,feileacan
+clics-doculect-69-353,iris1253-std,concepticon-1791,3.92,péileacán,butterfly,peileacan
+clics-doculect-69-354,iris1253-std,concepticon-607,3.93,dreoilínteaspaigh,grasshopper,dreoilinteaspaigh
+clics-doculect-69-355,iris1253-std,concepticon-1543,3.94,seilide,snail,seilide
+clics-doculect-69-356,iris1253-std,concepticon-503,3.95,frog,frog,frog
+clics-doculect-69-357,iris1253-std,concepticon-503,3.95,loscann,frog,loscann
+clics-doculect-69-358,iris1253-std,concepticon-632,3.96,laghairt,lizard,laghairt
+clics-doculect-69-359,iris1253-std,concepticon-632,3.96,earc,lizard,earc
+clics-doculect-69-360,iris1253-std,concepticon-1857,3.97,crogall,"crocodile, alligator",crogall
+clics-doculect-69-361,iris1253-std,concepticon-112,3.98,turtar,turtle,turtar
+clics-doculect-69-362,iris1253-std,concepticon-1480,4.11,corp,body,corp
+clics-doculect-69-363,iris1253-std,concepticon-1480,4.11,colainn,body,colainn
+clics-doculect-69-364,iris1253-std,concepticon-1480,4.11,cabhail,body,cabhail
+clics-doculect-69-365,iris1253-std,concepticon-763,4.12,cneas,"skin, hide",cneas
+clics-doculect-69-366,iris1253-std,concepticon-763,4.12,craiceann,"skin, hide",craiceann
+clics-doculect-69-367,iris1253-std,concepticon-763,4.12,seithe,"skin, hide",seithe
+clics-doculect-69-368,iris1253-std,concepticon-2259,4.13,feoil,flesh,feoil
+clics-doculect-69-369,iris1253-std,concepticon-1040,4.14,gruaig,hair (head),gruaig
+clics-doculect-69-370,iris1253-std,concepticon-1040,4.14,folt,hair (head),folt
+clics-doculect-69-371,iris1253-std,concepticon-678,4.142,féasóg,beard,feasog
+clics-doculect-69-372,iris1253-std,concepticon-189,4.144,fionnadh,body hair,fionnadh
+clics-doculect-69-373,iris1253-std,concepticon-189,4.144,clúmh,body hair,clumh
+clics-doculect-69-374,iris1253-std,concepticon-576,4.146,sailchnis,dandruff,sailchnis
+clics-doculect-69-375,iris1253-std,concepticon-946,4.15,fuil,blood,fuil
+clics-doculect-69-376,iris1253-std,concepticon-946,4.15,cró,blood,cro
+clics-doculect-69-377,iris1253-std,concepticon-946,4.15,folracht,blood,folracht
+clics-doculect-69-378,iris1253-std,concepticon-525,4.151,feith,"vein, artery",feith
+clics-doculect-69-379,iris1253-std,concepticon-525,4.151,artaire,"vein, artery",artaire
+clics-doculect-69-380,iris1253-std,concepticon-1394,4.16,cnámh,bone,cnamh
+clics-doculect-69-381,iris1253-std,concepticon-801,4.162,easna,rib,easna
+clics-doculect-69-382,iris1253-std,concepticon-1393,4.17,adharc,horn,adharc
+clics-doculect-69-383,iris1253-std,concepticon-1393,4.17,beann,horn,beann
+clics-doculect-69-384,iris1253-std,concepticon-1220,4.18,eireaball,tail,eireaball
+clics-doculect-69-385,iris1253-std,concepticon-1220,4.18,eithre,tail,eithre
+clics-doculect-69-386,iris1253-std,concepticon-1291,4.19,druim,back,druim
+clics-doculect-69-387,iris1253-std,concepticon-805,4.191,dromlach,spine,dromlach
+clics-doculect-69-388,iris1253-std,concepticon-805,4.191,cnámhdroma,spine,cnamhdroma
+clics-doculect-69-389,iris1253-std,concepticon-805,4.191,spíon,spine,spion
+clics-doculect-69-390,iris1253-std,concepticon-1256,4.2,ceann,head,ceann
+clics-doculect-69-391,iris1253-std,concepticon-1256,4.2,cloigeann,head,cloigeann
+clics-doculect-69-392,iris1253-std,concepticon-1604,4.201,ara,"side of head, temple",ara
+clics-doculect-69-393,iris1253-std,concepticon-1604,4.201,uisinn,"side of head, temple",uisinn
+clics-doculect-69-394,iris1253-std,concepticon-1605,4.202,cloigeann,skull,cloigeann
+clics-doculect-69-395,iris1253-std,concepticon-1605,4.202,blaoscanchinn,skull,blaoscanchinn
+clics-doculect-69-396,iris1253-std,concepticon-1583,4.203,inchinn,brain,inchinn
+clics-doculect-69-397,iris1253-std,concepticon-1560,4.204,aghaidh,face,aghaidh
+clics-doculect-69-398,iris1253-std,concepticon-1560,4.204,éadan,face,eadan
+clics-doculect-69-399,iris1253-std,concepticon-1560,4.204,gnúis,face,gnuis
+clics-doculect-69-400,iris1253-std,concepticon-123,4.205,cláréadain,forehead,clareadain
+clics-doculect-69-401,iris1253-std,concepticon-123,4.205,éadan,forehead,eadan
+clics-doculect-69-402,iris1253-std,concepticon-123,4.205,clárbaithise,forehead,clarbaithise
+clics-doculect-69-403,iris1253-std,concepticon-798,4.207,giall,jaw,giall
+clics-doculect-69-404,iris1253-std,concepticon-798,4.207,corrán,jaw,corran
+clics-doculect-69-405,iris1253-std,concepticon-798,4.207,carball,jaw,carball
+clics-doculect-69-406,iris1253-std,concepticon-1730,4.208,grua,cheek,grua
+clics-doculect-69-407,iris1253-std,concepticon-1730,4.208,leiceann,cheek,leiceann
+clics-doculect-69-408,iris1253-std,concepticon-1730,4.208,pluca,cheek,pluca
+clics-doculect-69-409,iris1253-std,concepticon-1730,4.208,giall,cheek,giall
+clics-doculect-69-410,iris1253-std,concepticon-1510,4.209,smig,chin,smig
+clics-doculect-69-411,iris1253-std,concepticon-1248,4.21,súil,eye,suil
+clics-doculect-69-412,iris1253-std,concepticon-1248,4.21,rosc,eye,rosc
+clics-doculect-69-413,iris1253-std,concepticon-1173,4.212,mala,eyebrow,mala
+clics-doculect-69-414,iris1253-std,concepticon-1173,4.212,braoi,eyebrow,braoi
+clics-doculect-69-415,iris1253-std,concepticon-17,4.213,mogallsúile,eyelid,mogallsuile
+clics-doculect-69-416,iris1253-std,concepticon-17,4.213,caipínsúile,eyelid,caipinsuile
+clics-doculect-69-417,iris1253-std,concepticon-1540,4.214,fabhra,eyelash,fabhra
+clics-doculect-69-418,iris1253-std,concepticon-1655,4.215,caochadh,blink,caochadh
+clics-doculect-69-419,iris1253-std,concepticon-1655,4.215,bobáil,blink,bobail
+clics-doculect-69-420,iris1253-std,concepticon-1655,4.215,sméideadhsúil,blink,smeideadhsuil
+clics-doculect-69-421,iris1253-std,concepticon-1655,4.215,faiteadhsúil,blink,faiteadhsuil
+clics-doculect-69-422,iris1253-std,concepticon-1247,4.22,cluas,ear,cluas
+clics-doculect-69-423,iris1253-std,concepticon-32,4.222,céirchluaise,earwax,ceirchluaise
+clics-doculect-69-424,iris1253-std,concepticon-1221,4.23,srón,nose,sron
+clics-doculect-69-425,iris1253-std,concepticon-1221,4.23,gaosán,nose,gaosan
+clics-doculect-69-426,iris1253-std,concepticon-1221,4.23,soc,nose,soc
+clics-doculect-69-427,iris1253-std,concepticon-1178,4.231,pollsróine,nostril,pollsroine
+clics-doculect-69-428,iris1253-std,concepticon-1178,4.231,polláire,nostril,pollaire
+clics-doculect-69-429,iris1253-std,concepticon-208,4.232,smuga,mucus (nasal),smuga
+clics-doculect-69-430,iris1253-std,concepticon-208,4.232,ronna,mucus (nasal),ronna
+clics-doculect-69-431,iris1253-std,concepticon-674,4.24,béal,mouth,beal
+clics-doculect-69-432,iris1253-std,concepticon-674,4.24,cab,mouth,cab
+clics-doculect-69-433,iris1253-std,concepticon-674,4.24,pus,mouth,pus
+clics-doculect-69-434,iris1253-std,concepticon-674,4.24,cár,mouth,car
+clics-doculect-69-435,iris1253-std,concepticon-674,4.24,draid,mouth,draid
+clics-doculect-69-436,iris1253-std,concepticon-674,4.24,clab,mouth,clab
+clics-doculect-69-437,iris1253-std,concepticon-73,4.241,gob,beak,gob
+clics-doculect-69-438,iris1253-std,concepticon-73,4.241,gulba,beak,gulba
+clics-doculect-69-439,iris1253-std,concepticon-478,4.25,liopa,lip,liopa
+clics-doculect-69-440,iris1253-std,concepticon-478,4.25,cab,lip,cab
+clics-doculect-69-441,iris1253-std,concepticon-478,4.25,bruas,lip,bruas
+clics-doculect-69-442,iris1253-std,concepticon-478,4.25,béal,lip,beal
+clics-doculect-69-443,iris1253-std,concepticon-1205,4.26,teanga,tongue,teanga
+clics-doculect-69-444,iris1253-std,concepticon-1380,4.27,fiacail,tooth,fiacail
+clics-doculect-69-445,iris1253-std,concepticon-1380,4.27,déad,tooth,dead
+clics-doculect-69-446,iris1253-std,concepticon-139,4.271,drandal,gums,drandal
+clics-doculect-69-447,iris1253-std,concepticon-139,4.271,carball,gums,carball
+clics-doculect-69-448,iris1253-std,concepticon-1049,4.272,cúlfhiacail,molartooth,culfhiacail
+clics-doculect-69-449,iris1253-std,concepticon-1049,4.272,fiacailchúil,molartooth,fiacailchuil
+clics-doculect-69-450,iris1253-std,concepticon-1333,4.28,muinéal,neck,muineal
+clics-doculect-69-451,iris1253-std,concepticon-1333,4.28,bráid,neck,braid
+clics-doculect-69-452,iris1253-std,concepticon-1333,4.28,píobán,neck,pioban
+clics-doculect-69-453,iris1253-std,concepticon-1333,4.28,scrogall,neck,scrogall
+clics-doculect-69-454,iris1253-std,concepticon-1347,4.281,baicanmhuiníl,nape of neck,baicanmhuinil
+clics-doculect-69-455,iris1253-std,concepticon-1347,4.281,cuinganmhuiníl,nape of neck,cuinganmhuinil
+clics-doculect-69-456,iris1253-std,concepticon-1346,4.29,scórnach,throat,scornach
+clics-doculect-69-457,iris1253-std,concepticon-1346,4.29,sceadamnán,throat,sceadamnan
+clics-doculect-69-458,iris1253-std,concepticon-1346,4.29,bráid,throat,braid
+clics-doculect-69-459,iris1253-std,concepticon-1482,4.3,gualainn,shoulder,gualainn
+clics-doculect-69-460,iris1253-std,concepticon-172,4.301,slinneán,shoulderblade,slinnean
+clics-doculect-69-461,iris1253-std,concepticon-1994,4.302,cnámhsmiolgadáin,collarbone,cnamhsmiolgadain
+clics-doculect-69-462,iris1253-std,concepticon-1994,4.302,dealrachán,collarbone,dealrachan
+clics-doculect-69-463,iris1253-std,concepticon-1994,4.302,branrabráid,collarbone,branrabraid
+clics-doculect-69-464,iris1253-std,concepticon-1673,4.31,lámh,arm,lamh
+clics-doculect-69-465,iris1253-std,concepticon-1673,4.31,sciathán,arm,sciathan
+clics-doculect-69-466,iris1253-std,concepticon-1886,4.312,ascaill,armpit,ascaill
+clics-doculect-69-467,iris1253-std,concepticon-981,4.32,uillinn,elbow,uillinn
+clics-doculect-69-468,iris1253-std,concepticon-799,4.321,caolnaláimhe,wrist,caolnalaimhe
+clics-doculect-69-469,iris1253-std,concepticon-799,4.321,rosta,wrist,rosta
+clics-doculect-69-470,iris1253-std,concepticon-799,4.321,bunrí,wrist,bunri
+clics-doculect-69-471,iris1253-std,concepticon-1277,4.33,lámh,hand,lamh
+clics-doculect-69-472,iris1253-std,concepticon-1183,4.331,bos,palm of hand,bos
+clics-doculect-69-473,iris1253-std,concepticon-1183,4.331,dearna,palm of hand,dearna
+clics-doculect-69-474,iris1253-std,concepticon-1303,4.34,méar,finger,mear
+clics-doculect-69-475,iris1253-std,concepticon-1781,4.342,ordóg,thumb,ordog
+clics-doculect-69-476,iris1253-std,concepticon-1258,4.344,ionga,fingernail,ionga
+clics-doculect-69-477,iris1253-std,concepticon-72,4.345,crúb,claw,crub
+clics-doculect-69-478,iris1253-std,concepticon-72,4.345,crobh,claw,crobh
+clics-doculect-69-479,iris1253-std,concepticon-72,4.345,leadán,claw,leadan
+clics-doculect-69-480,iris1253-std,concepticon-72,4.345,ionga,claw,ionga
+clics-doculect-69-481,iris1253-std,concepticon-72,4.345,ladhar,claw,ladhar
+clics-doculect-69-482,iris1253-std,concepticon-72,4.345,ordóg,claw,ordog
+clics-doculect-69-483,iris1253-std,concepticon-1297,4.35,cos,leg,cos
+clics-doculect-69-484,iris1253-std,concepticon-800,4.351,ceathrú,thigh,ceathru
+clics-doculect-69-485,iris1253-std,concepticon-800,4.351,leis,thigh,leis
+clics-doculect-69-486,iris1253-std,concepticon-800,4.351,láirig,thigh,lairig
+clics-doculect-69-487,iris1253-std,concepticon-800,4.351,sliasaid,thigh,sliasaid
+clics-doculect-69-488,iris1253-std,concepticon-498,4.352,colpa,calf of leg,colpa
+clics-doculect-69-489,iris1253-std,concepticon-1371,4.36,glún,knee,glun
+clics-doculect-69-490,iris1253-std,concepticon-1301,4.37,cos,foot,cos
+clics-doculect-69-491,iris1253-std,concepticon-1301,4.37,troigh,foot,troigh
+clics-doculect-69-492,iris1253-std,concepticon-803,4.371,caolnacoise,ankle,caolnacoise
+clics-doculect-69-493,iris1253-std,concepticon-803,4.371,murnán,ankle,murnan
+clics-doculect-69-494,iris1253-std,concepticon-803,4.371,rúitín,ankle,ruitin
+clics-doculect-69-495,iris1253-std,concepticon-980,4.372,sáil,heel,sail
+clics-doculect-69-496,iris1253-std,concepticon-318,4.374,lorgcoise,footprint,lorgcoise
+clics-doculect-69-497,iris1253-std,concepticon-318,4.374,riancoise,footprint,riancoise
+clics-doculect-69-498,iris1253-std,concepticon-1389,4.38,ladhar,toe,ladhar
+clics-doculect-69-499,iris1253-std,concepticon-1389,4.38,méarcoise,toe,mearcoise
+clics-doculect-69-500,iris1253-std,concepticon-1257,4.392,eite,wing,eite
+clics-doculect-69-501,iris1253-std,concepticon-1257,4.392,eiteog,wing,eiteog
+clics-doculect-69-502,iris1253-std,concepticon-1257,4.392,sciathán,wing,sciathan
+clics-doculect-69-503,iris1253-std,concepticon-1201,4.393,cleite,feather,cleite
+clics-doculect-69-504,iris1253-std,concepticon-1201,4.393,eite,feather,eite
+clics-doculect-69-505,iris1253-std,concepticon-1592,4.4,ucht,chest,ucht
+clics-doculect-69-506,iris1253-std,concepticon-1592,4.4,cliabhrach,chest,cliabhrach
+clics-doculect-69-507,iris1253-std,concepticon-1592,4.4,cliabh,chest,cliabh
+clics-doculect-69-508,iris1253-std,concepticon-1592,4.4,brollach,chest,brollach
+clics-doculect-69-509,iris1253-std,concepticon-1592,4.4,broinne,chest,broinne
+clics-doculect-69-510,iris1253-std,concepticon-1402,4.41,cíoch,breast (of woman),cioch
+clics-doculect-69-511,iris1253-std,concepticon-796,4.412,sine,"nipple, teat",sine
+clics-doculect-69-512,iris1253-std,concepticon-796,4.412,dide,"nipple, teat",dide
+clics-doculect-69-513,iris1253-std,concepticon-796,4.412,balláncíche,"nipple, teat",ballanciche
+clics-doculect-69-514,iris1253-std,concepticon-154,4.42,úth,udder,uth
+clics-doculect-69-515,iris1253-std,concepticon-1838,4.43,imleacán,navel,imleacan
+clics-doculect-69-516,iris1253-std,concepticon-1223,4.44,croí,heart,croi
+clics-doculect-69-517,iris1253-std,concepticon-688,4.441,scamhóg,lung,scamhog
+clics-doculect-69-518,iris1253-std,concepticon-1224,4.45,ae,liver,ae
+clics-doculect-69-519,iris1253-std,concepticon-1224,4.45,cruaae,liver,cruaae
+clics-doculect-69-520,iris1253-std,concepticon-489,4.451,ára,kidney,ara
+clics-doculect-69-521,iris1253-std,concepticon-489,4.451,duán,kidney,duan
+clics-doculect-69-522,iris1253-std,concepticon-1744,4.452,liathán,spleen,liathan
+clics-doculect-69-523,iris1253-std,concepticon-1744,4.452,splín,spleen,splin
+clics-doculect-69-524,iris1253-std,concepticon-819,4.46,bolg,stomach,bolg
+clics-doculect-69-525,iris1253-std,concepticon-819,4.46,goile,stomach,goile
+clics-doculect-69-526,iris1253-std,concepticon-1991,4.461,inní,"intestines, guts",inni
+clics-doculect-69-527,iris1253-std,concepticon-1991,4.461,putóga,"intestines, guts",putoga
+clics-doculect-69-528,iris1253-std,concepticon-1991,4.461,ionathar,"intestines, guts",ionathar
+clics-doculect-69-529,iris1253-std,concepticon-1991,4.461,drólanna,"intestines, guts",drolanna
+clics-doculect-69-530,iris1253-std,concepticon-1991,4.461,stéigeacha,"intestines, guts",steigeacha
+clics-doculect-69-531,iris1253-std,concepticon-1681,4.462,coim,waist,coim
+clics-doculect-69-532,iris1253-std,concepticon-1681,4.462,básata,waist,basata
+clics-doculect-69-533,iris1253-std,concepticon-1745,4.463,cromán,hip,croman
+clics-doculect-69-534,iris1253-std,concepticon-1745,4.463,corróg,hip,corrog
+clics-doculect-69-535,iris1253-std,concepticon-834,4.464,tóin,buttocks,toin
+clics-doculect-69-536,iris1253-std,concepticon-834,4.464,más,buttocks,mas
+clics-doculect-69-537,iris1253-std,concepticon-834,4.464,tiarpa,buttocks,tiarpa
+clics-doculect-69-538,iris1253-std,concepticon-804,4.47,broinn,womb,broinn
+clics-doculect-69-539,iris1253-std,concepticon-797,4.49,magairle,testicle,magairle
+clics-doculect-69-540,iris1253-std,concepticon-1222,4.492,bod,penis,bod
+clics-doculect-69-541,iris1253-std,concepticon-1222,4.492,boidín,penis,boidin
+clics-doculect-69-542,iris1253-std,concepticon-1222,4.492,slat,penis,slat
+clics-doculect-69-543,iris1253-std,concepticon-1222,4.492,péineas,penis,peineas
+clics-doculect-69-544,iris1253-std,concepticon-1222,4.492,ballfearga,penis,ballfearga
+clics-doculect-69-545,iris1253-std,concepticon-1407,4.51,tarrainganáil,"breathe, breath",tarrainganail
+clics-doculect-69-546,iris1253-std,concepticon-1407,4.51,anáil,"breathe, breath",anail
+clics-doculect-69-547,iris1253-std,concepticon-1028,4.52,déanméanfach,"yawn, gape",deanmeanfach
+clics-doculect-69-548,iris1253-std,concepticon-162,4.521,déansnag,hiccough,deansnag
+clics-doculect-69-549,iris1253-std,concepticon-162,4.521,déanaimfail,hiccough,deanaimfail
+clics-doculect-69-550,iris1253-std,concepticon-879,4.53,casacht,cough,casacht
+clics-doculect-69-551,iris1253-std,concepticon-879,4.53,casachtach,cough,casachtach
+clics-doculect-69-552,iris1253-std,concepticon-1621,4.54,déansraoth,sneeze,deansraoth
+clics-doculect-69-553,iris1253-std,concepticon-1621,4.54,ligsraoth,sneeze,ligsraoth
+clics-doculect-69-554,iris1253-std,concepticon-126,4.55,cuirimallas,perspire,cuirimallas
+clics-doculect-69-555,iris1253-std,concepticon-1440,4.56,caithseile,spit,caithseile
+clics-doculect-69-556,iris1253-std,concepticon-1278,4.57,cuiramach,vomit,cuiramach
+clics-doculect-69-557,iris1253-std,concepticon-1278,4.57,táimagaiseag,vomit,taimagaiseag
+clics-doculect-69-558,iris1253-std,concepticon-1278,4.57,táimagurlacan,vomit,taimagurlacan
+clics-doculect-69-559,iris1253-std,concepticon-1278,4.57,sceith,vomit,sceith
+clics-doculect-69-560,iris1253-std,concepticon-1278,4.57,brúcht,vomit,brucht
+clics-doculect-69-561,iris1253-std,concepticon-1403,4.58,greimabhaintas,bite,greimabhaintas
+clics-doculect-69-562,iris1253-std,concepticon-319,4.59,lím,lick,lim
+clics-doculect-69-563,iris1253-std,concepticon-268,4.591,silín,dribble,silin
+clics-doculect-69-564,iris1253-std,concepticon-268,4.591,priosla,dribble,priosla
+clics-doculect-69-565,iris1253-std,concepticon-268,4.591,prislín,dribble,prislin
+clics-doculect-69-566,iris1253-std,concepticon-268,4.591,ronna,dribble,ronna
+clics-doculect-69-567,iris1253-std,concepticon-1585,4.61,codladh,sleep,codladh
+clics-doculect-69-568,iris1253-std,concepticon-1585,4.61,codail,sleep,codail
+clics-doculect-69-569,iris1253-std,concepticon-1983,4.612,srann,snore,srann
+clics-doculect-69-570,iris1253-std,concepticon-1983,4.612,srannadh,snore,srannadh
+clics-doculect-69-571,iris1253-std,concepticon-1920,4.62,brionglóid,dream,briongloid
+clics-doculect-69-572,iris1253-std,concepticon-1920,4.62,aisling,dream,aisling
+clics-doculect-69-573,iris1253-std,concepticon-1920,4.62,taibhreadh,dream,taibhreadh
+clics-doculect-69-574,iris1253-std,concepticon-1602,4.63,dúisigh,wake up,duisigh
+clics-doculect-69-575,iris1253-std,concepticon-1602,4.63,músclaigh,wake up,musclaigh
+clics-doculect-69-576,iris1253-std,concepticon-1159,4.64,bromaim,break wind,bromaim
+clics-doculect-69-577,iris1253-std,concepticon-592,4.65,mún,urinate,mun
+clics-doculect-69-578,iris1253-std,concepticon-592,4.65,déanfual,urinate,deanfual
+clics-doculect-69-579,iris1253-std,concepticon-676,4.66,cac,defecate,cac
+clics-doculect-69-580,iris1253-std,concepticon-1785,4.67,comhriachtain,have sexual intercourse,comhriachtain
+clics-doculect-69-581,iris1253-std,concepticon-52,4.68,crith,shiver,crith
+clics-doculect-69-582,iris1253-std,concepticon-138,4.69,folc,bathe,folc
+clics-doculect-69-583,iris1253-std,concepticon-1152,4.71,gin,beget (of father),gin
+clics-doculect-69-584,iris1253-std,concepticon-1090,4.72,beirtear,born (to be),beirtear
+clics-doculect-69-585,iris1253-std,concepticon-1123,4.73,torrach,pregnant,torrach
+clics-doculect-69-586,iris1253-std,concepticon-1123,4.73,toircheasach,pregnant,toircheasach
+clics-doculect-69-587,iris1253-std,concepticon-1123,4.73,bruinneach,pregnant,bruinneach
+clics-doculect-69-588,iris1253-std,concepticon-1123,4.73,bruinnighe,pregnant,bruinnighe
+clics-doculect-69-589,iris1253-std,concepticon-1087,4.732,gabh,conceive,gabh
+clics-doculect-69-590,iris1253-std,concepticon-1087,4.732,coimprím,conceive,coimprim
+clics-doculect-69-591,iris1253-std,concepticon-1422,4.74,táimbeo,"live, living, life",taimbeo
+clics-doculect-69-592,iris1253-std,concepticon-1422,4.74,mairim,"live, living, life",mairim
+clics-doculect-69-593,iris1253-std,concepticon-1494,4.75,faighimbás,"die, dead",faighimbas
+clics-doculect-69-594,iris1253-std,concepticon-1494,4.75,éagaim,"die, dead",eagaim
+clics-doculect-69-595,iris1253-std,concepticon-1494,4.75,bás,"die, dead",bas
+clics-doculect-69-596,iris1253-std,concepticon-1494,4.75,marbh,"die, dead",marbh
+clics-doculect-69-597,iris1253-std,concepticon-1904,4.751,báite,drowned,baite
+clics-doculect-69-598,iris1253-std,concepticon-1417,4.76,maraigh,kill,maraigh
+clics-doculect-69-599,iris1253-std,concepticon-767,4.77,corp,corpse,corp
+clics-doculect-69-600,iris1253-std,concepticon-767,4.77,corpán,corpse,corpan
+clics-doculect-69-601,iris1253-std,concepticon-767,4.77,marbhán,corpse,marbhan
+clics-doculect-69-602,iris1253-std,concepticon-1719,4.78,cuir,bury (the dead),cuir
+clics-doculect-69-603,iris1253-std,concepticon-1719,4.78,adhlaic,bury (the dead),adhlaic
+clics-doculect-69-604,iris1253-std,concepticon-1773,4.79,uaigh,"grave, tomb",uaigh
+clics-doculect-69-605,iris1253-std,concepticon-1773,4.79,reilig,"grave, tomb",reilig
+clics-doculect-69-606,iris1253-std,concepticon-1773,4.79,tuama,"grave, tomb",tuama
+clics-doculect-69-607,iris1253-std,concepticon-1773,4.79,feart,"grave, tomb",feart
+clics-doculect-69-608,iris1253-std,concepticon-785,4.81,tréan,"strong, mighty, powerful",trean
+clics-doculect-69-609,iris1253-std,concepticon-785,4.81,láidir,"strong, mighty, powerful",laidir
+clics-doculect-69-610,iris1253-std,concepticon-785,4.81,neartmhar,"strong, mighty, powerful",neartmhar
+clics-doculect-69-611,iris1253-std,concepticon-785,4.81,cumhachtach,"strong, mighty, powerful",cumhachtach
+clics-doculect-69-612,iris1253-std,concepticon-785,4.81,mórchumhachtach,"strong, mighty, powerful",morchumhachtach
+clics-doculect-69-613,iris1253-std,concepticon-785,4.81,cumasach,"strong, mighty, powerful",cumasach
+clics-doculect-69-614,iris1253-std,concepticon-785,4.81,éachtach,"strong, mighty, powerful",eachtach
+clics-doculect-69-615,iris1253-std,concepticon-785,4.81,bríomhar,"strong, mighty, powerful",briomhar
+clics-doculect-69-616,iris1253-std,concepticon-1601,4.82,lag,weak,lag
+clics-doculect-69-617,iris1253-std,concepticon-1601,4.82,fann,weak,fann
+clics-doculect-69-618,iris1253-std,concepticon-1601,4.82,tréith,weak,treith
+clics-doculect-69-619,iris1253-std,concepticon-1601,4.82,meirbh,weak,meirbh
+clics-doculect-69-620,iris1253-std,concepticon-1601,4.82,leochaileach,weak,leochaileach
+clics-doculect-69-621,iris1253-std,concepticon-1601,4.82,meathlaithe,weak,meathlaithe
+clics-doculect-69-622,iris1253-std,concepticon-1601,4.82,lagbhríoch,weak,lagbhrioch
+clics-doculect-69-623,iris1253-std,concepticon-1364,4.83,slán,"well, health",slan
+clics-doculect-69-624,iris1253-std,concepticon-1364,4.83,folláin,"well, health",follain
+clics-doculect-69-625,iris1253-std,concepticon-1364,4.83,sláinte,"well, health",slainte
+clics-doculect-69-626,iris1253-std,concepticon-1847,4.84,tinn,"sick, sickness",tinn
+clics-doculect-69-627,iris1253-std,concepticon-1847,4.84,breoite,"sick, sickness",breoite
+clics-doculect-69-628,iris1253-std,concepticon-1847,4.84,tinneas,"sick, sickness",tinneas
+clics-doculect-69-629,iris1253-std,concepticon-1847,4.84,aicíd,"sick, sickness",aicid
+clics-doculect-69-630,iris1253-std,concepticon-1534,4.841,fiabhras,fever,fiabhras
+clics-doculect-69-631,iris1253-std,concepticon-1957,4.842,ainglis,goiter,ainglis
+clics-doculect-69-632,iris1253-std,concepticon-102,4.843,slaghdán,cold (catarrh),slaghdan
+clics-doculect-69-633,iris1253-std,concepticon-1109,4.85,goin,"wound, sore",goin
+clics-doculect-69-634,iris1253-std,concepticon-1109,4.85,cneá,"wound, sore",cnea
+clics-doculect-69-635,iris1253-std,concepticon-1109,4.85,créacht,"wound, sore",creacht
+clics-doculect-69-636,iris1253-std,concepticon-1109,4.85,leon,"wound, sore",leon
+clics-doculect-69-637,iris1253-std,concepticon-1148,4.852,brú,bruise,bru
+clics-doculect-69-638,iris1253-std,concepticon-1148,4.852,ballgorm,bruise,ballgorm
+clics-doculect-69-639,iris1253-std,concepticon-1148,4.852,ballbhrú,bruise,ballbhru
+clics-doculect-69-640,iris1253-std,concepticon-1903,4.853,at,swelling,at
+clics-doculect-69-641,iris1253-std,concepticon-1903,4.853,borradh,swelling,borradh
+clics-doculect-69-642,iris1253-std,concepticon-1903,4.853,boiric,swelling,boiric
+clics-doculect-69-643,iris1253-std,concepticon-1903,4.853,meall,swelling,meall
+clics-doculect-69-644,iris1253-std,concepticon-1903,4.853,forlíonadh,swelling,forlionadh
+clics-doculect-69-645,iris1253-std,concepticon-148,4.854,tochas,itch,tochas
+clics-doculect-69-646,iris1253-std,concepticon-1584,4.855,spuaic,blister,spuaic
+clics-doculect-69-647,iris1253-std,concepticon-1584,4.855,clog,blister,clog
+clics-doculect-69-648,iris1253-std,concepticon-1584,4.855,léas,blister,leas
+clics-doculect-69-649,iris1253-std,concepticon-1584,4.855,balscóid,blister,balscoid
+clics-doculect-69-650,iris1253-std,concepticon-793,4.856,neascóid,boil (noun),neascoid
+clics-doculect-69-651,iris1253-std,concepticon-1808,4.857,angadh,pus,angadh
+clics-doculect-69-652,iris1253-std,concepticon-1808,4.857,brach,pus,brach
+clics-doculect-69-653,iris1253-std,concepticon-1808,4.857,brachadh,pus,brachadh
+clics-doculect-69-654,iris1253-std,concepticon-1808,4.857,braon,pus,braon
+clics-doculect-69-655,iris1253-std,concepticon-1808,4.857,sileadh,pus,sileadh
+clics-doculect-69-656,iris1253-std,concepticon-497,4.858,colm,scar,colm
+clics-doculect-69-657,iris1253-std,concepticon-497,4.858,méirscre,scar,meirscre
+clics-doculect-69-658,iris1253-std,concepticon-499,4.86,leigheasaim,"cure, heal",leigheasaim
+clics-doculect-69-659,iris1253-std,concepticon-499,4.86,cneasaím,"cure, heal",cneasaim
+clics-doculect-69-660,iris1253-std,concepticon-499,4.86,slánaím,"cure, heal",slanaim
+clics-doculect-69-661,iris1253-std,concepticon-499,4.86,íocaim,"cure, heal",iocaim
+clics-doculect-69-662,iris1253-std,concepticon-597,4.87,dochtúir,physician,dochtuir
+clics-doculect-69-663,iris1253-std,concepticon-597,4.87,lia,physician,lia
+clics-doculect-69-664,iris1253-std,concepticon-1372,4.88,leigheas,"medicine, drug",leigheas
+clics-doculect-69-665,iris1253-std,concepticon-1372,4.88,míochaine,"medicine, drug",miochaine
+clics-doculect-69-666,iris1253-std,concepticon-1372,4.88,cógas,"medicine, drug",cogas
+clics-doculect-69-667,iris1253-std,concepticon-655,4.89,nimh,poison,nimh
+clics-doculect-69-668,iris1253-std,concepticon-1757,4.91,tuirseach,"tired, weary",tuirseach
+clics-doculect-69-669,iris1253-std,concepticon-1757,4.91,cortha,"tired, weary",cortha
+clics-doculect-69-670,iris1253-std,concepticon-168,4.912,sos,rest,sos
+clics-doculect-69-671,iris1253-std,concepticon-168,4.912,scíth,rest,scith
+clics-doculect-69-672,iris1253-std,concepticon-168,4.912,suaimhneas,rest,suaimhneas
+clics-doculect-69-673,iris1253-std,concepticon-1564,4.92,leiscúil,lazy,leiscuil
+clics-doculect-69-674,iris1253-std,concepticon-1125,4.93,maol,bald,maol
+clics-doculect-69-675,iris1253-std,concepticon-1125,4.93,lom,bald,lom
+clics-doculect-69-676,iris1253-std,concepticon-1125,4.93,plaiteach,bald,plaiteach
+clics-doculect-69-677,iris1253-std,concepticon-320,4.94,bacach,lame,bacach
+clics-doculect-69-678,iris1253-std,concepticon-996,4.95,bodhar,deaf,bodhar
+clics-doculect-69-679,iris1253-std,concepticon-1666,4.96,balbh,mute,balbh
+clics-doculect-69-680,iris1253-std,concepticon-1653,4.97,caoch,blind,caoch
+clics-doculect-69-681,iris1253-std,concepticon-1653,4.97,dall,blind,dall
+clics-doculect-69-682,iris1253-std,concepticon-1463,4.98,armeisce,intoxicated,armeisce
+clics-doculect-69-683,iris1253-std,concepticon-1463,4.98,ólta,intoxicated,olta
+clics-doculect-69-684,iris1253-std,concepticon-590,4.99,nocht,"naked, bare",nocht
+clics-doculect-69-685,iris1253-std,concepticon-590,4.99,lom,"naked, bare",lom
+clics-doculect-69-686,iris1253-std,concepticon-1336,5.11,ith,eat,ith
+clics-doculect-69-687,iris1253-std,concepticon-1336,5.11,caith,eat,caith
+clics-doculect-69-688,iris1253-std,concepticon-256,5.12,bia,food,bia
+clics-doculect-69-689,iris1253-std,concepticon-256,5.12,lón,food,lon
+clics-doculect-69-690,iris1253-std,concepticon-256,5.12,beatha,food,beatha
+clics-doculect-69-691,iris1253-std,concepticon-256,5.12,cuid,food,cuid
+clics-doculect-69-692,iris1253-std,concepticon-1959,5.122,amh,raw,amh
+clics-doculect-69-693,iris1253-std,concepticon-1959,5.122,dearg,raw,dearg
+clics-doculect-69-694,iris1253-std,concepticon-178,5.123,aibí,ripe,aibi
+clics-doculect-69-695,iris1253-std,concepticon-1958,5.124,glas,"green, unripe",glas
+clics-doculect-69-696,iris1253-std,concepticon-1958,5.124,anabaí,"green, unripe",anabai
+clics-doculect-69-697,iris1253-std,concepticon-1728,5.125,lofa,rotten,lofa
+clics-doculect-69-698,iris1253-std,concepticon-1728,5.125,morgtha,rotten,morgtha
+clics-doculect-69-699,iris1253-std,concepticon-1728,5.125,bréan,rotten,brean
+clics-doculect-69-700,iris1253-std,concepticon-1401,5.13,óla,drink,ola
+clics-doculect-69-701,iris1253-std,concepticon-1401,5.13,slog,drink,slog
+clics-doculect-69-702,iris1253-std,concepticon-1864,5.14,ocras,hunger,ocras
+clics-doculect-69-703,iris1253-std,concepticon-1864,5.14,gorta,hunger,gorta
+clics-doculect-69-704,iris1253-std,concepticon-199,5.141,gorta,famine,gorta
+clics-doculect-69-705,iris1253-std,concepticon-848,5.15,tart,thirst,tart
+clics-doculect-69-706,iris1253-std,concepticon-848,5.15,íota,thirst,iota
+clics-doculect-69-707,iris1253-std,concepticon-1421,5.16,diúlaim,suck,diulaim
+clics-doculect-69-708,iris1253-std,concepticon-1421,5.16,súim,suck,suim
+clics-doculect-69-709,iris1253-std,concepticon-1421,5.16,siolpaim,suck,siolpaim
+clics-doculect-69-710,iris1253-std,concepticon-1421,5.16,súraic,suck,suraic
+clics-doculect-69-711,iris1253-std,concepticon-1421,5.16,tarraing,suck,tarraing
+clics-doculect-69-712,iris1253-std,concepticon-321,5.18,cogain,chew,cogain
+clics-doculect-69-713,iris1253-std,concepticon-321,5.18,mungail,chew,mungail
+clics-doculect-69-714,iris1253-std,concepticon-897,5.181,slog,swallow,slog
+clics-doculect-69-715,iris1253-std,concepticon-897,5.181,alp,swallow,alp
+clics-doculect-69-716,iris1253-std,concepticon-129,5.19,tacht,choke,tacht
+clics-doculect-69-717,iris1253-std,concepticon-129,5.19,plúch,choke,pluch
+clics-doculect-69-718,iris1253-std,concepticon-129,5.19,calc,choke,calc
+clics-doculect-69-719,iris1253-std,concepticon-1100,5.21,déancócaireachtar,cook,deancocaireachtar
+clics-doculect-69-720,iris1253-std,concepticon-1100,5.21,fuin,cook,fuin
+clics-doculect-69-721,iris1253-std,concepticon-792,5.22,beirigh,boil (vb),beirigh
+clics-doculect-69-722,iris1253-std,concepticon-792,5.22,fiuch,boil (vb),fiuch
+clics-doculect-69-723,iris1253-std,concepticon-792,5.22,bruith,boil (vb),bruith
+clics-doculect-69-724,iris1253-std,concepticon-792,5.22,coip,boil (vb),coip
+clics-doculect-69-725,iris1253-std,concepticon-2146,5.23,róst,"roast, fry",rost
+clics-doculect-69-726,iris1253-std,concepticon-2146,5.23,fioch,"roast, fry",fioch
+clics-doculect-69-727,iris1253-std,concepticon-183,5.24,bruith,bake,bruith
+clics-doculect-69-728,iris1253-std,concepticon-183,5.24,beirigh,bake,beirigh
+clics-doculect-69-729,iris1253-std,concepticon-183,5.24,bácáil,bake,bacail
+clics-doculect-69-730,iris1253-std,concepticon-1143,5.25,oigheann,oven,oigheann
+clics-doculect-69-731,iris1253-std,concepticon-1143,5.25,bácús,oven,bacus
+clics-doculect-69-732,iris1253-std,concepticon-1462,5.26,pota,"pot, cooking vessel",pota
+clics-doculect-69-733,iris1253-std,concepticon-1462,5.26,corcán,"pot, cooking vessel",corcan
+clics-doculect-69-734,iris1253-std,concepticon-854,5.27,citeal,kettle,citeal
+clics-doculect-69-735,iris1253-std,concepticon-854,5.27,túlán,kettle,tulan
+clics-doculect-69-736,iris1253-std,concepticon-854,5.27,coire,kettle,coire
+clics-doculect-69-737,iris1253-std,concepticon-31,5.28,panna,pan,panna
+clics-doculect-69-738,iris1253-std,concepticon-31,5.28,friochtán,pan,friochtan
+clics-doculect-69-739,iris1253-std,concepticon-481,5.31,mias,dish,mias
+clics-doculect-69-740,iris1253-std,concepticon-480,5.32,pláta,plate,plata
+clics-doculect-69-741,iris1253-std,concepticon-1530,5.33,babhla,bowl,babhla
+clics-doculect-69-742,iris1253-std,concepticon-1530,5.33,cuach,bowl,cuach
+clics-doculect-69-743,iris1253-std,concepticon-1530,5.33,scála,bowl,scala
+clics-doculect-69-744,iris1253-std,concepticon-270,5.34,crúsca,"pitcher, jug",crusca
+clics-doculect-69-745,iris1253-std,concepticon-270,5.34,crúiscín,"pitcher, jug",cruiscin
+clics-doculect-69-746,iris1253-std,concepticon-476,5.35,cupán,"cup, drinking vessel",cupan
+clics-doculect-69-747,iris1253-std,concepticon-476,5.35,corn,"cup, drinking vessel",corn
+clics-doculect-69-748,iris1253-std,concepticon-271,5.36,fochupán,saucer,fochupan
+clics-doculect-69-749,iris1253-std,concepticon-271,5.36,sásar,saucer,sasar
+clics-doculect-69-750,iris1253-std,concepticon-1378,5.37,spúnóg,spoon,spunog
+clics-doculect-69-751,iris1253-std,concepticon-1378,5.37,liach,spoon,liach
+clics-doculect-69-752,iris1253-std,concepticon-1378,5.37,ladar,spoon,ladar
+clics-doculect-69-753,iris1253-std,concepticon-1352,5.38,scian,knife,scian
+clics-doculect-69-754,iris1253-std,concepticon-337,5.39,forc,fork,forc
+clics-doculect-69-755,iris1253-std,concepticon-337,5.39,gabhlóg,fork,gabhlog
+clics-doculect-69-756,iris1253-std,concepticon-272,5.391,tlú,tongs,tlu
+clics-doculect-69-757,iris1253-std,concepticon-272,5.391,maidebriste,tongs,maidebriste
+clics-doculect-69-758,iris1253-std,concepticon-272,5.391,ursal,tongs,ursal
+clics-doculect-69-759,iris1253-std,concepticon-1526,5.41,béile,meal (a),beile
+clics-doculect-69-760,iris1253-std,concepticon-1526,5.41,tráthbia,meal (a),trathbia
+clics-doculect-69-761,iris1253-std,concepticon-1526,5.41,proinn,meal (a),proinn
+clics-doculect-69-762,iris1253-std,concepticon-1526,5.41,séire,meal (a),seire
+clics-doculect-69-763,iris1253-std,concepticon-1322,5.42,bricfeasta,breakfast,bricfeasta
+clics-doculect-69-764,iris1253-std,concepticon-768,5.43,lón,lunch,lon
+clics-doculect-69-765,iris1253-std,concepticon-768,5.43,dinnéar,lunch,dinnear
+clics-doculect-69-766,iris1253-std,concepticon-1833,5.44,dinnéar,dinner,dinnear
+clics-doculect-69-767,iris1253-std,concepticon-1833,5.44,proinn,dinner,proinn
+clics-doculect-69-768,iris1253-std,concepticon-1833,5.45,suipéar,supper,suipear
+clics-doculect-69-769,iris1253-std,concepticon-1833,5.45,séire,supper,seire
+clics-doculect-69-770,iris1253-std,concepticon-275,5.46,scamh,peel,scamh
+clics-doculect-69-771,iris1253-std,concepticon-275,5.46,bainancraiceannde,peel,bainancraiceannde
+clics-doculect-69-772,iris1253-std,concepticon-86,5.47,criathar,"sieve, strain",criathar
+clics-doculect-69-773,iris1253-std,concepticon-86,5.47,rilleáncriathraigh,"sieve, strain",rilleancriathraigh
+clics-doculect-69-774,iris1253-std,concepticon-1767,5.48,scríob,scrape,scriob
+clics-doculect-69-775,iris1253-std,concepticon-1767,5.48,scrabh,scrape,scrabh
+clics-doculect-69-776,iris1253-std,concepticon-1767,5.48,scamh,scrape,scamh
+clics-doculect-69-777,iris1253-std,concepticon-1767,5.48,cart,scrape,cart
+clics-doculect-69-778,iris1253-std,concepticon-1767,5.48,gránaigh,scrape,granaigh
+clics-doculect-69-779,iris1253-std,concepticon-2017,5.49,measc,"stir, mix",measc
+clics-doculect-69-780,iris1253-std,concepticon-2017,5.49,corraigh,"stir, mix",corraigh
+clics-doculect-69-781,iris1253-std,concepticon-2017,5.49,suaith,"stir, mix",suaith
+clics-doculect-69-782,iris1253-std,concepticon-1368,5.51,arán,bread,aran
+clics-doculect-69-783,iris1253-std,concepticon-273,5.53,taos,dough,taos
+clics-doculect-69-784,iris1253-std,concepticon-274,5.54,fuin,knead,fuin
+clics-doculect-69-785,iris1253-std,concepticon-274,5.54,suaith,knead,suaith
+clics-doculect-69-786,iris1253-std,concepticon-1594,5.55,min,"meal, flour",min
+clics-doculect-69-787,iris1253-std,concepticon-1033,5.56,basc,"crush, grind",basc
+clics-doculect-69-788,iris1253-std,concepticon-1033,5.56,brúigh,"crush, grind",bruigh
+clics-doculect-69-789,iris1253-std,concepticon-1033,5.56,meil,"crush, grind",meil
+clics-doculect-69-790,iris1253-std,concepticon-636,5.57,muileann,mill,muileann
+clics-doculect-69-791,iris1253-std,concepticon-224,5.58,moirtéar,mortar,moirtear
+clics-doculect-69-792,iris1253-std,concepticon-225,5.59,tuairgnín,pestle,tuairgnin
+clics-doculect-69-793,iris1253-std,concepticon-225,5.59,smíste,pestle,smiste
+clics-doculect-69-794,iris1253-std,concepticon-634,5.61,feoil,meat,feoil
+clics-doculect-69-795,iris1253-std,concepticon-1874,5.63,ispín,sausage,ispin
+clics-doculect-69-796,iris1253-std,concepticon-1874,5.63,maróg,sausage,marog
+clics-doculect-69-797,iris1253-std,concepticon-1547,5.64,anraith,"soup, broth",anraith
+clics-doculect-69-798,iris1253-std,concepticon-1547,5.64,brachán,"soup, broth",brachan
+clics-doculect-69-799,iris1253-std,concepticon-924,5.65,glasraí,vegetables,glasrai
+clics-doculect-69-800,iris1253-std,concepticon-832,5.66,pónaire,bean,ponaire
+clics-doculect-69-801,iris1253-std,concepticon-593,5.7,práta,potato,prata
+clics-doculect-69-802,iris1253-std,concepticon-1507,5.71,toradh,fruit,toradh
+clics-doculect-69-803,iris1253-std,concepticon-1507,5.71,meas,fruit,meas
+clics-doculect-69-804,iris1253-std,concepticon-1966,5.712,scoth,bunch,scoth
+clics-doculect-69-805,iris1253-std,concepticon-1966,5.712,dos,bunch,dos
+clics-doculect-69-806,iris1253-std,concepticon-1966,5.712,dornán,bunch,dornan
+clics-doculect-69-807,iris1253-std,concepticon-1966,5.712,triopall,bunch,triopall
+clics-doculect-69-808,iris1253-std,concepticon-1966,5.712,táth,bunch,tath
+clics-doculect-69-809,iris1253-std,concepticon-1966,5.712,coróg,bunch,corog
+clics-doculect-69-810,iris1253-std,concepticon-1966,5.712,glac,bunch,glac
+clics-doculect-69-811,iris1253-std,concepticon-1966,5.712,cloigín,bunch,cloigin
+clics-doculect-69-812,iris1253-std,concepticon-322,5.75,fige,fig,fige
+clics-doculect-69-813,iris1253-std,concepticon-920,5.76,fíonchaor,grape,fionchaor
+clics-doculect-69-814,iris1253-std,concepticon-920,5.76,caorfiniúna,grape,caorfiniuna
+clics-doculect-69-815,iris1253-std,concepticon-191,5.77,cnó,nut,cno
+clics-doculect-69-816,iris1253-std,concepticon-1154,5.78,ológ,olive,olog
+clics-doculect-69-817,iris1253-std,concepticon-1484,5.79,ola,oil,ola
+clics-doculect-69-818,iris1253-std,concepticon-323,5.791,saill,"grease, fat",saill
+clics-doculect-69-819,iris1253-std,concepticon-323,5.791,blonag,"grease, fat",blonag
+clics-doculect-69-820,iris1253-std,concepticon-323,5.791,geir,"grease, fat",geir
+clics-doculect-69-821,iris1253-std,concepticon-323,5.791,méathras,"grease, fat",meathras
+clics-doculect-69-822,iris1253-std,concepticon-323,5.791,olar,"grease, fat",olar
+clics-doculect-69-823,iris1253-std,concepticon-1274,5.81,salann,salt,salann
+clics-doculect-69-824,iris1253-std,concepticon-1385,5.82,píobar,pepper,piobar
+clics-doculect-69-825,iris1253-std,concepticon-942,5.84,mil,honey,mil
+clics-doculect-69-826,iris1253-std,concepticon-862,5.85,siúcra,sugar,siucra
+clics-doculect-69-827,iris1253-std,concepticon-635,5.86,bainne,milk (noun),bainne
+clics-doculect-69-828,iris1253-std,concepticon-93,5.87,crúigh,milk (vb),cruigh
+clics-doculect-69-829,iris1253-std,concepticon-93,5.87,bligh,milk (vb),bligh
+clics-doculect-69-830,iris1253-std,concepticon-1569,5.88,cáis,cheese,cais
+clics-doculect-69-831,iris1253-std,concepticon-1245,5.89,im,butter,im
+clics-doculect-69-832,iris1253-std,concepticon-731,5.9,deoch,"beverage, drink",deoch
+clics-doculect-69-833,iris1253-std,concepticon-941,5.91,meá,mead,mea
+clics-doculect-69-834,iris1253-std,concepticon-1524,5.92,fíon,wine,fion
+clics-doculect-69-835,iris1253-std,concepticon-1639,5.93,beoir,beer,beoir
+clics-doculect-69-836,iris1253-std,concepticon-1639,5.93,leann,beer,leann
+clics-doculect-69-837,iris1253-std,concepticon-744,5.97,ubh,egg,ubh
+clics-doculect-69-838,iris1253-std,concepticon-1556,5.971,buíocán,egg yolk,buiocan
+clics-doculect-69-839,iris1253-std,concepticon-158,6.11,curumat,put on (clothes),curumat
+clics-doculect-69-840,iris1253-std,concepticon-158,6.11,curort,put on (clothes),curort
+clics-doculect-69-841,iris1253-std,concepticon-158,6.11,éidigh,put on (clothes),eidigh
+clics-doculect-69-842,iris1253-std,concepticon-158,6.11,feistigh,put on (clothes),feistigh
+clics-doculect-69-843,iris1253-std,concepticon-1895,6.12,éadach,"clothing, clothes",eadach
+clics-doculect-69-844,iris1253-std,concepticon-1895,6.12,bailléadaigh,"clothing, clothes",bailleadaigh
+clics-doculect-69-845,iris1253-std,concepticon-1895,6.12,feisteas,"clothing, clothes",feisteas
+clics-doculect-69-846,iris1253-std,concepticon-1895,6.12,ceirteacha,"clothing, clothes",ceirteacha
+clics-doculect-69-847,iris1253-std,concepticon-1895,6.12,balcaisí,"clothing, clothes",balcaisi
+clics-doculect-69-848,iris1253-std,concepticon-1895,6.12,culaith,"clothing, clothes",culaith
+clics-doculect-69-849,iris1253-std,concepticon-881,6.13,táilliúr,tailor,tailliur
+clics-doculect-69-850,iris1253-std,concepticon-1616,6.21,éadach,cloth,eadach
+clics-doculect-69-851,iris1253-std,concepticon-1616,6.21,bréid,cloth,breid
+clics-doculect-69-852,iris1253-std,concepticon-1616,6.21,ceirt,cloth,ceirt
+clics-doculect-69-853,iris1253-std,concepticon-964,6.22,olann,wool,olann
+clics-doculect-69-854,iris1253-std,concepticon-964,6.22,snáth,wool,snath
+clics-doculect-69-855,iris1253-std,concepticon-916,6.23,líon,"linen, flax",lion
+clics-doculect-69-856,iris1253-std,concepticon-916,6.23,línéadach,"linen, flax",lineadach
+clics-doculect-69-857,iris1253-std,concepticon-1850,6.24,cadás,cotton,cadas
+clics-doculect-69-858,iris1253-std,concepticon-1850,6.24,cotún,cotton,cotun
+clics-doculect-69-859,iris1253-std,concepticon-1850,6.24,canach,cotton,canach
+clics-doculect-69-860,iris1253-std,concepticon-1641,6.25,síoda,silk,sioda
+clics-doculect-69-861,iris1253-std,concepticon-325,6.27,feilt,felt,feilt
+clics-doculect-69-862,iris1253-std,concepticon-580,6.28,fionnadh,fur,fionnadh
+clics-doculect-69-863,iris1253-std,concepticon-580,6.28,clúmh,fur,clumh
+clics-doculect-69-864,iris1253-std,concepticon-629,6.29,leathar,leather,leathar
+clics-doculect-69-865,iris1253-std,concepticon-121,6.31,sníomh,spin,sniomh
+clics-doculect-69-866,iris1253-std,concepticon-277,6.32,fearsaid,spindle,fearsaid
+clics-doculect-69-867,iris1253-std,concepticon-277,6.32,eiteán,spindle,eitean
+clics-doculect-69-868,iris1253-std,concepticon-277,6.32,mol,spindle,mol
+clics-doculect-69-869,iris1253-std,concepticon-277,6.32,próiste,spindle,proiste
+clics-doculect-69-870,iris1253-std,concepticon-133,6.33,figh,weave,figh
+clics-doculect-69-871,iris1253-std,concepticon-1787,6.34,seol,loom,seol
+clics-doculect-69-872,iris1253-std,concepticon-1457,6.35,fuaigh,sew,fuaigh
+clics-doculect-69-873,iris1253-std,concepticon-1382,6.36,snáthaid,needle,snathaid
+clics-doculect-69-874,iris1253-std,concepticon-1382,6.36,biorán,needle,bioran
+clics-doculect-69-875,iris1253-std,concepticon-1382,6.36,dealgán,needle,dealgan
+clics-doculect-69-876,iris1253-std,concepticon-278,6.37,meana,awl,meana
+clics-doculect-69-877,iris1253-std,concepticon-1161,6.38,snáth,thread,snath
+clics-doculect-69-878,iris1253-std,concepticon-1161,6.38,snáithe,thread,snaithe
+clics-doculect-69-879,iris1253-std,concepticon-1161,6.38,ruainne,thread,ruainne
+clics-doculect-69-880,iris1253-std,concepticon-157,6.39,dathaigh,dye,dathaigh
+clics-doculect-69-881,iris1253-std,concepticon-157,6.39,ruaimnigh,dye,ruaimnigh
+clics-doculect-69-882,iris1253-std,concepticon-326,6.41,clóca,cloak,cloca
+clics-doculect-69-883,iris1253-std,concepticon-326,6.41,brat,cloak,brat
+clics-doculect-69-884,iris1253-std,concepticon-326,6.41,fallaing,cloak,fallaing
+clics-doculect-69-885,iris1253-std,concepticon-474,6.42,gúna,woman's dress,guna
+clics-doculect-69-886,iris1253-std,concepticon-474,6.42,culaith,woman's dress,culaith
+clics-doculect-69-887,iris1253-std,concepticon-603,6.43,cóta,coat,cota
+clics-doculect-69-888,iris1253-std,concepticon-603,6.43,cótamór,coat,cotamor
+clics-doculect-69-889,iris1253-std,concepticon-603,6.43,seaicéad,coat,seaicead
+clics-doculect-69-890,iris1253-std,concepticon-603,6.43,casóg,coat,casog
+clics-doculect-69-891,iris1253-std,concepticon-1622,6.44,léine,shirt,leine
+clics-doculect-69-892,iris1253-std,concepticon-2012,6.45,bóna,collar,bona
+clics-doculect-69-893,iris1253-std,concepticon-2012,6.45,coiléar,collar,coilear
+clics-doculect-69-894,iris1253-std,concepticon-2012,6.45,muince,collar,muince
+clics-doculect-69-895,iris1253-std,concepticon-1600,6.46,sciorta,skirt,sciorta
+clics-doculect-69-896,iris1253-std,concepticon-809,6.48,bríste,trousers,briste
+clics-doculect-69-897,iris1253-std,concepticon-809,6.48,treabhsar,trousers,treabhsar
+clics-doculect-69-898,iris1253-std,concepticon-809,6.48,triús,trousers,trius
+clics-doculect-69-899,iris1253-std,concepticon-329,6.49,stocagearr,"stocking, sock",stocagearr
+clics-doculect-69-900,iris1253-std,concepticon-329,6.49,giosán,"stocking, sock",giosan
+clics-doculect-69-901,iris1253-std,concepticon-1381,6.51,bróg,shoe,brog
+clics-doculect-69-902,iris1253-std,concepticon-585,6.52,buatais,boot,buatais
+clics-doculect-69-903,iris1253-std,concepticon-585,6.52,bróg,boot,brog
+clics-doculect-69-904,iris1253-std,concepticon-875,6.54,gréasaí,"shoemaker, cobbler",greasai
+clics-doculect-69-905,iris1253-std,concepticon-875,6.54,caibléir,"shoemaker, cobbler",caibleir
+clics-doculect-69-906,iris1253-std,concepticon-2130,6.55,hata,"hat, cap",hata
+clics-doculect-69-907,iris1253-std,concepticon-2130,6.55,caipín,"hat, cap",caipin
+clics-doculect-69-908,iris1253-std,concepticon-2130,6.55,bairéad,"hat, cap",bairead
+clics-doculect-69-909,iris1253-std,concepticon-772,6.57,crios,"belt, girdle",crios
+clics-doculect-69-910,iris1253-std,concepticon-867,6.58,lámhainn,glove,lamhainn
+clics-doculect-69-911,iris1253-std,concepticon-867,6.58,miotóg,glove,miotog
+clics-doculect-69-912,iris1253-std,concepticon-867,6.58,mitín,glove,mitin
+clics-doculect-69-913,iris1253-std,concepticon-1151,6.59,fial,veil,fial
+clics-doculect-69-914,iris1253-std,concepticon-1151,6.59,caille,veil,caille
+clics-doculect-69-915,iris1253-std,concepticon-1851,6.61,póca,pocket,poca
+clics-doculect-69-916,iris1253-std,concepticon-757,6.62,cnaipe,button,cnaipe
+clics-doculect-69-917,iris1253-std,concepticon-64,6.63,biorán,pin,bioran
+clics-doculect-69-918,iris1253-std,concepticon-64,6.63,dealg,pin,dealg
+clics-doculect-69-919,iris1253-std,concepticon-64,6.63,pionna,pin,pionna
+clics-doculect-69-920,iris1253-std,concepticon-917,6.71,maisiú,"ornament, adornment",maisiu
+clics-doculect-69-921,iris1253-std,concepticon-917,6.71,maise,"ornament, adornment",maise
+clics-doculect-69-922,iris1253-std,concepticon-917,6.71,maisiúchán,"ornament, adornment",maisiuchan
+clics-doculect-69-923,iris1253-std,concepticon-917,6.71,ornáideacht,"ornament, adornment",ornaideacht
+clics-doculect-69-924,iris1253-std,concepticon-917,6.71,ornaíocht,"ornament, adornment",ornaiocht
+clics-doculect-69-925,iris1253-std,concepticon-917,6.71,cóiriú,"ornament, adornment",coiriu
+clics-doculect-69-926,iris1253-std,concepticon-1029,6.72,seoid,jewel,seoid
+clics-doculect-69-927,iris1253-std,concepticon-1029,6.72,geam,jewel,geam
+clics-doculect-69-928,iris1253-std,concepticon-1029,6.72,clochbhua,jewel,clochbhua
+clics-doculect-69-929,iris1253-std,concepticon-1029,6.72,clochlómhar,jewel,clochlomhar
+clics-doculect-69-930,iris1253-std,concepticon-1029,6.72,clochluachmhar,jewel,clochluachmhar
+clics-doculect-69-931,iris1253-std,concepticon-1029,6.72,clochuasal,jewel,clochuasal
+clics-doculect-69-932,iris1253-std,concepticon-1374,6.73,fáinne,ring (for finger),fainne
+clics-doculect-69-933,iris1253-std,concepticon-1754,6.74,bráisléad,bracelet,braislead
+clics-doculect-69-934,iris1253-std,concepticon-1961,6.75,muince,necklace,muince
+clics-doculect-69-935,iris1253-std,concepticon-1961,6.75,bráisléadbrád,necklace,braisleadbrad
+clics-doculect-69-936,iris1253-std,concepticon-1860,6.76,cloch,bead,cloch
+clics-doculect-69-937,iris1253-std,concepticon-1860,6.76,cloichín,bead,cloichin
+clics-doculect-69-938,iris1253-std,concepticon-1860,6.76,coirnín,bead,coirnin
+clics-doculect-69-939,iris1253-std,concepticon-770,6.77,fáinnecluaise,earring,fainnecluaise
+clics-doculect-69-940,iris1253-std,concepticon-770,6.77,cnaipecluaise,earring,cnaipecluaise
+clics-doculect-69-941,iris1253-std,concepticon-68,6.79,tatú,tattoo,tatu
+clics-doculect-69-942,iris1253-std,concepticon-332,6.81,ciarsúr,"handkerchief, rag",ciarsur
+clics-doculect-69-943,iris1253-std,concepticon-332,6.81,naipcínpóca,"handkerchief, rag",naipcinpoca
+clics-doculect-69-944,iris1253-std,concepticon-1021,6.82,tuáille,towel,tuaille
+clics-doculect-69-945,iris1253-std,concepticon-1475,6.91,cíor,comb,cior
+clics-doculect-69-946,iris1253-std,concepticon-1475,6.91,raca,comb,raca
+clics-doculect-69-947,iris1253-std,concepticon-1821,6.92,bruis,brush,bruis
+clics-doculect-69-948,iris1253-std,concepticon-1821,6.92,scuab,brush,scuab
+clics-doculect-69-949,iris1253-std,concepticon-333,6.921,trilsigh,braid,trilsigh
+clics-doculect-69-950,iris1253-std,concepticon-333,6.921,dual,braid,dual
+clics-doculect-69-951,iris1253-std,concepticon-151,6.93,rásúr,razor,rasur
+clics-doculect-69-952,iris1253-std,concepticon-1926,6.94,ungadh,ointment,ungadh
+clics-doculect-69-953,iris1253-std,concepticon-788,6.95,gallúnach,soap,gallunach
+clics-doculect-69-954,iris1253-std,concepticon-1171,6.96,scáthán,mirror,scathan
+clics-doculect-69-955,iris1253-std,concepticon-363,7.11,cónaigh,"dwell, live",conaigh
+clics-doculect-69-956,iris1253-std,concepticon-363,7.11,áitigh,"dwell, live",aitigh
+clics-doculect-69-957,iris1253-std,concepticon-1252,7.12,teach,house,teach
+clics-doculect-69-958,iris1253-std,concepticon-1252,7.12,áras,house,aras
+clics-doculect-69-959,iris1253-std,concepticon-1678,7.13,both,hut,both
+clics-doculect-69-960,iris1253-std,concepticon-1678,7.13,bothán,hut,bothan
+clics-doculect-69-961,iris1253-std,concepticon-1678,7.13,púirín,hut,puirin
+clics-doculect-69-962,iris1253-std,concepticon-1678,7.13,bráca,hut,braca
+clics-doculect-69-963,iris1253-std,concepticon-1316,7.14,puball,tent,puball
+clics-doculect-69-964,iris1253-std,concepticon-736,7.15,clós,"yard, court",clos
+clics-doculect-69-965,iris1253-std,concepticon-334,7.17,cistin,cookhouse,cistin
+clics-doculect-69-966,iris1253-std,concepticon-1450,7.21,seomra,room,seomra
+clics-doculect-69-967,iris1253-std,concepticon-1567,7.22,doras,"door, gate",doras
+clics-doculect-69-968,iris1253-std,concepticon-1567,7.22,geata,"door, gate",geata
+clics-doculect-69-969,iris1253-std,concepticon-80,7.221,ursain,"doorpost, jamb",ursain
+clics-doculect-69-970,iris1253-std,concepticon-1596,7.23,glas,lock (noun),glas
+clics-doculect-69-971,iris1253-std,concepticon-1012,7.231,laiste,"latch, door-bolt",laiste
+clics-doculect-69-972,iris1253-std,concepticon-1012,7.231,bolta,"latch, door-bolt",bolta
+clics-doculect-69-973,iris1253-std,concepticon-1472,7.24,eochair,key,eochair
+clics-doculect-69-974,iris1253-std,concepticon-1375,7.25,fuinneog,window,fuinneog
+clics-doculect-69-975,iris1253-std,concepticon-1632,7.26,urlár,floor,urlar
+clics-doculect-69-976,iris1253-std,concepticon-933,7.27,balla,wall,balla
+clics-doculect-69-977,iris1253-std,concepticon-933,7.27,múr,wall,mur
+clics-doculect-69-978,iris1253-std,concepticon-185,7.31,teallach,fireplace,teallach
+clics-doculect-69-979,iris1253-std,concepticon-185,7.31,iarta,fireplace,iarta
+clics-doculect-69-980,iris1253-std,concepticon-859,7.32,sornóg,stove,sornog
+clics-doculect-69-981,iris1253-std,concepticon-1305,7.33,simléar,chimney,simlear
+clics-doculect-69-982,iris1253-std,concepticon-1464,7.37,dréimire,ladder,dreimire
+clics-doculect-69-983,iris1253-std,concepticon-1663,7.42,leaba,bed,leaba
+clics-doculect-69-984,iris1253-std,concepticon-1044,7.421,adhairt,pillow,adhairt
+clics-doculect-69-985,iris1253-std,concepticon-1044,7.421,pilliúr,pillow,pilliur
+clics-doculect-69-986,iris1253-std,concepticon-806,7.422,blaincéad,blanket,blaincead
+clics-doculect-69-987,iris1253-std,concepticon-806,7.422,pluid,blanket,pluid
+clics-doculect-69-988,iris1253-std,concepticon-806,7.422,súsa,blanket,susa
+clics-doculect-69-989,iris1253-std,concepticon-1476,7.43,cathaoir,chair,cathaoir
+clics-doculect-69-990,iris1253-std,concepticon-1775,7.44,bórd,table,bord
+clics-doculect-69-991,iris1253-std,concepticon-1775,7.44,tábla,table,tabla
+clics-doculect-69-992,iris1253-std,concepticon-2131,7.45,lóchrann,"lamp, torch",lochrann
+clics-doculect-69-993,iris1253-std,concepticon-2131,7.45,lampa,"lamp, torch",lampa
+clics-doculect-69-994,iris1253-std,concepticon-2131,7.45,solas,"lamp, torch",solas
+clics-doculect-69-995,iris1253-std,concepticon-1273,7.46,coinneal,candle,coinneal
+clics-doculect-69-996,iris1253-std,concepticon-745,7.47,seilf,shelf,seilf
+clics-doculect-69-997,iris1253-std,concepticon-205,7.48,umar,trough,umar
+clics-doculect-69-998,iris1253-std,concepticon-205,7.48,trach,trough,trach
+clics-doculect-69-999,iris1253-std,concepticon-205,7.48,dabhach,trough,dabhach
+clics-doculect-69-1000,iris1253-std,concepticon-769,7.51,díon,roof,dion
+clics-doculect-69-1001,iris1253-std,concepticon-769,7.51,ceann,roof,ceann
+clics-doculect-69-1002,iris1253-std,concepticon-279,7.52,ceanntuí,thatch,ceanntui
+clics-doculect-69-1003,iris1253-std,concepticon-280,7.53,maidemullaigh,ridgepole,maidemullaigh
+clics-doculect-69-1004,iris1253-std,concepticon-829,7.54,rachta,rafter,rachta
+clics-doculect-69-1005,iris1253-std,concepticon-1132,7.55,sail,beam,sail
+clics-doculect-69-1006,iris1253-std,concepticon-1132,7.55,bíoma,beam,bioma
+clics-doculect-69-1007,iris1253-std,concepticon-281,7.56,cuaille,"post, pole",cuaille
+clics-doculect-69-1008,iris1253-std,concepticon-281,7.56,cleith,"post, pole",cleith
+clics-doculect-69-1009,iris1253-std,concepticon-281,7.56,crann,"post, pole",crann
+clics-doculect-69-1010,iris1253-std,concepticon-281,7.56,liúr,"post, pole",liur
+clics-doculect-69-1011,iris1253-std,concepticon-1227,7.57,clár,board,clar
+clics-doculect-69-1012,iris1253-std,concepticon-876,7.58,áirse,arch,airse
+clics-doculect-69-1013,iris1253-std,concepticon-877,7.61,saor,mason,saor
+clics-doculect-69-1014,iris1253-std,concepticon-1006,7.62,bríce,brick,brice
+clics-doculect-69-1015,iris1253-std,concepticon-224,7.63,moirtéal,mortar,moirteal
+clics-doculect-69-1016,iris1253-std,concepticon-979,8.11,feirmeoir,farmer,feirmeoir
+clics-doculect-69-1017,iris1253-std,concepticon-979,8.11,talmhaí,farmer,talmhai
+clics-doculect-69-1018,iris1253-std,concepticon-212,8.12,gort,field (for cultivation),gort
+clics-doculect-69-1019,iris1253-std,concepticon-212,8.12,cuibhreann,field (for cultivation),cuibhreann
+clics-doculect-69-1020,iris1253-std,concepticon-212,8.12,garraí,field (for cultivation),garrai
+clics-doculect-69-1021,iris1253-std,concepticon-586,8.13,gairdín,garden,gairdin
+clics-doculect-69-1022,iris1253-std,concepticon-586,8.13,garraí,garden,garrai
+clics-doculect-69-1023,iris1253-std,concepticon-1541,8.15,saothraigh,"cultivate, till",saothraigh
+clics-doculect-69-1024,iris1253-std,concepticon-1541,8.15,curadóireacht,"cultivate, till",curadoireacht
+clics-doculect-69-1025,iris1253-std,concepticon-1690,8.16,claí,fence,clai
+clics-doculect-69-1026,iris1253-std,concepticon-1690,8.16,fál,fence,fal
+clics-doculect-69-1027,iris1253-std,concepticon-1690,8.16,sconsa,fence,sconsa
+clics-doculect-69-1028,iris1253-std,concepticon-1690,8.16,pionsa,fence,pionsa
+clics-doculect-69-1029,iris1253-std,concepticon-2002,8.17,díog,ditch,diog
+clics-doculect-69-1030,iris1253-std,concepticon-2002,8.17,clais,ditch,clais
+clics-doculect-69-1031,iris1253-std,concepticon-2002,8.17,sconsa,ditch,sconsa
+clics-doculect-69-1032,iris1253-std,concepticon-2002,8.17,claí,ditch,clai
+clics-doculect-69-1033,iris1253-std,concepticon-1921,8.21,céachta,plow,ceachta
+clics-doculect-69-1034,iris1253-std,concepticon-1921,8.21,seisreach,plow,seisreach
+clics-doculect-69-1035,iris1253-std,concepticon-1921,8.21,treabh,plow,treabh
+clics-doculect-69-1036,iris1253-std,concepticon-1794,8.212,clais,furrow,clais
+clics-doculect-69-1037,iris1253-std,concepticon-1794,8.212,eitre,furrow,eitre
+clics-doculect-69-1038,iris1253-std,concepticon-1794,8.212,iomaire,furrow,iomaire
+clics-doculect-69-1039,iris1253-std,concepticon-1418,8.22,tochail,dig,tochail
+clics-doculect-69-1040,iris1253-std,concepticon-1418,8.22,rómhair,dig,romhair
+clics-doculect-69-1041,iris1253-std,concepticon-1418,8.22,bain,dig,bain
+clics-doculect-69-1042,iris1253-std,concepticon-1176,8.23,láí,spade,lai
+clics-doculect-69-1043,iris1253-std,concepticon-1176,8.23,rámhainn,spade,ramhainn
+clics-doculect-69-1044,iris1253-std,concepticon-1176,8.23,spád,spade,spad
+clics-doculect-69-1045,iris1253-std,concepticon-1901,8.24,sluasaid,shovel,sluasaid
+clics-doculect-69-1046,iris1253-std,concepticon-284,8.25,grafán,hoe,grafan
+clics-doculect-69-1047,iris1253-std,concepticon-284,8.25,grafóg,hoe,grafog
+clics-doculect-69-1048,iris1253-std,concepticon-337,8.26,píce,fork,pice
+clics-doculect-69-1049,iris1253-std,concepticon-337,8.26,forc,fork,forc
+clics-doculect-69-1050,iris1253-std,concepticon-338,8.27,raca,rake,raca
+clics-doculect-69-1051,iris1253-std,concepticon-1351,8.31,cuirimsíol,sow,cuirimsiol
+clics-doculect-69-1052,iris1253-std,concepticon-714,8.311,síol,seed,siol
+clics-doculect-69-1053,iris1253-std,concepticon-190,8.32,bain,"mow, reap",bain
+clics-doculect-69-1054,iris1253-std,concepticon-190,8.32,buain,"mow, reap",buain
+clics-doculect-69-1055,iris1253-std,concepticon-190,8.32,lom,"mow, reap",lom
+clics-doculect-69-1056,iris1253-std,concepticon-190,8.32,speal,"mow, reap",speal
+clics-doculect-69-1057,iris1253-std,concepticon-2132,8.33,corrán,"sickle, scythe",corran
+clics-doculect-69-1058,iris1253-std,concepticon-2132,8.33,speal,"sickle, scythe",speal
+clics-doculect-69-1059,iris1253-std,concepticon-285,8.34,buailim,thresh,buailim
+clics-doculect-69-1060,iris1253-std,concepticon-285,8.34,súisteáil,thresh,suisteail
+clics-doculect-69-1061,iris1253-std,concepticon-223,8.35,urlárbuailte,threshing-floor,urlarbuailte
+clics-doculect-69-1062,iris1253-std,concepticon-611,8.41,barr,"crop, harvest",barr
+clics-doculect-69-1063,iris1253-std,concepticon-611,8.41,toradh,"crop, harvest",toradh
+clics-doculect-69-1064,iris1253-std,concepticon-611,8.41,fómhar,"crop, harvest",fomhar
+clics-doculect-69-1065,iris1253-std,concepticon-605,8.42,arbhar,"grain (barley, oats etc)",arbhar
+clics-doculect-69-1066,iris1253-std,concepticon-1077,8.43,cruithneacht,wheat,cruithneacht
+clics-doculect-69-1067,iris1253-std,concepticon-932,8.44,eorna,barley,eorna
+clics-doculect-69-1068,iris1253-std,concepticon-23,8.45,seagal,rye,seagal
+clics-doculect-69-1069,iris1253-std,concepticon-60,8.46,coirce,oats,coirce
+clics-doculect-69-1070,iris1253-std,concepticon-506,8.47,minbhuí,"maize, corn",minbhui
+clics-doculect-69-1071,iris1253-std,concepticon-506,8.47,arbharIndiach,"maize, corn",arbharIndiach
+clics-doculect-69-1072,iris1253-std,concepticon-926,8.48,rís,rice,ris
+clics-doculect-69-1073,iris1253-std,concepticon-606,8.51,féar,grass,fear
+clics-doculect-69-1074,iris1253-std,concepticon-342,8.52,féar,hay,fear
+clics-doculect-69-1075,iris1253-std,concepticon-342,8.52,féartirim,hay,feartirim
+clics-doculect-69-1076,iris1253-std,concepticon-653,8.53,plannda,plant (noun),plannda
+clics-doculect-69-1077,iris1253-std,concepticon-653,8.53,luibh,plant (noun),luibh
+clics-doculect-69-1078,iris1253-std,concepticon-653,8.53,lus,plant (noun),lus
+clics-doculect-69-1079,iris1253-std,concepticon-1486,8.531,cuir,plant (vb),cuir
+clics-doculect-69-1080,iris1253-std,concepticon-670,8.54,fréamh,root,freamh
+clics-doculect-69-1081,iris1253-std,concepticon-670,8.54,rúta,root,ruta
+clics-doculect-69-1082,iris1253-std,concepticon-1531,8.55,géag,branch,geag
+clics-doculect-69-1083,iris1253-std,concepticon-1531,8.55,craobh,branch,craobh
+clics-doculect-69-1084,iris1253-std,concepticon-1531,8.55,brainse,branch,brainse
+clics-doculect-69-1085,iris1253-std,concepticon-628,8.56,duilleog,leaf,duilleog
+clics-doculect-69-1086,iris1253-std,concepticon-628,8.56,bileog,leaf,bileog
+clics-doculect-69-1087,iris1253-std,concepticon-239,8.57,bláth,flower,blath
+clics-doculect-69-1088,iris1253-std,concepticon-239,8.57,plúr,flower,plur
+clics-doculect-69-1089,iris1253-std,concepticon-239,8.57,pósae,flower,posae
+clics-doculect-69-1090,iris1253-std,concepticon-239,8.57,scoth,flower,scoth
+clics-doculect-69-1091,iris1253-std,concepticon-906,8.6,crann,tree,crann
+clics-doculect-69-1092,iris1253-std,concepticon-906,8.6,bile,tree,bile
+clics-doculect-69-1093,iris1253-std,concepticon-644,8.61,dair,oak,dair
+clics-doculect-69-1094,iris1253-std,concepticon-1950,8.62,feá,beech,fea
+clics-doculect-69-1095,iris1253-std,concepticon-1950,8.62,fáibhile,beech,faibhile
+clics-doculect-69-1096,iris1253-std,concepticon-1855,8.63,beith,birch,beith
+clics-doculect-69-1097,iris1253-std,concepticon-1740,8.64,giúis,pine,giuis
+clics-doculect-69-1098,iris1253-std,concepticon-1740,8.64,péine,pine,peine
+clics-doculect-69-1099,iris1253-std,concepticon-1915,8.65,giúis,fir,giuis
+clics-doculect-69-1100,iris1253-std,concepticon-968,8.66,dearcán,acorn,dearcan
+clics-doculect-69-1101,iris1253-std,concepticon-343,8.67,fíniúin,vine,finiuin
+clics-doculect-69-1102,iris1253-std,concepticon-343,8.67,féithleog,vine,feithleog
+clics-doculect-69-1103,iris1253-std,concepticon-974,8.68,tobac,tobacco,tobac
+clics-doculect-69-1104,iris1253-std,concepticon-1689,8.69,caithimtobac,smoke (tobacco),caithimtobac
+clics-doculect-69-1105,iris1253-std,concepticon-1689,8.69,ólaimtobac,smoke (tobacco),olaimtobac
+clics-doculect-69-1106,iris1253-std,concepticon-1124,8.691,píopa,pipe,piopa
+clics-doculect-69-1107,iris1253-std,concepticon-241,8.72,grágán,tree stump,gragan
+clics-doculect-69-1108,iris1253-std,concepticon-241,8.72,stocán,tree stump,stocan
+clics-doculect-69-1109,iris1253-std,concepticon-241,8.72,bun,tree stump,bun
+clics-doculect-69-1110,iris1253-std,concepticon-344,8.73,corp,tree trunk,corp
+clics-doculect-69-1111,iris1253-std,concepticon-344,8.73,stoc,tree trunk,stoc
+clics-doculect-69-1112,iris1253-std,concepticon-409,8.74,gabhal,forked branch,gabhal
+clics-doculect-69-1113,iris1253-std,concepticon-1204,8.75,coirt,bark,coirt
+clics-doculect-69-1114,iris1253-std,concepticon-1204,8.75,rúsc,bark,rusc
+clics-doculect-69-1115,iris1253-std,concepticon-345,8.76,sú,sap,su
+clics-doculect-69-1116,iris1253-std,concepticon-345,8.76,súlach,sap,sulach
+clics-doculect-69-1117,iris1253-std,concepticon-1181,8.81,pailm,palm tree,pailm
+clics-doculect-69-1118,iris1253-std,concepticon-970,8.82,cnócócó,coconut,cnococo
+clics-doculect-69-1119,iris1253-std,concepticon-1126,8.83,ciotras,citrus fruit,ciotras
+clics-doculect-69-1120,iris1253-std,concepticon-868,8.84,crannbananaí,banana tree,crannbananai
+clics-doculect-69-1121,iris1253-std,concepticon-159,8.91,prátaSpáinneach,sweet potato,prataSpainneach
+clics-doculect-69-1122,iris1253-std,concepticon-410,8.912,ionam,yam,ionam
+clics-doculect-69-1123,iris1253-std,concepticon-925,8.92,taipióca,"tapioca, manioc, cassava",taipioca
+clics-doculect-69-1124,iris1253-std,concepticon-411,8.93,gurd,gourd,gurd
+clics-doculect-69-1125,iris1253-std,concepticon-864,8.931,puimcín,"pumpkin, squash",puimcin
+clics-doculect-69-1126,iris1253-std,concepticon-1927,8.94,bambú,bamboo,bambu
+clics-doculect-69-1127,iris1253-std,concepticon-146,8.941,cánasiúcra,sugar cane,canasiucra
+clics-doculect-69-1128,iris1253-std,concepticon-33,8.97,neantóg,nettle,neantog
+clics-doculect-69-1129,iris1253-std,concepticon-641,8.98,beacán,mushroom,beacan
+clics-doculect-69-1130,iris1253-std,concepticon-641,8.98,muisiriún,mushroom,muisiriun
+clics-doculect-69-1131,iris1253-std,concepticon-2575,9.11,déan,"do, make",dean
+clics-doculect-69-1132,iris1253-std,concepticon-984,9.12,obair,work,obair
+clics-doculect-69-1133,iris1253-std,concepticon-984,9.12,saothar,work,saothar
+clics-doculect-69-1134,iris1253-std,concepticon-2004,9.14,claon,bend,claon
+clics-doculect-69-1135,iris1253-std,concepticon-2004,9.14,crom,bend,crom
+clics-doculect-69-1136,iris1253-std,concepticon-2004,9.14,fiar,bend,fiar
+clics-doculect-69-1137,iris1253-std,concepticon-2004,9.14,fill,bend,fill
+clics-doculect-69-1138,iris1253-std,concepticon-2004,9.14,lúb,bend,lub
+clics-doculect-69-1139,iris1253-std,concepticon-2004,9.14,cam,bend,cam
+clics-doculect-69-1140,iris1253-std,concepticon-2004,9.14,feac,bend,feac
+clics-doculect-69-1141,iris1253-std,concepticon-1470,9.15,fill,fold,fill
+clics-doculect-69-1142,iris1253-std,concepticon-1917,9.16,ceangail,"tie, bind",ceangail
+clics-doculect-69-1143,iris1253-std,concepticon-1917,9.16,naisc,"tie, bind",naisc
+clics-doculect-69-1144,iris1253-std,concepticon-352,9.161,scaoil,untie,scaoil
+clics-doculect-69-1145,iris1253-std,concepticon-1627,9.18,slabhra,chain,slabhra
+clics-doculect-69-1146,iris1253-std,concepticon-1218,9.19,téad,"rope, cord",tead
+clics-doculect-69-1147,iris1253-std,concepticon-1218,9.19,rópa,"rope, cord",ropa
+clics-doculect-69-1148,iris1253-std,concepticon-1218,9.19,corda,"rope, cord",corda
+clics-doculect-69-1149,iris1253-std,concepticon-760,9.192,snaidhm,knot (noun),snaidhm
+clics-doculect-69-1150,iris1253-std,concepticon-2133,9.21,buail,"strike (hit, beat)",buail
+clics-doculect-69-1151,iris1253-std,concepticon-354,9.211,brúigh,pound with fist,bruigh
+clics-doculect-69-1152,iris1253-std,concepticon-354,9.211,tuairteáil,pound with fist,tuairteail
+clics-doculect-69-1153,iris1253-std,concepticon-354,9.211,tuargain,pound with fist,tuargain
+clics-doculect-69-1154,iris1253-std,concepticon-354,9.211,smíst,pound with fist,smist
+clics-doculect-69-1155,iris1253-std,concepticon-1432,9.22,scor,cut,scor
+clics-doculect-69-1156,iris1253-std,concepticon-1432,9.22,bearr,cut,bearr
+clics-doculect-69-1157,iris1253-std,concepticon-1432,9.22,gearr,cut,gearr
+clics-doculect-69-1158,iris1253-std,concepticon-1432,9.22,ciorraigh,cut,ciorraigh
+clics-doculect-69-1159,iris1253-std,concepticon-1432,9.22,snoigh,cut,snoigh
+clics-doculect-69-1160,iris1253-std,concepticon-355,9.221,gearranuas,cut down,gearranuas
+clics-doculect-69-1161,iris1253-std,concepticon-355,9.221,bain,cut down,bain
+clics-doculect-69-1162,iris1253-std,concepticon-355,9.221,treascair,cut down,treascair
+clics-doculect-69-1163,iris1253-std,concepticon-355,9.221,leag,cut down,leag
+clics-doculect-69-1164,iris1253-std,concepticon-155,9.222,gearr,"chop, hew",gearr
+clics-doculect-69-1165,iris1253-std,concepticon-155,9.222,mionghearr,"chop, hew",mionghearr
+clics-doculect-69-1166,iris1253-std,concepticon-155,9.222,smiot,"chop, hew",smiot
+clics-doculect-69-1167,iris1253-std,concepticon-1434,9.223,sáigh,stab,saigh
+clics-doculect-69-1168,iris1253-std,concepticon-1434,9.223,goin,stab,goin
+clics-doculect-69-1169,iris1253-std,concepticon-1434,9.223,rop,stab,rop
+clics-doculect-69-1170,iris1253-std,concepticon-1352,9.23,scian,knife,scian
+clics-doculect-69-1171,iris1253-std,concepticon-356,9.24,siosúr,"scissors, shears",siosur
+clics-doculect-69-1172,iris1253-std,concepticon-356,9.24,deimheas,"scissors, shears",deimheas
+clics-doculect-69-1173,iris1253-std,concepticon-677,9.25,tua,ax,tua
+clics-doculect-69-1174,iris1253-std,concepticon-677,9.25,biail,ax,biail
+clics-doculect-69-1175,iris1253-std,concepticon-290,9.251,tál,adze,tal
+clics-doculect-69-1176,iris1253-std,concepticon-680,9.26,bris,break,bris
+clics-doculect-69-1177,iris1253-std,concepticon-588,9.261,briste,broken,briste
+clics-doculect-69-1178,iris1253-std,concepticon-1437,9.27,scoilt,split,scoilt
+clics-doculect-69-1179,iris1253-std,concepticon-1437,9.27,scáin,split,scain
+clics-doculect-69-1180,iris1253-std,concepticon-1735,9.28,réab,tear,reab
+clics-doculect-69-1181,iris1253-std,concepticon-1735,9.28,rois,tear,rois
+clics-doculect-69-1182,iris1253-std,concepticon-1735,9.28,stróic,tear,stroic
+clics-doculect-69-1183,iris1253-std,concepticon-1735,9.28,srac,tear,srac
+clics-doculect-69-1184,iris1253-std,concepticon-291,9.29,feann,"flay, skin",feann
+clics-doculect-69-1185,iris1253-std,concepticon-291,9.29,scean,"flay, skin",scean
+clics-doculect-69-1186,iris1253-std,concepticon-291,9.29,sclamh,"flay, skin",sclamh
+clics-doculect-69-1187,iris1253-std,concepticon-1449,9.31,cuimil,"rub, wipe",cuimil
+clics-doculect-69-1188,iris1253-std,concepticon-1449,9.31,slíoc,"rub, wipe",slioc
+clics-doculect-69-1189,iris1253-std,concepticon-1449,9.31,slíob,"rub, wipe",sliob
+clics-doculect-69-1190,iris1253-std,concepticon-214,9.32,sín,stretch,sin
+clics-doculect-69-1191,iris1253-std,concepticon-214,9.32,searr,stretch,searr
+clics-doculect-69-1192,iris1253-std,concepticon-214,9.32,tarraing,stretch,tarraing
+clics-doculect-69-1193,iris1253-std,concepticon-214,9.32,righ,stretch,righ
+clics-doculect-69-1194,iris1253-std,concepticon-1455,9.33,tarraing,pull,tarraing
+clics-doculect-69-1195,iris1253-std,concepticon-1455,9.33,srac,pull,srac
+clics-doculect-69-1196,iris1253-std,concepticon-1455,9.33,sraon,pull,sraon
+clics-doculect-69-1197,iris1253-std,concepticon-1455,9.33,stoith,pull,stoith
+clics-doculect-69-1198,iris1253-std,concepticon-38,9.34,leath,spread out,leath
+clics-doculect-69-1199,iris1253-std,concepticon-38,9.34,scar,spread out,scar
+clics-doculect-69-1200,iris1253-std,concepticon-38,9.34,spréigh,spread out,spreigh
+clics-doculect-69-1201,iris1253-std,concepticon-38,9.34,scaip,spread out,scaip
+clics-doculect-69-1202,iris1253-std,concepticon-38,9.34,síolaigh,spread out,siolaigh
+clics-doculect-69-1203,iris1253-std,concepticon-357,9.341,croch,hang up,croch
+clics-doculect-69-1204,iris1253-std,concepticon-1913,9.342,brúigh,press,bruigh
+clics-doculect-69-1205,iris1253-std,concepticon-1913,9.342,fáisc,press,faisc
+clics-doculect-69-1206,iris1253-std,concepticon-1913,9.342,teann,press,teann
+clics-doculect-69-1207,iris1253-std,concepticon-1414,9.343,fáisc,"squeeze, wring",faisc
+clics-doculect-69-1208,iris1253-std,concepticon-1414,9.343,teann,"squeeze, wring",teann
+clics-doculect-69-1209,iris1253-std,concepticon-1487,9.35,doirt,pour,doirt
+clics-doculect-69-1210,iris1253-std,concepticon-1487,9.35,steall,pour,steall
+clics-doculect-69-1211,iris1253-std,concepticon-1487,9.35,scaird,pour,scaird
+clics-doculect-69-1212,iris1253-std,concepticon-1453,9.36,nigh,wash,nigh
+clics-doculect-69-1213,iris1253-std,concepticon-1453,9.36,folc,wash,folc
+clics-doculect-69-1214,iris1253-std,concepticon-1453,9.36,ionnail,wash,ionnail
+clics-doculect-69-1215,iris1253-std,concepticon-230,9.37,scuab,sweep,scuab
+clics-doculect-69-1216,iris1253-std,concepticon-245,9.38,scuab,broom,scuab
+clics-doculect-69-1217,iris1253-std,concepticon-245,9.38,giolcachshléibhe,broom,giolcachshleibhe
+clics-doculect-69-1218,iris1253-std,concepticon-1361,9.422,ballacra,tool,ballacra
+clics-doculect-69-1219,iris1253-std,concepticon-1361,9.422,gléas,tool,gleas
+clics-doculect-69-1220,iris1253-std,concepticon-1361,9.422,uirlis,tool,uirlis
+clics-doculect-69-1221,iris1253-std,concepticon-1042,9.43,siúinéir,carpenter,siuineir
+clics-doculect-69-1222,iris1253-std,concepticon-1042,9.43,saoradhmaid,carpenter,saoradhmaid
+clics-doculect-69-1223,iris1253-std,concepticon-1840,9.44,tóg,build,tog
+clics-doculect-69-1224,iris1253-std,concepticon-1840,9.44,déan,build,dean
+clics-doculect-69-1225,iris1253-std,concepticon-1501,9.46,toll,bore,toll
+clics-doculect-69-1226,iris1253-std,concepticon-1501,9.46,poll,bore,poll
+clics-doculect-69-1227,iris1253-std,concepticon-46,9.461,tochail,hollow out,tochail
+clics-doculect-69-1228,iris1253-std,concepticon-1948,9.48,sábh,saw,sabh
+clics-doculect-69-1229,iris1253-std,concepticon-1948,9.48,toireasc,saw,toireasc
+clics-doculect-69-1230,iris1253-std,concepticon-1481,9.49,casúr,hammer,casur
+clics-doculect-69-1231,iris1253-std,concepticon-1481,9.49,ord,hammer,ord
+clics-doculect-69-1232,iris1253-std,concepticon-502,9.5,tairne,nail,tairne
+clics-doculect-69-1233,iris1253-std,concepticon-1069,9.56,gliú,glue,gliu
+clics-doculect-69-1234,iris1253-std,concepticon-1069,9.56,glae,glue,glae
+clics-doculect-69-1235,iris1253-std,concepticon-1001,9.6,gabha,"smith, blacksmith",gabha
+clics-doculect-69-1236,iris1253-std,concepticon-288,9.61,gaibhnigh,forge,gaibhnigh
+clics-doculect-69-1237,iris1253-std,concepticon-1648,9.62,inneoin,anvil,inneoin
+clics-doculect-69-1238,iris1253-std,concepticon-211,9.63,teilg,cast (metals),teilg
+clics-doculect-69-1239,iris1253-std,concepticon-1369,9.64,ór,gold,or
+clics-doculect-69-1240,iris1253-std,concepticon-759,9.65,airgead,silver,airgead
+clics-doculect-69-1241,iris1253-std,concepticon-1825,9.66,umha,"copper, bronze",umha
+clics-doculect-69-1242,iris1253-std,concepticon-1825,9.66,copar,"copper, bronze",copar
+clics-doculect-69-1243,iris1253-std,concepticon-621,9.67,iarann,iron,iarann
+clics-doculect-69-1244,iris1253-std,concepticon-627,9.68,luaidhe,lead (noun),luaidhe
+clics-doculect-69-1245,iris1253-std,concepticon-358,9.69,stán,"tin, tinplate",stan
+clics-doculect-69-1246,iris1253-std,concepticon-359,9.71,potaire,potter,potaire
+clics-doculect-69-1247,iris1253-std,concepticon-359,9.71,criadóir,potter,criadoir
+clics-doculect-69-1248,iris1253-std,concepticon-289,9.72,múnlaigh,mold (clay etc),munlaigh
+clics-doculect-69-1249,iris1253-std,concepticon-289,9.72,cum,mold (clay etc),cum
+clics-doculect-69-1250,iris1253-std,concepticon-1399,9.73,cré,clay,cre
+clics-doculect-69-1251,iris1253-std,concepticon-1399,9.73,marla,clay,marla
+clics-doculect-69-1252,iris1253-std,concepticon-604,9.74,gloine,glass,gloine
+clics-doculect-69-1253,iris1253-std,concepticon-1729,9.75,figh,"weave, plait",figh
+clics-doculect-69-1254,iris1253-std,concepticon-1539,9.76,ciseán,basket,cisean
+clics-doculect-69-1255,iris1253-std,concepticon-1539,9.76,cliabh,basket,cliabh
+clics-doculect-69-1256,iris1253-std,concepticon-1539,9.76,bascaed,basket,bascaed
+clics-doculect-69-1257,iris1253-std,concepticon-1539,9.76,muirleog,basket,muirleog
+clics-doculect-69-1258,iris1253-std,concepticon-195,9.77,mata,mat,mata
+clics-doculect-69-1259,iris1253-std,concepticon-195,9.77,cáiteog,mat,caiteog
+clics-doculect-69-1260,iris1253-std,concepticon-292,9.771,ruga,rug,ruga
+clics-doculect-69-1261,iris1253-std,concepticon-292,9.771,súsa,rug,susa
+clics-doculect-69-1262,iris1253-std,concepticon-1971,9.79,fean,fan (noun),fean
+clics-doculect-69-1263,iris1253-std,concepticon-1971,9.79,gaothrán,fan (noun),gaothran
+clics-doculect-69-1264,iris1253-std,concepticon-360,9.791,gaothraigh,fan (vb),gaothraigh
+clics-doculect-69-1265,iris1253-std,concepticon-228,9.81,gearr,carve,gearr
+clics-doculect-69-1266,iris1253-std,concepticon-228,9.81,grean,carve,grean
+clics-doculect-69-1267,iris1253-std,concepticon-228,9.81,snoigh,carve,snoigh
+clics-doculect-69-1268,iris1253-std,concepticon-914,9.82,dealbhóir,sculptor,dealbhoir
+clics-doculect-69-1269,iris1253-std,concepticon-914,9.82,snoíodóir,sculptor,snoiodoir
+clics-doculect-69-1270,iris1253-std,concepticon-1002,9.83,dealbh,statue,dealbh
+clics-doculect-69-1271,iris1253-std,concepticon-1002,9.83,íomhá,statue,iomha
+clics-doculect-69-1272,iris1253-std,concepticon-1979,9.84,siséal,chisel,siseal
+clics-doculect-69-1273,iris1253-std,concepticon-647,9.88,péint,paint (noun),peint
+clics-doculect-69-1274,iris1253-std,concepticon-647,9.88,dath,paint (noun),dath
+clics-doculect-69-1275,iris1253-std,concepticon-2001,9.89,péinteáil,paint (vb),peinteail
+clics-doculect-69-1276,iris1253-std,concepticon-2001,9.89,dathaigh,paint (vb),dathaigh
+clics-doculect-69-1277,iris1253-std,concepticon-765,10.11,corraigh,move,corraigh
+clics-doculect-69-1278,iris1253-std,concepticon-765,10.11,bogadh,move,bogadh
+clics-doculect-69-1279,iris1253-std,concepticon-1588,10.12,iompú,turn over,iompu
+clics-doculect-69-1280,iris1253-std,concepticon-1445,10.13,cas,turn around,cas
+clics-doculect-69-1281,iris1253-std,concepticon-1445,10.13,iompúthart,turn around,iomputhart
+clics-doculect-69-1282,iris1253-std,concepticon-1445,10.13,iompútimpeall,turn around,iomputimpeall
+clics-doculect-69-1283,iris1253-std,concepticon-1113,10.14,fill,"wind, wrap",fill
+clics-doculect-69-1284,iris1253-std,concepticon-1113,10.14,burláil,"wind, wrap",burlail
+clics-doculect-69-1285,iris1253-std,concepticon-1113,10.14,cornadh,"wind, wrap",cornadh
+clics-doculect-69-1286,iris1253-std,concepticon-827,10.15,rolladh,roll,rolladh
+clics-doculect-69-1287,iris1253-std,concepticon-808,10.16,titim,drop (vb),titim
+clics-doculect-69-1288,iris1253-std,concepticon-430,10.17,casadh,twist,casadh
+clics-doculect-69-1289,iris1253-std,concepticon-430,10.17,corachuiri,twist,corachuiri
+clics-doculect-69-1290,iris1253-std,concepticon-568,10.21,éirigh,rise,eirigh
+clics-doculect-69-1291,iris1253-std,concepticon-501,10.22,tóg,"raise, lift",tog
+clics-doculect-69-1292,iris1253-std,concepticon-1280,10.23,titim,fall,titim
+clics-doculect-69-1293,iris1253-std,concepticon-2253,10.24,braon,drip,braon
+clics-doculect-69-1294,iris1253-std,concepticon-2253,10.24,sileán,drip,silean
+clics-doculect-69-1295,iris1253-std,concepticon-1456,10.25,caith,throw,caith
+clics-doculect-69-1296,iris1253-std,concepticon-1456,10.25,teilg,throw,teilg
+clics-doculect-69-1297,iris1253-std,concepticon-702,10.252,ceap,catch (ball),ceap
+clics-doculect-69-1298,iris1253-std,concepticon-702,10.252,breith,catch (ball),breith
+clics-doculect-69-1299,iris1253-std,concepticon-702,10.252,greim,catch (ball),greim
+clics-doculect-69-1300,iris1253-std,concepticon-702,10.252,gabháil,catch (ball),gabhail
+clics-doculect-69-1301,iris1253-std,concepticon-1909,10.26,croith,shake,croith
+clics-doculect-69-1302,iris1253-std,concepticon-2003,10.32,rith,flow,rith
+clics-doculect-69-1303,iris1253-std,concepticon-2003,10.32,sní,flow,sni
+clics-doculect-69-1304,iris1253-std,concepticon-2003,10.32,sileadh,flow,sileadh
+clics-doculect-69-1305,iris1253-std,concepticon-1088,10.33,téighfaoi,sink,teighfaoi
+clics-doculect-69-1306,iris1253-std,concepticon-1088,10.33,báigh,sink,baigh
+clics-doculect-69-1307,iris1253-std,concepticon-1088,10.33,cuirgotóin,sink,cuirgotoin
+clics-doculect-69-1308,iris1253-std,concepticon-1574,10.34,bheitharsnámh,float,bheitharsnamh
+clics-doculect-69-1309,iris1253-std,concepticon-1574,10.34,snámh,float,snamh
+clics-doculect-69-1310,iris1253-std,concepticon-1439,10.35,snámh,swim,snamh
+clics-doculect-69-1311,iris1253-std,concepticon-119,10.351,tum,dive,tum
+clics-doculect-69-1312,iris1253-std,concepticon-365,10.352,steall,splash,steall
+clics-doculect-69-1313,iris1253-std,concepticon-365,10.352,scairdaníos,splash,scairdanios
+clics-doculect-69-1314,iris1253-std,concepticon-787,10.36,seol,sail (vb),seol
+clics-doculect-69-1315,iris1253-std,concepticon-1441,10.37,eitil,fly (vb),eitil
+clics-doculect-69-1316,iris1253-std,concepticon-175,10.38,séid,blow,seid
+clics-doculect-69-1317,iris1253-std,concepticon-96,10.41,snámh,"creep, crawl",snamh
+clics-doculect-69-1318,iris1253-std,concepticon-96,10.41,téaltaigh,"creep, crawl",tealtaigh
+clics-doculect-69-1319,iris1253-std,concepticon-296,10.413,crom,crouch,crom
+clics-doculect-69-1320,iris1253-std,concepticon-296,10.413,cúb,crouch,cub
+clics-doculect-69-1321,iris1253-std,concepticon-296,10.413,téighardochromada,crouch,teighardochromada
+clics-doculect-69-1322,iris1253-std,concepticon-1324,10.42,sleamhnaigh,"slide, slip",sleamhnaigh
+clics-doculect-69-1323,iris1253-std,concepticon-1324,10.42,sciorr,"slide, slip",sciorr
+clics-doculect-69-1324,iris1253-std,concepticon-1829,10.43,léim,"jump, leap",leim
+clics-doculect-69-1325,iris1253-std,concepticon-1829,10.43,ling,"jump, leap",ling
+clics-doculect-69-1326,iris1253-std,concepticon-1135,10.431,cic,kick,cic
+clics-doculect-69-1327,iris1253-std,concepticon-1135,10.431,speach,kick,speach
+clics-doculect-69-1328,iris1253-std,concepticon-1879,10.44,rinnce,dance,rinnce
+clics-doculect-69-1329,iris1253-std,concepticon-1879,10.44,damhsa,dance,damhsa
+clics-doculect-69-1330,iris1253-std,concepticon-1443,10.45,siúl,walk,siul
+clics-doculect-69-1331,iris1253-std,concepticon-366,10.451,bacadaíl,limp,bacadail
+clics-doculect-69-1332,iris1253-std,concepticon-366,10.451,bacadradh,limp,bacadradh
+clics-doculect-69-1333,iris1253-std,concepticon-366,10.451,siúlgobacach,limp,siulgobacach
+clics-doculect-69-1334,iris1253-std,concepticon-1519,10.46,rith,run,rith
+clics-doculect-69-1335,iris1253-std,concepticon-695,10.47,téigh,go,teigh
+clics-doculect-69-1336,iris1253-std,concepticon-705,10.471,téighsuas,go up,teighsuas
+clics-doculect-69-1337,iris1253-std,concepticon-1102,10.472,árdaigh,climb,ardaigh
+clics-doculect-69-1338,iris1253-std,concepticon-2014,10.473,téighsíos,go down,teighsios
+clics-doculect-69-1339,iris1253-std,concepticon-1107,10.474,téighamach,go out,teighamach
+clics-doculect-69-1340,iris1253-std,concepticon-1446,10.48,tig,come,tig
+clics-doculect-69-1341,iris1253-std,concepticon-1446,10.48,tag,come,tag
+clics-doculect-69-1342,iris1253-std,concepticon-581,10.481,tagarais,come back,tagarais
+clics-doculect-69-1343,iris1253-std,concepticon-581,10.481,fill,come back,fill
+clics-doculect-69-1344,iris1253-std,concepticon-581,10.481,pill,come back,pill
+clics-doculect-69-1345,iris1253-std,concepticon-1752,10.49,imigh,"go away, depart",imigh
+clics-doculect-69-1346,iris1253-std,concepticon-485,10.491,imigh,disappear,imigh
+clics-doculect-69-1347,iris1253-std,concepticon-485,10.491,téighasradharc,disappear,teighasradharc
+clics-doculect-69-1348,iris1253-std,concepticon-956,10.51,teith,flee,teith
+clics-doculect-69-1349,iris1253-std,concepticon-1085,10.52,lean,follow,lean
+clics-doculect-69-1350,iris1253-std,concepticon-1047,10.53,dulsatóirar,pursue,dulsatoirar
+clics-doculect-69-1351,iris1253-std,concepticon-1047,10.53,dularthóir,pursue,dularthoir
+clics-doculect-69-1352,iris1253-std,concepticon-1387,10.55,sroich,"reach, arrive",sroich
+clics-doculect-69-1353,iris1253-std,concepticon-1778,10.56,druidle,approach,druidle
+clics-doculect-69-1354,iris1253-std,concepticon-1778,10.56,tarraingar,approach,tarraingar
+clics-doculect-69-1355,iris1253-std,concepticon-749,10.57,téighisteach,enter,teighisteach
+clics-doculect-69-1356,iris1253-std,concepticon-700,10.61,iompair,carry (bear),iompair
+clics-doculect-69-1357,iris1253-std,concepticon-700,10.61,giúlán,carry (bear),giulan
+clics-doculect-69-1358,iris1253-std,concepticon-692,10.62,beir,bring,beir
+clics-doculect-69-1359,iris1253-std,concepticon-1127,10.63,cuir,send,cuir
+clics-doculect-69-1360,iris1253-std,concepticon-43,10.64,giollaigh,lead (vb),giollaigh
+clics-doculect-69-1361,iris1253-std,concepticon-43,10.64,treoraigh,lead (vb),treoraigh
+clics-doculect-69-1362,iris1253-std,concepticon-43,10.64,stiúir,lead (vb),stiuir
+clics-doculect-69-1363,iris1253-std,concepticon-741,10.65,tiomáin,drive,tiomain
+clics-doculect-69-1364,iris1253-std,concepticon-367,10.66,marcaíocht,ride,marcaiocht
+clics-doculect-69-1365,iris1253-std,concepticon-1452,10.67,brúigh,"push, shove",bruigh
+clics-doculect-69-1366,iris1253-std,concepticon-1452,10.67,sáigh,"push, shove",saigh
+clics-doculect-69-1367,iris1253-std,concepticon-667,10.71,bóthar,road,bothar
+clics-doculect-69-1368,iris1253-std,concepticon-667,10.71,bealach,road,bealach
+clics-doculect-69-1369,iris1253-std,concepticon-667,10.71,ród,road,rod
+clics-doculect-69-1370,iris1253-std,concepticon-2252,10.72,cosán,path,cosan
+clics-doculect-69-1371,iris1253-std,concepticon-1011,10.74,droichead,bridge,droichead
+clics-doculect-69-1372,iris1253-std,concepticon-122,10.75,carráiste,"carriage, wagon, cart",carraiste
+clics-doculect-69-1373,iris1253-std,concepticon-122,10.75,carbad,"carriage, wagon, cart",carbad
+clics-doculect-69-1374,iris1253-std,concepticon-122,10.75,cairt,"carriage, wagon, cart",cairt
+clics-doculect-69-1375,iris1253-std,concepticon-122,10.75,carr,"carriage, wagon, cart",carr
+clics-doculect-69-1376,iris1253-std,concepticon-710,10.76,roth,wheel,roth
+clics-doculect-69-1377,iris1253-std,concepticon-1769,10.77,acastóir,axle,acastoir
+clics-doculect-69-1378,iris1253-std,concepticon-1769,10.77,fearsaid,axle,fearsaid
+clics-doculect-69-1379,iris1253-std,concepticon-14,10.78,cuing,yoke,cuing
+clics-doculect-69-1380,iris1253-std,concepticon-740,10.81,long,ship,long
+clics-doculect-69-1381,iris1253-std,concepticon-740,10.81,bárc,ship,barc
+clics-doculect-69-1382,iris1253-std,concepticon-1844,10.83,bád,boat,bad
+clics-doculect-69-1383,iris1253-std,concepticon-1970,10.831,currach,canoe,currach
+clics-doculect-69-1384,iris1253-std,concepticon-1970,10.831,naomhóg,canoe,naomhog
+clics-doculect-69-1385,iris1253-std,concepticon-416,10.832,bacánamuigh,outrigger,bacanamuigh
+clics-doculect-69-1386,iris1253-std,concepticon-1664,10.84,slaod,raft,slaod
+clics-doculect-69-1387,iris1253-std,concepticon-1664,10.84,rafta,raft,rafta
+clics-doculect-69-1388,iris1253-std,concepticon-108,10.85,rámha,oar,ramha
+clics-doculect-69-1389,iris1253-std,concepticon-1849,10.852,rámhaigh,row (vb),ramhaigh
+clics-doculect-69-1390,iris1253-std,concepticon-108,10.86,stiúir,rudder,stiuir
+clics-doculect-69-1391,iris1253-std,concepticon-184,10.87,crann,mast,crann
+clics-doculect-69-1392,iris1253-std,concepticon-786,10.88,seol,sail (noun),seol
+clics-doculect-69-1393,iris1253-std,concepticon-1870,10.89,ancaire,anchor,ancaire
+clics-doculect-69-1394,iris1253-std,concepticon-610,10.91,port,"harbor, port",port
+clics-doculect-69-1395,iris1253-std,concepticon-610,10.91,cuan,"harbor, port",cuan
+clics-doculect-69-1396,iris1253-std,concepticon-610,10.91,caladh,"harbor, port",caladh
+clics-doculect-69-1397,iris1253-std,concepticon-773,11.11,táXagY,have,taXagY
+clics-doculect-69-1398,iris1253-std,concepticon-684,11.12,sealbhaigh,"own, possess",sealbhaigh
+clics-doculect-69-1399,iris1253-std,concepticon-1749,11.13,tóg,take,tog
+clics-doculect-69-1400,iris1253-std,concepticon-1749,11.13,gabh,take,gabh
+clics-doculect-69-1401,iris1253-std,concepticon-2021,11.14,beirar,"seize, grasp",beirar
+clics-doculect-69-1402,iris1253-std,concepticon-2021,11.14,glac,"seize, grasp",glac
+clics-doculect-69-1403,iris1253-std,concepticon-2021,11.14,ceap,"seize, grasp",ceap
+clics-doculect-69-1404,iris1253-std,concepticon-1448,11.15,coinnigh,hold,coinnigh
+clics-doculect-69-1405,iris1253-std,concepticon-1448,11.15,coimeád,hold,coimead
+clics-doculect-69-1406,iris1253-std,concepticon-694,11.16,fáigh,"get, obtain",faigh
+clics-doculect-69-1407,iris1253-std,concepticon-1477,11.17,coinnigh,"keep, retain",coinnigh
+clics-doculect-69-1408,iris1253-std,concepticon-1477,11.17,coimeád,"keep, retain",coimead
+clics-doculect-69-1409,iris1253-std,concepticon-738,11.18,rud,thing,rud
+clics-doculect-69-1410,iris1253-std,concepticon-738,11.18,ní,thing,ni
+clics-doculect-69-1411,iris1253-std,concepticon-1447,11.21,tug,give,tug
+clics-doculect-69-1412,iris1253-std,concepticon-85,11.22,tugarais,give back,tugarais
+clics-doculect-69-1413,iris1253-std,concepticon-1997,11.24,caomhnaigh,"preserve, look after",caomhnaigh
+clics-doculect-69-1414,iris1253-std,concepticon-1997,11.24,cúmhdaigh,"preserve, look after",cumhdaigh
+clics-doculect-69-1415,iris1253-std,concepticon-1997,11.24,coimeád,"preserve, look after",coimead
+clics-doculect-69-1416,iris1253-std,concepticon-2008,11.25,sábháil,"save, rescue",sabhail
+clics-doculect-69-1417,iris1253-std,concepticon-2008,11.25,fuascail,"save, rescue",fuascail
+clics-doculect-69-1418,iris1253-std,concepticon-2008,11.25,saor,"save, rescue",saor
+clics-doculect-69-1419,iris1253-std,concepticon-681,11.27,scrios,destroy,scrios
+clics-doculect-69-1420,iris1253-std,concepticon-681,11.27,mill,destroy,mill
+clics-doculect-69-1421,iris1253-std,concepticon-44,11.28,loit,"harm, injure, damage",loit
+clics-doculect-69-1422,iris1253-std,concepticon-44,11.28,dochardíobháiladhéanamhdo,"harm, injure, damage",dochardiobhailadheanamhdo
+clics-doculect-69-1423,iris1253-std,concepticon-1468,11.31,cuardaigh,"seek, look for",cuardaigh
+clics-doculect-69-1424,iris1253-std,concepticon-1468,11.31,dularlorgduine,"seek, look for",dularlorgduine
+clics-doculect-69-1425,iris1253-std,concepticon-719,11.32,fáigh,find,faigh
+clics-doculect-69-1426,iris1253-std,concepticon-1660,11.33,caill,lose,caill
+clics-doculect-69-1427,iris1253-std,concepticon-1095,11.34,scaoil,"release, let go",scaoil
+clics-doculect-69-1428,iris1253-std,concepticon-1095,11.34,fuascail,"release, let go",fuascail
+clics-doculect-69-1429,iris1253-std,concepticon-1559,11.43,airgead,money,airgead
+clics-doculect-69-1430,iris1253-std,concepticon-1867,11.44,bonn,coin,bonn
+clics-doculect-69-1431,iris1253-std,concepticon-1867,11.44,píosa,coin,piosa
+clics-doculect-69-1432,iris1253-std,concepticon-712,11.51,saibhir,rich,saibhir
+clics-doculect-69-1433,iris1253-std,concepticon-1674,11.52,bocht,poor,bocht
+clics-doculect-69-1434,iris1253-std,concepticon-1674,11.52,dealbh,poor,dealbh
+clics-doculect-69-1435,iris1253-std,concepticon-1674,11.52,daibhir,poor,daibhir
+clics-doculect-69-1436,iris1253-std,concepticon-1934,11.53,bacach,beggar,bacach
+clics-doculect-69-1437,iris1253-std,concepticon-1934,11.53,feardéirce,beggar,feardeirce
+clics-doculect-69-1438,iris1253-std,concepticon-1774,11.54,sanntach,"avaricious, stingy",sanntach
+clics-doculect-69-1439,iris1253-std,concepticon-1774,11.54,ceachartha,"avaricious, stingy",ceachartha
+clics-doculect-69-1440,iris1253-std,concepticon-1774,11.54,sprionlaithe,"avaricious, stingy",sprionlaithe
+clics-doculect-69-1441,iris1253-std,concepticon-1774,11.54,gortach,"avaricious, stingy",gortach
+clics-doculect-69-1442,iris1253-std,concepticon-582,11.61,tugariasacht,lend,tugariasacht
+clics-doculect-69-1443,iris1253-std,concepticon-1823,11.62,fáighariasacht,borrow,faighariasacht
+clics-doculect-69-1444,iris1253-std,concepticon-369,11.63,táXagatorm,owe,taXagatorm
+clics-doculect-69-1445,iris1253-std,concepticon-1914,11.64,fiacha,debt,fiacha
+clics-doculect-69-1446,iris1253-std,concepticon-718,11.65,íoc,pay (vb),ioc
+clics-doculect-69-1447,iris1253-std,concepticon-1081,11.66,cuntas,"account, reckoning",cuntas
+clics-doculect-69-1448,iris1253-std,concepticon-1081,11.66,comhaireamh,"account, reckoning",comhaireamh
+clics-doculect-69-1449,iris1253-std,concepticon-1081,11.66,áireamh,"account, reckoning",aireamh
+clics-doculect-69-1450,iris1253-std,concepticon-873,11.69,cáin,"tax, tribute",cain
+clics-doculect-69-1451,iris1253-std,concepticon-856,11.77,fostaigh,hire,fostaigh
+clics-doculect-69-1452,iris1253-std,concepticon-1122,11.78,tuarastal,wages,tuarastal
+clics-doculect-69-1453,iris1253-std,concepticon-1122,11.78,pá,wages,pa
+clics-doculect-69-1454,iris1253-std,concepticon-733,11.79,saothraigh,earn,saothraigh
+clics-doculect-69-1455,iris1253-std,concepticon-1869,11.81,ceannaigh,buy,ceannaigh
+clics-doculect-69-1456,iris1253-std,concepticon-1571,11.82,díol,sell,diol
+clics-doculect-69-1457,iris1253-std,concepticon-1571,11.82,reic,sell,reic
+clics-doculect-69-1458,iris1253-std,concepticon-2135,11.83,babhtáil,"trade, barter",babhtail
+clics-doculect-69-1459,iris1253-std,concepticon-1082,11.84,ceannaí,merchant,ceannai
+clics-doculect-69-1460,iris1253-std,concepticon-633,11.85,margadh,market (place),margadh
+clics-doculect-69-1461,iris1253-std,concepticon-752,11.86,siopa,"store, shop",siopa
+clics-doculect-69-1462,iris1253-std,concepticon-657,11.87,luach,price,luach
+clics-doculect-69-1463,iris1253-std,concepticon-657,11.87,praghas,price,praghas
+clics-doculect-69-1464,iris1253-std,concepticon-1426,11.88,daor,"dear (costly, expensive)",daor
+clics-doculect-69-1465,iris1253-std,concepticon-1426,11.88,costasach,"dear (costly, expensive)",costasach
+clics-doculect-69-1466,iris1253-std,concepticon-1887,11.89,saor,cheap,saor
+clics-doculect-69-1467,iris1253-std,concepticon-1887,11.89,neamhchostasach,cheap,neamhchostasach
+clics-doculect-69-1468,iris1253-std,concepticon-884,11.91,roinn,share (distribute),roinn
+clics-doculect-69-1469,iris1253-std,concepticon-1098,11.92,meáigh,weigh,meaigh
+clics-doculect-69-1470,iris1253-std,concepticon-1685,12.1,indiaidh,after,indiaidh
+clics-doculect-69-1471,iris1253-std,concepticon-1685,12.1,taréis,after,tareis
+clics-doculect-69-1472,iris1253-std,concepticon-723,12.11,taobhthiar,place,taobhthiar
+clics-doculect-69-1473,iris1253-std,concepticon-723,12.11,laistiar,place,laistiar
+clics-doculect-69-1474,iris1253-std,concepticon-1816,12.2,inaice,beside,inaice
+clics-doculect-69-1475,iris1253-std,concepticon-1816,12.2,lehais,beside,lehais
+clics-doculect-69-1476,iris1253-std,concepticon-1816,12.2,taobhle,beside,taobhle
+clics-doculect-69-1477,iris1253-std,concepticon-1816,12.2,inaicele,beside,inaicele
+clics-doculect-69-1478,iris1253-std,concepticon-2094,12.3,síos,"down, below",sios
+clics-doculect-69-1479,iris1253-std,concepticon-2094,12.3,thíos,"down, below",thios
+clics-doculect-69-1480,iris1253-std,concepticon-1882,12.4,roimh,before,roimh
+clics-doculect-69-1481,iris1253-std,concepticon-1019,12.41,araghaidh,right (side),araghaidh
+clics-doculect-69-1482,iris1253-std,concepticon-1019,12.41,oscomhair,right (side),oscomhair
+clics-doculect-69-1483,iris1253-std,concepticon-1019,12.41,arbhéal,right (side),arbheal
+clics-doculect-69-1484,iris1253-std,concepticon-1019,12.41,roimh,right (side),roimh
+clics-doculect-69-1485,iris1253-std,concepticon-1606,12.5,isteach,"inside, in",isteach
+clics-doculect-69-1486,iris1253-std,concepticon-1606,12.5,istoigh,"inside, in",istoigh
+clics-doculect-69-1487,iris1253-std,concepticon-762,12.6,amach,outside,amach
+clics-doculect-69-1488,iris1253-std,concepticon-762,12.6,amuigh,outside,amuigh
+clics-doculect-69-1489,iris1253-std,concepticon-1485,12.7,faoi,under,faoi
+clics-doculect-69-1490,iris1253-std,concepticon-1485,12.7,fá,under,fa
+clics-doculect-69-1491,iris1253-std,concepticon-1485,12.7,fé,under,fe
+clics-doculect-69-1492,iris1253-std,concepticon-1591,12.8,suas,"up, above",suas
+clics-doculect-69-1493,iris1253-std,concepticon-1591,12.8,thuas,"up, above",thuas
+clics-doculect-69-1494,iris1253-std,concepticon-723,12.11,áit,place,ait
+clics-doculect-69-1495,iris1253-std,concepticon-723,12.11,ionad,place,ionad
+clics-doculect-69-1496,iris1253-std,concepticon-998,12.12,cuir,put,cuir
+clics-doculect-69-1497,iris1253-std,concepticon-1416,12.13,suí,sit,sui
+clics-doculect-69-1498,iris1253-std,concepticon-215,12.14,luí,lie down,lui
+clics-doculect-69-1499,iris1253-std,concepticon-1442,12.15,seas,stand,seas
+clics-doculect-69-1500,iris1253-std,concepticon-987,12.16,fan,"remain, stay",fan
+clics-doculect-69-1501,iris1253-std,concepticon-987,12.16,fuirigh,"remain, stay",fuirigh
+clics-doculect-69-1502,iris1253-std,concepticon-838,12.17,fuílleach,"remains, left overs",fuilleach
+clics-doculect-69-1503,iris1253-std,concepticon-7,12.21,bailigh,"collect, gather",bailigh
+clics-doculect-69-1504,iris1253-std,concepticon-7,12.21,cruinnigh,"collect, gather",cruinnigh
+clics-doculect-69-1505,iris1253-std,concepticon-371,12.212,tóg,pick up,tog
+clics-doculect-69-1506,iris1253-std,concepticon-1576,12.213,carnadh,pile up,carnadh
+clics-doculect-69-1507,iris1253-std,concepticon-1576,12.213,cruachadh,pile up,cruachadh
+clics-doculect-69-1508,iris1253-std,concepticon-1743,12.22,ceangail,"join, unite",ceangail
+clics-doculect-69-1509,iris1253-std,concepticon-1743,12.22,nasc,"join, unite",nasc
+clics-doculect-69-1510,iris1253-std,concepticon-1359,12.23,scair,separate,scair
+clics-doculect-69-1511,iris1253-std,concepticon-1119,12.232,roinn,divide,roinn
+clics-doculect-69-1512,iris1253-std,concepticon-1156,12.24,oscail,open,oscail
+clics-doculect-69-1513,iris1253-std,concepticon-1156,12.24,foscail,open,foscail
+clics-doculect-69-1514,iris1253-std,concepticon-1046,12.25,dún,"shut, close",dun
+clics-doculect-69-1515,iris1253-std,concepticon-1046,12.25,druid,"shut, close",druid
+clics-doculect-69-1516,iris1253-std,concepticon-761,12.26,clúdaigh,cover,cludaigh
+clics-doculect-69-1517,iris1253-std,concepticon-602,12.27,folaigh,"hide, conceal",folaigh
+clics-doculect-69-1518,iris1253-std,concepticon-602,12.27,curibhfolach,"hide, conceal",curibhfolach
+clics-doculect-69-1519,iris1253-std,concepticon-1265,12.31,ard,high,ard
+clics-doculect-69-1520,iris1253-std,concepticon-721,12.32,íseal,low,iseal
+clics-doculect-69-1521,iris1253-std,concepticon-1753,12.33,barr,top,barr
+clics-doculect-69-1522,iris1253-std,concepticon-690,12.34,bun,bottom,bun
+clics-doculect-69-1523,iris1253-std,concepticon-742,12.35,deireadh,end,deireadh
+clics-doculect-69-1524,iris1253-std,concepticon-372,12.352,biorach,pointed,biorach
+clics-doculect-69-1525,iris1253-std,concepticon-372,12.352,gobach,pointed,gobach
+clics-doculect-69-1526,iris1253-std,concepticon-863,12.353,faobhar,edge,faobhar
+clics-doculect-69-1527,iris1253-std,concepticon-863,12.353,béal,edge,beal
+clics-doculect-69-1528,iris1253-std,concepticon-863,12.353,bruach,edge,bruach
+clics-doculect-69-1529,iris1253-std,concepticon-863,12.353,corr,edge,corr
+clics-doculect-69-1530,iris1253-std,concepticon-863,12.353,cúinne,edge,cuinne
+clics-doculect-69-1531,iris1253-std,concepticon-863,12.353,droim,edge,droim
+clics-doculect-69-1532,iris1253-std,concepticon-863,12.353,imeall,edge,imeall
+clics-doculect-69-1533,iris1253-std,concepticon-863,12.353,ciumhais,edge,ciumhais
+clics-doculect-69-1534,iris1253-std,concepticon-863,12.353,eochair,edge,eochair
+clics-doculect-69-1535,iris1253-std,concepticon-682,12.36,taobh,side,taobh
+clics-doculect-69-1536,iris1253-std,concepticon-682,12.36,slios,side,slios
+clics-doculect-69-1537,iris1253-std,concepticon-682,12.36,leath,side,leath
+clics-doculect-69-1538,iris1253-std,concepticon-1093,12.37,meán,"middle, center",mean
+clics-doculect-69-1539,iris1253-std,concepticon-1093,12.37,lár,"middle, center",lar
+clics-doculect-69-1540,iris1253-std,concepticon-1019,12.41,deas,right (side),deas
+clics-doculect-69-1541,iris1253-std,concepticon-244,12.42,clé,left (side),cle
+clics-doculect-69-1542,iris1253-std,concepticon-244,12.42,tuath,left (side),tuath
+clics-doculect-69-1543,iris1253-std,concepticon-1942,12.43,inaice,near (adv),inaice
+clics-doculect-69-1544,iris1253-std,concepticon-1942,12.43,cóngarach,near (adv),congarach
+clics-doculect-69-1545,iris1253-std,concepticon-1942,12.43,ingar,near (adv),ingar
+clics-doculect-69-1546,iris1253-std,concepticon-1942,12.43,indeas,near (adv),indeas
+clics-doculect-69-1547,iris1253-std,concepticon-1942,12.43,ingaobhar,near (adv),ingaobhar
+clics-doculect-69-1548,iris1253-std,concepticon-1942,12.43,fogasdo,near (adv),fogasdo
+clics-doculect-69-1549,iris1253-std,concepticon-1942,12.43,ibhfogas,near (adv),ibhfogas
+clics-doculect-69-1550,iris1253-std,concepticon-1406,12.44,ibhfad,far (adv),ibhfad
+clics-doculect-69-1551,iris1253-std,concepticon-1406,12.44,fada,far (adv),fada
+clics-doculect-69-1552,iris1253-std,concepticon-1877,12.45,oirthear,east,oirthear
+clics-doculect-69-1553,iris1253-std,concepticon-1877,12.45,thoir,east,thoir
+clics-doculect-69-1554,iris1253-std,concepticon-1877,12.45,soir,east,soir
+clics-doculect-69-1555,iris1253-std,concepticon-1877,12.45,anoir,east,anoir
+clics-doculect-69-1556,iris1253-std,concepticon-1817,12.46,íarthar,west,iarthar
+clics-doculect-69-1557,iris1253-std,concepticon-1817,12.46,thiar,west,thiar
+clics-doculect-69-1558,iris1253-std,concepticon-1817,12.46,siar,west,siar
+clics-doculect-69-1559,iris1253-std,concepticon-1817,12.46,aniar,west,aniar
+clics-doculect-69-1560,iris1253-std,concepticon-1598,12.47,tuaisceart,north,tuaisceart
+clics-doculect-69-1561,iris1253-std,concepticon-1598,12.47,thuaidh,north,thuaidh
+clics-doculect-69-1562,iris1253-std,concepticon-1598,12.47,óthuaidh,north,othuaidh
+clics-doculect-69-1563,iris1253-std,concepticon-1598,12.47,aduaidh,north,aduaidh
+clics-doculect-69-1564,iris1253-std,concepticon-1595,12.48,deisceart,south,deisceart
+clics-doculect-69-1565,iris1253-std,concepticon-1595,12.48,ódheas,south,odheas
+clics-doculect-69-1566,iris1253-std,concepticon-1595,12.48,aneas,south,aneas
+clics-doculect-69-1567,iris1253-std,concepticon-1595,12.48,laisteas,south,laisteas
+clics-doculect-69-1568,iris1253-std,concepticon-479,12.53,fás,grow,fas
+clics-doculect-69-1569,iris1253-std,concepticon-1506,12.54,tomhais,measure,tomhais
+clics-doculect-69-1570,iris1253-std,concepticon-81,12.541,feáigh,"span, fathom",feaigh
+clics-doculect-69-1571,iris1253-std,concepticon-81,12.541,tomhais,"span, fathom",tomhais
+clics-doculect-69-1572,iris1253-std,concepticon-1202,12.55,mór,"large, big",mor
+clics-doculect-69-1573,iris1253-std,concepticon-1246,12.56,beag,"small, little",beag
+clics-doculect-69-1574,iris1253-std,concepticon-1203,12.57,fada,long,fada
+clics-doculect-69-1575,iris1253-std,concepticon-711,12.58,ard,tall,ard
+clics-doculect-69-1576,iris1253-std,concepticon-1645,12.59,gearr,short,gearr
+clics-doculect-69-1577,iris1253-std,concepticon-1645,12.59,gairid,short,gairid
+clics-doculect-69-1578,iris1253-std,concepticon-1243,12.61,leathan,"wide, broad",leathan
+clics-doculect-69-1579,iris1253-std,concepticon-1267,12.62,cúng,narrow,cung
+clics-doculect-69-1580,iris1253-std,concepticon-1267,12.62,caol,narrow,caol
+clics-doculect-69-1581,iris1253-std,concepticon-1244,12.63,tiubh,thick (in dimension),tiubh
+clics-doculect-69-1582,iris1253-std,concepticon-1244,12.63,ramhar,thick (in dimension),ramhar
+clics-doculect-69-1583,iris1253-std,concepticon-2249,12.65,tanaí,thin (in dimension),tanai
+clics-doculect-69-1584,iris1253-std,concepticon-2249,12.65,caol,thin (in dimension),caol
+clics-doculect-69-1585,iris1253-std,concepticon-1593,12.67,domhain,deep,domhain
+clics-doculect-69-1586,iris1253-std,concepticon-193,12.68,tanaí,shallow,tanai
+clics-doculect-69-1587,iris1253-std,concepticon-193,12.68,éadomhain,shallow,eadomhain
+clics-doculect-69-1588,iris1253-std,concepticon-1633,12.71,cothrom,flat,cothrom
+clics-doculect-69-1589,iris1253-std,concepticon-1633,12.71,réidh,flat,reidh
+clics-doculect-69-1590,iris1253-std,concepticon-1633,12.71,comhréidh,flat,comhreidh
+clics-doculect-69-1591,iris1253-std,concepticon-1633,12.71,leibheálta,flat,leibhealta
+clics-doculect-69-1592,iris1253-std,concepticon-1404,12.73,díreach,straight,direach
+clics-doculect-69-1593,iris1253-std,concepticon-297,12.74,cam,crooked,cam
+clics-doculect-69-1594,iris1253-std,concepticon-297,12.74,crom,crooked,crom
+clics-doculect-69-1595,iris1253-std,concepticon-297,12.74,cuar,crooked,cuar
+clics-doculect-69-1596,iris1253-std,concepticon-1071,12.75,crúca,hook,cruca
+clics-doculect-69-1597,iris1253-std,concepticon-1071,12.75,cromóg,hook,cromog
+clics-doculect-69-1598,iris1253-std,concepticon-192,12.76,cúinne,corner,cuinne
+clics-doculect-69-1599,iris1253-std,concepticon-192,12.76,cearna,corner,cearna
+clics-doculect-69-1600,iris1253-std,concepticon-1367,12.77,crois,cross,crois
+clics-doculect-69-1601,iris1253-std,concepticon-1367,12.77,croch,cross,croch
+clics-doculect-69-1602,iris1253-std,concepticon-850,12.78,cearnach,square,cearnach
+clics-doculect-69-1603,iris1253-std,concepticon-850,12.78,cearnóg,square,cearnog
+clics-doculect-69-1604,iris1253-std,concepticon-1395,12.81,cruinn,round,cruinn
+clics-doculect-69-1605,iris1253-std,concepticon-1395,12.81,comhchruinn,round,comhchruinn
+clics-doculect-69-1606,iris1253-std,concepticon-1467,12.82,ciorcal,circle,ciorcal
+clics-doculect-69-1607,iris1253-std,concepticon-1845,12.83,liathróid,"sphere, ball",liathroid
+clics-doculect-69-1608,iris1253-std,concepticon-1845,12.83,meall,"sphere, ball",meall
+clics-doculect-69-1609,iris1253-std,concepticon-1845,12.83,cruinne,"sphere, ball",cruinne
+clics-doculect-69-1610,iris1253-std,concepticon-1048,12.84,líne,line,line
+clics-doculect-69-1611,iris1253-std,concepticon-1667,12.85,poll,hole,poll
+clics-doculect-69-1612,iris1253-std,concepticon-1558,12.92,cosúille,"like, similar",cosuille
+clics-doculect-69-1613,iris1253-std,concepticon-1264,12.93,aistrigh,change,aistrigh
+clics-doculect-69-1614,iris1253-std,concepticon-1264,12.93,athraigh,change,athraigh
+clics-doculect-69-1615,iris1253-std,concepticon-1294,13.0,náid,"zero, nothing",naid
+clics-doculect-69-1616,iris1253-std,concepticon-1294,13.0,nialas,"zero, nothing",nialas
+clics-doculect-69-1617,iris1253-std,concepticon-1493,13.1,ahaon,one,ahaon
+clics-doculect-69-1618,iris1253-std,concepticon-1498,13.2,adó,two,ado
+clics-doculect-69-1619,iris1253-std,concepticon-492,13.3,atrí,three,atri
+clics-doculect-69-1620,iris1253-std,concepticon-1500,13.4,aceathair,four,aceathair
+clics-doculect-69-1621,iris1253-std,concepticon-493,13.5,acúig,five,acuig
+clics-doculect-69-1622,iris1253-std,concepticon-1703,13.6,asé,six,ase
+clics-doculect-69-1623,iris1253-std,concepticon-1704,13.7,aseacht,seven,aseacht
+clics-doculect-69-1624,iris1253-std,concepticon-1705,13.8,ahocht,eight,ahocht
+clics-doculect-69-1625,iris1253-std,concepticon-1483,13.9,anaoí,nine,anaoi
+clics-doculect-69-1626,iris1253-std,concepticon-1515,13.10,adeich,ten,adeich
+clics-doculect-69-1627,iris1253-std,concepticon-1706,13.101,ahaondéag,eleven,ahaondeag
+clics-doculect-69-1628,iris1253-std,concepticon-1707,13.102,adódhéag,twelve,adodheag
+clics-doculect-69-1629,iris1253-std,concepticon-1709,13.103,acúigdéag,fifteen,acuigdeag
+clics-doculect-69-1630,iris1253-std,concepticon-1710,13.104,fiche,twenty,fiche
+clics-doculect-69-1631,iris1253-std,concepticon-1634,13.105,céad,hundred,cead
+clics-doculect-69-1632,iris1253-std,concepticon-1843,13.106,míle,thousand,mile
+clics-doculect-69-1633,iris1253-std,concepticon-1420,13.107,comhair,count,comhair
+clics-doculect-69-1634,iris1253-std,concepticon-1420,13.107,cuntais,count,cuntais
+clics-doculect-69-1635,iris1253-std,concepticon-1420,13.107,áirigh,count,airigh
+clics-doculect-69-1636,iris1253-std,concepticon-98,13.14,gach,"every, all",gach
+clics-doculect-69-1637,iris1253-std,concepticon-98,13.14,gachuile,"every, all",gachuile
+clics-doculect-69-1638,iris1253-std,concepticon-98,13.14,goléir,"every, all",goleir
+clics-doculect-69-1639,iris1253-std,concepticon-1198,13.15,mórán,"much, many",moran
+clics-doculect-69-1640,iris1253-std,concepticon-1198,13.15,alán,"much, many",alan
+clics-doculect-69-1641,iris1253-std,concepticon-1198,13.15,iomaí,"much, many",iomai
+clics-doculect-69-1642,iris1253-std,concepticon-1198,13.15,lia,"much, many",lia
+clics-doculect-69-1643,iris1253-std,concepticon-1992,13.16,tuilleadh,more,tuilleadh
+clics-doculect-69-1644,iris1253-std,concepticon-1242,13.17,beagán,"little (quantity), few",beagan
+clics-doculect-69-1645,iris1253-std,concepticon-1242,13.17,beag,"little (quantity), few",beag
+clics-doculect-69-1646,iris1253-std,concepticon-1242,13.17,tearc,"little (quantity), few",tearc
+clics-doculect-69-1647,iris1253-std,concepticon-1881,13.18,dóthain,enough,dothain
+clics-doculect-69-1648,iris1253-std,concepticon-1881,13.18,sáith,enough,saith
+clics-doculect-69-1649,iris1253-std,concepticon-1881,13.18,leor,enough,leor
+clics-doculect-69-1650,iris1253-std,concepticon-1241,13.181,éigin,some,eigin
+clics-doculect-69-1651,iris1253-std,concepticon-1241,13.181,inteacht,some,inteacht
+clics-doculect-69-1652,iris1253-std,concepticon-2023,13.19,slua,"multitude, crowd",slua
+clics-doculect-69-1653,iris1253-std,concepticon-2023,13.19,iomad,"multitude, crowd",iomad
+clics-doculect-69-1654,iris1253-std,concepticon-2023,13.19,ollslua,"multitude, crowd",ollslua
+clics-doculect-69-1655,iris1253-std,concepticon-2023,13.19,mórchuid,"multitude, crowd",morchuid
+clics-doculect-69-1656,iris1253-std,concepticon-1429,13.21,lán,full,lan
+clics-doculect-69-1657,iris1253-std,concepticon-1624,13.22,folamh,empty,folamh
+clics-doculect-69-1658,iris1253-std,concepticon-779,13.23,cuid,"part, piece",cuid
+clics-doculect-69-1659,iris1253-std,concepticon-779,13.23,páirt,"part, piece",pairt
+clics-doculect-69-1660,iris1253-std,concepticon-816,13.24,leath,half,leath
+clics-doculect-69-1661,iris1253-std,concepticon-816,13.24,leath,half,leath
+clics-doculect-69-1662,iris1253-std,concepticon-1580,13.33,aonar,"alone, only",aonar
+clics-doculect-69-1663,iris1253-std,concepticon-1580,13.33,aon,"alone, only",aon
+clics-doculect-69-1664,iris1253-std,concepticon-1580,13.33,amháin,"alone, only",amhain
+clics-doculect-69-1665,iris1253-std,concepticon-728,13.34,chéad,first,chead
+clics-doculect-69-1666,iris1253-std,concepticon-1529,13.35,deireannach,last,deireannach
+clics-doculect-69-1667,iris1253-std,concepticon-1384,13.36,dara,second,dara
+clics-doculect-69-1668,iris1253-std,concepticon-1888,13.37,dís,pair,dis
+clics-doculect-69-1669,iris1253-std,concepticon-1546,13.38,dháuair,two times,dhauair
+clics-doculect-69-1670,iris1253-std,concepticon-1546,13.38,faoidhó,two times,faoidho
+clics-doculect-69-1671,iris1253-std,concepticon-1859,13.42,tríú,third,triu
+clics-doculect-69-1672,iris1253-std,concepticon-417,13.44,tríhuaire,three times,trihuaire
+clics-doculect-69-1673,iris1253-std,concepticon-417,13.44,faoithrí,three times,faoithri
+clics-doculect-69-1674,iris1253-std,concepticon-892,14.11,am,time,am
+clics-doculect-69-1675,iris1253-std,concepticon-892,14.11,aimsir,time,aimsir
+clics-doculect-69-1676,iris1253-std,concepticon-1789,14.12,aois,age,aois
+clics-doculect-69-1677,iris1253-std,concepticon-1231,14.13,nua,new,nua
+clics-doculect-69-1678,iris1253-std,concepticon-1231,14.13,úr,new,ur
+clics-doculect-69-1679,iris1253-std,concepticon-1207,14.14,óg,young,og
+clics-doculect-69-1680,iris1253-std,concepticon-1229,14.15,aosta,old,aosta
+clics-doculect-69-1681,iris1253-std,concepticon-1229,14.15,críonna,old,crionna
+clics-doculect-69-1682,iris1253-std,concepticon-1229,14.15,sean,old,sean
+clics-doculect-69-1683,iris1253-std,concepticon-672,14.16,goluath,early,goluath
+clics-doculect-69-1684,iris1253-std,concepticon-672,14.16,moch,early,moch
+clics-doculect-69-1685,iris1253-std,concepticon-477,14.17,déanach,late,deanach
+clics-doculect-69-1686,iris1253-std,concepticon-477,14.17,deireanach,late,deireanach
+clics-doculect-69-1687,iris1253-std,concepticon-477,14.17,mall,late,mall
+clics-doculect-69-1688,iris1253-std,concepticon-1376,14.18,anois,now,anois
+clics-doculect-69-1689,iris1253-std,concepticon-1963,14.19,láithreach,immediately,laithreach
+clics-doculect-69-1690,iris1253-std,concepticon-1631,14.21,tapaidh,"swift, fast, quick",tapaidh
+clics-doculect-69-1691,iris1253-std,concepticon-1631,14.21,mear,"swift, fast, quick",mear
+clics-doculect-69-1692,iris1253-std,concepticon-1631,14.21,gasta,"swift, fast, quick",gasta
+clics-doculect-69-1693,iris1253-std,concepticon-701,14.22,mall,slow,mall
+clics-doculect-69-1694,iris1253-std,concepticon-701,14.22,réidh,slow,reidh
+clics-doculect-69-1695,iris1253-std,concepticon-701,14.22,fadálach,slow,fadalach
+clics-doculect-69-1696,iris1253-std,concepticon-754,14.23,brostaigh,"hasten, hurry",brostaigh
+clics-doculect-69-1697,iris1253-std,concepticon-754,14.23,déandeifir,"hasten, hurry",deandeifir
+clics-doculect-69-1698,iris1253-std,concepticon-425,14.24,moilligh,"retard, delay",moilligh
+clics-doculect-69-1699,iris1253-std,concepticon-1806,14.25,tosaigh,"begin, beginning",tosaigh
+clics-doculect-69-1700,iris1253-std,concepticon-1806,14.25,tosnú,"begin, beginning",tosnu
+clics-doculect-69-1701,iris1253-std,concepticon-1806,14.25,tosach,"begin, beginning",tosach
+clics-doculect-69-1702,iris1253-std,concepticon-1806,14.25,tús,"begin, beginning",tus
+clics-doculect-69-1703,iris1253-std,concepticon-1186,14.252,mair,"last, endure",mair
+clics-doculect-69-1704,iris1253-std,concepticon-1186,14.252,seas,"last, endure",seas
+clics-doculect-69-1705,iris1253-std,concepticon-1186,14.252,lean,"last, endure",lean
+clics-doculect-69-1706,iris1253-std,concepticon-743,14.26,deireadh,end (temporal),deireadh
+clics-doculect-69-1707,iris1253-std,concepticon-743,14.26,críoch,end (temporal),crioch
+clics-doculect-69-1708,iris1253-std,concepticon-1766,14.27,críochnaigh,finish,criochnaigh
+clics-doculect-69-1709,iris1253-std,concepticon-1766,14.27,cuirdeireadhle,finish,cuirdeireadhle
+clics-doculect-69-1710,iris1253-std,concepticon-1928,14.28,stad,"cease, stop",stad
+clics-doculect-69-1711,iris1253-std,concepticon-1928,14.28,stop,"cease, stop",stop
+clics-doculect-69-1712,iris1253-std,concepticon-1928,14.28,scoir,"cease, stop",scoir
+clics-doculect-69-1713,iris1253-std,concepticon-790,14.29,ullamh,ready,ullamh
+clics-doculect-69-1714,iris1253-std,concepticon-790,14.29,réidh,ready,reidh
+clics-doculect-69-1715,iris1253-std,concepticon-1676,14.31,igcónaí,always,igconai
+clics-doculect-69-1716,iris1253-std,concepticon-1676,14.31,idtólamh,always,idtolamh
+clics-doculect-69-1717,iris1253-std,concepticon-1852,14.32,gominic,often,gominic
+clics-doculect-69-1718,iris1253-std,concepticon-1544,14.33,amanna,sometimes,amanna
+clics-doculect-69-1719,iris1253-std,concepticon-1544,14.33,uaireanta,sometimes,uaireanta
+clics-doculect-69-1720,iris1253-std,concepticon-1544,14.33,scaití,sometimes,scaiti
+clics-doculect-69-1721,iris1253-std,concepticon-703,14.331,goluath,soon,goluath
+clics-doculect-69-1722,iris1253-std,concepticon-703,14.331,gogairid,soon,gogairid
+clics-doculect-69-1723,iris1253-std,concepticon-703,14.331,ganmhoill,soon,ganmhoill
+clics-doculect-69-1724,iris1253-std,concepticon-418,14.332,lefada,long-time (for a),lefada
+clics-doculect-69-1725,iris1253-std,concepticon-418,14.332,leisnacianta,long-time (for a),leisnacianta
+clics-doculect-69-1726,iris1253-std,concepticon-1656,14.34,riamh,never,riamh
+clics-doculect-69-1727,iris1253-std,concepticon-1656,14.34,godeo,never,godeo
+clics-doculect-69-1728,iris1253-std,concepticon-1656,14.34,gobrách,never,gobrach
+clics-doculect-69-1729,iris1253-std,concepticon-1656,14.34,choíche,never,choiche
+clics-doculect-69-1730,iris1253-std,concepticon-1656,14.34,archorarbith,never,archorarbith
+clics-doculect-69-1731,iris1253-std,concepticon-1656,14.34,inaonchor,never,inaonchor
+clics-doculect-69-1732,iris1253-std,concepticon-204,14.35,arís,again,aris
+clics-doculect-69-1733,iris1253-std,concepticon-1225,14.41,lá,day,la
+clics-doculect-69-1734,iris1253-std,concepticon-1233,14.42,oíche,night,oiche
+clics-doculect-69-1735,iris1253-std,concepticon-729,14.43,breacadhlae,dawn,breacadhlae
+clics-doculect-69-1736,iris1253-std,concepticon-729,14.43,fáinneanlae,dawn,fainneanlae
+clics-doculect-69-1737,iris1253-std,concepticon-729,14.43,camhaoir,dawn,camhaoir
+clics-doculect-69-1738,iris1253-std,concepticon-1339,14.44,maidin,morning,maidin
+clics-doculect-69-1739,iris1253-std,concepticon-12,14.45,meánlae,"noon, midday",meanlae
+clics-doculect-69-1740,iris1253-std,concepticon-12,14.45,nóin,"noon, midday",noin
+clics-doculect-69-1741,iris1253-std,concepticon-12,14.45,eadra,"noon, midday",eadra
+clics-doculect-69-1742,iris1253-std,concepticon-1807,14.451,iarnóin,afternoon,iarnoin
+clics-doculect-69-1743,iris1253-std,concepticon-1807,14.451,tráthnóna,afternoon,trathnona
+clics-doculect-69-1744,iris1253-std,concepticon-1629,14.46,tráthnóna,evening,trathnona
+clics-doculect-69-1745,iris1253-std,concepticon-1629,14.46,oíche,evening,oiche
+clics-doculect-69-1746,iris1253-std,concepticon-1283,14.47,inniu,today,inniu
+clics-doculect-69-1747,iris1253-std,concepticon-1329,14.48,amárach,tomorrow,amarach
+clics-doculect-69-1748,iris1253-std,concepticon-1179,14.481,arúamárach,day-after-tomorrow,aruamarach
+clics-doculect-69-1749,iris1253-std,concepticon-1179,14.481,anóirthear,day-after-tomorrow,anoirthear
+clics-doculect-69-1750,iris1253-std,concepticon-1174,14.49,inné,yesterday,inne
+clics-doculect-69-1751,iris1253-std,concepticon-1180,14.491,arúinné,day-before-yesterday,aruinne
+clics-doculect-69-1752,iris1253-std,concepticon-1353,14.51,uair,hour,uair
+clics-doculect-69-1753,iris1253-std,concepticon-1323,14.53,clog,"clock, timepiece",clog
+clics-doculect-69-1754,iris1253-std,concepticon-1323,14.53,uaireadóir,"clock, timepiece",uaireadoir
+clics-doculect-69-1755,iris1253-std,concepticon-1469,14.61,seachtain,week,seachtain
+clics-doculect-69-1756,iris1253-std,concepticon-1699,14.62,Domhnach,Sunday,Domhnach
+clics-doculect-69-1757,iris1253-std,concepticon-1699,14.62,DéDomhnaigh,Sunday,DeDomhnaigh
+clics-doculect-69-1758,iris1253-std,concepticon-1697,14.63,Luan,Monday,Luan
+clics-doculect-69-1759,iris1253-std,concepticon-1697,14.63,AnLuan,Monday,AnLuan
+clics-doculect-69-1760,iris1253-std,concepticon-1697,14.63,DéLuain,Monday,DeLuain
+clics-doculect-69-1761,iris1253-std,concepticon-1695,14.64,Máirt,Tuesday,Mairt
+clics-doculect-69-1762,iris1253-std,concepticon-1695,14.64,AnMháirt,Tuesday,AnMhairt
+clics-doculect-69-1763,iris1253-std,concepticon-1695,14.64,DéMáirt,Tuesday,DeMairt
+clics-doculect-69-1764,iris1253-std,concepticon-1694,14.65,Céadaoin,Wednesday,Ceadaoin
+clics-doculect-69-1765,iris1253-std,concepticon-1694,14.65,AnChéadaoin,Wednesday,AnCheadaoin
+clics-doculect-69-1766,iris1253-std,concepticon-1694,14.65,DéCéadaoin,Wednesday,DeCeadaoin
+clics-doculect-69-1767,iris1253-std,concepticon-1693,14.66,AnDéardaoin,Thursday,AnDeardaoin
+clics-doculect-69-1768,iris1253-std,concepticon-1693,14.66,Déardaoin,Thursday,Deardaoin
+clics-doculect-69-1769,iris1253-std,concepticon-1692,14.67,Aoine,Friday,Aoine
+clics-doculect-69-1770,iris1253-std,concepticon-1692,14.67,AnAoine,Friday,AnAoine
+clics-doculect-69-1771,iris1253-std,concepticon-1692,14.67,DéhAoine,Friday,DehAoine
+clics-doculect-69-1772,iris1253-std,concepticon-1700,14.68,Satharn,Saturday,Satharn
+clics-doculect-69-1773,iris1253-std,concepticon-1700,14.68,AnSatharn,Saturday,AnSatharn
+clics-doculect-69-1774,iris1253-std,concepticon-1700,14.68,DéSathairn,Saturday,DeSathairn
+clics-doculect-69-1775,iris1253-std,concepticon-1370,14.71,mí,month,mi
+clics-doculect-69-1776,iris1253-std,concepticon-1226,14.73,bliain,year,bliain
+clics-doculect-69-1777,iris1253-std,concepticon-1471,14.74,geimhreadh,winter,geimhreadh
+clics-doculect-69-1778,iris1253-std,concepticon-1537,14.75,earrach,spring,earrach
+clics-doculect-69-1779,iris1253-std,concepticon-1342,14.76,samhradh,summer,samhradh
+clics-doculect-69-1780,iris1253-std,concepticon-1276,14.77,fómhar,autumn,fomhar
+clics-doculect-69-1781,iris1253-std,concepticon-691,14.78,séasúr,season,seasur
+clics-doculect-69-1782,iris1253-std,concepticon-691,14.78,ionú,season,ionu
+clics-doculect-69-1783,iris1253-std,concepticon-1587,15.21,boladh,smell (vb intrans),boladh
+clics-doculect-69-1784,iris1253-std,concepticon-375,15.212,smúr,sniff,smur
+clics-doculect-69-1785,iris1253-std,concepticon-375,15.212,bolaigh,sniff,bolaigh
+clics-doculect-69-1786,iris1253-std,concepticon-1586,15.22,bolaigh,smell (vb trans),bolaigh
+clics-doculect-69-1787,iris1253-std,concepticon-1586,15.22,smúr,smell (vb trans),smur
+clics-doculect-69-1788,iris1253-std,concepticon-1586,15.22,boltanaigh,smell (vb trans),boltanaigh
+clics-doculect-69-1789,iris1253-std,concepticon-376,15.25,cumhra,"fragrant, good smelling",cumhra
+clics-doculect-69-1790,iris1253-std,concepticon-42,15.26,bréan,"stinking, bad smelling",brean
+clics-doculect-69-1791,iris1253-std,concepticon-21,15.31,blais,taste,blais
+clics-doculect-69-1792,iris1253-std,concepticon-717,15.35,milis,sweet,milis
+clics-doculect-69-1793,iris1253-std,concepticon-1091,15.36,goirt,salty,goirt
+clics-doculect-69-1794,iris1253-std,concepticon-1091,15.36,salainn,salty,salainn
+clics-doculect-69-1795,iris1253-std,concepticon-887,15.37,searbh,bitter,searbh
+clics-doculect-69-1796,iris1253-std,concepticon-887,15.37,goirt,bitter,goirt
+clics-doculect-69-1797,iris1253-std,concepticon-887,15.37,garg,bitter,garg
+clics-doculect-69-1798,iris1253-std,concepticon-887,15.37,géar,bitter,gear
+clics-doculect-69-1799,iris1253-std,concepticon-1906,15.38,searbh,"acid, sour",searbh
+clics-doculect-69-1800,iris1253-std,concepticon-1906,15.38,géar,"acid, sour",gear
+clics-doculect-69-1801,iris1253-std,concepticon-70,15.39,goirt,brackish,goirt
+clics-doculect-69-1802,iris1253-std,concepticon-1408,15.41,cluin,hear,cluin
+clics-doculect-69-1803,iris1253-std,concepticon-1408,15.41,clois,hear,clois
+clics-doculect-69-1804,iris1253-std,concepticon-1608,15.42,éist,listen,eist
+clics-doculect-69-1805,iris1253-std,concepticon-1811,15.44,fuaim,"sound, noise",fuaim
+clics-doculect-69-1806,iris1253-std,concepticon-1811,15.44,glór,"sound, noise",glor
+clics-doculect-69-1807,iris1253-std,concepticon-1811,15.44,foghar,"sound, noise",foghar
+clics-doculect-69-1808,iris1253-std,concepticon-377,15.45,ard,loud,ard
+clics-doculect-69-1809,iris1253-std,concepticon-377,15.45,glórach,loud,glorach
+clics-doculect-69-1810,iris1253-std,concepticon-377,15.45,gártha,loud,gartha
+clics-doculect-69-1811,iris1253-std,concepticon-1314,15.46,ciúin,"quiet, silence",ciuin
+clics-doculect-69-1812,iris1253-std,concepticon-1314,15.46,socair,"quiet, silence",socair
+clics-doculect-69-1813,iris1253-std,concepticon-1314,15.46,ciúnas,"quiet, silence",ciunas
+clics-doculect-69-1814,iris1253-std,concepticon-1314,15.46,tost,"quiet, silence",tost
+clics-doculect-69-1815,iris1253-std,concepticon-1409,15.51,feic,see,feic
+clics-doculect-69-1816,iris1253-std,concepticon-1409,15.51,chí,see,chi
+clics-doculect-69-1817,iris1253-std,concepticon-1409,15.51,tchí,see,tchi
+clics-doculect-69-1818,iris1253-std,concepticon-1819,15.52,féach,"look, look at",feach
+clics-doculect-69-1819,iris1253-std,concepticon-1819,15.52,breathnaigh,"look, look at",breathnaigh
+clics-doculect-69-1820,iris1253-std,concepticon-1039,15.55,taispeáin,show,taispeain
+clics-doculect-69-1821,iris1253-std,concepticon-708,15.56,dealraigh,shine,dealraigh
+clics-doculect-69-1822,iris1253-std,concepticon-708,15.56,soilsigh,shine,soilsigh
+clics-doculect-69-1823,iris1253-std,concepticon-708,15.56,lonraigh,shine,lonraigh
+clics-doculect-69-1824,iris1253-std,concepticon-679,15.57,geal,bright,geal
+clics-doculect-69-1825,iris1253-std,concepticon-679,15.57,lonrach,bright,lonrach
+clics-doculect-69-1826,iris1253-std,concepticon-679,15.57,soilseach,bright,soilseach
+clics-doculect-69-1827,iris1253-std,concepticon-679,15.57,glinniúil,bright,glinniuil
+clics-doculect-69-1828,iris1253-std,concepticon-1613,15.61,dath,color,dath
+clics-doculect-69-1829,iris1253-std,concepticon-1613,15.61,lí,color,li
+clics-doculect-69-1830,iris1253-std,concepticon-250,15.62,éadtrom,light (in color),eadtrom
+clics-doculect-69-1831,iris1253-std,concepticon-706,15.63,dorcha,dark (in color),dorcha
+clics-doculect-69-1832,iris1253-std,concepticon-1335,15.64,bán,white,ban
+clics-doculect-69-1833,iris1253-std,concepticon-1335,15.64,geal,white,geal
+clics-doculect-69-1834,iris1253-std,concepticon-1335,15.64,fionn,white,fionn
+clics-doculect-69-1835,iris1253-std,concepticon-163,15.65,dubh,black,dubh
+clics-doculect-69-1836,iris1253-std,concepticon-156,15.66,dearg,red,dearg
+clics-doculect-69-1837,iris1253-std,concepticon-156,15.66,rua,red,rua
+clics-doculect-69-1838,iris1253-std,concepticon-837,15.67,gorm,blue,gorm
+clics-doculect-69-1839,iris1253-std,concepticon-1425,15.68,glas,green,glas
+clics-doculect-69-1840,iris1253-std,concepticon-1425,15.68,uaine,green,uaine
+clics-doculect-69-1841,iris1253-std,concepticon-1424,15.69,buí,yellow,bui
+clics-doculect-69-1842,iris1253-std,concepticon-1892,15.71,teagmhaighle,touch,teagmhaighle
+clics-doculect-69-1843,iris1253-std,concepticon-1892,15.71,bainle,touch,bainle
+clics-doculect-69-1844,iris1253-std,concepticon-1892,15.71,tadhaill,touch,tadhaill
+clics-doculect-69-1845,iris1253-std,concepticon-378,15.712,bainlíomógas,pinch,bainliomogas
+clics-doculect-69-1846,iris1253-std,concepticon-378,15.712,bainmiotógas,pinch,bainmiotogas
+clics-doculect-69-1847,iris1253-std,concepticon-378,15.712,bainscealpógas,pinch,bainscealpogas
+clics-doculect-69-1848,iris1253-std,concepticon-1079,15.72,mothaigh,feel,mothaigh
+clics-doculect-69-1849,iris1253-std,concepticon-1884,15.74,crua,hard,crua
+clics-doculect-69-1850,iris1253-std,concepticon-1856,15.75,bog,soft,bog
+clics-doculect-69-1851,iris1253-std,concepticon-1923,15.76,garbh,rough,garbh
+clics-doculect-69-1852,iris1253-std,concepticon-1234,15.77,réidh,smooth,reidh
+clics-doculect-69-1853,iris1253-std,concepticon-1234,15.77,mín,smooth,min
+clics-doculect-69-1854,iris1253-std,concepticon-1396,15.78,géar,sharp,gear
+clics-doculect-69-1855,iris1253-std,concepticon-379,15.79,maol,"blunt, dull",maol
+clics-doculect-69-1856,iris1253-std,concepticon-1210,15.81,trom,heavy,trom
+clics-doculect-69-1857,iris1253-std,concepticon-1052,15.82,éadtrom,light (in weight),eadtrom
+clics-doculect-69-1858,iris1253-std,concepticon-1726,15.83,fliuch,"wet, damp",fliuch
+clics-doculect-69-1859,iris1253-std,concepticon-1398,15.84,tirim,dry,tirim
+clics-doculect-69-1860,iris1253-std,concepticon-1286,15.85,te,hot,te
+clics-doculect-69-1861,iris1253-std,concepticon-1232,15.851,te,warm,te
+clics-doculect-69-1862,iris1253-std,concepticon-1232,15.851,brothallach,warm,brothallach
+clics-doculect-69-1863,iris1253-std,concepticon-1232,15.851,bogthe,warm,bogthe
+clics-doculect-69-1864,iris1253-std,concepticon-1232,15.851,alabhog,warm,alabhog
+clics-doculect-69-1865,iris1253-std,concepticon-1287,15.86,fuar,cold,fuar
+clics-doculect-69-1866,iris1253-std,concepticon-704,15.87,glan,clean,glan
+clics-doculect-69-1867,iris1253-std,concepticon-1230,15.88,salach,"dirty, soiled",salach
+clics-doculect-69-1868,iris1253-std,concepticon-380,15.89,rocach,wrinkled,rocach
+clics-doculect-69-1869,iris1253-std,concepticon-53,16.11,anam,"soul, spirit",anam
+clics-doculect-69-1870,iris1253-std,concepticon-53,16.11,spiorad,"soul, spirit",spiorad
+clics-doculect-69-1871,iris1253-std,concepticon-1572,16.15,iontas,"surprised, astonished",iontas
+clics-doculect-69-1872,iris1253-std,concepticon-720,16.18,ádh,"good fortune, luck",adh
+clics-doculect-69-1873,iris1253-std,concepticon-720,16.18,sonas,"good fortune, luck",sonas
+clics-doculect-69-1874,iris1253-std,concepticon-56,16.19,míádh,"misfortune, bad luck",miadh
+clics-doculect-69-1875,iris1253-std,concepticon-56,16.19,mífhortún,"misfortune, bad luck",mifhortun
+clics-doculect-69-1876,iris1253-std,concepticon-56,16.19,anachain,"misfortune, bad luck",anachain
+clics-doculect-69-1877,iris1253-std,concepticon-56,16.19,donas,"misfortune, bad luck",donas
+clics-doculect-69-1878,iris1253-std,concepticon-1495,16.23,lúcháireach,"joyful, glad, happy",luchaireach
+clics-doculect-69-1879,iris1253-std,concepticon-1495,16.23,áthasach,"joyful, glad, happy",athasach
+clics-doculect-69-1880,iris1253-std,concepticon-1495,16.23,gliondrach,"joyful, glad, happy",gliondrach
+clics-doculect-69-1881,iris1253-std,concepticon-1495,16.23,suairc,"joyful, glad, happy",suairc
+clics-doculect-69-1882,iris1253-std,concepticon-1495,16.23,sonasásta,"joyful, glad, happy",sonasasta
+clics-doculect-69-1883,iris1253-std,concepticon-1495,16.23,ollghairdeach,"joyful, glad, happy",ollghairdeach
+clics-doculect-69-1884,iris1253-std,concepticon-1495,16.23,ríméadach,"joyful, glad, happy",rimeadach
+clics-doculect-69-1885,iris1253-std,concepticon-1355,16.25,gáir,laugh,gair
+clics-doculect-69-1886,iris1253-std,concepticon-1355,16.25,gáireadhéanamh,laugh,gaireadheanamh
+clics-doculect-69-1887,iris1253-std,concepticon-1451,16.251,miongháireadhéanamh,smile,mionghaireadheanamh
+clics-doculect-69-1888,iris1253-std,concepticon-1413,16.26,imir,play,imir
+clics-doculect-69-1889,iris1253-std,concepticon-1413,16.26,súgradh,play,sugradh
+clics-doculect-69-1890,iris1253-std,concepticon-1413,16.26,spraoi,play,spraoi
+clics-doculect-69-1891,iris1253-std,concepticon-923,16.27,grá,love,gra
+clics-doculect-69-1892,iris1253-std,concepticon-923,16.27,cion,love,cion
+clics-doculect-69-1893,iris1253-std,concepticon-923,16.27,gean,love,gean
+clics-doculect-69-1894,iris1253-std,concepticon-923,16.27,searc,love,searc
+clics-doculect-69-1895,iris1253-std,concepticon-578,16.29,póg,kiss,pog
+clics-doculect-69-1896,iris1253-std,concepticon-928,16.3,barróg,embrace,barrog
+clics-doculect-69-1897,iris1253-std,concepticon-928,16.3,cuach,embrace,cuach
+clics-doculect-69-1898,iris1253-std,concepticon-1783,16.31,pian,pain,pian
+clics-doculect-69-1899,iris1253-std,concepticon-1668,16.32,brón,"grief, sorrow, sadness",bron
+clics-doculect-69-1900,iris1253-std,concepticon-1668,16.32,cumha,"grief, sorrow, sadness",cumha
+clics-doculect-69-1901,iris1253-std,concepticon-1668,16.32,léan,"grief, sorrow, sadness",lean
+clics-doculect-69-1902,iris1253-std,concepticon-1000,16.33,imní,"anxiety, worry",imni
+clics-doculect-69-1903,iris1253-std,concepticon-1000,16.33,buaireamh,"anxiety, worry",buaireamh
+clics-doculect-69-1904,iris1253-std,concepticon-1875,16.34,aiféala,"regret, be sorry",aifeala
+clics-doculect-69-1905,iris1253-std,concepticon-1141,16.35,trua,pity,trua
+clics-doculect-69-1906,iris1253-std,concepticon-1839,16.37,goil,"cry, weep",goil
+clics-doculect-69-1907,iris1253-std,concepticon-1839,16.37,caoin,"cry, weep",caoin
+clics-doculect-69-1908,iris1253-std,concepticon-1651,16.38,deor,tear (noun),deor
+clics-doculect-69-1909,iris1253-std,concepticon-716,16.39,cnead,groan,cnead
+clics-doculect-69-1910,iris1253-std,concepticon-716,16.39,och,groan,och
+clics-doculect-69-1911,iris1253-std,concepticon-1607,16.41,fuath,hate,fuath
+clics-doculect-69-1912,iris1253-std,concepticon-82,16.42,fearg,anger,fearg
+clics-doculect-69-1913,iris1253-std,concepticon-40,16.44,tnúth,"envy, jealousy",tnuth
+clics-doculect-69-1914,iris1253-std,concepticon-40,16.44,formad,"envy, jealousy",formad
+clics-doculect-69-1915,iris1253-std,concepticon-40,16.44,éad,"envy, jealousy",ead
+clics-doculect-69-1916,iris1253-std,concepticon-1776,16.45,náire,shame (noun),naire
+clics-doculect-69-1917,iris1253-std,concepticon-174,16.48,mórchúiseach,proud,morchuiseach
+clics-doculect-69-1918,iris1253-std,concepticon-174,16.48,bródúil,proud,broduil
+clics-doculect-69-1919,iris1253-std,concepticon-174,16.48,mórálach,proud,moralach
+clics-doculect-69-1920,iris1253-std,concepticon-174,16.48,uaibhreach,proud,uaibhreach
+clics-doculect-69-1921,iris1253-std,concepticon-1779,16.51,dúshlán,dare,dushlan
+clics-doculect-69-1922,iris1253-std,concepticon-3,16.52,calma,brave,calma
+clics-doculect-69-1923,iris1253-std,concepticon-3,16.52,misniúil,brave,misniuil
+clics-doculect-69-1924,iris1253-std,concepticon-3,16.52,cróga,brave,croga
+clics-doculect-69-1925,iris1253-std,concepticon-3,16.52,móruchtúil,brave,moruchtuil
+clics-doculect-69-1926,iris1253-std,concepticon-781,16.53,eagla,"fear, fright",eagla
+clics-doculect-69-1927,iris1253-std,concepticon-781,16.53,faitcheas,"fear, fright",faitcheas
+clics-doculect-69-1928,iris1253-std,concepticon-781,16.53,uamhan,"fear, fright",uamhan
+clics-doculect-69-1929,iris1253-std,concepticon-781,16.53,scanradh,"fear, fright",scanradh
+clics-doculect-69-1930,iris1253-std,concepticon-1810,16.54,baol,danger,baol
+clics-doculect-69-1931,iris1253-std,concepticon-1810,16.54,dainséar,danger,dainsear
+clics-doculect-69-1932,iris1253-std,concepticon-1810,16.54,contúirt,danger,contuirt
+clics-doculect-69-1933,iris1253-std,concepticon-1810,16.54,guais,danger,guais
+clics-doculect-69-1934,iris1253-std,concepticon-1784,16.62,santaigh,"desire, want",santaigh
+clics-doculect-69-1935,iris1253-std,concepticon-1784,16.62,mianaigh,"desire, want",mianaigh
+clics-doculect-69-1936,iris1253-std,concepticon-1784,16.62,tothlaigh,"desire, want",tothlaigh
+clics-doculect-69-1937,iris1253-std,concepticon-1750,16.622,togh,choose,togh
+clics-doculect-69-1938,iris1253-std,concepticon-1750,16.622,roghnaigh,choose,roghnaigh
+clics-doculect-69-1939,iris1253-std,concepticon-1092,16.63,dóchas,hope,dochas
+clics-doculect-69-1940,iris1253-std,concepticon-1092,16.63,súil,hope,suil
+clics-doculect-69-1941,iris1253-std,concepticon-100,16.65,dílis,faithful,dilis
+clics-doculect-69-1942,iris1253-std,concepticon-100,16.65,tairiseach,faithful,tairiseach
+clics-doculect-69-1943,iris1253-std,concepticon-100,16.65,seasmhach,faithful,seasmhach
+clics-doculect-69-1944,iris1253-std,concepticon-1657,16.66,fíor,true,fior
+clics-doculect-69-1945,iris1253-std,concepticon-601,16.67,bréag,"lie, tell lies",breag
+clics-doculect-69-1946,iris1253-std,concepticon-601,16.67,éitheach,"lie, tell lies",eitheach
+clics-doculect-69-1947,iris1253-std,concepticon-13,16.68,cealg,deceit,cealg
+clics-doculect-69-1948,iris1253-std,concepticon-13,16.68,calaois,deceit,calaois
+clics-doculect-69-1949,iris1253-std,concepticon-13,16.68,meabhal,deceit,meabhal
+clics-doculect-69-1950,iris1253-std,concepticon-13,16.68,camastaíl,deceit,camastail
+clics-doculect-69-1951,iris1253-std,concepticon-13,16.68,feall,deceit,feall
+clics-doculect-69-1952,iris1253-std,concepticon-1528,16.69,maith,forgive,maith
+clics-doculect-69-1953,iris1253-std,concepticon-1035,16.71,maith,good,maith
+clics-doculect-69-1954,iris1253-std,concepticon-1035,16.71,deá,good,dea
+clics-doculect-69-1955,iris1253-std,concepticon-1035,16.71,so,good,so
+clics-doculect-69-1956,iris1253-std,concepticon-1292,16.72,olc,bad,olc
+clics-doculect-69-1957,iris1253-std,concepticon-1292,16.72,droch,bad,droch
+clics-doculect-69-1958,iris1253-std,concepticon-1292,16.72,do,bad,do
+clics-doculect-69-1959,iris1253-std,concepticon-1725,16.73,ceart,"right, correct",ceart
+clics-doculect-69-1960,iris1253-std,concepticon-1725,16.73,cóir,"right, correct",coir
+clics-doculect-69-1961,iris1253-std,concepticon-1390,16.74,mícheart,wrong,micheart
+clics-doculect-69-1962,iris1253-std,concepticon-1390,16.74,contráilte,wrong,contrailte
+clics-doculect-69-1963,iris1253-std,concepticon-1390,16.74,olc,wrong,olc
+clics-doculect-69-1964,iris1253-std,concepticon-134,16.76,locht,fault,locht
+clics-doculect-69-1965,iris1253-std,concepticon-134,16.76,cion,fault,cion
+clics-doculect-69-1966,iris1253-std,concepticon-1293,16.77,dearmad,"mistake, error",dearmad
+clics-doculect-69-1967,iris1253-std,concepticon-1293,16.77,earráid,"mistake, error",earraid
+clics-doculect-69-1968,iris1253-std,concepticon-1293,16.77,meancóg,"mistake, error",meancog
+clics-doculect-69-1969,iris1253-std,concepticon-1293,16.77,botún,"mistake, error",botun
+clics-doculect-69-1970,iris1253-std,concepticon-381,16.78,milleán,blame,millean
+clics-doculect-69-1971,iris1253-std,concepticon-1687,16.79,moladh,praise,moladh
+clics-doculect-69-1972,iris1253-std,concepticon-1427,16.81,álainn,beautiful,alainn
+clics-doculect-69-1973,iris1253-std,concepticon-1427,16.81,sciamhach,beautiful,sciamhach
+clics-doculect-69-1974,iris1253-std,concepticon-1427,16.81,spéiriúil,beautiful,speiriuil
+clics-doculect-69-1975,iris1253-std,concepticon-1427,16.81,dóighiúil,beautiful,doighiuil
+clics-doculect-69-1976,iris1253-std,concepticon-1548,16.82,gránna,ugly,granna
+clics-doculect-69-1977,iris1253-std,concepticon-1548,16.82,míofar,ugly,miofar
+clics-doculect-69-1978,iris1253-std,concepticon-2018,16.83,santach,greedy,santach
+clics-doculect-69-1979,iris1253-std,concepticon-2018,16.83,airceasach,greedy,airceasach
+clics-doculect-69-1980,iris1253-std,concepticon-2018,16.83,amplach,greedy,amplach
+clics-doculect-69-1981,iris1253-std,concepticon-1310,16.84,cliste,clever,cliste
+clics-doculect-69-1982,iris1253-std,concepticon-1310,16.84,stuama,clever,stuama
+clics-doculect-69-1983,iris1253-std,concepticon-1310,16.84,meabhrach,clever,meabhrach
+clics-doculect-69-1984,iris1253-std,concepticon-1310,16.84,éirimiúil,clever,eirimiuil
+clics-doculect-69-1985,iris1253-std,concepticon-1310,16.84,ábalta,clever,abalta
+clics-doculect-69-1986,iris1253-std,concepticon-1562,17.11,aigne,mind,aigne
+clics-doculect-69-1987,iris1253-std,concepticon-1562,17.11,intinn,mind,intinn
+clics-doculect-69-1988,iris1253-std,concepticon-1562,17.11,anam,mind,anam
+clics-doculect-69-1989,iris1253-std,concepticon-1562,17.11,intleacht,mind,intleacht
+clics-doculect-69-1990,iris1253-std,concepticon-1415,17.13,smaoinigh,think (= reflect),smaoinigh
+clics-doculect-69-1991,iris1253-std,concepticon-1415,17.13,machtnaigh,think (= reflect),machtnaigh
+clics-doculect-69-1992,iris1253-std,concepticon-1415,17.13,meabhraigh,think (= reflect),meabhraigh
+clics-doculect-69-1993,iris1253-std,concepticon-1513,17.14,meas,think (= be of the opinion),meas
+clics-doculect-69-1994,iris1253-std,concepticon-1513,17.14,síl,think (= be of the opinion),sil
+clics-doculect-69-1995,iris1253-std,concepticon-1513,17.14,ceap,think (= be of the opinion),ceap
+clics-doculect-69-1996,iris1253-std,concepticon-1890,17.15,creid,believe,creid
+clics-doculect-69-1997,iris1253-std,concepticon-1536,17.16,tuig,understand,tuig
+clics-doculect-69-1998,iris1253-std,concepticon-1410,17.17,fios,know,fios
+clics-doculect-69-1999,iris1253-std,concepticon-1932,17.171,tomhais,guess,tomhais
+clics-doculect-69-2000,iris1253-std,concepticon-1932,17.171,tuairimigh,guess,tuairimigh
+clics-doculect-69-2001,iris1253-std,concepticon-117,17.172,aithris,imitate,aithris
+clics-doculect-69-2002,iris1253-std,concepticon-1521,17.18,cumá,seem,cuma
+clics-doculect-69-2003,iris1253-std,concepticon-1521,17.18,dealramh,seem,dealramh
+clics-doculect-69-2004,iris1253-std,concepticon-1521,17.18,samhlaigh,seem,samhlaigh
+clics-doculect-69-2005,iris1253-std,concepticon-1609,17.19,smaoineamh,"idea, notion",smaoineamh
+clics-doculect-69-2006,iris1253-std,concepticon-1609,17.19,idé,"idea, notion",ide
+clics-doculect-69-2007,iris1253-std,concepticon-1609,17.19,coincheap,"idea, notion",coincheap
+clics-doculect-69-2008,iris1253-std,concepticon-698,17.21,eagnaí,wise,eagnai
+clics-doculect-69-2009,iris1253-std,concepticon-698,17.21,críonna,wise,crionna
+clics-doculect-69-2010,iris1253-std,concepticon-698,17.21,gaoismhear,wise,gaoismhear
+clics-doculect-69-2011,iris1253-std,concepticon-1518,17.22,dúr,"foolish, stupid",dur
+clics-doculect-69-2012,iris1253-std,concepticon-1518,17.22,dobhránta,"foolish, stupid",dobhranta
+clics-doculect-69-2013,iris1253-std,concepticon-1518,17.22,dallintinneach,"foolish, stupid",dallintinneach
+clics-doculect-69-2014,iris1253-std,concepticon-1518,17.22,bómánta,"foolish, stupid",bomanta
+clics-doculect-69-2015,iris1253-std,concepticon-1518,17.22,amaideach,"foolish, stupid",amaideach
+clics-doculect-69-2016,iris1253-std,concepticon-1899,17.23,arbuile,"insane, crazy",arbuile
+clics-doculect-69-2017,iris1253-std,concepticon-1899,17.23,armire,"insane, crazy",armire
+clics-doculect-69-2018,iris1253-std,concepticon-504,17.24,foghlaim,learn,foghlaim
+clics-doculect-69-2019,iris1253-std,concepticon-1929,17.242,staidéar,study,staidear
+clics-doculect-69-2020,iris1253-std,concepticon-1929,17.242,breathnaigh,study,breathnaigh
+clics-doculect-69-2021,iris1253-std,concepticon-1929,17.242,scrúdaigh,study,scrudaigh
+clics-doculect-69-2022,iris1253-std,concepticon-709,17.25,múin,teach,muin
+clics-doculect-69-2023,iris1253-std,concepticon-709,17.25,teagasc,teach,teagasc
+clics-doculect-69-2024,iris1253-std,concepticon-753,17.26,dalta,pupil,dalta
+clics-doculect-69-2025,iris1253-std,concepticon-753,17.26,scoláire,pupil,scolaire
+clics-doculect-69-2026,iris1253-std,concepticon-753,17.26,macléinn,pupil,macleinn
+clics-doculect-69-2027,iris1253-std,concepticon-753,17.26,iníonléinn,pupil,inionleinn
+clics-doculect-69-2028,iris1253-std,concepticon-1038,17.27,múinteoir,teacher,muinteoir
+clics-doculect-69-2029,iris1253-std,concepticon-1038,17.27,oide,teacher,oide
+clics-doculect-69-2030,iris1253-std,concepticon-1038,17.27,máistirscoile,teacher,maistirscoile
+clics-doculect-69-2031,iris1253-std,concepticon-1038,17.27,máistreásscoile,teacher,maistreasscoile
+clics-doculect-69-2032,iris1253-std,concepticon-673,17.28,scoil,school,scoil
+clics-doculect-69-2033,iris1253-std,concepticon-673,17.28,bunscoil,school,bunscoil
+clics-doculect-69-2034,iris1253-std,concepticon-707,17.31,cuimhnigh,remember,cuimhnigh
+clics-doculect-69-2035,iris1253-std,concepticon-707,17.31,cuimhin,remember,cuimhin
+clics-doculect-69-2036,iris1253-std,concepticon-1523,17.32,dearmad,forget,dearmad
+clics-doculect-69-2037,iris1253-std,concepticon-989,17.34,soiléar,"clear, plain",soilear
+clics-doculect-69-2038,iris1253-std,concepticon-989,17.34,follasach,"clear, plain",follasach
+clics-doculect-69-2039,iris1253-std,concepticon-989,17.34,geal,"clear, plain",geal
+clics-doculect-69-2040,iris1253-std,concepticon-989,17.34,gléigeal,"clear, plain",gleigeal
+clics-doculect-69-2041,iris1253-std,concepticon-1764,17.35,doiléir,obscure,doileir
+clics-doculect-69-2042,iris1253-std,concepticon-1764,17.35,dorcha,obscure,dorcha
+clics-doculect-69-2043,iris1253-std,concepticon-1764,17.35,smúitiúil,obscure,smuitiuil
+clics-doculect-69-2044,iris1253-std,concepticon-1121,17.36,rúnda,secret,runda
+clics-doculect-69-2045,iris1253-std,concepticon-1121,17.36,rúin,secret,ruin
+clics-doculect-69-2046,iris1253-std,concepticon-1121,17.36,sicréideach,secret,sicreideach
+clics-doculect-69-2047,iris1253-std,concepticon-509,17.37,cinnte,"sure, certain",cinnte
+clics-doculect-69-2048,iris1253-std,concepticon-509,17.37,deimhin,"sure, certain",deimhin
+clics-doculect-69-2049,iris1253-std,concepticon-509,17.37,dearfa,"sure, certain",dearfa
+clics-doculect-69-2050,iris1253-std,concepticon-509,17.37,dearbh,"sure, certain",dearbh
+clics-doculect-69-2051,iris1253-std,concepticon-1626,17.38,mínigh,explain,minigh
+clics-doculect-69-2052,iris1253-std,concepticon-1626,17.38,ciallaigh,explain,ciallaigh
+clics-doculect-69-2053,iris1253-std,concepticon-1162,17.41,rún,"intention, purpose",run
+clics-doculect-69-2054,iris1253-std,concepticon-1162,17.41,aidhm,"intention, purpose",aidhm
+clics-doculect-69-2055,iris1253-std,concepticon-1162,17.41,cuspóir,"intention, purpose",cuspoir
+clics-doculect-69-2056,iris1253-std,concepticon-860,17.42,cúis,cause,cuis
+clics-doculect-69-2057,iris1253-std,concepticon-860,17.42,ábhar,cause,abhar
+clics-doculect-69-2058,iris1253-std,concepticon-860,17.42,údar,cause,udar
+clics-doculect-69-2059,iris1253-std,concepticon-1308,17.43,dabht,doubt,dabht
+clics-doculect-69-2060,iris1253-std,concepticon-1308,17.43,amhras,doubt,amhras
+clics-doculect-69-2061,iris1253-std,concepticon-1841,17.44,amhras,suspect,amhras
+clics-doculect-69-2062,iris1253-std,concepticon-1902,17.441,braith,betray,braith
+clics-doculect-69-2063,iris1253-std,concepticon-1902,17.441,feall,betray,feall
+clics-doculect-69-2064,iris1253-std,concepticon-1902,17.441,tréig,betray,treig
+clics-doculect-69-2065,iris1253-std,concepticon-643,17.45,riachtanas,"need, necessity",riachtanas
+clics-doculect-69-2066,iris1253-std,concepticon-643,17.45,gá,"need, necessity",ga
+clics-doculect-69-2067,iris1253-std,concepticon-643,17.45,call,"need, necessity",call
+clics-doculect-69-2068,iris1253-std,concepticon-686,17.46,furasta,easy,furasta
+clics-doculect-69-2069,iris1253-std,concepticon-686,17.46,saoráideach,easy,saoraideach
+clics-doculect-69-2070,iris1253-std,concepticon-686,17.46,fuirist,easy,fuirist
+clics-doculect-69-2071,iris1253-std,concepticon-584,17.47,deacair,difficult,deacair
+clics-doculect-69-2072,iris1253-std,concepticon-584,17.47,doiligh,difficult,doiligh
+clics-doculect-69-2073,iris1253-std,concepticon-584,17.47,duaisiúil,difficult,duaisiuil
+clics-doculect-69-2074,iris1253-std,concepticon-1812,17.48,iarraigh,"try, attempt",iarraigh
+clics-doculect-69-2075,iris1253-std,concepticon-1812,17.48,tástáil,"try, attempt",tastail
+clics-doculect-69-2076,iris1253-std,concepticon-1812,17.48,promh,"try, attempt",promh
+clics-doculect-69-2077,iris1253-std,concepticon-1812,17.48,seiceáil,"try, attempt",seiceail
+clics-doculect-69-2078,iris1253-std,concepticon-1812,17.48,dearbháil,"try, attempt",dearbhail
+clics-doculect-69-2079,iris1253-std,concepticon-1812,17.48,féach,"try, attempt",feach
+clics-doculect-69-2080,iris1253-std,concepticon-488,17.49,dóigh,"way, manner",doigh
+clics-doculect-69-2081,iris1253-std,concepticon-488,17.49,caoi,"way, manner",caoi
+clics-doculect-69-2082,iris1253-std,concepticon-1577,17.51,agus,and,agus
+clics-doculect-69-2083,iris1253-std,concepticon-1157,17.52,debhrígo,because,debhrigo
+clics-doculect-69-2084,iris1253-std,concepticon-1157,17.52,cionnisgo,because,cionnisgo
+clics-doculect-69-2085,iris1253-std,concepticon-1157,17.52,margheallargo,because,margheallargo
+clics-doculect-69-2086,iris1253-std,concepticon-1157,17.52,assiocairgo,because,assiocairgo
+clics-doculect-69-2087,iris1253-std,concepticon-1157,17.52,toiscgo,because,toiscgo
+clics-doculect-69-2088,iris1253-std,concepticon-1157,17.52,aranábhargo,because,aranabhargo
+clics-doculect-69-2089,iris1253-std,concepticon-1157,17.52,mar,because,mar
+clics-doculect-69-2090,iris1253-std,concepticon-1157,17.52,nó,because,no
+clics-doculect-69-2091,iris1253-std,concepticon-1459,17.53,má,if,ma
+clics-doculect-69-2092,iris1253-std,concepticon-1459,17.53,dá,if,da
+clics-doculect-69-2093,iris1253-std,concepticon-1014,17.54,nó,or,no
+clics-doculect-69-2094,iris1253-std,concepticon-1268,17.55,ná,"yes, affirmative",na
+clics-doculect-69-2095,iris1253-std,concepticon-1269,17.56,ná,"no, negative",na
+clics-doculect-69-2096,iris1253-std,concepticon-1239,17.61,conas,how?,conas
+clics-doculect-69-2097,iris1253-std,concepticon-1239,17.61,cénchaoi,how?,cenchaoi
+clics-doculect-69-2098,iris1253-std,concepticon-1239,17.61,céndóigh,how?,cendoigh
+clics-doculect-69-2099,iris1253-std,concepticon-1239,17.61,cadémar,how?,cademar
+clics-doculect-69-2100,iris1253-std,concepticon-822,17.62,cémhéad,how many?,cemhead
+clics-doculect-69-2101,iris1253-std,concepticon-531,17.63,cémhéad,how much?,cemhead
+clics-doculect-69-2102,iris1253-std,concepticon-1236,17.64,cad,what?,cad
+clics-doculect-69-2103,iris1253-std,concepticon-1236,17.64,cadé,what?,cade
+clics-doculect-69-2104,iris1253-std,concepticon-1238,17.65,cathain,when?,cathain
+clics-doculect-69-2105,iris1253-std,concepticon-1238,17.65,cénuair,when?,cenuair
+clics-doculect-69-2106,iris1253-std,concepticon-1238,17.65,cáhuair,when?,cahuair
+clics-doculect-69-2107,iris1253-std,concepticon-1237,17.66,cá,where?,ca
+clics-doculect-69-2108,iris1253-std,concepticon-1237,17.66,cénáit,where?,cenait
+clics-doculect-69-2109,iris1253-std,concepticon-727,17.67,céacu,which?,ceacu
+clics-doculect-69-2110,iris1253-std,concepticon-1235,17.68,cé,who?,ce
+clics-doculect-69-2111,iris1253-std,concepticon-1270,17.69,cadchuige,why?,cadchuige
+clics-doculect-69-2112,iris1253-std,concepticon-1270,17.69,cénfáth,why?,cenfath
+clics-doculect-69-2113,iris1253-std,concepticon-1270,17.69,cadinathaobh,why?,cadinathaobh
+clics-doculect-69-2114,iris1253-std,concepticon-1363,18.11,guth,voice,guth
+clics-doculect-69-2115,iris1253-std,concepticon-1363,18.11,glór,voice,glor
+clics-doculect-69-2116,iris1253-std,concepticon-1261,18.12,can,sing,can
+clics-doculect-69-2117,iris1253-std,concepticon-55,18.15,cogar,whisper,cogar
+clics-doculect-69-2118,iris1253-std,concepticon-128,18.16,mungail,mumble,mungail
+clics-doculect-69-2119,iris1253-std,concepticon-128,18.16,cogain,mumble,cogain
+clics-doculect-69-2120,iris1253-std,concepticon-1025,18.17,fead,whistle,fead
+clics-doculect-69-2121,iris1253-std,concepticon-298,18.18,scread,"shriek, screech",scread
+clics-doculect-69-2122,iris1253-std,concepticon-298,18.18,scréach,"shriek, screech",screach
+clics-doculect-69-2123,iris1253-std,concepticon-298,18.18,béic,"shriek, screech",beic
+clics-doculect-69-2124,iris1253-std,concepticon-526,18.19,béic,howl,beic
+clics-doculect-69-2125,iris1253-std,concepticon-526,18.19,uaill,howl,uaill
+clics-doculect-69-2126,iris1253-std,concepticon-526,18.19,glam,howl,glam
+clics-doculect-69-2127,iris1253-std,concepticon-1623,18.21,labhair,"speak, talk",labhair
+clics-doculect-69-2128,iris1253-std,concepticon-1623,18.21,caintadhéanamh,"speak, talk",caintadheanamh
+clics-doculect-69-2129,iris1253-std,concepticon-1866,18.211,stad,"stutter, stammer",stad
+clics-doculect-69-2130,iris1253-std,concepticon-1458,18.22,deir,say,deir
+clics-doculect-69-2131,iris1253-std,concepticon-1711,18.221,inis,tell story,inis
+clics-doculect-69-2132,iris1253-std,concepticon-1711,18.221,deir,tell story,deir
+clics-doculect-69-2133,iris1253-std,concepticon-1115,18.222,óráid,speech (make a),oraid
+clics-doculect-69-2134,iris1253-std,concepticon-48,18.23,tost,silent (be),tost
+clics-doculect-69-2135,iris1253-std,concepticon-1307,18.24,teanga,language,teanga
+clics-doculect-69-2136,iris1253-std,concepticon-1307,18.24,urlabhra,language,urlabhra
+clics-doculect-69-2137,iris1253-std,concepticon-1307,18.24,caint,language,caint
+clics-doculect-69-2138,iris1253-std,concepticon-1599,18.26,focal,word,focal
+clics-doculect-69-2139,iris1253-std,concepticon-1599,18.26,briathar,word,briathar
+clics-doculect-69-2140,iris1253-std,concepticon-1405,18.28,ainm,name,ainm
+clics-doculect-69-2141,iris1253-std,concepticon-1309,18.31,fiafraigh,"ask (question, inquire)",fiafraigh
+clics-doculect-69-2142,iris1253-std,concepticon-1275,18.32,freagair,answer,freagair
+clics-doculect-69-2143,iris1253-std,concepticon-2022,18.33,admhaigh,"admit, confess",admhaigh
+clics-doculect-69-2144,iris1253-std,concepticon-755,18.34,séan,deny,sean
+clics-doculect-69-2145,iris1253-std,concepticon-755,18.34,bréagnaigh,deny,breagnaigh
+clics-doculect-69-2146,iris1253-std,concepticon-1828,18.35,iarr,"ask, request",iarr
+clics-doculect-69-2147,iris1253-std,concepticon-1675,18.36,geall,promise,geall
+clics-doculect-69-2148,iris1253-std,concepticon-49,18.37,diúltaigh,refuse,diultaigh
+clics-doculect-69-2149,iris1253-std,concepticon-49,18.37,eitigh,refuse,eitigh
+clics-doculect-69-2150,iris1253-std,concepticon-83,18.38,cros,forbid,cros
+clics-doculect-69-2151,iris1253-std,concepticon-83,18.38,toirmisc,forbid,toirmisc
+clics-doculect-69-2152,iris1253-std,concepticon-83,18.38,coisc,forbid,coisc
+clics-doculect-69-2153,iris1253-std,concepticon-299,18.39,bearr,"rebuke, scold",bearr
+clics-doculect-69-2154,iris1253-std,concepticon-299,18.39,feann,"rebuke, scold",feann
+clics-doculect-69-2155,iris1253-std,concepticon-299,18.39,scioll,"rebuke, scold",scioll
+clics-doculect-69-2156,iris1253-std,concepticon-299,18.39,éilighar,"rebuke, scold",eilighar
+clics-doculect-69-2157,iris1253-std,concepticon-1084,18.41,scairtar,call (=summon),scairtar
+clics-doculect-69-2158,iris1253-std,concepticon-1084,18.41,glaoighar,call (=summon),glaoighar
+clics-doculect-69-2159,iris1253-std,concepticon-1084,18.41,gairar,call (=summon),gairar
+clics-doculect-69-2160,iris1253-std,concepticon-180,18.42,gair,call (=name),gair
+clics-doculect-69-2161,iris1253-std,concepticon-9,18.43,fógair,announce,fogair
+clics-doculect-69-2162,iris1253-std,concepticon-1192,18.44,bagair,threaten,bagair
+clics-doculect-69-2163,iris1253-std,concepticon-101,18.45,maígh,boast,maigh
+clics-doculect-69-2164,iris1253-std,concepticon-101,18.45,gaisce,boast,gaisce
+clics-doculect-69-2165,iris1253-std,concepticon-1672,18.51,scríobh,write,scriobh
+clics-doculect-69-2166,iris1253-std,concepticon-724,18.52,léigh,read,leigh
+clics-doculect-69-2167,iris1253-std,concepticon-648,18.56,páipéar,paper,paipear
+clics-doculect-69-2168,iris1253-std,concepticon-794,18.57,peann,pen,peann
+clics-doculect-69-2169,iris1253-std,concepticon-963,18.61,leabhar,book,leabhar
+clics-doculect-69-2171,iris1253-std,concepticon-777,18.71,fliúit,flute,fliuit
+clics-doculect-69-2172,iris1253-std,concepticon-908,18.72,druma,drum,druma
+clics-doculect-69-2173,iris1253-std,concepticon-2136,18.73,corn,"horn, trumpet",corn
+clics-doculect-69-2174,iris1253-std,concepticon-2136,18.73,trumpa,"horn, trumpet",trumpa
+clics-doculect-69-2175,iris1253-std,concepticon-300,18.74,crothal,rattle,crothal
+clics-doculect-69-2176,iris1253-std,concepticon-300,18.74,gligín,rattle,gligin
+clics-doculect-69-2177,iris1253-std,concepticon-1300,19.11,tír,country,tir
+clics-doculect-69-2178,iris1253-std,concepticon-1300,19.11,tuath,country,tuath
+clics-doculect-69-2179,iris1253-std,concepticon-1300,19.11,críoch,country,crioch
+clics-doculect-69-2180,iris1253-std,concepticon-89,19.12,tírdhúchais,one's native country,tirdhuchais
+clics-doculect-69-2181,iris1253-std,concepticon-1391,19.15,cathair,"city, town",cathair
+clics-doculect-69-2182,iris1253-std,concepticon-1391,19.15,bailemór,"city, town",bailemor
+clics-doculect-69-2183,iris1253-std,concepticon-930,19.16,baile,village,baile
+clics-doculect-69-2184,iris1253-std,concepticon-930,19.16,sráidbhaile,village,sraidbhaile
+clics-doculect-69-2185,iris1253-std,concepticon-1010,19.17,críoch,boundary,crioch
+clics-doculect-69-2186,iris1253-std,concepticon-1010,19.17,teorainn,boundary,teorainn
+clics-doculect-69-2187,iris1253-std,concepticon-789,19.21,daoine,people (populace),daoine
+clics-doculect-69-2188,iris1253-std,concepticon-789,19.21,pobal,people (populace),pobal
+clics-doculect-69-2189,iris1253-std,concepticon-789,19.21,muintir,people (populace),muintir
+clics-doculect-69-2190,iris1253-std,concepticon-789,19.21,bunadh,people (populace),bunadh
+clics-doculect-69-2191,iris1253-std,concepticon-789,19.21,cine,people (populace),cine
+clics-doculect-69-2192,iris1253-std,concepticon-302,19.23,treibh,"tribe, clan",treibh
+clics-doculect-69-2193,iris1253-std,concepticon-302,19.23,fine,"tribe, clan",fine
+clics-doculect-69-2194,iris1253-std,concepticon-302,19.23,muintir,"tribe, clan",muintir
+clics-doculect-69-2195,iris1253-std,concepticon-302,19.23,bunadh,"tribe, clan",bunadh
+clics-doculect-69-2196,iris1253-std,concepticon-302,19.23,clann,"tribe, clan",clann
+clics-doculect-69-2197,iris1253-std,concepticon-301,19.24,taoiseach,"chief, chieftain",taoiseach
+clics-doculect-69-2198,iris1253-std,concepticon-301,19.24,ceannfine,"chief, chieftain",ceannfine
+clics-doculect-69-2199,iris1253-std,concepticon-301,19.24,flaith,"chief, chieftain",flaith
+clics-doculect-69-2200,iris1253-std,concepticon-301,19.24,triath,"chief, chieftain",triath
+clics-doculect-69-2201,iris1253-std,concepticon-1296,19.25,bachall,"staff, walking stick",bachall
+clics-doculect-69-2202,iris1253-std,concepticon-1296,19.25,crann,"staff, walking stick",crann
+clics-doculect-69-2203,iris1253-std,concepticon-1846,19.31,rialaigh,"rule, govern",rialaigh
+clics-doculect-69-2204,iris1253-std,concepticon-1846,19.31,bheithiréim,"rule, govern",bheithireim
+clics-doculect-69-2205,iris1253-std,concepticon-1846,19.31,bheithigceannas,"rule, govern",bheithigceannas
+clics-doculect-69-2206,iris1253-std,concepticon-1508,19.32,rí,"king, ruler",ri
+clics-doculect-69-2207,iris1253-std,concepticon-1306,19.33,banríon,queen,banrion
+clics-doculect-69-2208,iris1253-std,concepticon-482,19.36,uasal,"noble, nobleman",uasal
+clics-doculect-69-2209,iris1253-std,concepticon-1032,19.37,saoránach,"citizen, subject",saoranach
+clics-doculect-69-2210,iris1253-std,concepticon-1032,19.37,cathróir,"citizen, subject",cathroir
+clics-doculect-69-2211,iris1253-std,concepticon-383,19.41,máistir,master,maistir
+clics-doculect-69-2212,iris1253-std,concepticon-812,19.42,sclábhaí,slave,sclabhai
+clics-doculect-69-2213,iris1253-std,concepticon-255,19.43,seirbhíseach,servant,seirbhiseach
+clics-doculect-69-2214,iris1253-std,concepticon-255,19.43,searbhónta,servant,searbhonta
+clics-doculect-69-2215,iris1253-std,concepticon-384,19.44,saorfhear,freeman,saorfhear
+clics-doculect-69-2216,iris1253-std,concepticon-384,19.44,saoirseach,freeman,saoirseach
+clics-doculect-69-2217,iris1253-std,concepticon-384,19.44,saoránach,freeman,saoranach
+clics-doculect-69-2218,iris1253-std,concepticon-1128,19.45,órdaigh,"command, order",ordaigh
+clics-doculect-69-2219,iris1253-std,concepticon-1635,19.46,géill,obey,geill
+clics-doculect-69-2220,iris1253-std,concepticon-1003,19.47,ligdo,"let, permit",ligdo
+clics-doculect-69-2221,iris1253-std,concepticon-1003,19.47,ceadaigh,"let, permit",ceadaigh
+clics-doculect-69-2222,iris1253-std,concepticon-1325,19.51,cara,"friend, companion",cara
+clics-doculect-69-2223,iris1253-std,concepticon-1325,19.51,comrádaí,"friend, companion",comradai
+clics-doculect-69-2224,iris1253-std,concepticon-1325,19.51,compánach,"friend, companion",companach
+clics-doculect-69-2225,iris1253-std,concepticon-1358,19.52,namhaid,enemy,namhaid
+clics-doculect-69-2226,iris1253-std,concepticon-1332,19.54,comharsa,neighbor,comharsa
+clics-doculect-69-2227,iris1253-std,concepticon-791,19.55,coimhthíoch,stranger,coimhthioch
+clics-doculect-69-2228,iris1253-std,concepticon-791,19.55,eachtrannach,stranger,eachtrannach
+clics-doculect-69-2229,iris1253-std,concepticon-791,19.55,stráinséir,stranger,strainseir
+clics-doculect-69-2230,iris1253-std,concepticon-1782,19.56,aoi,guest,aoi
+clics-doculect-69-2231,iris1253-std,concepticon-1782,19.56,cuairteoir,guest,cuairteoir
+clics-doculect-69-2232,iris1253-std,concepticon-1545,19.57,óstach,host,ostach
+clics-doculect-69-2233,iris1253-std,concepticon-1545,19.57,tíosach,host,tiosach
+clics-doculect-69-2234,iris1253-std,concepticon-1897,19.58,cuidighle,"help, aid",cuidighle
+clics-doculect-69-2235,iris1253-std,concepticon-1897,19.58,cabhraighle,"help, aid",cabhraighle
+clics-doculect-69-2236,iris1253-std,concepticon-1897,19.58,fóir,"help, aid",foir
+clics-doculect-69-2237,iris1253-std,concepticon-1550,19.59,bac,"hinder, prevent",bac
+clics-doculect-69-2238,iris1253-std,concepticon-1550,19.59,coisc,"hinder, prevent",coisc
+clics-doculect-69-2239,iris1253-std,concepticon-1550,19.59,stop,"hinder, prevent",stop
+clics-doculect-69-2240,iris1253-std,concepticon-1550,19.59,toirmisc,"hinder, prevent",toirmisc
+clics-doculect-69-2241,iris1253-std,concepticon-1747,19.61,nós,custom,nos
+clics-doculect-69-2242,iris1253-std,concepticon-1747,19.61,béas,custom,beas
+clics-doculect-69-2243,iris1253-std,concepticon-1747,19.61,gnás,custom,gnas
+clics-doculect-69-2244,iris1253-std,concepticon-1747,19.61,cleachtadh,custom,cleachtadh
+clics-doculect-69-2245,iris1253-std,concepticon-1848,19.62,cogadh,"strife, quarrel",cogadh
+clics-doculect-69-2246,iris1253-std,concepticon-1848,19.62,imreas,"strife, quarrel",imreas
+clics-doculect-69-2247,iris1253-std,concepticon-1848,19.62,achrann,"strife, quarrel",achrann
+clics-doculect-69-2248,iris1253-std,concepticon-1848,19.62,troid,"strife, quarrel",troid
+clics-doculect-69-2249,iris1253-std,concepticon-1848,19.62,clampar,"strife, quarrel",clampar
+clics-doculect-69-2250,iris1253-std,concepticon-2024,19.63,comhchealg,"conspiracy, plot",comhchealg
+clics-doculect-69-2251,iris1253-std,concepticon-2024,19.63,uiscefaoithalamh,"conspiracy, plot",uiscefaoithalamh
+clics-doculect-69-2252,iris1253-std,concepticon-2024,19.63,cogar,"conspiracy, plot",cogar
+clics-doculect-69-2253,iris1253-std,concepticon-1831,19.65,casar,meet,casar
+clics-doculect-69-2254,iris1253-std,concepticon-1831,19.65,do,meet,do
+clics-doculect-69-2255,iris1253-std,concepticon-1831,19.65,le,meet,le
+clics-doculect-69-2256,iris1253-std,concepticon-1831,19.65,buaille,meet,buaille
+clics-doculect-69-2257,iris1253-std,concepticon-1610,19.72,meirdreach,prostitute,meirdreach
+clics-doculect-69-2258,iris1253-std,concepticon-1610,19.72,striapach,prostitute,striapach
+clics-doculect-69-2259,iris1253-std,concepticon-1423,20.11,troid,fight (vb),troid
+clics-doculect-69-2260,iris1253-std,concepticon-1423,20.11,comhraic,fight (vb),comhraic
+clics-doculect-69-2261,iris1253-std,concepticon-579,20.13,cogadh,"war, battle",cogadh
+clics-doculect-69-2262,iris1253-std,concepticon-579,20.13,cath,"war, battle",cath
+clics-doculect-69-2263,iris1253-std,concepticon-1338,20.14,síocháin,peace,siochain
+clics-doculect-69-2264,iris1253-std,concepticon-1561,20.15,arm,army,arm
+clics-doculect-69-2265,iris1253-std,concepticon-1561,20.15,slua,army,slua
+clics-doculect-69-2266,iris1253-std,concepticon-1941,20.17,saighdiúir,soldier,saighdiuir
+clics-doculect-69-2267,iris1253-std,concepticon-951,20.21,airm,"weapons, arms",airm
+clics-doculect-69-2268,iris1253-std,concepticon-1763,20.22,cleithailpín,club,cleithailpin
+clics-doculect-69-2269,iris1253-std,concepticon-1763,20.22,smachtín,club,smachtin
+clics-doculect-69-2270,iris1253-std,concepticon-1763,20.22,lorg,club,lorg
+clics-doculect-69-2271,iris1253-std,concepticon-386,20.222,tuachatha,battle-ax,tuachatha
+clics-doculect-69-2272,iris1253-std,concepticon-387,20.23,cranntabhaill,sling,cranntabhaill
+clics-doculect-69-2273,iris1253-std,concepticon-994,20.24,bogha,bow,bogha
+clics-doculect-69-2274,iris1253-std,concepticon-977,20.25,saighead,arrow,saighead
+clics-doculect-69-2275,iris1253-std,concepticon-945,20.26,sleá,spear,slea
+clics-doculect-69-2276,iris1253-std,concepticon-1535,20.27,claíomh,sword,claiomh
+clics-doculect-69-2277,iris1253-std,concepticon-1566,20.28,gunna,"gun, cannon",gunna
+clics-doculect-69-2278,iris1253-std,concepticon-1566,20.28,gunnamór,"gun, cannon",gunnamor
+clics-doculect-69-2279,iris1253-std,concepticon-1566,20.28,canóin,"gun, cannon",canoin
+clics-doculect-69-2280,iris1253-std,concepticon-1566,20.28,píosaordánais,"gun, cannon",piosaordanais
+clics-doculect-69-2281,iris1253-std,concepticon-1061,20.31,cathéide,armor (defensive),catheide
+clics-doculect-69-2282,iris1253-std,concepticon-1061,20.31,culaithchatha,armor (defensive),culaithchatha
+clics-doculect-69-2283,iris1253-std,concepticon-1680,20.33,clogad,helmet,clogad
+clics-doculect-69-2284,iris1253-std,concepticon-1680,20.33,cafarr,helmet,cafarr
+clics-doculect-69-2285,iris1253-std,concepticon-1064,20.34,sciath,shield,sciath
+clics-doculect-69-2286,iris1253-std,concepticon-1938,20.35,daingean,fortress,daingean
+clics-doculect-69-2287,iris1253-std,concepticon-1938,20.35,dún,fortress,dun
+clics-doculect-69-2288,iris1253-std,concepticon-1671,20.36,túr,tower,tur
+clics-doculect-69-2289,iris1253-std,concepticon-783,20.41,bua,victory,bua
+clics-doculect-69-2290,iris1253-std,concepticon-783,20.41,craobh,victory,craobh
+clics-doculect-69-2291,iris1253-std,concepticon-783,20.41,caithréim,victory,caithreim
+clics-doculect-69-2292,iris1253-std,concepticon-782,20.42,díomua,defeat,diomua
+clics-doculect-69-2293,iris1253-std,concepticon-782,20.42,briseadh,defeat,briseadh
+clics-doculect-69-2294,iris1253-std,concepticon-782,20.42,maidhm,defeat,maidhm
+clics-doculect-69-2295,iris1253-std,concepticon-782,20.42,turnamh,defeat,turnamh
+clics-doculect-69-2296,iris1253-std,concepticon-722,20.43,ionsaí,attack,ionsai
+clics-doculect-69-2297,iris1253-std,concepticon-722,20.43,fóbair,attack,fobair
+clics-doculect-69-2298,iris1253-std,concepticon-1330,20.44,cosain,defend,cosain
+clics-doculect-69-2299,iris1253-std,concepticon-1330,20.44,díon,defend,dion
+clics-doculect-69-2300,iris1253-std,concepticon-421,20.45,cúlaigh,retreat,culaigh
+clics-doculect-69-2301,iris1253-std,concepticon-1696,20.46,géill,surrender,geill
+clics-doculect-69-2302,iris1253-std,concepticon-1072,20.47,príosúnach,"captive, prisoner",priosunach
+clics-doculect-69-2303,iris1253-std,concepticon-1072,20.47,braighdeanach,"captive, prisoner",braighdeanach
+clics-doculect-69-2304,iris1253-std,concepticon-1072,20.47,geimhleach,"captive, prisoner",geimhleach
+clics-doculect-69-2305,iris1253-std,concepticon-1072,20.47,cime,"captive, prisoner",cime
+clics-doculect-69-2306,iris1253-std,concepticon-1940,20.471,fairtheoir,"guard, sentinel",fairtheoir
+clics-doculect-69-2307,iris1253-std,concepticon-1940,20.471,garda,"guard, sentinel",garda
+clics-doculect-69-2308,iris1253-std,concepticon-1022,20.48,creach,"booty, spoils",creach
+clics-doculect-69-2309,iris1253-std,concepticon-1022,20.48,éadáil,"booty, spoils",eadail
+clics-doculect-69-2310,iris1253-std,concepticon-65,20.49,luíochán,ambush,luiochan
+clics-doculect-69-2311,iris1253-std,concepticon-65,20.49,oirchill,ambush,oirchill
+clics-doculect-69-2312,iris1253-std,concepticon-1858,20.51,iascaire,fisherman,iascaire
+clics-doculect-69-2313,iris1253-std,concepticon-1074,20.52,duán,fishhook,duan
+clics-doculect-69-2314,iris1253-std,concepticon-19,20.53,dorú,fishing line,doru
+clics-doculect-69-2315,iris1253-std,concepticon-388,20.54,líon,fishnet,lion
+clics-doculect-69-2316,iris1253-std,concepticon-388,20.54,eangach,fishnet,eangach
+clics-doculect-69-2317,iris1253-std,concepticon-2013,20.56,baoite,bait,baoite
+clics-doculect-69-2318,iris1253-std,concepticon-1435,20.61,seilg,hunt,seilg
+clics-doculect-69-2319,iris1253-std,concepticon-1435,20.61,fiach,hunt,fiach
+clics-doculect-69-2320,iris1253-std,concepticon-1172,20.62,scaoil,shoot,scaoil
+clics-doculect-69-2321,iris1253-std,concepticon-1172,20.62,caith,shoot,caith
+clics-doculect-69-2322,iris1253-std,concepticon-1075,20.64,sás,trap (noun),sas
+clics-doculect-69-2323,iris1253-std,concepticon-1075,20.64,gaiste,trap (noun),gaiste
+clics-doculect-69-2324,iris1253-std,concepticon-1075,20.64,paintéar,trap (noun),paintear
+clics-doculect-69-2325,iris1253-std,concepticon-1170,20.65,beirar,trap (vb),beirar
+clics-doculect-69-2326,iris1253-std,concepticon-1170,20.65,ceap,trap (vb),ceap
+clics-doculect-69-2327,iris1253-std,concepticon-1170,20.65,gabh,trap (vb),gabh
+clics-doculect-69-2328,iris1253-std,concepticon-1062,21.11,dlí,law,dli
+clics-doculect-69-2329,iris1253-std,concepticon-1062,21.11,reacht,law,reacht
+clics-doculect-69-2330,iris1253-std,concepticon-1068,21.15,cúirt,court,cuirt
+clics-doculect-69-2331,iris1253-std,concepticon-1818,21.16,breith,judge (vb),breith
+clics-doculect-69-2332,iris1253-std,concepticon-1818,21.16,breithiúntasathabhairt,judge (vb),breithiuntasathabhairt
+clics-doculect-69-2333,iris1253-std,concepticon-1067,21.17,breithiúntas,judgment,breithiuntas
+clics-doculect-69-2334,iris1253-std,concepticon-1067,21.17,breith,judgment,breith
+clics-doculect-69-2335,iris1253-std,concepticon-861,21.18,breitheamh,judge (noun),breitheamh
+clics-doculect-69-2336,iris1253-std,concepticon-2020,21.21,éilitheoir,plaintiff,eilitheoir
+clics-doculect-69-2337,iris1253-std,concepticon-2020,21.21,gearánaí,plaintiff,gearanai
+clics-doculect-69-2338,iris1253-std,concepticon-2020,21.21,agróir,plaintiff,agroir
+clics-doculect-69-2339,iris1253-std,concepticon-1034,21.22,cosantóir,defendant,cosantoir
+clics-doculect-69-2340,iris1253-std,concepticon-1034,21.22,cosnamhaí,defendant,cosnamhai
+clics-doculect-69-2341,iris1253-std,concepticon-1144,21.23,finné,witness,finne
+clics-doculect-69-2342,iris1253-std,concepticon-1939,21.24,mionnaigh,swear,mionnaigh
+clics-doculect-69-2343,iris1253-std,concepticon-1939,21.24,móidigh,swear,moidigh
+clics-doculect-69-2344,iris1253-std,concepticon-1712,21.25,mionn,oath,mionn
+clics-doculect-69-2345,iris1253-std,concepticon-1814,21.31,cúisigh,accuse,cuisigh
+clics-doculect-69-2346,iris1253-std,concepticon-484,21.32,daoraigh,condemn,daoraigh
+clics-doculect-69-2347,iris1253-std,concepticon-484,21.32,teilg,condemn,teilg
+clics-doculect-69-2348,iris1253-std,concepticon-983,21.33,daor,convict (vb),daor
+clics-doculect-69-2349,iris1253-std,concepticon-983,21.33,teilg,convict (vb),teilg
+clics-doculect-69-2350,iris1253-std,concepticon-988,21.34,saor,acquit,saor
+clics-doculect-69-2351,iris1253-std,concepticon-988,21.34,éigiontaigh,acquit,eigiontaigh
+clics-doculect-69-2352,iris1253-std,concepticon-1682,21.35,ciontach,guilty,ciontach
+clics-doculect-69-2353,iris1253-std,concepticon-90,21.36,neamhchiontach,innocent,neamhchiontach
+clics-doculect-69-2354,iris1253-std,concepticon-390,21.37,pionós,"penalty, punishment",pionos
+clics-doculect-69-2355,iris1253-std,concepticon-390,21.37,éiric,"penalty, punishment",eiric
+clics-doculect-69-2356,iris1253-std,concepticon-390,21.37,smachtbhanna,"penalty, punishment",smachtbhanna
+clics-doculect-69-2357,iris1253-std,concepticon-218,21.38,fíneáil,fine,fineail
+clics-doculect-69-2358,iris1253-std,concepticon-1281,21.39,príosún,"prison, jail",priosun
+clics-doculect-69-2359,iris1253-std,concepticon-1281,21.39,carcair,"prison, jail",carcair
+clics-doculect-69-2360,iris1253-std,concepticon-845,21.42,dúnmharaigh,murder,dunmharaigh
+clics-doculect-69-2361,iris1253-std,concepticon-902,21.43,adhaltranas,adultery,adhaltranas
+clics-doculect-69-2362,iris1253-std,concepticon-953,21.44,éigniú,rape,eigniu
+clics-doculect-69-2363,iris1253-std,concepticon-953,21.44,banéigean,rape,baneigean
+clics-doculect-69-2364,iris1253-std,concepticon-1889,21.46,dómailíseach,arson,domailiseach
+clics-doculect-69-2365,iris1253-std,concepticon-1889,21.46,coirloscadh,arson,coirloscadh
+clics-doculect-69-2366,iris1253-std,concepticon-1792,21.47,éitheach,perjury,eitheach
+clics-doculect-69-2367,iris1253-std,concepticon-1792,21.47,mionn,perjury,mionn
+clics-doculect-69-2368,iris1253-std,concepticon-1792,21.47,leabharéithighathabhairt,perjury,leabhareithighathabhairt
+clics-doculect-69-2369,iris1253-std,concepticon-1792,21.47,fianaisebhréigeathabhairt,perjury,fianaisebhreigeathabhairt
+clics-doculect-69-2370,iris1253-std,concepticon-713,21.51,goid,steal,goid
+clics-doculect-69-2371,iris1253-std,concepticon-1160,21.52,gadaí,thief,gadai
+clics-doculect-69-2372,iris1253-std,concepticon-1160,21.52,bradach,thief,bradach

@@ -1,0 +1,952 @@
+ID,Language_ID,Feature_ID,IDS_Key,Value,Concept,IPA_UDECODE
+clics-doculect-126-1,esee1247-std,concepticon-626,1.21,meši,"earth, land",mesi
+clics-doculect-126-2,esee1247-std,concepticon-2,1.213,mešihahi,dust,mesihahi
+clics-doculect-126-3,esee1247-std,concepticon-640,1.214,wašapa,mud,wasapa
+clics-doculect-126-4,esee1247-std,concepticon-640,1.214,wawa,mud,wawa
+clics-doculect-126-5,esee1247-std,concepticon-671,1.215,mešihahi,sand,mesihahi
+clics-doculect-126-6,esee1247-std,concepticon-2118,1.22,eiyo,"mountain, hill",eiyo
+clics-doculect-126-7,esee1247-std,concepticon-618,1.222,epawakiɓo,"cliff, precipice",epawakibo
+clics-doculect-126-8,esee1247-std,concepticon-618,1.222,ekʷiwewi,"cliff, precipice",ekwiwewi
+clics-doculect-126-9,esee1247-std,concepticon-652,1.23,hahahaha,"plain, field",hahahaha
+clics-doculect-126-10,esee1247-std,concepticon-622,1.25,nasi,island,nasi
+clics-doculect-126-11,esee1247-std,concepticon-622,1.25,mešinani,island,mesinani
+clics-doculect-126-12,esee1247-std,concepticon-113,1.27,enaoxosawa,shore,enaoxosawa
+clics-doculect-126-13,esee1247-std,concepticon-113,1.27,mešihahi,shore,mesihahi
+clics-doculect-126-14,esee1247-std,concepticon-1155,1.28,xani,cave,xani
+clics-doculect-126-15,esee1247-std,concepticon-948,1.31,ena,water,ena
+clics-doculect-126-16,esee1247-std,concepticon-1768,1.324,ewapa,foam,ewapa
+clics-doculect-126-17,esee1247-std,concepticon-624,1.33,ɓai,lake,bai
+clics-doculect-126-18,esee1247-std,concepticon-978,1.35,enašaho,wave,enasaho
+clics-doculect-126-19,esee1247-std,concepticon-666,1.36,ena,"river, stream, brook",ena
+clics-doculect-126-20,esee1247-std,concepticon-666,1.36,enaoxo,"river, stream, brook",enaoxo
+clics-doculect-126-21,esee1247-std,concepticon-666,1.36,kʷei,"river, stream, brook",kwei
+clics-doculect-126-22,esee1247-std,concepticon-2144,1.37,xani,"spring, well",xani
+clics-doculect-126-23,esee1247-std,concepticon-2144,1.37,čixoko,"spring, well",cixoko
+clics-doculect-126-24,esee1247-std,concepticon-2144,1.37,eteoxi,"spring, well",eteoxi
+clics-doculect-126-25,esee1247-std,concepticon-1145,1.38,ačewi,swamp,acewi
+clics-doculect-126-26,esee1247-std,concepticon-1145,1.38,čixoko,swamp,cixoko
+clics-doculect-126-27,esee1247-std,concepticon-943,1.39,ɓo'wa,waterfall,bo'wa
+clics-doculect-126-28,esee1247-std,concepticon-420,1.41,eɓio,"woods, forest",ebio
+clics-doculect-126-30,esee1247-std,concepticon-2125,1.44,mei,"stone, rock",mei
+clics-doculect-126-31,esee1247-std,concepticon-2125,1.44,emei,"stone, rock",emei
+clics-doculect-126-32,esee1247-std,concepticon-6,1.45,mešiweweakanahe,earthquake,mesiweweakanahe
+clics-doculect-126-33,esee1247-std,concepticon-1732,1.51,eya,sky,eya
+clics-doculect-126-34,esee1247-std,concepticon-1343,1.52,išeki,sun,iseki
+clics-doculect-126-35,esee1247-std,concepticon-1343,1.52,ešeki,sun,eseki
+clics-doculect-126-36,esee1247-std,concepticon-1313,1.53,ɓaʔi,moon,ba?i
+clics-doculect-126-37,esee1247-std,concepticon-1430,1.54,mahameta,star,mahameta
+clics-doculect-126-38,esee1247-std,concepticon-1654,1.55,poxexi,lightning,poxexi
+clics-doculect-126-39,esee1247-std,concepticon-1150,1.56,kʷehi,thunder,kwehi
+clics-doculect-126-40,esee1247-std,concepticon-1150,1.56,kʷehe,thunder,kwehe
+clics-doculect-126-41,esee1247-std,concepticon-2007,1.57,poxexipoanahe,lightning (as striking),poxexipoanahe
+clics-doculect-126-42,esee1247-std,concepticon-1733,1.59,sihiani,rainbow,sihiani
+clics-doculect-126-43,esee1247-std,concepticon-630,1.61,heahaʔa,light (noun),heaha?a
+clics-doculect-126-44,esee1247-std,concepticon-11,1.62,apo,darkness,apo
+clics-doculect-126-45,esee1247-std,concepticon-1388,1.63,ešawa,"shade, shadow",esawa
+clics-doculect-126-46,esee1247-std,concepticon-1388,1.63,eaxaɲa,"shade, shadow",eaxana
+clics-doculect-126-47,esee1247-std,concepticon-1977,1.64,mahametana,dew,mahametana
+clics-doculect-126-48,esee1247-std,concepticon-1977,1.64,eši'o,dew,esi'o
+clics-doculect-126-49,esee1247-std,concepticon-960,1.72,ɓeni,wind,beni
+clics-doculect-126-50,esee1247-std,concepticon-1489,1.73,ɓo,cloud,bo
+clics-doculect-126-51,esee1247-std,concepticon-1489,1.73,haʔa,cloud,ha?a
+clics-doculect-126-52,esee1247-std,concepticon-249,1.74,wohaɓo,fog,wohabo
+clics-doculect-126-53,esee1247-std,concepticon-658,1.75,ena,rain (noun),ena
+clics-doculect-126-54,esee1247-std,concepticon-658,1.75,pwehi?,rain (noun),pwehi?
+clics-doculect-126-55,esee1247-std,concepticon-952,1.78,še,weather,se
+clics-doculect-126-56,esee1247-std,concepticon-221,1.81,kʷaki,fire,kwaki
+clics-doculect-126-57,esee1247-std,concepticon-778,1.83,wičača,smoke (noun),wicaca
+clics-doculect-126-58,esee1247-std,concepticon-646,1.84,kʷakimaxo,ashes,kwakimaxo
+clics-doculect-126-59,esee1247-std,concepticon-646,1.84,kʷakipowi,ashes,kwakipowi
+clics-doculect-126-60,esee1247-std,concepticon-67,1.841,koxaša,embers,koxasa
+clics-doculect-126-61,esee1247-std,concepticon-141,1.851,kiyo,burn (vb trans),kiyo
+clics-doculect-126-62,esee1247-std,concepticon-1428,1.852,hihi,burn (vb intrans),hihi
+clics-doculect-126-63,esee1247-std,concepticon-737,1.86,hihi,"light, kindle, ignite",hihi
+clics-doculect-126-64,esee1247-std,concepticon-737,1.86,košo,"light, kindle, ignite",koso
+clics-doculect-126-65,esee1247-std,concepticon-737,1.86,ɗeʔɗo,"light, kindle, ignite",de?do
+clics-doculect-126-66,esee1247-std,concepticon-127,1.861,čiyo,extinguish,ciyo
+clics-doculect-126-67,esee1247-std,concepticon-127,1.861,kixoyo,extinguish,kixoyo
+clics-doculect-126-68,esee1247-std,concepticon-127,1.861,čiʔ,extinguish,ci?
+clics-doculect-126-69,esee1247-std,concepticon-10,1.88,kʷaki,firewood,kwaki
+clics-doculect-126-70,esee1247-std,concepticon-10,1.88,eši,firewood,esi
+clics-doculect-126-71,esee1247-std,concepticon-1188,1.89,kʷakipowi,charcoal,kwakipowi
+clics-doculect-126-72,esee1247-std,concepticon-1188,1.89,koxašae,charcoal,koxasae
+clics-doculect-126-73,esee1247-std,concepticon-683,2.1,dexa,"person, human being",dexa
+clics-doculect-126-74,esee1247-std,concepticon-683,2.1,pona,"person, human being",pona
+clics-doculect-126-75,esee1247-std,concepticon-1554,2.21,eɗexa,man (vs. woman),edexa
+clics-doculect-126-76,esee1247-std,concepticon-962,2.22,epona,woman,epona
+clics-doculect-126-77,esee1247-std,concepticon-962,2.22,ewanasia,woman,ewanasia
+clics-doculect-126-78,esee1247-std,concepticon-1553,2.23,eyawe,male,eyawe
+clics-doculect-126-79,esee1247-std,concepticon-1366,2.25,ešoʔidexa,boy,eso?idexa
+clics-doculect-126-80,esee1247-std,concepticon-76,2.251,ešoʔi,young man (adolescent),eso?i
+clics-doculect-126-81,esee1247-std,concepticon-76,2.251,ošoʔiyawe,young man (adolescent),oso?iyawe
+clics-doculect-126-82,esee1247-std,concepticon-1646,2.26,ešoʔipona,girl,eso?ipona
+clics-doculect-126-83,esee1247-std,concepticon-77,2.261,ešoʔipona,young woman (adolescent),eso?ipona
+clics-doculect-126-84,esee1247-std,concepticon-1304,2.27,eɓakʷa,child,ebakwa
+clics-doculect-126-85,esee1247-std,concepticon-1304,2.27,ešoʔinee,child,eso?inee
+clics-doculect-126-86,esee1247-std,concepticon-1289,2.28,ešoʔi,"infant, baby",eso?i
+clics-doculect-126-87,esee1247-std,concepticon-1200,2.31,eyawe,husband,eyawe
+clics-doculect-126-88,esee1247-std,concepticon-1200,2.31,eyawi,husband,eyawi
+clics-doculect-126-89,esee1247-std,concepticon-1199,2.32,ewanase,wife,ewanase
+clics-doculect-126-90,esee1247-std,concepticon-1199,2.32,činani,wife,cinani
+clics-doculect-126-91,esee1247-std,concepticon-203,2.33,xawanaki,marry,xawanaki
+clics-doculect-126-92,esee1247-std,concepticon-203,2.33,xawiaki,marry,xawiaki
+clics-doculect-126-93,esee1247-std,concepticon-1217,2.35,kaka,father,kaka
+clics-doculect-126-94,esee1247-std,concepticon-1216,2.36,nae,mother,nae
+clics-doculect-126-95,esee1247-std,concepticon-426,2.39,yawexi,married woman,yawexi
+clics-doculect-126-96,esee1247-std,concepticon-1620,2.41,eɓakʷa,son,ebakwa
+clics-doculect-126-97,esee1247-std,concepticon-1262,2.44,nono,brother,nono
+clics-doculect-126-98,esee1247-std,concepticon-1759,2.444,eɗoe,older brother,edoe
+clics-doculect-126-99,esee1247-std,concepticon-1759,2.444,enono,older brother,enono
+clics-doculect-126-100,esee1247-std,concepticon-1760,2.445,čawa,younger brother,cawa
+clics-doculect-126-101,esee1247-std,concepticon-1758,2.454,xoʔi,older sister,xo?i
+clics-doculect-126-102,esee1247-std,concepticon-1758,2.454,šewi,older sister,sewi
+clics-doculect-126-103,esee1247-std,concepticon-1761,2.455,čewi,younger sister,cewi
+clics-doculect-126-104,esee1247-std,concepticon-1383,2.46,ɓaɓa,grandfather,baba
+clics-doculect-126-105,esee1247-std,concepticon-406,2.461,edexatii,old man,edexatii
+clics-doculect-126-106,esee1247-std,concepticon-1496,2.47,ano,grandmother,ano
+clics-doculect-126-107,esee1247-std,concepticon-907,2.471,eponatii,old woman,eponatii
+clics-doculect-126-108,esee1247-std,concepticon-1618,2.48,osekʷa,grandson,osekwa
+clics-doculect-126-109,esee1247-std,concepticon-1327,2.51,tooto,uncle,tooto
+clics-doculect-126-110,esee1247-std,concepticon-1272,2.52,nene,aunt,nene
+clics-doculect-126-111,esee1247-std,concepticon-1063,2.53,ɓoe,nephew,boe
+clics-doculect-126-112,esee1247-std,concepticon-1642,2.54,ɓoe,niece,boe
+clics-doculect-126-113,esee1247-std,concepticon-1643,2.55,weʔe,cousin,we?e
+clics-doculect-126-114,esee1247-std,concepticon-2255,2.61,ɓaɓa,father-in-law (of a man),baba
+clics-doculect-126-115,esee1247-std,concepticon-2256,2.62,ano,mother-in-law (of a man),ano
+clics-doculect-126-116,esee1247-std,concepticon-1149,2.75,nae'ma,orphan,nae'ma
+clics-doculect-126-117,esee1247-std,concepticon-1149,2.75,či'ma,orphan,ci'ma
+clics-doculect-126-118,esee1247-std,concepticon-1149,2.75,ečimano,orphan,ecimano
+clics-doculect-126-119,esee1247-std,concepticon-1756,2.76,yawemano,widow,yawemano
+clics-doculect-126-120,esee1247-std,concepticon-1981,2.77,šakʷimano,widower,sakwimano
+clics-doculect-126-121,esee1247-std,concepticon-1209,2.91,eya,I,eya
+clics-doculect-126-122,esee1247-std,concepticon-1209,2.91,eaya,I,eaya
+clics-doculect-126-123,esee1247-std,concepticon-1215,2.92,mia,you (singular),mia
+clics-doculect-126-124,esee1247-std,concepticon-1215,2.92,miyaya,you (singular),miyaya
+clics-doculect-126-125,esee1247-std,concepticon-262,2.93,oya,he/she/it,oya
+clics-doculect-126-126,esee1247-std,concepticon-1212,2.94,ekʷana,we,ekwana
+clics-doculect-126-127,esee1247-std,concepticon-1212,2.94,ekʷanaya,we,ekwanaya
+clics-doculect-126-128,esee1247-std,concepticon-1213,2.95,mikiana,you (plural),mikiana
+clics-doculect-126-129,esee1247-std,concepticon-1213,2.95,mekeanaya,you (plural),mekeanaya
+clics-doculect-126-130,esee1247-std,concepticon-817,2.96,okʷana,they,okwana
+clics-doculect-126-131,esee1247-std,concepticon-817,2.96,oyakʷana,they,oyakwana
+clics-doculect-126-132,esee1247-std,concepticon-619,3.11,ixiakaxi,animal,ixiakaxi
+clics-doculect-126-133,esee1247-std,concepticon-1337,3.35,ɲo,pig,no
+clics-doculect-126-134,esee1247-std,concepticon-1337,3.35,wo,pig,wo
+clics-doculect-126-135,esee1247-std,concepticon-265,3.5,kʷičoxi,fowl,kwicoxi
+clics-doculect-126-136,esee1247-std,concepticon-1511,3.52,yawe,"cock, rooster",yawe
+clics-doculect-126-137,esee1247-std,concepticon-1514,3.54,waʔipa,hen,wa?ipa
+clics-doculect-126-138,esee1247-std,concepticon-1318,3.55,haɓakʷa,chicken,habakwa
+clics-doculect-126-139,esee1247-std,concepticon-1360,3.57,xoxi,duck,xoxi
+clics-doculect-126-140,esee1247-std,concepticon-539,3.58,xani,nest,xani
+clics-doculect-126-141,esee1247-std,concepticon-937,3.581,kʷičoxi,bird,kwicoxi
+clics-doculect-126-142,esee1247-std,concepticon-758,3.583,ɓoka,heron,boka
+clics-doculect-126-143,esee1247-std,concepticon-758,3.583,woxošaha,heron,woxosaha
+clics-doculect-126-144,esee1247-std,concepticon-1185,3.586,ɓeʔo,vulture,be?o
+clics-doculect-126-145,esee1247-std,concepticon-1185,3.586,ɓaɓaʔai,vulture,baba?ai
+clics-doculect-126-146,esee1247-std,concepticon-1793,3.591,ɓiɲa,bat,bina
+clics-doculect-126-147,esee1247-std,concepticon-882,3.592,ičako,parrot,icako
+clics-doculect-126-148,esee1247-std,concepticon-913,3.593,enaokʷisaaoše,crow,enaokwisaaose
+clics-doculect-126-149,esee1247-std,concepticon-913,3.593,enaokʷisaatewe,crow,enaokwisaatewe
+clics-doculect-126-150,esee1247-std,concepticon-1853,3.594,kʷeiʔɓehe,dove,kwei?behe
+clics-doculect-126-151,esee1247-std,concepticon-735,3.596,ɓioɓio,owl,biobio
+clics-doculect-126-152,esee1247-std,concepticon-735,3.596,pexepexe,owl,pexepexe
+clics-doculect-126-153,esee1247-std,concepticon-2009,3.61,iɲaewa,dog,inaewa
+clics-doculect-126-154,esee1247-std,concepticon-1136,3.614,šaxaɓiso,rabbit,saxabiso
+clics-doculect-126-155,esee1247-std,concepticon-1208,3.62,miči,cat,mici
+clics-doculect-126-156,esee1247-std,concepticon-2139,3.63,ɓawičo,"mouse, rat",bawico
+clics-doculect-126-157,esee1247-std,concepticon-2139,3.63,ɗawičo,"mouse, rat",dawico
+clics-doculect-126-158,esee1247-std,concepticon-227,3.65,hai,fish,hai
+clics-doculect-126-159,esee1247-std,concepticon-266,3.653,esopi,fishscale,esopi
+clics-doculect-126-160,esee1247-std,concepticon-598,3.655,ɓexo,shell,bexo
+clics-doculect-126-161,esee1247-std,concepticon-1910,3.664,iɓaɓi,stingray,ibabi
+clics-doculect-126-162,esee1247-std,concepticon-1013,3.665,wioʔai,freshwater eel,wio?ai
+clics-doculect-126-163,esee1247-std,concepticon-1013,3.665,šašapewewe,freshwater eel,sasapewewe
+clics-doculect-126-164,esee1247-std,concepticon-522,3.71,maši,wolf,masi
+clics-doculect-126-165,esee1247-std,concepticon-1386,3.72,ɗokʷeiiɓi'a,lion,dokweiibi'a
+clics-doculect-126-166,esee1247-std,concepticon-1312,3.74,samao,fox,samao
+clics-doculect-126-167,esee1247-std,concepticon-1936,3.75,ɗokʷei,deer,dokwei
+clics-doculect-126-168,esee1247-std,concepticon-1350,3.76,ɗo,monkey,do
+clics-doculect-126-169,esee1247-std,concepticon-1350,3.76,ɗixiɗixi,monkey,dixidixi
+clics-doculect-126-170,esee1247-std,concepticon-1392,3.811,ɓi'aʔ,louse,bi'a?
+clics-doculect-126-171,esee1247-std,concepticon-1974,3.814,sačiči,centipede,sacici
+clics-doculect-126-172,esee1247-std,concepticon-1538,3.815,ahi,scorpion,ahi
+clics-doculect-126-173,esee1247-std,concepticon-587,3.817,šeme,ant,seme
+clics-doculect-126-174,esee1247-std,concepticon-843,3.818,ɓaša,spider,basa
+clics-doculect-126-175,esee1247-std,concepticon-665,3.82,wini,bee,wini
+clics-doculect-126-176,esee1247-std,concepticon-665,3.82,meme,bee,meme
+clics-doculect-126-177,esee1247-std,concepticon-1931,3.821,memewiɗi,beeswax,memewidi
+clics-doculect-126-178,esee1247-std,concepticon-1517,3.823,ɓia,wasp,bia
+clics-doculect-126-179,esee1247-std,concepticon-1504,3.83,meemee,fly,meemee
+clics-doculect-126-180,esee1247-std,concepticon-1504,3.83,bee,fly,bee
+clics-doculect-126-181,esee1247-std,concepticon-95,3.831,wašapa,"sandfly (midge), gnat",wasapa
+clics-doculect-126-182,esee1247-std,concepticon-1509,3.832,ɗi,mosquito,di
+clics-doculect-126-183,esee1247-std,concepticon-1219,3.84,kono,worm,kono
+clics-doculect-126-184,esee1247-std,concepticon-1219,3.84,koxokʷaši,worm,koxokwasi
+clics-doculect-126-185,esee1247-std,concepticon-730,3.85,peeyo,snake,peeyo
+clics-doculect-126-186,esee1247-std,concepticon-730,3.85,ɓakʷa,snake,bakwa
+clics-doculect-126-187,esee1247-std,concepticon-1791,3.92,xapipi,butterfly,xapipi
+clics-doculect-126-188,esee1247-std,concepticon-1543,3.94,sixaxa,snail,sixaxa
+clics-doculect-126-189,esee1247-std,concepticon-1543,3.94,šemo,snail,semo
+clics-doculect-126-190,esee1247-std,concepticon-503,3.95,enawio,frog,enawio
+clics-doculect-126-191,esee1247-std,concepticon-503,3.95,poxopoxo,frog,poxopoxo
+clics-doculect-126-192,esee1247-std,concepticon-632,3.96,šanei,lizard,sanei
+clics-doculect-126-193,esee1247-std,concepticon-632,3.96,šaexame,lizard,saexame
+clics-doculect-126-194,esee1247-std,concepticon-1857,3.97,šaexami,"crocodile, alligator",saexami
+clics-doculect-126-195,esee1247-std,concepticon-1857,3.97,šaʔihami,"crocodile, alligator",sa?ihami
+clics-doculect-126-196,esee1247-std,concepticon-112,3.98,šapoxene,turtle,sapoxene
+clics-doculect-126-197,esee1247-std,concepticon-112,3.98,ɗakiai,turtle,dakiai
+clics-doculect-126-198,esee1247-std,concepticon-1480,4.11,eyami,body,eyami
+clics-doculect-126-199,esee1247-std,concepticon-763,4.12,e'he,"skin, hide",e'he
+clics-doculect-126-200,esee1247-std,concepticon-763,4.12,eheei,"skin, hide",eheei
+clics-doculect-126-201,esee1247-std,concepticon-2259,4.13,eeyami,flesh,eeyami
+clics-doculect-126-202,esee1247-std,concepticon-2259,4.13,noe,flesh,noe
+clics-doculect-126-203,esee1247-std,concepticon-1040,4.14,ewoxaɲa,hair (head),ewoxana
+clics-doculect-126-204,esee1247-std,concepticon-1040,4.14,eiɲa,hair (head),eina
+clics-doculect-126-205,esee1247-std,concepticon-678,4.142,ekʷekʷe,beard,ekwekwe
+clics-doculect-126-206,esee1247-std,concepticon-189,4.144,eyamiɲa,body hair,eyamina
+clics-doculect-126-207,esee1247-std,concepticon-576,4.146,sapa'ɓo,dandruff,sapa'bo
+clics-doculect-126-208,esee1247-std,concepticon-946,4.15,e'na,blood,e'na
+clics-doculect-126-209,esee1247-std,concepticon-525,4.151,ehaʔona,"vein, artery",eha?ona
+clics-doculect-126-210,esee1247-std,concepticon-1394,4.16,e'saʔ,bone,e'sa?
+clics-doculect-126-211,esee1247-std,concepticon-801,4.162,eɗoxoxanixi,rib,edoxoxanixi
+clics-doculect-126-212,esee1247-std,concepticon-1393,4.17,ešiana,horn,esiana
+clics-doculect-126-213,esee1247-std,concepticon-1220,4.18,ewaʔo,tail,ewa?o
+clics-doculect-126-214,esee1247-std,concepticon-1291,4.19,ehakaxa,back,ehakaxa
+clics-doculect-126-215,esee1247-std,concepticon-1256,4.2,esapa,head,esapa
+clics-doculect-126-216,esee1247-std,concepticon-1256,4.2,ewoxa,head,ewoxa
+clics-doculect-126-217,esee1247-std,concepticon-1605,4.202,sapaxii,skull,sapaxii
+clics-doculect-126-218,esee1247-std,concepticon-1583,4.203,esapaɗoxo,brain,esapadoxo
+clics-doculect-126-219,esee1247-std,concepticon-1560,4.204,eɓosi,face,ebosi
+clics-doculect-126-220,esee1247-std,concepticon-1560,4.204,ebose,face,ebose
+clics-doculect-126-221,esee1247-std,concepticon-1560,4.204,ešemo,face,esemo
+clics-doculect-126-222,esee1247-std,concepticon-123,4.205,eɓawa,forehead,ebawa
+clics-doculect-126-223,esee1247-std,concepticon-123,4.205,epawa,forehead,epawa
+clics-doculect-126-224,esee1247-std,concepticon-798,4.207,ešemosaʔ,jaw,esemosa?
+clics-doculect-126-225,esee1247-std,concepticon-1730,4.208,ešemo,cheek,esemo
+clics-doculect-126-226,esee1247-std,concepticon-1248,4.21,ekoxa,eye,ekoxa
+clics-doculect-126-227,esee1247-std,concepticon-1173,4.212,ekoxašaɲawa,eyebrow,ekoxasanawa
+clics-doculect-126-228,esee1247-std,concepticon-17,4.213,ekoxahei,eyelid,ekoxahei
+clics-doculect-126-229,esee1247-std,concepticon-1540,4.214,ekoxaɲa,eyelash,ekoxana
+clics-doculect-126-230,esee1247-std,concepticon-1540,4.214,ekoxašaɲawa,eyelash,ekoxasanawa
+clics-doculect-126-231,esee1247-std,concepticon-1247,4.22,ešaxa,ear,esaxa
+clics-doculect-126-232,esee1247-std,concepticon-1221,4.23,e'wiʔ,nose,e'wi?
+clics-doculect-126-233,esee1247-std,concepticon-1178,4.231,ewiweha,nostril,ewiweha
+clics-doculect-126-234,esee1247-std,concepticon-674,4.24,enaɓa,mouth,enaba
+clics-doculect-126-235,esee1247-std,concepticon-478,4.25,ekʷasa,lip,ekwasa
+clics-doculect-126-236,esee1247-std,concepticon-1205,4.26,eana,tongue,eana
+clics-doculect-126-237,esee1247-std,concepticon-1380,4.27,e'seʔ,tooth,e'se?
+clics-doculect-126-238,esee1247-std,concepticon-139,4.271,ekʷiʔonoxi,gums,ekwi?onoxi
+clics-doculect-126-239,esee1247-std,concepticon-1049,4.272,eamaxa,molartooth,eamaxa
+clics-doculect-126-240,esee1247-std,concepticon-1333,4.28,epiki,neck,epiki
+clics-doculect-126-241,esee1247-std,concepticon-1347,4.281,epiki,nape of neck,epiki
+clics-doculect-126-242,esee1247-std,concepticon-1346,4.29,ekahaha,throat,ekahaha
+clics-doculect-126-243,esee1247-std,concepticon-1482,4.3,eɓaʔaxa,shoulder,eba?axa
+clics-doculect-126-244,esee1247-std,concepticon-1482,4.3,eɓeyoxo,shoulder,ebeyoxo
+clics-doculect-126-245,esee1247-std,concepticon-172,4.301,eɓeyoxosa,shoulderblade,ebeyoxosa
+clics-doculect-126-246,esee1247-std,concepticon-1673,4.31,eaa,arm,eaa
+clics-doculect-126-247,esee1247-std,concepticon-1886,4.312,enakʷiši,armpit,enakwisi
+clics-doculect-126-248,esee1247-std,concepticon-981,4.32,eɓašo,elbow,ebaso
+clics-doculect-126-249,esee1247-std,concepticon-799,4.321,emekokaxi,wrist,emekokaxi
+clics-doculect-126-250,esee1247-std,concepticon-799,4.321,emešošaxi,wrist,emesosaxi
+clics-doculect-126-251,esee1247-std,concepticon-1277,4.33,eme,hand,eme
+clics-doculect-126-252,esee1247-std,concepticon-1183,4.331,emexoto,palm of hand,emexoto
+clics-doculect-126-253,esee1247-std,concepticon-1303,4.34,emesisi,finger,emesisi
+clics-doculect-126-254,esee1247-std,concepticon-1781,4.342,emeʔai,thumb,eme?ai
+clics-doculect-126-255,esee1247-std,concepticon-1258,4.344,emekiši,fingernail,emekisi
+clics-doculect-126-256,esee1247-std,concepticon-1297,4.35,ekise,leg,ekise
+clics-doculect-126-257,esee1247-std,concepticon-1297,4.35,eahoho,leg,eahoho
+clics-doculect-126-258,esee1247-std,concepticon-800,4.351,ekise,thigh,ekise
+clics-doculect-126-259,esee1247-std,concepticon-1371,4.36,ekʷiošaxa,knee,ekwiosaxa
+clics-doculect-126-260,esee1247-std,concepticon-1301,4.37,ehioxi,foot,ehioxi
+clics-doculect-126-261,esee1247-std,concepticon-1301,4.37,???ewasi,foot,???ewasi
+clics-doculect-126-262,esee1247-std,concepticon-803,4.371,ekiɓo,ankle,ekibo
+clics-doculect-126-263,esee1247-std,concepticon-803,4.371,exioxikokaxi,ankle,exioxikokaxi
+clics-doculect-126-264,esee1247-std,concepticon-980,4.372,exioxikokaxi,heel,exioxikokaxi
+clics-doculect-126-265,esee1247-std,concepticon-318,4.374,exioxi,footprint,exioxi
+clics-doculect-126-266,esee1247-std,concepticon-1389,4.38,exioxisisi,toe,exioxisisi
+clics-doculect-126-267,esee1247-std,concepticon-1257,4.392,ekʷičo,wing,ekwico
+clics-doculect-126-268,esee1247-std,concepticon-1201,4.393,ekʷičo,feather,ekwico
+clics-doculect-126-269,esee1247-std,concepticon-1201,4.393,ɓoʔɓa,feather,bo?ba
+clics-doculect-126-270,esee1247-std,concepticon-1201,4.393,eɲa,feather,ena
+clics-doculect-126-271,esee1247-std,concepticon-1592,4.4,eseʔo,chest,ese?o
+clics-doculect-126-272,esee1247-std,concepticon-1592,4.4,ekʷae,chest,ekwae
+clics-doculect-126-273,esee1247-std,concepticon-1402,4.41,tooxo,breast (of woman),tooxo
+clics-doculect-126-274,esee1247-std,concepticon-796,4.412,tooxo,"nipple, teat",tooxo
+clics-doculect-126-275,esee1247-std,concepticon-1838,4.43,xono,navel,xono
+clics-doculect-126-276,esee1247-std,concepticon-1223,4.44,ekihixi,heart,ekihixi
+clics-doculect-126-277,esee1247-std,concepticon-688,4.441,ešaho,lung,esaho
+clics-doculect-126-278,esee1247-std,concepticon-688,4.441,hekišeha,lung,hekiseha
+clics-doculect-126-279,esee1247-std,concepticon-1224,4.45,ekakʷa,liver,ekakwa
+clics-doculect-126-280,esee1247-std,concepticon-1224,4.45,etakʷa,liver,etakwa
+clics-doculect-126-281,esee1247-std,concepticon-489,4.451,eɓetete,kidney,ebetete
+clics-doculect-126-282,esee1247-std,concepticon-819,4.46,emaxii,stomach,emaxii
+clics-doculect-126-283,esee1247-std,concepticon-819,4.46,teexani,stomach,teexani
+clics-doculect-126-284,esee1247-std,concepticon-1991,4.461,esee,"intestines, guts",esee
+clics-doculect-126-285,esee1247-std,concepticon-1991,4.461,seesisi,"intestines, guts",seesisi
+clics-doculect-126-286,esee1247-std,concepticon-1681,4.462,emawawa,waist,emawawa
+clics-doculect-126-287,esee1247-std,concepticon-1745,4.463,eɗaasa,hip,edaasa
+clics-doculect-126-288,esee1247-std,concepticon-834,4.464,ekii,buttocks,ekii
+clics-doculect-126-289,esee1247-std,concepticon-834,4.464,exoɓoča,buttocks,exoboca
+clics-doculect-126-290,esee1247-std,concepticon-1407,4.51,wosiwosi,"breathe, breath",wosiwosi
+clics-doculect-126-291,esee1247-std,concepticon-1407,4.51,šexašexa,"breathe, breath",sexasexa
+clics-doculect-126-292,esee1247-std,concepticon-1028,4.52,xaheanaheaki,"yawn, gape",xaheanaheaki
+clics-doculect-126-293,esee1247-std,concepticon-162,4.521,hekisoɓo,hiccough,hekisobo
+clics-doculect-126-294,esee1247-std,concepticon-879,4.53,oho,cough,oho
+clics-doculect-126-295,esee1247-std,concepticon-1621,4.54,ači,sneeze,aci
+clics-doculect-126-296,esee1247-std,concepticon-126,4.55,šiši,perspire,sisi
+clics-doculect-126-297,esee1247-std,concepticon-1440,4.56,kʷičohea,spit,kwicohea
+clics-doculect-126-298,esee1247-std,concepticon-1278,4.57,ɓowi,vomit,bowi
+clics-doculect-126-299,esee1247-std,concepticon-1403,4.58,šowika,bite,sowika
+clics-doculect-126-300,esee1247-std,concepticon-319,4.59,sioka,lick,sioka
+clics-doculect-126-301,esee1247-std,concepticon-1585,4.61,kawi,sleep,kawi
+clics-doculect-126-302,esee1247-std,concepticon-1585,4.61,kaweani,sleep,kaweani
+clics-doculect-126-303,esee1247-std,concepticon-1983,4.612,yakanahe,snore,yakanahe
+clics-doculect-126-304,esee1247-std,concepticon-1920,4.62,xakawiɓakinahe,dream,xakawibakinahe
+clics-doculect-126-305,esee1247-std,concepticon-1602,4.63,šeki,wake up,seki
+clics-doculect-126-306,esee1247-std,concepticon-592,4.65,wia,urinate,wia
+clics-doculect-126-307,esee1247-std,concepticon-676,4.66,see,defecate,see
+clics-doculect-126-308,esee1247-std,concepticon-52,4.68,peopeonahe,shiver,peopeonahe
+clics-doculect-126-309,esee1247-std,concepticon-52,4.68,kakakakanahe,shiver,kakakakanahe
+clics-doculect-126-310,esee1247-std,concepticon-138,4.69,šeweša,bathe,sewesa
+clics-doculect-126-311,esee1247-std,concepticon-1090,4.72,kʷaya,born (to be),kwaya
+clics-doculect-126-312,esee1247-std,concepticon-1123,4.73,xamehoki,pregnant,xamehoki
+clics-doculect-126-313,esee1247-std,concepticon-1123,4.73,oexi,pregnant,oexi
+clics-doculect-126-314,esee1247-std,concepticon-1422,4.74,eše,"live, living, life",ese
+clics-doculect-126-315,esee1247-std,concepticon-1422,4.74,baʔe,"live, living, life",ba?e
+clics-doculect-126-316,esee1247-std,concepticon-1494,4.75,manoʔyo,"die, dead",mano?yo
+clics-doculect-126-317,esee1247-std,concepticon-1904,4.751,wiʔi,drowned,wi?i
+clics-doculect-126-318,esee1247-std,concepticon-1904,4.751,siɓikayo,drowned,sibikayo
+clics-doculect-126-319,esee1247-std,concepticon-1417,4.76,kekʷa,kill,kekwa
+clics-doculect-126-320,esee1247-std,concepticon-767,4.77,emanoyo,corpse,emanoyo
+clics-doculect-126-321,esee1247-std,concepticon-1719,4.78,ɓohea,bury (the dead),bohea
+clics-doculect-126-322,esee1247-std,concepticon-1719,4.78,owahea,bury (the dead),owahea
+clics-doculect-126-323,esee1247-std,concepticon-785,4.81,xanoɓaximanee,"strong, mighty, powerful",xanobaximanee
+clics-doculect-126-324,esee1247-std,concepticon-1601,4.82,šiwi,weak,siwi
+clics-doculect-126-325,esee1247-std,concepticon-1601,4.82,kaʔaʔama,weak,ka?a?ama
+clics-doculect-126-326,esee1247-std,concepticon-1364,4.83,wakia,"well, health",wakia
+clics-doculect-126-327,esee1247-std,concepticon-1847,4.84,mano,"sick, sickness",mano
+clics-doculect-126-328,esee1247-std,concepticon-1534,4.841,kiyoani,fever,kiyoani
+clics-doculect-126-329,esee1247-std,concepticon-1957,4.842,enaa,goiter,enaa
+clics-doculect-126-330,esee1247-std,concepticon-102,4.843,wiši,cold (catarrh),wisi
+clics-doculect-126-331,esee1247-std,concepticon-1109,4.85,ekekʷaʔaha,"wound, sore",ekekwa?aha
+clics-doculect-126-332,esee1247-std,concepticon-1903,4.853,šexe,swelling,sexe
+clics-doculect-126-333,esee1247-std,concepticon-148,4.854,ehai,itch,ehai
+clics-doculect-126-334,esee1247-std,concepticon-1584,4.855,haši,blister,hasi
+clics-doculect-126-335,esee1247-std,concepticon-1584,4.855,tooo,blister,tooo
+clics-doculect-126-336,esee1247-std,concepticon-793,4.856,ɓoʔho,boil (noun),bo?ho
+clics-doculect-126-337,esee1247-std,concepticon-1808,4.857,esi,pus,esi
+clics-doculect-126-338,esee1247-std,concepticon-499,4.86,šikʷi,"cure, heal",sikwi
+clics-doculect-126-339,esee1247-std,concepticon-499,4.86,čikʷi,"cure, heal",cikwi
+clics-doculect-126-340,esee1247-std,concepticon-499,4.86,wakia,"cure, heal",wakia
+clics-doculect-126-341,esee1247-std,concepticon-597,4.87,eyamikekʷaxi,physician,eyamikekwaxi
+clics-doculect-126-342,esee1247-std,concepticon-1757,4.91,mano,"tired, weary",mano
+clics-doculect-126-343,esee1247-std,concepticon-168,4.912,homišoka,rest,homisoka
+clics-doculect-126-344,esee1247-std,concepticon-1564,4.92,wea,lazy,wea
+clics-doculect-126-345,esee1247-std,concepticon-1125,4.93,sapaɲama,bald,sapanama
+clics-doculect-126-346,esee1247-std,concepticon-1125,4.93,sapapohi,bald,sapapohi
+clics-doculect-126-347,esee1247-std,concepticon-320,4.94,heomihimihinahe,lame,heomihimihinahe
+clics-doculect-126-348,esee1247-std,concepticon-996,4.95,keɓa,deaf,keba
+clics-doculect-126-349,esee1247-std,concepticon-996,4.95,hašaxaʔakiaha,deaf,hasaxa?akiaha
+clics-doculect-126-350,esee1247-std,concepticon-1666,4.96,kahi,mute,kahi
+clics-doculect-126-351,esee1247-std,concepticon-1653,4.97,ekoxa'ma,blind,ekoxa'ma
+clics-doculect-126-352,esee1247-std,concepticon-1463,4.98,kekʷaɲakaxi,intoxicated,kekwanakaxi
+clics-doculect-126-353,esee1247-std,concepticon-1336,5.11,ixia,eat,ixia
+clics-doculect-126-354,esee1247-std,concepticon-256,5.12,eixiaxi,food,eixiaxi
+clics-doculect-126-355,esee1247-std,concepticon-269,5.121,kʷakʷa,cooked,kwakwa
+clics-doculect-126-356,esee1247-std,concepticon-269,5.121,hiɲa,cooked,hina
+clics-doculect-126-357,esee1247-std,concepticon-1959,5.122,eše,raw,ese
+clics-doculect-126-358,esee1247-std,concepticon-178,5.123,keahawa,ripe,keahawa
+clics-doculect-126-359,esee1247-std,concepticon-1728,5.125,ʔiwi,rotten,?iwi
+clics-doculect-126-360,esee1247-std,concepticon-1728,5.125,tai,rotten,tai
+clics-doculect-126-361,esee1247-std,concepticon-1401,5.13,išika,drink,isika
+clics-doculect-126-362,esee1247-std,concepticon-1864,5.14,šoʔe,hunger,so?e
+clics-doculect-126-363,esee1247-std,concepticon-848,5.15,naɓataha,thirst,nabataha
+clics-doculect-126-364,esee1247-std,concepticon-1421,5.16,toxoiši,suck,toxoisi
+clics-doculect-126-365,esee1247-std,concepticon-1421,5.16,toxo,suck,toxo
+clics-doculect-126-366,esee1247-std,concepticon-897,5.181,ixiahea,swallow,ixiahea
+clics-doculect-126-367,esee1247-std,concepticon-129,5.19,wiʔinahe,choke,wi?inahe
+clics-doculect-126-368,esee1247-std,concepticon-1100,5.21,kʷakʷanahe,cook,kwakwanahe
+clics-doculect-126-369,esee1247-std,concepticon-792,5.22,okʷaokʷa,boil (vb),okwaokwa
+clics-doculect-126-370,esee1247-std,concepticon-792,5.22,kʷakʷa,boil (vb),kwakwa
+clics-doculect-126-371,esee1247-std,concepticon-2146,5.23,ɗawa,"roast, fry",dawa
+clics-doculect-126-372,esee1247-std,concepticon-183,5.24,ɗawanahe,bake,dawanahe
+clics-doculect-126-373,esee1247-std,concepticon-480,5.32,mexo,plate,mexo
+clics-doculect-126-374,esee1247-std,concepticon-270,5.34,mešimisi,"pitcher, jug",mesimisi
+clics-doculect-126-375,esee1247-std,concepticon-1352,5.38,ehewixi,knife,ehewixi
+clics-doculect-126-376,esee1247-std,concepticon-275,5.46,šiʔyo,peel,si?yo
+clics-doculect-126-377,esee1247-std,concepticon-86,5.47,xekiheyo,"sieve, strain",xekiheyo
+clics-doculect-126-378,esee1247-std,concepticon-1767,5.48,ɗiʔi,scrape,di?i
+clics-doculect-126-379,esee1247-std,concepticon-2017,5.49,iɲapowi,"stir, mix",inapowi
+clics-doculect-126-380,esee1247-std,concepticon-2017,5.49,wa,"stir, mix",wa
+clics-doculect-126-381,esee1247-std,concepticon-1033,5.56,taxaka,"crush, grind",taxaka
+clics-doculect-126-382,esee1247-std,concepticon-225,5.59,meietaxaxi,pestle,meietaxaxi
+clics-doculect-126-383,esee1247-std,concepticon-634,5.61,noe,meat,noe
+clics-doculect-126-384,esee1247-std,concepticon-634,5.61,eyami,meat,eyami
+clics-doculect-126-385,esee1247-std,concepticon-1507,5.71,exaxa,fruit,exaxa
+clics-doculect-126-386,esee1247-std,concepticon-1966,5.712,soe,bunch,soe
+clics-doculect-126-387,esee1247-std,concepticon-191,5.77,šiwixaxa,nut,siwixaxa
+clics-doculect-126-388,esee1247-std,concepticon-1484,5.79,esei,oil,esei
+clics-doculect-126-389,esee1247-std,concepticon-1484,5.79,hemesei,oil,hemesei
+clics-doculect-126-390,esee1247-std,concepticon-323,5.791,esei,"grease, fat",esei
+clics-doculect-126-391,esee1247-std,concepticon-942,5.84,wini,honey,wini
+clics-doculect-126-392,esee1247-std,concepticon-942,5.84,widi,honey,widi
+clics-doculect-126-393,esee1247-std,concepticon-942,5.84,eka'na,honey,eka'na
+clics-doculect-126-394,esee1247-std,concepticon-635,5.86,emaʔi,milk (noun),ema?i
+clics-doculect-126-395,esee1247-std,concepticon-731,5.9,axa,"beverage, drink",axa
+clics-doculect-126-396,esee1247-std,concepticon-404,5.94,šixeʔena,fermented drink,sixe?ena
+clics-doculect-126-397,esee1247-std,concepticon-744,5.97,exa,egg,exa
+clics-doculect-126-398,esee1247-std,concepticon-158,6.11,woʔišo,put on (clothes),wo?iso
+clics-doculect-126-399,esee1247-std,concepticon-1895,6.12,ɗaki,"clothing, clothes",daki
+clics-doculect-126-400,esee1247-std,concepticon-1616,6.21,ɗaki,cloth,daki
+clics-doculect-126-401,esee1247-std,concepticon-1850,6.24,wapehe,cotton,wapehe
+clics-doculect-126-402,esee1247-std,concepticon-629,6.29,e'he,leather,e'he
+clics-doculect-126-403,esee1247-std,concepticon-629,6.29,he,leather,he
+clics-doculect-126-404,esee1247-std,concepticon-121,6.31,ɓeyo,spin,beyo
+clics-doculect-126-405,esee1247-std,concepticon-121,6.31,meyo,spin,meyo
+clics-doculect-126-406,esee1247-std,concepticon-133,6.33,sipi,weave,sipi
+clics-doculect-126-407,esee1247-std,concepticon-1457,6.35,soko,sew,soko
+clics-doculect-126-408,esee1247-std,concepticon-1382,6.36,akʷiša,needle,akwisa
+clics-doculect-126-409,esee1247-std,concepticon-1382,6.36,ekʷiša,needle,ekwisa
+clics-doculect-126-410,esee1247-std,concepticon-1161,6.38,mahii,thread,mahii
+clics-doculect-126-411,esee1247-std,concepticon-474,6.42,ɗaki,woman's dress,daki
+clics-doculect-126-412,esee1247-std,concepticon-2012,6.45,eɓoɓi,collar,ebobi
+clics-doculect-126-413,esee1247-std,concepticon-1600,6.46,ekise,skirt,ekise
+clics-doculect-126-414,esee1247-std,concepticon-809,6.48,ɗakisisi,trousers,dakisisi
+clics-doculect-126-415,esee1247-std,concepticon-2130,6.55,ehawoxa,"hat, cap",ehawoxa
+clics-doculect-126-416,esee1247-std,concepticon-772,6.57,waka'he,"belt, girdle",waka'he
+clics-doculect-126-417,esee1247-std,concepticon-757,6.62,ɓaa'so,button,baa'so
+clics-doculect-126-418,esee1247-std,concepticon-1374,6.73,e'meɓaxi,ring (for finger),e'mebaxi
+clics-doculect-126-419,esee1247-std,concepticon-1374,6.73,mekana,ring (for finger),mekana
+clics-doculect-126-420,esee1247-std,concepticon-770,6.77,šaxaɓaʔewanaxi,earring,saxaba?ewanaxi
+clics-doculect-126-421,esee1247-std,concepticon-332,6.81,ɗakičii,"handkerchief, rag",dakicii
+clics-doculect-126-422,esee1247-std,concepticon-1475,6.91,xaɓeki,comb,xabeki
+clics-doculect-126-423,esee1247-std,concepticon-1821,6.92,ixiahewimeenahe,brush,ixiahewimeenahe
+clics-doculect-126-424,esee1247-std,concepticon-333,6.921,epašaxaxa,braid,epasaxaxa
+clics-doculect-126-425,esee1247-std,concepticon-788,6.95,wapawapa,soap,wapawapa
+clics-doculect-126-426,esee1247-std,concepticon-1171,6.96,exakoxaɓakixi,mirror,exakoxabakixi
+clics-doculect-126-427,esee1247-std,concepticon-363,7.11,ešenahe,"dwell, live",esenahe
+clics-doculect-126-428,esee1247-std,concepticon-363,7.11,baʔeʔya,"dwell, live",ba?e?ya
+clics-doculect-126-429,esee1247-std,concepticon-1252,7.12,e'ki,house,e'ki
+clics-doculect-126-430,esee1247-std,concepticon-1567,7.22,esekʷe,"door, gate",esekwe
+clics-doculect-126-431,esee1247-std,concepticon-1632,7.26,meši,floor,mesi
+clics-doculect-126-432,esee1247-std,concepticon-1464,7.37,eheoxi,ladder,eheoxi
+clics-doculect-126-433,esee1247-std,concepticon-1663,7.42,kiʔɓi,bed,ki?bi
+clics-doculect-126-434,esee1247-std,concepticon-1044,7.421,esapahaaxi,pillow,esapahaaxi
+clics-doculect-126-435,esee1247-std,concepticon-769,7.51,ehamako,roof,ehamako
+clics-doculect-126-436,esee1247-std,concepticon-769,7.51,esipi,roof,esipi
+clics-doculect-126-437,esee1247-std,concepticon-279,7.52,ewisawiʔtaxi,thatch,ewisawi?taxi
+clics-doculect-126-438,esee1247-std,concepticon-281,7.56,ehio,"post, pole",ehio
+clics-doculect-126-439,esee1247-std,concepticon-281,7.56,ekixasa,"post, pole",ekixasa
+clics-doculect-126-440,esee1247-std,concepticon-1227,7.57,akʷi,board,akwi
+clics-doculect-126-441,esee1247-std,concepticon-212,8.12,kee,field (for cultivation),kee
+clics-doculect-126-442,esee1247-std,concepticon-1690,8.16,hiiyo,fence,hiiyo
+clics-doculect-126-443,esee1247-std,concepticon-1418,8.22,kišišaɓa,dig,kisisaba
+clics-doculect-126-444,esee1247-std,concepticon-1418,8.22,teo,dig,teo
+clics-doculect-126-445,esee1247-std,concepticon-714,8.311,e'soʔ,seed,e'so?
+clics-doculect-126-446,esee1247-std,concepticon-611,8.41,hahasexa,"crop, harvest",hahasexa
+clics-doculect-126-447,esee1247-std,concepticon-605,8.42,e'soʔ,"grain (barley, oats etc)",e'so?
+clics-doculect-126-448,esee1247-std,concepticon-506,8.47,šixe,"maize, corn",sixe
+clics-doculect-126-449,esee1247-std,concepticon-606,8.51,sipone,grass,sipone
+clics-doculect-126-450,esee1247-std,concepticon-606,8.51,tatatiyani,grass,tatatiyani
+clics-doculect-126-451,esee1247-std,concepticon-342,8.52,sipone,hay,sipone
+clics-doculect-126-452,esee1247-std,concepticon-1486,8.531,ɓana,plant (vb),bana
+clics-doculect-126-453,esee1247-std,concepticon-670,8.54,esaxa,root,esaxa
+clics-doculect-126-454,esee1247-std,concepticon-670,8.54,ɓisiʔikʷi,root,bisi?ikwi
+clics-doculect-126-455,esee1247-std,concepticon-1531,8.55,iyaa,branch,iyaa
+clics-doculect-126-456,esee1247-std,concepticon-1531,8.55,eyaa,branch,eyaa
+clics-doculect-126-457,esee1247-std,concepticon-628,8.56,iɲa,leaf,ina
+clics-doculect-126-458,esee1247-std,concepticon-239,8.57,šaaša,flower,saasa
+clics-doculect-126-459,esee1247-std,concepticon-906,8.6,akʷi,tree,akwi
+clics-doculect-126-460,esee1247-std,concepticon-343,8.67,xono,vine,xono
+clics-doculect-126-461,esee1247-std,concepticon-974,8.68,kiaʔe,tobacco,kia?e
+clics-doculect-126-462,esee1247-std,concepticon-1689,8.69,ixiawičačaka,smoke (tobacco),ixiawicacaka
+clics-doculect-126-463,esee1247-std,concepticon-344,8.73,akʷiwoxa,tree trunk,akwiwoxa
+clics-doculect-126-464,esee1247-std,concepticon-1204,8.75,e'he,bark,e'he
+clics-doculect-126-465,esee1247-std,concepticon-345,8.76,emai,sap,emai
+clics-doculect-126-466,esee1247-std,concepticon-1181,8.81,mai,palm tree,mai
+clics-doculect-126-467,esee1247-std,concepticon-868,8.84,exawise,banana tree,exawise
+clics-doculect-126-468,esee1247-std,concepticon-159,8.91,kʷaʔeo,sweet potato,kwa?eo
+clics-doculect-126-469,esee1247-std,concepticon-159,8.91,waʔeo,sweet potato,wa?eo
+clics-doculect-126-470,esee1247-std,concepticon-925,8.92,exi,"tapioca, manioc, cassava",exi
+clics-doculect-126-471,esee1247-std,concepticon-925,8.92,exe,"tapioca, manioc, cassava",exe
+clics-doculect-126-472,esee1247-std,concepticon-411,8.93,tepe,gourd,tepe
+clics-doculect-126-473,esee1247-std,concepticon-411,8.93,tepi,gourd,tepi
+clics-doculect-126-474,esee1247-std,concepticon-864,8.931,xemi,"pumpkin, squash",xemi
+clics-doculect-126-475,esee1247-std,concepticon-146,8.941,ekaiši,sugar cane,ekaisi
+clics-doculect-126-476,esee1247-std,concepticon-641,8.98,ɗoo,mushroom,doo
+clics-doculect-126-477,esee1247-std,concepticon-2575,9.11,poa,"do, make",poa
+clics-doculect-126-478,esee1247-std,concepticon-2575,9.11,a,"do, make",a
+clics-doculect-126-479,esee1247-std,concepticon-984,9.12,čakočako,work,cakocako
+clics-doculect-126-480,esee1247-std,concepticon-2004,9.14,heaxaxa,bend,heaxaxa
+clics-doculect-126-481,esee1247-std,concepticon-2004,9.14,sahawiči,bend,sahawici
+clics-doculect-126-482,esee1247-std,concepticon-1470,9.15,ɗoɗoyo,fold,dodoyo
+clics-doculect-126-483,esee1247-std,concepticon-1917,9.16,heyo,"tie, bind",heyo
+clics-doculect-126-484,esee1247-std,concepticon-352,9.161,pišo,untie,piso
+clics-doculect-126-485,esee1247-std,concepticon-1218,9.19,xono,"rope, cord",xono
+clics-doculect-126-486,esee1247-std,concepticon-2133,9.21,kʷeanahe,"strike (hit, beat)",kweanahe
+clics-doculect-126-487,esee1247-std,concepticon-354,9.211,kʷeakeanahe,pound with fist,kweakeanahe
+clics-doculect-126-488,esee1247-std,concepticon-1432,9.22,hewi,cut,hewi
+clics-doculect-126-489,esee1247-std,concepticon-1432,9.22,ixiasexameeka,cut,ixiasexameeka
+clics-doculect-126-490,esee1247-std,concepticon-355,9.221,heaɓiča,cut down,heabica
+clics-doculect-126-491,esee1247-std,concepticon-355,9.221,haha,cut down,haha
+clics-doculect-126-492,esee1247-std,concepticon-155,9.222,ixiakanahe,"chop, hew",ixiakanahe
+clics-doculect-126-493,esee1247-std,concepticon-1434,9.223,yakʷa,stab,yakwa
+clics-doculect-126-494,esee1247-std,concepticon-1434,9.223,kekʷa,stab,kekwa
+clics-doculect-126-495,esee1247-std,concepticon-1352,9.23,ehewixi,knife,ehewixi
+clics-doculect-126-496,esee1247-std,concepticon-1352,9.23,baa,knife,baa
+clics-doculect-126-497,esee1247-std,concepticon-356,9.24,ɗakiixiameexe,"scissors, shears",dakiixiameexe
+clics-doculect-126-498,esee1247-std,concepticon-677,9.25,seweša,ax,sewesa
+clics-doculect-126-499,esee1247-std,concepticon-677,9.25,ehahahaakʷi,ax,ehahahaakwi
+clics-doculect-126-500,esee1247-std,concepticon-677,9.25,aki,ax,aki
+clics-doculect-126-501,esee1247-std,concepticon-680,9.26,saha,break,saha
+clics-doculect-126-502,esee1247-std,concepticon-680,9.26,kʷiasaxaki,break,kwiasaxaki
+clics-doculect-126-503,esee1247-std,concepticon-1437,9.27,pohonahe,split,pohonahe
+clics-doculect-126-504,esee1247-std,concepticon-1735,9.28,isa,tear,isa
+clics-doculect-126-505,esee1247-std,concepticon-1449,9.31,šexahi,"rub, wipe",sexahi
+clics-doculect-126-506,esee1247-std,concepticon-1449,9.31,šehaxi,"rub, wipe",sehaxi
+clics-doculect-126-507,esee1247-std,concepticon-1455,9.33,xekiyiye,pull,xekiyiye
+clics-doculect-126-508,esee1247-std,concepticon-357,9.341,ɓaʔe,hang up,ba?e
+clics-doculect-126-509,esee1247-std,concepticon-1414,9.343,iɲaxasayo,"squeeze, wring",inaxasayo
+clics-doculect-126-510,esee1247-std,concepticon-1414,9.343,iɲapowi,"squeeze, wring",inapowi
+clics-doculect-126-511,esee1247-std,concepticon-1487,9.35,woxohea,pour,woxohea
+clics-doculect-126-512,esee1247-std,concepticon-1453,9.36,taxa,wash,taxa
+clics-doculect-126-513,esee1247-std,concepticon-1453,9.36,topo,wash,topo
+clics-doculect-126-514,esee1247-std,concepticon-1453,9.36,šakʷa,wash,sakwa
+clics-doculect-126-515,esee1247-std,concepticon-230,9.37,kʷeašaɓa,sweep,kweasaba
+clics-doculect-126-516,esee1247-std,concepticon-230,9.37,kʷeahaɓe,sweep,kweahabe
+clics-doculect-126-517,esee1247-std,concepticon-245,9.38,ekʷeašaɓaxi,broom,ekweasabaxi
+clics-doculect-126-518,esee1247-std,concepticon-1840,9.44,iyanahe,build,iyanahe
+clics-doculect-126-519,esee1247-std,concepticon-1501,9.46,wexa,bore,wexa
+clics-doculect-126-520,esee1247-std,concepticon-1501,9.46,heawexa,bore,heawexa
+clics-doculect-126-521,esee1247-std,concepticon-46,9.461,kekʷawexa,hollow out,kekwawexa
+clics-doculect-126-522,esee1247-std,concepticon-46,9.461,heawexaki,hollow out,heawexaki
+clics-doculect-126-523,esee1247-std,concepticon-1481,9.49,ekakaxi,hammer,ekakaxi
+clics-doculect-126-524,esee1247-std,concepticon-502,9.5,ɓaʔakoxi,nail,ba?akoxi
+clics-doculect-126-525,esee1247-std,concepticon-1399,9.73,mešioši,clay,mesiosi
+clics-doculect-126-526,esee1247-std,concepticon-1399,9.73,mešiwoʔo,clay,mesiwo?o
+clics-doculect-126-527,esee1247-std,concepticon-1729,9.75,sipinahe,"weave, plait",sipinahe
+clics-doculect-126-528,esee1247-std,concepticon-1539,9.76,xeepi,basket,xeepi
+clics-doculect-126-529,esee1247-std,concepticon-1539,9.76,eha,basket,eha
+clics-doculect-126-530,esee1247-std,concepticon-1539,9.76,ɓexepi,basket,bexepi
+clics-doculect-126-531,esee1247-std,concepticon-195,9.77,ɓexepi,mat,bexepi
+clics-doculect-126-532,esee1247-std,concepticon-1971,9.79,kʷakipexe,fan (noun),kwakipexe
+clics-doculect-126-533,esee1247-std,concepticon-360,9.791,peenahe,fan (vb),peenahe
+clics-doculect-126-534,esee1247-std,concepticon-2001,9.89,woʔonahe,paint (vb),wo?onahe
+clics-doculect-126-535,esee1247-std,concepticon-2001,9.89,tewenahe,paint (vb),tewenahe
+clics-doculect-126-536,esee1247-std,concepticon-765,10.11,wewa,move,wewa
+clics-doculect-126-537,esee1247-std,concepticon-765,10.11,heawewa,move,heawewa
+clics-doculect-126-538,esee1247-std,concepticon-1588,10.12,heapeweweka,turn over,heapeweweka
+clics-doculect-126-539,esee1247-std,concepticon-1445,10.13,poeoʔoya,turn around,poeo?oya
+clics-doculect-126-540,esee1247-std,concepticon-1113,10.14,ɗoɗoka,"wind, wrap",dodoka
+clics-doculect-126-541,esee1247-std,concepticon-1113,10.14,ɗono,"wind, wrap",dono
+clics-doculect-126-542,esee1247-std,concepticon-827,10.15,xaxayo,roll,xaxayo
+clics-doculect-126-543,esee1247-std,concepticon-430,10.17,heaxaxa,twist,heaxaxa
+clics-doculect-126-544,esee1247-std,concepticon-430,10.17,kowiwi,twist,kowiwi
+clics-doculect-126-545,esee1247-std,concepticon-568,10.21,anisowa,rise,anisowa
+clics-doculect-126-546,esee1247-std,concepticon-501,10.22,sowaki,"raise, lift",sowaki
+clics-doculect-126-547,esee1247-std,concepticon-501,10.22,ehayakiki,"raise, lift",ehayakiki
+clics-doculect-126-548,esee1247-std,concepticon-1280,10.23,oke,fall,oke
+clics-doculect-126-549,esee1247-std,concepticon-1280,10.23,haaɓičakiani,fall,haabicakiani
+clics-doculect-126-550,esee1247-std,concepticon-2253,10.24,kʷikayo,drip,kwikayo
+clics-doculect-126-551,esee1247-std,concepticon-2253,10.24,kʷikʷi,drip,kwikwi
+clics-doculect-126-552,esee1247-std,concepticon-1456,10.25,wanaokea,throw,wanaokea
+clics-doculect-126-553,esee1247-std,concepticon-702,10.252,woho,catch (ball),woho
+clics-doculect-126-554,esee1247-std,concepticon-1909,10.26,peopeo,shake,peopeo
+clics-doculect-126-555,esee1247-std,concepticon-1088,10.33,wiinahe,sink,wiinahe
+clics-doculect-126-556,esee1247-std,concepticon-1088,10.33,heaɗoɓinahe,sink,headobinahe
+clics-doculect-126-557,esee1247-std,concepticon-1439,10.35,šokʷišokʷi,swim,sokwisokwi
+clics-doculect-126-558,esee1247-std,concepticon-1441,10.37,ɓaʔesowaki,fly (vb),ba?esowaki
+clics-doculect-126-559,esee1247-std,concepticon-175,10.38,sipo,blow,sipo
+clics-doculect-126-560,esee1247-std,concepticon-175,10.38,woha,blow,woha
+clics-doculect-126-561,esee1247-std,concepticon-96,10.41,yeyoa,"creep, crawl",yeyoa
+clics-doculect-126-562,esee1247-std,concepticon-296,10.413,haaokenahe,crouch,haaokenahe
+clics-doculect-126-563,esee1247-std,concepticon-1324,10.42,xapišiki,"slide, slip",xapisiki
+clics-doculect-126-564,esee1247-std,concepticon-1324,10.42,xakišipiiki,"slide, slip",xakisipiiki
+clics-doculect-126-565,esee1247-std,concepticon-1829,10.43,towanahe,"jump, leap",towanahe
+clics-doculect-126-566,esee1247-std,concepticon-1829,10.43,ɓa'esowanahe,"jump, leap",ba'esowanahe
+clics-doculect-126-567,esee1247-std,concepticon-1135,10.431,kišinahe,kick,kisinahe
+clics-doculect-126-568,esee1247-std,concepticon-1879,10.44,mahamaha,dance,mahamaha
+clics-doculect-126-569,esee1247-std,concepticon-1443,10.45,heo,walk,heo
+clics-doculect-126-570,esee1247-std,concepticon-1443,10.45,poʔaekieki,walk,po?aekieki
+clics-doculect-126-571,esee1247-std,concepticon-366,10.451,heomihimihi,limp,heomihimihi
+clics-doculect-126-572,esee1247-std,concepticon-1519,10.46,kʷahikʷahi,run,kwahikwahi
+clics-doculect-126-573,esee1247-std,concepticon-1519,10.46,kiakʷehipaši,run,kiakwehipasi
+clics-doculect-126-574,esee1247-std,concepticon-695,10.47,poki,go,poki
+clics-doculect-126-575,esee1247-std,concepticon-695,10.47,kʷa,go,kwa
+clics-doculect-126-576,esee1247-std,concepticon-705,10.471,soaki,go up,soaki
+clics-doculect-126-577,esee1247-std,concepticon-705,10.471,ehayakiki,go up,ehayakiki
+clics-doculect-126-578,esee1247-std,concepticon-2014,10.473,heaokea,go down,heaokea
+clics-doculect-126-579,esee1247-std,concepticon-2014,10.473,nekeokea,go down,nekeokea
+clics-doculect-126-580,esee1247-std,concepticon-2014,10.473,iyaokea,go down,iyaokea
+clics-doculect-126-581,esee1247-std,concepticon-1107,10.474,kʷaya,go out,kwaya
+clics-doculect-126-582,esee1247-std,concepticon-1446,10.48,poe,come,poe
+clics-doculect-126-583,esee1247-std,concepticon-581,10.481,poeoʔoyanahe,come back,poeo?oyanahe
+clics-doculect-126-584,esee1247-std,concepticon-956,10.51,pokikewakinahe,flee,pokikewakinahe
+clics-doculect-126-585,esee1247-std,concepticon-1085,10.52,okʷepokia,follow,okwepokia
+clics-doculect-126-586,esee1247-std,concepticon-1387,10.55,poe,"reach, arrive",poe
+clics-doculect-126-587,esee1247-std,concepticon-1387,10.55,yeka,"reach, arrive",yeka
+clics-doculect-126-588,esee1247-std,concepticon-1778,10.56,xačipikinahe,approach,xacipikinahe
+clics-doculect-126-589,esee1247-std,concepticon-1778,10.56,čipineepoeyonahe,approach,cipineepoeyonahe
+clics-doculect-126-590,esee1247-std,concepticon-749,10.57,ɗoɓiki,enter,dobiki
+clics-doculect-126-591,esee1247-std,concepticon-700,10.61,ɗoho,carry (bear),doho
+clics-doculect-126-592,esee1247-std,concepticon-413,10.613,eɓaʔaxaɗohoka,carry-on-shoulder,eba?axadohoka
+clics-doculect-126-593,esee1247-std,concepticon-692,10.62,heki,bring,heki
+clics-doculect-126-594,esee1247-std,concepticon-692,10.62,xeki,bring,xeki
+clics-doculect-126-595,esee1247-std,concepticon-1127,10.63,wooheaka,send,wooheaka
+clics-doculect-126-596,esee1247-std,concepticon-1127,10.63,yemeena,send,yemeena
+clics-doculect-126-597,esee1247-std,concepticon-367,10.66,anisowanahe,ride,anisowanahe
+clics-doculect-126-598,esee1247-std,concepticon-1452,10.67,yiyehea,"push, shove",yiyehea
+clics-doculect-126-599,esee1247-std,concepticon-1452,10.67,heakʷi,"push, shove",heakwi
+clics-doculect-126-600,esee1247-std,concepticon-667,10.71,exioxi,road,exioxi
+clics-doculect-126-601,esee1247-std,concepticon-2252,10.72,exioxi,path,exioxi
+clics-doculect-126-602,esee1247-std,concepticon-1970,10.831,ɓi'še,canoe,bi'se
+clics-doculect-126-603,esee1247-std,concepticon-1664,10.84,iɲahapa,raft,inahapa
+clics-doculect-126-604,esee1247-std,concepticon-108,10.85,eyoxi,oar,eyoxi
+clics-doculect-126-605,esee1247-std,concepticon-108,10.85,heheʔɓihi,oar,hehe?bihi
+clics-doculect-126-606,esee1247-std,concepticon-234,10.851,eyoxi,paddle (noun),eyoxi
+clics-doculect-126-607,esee1247-std,concepticon-234,10.851,heheʔɓihi,paddle (noun),hehe?bihi
+clics-doculect-126-608,esee1247-std,concepticon-1849,10.852,yoyoa,row (vb),yoyoa
+clics-doculect-126-609,esee1247-std,concepticon-1849,10.852,yokʷiʔoi,row (vb),yokwi?oi
+clics-doculect-126-610,esee1247-std,concepticon-1922,10.92,yekanahe,land (vb),yekanahe
+clics-doculect-126-611,esee1247-std,concepticon-773,11.11,xi,have,xi
+clics-doculect-126-612,esee1247-std,concepticon-684,11.12,eyowamese,"own, possess",eyowamese
+clics-doculect-126-613,esee1247-std,concepticon-1749,11.13,išinahe,take,isinahe
+clics-doculect-126-614,esee1247-std,concepticon-2021,11.14,iɲa,"seize, grasp",ina
+clics-doculect-126-615,esee1247-std,concepticon-1477,11.17,haawanahe,"keep, retain",haawanahe
+clics-doculect-126-616,esee1247-std,concepticon-738,11.18,akiana,thing,akiana
+clics-doculect-126-617,esee1247-std,concepticon-1447,11.21,kia,give,kia
+clics-doculect-126-618,esee1247-std,concepticon-1447,11.21,čemo,give,cemo
+clics-doculect-126-619,esee1247-std,concepticon-1997,11.24,haawa,"preserve, look after",haawa
+clics-doculect-126-620,esee1247-std,concepticon-2008,11.25,haawanakinahe,"save, rescue",haawanakinahe
+clics-doculect-126-621,esee1247-std,concepticon-1468,11.31,saʔaxa,"seek, look for",sa?axa
+clics-doculect-126-622,esee1247-std,concepticon-719,11.32,ɓa,find,ba
+clics-doculect-126-623,esee1247-std,concepticon-1660,11.33,kʷakišo,lose,kwakiso
+clics-doculect-126-624,esee1247-std,concepticon-1660,11.33,xaheaki,lose,xaheaki
+clics-doculect-126-625,esee1247-std,concepticon-1095,11.34,heanahe,"release, let go",heanahe
+clics-doculect-126-626,esee1247-std,concepticon-1559,11.43,čipilo,money,cipilo
+clics-doculect-126-627,esee1247-std,concepticon-1774,11.54,nawe,"avaricious, stingy",nawe
+clics-doculect-126-628,esee1247-std,concepticon-718,11.65,sosekia,pay (vb),sosekia
+clics-doculect-126-629,esee1247-std,concepticon-718,11.65,čoheakia,pay (vb),coheakia
+clics-doculect-126-630,esee1247-std,concepticon-1869,11.81,heše,buy,hese
+clics-doculect-126-631,esee1247-std,concepticon-1869,11.81,xeše,buy,xese
+clics-doculect-126-632,esee1247-std,concepticon-1571,11.82,sosekia,sell,sosekia
+clics-doculect-126-633,esee1247-std,concepticon-1571,11.82,xakiaki,sell,xakiaki
+clics-doculect-126-634,esee1247-std,concepticon-1426,11.88,sosewiso,"dear (costly, expensive)",sosewiso
+clics-doculect-126-635,esee1247-std,concepticon-1098,11.92,keaɓiki,weigh,keabiki
+clics-doculect-126-636,esee1247-std,concepticon-1685,12.1,kixe,after,kixe
+clics-doculect-126-637,esee1247-std,concepticon-1685,12.1,maxe,after,maxe
+clics-doculect-126-638,esee1247-std,concepticon-723,12.11,kiiɓaaxaxe,place,kiibaaxaxe
+clics-doculect-126-639,esee1247-std,concepticon-2094,12.3,makʷawasixe,"down, below",makwawasixe
+clics-doculect-126-640,esee1247-std,concepticon-2094,12.3,ekimexexe,"down, below",ekimexexe
+clics-doculect-126-641,esee1247-std,concepticon-1882,12.4,'yawaho,before,'yawaho
+clics-doculect-126-642,esee1247-std,concepticon-1019,12.41,ekoxanee,right (side),ekoxanee
+clics-doculect-126-643,esee1247-std,concepticon-1606,12.5,eɗoxoho,"inside, in",edoxoho
+clics-doculect-126-644,esee1247-std,concepticon-762,12.6,esekʷe,outside,esekwe
+clics-doculect-126-645,esee1247-std,concepticon-1485,12.7,ekimexexe,under,ekimexexe
+clics-doculect-126-646,esee1247-std,concepticon-1591,12.8,ɓiakʷa,"up, above",biakwa
+clics-doculect-126-647,esee1247-std,concepticon-1591,12.8,eyaho,"up, above",eyaho
+clics-doculect-126-648,esee1247-std,concepticon-998,12.12,wana,put,wana
+clics-doculect-126-649,esee1247-std,concepticon-998,12.12,iya,put,iya
+clics-doculect-126-650,esee1247-std,concepticon-1416,12.13,anioke,sit,anioke
+clics-doculect-126-651,esee1247-std,concepticon-215,12.14,haa,lie down,haa
+clics-doculect-126-652,esee1247-std,concepticon-1442,12.15,neki,stand,neki
+clics-doculect-126-653,esee1247-std,concepticon-1442,12.15,iyasowa,stand,iyasowa
+clics-doculect-126-654,esee1247-std,concepticon-987,12.16,baʔečiča,"remain, stay",ba?ecica
+clics-doculect-126-655,esee1247-std,concepticon-7,12.21,sexa,"collect, gather",sexa
+clics-doculect-126-656,esee1247-std,concepticon-7,12.21,oheepoeyo,"collect, gather",oheepoeyo
+clics-doculect-126-657,esee1247-std,concepticon-371,12.212,mepenahe,pick up,mepenahe
+clics-doculect-126-658,esee1247-std,concepticon-371,12.212,iyačičanahe,pick up,iyacicanahe
+clics-doculect-126-659,esee1247-std,concepticon-1576,12.213,iyačiča,pile up,iyacica
+clics-doculect-126-660,esee1247-std,concepticon-1576,12.213,wana,pile up,wana
+clics-doculect-126-661,esee1247-std,concepticon-1743,12.22,xačičaki,"join, unite",xacicaki
+clics-doculect-126-662,esee1247-std,concepticon-1743,12.22,xačipi,"join, unite",xacipi
+clics-doculect-126-663,esee1247-std,concepticon-1359,12.23,iyape'e,separate,iyape'e
+clics-doculect-126-664,esee1247-std,concepticon-1156,12.24,paahea,open,paahea
+clics-doculect-126-665,esee1247-std,concepticon-1156,12.24,kaʔapeho,open,ka?apeho
+clics-doculect-126-666,esee1247-std,concepticon-1046,12.25,kaʔa,"shut, close",ka?a
+clics-doculect-126-667,esee1247-std,concepticon-761,12.26,paaka,cover,paaka
+clics-doculect-126-668,esee1247-std,concepticon-761,12.26,kaʔa,cover,ka?a
+clics-doculect-126-669,esee1247-std,concepticon-602,12.27,kʷakišo,"hide, conceal",kwakiso
+clics-doculect-126-670,esee1247-std,concepticon-602,12.27,xakewaki,"hide, conceal",xakewaki
+clics-doculect-126-671,esee1247-std,concepticon-1265,12.31,keaaʔao,high,keaa?ao
+clics-doculect-126-672,esee1247-std,concepticon-721,12.32,pasanee,low,pasanee
+clics-doculect-126-673,esee1247-std,concepticon-1753,12.33,ehamakoʔoho,top,ehamako?oho
+clics-doculect-126-674,esee1247-std,concepticon-690,12.34,ekimexexe,bottom,ekimexexe
+clics-doculect-126-675,esee1247-std,concepticon-742,12.35,oepoanahe,end,oepoanahe
+clics-doculect-126-676,esee1247-std,concepticon-742,12.35,pahea,end,pahea
+clics-doculect-126-677,esee1247-std,concepticon-372,12.352,eʔikʷi,pointed,e?ikwi
+clics-doculect-126-678,esee1247-std,concepticon-863,12.353,esawa,edge,esawa
+clics-doculect-126-679,esee1247-std,concepticon-682,12.36,mihixi,side,mihixi
+clics-doculect-126-680,esee1247-std,concepticon-1093,12.37,eyesamaho,"middle, center",eyesamaho
+clics-doculect-126-681,esee1247-std,concepticon-1019,12.41,ebianee,right (side),ebianee
+clics-doculect-126-682,esee1247-std,concepticon-244,12.42,šani,left (side),sani
+clics-doculect-126-683,esee1247-std,concepticon-1942,12.43,čipi,near (adv),cipi
+clics-doculect-126-684,esee1247-std,concepticon-1942,12.43,wešaʔama,near (adv),wesa?ama
+clics-doculect-126-685,esee1247-std,concepticon-1406,12.44,weeša,far (adv),weesa
+clics-doculect-126-686,esee1247-std,concepticon-1406,12.44,ki,far (adv),ki
+clics-doculect-126-687,esee1247-std,concepticon-1595,12.48,eeno,south,eeno
+clics-doculect-126-688,esee1247-std,concepticon-1595,12.48,ešikiaha,south,esikiaha
+clics-doculect-126-689,esee1247-std,concepticon-479,12.53,tii,grow,tii
+clics-doculect-126-690,esee1247-std,concepticon-1202,12.55,kemo,"large, big",kemo
+clics-doculect-126-691,esee1247-std,concepticon-1246,12.56,ɓiso,"small, little",biso
+clics-doculect-126-692,esee1247-std,concepticon-1246,12.56,sisi,"small, little",sisi
+clics-doculect-126-693,esee1247-std,concepticon-1203,12.57,ʔao,long,?ao
+clics-doculect-126-694,esee1247-std,concepticon-711,12.58,ʔao,tall,?ao
+clics-doculect-126-695,esee1247-std,concepticon-1645,12.59,čiʔa,short,ci?a
+clics-doculect-126-696,esee1247-std,concepticon-1645,12.59,kepe,short,kepe
+clics-doculect-126-697,esee1247-std,concepticon-1243,12.61,kemo,"wide, broad",kemo
+clics-doculect-126-698,esee1247-std,concepticon-1267,12.62,ɓiso,narrow,biso
+clics-doculect-126-699,esee1247-std,concepticon-1244,12.63,'mo,thick (in dimension),'mo
+clics-doculect-126-700,esee1247-std,concepticon-2249,12.65,ɓehe,thin (in dimension),behe
+clics-doculect-126-701,esee1247-std,concepticon-2249,12.65,ɓiso,thin (in dimension),biso
+clics-doculect-126-702,esee1247-std,concepticon-2249,12.65,šiwi,thin (in dimension),siwi
+clics-doculect-126-703,esee1247-std,concepticon-1593,12.67,ɗoe,deep,doe
+clics-doculect-126-704,esee1247-std,concepticon-1633,12.71,keaheyo,flat,keaheyo
+clics-doculect-126-705,esee1247-std,concepticon-1404,12.73,epinee,straight,epinee
+clics-doculect-126-706,esee1247-std,concepticon-1404,12.73,pi,straight,pi
+clics-doculect-126-707,esee1247-std,concepticon-297,12.74,keasewiwi,crooked,keasewiwi
+clics-doculect-126-708,esee1247-std,concepticon-297,12.74,keakowiwi,crooked,keakowiwi
+clics-doculect-126-709,esee1247-std,concepticon-1367,12.77,ekʷeataʔapee,cross,ekweata?apee
+clics-doculect-126-710,esee1247-std,concepticon-1395,12.81,kopokopo,round,kopokopo
+clics-doculect-126-711,esee1247-std,concepticon-1395,12.81,ehekʷixaxa,round,ehekwixaxa
+clics-doculect-126-712,esee1247-std,concepticon-1467,12.82,kobokobo,circle,kobokobo
+clics-doculect-126-713,esee1247-std,concepticon-1667,12.85,xani,hole,xani
+clics-doculect-126-714,esee1247-std,concepticon-1558,12.92,haiyoxa,"like, similar",haiyoxa
+clics-doculect-126-715,esee1247-std,concepticon-1558,12.92,hamaya,"like, similar",hamaya
+clics-doculect-126-716,esee1247-std,concepticon-1264,12.93,sosexekiayo,change,sosexekiayo
+clics-doculect-126-717,esee1247-std,concepticon-1294,13.0,ae,"zero, nothing",ae
+clics-doculect-126-718,esee1247-std,concepticon-1493,13.1,oe,one,oe
+clics-doculect-126-719,esee1247-std,concepticon-1498,13.2,ɓeka,two,beka
+clics-doculect-126-720,esee1247-std,concepticon-492,13.3,eɓe'kapeeximaʔ,three,ebe'kapeexima?
+clics-doculect-126-721,esee1247-std,concepticon-1500,13.4,eɓe'kaɓeepeaai,four,ebe'kabeepeaai
+clics-doculect-126-722,esee1247-std,concepticon-1420,13.107,siko,count,siko
+clics-doculect-126-723,esee1247-std,concepticon-98,13.14,oxaɲa,"every, all",oxana
+clics-doculect-126-724,esee1247-std,concepticon-98,13.14,wasee,"every, all",wasee
+clics-doculect-126-725,esee1247-std,concepticon-1198,13.15,wiso,"much, many",wiso
+clics-doculect-126-726,esee1247-std,concepticon-1198,13.15,moo,"much, many",moo
+clics-doculect-126-727,esee1247-std,concepticon-1992,13.16,pea,more,pea
+clics-doculect-126-728,esee1247-std,concepticon-1242,13.17,oepoxi,"little (quantity), few",oepoxi
+clics-doculect-126-729,esee1247-std,concepticon-1241,13.181,eɓekakʷana,some,ebekakwana
+clics-doculect-126-730,esee1247-std,concepticon-1429,13.21,kʷioka,full,kwioka
+clics-doculect-126-731,esee1247-std,concepticon-1624,13.22,emexe,empty,emexe
+clics-doculect-126-732,esee1247-std,concepticon-1624,13.22,wihohea,empty,wihohea
+clics-doculect-126-733,esee1247-std,concepticon-779,13.23,ɓisonee,"part, piece",bisonee
+clics-doculect-126-734,esee1247-std,concepticon-1580,13.33,mee,"alone, only",mee
+clics-doculect-126-735,esee1247-std,concepticon-1580,13.33,oe,"alone, only",oe
+clics-doculect-126-736,esee1247-std,concepticon-728,13.34,eɓionee,first,ebionee
+clics-doculect-126-737,esee1247-std,concepticon-1529,13.35,oe'exanee,last,oe'exanee
+clics-doculect-126-738,esee1247-std,concepticon-892,14.11,še,time,se
+clics-doculect-126-739,esee1247-std,concepticon-1231,14.13,eyakʷa,new,eyakwa
+clics-doculect-126-740,esee1247-std,concepticon-1207,14.14,ešoʔi,young,eso?i
+clics-doculect-126-741,esee1247-std,concepticon-1229,14.15,tii,old,tii
+clics-doculect-126-742,esee1247-std,concepticon-1229,14.15,čii,old,cii
+clics-doculect-126-743,esee1247-std,concepticon-672,14.16,mekaxeawa,early,mekaxeawa
+clics-doculect-126-744,esee1247-std,concepticon-477,14.17,sinekʷa,late,sinekwa
+clics-doculect-126-745,esee1247-std,concepticon-1376,14.18,xeyawa,now,xeyawa
+clics-doculect-126-746,esee1247-std,concepticon-1376,14.18,xeya,now,xeya
+clics-doculect-126-747,esee1247-std,concepticon-1631,14.21,kʷahi,"swift, fast, quick",kwahi
+clics-doculect-126-748,esee1247-std,concepticon-701,14.22,šono,slow,sono
+clics-doculect-126-749,esee1247-std,concepticon-701,14.22,xapašineexi,slow,xapasineexi
+clics-doculect-126-750,esee1247-std,concepticon-754,14.23,poekʷahikʷe,"hasten, hurry",poekwahikwe
+clics-doculect-126-751,esee1247-std,concepticon-754,14.23,pokikʷahikʷe,"hasten, hurry",pokikwahikwe
+clics-doculect-126-752,esee1247-std,concepticon-425,14.24,keašono?,"retard, delay",keasono?
+clics-doculect-126-753,esee1247-std,concepticon-1186,14.252,xakaʔaki,"last, endure",xaka?aki
+clics-doculect-126-754,esee1247-std,concepticon-1766,14.27,oepoa,finish,oepoa
+clics-doculect-126-755,esee1247-std,concepticon-1766,14.27,pahea,finish,pahea
+clics-doculect-126-756,esee1247-std,concepticon-790,14.29,apo'a,ready,apo'a
+clics-doculect-126-757,esee1247-std,concepticon-1676,14.31,tii,always,tii
+clics-doculect-126-758,esee1247-std,concepticon-1656,14.34,poxeama,never,poxeama
+clics-doculect-126-759,esee1247-std,concepticon-204,14.35,oʔoya,again,o?oya
+clics-doculect-126-760,esee1247-std,concepticon-1225,14.41,epoxa,day,epoxa
+clics-doculect-126-761,esee1247-std,concepticon-1233,14.42,mekaxe,night,mekaxe
+clics-doculect-126-762,esee1247-std,concepticon-729,14.43,xapoxaki,dawn,xapoxaki
+clics-doculect-126-763,esee1247-std,concepticon-1339,14.44,mekaxeawanee,morning,mekaxeawanee
+clics-doculect-126-764,esee1247-std,concepticon-12,14.45,ešekiɓeakoxaxa,"noon, midday",esekibeakoxaxa
+clics-doculect-126-765,esee1247-std,concepticon-1807,14.451,si'ɲa,afternoon,si'na
+clics-doculect-126-766,esee1247-std,concepticon-1807,14.451,sinekʷa,afternoon,sinekwa
+clics-doculect-126-767,esee1247-std,concepticon-1629,14.46,siɲa,evening,sina
+clics-doculect-126-768,esee1247-std,concepticon-1283,14.47,epoxa,today,epoxa
+clics-doculect-126-769,esee1247-std,concepticon-1329,14.48,mekawaxe,tomorrow,mekawaxe
+clics-doculect-126-770,esee1247-std,concepticon-1174,14.49,mekawaxe,yesterday,mekawaxe
+clics-doculect-126-771,esee1247-std,concepticon-1323,14.53,ešekiɓaxi,"clock, timepiece",esekibaxi
+clics-doculect-126-772,esee1247-std,concepticon-1370,14.71,ɓaʔi,month,ba?i
+clics-doculect-126-773,esee1247-std,concepticon-1226,14.73,kʷiaoše,year,kwiaose
+clics-doculect-126-774,esee1247-std,concepticon-1226,14.73,ešekiaha,year,esekiaha
+clics-doculect-126-775,esee1247-std,concepticon-1471,14.74,eenoše,winter,eenose
+clics-doculect-126-776,esee1247-std,concepticon-1587,15.21,šiye,smell (vb intrans),siye
+clics-doculect-126-777,esee1247-std,concepticon-1587,15.21,šiyeʔaxa,smell (vb intrans),siye?axa
+clics-doculect-126-778,esee1247-std,concepticon-376,15.25,šiye,"fragrant, good smelling",siye
+clics-doculect-126-779,esee1247-std,concepticon-42,15.26,šiye,"stinking, bad smelling",siye
+clics-doculect-126-780,esee1247-std,concepticon-21,15.31,ɓotiɓanahe,taste,botibanahe
+clics-doculect-126-781,esee1247-std,concepticon-717,15.35,ɓikia,sweet,bikia
+clics-doculect-126-782,esee1247-std,concepticon-1091,15.36,keasese,salty,keasese
+clics-doculect-126-783,esee1247-std,concepticon-887,15.37,pase,bitter,pase
+clics-doculect-126-784,esee1247-std,concepticon-1906,15.38,sese,"acid, sour",sese
+clics-doculect-126-785,esee1247-std,concepticon-1608,15.42,šaxaʔaxanahe,listen,saxa?axanahe
+clics-doculect-126-786,esee1247-std,concepticon-1409,15.51,ɓanahe,see,banahe
+clics-doculect-126-787,esee1247-std,concepticon-1819,15.52,ɓa,"look, look at",ba
+clics-doculect-126-788,esee1247-std,concepticon-1039,15.55,ɓamee,show,bamee
+clics-doculect-126-789,esee1247-std,concepticon-708,15.56,hihinahe,shine,hihinahe
+clics-doculect-126-790,esee1247-std,concepticon-679,15.57,haʔa,bright,ha?a
+clics-doculect-126-791,esee1247-std,concepticon-1613,15.61,woʔowoʔo,color,wo?owo?o
+clics-doculect-126-792,esee1247-std,concepticon-1335,15.64,oše,white,ose
+clics-doculect-126-793,esee1247-std,concepticon-163,15.65,tewe,black,tewe
+clics-doculect-126-794,esee1247-std,concepticon-156,15.66,woʔo,red,wo?o
+clics-doculect-126-795,esee1247-std,concepticon-837,15.67,etawa,blue,etawa
+clics-doculect-126-796,esee1247-std,concepticon-1425,15.68,etawa,green,etawa
+clics-doculect-126-797,esee1247-std,concepticon-1424,15.69,hawa,yellow,hawa
+clics-doculect-126-798,esee1247-std,concepticon-1892,15.71,napa,touch,napa
+clics-doculect-126-799,esee1247-std,concepticon-1079,15.72,miši,feel,misi
+clics-doculect-126-800,esee1247-std,concepticon-1884,15.74,kaʔa,hard,ka?a
+clics-doculect-126-801,esee1247-std,concepticon-1884,15.74,kaxae,hard,kaxae
+clics-doculect-126-802,esee1247-std,concepticon-1856,15.75,'po,soft,'po
+clics-doculect-126-803,esee1247-std,concepticon-1856,15.75,tona,soft,tona
+clics-doculect-126-804,esee1247-std,concepticon-1856,15.75,šaho,soft,saho
+clics-doculect-126-805,esee1247-std,concepticon-1923,15.76,šaʔa,rough,sa?a
+clics-doculect-126-806,esee1247-std,concepticon-1396,15.78,šexi,sharp,sexi
+clics-doculect-126-807,esee1247-std,concepticon-1396,15.78,išio,sharp,isio
+clics-doculect-126-808,esee1247-std,concepticon-1210,15.81,ɓikia,heavy,bikia
+clics-doculect-126-809,esee1247-std,concepticon-1052,15.82,peha,light (in weight),peha
+clics-doculect-126-810,esee1247-std,concepticon-1726,15.83,čoe,"wet, damp",coe
+clics-doculect-126-811,esee1247-std,concepticon-1726,15.83,nahaxi,"wet, damp",nahaxi
+clics-doculect-126-812,esee1247-std,concepticon-1398,15.84,eho'kaʔ,dry,eho'ka?
+clics-doculect-126-813,esee1247-std,concepticon-1286,15.85,kiyo,hot,kiyo
+clics-doculect-126-814,esee1247-std,concepticon-1287,15.86,ɓoe,cold,boe
+clics-doculect-126-815,esee1247-std,concepticon-1287,15.86,eeno,cold,eeno
+clics-doculect-126-816,esee1247-std,concepticon-704,15.87,kixene,clean,kixene
+clics-doculect-126-817,esee1247-std,concepticon-704,15.87,eweɗe,clean,ewede
+clics-doculect-126-818,esee1247-std,concepticon-704,15.87,kʷi,clean,kwi
+clics-doculect-126-819,esee1247-std,concepticon-1230,15.88,hewi,"dirty, soiled",hewi
+clics-doculect-126-820,esee1247-std,concepticon-1230,15.88,šexe,"dirty, soiled",sexe
+clics-doculect-126-821,esee1247-std,concepticon-380,15.89,eiɲašiwinahe,wrinkled,einasiwinahe
+clics-doculect-126-822,esee1247-std,concepticon-53,16.11,inine,"soul, spirit",inine
+clics-doculect-126-823,esee1247-std,concepticon-53,16.11,ekʷikia,"soul, spirit",ekwikia
+clics-doculect-126-824,esee1247-std,concepticon-1495,16.23,soaše,"joyful, glad, happy",soase
+clics-doculect-126-825,esee1247-std,concepticon-1495,16.23,ɓiwi,"joyful, glad, happy",biwi
+clics-doculect-126-826,esee1247-std,concepticon-1355,16.25,soa,laugh,soa
+clics-doculect-126-827,esee1247-std,concepticon-1413,16.26,keɓaneepoa,play,kebaneepoa
+clics-doculect-126-828,esee1247-std,concepticon-1413,16.26,xaɓekaiki,play,xabekaiki
+clics-doculect-126-829,esee1247-std,concepticon-923,16.27,keahaipoanahe,love,keahaipoanahe
+clics-doculect-126-830,esee1247-std,concepticon-578,16.29,naɓatoxo,kiss,nabatoxo
+clics-doculect-126-831,esee1247-std,concepticon-928,16.3,xawoxekinahe,embrace,xawoxekinahe
+clics-doculect-126-832,esee1247-std,concepticon-928,16.3,mapanahe,embrace,mapanahe
+clics-doculect-126-833,esee1247-std,concepticon-1783,16.31,nee,pain,nee
+clics-doculect-126-834,esee1247-std,concepticon-1668,16.32,yeno,"grief, sorrow, sadness",yeno
+clics-doculect-126-835,esee1247-std,concepticon-1839,16.37,pa,"cry, weep",pa
+clics-doculect-126-836,esee1247-std,concepticon-1651,16.38,ekoxa'na,tear (noun),ekoxa'na
+clics-doculect-126-837,esee1247-std,concepticon-1607,16.41,ɓo'tiamapoanahe,hate,bo'tiamapoanahe
+clics-doculect-126-838,esee1247-std,concepticon-82,16.42,kenekene,anger,kenekene
+clics-doculect-126-839,esee1247-std,concepticon-40,16.44,i'ya,"envy, jealousy",i'ya
+clics-doculect-126-840,esee1247-std,concepticon-1776,16.45,ɓičo,shame (noun),bico
+clics-doculect-126-841,esee1247-std,concepticon-781,16.53,mete,"fear, fright",mete
+clics-doculect-126-842,esee1247-std,concepticon-781,16.53,ʔaxa,"fear, fright",?axa
+clics-doculect-126-843,esee1247-std,concepticon-1784,16.62,sa,"desire, want",sa
+clics-doculect-126-844,esee1247-std,concepticon-1784,16.62,ɓoti,"desire, want",boti
+clics-doculect-126-845,esee1247-std,concepticon-1784,16.62,keahai,"desire, want",keahai
+clics-doculect-126-846,esee1247-std,concepticon-1784,16.62,kiahaiɓo,"desire, want",kiahaibo
+clics-doculect-126-847,esee1247-std,concepticon-1750,16.622,mepenahe,choose,mepenahe
+clics-doculect-126-848,esee1247-std,concepticon-1657,16.66,eʔenee,true,e?enee
+clics-doculect-126-849,esee1247-std,concepticon-1657,16.66,eʔehohinee,true,e?ehohinee
+clics-doculect-126-850,esee1247-std,concepticon-601,16.67,siaxe,"lie, tell lies",siaxe
+clics-doculect-126-851,esee1247-std,concepticon-1035,16.71,ɓame,good,bame
+clics-doculect-126-852,esee1247-std,concepticon-1035,16.71,hayaya,good,hayaya
+clics-doculect-126-853,esee1247-std,concepticon-1035,16.71,kixene,good,kixene
+clics-doculect-126-854,esee1247-std,concepticon-1292,16.72,keamase,bad,keamase
+clics-doculect-126-855,esee1247-std,concepticon-1292,16.72,keašoʔitai,bad,keaso?itai
+clics-doculect-126-856,esee1247-std,concepticon-1293,16.77,ahoka,"mistake, error",ahoka
+clics-doculect-126-857,esee1247-std,concepticon-1687,16.79,ɓiweaɓiweakinahe,praise,biweabiweakinahe
+clics-doculect-126-858,esee1247-std,concepticon-1427,16.81,ɓame,beautiful,bame
+clics-doculect-126-859,esee1247-std,concepticon-1427,16.81,heɓo,beautiful,hebo
+clics-doculect-126-860,esee1247-std,concepticon-1548,16.82,taʔi,ugly,ta?i
+clics-doculect-126-861,esee1247-std,concepticon-1548,16.82,kʷaʔama,ugly,kwa?ama
+clics-doculect-126-862,esee1247-std,concepticon-1415,17.13,xašawaɓaki,think (= reflect),xasawabaki
+clics-doculect-126-863,esee1247-std,concepticon-1415,17.13,šawaɓaɲaki,think (= reflect),sawabanaki
+clics-doculect-126-864,esee1247-std,concepticon-1513,17.14,eʔeneepoanahe,think (= be of the opinion),e?eneepoanahe
+clics-doculect-126-865,esee1247-std,concepticon-1890,17.15,eʔeneepoanahe,believe,e?eneepoanahe
+clics-doculect-126-866,esee1247-std,concepticon-1410,17.17,ɓanahe,know,banahe
+clics-doculect-126-867,esee1247-std,concepticon-1932,17.171,šawaɓakinahe,guess,sawabakinahe
+clics-doculect-126-868,esee1247-std,concepticon-1521,17.18,haiyoxa,seem,haiyoxa
+clics-doculect-126-869,esee1247-std,concepticon-504,17.24,xašaxaaxakinahe,learn,xasaxaaxakinahe
+clics-doculect-126-870,esee1247-std,concepticon-709,17.25,sowiwowi,teach,sowiwowi
+clics-doculect-126-871,esee1247-std,concepticon-753,17.26,iya,pupil,iya
+clics-doculect-126-872,esee1247-std,concepticon-1038,17.27,esowiwowixi,teacher,esowiwowixi
+clics-doculect-126-873,esee1247-std,concepticon-707,17.31,niɲeɓa,remember,nineba
+clics-doculect-126-874,esee1247-std,concepticon-1523,17.32,pahea,forget,pahea
+clics-doculect-126-875,esee1247-std,concepticon-989,17.34,tawa,"clear, plain",tawa
+clics-doculect-126-876,esee1247-std,concepticon-686,17.46,kamahaʔama,easy,kamaha?ama
+clics-doculect-126-877,esee1247-std,concepticon-584,17.47,kamaha,difficult,kamaha
+clics-doculect-126-878,esee1247-std,concepticon-1459,17.53,ho,if,ho
+clics-doculect-126-879,esee1247-std,concepticon-1268,17.55,eʔe,"yes, affirmative",e?e
+clics-doculect-126-880,esee1247-std,concepticon-1269,17.56,ama,"no, negative",ama
+clics-doculect-126-881,esee1247-std,concepticon-1239,17.61,yaxa,how?,yaxa
+clics-doculect-126-882,esee1247-std,concepticon-1239,17.61,ačaxa,how?,acaxa
+clics-doculect-126-883,esee1247-std,concepticon-822,17.62,ačewiso,how many?,acewiso
+clics-doculect-126-884,esee1247-std,concepticon-1236,17.64,ae,what?,ae
+clics-doculect-126-885,esee1247-std,concepticon-1236,17.64,hai,what?,hai
+clics-doculect-126-886,esee1247-std,concepticon-1238,17.65,ho,when?,ho
+clics-doculect-126-887,esee1247-std,concepticon-1238,17.65,ačešono,when?,acesono
+clics-doculect-126-888,esee1247-std,concepticon-1237,17.66,ačakʷa,where?,acakwa
+clics-doculect-126-889,esee1247-std,concepticon-1237,17.66,ačeho,where?,aceho
+clics-doculect-126-890,esee1247-std,concepticon-727,17.67,ače,which?,ace
+clics-doculect-126-891,esee1247-std,concepticon-1235,17.68,aʔya,who?,a?ya
+clics-doculect-126-892,esee1247-std,concepticon-1235,17.68,ae,who?,ae
+clics-doculect-126-893,esee1247-std,concepticon-1270,17.69,apioxi,why?,apioxi
+clics-doculect-126-894,esee1247-std,concepticon-1363,18.11,esoi,voice,esoi
+clics-doculect-126-895,esee1247-std,concepticon-1261,18.12,sowikʷaya,sing,sowikwaya
+clics-doculect-126-896,esee1247-std,concepticon-715,18.13,taa,"shout, cry out",taa
+clics-doculect-126-897,esee1247-std,concepticon-715,18.13,iya,"shout, cry out",iya
+clics-doculect-126-898,esee1247-std,concepticon-715,18.13,seasea,"shout, cry out",seasea
+clics-doculect-126-899,esee1247-std,concepticon-1025,18.17,wowi,whistle,wowi
+clics-doculect-126-900,esee1247-std,concepticon-1623,18.21,mimi,"speak, talk",mimi
+clics-doculect-126-901,esee1247-std,concepticon-1623,18.21,wowi,"speak, talk",wowi
+clics-doculect-126-902,esee1247-std,concepticon-1458,18.22,poa,say,poa
+clics-doculect-126-903,esee1247-std,concepticon-1458,18.22,aka,say,aka
+clics-doculect-126-904,esee1247-std,concepticon-1711,18.221,wowinahe,tell story,wowinahe
+clics-doculect-126-905,esee1247-std,concepticon-1307,18.24,esowi,language,esowi
+clics-doculect-126-906,esee1247-std,concepticon-1599,18.26,esowi,word,esowi
+clics-doculect-126-907,esee1247-std,concepticon-1599,18.26,epiʔɗekikʷi,word,epi?dekikwi
+clics-doculect-126-908,esee1247-std,concepticon-1405,18.28,aʔɓaxani,name,a?baxani
+clics-doculect-126-909,esee1247-std,concepticon-1309,18.31,wowiaxaka,"ask (question, inquire)",wowiaxaka
+clics-doculect-126-910,esee1247-std,concepticon-1828,18.35,wowiaxanahe,"ask, request",wowiaxanahe
+clics-doculect-126-911,esee1247-std,concepticon-1084,18.41,'iya,call (=summon),'iya
+clics-doculect-126-912,esee1247-std,concepticon-1672,18.51,tewe,write,tewe
+clics-doculect-126-913,esee1247-std,concepticon-794,18.57,etewexe,pen,etewexe
+clics-doculect-126-914,esee1247-std,concepticon-777,18.71,ɗewe,flute,dewe
+clics-doculect-126-915,esee1247-std,concepticon-777,18.71,emeaxi,flute,emeaxi
+clics-doculect-126-916,esee1247-std,concepticon-2136,18.73,šeʔana,"horn, trumpet",se?ana
+clics-doculect-126-917,esee1247-std,concepticon-1391,19.15,ekikiɓo,"city, town",ekikibo
+clics-doculect-126-918,esee1247-std,concepticon-930,19.16,ekikiɓo,village,ekikibo
+clics-doculect-126-919,esee1247-std,concepticon-930,19.16,kʷiɲaxi,village,kwinaxi
+clics-doculect-126-920,esee1247-std,concepticon-789,19.21,Eseexa,people (populace),Eseexa
+clics-doculect-126-921,esee1247-std,concepticon-1296,19.25,exakekʷakaʔakixi,"staff, walking stick",exakekwaka?akixi
+clics-doculect-126-922,esee1247-std,concepticon-1032,19.37,eseʔexa,"citizen, subject",ese?exa
+clics-doculect-126-923,esee1247-std,concepticon-383,19.41,esowiwowixi,master,esowiwowixi
+clics-doculect-126-924,esee1247-std,concepticon-255,19.43,ekʷakʷahi,servant,ekwakwahi
+clics-doculect-126-925,esee1247-std,concepticon-255,19.43,ewačakoxi,servant,ewacakoxi
+clics-doculect-126-926,esee1247-std,concepticon-1128,19.45,wooheanahe,"command, order",wooheanahe
+clics-doculect-126-927,esee1247-std,concepticon-1128,19.45,yemeena,"command, order",yemeena
+clics-doculect-126-928,esee1247-std,concepticon-1635,19.46,xašaxaaxaki,obey,xasaxaaxaki
+clics-doculect-126-929,esee1247-std,concepticon-1325,19.51,epeexi,"friend, companion",epeexi
+clics-doculect-126-930,esee1247-std,concepticon-1325,19.51,exapeeki,"friend, companion",exapeeki
+clics-doculect-126-931,esee1247-std,concepticon-1897,19.58,sawa,"help, aid",sawa
+clics-doculect-126-932,esee1247-std,concepticon-1897,19.58,ewasawa,"help, aid",ewasawa
+clics-doculect-126-933,esee1247-std,concepticon-1831,19.65,ɓanahe,meet,banahe
+clics-doculect-126-934,esee1247-std,concepticon-1423,20.11,xakʷiaki,fight (vb),xakwiaki
+clics-doculect-126-935,esee1247-std,concepticon-1423,20.11,xakekʷaki,fight (vb),xakekwaki
+clics-doculect-126-936,esee1247-std,concepticon-994,20.24,ekowixi,bow,ekowixi
+clics-doculect-126-937,esee1247-std,concepticon-977,20.25,emehe,arrow,emehe
+clics-doculect-126-938,esee1247-std,concepticon-1535,20.27,ɓaa,sword,baa
+clics-doculect-126-939,esee1247-std,concepticon-1566,20.28,ekowixi,"gun, cannon",ekowixi
+clics-doculect-126-940,esee1247-std,concepticon-1330,20.44,nawenahe,defend,nawenahe
+clics-doculect-126-941,esee1247-std,concepticon-1940,20.471,wana,"guard, sentinel",wana
+clics-doculect-126-942,esee1247-std,concepticon-1074,20.52,baašewiwi,fishhook,baasewiwi
+clics-doculect-126-943,esee1247-std,concepticon-388,20.54,heikikʷi,fishnet,heikikwi
+clics-doculect-126-944,esee1247-std,concepticon-1435,20.61,kekʷa,hunt,kekwa
+clics-doculect-126-945,esee1247-std,concepticon-1172,20.62,hahawowonahe,shoot,hahawowonahe
+clics-doculect-126-946,esee1247-std,concepticon-390,21.37,kʷiaka,"penalty, punishment",kwiaka
+clics-doculect-126-947,esee1247-std,concepticon-390,21.37,kʷea,"penalty, punishment",kwea
+clics-doculect-126-948,esee1247-std,concepticon-845,21.42,kekʷanahe,murder,kekwanahe
+clics-doculect-126-949,esee1247-std,concepticon-902,21.43,peakoxoxi,adultery,peakoxoxi
+clics-doculect-126-950,esee1247-std,concepticon-713,21.51,siika,steal,siika
+clics-doculect-126-951,esee1247-std,concepticon-1160,21.52,siipohi,thief,siipohi
+clics-doculect-126-952,esee1247-std,concepticon-1160,21.52,siipoxi,thief,siipoxi

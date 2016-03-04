@@ -1,0 +1,1210 @@
+@classification: Austronesian,Malayo-Polynesian,Central-Eastern,Eastern Malayo-Polynesian,Oceanic,Central-Eastern Oceanic,Remote Oceanic,Central Pacific,East Fijian-Polynesian,Polynesian,Nuclear,East,Central
+@ids-name: Rapa_Nui_Phonemic
+@iso: ray
+@language: Rapa
+@size: 1203
+@source: ids
+@variety: std
+1.1	world	ao
+1.21	earth, land	henua
+1.212	earth=ground, soil	ʔoʔone
+1.213	dust	puŋaʔehu
+1.214	mud	rarerare
+1.215	sand	ʔone
+1.22	mountain, hill	maʔuŋa
+1.222	cliff, precipice	ʔopata
+1.23	plain, field	pararaha
+1.25	island	motu
+1.26	mainland	hiva
+1.27	shore	tahatahavaikava
+1.27	shore	tahatahatai
+1.28	cave	ʔana
+1.31	water	vai
+1.32	sea	vaikava
+1.322	calm (of sea)	māria
+1.323	rough (of sea)	pari
+1.324	foam	kutakutavaikava
+1.33	lake	roto
+1.34	gulf, bay	haŋa
+1.341	lagoon	roto
+1.343	headland, point	ihu
+1.35	wave	vave
+1.352	tide	tai
+1.353	lowtide	taipapaku
+1.354	hightide	taiuʔa
+1.42	tree (cf 08.600)	tumu
+1.43	wood	miro
+1.44	stone, rock	maʔea
+1.51	sky	raŋi
+1.52	sun	raʔā
+1.53	moon	mahina
+1.54	star	hetuʔu
+1.55	lightning	ʔuira
+1.56	thunder	pātiri
+1.57	lightning (as striking)	uretitiʔomoana
+1.58	storm	ʔati
+1.59	rainbow	hanuanuamea
+1.61	light (noun)	maʔeha
+1.61	light (noun)	morī
+1.62	darkness	pōhāhā
+1.62	darkness	poʔura
+1.63	shade, shadow	kohu
+1.64	dew	hupe
+1.71	air	hahau
+1.72	wind	tokerau
+1.73	cloud	raŋi
+1.74	fog	kapua
+1.75	rain (noun)	ʔua
+1.81	fire	ahi
+1.82	flame (noun)	ura
+1.83	smoke (noun)	ʔau
+1.84	ashes	ʔeoʔeo
+1.841	embers	maramara
+1.851	burn (vb trans)	tutu
+1.852	burn (vb intrans)	vera
+1.852	burn (vb intrans)	hū
+1.86	light, kindle, ignite	hakahū
+1.861	extinguish	tiŋaʔi
+1.861	extinguish	hakamate
+1.88	firewood	hukahuka
+1.89	charcoal	ʔarahu
+2.1	person, human being	taŋata
+2.21	man (vs. woman)	taŋata
+2.22	woman	viʔe
+2.23	male	tane
+2.24	female	vahine
+2.25	boy	pokitane
+2.251	young man (adolescent)	pokitanetaŋa
+2.26	girl	pokivahine
+2.261	young woman (adolescent)	pokivahinetaŋa
+2.27	child	poki
+2.28	infant, baby	poki
+2.31	husband	kenu
+2.32	wife	viʔe
+2.33	marry	haipoipo
+2.34	marriage, wedding	haipoipo
+2.38	married man	taŋatahaipoipo
+2.39	married woman	viʔehaipoipo
+2.41	son	pokitane
+2.42	daughter	pokivahine
+2.43	offspring (son or daughter)	poki
+2.44	brother	taina
+2.444	older brother	matahiapo
+2.445	younger brother	tainatanehopeʔa
+2.45	sister	taina
+2.454	older sister	matahiapo
+2.455	younger sister	tainavahinehopeʔa
+2.456	sibling	taina
+2.458	twins	hauvā
+2.458	twins	hauā
+2.46	grandfather	ruʔau
+2.461	old man	korohuʔa
+2.47	grandmother	ruʔau
+2.471	old woman	ruʔau
+2.48	grandson	makupunatane
+2.49	granddaughter	makupunavahine
+2.55	cousin	taina
+2.56	ancestors	tupuna
+2.56	ancestors	matamuʔa
+2.57	descendants	hakaara
+2.61	father-in-law (of a man)	huŋavaitane
+2.611	father-in-law (of a woman)	huŋavaitane
+2.62	mother-in-law (of a man)	huŋavaivahine
+2.621	mother-in-law (of a woman)	huŋavaivahine
+2.63	son-in-law (of a man)	hunoŋatane
+2.631	son-in-law (of a woman)	hunoŋatane
+2.64	daughter-in-law (of a man)	hunoŋavahine
+2.641	daughter-in-law (of a woman)	hunoŋavahine
+2.76	widow	hovevahine
+2.77	widower	hovetane
+2.81	relatives, kinsmen	huaʔai
+2.82	family	huaʔai
+2.91	I	au
+2.92	you (singular)	koe
+2.93	he/she/it	ia
+2.941	we (inclusive)	tātou
+2.942	we (exclusive)	mātou
+2.95	you (plural)	koutou
+2.96	they	rātou
+3.11	animal	manu
+3.12	male (adj)	tane
+3.13	female (adj)	vahine
+3.2	cattle (bovine)	puaʔa
+3.23	cow	puaʔaū
+3.24	calf	puaʔataŋa
+3.25	sheep	mamoe
+3.28	ewe	mamoevahine
+3.29	lamb	mamoetiko
+3.32	boar	orutane
+3.34	sow	oruvahine
+3.35	pig	oru
+3.36	goat	vatovato
+3.37	he-goat	vatovatotane
+3.38	kid	vatovatoʔāpī
+3.42	stallion	hua
+3.44	mare	vahine
+3.45	foal, colt	tane
+3.46	ass, donkey	muni
+3.5	fowl	moa
+3.52	cock, rooster	moa
+3.54	hen	ʔuha
+3.55	chicken	moa
+3.57	duck	morā
+3.58	nest	hakapupa
+3.581	bird	manu
+3.585	hawk	manutoketoke
+3.61	dog	paiheŋa
+3.62	cat	kurī
+3.63	mouse, rat	kioʔe
+3.65	fish	ika
+3.652	fin (dorsal)	tukutukuika
+3.653	fishscale	ʔunahi
+3.654	gill	mea
+3.655	shell	pakahera
+3.661	shark	maŋō
+3.663	whale	taʔoraha
+3.81	insect	manu
+3.811	louse	kutu
+3.812	nit (louse egg)	riha
+3.813	flea	koʔura
+3.815	scorpion	veriʔarahu
+3.816	cockroach	koka
+3.817	ant	roe
+3.818	spider	honu
+3.819	spider web	harehonu
+3.819	spider web	kupeŋahonu
+3.82	bee	manumeri
+3.823	wasp	manupatia
+3.83	fly	takaure
+3.832	mosquito	naonao
+3.84	worm	korehaʔoʔone
+3.92	butterfly	pepa
+3.96	lizard	moko
+3.98	turtle	honu
+4.11	body	hakari
+4.12	skin, hide	kiri
+4.13	flesh	kiko
+4.14	hair (head)	puʔoko
+4.142	beard	vereʔariŋa
+4.144	body hair	huhurutaŋata
+4.145	pubic hair	verepuku
+4.146	dandruff	raha
+4.15	blood	toto
+4.151	vein, artery	uaua
+4.16	bone	ivi
+4.162	rib	kavakava
+4.17	horn	tara
+4.18	tail	hiku
+4.19	back	tuaʔivi
+4.191	spine	ivitika
+4.2	head	puʔoko
+4.201	side of head, temple	haŋu
+4.202	skull	ivipuʔoko
+4.203	brain	roro
+4.204	face	ʔariŋa
+4.205	forehead	koraʔe
+4.205	forehead	tira
+4.207	jaw	kauvaʔe
+4.208	cheek	paʔeŋaʔariŋa
+4.21	eye	mata
+4.212	eyebrow	hihi
+4.213	eyelid	vekeveke
+4.214	eyelash	vekeveke
+4.215	blink	minemine
+4.22	ear	tariŋa
+4.222	earwax	takituri
+4.23	nose	ihu
+4.231	nostril	pūihu
+4.232	mucus (nasal)	kokoŋo
+4.24	mouth	haha
+4.241	beak	ŋutu
+4.25	lip	ŋutu
+4.26	tongue	ʔarero
+4.27	tooth	niho
+4.271	gums	ʔakau
+4.272	molartooth	nihotumu
+4.272	molartooth	nihotahito
+4.28	neck	ŋao
+4.281	nape of neck	tukeŋao
+4.29	throat	ŋuruhara
+4.3	shoulder	kekeʔu
+4.3	shoulder	kapuhiva
+4.301	shoulderblade	pararahakekeʔu
+4.302	collarbone	keo
+4.302	collarbone	rei
+4.31	arm	rima
+4.312	armpit	haʔiŋa
+4.32	elbow	turirima
+4.321	wrist	karikaririma
+4.321	wrist	kakaririma
+4.33	hand	rima
+4.331	palm of hand	pararaharima
+4.331	palm of hand	komuʔaoterima
+4.34	finger	maŋamaŋa
+4.342	thumb	maŋamaŋatumu
+4.344	fingernail	maʔikuku
+4.345	claw	maʔikuku
+4.35	leg	vaʔe
+4.351	thigh	huhā
+4.352	calf of leg	horeko
+4.36	knee	turivaʔe
+4.37	foot	vaʔe
+4.37	foot	pararahavaʔe
+4.371	ankle	karikarivaʔe
+4.371	ankle	kakarivaʔe
+4.372	heel	reke
+4.374	footprint	vaʔe
+4.38	toe	maŋamaŋa
+4.392	wing	karā
+4.393	feather	huhuru
+4.393	feather	huruhuru
+4.4	chest	uma
+4.41	breast (of woman)	ū
+4.412	nipple, teat	mataū
+4.412	nipple, teat	ū
+4.42	udder	hatunono
+4.42	udder	ū
+4.43	navel	pito
+4.44	heart	mahatu
+4.44	heart	inaŋa
+4.45	liver	ʔate
+4.451	kidney	māpē
+4.46	stomach	kōpū
+4.46	stomach	manava
+4.461	intestines, guts	kokoma
+4.462	waist	karikarimanava
+4.462	waist	kakarimanava
+4.464	buttocks	kaʔuha
+4.47	womb	matakao
+4.49	testicle	maripau
+4.492	penis	hua
+4.492	penis	ʔure
+4.51	breathe, breath	haŋuhaŋu
+4.52	yawn, gape	hakamama
+4.521	hiccough	kerereki
+4.53	cough	tumu
+4.54	sneeze	tehi
+4.55	perspire	paʔahia
+4.56	spit	ʔaʔanu
+4.57	vomit	rua
+4.58	bite	ŋau
+4.59	lick	amoamo
+4.591	dribble	turuturu
+4.61	sleep	haʔuru
+4.612	snore	ŋoŋoro
+4.62	dream	moevarua
+4.63	wake up	ʔara
+4.64	break wind	ʔeve
+4.65	urinate	mimi
+4.66	defecate	neneʔi
+4.67	have sexual intercourse	ʔai
+4.67	have sexual intercourse	mahera
+4.68	shiver	nene
+4.68	shiver	rūrū
+4.69	bathe	hopu
+4.71	beget (of father)	hakaara
+4.71	beget (of father)	repo
+4.72	born (to be)	poreko
+4.73	pregnant	hanautama
+4.732	conceive	tuputepoki
+4.74	live, living, life	ora
+4.75	die, dead	mate
+4.751	drowned	emu
+4.76	kill	hakamate
+4.76	kill	tiŋaʔi
+4.77	corpse	papaku
+4.77	corpse	taŋatamate
+4.78	bury (the dead)	tanu
+4.78	bury (the dead)	muraki
+4.79	grave, tomb	rua
+4.81	strong, mighty, powerful	haŋu
+4.82	weak	reherehe
+4.82	weak	maruhi
+4.82	weak	māhū
+4.83	well, health	ora
+4.84	sick, sickness	mauiui
+4.843	cold (catarrh)	kokoŋo
+4.85	wound, sore	more
+4.852	bruise	punekiʔāteʔuri
+4.852	bruise	maramara
+4.853	swelling	ahu
+4.854	itch	maŋeoŋeo
+4.854	itch	ʔauʔau
+4.855	blister	putī
+4.856	boil (noun)	harakea
+4.857	pus	piro
+4.86	cure, heal	hakaora
+4.86	cure, heal	raʔau
+4.88	medicine, drug	raʔau
+4.91	tired, weary	rohirohi
+4.91	tired, weary	ŋaʔeŋaʔe
+4.912	rest	hakaora
+4.92	lazy	hupehupe
+4.93	bald	mareŋo
+4.94	lame	kokekoke
+4.94	lame	vaʔekoke
+4.95	deaf	tariŋapō
+4.96	mute	reʔokore
+4.97	blind	matapō
+4.98	intoxicated	taʔero
+4.99	naked, bare	kahukore
+5.11	eat	kai
+5.12	food	kai
+5.121	cooked	ʔoʔotu
+5.122	raw	mata
+5.123	ripe	para
+5.124	green, unripe	mata
+5.125	rotten	piro
+5.13	drink	unu
+5.14	hunger	maruaki
+5.15	thirst	pohevai
+5.15	thirst	kavahaha
+5.16	suck	ʔomoʔomo
+5.16	suck	ʔopoʔopo
+5.18	chew	namunamu
+5.18	chew	naŋinaŋi
+5.181	swallow	horo
+5.19	choke	pukuʔine
+5.21	cook	tunu
+5.22	boil (vb)	pihaʔa
+5.23	roast, fry	tunuahi
+5.23	roast, fry	porā
+5.24	bake	tunurona
+5.25	oven	rona
+5.32	plate	pararaha
+5.33	bowl	pokopoko
+5.34	pitcher, jug	punuunuvai
+5.35	cup, drinking vessel	ʔauʔa
+5.36	saucer	ʔauʔa
+5.37	spoon	kuē
+5.38	knife	hoe
+5.39	fork	patia
+5.42	breakfast	hora
+5.44	dinner	horakai
+5.45	supper	kaiahiahi
+5.46	peel	hohoni
+5.47	sieve, strain	rūrū
+5.48	scrape	varuvaru
+5.49	stir, mix	oi
+5.49	stir, mix	ʔanoʔi
+5.54	knead	ŋatu
+5.55	meal, flour	mata
+5.56	crush, grind	ŋatu
+5.56	crush, grind	oro
+5.57	mill	oro
+5.61	meat	kiko
+5.65	vegetables	haʔaʔapu
+5.7	potato	kumara
+5.71	fruit	haʔaʔapu
+5.712	bunch	puʔahu
+5.77	nut	tiʔairi
+5.791	grease, fat	morī
+5.81	salt	miti
+5.84	honey	meri
+5.86	milk (noun)	ū
+5.87	milk (vb)	tatauiteū
+5.87	milk (vb)	tatauū
+5.9	beverage, drink	vai
+5.92	wine	ʔava
+5.93	beer	ʔava
+5.94	fermented drink	ʔava
+5.97	egg	mamari
+5.971	egg yolk	toua
+6.11	put on (clothes)	urutekahu
+6.12	clothing, clothes	kahu
+6.13	tailor	reireikahu
+6.21	cloth	kahu
+6.22	wool	huruhuru
+6.24	cotton	vavai
+6.29	leather	kiri
+6.35	sew	kaui
+6.35	sew	reirei
+6.36	needle	ivikaui
+6.38	thread	hau
+6.41	cloak	nua
+6.44	shirt	kakava
+6.44	shirt	ŋamaŋa
+6.461	grass-skirt	kahukakaka
+6.48	trousers	piripō
+6.51	shoe	kirivaʔe
+6.57	belt, girdle	pena
+6.61	pocket	kete
+6.62	button	pitopito
+6.73	ring (for finger)	tapeʔarima
+6.75	necklace	karone
+6.77	earring	tapeʔatariŋa
+6.78	headband, headdress	hiritoe
+6.78	headband, headdress	hei
+6.79	tattoo	tatū
+6.79	tattoo	tā
+6.79	tattoo	paru
+6.81	handkerchief, rag	haroʔi
+6.91	comb	tapani
+6.921	braid	hiro
+6.93	razor	hoe
+6.96	mirror	hiʔouʔiʔariŋa
+7.11	dwell, live	noho
+7.12	house	hare
+7.13	hut	paepae
+7.17	cookhouse	ʔumu
+7.21	room	hare
+7.24	key	taviri
+7.27	wall	ʔaua
+7.32	stove	ʔumu
+7.33	chimney	ʔauahi
+7.37	ladder	ara
+7.42	bed	roʔi
+7.421	pillow	ŋaruʔa
+7.421	pillow	turua
+7.43	chair	pepe
+7.44	table	ʔamuramaʔa
+7.45	lamp, torch	morī
+7.46	candle	morī
+7.47	shelf	paʔepaʔe
+7.51	roof	ruŋa
+7.53	ridgepole	ivitikaotehare
+7.57	board	miro
+8.11	farmer	taŋataʔokakai
+8.12	field (for cultivation)	ʔauaʔokakai
+8.13	garden	ʔokapai
+8.16	fence	ʔaua
+8.17	ditch	ava
+8.212	furrow	ava
+8.22	dig	keri
+8.23	spade	ope
+8.24	shovel	ope
+8.25	hoe	ʔohiohakaheu
+8.27	rake	paraʔu
+8.31	sow	pī
+8.311	seed	karu
+8.47	maize, corn	tarake
+8.51	grass	mauku
+8.531	plant (vb)	ʔoka
+8.54	root	aka
+8.55	branch	maŋa
+8.56	leaf	raupā
+8.57	flower	tiare
+8.6	tree	tumu
+8.67	vine	hue
+8.67	vine	ure
+8.68	tobacco	ʔavaʔava
+8.69	smoke (tobacco)	ʔomo
+8.691	pipe	puhipuhi
+8.72	tree stump	tutuma
+8.72	tree stump	take
+8.73	tree trunk	tumu
+8.74	forked branch	vahamaŋa
+8.74	forked branch	pipi
+8.75	bark	kirimiro
+8.76	sap	tapau
+8.81	palm tree	niu
+8.81	palm tree	haʔari
+8.82	coconut	haʔarikai
+8.84	banana tree	maika
+8.91	sweet potato	kumara
+8.91	sweet potato	kumā
+8.912	yam	ʔuhi
+8.93	gourd	ipukaha
+8.94	bamboo	ʔohe
+8.941	sugar cane	toa
+8.98	mushroom	hatatiri
+9.11	do, make	aŋa
+9.12	work	aŋa
+9.14	bend	hakapiko
+9.14	bend	hakapini
+9.14	bend	hakavari
+9.15	fold	hahatu
+9.16	tie, bind	here
+9.161	untie	vevete
+9.18	chain	vivi
+9.19	rope, cord	taura
+9.192	knot (noun)	puku
+9.192	knot (noun)	hono
+9.21	strike (hit, beat)	titiŋi
+9.21	strike (hit, beat)	tiŋitiŋi
+9.22	cut	hore
+9.221	cut down	paʔo
+9.222	chop, hew	paʔo
+9.223	stab	ʔoʔoka
+9.23	knife	hoe
+9.24	scissors, shears	paʔoti
+9.25	ax	ʔohio
+9.251	adze	ʔohioteki
+9.26	break	ŋaʔaha
+9.26	break	hahata
+9.27	split	ʔavahi
+9.28	tear	ihi
+9.28	tear	paihi
+9.29	flay, skin	hakahā
+9.31	rub, wipe	haroʔi
+9.31	rub, wipe	horoʔi
+9.31	rub, wipe	orooro
+9.31	rub, wipe	tauromi
+9.32	stretch	haro
+9.33	pull	haro
+9.34	spread out	heriki
+9.341	hang up	tau
+9.342	press	ŋatu
+9.343	squeeze, wring	hakahini
+9.343	squeeze, wring	tatau
+9.35	pour	huri
+9.36	wash	tata
+9.43	carpenter	tamuta
+9.44	build	aŋa
+9.46	bore	hou
+9.46	bore	hakapū
+9.461	hollow out	kakaro
+9.48	saw	hiahia
+9.5	nail	veo
+9.56	glue	hakapipiri
+9.67	iron	ʔaurī
+9.68	lead (noun)	tapau
+9.74	glass	hiʔo
+9.75	weave, plait	hiro
+9.76	basket	taropa
+9.77	mat	peʔue
+9.771	rug	peʔue
+9.78	netbag	kete
+9.791	fan (vb)	rapurapu
+9.81	carve	tarai
+9.83	statue	moai
+9.89	paint (vb)	paru
+10.11	move	makenu
+10.11	move	ŋaeʔi
+10.12	turn over	hakataviri
+10.12	turn over	huri
+10.13	turn around	hakateka
+10.13	turn around	rori
+10.14	wind, wrap	tekateka
+10.14	wind, wrap	taka
+10.14	wind, wrap	viri
+10.16	drop (vb)	hakaviri
+10.17	twist	hiro
+10.17	twist	hakahihi
+10.21	rise	eke
+10.21	rise	eʔa
+10.22	raise, lift	hakaeke
+10.23	fall	hiŋa
+10.23	fall	viri
+10.23	fall	viviri
+10.23	fall	topa
+10.24	drip	turuturu
+10.25	throw	tau
+10.25	throw	vero
+10.252	catch (ball)	ʔaʔaru
+10.26	shake	tūtū
+10.32	flow	hiho
+10.32	flow	tehe
+10.32	flow	aʔa
+10.33	sink	emu
+10.34	float	raŋaraŋa
+10.35	swim	kau
+10.351	dive	rerehaipuʔoko
+10.352	splash	opape
+10.352	splash	ʔutuʔututevai
+10.37	fly (vb)	rere
+10.38	blow	puhi
+10.41	creep, crawl	totoro
+10.412	kneel	tuturi
+10.413	crouch	noi
+10.413	crouch	raha
+10.42	slide, slip	pororeko
+10.43	jump, leap	rere
+10.431	kick	hoahaivaʔe
+10.44	dance	ʔori
+10.45	walk	haʔere
+10.451	limp	koke
+10.451	limp	kokekoke
+10.46	run	tahuti
+10.47	go	oho
+10.47	go	reva
+10.471	go up	iri
+10.472	climb	eke
+10.472	climb	hihiri
+10.473	go down	turu
+10.474	go out	eʔa
+10.48	come	ohomai
+10.481	come back	hokimai
+10.49	go away, depart	oho
+10.491	disappear	ŋaro
+10.51	flee	tere
+10.52	follow	hakatika
+10.52	follow	tute
+10.53	pursue	tute
+10.55	reach, arrive	tuʔu
+10.56	approach	hakahahine
+10.57	enter	uru
+10.57	enter	oʔo
+10.61	carry (bear)	maʔu
+10.61	carry (bear)	tari
+10.613	carry-on-shoulder	ʔamo
+10.62	bring	maʔumai
+10.62	bring	tarimai
+10.63	send	hakamaʔu
+10.64	lead (vb)	hakauŋa
+10.65	drive	hakatere
+10.67	push, shove	tono
+10.71	road	ara
+10.72	path	ara
+10.75	carriage, wagon, cart	pereʔoa
+10.76	wheel	tutu
+10.81	ship	pahī
+10.83	boat	vaka
+10.831	canoe	vakapoepoe
+10.831	canoe	vakaama
+10.832	outrigger	ama
+10.85	oar	hoevaka
+10.851	paddle (noun)	hoevaka
+10.852	row (vb)	hoe
+10.86	rudder	huira
+10.87	mast	tuʔu
+10.88	sail (noun)	kahuvaka
+10.91	harbor, port	ʔuahu
+10.92	land (vb)	tomo
+11.13	take	toʔo
+11.14	seize, grasp	ʔaʔaru
+11.15	hold	maʔu
+11.15	hold	tarupu
+11.15	hold	taupe
+11.16	get, obtain	ravaʔa
+11.17	keep, retain	hapaʔo
+11.18	thing	meʔe
+11.21	give	vaʔai
+11.21	give	ʔavai
+11.22	give back	hakahoki
+11.24	preserve, look after	roʔou
+11.25	save, rescue	hakaora
+11.27	destroy	hakamarere
+11.27	destroy	huaʔi
+11.28	harm, injure, damage	hakarakerake
+11.31	seek, look for	kimi
+11.32	find	tikeʔa
+11.32	find	rovaʔa
+11.33	lose	ŋaro
+11.34	release, let go	hakapokoʔo
+11.34	release, let go	hakarere
+11.51	rich	ʔono
+11.52	poor	veve
+11.53	beggar	otare
+11.54	avaricious, stingy	ʔohumu
+11.54	avaricious, stingy	ʔino
+11.54	avaricious, stingy	ŋū
+11.63	owe	tarahu
+11.64	debt	tarahu
+11.65	pay (vb)	ʔouhou
+11.65	pay (vb)	ʔauhau
+11.66	account, reckoning	tapa
+11.66	account, reckoning	tataku
+11.78	wages	ʔavaʔe
+11.81	buy	hoʔo
+11.82	sell	hoʔo
+11.86	store, shop	hare
+11.91	share (distribute)	hakatanotano
+11.91	share (distribute)	tuhaʔa
+11.92	weigh	hāito
+12.11	place	ʔituʔa
+12.2	beside	ʔimuri
+12.3	down, below	ʔiraro
+12.4	before	ʔimuʔa
+12.41	right (side)	ʔimuʔa
+12.5	inside, in	ʔiroto
+12.6	outside	ʔihaho
+12.7	under	ʔiraro
+12.8	up, above	ʔiruŋa
+12.11	place	kona
+12.13	sit	noho
+12.14	lie down	moe
+12.15	stand	maroa
+12.16	remain, stay	noho
+12.17	remains, left overs	toeŋa
+12.17	remains, left overs	toeeŋa
+12.17	remains, left overs	topa
+12.21	collect, gather	haʔaputu
+12.21	collect, gather	runu
+12.212	pick up	runu
+12.212	pick up	toʔomai
+12.213	pile up	hakatakataka
+12.22	join, unite	hakapiri
+12.23	separate	vahi
+12.23	separate	vahivahi
+12.23	separate	hakatotopa
+12.232	divide	hakatanotano
+12.24	open	mataki
+12.25	shut, close	puru
+12.26	cover	ʔapi
+12.26	cover	puʔa
+12.27	hide, conceal	naʔa
+12.27	hide, conceal	piko
+12.31	high	ruŋanui
+12.32	low	raronui
+12.33	top	ruŋa
+12.34	bottom	raro
+12.35	end	potu
+12.35	end	hopeʔa
+12.352	pointed	mokomoko
+12.353	edge	hihi
+12.353	edge	titi
+12.353	edge	tahataha
+12.36	side	paʔeŋa
+12.36	side	rara
+12.37	middle, center	vaeŋa
+12.41	right (side)	mataʔu
+12.42	left (side)	maui
+12.43	near (adv)	hahine
+12.43	near (adv)	tupuʔaki
+12.44	far (adv)	roa
+12.53	grow	nuinui
+12.54	measure	hāito
+12.541	span, fathom	maroa
+12.55	large, big	nuinui
+12.56	small, little	ʔitiʔiti
+12.57	long	roa
+12.58	tall	roaroa
+12.59	short	potopoto
+12.61	wide, broad	ʔaʔano
+12.62	narrow	vakovako
+12.62	narrow	kaokao
+12.63	thick (in dimension)	peŋopeŋo
+12.65	thin (in dimension)	rairai
+12.65	thin (in dimension)	momoko
+12.65	thin (in dimension)	kaokao
+12.67	deep	parera
+12.67	deep	raronui
+12.68	shallow	taʔeparerarahi
+12.71	flat	pararaha
+12.73	straight	titika
+12.74	crooked	piko
+12.74	crooked	pipiko
+12.74	crooked	pikopiko
+12.75	hook	hakaraʔu
+12.76	corner	pini
+12.81	round	ʔohu
+12.82	circle	ʔohu
+12.82	circle	takataka
+12.83	sphere, ball	viriviri
+12.84	line	hore
+12.85	hole	pū
+12.92	like, similar	pe
+13.0	zero, nothing	ʔina
+13.0	zero, nothing	ekoreetahi
+13.1	one	tahi
+13.1	one	hoʔe
+13.2	two	rua
+13.2	two	piti
+13.3	three	toru
+13.4	four	hā
+13.4	four	maha
+13.5	five	rima
+13.5	five	pae
+13.6	six	ono
+13.7	seven	hitu
+13.8	eight	vaʔu
+13.9	nine	iva
+13.10	ten	ʔaŋahuru
+13.10	ten	ʔahuru
+13.101	eleven	hoʔeʔahurumahoʔe
+13.102	twelve	hoʔeʔahurumapiti
+13.103	fifteen	hoʔeʔahurumapae
+13.104	twenty	pitiʔahuru
+13.105	hundred	hoʔe
+13.106	thousand	hoʔe
+13.107	count	tataku
+13.14	every, all	paurō
+13.14	every, all	taʔatoʔa
+13.15	much, many	riʔariʔa
+13.15	much, many	rahi
+13.16	more	hau
+13.16	more	ʔata
+13.17	little (quantity), few	taʔerahi
+13.18	enough	topa
+13.181	some	tetahi
+13.21	full	kuʔīʔā
+13.22	empty	tahaŋa
+13.23	part, piece	parehe
+13.33	alone, only	hokotahi
+13.34	first	raʔe
+13.35	last	hopeʔa
+13.36	second	rua
+13.37	pair	erua
+13.37	pair	hokorua
+13.42	third	toru
+14.12	age	matahiti
+14.13	new	ʔāpī
+14.14	young	ʔāpī
+14.14	young	taŋa
+14.15	old	tuai
+14.15	old	ruʔau
+14.15	old	korohuʔa
+14.16	early	pōʔā
+14.17	late	ahiahi
+14.18	now	ʔitehoranei
+14.19	immediately	ʔitehoranei
+14.21	swift, fast, quick	horou
+14.22	slow	koraʔiti
+14.23	hasten, hurry	horou
+14.23	hasten, hurry	keʔokeʔo
+14.24	retard, delay	ŋeʔi
+14.25	begin, beginning	haʔamata
+14.26	end (temporal)	oti
+14.27	finish	hakamao
+14.28	cease, stop	hakanoho
+14.31	always	nō
+14.31	always	ʔavai
+14.32	often	ruŋaruŋa
+14.33	sometimes	toʔonahora
+14.331	soon	ekoroa
+14.35	again	hakaʔou
+14.41	day	mahana
+14.41	day	raʔā
+14.42	night	pō
+14.43	dawn	popohaŋa
+14.44	morning	pōʔā
+14.45	noon, midday	horakai
+14.451	afternoon	ahiahi
+14.46	evening	moiko
+14.46	evening	ahiahipō
+14.47	today	ʔaŋanirā
+14.47	today	anirā
+14.48	tomorrow	āpō
+14.481	day-after-tomorrow	āpōera
+14.49	yesterday	ʔaŋataiahi
+14.491	day-before-yesterday	ʔaŋataiahiera
+14.62	Sunday	mahana
+14.64	Tuesday	mahanapiti
+14.65	Wednesday	mahanatoru
+14.66	Thursday	mahanamaha
+14.67	Friday	mahanapae
+14.68	Saturday	mahanahopu
+14.71	month	ʔavaʔe
+14.71	month	marama
+14.73	year	matahiti
+14.74	winter	toŋa
+14.75	spring	ʔavaʔepipimiro
+14.77	autumn	ʔavaʔemarereoteraupāotemiro
+15.21	smell (vb intrans)	hauʔa
+15.212	sniff	ʔuʔume
+15.22	smell (vb trans)	hoŋi
+15.25	fragrant, good smelling	ʔeo
+15.26	stinking, bad smelling	piro
+15.26	stinking, bad smelling	neʔoneʔo
+15.31	taste	hakaʔatu
+15.35	sweet	nene
+15.36	salty	maŋeo
+15.37	bitter	maŋeʔo
+15.38	acid, sour	maŋeʔo
+15.39	brackish	kava
+15.41	hear	ŋaroʔa
+15.42	listen	hakaroŋo
+15.44	sound, noise	poŋeha
+15.44	sound, noise	maniania
+15.45	loud	puai
+15.46	quiet, silence	koraʔiti
+15.51	see	takeʔa
+15.51	see	uʔi
+15.51	see	tikeʔa
+15.52	look, look at	uʔi
+15.55	show	hakatikeʔa
+15.55	show	hakatakeʔa
+15.56	shine	pura
+15.57	bright	ʔuira
+15.62	light (in color)	maʔeha
+15.63	dark (in color)	poʔiri
+15.63	dark (in color)	kerekere
+15.63	dark (in color)	puai
+15.64	white	teatea
+15.64	white	ritorito
+15.65	black	ʔuriʔuri
+15.65	black	kerekere
+15.66	red	meamea
+15.66	red	mea
+15.66	red	uraura
+15.67	blue	moana
+15.67	blue	moanaʔereʔere
+15.68	green	ritomata
+15.69	yellow	touamamari
+15.71	touch	puā
+15.71	touch	hakapuā
+15.712	pinch	hakura
+15.712	pinch	hakurakura
+15.72	feel	hāhā
+15.74	hard	hiohio
+15.75	soft	hekaheka
+15.76	rough	raʔaraʔa
+15.76	rough	raraʔa
+15.76	rough	makiri
+15.77	smooth	pororeko
+15.77	smooth	titika
+15.78	sharp	kaʔikaʔi
+15.79	blunt, dull	punipuni
+15.79	blunt, dull	poroporo
+15.81	heavy	paŋahaʔa
+15.82	light (in weight)	maʔamaʔa
+15.83	wet, damp	rari
+15.83	wet, damp	hehehehe
+15.84	dry	paka
+15.84	dry	pakapaka
+15.85	hot	veʔaveʔa
+15.85	hot	vera
+15.851	warm	veʔaveʔa
+15.851	warm	mahana
+15.86	cold	takeʔo
+15.86	cold	takeo
+15.87	clean	maʔitaki
+15.88	dirty, soiled	ʔoʔone
+15.88	dirty, soiled	iŋoiŋo
+15.88	dirty, soiled	eŋoeŋo
+15.89	wrinkled	pitipiti
+15.89	wrinkled	miŋomiŋo
+16.11	soul, spirit	varua
+16.15	surprised, astonished	maere
+16.15	surprised, astonished	maʔurima
+16.18	good fortune, luck	pōrivariva
+16.18	good fortune, luck	mate
+16.18	good fortune, luck	vairua
+16.19	misfortune, bad luck	pōrakerake
+16.19	misfortune, bad luck	mate
+16.19	misfortune, bad luck	vairua
+16.23	joyful, glad, happy	koa
+16.23	joyful, glad, happy	katakata
+16.25	laugh	kata
+16.251	smile	kata
+16.26	play	kori
+16.27	love	here
+16.27	love	haŋa
+16.29	kiss	hoŋi
+16.3	embrace	haʔi
+16.31	pain	mamae
+16.32	grief, sorrow, sadness	ʔaroha
+16.33	anxiety, worry	manaʔu
+16.34	regret, be sorry	ʔaroha
+16.34	regret, be sorry	taŋi
+16.34	regret, be sorry	ʔoʔoka
+16.34	regret, be sorry	mauiui
+16.35	pity	ʔaroha
+16.37	cry, weep	taŋi
+16.38	tear (noun)	matavai
+16.39	groan	ʔuʔuru
+16.39	groan	ʔuʔū
+16.41	hate	riri
+16.42	anger	riri
+16.44	envy, jealousy	mākota
+16.45	shame (noun)	haʔamā
+16.48	proud	teʔoteʔo
+16.48	proud	hakapapaka
+16.52	brave	hakakē
+16.52	brave	itoito
+16.53	fear, fright	mataku
+16.53	fear, fright	riʔariʔa
+16.54	danger	ʔati
+16.62	desire, want	haŋa
+16.622	choose	vae
+16.63	hope	haŋuŋatu
+16.63	hope	ŋatuhaŋu
+16.66	true	parautiʔa
+16.67	lie, tell lies	reoreo
+16.68	deceit	poriko
+16.69	forgive	hakakore
+16.69	forgive	hakaoti
+16.71	good	rivariva
+16.72	bad	rakerake
+16.73	right, correct	tano
+16.73	right, correct	titika
+16.74	wrong	taʔetano
+16.74	wrong	kaitano
+16.74	wrong	hape
+16.76	fault	hape
+16.77	mistake, error	hape
+16.77	mistake, error	poteko
+16.78	blame	tuhi
+16.79	praise	hakapaka
+16.81	beautiful	tau
+16.81	beautiful	nehenehe
+16.82	ugly	rakerake
+16.83	greedy	onoono
+16.83	greedy	titau
+16.83	greedy	nounou
+16.84	clever	maramarama
+17.11	mind	roro
+17.13	think (= reflect)	hakatopa
+17.13	think (= reflect)	tuia
+17.14	think (= be of the opinion)	manaʔu
+17.15	believe	hakaroŋo
+17.16	understand	aŋiaŋi
+17.16	understand	maʔa
+17.17	know	ʔite
+17.17	know	maʔa
+17.171	guess	ʔati
+17.172	imitate	hakaʔatu
+17.18	seem	tuʔupehe
+17.19	idea, notion	raveʔa
+17.19	idea, notion	manaʔu
+17.19	idea, notion	tuia
+17.22	foolish, stupid	ʔetene
+17.23	insane, crazy	maʔamaʔa
+17.24	learn	hāpī
+17.24	learn	hakamataʔu
+17.24	learn	hakamahani
+17.242	study	hāpī
+17.25	teach	hāpī
+17.25	teach	hakamaʔa
+17.26	pupil	taŋatahāpī
+17.27	teacher	taŋatahāpī
+17.28	school	harehāpī
+17.31	remember	manaʔu
+17.32	forget	rehu
+17.37	sure, certain	aŋiaŋi
+17.38	explain	hakaaŋiaŋi
+17.41	intention, purpose	tumu
+17.42	cause	haka
+17.42	cause	haʔa
+17.42	cause	tumu
+17.441	betray	toʔa
+17.46	easy	taʔeroa
+17.47	difficult	aŋarahi
+17.48	try, attempt	hakaʔatu
+17.49	way, manner	huru
+17.49	way, manner	raveʔa
+17.51	and	ʔe
+17.52	because	ʔoira
+17.53	if	ana
+17.53	if	mo
+17.55	yes, affirmative	ʔēē
+17.56	no, negative	ʔina
+17.56	no, negative	kai
+17.56	no, negative	ko
+17.56	no, negative	taʔe
+17.61	how?	pehē
+17.62	how many?	ehia
+17.63	how much?	ehia
+17.64	what?	heaha
+17.65	when?	ahē
+17.66	where?	ʔihē
+17.67	which?	kohē
+17.68	who?	koai
+17.69	why?	moaha
+18.11	voice	reʔo
+18.12	sing	ako
+18.13	shout, cry out	ohu
+18.15	whisper	haʔumuʔumu
+18.16	mumble	vanaŋahainiho
+18.17	whistle	puhi
+18.18	shriek, screech	kikiu
+18.19	howl	kikiu
+18.19	howl	ʔauʔau
+18.21	speak, talk	vanaŋa
+18.211	stutter, stammer	hakapunoko
+18.22	say	kī
+18.221	tell story	ʔaʔamu
+18.222	speech (make a)	tatara
+18.23	silent (be)	mou
+18.24	language	ʔarero
+18.24	language	vanaŋa
+18.26	word	vanaŋa
+18.28	name	ʔiŋoa
+18.31	ask (question, inquire)	ʔui
+18.32	answer	pahono
+18.33	admit, confess	haʔatiʔa
+18.33	admit, confess	haʔaki
+18.34	deny	naʔa
+18.34	deny	taʔehaʔatiʔa
+18.35	ask, request	nonoʔi
+18.37	refuse	ekohaŋa
+18.37	refuse	taʔehaŋa
+18.37	refuse	kaihaŋa
+18.38	forbid	puru
+18.38	forbid	taʔehaʔatiʔa
+18.39	rebuke, scold	ture
+18.39	rebuke, scold	pohi
+18.41	call (=summon)	raŋi
+18.42	call (=name)	nape
+18.43	announce	haʔaki
+18.44	threaten	hakariʔariʔa
+18.45	boast	teʔoteʔo
+18.51	write	papaʔi
+18.51	write	rerorero
+18.52	read	taiʔo
+18.52	read	rutu
+18.56	paper	parau
+18.71	flute	puhi
+19.11	country	henua
+19.12	one's native country	henua
+19.17	boundary	titaʔa
+19.21	people (populace)	taŋata
+19.23	tribe, clan	mata
+19.24	chief, chieftain	ʔariki
+19.25	staff, walking stick	tokotoko
+19.31	rule, govern	ʔao
+19.32	king, ruler	ʔariki
+19.33	queen	ʔarikivahine
+19.36	noble, nobleman	ʔariki
+19.41	master	hatu
+19.45	command, order	hakaaŋa
+19.46	obey	hakaroŋo
+19.47	let, permit	haʔatiʔa
+19.51	friend, companion	hoa
+19.52	enemy	toʔa
+19.54	neighbor	taŋatahare
+19.55	stranger	taŋatakē
+19.56	guest	taŋataʔaʔaku
+19.57	host	taŋatahapaʔo
+19.58	help, aid	tautoru
+19.58	help, aid	hāʔūʔū
+19.59	hinder, prevent	hakahihihihi
+19.61	custom	mahani
+19.62	strife, quarrel	tatake
+19.65	meet	piri
+19.72	prostitute	taiʔo
+20.11	fight (vb)	moto
+20.13	war, battle	tamaʔi
+20.13	war, battle	tauʔa
+20.14	peace	haumarū
+20.15	army	vaʔehau
+20.17	soldier	vaʔehau
+20.21	weapons, arms	haŋo
+20.22	club	paoa
+20.222	battle-ax	ʔohiotamaʔi
+20.23	sling	herepata
+20.24	bow	teʔa
+20.25	arrow	teʔa
+20.27	sword	hoetiʔoʔe
+20.28	gun, cannon	haŋo
+20.41	victory	rē
+20.42	defeat	mate
+20.45	retreat	neke
+20.471	guard, sentinel	auario
+20.471	guard, sentinel	mutoʔi
+20.49	ambush	amoŋarau
+20.51	fisherman	taŋatahīika
+20.51	fisherman	terevaka
+20.52	fishhook	rou
+20.53	fishing line	hauhī
+20.54	fishnet	kupeŋa
+20.55	fish trap	kupeŋa
+20.56	bait	maʔaŋa
+20.62	shoot	pupuhi
+20.64	trap (noun)	kupeŋa
+20.65	trap (vb)	ʔaʔaru
+21.15	court	hare
+21.16	judge (vb)	haʔavā
+21.17	judgment	ture
+21.18	judge (noun)	taŋatahaʔavā
+21.21	plaintiff	taŋatahoroture
+21.22	defendant	taŋata
+21.23	witness	mataʔite
+21.24	swear	horea
+21.25	oath	horea
+21.31	accuse	haʔaki
+21.32	condemn	ūtuʔa
+21.34	acquit	hakakore
+21.37	penalty, punishment	ūtuʔa
+21.38	fine	teūtuʔaheʔouhou
+21.39	prison, jail	haremaʔuʔaurī
+21.42	murder	tiŋaʔi
+21.42	murder	taparahi
+21.43	adultery	taiʔata
+21.44	rape	ʔaʔaru
+21.44	rape	teki
+21.47	perjury	horeareoreo
+21.47	perjury	haʔavare
+21.51	steal	toke
+21.52	thief	toketoke

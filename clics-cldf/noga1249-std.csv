@@ -1,0 +1,1998 @@
+ID,Language_ID,Feature_ID,IDS_Key,Value,Concept,IPA_UDECODE
+clics-doculect-10-1,noga1249-std,concepticon-965,1.1,дуныйа,world,dunyia
+clics-doculect-10-2,noga1249-std,concepticon-965,1.1,тынышлык,world,tynyshlyk
+clics-doculect-10-3,noga1249-std,concepticon-626,1.21,ер,"earth, land",er
+clics-doculect-10-4,noga1249-std,concepticon-626,1.21,эл,"earth, land",el
+clics-doculect-10-5,noga1249-std,concepticon-626,1.21,кырал,"earth, land",kyral
+clics-doculect-10-6,noga1249-std,concepticon-1228,1.212,ер,"earth=ground, soil",er
+clics-doculect-10-7,noga1249-std,concepticon-2,1.213,шанъ,dust,shan'
+clics-doculect-10-8,noga1249-std,concepticon-640,1.214,батпак,mud,batpak
+clics-doculect-10-9,noga1249-std,concepticon-640,1.214,балшык,mud,balshyk
+clics-doculect-10-10,noga1249-std,concepticon-671,1.215,кум,sand,kum
+clics-doculect-10-11,noga1249-std,concepticon-671,1.215,кайыр,sand,kaiyr
+clics-doculect-10-12,noga1249-std,concepticon-2118,1.22,тав,"mountain, hill",tav
+clics-doculect-10-13,noga1249-std,concepticon-2118,1.22,тоьбе,"mountain, hill",to'be
+clics-doculect-10-14,noga1249-std,concepticon-618,1.222,кайа,"cliff, precipice",kaia
+clics-doculect-10-15,noga1249-std,concepticon-618,1.222,йар,"cliff, precipice",iar
+clics-doculect-10-16,noga1249-std,concepticon-618,1.222,тикйар,"cliff, precipice",tikiar
+clics-doculect-10-17,noga1249-std,concepticon-652,1.23,шоьллик,"plain, field",sho'llik
+clics-doculect-10-18,noga1249-std,concepticon-652,1.23,тегислик,"plain, field",tegislik
+clics-doculect-10-19,noga1249-std,concepticon-652,1.23,данъыл,"plain, field",dan'yl
+clics-doculect-10-20,noga1249-std,concepticon-652,1.23,кыр,"plain, field",kyr
+clics-doculect-10-21,noga1249-std,concepticon-652,1.23,дала,"plain, field",dala
+clics-doculect-10-22,noga1249-std,concepticon-921,1.24,тогай,valley,togai
+clics-doculect-10-23,noga1249-std,concepticon-622,1.25,арал,island,aral
+clics-doculect-10-24,noga1249-std,concepticon-166,1.26,континент,mainland,kontinent
+clics-doculect-10-25,noga1249-std,concepticon-113,1.27,сув,shore,suv
+clics-doculect-10-26,noga1249-std,concepticon-113,1.27,йагабой,shore,iagaboi
+clics-doculect-10-27,noga1249-std,concepticon-1155,1.28,дорбын,cave,dorbyn
+clics-doculect-10-28,noga1249-std,concepticon-948,1.31,сув,water,suv
+clics-doculect-10-29,noga1249-std,concepticon-1474,1.32,тенъиз,sea,ten'iz
+clics-doculect-10-30,noga1249-std,concepticon-258,1.322,тынык,calm (of sea),tynyk
+clics-doculect-10-31,noga1249-std,concepticon-259,1.323,давыллы,rough (of sea),davylly
+clics-doculect-10-32,noga1249-std,concepticon-1768,1.324,коьбик,foam,ko'bik
+clics-doculect-10-33,noga1249-std,concepticon-1768,1.324,коьпиршик,foam,ko'pirshik
+clics-doculect-10-34,noga1249-std,concepticon-645,1.329,океан,ocean,okean
+clics-doculect-10-35,noga1249-std,concepticon-645,1.329,дерийа,ocean,deriia
+clics-doculect-10-36,noga1249-std,concepticon-624,1.33,коьл,lake,ko'l
+clics-doculect-10-37,noga1249-std,concepticon-663,1.34,колтык,"gulf, bay",koltyk
+clics-doculect-10-38,noga1249-std,concepticon-663,1.34,залив,"gulf, bay",zaliv
+clics-doculect-10-39,noga1249-std,concepticon-663,1.34,бухта,"gulf, bay",bukhta
+clics-doculect-10-40,noga1249-std,concepticon-623,1.341,лагуна,lagoon,laguna
+clics-doculect-10-41,noga1249-std,concepticon-660,1.342,риф,reef,rif
+clics-doculect-10-42,noga1249-std,concepticon-1662,1.343,бурын,"headland, point",buryn
+clics-doculect-10-43,noga1249-std,concepticon-978,1.35,толкын,wave,tolkyn
+clics-doculect-10-44,noga1249-std,concepticon-891,1.352,тенъизсувыныкъкелуьвиэмкайтувы,tide,ten'izsuvynyk'kelu'viemkaituvy
+clics-doculect-10-45,noga1249-std,concepticon-1026,1.353,кайтув,lowtide,kaituv
+clics-doculect-10-46,noga1249-std,concepticon-613,1.354,сувкелуьв,hightide,suvkelu'v
+clics-doculect-10-47,noga1249-std,concepticon-666,1.36,сув,"river, stream, brook",suv
+clics-doculect-10-48,noga1249-std,concepticon-666,1.36,йылла,"river, stream, brook",iylla
+clics-doculect-10-49,noga1249-std,concepticon-666,1.36,агын,"river, stream, brook",agyn
+clics-doculect-10-50,noga1249-std,concepticon-666,1.36,агым,"river, stream, brook",agym
+clics-doculect-10-51,noga1249-std,concepticon-666,1.36,шокырак,"river, stream, brook",shokyrak
+clics-doculect-10-52,noga1249-std,concepticon-1982,1.362,сувдыкьийирими,whirlpool,suvdyk'iiirimi
+clics-doculect-10-53,noga1249-std,concepticon-2144,1.37,коьз,"spring, well",ko'z
+clics-doculect-10-54,noga1249-std,concepticon-2144,1.37,булак,"spring, well",bulak
+clics-doculect-10-55,noga1249-std,concepticon-2144,1.37,шокырак,"spring, well",shokyrak
+clics-doculect-10-56,noga1249-std,concepticon-2144,1.37,куйы,"spring, well",kuiy
+clics-doculect-10-57,noga1249-std,concepticon-1145,1.38,батпак,swamp,batpak
+clics-doculect-10-58,noga1249-std,concepticon-1145,1.38,саз,swamp,saz
+clics-doculect-10-59,noga1249-std,concepticon-943,1.39,водопад,waterfall,vodopad
+clics-doculect-10-60,noga1249-std,concepticon-943,1.39,сувдыкъбийикаиктентаменгеатылыпагувы,waterfall,suvdyk'biiikaiktentamengeatylypaguvy
+clics-doculect-10-61,noga1249-std,concepticon-420,1.41,орман,"woods, forest",orman
+clics-doculect-10-62,noga1249-std,concepticon-420,1.41,агашлык,"woods, forest",agashlyk
+clics-doculect-10-64,noga1249-std,concepticon-1803,1.43,агаш,wood,agash
+clics-doculect-10-65,noga1249-std,concepticon-2125,1.44,тас,"stone, rock",tas
+clics-doculect-10-66,noga1249-std,concepticon-2125,1.44,кайа,"stone, rock",kaia
+clics-doculect-10-67,noga1249-std,concepticon-6,1.45,ерсенъкилдев,earthquake,ersen'kildev
+clics-doculect-10-68,noga1249-std,concepticon-6,1.45,еркозгалув,earthquake,erkozgaluv
+clics-doculect-10-69,noga1249-std,concepticon-1732,1.51,коьк,sky,ko'k
+clics-doculect-10-70,noga1249-std,concepticon-1343,1.52,куьнкоьзи,sun,ku'nko'zi
+clics-doculect-10-71,noga1249-std,concepticon-1313,1.53,ай,moon,ai
+clics-doculect-10-72,noga1249-std,concepticon-1430,1.54,йулдыз,star,iuldyz
+clics-doculect-10-73,noga1249-std,concepticon-1654,1.55,айындырык,lightning,aiyndyryk
+clics-doculect-10-74,noga1249-std,concepticon-1654,1.55,йасынок,lightning,iasynok
+clics-doculect-10-75,noga1249-std,concepticon-1654,1.55,йасын,lightning,iasyn
+clics-doculect-10-76,noga1249-std,concepticon-1150,1.56,коькгуьрилдев,thunder,ko'kgu'rildev
+clics-doculect-10-77,noga1249-std,concepticon-2007,1.57,айындырык,lightning (as striking),aiyndyryk
+clics-doculect-10-78,noga1249-std,concepticon-2007,1.57,йасынок,lightning (as striking),iasynok
+clics-doculect-10-79,noga1249-std,concepticon-858,1.58,боран,storm,boran
+clics-doculect-10-80,noga1249-std,concepticon-858,1.58,давел,storm,davel
+clics-doculect-10-81,noga1249-std,concepticon-1733,1.59,курткашык,rainbow,kurtkashyk
+clics-doculect-10-82,noga1249-std,concepticon-630,1.61,йарык,light (noun),iaryk
+clics-doculect-10-83,noga1249-std,concepticon-630,1.61,саьвле,light (noun),sa'vle
+clics-doculect-10-84,noga1249-std,concepticon-11,1.62,туьн,darkness,tu'n
+clics-doculect-10-85,noga1249-std,concepticon-11,1.62,каранъалык,darkness,karan'alyk
+clics-doculect-10-86,noga1249-std,concepticon-1388,1.63,коьлетки,"shade, shadow",ko'letki
+clics-doculect-10-87,noga1249-std,concepticon-1977,1.64,шык,dew,shyk
+clics-doculect-10-88,noga1249-std,concepticon-27,1.71,ава,air,ava
+clics-doculect-10-89,noga1249-std,concepticon-960,1.72,ел,wind,el
+clics-doculect-10-90,noga1249-std,concepticon-1489,1.73,булыт,cloud,bulyt
+clics-doculect-10-91,noga1249-std,concepticon-249,1.74,туман,fog,tuman
+clics-doculect-10-92,noga1249-std,concepticon-658,1.75,йамгыр,rain (noun),iamgyr
+clics-doculect-10-93,noga1249-std,concepticon-784,1.76,кар,snow (noun),kar
+clics-doculect-10-94,noga1249-std,concepticon-617,1.77,буз,ice,buz
+clics-doculect-10-95,noga1249-std,concepticon-617,1.77,бузлавык,ice,buzlavyk
+clics-doculect-10-96,noga1249-std,concepticon-952,1.78,куьиаьли,weather,ku'ia'li
+clics-doculect-10-97,noga1249-std,concepticon-221,1.81,от,fire,ot
+clics-doculect-10-98,noga1249-std,concepticon-889,1.82,йалын,flame (noun),ialyn
+clics-doculect-10-99,noga1249-std,concepticon-778,1.83,туьтин,smoke (noun),tu'tin
+clics-doculect-10-100,noga1249-std,concepticon-646,1.84,куьл,ashes,ku'l
+clics-doculect-10-101,noga1249-std,concepticon-67,1.841,кыздырылганкоьмир,embers,kyzdyrylganko'mir
+clics-doculect-10-102,noga1249-std,concepticon-141,1.851,йагув,burn (vb trans),iaguv
+clics-doculect-10-103,noga1249-std,concepticon-141,1.851,йакдырув,burn (vb trans),iakdyruv
+clics-doculect-10-104,noga1249-std,concepticon-1428,1.852,йагув,burn (vb intrans),iaguv
+clics-doculect-10-105,noga1249-std,concepticon-737,1.86,йагув,"light, kindle, ignite",iaguv
+clics-doculect-10-106,noga1249-std,concepticon-737,1.86,тутандырув,"light, kindle, ignite",tutandyruv
+clics-doculect-10-107,noga1249-std,concepticon-127,1.861,соьндируьв,extinguish,so'ndiru'v
+clics-doculect-10-108,noga1249-std,concepticon-127,1.861,тымдырув,extinguish,tymdyruv
+clics-doculect-10-109,noga1249-std,concepticon-1133,1.87,серник,match (noun),sernik
+clics-doculect-10-110,noga1249-std,concepticon-10,1.88,агаш,firewood,agash
+clics-doculect-10-111,noga1249-std,concepticon-1188,1.89,агашкоьмири,charcoal,agashko'miri
+clics-doculect-10-112,noga1249-std,concepticon-683,2.1,аьдем,"person, human being",a'dem
+clics-doculect-10-113,noga1249-std,concepticon-683,2.1,киси,"person, human being",kisi
+clics-doculect-10-114,noga1249-std,concepticon-683,2.1,инсан,"person, human being",insan
+clics-doculect-10-115,noga1249-std,concepticon-1554,2.21,эркиси,man (vs. woman),erkisi
+clics-doculect-10-116,noga1249-std,concepticon-1554,2.21,эркек,man (vs. woman),erkek
+clics-doculect-10-117,noga1249-std,concepticon-962,2.22,хатын,woman,khatyn
+clics-doculect-10-118,noga1249-std,concepticon-962,2.22,пише,woman,pishe
+clics-doculect-10-119,noga1249-std,concepticon-1553,2.23,эркек,male,erkek
+clics-doculect-10-120,noga1249-std,concepticon-1551,2.24,ургашы,female,urgashy
+clics-doculect-10-121,noga1249-std,concepticon-1366,2.25,кеде,boy,kede
+clics-doculect-10-122,noga1249-std,concepticon-1366,2.25,йас,boy,ias
+clics-doculect-10-123,noga1249-std,concepticon-76,2.251,йасаьдем,young man (adolescent),iasa'dem
+clics-doculect-10-124,noga1249-std,concepticon-1646,2.26,кыз,girl,kyz
+clics-doculect-10-125,noga1249-std,concepticon-1646,2.26,кызалак,girl,kyzalak
+clics-doculect-10-126,noga1249-std,concepticon-77,2.261,кыз,young woman (adolescent),kyz
+clics-doculect-10-127,noga1249-std,concepticon-77,2.261,еткенкыз,young woman (adolescent),etkenkyz
+clics-doculect-10-128,noga1249-std,concepticon-1304,2.27,бала,child,bala
+clics-doculect-10-129,noga1249-std,concepticon-1304,2.27,сабий,child,sabii
+clics-doculect-10-130,noga1249-std,concepticon-1289,2.28,кишкеййас,"infant, baby",kishkeiias
+clics-doculect-10-131,noga1249-std,concepticon-1289,2.28,бала,"infant, baby",bala
+clics-doculect-10-132,noga1249-std,concepticon-1200,2.31,эр,husband,er
+clics-doculect-10-133,noga1249-std,concepticon-1200,2.31,бай,husband,bai
+clics-doculect-10-134,noga1249-std,concepticon-1200,2.31,киев,husband,kiev
+clics-doculect-10-135,noga1249-std,concepticon-1199,2.32,хатын,wife,khatyn
+clics-doculect-10-136,noga1249-std,concepticon-1199,2.32,пише,wife,pishe
+clics-doculect-10-137,noga1249-std,concepticon-203,2.33,хатыналув,marry,khatynaluv
+clics-doculect-10-138,noga1249-std,concepticon-203,2.33,эргебарув,marry,ergebaruv
+clics-doculect-10-139,noga1249-std,concepticon-203,2.33,байгабарув,marry,baigabaruv
+clics-doculect-10-140,noga1249-std,concepticon-1259,2.34,той,"marriage, wedding",toi
+clics-doculect-10-141,noga1249-std,concepticon-1259,2.34,некекыйув,"marriage, wedding",nekekyiuv
+clics-doculect-10-142,noga1249-std,concepticon-1259,2.34,уьйленуьв,"marriage, wedding",u'ilenu'v
+clics-doculect-10-143,noga1249-std,concepticon-1134,2.341,айырылув,divorce,aiyryluv
+clics-doculect-10-144,noga1249-std,concepticon-1217,2.35,ата,father,ata
+clics-doculect-10-145,noga1249-std,concepticon-1216,2.36,ана,mother,ana
+clics-doculect-10-146,noga1249-std,concepticon-505,2.37,атаана,parents,ataana
+clics-doculect-10-147,noga1249-std,concepticon-424,2.38,хатынлы,married man,khatynly
+clics-doculect-10-148,noga1249-std,concepticon-424,2.38,уьйленген,married man,u'ilengen
+clics-doculect-10-149,noga1249-std,concepticon-426,2.39,байгабарган,married woman,baigabargan
+clics-doculect-10-150,noga1249-std,concepticon-426,2.39,эрликиевге,married woman,erlikievge
+clics-doculect-10-151,noga1249-std,concepticon-426,2.39,барган,married woman,bargan
+clics-doculect-10-152,noga1249-std,concepticon-1620,2.41,йас,son,ias
+clics-doculect-10-153,noga1249-std,concepticon-1620,2.41,ул,son,ul
+clics-doculect-10-154,noga1249-std,concepticon-1620,2.41,кеде,son,kede
+clics-doculect-10-155,noga1249-std,concepticon-1357,2.42,кыз,daughter,kyz
+clics-doculect-10-156,noga1249-std,concepticon-1801,2.43,балалар,offspring (son or daughter),balalar
+clics-doculect-10-157,noga1249-std,concepticon-1801,2.43,тувгаилар,offspring (son or daughter),tuvgailar
+clics-doculect-10-158,noga1249-std,concepticon-1262,2.44,кардаш,brother,kardash
+clics-doculect-10-159,noga1249-std,concepticon-1262,2.44,ага,brother,aga
+clics-doculect-10-160,noga1249-std,concepticon-1262,2.44,ини,brother,ini
+clics-doculect-10-161,noga1249-std,concepticon-1262,2.44,аданас,brother,adanas
+clics-doculect-10-162,noga1249-std,concepticon-1759,2.444,ага,older brother,aga
+clics-doculect-10-163,noga1249-std,concepticon-1760,2.445,ини,younger brother,ini
+clics-doculect-10-164,noga1249-std,concepticon-1263,2.45,синъли,sister,sin'li
+clics-doculect-10-165,noga1249-std,concepticon-1263,2.45,аьптей,sister,a'ptei
+clics-doculect-10-166,noga1249-std,concepticon-1263,2.45,карындас,sister,karyndas
+clics-doculect-10-167,noga1249-std,concepticon-1758,2.454,аьптей,older sister,a'ptei
+clics-doculect-10-168,noga1249-std,concepticon-1761,2.455,карындас,younger sister,karyndas
+clics-doculect-10-169,noga1249-std,concepticon-1761,2.455,синъли,younger sister,sin'li
+clics-doculect-10-170,noga1249-std,concepticon-1640,2.456,аданас,sibling,adanas
+clics-doculect-10-171,noga1249-std,concepticon-1640,2.456,карындас,sibling,karyndas
+clics-doculect-10-172,noga1249-std,concepticon-1005,2.458,эгизлер,twins,egizler
+clics-doculect-10-173,noga1249-std,concepticon-1383,2.46,атай,grandfather,atai
+clics-doculect-10-174,noga1249-std,concepticon-406,2.461,карт,old man,kart
+clics-doculect-10-175,noga1249-std,concepticon-1496,2.47,анай,grandmother,anai
+clics-doculect-10-176,noga1249-std,concepticon-1496,2.47,эней,grandmother,enei
+clics-doculect-10-177,noga1249-std,concepticon-1496,2.47,тетей,grandmother,tetei
+clics-doculect-10-178,noga1249-std,concepticon-907,2.471,куртка,old woman,kurtka
+clics-doculect-10-179,noga1249-std,concepticon-1618,2.48,унык,grandson,unyk
+clics-doculect-10-180,noga1249-std,concepticon-1618,2.48,йиен,grandson,iien
+clics-doculect-10-181,noga1249-std,concepticon-1619,2.49,йиенкыз,granddaughter,iienkyz
+clics-doculect-10-182,noga1249-std,concepticon-1327,2.51,ага,uncle,aga
+clics-doculect-10-183,noga1249-std,concepticon-1327,2.51,акай,uncle,akai
+clics-doculect-10-184,noga1249-std,concepticon-1327,2.51,кардаш,uncle,kardash
+clics-doculect-10-185,noga1249-std,concepticon-1984,2.511,нагашакай,mother's brother,nagashakai
+clics-doculect-10-186,noga1249-std,concepticon-1985,2.512,акай,father's brother,akai
+clics-doculect-10-187,noga1249-std,concepticon-1272,2.52,аьптей,aunt,a'ptei
+clics-doculect-10-188,noga1249-std,concepticon-1272,2.52,абай,aunt,abai
+clics-doculect-10-189,noga1249-std,concepticon-171,2.521,аьптей,mother's sister,a'ptei
+clics-doculect-10-190,noga1249-std,concepticon-171,2.521,абай,mother's sister,abai
+clics-doculect-10-191,noga1249-std,concepticon-170,2.522,абай,father's sister,abai
+clics-doculect-10-192,noga1249-std,concepticon-1063,2.53,йиен,nephew,iien
+clics-doculect-10-193,noga1249-std,concepticon-1642,2.54,йиенкыз,niece,iienkyz
+clics-doculect-10-194,noga1249-std,concepticon-1643,2.55,аркалдас,cousin,arkaldas
+clics-doculect-10-195,noga1249-std,concepticon-1643,2.55,боьле,cousin,bo'le
+clics-doculect-10-196,noga1249-std,concepticon-1669,2.56,тукым,ancestors,tukym
+clics-doculect-10-197,noga1249-std,concepticon-1669,2.56,атабабалар,ancestors,atababalar
+clics-doculect-10-198,noga1249-std,concepticon-490,2.57,тукым,descendants,tukym
+clics-doculect-10-199,noga1249-std,concepticon-490,2.57,тувганлар,descendants,tuvganlar
+clics-doculect-10-200,noga1249-std,concepticon-2255,2.61,кайната,father-in-law (of a man),kainata
+clics-doculect-10-201,noga1249-std,concepticon-2254,2.611,кайната,father-in-law (of a woman),kainata
+clics-doculect-10-202,noga1249-std,concepticon-2256,2.62,кайнана,mother-in-law (of a man),kainana
+clics-doculect-10-203,noga1249-std,concepticon-2257,2.621,кайнана,mother-in-law (of a woman),kainana
+clics-doculect-10-204,noga1249-std,concepticon-2267,2.63,киев,son-in-law (of a man),kiev
+clics-doculect-10-205,noga1249-std,concepticon-2266,2.631,киев,son-in-law (of a woman),kiev
+clics-doculect-10-206,noga1249-std,concepticon-2265,2.64,келин,daughter-in-law (of a man),kelin
+clics-doculect-10-207,noga1249-std,concepticon-2264,2.641,келин,daughter-in-law (of a woman),kelin
+clics-doculect-10-208,noga1249-std,concepticon-2264,2.641,енъгей,daughter-in-law (of a woman),en'gei
+clics-doculect-10-209,noga1249-std,concepticon-2264,2.641,кешек,daughter-in-law (of a woman),keshek
+clics-doculect-10-210,noga1249-std,concepticon-237,2.71,оьгейата,stepfather,o'geiata
+clics-doculect-10-211,noga1249-std,concepticon-236,2.72,оьгейана,stepmother,o'geiana
+clics-doculect-10-212,noga1249-std,concepticon-1059,2.73,оьгейувыл,stepson,o'geiuvyl
+clics-doculect-10-213,noga1249-std,concepticon-1059,2.73,оьгейкеде,stepson,o'geikede
+clics-doculect-10-214,noga1249-std,concepticon-1058,2.74,оьксизкыз,stepdaughter,o'ksizkyz
+clics-doculect-10-215,noga1249-std,concepticon-1058,2.74,оьгейкыз,stepdaughter,o'geikyz
+clics-doculect-10-216,noga1249-std,concepticon-1149,2.75,оьксиз,orphan,o'ksiz
+clics-doculect-10-217,noga1249-std,concepticon-1149,2.75,етим,orphan,etim
+clics-doculect-10-218,noga1249-std,concepticon-1756,2.76,тул,widow,tul
+clics-doculect-10-219,noga1249-std,concepticon-1756,2.76,хатын,widow,khatyn
+clics-doculect-10-220,noga1249-std,concepticon-1981,2.77,тулэркек,widower,tulerkek
+clics-doculect-10-221,noga1249-std,concepticon-1644,2.81,къардашлар,"relatives, kinsmen",k'ardashlar
+clics-doculect-10-222,noga1249-std,concepticon-194,2.82,аьел,family,a'el
+clics-doculect-10-223,noga1249-std,concepticon-1209,2.91,мен,I,men
+clics-doculect-10-224,noga1249-std,concepticon-1215,2.92,сен,you (singular),sen
+clics-doculect-10-225,noga1249-std,concepticon-1215,2.92,сиз,you (singular),siz
+clics-doculect-10-226,noga1249-std,concepticon-262,2.93,ол,he/she/it,ol
+clics-doculect-10-227,noga1249-std,concepticon-1212,2.94,биз,we,biz
+clics-doculect-10-228,noga1249-std,concepticon-1131,2.941,биз,we (inclusive),biz
+clics-doculect-10-229,noga1249-std,concepticon-1130,2.942,биз,we (exclusive),biz
+clics-doculect-10-230,noga1249-std,concepticon-1213,2.95,сиз,you (plural),siz
+clics-doculect-10-231,noga1249-std,concepticon-817,2.96,олар,they,olar
+clics-doculect-10-232,noga1249-std,concepticon-619,3.11,айван,animal,aivan
+clics-doculect-10-233,noga1249-std,concepticon-2261,3.12,эркек,male (adj),erkek
+clics-doculect-10-234,noga1249-std,concepticon-2262,3.13,пише,female (adj),pishe
+clics-doculect-10-235,noga1249-std,concepticon-631,3.15,уьйайваны,livestock,u'iaivany
+clics-doculect-10-236,noga1249-std,concepticon-631,3.15,тувар,livestock,tuvar
+clics-doculect-10-237,noga1249-std,concepticon-631,3.15,мал,livestock,mal
+clics-doculect-10-238,noga1249-std,concepticon-649,3.16,йайлав,pasture,iailav
+clics-doculect-10-239,noga1249-std,concepticon-649,3.16,шоьллик,pasture,sho'llik
+clics-doculect-10-240,noga1249-std,concepticon-649,3.16,кыслав,pasture,kyslav
+clics-doculect-10-241,noga1249-std,concepticon-649,3.16,оьрис,pasture,o'ris
+clics-doculect-10-242,noga1249-std,concepticon-263,3.18,койшы,herdsman,koishy
+clics-doculect-10-243,noga1249-std,concepticon-851,3.19,атазбары,"stable, stall",atazbary
+clics-doculect-10-244,noga1249-std,concepticon-851,3.19,аран,"stable, stall",aran
+clics-doculect-10-245,noga1249-std,concepticon-851,3.19,кора,"stable, stall",kora
+clics-doculect-10-246,noga1249-std,concepticon-851,3.19,шир,"stable, stall",shir
+clics-doculect-10-247,noga1249-std,concepticon-851,3.19,шетен,"stable, stall",sheten
+clics-doculect-10-248,noga1249-std,concepticon-851,3.19,коьтерме,"stable, stall",ko'terme
+clics-doculect-10-249,noga1249-std,concepticon-1153,3.2,тувар,cattle (bovine),tuvar
+clics-doculect-10-250,noga1249-std,concepticon-1153,3.2,мал,cattle (bovine),mal
+clics-doculect-10-251,noga1249-std,concepticon-1008,3.21,оьгиз,bull,o'giz
+clics-doculect-10-252,noga1249-std,concepticon-1169,3.22,оьгиз,ox,o'giz
+clics-doculect-10-253,noga1249-std,concepticon-1007,3.23,сыйыр,cow,syiyr
+clics-doculect-10-254,noga1249-std,concepticon-1989,3.24,бузав,calf,buzav
+clics-doculect-10-255,noga1249-std,concepticon-1331,3.25,кой,sheep,koi
+clics-doculect-10-256,noga1249-std,concepticon-1331,3.25,кошкар,sheep,koshkar
+clics-doculect-10-257,noga1249-std,concepticon-1344,3.26,кошкар,ram,koshkar
+clics-doculect-10-258,noga1249-std,concepticon-1345,3.28,кой,ewe,koi
+clics-doculect-10-259,noga1249-std,concepticon-820,3.29,козы,lamb,kozy
+clics-doculect-10-260,noga1249-std,concepticon-1348,3.32,кабан,boar,kaban
+clics-doculect-10-261,noga1249-std,concepticon-1348,3.32,донъыз,boar,don'yz
+clics-doculect-10-262,noga1249-std,concepticon-1351,3.34,донъыз,sow,don'yz
+clics-doculect-10-263,noga1249-std,concepticon-1351,3.34,шошка,sow,shoshka
+clics-doculect-10-264,noga1249-std,concepticon-1337,3.35,донъыз,pig,don'yz
+clics-doculect-10-265,noga1249-std,concepticon-1502,3.36,эшки,goat,eshki
+clics-doculect-10-266,noga1249-std,concepticon-264,3.37,теке,he-goat,teke
+clics-doculect-10-267,noga1249-std,concepticon-1972,3.38,улак,kid,ulak
+clics-doculect-10-268,noga1249-std,concepticon-615,3.41,ат,horse (equine),at
+clics-doculect-10-269,noga1249-std,concepticon-936,3.42,айгыр,stallion,aigyr
+clics-doculect-10-270,noga1249-std,concepticon-938,3.44,байтар,mare,baitar
+clics-doculect-10-271,noga1249-std,concepticon-938,3.44,бие,mare,bie
+clics-doculect-10-272,noga1249-std,concepticon-1647,3.45,тай,"foal, colt",tai
+clics-doculect-10-273,noga1249-std,concepticon-1647,3.45,кулын,"foal, colt",kulyn
+clics-doculect-10-274,noga1249-std,concepticon-1862,3.46,эшек,"ass, donkey",eshek
+clics-doculect-10-275,noga1249-std,concepticon-890,3.47,катыр,mule,katyr
+clics-doculect-10-276,noga1249-std,concepticon-265,3.5,уьйкус,fowl,u'ikus
+clics-doculect-10-277,noga1249-std,concepticon-1511,3.52,кораз,"cock, rooster",koraz
+clics-doculect-10-278,noga1249-std,concepticon-1514,3.54,тавык,hen,tavyk
+clics-doculect-10-279,noga1249-std,concepticon-1318,3.55,шипий,chicken,shipii
+clics-doculect-10-280,noga1249-std,concepticon-1187,3.56,каз,goose,kaz
+clics-doculect-10-281,noga1249-std,concepticon-1360,3.57,баьпий,duck,ba'pii
+clics-doculect-10-282,noga1249-std,concepticon-539,3.58,уйа,nest,uia
+clics-doculect-10-283,noga1249-std,concepticon-937,3.581,кус,bird,kus
+clics-doculect-10-284,noga1249-std,concepticon-950,3.582,чайка,seagull,chaika
+clics-doculect-10-285,noga1249-std,concepticon-758,3.583,кус,heron,kus
+clics-doculect-10-286,noga1249-std,concepticon-1905,3.584,карагус,eagle,karagus
+clics-doculect-10-287,noga1249-std,concepticon-307,3.585,лашын,hawk,lashyn
+clics-doculect-10-288,noga1249-std,concepticon-307,3.585,каршыгакус,hawk,karshygakus
+clics-doculect-10-289,noga1249-std,concepticon-1185,3.586,карагус,vulture,karagus
+clics-doculect-10-290,noga1249-std,concepticon-1793,3.591,ерганат,bat,erganat
+clics-doculect-10-291,noga1249-std,concepticon-882,3.592,попугай,parrot,popugai
+clics-doculect-10-292,noga1249-std,concepticon-913,3.593,карга,crow,karga
+clics-doculect-10-293,noga1249-std,concepticon-1853,3.594,коьгершин,dove,ko'gershin
+clics-doculect-10-294,noga1249-std,concepticon-735,3.596,обыргус,owl,obyrgus
+clics-doculect-10-295,noga1249-std,concepticon-735,3.596,епалак,owl,epalak
+clics-doculect-10-296,noga1249-std,concepticon-735,3.596,манъкагус,owl,man'kagus
+clics-doculect-10-297,noga1249-std,concepticon-2009,3.61,ийт,dog,iit
+clics-doculect-10-298,noga1249-std,concepticon-1136,3.614,койан,rabbit,koian
+clics-doculect-10-299,noga1249-std,concepticon-1136,3.614,тавшан,rabbit,tavshan
+clics-doculect-10-300,noga1249-std,concepticon-1208,3.62,мысык,cat,mysyk
+clics-doculect-10-301,noga1249-std,concepticon-2139,3.63,шышкан,"mouse, rat",shyshkan
+clics-doculect-10-302,noga1249-std,concepticon-2139,3.63,крыса,"mouse, rat",krysa
+clics-doculect-10-303,noga1249-std,concepticon-2139,3.63,туьешышкан,"mouse, rat",tu'eshyshkan
+clics-doculect-10-304,noga1249-std,concepticon-227,3.65,балык,fish,balyk
+clics-doculect-10-305,noga1249-std,concepticon-227,3.65,шабак,fish,shabak
+clics-doculect-10-306,noga1249-std,concepticon-213,3.652,балыктынъканаты,fin (dorsal),balyktyn'kanaty
+clics-doculect-10-307,noga1249-std,concepticon-266,3.653,кабыгы,fishscale,kabygy
+clics-doculect-10-308,noga1249-std,concepticon-1916,3.654,сагак,gill,sagak
+clics-doculect-10-309,noga1249-std,concepticon-1916,3.654,йыранак,gill,iyranak
+clics-doculect-10-310,noga1249-std,concepticon-1916,3.654,былыктыкътынысалатаганорганы,gill,bylyktyk'tynysalataganorgany
+clics-doculect-10-311,noga1249-std,concepticon-598,3.655,ракушка,shell,rakushka
+clics-doculect-10-312,noga1249-std,concepticon-598,3.655,бакашайак,shell,bakashaiak
+clics-doculect-10-313,noga1249-std,concepticon-1110,3.661,акулы,shark,akuly
+clics-doculect-10-314,noga1249-std,concepticon-1110,3.661,йырткышбалык,shark,iyrtkyshbalyk
+clics-doculect-10-315,noga1249-std,concepticon-1479,3.662,дельфин,"porpoise, dolphin",del'fin
+clics-doculect-10-316,noga1249-std,concepticon-957,3.663,кит,whale,kit
+clics-doculect-10-317,noga1249-std,concepticon-1910,3.664,скат,stingray,skat
+clics-doculect-10-318,noga1249-std,concepticon-1013,3.665,йыланбалык,freshwater eel,iylanbalyk
+clics-doculect-10-319,noga1249-std,concepticon-522,3.71,боьри,wolf,bo'ri
+clics-doculect-10-320,noga1249-std,concepticon-1386,3.72,арслан,lion,arslan
+clics-doculect-10-321,noga1249-std,concepticon-1820,3.73,айув,bear,aiuv
+clics-doculect-10-322,noga1249-std,concepticon-1312,3.74,туьлки,fox,tu'lki
+clics-doculect-10-323,noga1249-std,concepticon-1936,3.75,керекшин,deer,kerekshin
+clics-doculect-10-324,noga1249-std,concepticon-1936,3.75,бугы,deer,bugy
+clics-doculect-10-325,noga1249-std,concepticon-1936,3.75,лань,deer,lan'
+clics-doculect-10-326,noga1249-std,concepticon-1350,3.76,маймыл,monkey,maimyl
+clics-doculect-10-327,noga1249-std,concepticon-1290,3.77,пил,elephant,pil
+clics-doculect-10-328,noga1249-std,concepticon-1290,3.77,бил,elephant,bil
+clics-doculect-10-329,noga1249-std,concepticon-1871,3.78,туье,camel,tu'e
+clics-doculect-10-330,noga1249-std,concepticon-620,3.81,курткумырскайануварлар,insect,kurtkumyrskaianuvarlar
+clics-doculect-10-331,noga1249-std,concepticon-1392,3.811,бийт,louse,biit
+clics-doculect-10-332,noga1249-std,concepticon-267,3.812,сирке,nit (louse egg),sirke
+clics-doculect-10-333,noga1249-std,concepticon-232,3.813,буьрше,flea,bu'rshe
+clics-doculect-10-334,noga1249-std,concepticon-1974,3.814,кыркайак,centipede,kyrkaiak
+clics-doculect-10-335,noga1249-std,concepticon-1538,3.815,скорпион,scorpion,skorpion
+clics-doculect-10-336,noga1249-std,concepticon-1575,3.816,таракан,cockroach,tarakan
+clics-doculect-10-337,noga1249-std,concepticon-587,3.817,кумырска,ant,kumyrska
+clics-doculect-10-338,noga1249-std,concepticon-843,3.818,бий,spider,bii
+clics-doculect-10-339,noga1249-std,concepticon-843,3.818,оьрмекши,spider,o'rmekshi
+clics-doculect-10-340,noga1249-std,concepticon-1065,3.819,бийшымылдыгы,spider web,biishymyldygy
+clics-doculect-10-341,noga1249-std,concepticon-1065,3.819,шатыр,spider web,shatyr
+clics-doculect-10-342,noga1249-std,concepticon-665,3.82,балшыбын,bee,balshybyn
+clics-doculect-10-343,noga1249-std,concepticon-1931,3.821,балавыз,beeswax,balavyz
+clics-doculect-10-344,noga1249-std,concepticon-1931,3.821,кавыз,beeswax,kavyz
+clics-doculect-10-345,noga1249-std,concepticon-88,3.822,балшыбынуйа,beehive,balshybynuia
+clics-doculect-10-346,noga1249-std,concepticon-88,3.822,балшетен,beehive,balsheten
+clics-doculect-10-347,noga1249-std,concepticon-1517,3.823,сона,wasp,sona
+clics-doculect-10-348,noga1249-std,concepticon-1517,3.823,оса,wasp,osa
+clics-doculect-10-349,noga1249-std,concepticon-1504,3.83,шыбын,fly,shybyn
+clics-doculect-10-350,noga1249-std,concepticon-95,3.831,ширкей,"sandfly (midge), gnat",shirkei
+clics-doculect-10-351,noga1249-std,concepticon-95,3.831,сокыршыбын,"sandfly (midge), gnat",sokyrshybyn
+clics-doculect-10-352,noga1249-std,concepticon-1509,3.832,ширкей,mosquito,shirkei
+clics-doculect-10-353,noga1249-std,concepticon-1509,3.832,сокыршыбын,mosquito,sokyrshybyn
+clics-doculect-10-354,noga1249-std,concepticon-1219,3.84,курт,worm,kurt
+clics-doculect-10-355,noga1249-std,concepticon-730,3.85,йылан,snake,iylan
+clics-doculect-10-356,noga1249-std,concepticon-206,3.91,светлйачок,firefly,svetliachok
+clics-doculect-10-357,noga1249-std,concepticon-206,3.91,йарыкберетаганкурт,firefly,iarykberetagankurt
+clics-doculect-10-358,noga1249-std,concepticon-1791,3.92,куьпелек,butterfly,ku'pelek
+clics-doculect-10-359,noga1249-std,concepticon-607,3.93,шегертки,grasshopper,shegertki
+clics-doculect-10-360,noga1249-std,concepticon-1543,3.94,улитпа,snail,ulitpa
+clics-doculect-10-361,noga1249-std,concepticon-1543,3.94,ылув,snail,yluv
+clics-doculect-10-362,noga1249-std,concepticon-503,3.95,бака,frog,baka
+clics-doculect-10-363,noga1249-std,concepticon-632,3.96,кесертки,lizard,kesertki
+clics-doculect-10-364,noga1249-std,concepticon-632,3.96,шегертки,lizard,shegertki
+clics-doculect-10-365,noga1249-std,concepticon-1857,3.97,крокодил,"crocodile, alligator",krokodil
+clics-doculect-10-366,noga1249-std,concepticon-112,3.98,тасбака,turtle,tasbaka
+clics-doculect-10-367,noga1249-std,concepticon-1480,4.11,каркыра,body,karkyra
+clics-doculect-10-368,noga1249-std,concepticon-1480,4.11,кевде,body,kevde
+clics-doculect-10-369,noga1249-std,concepticon-763,4.12,тери,"skin, hide",teri
+clics-doculect-10-370,noga1249-std,concepticon-763,4.12,коьн,"skin, hide",ko'n
+clics-doculect-10-371,noga1249-std,concepticon-2259,4.13,каркыра,flesh,karkyra
+clics-doculect-10-372,noga1249-std,concepticon-1040,4.14,шаш,hair (head),shash
+clics-doculect-10-373,noga1249-std,concepticon-678,4.142,сакал,beard,sakal
+clics-doculect-10-374,noga1249-std,concepticon-189,4.144,туьк,body hair,tu'k
+clics-doculect-10-375,noga1249-std,concepticon-36,4.145,туьк,pubic hair,tu'k
+clics-doculect-10-376,noga1249-std,concepticon-576,4.146,кайызгак,dandruff,kaiyzgak
+clics-doculect-10-377,noga1249-std,concepticon-946,4.15,кан,blood,kan
+clics-doculect-10-378,noga1249-std,concepticon-525,4.151,кантамыр,"vein, artery",kantamyr
+clics-doculect-10-379,noga1249-std,concepticon-1394,4.16,суьек,bone,su'ek
+clics-doculect-10-380,noga1249-std,concepticon-801,4.162,куйрык,rib,kuiryk
+clics-doculect-10-381,noga1249-std,concepticon-1393,4.17,муьйиз,horn,mu'iiz
+clics-doculect-10-382,noga1249-std,concepticon-1220,4.18,куйрык,tail,kuiryk
+clics-doculect-10-383,noga1249-std,concepticon-1291,4.19,сырт,back,syrt
+clics-doculect-10-384,noga1249-std,concepticon-1291,4.19,арка,back,arka
+clics-doculect-10-385,noga1249-std,concepticon-805,4.191,аркаадьек,spine,arkaad'ek
+clics-doculect-10-386,noga1249-std,concepticon-805,4.191,омыртка,spine,omyrtka
+clics-doculect-10-387,noga1249-std,concepticon-1256,4.2,бас,head,bas
+clics-doculect-10-388,noga1249-std,concepticon-1604,4.201,шеке,"side of head, temple",sheke
+clics-doculect-10-389,noga1249-std,concepticon-1605,4.202,бассуьек,skull,bassu'ek
+clics-doculect-10-390,noga1249-std,concepticon-1605,4.202,така,skull,taka
+clics-doculect-10-391,noga1249-std,concepticon-1583,4.203,мый,brain,myi
+clics-doculect-10-392,noga1249-std,concepticon-1560,4.204,йуз,face,iuz
+clics-doculect-10-393,noga1249-std,concepticon-1560,4.204,шырай,face,shyrai
+clics-doculect-10-394,noga1249-std,concepticon-1560,4.204,сытат,face,sytat
+clics-doculect-10-395,noga1249-std,concepticon-1560,4.204,бет,face,bet
+clics-doculect-10-396,noga1249-std,concepticon-123,4.205,манълай,forehead,man'lai
+clics-doculect-10-397,noga1249-std,concepticon-798,4.207,шеке,jaw,sheke
+clics-doculect-10-398,noga1249-std,concepticon-798,4.207,йак,jaw,iak
+clics-doculect-10-399,noga1249-std,concepticon-1730,4.208,ек,cheek,ek
+clics-doculect-10-400,noga1249-std,concepticon-1730,4.208,бет,cheek,bet
+clics-doculect-10-401,noga1249-std,concepticon-1510,4.209,иек,chin,iek
+clics-doculect-10-402,noga1249-std,concepticon-1248,4.21,коьз,eye,ko'z
+clics-doculect-10-403,noga1249-std,concepticon-1173,4.212,кас,eyebrow,kas
+clics-doculect-10-404,noga1249-std,concepticon-17,4.213,коьзкабак,eyelid,ko'zkabak
+clics-doculect-10-405,noga1249-std,concepticon-1540,4.214,кирпик,eyelash,kirpik
+clics-doculect-10-406,noga1249-std,concepticon-1655,4.215,коьздикысув,blink,ko'zdikysuv
+clics-doculect-10-407,noga1249-std,concepticon-1655,4.215,коьздийымув,blink,ko'zdiiymuv
+clics-doculect-10-408,noga1249-std,concepticon-1247,4.22,кулак,ear,kulak
+clics-doculect-10-409,noga1249-std,concepticon-18,4.221,кулактуьби,earlobe,kulaktu'bi
+clics-doculect-10-410,noga1249-std,concepticon-32,4.222,кулаккуькирт,earwax,kulakku'kirt
+clics-doculect-10-411,noga1249-std,concepticon-1221,4.23,бурын,nose,buryn
+clics-doculect-10-412,noga1249-std,concepticon-1178,4.231,танав,nostril,tanav
+clics-doculect-10-413,noga1249-std,concepticon-208,4.232,сыбас,mucus (nasal),sybas
+clics-doculect-10-414,noga1249-std,concepticon-208,4.232,лайла,mucus (nasal),laila
+clics-doculect-10-415,noga1249-std,concepticon-208,4.232,бурынпок,mucus (nasal),burynpok
+clics-doculect-10-416,noga1249-std,concepticon-208,4.232,симирик,mucus (nasal),simirik
+clics-doculect-10-417,noga1249-std,concepticon-674,4.24,авыз,mouth,avyz
+clics-doculect-10-418,noga1249-std,concepticon-73,4.241,бурын,beak,buryn
+clics-doculect-10-419,noga1249-std,concepticon-478,4.25,эрин,lip,erin
+clics-doculect-10-420,noga1249-std,concepticon-1205,4.26,тил,tongue,til
+clics-doculect-10-421,noga1249-std,concepticon-1380,4.27,тис,tooth,tis
+clics-doculect-10-422,noga1249-std,concepticon-139,4.271,тисэти,gums,tiseti
+clics-doculect-10-423,noga1249-std,concepticon-1049,4.272,азувтис,molartooth,azuvtis
+clics-doculect-10-424,noga1249-std,concepticon-1333,4.28,мойын,neck,moiyn
+clics-doculect-10-425,noga1249-std,concepticon-1347,4.281,екке,nape of neck,ekke
+clics-doculect-10-426,noga1249-std,concepticon-1346,4.29,тамак,throat,tamak
+clics-doculect-10-427,noga1249-std,concepticon-1482,4.3,ийин,shoulder,iiin
+clics-doculect-10-428,noga1249-std,concepticon-172,4.301,йавырынкалак,shoulderblade,iavyrynkalak
+clics-doculect-10-429,noga1249-std,concepticon-1994,4.302,омыравсуьек,collarbone,omyravsu'ek
+clics-doculect-10-430,noga1249-std,concepticon-1994,4.302,кандис,collarbone,kandis
+clics-doculect-10-431,noga1249-std,concepticon-1673,4.31,кол,arm,kol
+clics-doculect-10-432,noga1249-std,concepticon-1886,4.312,колтык,armpit,koltyk
+clics-doculect-10-433,noga1249-std,concepticon-981,4.32,шыганак,elbow,shyganak
+clics-doculect-10-434,noga1249-std,concepticon-799,4.321,билек,wrist,bilek
+clics-doculect-10-435,noga1249-std,concepticon-1277,4.33,колдыньушы,hand,koldyn'ushy
+clics-doculect-10-436,noga1249-std,concepticon-1183,4.331,айа,palm of hand,aia
+clics-doculect-10-437,noga1249-std,concepticon-1303,4.34,бармак,finger,barmak
+clics-doculect-10-438,noga1249-std,concepticon-1781,4.342,басбармак,thumb,basbarmak
+clics-doculect-10-439,noga1249-std,concepticon-1258,4.344,тыркак,fingernail,tyrkak
+clics-doculect-10-440,noga1249-std,concepticon-72,4.345,тырнак,claw,tyrnak
+clics-doculect-10-441,noga1249-std,concepticon-1297,4.35,айак,leg,aiak
+clics-doculect-10-442,noga1249-std,concepticon-800,4.351,йанбас,thigh,ianbas
+clics-doculect-10-443,noga1249-std,concepticon-800,4.351,сан,thigh,san
+clics-doculect-10-444,noga1249-std,concepticon-498,4.352,балтыр,calf of leg,baltyr
+clics-doculect-10-445,noga1249-std,concepticon-498,4.352,борбай,calf of leg,borbai
+clics-doculect-10-446,noga1249-std,concepticon-1371,4.36,тиз,knee,tiz
+clics-doculect-10-447,noga1249-std,concepticon-1301,4.37,табан,foot,taban
+clics-doculect-10-448,noga1249-std,concepticon-803,4.371,тобык,ankle,tobyk
+clics-doculect-10-449,noga1249-std,concepticon-803,4.371,тобыксуьеги,ankle,tobyksu'egi
+clics-doculect-10-450,noga1249-std,concepticon-980,4.372,оькше,heel,o'kshe
+clics-doculect-10-451,noga1249-std,concepticon-318,4.374,ыз,footprint,yz
+clics-doculect-10-452,noga1249-std,concepticon-1389,4.38,бармак,toe,barmak
+clics-doculect-10-453,noga1249-std,concepticon-1257,4.392,канат,wing,kanat
+clics-doculect-10-454,noga1249-std,concepticon-1201,4.393,кушына,feather,kushyna
+clics-doculect-10-455,noga1249-std,concepticon-1201,4.393,канат,feather,kanat
+clics-doculect-10-456,noga1249-std,concepticon-1592,4.4,коькирексуьеклер,chest,ko'kireksu'ekler
+clics-doculect-10-457,noga1249-std,concepticon-1402,4.41,коькирек,breast (of woman),ko'kirek
+clics-doculect-10-458,noga1249-std,concepticon-1402,4.41,эмшек,breast (of woman),emshek
+clics-doculect-10-459,noga1249-std,concepticon-796,4.412,эмшек,"nipple, teat",emshek
+clics-doculect-10-460,noga1249-std,concepticon-154,4.42,елин,udder,elin
+clics-doculect-10-461,noga1249-std,concepticon-1838,4.43,киндик,navel,kindik
+clics-doculect-10-462,noga1249-std,concepticon-1223,4.44,йурек,heart,iurek
+clics-doculect-10-463,noga1249-std,concepticon-688,4.441,оьпке,lung,o'pke
+clics-doculect-10-464,noga1249-std,concepticon-1224,4.45,бавыр,liver,bavyr
+clics-doculect-10-465,noga1249-std,concepticon-489,4.451,буьйрек,kidney,bu'irek
+clics-doculect-10-466,noga1249-std,concepticon-1744,4.452,талак,spleen,talak
+clics-doculect-10-467,noga1249-std,concepticon-819,4.46,асказан,stomach,askazan
+clics-doculect-10-468,noga1249-std,concepticon-1991,4.461,шеклер,"intestines, guts",shekler
+clics-doculect-10-469,noga1249-std,concepticon-1681,4.462,бел,waist,bel
+clics-doculect-10-470,noga1249-std,concepticon-1745,4.463,сан,hip,san
+clics-doculect-10-471,noga1249-std,concepticon-1745,4.463,быт,hip,byt
+clics-doculect-10-472,noga1249-std,concepticon-1745,4.463,бут,hip,but
+clics-doculect-10-473,noga1249-std,concepticon-834,4.464,куйрык,buttocks,kuiryk
+clics-doculect-10-474,noga1249-std,concepticon-804,4.47,балайатак,womb,balaiatak
+clics-doculect-10-475,noga1249-std,concepticon-1222,4.492,эркисидиньорганы,penis,erkisidin'organy
+clics-doculect-10-476,noga1249-std,concepticon-1407,4.51,тынысалув,"breathe, breath",tynysaluv
+clics-doculect-10-477,noga1249-std,concepticon-1028,4.52,эснев,"yawn, gape",esnev
+clics-doculect-10-478,noga1249-std,concepticon-162,4.521,сыкылдав,hiccough,sykyldav
+clics-doculect-10-479,noga1249-std,concepticon-879,4.53,йоьткируьв,cough,io'tkiru'v
+clics-doculect-10-480,noga1249-std,concepticon-1621,4.54,шуьшкируьв,sneeze,shu'shkiru'v
+clics-doculect-10-481,noga1249-std,concepticon-126,4.55,терлев,perspire,terlev
+clics-doculect-10-482,noga1249-std,concepticon-1440,4.56,туькиршик,spit,tu'kirshik
+clics-doculect-10-483,noga1249-std,concepticon-1440,4.56,туькируьв,spit,tu'kiru'v
+clics-doculect-10-484,noga1249-std,concepticon-1278,4.57,кусувыкелуьв,vomit,kusuvykelu'v
+clics-doculect-10-485,noga1249-std,concepticon-1403,4.58,тислев,bite,tislev
+clics-doculect-10-486,noga1249-std,concepticon-319,4.59,йалав,lick,ialav
+clics-doculect-10-487,noga1249-std,concepticon-268,4.591,силекейиншыбыртмак,dribble,silekeiinshybyrtmak
+clics-doculect-10-488,noga1249-std,concepticon-268,4.591,тоькмек,dribble,to'kmek
+clics-doculect-10-489,noga1249-std,concepticon-1585,4.61,уйкламак,sleep,uiklamak
+clics-doculect-10-490,noga1249-std,concepticon-1585,4.61,уйклав,sleep,uiklav
+clics-doculect-10-491,noga1249-std,concepticon-1983,4.612,хурылдав,snore,khuryldav
+clics-doculect-10-492,noga1249-std,concepticon-1920,4.62,туьскоьруьв,dream,tu'sko'ru'v
+clics-doculect-10-493,noga1249-std,concepticon-1920,4.62,ойланув,dream,oilanuv
+clics-doculect-10-494,noga1249-std,concepticon-1602,4.63,уйанмак,wake up,uianmak
+clics-doculect-10-495,noga1249-std,concepticon-1602,4.63,уйанув,wake up,uianuv
+clics-doculect-10-496,noga1249-std,concepticon-1159,4.64,осырув,break wind,osyruv
+clics-doculect-10-497,noga1249-std,concepticon-592,4.65,несепэтуьв,urinate,nesepetu'v
+clics-doculect-10-498,noga1249-std,concepticon-676,4.66,эжигииэтуьв,defecate,ezhigiietu'v
+clics-doculect-10-499,noga1249-std,concepticon-1785,4.67,йувыкласувлык,have sexual intercourse,iuvyklasuvlyk
+clics-doculect-10-500,noga1249-std,concepticon-52,4.68,дирилдев,shiver,dirildev
+clics-doculect-10-501,noga1249-std,concepticon-52,4.68,калтырав,shiver,kaltyrav
+clics-doculect-10-502,noga1249-std,concepticon-138,4.69,шамылув,bathe,shamyluv
+clics-doculect-10-503,noga1249-std,concepticon-1152,4.71,таптырув,beget (of father),taptyruv
+clics-doculect-10-504,noga1249-std,concepticon-1090,4.72,тувув,born (to be),tuvuv
+clics-doculect-10-505,noga1249-std,concepticon-1090,4.72,атув,born (to be),atuv
+clics-doculect-10-506,noga1249-std,concepticon-1123,4.73,авырайаклы,pregnant,avyraiakly
+clics-doculect-10-507,noga1249-std,concepticon-1123,4.73,йукли,pregnant,iukli
+clics-doculect-10-508,noga1249-std,concepticon-1087,4.732,авырайаклыболув,conceive,avyraiaklyboluv
+clics-doculect-10-509,noga1249-std,concepticon-1422,4.74,йашамак,"live, living, life",iashamak
+clics-doculect-10-510,noga1249-std,concepticon-1422,4.74,енлы,"live, living, life",enly
+clics-doculect-10-511,noga1249-std,concepticon-1422,4.74,йашав,"live, living, life",iashav
+clics-doculect-10-512,noga1249-std,concepticon-1494,4.75,кешкен,"die, dead",keshken
+clics-doculect-10-513,noga1249-std,concepticon-1494,4.75,оьлмек,"die, dead",o'lmek
+clics-doculect-10-514,noga1249-std,concepticon-1494,4.75,оьлуьв,"die, dead",o'lu'v
+clics-doculect-10-515,noga1249-std,concepticon-1494,4.75,оьлген,"die, dead",o'lgen
+clics-doculect-10-516,noga1249-std,concepticon-1904,4.751,йутылган,drowned,iutylgan
+clics-doculect-10-517,noga1249-std,concepticon-1417,4.76,оьлтирмек,kill,o'ltirmek
+clics-doculect-10-518,noga1249-std,concepticon-1417,4.76,оьлтируьв,kill,o'ltiru'v
+clics-doculect-10-519,noga1249-std,concepticon-767,4.77,лесин,corpse,lesin
+clics-doculect-10-520,noga1249-std,concepticon-767,4.77,лес,corpse,les
+clics-doculect-10-521,noga1249-std,concepticon-767,4.77,суьек,corpse,su'ek
+clics-doculect-10-522,noga1249-std,concepticon-1719,4.78,коьмуьв,bury (the dead),ko'mu'v
+clics-doculect-10-523,noga1249-std,concepticon-1773,4.79,мезар,"grave, tomb",mezar
+clics-doculect-10-524,noga1249-std,concepticon-1773,4.79,кабыр,"grave, tomb",kabyr
+clics-doculect-10-525,noga1249-std,concepticon-1773,4.79,коьр,"grave, tomb",ko'r
+clics-doculect-10-526,noga1249-std,concepticon-785,4.81,куьшли,"strong, mighty, powerful",ku'shli
+clics-doculect-10-527,noga1249-std,concepticon-785,4.81,куватлы,"strong, mighty, powerful",kuvatly
+clics-doculect-10-528,noga1249-std,concepticon-1601,4.82,арык,weak,aryk
+clics-doculect-10-529,noga1249-std,concepticon-1601,4.82,осал,weak,osal
+clics-doculect-10-530,noga1249-std,concepticon-1601,4.82,аьлсиз,weak,a'lsiz
+clics-doculect-10-531,noga1249-std,concepticon-1364,4.83,сав,"well, health",sav
+clics-doculect-10-532,noga1249-std,concepticon-1364,4.83,савлык,"well, health",savlyk
+clics-doculect-10-533,noga1249-std,concepticon-1847,4.84,авырувлы,"sick, sickness",avyruvly
+clics-doculect-10-534,noga1249-std,concepticon-1847,4.84,авырув,"sick, sickness",avyruv
+clics-doculect-10-535,noga1249-std,concepticon-1534,4.841,кыздырматокъгыстув,fever,kyzdyrmatok'gystuv
+clics-doculect-10-536,noga1249-std,concepticon-1534,4.841,безгектутув,fever,bezgektutuv
+clics-doculect-10-537,noga1249-std,concepticon-1957,4.842,боьтеге,goiter,bo'tege
+clics-doculect-10-538,noga1249-std,concepticon-1957,4.842,ур,goiter,ur
+clics-doculect-10-539,noga1249-std,concepticon-1957,4.842,зоб,goiter,zob
+clics-doculect-10-540,noga1249-std,concepticon-102,4.843,сувыктийув,cold (catarrh),suvyktiiuv
+clics-doculect-10-541,noga1249-std,concepticon-102,4.843,сувыкалув,cold (catarrh),suvykaluv
+clics-doculect-10-542,noga1249-std,concepticon-1109,4.85,ера,"wound, sore",era
+clics-doculect-10-543,noga1249-std,concepticon-1109,4.85,иринлиера,"wound, sore",irinliera
+clics-doculect-10-544,noga1249-std,concepticon-1148,4.852,урыпавыртув,bruise,urypavyrtuv
+clics-doculect-10-545,noga1249-std,concepticon-1148,4.852,урыпкоьгерткейер,bruise,urypko'gertkeier
+clics-doculect-10-546,noga1249-std,concepticon-1903,4.853,сисик,swelling,sisik
+clics-doculect-10-547,noga1249-std,concepticon-148,4.854,кышув,itch,kyshuv
+clics-doculect-10-548,noga1249-std,concepticon-1584,4.855,кабаршык,blister,kabarshyk
+clics-doculect-10-549,noga1249-std,concepticon-1584,4.855,сувлысисик,blister,suvlysisik
+clics-doculect-10-550,noga1249-std,concepticon-793,4.856,иринлеигенер,boil (noun),irinleigener
+clics-doculect-10-551,noga1249-std,concepticon-793,4.856,шыйкан,boil (noun),shyikan
+clics-doculect-10-552,noga1249-std,concepticon-1808,4.857,ирин,pus,irin
+clics-doculect-10-553,noga1249-std,concepticon-497,4.858,йараызы,scar,iarayzy
+clics-doculect-10-554,noga1249-std,concepticon-497,4.858,тыртык,scar,tyrtyk
+clics-doculect-10-555,noga1249-std,concepticon-499,4.86,савэьтув,"cure, heal",save'tuv
+clics-doculect-10-556,noga1249-std,concepticon-499,4.86,эмлев,"cure, heal",emlev
+clics-doculect-10-557,noga1249-std,concepticon-597,4.87,доктор,physician,doktor
+clics-doculect-10-558,noga1249-std,concepticon-597,4.87,эмши,physician,emshi
+clics-doculect-10-559,noga1249-std,concepticon-1372,4.88,эм,"medicine, drug",em
+clics-doculect-10-560,noga1249-std,concepticon-1372,4.88,дарман,"medicine, drug",darman
+clics-doculect-10-561,noga1249-std,concepticon-655,4.89,ув,poison,uv
+clics-doculect-10-562,noga1249-std,concepticon-655,4.89,агув,poison,aguv
+clics-doculect-10-563,noga1249-std,concepticon-1757,4.91,арыган,"tired, weary",arygan
+clics-doculect-10-564,noga1249-std,concepticon-1757,4.91,талган,"tired, weary",talgan
+clics-doculect-10-565,noga1249-std,concepticon-168,4.912,йалалув,rest,ialaluv
+clics-doculect-10-566,noga1249-std,concepticon-168,4.912,тыкшайув,rest,tykshaiuv
+clics-doculect-10-567,noga1249-std,concepticon-168,4.912,парахатланув,rest,parakhatlanuv
+clics-doculect-10-568,noga1249-std,concepticon-1564,4.92,эриншек,lazy,erinshek
+clics-doculect-10-569,noga1249-std,concepticon-1125,4.93,таз,bald,taz
+clics-doculect-10-570,noga1249-std,concepticon-1125,4.93,такырбас,bald,takyrbas
+clics-doculect-10-571,noga1249-std,concepticon-320,4.94,аксакламак,lame,aksaklamak
+clics-doculect-10-572,noga1249-std,concepticon-320,4.94,аксаклав,lame,aksaklav
+clics-doculect-10-573,noga1249-std,concepticon-996,4.95,сагыр,deaf,sagyr
+clics-doculect-10-574,noga1249-std,concepticon-996,4.95,санъырав,deaf,san'yrav
+clics-doculect-10-575,noga1249-std,concepticon-1666,4.96,сакав,mute,sakav
+clics-doculect-10-576,noga1249-std,concepticon-1666,4.96,тилсиз,mute,tilsiz
+clics-doculect-10-577,noga1249-std,concepticon-1653,4.97,сокыр,blind,sokyr
+clics-doculect-10-578,noga1249-std,concepticon-1463,4.98,эсирик,intoxicated,esirik
+clics-doculect-10-579,noga1249-std,concepticon-1463,4.98,эсирген,intoxicated,esirgen
+clics-doculect-10-580,noga1249-std,concepticon-590,4.99,йаланъаш,"naked, bare",ialan'ash
+clics-doculect-10-581,noga1249-std,concepticon-590,4.99,йаланъашланган,"naked, bare",ialan'ashlangan
+clics-doculect-10-582,noga1249-std,concepticon-1336,5.11,ашамак,eat,ashamak
+clics-doculect-10-583,noga1249-std,concepticon-1336,5.11,ашав,eat,ashav
+clics-doculect-10-584,noga1249-std,concepticon-1336,5.11,емек,eat,emek
+clics-doculect-10-585,noga1249-std,concepticon-256,5.12,азык,food,azyk
+clics-doculect-10-586,noga1249-std,concepticon-256,5.12,емис,food,emis
+clics-doculect-10-587,noga1249-std,concepticon-256,5.12,ас,food,as
+clics-doculect-10-588,noga1249-std,concepticon-269,5.121,пискен,cooked,pisken
+clics-doculect-10-589,noga1249-std,concepticon-269,5.121,кайнаган,cooked,kainagan
+clics-doculect-10-590,noga1249-std,concepticon-1959,5.122,иший,raw,ishii
+clics-doculect-10-591,noga1249-std,concepticon-1959,5.122,писпеген,raw,pispegen
+clics-doculect-10-592,noga1249-std,concepticon-178,5.123,пискен,ripe,pisken
+clics-doculect-10-593,noga1249-std,concepticon-1958,5.124,йасыл,"green, unripe",iasyl
+clics-doculect-10-594,noga1249-std,concepticon-1958,5.124,иший,"green, unripe",ishii
+clics-doculect-10-595,noga1249-std,concepticon-1958,5.124,писпеген,"green, unripe",pispegen
+clics-doculect-10-596,noga1249-std,concepticon-1728,5.125,ширик,rotten,shirik
+clics-doculect-10-597,noga1249-std,concepticon-1728,5.125,шириген,rotten,shirigen
+clics-doculect-10-598,noga1249-std,concepticon-1401,5.13,ишуьв,drink,ishu'v
+clics-doculect-10-599,noga1249-std,concepticon-1864,5.14,ашлык,hunger,ashlyk
+clics-doculect-10-600,noga1249-std,concepticon-199,5.141,ашлык,famine,ashlyk
+clics-doculect-10-601,noga1249-std,concepticon-199,5.141,ашболув,famine,ashboluv
+clics-doculect-10-602,noga1249-std,concepticon-848,5.15,сувсав,thirst,suvsav
+clics-doculect-10-603,noga1249-std,concepticon-1421,5.16,сорув,suck,soruv
+clics-doculect-10-604,noga1249-std,concepticon-1421,5.16,синъдируьв,suck,sin'diru'v
+clics-doculect-10-605,noga1249-std,concepticon-321,5.18,шайнав,chew,shainav
+clics-doculect-10-606,noga1249-std,concepticon-897,5.181,йутув,swallow,iutuv
+clics-doculect-10-607,noga1249-std,concepticon-129,5.19,туншыктырув,choke,tunshyktyruv
+clics-doculect-10-608,noga1249-std,concepticon-129,5.19,бувмак,choke,buvmak
+clics-doculect-10-609,noga1249-std,concepticon-1100,5.21,писирув,cook,pisiruv
+clics-doculect-10-610,noga1249-std,concepticon-1100,5.21,кайнатув,cook,kainatuv
+clics-doculect-10-611,noga1249-std,concepticon-1100,5.21,асув,cook,asuv
+clics-doculect-10-612,noga1249-std,concepticon-792,5.22,кайнатув,boil (vb),kainatuv
+clics-doculect-10-613,noga1249-std,concepticon-2146,5.23,кувырув,"roast, fry",kuvyruv
+clics-doculect-10-614,noga1249-std,concepticon-2146,5.23,кызартув,"roast, fry",kyzartuv
+clics-doculect-10-615,noga1249-std,concepticon-183,5.24,писируьв,bake,pisiru'v
+clics-doculect-10-616,noga1249-std,concepticon-1143,5.25,писируьв,oven,pisiru'v
+clics-doculect-10-617,noga1249-std,concepticon-1462,5.26,казан,"pot, cooking vessel",kazan
+clics-doculect-10-618,noga1249-std,concepticon-854,5.27,чайник,kettle,chainik
+clics-doculect-10-619,noga1249-std,concepticon-854,5.27,шайказан,kettle,shaikazan
+clics-doculect-10-620,noga1249-std,concepticon-31,5.28,казан,pan,kazan
+clics-doculect-10-621,noga1249-std,concepticon-481,5.31,тепсе,dish,tepse
+clics-doculect-10-622,noga1249-std,concepticon-481,5.31,табак,dish,tabak
+clics-doculect-10-623,noga1249-std,concepticon-480,5.32,тарелка,plate,tarelka
+clics-doculect-10-624,noga1249-std,concepticon-480,5.32,табак,plate,tabak
+clics-doculect-10-625,noga1249-std,concepticon-1530,5.33,кабак,bowl,kabak
+clics-doculect-10-626,noga1249-std,concepticon-1530,5.33,айак,bowl,aiak
+clics-doculect-10-627,noga1249-std,concepticon-270,5.34,кумган,"pitcher, jug",kumgan
+clics-doculect-10-628,noga1249-std,concepticon-476,5.35,тостакай,"cup, drinking vessel",tostakai
+clics-doculect-10-629,noga1249-std,concepticon-476,5.35,айак,"cup, drinking vessel",aiak
+clics-doculect-10-630,noga1249-std,concepticon-271,5.36,блйудце,saucer,bliudtse
+clics-doculect-10-631,noga1249-std,concepticon-271,5.36,шайтепшек,saucer,shaitepshek
+clics-doculect-10-632,noga1249-std,concepticon-1378,5.37,касык,spoon,kasyk
+clics-doculect-10-633,noga1249-std,concepticon-1352,5.38,пышак,knife,pyshak
+clics-doculect-10-634,noga1249-std,concepticon-337,5.39,шанышкыш,fork,shanyshkysh
+clics-doculect-10-635,noga1249-std,concepticon-337,5.39,сис,fork,sis
+clics-doculect-10-636,noga1249-std,concepticon-272,5.391,кыскыш,tongs,kyskysh
+clics-doculect-10-637,noga1249-std,concepticon-1526,5.41,аш,meal (a),ash
+clics-doculect-10-638,noga1249-std,concepticon-1526,5.41,асашав,meal (a),asashav
+clics-doculect-10-639,noga1249-std,concepticon-1526,5.41,азыкашав,meal (a),azykashav
+clics-doculect-10-640,noga1249-std,concepticon-1322,5.42,эртенъгиас,breakfast,erten'gias
+clics-doculect-10-641,noga1249-std,concepticon-768,5.43,экиншиэртенъгиас,lunch,ekinshierten'gias
+clics-doculect-10-642,noga1249-std,concepticon-1833,5.44,уьйлеас,dinner,u'ileas
+clics-doculect-10-643,noga1249-std,concepticon-1833,5.45,кешкиас,supper,keshkias
+clics-doculect-10-644,noga1249-std,concepticon-275,5.46,тазалав,peel,tazalav
+clics-doculect-10-645,noga1249-std,concepticon-275,5.46,аршув,peel,arshuv
+clics-doculect-10-646,noga1249-std,concepticon-86,5.47,элев,"sieve, strain",elev
+clics-doculect-10-647,noga1249-std,concepticon-86,5.47,шелтев,"sieve, strain",sheltev
+clics-doculect-10-648,noga1249-std,concepticon-86,5.47,сувырув,"sieve, strain",suvyruv
+clics-doculect-10-649,noga1249-std,concepticon-86,5.47,суьзуьв,"sieve, strain",su'zu'v
+clics-doculect-10-650,noga1249-std,concepticon-1767,5.48,тыриав,scrape,tyriav
+clics-doculect-10-651,noga1249-std,concepticon-1767,5.48,кемируьв,scrape,kemiru'v
+clics-doculect-10-652,noga1249-std,concepticon-1767,5.48,кырув,scrape,kyruv
+clics-doculect-10-653,noga1249-std,concepticon-1767,5.48,тазалав,scrape,tazalav
+clics-doculect-10-654,noga1249-std,concepticon-1767,5.48,ыскылав,scrape,yskylav
+clics-doculect-10-655,noga1249-std,concepticon-2017,5.49,былгав,"stir, mix",bylgav
+clics-doculect-10-656,noga1249-std,concepticon-2017,5.49,араластырув,"stir, mix",aralastyruv
+clics-doculect-10-657,noga1249-std,concepticon-1368,5.51,оьтпек,bread,o'tpek
+clics-doculect-10-658,noga1249-std,concepticon-273,5.53,ийленгенун,dough,iilengenun
+clics-doculect-10-659,noga1249-std,concepticon-274,5.54,ундыийлев,knead,undyiilev
+clics-doculect-10-660,noga1249-std,concepticon-1594,5.55,ун,"meal, flour",un
+clics-doculect-10-661,noga1249-std,concepticon-1033,5.56,басув,"crush, grind",basuv
+clics-doculect-10-662,noga1249-std,concepticon-1033,5.56,сыгув,"crush, grind",syguv
+clics-doculect-10-663,noga1249-std,concepticon-1033,5.56,йанышув,"crush, grind",ianyshuv
+clics-doculect-10-664,noga1249-std,concepticon-1033,5.56,уватув,"crush, grind",uvatuv
+clics-doculect-10-665,noga1249-std,concepticon-1033,5.56,туьйуьв,"crush, grind",tu'iu'v
+clics-doculect-10-666,noga1249-std,concepticon-636,5.57,туьйирмен,mill,tu'iirmen
+clics-doculect-10-667,noga1249-std,concepticon-636,5.57,термен,mill,termen
+clics-doculect-10-668,noga1249-std,concepticon-224,5.58,аук,mortar,auk
+clics-doculect-10-669,noga1249-std,concepticon-224,5.58,кели,mortar,keli
+clics-doculect-10-670,noga1249-std,concepticon-224,5.58,авангели,mortar,avangeli
+clics-doculect-10-671,noga1249-std,concepticon-224,5.58,туьйгиш,mortar,tu'igish
+clics-doculect-10-672,noga1249-std,concepticon-225,5.59,келисап,pestle,kelisap
+clics-doculect-10-673,noga1249-std,concepticon-225,5.59,шешекейдинъурлыгы,pestle,sheshekeidin'urlygy
+clics-doculect-10-674,noga1249-std,concepticon-634,5.61,эт,meat,et
+clics-doculect-10-675,noga1249-std,concepticon-1874,5.63,йоьрме,sausage,io'rme
+clics-doculect-10-676,noga1249-std,concepticon-1547,5.64,сорпа,"soup, broth",sorpa
+clics-doculect-10-677,noga1249-std,concepticon-924,5.65,йасылшалар,vegetables,iasylshalar
+clics-doculect-10-678,noga1249-std,concepticon-832,5.66,ногыт,bean,nogyt
+clics-doculect-10-679,noga1249-std,concepticon-593,5.7,ералма,potato,eralma
+clics-doculect-10-680,noga1249-std,concepticon-1507,5.71,емис,fruit,emis
+clics-doculect-10-681,noga1249-std,concepticon-1966,5.712,солкым,bunch,solkym
+clics-doculect-10-682,noga1249-std,concepticon-1966,5.712,бувым,bunch,buvym
+clics-doculect-10-683,noga1249-std,concepticon-1966,5.712,байлам,bunch,bailam
+clics-doculect-10-684,noga1249-std,concepticon-322,5.75,шагыр,fig,shagyr
+clics-doculect-10-685,noga1249-std,concepticon-322,5.75,ийлек,fig,iilek
+clics-doculect-10-686,noga1249-std,concepticon-322,5.75,елек,fig,elek
+clics-doculect-10-687,noga1249-std,concepticon-322,5.75,инжир,fig,inzhir
+clics-doculect-10-688,noga1249-std,concepticon-920,5.76,йузим,grape,iuzim
+clics-doculect-10-689,noga1249-std,concepticon-191,5.77,коз,nut,koz
+clics-doculect-10-690,noga1249-std,concepticon-1154,5.78,маслина,olive,maslina
+clics-doculect-10-691,noga1249-std,concepticon-1484,5.79,йасылшамай,oil,iasylshamai
+clics-doculect-10-692,noga1249-std,concepticon-323,5.791,куйрыкмай,"grease, fat",kuirykmai
+clics-doculect-10-693,noga1249-std,concepticon-323,5.791,ишмай,"grease, fat",ishmai
+clics-doculect-10-694,noga1249-std,concepticon-1274,5.81,туз,salt,tuz
+clics-doculect-10-695,noga1249-std,concepticon-1385,5.82,бурыш,pepper,burysh
+clics-doculect-10-696,noga1249-std,concepticon-1385,5.82,шибжий,pepper,shibzhii
+clics-doculect-10-697,noga1249-std,concepticon-919,5.821,бурыш,chili pepper,burysh
+clics-doculect-10-698,noga1249-std,concepticon-919,5.821,шибжий,chili pepper,shibzhii
+clics-doculect-10-699,noga1249-std,concepticon-942,5.84,бал,honey,bal
+clics-doculect-10-700,noga1249-std,concepticon-862,5.85,секер,sugar,seker
+clics-doculect-10-701,noga1249-std,concepticon-635,5.86,суьт,milk (noun),su't
+clics-doculect-10-702,noga1249-std,concepticon-93,5.87,савмак,milk (vb),savmak
+clics-doculect-10-703,noga1249-std,concepticon-93,5.87,савув,milk (vb),savuv
+clics-doculect-10-704,noga1249-std,concepticon-1569,5.88,пыслак,cheese,pyslak
+clics-doculect-10-705,noga1249-std,concepticon-1245,5.89,сарымай,butter,sarymai
+clics-doculect-10-706,noga1249-std,concepticon-731,5.9,ишки,"beverage, drink",ishki
+clics-doculect-10-707,noga1249-std,concepticon-941,5.91,бал,mead,bal
+clics-doculect-10-708,noga1249-std,concepticon-1524,5.92,шагыр,wine,shagyr
+clics-doculect-10-709,noga1249-std,concepticon-1639,5.93,пиво,beer,pivo
+clics-doculect-10-710,noga1249-std,concepticon-404,5.94,брага,fermented drink,braga
+clics-doculect-10-711,noga1249-std,concepticon-404,5.94,боза,fermented drink,boza
+clics-doculect-10-712,noga1249-std,concepticon-744,5.97,йумыртка,egg,iumyrtka
+clics-doculect-10-713,noga1249-std,concepticon-1556,5.971,йумарткадынъсарысы,egg yolk,iumartkadyn'sarysy
+clics-doculect-10-714,noga1249-std,concepticon-158,6.11,кийуьв,put on (clothes),kiiu'v
+clics-doculect-10-715,noga1249-std,concepticon-158,6.11,кийиндируьв,put on (clothes),kiiindiru'v
+clics-doculect-10-716,noga1249-std,concepticon-1895,6.12,кийим,"clothing, clothes",kiiim
+clics-doculect-10-717,noga1249-std,concepticon-881,6.13,тигуьвши,tailor,tigu'vshi
+clics-doculect-10-718,noga1249-std,concepticon-1616,6.21,кумаш,cloth,kumash
+clics-doculect-10-719,noga1249-std,concepticon-1616,6.21,шуга,cloth,shuga
+clics-doculect-10-720,noga1249-std,concepticon-964,6.22,йун,wool,iun
+clics-doculect-10-721,noga1249-std,concepticon-964,6.22,каврак,wool,kavrak
+clics-doculect-10-722,noga1249-std,concepticon-916,6.23,лен,"linen, flax",len
+clics-doculect-10-723,noga1249-std,concepticon-1850,6.24,мамык,cotton,mamyk
+clics-doculect-10-724,noga1249-std,concepticon-1641,6.25,шилле,silk,shille
+clics-doculect-10-725,noga1249-std,concepticon-1641,6.25,йибек,silk,iibek
+clics-doculect-10-726,noga1249-std,concepticon-325,6.27,кийиз,felt,kiiiz
+clics-doculect-10-727,noga1249-std,concepticon-580,6.28,тери,fur,teri
+clics-doculect-10-728,noga1249-std,concepticon-580,6.28,коьрк,fur,ko'rk
+clics-doculect-10-729,noga1249-std,concepticon-629,6.29,коьн,leather,ko'n
+clics-doculect-10-730,noga1249-std,concepticon-629,6.29,тери,leather,teri
+clics-doculect-10-731,noga1249-std,concepticon-121,6.31,йипийируьв,spin,iipiiiru'v
+clics-doculect-10-732,noga1249-std,concepticon-277,6.32,уршык,spindle,urshyk
+clics-doculect-10-733,noga1249-std,concepticon-133,6.33,быруьв,weave,byru'v
+clics-doculect-10-734,noga1249-std,concepticon-133,6.33,токув,weave,tokuv
+clics-doculect-10-735,noga1249-std,concepticon-1787,6.34,кумашсогатаганстанок,loom,kumashsogataganstanok
+clics-doculect-10-736,noga1249-std,concepticon-1457,6.35,тигуьв,sew,tigu'v
+clics-doculect-10-737,noga1249-std,concepticon-1382,6.36,ийне,needle,iine
+clics-doculect-10-738,noga1249-std,concepticon-278,6.37,биз,awl,biz
+clics-doculect-10-739,noga1249-std,concepticon-278,6.37,тебен,awl,teben
+clics-doculect-10-740,noga1249-std,concepticon-1161,6.38,йип,thread,iip
+clics-doculect-10-741,noga1249-std,concepticon-157,6.39,сыр,dye,syr
+clics-doculect-10-742,noga1249-std,concepticon-157,6.39,сыйа,dye,syia
+clics-doculect-10-743,noga1249-std,concepticon-326,6.41,плащ,cloak,plashch
+clics-doculect-10-744,noga1249-std,concepticon-327,6.411,пончо,poncho,poncho
+clics-doculect-10-745,noga1249-std,concepticon-474,6.42,коьйлек,woman's dress,ko'ilek
+clics-doculect-10-746,noga1249-std,concepticon-474,6.42,шыба,woman's dress,shyba
+clics-doculect-10-747,noga1249-std,concepticon-603,6.43,пальто,coat,pal'to
+clics-doculect-10-748,noga1249-std,concepticon-1622,6.44,коьйлек,shirt,ko'ilek
+clics-doculect-10-749,noga1249-std,concepticon-2012,6.45,йага,collar,iaga
+clics-doculect-10-750,noga1249-std,concepticon-1600,6.46,йубка,skirt,iubka
+clics-doculect-10-751,noga1249-std,concepticon-809,6.48,шалбыр,trousers,shalbyr
+clics-doculect-10-752,noga1249-std,concepticon-809,6.48,балак,trousers,balak
+clics-doculect-10-753,noga1249-std,concepticon-809,6.48,ыстан,trousers,ystan
+clics-doculect-10-754,noga1249-std,concepticon-809,6.48,саксыр,trousers,saksyr
+clics-doculect-10-755,noga1249-std,concepticon-329,6.49,шорап,"stocking, sock",shorap
+clics-doculect-10-756,noga1249-std,concepticon-1381,6.51,туфель,shoe,tufel'
+clics-doculect-10-757,noga1249-std,concepticon-1381,6.51,туфлйа,shoe,tuflia
+clics-doculect-10-758,noga1249-std,concepticon-1381,6.51,баьпиш,shoe,ba'pish
+clics-doculect-10-759,noga1249-std,concepticon-585,6.52,ботинка,boot,botinka
+clics-doculect-10-760,noga1249-std,concepticon-875,6.54,этикши,"shoemaker, cobbler",etikshi
+clics-doculect-10-761,noga1249-std,concepticon-2130,6.55,шлйапйа,"hat, cap",shliapia
+clics-doculect-10-762,noga1249-std,concepticon-2130,6.55,боьрк,"hat, cap",bo'rk
+clics-doculect-10-763,noga1249-std,concepticon-772,6.57,белбав,"belt, girdle",belbav
+clics-doculect-10-764,noga1249-std,concepticon-867,6.58,колкап,glove,kolkap
+clics-doculect-10-765,noga1249-std,concepticon-1151,6.59,вуаль,veil,vual'
+clics-doculect-10-766,noga1249-std,concepticon-1851,6.61,кисе,pocket,kise
+clics-doculect-10-767,noga1249-std,concepticon-757,6.62,туьйме,button,tu'ime
+clics-doculect-10-768,noga1249-std,concepticon-757,6.62,саьдеп,button,sa'dep
+clics-doculect-10-769,noga1249-std,concepticon-64,6.63,туьйревгиш,pin,tu'irevgish
+clics-doculect-10-770,noga1249-std,concepticon-917,6.71,орнамент,"ornament, adornment",ornament
+clics-doculect-10-771,noga1249-std,concepticon-1029,6.72,багалытас,jewel,bagalytas
+clics-doculect-10-772,noga1249-std,concepticon-1029,6.72,багалы,jewel,bagaly
+clics-doculect-10-773,noga1249-std,concepticon-1029,6.72,тасларданэтилгензат,jewel,taslardanetilgenzat
+clics-doculect-10-774,noga1249-std,concepticon-1374,6.73,йузик,ring (for finger),iuzik
+clics-doculect-10-775,noga1249-std,concepticon-1754,6.74,билезик,bracelet,bilezik
+clics-doculect-10-776,noga1249-std,concepticon-1961,6.75,мойыншак,necklace,moiynshak
+clics-doculect-10-777,noga1249-std,concepticon-1961,6.75,мойшак,necklace,moishak
+clics-doculect-10-778,noga1249-std,concepticon-1860,6.76,мойшак,bead,moishak
+clics-doculect-10-779,noga1249-std,concepticon-770,6.77,сырга,earring,syrga
+clics-doculect-10-780,noga1249-std,concepticon-770,6.77,кулакшын,earring,kulakshyn
+clics-doculect-10-781,noga1249-std,concepticon-330,6.78,шалма,"headband, headdress",shalma
+clics-doculect-10-782,noga1249-std,concepticon-330,6.78,баскийим,"headband, headdress",baskiiim
+clics-doculect-10-783,noga1249-std,concepticon-68,6.79,татуировка,tattoo,tatuirovka
+clics-doculect-10-784,noga1249-std,concepticon-332,6.81,колйавлык,"handkerchief, rag",koliavlyk
+clics-doculect-10-785,noga1249-std,concepticon-332,6.81,бетйавлык,"handkerchief, rag",betiavlyk
+clics-doculect-10-786,noga1249-std,concepticon-1021,6.82,тастамал,towel,tastamal
+clics-doculect-10-787,noga1249-std,concepticon-1021,6.82,суьлги,towel,su'lgi
+clics-doculect-10-788,noga1249-std,concepticon-1475,6.91,бастарак,comb,bastarak
+clics-doculect-10-789,noga1249-std,concepticon-1475,6.91,тарак,comb,tarak
+clics-doculect-10-790,noga1249-std,concepticon-1821,6.92,бастарак,brush,bastarak
+clics-doculect-10-791,noga1249-std,concepticon-333,6.921,шаш,braid,shash
+clics-doculect-10-792,noga1249-std,concepticon-333,6.921,оьрме,braid,o'rme
+clics-doculect-10-793,noga1249-std,concepticon-151,6.93,беки,razor,beki
+clics-doculect-10-794,noga1249-std,concepticon-1926,6.94,мазь,ointment,maz'
+clics-doculect-10-795,noga1249-std,concepticon-1926,6.94,май,ointment,mai
+clics-doculect-10-796,noga1249-std,concepticon-788,6.95,сабын,soap,sabyn
+clics-doculect-10-797,noga1249-std,concepticon-1171,6.96,бийала,mirror,biiala
+clics-doculect-10-798,noga1249-std,concepticon-363,7.11,йашамак,"dwell, live",iashamak
+clics-doculect-10-799,noga1249-std,concepticon-363,7.11,йашав,"dwell, live",iashav
+clics-doculect-10-800,noga1249-std,concepticon-1252,7.12,уьй,house,u'i
+clics-doculect-10-801,noga1249-std,concepticon-1678,7.13,хижина,hut,khizhina
+clics-doculect-10-802,noga1249-std,concepticon-1678,7.13,кишкейуьй,hut,kishkeiu'i
+clics-doculect-10-803,noga1249-std,concepticon-403,7.131,кырдагыуьй,garden-house,kyrdagyu'i
+clics-doculect-10-804,noga1249-std,concepticon-403,7.131,дача,garden-house,dacha
+clics-doculect-10-805,noga1249-std,concepticon-1316,7.14,шатыр,tent,shatyr
+clics-doculect-10-806,noga1249-std,concepticon-1316,7.14,палатка,tent,palatka
+clics-doculect-10-807,noga1249-std,concepticon-736,7.15,шатыр,"yard, court",shatyr
+clics-doculect-10-808,noga1249-std,concepticon-408,7.16,эркеклеруьйи,men's house,erkekleru'ii
+clics-doculect-10-809,noga1249-std,concepticon-334,7.17,отав,cookhouse,otav
+clics-doculect-10-810,noga1249-std,concepticon-334,7.17,айатуь,cookhouse,aiatu'
+clics-doculect-10-811,noga1249-std,concepticon-334,7.17,казануьй,cookhouse,kazanu'i
+clics-doculect-10-812,noga1249-std,concepticon-335,7.18,йыйынболатагануьй,meeting house,iyiynbolataganu'i
+clics-doculect-10-813,noga1249-std,concepticon-1450,7.21,уьй,room,u'i
+clics-doculect-10-814,noga1249-std,concepticon-1450,7.21,боьме,room,bo'me
+clics-doculect-10-815,noga1249-std,concepticon-1567,7.22,капы,"door, gate",kapy
+clics-doculect-10-816,noga1249-std,concepticon-1567,7.22,эсик,"door, gate",esik
+clics-doculect-10-817,noga1249-std,concepticon-80,7.221,энеге,"doorpost, jamb",enege
+clics-doculect-10-818,noga1249-std,concepticon-1596,7.23,кирт,lock (noun),kirt
+clics-doculect-10-819,noga1249-std,concepticon-1012,7.231,токат,"latch, door-bolt",tokat
+clics-doculect-10-820,noga1249-std,concepticon-1012,7.231,йувыртпа,"latch, door-bolt",iuvyrtpa
+clics-doculect-10-821,noga1249-std,concepticon-1472,7.24,ашкыш,key,ashkysh
+clics-doculect-10-822,noga1249-std,concepticon-1375,7.25,шагарак,window,shagarak
+clics-doculect-10-823,noga1249-std,concepticon-1375,7.25,терезе,window,tereze
+clics-doculect-10-824,noga1249-std,concepticon-1632,7.26,пол,floor,pol
+clics-doculect-10-825,noga1249-std,concepticon-1632,7.26,ер,floor,er
+clics-doculect-10-826,noga1249-std,concepticon-933,7.27,там,wall,tam
+clics-doculect-10-827,noga1249-std,concepticon-933,7.27,ирге,wall,irge
+clics-doculect-10-828,noga1249-std,concepticon-933,7.27,дуьгер,wall,du'ger
+clics-doculect-10-829,noga1249-std,concepticon-185,7.31,камин,fireplace,kamin
+clics-doculect-10-830,noga1249-std,concepticon-185,7.31,отбас,fireplace,otbas
+clics-doculect-10-831,noga1249-std,concepticon-859,7.32,тандыр,stove,tandyr
+clics-doculect-10-832,noga1249-std,concepticon-859,7.32,пеш,stove,pesh
+clics-doculect-10-833,noga1249-std,concepticon-1305,7.33,ошак,chimney,oshak
+clics-doculect-10-834,noga1249-std,concepticon-1305,7.33,туьтинйолы,chimney,tu'tinioly
+clics-doculect-10-835,noga1249-std,concepticon-1305,7.33,пешкутыгы,chimney,peshkutygy
+clics-doculect-10-836,noga1249-std,concepticon-1464,7.37,басамак,ladder,basamak
+clics-doculect-10-837,noga1249-std,concepticon-1464,7.37,шапыраш,ladder,shapyrash
+clics-doculect-10-838,noga1249-std,concepticon-1663,7.42,орындык,bed,oryndyk
+clics-doculect-10-839,noga1249-std,concepticon-1044,7.421,йастык,pillow,iastyk
+clics-doculect-10-840,noga1249-std,concepticon-806,7.422,йуркан,blanket,iurkan
+clics-doculect-10-841,noga1249-std,concepticon-1476,7.43,елтыргыш,chair,eltyrgysh
+clics-doculect-10-842,noga1249-std,concepticon-1775,7.44,стол,table,stol
+clics-doculect-10-843,noga1249-std,concepticon-1775,7.44,сыпыра,table,sypyra
+clics-doculect-10-844,noga1249-std,concepticon-2131,7.45,напшырак,"lamp, torch",napshyrak
+clics-doculect-10-845,noga1249-std,concepticon-1273,7.46,майшырак,candle,maishyrak
+clics-doculect-10-846,noga1249-std,concepticon-745,7.47,уьндирик,shelf,u'ndirik
+clics-doculect-10-847,noga1249-std,concepticon-205,7.48,шорга,trough,shorga
+clics-doculect-10-848,noga1249-std,concepticon-205,7.48,олык,trough,olyk
+clics-doculect-10-849,noga1249-std,concepticon-769,7.51,тоьбе,roof,to'be
+clics-doculect-10-850,noga1249-std,concepticon-769,7.51,калкы,roof,kalky
+clics-doculect-10-851,noga1249-std,concepticon-279,7.52,тобантоьбе,thatch,tobanto'be
+clics-doculect-10-852,noga1249-std,concepticon-280,7.53,тайав,ridgepole,taiav
+clics-doculect-10-853,noga1249-std,concepticon-829,7.54,аркалык,rafter,arkalyk
+clics-doculect-10-854,noga1249-std,concepticon-829,7.54,макас,rafter,makas
+clics-doculect-10-855,noga1249-std,concepticon-1132,7.55,аркалык,beam,arkalyk
+clics-doculect-10-856,noga1249-std,concepticon-1132,7.55,тартпы,beam,tartpy
+clics-doculect-10-857,noga1249-std,concepticon-1132,7.55,созбааркалык,beam,sozbaarkalyk
+clics-doculect-10-858,noga1249-std,concepticon-281,7.56,багана,"post, pole",bagana
+clics-doculect-10-859,noga1249-std,concepticon-281,7.56,столб,"post, pole",stolb
+clics-doculect-10-860,noga1249-std,concepticon-1227,7.57,такта,board,takta
+clics-doculect-10-861,noga1249-std,concepticon-876,7.58,арка,arch,arka
+clics-doculect-10-862,noga1249-std,concepticon-877,7.61,тасуста,mason,tasusta
+clics-doculect-10-863,noga1249-std,concepticon-1006,7.62,кербиш,brick,kerbish
+clics-doculect-10-864,noga1249-std,concepticon-224,7.63,йибитилген,mortar,iibitilgen
+clics-doculect-10-865,noga1249-std,concepticon-224,7.63,кириш,mortar,kirish
+clics-doculect-10-866,noga1249-std,concepticon-901,7.64,балшыкуьй,adobe,balshyku'i
+clics-doculect-10-867,noga1249-std,concepticon-901,7.64,самануьи,adobe,samanu'i
+clics-doculect-10-868,noga1249-std,concepticon-979,8.11,фермер,farmer,fermer
+clics-doculect-10-869,noga1249-std,concepticon-212,8.12,данъыл,field (for cultivation),dan'yl
+clics-doculect-10-870,noga1249-std,concepticon-212,8.12,кыр,field (for cultivation),kyr
+clics-doculect-10-871,noga1249-std,concepticon-212,8.12,авлак,field (for cultivation),avlak
+clics-doculect-10-872,noga1249-std,concepticon-212,8.12,дала,field (for cultivation),dala
+clics-doculect-10-873,noga1249-std,concepticon-586,8.13,бав,garden,bav
+clics-doculect-10-874,noga1249-std,concepticon-1541,8.15,ердиислетуьв,"cultivate, till",erdiisletu'v
+clics-doculect-10-875,noga1249-std,concepticon-1690,8.16,кара,fence,kara
+clics-doculect-10-876,noga1249-std,concepticon-1690,8.16,азбар,fence,azbar
+clics-doculect-10-877,noga1249-std,concepticon-2002,8.17,эндек,ditch,endek
+clics-doculect-10-878,noga1249-std,concepticon-2002,8.17,шунъкыр,ditch,shun'kyr
+clics-doculect-10-879,noga1249-std,concepticon-2002,8.17,ор,ditch,or
+clics-doculect-10-880,noga1249-std,concepticon-1921,8.21,ерайдав,plow,eraidav
+clics-doculect-10-881,noga1249-std,concepticon-1921,8.21,сабанайдав,plow,sabanaidav
+clics-doculect-10-882,noga1249-std,concepticon-1794,8.212,сабанлык,furrow,sabanlyk
+clics-doculect-10-883,noga1249-std,concepticon-1794,8.212,баразна,furrow,barazna
+clics-doculect-10-884,noga1249-std,concepticon-1794,8.212,айдалганер,furrow,aidalganer
+clics-doculect-10-885,noga1249-std,concepticon-1418,8.22,казув,dig,kazuv
+clics-doculect-10-886,noga1249-std,concepticon-1176,8.23,казгыр,spade,kazgyr
+clics-doculect-10-887,noga1249-std,concepticon-1901,8.24,казгыр,shovel,kazgyr
+clics-doculect-10-888,noga1249-std,concepticon-1901,8.24,саьвек,shovel,sa'vek
+clics-doculect-10-889,noga1249-std,concepticon-284,8.25,маьтик,hoe,ma'tik
+clics-doculect-10-890,noga1249-std,concepticon-284,8.25,шапкы,hoe,shapky
+clics-doculect-10-891,noga1249-std,concepticon-337,8.26,сис,fork,sis
+clics-doculect-10-892,noga1249-std,concepticon-337,8.26,сенек,fork,senek
+clics-doculect-10-893,noga1249-std,concepticon-338,8.27,тырнавгыш,rake,tyrnavgysh
+clics-doculect-10-894,noga1249-std,concepticon-1351,8.31,шашмак,sow,shashmak
+clics-doculect-10-895,noga1249-std,concepticon-1351,8.31,шашув,sow,shashuv
+clics-doculect-10-896,noga1249-std,concepticon-714,8.311,урлык,seed,urlyk
+clics-doculect-10-897,noga1249-std,concepticon-190,8.32,шалув,"mow, reap",shaluv
+clics-doculect-10-898,noga1249-std,concepticon-190,8.32,орув,"mow, reap",oruv
+clics-doculect-10-899,noga1249-std,concepticon-2132,8.33,орак,"sickle, scythe",orak
+clics-doculect-10-900,noga1249-std,concepticon-2132,8.33,шалгы,"sickle, scythe",shalgy
+clics-doculect-10-901,noga1249-std,concepticon-285,8.34,бастырув,thresh,bastyruv
+clics-doculect-10-902,noga1249-std,concepticon-223,8.35,ындыр,threshing-floor,yndyr
+clics-doculect-10-903,noga1249-std,concepticon-611,8.41,аслык,"crop, harvest",aslyk
+clics-doculect-10-904,noga1249-std,concepticon-605,8.42,ас,"grain (barley, oats etc)",as
+clics-doculect-10-905,noga1249-std,concepticon-605,8.42,туьйир,"grain (barley, oats etc)",tu'iir
+clics-doculect-10-906,noga1249-std,concepticon-605,8.42,буьртик,"grain (barley, oats etc)",bu'rtik
+clics-doculect-10-907,noga1249-std,concepticon-605,8.42,аслык,"grain (barley, oats etc)",aslyk
+clics-doculect-10-908,noga1249-std,concepticon-1077,8.43,бийдай,wheat,biidai
+clics-doculect-10-909,noga1249-std,concepticon-932,8.44,арпа,barley,arpa
+clics-doculect-10-910,noga1249-std,concepticon-23,8.45,карабийдай,rye,karabiidai
+clics-doculect-10-911,noga1249-std,concepticon-23,8.45,арыс,rye,arys
+clics-doculect-10-912,noga1249-std,concepticon-60,8.46,сулы,oats,suly
+clics-doculect-10-913,noga1249-std,concepticon-506,8.47,наьртуьк,"maize, corn",na'rtu'k
+clics-doculect-10-914,noga1249-std,concepticon-506,8.47,аьжибийдай,"maize, corn",a'zhibiidai
+clics-doculect-10-915,noga1249-std,concepticon-926,8.48,дуьги,rice,du'gi
+clics-doculect-10-916,noga1249-std,concepticon-606,8.51,оьлен,grass,o'len
+clics-doculect-10-917,noga1249-std,concepticon-606,8.51,от,grass,ot
+clics-doculect-10-918,noga1249-std,concepticon-342,8.52,пишен,hay,pishen
+clics-doculect-10-919,noga1249-std,concepticon-653,8.53,оьсимлик,plant (noun),o'simlik
+clics-doculect-10-920,noga1249-std,concepticon-1486,8.531,оьстируьв,plant (vb),o'stiru'v
+clics-doculect-10-921,noga1249-std,concepticon-670,8.54,тамыр,root,tamyr
+clics-doculect-10-922,noga1249-std,concepticon-1531,8.55,бутак,branch,butak
+clics-doculect-10-923,noga1249-std,concepticon-628,8.56,йапырак,leaf,iapyrak
+clics-doculect-10-924,noga1249-std,concepticon-239,8.57,шешекей,flower,sheshekei
+clics-doculect-10-925,noga1249-std,concepticon-239,8.57,гуьл,flower,gu'l
+clics-doculect-10-926,noga1249-std,concepticon-906,8.6,терек,tree,terek
+clics-doculect-10-927,noga1249-std,concepticon-644,8.61,эмен,oak,emen
+clics-doculect-10-928,noga1249-std,concepticon-1950,8.62,бик,beech,bik
+clics-doculect-10-929,noga1249-std,concepticon-1855,8.63,кайын,birch,kaiyn
+clics-doculect-10-930,noga1249-std,concepticon-1740,8.64,карагай,pine,karagai
+clics-doculect-10-931,noga1249-std,concepticon-1915,8.65,шыршымайкарагай,fir,shyrshymaikaragai
+clics-doculect-10-932,noga1249-std,concepticon-1915,8.65,пихта,fir,pikhta
+clics-doculect-10-933,noga1249-std,concepticon-1915,8.65,карагаитерек,fir,karagaiterek
+clics-doculect-10-934,noga1249-std,concepticon-968,8.66,эмен,acorn,emen
+clics-doculect-10-935,noga1249-std,concepticon-968,8.66,шетлевик,acorn,shetlevik
+clics-doculect-10-936,noga1249-std,concepticon-343,8.67,йузим,vine,iuzim
+clics-doculect-10-937,noga1249-std,concepticon-343,8.67,талшыбыгы,vine,talshybygy
+clics-doculect-10-938,noga1249-std,concepticon-974,8.68,таьмеке,tobacco,ta'meke
+clics-doculect-10-939,noga1249-std,concepticon-1689,8.69,таьмекетуьтин,smoke (tobacco),ta'meketu'tin
+clics-doculect-10-940,noga1249-std,concepticon-1124,8.691,уьлле,pipe,u'lle
+clics-doculect-10-941,noga1249-std,concepticon-241,8.72,кукурт,tree stump,kukurt
+clics-doculect-10-942,noga1249-std,concepticon-241,8.72,туьбир,tree stump,tu'bir
+clics-doculect-10-943,noga1249-std,concepticon-241,8.72,теректуьп,tree stump,terektu'p
+clics-doculect-10-944,noga1249-std,concepticon-344,8.73,терекбутагы,tree trunk,terekbutagy
+clics-doculect-10-945,noga1249-std,concepticon-344,8.73,теректинькевдеси,tree trunk,terektin'kevdesi
+clics-doculect-10-946,noga1249-std,concepticon-409,8.74,бутакайыры,forked branch,butakaiyry
+clics-doculect-10-947,noga1249-std,concepticon-1204,8.75,кабык,bark,kabyk
+clics-doculect-10-948,noga1249-std,concepticon-345,8.76,оьсимликтинъсувы,sap,o'simliktin'suvy
+clics-doculect-10-949,noga1249-std,concepticon-1181,8.81,пальма,palm tree,pal'ma
+clics-doculect-10-950,noga1249-std,concepticon-970,8.82,кокос,coconut,kokos
+clics-doculect-10-951,noga1249-std,concepticon-1126,8.83,цитрусемис,citrus fruit,tsitrusemis
+clics-doculect-10-952,noga1249-std,concepticon-868,8.84,банантерек,banana tree,bananterek
+clics-doculect-10-953,noga1249-std,concepticon-411,8.93,кабак,gourd,kabak
+clics-doculect-10-954,noga1249-std,concepticon-864,8.931,кабак,"pumpkin, squash",kabak
+clics-doculect-10-955,noga1249-std,concepticon-1927,8.94,бамбук,bamboo,bambuk
+clics-doculect-10-956,noga1249-std,concepticon-1927,8.94,наркамыс,bamboo,narkamys
+clics-doculect-10-957,noga1249-std,concepticon-146,8.941,балгамыс,sugar cane,balgamys
+clics-doculect-10-958,noga1249-std,concepticon-33,8.97,кышыткын,nettle,kyshytkyn
+clics-doculect-10-959,noga1249-std,concepticon-641,8.98,шайтанкулак,mushroom,shaitankulak
+clics-doculect-10-960,noga1249-std,concepticon-2575,9.11,этуьв,"do, make",etu'v
+clics-doculect-10-961,noga1249-std,concepticon-984,9.12,ис,work,is
+clics-doculect-10-962,noga1249-std,concepticon-984,9.12,куллык,work,kullyk
+clics-doculect-10-963,noga1249-std,concepticon-2004,9.14,буьклев,bend,bu'klev
+clics-doculect-10-964,noga1249-std,concepticon-2004,9.14,кайтарув,bend,kaitaruv
+clics-doculect-10-965,noga1249-std,concepticon-1470,9.15,буьклев,fold,bu'klev
+clics-doculect-10-966,noga1249-std,concepticon-1470,9.15,йыйыстырыпсалув,fold,iyiystyrypsaluv
+clics-doculect-10-967,noga1249-std,concepticon-1917,9.16,байлав,"tie, bind",bailav
+clics-doculect-10-968,noga1249-std,concepticon-352,9.161,шешуьв,untie,sheshu'v
+clics-doculect-10-969,noga1249-std,concepticon-1627,9.18,шынжыр,chain,shynzhyr
+clics-doculect-10-970,noga1249-std,concepticon-1218,9.19,йип,"rope, cord",iip
+clics-doculect-10-971,noga1249-std,concepticon-760,9.192,туьйик,knot (noun),tu'iik
+clics-doculect-10-972,noga1249-std,concepticon-2133,9.21,урмак,"strike (hit, beat)",urmak
+clics-doculect-10-973,noga1249-std,concepticon-2133,9.21,тоьбелев,"strike (hit, beat)",to'belev
+clics-doculect-10-974,noga1249-std,concepticon-2133,9.21,урув,"strike (hit, beat)",uruv
+clics-doculect-10-975,noga1249-std,concepticon-2133,9.21,согув,"strike (hit, beat)",soguv
+clics-doculect-10-976,noga1249-std,concepticon-354,9.211,йумырыкпанурув,pound with fist,iumyrykpanuruv
+clics-doculect-10-977,noga1249-std,concepticon-354,9.211,кагув,pound with fist,kaguv
+clics-doculect-10-978,noga1249-std,concepticon-1432,9.22,кесуьв,cut,kesu'v
+clics-doculect-10-979,noga1249-std,concepticon-355,9.221,кыскартув,cut down,kyskartuv
+clics-doculect-10-980,noga1249-std,concepticon-155,9.222,кесуьв,"chop, hew",kesu'v
+clics-doculect-10-981,noga1249-std,concepticon-155,9.222,туврав,"chop, hew",tuvrav
+clics-doculect-10-982,noga1249-std,concepticon-155,9.222,йарув,"chop, hew",iaruv
+clics-doculect-10-983,noga1249-std,concepticon-1434,9.223,шаншув,stab,shanshuv
+clics-doculect-10-984,noga1249-std,concepticon-1434,9.223,сугув,stab,suguv
+clics-doculect-10-985,noga1249-std,concepticon-1352,9.23,пышак,knife,pyshak
+clics-doculect-10-986,noga1249-std,concepticon-356,9.24,конышы,"scissors, shears",konyshy
+clics-doculect-10-987,noga1249-std,concepticon-677,9.25,балта,ax,balta
+clics-doculect-10-988,noga1249-std,concepticon-680,9.26,сындырув,break,syndyruv
+clics-doculect-10-989,noga1249-std,concepticon-680,9.26,бузув,break,buzuv
+clics-doculect-10-990,noga1249-std,concepticon-588,9.261,сынган,broken,syngan
+clics-doculect-10-991,noga1249-std,concepticon-588,9.261,бузылган,broken,buzylgan
+clics-doculect-10-992,noga1249-std,concepticon-1437,9.27,йарув,split,iaruv
+clics-doculect-10-993,noga1249-std,concepticon-1437,9.27,уватув,split,uvatuv
+clics-doculect-10-994,noga1249-std,concepticon-1735,9.28,йыртув,tear,iyrtuv
+clics-doculect-10-995,noga1249-std,concepticon-1735,9.28,уьзуьв,tear,u'zu'v
+clics-doculect-10-996,noga1249-std,concepticon-291,9.29,терисыдырув,"flay, skin",terisydyruv
+clics-doculect-10-997,noga1249-std,concepticon-1449,9.31,сыпырув,"rub, wipe",sypyruv
+clics-doculect-10-998,noga1249-std,concepticon-1449,9.31,суьртуьв,"rub, wipe",su'rtu'v
+clics-doculect-10-999,noga1249-std,concepticon-1449,9.31,ысыптайдырув,"rub, wipe",ysyptaidyruv
+clics-doculect-10-1000,noga1249-std,concepticon-214,9.32,тартув,stretch,tartuv
+clics-doculect-10-1001,noga1249-std,concepticon-1455,9.33,тартув,pull,tartuv
+clics-doculect-10-1002,noga1249-std,concepticon-38,9.34,йайув,spread out,iaiuv
+clics-doculect-10-1003,noga1249-std,concepticon-38,9.34,кенъейтув,spread out,ken'eituv
+clics-doculect-10-1004,noga1249-std,concepticon-38,9.34,кенъейув,spread out,ken'eiuv
+clics-doculect-10-1005,noga1249-std,concepticon-357,9.341,илуьв,hang up,ilu'v
+clics-doculect-10-1006,noga1249-std,concepticon-357,9.341,кыстырув,hang up,kystyruv
+clics-doculect-10-1007,noga1249-std,concepticon-1913,9.342,кысув,press,kysuv
+clics-doculect-10-1008,noga1249-std,concepticon-1913,9.342,басув,press,basuv
+clics-doculect-10-1009,noga1249-std,concepticon-1414,9.343,сыгув,"squeeze, wring",syguv
+clics-doculect-10-1010,noga1249-std,concepticon-1487,9.35,куйув,pour,kuiuv
+clics-doculect-10-1011,noga1249-std,concepticon-1487,9.35,тоьгуьв,pour,to'gu'v
+clics-doculect-10-1012,noga1249-std,concepticon-1487,9.35,куйув,pour,kuiuv
+clics-doculect-10-1013,noga1249-std,concepticon-1453,9.36,йувмак,wash,iuvmak
+clics-doculect-10-1014,noga1249-std,concepticon-1453,9.36,йувув,wash,iuvuv
+clics-doculect-10-1015,noga1249-std,concepticon-230,9.37,сыпырув,sweep,sypyruv
+clics-doculect-10-1016,noga1249-std,concepticon-245,9.38,сыпыргыш,broom,sypyrgysh
+clics-doculect-10-1017,noga1249-std,concepticon-1361,9.422,алат,tool,alat
+clics-doculect-10-1018,noga1249-std,concepticon-1361,9.422,курал,tool,kural
+clics-doculect-10-1019,noga1249-std,concepticon-1042,9.43,агаш,carpenter,agash
+clics-doculect-10-1020,noga1249-std,concepticon-1042,9.43,уста,carpenter,usta
+clics-doculect-10-1021,noga1249-std,concepticon-1840,9.44,туьзуьв,build,tu'zu'v
+clics-doculect-10-1022,noga1249-std,concepticon-1840,9.44,курув,build,kuruv
+clics-doculect-10-1023,noga1249-std,concepticon-1840,9.44,калав,build,kalav
+clics-doculect-10-1024,noga1249-std,concepticon-1501,9.46,тесик,bore,tesik
+clics-doculect-10-1025,noga1249-std,concepticon-46,9.461,тесуьв,hollow out,tesu'v
+clics-doculect-10-1026,noga1249-std,concepticon-46,9.461,ойув,hollow out,oiuv
+clics-doculect-10-1027,noga1249-std,concepticon-46,9.461,казув,hollow out,kazuv
+clics-doculect-10-1028,noga1249-std,concepticon-46,9.461,унъуьв,hollow out,un'u'v
+clics-doculect-10-1029,noga1249-std,concepticon-1948,9.48,пышкы,saw,pyshky
+clics-doculect-10-1030,noga1249-std,concepticon-1481,9.49,шоькиш,hammer,sho'kish
+clics-doculect-10-1031,noga1249-std,concepticon-502,9.5,мык,nail,myk
+clics-doculect-10-1032,noga1249-std,concepticon-1069,9.56,клей,glue,klei
+clics-doculect-10-1033,noga1249-std,concepticon-1069,9.56,елим,glue,elim
+clics-doculect-10-1034,noga1249-std,concepticon-1001,9.6,темирши,"smith, blacksmith",temirshi
+clics-doculect-10-1035,noga1249-std,concepticon-288,9.61,темируьй,forge,temiru'i
+clics-doculect-10-1036,noga1249-std,concepticon-1648,9.62,сандал,anvil,sandal
+clics-doculect-10-1037,noga1249-std,concepticon-1648,9.62,таптавыштемири,anvil,taptavyshtemiri
+clics-doculect-10-1038,noga1249-std,concepticon-211,9.63,кепкекуйув,cast (metals),kepkekuiuv
+clics-doculect-10-1039,noga1249-std,concepticon-1369,9.64,алтын,gold,altyn
+clics-doculect-10-1040,noga1249-std,concepticon-759,9.65,куьмис,silver,ku'mis
+clics-doculect-10-1041,noga1249-std,concepticon-1825,9.66,ез,"copper, bronze",ez
+clics-doculect-10-1042,noga1249-std,concepticon-1825,9.66,бакир,"copper, bronze",bakir
+clics-doculect-10-1043,noga1249-std,concepticon-621,9.67,темир,iron,temir
+clics-doculect-10-1044,noga1249-std,concepticon-627,9.68,коргай,lead (noun),korgai
+clics-doculect-10-1045,noga1249-std,concepticon-627,9.68,коргасын,lead (noun),korgasyn
+clics-doculect-10-1046,noga1249-std,concepticon-358,9.69,телетин,"tin, tinplate",teletin
+clics-doculect-10-1047,noga1249-std,concepticon-358,9.69,калай,"tin, tinplate",kalai
+clics-doculect-10-1048,noga1249-std,concepticon-359,9.71,балшыктансавытсабакэтетагануста,potter,balshyktansavytsabaketetaganusta
+clics-doculect-10-1049,noga1249-std,concepticon-289,9.72,кеплев,mold (clay etc),keplev
+clics-doculect-10-1050,noga1249-std,concepticon-289,9.72,кебинекелтируьв,mold (clay etc),kebinekeltiru'v
+clics-doculect-10-1051,noga1249-std,concepticon-1399,9.73,балшык,clay,balshyk
+clics-doculect-10-1052,noga1249-std,concepticon-604,9.74,сисе,glass,sise
+clics-doculect-10-1053,noga1249-std,concepticon-1729,9.75,согув,"weave, plait",soguv
+clics-doculect-10-1054,noga1249-std,concepticon-1729,9.75,тигуьв,"weave, plait",tigu'v
+clics-doculect-10-1055,noga1249-std,concepticon-1539,9.76,корзина,basket,korzina
+clics-doculect-10-1056,noga1249-std,concepticon-1539,9.76,шетен,basket,sheten
+clics-doculect-10-1057,noga1249-std,concepticon-195,9.77,шыпта,mat,shypta
+clics-doculect-10-1058,noga1249-std,concepticon-292,9.771,куьйиз,rug,ku'iiz
+clics-doculect-10-1059,noga1249-std,concepticon-292,9.771,калше,rug,kalshe
+clics-doculect-10-1060,noga1249-std,concepticon-292,9.771,калша,rug,kalsha
+clics-doculect-10-1061,noga1249-std,concepticon-293,9.78,шелтекдорба,netbag,sheltekdorba
+clics-doculect-10-1062,noga1249-std,concepticon-1971,9.79,елпивиш,fan (noun),elpivish
+clics-doculect-10-1063,noga1249-std,concepticon-1971,9.79,вентилйатор,fan (noun),ventiliator
+clics-doculect-10-1064,noga1249-std,concepticon-360,9.791,йанъыртув,fan (vb),ian'yrtuv
+clics-doculect-10-1065,noga1249-std,concepticon-360,9.791,елйиберуьв,fan (vb),eliiberu'v
+clics-doculect-10-1066,noga1249-std,concepticon-360,9.791,елпивишпенелэтуьв,fan (vb),elpivishpeneletu'v
+clics-doculect-10-1067,noga1249-std,concepticon-228,9.81,кесипалув,carve,kesipaluv
+clics-doculect-10-1068,noga1249-std,concepticon-914,9.82,скульптор,sculptor,skul'ptor
+clics-doculect-10-1069,noga1249-std,concepticon-1002,9.83,тассуьврет,statue,tassu'vret
+clics-doculect-10-1070,noga1249-std,concepticon-1002,9.83,статуйа,statue,statuia
+clics-doculect-10-1071,noga1249-std,concepticon-1979,9.84,кескиш,chisel,keskish
+clics-doculect-10-1072,noga1249-std,concepticon-1979,9.84,долото,chisel,doloto
+clics-doculect-10-1073,noga1249-std,concepticon-647,9.88,сыр,paint (noun),syr
+clics-doculect-10-1074,noga1249-std,concepticon-647,9.88,бойак,paint (noun),boiak
+clics-doculect-10-1075,noga1249-std,concepticon-2001,9.89,бойав,paint (vb),boiav
+clics-doculect-10-1076,noga1249-std,concepticon-2001,9.89,сырлав,paint (vb),syrlav
+clics-doculect-10-1077,noga1249-std,concepticon-2001,9.89,суьвретйасав,paint (vb),su'vretiasav
+clics-doculect-10-1078,noga1249-std,concepticon-765,10.11,коралув,move,koraluv
+clics-doculect-10-1079,noga1249-std,concepticon-765,10.11,йыбырдав,move,iybyrdav
+clics-doculect-10-1080,noga1249-std,concepticon-765,10.11,йуруьв,move,iuru'v
+clics-doculect-10-1081,noga1249-std,concepticon-1588,10.12,айланув,turn over,ailanuv
+clics-doculect-10-1082,noga1249-std,concepticon-1588,10.12,авдарылынув,turn over,avdarylynuv
+clics-doculect-10-1083,noga1249-std,concepticon-1445,10.13,ашынлйув,turn around,ashynliuv
+clics-doculect-10-1084,noga1249-std,concepticon-827,10.15,айландырув,roll,ailandyruv
+clics-doculect-10-1085,noga1249-std,concepticon-827,10.15,тоьгерекайландырув,roll,to'gerekailandyruv
+clics-doculect-10-1086,noga1249-std,concepticon-808,10.16,тамдырув,drop (vb),tamdyruv
+clics-doculect-10-1087,noga1249-std,concepticon-808,10.16,тамув,drop (vb),tamuv
+clics-doculect-10-1088,noga1249-std,concepticon-430,10.17,бурув,twist,buruv
+clics-doculect-10-1089,noga1249-std,concepticon-430,10.17,орав,twist,orav
+clics-doculect-10-1090,noga1249-std,concepticon-568,10.21,коьтерилуьв,rise,ko'terilu'v
+clics-doculect-10-1091,noga1249-std,concepticon-568,10.21,оьрленуьв,rise,o'rlenu'v
+clics-doculect-10-1092,noga1249-std,concepticon-501,10.22,коьтеруьв,"raise, lift",ko'teru'v
+clics-doculect-10-1093,noga1249-std,concepticon-1280,10.23,туьсуьв,fall,tu'su'v
+clics-doculect-10-1094,noga1249-std,concepticon-1280,10.23,йыгылув,fall,iygyluv
+clics-doculect-10-1095,noga1249-std,concepticon-2253,10.24,тамшылаптуьсуьв,drip,tamshylaptu'su'v
+clics-doculect-10-1096,noga1249-std,concepticon-2253,10.24,тамув,drip,tamuv
+clics-doculect-10-1097,noga1249-std,concepticon-1456,10.25,таслав,throw,taslav
+clics-doculect-10-1098,noga1249-std,concepticon-1456,10.25,атув,throw,atuv
+clics-doculect-10-1099,noga1249-std,concepticon-702,10.252,ыслав,catch (ball),yslav
+clics-doculect-10-1100,noga1249-std,concepticon-1909,10.26,силкуьв,shake,silku'v
+clics-doculect-10-1101,noga1249-std,concepticon-1909,10.26,козгав,shake,kozgav
+clics-doculect-10-1102,noga1249-std,concepticon-2003,10.32,тоьгулуьв,flow,to'gulu'v
+clics-doculect-10-1103,noga1249-std,concepticon-2003,10.32,агув,flow,aguv
+clics-doculect-10-1104,noga1249-std,concepticon-2003,10.32,куйылув,flow,kuiyluv
+clics-doculect-10-1105,noga1249-std,concepticon-1088,10.33,сувга,sink,suvga
+clics-doculect-10-1106,noga1249-std,concepticon-1088,10.33,батув,sink,batuv
+clics-doculect-10-1107,noga1249-std,concepticon-1088,10.33,коьмилуьв,sink,ko'milu'v
+clics-doculect-10-1108,noga1249-std,concepticon-1088,10.33,йутылув,sink,iutyluv
+clics-doculect-10-1109,noga1249-std,concepticon-1574,10.34,йузуьв,float,iuzu'v
+clics-doculect-10-1110,noga1249-std,concepticon-1574,10.34,йалдав,float,ialdav
+clics-doculect-10-1111,noga1249-std,concepticon-1439,10.35,йалдав,swim,ialdav
+clics-doculect-10-1112,noga1249-std,concepticon-119,10.351,йузуьв,dive,iuzu'v
+clics-doculect-10-1113,noga1249-std,concepticon-365,10.352,сувдашаркылдантурув,splash,suvdasharkyldanturuv
+clics-doculect-10-1114,noga1249-std,concepticon-787,10.36,елкендийайыпбарув,sail (vb),elkendiiaiypbaruv
+clics-doculect-10-1115,noga1249-std,concepticon-1441,10.37,ушув,fly (vb),ushuv
+clics-doculect-10-1116,noga1249-std,concepticon-175,10.38,уьпируьв,blow,u'piru'v
+clics-doculect-10-1117,noga1249-std,concepticon-96,10.41,эмеклев,"creep, crawl",emeklev
+clics-doculect-10-1118,noga1249-std,concepticon-96,10.41,йалдапбарув,"creep, crawl",ialdapbaruv
+clics-doculect-10-1119,noga1249-std,concepticon-66,10.412,тизгетурув,kneel,tizgeturuv
+clics-doculect-10-1120,noga1249-std,concepticon-66,10.412,шоьгуьв,kneel,sho'gu'v
+clics-doculect-10-1121,noga1249-std,concepticon-296,10.413,шоьнъкейуьв,crouch,sho'n'keiu'v
+clics-doculect-10-1122,noga1249-std,concepticon-1324,10.42,сыргалав,"slide, slip",syrgalav
+clics-doculect-10-1123,noga1249-std,concepticon-1324,10.42,тайысув,"slide, slip",taiysuv
+clics-doculect-10-1124,noga1249-std,concepticon-1829,10.43,кыргув,"jump, leap",kyrguv
+clics-doculect-10-1125,noga1249-std,concepticon-1135,10.431,тебуьв,kick,tebu'v
+clics-doculect-10-1126,noga1249-std,concepticon-1879,10.44,бийуьв,dance,biiu'v
+clics-doculect-10-1127,noga1249-std,concepticon-1879,10.44,бийув,dance,biiuv
+clics-doculect-10-1128,noga1249-std,concepticon-1443,10.45,йуруьв,walk,iuru'v
+clics-doculect-10-1129,noga1249-std,concepticon-366,10.451,аксакламак,limp,aksaklamak
+clics-doculect-10-1130,noga1249-std,concepticon-366,10.451,аксанълав,limp,aksan'lav
+clics-doculect-10-1131,noga1249-std,concepticon-1519,10.46,кашув,run,kashuv
+clics-doculect-10-1132,noga1249-std,concepticon-695,10.47,йурипбарув,go,iuripbaruv
+clics-doculect-10-1133,noga1249-std,concepticon-695,10.47,йуруьв,go,iuru'v
+clics-doculect-10-1134,noga1249-std,concepticon-705,10.471,коьтерилуьв,go up,ko'terilu'v
+clics-doculect-10-1135,noga1249-std,concepticon-705,10.471,оьрленуьв,go up,o'rlenu'v
+clics-doculect-10-1136,noga1249-std,concepticon-1102,10.472,минуьв,climb,minu'v
+clics-doculect-10-1137,noga1249-std,concepticon-1102,10.472,коьтерилинуьв,climb,ko'terilinu'v
+clics-doculect-10-1138,noga1249-std,concepticon-2014,10.473,туьсуьв,go down,tu'su'v
+clics-doculect-10-1139,noga1249-std,concepticon-2014,10.473,тоьментейуруьв,go down,to'menteiuru'v
+clics-doculect-10-1140,noga1249-std,concepticon-1107,10.474,шыгув,go out,shyguv
+clics-doculect-10-1141,noga1249-std,concepticon-1446,10.48,келуьв,come,kelu'v
+clics-doculect-10-1142,noga1249-std,concepticon-1446,10.48,йувыклав,come,iuvyklav
+clics-doculect-10-1143,noga1249-std,concepticon-581,10.481,кайтув,come back,kaituv
+clics-doculect-10-1144,noga1249-std,concepticon-581,10.481,келуьв,come back,kelu'v
+clics-doculect-10-1145,noga1249-std,concepticon-1752,10.49,кетуьв,"go away, depart",ketu'v
+clics-doculect-10-1146,noga1249-std,concepticon-485,10.491,йокболув,disappear,iokboluv
+clics-doculect-10-1147,noga1249-std,concepticon-956,10.51,кашув,flee,kashuv
+clics-doculect-10-1148,noga1249-std,concepticon-956,10.51,кашыпкутылув,flee,kashypkutyluv
+clics-doculect-10-1149,noga1249-std,concepticon-1085,10.52,артыннанбарув,follow,artynnanbaruv
+clics-doculect-10-1150,noga1249-std,concepticon-1085,10.52,иеруьв,follow,ieru'v
+clics-doculect-10-1151,noga1249-std,concepticon-1085,10.52,йуруьв,follow,iuru'v
+clics-doculect-10-1152,noga1249-std,concepticon-1047,10.53,артыннанкувынбарув,pursue,artynnankuvynbaruv
+clics-doculect-10-1153,noga1249-std,concepticon-1047,10.53,кыйкав,pursue,kyikav
+clics-doculect-10-1154,noga1249-std,concepticon-1387,10.55,етуьв,"reach, arrive",etu'v
+clics-doculect-10-1155,noga1249-std,concepticon-1387,10.55,келуьв,"reach, arrive",kelu'v
+clics-doculect-10-1156,noga1249-std,concepticon-1778,10.56,йувыклав,approach,iuvyklav
+clics-doculect-10-1157,noga1249-std,concepticon-1778,10.56,йанасув,approach,ianasuv
+clics-doculect-10-1158,noga1249-std,concepticon-1778,10.56,келуьв,approach,kelu'v
+clics-doculect-10-1159,noga1249-std,concepticon-749,10.57,кируьв,enter,kiru'v
+clics-doculect-10-1160,noga1249-std,concepticon-700,10.61,элтев,carry (bear),eltev
+clics-doculect-10-1161,noga1249-std,concepticon-700,10.61,алыпбарув,carry (bear),alypbaruv
+clics-doculect-10-1162,noga1249-std,concepticon-412,10.612,элтев,carry-in-hand,eltev
+clics-doculect-10-1163,noga1249-std,concepticon-412,10.612,колынаалыпбарув,carry-in-hand,kolynaalypbaruv
+clics-doculect-10-1164,noga1249-std,concepticon-413,10.613,элтев,carry-on-shoulder,eltev
+clics-doculect-10-1165,noga1249-std,concepticon-413,10.613,ийнинесалыпэлтев,carry-on-shoulder,iininesalypeltev
+clics-doculect-10-1166,noga1249-std,concepticon-414,10.614,элтев,carry-on-head,eltev
+clics-doculect-10-1167,noga1249-std,concepticon-414,10.614,басынасалыпэлтев,carry-on-head,basynasalypeltev
+clics-doculect-10-1168,noga1249-std,concepticon-415,10.615,койнынасалыпэлтев,carry-underarm,koinynasalypeltev
+clics-doculect-10-1169,noga1249-std,concepticon-692,10.62,аькелуьв,bring,a'kelu'v
+clics-doculect-10-1170,noga1249-std,concepticon-692,10.62,элтев,bring,eltev
+clics-doculect-10-1171,noga1249-std,concepticon-1127,10.63,йиберуьв,send,iiberu'v
+clics-doculect-10-1172,noga1249-std,concepticon-43,10.64,йуритуьв,lead (vb),iuritu'v
+clics-doculect-10-1173,noga1249-std,concepticon-43,10.64,алыпбарув,lead (vb),alypbaruv
+clics-doculect-10-1174,noga1249-std,concepticon-741,10.65,машиндебарув,drive,mashindebaruv
+clics-doculect-10-1175,noga1249-std,concepticon-741,10.65,кетуьв,drive,ketu'v
+clics-doculect-10-1176,noga1249-std,concepticon-741,10.65,кыдырув,drive,kydyruv
+clics-doculect-10-1177,noga1249-std,concepticon-367,10.66,аттакыдырув,ride,attakydyruv
+clics-doculect-10-1178,noga1249-std,concepticon-367,10.66,атлыбарув,ride,atlybaruv
+clics-doculect-10-1179,noga1249-std,concepticon-1452,10.67,ийтев,"push, shove",iitev
+clics-doculect-10-1180,noga1249-std,concepticon-1452,10.67,теберуьв,"push, shove",teberu'v
+clics-doculect-10-1181,noga1249-std,concepticon-667,10.71,йол,road,iol
+clics-doculect-10-1182,noga1249-std,concepticon-2252,10.72,сокпак,path,sokpak
+clics-doculect-10-1183,noga1249-std,concepticon-1011,10.74,коьпир,bridge,ko'pir
+clics-doculect-10-1184,noga1249-std,concepticon-1011,10.74,кешуьв,bridge,keshu'v
+clics-doculect-10-1185,noga1249-std,concepticon-122,10.75,арба,"carriage, wagon, cart",arba
+clics-doculect-10-1186,noga1249-std,concepticon-122,10.75,телеген,"carriage, wagon, cart",telegen
+clics-doculect-10-1187,noga1249-std,concepticon-710,10.76,тынъыршык,wheel,tyn'yrshyk
+clics-doculect-10-1188,noga1249-std,concepticon-1769,10.77,коьширагаш,axle,ko'shiragash
+clics-doculect-10-1189,noga1249-std,concepticon-14,10.78,мойса,yoke,moisa
+clics-doculect-10-1190,noga1249-std,concepticon-14,10.78,агашкамыт,yoke,agashkamyt
+clics-doculect-10-1191,noga1249-std,concepticon-14,10.78,эзуьв,yoke,ezu'v
+clics-doculect-10-1192,noga1249-std,concepticon-14,10.78,азап,yoke,azap
+clics-doculect-10-1193,noga1249-std,concepticon-740,10.81,кеме,ship,keme
+clics-doculect-10-1194,noga1249-std,concepticon-1844,10.83,кайык,boat,kaiyk
+clics-doculect-10-1195,noga1249-std,concepticon-1970,10.831,каноэ,canoe,kanoe
+clics-doculect-10-1196,noga1249-std,concepticon-1970,10.831,кайык,canoe,kaiyk
+clics-doculect-10-1197,noga1249-std,concepticon-1664,10.84,сал,raft,sal
+clics-doculect-10-1198,noga1249-std,concepticon-1664,10.84,плот,raft,plot
+clics-doculect-10-1199,noga1249-std,concepticon-108,10.85,эскек,oar,eskek
+clics-doculect-10-1200,noga1249-std,concepticon-108,10.85,калак,oar,kalak
+clics-doculect-10-1201,noga1249-std,concepticon-234,10.851,калак,paddle (noun),kalak
+clics-doculect-10-1202,noga1249-std,concepticon-234,10.851,эскек,paddle (noun),eskek
+clics-doculect-10-1203,noga1249-std,concepticon-1849,10.852,эскеклев,row (vb),eskeklev
+clics-doculect-10-1204,noga1249-std,concepticon-1849,10.852,йылов,row (vb),iylov
+clics-doculect-10-1205,noga1249-std,concepticon-1849,10.852,тырнав,row (vb),tyrnav
+clics-doculect-10-1206,noga1249-std,concepticon-108,10.86,руль,rudder,rul'
+clics-doculect-10-1207,noga1249-std,concepticon-184,10.87,мачта,mast,machta
+clics-doculect-10-1208,noga1249-std,concepticon-786,10.88,парус,sail (noun),parus
+clics-doculect-10-1209,noga1249-std,concepticon-786,10.88,йалкен,sail (noun),ialken
+clics-doculect-10-1210,noga1249-std,concepticon-1870,10.89,йакорʼ,anchor,iakor'
+clics-doculect-10-1211,noga1249-std,concepticon-610,10.91,гавань,"harbor, port",gavan'
+clics-doculect-10-1212,noga1249-std,concepticon-610,10.91,порт,"harbor, port",port
+clics-doculect-10-1213,noga1249-std,concepticon-1922,10.92,сувмагакелиптоктав,land (vb),suvmagakeliptoktav
+clics-doculect-10-1214,noga1249-std,concepticon-1922,10.92,ергетуьсуьв,land (vb),ergetu'su'v
+clics-doculect-10-1215,noga1249-std,concepticon-773,11.11,иеболув,have,ieboluv
+clics-doculect-10-1216,noga1249-std,concepticon-773,11.11,оьзиндебирзатсаклав,have,o'zindebirzatsaklav
+clics-doculect-10-1217,noga1249-std,concepticon-684,11.12,иеболув,"own, possess",ieboluv
+clics-doculect-10-1218,noga1249-std,concepticon-1749,11.13,алмак,take,almak
+clics-doculect-10-1219,noga1249-std,concepticon-1749,11.13,алув,take,aluv
+clics-doculect-10-1220,noga1249-std,concepticon-2021,11.14,ыслав,"seize, grasp",yslav
+clics-doculect-10-1221,noga1249-std,concepticon-2021,11.14,кагыныслав,"seize, grasp",kagynyslav
+clics-doculect-10-1222,noga1249-std,concepticon-1448,11.15,тутув,hold,tutuv
+clics-doculect-10-1223,noga1249-std,concepticon-1448,11.15,ыслаптурув,hold,yslapturuv
+clics-doculect-10-1224,noga1249-std,concepticon-694,11.16,алув,"get, obtain",aluv
+clics-doculect-10-1225,noga1249-std,concepticon-1477,11.17,саклав,"keep, retain",saklav
+clics-doculect-10-1226,noga1249-std,concepticon-738,11.18,зат,thing,zat
+clics-doculect-10-1227,noga1249-std,concepticon-1447,11.21,беруьв,give,beru'v
+clics-doculect-10-1228,noga1249-std,concepticon-85,11.22,кайтарув,give back,kaitaruv
+clics-doculect-10-1229,noga1249-std,concepticon-85,11.22,кайтарыпберуьв,give back,kaitarypberu'v
+clics-doculect-10-1230,noga1249-std,concepticon-1997,11.24,саклав,"preserve, look after",saklav
+clics-doculect-10-1231,noga1249-std,concepticon-2008,11.25,кутгармак,"save, rescue",kutgarmak
+clics-doculect-10-1232,noga1249-std,concepticon-2008,11.25,куткарув,"save, rescue",kutkaruv
+clics-doculect-10-1233,noga1249-std,concepticon-681,11.27,бузув,destroy,buzuv
+clics-doculect-10-1234,noga1249-std,concepticon-44,11.28,зыйакелтируьв,"harm, injure, damage",zyiakeltiru'v
+clics-doculect-10-1235,noga1249-std,concepticon-1468,11.31,излев,"seek, look for",izlev
+clics-doculect-10-1236,noga1249-std,concepticon-719,11.32,табув,find,tabuv
+clics-doculect-10-1237,noga1249-std,concepticon-1660,11.33,йокэтуьв,lose,ioketu'v
+clics-doculect-10-1238,noga1249-std,concepticon-1095,11.34,йиберуьв,"release, let go",iiberu'v
+clics-doculect-10-1239,noga1249-std,concepticon-1559,11.43,акша,money,aksha
+clics-doculect-10-1240,noga1249-std,concepticon-1867,11.44,акша,coin,aksha
+clics-doculect-10-1241,noga1249-std,concepticon-1867,11.44,маьнет,coin,ma'net
+clics-doculect-10-1242,noga1249-std,concepticon-712,11.51,бай,rich,bai
+clics-doculect-10-1243,noga1249-std,concepticon-1674,11.52,йарлы,poor,iarly
+clics-doculect-10-1244,noga1249-std,concepticon-1674,11.52,каьрип,poor,ka'rip
+clics-doculect-10-1245,noga1249-std,concepticon-1934,11.53,тиленши,beggar,tilenshi
+clics-doculect-10-1246,noga1249-std,concepticon-1934,11.53,йарлы,beggar,iarly
+clics-doculect-10-1247,noga1249-std,concepticon-1774,11.54,кызганыш,"avaricious, stingy",kyzganysh
+clics-doculect-10-1248,noga1249-std,concepticon-582,11.61,борышкаберуьв,lend,boryshkaberu'v
+clics-doculect-10-1249,noga1249-std,concepticon-1823,11.62,борышкаалув,borrow,boryshkaaluv
+clics-doculect-10-1250,noga1249-std,concepticon-369,11.63,борышлыболув,owe,boryshlyboluv
+clics-doculect-10-1251,noga1249-std,concepticon-1914,11.64,борыш,debt,borysh
+clics-doculect-10-1252,noga1249-std,concepticon-718,11.65,тоьлев,pay (vb),to'lev
+clics-doculect-10-1253,noga1249-std,concepticon-1081,11.66,эсап,"account, reckoning",esap
+clics-doculect-10-1254,noga1249-std,concepticon-1081,11.66,сан,"account, reckoning",san
+clics-doculect-10-1255,noga1249-std,concepticon-1081,11.66,счет,"account, reckoning",schet
+clics-doculect-10-1256,noga1249-std,concepticon-873,11.69,налог,"tax, tribute",nalog
+clics-doculect-10-1257,noga1249-std,concepticon-856,11.77,замангакулланмагаалув,hire,zamangakullanmagaaluv
+clics-doculect-10-1258,noga1249-std,concepticon-1122,11.78,кыйынак,wages,kyiynak
+clics-doculect-10-1259,noga1249-std,concepticon-733,11.79,ислептабув,earn,isleptabuv
+clics-doculect-10-1260,noga1249-std,concepticon-733,11.79,казанув,earn,kazanuv
+clics-doculect-10-1261,noga1249-std,concepticon-1869,11.81,сатыпалув,buy,satypaluv
+clics-doculect-10-1262,noga1249-std,concepticon-1571,11.82,сатув,sell,satuv
+clics-doculect-10-1263,noga1249-std,concepticon-2135,11.83,сатувалув,"trade, barter",satuvaluv
+clics-doculect-10-1264,noga1249-std,concepticon-2135,11.83,авыстырув,"trade, barter",avystyruv
+clics-doculect-10-1265,noga1249-std,concepticon-1082,11.84,купец,merchant,kupets
+clics-doculect-10-1266,noga1249-std,concepticon-1082,11.84,сатувшы,merchant,satuvshy
+clics-doculect-10-1267,noga1249-std,concepticon-633,11.85,базар,market (place),bazar
+clics-doculect-10-1268,noga1249-std,concepticon-752,11.86,туькен,"store, shop",tu'ken
+clics-doculect-10-1269,noga1249-std,concepticon-657,11.87,баа,price,baa
+clics-doculect-10-1270,noga1249-std,concepticon-1426,11.88,баа,"dear (costly, expensive)",baa
+clics-doculect-10-1271,noga1249-std,concepticon-1426,11.88,баалы,"dear (costly, expensive)",baaly
+clics-doculect-10-1272,noga1249-std,concepticon-1887,11.89,колай,cheap,kolai
+clics-doculect-10-1273,noga1249-std,concepticon-884,11.91,пайлав,share (distribute),pailav
+clics-doculect-10-1274,noga1249-std,concepticon-884,11.91,боьлипберуьв,share (distribute),bo'lipberu'v
+clics-doculect-10-1275,noga1249-std,concepticon-1098,11.92,шегуьв,weigh,shegu'v
+clics-doculect-10-1276,noga1249-std,concepticon-1685,12.1,сонъ,after,son'
+clics-doculect-10-1277,noga1249-std,concepticon-723,12.11,оннансонъ,place,onnanson'
+clics-doculect-10-1278,noga1249-std,concepticon-723,12.11,сонъ,place,son'
+clics-doculect-10-1279,noga1249-std,concepticon-1816,12.2,йанында,beside,ianynda
+clics-doculect-10-1280,noga1249-std,concepticon-1816,12.2,касында,beside,kasynda
+clics-doculect-10-1281,noga1249-std,concepticon-2094,12.3,тоьмен,"down, below",to'men
+clics-doculect-10-1282,noga1249-std,concepticon-2094,12.3,тоьменге,"down, below",to'menge
+clics-doculect-10-1283,noga1249-std,concepticon-1882,12.4,алды,before,aldy
+clics-doculect-10-1284,noga1249-std,concepticon-1882,12.4,алдын,before,aldyn
+clics-doculect-10-1285,noga1249-std,concepticon-1882,12.4,огадейим,before,ogadeiim
+clics-doculect-10-1286,noga1249-std,concepticon-1019,12.41,алды,right (side),aldy
+clics-doculect-10-1287,noga1249-std,concepticon-1606,12.5,ишинде,"inside, in",ishinde
+clics-doculect-10-1288,noga1249-std,concepticon-762,12.6,тысында,outside,tysynda
+clics-doculect-10-1289,noga1249-std,concepticon-762,12.6,кырында,outside,kyrynda
+clics-doculect-10-1290,noga1249-std,concepticon-1485,12.7,тоьмендеастында,under,to'mendeastynda
+clics-doculect-10-1291,noga1249-std,concepticon-1485,12.7,туьбинде,under,tu'binde
+clics-doculect-10-1292,noga1249-std,concepticon-1591,12.8,уьстинде,"up, above",u'stinde
+clics-doculect-10-1293,noga1249-std,concepticon-723,12.11,орын,place,oryn
+clics-doculect-10-1294,noga1249-std,concepticon-723,12.11,ер,place,er
+clics-doculect-10-1295,noga1249-std,concepticon-998,12.12,салмак,put,salmak
+clics-doculect-10-1296,noga1249-std,concepticon-998,12.12,салув,put,saluv
+clics-doculect-10-1297,noga1249-std,concepticon-1416,12.13,олтырув,sit,oltyruv
+clics-doculect-10-1298,noga1249-std,concepticon-215,12.14,йатмак,lie down,iatmak
+clics-doculect-10-1299,noga1249-std,concepticon-215,12.14,йатув,lie down,iatuv
+clics-doculect-10-1300,noga1249-std,concepticon-1442,12.15,турув,stand,turuv
+clics-doculect-10-1301,noga1249-std,concepticon-1442,12.15,турагалув,stand,turagaluv
+clics-doculect-10-1302,noga1249-std,concepticon-987,12.16,ериндекалув,"remain, stay",erindekaluv
+clics-doculect-10-1303,noga1249-std,concepticon-987,12.16,калув,"remain, stay",kaluv
+clics-doculect-10-1304,noga1249-std,concepticon-838,12.17,калдык,"remains, left overs",kaldyk
+clics-doculect-10-1305,noga1249-std,concepticon-838,12.17,калмтык,"remains, left overs",kalmtyk
+clics-doculect-10-1306,noga1249-std,concepticon-7,12.21,йыйув,"collect, gather",iyiuv
+clics-doculect-10-1307,noga1249-std,concepticon-7,12.21,йыйнав,"collect, gather",iyinav
+clics-doculect-10-1308,noga1249-std,concepticon-371,12.212,коьтеруьв,pick up,ko'teru'v
+clics-doculect-10-1309,noga1249-std,concepticon-371,12.212,коьтерипалув,pick up,ko'teripaluv
+clics-doculect-10-1310,noga1249-std,concepticon-1576,12.213,йыйнав,pile up,iyinav
+clics-doculect-10-1311,noga1249-std,concepticon-1576,12.213,тоьбетоьбеэтуьв,pile up,to'beto'beetu'v
+clics-doculect-10-1312,noga1249-std,concepticon-1576,12.213,уьстиуьстинесалув,pile up,u'stiu'stinesaluv
+clics-doculect-10-1313,noga1249-std,concepticon-1743,12.22,косув,"join, unite",kosuv
+clics-doculect-10-1314,noga1249-std,concepticon-1743,12.22,бирлестируьв,"join, unite",birlestiru'v
+clics-doculect-10-1315,noga1249-std,concepticon-1359,12.23,айырув,separate,aiyruv
+clics-doculect-10-1316,noga1249-std,concepticon-1359,12.23,боьлуьв,separate,bo'lu'v
+clics-doculect-10-1317,noga1249-std,concepticon-1119,12.232,боьлуьв,divide,bo'lu'v
+clics-doculect-10-1318,noga1249-std,concepticon-1119,12.232,кесеклев,divide,keseklev
+clics-doculect-10-1319,noga1249-std,concepticon-1156,12.24,ашув,open,ashuv
+clics-doculect-10-1320,noga1249-std,concepticon-1046,12.25,йабув,"shut, close",iabuv
+clics-doculect-10-1321,noga1249-std,concepticon-761,12.26,уьстинйабув,cover,u'stiniabuv
+clics-doculect-10-1322,noga1249-std,concepticon-602,12.27,тыгув,"hide, conceal",tyguv
+clics-doculect-10-1323,noga1249-std,concepticon-602,12.27,йасырув,"hide, conceal",iasyruv
+clics-doculect-10-1324,noga1249-std,concepticon-1265,12.31,бийик,high,biiik
+clics-doculect-10-1325,noga1249-std,concepticon-1265,12.31,бийикте,high,biiikte
+clics-doculect-10-1326,noga1249-std,concepticon-721,12.32,тоьмен,low,to'men
+clics-doculect-10-1327,noga1249-std,concepticon-1753,12.33,тоьбе,top,to'be
+clics-doculect-10-1328,noga1249-std,concepticon-1753,12.33,коьк,top,ko'k
+clics-doculect-10-1329,noga1249-std,concepticon-1753,12.33,бас,top,bas
+clics-doculect-10-1330,noga1249-std,concepticon-1753,12.33,шеке,top,sheke
+clics-doculect-10-1331,noga1249-std,concepticon-690,12.34,туьп,bottom,tu'p
+clics-doculect-10-1332,noga1249-std,concepticon-690,12.34,туьби,bottom,tu'bi
+clics-doculect-10-1333,noga1249-std,concepticon-690,12.34,асты,bottom,asty
+clics-doculect-10-1334,noga1249-std,concepticon-742,12.35,ызы,end,yzy
+clics-doculect-10-1335,noga1249-std,concepticon-742,12.35,арты,end,arty
+clics-doculect-10-1336,noga1249-std,concepticon-742,12.35,сонъы,end,son'y
+clics-doculect-10-1337,noga1249-std,concepticon-372,12.352,ушлы,pointed,ushly
+clics-doculect-10-1338,noga1249-std,concepticon-863,12.353,шети,edge,sheti
+clics-doculect-10-1339,noga1249-std,concepticon-863,12.353,йагы,edge,iagy
+clics-doculect-10-1340,noga1249-std,concepticon-682,12.36,йак,side,iak
+clics-doculect-10-1341,noga1249-std,concepticon-682,12.36,йагы,side,iagy
+clics-doculect-10-1342,noga1249-std,concepticon-682,12.36,бети,side,beti
+clics-doculect-10-1343,noga1249-std,concepticon-1093,12.37,ортасы,"middle, center",ortasy
+clics-doculect-10-1344,noga1249-std,concepticon-1093,12.37,орта,"middle, center",orta
+clics-doculect-10-1345,noga1249-std,concepticon-1019,12.41,онъ,right (side),on'
+clics-doculect-10-1346,noga1249-std,concepticon-244,12.42,сол,left (side),sol
+clics-doculect-10-1347,noga1249-std,concepticon-1942,12.43,йанында,near (adv),ianynda
+clics-doculect-10-1348,noga1249-std,concepticon-1942,12.43,касында,near (adv),kasynda
+clics-doculect-10-1349,noga1249-std,concepticon-1406,12.44,алыста,far (adv),alysta
+clics-doculect-10-1350,noga1249-std,concepticon-1406,12.44,узакта,far (adv),uzakta
+clics-doculect-10-1351,noga1249-std,concepticon-1877,12.45,куьнтувар,east,ku'ntuvar
+clics-doculect-10-1352,noga1249-std,concepticon-1817,12.46,куньбатар,west,kun'batar
+clics-doculect-10-1353,noga1249-std,concepticon-1598,12.47,сырт,north,syrt
+clics-doculect-10-1354,noga1249-std,concepticon-1598,12.47,артбет,north,artbet
+clics-doculect-10-1355,noga1249-std,concepticon-1595,12.48,кыбла,south,kybla
+clics-doculect-10-1356,noga1249-std,concepticon-1595,12.48,алдыбет,south,aldybet
+clics-doculect-10-1357,noga1249-std,concepticon-479,12.53,оьсуьв,grow,o'su'v
+clics-doculect-10-1358,noga1249-std,concepticon-479,12.53,уьйкенболув,grow,u'ikenboluv
+clics-doculect-10-1359,noga1249-std,concepticon-1506,12.54,оьлшев,measure,o'lshev
+clics-doculect-10-1360,noga1249-std,concepticon-81,12.541,суьем,"span, fathom",su'em
+clics-doculect-10-1361,noga1249-std,concepticon-81,12.541,тенъиз,"span, fathom",ten'iz
+clics-doculect-10-1362,noga1249-std,concepticon-81,12.541,шаржан,"span, fathom",sharzhan
+clics-doculect-10-1363,noga1249-std,concepticon-1202,12.55,уьйкен,"large, big",u'iken
+clics-doculect-10-1364,noga1249-std,concepticon-1202,12.55,кенъ,"large, big",ken'
+clics-doculect-10-1365,noga1249-std,concepticon-1246,12.56,кишкей,"small, little",kishkei
+clics-doculect-10-1366,noga1249-std,concepticon-1203,12.57,узын,long,uzyn
+clics-doculect-10-1367,noga1249-std,concepticon-711,12.58,бийик,tall,biiik
+clics-doculect-10-1368,noga1249-std,concepticon-1645,12.59,кыска,short,kyska
+clics-doculect-10-1369,noga1249-std,concepticon-1243,12.61,кенъ,"wide, broad",ken'
+clics-doculect-10-1370,noga1249-std,concepticon-1267,12.62,тар,narrow,tar
+clics-doculect-10-1371,noga1249-std,concepticon-1244,12.63,базык,thick (in dimension),bazyk
+clics-doculect-10-1372,noga1249-std,concepticon-1244,12.63,домбай,thick (in dimension),dombai
+clics-doculect-10-1373,noga1249-std,concepticon-2249,12.65,йука,thin (in dimension),iuka
+clics-doculect-10-1374,noga1249-std,concepticon-2249,12.65,арык,thin (in dimension),aryk
+clics-doculect-10-1375,noga1249-std,concepticon-1593,12.67,теренъ,deep,teren'
+clics-doculect-10-1376,noga1249-std,concepticon-193,12.68,увак,shallow,uvak
+clics-doculect-10-1377,noga1249-std,concepticon-193,12.68,кишкей,shallow,kishkei
+clics-doculect-10-1378,noga1249-std,concepticon-1633,12.71,йалпак,flat,ialpak
+clics-doculect-10-1379,noga1249-std,concepticon-1633,12.71,такыр,flat,takyr
+clics-doculect-10-1380,noga1249-std,concepticon-1633,12.71,тегис,flat,tegis
+clics-doculect-10-1381,noga1249-std,concepticon-1404,12.73,туьз,straight,tu'z
+clics-doculect-10-1382,noga1249-std,concepticon-1404,12.73,тувра,straight,tuvra
+clics-doculect-10-1383,noga1249-std,concepticon-1404,12.73,теше,straight,teshe
+clics-doculect-10-1384,noga1249-std,concepticon-297,12.74,кыйсык,crooked,kyisyk
+clics-doculect-10-1385,noga1249-std,concepticon-1071,12.75,кармак,hook,karmak
+clics-doculect-10-1386,noga1249-std,concepticon-1071,12.75,ыргак,hook,yrgak
+clics-doculect-10-1387,noga1249-std,concepticon-192,12.76,муьйис,corner,mu'iis
+clics-doculect-10-1388,noga1249-std,concepticon-1367,12.77,крест,cross,krest
+clics-doculect-10-1389,noga1249-std,concepticon-850,12.78,квадрат,square,kvadrat
+clics-doculect-10-1390,noga1249-std,concepticon-850,12.78,доьрткил,square,do'rtkil
+clics-doculect-10-1391,noga1249-std,concepticon-1395,12.81,тоьгерек,round,to'gerek
+clics-doculect-10-1392,noga1249-std,concepticon-1395,12.81,дымалак,round,dymalak
+clics-doculect-10-1393,noga1249-std,concepticon-1467,12.82,доьгерек,circle,do'gerek
+clics-doculect-10-1394,noga1249-std,concepticon-1467,12.82,тоьгерекыз,circle,to'gerekyz
+clics-doculect-10-1395,noga1249-std,concepticon-1845,12.83,шар,"sphere, ball",shar
+clics-doculect-10-1396,noga1249-std,concepticon-1845,12.83,тоьгерекзат,"sphere, ball",to'gerekzat
+clics-doculect-10-1397,noga1249-std,concepticon-1048,12.84,ыз,line,yz
+clics-doculect-10-1398,noga1249-std,concepticon-1048,12.84,сызык,line,syzyk
+clics-doculect-10-1399,noga1249-std,concepticon-1667,12.85,тесик,hole,tesik
+clics-doculect-10-1400,noga1249-std,concepticon-1558,12.92,усайтаган,"like, similar",usaitagan
+clics-doculect-10-1401,noga1249-std,concepticon-1558,12.92,усаган,"like, similar",usagan
+clics-doculect-10-1402,noga1249-std,concepticon-1264,12.93,авыстырув,change,avystyruv
+clics-doculect-10-1403,noga1249-std,concepticon-1294,13.0,нокат,"zero, nothing",nokat
+clics-doculect-10-1404,noga1249-std,concepticon-1493,13.1,бир,one,bir
+clics-doculect-10-1405,noga1249-std,concepticon-1498,13.2,эки,two,eki
+clics-doculect-10-1406,noga1249-std,concepticon-492,13.3,уьш,three,u'sh
+clics-doculect-10-1407,noga1249-std,concepticon-1500,13.4,доьрт,four,do'rt
+clics-doculect-10-1408,noga1249-std,concepticon-493,13.5,бес,five,bes
+clics-doculect-10-1409,noga1249-std,concepticon-1703,13.6,алты,six,alty
+clics-doculect-10-1410,noga1249-std,concepticon-1704,13.7,ети,seven,eti
+clics-doculect-10-1411,noga1249-std,concepticon-1705,13.8,сегиз,eight,segiz
+clics-doculect-10-1412,noga1249-std,concepticon-1483,13.9,тогыз,nine,togyz
+clics-doculect-10-1413,noga1249-std,concepticon-1515,13.10,он,ten,on
+clics-doculect-10-1414,noga1249-std,concepticon-1706,13.101,онбир,eleven,onbir
+clics-doculect-10-1415,noga1249-std,concepticon-1707,13.102,онэки,twelve,oneki
+clics-doculect-10-1416,noga1249-std,concepticon-1709,13.103,онбес,fifteen,onbes
+clics-doculect-10-1417,noga1249-std,concepticon-1710,13.104,йырма,twenty,iyrma
+clics-doculect-10-1418,noga1249-std,concepticon-1634,13.105,йуз,hundred,iuz
+clics-doculect-10-1419,noga1249-std,concepticon-1843,13.106,мынъ,thousand,myn'
+clics-doculect-10-1420,noga1249-std,concepticon-1420,13.107,самав,count,samav
+clics-doculect-10-1421,noga1249-std,concepticon-98,13.14,баьри,"every, all",ba'ri
+clics-doculect-10-1422,noga1249-std,concepticon-98,13.14,баьризатта,"every, all",ba'rizatta
+clics-doculect-10-1423,noga1249-std,concepticon-1198,13.15,коьп,"much, many",ko'p
+clics-doculect-10-1424,noga1249-std,concepticon-1198,13.15,кыйлы,"much, many",kyily
+clics-doculect-10-1425,noga1249-std,concepticon-1992,13.16,коьп,more,ko'p
+clics-doculect-10-1426,noga1249-std,concepticon-1992,13.16,артык,more,artyk
+clics-doculect-10-1427,noga1249-std,concepticon-1242,13.17,аз,"little (quantity), few",az
+clics-doculect-10-1428,noga1249-std,concepticon-1242,13.17,кем,"little (quantity), few",kem
+clics-doculect-10-1429,noga1249-std,concepticon-1881,13.18,таман,enough,taman
+clics-doculect-10-1430,noga1249-std,concepticon-1881,13.18,болайак,enough,bolaiak
+clics-doculect-10-1431,noga1249-std,concepticon-1241,13.181,баркеше,some,barkeshe
+clics-doculect-10-1432,noga1249-std,concepticon-1241,13.181,азыншогын,some,azynshogyn
+clics-doculect-10-1433,noga1249-std,concepticon-2023,13.19,коьплик,"multitude, crowd",ko'plik
+clics-doculect-10-1434,noga1249-std,concepticon-2023,13.19,коьплеген,"multitude, crowd",ko'plegen
+clics-doculect-10-1435,noga1249-std,concepticon-1429,13.21,толы,full,toly
+clics-doculect-10-1436,noga1249-std,concepticon-1624,13.22,бос,empty,bos
+clics-doculect-10-1437,noga1249-std,concepticon-779,13.23,пай,"part, piece",pai
+clics-doculect-10-1438,noga1249-std,concepticon-779,13.23,кесек,"part, piece",kesek
+clics-doculect-10-1439,noga1249-std,concepticon-816,13.24,йартысы,half,iartysy
+clics-doculect-10-1440,noga1249-std,concepticon-816,13.24,йарты,half,iarty
+clics-doculect-10-1441,noga1249-std,concepticon-1580,13.33,бир,"alone, only",bir
+clics-doculect-10-1442,noga1249-std,concepticon-1580,13.33,елгыз,"alone, only",elgyz
+clics-doculect-10-1443,noga1249-std,concepticon-1580,13.33,бирев,"alone, only",birev
+clics-doculect-10-1444,noga1249-std,concepticon-728,13.34,биринши,first,birinshi
+clics-doculect-10-1445,noga1249-std,concepticon-1529,13.35,ызгы,last,yzgy
+clics-doculect-10-1446,noga1249-std,concepticon-1529,13.35,сонъгы,last,son'gy
+clics-doculect-10-1447,noga1249-std,concepticon-1529,13.35,артындагы,last,artyndagy
+clics-doculect-10-1448,noga1249-std,concepticon-1384,13.36,экинши,second,ekinshi
+clics-doculect-10-1449,noga1249-std,concepticon-1888,13.37,косак,pair,kosak
+clics-doculect-10-1450,noga1249-std,concepticon-1546,13.38,экикере,two times,ekikere
+clics-doculect-10-1451,noga1249-std,concepticon-1859,13.42,уьшинши,third,u'shinshi
+clics-doculect-10-1452,noga1249-std,concepticon-417,13.44,уьшкере,three times,u'shkere
+clics-doculect-10-1453,noga1249-std,concepticon-892,14.11,заман,time,zaman
+clics-doculect-10-1454,noga1249-std,concepticon-1789,14.12,йуз,age,iuz
+clics-doculect-10-1455,noga1249-std,concepticon-1789,14.12,йыл,age,iyl
+clics-doculect-10-1456,noga1249-std,concepticon-1789,14.12,эпоха,age,epokha
+clics-doculect-10-1457,noga1249-std,concepticon-1789,14.12,заман,age,zaman
+clics-doculect-10-1458,noga1249-std,concepticon-1231,14.13,йанъы,new,ian'y
+clics-doculect-10-1459,noga1249-std,concepticon-1207,14.14,ес,young,es
+clics-doculect-10-1460,noga1249-std,concepticon-1229,14.15,карт,old,kart
+clics-doculect-10-1461,noga1249-std,concepticon-1229,14.15,эски,old,eski
+clics-doculect-10-1462,noga1249-std,concepticon-672,14.16,эрте,early,erte
+clics-doculect-10-1463,noga1249-std,concepticon-672,14.16,эртерек,early,erterek
+clics-doculect-10-1464,noga1249-std,concepticon-672,14.16,тез,early,tez
+clics-doculect-10-1465,noga1249-std,concepticon-477,14.17,кеш,late,kesh
+clics-doculect-10-1466,noga1249-std,concepticon-1376,14.18,аьли,now,a'li
+clics-doculect-10-1467,noga1249-std,concepticon-1376,14.18,тезок,now,tezok
+clics-doculect-10-1468,noga1249-std,concepticon-1963,14.19,тезбусаьат,immediately,tezbusa'at
+clics-doculect-10-1469,noga1249-std,concepticon-1963,14.19,тезок,immediately,tezok
+clics-doculect-10-1470,noga1249-std,concepticon-1631,14.21,тез,"swift, fast, quick",tez
+clics-doculect-10-1471,noga1249-std,concepticon-1631,14.21,шалт,"swift, fast, quick",shalt
+clics-doculect-10-1472,noga1249-std,concepticon-701,14.22,кеш,slow,kesh
+clics-doculect-10-1473,noga1249-std,concepticon-701,14.22,аста,slow,asta
+clics-doculect-10-1474,noga1249-std,concepticon-701,14.22,сабыр,slow,sabyr
+clics-doculect-10-1475,noga1249-std,concepticon-754,14.23,алгасав,"hasten, hurry",algasav
+clics-doculect-10-1476,noga1249-std,concepticon-754,14.23,тезболув,"hasten, hurry",tezboluv
+clics-doculect-10-1477,noga1249-std,concepticon-425,14.24,асталандырув,"retard, delay",astalandyruv
+clics-doculect-10-1478,noga1249-std,concepticon-425,14.24,тактатув,"retard, delay",taktatuv
+clics-doculect-10-1479,noga1249-std,concepticon-425,14.24,кешкалдырув,"retard, delay",keshkaldyruv
+clics-doculect-10-1480,noga1249-std,concepticon-1806,14.25,баслав,"begin, beginning",baslav
+clics-doculect-10-1481,noga1249-std,concepticon-1806,14.25,басы,"begin, beginning",basy
+clics-doculect-10-1482,noga1249-std,concepticon-1806,14.25,басламувы,"begin, beginning",baslamuvy
+clics-doculect-10-1483,noga1249-std,concepticon-1186,14.252,узакланув,"last, endure",uzaklanuv
+clics-doculect-10-1484,noga1249-std,concepticon-1186,14.252,кемкалув,"last, endure",kemkaluv
+clics-doculect-10-1485,noga1249-std,concepticon-743,14.26,кутарув,end (temporal),kutaruv
+clics-doculect-10-1486,noga1249-std,concepticon-743,14.26,ызынаетуьв,end (temporal),yzynaetu'v
+clics-doculect-10-1487,noga1249-std,concepticon-1766,14.27,битируьв,finish,bitiru'v
+clics-doculect-10-1488,noga1249-std,concepticon-1766,14.27,кутарув,finish,kutaruv
+clics-doculect-10-1489,noga1249-std,concepticon-1928,14.28,боьлуьв,"cease, stop",bo'lu'v
+clics-doculect-10-1490,noga1249-std,concepticon-1928,14.28,токтатув,"cease, stop",toktatuv
+clics-doculect-10-1491,noga1249-std,concepticon-790,14.29,аьзир,ready,a'zir
+clics-doculect-10-1492,noga1249-std,concepticon-1676,14.31,аьрдайым,always,a'rdaiym
+clics-doculect-10-1493,noga1249-std,concepticon-1676,14.31,аьрзаман,always,a'rzaman
+clics-doculect-10-1494,noga1249-std,concepticon-1852,14.32,тезтез,often,teztez
+clics-doculect-10-1495,noga1249-std,concepticon-1852,14.32,коьп,often,ko'p
+clics-doculect-10-1496,noga1249-std,concepticon-1852,14.32,кере,often,kere
+clics-doculect-10-1497,noga1249-std,concepticon-1544,14.33,арада,sometimes,arada
+clics-doculect-10-1498,noga1249-std,concepticon-1544,14.33,бирбир,sometimes,birbir
+clics-doculect-10-1499,noga1249-std,concepticon-1544,14.33,заманда,sometimes,zamanda
+clics-doculect-10-1500,noga1249-std,concepticon-703,14.331,бираздан,soon,birazdan
+clics-doculect-10-1501,noga1249-std,concepticon-703,14.331,йувыкарада,soon,iuvykarada
+clics-doculect-10-1502,noga1249-std,concepticon-418,14.332,эртерек,long-time (for a),erterek
+clics-doculect-10-1503,noga1249-std,concepticon-418,14.332,узакзаманлык,long-time (for a),uzakzamanlyk
+clics-doculect-10-1504,noga1249-std,concepticon-1656,14.34,бирде,never,birde
+clics-doculect-10-1505,noga1249-std,concepticon-1656,14.34,бирзаманда,never,birzamanda
+clics-doculect-10-1506,noga1249-std,concepticon-204,14.35,тагыда,again,tagyda
+clics-doculect-10-1507,noga1249-std,concepticon-204,14.35,йанъыдан,again,ian'ydan
+clics-doculect-10-1508,noga1249-std,concepticon-204,14.35,кайтабастан,again,kaitabastan
+clics-doculect-10-1509,noga1249-std,concepticon-1225,14.41,куьн,day,ku'n
+clics-doculect-10-1510,noga1249-std,concepticon-1233,14.42,кеше,night,keshe
+clics-doculect-10-1511,noga1249-std,concepticon-729,14.43,танъ,dawn,tan'
+clics-doculect-10-1512,noga1249-std,concepticon-729,14.43,танъвакыт,dawn,tan'vakyt
+clics-doculect-10-1513,noga1249-std,concepticon-1339,14.44,эртен,morning,erten
+clics-doculect-10-1514,noga1249-std,concepticon-1339,14.44,эртенъгишак,morning,erten'gishak
+clics-doculect-10-1515,noga1249-std,concepticon-12,14.45,туьс,"noon, midday",tu's
+clics-doculect-10-1516,noga1249-std,concepticon-12,14.45,уьйле,"noon, midday",u'ile
+clics-doculect-10-1517,noga1249-std,concepticon-12,14.45,куьнортасы,"noon, midday",ku'nortasy
+clics-doculect-10-1518,noga1249-std,concepticon-1807,14.451,туьстенсонъ,afternoon,tu'stenson'
+clics-doculect-10-1519,noga1249-std,concepticon-1629,14.46,кеш,evening,kesh
+clics-doculect-10-1520,noga1249-std,concepticon-1629,14.46,кешке,evening,keshke
+clics-doculect-10-1521,noga1249-std,concepticon-1283,14.47,буьгуьн,today,bu'gu'n
+clics-doculect-10-1522,noga1249-std,concepticon-1329,14.48,танъла,tomorrow,tan'la
+clics-doculect-10-1523,noga1249-std,concepticon-1329,14.48,эртен,tomorrow,erten
+clics-doculect-10-1524,noga1249-std,concepticon-1179,14.481,бирсигуьн,day-after-tomorrow,birsigu'n
+clics-doculect-10-1525,noga1249-std,concepticon-1174,14.49,туьнегуьн,yesterday,tu'negu'n
+clics-doculect-10-1526,noga1249-std,concepticon-1180,14.491,бирсигуьн,day-before-yesterday,birsigu'n
+clics-doculect-10-1527,noga1249-std,concepticon-1353,14.51,саьат,hour,sa'at
+clics-doculect-10-1528,noga1249-std,concepticon-1323,14.53,саьат,"clock, timepiece",sa'at
+clics-doculect-10-1529,noga1249-std,concepticon-1469,14.61,йума,week,iuma
+clics-doculect-10-1530,noga1249-std,concepticon-1699,14.62,катыкуьн,Sunday,katyku'n
+clics-doculect-10-1531,noga1249-std,concepticon-1697,14.63,дуьйсемби,Monday,du'isembi
+clics-doculect-10-1532,noga1249-std,concepticon-1695,14.64,саьли,Tuesday,sa'li
+clics-doculect-10-1533,noga1249-std,concepticon-1694,14.65,саьрсемби,Wednesday,sa'rsembi
+clics-doculect-10-1534,noga1249-std,concepticon-1693,14.66,бийсемби,Thursday,biisembi
+clics-doculect-10-1535,noga1249-std,concepticon-1693,14.66,кишийума,Thursday,kishiiuma
+clics-doculect-10-1536,noga1249-std,concepticon-1692,14.67,уллыйума,Friday,ullyiuma
+clics-doculect-10-1537,noga1249-std,concepticon-1692,14.67,йума,Friday,iuma
+clics-doculect-10-1538,noga1249-std,concepticon-1700,14.68,йумасонъы,Saturday,iumason'y
+clics-doculect-10-1539,noga1249-std,concepticon-1700,14.68,йумаэртеси,Saturday,iumaertesi
+clics-doculect-10-1540,noga1249-std,concepticon-1370,14.71,ай,month,ai
+clics-doculect-10-1541,noga1249-std,concepticon-1226,14.73,йыл,year,iyl
+clics-doculect-10-1542,noga1249-std,concepticon-1471,14.74,кыс,winter,kys
+clics-doculect-10-1543,noga1249-std,concepticon-1537,14.75,йазлык,spring,iazlyk
+clics-doculect-10-1544,noga1249-std,concepticon-1342,14.76,йаз,summer,iaz
+clics-doculect-10-1545,noga1249-std,concepticon-1276,14.77,куьз,autumn,ku'z
+clics-doculect-10-1546,noga1249-std,concepticon-691,14.78,йылшагы,season,iylshagy
+clics-doculect-10-1547,noga1249-std,concepticon-1587,15.21,ийисшыгув,smell (vb intrans),iiisshyguv
+clics-doculect-10-1548,noga1249-std,concepticon-1587,15.21,сасув,smell (vb intrans),sasuv
+clics-doculect-10-1549,noga1249-std,concepticon-375,15.212,пысылдав,sniff,pysyldav
+clics-doculect-10-1550,noga1249-std,concepticon-375,15.212,ийискелев,sniff,iiiskelev
+clics-doculect-10-1551,noga1249-std,concepticon-1586,15.22,ийискелев,smell (vb trans),iiiskelev
+clics-doculect-10-1552,noga1249-std,concepticon-376,15.25,аьруьвийис,"fragrant, good smelling",a'ru'viiis
+clics-doculect-10-1553,noga1249-std,concepticon-42,15.26,йаманийис,"stinking, bad smelling",iamaniiis
+clics-doculect-10-1554,noga1249-std,concepticon-42,15.26,сасык,"stinking, bad smelling",sasyk
+clics-doculect-10-1555,noga1249-std,concepticon-21,15.31,даьм,taste,da'm
+clics-doculect-10-1556,noga1249-std,concepticon-717,15.35,таьтли,sweet,ta'tli
+clics-doculect-10-1557,noga1249-std,concepticon-1091,15.36,тузлы,salty,tuzly
+clics-doculect-10-1558,noga1249-std,concepticon-1091,15.36,ашшы,salty,ashshy
+clics-doculect-10-1559,noga1249-std,concepticon-887,15.37,ашшы,bitter,ashshy
+clics-doculect-10-1560,noga1249-std,concepticon-1906,15.38,туршы,"acid, sour",turshy
+clics-doculect-10-1561,noga1249-std,concepticon-70,15.39,азтузлы,brackish,aztuzly
+clics-doculect-10-1562,noga1249-std,concepticon-1408,15.41,эситуьв,hear,esitu'v
+clics-doculect-10-1563,noga1249-std,concepticon-1608,15.42,тынълав,listen,tyn'lav
+clics-doculect-10-1564,noga1249-std,concepticon-1811,15.44,аваз,"sound, noise",avaz
+clics-doculect-10-1565,noga1249-std,concepticon-1811,15.44,тавыс,"sound, noise",tavys
+clics-doculect-10-1566,noga1249-std,concepticon-1811,15.44,шавшув,"sound, noise",shavshuv
+clics-doculect-10-1567,noga1249-std,concepticon-377,15.45,куьшли,loud,ku'shli
+clics-doculect-10-1568,noga1249-std,concepticon-377,15.45,тавыслы,loud,tavysly
+clics-doculect-10-1569,noga1249-std,concepticon-1314,15.46,сабыр,"quiet, silence",sabyr
+clics-doculect-10-1570,noga1249-std,concepticon-1314,15.46,аста,"quiet, silence",asta
+clics-doculect-10-1571,noga1249-std,concepticon-1409,15.51,коьруьв,see,ko'ru'v
+clics-doculect-10-1572,noga1249-std,concepticon-1819,15.52,карав,"look, look at",karav
+clics-doculect-10-1573,noga1249-std,concepticon-1039,15.55,коьрсетуьв,show,ko'rsetu'v
+clics-doculect-10-1574,noga1249-std,concepticon-708,15.56,йарыкберуьв,shine,iarykberu'v
+clics-doculect-10-1575,noga1249-std,concepticon-708,15.56,йарыкэтуьв,shine,iaryketu'v
+clics-doculect-10-1576,noga1249-std,concepticon-679,15.57,йарык,bright,iaryk
+clics-doculect-10-1577,noga1249-std,concepticon-1613,15.61,туьс,color,tu's
+clics-doculect-10-1578,noga1249-std,concepticon-250,15.62,йарык,light (in color),iaryk
+clics-doculect-10-1579,noga1249-std,concepticon-250,15.62,ашыктуьсли,light (in color),ashyktu'sli
+clics-doculect-10-1580,noga1249-std,concepticon-706,15.63,карагошкыл,dark (in color),karagoshkyl
+clics-doculect-10-1581,noga1249-std,concepticon-706,15.63,авыртуьсли,dark (in color),avyrtu'sli
+clics-doculect-10-1582,noga1249-std,concepticon-1335,15.64,ак,white,ak
+clics-doculect-10-1583,noga1249-std,concepticon-163,15.65,кара,black,kara
+clics-doculect-10-1584,noga1249-std,concepticon-156,15.66,кызыл,red,kyzyl
+clics-doculect-10-1585,noga1249-std,concepticon-837,15.67,коьк,blue,ko'k
+clics-doculect-10-1586,noga1249-std,concepticon-1425,15.68,йасыл,green,iasyl
+clics-doculect-10-1587,noga1249-std,concepticon-1424,15.69,сары,yellow,sary
+clics-doculect-10-1588,noga1249-std,concepticon-1892,15.71,тийуьв,touch,tiiu'v
+clics-doculect-10-1589,noga1249-std,concepticon-378,15.712,шымтув,pinch,shymtuv
+clics-doculect-10-1590,noga1249-std,concepticon-378,15.712,кысув,pinch,kysuv
+clics-doculect-10-1591,noga1249-std,concepticon-1079,15.72,сезуьв,feel,sezu'v
+clics-doculect-10-1592,noga1249-std,concepticon-1884,15.74,каты,hard,katy
+clics-doculect-10-1593,noga1249-std,concepticon-1884,15.74,айавсыз,hard,aiavsyz
+clics-doculect-10-1594,noga1249-std,concepticon-1856,15.75,йумсак,soft,iumsak
+clics-doculect-10-1595,noga1249-std,concepticon-1923,15.76,каты,rough,katy
+clics-doculect-10-1596,noga1249-std,concepticon-1923,15.76,келиссизэтилген,rough,kelissizetilgen
+clics-doculect-10-1597,noga1249-std,concepticon-1234,15.77,тешс,smooth,teshs
+clics-doculect-10-1598,noga1249-std,concepticon-1234,15.77,туьз,smooth,tu'z
+clics-doculect-10-1599,noga1249-std,concepticon-1396,15.78,сисли,sharp,sisli
+clics-doculect-10-1600,noga1249-std,concepticon-1396,15.78,оьткир,sharp,o'tkir
+clics-doculect-10-1601,noga1249-std,concepticon-379,15.79,топал,"blunt, dull",topal
+clics-doculect-10-1602,noga1249-std,concepticon-379,15.79,анълавсыз,"blunt, dull",an'lavsyz
+clics-doculect-10-1603,noga1249-std,concepticon-379,15.79,акмак,"blunt, dull",akmak
+clics-doculect-10-1604,noga1249-std,concepticon-1210,15.81,авыр,heavy,avyr
+clics-doculect-10-1605,noga1249-std,concepticon-1052,15.82,енъил,light (in weight),en'il
+clics-doculect-10-1606,noga1249-std,concepticon-1726,15.83,сув,"wet, damp",suv
+clics-doculect-10-1607,noga1249-std,concepticon-1726,15.83,ызгар,"wet, damp",yzgar
+clics-doculect-10-1608,noga1249-std,concepticon-1726,15.83,дымкыл,"wet, damp",dymkyl
+clics-doculect-10-1609,noga1249-std,concepticon-1398,15.84,куры,dry,kury
+clics-doculect-10-1610,noga1249-std,concepticon-1398,15.84,кепкен,dry,kepken
+clics-doculect-10-1611,noga1249-std,concepticon-1286,15.85,исси,hot,issi
+clics-doculect-10-1612,noga1249-std,concepticon-1232,15.851,йылы,warm,iyly
+clics-doculect-10-1613,noga1249-std,concepticon-1287,15.86,сувык,cold,suvyk
+clics-doculect-10-1614,noga1249-std,concepticon-704,15.87,таза,clean,taza
+clics-doculect-10-1615,noga1249-std,concepticon-1230,15.88,нас,"dirty, soiled",nas
+clics-doculect-10-1616,noga1249-std,concepticon-1230,15.88,кир,"dirty, soiled",kir
+clics-doculect-10-1617,noga1249-std,concepticon-380,15.89,буькленген,wrinkled,bu'klengen
+clics-doculect-10-1618,noga1249-std,concepticon-380,15.89,уйпаланган,wrinkled,uipalangan
+clics-doculect-10-1619,noga1249-std,concepticon-53,16.11,йан,"soul, spirit",ian
+clics-doculect-10-1620,noga1249-std,concepticon-53,16.11,дерт,"soul, spirit",dert
+clics-doculect-10-1621,noga1249-std,concepticon-1572,16.15,тамашалы,"surprised, astonished",tamashaly
+clics-doculect-10-1622,noga1249-std,concepticon-1572,16.15,кужырыкелген,"surprised, astonished",kuzhyrykelgen
+clics-doculect-10-1623,noga1249-std,concepticon-720,16.18,йолболув,"good fortune, luck",iolboluv
+clics-doculect-10-1624,noga1249-std,concepticon-720,16.18,куллыкбитуьв,"good fortune, luck",kullykbitu'v
+clics-doculect-10-1625,noga1249-std,concepticon-720,16.18,онъболув,"good fortune, luck",on'boluv
+clics-doculect-10-1626,noga1249-std,concepticon-56,16.19,йолболмав,"misfortune, bad luck",iolbolmav
+clics-doculect-10-1627,noga1249-std,concepticon-56,16.19,куллыкбитпев,"misfortune, bad luck",kullykbitpev
+clics-doculect-10-1628,noga1249-std,concepticon-1495,16.23,наьсипли,"joyful, glad, happy",na'sipli
+clics-doculect-10-1629,noga1249-std,concepticon-1495,16.23,шат,"joyful, glad, happy",shat
+clics-doculect-10-1630,noga1249-std,concepticon-1495,16.23,завыклы,"joyful, glad, happy",zavykly
+clics-doculect-10-1631,noga1249-std,concepticon-1355,16.25,куьлуьв,laugh,ku'lu'v
+clics-doculect-10-1632,noga1249-std,concepticon-1451,16.251,куьлуьв,smile,ku'lu'v
+clics-doculect-10-1633,noga1249-std,concepticon-1451,16.251,куьлемсуьрев,smile,ku'lemsu'rev
+clics-doculect-10-1634,noga1249-std,concepticon-1413,16.26,ойнав,play,oinav
+clics-doculect-10-1635,noga1249-std,concepticon-923,16.27,суьйув,love,su'iuv
+clics-doculect-10-1636,noga1249-std,concepticon-578,16.29,оьбуьв,kiss,o'bu'v
+clics-doculect-10-1637,noga1249-std,concepticon-578,16.29,суьйув,kiss,su'iuv
+clics-doculect-10-1638,noga1249-std,concepticon-928,16.3,кушаклав,embrace,kushaklav
+clics-doculect-10-1639,noga1249-std,concepticon-1783,16.31,авырув,pain,avyruv
+clics-doculect-10-1640,noga1249-std,concepticon-1668,16.32,кайгы,"grief, sorrow, sadness",kaigy
+clics-doculect-10-1641,noga1249-std,concepticon-1668,16.32,аза,"grief, sorrow, sadness",aza
+clics-doculect-10-1642,noga1249-std,concepticon-1668,16.32,асирет,"grief, sorrow, sadness",asiret
+clics-doculect-10-1643,noga1249-std,concepticon-1000,16.33,парахатсызлык,"anxiety, worry",parakhatsyzlyk
+clics-doculect-10-1644,noga1249-std,concepticon-1000,16.33,тынышсызланув,"anxiety, worry",tynyshsyzlanuv
+clics-doculect-10-1645,noga1249-std,concepticon-1875,16.34,оькинуьв,"regret, be sorry",o'kinu'v
+clics-doculect-10-1646,noga1249-std,concepticon-1141,16.35,йазыксыланув,pity,iazyksylanuv
+clics-doculect-10-1647,noga1249-std,concepticon-1141,16.35,йазыкийув,pity,iazykiiuv
+clics-doculect-10-1648,noga1249-std,concepticon-1839,16.37,йылав,"cry, weep",iylav
+clics-doculect-10-1649,noga1249-std,concepticon-1839,16.37,солкылдав,"cry, weep",solkyldav
+clics-doculect-10-1650,noga1249-std,concepticon-1839,16.37,оьксуьв,"cry, weep",o'ksu'v
+clics-doculect-10-1651,noga1249-std,concepticon-1651,16.38,коьзйас,tear (noun),ko'zias
+clics-doculect-10-1652,noga1249-std,concepticon-716,16.39,ынъыранув,groan,yn'yranuv
+clics-doculect-10-1653,noga1249-std,concepticon-1607,16.41,коьрипболмав,hate,ko'ripbolmav
+clics-doculect-10-1654,noga1249-std,concepticon-82,16.42,ашув,anger,ashuv
+clics-doculect-10-1655,noga1249-std,concepticon-82,16.42,ашувлык,anger,ashuvlyk
+clics-doculect-10-1656,noga1249-std,concepticon-40,16.44,куьнлев,"envy, jealousy",ku'nlev
+clics-doculect-10-1657,noga1249-std,concepticon-1776,16.45,уйат,shame (noun),uiat
+clics-doculect-10-1658,noga1249-std,concepticon-174,16.48,оьктем,proud,o'ktem
+clics-doculect-10-1659,noga1249-std,concepticon-1779,16.51,йигерлиаьдем,dare,iigerlia'dem
+clics-doculect-10-1660,noga1249-std,concepticon-3,16.52,йигерли,brave,iigerli
+clics-doculect-10-1661,noga1249-std,concepticon-3,16.52,ташанмаслык,brave,tashanmaslyk
+clics-doculect-10-1662,noga1249-std,concepticon-781,16.53,коркув,"fear, fright",korkuv
+clics-doculect-10-1663,noga1249-std,concepticon-1810,16.54,кавыфлык,danger,kavyflyk
+clics-doculect-10-1664,noga1249-std,concepticon-1810,16.54,коркынышлы,danger,korkynyshly
+clics-doculect-10-1665,noga1249-std,concepticon-1784,16.62,иыраз,"desire, want",iyraz
+clics-doculect-10-1666,noga1249-std,concepticon-1784,16.62,уьмит,"desire, want",u'mit
+clics-doculect-10-1667,noga1249-std,concepticon-1784,16.62,дерт,"desire, want",dert
+clics-doculect-10-1668,noga1249-std,concepticon-1750,16.622,сайлав,choose,sailav
+clics-doculect-10-1669,noga1249-std,concepticon-1092,16.63,уьмитэтуьв,hope,u'mitetu'v
+clics-doculect-10-1670,noga1249-std,concepticon-100,16.65,алал,faithful,alal
+clics-doculect-10-1671,noga1249-std,concepticon-100,16.65,берилген,faithful,berilgen
+clics-doculect-10-1672,noga1249-std,concepticon-100,16.65,сенимли,faithful,senimli
+clics-doculect-10-1673,noga1249-std,concepticon-100,16.65,дурыс,faithful,durys
+clics-doculect-10-1674,noga1249-std,concepticon-1657,16.66,соьлеш,true,so'lesh
+clics-doculect-10-1675,noga1249-std,concepticon-1657,16.66,аьлеш,true,a'lesh
+clics-doculect-10-1676,noga1249-std,concepticon-1657,16.66,алал,true,alal
+clics-doculect-10-1677,noga1249-std,concepticon-1657,16.66,сенимли,true,senimli
+clics-doculect-10-1678,noga1249-std,concepticon-601,16.67,елган,"lie, tell lies",elgan
+clics-doculect-10-1679,noga1249-std,concepticon-13,16.68,алдатув,deceit,aldatuv
+clics-doculect-10-1680,noga1249-std,concepticon-1528,16.69,кешуьв,forgive,keshu'v
+clics-doculect-10-1681,noga1249-std,concepticon-1035,16.71,йахшы,good,iakhshy
+clics-doculect-10-1682,noga1249-std,concepticon-1292,16.72,йаман,bad,iaman
+clics-doculect-10-1683,noga1249-std,concepticon-1725,16.73,дурыс,"right, correct",durys
+clics-doculect-10-1684,noga1249-std,concepticon-1725,16.73,туьзи,"right, correct",tu'zi
+clics-doculect-10-1685,noga1249-std,concepticon-1390,16.74,дурыстувыл,wrong,durystuvyl
+clics-doculect-10-1686,noga1249-std,concepticon-1293,16.77,йанъылыс,"mistake, error",ian'ylys
+clics-doculect-10-1687,noga1249-std,concepticon-381,16.78,куьнаьлев,blame,ku'na'lev
+clics-doculect-10-1688,noga1249-std,concepticon-1687,16.79,мактав,praise,maktav
+clics-doculect-10-1689,noga1249-std,concepticon-1427,16.81,ыспайы,beautiful,yspaiy
+clics-doculect-10-1690,noga1249-std,concepticon-1427,16.81,йарасык,beautiful,iarasyk
+clics-doculect-10-1691,noga1249-std,concepticon-1548,16.82,эрши,ugly,ershi
+clics-doculect-10-1692,noga1249-std,concepticon-1548,16.82,сакат,ugly,sakat
+clics-doculect-10-1693,noga1249-std,concepticon-1548,16.82,зайаланган,ugly,zaialangan
+clics-doculect-10-1694,noga1249-std,concepticon-2018,16.83,кызганш,greedy,kyzgansh
+clics-doculect-10-1695,noga1249-std,concepticon-1310,16.84,акыллы,clever,akylly
+clics-doculect-10-1696,noga1249-std,concepticon-1562,17.11,акыл,mind,akyl
+clics-doculect-10-1697,noga1249-std,concepticon-1415,17.13,ойлав,think (= reflect),oilav
+clics-doculect-10-1698,noga1249-std,concepticon-1513,17.14,ойлав,think (= be of the opinion),oilav
+clics-doculect-10-1699,noga1249-std,concepticon-1513,17.14,санав,think (= be of the opinion),sanav
+clics-doculect-10-1700,noga1249-std,concepticon-1890,17.15,ынанув,believe,ynanuv
+clics-doculect-10-1701,noga1249-std,concepticon-1536,17.16,анълав,understand,an'lav
+clics-doculect-10-1702,noga1249-std,concepticon-1410,17.17,билуьв,know,bilu'v
+clics-doculect-10-1703,noga1249-std,concepticon-1932,17.171,ойлав,guess,oilav
+clics-doculect-10-1704,noga1249-std,concepticon-1932,17.171,йорав,guess,iorav
+clics-doculect-10-1705,noga1249-std,concepticon-1521,17.18,болыпкоьринуьв,seem,bolypko'rinu'v
+clics-doculect-10-1706,noga1249-std,concepticon-1609,17.19,идейа,"idea, notion",ideia
+clics-doculect-10-1707,noga1249-std,concepticon-1609,17.19,ой,"idea, notion",oi
+clics-doculect-10-1708,noga1249-std,concepticon-1609,17.19,анълав,"idea, notion",an'lav
+clics-doculect-10-1709,noga1249-std,concepticon-1609,17.19,туьсинуьв,"idea, notion",tu'sinu'v
+clics-doculect-10-1710,noga1249-std,concepticon-698,17.21,теренъакыллы,wise,teren'akylly
+clics-doculect-10-1711,noga1249-std,concepticon-1518,17.22,акылсыз,"foolish, stupid",akylsyz
+clics-doculect-10-1712,noga1249-std,concepticon-1518,17.22,анъкав,"foolish, stupid",an'kav
+clics-doculect-10-1713,noga1249-std,concepticon-1518,17.22,акмак,"foolish, stupid",akmak
+clics-doculect-10-1714,noga1249-std,concepticon-1899,17.23,акылсыз,"insane, crazy",akylsyz
+clics-doculect-10-1715,noga1249-std,concepticon-504,17.24,билуьв,learn,bilu'v
+clics-doculect-10-1716,noga1249-std,concepticon-504,17.24,окув,learn,okuv
+clics-doculect-10-1717,noga1249-std,concepticon-1929,17.242,окув,study,okuv
+clics-doculect-10-1718,noga1249-std,concepticon-1929,17.242,уьйренуьв,study,u'irenu'v
+clics-doculect-10-1719,noga1249-std,concepticon-709,17.25,окув,teach,okuv
+clics-doculect-10-1720,noga1249-std,concepticon-709,17.25,окытув,teach,okytuv
+clics-doculect-10-1721,noga1249-std,concepticon-709,17.25,уьйретуьв,teach,u'iretu'v
+clics-doculect-10-1722,noga1249-std,concepticon-753,17.26,окувшы,pupil,okuvshy
+clics-doculect-10-1723,noga1249-std,concepticon-1038,17.27,окытувшы,teacher,okytuvshy
+clics-doculect-10-1724,noga1249-std,concepticon-673,17.28,мектеб,school,mekteb
+clics-doculect-10-1725,noga1249-std,concepticon-707,17.31,эстесаклав,remember,estesaklav
+clics-doculect-10-1726,noga1249-std,concepticon-1523,17.32,мутув,forget,mutuv
+clics-doculect-10-1727,noga1249-std,concepticon-989,17.34,ашык,"clear, plain",ashyk
+clics-doculect-10-1728,noga1249-std,concepticon-989,17.34,таза,"clear, plain",taza
+clics-doculect-10-1729,noga1249-std,concepticon-989,17.34,анъланыслы,"clear, plain",an'lanysly
+clics-doculect-10-1730,noga1249-std,concepticon-1764,17.35,анълавсыз,obscure,an'lavsyz
+clics-doculect-10-1731,noga1249-std,concepticon-1764,17.35,анълапболмайтаган,obscure,an'lapbolmaitagan
+clics-doculect-10-1732,noga1249-std,concepticon-1764,17.35,ашыкболмаган,obscure,ashykbolmagan
+clics-doculect-10-1733,noga1249-std,concepticon-1121,17.36,сыр,secret,syr
+clics-doculect-10-1734,noga1249-std,concepticon-1121,17.36,йасыртын,secret,iasyrtyn
+clics-doculect-10-1735,noga1249-std,concepticon-509,17.37,каты,"sure, certain",katy
+clics-doculect-10-1736,noga1249-std,concepticon-509,17.37,берк,"sure, certain",berk
+clics-doculect-10-1737,noga1249-std,concepticon-509,17.37,сенимли,"sure, certain",senimli
+clics-doculect-10-1738,noga1249-std,concepticon-509,17.37,ынанымлы,"sure, certain",ynanymly
+clics-doculect-10-1739,noga1249-std,concepticon-1626,17.38,анълатув,explain,an'latuv
+clics-doculect-10-1740,noga1249-std,concepticon-1162,17.41,мырад,"intention, purpose",myrad
+clics-doculect-10-1741,noga1249-std,concepticon-1162,17.41,даьме,"intention, purpose",da'me
+clics-doculect-10-1742,noga1249-std,concepticon-860,17.42,себеп,cause,sebep
+clics-doculect-10-1743,noga1249-std,concepticon-1308,17.43,шекленуьв,doubt,sheklenu'v
+clics-doculect-10-1744,noga1249-std,concepticon-1308,17.43,сенмев,doubt,senmev
+clics-doculect-10-1745,noga1249-std,concepticon-1308,17.43,ынанмав,doubt,ynanmav
+clics-doculect-10-1746,noga1249-std,concepticon-1841,17.44,шекленуьв,suspect,sheklenu'v
+clics-doculect-10-1747,noga1249-std,concepticon-1841,17.44,санав,suspect,sanav
+clics-doculect-10-1748,noga1249-std,concepticon-1902,17.441,сатув,betray,satuv
+clics-doculect-10-1749,noga1249-std,concepticon-1902,17.441,таслав,betray,taslav
+clics-doculect-10-1750,noga1249-std,concepticon-643,17.45,кереклик,"need, necessity",kereklik
+clics-doculect-10-1751,noga1249-std,concepticon-643,17.45,амалсыз,"need, necessity",amalsyz
+clics-doculect-10-1752,noga1249-std,concepticon-686,17.46,енъил,easy,en'il
+clics-doculect-10-1753,noga1249-std,concepticon-686,17.46,тыныш,easy,tynysh
+clics-doculect-10-1754,noga1249-std,concepticon-584,17.47,авыр,difficult,avyr
+clics-doculect-10-1755,noga1249-std,concepticon-584,17.47,кыйын,difficult,kyiyn
+clics-doculect-10-1756,noga1249-std,concepticon-1812,17.48,шалысыпкарав,"try, attempt",shalysypkarav
+clics-doculect-10-1757,noga1249-std,concepticon-1812,17.48,сынапкарав,"try, attempt",synapkarav
+clics-doculect-10-1758,noga1249-std,concepticon-488,17.49,амал,"way, manner",amal
+clics-doculect-10-1759,noga1249-std,concepticon-488,17.49,способ,"way, manner",sposob
+clics-doculect-10-1760,noga1249-std,concepticon-1577,17.51,эм,and,em
+clics-doculect-10-1761,noga1249-std,concepticon-1157,17.52,негедесе,because,negedese
+clics-doculect-10-1762,noga1249-std,concepticon-1459,17.53,эгер,if,eger
+clics-doculect-10-1763,noga1249-std,concepticon-1014,17.54,йаде,or,iade
+clics-doculect-10-1764,noga1249-std,concepticon-1268,17.55,аше,"yes, affirmative",ashe
+clics-doculect-10-1765,noga1249-std,concepticon-1268,17.55,аши,"yes, affirmative",ashi
+clics-doculect-10-1766,noga1249-std,concepticon-1268,17.55,ага,"yes, affirmative",aga
+clics-doculect-10-1767,noga1249-std,concepticon-1268,17.55,дурыс,"yes, affirmative",durys
+clics-doculect-10-1768,noga1249-std,concepticon-1268,17.55,эм,"yes, affirmative",em
+clics-doculect-10-1769,noga1249-std,concepticon-1269,17.56,йок,"no, negative",iok
+clics-doculect-10-1770,noga1249-std,concepticon-1269,17.56,тувыл,"no, negative",tuvyl
+clics-doculect-10-1771,noga1249-std,concepticon-1239,17.61,калай,how?,kalai
+clics-doculect-10-1772,noga1249-std,concepticon-1239,17.61,нешик,how?,neshik
+clics-doculect-10-1773,noga1249-std,concepticon-822,17.62,нешев,how many?,neshev
+clics-doculect-10-1774,noga1249-std,concepticon-822,17.62,неше,how many?,neshe
+clics-doculect-10-1775,noga1249-std,concepticon-531,17.63,неше,how much?,neshe
+clics-doculect-10-1776,noga1249-std,concepticon-531,17.63,нешев,how much?,neshev
+clics-doculect-10-1777,noga1249-std,concepticon-1236,17.64,не,what?,ne
+clics-doculect-10-1778,noga1249-std,concepticon-1238,17.65,кашан,when?,kashan
+clics-doculect-10-1779,noga1249-std,concepticon-1238,17.65,кайзаман,when?,kaizaman
+clics-doculect-10-1780,noga1249-std,concepticon-1237,17.66,кайда,where?,kaida
+clics-doculect-10-1781,noga1249-std,concepticon-1237,17.66,кайдан,where?,kaidan
+clics-doculect-10-1782,noga1249-std,concepticon-727,17.67,кайдай,which?,kaidai
+clics-doculect-10-1783,noga1249-std,concepticon-1235,17.68,ким,who?,kim
+clics-doculect-10-1784,noga1249-std,concepticon-1270,17.69,неге,why?,nege
+clics-doculect-10-1785,noga1249-std,concepticon-1270,17.69,неуьшин,why?,neu'shin
+clics-doculect-10-1786,noga1249-std,concepticon-1363,18.11,сес,voice,ses
+clics-doculect-10-1787,noga1249-std,concepticon-1363,18.11,тавыс,voice,tavys
+clics-doculect-10-1788,noga1249-std,concepticon-1363,18.11,аваз,voice,avaz
+clics-doculect-10-1789,noga1249-std,concepticon-1261,18.12,йырлав,sing,iyrlav
+clics-doculect-10-1790,noga1249-std,concepticon-715,18.13,кышкырув,"shout, cry out",kyshkyruv
+clics-doculect-10-1791,noga1249-std,concepticon-55,18.15,сыбырдав,whisper,sybyrdav
+clics-doculect-10-1792,noga1249-std,concepticon-128,18.16,куьбирденуьв,mumble,ku'birdenu'v
+clics-doculect-10-1793,noga1249-std,concepticon-128,18.16,мырылдав,mumble,myryldav
+clics-doculect-10-1794,noga1249-std,concepticon-1025,18.17,сызгырув,whistle,syzgyruv
+clics-doculect-10-1795,noga1249-std,concepticon-298,18.18,шанъкылдав,"shriek, screech",shan'kyldav
+clics-doculect-10-1796,noga1249-std,concepticon-298,18.18,шынъырав,"shriek, screech",shyn'yrav
+clics-doculect-10-1797,noga1249-std,concepticon-298,18.18,канъсув,"shriek, screech",kan'suv
+clics-doculect-10-1798,noga1249-std,concepticon-526,18.19,улув,howl,uluv
+clics-doculect-10-1799,noga1249-std,concepticon-526,18.19,увылдав,howl,uvyldav
+clics-doculect-10-1800,noga1249-std,concepticon-1623,18.21,соьйлев,"speak, talk",so'ilev
+clics-doculect-10-1801,noga1249-std,concepticon-1623,18.21,хабарласув,"speak, talk",khabarlasuv
+clics-doculect-10-1802,noga1249-std,concepticon-1866,18.211,тутлыгув,"stutter, stammer",tutlyguv
+clics-doculect-10-1803,noga1249-std,concepticon-1458,18.22,айтув,say,aituv
+clics-doculect-10-1804,noga1249-std,concepticon-1711,18.221,хабарайтув,tell story,khabaraituv
+clics-doculect-10-1805,noga1249-std,concepticon-1711,18.221,хабарлав,tell story,khabarlav
+clics-doculect-10-1806,noga1249-std,concepticon-1115,18.222,соьз,speech (make a),so'z
+clics-doculect-10-1807,noga1249-std,concepticon-48,18.23,уьндемев,silent (be),u'ndemev
+clics-doculect-10-1808,noga1249-std,concepticon-1307,18.24,тил,language,til
+clics-doculect-10-1809,noga1249-std,concepticon-1599,18.26,соьз,word,so'z
+clics-doculect-10-1810,noga1249-std,concepticon-1405,18.28,ат,name,at
+clics-doculect-10-1811,noga1249-std,concepticon-1309,18.31,соравберуьв,"ask (question, inquire)",soravberu'v
+clics-doculect-10-1812,noga1249-std,concepticon-1275,18.32,сорав,answer,sorav
+clics-doculect-10-1813,noga1249-std,concepticon-2022,18.33,ашыкболув,"admit, confess",ashykboluv
+clics-doculect-10-1814,noga1249-std,concepticon-755,18.34,ератпав,deny,eratpav
+clics-doculect-10-1815,noga1249-std,concepticon-755,18.34,емангасанав,deny,emangasanav
+clics-doculect-10-1816,noga1249-std,concepticon-755,18.34,макулболмав,deny,makulbolmav
+clics-doculect-10-1817,noga1249-std,concepticon-1828,18.35,тилемек,"ask, request",tilemek
+clics-doculect-10-1818,noga1249-std,concepticon-1828,18.35,тилев,"ask, request",tilev
+clics-doculect-10-1819,noga1249-std,concepticon-1675,18.36,соьзберуьв,promise,so'zberu'v
+clics-doculect-10-1820,noga1249-std,concepticon-49,18.37,алмав,refuse,almav
+clics-doculect-10-1821,noga1249-std,concepticon-49,18.37,унамав,refuse,unamav
+clics-doculect-10-1822,noga1249-std,concepticon-49,18.37,макулкоьрмев,refuse,makulko'rmev
+clics-doculect-10-1823,noga1249-std,concepticon-83,18.38,тыйувлыкэтуьв,forbid,tyiuvlyketu'v
+clics-doculect-10-1824,noga1249-std,concepticon-83,18.38,тыйув,forbid,tyiuv
+clics-doculect-10-1825,noga1249-std,concepticon-299,18.39,акырув,"rebuke, scold",akyruv
+clics-doculect-10-1826,noga1249-std,concepticon-299,18.39,урсусув,"rebuke, scold",ursusuv
+clics-doculect-10-1827,noga1249-std,concepticon-1084,18.41,шакырув,call (=summon),shakyruv
+clics-doculect-10-1828,noga1249-std,concepticon-180,18.42,атав,call (=name),atav
+clics-doculect-10-1829,noga1249-std,concepticon-180,18.42,айтув,call (=name),aituv
+clics-doculect-10-1830,noga1249-std,concepticon-180,18.42,атберуьв,call (=name),atberu'v
+clics-doculect-10-1831,noga1249-std,concepticon-9,18.43,билдируьв,announce,bildiru'v
+clics-doculect-10-1832,noga1249-std,concepticon-101,18.45,мактанув,boast,maktanuv
+clics-doculect-10-1833,noga1249-std,concepticon-1672,18.51,йазув,write,iazuv
+clics-doculect-10-1834,noga1249-std,concepticon-724,18.52,окув,read,okuv
+clics-doculect-10-1835,noga1249-std,concepticon-648,18.56,кагыт,paper,kagyt
+clics-doculect-10-1836,noga1249-std,concepticon-794,18.57,калем,pen,kalem
+clics-doculect-10-1837,noga1249-std,concepticon-963,18.61,китап,book,kitap
+clics-doculect-10-1840,noga1249-std,concepticon-777,18.71,флейта,flute,fleita
+clics-doculect-10-1841,noga1249-std,concepticon-908,18.72,барабан,drum,baraban
+clics-doculect-10-1842,noga1249-std,concepticon-908,18.72,дуьмбирдек,drum,du'mbirdek
+clics-doculect-10-1843,noga1249-std,concepticon-2136,18.73,труба,"horn, trumpet",truba
+clics-doculect-10-1844,noga1249-std,concepticon-2136,18.73,ожак,"horn, trumpet",ozhak
+clics-doculect-10-1845,noga1249-std,concepticon-2136,18.73,кона,"horn, trumpet",kona
+clics-doculect-10-1846,noga1249-std,concepticon-2136,18.73,дуьдик,"horn, trumpet",du'dik
+clics-doculect-10-1847,noga1249-std,concepticon-300,18.74,такылдавык,rattle,takyldavyk
+clics-doculect-10-1848,noga1249-std,concepticon-300,18.74,погремушка,rattle,pogremushka
+clics-doculect-10-1849,noga1249-std,concepticon-1300,19.11,эл,country,el
+clics-doculect-10-1850,noga1249-std,concepticon-1300,19.11,кырал,country,kyral
+clics-doculect-10-1851,noga1249-std,concepticon-89,19.12,тувганэл,one's native country,tuvganel
+clics-doculect-10-1852,noga1249-std,concepticon-1391,19.15,кала,"city, town",kala
+clics-doculect-10-1853,noga1249-std,concepticon-930,19.16,йурт,village,iurt
+clics-doculect-10-1854,noga1249-std,concepticon-930,19.16,авыл,village,avyl
+clics-doculect-10-1855,noga1249-std,concepticon-1010,19.17,граница,boundary,granitsa
+clics-doculect-10-1856,noga1249-std,concepticon-1010,19.17,шет,boundary,shet
+clics-doculect-10-1857,noga1249-std,concepticon-789,19.21,халк,people (populace),khalk
+clics-doculect-10-1858,noga1249-std,concepticon-302,19.23,тукум,"tribe, clan",tukum
+clics-doculect-10-1859,noga1249-std,concepticon-302,19.23,нацийа,"tribe, clan",natsiia
+clics-doculect-10-1860,noga1249-std,concepticon-302,19.23,миллет,"tribe, clan",millet
+clics-doculect-10-1861,noga1249-std,concepticon-301,19.24,вождь,"chief, chieftain",vozhd'
+clics-doculect-10-1862,noga1249-std,concepticon-301,19.24,йолбасшы,"chief, chieftain",iolbasshy
+clics-doculect-10-1863,noga1249-std,concepticon-1846,19.31,елбасшылыкэтуьв,"rule, govern",elbasshylyketu'v
+clics-doculect-10-1864,noga1249-std,concepticon-1508,19.32,патша,"king, ruler",patsha
+clics-doculect-10-1865,noga1249-std,concepticon-1306,19.33,патшахатын,queen,patshakhatyn
+clics-doculect-10-1866,noga1249-std,concepticon-482,19.36,асыллык,"noble, nobleman",asyllyk
+clics-doculect-10-1867,noga1249-std,concepticon-482,19.36,намыслылык,"noble, nobleman",namyslylyk
+clics-doculect-10-1868,noga1249-std,concepticon-1032,19.37,гражданин,"citizen, subject",grazhdanin
+clics-doculect-10-1869,noga1249-std,concepticon-383,19.41,ие,master,ie
+clics-doculect-10-1870,noga1249-std,concepticon-383,19.41,тоьре,master,to're
+clics-doculect-10-1871,noga1249-std,concepticon-812,19.42,йалшы,slave,ialshy
+clics-doculect-10-1872,noga1249-std,concepticon-812,19.42,кул,slave,kul
+clics-doculect-10-1873,noga1249-std,concepticon-255,19.43,кул,servant,kul
+clics-doculect-10-1874,noga1249-std,concepticon-384,19.44,аьдем,freeman,a'dem
+clics-doculect-10-1875,noga1249-std,concepticon-384,19.44,инсан,freeman,insan
+clics-doculect-10-1876,noga1249-std,concepticon-1128,19.45,буйрыкберуьв,"command, order",buirykberu'v
+clics-doculect-10-1877,noga1249-std,concepticon-1635,19.46,бойсынув,obey,boisynuv
+clics-doculect-10-1878,noga1249-std,concepticon-1635,19.46,коьнуьв,obey,ko'nu'v
+clics-doculect-10-1879,noga1249-std,concepticon-1003,19.47,ыхтыйарберуьв,"let, permit",ykhtyiarberu'v
+clics-doculect-10-1880,noga1249-std,concepticon-1325,19.51,дос,"friend, companion",dos
+clics-doculect-10-1881,noga1249-std,concepticon-1358,19.52,душпан,enemy,dushpan
+clics-doculect-10-1882,noga1249-std,concepticon-1332,19.54,конъысы,neighbor,kon'ysy
+clics-doculect-10-1883,noga1249-std,concepticon-1332,19.54,авылдас,neighbor,avyldas
+clics-doculect-10-1884,noga1249-std,concepticon-791,19.55,танысболмаганаьдем,stranger,tanysbolmagana'dem
+clics-doculect-10-1885,noga1249-std,concepticon-1782,19.56,конак,guest,konak
+clics-doculect-10-1886,noga1249-std,concepticon-1545,19.57,иеси,host,iesi
+clics-doculect-10-1887,noga1249-std,concepticon-1545,19.57,ие,host,ie
+clics-doculect-10-1888,noga1249-std,concepticon-1897,19.58,коьмек,"help, aid",ko'mek
+clics-doculect-10-1889,noga1249-std,concepticon-1897,19.58,йардам,"help, aid",iardam
+clics-doculect-10-1890,noga1249-std,concepticon-1550,19.59,быршавберуьв,"hinder, prevent",byrshavberu'v
+clics-doculect-10-1891,noga1249-std,concepticon-1747,19.61,аьдет,custom,a'det
+clics-doculect-10-1892,noga1249-std,concepticon-1848,19.62,урсы,"strife, quarrel",ursy
+clics-doculect-10-1893,noga1249-std,concepticon-1848,19.62,буздырысув,"strife, quarrel",buzdyrysuv
+clics-doculect-10-1894,noga1249-std,concepticon-2024,19.63,йасыртынсоьйлесуьв,"conspiracy, plot",iasyrtynso'ilesu'v
+clics-doculect-10-1895,noga1249-std,concepticon-2024,19.63,йаманой,"conspiracy, plot",iamanoi
+clics-doculect-10-1896,noga1249-std,concepticon-1831,19.65,карсыалув,meet,karsyaluv
+clics-doculect-10-1897,noga1249-std,concepticon-1831,19.65,йолыгысув,meet,iolygysuv
+clics-doculect-10-1898,noga1249-std,concepticon-1610,19.72,кахба,prostitute,kakhba
+clics-doculect-10-1899,noga1249-std,concepticon-1610,19.72,канжык,prostitute,kanzhyk
+clics-doculect-10-1900,noga1249-std,concepticon-1423,20.11,тоьбелесуьв,fight (vb),to'belesu'v
+clics-doculect-10-1901,noga1249-std,concepticon-1423,20.11,токаласув,fight (vb),tokalasuv
+clics-doculect-10-1902,noga1249-std,concepticon-1423,20.11,согысув,fight (vb),sogysuv
+clics-doculect-10-1903,noga1249-std,concepticon-579,20.13,согыс,"war, battle",sogys
+clics-doculect-10-1904,noga1249-std,concepticon-579,20.13,кавга,"war, battle",kavga
+clics-doculect-10-1905,noga1249-std,concepticon-1338,20.14,тынышлык,peace,tynyshlyk
+clics-doculect-10-1906,noga1249-std,concepticon-1338,20.14,парахатлык,peace,parakhatlyk
+clics-doculect-10-1907,noga1249-std,concepticon-1561,20.15,аьскер,army,a'sker
+clics-doculect-10-1908,noga1249-std,concepticon-1941,20.17,аьскерши,soldier,a'skershi
+clics-doculect-10-1909,noga1249-std,concepticon-951,20.21,савыт,"weapons, arms",savyt
+clics-doculect-10-1910,noga1249-std,concepticon-1763,20.22,шокпар,club,shokpar
+clics-doculect-10-1911,noga1249-std,concepticon-1763,20.22,алдаспан,club,aldaspan
+clics-doculect-10-1912,noga1249-std,concepticon-386,20.222,айбалта,battle-ax,aibalta
+clics-doculect-10-1913,noga1249-std,concepticon-387,20.23,такъийа,sling,tak'iia
+clics-doculect-10-1914,noga1249-std,concepticon-994,20.24,йай,bow,iai
+clics-doculect-10-1915,noga1249-std,concepticon-994,20.24,соган,bow,sogan
+clics-doculect-10-1916,noga1249-std,concepticon-977,20.25,ок,arrow,ok
+clics-doculect-10-1917,noga1249-std,concepticon-945,20.26,суьнъги,spear,su'n'gi
+clics-doculect-10-1918,noga1249-std,concepticon-1535,20.27,кылыш,sword,kylysh
+clics-doculect-10-1919,noga1249-std,concepticon-1566,20.28,мылтык,"gun, cannon",myltyk
+clics-doculect-10-1920,noga1249-std,concepticon-1566,20.28,туьбек,"gun, cannon",tu'bek
+clics-doculect-10-1921,noga1249-std,concepticon-1566,20.28,топ,"gun, cannon",top
+clics-doculect-10-1922,noga1249-std,concepticon-1061,20.31,савытсадак,armor (defensive),savytsadak
+clics-doculect-10-1923,noga1249-std,concepticon-1061,20.31,савытерак,armor (defensive),savyterak
+clics-doculect-10-1924,noga1249-std,concepticon-1680,20.33,шлем,helmet,shlem
+clics-doculect-10-1925,noga1249-std,concepticon-1680,20.33,темирбоьрк,helmet,temirbo'rk
+clics-doculect-10-1926,noga1249-std,concepticon-1938,20.35,крепость,fortress,krepost'
+clics-doculect-10-1927,noga1249-std,concepticon-1938,20.35,беркитпе,fortress,berkitpe
+clics-doculect-10-1928,noga1249-std,concepticon-1671,20.36,башнйа,tower,bashnia
+clics-doculect-10-1929,noga1249-std,concepticon-1671,20.36,беркитпе,tower,berkitpe
+clics-doculect-10-1930,noga1249-std,concepticon-783,20.41,енъуьв,victory,en'u'v
+clics-doculect-10-1931,noga1249-std,concepticon-782,20.42,енъилуьв,defeat,en'ilu'v
+clics-doculect-10-1932,noga1249-std,concepticon-722,20.43,атакаэтуьв,attack,atakaetu'v
+clics-doculect-10-1933,noga1249-std,concepticon-722,20.43,карсыбарув,attack,karsybaruv
+clics-doculect-10-1934,noga1249-std,concepticon-1330,20.44,корсаланув,defend,korsalanuv
+clics-doculect-10-1935,noga1249-std,concepticon-1330,20.44,сакланув,defend,saklanuv
+clics-doculect-10-1936,noga1249-std,concepticon-421,20.45,арткатанов,retreat,artkatanov
+clics-doculect-10-1937,noga1249-std,concepticon-1696,20.46,берилуьв,surrender,berilu'v
+clics-doculect-10-1938,noga1249-std,concepticon-1072,20.47,есираьдем,"captive, prisoner",esira'dem
+clics-doculect-10-1939,noga1249-std,concepticon-1072,20.47,капалынганаьдем,"captive, prisoner",kapalyngana'dem
+clics-doculect-10-1940,noga1249-std,concepticon-1940,20.471,каравыл,"guard, sentinel",karavyl
+clics-doculect-10-1941,noga1249-std,concepticon-1022,20.48,йахшылык,"booty, spoils",iakhshylyk
+clics-doculect-10-1942,noga1249-std,concepticon-1022,20.48,ийгилик,"booty, spoils",iigilik
+clics-doculect-10-1943,noga1249-std,concepticon-65,20.49,йолынкесуьв,ambush,iolynkesu'v
+clics-doculect-10-1944,noga1249-std,concepticon-1858,20.51,балыкшы,fisherman,balykshy
+clics-doculect-10-1945,noga1249-std,concepticon-1074,20.52,балыкыслайтаганкармак,fishhook,balykyslaitagankarmak
+clics-doculect-10-1946,noga1249-std,concepticon-19,20.53,орманлык,fishing line,ormanlyk
+clics-doculect-10-1947,noga1249-std,concepticon-19,20.53,кармакагашлыкйин,fishing line,karmakagashlykiin
+clics-doculect-10-1948,noga1249-std,concepticon-388,20.54,йылым,fishnet,iylym
+clics-doculect-10-1949,noga1249-std,concepticon-389,20.55,балыккакапкан,fish trap,balykkakapkan
+clics-doculect-10-1950,noga1249-std,concepticon-389,20.55,тузак,fish trap,tuzak
+clics-doculect-10-1951,noga1249-std,concepticon-2013,20.56,алдавлык,bait,aldavlyk
+clics-doculect-10-1952,noga1249-std,concepticon-2013,20.56,алдаткышас,bait,aldatkyshas
+clics-doculect-10-1953,noga1249-std,concepticon-1435,20.61,анъгашыгув,hunt,an'gashyguv
+clics-doculect-10-1954,noga1249-std,concepticon-1172,20.62,атув,shoot,atuv
+clics-doculect-10-1955,noga1249-std,concepticon-1172,20.62,шанышув,shoot,shanyshuv
+clics-doculect-10-1956,noga1249-std,concepticon-161,20.63,тиймейкетуьв,miss (target),tiimeiketu'v
+clics-doculect-10-1957,noga1249-std,concepticon-161,20.63,йанъылыслыкэтуьв,miss (target),ian'ylyslyketu'v
+clics-doculect-10-1958,noga1249-std,concepticon-161,20.63,йанъылув,miss (target),ian'yluv
+clics-doculect-10-1959,noga1249-std,concepticon-1075,20.64,капкан,trap (noun),kapkan
+clics-doculect-10-1960,noga1249-std,concepticon-1075,20.64,тузак,trap (noun),tuzak
+clics-doculect-10-1961,noga1249-std,concepticon-1170,20.65,ыслав,trap (vb),yslav
+clics-doculect-10-1962,noga1249-std,concepticon-1170,20.65,авлав,trap (vb),avlav
+clics-doculect-10-1963,noga1249-std,concepticon-1062,21.11,закон,law,zakon
+clics-doculect-10-1964,noga1249-std,concepticon-1068,21.15,суд,court,sud
+clics-doculect-10-1965,noga1249-std,concepticon-1068,21.15,тоьре,court,to're
+clics-doculect-10-1966,noga1249-std,concepticon-1818,21.16,судэтуьв,judge (vb),sudetu'v
+clics-doculect-10-1967,noga1249-std,concepticon-1818,21.16,судкесуьв,judge (vb),sudkesu'v
+clics-doculect-10-1968,noga1249-std,concepticon-1067,21.17,судтынъкарары,judgment,sudtyn'karary
+clics-doculect-10-1969,noga1249-std,concepticon-861,21.18,судьйа,judge (noun),sud'ia
+clics-doculect-10-1970,noga1249-std,concepticon-861,21.18,тоьреши,judge (noun),to'reshi
+clics-doculect-10-1971,noga1249-std,concepticon-1034,21.22,йаваплыаьдем,defendant,iavaplya'dem
+clics-doculect-10-1972,noga1249-std,concepticon-1144,21.23,шайыт,witness,shaiyt
+clics-doculect-10-1973,noga1249-std,concepticon-1144,21.23,шагат,witness,shagat
+clics-doculect-10-1974,noga1249-std,concepticon-1939,21.24,антэтуьв,swear,antetu'v
+clics-doculect-10-1975,noga1249-std,concepticon-1939,21.24,антберуьв,swear,antberu'v
+clics-doculect-10-1976,noga1249-std,concepticon-1712,21.25,ант,oath,ant
+clics-doculect-10-1977,noga1249-std,concepticon-1712,21.25,ваде,oath,vade
+clics-doculect-10-1978,noga1249-std,concepticon-1814,21.31,куьнаьлев,accuse,ku'na'lev
+clics-doculect-10-1979,noga1249-std,concepticon-484,21.32,судкесуьв,condemn,sudkesu'v
+clics-doculect-10-1980,noga1249-std,concepticon-484,21.32,налетлев,condemn,naletlev
+clics-doculect-10-1981,noga1249-std,concepticon-484,21.32,йаманлав,condemn,iamanlav
+clics-doculect-10-1982,noga1249-std,concepticon-983,21.33,куьнаьлидепсанав,convict (vb),ku'na'lidepsanav
+clics-doculect-10-1983,noga1249-std,concepticon-988,21.34,аклав,acquit,aklav
+clics-doculect-10-1984,noga1249-std,concepticon-988,21.34,тазанав,acquit,tazanav
+clics-doculect-10-1985,noga1249-std,concepticon-1682,21.35,куьнаьли,guilty,ku'na'li
+clics-doculect-10-1986,noga1249-std,concepticon-90,21.36,куьнаьлитувыл,innocent,ku'na'lituvyl
+clics-doculect-10-1987,noga1249-std,concepticon-390,21.37,езалав,"penalty, punishment",ezalav
+clics-doculect-10-1988,noga1249-std,concepticon-390,21.37,шуьшкейолыктырув,"penalty, punishment",shu'shkeiolyktyruv
+clics-doculect-10-1989,noga1249-std,concepticon-218,21.38,акшаштраф,fine,akshashtraf
+clics-doculect-10-1990,noga1249-std,concepticon-1281,21.39,тутнак,"prison, jail",tutnak
+clics-doculect-10-1991,noga1249-std,concepticon-845,21.42,оьлтируьв,murder,o'ltiru'v
+clics-doculect-10-1992,noga1249-std,concepticon-902,21.43,кахвалык,adultery,kakhvalyk
+clics-doculect-10-1993,noga1249-std,concepticon-902,21.43,зыйа,adultery,zyia
+clics-doculect-10-1994,noga1249-std,concepticon-953,21.44,зайалав,rape,zaialav
+clics-doculect-10-1995,noga1249-std,concepticon-953,21.44,корлав,rape,korlav
+clics-doculect-10-1996,noga1249-std,concepticon-1889,21.46,отсалув,arson,otsaluv
+clics-doculect-10-1997,noga1249-std,concepticon-1792,21.47,елганшайытлыкэтуьв,perjury,elganshaiytlyketu'v
+clics-doculect-10-1998,noga1249-std,concepticon-713,21.51,урлав,steal,urlav
+clics-doculect-10-1999,noga1249-std,concepticon-1160,21.52,ур,thief,ur
+clics-doculect-10-2000,noga1249-std,concepticon-1160,21.52,уршы,thief,urshy

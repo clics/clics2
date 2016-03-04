@@ -1,0 +1,1264 @@
+@classification: Mayan,Cholan-Tzeltalan,Tzeltalan
+@iso: tzz
+@language: Tzotzil, Zinacantán
+@size: 1258
+@source: wold
+@variety: std
+1.1	world	balamil
+1.21	earth, land	balamil
+1.21	earth, land	osil
+1.212	earth=ground, soil	puksatbalamil
+1.213	dust	ik'ubal
+1.213	dust	pukuk
+1.214	mud	ik'ubal
+1.214	mud	tatal
+1.214	mud	ach'el
+1.215	sand	yi'
+1.22	mountain, hill	vitz
+1.222	cliff, precipice	ch'en
+1.222	cliff, precipice	k'ulebal
+1.23	plain, field	pach'altik
+1.24	valley	pul'osil
+1.24	valley	pulav
+1.27	shore	ti'_________
+1.28	cave	ch'en
+1.28	cave	nailch'en
+1.28	cave	k'ulebal
+1.31	water	vo'
+1.31	water	a'al
+1.32	sea	nab
+1.322	calm (of sea)	vashal
+1.324	foam	vok
+1.329	ocean	nab
+1.33	lake	nab
+1.36	river, stream, brook	nab
+1.36	river, stream, brook	uk’um
+1.37	spring, well	ninab
+1.38	swamp	ach'eltik
+1.38	swamp	shaab
+1.39	waterfall	yalebvo'
+1.41	woods, forest	osil
+1.41	woods, forest	tetik
+1.43	wood	takite
+1.44	stone, rock	ton
+1.45	earthquake	nikel
+1.51	sky	vinahel
+1.52	sun	k'ak'al
+1.53	moon	u
+1.53	moon	luna
+1.54	star	k’anal
+1.55	lightning	saktzeul
+1.55	lightning	chauk
+1.56	thunder	chauk
+1.56	thunder	mevo
+1.57	lightning (as striking)	chauk
+1.58	storm	tzuhton
+1.59	rainbow	mek’inubal
+1.59	rainbow	vaknab
+1.61	light (noun)	k’ak’al
+1.61	light (noun)	k’ok’
+1.61	light (noun)	lus
+1.62	darkness	ik’osil
+1.63	shade, shadow	kevu
+1.63	shade, shadow	nak’obal
+1.64	dew	ovosil
+1.71	air	ik’
+1.72	wind	ik’
+1.73	cloud	tok
+1.74	fog	lumaltok
+1.75	rain (noun)	vo
+1.77	ice	bot
+1.77	ice	taiv
+1.81	fire	k’ok’
+1.82	flame (noun)	atk’ok’
+1.83	smoke (noun)	ch’ail
+1.84	ashes	tan
+1.851	burn (vb trans)	chik’
+1.852	burn (vb intrans)	k’ak’
+1.86	light, kindle, ignite	tiles
+1.861	extinguish	tup’
+1.87	match (noun)	posporo
+1.87	match (noun)	serio
+1.88	firewood	si
+1.89	charcoal	ak’al
+2.1	person, human being	krishchnano
+2.21	man (vs. woman)	mol
+2.21	man (vs. woman)	vinik
+2.22	woman	antz
+2.25	boy	muchacho
+2.26	girl	tzeb
+2.261	young woman (adolescent)	bik’talantz
+2.27	child	olol
+2.28	infant, baby	nene
+2.28	infant, baby	unen
+2.31	husband	malalil
+2.31	husband	mol
+2.32	wife	ahnilal
+2.32	wife	ahvalna
+2.32	wife	antzilal
+2.33	marry	ik’
+2.33	marry	ik’baik
+2.33	marry	nupun
+2.34	marriage, wedding	mishail
+2.341	divorce	iktaehbail
+2.341	divorce	ch’akbail
+2.35	father	totil
+2.36	mother	meil
+2.41	son	kerem
+2.42	daughter	tzebil
+2.42	daughter	tzeb
+2.43	offspring (son or daughter)	olil
+2.43	offspring (son or daughter)	nich’nab
+2.43	offspring (son or daughter)	nich’onil
+2.444	older brother	shibnelal
+2.444	older brother	bankilal
+2.445	younger brother	mukil
+2.445	younger brother	itz’inal
+2.454	older sister	vishil
+2.455	younger sister	mukil
+2.455	younger sister	ishlelil
+2.456	sibling	chiilil
+2.458	twins	vach
+2.46	grandfather	muk’tatotil
+2.47	grandmother	muk’tameil
+2.471	old woman	meel
+2.48	grandson	momil
+2.49	granddaughter	momil
+2.51	uncle	juntotil
+2.52	aunt	muk’tameil
+2.55	cousin	muk’tatotil
+2.55	cousin	utz’alalil
+2.55	cousin	huntotil
+2.55	cousin	hunch’amalil
+2.55	cousin	hunnich’onil
+2.55	cousin	hunolil
+2.56	ancestors	antivo
+2.61	father-in-law (of a man)	nimolil
+2.611	father-in-law (of a woman)	alibmolil
+2.62	mother-in-law (of a man)	nimeelil
+2.621	mother-in-law (of a woman)	alibmeelil
+2.63	son-in-law (of a man)	niil
+2.631	son-in-law (of a woman)	niil
+2.64	daughter-in-law (of a man)	alibal
+2.641	daughter-in-law (of a woman)	alibal
+2.71	stepfather	tot
+2.73	stepson	ch'amalin
+2.75	orphan	meon
+2.76	widow	meanalantz
+2.77	widower	meanalvinik
+2.81	relatives, kinsmen	chiilil
+2.82	family	chop
+2.92	you (singular)	voot
+2.941	we (inclusive)	vootik
+2.942	we (exclusive)	vootikotik
+2.95	you (plural)	vooshuk
+3.11	animal	animal
+3.11	animal	chanulil
+3.11	animal	chon
+3.12	male (adj)	tot_______________
+3.13	female (adj)	me_______________
+3.16	pasture	koleb
+3.16	pasture	potrero
+3.18	herdsman	jmak_
+3.19	stable, stall	na___
+3.21	bull	toro
+3.21	bull	vakash
+3.22	ox	wey
+3.23	cow	vaca
+3.23	cow	mebaka
+3.23	cow	vacash
+3.24	calf	nich'onil
+3.25	sheep	chih
+3.26	ram	karnero
+3.29	lamb	mimi
+3.35	pig	chitom
+3.36	goat	chivo
+3.41	horse (equine)	ka
+3.42	stallion	batz’ika
+3.42	stallion	potro
+3.44	mare	yevash
+3.46	ass, donkey	buro
+3.47	mule	ka
+3.52	cock, rooster	kelem
+3.54	hen	mealak’
+3.54	hen	mekashlan
+3.55	chicken	alak’
+3.55	chicken	kashlan
+3.57	duck	pech’
+3.58	nest	tzoop
+3.581	bird	mut
+3.583	heron	karsa
+3.583	heron	htzakchoy
+3.585	hawk	shik
+3.586	vulture	shulem
+3.591	bat	sotz’
+3.592	parrot	loro
+3.592	parrot	periko
+3.593	crow	hoh
+3.594	dove	pulivok
+3.594	dove	tzuin
+3.596	owl	kushkush
+3.596	owl	ichin
+3.61	dog	tz’i
+3.614	rabbit	t'ul
+3.62	cat	chon
+3.62	cat	katu
+3.62	cat	manu
+3.62	cat	mashu
+3.62	cat	moshit
+3.62	cat	shalu
+3.622	opossum	uch
+3.63	mouse, rat	ch’o
+3.65	fish	choy
+3.652	fin (dorsal)	shik’
+3.653	fishscale	meriochoy
+3.655	shell	konsha
+3.72	lion	leon
+3.73	bear	osov
+3.74	fox	vet
+3.75	deer	chih
+3.76	monkey	mash
+3.81	insect	chon
+3.811	louse	uch’
+3.812	nit (louse egg)	tonuch’
+3.813	flea	ch’ak
+3.814	centipede	chame`at
+3.815	scorpion	tzek
+3.816	cockroach	mako
+3.817	ant	shinich
+3.818	spider	om
+3.82	bee	chanulpom
+3.82	bee	kachimpapom
+3.82	bee	mermeho
+3.82	bee	mishik’pom
+3.82	bee	tonpom
+3.821	beeswax	seraahapom
+3.822	beehive	napom
+3.823	wasp	ovishpo
+3.823	wasp	chanulakov
+3.83	fly	vo
+3.831	sandfly (midge), gnat	us
+3.832	mosquito	shenen
+3.84	worm	shuit
+3.85	snake	chon
+3.91	firefly	kukay
+3.92	butterfly	pepen
+3.93	grasshopper	p’ilish
+3.94	snail	puy
+3.94	snail	poshilchuvah
+3.94	snail	puyaluk’um
+3.95	frog	shpokok
+3.96	lizard	patish
+3.96	lizard	okotz
+3.97	crocodile, alligator	lagarto
+3.98	turtle	ok
+4.11	body	takopal
+4.12	skin, hide	nukul
+4.12	skin, hide	nukulal
+4.13	flesh	bek’tal
+4.14	hair (head)	tzotz
+4.14	hair (head)	tzatzal
+4.142	beard	isimil
+4.145	pubic hair	tzisanil
+4.145	pubic hair	tzon
+4.146	dandruff	sakilapon
+4.146	dandruff	salapon
+4.15	blood	ch’ich’
+4.15	blood	ch’ch’elil
+4.15	blood	sankre
+4.151	vein, artery	bech’ich’elil
+4.16	bone	bak
+4.16	bone	bakelil
+4.162	rib	ch’elopil
+4.162	rib	ch’ilteil
+4.17	horn	shulub
+4.18	tail	neil
+4.19	back	patil
+4.191	spine	ch’ichpatil
+4.2	head	holol
+4.202	skull	holanima
+4.202	skull	bakelholanima
+4.203	brain	chinamil
+4.204	face	satil
+4.205	forehead	ti`bail
+4.208	cheek	tonsatil
+4.209	chin	kolomil
+4.209	chin	kovovil
+4.21	eye	satil
+4.21	eye	yashavo
+4.212	eyebrow	motzobil
+4.214	eyelash	shik’satil
+4.215	blink	mutz’ilan
+4.22	ear	chikinil
+4.221	earlobe	k’unilchikinil
+4.23	nose	ni
+4.231	nostril	besim
+4.232	mucus (nasal)	simal
+4.24	mouth	eal
+4.241	beak	ni
+4.25	lip	analeal
+4.25	lip	pak’aleal
+4.26	tongue	ok’
+4.27	tooth	eal
+4.27	tooth	tan
+4.27	tooth	tanaleal
+4.272	molartooth	choobil
+4.28	neck	nuk’il
+4.29	throat	nuk’il
+4.29	throat	turum
+4.3	shoulder	nekebal
+4.302	collarbone	ualbakel
+4.31	arm	k’obol
+4.312	armpit	lotz’opil
+4.32	elbow	shuk’omil
+4.321	wrist	nuk’k’obol
+4.33	hand	k’abal
+4.33	hand	k’obol
+4.331	palm of hand	utk’obol
+4.331	palm of hand	pachomalk’obol
+4.34	finger	bik’talk’obol
+4.34	finger	nik’obol
+4.342	thumb	mek’obol
+4.344	fingernail	niich’akil
+4.345	claw	ich’akil
+4.35	leg	akanil
+4.35	leg	okol
+4.351	thigh	oil
+4.36	knee	holakan
+4.36	knee	holovakan
+4.36	knee	k’uhav
+4.37	foot	okol
+4.371	ankle	nuk’okol
+4.372	heel	chakokol
+4.372	heel	chakil
+4.374	footprint	avokol
+4.38	toe	bik’talokol
+4.38	toe	niokol
+4.392	wing	shik’
+4.393	feather	k’uk’umal
+4.4	chest	tioonil
+4.41	breast (of woman)	chuil
+4.412	nipple, teat	nichu’ul
+4.42	udder	chuil
+4.43	navel	mishik’il
+4.44	heart	oonil
+4.45	liver	sekub
+4.451	kidney	rinyon
+4.452	spleen	ach’el
+4.46	stomach	ch’util
+4.461	intestines, guts	bikil
+4.461	intestines, guts	tzo
+4.462	waist	ch’util
+4.462	waist	chukbenal
+4.463	hip	oil
+4.464	buttocks	chakil
+4.464	buttocks	likavchakil
+4.464	buttocks	pechchakil
+4.47	womb	avol
+4.47	womb	avunen
+4.49	testicle	bek’atil
+4.49	testicle	tonat
+4.492	penis	at
+4.492	penis	ushubil
+4.51	breathe, breath	ich’ik’
+4.52	yawn, gape	hach’eal
+4.521	hiccough	shuk’shuk’
+4.53	cough	obah
+4.54	sneeze	hat’isah
+4.55	perspire	chik’inah
+4.56	spit	tubah
+4.57	vomit	shen
+4.58	bite	tzak
+4.58	bite	ti
+4.59	lick	lek’
+4.61	sleep	vay
+4.61	sleep	batch’ulel
+4.612	snore	hokbevayel
+4.62	dream	vaychin
+4.63	wake up	hulav
+4.63	wake up	vik’esba
+4.64	break wind	tzisin
+4.65	urinate	k’abin
+4.66	defecate	tza’an
+4.66	defecate	ch’ayba
+4.67	have sexual intercourse	pasmul
+4.67	have sexual intercourse	ik’baik
+4.68	shiver	nik
+4.69	bathe	atiltas
+4.72	born (to be)	vinkilah
+4.732	conceive	tz’anesbe
+4.74	live, living, life	kushul
+4.75	die, dead	cham
+4.751	drowned	hik’av
+4.76	kill	mil
+4.76	kill	chames
+4.76	kill	milvan
+4.78	bury (the dead)	but’i
+4.78	bury (the dead)	muk
+4.78	bury (the dead)	tenu
+4.79	grave, tomb	ch’enal
+4.81	strong, mighty, powerful	tzatzal
+4.81	strong, mighty, powerful	tzotz
+4.82	weak	k’un
+4.83	well, health	k’ok’
+4.84	sick, sickness	ip
+4.841	fever	k’ok’
+4.841	fever	k’ak’al
+4.842	goiter	vevech
+4.843	cold (catarrh)	similobal
+4.85	wound, sore	lastima
+4.852	bruise	lep'
+4.853	swelling	situbel
+4.854	itch	ch’ininul
+4.855	blister	vochemal
+4.856	boil (noun)	chakal
+4.857	pus	pohov
+4.857	pus	vahobal
+4.858	scar	avlastima
+4.858	scar	senya
+4.86	cure, heal	yuuun
+4.87	physician	hposhtavaneh
+4.87	physician	loktor
+4.88	medicine, drug	poshil
+4.89	poison	beneno
+4.912	rest	kush
+4.92	lazy	ch’ah
+4.92	lazy	ploho
+4.93	bald	bochol
+4.93	bald	kanel
+4.94	lame	kosho
+4.95	deaf	kok
+4.95	deaf	sorto
+4.96	mute	uma
+4.97	blind	kuk
+4.98	intoxicated	tzinil
+4.99	naked, bare	t’analik
+5.11	eat	ochan
+5.11	eat	lahes
+5.11	eat	ti
+5.12	food	ve`el___
+5.121	cooked	tok’on
+5.123	ripe	tok’on
+5.124	green, unripe	unen
+5.124	green, unripe	tze
+5.125	rotten	k’aal
+5.125	rotten	k’o
+5.125	rotten	puk’ulik
+5.13	drink	uch’
+5.14	hunger	ve
+5.14	hunger	vinah
+5.141	famine	vinaltik
+5.15	thirst	takihti
+5.16	suck	tz’utz’
+5.18	chew	xax
+5.181	swallow	bik’
+5.19	choke	hik’av
+5.21	cook	taahes
+5.22	boil (vb)	lakan
+5.22	boil (vb)	bulomah
+5.22	boil (vb)	vokan
+5.23	roast, fry	vo
+5.23	roast, fry	ch’il
+5.24	bake	meltzan
+5.25	oven	horno
+5.26	pot, cooking vessel	p’in
+5.26	pot, cooking vessel	rosa
+5.28	pan	pasobve`elil
+5.32	plate	plato
+5.33	bowl	pulatu
+5.34	pitcher, jug	rosa
+5.34	pitcher, jug	rosap’in
+5.35	cup, drinking vessel	tasa
+5.35	cup, drinking vessel	tasaboch
+5.37	spoon	kuchara
+5.38	knife	kuchilu
+5.391	tongs	lotz'ob
+5.41	meal (a)	veel
+5.41	meal (a)	velil
+5.42	breakfast	traste
+5.46	peel	cho
+5.47	sieve, strain	chih
+5.47	sieve, strain	chichin
+5.48	scrape	hos
+5.49	stir, mix	huy
+5.49	stir, mix	nikes
+5.49	stir, mix	kap
+5.51	bread	kashlanot
+5.51	bread	kashlanvah
+5.51	bread	pan
+5.53	dough	puk'
+5.54	knead	votz’
+5.55	meal, flour	harina
+5.56	crush, grind	huch’un
+5.56	crush, grind	net’
+5.56	crush, grind	petz’k’un
+5.57	mill	mulino
+5.58	mortar	kamaro
+5.61	meat	bek’et
+5.61	meat	tibol
+5.63	sausage	choris
+5.63	sausage	lonkanisyo
+5.65	vegetables	itaj
+5.66	bean	chenek’
+5.7	potato	isak’
+5.7	potato	batz’iisak’
+5.7	potato	sakiltranheroisak’
+5.71	fruit	satil
+5.712	bunch	keplej
+5.75	fig	ik’ush
+5.76	grape	tz’usub
+5.76	grape	veelinatab
+5.79	oil	asete
+5.791	grease, fat	hup’el
+5.791	grease, fat	sheru
+5.81	salt	atz’am
+5.82	pepper	pimenta
+5.821	chili pepper	ich
+5.84	honey	aha
+5.84	honey	ahapom
+5.85	sugar	asuka
+5.86	milk (noun)	lech
+5.87	milk (vb)	pitz’
+5.88	cheese	keshu
+5.9	beverage, drink	uch'bajel
+5.92	wine	bino
+5.93	beer	servesa
+5.97	egg	tanal
+5.97	egg	ton
+5.971	egg yolk	k’anal
+5.971	egg yolk	k'anal
+6.11	put on (clothes)	kajan
+6.12	clothing, clothes	k’uil
+6.12	clothing, clothes	pok’
+6.22	wool	tzotz
+6.24	cotton	tushnuk’
+6.25	silk	satxela
+6.28	fur	tzotz
+6.29	leather	nukulal___
+6.31	spin	nahomah
+6.31	spin	navu
+6.32	spindle	petet
+6.33	weave	hal
+6.34	loom	holobil
+6.35	sew	tz’is
+6.36	needle	akusha
+6.38	thread	no
+6.38	thread	navul
+6.38	thread	ilera
+6.39	dye	bon
+6.411	poncho	chuhil
+6.44	shirt	moketeil
+6.45	collar	nuk’il
+6.46	skirt	tzekil
+6.49	stocking, sock	naokol
+6.51	shoe	sapato
+6.52	boot	botin
+6.55	hat, cap	pishol
+6.57	belt, girdle	chukch’util
+6.58	glove	nak’obol
+6.62	button	boton
+6.75	necklace	natz’il
+6.76	bead	satil
+6.77	earring	tak’inchikinil
+6.78	headband, headdress	chukhalal
+6.81	handkerchief, rag	kusob
+6.91	comb	hach’ubil
+6.921	braid	pech’benal
+6.93	razor	chilete
+6.95	soap	shavon
+6.96	mirror	nen
+6.96	mirror	k’elobbail
+7.11	dwell, live	naki
+7.12	house	na
+7.13	hut	lechepat
+7.131	garden-house	nailchobtik
+7.15	yard, court	amak'
+7.17	cookhouse	kusina
+7.22	door, gate	makna
+7.22	door, gate	maktina
+7.22	door, gate	tina
+7.23	lock (noun)	k’ohte
+7.231	latch, door-bolt	altavo
+7.24	key	yave
+7.25	window	ventana
+7.26	floor	lumtik
+7.27	wall	ibel
+7.27	wall	pak’na
+7.37	ladder	mochte
+7.37	ladder	muyebal
+7.37	ladder	tek’obal
+7.42	bed	tem
+7.42	bed	vayebal
+7.421	pillow	shonholil
+7.422	blanket	chamaroil
+7.422	blanket	chih
+7.43	chair	shila
+7.44	table	mesha
+7.45	lamp, torch	avkas
+7.45	lamp, torch	kantil
+7.46	candle	kantela
+7.47	shelf	kahanab
+7.48	trough	hom
+7.51	roof	holol
+7.52	thatch	hobel
+7.53	ridgepole	holtzel
+7.53	ridgepole	holchuk
+7.54	rafter	teelna
+7.54	rafter	natikilte
+7.55	beam	chantzelavte
+7.56	post, pole	oy
+7.57	board	tenelte
+7.58	arch	alku
+7.61	mason	alvanil
+7.62	brick	lagrio
+7.64	adobe	shamit
+8.12	field (for cultivation)	kampo
+8.16	fence	makol
+8.16	fence	mok
+8.17	ditch	beo
+8.21	plow	araro
+8.22	dig	ch’oh
+8.22	dig	hok’
+8.23	spade	kova
+8.24	shovel	pala
+8.25	hoe	asaluna
+8.27	rake	jotzobil
+8.31	sow	vih
+8.311	seed	bek’
+8.33	sickle, scythe	hos
+8.35	threshing-floor	era
+8.41	crop, harvest	k’ahoh
+8.43	wheat	triko
+8.47	maize, corn	ishim
+8.48	rice	aros
+8.51	grass	hobel
+8.53	plant (noun)	tz'ilel
+8.531	plant (vb)	tz’un
+8.54	root	ibel
+8.54	root	isimil
+8.55	branch	k’obol
+8.56	leaf	anal
+8.57	flower	nich
+8.6	tree	te
+8.61	oak	tulan
+8.64	pine	toh
+8.66	acorn	chochob
+8.67	vine	ak’
+8.68	tobacco	moy
+8.69	smoke (tobacco)	butz’
+8.72	tree stump	chakte
+8.72	tree stump	chumante
+8.73	tree trunk	okol
+8.74	forked branch	jette
+8.75	bark	patil
+8.76	sap	chu
+8.76	sap	pohov
+8.81	palm tree	shan
+8.82	coconut	koko
+8.84	banana tree	kinya
+8.84	banana tree	lobol
+8.912	yam	tz'itesob`at
+8.92	tapioca, manioc, cassava	tz'inte
+8.93	gourd	tzu
+8.931	pumpkin, squash	su
+8.94	bamboo	bish
+8.94	bamboo	otot
+8.94	bamboo	taro
+8.941	sugar cane	vale
+8.97	nettle	la
+8.98	mushroom	chan
+8.98	mushroom	chanultetik
+9.11	do, make	al
+9.11	do, make	pas
+9.12	work	`abtelil
+9.14	bend	lu
+9.15	fold	pak
+9.16	tie, bind	timan
+9.161	untie	titin
+9.18	chain	karina
+9.19	rope, cord	laso
+9.192	knot (noun)	p’ok
+9.21	strike (hit, beat)	mah
+9.21	strike (hit, beat)	bah
+9.211	pound with fist	t’us
+9.22	cut	boh
+9.22	cut	tuch’
+9.221	cut down	boh
+9.222	chop, hew	boh
+9.223	stab	pahbe
+9.23	knife	kuchilu
+9.24	scissors, shears	tesheresh
+9.25	ax	ek’el
+9.26	break	k’as
+9.26	break	vok’
+9.261	broken	tuch’el
+9.261	broken	vok’olik
+9.27	split	hav
+9.27	split	t’ah
+9.28	tear	hat
+9.29	flay, skin	cho
+9.31	rub, wipe	biulan
+9.32	stretch	li
+9.33	pull	nit
+9.34	spread out	yi`lej
+9.341	hang up	hipan
+9.341	hang up	hok’an
+9.341	hang up	vitan
+9.343	squeeze, wring	pitz’
+9.35	pour	k’eb
+9.35	pour	kol
+9.36	wash	pok
+9.36	wash	chuk’
+9.37	sweep	mes
+9.38	broom	mesehob
+9.422	tool	abtehebal
+9.43	carpenter	kalpintero
+9.44	build	meltzan
+9.44	build	p’ehan
+9.44	build	vaan
+9.461	hollow out	kujtzanan
+9.48	saw	kupob
+9.49	hammer	martio
+9.5	nail	lavush
+9.56	glue	nap'ob
+9.6	smith, blacksmith	htentak’in
+9.64	gold	oro
+9.71	potter	hpotob
+9.72	mold (clay etc)	pat
+9.73	clay	chablum
+9.75	weave, plait	hal
+9.76	basket	moch
+9.77	mat	pop
+9.79	fan (noun)	velob
+9.791	fan (vb)	hik’a
+9.791	fan (vb)	vel
+9.81	carve	an
+9.84	chisel	anob
+9.88	paint (noun)	bon
+9.89	paint (vb)	bon
+10.11	move	helubtas
+10.12	turn over	ak’bwelta
+10.13	turn around	ak’bwelta
+10.13	turn around	hoyihes
+10.14	wind, wrap	potzan
+10.15	roll	tishk’uh
+10.16	drop (vb)	p’ahes
+10.17	twist	tz’ot
+10.21	rise	muy
+10.21	rise	kah
+10.22	raise, lift	toy
+10.22	raise, lift	lik
+10.22	raise, lift	tam
+10.22	raise, lift	totz
+10.23	fall	tishk’uh
+10.23	fall	p’ah
+10.24	drip	tz’uh
+10.25	throw	hip
+10.25	throw	ten
+10.252	catch (ball)	tzakan
+10.26	shake	okilan
+10.26	shake	lilin
+10.26	shake	vuyilan
+10.26	shake	yoilan
+10.33	sink	muk
+10.34	float	kahi
+10.35	swim	nushih
+10.352	splash	ch’ites
+10.37	fly (vb)	vil
+10.412	kneel	kehi
+10.413	crouch	tzubanba
+10.42	slide, slip	tzul
+10.42	slide, slip	hashk’un
+10.42	slide, slip	bilk’uh
+10.43	jump, leap	p’it
+10.431	kick	liktatek’el
+10.431	kick	puhtatek’el
+10.44	dance	ak’otah
+10.45	walk	shanav
+10.451	limp	koshkonah
+10.451	limp	lit’lonah
+10.451	limp	pehponah
+10.46	run	anilah
+10.47	go	bat
+10.472	climb	muy
+10.473	go down	pek'i
+10.474	go out	lok’
+10.48	come	tal
+10.481	come back	sut
+10.49	go away, depart	totzech’el
+10.491	disappear	sakch’ay
+10.51	flee	hatav
+10.52	follow	tihi
+10.55	reach, arrive	yul
+10.55	reach, arrive	k’ot
+10.55	reach, arrive	tal
+10.56	approach	nopoj
+10.57	enter	och
+10.61	carry (bear)	ich’
+10.613	carry-on-shoulder	poyech’el
+10.62	bring	ich’tal
+10.63	send	tak’i
+10.64	lead (vb)	ak’punto
+10.67	push, shove	shuh
+10.67	push, shove	net’
+10.71	road	be
+10.71	road	kaya
+10.72	path	be
+10.72	path	ileb
+10.74	bridge	k’o
+10.74	bridge	bak’o
+10.76	wheel	karos
+10.78	yoke	choh
+10.78	yoke	mankornal
+10.831	canoe	hom
+10.85	oar	palate
+10.852	row (vb)	hub
+11.13	take	ich’
+11.13	take	ik’
+11.13	take	tzak
+11.13	take	tam
+11.15	hold	tom
+11.16	get, obtain	ta
+11.16	get, obtain	tama
+11.17	keep, retain	k’eh
+11.17	keep, retain	nak’
+11.18	thing	k’usukuun
+11.21	give	ak’
+11.22	give back	sutestal
+11.25	save, rescue	pohuun
+11.28	harm, injure, damage	yayijemal
+11.31	seek, look for	sa
+11.32	find	ta
+11.33	lose	ch’ay
+11.43	money	sentavo
+11.43	money	tak’in
+11.44	coin	`antivotak'in
+11.51	rich	riko
+11.52	poor	povre
+11.53	beggar	hk’anlimushno
+11.54	avaricious, stingy	t’ut’
+11.62	borrow	ch’amun
+11.62	borrow	och’tach’om
+11.64	debt	ilil
+11.64	debt	kwenta
+11.65	pay (vb)	toh
+11.69	tax, tribute	tojel`ak'el
+11.78	wages	tohol
+11.79	earn	ich’tohel
+11.81	buy	man
+11.82	sell	chon
+11.83	trade, barter	hel
+11.83	trade, barter	tukulta
+11.84	merchant	hchonolahel
+11.84	merchant	hp’olmahel
+11.84	merchant	marchante
+11.85	market (place)	ch’ivit
+11.86	store, shop	tyenta
+11.87	price	tohol
+11.88	dear (costly, expensive)	kiltak’in
+11.89	cheap	yalem
+11.91	share (distribute)	komonta
+12.11	place	avil
+12.11	place	balamil
+12.11	place	lugar
+12.12	put	ak’
+12.13	sit	tzuni
+12.14	lie down	puch’etah
+12.15	stand	noch'
+12.16	remain, stay	kom
+12.21	collect, gather	tzuk
+12.212	pick up	tam
+12.213	pile up	yemba
+12.23	separate	ch’ak
+12.232	divide	ch’ak
+12.24	open	ham
+12.25	shut, close	nup'ba
+12.26	cover	mak
+12.27	hide, conceal	nak’
+12.31	high	toyol
+12.32	low	pek’el
+12.33	top	bail
+12.34	bottom	chakil
+12.35	end	pajeb
+12.352	pointed	tz’upul
+12.353	edge	tiil
+12.36	side	ibel
+12.36	side	shokon
+12.37	middle, center	olol
+12.41	right (side)	batz'ik'obol
+12.42	left (side)	tz’et
+12.42	left (side)	surto
+12.43	near (adv)	nopol
+12.44	far (adv)	nom
+12.45	east	ak’ol
+12.45	east	lok’ebk’ak’al
+12.46	west	olon
+12.46	west	malebk’ak’al
+12.47	north	shokonvinahel
+12.48	south	shokonvinahel
+12.53	grow	ch’i
+12.54	measure	p’is
+12.55	large, big	muk’
+12.56	small, little	bik’it
+12.57	long	bitzbitz
+12.57	long	tz’upul
+12.57	long	natil
+12.57	long	tintin
+12.58	tall	natil
+12.58	tall	vatz’al
+12.59	short	tzapo
+12.61	wide, broad	hamal
+12.61	wide, broad	shemel
+12.62	narrow	japajtik
+12.63	thick (in dimension)	pim
+12.65	thin (in dimension)	hoy
+12.67	deep	natil
+12.67	deep	toyol
+12.68	shallow	hoy
+12.71	flat	pach’al
+12.73	straight	tuk’
+12.74	crooked	lukluk
+12.75	hook	hiplebal
+12.75	hook	hok’leb
+12.76	corner	xuk'av
+12.77	cross	krus
+12.81	round	setset
+12.82	circle	sentro
+12.83	sphere, ball	pelota
+12.85	hole	ch’en
+12.85	hole	ch’ohbenal
+12.85	hole	vombenal
+12.92	like, similar	kool
+12.92	like, similar	pareho
+12.93	change	k'ex
+13.1	one	lahun
+13.101	eleven	buluch
+13.102	twelve	lahcha
+13.103	fifteen	volahuneb
+13.104	twenty	tob
+13.105	hundred	syen
+13.105	hundred	vovinik
+13.106	thousand	mil
+13.107	count	paskwenta
+13.14	every, all	kotol
+13.14	every, all	labal
+13.15	much, many	ep
+13.16	more	mas
+13.16	more	yan
+13.17	little (quantity), few	hay___________
+13.21	full	noh
+13.22	empty	shokol
+13.33	alone, only	k’ahom
+13.33	alone, only	naka
+13.33	alone, only	puro
+13.34	first	t’ab
+13.34	first	primero
+13.34	first	bayi
+14.11	time	ora
+14.11	time	tyempo
+14.12	age	ch’iel
+14.13	new	ach’
+14.14	young	unen
+14.15	old	k’a
+14.15	old	mol
+14.18	now	li
+14.18	now	sha
+14.19	immediately	kahkah
+14.21	swift, fast, quick	suhem
+14.22	slow	k’un
+14.23	hasten, hurry	nikah
+14.23	hasten, hurry	suh
+14.23	hasten, hurry	sobah
+14.25	begin, beginning	lik
+14.25	begin, beginning	tam
+14.252	last, endure	bat
+14.27	finish	tz’akubtas
+14.27	finish	lah
+14.29	ready	chapal
+14.29	ready	listo
+14.29	ready	vaal
+14.31	always	sempre
+14.32	often	toyol
+14.33	sometimes	oyoy
+14.33	sometimes	bak’intik
+14.331	soon	nopol
+14.34	never	munosh
+14.35	again	noshtok
+14.41	day	osil
+14.41	day	k’ak’al
+14.42	night	ak’ubal
+14.42	night	ik’osil
+14.43	dawn	sakosil
+14.45	noon, midday	olk’ak’al
+14.45	noon, midday	ol
+14.451	afternoon	shmal
+14.47	today	lavi
+14.47	today	tani
+14.48	tomorrow	ok’ob
+14.481	day-after-tomorrow	chaeh
+14.49	yesterday	volhe
+14.491	day-before-yesterday	chabhe
+14.51	hour	ora
+14.53	clock, timepiece	reloho
+14.61	week	shemana
+14.62	Sunday	rominko
+14.63	Monday	lunesh
+14.64	Tuesday	martesh
+14.65	Wednesday	melkulesh
+14.66	Thursday	hweves
+14.67	Friday	byernesh
+14.68	Saturday	savaro
+14.71	month	u
+14.73	year	habil
+14.78	season	ora
+14.78	season	tyempo
+15.212	sniff	aibeik’
+15.22	smell (vb trans)	aibeik’
+15.25	fragrant, good smelling	mu
+15.26	stinking, bad smelling	tu
+15.31	taste	paspreva
+15.35	sweet	chi
+15.36	salty	chi
+15.37	bitter	ch’a
+15.38	acid, sour	poh
+15.41	hear	ai
+15.42	listen	ai
+15.45	loud	tzotz
+15.46	quiet, silence	k’un
+15.46	quiet, silence	vashal
+15.51	see	il
+15.51	see	ilbesat
+15.51	see	k’otsat
+15.52	look, look at	k’e
+15.55	show	ak’tak’elel
+15.55	show	ye
+15.57	bright	k’ak’al
+15.57	bright	sak
+15.61	color	bon
+15.63	dark (in color)	tup’et
+15.64	white	sak
+15.64	white	meko
+15.65	black	ik’
+15.66	red	tzoh
+15.66	red	chak
+15.67	blue	yosh
+15.68	green	yosh
+15.69	yellow	k’on
+15.71	touch	pik
+15.712	pinch	shut’
+15.72	feel	ai
+15.72	feel	hashpik
+15.74	hard	tzotz
+15.75	soft	k’un
+15.76	rough	ch'ixaltik
+15.77	smooth	ch’ulul
+15.77	smooth	lich’ich’
+15.81	heavy	ol
+15.82	light (in weight)	sipson
+15.83	wet, damp	t’ushul
+15.84	dry	takin
+15.85	hot	k’ok’
+15.851	warm	k’isin
+15.86	cold	sik
+15.87	clean	sak
+15.88	dirty, soiled	ik’
+15.89	wrinkled	puxantik
+16.11	soul, spirit	anima
+16.15	surprised, astonished	ch’aytzail
+16.19	misfortune, bad luck	tzahalora
+16.23	joyful, glad, happy	kontento
+16.25	laugh	tzein
+16.26	play	tahin
+16.27	love	k’an
+16.29	kiss	butz’
+16.3	embrace	mey
+16.3	embrace	pet
+16.31	pain	k’ushul
+16.31	pain	moch’
+16.32	grief, sorrow, sadness	meanal
+16.33	anxiety, worry	k’opoon
+16.34	regret, be sorry	na
+16.37	cry, weep	ok’
+16.39	groan	akanah
+16.41	hate	oyk’ak’aloon
+16.42	anger	k’ak’al
+16.44	envy, jealousy	k’ak’aloonil
+16.45	shame (noun)	k’eshlal
+16.53	fear, fright	shielba
+16.62	desire, want	ai
+16.62	desire, want	k’an
+16.62	desire, want	nopilan
+16.622	choose	t’uh
+16.66	true	melel
+16.67	lie, tell lies	tzuk
+16.67	lie, tell lies	nopk’op
+16.67	lie, tell lies	yechpas
+16.68	deceit	vesk’unel
+16.69	forgive	ak’pertonal
+16.69	forgive	lahoon
+16.71	good	utz
+16.71	good	lek
+16.71	good	pino
+16.72	bad	chopol
+16.76	fault	palta
+16.78	blame	mulil
+16.81	beautiful	leklekba
+16.82	ugly	chopol
+16.83	greedy	pashamparoal
+16.84	clever	p’ij
+17.13	think (= reflect)	ai
+17.13	think (= reflect)	na
+17.13	think (= reflect)	nop
+17.14	think (= be of the opinion)	nop
+17.15	believe	ch’un
+17.16	understand	ai
+17.17	know	na
+17.17	know	tz’ak
+17.17	know	ohtikin
+17.171	guess	yulestahol
+17.172	imitate	chanbe
+17.21	wise	pasrason
+17.22	foolish, stupid	bol
+17.22	foolish, stupid	buro
+17.22	foolish, stupid	choriso
+17.22	foolish, stupid	chumantehol
+17.24	learn	chan
+17.24	learn	p’ihub
+17.25	teach	chanubtas
+17.25	teach	p’ihubtas
+17.26	pupil	hchanvun
+17.27	teacher	hchanubtavaneh
+17.27	teacher	mayshtro
+17.28	school	chanobvun
+17.31	remember	na
+17.31	remember	yultahol
+17.32	forget	ch’ayai
+17.32	forget	ch’ayoonih
+17.36	secret	mukul
+17.37	sure, certain	melel
+17.38	explain	chap
+17.45	need, necessity	pwersa
+17.46	easy	lek
+17.47	difficult	vokol
+17.48	try, attempt	paspreva
+17.51	and	i
+17.52	because	k’uti
+17.52	because	porke
+17.53	if	mi
+17.55	yes, affirmative	ha
+17.55	yes, affirmative	hi
+17.56	no, negative	muyuk
+17.56	no, negative	muk’
+17.61	how?	k’uchaal
+17.62	how many?	hay______________
+17.62	how many?	k’uepal
+17.63	how much?	k’uepal
+17.64	what?	k’u
+17.65	when?	k’uora
+17.66	where?	bu
+17.67	which?	buhunukal
+17.68	who?	buch’u
+17.68	who?	k’uchaal
+17.69	why?	k’uchaal
+18.11	voice	eal
+18.12	sing	k’evuhin
+18.13	shout, cry out	avan
+18.15	whisper	mishmishk’op
+18.15	whisper	vishvishk’op
+18.17	whistle	pietah
+18.17	whistle	shushubah
+18.19	howl	avan
+18.21	speak, talk	k’opoh
+18.22	say	al
+18.221	tell story	al
+18.221	tell story	ut
+18.24	language	k’op
+18.26	word	k’op
+18.28	name	biil
+18.31	ask (question, inquire)	hak’
+18.32	answer	tak’
+18.33	admit, confess	hamalal
+18.34	deny	halan
+18.35	ask, request	k’an
+18.36	promise	ak’k’op
+18.36	promise	alk’op
+18.37	refuse	p’ah
+18.39	rebuke, scold	ilin
+18.39	rebuke, scold	ut
+18.41	call (=summon)	tak
+18.41	call (=summon)	tak’i
+18.41	call (=summon)	ik’
+18.42	call (=name)	biin
+18.43	announce	al
+18.44	threaten	sibtas
+18.51	write	tz’iba
+18.52	read	k’elvun
+18.56	paper	vun
+18.61	book	vun
+18.61	book	livro
+18.71	flute	ama
+18.72	drum	tampol
+18.72	drum	vob
+18.73	horn, trumpet	korneta
+18.74	rattle	sot
+19.15	city, town	teklumal
+19.17	boundary	tz’ak
+19.25	staff, walking stick	namteal
+19.25	staff, walking stick	te
+19.32	king, ruler	rey
+19.43	servant	moso
+19.45	command, order	tak’i
+19.46	obey	ch’unmantal
+19.47	let, permit	ak’
+19.51	friend, companion	`amiko
+19.52	enemy	krontail
+19.54	neighbor	pana
+19.54	neighbor	shokanna
+19.58	help, aid	kolta
+19.58	help, aid	ich’tak’ush
+19.59	hinder, prevent	metz’ta
+19.61	custom	tz’unbal
+19.61	custom	tasalul
+19.62	strife, quarrel	pletu
+19.65	meet	nup
+19.72	prostitute	hmulaviantz
+20.11	fight (vb)	pasbaiktapreva
+20.11	fight (vb)	tahin
+20.11	fight (vb)	tzakbail
+20.13	war, battle	pletu
+20.13	war, battle	k’op
+20.17	soldier	soltaro
+20.17	soldier	hak’k’ok’
+20.21	weapons, arms	pojobbail
+20.23	sling	himich
+20.24	bow	yolob
+20.25	arrow	p’ilomte
+20.26	spear	lansa
+20.27	sword	espara
+20.35	fortress	ak’obk’ok’
+20.44	defend	poh
+20.44	defend	vaanba
+20.47	captive, prisoner	hchukel
+20.471	guard, sentinel	hchabivaneh
+20.52	fishhook	tzakobchoy
+20.54	fishnet	tzakobchoy
+20.62	shoot	lok’esbala
+20.62	shoot	lok’estiro
+20.62	shoot	nitbebala
+20.62	shoot	vomtabala
+20.63	miss (target)	na
+20.64	trap (noun)	petz’
+20.65	trap (vb)	yak
+21.15	court	kavilto
+21.21	plaintiff	hk’anparte
+21.23	witness	reshtiko
+21.35	guilty	tamul
+21.37	penalty, punishment	kastiko
+21.37	penalty, punishment	lok’esobmanya
+21.38	fine	multa
+21.39	prison, jail	chukebal
+21.44	rape	mulilalk’op
+21.51	steal	elk’ah
+21.51	steal	tz’al
+21.51	steal	pasabtel
+21.52	thief	hbak’elkrishchano

@@ -1,0 +1,1474 @@
+@classification: Austronesian,Malayo-Polynesian,Greater Barito,East,Malagasy
+@iso: plt
+@language: Malagasy, Plateau
+@size: 1468
+@source: wold
+@variety: std
+1.1	world	izàotontòloizào
+1.21	earth, land	tàny
+1.212	earth=ground, soil	tàny
+1.213	dust	vòvoka
+1.214	mud	fòtaka
+1.215	sand	fàsika
+1.22	mountain, hill	vòhitra
+1.222	cliff, precipice	hàntsana
+1.23	plain, field	tànylèmaka
+1.23	plain, field	sàha
+1.24	valley	lohasàha
+1.25	island	nòsy
+1.26	mainland	kontinènta
+1.27	shore	morondràno
+1.28	cave	lavabàto
+1.31	water	ràno
+1.32	sea	ranomàsina
+1.322	calm (of sea)	tòny
+1.323	rough (of sea)	manetsikètsika
+1.324	foam	vòry
+1.324	foam	ròatra
+1.329	ocean	ranomasimbè
+1.33	lake	farìhy
+1.34	gulf, bay	helodranomàsina
+1.342	reef	harandranomàsina
+1.343	headland, point	tànjona
+1.343	headland, point	tsìraka
+1.35	wave	ònja
+1.35	wave	àlona
+1.354	hightide	samònta
+1.36	river, stream, brook	reniràno
+1.36	river, stream, brook	òny
+1.362	whirlpool	ranomòdy
+1.37	spring, well	loharàno
+1.38	swamp	honahòna
+1.38	swamp	henihèny
+1.38	swamp	hòraka
+1.39	waterfall	rìana
+1.41	woods, forest	àla
+1.43	wood	hàzo
+1.44	stone, rock	vàto
+1.45	earthquake	horohorontàny
+1.51	sky	lànitra
+1.52	sun	masonàndro
+1.53	moon	vòlana
+1.54	star	kìntana
+1.55	lightning	tsèlatra
+1.55	lightning	hèlatra
+1.56	thunder	vàratra
+1.57	lightning (as striking)	hèlatra
+1.57	lightning (as striking)	tsèlatra
+1.58	storm	tafìodrìvotra
+1.59	rainbow	antsiben’andriamànitra
+1.59	rainbow	àvana
+1.61	light (noun)	zàva
+1.62	darkness	nymaìzina
+1.63	shade, shadow	àloka
+1.64	dew	àndo
+1.71	air	rìvotra
+1.72	wind	rìvotra
+1.73	cloud	ràhona
+1.74	fog	zàvona
+1.75	rain (noun)	òrana
+1.76	snow (noun)	orampànala
+1.77	ice	ranomàndry
+1.78	weather	àndro
+1.81	fire	àfo
+1.82	flame (noun)	lelàfo
+1.83	smoke (noun)	sètroka
+1.84	ashes	lavènona
+1.841	embers	vainàfo
+1.851	burn (vb trans)	mandòro
+1.852	burn (vb intrans)	mirèhitra
+1.852	burn (vb intrans)	may
+1.86	light, kindle, ignite	mandrèhitra
+1.861	extinguish	mamòno
+1.87	match (noun)	afokàsika
+1.87	match (noun)	afokàsoka
+1.88	firewood	kitày
+1.89	charcoal	saribào
+1.89	charcoal	àrina
+2.1	person, human being	òlona
+2.21	man (vs. woman)	lehilahy
+2.22	woman	vehivàvy
+2.23	male	làhy
+2.24	female	vàvy
+2.25	boy	zazalàhy
+2.251	young man (adolescent)	tòvolàhy
+2.26	girl	zazavàvy
+2.261	young woman (adolescent)	tòvovàvy
+2.27	child	zàza
+2.28	infant, baby	zazakèly
+2.31	husband	vàdy
+2.32	wife	vàdy
+2.33	marry	manambàdy
+2.34	marriage, wedding	fampakarambadìana
+2.341	divorce	fisaràhana
+2.35	father	ray
+2.36	mother	rèny
+2.37	parents	rayamandrèny
+2.38	married man	lehilàhymanambàdy
+2.39	married woman	vehivàvymanambàdy
+2.41	son	zànakalàhy
+2.42	daughter	zànakavàvy
+2.43	offspring (son or daughter)	ànaka
+2.43	offspring (son or daughter)	zànaka
+2.44	brother	rahalàhy
+2.44	brother	anadàhy
+2.44	brother	zòky
+2.44	brother	zàndry
+2.444	older brother	zòky
+2.445	younger brother	zàndry
+2.45	sister	rahavàvy
+2.45	sister	anavàvy
+2.45	sister	zòky
+2.45	sister	zàndry
+2.454	older sister	zòky
+2.455	younger sister	zàndry
+2.456	sibling	mianadàhy
+2.458	twins	kàmbana
+2.46	grandfather	raibè
+2.461	old man	antidàhy
+2.47	grandmother	renibè
+2.471	old woman	antibàvy
+2.48	grandson	zàfy
+2.49	granddaughter	zàfy
+2.51	uncle	ray
+2.511	mother's brother	anadahindrèny
+2.512	father's brother	rahalahindrày
+2.52	aunt	rèny
+2.521	mother's sister	rahavavindrèny
+2.522	father's sister	anabavindrày
+2.53	nephew	zanadrahalàhy
+2.53	nephew	zanak’anadàhy
+2.54	niece	zanadrahavàvy
+2.54	niece	zanak’anabàvy
+2.55	cousin	rahalàhy
+2.56	ancestors	ràzana
+2.57	descendants	tarànaka
+2.61	father-in-law (of a man)	rafozandàhy
+2.611	father-in-law (of a woman)	rafozandàhy
+2.62	mother-in-law (of a man)	rafozambàvy
+2.621	mother-in-law (of a woman)	rafozambàvy
+2.63	son-in-law (of a man)	vinàntolàhy
+2.631	son-in-law (of a woman)	vinàntolàhy
+2.64	daughter-in-law (of a man)	vinàntovàvy
+2.641	daughter-in-law (of a woman)	vinàntovàvy
+2.71	stepfather	raikèly
+2.72	stepmother	renikèly
+2.75	orphan	kambòty
+2.76	widow	mpitòndratèna
+2.77	widower	mpitòndratèna
+2.81	relatives, kinsmen	hàvana
+2.82	family	fianakavìana
+2.82	family	ankohònana
+2.91	I	izàho
+2.91	I	àho
+2.92	you (singular)	ianào
+2.92	you (singular)	ialàhy
+2.92	you (singular)	itèna
+2.93	he/she/it	ìzy
+2.941	we (inclusive)	isìka
+2.942	we (exclusive)	izahày
+2.95	you (plural)	ianarèo
+2.96	they	ìzy
+2.96	they	ìzyirèo
+3.11	animal	bìby
+3.12	male (adj)	làhy
+3.13	female (adj)	vàvy
+3.15	livestock	bìbyfiòmpy
+3.18	herdsman	mpiàndry
+3.19	stable, stall	tranonòmby
+3.2	cattle (bovine)	bìbyfiòmpy
+3.21	bull	ombilàhy
+3.22	ox	òmby
+3.23	cow	ombivàvy
+3.24	calf	zanak’òmby
+3.25	sheep	òndry
+3.26	ram	ondrilàhy
+3.28	ewe	òndryvàvy
+3.29	lamb	zanak’ondry
+3.32	boar	làmbo
+3.35	pig	kisòa
+3.36	goat	osivàvy
+3.37	he-goat	osilàhy
+3.38	kid	zanak’òsy
+3.41	horse (equine)	soavàly
+3.44	mare	sòavalyvàvy
+3.45	foal, colt	zanatsoavàly
+3.46	ass, donkey	ampòndra
+3.47	mule	ramolè
+3.5	fowl	akòhoamambòrona
+3.52	cock, rooster	akòholàhy
+3.54	hen	akòhovàvy
+3.55	chicken	akòho
+3.56	goose	gìsa
+3.56	goose	vorombè
+3.57	duck	ganagàna
+3.57	duck	dòkotra
+3.57	duck	vorombazàha
+3.57	duck	kanakàna
+3.58	nest	tranombòrona
+3.581	bird	vòrona
+3.583	heron	vàno
+3.585	hawk	papàngo
+3.591	bat	manàvy
+3.591	bat	ramanàvy
+3.591	bat	fanìhy
+3.592	parrot	bolòky
+3.593	crow	goàika
+3.594	dove	voromahailàla
+3.596	owl	vorondòlo
+3.61	dog	àlika
+3.61	dog	ambùa
+3.614	rabbit	rabìtro
+3.614	rabbit	bìtro
+3.62	cat	sàka
+3.62	cat	pìso
+3.63	mouse, rat	voalàvo
+3.63	mouse, rat	totòzy
+3.65	fish	hazandràno
+3.65	fish	tròndro
+3.652	fin (dorsal)	vòmbona
+3.653	fishscale	kìra
+3.654	gill	sofinkazandràno
+3.655	shell	akòra
+3.661	shark	antsàntsa
+3.663	whale	tròzona
+3.664	stingray	fay
+3.665	freshwater eel	amàlona
+3.71	wolf	amboadìa
+3.72	lion	lìona
+3.73	bear	orsa
+3.74	fox	amboahàolo
+3.75	deer	serfa
+3.76	monkey	jàko
+3.76	monkey	rajàko
+3.77	elephant	elefànta
+3.78	camel	ramèva
+3.81	insect	bibikèly
+3.811	louse	hào
+3.812	nit (louse egg)	atodihào
+3.813	flea	paràsy
+3.814	centipede	marotànana
+3.815	scorpion	màingoka
+3.816	cockroach	kalalào
+3.816	cockroach	kadràdraka
+3.817	ant	vìtsika
+3.818	spider	hàla
+3.819	spider web	tranonkàla
+3.82	bee	renitantely
+3.821	beeswax	sàvoka
+3.822	beehive	tòhotra
+3.823	wasp	fanènitra
+3.83	fly	làlitra
+3.831	sandfly (midge), gnat	mòkafòhy
+3.832	mosquito	mòka
+3.84	worm	kànkana
+3.84	worm	òlitra
+3.85	snake	bibilàva
+3.91	firefly	angamenavàva
+3.92	butterfly	lòlo
+3.93	grasshopper	valàla
+3.94	snail	sìfotra
+3.95	frog	sàhona
+3.96	lizard	andròngo
+3.97	crocodile, alligator	màmba
+3.97	crocodile, alligator	voày
+3.98	turtle	sòkatra
+3.98	turtle	fàno
+4.11	body	vàtana
+4.11	body	tèna
+4.12	skin, hide	hòditra
+4.13	flesh	nòfo
+4.14	hair (head)	vòlo
+4.142	beard	volombàva
+4.142	beard	sòmotra
+4.144	body hair	vòlo
+4.146	dandruff	angadràno
+4.15	blood	ra
+4.151	vein, artery	lalandrà
+4.16	bone	tàolana
+4.162	rib	taolantehèzana
+4.17	horn	tàndroka
+4.18	tail	ràmbo
+4.19	back	lamòsina
+4.191	spine	hazondamòsina
+4.191	spine	tsìlo
+4.2	head	lòha
+4.201	side of head, temple	fihirìfana
+4.202	skull	karandòha
+4.203	brain	atidòha
+4.204	face	tarèhy
+4.205	forehead	hàndrina
+4.207	jaw	valanoràno
+4.208	cheek	takòlaka
+4.209	chin	sàoka
+4.21	eye	màso
+4.212	eyebrow	manjamàso
+4.213	eyelid	hodimàso
+4.214	eyelash	volomàso
+4.215	blink	mipy
+4.22	ear	sòfina
+4.22	ear	tadìny
+4.221	earlobe	tàdiny
+4.222	earwax	taintsòfina
+4.23	nose	òrona
+4.231	nostril	vavòrona
+4.232	mucus (nasal)	lèlo
+4.24	mouth	vàva
+4.241	beak	vàva
+4.25	lip	mòlotra
+4.26	tongue	lèla
+4.27	tooth	nìfy
+4.271	gums	akànjonìfy
+4.271	gums	hìhy
+4.272	molartooth	vàzana
+4.28	neck	vòzona
+4.281	nape of neck	hàtoka
+4.29	throat	tènda
+4.3	shoulder	sòroka
+4.301	shoulderblade	rangomàina
+4.302	collarbone	taolampanàvy
+4.31	arm	sàndry
+4.312	armpit	hèlika
+4.32	elbow	kìho
+4.321	wrist	hatotànana
+4.33	hand	tànana
+4.331	palm of hand	felatànana
+4.34	finger	rantsantànana
+4.342	thumb	ankihibè
+4.344	fingernail	hòho
+4.345	claw	hòho
+4.35	leg	rànjo
+4.351	thigh	fè
+4.352	calf of leg	kibondrànjo
+4.36	knee	lohàlika
+4.37	foot	tòngotra
+4.371	ankle	kìtrokèly
+4.372	heel	voditòngotra
+4.374	footprint	diantòngotra
+4.38	toe	rantsantòngotra
+4.392	wing	èlatra
+4.393	feather	volombòrona
+4.4	chest	tràtra
+4.41	breast (of woman)	nòno
+4.412	nipple, teat	lohanòno
+4.42	udder	nono
+4.43	navel	foitra
+4.44	heart	fo
+4.441	lung	avokàvoka
+4.45	liver	àty
+4.451	kidney	vòa
+4.452	spleen	àry
+4.46	stomach	ambavafò
+4.46	stomach	vavòny
+4.461	intestines, guts	tsìnay
+4.462	waist	andìlana
+4.463	hip	màoja
+4.464	buttocks	vòdy
+4.464	buttocks	ravimbòdy
+4.47	womb	vòhoka
+4.49	testicle	vòa
+4.492	penis	làtaka
+4.51	breathe, breath	miàina
+4.52	yawn, gape	manòaka
+4.521	hiccough	tsakoàhina
+4.53	cough	mikòhaka
+4.54	sneeze	mièvina
+4.55	perspire	tsèmboka
+4.55	perspire	mivoadìnitra
+4.56	spit	mandròra
+4.57	vomit	mandòa
+4.58	bite	manàikitra
+4.59	lick	milèlaka
+4.591	dribble	ràrakaìvy
+4.61	sleep	matòry
+4.61	sleep	màndry
+4.612	snore	mièrotra
+4.62	dream	manonòfy
+4.63	wake up	mifòha
+4.64	break wind	mangètotra
+4.64	break wind	mandèfarivodràtsy
+4.65	urinate	mamàny
+4.66	defecate	mangèry
+4.66	defecate	mivòaka
+4.67	have sexual intercourse	mìray
+4.67	have sexual intercourse	milèly
+4.67	have sexual intercourse	manào
+4.68	shiver	mangòvitra
+4.69	bathe	màndro
+4.71	beget (of father)	mitèraka
+4.72	born (to be)	tèraka
+4.73	pregnant	bevòhoka
+4.732	conceive	mitoejàza
+4.74	live, living, life	vèlona
+4.75	die, dead	màty
+4.751	drowned	manàfotra
+4.76	kill	mamòno
+4.77	corpse	fàty
+4.78	bury (the dead)	mandèvina
+4.79	grave, tomb	fàsana
+4.81	strong, mighty, powerful	mahèry
+4.82	weak	malèmy
+4.83	well, health	salàma
+4.84	sick, sickness	maràry
+4.84	sick, sickness	maròfy
+4.841	fever	tàzo
+4.842	goiter	bìbakaantènda
+4.843	cold (catarrh)	sèry
+4.85	wound, sore	ràtra
+4.85	wound, sore	fèry
+4.852	bruise	hamangànana
+4.853	swelling	bòntsina
+4.853	swelling	fivontòsana
+4.854	itch	hidihìdy
+4.855	blister	tsòvaka
+4.856	boil (noun)	vay
+4.857	pus	nàna
+4.858	scar	hòlatra
+4.86	cure, heal	manasìtrana
+4.87	physician	dokotèra
+4.88	medicine, drug	fanafòdy
+4.89	poison	pòizina
+4.91	tired, weary	sàsatra
+4.912	rest	miàlasàsatra
+4.912	rest	miàlavìzana
+4.92	lazy	kàmo
+4.93	bald	sòla
+4.94	lame	mandrìnga
+4.95	deaf	marènina
+4.96	mute	mòana
+4.97	blind	jàmba
+4.98	intoxicated	màmo
+4.99	naked, bare	mitànjaka
+5.11	eat	mihìnana
+5.11	eat	hòmana
+5.12	food	hànina
+5.12	food	fihinànana
+5.121	cooked	màsaka
+5.122	raw	mànta
+5.123	ripe	màsaka
+5.124	green, unripe	mànta
+5.125	rotten	lo
+5.13	drink	misòtro
+5.14	hunger	nòana
+5.141	famine	mosàry
+5.15	thirst	mangetahèta
+5.16	suck	minòno
+5.18	chew	mitsàko
+5.181	swallow	mitèlina
+5.19	choke	manakènda
+5.19	choke	manèmpotra
+5.21	cook	mahàndro
+5.22	boil (vb)	mangòtraka
+5.22	boil (vb)	mitànika
+5.23	roast, fry	manèndy
+5.23	roast, fry	mitòno
+5.25	oven	lafàoro
+5.26	pot, cooking vessel	vilàny
+5.27	kettle	kafitèra
+5.28	pan	lapoàly
+5.31	dish	lovìa
+5.31	dish	vilìa
+5.32	plate	lovìa
+5.33	bowl	fìnga
+5.34	pitcher, jug	sìny
+5.35	cup, drinking vessel	kòpy
+5.36	saucer	tàsy
+5.37	spoon	sòtro
+5.39	fork	foròsety
+5.391	tongs	tàndra
+5.41	meal (a)	sakàfo
+5.42	breakfast	sakàfomaràina
+5.43	lunch	sakàfoantoàndro
+5.46	peel	manèndaka
+5.47	sieve, strain	manasìvana
+5.48	scrape	mikìky
+5.48	scrape	mikàoka
+5.49	stir, mix	mampifangàro
+5.51	bread	mòfo
+5.53	dough	kòba
+5.54	knead	mangàro
+5.55	meal, flour	lafarìnina
+5.56	crush, grind	manorotòro
+5.57	mill	mìlinafitotòana
+5.58	mortar	làona
+5.59	pestle	fanòto
+5.61	meat	hèna
+5.63	sausage	saosìsy
+5.64	soup, broth	lasòpy
+5.65	vegetables	ànana
+5.66	bean	tsaramàso
+5.7	potato	ovimbazàha
+5.71	fruit	vòa
+5.71	fruit	voankàzo
+5.712	bunch	fehèzana
+5.75	fig	aviàvy
+5.76	grape	voalòboka
+5.78	olive	olìva
+5.79	oil	diloìlo
+5.791	grease, fat	mènaka
+5.81	salt	sìra
+5.82	pepper	dipoàvatra
+5.821	chili pepper	sakày
+5.84	honey	tantèly
+5.85	sugar	siramàmy
+5.86	milk (noun)	ronòno
+5.87	milk (vb)	mitèry
+5.88	cheese	foromàzy
+5.89	butter	dibèra
+5.9	beverage, drink	fisòtro
+5.92	wine	divày
+5.93	beer	labièra
+5.94	fermented drink	tòaka
+5.97	egg	atòdy
+5.971	egg yolk	tamènaka
+6.11	put on (clothes)	miakànjo
+6.12	clothing, clothes	akànjo
+6.13	tailor	mpanjàitra
+6.21	cloth	lamba
+6.22	wool	volonòndry
+6.23	linen, flax	rongonimbazàha
+6.24	cotton	landihàzo
+6.25	silk	lasòa
+6.25	silk	làmbalàndy
+6.27	felt	bonìa
+6.27	felt	bonètra
+6.28	fur	volombìby
+6.29	leather	hòditra
+6.31	spin	mamòly
+6.32	spindle	ampèla
+6.33	weave	manènona
+6.34	loom	fanenòmana
+6.35	sew	manjàitra
+6.36	needle	fanjàitra
+6.36	needle	fìlo
+6.37	awl	hàolo
+6.38	thread	kofèhy
+6.38	thread	foly
+6.38	thread	tarètra
+6.39	dye	mandòko
+6.41	cloak	kapàoty
+6.42	woman's dress	zìpo
+6.42	woman's dress	ròbo
+6.43	coat	kapàoty
+6.44	shirt	lòbaka
+6.45	collar	vozon’akànjo
+6.46	skirt	zipò
+6.48	trousers	patalòha
+6.49	stocking, sock	ba
+6.49	stocking, sock	bankiràro
+6.51	shoe	kiràro
+6.52	boot	bàoty
+6.54	shoemaker, cobbler	mpanàokiràro
+6.55	hat, cap	sàtroka
+6.57	belt, girdle	fehikìbo
+6.58	glove	gantànana
+6.61	pocket	pàosy
+6.62	button	bòkotra
+6.63	pin	pàingotra
+6.71	ornament, adornment	hàingo
+6.72	jewel	ràvaka
+6.72	jewel	vatosòa
+6.73	ring (for finger)	pèratra
+6.74	bracelet	vangovàngo
+6.74	bracelet	fehintànana
+6.75	necklace	fehivòzona
+6.76	bead	vàkana
+6.77	earring	kàvina
+6.78	headband, headdress	fehilòha
+6.79	tattoo	havàtsa
+6.81	handkerchief, rag	mosàra
+6.82	towel	serivièta
+6.91	comb	fihògo
+6.92	brush	boròsy
+6.921	braid	ràndrana
+6.921	braid	ràry
+6.93	razor	harèza
+6.94	ointment	lakomàdina
+6.95	soap	savòny
+6.96	mirror	fitàratra
+7.11	dwell, live	mitòetra
+7.11	dwell, live	mònina
+7.12	house	tràno
+7.13	hut	trànobòngo
+7.14	tent	lay
+7.15	yard, court	tokotàny
+7.17	cookhouse	lakozìa
+7.17	cookhouse	fahandròana
+7.17	cookhouse	fandrahòana
+7.18	meeting house	tranompokonòlona
+7.21	room	èfitra
+7.22	door, gate	varavàrana
+7.221	doorpost, jamb	àndry
+7.23	lock (noun)	hìdy
+7.231	latch, door-bolt	hìdy
+7.24	key	fanalahìdy
+7.25	window	varavarankèly
+7.26	floor	ngoròdona
+7.27	wall	rìndrina
+7.31	fireplace	fàtana
+7.32	stove	lafàoro
+7.33	chimney	fivoahantsètroka
+7.37	ladder	tòhatra
+7.42	bed	fandrìana
+7.421	pillow	òndana
+7.422	blanket	bodofòtsy
+7.43	chair	sèza
+7.44	table	latàbatra
+7.45	lamp, torch	jìro
+7.46	candle	laboz`y
+7.47	shelf	talantàlana
+7.48	trough	tàvy
+7.51	roof	tàfo
+7.52	thatch	tàfobòzaka
+7.53	ridgepole	vovònana
+7.54	rafter	lohatràno
+7.55	beam	sakamandìmby
+7.56	post, pole	tsatokàzo
+7.57	board	hazofìsaka
+7.58	arch	andohalàmbo
+7.61	mason	tambàto
+7.62	brick	birìky
+7.63	mortar	fèta
+8.11	farmer	mpambòly
+8.12	field (for cultivation)	sàha
+8.12	field (for cultivation)	tanimbòly
+8.13	garden	sàha
+8.13	garden	zaridaina
+8.15	cultivate, till	mambòly
+8.16	fence	fèfy
+8.17	ditch	hàdy
+8.21	plow	angadinòmby
+8.212	furrow	sorisòritra
+8.22	dig	mihàdy
+8.23	spade	angàdy
+8.24	shovel	lapèlina
+8.25	hoe	angàdy
+8.27	rake	fihogontàny
+8.31	sow	mamàfy
+8.311	seed	vòa
+8.32	mow, reap	mijìnja
+8.34	thresh	mivèly
+8.41	crop, harvest	vòkatra
+8.42	grain (barley, oats etc)	vòa
+8.43	wheat	varimbazàha
+8.47	maize, corn	kàtsaka
+8.48	rice	vàry
+8.51	grass	àhitra
+8.52	hay	vìlona
+8.53	plant (noun)	zavamanìry
+8.531	plant (vb)	mambòly
+8.54	root	fàka
+8.54	root	fòtotra
+8.55	branch	ràntsana
+8.56	leaf	ràvina
+8.57	flower	vòny
+8.6	tree	hàzo
+8.64	pine	hàzokèsika
+8.67	vine	voalòboka
+8.68	tobacco	paràky
+8.69	smoke (tobacco)	mifòka
+8.691	pipe	pìpa
+8.72	tree stump	fotokàzo
+8.73	tree trunk	vatankàzo
+8.74	forked branch	sàmpana
+8.75	bark	hodikàzo
+8.76	sap	tsironkàzo
+8.82	coconut	voanìo
+8.83	citrus fruit	voasàry
+8.84	banana tree	akòndro
+8.91	sweet potato	vomanga
+8.912	yam	òvy
+8.92	tapioca, manioc, cassava	mangahàzo
+8.93	gourd	tàvo
+8.93	gourd	voatàvo
+8.931	pumpkin, squash	tàvo
+8.931	pumpkin, squash	voatàvo
+8.94	bamboo	vòlo
+8.941	sugar cane	fàry
+8.98	mushroom	hòlatra
+9.11	do, make	manào
+9.12	work	àsa
+9.14	bend	mandèfitra
+9.15	fold	mamàlona
+9.16	tie, bind	mamàtotra
+9.161	untie	mamàha
+9.18	chain	ròjo
+9.19	rope, cord	tàdy
+9.192	knot (noun)	vòna
+9.21	strike (hit, beat)	mikàpoka
+9.21	strike (hit, beat)	mamèly
+9.211	pound with fist	mikàpoka
+9.22	cut	mandìdy
+9.221	cut down	mikàpa
+9.222	chop, hew	manàpaka
+9.23	knife	àntsy
+9.24	scissors, shears	hèty
+9.25	ax	famàky
+9.251	adze	eriminèty
+9.26	break	mamàky
+9.261	broken	vàky
+9.27	split	manàtaka
+9.28	tear	mandròvitra
+9.29	flay, skin	manèndaka
+9.31	rub, wipe	mamàoka
+9.32	stretch	mamèlatra
+9.33	pull	mitàrika
+9.34	spread out	mamèlatra
+9.341	hang up	manàntona
+9.342	press	manèry
+9.343	squeeze, wring	mamòritra
+9.343	squeeze, wring	mamìa
+9.343	squeeze, wring	manèry
+9.35	pour	manìdina
+9.36	wash	manàsa
+9.37	sweep	mafàfa
+9.38	broom	kifàfa
+9.422	tool	fiasàna
+9.43	carpenter	mpandràfitra
+9.44	build	mandràfitra
+9.46	bore	mandòaka
+9.461	hollow out	mandàvaka
+9.461	hollow out	mihàdy
+9.48	saw	tsòfa
+9.49	hammer	tantànana
+9.49	hammer	marotò
+9.5	nail	fàntsika
+9.56	glue	dìnty
+9.56	glue	lakàoly
+9.56	glue	lakòly
+9.6	smith, blacksmith	mpanèfyvy
+9.61	forge	manèfy
+9.62	anvil	landàizana
+9.62	anvil	riandrìana
+9.63	cast (metals)	manìdina
+9.64	gold	volamèna
+9.65	silver	volafòtsy
+9.66	copper, bronze	varàhina
+9.67	iron	vy
+9.68	lead (noun)	fìraka
+9.69	tin, tinplate	vifòtsy
+9.71	potter	mpanèfytanimànga
+9.73	clay	tanimànga
+9.74	glass	fitàratra
+9.75	weave, plait	mandràndrana
+9.75	weave, plait	mandràry
+9.76	basket	hàrona
+9.77	mat	tsìhy
+9.771	rug	karipèta
+9.79	fan (noun)	fikòpaka
+9.791	fan (vb)	mikòpaka
+9.81	carve	misòkitra
+9.82	sculptor	mpanàosòkitra
+9.83	statue	sarivòngana
+9.84	chisel	fàndraka
+9.88	paint (noun)	lòko
+9.89	paint (vb)	mandòko
+10.11	move	mihètsika
+10.12	turn over	mamàdika
+10.12	turn over	manòdina
+10.13	turn around	mihòdina
+10.13	turn around	mitòdika
+10.14	wind, wrap	mamòno
+10.15	roll	manakodìa
+10.16	drop (vb)	mamòtraka
+10.16	drop (vb)	mandàtsaka
+10.16	drop (vb)	manjèra
+10.17	twist	manòlana
+10.21	rise	mipòsaka
+10.21	rise	mifòha
+10.21	rise	mitsàngana
+10.22	raise, lift	manàinga
+10.22	raise, lift	manàndratra
+10.22	raise, lift	manòndrotra
+10.23	fall	mianjèra
+10.23	fall	mihìntsana
+10.24	drip	mitète
+10.25	throw	mitòraka
+10.252	catch (ball)	misàmbotra
+10.26	shake	manètsika
+10.32	flow	mangorìana
+10.33	sink	milèntika
+10.33	sink	mandrèndrika
+10.34	float	mitsinkàfona
+10.35	swim	milomàno
+10.351	dive	mandèntika
+10.352	splash	mipitipìtika
+10.37	fly (vb)	manìdina
+10.38	blow	mitsìoka
+10.41	creep, crawl	mandàdy
+10.412	kneel	mandohàlika
+10.413	crouch	mitoròvoka
+10.42	slide, slip	mibolìsatra
+10.42	slide, slip	mibolàsitra
+10.42	slide, slip	misolàfaka
+10.43	jump, leap	mandìngana
+10.431	kick	mandàka
+10.44	dance	mandìhy
+10.45	walk	mamìndra
+10.45	walk	mandèha
+10.451	limp	mandrìnga
+10.46	run	miolomày
+10.46	run	mihazakàzaka
+10.47	go	mandèha
+10.471	go up	miàkatra
+10.472	climb	miànika
+10.473	go down	mìdina
+10.474	go out	mivòaka
+10.48	come	avy
+10.48	come	tònga
+10.481	come back	mivèrina
+10.481	come back	mòdy
+10.49	go away, depart	làsa
+10.49	go away, depart	miàinga
+10.49	go away, depart	miàla
+10.491	disappear	làsa
+10.491	disappear	manjàvona
+10.51	flee	milèfa
+10.51	flee	mandòsitra
+10.52	follow	manàraka
+10.53	pursue	manènjika
+10.55	reach, arrive	tònga
+10.55	reach, arrive	àvy
+10.56	approach	manakàiky
+10.57	enter	mìditra
+10.61	carry (bear)	mitòndra
+10.612	carry-in-hand	mivìmbina
+10.613	carry-on-shoulder	milànja
+10.614	carry-on-head	milolòha
+10.615	carry-underarm	misakèlika
+10.62	bring	manàtitra
+10.62	bring	mitòndra
+10.63	send	mandèfa
+10.64	lead (vb)	mitàrika
+10.65	drive	mitòndra
+10.66	ride	mitàingina
+10.67	push, shove	manòsika
+10.71	road	làlana
+10.72	path	làlana
+10.74	bridge	tetèzana
+10.75	carriage, wagon, cart	sarèty
+10.76	wheel	kodìa
+10.77	axle	lahintangèrina
+10.78	yoke	jìoga
+10.81	ship	sàmbo
+10.83	boat	sàmbo
+10.831	canoe	làkana
+10.832	outrigger	lakampiàra
+10.84	raft	zàhatra
+10.85	oar	fivòy
+10.851	paddle (noun)	fivòy
+10.852	row (vb)	mivoy
+10.86	rudder	hamòry
+10.87	mast	salàzana
+10.87	mast	àndrintsàmbo
+10.88	sail (noun)	laintsàmbo
+10.89	anchor	vatofàntsika
+10.91	harbor, port	fitodiantsàmbo
+10.91	harbor, port	serànana
+10.92	land (vb)	mitòdy
+11.11	have	aoantànany
+11.12	own, possess	mànana
+11.13	take	màka
+11.13	take	mandrày
+11.14	seize, grasp	mitàna
+11.15	hold	mitàna
+11.15	hold	mihàzona
+11.16	get, obtain	mahàzo
+11.17	keep, retain	mitàna
+11.17	keep, retain	mitahìry
+11.18	thing	zàvatra
+11.21	give	manòme
+11.22	give back	mamèrina
+11.24	preserve, look after	miaro
+11.25	save, rescue	mamònjy
+11.25	save, rescue	manàvotra
+11.27	destroy	mandràva
+11.28	harm, injure, damage	mandràtra
+11.31	seek, look for	mitàdy
+11.31	seek, look for	mikàroka
+11.32	find	mahìta
+11.33	lose	mamèry
+11.33	lose	mamavèry
+11.34	release, let go	manàfaka
+11.34	release, let go	mandèfa
+11.43	money	vòla
+11.44	coin	lèlavòla
+11.51	rich	manankarèna
+11.52	poor	mahàntra
+11.53	beggar	mpangàtaka
+11.54	avaricious, stingy	mahìhitra
+11.61	lend	mampisàmbotra
+11.62	borrow	misàmbotra
+11.63	owe	mitròsa
+11.64	debt	tròsa
+11.65	pay (vb)	mandòa
+11.66	account, reckoning	adisànina
+11.69	tax, tribute	hètra
+11.77	hire	mampiàsa
+11.78	wages	karàma
+11.78	wages	tàmby
+11.79	earn	mahàzo
+11.81	buy	mivìdy
+11.82	sell	mivàrotra
+11.83	trade, barter	mànaovàrotra
+11.84	merchant	mpivàrotra
+11.85	market (place)	tsèna
+11.86	store, shop	tranombàrotra
+11.87	price	vìdy
+11.88	dear (costly, expensive)	làfo
+11.89	cheap	mòra
+11.91	share (distribute)	mizàra
+11.92	weigh	ròalìvatranylànjan’nyèntana
+12.11	place	toèrana
+12.12	put	manìsy
+12.12	put	mamètraka
+12.13	sit	mipètraka
+12.14	lie down	màndry
+12.15	stand	mitsàngana
+12.15	stand	mijòro
+12.16	remain, stay	mijànona
+12.17	remains, left overs	sìsa
+12.21	collect, gather	manàngona
+12.212	pick up	mitsìmpona
+12.213	pile up	manongòa
+12.22	join, unite	manakàmbana
+12.23	separate	mampisàraka
+12.232	divide	mizàra
+12.24	open	mamòha
+12.24	open	manòkatra
+12.25	shut, close	manakàtona
+12.26	cover	mandràkotra
+12.27	hide, conceal	manàfina
+12.31	high	ambòny
+12.32	low	ambàny
+12.33	top	àvo
+12.34	bottom	vòdy
+12.35	end	làny
+12.352	pointed	màranitra
+12.352	pointed	mitsilotsìlo
+12.353	edge	mòrona
+12.353	edge	sìsina
+12.36	side	ìla
+12.36	side	làfy
+12.37	middle, center	ìvo
+12.37	middle, center	nyafovoàny
+12.41	right (side)	havànana
+12.42	left (side)	havìa
+12.43	near (adv)	akàiky
+12.44	far (adv)	làvitra
+12.45	east	atsinànana
+12.46	west	andrèfana
+12.47	north	avàratra
+12.48	south	atsìmo
+12.53	grow	mitòmbo
+12.54	measure	mandrèfy
+12.541	span, fathom	rèfy
+12.55	large, big	bè
+12.56	small, little	kèly
+12.57	long	làva
+12.58	tall	lehibè
+12.59	short	fòhy
+12.61	wide, broad	malàlaka
+12.62	narrow	tèry
+12.62	narrow	èty
+12.63	thick (in dimension)	matèvina
+12.65	thin (in dimension)	manìfy
+12.67	deep	làlina
+12.68	shallow	marìvo
+12.71	flat	fìsaka
+12.71	flat	lèmaka
+12.73	straight	mahìtsy
+12.73	straight	tsòtra
+12.74	crooked	mèloka
+12.75	hook	faràingo
+12.76	corner	zòro
+12.77	cross	vokovoko
+12.78	square	efamìra
+12.78	square	sokèra
+12.81	round	boribòry
+12.82	circle	faribòlana
+12.83	sphere, ball	bàolina
+12.84	line	tsìpika
+12.84	line	làhatra
+12.85	hole	làvaka
+12.85	hole	lòaka
+12.92	like, similar	sahàla
+12.92	like, similar	mitòvy
+12.92	like, similar	tàhaka
+12.93	change	miòva
+13.1	one	fòlo
+13.101	eleven	iraikaambinyfolo
+13.102	twelve	ruaambinyfolo
+13.103	fifteen	dimyambinyfolo
+13.104	twenty	ruampolo
+13.105	hundred	zato
+13.106	thousand	arìvo
+13.107	count	manìsa
+13.14	every, all	rèhetra
+13.15	much, many	bètsaka
+13.16	more	maromàrokokòa
+13.17	little (quantity), few	vìtsy
+13.18	enough	àmpy
+13.18	enough	sahàza
+13.18	enough	àoka
+13.181	some	sasàny
+13.181	some	vìtsy
+13.19	multitude, crowd	vahòakabe
+13.21	full	fèno
+13.22	empty	fòana
+13.23	part, piece	làny
+13.23	part, piece	sasàny
+13.23	part, piece	tapàny
+13.23	part, piece	fizàrana
+13.24	half	sàsaka
+13.33	alone, only	tòkana
+13.34	first	voalohany
+13.35	last	farany
+13.36	second	faharoa
+13.37	pair	vàdy
+13.38	two times	indroa
+13.42	third	fahatelo
+13.44	three times	intelo
+14.11	time	àndro
+14.11	time	fotòana
+14.12	age	tàona
+14.13	new	vaovao
+14.14	young	tanora
+14.14	young	tòvo
+14.15	old	àntitra
+14.16	early	faìngana
+14.17	late	aorìana
+14.17	late	èla
+14.18	now	ìzao
+14.18	now	ankehitrìny
+14.19	immediately	tsymìsyelanèlana
+14.21	swift, fast, quick	hàingana
+14.21	swift, fast, quick	fàingana
+14.21	swift, fast, quick	malàky
+14.22	slow	miàdana
+14.23	hasten, hurry	hàingana!
+14.23	hasten, hurry	haingàna!
+14.23	hasten, hurry	faingàna!
+14.23	hasten, hurry	manàofàingana
+14.24	retard, delay	manèla
+14.25	begin, beginning	miandòha
+14.25	begin, beginning	manòmboka
+14.252	last, endure	mahàritra
+14.26	end (temporal)	fàrana
+14.27	finish	mamàrana
+14.27	finish	manàpitra
+14.27	finish	mamìta
+14.28	cease, stop	mitsàhatra
+14.29	ready	vònona
+14.31	always	mandrakarìva
+14.32	often	matètika
+14.33	sometimes	indraindrày
+14.331	soon	vetivèty
+14.332	long-time (for a)	èla
+14.34	never	tsynaoviananaovìana
+14.35	again	mbòla
+14.35	again	indrày
+14.41	day	àndro
+14.42	night	àlina
+14.43	dawn	mangirandràtsy
+14.44	morning	maràina
+14.45	noon, midday	mitatàovovònana
+14.45	noon, midday	antoandrobe
+14.451	afternoon	antoàndro
+14.46	evening	harìva
+14.47	today	anìo
+14.47	today	androàny
+14.48	tomorrow	rahampìtso
+14.481	day-after-tomorrow	rahafakampìtso
+14.49	yesterday	omàly
+14.491	day-before-yesterday	afakomàly
+14.51	hour	òra
+14.53	clock, timepiece	famantaranàndro
+14.61	week	herinàndro
+14.62	Sunday	alahàdy
+14.63	Monday	alatsinàiny
+14.64	Tuesday	talàta
+14.65	Wednesday	alarobìa
+14.66	Thursday	alakamìsy
+14.67	Friday	zomà
+14.68	Saturday	asabòtsy
+14.71	month	vòlana
+14.73	year	tàona
+14.74	winter	rirìnina
+14.75	spring	lohatàona
+14.76	summer	fahavàratra
+14.77	autumn	fararàno
+14.78	season	fizarantàona
+15.21	smell (vb intrans)	mìsyfòfona
+15.212	sniff	mitròka
+15.22	smell (vb trans)	manambòlo
+15.25	fragrant, good smelling	mànitra
+15.26	stinking, bad smelling	maìmbo
+15.26	stinking, bad smelling	màntsina
+15.26	stinking, bad smelling	mamòfona
+15.31	taste	matsìro
+15.35	sweet	màmy
+15.36	salty	màsina
+15.37	bitter	mangìdy
+15.38	acid, sour	marikìvy
+15.39	brackish	matsàtso
+15.41	hear	mandrè
+15.41	hear	maharè
+15.42	listen	mihàino
+15.44	sound, noise	nèno
+15.44	sound, noise	fèo
+15.45	loud	marèsaka
+15.46	quiet, silence	tòny
+15.46	quiet, silence	mangìna
+15.51	see	mahìta
+15.52	look, look at	mijèry
+15.55	show	mampisèho
+15.55	show	manòro
+15.56	shine	mamirapìratra
+15.57	bright	mamirapìratra
+15.57	bright	manjopìaka
+15.61	color	lòko
+15.62	light (in color)	tanòra
+15.63	dark (in color)	àntitra
+15.64	white	fòtsy
+15.65	black	maìnty
+15.66	red	mèna
+15.67	blue	mànga
+15.68	green	maìtso
+15.69	yellow	vòny
+15.71	touch	mikàsika
+15.71	touch	mitsàpa
+15.712	pinch	manòngo
+15.72	feel	mitsàpa
+15.74	hard	màfy
+15.75	soft	malèmy
+15.75	soft	malambolàmbo
+15.76	rough	marào
+15.76	rough	marokoròko
+15.77	smooth	malàma
+15.78	sharp	marànitra
+15.79	blunt, dull	dòmbo
+15.81	heavy	mavèsatra
+15.82	light (in weight)	maìvana
+15.83	wet, damp	lèna
+15.84	dry	màina
+15.85	hot	mahamày
+15.851	warm	mafàna
+15.86	cold	mangatsìaka
+15.87	clean	madìo
+15.88	dirty, soiled	malòto
+15.89	wrinkled	miketronkètrona
+16.11	soul, spirit	fanàhy
+16.15	surprised, astonished	tàitra
+16.15	surprised, astonished	talànjona
+16.15	surprised, astonished	gàga
+16.18	good fortune, luck	zàra
+16.19	misfortune, bad luck	fahorìana
+16.19	misfortune, bad luck	zo
+16.19	misfortune, bad luck	angàno
+16.23	joyful, glad, happy	finàritra
+16.23	joyful, glad, happy	sàmbatra
+16.25	laugh	mihomèhy
+16.251	smile	mitsìky
+16.26	play	milalào
+16.27	love	tìa
+16.29	kiss	manòroka
+16.3	embrace	mamìhina
+16.31	pain	ràry
+16.32	grief, sorrow, sadness	alahèlo
+16.33	anxiety, worry	fahamanìnana
+16.33	anxiety, worry	ahiàhy
+16.34	regret, be sorry	manènina
+16.34	regret, be sorry	malahèlo
+16.35	pity	àntra
+16.35	pity	fìndrafo
+16.37	cry, weep	mitomàny
+16.38	tear (noun)	ranomàso
+16.39	groan	mitrèrona
+16.41	hate	mankahàla
+16.41	hate	mandràfy
+16.42	anger	fahatezèrana
+16.42	anger	fahavinìrana
+16.44	envy, jealousy	fialònana
+16.44	envy, jealousy	àlona
+16.45	shame (noun)	hènatra
+16.48	proud	miavonàvona
+16.48	proud	mireharèha
+16.51	dare	sàhy
+16.52	brave	sàhy
+16.52	brave	beherimpò
+16.53	fear, fright	tàhotra
+16.54	danger	lòza
+16.62	desire, want	mikàsa
+16.62	desire, want	tìa
+16.62	desire, want	manìry
+16.622	choose	mifìdy
+16.63	hope	manantèna
+16.65	faithful	mahatòky
+16.66	true	màrina
+16.67	lie, tell lies	mandàinga
+16.68	deceit	fìtaka
+16.68	deceit	fanambakàna
+16.69	forgive	mamèla
+16.71	good	tsàra
+16.72	bad	ràtsy
+16.73	right, correct	mahìtsy
+16.73	right, correct	màrina
+16.74	wrong	dìso
+16.74	wrong	tsymàrina
+16.76	fault	òta
+16.76	fault	hadisòana
+16.76	fault	hèloka
+16.77	mistake, error	dìso
+16.78	blame	tsìny
+16.79	praise	dèra
+16.81	beautiful	tsàratarèhy
+16.82	ugly	ràtsytarèhy
+16.83	greedy	lìana
+16.84	clever	mahày
+17.11	mind	sàina
+17.13	think (= reflect)	misàina
+17.13	think (= reflect)	mihèvitra
+17.13	think (= reflect)	mieritrèritra
+17.14	think (= be of the opinion)	manào
+17.15	believe	mìno
+17.16	understand	mahàzo
+17.17	know	mahalàla
+17.17	know	mahafàntatra
+17.171	guess	maminàny
+17.172	imitate	màkatàhaka
+17.18	seem	atào
+17.18	seem	tòa
+17.19	idea, notion	hèvitra
+17.21	wise	hèndry
+17.21	wise	màotina
+17.22	foolish, stupid	dònto
+17.22	foolish, stupid	kètrina
+17.23	insane, crazy	adàla
+17.24	learn	miànatra
+17.242	study	miànatra
+17.25	teach	mampiànatra
+17.26	pupil	mpiànatra
+17.27	teacher	mpampiànatra
+17.28	school	sekòly
+17.31	remember	mahatsiàro
+17.31	remember	mahatadìdy
+17.31	remember	mahatsiàhy
+17.32	forget	manadìno
+17.34	clear, plain	mazàva
+17.35	obscure	maìzina
+17.36	secret	miàfina
+17.36	secret	tàkona
+17.37	sure, certain	màrina
+17.38	explain	manazàva
+17.41	intention, purpose	fikasàna
+17.41	intention, purpose	kendrèna
+17.42	cause	fòtotra
+17.42	cause	antòny
+17.42	cause	nihavìany
+17.43	doubt	fisalasàlana
+17.44	suspect	miahiàhy
+17.441	betray	manòdy
+17.441	betray	mambàdika
+17.45	need, necessity	fahantràna
+17.46	easy	mòra
+17.47	difficult	sàrotra
+17.48	try, attempt	manàndrana
+17.49	way, manner	fòmba
+17.51	and	àry
+17.51	and	sy
+17.51	and	dìa
+17.52	because	satrìa
+17.53	if	ràha
+17.54	or	na
+17.54	or	sa
+17.55	yes, affirmative	èny
+17.56	no, negative	tsìa
+17.56	no, negative	tsy
+17.61	how?	ahòana
+17.61	how?	akòry
+17.62	how many?	firy
+17.63	how much?	fìry
+17.63	how much?	hoatrìnona
+17.64	what?	ìnona
+17.65	when?	ovìana
+17.66	where?	àiza
+17.67	which?	ìzay
+17.68	who?	ìza
+17.69	why?	nahòana
+18.11	voice	fèo
+18.12	sing	mihìra
+18.13	shout, cry out	mikiakìaka
+18.15	whisper	mibitsibìtsika
+18.16	mumble	mimonomònona
+18.17	whistle	misìaka
+18.17	whistle	misìoka
+18.18	shriek, screech	mikiakìaka
+18.19	howl	midradradràdra
+18.21	speak, talk	mitèny
+18.21	speak, talk	mirèsaka
+18.211	stutter, stammer	miakanàkana
+18.211	stutter, stammer	miambakàvaka
+18.22	say	milàza
+18.221	tell story	mitantàra
+18.222	speech (make a)	lahatèny
+18.222	speech (make a)	kabàry
+18.23	silent (be)	mangìna
+18.24	language	fiteny
+18.26	word	tèny
+18.28	name	anàrana
+18.31	ask (question, inquire)	manontàny
+18.32	answer	mamàly
+18.33	admit, confess	miàiky
+18.34	deny	mandà
+18.35	ask, request	mangàtaka
+18.36	promise	mampanantèna
+18.36	promise	manòmetòky
+18.37	refuse	mandà
+18.38	forbid	mandràra
+18.39	rebuke, scold	mandevilèvy
+18.41	call (=summon)	miàntso
+18.42	call (=name)	manàohoe
+18.43	announce	manambàra
+18.44	threaten	mandràhona
+18.45	boast	mirèhaka
+18.45	boast	midèratèna
+18.45	boast	mireharèha
+18.51	write	manòratra
+18.52	read	mamàky
+18.56	paper	taratàsy
+18.57	pen	pènina
+18.61	book	bòky
+18.67	poet	mpanaotononkìra
+18.71	flute	sòdina
+18.72	drum	ampònga
+18.73	horn, trumpet	tròmpetra
+19.11	country	tàny
+19.12	one's native country	tanindràzana
+19.15	city, town	tanàna
+19.16	village	vòhitra
+19.16	village	tanàna
+19.17	boundary	fàritra
+19.17	boundary	sisintàny
+19.17	boundary	vazantàny
+19.17	boundary	vàvatàny
+19.21	people (populace)	vahòaka
+19.23	tribe, clan	fòko
+19.24	chief, chieftain	filòha
+19.24	chief, chieftain	ben’nytàny
+19.25	staff, walking stick	tèhina
+19.31	rule, govern	mifèhy
+19.31	rule, govern	manjàka
+19.32	king, ruler	mpanjàka
+19.33	queen	mpanjàka
+19.36	noble, nobleman	andrìana
+19.37	citizen, subject	olompirènena
+19.41	master	tòmpo
+19.42	slave	andèvo
+19.43	servant	mpanòmpo
+19.43	servant	mpisarìvy
+19.44	freeman	olompòtsy
+19.44	freeman	òlonaàfaka
+19.45	command, order	mandìdy
+19.46	obey	manàiky
+19.46	obey	manòmpo
+19.47	let, permit	mamèla
+19.47	let, permit	manòmelàlana
+19.51	friend, companion	sakàiza
+19.52	enemy	fahavàlo
+19.54	neighbor	mpifanolobodyrìndrina
+19.55	stranger	vahìny
+19.55	stranger	vazàha
+19.56	guest	vahìny
+19.57	host	tompontràno
+19.58	help, aid	manàmpy
+19.59	hinder, prevent	misàkana
+19.59	hinder, prevent	manampontsàmpona
+19.61	custom	fòmba
+19.62	strife, quarrel	àdyvàva
+19.62	strife, quarrel	fifandìrana
+19.63	conspiracy, plot	tètika
+19.65	meet	mifanòjo
+19.65	meet	mifanèna
+19.65	meet	mihàona
+19.72	prostitute	makorèlina
+19.72	prostitute	mpivarotèna
+19.72	prostitute	kàody
+19.72	prostitute	vehivàvyjanga
+20.11	fight (vb)	miàdy
+20.13	war, battle	àdy
+20.14	peace	fiadànana
+20.15	army	tàfika
+20.17	soldier	miaramìla
+20.21	weapons, arms	fiadìana
+20.22	club	kibày
+20.222	battle-ax	famàky
+20.23	sling	antsamotàdy
+20.23	sling	pìlotra
+20.24	bow	tsipìka
+20.25	arrow	zanatsipìka
+20.26	spear	lèfona
+20.27	sword	sàbatra
+20.28	gun, cannon	bàsy
+20.28	gun, cannon	ampingahàratra
+20.34	shield	ampìnga
+20.35	fortress	mànda
+20.36	tower	tilikàmbo
+20.41	victory	fandrèsena
+20.42	defeat	faharèsena
+20.43	attack	famelèzana
+20.44	defend	miàro
+20.45	retreat	mandositra
+20.45	retreat	mirìatra
+20.46	surrender	mitolobàtana
+20.47	captive, prisoner	bàbo
+20.47	captive, prisoner	sambobèlona
+20.47	captive, prisoner	mpifàtotra
+20.47	captive, prisoner	gàdra
+20.471	guard, sentinel	mpiàmbina
+20.48	booty, spoils	rèmby
+20.48	booty, spoils	bàbo
+20.49	ambush	òtrika
+20.51	fisherman	mpihàza
+20.51	fisherman	mpamìntana
+20.51	fisherman	mpanjòno
+20.51	fisherman	mpamòvo
+20.52	fishhook	fìntana
+20.53	fishing line	tadimpìntana
+20.54	fishnet	haràto
+20.55	fish trap	vòvo
+20.56	bait	jòno
+20.61	hunt	mihàza
+20.62	shoot	manapòaka
+20.62	shoot	mitìfitra
+20.63	miss (target)	tsymahavoa
+20.64	trap (noun)	fàndrika
+20.65	trap (vb)	mamàndrika
+21.11	law	lalàna
+21.15	court	fitsaràna
+21.16	judge (vb)	mitsàra
+21.17	judgment	didimpitsàrana
+21.18	judge (noun)	mpitsàra
+21.21	plaintiff	mpitòry
+21.22	defendant	voampànga
+21.23	witness	vavolombèlona
+21.24	swear	mianìana
+21.25	oath	fianiànana
+21.31	accuse	miampànga
+21.32	condemn	manamèloka
+21.33	convict (vb)	manamèloka
+21.34	acquit	mamòtsotra
+21.34	acquit	manàfaka
+21.34	acquit	mamèlahèloka
+21.35	guilty	dìso
+21.35	guilty	mèloka
+21.36	innocent	madìo
+21.37	penalty, punishment	famaìzana
+21.38	fine	sàzy
+21.39	prison, jail	tranomaìzina
+21.42	murder	famonòana
+21.43	adultery	fijangajangàna
+21.46	arson	fandoròana
+21.47	perjury	fianìanatsyto
+21.51	steal	mangàlatra
+21.52	thief	mpangàlatra

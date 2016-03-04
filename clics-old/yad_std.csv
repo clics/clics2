@@ -1,0 +1,1689 @@
+@classification: Peba-Yaguan
+@ids-name: Yagua_Phonemic
+@iso: yad
+@language: Yagua
+@size: 1682
+@source: ids
+@variety: std
+1.1	world	hnda
+1.1	world	mukadi
+1.21	earth, land	ko
+1.21	earth, land	muko
+1.21	earth, land	muki
+1.212	earth=ground, soil	mukadi
+1.212	earth=ground, soil	rupihyo
+1.213	dust	huru
+1.214	mud	mukadi
+1.215	sand	tĩ
+1.215	sand	tĩčã
+1.22	mountain, hill	musi
+1.22	mountain, hill	musiki
+1.222	cliff, precipice	wimuhũ
+1.222	cliff, precipice	wumuhũ
+1.23	plain, field	watapada
+1.23	plain, field	watupada
+1.25	island	rarãtyu
+1.25	island	rãtyu
+1.26	mainland	sinu
+1.27	shore	tĩ
+1.27	shore	tĩčã
+1.27	shore	hido
+1.27	shore	hini
+1.28	cave	wudi
+1.31	water	hã
+1.32	sea	hãmunãwa
+1.32	sea	nãwa
+1.322	calm (of sea)	huwayã
+1.323	rough (of sea)	rĩyẽrya
+1.324	foam	hikadi
+1.324	foam	hiryũdi
+1.329	ocean	hãmunãwa
+1.329	ocean	nãwa
+1.33	lake	hmityõ
+1.33	lake	hmutyõ
+1.33	lake	tõ
+1.341	lagoon	hmutyõ
+1.341	lagoon	hmityõ
+1.343	headland, point	rapuriči
+1.35	wave	rĩyẽrya
+1.36	river, stream, brook	siɲu
+1.36	river, stream, brook	mũ
+1.36	river, stream, brook	hadayamũ
+1.362	whirlpool	radaputusãhã
+1.37	spring, well	punudeho
+1.37	spring, well	hãrihyo
+1.38	swamp	padye
+1.38	swamp	sawãy
+1.39	waterfall	hãhũrya
+1.41	woods, forest	to
+1.42	tree (cf 08.600)	nĩnu
+1.43	wood	hipu
+1.44	stone, rock	rawičũ
+1.44	stone, rock	nu
+1.45	earthquake	mukadimučutye
+1.51	sky	hariču
+1.51	sky	nãway
+1.51	sky	widawi
+1.52	sun	hiɲĩ
+1.52	sun	hɲi
+1.53	moon	hanimyurĩ
+1.53	moon	harimyunĩ
+1.54	star	darči
+1.54	star	dariči
+1.54	star	hũdariči
+1.55	lightning	rãduyãra
+1.56	thunder	rũwatarya
+1.57	lightning (as striking)	rãdurya
+1.58	storm	hantyunuwãčãda
+1.59	rainbow	hnču
+1.61	light (noun)	nõnõ
+1.61	light (noun)	da
+1.62	darkness	nupokudi
+1.62	darkness	hiɲipuyada
+1.63	shade, shadow	nupohotu
+1.63	shade, shadow	kanuwũ
+1.64	dew	daričisčãhã
+1.71	air	widawi
+1.72	wind	ričo
+1.72	wind	mutyanay
+1.73	cloud	nuwači
+1.74	fog	rahirahũrya
+1.74	fog	rakiruwũrya
+1.75	rain (noun)	rũmura
+1.77	ice	sudodi
+1.78	weather	hnda
+1.81	fire	hiday
+1.81	fire	kiwarya
+1.82	flame (noun)	nũyãra
+1.82	flame (noun)	kiwayãra
+1.83	smoke (noun)	nuwači
+1.84	ashes	pupuhuru
+1.841	embers	hidaryu
+1.851	burn (vb trans)	sapisi
+1.851	burn (vb trans)	pisiyẽ
+1.851	burn (vb trans)	nũča
+1.852	burn (vb intrans)	sarupay
+1.852	burn (vb intrans)	rahũkiway
+1.852	burn (vb intrans)	nũyã
+1.86	light, kindle, ignite	sanũča
+1.86	light, kindle, ignite	rupay
+1.86	light, kindle, ignite	hũkinču
+1.861	extinguish	sahiriča
+1.87	match (noun)	hidače
+1.87	match (noun)	hidahyo
+1.88	firewood	hipu
+1.88	firewood	hiwũ
+1.89	charcoal	hidaryu
+2.1	person, human being	nihyãmĩ
+2.21	man (vs. woman)	wanu
+2.22	woman	watura
+2.23	male	wanu
+2.23	male	nu
+2.24	female	nũy
+2.24	female	toda
+2.24	female	watura
+2.25	boy	dera
+2.25	boy	wanudera
+2.251	young man (adolescent)	waderõnu
+2.251	young man (adolescent)	warerõnu
+2.26	girl	dera
+2.26	girl	hadayakitude
+2.261	young woman (adolescent)	hutu
+2.27	child	dera
+2.28	infant, baby	wadinu
+2.28	infant, baby	pĩrawũryupĩ
+2.31	husband	wanu
+2.32	wife	watura
+2.33	marry	hãmũy
+2.34	marriage, wedding	hãmũyada
+2.341	divorce	towãhada
+2.35	father	tatya
+2.35	father	hãy
+2.36	mother	toda
+2.36	mother	hnõda
+2.37	parents	hãmi
+2.38	married man	waturũsã
+2.39	married woman	wanutĩ
+2.39	married woman	wanutanũy
+2.41	son	danu
+2.41	son	denu
+2.42	daughter	detu
+2.43	offspring (son or daughter)	dadyeɲu
+2.44	brother	taryĩ
+2.44	brother	nuninini
+2.444	older brother	taryĩmunatyĩ
+2.445	younger brother	taryĩwadinu
+2.45	sister	htyamutu
+2.45	sister	taryatu
+2.454	older sister	htyamutumunatyatu
+2.455	younger sister	htyamutuwaditu
+2.455	younger sister	taryatuwaditu
+2.458	twins	parinãsi
+2.458	twins	parunãsi
+2.46	grandfather	hãpa
+2.46	grandfather	papa
+2.461	old man	tãrihẽ
+2.461	old man	wanurimityu
+2.47	grandmother	tãyõ
+2.471	old woman	rimityoda
+2.48	grandson	hasĩ
+2.49	granddaughter	hasatu
+2.51	uncle	nuri
+2.51	uncle	hãčũ
+2.511	mother's brother	nuri
+2.512	father's brother	hãčũ
+2.52	aunt	nõntunõntũy
+2.521	mother's sister	nõntunõntũy
+2.522	father's sister	deseda
+2.55	cousin	taryĩwičĩtaryatuwičĩ
+2.56	ancestors	tãrihẽmitãrimunatyaway
+2.57	descendants	hũdebi
+2.57	descendants	dadyeɲumi
+2.57	descendants	dadyedami
+2.61	father-in-law (of a man)	hãmu
+2.61	father-in-law (of a man)	nuri
+2.61	father-in-law (of a man)	hiɲuri
+2.611	father-in-law (of a woman)	hãmu
+2.611	father-in-law (of a woman)	nuri
+2.611	father-in-law (of a woman)	hiɲuri
+2.62	mother-in-law (of a man)	deseda
+2.621	mother-in-law (of a woman)	deseda
+2.63	son-in-law (of a man)	hadčã
+2.63	son-in-law (of a man)	kirye
+2.631	son-in-law (of a woman)	hadčã
+2.631	son-in-law (of a woman)	kirye
+2.64	daughter-in-law (of a man)	hasĩntu
+2.64	daughter-in-law (of a man)	hasĩnũy
+2.641	daughter-in-law (of a woman)	hasĩntu
+2.641	daughter-in-law (of a woman)	hasĩnũy
+2.75	orphan	bačetadi
+2.76	widow	bačenõda
+2.77	widower	bačiyã
+2.81	relatives, kinsmen	tenu
+2.81	relatives, kinsmen	tenuwičĩ
+2.81	relatives, kinsmen	teway
+2.82	family	hiryena
+2.82	family	tenu
+2.82	family	tenuwiči
+2.91	I	ray
+2.92	you (singular)	hi
+2.93	he/she/it	nĩ
+2.93	he/she/it	sanĩ
+2.93	he/she/it	ra
+2.94	we	nãy
+2.941	we (inclusive)	wũy
+2.942	we (exclusive)	nũy
+2.95	you (plural)	hirye
+2.96	they	ri
+2.96	they	ra
+3.11	animal	hawãda
+3.12	male (adj)	wanu
+3.13	female (adj)	watura
+3.15	livestock	hasĩweda
+3.16	pasture	wapãtyo
+3.18	herdsman	hasĩhnũtyĩ
+3.19	stable, stall	hasĩwičaho
+3.2	cattle (bovine)	hasĩweda
+3.21	bull	wanu
+3.22	ox	mistyasĩ
+3.24	calf	dera
+3.26	ram	wanu
+3.28	ewe	watura
+3.29	lamb	dera
+3.32	boar	wanu
+3.34	sow	tyoda
+3.36	goat	wanu
+3.37	he-goat	wanu
+3.38	kid	dera
+3.42	stallion	wanu
+3.44	mare	watura
+3.45	foal, colt	dera
+3.5	fowl	nipyãtĩ
+3.5	fowl	hĩway
+3.52	cock, rooster	tawariwanu
+3.54	hen	tawarityoda
+3.55	chicken	tuwari
+3.55	chicken	tawari
+3.57	duck	hãmusatu
+3.58	nest	ruy
+3.58	nest	rutyõ
+3.581	bird	hĩway
+3.581	bird	wiče
+3.582	seagull	tahĩtu
+3.583	heron	tantyasi
+3.583	heron	wãnayu
+3.584	eagle	mučãwawetyu
+3.585	hawk	wawyetyu
+3.586	vulture	pãčoriy
+3.591	bat	ričatu
+3.592	parrot	koči
+3.593	crow	seremi
+3.594	dove	hãrityu
+3.596	owl	puputu
+3.596	owl	puyintu
+3.596	owl	wuwasi
+3.61	dog	nibi
+3.622	opossum	wituɲu
+3.63	mouse, rat	sikyaki
+3.63	mouse, rat	mumĩ
+3.65	fish	kiwã
+3.653	fishscale	sa
+3.653	fishscale	hi
+3.654	gill	sanãnu
+3.655	shell	kadye
+3.655	shell	kapityu
+3.662	porpoise, dolphin	hadatu
+3.662	porpoise, dolphin	hãntu
+3.664	stingray	buryatu
+3.664	stingray	ratu
+3.665	freshwater eel	dati
+3.665	freshwater eel	nudati
+3.75	deer	hanari
+3.75	deer	kutyu
+3.811	louse	runi
+3.812	nit (louse egg)	runiwada
+3.813	flea	runi
+3.814	centipede	mutitu
+3.814	centipede	siryẽtyu
+3.815	scorpion	norityu
+3.815	scorpion	watahũtu
+3.817	ant	hu
+3.817	ant	hĩtyinu
+3.818	spider	tityu
+3.818	spider	tutityu
+3.819	spider web	tityuruy
+3.82	bee	nuparĩ
+3.82	bee	mučiɲa
+3.821	beeswax	kisiɲapa
+3.822	beehive	mučityu
+3.823	wasp	nudahu
+3.823	wasp	hu
+3.83	fly	nuwačatu
+3.831	sandfly (midge), gnat	dačĩ
+3.831	sandfly (midge), gnat	mukanĩ
+3.831	sandfly (midge), gnat	kanĩtu
+3.832	mosquito	hiɲĩnu
+3.84	worm	toto
+3.84	worm	čapinu
+3.85	snake	kodi
+3.91	firefly	nimimimi
+3.91	firefly	hanũ
+3.92	butterfly	kuyõtu
+3.92	butterfly	nuwutu
+3.93	grasshopper	ruwa
+3.94	snail	kapityu
+3.94	snail	rũdari
+3.95	frog	sikyutu
+3.95	frog	hũtu
+3.96	lizard	hapya
+3.96	lizard	sunumĩ
+3.96	lizard	numi
+3.97	crocodile, alligator	nurutu
+3.98	turtle	hnityuhũnutyuhũdityu
+4.11	body	bi
+4.11	body	wũ
+4.12	skin, hide	hay
+4.12	skin, hide	hasĩhay
+4.13	flesh	sawi
+4.14	hair (head)	radiway
+4.14	hair (head)	hasi
+4.142	beard	hũmuruso
+4.142	beard	mudihasi
+4.145	pubic hair	tačihyasi
+4.15	blood	nda
+4.15	blood	ndahã
+4.16	bone	du
+4.162	rib	wihã
+4.17	horn	tũyuro
+4.17	horn	tũyuwũ
+4.17	horn	wũ
+4.18	tail	mũsiy
+4.19	back	runu
+4.19	back	rudi
+4.191	spine	ru
+4.2	head	hnõ
+4.201	side of head, temple	musi
+4.202	skull	hnõsi
+4.203	brain	hũnõriča
+4.204	face	mõ
+4.205	forehead	mõ
+4.205	forehead	mõtãsa
+4.207	jaw	mudi
+4.208	cheek	maya
+4.209	chin	mudi
+4.21	eye	hnũtyã
+4.21	eye	nĩsityadi
+4.212	eyebrow	nubaɲu
+4.213	eyelid	nĩsihe
+4.214	eyelash	nĩsiryo
+4.215	blink	mãčiryuya
+4.22	ear	hay
+4.22	ear	hĩ
+4.22	ear	tuwãy
+4.23	nose	nurũ
+4.231	nostril	wũnrũhũ
+4.231	nostril	nurũhũ
+4.232	mucus (nasal)	paryedyi
+4.232	mucus (nasal)	dapa
+4.24	mouth	hũ
+4.24	mouth	hũto
+4.241	beak	hãda
+4.25	lip	hiduy
+4.25	lip	hũday
+4.26	tongue	dači
+4.27	tooth	ho
+4.27	tooth	hãda
+4.271	gums	hãdnãy
+4.271	gums	hãnnãy
+4.272	molartooth	hariwyitu
+4.28	neck	hũtunuwũ
+4.281	nape of neck	hũtunuwũ
+4.29	throat	pi
+4.29	throat	pisi
+4.3	shoulder	numutõ
+4.301	shoulderblade	pay
+4.301	shoulderblade	numutõpãy
+4.31	arm	hase
+4.31	arm	nčã
+4.312	armpit	numutõhari
+4.312	armpit	numutõho
+4.32	elbow	disi
+4.32	elbow	haseriwyasi
+4.321	wrist	homutumururya
+4.33	hand	sahomutu
+4.331	palm of hand	nãy
+4.34	finger	hanã
+4.342	thumb	ntityũhanã
+4.344	fingernail	hasumuday
+4.344	fingernail	ho
+4.345	claw	hasumuday
+4.35	leg	duse
+4.35	leg	muda
+4.351	thigh	tudi
+4.352	calf of leg	dusepude
+4.36	knee	hadasi
+4.37	foot	numutu
+4.371	ankle	numutuwiči
+4.372	heel	harosi
+4.374	footprint	hmu
+4.38	toe	numutuhanã
+4.392	wing	haynipyã
+4.393	feather	mũhasi
+4.4	chest	dutuy
+4.41	breast (of woman)	hĩtyã
+4.412	nipple, teat	hĩtyãdi
+4.412	nipple, teat	hĩtyãnrusi
+4.42	udder	hĩtyã
+4.43	navel	hĩčabo
+4.43	navel	hnčabo
+4.44	heart	hnũtyã
+4.44	heart	hači
+4.441	lung	sarĩtu
+4.45	liver	hũwatu
+4.45	liver	hwatu
+4.451	kidney	tãdsi
+4.452	spleen	pãči
+4.46	stomach	pude
+4.46	stomach	puniyẽ
+4.46	stomach	wimu
+4.461	intestines, guts	sikidi
+4.461	intestines, guts	si
+4.462	waist	kannu
+4.463	hip	satudi
+4.463	hip	mudanĩsiy
+4.464	buttocks	tidi
+4.464	buttocks	tudi
+4.464	buttocks	rudi
+4.47	womb	wimu
+4.49	testicle	hmisi
+4.49	testicle	hme
+4.492	penis	hapĩ
+4.51	breathe, breath	nãrye
+4.51	breathe, breath	tiheyã
+4.52	yawn, gape	hanãdayã
+4.521	hiccough	sikiway
+4.521	hiccough	sikiweda
+4.53	cough	piway
+4.53	cough	piweda
+4.54	sneeze	hasiryĩway
+4.54	sneeze	hasiryĩweda
+4.55	perspire	hãtãy
+4.56	spit	hũtoči
+4.56	spit	toči
+4.56	spit	hũri
+4.57	vomit	kotyanũy
+4.57	vomit	hiyani
+4.57	vomit	yani
+4.58	bite	sũy
+4.58	bite	sũmutuy
+4.59	lick	tanay
+4.591	dribble	sita
+4.61	sleep	mãy
+4.62	dream	mãryĩsa
+4.62	dream	mãryĩsãda
+4.63	wake up	hidyosi
+4.63	wake up	hndyo
+4.64	break wind	hiriyẽ
+4.64	break wind	nãy
+4.65	urinate	siwãy
+4.66	defecate	kĩnãy
+4.67	have sexual intercourse	hĩ
+4.68	shiver	mučutye
+4.69	bathe	sahanãy
+4.71	beget (of father)	detuču
+4.72	born (to be)	rupay
+4.73	pregnant	mudasi
+4.732	conceive	pĩrũy
+4.74	live, living, life	wičasãda
+4.74	live, living, life	wičãda
+4.74	live, living, life	hnũyada
+4.75	die, dead	di
+4.75	die, dead	ditya
+4.75	die, dead	diɲu
+4.751	drowned	rũɲu
+4.76	kill	hũway
+4.76	kill	hway
+4.76	kill	munu
+4.77	corpse	sababi
+4.77	corpse	dibi
+4.77	corpse	didabi
+4.78	bury (the dead)	hmuču
+4.78	bury (the dead)	hĩmiču
+4.79	grave, tomb	bapyo
+4.81	strong, mighty, powerful	sura
+4.81	strong, mighty, powerful	wanũrya
+4.82	weak	diwãhnĩ
+4.82	weak	hantyu
+4.83	well, health	haryi
+4.83	well, health	samiwičãdaratyĩ
+4.84	sick, sickness	diwã
+4.84	sick, sickness	hũdiwã
+4.841	fever	saduyada
+4.842	goiter	piho
+4.843	cold (catarrh)	hũsudi
+4.85	wound, sore	wahyõ
+4.85	wound, sore	watahõ
+4.853	swelling	karĩ
+4.853	swelling	hasay
+4.853	swelling	poy
+4.854	itch	hũwara
+4.854	itch	mukatu
+4.855	blister	pisičuy
+4.856	boil (noun)	porya
+4.856	boil (noun)	rupã
+4.857	pus	purya
+4.858	scar	bahyõ
+4.86	cure, heal	hdanu
+4.86	cure, heal	mĩsani
+4.86	cure, heal	ratyani
+4.87	physician	hĩndanũ
+4.88	medicine, drug	hĩndantã
+4.89	poison	dityã
+4.89	poison	muntã
+4.89	poison	rãwã
+4.91	tired, weary	diwãhnĩ
+4.912	rest	hituy
+4.92	lazy	piturya
+4.93	bald	hnõtadi
+4.94	lame	kanuyãra
+4.94	lame	kanuyãsi
+4.95	deaf	tũyupuri
+4.96	mute	wapuy
+4.96	mute	nikyehasã
+4.97	blind	nĩsihyo
+4.97	blind	nĩsipiri
+4.98	intoxicated	hniyũbi
+4.99	naked, bare	sidyawũ
+5.11	eat	himyi
+5.11	eat	hmi
+5.12	food	mičara
+5.12	food	hbyeda
+5.121	cooked	mutičĩ
+5.121	cooked	mutičara
+5.122	raw	hatya
+5.123	ripe	suduy
+5.124	green, unripe	hatya
+5.125	rotten	purya
+5.125	rotten	puɲu
+5.13	drink	hatu
+5.14	hunger	hačĩhada
+5.141	famine	hačĩnu
+5.15	thirst	hčũmũyada
+5.16	suck	tiriy
+5.16	suck	turiy
+5.16	suck	riɲi
+5.18	chew	himiyã
+5.18	chew	hmiyã
+5.181	swallow	ramiču
+5.19	choke	pitya
+5.19	choke	rũy
+5.21	cook	miti
+5.21	cook	mutiwye
+5.22	boil (vb)	mukata
+5.23	roast, fry	ruyẽ
+5.24	bake	hansũy
+5.24	bake	hanu
+5.26	pot, cooking vessel	hiduymõtarya
+5.27	kettle	himõ
+5.28	pan	sutapã
+5.31	dish	sidye
+5.32	plate	pay
+5.32	plate	sidye
+5.33	bowl	patõ
+5.34	pitcher, jug	hapatyu
+5.34	pitcher, jug	nu
+5.35	cup, drinking vessel	hatuho
+5.35	cup, drinking vessel	hatusi
+5.35	cup, drinking vessel	hatuwũ
+5.36	saucer	sidyedye
+5.37	spoon	himityã
+5.37	spoon	mityã
+5.38	knife	kiči
+5.39	fork	himityã
+5.391	tongs	hiryityã
+5.41	meal (a)	hmičara
+5.46	peel	hasitya
+5.46	peel	hasutya
+5.46	peel	hota
+5.46	peel	kĩsuy
+5.47	sieve, strain	ramitya
+5.48	scrape	pãy
+5.48	scrape	muday
+5.49	stir, mix	nubedo
+5.53	dough	di
+5.53	dough	buyãdi
+5.54	knead	doya
+5.55	meal, flour	huru
+5.56	crush, grind	muči
+5.56	crush, grind	tanu
+5.56	crush, grind	sanã
+5.57	mill	sanãho
+5.58	mortar	sanãho
+5.59	pestle	sanãse
+5.61	meat	sawi
+5.61	meat	hãpũy
+5.63	sausage	kamisahũ
+5.63	sausage	kamisawũ
+5.64	soup, broth	hã
+5.66	bean	purutu
+5.7	potato	musã
+5.71	fruit	bi
+5.71	fruit	si
+5.71	fruit	ho
+5.712	bunch	bi
+5.712	bunch	tu
+5.79	oil	nĩhã
+5.791	grease, fat	nĩdi
+5.81	salt	tiwyi
+5.82	pepper	hũdisiy
+5.821	chili pepper	hũdisi
+5.84	honey	kisihyã
+5.86	milk (noun)	hĩtyãhã
+5.87	milk (vb)	muči
+5.89	butter	nĩdi
+5.9	beverage, drink	hatusara
+5.9	beverage, drink	hatuhã
+5.93	beer	buyã
+5.94	fermented drink	kasihyã
+5.94	fermented drink	hũdahã
+5.97	egg	hũ
+5.97	egg	hiwada
+6.11	put on (clothes)	haču
+6.12	clothing, clothes	suhay
+6.13	tailor	suhayhwaɲu
+6.21	cloth	suhay
+6.22	wool	hasi
+6.22	wool	hasičo
+6.24	cotton	nrabi
+6.25	silk	hay
+6.28	fur	hasi
+6.29	leather	hay
+6.31	spin	ruyunu
+6.32	spindle	ruyintã
+6.33	weave	hča
+6.35	sew	kuruču
+6.35	sew	sini
+6.35	sew	suni
+6.36	needle	roda
+6.37	awl	hutyatã
+6.38	thread	nrabihũ
+6.39	dye	mučantã
+6.42	woman's dress	hay
+6.42	woman's dress	suhay
+6.44	shirt	hay
+6.46	skirt	saya
+6.46	skirt	hapuhay
+6.461	grass-skirt	kadnuso
+6.461	grass-skirt	nreso
+6.48	trousers	mudasuy
+6.49	stocking, sock	numutusuy
+6.52	boot	po
+6.54	shoemaker, cobbler	hwaɲu
+6.55	hat, cap	hnõkõ
+6.57	belt, girdle	kadnuhay
+6.57	belt, girdle	hay
+6.58	glove	homutusuy
+6.61	pocket	mudasučuwõ
+6.62	button	suhači
+6.63	pin	roda
+6.71	ornament, adornment	danĩweda
+6.73	ring (for finger)	hanãhatu
+6.74	bracelet	mãričihe
+6.75	necklace	mãriči
+6.76	bead	mučarãnũ
+6.76	bead	mučarãnũsi
+6.77	earring	tuwãči
+6.78	headband, headdress	parenunuwi
+6.79	tattoo	mõkadahu
+6.81	handkerchief, rag	suhaɲẽ
+6.82	towel	mõpũhe
+6.91	comb	muniyõ
+6.91	comb	mũyõ
+6.921	braid	hča
+6.94	ointment	nĩdi
+6.96	mirror	nuwatu
+7.11	dwell, live	wiča
+7.12	house	rori
+7.12	house	wičaho
+7.13	hut	sũtãy
+7.15	yard, court	watapada
+7.15	yard, court	watupada
+7.18	meeting house	mukomuntimura
+7.21	room	si
+7.22	door, gate	hũ
+7.22	door, gate	rorihyũ
+7.221	doorpost, jamb	rorihyũday
+7.23	lock (noun)	kõtu
+7.231	latch, door-bolt	mutanutã
+7.24	key	mutatã
+7.25	window	rorihyude
+7.26	floor	rupihyo
+7.27	wall	puryesara
+7.31	fireplace	hidaywičaho
+7.37	ladder	hasumihyo
+7.42	bed	mãya
+7.421	pillow	tiryõsuy
+7.422	blanket	tiryõhay
+7.43	chair	mãsaho
+7.45	lamp, torch	nõnõpu
+7.45	lamp, torch	nonõda
+7.45	lamp, torch	nõnõsi
+7.46	candle	nõnõpu
+7.48	trough	tunũnu
+7.51	roof	rori
+7.53	ridgepole	rũdi
+7.54	rafter	mudawũ
+7.55	beam	mudawũ
+7.56	post, pole	hntuwũ
+7.57	board	hiray
+7.62	brick	rupačadi
+8.11	farmer	nunihwaɲu
+8.12	field (for cultivation)	nudi
+8.12	field (for cultivation)	nuni
+8.13	garden	nuni
+8.15	cultivate, till	hãsiy
+8.16	fence	puryesara
+8.22	dig	hũmi
+8.22	dig	dapunu
+8.23	spade	sarũ
+8.24	shovel	sarũ
+8.25	hoe	sarũ
+8.26	fork	kã
+8.26	fork	niɲu
+8.27	rake	tuwatã
+8.31	sow	nutanta
+8.311	seed	si
+8.311	seed	tadi
+8.32	mow, reap	hato
+8.33	sickle, scythe	kamyutuwũ
+8.34	thresh	kĩsutya
+8.41	crop, harvest	hatosara
+8.41	crop, harvest	hato
+8.42	grain (barley, oats etc)	si
+8.47	maize, corn	didu
+8.47	maize, corn	ridu
+8.51	grass	so
+8.51	grass	wačuy
+8.53	plant (noun)	nutasara
+8.531	plant (vb)	nuta
+8.54	root	hũnuti
+8.54	root	nuti
+8.54	root	nutihyũ
+8.55	branch	hi
+8.55	branch	ti
+8.56	leaf	wĩ
+8.56	leaf	nawĩ
+8.57	flower	bi
+8.6	tree	nĩnu
+8.67	vine	murĩhũ
+8.67	vine	nurĩhũ
+8.68	tobacco	sudi
+8.69	smoke (tobacco)	saday
+8.69	smoke (tobacco)	suday
+8.691	pipe	sudači
+8.72	tree stump	hiryu
+8.72	tree stump	hiryuwũ
+8.73	tree trunk	nu
+8.74	forked branch	kãtara
+8.75	bark	hay
+8.75	bark	hiway
+8.76	sap	riča
+8.82	coconut	tãtuči
+8.82	coconut	tãtiči
+8.83	citrus fruit	nũpihyo
+8.84	banana tree	da
+8.91	sweet potato	si
+8.91	sweet potato	hatisi
+8.91	sweet potato	hatusi
+8.912	yam	hatisi
+8.912	yam	hatusi
+8.92	tapioca, manioc, cassava	pahi
+8.92	tapioca, manioc, cassava	hasuče
+8.92	tapioca, manioc, cassava	se
+8.93	gourd	sukãy
+8.93	gourd	kuyu
+8.931	pumpkin, squash	sukiwũ
+8.931	pumpkin, squash	kuyu
+8.94	bamboo	musa
+8.941	sugar cane	sabodu
+8.941	sugar cane	mučetyudu
+8.96	fish poison (root)	tatyũ
+8.97	nettle	nupariɲu
+8.97	nettle	hartyĩ
+8.98	mushroom	kadihay
+9.11	do, make	hiway
+9.11	do, make	hičani
+9.12	work	hiwayada
+9.14	bend	tãtya
+9.14	bend	kamya
+9.14	bend	simya
+9.15	fold	murnã
+9.16	tie, bind	puču
+9.161	untie	wita
+9.161	untie	witay
+9.19	rope, cord	hũ
+9.192	knot (noun)	riwyasi
+9.192	knot (noun)	ku
+9.21	strike (hit, beat)	hũway
+9.21	strike (hit, beat)	hũwatyi
+9.211	pound with fist	hũwatihomututa
+9.22	cut	harũy
+9.22	cut	hũnsi
+9.221	cut down	hnu
+9.221	cut down	hnutũy
+9.222	chop, hew	hnu
+9.222	chop, hew	taɲẽ
+9.223	stab	hĩčiti
+9.23	knife	kiči
+9.24	scissors, shears	panta
+9.25	ax	hase
+9.26	break	kantye
+9.26	break	pata
+9.26	break	wũta
+9.26	break	rotya
+9.26	break	hota
+9.261	broken	patasara
+9.261	broken	kantyečara
+9.261	broken	wũtasara
+9.27	split	ruwe
+9.27	split	ruwenuy
+9.28	tear	seta
+9.29	flay, skin	kĩsutya
+9.31	rub, wipe	hĩwa
+9.31	rub, wipe	hmyunu
+9.31	rub, wipe	minu
+9.31	rub, wipe	pũy
+9.32	stretch	ratya
+9.32	stretch	ratye
+9.33	pull	tiy
+9.34	spread out	ratyawã
+9.341	hang up	sõtay
+9.341	hang up	sõtani
+9.342	press	mũči
+9.343	squeeze, wring	ruyunu
+9.343	squeeze, wring	mũči
+9.35	pour	rumi
+9.35	pour	hũči
+9.36	wash	suta
+9.36	wash	sa
+9.36	wash	hasa
+9.37	sweep	nini
+9.37	sweep	nuni
+9.38	broom	nintyã
+9.38	broom	nuntyã
+9.422	tool	hwatyã
+9.43	carpenter	hirayhwaɲu
+9.44	build	rori
+9.46	bore	hutya
+9.461	hollow out	say
+9.461	hollow out	hũ
+9.461	hollow out	kanohu
+9.461	hollow out	kukõ
+9.5	nail	yiwamyuro
+9.56	glue	rupa
+9.56	glue	rupadi
+9.6	smith, blacksmith	yiwamyuhwaɲu
+9.67	iron	yiwamyu
+9.67	iron	hiwyamyu
+9.71	potter	himõhwaɲu
+9.72	mold (clay etc)	panũy
+9.72	mold (clay etc)	hũde
+9.73	clay	nadi
+9.75	weave, plait	hča
+9.76	basket	hĩtyu
+9.76	basket	hntyu
+9.77	mat	hčatu
+9.77	mat	tiryõhay
+9.78	netbag	suwõ
+9.79	fan (noun)	pãpẽtyu
+9.791	fan (vb)	kanuwũnu
+9.791	fan (vb)	hũpay
+9.81	carve	taɲẽ
+9.81	carve	nãtya
+9.82	sculptor	nãtĩ
+9.83	statue	hantyasara
+9.83	statue	hantyasĩ
+9.84	chisel	sityentyã
+9.88	paint (noun)	mučantã
+9.89	paint (vb)	mučanu
+10.11	move	sikitya
+10.11	move	santay
+10.11	move	tãyã
+10.12	turn over	sičunu
+10.12	turn over	hanumitya
+10.13	turn around	hanumitya
+10.13	turn around	hanumitye
+10.14	wind, wrap	ray
+10.14	wind, wrap	wa
+10.14	wind, wrap	mõsi
+10.15	roll	sičunu
+10.17	twist	ruyunu
+10.21	rise	hasumi
+10.21	rise	nubesi
+10.22	raise, lift	nubesi
+10.22	raise, lift	nubesumi
+10.23	fall	hũpatye
+10.23	fall	nõtay
+10.23	fall	hũy
+10.24	drip	sitay
+10.25	throw	hatya
+10.252	catch (ball)	hũri
+10.26	shake	mučutye
+10.32	flow	si
+10.33	sink	hay
+10.33	sink	howay
+10.34	float	pupãyã
+10.35	swim	nũni
+10.351	dive	hãryũy
+10.37	fly (vb)	hĩ
+10.37	fly (vb)	ratye
+10.38	blow	du
+10.38	blow	rudi
+10.38	blow	duhã
+10.38	blow	duwuyẽ
+10.41	creep, crawl	tirya
+10.41	creep, crawl	kanimyu
+10.412	kneel	sahadasiɲu
+10.413	crouch	padye
+10.42	slide, slip	dusi
+10.42	slide, slip	wasidya
+10.43	jump, leap	rãy
+10.43	jump, leap	rãtitya
+10.431	kick	nusi
+10.431	kick	nusiyẽ
+10.44	dance	rãyã
+10.45	walk	rupi
+10.45	walk	wũtayã
+10.451	limp	kanuyã
+10.451	limp	padye
+10.46	run	si
+10.46	run	siči
+10.47	go	hiya
+10.47	go	hintye
+10.47	go	rupiči
+10.471	go up	hasumi
+10.472	climb	hasumi
+10.473	go down	hmusa
+10.473	go down	hũhe
+10.474	go out	mãsi
+10.474	go out	mudsahã
+10.474	go out	mũti
+10.48	come	hni
+10.481	come back	tãryĩ
+10.49	go away, depart	hiya
+10.491	disappear	karay
+10.491	disappear	paritay
+10.51	flee	bay
+10.51	flee	siči
+10.52	follow	sityarĩ
+10.53	pursue	siryĩ
+10.53	pursue	sitya
+10.55	reach, arrive	hĩta
+10.55	reach, arrive	hntĩ
+10.55	reach, arrive	hũni
+10.55	reach, arrive	hntõ
+10.56	approach	tudi
+10.57	enter	hay
+10.57	enter	sihe
+10.61	carry (bear)	hiyata
+10.61	carry (bear)	pũča
+10.61	carry (bear)	pũryĩ
+10.61	carry (bear)	titya
+10.612	carry-in-hand	htu
+10.612	carry-in-hand	hũtu
+10.613	carry-on-shoulder	satitya
+10.613	carry-on-shoulder	nuču
+10.62	bring	hũri
+10.63	send	hpã
+10.63	send	nsũy
+10.64	lead (vb)	mutay
+10.64	lead (vb)	hiyata
+10.67	push, shove	hatya
+10.71	road	nũ
+10.71	road	nũki
+10.72	path	mantya
+10.72	path	nũ
+10.74	bridge	ramutĩnu
+10.76	wheel	watatõ
+10.83	boat	kartye
+10.831	canoe	kartye
+10.831	canoe	hũmuɲu
+10.84	raft	murityu
+10.84	raft	murtyu
+10.84	raft	rityu
+10.85	oar	satyã
+10.851	paddle (noun)	satyã
+10.851	paddle (noun)	hay
+10.851	paddle (noun)	hi
+10.852	row (vb)	sayã
+10.91	harbor, port	hmusaho
+10.91	harbor, port	hũmusaho
+10.92	land (vb)	hta
+11.11	have	tĩ
+11.11	have	tara
+11.12	own, possess	hãmi
+11.12	own, possess	tĩ
+11.13	take	hũri
+11.14	seize, grasp	hũri
+11.15	hold	hũri
+11.16	get, obtain	hũri
+11.17	keep, retain	bay
+11.18	thing	tara
+11.21	give	sãy
+11.22	give back	tãryatani
+11.24	preserve, look after	bay
+11.24	preserve, look after	hnũču
+11.24	preserve, look after	hnũtya
+11.25	save, rescue	hantyuy
+11.25	save, rescue	rãy
+11.27	destroy	parita
+11.28	harm, injure, damage	harupanu
+11.28	harm, injure, damage	hpãy
+11.28	harm, injure, damage	harupanu
+11.31	seek, look for	wãta
+11.32	find	dirye
+11.32	find	sara
+11.32	find	sirye
+11.32	find	sarye
+11.33	lose	pãčitya
+11.33	lose	karay
+11.34	release, let go	hmũrya
+11.44	coin	dye
+11.51	rich	ratyã
+11.51	rich	taratĩ
+11.52	poor	hantyuyadaway
+11.53	beggar	hačiɲũrya
+11.54	avaricious, stingy	hũbarya
+11.61	lend	sãy
+11.62	borrow	sãy
+11.63	owe	sa
+11.64	debt	čara
+11.65	pay (vb)	mučenu
+11.65	pay (vb)	muričenu
+11.77	hire	hwatyani
+11.78	wages	čara
+11.81	buy	tãryũy
+11.82	sell	tãryũtya
+11.84	merchant	tãryũtyĩ
+11.85	market (place)	tãryũtyaho
+11.87	price	muričeway
+11.88	dear (costly, expensive)	hãmuraramuričeway
+11.89	cheap	neharyimuričewarya
+11.91	share (distribute)	sãy
+11.92	weigh	hidye
+11.92	weigh	hini
+11.92	weigh	saranu
+12.1	after	riwasi
+12.11	place	hũsi
+12.11	place	nihyũ
+12.11	place	yadasi
+12.2	beside	tunu
+12.3	down, below	hari
+12.4	before	hũtyahũ
+12.41	right (side)	hiyada
+12.41	right (side)	mõmu
+12.41	right (side)	yada
+12.5	inside, in	wimu
+12.5	inside, in	musi
+12.5	inside, in	nube
+12.6	outside	bimu
+12.7	under	rahare
+12.7	under	rahari
+12.8	up, above	sahĩyu
+12.11	place	hi
+12.11	place	ho
+12.11	place	wičaho
+12.12	put	bay
+12.13	sit	mãsa
+12.13	sit	kuru
+12.14	lie down	tiryõ
+12.15	stand	rani
+12.16	remain, stay	mãčõ
+12.17	remains, left overs	hinra
+12.17	remains, left overs	binra
+12.21	collect, gather	hato
+12.21	collect, gather	so
+12.21	collect, gather	hutyẽryani
+12.212	pick up	hũri
+12.213	pile up	hu
+12.213	pile up	wiɲu
+12.213	pile up	wiɲã
+12.22	join, unite	hutyẽryani
+12.23	separate	hintyananta
+12.232	divide	nanta
+12.24	open	muta
+12.24	open	mudtarya
+12.25	shut, close	tamuy
+12.25	shut, close	tanuwũnu
+12.25	shut, close	mutanu
+12.26	cover	mutanu
+12.27	hide, conceal	dutya
+12.27	hide, conceal	padye
+12.31	high	nãway
+12.32	low	hapu
+12.32	low	wapu
+12.33	top	nča
+12.34	bottom	kĩni
+12.35	end	baryĩhada
+12.35	end	kãsiyada
+12.352	pointed	mõ
+12.352	pointed	nro
+12.352	pointed	do
+12.352	pointed	hĩčitiryaki
+12.353	edge	ramirya
+12.353	edge	ramurya
+12.36	side	himučõ
+12.36	side	himunu
+12.36	side	tunu
+12.37	middle, center	paruda
+12.37	middle, center	hače
+12.37	middle, center	kabiwa
+12.37	middle, center	kabimu
+12.41	right (side)	ntityuday
+12.42	left (side)	mĩday
+12.43	near (adv)	nũhi
+12.43	near (adv)	di
+12.44	far (adv)	ripya
+12.45	east	hiɲĩmũtĩho
+12.46	west	hiɲĩpuryehyo
+12.47	north	rawitãsamu
+12.48	south	hidyewitãsamu
+12.53	grow	hãwye
+12.54	measure	saranu
+12.541	span, fathom	hũričara
+12.55	large, big	hãmu
+12.55	large, big	ki
+12.56	small, little	pasi
+12.56	small, little	de
+12.56	small, little	wamiri
+12.57	long	hãmukã
+12.57	long	ki
+12.58	tall	nãway
+12.58	tall	ki
+12.58	tall	hãmuki
+12.59	short	hapu
+12.59	short	wapu
+12.61	wide, broad	kõ
+12.61	wide, broad	hãmu
+12.62	narrow	pasi
+12.63	thick (in dimension)	watanu
+12.65	thin (in dimension)	miriyũ
+12.65	thin (in dimension)	muryiyũ
+12.65	thin (in dimension)	wata
+12.67	deep	watanu
+12.67	deep	nučãri
+12.68	shallow	wata
+12.71	flat	pãy
+12.71	flat	padye
+12.71	flat	paniyõ
+12.73	straight	wase
+12.74	crooked	wakamyu
+12.74	crooked	waruyu
+12.75	hook	kã
+12.76	corner	numare
+12.78	square	watatu
+12.81	round	watatõ
+12.81	round	waturi
+12.82	circle	watatõ
+12.83	sphere, ball	waturi
+12.83	sphere, ball	ho
+12.84	line	nũčara
+12.85	hole	watahũ
+12.92	like, similar	nũtyu
+12.92	like, similar	darya
+12.93	change	tĩtuy
+13.0	zero, nothing	mitya
+13.0	zero, nothing	mutya
+13.1	one	taraki
+13.2	two	hũy
+13.2	two	darahũy
+13.3	three	mumurĩ
+13.4	four	daryahũyu
+13.5	five	tadahyo
+13.6	six	tarakinihyate
+13.7	seven	nãnũhũɲihyatec̷
+13.8	eight	mumurĩnihyate
+13.9	nine	daryahũyunihyate
+13.10	ten	tarakiwũyahũy
+13.102	twelve	darahũywũyahũrančahũ
+13.104	twenty	d
+13.104	twenty	narahũywũyahũy
+13.105	hundred	pača
+13.105	hundred	tarakipača
+13.106	thousand	tarakiwaranka
+13.107	count	saranu
+13.107	count	suranu
+13.14	every, all	tĩtãhũ
+13.15	much, many	haryi
+13.15	much, many	hu
+13.15	much, many	rahu
+13.16	more	rančahũ
+13.17	little (quantity), few	de
+13.17	little (quantity), few	pasi
+13.17	little (quantity), few	derĩ
+13.18	enough	dete
+13.18	enough	hu
+13.18	enough	hãwiɲu
+13.18	enough	sãrã
+13.181	some	tara
+13.181	some	derĩ
+13.19	multitude, crowd	hu
+13.19	multitude, crowd	tu
+13.19	multitude, crowd	way
+13.21	full	miryanu
+13.21	full	panuho
+13.22	empty	kukõ
+13.22	empty	mitya
+13.23	part, piece	we
+13.23	part, piece	tera
+13.23	part, piece	hũwe
+13.24	half	we
+13.24	half	hũwe
+13.24	half	tãsa
+13.24	half	taday
+13.33	alone, only	mityanuma
+13.33	alone, only	hasikita
+13.34	first	hõttã
+13.34	first	munatya
+13.35	last	tamitya
+13.36	second	darahũhyũ
+13.38	two times	d
+13.38	two times	narahũhyũ
+13.42	third	mumurĩhũ
+13.44	three times	mumurĩhũ
+14.11	time	runda
+14.11	time	hũnda
+14.12	age	nihyã
+14.12	age	hnda
+14.13	new	wadi
+14.14	young	waderõ
+14.15	old	tãrihẽ
+14.15	old	rimityu
+14.16	early	tãrimyusidera
+14.17	late	hiɲuway
+14.18	now	diwye
+14.18	now	diye
+14.19	immediately	waričãrãhũ
+14.21	swift, fast, quick	haryuwe
+14.21	swift, fast, quick	wanira
+14.21	swift, fast, quick	warenu
+14.22	slow	tapi
+14.23	hasten, hurry	haryuwũy
+14.24	retard, delay	riče
+14.25	begin, beginning	hõta
+14.25	begin, beginning	hõtãda
+14.252	last, endure	surũy
+14.26	end (temporal)	kãsiyada
+14.26	end (temporal)	baryĩhada
+14.27	finish	kãsi
+14.27	finish	parita
+14.27	finish	baryĩ
+14.28	cease, stop	rani
+14.28	cease, stop	ndasani
+14.29	ready	hdutyasara
+14.31	always	sara
+14.31	always	hayãsara
+14.32	often	hapiči
+14.33	sometimes	tarade
+14.331	soon	warenu
+14.331	soon	waɲuma
+14.332	long-time (for a)	tãripyu
+14.34	never	netaramũy
+14.35	again	nti
+14.41	day	hnda
+14.41	day	hũda
+14.41	day	runda
+14.42	night	nupora
+14.43	dawn	rãsačara
+14.44	morning	tãrimyusi
+14.45	noon, midday	wasenumanĩhiɲi
+14.451	afternoon	hidye
+14.46	evening	rĩɲupuy
+14.47	today	diwye
+14.47	today	diyerunda
+14.47	today	hasi
+14.48	tomorrow	tãrimyusi
+14.481	day-after-tomorrow	rurundamu
+14.49	yesterday	hay
+14.491	day-before-yesterday	rurundamu
+14.53	clock, timepiece	hũdasarantã
+14.62	Sunday	runda
+14.63	Monday	hwayadahõtadarunda
+14.71	month	harimyunĩ
+14.73	year	nihyã
+14.73	year	wata
+14.74	winter	nihyã
+14.76	summer	windya
+14.78	season	runda
+14.78	season	hũda
+15.21	smell (vb intrans)	nari
+15.212	sniff	nari
+15.22	smell (vb trans)	hiri
+15.22	smell (vb trans)	hũsi
+15.25	fragrant, good smelling	hũru
+15.26	stinking, bad smelling	hũtiryapo
+15.26	stinking, bad smelling	puryapo
+15.31	taste	hantya
+15.35	sweet	sabo
+15.36	salty	tiwyihyũ
+15.37	bitter	hiwya
+15.38	acid, sour	hnda
+15.38	acid, sour	huda
+15.41	hear	tuwãču
+15.42	listen	tuwãču
+15.44	sound, noise	hansãda
+15.44	sound, noise	surya
+15.46	quiet, silence	wapu
+15.46	quiet, silence	ndasa
+15.51	see	di
+15.51	see	hũnũy
+15.52	look, look at	hũnũy
+15.52	look, look at	hũnũču
+15.55	show	dityanu
+15.56	shine	danũ
+15.56	shine	nũya
+15.56	shine	widay
+15.57	bright	wanda
+15.61	color	nũčara
+15.62	light (in color)	po
+15.63	dark (in color)	di
+15.64	white	haparu
+15.64	white	pupa
+15.64	white	waparu
+15.65	black	wadaku
+15.65	black	wanuku
+15.66	red	runay
+15.66	red	warada
+15.67	blue	sunũ
+15.67	blue	wasunũ
+15.68	green	hatya
+15.68	green	wasunũ
+15.69	yellow	wasunũdi
+15.71	touch	hãtya
+15.71	touch	hwayi
+15.712	pinch	tamuri
+15.712	pinch	tamuričuy
+15.72	feel	hiriyã
+15.74	hard	kuway
+15.74	hard	sura
+15.74	hard	hakuway
+15.75	soft	sipudi
+15.75	soft	wanadi
+15.75	soft	wasada
+15.76	rough	wariwyunu
+15.77	smooth	wasidya
+15.78	sharp	mõtara
+15.78	sharp	himyura
+15.79	blunt, dull	nemõtara
+15.79	blunt, dull	mõtadi
+15.79	blunt, dull	nehmyunusara
+15.81	heavy	saransara
+15.81	heavy	hinrawadačũ
+15.82	light (in weight)	mityadačũ
+15.83	wet, damp	paroni
+15.83	wet, damp	paruy
+15.83	wet, damp	pupo
+15.84	dry	pũy
+15.84	dry	sisã
+15.84	dry	ridye
+15.85	hot	wanuki
+15.851	warm	wanõ
+15.86	cold	kanuwũ
+15.86	cold	sudo
+15.87	clean	tuse
+15.87	clean	susã
+15.87	clean	pũy
+15.88	dirty, soiled	kansi
+15.88	dirty, soiled	mĩ
+15.89	wrinkled	riɲihyuwačara
+16.11	soul, spirit	bayantu
+16.11	soul, spirit	bayanuhnutu
+16.15	surprised, astonished	tĩta
+16.18	good fortune, luck	mũtye
+16.19	misfortune, bad luck	hũwatadoda
+16.23	joyful, glad, happy	nĩra
+16.23	joyful, glad, happy	hčanãɲu
+16.25	laugh	todi
+16.251	smile	todi
+16.26	play	tĩsa
+16.26	play	tiyĩsa
+16.27	love	wãta
+16.27	love	wãtãda
+16.29	kiss	siɲu
+16.3	embrace	mari
+16.31	pain	nuwada
+16.31	pain	hũnura
+16.31	pain	nuwayada
+16.32	grief, sorrow, sadness	nuwayada
+16.32	grief, sorrow, sadness	yiweda
+16.32	grief, sorrow, sadness	nuwatyãda
+16.33	anxiety, worry	nuwayada
+16.33	anxiety, worry	haryihačipiyahada
+16.34	regret, be sorry	parũy
+16.34	regret, be sorry	yiwatya
+16.35	pity	hantyutyãda
+16.37	cry, weep	hnãy
+16.37	cry, weep	hũnãy
+16.38	tear (noun)	nĩsihyã
+16.39	groan	hũnãy
+16.39	groan	tiɲã
+16.41	hate	hawatya
+16.41	hate	mirye
+16.42	anger	miryãda
+16.42	anger	nikyẽyada
+16.44	envy, jealousy	rãtyãda
+16.45	shame (noun)	hanãda
+16.48	proud	nunuwãɲu
+16.51	dare	hantya
+16.52	brave	suwũyasã
+16.53	fear, fright	suwũyada
+16.53	fear, fright	hnuteda
+16.54	danger	suwũčara
+16.62	desire, want	nĩrũyada
+16.62	desire, want	wãtãda
+16.622	choose	haryeta
+16.63	hope	nutuyada
+16.65	faithful	sityera
+16.65	faithful	sĩtenu
+16.66	true	sĩtenu
+16.67	lie, tell lies	kiwũy
+16.67	lie, tell lies	kiwũyada
+16.68	deceit	kiwũčara
+16.68	deceit	kiwũyada
+16.69	forgive	ramimitya
+16.69	forgive	hantyuy
+16.71	good	samĩ
+16.71	good	wase
+16.71	good	sami
+16.72	bad	nikyarãy
+16.72	bad	nesami
+16.73	right, correct	wase
+16.74	wrong	newase
+16.74	wrong	karačara
+16.76	fault	hiyasačara
+16.77	mistake, error	karayada
+16.78	blame	hiyasay
+16.78	blame	yasay
+16.78	blame	bayã
+16.79	praise	hĩčanãtya
+16.81	beautiful	sami
+16.81	beautiful	samuy
+16.82	ugly	nikyarãy
+16.83	greedy	hũbarya
+16.84	clever	wanĩra
+17.11	mind	hačipiyãhada
+17.13	think (= reflect)	hačipiyãhada
+17.13	think (= reflect)	hũtay
+17.14	think (= be of the opinion)	hta
+17.14	think (= be of the opinion)	nta
+17.14	think (= be of the opinion)	ta
+17.15	believe	datya
+17.15	believe	hũtay
+17.15	believe	tuwãču
+17.16	understand	datya
+17.17	know	datya
+17.171	guess	hũtay
+17.172	imitate	hantya
+17.172	imitate	hičanu
+17.18	seem	nĩča
+17.18	seem	nta
+17.19	idea, notion	hačipiyãhada
+17.21	wise	datyara
+17.22	foolish, stupid	datyĩsã
+17.23	insane, crazy	kawiyanĩ
+17.23	insane, crazy	hatačara
+17.24	learn	sadatya
+17.24	learn	niyũy
+17.24	learn	sara
+17.242	study	datya
+17.25	teach	datyanu
+17.26	pupil	sisãdatyĩ
+17.27	teacher	datyanũ
+17.28	school	kateranũhyo
+17.31	remember	hačipitya
+17.32	forget	hačipu
+17.34	clear, plain	wada
+17.35	obscure	hrurya
+17.36	secret	dutyasara
+17.37	sure, certain	sĩtenu
+17.38	explain	datyanu
+17.38	explain	dityanu
+17.41	intention, purpose	hačipiyãhada
+17.42	cause	tani
+17.42	cause	su
+17.42	cause	niy
+17.42	cause	nu
+17.44	suspect	hũtay
+17.441	betray	mityasi
+17.45	need, necessity	nĩrũy
+17.45	need, necessity	sũtye
+17.45	need, necessity	wãta
+17.46	easy	nehwadatyĩsara
+17.47	difficult	hwadatyĩsara
+17.48	try, attempt	hantya
+17.49	way, manner	wičaničara
+17.51	and	harye
+17.51	and	nti
+17.52	because	daryahũ
+17.52	because	tapi
+17.53	if	ti
+17.54	or	warimyata
+17.55	yes, affirmative	honu
+17.55	yes, affirmative	sĩtenu
+17.55	yes, affirmative	ho
+17.56	no, negative	ne
+17.56	no, negative	witya
+17.56	no, negative	rãy
+17.56	no, negative	hnãy
+17.61	how?	nũtyuramusi
+17.62	how many?	nurĩ
+17.62	how many?	naryara
+17.62	how many?	nuryara
+17.63	how much?	nurirya
+17.64	what?	nũtyara
+17.64	what?	tã
+17.65	when?	nũtyeriwye
+17.66	where?	te
+17.66	where?	nũti
+17.67	which?	mi
+17.67	which?	mĩ
+17.68	who?	čĩ
+17.69	why?	nũtyara
+17.69	why?	tãriwa
+18.11	voice	nikyehada
+18.12	sing	murãy
+18.13	shout, cry out	sãɲẽyã
+18.13	shout, cry out	hũbuy
+18.15	whisper	kukutya
+18.15	whisper	kutya
+18.16	mumble	kukuyẽ
+18.17	whistle	sičarãy
+18.18	shriek, screech	sãɲẽyãhada
+18.19	howl	hũbuy
+18.21	speak, talk	nikyetta
+18.21	speak, talk	nikye
+18.211	stutter, stammer	yisanu
+18.22	say	htay
+18.221	tell story	tũču
+18.222	speech (make a)	nikye
+18.23	silent (be)	ndasa
+18.24	language	nikyehada
+18.26	word	nikyehada
+18.28	name	hĩtya
+18.31	ask (question, inquire)	hitahãnu
+18.32	answer	hmotyõ
+18.32	answer	hmutyã
+18.33	admit, confess	tũču
+18.34	deny	rãy
+18.34	deny	rayada
+18.35	ask, request	hačiɲũy
+18.36	promise	hũtay
+18.36	promise	sĩtenu
+18.37	refuse	hũbay
+18.38	forbid	hũbay
+18.39	rebuke, scold	nikyẽtya
+18.41	call (=summon)	natuy
+18.41	call (=summon)	nikyeta
+18.42	call (=name)	hũtay
+18.43	announce	tũču
+18.44	threaten	hiyarõnu
+18.45	boast	nunuwãy
+18.45	boast	nuwãy
+18.45	boast	hnunuwãy
+18.51	write	nũy
+18.52	read	hũnũy
+18.52	read	tũčunu
+18.56	paper	wĩ
+18.56	paper	katerawĩ
+18.57	pen	kateranũtyã
+18.61	book	katerapadye
+18.71	flute	dudu
+18.71	flute	rudidyu
+18.72	drum	ričĩnu
+18.73	horn, trumpet	natutyã
+18.74	rattle	susãtu
+19.11	country	mukadi
+19.12	one's native country	ramyukadi
+19.15	city, town	hãmuwičãda
+19.16	village	wičãda
+19.16	village	roriwyiɲu
+19.21	people (populace)	nihyãmĩ
+19.21	people (populace)	nihyãnway
+19.23	tribe, clan	hũrirya
+19.25	staff, walking stick	ruwese
+19.31	rule, govern	nsũy
+19.31	rule, govern	nusũy
+19.32	king, ruler	nusũɲu
+19.32	king, ruler	hãmunutityũ
+19.33	queen	hãmunutityoda
+19.37	citizen, subject	hãmĩ
+19.37	citizen, subject	tenu
+19.37	citizen, subject	tenuwičĩ
+19.41	master	hãmĩ
+19.41	master	nutityũ
+19.42	slave	kumude
+19.45	command, order	hũteda
+19.45	command, order	nusũyada
+19.46	obey	tuwãču
+19.46	obey	sitye
+19.47	let, permit	parũy
+19.51	friend, companion	datyĩ
+19.51	friend, companion	sisãwičĩ
+19.52	enemy	mityasi
+19.52	enemy	mutyasi
+19.54	neighbor	tunuwičĩ
+19.55	stranger	mãy
+19.56	guest	haɲũɲu
+19.57	host	rorihyãmĩ
+19.58	help, aid	hmũtya
+19.58	help, aid	hũmũtya
+19.59	hinder, prevent	tuta
+19.61	custom	wičeničãda
+19.62	strife, quarrel	nikyẽyada
+19.63	conspiracy, plot	hãsuyada
+19.65	meet	sarye
+19.72	prostitute	kadnatu
+20.11	fight (vb)	hũway
+20.11	fight (vb)	tapũy
+20.13	war, battle	hũweda
+20.14	peace	samiryawičãda
+20.17	soldier	hũwĩ
+20.17	soldier	tapũɲu
+20.21	weapons, arms	hũwatyã
+20.22	club	hũmũy
+20.222	battle-ax	hũmũy
+20.24	bow	kãnũ
+20.25	arrow	hačityã
+20.25	arrow	ruwe
+20.25	arrow	ruwero
+20.26	spear	hĩčityityã
+20.26	spear	ro
+20.27	sword	hičtityã
+20.28	gun, cannon	dudasi
+20.28	gun, cannon	dunu
+20.33	helmet	tunuwũ
+20.34	shield	ramityahay
+20.35	fortress	wanũtyaho
+20.36	tower	roriwyũki
+20.41	victory	yada
+20.42	defeat	wudoda
+20.43	attack	sirĩhada
+20.44	defend	rãy
+20.45	retreat	sitye
+20.45	retreat	hintye
+20.46	surrender	saboničãda
+20.47	captive, prisoner	tanuwũnusĩ
+20.471	guard, sentinel	nikyẽryahnũtyĩ
+20.48	booty, spoils	hwadi
+20.48	booty, spoils	sõwačara
+20.49	ambush	nĩnũyada
+20.51	fisherman	rikyanu
+20.52	fishhook	toya
+20.53	fishing line	toyahũ
+20.54	fishnet	rikya
+20.54	fishnet	hãmurikya
+20.56	bait	puryũtyã
+20.56	bait	piryũtyã
+20.61	hunt	dapuy
+20.61	hunt	du
+20.62	shoot	du
+20.63	miss (target)	rupã
+20.64	trap (noun)	tãnũ
+20.65	trap (vb)	tamũy
+21.11	law	nikyehada
+21.16	judge (vb)	dityanuhiyasaɲu
+21.18	judge (noun)	kadnadu
+21.21	plaintiff	tũčutĩ
+21.22	defendant	tũčutasĩ
+21.23	witness	tučutĩ
+21.31	accuse	tučuta
+21.35	guilty	hiyasaɲu
+21.37	penalty, punishment	muričedoda
+21.38	fine	wãčahwayadamuričirya
+21.39	prison, jail	nupokurori
+21.42	murder	hũweda
+21.43	adultery	rupi
+21.43	adultery	rupiyadatĩwaturũsã
+21.47	perjury	kiwũyada
+21.51	steal	paranu
+21.52	thief	paranunĩ

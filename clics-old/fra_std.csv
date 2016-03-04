@@ -1,0 +1,1616 @@
+@classification: Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Rhaetian,Oïl,French
+@ids-name: French_StandardOrth
+@iso: fra
+@language: French
+@size: 1609
+@source: ids
+@variety: std
+1.1	world	monde
+1.21	earth, land	terre
+1.212	earth=ground, soil	terre
+1.212	earth=ground, soil	sol
+1.213	dust	poussière
+1.214	mud	boue
+1.215	sand	sable
+1.22	mountain, hill	montagne
+1.22	mountain, hill	colline
+1.222	cliff, precipice	falaise
+1.222	cliff, precipice	escarpement
+1.23	plain, field	plaine
+1.23	plain, field	campagne
+1.24	valley	vallée
+1.25	island	île
+1.26	mainland	continent
+1.27	shore	rivage
+1.27	shore	côte
+1.27	shore	littoral
+1.28	cave	grotte
+1.31	water	eau
+1.32	sea	mer
+1.322	calm (of sea)	étale
+1.323	rough (of sea)	trouble
+1.323	rough (of sea)	agité
+1.324	foam	écume
+1.324	foam	mousse
+1.329	ocean	océan
+1.33	lake	lac
+1.34	gulf, bay	golfe
+1.34	gulf, bay	baie
+1.341	lagoon	lagune
+1.342	reef	récif
+1.343	headland, point	promontoire
+1.343	headland, point	pointe
+1.35	wave	vague
+1.352	tide	marée
+1.353	lowtide	maréebasse
+1.354	hightide	maréehaute
+1.36	river, stream, brook	fleuve
+1.36	river, stream, brook	rivière
+1.36	river, stream, brook	ruisseau
+1.362	whirlpool	tourbillon
+1.37	spring, well	source
+1.37	spring, well	puits
+1.38	swamp	marais
+1.38	swamp	marécage
+1.39	waterfall	chuted'eau
+1.39	waterfall	cascade
+1.41	woods, forest	bois
+1.41	woods, forest	forêt
+1.42	tree (cf 08.600)	arbre
+1.43	wood	bois
+1.44	stone, rock	pierre
+1.44	stone, rock	roc
+1.44	stone, rock	rocher
+1.45	earthquake	tremblementdeterre
+1.45	earthquake	séisme
+1.51	sky	ciel
+1.52	sun	soleil
+1.53	moon	lune
+1.54	star	étoile
+1.55	lightning	éclair
+1.56	thunder	tonnerre
+1.57	lightning (as striking)	foudre
+1.58	storm	orage
+1.58	storm	tempête
+1.59	rainbow	arcenciel
+1.61	light (noun)	lumière
+1.62	darkness	obscurité
+1.62	darkness	ténèbres
+1.63	shade, shadow	ombre
+1.64	dew	rosée
+1.71	air	air
+1.72	wind	vent
+1.73	cloud	nuage
+1.74	fog	brume
+1.74	fog	brouillard
+1.75	rain (noun)	pluie
+1.76	snow (noun)	neige
+1.77	ice	glace
+1.77	ice	verglas
+1.78	weather	temps
+1.81	fire	feu
+1.82	flame (noun)	flamme
+1.83	smoke (noun)	fumée
+1.84	ashes	cendres
+1.841	embers	braise
+1.851	burn (vb trans)	brûler
+1.851	burn (vb trans)	sebrûler
+1.852	burn (vb intrans)	brûler
+1.86	light, kindle, ignite	allumer
+1.86	light, kindle, ignite	enflammer
+1.861	extinguish	éteindre
+1.87	match (noun)	allumette
+1.88	firewood	boisdechauffage
+1.88	firewood	bûches
+1.89	charcoal	charbondebois
+2.1	person, human being	personne
+2.1	person, human being	êtrehumain
+2.21	man (vs. woman)	homme
+2.22	woman	femme
+2.23	male	mâle
+2.24	female	femelle
+2.25	boy	garçon
+2.251	young man (adolescent)	jeunehomme
+2.26	girl	fille
+2.261	young woman (adolescent)	jeunefille
+2.27	child	enfant
+2.28	infant, baby	enfant
+2.28	infant, baby	bébé
+2.31	husband	mari
+2.31	husband	époux
+2.32	wife	femme
+2.32	wife	épouse
+2.33	marry	semarier
+2.33	marry	épouser
+2.34	marriage, wedding	mariage
+2.34	marriage, wedding	noces
+2.341	divorce	divorce
+2.35	father	père
+2.36	mother	mère
+2.37	parents	parents
+2.38	married man	hommemarié
+2.39	married woman	femmemariée
+2.41	son	fils
+2.42	daughter	fille
+2.43	offspring (son or daughter)	enfant
+2.44	brother	frère
+2.444	older brother	frêreaîné
+2.445	younger brother	frèrecadet
+2.45	sister	soeur
+2.454	older sister	soeurainée
+2.455	younger sister	soeurcadette
+2.456	sibling	frère
+2.456	sibling	soeur
+2.458	twins	jumeaux
+2.46	grandfather	grandpère
+2.461	old man	vieillard
+2.47	grandmother	grandmère
+2.471	old woman	vieillefemme
+2.48	grandson	petitfils
+2.49	granddaughter	petitefille
+2.51	uncle	oncle
+2.511	mother's brother	frèredelamère
+2.512	father's brother	frèredupère
+2.52	aunt	tante
+2.521	mother's sister	soeurdelamère
+2.522	father's sister	soeurdupère
+2.53	nephew	neveu
+2.54	niece	nièce
+2.55	cousin	cousin
+2.55	cousin	cousine
+2.56	ancestors	ancêtres
+2.56	ancestors	aïeux
+2.57	descendants	descendants
+2.61	father-in-law (of a man)	beaupère
+2.611	father-in-law (of a woman)	beaupère
+2.62	mother-in-law (of a man)	bellemère
+2.621	mother-in-law (of a woman)	bellemère
+2.63	son-in-law (of a man)	gendre
+2.631	son-in-law (of a woman)	gendre
+2.64	daughter-in-law (of a man)	bru
+2.64	daughter-in-law (of a man)	bellefille
+2.641	daughter-in-law (of a woman)	bru
+2.641	daughter-in-law (of a woman)	bellefille
+2.71	stepfather	beaupère
+2.72	stepmother	bellemère
+2.73	stepson	beaufils
+2.74	stepdaughter	bellefille
+2.75	orphan	orphelin
+2.75	orphan	orpheline
+2.76	widow	veuve
+2.77	widower	veuf
+2.81	relatives, kinsmen	parents
+2.82	family	famille
+2.91	I	je
+2.91	I	moi
+2.92	you (singular)	tu
+2.92	you (singular)	vous
+2.93	he/she/it	il
+2.93	he/she/it	elle
+2.93	he/she/it	il
+2.94	we	nous
+2.941	we (inclusive)	nous
+2.942	we (exclusive)	nous
+2.95	you (plural)	vous
+2.96	they	eux
+2.96	they	elles
+3.11	animal	animal
+3.11	animal	bête
+3.12	male (adj)	mâle
+3.13	female (adj)	femelle
+3.15	livestock	bétail
+3.16	pasture	pâturage
+3.16	pasture	pâture
+3.18	herdsman	bouvier
+3.18	herdsman	berger
+3.18	herdsman	pâtre
+3.19	stable, stall	étable
+3.19	stable, stall	écurie
+3.2	cattle (bovine)	bétail
+3.21	bull	taureau
+3.22	ox	boeuf
+3.23	cow	vache
+3.24	calf	veau
+3.25	sheep	mouton
+3.26	ram	bélier
+3.28	ewe	brebis
+3.29	lamb	agneau
+3.32	boar	sanglier
+3.34	sow	truie
+3.35	pig	porc
+3.35	pig	cochon
+3.36	goat	chèvre
+3.37	he-goat	bouc
+3.38	kid	chevreau
+3.41	horse (equine)	cheval
+3.42	stallion	étalon
+3.44	mare	jument
+3.45	foal, colt	poulain
+3.46	ass, donkey	âne
+3.47	mule	mulet
+3.5	fowl	volaille
+3.52	cock, rooster	coq
+3.54	hen	poule
+3.55	chicken	poulet
+3.56	goose	oie
+3.57	duck	canard
+3.58	nest	nid
+3.581	bird	oiseau
+3.582	seagull	mouette
+3.583	heron	héron
+3.584	eagle	aigle
+3.585	hawk	faucon
+3.586	vulture	vautour
+3.591	bat	chauvesouris
+3.592	parrot	perroquet
+3.593	crow	corbeau
+3.594	dove	colombe
+3.596	owl	hibou
+3.61	dog	chien
+3.614	rabbit	lapin
+3.62	cat	chat
+3.622	opossum	opossum
+3.63	mouse, rat	souris
+3.63	mouse, rat	rat
+3.65	fish	poisson
+3.652	fin (dorsal)	nageoire
+3.653	fishscale	écaille
+3.654	gill	ouïes
+3.655	shell	coquille
+3.655	shell	coquillage
+3.661	shark	requin
+3.662	porpoise, dolphin	marsouin
+3.662	porpoise, dolphin	dauphin
+3.663	whale	baleine
+3.664	stingray	raie
+3.664	stingray	pastenague
+3.665	freshwater eel	anguilled'eaudouce
+3.71	wolf	loup
+3.72	lion	lion
+3.73	bear	ours
+3.74	fox	renard
+3.75	deer	daim
+3.75	deer	cerf
+3.75	deer	chevreuil
+3.76	monkey	singe
+3.77	elephant	éléphant
+3.78	camel	chameau
+3.81	insect	insecte
+3.811	louse	pou
+3.812	nit (louse egg)	lente
+3.813	flea	puce
+3.814	centipede	millepattes
+3.815	scorpion	scorpion
+3.816	cockroach	cafard
+3.816	cockroach	cancrelat
+3.817	ant	fourmi
+3.818	spider	araignée
+3.819	spider web	toiled'araignée
+3.82	bee	abeille
+3.821	beeswax	cire
+3.822	beehive	ruche
+3.823	wasp	guêpe
+3.83	fly	mouche
+3.831	sandfly (midge), gnat	moustique
+3.831	sandfly (midge), gnat	moucheron
+3.832	mosquito	moustique
+3.84	worm	verdeterre
+3.85	snake	serpent
+3.85	snake	couleuvre
+3.91	firefly	verluisant
+3.91	firefly	luciole
+3.92	butterfly	papillon
+3.93	grasshopper	sauterelle
+3.94	snail	escargot
+3.95	frog	grenouille
+3.96	lizard	lézard
+3.97	crocodile, alligator	crocodile
+3.98	turtle	tortue
+4.11	body	corps
+4.12	skin, hide	peau
+4.13	flesh	chair
+4.14	hair (head)	cheveu
+4.142	beard	barbe
+4.144	body hair	poil
+4.145	pubic hair	poilpubien
+4.146	dandruff	pellicule
+4.15	blood	sang
+4.151	vein, artery	veine
+4.151	vein, artery	artère
+4.16	bone	os
+4.162	rib	côte
+4.17	horn	corne
+4.18	tail	queue
+4.19	back	dos
+4.191	spine	épinedorsale
+4.191	spine	colonnevertébrale
+4.2	head	tête
+4.201	side of head, temple	tempe
+4.202	skull	crâne
+4.203	brain	cerveau
+4.204	face	visage
+4.205	forehead	front
+4.207	jaw	machoire
+4.208	cheek	joue
+4.209	chin	menton
+4.21	eye	oeil
+4.212	eyebrow	sourcil
+4.213	eyelid	paupière
+4.214	eyelash	cil
+4.215	blink	cligner
+4.22	ear	oreille
+4.221	earlobe	lobedel'oreille
+4.222	earwax	cèrumen
+4.222	earwax	cire
+4.23	nose	nez
+4.231	nostril	narine
+4.232	mucus (nasal)	morve
+4.232	mucus (nasal)	mucus
+4.24	mouth	bouche
+4.241	beak	bec
+4.25	lip	lèvre
+4.26	tongue	langue
+4.27	tooth	dent
+4.271	gums	gencives
+4.272	molartooth	molaire
+4.28	neck	cou
+4.281	nape of neck	nuque
+4.29	throat	gorge
+4.3	shoulder	épaule
+4.301	shoulderblade	omoplate
+4.302	collarbone	clavicule
+4.31	arm	bras
+4.312	armpit	aisselle
+4.32	elbow	coude
+4.321	wrist	poignet
+4.33	hand	main
+4.331	palm of hand	paume
+4.34	finger	doigt
+4.342	thumb	pouce
+4.344	fingernail	ongle
+4.345	claw	griffe
+4.35	leg	jambe
+4.351	thigh	cuisse
+4.352	calf of leg	mollet
+4.36	knee	genou
+4.37	foot	pied
+4.371	ankle	cheville
+4.372	heel	talon
+4.374	footprint	empreintedupied
+4.38	toe	orteil
+4.38	toe	doigtdepied
+4.392	wing	aile
+4.393	feather	plume
+4.4	chest	poitrine
+4.41	breast (of woman)	sein
+4.41	breast (of woman)	poitrine
+4.412	nipple, teat	mamelon
+4.412	nipple, teat	téton
+4.42	udder	pis
+4.42	udder	mamelle
+4.43	navel	nombril
+4.44	heart	coeur
+4.441	lung	poumon
+4.45	liver	foie
+4.451	kidney	rein
+4.452	spleen	rate
+4.46	stomach	estomac
+4.46	stomach	ventre
+4.461	intestines, guts	intestins
+4.461	intestines, guts	boyaux
+4.462	waist	taille
+4.463	hip	hanche
+4.464	buttocks	fesses
+4.464	buttocks	derrière
+4.47	womb	matrice
+4.47	womb	utérus
+4.49	testicle	testicule
+4.492	penis	pénis
+4.51	breathe, breath	respirer
+4.51	breathe, breath	haleine
+4.52	yawn, gape	bailler
+4.521	hiccough	hoqueter
+4.53	cough	tousser
+4.54	sneeze	éternuer
+4.55	perspire	transpirer
+4.55	perspire	suer
+4.56	spit	cracher
+4.57	vomit	vomir
+4.58	bite	mordre
+4.59	lick	lécher
+4.591	dribble	baver
+4.61	sleep	dormir
+4.612	snore	ronfler
+4.62	dream	rêver
+4.63	wake up	seréveiller
+4.63	wake up	s'eveiller
+4.64	break wind	péter
+4.64	break wind	pedo
+4.65	urinate	uriner
+4.66	defecate	déféquer
+4.67	have sexual intercourse	fairel'amour
+4.68	shiver	frissonner
+4.69	bathe	sebaigner
+4.71	beget (of father)	engendrer
+4.72	born (to be)	né
+4.72	born (to be)	naître
+4.73	pregnant	enceinte
+4.732	conceive	concevoir
+4.74	live, living, life	vivre
+4.74	live, living, life	vivant
+4.74	live, living, life	vie
+4.75	die, dead	mourir
+4.75	die, dead	mort
+4.751	drowned	noyé
+4.76	kill	tuer
+4.77	corpse	cadavre
+4.78	bury (the dead)	enterrer
+4.79	grave, tomb	tombe
+4.79	grave, tomb	tombeau
+4.81	strong, mighty, powerful	fort
+4.81	strong, mighty, powerful	puissant
+4.82	weak	faible
+4.83	well, health	santé
+4.83	well, health	enbonnesanté
+4.84	sick, sickness	malade
+4.84	sick, sickness	maladie
+4.841	fever	fièvre
+4.842	goiter	goître
+4.843	cold (catarrh)	rhume
+4.85	wound, sore	blessure
+4.85	wound, sore	plaie
+4.852	bruise	contusion
+4.852	bruise	bleu
+4.853	swelling	bosse
+4.853	swelling	enflure
+4.854	itch	démangeaison
+4.855	blister	ampoule
+4.856	boil (noun)	furoncle
+4.857	pus	pus
+4.858	scar	cicatrice
+4.86	cure, heal	guérir
+4.87	physician	médecin
+4.88	medicine, drug	remède
+4.88	medicine, drug	médecine
+4.89	poison	poison
+4.91	tired, weary	fatigué
+4.912	rest	sereposer
+4.92	lazy	paresseux
+4.93	bald	chauve
+4.94	lame	boiteux
+4.95	deaf	sourd
+4.96	mute	muet
+4.97	blind	aveugle
+4.98	intoxicated	ivre
+4.99	naked, bare	nu
+5.11	eat	manger
+5.12	food	nourriture
+5.121	cooked	cuit
+5.122	raw	cru
+5.123	ripe	mûr
+5.124	green, unripe	vert
+5.125	rotten	pourri
+5.13	drink	boire
+5.14	hunger	faim
+5.141	famine	famine
+5.141	famine	disette
+5.15	thirst	soif
+5.16	suck	sucer
+5.18	chew	mastiquer
+5.18	chew	macher
+5.181	swallow	avaler
+5.19	choke	étouffer
+5.21	cook	cuire
+5.22	boil (vb)	bouillir
+5.23	roast, fry	rôtir
+5.23	roast, fry	frire
+5.24	bake	cuireaufour
+5.25	oven	four
+5.26	pot, cooking vessel	casserole
+5.26	pot, cooking vessel	marmite
+5.27	kettle	bouilloire
+5.28	pan	casserole
+5.31	dish	plat
+5.32	plate	assiette
+5.33	bowl	bol
+5.34	pitcher, jug	cruche
+5.34	pitcher, jug	broc
+5.35	cup, drinking vessel	tasse
+5.35	cup, drinking vessel	coupe
+5.36	saucer	soucoupe
+5.37	spoon	cuiller
+5.38	knife	couteau
+5.39	fork	fourchette
+5.391	tongs	pinces
+5.41	meal (a)	repas
+5.42	breakfast	petitdéjeuner
+5.43	lunch	déjeuner
+5.43	lunch	repasdemidi
+5.44	dinner	dîner
+5.45	supper	souper
+5.45	supper	repasdusoir
+5.46	peel	peler
+5.46	peel	éplucher
+5.47	sieve, strain	passer
+5.48	scrape	gratter
+5.48	scrape	râper
+5.49	stir, mix	mêler
+5.49	stir, mix	mélanger
+5.51	bread	pain
+5.53	dough	pâte
+5.54	knead	pétrir
+5.55	meal, flour	farine
+5.56	crush, grind	écraser
+5.56	crush, grind	broyer
+5.57	mill	moulin
+5.58	mortar	mortier
+5.59	pestle	pilon
+5.61	meat	viande
+5.63	sausage	saucisse
+5.64	soup, broth	soupe
+5.64	soup, broth	potage
+5.65	vegetables	légumes
+5.66	bean	haba
+5.66	bean	haricot
+5.7	potato	pommedeterre
+5.71	fruit	fruit
+5.712	bunch	botte
+5.75	fig	figue
+5.76	grape	raisin
+5.77	nut	noix
+5.78	olive	olive
+5.79	oil	huile
+5.791	grease, fat	graisse
+5.791	grease, fat	legras
+5.81	salt	sel
+5.82	pepper	poivre
+5.821	chili pepper	piment
+5.84	honey	miel
+5.85	sugar	sucre
+5.86	milk (noun)	lait
+5.87	milk (vb)	traire
+5.88	cheese	fromage
+5.89	butter	beurre
+5.9	beverage, drink	boisson
+5.91	mead	hydromel
+5.92	wine	vin
+5.93	beer	bière
+5.94	fermented drink	boissonfermentée
+5.97	egg	oeuf
+5.971	egg yolk	jauned'oeuf
+6.11	put on (clothes)	porter
+6.11	put on (clothes)	mettre
+6.12	clothing, clothes	habit
+6.12	clothing, clothes	vêtement
+6.13	tailor	tailleur
+6.21	cloth	étoffe
+6.21	cloth	tissu
+6.22	wool	laine
+6.23	linen, flax	lin
+6.24	cotton	coton
+6.25	silk	soie
+6.27	felt	feutre
+6.28	fur	fourrure
+6.29	leather	cuir
+6.31	spin	filer
+6.32	spindle	fuseau
+6.33	weave	tisser
+6.34	loom	métieràtisser
+6.35	sew	coudre
+6.36	needle	aiguille
+6.37	awl	alène
+6.38	thread	fil
+6.39	dye	teindre
+6.41	cloak	cape
+6.411	poncho	poncho
+6.42	woman's dress	robedefemme
+6.43	coat	manteau
+6.43	coat	pardessus
+6.44	shirt	chemise
+6.45	collar	col
+6.46	skirt	jupe
+6.461	grass-skirt	jupeenrafia
+6.48	trousers	pantalon
+6.49	stocking, sock	bas
+6.49	stocking, sock	chaussette
+6.51	shoe	chaussure
+6.51	shoe	soulier
+6.52	boot	botte
+6.54	shoemaker, cobbler	cordonnier
+6.55	hat, cap	chapeau
+6.55	hat, cap	casquette
+6.57	belt, girdle	ceinture
+6.57	belt, girdle	gaine
+6.58	glove	gant
+6.59	veil	voile
+6.61	pocket	poche
+6.62	button	bouton
+6.63	pin	épingle
+6.71	ornament, adornment	ornement
+6.72	jewel	bijou
+6.72	jewel	joyau
+6.73	ring (for finger)	bague
+6.73	ring (for finger)	anneau
+6.74	bracelet	bracelet
+6.75	necklace	collier
+6.76	bead	graine
+6.77	earring	boucled'oreille
+6.78	headband, headdress	couronne
+6.78	headband, headdress	bandeau
+6.79	tattoo	tatouage
+6.81	handkerchief, rag	mouchoir
+6.81	handkerchief, rag	chiffon
+6.82	towel	serviette
+6.91	comb	peigne
+6.92	brush	brosse
+6.921	braid	tresser
+6.93	razor	rasoir
+6.94	ointment	pommade
+6.94	ointment	onguent
+6.95	soap	savon
+6.96	mirror	miroir
+6.96	mirror	glace
+7.11	dwell, live	habiter
+7.11	dwell, live	demeurer
+7.12	house	maison
+7.13	hut	hutte
+7.131	garden-house	abridejardin
+7.131	garden-house	cabane
+7.14	tent	tente
+7.15	yard, court	cour
+7.16	men's house	maisonréservéeauxhommes
+7.17	cookhouse	cuisine
+7.18	meeting house	maisonderéunion
+7.21	room	piéce
+7.22	door, gate	porte
+7.221	doorpost, jamb	pieddroit
+7.221	doorpost, jamb	montantdeporte
+7.23	lock (noun)	serrure
+7.23	lock (noun)	cadenas
+7.231	latch, door-bolt	verrou
+7.24	key	clef
+7.25	window	fenêtre
+7.26	floor	plancher
+7.26	floor	sol
+7.27	wall	mur
+7.31	fireplace	foyer
+7.32	stove	poêle
+7.33	chimney	cheminée
+7.37	ladder	échelle
+7.42	bed	lit
+7.421	pillow	oreiller
+7.422	blanket	couverture
+7.43	chair	chaise
+7.43	chair	siège
+7.44	table	table
+7.45	lamp, torch	lampe
+7.46	candle	bougie
+7.46	candle	cierge
+7.46	candle	chandelle
+7.47	shelf	étagère
+7.48	trough	auge
+7.48	trough	abreuvoir
+7.51	roof	toit
+7.52	thatch	toituredechaume
+7.53	ridgepole	poutredefaîte
+7.54	rafter	poutre
+7.54	rafter	chevron
+7.55	beam	poutre
+7.56	post, pole	poteau
+7.56	post, pole	piquet
+7.57	board	planche
+7.58	arch	arche
+7.61	mason	maçon
+7.62	brick	brique
+7.63	mortar	mortier
+7.64	adobe	adobe
+8.11	farmer	fermier
+8.12	field (for cultivation)	champ
+8.13	garden	jardin
+8.15	cultivate, till	cultiver
+8.15	cultivate, till	labourer
+8.16	fence	barrière
+8.17	ditch	fossé
+8.21	plow	labourer
+8.21	plow	charrue
+8.212	furrow	sillon
+8.22	dig	creuser
+8.22	dig	piocher
+8.23	spade	bêche
+8.24	shovel	pelle
+8.25	hoe	houe
+8.25	hoe	binette
+8.26	fork	fourche
+8.26	fork	fourchette
+8.27	rake	rateau
+8.31	sow	semer
+8.311	seed	graine
+8.311	seed	semence
+8.32	mow, reap	tondre
+8.32	mow, reap	récolter
+8.33	sickle, scythe	faux
+8.33	sickle, scythe	faucille
+8.34	thresh	battreleblé
+8.35	threshing-floor	aire
+8.41	crop, harvest	moisson
+8.42	grain (barley, oats etc)	grain
+8.42	grain (barley, oats etc)	graine
+8.43	wheat	blé
+8.44	barley	orge
+8.45	rye	seigle
+8.46	oats	avoine
+8.47	maize, corn	maïs
+8.48	rice	riz
+8.51	grass	herbe
+8.52	hay	foin
+8.53	plant (noun)	plante
+8.531	plant (vb)	planter
+8.54	root	racine
+8.55	branch	branche
+8.55	branch	rameau
+8.56	leaf	feuille
+8.57	flower	fleur
+8.6	tree	arbre
+8.61	oak	chêne
+8.62	beech	hêtre
+8.63	birch	bouleau
+8.64	pine	pin
+8.65	fir	sapin
+8.65	fir	conifère
+8.66	acorn	gland
+8.67	vine	vigne
+8.68	tobacco	tabac
+8.69	smoke (tobacco)	fumer
+8.691	pipe	pipe
+8.72	tree stump	souched'arbre
+8.73	tree trunk	troncd'arbre
+8.74	forked branch	branchefourchue
+8.74	forked branch	branchebifurquée
+8.75	bark	écorce
+8.76	sap	sève
+8.81	palm tree	palmier
+8.82	coconut	noixdecoco
+8.83	citrus fruit	citrique
+8.84	banana tree	bananier
+8.85	banyan	banian
+8.91	sweet potato	patatedouce
+8.912	yam	igname
+8.92	tapioca, manioc, cassava	manioc
+8.93	gourd	calebasse
+8.931	pumpkin, squash	courge
+8.931	pumpkin, squash	potiron
+8.931	pumpkin, squash	citrouille
+8.94	bamboo	bambou
+8.941	sugar cane	canneàsucre
+8.96	fish poison (root)	poisonapoisson
+8.96	fish poison (root)	verbascum
+8.97	nettle	ortie
+8.98	mushroom	champignon
+9.11	do, make	faire
+9.12	work	travailler
+9.14	bend	plier
+9.14	bend	courber
+9.15	fold	plier
+9.16	tie, bind	attacher
+9.16	tie, bind	lier
+9.161	untie	détacher
+9.161	untie	délier
+9.18	chain	chaîne
+9.19	rope, cord	corde
+9.192	knot (noun)	noeud
+9.21	strike (hit, beat)	frapper
+9.21	strike (hit, beat)	battre
+9.211	pound with fist	martelerdesespoing
+9.22	cut	couper
+9.221	cut down	abattre
+9.222	chop, hew	tailler
+9.222	chop, hew	couper
+9.223	stab	poignarder
+9.23	knife	couteau
+9.24	scissors, shears	ciseaux
+9.25	ax	hache
+9.251	adze	herminette
+9.26	break	casser
+9.26	break	briser
+9.261	broken	brisé
+9.261	broken	cassé
+9.27	split	fendre
+9.28	tear	déchirer
+9.29	flay, skin	écorcher
+9.31	rub, wipe	frotter
+9.31	rub, wipe	essuyer
+9.32	stretch	étendre
+9.33	pull	tirer
+9.34	spread out	étaler
+9.34	spread out	éparpiller
+9.341	hang up	suspendre
+9.342	press	presser
+9.342	press	appuyer
+9.343	squeeze, wring	presser
+9.35	pour	verser
+9.36	wash	laver
+9.37	sweep	balayer
+9.38	broom	balai
+9.422	tool	outil
+9.43	carpenter	charpentier
+9.44	build	bâtir
+9.44	build	construire
+9.46	bore	percer
+9.46	bore	perforer
+9.461	hollow out	creuser
+9.48	saw	scie
+9.49	hammer	marteau
+9.5	nail	clou
+9.5	nail	pointe
+9.56	glue	colle
+9.6	smith, blacksmith	forgeron
+9.61	forge	forger
+9.62	anvil	enclume
+9.63	cast (metals)	mouler
+9.63	cast (metals)	couler
+9.64	gold	or
+9.65	silver	argent
+9.66	copper, bronze	cuivre
+9.66	copper, bronze	bronze
+9.67	iron	fer
+9.68	lead (noun)	plomb
+9.69	tin, tinplate	étain
+9.71	potter	pottier
+9.72	mold (clay etc)	mouler
+9.73	clay	argile
+9.73	clay	glaise
+9.74	glass	verre
+9.75	weave, plait	tisser
+9.75	weave, plait	tresser
+9.76	basket	panier
+9.77	mat	natte
+9.771	rug	tapis
+9.78	netbag	filet
+9.79	fan (noun)	éventail
+9.791	fan (vb)	s'éventer
+9.81	carve	sculpter
+9.81	carve	graver
+9.82	sculptor	sculpteur
+9.83	statue	statue
+9.84	chisel	ciseau
+9.88	paint (noun)	peinture
+9.89	paint (vb)	peindre
+10.11	move	mouvoir
+10.11	move	bouger
+10.12	turn over	retourner
+10.13	turn around	culbuter
+10.13	turn around	seretourner
+10.14	wind, wrap	enrouler
+10.14	wind, wrap	envelopper
+10.15	roll	rouler
+10.16	drop (vb)	laissertomber
+10.17	twist	tordre
+10.21	rise	monter
+10.21	rise	selever
+10.22	raise, lift	lever
+10.22	raise, lift	élever
+10.23	fall	tomber
+10.24	drip	s'égoutter
+10.25	throw	jeter
+10.252	catch (ball)	attraper
+10.26	shake	secouer
+10.26	shake	agiter
+10.32	flow	couler
+10.33	sink	couler
+10.33	sink	sombrer
+10.34	float	flotter
+10.35	swim	nager
+10.351	dive	plonger
+10.352	splash	éclabousser
+10.36	sail (vb)	naviguer
+10.37	fly (vb)	voler
+10.38	blow	souffler
+10.41	creep, crawl	ramper
+10.412	kneel	s'agenouiller
+10.413	crouch	s'accroupir
+10.42	slide, slip	glisser
+10.43	jump, leap	sauter
+10.431	kick	donneruncoupdepied
+10.44	dance	danser
+10.45	walk	marcher
+10.451	limp	boiter
+10.46	run	courir
+10.47	go	aller
+10.471	go up	monter
+10.472	climb	grimper
+10.473	go down	descendre
+10.474	go out	sortir
+10.48	come	venir
+10.481	come back	revenir
+10.49	go away, depart	s'enaller
+10.49	go away, depart	partir
+10.491	disappear	disparaître
+10.51	flee	s'enfuir
+10.52	follow	suivre
+10.53	pursue	poursuivre
+10.55	reach, arrive	atteindre
+10.55	reach, arrive	arriver
+10.56	approach	approcher
+10.57	enter	entrer
+10.61	carry (bear)	porter
+10.612	carry-in-hand	porter
+10.613	carry-on-shoulder	porter
+10.614	carry-on-head	porter
+10.615	carry-underarm	porter
+10.62	bring	apporter
+10.62	bring	amener
+10.63	send	envoyer
+10.64	lead (vb)	mener
+10.64	lead (vb)	conduire
+10.65	drive	conduire
+10.66	ride	chevaucher
+10.67	push, shove	pousser
+10.71	road	route
+10.72	path	sentier
+10.72	path	chemin
+10.74	bridge	pont
+10.75	carriage, wagon, cart	wagon
+10.75	carriage, wagon, cart	charrette
+10.76	wheel	roue
+10.77	axle	essieu
+10.78	yoke	joug
+10.81	ship	navire
+10.81	ship	bateau
+10.83	boat	bateau
+10.831	canoe	canoe
+10.831	canoe	pirogue
+10.832	outrigger	balancier
+10.84	raft	radeau
+10.85	oar	rame
+10.851	paddle (noun)	pagaie
+10.852	row (vb)	ramer
+10.86	rudder	gouvernail
+10.87	mast	mât
+10.88	sail (noun)	voile
+10.89	anchor	ancre
+10.91	harbor, port	port
+10.91	harbor, port	mouillage
+10.92	land (vb)	débarquer
+11.11	have	avoir
+11.12	own, possess	posséder
+11.13	take	prendre
+11.14	seize, grasp	saisir
+11.14	seize, grasp	attraper
+11.15	hold	tenir
+11.16	get, obtain	obtenir
+11.17	keep, retain	garder
+11.17	keep, retain	retenir
+11.18	thing	chose
+11.21	give	donner
+11.22	give back	rendre
+11.24	preserve, look after	préserver
+11.25	save, rescue	sauver
+11.27	destroy	détruire
+11.28	harm, injure, damage	blesser
+11.28	harm, injure, damage	endommager
+11.31	seek, look for	chercher
+11.32	find	trouver
+11.33	lose	perdre
+11.34	release, let go	libérer
+11.43	money	argent
+11.44	coin	piècedemonnaie
+11.51	rich	riche
+11.52	poor	pauvre
+11.53	beggar	mendiant
+11.54	avaricious, stingy	avare
+11.54	avaricious, stingy	radin
+11.61	lend	prêter
+11.62	borrow	emprunter
+11.63	owe	devoir
+11.64	debt	dette
+11.65	pay (vb)	payer
+11.66	account, reckoning	compte
+11.69	tax, tribute	taxe
+11.69	tax, tribute	impôt
+11.77	hire	louer
+11.78	wages	salaire
+11.79	earn	gagner
+11.81	buy	acheter
+11.82	sell	vendre
+11.83	trade, barter	échange
+11.84	merchant	marchand
+11.84	merchant	commerçant
+11.85	market (place)	marché
+11.86	store, shop	boutique
+11.86	store, shop	magasin
+11.87	price	prix
+11.88	dear (costly, expensive)	cher
+11.89	cheap	bonmarché
+11.91	share (distribute)	partager
+11.92	weigh	peser
+12.1	after	après
+12.11	place	derrière
+12.2	beside	àcôtéde
+12.3	down, below	enbas
+12.3	down, below	sous
+12.4	before	avant
+12.4	before	devant
+12.41	right (side)	devant
+12.5	inside, in	dans
+12.5	inside, in	dedans
+12.6	outside	dehors
+12.7	under	dessous
+12.7	under	sous
+12.8	up, above	audessus
+12.8	up, above	sur
+12.8	up, above	làhaut
+12.8	up, above	làdessus
+12.11	place	endroit
+12.11	place	place
+12.11	place	lieu
+12.12	put	mettre
+12.13	sit	s'asseoir
+12.14	lie down	secoucher
+12.15	stand	setenirdebout
+12.16	remain, stay	rester
+12.16	remain, stay	demeurer
+12.16	remain, stay	attendre
+12.17	remains, left overs	reste
+12.21	collect, gather	recueillir
+12.21	collect, gather	rassembler
+12.212	pick up	ramasser
+12.213	pile up	entasser
+12.22	join, unite	unir
+12.23	separate	séparer
+12.232	divide	diviser
+12.24	open	ouvrir
+12.25	shut, close	fermer
+12.26	cover	couvrir
+12.27	hide, conceal	cacher
+12.27	hide, conceal	dissimuler
+12.31	high	haut
+12.32	low	bas
+12.33	top	haut
+12.33	top	sommet
+12.34	bottom	fond
+12.35	end	bout
+12.35	end	extrémité
+12.352	pointed	pointu
+12.353	edge	bord
+12.353	edge	orée
+12.36	side	côté
+12.37	middle, center	milieu
+12.37	middle, center	centre
+12.41	right (side)	droite
+12.42	left (side)	gauche
+12.43	near (adv)	près
+12.44	far (adv)	loin
+12.45	east	est
+12.45	east	orient
+12.46	west	ouest
+12.46	west	occident
+12.47	north	nord
+12.48	south	sud
+12.53	grow	grandir
+12.53	grow	croître
+12.53	grow	pousser
+12.54	measure	mesurer
+12.541	span, fathom	brasse
+12.55	large, big	grand
+12.55	large, big	gros
+12.56	small, little	petit
+12.57	long	long
+12.58	tall	grand
+12.59	short	court
+12.61	wide, broad	large
+12.62	narrow	étroit
+12.63	thick (in dimension)	épais
+12.65	thin (in dimension)	mince
+12.67	deep	profond
+12.68	shallow	peuprofond
+12.71	flat	plat
+12.73	straight	droit
+12.74	crooked	courbe
+12.74	crooked	pasdroit
+12.75	hook	crochet
+12.76	corner	coin
+12.77	cross	croix
+12.78	square	carré
+12.81	round	rond
+12.82	circle	cercle
+12.83	sphere, ball	sphère
+12.83	sphere, ball	ballon
+12.84	line	ligne
+12.84	line	rang
+12.85	hole	trou
+12.92	like, similar	semblable
+12.93	change	changer
+13.0	zero, nothing	zéro
+13.0	zero, nothing	rien
+13.1	one	un
+13.2	two	deux
+13.3	three	trois
+13.4	four	quatre
+13.5	five	cinq
+13.6	six	six
+13.7	seven	sept
+13.8	eight	huit
+13.9	nine	neuf
+13.10	ten	dix
+13.101	eleven	onze
+13.102	twelve	douze
+13.103	fifteen	quinze
+13.104	twenty	vingt
+13.105	hundred	cent
+13.106	thousand	mille
+13.107	count	compter
+13.14	every, all	chaque
+13.14	every, all	tous
+13.15	much, many	beaucoup
+13.16	more	encore
+13.16	more	plus
+13.17	little (quantity), few	peu
+13.18	enough	assez
+13.181	some	unpeu
+13.19	multitude, crowd	foule
+13.21	full	plein
+13.22	empty	vide
+13.23	part, piece	morceau
+13.23	part, piece	partie
+13.24	half	moitié
+13.33	alone, only	seul
+13.33	alone, only	seulement
+13.34	first	premier
+13.35	last	dernier
+13.36	second	deuxième
+13.37	pair	couple
+13.37	pair	paire
+13.38	two times	deuxfois
+13.42	third	troisième
+13.44	three times	troisfois
+14.11	time	heure
+14.11	time	temps
+14.12	age	âge
+14.13	new	nouveau
+14.14	young	jeune
+14.15	old	vieux
+14.16	early	tôt
+14.16	early	debonneheure
+14.17	late	tard
+14.18	now	maintenant
+14.19	immediately	toutdesuite
+14.21	swift, fast, quick	vite
+14.21	swift, fast, quick	rapide
+14.22	slow	lent
+14.23	hasten, hurry	sedépêcher
+14.24	retard, delay	différer
+14.24	retard, delay	retarder
+14.25	begin, beginning	commencement
+14.25	begin, beginning	début
+14.252	last, endure	durer
+14.26	end (temporal)	fin
+14.27	finish	finir
+14.27	finish	terminer
+14.28	cease, stop	cesser
+14.28	cease, stop	s'arrêter
+14.29	ready	prêt
+14.31	always	toujours
+14.32	often	souvent
+14.33	sometimes	quelquefois
+14.331	soon	bientôt
+14.332	long-time (for a)	longtemps
+14.34	never	jamais
+14.35	again	encore
+14.41	day	jour
+14.42	night	nuit
+14.43	dawn	aube
+14.44	morning	matin
+14.44	morning	matinée
+14.45	noon, midday	midi
+14.451	afternoon	aprèsmidi
+14.46	evening	soir
+14.46	evening	soirée
+14.47	today	aujourd'hui
+14.48	tomorrow	demain
+14.481	day-after-tomorrow	aprèsdemain
+14.49	yesterday	hier
+14.491	day-before-yesterday	avanthier
+14.51	hour	heure
+14.53	clock, timepiece	pendule
+14.53	clock, timepiece	horloge
+14.53	clock, timepiece	montre
+14.61	week	semaine
+14.62	Sunday	dimanche
+14.63	Monday	lundi
+14.64	Tuesday	mardi
+14.65	Wednesday	mercredi
+14.66	Thursday	jeudi
+14.67	Friday	vendredi
+14.68	Saturday	samedi
+14.71	month	mois
+14.73	year	année
+14.74	winter	hiver
+14.75	spring	printemps
+14.76	summer	été
+14.77	autumn	automne
+14.78	season	saison
+15.21	smell (vb intrans)	sentir
+15.212	sniff	renifler
+15.212	sniff	flairer
+15.22	smell (vb trans)	sentir
+15.22	smell (vb trans)	odeur
+15.25	fragrant, good smelling	odorant
+15.25	fragrant, good smelling	parfumé
+15.26	stinking, bad smelling	puant
+15.26	stinking, bad smelling	quisentmauvais
+15.31	taste	sentir
+15.31	taste	goûter
+15.35	sweet	sucré
+15.35	sweet	doux
+15.36	salty	salé
+15.37	bitter	amer
+15.37	bitter	âpre
+15.38	acid, sour	âpre
+15.38	acid, sour	acide
+15.38	acid, sour	aigre
+15.39	brackish	saumâtre
+15.41	hear	entendre
+15.42	listen	écouter
+15.44	sound, noise	son
+15.44	sound, noise	bruit
+15.45	loud	fort
+15.45	loud	sonore
+15.45	loud	bruyant
+15.45	loud	retentissant
+15.46	quiet, silence	tranquillité
+15.46	quiet, silence	silence
+15.51	see	voir
+15.52	look, look at	regarder
+15.55	show	montrer
+15.56	shine	briller
+15.57	bright	brillant
+15.57	bright	gai
+15.57	bright	vif
+15.61	color	couleur
+15.62	light (in color)	clair
+15.63	dark (in color)	foncé
+15.64	white	blanc
+15.65	black	noir
+15.66	red	rouge
+15.67	blue	bleu
+15.68	green	vert
+15.69	yellow	jaune
+15.71	touch	toucher
+15.712	pinch	pincer
+15.72	feel	sentir
+15.74	hard	dur
+15.75	soft	doux
+15.76	rough	rugueux
+15.76	rough	rude
+15.77	smooth	lisse
+15.78	sharp	tranchant
+15.78	sharp	aiguisé
+15.79	blunt, dull	émoussé
+15.81	heavy	lourd
+15.82	light (in weight)	léger
+15.83	wet, damp	humide
+15.84	dry	sec
+15.85	hot	chaud
+15.851	warm	tiède
+15.851	warm	chaud
+15.851	warm	assezchaud
+15.86	cold	froid
+15.87	clean	propre
+15.88	dirty, soiled	sale
+15.88	dirty, soiled	crasseux
+15.89	wrinkled	ridé
+16.11	soul, spirit	âme
+16.11	soul, spirit	esprit
+16.15	surprised, astonished	étonné
+16.15	surprised, astonished	surpris
+16.18	good fortune, luck	chance
+16.18	good fortune, luck	bonheur
+16.19	misfortune, bad luck	malheur
+16.19	misfortune, bad luck	malchance
+16.19	misfortune, bad luck	infortune
+16.23	joyful, glad, happy	joyeux
+16.23	joyful, glad, happy	heureux
+16.25	laugh	rire
+16.251	smile	sourire
+16.26	play	jouer
+16.27	love	aimer
+16.27	love	amour
+16.29	kiss	baiser
+16.29	kiss	embrasser
+16.3	embrace	embrasser
+16.3	embrace	étreindre
+16.31	pain	douleur
+16.32	grief, sorrow, sadness	douleur
+16.32	grief, sorrow, sadness	peine
+16.32	grief, sorrow, sadness	chagrin
+16.33	anxiety, worry	anxiété
+16.34	regret, be sorry	regretter
+16.35	pity	pitié
+16.35	pity	compassion
+16.37	cry, weep	pleurer
+16.38	tear (noun)	larme
+16.39	groan	grogner
+16.41	hate	haïr
+16.42	anger	colère
+16.44	envy, jealousy	envie
+16.44	envy, jealousy	jalousie
+16.45	shame (noun)	honte
+16.48	proud	fier
+16.51	dare	oser
+16.52	brave	courageux
+16.53	fear, fright	peur
+16.53	fear, fright	crainte
+16.54	danger	danger
+16.62	desire, want	vouloir
+16.62	desire, want	désirer
+16.622	choose	choisir
+16.63	hope	espoir
+16.65	faithful	fidèle
+16.66	true	vrai
+16.67	lie, tell lies	mentir
+16.68	deceit	tromperie
+16.69	forgive	pardonner
+16.71	good	bon
+16.72	bad	mauvais
+16.73	right, correct	juste
+16.73	right, correct	correct
+16.74	wrong	incorrect
+16.76	fault	faute
+16.77	mistake, error	erreur
+16.77	mistake, error	faute
+16.78	blame	blâme
+16.79	praise	louange
+16.79	praise	éloge
+16.81	beautiful	beau
+16.81	beautiful	joli
+16.82	ugly	laid
+16.83	greedy	avide
+16.83	greedy	glouton
+16.83	greedy	gourmand
+16.84	clever	intelligent
+16.84	clever	habile
+17.11	mind	pensée
+17.11	mind	avis
+17.13	think (= reflect)	penser
+17.14	think (= be of the opinion)	croire
+17.15	believe	croire
+17.16	understand	comprendre
+17.17	know	savoir
+17.171	guess	deviner
+17.172	imitate	imiter
+17.18	seem	sembler
+17.19	idea, notion	idée
+17.21	wise	sage
+17.21	wise	savant
+17.21	wise	érudit
+17.22	foolish, stupid	bête
+17.22	foolish, stupid	stupide
+17.23	insane, crazy	fou
+17.23	insane, crazy	insensé
+17.23	insane, crazy	idiot
+17.24	learn	apprendre
+17.242	study	étudier
+17.25	teach	enseigner
+17.26	pupil	élève
+17.27	teacher	professeur
+17.28	school	école
+17.31	remember	sesouvenir
+17.32	forget	oublier
+17.34	clear, plain	évident
+17.34	clear, plain	simple
+17.34	clear, plain	clair
+17.35	obscure	obscur
+17.36	secret	secret
+17.37	sure, certain	sûr
+17.37	sure, certain	certain
+17.38	explain	expliquer
+17.41	intention, purpose	but
+17.42	cause	causer
+17.42	cause	provoquer
+17.43	doubt	douter
+17.44	suspect	soupçonner
+17.441	betray	trahir
+17.45	need, necessity	besoin
+17.45	need, necessity	nécessité
+17.46	easy	facile
+17.47	difficult	difficile
+17.48	try, attempt	essayer
+17.48	try, attempt	tenter
+17.49	way, manner	façon
+17.49	way, manner	manière
+17.51	and	et
+17.52	because	parceque
+17.53	if	si
+17.54	or	ou
+17.55	yes, affirmative	oui
+17.55	yes, affirmative	affirmatif
+17.56	no, negative	non
+17.56	no, negative	négatif
+17.61	how?	comment?
+17.62	how many?	combien?
+17.63	how much?	combien?
+17.64	what?	quoi?
+17.65	when?	quand?
+17.66	where?	oú?
+17.67	which?	quel?lequel?
+17.68	who?	qui?
+17.69	why?	pourquoi?
+18.11	voice	voix
+18.12	sing	chanter
+18.13	shout, cry out	crier
+18.13	shout, cry out	écrier
+18.15	whisper	chuchoter
+18.16	mumble	marmonner
+18.16	mumble	bredouiller
+18.17	whistle	siffler
+18.18	shriek, screech	hurler
+18.19	howl	ululer
+18.21	speak, talk	parler
+18.211	stutter, stammer	bégayer
+18.211	stutter, stammer	balbutier
+18.22	say	dire
+18.221	tell story	raconter
+18.221	tell story	narrer
+18.222	speech (make a)	discours
+18.23	silent (be)	silencieux
+18.24	language	langue
+18.24	language	langage
+18.26	word	mot
+18.26	word	parole
+18.28	name	nom
+18.31	ask (question, inquire)	poserunequestion
+18.31	ask (question, inquire)	demander
+18.32	answer	répondre
+18.33	admit, confess	admettre
+18.33	admit, confess	avouer
+18.34	deny	nier
+18.35	ask, request	demander
+18.36	promise	promettre
+18.37	refuse	refuser
+18.38	forbid	interdire
+18.39	rebuke, scold	réprimander
+18.39	rebuke, scold	gronder
+18.39	rebuke, scold	blâmer
+18.41	call (=summon)	appeler
+18.41	call (=summon)	héler
+18.42	call (=name)	s'appeler
+18.43	announce	annoncer
+18.43	announce	proclamer
+18.44	threaten	menacer
+18.45	boast	sevanter
+18.51	write	écrire
+18.52	read	lire
+18.56	paper	papier
+18.57	pen	plume
+18.61	book	livre
+18.67	poet	poète
+18.71	flute	flûte
+18.72	drum	tambour
+18.73	horn, trumpet	cor
+18.73	horn, trumpet	trompette
+18.74	rattle	hochet
+19.11	country	pays
+19.12	one's native country	patrie
+19.15	city, town	cité
+19.15	city, town	ville
+19.16	village	village
+19.17	boundary	frontière
+19.17	boundary	limite
+19.21	people (populace)	gens
+19.23	tribe, clan	tribu
+19.23	tribe, clan	clan
+19.24	chief, chieftain	chef
+19.25	staff, walking stick	canne
+19.31	rule, govern	régner
+19.31	rule, govern	gouverner
+19.32	king, ruler	roi
+19.33	queen	reine
+19.36	noble, nobleman	noble
+19.37	citizen, subject	citoyen
+19.37	citizen, subject	sujet
+19.41	master	maître
+19.42	slave	esclave
+19.43	servant	domestique
+19.43	servant	serviteur
+19.44	freeman	hommelibre
+19.45	command, order	commander
+19.45	command, order	ordonner
+19.46	obey	obéir
+19.47	let, permit	permettre
+19.51	friend, companion	ami
+19.51	friend, companion	compagnon
+19.52	enemy	ennemi
+19.54	neighbor	voisin
+19.55	stranger	étranger
+19.56	guest	invité
+19.57	host	hôte
+19.58	help, aid	aider
+19.59	hinder, prevent	empêcher
+19.61	custom	coutume
+19.62	strife, quarrel	lutte
+19.62	strife, quarrel	querelle
+19.63	conspiracy, plot	conspiration
+19.63	conspiracy, plot	complot
+19.65	meet	rencontrer
+19.72	prostitute	prostituée
+20.11	fight (vb)	sebattre
+20.13	war, battle	guerre
+20.13	war, battle	bataille
+20.14	peace	paix
+20.15	army	armée
+20.17	soldier	soldat
+20.21	weapons, arms	armes
+20.22	club	cassetête
+20.222	battle-ax	hachedeguerre
+20.23	sling	fronde
+20.24	bow	arc
+20.25	arrow	flèche
+20.26	spear	épieu
+20.26	spear	lance
+20.27	sword	épée
+20.28	gun, cannon	fusil
+20.28	gun, cannon	canon
+20.31	armor (defensive)	armure
+20.33	helmet	casque
+20.34	shield	bouclier
+20.35	fortress	châteaufort
+20.35	fortress	forteresse
+20.36	tower	tour
+20.41	victory	victoire
+20.42	defeat	défaite
+20.42	defeat	déroute
+20.43	attack	attaquer
+20.44	defend	défendre
+20.45	retreat	fuir
+20.45	retreat	battreenretraite
+20.46	surrender	céder
+20.46	surrender	serendre
+20.47	captive, prisoner	prisonnier
+20.47	captive, prisoner	captit
+20.471	guard, sentinel	garde
+20.471	guard, sentinel	sentinelle
+20.48	booty, spoils	butin
+20.48	booty, spoils	dépouilles
+20.49	ambush	guetapens
+20.49	ambush	embuscade
+20.51	fisherman	pêcheur
+20.52	fishhook	hameçon
+20.53	fishing line	ligne
+20.54	fishnet	filetdepêche
+20.55	fish trap	nasse
+20.56	bait	appât
+20.61	hunt	chasser
+20.62	shoot	tirer
+20.62	shoot	fusiller
+20.63	miss (target)	rater
+20.63	miss (target)	manquer
+20.64	trap (noun)	piège
+20.65	trap (vb)	prendreaupiège
+21.11	law	loi
+21.11	law	droit
+21.15	court	cour
+21.16	judge (vb)	juger
+21.17	judgment	jugement
+21.18	judge (noun)	juge
+21.21	plaintiff	plaignant
+21.22	defendant	accusé
+21.23	witness	témoin
+21.24	swear	jurer
+21.25	oath	serment
+21.31	accuse	accuser
+21.32	condemn	condamner
+21.33	convict (vb)	inculper
+21.34	acquit	acquitter
+21.35	guilty	coupable
+21.36	innocent	innocent
+21.37	penalty, punishment	punition
+21.38	fine	amende
+21.39	prison, jail	prison
+21.42	murder	meurtre
+21.43	adultery	adultère
+21.44	rape	viol
+21.46	arson	incendievolontaire
+21.47	perjury	parjure
+21.51	steal	voler
+21.51	steal	dérober
+21.52	thief	voleur

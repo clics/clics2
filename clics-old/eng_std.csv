@@ -1,0 +1,1528 @@
+@classification: Indo-European,Germanic,West,English
+@ids-name: English_StandardOrth
+@iso: eng
+@language: English
+@size: 1521
+@source: ids
+@variety: std
+1.1	world	world
+1.21	earth, land	earth
+1.21	earth, land	land
+1.212	earth=ground, soil	ground
+1.212	earth=ground, soil	soil
+1.213	dust	dust
+1.214	mud	mud
+1.215	sand	sand
+1.22	mountain, hill	mountain
+1.22	mountain, hill	hill
+1.222	cliff, precipice	cliff
+1.222	cliff, precipice	precipice
+1.23	plain, field	plain
+1.23	plain, field	field
+1.24	valley	valley
+1.25	island	island
+1.26	mainland	mainland
+1.27	shore	shore
+1.28	cave	cave
+1.31	water	water
+1.32	sea	sea
+1.322	calm (of sea)	calm
+1.323	rough (of sea)	rough
+1.324	foam	foam
+1.329	ocean	ocean
+1.33	lake	lake
+1.34	gulf, bay	gulf
+1.34	gulf, bay	bay
+1.341	lagoon	lagoon
+1.342	reef	reef
+1.343	headland, point	headland
+1.343	headland, point	point
+1.35	wave	wave
+1.352	tide	tide
+1.353	lowtide	lowtide
+1.354	hightide	hightide
+1.36	river, stream, brook	river
+1.36	river, stream, brook	stream
+1.36	river, stream, brook	brook
+1.362	whirlpool	whirlpool
+1.37	spring, well	spring
+1.37	spring, well	well
+1.38	swamp	swamp
+1.39	waterfall	waterfall
+1.41	woods, forest	woods
+1.41	woods, forest	forest
+1.42	tree (cf 08.600)	tree
+1.43	wood	wood
+1.44	stone, rock	stone
+1.44	stone, rock	rock
+1.45	earthquake	earthquake
+1.51	sky	sky
+1.52	sun	sun
+1.53	moon	moon
+1.54	star	star
+1.55	lightning	lightning
+1.56	thunder	thunder
+1.57	lightning (as striking)	lightning
+1.58	storm	storm
+1.59	rainbow	rainbow
+1.61	light (noun)	light
+1.62	darkness	darkness
+1.63	shade, shadow	shade
+1.63	shade, shadow	shadow
+1.64	dew	dew
+1.71	air	air
+1.72	wind	wind
+1.73	cloud	cloud
+1.74	fog	fog
+1.75	rain (noun)	rain
+1.76	snow (noun)	snow
+1.77	ice	ice
+1.78	weather	weather
+1.81	fire	fire
+1.82	flame (noun)	flame
+1.83	smoke (noun)	smoke
+1.84	ashes	ashes
+1.841	embers	embers
+1.851	burn (vb trans)	burn
+1.852	burn (vb intrans)	burn
+1.86	light, kindle, ignite	light
+1.86	light, kindle, ignite	kindle
+1.86	light, kindle, ignite	ignite
+1.861	extinguish	extinguish
+1.87	match (noun)	match
+1.88	firewood	firewood
+1.89	charcoal	charcoal
+2.1	person, human being	person
+2.1	person, human being	humanbeing
+2.21	man (vs. woman)	man
+2.22	woman	woman
+2.23	male	male
+2.24	female	female
+2.25	boy	boy
+2.251	young man (adolescent)	youngman
+2.26	girl	girl
+2.261	young woman (adolescent)	youngwoman
+2.27	child	child
+2.28	infant, baby	infant
+2.28	infant, baby	baby
+2.31	husband	husband
+2.32	wife	wife
+2.33	marry	marry
+2.34	marriage, wedding	marriage
+2.34	marriage, wedding	wedding
+2.341	divorce	divorce
+2.35	father	father
+2.36	mother	mother
+2.37	parents	parents
+2.38	married man	marriedman
+2.39	married woman	marriedwoman
+2.41	son	son
+2.42	daughter	daughter
+2.43	offspring (son or daughter)	offspring
+2.44	brother	brother
+2.444	older brother	olderbrother
+2.445	younger brother	youngerbrother
+2.45	sister	sister
+2.454	older sister	oldersister
+2.455	younger sister	youngersister
+2.456	sibling	sibling
+2.458	twins	twins
+2.46	grandfather	grandfather
+2.461	old man	oldman
+2.47	grandmother	grandmother
+2.471	old woman	oldwoman
+2.48	grandson	grandson
+2.49	granddaughter	granddaughter
+2.51	uncle	uncle
+2.511	mother's brother	mother'sbrother
+2.512	father's brother	father'sbrother
+2.52	aunt	aunt
+2.521	mother's sister	mother'ssister
+2.522	father's sister	father'ssister
+2.53	nephew	nephew
+2.54	niece	niece
+2.55	cousin	cousin
+2.56	ancestors	ancestors
+2.57	descendants	descendants
+2.61	father-in-law (of a man)	fatherinlaw
+2.611	father-in-law (of a woman)	fatherinlaw
+2.62	mother-in-law (of a man)	motherinlaw
+2.621	mother-in-law (of a woman)	motherinlaw
+2.63	son-in-law (of a man)	soninlaw
+2.631	son-in-law (of a woman)	soninlaw
+2.64	daughter-in-law (of a man)	daughterinlaw
+2.641	daughter-in-law (of a woman)	daughterinlaw
+2.71	stepfather	stepfather
+2.72	stepmother	stepmother
+2.73	stepson	stepson
+2.74	stepdaughter	stepdaughter
+2.75	orphan	orphan
+2.76	widow	widow
+2.77	widower	widower
+2.81	relatives, kinsmen	relatives
+2.81	relatives, kinsmen	kinsmen
+2.82	family	family
+2.91	I	I
+2.92	you (singular)	you
+2.93	he/she/it	he
+2.93	he/she/it	she
+2.93	he/she/it	it
+2.94	we	we
+2.941	we (inclusive)	we
+2.942	we (exclusive)	we
+2.95	you (plural)	you
+2.96	they	they
+3.11	animal	animal
+3.12	male (adj)	male
+3.13	female (adj)	female
+3.15	livestock	livestock
+3.16	pasture	pasture
+3.18	herdsman	herdsman
+3.19	stable, stall	stable
+3.19	stable, stall	stall
+3.2	cattle (bovine)	cattle
+3.21	bull	bull
+3.22	ox	ox
+3.23	cow	cow
+3.24	calf	calf
+3.25	sheep	sheep
+3.26	ram	ram
+3.28	ewe	ewe
+3.29	lamb	lamb
+3.32	boar	boar
+3.34	sow	sow
+3.35	pig	pig
+3.36	goat	goat
+3.37	he-goat	hegoat
+3.38	kid	kid
+3.41	horse (equine)	horse
+3.42	stallion	stallion
+3.44	mare	mare
+3.45	foal, colt	foal
+3.45	foal, colt	colt
+3.46	ass, donkey	ass
+3.46	ass, donkey	donkey
+3.47	mule	mule
+3.5	fowl	fowl
+3.52	cock, rooster	cock
+3.52	cock, rooster	rooster
+3.54	hen	hen
+3.55	chicken	chicken
+3.56	goose	goose
+3.57	duck	duck
+3.58	nest	nest
+3.581	bird	bird
+3.582	seagull	seagull
+3.583	heron	heron
+3.584	eagle	eagle
+3.585	hawk	hawk
+3.586	vulture	vulture
+3.591	bat	bat
+3.592	parrot	parrot
+3.593	crow	crow
+3.594	dove	dove
+3.596	owl	owl
+3.61	dog	dog
+3.614	rabbit	rabbit
+3.62	cat	cat
+3.622	opossum	opossum
+3.63	mouse, rat	mouse
+3.63	mouse, rat	rat
+3.65	fish	fish
+3.652	fin (dorsal)	fin
+3.653	fishscale	fishscale
+3.654	gill	gill
+3.655	shell	shell
+3.661	shark	shark
+3.662	porpoise, dolphin	porpoise
+3.662	porpoise, dolphin	dolphin
+3.663	whale	whale
+3.664	stingray	stingray
+3.665	freshwater eel	freshwatereel
+3.71	wolf	wolf
+3.72	lion	lion
+3.73	bear	bear
+3.74	fox	fox
+3.75	deer	deer
+3.76	monkey	monkey
+3.77	elephant	elephant
+3.78	camel	camel
+3.81	insect	insect
+3.811	louse	louse
+3.812	nit (louse egg)	nit
+3.813	flea	flea
+3.814	centipede	centipede
+3.815	scorpion	scorpion
+3.816	cockroach	cockroach
+3.817	ant	ant
+3.818	spider	spider
+3.819	spider web	spiderweb
+3.82	bee	bee
+3.821	beeswax	beeswax
+3.822	beehive	beehive
+3.823	wasp	wasp
+3.83	fly	fly
+3.831	sandfly (midge), gnat	sandfly
+3.831	sandfly (midge), gnat	midge
+3.831	sandfly (midge), gnat	gnat
+3.832	mosquito	mosquito
+3.84	worm	worm
+3.85	snake	snake
+3.91	firefly	firefly
+3.92	butterfly	butterfly
+3.93	grasshopper	grasshopper
+3.94	snail	snail
+3.95	frog	frog
+3.96	lizard	lizard
+3.97	crocodile, alligator	crocodile
+3.97	crocodile, alligator	alligator
+3.98	turtle	turtle
+4.11	body	body
+4.12	skin, hide	skin
+4.12	skin, hide	hide
+4.13	flesh	flesh
+4.14	hair (head)	hair
+4.142	beard	beard
+4.144	body hair	bodyhair
+4.145	pubic hair	pubichair
+4.146	dandruff	dandruff
+4.15	blood	blood
+4.151	vein, artery	vein
+4.151	vein, artery	artery
+4.16	bone	bone
+4.162	rib	rib
+4.17	horn	horn
+4.18	tail	tail
+4.19	back	back
+4.191	spine	spine
+4.2	head	head
+4.201	side of head, temple	sideofhead
+4.201	side of head, temple	temple
+4.202	skull	skull
+4.203	brain	brain
+4.204	face	face
+4.205	forehead	forehead
+4.207	jaw	jaw
+4.208	cheek	cheek
+4.209	chin	chin
+4.21	eye	eye
+4.212	eyebrow	eyebrow
+4.213	eyelid	eyelid
+4.214	eyelash	eyelash
+4.215	blink	blink
+4.22	ear	ear
+4.221	earlobe	earlobe
+4.222	earwax	earwax
+4.23	nose	nose
+4.231	nostril	nostril
+4.232	mucus (nasal)	mucus
+4.24	mouth	mouth
+4.241	beak	beak
+4.25	lip	lip
+4.26	tongue	tongue
+4.27	tooth	tooth
+4.271	gums	gums
+4.272	molartooth	molartooth
+4.28	neck	neck
+4.281	nape of neck	napeofneck
+4.29	throat	throat
+4.3	shoulder	shoulder
+4.301	shoulderblade	shoulderblade
+4.302	collarbone	collarbone
+4.31	arm	arm
+4.312	armpit	armpit
+4.32	elbow	elbow
+4.321	wrist	wrist
+4.33	hand	hand
+4.331	palm of hand	palmofhand
+4.34	finger	finger
+4.342	thumb	thumb
+4.344	fingernail	fingernail
+4.345	claw	claw
+4.35	leg	leg
+4.351	thigh	thigh
+4.352	calf of leg	calfofleg
+4.36	knee	knee
+4.37	foot	foot
+4.371	ankle	ankle
+4.372	heel	heel
+4.374	footprint	footprint
+4.38	toe	toe
+4.392	wing	wing
+4.393	feather	feather
+4.4	chest	chest
+4.41	breast (of woman)	breast
+4.412	nipple, teat	nipple
+4.412	nipple, teat	teat
+4.42	udder	udder
+4.43	navel	navel
+4.44	heart	heart
+4.441	lung	lung
+4.45	liver	liver
+4.451	kidney	kidney
+4.452	spleen	spleen
+4.46	stomach	stomach
+4.461	intestines, guts	intestines
+4.461	intestines, guts	guts
+4.462	waist	waist
+4.463	hip	hip
+4.464	buttocks	buttocks
+4.47	womb	womb
+4.49	testicle	testicle
+4.492	penis	penis
+4.51	breathe, breath	breathe
+4.51	breathe, breath	breath
+4.52	yawn, gape	yawn
+4.52	yawn, gape	gape
+4.521	hiccough	hiccough
+4.53	cough	cough
+4.54	sneeze	sneeze
+4.55	perspire	perspire
+4.56	spit	spit
+4.57	vomit	vomit
+4.58	bite	bite
+4.59	lick	lick
+4.591	dribble	dribble
+4.61	sleep	sleep
+4.612	snore	snore
+4.62	dream	dream
+4.63	wake up	wakeup
+4.64	break wind	breakwind
+4.65	urinate	urinate
+4.66	defecate	defecate
+4.67	have sexual intercourse	havesexualintercourse
+4.68	shiver	shiver
+4.69	bathe	bathe
+4.71	beget (of father)	beget
+4.72	born (to be)	born
+4.73	pregnant	pregnant
+4.732	conceive	conceive
+4.74	live, living, life	live
+4.74	live, living, life	living
+4.74	live, living, life	life
+4.75	die, dead	die
+4.75	die, dead	dead
+4.751	drowned	drowned
+4.76	kill	kill
+4.77	corpse	corpse
+4.78	bury (the dead)	bury
+4.79	grave, tomb	grave
+4.79	grave, tomb	tomb
+4.81	strong, mighty, powerful	strong
+4.81	strong, mighty, powerful	mighty
+4.81	strong, mighty, powerful	powerful
+4.82	weak	weak
+4.83	well, health	well
+4.83	well, health	health
+4.84	sick, sickness	sick
+4.84	sick, sickness	sickness
+4.841	fever	fever
+4.842	goiter	goiter
+4.843	cold (catarrh)	cold
+4.85	wound, sore	wound
+4.85	wound, sore	sore
+4.852	bruise	bruise
+4.853	swelling	swelling
+4.854	itch	itch
+4.855	blister	blister
+4.856	boil (noun)	boil
+4.857	pus	pus
+4.858	scar	scar
+4.86	cure, heal	cure
+4.86	cure, heal	heal
+4.87	physician	physician
+4.88	medicine, drug	medicine
+4.88	medicine, drug	drug
+4.89	poison	poison
+4.91	tired, weary	tired
+4.91	tired, weary	weary
+4.912	rest	rest
+4.92	lazy	lazy
+4.93	bald	bald
+4.94	lame	lame
+4.95	deaf	deaf
+4.96	mute	mute
+4.97	blind	blind
+4.98	intoxicated	intoxicated
+4.99	naked, bare	naked
+4.99	naked, bare	bare
+5.11	eat	eat
+5.12	food	food
+5.121	cooked	cooked
+5.122	raw	raw
+5.123	ripe	ripe
+5.124	green, unripe	green
+5.124	green, unripe	unripe
+5.125	rotten	rotten
+5.13	drink	drink
+5.14	hunger	hunger
+5.141	famine	famine
+5.15	thirst	thirst
+5.16	suck	suck
+5.18	chew	chew
+5.181	swallow	swallow
+5.19	choke	choke
+5.21	cook	cook
+5.22	boil (vb)	boil
+5.23	roast, fry	roast
+5.23	roast, fry	fry
+5.24	bake	bake
+5.25	oven	oven
+5.26	pot, cooking vessel	pot
+5.26	pot, cooking vessel	cookingvessel
+5.27	kettle	kettle
+5.28	pan	pan
+5.31	dish	dish
+5.32	plate	plate
+5.33	bowl	bowl
+5.34	pitcher, jug	pitcher
+5.34	pitcher, jug	jug
+5.35	cup, drinking vessel	cup
+5.35	cup, drinking vessel	drinkingvessel
+5.36	saucer	saucer
+5.37	spoon	spoon
+5.38	knife	knife
+5.39	fork	fork
+5.391	tongs	tongs
+5.41	meal (a)	meal
+5.42	breakfast	breakfast
+5.43	lunch	lunch
+5.44	dinner	dinner
+5.45	supper	supper
+5.46	peel	peel
+5.47	sieve, strain	sieve
+5.47	sieve, strain	strain
+5.48	scrape	scrape
+5.49	stir, mix	stir
+5.49	stir, mix	mix
+5.51	bread	bread
+5.53	dough	dough
+5.54	knead	knead
+5.55	meal, flour	meal
+5.55	meal, flour	flour
+5.56	crush, grind	crush
+5.56	crush, grind	grind
+5.57	mill	mill
+5.58	mortar	mortar
+5.59	pestle	pestle
+5.61	meat	meat
+5.63	sausage	sausage
+5.64	soup, broth	soup
+5.64	soup, broth	broth
+5.65	vegetables	vegetables
+5.66	bean	bean
+5.7	potato	potato
+5.71	fruit	fruit
+5.712	bunch	bunch
+5.75	fig	fig
+5.76	grape	grape
+5.77	nut	nut
+5.78	olive	olive
+5.79	oil	oil
+5.791	grease, fat	grease
+5.791	grease, fat	fat
+5.81	salt	salt
+5.82	pepper	pepper
+5.821	chili pepper	chilipepper
+5.84	honey	honey
+5.85	sugar	sugar
+5.86	milk (noun)	milk
+5.87	milk (vb)	milk
+5.88	cheese	cheese
+5.89	butter	butter
+5.9	beverage, drink	beverage
+5.9	beverage, drink	drink
+5.91	mead	mead
+5.92	wine	wine
+5.93	beer	beer
+5.94	fermented drink	fermenteddrink
+5.97	egg	egg
+5.971	egg yolk	eggyolk
+6.11	put on (clothes)	putonclothes
+6.12	clothing, clothes	clothing
+6.12	clothing, clothes	clothes
+6.13	tailor	tailor
+6.21	cloth	cloth
+6.22	wool	wool
+6.23	linen, flax	linen
+6.23	linen, flax	flax
+6.24	cotton	cotton
+6.25	silk	silk
+6.27	felt	felt
+6.28	fur	fur
+6.29	leather	leather
+6.31	spin	spin
+6.32	spindle	spindle
+6.33	weave	weave
+6.34	loom	loom
+6.35	sew	sew
+6.36	needle	needle
+6.37	awl	awl
+6.38	thread	thread
+6.39	dye	dye
+6.41	cloak	cloak
+6.411	poncho	poncho
+6.42	woman's dress	woman'sdress
+6.43	coat	coat
+6.44	shirt	shirt
+6.45	collar	collar
+6.46	skirt	skirt
+6.461	grass-skirt	grassskirt
+6.48	trousers	trousers
+6.49	stocking, sock	stocking
+6.49	stocking, sock	sock
+6.51	shoe	shoe
+6.52	boot	boot
+6.54	shoemaker, cobbler	shoemaker
+6.54	shoemaker, cobbler	cobbler
+6.55	hat, cap	hat
+6.55	hat, cap	cap
+6.57	belt, girdle	belt
+6.57	belt, girdle	girdle
+6.58	glove	glove
+6.59	veil	veil
+6.61	pocket	pocket
+6.62	button	button
+6.63	pin	pin
+6.71	ornament, adornment	ornament
+6.71	ornament, adornment	adornment
+6.72	jewel	jewel
+6.73	ring (for finger)	ring
+6.74	bracelet	bracelet
+6.75	necklace	necklace
+6.76	bead	bead
+6.77	earring	earring
+6.78	headband, headdress	headband
+6.78	headband, headdress	headdress
+6.79	tattoo	tattoo
+6.81	handkerchief, rag	handkerchief
+6.81	handkerchief, rag	rag
+6.82	towel	towel
+6.91	comb	comb
+6.92	brush	brush
+6.921	braid	braid
+6.93	razor	razor
+6.94	ointment	ointment
+6.95	soap	soap
+6.96	mirror	mirror
+7.11	dwell, live	dwell
+7.11	dwell, live	live
+7.12	house	house
+7.13	hut	hut
+7.131	garden-house	gardenhouse
+7.14	tent	tent
+7.15	yard, court	yard
+7.15	yard, court	court
+7.16	men's house	men'shouse
+7.17	cookhouse	cookhouse
+7.18	meeting house	meetinghouse
+7.21	room	room
+7.22	door, gate	door
+7.22	door, gate	gate
+7.221	doorpost, jamb	doorpost
+7.221	doorpost, jamb	jamb
+7.23	lock (noun)	lock
+7.231	latch, door-bolt	latch
+7.231	latch, door-bolt	doorbolt
+7.24	key	key
+7.25	window	window
+7.26	floor	floor
+7.27	wall	wall
+7.31	fireplace	fireplace
+7.32	stove	stove
+7.33	chimney	chimney
+7.37	ladder	ladder
+7.42	bed	bed
+7.421	pillow	pillow
+7.422	blanket	blanket
+7.43	chair	chair
+7.44	table	table
+7.45	lamp, torch	lamp
+7.45	lamp, torch	torch
+7.46	candle	candle
+7.47	shelf	shelf
+7.48	trough	trough
+7.51	roof	roof
+7.52	thatch	thatch
+7.53	ridgepole	ridgepole
+7.54	rafter	rafter
+7.55	beam	beam
+7.56	post, pole	post
+7.56	post, pole	pole
+7.57	board	board
+7.58	arch	arch
+7.61	mason	mason
+7.62	brick	brick
+7.63	mortar	mortar
+7.64	adobe	adobe
+8.11	farmer	farmer
+8.12	field (for cultivation)	field
+8.13	garden	garden
+8.15	cultivate, till	cultivate
+8.15	cultivate, till	till
+8.16	fence	fence
+8.17	ditch	ditch
+8.21	plow	plow
+8.212	furrow	furrow
+8.22	dig	dig
+8.23	spade	spade
+8.24	shovel	shovel
+8.25	hoe	hoe
+8.26	fork	fork
+8.27	rake	rake
+8.31	sow	sow
+8.311	seed	seed
+8.32	mow, reap	mow
+8.32	mow, reap	reap
+8.33	sickle, scythe	sickle
+8.33	sickle, scythe	scythe
+8.34	thresh	thresh
+8.35	threshing-floor	threshingfloor
+8.41	crop, harvest	crop
+8.41	crop, harvest	harvest
+8.42	grain (barley, oats etc)	grain
+8.43	wheat	wheat
+8.44	barley	barley
+8.45	rye	rye
+8.46	oats	oats
+8.47	maize, corn	maize
+8.47	maize, corn	corn
+8.48	rice	rice
+8.51	grass	grass
+8.52	hay	hay
+8.53	plant (noun)	plant
+8.531	plant (vb)	plant
+8.54	root	root
+8.55	branch	branch
+8.56	leaf	leaf
+8.57	flower	flower
+8.6	tree	tree
+8.61	oak	oak
+8.62	beech	beech
+8.63	birch	birch
+8.64	pine	pine
+8.65	fir	fir
+8.66	acorn	acorn
+8.67	vine	vine
+8.68	tobacco	tobacco
+8.69	smoke (tobacco)	smoke
+8.691	pipe	pipe
+8.72	tree stump	treestump
+8.73	tree trunk	treetrunk
+8.74	forked branch	forkedbranch
+8.75	bark	bark
+8.76	sap	sap
+8.81	palm tree	palmtree
+8.82	coconut	coconut
+8.83	citrus fruit	citrusfruit
+8.84	banana tree	bananatree
+8.85	banyan	banyan
+8.91	sweet potato	sweetpotato
+8.912	yam	yam
+8.92	tapioca, manioc, cassava	tapioca
+8.92	tapioca, manioc, cassava	manioc
+8.92	tapioca, manioc, cassava	cassava
+8.93	gourd	gourd
+8.931	pumpkin, squash	pumpkin
+8.931	pumpkin, squash	squash
+8.94	bamboo	bamboo
+8.941	sugar cane	sugarcane
+8.96	fish poison (root)	fishpoison
+8.97	nettle	nettle
+8.98	mushroom	mushroom
+9.11	do, make	do
+9.11	do, make	make
+9.12	work	work
+9.14	bend	bend
+9.15	fold	fold
+9.16	tie, bind	tie
+9.16	tie, bind	bind
+9.161	untie	untie
+9.18	chain	chain
+9.19	rope, cord	rope
+9.19	rope, cord	cord
+9.192	knot (noun)	knot
+9.21	strike (hit, beat)	strike
+9.21	strike (hit, beat)	hit
+9.21	strike (hit, beat)	beat
+9.211	pound with fist	poundwithfist
+9.22	cut	cut
+9.221	cut down	cutdown
+9.222	chop, hew	chop
+9.222	chop, hew	hew
+9.223	stab	stab
+9.23	knife	knife
+9.24	scissors, shears	scissors
+9.24	scissors, shears	shears
+9.25	ax	ax
+9.251	adze	adze
+9.26	break	break
+9.261	broken	broken
+9.27	split	split
+9.28	tear	tear
+9.29	flay, skin	flay
+9.29	flay, skin	skin
+9.31	rub, wipe	rub
+9.31	rub, wipe	wipe
+9.32	stretch	stretch
+9.33	pull	pull
+9.34	spread out	spreadout
+9.341	hang up	hangup
+9.342	press	press
+9.343	squeeze, wring	squeeze
+9.343	squeeze, wring	wring
+9.35	pour	pour
+9.36	wash	wash
+9.37	sweep	sweep
+9.38	broom	broom
+9.422	tool	tool
+9.43	carpenter	carpenter
+9.44	build	build
+9.46	bore	bore
+9.461	hollow out	hollowout
+9.48	saw	saw
+9.49	hammer	hammer
+9.5	nail	nail
+9.56	glue	glue
+9.6	smith, blacksmith	smith
+9.6	smith, blacksmith	blacksmith
+9.61	forge	forge
+9.62	anvil	anvil
+9.63	cast (metals)	castmetals
+9.64	gold	gold
+9.65	silver	silver
+9.66	copper, bronze	copper
+9.66	copper, bronze	bronze
+9.67	iron	iron
+9.68	lead (noun)	lead
+9.69	tin, tinplate	tin
+9.69	tin, tinplate	tinplate
+9.71	potter	potter
+9.72	mold (clay etc)	mold
+9.73	clay	clay
+9.74	glass	glass
+9.75	weave, plait	weave
+9.75	weave, plait	plait
+9.76	basket	basket
+9.77	mat	mat
+9.771	rug	rug
+9.78	netbag	netbag
+9.79	fan (noun)	fan
+9.791	fan (vb)	fan
+9.81	carve	carve
+9.82	sculptor	sculptor
+9.83	statue	statue
+9.84	chisel	chisel
+9.88	paint (noun)	paint
+9.89	paint (vb)	paint
+10.11	move	move
+10.12	turn over	turnover
+10.13	turn around	turnaround
+10.14	wind, wrap	wind
+10.14	wind, wrap	wrap
+10.15	roll	roll
+10.16	drop (vb)	drop
+10.17	twist	twist
+10.21	rise	rise
+10.22	raise, lift	raise
+10.22	raise, lift	lift
+10.23	fall	fall
+10.24	drip	drip
+10.25	throw	throw
+10.252	catch (ball)	catchball
+10.26	shake	shake
+10.32	flow	flow
+10.33	sink	sink
+10.34	float	float
+10.35	swim	swim
+10.351	dive	dive
+10.352	splash	splash
+10.36	sail (vb)	sail
+10.37	fly (vb)	fly
+10.38	blow	blow
+10.41	creep, crawl	creep
+10.41	creep, crawl	crawl
+10.412	kneel	kneel
+10.413	crouch	crouch
+10.42	slide, slip	slide
+10.42	slide, slip	slip
+10.43	jump, leap	jump
+10.43	jump, leap	leap
+10.431	kick	kick
+10.44	dance	dance
+10.45	walk	walk
+10.451	limp	limp
+10.46	run	run
+10.47	go	go
+10.471	go up	goup
+10.472	climb	climb
+10.473	go down	godown
+10.474	go out	goout
+10.48	come	come
+10.481	come back	comeback
+10.49	go away, depart	goaway
+10.49	go away, depart	depart
+10.491	disappear	disappear
+10.51	flee	flee
+10.52	follow	follow
+10.53	pursue	pursue
+10.55	reach, arrive	reach
+10.55	reach, arrive	arrive
+10.56	approach	approach
+10.57	enter	enter
+10.61	carry (bear)	carry
+10.612	carry-in-hand	carryinhand
+10.613	carry-on-shoulder	carryonshoulder
+10.614	carry-on-head	carryonhead
+10.615	carry-underarm	carryunderarm
+10.62	bring	bring
+10.63	send	send
+10.64	lead (vb)	lead
+10.65	drive	drive
+10.66	ride	ride
+10.67	push, shove	push
+10.67	push, shove	shove
+10.71	road	road
+10.72	path	path
+10.74	bridge	bridge
+10.75	carriage, wagon, cart	carriage
+10.75	carriage, wagon, cart	wagon
+10.75	carriage, wagon, cart	cart
+10.76	wheel	wheel
+10.77	axle	axle
+10.78	yoke	yoke
+10.81	ship	ship
+10.83	boat	boat
+10.831	canoe	canoe
+10.832	outrigger	outrigger
+10.84	raft	raft
+10.85	oar	oar
+10.851	paddle (noun)	paddle
+10.852	row (vb)	row
+10.86	rudder	rudder
+10.87	mast	mast
+10.88	sail (noun)	sail
+10.89	anchor	anchor
+10.91	harbor, port	harbor
+10.91	harbor, port	port
+10.92	land (vb)	land
+11.11	have	have
+11.12	own, possess	own
+11.12	own, possess	possess
+11.13	take	take
+11.14	seize, grasp	seize
+11.14	seize, grasp	grasp
+11.15	hold	hold
+11.16	get, obtain	get
+11.16	get, obtain	obtain
+11.17	keep, retain	keep
+11.17	keep, retain	retain
+11.18	thing	thing
+11.21	give	give
+11.22	give back	giveback
+11.24	preserve, look after	preserve
+11.24	preserve, look after	lookafter
+11.25	save, rescue	save
+11.25	save, rescue	rescue
+11.27	destroy	destroy
+11.28	harm, injure, damage	harm
+11.28	harm, injure, damage	injure
+11.28	harm, injure, damage	damage
+11.31	seek, look for	seek
+11.31	seek, look for	lookfor
+11.32	find	find
+11.33	lose	lose
+11.34	release, let go	release
+11.34	release, let go	letgo
+11.43	money	money
+11.44	coin	coin
+11.51	rich	rich
+11.52	poor	poor
+11.53	beggar	beggar
+11.54	avaricious, stingy	avaricious
+11.54	avaricious, stingy	stingy
+11.61	lend	lend
+11.62	borrow	borrow
+11.63	owe	owe
+11.64	debt	debt
+11.65	pay (vb)	pay
+11.66	account, reckoning	account
+11.66	account, reckoning	reckoning
+11.69	tax, tribute	tax
+11.69	tax, tribute	tribute
+11.77	hire	hire
+11.78	wages	wages
+11.79	earn	earn
+11.81	buy	buy
+11.82	sell	sell
+11.83	trade, barter	trade
+11.83	trade, barter	barter
+11.84	merchant	merchant
+11.85	market (place)	marketplace
+11.86	store, shop	store
+11.86	store, shop	shop
+11.87	price	price
+11.88	dear (costly, expensive)	dear
+11.88	dear (costly, expensive)	costly
+11.88	dear (costly, expensive)	expensive
+11.89	cheap	cheap
+11.91	share (distribute)	share
+11.91	share (distribute)	distribute
+11.92	weigh	weigh
+12.1	after	after
+12.11	place	behind
+12.2	beside	beside
+12.3	down, below	down
+12.3	down, below	below
+12.4	before	before
+12.41	right (side)	front
+12.5	inside, in	inside
+12.5	inside, in	in
+12.6	outside	outside
+12.7	under	under
+12.8	up, above	up
+12.8	up, above	above
+12.11	place	place
+12.12	put	put
+12.13	sit	sit
+12.14	lie down	liedown
+12.15	stand	stand
+12.16	remain, stay	remain
+12.16	remain, stay	stay
+12.17	remains, left overs	remains
+12.17	remains, left overs	leftovers
+12.21	collect, gather	collect
+12.21	collect, gather	gather
+12.212	pick up	pickup
+12.213	pile up	pileup
+12.22	join, unite	join
+12.22	join, unite	unite
+12.23	separate	separate
+12.232	divide	divide
+12.24	open	open
+12.25	shut, close	shut
+12.25	shut, close	close
+12.26	cover	cover
+12.27	hide, conceal	hide
+12.27	hide, conceal	conceal
+12.31	high	high
+12.32	low	low
+12.33	top	top
+12.34	bottom	bottom
+12.35	end	end
+12.352	pointed	pointed
+12.353	edge	edge
+12.36	side	side
+12.37	middle, center	middle
+12.37	middle, center	center
+12.41	right (side)	right
+12.42	left (side)	left
+12.43	near (adv)	near
+12.44	far (adv)	far
+12.45	east	east
+12.46	west	west
+12.47	north	north
+12.48	south	south
+12.53	grow	grow
+12.54	measure	measure
+12.541	span, fathom	span
+12.541	span, fathom	fathom
+12.55	large, big	large
+12.55	large, big	big
+12.56	small, little	small
+12.56	small, little	little
+12.57	long	long
+12.58	tall	tall
+12.59	short	short
+12.61	wide, broad	wide
+12.61	wide, broad	broad
+12.62	narrow	narrow
+12.63	thick (in dimension)	thick
+12.65	thin (in dimension)	thin
+12.67	deep	deep
+12.68	shallow	shallow
+12.71	flat	flat
+12.73	straight	straight
+12.74	crooked	crooked
+12.75	hook	hook
+12.76	corner	corner
+12.77	cross	cross
+12.78	square	square
+12.81	round	round
+12.82	circle	circle
+12.83	sphere, ball	sphere
+12.83	sphere, ball	ball
+12.84	line	line
+12.85	hole	hole
+12.92	like, similar	like
+12.92	like, similar	similar
+12.93	change	change
+13.0	zero, nothing	zero
+13.0	zero, nothing	nothing
+13.1	one	one
+13.2	two	two
+13.3	three	three
+13.4	four	four
+13.5	five	five
+13.6	six	six
+13.7	seven	seven
+13.8	eight	eight
+13.9	nine	nine
+13.10	ten	ten
+13.101	eleven	eleven
+13.102	twelve	twelve
+13.103	fifteen	fifteen
+13.104	twenty	twenty
+13.105	hundred	hundred
+13.106	thousand	thousand
+13.107	count	count
+13.14	every, all	every
+13.14	every, all	all
+13.15	much, many	much
+13.15	much, many	many
+13.16	more	more
+13.17	little (quantity), few	little
+13.17	little (quantity), few	few
+13.18	enough	enough
+13.181	some	some
+13.19	multitude, crowd	multitude
+13.19	multitude, crowd	crowd
+13.21	full	full
+13.22	empty	empty
+13.23	part, piece	part
+13.23	part, piece	piece
+13.24	half	half
+13.33	alone, only	alone
+13.33	alone, only	only
+13.34	first	first
+13.35	last	last
+13.36	second	second
+13.37	pair	pair
+13.38	two times	twotimes
+13.42	third	third
+13.44	three times	threetimes
+14.11	time	time
+14.12	age	age
+14.13	new	new
+14.14	young	young
+14.15	old	old
+14.16	early	early
+14.17	late	late
+14.18	now	now
+14.19	immediately	immediately
+14.21	swift, fast, quick	swift
+14.21	swift, fast, quick	fast
+14.21	swift, fast, quick	quick
+14.22	slow	slow
+14.23	hasten, hurry	hasten
+14.23	hasten, hurry	hurry
+14.24	retard, delay	retard
+14.24	retard, delay	delay
+14.25	begin, beginning	begin
+14.25	begin, beginning	beginning
+14.252	last, endure	last
+14.252	last, endure	endure
+14.26	end (temporal)	end
+14.27	finish	finish
+14.28	cease, stop	cease
+14.28	cease, stop	stop
+14.29	ready	ready
+14.31	always	always
+14.32	often	often
+14.33	sometimes	sometimes
+14.331	soon	soon
+14.332	long-time (for a)	longtime
+14.34	never	never
+14.35	again	again
+14.41	day	day
+14.42	night	night
+14.43	dawn	dawn
+14.44	morning	morning
+14.45	noon, midday	noon
+14.45	noon, midday	midday
+14.451	afternoon	afternoon
+14.46	evening	evening
+14.47	today	today
+14.48	tomorrow	tomorrow
+14.481	day-after-tomorrow	dayaftertomorrow
+14.49	yesterday	yesterday
+14.491	day-before-yesterday	daybeforeyesterday
+14.51	hour	hour
+14.53	clock, timepiece	clock
+14.53	clock, timepiece	timepiece
+14.61	week	week
+14.62	Sunday	Sunday
+14.63	Monday	Monday
+14.64	Tuesday	Tuesday
+14.65	Wednesday	Wednesday
+14.66	Thursday	Thursday
+14.67	Friday	Friday
+14.68	Saturday	Saturday
+14.71	month	month
+14.73	year	year
+14.74	winter	winter
+14.75	spring	spring
+14.76	summer	summer
+14.77	autumn	autumn
+14.78	season	season
+15.21	smell (vb intrans)	smell
+15.212	sniff	sniff
+15.22	smell (vb trans)	smell
+15.25	fragrant, good smelling	fragrant
+15.25	fragrant, good smelling	goodsmelling
+15.26	stinking, bad smelling	stinking
+15.26	stinking, bad smelling	badsmelling
+15.31	taste	taste
+15.35	sweet	sweet
+15.36	salty	salty
+15.37	bitter	bitter
+15.38	acid, sour	acid
+15.38	acid, sour	sour
+15.39	brackish	brackish
+15.41	hear	hear
+15.42	listen	listen
+15.44	sound, noise	sound
+15.44	sound, noise	noise
+15.45	loud	loud
+15.46	quiet, silence	quiet
+15.46	quiet, silence	silence
+15.51	see	see
+15.52	look, look at	look
+15.52	look, look at	lookat
+15.55	show	show
+15.56	shine	shine
+15.57	bright	bright
+15.61	color	color
+15.62	light (in color)	light
+15.63	dark (in color)	dark
+15.64	white	white
+15.65	black	black
+15.66	red	red
+15.67	blue	blue
+15.68	green	green
+15.69	yellow	yellow
+15.71	touch	touch
+15.712	pinch	pinch
+15.72	feel	feel
+15.74	hard	hard
+15.75	soft	soft
+15.76	rough	rough
+15.77	smooth	smooth
+15.78	sharp	sharp
+15.79	blunt, dull	blunt
+15.79	blunt, dull	dull
+15.81	heavy	heavy
+15.82	light (in weight)	lightweight
+15.83	wet, damp	wet
+15.83	wet, damp	damp
+15.84	dry	dry
+15.85	hot	hot
+15.851	warm	warm
+15.86	cold	cold
+15.87	clean	clean
+15.88	dirty, soiled	dirty
+15.88	dirty, soiled	soiled
+15.89	wrinkled	wrinkled
+16.11	soul, spirit	soul
+16.11	soul, spirit	spirit
+16.15	surprised, astonished	surprised
+16.15	surprised, astonished	astonished
+16.18	good fortune, luck	goodfortune
+16.18	good fortune, luck	luck
+16.19	misfortune, bad luck	misfortune
+16.19	misfortune, bad luck	badluck
+16.23	joyful, glad, happy	joyful
+16.23	joyful, glad, happy	glad
+16.23	joyful, glad, happy	happy
+16.25	laugh	laugh
+16.251	smile	smile
+16.26	play	play
+16.27	love	love
+16.29	kiss	kiss
+16.3	embrace	embrace
+16.31	pain	pain
+16.32	grief, sorrow, sadness	grief
+16.32	grief, sorrow, sadness	sorrow
+16.32	grief, sorrow, sadness	sadness
+16.33	anxiety, worry	anxiety
+16.33	anxiety, worry	worry
+16.34	regret, be sorry	regret
+16.34	regret, be sorry	besorry
+16.35	pity	pity
+16.37	cry, weep	cry
+16.37	cry, weep	weep
+16.38	tear (noun)	tear
+16.39	groan	groan
+16.41	hate	hate
+16.42	anger	anger
+16.44	envy, jealousy	envy
+16.44	envy, jealousy	jealousy
+16.45	shame (noun)	shame
+16.48	proud	proud
+16.51	dare	dare
+16.52	brave	brave
+16.53	fear, fright	fear
+16.53	fear, fright	fright
+16.54	danger	danger
+16.62	desire, want	desire
+16.62	desire, want	want
+16.622	choose	choose
+16.63	hope	hope
+16.65	faithful	faithful
+16.66	true	true
+16.67	lie, tell lies	lie
+16.67	lie, tell lies	telllies
+16.68	deceit	deceit
+16.69	forgive	forgive
+16.71	good	good
+16.72	bad	bad
+16.73	right, correct	right
+16.73	right, correct	correct
+16.74	wrong	wrong
+16.76	fault	fault
+16.77	mistake, error	mistake
+16.77	mistake, error	error
+16.78	blame	blame
+16.79	praise	praise
+16.81	beautiful	beautiful
+16.82	ugly	ugly
+16.83	greedy	greedy
+16.84	clever	clever
+17.11	mind	mind
+17.13	think (= reflect)	think
+17.13	think (= reflect)	reflect
+17.14	think (= be of the opinion)	think
+17.15	believe	believe
+17.16	understand	understand
+17.17	know	know
+17.171	guess	guess
+17.172	imitate	imitate
+17.18	seem	seem
+17.19	idea, notion	idea
+17.19	idea, notion	notion
+17.21	wise	wise
+17.22	foolish, stupid	foolish
+17.22	foolish, stupid	stupid
+17.23	insane, crazy	insane
+17.23	insane, crazy	crazy
+17.24	learn	learn
+17.242	study	study
+17.25	teach	teach
+17.26	pupil	pupil
+17.27	teacher	teacher
+17.28	school	school
+17.31	remember	remember
+17.32	forget	forget
+17.34	clear, plain	clear
+17.34	clear, plain	plain
+17.35	obscure	obscure
+17.36	secret	secret
+17.37	sure, certain	sure
+17.37	sure, certain	certain
+17.38	explain	explain
+17.41	intention, purpose	intention
+17.41	intention, purpose	purpose
+17.42	cause	cause
+17.43	doubt	doubt
+17.44	suspect	suspect
+17.441	betray	betray
+17.45	need, necessity	need
+17.45	need, necessity	necessity
+17.46	easy	easy
+17.47	difficult	difficult
+17.48	try, attempt	try
+17.48	try, attempt	attempt
+17.49	way, manner	way
+17.49	way, manner	manner
+17.51	and	and
+17.52	because	because
+17.53	if	if
+17.54	or	or
+17.55	yes, affirmative	yes
+17.55	yes, affirmative	affirmative
+17.56	no, negative	no
+17.56	no, negative	negative
+17.61	how?	how?
+17.62	how many?	howmany?
+17.63	how much?	howmuch?
+17.64	what?	what?
+17.65	when?	when?
+17.66	where?	where?
+17.67	which?	which?
+17.68	who?	who?
+17.69	why?	why?
+18.11	voice	voice
+18.12	sing	sing
+18.13	shout, cry out	shout
+18.13	shout, cry out	cryout
+18.15	whisper	whisper
+18.16	mumble	mumble
+18.17	whistle	whistle
+18.18	shriek, screech	shriek
+18.18	shriek, screech	screech
+18.19	howl	howl
+18.21	speak, talk	speak
+18.21	speak, talk	talk
+18.211	stutter, stammer	stutter
+18.211	stutter, stammer	stammer
+18.22	say	say
+18.221	tell story	tellstory
+18.222	speech (make a)	speech
+18.23	silent (be)	silent
+18.24	language	language
+18.26	word	word
+18.28	name	name
+18.31	ask (question, inquire)	askquestion
+18.31	ask (question, inquire)	inquire
+18.32	answer	answer
+18.33	admit, confess	admit
+18.33	admit, confess	confess
+18.34	deny	deny
+18.35	ask, request	ask
+18.35	ask, request	request
+18.36	promise	promise
+18.37	refuse	refuse
+18.38	forbid	forbid
+18.39	rebuke, scold	rebuke
+18.39	rebuke, scold	scold
+18.41	call (=summon)	call
+18.41	call (=summon)	summon
+18.42	call (=name)	callbyname
+18.43	announce	announce
+18.44	threaten	threaten
+18.45	boast	boast
+18.51	write	write
+18.52	read	read
+18.56	paper	paper
+18.57	pen	pen
+18.61	book	book
+18.67	poet	poet
+18.71	flute	flute
+18.72	drum	drum
+18.73	horn, trumpet	horn
+18.73	horn, trumpet	trumpet
+18.74	rattle	rattle
+19.11	country	country
+19.12	one's native country	one'snativecountry
+19.15	city, town	city
+19.15	city, town	town
+19.16	village	village
+19.17	boundary	boundary
+19.21	people (populace)	people
+19.21	people (populace)	populace
+19.23	tribe, clan	tribe
+19.23	tribe, clan	clan
+19.24	chief, chieftain	chief
+19.24	chief, chieftain	chieftain
+19.25	staff, walking stick	staff
+19.25	staff, walking stick	walkingstick
+19.31	rule, govern	rule
+19.31	rule, govern	govern
+19.32	king, ruler	king
+19.32	king, ruler	ruler
+19.33	queen	queen
+19.36	noble, nobleman	noble
+19.36	noble, nobleman	nobleman
+19.37	citizen, subject	citizen
+19.37	citizen, subject	subject
+19.41	master	master
+19.42	slave	slave
+19.43	servant	servant
+19.44	freeman	freeman
+19.45	command, order	command
+19.45	command, order	order
+19.46	obey	obey
+19.47	let, permit	let
+19.47	let, permit	permit
+19.51	friend, companion	friend
+19.51	friend, companion	companion
+19.52	enemy	enemy
+19.54	neighbor	neighbor
+19.55	stranger	stranger
+19.56	guest	guest
+19.57	host	host
+19.58	help, aid	help
+19.58	help, aid	aid
+19.59	hinder, prevent	hinder
+19.59	hinder, prevent	prevent
+19.61	custom	custom
+19.62	strife, quarrel	strife
+19.62	strife, quarrel	quarrel
+19.63	conspiracy, plot	conspiracy
+19.63	conspiracy, plot	plot
+19.65	meet	meet
+19.72	prostitute	prostitute
+20.11	fight (vb)	fight
+20.13	war, battle	war
+20.13	war, battle	battle
+20.14	peace	peace
+20.15	army	army
+20.17	soldier	soldier
+20.21	weapons, arms	weapons
+20.21	weapons, arms	arms
+20.22	club	club
+20.222	battle-ax	battleax
+20.23	sling	sling
+20.24	bow	bow
+20.25	arrow	arrow
+20.26	spear	spear
+20.27	sword	sword
+20.28	gun, cannon	gun
+20.28	gun, cannon	cannon
+20.31	armor (defensive)	armor
+20.33	helmet	helmet
+20.34	shield	shield
+20.35	fortress	fortress
+20.36	tower	tower
+20.41	victory	victory
+20.42	defeat	defeat
+20.43	attack	attack
+20.44	defend	defend
+20.45	retreat	retreat
+20.46	surrender	surrender
+20.47	captive, prisoner	captive
+20.47	captive, prisoner	prisoner
+20.471	guard, sentinel	guard
+20.471	guard, sentinel	sentinel
+20.48	booty, spoils	booty
+20.48	booty, spoils	spoils
+20.49	ambush	ambush
+20.51	fisherman	fisherman
+20.52	fishhook	fishhook
+20.53	fishing line	fishingline
+20.54	fishnet	fishnet
+20.55	fish trap	fishtrap
+20.56	bait	bait
+20.61	hunt	hunt
+20.62	shoot	shoot
+20.63	miss (target)	misstarget
+20.64	trap (noun)	trap
+20.65	trap (vb)	trap
+21.11	law	law
+21.15	court	court
+21.16	judge (vb)	judge
+21.17	judgment	judgment
+21.18	judge (noun)	judge
+21.21	plaintiff	plaintiff
+21.22	defendant	defendant
+21.23	witness	witness
+21.24	swear	swear
+21.25	oath	oath
+21.31	accuse	accuse
+21.32	condemn	condemn
+21.33	convict (vb)	convict
+21.34	acquit	acquit
+21.35	guilty	guilty
+21.36	innocent	innocent
+21.37	penalty, punishment	penalty
+21.37	penalty, punishment	punishment
+21.38	fine	fine
+21.39	prison, jail	prison
+21.39	prison, jail	jail
+21.42	murder	murder
+21.43	adultery	adultery
+21.44	rape	rape
+21.46	arson	arson
+21.47	perjury	perjury
+21.51	steal	steal
+21.52	thief	thief

@@ -1,0 +1,1377 @@
+@classification: Zamucoan
+@ids-name: Ayoreo_Phonemic
+@iso: ayo
+@language: Ayoreo
+@size: 1370
+@source: ids
+@variety: std
+1.1	world	e'ramoneʔ
+1.21	earth, land	pačami'ni
+1.212	earth=ground, soil	n̥u'mi
+1.213	dust	u'rui
+1.214	mud	pakataari'ŋeei
+1.215	sand	u'n̥a
+1.22	mountain, hill	oro'kodaa'te
+1.222	cliff, precipice	parari'ŋekedaa'tei
+1.23	plain, field	ga'ray
+1.24	valley	pari'ŋeeoneʔ
+1.25	island	abu'e
+1.27	shore	e'dogaay
+1.28	cave	kuka'ratedo
+1.31	water	yoo'di
+1.32	sea	yooteke'den̥ai
+1.324	foam	i'karara
+1.33	lake	gaa'ɲ̥oo
+1.341	lagoon	gaa'ɲ̥oo
+1.35	wave	yoteke'den̥aieebi'e
+1.36	river, stream, brook	tii'e
+1.37	spring, well	si'mii
+1.38	swamp	'gaare
+1.41	woods, forest	e'rami
+1.42	tree (cf 08.600)	poo'ria
+1.43	wood	eero'godeʔ
+1.44	stone, rock	kukara'ne
+1.45	earthquake	n̥u'mitaaraa'čui
+1.51	sky	gaa'teei
+1.52	sun	gee'deʔ
+1.53	moon	geedo'sideʔ
+1.54	star	'geedo
+1.55	lightning	a'n̥oraapie
+1.56	thunder	'geeodeuruu'odeʔ
+1.58	storm	geeya'ken̥ai
+1.59	rainbow	ake'sua
+1.61	light (noun)	'diirekariŋeei
+1.62	darkness	i'n̥aŋunuua
+1.63	shade, shadow	oo're
+1.64	dew	poka'di
+1.71	air	ibo'di
+1.72	wind	ee'mi
+1.73	cloud	geei
+1.74	fog	hee'si
+1.75	rain (noun)	geei
+1.77	ice	'eebeedieʔ
+1.78	weather	de'ren̥ai
+1.81	fire	pii'oi
+1.82	flame (noun)	oka'raidieʔ
+1.83	smoke (noun)	ii'oti
+1.84	ashes	'uučuku'rui
+1.841	embers	ge'geraadeʔ
+1.851	burn (vb trans)	ã'ru
+1.86	light, kindle, ignite	i'potaa
+1.86	light, kindle, ignite	ike'taʔ
+1.861	extinguish	aa'n̥iʔ
+1.87	match (noun)	piio'gabi
+1.88	firewood	eero'godeʔ
+1.89	charcoal	ge'geraai
+2.1	person, human being	ayo're
+2.21	man (vs. woman)	ayo'rei
+2.22	woman	ayo're
+2.23	male	čo'ki
+2.23	male	n̥ãka'ri
+2.23	male	n̥ãã'ni
+2.24	female	čee'ke
+2.25	boy	dii'si
+2.251	young man (adolescent)	n̥aka'ri
+2.26	girl	dii'sia
+2.261	young woman (adolescent)	gaa'pua
+2.27	child	diisa'bi
+2.28	infant, baby	diiyo'ki
+2.31	husband	a'bay
+2.32	wife	ako'te
+2.33	marry	'oohi'gaariʔ
+2.341	divorce	i'hiomeʔ
+2.35	father	daa'ye
+2.36	mother	daa'te
+2.37	parents	daa'yodeʔ
+2.38	married man	n̥aa'ni
+2.39	married woman	ako'te
+2.41	son	a'bi
+2.42	daughter	a'bia
+2.43	offspring (son or daughter)	a'bi
+2.43	offspring (son or daughter)	a'bia
+2.44	brother	hõ'rai
+2.444	older brother	u'yaai
+2.445	younger brother	de'saai
+2.45	sister	hõ'ra
+2.45	sister	nee'ro
+2.454	older sister	uɲa'ria
+2.454	older sister	ũre'hã
+2.455	younger sister	i'naamia
+2.456	sibling	hõ'rai
+2.456	sibling	hõ'ra
+2.458	twins	gara'haadeʔ
+2.46	grandfather	'daakideʔ
+2.461	old man	čo'kin̥ai
+2.47	grandmother	da'koodeʔ
+2.471	old woman	gaa'ta
+2.48	grandson	'aan̥ami
+2.49	granddaughter	'aan̥ame
+2.51	uncle	daaiu'ɲaai
+2.511	mother's brother	ira'mai
+2.511	mother's brother	nira'mai
+2.512	father's brother	dakera'mai
+2.512	father's brother	dake'raai
+2.52	aunt	daa'teu'ɲaa
+2.521	mother's sister	daa'teramia
+2.521	mother's sister	daa'terama
+2.522	father's sister	i'n̥oŋama
+2.522	father's sister	i'n̥ogaa'te
+2.53	nephew	apu'ɲaai
+2.54	niece	apu'ɲaa
+2.55	cousin	hõ'rai
+2.55	cousin	hõ'ra
+2.56	ancestors	'n̥aaniba'haadeʔ
+2.57	descendants	'apediisie'hodeʔ
+2.61	father-in-law (of a man)	e'hooi
+2.611	father-in-law (of a woman)	e'hooi
+2.62	mother-in-law (of a man)	e'hoo
+2.621	mother-in-law (of a woman)	e'hoo
+2.63	son-in-law (of a man)	i'saraai
+2.63	son-in-law (of a man)	e'hooi
+2.631	son-in-law (of a woman)	i'saraai
+2.631	son-in-law (of a woman)	e'hooi
+2.64	daughter-in-law (of a man)	daka'ria
+2.64	daughter-in-law (of a man)	e'hoo
+2.641	daughter-in-law (of a woman)	daka'ria
+2.641	daughter-in-law (of a woman)	e'hoo
+2.71	stepfather	daa'yebe'ɲ̥ui
+2.72	stepmother	daa'tei'beɲ̥ua
+2.73	stepson	apeibe'ɲ̥ui
+2.74	stepdaughter	apei'beɲ̥ua
+2.75	orphan	diisi'haadi
+2.76	widow	čeekee'ka
+2.77	widower	n̥a'kareee'ka
+2.81	relatives, kinsmen	igio'sodeʔ
+2.82	family	hoga'sui
+2.91	I	yu
+2.91	I	uu'yu
+2.92	you (singular)	ua
+2.93	he/she/it	uu'teʔ
+2.93	he/she/it	uaa'teʔ
+2.94	we	'yokeʔ
+2.94	we	uu'yokeʔ
+2.95	you (plural)	'uakeʔ
+2.95	you (plural)	uak
+2.96	they	o'reeʔ
+3.11	animal	kučii'sooi
+3.12	male (adj)	čo'ki
+3.13	female (adj)	čee'ke
+3.16	pasture	n̥aakara'pui
+3.18	herdsman	ka'baayudieirodi'soorĩ
+3.19	stable, stall	ka'baayudiei'gin̥ai
+3.2	cattle (bovine)	ka'baayudieʔ
+3.21	bull	i
+3.22	ox	ka'baayua'beraai
+3.23	cow	ka'baayua
+3.23	cow	aki'ra
+3.24	calf	ka'baayabi
+3.25	sheep	'ayasadieʔ
+3.26	ram	'ayasai
+3.28	ewe	'ayasa
+3.29	lamb	'ayasabi
+3.32	boar	ɲaako'reke'den̥ai
+3.34	sow	ɲaako'reke'den̥a
+3.35	pig	dosi'peei
+3.36	goat	a'ramoroke'den̥a
+3.37	he-goat	a'ramoroke'den̥ai
+3.38	kid	a'ramoroke'den̥ami
+3.41	horse (equine)	'kai
+3.42	stallion	buri'kai
+3.44	mare	burikačee'ke
+3.45	foal, colt	burikačo'kabi
+3.46	ass, donkey	burikake'den̥a
+3.47	mule	buri'kai
+3.5	fowl	kooča'gaan̥a
+3.52	cock, rooster	kooča'gaan̥ai
+3.54	hen	kooča'gaan̥a
+3.55	chicken	'kooča'gaan̥ami
+3.57	duck	n̥aa'kon̥ai
+3.58	nest	i'gin̥aai
+3.581	bird	ču'ŋuperẽ
+3.586	vulture	ãra'potorĩ
+3.591	bat	čaabo'to
+3.592	parrot	suaria
+3.593	crow	'tamore
+3.594	dove	kuuku'huui
+3.596	owl	digoro'koi
+3.61	dog	tamo'koi
+3.614	rabbit	e'dorobee
+3.62	cat	kaari'n̥ai
+3.63	mouse, rat	puuku'to
+3.65	fish	o'yidi
+3.652	fin (dorsal)	o'n̥ai
+3.655	shell	ka'ričaai
+3.664	stingray	dikaa're
+3.665	freshwater eel	neti'ŋori
+3.72	lion	kara'tee
+3.74	fox	arapuru'n̥aŋe
+3.75	deer	a'ramoro
+3.76	monkey	yamee'paai
+3.77	elephant	ya'hogeke'den̥ai
+3.78	camel	burikake'den̥ai
+3.811	louse	n̥a'rĩ
+3.811	louse	n̥areke'den̥ai
+3.813	flea	'kučaakaya'to
+3.814	centipede	poo'raai
+3.815	scorpion	sua'rečee'ke
+3.817	ant	kaase'kaai
+3.818	spider	'heesabe
+3.819	spider web	heesa'bia
+3.82	bee	ahi'di
+3.821	beeswax	e'nočaai
+3.822	beehive	ahi'di
+3.822	beehive	kũ'terĩ
+3.83	fly	huu'bi
+3.831	sandfly (midge), gnat	huu'tabia
+3.832	mosquito	'koboto
+3.84	worm	uhu'ri
+3.85	snake	u'gaai
+3.91	firefly	bee'bui
+3.92	butterfly	kan̥ooi
+3.93	grasshopper	čugu'yuga
+3.94	snail	'haro
+3.95	frog	ni'kore
+3.96	lizard	nee'nei
+3.97	crocodile, alligator	ã'rokonake'den̥ai
+3.98	turtle	'yokai
+4.11	body	gaay
+4.11	body	'uudodeʔ
+4.12	skin, hide	a'ooi
+4.13	flesh	a'ooi
+4.13	flesh	a'ragaɲ̥ua
+4.14	hair (head)	gaa'terero
+4.142	beard	abu'haasii
+4.144	body hair	o'hoi
+4.15	blood	i'yoi
+4.151	vein, artery	'kukuray
+4.16	bone	an̥okeei
+4.162	rib	orotabi'di
+4.17	horn	u'ei
+4.18	tail	ka'ri
+4.19	back	giido'booi
+4.191	spine	oo'hi
+4.2	head	gaa'toi
+4.203	brain	ta'rooi
+4.204	face	e'dodieʔ
+4.205	forehead	eedahi'di
+4.208	cheek	u're
+4.209	chin	abu'haa
+4.21	eye	e'do
+4.212	eyebrow	e'dogaay
+4.213	eyelid	e'dogaateei
+4.214	eyelash	eeda'bia
+4.22	ear	a'ŋorone
+4.221	earlobe	a'ŋorone
+4.23	nose	kõra'čuui
+4.231	nostril	ũ'hunaai
+4.232	mucus (nasal)	ũkara'ni
+4.24	mouth	pin̥a'ni
+4.241	beak	pã'tarãai
+4.25	lip	pin̥a'naai
+4.26	tongue	a'reei
+4.27	tooth	pã'tarãai
+4.272	molartooth	ũri'aõi
+4.28	neck	eeta'bi
+4.281	nape of neck	eeta'bidi
+4.29	throat	puusu'guui
+4.3	shoulder	orota'de
+4.301	shoulderblade	nara'ne
+4.31	arm	m̥a'nero
+4.31	arm	m̥a'nekaai
+4.312	armpit	u'raya
+4.32	elbow	uka'do
+4.321	wrist	m̥a'negaata'de
+4.33	hand	m̥a'naay
+4.331	palm of hand	m̥anaayã'haro
+4.34	finger	m̥a'ne
+4.342	thumb	m̥a'nenaa'te
+4.344	fingernail	'uusugurui
+4.345	claw	'uusugurui
+4.35	leg	oota'di
+4.351	thigh	e'tarudi
+4.352	calf of leg	oota'dabi
+4.36	knee	kaata'de
+4.37	foot	'giidaai
+4.371	ankle	'giidogoro
+4.372	heel	uha'tase
+4.374	footprint	a'ro
+4.38	toe	gii'de
+4.392	wing	u'n̥ooi
+4.393	feather	ãra'ma
+4.4	chest	'arobe
+4.41	breast (of woman)	i'n̥a
+4.412	nipple, teat	i'n̥apin̥a'ni
+4.43	navel	o'do
+4.44	heart	i'yobie
+4.441	lung	pu'n̥ui
+4.45	liver	abi'to
+4.451	kidney	ipira'guua
+4.452	spleen	agu'te
+4.46	stomach	a'heei
+4.461	intestines, guts	u'čaai
+4.462	waist	i'ra
+4.462	waist	pipa'heei
+4.463	hip	'oogoro
+4.464	buttocks	ča'kii
+4.47	womb	i'ka
+4.492	penis	gapu'di
+4.51	breathe, breath	uɲ̥a'ri
+4.52	yawn, gape	itiboo'ha?
+4.521	hiccough	'segei
+4.53	cough	ooyura'heeʔ
+4.54	sneeze	ooha'tiseʔ
+4.55	perspire	oo'm̥ara'm̥ara
+4.56	spit	ũ'tirahaʔ
+4.57	vomit	'ipogaai
+4.58	bite	i'gaaseʔ
+4.59	lick	i'peseʔ
+4.591	dribble	čoočiri'rik
+4.61	sleep	i'moʔ
+4.612	snore	ooyũkara'toodeʔ
+4.62	dream	ĩĩ'karã
+4.63	wake up	ooku'yuk
+4.63	wake up	iri'hiʔ
+4.65	urinate	'ereʔ
+4.66	defecate	u'čiʔ
+4.67	have sexual intercourse	a'muna
+4.67	have sexual intercourse	u'muna
+4.68	shiver	ĩtara'rãʔ
+4.69	bathe	u'ruu
+4.71	beget (of father)	i'peesuya'bi
+4.72	born (to be)	i'baaseʔ
+4.73	pregnant	i'ka'deehia'heei
+4.74	live, living, life	ee'kai
+4.74	live, living, life	ue'kai
+4.75	die, dead	tooi
+4.76	kill	u'heeʔ
+4.77	corpse	tooi
+4.77	corpse	too'ge
+4.78	bury (the dead)	i'hoo'čameʔ
+4.79	grave, tomb	du'koode
+4.81	strong, mighty, powerful	ee'toi
+4.82	weak	taayaa'gom̥ai
+4.83	well, health	a'rei
+4.83	well, health	a'rege
+4.84	sick, sickness	een̥aa'retããi
+4.841	fever	aheeino'taniŋai
+4.842	goiter	poto'goro
+4.843	cold (catarrh)	dukura'hee
+4.85	wound, sore	u'goro
+4.85	wound, sore	an̥a'ŋooi
+4.852	bruise	i'harooʔ
+4.853	swelling	geen̥aari'ŋai
+4.854	itch	do'riteʔ
+4.855	blister	ua'rane
+4.856	boil (noun)	duko'si
+4.857	pus	u'rooneʔ
+4.858	scar	'kučaaimani'pidi
+4.86	cure, heal	ike'taʔ
+4.87	physician	dai'n̥ai
+4.88	medicine, drug	bisi'di
+4.89	poison	bisi'di
+4.91	tired, weary	hu're
+4.912	rest	'akariŋeei
+4.92	lazy	ĩtora'rahaʔ
+4.93	bald	gaa'todiičai
+4.94	lame	ta'toi
+4.94	lame	ta'toge
+4.95	deaf	aŋoniŋite'pari
+4.96	mute	isooraa'ŋom̥ai
+4.97	blind	e'dopari
+4.97	blind	e'dopare
+4.98	intoxicated	yootepii'oiyuui
+4.99	naked, bare	čo'ki
+4.99	naked, bare	čo'kia
+5.11	eat	a'gu
+5.11	eat	'akeʔ
+5.12	food	poo'sodeʔ
+5.121	cooked	u'ɲui
+5.121	cooked	u'ɲua
+5.122	raw	u'ɲeŋameei
+5.123	ripe	ka'ŋuraai
+5.123	ripe	ka'ŋuraa
+5.124	green, unripe	u'poi
+5.124	green, unripe	u'po
+5.125	rotten	tara'taai
+5.125	rotten	tara'taage
+5.13	drink	'oohiʔ
+5.14	hunger	čagu'ei
+5.141	famine	čagu'edaatei
+5.15	thirst	u'yadi
+5.15	thirst	uuya'ga
+5.16	suck	u'kuʔ
+5.18	chew	agu
+5.18	chew	akeʔ
+5.181	swallow	i'nireʔ
+5.19	choke	čoo'm̥uŋa
+5.21	cook	ãa'reʔ
+5.22	boil (vb)	da'hateʔ
+5.23	roast, fry	ãra'hureʔ
+5.23	roast, fry	ĩra'hureʔ
+5.24	bake	ye'homeʔ
+5.26	pot, cooking vessel	pĩra'kã
+5.27	kettle	pĩra'kã
+5.31	dish	aga'pii
+5.31	dish	geedo'si
+5.32	plate	aga'pii
+5.32	plate	geedo'si
+5.33	bowl	aga'pii
+5.33	bowl	geedo'si
+5.34	pitcher, jug	koo
+5.35	cup, drinking vessel	'hopii'di
+5.35	cup, drinking vessel	'hopii'de
+5.36	saucer	agapii'abi
+5.37	spoon	ka'tibeei
+5.38	knife	kee'seei
+5.391	tongs	'kučaapa'tarãai
+5.46	peel	u'ɲ̥uukegaay
+5.47	sieve, strain	in̥i'ŋeɲomeei
+5.48	scrape	a'hoʔ
+5.49	stir, mix	imee'ra
+5.49	stir, mix	imee'sa
+5.51	bread	aru'eei
+5.54	knead	iho'kaasearu'eei
+5.55	meal, flour	u'rui
+5.56	crush, grind	i'harooʔ
+5.58	mortar	uguu'tadi
+5.59	pestle	ãra'ŋe
+5.61	meat	a'ragaɲ̥ua
+5.64	soup, broth	ota'di
+5.66	bean	ku'geei
+5.71	fruit	aa
+5.712	bunch	u'buui
+5.712	bunch	apa'gadi
+5.77	nut	a'ɲ̥ua
+5.79	oil	'kučaaaairi'si
+5.791	grease, fat	ii
+5.791	grease, fat	'kučaa'iiodeʔ
+5.81	salt	e'čoi
+5.821	chili pepper	'n̥uui
+5.84	honey	kũ'terĩ
+5.86	milk (noun)	iri'si
+5.9	beverage, drink	ota'di
+5.91	mead	ku'terota'di
+5.94	fermented drink	yootepii'oi
+5.97	egg	kũ'reei
+5.971	egg yolk	'sarẽ
+6.11	put on (clothes)	i'giʔ
+6.12	clothing, clothes	bo'raa
+6.12	clothing, clothes	bo'raaidieʔ
+6.13	tailor	ugaa'soorĩ
+6.13	tailor	'ŋoori'to
+6.21	cloth	bo'raa
+6.24	cotton	n̥a'tua
+6.28	fur	kučaa'ooi
+6.31	spin	u'kareʔ
+6.33	weave	i'oʔ
+6.33	weave	i'ohaʔ
+6.35	sew	u'gaaʔ
+6.36	needle	oo'n̥aai
+6.38	thread	n̥a'tua
+6.39	dye	a'kaʔ
+6.411	poncho	ka'duuaa'ooi
+6.42	woman's dress	igi'de
+6.44	shirt	igi'de
+6.45	collar	eetabi
+6.46	skirt	ori'di
+6.48	trousers	e'tarutepi'edieʔ
+6.49	stocking, sock	gii'daaypie
+6.51	shoe	'giidaai
+6.51	shoe	uči'edi
+6.55	hat, cap	gaa'tohee
+6.57	belt, girdle	igaru'bi
+6.58	glove	'm̥anepie
+6.61	pocket	uepeei
+6.62	button	para'tase
+6.73	ring (for finger)	'm̥anepie
+6.75	necklace	u'huni
+6.75	necklace	u'n̥apeei
+6.76	bead	'araguua
+6.78	headband, headdress	'kobia
+6.78	headband, headdress	a'yoi
+6.81	handkerchief, rag	ũkara'noneʔe'rasoorĩ
+6.91	comb	poo'peei
+6.94	ointment	bisi'di
+6.95	soap	bo'raaidieʔe'rasoorĩ
+6.96	mirror	ahiikara'ni
+7.11	dwell, live	ikee'kaʔ
+7.12	house	i'gin̥aai
+7.15	yard, court	pie
+7.21	room	hoga'di
+7.22	door, gate	pia'goi
+7.25	window	gi'gin̥aaiedo
+7.26	floor	n̥u'mi
+7.27	wall	doosa'di
+7.27	wall	gi'gin̥aai
+7.31	fireplace	n̥upu'yuriŋeei
+7.32	stove	ike'taai
+7.33	chimney	uyu'n̥aniegãra'ne
+7.37	ladder	a'n̥apie
+7.42	bed	mo'čaapii
+7.421	pillow	uguuta'de
+7.422	blanket	pe'peei
+7.43	chair	čaari'pii
+7.44	table	aga'pii
+7.45	lamp, torch	aa'posi
+7.51	roof	gi'gin̥aai'ooho
+7.56	post, pole	ku'tadi
+7.58	arch	'dokoohi
+8.11	farmer	gee'n̥aaiahoo'ŋoori
+8.12	field (for cultivation)	ko'rakabia
+8.15	cultivate, till	iča'gun̥u'mi
+8.17	ditch	tui'n̥ai
+8.22	dig	i'hoočaʔ
+8.24	shovel	kora'ŋaraai
+8.31	sow	a'kaʔ
+8.311	seed	a'ɲ̥ua
+8.32	mow, reap	'iirãa
+8.33	sickle, scythe	a'ramui
+8.34	thresh	inaa'suʔ
+8.41	crop, harvest	ĩi'raai
+8.41	crop, harvest	ii'raaŋe
+8.42	grain (barley, oats etc)	e'do
+8.43	wheat	n̥aaka'raai
+8.47	maize, corn	edoee'toi
+8.47	maize, corn	edoua'hadi
+8.51	grass	n̥aaka'raai
+8.52	hay	n̥aaka'raai
+8.53	plant (noun)	a'kaai
+8.53	plant (noun)	a'ka
+8.531	plant (vb)	a'kaʔ
+8.54	root	ta'posi
+8.55	branch	m̥a'nekaai
+8.56	leaf	poorãaka'raai
+8.57	flower	a'sige
+8.6	tree	poo'ria
+8.6	tree	poo'ri
+8.67	vine	ere'n̥atoto'toi
+8.68	tobacco	si'di
+8.691	pipe	boi'n̥aai
+8.73	tree trunk	e'ro
+8.74	forked branch	u'haai
+8.75	bark	poora'ooi
+8.76	sap	iri'si
+8.76	sap	poo'riairi'si
+8.81	palm tree	pi'kaadei
+8.84	banana tree	'unoroke'den̥a
+8.92	tapioca, manioc, cassava	pe'heei
+8.931	pumpkin, squash	pu'ruua
+8.94	bamboo	i'gooi
+8.941	sugar cane	'geen̥ake'den̥ai
+8.96	fish poison (root)	ere'n̥aibisi'di
+8.98	mushroom	puu
+9.11	do, make	i'peesu
+9.12	work	i'saaye'hodeʔ
+9.14	bend	ipo'kasu
+9.15	fold	ipo'kasu
+9.16	tie, bind	iga'ru
+9.161	untie	ee'ɲ̥uʔ
+9.18	chain	'enueioo'n̥ai
+9.18	chain	'enueioo'n̥aneʔ
+9.19	rope, cord	'enuei
+9.19	rope, cord	ča'gen̥ai
+9.192	knot (noun)	u'goro
+9.192	knot (noun)	apara'ne
+9.21	strike (hit, beat)	u'heeʔ
+9.211	pound with fist	i'ŋira
+9.211	pound with fist	u'heeʔ
+9.22	cut	akesuʔ
+9.221	cut down	ake'suahan̥u'mi
+9.222	chop, hew	i'n̥oŋaay
+9.23	knife	kee'seei
+9.24	scissors, shears	kee'seenu'ŋaramoneʔ
+9.25	ax	ahi'neree
+9.25	ax	ge'bee'kahi'de
+9.26	break	i'beroʔ
+9.261	broken	ibe'rooi
+9.261	broken	i'bero
+9.27	split	a'hukeʔ
+9.27	split	ĩpoo'čereʔ
+9.28	tear	aan̥iŋa'raseʔ
+9.28	tear	aan̥aŋa'raseʔ
+9.29	flay, skin	u'ɲ̥uukegaay
+9.31	rub, wipe	ipori'gaseʔ
+9.32	stretch	aayo'udi
+9.33	pull	i'meereʔ
+9.34	spread out	ii'ŋireʔ
+9.341	hang up	'eeŋameʔ
+9.342	press	a'rosegaay
+9.343	squeeze, wring	ido'ta
+9.343	squeeze, wring	ĩ'rie
+9.35	pour	'oon̥eʔ
+9.36	wash	u'ruu
+9.37	sweep	ari'getaʔ
+9.37	sweep	a'hoʔ
+9.38	broom	aho'soorĩ
+9.38	broom	aho'to
+9.422	tool	e'rasoorĩ
+9.422	tool	e'rato
+9.44	build	i'peesu
+9.46	bore	uu'sagahaʔ
+9.461	hollow out	aro'sahagaay
+9.5	nail	oon̥aa'kero
+9.56	glue	'kučaakẽei
+9.64	gold	ge'beekenaaŋana'taai
+9.65	silver	diea'honĩŋai
+9.67	iron	ge'beei
+9.69	tin, tinplate	ge'beekaooi
+9.71	potter	'daačora'soorĩ
+9.73	clay	pora'gadi
+9.73	clay	daača'beei
+9.74	glass	a'hiikarani
+9.74	glass	'araɲ̥ua
+9.75	weave, plait	i'oʔ
+9.75	weave, plait	i'ohaʔ
+9.76	basket	'enueigii'pee
+9.79	fan (noun)	pee'ye
+9.791	fan (vb)	u'buču
+9.84	chisel	i'n̥oosi
+9.88	paint (noun)	ee'so
+9.88	paint (noun)	kuru'depoo'riaaa
+9.89	paint (vb)	ũ'rusãrei'gin̥aai
+10.11	move	i'hooseʔ
+10.12	turn over	umu'časeʔ
+10.13	turn around	aa'n̥iʔ
+10.13	turn around	aa'n̥ihiʔ
+10.14	wind, wrap	iga'rugaay
+10.15	roll	ipo'kasu
+10.16	drop (vb)	i'baaseʔ
+10.17	twist	i'meereʔ
+10.21	rise	iri'hĩʔ
+10.22	raise, lift	iriŋareʔ
+10.22	raise, lift	oo'reigaa'tee
+10.23	fall	ĩi'koorãʔ
+10.24	drip	doo'tiʔ
+10.24	drip	čoo'čiri'rik
+10.24	drip	čootestes
+10.25	throw	a'tareʔ
+10.25	throw	ati'ŋaareʔ
+10.252	catch (ball)	i'saaʔ
+10.26	shake	ĩtara'rã
+10.26	shake	ootatatata
+10.32	flow	čaa'yoʔ
+10.35	swim	i'hitutu'ne
+10.352	splash	u'm̥utegaay
+10.37	fly (vb)	ii'yoʔ
+10.38	blow	u'buču
+10.41	creep, crawl	ooɲ̥a
+10.42	slide, slip	ikaru'n̥ahiʔ
+10.42	slide, slip	ooka'ruhiʔ
+10.43	jump, leap	ãa'čerẽʔ
+10.43	jump, leap	i'gačoohiʔ
+10.431	kick	uu'čieʔ
+10.431	kick	uuči'en̥aʔ
+10.44	dance	ĩ'račũʔ
+10.45	walk	ĩi'rikeʔ
+10.45	walk	i'kaiʔ
+10.45	walk	i'kahiʔ
+10.46	run	aa'yoʔ
+10.47	go	i'hi
+10.471	go up	i'kahiʔ
+10.472	climb	ee'ru
+10.472	climb	oo'ru
+10.473	go down	iramu'raaseʔ
+10.474	go out	i'kahigee'si
+10.48	come	i'bagi
+10.481	come back	aa'n̥i
+10.481	come back	aa'n̥ihiʔ
+10.49	go away, depart	i'hi
+10.491	disappear	ibin̥aʔ
+10.491	disappear	i'n̥aŋi
+10.51	flee	aa'yoʔ
+10.51	flee	aa'yomeʔ
+10.52	follow	a'n̥aʔ
+10.53	pursue	i'hokaraameʔ
+10.55	reach, arrive	'iiseʔ
+10.55	reach, arrive	i'saaseʔ
+10.56	approach	ĩi'roreʔ
+10.57	enter	aa'kahaʔ
+10.61	carry (bear)	i'n̥oŋahaʔ
+10.612	carry-in-hand	ii'n̥a
+10.613	carry-on-shoulder	i'n̥okeʔ
+10.62	bring	ihi
+10.63	send	i'rokeʔ
+10.64	lead (vb)	oo'rehiʔ
+10.64	lead (vb)	i'hina
+10.65	drive	iho'kaaseʔ
+10.66	ride	ĩiri'gihikai
+10.67	push, shove	uku'aseʔ
+10.67	push, shove	uru'guseʔ
+10.71	road	da'here
+10.72	path	gaa'bi
+10.72	path	pii'hooi
+10.74	bridge	ira'miɲahariŋeei
+10.75	carriage, wagon, cart	ge'beekedaa'tei
+10.76	wheel	du'guua
+10.81	ship	kuu'kokeruui
+10.83	boat	kuu'koi
+10.831	canoe	kuu'koi
+10.85	oar	kuu'koiihora'ŋai
+10.851	paddle (noun)	orota'de
+10.852	row (vb)	iho'kaasekuu'koi
+10.89	anchor	kuu'koiisaa'ŋurui
+10.91	harbor, port	yooteke'den̥aoo'koro
+10.92	land (vb)	uu'sagahaʔ
+11.11	have	'kuuseʔ
+11.12	own, possess	aa'čia
+11.13	take	i'saaʔ
+11.13	take	aa'pusahaʔ
+11.14	seize, grasp	aa'sera
+11.15	hold	i'saaʔ
+11.16	get, obtain	giiya'soorĩ
+11.16	get, obtain	giiya'ŋoori
+11.17	keep, retain	i'roteʔ
+11.17	keep, retain	ã'rakeʔ
+11.18	thing	'kučaa
+11.21	give	ii'siʔ
+11.21	give	ii'siomeʔ
+11.22	give back	a'tireʔ
+11.24	preserve, look after	i'm̥arahaʔ
+11.24	preserve, look after	a'ɲurugi'o
+11.25	save, rescue	ike'taʔ
+11.27	destroy	so'karomeʔ
+11.27	destroy	uku'aseʔ
+11.28	harm, injure, damage	či'gokarikeʔ
+11.31	seek, look for	uku'e
+11.32	find	'iiseʔ
+11.33	lose	i'n̥aŋi
+11.33	lose	ibi'n̥aʔ
+11.34	release, let go	ii'ogaay
+11.34	release, let go	'irãa
+11.43	money	dieʔ
+11.51	rich	u'gučarãai
+11.51	rich	u'gučarẽe
+11.52	poor	maatai
+11.52	poor	maata'ge
+11.52	poor	m̥aa'tai
+11.53	beggar	u'taisoorĩ
+11.53	beggar	u'taiŋoori
+11.54	avaricious, stingy	ipotiga'kedaatesõo'ri
+11.61	lend	'õoraomei'n̥oosekaru'bi
+11.62	borrow	ooi'n̥oosekaru'bihiʔ
+11.63	owe	ooi'n̥oosekaru'bihiʔ
+11.64	debt	i'n̥oosekaru'bi
+11.64	debt	apa'rei
+11.64	debt	apa're
+11.65	pay (vb)	oooo're
+11.66	account, reckoning	a'hiiregaa'n̥eenieʔ
+11.77	hire	i'rokeahairo'keei
+11.78	wages	gera'neniei
+11.79	earn	i'hiiro'keei
+11.81	buy	i'hioo'redieʔ
+11.82	sell	'erã
+11.82	sell	ẽ'rahaʔ
+11.83	trade, barter	oooo're
+11.83	trade, barter	'erã
+11.83	trade, barter	aa'pusahaʔ
+11.84	merchant	'erãha'soorĩ
+11.84	merchant	'erãha'ŋoori
+11.85	market (place)	oreii'daaiã'haro
+11.86	store, shop	'kučaapiei'giɲ̥aai
+11.87	price	oo're
+11.88	dear (costly, expensive)	oo'redieyo'rikon̥aʔ
+11.89	cheap	i'hoosin̥u'mi
+11.91	share (distribute)	i'berogaay
+11.91	share (distribute)	i'perogaay
+12.1	after	di'gaaʔ
+12.11	place	ki'gaadeʔ
+12.2	beside	gaa'doi
+12.2	beside	e'hoi
+12.3	down, below	'udi
+12.3	down, below	n̥u'mi
+12.4	before	i'kaiteʔ
+12.41	right (side)	i'keei
+12.5	inside, in	ihiʔ
+12.5	inside, in	tihiʔ
+12.5	inside, in	ihiʔ
+12.5	inside, in	hiʔ
+12.5	inside, in	a'heei
+12.6	outside	gee'si
+12.7	under	'udi
+12.8	up, above	gaa'tee
+12.8	up, above	gaay
+12.11	place	hoga'di
+12.12	put	aa'nireiaʔ
+12.12	put	aa'nirehaʔ
+12.13	sit	'akarihiʔ
+12.14	lie down	i'm̥arahaʔ
+12.15	stand	i'yageʔ
+12.16	remain, stay	'akareʔ
+12.16	remain, stay	u'pusi
+12.17	remains, left overs	i'rei
+12.17	remains, left overs	i're
+12.21	collect, gather	a'maataʔ
+12.212	pick up	'eeŋameʔ
+12.213	pile up	a'sahau'ɲaneʔ
+12.22	join, unite	an̥e'rameʔ
+12.23	separate	ĩpoo'čereʔ
+12.232	divide	a'hukeomeʔ
+12.24	open	ge'saai
+12.24	open	gesaa'ge
+12.25	shut, close	uhu'ru
+12.25	shut, close	uhu'rugaay
+12.26	cover	'hoide
+12.26	cover	'huide
+12.27	hide, conceal	aa'goseʔ
+12.27	hide, conceal	i'poogu
+12.31	high	i'dahaihin̥u'mi
+12.32	low	i'dogosiihin̥u'mi
+12.33	top	'ooho
+12.34	bottom	ča'kii
+12.35	end	eru'eei
+12.352	pointed	aasii'koi
+12.352	pointed	aasii'ko
+12.353	edge	e'dogaay
+12.353	edge	pin̥a'naai
+12.36	side	ga'doi
+12.37	middle, center	a'heei
+12.37	middle, center	ã'haro
+12.41	right (side)	ãra'čuui
+12.41	right (side)	ãra'čuua
+12.42	left (side)	ara'sei
+12.42	left (side)	ara'se
+12.43	near (adv)	i'dogosiʔ
+12.44	far (adv)	i'dahaʔ
+12.45	east	gee'degara'ni
+12.46	west	gee'dekaaka'di
+12.47	north	gaa'teei
+12.48	south	umu'soi
+12.53	grow	ĩ'keeraʔ
+12.54	measure	aasi'ŋara
+12.541	span, fathom	dieihin̥u'miyuui
+12.55	large, big	ke'ruui
+12.55	large, big	ke'ruua
+12.56	small, little	aa'tiami
+12.56	small, little	aa'tiamia
+12.57	long	yo'iikoi
+12.57	long	yo'iiko
+12.58	tall	u'mari
+12.58	tall	u'mare
+12.59	short	kata'dei
+12.59	short	kata'de
+12.61	wide, broad	da'koodei
+12.61	wide, broad	dakoode
+12.62	narrow	a'haami
+12.62	narrow	a'haamia
+12.63	thick (in dimension)	daɲoo'reei
+12.63	thick (in dimension)	daɲoo'ree
+12.65	thin (in dimension)	go'dooi
+12.65	thin (in dimension)	godoo'ge
+12.67	deep	i'dahaahagee'si
+12.68	shallow	'gaareroi
+12.68	shallow	'gaarero
+12.71	flat	e'hai
+12.71	flat	e'hage
+12.73	straight	i'čaputahiʔ
+12.74	crooked	õo'kororãai
+12.74	crooked	õo'kororẽe
+12.75	hook	gaa'se
+12.76	corner	ahi'de
+12.78	square	soo'gom̥ai
+12.78	square	soo'gom̥a
+12.81	round	kata'dei
+12.81	round	kata'de
+12.82	circle	uru'ñ̥umie
+12.84	line	i'hoi
+12.85	hole	e'do
+12.85	hole	e'ho
+12.85	hole	ee'rui
+12.92	like, similar	ke'den̥ai
+12.92	like, similar	ke'den̥a
+12.93	change	'eekãreʔ
+13.0	zero, nothing	'in̥okeʔ
+13.1	one	čõ'm̥ãrãʔ
+13.2	two	'gareʔ
+13.3	three	gadi'ok
+13.3	three	gadi'oi
+13.3	three	gadi'oge
+13.4	four	ga'gan̥iʔ
+13.4	four	ga'gan̥i
+13.4	four	ga'gan̥ia
+13.5	five	čee'n̥ayim̥a'naay
+13.6	six	čo'm̥araihiyim̥a'nuɲaai
+13.7	seven	'gareihiyim̥a'nuɲaai
+13.8	eight	gadi'ogihiyim̥a'nuɲaa
+13.9	nine	ga'gan̥iihiyim̥a'nuɲaa
+13.10	ten	čee'n̥ayim̥a'naayoneʔ
+13.101	eleven	čo'm̥araihiyi'ridaay
+13.102	twelve	'gareihiyi'ridaay
+13.103	fifteen	čeen̥ayi'ridaay
+13.104	twenty	čee'n̥ayu
+13.105	hundred	čee'n̥aayo'rečeen̥ayim̥a'naay
+13.107	count	ĩsee'karũ
+13.14	every, all	'n̥eeseʔ
+13.15	much, many	u'aasen̥a
+13.15	much, many	u'aasẽn̥ãi
+13.16	more	kuči'yipiseʔ
+13.17	little (quantity), few	ga'roosi
+13.17	little (quantity), few	ga'roosia
+13.18	enough	'goomeʔ
+13.18	enough	urũ'ahiʔ
+13.181	some	ugu'rui
+13.181	some	ugu'rua
+13.19	multitude, crowd	ga'gedaatei
+13.21	full	i'ragui
+13.21	full	i'ragua
+13.22	empty	a'heege'saai
+13.22	empty	a'heegesaa'ŋe
+13.23	part, piece	peei
+13.23	part, piece	'peepitai
+13.24	half	gaato'koriŋai
+13.33	alone, only	gaa'sui
+13.33	alone, only	gaa'sua
+13.34	first	ba'haai
+13.34	first	ba'hee
+13.35	last	ee'hoi
+13.35	last	ee'ho
+13.36	second	'garei
+13.36	second	'gare
+13.37	pair	paka'saai
+13.37	pair	paka'saa
+13.38	two times	eŋa'gare
+13.42	third	gadi'oi
+13.42	third	gadi'oge
+13.44	three times	eŋagadi'ok
+14.11	time	de'ren̥aai
+14.12	age	i'gaodeʔ
+14.13	new	iičai
+14.13	new	iiča
+14.13	new	uri'ei
+14.13	new	uri'eŋe
+14.14	young	u'poi
+14.14	young	u'po
+14.15	old	čo'kin̥ai
+14.15	old	gaa'ta
+14.15	old	u'ata
+14.16	early	'duuraasei
+14.17	late	n̥ooi
+14.17	late	n̥oo'ŋe
+14.18	now	ee
+14.19	immediately	ti'rakeʔ
+14.19	immediately	ti'rokeʔ
+14.21	swift, fast, quick	ibi'soi
+14.21	swift, fast, quick	ibi'soge
+14.22	slow	õ'roon̥ai
+14.22	slow	õ'roon̥a
+14.23	hasten, hurry	agii'toʔ
+14.23	hasten, hurry	aŋi'neru
+14.24	retard, delay	i'saaseʔ
+14.25	begin, beginning	tani'ŋai
+14.25	begin, beginning	tani'ŋii
+14.252	last, endure	uɲ̥ape'ta
+14.252	last, endure	uɲ̥ape'te
+14.26	end (temporal)	eru'eei
+14.27	finish	ee'n̥aʔ
+14.27	finish	i'mateʔ
+14.28	cease, stop	i'yaa
+14.28	cease, stop	i'yaahiʔ
+14.29	ready	ni'manei
+14.29	ready	ni'mane
+14.31	always	ihide'ren̥aaneʔ
+14.32	often	'hekučaaʔ
+14.33	sometimes	kači'mokeʔ
+14.33	sometimes	keeči'mokeʔ
+14.331	soon	'hiirake
+14.332	long-time (for a)	ihide'ren̥aaneʔ
+14.34	never	goo
+14.34	never	goo'tikeʔ
+14.35	again	apoorĩ
+14.35	again	poorĩ
+14.41	day	dii'ri
+14.42	night	de'haai
+14.43	dawn	sereni'ŋai
+14.44	morning	diire'n̥iimei
+14.45	noon, midday	gee'degaato'koro
+14.451	afternoon	gee'den̥ooriŋai
+14.46	evening	gee'den̥oo
+14.47	today	gaa'n̥eriʔ
+14.48	tomorrow	ni'romei
+14.481	day-after-tomorrow	ni'romegaa'teei
+14.49	yesterday	dii'rikaʔ
+14.491	day-before-yesterday	dii'rikagaa'teeikaa'seʔ
+14.51	hour	de'ren̥aai
+14.51	hour	gaato'koro
+14.53	clock, timepiece	gee'de
+14.71	month	geedo'si
+14.73	year	se'keere
+14.74	winter	'arenieʔa'reenaa'teʔ
+14.75	spring	e'ramii'honiŋai
+15.21	smell (vb intrans)	o'hareʔ
+15.212	sniff	o'hareʔ
+15.22	smell (vb trans)	o'hareʔ
+15.25	fragrant, good smelling	ayu'neri
+15.26	stinking, bad smelling	'čom̥arei
+15.31	taste	ira'sitigai
+15.31	taste	ira'sitigeei
+15.35	sweet	u'nereča'roreti
+15.36	salty	iri'ŋoi
+15.36	salty	iriŋo'ŋe
+15.37	bitter	iri'ŋoi
+15.37	bitter	iriŋo'ge
+15.37	bitter	či'gokeʔ
+15.38	acid, sour	čoori'čui
+15.38	acid, sour	čooriču'ge
+15.41	hear	u'duteʔ
+15.42	listen	a'ŋari
+15.44	sound, noise	hõoka'raai
+15.44	sound, noise	isoo'raai
+15.44	sound, noise	ičoo'raai
+15.45	loud	isoo'rataai
+15.45	loud	isoo'ratee
+15.46	quiet, silence	čoo'čiigei
+15.46	quiet, silence	čoo'čiikeʔ
+15.51	see	i'moʔ
+15.52	look, look at	a'hiireʔ
+15.52	look, look at	i'hiireʔ
+15.55	show	i'ŋoo
+15.56	shine	naaŋana'taʔ
+15.57	bright	naaŋana'ŋai
+15.57	bright	naaŋana'ŋa
+15.61	color	uruča'čaai
+15.62	light (in color)	kĩ'riike
+15.63	dark (in color)	topi'ei
+15.63	dark (in color)	topi'e
+15.64	white	'pororoi
+15.64	white	'pororo
+15.65	black	uta'tai
+15.65	black	uta'ta
+15.66	red	kara'taai
+15.66	red	kara'tee
+15.67	blue	naaŋana'taai
+15.67	blue	naaŋanataa'ge
+15.68	green	'sarẽi
+15.68	green	'sarẽ
+15.69	yellow	'sarẽi
+15.69	yellow	'sarẽ
+15.71	touch	i'saaʔ
+15.72	feel	õo'soreʔ
+15.74	hard	ee'toi
+15.74	hard	ee'toge
+15.75	soft	pa'rataai
+15.75	soft	pa'rataage
+15.76	rough	čoo'čiki'čiki
+15.77	smooth	karun̥ai
+15.77	smooth	karun̥aŋe
+15.78	sharp	aasii'koi
+15.78	sharp	aasii'ko
+15.79	blunt, dull	pa'kaai
+15.79	blunt, dull	pa'kaa
+15.81	heavy	'peenui
+15.81	heavy	'peenua
+15.82	light (in weight)	pu'n̥ui
+15.82	light (in weight)	pu'n̥ua
+15.83	wet, damp	te'taai
+15.83	wet, damp	te'taage
+15.84	dry	ka'n̥ori
+15.84	dry	ka'n̥ore
+15.85	hot	no'tari
+15.85	hot	no'tare
+15.86	cold	te'n̥uui
+15.86	cold	te'n̥uuŋe
+15.87	clean	ii'čai
+15.87	clean	ii'ča
+15.88	dirty, soiled	oo'poii
+15.88	dirty, soiled	oo'poiia
+15.89	wrinkled	ipoka'yaai
+15.89	wrinkled	ipo'kaya
+16.11	soul, spirit	'aayipie
+16.15	surprised, astonished	itii'ha
+16.18	good fortune, luck	apa'rei
+16.18	good fortune, luck	apa'rege
+16.23	joyful, glad, happy	i'niinayu
+16.25	laugh	da'goi
+16.251	smile	iŋa'naʔ
+16.26	play	iŋa'naʔ
+16.26	play	iŋa'nareʔ
+16.27	love	i'n̥oraʔ
+16.29	kiss	a'gupin̥a'ni
+16.29	kiss	a'guu're
+16.3	embrace	iga'ru
+16.31	pain	ũrosori'ŋeei
+16.32	grief, sorrow, sadness	'aayuga'baatigai
+16.33	anxiety, worry	hu'redieʔ
+16.34	regret, be sorry	un̥u'si
+16.35	pity	õo'soreʔ
+16.37	cry, weep	ii'boʔ
+16.38	tear (noun)	e'dokadi
+16.38	tear (noun)	eduuka'di
+16.39	groan	ooyu'ɲ̥areʔ
+16.39	groan	u'yuaareʔ
+16.41	hate	ee'takeʔ
+16.42	anger	aan̥i'ŋaai
+16.42	anger	dakaan̥i'ŋaai
+16.44	envy, jealousy	tara'raɲimeriŋai
+16.45	shame (noun)	'kučaaheegaa'tei
+16.45	shame (noun)	uraa'nei
+16.48	proud	ihoya'taai
+16.52	brave	kaasi'taai
+16.52	brave	kaasi'tee
+16.53	fear, fright	isado'deriŋai
+16.53	fear, fright	itodooti'gai
+16.62	desire, want	i'potaa
+16.622	choose	aa'pusahaʔ
+16.63	hope	i'roteʔ
+16.63	hope	i'n̥atu
+16.65	faithful	i'sinayuomeʔ
+16.66	true	ũ'reei
+16.66	true	ũ'ree
+16.67	lie, tell lies	ooyuruupa'taariŋaʔ
+16.68	deceit	ã'ratigai
+16.68	deceit	ã'ratigeei
+16.69	forgive	ĩi'roopisiin̥aari'ŋeeoneʔ
+16.71	good	a'rei
+16.71	good	a'rege
+16.72	bad	sii'n̥aai
+16.72	bad	siin̥aa'ŋe
+16.73	right, correct	ipee'sutea'rei
+16.76	fault	i'm̥aatariŋeei
+16.77	mistake, error	i'hooseʔ
+16.77	mistake, error	oo'paakeʔ
+16.77	mistake, error	oopaak
+16.78	blame	ẽe'kesãreʔ
+16.79	praise	iko'taʔ
+16.79	praise	ii'sigaay
+16.81	beautiful	ueraa'di
+16.81	beautiful	ueraa'de
+16.82	ugly	ga'n̥arei
+16.82	ugly	ga'n̥areŋe
+16.83	greedy	ipoti'gadi
+16.83	greedy	ipotigade
+16.84	clever	'aayipieraai
+16.84	clever	'aayipieree
+17.11	mind	aayuga'batigai
+17.13	think (= reflect)	oo'yaayugu
+17.14	think (= be of the opinion)	'iisiŋa
+17.15	believe	aŋuure'taʔ
+17.16	understand	iira'haaʔ
+17.16	understand	i'paɲahiʔ
+17.17	know	i'moʔ
+17.171	guess	iira'haapeʔ
+17.172	imitate	i'raateʔ
+17.18	seem	čoo
+17.19	idea, notion	a'heeodeʔ
+17.21	wise	n̥aani'kučaaiirahaa'soorĩ
+17.22	foolish, stupid	koo'ɲ̥okeua
+17.23	insane, crazy	'aayipieyuui
+17.23	insane, crazy	'aayipieyuu'ge
+17.24	learn	un̥u'sinaa'kan̥a'keeodeeŋai'peesu
+17.242	study	a'kateihiya'heeodeʔ
+17.25	teach	a'kateʔ
+17.26	pupil	aka'di
+17.26	pupil	aka'de
+17.27	teacher	akadi'soorĩ
+17.27	teacher	akadi'to
+17.31	remember	un̥u'sina
+17.32	forget	ika'digi
+17.34	clear, plain	õbi'ren̥ai
+17.34	clear, plain	omi'ren̥ai
+17.35	obscure	geeko'risei
+17.35	obscure	geeko'rise
+17.36	secret	ihiabu'haadieʔ
+17.37	sure, certain	uru'ahiʔ
+17.38	explain	oo'kikeʔ
+17.38	explain	oobi'siteʔ
+17.41	intention, purpose	ipoti'gadi
+17.41	intention, purpose	kii
+17.42	cause	baai
+17.43	doubt	ootigaya'keei
+17.44	suspect	iiča'gahaʔ
+17.441	betray	'arikaiteʔ
+17.45	need, necessity	imese'raiku'čaa
+17.45	need, necessity	imese'raneku'čaa
+17.46	easy	ibi'hooi
+17.46	easy	ibi'hooge
+17.47	difficult	pi'rai
+17.47	difficult	pira'ge
+17.48	try, attempt	ekeeti'ŋareʔ
+17.48	try, attempt	eeti'ŋareʔ
+17.49	way, manner	aa'di
+17.49	way, manner	iiso'kaai
+17.51	and	'eŋa
+17.51	and	ŋa
+17.51	and	ga
+17.52	because	u'heeʔ
+17.52	because	guu
+17.53	if	u'heeta
+17.53	if	'heeta
+17.53	if	ee'ti
+17.54	or	'heoŋa
+17.54	or	ho'roga
+17.54	or	'heroga
+17.55	yes, affirmative	ẽ'heʔ
+17.56	no, negative	ke
+17.56	no, negative	'uuŋareʔ
+17.61	how?	iiso'kaarike
+17.62	how many?	'čoo'rikee
+17.63	how much?	'čoo'rikee
+17.64	what?	goo'tikee
+17.64	what?	goo'tora'kee
+17.65	when?	gee'de'deehirikee
+17.66	where?	'deehi'rikee
+17.66	where?	'tia
+17.68	who?	goo'sitee
+17.68	who?	goo'totee
+17.69	why?	goo'tikee
+17.69	why?	goo'torakee
+18.11	voice	da'raai
+18.12	sing	iɲ̥e'kãreʔ
+18.13	shout, cry out	i'biteʔ
+18.13	shout, cry out	i'saayi'baadeʔ
+18.15	whisper	ooyabu'haaʔ
+18.16	mumble	oo'čere'čere
+18.17	whistle	ino'kãreʔ
+18.18	shriek, screech	iboo'tãreʔ
+18.19	howl	uru'ŋuhiʔ
+18.21	speak, talk	ĩra'rãreʔ
+18.211	stutter, stammer	uruutara'taai
+18.22	say	ikate'karẽʔ
+18.22	say	ikate'karĩ
+18.221	tell story	oogoo'ɲ̥aa
+18.222	speech (make a)	ata'taʔ
+18.23	silent (be)	oo'parak
+18.23	silent (be)	oo'parakeʔ
+18.24	language	pu'ruuke'n̥aneʔ
+18.26	word	u'ruui
+18.28	name	ii
+18.31	ask (question, inquire)	ikate'karĩ
+18.32	answer	ičan̥ai
+18.33	admit, confess	oo'kikei'siin̥aari'ŋeei
+18.34	deny	ooti'gaseʔ
+18.35	ask, request	u'tai
+18.36	promise	i'ŋoomeʔ
+18.37	refuse	a'časeʔ
+18.38	forbid	ã'rakeʔ
+18.38	forbid	ã'raŋomeʔ
+18.39	rebuke, scold	ipoo'naʔ
+18.39	rebuke, scold	iboo'tareʔ
+18.41	call (=summon)	ibi'di
+18.42	call (=name)	'iikãreʔ
+18.42	call (=name)	ĩi'karahaʔ
+18.43	announce	i'ŋoo
+18.44	threaten	ã'rahiʔ
+18.44	threaten	im̥oŋa'rahaʔ
+18.45	boast	iko'tayu
+18.45	boast	ii'siyi'baai
+18.51	write	ũ'rusãreʔ
+18.52	read	ikate'karĩdaru'n̥aaooi
+18.56	paper	daru'n̥aaooi
+18.61	book	daru'n̥aaooi
+18.71	flute	ubu'čui
+18.72	drum	ibee'uua
+18.73	horn, trumpet	u'bučua
+18.74	rattle	paraka'rã
+19.11	country	pačami'ni
+19.12	one's native country	uni'ri
+19.15	city, town	gii'daaydaa'tei
+19.16	village	gii'daay
+19.17	boundary	eru'ei
+19.21	people (populace)	ga'ge
+19.23	tribe, clan	Goo'sodeʔ
+19.24	chief, chieftain	dai'n̥ai
+19.24	chief, chieftain	dai'n̥ee
+19.25	staff, walking stick	uguuta'de
+19.25	staff, walking stick	pu'ruko
+19.31	rule, govern	iho'kaaseʔ
+19.32	king, ruler	edu'gen̥ai
+19.33	queen	edu'gen̥aku'čaabe
+19.36	noble, nobleman	a'taai
+19.36	noble, nobleman	a'tee
+19.37	citizen, subject	gii'daaisoo'ri
+19.37	citizen, subject	gii'daaito
+19.41	master	i'rosoorĩ
+19.41	master	i'roto
+19.42	slave	ibe'ɲ̥ui
+19.42	slave	i'beɲ̥ua
+19.43	servant	i'roi
+19.43	servant	iro'ge
+19.45	command, order	i'rokeʔ
+19.45	command, order	iho'kaaseʔ
+19.46	obey	a'ŋari'pi'si
+19.47	let, permit	uhu'ega
+19.51	friend, companion	hõ'rai
+19.51	friend, companion	hõ'ra
+19.52	enemy	uma'hosoorĩ
+19.52	enemy	uma'hoŋoori
+19.54	neighbor	u'raasai
+19.54	neighbor	u'raasa
+19.55	stranger	koo'ɲ̥ooi
+19.55	stranger	koo'ɲ̥oo
+19.56	guest	ibagi'esoorĩ
+19.57	host	ibagi'edi
+19.57	host	ibagi'ede
+19.58	help, aid	'aatahaʔ
+19.59	hinder, prevent	i'noniŋaseʔ
+19.61	custom	aa'debeei
+19.62	strife, quarrel	boota'retigeei
+19.65	meet	utua'ŋora
+19.72	prostitute	a'munaketo
+20.11	fight (vb)	ooyihokani'ŋaʔ
+20.13	war, battle	pokani'ŋai
+20.14	peace	'atehoniŋai
+20.14	peace	'atehoniŋeei
+20.15	army	n̥utaa'ge
+20.17	soldier	hõkara'tai
+20.17	soldier	hõkara'tee
+20.21	weapons, arms	pokaa'dieʔ
+20.22	club	o'ge
+20.222	battle-ax	ahi'neree
+20.23	sling	'ičoŋarani
+20.24	bow	'dokoo'hi
+20.24	bow	oo'hi
+20.25	arrow	daka'n̥aa
+20.26	spear	ã'sore
+20.28	gun, cannon	po'kaa
+20.31	armor (defensive)	kõra'čai
+20.36	tower	gi'gin̥aau'mari
+20.41	victory	či'gon̥aŋai
+20.42	defeat	un̥u'eŋaay
+20.43	attack	ukugu'n̥ahiʔ
+20.44	defend	iro'taʔ
+20.44	defend	ĩra'rãreyi'baay
+20.45	retreat	huu'setigai
+20.46	surrender	i'kiin̥oŋihiʔ
+20.47	captive, prisoner	i'saai
+20.47	captive, prisoner	isaa'ge
+20.471	guard, sentinel	ko'poridi
+20.471	guard, sentinel	ko'poride
+20.48	booty, spoils	'giday
+20.48	booty, spoils	'gidai
+20.49	ambush	ore'pogure
+20.51	fisherman	ičahu'soorĩ
+20.51	fisherman	ičahu'ŋoorĩ
+20.52	fishhook	oo'n̥aai
+20.55	fish trap	'čimeno
+20.55	fish trap	i'čimeno
+20.61	hunt	nii'sorãai
+20.61	hunt	ni'sorẽe
+20.62	shoot	ii'čoʔ
+20.63	miss (target)	'ičagu'udi
+20.64	trap (noun)	dukuhu'ya
+20.64	trap (noun)	uhu'ya
+21.11	law	iro'keei
+21.15	court	edu'gen̥aneʔ
+21.16	judge (vb)	'peesuuhuya'keei
+21.17	judgment	u'huyakeei
+21.18	judge (noun)	'paayipiediei'peesu'soorĩ
+21.21	plaintiff	a'geyahasoorĩ
+21.22	defendant	a'geyahai
+21.22	defendant	a'geyaha
+21.23	witness	pihogu'soorĩ
+21.24	swear	ooyu'ruuhayu
+21.25	oath	uruudoo'soi
+21.25	oath	uruuiyie'n̥a
+21.31	accuse	agu'etagaai
+21.32	condemn	ẽe'kesãreʔ
+21.33	convict (vb)	ooyuhu'ɲaameʔ
+21.34	acquit	ee'n̥aahaʔ
+21.35	guilty	i'peesu'kučaasii'n̥aai
+21.36	innocent	keyi'peesu
+21.37	penalty, punishment	u'huyakeei
+21.39	prison, jail	gi'gin̥aaee'toi
+21.42	murder	u'heeahan̥u'mi
+21.43	adultery	ako'tegarei
+21.47	perjury	ooyuruupa'taariŋaʔ
+21.51	steal	'ooriʔ
+21.51	steal	'ooriia
+21.52	thief	ooriečo'ki
+21.52	thief	ooriečo'kia

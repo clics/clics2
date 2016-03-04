@@ -1,0 +1,1400 @@
+@classification: Uto-Aztecan,Southern Uto-Aztecan,Aztecan,General Aztec,Aztec
+@ids-name: Nahuatl_Sierra_de_Zacapoaxtla_Phonemic
+@iso: azz
+@language: Nahuatl, Highland Puebla
+@size: 1393
+@source: ids
+@variety: std
+1.1	world	taltikpak
+1.1	world	talmanik
+1.21	earth, land	tal
+1.212	earth=ground, soil	talpan
+1.213	dust	talneš
+1.213	dust	taalneešyo
+1.214	mud	sokit
+1.214	mud	sokiyo
+1.215	sand	šal
+1.22	mountain, hill	tepet
+1.222	cliff, precipice	tepehšit
+1.23	plain, field	tal
+1.23	plain, field	talpan
+1.23	plain, field	ištawat
+1.24	valley	atekomol
+1.24	valley	atawit
+1.27	shore	atentenoh
+1.27	shore	ašošowil
+1.28	cave	tepekoyok
+1.31	water	at
+1.32	sea	weyiat
+1.324	foam	posok
+1.324	foam	poposoka
+1.33	lake	kampatektokat
+1.36	river, stream, brook	weyiat
+1.36	river, stream, brook	apic̷ak
+1.36	river, stream, brook	apic̷akti
+1.37	spring, well	amel
+1.37	spring, well	pila
+1.37	spring, well	akomol
+1.37	spring, well	ameyal
+1.38	swamp	ačawtah
+1.38	swamp	ačawit
+1.39	waterfall	panc̷ikʷiniinat
+1.41	woods, forest	kʷowyoh
+1.41	woods, forest	kʷowtah
+1.42	tree (cf 08.600)	kʷowit
+1.42	tree (cf 08.600)	kʷawit
+1.43	wood	kʷowit
+1.43	wood	kʷow
+1.44	stone, rock	tet
+1.45	earthquake	talolini
+1.45	earthquake	talolinilot
+1.51	sky	elwiak
+1.52	sun	tonal
+1.53	moon	mec̷ti
+1.54	star	sitalin
+1.55	lightning	meyot
+1.56	thunder	toponi
+1.56	thunder	totopoka
+1.57	lightning (as striking)	tapetanilot
+1.58	storm	weyikiowit
+1.59	rainbow	kosamalot
+1.61	light (noun)	tawia
+1.61	light (noun)	kitaneštia
+1.62	darkness	tayowayan
+1.62	darkness	tayowayanilot
+1.63	shade, shadow	ekawil
+1.63	shade, shadow	iekawil
+1.63	shade, shadow	ekawilti
+1.64	dew	ahwačti
+1.71	air	ehekat
+1.72	wind	ehekat
+1.73	cloud	mišti
+1.74	fog	mišti
+1.74	fog	tamištentok
+1.75	rain (noun)	kiowat
+1.75	rain (noun)	kiowit
+1.76	snow (noun)	tasekwec̷i
+1.76	snow (noun)	sekti
+1.77	ice	sekti
+1.77	ice	asek
+1.81	fire	tit
+1.82	flame (noun)	mimilini
+1.83	smoke (noun)	pokti
+1.84	ashes	kʷowneš
+1.841	embers	tekol
+1.851	burn (vb trans)	tata
+1.851	burn (vb trans)	kitatia
+1.852	burn (vb intrans)	tata
+1.852	burn (vb intrans)	tonewi
+1.86	light, kindle, ignite	šootaaltii
+1.861	extinguish	kisewia
+1.88	firewood	kʷowit
+1.88	firewood	kʷowtatil
+1.89	charcoal	tekol
+2.21	man (vs. woman)	tagat
+2.21	man (vs. woman)	takat
+2.22	woman	siwat
+2.23	male	tagat
+2.23	male	okičpil
+2.24	female	siwat
+2.25	boy	okičpil
+2.25	boy	konet
+2.251	young man (adolescent)	itelpoč
+2.251	young man (adolescent)	okičpil
+2.26	girl	swapil
+2.26	girl	konet
+2.261	young woman (adolescent)	ičpokat
+2.27	child	pili
+2.27	child	konet
+2.27	child	swaapil
+2.28	infant, baby	pili
+2.31	husband	iokič
+2.31	husband	itakaw
+2.32	wife	isiwaw
+2.32	wife	iswac̷in
+2.33	marry	kinamiktia
+2.34	marriage, wedding	ilwit
+2.34	marriage, wedding	namiktilis
+2.34	marriage, wedding	ilwitčiwalis
+2.35	father	itahc̷in
+2.35	father	tetat
+2.36	mother	inanc̷in
+2.38	married man	tagatnamikeh
+2.39	married woman	siwatnamikeh
+2.41	son	itelpoč
+2.41	son	ikonew
+2.41	son	iokičpil
+2.42	daughter	iswapil
+2.42	daughter	ičpoč
+2.42	daughter	ikonew
+2.43	offspring (son or daughter)	ikonew
+2.44	brother	iikniw
+2.45	sister	iikniw
+2.45	sister	noswaaikniiw
+2.458	twins	nenec̷
+2.46	grandfather	tatahweyi
+2.46	grandfather	iweyitatah
+2.461	old man	wewet
+2.461	old man	wewenc̷in
+2.47	grandmother	nanahweyi
+2.47	grandmother	iweyinanc̷in
+2.471	old woman	lamac̷in
+2.48	grandson	išwiw
+2.49	granddaughter	išwiwswapil
+2.55	cousin	iwehkaswaikniw
+2.56	ancestors	wehkawkayot
+2.61	father-in-law (of a man)	montat
+2.62	mother-in-law (of a man)	monan
+2.63	son-in-law (of a man)	montikeh
+2.63	son-in-law (of a man)	imontikaw
+2.64	daughter-in-law (of a man)	iswamon
+2.641	daughter-in-law (of a woman)	iswamon
+2.71	stepfather	itakpatat
+2.72	stepmother	itakpanan
+2.73	stepson	imikakawal
+2.75	orphan	mikekawal
+2.76	widow	swakawal
+2.77	widower	takakawal
+2.81	relatives, kinsmen	ičankaw
+2.82	family	ičankawan
+2.91	I	nehwa
+2.91	I	neh
+2.91	I	ni
+2.92	you (singular)	teh
+2.92	you (singular)	tehwa
+2.92	you (singular)	ti
+2.93	he/she/it	yeh
+2.93	he/she/it	yehwa
+2.93	he/she/it	∅
+2.94	we	tehwan
+2.94	we	ti
+2.94	we	th
+2.94	we	keh
+2.95	you (plural)	nan
+2.95	you (plural)	tah
+2.95	you (plural)	eh
+2.95	you (plural)	namehwan
+2.96	they	yehwan
+2.96	they	∅h
+3.11	animal	okʷilin
+3.15	livestock	kʷakʷehmeh
+3.16	pasture	taselot
+3.16	pasture	ištawat
+3.16	pasture	takomol
+3.18	herdsman	tapiškeh
+3.19	stable, stall	sinkal
+3.2	cattle (bovine)	tapialmeh
+3.2	cattle (bovine)	kʷakʷehmeh
+3.21	bull	kʷakʷoweh
+3.22	ox	kʷakʷoweh
+3.23	cow	kʷakʷoweh
+3.24	calf	kʷakʷowkonet
+3.24	calf	kʷakʷehc̷in
+3.25	sheep	ičkat
+3.29	lamb	ičkat
+3.29	lamb	ičkac̷in
+3.32	boar	kʷopic̷ot
+3.34	sow	tatokalis
+3.35	pig	pic̷ot
+3.52	cock, rooster	kaštil
+3.54	hen	pio
+3.54	hen	swapio
+3.55	chicken	pio
+3.55	chicken	piokonet
+3.58	nest	tapahsol
+3.58	nest	takočan
+3.581	bird	totoc̷in
+3.583	heron	atenpatoh
+3.583	heron	apatoh
+3.584	eagle	kʷišin
+3.585	hawk	kʷišin
+3.586	vulture	c̷ohpilot
+3.591	bat	c̷inaka
+3.593	crow	kakalot
+3.594	dove	točtekolot
+3.596	owl	tololoh
+3.596	owl	kʷowšašaka
+3.596	owl	čičti
+3.61	dog	ic̷kʷinti
+3.614	rabbit	toč
+3.614	rabbit	točin
+3.62	cat	miston
+3.63	mouse, rat	kimičin
+3.65	fish	miči
+3.65	fish	mičin
+3.653	fishscale	itapač
+3.653	fishscale	ewat
+3.655	shell	tapač
+3.665	freshwater eel	koamičin
+3.74	fox	kʷekti
+3.75	deer	masat
+3.81	insect	okʷilc̷in
+3.811	louse	tekolot
+3.812	nit (louse egg)	ahsilit
+3.813	flea	tekpinti
+3.816	cockroach	šopepe
+3.817	ant	askat
+3.818	spider	tokat
+3.819	spider web	c̷awal
+3.82	bee	okʷilc̷in
+3.822	beehive	okʷilkahon
+3.822	beehive	ičaninkolmena
+3.822	beehive	nekc̷ic̷in
+3.823	wasp	alsin
+3.823	wasp	neškomeh
+3.83	fly	moyot
+3.831	sandfly (midge), gnat	čakistle
+3.831	sandfly (midge), gnat	moyoc̷in
+3.832	mosquito	šahkalmoyot
+3.84	worm	okʷilc̷in
+3.84	worm	talihkočin
+3.84	worm	talkʷetaškol
+3.85	snake	koat
+3.92	butterfly	papalot
+3.92	butterfly	čawapapalot
+3.93	grasshopper	čapolin
+3.94	snail	šokti
+3.95	frog	kalat
+3.95	frog	kʷeya
+3.95	frog	akʷeya
+3.96	lizard	maliguay
+3.96	lizard	topeh
+3.96	lizard	šilkʷowiši
+4.11	body	inakayo
+4.12	skin, hide	kʷetaš
+4.12	skin, hide	ikʷetašio
+4.12	skin, hide	iewayo
+4.13	flesh	inakayoh
+4.14	hair (head)	ic̷on
+4.14	hair (head)	c̷oonti
+4.142	beard	itenc̷onyo
+4.144	body hair	itohmiyo
+4.146	dandruff	ikʷaewayo
+4.15	blood	esti
+4.15	blood	esyoh
+4.16	bone	omit
+4.162	rib	ielčikiw
+4.18	tail	ikʷitapil
+4.19	back	ikampa
+4.19	back	ikʷitapan
+4.19	back	ikan
+4.191	spine	ikʷitapanomio
+4.2	head	ic̷ontekon
+4.2	head	ikʷako
+4.202	skull	mikec̷ontekomat
+4.203	brain	ikʷatišyo
+4.204	face	iiško
+4.205	forehead	iškʷako
+4.205	forehead	iškʷay
+4.208	cheek	ikamanakastan
+4.208	cheek	ikačeteh
+4.21	eye	iištololo
+4.212	eyebrow	iištohmiyo
+4.213	eyelid	išpilkʷetašyo
+4.214	eyelash	išpil
+4.214	eyelash	išpilwiyo
+4.215	blink	ihkopi
+4.22	ear	inakas
+4.23	nose	yeka
+4.23	nose	iyekac̷ol
+4.231	nostril	iyekac̷olkoyok
+4.232	mucus (nasal)	iyekakʷit
+4.24	mouth	iten
+4.24	mouth	teem
+4.24	mouth	ikamak
+4.241	beak	itempil
+4.25	lip	itenšipal
+4.26	tongue	inenepil
+4.27	tooth	itan
+4.271	gums	ikamanakayo
+4.272	molartooth	itankoč
+4.28	neck	ikeč
+4.281	nape of neck	ikečkočta
+4.29	throat	itoskak
+4.3	shoulder	iahkol
+4.31	arm	iahkol
+4.31	arm	imay
+4.31	arm	imakayo
+4.312	armpit	isekatan
+4.32	elbow	imolik
+4.321	wrist	imakečtah
+4.321	wrist	imakečtan
+4.33	hand	imay
+4.33	hand	maa
+4.33	hand	mah
+4.331	palm of hand	imaiško
+4.331	palm of hand	imakpal
+4.34	finger	imahpil
+4.342	thumb	iweyimahpil
+4.344	fingernail	isti
+4.35	leg	ikes
+4.35	leg	imec̷
+4.351	thigh	ikes
+4.352	calf of leg	ikoc̷
+4.352	calf of leg	ikoc̷ko
+4.352	calf of leg	ikoc̷ikan
+4.36	knee	itankʷay
+4.37	foot	imec̷
+4.371	ankle	imec̷kečsaliwiyan
+4.372	heel	ikoc̷
+4.374	footprint	taksalis
+4.374	footprint	tac̷oniksalis
+4.38	toe	imec̷ikšipil
+4.392	wing	ahtapal
+4.393	feather	ihwit
+4.4	chest	ielpan
+4.41	breast (of woman)	ičičiwal
+4.43	navel	išik
+4.44	heart	yool
+4.44	heart	iyolo
+4.441	lung	ipopoc̷oa
+4.451	kidney	ieyo
+4.46	stomach	ipoš
+4.461	intestines, guts	iihtiyo
+4.461	intestines, guts	ikʷitkowan
+4.462	waist	itahkoyan
+4.464	buttocks	ic̷intan
+4.47	womb	ipoš
+4.51	breathe, breath	iiyoyo
+4.51	breathe, breath	iihyoyo
+4.51	breathe, breath	ihsika
+4.52	yawn, gape	kočkamačaloa
+4.521	hiccough	c̷iknoa
+4.53	cough	tatasi
+4.54	sneeze	ikšoa
+4.54	sneeze	ikšolis
+4.55	perspire	mitonia
+4.56	spit	kičihča
+4.56	spit	ičihči
+4.56	spit	itenayo
+4.57	vomit	takepa
+4.57	vomit	moyoliškepa
+4.57	vomit	moihsota
+4.58	bite	kikehc̷oma
+4.59	lick	tapahpaloa
+4.59	lick	pic̷ohtoya
+4.591	dribble	čičipika
+4.591	dribble	čipini
+4.61	sleep	koči
+4.61	sleep	kohkoči
+4.612	snore	sosolka
+4.62	dream	takočita
+4.62	dream	kočilis
+4.62	dream	kohkočita
+4.63	wake up	kihšitia
+4.63	wake up	ihsa
+4.63	wake up	ihsalis
+4.63	wake up	ihsatok
+4.65	urinate	mošišiša
+4.66	defecate	kʷitat
+4.68	shiver	kʷekʷetaka
+4.68	shiver	wiwiška
+4.68	shiver	wiwiyoka
+4.69	bathe	kipahpaka
+4.72	born (to be)	tayolitia
+4.72	born (to be)	kitakatiltia
+4.73	pregnant	oc̷titok
+4.74	live, living, life	yoltok
+4.74	live, living, life	nemi
+4.75	die, dead	miki
+4.75	die, dead	mikitii
+4.751	drowned	atohtoloa
+4.76	kill	mikitii
+4.76	kill	kimiktia
+4.77	corpse	miket
+4.78	bury (the dead)	kitoka
+4.78	bury (the dead)	kitaltoka
+4.79	grave, tomb	mikekoyokti
+4.79	grave, tomb	miketekoč
+4.81	strong, mighty, powerful	čikawak
+4.81	strong, mighty, powerful	čikawalis
+4.81	strong, mighty, powerful	čikawtok
+4.82	weak	wiwistik
+4.82	weak	amočikawak
+4.82	weak	kʷekʷetaka
+4.83	well, health	paktok
+4.83	well, health	pahtikya
+4.84	sick, sickness	mokokoa
+4.84	sick, sickness	kokolis
+4.84	sick, sickness	kokoškakʷi
+4.841	fever	totonik
+4.843	cold (catarrh)	c̷ompil
+4.85	wound, sore	tatekti
+4.85	wound, sore	kokot
+4.852	bruise	šokoltitok
+4.853	swelling	posawak
+4.853	swelling	kiposawaltia
+4.854	itch	ahwayowa
+4.854	itch	ahwayowalis
+4.854	itch	sawat
+4.855	blister	asoloni
+4.857	pus	temal
+4.858	scar	itatek
+4.86	cure, heal	kipahtia
+4.87	physician	tepahtihkeh
+4.88	medicine, drug	pah
+4.88	medicine, drug	pahti
+4.89	poison	tapahwiloni
+4.91	tired, weary	siowik
+4.91	tired, weary	siowtok
+4.91	tired, weary	kʷačtik
+4.91	tired, weary	kʷawtik
+4.912	rest	mosewia
+4.92	lazy	tac̷iwi
+4.92	lazy	sonsoh
+4.93	bald	kʷašikaltik
+4.94	lame	košo
+4.95	deaf	nakasc̷ac̷a
+4.95	deaf	nakastapal
+4.95	deaf	nakasc̷akʷi
+4.96	mute	amoweltahtoa
+4.96	mute	nonc̷in
+4.97	blind	amotača
+4.98	intoxicated	wintitok
+4.98	intoxicated	tawankeh
+4.99	naked, bare	šikaltik
+4.99	naked, bare	šitac̷tik
+5.11	eat	takʷa
+5.11	eat	takʷaa
+5.12	food	takʷal
+5.12	food	takʷaloni
+5.121	cooked	yoksi
+5.121	cooked	takʷalčiwa
+5.122	raw	šošowik
+5.123	ripe	yoksi
+5.124	green, unripe	šošowik
+5.125	rotten	palaktik
+5.125	rotten	kihtakʷa
+5.125	rotten	ihtakawi
+5.13	drink	tayi
+5.13	drink	ati
+5.14	hunger	mayana
+5.14	hunger	apis
+5.14	hunger	apisti
+5.141	famine	apisti
+5.141	famine	mayaanmiki
+5.15	thirst	amiki
+5.15	thirst	amik
+5.15	thirst	amikti
+5.16	suck	kipipina
+5.16	suck	kipipic̷oa
+5.18	chew	kic̷onkʷahkʷa
+5.181	swallow	kitoloa
+5.19	choke	kikečpac̷ka
+5.19	choke	kihiyomiktia
+5.22	boil (vb)	momoloka
+5.22	boil (vb)	moloni
+5.22	boil (vb)	čočopoka
+5.23	roast, fry	tewaik
+5.23	roast, fry	tatewac̷
+5.24	bake	tatokia
+5.26	pot, cooking vessel	ahpac̷ti
+5.26	pot, cooking vessel	kešahpas
+5.28	pan	akomit
+5.28	pan	tenašah
+5.31	dish	kašahpas
+5.31	dish	ahpaac̷ti
+5.32	plate	kašit
+5.32	plate	kašahpas
+5.33	bowl	šikal
+5.34	pitcher, jug	ac̷oc̷okol
+5.35	cup, drinking vessel	tayiloni
+5.36	saucer	kašahpaskonet
+5.43	lunch	tamahsewa
+5.45	supper	takʷatayowak
+5.46	peel	kipiška
+5.46	peel	kišima
+5.46	peel	kišolewa
+5.46	peel	kakawat
+5.47	sieve, strain	kic̷ec̷eloa
+5.48	scrape	kišitoma
+5.49	stir, mix	kineloa
+5.49	stir, mix	kolinia
+5.53	dough	tišti
+5.54	knead	kipahpačoa
+5.56	crush, grind	kikʷečoa
+5.56	crush, grind	tiskeh
+5.58	mortar	metat
+5.59	pestle	metamait
+5.61	meat	nakat
+5.64	soup, broth	kilat
+5.64	soup, broth	emol
+5.65	vegetables	kilit
+5.65	vegetables	kiltonil
+5.65	vegetables	wawkilit
+5.66	bean	et
+5.66	bean	ec̷iin
+5.71	fruit	šokot
+5.791	grease, fat	tomawak
+5.791	grease, fat	čawak
+5.81	salt	istat
+5.821	chili pepper	čil
+5.821	chili pepper	čilito
+5.821	chili pepper	kokok
+5.84	honey	c̷opekat
+5.84	honey	nekʷat
+5.87	milk (vb)	kipac̷ka
+5.9	beverage, drink	atol
+5.93	beer	okti
+5.94	fermented drink	močikawaltih
+5.94	fermented drink	kokokat
+5.97	egg	piotet
+5.971	egg yolk	piotešočit
+6.11	put on (clothes)	mokʷeytia
+6.11	put on (clothes)	motakentia
+6.12	clothing, clothes	tasal
+6.12	clothing, clothes	itaken
+6.21	cloth	tasal
+6.21	cloth	tatek
+6.22	wool	tohmit
+6.29	leather	kʷetaš
+6.31	spin	tac̷awa
+6.32	spindle	malakat
+6.33	weave	čayaltik
+6.34	loom	kʷowtahkit
+6.35	sew	tahc̷oma
+6.36	needle	tahc̷omaloni
+6.38	thread	ičti
+6.39	dye	kitapalwia
+6.39	dye	kipa
+6.41	cloak	kapisayoh
+6.42	woman's dress	ikʷey
+6.42	woman's dress	itaken
+6.43	coat	takenti
+6.43	coat	takemit
+6.45	collar	koskat
+6.46	skirt	kʷeyit
+6.46	skirt	ikʷey
+6.55	hat, cap	ikʷapikka
+6.55	hat, cap	ikʷapikiloni
+6.57	belt, girdle	itahkoilpika
+6.58	glove	matapeč
+6.58	glove	imapikka
+6.73	ring (for finger)	imatepos
+6.75	necklace	koskat
+6.77	earring	inakastapilol
+6.91	comb	tac̷ikawaswia
+6.92	brush	kišilwia
+6.92	brush	ikʷašiluas
+6.921	braid	moc̷onilpia
+6.921	braid	tamaihkit
+6.95	soap	šapoh
+6.96	mirror	teskat
+7.11	dwell, live	kalyetok
+7.11	dwell, live	močantia
+7.12	house	kali
+7.12	house	ičan
+7.13	hut	šahkal
+7.15	yard, court	kališpan
+7.15	yard, court	kaltenoh
+7.22	door, gate	kaltenc̷akʷiloni
+7.22	door, gate	kaltenti
+7.27	wall	tepamit
+7.27	wall	tepaan
+7.31	fireplace	tikomit
+7.31	fireplace	tekʷileh
+7.31	fireplace	tikon
+7.42	bed	kočpet
+7.42	bed	ipet
+7.42	bed	tapeč
+7.421	pillow	kʷatapeč
+7.422	blanket	ayataken
+7.422	blanket	ayat
+7.43	chair	sewiloni
+7.45	lamp, torch	tawil
+7.45	lamp, torch	tawilti
+7.46	candle	tawil
+7.48	trough	kʷowtapakaloni
+7.51	roof	kalkʷako
+7.56	post, pole	kʷowtok
+7.57	board	wapal
+7.61	mason	tepančiwkeh
+7.62	brick	tawahwilis
+8.12	field (for cultivation)	mil
+8.12	field (for cultivation)	milah
+8.12	field (for cultivation)	sintah
+8.12	field (for cultivation)	sinmil
+8.15	cultivate, till	tekitimilah
+8.17	ditch	kʷemit
+8.17	ditch	kanyoh
+8.17	ditch	talkanyoh
+8.17	ditch	akanyoh
+8.21	plow	tekiti
+8.212	furrow	kʷemit
+8.22	dig	kičkʷa
+8.22	dig	koyooni
+8.22	dig	takoyooni
+8.25	hoe	čapi
+8.26	fork	kʷawmašal
+8.311	seed	šinač
+8.33	sickle, scythe	ohoso
+8.41	crop, harvest	takilot
+8.41	crop, harvest	tapiška
+8.47	maize, corn	elot
+8.47	maize, corn	ooloot
+8.47	maize, corn	tagol
+8.51	grass	šiwit
+8.51	grass	sakat
+8.52	hay	pačti
+8.52	hay	paštle
+8.52	hay	sakat
+8.531	plant (vb)	kitooka
+8.531	plant (vb)	kitaltooka
+8.531	plant (vb)	selia
+8.54	root	nalwat
+8.55	branch	imayo
+8.56	leaf	šiwit
+8.57	flower	šočit
+8.6	tree	kʷowit
+8.61	oak	awat
+8.66	acorn	awa
+8.67	vine	kʷomekat
+8.69	smoke (tobacco)	tačičina
+8.73	tree trunk	kʷawtenti
+8.75	bark	ewat
+8.76	sap	ičokilo
+8.81	palm tree	kʷowšiwit
+8.91	sweet potato	kamoh
+8.91	sweet potato	talkamoh
+8.92	tapioca, manioc, cassava	kʷowkamoh
+8.93	gourd	šikal
+8.93	gourd	waho
+8.93	gourd	tekomat
+8.931	pumpkin, squash	ayoh
+8.931	pumpkin, squash	ayohti
+8.94	bamboo	akat
+8.941	sugar cane	owatc̷opek
+8.98	mushroom	nanakat
+8.98	mushroom	kosawik
+9.11	do, make	kičiwa
+9.11	do, make	čihčiiwa
+9.12	work	tekit
+9.12	work	tekiti
+9.12	work	čiwalis
+9.14	bend	tec̷iltik
+9.14	bend	čikotik
+9.14	bend	tatec̷ilol
+9.15	fold	takʷelpačoa
+9.16	tie, bind	kilpia
+9.16	tie, bind	ilpitok
+9.161	untie	kikašania
+9.161	untie	kikahkawa
+9.161	untie	motomak
+9.19	rope, cord	mekat
+9.192	knot (noun)	ilpitok
+9.21	strike (hit, beat)	kimaga
+9.21	strike (hit, beat)	mahmaga
+9.211	pound with fist	kikʷečoa
+9.211	pound with fist	kinac̷kʷaltia
+9.22	cut	kiteki
+9.22	cut	kikotona
+9.221	cut down	kʷitakepa
+9.222	chop, hew	kokotoc̷a
+9.222	chop, hew	tehteki
+9.223	stab	kitihtikʷinaltia
+9.223	stab	tihtikʷini
+9.24	scissors, shears	tatekiloni
+9.26	break	kitapana
+9.26	break	tapani
+9.26	break	kotoni
+9.261	broken	c̷ayaktik
+9.261	broken	mohmoštik
+9.261	broken	tapaktik
+9.27	split	kitapana
+9.28	tear	kic̷ayana
+9.31	rub, wipe	kišakʷaloa
+9.32	stretch	kisowa
+9.33	pull	kitilana
+9.34	spread out	kitakac̷oa
+9.341	hang up	kipampiloa
+9.341	hang up	kipiloa
+9.343	squeeze, wring	kipac̷ka
+9.343	squeeze, wring	kipac̷oa
+9.35	pour	kikepa
+9.36	wash	kipaka
+9.37	sweep	tačpana
+9.37	sweep	kočpana
+9.38	broom	očpawas
+9.43	carpenter	kʷowtačihčiwkeh
+9.44	build	čihčiwtok
+9.46	bore	kikoyonia
+9.46	bore	koyoni
+9.48	saw	tatekiloni
+9.5	nail	kisohsoa
+9.56	glue	kipepečoa
+9.63	cast (metals)	teposti
+9.67	iron	tepos
+9.67	iron	teposti
+9.74	glass	teskat
+9.75	weave, plait	kihkiti
+9.76	basket	čikiwit
+9.76	basket	tanah
+9.77	mat	petat
+9.77	mat	tapeč
+9.77	mat	akapečti
+9.79	fan (noun)	tapipic̷aloni
+9.791	fan (vb)	kitamota
+9.83	statue	nekec̷alis
+9.88	paint (noun)	tapal
+9.88	paint (noun)	kʷikʷiltik
+9.89	paint (vb)	kitapalwia
+10.11	move	kiolinia
+10.11	move	kimaneloa
+10.11	move	kineloa
+10.12	turn over	kineloa
+10.13	turn around	kikepa
+10.13	turn around	mokepa
+10.13	turn around	momalakačoa
+10.14	wind, wrap	kikemiloa
+10.14	wind, wrap	kipiki
+10.15	roll	tetekʷinol
+10.17	twist	kitec̷iloa
+10.17	twist	momalakačoa
+10.21	rise	seentehko
+10.21	rise	tehkoka
+10.22	raise, lift	kiahakʷi
+10.23	fall	wec̷i
+10.23	fall	wec̷o
+10.24	drip	čičipika
+10.24	drip	čipini
+10.24	drip	čalani
+10.25	throw	kitamota
+10.26	shake	wiwiška
+10.26	shake	kʷekʷetaka
+10.33	sink	pankalaki
+10.33	sink	mopac̷toka
+10.34	float	nemiaiško
+10.35	swim	ahkʷi
+10.352	splash	čačakʷaka
+10.352	splash	čačapaka
+10.352	splash	čačapani
+10.37	fly (vb)	patani
+10.38	blow	kipipic̷a
+10.38	blow	kipic̷a
+10.41	creep, crawl	motitilac̷a
+10.41	creep, crawl	moišakawilana
+10.412	kneel	motankʷakec̷a
+10.42	slide, slip	tašolawa
+10.42	slide, slip	alaktik
+10.42	slide, slip	alawak
+10.43	jump, leap	c̷ikʷini
+10.431	kick	mec̷topeewa
+10.431	kick	kiteliksa
+10.44	dance	mihtotia
+10.44	dance	kʷesaltin
+10.44	dance	wewes
+10.45	walk	nemi
+10.45	walk	nehnemi
+10.45	walk	nen
+10.45	walk	nehnen
+10.46	run	motaloa
+10.47	go	nehnemi
+10.47	go	nemi
+10.47	go	yowi
+10.47	go	ow
+10.47	go	yow
+10.47	go	yah
+10.471	go up	tehko
+10.471	go up	pankisa
+10.471	go up	kahakʷi
+10.473	go down	temoa
+10.474	go out	kisa
+10.474	go out	kiiš
+10.474	go out	ewtewa
+10.48	come	wic̷a
+10.48	come	wala
+10.48	come	wiki
+10.481	come back	mokepa
+10.481	come back	išpetani
+10.49	go away, depart	kikawa
+10.49	go away, depart	kikačtewa?
+10.51	flee	čoloa
+10.51	flee	čolohtinemi
+10.52	follow	toka
+10.52	follow	tatohtoka
+10.52	follow	kisentoka
+10.53	pursue	toka
+10.55	reach, arrive	kiahsi
+10.55	reach, arrive	ehko
+10.57	enter	kalaki
+10.61	carry (bear)	tamama
+10.61	carry (bear)	kʷika
+10.612	carry-in-hand	kimahčana
+10.62	bring	wiikaa
+10.62	bring	kʷalkʷi
+10.62	bring	waalkʷii
+10.63	send	kititani
+10.64	lead (vb)	kiyekana
+10.64	lead (vb)	čaana
+10.65	drive	kinehnemiltia
+10.71	road	ohti
+10.72	path	ohti
+10.72	path	ohpic̷ak
+10.75	carriage, wagon, cart	talkištiloni
+10.76	wheel	yowaltik
+11.11	have	kipia
+11.12	own, possess	w
+11.12	own, possess	wan
+11.13	take	kikʷi
+11.13	take	tahkʷania
+11.13	take	kʷilia
+11.14	seize, grasp	kikʷi
+11.14	seize, grasp	maakʷili
+11.15	hold	kikic̷kia
+11.17	keep, retain	kipia
+11.18	thing	tehsa
+11.21	give	kimaka
+11.21	give	kitemaka
+11.27	destroy	kiwehweloa
+11.28	harm, injure, damage	kičiwiliamal
+11.28	harm, injure, damage	moihtakoa
+11.31	seek, look for	kiteemoa
+11.32	find	kiahsi
+11.32	find	momati
+11.33	lose	kipoloa
+11.43	money	tomin
+11.51	rich	tominpiškeh
+11.52	poor	nakenamokipiateniaška
+11.53	beggar	nakentahtanimaj
+11.54	avaricious, stingy	c̷oc̷okat
+11.62	borrow	tanewti
+11.62	borrow	tanewi
+11.63	owe	tawika
+11.64	debt	tawikalis
+11.65	pay (vb)	taštawa
+11.65	pay (vb)	ištaa
+11.81	buy	kikoa
+11.82	sell	kinamaka
+11.87	price	ipatiw
+11.88	dear (costly, expensive)	patioh
+11.89	cheap	amopatioh
+11.91	share (distribute)	kišehšeloa
+12.11	place	taikampa
+12.11	place	ikampa
+12.11	place	ikan
+12.2	beside	anal
+12.2	beside	analpa
+12.2	beside	inakastan
+12.3	down, below	tani
+12.3	down, below	newintani
+12.4	before	ačto
+12.4	before	ačtopa
+12.41	right (side)	taišpan
+12.41	right (side)	ištenoh
+12.41	right (side)	išpan
+12.5	inside, in	ihtik
+12.5	inside, in	taihtik
+12.5	inside, in	aktok
+12.5	inside, in	ko
+12.6	outside	kalan
+12.6	outside	kalampa
+12.7	under	tatampa
+12.8	up, above	ahko
+12.8	up, above	ipan
+12.8	up, above	pani
+12.11	place	kan
+12.11	place	an
+12.11	place	seko
+12.11	place	ko
+12.12	put	kitalia
+12.13	sit	kitokoc̷talia
+12.13	sit	motalia
+12.14	lie down	kiteka
+12.14	lie down	wec̷tok
+12.15	stand	ihkatok
+12.15	stand	ihkatokmelawak
+12.15	stand	kec̷a
+12.16	remain, stay	mokawa
+12.17	remains, left overs	tenmokawak
+12.21	collect, gather	kiololoa
+12.213	pile up	kinepanoa
+12.213	pile up	kitema
+12.213	pile up	moteema
+12.22	join, unite	kisentilia
+12.22	join, unite	monečikoa
+12.23	separate	kišeloa
+12.23	separate	kitamanšelka
+12.232	divide	kišeloa
+12.232	divide	kitahkošeloa
+12.24	open	tatapoa
+12.25	shut, close	kic̷akʷa
+12.26	cover	tatopalwia
+12.26	cover	kipačoa
+12.26	cover	kic̷akʷa
+12.27	hide, conceal	kitatia
+12.27	hide, conceal	kiičtakaewa
+12.31	high	wehkapan
+12.31	high	wehkapantik
+12.33	top	takʷapan
+12.35	end	kampac̷ontami
+12.352	pointed	kʷayekapic̷tik
+12.352	pointed	yekapic̷tik
+12.353	edge	tatenoh
+12.353	edge	tamačiwtok
+12.36	side	ipošnakastan
+12.37	middle, center	tatahkoyan
+12.41	right (side)	iyekmay
+12.42	left (side)	opočti
+12.43	near (adv)	amowehka
+12.43	near (adv)	inawak
+12.43	near (adv)	inakastan
+12.44	far (adv)	wehka
+12.45	east	tonalkisayampa
+12.46	west	tonalkalakiampa
+12.47	north	tanipa
+12.48	south	ahkopa
+12.53	grow	moskaltia
+12.54	measure	kitamačiwa
+12.55	large, big	weyi
+12.56	small, little	c̷ikc̷in
+12.56	small, little	c̷ikic̷in
+12.57	long	weyak
+12.58	tall	wehkapan
+12.59	short	c̷ikc̷in
+12.59	short	nohnel
+12.59	short	amowehkapan
+12.59	short	tokoc̷
+12.61	wide, broad	patawak
+12.61	wide, broad	koyawak
+12.62	narrow	kopic̷tik
+12.62	narrow	pic̷awak
+12.63	thick (in dimension)	tilawak
+12.63	thick (in dimension)	tomawak
+12.65	thin (in dimension)	kakaltik
+12.65	thin (in dimension)	kakalačtik
+12.65	thin (in dimension)	pic̷awak
+12.67	deep	wehkatan
+12.73	straight	melawak
+12.73	straight	naal
+12.73	straight	yeek
+12.74	crooked	čikol
+12.74	crooked	čihkoltik
+12.74	crooked	ilakac̷tik
+12.81	round	yowaltik
+12.83	sphere, ball	teololtik
+12.84	line	kitekpana
+12.84	line	kisaloa
+12.85	hole	koyok
+12.85	hole	koyokti
+12.85	hole	tekoč
+12.92	like, similar	išiwki
+12.92	like, similar	tamatisneki
+12.92	like, similar	tamati
+12.93	change	kipata
+13.0	zero, nothing	amoteyi
+13.1	one	se
+13.1	one	seya
+13.2	two	ome
+13.3	three	eyi
+13.4	four	nawi
+13.5	five	makʷil
+13.6	six	čikʷasen
+13.7	seven	čikome
+13.8	eight	čikʷeeyi
+13.9	nine	čiknawi
+13.10	ten	mahtakti
+13.101	eleven	mahtaktionse
+13.102	twelve	mahtaktiomome
+13.103	fifteen	kaštol
+13.104	twenty	sempoal
+13.105	hundred	makʷilpoal
+13.106	thousand	semil
+13.107	count	tapoa
+13.14	every, all	sehse
+13.14	every, all	noči
+13.14	every, all	nočin
+13.15	much, many	kači
+13.15	much, many	miak
+13.15	much, many	nel
+13.15	much, many	simi
+13.16	more	kači
+13.16	more	miak
+13.16	more	seki
+13.16	more	okseki
+13.17	little (quantity), few	kačitipic̷in
+13.18	enough	ongakmiak
+13.18	enough	telahsi
+13.181	some	tehsa
+13.181	some	aken
+13.181	some	akin
+13.181	some	aksaa
+13.21	full	pešontok
+13.22	empty	kinokia
+13.22	empty	iwki
+13.23	part, piece	tahko
+13.24	half	tahko
+13.33	alone, only	iselti
+13.33	alone, only	iškoyan
+13.33	alone, only	sayoh
+13.34	first	ačto
+13.35	last	wehkawa
+13.38	two times	ohpa
+13.44	three times	ešpa
+14.11	time	iksa
+14.12	age	šiwyehya
+14.12	age	nišwiw
+14.12	age	wewehyot
+14.13	new	yanwik
+14.15	old	soltik
+14.15	old	wewet
+14.16	early	kʷalkan
+14.17	late	wehkawa
+14.18	now	aškan
+14.18	now	aškanniman
+14.18	now	yekinc̷in
+14.21	swift, fast, quick	ihsiwik
+14.21	swift, fast, quick	ihsiwkayot
+14.21	swift, fast, quick	niman
+14.22	slow	yooliik
+14.23	hasten, hurry	moihsiwilia
+14.24	retard, delay	wehkawa
+14.25	begin, beginning	pewa
+14.25	begin, beginning	c̷inewa
+14.252	last, endure	siiko
+14.252	last, endure	tašikoa
+14.252	last, endure	kihyowia
+14.27	finish	tamia
+14.29	ready	nenkensahweli
+14.31	always	nočipa
+14.31	always	načipa
+14.31	always	ačipa
+14.331	soon	amowehika
+14.332	long-time (for a)	wehika
+14.332	long-time (for a)	wehkawia
+14.34	never	amoikah
+14.34	never	nionkeman
+14.34	never	amokeman
+14.35	again	oksepa
+14.35	again	ok
+14.41	day	tonal
+14.42	night	yowal
+14.43	dawn	tanesi
+14.43	dawn	kʷalkan
+14.44	morning	kʷalkan
+14.44	morning	okyanc̷in
+14.45	noon, midday	nepantah
+14.45	noon, midday	tahkotonal
+14.451	afternoon	tiotak
+14.47	today	aškan
+14.47	today	aškannihintonal
+14.48	tomorrow	mosta
+14.48	tomorrow	imostika
+14.481	day-after-tomorrow	wiwta
+14.49	yesterday	yalwa
+14.491	day-before-yesterday	yowiwta
+14.61	week	teččikʷeyitonal
+14.71	month	mec̷ti
+14.73	year	šiwit
+14.73	year	šiw
+14.74	winter	kemantaseseya
+14.75	spring	pewatatotoniaya
+14.76	summer	tatotonilot
+14.78	season	welaman
+15.21	smell (vb intrans)	tahnekʷi
+15.22	smell (vb trans)	ahwiaya
+15.22	smell (vb trans)	ahwiayalis
+15.22	smell (vb trans)	ahwiyak
+15.25	fragrant, good smelling	ahwiyak
+15.25	fragrant, good smelling	kʷalc̷inahwiak
+15.26	stinking, bad smelling	c̷ohyak
+15.26	stinking, bad smelling	c̷ohyaya
+15.31	taste	kiekoa
+15.35	sweet	c̷opek
+15.36	salty	istayoh
+15.36	salty	nelistayoh
+15.36	salty	poyek
+15.37	bitter	čičik
+15.37	bitter	čičipahtik
+15.38	acid, sour	šokok
+15.38	acid, sour	šokopaltik
+15.41	hear	kaki
+15.42	listen	kikaki
+15.44	sound, noise	kakalaka
+15.44	sound, noise	c̷ilini
+15.44	sound, noise	komoni
+15.46	quiet, silence	motamatilia
+15.51	see	kita
+15.51	see	mota
+15.52	look, look at	kita
+15.52	look, look at	kisenita
+15.52	look, look at	kimowisoa
+15.55	show	kineštia
+15.55	show	neeštiili
+15.56	shine	pepetaka
+15.56	shine	milini
+15.56	shine	petani
+15.56	shine	kakawaka
+15.61	color	tapal
+15.64	white	istak
+15.64	white	počiktik
+15.65	black	tiltik
+15.66	red	čiičii
+15.66	red	čičiltik
+15.67	blue	šošoktik
+15.68	green	šošoktik
+15.69	yellow	kostik
+15.712	pinch	kistekʷi
+15.72	feel	kimačilia
+15.74	hard	takʷawak
+15.75	soft	yemašc̷in
+15.76	rough	šihšipintik
+15.76	rough	šašakačtik
+15.77	smooth	alaštik
+15.77	smooth	yemašc̷in
+15.78	sharp	kitentia
+15.81	heavy	etik
+15.82	light (in weight)	ehkawtik
+15.83	wet, damp	paltik
+15.83	wet, damp	atac̷tik
+15.83	wet, damp	kʷečawak
+15.84	dry	kiwac̷a
+15.84	dry	waki
+15.84	dry	wayik
+15.85	hot	totoonik
+15.85	hot	totoktik
+15.85	hot	kawantok
+15.85	hot	kawaktik
+15.851	warm	kitotonia
+15.851	warm	kikawantia
+15.86	cold	sesek
+15.87	clean	čipawak
+15.87	clean	kičipawa
+15.87	clean	kipohpowa
+15.88	dirty, soiled	pic̷otik
+15.88	dirty, soiled	c̷ohkʷiltik
+15.88	dirty, soiled	yayaktik
+15.89	wrinkled	c̷oc̷oltik
+15.89	wrinkled	kʷehkʷelpačtik
+16.11	soul, spirit	iyolo
+16.11	soul, spirit	itonal
+16.11	soul, spirit	ianima
+16.15	surprised, astonished	kimowtia
+16.23	joyful, glad, happy	yolpaki
+16.23	joyful, glad, happy	yolkisa
+16.23	joyful, glad, happy	paki
+16.25	laugh	wec̷ka
+16.25	laugh	wewec̷ka
+16.25	laugh	wec̷kalis
+16.251	smile	išwec̷ka
+16.26	play	mawiltia
+16.26	play	awil
+16.26	play	awilti
+16.27	love	kitasohta
+16.29	kiss	kitenamiki
+16.31	pain	tekokoa
+16.31	pain	tekokohkayot
+16.32	grief, sorrow, sadness	moyolkokoa
+16.35	pity	teiknelilis
+16.37	cry, weep	čoka
+16.37	cry, weep	iščoka
+16.38	tear (noun)	išayo
+16.39	groan	sosolka
+16.41	hate	kitawelita
+16.42	anger	kʷalanti
+16.42	anger	mokʷatotonia
+16.44	envy, jealousy	čawalis
+16.44	envy, jealousy	čawati
+16.45	shame (noun)	pinawa
+16.48	proud	weyinekilis
+16.51	dare	moiiseewia
+16.52	brave	yolčikawak
+16.52	brave	išmatatik
+16.52	brave	tontohtik
+16.53	fear, fright	mowkayot
+16.53	fear, fright	mowilis
+16.53	fear, fright	kimowtia
+16.54	danger	owihkan
+16.62	desire, want	kineki
+16.62	desire, want	kičiwasneki
+16.62	desire, want	kelewia
+16.622	choose	kihita
+16.622	choose	kištalia
+16.622	choose	kipehpena
+16.63	hope	takʷawtamatilis
+16.63	hope	tenkiča
+16.63	hope	ča
+16.65	faithful	takʷawtamatilis
+16.65	faithful	taneltokalis
+16.66	true	melan
+16.66	true	melawak
+16.67	lie, tell lies	takahkayawa
+16.67	lie, tell lies	šolopihti
+16.69	forgive	tapohpool
+16.71	good	kʷali
+16.71	good	kʷaliyetok
+16.72	bad	amokʷali
+16.73	right, correct	kʷaliyetok
+16.76	fault	tahtakol
+16.77	mistake, error	mopoloa
+16.79	praise	kʷaalkec̷a
+16.81	beautiful	kʷalc̷in
+16.82	ugly	amokʷalc̷in
+16.82	ugly	pic̷otik
+17.11	mind	tamačilis
+17.11	mind	el
+17.13	think (= reflect)	tanemilia
+17.14	think (= be of the opinion)	tanemilia
+17.15	believe	kineltoka
+17.16	understand	kimati
+17.17	know	kimati
+17.172	imitate	kinehnemilia
+17.172	imitate	kitenkʷi
+17.18	seem	iwtok
+17.18	seem	pane
+17.18	seem	nesi
+17.18	seem	tamati
+17.19	idea, notion	tamačilis
+17.21	wise	tamatkeh
+17.21	wise	tamačileh
+17.22	foolish, stupid	seensool
+17.22	foolish, stupid	amokipiamowisiot
+17.23	insane, crazy	kʷakeptok
+17.23	insane, crazy	kʷakepi
+17.24	learn	momačtia
+17.242	study	momačtia
+17.25	teach	kimačtia
+17.25	teach	kiyekneštilia
+17.27	teacher	tamačtihkeh
+17.31	remember	ihsa
+17.31	remember	kihšitia
+17.31	remember	kelnamiki
+17.32	forget	kielkawa
+17.32	forget	elkaawa
+17.34	clear, plain	yekmelan
+17.34	clear, plain	yeknestok
+17.36	secret	ičtaka
+17.37	sure, certain	melan
+17.37	sure, certain	yekmelan
+17.38	explain	kiyekihtoa
+17.38	explain	kiyekilis
+17.41	intention, purpose	ti
+17.42	cause	tii
+17.42	cause	wi
+17.42	cause	w
+17.43	doubt	amotakʷawtamati
+17.44	suspect	kipaantiia
+17.45	need, necessity	moneki
+17.46	easy	amoowih
+17.47	difficult	owih
+17.47	difficult	telowih
+17.48	try, attempt	eko
+17.48	try, attempt	eheko
+17.51	and	wan
+17.52	because	porin
+17.53	if	ta
+17.53	if	ša
+17.55	yes, affirmative	kemah
+17.56	no, negative	amo
+17.56	no, negative	taa
+17.61	how?	kinin
+17.61	how?	kiniw
+17.62	how many?	kanači
+17.62	how many?	kanačin
+17.63	how much?	kanači
+17.64	what?	toni
+17.64	what?	koš
+17.64	what?	še
+17.65	when?	keman
+17.66	where?	kan
+17.66	where?	kampa
+17.66	where?	kanika
+17.66	where?	kansika
+17.67	which?	katin
+17.67	which?	katihyehwa
+17.68	who?	akoni
+17.68	who?	naken
+17.69	why?	keyeh
+17.69	why?	toni
+18.12	sing	oa
+18.13	shout, cry out	c̷ahc̷i
+18.13	shout, cry out	yolc̷ahc̷i
+18.15	whisper	ičtakatanohnoc̷a
+18.17	whistle	kikisi
+18.17	whistle	tapic̷a
+18.21	speak, talk	tahtoa
+18.21	speak, talk	saniloa
+18.211	stutter, stammer	tenohototia
+18.22	say	kihtoa
+18.22	say	tahtoo
+18.22	say	kilia
+18.221	tell story	kitapowia
+18.221	tell story	saniloa
+18.23	silent (be)	ičta
+18.24	language	tahtol
+18.26	word	tahtol
+18.28	name	kitenewa
+18.31	ask (question, inquire)	tahtani
+18.31	ask (question, inquire)	kimatahtania
+18.32	answer	kinakilia
+18.33	admit, confess	kiselia
+18.33	admit, confess	moyolpata
+18.34	deny	amomoaškatia
+18.36	promise	kinawatilia
+18.36	promise	kiyekkilia
+18.36	promise	yeekteenkaawa
+18.39	rebuke, scold	kʷalani
+18.41	call (=summon)	kinoc̷a
+18.43	announce	kimatiltia
+18.51	write	kihkʷiloa
+18.51	write	tahkʷiloowili
+18.52	read	taoa
+18.56	paper	amat
+18.71	flute	tapic̷aloni
+18.71	flute	tapic̷ti
+18.74	rattle	ayakač
+19.15	city, town	weyipan
+19.16	village	ičampa
+19.21	people (populace)	takayot
+19.24	chief, chieftain	weyitahtohkeh
+19.25	staff, walking stick	itopil
+19.31	rule, govern	kinyekʷika
+19.31	rule, govern	tayekana
+19.37	citizen, subject	ičankaw
+19.37	citizen, subject	masewalc̷in
+19.41	master	iteko
+19.42	slave	takewaltenamokitaštawia
+19.43	servant	takewal
+19.45	command, order	tanawatil
+19.45	command, order	nahnawati
+19.46	obey	kitakamati
+19.46	obey	tataakamat
+19.46	obey	tamat
+19.47	let, permit	mah
+19.47	let, permit	mahkan
+19.51	friend, companion	itasohikniw
+19.51	friend, companion	imaikniw
+19.54	neighbor	ičankaw
+19.54	neighbor	amowehkačanih
+19.55	stranger	wehkačaneh
+19.55	stranger	analtekoh
+19.55	stranger	amokišmatih
+19.58	help, aid	kipalewia
+19.59	hinder, prevent	kic̷akʷilia
+19.61	custom	ipanolis
+19.61	custom	iyalis
+19.61	custom	kinemačtia
+19.65	meet	namiki
+19.72	prostitute	takanečikoa
+20.11	fight (vb)	tatewia
+20.13	war, battle	tatewilis
+20.14	peace	yolkʷali
+20.28	gun, cannon	tepostatopon
+20.28	gun, cannon	tatopon
+20.34	shield	čimal
+20.43	attack	kišnamiki
+20.43	attack	kitewia
+20.471	guard, sentinel	kiyektalia
+20.471	guard, sentinel	kiyekpia
+20.471	guard, sentinel	kiewa
+20.54	fishnet	mamata
+20.54	fishnet	kosolera
+20.61	hunt	tamota
+20.62	shoot	tatoponia
+21.11	law	tanawatil
+21.16	judge (vb)	taišehekoa
+21.16	judge (vb)	tanehnemilia
+21.23	witness	išpanti
+21.24	swear	kiyekkihtoa
+21.37	penalty, punishment	kiyokolia
+21.51	steal	tačteki
+21.52	thief	tačtekkeh

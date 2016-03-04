@@ -1,0 +1,1709 @@
+@classification: Indo-European,Germanic,West,Low Saxon-Low Franconian,Low Franconian
+@ids-name: Dutch_StandardOrth
+@iso: nld
+@language: Dutch
+@size: 1702
+@source: ids
+@variety: std
+1.1	world	wereld
+1.21	earth, land	aarde
+1.21	earth, land	land
+1.212	earth=ground, soil	aarde
+1.212	earth=ground, soil	grond
+1.213	dust	stof
+1.214	mud	modder
+1.214	mud	slijk
+1.215	sand	zand
+1.22	mountain, hill	berg
+1.22	mountain, hill	heuvel
+1.222	cliff, precipice	klip
+1.222	cliff, precipice	afgrond
+1.23	plain, field	vlakte
+1.23	plain, field	veld
+1.24	valley	dal
+1.24	valley	vallei
+1.25	island	eiland
+1.26	mainland	vasteland
+1.27	shore	oever
+1.27	shore	strand
+1.27	shore	kust
+1.28	cave	grot
+1.31	water	water
+1.32	sea	zee
+1.322	calm (of sea)	kalm
+1.323	rough (of sea)	ruw
+1.324	foam	schuim
+1.329	ocean	oceaan
+1.33	lake	meer
+1.34	gulf, bay	golf
+1.34	gulf, bay	baai
+1.341	lagoon	lagune
+1.342	reef	rif
+1.343	headland, point	landtong
+1.343	headland, point	kaap
+1.35	wave	baar
+1.35	wave	golf
+1.352	tide	getij
+1.353	lowtide	eb
+1.354	hightide	vloed
+1.36	river, stream, brook	rivier
+1.36	river, stream, brook	stroom
+1.36	river, stream, brook	beek
+1.362	whirlpool	draaikolk
+1.362	whirlpool	maalstroom
+1.37	spring, well	wel
+1.37	spring, well	bron
+1.37	spring, well	put
+1.38	swamp	moeras
+1.39	waterfall	waterval
+1.41	woods, forest	bos
+1.41	woods, forest	woud
+1.42	tree (cf 08.600)	boom
+1.43	wood	hout
+1.44	stone, rock	steen
+1.44	stone, rock	rots
+1.45	earthquake	aardbeving
+1.51	sky	hemel
+1.52	sun	zon
+1.53	moon	maan
+1.54	star	ster
+1.55	lightning	bliksem
+1.56	thunder	donder
+1.57	lightning (as striking)	bliksem
+1.57	lightning (as striking)	donderkeil
+1.58	storm	storm
+1.58	storm	onweer
+1.59	rainbow	regenboog
+1.61	light (noun)	licht
+1.62	darkness	duisternis
+1.62	darkness	donker
+1.63	shade, shadow	schaduw
+1.64	dew	dauw
+1.71	air	lucht
+1.72	wind	wind
+1.73	cloud	wolk
+1.74	fog	nevel
+1.74	fog	mist
+1.75	rain (noun)	regen
+1.76	snow (noun)	sneeuw
+1.77	ice	ijs
+1.78	weather	weer
+1.78	weather	weder
+1.81	fire	vuur
+1.82	flame (noun)	vlam
+1.83	smoke (noun)	rook
+1.84	ashes	as
+1.841	embers	sintels
+1.851	burn (vb trans)	branden
+1.852	burn (vb intrans)	branden
+1.86	light, kindle, ignite	aansteken
+1.86	light, kindle, ignite	ontsteken
+1.861	extinguish	blussen
+1.87	match (noun)	lucifer
+1.88	firewood	brandhout
+1.89	charcoal	houtskool
+2.1	person, human being	mens
+2.1	person, human being	persoon
+2.21	man (vs. woman)	man
+2.22	woman	vrouw
+2.23	male	mannelijk
+2.24	female	vrouwelijk
+2.25	boy	knaap
+2.251	young man (adolescent)	jongeman
+2.26	girl	meisje
+2.261	young woman (adolescent)	jongevrouw
+2.27	child	kind
+2.28	infant, baby	kind
+2.28	infant, baby	baby
+2.31	husband	man
+2.31	husband	echtgenoot
+2.31	husband	gade
+2.32	wife	vrouw
+2.32	wife	echtgenote
+2.32	wife	gade
+2.33	marry	trouwen
+2.33	marry	huwen
+2.34	marriage, wedding	huwelijk
+2.34	marriage, wedding	echt
+2.34	marriage, wedding	bruiloft
+2.341	divorce	echtscheiding
+2.35	father	vader
+2.36	mother	moeder
+2.37	parents	ouders
+2.38	married man	getrouwdeman
+2.39	married woman	getrouwdevrouw
+2.41	son	zoon
+2.42	daughter	dochter
+2.43	offspring (son or daughter)	kind
+2.44	brother	broer
+2.44	brother	broeder
+2.444	older brother	ouderebroer
+2.445	younger brother	jongerebroer
+2.45	sister	zus
+2.45	sister	zuster
+2.454	older sister	ouderezus
+2.455	younger sister	jongerezus
+2.455	younger sister	zusje
+2.456	sibling	broer
+2.456	sibling	zus
+2.458	twins	tweeling
+2.46	grandfather	grootvader
+2.461	old man	oudeman
+2.47	grandmother	grootmoeder
+2.471	old woman	oudevrouw
+2.48	grandson	kleinzoon
+2.49	granddaughter	kleindochter
+2.51	uncle	oom
+2.511	mother's brother	broervandemoeder
+2.512	father's brother	broervandevader
+2.52	aunt	tante
+2.521	mother's sister	zustervandemoeder
+2.522	father's sister	zustervandevader
+2.53	nephew	neef
+2.54	niece	nicht
+2.55	cousin	neef
+2.55	cousin	nicht
+2.56	ancestors	voorouders
+2.56	ancestors	voorvaderen
+2.57	descendants	nakomelingen
+2.57	descendants	afstammelingen
+2.61	father-in-law (of a man)	schoonvader
+2.611	father-in-law (of a woman)	schoonvader
+2.62	mother-in-law (of a man)	schoonmoeder
+2.621	mother-in-law (of a woman)	schoonmoeder
+2.63	son-in-law (of a man)	schoonzoon
+2.631	son-in-law (of a woman)	schoonzoon
+2.64	daughter-in-law (of a man)	schoondochter
+2.641	daughter-in-law (of a woman)	schoondochter
+2.71	stepfather	stiefvader
+2.72	stepmother	stiefmoeder
+2.73	stepson	stiefzoon
+2.74	stepdaughter	stiefdochter
+2.75	orphan	wees
+2.76	widow	weduwe
+2.77	widower	weduwnaar
+2.81	relatives, kinsmen	verwanten
+2.82	family	familie
+2.91	I	ik
+2.92	you (singular)	jij
+2.93	he/she/it	hij
+2.93	he/she/it	zij
+2.93	he/she/it	het
+2.94	we	wij
+2.941	we (inclusive)	wij
+2.942	we (exclusive)	wij
+2.95	you (plural)	jullie
+2.96	they	zij
+3.11	animal	dier
+3.11	animal	beest
+3.12	male (adj)	mannelijk
+3.12	male (adj)	mannetje
+3.13	female (adj)	vrouwelijk
+3.13	female (adj)	wijfje
+3.13	female (adj)	vrouwtje
+3.15	livestock	vee
+3.16	pasture	weide
+3.18	herdsman	herder
+3.18	herdsman	veehoeder
+3.19	stable, stall	stal
+3.2	cattle (bovine)	runderen
+3.2	cattle (bovine)	rundvee
+3.21	bull	stier
+3.21	bull	bul
+3.22	ox	os
+3.23	cow	koe
+3.24	calf	kalf
+3.25	sheep	schaap
+3.26	ram	ram
+3.28	ewe	ooi
+3.29	lamb	lam
+3.32	boar	wildzwijn
+3.32	boar	beer
+3.34	sow	zeug
+3.35	pig	varken
+3.35	pig	big
+3.36	goat	geit
+3.37	he-goat	bok
+3.38	kid	geitje
+3.41	horse (equine)	paard
+3.42	stallion	hengst
+3.44	mare	merrie
+3.45	foal, colt	veulen
+3.46	ass, donkey	ezel
+3.47	mule	muilezel
+3.5	fowl	gevogelte
+3.52	cock, rooster	haan
+3.54	hen	hen
+3.55	chicken	kuiken
+3.55	chicken	kip
+3.56	goose	gans
+3.57	duck	eend
+3.58	nest	nest
+3.581	bird	vogel
+3.582	seagull	zeemeeuw
+3.583	heron	reiger
+3.584	eagle	adelaar
+3.585	hawk	havik
+3.586	vulture	aasgier
+3.591	bat	vleermuis
+3.592	parrot	papegaai
+3.593	crow	kraai
+3.594	dove	duif
+3.596	owl	uil
+3.61	dog	hond
+3.614	rabbit	konijn
+3.62	cat	kat
+3.622	opossum	opossum
+3.622	opossum	buidelrat
+3.63	mouse, rat	muis
+3.63	mouse, rat	rat
+3.65	fish	vis
+3.652	fin (dorsal)	vin
+3.653	fishscale	visschub
+3.654	gill	kieuw
+3.655	shell	schelp
+3.661	shark	haai
+3.662	porpoise, dolphin	dolfijn
+3.663	whale	walvis
+3.664	stingray	rog
+3.665	freshwater eel	zoetwaterpaling
+3.71	wolf	wolf
+3.72	lion	leeuw
+3.73	bear	beer
+3.74	fox	vos
+3.75	deer	hert
+3.76	monkey	aap
+3.77	elephant	olifant
+3.78	camel	kameel
+3.81	insect	insekt
+3.811	louse	luis
+3.812	nit (louse egg)	neet
+3.813	flea	vlo
+3.814	centipede	duizendpoot
+3.815	scorpion	schorpioen
+3.816	cockroach	kakkerlak
+3.817	ant	mier
+3.818	spider	spin
+3.819	spider web	spinneweb
+3.82	bee	bij
+3.821	beeswax	bijenwas
+3.822	beehive	bijenkorf
+3.823	wasp	wesp
+3.83	fly	vlieg
+3.831	sandfly (midge), gnat	zandvlieg
+3.832	mosquito	mug
+3.84	worm	worm
+3.85	snake	slang
+3.91	firefly	vuurvlieg
+3.92	butterfly	vlinder
+3.93	grasshopper	sprinkhaan
+3.94	snail	slak
+3.95	frog	kikker
+3.96	lizard	hagedis
+3.97	crocodile, alligator	krokodil
+3.97	crocodile, alligator	kaaiman
+3.98	turtle	schildpad
+4.11	body	lichaam
+4.12	skin, hide	huid
+4.12	skin, hide	vel
+4.13	flesh	vlees
+4.14	hair (head)	haar
+4.142	beard	baard
+4.144	body hair	lichaamshaar
+4.145	pubic hair	schaamhaar
+4.146	dandruff	roos
+4.15	blood	bloed
+4.151	vein, artery	bloedvat
+4.151	vein, artery	ader
+4.16	bone	been
+4.16	bone	knook
+4.162	rib	rib
+4.17	horn	hoorn
+4.18	tail	staart
+4.19	back	rug
+4.191	spine	ruggegraat
+4.2	head	hoofd
+4.201	side of head, temple	slaap
+4.202	skull	schedel
+4.203	brain	hersenen
+4.203	brain	brein
+4.204	face	gezicht
+4.205	forehead	voorhoofd
+4.207	jaw	kaak
+4.208	cheek	wang
+4.209	chin	kin
+4.21	eye	oog
+4.212	eyebrow	wenkbrauw
+4.213	eyelid	ooglid
+4.214	eyelash	wimper
+4.215	blink	knipperen
+4.22	ear	oor
+4.221	earlobe	oorlel
+4.222	earwax	oorsmeer
+4.23	nose	neus
+4.231	nostril	neusgat
+4.232	mucus (nasal)	mucosa
+4.232	mucus (nasal)	snot
+4.24	mouth	mond
+4.241	beak	bek
+4.25	lip	lip
+4.26	tongue	tong
+4.27	tooth	tand
+4.271	gums	tandvlees
+4.272	molartooth	kies
+4.28	neck	hals
+4.281	nape of neck	nek
+4.29	throat	keel
+4.29	throat	strot
+4.3	shoulder	schouder
+4.301	shoulderblade	schouderblad
+4.302	collarbone	sleutelbeen
+4.31	arm	arm
+4.312	armpit	oksel
+4.32	elbow	elleboog
+4.321	wrist	pols
+4.33	hand	hand
+4.331	palm of hand	handpalm
+4.34	finger	vinger
+4.342	thumb	duim
+4.344	fingernail	nagel
+4.345	claw	klauw
+4.35	leg	been
+4.351	thigh	dij
+4.352	calf of leg	kuit
+4.36	knee	knie
+4.37	foot	voet
+4.371	ankle	enkel
+4.372	heel	hiel
+4.374	footprint	voetafdruk
+4.38	toe	teen
+4.392	wing	vleugel
+4.393	feather	veder
+4.393	feather	veer
+4.4	chest	borst
+4.41	breast (of woman)	borst
+4.412	nipple, teat	tepel
+4.412	nipple, teat	speen
+4.42	udder	uier
+4.43	navel	navel
+4.44	heart	hart
+4.441	lung	long
+4.45	liver	lever
+4.451	kidney	nier
+4.452	spleen	milt
+4.46	stomach	buik
+4.46	stomach	maag
+4.461	intestines, guts	ingewanden
+4.461	intestines, guts	darmen
+4.462	waist	taille
+4.463	hip	heup
+4.464	buttocks	billen
+4.47	womb	baarmoeder
+4.49	testicle	teelbal
+4.49	testicle	zaadbal
+4.49	testicle	testikel
+4.492	penis	penis
+4.51	breathe, breath	ademen
+4.51	breathe, breath	adem
+4.52	yawn, gape	gapen
+4.52	yawn, gape	geeuwen
+4.521	hiccough	hikken
+4.53	cough	hoesten
+4.54	sneeze	niezen
+4.55	perspire	zweten
+4.55	perspire	zweet
+4.56	spit	spuwen
+4.57	vomit	braken
+4.58	bite	bijten
+4.59	lick	likken
+4.591	dribble	kwijlen
+4.61	sleep	slapen
+4.61	sleep	slaap
+4.612	snore	snurken
+4.62	dream	droom
+4.62	dream	dromen
+4.63	wake up	ontwaken
+4.63	wake up	wakkerworden
+4.64	break wind	windlaten
+4.64	break wind	veesten
+4.65	urinate	urineren
+4.65	urinate	pissen
+4.66	defecate	ontlasting
+4.66	defecate	drek
+4.66	defecate	poep
+4.66	defecate	poepen
+4.67	have sexual intercourse	vrijen
+4.68	shiver	rillen
+4.68	shiver	trillen
+4.69	bathe	zichbaden
+4.71	beget (of father)	verwekken
+4.71	beget (of father)	voortbrengen
+4.72	born (to be)	geboren
+4.72	born (to be)	baren
+4.73	pregnant	zwanger
+4.73	pregnant	drachtig
+4.732	conceive	conceptie
+4.74	live, living, life	leven
+4.74	live, living, life	levend
+4.74	live, living, life	inleven
+4.75	die, dead	sterven
+4.75	die, dead	dood
+4.751	drowned	verdronken
+4.76	kill	doden
+4.77	corpse	lijk
+4.78	bury (the dead)	begraven
+4.79	grave, tomb	graf
+4.79	grave, tomb	tombe
+4.81	strong, mighty, powerful	sterk
+4.81	strong, mighty, powerful	machtig
+4.81	strong, mighty, powerful	krachtig
+4.82	weak	zwak
+4.83	well, health	gezond
+4.83	well, health	gezondheid
+4.84	sick, sickness	ziek
+4.84	sick, sickness	ziekte
+4.84	sick, sickness	krank
+4.841	fever	koorts
+4.842	goiter	krop
+4.843	cold (catarrh)	verkoudheid
+4.85	wound, sore	wond
+4.852	bruise	kneuzen
+4.853	swelling	gezwel
+4.853	swelling	buil
+4.854	itch	jeuk
+4.855	blister	blaar
+4.856	boil (noun)	zweer
+4.857	pus	pus
+4.858	scar	litteken
+4.86	cure, heal	genezen
+4.86	cure, heal	helen
+4.87	physician	arts
+4.87	physician	dokter
+4.88	medicine, drug	medicijn
+4.88	medicine, drug	geneesmiddel
+4.89	poison	gift
+4.89	poison	vergif
+4.91	tired, weary	moe
+4.912	rest	uitrusten
+4.92	lazy	lui
+4.92	lazy	traag
+4.93	bald	kaal
+4.94	lame	kreupel
+4.94	lame	lam
+4.94	lame	mank
+4.95	deaf	doof
+4.96	mute	stom
+4.97	blind	blind
+4.98	intoxicated	dronken
+4.99	naked, bare	naakt
+4.99	naked, bare	bloot
+5.11	eat	eten
+5.12	food	voedsel
+5.12	food	spijs
+5.121	cooked	gekookt
+5.122	raw	rauw
+5.123	ripe	rijp
+5.124	green, unripe	groen
+5.124	green, unripe	onrijp
+5.125	rotten	verrot
+5.13	drink	drinken
+5.14	hunger	honger
+5.141	famine	hongersnood
+5.15	thirst	dorst
+5.16	suck	zuigen
+5.18	chew	kauwen
+5.181	swallow	slikken
+5.19	choke	stikken
+5.21	cook	koken
+5.21	cook	bereiden
+5.22	boil (vb)	koken
+5.23	roast, fry	braden
+5.23	roast, fry	roosteren
+5.23	roast, fry	roosten
+5.24	bake	bakken
+5.25	oven	oven
+5.26	pot, cooking vessel	pan
+5.27	kettle	ketel
+5.28	pan	steelpan
+5.31	dish	schotel
+5.32	plate	bord
+5.33	bowl	schaal
+5.33	bowl	kom
+5.34	pitcher, jug	kruik
+5.34	pitcher, jug	kan
+5.35	cup, drinking vessel	kop
+5.36	saucer	schotel
+5.37	spoon	lepel
+5.38	knife	mes
+5.39	fork	vork
+5.391	tongs	tang
+5.41	meal (a)	maal
+5.41	meal (a)	maaltijd
+5.42	breakfast	ontbijt
+5.43	lunch	lunch
+5.44	dinner	middageten
+5.45	supper	avondeten
+5.45	supper	avondmaaltijd
+5.45	supper	avondmaal
+5.46	peel	schillen
+5.47	sieve, strain	zeven
+5.48	scrape	schrapen
+5.48	scrape	raspen
+5.49	stir, mix	roeren
+5.49	stir, mix	mengen
+5.51	bread	brood
+5.53	dough	deeg
+5.54	knead	kneden
+5.55	meal, flour	meel
+5.56	crush, grind	pletten
+5.56	crush, grind	malen
+5.57	mill	molen
+5.58	mortar	mortier
+5.59	pestle	stamper
+5.61	meat	vlees
+5.63	sausage	worst
+5.64	soup, broth	soep
+5.65	vegetables	groenten
+5.66	bean	boon
+5.7	potato	aardappel
+5.71	fruit	vrucht
+5.71	fruit	fruit
+5.712	bunch	bos
+5.75	fig	vijg
+5.76	grape	druif
+5.77	nut	noot
+5.78	olive	olijf
+5.79	oil	olie
+5.791	grease, fat	vet
+5.81	salt	zout
+5.82	pepper	peper
+5.821	chili pepper	chilipeper
+5.84	honey	honing
+5.85	sugar	suiker
+5.86	milk (noun)	melk
+5.87	milk (vb)	melken
+5.88	cheese	kaas
+5.89	butter	boter
+5.9	beverage, drink	drank
+5.91	mead	mee
+5.92	wine	wijn
+5.93	beer	bier
+5.94	fermented drink	gefermenteerdedrank
+5.97	egg	ei
+5.971	egg yolk	eigeel
+6.11	put on (clothes)	kleden
+6.11	put on (clothes)	zichaankleden
+6.12	clothing, clothes	kleren
+6.12	clothing, clothes	kleding
+6.13	tailor	kleermaker
+6.21	cloth	laken
+6.21	cloth	stof
+6.22	wool	wol
+6.23	linen, flax	linnen
+6.23	linen, flax	vlas
+6.24	cotton	katoen
+6.24	cotton	boomwol
+6.25	silk	zijde
+6.27	felt	vilt
+6.28	fur	bont
+6.29	leather	leer
+6.31	spin	spinnen
+6.32	spindle	spil
+6.33	weave	weven
+6.34	loom	weefgetouw
+6.35	sew	naaien
+6.36	needle	naald
+6.37	awl	els
+6.37	awl	priem
+6.38	thread	draad
+6.39	dye	verven
+6.41	cloak	cape
+6.411	poncho	poncho
+6.42	woman's dress	jurk
+6.42	woman's dress	japon
+6.43	coat	jas
+6.43	coat	mantel
+6.44	shirt	overhemd
+6.45	collar	kraag
+6.45	collar	boordje
+6.46	skirt	rok
+6.461	grass-skirt	grasrok
+6.48	trousers	broek
+6.49	stocking, sock	kous
+6.49	stocking, sock	sok
+6.51	shoe	schoen
+6.52	boot	laars
+6.54	shoemaker, cobbler	schoenmaker
+6.55	hat, cap	hoed
+6.55	hat, cap	muts
+6.55	hat, cap	pet
+6.57	belt, girdle	riem
+6.57	belt, girdle	ceintuur
+6.57	belt, girdle	gordel
+6.58	glove	handschoen
+6.59	veil	sluier
+6.61	pocket	zak
+6.62	button	knoop
+6.63	pin	speld
+6.71	ornament, adornment	versiering
+6.72	jewel	juweel
+6.72	jewel	kleinood
+6.73	ring (for finger)	ring
+6.74	bracelet	armband
+6.75	necklace	halssnoer
+6.75	necklace	halsketting
+6.76	bead	kraal
+6.77	earring	oorring
+6.77	earring	oorbel
+6.78	headband, headdress	hoofdband
+6.78	headband, headdress	hoofdtooisel
+6.79	tattoo	tatouage
+6.81	handkerchief, rag	zakdoek
+6.82	towel	handdoek
+6.91	comb	kam
+6.92	brush	borstel
+6.921	braid	vlecht
+6.93	razor	scheermes
+6.94	ointment	zalf
+6.95	soap	zeep
+6.96	mirror	spiegel
+7.11	dwell, live	wonen
+7.12	house	huis
+7.13	hut	hut
+7.131	garden-house	tuinhuis
+7.14	tent	tent
+7.15	yard, court	hof
+7.15	yard, court	binnenplaats
+7.16	men's house	mannenhuis
+7.17	cookhouse	keuken
+7.18	meeting house	ontmoetingshuis
+7.21	room	kamer
+7.22	door, gate	deur
+7.22	door, gate	poort
+7.221	doorpost, jamb	deurpost
+7.221	doorpost, jamb	deurstijl
+7.23	lock (noun)	slot
+7.231	latch, door-bolt	klink
+7.231	latch, door-bolt	grendel
+7.24	key	sleutel
+7.25	window	venster
+7.26	floor	vloer
+7.27	wall	muur
+7.27	wall	wand
+7.31	fireplace	haard
+7.32	stove	kachel
+7.33	chimney	schoorsteen
+7.37	ladder	trap
+7.42	bed	bed
+7.421	pillow	hoofdkussen
+7.422	blanket	deken
+7.43	chair	stoel
+7.44	table	tafel
+7.45	lamp, torch	lamp
+7.45	lamp, torch	fakkel
+7.45	lamp, torch	toorts
+7.46	candle	kaars
+7.47	shelf	legplank
+7.48	trough	trog
+7.51	roof	dak
+7.52	thatch	riet
+7.53	ridgepole	nokbalk
+7.54	rafter	spint
+7.55	beam	balk
+7.56	post, pole	paal
+7.57	board	plank
+7.58	arch	boog
+7.61	mason	metselaar
+7.62	brick	baksteen
+7.63	mortar	mortel
+7.64	adobe	moddersteen
+7.64	adobe	adobe
+8.11	farmer	landbouwer
+8.11	farmer	boer
+8.12	field (for cultivation)	akker
+8.12	field (for cultivation)	veld
+8.13	garden	tuin
+8.15	cultivate, till	bebouwen
+8.15	cultivate, till	cultiveren
+8.16	fence	hek
+8.16	fence	omheining
+8.17	ditch	sloot
+8.21	plow	ploegen
+8.21	plow	ploeg
+8.212	furrow	voor
+8.22	dig	graven
+8.22	dig	delven
+8.23	spade	spade
+8.24	shovel	schop
+8.25	hoe	schoffel
+8.26	fork	vork
+8.27	rake	hark
+8.31	sow	zaaien
+8.311	seed	zaad
+8.32	mow, reap	maaien
+8.32	mow, reap	oogsten
+8.33	sickle, scythe	sikkel
+8.33	sickle, scythe	zeis
+8.34	thresh	dorsen
+8.35	threshing-floor	dorsvloer
+8.41	crop, harvest	oogst
+8.42	grain (barley, oats etc)	graan
+8.42	grain (barley, oats etc)	koren
+8.43	wheat	tarwe
+8.43	wheat	weit
+8.44	barley	gerst
+8.45	rye	rogge
+8.46	oats	haver
+8.47	maize, corn	mais
+8.48	rice	rijst
+8.51	grass	gras
+8.52	hay	hooi
+8.53	plant (noun)	plant
+8.53	plant (noun)	kruid
+8.531	plant (vb)	planten
+8.54	root	wortel
+8.55	branch	tak
+8.56	leaf	blad
+8.56	leaf	loof
+8.57	flower	bloem
+8.6	tree	boom
+8.61	oak	eik
+8.62	beech	beuk
+8.63	birch	berk
+8.64	pine	pijnboom
+8.65	fir	den
+8.66	acorn	eikel
+8.67	vine	wijnstok
+8.68	tobacco	tabak
+8.69	smoke (tobacco)	roken
+8.691	pipe	pijp
+8.72	tree stump	boomstronk
+8.73	tree trunk	boomstam
+8.74	forked branch	gevorktetak
+8.75	bark	bast
+8.75	bark	schors
+8.76	sap	sap
+8.81	palm tree	palmboom
+8.82	coconut	cocosnoot
+8.83	citrus fruit	citrusfruit
+8.84	banana tree	bananeboom
+8.85	banyan	banyanboom
+8.91	sweet potato	zoeteaardappel
+8.912	yam	yamswortel
+8.92	tapioca, manioc, cassava	tapioca
+8.92	tapioca, manioc, cassava	maniok
+8.92	tapioca, manioc, cassava	cassave
+8.93	gourd	kalebas
+8.931	pumpkin, squash	pompoen
+8.94	bamboo	bamboe
+8.941	sugar cane	rietsuiker
+8.96	fish poison (root)	vissegif
+8.97	nettle	netel
+8.98	mushroom	paddestoel
+9.11	do, make	doen
+9.11	do, make	maken
+9.12	work	werken
+9.12	work	arbeid
+9.14	bend	buigen
+9.15	fold	vouwen
+9.16	tie, bind	binden
+9.161	untie	ontbinden
+9.18	chain	keten
+9.19	rope, cord	touw
+9.19	rope, cord	reep
+9.19	rope, cord	snoer
+9.192	knot (noun)	knoop
+9.21	strike (hit, beat)	slaan
+9.211	pound with fist	vuistslag
+9.22	cut	snijden
+9.22	cut	houwen
+9.221	cut down	omzagen
+9.221	cut down	afmaken
+9.221	cut down	omhakken
+9.222	chop, hew	hakken
+9.222	chop, hew	houwen
+9.223	stab	steken
+9.23	knife	mes
+9.24	scissors, shears	schaar
+9.25	ax	bijl
+9.251	adze	dissel
+9.26	break	breken
+9.261	broken	gebroken
+9.27	split	splijten
+9.28	tear	scheuren
+9.29	flay, skin	villen
+9.31	rub, wipe	wrijven
+9.31	rub, wipe	wissen
+9.32	stretch	strekken
+9.32	stretch	spannen
+9.33	pull	trekken
+9.34	spread out	uitbreiden
+9.34	spread out	strooien
+9.34	spread out	spreiden
+9.341	hang up	ophangen
+9.342	press	drukken
+9.342	press	persen
+9.343	squeeze, wring	knijpen
+9.343	squeeze, wring	wringen
+9.35	pour	gieten
+9.35	pour	schenken
+9.36	wash	wassen
+9.37	sweep	vegen
+9.38	broom	bezem
+9.422	tool	werktuig
+9.422	tool	gereedschap
+9.43	carpenter	timmerman
+9.44	build	bouwen
+9.46	bore	boren
+9.461	hollow out	uithollen
+9.48	saw	zaag
+9.49	hammer	hamer
+9.5	nail	spijker
+9.56	glue	lijm
+9.56	glue	plaksel
+9.6	smith, blacksmith	smid
+9.61	forge	smeden
+9.62	anvil	aambeeld
+9.63	cast (metals)	gieten
+9.64	gold	goud
+9.65	silver	zilver
+9.66	copper, bronze	koper
+9.66	copper, bronze	brons
+9.67	iron	ijzer
+9.68	lead (noun)	lood
+9.69	tin, tinplate	tin
+9.69	tin, tinplate	blik
+9.71	potter	pottenbakker
+9.72	mold (clay etc)	vormen
+9.73	clay	klei
+9.73	clay	leem
+9.74	glass	glas
+9.75	weave, plait	weven
+9.75	weave, plait	vlechten
+9.76	basket	korf
+9.76	basket	mand
+9.77	mat	mat
+9.771	rug	tapijt
+9.78	netbag	gehaaktetas
+9.79	fan (noun)	waaier
+9.791	fan (vb)	zichtoewuiven
+9.81	carve	uithouwen
+9.82	sculptor	beeldhouwer
+9.83	statue	standbeeld
+9.84	chisel	beitel
+9.88	paint (noun)	verf
+9.89	paint (vb)	verven
+9.89	paint (vb)	schilderen
+10.11	move	bewegen
+10.12	turn over	wenden
+10.12	turn over	keren
+10.13	turn around	omdraaien
+10.14	wind, wrap	winden
+10.14	wind, wrap	wikkelen
+10.15	roll	wentelen
+10.15	roll	rollen
+10.16	drop (vb)	latenvallen
+10.17	twist	draaien
+10.17	twist	verdraaien
+10.21	rise	opstaan
+10.21	rise	opstijgen
+10.22	raise, lift	opheffen
+10.22	raise, lift	optillen
+10.23	fall	vallen
+10.24	drip	druppelen
+10.25	throw	werpen
+10.252	catch (ball)	vangen
+10.26	shake	schudden
+10.32	flow	vloeien
+10.33	sink	zinken
+10.33	sink	latenzinken
+10.34	float	drijven
+10.35	swim	zwemmen
+10.351	dive	duiken
+10.352	splash	spatten
+10.36	sail (vb)	zeilen
+10.36	sail (vb)	varen
+10.37	fly (vb)	vliegen
+10.38	blow	blazen
+10.38	blow	waaien
+10.41	creep, crawl	kruipen
+10.412	kneel	knielen
+10.413	crouch	hurken
+10.42	slide, slip	glijden
+10.42	slide, slip	slippen
+10.43	jump, leap	springen
+10.431	kick	schoppen
+10.44	dance	dansen
+10.45	walk	lopen
+10.451	limp	kreupellopen
+10.46	run	rennen
+10.47	go	gaan
+10.471	go up	stijgen
+10.472	climb	klimmen
+10.473	go down	dalen
+10.474	go out	uitgaan
+10.48	come	komen
+10.481	come back	terugkomen
+10.49	go away, depart	weggaan
+10.49	go away, depart	vertrekken
+10.491	disappear	verdwijnen
+10.51	flee	vluchten
+10.51	flee	vlieden
+10.52	follow	volgen
+10.53	pursue	vervolgen
+10.53	pursue	najagen
+10.55	reach, arrive	bereiken
+10.55	reach, arrive	aankomen
+10.56	approach	naderen
+10.57	enter	binnengaan
+10.57	enter	komen
+10.57	enter	treden
+10.61	carry (bear)	dragen
+10.612	carry-in-hand	indehanddragen
+10.613	carry-on-shoulder	overdeschouderdragen
+10.614	carry-on-head	ophethoofddragen
+10.615	carry-underarm	onderdearmdragen
+10.62	bring	brengen
+10.62	bring	halen
+10.63	send	sturen
+10.64	lead (vb)	voeren
+10.64	lead (vb)	leiden
+10.65	drive	rijden
+10.66	ride	rijden
+10.67	push, shove	duwen
+10.71	road	weg
+10.72	path	pad
+10.74	bridge	brug
+10.75	carriage, wagon, cart	wagen
+10.75	carriage, wagon, cart	kar
+10.76	wheel	wiel
+10.77	axle	as
+10.78	yoke	juk
+10.81	ship	schip
+10.83	boat	boot
+10.831	canoe	kanoe
+10.832	outrigger	balansenboot
+10.84	raft	vlot
+10.85	oar	riem
+10.851	paddle (noun)	peddel
+10.852	row (vb)	roeien
+10.86	rudder	roer
+10.87	mast	mast
+10.88	sail (noun)	zeil
+10.89	anchor	anker
+10.91	harbor, port	haven
+10.92	land (vb)	landen
+10.92	land (vb)	aanlandgaan
+11.11	have	hebben
+11.12	own, possess	bezitten
+11.13	take	nemen
+11.14	seize, grasp	grijpen
+11.14	seize, grasp	vatten
+11.15	hold	houden
+11.16	get, obtain	krijgen
+11.16	get, obtain	bekomen
+11.17	keep, retain	behouden
+11.17	keep, retain	vasthouden
+11.18	thing	ding
+11.21	give	geven
+11.22	give back	teruggeven
+11.24	preserve, look after	bewaren
+11.25	save, rescue	redden
+11.27	destroy	vernietigen
+11.28	harm, injure, damage	schaden
+11.28	harm, injure, damage	beschadigen
+11.28	harm, injure, damage	kwaaddoen
+11.31	seek, look for	zoeken
+11.32	find	vinden
+11.33	lose	verliezen
+11.34	release, let go	loslaten
+11.43	money	geld
+11.44	coin	munt
+11.51	rich	rijk
+11.52	poor	arm
+11.52	poor	behoeftig
+11.53	beggar	bedelaar
+11.54	avaricious, stingy	gierig
+11.54	avaricious, stingy	vrekkig
+11.61	lend	uitlenen
+11.62	borrow	borgen
+11.62	borrow	lenen
+11.63	owe	schuldigzijn
+11.64	debt	schuld
+11.65	pay (vb)	betalen
+11.66	account, reckoning	rekening
+11.69	tax, tribute	belasting
+11.77	hire	huren
+11.78	wages	loon
+11.78	wages	salaris
+11.79	earn	verdienen
+11.81	buy	kopen
+11.82	sell	verkopen
+11.83	trade, barter	handelen
+11.83	trade, barter	ruilhandeldrijven
+11.84	merchant	koopman
+11.85	market (place)	markt
+11.86	store, shop	winkel
+11.86	store, shop	magazijn
+11.87	price	prijs
+11.88	dear (costly, expensive)	duur
+11.89	cheap	goedkoop
+11.89	cheap	billijk
+11.91	share (distribute)	delen
+11.92	weigh	wegen
+12.1	after	na
+12.11	place	achter
+12.2	beside	naast
+12.3	down, below	beneden
+12.3	down, below	onder
+12.4	before	voor
+12.41	right (side)	voor
+12.5	inside, in	binnen
+12.5	inside, in	in
+12.6	outside	buiten
+12.7	under	onder
+12.8	up, above	op
+12.8	up, above	boven
+12.11	place	plaats
+12.12	put	zetten
+12.12	put	plaatsen
+12.12	put	leggen
+12.13	sit	zitten
+12.14	lie down	liggen
+12.15	stand	staan
+12.16	remain, stay	blijven
+12.16	remain, stay	wachten
+12.17	remains, left overs	overblijfsels
+12.17	remains, left overs	restjes
+12.21	collect, gather	verzamelen
+12.212	pick up	oppakken
+12.213	pile up	opstapelen
+12.22	join, unite	voegen
+12.22	join, unite	verenigen
+12.22	join, unite	verbinden
+12.23	separate	scheiden
+12.232	divide	verdelen
+12.24	open	openen
+12.25	shut, close	sluiten
+12.25	shut, close	dichtmaken
+12.26	cover	bedekken
+12.27	hide, conceal	verstoppen
+12.27	hide, conceal	verbergen
+12.27	hide, conceal	versteken
+12.31	high	hoog
+12.32	low	laag
+12.33	top	spits
+12.33	top	top
+12.34	bottom	bodem
+12.35	end	einde
+12.352	pointed	spits
+12.352	pointed	puntig
+12.353	edge	scherpte
+12.353	edge	kant
+12.353	edge	rand
+12.36	side	zijde
+12.36	side	kant
+12.37	middle, center	middelste
+12.37	middle, center	midden
+12.41	right (side)	rechter
+12.42	left (side)	linker
+12.43	near (adv)	nabij
+12.43	near (adv)	dichtbij
+12.44	far (adv)	ver
+12.45	east	oosten
+12.46	west	westen
+12.47	north	noorden
+12.48	south	zuiden
+12.53	grow	groeien
+12.53	grow	wassen
+12.54	measure	meten
+12.541	span, fathom	span
+12.541	span, fathom	peilen
+12.55	large, big	groot
+12.56	small, little	klein
+12.57	long	lang
+12.58	tall	lang
+12.58	tall	hoog
+12.59	short	kort
+12.61	wide, broad	breed
+12.61	wide, broad	wijd
+12.62	narrow	nauw
+12.62	narrow	smal
+12.62	narrow	eng
+12.63	thick (in dimension)	dik
+12.65	thin (in dimension)	dun
+12.67	deep	diep
+12.68	shallow	ondiep
+12.71	flat	vlak
+12.71	flat	plat
+12.73	straight	recht
+12.74	crooked	krom
+12.75	hook	haak
+12.76	corner	hoek
+12.77	cross	kruis
+12.78	square	vierhoek
+12.78	square	vierkant
+12.81	round	rond
+12.82	circle	cirkel
+12.82	circle	kring
+12.83	sphere, ball	hemelrond
+12.83	sphere, ball	bol
+12.84	line	lijn
+12.85	hole	gat
+12.92	like, similar	gelijk
+12.92	like, similar	lijkend
+12.93	change	veranderen
+12.93	change	wisselen
+13.0	zero, nothing	nul
+13.0	zero, nothing	niets
+13.1	one	een
+13.2	two	twee
+13.3	three	drie
+13.4	four	vier
+13.5	five	vijf
+13.6	six	zes
+13.7	seven	zeven
+13.8	eight	acht
+13.9	nine	negen
+13.10	ten	tien
+13.101	eleven	elf
+13.102	twelve	twaalf
+13.103	fifteen	vijftien
+13.104	twenty	twintig
+13.105	hundred	honderd
+13.106	thousand	duizend
+13.107	count	tellen
+13.14	every, all	ieder
+13.14	every, all	elk
+13.14	every, all	al
+13.14	every, all	alle
+13.15	much, many	veel
+13.15	much, many	vele
+13.15	much, many	menige
+13.16	more	meer
+13.17	little (quantity), few	weinig
+13.18	enough	genoeg
+13.181	some	beetje
+13.19	multitude, crowd	menigte
+13.19	multitude, crowd	gedrang
+13.21	full	vol
+13.22	empty	ledig
+13.22	empty	leeg
+13.23	part, piece	deel
+13.23	part, piece	stuk
+13.24	half	half
+13.24	half	helft
+13.33	alone, only	alleen
+13.33	alone, only	enig
+13.33	alone, only	slechts
+13.34	first	eerste
+13.35	last	laatste
+13.36	second	tweede
+13.37	pair	paar
+13.38	two times	tweemaal
+13.42	third	derde
+13.44	three times	driemaal
+14.11	time	tijd
+14.12	age	leeftijd
+14.12	age	ouderdom
+14.13	new	nieuw
+14.14	young	jong
+14.15	old	oud
+14.16	early	vroeg
+14.17	late	laat
+14.18	now	nu
+14.19	immediately	dadelijk
+14.19	immediately	onmiddellijk
+14.21	swift, fast, quick	vlug
+14.21	swift, fast, quick	snel
+14.21	swift, fast, quick	gauw
+14.21	swift, fast, quick	ras
+14.22	slow	langzaam
+14.23	hasten, hurry	zichhaasten
+14.23	hasten, hurry	zichspoeden
+14.24	retard, delay	dralen
+14.24	retard, delay	talmen
+14.24	retard, delay	vertragen
+14.24	retard, delay	uitstellen
+14.25	begin, beginning	beginnen
+14.25	begin, beginning	aanvangen
+14.25	begin, beginning	aanvang
+14.25	begin, beginning	begin
+14.252	last, endure	duren
+14.252	last, endure	verduren
+14.26	end (temporal)	einde
+14.26	end (temporal)	slot
+14.27	finish	voleindigen
+14.27	finish	eindigen
+14.27	finish	afmaken
+14.28	cease, stop	ophouden
+14.28	cease, stop	stoppen
+14.29	ready	bereid
+14.29	ready	gereed
+14.31	always	altijd
+14.32	often	dikwijls
+14.32	often	vaak
+14.33	sometimes	soms
+14.33	sometimes	somtijds
+14.33	sometimes	afentoe
+14.331	soon	binnenkort
+14.331	soon	spoedig
+14.332	long-time (for a)	langetijd
+14.34	never	nooit
+14.34	never	nimmer
+14.35	again	weer
+14.41	day	dag
+14.42	night	nacht
+14.43	dawn	dageraad
+14.44	morning	morgen
+14.44	morning	ochtend
+14.45	noon, midday	middag
+14.45	noon, midday	noen
+14.451	afternoon	namiddag
+14.46	evening	avond
+14.47	today	heden
+14.47	today	vandaag
+14.48	tomorrow	morgen
+14.481	day-after-tomorrow	overmorgen
+14.49	yesterday	gisteren
+14.491	day-before-yesterday	eergisteren
+14.51	hour	uur
+14.53	clock, timepiece	klok
+14.53	clock, timepiece	horloge
+14.61	week	week
+14.62	Sunday	zondag
+14.63	Monday	maandag
+14.64	Tuesday	dinsdag
+14.65	Wednesday	woensdag
+14.66	Thursday	donderdag
+14.67	Friday	vrijdag
+14.68	Saturday	zaterdag
+14.71	month	maand
+14.73	year	jaar
+14.74	winter	winter
+14.75	spring	voorjaar
+14.75	spring	lente
+14.76	summer	zomer
+14.77	autumn	herfst
+14.78	season	seizoen
+15.21	smell (vb intrans)	ruiken
+15.212	sniff	snuffelen
+15.22	smell (vb trans)	ruiken
+15.25	fragrant, good smelling	welriekend
+15.25	fragrant, good smelling	geurig
+15.26	stinking, bad smelling	stinkend
+15.31	taste	smaken
+15.35	sweet	zoet
+15.36	salty	zoutig
+15.37	bitter	bitter
+15.38	acid, sour	zuur
+15.39	brackish	brak
+15.41	hear	horen
+15.42	listen	luisteren
+15.44	sound, noise	geluid
+15.44	sound, noise	lawaai
+15.44	sound, noise	herrie
+15.45	loud	luid
+15.46	quiet, silence	rustig
+15.46	quiet, silence	stilte
+15.51	see	zien
+15.52	look, look at	kijken
+15.52	look, look at	bekijken
+15.55	show	tonen
+15.56	shine	schijnen
+15.56	shine	glanzen
+15.57	bright	helder
+15.57	bright	glanzend
+15.61	color	kleur
+15.62	light (in color)	helder
+15.62	light (in color)	licht
+15.63	dark (in color)	donker
+15.64	white	wit
+15.65	black	zwart
+15.66	red	rood
+15.67	blue	blauw
+15.68	green	groen
+15.69	yellow	geel
+15.71	touch	aanraken
+15.712	pinch	knijpen
+15.72	feel	voelen
+15.74	hard	hard
+15.75	soft	zacht
+15.75	soft	week
+15.76	rough	ruw
+15.76	rough	oneffen
+15.77	smooth	glad
+15.77	smooth	effen
+15.78	sharp	scherp
+15.79	blunt, dull	stomp
+15.79	blunt, dull	bot
+15.81	heavy	zwaar
+15.82	light (in weight)	licht
+15.83	wet, damp	nat
+15.83	wet, damp	vochtig
+15.84	dry	droog
+15.85	hot	heet
+15.85	hot	warm
+15.851	warm	warm
+15.851	warm	lauw
+15.86	cold	koud
+15.87	clean	schoon
+15.88	dirty, soiled	vuil
+15.88	dirty, soiled	smerig
+15.89	wrinkled	gekreukt
+16.11	soul, spirit	ziel
+16.11	soul, spirit	geest
+16.15	surprised, astonished	verrast
+16.15	surprised, astonished	verbaasd
+16.18	good fortune, luck	geluk
+16.19	misfortune, bad luck	ongeluk
+16.19	misfortune, bad luck	pech
+16.23	joyful, glad, happy	blij
+16.23	joyful, glad, happy	gelukkig
+16.23	joyful, glad, happy	blijde
+16.25	laugh	lachen
+16.251	smile	glimlachen
+16.26	play	spelen
+16.27	love	liefde
+16.27	love	beminnen
+16.29	kiss	kussen
+16.3	embrace	omarmen
+16.31	pain	pijn
+16.31	pain	smart
+16.31	pain	leed
+16.32	grief, sorrow, sadness	kommer
+16.32	grief, sorrow, sadness	verdriet
+16.32	grief, sorrow, sadness	leed
+16.32	grief, sorrow, sadness	smart
+16.32	grief, sorrow, sadness	bedroefenis
+16.33	anxiety, worry	angst
+16.34	regret, be sorry	betreuren
+16.34	regret, be sorry	berouwen
+16.35	pity	medelijden
+16.35	pity	mededogen
+16.37	cry, weep	wenen
+16.37	cry, weep	huilen
+16.38	tear (noun)	traan
+16.39	groan	steunen
+16.39	groan	stenen
+16.39	groan	kreunen
+16.41	hate	haat
+16.42	anger	toorn
+16.42	anger	woede
+16.42	anger	boosheid
+16.44	envy, jealousy	nijd
+16.44	envy, jealousy	afgunst
+16.44	envy, jealousy	jaloezie
+16.44	envy, jealousy	jaloersheid
+16.45	shame (noun)	schaamte
+16.48	proud	trots
+16.51	dare	wagen
+16.51	dare	durven
+16.52	brave	dapper
+16.52	brave	moedig
+16.52	brave	koen
+16.53	fear, fright	vrees
+16.53	fear, fright	schrik
+16.54	danger	gevaar
+16.62	desire, want	begeren
+16.62	desire, want	verlangen
+16.62	desire, want	willen
+16.622	choose	kiezen
+16.63	hope	hoop
+16.65	faithful	trouw
+16.66	true	waar
+16.67	lie, tell lies	leugen
+16.67	lie, tell lies	liegen
+16.68	deceit	bedrog
+16.68	deceit	list
+16.69	forgive	vergeven
+16.71	good	goed
+16.72	bad	slecht
+16.72	bad	kwaad
+16.72	bad	erg
+16.73	right, correct	juist
+16.73	right, correct	correct
+16.74	wrong	verkeerd
+16.74	wrong	onjuist
+16.76	fault	schuld
+16.77	mistake, error	fout
+16.77	mistake, error	dwaling
+16.78	blame	blaam
+16.79	praise	lof
+16.81	beautiful	schoon
+16.81	beautiful	mooi
+16.81	beautiful	fraai
+16.82	ugly	lelijk
+16.83	greedy	hebzuchtig
+16.83	greedy	gretig
+16.83	greedy	veelvraat
+16.84	clever	slim
+17.11	mind	geest
+17.11	mind	zin
+17.13	think (= reflect)	denken
+17.14	think (= be of the opinion)	menen
+17.14	think (= be of the opinion)	denken
+17.14	think (= be of the opinion)	geloven
+17.15	believe	geloven
+17.16	understand	verstaan
+17.16	understand	begrijpen
+17.17	know	weten
+17.17	know	kennen
+17.171	guess	raden
+17.172	imitate	imiteren
+17.18	seem	schijnen
+17.19	idea, notion	idee
+17.19	idea, notion	notie
+17.19	idea, notion	begrip
+17.21	wise	wijs
+17.22	foolish, stupid	dwaas
+17.22	foolish, stupid	zot
+17.22	foolish, stupid	dom
+17.23	insane, crazy	gek
+17.23	insane, crazy	dol
+17.23	insane, crazy	krankzinnig
+17.24	learn	leren
+17.242	study	studeren
+17.25	teach	leren
+17.25	teach	onderwijzen
+17.26	pupil	leerling
+17.27	teacher	leraar
+17.28	school	school
+17.31	remember	zichherinneren
+17.31	remember	gedenken
+17.31	remember	heugen
+17.32	forget	vergeten
+17.34	clear, plain	klaar
+17.34	clear, plain	duidelijk
+17.35	obscure	duister
+17.36	secret	geheim
+17.36	secret	heimelijk
+17.37	sure, certain	zeker
+17.37	sure, certain	gewis
+17.38	explain	verklaren
+17.38	explain	uitleggen
+17.41	intention, purpose	voornemen
+17.41	intention, purpose	doel
+17.41	intention, purpose	bedoeling
+17.42	cause	veroorzaken
+17.43	doubt	twijfelen
+17.44	suspect	verdenken
+17.44	suspect	achterdochthebben
+17.44	suspect	argwaanhebben
+17.441	betray	verraden
+17.45	need, necessity	behoefte
+17.45	need, necessity	noodzaak
+17.46	easy	gemakkelijk
+17.47	difficult	moeilijk
+17.48	try, attempt	proberen
+17.48	try, attempt	pogen
+17.49	way, manner	manier
+17.51	and	en
+17.52	because	omdat
+17.53	if	als
+17.54	or	of
+17.55	yes, affirmative	ja
+17.55	yes, affirmative	bevestigend
+17.56	no, negative	nee
+17.56	no, negative	ontkennend
+17.61	how?	hoe?
+17.62	how many?	hoeveel?
+17.63	how much?	hoeveel?
+17.64	what?	wat?
+17.65	when?	wanneer?
+17.66	where?	waar?
+17.67	which?	welk?
+17.68	who?	wie?
+17.69	why?	waarom?
+18.11	voice	stem
+18.12	sing	zingen
+18.13	shout, cry out	schreeuwen
+18.13	shout, cry out	roepen
+18.15	whisper	fluisteren
+18.16	mumble	mompelen
+18.17	whistle	fluiten
+18.18	shriek, screech	krijsen
+18.19	howl	brullen
+18.21	speak, talk	spreken
+18.21	speak, talk	praten
+18.211	stutter, stammer	stotteren
+18.211	stutter, stammer	stamelen
+18.22	say	zeggen
+18.221	tell story	vertellen
+18.222	speech (make a)	eentoespraak
+18.23	silent (be)	zwijgen
+18.24	language	taal
+18.24	language	spraak
+18.26	word	woord
+18.28	name	naam
+18.31	ask (question, inquire)	vragen
+18.32	answer	antwoorden
+18.33	admit, confess	toegeven
+18.33	admit, confess	bekennen
+18.34	deny	loochenen
+18.34	deny	ontkennen
+18.35	ask, request	verzoeken
+18.35	ask, request	verlangen
+18.36	promise	beloven
+18.37	refuse	weigeren
+18.37	refuse	afslaan
+18.38	forbid	verbieden
+18.39	rebuke, scold	berispen
+18.39	rebuke, scold	bekijven
+18.41	call (=summon)	roepen
+18.42	call (=name)	noemen
+18.42	call (=name)	heten
+18.43	announce	aankondigen
+18.44	threaten	dreigen
+18.45	boast	zichberoemen
+18.45	boast	pochen
+18.45	boast	pralen
+18.45	boast	opscheppen
+18.51	write	schrijven
+18.52	read	lezen
+18.56	paper	papier
+18.57	pen	pen
+18.61	book	boek
+18.67	poet	dichter
+18.71	flute	fluit
+18.72	drum	trommel
+18.73	horn, trumpet	hoorn
+18.73	horn, trumpet	trompet
+18.74	rattle	ratel
+18.74	rattle	rammelaar
+19.11	country	land
+19.12	one's native country	vaderland
+19.15	city, town	stad
+19.16	village	dorp
+19.17	boundary	grens
+19.21	people (populace)	volk
+19.21	people (populace)	lieden
+19.23	tribe, clan	stam
+19.23	tribe, clan	geslacht
+19.24	chief, chieftain	hoofdman
+19.24	chief, chieftain	stamhoofd
+19.25	staff, walking stick	staf
+19.25	staff, walking stick	wandelstok
+19.31	rule, govern	regeren
+19.31	rule, govern	besturen
+19.32	king, ruler	koning
+19.32	king, ruler	heerser
+19.33	queen	koningin
+19.36	noble, nobleman	edelman
+19.37	citizen, subject	burger
+19.37	citizen, subject	onderdaan
+19.41	master	heer
+19.41	master	baas
+19.42	slave	slaaf
+19.43	servant	dienaar
+19.43	servant	knecht
+19.44	freeman	vrijeman
+19.45	command, order	bevelen
+19.45	command, order	gebieden
+19.46	obey	gehoorzamen
+19.47	let, permit	toelaten
+19.47	let, permit	veroorloven
+19.51	friend, companion	vriend
+19.51	friend, companion	metgezel
+19.52	enemy	vijand
+19.54	neighbor	buurman
+19.55	stranger	vreemdeling
+19.56	guest	gast
+19.57	host	gastheer
+19.58	help, aid	helpen
+19.59	hinder, prevent	verhinderen
+19.59	hinder, prevent	beletten
+19.59	hinder, prevent	voorkomen
+19.61	custom	zede
+19.61	custom	gebruik
+19.62	strife, quarrel	strijd
+19.62	strife, quarrel	twist
+19.63	conspiracy, plot	samenzwering
+19.63	conspiracy, plot	complot
+19.65	meet	ontmoeten
+19.72	prostitute	hoer
+19.72	prostitute	prostituée
+19.72	prostitute	deern
+20.11	fight (vb)	kampen
+20.11	fight (vb)	vechten
+20.13	war, battle	oorlog
+20.13	war, battle	slag
+20.13	war, battle	krijg
+20.14	peace	vrede
+20.15	army	leger
+20.15	army	heer
+20.17	soldier	soldaat
+20.21	weapons, arms	wapens
+20.22	club	knots
+20.222	battle-ax	strijdbijl
+20.23	sling	slinger
+20.24	bow	boog
+20.25	arrow	pijl
+20.26	spear	speer
+20.26	spear	spiets
+20.26	spear	lans
+20.27	sword	zwaard
+20.28	gun, cannon	geweer
+20.28	gun, cannon	kanon
+20.31	armor (defensive)	uitrusting
+20.31	armor (defensive)	harnas
+20.33	helmet	helm
+20.34	shield	schild
+20.35	fortress	vesting
+20.35	fortress	fort
+20.36	tower	toren
+20.41	victory	zege
+20.41	victory	overwinning
+20.42	defeat	nederlaag
+20.43	attack	aanvallen
+20.44	defend	verdedigen
+20.45	retreat	terugtrekken
+20.45	retreat	vluchten
+20.46	surrender	overgeven
+20.47	captive, prisoner	gevangene
+20.471	guard, sentinel	wacht
+20.471	guard, sentinel	schildwacht
+20.48	booty, spoils	buit
+20.49	ambush	hinderlaag
+20.51	fisherman	visser
+20.52	fishhook	vishaak
+20.53	fishing line	vislijn
+20.54	fishnet	visnet
+20.55	fish trap	visfuik
+20.56	bait	aas
+20.61	hunt	jagen
+20.62	shoot	schieten
+20.63	miss (target)	missen
+20.64	trap (noun)	valstrik
+20.65	trap (vb)	indevallatenlopen
+21.11	law	recht
+21.15	court	rechtbank
+21.15	court	gerechtshof
+21.16	judge (vb)	oordelen
+21.17	judgment	oordeel
+21.18	judge (noun)	rechter
+21.21	plaintiff	aanklager
+21.21	plaintiff	eiser
+21.22	defendant	beschuldigde
+21.23	witness	getuige
+21.24	swear	zweren
+21.25	oath	eed
+21.31	accuse	aanklagen
+21.31	accuse	beschuldigen
+21.32	condemn	veroordelen
+21.33	convict (vb)	schuldigverklaren
+21.33	convict (vb)	veroordelen
+21.34	acquit	vrijspreken
+21.35	guilty	schuldig
+21.36	innocent	onschuldig
+21.37	penalty, punishment	straf
+21.38	fine	boete
+21.39	prison, jail	gevangenis
+21.42	murder	moord
+21.43	adultery	echtbreuk
+21.43	adultery	overspel
+21.44	rape	verkrachting
+21.46	arson	brandstichting
+21.47	perjury	meineed
+21.51	steal	stelen
+21.52	thief	dief

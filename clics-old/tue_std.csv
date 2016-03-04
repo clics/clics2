@@ -1,0 +1,1033 @@
+@classification: Tucanoan,Eastern Tucanoan,Central,Bara
+@ids-name: Tuyuca_Phonemic
+@iso: tue
+@language: Tuyuca
+@size: 1026
+@source: ids
+@variety: std
+1.1	world	'bɨreko
+1.1	world	'bɨrɨko
+1.1	world	'bɨriko
+1.21	earth, land	ye'pa
+1.212	earth=ground, soil	di'ta
+1.213	dust	di'tabãdã
+1.214	mud	di'tawĩtãre
+1.215	sand	di'tatupari
+1.22	mountain, hill	ɨ̃tã'gɨ̃
+1.222	cliff, precipice	tɨ'dɨ
+1.25	island	dɨ̃kɨ̃'rõ
+1.28	cave	ɨ̃'tãwi
+1.31	water	o'ko
+1.32	sea	'diapai'ribã
+1.322	calm (of sea)	wã'tĩkõãpasore
+1.323	rough (of sea)	okotu'ri
+1.324	foam	so'bo
+1.329	ocean	'diapai'ribã
+1.33	lake	o'pataro
+1.341	lagoon	o'pataro
+1.343	headland, point	o'payũã
+1.36	river, stream, brook	'dia
+1.362	whirlpool	ode'rikope
+1.37	spring, well	'diapote
+1.38	swamp	o'pasabaro
+1.39	waterfall	o'koyãã'rõ
+1.41	woods, forest	bã'kãdɨ̃kɨ̃
+1.42	tree (cf 08.600)	yu'kɨ
+1.43	wood	yu'kɨ
+1.44	stone, rock	ɨ̃'tã
+1.45	earthquake	di'tayũbĩ
+1.51	sky	ɨ̃bɨ̃'ãse
+1.52	sun	bũ'ĩpũ
+1.53	moon	bũ'ĩpũ
+1.54	star	yõkõã'wɨ̃
+1.54	star	yõkõ'ã
+1.55	lightning	bɨ'po'wããyo
+1.56	thunder	bɨ'po
+1.57	lightning (as striking)	bɨ'po'paa
+1.59	rainbow	bu'eda
+1.61	light (noun)	sĩã'boekore
+1.61	light (noun)	sĩã'wokore
+1.62	darkness	'dãĩtĩãre
+1.63	shade, shadow	bũ'ĩpũkãbõ'taro
+1.64	dew	yõkõão'ko
+1.71	air	õ'bẽ
+1.71	air	ũ'bẽ
+1.72	wind	wĩ'dõ
+1.73	cloud	ũbẽbɨrɨ'a
+1.75	rain (noun)	o'ko
+1.81	fire	pe'kabẽ
+1.82	flame (noun)	pe'kabẽpõdã
+1.83	smoke (noun)	pe'kabẽõbẽ
+1.84	ashes	dũ'ã
+1.841	embers	dĩ'tĩasi'yare
+1.851	burn (vb trans)	'soe
+1.852	burn (vb intrans)	hɨ̃'ɨ̃
+1.86	light, kindle, ignite	di'o
+1.861	extinguish	'yoo
+1.88	firewood	pe'ka
+1.89	charcoal	dĩ'tĩ
+2.1	person, human being	baso'kɨ
+2.21	man (vs. woman)	ɨ̃'bɨ̃
+2.22	woman	dũbĩ'õ
+2.23	male	ɨ̃'bɨ̃
+2.24	female	dũbĩ'õ
+2.25	boy	wĩ'bãgɨ̃
+2.251	young man (adolescent)	bã'bɨ̃
+2.26	girl	wĩ'bãgõ
+2.261	young woman (adolescent)	bã'bõ
+2.27	child	wĩ'bãgɨ̃
+2.27	child	wĩ'bãgõ
+2.28	infant, baby	wĩ'bãgɨ̃
+2.28	infant, baby	wĩ'bãgõ
+2.31	husband	bã'dɨ̃
+2.32	wife	dɨ̃'bõ
+2.33	marry	wãbõ'sia
+2.341	divorce	dɨ̃'bõkõã're
+2.35	father	pa'kɨ
+2.36	mother	pa'ko
+2.37	parents	pa'kɨsɨ̃bɨ̃ã
+2.38	married man	dɨ̃'bõkɨtigɨ
+2.39	married woman	bã'dɨ̃kɨtigo
+2.41	son	bã'kɨ̃
+2.42	daughter	bã'kõ
+2.43	offspring (son or daughter)	põ'dã
+2.444	older brother	sõ'wɨ̃
+2.445	younger brother	ba'i
+2.454	older sister	sõ'wõ
+2.455	younger sister	bayi'o
+2.456	sibling	sĩ'kɨ̃põdã
+2.458	twins	sɨdɨ'arira
+2.46	grandfather	yẽ'kɨ̃
+2.461	old man	bɨ'kɨ
+2.47	grandmother	yẽ'kõ
+2.471	old woman	bɨkɨ'o
+2.48	grandson	'pãrãbĩ
+2.49	granddaughter	'pãrãbẽõ
+2.511	mother's brother	bẽ'kɨ̃
+2.512	father's brother	bɨ'gɨ
+2.521	mother's sister	bɨ'go
+2.522	father's sister	bẽ'kõ
+2.53	nephew	sõwɨ̃bã'kɨ̃
+2.53	nephew	sõwõbã'kɨ̃
+2.54	niece	sõwɨ̃bã'kõ
+2.54	niece	sõwõbã'kõ
+2.55	cousin	tẽ'yɨ̃
+2.55	cousin	tẽ'yõ
+2.56	ancestors	yẽ'kɨ̃sɨ̃bɨ̃ã
+2.57	descendants	dĩ'ĩdɨ̃dɨ̃sera
+2.61	father-in-law (of a man)	bãyẽ'kɨ̃
+2.611	father-in-law (of a woman)	bãyẽ'kɨ̃
+2.62	mother-in-law (of a man)	bãyẽ'kõ
+2.621	mother-in-law (of a woman)	bãyẽ'kõ
+2.63	son-in-law (of a man)	'bui
+2.631	son-in-law (of a woman)	'bui
+2.64	daughter-in-law (of a man)	bã'kɨ̃dɨ̃bõ
+2.641	daughter-in-law (of a woman)	bã'kɨ̃dɨ̃bõ
+2.71	stepfather	pakobã'dɨ̃
+2.72	stepmother	pakɨdɨ̃bõ
+2.73	stepson	bã'dɨ̃bãkɨ̃
+2.73	stepson	dɨ̃bõbã'kɨ̃
+2.74	stepdaughter	bã'dɨ̃bãkõ
+2.74	stepdaughter	dɨ̃bõbã'kõ
+2.75	orphan	pa'kɨ̃bãdĩgɨ̃
+2.75	orphan	pa'kobãdĩgɨ̃
+2.76	widow	wa'pewio
+2.77	widower	wa'pewi
+2.81	relatives, kinsmen	pakɨsɨ̃bɨ̃ã
+2.82	family	wedera
+2.91	I	yɨ'ɨ
+2.92	you (singular)	bɨ̃'ɨ̃
+2.93	he/she/it	kɨ̃'ɨ̃
+2.93	he/she/it	ko'o
+2.941	we (inclusive)	bã'rĩ
+2.942	we (exclusive)	ɨ̃'sã
+2.95	you (plural)	'bɨ̃ã
+2.96	they	'kɨ̃ã
+3.11	animal	'waikɨ
+3.12	male (adj)	ɨ̃'bɨ̃
+3.13	female (adj)	dũbĩ'õ
+3.2	cattle (bovine)	we'kɨ
+3.21	bull	we'kɨ
+3.32	boar	ye'se
+3.34	sow	ye'sego
+3.35	pig	ye'se
+3.5	fowl	bĩdĩbã'kɨ̃
+3.52	cock, rooster	kã'rẽkẽ
+3.54	hen	kã'rẽkẽ
+3.55	chicken	kã'rẽkẽ
+3.58	nest	bĩdĩbã'kɨ̃sutiro
+3.581	bird	bĩdĩbã'kɨ̃
+3.583	heron	ye'e
+3.584	eagle	'kaa
+3.585	hawk	'kaa
+3.586	vulture	yu'ka
+3.591	bat	o'so
+3.592	parrot	we'ko
+3.594	dove	bu'a
+3.596	owl	bɨ'pɨpako
+3.61	dog	'diayi
+3.622	opossum	o'a
+3.63	mouse, rat	wĩ'ĩpɨtɨ
+3.65	fish	wa'iwɨ̃
+3.65	fish	wa'i
+3.652	fin (dorsal)	wa'iwaa're
+3.653	fishscale	dɨ̃tɨ̃'rõ
+3.654	gill	wã'bɨ̃ãtõkõrõ
+3.655	shell	koro
+3.662	porpoise, dolphin	o'koputibategɨ
+3.664	stingray	ã'yãkasero
+3.665	freshwater eel	sã'ã
+3.75	deer	yã'bã
+3.76	monkey	a'ke
+3.811	louse	'kiawɨ̃
+3.811	louse	'kia
+3.812	nit (louse egg)	'kiadiyeri
+3.813	flea	dõkẽã'wɨ̃
+3.813	flea	dõkẽ'ã
+3.814	centipede	bũ'dĩ
+3.815	scorpion	ku'tiapa
+3.816	cockroach	kasi'awɨ̃
+3.816	cockroach	kasi'a
+3.817	ant	pe'ta
+3.817	ant	bẽ'kã
+3.818	spider	bɨ'pɨ
+3.819	spider web	bɨ'pɨwa
+3.82	bee	bũ'bĩãwɨ̃
+3.82	bee	bũ'bĩã
+3.821	beeswax	bũ'bĩãkɨta
+3.822	beehive	bũ'bĩãtuti
+3.823	wasp	utia'wɨ̃
+3.823	wasp	uti'a
+3.83	fly	wĩ'yãpa'kara
+3.831	sandfly (midge), gnat	wĩyã'wɨ̃
+3.831	sandfly (midge), gnat	wĩ'yã
+3.832	mosquito	bɨ̃'tẽãwɨ̃
+3.832	mosquito	bɨ̃'tẽã
+3.84	worm	ãũã'wɨ̃
+3.84	worm	ãũ'ã
+3.85	snake	ã'yã
+3.91	firefly	kee'ro
+3.92	butterfly	bõ'bõrõ
+3.93	grasshopper	ye'sero
+3.94	snail	sɨ̃'ɨ̃
+3.95	frog	õ'bãã
+3.96	lizard	yua'sõ
+3.97	crocodile, alligator	ɨ'so
+3.98	turtle	'kuu
+4.11	body	õ'pɨ̃ɨ̃
+4.12	skin, hide	kase'ro
+4.13	flesh	dii'ro
+4.14	hair (head)	'poa
+4.142	beard	ɨ'sepoa
+4.144	body hair	'poa
+4.145	pubic hair	'poa
+4.146	dandruff	du'puwati
+4.15	blood	'dii
+4.151	vein, artery	'waada
+4.16	bone	kõ'ã
+4.162	rib	wa'ru
+4.17	horn	kape'saro
+4.18	tail	pĩ'kõõ
+4.19	back	suku'biro
+4.191	spine	suku'pĩdãkõã
+4.2	head	du'pu
+4.202	skull	du'puakoro
+4.203	brain	ka'i
+4.204	face	dia'poa
+4.207	jaw	ɨ'sewɨ
+4.208	cheek	waso'puro
+4.209	chin	ɨ'sewɨ
+4.21	eye	ka'pea
+4.212	eyebrow	kape'wẽrĩ
+4.213	eyelid	ka'peasutiro
+4.214	eyelash	ka'pepoa
+4.215	blink	bi'bita
+4.22	ear	kãbõ'pero
+4.221	earlobe	kãbõ'peropɨ'ɨto
+4.23	nose	ẽ'kẽã
+4.231	nostril	ẽkẽko'pe
+4.232	mucus (nasal)	ẽ'yõ
+4.24	mouth	ɨ'sero
+4.241	beak	ẽ'kẽã
+4.25	lip	ɨ'serobeto
+4.26	tongue	yẽ'bẽrõ
+4.27	tooth	u'pi
+4.271	gums	u'pikũbũ
+4.272	molartooth	u'pi
+4.28	neck	wãbɨ̃dɨ̃'kõ
+4.281	nape of neck	wãbɨ̃dɨ̃'kõ
+4.29	throat	wãbɨ̃ko'pe
+4.3	shoulder	ã'kõrõ
+4.31	arm	wã'bõ
+4.312	armpit	'keeroka
+4.32	elbow	wã'bõkobea
+4.33	hand	wã'bõpãbã
+4.331	palm of hand	wã'bõkutiro
+4.34	finger	wãbõ'sũã
+4.342	thumb	pai'riga
+4.344	fingernail	wãbõ'sero
+4.345	claw	wãbõ'sero
+4.35	leg	yĩ'kã
+4.351	thigh	ɨsebe'to
+4.352	calf of leg	yĩ'kãdiga
+4.36	knee	yĩ'kãkobea
+4.37	foot	dɨ'po
+4.371	ankle	ã'yãkobea
+4.372	heel	dɨpo'sia
+4.374	footprint	dɨ'po
+4.38	toe	dɨpo'sũã
+4.392	wing	'wɨɨro
+4.392	wing	'keedɨpɨ
+4.393	feather	'poa
+4.4	chest	ku'tiro
+4.41	breast (of woman)	õ'pẽã
+4.412	nipple, teat	õ'pẽãyãkõ
+4.42	udder	õ'pẽã
+4.43	navel	sũ'bũãpero
+4.44	heart	ye'eripũdã
+4.441	lung	bɨ'kɨyẽbẽditi
+4.45	liver	yẽbẽdi'ti
+4.46	stomach	'paaga
+4.461	intestines, guts	kɨtabĩ'sĩ
+4.463	hip	'siiga
+4.464	buttocks	'siiga
+4.47	womb	wĩ'bɨ̃sãyã'risutiro
+4.49	testicle	wa'peributu
+4.492	penis	se'yua
+4.51	breathe, breath	ye'erisã
+4.52	yawn, gape	yari'bi
+4.521	hiccough	yoo'gɨ
+4.53	cough	sa'ti
+4.54	sneeze	ãsĩ'ã
+4.55	perspire	aso'ti
+4.56	spit	eo
+4.56	spit	ɨse'ko
+4.57	vomit	ɨ'soti
+4.58	bite	ba'ka
+4.59	lick	dẽ'dĩ
+4.591	dribble	ta'bi
+4.61	sleep	kã'dĩ
+4.612	snore	ũ'dĩ
+4.62	dream	kẽ'ẽ
+4.63	wake up	wã'kã
+4.64	break wind	a'i
+4.65	urinate	kõ'dẽ
+4.66	defecate	kɨ̃'dã
+4.67	have sexual intercourse	a'pape
+4.68	shiver	yã'põpĩ
+4.69	bathe	ku'sa
+4.71	beget (of father)	põdãkɨ'ti
+4.72	born (to be)	bau'a
+4.73	pregnant	dĩĩpa'ko
+4.732	conceive	dĩĩpa'kodĩ'ĩdɨ̃kã
+4.74	live, living, life	dĩ'ĩ
+4.75	die, dead	di'a
+4.751	drowned	du'a
+4.76	kill	sĩ'ã
+4.77	corpse	di'arigɨ
+4.78	bury (the dead)	ya'a
+4.79	grave, tomb	bã'sãkope
+4.81	strong, mighty, powerful	tu'tua
+4.82	weak	tu'tue
+4.83	well, health	di'arebãdĩ
+4.84	sick, sickness	dia're
+4.841	fever	wio're
+4.843	cold (catarrh)	ẽ'yõ
+4.85	wound, sore	kã'bĩrõ
+4.852	bruise	yĩbĩ're
+4.853	swelling	bipi're
+4.854	itch	wãkĩ're
+4.855	blister	'puuworoare
+4.856	boil (noun)	bipi'riga
+4.857	pus	bũsũ'rĩ
+4.858	scar	kã'bĩrõdĩ'ĩriro
+4.86	cure, heal	dẽ'tõ
+4.87	physician	ɨ'kotigɨ
+4.88	medicine, drug	ɨ'ko
+4.89	poison	dĩ'bã
+4.91	tired, weary	'paasɨti
+4.912	rest	ye'erisã
+4.92	lazy	da'de
+4.93	bald	du'puwatea
+4.94	lame	yuriro
+4.95	deaf	tɨo'egɨ
+4.96	mute	we'deseegɨ
+4.97	blind	ĩ'yãẽgɨ̃
+4.98	intoxicated	kũbũ'gɨ̃
+4.99	naked, bare	sutibã'dĩgɨ̃
+5.11	eat	ya'a
+5.12	food	yaa're
+5.121	cooked	doa're
+5.122	raw	kati're
+5.123	ripe	buti're
+5.124	green, unripe	sɨ̃bẽ're
+5.125	rotten	'boa
+5.13	drink	sĩ'dĩ
+5.14	hunger	hɨa'boa
+5.141	famine	hɨa'boare
+5.15	thirst	'wɨo
+5.16	suck	ũ'pũ
+5.18	chew	ya'ge
+5.181	swallow	'uyu
+5.19	choke	hu'udũrĩã
+5.21	cook	do'a
+5.22	boil (vb)	wɨ'ga
+5.23	roast, fry	kããrĩ'õ
+5.26	pot, cooking vessel	dii'rɨ
+5.27	kettle	kõbẽ'rɨ
+5.28	pan	so'tɨkɨrɨ
+5.31	dish	ba'pa
+5.32	plate	sida
+5.33	bowl	ba'pa
+5.34	pitcher, jug	so'tɨ
+5.35	cup, drinking vessel	ba'pa
+5.36	saucer	ba'pa
+5.38	knife	wide'ripĩ
+5.391	tongs	dɨpo'yẽre
+5.41	meal (a)	yaa're
+5.42	breakfast	ya'awãkãre
+5.43	lunch	soto'ayaare
+5.46	peel	pã'dẽ
+5.47	sieve, strain	yɨɨ'se
+5.48	scrape	wɨ'a
+5.49	stir, mix	'wɨo
+5.51	bread	'wɨabe
+5.55	meal, flour	po'ka
+5.56	crush, grind	do'ka
+5.57	mill	wãyĩã'rõ
+5.58	mortar	doka'riga
+5.59	pestle	doka'rigɨ
+5.61	meat	dii'ro
+5.64	soup, broth	'waikɨoko
+5.65	vegetables	o'tedɨka
+5.71	fruit	dɨ'ka
+5.712	bunch	tõ
+5.76	grape	ɨ'se
+5.79	oil	ɨ'se
+5.791	grease, fat	ɨ'se
+5.81	salt	'bõã
+5.821	chili pepper	'bia
+5.84	honey	bũ'bĩãoko
+5.85	sugar	kã'dɨ̃weta
+5.86	milk (noun)	õpẽ'ko
+5.87	milk (vb)	bi'pe
+5.9	beverage, drink	sĩdĩ're
+5.93	beer	peyu'ru
+5.94	fermented drink	peyu'ru
+5.97	egg	di'ye
+6.11	put on (clothes)	sã'yã
+6.12	clothing, clothes	su'ti
+6.21	cloth	sutiro'pĩ
+6.24	cotton	bu'sa
+6.28	fur	'poa
+6.29	leather	kase'ro
+6.31	spin	hõ'ẽ
+6.33	weave	su'a
+6.34	loom	'paaturo
+6.35	sew	he'e
+6.36	needle	a'wi
+6.38	thread	yu'ta
+6.39	dye	yĩĩbĩ'õ
+6.42	woman's dress	suti'ro
+6.61	pocket	suti'po
+6.71	ornament, adornment	bã'bõrẽ
+6.73	ring (for finger)	wãbõ'sãribeto
+6.75	necklace	bɨ'sarida
+6.76	bead	yã'kẽ
+6.77	earring	kãbõ'peroyosa're
+6.78	headband, headdress	pesa're
+6.91	comb	ki'iro
+6.921	braid	'poayãpõ
+6.93	razor	ɨ'sepoapede're
+6.96	mirror	ẽyõ'rõ
+7.11	dwell, live	dĩ'ĩ
+7.12	house	wi'i
+7.13	hut	kãdĩ'riwi
+7.131	garden-house	wii'pĩ
+7.22	door, gate	so'pe
+7.22	door, gate	so'pepãbã
+7.221	doorpost, jamb	bo'ta
+7.231	latch, door-bolt	tẽ'dĩturo
+7.26	floor	ye'pa
+7.27	wall	wiitɨ'dɨ
+7.31	fireplace	pe'kabẽ
+7.32	stove	ya'aredoa'ro
+7.37	ladder	bɨ̃ã'rõ
+7.42	bed	kõã'rõ
+7.422	blanket	kõbãyo'saro
+7.43	chair	dui'ro
+7.45	lamp, torch	sĩã'boekoriga
+7.45	lamp, torch	sĩã'wokoriga
+7.46	candle	sĩã'boekorigɨ
+7.46	candle	sĩã'wokorigɨ
+7.47	shelf	ka'sa
+7.51	roof	wi'i
+7.52	thatch	bũ'ĩ
+7.53	ridgepole	wiikõ'ã
+7.54	rafter	tẽ'dĩ
+7.55	beam	tẽ'dĩ
+7.56	post, pole	bo'ta
+8.12	field (for cultivation)	we'se
+8.13	garden	we'se
+8.15	cultivate, till	o'te
+8.16	fence	sã'dĩrõ
+8.22	dig	ko'a
+8.25	hoe	siyo'ga
+8.31	sow	'wẽẽbate
+8.311	seed	pe
+8.47	maize, corn	'horika
+8.51	grass	'taa
+8.53	plant (noun)	ote're
+8.531	plant (vb)	o'te
+8.54	root	dɨ̃'kõ
+8.55	branch	dɨ'pɨ
+8.56	leaf	'pũũ
+8.57	flower	ko'oro
+8.6	tree	yu'kɨ
+8.67	vine	bĩ'sĩ
+8.68	tobacco	bɨ̃'dõ
+8.69	smoke (tobacco)	hu'u
+8.72	tree stump	tu'tu
+8.73	tree trunk	kũ'bũ
+8.73	tree trunk	yu'kɨ
+8.74	forked branch	sẽ'dẽrõ
+8.75	bark	kase'ro
+8.76	sap	'dii
+8.81	palm tree	wõ
+8.84	banana tree	ho'owõ
+8.91	sweet potato	yã'pĩ
+8.912	yam	yã'bũ
+8.92	tapioca, manioc, cassava	we'ta
+8.92	tapioca, manioc, cassava	ki'i
+8.93	gourd	wa'a
+8.941	sugar cane	kã'dɨ̃
+8.96	fish poison (root)	e'yu
+8.97	nettle	po'ta
+8.98	mushroom	di'ti
+9.11	do, make	ti'i
+9.12	work	pa'de
+9.14	bend	paape'to
+9.15	fold	tuu'pe
+9.16	tie, bind	si'a
+9.161	untie	hõ'ã
+9.19	rope, cord	pũũgɨ̃dɨ'po
+9.192	knot (noun)	sia'turikobea
+9.21	strike (hit, beat)	'paa
+9.211	pound with fist	'paabɨ̃tõ
+9.22	cut	'paata
+9.221	cut down	ki'ti
+9.222	chop, hew	'paawesã
+9.223	stab	sa'de
+9.23	knife	dii'pĩgã
+9.24	scissors, shears	dɨpo'taripĩ
+9.25	ax	kõ'bẽã
+9.251	adze	siyo'ga
+9.26	break	'paawa
+9.261	broken	wati're
+9.27	split	be'e
+9.28	tear	yi'ga
+9.29	flay, skin	pã'dẽ
+9.31	rub, wipe	tuusã'kẽ
+9.32	stretch	'weeeso
+9.33	pull	'wee
+9.34	spread out	'sẽõ
+9.341	hang up	'yoo
+9.342	press	tuudi'yo
+9.343	squeeze, wring	wãyĩ'ã
+9.35	pour	'pio
+9.36	wash	ko'se
+9.37	sweep	ho'a
+9.38	broom	hoa'riboka
+9.44	build	ti'i
+9.46	bore	ko'peti'i
+9.461	hollow out	ko'peti'i
+9.56	glue	pira're
+9.67	iron	kõ'bẽ
+9.72	mold (clay etc)	we'e
+9.73	clay	di'i
+9.75	weave, plait	su'a
+9.76	basket	pi'i
+9.79	fan (noun)	yũkãpe'ro
+9.791	fan (vb)	'paapu
+10.11	move	kã'bẽyã
+10.12	turn over	kãbẽyũ'bũ
+10.13	turn around	so'dea
+10.14	wind, wrap	kõ'bã
+10.15	roll	tuu'dũ
+10.16	drop (vb)	yã'ãkodia
+10.17	twist	wãyĩ'ã
+10.21	rise	bɨ̃'ã
+10.22	raise, lift	'dẽẽbɨ̃õko
+10.23	fall	yã'ã
+10.24	drip	ta'bi
+10.25	throw	'dee
+10.252	catch (ball)	bo'kayẽ
+10.26	shake	'paabate
+10.32	flow	õ'bãyu
+10.33	sink	du'adia
+10.34	float	pa'sa
+10.35	swim	'baa
+10.351	dive	yã'ãyũã
+10.352	splash	bupuba'te
+10.37	fly (vb)	wɨ'ɨ
+10.38	blow	wĩ'ĩpũ
+10.41	creep, crawl	'pai
+10.412	kneel	he'akũbũ
+10.413	crouch	bũdĩbi'a
+10.42	slide, slip	kɨtasĩ'dã
+10.43	jump, leap	bu'pu
+10.431	kick	'wẽẽpa
+10.44	dance	ba'sa
+10.45	walk	'waadẽtõ
+10.451	limp	yu'ri
+10.46	run	kɨ'tɨ
+10.47	go	'waa
+10.471	go up	bɨ̃'ã
+10.472	climb	bɨ̃'ã
+10.473	go down	di'i
+10.474	go out	wi'ti
+10.48	come	a'ti
+10.481	come back	pɨ'tɨa
+10.49	go away, depart	'waa
+10.491	disappear	di'ti
+10.51	flee	du'ti
+10.51	flee	ku'iwa
+10.52	follow	dɨ̃'dɨ̃
+10.53	pursue	dɨ̃dɨ̃'se
+10.55	reach, arrive	he'a
+10.56	approach	he'aati
+10.57	enter	sã'ã
+10.61	carry (bear)	'dẽẽwa
+10.612	carry-in-hand	'dẽẽwa
+10.613	carry-on-shoulder	a'pawa
+10.614	carry-on-head	tu'rupeo
+10.62	bring	'dẽẽati
+10.63	send	ti'koko
+10.64	lead (vb)	bããẽ'yõ
+10.65	drive	waa'tu
+10.66	ride	bɨ̃'ãpea
+10.67	push, shove	tuu'dẽko
+10.71	road	bã'ã
+10.72	path	bã'ã
+10.74	bridge	tĩ'ãrikũbũ
+10.75	carriage, wagon, cart	tũdũ'riwɨ
+10.76	wheel	be'to
+10.81	ship	doo'riwɨ
+10.83	boat	doo'riwɨ
+10.831	canoe	yuku'soro
+10.851	paddle (noun)	waa'ripĩ
+10.852	row (vb)	wa'a
+10.91	harbor, port	pe'ta
+10.92	land (vb)	bãã'wa
+11.11	have	kɨ'ti
+11.12	own, possess	kɨ'o
+11.13	take	'dẽẽ
+11.14	seize, grasp	yẽ'ẽ
+11.17	keep, retain	ĩ'yãdõ
+11.18	thing	apeye'dõ
+11.21	give	ti'ko
+11.22	give back	wi'ya
+11.25	save, rescue	dẽtõ'dẽ
+11.28	harm, injure, damage	yã'yõ
+11.31	seek, look for	ã'bãã
+11.32	find	bɨ'a
+11.33	lose	di'ti
+11.34	release, let go	wio'dẽko
+11.44	coin	ki
+11.51	rich	pe'ekɨo'gɨ
+11.52	poor	ape'yebãdĩ'gɨ̃
+11.54	avaricious, stingy	bãĩ'gɨ̃
+11.61	lend	wa'so
+11.62	borrow	wa'so
+11.63	owe	wapa'bõ
+11.64	debt	wapa'bõre
+11.65	pay (vb)	wapa'ti
+11.66	account, reckoning	wa'pa
+11.78	wages	wapa'tare
+11.79	earn	wapa'ta
+11.81	buy	sã'ĩ
+11.82	sell	'dua
+11.83	trade, barter	wa'so
+11.84	merchant	'duaribasokɨ
+11.85	market (place)	ya'are'duaro
+11.86	store, shop	ape'ye'duaritatia
+11.87	price	wa'pa
+11.88	dear (costly, expensive)	wapapa'ka
+11.89	cheap	wapabã'dĩ
+11.91	share (distribute)	ba'to
+11.92	weigh	dɨ̃'kɨ̃
+12.1	after	'siro
+12.11	place	siro
+12.2	beside	we'sa
+12.3	down, below	do'ka
+12.4	before	sɨ'gero
+12.41	right (side)	'diabãkɨ̃
+12.5	inside, in	po'pea
+12.7	under	do'ka
+12.8	up, above	soto'a
+12.11	place	ro
+12.12	put	'peo
+12.13	sit	du'i
+12.14	lie down	kõ'ã
+12.15	stand	dũ'kũ
+12.16	remain, stay	pɨ'tɨa
+12.17	remains, left overs	dɨsa're
+12.21	collect, gather	se'e
+12.212	pick up	'dẽẽ
+12.213	pile up	see'dẽõkũ
+12.22	join, unite	do'o
+12.232	divide	dɨkaba'to
+12.24	open	'põõ
+12.25	shut, close	bi'a
+12.26	cover	'bɨato
+12.27	hide, conceal	yayi'o
+12.31	high	ɨ̃bɨ̃'ã
+12.32	low	do'ka
+12.33	top	soto'a
+12.34	bottom	ku'tiro
+12.35	end	ya'pa
+12.352	pointed	wiro
+12.353	edge	ya'pa
+12.36	side	we'sa
+12.37	middle, center	de'ko
+12.41	right (side)	diabã'kɨ̃
+12.42	left (side)	a'kudĩyã
+12.43	near (adv)	pɨ'togã
+12.44	far (adv)	yo'aro
+12.45	east	bũ'ĩpũbɨ̃'ãatiro
+12.46	west	bũ'ĩpũsã'ãwaro
+12.53	grow	pai'ro'waa
+12.53	grow	bɨkɨ'a
+12.53	grow	dũũ
+12.54	measure	ke'o
+12.55	large, big	pai
+12.56	small, little	'peegã
+12.57	long	yo'a
+12.58	tall	ɨ̃bɨ̃'ã
+12.59	short	ɨ̃bɨ̃'ẽ
+12.61	wide, broad	e'sa
+12.62	narrow	e'sae
+12.63	thick (in dimension)	esebe'ti
+12.65	thin (in dimension)	esebẽ'dĩ
+12.67	deep	ɨ̃kɨ̃'ã
+12.68	shallow	ɨ̃kɨ̃'ãẽ
+12.71	flat	bapa
+12.73	straight	diabã'kɨ̃
+12.74	crooked	kõbẽrõ
+12.75	hook	dõ'õpĩ
+12.76	corner	pu'kua
+12.77	cross	tẽrõ
+12.82	circle	be'to
+12.83	sphere, ball	ga
+12.84	line	da
+12.85	hole	ko'pe
+12.92	like, similar	bi'i
+12.93	change	wa'so
+13.1	one	si'ka
+13.2	two	pɨa
+13.3	three	iti'a
+13.4	four	ba'pari
+13.5	five	si'kabõhẽyẽ
+13.5	five	si'kabõkẽyẽ
+13.6	six	sika'bõpetiape'bõpẽdĩpearesika'ga
+13.7	seven	sika'bõpetiape'bõpẽdĩpearepɨa'ga
+13.8	eight	sika'bõpetiape'bõpẽdĩpeareiti'aga
+13.9	nine	sika'bõpetiape'bõpẽdĩpeareba'paripa
+13.10	ten	pɨa'bõpeti
+13.101	eleven	pɨa'bõpetidɨ'posika'gapẽdĩpeare
+13.102	twelve	pɨa'bõpetidɨ'popɨa'gapẽdĩpeare
+13.103	fifteen	pɨa'bõpetidɨ'posi'kadɨpopetire
+13.104	twenty	pɨa'bõpetipɨadɨ'popetire
+13.107	count	ke'o
+13.14	every, all	dĩ'ĩpetire
+13.15	much, many	pa'ɨ
+13.15	much, many	pe'e
+13.15	much, many	pai'ro
+13.16	more	dẽbõ'rõ
+13.17	little (quantity), few	'peero
+13.18	enough	'pee
+13.181	some	sĩ'kẽ
+13.181	some	sĩ'kãyẽ
+13.19	multitude, crowd	pa'ɨ
+13.21	full	da'da
+13.22	empty	posebã'dĩ
+13.24	half	de'ko
+13.33	alone, only	'dikɨ
+13.33	alone, only	'dikɨ̃
+13.33	alone, only	'digɨ
+13.34	first	sɨ'ge
+13.35	last	dĩ'ĩtu
+13.37	pair	ba
+13.38	two times	pɨa'rĩ
+13.44	three times	ĩtĩ'ãrĩ
+14.12	age	kɨ̃'bã
+14.13	new	bã'bã
+14.14	young	bãbɨ̃
+14.15	old	bɨ'kɨ
+14.17	late	'siropɨ
+14.18	now	bẽkã'tigã
+14.19	immediately	'bããta
+14.21	swift, fast, quick	bo'yero
+14.22	slow	pea'rebẽdã
+14.23	hasten, hurry	poto'kõrõ
+14.24	retard, delay	pe'a
+14.25	begin, beginning	dɨ̃'kã
+14.26	end (temporal)	dĩ'ĩture
+14.27	finish	peo'ti
+14.28	cease, stop	du'u
+14.31	always	'teerodikɨ
+14.32	often	dã'ĩrõ
+14.33	sometimes	ape'to
+14.331	soon	bẽkã'tigã
+14.332	long-time (for a)	yo'ari
+14.34	never	do
+14.35	again	sũkã
+14.41	day	'bɨreko
+14.41	day	'bɨrɨko
+14.41	day	'bɨriko
+14.42	night	yã'bĩ
+14.43	dawn	'boebɨ̃ãtiri
+14.44	morning	'boeri
+14.45	noon, midday	koeri'to
+14.451	afternoon	koeri'tosiro
+14.46	evening	yã'bĩ
+14.47	today	bẽ'kɨ̃ã
+14.48	tomorrow	yã'bĩgã
+14.481	day-after-tomorrow	yã'bĩgãboeribɨreko
+14.49	yesterday	yã'bĩka
+14.491	day-before-yesterday	yã'bĩkaboeribɨreko
+14.53	clock, timepiece	'bɨrekokeo'riga
+14.62	Sunday	ye'erisãribɨreko
+14.63	Monday	pa'dedɨ̃kãribɨreko
+14.68	Saturday	pa'deturibɨreko
+14.71	month	bũ'ĩpũ
+14.73	year	kɨ̃'bã
+14.74	winter	'puuriro
+14.76	summer	kɨ̃'bã
+14.78	season	to
+15.21	smell (vb intrans)	su'su
+15.212	sniff	wĩdĩ'ãbã
+15.22	smell (vb trans)	wĩ'dĩ
+15.25	fragrant, good smelling	sitiaã'yũ
+15.26	stinking, bad smelling	ɨ̃'dĩ
+15.31	taste	po'a
+15.35	sweet	i'piti
+15.36	salty	o'ka
+15.37	bitter	sɨ̃'gẽ
+15.38	acid, sour	pi'ya
+15.39	brackish	'yia
+15.41	hear	tɨ'o
+15.42	listen	tɨ'o
+15.44	sound, noise	bɨ'sɨ
+15.45	loud	ditakɨ'ti
+15.46	quiet, silence	ditabã'dĩ
+15.51	see	ĩ'yã
+15.52	look, look at	ĩ'yã
+15.55	show	ẽ'yõ
+15.56	shine	asi'ya
+15.57	bright	asi'yare
+15.62	light (in color)	bu'ti
+15.63	dark (in color)	yĩ'ĩ
+15.64	white	bu'ti
+15.65	black	yĩ'ĩ
+15.66	red	sõ'ã
+15.67	blue	sɨ̃'bẽ
+15.68	green	sɨ̃'bẽ
+15.69	yellow	sõ'ã
+15.71	touch	pade'yã
+15.712	pinch	pɨ'a
+15.72	feel	tɨ'geyã
+15.74	hard	ba'yi
+15.75	soft	a'ba
+15.76	rough	bubiro
+15.77	smooth	si'pi
+15.78	sharp	asi'yoa
+15.79	blunt, dull	u'du
+15.81	heavy	dɨ̃'kɨ̃
+15.82	light (in weight)	dɨ̃'kɨ̃ẽ
+15.83	wet, damp	okokɨ'ti
+15.84	dry	bo'po
+15.85	hot	a'si
+15.851	warm	asibu'su
+15.86	cold	yɨsɨ'a
+15.87	clean	hũĩrĩbã'dĩ
+15.88	dirty, soiled	hũĩrĩ'pi
+15.89	wrinkled	sɨ̃sɨ̃rõ
+16.11	soul, spirit	ye'eripũdã
+16.15	surprised, astonished	ɨkɨ'a
+16.18	good fortune, luck	di'ka
+16.19	misfortune, bad luck	di'kae
+16.23	joyful, glad, happy	ɨ'sedĩ
+16.25	laugh	bu'i
+16.251	smile	bu'i
+16.26	play	a'pe
+16.27	love	bã'ĩ
+16.29	kiss	ũ'pũ
+16.3	embrace	'paabɨa
+16.31	pain	pũ'dĩ
+16.32	grief, sorrow, sadness	'boadẽõ
+16.33	anxiety, worry	wã'kũrekɨti
+16.34	regret, be sorry	wã'kũrekɨti
+16.35	pity	'boadẽõyã
+16.37	cry, weep	u'ti
+16.38	tear (noun)	yakoo'ko
+16.39	groan	pũdĩwi'si
+16.41	hate	ĩ'yãtuti
+16.42	anger	'kua
+16.44	envy, jealousy	do'e
+16.45	shame (noun)	bo'bo
+16.51	dare	ku'irebãdĩ're
+16.53	fear, fright	ku'i
+16.54	danger	ki'o
+16.62	desire, want	bo'o
+16.622	choose	be'se
+16.66	true	dĩĩ'rõbãkẽ
+16.67	lie, tell lies	hĩ'ĩdito
+16.68	deceit	tiidi'to
+16.69	forgive	aka'bo
+16.71	good	ã'yũ
+16.72	bad	yã'yã
+16.73	right, correct	diabã'kɨ̃
+16.74	wrong	diabã'kɨ̃dĩ'ĩẽre
+16.77	mistake, error	wi'si
+16.81	beautiful	ã'yũ
+16.82	ugly	do'ko
+16.83	greedy	wã'dĩ
+16.84	clever	bẽ'dĩ
+17.13	think (= reflect)	wã'kũ
+17.14	think (= be of the opinion)	wã'kũ
+17.15	believe	pade'o
+17.16	understand	tɨobã'sĩ
+17.17	know	bã'sĩ
+17.171	guess	hĩ'ĩbɨa
+17.172	imitate	ke'o
+17.18	seem	bi'i
+17.19	idea, notion	wãkũ're
+17.21	wise	bãsĩ'gɨ̃
+17.22	foolish, stupid	wede'retɨo'egɨ
+17.23	insane, crazy	po'sariwi
+17.24	learn	bu'e
+17.242	study	bu'e
+17.25	teach	bu'e
+17.26	pupil	bue'gɨ
+17.27	teacher	bue'gɨ
+17.28	school	bue'riwi
+17.31	remember	wã'kũ
+17.32	forget	aka'bo
+17.34	clear, plain	tɨobã'sĩre
+17.35	obscure	tɨobã'sĩyãbãdĩre
+17.36	secret	yayi'ore
+17.37	sure, certain	dĩĩ'rõrã
+17.38	explain	we'de
+17.41	intention, purpose	tiidɨ'gare
+17.42	cause	o
+17.45	need, necessity	bo'o
+17.46	easy	wisi'oe
+17.47	difficult	wisi'o
+17.48	try, attempt	yã
+17.49	way, manner	bi'iro
+17.61	how?	de'ero
+17.62	how many?	dõ'kẽ
+17.63	how much?	dõ'kẽ
+17.64	what?	yẽ'ẽ
+17.65	when?	de'ebiri
+17.66	where?	dõ'õ
+17.67	which?	dĩ'ĩ
+17.68	who?	dõ'ã
+17.69	why?	de'eroti'i
+18.11	voice	we'desere
+18.12	sing	ba'sa
+18.13	shout, cry out	akari'bi
+18.15	whisper	'peerogãwe'dese
+18.16	mumble	ũ'dũdĩ
+18.17	whistle	wĩ'bõ
+18.18	shriek, screech	akari'bi
+18.21	speak, talk	we'dese
+18.211	stutter, stammer	ku'ku
+18.22	say	hĩ'ĩ
+18.221	tell story	ketiwe'de
+18.222	speech (make a)	we'de
+18.23	silent (be)	ditabã'dĩ
+18.24	language	ye
+18.28	name	wã'bẽ
+18.31	ask (question, inquire)	sãĩ'yã
+18.32	answer	yɨ'ɨ
+18.35	ask, request	sã'ĩ
+18.39	rebuke, scold	tu'ti
+18.41	call (=summon)	pi'su
+18.42	call (=name)	wã'bẽkɨti
+18.43	announce	we'de
+18.44	threaten	'paakeo
+18.51	write	'hoa
+18.52	read	ĩ'yã
+18.57	pen	'hoarigɨ
+18.61	book	tuti
+18.71	flute	tõõrõriwɨ
+18.72	drum	yu'kɨtuti
+18.74	rattle	yã'sãgã
+19.11	country	di'ta
+19.15	city, town	bã'kã
+19.16	village	bã'kã
+19.17	boundary	di'ta'taariro
+19.21	people (populace)	baso'ka
+19.23	tribe, clan	bu
+19.24	chief, chieftain	sɨo'dĩgɨ̃
+19.25	staff, walking stick	tuu'rituarigɨ
+19.31	rule, govern	du'ti
+19.32	king, ruler	õ'pɨ̃
+19.33	queen	õ'põ
+19.41	master	pe'kasɨ̃
+19.43	servant	pa'dekotegɨ
+19.45	command, order	du'ti
+19.46	obey	yɨ'ɨ
+19.51	friend, companion	bẽdãbã'kɨ̃
+19.52	enemy	wã'pãgɨ̃
+19.54	neighbor	bã'rĩpɨtobãkɨ̃
+19.55	stranger	apeditabã'kɨ̃
+19.56	guest	hea'gɨ
+19.57	host	wiiõ'pɨ̃
+19.58	help, aid	tii'apu
+19.59	hinder, prevent	kãbõ'ta
+19.61	custom	tii'rekɨtire
+19.62	strife, quarrel	kãbẽ'ritutire
+19.65	meet	bo'ka
+20.11	fight (vb)	kãbẽ'rĩkẽ
+20.13	war, battle	kãbẽ'rĩsĩã
+20.14	peace	ã'yũrõdĩĩ're
+20.21	weapons, arms	be'su
+20.22	club	yu'kɨdɨka
+20.24	bow	bɨ'eripĩ
+20.25	arrow	kã'dɨ̃gɨ̃
+20.28	gun, cannon	pe'kawɨ
+20.42	defeat	do'kakũbũ
+20.44	defend	kãbõ'ta
+20.45	retreat	'duudi
+20.47	captive, prisoner	dĩĩ'gɨ̃
+20.471	guard, sentinel	kote'gɨ
+20.51	fisherman	wa'isĩã'gɨ̃
+20.52	fishhook	we'erige
+20.53	fishing line	we'erikãdõ
+20.54	fishnet	ba'pi
+20.55	fish trap	a'ruka
+20.56	bait	wa'iwee're
+20.61	hunt	'waikɨrasĩã
+20.62	shoot	pe'kasã
+20.63	miss (target)	apero'pɨpe'kasã
+20.64	trap (noun)	'yoore
+20.65	trap (vb)	'yoo
+21.16	judge (vb)	ĩ'yãbese
+21.18	judge (noun)	ke'tibese'gɨ
+21.21	plaintiff	we'desãgɨ̃
+21.23	witness	ĩ'yãrigɨ
+21.24	swear	dĩĩ'rõrãhĩ'ĩ
+21.25	oath	dĩĩ'rõrãhĩĩ're
+21.31	accuse	we'desã
+21.35	guilty	wa'pakɨo'gɨ
+21.36	innocent	wa'pakɨo'egɨ
+21.37	penalty, punishment	yã'yãrotii're
+21.39	prison, jail	wi
+21.42	murder	sĩ'ã
+21.46	arson	'soe
+21.47	perjury	hĩ'ĩdito
+21.51	steal	ya'a
+21.52	thief	yaa'ribasokɨ

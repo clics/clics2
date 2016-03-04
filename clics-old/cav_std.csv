@@ -1,0 +1,965 @@
+@classification: Tacanan,Araona-Tacana,Cavinena-Tacana,Cavinena
+@ids-name: Cavineña_Phonemic
+@iso: cav
+@language: Cavineña
+@size: 958
+@source: ids
+@variety: std
+1.1	world	yawa
+1.21	earth, land	meči
+1.212	earth=ground, soil	mehihi
+1.213	dust	moro
+1.214	mud	oyoda
+1.215	sand	mehihi
+1.22	mountain, hill	owakʷemoso
+1.222	cliff, precipice	etiweso
+1.23	plain, field	yači
+1.25	island	ekobobo
+1.27	shore	ekʷac̷a
+1.28	cave	kani
+1.31	water	ena
+1.324	foam	oba
+1.33	lake	bei
+1.341	lagoon	beikaka
+1.35	wave	enapako
+1.36	river, stream, brook	kʷeri
+1.362	whirlpool	enakawaitiya
+1.37	spring, well	kani
+1.38	swamp	nabade
+1.39	waterfall	sororo
+1.41	woods, forest	ekike
+1.42	tree (cf 08.600)	akʷi
+1.44	stone, rock	tomo
+1.51	sky	barepa
+1.52	sun	iheti
+1.53	moon	badi
+1.54	star	porari
+1.55	lightning	tahita
+1.56	thunder	tiritiya
+1.57	lightning (as striking)	popipopiya
+1.58	storm	tiritiya
+1.59	rainbow	tahina
+1.61	light (noun)	ode
+1.62	darkness	apoapo
+1.63	shade, shadow	apotaho
+1.64	dew	yabakʷi
+1.71	air	kana
+1.72	wind	kʷehihi
+1.73	cloud	wani
+1.74	fog	apoapo
+1.75	rain (noun)	nei
+1.77	ice	etadatašakeena
+1.78	weather	wekaka
+1.81	fire	etiki
+1.82	flame (noun)	hohora
+1.83	smoke (noun)	wani
+1.84	ashes	moro
+1.841	embers	tiki
+1.851	burn (vb trans)	tiroya
+1.852	burn (vb intrans)	hohoya
+1.86	light, kindle, ignite	točaya
+1.861	extinguish	tikʷaya
+1.87	match (noun)	pahowera
+1.88	firewood	kʷati
+1.89	charcoal	etirosewe
+2.1	person, human being	ekʷita
+2.21	man (vs. woman)	deka
+2.22	woman	epona
+2.23	male	deka
+2.24	female	epona
+2.25	boy	ebakʷapihi
+2.251	young man (adolescent)	ewe
+2.26	girl	ebakonapihi
+2.27	child	ebakʷake
+2.28	infant, baby	ašašake
+2.31	husband	yawike
+2.31	husband	eawe
+2.32	wife	ewaneke
+2.33	marry	kakemitiya
+2.35	father	tata
+2.36	mother	ekʷake
+2.39	married woman	eponaawekike
+2.41	son	ebakʷake
+2.42	daughter	ebakohonake
+2.44	brother	enooke
+2.444	older brother	eosi
+2.444	older brother	eʔohike
+2.445	younger brother	ehao
+2.445	younger brother	ehoke
+2.45	sister	ehanake
+2.454	older sister	enasi
+2.455	younger sister	ehanake
+2.456	sibling	enooke
+2.458	twins	šiwi
+2.46	grandfather	ebaba
+2.461	old man	esiri
+2.47	grandmother	awiča
+2.47	grandmother	ano
+2.471	old woman	esiri
+2.471	old woman	awiča
+2.48	grandson	yoc̷ekʷake
+2.49	granddaughter	yoc̷ekʷake
+2.51	uncle	etatiine
+2.52	aunt	enene
+2.53	nephew	eboi
+2.54	niece	eboke
+2.54	niece	okʷa
+2.55	cousin	eac̷ewebataya
+2.56	ancestors	babakʷana
+2.57	descendants	ehorakana
+2.61	father-in-law (of a man)	ewanekeetatake
+2.62	mother-in-law (of a man)	ewanekeekʷake
+2.64	daughter-in-law (of a man)	ebakʷakehawane
+2.71	stepfather	etatapohike
+2.72	stepmother	ekʷakepohike
+2.75	orphan	etatamahoke
+2.76	widow	eawemahoke
+2.77	widower	ewanemahoke
+2.81	relatives, kinsmen	ata
+2.91	I	ike
+2.92	you (singular)	mi
+2.92	you (singular)	mike
+2.93	he/she/it	toke
+2.94	we	ekʷana
+2.95	you (plural)	mikʷana
+2.96	they	tona
+3.11	animal	oo
+3.11	animal	kʷanobi
+3.16	pasture	yači
+3.24	calf	habakʷa
+3.35	pig	koči
+3.52	cock, rooster	takoredeka
+3.54	hen	takoreepona
+3.55	chicken	takore
+3.57	duck	hohe
+3.58	nest	eha
+3.581	bird	čai
+3.583	heron	rao
+3.585	hawk	wiwipa
+3.586	vulture	hamani
+3.591	bat	bina
+3.592	parrot	korakʷa
+3.594	dove	wei
+3.594	dove	bihihi
+3.596	owl	popo
+3.61	dog	čapa
+3.614	rabbit	inika
+3.62	cat	miši
+3.63	mouse, rat	hite
+3.65	fish	hae
+3.652	fin (dorsal)	etisarara
+3.653	fishscale	ebiti
+3.655	shell	hemo
+3.664	stingray	ibabi
+3.665	freshwater eel	nanata
+3.72	lion	šibinoni
+3.74	fox	ihawa
+3.75	deer	dokʷeri
+3.811	louse	bia
+3.812	nit (louse egg)	ekabiahake
+3.813	flea	bia
+3.814	centipede	wačiwačike
+3.815	scorpion	ahipa
+3.816	cockroach	sopa
+3.817	ant	poki
+3.818	spider	tiriri
+3.819	spider web	tiririhiwa
+3.82	bee	hino
+3.821	beeswax	wini
+3.822	beehive	wahačikani
+3.823	wasp	bira
+3.83	fly	hewewero
+3.831	sandfly (midge), gnat	čoo
+3.832	mosquito	dii
+3.84	worm	ec̷ena
+3.85	snake	bakʷa
+3.91	firefly	omahaporari
+3.92	butterfly	hababa
+3.94	snail	hemo
+3.95	frog	wawa
+3.96	lizard	yaʔamatoha
+3.97	crocodile, alligator	matoha
+3.98	turtle	dati
+4.11	body	ekʷita
+4.12	skin, hide	ebiti
+4.13	flesh	erami
+4.14	hair (head)	ec̷aro
+4.142	beard	kʷesa
+4.144	body hair	momidake
+4.145	pubic hair	enawa
+4.146	dandruff	iyokamoro
+4.15	blood	ami
+4.151	vein, artery	amidihi
+4.16	bone	ec̷ao
+4.162	rib	eperekac̷e
+4.17	horn	edana
+4.18	tail	iwa
+4.19	back	ebebakʷa
+4.191	spine	etimac̷ao
+4.2	head	iyoka
+4.202	skull	emahoka
+4.203	brain	ec̷apona
+4.204	face	eboc̷ekini
+4.205	forehead	eketi
+4.207	jaw	yamaka
+4.208	cheek	etamo
+4.209	chin	ekʷedoko
+4.21	eye	yatoka
+4.212	eyebrow	yatokabemari
+4.213	eyelid	yatokabiti
+4.214	eyelash	yatokac̷aro
+4.215	blink	tapiya
+4.22	ear	ihaka
+4.23	nose	ewi
+4.231	nostril	ewikani
+4.24	mouth	ekʷac̷a
+4.241	beak	ewi
+4.25	lip	ekʷac̷abiti
+4.26	tongue	yana
+4.27	tooth	ec̷e
+4.271	gums	ec̷ekono
+4.272	molartooth	yahac̷e
+4.28	neck	epiti
+4.281	nape of neck	tʸowi
+4.29	throat	ec̷orikani
+4.3	shoulder	yarakaka
+4.301	shoulderblade	yara
+4.31	arm	ebi
+4.312	armpit	iɲokʷiha
+4.32	elbow	išoromomo
+4.321	wrist	c̷oro
+4.33	hand	emetoko
+4.331	palm of hand	emetokoakʷa
+4.34	finger	emetokosapara
+4.342	thumb	emeyoka
+4.344	fingernail	emešoro
+4.35	leg	ec̷aka
+4.351	thigh	ec̷oko
+4.352	calf of leg	etikone
+4.36	knee	edanaka
+4.37	foot	ewači
+4.371	ankle	ewačiatohakaka
+4.372	heel	etibokoro
+4.374	footprint	emekʷare
+4.38	toe	ewačisapara
+4.392	wing	yahapara
+4.393	feather	ekata
+4.4	chest	yakʷa
+4.41	breast (of woman)	yakʷa
+4.412	nipple, teat	ac̷o
+4.43	navel	soʔo
+4.44	heart	eniho
+4.441	lung	ehasa
+4.45	liver	etakʷa
+4.451	kidney	epekaka
+4.452	spleen	dokoc̷o
+4.46	stomach	edomiti
+4.461	intestines, guts	esere
+4.462	waist	ekare
+4.463	hip	etima
+4.464	buttocks	etada
+4.47	womb	ebakʷatare
+4.492	penis	eposi
+4.51	breathe, breath	kanahetiya
+4.52	yawn, gape	kaac̷anakatiya
+4.521	hiccough	c̷odoya
+4.53	cough	ohoohoya
+4.54	sneeze	hačiohoya
+4.55	perspire	weroroya
+4.56	spit	ekʷediraaya
+4.57	vomit	kapošatiya
+4.58	bite	karoya
+4.59	lick	c̷eoya
+4.61	sleep	tawiya
+4.612	snore	tararaya
+4.62	dream	tawihoya
+4.63	wake up	kabatiya
+4.64	break wind	kʷihiya
+4.65	urinate	wiraya
+4.66	defecate	domiya
+4.67	have sexual intercourse	sehiya
+4.68	shiver	tadadaya
+4.69	bathe	nawiya
+4.72	born (to be)	kʷinaya
+4.73	pregnant	maki
+4.74	live, living, life	aniya
+4.75	die, dead	mahoyake
+4.751	drowned	widiya
+4.76	kill	iyeya
+4.77	corpse	emaho
+4.78	bury (the dead)	papa
+4.79	grave, tomb	emahokani
+4.81	strong, mighty, powerful	kasada
+4.82	weak	kasadama
+4.83	well, health	čača
+4.84	sick, sickness	ohehedake
+4.841	fever	baara
+4.842	goiter	eromo
+4.843	cold (catarrh)	wihiraaya
+4.85	wound, sore	etakeke
+4.85	wound, sore	čadi
+4.853	swelling	mohaya
+4.855	blister	ekohota
+4.856	boil (noun)	toc̷o
+4.857	pus	ebohoc̷o
+4.858	scar	hipi
+4.86	cure, heal	čačaneya
+4.87	physician	yanakona
+4.88	medicine, drug	esamaki
+4.89	poison	ac̷a
+4.89	poison	oʔokono
+4.91	tired, weary	kastereya
+4.912	rest	kanaharaya
+4.92	lazy	dʸaini
+4.92	lazy	dʸaidake
+4.94	lame	rodorodo
+4.95	deaf	ihakama
+4.96	mute	anama
+4.97	blind	šowi
+4.98	intoxicated	nihoki
+4.99	naked, bare	ekatakati
+5.11	eat	araya
+5.11	eat	araaraya
+5.12	food	edoka
+5.12	food	earaki
+5.121	cooked	earakihoya
+5.122	raw	hinama
+5.123	ripe	ehawane
+5.125	rotten	eriri
+5.13	drink	ihiya
+5.14	hunger	arakara
+5.15	thirst	ihimadʸa
+5.15	thirst	ihira
+5.16	suck	sosoya
+5.18	chew	nakoya
+5.18	chew	koro
+5.181	swallow	boihiya
+5.19	choke	widiya
+5.21	cook	hinaya
+5.22	boil (vb)	sapaya
+5.23	roast, fry	kʷawiya
+5.26	pot, cooking vessel	emarikaka
+5.31	dish	seeta
+5.32	plate	peha
+5.34	pitcher, jug	sora
+5.38	knife	kaka
+5.41	meal (a)	edoka
+5.46	peel	pohiya
+5.47	sieve, strain	haha
+5.48	scrape	here
+5.49	stir, mix	ohaya
+5.51	bread	misi
+5.53	dough	epodike
+5.54	knead	sikaya
+5.55	meal, flour	kʷawemoro
+5.56	crush, grind	eriya
+5.56	crush, grind	hemi
+5.57	mill	tako
+5.57	mill	tarapiči
+5.58	mortar	makana
+5.59	pestle	manotako
+5.61	meat	erami
+5.64	soup, broth	ename
+5.66	bean	poroto
+5.71	fruit	akʷiho
+5.712	bunch	esa
+5.79	oil	ec̷eri
+5.791	grease, fat	hohida
+5.81	salt	bano
+5.821	chili pepper	biho
+5.84	honey	waha
+5.86	milk (noun)	ac̷ona
+5.87	milk (vb)	hoya
+5.9	beverage, drink	ihiišoke
+5.9	beverage, drink	topari
+5.93	beer	topari
+5.94	fermented drink	kasadakʷita
+5.97	egg	eka
+6.11	put on (clothes)	hotoya
+6.12	clothing, clothes	ehotoki
+6.21	cloth	ehotoki
+6.22	wool	šakašaka
+6.24	cotton	wapehe
+6.29	leather	biti
+6.31	spin	tariya
+6.32	spindle	taritariišoke
+6.33	weave	pikaya
+6.33	weave	tari
+6.35	sew	toc̷oya
+6.36	needle	ec̷okʷiha
+6.38	thread	edoki
+6.39	dye	sawaya
+6.42	woman's dress	ona
+6.45	collar	epitikani
+6.51	shoe	ki
+6.55	hat, cap	motiro
+6.71	ornament, adornment	ehoee
+6.73	ring (for finger)	metara
+6.75	necklace	irine
+6.77	earring	šaporo
+6.91	comb	yapere
+6.921	braid	epikake
+6.93	razor	kʷesaherekike
+7.11	dwell, live	yac̷ehaani
+7.12	house	etare
+7.13	hut	tawišoke
+7.131	garden-house	tawišoke
+7.15	yard, court	taraka
+7.22	door, gate	eteriki
+7.231	latch, door-bolt	etačiki
+7.26	floor	yawa
+7.27	wall	esipike
+7.37	ladder	poro
+7.42	bed	etawiki
+7.421	pillow	iyokiyoki
+7.422	blanket	maša
+7.43	chair	wari
+7.45	lamp, torch	ode
+7.45	lamp, torch	oda
+7.46	candle	ode
+7.48	trough	saso
+7.51	roof	c̷ohi
+7.52	thatch	noc̷aetare
+7.53	ridgepole	ekamawa
+7.54	rafter	tišira
+7.55	beam	ekac̷e
+7.56	post, pole	dodo
+8.12	field (for cultivation)	tee
+8.15	cultivate, till	pehoya
+8.16	fence	etarakaneke
+8.17	ditch	matohaakʷa
+8.22	dig	poroya
+8.23	spade	yara
+8.24	shovel	wakaba
+8.26	fork	čewe
+8.26	fork	čomo
+8.311	seed	ekaka
+8.32	mow, reap	hikʷihikʷiya
+8.41	crop, harvest	taka
+8.42	grain (barley, oats etc)	ec̷okaka
+8.47	maize, corn	ihike
+8.51	grass	noc̷a
+8.531	plant (vb)	počaya
+8.54	root	etiri
+8.55	branch	yaa
+8.56	leaf	ehaki
+8.57	flower	šaša
+8.6	tree	akʷi
+8.67	vine	kono
+8.68	tobacco	omaha
+8.69	smoke (tobacco)	omahahoya
+8.73	tree trunk	akʷitibo
+8.73	tree trunk	etibo
+8.75	bark	ebiti
+8.76	sap	emadi
+8.81	palm tree	bii
+8.84	banana tree	bodaribaka
+8.91	sweet potato	konokahi
+8.92	tapioca, manioc, cassava	kʷawe
+8.93	gourd	tamaboko
+8.931	pumpkin, squash	kemi
+8.941	sugar cane	šita
+8.96	fish poison (root)	ac̷a
+8.97	nettle	bakec̷a
+8.98	mushroom	hiʔi
+9.11	do, make	aya
+9.11	do, make	katiya
+9.12	work	mereya
+9.14	bend	tariya
+9.15	fold	nokaya
+9.16	tie, bind	risiya
+9.16	tie, bind	kaka
+9.161	untie	pisoya
+9.192	knot (noun)	erisike
+9.21	strike (hit, beat)	aya
+9.21	strike (hit, beat)	miriya
+9.211	pound with fist	miriya
+9.211	pound with fist	hariya
+9.22	cut	hikʷiya
+9.221	cut down	kʷereya
+9.222	chop, hew	take
+9.223	stab	sakʷaya
+9.23	knife	kaka
+9.26	break	rakeya
+9.261	broken	eraketanake
+9.27	split	boriya
+9.28	tear	čahaya
+9.31	rub, wipe	popi
+9.31	rub, wipe	tedi
+9.32	stretch	hononaya
+9.33	pull	tinoya
+9.34	spread out	pihaya
+9.341	hang up	bade
+9.342	press	hepeya
+9.343	squeeze, wring	tisiya
+9.35	pour	pake
+9.36	wash	oc̷aya
+9.37	sweep	haboya
+9.38	broom	eboboki
+9.46	bore	kanineya
+9.461	hollow out	kanine
+9.5	nail	tataya
+9.56	glue	sipitaya
+9.65	silver	čipirometara
+9.73	clay	mei
+9.73	clay	oyooyo
+9.75	weave, plait	pikaya
+9.76	basket	kota
+9.77	mat	hopi
+9.78	netbag	šoromai
+9.79	fan (noun)	epiki
+9.791	fan (vb)	peiya
+9.83	statue	kʷana
+9.88	paint (noun)	horohoro
+9.89	paint (vb)	weneya
+10.11	move	bokokoya
+10.12	turn over	tipirotipirohoya
+10.13	turn around	tipirotanaya
+10.14	wind, wrap	donoya
+10.15	roll	ekakake
+10.16	drop (vb)	patatayake
+10.17	twist	tariya
+10.21	rise	netic̷oraya
+10.22	raise, lift	wesa
+10.23	fall	ribiya
+10.24	drip	hori
+10.24	drip	patata
+10.25	throw	mareya
+10.252	catch (ball)	inaya
+10.26	shake	itataya
+10.32	flow	horiya
+10.34	float	hetaya
+10.35	swim	bec̷aya
+10.37	fly (vb)	hetaya
+10.38	blow	hohaya
+10.41	creep, crawl	remeya
+10.412	kneel	nonoya
+10.413	crouch	pehi
+10.42	slide, slip	herida
+10.43	jump, leap	potitana
+10.431	kick	tapa
+10.44	dance	ihawehoya
+10.45	walk	aheya
+10.451	limp	rodoya
+10.46	run	c̷ahahaya
+10.47	go	kʷaya
+10.47	go	diroya
+10.471	go up	c̷oraya
+10.473	go down	botiaya
+10.473	go down	boteya
+10.474	go out	kʷinanaya
+10.48	come	heya
+10.48	come	hetiya
+10.481	come back	yodihidʸa
+10.49	go away, depart	kʷinanaya
+10.491	disappear	apotaya
+10.51	flee	wana
+10.52	follow	topoya
+10.53	pursue	topohodʸa
+10.55	reach, arrive	honaya
+10.56	approach	hipetanaya
+10.57	enter	nobiya
+10.61	carry (bear)	mapaya
+10.613	carry-on-shoulder	mapaya
+10.62	bring	beya
+10.62	bring	ketiya
+10.63	send	kʷadišaya
+10.66	ride	isaʔaniya
+10.67	push, shove	itošaya
+10.71	road	edihi
+10.72	path	ekari
+10.74	bridge	waraša
+10.78	yoke	yobo
+10.831	canoe	kʷaba
+10.84	raft	bihi
+10.84	raft	pere
+10.85	oar	etaroki
+10.851	paddle (noun)	etaroki
+10.852	row (vb)	taroya
+10.91	harbor, port	ebote
+10.91	harbor, port	eboteho
+10.92	land (vb)	honaya
+10.92	land (vb)	hoetiya
+11.11	have	aniya
+11.12	own, possess	ha
+11.12	own, possess	emečiki
+11.13	take	dohoya
+11.13	take	mapaya
+11.14	seize, grasp	inaya
+11.16	get, obtain	dadi
+11.17	keep, retain	iyahidaaya
+11.18	thing	aikʷana
+11.21	give	tʸaya
+11.22	give back	tʸanoka
+11.24	preserve, look after	iyahidaaya
+11.27	destroy	pokokošaya
+11.28	harm, injure, damage	hari
+11.31	seek, look for	sareya
+11.32	find	c̷oroya
+11.33	lose	apotaya
+11.34	release, let go	iyatiya
+11.43	money	čipiro
+11.51	rich	čipiroki
+11.52	poor	nerekada
+11.54	avaricious, stingy	iniheda
+11.61	lend	tʸawahari
+11.62	borrow	tʸawahari
+11.63	owe	manoki
+11.64	debt	mano
+11.65	pay (vb)	c̷oheteaya
+11.81	buy	kemiya
+11.82	sell	katʸatiaya
+11.84	merchant	katʸatipohi
+11.87	price	ec̷oheki
+11.88	dear (costly, expensive)	c̷ohearida
+11.89	cheap	c̷ohearidama
+11.92	weigh	topoya
+12.1	after	hoac̷o
+12.1	after	hadʸaac̷o
+12.11	place	topoho
+12.2	beside	peke
+12.3	down, below	emake
+12.4	before	ikʷene
+12.41	right (side)	ekʷeyakʷatoyo
+12.5	inside, in	ho
+12.5	inside, in	edokoho
+12.6	outside	ec̷ekʷe
+12.7	under	emake
+12.8	up, above	ebarokʷe
+12.11	place	eanikʷare??
+12.12	put	iyaya
+12.13	sit	aniboteya
+12.14	lie down	haraya
+12.15	stand	netiya
+12.17	remains, left overs	earakana
+12.21	collect, gather	sitaya
+12.21	collect, gather	didaya
+12.212	pick up	mepeya
+12.213	pile up	radaya
+12.22	join, unite	sitaya
+12.23	separate	hakaya
+12.232	divide	tʸabareya
+12.24	open	pakašaya
+12.25	shut, close	teriya
+12.25	shut, close	tači
+12.26	cover	ramaya
+12.27	hide, conceal	katewahoya
+12.31	high	barodake
+12.32	low	ebote
+12.33	top	dʸake
+12.352	pointed	kʷeroda
+12.353	edge	hiroro
+12.36	side	peke
+12.37	middle, center	patʸa
+12.37	middle, center	ekare
+12.41	right (side)	hidaeke
+12.42	left (side)	hani
+12.43	near (adv)	hapadama
+12.44	far (adv)	hapada
+12.46	west	ihetikeha
+12.48	south	benikeha
+12.53	grow	baronaya
+12.54	measure	topoya
+12.55	large, big	arida
+12.55	large, big	arina
+12.56	small, little	ačača
+12.57	long	honoda
+12.58	tall	barodake
+12.59	short	honodama
+12.61	wide, broad	kinida
+12.62	narrow	kinidama
+12.63	thick (in dimension)	arida
+12.65	thin (in dimension)	aridama
+12.67	deep	deda
+12.68	shallow	dedamake
+12.71	flat	hepedake
+12.73	straight	toyo
+12.74	crooked	peno
+12.75	hook	čewe
+12.76	corner	ec̷oko
+12.78	square	c̷okoki
+12.81	round	kʷareroda
+12.82	circle	kʷareroda
+12.83	sphere, ball	pokakada
+12.84	line	wikaoho
+12.85	hole	kani
+12.92	like, similar	bataki
+12.93	change	kʷareya
+13.0	zero, nothing	aihama
+13.1	one	peadʸa
+13.2	two	beta
+13.3	three	kimiša
+13.4	four	poši
+13.5	five	pišika
+13.6	six	šokota
+13.7	seven	pakaroko
+13.8	eight	kimisakaroko
+13.9	nine	poskoroko
+13.10	ten	tonka
+13.101	eleven	peadʸatonka
+13.107	count	piebaya
+13.14	every, all	dotʸa
+13.14	every, all	yota
+13.15	much, many	omada
+13.15	much, many	hetiama
+13.17	little (quantity), few	pihi
+13.18	enough	kamadʸa
+13.181	some	peadʸapeadʸa
+13.19	multitude, crowd	ekʷitakʷana
+13.21	full	eheke
+13.22	empty	isamake
+13.23	part, piece	ekʷesi
+13.24	half	patʸahake
+13.33	alone, only	tota
+13.34	first	ikʷene
+13.35	last	kamadʸaišo
+13.37	pair	kareki
+13.37	pair	tac̷e
+13.38	two times	yac̷e
+14.11	time	wekaka
+14.13	new	iakʷake
+14.14	young	eweebari
+14.15	old	esirike
+14.15	old	bero
+14.17	late	činekeha
+14.18	now	iakʷa
+14.19	immediately	iyahakʷita
+14.21	swift, fast, quick	ebaharara
+14.22	slow	inimeeke
+14.23	hasten, hurry	ebahararakʷita
+14.25	begin, beginning	katibotiya
+14.252	last, endure	idoya
+14.27	finish	tereya
+14.31	always	dotʸawekaka
+14.331	soon	ebaharara
+14.332	long-time (for a)	c̷onoda
+14.34	never	kamadʸa
+14.35	again	todʸanokadʸa
+14.41	day	wekaka
+14.42	night	meta
+14.43	dawn	wekakaya
+14.44	morning	apodahodʸa
+14.45	noon, midday	barepatʸa
+14.451	afternoon	činekeha
+14.47	today	iakʷawekaka
+14.48	tomorrow	metahodʸa
+14.481	day-after-tomorrow	tibene
+14.49	yesterday	riabarepa
+14.491	day-before-yesterday	tibene
+14.71	month	badi
+14.73	year	mara
+14.76	summer	marapatʸa
+14.78	season	enamara
+15.21	smell (vb intrans)	hiroya
+15.212	sniff	wanida
+15.22	smell (vb trans)	wani
+15.25	fragrant, good smelling	ihimeda
+15.26	stinking, bad smelling	iwida
+15.31	taste	bihida
+15.35	sweet	wahada
+15.36	salty	banowaha
+15.37	bitter	pac̷eda
+15.38	acid, sour	basida
+15.38	acid, sour	hakoda
+15.41	hear	bakaya
+15.42	listen	bakaya
+15.44	sound, noise	sikakada
+15.44	sound, noise	dodo
+15.45	loud	sikakada
+15.46	quiet, silence	abakata
+15.51	see	baya
+15.52	look, look at	petaya
+15.55	show	bamereya
+15.56	shine	wekada
+15.56	shine	tikida
+15.57	bright	wekada
+15.61	color	peyapeya
+15.63	dark (in color)	sewesewe
+15.64	white	pahada
+15.65	black	seweda
+15.66	red	podeda
+15.67	blue	sawada
+15.68	green	sawada
+15.69	yellow	hawada
+15.71	touch	dodoya
+15.712	pinch	modi
+15.72	feel	habaya
+15.74	hard	pahidake
+15.75	soft	šabida
+15.76	rough	c̷ekeda
+15.77	smooth	momiya
+15.78	sharp	kʷeroda
+15.79	blunt, dull	kʷerodama
+15.81	heavy	bikʷeda
+15.82	light (in weight)	ebaharara
+15.83	wet, damp	nakada
+15.84	dry	eora
+15.85	hot	okeda
+15.851	warm	okeda
+15.86	cold	badake
+15.86	cold	bane
+15.87	clean	tilʸaya
+15.88	dirty, soiled	asikadake
+15.89	wrinkled	hibihibi
+16.11	soul, spirit	yatanana
+16.18	good fortune, luck	piyeho
+16.23	joyful, glad, happy	poreama
+16.25	laugh	c̷aya
+16.251	smile	c̷aya
+16.26	play	ihawehoya
+16.27	love	hidabaya
+16.29	kiss	dʸawaya
+16.3	embrace	kamakakatiya
+16.31	pain	oheda
+16.32	grief, sorrow, sadness	hidamainime
+16.33	anxiety, worry	inimeba
+16.33	anxiety, worry	inimetopo
+16.34	regret, be sorry	hidamainime
+16.37	cry, weep	paya
+16.38	tear (noun)	paanakaka
+16.41	hate	oheo
+16.42	anger	kawaitiya
+16.44	envy, jealousy	meweya
+16.45	shame (noun)	bisoaki
+16.45	shame (noun)	bisoya
+16.48	proud	kasomiti
+16.51	dare	kʷehawanama
+16.53	fear, fright	bahida
+16.54	danger	moda
+16.62	desire, want	bihida
+16.622	choose	mepeya
+16.63	hope	iwaya
+16.66	true	yoneri
+16.67	lie, tell lies	yanakana
+16.69	forgive	nerekabaya
+16.71	good	hida
+16.71	good	hidakʷita
+16.72	bad	hidama
+16.76	fault	hočaki
+16.77	mistake, error	inimekohišaya
+16.78	blame	hočaki
+16.81	beautiful	hidapihi
+16.82	ugly	hikadake
+17.13	think (= reflect)	inimetopoya
+17.15	believe	eheneya
+17.17	know	bawedʸa
+17.171	guess	adebaya
+17.18	seem	ehitaho
+17.19	idea, notion	iyokaki
+17.21	wise	baweke
+17.22	foolish, stupid	inimema
+17.23	insane, crazy	ekihawati
+17.24	learn	kabawitʸatiya
+17.242	study	kabawitʸatiya
+17.25	teach	bawitʸaya
+17.27	teacher	bawitʸakike
+17.31	remember	adebaya
+17.32	forget	nimeapotaya
+17.34	clear, plain	ehitahoamereya
+17.37	sure, certain	yoneri
+17.45	need, necessity	sareya
+17.46	easy	ibedama
+17.47	difficult	masada
+17.48	try, attempt	katiya
+17.49	way, manner	inime
+17.51	and	hadʸa
+17.52	because	ehebočahoac̷o
+17.55	yes, affirmative	heheʔe
+17.56	no, negative	ma
+17.56	no, negative	ama
+17.61	how?	ai
+17.62	how many?	ehoma
+17.63	how much?	eheoma
+17.64	what?	ai
+17.64	what?	ehe
+17.65	when?	ehec̷ono
+17.66	where?	eho
+17.67	which?	aikʷana
+17.68	who?	eheke
+17.69	why?	išapa
+18.11	voice	ec̷ori
+18.12	sing	heroya
+18.13	shout, cry out	kekeya
+18.15	whisper	eweraka
+18.17	whistle	owiya
+18.19	howl	kekeya
+18.21	speak, talk	kisaratiya
+18.211	stutter, stammer	anakookoo
+18.22	say	aya
+18.22	say	kʷehaya
+18.221	tell story	piebaya
+18.23	silent (be)	abakada
+18.24	language	yana
+18.26	word	kisarati
+18.28	name	ebakani
+18.31	ask (question, inquire)	bakatiya
+18.32	answer	kemic̷aya
+18.33	admit, confess	hokamepanati
+18.35	ask, request	bakatiya
+18.36	promise	katʸatiya
+18.38	forbid	bihidama
+18.39	rebuke, scold	nereda
+18.41	call (=summon)	iwaraya
+18.43	announce	c̷apeya
+18.44	threaten	awaraya
+18.45	boast	wenana
+18.51	write	eweneke
+18.52	read	isaraya
+18.56	paper	kirika
+18.56	paper	kilika
+18.61	book	kirika
+18.71	flute	raota
+18.71	flute	mori
+18.72	drum	komokomo
+18.74	rattle	matarka
+19.11	country	yawa
+19.15	city, town	epoaridake
+19.16	village	epoho
+19.21	people (populace)	ekʷitakʷana
+19.24	chief, chieftain	warahi
+19.25	staff, walking stick	sari
+19.37	citizen, subject	ata
+19.37	citizen, subject	ekʷita
+19.42	slave	nerekadakec̷ohetiayaama
+19.45	command, order	kʷadiša
+19.46	obey	bakaya
+19.47	let, permit	šanaya
+19.51	friend, companion	ata
+19.52	enemy	ataama
+19.54	neighbor	ata
+19.55	stranger	mec̷ekike
+19.58	help, aid	c̷awaya
+19.59	hinder, prevent	čikiya
+19.61	custom	inime
+19.62	strife, quarrel	sikakadahoya
+19.65	meet	c̷oroya
+20.11	fight (vb)	katiya
+20.14	peace	abakada
+20.21	weapons, arms	tobo
+20.23	sling	maɲari
+20.24	bow	etonono
+20.25	arrow	piya
+20.26	spear	hadahada
+20.41	victory	ihaweaya
+20.43	attack	aya
+20.44	defend	ikʷeneya
+20.471	guard, sentinel	iyahidaa
+20.51	fisherman	motʸaya
+20.52	fishhook	wika
+20.53	fishing line	wikaoho
+20.54	fishnet	sopoti
+20.55	fish trap	sopoti
+20.56	bait	emiwaki
+20.61	hunt	babira
+20.62	shoot	mare
+20.64	trap (noun)	tehi
+21.15	court	taraka
+21.16	judge (vb)	inimepakakašaya
+21.31	accuse	hidamaaya
+21.32	condemn	ihawahoya
+21.37	penalty, punishment	kac̷aya
+21.38	fine	c̷ohebaka
+21.39	prison, jail	etareapodake
+21.42	murder	iyeya
+21.51	steal	čiriya
+21.52	thief	čiripohi

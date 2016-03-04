@@ -1,0 +1,1066 @@
+@classification: Basque
+@ids-name: Basque_Phonemic
+@iso: eus
+@language: Basque
+@size: 1059
+@source: ids
+@variety: std
+1.21	earth, land	lür
+1.212	earth=ground, soil	lür
+1.213	dust	er'hawc̷̣
+1.214	mud	'lohi
+1.222	cliff, precipice	es'pũda
+1.222	cliff, precipice	a'rolʸa
+1.23	plain, field	ürü'pʰea
+1.24	valley	'ibar
+1.24	valley	'naba
+1.27	shore	'ic̷̣aṣ'baster
+1.28	cave	'harpe
+1.31	water	hur
+1.32	sea	i'c̷̣aṣo
+1.323	rough (of sea)	gaic̷
+1.324	foam	'gahün
+1.36	river, stream, brook	ü'heic̷
+1.36	river, stream, brook	e'reka
+1.37	spring, well	ṣor'gia
+1.37	spring, well	ü'türi
+1.38	swamp	'loṣko
+1.38	swamp	'mala
+1.39	waterfall	tʰu'ruṣta
+1.41	woods, forest	'oihan
+1.42	tree (cf 08.600)	sü'haɲ
+1.42	tree (cf 08.600)	sü'haɲc̷e
+1.43	wood	sur
+1.44	stone, rock	'hari
+1.44	stone, rock	'bočü
+1.45	earthquake	lüri'kʰara
+1.52	sun	'ekʰi
+1.53	moon	argi'sagi
+1.54	star	'isar
+1.55	lightning	iɲ'hasi
+1.55	lightning	či'mišta
+1.56	thunder	ü̃h'ülgü
+1.56	thunder	ül'hü̃gü
+1.56	thunder	'dü̃da
+1.57	lightning (as striking)	ü̃h'ülgü
+1.59	rainbow	o'sadar
+1.61	light (noun)	'argi
+1.62	darkness	ül'hü̃pe
+1.63	shade, shadow	'ic̷al
+1.64	dew	'ĩhĩc̷
+1.72	wind	'aise
+1.73	cloud	o'dei
+1.74	fog	lan'hu
+1.74	fog	lanha'raide
+1.75	rain (noun)	'ebi
+1.76	snow (noun)	'elhür
+1.77	ice	kʰa'ru
+1.78	weather	'aro
+1.81	fire	ṣü
+1.82	flame (noun)	gar
+1.83	smoke (noun)	kʰe
+1.84	ashes	hauc̷̣
+1.841	embers	'mura
+1.851	burn (vb trans)	'ere
+1.852	burn (vb intrans)	'ere
+1.86	light, kindle, ignite	pʰic̷
+1.861	extinguish	'eho
+1.88	firewood	'egür
+1.89	charcoal	'egür'ĩkʰac̷
+2.21	man (vs. woman)	'gison
+2.22	woman	e'maste
+2.23	male	ar
+2.23	male	'kʰočo
+2.24	female	ü'rüša
+2.25	boy	po'tiko
+2.251	young man (adolescent)	mo'tʰiko
+2.26	girl	neṣka'čuna
+2.261	young woman (adolescent)	neṣka'tila
+2.27	child	haur
+2.28	infant, baby	haur'ɲi
+2.28	infant, baby	ɲe'ɲe
+2.31	husband	'ṣenhar
+2.32	wife	e'maste
+2.33	marry	'eskũt
+2.34	marriage, wedding	es'kũc̷e
+2.34	marriage, wedding	es'tei
+2.35	father	'aita
+2.36	mother	'ama
+2.37	parents	eče'koak
+2.38	married man	'gisones'kũtü
+2.39	married woman	e'mastees'kũtü
+2.41	son	'ṣeme
+2.42	daughter	al'haba
+2.43	offspring (son or daughter)	haur
+2.44	brother	a'naie
+2.444	older brother	a'naiege'hien
+2.45	sister	a'reba
+2.45	sister	ã'hispa
+2.454	older sister	a'rebage'hien
+2.454	older sister	ã'hispage'hien
+2.456	sibling	aur'hide
+2.458	twins	bi'aškin
+2.46	grandfather	aita'ɲi
+2.46	grandfather	a'tʸatʸa
+2.461	old man	'šahar
+2.47	grandmother	ama'ɲi
+2.47	grandmother	a'mama
+2.471	old woman	'šahar
+2.48	grandson	ara'ṣeme
+2.49	granddaughter	aral'haba
+2.51	uncle	o'ṣaba
+2.511	mother's brother	a'marena'naie
+2.512	father's brother	ai'tarena'naie
+2.521	mother's sister	a'marenã'hispa
+2.522	father's sister	ai'tarena'reba
+2.53	nephew	'lʸoba
+2.54	niece	'lʸoba
+2.56	ancestors	lehene'koak
+2.57	descendants	õdo'koak
+2.57	descendants	geo'koak
+2.63	son-in-law (of a man)	'ṣühi
+2.631	son-in-law (of a woman)	'ṣühi
+2.71	stepfather	aita'šün
+2.72	stepmother	ama'šün
+2.76	widow	alhar'güɲc̷̣a
+2.77	widower	al'hargün
+2.81	relatives, kinsmen	aṣka'siak
+2.91	I	ni
+2.92	you (singular)	hi
+2.93	he/she/it	'hura
+2.94	we	gü
+2.95	you (plural)	'siek
+2.96	they	hurak
+3.11	animal	ka'bale
+3.11	animal	i'hise
+3.12	male (adj)	'kʰočo
+3.12	male (adj)	ar
+3.13	female (adj)	ü'rüša
+3.15	livestock	ka'bale
+3.16	pasture	baska'gia
+3.16	pasture	alha'gia
+3.18	herdsman	i'c̷aɲ
+3.18	herdsman	ar'c̷aɲ
+3.19	stable, stall	behi'tegi
+3.19	stable, stall	ba'rükü
+3.19	stable, stall	mãdo'tegi
+3.2	cattle (bovine)	ka'bale
+3.21	bull	'sesen
+3.22	ox	'idi
+3.23	cow	'behi
+3.24	calf	'šahal
+3.25	sheep	a'hari
+3.26	ram	ãha'c̷arc̷
+3.26	ram	'maro
+3.28	ewe	'ardi
+3.29	lamb	a'šuri
+3.32	boar	ba'ṣurde
+3.34	sow	šer'hama
+3.35	pig	'urde
+3.36	goat	a'hü̃c̷
+3.37	he-goat	'akʰer
+3.38	kid	a'hüɲe
+3.44	mare	'bohor
+3.46	ass, donkey	'aṣto
+3.47	mule	'mãdo
+3.5	fowl	pu'ralʸa
+3.52	cock, rooster	o'lʸara
+3.54	hen	'olʸo
+3.55	chicken	o'lʸaṣko
+3.56	goose	ã'c̷era
+3.57	duck	ã'hate
+3.58	nest	ka'bia
+3.581	bird	'čori
+3.584	eagle	a'rano
+3.591	bat	gaiaɲ'hera
+3.593	crow	'bele
+3.594	dove	ürso'šuri
+3.596	owl	hü̃c̷
+3.61	dog	'čakür
+3.63	mouse, rat	'ṣagü
+3.65	fish	a'raɲ
+3.655	shell	'küṣkü
+3.71	wolf	'oc̷̣o
+3.73	bear	harc̷
+3.74	fox	a'šeri
+3.75	deer	or'kʰac̷
+3.811	louse	'sori
+3.812	nit (louse egg)	barč
+3.817	ant	üɲ'hüri
+3.818	spider	a'ɲarbe
+3.819	spider web	a'maɲ
+3.82	bee	'erle
+3.821	beeswax	'esko
+3.823	wasp	lose'biɲa
+3.83	fly	'ülʸü
+3.831	sandfly (midge), gnat	'elčo
+3.84	worm	'ši'šari
+3.84	worm	har
+3.85	snake	'ṣüge
+3.93	grasshopper	čiča'tera
+3.93	grasshopper	lʸar'hote
+3.95	frog	'igel
+3.96	lizard	'ṣüṣkã'dera
+3.96	lizard	'ṣüṣker
+4.12	skin, hide	'larü
+4.13	flesh	a'ragi
+4.142	beard	'bisar
+4.144	body hair	'bilho
+4.145	pubic hair	'üskü'bilho
+4.146	dandruff	'sahi
+4.15	blood	'odol
+4.151	vein, artery	saɲ
+4.16	bone	'esür
+4.162	rib	'ṣaihec̷̣'esür
+4.17	horn	'adar
+4.18	tail	'büstan
+4.19	back	'biskar
+4.191	spine	'biskar'esür
+4.2	head	'bürü
+4.201	side of head, temple	lu
+4.202	skull	bü'esür
+4.203	brain	hün
+4.204	face	begi'tʰarte
+4.205	forehead	be'lar
+4.207	jaw	ba'ralʸa
+4.208	cheek	ma'tʰela
+4.208	cheek	ma'šela
+4.209	chin	'bidar
+4.21	eye	'begi
+4.212	eyebrow	be'pʰürü
+4.213	eyelid	'begi'espal
+4.214	eyelash	'begi'bilho
+4.215	blink	ereṣ'kiɲa
+4.22	ear	be'hari
+4.221	earlobe	be'hari'espal
+4.222	earwax	be'hari'kʰaka
+4.23	nose	'ṣüdür
+4.231	nostril	'ṣüdür'silo
+4.232	mucus (nasal)	c̷ĩc̷
+4.24	mouth	'aho
+4.241	beak	'moṣko
+4.25	lip	es'paɲ
+4.26	tongue	'mihi
+4.27	tooth	horc̷
+4.272	molartooth	'hagin
+4.28	neck	'lepʰo
+4.281	nape of neck	gar'kʰoče
+4.29	throat	'sünc̷ür
+4.3	shoulder	ṣuɲ
+4.301	shoulderblade	ṣor'balda
+4.31	arm	'beṣo
+4.312	armpit	be'ṣape
+4.32	elbow	be'ṣaɲko
+4.321	wrist	ü'kʰarai
+4.33	hand	'eṣkü
+4.331	palm of hand	'ahür
+4.34	finger	'ehi
+4.342	thumb	be'hac̷
+4.344	fingernail	asüs'külü
+4.345	claw	as'tapar
+4.35	leg	'sãkʰo
+4.351	thigh	'aspi
+4.352	calf of leg	'sãkʰo'sagar
+4.36	knee	bel'haɲ
+4.37	foot	huɲ
+4.371	ankle	'astalbe'hari
+4.372	heel	'astal
+4.374	footprint	'sãkʰohe'reša
+4.38	toe	sã'kʰoko'ehi
+4.392	wing	'hegal
+4.4	chest	'bulhar
+4.41	breast (of woman)	'tʰiti
+4.412	nipple, teat	'tʰiti
+4.412	nipple, teat	'tʰiti'moṣko
+4.42	udder	he'rape
+4.43	navel	pi'kʰoṣte
+4.44	heart	'bihoc̷
+4.441	lung	'gibele'rai
+4.45	liver	'gibel
+4.452	spleen	'bahe
+4.46	stomach	'ṣabel
+4.461	intestines, guts	'erše
+4.462	waist	ge'riko
+4.464	buttocks	'üsküma'tʰela
+4.47	womb	hü'moi
+4.49	testicle	koṣ'koi
+4.492	penis	'pito
+4.51	breathe, breath	'hac̷̣har
+4.52	yawn, gape	aharauṣegin
+4.52	yawn, gape	ãhã'rauṣ'egin
+4.521	hiccough	'šotʰen'egin
+4.53	cough	'estü'legin
+4.54	sneeze	ür'ṣa'ɲegin
+4.55	perspire	i'serdi
+4.56	spit	tʰü'egin
+4.57	vomit	'goiti'urtʰuk
+4.58	bite	'uṣuk
+4.59	lick	mi'lʸika
+4.591	dribble	'elder
+4.591	dribble	'bahü'c̷̣egin
+4.61	sleep	lo
+4.61	sleep	lo'egin
+4.612	snore	ku'rũka
+4.62	dream	'ame'c̷̣egin
+4.63	wake up	'iac̷ar
+4.64	break wind	'üske'regin
+4.65	urinate	'egin
+4.66	defecate	'egin
+4.67	have sexual intercourse	či'koka
+4.68	shiver	i'kʰa
+4.71	beget (of father)	hau'regin
+4.72	born (to be)	ṣor
+4.73	pregnant	'isor
+4.73	pregnant	haurn
+4.732	conceive	hau'regin
+4.74	live, living, life	'bizi
+4.75	die, dead	hil
+4.751	drowned	'itʰo
+4.76	kill	'eho
+4.77	corpse	hil
+4.78	bury (the dead)	'ehorc̷
+4.79	grave, tomb	'hobe
+4.81	strong, mighty, powerful	'askar
+4.82	weak	'ahül
+4.83	well, health	oṣa'gari
+4.84	sick, sickness	'eri
+4.84	sick, sickness	eri'tarsün
+4.841	fever	'ṣükʰar
+4.842	goiter	'lepʰo'hãdi
+4.843	cold (catarrh)	mar'hãta
+4.852	bruise	mãkʰa'düa
+4.852	bruise	odolüi'kua
+4.853	swelling	hã'küa
+4.854	itch	hac̷
+4.854	itch	hasku'diɲa
+4.855	blister	küṣ'külʸü
+4.856	boil (noun)	üčü'lari
+4.858	scar	he'reša
+4.86	cure, heal	'ṣɛ̃do
+4.91	tired, weary	akʰi'düra
+4.91	tired, weary	'eɲhe
+4.92	lazy	'auher
+4.93	bald	bü
+4.95	deaf	gor
+4.97	blind	'üc̷̣ü
+4.98	intoxicated	'moskor
+4.99	naked, bare	pika'rai
+5.11	eat	žan
+5.12	food	žan'hari
+5.121	cooked	e'reik
+5.122	raw	'gordin
+5.123	ripe	'sohi
+5.123	ripe	hun'tüik
+5.124	green, unripe	es'hũtü
+5.125	rotten	hi'rotü
+5.13	drink	'edan
+5.14	hunger	'goṣe
+5.141	famine	go'ṣeria
+5.15	thirst	e'gari
+5.16	suck	'murc̷a
+5.181	swallow	'gaɲti
+5.21	cook	'ere
+5.22	boil (vb)	e'raki
+5.22	boil (vb)	e'goṣi
+5.23	roast, fry	'erear'asi
+5.24	bake	la'bean'erea'rasi
+5.25	oven	'labe
+5.33	bowl	ga'tʰülü
+5.34	pitcher, jug	pe'gar
+5.34	pitcher, jug	fe'reta
+5.391	tongs	mašü'külü
+5.41	meal (a)	a'paidü
+5.42	breakfast	aṣ'kari
+5.43	lunch	bas'kari
+5.44	dinner	ai'hari
+5.45	supper	ai'hari
+5.46	peel	šui
+5.47	sieve, strain	i'garan
+5.48	scrape	kʰa'raka
+5.49	stir, mix	'nahaṣ
+5.51	bread	'ogi
+5.51	bread	pʰa'pa
+5.53	dough	'orhe
+5.54	knead	'oha
+5.55	meal, flour	'irin
+5.56	crush, grind	'šehek
+5.57	mill	ei'hera
+5.61	meat	a'ragi
+5.61	meat	či'či
+5.66	bean	'ilhar
+5.7	potato	lür'ṣagar
+5.76	grape	'mãhac̷̣
+5.77	nut	ĩ'c̷aur
+5.791	grease, fat	'urin
+5.791	grease, fat	'gisen
+5.791	grease, fat	gãc̷
+5.81	salt	gac̷
+5.82	pepper	belc̷
+5.84	honey	'esti
+5.86	milk (noun)	es'ne
+5.87	milk (vb)	'iec̷̣i
+5.88	cheese	gaz'na
+5.88	cheese	ɲa'ɲa
+5.9	beverage, drink	e'dari
+5.92	wine	ar'du
+5.97	egg	a'rauc̷e
+5.971	egg yolk	go'rĩko
+6.11	put on (clothes)	žaunc̷̣
+6.21	cloth	'oihal
+6.22	wool	'ilhe
+6.29	leather	'larü
+6.31	spin	'ürüt
+6.32	spindle	'ardac̷
+6.33	weave	'ehün
+6.35	sew	žoṣ
+6.36	needle	o'rac̷
+6.38	thread	'hari
+6.42	woman's dress	'saia
+6.44	shirt	'mãtʰar
+6.44	shirt	a'tʰora
+6.46	skirt	kotapi'lʸot
+6.49	stocking, sock	'galc̷a
+6.51	shoe	'oṣki
+6.51	shoe	huɲe'tako
+6.54	shoemaker, cobbler	'oṣki'gile
+6.58	glove	'eṣkü
+6.58	glove	'eṣkü'larü
+6.61	pocket	ṣa'kola
+6.72	jewel	ürhe'ria
+6.73	ring (for finger)	e'hastün
+6.75	necklace	üs'tei
+6.76	bead	'bihi
+6.91	comb	o'rase
+6.93	razor	'bisar
+7.11	dwell, live	'bisi
+7.12	house	'eče
+7.13	hut	e'čola
+7.17	cookhouse	'ṣükʰalte
+7.231	latch, door-bolt	gilc̷a'rapʰo
+7.24	key	gilc̷
+7.25	window	'leiho
+7.26	floor	lür
+7.31	fireplace	ṣü'tʰõdo
+7.32	stove	'labe
+7.37	ladder	'sübü
+7.42	bed	'ohe
+7.421	pillow	'bürü'negi
+7.422	blanket	eṣ'talgi
+7.43	chair	žar'gia
+7.43	chair	tʸotʸogia
+7.44	table	ma'haɲ
+7.46	candle	'siho
+7.46	candle	'esko
+7.48	trough	'aṣka
+7.51	roof	he'gac̷
+7.52	thatch	'laṣtohe'gac̷
+7.61	mason	'hargin
+8.12	field (for cultivation)	elge
+8.12	field (for cultivation)	'alhor
+8.13	garden	ba'rac̷e
+8.15	cultivate, till	'üc̷ül
+8.16	fence	še'hela
+8.16	fence	ke'helʸa
+8.17	ditch	'silo
+8.21	plow	'nabar
+8.212	furrow	'ildo
+8.22	dig	'sila
+8.22	dig	'haic̷ür
+8.23	spade	üc̷ül'c̷eko
+8.25	hoe	žo'rai
+8.26	fork	'ṣarde
+8.31	sow	e'reɲ
+8.311	seed	'bihi
+8.311	seed	'asi
+8.32	mow, reap	muc̷
+8.32	mow, reap	bil
+8.32	mow, reap	i'raiki
+8.33	sickle, scythe	'dalʸü
+8.33	sickle, scythe	iga'tei
+8.34	thresh	o'giažo
+8.41	crop, harvest	'üsta
+8.42	grain (barley, oats etc)	'bihi
+8.43	wheat	'ogi
+8.44	barley	'gagar
+8.46	oats	'olho
+8.47	maize, corn	'artʰo
+8.51	grass	'belhar
+8.52	hay	'belhar'idor
+8.52	hay	ar'dalʸ
+8.54	root	'ero
+8.55	branch	'adar
+8.56	leaf	'oṣto
+8.57	flower	'lili
+8.6	tree	sü'haɲ
+8.6	tree	sü'haɲc̷e
+8.61	oak	'harič
+8.63	birch	'bürkʰi
+8.65	fir	i'sei
+8.66	acorn	si
+8.67	vine	'aihen
+8.72	tree stump	'nadi
+8.72	tree stump	sü'haɲ'õdo
+8.73	tree trunk	'ü̃kʰü
+8.74	forked branch	ma'čaro
+8.75	bark	'ašal
+8.97	nettle	'aṣün
+8.98	mushroom	'õdʸo
+9.11	do, make	'egin
+9.12	work	lan'egin
+9.14	bend	'kʰüpüc̷̣
+9.16	tie, bind	eṣ'teki
+9.19	rope, cord	'ṣoka
+9.192	knot (noun)	oro'pilo
+9.21	strike (hit, beat)	žo
+9.211	pound with fist	kʰü'milʸa'kaṣka
+9.211	pound with fist	kʰü'milʸa'kʰaldü
+9.22	cut	muc̷
+9.22	cut	'etʰen
+9.221	cut down	e'goči
+9.222	chop, hew	'pʰika
+9.222	chop, hew	muc̷
+9.24	scissors, shears	'haištür
+9.25	ax	aš'kora
+9.26	break	hauc̷̣
+9.261	broken	hau'c̷̣erik
+9.27	split	er'dira
+9.27	split	eṣ'kalʸa
+9.28	tear	'üra
+9.29	flay, skin	'larü
+9.29	flay, skin	lahar'deki
+9.32	stretch	'heda
+9.341	hang up	čilĩ'čau
+9.342	press	'iuški
+9.343	squeeze, wring	'tĩka
+9.35	pour	i'šuri
+9.36	wash	'šãhã
+9.36	wash	'lac̷̣a
+9.36	wash	'ükʰüs
+9.36	wash	begi'tʰarta
+9.37	sweep	er'hasta
+9.38	broom	er'hac̷
+9.44	build	'egin
+9.46	bore	'sila
+9.461	hollow out	'sila
+9.5	nail	'ic̷e
+9.6	smith, blacksmith	'aroc̷
+9.61	forge	bür'düɲažo
+9.64	gold	'ürhe
+9.65	silver	'silhar
+9.67	iron	'bürdüɲ
+9.71	potter	'ũc̷i'egile
+9.72	mold (clay etc)	'molda
+9.73	clay	lür'holʸi
+9.76	basket	'sare
+9.78	netbag	'šare
+9.791	fan (vb)	ai'seṣta
+9.791	fan (vb)	ai'deṣta
+9.84	chisel	haiš'tür
+10.11	move	'igi
+10.12	turn over	'üc̷ül
+10.12	turn over	ü̃'güra
+10.13	turn around	ü̃'güra
+10.14	wind, wrap	biri'bilka
+10.15	roll	üc̷ü'lika
+10.16	drop (vb)	eror'tera'üc̷i
+10.17	twist	'bühür
+10.17	twist	bü'hüri
+10.17	twist	'okʰer
+10.21	rise	i'gan
+10.21	rise	'goitižun
+10.22	raise, lift	'čüti
+10.22	raise, lift	žeiki
+10.22	raise, lift	'iraiki
+10.23	fall	'eror
+10.24	drip	'čorta
+10.25	throw	ur'tʰuki
+10.252	catch (ball)	a'c̷aman
+10.26	shake	'igi
+10.26	shake	ĩha'rauṣ
+10.32	flow	i'šuri
+10.33	sink	'itʰo
+10.34	float	ige'riška
+10.35	swim	ige'riška
+10.351	dive	hurpea'lat'žausi
+10.352	splash	ča'paṣta
+10.352	splash	čala'puṣta
+10.36	sail (vb)	ũ'c̷isžun
+10.37	fly (vb)	he'galta
+10.41	creep, crawl	he'reṣta
+10.41	creep, crawl	laha'poka
+10.412	kneel	be'laika
+10.413	crouch	ko'kot
+10.42	slide, slip	'lera
+10.43	jump, leap	'žausi
+10.431	kick	oṣti'kata'eman
+10.45	walk	'ebil
+10.451	limp	čaɲ'kʰüka
+10.46	run	laṣ'terka
+10.47	go	žun
+10.471	go up	i'gan
+10.472	climb	i'gan
+10.472	climb	'goitižun
+10.473	go down	'erač
+10.474	go out	'elkʰi
+10.474	go out	i'doki
+10.48	come	žin
+10.481	come back	žin
+10.481	come back	'üc̷ül
+10.49	go away, depart	žun
+10.491	disappear	gal
+10.51	flee	ĩ'heṣžun
+10.52	follow	ža'raiki
+10.53	pursue	õ'dotikža'raik
+10.55	reach, arrive	hel
+10.56	approach	'hülʸãt
+10.57	enter	ṣar
+10.61	carry (bear)	e'raman
+10.612	carry-in-hand	eṣ'küane'raman
+10.613	carry-on-shoulder	ne'raman
+10.614	carry-on-head	bü'rüane'raman
+10.614	carry-on-head	kõka'čeane'raman
+10.615	carry-underarm	beṣa'peane'raman
+10.62	bring	'ekʰar
+10.63	send	'igor
+10.64	lead (vb)	'lagü̃t
+10.66	ride	sal'dika
+10.71	road	'bide
+10.74	bridge	'sübü
+10.77	axle	'nac̷a
+10.78	yoke	üs'tari
+10.81	ship	'ũc̷i
+10.83	boat	'ũc̷i
+11.11	have	'ükʰen
+11.12	own, possess	'ükʰen
+11.13	take	har
+11.14	seize, grasp	a'c̷aman
+11.15	hold	'eček
+11.16	get, obtain	'ükʰen
+11.16	get, obtain	ar'diec̷̣
+11.17	keep, retain	be'gira
+11.17	keep, retain	'eček
+11.21	give	'eman
+11.24	preserve, look after	be'gira
+11.27	destroy	egin
+11.27	destroy	hauc̷̣
+11.28	harm, injure, damage	pʰo'roki
+11.31	seek, look for	'ikʰer
+11.32	find	a'c̷aman
+11.32	find	e'diren
+11.33	lose	gal
+11.44	coin	šehe
+11.51	rich	a'berac̷̣
+11.53	beggar	bil'c̷ale
+11.54	avaricious, stingy	'šekʰen
+11.62	borrow	'žeṣan
+11.63	owe	sor'ükʰen
+11.64	debt	sor
+11.69	tax, tribute	'legar
+11.79	earn	'irabas
+11.81	buy	e'roṣi
+11.82	sell	ṣal
+11.84	merchant	ṣal'c̷ale
+11.86	store, shop	ṣal'tegi
+12.1	after	'gero
+12.11	place	'gibel
+12.2	beside	kʰã'tüan
+12.2	beside	ũ'doan
+12.3	down, below	'pean
+12.4	before	'lehen
+12.4	before	aic̷i'nean
+12.41	right (side)	aic̷i'nean
+12.5	inside, in	'barnen
+12.6	outside	n
+12.7	under	'pean
+12.8	up, above	'gaɲen
+12.11	place	'güne
+12.12	put	e'sari
+12.13	sit	žar
+12.13	sit	tʸotʸo
+12.14	lie down	'ec̷an
+12.15	stand	'čüti
+12.16	remain, stay	'egon
+12.17	remains, left overs	'ũdar
+12.21	collect, gather	bil
+12.212	pick up	bil
+12.213	pile up	'atʰe
+12.22	join, unite	alga'reta
+12.23	separate	be'heš
+12.232	divide	še'heka
+12.24	open	'sabal
+12.27	hide, conceal	'gorde
+12.31	high	'gora
+12.32	low	'apʰal
+12.33	top	'gaɲe
+12.33	top	'tʰini
+12.34	bottom	'sola
+12.35	end	'bürü
+12.352	pointed	'soroc̷
+12.353	edge	'baster
+12.36	side	'ṣahec̷̣
+12.36	side	'alde
+12.37	middle, center	'erdi
+12.41	right (side)	eṣ'küɲ
+12.43	near (adv)	'hülʸan
+12.44	far (adv)	'hürün
+12.45	east	'ekʰi'žeiki'gia
+12.46	west	'ekʰiṣar'gia
+12.53	grow	'hãdi
+12.55	large, big	'lodi
+12.56	small, little	'tʸipi
+12.57	long	'lüse
+12.58	tall	'hãdi
+12.59	short	'lʸabür
+12.61	wide, broad	'sabal
+12.62	narrow	'herṣi
+12.63	thick (in dimension)	'lodi
+12.67	deep	'barna
+12.68	shallow	amiɲibat'barna
+12.71	flat	'sabal
+12.73	straight	'šüšen
+12.74	crooked	'kõkor
+12.74	crooked	'kʰüpüc̷̣
+12.75	hook	'kʰako
+12.76	corner	'ṣoko
+12.81	round	bi'ribil
+12.84	line	he'roka
+12.85	hole	'silo
+12.92	like, similar	be'sala
+12.92	like, similar	'bardin
+12.92	like, similar	ü'düri
+13.0	zero, nothing	hüc̷̣
+13.0	zero, nothing	deüṣ
+13.1	one	bat
+13.2	two	'biga
+13.3	three	'hiru
+13.4	four	lau
+13.5	five	boṣt
+13.7	seven	'saspi
+13.8	eight	'sorc̷i
+13.9	nine	bede'rac̷ü
+13.10	ten	'hamar
+13.101	eleven	'ha'meka
+13.102	twelve	hama'bi
+13.103	fifteen	hama'boṣt
+13.104	twenty	'hogei
+13.105	hundred	'ehün
+13.14	every, all	'oro
+13.14	every, all	denak
+13.14	every, all	'güsi
+13.15	much, many	'hanič
+13.16	more	ha'boro
+13.17	little (quantity), few	'güti
+13.18	enough	'aṣki
+13.181	some	ami'ɲibat
+13.181	some	'ĩkaibat
+13.19	multitude, crowd	'ṣaldo
+13.19	multitude, crowd	'oste
+13.21	full	be'tʰerik
+13.22	empty	'hüc̷̣ik
+13.24	half	'erdi
+13.33	alone, only	'bera
+13.34	first	'lehen
+13.35	last	'asken
+13.36	second	bige'ren
+13.38	two times	be'ritan
+13.38	two times	bi'aldis
+13.42	third	hiruge'ren
+13.44	three times	hi'rutan
+13.44	three times	'hiru'aldis
+14.11	time	'ordü
+14.12	age	'adin
+14.13	new	'beri
+14.14	young	'gaste
+14.15	old	'sahar
+14.16	early	'goisik
+14.17	late	be'rãt
+14.18	now	'orai
+14.19	immediately	a'rũt
+14.19	immediately	'orai'be'rean
+14.21	swift, fast, quick	'laṣter
+14.21	swift, fast, quick	'salhe
+14.22	slow	'barač
+14.23	hasten, hurry	'salheegin
+14.23	hasten, hurry	'salhežun
+14.24	retard, delay	be'rãt
+14.25	begin, beginning	'hac̷̣are
+14.252	last, endure	i'raüɲ
+14.26	end (temporal)	ür'hɛ̃c̷e
+14.27	finish	'ürhɛ̃t
+14.28	cease, stop	ü'kʰüra
+14.31	always	'betʰi
+14.33	sometimes	'sumait'aldis
+14.331	soon	'laṣter
+14.331	soon	bere'hala
+14.332	long-time (for a)	'lüsas
+14.35	again	o'rano
+14.41	day	'egün
+14.42	night	gai
+14.43	dawn	ar'gic̷e
+14.44	morning	gois
+14.45	noon, midday	e'güerdi
+14.451	afternoon	a'riṣti
+14.451	afternoon	a'reṣti
+14.46	evening	a'rac̷̣
+14.46	evening	ül'hü̃c̷e
+14.47	today	'egün
+14.48	tomorrow	'bihar
+14.481	day-after-tomorrow	'ec̷i
+14.49	yesterday	'ac̷o
+14.491	day-before-yesterday	here'negün
+14.51	hour	'oren
+14.61	week	'aṣte
+14.62	Sunday	'igãte
+14.63	Monday	aṣte'lehen
+14.64	Tuesday	aṣte'harte
+14.65	Wednesday	aṣ'tisken
+14.66	Thursday	oṣ'tegün
+14.67	Friday	oṣ'tirale
+14.68	Saturday	neṣke'negün
+14.71	month	hila'bete
+14.73	year	'urtʰe
+14.74	winter	'negü
+14.75	spring	be'dac̷̣
+14.76	summer	'üda
+14.77	autumn	la'rasken
+15.21	smell (vb intrans)	ü'rinc̷a
+15.21	smell (vb intrans)	'ürin'eman
+15.21	smell (vb intrans)	'ürin'ükʰen
+15.212	sniff	'üṣna
+15.25	fragrant, good smelling	'ürinhun
+15.26	stinking, bad smelling	ü'rinc̷ü
+15.35	sweet	esti
+15.35	sweet	'türik
+15.36	salty	'gasi
+15.37	bitter	'kʰac̷̣
+15.38	acid, sour	'mĩgar
+15.39	brackish	'gasi
+15.41	hear	'ɛ̃c̷ün
+15.42	listen	be'ha
+15.44	sound, noise	he'roc̷̣
+15.45	loud	he'roc̷̣ü
+15.45	loud	he'roṣdün
+15.46	quiet, silence	'ãple
+15.46	quiet, silence	išil'tarsün
+15.51	see	'ikʰuṣ
+15.52	look, look at	ṣo'egin
+15.55	show	'irakuṣ
+15.56	shine	'argi
+15.57	bright	'argi
+15.62	light (in color)	'argi
+15.63	dark (in color)	'ülhün
+15.64	white	'šuri
+15.65	black	belc̷
+15.66	red	'gori
+15.69	yellow	'holʸi
+15.71	touch	'hũki
+15.712	pinch	či'mika
+15.72	feel	'aẓma
+15.74	hard	'gogor
+15.75	soft	'mardʸo
+15.76	rough	lac̷
+15.78	sharp	'soroc̷
+15.79	blunt, dull	'lãpʰüc̷
+15.82	light (in weight)	'ahin
+15.84	dry	'idor
+15.85	hot	'bero
+15.851	warm	'epʰel
+15.86	cold	'hoc̷
+15.87	clean	'šãhü
+15.88	dirty, soiled	'sikʰin
+15.88	dirty, soiled	'tʰeü
+15.88	dirty, soiled	'tʰeiü
+15.89	wrinkled	'c̷imal
+16.15	surprised, astonished	'türik
+16.15	surprised, astonished	ac̷a'manik
+16.18	good fortune, luck	'hun
+16.23	joyful, glad, happy	ik
+16.25	laugh	'egin
+16.251	smile	'ɲi'egin
+16.26	play	čoṣ'taka
+16.27	love	'maite
+16.29	kiss	pot'eman
+16.3	embrace	be'ṣarka
+16.31	pain	min
+16.31	pain	mi'mi
+16.33	anxiety, worry	arɛ̃'küra
+16.35	pity	do'lümen
+16.37	cry, weep	'nigar'egin
+16.38	tear (noun)	'nigar
+16.39	groan	ka
+16.41	hate	'hera
+16.42	anger	'kʰešü
+16.44	envy, jealousy	bekʰaš'teria
+16.45	shame (noun)	ã'hãlke
+16.53	fear, fright	'loc̷̣a
+16.53	fear, fright	lar'delʸa
+16.53	fear, fright	hari'düra
+16.62	desire, want	'nahi
+16.622	choose	'haita
+16.66	true	'egia
+16.67	lie, tell lies	'gesür'eran
+16.68	deceit	ke'ria
+16.71	good	hun
+16.72	bad	'gaišto
+16.73	right, correct	'šüšen
+16.74	wrong	'okʰer
+16.76	fault	'ogen
+16.77	mistake, error	hüc̷̣
+16.81	beautiful	'eder
+16.81	beautiful	'eižer
+16.82	ugly	i'c̷̣uṣi
+16.83	greedy	hun'koi
+16.84	clever	bürü'hun
+17.11	mind	'gogo
+17.14	think (= be of the opinion)	'uṣte'ükʰen
+17.15	believe	'ṣinec̷̣
+17.17	know	'žakin
+17.171	guess	'aẓma
+17.172	imitate	ĩhĩ'kišta
+17.18	seem	ü'düri
+17.19	idea, notion	'gogo
+17.21	wise	ža'kinc̷ü
+17.22	foolish, stupid	'aṣto
+17.22	foolish, stupid	deṣa'pɛ̃t
+17.22	foolish, stupid	'soso
+17.22	foolish, stupid	pe'lʸot
+17.23	insane, crazy	'erc̷o
+17.24	learn	'ikʰaṣ
+17.242	study	'ikʰaṣ
+17.25	teach	i'rakʰaṣ
+17.25	teach	i'rakʰuṣ
+17.26	pupil	i'kʰaṣle
+17.27	teacher	ira'kʰaṣle
+17.31	remember	'ohit
+17.31	remember	'ohart
+17.32	forget	'ãhãc̷
+17.34	clear, plain	'argi
+17.35	obscure	'ülhün
+17.38	explain	'rasi
+17.41	intention, purpose	'šede
+17.44	suspect	'aṣma
+17.44	suspect	že'loṣ
+17.441	betray	'kʰodi
+17.45	need, necessity	beha'rüne
+17.47	difficult	gaic̷
+17.51	and	'eta
+17.52	because	sere'neta
+17.52	because	beit
+17.53	if	ba
+17.53	if	ba'lĩba
+17.54	or	'edo
+17.54	or	'ala
+17.55	yes, affirmative	bai
+17.55	yes, affirmative	ba'iec̷
+17.56	no, negative	es
+17.56	no, negative	e'sec̷
+17.61	how?	'nula
+17.62	how many?	su'mat
+17.63	how much?	su'mat
+17.64	what?	ser
+17.65	when?	nuis
+17.66	where?	nun
+17.67	which?	suɲ
+17.68	who?	nur
+17.69	why?	serɛ̃'tako
+17.69	why?	ser'tako
+18.13	shout, cry out	oi'hegin
+18.15	whisper	kü'šelüs'ari
+18.15	whisper	ãhã'peti'mĩc̷o
+18.17	whistle	hüš'tüla
+18.18	shriek, screech	'o'ruas'ari
+18.18	shriek, screech	a'rãbas'ari
+18.21	speak, talk	'mĩc̷o
+18.21	speak, talk	el'heṣta
+18.211	stutter, stammer	ü'kʰoba'teki'mĩc̷o
+18.211	stutter, stammer	'motʰel
+18.22	say	'eran
+18.222	speech (make a)	mĩ'c̷aldi
+18.222	speech (make a)	mĩ'c̷aldibat'egin
+18.23	silent (be)	'išil
+18.24	language	mĩ'c̷aže
+18.26	word	hic̷
+18.26	word	el'he
+18.28	name	'isen
+18.31	ask (question, inquire)	'galtʰa
+18.32	answer	ĩ'hardec̷̣
+18.32	answer	'eman
+18.33	admit, confess	'hunhar
+18.33	admit, confess	'aitʰor
+18.34	deny	'ükʰa
+18.35	ask, request	'galtʰa
+18.36	promise	hi'c̷aman
+18.36	promise	hi'c̷eman
+18.37	refuse	es'hunhar
+18.39	rebuke, scold	gais'kiak'eran
+18.39	rebuke, scold	'kʰeṣa
+18.41	call (=summon)	deitʰ
+18.42	call (=name)	deitʰ
+18.43	announce	žakina'rasi
+18.45	boast	s'ari
+18.52	read	'rakur
+18.67	poet	'kari
+18.71	flute	čü'lüla
+18.73	horn, trumpet	'adar
+18.73	horn, trumpet	tüt
+18.74	rattle	ka'lʸaka
+19.11	country	'heri
+19.12	one's native country	ṣor'tʰeri
+19.15	city, town	'hiri
+19.16	village	'heri
+19.23	tribe, clan	'eia
+19.24	chief, chieftain	bürü'sagi
+19.24	chief, chieftain	'nauṣi
+19.25	staff, walking stick	ma'kʰila
+19.36	noble, nobleman	ai'tuen'ṣeme
+19.37	citizen, subject	hiri'tar
+19.37	citizen, subject	eṣkü'peko
+19.41	master	'nauṣi
+19.43	servant	'mitʰil
+19.43	servant	miš'kãdi
+19.43	servant	neṣ'kato
+19.44	freeman	'gison
+19.46	obey	'ṣinhec̷̣
+19.47	let, permit	'üc̷i
+19.51	friend, companion	adiṣ'kide
+19.51	friend, companion	'lagün
+19.52	enemy	e'c̷̣ai
+19.54	neighbor	'aiso
+19.55	stranger	'aroc̷
+19.56	guest	tü
+19.57	host	'sale
+19.58	help, aid	'lagü̃t
+19.62	strife, quarrel	bo'roka
+19.62	strife, quarrel	gü'düka
+19.62	strife, quarrel	bil'haška
+19.62	strife, quarrel	ã'hãra
+19.72	prostitute	ur'daɲa
+20.11	fight (vb)	bo'roka
+20.11	fight (vb)	bil'haṣka
+20.41	victory	ira'baste
+20.42	defeat	'galc̷e
+20.45	retreat	ĩ'heṣžun
+20.471	guard, sentinel	begi'ari
+20.51	fisherman	arã'c̷ale
+20.61	hunt	ĩhis'teka
+20.62	shoot	ka
+20.64	trap (noun)	še'dera
+20.65	trap (vb)	ana'c̷aman
+21.17	judgment	tü
+21.21	plaintiff	'sale
+21.22	defendant	tü
+21.23	witness	ža'kile
+21.24	swear	sin'egin
+21.25	oath	sin
+21.31	accuse	'ṣalha
+21.34	acquit	'šuri
+21.35	guilty	ogɛ̃'dãt
+21.36	innocent	'ogen'gabe
+21.39	prison, jail	'tegi
+21.42	murder	e'haite
+21.44	rape	c̷e
+21.46	arson	ṣü'haka
+21.47	perjury	sin
+21.51	steal	'ebac̷̣
+21.52	thief	e'baṣle
+21.52	thief	u'huɲ

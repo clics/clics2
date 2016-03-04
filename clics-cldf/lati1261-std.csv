@@ -1,0 +1,781 @@
+ID,Language_ID,Feature_ID,IDS_Key,Value,Concept,IPA_UDECODE
+clics-doculect-2-1,lati1261-std,concepticon-1228,1.212,humus,"earth=ground, soil",humus
+clics-doculect-2-2,lati1261-std,concepticon-2,1.213,pulvis,dust,pulvis
+clics-doculect-2-3,lati1261-std,concepticon-640,1.214,lutum,mud,lutum
+clics-doculect-2-4,lati1261-std,concepticon-652,1.23,planum,"plain, field",planum
+clics-doculect-2-5,lati1261-std,concepticon-921,1.24,vallis,valley,vallis
+clics-doculect-2-6,lati1261-std,concepticon-1155,1.28,antrum,cave,antrum
+clics-doculect-2-7,lati1261-std,concepticon-1155,1.28,spelunca,cave,spelunca
+clics-doculect-2-8,lati1261-std,concepticon-258,1.322,lenire,calm (of sea),lenire
+clics-doculect-2-9,lati1261-std,concepticon-258,1.322,sedare,calm (of sea),sedare
+clics-doculect-2-10,lati1261-std,concepticon-258,1.322,quietus,calm (of sea),quietus
+clics-doculect-2-11,lati1261-std,concepticon-259,1.323,asper,rough (of sea),asper
+clics-doculect-2-12,lati1261-std,concepticon-663,1.34,Laurusnobilis,"gulf, bay",Laurusnobilis
+clics-doculect-2-13,lati1261-std,concepticon-623,1.341,aestuarium,lagoon,aestuarium
+clics-doculect-2-14,lati1261-std,concepticon-1982,1.362,gurges,whirlpool,gurges
+clics-doculect-2-15,lati1261-std,concepticon-420,1.41,silva,"woods, forest",silva
+clics-doculect-2-16,lati1261-std,concepticon-6,1.45,terraemotus,earthquake,terraemotus
+clics-doculect-2-17,lati1261-std,concepticon-1150,1.56,tonitrus,thunder,tonitrus
+clics-doculect-2-18,lati1261-std,concepticon-630,1.61,lux,light (noun),lux
+clics-doculect-2-19,lati1261-std,concepticon-11,1.62,obscuritas,darkness,obscuritas
+clics-doculect-2-20,lati1261-std,concepticon-1388,1.63,umbra,"shade, shadow",umbra
+clics-doculect-2-21,lati1261-std,concepticon-1977,1.64,ros,dew,ros
+clics-doculect-2-22,lati1261-std,concepticon-889,1.82,flamma,flame (noun),flamma
+clics-doculect-2-23,lati1261-std,concepticon-646,1.84,cinis,ashes,cinis
+clics-doculect-2-24,lati1261-std,concepticon-646,1.84,fraxinus,ashes,fraxinus
+clics-doculect-2-25,lati1261-std,concepticon-67,1.841,carbonisignis,embers,carbonisignis
+clics-doculect-2-26,lati1261-std,concepticon-141,1.851,ardere,burn (vb trans),ardere
+clics-doculect-2-27,lati1261-std,concepticon-141,1.851,urere,burn (vb trans),urere
+clics-doculect-2-28,lati1261-std,concepticon-765,10.11,movere,move,movere
+clics-doculect-2-29,lati1261-std,concepticon-765,10.11,sedemmutare,move,sedemmutare
+clics-doculect-2-30,lati1261-std,concepticon-1588,10.12,verti,turn over,verti
+clics-doculect-2-31,lati1261-std,concepticon-1588,10.12,inorbemtorquere,turn over,inorbemtorquere
+clics-doculect-2-32,lati1261-std,concepticon-1588,10.12,torquere,turn over,torquere
+clics-doculect-2-33,lati1261-std,concepticon-827,10.15,evolvere,roll,evolvere
+clics-doculect-2-34,lati1261-std,concepticon-430,10.17,torquere,twist,torquere
+clics-doculect-2-35,lati1261-std,concepticon-568,10.21,insurgere,rise,insurgere
+clics-doculect-2-36,lati1261-std,concepticon-568,10.21,assurgere,rise,assurgere
+clics-doculect-2-37,lati1261-std,concepticon-1280,10.23,cadĕre,fall,cadere
+clics-doculect-2-38,lati1261-std,concepticon-2253,10.24,destillare,drip,destillare
+clics-doculect-2-39,lati1261-std,concepticon-1456,10.25,iactare,throw,iactare
+clics-doculect-2-40,lati1261-std,concepticon-1909,10.26,concutere,shake,concutere
+clics-doculect-2-41,lati1261-std,concepticon-1909,10.26,concutere,shake,concutere
+clics-doculect-2-42,lati1261-std,concepticon-2003,10.32,fluere,flow,fluere
+clics-doculect-2-43,lati1261-std,concepticon-1088,10.33,demergere,sink,demergere
+clics-doculect-2-44,lati1261-std,concepticon-1574,10.34,fluitare,float,fluitare
+clics-doculect-2-45,lati1261-std,concepticon-1439,10.35,natare,swim,natare
+clics-doculect-2-46,lati1261-std,concepticon-787,10.36,velificare,sail (vb),velificare
+clics-doculect-2-47,lati1261-std,concepticon-175,10.38,flare,blow,flare
+clics-doculect-2-48,lati1261-std,concepticon-66,10.412,geniculare,kneel,geniculare
+clics-doculect-2-49,lati1261-std,concepticon-1829,10.43,salire,"jump, leap",salire
+clics-doculect-2-50,lati1261-std,concepticon-1443,10.45,cedere,walk,cedere
+clics-doculect-2-51,lati1261-std,concepticon-366,10.451,claudicare,limp,claudicare
+clics-doculect-2-52,lati1261-std,concepticon-1519,10.46,currere,run,currere
+clics-doculect-2-53,lati1261-std,concepticon-1519,10.46,moveri,run,moveri
+clics-doculect-2-54,lati1261-std,concepticon-1519,10.46,currere,run,currere
+clics-doculect-2-55,lati1261-std,concepticon-695,10.47,ire,go,ire
+clics-doculect-2-56,lati1261-std,concepticon-705,10.471,ascendere,go up,ascendere
+clics-doculect-2-57,lati1261-std,concepticon-1102,10.472,scandere,climb,scandere
+clics-doculect-2-58,lati1261-std,concepticon-1107,10.474,exire,go out,exire
+clics-doculect-2-59,lati1261-std,concepticon-1446,10.48,venire,come,venire
+clics-doculect-2-60,lati1261-std,concepticon-1752,10.49,relinquere,"go away, depart",relinquere
+clics-doculect-2-61,lati1261-std,concepticon-1752,10.49,linquere,"go away, depart",linquere
+clics-doculect-2-62,lati1261-std,concepticon-485,10.491,excidere,disappear,excidere
+clics-doculect-2-63,lati1261-std,concepticon-485,10.491,eripere,disappear,eripere
+clics-doculect-2-64,lati1261-std,concepticon-956,10.51,fugere,flee,fugere
+clics-doculect-2-65,lati1261-std,concepticon-1085,10.52,sequi,follow,sequi
+clics-doculect-2-66,lati1261-std,concepticon-1387,10.55,pervenire,"reach, arrive",pervenire
+clics-doculect-2-67,lati1261-std,concepticon-1778,10.56,accedere,approach,accedere
+clics-doculect-2-68,lati1261-std,concepticon-1778,10.56,appellere,approach,appellere
+clics-doculect-2-69,lati1261-std,concepticon-1778,10.56,appropinquare,approach,appropinquare
+clics-doculect-2-70,lati1261-std,concepticon-749,10.57,intrare,enter,intrare
+clics-doculect-2-71,lati1261-std,concepticon-700,10.61,ferre,carry (bear),ferre
+clics-doculect-2-72,lati1261-std,concepticon-692,10.62,ferre,bring,ferre
+clics-doculect-2-73,lati1261-std,concepticon-1127,10.63,mittere,send,mittere
+clics-doculect-2-74,lati1261-std,concepticon-1127,10.63,libare,send,libare
+clics-doculect-2-75,lati1261-std,concepticon-367,10.66,equitare,ride,equitare
+clics-doculect-2-76,lati1261-std,concepticon-1452,10.67,pellere,"push, shove",pellere
+clics-doculect-2-77,lati1261-std,concepticon-667,10.71,via,road,via
+clics-doculect-2-78,lati1261-std,concepticon-1769,10.77,axis,axle,axis
+clics-doculect-2-79,lati1261-std,concepticon-14,10.78,iugum,yoke,iugum
+clics-doculect-2-80,lati1261-std,concepticon-1849,10.852,remigare,row (vb),remigare
+clics-doculect-2-81,lati1261-std,concepticon-184,10.87,malus,mast,malus
+clics-doculect-2-82,lati1261-std,concepticon-773,11.11,habere,have,habere
+clics-doculect-2-83,lati1261-std,concepticon-1749,11.13,capere,take,capere
+clics-doculect-2-84,lati1261-std,concepticon-2021,11.14,capessere,"seize, grasp",capessere
+clics-doculect-2-85,lati1261-std,concepticon-1448,11.15,tenere,hold,tenere
+clics-doculect-2-86,lati1261-std,concepticon-694,11.16,attingere,"get, obtain",attingere
+clics-doculect-2-87,lati1261-std,concepticon-1477,11.17,possidere,"keep, retain",possidere
+clics-doculect-2-88,lati1261-std,concepticon-1477,11.17,custodire,"keep, retain",custodire
+clics-doculect-2-89,lati1261-std,concepticon-738,11.18,res,thing,res
+clics-doculect-2-90,lati1261-std,concepticon-1447,11.21,dare,give,dare
+clics-doculect-2-91,lati1261-std,concepticon-1447,11.21,donare,give,donare
+clics-doculect-2-92,lati1261-std,concepticon-1447,11.21,praebere,give,praebere
+clics-doculect-2-93,lati1261-std,concepticon-85,11.22,reddere,give back,reddere
+clics-doculect-2-94,lati1261-std,concepticon-85,11.22,redire,give back,redire
+clics-doculect-2-95,lati1261-std,concepticon-681,11.27,destruere,destroy,destruere
+clics-doculect-2-96,lati1261-std,concepticon-44,11.28,dolere,"harm, injure, damage",dolere
+clics-doculect-2-97,lati1261-std,concepticon-44,11.28,ferire,"harm, injure, damage",ferire
+clics-doculect-2-98,lati1261-std,concepticon-719,11.32,invenire,find,invenire
+clics-doculect-2-99,lati1261-std,concepticon-1660,11.33,perdere,lose,perdere
+clics-doculect-2-100,lati1261-std,concepticon-1559,11.43,pecunia,money,pecunia
+clics-doculect-2-101,lati1261-std,concepticon-1674,11.52,miser,poor,miser
+clics-doculect-2-102,lati1261-std,concepticon-1934,11.53,mendicabulum,beggar,mendicabulum
+clics-doculect-2-103,lati1261-std,concepticon-1934,11.53,mendicus,beggar,mendicus
+clics-doculect-2-104,lati1261-std,concepticon-1774,11.54,illiberalis,"avaricious, stingy",illiberalis
+clics-doculect-2-105,lati1261-std,concepticon-1774,11.54,significare,"avaricious, stingy",significare
+clics-doculect-2-106,lati1261-std,concepticon-1774,11.54,avarus,"avaricious, stingy",avarus
+clics-doculect-2-107,lati1261-std,concepticon-1774,11.54,sordidus,"avaricious, stingy",sordidus
+clics-doculect-2-108,lati1261-std,concepticon-1823,11.62,mutuari,borrow,mutuari
+clics-doculect-2-109,lati1261-std,concepticon-718,11.65,solvere,pay (vb),solvere
+clics-doculect-2-110,lati1261-std,concepticon-873,11.69,vectigal,"tax, tribute",vectigal
+clics-doculect-2-111,lati1261-std,concepticon-873,11.69,tributum,"tax, tribute",tributum
+clics-doculect-2-112,lati1261-std,concepticon-733,11.79,merere,earn,merere
+clics-doculect-2-113,lati1261-std,concepticon-1869,11.81,emere,buy,emere
+clics-doculect-2-114,lati1261-std,concepticon-1571,11.82,vendere,sell,vendere
+clics-doculect-2-115,lati1261-std,concepticon-633,11.85,mercatus,market (place),mercatus
+clics-doculect-2-116,lati1261-std,concepticon-752,11.86,taberna,"store, shop",taberna
+clics-doculect-2-117,lati1261-std,concepticon-752,11.86,horreum,"store, shop",horreum
+clics-doculect-2-118,lati1261-std,concepticon-657,11.87,pretium,price,pretium
+clics-doculect-2-119,lati1261-std,concepticon-1426,11.88,carus,"dear (costly, expensive)",carus
+clics-doculect-2-120,lati1261-std,concepticon-1887,11.89,vilis,cheap,vilis
+clics-doculect-2-121,lati1261-std,concepticon-1098,11.92,pendere,weigh,pendere
+clics-doculect-2-122,lati1261-std,concepticon-723,12.11,locus,place,locus
+clics-doculect-2-123,lati1261-std,concepticon-998,12.12,ponere,put,ponere
+clics-doculect-2-124,lati1261-std,concepticon-998,12.12,ponere,put,ponere
+clics-doculect-2-125,lati1261-std,concepticon-1416,12.13,sedere,sit,sedere
+clics-doculect-2-126,lati1261-std,concepticon-215,12.14,recumbere,lie down,recumbere
+clics-doculect-2-127,lati1261-std,concepticon-1442,12.15,stare,stand,stare
+clics-doculect-2-128,lati1261-std,concepticon-987,12.16,manere,"remain, stay",manere
+clics-doculect-2-129,lati1261-std,concepticon-7,12.21,colligere,"collect, gather",colligere
+clics-doculect-2-130,lati1261-std,concepticon-371,12.212,carpere,pick up,carpere
+clics-doculect-2-131,lati1261-std,concepticon-1743,12.22,adicere,"join, unite",adicere
+clics-doculect-2-132,lati1261-std,concepticon-1743,12.22,adhaerescere,"join, unite",adhaerescere
+clics-doculect-2-133,lati1261-std,concepticon-1359,12.23,dividere,separate,dividere
+clics-doculect-2-134,lati1261-std,concepticon-1119,12.232,dividere,divide,dividere
+clics-doculect-2-135,lati1261-std,concepticon-1156,12.24,aperire,open,aperire
+clics-doculect-2-136,lati1261-std,concepticon-1046,12.25,claudere,"shut, close",claudere
+clics-doculect-2-137,lati1261-std,concepticon-1046,12.25,cludere,"shut, close",cludere
+clics-doculect-2-138,lati1261-std,concepticon-761,12.26,tegere,cover,tegere
+clics-doculect-2-139,lati1261-std,concepticon-1265,12.31,altus,high,altus
+clics-doculect-2-140,lati1261-std,concepticon-1265,12.31,altus,high,altus
+clics-doculect-2-141,lati1261-std,concepticon-721,12.32,humilis,low,humilis
+clics-doculect-2-142,lati1261-std,concepticon-372,12.352,acutus,pointed,acutus
+clics-doculect-2-143,lati1261-std,concepticon-682,12.36,latus,side,latus
+clics-doculect-2-144,lati1261-std,concepticon-1942,12.43,apud,near (adv),apud
+clics-doculect-2-145,lati1261-std,concepticon-1877,12.45,oriens,east,oriens
+clics-doculect-2-146,lati1261-std,concepticon-1817,12.46,Occidens,west,Occidens
+clics-doculect-2-147,lati1261-std,concepticon-1598,12.47,septentriones,north,septentriones
+clics-doculect-2-148,lati1261-std,concepticon-1595,12.48,Meridies,south,Meridies
+clics-doculect-2-149,lati1261-std,concepticon-479,12.53,crescere,grow,crescere
+clics-doculect-2-150,lati1261-std,concepticon-479,12.53,colere,grow,colere
+clics-doculect-2-151,lati1261-std,concepticon-479,12.53,accrescere,grow,accrescere
+clics-doculect-2-152,lati1261-std,concepticon-1506,12.54,metiri,measure,metiri
+clics-doculect-2-153,lati1261-std,concepticon-1202,12.55,latus,"large, big",latus
+clics-doculect-2-154,lati1261-std,concepticon-1202,12.55,crassus,"large, big",crassus
+clics-doculect-2-155,lati1261-std,concepticon-1202,12.55,magnus,"large, big",magnus
+clics-doculect-2-156,lati1261-std,concepticon-1246,12.56,paucus,"small, little",paucus
+clics-doculect-2-157,lati1261-std,concepticon-1246,12.56,parvus,"small, little",parvus
+clics-doculect-2-158,lati1261-std,concepticon-1203,12.57,longus,long,longus
+clics-doculect-2-159,lati1261-std,concepticon-711,12.58,alta,tall,alta
+clics-doculect-2-160,lati1261-std,concepticon-1645,12.59,brevis,short,brevis
+clics-doculect-2-161,lati1261-std,concepticon-1267,12.62,angustus,narrow,angustus
+clics-doculect-2-162,lati1261-std,concepticon-1244,12.63,crassus,thick (in dimension),crassus
+clics-doculect-2-163,lati1261-std,concepticon-2249,12.65,extenuare,thin (in dimension),extenuare
+clics-doculect-2-164,lati1261-std,concepticon-2249,12.65,macer,thin (in dimension),macer
+clics-doculect-2-165,lati1261-std,concepticon-1593,12.67,altus,deep,altus
+clics-doculect-2-166,lati1261-std,concepticon-193,12.68,humilis,shallow,humilis
+clics-doculect-2-167,lati1261-std,concepticon-1633,12.71,planus,flat,planus
+clics-doculect-2-168,lati1261-std,concepticon-1404,12.73,rectus,straight,rectus
+clics-doculect-2-169,lati1261-std,concepticon-297,12.74,distortus,crooked,distortus
+clics-doculect-2-170,lati1261-std,concepticon-1071,12.75,hamus,hook,hamus
+clics-doculect-2-171,lati1261-std,concepticon-1367,12.77,crux,cross,crux
+clics-doculect-2-172,lati1261-std,concepticon-1367,12.77,crux,cross,crux
+clics-doculect-2-173,lati1261-std,concepticon-1467,12.82,circulus,circle,circulus
+clics-doculect-2-174,lati1261-std,concepticon-1467,12.82,circus,circle,circus
+clics-doculect-2-175,lati1261-std,concepticon-1467,12.82,circulus,circle,circulus
+clics-doculect-2-176,lati1261-std,concepticon-1048,12.84,linea,line,linea
+clics-doculect-2-177,lati1261-std,concepticon-1667,12.85,foramen,hole,foramen
+clics-doculect-2-178,lati1261-std,concepticon-1264,12.93,mutare,change,mutare
+clics-doculect-2-179,lati1261-std,concepticon-1709,13.103,quindecim,fifteen,quindecim
+clics-doculect-2-180,lati1261-std,concepticon-1420,13.107,computare,count,computare
+clics-doculect-2-181,lati1261-std,concepticon-98,13.14,totus,"every, all",totus
+clics-doculect-2-182,lati1261-std,concepticon-1198,13.15,multi,"much, many",multi
+clics-doculect-2-183,lati1261-std,concepticon-1992,13.16,magis,more,magis
+clics-doculect-2-184,lati1261-std,concepticon-1881,13.18,satis,enough,satis
+clics-doculect-2-185,lati1261-std,concepticon-1881,13.18,sufficit,enough,sufficit
+clics-doculect-2-186,lati1261-std,concepticon-1241,13.181,ullus,some,ullus
+clics-doculect-2-187,lati1261-std,concepticon-1429,13.21,plenus,full,plenus
+clics-doculect-2-188,lati1261-std,concepticon-1624,13.22,vacuus,empty,vacuus
+clics-doculect-2-189,lati1261-std,concepticon-1624,13.22,exhaurire,empty,exhaurire
+clics-doculect-2-190,lati1261-std,concepticon-779,13.23,pars,"part, piece",pars
+clics-doculect-2-191,lati1261-std,concepticon-816,13.24,dimidia,half,dimidia
+clics-doculect-2-192,lati1261-std,concepticon-1580,13.33,solum,"alone, only",solum
+clics-doculect-2-193,lati1261-std,concepticon-1580,13.33,modo,"alone, only",modo
+clics-doculect-2-194,lati1261-std,concepticon-1580,13.33,solus,"alone, only",solus
+clics-doculect-2-195,lati1261-std,concepticon-728,13.34,primum,first,primum
+clics-doculect-2-196,lati1261-std,concepticon-728,13.34,primus,first,primus
+clics-doculect-2-197,lati1261-std,concepticon-728,13.34,primus,first,primus
+clics-doculect-2-198,lati1261-std,concepticon-1529,13.35,durare,last,durare
+clics-doculect-2-199,lati1261-std,concepticon-1529,13.35,ultimus,last,ultimus
+clics-doculect-2-200,lati1261-std,concepticon-1384,13.36,secundus,second,secundus
+clics-doculect-2-201,lati1261-std,concepticon-1888,13.37,par,pair,par
+clics-doculect-2-202,lati1261-std,concepticon-1546,13.38,bis,two times,bis
+clics-doculect-2-203,lati1261-std,concepticon-1859,13.42,tertius,third,tertius
+clics-doculect-2-204,lati1261-std,concepticon-892,14.11,tempus,time,tempus
+clics-doculect-2-205,lati1261-std,concepticon-892,14.11,tempus,time,tempus
+clics-doculect-2-206,lati1261-std,concepticon-1789,14.12,aetas,age,aetas
+clics-doculect-2-207,lati1261-std,concepticon-1231,14.13,novus,new,novus
+clics-doculect-2-208,lati1261-std,concepticon-1207,14.14,iuvenis,young,iuvenis
+clics-doculect-2-209,lati1261-std,concepticon-1229,14.15,vetus,old,vetus
+clics-doculect-2-210,lati1261-std,concepticon-1229,14.15,vetus,old,vetus
+clics-doculect-2-211,lati1261-std,concepticon-672,14.16,mox,early,mox
+clics-doculect-2-212,lati1261-std,concepticon-477,14.17,sero,late,sero
+clics-doculect-2-213,lati1261-std,concepticon-1376,14.18,nunc,now,nunc
+clics-doculect-2-214,lati1261-std,concepticon-1963,14.19,protinus,immediately,protinus
+clics-doculect-2-215,lati1261-std,concepticon-1631,14.21,rapidus,"swift, fast, quick",rapidus
+clics-doculect-2-216,lati1261-std,concepticon-1631,14.21,celer,"swift, fast, quick",celer
+clics-doculect-2-217,lati1261-std,concepticon-1631,14.21,ieiunium,"swift, fast, quick",ieiunium
+clics-doculect-2-218,lati1261-std,concepticon-1631,14.21,alacer,"swift, fast, quick",alacer
+clics-doculect-2-219,lati1261-std,concepticon-701,14.22,lentus,slow,lentus
+clics-doculect-2-220,lati1261-std,concepticon-754,14.23,decidere,"hasten, hurry",decidere
+clics-doculect-2-221,lati1261-std,concepticon-754,14.23,properare,"hasten, hurry",properare
+clics-doculect-2-222,lati1261-std,concepticon-1806,14.25,incipere,"begin, beginning",incipere
+clics-doculect-2-223,lati1261-std,concepticon-1806,14.25,initiare,"begin, beginning",initiare
+clics-doculect-2-224,lati1261-std,concepticon-1806,14.25,incipere,"begin, beginning",incipere
+clics-doculect-2-225,lati1261-std,concepticon-1928,14.28,desinere,"cease, stop",desinere
+clics-doculect-2-226,lati1261-std,concepticon-790,14.29,promptus,ready,promptus
+clics-doculect-2-227,lati1261-std,concepticon-1676,14.31,semper,always,semper
+clics-doculect-2-228,lati1261-std,concepticon-1852,14.32,saepe,often,saepe
+clics-doculect-2-229,lati1261-std,concepticon-1544,14.33,aliquando,sometimes,aliquando
+clics-doculect-2-230,lati1261-std,concepticon-703,14.331,cito,soon,cito
+clics-doculect-2-231,lati1261-std,concepticon-1656,14.34,numquam,never,numquam
+clics-doculect-2-232,lati1261-std,concepticon-1656,14.34,nunquam,never,nunquam
+clics-doculect-2-233,lati1261-std,concepticon-204,14.35,denuo,again,denuo
+clics-doculect-2-234,lati1261-std,concepticon-729,14.43,aurora,dawn,aurora
+clics-doculect-2-235,lati1261-std,concepticon-12,14.45,meridies,"noon, midday",meridies
+clics-doculect-2-236,lati1261-std,concepticon-1283,14.47,hodie,today,hodie
+clics-doculect-2-237,lati1261-std,concepticon-1329,14.48,cras,tomorrow,cras
+clics-doculect-2-238,lati1261-std,concepticon-1174,14.49,heri,yesterday,heri
+clics-doculect-2-239,lati1261-std,concepticon-1353,14.51,hora,hour,hora
+clics-doculect-2-240,lati1261-std,concepticon-1323,14.53,horologium,"clock, timepiece",horologium
+clics-doculect-2-241,lati1261-std,concepticon-1469,14.61,hebdomas,week,hebdomas
+clics-doculect-2-242,lati1261-std,concepticon-1699,14.62,dominica,Sunday,dominica
+clics-doculect-2-243,lati1261-std,concepticon-1697,14.63,Lunaedies,Monday,Lunaedies
+clics-doculect-2-244,lati1261-std,concepticon-1695,14.64,Martisdies,Tuesday,Martisdies
+clics-doculect-2-245,lati1261-std,concepticon-1694,14.65,Mercuriidies,Wednesday,Mercuriidies
+clics-doculect-2-246,lati1261-std,concepticon-1693,14.66,Iovisdies,Thursday,Iovisdies
+clics-doculect-2-247,lati1261-std,concepticon-1692,14.67,Venerisdies,Friday,Venerisdies
+clics-doculect-2-248,lati1261-std,concepticon-1700,14.68,Saturnidies,Saturday,Saturnidies
+clics-doculect-2-249,lati1261-std,concepticon-691,14.78,hora,season,hora
+clics-doculect-2-250,lati1261-std,concepticon-42,15.26,putidus,"stinking, bad smelling",putidus
+clics-doculect-2-251,lati1261-std,concepticon-21,15.31,gustare,taste,gustare
+clics-doculect-2-252,lati1261-std,concepticon-21,15.31,degustare,taste,degustare
+clics-doculect-2-253,lati1261-std,concepticon-1091,15.36,salsus,salty,salsus
+clics-doculect-2-254,lati1261-std,concepticon-887,15.37,amarus,bitter,amarus
+clics-doculect-2-255,lati1261-std,concepticon-887,15.37,acerbus,bitter,acerbus
+clics-doculect-2-256,lati1261-std,concepticon-1408,15.41,audire,hear,audire
+clics-doculect-2-257,lati1261-std,concepticon-1811,15.44,sonus,"sound, noise",sonus
+clics-doculect-2-258,lati1261-std,concepticon-1314,15.46,securus,"quiet, silence",securus
+clics-doculect-2-259,lati1261-std,concepticon-1409,15.51,videre,see,videre
+clics-doculect-2-260,lati1261-std,concepticon-1819,15.52,aspicere,"look, look at",aspicere
+clics-doculect-2-261,lati1261-std,concepticon-1039,15.55,demonstrare,show,demonstrare
+clics-doculect-2-262,lati1261-std,concepticon-1039,15.55,demonstrare,show,demonstrare
+clics-doculect-2-263,lati1261-std,concepticon-1039,15.55,ostendere,show,ostendere
+clics-doculect-2-264,lati1261-std,concepticon-708,15.56,fulgere,shine,fulgere
+clics-doculect-2-265,lati1261-std,concepticon-679,15.57,fulgens,bright,fulgens
+clics-doculect-2-266,lati1261-std,concepticon-706,15.63,obscurus,dark (in color),obscurus
+clics-doculect-2-267,lati1261-std,concepticon-706,15.63,tenebrosus,dark (in color),tenebrosus
+clics-doculect-2-268,lati1261-std,concepticon-706,15.63,obscurus,dark (in color),obscurus
+clics-doculect-2-269,lati1261-std,concepticon-1892,15.71,tangere,touch,tangere
+clics-doculect-2-270,lati1261-std,concepticon-378,15.712,stringere,pinch,stringere
+clics-doculect-2-271,lati1261-std,concepticon-1079,15.72,sentire,feel,sentire
+clics-doculect-2-272,lati1261-std,concepticon-1884,15.74,acer,hard,acer
+clics-doculect-2-273,lati1261-std,concepticon-1856,15.75,mollis,soft,mollis
+clics-doculect-2-274,lati1261-std,concepticon-1234,15.77,levis,smooth,levis
+clics-doculect-2-275,lati1261-std,concepticon-1396,15.78,asperulus,sharp,asperulus
+clics-doculect-2-276,lati1261-std,concepticon-379,15.79,obtusus,"blunt, dull",obtusus
+clics-doculect-2-277,lati1261-std,concepticon-1726,15.83,madefacere,"wet, damp",madefacere
+clics-doculect-2-278,lati1261-std,concepticon-1398,15.84,abstergere,dry,abstergere
+clics-doculect-2-279,lati1261-std,concepticon-1398,15.84,siccus,dry,siccus
+clics-doculect-2-280,lati1261-std,concepticon-1286,15.85,calidus,hot,calidus
+clics-doculect-2-281,lati1261-std,concepticon-1232,15.851,fovere,warm,fovere
+clics-doculect-2-282,lati1261-std,concepticon-704,15.87,politus,clean,politus
+clics-doculect-2-283,lati1261-std,concepticon-704,15.87,purgare,clean,purgare
+clics-doculect-2-284,lati1261-std,concepticon-1230,15.88,perunctus,"dirty, soiled",perunctus
+clics-doculect-2-285,lati1261-std,concepticon-1230,15.88,sordidus,"dirty, soiled",sordidus
+clics-doculect-2-286,lati1261-std,concepticon-53,16.11,spiritus,"soul, spirit",spiritus
+clics-doculect-2-287,lati1261-std,concepticon-53,16.11,spiritus,"soul, spirit",spiritus
+clics-doculect-2-288,lati1261-std,concepticon-1495,16.23,contentus,"joyful, glad, happy",contentus
+clics-doculect-2-289,lati1261-std,concepticon-1495,16.23,felix,"joyful, glad, happy",felix
+clics-doculect-2-290,lati1261-std,concepticon-1355,16.25,ridere,laugh,ridere
+clics-doculect-2-291,lati1261-std,concepticon-1451,16.251,subridere,smile,subridere
+clics-doculect-2-292,lati1261-std,concepticon-1413,16.26,sonare,play,sonare
+clics-doculect-2-293,lati1261-std,concepticon-1413,16.26,ludere,play,ludere
+clics-doculect-2-294,lati1261-std,concepticon-1413,16.26,agere,play,agere
+clics-doculect-2-295,lati1261-std,concepticon-923,16.27,amare,love,amare
+clics-doculect-2-296,lati1261-std,concepticon-578,16.29,osculari,kiss,osculari
+clics-doculect-2-297,lati1261-std,concepticon-928,16.3,complector,embrace,complector
+clics-doculect-2-298,lati1261-std,concepticon-1783,16.31,dolor,pain,dolor
+clics-doculect-2-299,lati1261-std,concepticon-1668,16.32,angor,"grief, sorrow, sadness",angor
+clics-doculect-2-300,lati1261-std,concepticon-1000,16.33,anxietas,"anxiety, worry",anxietas
+clics-doculect-2-301,lati1261-std,concepticon-1839,16.37,flere,"cry, weep",flere
+clics-doculect-2-302,lati1261-std,concepticon-82,16.42,ira,anger,ira
+clics-doculect-2-303,lati1261-std,concepticon-82,16.42,ira,anger,ira
+clics-doculect-2-304,lati1261-std,concepticon-40,16.44,invidia,"envy, jealousy",invidia
+clics-doculect-2-305,lati1261-std,concepticon-1776,16.45,pudor,shame (noun),pudor
+clics-doculect-2-306,lati1261-std,concepticon-174,16.48,gloriosus,proud,gloriosus
+clics-doculect-2-307,lati1261-std,concepticon-1779,16.51,audere,dare,audere
+clics-doculect-2-308,lati1261-std,concepticon-3,16.52,fortis,brave,fortis
+clics-doculect-2-309,lati1261-std,concepticon-3,16.52,animosus,brave,animosus
+clics-doculect-2-310,lati1261-std,concepticon-781,16.53,metus,"fear, fright",metus
+clics-doculect-2-311,lati1261-std,concepticon-1810,16.54,periculum,danger,periculum
+clics-doculect-2-312,lati1261-std,concepticon-1784,16.62,volle,"desire, want",volle
+clics-doculect-2-313,lati1261-std,concepticon-1750,16.622,deligere,choose,deligere
+clics-doculect-2-314,lati1261-std,concepticon-1750,16.622,optare,choose,optare
+clics-doculect-2-315,lati1261-std,concepticon-1092,16.63,sperare,hope,sperare
+clics-doculect-2-316,lati1261-std,concepticon-100,16.65,fidus,faithful,fidus
+clics-doculect-2-317,lati1261-std,concepticon-1657,16.66,verus,true,verus
+clics-doculect-2-318,lati1261-std,concepticon-1657,16.66,verus,true,verus
+clics-doculect-2-319,lati1261-std,concepticon-601,16.67,iacere,"lie, tell lies",iacere
+clics-doculect-2-320,lati1261-std,concepticon-601,16.67,mentiri,"lie, tell lies",mentiri
+clics-doculect-2-321,lati1261-std,concepticon-13,16.68,error,deceit,error
+clics-doculect-2-322,lati1261-std,concepticon-13,16.68,falsitas,deceit,falsitas
+clics-doculect-2-323,lati1261-std,concepticon-1528,16.69,ignoscere,forgive,ignoscere
+clics-doculect-2-324,lati1261-std,concepticon-1292,16.72,malus,bad,malus
+clics-doculect-2-325,lati1261-std,concepticon-1292,16.72,malum,bad,malum
+clics-doculect-2-326,lati1261-std,concepticon-1293,16.77,error,"mistake, error",error
+clics-doculect-2-327,lati1261-std,concepticon-1427,16.81,pulcher,beautiful,pulcher
+clics-doculect-2-328,lati1261-std,concepticon-1427,16.81,pulcherrimus,beautiful,pulcherrimus
+clics-doculect-2-329,lati1261-std,concepticon-1548,16.82,turpis,ugly,turpis
+clics-doculect-2-330,lati1261-std,concepticon-2018,16.83,gulosus,greedy,gulosus
+clics-doculect-2-331,lati1261-std,concepticon-2018,16.83,edax,greedy,edax
+clics-doculect-2-332,lati1261-std,concepticon-1562,17.11,mens,mind,mens
+clics-doculect-2-333,lati1261-std,concepticon-1562,17.11,mens,mind,mens
+clics-doculect-2-334,lati1261-std,concepticon-1890,17.15,retinere,believe,retinere
+clics-doculect-2-335,lati1261-std,concepticon-1890,17.15,credere,believe,credere
+clics-doculect-2-336,lati1261-std,concepticon-1536,17.16,intellegere,understand,intellegere
+clics-doculect-2-337,lati1261-std,concepticon-1410,17.17,noscere,know,noscere
+clics-doculect-2-338,lati1261-std,concepticon-1410,17.17,scire,know,scire
+clics-doculect-2-339,lati1261-std,concepticon-1410,17.17,scire,know,scire
+clics-doculect-2-340,lati1261-std,concepticon-1932,17.171,imaginari,guess,imaginari
+clics-doculect-2-341,lati1261-std,concepticon-117,17.172,imitari,imitate,imitari
+clics-doculect-2-342,lati1261-std,concepticon-1521,17.18,videor,seem,videor
+clics-doculect-2-343,lati1261-std,concepticon-698,17.21,sapiens,wise,sapiens
+clics-doculect-2-344,lati1261-std,concepticon-1518,17.22,stolidus,"foolish, stupid",stolidus
+clics-doculect-2-345,lati1261-std,concepticon-504,17.24,discere,learn,discere
+clics-doculect-2-346,lati1261-std,concepticon-1929,17.242,studere,study,studere
+clics-doculect-2-347,lati1261-std,concepticon-709,17.25,docere,teach,docere
+clics-doculect-2-348,lati1261-std,concepticon-753,17.26,pupilla,pupil,pupilla
+clics-doculect-2-349,lati1261-std,concepticon-707,17.31,meminisse,remember,meminisse
+clics-doculect-2-350,lati1261-std,concepticon-707,17.31,memorare,remember,memorare
+clics-doculect-2-351,lati1261-std,concepticon-1523,17.32,oblivisci,forget,oblivisci
+clics-doculect-2-352,lati1261-std,concepticon-989,17.34,enucleatus,"clear, plain",enucleatus
+clics-doculect-2-353,lati1261-std,concepticon-989,17.34,expeditus,"clear, plain",expeditus
+clics-doculect-2-354,lati1261-std,concepticon-1764,17.35,ater,obscure,ater
+clics-doculect-2-355,lati1261-std,concepticon-1121,17.36,secretus,secret,secretus
+clics-doculect-2-356,lati1261-std,concepticon-1121,17.36,secretum,secret,secretum
+clics-doculect-2-357,lati1261-std,concepticon-509,17.37,certus,"sure, certain",certus
+clics-doculect-2-358,lati1261-std,concepticon-1626,17.38,explicare,explain,explicare
+clics-doculect-2-359,lati1261-std,concepticon-1162,17.41,intentio,"intention, purpose",intentio
+clics-doculect-2-360,lati1261-std,concepticon-860,17.42,causa,cause,causa
+clics-doculect-2-361,lati1261-std,concepticon-1308,17.43,dubium,doubt,dubium
+clics-doculect-2-362,lati1261-std,concepticon-1841,17.44,suspicari,suspect,suspicari
+clics-doculect-2-363,lati1261-std,concepticon-1902,17.441,prodere,betray,prodere
+clics-doculect-2-364,lati1261-std,concepticon-643,17.45,necessitas,"need, necessity",necessitas
+clics-doculect-2-365,lati1261-std,concepticon-643,17.45,necessitas,"need, necessity",necessitas
+clics-doculect-2-366,lati1261-std,concepticon-686,17.46,facilis,easy,facilis
+clics-doculect-2-367,lati1261-std,concepticon-584,17.47,difficilis,difficult,difficilis
+clics-doculect-2-368,lati1261-std,concepticon-1812,17.48,temptare,"try, attempt",temptare
+clics-doculect-2-369,lati1261-std,concepticon-1812,17.48,experiri,"try, attempt",experiri
+clics-doculect-2-370,lati1261-std,concepticon-488,17.49,iter,"way, manner",iter
+clics-doculect-2-371,lati1261-std,concepticon-488,17.49,modus,"way, manner",modus
+clics-doculect-2-372,lati1261-std,concepticon-488,17.49,via,"way, manner",via
+clics-doculect-2-373,lati1261-std,concepticon-1577,17.51,et,and,et
+clics-doculect-2-374,lati1261-std,concepticon-1157,17.52,quod,because,quod
+clics-doculect-2-375,lati1261-std,concepticon-1459,17.53,si,if,si
+clics-doculect-2-376,lati1261-std,concepticon-1014,17.54,aut,or,aut
+clics-doculect-2-377,lati1261-std,concepticon-1239,17.61,tamquam,how?,tamquam
+clics-doculect-2-378,lati1261-std,concepticon-1236,17.64,quid?,what?,quid?
+clics-doculect-2-379,lati1261-std,concepticon-1238,17.65,quando,when?,quando
+clics-doculect-2-380,lati1261-std,concepticon-1237,17.66,ubi,where?,ubi
+clics-doculect-2-381,lati1261-std,concepticon-1235,17.68,qui,who?,qui
+clics-doculect-2-382,lati1261-std,concepticon-1270,17.69,cur,why?,cur
+clics-doculect-2-383,lati1261-std,concepticon-1363,18.11,vox,voice,vox
+clics-doculect-2-384,lati1261-std,concepticon-1261,18.12,canere,sing,canere
+clics-doculect-2-385,lati1261-std,concepticon-715,18.13,latrare,"shout, cry out",latrare
+clics-doculect-2-386,lati1261-std,concepticon-55,18.15,sussurare,whisper,sussurare
+clics-doculect-2-387,lati1261-std,concepticon-526,18.19,ululare,howl,ululare
+clics-doculect-2-388,lati1261-std,concepticon-1623,18.21,loqui,"speak, talk",loqui
+clics-doculect-2-389,lati1261-std,concepticon-1866,18.211,balbutire,"stutter, stammer",balbutire
+clics-doculect-2-390,lati1261-std,concepticon-1866,18.211,balbutire,"stutter, stammer",balbutire
+clics-doculect-2-391,lati1261-std,concepticon-1458,18.22,dicere,say,dicere
+clics-doculect-2-392,lati1261-std,concepticon-1711,18.221,narrare,tell story,narrare
+clics-doculect-2-393,lati1261-std,concepticon-1115,18.222,oratio,speech (make a),oratio
+clics-doculect-2-394,lati1261-std,concepticon-48,18.23,tacere,silent (be),tacere
+clics-doculect-2-395,lati1261-std,concepticon-1307,18.24,lingua,language,lingua
+clics-doculect-2-396,lati1261-std,concepticon-1599,18.26,verbum,word,verbum
+clics-doculect-2-397,lati1261-std,concepticon-1405,18.28,nomen,name,nomen
+clics-doculect-2-398,lati1261-std,concepticon-1309,18.31,poscere,"ask (question, inquire)",poscere
+clics-doculect-2-399,lati1261-std,concepticon-1309,18.31,quaerere,"ask (question, inquire)",quaerere
+clics-doculect-2-400,lati1261-std,concepticon-1275,18.32,respondere,answer,respondere
+clics-doculect-2-401,lati1261-std,concepticon-2022,18.33,admittere,"admit, confess",admittere
+clics-doculect-2-402,lati1261-std,concepticon-755,18.34,negare,deny,negare
+clics-doculect-2-403,lati1261-std,concepticon-1675,18.36,promittere,promise,promittere
+clics-doculect-2-404,lati1261-std,concepticon-1084,18.41,vocare,call (=summon),vocare
+clics-doculect-2-405,lati1261-std,concepticon-1084,18.41,vocare,call (=summon),vocare
+clics-doculect-2-406,lati1261-std,concepticon-1084,18.41,vocare,call (=summon),vocare
+clics-doculect-2-407,lati1261-std,concepticon-9,18.43,nuntiare,announce,nuntiare
+clics-doculect-2-408,lati1261-std,concepticon-101,18.45,iactare,boast,iactare
+clics-doculect-2-409,lati1261-std,concepticon-1391,19.15,urbs,"city, town",urbs
+clics-doculect-2-410,lati1261-std,concepticon-930,19.16,pagus,village,pagus
+clics-doculect-2-411,lati1261-std,concepticon-789,19.21,homines,people (populace),homines
+clics-doculect-2-412,lati1261-std,concepticon-789,19.21,homines,people (populace),homines
+clics-doculect-2-413,lati1261-std,concepticon-789,19.21,populus,people (populace),populus
+clics-doculect-2-414,lati1261-std,concepticon-1846,19.31,gubernare,"rule, govern",gubernare
+clics-doculect-2-415,lati1261-std,concepticon-482,19.36,ingenuus,"noble, nobleman",ingenuus
+clics-doculect-2-416,lati1261-std,concepticon-1032,19.37,civis,"citizen, subject",civis
+clics-doculect-2-417,lati1261-std,concepticon-383,19.41,magister,master,magister
+clics-doculect-2-418,lati1261-std,concepticon-812,19.42,servus,slave,servus
+clics-doculect-2-419,lati1261-std,concepticon-1128,19.45,imperare,"command, order",imperare
+clics-doculect-2-420,lati1261-std,concepticon-1635,19.46,oboedire,obey,oboedire
+clics-doculect-2-421,lati1261-std,concepticon-1358,19.52,inimicus,enemy,inimicus
+clics-doculect-2-422,lati1261-std,concepticon-1332,19.54,vicinus,neighbor,vicinus
+clics-doculect-2-423,lati1261-std,concepticon-791,19.55,extraneus,stranger,extraneus
+clics-doculect-2-424,lati1261-std,concepticon-1782,19.56,hospes,guest,hospes
+clics-doculect-2-425,lati1261-std,concepticon-1545,19.57,hostia,host,hostia
+clics-doculect-2-426,lati1261-std,concepticon-1545,19.57,hospes,host,hospes
+clics-doculect-2-427,lati1261-std,concepticon-1545,19.57,hospes,host,hospes
+clics-doculect-2-428,lati1261-std,concepticon-1897,19.58,adiuvare,"help, aid",adiuvare
+clics-doculect-2-429,lati1261-std,concepticon-1550,19.59,impedire,"hinder, prevent",impedire
+clics-doculect-2-430,lati1261-std,concepticon-1747,19.61,usus,custom,usus
+clics-doculect-2-431,lati1261-std,concepticon-1747,19.61,mos,custom,mos
+clics-doculect-2-432,lati1261-std,concepticon-1747,19.61,consuetudo,custom,consuetudo
+clics-doculect-2-433,lati1261-std,concepticon-1848,19.62,altercatio,"strife, quarrel",altercatio
+clics-doculect-2-434,lati1261-std,concepticon-1848,19.62,iurgium,"strife, quarrel",iurgium
+clics-doculect-2-435,lati1261-std,concepticon-2024,19.63,textum,"conspiracy, plot",textum
+clics-doculect-2-436,lati1261-std,concepticon-2024,19.63,agellus,"conspiracy, plot",agellus
+clics-doculect-2-437,lati1261-std,concepticon-1831,19.65,obire,meet,obire
+clics-doculect-2-438,lati1261-std,concepticon-1610,19.72,meretrix,prostitute,meretrix
+clics-doculect-2-439,lati1261-std,concepticon-683,2.1,homo,"person, human being",homo
+clics-doculect-2-440,lati1261-std,concepticon-1553,2.23,masculus,male,masculus
+clics-doculect-2-441,lati1261-std,concepticon-1551,2.24,femina,female,femina
+clics-doculect-2-442,lati1261-std,concepticon-1646,2.26,puella,girl,puella
+clics-doculect-2-443,lati1261-std,concepticon-1289,2.28,infans,"infant, baby",infans
+clics-doculect-2-444,lati1261-std,concepticon-1200,2.31,maritus,husband,maritus
+clics-doculect-2-445,lati1261-std,concepticon-1199,2.32,uxor,wife,uxor
+clics-doculect-2-446,lati1261-std,concepticon-203,2.33,uxoremducere,marry,uxoremducere
+clics-doculect-2-447,lati1261-std,concepticon-1259,2.34,matrimonium,"marriage, wedding",matrimonium
+clics-doculect-2-448,lati1261-std,concepticon-1134,2.341,divortium,divorce,divortium
+clics-doculect-2-449,lati1261-std,concepticon-505,2.37,parens,parents,parens
+clics-doculect-2-450,lati1261-std,concepticon-1620,2.41,filius,son,filius
+clics-doculect-2-451,lati1261-std,concepticon-1357,2.42,filia,daughter,filia
+clics-doculect-2-452,lati1261-std,concepticon-1496,2.47,avia,grandmother,avia
+clics-doculect-2-453,lati1261-std,concepticon-1272,2.52,amita,aunt,amita
+clics-doculect-2-454,lati1261-std,concepticon-1063,2.53,nepos,nephew,nepos
+clics-doculect-2-455,lati1261-std,concepticon-1642,2.54,neptis,niece,neptis
+clics-doculect-2-456,lati1261-std,concepticon-1669,2.56,avus,ancestors,avus
+clics-doculect-2-457,lati1261-std,concepticon-2255,2.61,socer,father-in-law (of a man),socer
+clics-doculect-2-458,lati1261-std,concepticon-2256,2.62,socra,mother-in-law (of a man),socra
+clics-doculect-2-459,lati1261-std,concepticon-2267,2.63,gener,son-in-law (of a man),gener
+clics-doculect-2-460,lati1261-std,concepticon-2265,2.64,nurus,daughter-in-law (of a man),nurus
+clics-doculect-2-461,lati1261-std,concepticon-237,2.71,vitricus,stepfather,vitricus
+clics-doculect-2-462,lati1261-std,concepticon-236,2.72,noverca,stepmother,noverca
+clics-doculect-2-463,lati1261-std,concepticon-1059,2.73,filiaster,stepson,filiaster
+clics-doculect-2-464,lati1261-std,concepticon-1981,2.77,viduus,widower,viduus
+clics-doculect-2-465,lati1261-std,concepticon-1209,2.91,i,I,i
+clics-doculect-2-466,lati1261-std,concepticon-1209,2.91,ego,I,ego
+clics-doculect-2-467,lati1261-std,concepticon-1215,2.92,vos,you (singular),vos
+clics-doculect-2-468,lati1261-std,concepticon-1215,2.92,tu,you (singular),tu
+clics-doculect-2-469,lati1261-std,concepticon-1215,2.92,te,you (singular),te
+clics-doculect-2-470,lati1261-std,concepticon-1215,2.92,tu,you (singular),tu
+clics-doculect-2-471,lati1261-std,concepticon-1212,2.94,nos,we,nos
+clics-doculect-2-472,lati1261-std,concepticon-817,2.96,ii,they,ii
+clics-doculect-2-473,lati1261-std,concepticon-817,2.96,ii,they,ii
+clics-doculect-2-474,lati1261-std,concepticon-1423,20.11,pugnare,fight (vb),pugnare
+clics-doculect-2-475,lati1261-std,concepticon-1423,20.11,luctari,fight (vb),luctari
+clics-doculect-2-476,lati1261-std,concepticon-579,20.13,pugna,"war, battle",pugna
+clics-doculect-2-477,lati1261-std,concepticon-1941,20.17,miles,soldier,miles
+clics-doculect-2-478,lati1261-std,concepticon-1763,20.22,clava,club,clava
+clics-doculect-2-479,lati1261-std,concepticon-1763,20.22,circulus,club,circulus
+clics-doculect-2-480,lati1261-std,concepticon-1763,20.22,ferula,club,ferula
+clics-doculect-2-481,lati1261-std,concepticon-387,20.23,funda,sling,funda
+clics-doculect-2-482,lati1261-std,concepticon-1061,20.31,arma,armor (defensive),arma
+clics-doculect-2-483,lati1261-std,concepticon-1680,20.33,cassis,helmet,cassis
+clics-doculect-2-484,lati1261-std,concepticon-1064,20.34,scutum,shield,scutum
+clics-doculect-2-485,lati1261-std,concepticon-1938,20.35,oppidum,fortress,oppidum
+clics-doculect-2-486,lati1261-std,concepticon-782,20.42,clades,defeat,clades
+clics-doculect-2-487,lati1261-std,concepticon-722,20.43,petitio,attack,petitio
+clics-doculect-2-488,lati1261-std,concepticon-1330,20.44,defendere,defend,defendere
+clics-doculect-2-489,lati1261-std,concepticon-1696,20.46,deditionemfacere,surrender,deditionemfacere
+clics-doculect-2-490,lati1261-std,concepticon-1072,20.47,captivus,"captive, prisoner",captivus
+clics-doculect-2-491,lati1261-std,concepticon-1022,20.48,praeda,"booty, spoils",praeda
+clics-doculect-2-492,lati1261-std,concepticon-65,20.49,insidiae,ambush,insidiae
+clics-doculect-2-493,lati1261-std,concepticon-19,20.53,linum,fishing line,linum
+clics-doculect-2-494,lati1261-std,concepticon-2013,20.56,esca,bait,esca
+clics-doculect-2-495,lati1261-std,concepticon-1435,20.61,indagare,hunt,indagare
+clics-doculect-2-496,lati1261-std,concepticon-1435,20.61,venatio,hunt,venatio
+clics-doculect-2-497,lati1261-std,concepticon-1172,20.62,vertere,shoot,vertere
+clics-doculect-2-498,lati1261-std,concepticon-161,20.63,doloremabsentiaepati,miss (target),doloremabsentiaepati
+clics-doculect-2-499,lati1261-std,concepticon-1062,21.11,lex,law,lex
+clics-doculect-2-500,lati1261-std,concepticon-1062,21.11,lex,law,lex
+clics-doculect-2-501,lati1261-std,concepticon-1067,21.17,sententia,judgment,sententia
+clics-doculect-2-502,lati1261-std,concepticon-1144,21.23,testis,witness,testis
+clics-doculect-2-503,lati1261-std,concepticon-1939,21.24,exsecrari,swear,exsecrari
+clics-doculect-2-504,lati1261-std,concepticon-1712,21.25,juramentum,oath,juramentum
+clics-doculect-2-505,lati1261-std,concepticon-1814,21.31,accusare,accuse,accusare
+clics-doculect-2-506,lati1261-std,concepticon-484,21.32,damnare,condemn,damnare
+clics-doculect-2-507,lati1261-std,concepticon-988,21.34,absolvere,acquit,absolvere
+clics-doculect-2-508,lati1261-std,concepticon-1682,21.35,culpabilis,guilty,culpabilis
+clics-doculect-2-509,lati1261-std,concepticon-90,21.36,innocens,innocent,innocens
+clics-doculect-2-510,lati1261-std,concepticon-218,21.38,multa,fine,multa
+clics-doculect-2-511,lati1261-std,concepticon-1281,21.39,carcer,"prison, jail",carcer
+clics-doculect-2-512,lati1261-std,concepticon-845,21.42,homicidium,murder,homicidium
+clics-doculect-2-513,lati1261-std,concepticon-902,21.43,adulterium,adultery,adulterium
+clics-doculect-2-514,lati1261-std,concepticon-953,21.44,stuprum,rape,stuprum
+clics-doculect-2-515,lati1261-std,concepticon-851,3.19,equile,"stable, stall",equile
+clics-doculect-2-516,lati1261-std,concepticon-851,3.19,stabulum,"stable, stall",stabulum
+clics-doculect-2-517,lati1261-std,concepticon-1153,3.2,boves,cattle (bovine),boves
+clics-doculect-2-518,lati1261-std,concepticon-1169,3.22,bos,ox,bos
+clics-doculect-2-519,lati1261-std,concepticon-1989,3.24,vitulus,calf,vitulus
+clics-doculect-2-520,lati1261-std,concepticon-1989,3.24,sura,calf,sura
+clics-doculect-2-521,lati1261-std,concepticon-1344,3.26,aries,ram,aries
+clics-doculect-2-522,lati1261-std,concepticon-1348,3.32,verres,boar,verres
+clics-doculect-2-523,lati1261-std,concepticon-1351,3.34,porca,sow,porca
+clics-doculect-2-524,lati1261-std,concepticon-264,3.37,hircus,he-goat,hircus
+clics-doculect-2-525,lati1261-std,concepticon-1972,3.38,haedus,kid,haedus
+clics-doculect-2-526,lati1261-std,concepticon-1972,3.38,puerulus,kid,puerulus
+clics-doculect-2-527,lati1261-std,concepticon-938,3.44,equa,mare,equa
+clics-doculect-2-528,lati1261-std,concepticon-1647,3.45,eculus,"foal, colt",eculus
+clics-doculect-2-529,lati1261-std,concepticon-890,3.47,mulus,mule,mulus
+clics-doculect-2-530,lati1261-std,concepticon-1514,3.54,gallina,hen,gallina
+clics-doculect-2-531,lati1261-std,concepticon-1187,3.56,anser,goose,anser
+clics-doculect-2-532,lati1261-std,concepticon-1185,3.586,vulturius,vulture,vulturius
+clics-doculect-2-533,lati1261-std,concepticon-735,3.596,strix,owl,strix
+clics-doculect-2-534,lati1261-std,concepticon-2139,3.63,musrattus,"mouse, rat",musrattus
+clics-doculect-2-535,lati1261-std,concepticon-2139,3.63,musculus,"mouse, rat",musculus
+clics-doculect-2-536,lati1261-std,concepticon-2139,3.63,mus,"mouse, rat",mus
+clics-doculect-2-537,lati1261-std,concepticon-1916,3.654,branchia,gill,branchia
+clics-doculect-2-538,lati1261-std,concepticon-598,3.655,cortex,shell,cortex
+clics-doculect-2-539,lati1261-std,concepticon-598,3.655,concha,shell,concha
+clics-doculect-2-540,lati1261-std,concepticon-1479,3.662,phocoena,"porpoise, dolphin",phocoena
+clics-doculect-2-541,lati1261-std,concepticon-1013,3.665,Anguillaanguilla,freshwater eel,Anguillaanguilla
+clics-doculect-2-542,lati1261-std,concepticon-620,3.81,insecta,insect,insecta
+clics-doculect-2-543,lati1261-std,concepticon-1392,3.811,pediculus,louse,pediculus
+clics-doculect-2-544,lati1261-std,concepticon-267,3.812,lens,nit (louse egg),lens
+clics-doculect-2-545,lati1261-std,concepticon-232,3.813,Pulexirritans,flea,Pulexirritans
+clics-doculect-2-546,lati1261-std,concepticon-1974,3.814,chilopodum,centipede,chilopodum
+clics-doculect-2-547,lati1261-std,concepticon-1575,3.816,Blattaorientalis,cockroach,Blattaorientalis
+clics-doculect-2-548,lati1261-std,concepticon-1575,3.816,vermiculus,cockroach,vermiculus
+clics-doculect-2-549,lati1261-std,concepticon-1931,3.821,cera,beeswax,cera
+clics-doculect-2-550,lati1261-std,concepticon-1219,3.84,vermis,worm,vermis
+clics-doculect-2-551,lati1261-std,concepticon-1857,3.97,Alligatorsp,"crocodile, alligator",Alligatorsp
+clics-doculect-2-552,lati1261-std,concepticon-763,4.12,pellis,"skin, hide",pellis
+clics-doculect-2-553,lati1261-std,concepticon-763,4.12,membrana,"skin, hide",membrana
+clics-doculect-2-554,lati1261-std,concepticon-576,4.146,furfur,dandruff,furfur
+clics-doculect-2-555,lati1261-std,concepticon-946,4.15,sanguis,blood,sanguis
+clics-doculect-2-556,lati1261-std,concepticon-525,4.151,vena,"vein, artery",vena
+clics-doculect-2-557,lati1261-std,concepticon-525,4.151,Arteria,"vein, artery",Arteria
+clics-doculect-2-558,lati1261-std,concepticon-801,4.162,costa,rib,costa
+clics-doculect-2-559,lati1261-std,concepticon-1393,4.17,cornu,horn,cornu
+clics-doculect-2-560,lati1261-std,concepticon-1605,4.202,calva,skull,calva
+clics-doculect-2-561,lati1261-std,concepticon-1605,4.202,calva,skull,calva
+clics-doculect-2-562,lati1261-std,concepticon-1583,4.203,cerebrum,brain,cerebrum
+clics-doculect-2-563,lati1261-std,concepticon-17,4.213,palpebra,eyelid,palpebra
+clics-doculect-2-564,lati1261-std,concepticon-1540,4.214,cilia,eyelash,cilia
+clics-doculect-2-565,lati1261-std,concepticon-1655,4.215,micare,blink,micare
+clics-doculect-2-566,lati1261-std,concepticon-1655,4.215,micare,blink,micare
+clics-doculect-2-567,lati1261-std,concepticon-1178,4.231,naris,nostril,naris
+clics-doculect-2-568,lati1261-std,concepticon-208,4.232,mucus,mucus (nasal),mucus
+clics-doculect-2-569,lati1261-std,concepticon-674,4.24,os,mouth,os
+clics-doculect-2-570,lati1261-std,concepticon-73,4.241,rostrum,beak,rostrum
+clics-doculect-2-571,lati1261-std,concepticon-1347,4.281,cervix,nape of neck,cervix
+clics-doculect-2-572,lati1261-std,concepticon-1346,4.29,gula,throat,gula
+clics-doculect-2-573,lati1261-std,concepticon-1346,4.29,fauces,throat,fauces
+clics-doculect-2-574,lati1261-std,concepticon-1482,4.3,scapula,shoulder,scapula
+clics-doculect-2-575,lati1261-std,concepticon-1482,4.3,humerus,shoulder,humerus
+clics-doculect-2-576,lati1261-std,concepticon-1994,4.302,jugulum,collarbone,jugulum
+clics-doculect-2-577,lati1261-std,concepticon-1886,4.312,Fossaaxillaris,armpit,Fossaaxillaris
+clics-doculect-2-578,lati1261-std,concepticon-981,4.32,cubitum,elbow,cubitum
+clics-doculect-2-579,lati1261-std,concepticon-799,4.321,carpus,wrist,carpus
+clics-doculect-2-580,lati1261-std,concepticon-1183,4.331,palma,palm of hand,palma
+clics-doculect-2-581,lati1261-std,concepticon-72,4.345,ungula,claw,ungula
+clics-doculect-2-582,lati1261-std,concepticon-72,4.345,falcula,claw,falcula
+clics-doculect-2-583,lati1261-std,concepticon-1297,4.35,crus,leg,crus
+clics-doculect-2-584,lati1261-std,concepticon-800,4.351,coxa,thigh,coxa
+clics-doculect-2-585,lati1261-std,concepticon-980,4.372,talus,heel,talus
+clics-doculect-2-586,lati1261-std,concepticon-1389,4.38,digituspedis,toe,digituspedis
+clics-doculect-2-587,lati1261-std,concepticon-1201,4.393,penna,feather,penna
+clics-doculect-2-588,lati1261-std,concepticon-1402,4.41,pectus,breast (of woman),pectus
+clics-doculect-2-589,lati1261-std,concepticon-1402,4.41,mamma,breast (of woman),mamma
+clics-doculect-2-590,lati1261-std,concepticon-796,4.412,papilla,"nipple, teat",papilla
+clics-doculect-2-591,lati1261-std,concepticon-154,4.42,uber,udder,uber
+clics-doculect-2-592,lati1261-std,concepticon-688,4.441,pulmo,lung,pulmo
+clics-doculect-2-593,lati1261-std,concepticon-1224,4.45,iecur,liver,iecur
+clics-doculect-2-594,lati1261-std,concepticon-1744,4.452,splen,spleen,splen
+clics-doculect-2-595,lati1261-std,concepticon-1681,4.462,mediumcorporis,waist,mediumcorporis
+clics-doculect-2-596,lati1261-std,concepticon-1681,4.462,cinctus,waist,cinctus
+clics-doculect-2-597,lati1261-std,concepticon-1745,4.463,coxa,hip,coxa
+clics-doculect-2-598,lati1261-std,concepticon-834,4.464,culus,buttocks,culus
+clics-doculect-2-599,lati1261-std,concepticon-1222,4.492,penis,penis,penis
+clics-doculect-2-600,lati1261-std,concepticon-1407,4.51,respirare,"breathe, breath",respirare
+clics-doculect-2-601,lati1261-std,concepticon-1407,4.51,inhalare,"breathe, breath",inhalare
+clics-doculect-2-602,lati1261-std,concepticon-879,4.53,tussire,cough,tussire
+clics-doculect-2-603,lati1261-std,concepticon-126,4.55,sudare,perspire,sudare
+clics-doculect-2-604,lati1261-std,concepticon-1440,4.56,spuere,spit,spuere
+clics-doculect-2-605,lati1261-std,concepticon-1278,4.57,vomitare,vomit,vomitare
+clics-doculect-2-606,lati1261-std,concepticon-1403,4.58,mordere,bite,mordere
+clics-doculect-2-607,lati1261-std,concepticon-1403,4.58,hamumvorare,bite,hamumvorare
+clics-doculect-2-608,lati1261-std,concepticon-319,4.59,lambere,lick,lambere
+clics-doculect-2-609,lati1261-std,concepticon-1983,4.612,roncare,snore,roncare
+clics-doculect-2-610,lati1261-std,concepticon-1920,4.62,somniare,dream,somniare
+clics-doculect-2-611,lati1261-std,concepticon-1159,4.64,pedere,break wind,pedere
+clics-doculect-2-612,lati1261-std,concepticon-592,4.65,mingere,urinate,mingere
+clics-doculect-2-613,lati1261-std,concepticon-676,4.66,cacare,defecate,cacare
+clics-doculect-2-614,lati1261-std,concepticon-1785,4.67,futuere,have sexual intercourse,futuere
+clics-doculect-2-615,lati1261-std,concepticon-1785,4.67,amoremfacere,have sexual intercourse,amoremfacere
+clics-doculect-2-616,lati1261-std,concepticon-1090,4.72,nasci,born (to be),nasci
+clics-doculect-2-617,lati1261-std,concepticon-1123,4.73,praegnans,pregnant,praegnans
+clics-doculect-2-618,lati1261-std,concepticon-1494,4.75,mori,"die, dead",mori
+clics-doculect-2-619,lati1261-std,concepticon-767,4.77,cadaver,corpse,cadaver
+clics-doculect-2-620,lati1261-std,concepticon-1719,4.78,sepelire,bury (the dead),sepelire
+clics-doculect-2-621,lati1261-std,concepticon-1773,4.79,sepulcrum,"grave, tomb",sepulcrum
+clics-doculect-2-622,lati1261-std,concepticon-785,4.81,resistens,"strong, mighty, powerful",resistens
+clics-doculect-2-623,lati1261-std,concepticon-785,4.81,fortis,"strong, mighty, powerful",fortis
+clics-doculect-2-624,lati1261-std,concepticon-1601,4.82,debilis,weak,debilis
+clics-doculect-2-625,lati1261-std,concepticon-1601,4.82,gracilis,weak,gracilis
+clics-doculect-2-626,lati1261-std,concepticon-1364,4.83,salvus,"well, health",salvus
+clics-doculect-2-627,lati1261-std,concepticon-1847,4.84,causarius,"sick, sickness",causarius
+clics-doculect-2-628,lati1261-std,concepticon-1534,4.841,febris,fever,febris
+clics-doculect-2-629,lati1261-std,concepticon-1109,4.85,vulnus,"wound, sore",vulnus
+clics-doculect-2-630,lati1261-std,concepticon-1109,4.85,vulnus,"wound, sore",vulnus
+clics-doculect-2-631,lati1261-std,concepticon-1903,4.853,tuberculum,swelling,tuberculum
+clics-doculect-2-632,lati1261-std,concepticon-148,4.854,pruritus,itch,pruritus
+clics-doculect-2-633,lati1261-std,concepticon-793,4.856,furunculus,boil (noun),furunculus
+clics-doculect-2-634,lati1261-std,concepticon-1808,4.857,tabum,pus,tabum
+clics-doculect-2-635,lati1261-std,concepticon-497,4.858,cicatrix,scar,cicatrix
+clics-doculect-2-636,lati1261-std,concepticon-499,4.86,sanare,"cure, heal",sanare
+clics-doculect-2-637,lati1261-std,concepticon-1372,4.88,medicamen,"medicine, drug",medicamen
+clics-doculect-2-638,lati1261-std,concepticon-655,4.89,venenum,poison,venenum
+clics-doculect-2-639,lati1261-std,concepticon-1757,4.91,fessus,"tired, weary",fessus
+clics-doculect-2-640,lati1261-std,concepticon-1757,4.91,lassus,"tired, weary",lassus
+clics-doculect-2-641,lati1261-std,concepticon-168,4.912,requiescere,rest,requiescere
+clics-doculect-2-642,lati1261-std,concepticon-1564,4.92,piger,lazy,piger
+clics-doculect-2-643,lati1261-std,concepticon-1125,4.93,calvus,bald,calvus
+clics-doculect-2-644,lati1261-std,concepticon-320,4.94,claudus,lame,claudus
+clics-doculect-2-645,lati1261-std,concepticon-996,4.95,surdus,deaf,surdus
+clics-doculect-2-646,lati1261-std,concepticon-1653,4.97,caecare,blind,caecare
+clics-doculect-2-647,lati1261-std,concepticon-1653,4.97,oculosperstringere,blind,oculosperstringere
+clics-doculect-2-648,lati1261-std,concepticon-1653,4.97,caecus,blind,caecus
+clics-doculect-2-649,lati1261-std,concepticon-1463,4.98,ebrius,intoxicated,ebrius
+clics-doculect-2-650,lati1261-std,concepticon-1463,4.98,ebrius,intoxicated,ebrius
+clics-doculect-2-651,lati1261-std,concepticon-590,4.99,nudus,"naked, bare",nudus
+clics-doculect-2-652,lati1261-std,concepticon-256,5.12,alimentum,food,alimentum
+clics-doculect-2-653,lati1261-std,concepticon-269,5.121,coctilis,cooked,coctilis
+clics-doculect-2-654,lati1261-std,concepticon-1959,5.122,crudus,raw,crudus
+clics-doculect-2-655,lati1261-std,concepticon-1959,5.122,rudis,raw,rudis
+clics-doculect-2-656,lati1261-std,concepticon-178,5.123,maturus,ripe,maturus
+clics-doculect-2-657,lati1261-std,concepticon-1728,5.125,putridus,rotten,putridus
+clics-doculect-2-658,lati1261-std,concepticon-199,5.141,caritas,famine,caritas
+clics-doculect-2-659,lati1261-std,concepticon-129,5.19,angere,choke,angere
+clics-doculect-2-660,lati1261-std,concepticon-2146,5.23,frigere,"roast, fry",frigere
+clics-doculect-2-661,lati1261-std,concepticon-1530,5.33,ampulla,bowl,ampulla
+clics-doculect-2-662,lati1261-std,concepticon-1530,5.33,pilaligneavelaenea,bowl,pilaligneavelaenea
+clics-doculect-2-663,lati1261-std,concepticon-1526,5.41,pastus,meal (a),pastus
+clics-doculect-2-664,lati1261-std,concepticon-1322,5.42,ientaculum,breakfast,ientaculum
+clics-doculect-2-665,lati1261-std,concepticon-768,5.43,prandium,lunch,prandium
+clics-doculect-2-666,lati1261-std,concepticon-1833,5.44,cēna,dinner,cena
+clics-doculect-2-667,lati1261-std,concepticon-275,5.46,aliquidcorticenudare,peel,aliquidcorticenudare
+clics-doculect-2-668,lati1261-std,concepticon-2017,5.49,miscere,"stir, mix",miscere
+clics-doculect-2-669,lati1261-std,concepticon-274,5.54,condepsare,knead,condepsare
+clics-doculect-2-670,lati1261-std,concepticon-1033,5.56,molere,"crush, grind",molere
+clics-doculect-2-671,lati1261-std,concepticon-636,5.57,pistrinum,mill,pistrinum
+clics-doculect-2-672,lati1261-std,concepticon-224,5.58,mortarium,mortar,mortarium
+clics-doculect-2-673,lati1261-std,concepticon-224,5.58,intrita,mortar,intrita
+clics-doculect-2-674,lati1261-std,concepticon-1547,5.64,ius,"soup, broth",ius
+clics-doculect-2-675,lati1261-std,concepticon-1966,5.712,acervus,bunch,acervus
+clics-doculect-2-676,lati1261-std,concepticon-191,5.77,nux,nut,nux
+clics-doculect-2-677,lati1261-std,concepticon-1154,5.78,olea,olive,olea
+clics-doculect-2-678,lati1261-std,concepticon-323,5.791,adeps,"grease, fat",adeps
+clics-doculect-2-679,lati1261-std,concepticon-1524,5.92,vinum,wine,vinum
+clics-doculect-2-680,lati1261-std,concepticon-404,5.94,temetum,fermented drink,temetum
+clics-doculect-2-681,lati1261-std,concepticon-1556,5.971,vitellus,egg yolk,vitellus
+clics-doculect-2-682,lati1261-std,concepticon-158,6.11,calceare,put on (clothes),calceare
+clics-doculect-2-683,lati1261-std,concepticon-881,6.13,vestificus,tailor,vestificus
+clics-doculect-2-684,lati1261-std,concepticon-1616,6.21,materialis,cloth,materialis
+clics-doculect-2-685,lati1261-std,concepticon-964,6.22,lana,wool,lana
+clics-doculect-2-686,lati1261-std,concepticon-1850,6.24,Gossypiumsp,cotton,Gossypiumsp
+clics-doculect-2-687,lati1261-std,concepticon-1641,6.25,sericum,silk,sericum
+clics-doculect-2-688,lati1261-std,concepticon-580,6.28,pellis,fur,pellis
+clics-doculect-2-689,lati1261-std,concepticon-580,6.28,reno,fur,reno
+clics-doculect-2-690,lati1261-std,concepticon-629,6.29,corium,leather,corium
+clics-doculect-2-691,lati1261-std,concepticon-629,6.29,corium,leather,corium
+clics-doculect-2-692,lati1261-std,concepticon-121,6.31,nere,spin,nere
+clics-doculect-2-693,lati1261-std,concepticon-277,6.32,fusus,spindle,fusus
+clics-doculect-2-694,lati1261-std,concepticon-133,6.33,texere,weave,texere
+clics-doculect-2-695,lati1261-std,concepticon-1787,6.34,iugum,loom,iugum
+clics-doculect-2-696,lati1261-std,concepticon-1457,6.35,suere,sew,suere
+clics-doculect-2-697,lati1261-std,concepticon-157,6.39,tingere,dye,tingere
+clics-doculect-2-698,lati1261-std,concepticon-2012,6.45,collare,collar,collare
+clics-doculect-2-699,lati1261-std,concepticon-2012,6.45,collum,collar,collum
+clics-doculect-2-700,lati1261-std,concepticon-585,6.52,pero,boot,pero
+clics-doculect-2-701,lati1261-std,concepticon-1151,6.59,velum,veil,velum
+clics-doculect-2-702,lati1261-std,concepticon-1851,6.61,sinus,pocket,sinus
+clics-doculect-2-703,lati1261-std,concepticon-1029,6.72,gemma,jewel,gemma
+clics-doculect-2-704,lati1261-std,concepticon-1029,6.72,gemma,jewel,gemma
+clics-doculect-2-705,lati1261-std,concepticon-333,6.921,plecta,braid,plecta
+clics-doculect-2-706,lati1261-std,concepticon-363,7.11,vivere,"dwell, live",vivere
+clics-doculect-2-707,lati1261-std,concepticon-363,7.11,habitare,"dwell, live",habitare
+clics-doculect-2-708,lati1261-std,concepticon-1678,7.13,tugurium,hut,tugurium
+clics-doculect-2-709,lati1261-std,concepticon-1678,7.13,gurgustium,hut,gurgustium
+clics-doculect-2-710,lati1261-std,concepticon-1450,7.21,conclave,room,conclave
+clics-doculect-2-711,lati1261-std,concepticon-1044,7.421,pulvinus,pillow,pulvinus
+clics-doculect-2-712,lati1261-std,concepticon-2131,7.45,fax,"lamp, torch",fax
+clics-doculect-2-713,lati1261-std,concepticon-745,7.47,pluteus,shelf,pluteus
+clics-doculect-2-714,lati1261-std,concepticon-205,7.48,aquarium,trough,aquarium
+clics-doculect-2-715,lati1261-std,concepticon-1227,7.57,axis,board,axis
+clics-doculect-2-716,lati1261-std,concepticon-1227,7.57,mensa,board,mensa
+clics-doculect-2-717,lati1261-std,concepticon-877,7.61,fabercaementarius,mason,fabercaementarius
+clics-doculect-2-718,lati1261-std,concepticon-212,8.12,ager,field (for cultivation),ager
+clics-doculect-2-719,lati1261-std,concepticon-212,8.12,ambitus,field (for cultivation),ambitus
+clics-doculect-2-720,lati1261-std,concepticon-1541,8.15,colere,"cultivate, till",colere
+clics-doculect-2-721,lati1261-std,concepticon-2002,8.17,fossa,ditch,fossa
+clics-doculect-2-722,lati1261-std,concepticon-1921,8.21,arare,plow,arare
+clics-doculect-2-723,lati1261-std,concepticon-1794,8.212,sulcus,furrow,sulcus
+clics-doculect-2-724,lati1261-std,concepticon-337,8.26,furca,fork,furca
+clics-doculect-2-725,lati1261-std,concepticon-714,8.311,semen,seed,semen
+clics-doculect-2-726,lati1261-std,concepticon-2132,8.33,falx,"sickle, scythe",falx
+clics-doculect-2-727,lati1261-std,concepticon-285,8.34,terere,thresh,terere
+clics-doculect-2-728,lati1261-std,concepticon-223,8.35,area,threshing-floor,area
+clics-doculect-2-729,lati1261-std,concepticon-605,8.42,granum,"grain (barley, oats etc)",granum
+clics-doculect-2-730,lati1261-std,concepticon-1077,8.43,Triticumvulgaris,wheat,Triticumvulgaris
+clics-doculect-2-731,lati1261-std,concepticon-932,8.44,Hordeumvulgare,barley,Hordeumvulgare
+clics-doculect-2-732,lati1261-std,concepticon-23,8.45,Secalecereale,rye,Secalecereale
+clics-doculect-2-733,lati1261-std,concepticon-60,8.46,AvenasativaL,oats,AvenasativaL
+clics-doculect-2-734,lati1261-std,concepticon-653,8.53,planta,plant (noun),planta
+clics-doculect-2-735,lati1261-std,concepticon-1531,8.55,ramus,branch,ramus
+clics-doculect-2-736,lati1261-std,concepticon-1950,8.62,Fagussylvatica,beech,Fagussylvatica
+clics-doculect-2-737,lati1261-std,concepticon-1855,8.63,Betulapendula,birch,Betulapendula
+clics-doculect-2-738,lati1261-std,concepticon-343,8.67,Vitisvinifera,vine,Vitisvinifera
+clics-doculect-2-739,lati1261-std,concepticon-974,8.68,Nicotianatabacum,tobacco,Nicotianatabacum
+clics-doculect-2-740,lati1261-std,concepticon-1124,8.691,fumisugium,pipe,fumisugium
+clics-doculect-2-741,lati1261-std,concepticon-1204,8.75,cortex,bark,cortex
+clics-doculect-2-742,lati1261-std,concepticon-345,8.76,sucus,sap,sucus
+clics-doculect-2-743,lati1261-std,concepticon-1126,8.83,acrepomum,citrus fruit,acrepomum
+clics-doculect-2-744,lati1261-std,concepticon-1126,8.83,citrus,citrus fruit,citrus
+clics-doculect-2-745,lati1261-std,concepticon-159,8.91,Ipomoeabatatas,sweet potato,Ipomoeabatatas
+clics-doculect-2-746,lati1261-std,concepticon-410,8.912,ipomoeabatatas,yam,ipomoeabatatas
+clics-doculect-2-747,lati1261-std,concepticon-925,8.92,Manihotesculenta,"tapioca, manioc, cassava",Manihotesculenta
+clics-doculect-2-748,lati1261-std,concepticon-641,8.98,fungus,mushroom,fungus
+clics-doculect-2-749,lati1261-std,concepticon-2575,9.11,agere,"do, make",agere
+clics-doculect-2-750,lati1261-std,concepticon-984,9.12,opera,work,opera
+clics-doculect-2-751,lati1261-std,concepticon-984,9.12,opus,work,opus
+clics-doculect-2-752,lati1261-std,concepticon-2004,9.14,proclinare,bend,proclinare
+clics-doculect-2-753,lati1261-std,concepticon-1917,9.16,fasciare,"tie, bind",fasciare
+clics-doculect-2-754,lati1261-std,concepticon-352,9.161,enodare,untie,enodare
+clics-doculect-2-755,lati1261-std,concepticon-2133,9.21,percutere,"strike (hit, beat)",percutere
+clics-doculect-2-756,lati1261-std,concepticon-2133,9.21,plangere,"strike (hit, beat)",plangere
+clics-doculect-2-757,lati1261-std,concepticon-2133,9.21,icere,"strike (hit, beat)",icere
+clics-doculect-2-758,lati1261-std,concepticon-1449,9.31,terere,"rub, wipe",terere
+clics-doculect-2-759,lati1261-std,concepticon-214,9.32,tendere,stretch,tendere
+clics-doculect-2-760,lati1261-std,concepticon-1455,9.33,allicere,pull,allicere
+clics-doculect-2-761,lati1261-std,concepticon-357,9.341,suspendere,hang up,suspendere
+clics-doculect-2-762,lati1261-std,concepticon-1913,9.342,premere,press,premere
+clics-doculect-2-763,lati1261-std,concepticon-1453,9.36,lavare,wash,lavare
+clics-doculect-2-764,lati1261-std,concepticon-1453,9.36,lavare,wash,lavare
+clics-doculect-2-765,lati1261-std,concepticon-230,9.37,everrere,sweep,everrere
+clics-doculect-2-766,lati1261-std,concepticon-1042,9.43,faberlignarius,carpenter,faberlignarius
+clics-doculect-2-767,lati1261-std,concepticon-1840,9.44,struere,build,struere
+clics-doculect-2-768,lati1261-std,concepticon-1501,9.46,concitaretaedium,bore,concitaretaedium
+clics-doculect-2-769,lati1261-std,concepticon-1001,9.6,equariusmedicus,"smith, blacksmith",equariusmedicus
+clics-doculect-2-770,lati1261-std,concepticon-1001,9.6,faberferrarius,"smith, blacksmith",faberferrarius
+clics-doculect-2-771,lati1261-std,concepticon-1648,9.62,incus,anvil,incus
+clics-doculect-2-772,lati1261-std,concepticon-211,9.63,colare,cast (metals),colare
+clics-doculect-2-773,lati1261-std,concepticon-627,9.68,plumbum,lead (noun),plumbum
+clics-doculect-2-774,lati1261-std,concepticon-358,9.69,stannum,"tin, tinplate",stannum
+clics-doculect-2-775,lati1261-std,concepticon-358,9.69,arcastannea,"tin, tinplate",arcastannea
+clics-doculect-2-776,lati1261-std,concepticon-1399,9.73,lutum,clay,lutum
+clics-doculect-2-777,lati1261-std,concepticon-195,9.77,storea,mat,storea
+clics-doculect-2-778,lati1261-std,concepticon-228,9.81,exsculpere,carve,exsculpere
+clics-doculect-2-779,lati1261-std,concepticon-1979,9.84,scalprum,chisel,scalprum
+clics-doculect-2-780,lati1261-std,concepticon-647,9.88,pictura,paint (noun),pictura

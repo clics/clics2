@@ -1,0 +1,829 @@
+ID,Language_ID,Feature_ID,IDS_Key,Value,Concept,IPA_UDECODE
+clics-doculect-36-1,espe1235-std,concepticon-1228,1.212,tereno,"earth=ground, soil",tereno
+clics-doculect-36-2,espe1235-std,concepticon-2,1.213,polvo,dust,polvo
+clics-doculect-36-3,espe1235-std,concepticon-640,1.214,koto,mud,koto
+clics-doculect-36-4,espe1235-std,concepticon-618,1.222,krutajo,"cliff, precipice",krutajo
+clics-doculect-36-5,espe1235-std,concepticon-618,1.222,krutejo,"cliff, precipice",krutejo
+clics-doculect-36-6,espe1235-std,concepticon-921,1.24,vallando,valley,vallando
+clics-doculect-36-7,espe1235-std,concepticon-1155,1.28,antro,cave,antro
+clics-doculect-36-8,espe1235-std,concepticon-258,1.322,kvietigi,calm (of sea),kvietigi
+clics-doculect-36-9,espe1235-std,concepticon-258,1.322,kvietigi,calm (of sea),kvietigi
+clics-doculect-36-10,espe1235-std,concepticon-258,1.322,kalma,calm (of sea),kalma
+clics-doculect-36-11,espe1235-std,concepticon-258,1.322,kvieto,calm (of sea),kvieto
+clics-doculect-36-12,espe1235-std,concepticon-259,1.323,proksimuma,rough (of sea),proksimuma
+clics-doculect-36-13,espe1235-std,concepticon-663,1.34,lauro,"gulf, bay",lauro
+clics-doculect-36-14,espe1235-std,concepticon-663,1.34,moko,"gulf, bay",moko
+clics-doculect-36-15,espe1235-std,concepticon-623,1.341,laguno,lagoon,laguno
+clics-doculect-36-16,espe1235-std,concepticon-891,1.352,tajdo,tide,tajdo
+clics-doculect-36-17,espe1235-std,concepticon-613,1.354,altatajdo,hightide,altatajdo
+clics-doculect-36-18,espe1235-std,concepticon-1982,1.362,akvokirlo,whirlpool,akvokirlo
+clics-doculect-36-19,espe1235-std,concepticon-1982,1.362,vortico,whirlpool,vortico
+clics-doculect-36-20,espe1235-std,concepticon-1982,1.362,akvoturniĝo,whirlpool,akvoturnigo
+clics-doculect-36-21,espe1235-std,concepticon-420,1.41,arbaro,"woods, forest",arbaro
+clics-doculect-36-22,espe1235-std,concepticon-6,1.45,tertremo,earthquake,tertremo
+clics-doculect-36-23,espe1235-std,concepticon-1150,1.56,tondro,thunder,tondro
+clics-doculect-36-24,espe1235-std,concepticon-630,1.61,lumo,light (noun),lumo
+clics-doculect-36-25,espe1235-std,concepticon-11,1.62,malheleco,darkness,malheleco
+clics-doculect-36-26,espe1235-std,concepticon-1388,1.63,ombro,"shade, shadow",ombro
+clics-doculect-36-27,espe1235-std,concepticon-889,1.82,flamo,flame (noun),flamo
+clics-doculect-36-28,espe1235-std,concepticon-646,1.84,frakseno,ashes,frakseno
+clics-doculect-36-29,espe1235-std,concepticon-646,1.84,cindro,ashes,cindro
+clics-doculect-36-30,espe1235-std,concepticon-67,1.841,braĝo,embers,brago
+clics-doculect-36-31,espe1235-std,concepticon-141,1.851,bruligi,burn (vb trans),bruligi
+clics-doculect-36-32,espe1235-std,concepticon-1188,1.89,karbetaro,charcoal,karbetaro
+clics-doculect-36-33,espe1235-std,concepticon-765,10.11,transloĝiĝi,move,translogigi
+clics-doculect-36-34,espe1235-std,concepticon-765,10.11,movi,move,movi
+clics-doculect-36-35,espe1235-std,concepticon-1588,10.12,turni,turn over,turni
+clics-doculect-36-36,espe1235-std,concepticon-1588,10.12,turniĝi,turn over,turnigi
+clics-doculect-36-37,espe1235-std,concepticon-1588,10.12,turni,turn over,turni
+clics-doculect-36-38,espe1235-std,concepticon-430,10.17,ĉirkaŭvolvi,twist,cirkauvolvi
+clics-doculect-36-39,espe1235-std,concepticon-430,10.17,ĉirkaŭtordi,twist,cirkautordi
+clics-doculect-36-40,espe1235-std,concepticon-568,10.21,levigˆi,rise,levig^i
+clics-doculect-36-41,espe1235-std,concepticon-568,10.21,leviĝi,rise,levigi
+clics-doculect-36-42,espe1235-std,concepticon-1280,10.23,fali,fall,fali
+clics-doculect-36-43,espe1235-std,concepticon-2253,10.24,guteti,drip,guteti
+clics-doculect-36-44,espe1235-std,concepticon-1909,10.26,agiti,shake,agiti
+clics-doculect-36-45,espe1235-std,concepticon-1909,10.26,skui,shake,skui
+clics-doculect-36-46,espe1235-std,concepticon-1088,10.33,alfundigi,sink,alfundigi
+clics-doculect-36-47,espe1235-std,concepticon-1439,10.35,naĝi,swim,nagi
+clics-doculect-36-48,espe1235-std,concepticon-787,10.36,veli,sail (vb),veli
+clics-doculect-36-49,espe1235-std,concepticon-175,10.38,blovi,blow,blovi
+clics-doculect-36-50,espe1235-std,concepticon-66,10.412,surgenuigi,kneel,surgenuigi
+clics-doculect-36-51,espe1235-std,concepticon-296,10.413,kaŭriĝi,crouch,kaurigi
+clics-doculect-36-52,espe1235-std,concepticon-296,10.413,bobeniĝi,crouch,bobenigi
+clics-doculect-36-53,espe1235-std,concepticon-296,10.413,kunvolviĝi,crouch,kunvolvigi
+clics-doculect-36-54,espe1235-std,concepticon-296,10.413,kaŭriĝi,crouch,kaurigi
+clics-doculect-36-55,espe1235-std,concepticon-296,10.413,ekkaŭri,crouch,ekkauri
+clics-doculect-36-56,espe1235-std,concepticon-1829,10.43,salti,"jump, leap",salti
+clics-doculect-36-57,espe1235-std,concepticon-1135,10.431,stamfi,kick,stamfi
+clics-doculect-36-58,espe1235-std,concepticon-1443,10.45,paŝi,walk,pasi
+clics-doculect-36-59,espe1235-std,concepticon-1519,10.46,kuri,run,kuri
+clics-doculect-36-60,espe1235-std,concepticon-1519,10.46,funkcii,run,funkcii
+clics-doculect-36-61,espe1235-std,concepticon-695,10.47,iri,go,iri
+clics-doculect-36-62,espe1235-std,concepticon-1102,10.472,grimpi,climb,grimpi
+clics-doculect-36-63,espe1235-std,concepticon-1446,10.48,veni,come,veni
+clics-doculect-36-64,espe1235-std,concepticon-485,10.491,malaperi,disappear,malaperi
+clics-doculect-36-65,espe1235-std,concepticon-485,10.491,forviŝiĝi,disappear,forvisigi
+clics-doculect-36-66,espe1235-std,concepticon-956,10.51,fuĝi,flee,fugi
+clics-doculect-36-67,espe1235-std,concepticon-1085,10.52,sekvi,follow,sekvi
+clics-doculect-36-68,espe1235-std,concepticon-1387,10.55,atingi,"reach, arrive",atingi
+clics-doculect-36-69,espe1235-std,concepticon-1387,10.55,alveni,"reach, arrive",alveni
+clics-doculect-36-70,espe1235-std,concepticon-1778,10.56,proksimiĝi,approach,proksimigi
+clics-doculect-36-71,espe1235-std,concepticon-1778,10.56,proksimi,approach,proksimi
+clics-doculect-36-72,espe1235-std,concepticon-1778,10.56,proksimigi,approach,proksimigi
+clics-doculect-36-73,espe1235-std,concepticon-749,10.57,eniri,enter,eniri
+clics-doculect-36-74,espe1235-std,concepticon-692,10.62,alporti,bring,alporti
+clics-doculect-36-75,espe1235-std,concepticon-1127,10.63,eligi,send,eligi
+clics-doculect-36-76,espe1235-std,concepticon-1127,10.63,forsendi,send,forsendi
+clics-doculect-36-77,espe1235-std,concepticon-367,10.66,rajdi,ride,rajdi
+clics-doculect-36-78,espe1235-std,concepticon-1452,10.67,puŝi,"push, shove",pusi
+clics-doculect-36-79,espe1235-std,concepticon-1452,10.67,peli,"push, shove",peli
+clics-doculect-36-80,espe1235-std,concepticon-667,10.71,vojo,road,vojo
+clics-doculect-36-81,espe1235-std,concepticon-14,10.78,jugo,yoke,jugo
+clics-doculect-36-82,espe1235-std,concepticon-1970,10.831,kanuo,canoe,kanuo
+clics-doculect-36-83,espe1235-std,concepticon-1849,10.852,remi,row (vb),remi
+clics-doculect-36-84,espe1235-std,concepticon-184,10.87,arbo,mast,arbo
+clics-doculect-36-85,espe1235-std,concepticon-773,11.11,havi,have,havi
+clics-doculect-36-86,espe1235-std,concepticon-1749,11.13,preni,take,preni
+clics-doculect-36-87,espe1235-std,concepticon-2021,11.14,alkroĉi,"seize, grasp",alkroci
+clics-doculect-36-88,espe1235-std,concepticon-694,11.16,obteni,"get, obtain",obteni
+clics-doculect-36-89,espe1235-std,concepticon-1477,11.17,konservi,"keep, retain",konservi
+clics-doculect-36-90,espe1235-std,concepticon-1477,11.17,gardi,"keep, retain",gardi
+clics-doculect-36-91,espe1235-std,concepticon-738,11.18,aĵo,thing,ajo
+clics-doculect-36-92,espe1235-std,concepticon-1447,11.21,doni,give,doni
+clics-doculect-36-93,espe1235-std,concepticon-1447,11.21,donaci,give,donaci
+clics-doculect-36-94,espe1235-std,concepticon-1447,11.21,prezenti,give,prezenti
+clics-doculect-36-95,espe1235-std,concepticon-85,11.22,redoni,give back,redoni
+clics-doculect-36-96,espe1235-std,concepticon-85,11.22,reveni,give back,reveni
+clics-doculect-36-97,espe1235-std,concepticon-681,11.27,detrui,destroy,detrui
+clics-doculect-36-98,espe1235-std,concepticon-719,11.32,trovi,find,trovi
+clics-doculect-36-99,espe1235-std,concepticon-1660,11.33,perdi,lose,perdi
+clics-doculect-36-100,espe1235-std,concepticon-1559,11.43,mono,money,mono
+clics-doculect-36-101,espe1235-std,concepticon-1674,11.52,malriĉa,poor,malrica
+clics-doculect-36-102,espe1235-std,concepticon-1934,11.53,almozpetanto,beggar,almozpetanto
+clics-doculect-36-103,espe1235-std,concepticon-1934,11.53,almozulo,beggar,almozulo
+clics-doculect-36-104,espe1235-std,concepticon-1934,11.53,almozanto,beggar,almozanto
+clics-doculect-36-105,espe1235-std,concepticon-1774,11.54,mezvaloro,"avaricious, stingy",mezvaloro
+clics-doculect-36-106,espe1235-std,concepticon-1774,11.54,avara,"avaricious, stingy",avara
+clics-doculect-36-107,espe1235-std,concepticon-1774,11.54,avara,"avaricious, stingy",avara
+clics-doculect-36-108,espe1235-std,concepticon-1774,11.54,signifi,"avaricious, stingy",signifi
+clics-doculect-36-109,espe1235-std,concepticon-1774,11.54,povra,"avaricious, stingy",povra
+clics-doculect-36-110,espe1235-std,concepticon-1774,11.54,avara,"avaricious, stingy",avara
+clics-doculect-36-111,espe1235-std,concepticon-582,11.61,prunti,lend,prunti
+clics-doculect-36-112,espe1235-std,concepticon-1823,11.62,pruntepreni,borrow,pruntepreni
+clics-doculect-36-113,espe1235-std,concepticon-1914,11.64,ŝuldo,debt,suldo
+clics-doculect-36-114,espe1235-std,concepticon-718,11.65,pagi,pay (vb),pagi
+clics-doculect-36-115,espe1235-std,concepticon-1081,11.66,bankbileto,"account, reckoning",bankbileto
+clics-doculect-36-116,espe1235-std,concepticon-873,11.69,tributo,"tax, tribute",tributo
+clics-doculect-36-117,espe1235-std,concepticon-873,11.69,takso,"tax, tribute",takso
+clics-doculect-36-118,espe1235-std,concepticon-856,11.77,frajti,hire,frajti
+clics-doculect-36-119,espe1235-std,concepticon-733,11.79,gajni,earn,gajni
+clics-doculect-36-120,espe1235-std,concepticon-1869,11.81,aĉeti,buy,aceti
+clics-doculect-36-121,espe1235-std,concepticon-1571,11.82,vendi,sell,vendi
+clics-doculect-36-122,espe1235-std,concepticon-2135,11.83,interŝanĝi,"trade, barter",intersangi
+clics-doculect-36-123,espe1235-std,concepticon-633,11.85,merkato,market (place),merkato
+clics-doculect-36-124,espe1235-std,concepticon-752,11.86,butiko,"store, shop",butiko
+clics-doculect-36-125,espe1235-std,concepticon-752,11.86,vendejo,"store, shop",vendejo
+clics-doculect-36-126,espe1235-std,concepticon-752,11.86,magazeno,"store, shop",magazeno
+clics-doculect-36-127,espe1235-std,concepticon-657,11.87,kosto,price,kosto
+clics-doculect-36-128,espe1235-std,concepticon-1426,11.88,multekosta,"dear (costly, expensive)",multekosta
+clics-doculect-36-129,espe1235-std,concepticon-1887,11.89,malkare,cheap,malkare
+clics-doculect-36-130,espe1235-std,concepticon-884,11.91,kunhavi,share (distribute),kunhavi
+clics-doculect-36-131,espe1235-std,concepticon-1098,11.92,pezi,weigh,pezi
+clics-doculect-36-132,espe1235-std,concepticon-723,12.11,loko,place,loko
+clics-doculect-36-133,espe1235-std,concepticon-998,12.12,meti,put,meti
+clics-doculect-36-134,espe1235-std,concepticon-998,12.12,prezenti,put,prezenti
+clics-doculect-36-135,espe1235-std,concepticon-1416,12.13,sidi,sit,sidi
+clics-doculect-36-136,espe1235-std,concepticon-215,12.14,ekkuŝi,lie down,ekkusi
+clics-doculect-36-137,espe1235-std,concepticon-1442,12.15,stari,stand,stari
+clics-doculect-36-138,espe1235-std,concepticon-987,12.16,postresti,"remain, stay",postresti
+clics-doculect-36-139,espe1235-std,concepticon-987,12.16,resti,"remain, stay",resti
+clics-doculect-36-140,espe1235-std,concepticon-7,12.21,grupigi,"collect, gather",grupigi
+clics-doculect-36-141,espe1235-std,concepticon-7,12.21,kolekti,"collect, gather",kolekti
+clics-doculect-36-142,espe1235-std,concepticon-7,12.21,grupiĝi,"collect, gather",grupigi
+clics-doculect-36-143,espe1235-std,concepticon-371,12.212,pluki,pick up,pluki
+clics-doculect-36-144,espe1235-std,concepticon-1743,12.22,adheri,"join, unite",adheri
+clics-doculect-36-145,espe1235-std,concepticon-1743,12.22,algluiĝi,"join, unite",algluigi
+clics-doculect-36-146,espe1235-std,concepticon-1743,12.22,aldoniĝi,"join, unite",aldonigi
+clics-doculect-36-147,espe1235-std,concepticon-1743,12.22,adeptiĝi,"join, unite",adeptigi
+clics-doculect-36-148,espe1235-std,concepticon-1743,12.22,varbiĝi,"join, unite",varbigi
+clics-doculect-36-149,espe1235-std,concepticon-1743,12.22,aldoni,"join, unite",aldoni
+clics-doculect-36-150,espe1235-std,concepticon-1359,12.23,disigi,separate,disigi
+clics-doculect-36-151,espe1235-std,concepticon-1156,12.24,malfermi,open,malfermi
+clics-doculect-36-152,espe1235-std,concepticon-1046,12.25,fermi,"shut, close",fermi
+clics-doculect-36-153,espe1235-std,concepticon-761,12.26,kovri,cover,kovri
+clics-doculect-36-154,espe1235-std,concepticon-1265,12.31,eminenta,high,eminenta
+clics-doculect-36-155,espe1235-std,concepticon-1265,12.31,alta,high,alta
+clics-doculect-36-156,espe1235-std,concepticon-721,12.32,malalta,low,malalta
+clics-doculect-36-157,espe1235-std,concepticon-721,12.32,basa,low,basa
+clics-doculect-36-158,espe1235-std,concepticon-372,12.352,pinta,pointed,pinta
+clics-doculect-36-159,espe1235-std,concepticon-372,12.352,akuta,pointed,akuta
+clics-doculect-36-160,espe1235-std,concepticon-372,12.352,akra,pointed,akra
+clics-doculect-36-161,espe1235-std,concepticon-863,12.353,flanko,edge,flanko
+clics-doculect-36-162,espe1235-std,concepticon-863,12.353,ŝiprando,edge,siprando
+clics-doculect-36-163,espe1235-std,concepticon-1942,12.43,apud,near (adv),apud
+clics-doculect-36-164,espe1235-std,concepticon-1877,12.45,oriento,east,oriento
+clics-doculect-36-165,espe1235-std,concepticon-1817,12.46,uesto,west,uesto
+clics-doculect-36-166,espe1235-std,concepticon-1598,12.47,nordo,north,nordo
+clics-doculect-36-167,espe1235-std,concepticon-479,12.53,pliiĝi,grow,pliigi
+clics-doculect-36-168,espe1235-std,concepticon-479,12.53,pliintensiĝi,grow,pliintensigi
+clics-doculect-36-169,espe1235-std,concepticon-479,12.53,reliefiĝi,grow,reliefigi
+clics-doculect-36-170,espe1235-std,concepticon-479,12.53,pliiĝi,grow,pliigi
+clics-doculect-36-171,espe1235-std,concepticon-479,12.53,pligrandiĝi,grow,pligrandigi
+clics-doculect-36-172,espe1235-std,concepticon-479,12.53,plivastiĝi,grow,plivastigi
+clics-doculect-36-173,espe1235-std,concepticon-479,12.53,plimultiĝi,grow,plimultigi
+clics-doculect-36-174,espe1235-std,concepticon-479,12.53,kreski,grow,kreski
+clics-doculect-36-175,espe1235-std,concepticon-479,12.53,kreski,grow,kreski
+clics-doculect-36-176,espe1235-std,concepticon-1506,12.54,laŭmezura,measure,laumezura
+clics-doculect-36-177,espe1235-std,concepticon-1202,12.55,dika,"large, big",dika
+clics-doculect-36-178,espe1235-std,concepticon-1202,12.55,elstarulo,"large, big",elstarulo
+clics-doculect-36-179,espe1235-std,concepticon-1202,12.55,vasta,"large, big",vasta
+clics-doculect-36-180,espe1235-std,concepticon-1246,12.56,malgranda,"small, little",malgranda
+clics-doculect-36-181,espe1235-std,concepticon-1246,12.56,malmulta,"small, little",malmulta
+clics-doculect-36-182,espe1235-std,concepticon-1203,12.57,longa,long,longa
+clics-doculect-36-183,espe1235-std,concepticon-711,12.58,alta,tall,alta
+clics-doculect-36-184,espe1235-std,concepticon-1645,12.59,mallongdaŭra,short,mallongdaura
+clics-doculect-36-185,espe1235-std,concepticon-1267,12.62,malvasta,narrow,malvasta
+clics-doculect-36-186,espe1235-std,concepticon-2249,12.65,magra,thin (in dimension),magra
+clics-doculect-36-187,espe1235-std,concepticon-2249,12.65,subtiligi,thin (in dimension),subtiligi
+clics-doculect-36-188,espe1235-std,concepticon-1593,12.67,profunda,deep,profunda
+clics-doculect-36-189,espe1235-std,concepticon-1633,12.71,plata,flat,plata
+clics-doculect-36-190,espe1235-std,concepticon-1633,12.71,apartamento,flat,apartamento
+clics-doculect-36-191,espe1235-std,concepticon-1633,12.71,bemolo,flat,bemolo
+clics-doculect-36-192,espe1235-std,concepticon-1633,12.71,platfunda,flat,platfunda
+clics-doculect-36-193,espe1235-std,concepticon-1404,12.73,rekta,straight,rekta
+clics-doculect-36-194,espe1235-std,concepticon-297,12.74,torda,crooked,torda
+clics-doculect-36-195,espe1235-std,concepticon-297,12.74,malrekta,crooked,malrekta
+clics-doculect-36-196,espe1235-std,concepticon-297,12.74,nerekta,crooked,nerekta
+clics-doculect-36-197,espe1235-std,concepticon-1367,12.77,kruco,cross,kruco
+clics-doculect-36-198,espe1235-std,concepticon-1467,12.82,rondo,circle,rondo
+clics-doculect-36-199,espe1235-std,concepticon-1467,12.82,cirklo,circle,cirklo
+clics-doculect-36-200,espe1235-std,concepticon-1048,12.84,trako,line,trako
+clics-doculect-36-201,espe1235-std,concepticon-1667,12.85,truita,hole,truita
+clics-doculect-36-202,espe1235-std,concepticon-1667,12.85,borita,hole,borita
+clics-doculect-36-203,espe1235-std,concepticon-1558,12.92,simila,"like, similar",simila
+clics-doculect-36-204,espe1235-std,concepticon-1264,12.93,aliigi,change,aliigi
+clics-doculect-36-205,espe1235-std,concepticon-1264,12.93,ŝanĝi,change,sangi
+clics-doculect-36-206,espe1235-std,concepticon-1264,12.93,ŝanĝiĝi,change,sangigi
+clics-doculect-36-207,espe1235-std,concepticon-1709,13.103,dekkvin,fifteen,dekkvin
+clics-doculect-36-208,espe1235-std,concepticon-1420,13.107,kalkuli,count,kalkuli
+clics-doculect-36-209,espe1235-std,concepticon-98,13.14,tuta,"every, all",tuta
+clics-doculect-36-210,espe1235-std,concepticon-1992,13.16,pli,more,pli
+clics-doculect-36-211,espe1235-std,concepticon-1881,13.18,sufiĉa,enough,sufica
+clics-doculect-36-212,espe1235-std,concepticon-1881,13.18,sufica,enough,sufica
+clics-doculect-36-213,espe1235-std,concepticon-1241,13.181,iuj,some,iuj
+clics-doculect-36-214,espe1235-std,concepticon-2023,13.19,homamaso,"multitude, crowd",homamaso
+clics-doculect-36-215,espe1235-std,concepticon-1429,13.21,plena,full,plena
+clics-doculect-36-216,espe1235-std,concepticon-1624,13.22,malplenigi,empty,malplenigi
+clics-doculect-36-217,espe1235-std,concepticon-1624,13.22,malplena,empty,malplena
+clics-doculect-36-218,espe1235-std,concepticon-779,13.23,parto,"part, piece",parto
+clics-doculect-36-219,espe1235-std,concepticon-816,13.24,duono,half,duono
+clics-doculect-36-220,espe1235-std,concepticon-1580,13.33,sola,"alone, only",sola
+clics-doculect-36-221,espe1235-std,concepticon-1580,13.33,sole,"alone, only",sole
+clics-doculect-36-222,espe1235-std,concepticon-728,13.34,antaŭe,first,antaue
+clics-doculect-36-223,espe1235-std,concepticon-728,13.34,unua,first,unua
+clics-doculect-36-224,espe1235-std,concepticon-728,13.34,unua,first,unua
+clics-doculect-36-225,espe1235-std,concepticon-1529,13.35,daŭri,last,dauri
+clics-doculect-36-226,espe1235-std,concepticon-1529,13.35,lasta,last,lasta
+clics-doculect-36-227,espe1235-std,concepticon-1384,13.36,duaklaso,second,duaklaso
+clics-doculect-36-228,espe1235-std,concepticon-1384,13.36,favori,second,favori
+clics-doculect-36-229,espe1235-std,concepticon-1888,13.37,paro,pair,paro
+clics-doculect-36-230,espe1235-std,concepticon-1859,13.42,tria,third,tria
+clics-doculect-36-231,espe1235-std,concepticon-892,14.11,tempo,time,tempo
+clics-doculect-36-232,espe1235-std,concepticon-1789,14.12,aĝo,age,ago
+clics-doculect-36-233,espe1235-std,concepticon-1231,14.13,nova,new,nova
+clics-doculect-36-234,espe1235-std,concepticon-1207,14.14,juna,young,juna
+clics-doculect-36-235,espe1235-std,concepticon-1229,14.15,malnova,old,malnova
+clics-doculect-36-236,espe1235-std,concepticon-1229,14.15,maljuna,old,maljuna
+clics-doculect-36-237,espe1235-std,concepticon-672,14.16,frue,early,frue
+clics-doculect-36-238,espe1235-std,concepticon-477,14.17,jemalfruahoro,late,jemalfruahoro
+clics-doculect-36-239,espe1235-std,concepticon-1376,14.18,nun,now,nun
+clics-doculect-36-240,espe1235-std,concepticon-1963,14.19,tujtuje,immediately,tujtuje
+clics-doculect-36-241,espe1235-std,concepticon-1631,14.21,fasto,"swift, fast, quick",fasto
+clics-doculect-36-242,espe1235-std,concepticon-1631,14.21,agema,"swift, fast, quick",agema
+clics-doculect-36-243,espe1235-std,concepticon-701,14.22,lanta,slow,lanta
+clics-doculect-36-244,espe1235-std,concepticon-754,14.23,rapideplenumi,"hasten, hurry",rapideplenumi
+clics-doculect-36-245,espe1235-std,concepticon-754,14.23,hasti,"hasten, hurry",hasti
+clics-doculect-36-246,espe1235-std,concepticon-754,14.23,rapidiĝi,"hasten, hurry",rapidigi
+clics-doculect-36-247,espe1235-std,concepticon-754,14.23,rapidi,"hasten, hurry",rapidi
+clics-doculect-36-248,espe1235-std,concepticon-1806,14.25,inici,"begin, beginning",inici
+clics-doculect-36-249,espe1235-std,concepticon-1806,14.25,komenci,"begin, beginning",komenci
+clics-doculect-36-250,espe1235-std,concepticon-1806,14.25,komenciĝi,"begin, beginning",komencigi
+clics-doculect-36-251,espe1235-std,concepticon-1766,14.27,fini,finish,fini
+clics-doculect-36-252,espe1235-std,concepticon-790,14.29,preta,ready,preta
+clics-doculect-36-253,espe1235-std,concepticon-1676,14.31,ĉiam,always,ciam
+clics-doculect-36-254,espe1235-std,concepticon-1852,14.32,ofte,often,ofte
+clics-doculect-36-255,espe1235-std,concepticon-1544,14.33,kelkfoje,sometimes,kelkfoje
+clics-doculect-36-256,espe1235-std,concepticon-703,14.331,tujtuje,soon,tujtuje
+clics-doculect-36-257,espe1235-std,concepticon-703,14.331,postnelonge,soon,postnelonge
+clics-doculect-36-258,espe1235-std,concepticon-1656,14.34,neniam,never,neniam
+clics-doculect-36-259,espe1235-std,concepticon-1656,14.34,neniam,never,neniam
+clics-doculect-36-260,espe1235-std,concepticon-729,14.43,ektagiĝo,dawn,ektagigo
+clics-doculect-36-261,espe1235-std,concepticon-12,14.45,tagmezo,"noon, midday",tagmezo
+clics-doculect-36-262,espe1235-std,concepticon-1283,14.47,hodiaŭ,today,hodiau
+clics-doculect-36-263,espe1235-std,concepticon-1329,14.48,morgaŭ,tomorrow,morgau
+clics-doculect-36-264,espe1235-std,concepticon-1174,14.49,hieraŭ,yesterday,hierau
+clics-doculect-36-265,espe1235-std,concepticon-1353,14.51,horo,hour,horo
+clics-doculect-36-266,espe1235-std,concepticon-1469,14.61,semajno,week,semajno
+clics-doculect-36-267,espe1235-std,concepticon-1699,14.62,dimanĉo,Sunday,dimanco
+clics-doculect-36-268,espe1235-std,concepticon-1697,14.63,lundo,Monday,lundo
+clics-doculect-36-269,espe1235-std,concepticon-1695,14.64,mardo,Tuesday,mardo
+clics-doculect-36-270,espe1235-std,concepticon-1694,14.65,merkredo,Wednesday,merkredo
+clics-doculect-36-271,espe1235-std,concepticon-1693,14.66,ĵaŭdo,Thursday,jaudo
+clics-doculect-36-272,espe1235-std,concepticon-1692,14.67,vendredo,Friday,vendredo
+clics-doculect-36-273,espe1235-std,concepticon-1700,14.68,sabato,Saturday,sabato
+clics-doculect-36-274,espe1235-std,concepticon-691,14.78,sezono,season,sezono
+clics-doculect-36-275,espe1235-std,concepticon-1587,15.21,odori,smell (vb intrans),odori
+clics-doculect-36-276,espe1235-std,concepticon-1587,15.21,flari,smell (vb intrans),flari
+clics-doculect-36-277,espe1235-std,concepticon-42,15.26,fetora,"stinking, bad smelling",fetora
+clics-doculect-36-278,espe1235-std,concepticon-42,15.26,malbonodora,"stinking, bad smelling",malbonodora
+clics-doculect-36-279,espe1235-std,concepticon-42,15.26,fiodora,"stinking, bad smelling",fiodora
+clics-doculect-36-280,espe1235-std,concepticon-42,15.26,stinka,"stinking, bad smelling",stinka
+clics-doculect-36-281,espe1235-std,concepticon-21,15.31,gustumi,taste,gustumi
+clics-doculect-36-282,espe1235-std,concepticon-21,15.31,ĝuegustumi,taste,guegustumi
+clics-doculect-36-283,espe1235-std,concepticon-887,15.37,akragusta,bitter,akragusta
+clics-doculect-36-284,espe1235-std,concepticon-887,15.37,amara,bitter,amara
+clics-doculect-36-285,espe1235-std,concepticon-1408,15.41,aŭdi,hear,audi
+clics-doculect-36-286,espe1235-std,concepticon-1408,15.41,aŭskulti,hear,auskulti
+clics-doculect-36-287,espe1235-std,concepticon-1811,15.44,sono,"sound, noise",sono
+clics-doculect-36-288,espe1235-std,concepticon-377,15.45,laŭta,loud,lauta
+clics-doculect-36-289,espe1235-std,concepticon-1314,15.46,trankvila,"quiet, silence",trankvila
+clics-doculect-36-290,espe1235-std,concepticon-1314,15.46,kieta,"quiet, silence",kieta
+clics-doculect-36-291,espe1235-std,concepticon-1409,15.51,vidi,see,vidi
+clics-doculect-36-292,espe1235-std,concepticon-1819,15.52,rigardi,"look, look at",rigardi
+clics-doculect-36-293,espe1235-std,concepticon-1039,15.55,montri,show,montri
+clics-doculect-36-294,espe1235-std,concepticon-1039,15.55,prezenti,show,prezenti
+clics-doculect-36-295,espe1235-std,concepticon-708,15.56,brilegi,shine,brilegi
+clics-doculect-36-296,espe1235-std,concepticon-679,15.57,brilanta,bright,brilanta
+clics-doculect-36-297,espe1235-std,concepticon-1892,15.71,tuŝi,touch,tusi
+clics-doculect-36-298,espe1235-std,concepticon-378,15.712,pinĉi,pinch,pinci
+clics-doculect-36-299,espe1235-std,concepticon-1079,15.72,senti,feel,senti
+clics-doculect-36-300,espe1235-std,concepticon-1856,15.75,morbida,soft,morbida
+clics-doculect-36-301,espe1235-std,concepticon-1856,15.75,mola,soft,mola
+clics-doculect-36-302,espe1235-std,concepticon-1856,15.75,supla,soft,supla
+clics-doculect-36-303,espe1235-std,concepticon-1234,15.77,glata,smooth,glata
+clics-doculect-36-304,espe1235-std,concepticon-1396,15.78,akra,sharp,akra
+clics-doculect-36-305,espe1235-std,concepticon-1396,15.78,akra,sharp,akra
+clics-doculect-36-306,espe1235-std,concepticon-1396,15.78,akragusta,sharp,akragusta
+clics-doculect-36-307,espe1235-std,concepticon-379,15.79,malakrigita,"blunt, dull",malakrigita
+clics-doculect-36-308,espe1235-std,concepticon-379,15.79,malsprita,"blunt, dull",malsprita
+clics-doculect-36-309,espe1235-std,concepticon-1726,15.83,malsekigi,"wet, damp",malsekigi
+clics-doculect-36-310,espe1235-std,concepticon-1398,15.84,sekigi,dry,sekigi
+clics-doculect-36-311,espe1235-std,concepticon-1398,15.84,seka,dry,seka
+clics-doculect-36-312,espe1235-std,concepticon-1286,15.85,fervorigi,hot,fervorigi
+clics-doculect-36-313,espe1235-std,concepticon-1286,15.85,varma,hot,varma
+clics-doculect-36-314,espe1235-std,concepticon-1232,15.851,varmigi,warm,varmigi
+clics-doculect-36-315,espe1235-std,concepticon-704,15.87,poluri,clean,poluri
+clics-doculect-36-316,espe1235-std,concepticon-704,15.87,polurita,clean,polurita
+clics-doculect-36-317,espe1235-std,concepticon-1230,15.88,malpurigi,"dirty, soiled",malpurigi
+clics-doculect-36-318,espe1235-std,concepticon-1230,15.88,malpura,"dirty, soiled",malpura
+clics-doculect-36-319,espe1235-std,concepticon-1230,15.88,grasmakulita,"dirty, soiled",grasmakulita
+clics-doculect-36-320,espe1235-std,concepticon-1230,15.88,mukoplena,"dirty, soiled",mukoplena
+clics-doculect-36-321,espe1235-std,concepticon-53,16.11,spirito,"soul, spirit",spirito
+clics-doculect-36-322,espe1235-std,concepticon-53,16.11,animo,"soul, spirit",animo
+clics-doculect-36-323,espe1235-std,concepticon-1572,16.15,mirigita,"surprised, astonished",mirigita
+clics-doculect-36-324,espe1235-std,concepticon-1495,16.23,gaja,"joyful, glad, happy",gaja
+clics-doculect-36-325,espe1235-std,concepticon-1495,16.23,feliĉa,"joyful, glad, happy",felica
+clics-doculect-36-326,espe1235-std,concepticon-1355,16.25,ridi,laugh,ridi
+clics-doculect-36-327,espe1235-std,concepticon-1451,16.251,rideti,smile,rideti
+clics-doculect-36-328,espe1235-std,concepticon-1413,16.26,ludi,play,ludi
+clics-doculect-36-329,espe1235-std,concepticon-1413,16.26,ludi,play,ludi
+clics-doculect-36-330,espe1235-std,concepticon-1413,16.26,roli,play,roli
+clics-doculect-36-331,espe1235-std,concepticon-923,16.27,ami,love,ami
+clics-doculect-36-332,espe1235-std,concepticon-578,16.29,kisi,kiss,kisi
+clics-doculect-36-333,espe1235-std,concepticon-578,16.29,kisisinreciproke,kiss,kisisinreciproke
+clics-doculect-36-334,espe1235-std,concepticon-928,16.3,ĉirkaŭpreni,embrace,cirkaupreni
+clics-doculect-36-335,espe1235-std,concepticon-1783,16.31,doloro,pain,doloro
+clics-doculect-36-336,espe1235-std,concepticon-1668,16.32,afliktiĝo,"grief, sorrow, sadness",afliktigo
+clics-doculect-36-337,espe1235-std,concepticon-1668,16.32,konsterniĝo,"grief, sorrow, sadness",konsternigo
+clics-doculect-36-338,espe1235-std,concepticon-1668,16.32,kordoloro,"grief, sorrow, sadness",kordoloro
+clics-doculect-36-339,espe1235-std,concepticon-1668,16.32,korpremo,"grief, sorrow, sadness",korpremo
+clics-doculect-36-340,espe1235-std,concepticon-1000,16.33,anksio,"anxiety, worry",anksio
+clics-doculect-36-341,espe1235-std,concepticon-1000,16.33,anksio,"anxiety, worry",anksio
+clics-doculect-36-342,espe1235-std,concepticon-1875,16.34,malplaĉi,"regret, be sorry",malplaci
+clics-doculect-36-343,espe1235-std,concepticon-1839,16.37,plori,"cry, weep",plori
+clics-doculect-36-344,espe1235-std,concepticon-82,16.42,kolero,anger,kolero
+clics-doculect-36-345,espe1235-std,concepticon-40,16.44,envio,"envy, jealousy",envio
+clics-doculect-36-346,espe1235-std,concepticon-1776,16.45,honto,shame (noun),honto
+clics-doculect-36-347,espe1235-std,concepticon-174,16.48,orgojla,proud,orgojla
+clics-doculect-36-348,espe1235-std,concepticon-1779,16.51,aŭdaci,dare,audaci
+clics-doculect-36-349,espe1235-std,concepticon-3,16.52,kuraĝa,brave,kuraga
+clics-doculect-36-350,espe1235-std,concepticon-781,16.53,timo,"fear, fright",timo
+clics-doculect-36-351,espe1235-std,concepticon-1810,16.54,danĝero,danger,dangero
+clics-doculect-36-352,espe1235-std,concepticon-1784,16.62,voli,"desire, want",voli
+clics-doculect-36-353,espe1235-std,concepticon-1750,16.622,elekti,choose,elekti
+clics-doculect-36-354,espe1235-std,concepticon-1750,16.622,selekti,choose,selekti
+clics-doculect-36-355,espe1235-std,concepticon-1092,16.63,deziresprimi,hope,deziresprimi
+clics-doculect-36-356,espe1235-std,concepticon-100,16.65,fidela,faithful,fidela
+clics-doculect-36-357,espe1235-std,concepticon-601,16.67,mensogi,"lie, tell lies",mensogi
+clics-doculect-36-358,espe1235-std,concepticon-601,16.67,situi,"lie, tell lies",situi
+clics-doculect-36-359,espe1235-std,concepticon-601,16.67,etendiĝi,"lie, tell lies",etendigi
+clics-doculect-36-360,espe1235-std,concepticon-13,16.68,mensogo,deceit,mensogo
+clics-doculect-36-361,espe1235-std,concepticon-1528,16.69,amnestii,forgive,amnestii
+clics-doculect-36-362,espe1235-std,concepticon-1292,16.72,malbona,bad,malbona
+clics-doculect-36-363,espe1235-std,concepticon-1390,16.74,malĝusta,wrong,malgusta
+clics-doculect-36-364,espe1235-std,concepticon-134,16.76,averio,fault,averio
+clics-doculect-36-365,espe1235-std,concepticon-1293,16.77,eraro,"mistake, error",eraro
+clics-doculect-36-366,espe1235-std,concepticon-1427,16.81,bela,beautiful,bela
+clics-doculect-36-367,espe1235-std,concepticon-1548,16.82,malbela,ugly,malbela
+clics-doculect-36-368,espe1235-std,concepticon-2018,16.83,frandema,greedy,frandema
+clics-doculect-36-369,espe1235-std,concepticon-2018,16.83,frandema,greedy,frandema
+clics-doculect-36-370,espe1235-std,concepticon-1562,17.11,animo,mind,animo
+clics-doculect-36-371,espe1235-std,concepticon-1562,17.11,menso,mind,menso
+clics-doculect-36-372,espe1235-std,concepticon-1890,17.15,opinii,believe,opinii
+clics-doculect-36-373,espe1235-std,concepticon-1890,17.15,kredi,believe,kredi
+clics-doculect-36-374,espe1235-std,concepticon-1536,17.16,kompreni,understand,kompreni
+clics-doculect-36-375,espe1235-std,concepticon-1410,17.17,gusti,know,gusti
+clics-doculect-36-376,espe1235-std,concepticon-1410,17.17,koni,know,koni
+clics-doculect-36-377,espe1235-std,concepticon-1410,17.17,koni,know,koni
+clics-doculect-36-378,espe1235-std,concepticon-1932,17.171,diveni,guess,diveni
+clics-doculect-36-379,espe1235-std,concepticon-1932,17.171,imagi,guess,imagi
+clics-doculect-36-380,espe1235-std,concepticon-117,17.172,imiti,imitate,imiti
+clics-doculect-36-381,espe1235-std,concepticon-1521,17.18,aspekti,seem,aspekti
+clics-doculect-36-382,espe1235-std,concepticon-698,17.21,sagxa,wise,sagxa
+clics-doculect-36-383,espe1235-std,concepticon-1518,17.22,stulta,"foolish, stupid",stulta
+clics-doculect-36-384,espe1235-std,concepticon-504,17.24,lerni,learn,lerni
+clics-doculect-36-385,espe1235-std,concepticon-1929,17.242,studi,study,studi
+clics-doculect-36-386,espe1235-std,concepticon-709,17.25,instrui,teach,instrui
+clics-doculect-36-387,espe1235-std,concepticon-753,17.26,pupilo,pupil,pupilo
+clics-doculect-36-388,espe1235-std,concepticon-707,17.31,rememori,remember,rememori
+clics-doculect-36-389,espe1235-std,concepticon-1523,17.32,forgesi,forget,forgesi
+clics-doculect-36-390,espe1235-std,concepticon-989,17.34,klara,"clear, plain",klara
+clics-doculect-36-391,espe1235-std,concepticon-1764,17.35,obskura,obscure,obskura
+clics-doculect-36-392,espe1235-std,concepticon-1121,17.36,sekreta,secret,sekreta
+clics-doculect-36-393,espe1235-std,concepticon-509,17.37,certa,"sure, certain",certa
+clics-doculect-36-394,espe1235-std,concepticon-1626,17.38,ekspliki,explain,ekspliki
+clics-doculect-36-395,espe1235-std,concepticon-1162,17.41,intenco,"intention, purpose",intenco
+clics-doculect-36-396,espe1235-std,concepticon-860,17.42,kaŭzo,cause,kauzo
+clics-doculect-36-397,espe1235-std,concepticon-860,17.42,motivo,cause,motivo
+clics-doculect-36-398,espe1235-std,concepticon-860,17.42,kialo,cause,kialo
+clics-doculect-36-399,espe1235-std,concepticon-1308,17.43,dubo,doubt,dubo
+clics-doculect-36-400,espe1235-std,concepticon-1841,17.44,suspekti,suspect,suspekti
+clics-doculect-36-401,espe1235-std,concepticon-1902,17.441,perfidi,betray,perfidi
+clics-doculect-36-402,espe1235-std,concepticon-643,17.45,neceso,"need, necessity",neceso
+clics-doculect-36-403,espe1235-std,concepticon-643,17.45,neceso,"need, necessity",neceso
+clics-doculect-36-404,espe1235-std,concepticon-686,17.46,facila,easy,facila
+clics-doculect-36-405,espe1235-std,concepticon-584,17.47,malfacila,difficult,malfacila
+clics-doculect-36-406,espe1235-std,concepticon-1812,17.48,provi,"try, attempt",provi
+clics-doculect-36-407,espe1235-std,concepticon-1812,17.48,provi,"try, attempt",provi
+clics-doculect-36-408,espe1235-std,concepticon-488,17.49,maniero,"way, manner",maniero
+clics-doculect-36-409,espe1235-std,concepticon-488,17.49,maniero,"way, manner",maniero
+clics-doculect-36-410,espe1235-std,concepticon-1577,17.51,kaj,and,kaj
+clics-doculect-36-411,espe1235-std,concepticon-1157,17.52,ĉar,because,car
+clics-doculect-36-412,espe1235-std,concepticon-1459,17.53,se,if,se
+clics-doculect-36-413,espe1235-std,concepticon-1014,17.54,aŭ,or,au
+clics-doculect-36-414,espe1235-std,concepticon-1237,17.66,kie,where?,kie
+clics-doculect-36-415,espe1235-std,concepticon-1235,17.68,kiu,who?,kiu
+clics-doculect-36-416,espe1235-std,concepticon-1270,17.69,kial,why?,kial
+clics-doculect-36-417,espe1235-std,concepticon-1261,18.12,kanti,sing,kanti
+clics-doculect-36-418,espe1235-std,concepticon-715,18.13,krii,"shout, cry out",krii
+clics-doculect-36-419,espe1235-std,concepticon-55,18.15,flustri,whisper,flustri
+clics-doculect-36-420,espe1235-std,concepticon-1623,18.21,paroli,"speak, talk",paroli
+clics-doculect-36-421,espe1235-std,concepticon-1623,18.21,paroli,"speak, talk",paroli
+clics-doculect-36-422,espe1235-std,concepticon-1866,18.211,balbuti,"stutter, stammer",balbuti
+clics-doculect-36-423,espe1235-std,concepticon-1866,18.211,balbuti,"stutter, stammer",balbuti
+clics-doculect-36-424,espe1235-std,concepticon-1458,18.22,diri,say,diri
+clics-doculect-36-425,espe1235-std,concepticon-1711,18.221,rakonti,tell story,rakonti
+clics-doculect-36-426,espe1235-std,concepticon-1115,18.222,parolo,speech (make a),parolo
+clics-doculect-36-427,espe1235-std,concepticon-48,18.23,silenti,silent (be),silenti
+clics-doculect-36-428,espe1235-std,concepticon-1307,18.24,lingvo,language,lingvo
+clics-doculect-36-429,espe1235-std,concepticon-1599,18.26,vorto,word,vorto
+clics-doculect-36-430,espe1235-std,concepticon-1405,18.28,nomo,name,nomo
+clics-doculect-36-431,espe1235-std,concepticon-1309,18.31,peti,"ask (question, inquire)",peti
+clics-doculect-36-432,espe1235-std,concepticon-1309,18.31,demandi,"ask (question, inquire)",demandi
+clics-doculect-36-433,espe1235-std,concepticon-1275,18.32,respondi,answer,respondi
+clics-doculect-36-434,espe1235-std,concepticon-2022,18.33,enlasi,"admit, confess",enlasi
+clics-doculect-36-435,espe1235-std,concepticon-755,18.34,negi,deny,negi
+clics-doculect-36-436,espe1235-std,concepticon-1675,18.36,promesi,promise,promesi
+clics-doculect-36-437,espe1235-std,concepticon-1084,18.41,voki,call (=summon),voki
+clics-doculect-36-438,espe1235-std,concepticon-1084,18.41,voki,call (=summon),voki
+clics-doculect-36-439,espe1235-std,concepticon-9,18.43,anonci,announce,anonci
+clics-doculect-36-440,espe1235-std,concepticon-101,18.45,fieri,boast,fieri
+clics-doculect-36-441,espe1235-std,concepticon-101,18.45,pavi,boast,pavi
+clics-doculect-36-442,espe1235-std,concepticon-101,18.45,bombasti,boast,bombasti
+clics-doculect-36-443,espe1235-std,concepticon-101,18.45,fieripri,boast,fieripri
+clics-doculect-36-444,espe1235-std,concepticon-1391,19.15,urbo,"city, town",urbo
+clics-doculect-36-445,espe1235-std,concepticon-930,19.16,vilaĝeto,village,vilageto
+clics-doculect-36-446,espe1235-std,concepticon-1010,19.17,limo,boundary,limo
+clics-doculect-36-447,espe1235-std,concepticon-789,19.21,uloj,people (populace),uloj
+clics-doculect-36-448,espe1235-std,concepticon-789,19.21,popolo,people (populace),popolo
+clics-doculect-36-449,espe1235-std,concepticon-1846,19.31,regi,"rule, govern",regi
+clics-doculect-36-450,espe1235-std,concepticon-1032,19.37,civitano,"citizen, subject",civitano
+clics-doculect-36-451,espe1235-std,concepticon-812,19.42,sklavo,slave,sklavo
+clics-doculect-36-452,espe1235-std,concepticon-1128,19.45,komisii,"command, order",komisii
+clics-doculect-36-453,espe1235-std,concepticon-1128,19.45,komandi,"command, order",komandi
+clics-doculect-36-454,espe1235-std,concepticon-1635,19.46,obei,obey,obei
+clics-doculect-36-455,espe1235-std,concepticon-1358,19.52,malamiko,enemy,malamiko
+clics-doculect-36-456,espe1235-std,concepticon-791,19.55,fremdulo,stranger,fremdulo
+clics-doculect-36-457,espe1235-std,concepticon-1545,19.57,hostio,host,hostio
+clics-doculect-36-458,espe1235-std,concepticon-1545,19.57,amfitriono,host,amfitriono
+clics-doculect-36-459,espe1235-std,concepticon-1545,19.57,gasto,host,gasto
+clics-doculect-36-460,espe1235-std,concepticon-1897,19.58,helpi,"help, aid",helpi
+clics-doculect-36-461,espe1235-std,concepticon-1550,19.59,malebligi,"hinder, prevent",malebligi
+clics-doculect-36-462,espe1235-std,concepticon-1747,19.61,kutimo,custom,kutimo
+clics-doculect-36-463,espe1235-std,concepticon-1747,19.61,kutimo,custom,kutimo
+clics-doculect-36-464,espe1235-std,concepticon-1747,19.61,kutimo,custom,kutimo
+clics-doculect-36-465,espe1235-std,concepticon-1848,19.62,kverelo,"strife, quarrel",kverelo
+clics-doculect-36-466,espe1235-std,concepticon-1848,19.62,kverelo,"strife, quarrel",kverelo
+clics-doculect-36-467,espe1235-std,concepticon-1848,19.62,malpaco,"strife, quarrel",malpaco
+clics-doculect-36-468,espe1235-std,concepticon-1848,19.62,disputo,"strife, quarrel",disputo
+clics-doculect-36-469,espe1235-std,concepticon-2024,19.63,intrigo,"conspiracy, plot",intrigo
+clics-doculect-36-470,espe1235-std,concepticon-2024,19.63,parcelo,"conspiracy, plot",parcelo
+clics-doculect-36-471,espe1235-std,concepticon-1831,19.65,renkonti,meet,renkonti
+clics-doculect-36-472,espe1235-std,concepticon-1610,19.72,duonmondulino,prostitute,duonmondulino
+clics-doculect-36-473,espe1235-std,concepticon-683,2.1,persono,"person, human being",persono
+clics-doculect-36-474,espe1235-std,concepticon-1551,2.24,ino,female,ino
+clics-doculect-36-475,espe1235-std,concepticon-1646,2.26,knabino,girl,knabino
+clics-doculect-36-476,espe1235-std,concepticon-1289,2.28,bebo,"infant, baby",bebo
+clics-doculect-36-477,espe1235-std,concepticon-1199,2.32,edzino,wife,edzino
+clics-doculect-36-478,espe1235-std,concepticon-203,2.33,edziĝi,marry,edzigi
+clics-doculect-36-479,espe1235-std,concepticon-1259,2.34,edziĝaceremonio,"marriage, wedding",edzigaceremonio
+clics-doculect-36-480,espe1235-std,concepticon-1134,2.341,divorco,divorce,divorco
+clics-doculect-36-481,espe1235-std,concepticon-505,2.37,generinto,parents,generinto
+clics-doculect-36-482,espe1235-std,concepticon-1620,2.41,filo,son,filo
+clics-doculect-36-483,espe1235-std,concepticon-1357,2.42,filino,daughter,filino
+clics-doculect-36-484,espe1235-std,concepticon-1496,2.47,avino,grandmother,avino
+clics-doculect-36-485,espe1235-std,concepticon-1272,2.52,onklino,aunt,onklino
+clics-doculect-36-486,espe1235-std,concepticon-1063,2.53,nevo,nephew,nevo
+clics-doculect-36-487,espe1235-std,concepticon-1669,2.56,praavo,ancestors,praavo
+clics-doculect-36-488,espe1235-std,concepticon-2255,2.61,bopatro,father-in-law (of a man),bopatro
+clics-doculect-36-489,espe1235-std,concepticon-2256,2.62,bopatrino,mother-in-law (of a man),bopatrino
+clics-doculect-36-490,espe1235-std,concepticon-2267,2.63,bofilo,son-in-law (of a man),bofilo
+clics-doculect-36-491,espe1235-std,concepticon-2265,2.64,bofilino,daughter-in-law (of a man),bofilino
+clics-doculect-36-492,espe1235-std,concepticon-236,2.72,duonpatrino,stepmother,duonpatrino
+clics-doculect-36-493,espe1235-std,concepticon-1059,2.73,duonfilo,stepson,duonfilo
+clics-doculect-36-494,espe1235-std,concepticon-1209,2.91,mi,I,mi
+clics-doculect-36-495,espe1235-std,concepticon-1209,2.91,i,I,i
+clics-doculect-36-496,espe1235-std,concepticon-1215,2.92,vin,you (singular),vin
+clics-doculect-36-497,espe1235-std,concepticon-1215,2.92,vi,you (singular),vi
+clics-doculect-36-498,espe1235-std,concepticon-1215,2.92,ci,you (singular),ci
+clics-doculect-36-499,espe1235-std,concepticon-1212,2.94,ni,we,ni
+clics-doculect-36-500,espe1235-std,concepticon-817,2.96,ili,they,ili
+clics-doculect-36-501,espe1235-std,concepticon-1423,20.11,batali,fight (vb),batali
+clics-doculect-36-502,espe1235-std,concepticon-1423,20.11,lukti,fight (vb),lukti
+clics-doculect-36-503,espe1235-std,concepticon-579,20.13,batalo,"war, battle",batalo
+clics-doculect-36-504,espe1235-std,concepticon-1941,20.17,soldato,soldier,soldato
+clics-doculect-36-505,espe1235-std,concepticon-1763,20.22,clubo,club,clubo
+clics-doculect-36-506,espe1235-std,concepticon-1763,20.22,tamburfrapilo,club,tamburfrapilo
+clics-doculect-36-507,espe1235-std,concepticon-1763,20.22,klabo,club,klabo
+clics-doculect-36-508,espe1235-std,concepticon-387,20.23,ŝtonjetilo,sling,stonjetilo
+clics-doculect-36-509,espe1235-std,concepticon-1566,20.28,fusilo,"gun, cannon",fusilo
+clics-doculect-36-510,espe1235-std,concepticon-1061,20.31,kiraso,armor (defensive),kiraso
+clics-doculect-36-511,espe1235-std,concepticon-1680,20.33,falkasko,helmet,falkasko
+clics-doculect-36-512,espe1235-std,concepticon-1938,20.35,fortreso,fortress,fortreso
+clics-doculect-36-513,espe1235-std,concepticon-722,20.43,atenco,attack,atenco
+clics-doculect-36-514,espe1235-std,concepticon-1330,20.44,defendi,defend,defendi
+clics-doculect-36-515,espe1235-std,concepticon-1696,20.46,kapitulaci,surrender,kapitulaci
+clics-doculect-36-516,espe1235-std,concepticon-1072,20.47,karcerulo,"captive, prisoner",karcerulo
+clics-doculect-36-517,espe1235-std,concepticon-1940,20.471,trajnĉefo,"guard, sentinel",trajncefo
+clics-doculect-36-518,espe1235-std,concepticon-1022,20.48,predo,"booty, spoils",predo
+clics-doculect-36-519,espe1235-std,concepticon-65,20.49,embusko,ambush,embusko
+clics-doculect-36-520,espe1235-std,concepticon-65,20.49,gvatado,ambush,gvatado
+clics-doculect-36-521,espe1235-std,concepticon-19,20.53,hokfadeno,fishing line,hokfadeno
+clics-doculect-36-522,espe1235-std,concepticon-1435,20.61,ĉaso,hunt,caso
+clics-doculect-36-523,espe1235-std,concepticon-1435,20.61,ĉaspeli,hunt,caspeli
+clics-doculect-36-524,espe1235-std,concepticon-1172,20.62,filmi,shoot,filmi
+clics-doculect-36-525,espe1235-std,concepticon-1062,21.11,leĝo,law,lego
+clics-doculect-36-526,espe1235-std,concepticon-1062,21.11,juro,law,juro
+clics-doculect-36-527,espe1235-std,concepticon-1067,21.17,verdikto,judgment,verdikto
+clics-doculect-36-528,espe1235-std,concepticon-1939,21.24,malbeni,swear,malbeni
+clics-doculect-36-529,espe1235-std,concepticon-1814,21.31,akuzi,accuse,akuzi
+clics-doculect-36-530,espe1235-std,concepticon-1814,21.31,kulpigi,accuse,kulpigi
+clics-doculect-36-531,espe1235-std,concepticon-484,21.32,kondamni,condemn,kondamni
+clics-doculect-36-532,espe1235-std,concepticon-988,21.34,absolvi,acquit,absolvi
+clics-doculect-36-533,espe1235-std,concepticon-1682,21.35,kulpa,guilty,kulpa
+clics-doculect-36-534,espe1235-std,concepticon-90,21.36,senkulpa,innocent,senkulpa
+clics-doculect-36-535,espe1235-std,concepticon-390,21.37,punkorekto,"penalty, punishment",punkorekto
+clics-doculect-36-536,espe1235-std,concepticon-218,21.38,punmono,fine,punmono
+clics-doculect-36-537,espe1235-std,concepticon-1281,21.39,karcero,"prison, jail",karcero
+clics-doculect-36-538,espe1235-std,concepticon-845,21.42,murdo,murder,murdo
+clics-doculect-36-539,espe1235-std,concepticon-902,21.43,adulto,adultery,adulto
+clics-doculect-36-540,espe1235-std,concepticon-953,21.44,stupro,rape,stupro
+clics-doculect-36-541,espe1235-std,concepticon-631,3.15,brutaro,livestock,brutaro
+clics-doculect-36-542,espe1235-std,concepticon-851,3.19,vendobenko,"stable, stall",vendobenko
+clics-doculect-36-543,espe1235-std,concepticon-851,3.19,stalo,"stable, stall",stalo
+clics-doculect-36-544,espe1235-std,concepticon-851,3.19,cevalejo,"stable, stall",cevalejo
+clics-doculect-36-545,espe1235-std,concepticon-1169,3.22,bovo,ox,bovo
+clics-doculect-36-546,espe1235-std,concepticon-1989,3.24,bovidino,calf,bovidino
+clics-doculect-36-547,espe1235-std,concepticon-1989,3.24,tibikarno,calf,tibikarno
+clics-doculect-36-548,espe1235-std,concepticon-1344,3.26,virŝafo,ram,virsafo
+clics-doculect-36-549,espe1235-std,concepticon-1348,3.32,virporko,boar,virporko
+clics-doculect-36-550,espe1235-std,concepticon-1351,3.34,porkino,sow,porkino
+clics-doculect-36-551,espe1235-std,concepticon-264,3.37,boko,he-goat,boko
+clics-doculect-36-552,espe1235-std,concepticon-1972,3.38,kaprido,kid,kaprido
+clics-doculect-36-553,espe1235-std,concepticon-936,3.42,stalono,stallion,stalono
+clics-doculect-36-554,espe1235-std,concepticon-938,3.44,cˆevalino,mare,c^evalino
+clics-doculect-36-555,espe1235-std,concepticon-1647,3.45,cevalido,"foal, colt",cevalido
+clics-doculect-36-556,espe1235-std,concepticon-890,3.47,mulo,mule,mulo
+clics-doculect-36-557,espe1235-std,concepticon-265,3.5,kortobirdo,fowl,kortobirdo
+clics-doculect-36-558,espe1235-std,concepticon-1187,3.56,ansero,goose,ansero
+clics-doculect-36-559,espe1235-std,concepticon-1185,3.586,akcipitro,vulture,akcipitro
+clics-doculect-36-560,espe1235-std,concepticon-735,3.596,strigo,owl,strigo
+clics-doculect-36-561,espe1235-std,concepticon-2139,3.63,muso,"mouse, rat",muso
+clics-doculect-36-562,espe1235-std,concepticon-2139,3.63,rato,"mouse, rat",rato
+clics-doculect-36-563,espe1235-std,concepticon-2139,3.63,muso,"mouse, rat",muso
+clics-doculect-36-564,espe1235-std,concepticon-1916,3.654,branko,gill,branko
+clics-doculect-36-565,espe1235-std,concepticon-598,3.655,testikkonko,shell,testikkonko
+clics-doculect-36-566,espe1235-std,concepticon-598,3.655,karapaco,shell,karapaco
+clics-doculect-36-567,espe1235-std,concepticon-1479,3.662,foceno,"porpoise, dolphin",foceno
+clics-doculect-36-568,espe1235-std,concepticon-1013,3.665,angilo,freshwater eel,angilo
+clics-doculect-36-569,espe1235-std,concepticon-620,3.81,insekto,insect,insekto
+clics-doculect-36-570,espe1235-std,concepticon-1392,3.811,pediko,louse,pediko
+clics-doculect-36-571,espe1235-std,concepticon-267,3.812,pedikovo,nit (louse egg),pedikovo
+clics-doculect-36-572,espe1235-std,concepticon-232,3.813,pulo,flea,pulo
+clics-doculect-36-573,espe1235-std,concepticon-1974,3.814,centpiedulo,centipede,centpiedulo
+clics-doculect-36-574,espe1235-std,concepticon-1575,3.816,blato,cockroach,blato
+clics-doculect-36-575,espe1235-std,concepticon-1575,3.816,vermo,cockroach,vermo
+clics-doculect-36-576,espe1235-std,concepticon-1931,3.821,vakso,beeswax,vakso
+clics-doculect-36-577,espe1235-std,concepticon-1857,3.97,aligatoro,"crocodile, alligator",aligatoro
+clics-doculect-36-578,espe1235-std,concepticon-763,4.12,haŭto,"skin, hide",hauto
+clics-doculect-36-579,espe1235-std,concepticon-576,4.146,haŭteroj,dandruff,hauteroj
+clics-doculect-36-580,espe1235-std,concepticon-946,4.15,sango,blood,sango
+clics-doculect-36-581,espe1235-std,concepticon-525,4.151,vejno,"vein, artery",vejno
+clics-doculect-36-582,espe1235-std,concepticon-525,4.151,arterio,"vein, artery",arterio
+clics-doculect-36-583,espe1235-std,concepticon-801,4.162,ripo,rib,ripo
+clics-doculect-36-584,espe1235-std,concepticon-1393,4.17,korno,horn,korno
+clics-doculect-36-585,espe1235-std,concepticon-1393,4.17,hupo,horn,hupo
+clics-doculect-36-586,espe1235-std,concepticon-1393,4.17,aŭtokorno,horn,autokorno
+clics-doculect-36-587,espe1235-std,concepticon-1605,4.202,kranio,skull,kranio
+clics-doculect-36-588,espe1235-std,concepticon-1605,4.202,kranio,skull,kranio
+clics-doculect-36-589,espe1235-std,concepticon-1583,4.203,cerbo,brain,cerbo
+clics-doculect-36-590,espe1235-std,concepticon-798,4.207,makzelo,jaw,makzelo
+clics-doculect-36-591,espe1235-std,concepticon-17,4.213,palpebro,eyelid,palpebro
+clics-doculect-36-592,espe1235-std,concepticon-1540,4.214,okulharo,eyelash,okulharo
+clics-doculect-36-593,espe1235-std,concepticon-1655,4.215,fulmobrili,blink,fulmobrili
+clics-doculect-36-594,espe1235-std,concepticon-1178,4.231,naztruo,nostril,naztruo
+clics-doculect-36-595,espe1235-std,concepticon-208,4.232,nazmukajo,mucus (nasal),nazmukajo
+clics-doculect-36-596,espe1235-std,concepticon-674,4.24,buŝo,mouth,buso
+clics-doculect-36-597,espe1235-std,concepticon-1482,4.3,ŝultro,shoulder,sultro
+clics-doculect-36-598,espe1235-std,concepticon-1886,4.312,akselo,armpit,akselo
+clics-doculect-36-599,espe1235-std,concepticon-799,4.321,pojno,wrist,pojno
+clics-doculect-36-600,espe1235-std,concepticon-1183,4.331,polmo,palm of hand,polmo
+clics-doculect-36-601,espe1235-std,concepticon-1183,4.331,manplato,palm of hand,manplato
+clics-doculect-36-602,espe1235-std,concepticon-72,4.345,ungego,claw,ungego
+clics-doculect-36-603,espe1235-std,concepticon-72,4.345,ungego,claw,ungego
+clics-doculect-36-604,espe1235-std,concepticon-72,4.345,ungohavapiedego,claw,ungohavapiedego
+clics-doculect-36-605,espe1235-std,concepticon-72,4.345,krifo,claw,krifo
+clics-doculect-36-606,espe1235-std,concepticon-1297,4.35,kruro,leg,kruro
+clics-doculect-36-607,espe1235-std,concepticon-800,4.351,femuro,thigh,femuro
+clics-doculect-36-608,espe1235-std,concepticon-803,4.371,piedartiko,ankle,piedartiko
+clics-doculect-36-609,espe1235-std,concepticon-1389,4.38,piedfingro,toe,piedfingro
+clics-doculect-36-610,espe1235-std,concepticon-1201,4.393,plumo,feather,plumo
+clics-doculect-36-611,espe1235-std,concepticon-1592,4.4,torako,chest,torako
+clics-doculect-36-612,espe1235-std,concepticon-1592,4.4,kesto,chest,kesto
+clics-doculect-36-613,espe1235-std,concepticon-1402,4.41,mamo,breast (of woman),mamo
+clics-doculect-36-614,espe1235-std,concepticon-1402,4.41,brusto,breast (of woman),brusto
+clics-doculect-36-615,espe1235-std,concepticon-796,4.412,mampinto,"nipple, teat",mampinto
+clics-doculect-36-616,espe1235-std,concepticon-154,4.42,mamo,udder,mamo
+clics-doculect-36-617,espe1235-std,concepticon-688,4.441,pulmo,lung,pulmo
+clics-doculect-36-618,espe1235-std,concepticon-1224,4.45,hepato,liver,hepato
+clics-doculect-36-619,espe1235-std,concepticon-489,4.451,reno,kidney,reno
+clics-doculect-36-620,espe1235-std,concepticon-1744,4.452,lieno,spleen,lieno
+clics-doculect-36-621,espe1235-std,concepticon-1681,4.462,talio,waist,talio
+clics-doculect-36-622,espe1235-std,concepticon-1745,4.463,kokso,hip,kokso
+clics-doculect-36-623,espe1235-std,concepticon-834,4.464,pugo,buttocks,pugo
+clics-doculect-36-624,espe1235-std,concepticon-1222,4.492,peniso,penis,peniso
+clics-doculect-36-625,espe1235-std,concepticon-1407,4.51,elspiri,"breathe, breath",elspiri
+clics-doculect-36-626,espe1235-std,concepticon-1407,4.51,bloveti,"breathe, breath",bloveti
+clics-doculect-36-627,espe1235-std,concepticon-1407,4.51,spiri,"breathe, breath",spiri
+clics-doculect-36-628,espe1235-std,concepticon-879,4.53,tusi,cough,tusi
+clics-doculect-36-629,espe1235-std,concepticon-1621,4.54,terni,sneeze,terni
+clics-doculect-36-630,espe1235-std,concepticon-126,4.55,sviti,perspire,sviti
+clics-doculect-36-631,espe1235-std,concepticon-1440,4.56,sputi,spit,sputi
+clics-doculect-36-632,espe1235-std,concepticon-1403,4.58,mordilafiŝhokon,bite,mordilafishokon
+clics-doculect-36-633,espe1235-std,concepticon-1403,4.58,mordi,bite,mordi
+clics-doculect-36-634,espe1235-std,concepticon-319,4.59,leki,lick,leki
+clics-doculect-36-635,espe1235-std,concepticon-1983,4.612,ronki,snore,ronki
+clics-doculect-36-636,espe1235-std,concepticon-1920,4.62,sonĝi,dream,songi
+clics-doculect-36-637,espe1235-std,concepticon-1602,4.63,veki,wake up,veki
+clics-doculect-36-638,espe1235-std,concepticon-1159,4.64,furzi,break wind,furzi
+clics-doculect-36-639,espe1235-std,concepticon-676,4.66,kaki,defecate,kaki
+clics-doculect-36-640,espe1235-std,concepticon-676,4.66,feki,defecate,feki
+clics-doculect-36-641,espe1235-std,concepticon-1785,4.67,umi,have sexual intercourse,umi
+clics-doculect-36-642,espe1235-std,concepticon-138,4.69,sinbani,bathe,sinbani
+clics-doculect-36-643,espe1235-std,concepticon-1090,4.72,naskiĝi,born (to be),naskigi
+clics-doculect-36-644,espe1235-std,concepticon-1123,4.73,graveda,pregnant,graveda
+clics-doculect-36-645,espe1235-std,concepticon-1494,4.75,morti,"die, dead",morti
+clics-doculect-36-646,espe1235-std,concepticon-1904,4.751,dronigi,drowned,dronigi
+clics-doculect-36-647,espe1235-std,concepticon-767,4.77,kadavro,corpse,kadavro
+clics-doculect-36-648,espe1235-std,concepticon-1719,4.78,entombigi,bury (the dead),entombigi
+clics-doculect-36-649,espe1235-std,concepticon-1719,4.78,sepulti,bury (the dead),sepulti
+clics-doculect-36-650,espe1235-std,concepticon-1773,4.79,tombo,"grave, tomb",tombo
+clics-doculect-36-651,espe1235-std,concepticon-785,4.81,forta,"strong, mighty, powerful",forta
+clics-doculect-36-652,espe1235-std,concepticon-1364,4.83,sana,"well, health",sana
+clics-doculect-36-653,espe1235-std,concepticon-1847,4.84,malsana,"sick, sickness",malsana
+clics-doculect-36-654,espe1235-std,concepticon-1534,4.841,febro,fever,febro
+clics-doculect-36-655,espe1235-std,concepticon-1109,4.85,vundo,"wound, sore",vundo
+clics-doculect-36-656,espe1235-std,concepticon-1109,4.85,vundo,"wound, sore",vundo
+clics-doculect-36-657,espe1235-std,concepticon-1148,4.852,kontuziĝo,bruise,kontuzigo
+clics-doculect-36-658,espe1235-std,concepticon-1903,4.853,ŝvelajo,swelling,svelajo
+clics-doculect-36-659,espe1235-std,concepticon-1903,4.853,ŝveltubero,swelling,sveltubero
+clics-doculect-36-660,espe1235-std,concepticon-148,4.854,juko,itch,juko
+clics-doculect-36-661,espe1235-std,concepticon-1584,4.855,veziko,blister,veziko
+clics-doculect-36-662,espe1235-std,concepticon-793,4.856,furunko,boil (noun),furunko
+clics-doculect-36-663,espe1235-std,concepticon-1808,4.857,puso,pus,puso
+clics-doculect-36-664,espe1235-std,concepticon-497,4.858,cikatro,scar,cikatro
+clics-doculect-36-665,espe1235-std,concepticon-499,4.86,resanigi,"cure, heal",resanigi
+clics-doculect-36-666,espe1235-std,concepticon-1372,4.88,medicino,"medicine, drug",medicino
+clics-doculect-36-667,espe1235-std,concepticon-655,4.89,veneno,poison,veneno
+clics-doculect-36-668,espe1235-std,concepticon-1757,4.91,laca,"tired, weary",laca
+clics-doculect-36-669,espe1235-std,concepticon-1757,4.91,malvigla,"tired, weary",malvigla
+clics-doculect-36-670,espe1235-std,concepticon-168,4.912,ripozi,rest,ripozi
+clics-doculect-36-671,espe1235-std,concepticon-1564,4.92,pigra,lazy,pigra
+clics-doculect-36-672,espe1235-std,concepticon-1125,4.93,kalva,bald,kalva
+clics-doculect-36-673,espe1235-std,concepticon-320,4.94,lamanta,lame,lamanta
+clics-doculect-36-674,espe1235-std,concepticon-996,4.95,surda,deaf,surda
+clics-doculect-36-675,espe1235-std,concepticon-1666,4.96,muta,mute,muta
+clics-doculect-36-676,espe1235-std,concepticon-1653,4.97,blinda,blind,blinda
+clics-doculect-36-677,espe1235-std,concepticon-1653,4.97,blindigi,blind,blindigi
+clics-doculect-36-678,espe1235-std,concepticon-1653,4.97,kvazaŭblindigi,blind,kvazaublindigi
+clics-doculect-36-679,espe1235-std,concepticon-1463,4.98,ebria,intoxicated,ebria
+clics-doculect-36-680,espe1235-std,concepticon-1463,4.98,drinkinta,intoxicated,drinkinta
+clics-doculect-36-681,espe1235-std,concepticon-590,4.99,nuda,"naked, bare",nuda
+clics-doculect-36-682,espe1235-std,concepticon-269,5.121,kuirita,cooked,kuirita
+clics-doculect-36-683,espe1235-std,concepticon-178,5.123,matura,ripe,matura
+clics-doculect-36-684,espe1235-std,concepticon-1728,5.125,pusa,rotten,pusa
+clics-doculect-36-685,espe1235-std,concepticon-199,5.141,malabundo,famine,malabundo
+clics-doculect-36-686,espe1235-std,concepticon-199,5.141,manko,famine,manko
+clics-doculect-36-687,espe1235-std,concepticon-1421,5.16,ensorbi,suck,ensorbi
+clics-doculect-36-688,espe1235-std,concepticon-129,5.19,sufoki,choke,sufoki
+clics-doculect-36-689,espe1235-std,concepticon-2146,5.23,friti,"roast, fry",friti
+clics-doculect-36-690,espe1235-std,concepticon-2146,5.23,fritumi,"roast, fry",fritumi
+clics-doculect-36-691,espe1235-std,concepticon-183,5.24,baki,bake,baki
+clics-doculect-36-692,espe1235-std,concepticon-854,5.27,boligisto,kettle,boligisto
+clics-doculect-36-693,espe1235-std,concepticon-1530,5.33,pelveto,bowl,pelveto
+clics-doculect-36-694,espe1235-std,concepticon-1530,5.33,pelveto,bowl,pelveto
+clics-doculect-36-695,espe1235-std,concepticon-1530,5.33,globo,bowl,globo
+clics-doculect-36-696,espe1235-std,concepticon-1530,5.33,ampolo,bowl,ampolo
+clics-doculect-36-697,espe1235-std,concepticon-1526,5.41,manĝo,meal (a),mango
+clics-doculect-36-698,espe1235-std,concepticon-1322,5.42,matenmango,breakfast,matenmango
+clics-doculect-36-699,espe1235-std,concepticon-768,5.43,tagmanĝo,lunch,tagmango
+clics-doculect-36-700,espe1235-std,concepticon-1833,5.44,vespermanĝo,dinner,vespermango
+clics-doculect-36-701,espe1235-std,concepticon-275,5.46,elŝeligi,peel,elseligi
+clics-doculect-36-702,espe1235-std,concepticon-274,5.54,knedi,knead,knedi
+clics-doculect-36-703,espe1235-std,concepticon-1033,5.56,mueli,"crush, grind",mueli
+clics-doculect-36-704,espe1235-std,concepticon-1033,5.56,kontuzi,"crush, grind",kontuzi
+clics-doculect-36-705,espe1235-std,concepticon-636,5.57,muelilo,mill,muelilo
+clics-doculect-36-706,espe1235-std,concepticon-224,5.58,pistujo,mortar,pistujo
+clics-doculect-36-707,espe1235-std,concepticon-1547,5.64,supo,"soup, broth",supo
+clics-doculect-36-708,espe1235-std,concepticon-924,5.65,legomoj,vegetables,legomoj
+clics-doculect-36-709,espe1235-std,concepticon-191,5.77,boltingo,nut,boltingo
+clics-doculect-36-710,espe1235-std,concepticon-1154,5.78,olivo,olive,olivo
+clics-doculect-36-711,espe1235-std,concepticon-1524,5.92,vino,wine,vino
+clics-doculect-36-712,espe1235-std,concepticon-404,5.94,alkoholo,fermented drink,alkoholo
+clics-doculect-36-713,espe1235-std,concepticon-881,6.13,tajloro,tailor,tajloro
+clics-doculect-36-714,espe1235-std,concepticon-1616,6.21,kapabloj,cloth,kapabloj
+clics-doculect-36-715,espe1235-std,concepticon-964,6.22,lano,wool,lano
+clics-doculect-36-716,espe1235-std,concepticon-1850,6.24,kotonujo,cotton,kotonujo
+clics-doculect-36-717,espe1235-std,concepticon-1641,6.25,silko,silk,silko
+clics-doculect-36-718,espe1235-std,concepticon-325,6.27,felto,felt,felto
+clics-doculect-36-719,espe1235-std,concepticon-580,6.28,pelto,fur,pelto
+clics-doculect-36-720,espe1235-std,concepticon-580,6.28,haro,fur,haro
+clics-doculect-36-721,espe1235-std,concepticon-629,6.29,ledo,leather,ledo
+clics-doculect-36-722,espe1235-std,concepticon-277,6.32,fandita,spindle,fandita
+clics-doculect-36-723,espe1235-std,concepticon-133,6.33,teksi,weave,teksi
+clics-doculect-36-724,espe1235-std,concepticon-1457,6.35,kudri,sew,kudri
+clics-doculect-36-725,espe1235-std,concepticon-278,6.37,aleno,awl,aleno
+clics-doculect-36-726,espe1235-std,concepticon-157,6.39,tinkturi,dye,tinkturi
+clics-doculect-36-727,espe1235-std,concepticon-326,6.41,mantelo,cloak,mantelo
+clics-doculect-36-728,espe1235-std,concepticon-326,6.41,kitelo,cloak,kitelo
+clics-doculect-36-729,espe1235-std,concepticon-327,6.411,ponĉo,poncho,ponco
+clics-doculect-36-730,espe1235-std,concepticon-2012,6.45,kolumo,collar,kolumo
+clics-doculect-36-731,espe1235-std,concepticon-2012,6.45,kolrimeno,collar,kolrimeno
+clics-doculect-36-732,espe1235-std,concepticon-2012,6.45,kolringo,collar,kolringo
+clics-doculect-36-733,espe1235-std,concepticon-2012,6.45,ĉirkaŭkolo,collar,cirkaukolo
+clics-doculect-36-734,espe1235-std,concepticon-585,6.52,boto,boot,boto
+clics-doculect-36-735,espe1235-std,concepticon-2130,6.55,ĉapo,"hat, cap",capo
+clics-doculect-36-736,espe1235-std,concepticon-2130,6.55,bireto,"hat, cap",bireto
+clics-doculect-36-737,espe1235-std,concepticon-1151,6.59,vualo,veil,vualo
+clics-doculect-36-738,espe1235-std,concepticon-1029,6.72,juvelo,jewel,juvelo
+clics-doculect-36-739,espe1235-std,concepticon-1029,6.72,juveleto,jewel,juveleto
+clics-doculect-36-740,espe1235-std,concepticon-1860,6.76,grajnero,bead,grajnero
+clics-doculect-36-741,espe1235-std,concepticon-333,6.921,plektajˆo,braid,plektaj^o
+clics-doculect-36-742,espe1235-std,concepticon-151,6.93,razilo,razor,razilo
+clics-doculect-36-743,espe1235-std,concepticon-1926,6.94,ŝmirajo,ointment,smirajo
+clics-doculect-36-744,espe1235-std,concepticon-363,7.11,enloĝi,"dwell, live",enlogi
+clics-doculect-36-745,espe1235-std,concepticon-363,7.11,vivi,"dwell, live",vivi
+clics-doculect-36-746,espe1235-std,concepticon-1678,7.13,budo,hut,budo
+clics-doculect-36-747,espe1235-std,concepticon-1678,7.13,barako,hut,barako
+clics-doculect-36-748,espe1235-std,concepticon-1678,7.13,kabano,hut,kabano
+clics-doculect-36-749,espe1235-std,concepticon-736,7.15,jardo,"yard, court",jardo
+clics-doculect-36-750,espe1235-std,concepticon-736,7.15,konstruejo,"yard, court",konstruejo
+clics-doculect-36-751,espe1235-std,concepticon-1450,7.21,ĉambro,room,cambro
+clics-doculect-36-752,espe1235-std,concepticon-1567,7.22,kradpordo,"door, gate",kradpordo
+clics-doculect-36-753,espe1235-std,concepticon-1044,7.421,kuseno,pillow,kuseno
+clics-doculect-36-754,espe1235-std,concepticon-2131,7.45,fakelo,"lamp, torch",fakelo
+clics-doculect-36-755,espe1235-std,concepticon-745,7.47,bretaro,shelf,bretaro
+clics-doculect-36-756,espe1235-std,concepticon-205,7.48,trinkujo,trough,trinkujo
+clics-doculect-36-757,espe1235-std,concepticon-205,7.48,trinkokuvo,trough,trinkokuvo
+clics-doculect-36-758,espe1235-std,concepticon-1227,7.57,tabulo,board,tabulo
+clics-doculect-36-759,espe1235-std,concepticon-877,7.61,masonisto,mason,masonisto
+clics-doculect-36-760,espe1235-std,concepticon-212,8.12,kampo,field (for cultivation),kampo
+clics-doculect-36-761,espe1235-std,concepticon-212,8.12,kadro,field (for cultivation),kadro
+clics-doculect-36-762,espe1235-std,concepticon-1541,8.15,kultivi,"cultivate, till",kultivi
+clics-doculect-36-763,espe1235-std,concepticon-1541,8.15,kulturi,"cultivate, till",kulturi
+clics-doculect-36-764,espe1235-std,concepticon-1921,8.21,plugi,plow,plugi
+clics-doculect-36-765,espe1235-std,concepticon-337,8.26,forkego,fork,forkego
+clics-doculect-36-766,espe1235-std,concepticon-714,8.311,semo,seed,semo
+clics-doculect-36-767,espe1235-std,concepticon-190,8.32,falĉi,"mow, reap",falci
+clics-doculect-36-768,espe1235-std,concepticon-2132,8.33,falcilo,"sickle, scythe",falcilo
+clics-doculect-36-769,espe1235-std,concepticon-285,8.34,draŝi,thresh,drasi
+clics-doculect-36-770,espe1235-std,concepticon-223,8.35,draŝejo,threshing-floor,drasejo
+clics-doculect-36-771,espe1235-std,concepticon-223,8.35,farmokorto,threshing-floor,farmokorto
+clics-doculect-36-772,espe1235-std,concepticon-605,8.42,grajno,"grain (barley, oats etc)",grajno
+clics-doculect-36-773,espe1235-std,concepticon-1077,8.43,tritiko,wheat,tritiko
+clics-doculect-36-774,espe1235-std,concepticon-932,8.44,hordeo,barley,hordeo
+clics-doculect-36-775,espe1235-std,concepticon-23,8.45,sekalo,rye,sekalo
+clics-doculect-36-776,espe1235-std,concepticon-60,8.46,aveno,oats,aveno
+clics-doculect-36-777,espe1235-std,concepticon-653,8.53,planto,plant (noun),planto
+clics-doculect-36-778,espe1235-std,concepticon-1531,8.55,krifo,branch,krifo
+clics-doculect-36-779,espe1235-std,concepticon-1950,8.62,fago,beech,fago
+clics-doculect-36-780,espe1235-std,concepticon-1855,8.63,betulo,birch,betulo
+clics-doculect-36-781,espe1235-std,concepticon-343,8.67,vito,vine,vito
+clics-doculect-36-782,espe1235-std,concepticon-974,8.68,tabako,tobacco,tabako
+clics-doculect-36-783,espe1235-std,concepticon-1124,8.691,pipo,pipe,pipo
+clics-doculect-36-784,espe1235-std,concepticon-1204,8.75,arboŝelo,bark,arboselo
+clics-doculect-36-785,espe1235-std,concepticon-345,8.76,limfo,sap,limfo
+clics-doculect-36-786,espe1235-std,concepticon-970,8.82,kokoso,coconut,kokoso
+clics-doculect-36-787,espe1235-std,concepticon-1126,8.83,citrono,citrus fruit,citrono
+clics-doculect-36-788,espe1235-std,concepticon-1126,8.83,citruso,citrus fruit,citruso
+clics-doculect-36-789,espe1235-std,concepticon-159,8.91,batataipomeo,sweet potato,batataipomeo
+clics-doculect-36-790,espe1235-std,concepticon-410,8.912,batato,yam,batato
+clics-doculect-36-791,espe1235-std,concepticon-641,8.98,ĉampinjono,mushroom,campinjono
+clics-doculect-36-792,espe1235-std,concepticon-2575,9.11,fari,"do, make",fari
+clics-doculect-36-793,espe1235-std,concepticon-984,9.12,laboro,work,laboro
+clics-doculect-36-794,espe1235-std,concepticon-984,9.12,laboro,work,laboro
+clics-doculect-36-795,espe1235-std,concepticon-984,9.12,laboro,work,laboro
+clics-doculect-36-796,espe1235-std,concepticon-2004,9.14,klini,bend,klini
+clics-doculect-36-797,espe1235-std,concepticon-2004,9.14,mallevi,bend,mallevi
+clics-doculect-36-798,espe1235-std,concepticon-1917,9.16,vindi,"tie, bind",vindi
+clics-doculect-36-799,espe1235-std,concepticon-352,9.161,malnodi,untie,malnodi
+clics-doculect-36-800,espe1235-std,concepticon-2133,9.21,bati,"strike (hit, beat)",bati
+clics-doculect-36-801,espe1235-std,concepticon-2133,9.21,frapi,"strike (hit, beat)",frapi
+clics-doculect-36-802,espe1235-std,concepticon-2133,9.21,trafi,"strike (hit, beat)",trafi
+clics-doculect-36-803,espe1235-std,concepticon-2133,9.21,venki,"strike (hit, beat)",venki
+clics-doculect-36-804,espe1235-std,concepticon-356,9.24,ĉizojo,"scissors, shears",cizojo
+clics-doculect-36-805,espe1235-std,concepticon-588,9.261,rompita,broken,rompita
+clics-doculect-36-806,espe1235-std,concepticon-1449,9.31,froti,"rub, wipe",froti
+clics-doculect-36-807,espe1235-std,concepticon-214,9.32,streĉi,stretch,streci
+clics-doculect-36-808,espe1235-std,concepticon-1455,9.33,tiri,pull,tiri
+clics-doculect-36-809,espe1235-std,concepticon-357,9.341,pendigi,hang up,pendigi
+clics-doculect-36-810,espe1235-std,concepticon-357,9.341,moligi,hang up,moligi
+clics-doculect-36-811,espe1235-std,concepticon-357,9.341,pendigi,hang up,pendigi
+clics-doculect-36-812,espe1235-std,concepticon-1453,9.36,sinlavi,wash,sinlavi
+clics-doculect-36-813,espe1235-std,concepticon-1453,9.36,lavi,wash,lavi
+clics-doculect-36-814,espe1235-std,concepticon-230,9.37,ŝvabri,sweep,svabri
+clics-doculect-36-815,espe1235-std,concepticon-1042,9.43,lignometiisto,carpenter,lignometiisto
+clics-doculect-36-816,espe1235-std,concepticon-1501,9.46,alezi,bore,alezi
+clics-doculect-36-817,espe1235-std,concepticon-1501,9.46,tedi,bore,tedi
+clics-doculect-36-818,espe1235-std,concepticon-1501,9.46,enuigi,bore,enuigi
+clics-doculect-36-819,espe1235-std,concepticon-1648,9.62,amboso,anvil,amboso
+clics-doculect-36-820,espe1235-std,concepticon-211,9.63,kribri,cast (metals),kribri
+clics-doculect-36-821,espe1235-std,concepticon-211,9.63,eligi,cast (metals),eligi
+clics-doculect-36-822,espe1235-std,concepticon-211,9.63,ellasi,cast (metals),ellasi
+clics-doculect-36-823,espe1235-std,concepticon-627,9.68,bilardaekmovo,lead (noun),bilardaekmovo
+clics-doculect-36-824,espe1235-std,concepticon-627,9.68,plumbo,lead (noun),plumbo
+clics-doculect-36-825,espe1235-std,concepticon-358,9.69,stano,"tin, tinplate",stano
+clics-doculect-36-826,espe1235-std,concepticon-1399,9.73,argilo,clay,argilo
+clics-doculect-36-827,espe1235-std,concepticon-1979,9.84,ĉizilo,chisel,cizilo
+clics-doculect-36-828,espe1235-std,concepticon-647,9.88,pentrarto,paint (noun),pentrarto

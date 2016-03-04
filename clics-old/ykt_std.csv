@@ -1,0 +1,1451 @@
+@classification: Sino-Tibetan,Tibeto-Burman,Burmic,Ngwi,Southeastern
+@iso: ykt
+@language: Kathu
+@size: 1445
+@source: wold
+@variety: std
+1.1	world	aːndoydu
+1.21	earth, land	sir
+1.212	earth=ground, soil	buor
+1.213	dust	bɨːl
+1.213	dust	buor
+1.214	mud	badaraːn
+1.214	mud	bɨrɨː
+1.215	sand	kumaχ
+1.22	mountain, hill	χaya
+1.22	mountain, hill	mɨraːn
+1.22	mountain, hill	sɨːr
+1.222	cliff, precipice	χaya
+1.222	cliff, precipice	sɨːr
+1.23	plain, field	χonuː
+1.23	plain, field	sɨhɨː
+1.24	valley	χočo
+1.25	island	arɨː
+1.27	shore	kɨtɨː
+1.27	shore	kɨtɨl
+1.28	cave	χayaχaspaɣa
+1.31	water	uː
+1.32	sea	muora
+1.32	sea	bayɣal
+1.324	foam	küːgen
+1.329	ocean	akɨyaːn
+1.33	lake	küöl
+1.34	gulf, bay	χomo
+1.343	headland, point	tumus
+1.35	wave	dolgun
+1.36	river, stream, brook	örüs
+1.36	river, stream, brook	üreχ
+1.362	whirlpool	burulɣan
+1.37	spring, well	ʤüːkte
+1.37	spring, well	χoluoʤas
+1.38	swamp	kuta
+1.38	swamp	ʤebere
+1.38	swamp	ʤabara
+1.39	waterfall	kürülgen
+1.41	woods, forest	oyuːr
+1.41	woods, forest	tɨa
+1.43	wood	mas
+1.44	stone, rock	taːs
+1.45	earthquake	sirχamsaːhɨna
+1.51	sky	χallaːn
+1.52	sun	kün
+1.53	moon	ɨy
+1.54	star	sulus
+1.55	lightning	čaɣɨlɣan
+1.56	thunder	etiŋ
+1.57	lightning (as striking)	čaɣɨlɣan
+1.58	storm	buːrɣa
+1.58	storm	sillie
+1.59	rainbow	kustuk
+1.61	light (noun)	uot
+1.61	light (noun)	sɨrdɨk
+1.62	darkness	χaraŋa
+1.63	shade, shadow	külük
+1.64	dew	siːk
+1.71	air	salgɨn
+1.72	wind	tɨal
+1.73	cloud	bɨlɨt
+1.74	fog	tuman
+1.75	rain (noun)	ardaχ
+1.75	rain (noun)	samɨːr
+1.76	snow (noun)	χaːr
+1.77	ice	muːs
+1.78	weather	künʤɨl
+1.81	fire	uot
+1.82	flame (noun)	tölön
+1.83	smoke (noun)	buruo
+1.84	ashes	kül
+1.841	embers	čoχ
+1.851	burn (vb trans)	umat
+1.852	burn (vb intrans)	umay
+1.86	light, kindle, ignite	umat
+1.86	light, kindle, ignite	otun
+1.861	extinguish	umuruor
+1.87	match (noun)	ispiːske
+1.88	firewood	mas
+1.89	charcoal	čoχ
+2.1	person, human being	kihi
+2.21	man (vs. woman)	erkihi
+2.22	woman	ʤaχtar
+2.25	boy	uol
+2.25	boy	uoloɣo
+2.251	young man (adolescent)	uol
+2.251	young man (adolescent)	ederkihi
+2.26	girl	kɨːs
+2.26	girl	kɨːsoɣo
+2.261	young woman (adolescent)	kɨːs
+2.27	child	oɣo
+2.28	infant, baby	kɨhɨloɣo
+2.31	husband	kergen
+2.31	husband	oɣonɲor
+2.31	husband	er
+2.32	wife	kergen
+2.32	wife	emeːχsin
+2.32	wife	oyoχ
+2.33	marry	kergennen
+2.33	marry	kergentaɣɨs
+2.33	marry	ergebar
+2.33	marry	ɨalbuol
+2.34	marriage, wedding	sɨbaːyba
+2.34	marriage, wedding	χolbohuː
+2.34	marriage, wedding	uruː
+2.341	divorce	araχsɨː
+2.35	father	aɣa
+2.36	mother	iỹe
+2.37	parents	töröppütter
+2.41	son	uol
+2.42	daughter	kɨːs
+2.43	offspring (son or daughter)	oɣo
+2.43	offspring (son or daughter)	ɨččat
+2.444	older brother	biː
+2.444	older brother	ubay
+2.445	younger brother	ini
+2.445	younger brother	surus
+2.445	younger brother	bɨraːt
+2.454	older sister	eʤiːy
+2.454	older sister	aɣas
+2.455	younger sister	balɨs
+2.456	sibling	biːrgetöröːbütter
+2.458	twins	igireler
+2.46	grandfather	ehe
+2.461	old man	oɣonɲor
+2.47	grandmother	ebe
+2.471	old woman	emeːχsin
+2.48	grandson	sien
+2.49	granddaughter	sien
+2.51	uncle	ubay
+2.511	mother's brother	taːy
+2.512	father's brother	abaɣa
+2.52	aunt	eʤiːy
+2.521	mother's sister	taːyeʤiːy
+2.53	nephew	bɨraːt
+2.54	niece	balɨs
+2.55	cousin	bɨraːt
+2.55	cousin	balɨs
+2.56	ancestors	öbügeler
+2.56	ancestors	törüt
+2.57	descendants	ɨččat
+2.57	descendants	keskil
+2.61	father-in-law (of a man)	aɣakɨlɨn
+2.611	father-in-law (of a woman)	toyon
+2.62	mother-in-law (of a man)	iỹekɨlɨn
+2.621	mother-in-law (of a woman)	χotun
+2.63	son-in-law (of a man)	kütüöt
+2.631	son-in-law (of a woman)	kütüöt
+2.64	daughter-in-law (of a man)	kiỹiːt
+2.641	daughter-in-law (of a woman)	kiỹiːt
+2.71	stepfather	iːppitaɣa
+2.72	stepmother	maːčaχaiỹe
+2.72	stepmother	iːppitiỹe
+2.73	stepson	iːppituol
+2.74	stepdaughter	iːppitkɨːs
+2.75	orphan	tulaːyaχ
+2.76	widow	ogdoːbo
+2.77	widower	ogdoːbo
+2.81	relatives, kinsmen	uruːlar
+2.81	relatives, kinsmen	aymaχtar
+2.82	family	ɨal
+2.82	family	ʤon
+2.91	I	min
+2.92	you (singular)	en
+2.93	he/she/it	kini
+2.94	we	bihigi
+2.941	we (inclusive)	enbihikki
+2.95	you (plural)	ehigi
+2.96	they	kiniler
+3.11	animal	kɨːl
+3.12	male (adj)	atɨːr
+3.13	female (adj)	tɨhɨ
+3.15	livestock	süöhü
+3.16	pasture	meččireŋ
+3.18	herdsman	bostuːk
+3.18	herdsman	manɨːhɨt
+3.18	herdsman	ɨnaχsɨt
+3.18	herdsman	sɨlgɨhɨt
+3.19	stable, stall	χoton
+3.2	cattle (bovine)	ɨnaχsüöhü
+3.21	bull	oɣus
+3.22	ox	atoɣus
+3.23	cow	ɨnaχ
+3.24	calf	ɲirey
+3.24	calf	torbos
+3.35	pig	sibinɲe
+3.35	pig	čoːsku
+3.41	horse (equine)	sɨlgɨ
+3.41	horse (equine)	at
+3.42	stallion	atɨːr
+3.44	mare	bie
+3.45	foal, colt	kulun
+3.45	foal, colt	ubaha
+3.45	foal, colt	tɨy
+3.5	fowl	ʤiekötörö
+3.52	cock, rooster	bötüːk
+3.54	hen	kuːrussa
+3.55	chicken	čopuːska
+3.56	goose	χaːs
+3.57	duck	kus
+3.58	nest	uya
+3.581	bird	kötör
+3.581	bird	čɨːčaːχ
+3.582	seagull	χopto
+3.583	heron	kutan
+3.584	eagle	χotoy
+3.585	hawk	moχsoɣol
+3.591	bat	sarɨːkɨnat
+3.593	crow	turaːχ
+3.594	dove	χoluːp
+3.596	owl	mekčirge
+3.596	owl	χaχχan
+3.61	dog	ɨt
+3.614	rabbit	xoruoluk
+3.62	cat	kuoska
+3.63	mouse, rat	kutuyaχ
+3.65	fish	balɨk
+3.652	fin (dorsal)	lapčaːn
+3.653	fishscale	χatɨrɨk
+3.654	gill	χaỹɨː
+3.655	shell	χabaχaːta
+3.71	wolf	börö
+3.72	lion	χaχay
+3.73	bear	ehe
+3.73	bear	kɨrʤaɣastɨataːɣɨ
+3.74	fox	sahɨl
+3.74	fox	kɨrsa
+3.75	deer	kulaːhay
+3.78	camel	tebien
+3.81	insect	üön
+3.81	insect	üönköyüːr
+3.811	louse	bɨt
+3.812	nit (louse egg)	bɨtsaːɣa
+3.813	flea	bɨlaχɨ
+3.816	cockroach	tarakaːn
+3.817	ant	kɨmɨrdaɣas
+3.818	spider	oːɣuy
+3.818	spider	aːɣɨy
+3.819	spider web	oːɣuysitime
+3.82	bee	ɨŋɨrɨa
+3.822	beehive	ɨŋɨrɨauyata
+3.823	wasp	tɨgaːyɨ
+3.823	wasp	tigeːyi
+3.83	fly	saχsɨrɣa
+3.831	sandfly (midge), gnat	oŋoːyu
+3.831	sandfly (midge), gnat	kɨːmaːyɨ
+3.832	mosquito	bɨrdaχ
+3.832	mosquito	kumaːr
+3.84	worm	čierbe
+3.85	snake	moɣoy
+3.85	snake	erienüön
+3.92	butterfly	ürümečči
+3.93	grasshopper	ahɨŋa
+3.94	snail	čoχuχaːta
+3.95	frog	baɣa
+3.96	lizard	külgeri
+4.11	body	et
+4.12	skin, hide	tiriː
+4.13	flesh	et
+4.14	hair (head)	battaχ
+4.14	hair (head)	as
+4.142	beard	bɨtɨk
+4.144	body hair	tüː
+4.145	pubic hair	tüː
+4.146	dandruff	χoɣoho
+4.15	blood	χaːn
+4.151	vein, artery	tɨmɨr
+4.16	bone	uŋuoχ
+4.162	rib	oyoɣosuŋuoɣa
+4.17	horn	muos
+4.18	tail	kuturuk
+4.19	back	köɣüs
+4.191	spine	uorɣa
+4.191	spine	tonoɣos
+4.2	head	bas
+4.2	head	töbö
+4.201	side of head, temple	čečegey
+4.201	side of head, temple	čančɨk
+4.201	side of head, temple	čabɨrɣay
+4.202	skull	töböuŋuoɣa
+4.203	brain	meyiː
+4.204	face	sirey
+4.205	forehead	süːs
+4.207	jaw	sɨŋaːχ
+4.208	cheek	iedes
+4.209	chin	seŋiye
+4.21	eye	χaraχ
+4.212	eyebrow	χaːs
+4.213	eyelid	χaltaha
+4.214	eyelash	kɨlaman
+4.215	blink	čapčɨlɨy
+4.215	blink	čɨpčɨlɨy
+4.22	ear	kulgaːχ
+4.221	earlobe	kulgaːχeminɲeɣe
+4.222	earwax	kulgaːχχoɣohoto
+4.23	nose	murun
+4.231	nostril	tanɨː
+4.231	nostril	murunχayaɣaha
+4.232	mucus (nasal)	sɨːŋk
+4.24	mouth	aỹaχ
+4.241	beak	tumus
+4.25	lip	uos
+4.26	tongue	tɨl
+4.27	tooth	tiːs
+4.271	gums	miːle
+4.272	molartooth	balta
+4.28	neck	moːy
+4.281	nape of neck	arɣas
+4.281	nape of neck	sürün
+4.29	throat	küömey
+4.3	shoulder	sarɨn
+4.301	shoulderblade	sarɨnχaptaɣaya
+4.302	collarbone	χomurɣan
+4.31	arm	iliː
+4.312	armpit	χonnoχ
+4.32	elbow	toŋoloχ
+4.32	elbow	toɣonoχ
+4.321	wrist	begečček
+4.33	hand	iliː
+4.331	palm of hand	ɨtɨs
+4.34	finger	tarbaχ
+4.342	thumb	erbeχ
+4.344	fingernail	tɨŋɨraχ
+4.345	claw	tɨŋɨraχ
+4.35	leg	ataχ
+4.351	thigh	buːt
+4.352	calf of leg	sotobötöɣötö
+4.36	knee	tobuk
+4.37	foot	ulluŋaχ
+4.37	foot	ataχ
+4.371	ankle	berbeːkey
+4.372	heel	tileχ
+4.372	heel	tiŋileχ
+4.374	footprint	ataχsuola
+4.38	toe	tarbaχ
+4.392	wing	kɨnat
+4.393	feather	kuorsun
+4.4	chest	tüös
+4.41	breast (of woman)	emiːy
+4.412	nipple, teat	tumuk
+4.42	udder	emiːy
+4.43	navel	kiːn
+4.44	heart	süreχ
+4.441	lung	tɨŋa
+4.45	liver	bɨar
+4.451	kidney	büör
+4.452	spleen	taːl
+4.46	stomach	kurtaχ
+4.461	intestines, guts	ohoɣostor
+4.462	waist	biːl
+4.463	hip	öttük
+4.463	hip	ulluk
+4.464	buttocks	emehe
+4.47	womb	kieli
+4.47	womb	buom
+4.47	womb	matka
+4.49	testicle	tahaːχ
+4.49	testicle	sɨmɨːt
+4.492	penis	übüs
+4.51	breathe, breath	tɨːn
+4.52	yawn, gape	ʤaːhɨy
+4.521	hiccough	böt
+4.53	cough	sötölün
+4.54	sneeze	ɨtɨrt
+4.55	perspire	tirit
+4.56	spit	silleː
+4.57	vomit	χotuolaː
+4.58	bite	ɨtɨr
+4.59	lick	salaː
+4.591	dribble	sɨraːnnan
+4.61	sleep	utuy
+4.612	snore	χahɨŋɨraː
+4.62	dream	tüheː
+4.63	wake up	uhugun
+4.64	break wind	uturuktaː
+4.65	urinate	iːkteː
+4.66	defecate	saːχtaː
+4.67	have sexual intercourse	kɨar
+4.67	have sexual intercourse	kɨn
+4.68	shiver	ilibireː
+4.69	bathe	suːn
+4.71	beget (of father)	üösket
+4.71	beget (of father)	oŋor
+4.72	born (to be)	töröː
+4.73	pregnant	isteːχ
+4.73	pregnant	χat
+4.73	pregnant	ɨaraχan
+4.732	conceive	χatbuol
+4.732	conceive	isteːχbuol
+4.732	conceive	ɨaraχanbuol
+4.74	live, living, life	tɨːnnaːχ
+4.75	die, dead	öl
+4.751	drowned	uːgatüs
+4.76	kill	ölör
+4.77	corpse	ölük
+4.78	bury (the dead)	köm
+4.79	grave, tomb	kihiuŋuoɣa
+4.79	grave, tomb	iːn
+4.81	strong, mighty, powerful	küːsteːχ
+4.82	weak	möltöχ
+4.83	well, health	čegien
+4.84	sick, sickness	ɨalʤar
+4.841	fever	temperatura
+4.842	goiter	soɣuo
+4.842	goiter	ur
+4.843	cold (catarrh)	tɨmnɨyɨː
+4.85	wound, sore	baːs
+4.852	bruise	köɣörüː
+4.852	bruise	ölörünüː
+4.853	swelling	kuturguya
+4.854	itch	kɨhɨː
+4.855	blister	bɨhaaːllarbɨt
+4.855	blister	χabɨllantaχsɨbɨt
+4.856	boil (noun)	kuturguya
+4.857	pus	iriŋe
+4.858	scar	čer
+4.86	cure, heal	emteː
+4.87	physician	bɨraːs
+4.87	physician	emčit
+4.88	medicine, drug	emp
+4.89	poison	ʤaːt
+4.89	poison	sülühün
+4.91	tired, weary	sɨlaːybɨt
+4.912	rest	sɨnɲan
+4.92	lazy	süreɣesuoχ
+4.93	bald	taraɣay
+4.94	lame	doɣoloŋ
+4.95	deaf	ʤüley
+4.96	mute	tɨlasuoχ
+4.97	blind	balay
+4.97	blind	χaraɣasuoχ
+4.98	intoxicated	itirik
+4.99	naked, bare	sɨgɨnɲaχ
+5.11	eat	sie
+5.11	eat	ahaː
+5.12	food	as
+5.12	food	ahɨlɨk
+5.121	cooked	busput
+5.122	raw	siːkey
+5.123	ripe	busput
+5.123	ripe	sippit
+5.124	green, unripe	siːkey
+5.124	green, unripe	siteilik
+5.125	rotten	sɨtɨybɨt
+5.13	drink	is
+5.14	hunger	aččɨktaː
+5.141	famine	sut
+5.141	famine	χorguyuː
+5.15	thirst	utat
+5.16	suck	em
+5.18	chew	ɨstaː
+5.181	swallow	ɨỹɨhɨn
+5.19	choke	χar
+5.19	choke	čačay
+5.19	choke	tɨːnɨnχaːy
+5.21	cook	buhar
+5.22	boil (vb)	orguy
+5.23	roast, fry	ɨhaːrɨlaː
+5.23	roast, fry	horkuoydaː
+5.23	roast, fry	üt
+5.24	bake	buhar
+5.25	oven	ohoχ
+5.26	pot, cooking vessel	küös
+5.26	pot, cooking vessel	olguy
+5.26	pot, cooking vessel	algɨy
+5.26	pot, cooking vessel	čuguːn
+5.26	pot, cooking vessel	köstörüːle
+5.26	pot, cooking vessel	soluːr
+5.26	pot, cooking vessel	salɨːr
+5.27	kettle	čaːnɲɨk
+5.28	pan	χobordoːχ
+5.31	dish	bülüːde
+5.32	plate	terielke
+5.33	bowl	miːske
+5.33	bowl	taːs
+5.34	pitcher, jug	kupsuːn
+5.35	cup, drinking vessel	čaːskɨ
+5.36	saucer	bülüːhe
+5.37	spoon	luoska
+5.38	knife	bɨhaχ
+5.38	knife	biriːppe
+5.39	fork	biːlke
+5.391	tongs	sɨpsɨː
+5.41	meal (a)	asaːhɨn
+5.42	breakfast	čeydeː
+5.43	lunch	ebiet
+5.44	dinner	ebiet
+5.45	supper	čeydeː
+5.46	peel	ɨraːstaː
+5.46	peel	χaχtaː
+5.46	peel	χaɣɨlaː
+5.47	sieve, strain	siːdeleː
+5.48	scrape	aːl
+5.49	stir, mix	bulkuy
+5.51	bread	kiliep
+5.53	dough	tieste
+5.54	knead	mehiy
+5.55	meal, flour	burduk
+5.56	crush, grind	tart
+5.56	crush, grind	meliy
+5.57	mill	mieliŋse
+5.58	mortar	keliː
+5.61	meat	et
+5.63	sausage	χalbahɨ
+5.63	sausage	sasiska
+5.64	soup, broth	miːn
+5.65	vegetables	oɣuruotaha
+5.7	potato	χortuoska
+5.7	potato	χortuopuy
+5.77	nut	erieχe
+5.79	oil	masarɨːta
+5.791	grease, fat	sɨa
+5.81	salt	tuːs
+5.82	pepper	bieres
+5.84	honey	müöt
+5.85	sugar	saːχar
+5.86	milk (noun)	üːt
+5.87	milk (vb)	ɨa
+5.88	cheese	sɨːr
+5.89	butter	arɨː
+5.9	beverage, drink	utaχ
+5.92	wine	arɨgɨ
+5.93	beer	piːbe
+5.94	fermented drink	bɨraːga
+5.97	egg	sɨmɨːt
+5.971	egg yolk	sɨmɨːtuoɣaha
+5.971	egg yolk	sɨmɨːtaraɣaha
+6.11	put on (clothes)	ket
+6.11	put on (clothes)	taŋɨnnar
+6.12	clothing, clothes	taŋas
+6.13	tailor	iːstenɲeŋ
+6.21	cloth	taŋas
+6.22	wool	tüː
+6.24	cotton	siːdes
+6.25	silk	solko
+6.27	felt	boːlʤoχ
+6.28	fur	tüː
+6.29	leather	tiriː
+6.31	spin	ör
+6.31	spin	χat
+6.35	sew	tik
+6.35	sew	iːsten
+6.36	needle	inne
+6.37	awl	bürges
+6.38	thread	sap
+6.39	dye	kɨraːskalaː
+6.42	woman's dress	bɨlaːččɨya
+6.42	woman's dress	ɨrbaːχɨ
+6.43	coat	son
+6.43	coat	boltuo
+6.43	coat	saɣinɲaχ
+6.44	shirt	ɨrbaːχɨ
+6.44	shirt	saročka
+6.45	collar	saɣa
+6.46	skirt	ʤuːppa
+6.48	trousers	ɨstaːn
+6.48	trousers	bürüːke
+6.49	stocking, sock	čulku
+6.49	stocking, sock	čukku
+6.49	stocking, sock	naskɨ
+6.51	shoe	tüːppüle
+6.51	shoe	bačɨːnka
+6.52	boot	sappɨkɨ
+6.52	boot	untuː
+6.52	boot	eterbes
+6.54	shoemaker, cobbler	sappɨkɨhɨt
+6.55	hat, cap	seleːppe
+6.55	hat, cap	bergehe
+6.57	belt, girdle	kur
+6.58	glove	tarbaχütülük
+6.61	pocket	siep
+6.62	button	timeχ
+6.63	pin	bulaːpka
+6.71	ornament, adornment	kiergel
+6.71	ornament, adornment	simeχ
+6.72	jewel	kündütaːs
+6.72	jewel	kündümal
+6.73	ring (for finger)	külüːske
+6.73	ring (for finger)	bihileχ
+6.74	bracelet	böɣöχ
+6.75	necklace	χoruoŋka
+6.75	necklace	oɣuruo
+6.75	necklace	aɣɨrɨa
+6.76	bead	oɣuruo
+6.76	bead	aɣɨrɨa
+6.76	bead	χoruoŋka
+6.77	earring	ɨtarɣa
+6.78	headband, headdress	bɨlaːt
+6.78	headband, headdress	bastɨŋa
+6.81	handkerchief, rag	bɨlaːt
+6.82	towel	sottor
+6.91	comb	taraːχ
+6.92	brush	suokka
+6.921	braid	suhuoχ
+6.921	braid	sɨhɨaχ
+6.93	razor	biriːppe
+6.94	ointment	maːs
+6.94	ointment	oɣunuoχ
+6.94	ointment	aɣɨnɨaχ
+6.95	soap	mɨːla
+6.96	mirror	sierkele
+7.11	dwell, live	olor
+7.12	house	ʤie
+7.13	hut	üːteːn
+7.14	tent	balaːkka
+7.15	yard, court	olbuor
+7.15	yard, court	tiergen
+7.15	yard, court	telgehe
+7.17	cookhouse	χospoχ
+7.18	meeting house	kuluːp
+7.18	meeting house	sugulaːn
+7.21	room	χos
+7.22	door, gate	aːn
+7.221	doorpost, jamb	aːnsɨŋaːɣa
+7.221	doorpost, jamb	χoluoda
+7.23	lock (noun)	χataːhɨn
+7.23	lock (noun)	külüːs
+7.231	latch, door-bolt	χataːhɨn
+7.24	key	külüːstɨla
+7.25	window	tünnük
+7.26	floor	muosta
+7.27	wall	istiene
+7.27	wall	erkin
+7.31	fireplace	ohoχ
+7.31	fireplace	kömülüök
+7.32	stove	ohoχ
+7.33	chimney	turba
+7.33	chimney	üöles
+7.37	ladder	kirilies
+7.42	bed	oron
+7.421	pillow	sɨttɨk
+7.422	blanket	suorɣan
+7.43	chair	oloppos
+7.43	chair	ustuːl
+7.44	table	ostuol
+7.44	table	sandalɨ
+7.45	lamp, torch	laːmpa
+7.45	lamp, torch	banaːr
+7.46	candle	čümeči
+7.47	shelf	dolbuːr
+7.47	shelf	dalbɨːr
+7.48	trough	χoruːda
+7.51	roof	kɨrɨːsa
+7.51	roof	χoruobuya
+7.53	ridgepole	sis
+7.54	rafter	χoruobuyaataɣa
+7.55	beam	öhüö
+7.56	post, pole	ostuolba
+7.56	post, pole	baɣana
+7.57	board	χaptahɨn
+7.62	brick	kirpiːčče
+7.63	mortar	ispieske
+8.11	farmer	baːhɨnay
+8.12	field (for cultivation)	baːhɨna
+8.13	garden	oɣuruot
+8.15	cultivate, till	sirioŋor
+8.16	fence	kürüo
+8.17	ditch	χanaːba
+8.17	ditch	χoruː
+8.21	plow	χorut
+8.212	furrow	χorutuː
+8.22	dig	χas
+8.23	spade	kürʤeχ
+8.24	shovel	kürʤeχ
+8.25	hoe	bahɨmɲɨ
+8.26	fork	atɨrʤaχ
+8.27	rake	kɨraːbɨl
+8.31	sow	ɨs
+8.311	seed	sieme
+8.32	mow, reap	oɣus
+8.33	sickle, scythe	χotuːr
+8.34	thresh	sɨs
+8.34	thresh	astaː
+8.35	threshing-floor	kuːmna
+8.41	crop, harvest	üːnüː
+8.42	grain (barley, oats etc)	burduk
+8.43	wheat	seliehiney
+8.44	barley	ʤehimien
+8.44	barley	nečimien
+8.45	rye	oruos
+8.46	oats	ebies
+8.47	maize, corn	kukuruza
+8.48	rice	iriːs
+8.51	grass	ot
+8.52	hay	ot
+8.53	plant (noun)	üːneːyi
+8.531	plant (vb)	üːnner
+8.54	root	silis
+8.54	root	törüt
+8.55	branch	labaː
+8.55	branch	mutuk
+8.56	leaf	sebirdeχ
+8.57	flower	sibekki
+8.6	tree	mas
+8.61	oak	luːk
+8.63	birch	χatɨŋ
+8.64	pine	bes
+8.65	fir	χarɨya
+8.68	tobacco	tabaχ
+8.69	smoke (tobacco)	tabaχtaː
+8.69	smoke (tobacco)	tart
+8.691	pipe	χamsa
+8.691	pipe	gaŋsa
+8.72	tree stump	töŋürges
+8.72	tree stump	čöɣöčök
+8.73	tree trunk	umnas
+8.73	tree trunk	mas
+8.74	forked branch	ačaːχ
+8.75	bark	χatɨrɨk
+8.76	sap	sime
+8.97	nettle	χatɨːot
+8.97	nettle	ɨtɨrɨːkot
+8.98	mushroom	telley
+8.98	mushroom	kunaːχ
+9.11	do, make	gɨn
+9.12	work	üle
+9.14	bend	tokurut
+9.14	bend	ieχ
+9.15	fold	büktut
+9.16	tie, bind	baːy
+9.16	tie, bind	kelgiy
+9.161	untie	süör
+9.18	chain	sɨap
+9.19	rope, cord	bɨa
+9.192	knot (noun)	tümük
+9.21	strike (hit, beat)	oɣus
+9.21	strike (hit, beat)	kɨrbaː
+9.21	strike (hit, beat)	sɨs
+9.211	pound with fist	suturɣaː
+9.22	cut	bɨs
+9.221	cut down	kert
+9.222	chop, hew	χayɨt
+9.223	stab	bɨhaɣɨnanas
+9.23	knife	bɨhaχ
+9.24	scissors, shears	kɨptɨy
+9.25	ax	süge
+9.26	break	alʤat
+9.26	break	ültürüt
+9.261	broken	alʤammɨt
+9.261	broken	ültürüybüt
+9.27	split	χayɨt
+9.28	tear	χayatart
+9.29	flay, skin	tiriːtinsül
+9.31	rub, wipe	aːl
+9.32	stretch	uːnnar
+9.32	stretch	tenit
+9.33	pull	tart
+9.34	spread out	telget
+9.341	hang up	ɨyaː
+9.342	press	battaː
+9.343	squeeze, wring	ɨk
+9.35	pour	kut
+9.36	wash	suːy
+9.37	sweep	χarbaː
+9.38	broom	miːnɲik
+9.422	tool	sep
+9.43	carpenter	masuːha
+9.44	build	tut
+9.46	bore	üːtteː
+9.461	hollow out	χas
+9.48	saw	erbiː
+9.49	hammer	ötüye
+9.49	hammer	balta
+9.5	nail	tohoɣo
+9.56	glue	silim
+9.6	smith, blacksmith	timiruːha
+9.61	forge	taptay
+9.62	anvil	kɨstɨk
+9.63	cast (metals)	kut
+9.64	gold	kɨhɨlkömüs
+9.65	silver	ürüŋkömüs
+9.66	copper, bronze	altan
+9.67	iron	timir
+9.68	lead (noun)	sibinɲeːs
+9.69	tin, tinplate	ɲaːlbaːn
+9.71	potter	küösčüt
+9.72	mold (clay etc)	oŋor
+9.73	clay	tuoy
+9.74	glass	östüöküle
+9.74	glass	tünnükta:ha
+9.75	weave, plait	ör
+9.76	basket	korzina
+9.76	basket	tɨmtay
+9.771	rug	kumalaːn
+9.79	fan (noun)	sörüːketer
+9.791	fan (vb)	sapsɨn
+9.81	carve	bɨs
+9.84	chisel	čüːččü
+9.88	paint (noun)	kɨraːska
+9.88	paint (noun)	butuk
+9.89	paint (vb)	kɨraːskalaː
+9.89	paint (vb)	butuy
+10.11	move	χamsaː
+10.12	turn over	ergit
+10.12	turn over	χaỹɨs
+10.13	turn around	ergiy
+10.14	wind, wrap	suːlaː
+10.15	roll	tökünüt
+10.16	drop (vb)	tüher
+10.17	twist	eriy
+10.21	rise	taɣɨs
+10.21	rise	tur
+10.21	rise	ɨtɨn
+10.22	raise, lift	kötöχ
+10.23	fall	oɣun
+10.23	fall	tüs
+10.24	drip	tammalaː
+10.25	throw	bɨraχ
+10.25	throw	tamnaː
+10.252	catch (ball)	χap
+10.26	shake	saχsɨy
+10.32	flow	uhun
+10.33	sink	timir
+10.34	float	uhun
+10.35	swim	χarbaː
+10.35	swim	uhun
+10.351	dive	umus
+10.352	splash	ɨhɨaχtas
+10.352	splash	čalɨmnaː
+10.37	fly (vb)	köt
+10.38	blow	ür
+10.41	creep, crawl	sɨːl
+10.412	kneel	tobuktan
+10.413	crouch	čoχčoy
+10.42	slide, slip	χaltarɨy
+10.43	jump, leap	ɨstan
+10.43	jump, leap	oy
+10.431	kick	tep
+10.44	dance	üŋküːleː
+10.45	walk	χaːmp
+10.451	limp	doɣoloŋnoː
+10.46	run	süːr
+10.47	go	sɨrɨt
+10.471	go up	taɣɨs
+10.471	go up	dabay
+10.472	climb	ɨtɨn
+10.473	go down	tüs
+10.474	go out	taɣɨs
+10.48	come	kel
+10.481	come back	tönün
+10.49	go away, depart	bar
+10.491	disappear	süt
+10.51	flee	kuot
+10.52	follow	batɨs
+10.53	pursue	soyuolaː
+10.53	pursue	sayɨalaː
+10.55	reach, arrive	kel
+10.56	approach	čugahaː
+10.57	enter	kiːr
+10.61	carry (bear)	ilt
+10.612	carry-in-hand	ilt
+10.613	carry-on-shoulder	sük
+10.615	carry-underarm	kɨbɨn
+10.62	bring	aɣal
+10.63	send	ɨːt
+10.64	lead (vb)	siet
+10.65	drive	ɨːt
+10.66	ride	miːn
+10.67	push, shove	as
+10.71	road	suol
+10.72	path	ɨllɨk
+10.74	bridge	muosta
+10.74	bridge	kürbe
+10.74	bridge	kürge
+10.75	carriage, wagon, cart	teliege
+10.76	wheel	kölüöhe
+10.77	axle	kiːn
+10.77	axle	sis
+10.77	axle	uos
+10.78	yoke	burɣalʤɨ
+10.81	ship	χaraːbɨl
+10.81	ship	borokuot
+10.83	boat	tɨː
+10.83	boat	oŋočo
+10.84	raft	aːl
+10.85	oar	erdiː
+10.852	row (vb)	ert
+10.86	rudder	uruːl
+10.87	mast	mačta
+10.88	sail (noun)	baːrɨs
+10.89	anchor	ʤaːkɨr
+10.91	harbor, port	port
+10.92	land (vb)	tigis
+10.92	land (vb)	tüs
+11.13	take	ɨl
+11.14	seize, grasp	tut
+11.15	hold	tut
+11.16	get, obtain	tut
+11.17	keep, retain	χaːllar
+11.18	thing	mal
+11.21	give	bier
+11.22	give back	tönnör
+11.24	preserve, look after	χaray
+11.24	preserve, look after	χarɨstaː
+11.25	save, rescue	bɨːhaː
+11.25	save, rescue	örühüy
+11.25	save, rescue	abɨraː
+11.27	destroy	alʤat
+11.28	harm, injure, damage	alʤat
+11.31	seek, look for	kördöː
+11.32	find	bul
+11.33	lose	süter
+11.34	release, let go	ɨːt
+11.43	money	χarčɨ
+11.44	coin	manɨat
+11.51	rich	baːy
+11.52	poor	ʤadaŋɨ
+11.53	beggar	umnahɨt
+11.53	beggar	ʤadaŋɨ
+11.53	beggar	kumalan
+11.54	avaricious, stingy	keččegey
+11.61	lend	ieheː
+11.61	lend	ularɨs
+11.62	borrow	iesɨl
+11.62	borrow	ularɨs
+11.63	owe	iesteːχ
+11.64	debt	ies
+11.65	pay (vb)	tölöː
+11.66	account, reckoning	suot
+11.69	tax, tribute	noluok
+11.77	hire	naymɨlaː
+11.78	wages	χamnas
+11.79	earn	ölör
+11.81	buy	atɨːlas
+11.81	buy	ɨl
+11.82	sell	atɨːlaː
+11.83	trade, barter	atastas
+11.84	merchant	atɨːhɨt
+11.85	market (place)	ɨrɨːnak
+11.86	store, shop	maɣahɨːn
+11.86	store, shop	laːppɨ
+11.87	price	sɨana
+11.88	dear (costly, expensive)	ɨaraχan
+11.89	cheap	čepčeki
+11.91	share (distribute)	beris
+11.92	weigh	ɨyaː
+12.11	place	sir
+12.12	put	uːr
+12.13	sit	olor
+12.14	lie down	sɨt
+12.15	stand	tur
+12.16	remain, stay	χaːl
+12.17	remains, left overs	toboχ
+12.21	collect, gather	χomuy
+12.21	collect, gather	mus
+12.212	pick up	ɨl
+12.213	pile up	čömöχtöː
+12.22	join, unite	χolboː
+12.23	separate	araːr
+12.232	divide	üller
+12.24	open	as
+12.24	open	arɨy
+12.25	shut, close	sap
+12.26	cover	sap
+12.26	cover	bürüy
+12.27	hide, conceal	kisteː
+12.31	high	ürdük
+12.32	low	namɨhaχ
+12.33	top	töbö
+12.33	top	oroy
+12.33	top	ürüt
+12.34	bottom	tügeχ
+12.34	bottom	alɨn
+12.35	end	uhuk
+12.352	pointed	uhuktaːχ
+12.353	edge	kɨtɨː
+12.36	side	örüt
+12.37	middle, center	orto
+12.37	middle, center	kiːn
+12.41	right (side)	uŋa
+12.42	left (side)	χaŋas
+12.42	left (side)	saŋas
+12.43	near (adv)	čugas
+12.44	far (adv)	ɨraːχ
+12.45	east	ilin
+12.46	west	arɣaː
+12.47	north	χotu
+12.48	south	soɣuruː
+12.53	grow	üːn
+12.54	measure	kemneː
+12.55	large, big	ulaχan
+12.55	large, big	bödöŋ
+12.56	small, little	kɨra
+12.56	small, little	kɨččɨgɨy
+12.56	small, little	bɨčɨkaːn
+12.57	long	uhun
+12.58	tall	ürdük
+12.59	short	kɨlgas
+12.61	wide, broad	kieŋ
+12.61	wide, broad	ketit
+12.62	narrow	kɨaraɣas
+12.62	narrow	sinɲiges
+12.63	thick (in dimension)	χalɨŋ
+12.65	thin (in dimension)	čaraːs
+12.67	deep	diriŋ
+12.68	shallow	čɨčaːs
+12.71	flat	χaptaɣay
+12.73	straight	könö
+12.74	crooked	tokur
+12.75	hook	köχö
+12.76	corner	munnuk
+12.77	cross	kiries
+12.78	square	tüörtmunnuk
+12.81	round	tögürük
+12.82	circle	tögürük
+12.84	line	suraːhɨn
+12.85	hole	χayaɣas
+12.85	hole	üːt
+12.85	hole	teheɣes
+12.92	like, similar	maːrɨnnaː
+12.93	change	ularɨy
+12.93	change	ularɨt
+13.1	one	uon
+13.101	eleven	uonbiːr
+13.102	twelve	uonikki
+13.103	fifteen	uonbies
+13.104	twenty	süːrbe
+13.105	hundred	süːs
+13.106	thousand	tɨhɨːnča
+13.107	count	aːχ
+13.107	count	suottaː
+13.14	every, all	barɨ
+13.15	much, many	elbeχ
+13.15	much, many	ügüs
+13.17	little (quantity), few	aɣɨyaχ
+13.18	enough	söp
+13.181	some	soroχ
+13.181	some	χasdaγanï
+13.19	multitude, crowd	ʤon
+13.21	full	toloru
+13.22	empty	iččiteχ
+13.22	empty	kuraːnaχ
+13.23	part, piece	ireːt
+13.23	part, piece	čaːs
+13.24	half	aŋar
+13.33	alone, only	soɣotoχ
+13.34	first	maŋnaygɨ
+13.34	first	bastakɨ
+13.35	last	bütehik
+13.35	last	tiheχ
+13.36	second	ikkis
+13.37	pair	paːra
+13.38	two times	ikkitögül
+13.38	two times	ikkite
+13.42	third	ühüs
+13.44	three times	üstögül
+13.44	three times	üste
+14.11	time	birieme
+14.11	time	kem
+14.12	age	saːs
+14.13	new	saŋa
+14.14	young	eder
+14.15	old	erge
+14.15	old	kɨrʤaɣas
+14.16	early	erde
+14.17	late	χoyut
+14.18	now	biligin
+14.19	immediately	sibiligin
+14.21	swift, fast, quick	türgennik
+14.22	slow	bɨtaːnnɨk
+14.23	hasten, hurry	ɨksaː
+14.23	hasten, hurry	tietey
+14.24	retard, delay	χoyutaː
+14.25	begin, beginning	saɣalaː
+14.26	end (temporal)	bütehik
+14.26	end (temporal)	bütüː
+14.27	finish	büter
+14.28	cease, stop	toχtoː
+14.28	cease, stop	toχtot
+14.29	ready	belem
+14.31	always	naːr
+14.31	always	kuruːk
+14.31	always	melʤi
+14.32	often	melʤi
+14.32	often	naːr
+14.32	often	kuruːk
+14.33	sometimes	ardɨgar
+14.331	soon	sotoru
+14.332	long-time (for a)	ör
+14.34	never	χahanda
+14.35	again	emie
+14.41	day	kün
+14.42	night	tüːn
+14.43	dawn	tɨŋ
+14.44	morning	sarsɨarda
+14.45	noon, midday	künortoto
+14.451	afternoon	ebietkennitten
+14.46	evening	kiehe
+14.47	today	bügün
+14.48	tomorrow	sarsɨn
+14.481	day-after-tomorrow	öyüːn
+14.49	yesterday	beɣehe
+14.491	day-before-yesterday	illereːkün
+14.51	hour	čaːs
+14.53	clock, timepiece	čahɨ
+14.61	week	nediele
+14.62	Sunday	öröbül
+14.63	Monday	benidienɲik
+14.64	Tuesday	optuorunɲuk
+14.65	Wednesday	serede
+14.66	Thursday	čeppier
+14.67	Friday	beːtinse
+14.68	Saturday	subuota
+14.71	month	ɨy
+14.73	year	sɨl
+14.73	year	ʤɨl
+14.74	winter	kɨhɨn
+14.75	spring	saːs
+14.76	summer	sayɨn
+14.77	autumn	kühün
+14.78	season	ʤɨl
+15.21	smell (vb intrans)	aŋɨlɨy
+15.21	smell (vb intrans)	sɨttan
+15.212	sniff	sɨtɨrɣaː
+15.22	smell (vb trans)	sɨtɨbil
+15.25	fragrant, good smelling	üčügeysɨttaːχ
+15.25	fragrant, good smelling	minɲigessɨttaːχ
+15.26	stinking, bad smelling	sɨtɨgan
+15.26	stinking, bad smelling	kuhaɣansɨttaːχ
+15.35	sweet	minɲiges
+15.36	salty	tuːstaːχ
+15.37	bitter	ahɨː
+15.38	acid, sour	ahɨː
+15.39	brackish	ahɨŋas
+15.41	hear	ihit
+15.42	listen	ihit
+15.44	sound, noise	tɨas
+15.45	loud	ulaχan
+15.46	quiet, silence	čuːmpu
+15.51	see	kör
+15.52	look, look at	kör
+15.55	show	kördör
+15.56	shine	sɨrdat
+15.57	bright	čaɣɨlχay
+15.61	color	öŋ
+15.62	light (in color)	sɨrdɨk
+15.63	dark (in color)	χaraŋa
+15.64	white	maɣan
+15.64	white	ürüŋ
+15.65	black	χara
+15.66	red	kɨhɨl
+15.67	blue	χallaːnküöχ
+15.68	green	otküöχ
+15.69	yellow	saharχay
+15.69	yellow	araɣas
+15.71	touch	tɨːt
+15.712	pinch	kɨmaːχtaː
+15.712	pinch	kɨmɨstaː
+15.72	feel	bil
+15.74	hard	kɨtaːnaχ
+15.75	soft	sɨmnaɣas
+15.76	rough	χatɨːlaːχ
+15.77	smooth	deχsi
+15.77	smooth	könö
+15.78	sharp	sɨtɨː
+15.79	blunt, dull	sɨppaχ
+15.81	heavy	ɨaraχan
+15.82	light (in weight)	čepčeki
+15.83	wet, damp	ɨnčaɣay
+15.83	wet, damp	inčegey
+15.83	wet, damp	sɨtɨybɨt
+15.84	dry	kuraːnaχ
+15.85	hot	itiː
+15.85	hot	kuyaːs
+15.851	warm	sɨlaːs
+15.851	warm	ičiges
+15.86	cold	tɨmnɨː
+15.87	clean	ɨraːs
+15.88	dirty, soiled	kirdeːχ
+15.89	wrinkled	kumalammɨt
+15.89	wrinkled	mɨrčɨstaɣas
+16.11	soul, spirit	kut
+16.11	soul, spirit	sür
+16.15	surprised, astonished	sohuybut
+16.18	good fortune, luck	sorgu
+16.18	good fortune, luck	ʤol
+16.19	misfortune, bad luck	sor
+16.23	joyful, glad, happy	ʤolloːχ
+16.23	joyful, glad, happy	üörbüt
+16.25	laugh	kül
+16.251	smile	mičeːrde
+16.26	play	oːnɲoː
+16.27	love	taptaː
+16.29	kiss	uːraː
+16.29	kiss	sɨllaː
+16.3	embrace	kuːs
+16.31	pain	ɨarɨː
+16.31	pain	ʤarɣa
+16.32	grief, sorrow, sadness	sanaː
+16.32	grief, sorrow, sadness	sanaːrɣaːhɨn
+16.33	anxiety, worry	türülüön
+16.33	anxiety, worry	süpsülgen
+16.34	regret, be sorry	kemsin
+16.34	regret, be sorry	ahɨy
+16.35	pity	ahɨnɨː
+16.37	cry, weep	ɨtaː
+16.37	cry, weep	soŋoː
+16.38	tear (noun)	χaraχuːta
+16.39	groan	ɨnčɨktaː
+16.41	hate	abaːhɨkör
+16.42	anger	uor
+16.44	envy, jealousy	künüː
+16.44	envy, jealousy	ɨmsɨːrɨː
+16.45	shame (noun)	saːt
+16.48	proud	kientut
+16.51	dare	erɨl
+16.51	dare	erdiy
+16.52	brave	χorsun
+16.53	fear, fright	kuttal
+16.54	danger	kuttal
+16.62	desire, want	baɣar
+16.622	choose	tal
+16.63	hope	eren
+16.65	faithful	erelleːχ
+16.66	true	ʤiŋneːχ
+16.67	lie, tell lies	sɨmɨyalaː
+16.68	deceit	sɨmɨya
+16.69	forgive	bɨrastɨːgɨn
+16.71	good	üčügey
+16.71	good	ütüö
+16.72	bad	kuhaɣan
+16.72	bad	ʤaːbɨ
+16.73	right, correct	söptöːχ
+16.74	wrong	sɨːha
+16.76	fault	buruy
+16.77	mistake, error	sɨːha
+16.78	blame	seme
+16.79	praise	χayɣal
+16.81	beautiful	kɨrahɨabay
+16.81	beautiful	kere
+16.82	ugly	büre
+16.83	greedy	keččegey
+16.83	greedy	iŋseleːχ
+16.83	greedy	ɨmsɨː
+16.84	clever	öydöːχ
+17.11	mind	öy
+17.13	think (= reflect)	sanaː
+17.13	think (= reflect)	tolkuydaː
+17.15	believe	iteɣey
+17.16	understand	öydöː
+17.17	know	bil
+17.171	guess	taːy
+17.172	imitate	ütügün
+17.18	seem	bɨhɨːlaːχ
+17.19	idea, notion	sanaː
+17.21	wise	öydöːχ
+17.21	wise	muːdaray
+17.22	foolish, stupid	akaːrɨ
+17.23	insane, crazy	iːreːki
+17.24	learn	üören
+17.242	study	üören
+17.25	teach	üöret
+17.26	pupil	üöreneːčči
+17.27	teacher	učuːtal
+17.27	teacher	üöreteːčči
+17.28	school	oskuola
+17.31	remember	öydöː
+17.32	forget	umun
+17.34	clear, plain	ʤeŋke
+17.34	clear, plain	čuolkay
+17.35	obscure	munaːχ
+17.36	secret	kisteleŋ
+17.37	sure, certain	saːrbaɣasuoχ
+17.38	explain	bɨhaːr
+17.41	intention, purpose	sɨal
+17.41	intention, purpose	soruk
+17.42	cause	törüöt
+17.42	cause	sɨltaχ
+17.43	doubt	munaːχsɨyɨː
+17.43	doubt	saːrbaχ
+17.44	suspect	uorbalaː
+17.44	suspect	kütüreː
+17.441	betray	taŋnar
+17.45	need, necessity	kɨhalɣa
+17.46	easy	čepčeki
+17.47	difficult	ɨaraχan
+17.48	try, attempt	Asataː
+17.49	way, manner	ɲɨma
+17.51	and	uonna
+17.53	if	buollar
+17.54	or	duːduː
+17.54	or	ebeter
+17.56	no, negative	suoχ
+17.61	how?	χaydaχ
+17.62	how many?	χas
+17.62	how many?	töhö
+17.63	how much?	töhö
+17.63	how much?	χas
+17.64	what?	tuoχ
+17.65	when?	χahan
+17.66	where?	χanna
+17.67	which?	χannɨk
+17.68	who?	kim
+17.69	why?	toɣo
+18.11	voice	saŋa
+18.12	sing	ɨllaː
+18.13	shout, cry out	χahɨːtaː
+18.15	whisper	sibiginey
+18.16	mumble	botuguraː
+18.17	whistle	ihiːr
+18.17	whistle	ühüːr
+18.18	shriek, screech	časkɨy
+18.19	howl	uluy
+18.21	speak, talk	saŋar
+18.21	speak, talk	kepset
+18.211	stutter, stammer	keleɣeydeː
+18.211	stutter, stammer	tardɨalat
+18.22	say	et
+18.22	say	die
+18.221	tell story	kepseː
+18.221	tell story	sehergeː
+18.222	speech (make a)	tɨlet
+18.23	silent (be)	čuːmpur
+18.24	language	tɨl
+18.26	word	tɨl
+18.28	name	aːt
+18.31	ask (question, inquire)	ɨyɨt
+18.32	answer	eppietteː
+18.32	answer	χoruydaː
+18.33	admit, confess	bilin
+18.34	deny	melʤes
+18.35	ask, request	kördöː
+18.36	promise	tɨlbier
+18.37	refuse	akkaːstaː
+18.38	forbid	bop
+18.38	forbid	buoy
+18.39	rebuke, scold	möχ
+18.41	call (=summon)	ɨŋɨr
+18.42	call (=name)	aːttaː
+18.43	announce	biller
+18.44	threaten	saːn
+18.45	boast	kihirgeː
+18.51	write	suruy
+18.52	read	aːχ
+18.56	paper	kumaːɣɨ
+18.57	pen	uruːčka
+18.61	book	kinige
+18.72	drum	barabaːn
+18.72	drum	düŋür
+19.11	country	doydu
+19.12	one's native country	töröːbütdoydu
+19.15	city, town	kuorat
+19.16	village	böhüölek
+19.16	village	deriebine
+19.17	boundary	kɨranɨːssa
+19.17	boundary	bɨːs
+19.21	people (populace)	omuk
+19.21	people (populace)	ʤon
+19.23	tribe, clan	uːs
+19.24	chief, chieftain	toyon
+19.24	chief, chieftain	bahɨlɨk
+19.25	staff, walking stick	tayaχ
+19.31	rule, govern	salay
+19.32	king, ruler	ɨraːχtaːɣɨ
+19.33	queen	χotunɨraːχtaːɣɨ
+19.41	master	toyon
+19.42	slave	kulut
+19.43	servant	čaɣar
+19.43	servant	χamnaččɨt
+19.45	command, order	birikeːsteː
+19.46	obey	ihit
+19.46	obey	basberin
+19.47	let, permit	köŋülleː
+19.51	friend, companion	doɣor
+19.51	friend, companion	atas
+19.52	enemy	östöːχ
+19.54	neighbor	ɨal
+19.55	stranger	kimebillibetkihi
+19.56	guest	ɨalʤɨt
+19.56	guest	χonoho
+19.57	host	ičči
+19.58	help, aid	kömölös
+19.59	hinder, prevent	meheydeː
+19.59	hinder, prevent	χargɨstaː
+19.61	custom	üges
+19.62	strife, quarrel	iːrseːn
+19.62	strife, quarrel	etihiː
+19.63	conspiracy, plot	kiksiː
+19.65	meet	körsüs
+19.72	prostitute	seleːrčeχ
+20.11	fight (vb)	oχsus
+20.11	fight (vb)	seriːles
+20.13	war, battle	seriː
+20.14	peace	eye
+20.15	army	seriː
+20.17	soldier	sallaːt
+20.21	weapons, arms	seriːsebe
+20.24	bow	saː
+20.25	arrow	oχ
+20.26	spear	üŋüː
+20.27	sword	bolot
+20.28	gun, cannon	saː
+20.31	armor (defensive)	kuỹaχ
+20.35	fortress	kirieppes
+20.41	victory	kɨayɨː
+20.42	defeat	χottoruː
+20.43	attack	ataːka
+20.44	defend	kömüskeː
+20.45	retreat	čuguy
+20.46	surrender	beren
+20.47	captive, prisoner	bilienney
+20.471	guard, sentinel	χarabɨl
+20.49	ambush	tohuːr
+20.51	fisherman	balɨksɨt
+20.52	fishhook	küögü
+20.54	fishnet	ilim
+20.55	fish trap	tuː
+20.56	bait	meŋie
+20.61	hunt	bultaː
+20.62	shoot	ɨt
+20.63	miss (target)	sɨːs
+20.64	trap (noun)	χapkaːn
+20.64	trap (noun)	čaːrkaːn
+20.64	trap (noun)	tuhaχ
+20.64	trap (noun)	soχso
+20.65	trap (vb)	χapkaːnnaː
+20.65	trap (vb)	čaːrkaːnnaː
+20.65	trap (vb)	tuhaχtaː
+20.65	trap (vb)	soχsoloː
+21.11	law	sokuon
+21.15	court	suːt
+21.16	judge (vb)	uːr
+21.17	judgment	uːraχ
+21.18	judge (noun)	suʤuya
+21.21	plaintiff	irdeːčči
+21.22	defendant	eppietteːčči
+21.23	witness	tuohu
+21.23	witness	kerehit
+21.24	swear	andaɣay
+21.25	oath	andaɣar
+21.31	accuse	buruydaː
+21.32	condemn	uːr
+21.33	convict (vb)	uːr
+21.34	acquit	bɨːhaː
+21.35	guilty	buruydaːχ
+21.36	innocent	buruyasuoχ
+21.38	fine	ɨstaraːp
+21.39	prison, jail	χaːyɨː
+21.42	murder	ölörüː
+21.43	adultery	körsüː
+21.44	rape	küːhüleː
+21.46	arson	uottaːhɨn
+21.47	perjury	sɨmɨyatuohu
+21.51	steal	uor
+21.52	thief	uoruyaχ

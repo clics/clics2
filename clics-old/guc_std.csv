@@ -1,0 +1,960 @@
+@classification: Arawakan,Maipuran,Northern Maipuran,Caribbean
+@ids-name: Goajiro_Phonemic
+@iso: guc
+@language: Wayuu
+@size: 953
+@source: ids
+@variety: std
+1.21	earth, land	mma
+1.212	earth=ground, soil	mmooľuʔu
+1.214	mud	pootši
+1.215	sand	hasai
+1.22	mountain, hill	uuči
+1.23	plain, field	patahatšii
+1.27	shore	paľaaima
+1.28	cave	koʔušii
+1.31	water	wɨin
+1.32	sea	paľaa
+1.324	foam	hɨtoľoin
+1.35	wave	hɨšipaľaa
+1.36	river, stream, brook	wɨinpaľatɨsɨ
+1.37	spring, well	iši
+1.39	waterfall	hɨšor̃oľoinwɨin
+1.41	woods, forest	mohuui
+1.42	tree (cf 08.600)	wunuʔuľia
+1.43	wood	wunuʔu
+1.44	stone, rock	ipa
+1.51	sky	aituʔu
+1.52	sun	kaʔi
+1.53	moon	kaši
+1.54	star	šɨľiwaľa
+1.55	lightning	hɨyaahuya
+1.56	thunder	atɨttaahuya
+1.57	lightning (as striking)	haʔapɨľaʔɨhuya
+1.59	rainbow	kasipoľuin
+1.61	light (noun)	hɨwar̃aľa
+1.62	darkness	puyuuši
+1.63	shade, shadow	hamɨyouši
+1.63	shade, shadow	hɨyoľuha
+1.64	dew	hoohotši
+1.72	wind	houtai
+1.73	cloud	sir̃uma
+1.74	fog	ľuuwana
+1.75	rain (noun)	huya
+1.81	fire	siki
+1.82	flame (noun)	hɨčuwaľa
+1.83	smoke (noun)	sikamɨsaľa
+1.84	ashes	paľiiʔi
+1.84	ashes	paľiʔi
+1.841	embers	sikemeča
+1.851	burn (vb trans)	aʔahaa
+1.852	burn (vb intrans)	hotoo
+1.86	light, kindle, ignite	ačuwahaaaa
+1.88	firewood	siki
+1.89	charcoal	mɨšaiša
+2.1	person, human being	wayuu
+2.21	man (vs. woman)	wayuutooľo
+2.22	woman	wayuuhier̃ɨ
+2.23	male	tooľo
+2.24	female	hier̃ɨ
+2.25	boy	tepiči
+2.251	young man (adolescent)	himaʔai
+2.26	girl	tepiči
+2.261	young woman (adolescent)	mahayɨľɨ
+2.27	child	hintɨi
+2.28	infant, baby	hoʔuu
+2.31	husband	huʔwayuuse
+2.32	wife	nuʔwayuuse
+2.33	marry	kaʔwayuusee
+2.35	father	taši
+2.36	mother	tei
+2.38	married man	kaʔwayuuseši
+2.39	married woman	kaʔwayuusesɨ
+2.41	son	tačon
+2.42	daughter	tačon
+2.43	offspring (son or daughter)	tačon
+2.44	brother	tawaľa
+2.444	older brother	tapaya
+2.445	younger brother	temɨľia
+2.45	sister	tawaľa
+2.454	older sister	tapaya
+2.455	younger sister	tašunuu
+2.456	sibling	tawaľa
+2.458	twins	sankeyuu
+2.46	grandfather	tatuuši
+2.461	old man	wayuutooľoľaɨľaa
+2.47	grandmother	toušu
+2.471	old woman	wayuuhier̃ɨľaɨľaa
+2.48	grandson	taľɨin
+2.49	granddaughter	taľɨin
+2.511	mother's brother	taľaɨľa
+2.512	father's brother	taši
+2.521	mother's sister	taaʔir̃ɨ
+2.522	father's sister	tei
+2.53	nephew	tačon
+2.54	niece	tačon
+2.55	cousin	tawaľa
+2.57	descendants	tačonni
+2.61	father-in-law (of a man)	tašimia
+2.611	father-in-law (of a woman)	taɨi
+2.62	mother-in-law (of a man)	temešu
+2.621	mother-in-law (of a woman)	taɨľɨ
+2.63	son-in-law (of a man)	tašimia
+2.631	son-in-law (of a woman)	taiši
+2.64	daughter-in-law (of a man)	taɨľɨ
+2.641	daughter-in-law (of a woman)	taɨľɨ
+2.71	stepfather	tašiyaaši
+2.72	stepmother	teiyaasɨ
+2.73	stepson	tačonyaaši
+2.74	stepdaughter	tačonyaasɨ
+2.75	orphan	mooʔutši
+2.81	relatives, kinsmen	kasatanain
+2.91	I	taya
+2.92	you (singular)	pia
+2.93	he/she/it	nia
+2.94	we	waya
+2.95	you (plural)	hia
+2.96	they	naya
+2.96	they	hiair̃ua
+3.11	animal	mɨr̃ɨľɨ
+3.12	male (adj)	tooľo
+3.13	female (adj)	hier̃ɨ
+3.15	livestock	mɨr̃ɨľɨ
+3.16	pasture	mohuui
+3.18	herdsman	mekeer̃ɨ
+3.21	bull	tooľo
+3.23	cow	hier̃ɨ
+3.24	calf	čon
+3.26	ram	tooľo
+3.28	ewe	hier̃ɨ
+3.29	lamb	čon
+3.34	sow	hier̃ɨ
+3.35	pig	tooľo
+3.36	goat	hier̃ɨ
+3.37	he-goat	tooľo
+3.38	kid	čon
+3.41	horse (equine)	ama
+3.42	stallion	ama
+3.44	mare	amahier̃ɨ
+3.45	foal, colt	amačon
+3.5	fowl	wɨčii
+3.52	cock, rooster	kotoľeer̃a
+3.54	hen	hier̃ɨ
+3.55	chicken	čon
+3.58	nest	huʔuľawɨčii
+3.583	heron	waaľa
+3.585	hawk	wor̃oľopai
+3.586	vulture	samuľu
+3.591	bat	pɨsiči
+3.592	parrot	kaľekaľe
+3.594	dove	moʔuwa
+3.596	owl	wonkuľunseer̃ɨ
+3.614	rabbit	atpanaa
+3.622	opossum	kačapouľu
+3.63	mouse, rat	kookoočeʔer̃ɨ
+3.65	fish	hime
+3.652	fin (dorsal)	hɨtɨnahime
+3.653	fishscale	hoihime
+3.661	shark	pɨyɨi
+3.662	porpoise, dolphin	hiotsa
+3.664	stingray	atša
+3.72	lion	wasaši
+3.74	fox	waľir̃ɨ
+3.75	deer	ir̃ama
+3.76	monkey	huči
+3.81	insect	wɨčii
+3.811	louse	mapɨi
+3.812	nit (louse egg)	mapɨišuku
+3.813	flea	hayapa
+3.814	centipede	hasipa
+3.815	scorpion	heyuľu
+3.816	cockroach	kanser̃ai
+3.817	ant	heyu
+3.818	spider	aľeker̃ɨ
+3.819	spider web	huʔuľaaľeker̃ɨ
+3.82	bee	mapa
+3.821	beeswax	mapase
+3.822	beehive	hipiamapa
+3.83	fly	hir̃apɨ
+3.831	sandfly (midge), gnat	šipe
+3.832	mosquito	mei
+3.84	worm	wɨľiuuna
+3.85	snake	wɨi
+3.91	firefly	kenaa
+3.92	butterfly	huľir̃ɨ
+3.93	grasshopper	akaľa
+3.95	frog	wasiipunuu
+3.96	lizard	kuľu
+3.97	crocodile, alligator	kayuuši
+3.98	turtle	saʔwainr̃ɨ
+4.11	body	akuaippa
+4.12	skin, hide	tata
+4.13	flesh	teʔir̃uku
+4.14	hair (head)	waľaši
+4.142	beard	taľiima
+4.144	body hair	toi
+4.145	pubic hair	tayutku
+4.15	blood	išaa
+4.15	blood	taša
+4.151	vein, artery	tasɨľa
+4.16	bone	hiipɨ
+4.162	rib	tawatse
+4.17	horn	toʔuwa
+4.18	tail	hɨsi
+4.19	back	tasapɨ
+4.191	spine	tasapɨipɨse
+4.2	head	tekii
+4.203	brain	tekiišoľoin
+4.204	face	toʔupɨnaa
+4.205	forehead	teʔipoʔu
+4.207	jaw	tawaľaipɨse
+4.208	cheek	tawaľapaʔa
+4.209	chin	taľiaise
+4.21	eye	toʔu
+4.212	eyebrow	taľamaľoʔu
+4.213	eyelid	hɨtatoʔu
+4.214	eyelash	tar̃ɨľɨ
+4.215	blink	ačimir̃aaoʔu
+4.22	ear	tačeʔe
+4.221	earlobe	hɨkačer̃atačeʔe
+4.222	earwax	hɨhɨtačeʔe
+4.23	nose	teʔiči
+4.231	nostril	teʔičir̃uʔu
+4.232	mucus (nasal)	tašunuľa
+4.24	mouth	taanɨkɨ
+4.241	beak	hiʔiči
+4.25	lip	teimata
+4.26	tongue	tayee
+4.27	tooth	tai
+4.271	gums	hiʔir̃ukutai
+4.28	neck	tanuľu
+4.281	nape of neck	tanutpaʔa
+4.29	throat	tamɨľa
+4.3	shoulder	tatɨnakii
+4.301	shoulderblade	taľepia
+4.302	collarbone	taľumase
+4.31	arm	tatɨna
+4.312	armpit	tatɨnaľuʔu
+4.32	elbow	tasataľa
+4.321	wrist	tahapɨkii
+4.33	hand	tahapɨ
+4.331	palm of hand	tahaapaʔa
+4.34	finger	tahapir̃a
+4.342	thumb	houšutahapir̃a
+4.344	fingernail	tapatoʔuša
+4.345	claw	hɨpatoʔu
+4.35	leg	tasaʔa
+4.351	thigh	tapɨʔɨ
+4.352	calf of leg	tasɨise
+4.36	knee	tasapain
+4.37	foot	touui
+4.372	heel	hiineʔetouui
+4.374	footprint	touuičikanain
+4.38	toe	hɨpačir̃atouui
+4.392	wing	hɨtɨna
+4.393	feather	hoi
+4.4	chest	taaʔintoʔu
+4.41	breast (of woman)	tačir̃a
+4.412	nipple, teat	hikiitačir̃a
+4.42	udder	hɨčir̃aʔɨ
+4.43	navel	tašoʔo
+4.44	heart	taaʔin
+4.441	lung	tasoso
+4.45	liver	tapana
+4.451	kidney	tačɨʔɨ
+4.452	spleen	taamɨteʔese
+4.46	stomach	taľeʔe
+4.461	intestines, guts	tayɨľain
+4.462	waist	taseʔer̃uʔupɨnaa
+4.463	hip	taseʔewain
+4.464	buttocks	teinaľuʔu
+4.47	womb	tačonuľa
+4.49	testicle	tašɨʔɨ
+4.492	penis	teera
+4.51	breathe, breath	asanaľaawaa
+4.52	yawn, gape	ohuhaawaa
+4.521	hiccough	hɨʔɨhɨʔɨi
+4.53	cough	oonohoo
+4.54	sneeze	ašouhaa
+4.55	perspire	ker̃aa
+4.56	spit	ehetaa
+4.57	vomit	eetaa
+4.58	bite	ohottaa
+4.59	lick	eʔer̃ataa
+4.591	dribble	kaľuuľa
+4.61	sleep	atunkaa
+4.612	snore	kokoľoinwaa
+4.62	dream	ľapɨ
+4.63	wake up	ačihir̃aawaa
+4.64	break wind	sɨsir̃a
+4.64	break wind	asitaa
+4.65	urinate	ašiitaa
+4.66	defecate	ačiitaa
+4.67	have sexual intercourse	asikaa
+4.68	shiver	oohoo
+4.69	bathe	oʔoohoo
+4.72	born (to be)	hemeiwaa
+4.73	pregnant	ipuoľu
+4.732	conceive	ipuoľuu
+4.74	live, living, life	kataaoʔu
+4.75	die, dead	outaa
+4.78	bury (the dead)	ohoitaa
+4.81	strong, mighty, powerful	katčinši
+4.82	weak	mapɨľɨsai
+4.82	weak	mapɨľɨsaľɨ
+4.84	sick, sickness	ayuuiši
+4.84	sick, sickness	ayuuisɨ
+4.841	fever	tuttaa
+4.843	cold (catarrh)	šunuui
+4.85	wound, sore	taľiou
+4.853	swelling	our̃uľaa
+4.854	itch	sutuu
+4.856	boil (noun)	hɨkačɨʔɨľa
+4.857	pus	hɨhɨ
+4.858	scar	hɨsipaľa
+4.86	cure, heal	anaa
+4.87	physician	eiyahɨi
+4.87	physician	eiyahɨľɨ
+4.88	medicine, drug	wunuʔu
+4.89	poison	wunuʔu
+4.91	tired, weary	mapɨsaši
+4.91	tired, weary	mapɨsasɨ
+4.912	rest	emer̃aawaa
+4.92	lazy	hiaľapɨi
+4.92	lazy	hiaľapɨľɨ
+4.93	bald	moikiiči
+4.93	bald	moikiir̃ɨ
+4.95	deaf	mačeʔesai
+4.95	deaf	mačeʔesaľɨ
+4.96	mute	manɨisai
+4.96	mute	manɨisaľɨ
+4.97	blind	moʔusai
+4.98	intoxicated	epetši
+4.99	naked, bare	maičesai
+4.99	naked, bare	maičesaľɨ
+5.11	eat	ekaa
+5.12	food	ekɨɨľɨ
+5.121	cooked	aľakahaauši
+5.122	raw	iaši
+5.122	raw	iasɨ
+5.123	ripe	hakɨtɨši
+5.124	green, unripe	wɨitɨsɨ
+5.125	rotten	ittɨsɨ
+5.13	drink	asa
+5.14	hunger	hamɨ
+5.141	famine	hamɨ
+5.15	thirst	wɨniasɨ
+5.15	thirst	wɨɲasɨ
+5.16	suck	atuʔľa
+5.18	chew	akɨnɨha
+5.181	swallow	emir̃aľa
+5.21	cook	aľakahawaa
+5.22	boil (vb)	apoľoho
+5.23	roast, fry	asiha
+5.26	pot, cooking vessel	wušu
+5.26	pot, cooking vessel	totse
+5.27	kettle	siwar̃ai
+5.34	pitcher, jug	huľaa
+5.37	spoon	aľepɨ
+5.38	knife	r̃ɨi
+5.38	knife	tar̃ɨľia
+5.41	meal (a)	akɨɨľɨ
+5.46	peel	ašotoho
+5.47	sieve, strain	asata
+5.48	scrape	oho
+5.49	stir, mix	ačokohowaa
+5.55	meal, flour	sawa
+5.56	crush, grind	ačueta
+5.57	mill	tamoľohia
+5.58	mortar	ipatamoľohia
+5.59	pestle	iper̃a
+5.61	meat	asaľa
+5.64	soup, broth	waa
+5.64	soup, broth	hir̃a
+5.66	bean	kepešuna
+5.712	bunch	hɨsima
+5.78	olive	ir̃uwa
+5.81	salt	iči
+5.821	chili pepper	haši
+5.84	honey	mapa
+5.87	milk (vb)	aľičaha
+5.9	beverage, drink	asɨši
+5.94	fermented drink	asɨšihašɨɨsɨ
+5.97	egg	šuku
+6.11	put on (clothes)	aanawaa
+6.12	clothing, clothes	tašeein
+6.21	cloth	kuľuľu
+6.24	cotton	mawɨi
+6.29	leather	ta
+6.31	spin	ouuta
+6.32	spindle	sutta
+6.33	weave	aina
+6.35	sew	ayapɨha
+6.36	needle	wɨtia
+6.37	awl	tasaihia
+6.38	thread	sipata
+6.39	dye	ahɨha
+6.55	hat, cap	uomu
+6.57	belt, girdle	siir̃a
+6.72	jewel	kakuna
+6.74	bracelet	tahapɨna
+6.75	necklace	taɨľihana
+6.77	earring	čeʔesa
+6.79	tattoo	tese
+6.91	comb	pasɨta
+6.921	braid	atuľa
+6.96	mirror	r̃ouya
+7.11	dwell, live	kepia
+7.12	house	piči
+7.12	house	miči
+7.26	floor	mmoľuʔu
+7.27	wall	hɨsepɨ
+7.31	fireplace	tɨľikir̃uu
+7.42	bed	touľa
+7.421	pillow	tekiipaľa
+7.422	blanket	tanaľa
+7.43	chair	tayupaľa
+7.51	roof	hahunapiči
+7.53	ridgepole	hikiipaľapiči
+7.54	rafter	hutuhunapiči
+7.56	post, pole	hɨsaa
+8.11	farmer	katiai
+8.12	field (for cultivation)	apain
+8.15	cultivate, till	katia
+8.16	fence	kuľaľa
+8.17	ditch	uľuwou
+8.22	dig	apoto
+8.22	dig	apono
+8.311	seed	waɨye
+8.311	seed	hɨɨ
+8.34	thresh	amaʔľiha
+8.41	crop, harvest	atie
+8.42	grain (barley, oats etc)	hɨɨ
+8.47	maize, corn	maiki
+8.51	grass	wɨitši
+8.53	plant (noun)	mohuui
+8.531	plant (vb)	aľaha
+8.54	root	hur̃aľa
+8.55	branch	hɨtɨna
+8.56	leaf	hɨpana
+8.57	flower	hɨsi
+8.6	tree	huuuľiawɨr̃aiči
+8.68	tobacco	yɨi
+8.69	smoke (tobacco)	akamɨha
+8.72	tree stump	wunuʔukii
+8.73	tree trunk	hɨsaʔawunuʔu
+8.75	bark	hɨta
+8.76	sap	hir̃a
+8.76	sap	hɨhɨ
+8.81	palm tree	kuľuwaľa
+8.91	sweet potato	haiši
+8.92	tapioca, manioc, cassava	ai
+8.93	gourd	amuľu
+8.931	pumpkin, squash	wɨir̃ɨ
+8.94	bamboo	paľua
+8.98	mushroom	mašuka
+9.11	do, make	aainha
+9.12	work	ayatawaa
+9.14	bend	ašokoľo
+9.15	fold	ašatawaa
+9.16	tie, bind	ehitawaa
+9.161	untie	asiwata
+9.19	rope, cord	kapɨľeta
+9.21	strike (hit, beat)	ayata
+9.211	pound with fist	ašeeta
+9.22	cut	ačotowaa
+9.221	cut down	akutuha
+9.222	chop, hew	ayɨľɨha
+9.223	stab	asoto
+9.23	knife	r̃ɨi
+9.24	scissors, shears	paľousa
+9.25	ax	poľu
+9.26	break	ašatawaa
+9.261	broken	ašataauši
+9.27	split	awakata
+9.28	tear	ačatata
+9.29	flay, skin	ašotoho
+9.31	rub, wipe	aľuuľa
+9.32	stretch	ayur̃uľa
+9.33	pull	aaɨta
+9.34	spread out	awayaľa
+9.341	hang up	akačer̃a
+9.342	press	ačečer̃aahɨʔta
+9.343	squeeze, wring	ačueta
+9.35	pour	aľaaľa
+9.36	wash	ašihawaa
+9.37	sweep	epitaha
+9.38	broom	tepitahia
+9.422	tool	tayataya
+9.44	build	akuyamaha
+9.46	bore	ototo
+9.46	bore	otoho
+9.461	hollow out	akouha
+9.56	glue	takɨľahia
+9.72	mold (clay etc)	atɨka
+9.73	clay	pootši
+9.74	glass	r̃ouya
+9.75	weave, plait	atuľa
+9.79	fan (noun)	tawawahia
+9.791	fan (vb)	awawaha
+9.83	statue	tayakua
+10.11	move	ansɨľawaa
+10.12	turn over	ohunta
+10.13	turn around	aľeyata
+10.14	wind, wrap	akooľo
+10.15	roll	apaľapaľa
+10.16	drop (vb)	hɨšipir̃a
+10.17	twist	ayɨľetawaa
+10.21	rise	ayaľer̃awaa
+10.22	raise, lift	ayaľer̃a
+10.23	fall	ohutuwaa
+10.24	drip	ašipir̃a
+10.25	throw	ohuta
+10.252	catch (ball)	ohupata
+10.26	shake	ootohowaa
+10.32	flow	apar̃aľa
+10.33	sink	emer̃oto
+10.34	float	asamaľa
+10.35	swim	katɨna
+10.351	dive	emeta
+10.352	splash	atɨtɨita
+10.37	fly (vb)	awata
+10.38	blow	ohuha
+10.41	creep, crawl	aľamaha
+10.412	kneel	asapainka
+10.413	crouch	aikaľawaa
+10.42	slide, slip	ačɨčɨnahawaa
+10.43	jump, leap	awata
+10.431	kick	ašeetahɨkaouuľi
+10.44	dance	ayonnaha
+10.451	limp	šankata
+10.46	run	awatawaa
+10.47	go	ouna
+10.471	go up	aľɨka
+10.472	climb	aľɨka
+10.473	go down	ašakata
+10.48	come	anta
+10.481	come back	aľeeha
+10.49	go away, depart	ouna
+10.491	disappear	amɨľouľi
+10.51	flee	aľuwatawaa
+10.53	pursue	eipir̃a
+10.55	reach, arrive	asaʔwata
+10.56	approach	ar̃ɨtkawaa
+10.57	enter	eker̃oľo
+10.61	carry (bear)	aľɨɨha
+10.612	carry-in-hand	kahapɨipa
+10.613	carry-on-shoulder	kasapɨľuhuna
+10.614	carry-on-head	kar̃aľahuna
+10.615	carry-underarm	katɨnaľuhuna
+10.62	bring	antir̃a
+10.63	send	ahɨta
+10.65	drive	ounir̃a
+10.66	ride	keehena
+10.67	push, shove	ohutahɨčiki
+10.71	road	wopu
+10.74	bridge	pata
+10.83	boat	anuwa
+10.831	canoe	anuwa
+10.87	mast	hɨkaľapuuise
+10.88	sail (noun)	wɨnia
+11.11	have	ka
+11.12	own, possess	kamaana
+11.13	take	apawaa
+11.14	seize, grasp	ataɨľa
+11.16	get, obtain	kamɨni
+11.17	keep, retain	anahawaa
+11.18	thing	kasa
+11.21	give	apa
+11.22	give back	aľeehir̃a
+11.24	preserve, look after	ainmaha
+11.27	destroy	asouľaha
+11.28	harm, injure, damage	kewainwa
+11.31	seek, look for	ačahawaa
+11.32	find	ousita
+11.33	lose	amɨľouľihuľia
+11.34	release, let go	ahɨta
+11.51	rich	wašir̃ɨ
+11.52	poor	mohuši
+11.52	poor	mohusɨ
+11.53	beggar	ohuľehɨi
+11.53	beggar	ohuľehɨľɨ
+11.54	avaricious, stingy	heiyei
+11.54	avaricious, stingy	heiyer̃ɨ
+11.61	lend	aanapahir̃a
+11.62	borrow	aanapaha
+11.63	owe	kohuyaľa
+11.64	debt	tohuyaľa
+11.65	pay (vb)	awaľaha
+11.78	wages	tahɨin
+11.79	earn	a
+11.81	buy	ayaľaha
+11.82	sell	oika
+11.83	trade, barter	awanawaa
+11.85	market (place)	oikaľe
+11.87	price	hɨľia
+11.88	dear (costly, expensive)	kohutuši
+11.88	dear (costly, expensive)	kohutusɨ
+11.89	cheap	hayaši
+11.89	cheap	hayasɨ
+11.91	share (distribute)	eitaha
+12.1	after	mapa
+12.1	after	hɨčikihe
+12.11	place	hɨčir̃ua
+12.2	beside	haatou
+12.3	down, below	wɨnapɨna
+12.4	before	paaľa
+12.41	right (side)	hɨpɨľer̃ua
+12.5	inside, in	huľuʔu
+12.6	outside	anuipaa
+12.7	under	huyupɨna
+12.8	up, above	hau
+12.8	up, above	ipɨna
+12.12	put	eitawaa
+12.13	sit	aikaľawaa
+12.14	lie down	otoľir̃awaa
+12.15	stand	ašaʔwaľawaa
+12.16	remain, stay	makata
+12.17	remains, left overs	hɨppɨhɨpɨtanahaľa
+12.21	collect, gather	akočir̃a
+12.212	pick up	aimaka
+12.213	pile up	eeminaha
+12.22	join, unite	epeipahir̃awaa
+12.23	separate	akataľa
+12.24	open	ohutaľa
+12.25	shut, close	asɨľɨhawaa
+12.26	cover	akooľo
+12.27	hide, conceal	onhuľa
+12.31	high	wattapɨi
+12.32	low	pehepɨi
+12.32	low	pehepɨľɨ
+12.33	top	hɨr̃aľou
+12.34	bottom	hinaľuu
+12.35	end	hahattia
+12.352	pointed	šɨišɨiši
+12.352	pointed	šɨišɨisɨ
+12.353	edge	hoľu
+12.36	side	hɨyatapaa
+12.37	middle, center	pasanainhɨnain
+12.42	left (side)	epeer̃uu
+12.43	near (adv)	pehe
+12.44	far (adv)	wata
+12.45	east	wɨinpumɨin
+12.46	west	wopumɨin
+12.47	north	paľaamɨin
+12.48	south	učumɨin
+12.53	grow	mɨľewaa
+12.54	measure	ayawaha
+12.541	span, fathom	tɨna
+12.55	large, big	mɨľeu
+12.56	small, little	motsayɨi
+12.56	small, little	motsayɨľɨ
+12.57	long	mɨľeu
+12.58	tall	wattapɨi
+12.58	tall	wattapɨľɨ
+12.59	short	motsaši
+12.59	short	motsasɨ
+12.61	wide, broad	her̃uľu
+12.62	narrow	meuiši
+12.62	narrow	meuisɨ
+12.63	thick (in dimension)	ľaɨta
+12.65	thin (in dimension)	pasanuaši
+12.65	thin (in dimension)	pasanuasɨ
+12.67	deep	keinotši
+12.67	deep	keinotsɨ
+12.68	shallow	epetši
+12.68	shallow	epetsɨ
+12.73	straight	ľotuši
+12.73	straight	ľotusɨ
+12.74	crooked	šokotši
+12.74	crooked	šokotsɨ
+12.76	corner	hɨyooin
+12.81	round	ľakayaši
+12.81	round	ľakayasɨ
+12.82	circle	ľakayaši
+12.82	circle	ľakayasɨ
+12.83	sphere, ball	kooyoši
+12.83	sphere, ball	kooyosɨ
+12.85	hole	hou
+12.92	like, similar	mɨšiaka
+12.92	like, similar	mɨsɨaka
+12.93	change	eir̃ata
+13.0	zero, nothing	nnohoiši
+13.0	zero, nothing	nnohotsɨ
+13.1	one	wane
+13.2	two	piama
+13.3	three	apɨnɨin
+13.4	four	pieinči
+13.5	five	har̃ai
+13.6	six	aipir̃ua
+13.7	seven	akar̃aiši
+13.8	eight	mekisaľɨ
+13.9	nine	mekieetasaľɨ
+13.10	ten	poľo
+13.101	eleven	poľowanešwanešimɨin
+13.102	twelve	poľopiamamɨin
+13.103	fifteen	poľoha'r̃aľimɨin
+13.104	twenty	piamahikihiki
+13.105	hundred	poľohiki
+13.106	thousand	poľotuapoľooinhiki
+13.107	count	ayawaha
+13.14	every, all	hɨpɨšuaaľeeya
+13.15	much, many	mainma
+13.16	more	haamɨin
+13.17	little (quantity), few	paľitši
+13.17	little (quantity), few	paľitsɨ
+13.21	full	wotuši
+13.21	full	wotusɨ
+13.22	empty	maľuʔusai
+13.22	empty	maľuʔusoľu
+13.23	part, piece	haata
+13.24	half	hɨseer̃uupɨna
+13.34	first	paľahana
+13.35	last	hahattia
+13.38	two times	piantua
+13.44	three times	apɨnɨintua
+14.11	time	hɨkaľia
+14.12	age	touyase
+14.13	new	hekeči
+14.13	new	heketɨ
+14.14	young	himaai
+14.14	young	mahayɨľɨ
+14.15	old	ľaɨľa
+14.16	early	maľɨ
+14.16	early	pehetši
+14.17	late	kamaa
+14.18	now	hoľuu
+14.19	immediately	mata
+14.22	slow	hiattaaya
+14.23	hasten, hurry	ašpahawaa
+14.24	retard, delay	kamaawaa
+14.25	begin, beginning	otta
+14.26	end (temporal)	hahaʔtia
+14.27	finish	ahaʔtta
+14.28	cease, stop	ašaʔwaľawaa
+14.29	ready	yapaši
+14.29	ready	yapasɨ
+14.31	always	winši
+14.332	long-time (for a)	kakaľia
+14.35	again	hɨčikuaaya
+14.41	day	kaʔi
+14.42	night	hawai
+14.45	noon, midday	kaľeukaʔi
+14.451	afternoon	aľika
+14.47	today	hoʔukaʔikatɨ
+14.48	tomorrow	wattaa
+14.481	day-after-tomorrow	wattaamɨin
+14.49	yesterday	wattaainka
+14.71	month	kaši
+14.73	year	huya
+14.74	winter	huyapɨ
+14.76	summer	hamouľu
+15.21	smell (vb intrans)	kehuwa
+15.22	smell (vb trans)	aaľaehu
+15.25	fragrant, good smelling	hemetaehu
+15.26	stinking, bad smelling	hawaisɨ
+15.31	taste	ouľakaehɨ
+15.35	sweet	pɨsiasɨ
+15.36	salty	paľasɨ
+15.37	bitter	išisɨ
+15.38	acid, sour	hašɨɨsɨ
+15.39	brackish	hawataľeer̃ɨ
+15.41	hear	apa
+15.42	listen	apa
+15.44	sound, noise	episana
+15.45	loud	kepisanaseyusu
+15.46	quiet, silence	yɨɨtɨhiwaa
+15.51	see	er̃a
+15.52	look, look at	eir̃akawaa
+15.55	show	eiata
+15.56	shine	hor̃otta
+15.57	bright	hor̃ottɨsɨ
+15.61	color	ata
+15.61	color	ouu
+15.64	white	kasutoľu
+15.64	white	kasuwouľu
+15.65	black	mɨtsia
+15.65	black	menasɨ
+15.66	red	išosɨ
+15.66	red	išitoľu
+15.67	blue	wɨitɨsɨ
+15.68	green	wɨitɨsɨ
+15.69	yellow	maľoukatɨsɨ
+15.71	touch	otpɨľawaa
+15.712	pinch	asɨɨta
+15.74	hard	čečesɨ
+15.75	soft	haľehtsɨ
+15.76	rough	yaľayaľasɨ
+15.77	smooth	sinatɨsɨ
+15.78	sharp	kasasɨ
+15.79	blunt, dull	masasaľɨ
+15.81	heavy	hawatɨsɨ
+15.82	light (in weight)	hamamasɨ
+15.83	wet, damp	čɨtsɨ
+15.83	wet, damp	čɨľɨhisɨ
+15.84	dry	hososɨ
+15.85	hot	haisɨ
+15.85	hot	payutsɨ
+15.86	cold	samatɨsɨ
+15.87	clean	wɨľesɨ
+15.88	dirty, soiled	yar̃ɨttɨsɨ
+15.89	wrinkled	hir̃uttɨsɨ
+16.11	soul, spirit	ainwa
+16.18	good fortune, luck	anaakuwaipa
+16.19	misfortune, bad luck	mohuakuwaipa
+16.23	joyful, glad, happy	taľatɨsɨ
+16.25	laugh	asɨr̃eha
+16.251	smile	akuľemer̃awaa
+16.26	play	šaita
+16.27	love	aiwaapɨľa
+16.29	kiss	ousaha
+16.3	embrace	apahir̃awaaama
+16.31	pain	mohuain
+16.37	cry, weep	ayaľahaa
+16.38	tear (noun)	awɨir̃a
+16.39	groan	haľuwata
+16.41	hate	aɨr̃ɨľawaaanain
+16.42	anger	ɨttaain
+16.44	envy, jealousy	čumɨha
+16.44	envy, jealousy	ačumɨľa
+16.45	shame (noun)	apɨľir̃a
+16.48	proud	pɨľainči
+16.51	dare	ašuta
+16.52	brave	toľoainči
+16.52	brave	yaľayaľaainči
+16.53	fear, fright	amomoľia
+16.62	desire, want	eir̃ewaa
+16.622	choose	aimaka
+16.63	hope	aatapaha
+16.66	true	šimain
+16.67	lie, tell lies	akɨhaaľawaa
+16.68	deceit	aľawa
+16.71	good	anasɨ
+16.72	bad	mohusu
+16.73	right, correct	anasɨ
+16.74	wrong	mohusu
+16.81	beautiful	anasɨ
+16.82	ugly	mohusu
+17.13	think (= reflect)	ekir̃uhuna
+17.15	believe	onowaaama
+17.17	know	atɨhaa
+17.172	imitate	ouľaka
+17.18	seem	maaka
+17.19	idea, notion	er̃aahaa
+17.21	wise	atɨhaši
+17.22	foolish, stupid	maľaši
+17.23	insane, crazy	mamainnaši
+17.24	learn	akir̃ahawaaanain
+17.242	study	ekir̃ahaawaaanain
+17.25	teach	ekir̃aha
+17.26	pupil	ekir̃ahuši
+17.27	teacher	ekir̃ahɨi
+17.28	school	ekir̃ahɨľe
+17.31	remember	sotoaʔin
+17.32	forget	motoaʔin
+17.34	clear, plain	šimain
+17.38	explain	akɨhaa
+17.42	cause	maatuma
+17.44	suspect	aľir̃aha
+17.46	easy	mapɨľesaľɨ
+17.47	difficult	kapɨľesɨ
+17.48	try, attempt	ouľaka
+17.49	way, manner	akuwaipa
+17.51	and	ouľakamɨsɨya
+17.52	because	aka
+17.53	if	maaka
+17.55	yes, affirmative	aa
+17.56	no, negative	nnoho
+17.61	how?	hamɨsɨ
+17.62	how many?	her̃a
+17.63	how much?	her̃a
+17.64	what?	kasawaiu
+17.65	when?	ouha
+17.66	where?	haľaya
+17.67	which?	har̃alɨya
+17.68	who?	har̃aiya
+17.69	why?	hamɨsɨ
+18.11	voice	amɨr̃aľuu
+18.11	voice	eir̃a
+18.12	sing	eir̃ɨha
+18.13	shout, cry out	awataa
+18.15	whisper	eheher̃awaa
+18.16	mumble	ayounaľawaa
+18.17	whistle	ewiha
+18.19	howl	awaľir̃ahawaa
+18.21	speak, talk	ašahawaa
+18.22	say	maa
+18.221	tell story	akɨhaa
+18.222	speech (make a)	ašahawaa
+18.23	silent (be)	koutaa
+18.24	language	anɨiki
+18.26	word	putči
+18.28	name	anɨľia
+18.31	ask (question, inquire)	asakir̃aa
+18.32	answer	asokutaa
+18.33	admit, confess	akɨhaa
+18.34	deny	onhuľahawaa
+18.35	ask, request	ačunta
+18.37	refuse	ayoutaa
+18.37	refuse	ayoutahaa
+18.38	forbid	ačiahawaa
+18.39	rebuke, scold	aɨľɨhaaamɨin
+18.41	call (=summon)	ounehaa
+18.42	call (=name)	ačuntaanɨľia
+18.43	announce	akɨhaaačiki
+18.44	threaten	amomoľuheer̃aa
+18.51	write	ašahaa
+18.52	read	ašaheer̃aakar̃aľouta
+18.57	pen	ašahia
+18.71	flute	totohi
+18.71	flute	masi
+18.71	flute	sawawa
+19.11	country	mma
+19.12	one's native country	oumani
+19.17	boundary	aľɨhaľe
+19.23	tribe, clan	eir̃ukuu
+19.31	rule, govern	aľuwatawaa
+19.45	command, order	aľuwatawaaanain
+19.46	obey	haama
+19.51	friend, companion	atɨnahutu
+19.52	enemy	aɨnɨwaa
+19.55	stranger	wanehetɨ
+19.56	guest	aľiouwaa
+19.58	help, aid	akaľihaa
+19.61	custom	akuwaipa
+19.62	strife, quarrel	atkawaa
+19.65	meet	ousitaa
+19.65	meet	ewaapɨľa
+19.72	prostitute	yuwasɨ
+20.11	fight (vb)	atkawaa
+20.11	fight (vb)	ehir̃awaa
+20.23	sling	hunaya
+20.24	bow	wɨr̃aiči
+20.25	arrow	hatɨ
+20.25	arrow	siwar̃ai
+20.25	arrow	kaľepɨsɨ
+20.28	gun, cannon	aapɨľa
+20.28	gun, cannon	katkousu
+20.28	gun, cannon	čir̃ɨ
+20.41	victory	ahaa
+20.42	defeat	awaa
+20.43	attack	ašutaau
+20.471	guard, sentinel	aatapɨi
+20.49	ambush	oukahaapɨľa
+20.51	fisherman	ehimehɨi
+20.51	fisherman	himepuu
+20.52	fishhook	kuľir̃a
+20.56	bait	emeyaa
+20.61	hunt	oľohoo
+20.62	shoot	ohutaa
+20.63	miss (target)	ahačitaa
+20.64	trap (noun)	woyoo
+20.65	trap (vb)	ataɨľaa
+21.11	law	akuwaipa
+21.31	accuse	akɨhaačiki
+21.36	innocent	mahinhaľasaľɨ
+21.42	murder	outaawayuuwain
+21.44	rape	ataɨhawaa
+21.51	steal	aľuwahaa
+21.52	thief	kar̃uar̃ai
+21.52	thief	kar̃uar̃aľɨ

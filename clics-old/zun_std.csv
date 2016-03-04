@@ -1,0 +1,975 @@
+@classification: Language isolate
+@ids-name: Zuni_Phonemic
+@iso: zun
+@language: Zuni
+@size: 968
+@source: ids
+@variety: std
+1.1	world	ʔawiteli
+1.21	earth, land	teyala
+1.212	earth=ground, soil	ʔaweɬi
+1.212	earth=ground, soil	ʔawekli
+1.213	dust	so
+1.214	mud	heli
+1.215	sand	so
+1.22	mountain, hill	yala
+1.22	mountain, hill	kuʔtele
+1.222	cliff, precipice	teleči
+1.23	plain, field	teyaččina
+1.31	water	kˀʸa
+1.32	sea	kˀʸātuɬʔullapna
+1.324	foam	ʔummo
+1.329	ocean	kˀʸātuɬʔullapna
+1.33	lake	kˀʸana
+1.36	river, stream, brook	kˀʸawina
+1.37	spring, well	kˀʸanakʷayina
+1.41	woods, forest	tanayāwe
+1.42	tree (cf 08.600)	tatta
+1.43	wood	ta
+1.44	stone, rock	ʔa
+1.45	earthquake	ʔanukʷayi
+1.51	sky	ʔaʔpoʔya
+1.52	sun	yatokkʸa
+1.53	moon	yaʔonakkʸa
+1.54	star	moʔyaču
+1.55	lightning	wilo
+1.56	thunder	towowo
+1.61	light (noun)	ʔakli
+1.62	darkness	tekˀʷi
+1.63	shade, shadow	teɬuʔwa
+1.72	wind	pinna
+1.73	cloud	lo
+1.74	fog	šipololo
+1.75	rain (noun)	ɬito
+1.76	snow (noun)	ʔu
+1.77	ice	ɬemkˀʸaya
+1.78	weather	tewuc̷oʔya
+1.81	fire	ʔakli
+1.82	flame (noun)	hapiya
+1.83	smoke (noun)	ɬikˀʸaya
+1.84	ashes	lu
+1.841	embers	makʸēwe
+1.851	burn (vb trans)	čapikˀʸa
+1.852	burn (vb intrans)	čapi
+1.86	light, kindle, ignite	makču
+1.87	match (noun)	ɬečči
+1.88	firewood	ta
+1.89	charcoal	nokʸe
+2.1	person, human being	hoʔʔi
+2.21	man (vs. woman)	ɬaššikˀʸi
+2.22	woman	makkˀʸi
+2.23	male	ʔoc̷c̷iʔ
+2.24	female	ʔokʸa
+2.25	boy	ʔakc̷ekˀʸi
+2.251	young man (adolescent)	c̷awakˀʸi
+2.26	girl	kʸac̷ikˀʸi
+2.261	young woman (adolescent)	ʔe
+2.261	young woman (adolescent)	ʔeʔlaštoˀʸi
+2.27	child	ča
+2.28	infant, baby	wih
+2.31	husband	ʔoyemši
+2.32	wife	?ōye
+2.35	father	tačču
+2.36	mother	c̷itta
+2.37	parents	ʔāɬaššīnāwe
+2.444	older brother	papa
+2.445	younger brother	suwe
+2.445	younger brother	hanni
+2.454	older sister	kʸawu
+2.455	younger sister	hanni
+2.455	younger sister	ʔikʸina
+2.46	grandfather	nana
+2.461	old man	ɬaššikˀʸi
+2.47	grandmother	hotta
+2.47	grandmother	wowo
+2.471	old woman	ʔokʸac̷c̷ikˀʸi
+2.48	grandson	nana
+2.49	granddaughter	wowo
+2.49	granddaughter	hotta
+2.511	mother's brother	kʸakʸa
+2.512	father's brother	tačču
+2.512	father's brother	taččuc̷ʔana
+2.512	father's brother	taččuɬašši
+2.521	mother's sister	c̷itta
+2.521	mother's sister	c̷ittac̷ʔana
+2.521	mother's sister	c̷ittaɬašši
+2.522	father's sister	kuku
+2.53	nephew	ča
+2.53	nephew	tale
+2.53	nephew	kˀʸasse
+2.54	niece	ča
+2.54	niece	ʔeyye
+2.54	niece	kˀʸasse
+2.56	ancestors	ʔāɬaššināwe
+2.63	son-in-law (of a man)	tālakˀʸi
+2.631	son-in-law (of a woman)	tā̈lakˀʸi
+2.64	daughter-in-law (of a man)	ʔulani
+2.641	daughter-in-law (of a woman)	ʔulani
+2.72	stepmother	ʔiniha
+2.76	widow	hammiši
+2.77	widower	hammiši
+2.81	relatives, kinsmen	ʔīyanikʸina
+2.91	I	hoʔ
+2.92	you (singular)	toʔ
+2.93	he/she/it	∅
+2.94	we	hoʔno
+2.94	we	hon
+2.95	you (plural)	ton
+2.96	they	ʔāči
+2.96	they	∅
+3.11	animal	wo
+3.11	animal	na
+3.11	animal	wem
+3.12	male (adj)	ʔoc̷c̷i
+3.13	female (adj)	ʔokʸa
+3.15	livestock	wo
+3.18	herdsman	wowillīkʷe
+3.2	cattle (bovine)	wākʸaši
+3.21	bull	wamohap
+3.24	calf	wamc̷ʔana
+3.25	sheep	kʸanēlu
+3.26	ram	mohākʷe
+3.26	ram	kʸanēlʔoc̷c̷i
+3.28	ewe	kʸanēlʔokʸa
+3.29	lamb	čaʔc̷ʔana
+3.35	pig	pic̷ūti
+3.36	goat	čiwātu
+3.37	he-goat	čiwātmohhoppa
+3.38	kid	čimc̷ʔana
+3.41	horse (equine)	tūši
+3.44	mare	yēwa
+3.45	foal, colt	tumc̷ʔana
+3.46	ass, donkey	mešokˀo
+3.47	mule	mūla
+3.55	chicken	tokōko
+3.56	goose	ʔowa
+3.57	duck	ʔeya
+3.581	bird	woʔc̷ˀana
+3.584	eagle	kˀʸakˀʸali
+3.586	vulture	šuʔc̷ˀina
+3.591	bat	ʔešoc̷i
+3.592	parrot	mula
+3.593	crow	kˀʷalaši
+3.594	dove	nīšapakˀo
+3.596	owl	muhukʷi
+3.61	dog	wac̷c̷ita
+3.614	rabbit	pokˀʸa
+3.614	rabbit	ʔokšikˀo
+3.62	cat	mūsa
+3.63	mouse, rat	c̷ˀokɬikˀo
+3.65	fish	kˀʸaššita
+3.71	wolf	yunāwikˀo
+3.72	lion	hoktitaša
+3.73	bear	ʔanše
+3.74	fox	ɬanako
+3.76	monkey	monkʸi
+3.78	camel	kʸamelākʷe
+3.81	insect	nom
+3.811	louse	me
+3.813	flea	me
+3.814	centipede	šola
+3.815	scorpion	šola
+3.817	ant	halo
+3.817	ant	hūpiskʸa
+3.818	spider	tohsito
+3.82	bee	ʔohhāpa
+3.823	wasp	ʔohhāpa
+3.83	fly	šonnaɬikˀo
+3.832	mosquito	ʔoʔtotaša
+3.84	worm	wi
+3.85	snake	ʔayasoʔa
+3.92	butterfly	pūla
+3.93	grasshopper	čappa
+3.95	frog	takkʸa
+3.96	lizard	mišo
+3.97	crocodile, alligator	čittolʔasipa
+3.98	turtle	ʔetōwa
+4.11	body	ɬuni
+4.12	skin, hide	kʸemc̷ˀikʷa
+4.13	flesh	ši
+4.14	hair (head)	taya
+4.142	beard	c̷iponi
+4.144	body hair	c̷i
+4.145	pubic hair	c̷iya
+4.146	dandruff	kʸeɬaya
+4.15	blood	ʔate
+4.151	vein, artery	kˀopalo
+4.16	bone	sa
+4.162	rib	šotto
+4.17	horn	saya
+4.18	tail	hokti
+4.19	back	massi
+4.191	spine	sappokʸaɬa
+4.2	head	ʔošokʷi
+4.201	side of head, temple	šontela
+4.203	brain	ʔoh
+4.204	face	noponni
+4.205	forehead	hakʸi
+4.207	jaw	ɬeweči
+4.208	cheek	poheči
+4.209	chin	ɬeweči
+4.21	eye	tuna
+4.212	eyebrow	samyalanne
+4.213	eyelid	tunakʸempoʔya
+4.214	eyelash	c̷ipčiyali
+4.22	ear	lašokti
+4.222	earwax	kʸēpōwe
+4.23	nose	noʔli
+4.231	nostril	noʔaʔa
+4.232	mucus (nasal)	mačitōwe
+4.232	mucus (nasal)	sinokʷīwe
+4.24	mouth	ʔawati
+4.25	lip	ʔišši
+4.26	tongue	honni
+4.27	tooth	ʔoʔna
+4.271	gums	šiwuɬta
+4.28	neck	kˀʸisi
+4.281	nape of neck	takˀʸiʔmowa
+4.29	throat	kˀʸisi
+4.3	shoulder	čuti
+4.301	shoulderblade	čutinsampočči
+4.302	collarbone	pomtaku
+4.31	arm	ʔasi
+4.312	armpit	nolokti
+4.32	elbow	mokči
+4.321	wrist	ʔasic̷ʔana
+4.33	hand	ʔasi
+4.331	palm of hand	ʔasitešokta
+4.34	finger	ʔasipiɬto
+4.342	thumb	ʔasiɬanakkʸa
+4.344	fingernail	šonči
+4.345	claw	šonči
+4.35	leg	sakʷi
+4.351	thigh	ʔoyyi
+4.352	calf of leg	šiʔpiya
+4.36	knee	ʔošši
+4.37	foot	wekʷi
+4.371	ankle	moʔɬeyakkʷi
+4.372	heel	ʔekˀossi
+4.374	footprint	teʔana
+4.38	toe	tukni
+4.392	wing	ʔepisse
+4.392	wing	lata
+4.393	feather	la
+4.4	chest	poʔhata
+4.41	breast (of woman)	mehana
+4.412	nipple, teat	suʔto
+4.42	udder	kʷikˀʸa
+4.43	navel	šāmuluʔkʷi
+4.44	heart	ʔikˀʸēna
+4.441	lung	yupšali
+4.45	liver	hakkʷali
+4.451	kidney	moʔpewi
+4.452	spleen	pali
+4.46	stomach	c̷u
+4.461	intestines, guts	kˀo
+4.462	waist	ʔikkʷiʔkowa
+4.463	hip	siti
+4.464	buttocks	puʔc̷i
+4.49	testicle	mohāwe
+4.492	penis	tuʔli
+4.51	breathe, breath	yanhaku
+4.51	breathe, breath	pinna
+4.52	yawn, gape	hawawa
+4.52	yawn, gape	hawawa
+4.521	hiccough	sukˀu
+4.53	cough	ʔoho
+4.54	sneeze	hac̷ˀic̷ˀi
+4.55	perspire	hakʸiɬi
+4.56	spit	čukkˀoti
+4.56	spit	pikˀʸa
+4.57	vomit	yakˀōwe
+4.57	vomit	yakˀo
+4.58	bite	ʔutte
+4.59	lick	c̷ʔupɬi
+4.591	dribble	kˀʸašošo
+4.61	sleep	ʔala
+4.61	sleep	yātela
+4.612	snore	ɬelolo
+4.62	dream	halowa
+4.63	wake up	ʔokʷi
+4.64	break wind	ɬic̷ʔic̷ʔi
+4.64	break wind	heɬi
+4.65	urinate	hepi
+4.66	defecate	heye
+4.67	have sexual intercourse	šoha
+4.69	bathe	ʔikˀošo
+4.71	beget (of father)	ʔančawo
+4.73	pregnant	ʔisana
+4.732	conceive	ʔihtoha
+4.74	live, living, life	tekˀohanna
+4.75	die, dead	ʔaše
+4.76	kill	ʔayna
+4.77	corpse	ʔeɬʔe
+4.78	bury (the dead)	ʔupalo
+4.81	strong, mighty, powerful	c̷ʔumme
+4.81	strong, mighty, powerful	ɬoʔo
+4.82	weak	pučʔali
+4.83	well, health	c̷emakʷikˀokši
+4.84	sick, sickness	c̷emakʷipotti
+4.843	cold (catarrh)	noʔčoma
+4.85	wound, sore	ʔaʔʔi
+4.853	swelling	šole
+4.854	itch	kˀossa
+4.857	pus	heppo
+4.858	scar	ʔaʔna
+4.86	cure, heal	wenah
+4.88	medicine, drug	ʔakˀʷa
+4.91	tired, weary	yuteʔči
+4.912	rest	ʔiyuteʔčinaha
+4.92	lazy	ʔiči
+4.92	lazy	ʔamina
+4.93	bald	moʔsakˀʸaya
+4.94	lame	ʔimoči
+4.95	deaf	šopčina
+4.97	blind	tunašnapa
+4.98	intoxicated	hališona
+5.11	eat	ʔito
+5.12	food	ʔitōwe
+5.121	cooked	ʔakʷa
+5.122	raw	kˀʸapi
+5.123	ripe	kˀʸa
+5.125	rotten	teči
+5.13	drink	tutu
+5.14	hunger	ʔoše
+5.15	thirst	kˀʸeya
+5.16	suck	c̷ic̷i
+5.18	chew	heyaʔu
+5.181	swallow	ʔikʷiɬi
+5.19	choke	kˀʷistokˀʸa
+5.19	choke	pinnayaɬti
+5.21	cook	ʔakʷa
+5.22	boil (vb)	hemmo
+5.23	roast, fry	ʔalo
+5.24	bake	mulo
+5.25	oven	heʔpokˀo
+5.26	pot, cooking vessel	te
+5.27	kettle	sōte
+5.28	pan	sa
+5.31	dish	sa
+5.32	plate	sa
+5.33	bowl	sa
+5.34	pitcher, jug	te
+5.35	cup, drinking vessel	sa
+5.36	saucer	sa
+5.37	spoon	šokˀo
+5.38	knife	ʔačiya
+5.39	fork	kˀoyaʔči
+5.43	lunch	haneɬa
+5.46	peel	c̷ˀikkʷa
+5.47	sieve, strain	siwi
+5.49	stir, mix	kʷilipi
+5.49	stir, mix	ʔīpohɬikˀʸa
+5.51	bread	mu
+5.53	dough	moc̷a
+5.54	knead	hec̷ˀuc̷ˀukˀa
+5.55	meal, flour	ʔo
+5.56	crush, grind	ʔokkˀʸa
+5.56	crush, grind	heyaʔu
+5.58	mortar	ʔakˀʸe
+5.63	sausage	mossiyya
+5.64	soup, broth	woleyāwe
+5.66	bean	no
+5.7	potato	kˀʸapimo
+5.71	fruit	mowe
+5.712	bunch	simo
+5.76	grape	molimo
+5.76	grape	ʔuwa
+5.77	nut	kˀu
+5.79	oil	ʔišana
+5.791	grease, fat	ʔišana
+5.81	salt	ma
+5.81	salt	mākˀose
+5.82	pepper	kˀolʔowe
+5.821	chili pepper	kˀola
+5.84	honey	kˀʸalīwe
+5.85	sugar	māčikʷa
+5.86	milk (noun)	kʷikˀʸa
+5.88	cheese	kʷikˀʸāɬoʔonna
+5.88	cheese	kʸeso
+5.92	wine	ʔuwakˀʸawe
+5.93	beer	kˀʸaʔopīwe
+5.97	egg	tokōkomo
+6.11	put on (clothes)	kʷanɬeya
+6.12	clothing, clothes	ɬeyāwe
+6.13	tailor	ʔipikɬēnʔona
+6.21	cloth	kuč
+6.21	cloth	pisse
+6.22	wool	ʔuwe
+6.24	cotton	ʔuʔle
+6.25	silk	sēla
+6.28	fur	we
+6.28	fur	ʔuyāwe
+6.29	leather	kʸe
+6.35	sew	pikɬa
+6.36	needle	simi
+6.39	dye	yaʔšo
+6.39	dye	yaʔšonakʸa
+6.41	cloak	yatona
+6.42	woman's dress	ʔučču
+6.43	coat	lēwa
+6.44	shirt	ʔuččǔ
+6.46	skirt	hasikkʷi
+6.48	trousers	kučči
+6.49	stocking, sock	tumokkˀʷa
+6.51	shoe	mokkˀʷa
+6.52	boot	pūc̷i
+6.54	shoemaker, cobbler	mokkˀʷāwašenʔona
+6.55	hat, cap	poʔya
+6.57	belt, girdle	kʸemmekʷi
+6.58	glove	ʔasuli
+6.61	pocket	wahta
+6.62	button	matto
+6.63	pin	hematto
+6.71	ornament, adornment	čito
+6.73	ring (for finger)	nic̷ikʸa
+6.75	necklace	taku
+6.76	bead	mo
+6.77	earring	sato
+6.78	headband, headdress	ʔoɬpa
+6.81	handkerchief, rag	ɬihali
+6.81	handkerchief, rag	hankʸeči
+6.91	comb	ʔipiškʸa
+6.93	razor	ʔiyalušnakʸa
+6.94	ointment	ʔišonāwe
+6.94	ointment	ʔišakˀʸanakʸa
+6.96	mirror	ʔīyunakˀʸaʔaʔle
+7.11	dwell, live	teya
+7.12	house	kˀʸakʷe
+7.12	house	hešota
+7.14	tent	hampo
+7.15	yard, court	tekʷana
+7.16	men's house	kʸiwihc̷i
+7.18	meeting house	kʸiwihc̷i
+7.21	room	kˀʸakʷe
+7.21	room	hešota
+7.22	door, gate	ʔaɬti
+7.22	door, gate	ʔawēna
+7.23	lock (noun)	ɬac̷ˀikʷa
+7.231	latch, door-bolt	kˀuc̷ˀa
+7.25	window	ʔaššoʔwa
+7.26	floor	ʔaweɬa
+7.27	wall	heʔʔi
+7.31	fireplace	ɬemotina
+7.31	fireplace	ʔaklikʸana
+7.32	stove	heɬemotina
+7.37	ladder	ɬec̷ˀilo
+7.42	bed	pewi
+7.421	pillow	payya
+7.422	blanket	paʔʔi
+7.422	blanket	yanni
+7.43	chair	ɬempayya
+7.44	table	ɬempowa
+7.45	lamp, torch	hapiya
+7.45	lamp, torch	ʔopc̷ˀi
+7.51	roof	teyala
+7.55	beam	yaɬa
+7.56	post, pole	kˀum
+7.57	board	ɬe
+7.61	mason	heʔʔēnʔona
+7.64	adobe	ʔēʔa
+8.12	field (for cultivation)	tehwa
+8.12	field (for cultivation)	teyaččina
+8.13	garden	ɬattekˀʷa
+8.15	cultivate, till	ɬalla
+8.17	ditch	ʔakkʷe
+8.21	plow	heʔčoɬto
+8.22	dig	ʔakˀoʔu
+8.23	spade	hēɬe
+8.24	shovel	hēɬe
+8.25	hoe	wapaʔʔana
+8.26	fork	kˀoyaʔči
+8.27	rake	hešonči
+8.311	seed	tōšōwe
+8.33	sickle, scythe	čimayašnakʸa
+8.42	grain (barley, oats etc)	kʸa
+8.43	wheat	čimaya
+8.43	wheat	čimatta
+8.46	oats	ʔowc̷i
+8.46	oats	kʸasililīwe
+8.47	maize, corn	towa
+8.48	rice	wic̷ʔanāwe
+8.51	grass	pe
+8.52	hay	hawe
+8.53	plant (noun)	lena
+8.531	plant (vb)	toye
+8.54	root	ɬakʷimo
+8.55	branch	yači
+8.56	leaf	ha
+8.56	leaf	ho
+8.57	flower	ʔuteya
+8.6	tree	tatta
+8.61	oak	taʔwi
+8.64	pine	ʔašekˀʸa
+8.65	fir	kˀʸaɬac̷ˀilo
+8.66	acorn	taʔwimo
+8.67	vine	piwanna
+8.68	tobacco	c̷ana
+8.68	tobacco	ʔanate
+8.69	smoke (tobacco)	pokɬi
+8.73	tree trunk	kˀum
+8.74	forked branch	kˀoyaʔči
+8.75	bark	c̷ˀikkʷa
+8.93	gourd	mōkˀʸisi
+8.93	gourd	tom
+8.931	pumpkin, squash	mōteyaɬa
+8.931	pumpkin, squash	mēmo
+8.941	sugar cane	kˀʸewe
+8.98	mushroom	puhči
+9.11	do, make	ʔaša
+9.12	work	yuʔmakʷe
+9.12	work	ʔīkʷāni
+9.14	bend	toc̷ippo
+9.14	bend	c̷ˀikˀo
+9.14	bend	noʔtekla
+9.15	fold	ʔīpoʔku
+9.161	untie	ʔihtoha
+9.18	chain	hewiyulli
+9.19	rope, cord	toʔni
+9.22	cut	c̷ˀiya
+9.221	cut down	ʔiteha
+9.222	chop, hew	ɬepakčo
+9.223	stab	ɬakʷu
+9.23	knife	ʔačiya
+9.24	scissors, shears	ʔīpačči
+9.24	scissors, shears	ʔapc̷ˀišlenakʸa
+9.25	ax	kˀʸi
+9.26	break	yami
+9.261	broken	kˀuhmo
+9.27	split	ʔīšokʷiha
+9.28	tear	c̷ˀiya
+9.31	rub, wipe	čišša
+9.31	rub, wipe	muyye
+9.32	stretch	šalu
+9.32	stretch	c̷ˀaɬi
+9.33	pull	ʔanahha
+9.34	spread out	wakˀʷa
+9.341	hang up	piyaʔu
+9.342	press	hec̷ˀu
+9.343	squeeze, wring	hec̷ʔu
+9.36	wash	kˀošo
+9.37	sweep	tepišša
+9.38	broom	pep
+9.43	carpenter	ɬewīkʷanikʸēnʔona
+9.44	build	ʔaša
+9.46	bore	piɬkʷe
+9.461	hollow out	heʔkˀoʔu
+9.48	saw	ɬititina
+9.49	hammer	hetoknakʸa
+9.5	nail	hēkˀʸac̷c̷oto
+9.56	glue	kˀʸapikˀʸāwe
+9.6	smith, blacksmith	hetokkˀʸēnʔona
+9.64	gold	ʔōlo
+9.65	silver	lāta
+9.65	silver	c̷īhewe
+9.66	copper, bronze	tesililīwe
+9.67	iron	hewe
+9.71	potter	tewašēnʔona
+9.73	clay	heli
+9.74	glass	ʔa
+9.771	rug	pisāli
+9.88	paint (noun)	heli
+10.11	move	ʔīmoha
+10.11	move	tinaha
+10.12	turn over	yampaʔkʷiha
+10.12	turn over	noʔteklaʔu
+10.13	turn around	ʔallūpi
+10.14	wind, wrap	peha
+10.15	roll	ponoɬpani
+10.15	roll	pololoʔu
+10.16	drop (vb)	ʔiteha
+10.22	raise, lift	kˀʸeyatoʔu
+10.23	fall	lani
+10.24	drip	c̷ˀokˀo
+10.25	throw	ʔipaku
+10.252	catch (ball)	yate
+10.33	sink	wakkʷato
+10.34	float	kˀʸaya
+10.35	swim	ʔičukˀʸayē
+10.352	splash	čepe
+10.37	fly (vb)	laʔhi
+10.38	blow	ʔuʔʔa
+10.38	blow	pūpuʔʔa
+10.41	creep, crawl	ponān
+10.412	kneel	moʔc̷oktipowa
+10.413	crouch	moʔc̷okʔīmu
+10.43	jump, leap	ʔīpuʔlaʔhi
+10.431	kick	yačču
+10.44	dance	ʔota
+10.451	limp	ʔimoči
+10.46	run	yēlaha
+10.46	run	ʔiɬuwaha
+10.47	go	ʔān
+10.471	go up	yemaku
+10.472	climb	yemaku
+10.473	go down	paniyu
+10.474	go out	kʷayi
+10.48	come	ʔiy
+10.481	come back	ʔikˀʷaɬtʔiy
+10.491	disappear	ʔotti
+10.52	follow	ʔantapanʔān
+10.53	pursue	ʔallaha
+10.55	reach, arrive	teʔči
+10.57	enter	kʷato
+10.61	carry (bear)	seto
+10.612	carry-in-hand	ɬeʔā
+10.613	carry-on-shoulder	čutʔanyaɬtokˀʸa
+10.614	carry-on-head	ɬakto
+10.615	carry-underarm	noloktʔanɬac̷c̷ˀu
+10.615	carry-underarm	noloktʔanɬac̷c̷ˀiye
+10.66	ride	ʔimyaɬto
+10.67	push, shove	ʔulate
+10.71	road	ʔona
+10.72	path	ʔona
+10.74	bridge	yatonakʸa
+10.76	wheel	heʔpowa
+10.83	boat	kˀʸayanʔallukkʸanakʸa
+11.11	have	ʔilli
+11.13	take	ʔiɬeyaʔu
+11.13	take	ʔahha
+11.14	seize, grasp	yakna
+11.15	hold	ɬeya
+11.16	get, obtain	ʔahha
+11.17	keep, retain	yakna
+11.18	thing	wo
+11.21	give	ʔuc̷ˀi
+11.24	preserve, look after	ʔayyupači
+11.25	save, rescue	tehyaʔu
+11.27	destroy	yaɬakʷayi
+11.28	harm, injure, damage	haši
+11.31	seek, look for	tešu
+11.33	lose	ʔokkˀʸa
+11.34	release, let go	yaknaha
+11.43	money	he
+11.44	coin	he
+11.51	rich	līku
+11.52	poor	tewukoʔliya
+11.53	beggar	ʔanɬimoša
+11.54	avaricious, stingy	miʔtokˀo
+11.54	avaricious, stingy	ɬoʔo
+11.62	borrow	ʔilopi
+11.81	buy	tapi
+11.82	sell	haliso
+11.84	merchant	halisoynʔona
+11.88	dear (costly, expensive)	tehya
+11.91	share (distribute)	pači
+12.11	place	yalu
+12.2	beside	pakkʷi
+12.3	down, below	manikkʸa
+12.5	inside, in	ʔuli
+12.6	outside	ʔuɬɬa
+12.6	outside	tekʷana
+12.7	under	manikkʸa
+12.7	under	ʔapalli
+12.8	up, above	ʔīyama
+12.17	remains, left overs	yeččikˀona
+12.212	pick up	ʔahha
+12.22	join, unite	yakšu
+12.22	join, unite	ʔisliʔu
+12.23	separate	ʔiwopc̷ˀiha
+12.232	divide	ʔīpači
+12.27	hide, conceal	ʔikˀoloʔu
+12.31	high	kuʔtelʔan
+12.33	top	kˀʸac̷c̷oʔwa
+12.34	bottom	paɬto
+12.352	pointed	tahna
+12.37	middle, center	ʔitiwa
+12.41	right (side)	ʔitokkʷa
+12.42	left (side)	wešikkˀʸa
+12.43	near (adv)	lotte
+12.44	far (adv)	hoɬomaši
+12.45	east	tewankʷin
+12.46	west	sunhākʷin
+12.47	north	pišlankʷin
+12.48	south	maʔkˀʸayakʷin
+12.53	grow	ɬa
+12.54	measure	ʔiteču
+12.55	large, big	ɬana
+12.56	small, little	c̷ˀana
+12.57	long	tašana
+12.58	tall	tašana
+12.59	short	koni
+12.61	wide, broad	kˀʸapa
+12.63	thick (in dimension)	yahoni
+12.65	thin (in dimension)	pisse
+12.67	deep	tetašana
+12.68	shallow	tekoni
+12.73	straight	moɬa
+12.74	crooked	c̷ˀikˀo
+12.76	corner	heʔšokˀo
+12.78	square	mayākˀokši
+12.81	round	pic̷ulliya
+12.82	circle	pic̷ulliya
+12.83	sphere, ball	mo
+12.84	line	pi
+12.92	like, similar	ʔikna
+12.93	change	ʔiyalihkˀʸa
+13.1	one	topinte
+13.2	two	kʷilin
+13.3	three	haʔin
+13.4	four	ʔāwiten
+13.5	five	ʔapten
+13.6	six	topalekkˀʸa
+13.7	seven	kʷilelekkˀʸa
+13.8	eight	haʔelekkˀʸa
+13.9	nine	tenalekkˀʸa
+13.10	ten	ʔastemɬan
+13.101	eleven	ʔastemɬatāptopinte
+13.102	twelve	ʔastemɬatāpkʷilin
+13.103	fifteen	ʔastemɬatāpʔapten
+13.104	twenty	kʷilikˀʸanʔastemɬan
+13.105	hundred	ʔasiʔastemɬan
+13.106	thousand	tapnimtemīɬ
+13.107	count	yale
+13.14	every, all	lēwi
+13.14	every, all	temɬan
+13.15	much, many	ʔemma
+13.16	more	ʔaɬna
+13.17	little (quantity), few	kōwi
+13.18	enough	ʔečči
+13.21	full	potti
+13.21	full	kosna
+13.23	part, piece	mu
+13.33	alone, only	samma
+13.33	alone, only	teʔči
+13.34	first	ʔehkʷi
+13.34	first	kʸela
+13.35	last	yalu
+13.36	second	kʷilikˀʸan
+13.37	pair	ʔāči
+13.38	two times	kʷilikʔʸan
+13.42	third	haʔikˀʸan
+13.44	three times	haʔikˀʸan
+14.12	age	ɬaššīwe
+14.13	new	čimʔona
+14.14	young	šiha
+14.15	old	ɬašši
+14.18	now	čimi
+14.19	immediately	hanaʔte
+14.21	swift, fast, quick	kˀʸahaya
+14.22	slow	tikʷahna
+14.23	hasten, hurry	hešši
+14.25	begin, beginning	teyʔu
+14.252	last, endure	yoc̷c̷ikkˀʸa
+14.27	finish	yākˀʸa
+14.28	cease, stop	čune
+14.29	ready	yāna
+14.31	always	ʔišaɬmaʔte
+14.32	often	ʔimaštoɬi
+14.33	sometimes	kʸākˀʸi
+14.331	soon	wan
+14.34	never	kʷaʔkʸayiʔinaʔmaʔ
+14.35	again	tēya
+14.41	day	yato
+14.42	night	tehɬappa
+14.42	night	tehɬina
+14.44	morning	ʔiččite
+14.45	noon, midday	ʔitiwʔan
+14.451	afternoon	ʔitiwakʸatappa
+14.46	evening	sunha
+14.46	evening	sunnaha
+14.47	today	lākˀʸi
+14.48	tomorrow	tewani
+14.49	yesterday	teššukˀʷaʔ
+14.53	clock, timepiece	yatokkʸa
+14.61	week	tuminku
+14.62	Sunday	tuminkutewappa
+14.63	Monday	činnakʷʔīkʷānʔappa
+14.64	Tuesday	kʷilitewanʔīkʷānʔappa
+14.65	Wednesday	haʔitewanʔīkʷānʔappa
+14.66	Thursday	ʔāwitenʔīkʷānʔappa
+14.67	Friday	ʔaɬnaʔteʔīkʷānʔappa
+14.68	Saturday	tuminkuʔančˀappa
+14.71	month	yaču
+14.73	year	tepikʷayina
+14.74	winter	tehc̷ˀi
+14.75	spring	telakʷayi
+14.76	summer	ʔoloʔʔikˀʸa
+14.77	autumn	miyašēnakˀʸappa
+15.21	smell (vb intrans)	teči
+15.212	sniff	musmu
+15.22	smell (vb trans)	musmu
+15.35	sweet	čikʷa
+15.36	salty	kˀose
+15.38	acid, sour	ʔopi
+15.39	brackish	kˀose
+15.41	hear	hatiyāw
+15.42	listen	hatiyāw
+15.44	sound, noise	ʔawoteya
+15.45	loud	wawawa
+15.46	quiet, silence	ʔayyuɬaššina
+15.51	see	ʔankˀohakˀʸa
+15.52	look, look at	ʔuna
+15.52	look, look at	tuna
+15.55	show	ʔunaʔu
+15.56	shine	walolo
+15.62	light (in color)	kˀoha
+15.63	dark (in color)	kˀʷi
+15.64	white	kˀoha
+15.65	black	kˀʷi
+15.66	red	šilowa
+15.67	blue	ɬiʔʔa
+15.68	green	ʔašena
+15.69	yellow	ɬupc̷ˀi
+15.71	touch	yate
+15.72	feel	hati
+15.74	hard	ɬoʔo
+15.75	soft	ɬuc̷ˀina
+15.76	rough	čippa
+15.77	smooth	kˀʸalolo
+15.78	sharp	ʔotta
+15.81	heavy	yukti
+15.83	wet, damp	kˀʸi
+15.84	dry	kˀusa
+15.85	hot	kˀʸaɬi
+15.851	warm	yusu
+15.86	cold	c̷ˀe
+15.88	dirty, soiled	ʔančiʔmowa
+15.89	wrinkled	wikˀolīwe
+16.11	soul, spirit	hapa
+16.15	surprised, astonished	yučiʔa
+16.18	good fortune, luck	ʔanikčiya
+16.23	joyful, glad, happy	kˀʸec̷c̷ana
+16.25	laugh	šikʷi
+16.251	smile	šikʷi
+16.26	play	ʔikˀoša
+16.27	love	ʔičema
+16.29	kiss	c̷ˀupɬi
+16.3	embrace	kˀʸeškʷi
+16.31	pain	ʔuwe
+16.33	anxiety, worry	c̷eʔma
+16.35	pity	ʔankoʔhati
+16.37	cry, weep	tuwowokˀʸa
+16.39	groan	yuɬamiččo
+16.41	hate	ʔayyukˀʸaɬi
+16.42	anger	ʔikʸa
+16.44	envy, jealousy	ʔočoma
+16.48	proud	ʔanc̷ʔuhma
+16.51	dare	ʔeɬʔe
+16.52	brave	yoc̷c̷ikkˀʸa
+16.53	fear, fright	ʔattana
+16.54	danger	ʔattanni
+16.62	desire, want	ʔalima
+16.622	choose	ʔakšiha
+16.66	true	ʔelleya
+16.67	lie, tell lies	yosēwe
+16.67	lie, tell lies	yosekˀʸē
+16.71	good	kˀokši
+16.72	bad	poča
+16.73	right, correct	lesnu
+16.74	wrong	tekˀʸayaɬaʔu
+16.76	fault	c̷eʔmakʷinnakʸa
+16.77	mistake, error	koʔtilewu
+16.78	blame	ʔahkˀʸa
+16.81	beautiful	c̷oʔya
+16.82	ugly	ʔayyac̷a
+17.13	think (= reflect)	c̷eʔma
+17.14	think (= be of the opinion)	c̷eʔma
+17.15	believe	ʔiɬtema
+17.16	understand	yuʔhētu
+17.17	know	ʔanikʷa
+17.17	know	ʔannapi
+17.171	guess	ʔanʔawa
+17.172	imitate	kˀʸeya
+17.21	wise	yayyuʔyāna
+17.22	foolish, stupid	yayyuʔyānʔamme
+17.23	insane, crazy	wiʔwi
+17.24	learn	yanikʷati
+17.25	teach	ʔanikkˀʸa
+17.27	teacher	c̷ˀināyanikkˀʸēnona
+17.31	remember	ʔanʔawa
+17.32	forget	tommiyo
+17.32	forget	tettomāyo
+17.37	sure, certain	ʔelleya
+17.47	difficult	teni
+17.48	try, attempt	ʔiteʔču
+17.51	and	tāp
+17.51	and	s
+17.52	because	ʔakkʸa
+17.53	if	čiš
+17.54	or	hapiš
+17.55	yes, affirmative	hayi
+17.55	yes, affirmative	ʔe
+17.56	no, negative	ʔeɬɬa
+17.61	how?	koʔpi
+17.61	how?	koppi
+17.62	how many?	kōwiʔpi
+17.63	how much?	kōwiʔpi
+17.64	what?	koʔpi
+17.64	what?	koppi
+17.65	when?	kʸākˀʸipi
+17.66	where?	hoppi
+17.67	which?	hokˀʸampi
+17.68	who?	čuwapi
+17.69	why?	koplāti
+18.11	voice	pena
+18.12	sing	tenʔu
+18.13	shout, cry out	weʔa
+18.15	whisper	šakʷakʷa
+18.16	mumble	ʔumumu
+18.17	whistle	saʔsa
+18.18	shriek, screech	čʔewowo
+18.19	howl	tuwowokˀʸa
+18.21	speak, talk	pen
+18.211	stutter, stammer	penʔīnē
+18.22	say	ʔikʷa
+18.221	tell story	ʔatinē
+18.23	silent (be)	telokkˀʸana
+18.26	word	pena
+18.28	name	šiʔi
+18.31	ask (question, inquire)	yaɬa
+18.32	answer	ʔansewahkˀʸa
+18.33	admit, confess	moɬaʔpen
+18.34	deny	yalih
+18.34	deny	yališ
+18.35	ask, request	hakkˀʸa
+18.36	promise	ʔeletoknaʔhaytoš
+18.38	forbid	ʔipanaye
+18.38	forbid	ʔayyutenkʸa
+18.39	rebuke, scold	ʔanhemmoti
+18.39	rebuke, scold	ʔinapē
+18.41	call (=summon)	šema
+18.43	announce	weʔaččoy
+18.56	paper	c̷ˀina
+18.71	flute	pūpuna
+18.72	drum	tomtona
+18.73	horn, trumpet	pūpuna
+18.74	rattle	c̷iʔmo
+19.11	country	ʔulohna
+19.17	boundary	paɬto
+19.23	tribe, clan	ʔannoti
+19.24	chief, chieftain	ʔanʔuɬɬamossʔona
+19.24	chief, chieftain	tāpūpu
+19.25	staff, walking stick	tamteɬna
+19.42	slave	wo
+19.43	servant	wo
+19.46	obey	hatiyāw
+19.47	let, permit	ʔansewaha
+19.51	friend, companion	kuwaye
+19.52	enemy	ʔinākʷe
+19.55	stranger	čuhoɬti
+19.58	help, aid	ʔansatto
+19.61	custom	haytošnāwe
+19.62	strife, quarrel	ʔīyanapē
+19.62	strife, quarrel	ʔīwolē
+20.17	soldier	sontālīkʷe
+20.17	soldier	sontālu
+20.24	bow	piʔɬa
+20.25	arrow	šo
+20.26	spear	lansa
+20.28	gun, cannon	towoʔʔana
+20.34	shield	ʔalla
+20.47	captive, prisoner	yatenaʔkʸanʔuččukˀona
+20.47	captive, prisoner	wo
+20.471	guard, sentinel	yupačˀona
+20.51	fisherman	wopkˀʸališēnʔona
+20.52	fishhook	kˀʸaššitokkʸaniʔc̷ˀikˀo
+20.61	hunt	ɬata
+20.62	shoot	ɬaku
+20.62	shoot	towo
+21.15	court	koɬta
+21.23	witness	ʔayyuʔyānākʷe
+21.39	prison, jail	ʔučču
+21.43	adultery	ʔoyemšišē
+21.51	steal	hanɬi
+21.52	thief	kʷaʔaɬhanɬinʔona

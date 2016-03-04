@@ -1,0 +1,1990 @@
+ID,Language_ID,Feature_ID,IDS_Key,Value,Concept,IPA_UDECODE
+clics-doculect-84-1,poli1260-std,concepticon-965,1.1,świat,world,swiat
+clics-doculect-84-2,poli1260-std,concepticon-626,1.21,ziemia,"earth, land",ziemia
+clics-doculect-84-3,poli1260-std,concepticon-626,1.21,ląd,"earth, land",lad
+clics-doculect-84-4,poli1260-std,concepticon-1228,1.212,ziemia,"earth=ground, soil",ziemia
+clics-doculect-84-5,poli1260-std,concepticon-1228,1.212,teren,"earth=ground, soil",teren
+clics-doculect-84-6,poli1260-std,concepticon-1228,1.212,gleba,"earth=ground, soil",gleba
+clics-doculect-84-7,poli1260-std,concepticon-2,1.213,proch,dust,proch
+clics-doculect-84-8,poli1260-std,concepticon-2,1.213,kurz,dust,kurz
+clics-doculect-84-9,poli1260-std,concepticon-640,1.214,błoto,mud,bloto
+clics-doculect-84-10,poli1260-std,concepticon-671,1.215,piasek,sand,piasek
+clics-doculect-84-11,poli1260-std,concepticon-2118,1.22,góra,"mountain, hill",gora
+clics-doculect-84-12,poli1260-std,concepticon-2118,1.22,pagórek,"mountain, hill",pagorek
+clics-doculect-84-13,poli1260-std,concepticon-2118,1.22,wzgórek,"mountain, hill",wzgorek
+clics-doculect-84-14,poli1260-std,concepticon-618,1.222,urwisko,"cliff, precipice",urwisko
+clics-doculect-84-15,poli1260-std,concepticon-652,1.23,równina,"plain, field",rownina
+clics-doculect-84-16,poli1260-std,concepticon-652,1.23,pole,"plain, field",pole
+clics-doculect-84-17,poli1260-std,concepticon-652,1.23,płaszczyzna,"plain, field",plaszczyzna
+clics-doculect-84-18,poli1260-std,concepticon-921,1.24,dolina,valley,dolina
+clics-doculect-84-19,poli1260-std,concepticon-921,1.24,padół,valley,padol
+clics-doculect-84-20,poli1260-std,concepticon-622,1.25,wyspa,island,wyspa
+clics-doculect-84-21,poli1260-std,concepticon-166,1.26,stałyląd,mainland,stalylad
+clics-doculect-84-22,poli1260-std,concepticon-113,1.27,brzeg,shore,brzeg
+clics-doculect-84-23,poli1260-std,concepticon-113,1.27,wybrzeże,shore,wybrzeze
+clics-doculect-84-24,poli1260-std,concepticon-1155,1.28,jaskinia,cave,jaskinia
+clics-doculect-84-25,poli1260-std,concepticon-1155,1.28,grota,cave,grota
+clics-doculect-84-26,poli1260-std,concepticon-948,1.31,woda,water,woda
+clics-doculect-84-27,poli1260-std,concepticon-1474,1.32,morze,sea,morze
+clics-doculect-84-28,poli1260-std,concepticon-258,1.322,spokój,calm (of sea),spokoj
+clics-doculect-84-29,poli1260-std,concepticon-258,1.322,cisza,calm (of sea),cisza
+clics-doculect-84-30,poli1260-std,concepticon-259,1.323,burzliwy,rough (of sea),burzliwy
+clics-doculect-84-31,poli1260-std,concepticon-259,1.323,wzburzony,rough (of sea),wzburzony
+clics-doculect-84-32,poli1260-std,concepticon-1768,1.324,piana,foam,piana
+clics-doculect-84-33,poli1260-std,concepticon-645,1.329,ocean,ocean,ocean
+clics-doculect-84-34,poli1260-std,concepticon-624,1.33,jezioro,lake,jezioro
+clics-doculect-84-35,poli1260-std,concepticon-663,1.34,zatoka,"gulf, bay",zatoka
+clics-doculect-84-36,poli1260-std,concepticon-623,1.341,laguna,lagoon,laguna
+clics-doculect-84-37,poli1260-std,concepticon-660,1.342,rafa,reef,rafa
+clics-doculect-84-38,poli1260-std,concepticon-1662,1.343,przylądek,"headland, point",przyladek
+clics-doculect-84-39,poli1260-std,concepticon-978,1.35,fala,wave,fala
+clics-doculect-84-40,poli1260-std,concepticon-978,1.35,wał,wave,wal
+clics-doculect-84-41,poli1260-std,concepticon-891,1.352,przypływ,tide,przyplyw
+clics-doculect-84-42,poli1260-std,concepticon-891,1.352,odpływ,tide,odplyw
+clics-doculect-84-43,poli1260-std,concepticon-1026,1.353,odpływ,lowtide,odplyw
+clics-doculect-84-44,poli1260-std,concepticon-613,1.354,przypływ,hightide,przyplyw
+clics-doculect-84-45,poli1260-std,concepticon-666,1.36,rzeka,"river, stream, brook",rzeka
+clics-doculect-84-46,poli1260-std,concepticon-666,1.36,potok,"river, stream, brook",potok
+clics-doculect-84-47,poli1260-std,concepticon-666,1.36,strumyk,"river, stream, brook",strumyk
+clics-doculect-84-48,poli1260-std,concepticon-666,1.36,ruczaj,"river, stream, brook",ruczaj
+clics-doculect-84-49,poli1260-std,concepticon-1982,1.362,wir,whirlpool,wir
+clics-doculect-84-50,poli1260-std,concepticon-2144,1.37,studnia,"spring, well",studnia
+clics-doculect-84-51,poli1260-std,concepticon-2144,1.37,źródło,"spring, well",zrodlo
+clics-doculect-84-52,poli1260-std,concepticon-2144,1.37,zdrój,"spring, well",zdroj
+clics-doculect-84-53,poli1260-std,concepticon-1145,1.38,bagno,swamp,bagno
+clics-doculect-84-54,poli1260-std,concepticon-1145,1.38,moczary,swamp,moczary
+clics-doculect-84-55,poli1260-std,concepticon-943,1.39,wodospad,waterfall,wodospad
+clics-doculect-84-56,poli1260-std,concepticon-420,1.41,las,"woods, forest",las
+clics-doculect-84-57,poli1260-std,concepticon-420,1.41,bór,"woods, forest",bor
+clics-doculect-84-58,poli1260-std,concepticon-420,1.41,puszcza,"woods, forest",puszcza
+clics-doculect-84-59,poli1260-std,concepticon-420,1.41,knieja,"woods, forest",knieja
+clics-doculect-84-61,poli1260-std,concepticon-1803,1.43,drzewo,wood,drzewo
+clics-doculect-84-62,poli1260-std,concepticon-1803,1.43,drewno,wood,drewno
+clics-doculect-84-63,poli1260-std,concepticon-2125,1.44,kamień,"stone, rock",kamien
+clics-doculect-84-64,poli1260-std,concepticon-2125,1.44,skała,"stone, rock",skala
+clics-doculect-84-65,poli1260-std,concepticon-2125,1.44,opoka,"stone, rock",opoka
+clics-doculect-84-66,poli1260-std,concepticon-6,1.45,trzęsienieziemi,earthquake,trzesienieziemi
+clics-doculect-84-67,poli1260-std,concepticon-1732,1.51,niebo,sky,niebo
+clics-doculect-84-68,poli1260-std,concepticon-1732,1.51,nieboskłon,sky,niebosklon
+clics-doculect-84-69,poli1260-std,concepticon-1732,1.51,firmament,sky,firmament
+clics-doculect-84-70,poli1260-std,concepticon-1343,1.52,słońce,sun,slonce
+clics-doculect-84-71,poli1260-std,concepticon-1313,1.53,księżyc,moon,ksiezyc
+clics-doculect-84-72,poli1260-std,concepticon-1430,1.54,gwiazda,star,gwiazda
+clics-doculect-84-73,poli1260-std,concepticon-1654,1.55,błyskawica,lightning,blyskawica
+clics-doculect-84-74,poli1260-std,concepticon-1150,1.56,grzmot,thunder,grzmot
+clics-doculect-84-75,poli1260-std,concepticon-1150,1.56,grom,thunder,grom
+clics-doculect-84-76,poli1260-std,concepticon-1150,1.56,piorun,thunder,piorun
+clics-doculect-84-77,poli1260-std,concepticon-2007,1.57,grom,lightning (as striking),grom
+clics-doculect-84-78,poli1260-std,concepticon-2007,1.57,piorun,lightning (as striking),piorun
+clics-doculect-84-79,poli1260-std,concepticon-858,1.58,burza,storm,burza
+clics-doculect-84-80,poli1260-std,concepticon-858,1.58,sztorm,storm,sztorm
+clics-doculect-84-81,poli1260-std,concepticon-1733,1.59,tęcza,rainbow,tecza
+clics-doculect-84-82,poli1260-std,concepticon-630,1.61,światło,light (noun),swiatlo
+clics-doculect-84-83,poli1260-std,concepticon-11,1.62,ciemność,darkness,ciemnosc
+clics-doculect-84-84,poli1260-std,concepticon-11,1.62,ciemnia,darkness,ciemnia
+clics-doculect-84-85,poli1260-std,concepticon-1388,1.63,cień,"shade, shadow",cien
+clics-doculect-84-86,poli1260-std,concepticon-1388,1.63,odcień,"shade, shadow",odcien
+clics-doculect-84-87,poli1260-std,concepticon-1388,1.63,zasłona,"shade, shadow",zaslona
+clics-doculect-84-88,poli1260-std,concepticon-1977,1.64,rosa,dew,rosa
+clics-doculect-84-89,poli1260-std,concepticon-27,1.71,powietrze,air,powietrze
+clics-doculect-84-90,poli1260-std,concepticon-960,1.72,wiatr,wind,wiatr
+clics-doculect-84-91,poli1260-std,concepticon-1489,1.73,chmura,cloud,chmura
+clics-doculect-84-92,poli1260-std,concepticon-1489,1.73,obłok,cloud,oblok
+clics-doculect-84-93,poli1260-std,concepticon-249,1.74,mgła,fog,mgla
+clics-doculect-84-94,poli1260-std,concepticon-658,1.75,deszcz,rain (noun),deszcz
+clics-doculect-84-95,poli1260-std,concepticon-658,1.75,ulewa,rain (noun),ulewa
+clics-doculect-84-96,poli1260-std,concepticon-784,1.76,śnieg,snow (noun),snieg
+clics-doculect-84-97,poli1260-std,concepticon-617,1.77,lód,ice,lod
+clics-doculect-84-98,poli1260-std,concepticon-952,1.78,czas,weather,czas
+clics-doculect-84-99,poli1260-std,concepticon-952,1.78,pogoda,weather,pogoda
+clics-doculect-84-100,poli1260-std,concepticon-221,1.81,ogień,fire,ogien
+clics-doculect-84-101,poli1260-std,concepticon-889,1.82,płomień,flame (noun),plomien
+clics-doculect-84-102,poli1260-std,concepticon-778,1.83,dym,smoke (noun),dym
+clics-doculect-84-103,poli1260-std,concepticon-646,1.84,popiół,ashes,popiol
+clics-doculect-84-104,poli1260-std,concepticon-67,1.841,węgle,embers,wegle
+clics-doculect-84-105,poli1260-std,concepticon-67,1.841,żar,embers,zar
+clics-doculect-84-106,poli1260-std,concepticon-141,1.851,palić,burn (vb trans),palic
+clics-doculect-84-107,poli1260-std,concepticon-1428,1.852,palić,burn (vb intrans),palic
+clics-doculect-84-108,poli1260-std,concepticon-1428,1.852,spalać,burn (vb intrans),spalac
+clics-doculect-84-109,poli1260-std,concepticon-737,1.86,zapalić,"light, kindle, ignite",zapalic
+clics-doculect-84-110,poli1260-std,concepticon-737,1.86,podpalić,"light, kindle, ignite",podpalic
+clics-doculect-84-111,poli1260-std,concepticon-737,1.86,podłożyćogień,"light, kindle, ignite",podlozycogien
+clics-doculect-84-112,poli1260-std,concepticon-127,1.861,gasić,extinguish,gasic
+clics-doculect-84-113,poli1260-std,concepticon-127,1.861,zgasić,extinguish,zgasic
+clics-doculect-84-114,poli1260-std,concepticon-127,1.861,zagasić,extinguish,zagasic
+clics-doculect-84-115,poli1260-std,concepticon-1133,1.87,zapałka,match (noun),zapalka
+clics-doculect-84-116,poli1260-std,concepticon-10,1.88,drewnonaopał,firewood,drewnonaopal
+clics-doculect-84-117,poli1260-std,concepticon-1188,1.89,węgieldrzewny,charcoal,wegieldrzewny
+clics-doculect-84-118,poli1260-std,concepticon-683,2.1,człowiek,"person, human being",czlowiek
+clics-doculect-84-119,poli1260-std,concepticon-683,2.1,osoba,"person, human being",osoba
+clics-doculect-84-120,poli1260-std,concepticon-683,2.1,istotaludzka,"person, human being",istotaludzka
+clics-doculect-84-121,poli1260-std,concepticon-1554,2.21,mąż,man (vs. woman),maz
+clics-doculect-84-122,poli1260-std,concepticon-1554,2.21,mężczyzna,man (vs. woman),mezczyzna
+clics-doculect-84-123,poli1260-std,concepticon-962,2.22,kobieta,woman,kobieta
+clics-doculect-84-124,poli1260-std,concepticon-1553,2.23,męski,male,meski
+clics-doculect-84-125,poli1260-std,concepticon-1551,2.24,żeński,female,zenski
+clics-doculect-84-126,poli1260-std,concepticon-1366,2.25,chłopiec,boy,chlopiec
+clics-doculect-84-127,poli1260-std,concepticon-1366,2.25,chłopak,boy,chlopak
+clics-doculect-84-128,poli1260-std,concepticon-1366,2.25,chłopię,boy,chlopie
+clics-doculect-84-129,poli1260-std,concepticon-76,2.251,młodzieniec,young man (adolescent),mlodzieniec
+clics-doculect-84-130,poli1260-std,concepticon-76,2.251,młodzian,young man (adolescent),mlodzian
+clics-doculect-84-131,poli1260-std,concepticon-1646,2.26,dziewczyna,girl,dziewczyna
+clics-doculect-84-132,poli1260-std,concepticon-1646,2.26,dziewczynka,girl,dziewczynka
+clics-doculect-84-133,poli1260-std,concepticon-77,2.261,panna,young woman (adolescent),panna
+clics-doculect-84-134,poli1260-std,concepticon-77,2.261,panienka,young woman (adolescent),panienka
+clics-doculect-84-135,poli1260-std,concepticon-1304,2.27,dziecko,child,dziecko
+clics-doculect-84-136,poli1260-std,concepticon-1304,2.27,dziecię,child,dziecie
+clics-doculect-84-137,poli1260-std,concepticon-1304,2.27,dzieciątko,child,dzieciatko
+clics-doculect-84-138,poli1260-std,concepticon-1289,2.28,dzieciątko,"infant, baby",dzieciatko
+clics-doculect-84-139,poli1260-std,concepticon-1289,2.28,niemowlę,"infant, baby",niemowle
+clics-doculect-84-140,poli1260-std,concepticon-1200,2.31,mąż,husband,maz
+clics-doculect-84-141,poli1260-std,concepticon-1200,2.31,małżonek,husband,malzonek
+clics-doculect-84-142,poli1260-std,concepticon-1199,2.32,żona,wife,zona
+clics-doculect-84-143,poli1260-std,concepticon-1199,2.32,małżonka,wife,malzonka
+clics-doculect-84-144,poli1260-std,concepticon-203,2.33,żenićsię,marry,zenicsie
+clics-doculect-84-145,poli1260-std,concepticon-203,2.33,wyjśćzamąż,marry,wyjsczamaz
+clics-doculect-84-146,poli1260-std,concepticon-1259,2.34,małżeństwo,"marriage, wedding",malzenstwo
+clics-doculect-84-147,poli1260-std,concepticon-1259,2.34,ślub,"marriage, wedding",slub
+clics-doculect-84-148,poli1260-std,concepticon-1259,2.34,wesele,"marriage, wedding",wesele
+clics-doculect-84-149,poli1260-std,concepticon-1134,2.341,rozwód,divorce,rozwod
+clics-doculect-84-150,poli1260-std,concepticon-1217,2.35,ojciec,father,ojciec
+clics-doculect-84-151,poli1260-std,concepticon-1216,2.36,matka,mother,matka
+clics-doculect-84-152,poli1260-std,concepticon-505,2.37,rodzice,parents,rodzice
+clics-doculect-84-153,poli1260-std,concepticon-505,2.37,rodziciele,parents,rodziciele
+clics-doculect-84-154,poli1260-std,concepticon-424,2.38,żonatymężczyzna,married man,zonatymezczyzna
+clics-doculect-84-155,poli1260-std,concepticon-424,2.38,żonkoś,married man,zonkos
+clics-doculect-84-156,poli1260-std,concepticon-426,2.39,mężatka,married woman,mezatka
+clics-doculect-84-157,poli1260-std,concepticon-426,2.39,kobietazamężna,married woman,kobietazamezna
+clics-doculect-84-158,poli1260-std,concepticon-1620,2.41,syn,son,syn
+clics-doculect-84-159,poli1260-std,concepticon-1357,2.42,córka,daughter,corka
+clics-doculect-84-160,poli1260-std,concepticon-1801,2.43,potomstwo,offspring (son or daughter),potomstwo
+clics-doculect-84-161,poli1260-std,concepticon-1262,2.44,brat,brother,brat
+clics-doculect-84-162,poli1260-std,concepticon-1759,2.444,starszybrat,older brother,starszybrat
+clics-doculect-84-163,poli1260-std,concepticon-1760,2.445,młodszybrat,younger brother,mlodszybrat
+clics-doculect-84-164,poli1260-std,concepticon-1263,2.45,siostra,sister,siostra
+clics-doculect-84-165,poli1260-std,concepticon-1758,2.454,starszasiostra,older sister,starszasiostra
+clics-doculect-84-166,poli1260-std,concepticon-1761,2.455,młodszasiostra,younger sister,mlodszasiostra
+clics-doculect-84-167,poli1260-std,concepticon-1640,2.456,rodzeństwo,sibling,rodzenstwo
+clics-doculect-84-168,poli1260-std,concepticon-1005,2.458,bliźnięta,twins,bliznieta
+clics-doculect-84-169,poli1260-std,concepticon-1383,2.46,dziadek,grandfather,dziadek
+clics-doculect-84-170,poli1260-std,concepticon-1383,2.46,dziadzio,grandfather,dziadzio
+clics-doculect-84-171,poli1260-std,concepticon-1383,2.46,dziadunio,grandfather,dziadunio
+clics-doculect-84-172,poli1260-std,concepticon-406,2.461,starymężczyzna,old man,starymezczyzna
+clics-doculect-84-173,poli1260-std,concepticon-406,2.461,staryczłowiek,old man,staryczlowiek
+clics-doculect-84-174,poli1260-std,concepticon-1496,2.47,babka,grandmother,babka
+clics-doculect-84-175,poli1260-std,concepticon-1496,2.47,babcia,grandmother,babcia
+clics-doculect-84-176,poli1260-std,concepticon-1496,2.47,babunia,grandmother,babunia
+clics-doculect-84-177,poli1260-std,concepticon-907,2.471,starakobieta,old woman,starakobieta
+clics-doculect-84-178,poli1260-std,concepticon-907,2.471,staruszka,old woman,staruszka
+clics-doculect-84-179,poli1260-std,concepticon-1618,2.48,wnuk,grandson,wnuk
+clics-doculect-84-180,poli1260-std,concepticon-1618,2.48,wnuczę,grandson,wnucze
+clics-doculect-84-181,poli1260-std,concepticon-1618,2.48,wnuczek,grandson,wnuczek
+clics-doculect-84-182,poli1260-std,concepticon-1619,2.49,wnuczka,granddaughter,wnuczka
+clics-doculect-84-183,poli1260-std,concepticon-1619,2.49,wnusia,granddaughter,wnusia
+clics-doculect-84-184,poli1260-std,concepticon-1327,2.51,stryj,uncle,stryj
+clics-doculect-84-185,poli1260-std,concepticon-1327,2.51,wuj,uncle,wuj
+clics-doculect-84-186,poli1260-std,concepticon-1984,2.511,wuj,mother's brother,wuj
+clics-doculect-84-187,poli1260-std,concepticon-1984,2.511,wujek,mother's brother,wujek
+clics-doculect-84-188,poli1260-std,concepticon-1985,2.512,stryj,father's brother,stryj
+clics-doculect-84-189,poli1260-std,concepticon-1272,2.52,ciotka,aunt,ciotka
+clics-doculect-84-190,poli1260-std,concepticon-1272,2.52,ciocia,aunt,ciocia
+clics-doculect-84-191,poli1260-std,concepticon-171,2.521,ciotka,mother's sister,ciotka
+clics-doculect-84-192,poli1260-std,concepticon-171,2.521,ciocia,mother's sister,ciocia
+clics-doculect-84-193,poli1260-std,concepticon-170,2.522,ciotka,father's sister,ciotka
+clics-doculect-84-194,poli1260-std,concepticon-170,2.522,ciocia,father's sister,ciocia
+clics-doculect-84-195,poli1260-std,concepticon-1063,2.53,synowiec,nephew,synowiec
+clics-doculect-84-196,poli1260-std,concepticon-1063,2.53,bratanek,nephew,bratanek
+clics-doculect-84-197,poli1260-std,concepticon-1642,2.54,synowica,niece,synowica
+clics-doculect-84-198,poli1260-std,concepticon-1642,2.54,siostrzenica,niece,siostrzenica
+clics-doculect-84-199,poli1260-std,concepticon-1643,2.55,kuzyn,cousin,kuzyn
+clics-doculect-84-200,poli1260-std,concepticon-1643,2.55,kuzynka,cousin,kuzynka
+clics-doculect-84-201,poli1260-std,concepticon-1669,2.56,przodkowie,ancestors,przodkowie
+clics-doculect-84-202,poli1260-std,concepticon-490,2.57,potomkowie,descendants,potomkowie
+clics-doculect-84-203,poli1260-std,concepticon-2255,2.61,świekier,father-in-law (of a man),swiekier
+clics-doculect-84-204,poli1260-std,concepticon-2255,2.61,teść,father-in-law (of a man),tesc
+clics-doculect-84-205,poli1260-std,concepticon-2254,2.611,teść,father-in-law (of a woman),tesc
+clics-doculect-84-206,poli1260-std,concepticon-2256,2.62,świekra,mother-in-law (of a man),swiekra
+clics-doculect-84-207,poli1260-std,concepticon-2256,2.62,teściowa,mother-in-law (of a man),tesciowa
+clics-doculect-84-208,poli1260-std,concepticon-2257,2.621,teściowa,mother-in-law (of a woman),tesciowa
+clics-doculect-84-209,poli1260-std,concepticon-2267,2.63,zięć,son-in-law (of a man),ziec
+clics-doculect-84-210,poli1260-std,concepticon-2266,2.631,zięć,son-in-law (of a woman),ziec
+clics-doculect-84-211,poli1260-std,concepticon-2265,2.64,synowa,daughter-in-law (of a man),synowa
+clics-doculect-84-212,poli1260-std,concepticon-2264,2.641,synowa,daughter-in-law (of a woman),synowa
+clics-doculect-84-213,poli1260-std,concepticon-237,2.71,ojczym,stepfather,ojczym
+clics-doculect-84-214,poli1260-std,concepticon-236,2.72,macocha,stepmother,macocha
+clics-doculect-84-215,poli1260-std,concepticon-1059,2.73,pasierb,stepson,pasierb
+clics-doculect-84-216,poli1260-std,concepticon-1058,2.74,pasierbica,stepdaughter,pasierbica
+clics-doculect-84-217,poli1260-std,concepticon-1149,2.75,sierota,orphan,sierota
+clics-doculect-84-218,poli1260-std,concepticon-1756,2.76,wdowa,widow,wdowa
+clics-doculect-84-219,poli1260-std,concepticon-1981,2.77,wdowiec,widower,wdowiec
+clics-doculect-84-220,poli1260-std,concepticon-1644,2.81,krewni,"relatives, kinsmen",krewni
+clics-doculect-84-221,poli1260-std,concepticon-194,2.82,rodzina,family,rodzina
+clics-doculect-84-222,poli1260-std,concepticon-1209,2.91,ja,I,ja
+clics-doculect-84-223,poli1260-std,concepticon-1215,2.92,ty,you (singular),ty
+clics-doculect-84-224,poli1260-std,concepticon-262,2.93,on,he/she/it,on
+clics-doculect-84-225,poli1260-std,concepticon-262,2.93,ona,he/she/it,ona
+clics-doculect-84-226,poli1260-std,concepticon-262,2.93,ono,he/she/it,ono
+clics-doculect-84-227,poli1260-std,concepticon-1212,2.94,my,we,my
+clics-doculect-84-228,poli1260-std,concepticon-1131,2.941,nam,we (inclusive),nam
+clics-doculect-84-229,poli1260-std,concepticon-1130,2.942,nas,we (exclusive),nas
+clics-doculect-84-230,poli1260-std,concepticon-1213,2.95,wy,you (plural),wy
+clics-doculect-84-231,poli1260-std,concepticon-817,2.96,oni,they,oni
+clics-doculect-84-232,poli1260-std,concepticon-817,2.96,one,they,one
+clics-doculect-84-233,poli1260-std,concepticon-619,3.11,zwierzę,animal,zwierze
+clics-doculect-84-234,poli1260-std,concepticon-2261,3.12,samiec,male (adj),samiec
+clics-doculect-84-235,poli1260-std,concepticon-2261,3.12,samczy,male (adj),samczy
+clics-doculect-84-236,poli1260-std,concepticon-2262,3.13,samica,female (adj),samica
+clics-doculect-84-237,poli1260-std,concepticon-2262,3.13,samcza,female (adj),samcza
+clics-doculect-84-238,poli1260-std,concepticon-631,3.15,bydło,livestock,bydlo
+clics-doculect-84-239,poli1260-std,concepticon-649,3.16,pastwisko,pasture,pastwisko
+clics-doculect-84-240,poli1260-std,concepticon-649,3.16,paść,pasture,pasc
+clics-doculect-84-241,poli1260-std,concepticon-649,3.16,paśćsię,pasture,pascsie
+clics-doculect-84-242,poli1260-std,concepticon-263,3.18,pastuch,herdsman,pastuch
+clics-doculect-84-243,poli1260-std,concepticon-263,3.18,pasterz,herdsman,pasterz
+clics-doculect-84-244,poli1260-std,concepticon-851,3.19,stajnia,"stable, stall",stajnia
+clics-doculect-84-245,poli1260-std,concepticon-851,3.19,chlew,"stable, stall",chlew
+clics-doculect-84-246,poli1260-std,concepticon-851,3.19,obora,"stable, stall",obora
+clics-doculect-84-247,poli1260-std,concepticon-1153,3.2,bydło,cattle (bovine),bydlo
+clics-doculect-84-248,poli1260-std,concepticon-1008,3.21,byk,bull,byk
+clics-doculect-84-249,poli1260-std,concepticon-1169,3.22,wół,ox,wol
+clics-doculect-84-250,poli1260-std,concepticon-1007,3.23,krowa,cow,krowa
+clics-doculect-84-251,poli1260-std,concepticon-1989,3.24,cielę,calf,ciele
+clics-doculect-84-252,poli1260-std,concepticon-1331,3.25,owca,sheep,owca
+clics-doculect-84-253,poli1260-std,concepticon-1344,3.26,baran,ram,baran
+clics-doculect-84-254,poli1260-std,concepticon-1345,3.28,owca,ewe,owca
+clics-doculect-84-255,poli1260-std,concepticon-820,3.29,jagnię,lamb,jagnie
+clics-doculect-84-256,poli1260-std,concepticon-820,3.29,baranek,lamb,baranek
+clics-doculect-84-257,poli1260-std,concepticon-1348,3.32,kiernoz,boar,kiernoz
+clics-doculect-84-258,poli1260-std,concepticon-1351,3.34,świnia,sow,swinia
+clics-doculect-84-259,poli1260-std,concepticon-1337,3.35,prosię,pig,prosie
+clics-doculect-84-260,poli1260-std,concepticon-1337,3.35,prosiak,pig,prosiak
+clics-doculect-84-261,poli1260-std,concepticon-1502,3.36,koza,goat,koza
+clics-doculect-84-262,poli1260-std,concepticon-264,3.37,kozioł,he-goat,koziol
+clics-doculect-84-263,poli1260-std,concepticon-1972,3.38,koźlę,kid,kozle
+clics-doculect-84-264,poli1260-std,concepticon-615,3.41,koń,horse (equine),kon
+clics-doculect-84-265,poli1260-std,concepticon-936,3.42,ogier,stallion,ogier
+clics-doculect-84-266,poli1260-std,concepticon-936,3.42,drygant,stallion,drygant
+clics-doculect-84-267,poli1260-std,concepticon-936,3.42,stadnik,stallion,stadnik
+clics-doculect-84-268,poli1260-std,concepticon-938,3.44,klacz,mare,klacz
+clics-doculect-84-269,poli1260-std,concepticon-938,3.44,kobyła,mare,kobyla
+clics-doculect-84-270,poli1260-std,concepticon-1647,3.45,źrebię,"foal, colt",zrebie
+clics-doculect-84-271,poli1260-std,concepticon-1862,3.46,osioł,"ass, donkey",osiol
+clics-doculect-84-272,poli1260-std,concepticon-890,3.47,muł,mule,mul
+clics-doculect-84-273,poli1260-std,concepticon-265,3.5,drób,fowl,drob
+clics-doculect-84-274,poli1260-std,concepticon-1511,3.52,kogut,"cock, rooster",kogut
+clics-doculect-84-275,poli1260-std,concepticon-1511,3.52,pietuch,"cock, rooster",pietuch
+clics-doculect-84-276,poli1260-std,concepticon-1514,3.54,kura,hen,kura
+clics-doculect-84-277,poli1260-std,concepticon-1514,3.54,kokosz,hen,kokosz
+clics-doculect-84-278,poli1260-std,concepticon-1318,3.55,kurczę,chicken,kurcze
+clics-doculect-84-279,poli1260-std,concepticon-1187,3.56,gęś,goose,ges
+clics-doculect-84-280,poli1260-std,concepticon-1360,3.57,kaczka,duck,kaczka
+clics-doculect-84-281,poli1260-std,concepticon-539,3.58,gniazdo,nest,gniazdo
+clics-doculect-84-282,poli1260-std,concepticon-937,3.581,ptak,bird,ptak
+clics-doculect-84-283,poli1260-std,concepticon-950,3.582,mewa,seagull,mewa
+clics-doculect-84-284,poli1260-std,concepticon-758,3.583,czapla,heron,czapla
+clics-doculect-84-285,poli1260-std,concepticon-1905,3.584,orzeł,eagle,orzel
+clics-doculect-84-286,poli1260-std,concepticon-307,3.585,jastrząb,hawk,jastrzab
+clics-doculect-84-287,poli1260-std,concepticon-1185,3.586,sęp,vulture,sep
+clics-doculect-84-288,poli1260-std,concepticon-1793,3.591,nietoperz,bat,nietoperz
+clics-doculect-84-289,poli1260-std,concepticon-882,3.592,papuga,parrot,papuga
+clics-doculect-84-290,poli1260-std,concepticon-913,3.593,kruk,crow,kruk
+clics-doculect-84-291,poli1260-std,concepticon-913,3.593,wrona,crow,wrona
+clics-doculect-84-292,poli1260-std,concepticon-1853,3.594,gołąb,dove,golab
+clics-doculect-84-293,poli1260-std,concepticon-1853,3.594,gołąbek,dove,golabek
+clics-doculect-84-294,poli1260-std,concepticon-735,3.596,sowa,owl,sowa
+clics-doculect-84-295,poli1260-std,concepticon-2009,3.61,pies,dog,pies
+clics-doculect-84-296,poli1260-std,concepticon-2009,3.61,szczenię,dog,szczenie
+clics-doculect-84-297,poli1260-std,concepticon-1136,3.614,królik,rabbit,krolik
+clics-doculect-84-298,poli1260-std,concepticon-1208,3.62,kot,cat,kot
+clics-doculect-84-299,poli1260-std,concepticon-309,3.622,opos,opossum,opos
+clics-doculect-84-300,poli1260-std,concepticon-2139,3.63,mysz,"mouse, rat",mysz
+clics-doculect-84-301,poli1260-std,concepticon-2139,3.63,szczur,"mouse, rat",szczur
+clics-doculect-84-302,poli1260-std,concepticon-227,3.65,ryba,fish,ryba
+clics-doculect-84-303,poli1260-std,concepticon-213,3.652,płetwaogonowa,fin (dorsal),pletwaogonowa
+clics-doculect-84-304,poli1260-std,concepticon-266,3.653,łuska,fishscale,luska
+clics-doculect-84-305,poli1260-std,concepticon-1916,3.654,skrzele,gill,skrzele
+clics-doculect-84-306,poli1260-std,concepticon-598,3.655,muszla,shell,muszla
+clics-doculect-84-307,poli1260-std,concepticon-598,3.655,skorupa,shell,skorupa
+clics-doculect-84-308,poli1260-std,concepticon-1110,3.661,rekin,shark,rekin
+clics-doculect-84-309,poli1260-std,concepticon-1479,3.662,morświn,"porpoise, dolphin",morswin
+clics-doculect-84-310,poli1260-std,concepticon-957,3.663,wieloryb,whale,wieloryb
+clics-doculect-84-311,poli1260-std,concepticon-1910,3.664,płaszczka,stingray,plaszczka
+clics-doculect-84-312,poli1260-std,concepticon-1013,3.665,węgorz,freshwater eel,wegorz
+clics-doculect-84-313,poli1260-std,concepticon-522,3.71,wilk,wolf,wilk
+clics-doculect-84-314,poli1260-std,concepticon-1386,3.72,lew,lion,lew
+clics-doculect-84-315,poli1260-std,concepticon-1820,3.73,niedźwiedź,bear,niedzwiedz
+clics-doculect-84-316,poli1260-std,concepticon-1312,3.74,lis,fox,lis
+clics-doculect-84-317,poli1260-std,concepticon-1936,3.75,jeleń,deer,jelen
+clics-doculect-84-318,poli1260-std,concepticon-1350,3.76,małpa,monkey,malpa
+clics-doculect-84-319,poli1260-std,concepticon-1290,3.77,słoń,elephant,slon
+clics-doculect-84-320,poli1260-std,concepticon-1871,3.78,wielbłąd,camel,wielblad
+clics-doculect-84-321,poli1260-std,concepticon-620,3.81,owad,insect,owad
+clics-doculect-84-322,poli1260-std,concepticon-1392,3.811,wesz,louse,wesz
+clics-doculect-84-323,poli1260-std,concepticon-267,3.812,gnida,nit (louse egg),gnida
+clics-doculect-84-324,poli1260-std,concepticon-232,3.813,pchła,flea,pchla
+clics-doculect-84-325,poli1260-std,concepticon-1974,3.814,stonoga,centipede,stonoga
+clics-doculect-84-326,poli1260-std,concepticon-1538,3.815,skorpion,scorpion,skorpion
+clics-doculect-84-327,poli1260-std,concepticon-1575,3.816,karaluch,cockroach,karaluch
+clics-doculect-84-328,poli1260-std,concepticon-587,3.817,mrówka,ant,mrowka
+clics-doculect-84-329,poli1260-std,concepticon-843,3.818,pająk,spider,pajak
+clics-doculect-84-330,poli1260-std,concepticon-1065,3.819,pajęczyna,spider web,pajeczyna
+clics-doculect-84-331,poli1260-std,concepticon-665,3.82,pszczoła,bee,pszczola
+clics-doculect-84-332,poli1260-std,concepticon-1931,3.821,wosk,beeswax,wosk
+clics-doculect-84-333,poli1260-std,concepticon-88,3.822,ul,beehive,ul
+clics-doculect-84-334,poli1260-std,concepticon-1517,3.823,osa,wasp,osa
+clics-doculect-84-335,poli1260-std,concepticon-1504,3.83,mucha,fly,mucha
+clics-doculect-84-336,poli1260-std,concepticon-95,3.831,mustyk,"sandfly (midge), gnat",mustyk
+clics-doculect-84-337,poli1260-std,concepticon-1509,3.832,komar,mosquito,komar
+clics-doculect-84-338,poli1260-std,concepticon-1219,3.84,robak,worm,robak
+clics-doculect-84-339,poli1260-std,concepticon-730,3.85,wąż,snake,waz
+clics-doculect-84-340,poli1260-std,concepticon-730,3.85,żmija,snake,zmija
+clics-doculect-84-341,poli1260-std,concepticon-206,3.91,świetlik,firefly,swietlik
+clics-doculect-84-342,poli1260-std,concepticon-1791,3.92,motyl,butterfly,motyl
+clics-doculect-84-343,poli1260-std,concepticon-607,3.93,konikpolny,grasshopper,konikpolny
+clics-doculect-84-344,poli1260-std,concepticon-1543,3.94,ślimak,snail,slimak
+clics-doculect-84-345,poli1260-std,concepticon-503,3.95,żaba,frog,zaba
+clics-doculect-84-346,poli1260-std,concepticon-632,3.96,jaszczurka,lizard,jaszczurka
+clics-doculect-84-347,poli1260-std,concepticon-1857,3.97,krokodyl,"crocodile, alligator",krokodyl
+clics-doculect-84-348,poli1260-std,concepticon-112,3.98,żółw,turtle,zolw
+clics-doculect-84-349,poli1260-std,concepticon-1480,4.11,ciało,body,cialo
+clics-doculect-84-350,poli1260-std,concepticon-763,4.12,skóra,"skin, hide",skora
+clics-doculect-84-351,poli1260-std,concepticon-2259,4.13,mięso,flesh,mieso
+clics-doculect-84-352,poli1260-std,concepticon-1040,4.14,włos,hair (head),wlos
+clics-doculect-84-353,poli1260-std,concepticon-678,4.142,broda,beard,broda
+clics-doculect-84-354,poli1260-std,concepticon-189,4.144,zarost,body hair,zarost
+clics-doculect-84-355,poli1260-std,concepticon-36,4.145,włosyłonowe,pubic hair,wlosylonowe
+clics-doculect-84-356,poli1260-std,concepticon-576,4.146,łupież,dandruff,lupiez
+clics-doculect-84-357,poli1260-std,concepticon-946,4.15,krew,blood,krew
+clics-doculect-84-358,poli1260-std,concepticon-525,4.151,żyła,"vein, artery",zyla
+clics-doculect-84-359,poli1260-std,concepticon-1394,4.16,kość,bone,kosc
+clics-doculect-84-360,poli1260-std,concepticon-801,4.162,żebro,rib,zebro
+clics-doculect-84-361,poli1260-std,concepticon-1393,4.17,róg,horn,rog
+clics-doculect-84-362,poli1260-std,concepticon-1220,4.18,ogon,tail,ogon
+clics-doculect-84-363,poli1260-std,concepticon-1220,4.18,chwost,tail,chwost
+clics-doculect-84-364,poli1260-std,concepticon-1291,4.19,grzbiet,back,grzbiet
+clics-doculect-84-365,poli1260-std,concepticon-1291,4.19,plecy,back,plecy
+clics-doculect-84-366,poli1260-std,concepticon-805,4.191,kręgosłup,spine,kregoslup
+clics-doculect-84-367,poli1260-std,concepticon-805,4.191,krzyż,spine,krzyz
+clics-doculect-84-368,poli1260-std,concepticon-1256,4.2,głowa,head,glowa
+clics-doculect-84-369,poli1260-std,concepticon-1604,4.201,skroń,"side of head, temple",skron
+clics-doculect-84-370,poli1260-std,concepticon-1605,4.202,czaszka,skull,czaszka
+clics-doculect-84-371,poli1260-std,concepticon-1583,4.203,mózg,brain,mozg
+clics-doculect-84-372,poli1260-std,concepticon-1560,4.204,twarz,face,twarz
+clics-doculect-84-373,poli1260-std,concepticon-123,4.205,czoło,forehead,czolo
+clics-doculect-84-374,poli1260-std,concepticon-798,4.207,szczęka,jaw,szczeka
+clics-doculect-84-375,poli1260-std,concepticon-1730,4.208,lico,cheek,lico
+clics-doculect-84-376,poli1260-std,concepticon-1730,4.208,policzek,cheek,policzek
+clics-doculect-84-377,poli1260-std,concepticon-1510,4.209,podbródek,chin,podbrodek
+clics-doculect-84-378,poli1260-std,concepticon-1248,4.21,oko,eye,oko
+clics-doculect-84-379,poli1260-std,concepticon-1173,4.212,brew,eyebrow,brew
+clics-doculect-84-380,poli1260-std,concepticon-1173,4.212,brwi,eyebrow,brwi
+clics-doculect-84-381,poli1260-std,concepticon-17,4.213,powieka,eyelid,powieka
+clics-doculect-84-382,poli1260-std,concepticon-1540,4.214,rzęsa,eyelash,rzesa
+clics-doculect-84-383,poli1260-std,concepticon-1655,4.215,mrugać,blink,mrugac
+clics-doculect-84-384,poli1260-std,concepticon-1655,4.215,mrugnięcie,blink,mrugniecie
+clics-doculect-84-385,poli1260-std,concepticon-1247,4.22,ucho,ear,ucho
+clics-doculect-84-386,poli1260-std,concepticon-18,4.221,płatekuszny,earlobe,platekuszny
+clics-doculect-84-387,poli1260-std,concepticon-32,4.222,wosk,earwax,wosk
+clics-doculect-84-388,poli1260-std,concepticon-1221,4.23,nos,nose,nos
+clics-doculect-84-389,poli1260-std,concepticon-1178,4.231,nozdrze,nostril,nozdrze
+clics-doculect-84-390,poli1260-std,concepticon-208,4.232,śluz,mucus (nasal),sluz
+clics-doculect-84-391,poli1260-std,concepticon-674,4.24,usta,mouth,usta
+clics-doculect-84-392,poli1260-std,concepticon-674,4.24,gęba,mouth,geba
+clics-doculect-84-393,poli1260-std,concepticon-73,4.241,dziób,beak,dziob
+clics-doculect-84-394,poli1260-std,concepticon-478,4.25,warga,lip,warga
+clics-doculect-84-395,poli1260-std,concepticon-1205,4.26,język,tongue,jezyk
+clics-doculect-84-396,poli1260-std,concepticon-1380,4.27,ząb,tooth,zab
+clics-doculect-84-397,poli1260-std,concepticon-139,4.271,dziąsła,gums,dziasla
+clics-doculect-84-398,poli1260-std,concepticon-1049,4.272,ząbtrzonowy,molartooth,zabtrzonowy
+clics-doculect-84-399,poli1260-std,concepticon-1333,4.28,szyja,neck,szyja
+clics-doculect-84-400,poli1260-std,concepticon-1333,4.28,kark,neck,kark
+clics-doculect-84-401,poli1260-std,concepticon-1347,4.281,kark,nape of neck,kark
+clics-doculect-84-402,poli1260-std,concepticon-1346,4.29,gardło,throat,gardlo
+clics-doculect-84-403,poli1260-std,concepticon-1482,4.3,ramię,shoulder,ramie
+clics-doculect-84-404,poli1260-std,concepticon-1482,4.3,plecy,shoulder,plecy
+clics-doculect-84-405,poli1260-std,concepticon-172,4.301,łopatka,shoulderblade,lopatka
+clics-doculect-84-406,poli1260-std,concepticon-1994,4.302,obojczyk,collarbone,obojczyk
+clics-doculect-84-407,poli1260-std,concepticon-1673,4.31,ramię,arm,ramie
+clics-doculect-84-408,poli1260-std,concepticon-1673,4.31,ręka,arm,reka
+clics-doculect-84-409,poli1260-std,concepticon-1886,4.312,pacha,armpit,pacha
+clics-doculect-84-410,poli1260-std,concepticon-981,4.32,łokieć,elbow,lokiec
+clics-doculect-84-411,poli1260-std,concepticon-799,4.321,przegub,wrist,przegub
+clics-doculect-84-412,poli1260-std,concepticon-1277,4.33,ręka,hand,reka
+clics-doculect-84-413,poli1260-std,concepticon-1183,4.331,dłoń,palm of hand,dlon
+clics-doculect-84-414,poli1260-std,concepticon-1303,4.34,palec,finger,palec
+clics-doculect-84-415,poli1260-std,concepticon-1781,4.342,wielkipalec,thumb,wielkipalec
+clics-doculect-84-416,poli1260-std,concepticon-1781,4.342,kciuk,thumb,kciuk
+clics-doculect-84-417,poli1260-std,concepticon-1258,4.344,paznokieć,fingernail,paznokiec
+clics-doculect-84-418,poli1260-std,concepticon-72,4.345,pazur,claw,pazur
+clics-doculect-84-419,poli1260-std,concepticon-1297,4.35,noga,leg,noga
+clics-doculect-84-420,poli1260-std,concepticon-800,4.351,udo,thigh,udo
+clics-doculect-84-421,poli1260-std,concepticon-498,4.352,łydka,calf of leg,lydka
+clics-doculect-84-422,poli1260-std,concepticon-1371,4.36,kolano,knee,kolano
+clics-doculect-84-423,poli1260-std,concepticon-1301,4.37,stopa,foot,stopa
+clics-doculect-84-424,poli1260-std,concepticon-803,4.371,kostka,ankle,kostka
+clics-doculect-84-425,poli1260-std,concepticon-980,4.372,pięta,heel,pieta
+clics-doculect-84-426,poli1260-std,concepticon-318,4.374,odciskstopy,footprint,odciskstopy
+clics-doculect-84-427,poli1260-std,concepticon-318,4.374,śladstopy,footprint,sladstopy
+clics-doculect-84-428,poli1260-std,concepticon-1389,4.38,palecunogi,toe,palecunogi
+clics-doculect-84-429,poli1260-std,concepticon-1257,4.392,skrzydło,wing,skrzydlo
+clics-doculect-84-430,poli1260-std,concepticon-1201,4.393,pióro,feather,pioro
+clics-doculect-84-431,poli1260-std,concepticon-1201,4.393,piórko,feather,piorko
+clics-doculect-84-432,poli1260-std,concepticon-1592,4.4,pierś,chest,piers
+clics-doculect-84-433,poli1260-std,concepticon-1592,4.4,klatkapiersiowa,chest,klatkapiersiowa
+clics-doculect-84-434,poli1260-std,concepticon-1402,4.41,pierś,breast (of woman),piers
+clics-doculect-84-435,poli1260-std,concepticon-796,4.412,brodawkapiersiowa,"nipple, teat",brodawkapiersiowa
+clics-doculect-84-436,poli1260-std,concepticon-796,4.412,sutka,"nipple, teat",sutka
+clics-doculect-84-437,poli1260-std,concepticon-154,4.42,wymię,udder,wymie
+clics-doculect-84-438,poli1260-std,concepticon-1838,4.43,pępek,navel,pepek
+clics-doculect-84-439,poli1260-std,concepticon-1223,4.44,serce,heart,serce
+clics-doculect-84-440,poli1260-std,concepticon-688,4.441,płuco,lung,pluco
+clics-doculect-84-441,poli1260-std,concepticon-1224,4.45,wątroba,liver,watroba
+clics-doculect-84-442,poli1260-std,concepticon-489,4.451,nerka,kidney,nerka
+clics-doculect-84-443,poli1260-std,concepticon-1744,4.452,śledziona,spleen,sledziona
+clics-doculect-84-444,poli1260-std,concepticon-819,4.46,brzuch,stomach,brzuch
+clics-doculect-84-445,poli1260-std,concepticon-819,4.46,żywot,stomach,zywot
+clics-doculect-84-446,poli1260-std,concepticon-819,4.46,żołądek,stomach,zoladek
+clics-doculect-84-447,poli1260-std,concepticon-1991,4.461,jelita,"intestines, guts",jelita
+clics-doculect-84-448,poli1260-std,concepticon-1991,4.461,kiszki,"intestines, guts",kiszki
+clics-doculect-84-449,poli1260-std,concepticon-1681,4.462,kibić,waist,kibic
+clics-doculect-84-450,poli1260-std,concepticon-1681,4.462,pas,waist,pas
+clics-doculect-84-451,poli1260-std,concepticon-1681,4.462,stan,waist,stan
+clics-doculect-84-452,poli1260-std,concepticon-1681,4.462,talia,waist,talia
+clics-doculect-84-453,poli1260-std,concepticon-1745,4.463,biodro,hip,biodro
+clics-doculect-84-454,poli1260-std,concepticon-834,4.464,pośladek,buttocks,posladek
+clics-doculect-84-455,poli1260-std,concepticon-834,4.464,pośladki,buttocks,posladki
+clics-doculect-84-456,poli1260-std,concepticon-804,4.47,żywot,womb,zywot
+clics-doculect-84-457,poli1260-std,concepticon-804,4.47,łono,womb,lono
+clics-doculect-84-458,poli1260-std,concepticon-797,4.49,jądro,testicle,jadro
+clics-doculect-84-459,poli1260-std,concepticon-797,4.49,jądra,testicle,jadra
+clics-doculect-84-460,poli1260-std,concepticon-1222,4.492,penis,penis,penis
+clics-doculect-84-461,poli1260-std,concepticon-1222,4.492,członek,penis,czlonek
+clics-doculect-84-462,poli1260-std,concepticon-1407,4.51,dychać,"breathe, breath",dychac
+clics-doculect-84-463,poli1260-std,concepticon-1407,4.51,dech,"breathe, breath",dech
+clics-doculect-84-464,poli1260-std,concepticon-1407,4.51,oddychać,"breathe, breath",oddychac
+clics-doculect-84-465,poli1260-std,concepticon-1407,4.51,oddech,"breathe, breath",oddech
+clics-doculect-84-466,poli1260-std,concepticon-1028,4.52,ziewać,"yawn, gape",ziewac
+clics-doculect-84-467,poli1260-std,concepticon-162,4.521,czkawka,hiccough,czkawka
+clics-doculect-84-468,poli1260-std,concepticon-879,4.53,kaszleć,cough,kaszlec
+clics-doculect-84-469,poli1260-std,concepticon-1621,4.54,kichać,sneeze,kichac
+clics-doculect-84-470,poli1260-std,concepticon-126,4.55,pot,perspire,pot
+clics-doculect-84-471,poli1260-std,concepticon-126,4.55,pocićsię,perspire,pocicsie
+clics-doculect-84-472,poli1260-std,concepticon-1440,4.56,pluć,spit,pluc
+clics-doculect-84-473,poli1260-std,concepticon-1278,4.57,womitować,vomit,womitowac
+clics-doculect-84-474,poli1260-std,concepticon-1278,4.57,zwracać,vomit,zwracac
+clics-doculect-84-475,poli1260-std,concepticon-1278,4.57,rzygać,vomit,rzygac
+clics-doculect-84-476,poli1260-std,concepticon-1403,4.58,kąsać,bite,kasac
+clics-doculect-84-477,poli1260-std,concepticon-1403,4.58,gryźć,bite,gryzc
+clics-doculect-84-478,poli1260-std,concepticon-319,4.59,lizać,lick,lizac
+clics-doculect-84-479,poli1260-std,concepticon-268,4.591,ślinićsię,dribble,slinicsie
+clics-doculect-84-480,poli1260-std,concepticon-1585,4.61,spać,sleep,spac
+clics-doculect-84-481,poli1260-std,concepticon-1585,4.61,sen,sleep,sen
+clics-doculect-84-482,poli1260-std,concepticon-1585,4.61,spanie,sleep,spanie
+clics-doculect-84-483,poli1260-std,concepticon-1983,4.612,chrapać,snore,chrapac
+clics-doculect-84-484,poli1260-std,concepticon-1920,4.62,sen,dream,sen
+clics-doculect-84-485,poli1260-std,concepticon-1920,4.62,śnić,dream,snic
+clics-doculect-84-486,poli1260-std,concepticon-1602,4.63,obudzić,wake up,obudzic
+clics-doculect-84-487,poli1260-std,concepticon-1602,4.63,czuwać,wake up,czuwac
+clics-doculect-84-488,poli1260-std,concepticon-1602,4.63,obudzićsię,wake up,obudzicsie
+clics-doculect-84-489,poli1260-std,concepticon-1159,4.64,pierdzieć,break wind,pierdziec
+clics-doculect-84-490,poli1260-std,concepticon-1159,4.64,bździeć,break wind,bzdziec
+clics-doculect-84-491,poli1260-std,concepticon-592,4.65,szczać,urinate,szczac
+clics-doculect-84-492,poli1260-std,concepticon-592,4.65,moczyć,urinate,moczyc
+clics-doculect-84-493,poli1260-std,concepticon-592,4.65,mocz,urinate,mocz
+clics-doculect-84-494,poli1260-std,concepticon-592,4.65,uryna,urinate,uryna
+clics-doculect-84-495,poli1260-std,concepticon-592,4.65,sikać,urinate,sikac
+clics-doculect-84-496,poli1260-std,concepticon-676,4.66,srać,defecate,srac
+clics-doculect-84-497,poli1260-std,concepticon-676,4.66,gówno,defecate,gowno
+clics-doculect-84-498,poli1260-std,concepticon-676,4.66,łajno,defecate,lajno
+clics-doculect-84-499,poli1260-std,concepticon-676,4.66,gnój,defecate,gnoj
+clics-doculect-84-500,poli1260-std,concepticon-676,4.66,odchody,defecate,odchody
+clics-doculect-84-501,poli1260-std,concepticon-1785,4.67,jebać,have sexual intercourse,jebac
+clics-doculect-84-502,poli1260-std,concepticon-1785,4.67,miećstosunek,have sexual intercourse,miecstosunek
+clics-doculect-84-503,poli1260-std,concepticon-52,4.68,drżeć,shiver,drzec
+clics-doculect-84-504,poli1260-std,concepticon-52,4.68,miećdreszcze,shiver,miecdreszcze
+clics-doculect-84-505,poli1260-std,concepticon-138,4.69,kąpaćsię,bathe,kapacsie
+clics-doculect-84-506,poli1260-std,concepticon-1152,4.71,spłodzić,beget (of father),splodzic
+clics-doculect-84-507,poli1260-std,concepticon-1090,4.72,rodzić,born (to be),rodzic
+clics-doculect-84-508,poli1260-std,concepticon-1090,4.72,rodzićsię,born (to be),rodzicsie
+clics-doculect-84-509,poli1260-std,concepticon-1123,4.73,brzemienna,pregnant,brzemienna
+clics-doculect-84-510,poli1260-std,concepticon-1123,4.73,ciężarna,pregnant,ciezarna
+clics-doculect-84-511,poli1260-std,concepticon-1123,4.73,wciąży,pregnant,wciazy
+clics-doculect-84-512,poli1260-std,concepticon-1087,4.732,począć,conceive,poczac
+clics-doculect-84-513,poli1260-std,concepticon-1422,4.74,żyć,"live, living, life",zyc
+clics-doculect-84-514,poli1260-std,concepticon-1422,4.74,żywy,"live, living, life",zywy
+clics-doculect-84-515,poli1260-std,concepticon-1422,4.74,żyjący,"live, living, life",zyjacy
+clics-doculect-84-516,poli1260-std,concepticon-1494,4.75,umierać,"die, dead",umierac
+clics-doculect-84-517,poli1260-std,concepticon-1494,4.75,umrzeć,"die, dead",umrzec
+clics-doculect-84-518,poli1260-std,concepticon-1494,4.75,umierać,"die, dead",umierac
+clics-doculect-84-519,poli1260-std,concepticon-1904,4.751,topićsię,drowned,topicsie
+clics-doculect-84-520,poli1260-std,concepticon-1904,4.751,utopiony,drowned,utopiony
+clics-doculect-84-521,poli1260-std,concepticon-1417,4.76,zabić,kill,zabic
+clics-doculect-84-522,poli1260-std,concepticon-1417,4.76,uśmiercić,kill,usmiercic
+clics-doculect-84-523,poli1260-std,concepticon-767,4.77,trup,corpse,trup
+clics-doculect-84-524,poli1260-std,concepticon-767,4.77,ciało,corpse,cialo
+clics-doculect-84-525,poli1260-std,concepticon-1719,4.78,pochować,bury (the dead),pochowac
+clics-doculect-84-526,poli1260-std,concepticon-1719,4.78,pogrzebać,bury (the dead),pogrzebac
+clics-doculect-84-527,poli1260-std,concepticon-1773,4.79,grób,"grave, tomb",grob
+clics-doculect-84-528,poli1260-std,concepticon-1773,4.79,mogiła,"grave, tomb",mogila
+clics-doculect-84-529,poli1260-std,concepticon-1773,4.79,grobowiec,"grave, tomb",grobowiec
+clics-doculect-84-530,poli1260-std,concepticon-785,4.81,silny,"strong, mighty, powerful",silny
+clics-doculect-84-531,poli1260-std,concepticon-785,4.81,mocny,"strong, mighty, powerful",mocny
+clics-doculect-84-532,poli1260-std,concepticon-785,4.81,potężny,"strong, mighty, powerful",potezny
+clics-doculect-84-533,poli1260-std,concepticon-1601,4.82,słaby,weak,slaby
+clics-doculect-84-534,poli1260-std,concepticon-1364,4.83,zdrowy,"well, health",zdrowy
+clics-doculect-84-535,poli1260-std,concepticon-1364,4.83,zdrowie,"well, health",zdrowie
+clics-doculect-84-536,poli1260-std,concepticon-1847,4.84,chory,"sick, sickness",chory
+clics-doculect-84-537,poli1260-std,concepticon-1847,4.84,choroba,"sick, sickness",choroba
+clics-doculect-84-538,poli1260-std,concepticon-1534,4.841,gorączka,fever,goraczka
+clics-doculect-84-539,poli1260-std,concepticon-1957,4.842,wól,goiter,wol
+clics-doculect-84-540,poli1260-std,concepticon-1957,4.842,wole,goiter,wole
+clics-doculect-84-541,poli1260-std,concepticon-102,4.843,przeziębienie,cold (catarrh),przeziebienie
+clics-doculect-84-542,poli1260-std,concepticon-102,4.843,katar,cold (catarrh),katar
+clics-doculect-84-543,poli1260-std,concepticon-1109,4.85,rana,"wound, sore",rana
+clics-doculect-84-544,poli1260-std,concepticon-1148,4.852,stłuczenie,bruise,stluczenie
+clics-doculect-84-545,poli1260-std,concepticon-1148,4.852,siniak,bruise,siniak
+clics-doculect-84-546,poli1260-std,concepticon-1903,4.853,spuchlizna,swelling,spuchlizna
+clics-doculect-84-547,poli1260-std,concepticon-148,4.854,swędzenie,itch,swedzenie
+clics-doculect-84-548,poli1260-std,concepticon-148,4.854,świerzb,itch,swierzb
+clics-doculect-84-549,poli1260-std,concepticon-1584,4.855,pęcherz,blister,pecherz
+clics-doculect-84-550,poli1260-std,concepticon-1584,4.855,bąbel,blister,babel
+clics-doculect-84-551,poli1260-std,concepticon-793,4.856,wrzenie,boil (noun),wrzenie
+clics-doculect-84-552,poli1260-std,concepticon-793,4.856,kipiel,boil (noun),kipiel
+clics-doculect-84-553,poli1260-std,concepticon-1808,4.857,ropa,pus,ropa
+clics-doculect-84-554,poli1260-std,concepticon-497,4.858,blizna,scar,blizna
+clics-doculect-84-555,poli1260-std,concepticon-499,4.86,leczyćsię,"cure, heal",leczycsie
+clics-doculect-84-556,poli1260-std,concepticon-499,4.86,goićsię,"cure, heal",goicsie
+clics-doculect-84-557,poli1260-std,concepticon-597,4.87,lekarz,physician,lekarz
+clics-doculect-84-558,poli1260-std,concepticon-597,4.87,doktor,physician,doktor
+clics-doculect-84-559,poli1260-std,concepticon-597,4.87,medyk,physician,medyk
+clics-doculect-84-560,poli1260-std,concepticon-1372,4.88,lekarstwo,"medicine, drug",lekarstwo
+clics-doculect-84-561,poli1260-std,concepticon-1372,4.88,lek,"medicine, drug",lek
+clics-doculect-84-562,poli1260-std,concepticon-655,4.89,trucizna,poison,trucizna
+clics-doculect-84-563,poli1260-std,concepticon-655,4.89,jad,poison,jad
+clics-doculect-84-564,poli1260-std,concepticon-1757,4.91,zmęczony,"tired, weary",zmeczony
+clics-doculect-84-565,poli1260-std,concepticon-1757,4.91,strudzony,"tired, weary",strudzony
+clics-doculect-84-566,poli1260-std,concepticon-1757,4.91,sfatygowany,"tired, weary",sfatygowany
+clics-doculect-84-567,poli1260-std,concepticon-168,4.912,odpoczynek,rest,odpoczynek
+clics-doculect-84-568,poli1260-std,concepticon-168,4.912,odpoczywać,rest,odpoczywac
+clics-doculect-84-569,poli1260-std,concepticon-1564,4.92,leniwy,lazy,leniwy
+clics-doculect-84-570,poli1260-std,concepticon-1125,4.93,łysy,bald,lysy
+clics-doculect-84-571,poli1260-std,concepticon-320,4.94,chromy,lame,chromy
+clics-doculect-84-572,poli1260-std,concepticon-320,4.94,kulawy,lame,kulawy
+clics-doculect-84-573,poli1260-std,concepticon-996,4.95,głuchy,deaf,gluchy
+clics-doculect-84-574,poli1260-std,concepticon-1666,4.96,niemy,mute,niemy
+clics-doculect-84-575,poli1260-std,concepticon-1653,4.97,ślepy,blind,slepy
+clics-doculect-84-576,poli1260-std,concepticon-1463,4.98,pijany,intoxicated,pijany
+clics-doculect-84-577,poli1260-std,concepticon-1463,4.98,spity,intoxicated,spity
+clics-doculect-84-578,poli1260-std,concepticon-590,4.99,nagi,"naked, bare",nagi
+clics-doculect-84-579,poli1260-std,concepticon-590,4.99,goły,"naked, bare",goly
+clics-doculect-84-580,poli1260-std,concepticon-590,4.99,goli,"naked, bare",goli
+clics-doculect-84-581,poli1260-std,concepticon-1336,5.11,jeść,eat,jesc
+clics-doculect-84-582,poli1260-std,concepticon-256,5.12,jadło,food,jadlo
+clics-doculect-84-583,poli1260-std,concepticon-256,5.12,pokarm,food,pokarm
+clics-doculect-84-584,poli1260-std,concepticon-256,5.12,potrawa,food,potrawa
+clics-doculect-84-585,poli1260-std,concepticon-269,5.121,gotowany,cooked,gotowany
+clics-doculect-84-586,poli1260-std,concepticon-1959,5.122,surowy,raw,surowy
+clics-doculect-84-587,poli1260-std,concepticon-178,5.123,dojrzały,ripe,dojrzaly
+clics-doculect-84-588,poli1260-std,concepticon-1958,5.124,zielony,"green, unripe",zielony
+clics-doculect-84-589,poli1260-std,concepticon-1958,5.124,niedojrzały,"green, unripe",niedojrzaly
+clics-doculect-84-590,poli1260-std,concepticon-1728,5.125,zepsuty,rotten,zepsuty
+clics-doculect-84-591,poli1260-std,concepticon-1728,5.125,zgniły,rotten,zgnily
+clics-doculect-84-592,poli1260-std,concepticon-1401,5.13,pić,drink,pic
+clics-doculect-84-593,poli1260-std,concepticon-1864,5.14,głód,hunger,glod
+clics-doculect-84-594,poli1260-std,concepticon-199,5.141,głód,famine,glod
+clics-doculect-84-595,poli1260-std,concepticon-848,5.15,pragnienie,thirst,pragnienie
+clics-doculect-84-596,poli1260-std,concepticon-1421,5.16,ssać,suck,ssac
+clics-doculect-84-597,poli1260-std,concepticon-321,5.18,żuć,chew,zuc
+clics-doculect-84-598,poli1260-std,concepticon-897,5.181,połknąć,swallow,polknac
+clics-doculect-84-599,poli1260-std,concepticon-897,5.181,połykać,swallow,polykac
+clics-doculect-84-600,poli1260-std,concepticon-129,5.19,dławićsię,choke,dlawicsie
+clics-doculect-84-601,poli1260-std,concepticon-129,5.19,dusićsię,choke,dusicsie
+clics-doculect-84-602,poli1260-std,concepticon-1100,5.21,warzyć,cook,warzyc
+clics-doculect-84-603,poli1260-std,concepticon-792,5.22,warzyć,boil (vb),warzyc
+clics-doculect-84-604,poli1260-std,concepticon-2146,5.23,piec,"roast, fry",piec
+clics-doculect-84-605,poli1260-std,concepticon-2146,5.23,smażyć,"roast, fry",smazyc
+clics-doculect-84-606,poli1260-std,concepticon-2146,5.23,prażyć,"roast, fry",prazyc
+clics-doculect-84-607,poli1260-std,concepticon-183,5.24,piec,bake,piec
+clics-doculect-84-608,poli1260-std,concepticon-1143,5.25,piec,oven,piec
+clics-doculect-84-609,poli1260-std,concepticon-1462,5.26,garnek,"pot, cooking vessel",garnek
+clics-doculect-84-610,poli1260-std,concepticon-854,5.27,kocioł,kettle,kociol
+clics-doculect-84-611,poli1260-std,concepticon-854,5.27,kocieł,kettle,kociel
+clics-doculect-84-612,poli1260-std,concepticon-31,5.28,panew,pan,panew
+clics-doculect-84-613,poli1260-std,concepticon-31,5.28,patelnia,pan,patelnia
+clics-doculect-84-614,poli1260-std,concepticon-481,5.31,misa,dish,misa
+clics-doculect-84-615,poli1260-std,concepticon-481,5.31,naczynie,dish,naczynie
+clics-doculect-84-616,poli1260-std,concepticon-480,5.32,talerz,plate,talerz
+clics-doculect-84-617,poli1260-std,concepticon-1530,5.33,misa,bowl,misa
+clics-doculect-84-618,poli1260-std,concepticon-270,5.34,dzban,"pitcher, jug",dzban
+clics-doculect-84-619,poli1260-std,concepticon-476,5.35,filiżanka,"cup, drinking vessel",filizanka
+clics-doculect-84-620,poli1260-std,concepticon-476,5.35,czarka,"cup, drinking vessel",czarka
+clics-doculect-84-621,poli1260-std,concepticon-271,5.36,spodek,saucer,spodek
+clics-doculect-84-622,poli1260-std,concepticon-1378,5.37,łyżka,spoon,lyzka
+clics-doculect-84-623,poli1260-std,concepticon-1352,5.38,nóż,knife,noz
+clics-doculect-84-624,poli1260-std,concepticon-337,5.39,widelec,fork,widelec
+clics-doculect-84-625,poli1260-std,concepticon-272,5.391,szczypce,tongs,szczypce
+clics-doculect-84-626,poli1260-std,concepticon-1526,5.41,jedzenie,meal (a),jedzenie
+clics-doculect-84-627,poli1260-std,concepticon-1526,5.41,jadło,meal (a),jadlo
+clics-doculect-84-628,poli1260-std,concepticon-1322,5.42,śniadanie,breakfast,sniadanie
+clics-doculect-84-629,poli1260-std,concepticon-768,5.43,obiad,lunch,obiad
+clics-doculect-84-630,poli1260-std,concepticon-1833,5.44,obiad,dinner,obiad
+clics-doculect-84-631,poli1260-std,concepticon-1833,5.44,kolacja,dinner,kolacja
+clics-doculect-84-632,poli1260-std,concepticon-1833,5.45,kolacja,supper,kolacja
+clics-doculect-84-633,poli1260-std,concepticon-275,5.46,obierać,peel,obierac
+clics-doculect-84-634,poli1260-std,concepticon-86,5.47,sito,"sieve, strain",sito
+clics-doculect-84-635,poli1260-std,concepticon-86,5.47,przesiewać,"sieve, strain",przesiewac
+clics-doculect-84-636,poli1260-std,concepticon-1767,5.48,skrobać,scrape,skrobac
+clics-doculect-84-637,poli1260-std,concepticon-2017,5.49,mieszać,"stir, mix",mieszac
+clics-doculect-84-638,poli1260-std,concepticon-1368,5.51,chleb,bread,chleb
+clics-doculect-84-639,poli1260-std,concepticon-273,5.53,ciasto,dough,ciasto
+clics-doculect-84-640,poli1260-std,concepticon-274,5.54,wyrabiać,knead,wyrabiac
+clics-doculect-84-641,poli1260-std,concepticon-274,5.54,miesić,knead,miesic
+clics-doculect-84-642,poli1260-std,concepticon-1594,5.55,mąka,"meal, flour",maka
+clics-doculect-84-643,poli1260-std,concepticon-1033,5.56,miażdżyć,"crush, grind",miazdzyc
+clics-doculect-84-644,poli1260-std,concepticon-636,5.57,młyn,mill,mlyn
+clics-doculect-84-645,poli1260-std,concepticon-224,5.58,moździerz,mortar,mozdzierz
+clics-doculect-84-646,poli1260-std,concepticon-225,5.59,tłuczek,pestle,tluczek
+clics-doculect-84-647,poli1260-std,concepticon-634,5.61,mięso,meat,mieso
+clics-doculect-84-648,poli1260-std,concepticon-1874,5.63,kiełbasa,sausage,kielbasa
+clics-doculect-84-649,poli1260-std,concepticon-1547,5.64,zupa,"soup, broth",zupa
+clics-doculect-84-650,poli1260-std,concepticon-1547,5.64,rosół,"soup, broth",rosol
+clics-doculect-84-651,poli1260-std,concepticon-1547,5.64,polewka,"soup, broth",polewka
+clics-doculect-84-652,poli1260-std,concepticon-924,5.65,jarzyna,vegetables,jarzyna
+clics-doculect-84-653,poli1260-std,concepticon-924,5.65,warzywo,vegetables,warzywo
+clics-doculect-84-654,poli1260-std,concepticon-832,5.66,bób,bean,bob
+clics-doculect-84-655,poli1260-std,concepticon-832,5.66,fasola,bean,fasola
+clics-doculect-84-656,poli1260-std,concepticon-593,5.7,ziemniak,potato,ziemniak
+clics-doculect-84-657,poli1260-std,concepticon-593,5.7,kartofel,potato,kartofel
+clics-doculect-84-658,poli1260-std,concepticon-1507,5.71,owoc,fruit,owoc
+clics-doculect-84-659,poli1260-std,concepticon-1966,5.712,pęk,bunch,pek
+clics-doculect-84-660,poli1260-std,concepticon-1966,5.712,kiść,bunch,kisc
+clics-doculect-84-661,poli1260-std,concepticon-322,5.75,figa,fig,figa
+clics-doculect-84-662,poli1260-std,concepticon-920,5.76,winogrono,grape,winogrono
+clics-doculect-84-663,poli1260-std,concepticon-191,5.77,orzech,nut,orzech
+clics-doculect-84-664,poli1260-std,concepticon-1154,5.78,oliwka,olive,oliwka
+clics-doculect-84-665,poli1260-std,concepticon-1484,5.79,olej,oil,olej
+clics-doculect-84-666,poli1260-std,concepticon-1484,5.79,oliwa,oil,oliwa
+clics-doculect-84-667,poli1260-std,concepticon-323,5.791,smar,"grease, fat",smar
+clics-doculect-84-668,poli1260-std,concepticon-323,5.791,tłuszcz,"grease, fat",tluszcz
+clics-doculect-84-669,poli1260-std,concepticon-1274,5.81,sól,salt,sol
+clics-doculect-84-670,poli1260-std,concepticon-1385,5.82,pieprz,pepper,pieprz
+clics-doculect-84-671,poli1260-std,concepticon-919,5.821,ostrapapryka,chili pepper,ostrapapryka
+clics-doculect-84-672,poli1260-std,concepticon-942,5.84,miód,honey,miod
+clics-doculect-84-673,poli1260-std,concepticon-862,5.85,cukier,sugar,cukier
+clics-doculect-84-674,poli1260-std,concepticon-635,5.86,mleko,milk (noun),mleko
+clics-doculect-84-675,poli1260-std,concepticon-93,5.87,doić,milk (vb),doic
+clics-doculect-84-676,poli1260-std,concepticon-1569,5.88,ser,cheese,ser
+clics-doculect-84-677,poli1260-std,concepticon-1245,5.89,masło,butter,maslo
+clics-doculect-84-678,poli1260-std,concepticon-731,5.9,napój,"beverage, drink",napoj
+clics-doculect-84-679,poli1260-std,concepticon-941,5.91,miódpitny,mead,miodpitny
+clics-doculect-84-680,poli1260-std,concepticon-1524,5.92,wino,wine,wino
+clics-doculect-84-681,poli1260-std,concepticon-1639,5.93,piwo,beer,piwo
+clics-doculect-84-682,poli1260-std,concepticon-404,5.94,napójsfermentowany,fermented drink,napojsfermentowany
+clics-doculect-84-683,poli1260-std,concepticon-744,5.97,jajo,egg,jajo
+clics-doculect-84-684,poli1260-std,concepticon-744,5.97,jajko,egg,jajko
+clics-doculect-84-685,poli1260-std,concepticon-1556,5.971,żółtko,egg yolk,zoltko
+clics-doculect-84-686,poli1260-std,concepticon-158,6.11,ubrać,put on (clothes),ubrac
+clics-doculect-84-687,poli1260-std,concepticon-158,6.11,odziać,put on (clothes),odziac
+clics-doculect-84-688,poli1260-std,concepticon-158,6.11,oblec,put on (clothes),oblec
+clics-doculect-84-689,poli1260-std,concepticon-1895,6.12,suknia,"clothing, clothes",suknia
+clics-doculect-84-690,poli1260-std,concepticon-1895,6.12,odzież,"clothing, clothes",odziez
+clics-doculect-84-691,poli1260-std,concepticon-1895,6.12,odzienie,"clothing, clothes",odzienie
+clics-doculect-84-692,poli1260-std,concepticon-881,6.13,krawiec,tailor,krawiec
+clics-doculect-84-693,poli1260-std,concepticon-1616,6.21,sukno,cloth,sukno
+clics-doculect-84-694,poli1260-std,concepticon-1616,6.21,chusta,cloth,chusta
+clics-doculect-84-695,poli1260-std,concepticon-1616,6.21,tkanina,cloth,tkanina
+clics-doculect-84-696,poli1260-std,concepticon-1616,6.21,płat,cloth,plat
+clics-doculect-84-697,poli1260-std,concepticon-964,6.22,wełna,wool,welna
+clics-doculect-84-698,poli1260-std,concepticon-916,6.23,płótno,"linen, flax",plotno
+clics-doculect-84-699,poli1260-std,concepticon-916,6.23,len,"linen, flax",len
+clics-doculect-84-700,poli1260-std,concepticon-1850,6.24,bawełna,cotton,bawelna
+clics-doculect-84-701,poli1260-std,concepticon-1641,6.25,jedwab,silk,jedwab
+clics-doculect-84-702,poli1260-std,concepticon-325,6.27,pilśń,felt,pilsn
+clics-doculect-84-703,poli1260-std,concepticon-325,6.27,filc,felt,filc
+clics-doculect-84-704,poli1260-std,concepticon-580,6.28,futro,fur,futro
+clics-doculect-84-705,poli1260-std,concepticon-629,6.29,skóra,leather,skora
+clics-doculect-84-706,poli1260-std,concepticon-121,6.31,prząść,spin,przasc
+clics-doculect-84-707,poli1260-std,concepticon-277,6.32,wrzeciono,spindle,wrzeciono
+clics-doculect-84-708,poli1260-std,concepticon-133,6.33,tkać,weave,tkac
+clics-doculect-84-709,poli1260-std,concepticon-1787,6.34,krosna,loom,krosna
+clics-doculect-84-710,poli1260-std,concepticon-1787,6.34,warsztat,loom,warsztat
+clics-doculect-84-711,poli1260-std,concepticon-1457,6.35,szyć,sew,szyc
+clics-doculect-84-712,poli1260-std,concepticon-1382,6.36,igła,needle,igla
+clics-doculect-84-713,poli1260-std,concepticon-278,6.37,szydło,awl,szydlo
+clics-doculect-84-714,poli1260-std,concepticon-1161,6.38,nić,thread,nic
+clics-doculect-84-715,poli1260-std,concepticon-1161,6.38,nitka,thread,nitka
+clics-doculect-84-716,poli1260-std,concepticon-157,6.39,farbować,dye,farbowac
+clics-doculect-84-717,poli1260-std,concepticon-326,6.41,płaszcz,cloak,plaszcz
+clics-doculect-84-718,poli1260-std,concepticon-326,6.41,peleryna,cloak,peleryna
+clics-doculect-84-719,poli1260-std,concepticon-474,6.42,ubiórkobiecy,woman's dress,ubiorkobiecy
+clics-doculect-84-720,poli1260-std,concepticon-603,6.43,płaszcz,coat,plaszcz
+clics-doculect-84-721,poli1260-std,concepticon-603,6.43,surdut,coat,surdut
+clics-doculect-84-722,poli1260-std,concepticon-1622,6.44,koszula,shirt,koszula
+clics-doculect-84-723,poli1260-std,concepticon-2012,6.45,kołnierz,collar,kolnierz
+clics-doculect-84-724,poli1260-std,concepticon-1600,6.46,spódnica,skirt,spodnica
+clics-doculect-84-725,poli1260-std,concepticon-328,6.461,spódnica,grass-skirt,spodnica
+clics-doculect-84-726,poli1260-std,concepticon-809,6.48,spodnie,trousers,spodnie
+clics-doculect-84-727,poli1260-std,concepticon-809,6.48,portki,trousers,portki
+clics-doculect-84-728,poli1260-std,concepticon-329,6.49,pończocha,"stocking, sock",ponczocha
+clics-doculect-84-729,poli1260-std,concepticon-1381,6.51,obuwie,shoe,obuwie
+clics-doculect-84-730,poli1260-std,concepticon-1381,6.51,but,shoe,but
+clics-doculect-84-731,poli1260-std,concepticon-1381,6.51,trzewik,shoe,trzewik
+clics-doculect-84-732,poli1260-std,concepticon-585,6.52,kozaczek,boot,kozaczek
+clics-doculect-84-733,poli1260-std,concepticon-875,6.54,szewc,"shoemaker, cobbler",szewc
+clics-doculect-84-734,poli1260-std,concepticon-2130,6.55,kapelusz,"hat, cap",kapelusz
+clics-doculect-84-735,poli1260-std,concepticon-2130,6.55,czapka,"hat, cap",czapka
+clics-doculect-84-736,poli1260-std,concepticon-772,6.57,pas,"belt, girdle",pas
+clics-doculect-84-737,poli1260-std,concepticon-772,6.57,gorset,"belt, girdle",gorset
+clics-doculect-84-738,poli1260-std,concepticon-867,6.58,rękawica,glove,rekawica
+clics-doculect-84-739,poli1260-std,concepticon-1151,6.59,woalka,veil,woalka
+clics-doculect-84-740,poli1260-std,concepticon-1151,6.59,welon,veil,welon
+clics-doculect-84-741,poli1260-std,concepticon-1151,6.59,záwoj,veil,zawoj
+clics-doculect-84-742,poli1260-std,concepticon-1851,6.61,kieszeń,pocket,kieszen
+clics-doculect-84-743,poli1260-std,concepticon-757,6.62,guzik,button,guzik
+clics-doculect-84-744,poli1260-std,concepticon-64,6.63,szpilka,pin,szpilka
+clics-doculect-84-745,poli1260-std,concepticon-917,6.71,ozdoba,"ornament, adornment",ozdoba
+clics-doculect-84-746,poli1260-std,concepticon-917,6.71,ornament,"ornament, adornment",ornament
+clics-doculect-84-747,poli1260-std,concepticon-917,6.71,okrasa,"ornament, adornment",okrasa
+clics-doculect-84-748,poli1260-std,concepticon-1029,6.72,klejnot,jewel,klejnot
+clics-doculect-84-749,poli1260-std,concepticon-1374,6.73,pierścień,ring (for finger),pierscien
+clics-doculect-84-750,poli1260-std,concepticon-1374,6.73,pierścionek,ring (for finger),pierscionek
+clics-doculect-84-751,poli1260-std,concepticon-1754,6.74,naramiennik,bracelet,naramiennik
+clics-doculect-84-752,poli1260-std,concepticon-1754,6.74,bransoletka,bracelet,bransoletka
+clics-doculect-84-753,poli1260-std,concepticon-1961,6.75,naszyjnik,necklace,naszyjnik
+clics-doculect-84-754,poli1260-std,concepticon-1860,6.76,paciorek,bead,paciorek
+clics-doculect-84-755,poli1260-std,concepticon-1860,6.76,koralik,bead,koralik
+clics-doculect-84-756,poli1260-std,concepticon-770,6.77,kolczyk,earring,kolczyk
+clics-doculect-84-757,poli1260-std,concepticon-330,6.78,przepaska,"headband, headdress",przepaska
+clics-doculect-84-758,poli1260-std,concepticon-68,6.79,tatuaż,tattoo,tatuaz
+clics-doculect-84-759,poli1260-std,concepticon-332,6.81,chustka,"handkerchief, rag",chustka
+clics-doculect-84-760,poli1260-std,concepticon-332,6.81,chusteczka,"handkerchief, rag",chusteczka
+clics-doculect-84-761,poli1260-std,concepticon-1021,6.82,ręcznik,towel,recznik
+clics-doculect-84-762,poli1260-std,concepticon-1475,6.91,grzebień,comb,grzebien
+clics-doculect-84-763,poli1260-std,concepticon-1821,6.92,szczotka,brush,szczotka
+clics-doculect-84-764,poli1260-std,concepticon-333,6.921,warkocz,braid,warkocz
+clics-doculect-84-765,poli1260-std,concepticon-151,6.93,brzytwa,razor,brzytwa
+clics-doculect-84-766,poli1260-std,concepticon-1926,6.94,maść,ointment,masc
+clics-doculect-84-767,poli1260-std,concepticon-788,6.95,mydło,soap,mydlo
+clics-doculect-84-768,poli1260-std,concepticon-1171,6.96,lustro,mirror,lustro
+clics-doculect-84-769,poli1260-std,concepticon-1171,6.96,lusterko,mirror,lusterko
+clics-doculect-84-770,poli1260-std,concepticon-1171,6.96,zwierciadło,mirror,zwierciadlo
+clics-doculect-84-771,poli1260-std,concepticon-363,7.11,mieszkać,"dwell, live",mieszkac
+clics-doculect-84-772,poli1260-std,concepticon-1252,7.12,dom,house,dom
+clics-doculect-84-773,poli1260-std,concepticon-1252,7.12,mieszkanie,house,mieszkanie
+clics-doculect-84-774,poli1260-std,concepticon-1678,7.13,chałupa,hut,chalupa
+clics-doculect-84-775,poli1260-std,concepticon-1678,7.13,chata,hut,chata
+clics-doculect-84-776,poli1260-std,concepticon-1678,7.13,buda,hut,buda
+clics-doculect-84-777,poli1260-std,concepticon-403,7.131,szopa,garden-house,szopa
+clics-doculect-84-778,poli1260-std,concepticon-403,7.131,altana,garden-house,altana
+clics-doculect-84-779,poli1260-std,concepticon-1316,7.14,namiot,tent,namiot
+clics-doculect-84-780,poli1260-std,concepticon-736,7.15,dziedziniec,"yard, court",dziedziniec
+clics-doculect-84-781,poli1260-std,concepticon-736,7.15,podwórze,"yard, court",podworze
+clics-doculect-84-782,poli1260-std,concepticon-736,7.15,podwórko,"yard, court",podworko
+clics-doculect-84-783,poli1260-std,concepticon-408,7.16,dommężczyzn,men's house,dommezczyzn
+clics-doculect-84-784,poli1260-std,concepticon-334,7.17,kuchnia,cookhouse,kuchnia
+clics-doculect-84-785,poli1260-std,concepticon-335,7.18,domschadzek,meeting house,domschadzek
+clics-doculect-84-786,poli1260-std,concepticon-1450,7.21,pokój,room,pokoj
+clics-doculect-84-787,poli1260-std,concepticon-1450,7.21,izba,room,izba
+clics-doculect-84-788,poli1260-std,concepticon-1567,7.22,drzwi,"door, gate",drzwi
+clics-doculect-84-789,poli1260-std,concepticon-1567,7.22,brama,"door, gate",brama
+clics-doculect-84-790,poli1260-std,concepticon-1567,7.22,wrota,"door, gate",wrota
+clics-doculect-84-791,poli1260-std,concepticon-80,7.221,framuga,"doorpost, jamb",framuga
+clics-doculect-84-792,poli1260-std,concepticon-1596,7.23,zamek,lock (noun),zamek
+clics-doculect-84-793,poli1260-std,concepticon-1012,7.231,zasuwa,"latch, door-bolt",zasuwa
+clics-doculect-84-794,poli1260-std,concepticon-1012,7.231,zatrzask,"latch, door-bolt",zatrzask
+clics-doculect-84-795,poli1260-std,concepticon-1472,7.24,klucz,key,klucz
+clics-doculect-84-796,poli1260-std,concepticon-1375,7.25,okno,window,okno
+clics-doculect-84-797,poli1260-std,concepticon-1632,7.26,podłoga,floor,podloga
+clics-doculect-84-798,poli1260-std,concepticon-933,7.27,mur,wall,mur
+clics-doculect-84-799,poli1260-std,concepticon-933,7.27,ściana,wall,sciana
+clics-doculect-84-800,poli1260-std,concepticon-185,7.31,ognisko,fireplace,ognisko
+clics-doculect-84-801,poli1260-std,concepticon-185,7.31,kominek,fireplace,kominek
+clics-doculect-84-802,poli1260-std,concepticon-859,7.32,piec,stove,piec
+clics-doculect-84-803,poli1260-std,concepticon-1305,7.33,komin,chimney,komin
+clics-doculect-84-804,poli1260-std,concepticon-1464,7.37,drabina,ladder,drabina
+clics-doculect-84-805,poli1260-std,concepticon-1663,7.42,łóżko,bed,lozko
+clics-doculect-84-806,poli1260-std,concepticon-1044,7.421,poduszka,pillow,poduszka
+clics-doculect-84-807,poli1260-std,concepticon-806,7.422,koc,blanket,koc
+clics-doculect-84-808,poli1260-std,concepticon-1476,7.43,krzesło,chair,krzeslo
+clics-doculect-84-809,poli1260-std,concepticon-1775,7.44,stół,table,stol
+clics-doculect-84-810,poli1260-std,concepticon-2131,7.45,lampa,"lamp, torch",lampa
+clics-doculect-84-811,poli1260-std,concepticon-1273,7.46,świeca,candle,swieca
+clics-doculect-84-812,poli1260-std,concepticon-745,7.47,półka,shelf,polka
+clics-doculect-84-813,poli1260-std,concepticon-205,7.48,koryto,trough,koryto
+clics-doculect-84-814,poli1260-std,concepticon-769,7.51,dach,roof,dach
+clics-doculect-84-815,poli1260-std,concepticon-279,7.52,strzecha,thatch,strzecha
+clics-doculect-84-816,poli1260-std,concepticon-280,7.53,belkapoprzeczna,ridgepole,belkapoprzeczna
+clics-doculect-84-817,poli1260-std,concepticon-829,7.54,krokiew,rafter,krokiew
+clics-doculect-84-818,poli1260-std,concepticon-1132,7.55,belka,beam,belka
+clics-doculect-84-819,poli1260-std,concepticon-281,7.56,pal,"post, pole",pal
+clics-doculect-84-820,poli1260-std,concepticon-281,7.56,słup,"post, pole",slup
+clics-doculect-84-821,poli1260-std,concepticon-1227,7.57,deska,board,deska
+clics-doculect-84-822,poli1260-std,concepticon-876,7.58,sklepienie,arch,sklepienie
+clics-doculect-84-823,poli1260-std,concepticon-876,7.58,przęsło,arch,przeslo
+clics-doculect-84-824,poli1260-std,concepticon-877,7.61,murarz,mason,murarz
+clics-doculect-84-825,poli1260-std,concepticon-1006,7.62,cegła,brick,cegla
+clics-doculect-84-826,poli1260-std,concepticon-224,7.63,zaprawa,mortar,zaprawa
+clics-doculect-84-827,poli1260-std,concepticon-901,7.64,cegłaniewypalona,adobe,ceglaniewypalona
+clics-doculect-84-828,poli1260-std,concepticon-901,7.64,adobe,adobe,adobe
+clics-doculect-84-829,poli1260-std,concepticon-979,8.11,rolnik,farmer,rolnik
+clics-doculect-84-830,poli1260-std,concepticon-979,8.11,chłop,farmer,chlop
+clics-doculect-84-831,poli1260-std,concepticon-212,8.12,rola,field (for cultivation),rola
+clics-doculect-84-832,poli1260-std,concepticon-212,8.12,grunt,field (for cultivation),grunt
+clics-doculect-84-833,poli1260-std,concepticon-212,8.12,pole,field (for cultivation),pole
+clics-doculect-84-834,poli1260-std,concepticon-586,8.13,ogród,garden,ogrod
+clics-doculect-84-835,poli1260-std,concepticon-1541,8.15,uprawić,"cultivate, till",uprawic
+clics-doculect-84-836,poli1260-std,concepticon-1541,8.15,uprawiać,"cultivate, till",uprawiac
+clics-doculect-84-837,poli1260-std,concepticon-1690,8.16,płot,fence,plot
+clics-doculect-84-838,poli1260-std,concepticon-1690,8.16,ogrodzenie,fence,ogrodzenie
+clics-doculect-84-839,poli1260-std,concepticon-2002,8.17,rów,ditch,row
+clics-doculect-84-840,poli1260-std,concepticon-1921,8.21,orać,plow,orac
+clics-doculect-84-841,poli1260-std,concepticon-1921,8.21,pług,plow,plug
+clics-doculect-84-842,poli1260-std,concepticon-1794,8.212,bruzda,furrow,bruzda
+clics-doculect-84-843,poli1260-std,concepticon-1418,8.22,kopać,dig,kopac
+clics-doculect-84-844,poli1260-std,concepticon-1418,8.22,ryć,dig,ryc
+clics-doculect-84-845,poli1260-std,concepticon-1176,8.23,łopata,spade,lopata
+clics-doculect-84-846,poli1260-std,concepticon-1176,8.23,rydel,spade,rydel
+clics-doculect-84-847,poli1260-std,concepticon-1901,8.24,łopata,shovel,lopata
+clics-doculect-84-848,poli1260-std,concepticon-1901,8.24,szufla,shovel,szufla
+clics-doculect-84-849,poli1260-std,concepticon-284,8.25,motyka,hoe,motyka
+clics-doculect-84-850,poli1260-std,concepticon-337,8.26,widły,fork,widly
+clics-doculect-84-851,poli1260-std,concepticon-337,8.26,widelec,fork,widelec
+clics-doculect-84-852,poli1260-std,concepticon-338,8.27,grabie,rake,grabie
+clics-doculect-84-853,poli1260-std,concepticon-338,8.27,grabić,rake,grabic
+clics-doculect-84-854,poli1260-std,concepticon-1351,8.31,siać,sow,siac
+clics-doculect-84-855,poli1260-std,concepticon-1351,8.31,siemię,sow,siemie
+clics-doculect-84-856,poli1260-std,concepticon-1351,8.31,nasienie,sow,nasienie
+clics-doculect-84-857,poli1260-std,concepticon-714,8.311,nasiono,seed,nasiono
+clics-doculect-84-858,poli1260-std,concepticon-714,8.311,ziarno,seed,ziarno
+clics-doculect-84-859,poli1260-std,concepticon-190,8.32,żąć,"mow, reap",zac
+clics-doculect-84-860,poli1260-std,concepticon-190,8.32,siec,"mow, reap",siec
+clics-doculect-84-861,poli1260-std,concepticon-190,8.32,kosić,"mow, reap",kosic
+clics-doculect-84-862,poli1260-std,concepticon-2132,8.33,sierp,"sickle, scythe",sierp
+clics-doculect-84-863,poli1260-std,concepticon-2132,8.33,kosa,"sickle, scythe",kosa
+clics-doculect-84-864,poli1260-std,concepticon-285,8.34,młócić,thresh,mlocic
+clics-doculect-84-865,poli1260-std,concepticon-223,8.35,klepisko,threshing-floor,klepisko
+clics-doculect-84-866,poli1260-std,concepticon-611,8.41,żniwo,"crop, harvest",zniwo
+clics-doculect-84-867,poli1260-std,concepticon-611,8.41,urodzaj,"crop, harvest",urodzaj
+clics-doculect-84-868,poli1260-std,concepticon-611,8.41,plon,"crop, harvest",plon
+clics-doculect-84-869,poli1260-std,concepticon-605,8.42,zboże,"grain (barley, oats etc)",zboze
+clics-doculect-84-870,poli1260-std,concepticon-1077,8.43,pszenica,wheat,pszenica
+clics-doculect-84-871,poli1260-std,concepticon-932,8.44,jęczmień,barley,jeczmien
+clics-doculect-84-872,poli1260-std,concepticon-23,8.45,żyto,rye,zyto
+clics-doculect-84-873,poli1260-std,concepticon-60,8.46,owies,oats,owies
+clics-doculect-84-874,poli1260-std,concepticon-506,8.47,kukurydza,"maize, corn",kukurydza
+clics-doculect-84-875,poli1260-std,concepticon-926,8.48,ryż,rice,ryz
+clics-doculect-84-876,poli1260-std,concepticon-606,8.51,trawa,grass,trawa
+clics-doculect-84-877,poli1260-std,concepticon-342,8.52,siano,hay,siano
+clics-doculect-84-878,poli1260-std,concepticon-653,8.53,roślina,plant (noun),roslina
+clics-doculect-84-879,poli1260-std,concepticon-653,8.53,ziele,plant (noun),ziele
+clics-doculect-84-880,poli1260-std,concepticon-1486,8.531,sadzić,plant (vb),sadzic
+clics-doculect-84-881,poli1260-std,concepticon-670,8.54,korzeń,root,korzen
+clics-doculect-84-882,poli1260-std,concepticon-1531,8.55,gałąź,branch,galaz
+clics-doculect-84-883,poli1260-std,concepticon-628,8.56,liść,leaf,lisc
+clics-doculect-84-884,poli1260-std,concepticon-239,8.57,kwiat,flower,kwiat
+clics-doculect-84-885,poli1260-std,concepticon-906,8.6,drzewo,tree,drzewo
+clics-doculect-84-886,poli1260-std,concepticon-644,8.61,dąb,oak,dab
+clics-doculect-84-887,poli1260-std,concepticon-1950,8.62,buk,beech,buk
+clics-doculect-84-888,poli1260-std,concepticon-1855,8.63,brzoza,birch,brzoza
+clics-doculect-84-889,poli1260-std,concepticon-1740,8.64,sosna,pine,sosna
+clics-doculect-84-890,poli1260-std,concepticon-1915,8.65,jodła,fir,jodla
+clics-doculect-84-891,poli1260-std,concepticon-968,8.66,żołądź,acorn,zoladz
+clics-doculect-84-892,poli1260-std,concepticon-343,8.67,winorośl,vine,winorosl
+clics-doculect-84-893,poli1260-std,concepticon-974,8.68,tytoń,tobacco,tyton
+clics-doculect-84-894,poli1260-std,concepticon-1689,8.69,palić,smoke (tobacco),palic
+clics-doculect-84-895,poli1260-std,concepticon-1689,8.69,kurzyć,smoke (tobacco),kurzyc
+clics-doculect-84-896,poli1260-std,concepticon-1124,8.691,fajka,pipe,fajka
+clics-doculect-84-897,poli1260-std,concepticon-241,8.72,pieńdrzewa,tree stump,piendrzewa
+clics-doculect-84-898,poli1260-std,concepticon-241,8.72,kikut,tree stump,kikut
+clics-doculect-84-899,poli1260-std,concepticon-344,8.73,pieńdrzewa,tree trunk,piendrzewa
+clics-doculect-84-900,poli1260-std,concepticon-409,8.74,rozwidlonagałąź,forked branch,rozwidlonagalaz
+clics-doculect-84-901,poli1260-std,concepticon-1204,8.75,kora,bark,kora
+clics-doculect-84-902,poli1260-std,concepticon-345,8.76,sokzdrzewa,sap,sokzdrzewa
+clics-doculect-84-903,poli1260-std,concepticon-1181,8.81,palma,palm tree,palma
+clics-doculect-84-904,poli1260-std,concepticon-970,8.82,kokos,coconut,kokos
+clics-doculect-84-905,poli1260-std,concepticon-1126,8.83,cytrus,citrus fruit,cytrus
+clics-doculect-84-906,poli1260-std,concepticon-868,8.84,drzewobananowe,banana tree,drzewobananowe
+clics-doculect-84-907,poli1260-std,concepticon-346,8.85,fikus,banyan,fikus
+clics-doculect-84-908,poli1260-std,concepticon-159,8.91,batat,sweet potato,batat
+clics-doculect-84-909,poli1260-std,concepticon-159,8.91,słodkiziemniak,sweet potato,slodkiziemniak
+clics-doculect-84-910,poli1260-std,concepticon-410,8.912,słodkiziemniak,yam,slodkiziemniak
+clics-doculect-84-911,poli1260-std,concepticon-925,8.92,tapioka,"tapioca, manioc, cassava",tapioka
+clics-doculect-84-912,poli1260-std,concepticon-411,8.93,tykwa,gourd,tykwa
+clics-doculect-84-913,poli1260-std,concepticon-864,8.931,dynia,"pumpkin, squash",dynia
+clics-doculect-84-914,poli1260-std,concepticon-1927,8.94,bambus,bamboo,bambus
+clics-doculect-84-915,poli1260-std,concepticon-146,8.941,trzcinacukrowa,sugar cane,trzcinacukrowa
+clics-doculect-84-916,poli1260-std,concepticon-348,8.96,trucizna,fish poison (root),trucizna
+clics-doculect-84-917,poli1260-std,concepticon-33,8.97,pokrzywa,nettle,pokrzywa
+clics-doculect-84-918,poli1260-std,concepticon-641,8.98,grzyb,mushroom,grzyb
+clics-doculect-84-919,poli1260-std,concepticon-2575,9.11,czynić,"do, make",czynic
+clics-doculect-84-920,poli1260-std,concepticon-2575,9.11,robić,"do, make",robic
+clics-doculect-84-921,poli1260-std,concepticon-2575,9.11,działać,"do, make",dzialac
+clics-doculect-84-922,poli1260-std,concepticon-984,9.12,robota,work,robota
+clics-doculect-84-923,poli1260-std,concepticon-984,9.12,praca,work,praca
+clics-doculect-84-924,poli1260-std,concepticon-984,9.12,dzieło,work,dzielo
+clics-doculect-84-925,poli1260-std,concepticon-2004,9.14,giąć,bend,giac
+clics-doculect-84-926,poli1260-std,concepticon-2004,9.14,nagiąć,bend,nagiac
+clics-doculect-84-927,poli1260-std,concepticon-2004,9.14,naginać,bend,naginac
+clics-doculect-84-928,poli1260-std,concepticon-1470,9.15,fałdować,fold,faldowac
+clics-doculect-84-929,poli1260-std,concepticon-1470,9.15,zaginać,fold,zaginac
+clics-doculect-84-930,poli1260-std,concepticon-1917,9.16,wiązać,"tie, bind",wiazac
+clics-doculect-84-931,poli1260-std,concepticon-1917,9.16,krawat,"tie, bind",krawat
+clics-doculect-84-932,poli1260-std,concepticon-352,9.161,rozwiązać,untie,rozwiazac
+clics-doculect-84-933,poli1260-std,concepticon-352,9.161,rozwiązywać,untie,rozwiazywac
+clics-doculect-84-934,poli1260-std,concepticon-1627,9.18,łańcuch,chain,lancuch
+clics-doculect-84-935,poli1260-std,concepticon-1218,9.19,powróz,"rope, cord",powroz
+clics-doculect-84-936,poli1260-std,concepticon-1218,9.19,sznur,"rope, cord",sznur
+clics-doculect-84-937,poli1260-std,concepticon-1218,9.19,lina,"rope, cord",lina
+clics-doculect-84-938,poli1260-std,concepticon-760,9.192,węzeł,knot (noun),wezel
+clics-doculect-84-939,poli1260-std,concepticon-2133,9.21,uderzyć,"strike (hit, beat)",uderzyc
+clics-doculect-84-940,poli1260-std,concepticon-2133,9.21,bić,"strike (hit, beat)",bic
+clics-doculect-84-941,poli1260-std,concepticon-2133,9.21,razić,"strike (hit, beat)",razic
+clics-doculect-84-942,poli1260-std,concepticon-354,9.211,walićpięścią,pound with fist,walicpiescia
+clics-doculect-84-943,poli1260-std,concepticon-1432,9.22,krajać,cut,krajac
+clics-doculect-84-944,poli1260-std,concepticon-1432,9.22,rżnąć,cut,rznac
+clics-doculect-84-945,poli1260-std,concepticon-1432,9.22,ciąć,cut,ciac
+clics-doculect-84-946,poli1260-std,concepticon-1432,9.22,rąbać,cut,rabac
+clics-doculect-84-947,poli1260-std,concepticon-1432,9.22,siec,cut,siec
+clics-doculect-84-948,poli1260-std,concepticon-355,9.221,ścinać,cut down,scinac
+clics-doculect-84-949,poli1260-std,concepticon-355,9.221,ściąć,cut down,sciac
+clics-doculect-84-950,poli1260-std,concepticon-155,9.222,rąbać,"chop, hew",rabac
+clics-doculect-84-951,poli1260-std,concepticon-1434,9.223,pchnąć,stab,pchnac
+clics-doculect-84-952,poli1260-std,concepticon-1434,9.223,dźgnąć,stab,dzgnac
+clics-doculect-84-953,poli1260-std,concepticon-1352,9.23,nóż,knife,noz
+clics-doculect-84-954,poli1260-std,concepticon-356,9.24,nożyce,"scissors, shears",nozyce
+clics-doculect-84-955,poli1260-std,concepticon-677,9.25,siekiera,ax,siekiera
+clics-doculect-84-956,poli1260-std,concepticon-290,9.251,toporek,adze,toporek
+clics-doculect-84-957,poli1260-std,concepticon-680,9.26,łamać,break,lamac
+clics-doculect-84-958,poli1260-std,concepticon-588,9.261,złamany,broken,zlamany
+clics-doculect-84-959,poli1260-std,concepticon-1437,9.27,łupać,split,lupac
+clics-doculect-84-960,poli1260-std,concepticon-1437,9.27,rozszczepiać,split,rozszczepiac
+clics-doculect-84-961,poli1260-std,concepticon-1735,9.28,drzeć,tear,drzec
+clics-doculect-84-962,poli1260-std,concepticon-1735,9.28,rwać,tear,rwac
+clics-doculect-84-963,poli1260-std,concepticon-291,9.29,zdzierać,"flay, skin",zdzierac
+clics-doculect-84-964,poli1260-std,concepticon-291,9.29,łupić,"flay, skin",lupic
+clics-doculect-84-965,poli1260-std,concepticon-1449,9.31,trzeć,"rub, wipe",trzec
+clics-doculect-84-966,poli1260-std,concepticon-1449,9.31,wcierać,"rub, wipe",wcierac
+clics-doculect-84-967,poli1260-std,concepticon-214,9.32,rozciągnąć,stretch,rozciagnac
+clics-doculect-84-968,poli1260-std,concepticon-214,9.32,rozciągać,stretch,rozciagac
+clics-doculect-84-969,poli1260-std,concepticon-1455,9.33,ciągnąć,pull,ciagnac
+clics-doculect-84-970,poli1260-std,concepticon-1455,9.33,pchnąć,pull,pchnac
+clics-doculect-84-971,poli1260-std,concepticon-1455,9.33,pchać,pull,pchac
+clics-doculect-84-972,poli1260-std,concepticon-38,9.34,słać,spread out,slac
+clics-doculect-84-973,poli1260-std,concepticon-38,9.34,sypać,spread out,sypac
+clics-doculect-84-974,poli1260-std,concepticon-38,9.34,rozchodzićsię,spread out,rozchodzicsie
+clics-doculect-84-975,poli1260-std,concepticon-357,9.341,odkładać,hang up,odkladac
+clics-doculect-84-976,poli1260-std,concepticon-357,9.341,wieszać,hang up,wieszac
+clics-doculect-84-977,poli1260-std,concepticon-1913,9.342,cisnąć,press,cisnac
+clics-doculect-84-978,poli1260-std,concepticon-1913,9.342,ścisnąć,press,scisnac
+clics-doculect-84-979,poli1260-std,concepticon-1913,9.342,naciskać,press,naciskac
+clics-doculect-84-980,poli1260-std,concepticon-1913,9.342,nacisnąć,press,nacisnac
+clics-doculect-84-981,poli1260-std,concepticon-1414,9.343,ściskać,"squeeze, wring",sciskac
+clics-doculect-84-982,poli1260-std,concepticon-1414,9.343,ścisnąć,"squeeze, wring",scisnac
+clics-doculect-84-983,poli1260-std,concepticon-1487,9.35,lać,pour,lac
+clics-doculect-84-984,poli1260-std,concepticon-1487,9.35,wylewać,pour,wylewac
+clics-doculect-84-985,poli1260-std,concepticon-1453,9.36,myć,wash,myc
+clics-doculect-84-986,poli1260-std,concepticon-1453,9.36,prać,wash,prac
+clics-doculect-84-987,poli1260-std,concepticon-230,9.37,zamiatać,sweep,zamiatac
+clics-doculect-84-988,poli1260-std,concepticon-245,9.38,miotła,broom,miotla
+clics-doculect-84-989,poli1260-std,concepticon-1361,9.422,narzędzie,tool,narzedzie
+clics-doculect-84-990,poli1260-std,concepticon-1042,9.43,cieśla,carpenter,ciesla
+clics-doculect-84-991,poli1260-std,concepticon-1840,9.44,budować,build,budowac
+clics-doculect-84-992,poli1260-std,concepticon-1501,9.46,świdrować,bore,swidrowac
+clics-doculect-84-993,poli1260-std,concepticon-1501,9.46,wiercić,bore,wiercic
+clics-doculect-84-994,poli1260-std,concepticon-1501,9.46,borować,bore,borowac
+clics-doculect-84-995,poli1260-std,concepticon-46,9.461,wydrążać,hollow out,wydrazac
+clics-doculect-84-996,poli1260-std,concepticon-1948,9.48,piła,saw,pila
+clics-doculect-84-997,poli1260-std,concepticon-1481,9.49,młot,hammer,mlot
+clics-doculect-84-998,poli1260-std,concepticon-1481,9.49,młotek,hammer,mlotek
+clics-doculect-84-999,poli1260-std,concepticon-502,9.5,gwóźdź,nail,gwozdz
+clics-doculect-84-1000,poli1260-std,concepticon-1069,9.56,klej,glue,klej
+clics-doculect-84-1001,poli1260-std,concepticon-1069,9.56,kleić,glue,kleic
+clics-doculect-84-1002,poli1260-std,concepticon-1001,9.6,kowal,"smith, blacksmith",kowal
+clics-doculect-84-1003,poli1260-std,concepticon-288,9.61,kuć,forge,kuc
+clics-doculect-84-1004,poli1260-std,concepticon-288,9.61,wykuwać,forge,wykuwac
+clics-doculect-84-1005,poli1260-std,concepticon-1648,9.62,kowadło,anvil,kowadlo
+clics-doculect-84-1006,poli1260-std,concepticon-211,9.63,lać,cast (metals),lac
+clics-doculect-84-1007,poli1260-std,concepticon-211,9.63,odlewać,cast (metals),odlewac
+clics-doculect-84-1008,poli1260-std,concepticon-1369,9.64,złoto,gold,zloto
+clics-doculect-84-1009,poli1260-std,concepticon-759,9.65,srebro,silver,srebro
+clics-doculect-84-1010,poli1260-std,concepticon-1825,9.66,miedź,"copper, bronze",miedz
+clics-doculect-84-1011,poli1260-std,concepticon-1825,9.66,bronz,"copper, bronze",bronz
+clics-doculect-84-1012,poli1260-std,concepticon-1825,9.66,spiż,"copper, bronze",spiz
+clics-doculect-84-1013,poli1260-std,concepticon-1825,9.66,brąz,"copper, bronze",braz
+clics-doculect-84-1014,poli1260-std,concepticon-621,9.67,żelazo,iron,zelazo
+clics-doculect-84-1015,poli1260-std,concepticon-627,9.68,ołów,lead (noun),olow
+clics-doculect-84-1016,poli1260-std,concepticon-358,9.69,cyna,"tin, tinplate",cyna
+clics-doculect-84-1017,poli1260-std,concepticon-358,9.69,blacha,"tin, tinplate",blacha
+clics-doculect-84-1018,poli1260-std,concepticon-359,9.71,garncarz,potter,garncarz
+clics-doculect-84-1019,poli1260-std,concepticon-359,9.71,zdun,potter,zdun
+clics-doculect-84-1020,poli1260-std,concepticon-289,9.72,ulepić,mold (clay etc),ulepic
+clics-doculect-84-1021,poli1260-std,concepticon-289,9.72,lepić,mold (clay etc),lepic
+clics-doculect-84-1022,poli1260-std,concepticon-1399,9.73,glina,clay,glina
+clics-doculect-84-1023,poli1260-std,concepticon-604,9.74,szkło,glass,szklo
+clics-doculect-84-1024,poli1260-std,concepticon-1729,9.75,pleść,"weave, plait",plesc
+clics-doculect-84-1025,poli1260-std,concepticon-1729,9.75,tkać,"weave, plait",tkac
+clics-doculect-84-1026,poli1260-std,concepticon-1539,9.76,kosz,basket,kosz
+clics-doculect-84-1027,poli1260-std,concepticon-195,9.77,wycieraczka,mat,wycieraczka
+clics-doculect-84-1028,poli1260-std,concepticon-195,9.77,dywanik,mat,dywanik
+clics-doculect-84-1029,poli1260-std,concepticon-195,9.77,mata,mat,mata
+clics-doculect-84-1030,poli1260-std,concepticon-292,9.771,dywanik,rug,dywanik
+clics-doculect-84-1031,poli1260-std,concepticon-293,9.78,siatka,netbag,siatka
+clics-doculect-84-1032,poli1260-std,concepticon-1971,9.79,wentylator,fan (noun),wentylator
+clics-doculect-84-1033,poli1260-std,concepticon-1971,9.79,wachlarz,fan (noun),wachlarz
+clics-doculect-84-1034,poli1260-std,concepticon-360,9.791,wachlowaćsię,fan (vb),wachlowacsie
+clics-doculect-84-1035,poli1260-std,concepticon-228,9.81,wyciosać,carve,wyciosac
+clics-doculect-84-1036,poli1260-std,concepticon-228,9.81,rzeźbić,carve,rzezbic
+clics-doculect-84-1037,poli1260-std,concepticon-914,9.82,rzeźbiarz,sculptor,rzezbiarz
+clics-doculect-84-1038,poli1260-std,concepticon-1002,9.83,statua,statue,statua
+clics-doculect-84-1039,poli1260-std,concepticon-1002,9.83,posąg,statue,posag
+clics-doculect-84-1040,poli1260-std,concepticon-1979,9.84,dłuto,chisel,dluto
+clics-doculect-84-1041,poli1260-std,concepticon-647,9.88,farba,paint (noun),farba
+clics-doculect-84-1042,poli1260-std,concepticon-647,9.88,barwa,paint (noun),barwa
+clics-doculect-84-1043,poli1260-std,concepticon-2001,9.89,malować,paint (vb),malowac
+clics-doculect-84-1044,poli1260-std,concepticon-765,10.11,ruszyć,move,ruszyc
+clics-doculect-84-1045,poli1260-std,concepticon-765,10.11,ruszać,move,ruszac
+clics-doculect-84-1046,poli1260-std,concepticon-1588,10.12,obrócić,turn over,obrocic
+clics-doculect-84-1047,poli1260-std,concepticon-1445,10.13,kręcićsię,turn around,krecicsie
+clics-doculect-84-1048,poli1260-std,concepticon-1445,10.13,obracaćsię,turn around,obracacsie
+clics-doculect-84-1049,poli1260-std,concepticon-1113,10.14,wić,"wind, wrap",wic
+clics-doculect-84-1050,poli1260-std,concepticon-1113,10.14,obwinąć,"wind, wrap",obwinac
+clics-doculect-84-1051,poli1260-std,concepticon-827,10.15,toczyć,roll,toczyc
+clics-doculect-84-1052,poli1260-std,concepticon-808,10.16,spuścić,drop (vb),spuscic
+clics-doculect-84-1053,poli1260-std,concepticon-808,10.16,opuścić,drop (vb),opuscic
+clics-doculect-84-1054,poli1260-std,concepticon-430,10.17,skręcać,twist,skrecac
+clics-doculect-84-1055,poli1260-std,concepticon-430,10.17,skręcić,twist,skrecic
+clics-doculect-84-1056,poli1260-std,concepticon-430,10.17,owijać,twist,owijac
+clics-doculect-84-1057,poli1260-std,concepticon-430,10.17,owinąć,twist,owinac
+clics-doculect-84-1058,poli1260-std,concepticon-568,10.21,stać,rise,stac
+clics-doculect-84-1059,poli1260-std,concepticon-568,10.21,wznieśćsię,rise,wzniescsie
+clics-doculect-84-1060,poli1260-std,concepticon-501,10.22,podnieść,"raise, lift",podniesc
+clics-doculect-84-1061,poli1260-std,concepticon-501,10.22,dźwignąć,"raise, lift",dzwignac
+clics-doculect-84-1062,poli1260-std,concepticon-1280,10.23,paść,fall,pasc
+clics-doculect-84-1063,poli1260-std,concepticon-1280,10.23,padać,fall,padac
+clics-doculect-84-1064,poli1260-std,concepticon-1280,10.23,upadać,fall,upadac
+clics-doculect-84-1065,poli1260-std,concepticon-2253,10.24,kapanie,drip,kapanie
+clics-doculect-84-1066,poli1260-std,concepticon-2253,10.24,kapać,drip,kapac
+clics-doculect-84-1067,poli1260-std,concepticon-1456,10.25,rzucić,throw,rzucic
+clics-doculect-84-1068,poli1260-std,concepticon-1456,10.25,rzucać,throw,rzucac
+clics-doculect-84-1069,poli1260-std,concepticon-1456,10.25,ciskać,throw,ciskac
+clics-doculect-84-1070,poli1260-std,concepticon-1456,10.25,cisnąć,throw,cisnac
+clics-doculect-84-1071,poli1260-std,concepticon-702,10.252,łapać,catch (ball),lapac
+clics-doculect-84-1072,poli1260-std,concepticon-1909,10.26,trząść,shake,trzasc
+clics-doculect-84-1073,poli1260-std,concepticon-1909,10.26,wstrząsać,shake,wstrzasac
+clics-doculect-84-1074,poli1260-std,concepticon-2003,10.32,płynąć,flow,plynac
+clics-doculect-84-1075,poli1260-std,concepticon-2003,10.32,pływać,flow,plywac
+clics-doculect-84-1076,poli1260-std,concepticon-1088,10.33,topić,sink,topic
+clics-doculect-84-1077,poli1260-std,concepticon-1088,10.33,zatonąć,sink,zatonac
+clics-doculect-84-1078,poli1260-std,concepticon-1574,10.34,pływać,float,plywac
+clics-doculect-84-1079,poli1260-std,concepticon-1574,10.34,płynąć,float,plynac
+clics-doculect-84-1080,poli1260-std,concepticon-1439,10.35,pływać,swim,plywac
+clics-doculect-84-1081,poli1260-std,concepticon-1439,10.35,płynąć,swim,plynac
+clics-doculect-84-1082,poli1260-std,concepticon-119,10.351,nurkować,dive,nurkowac
+clics-doculect-84-1083,poli1260-std,concepticon-365,10.352,plusk,splash,plusk
+clics-doculect-84-1084,poli1260-std,concepticon-365,10.352,pluskać,splash,pluskac
+clics-doculect-84-1085,poli1260-std,concepticon-787,10.36,żeglować,sail (vb),zeglowac
+clics-doculect-84-1086,poli1260-std,concepticon-1441,10.37,lecieć,fly (vb),leciec
+clics-doculect-84-1087,poli1260-std,concepticon-1441,10.37,latać,fly (vb),latac
+clics-doculect-84-1088,poli1260-std,concepticon-175,10.38,wiać,blow,wiac
+clics-doculect-84-1089,poli1260-std,concepticon-175,10.38,dąć,blow,dac
+clics-doculect-84-1090,poli1260-std,concepticon-175,10.38,dmuchać,blow,dmuchac
+clics-doculect-84-1091,poli1260-std,concepticon-96,10.41,pełzać,"creep, crawl",pelzac
+clics-doculect-84-1092,poli1260-std,concepticon-96,10.41,czołgaćsię,"creep, crawl",czolgacsie
+clics-doculect-84-1093,poli1260-std,concepticon-66,10.412,klękać,kneel,klekac
+clics-doculect-84-1094,poli1260-std,concepticon-66,10.412,klęknąć,kneel,kleknac
+clics-doculect-84-1095,poli1260-std,concepticon-296,10.413,kucać,crouch,kucac
+clics-doculect-84-1096,poli1260-std,concepticon-1324,10.42,poślizgnąćsię,"slide, slip",poslizgnacsie
+clics-doculect-84-1097,poli1260-std,concepticon-1829,10.43,skoczyć,"jump, leap",skoczyc
+clics-doculect-84-1098,poli1260-std,concepticon-1829,10.43,skakać,"jump, leap",skakac
+clics-doculect-84-1099,poli1260-std,concepticon-1135,10.431,kopać,kick,kopac
+clics-doculect-84-1100,poli1260-std,concepticon-1135,10.431,kopnąć,kick,kopnac
+clics-doculect-84-1101,poli1260-std,concepticon-1879,10.44,tańczyć,dance,tanczyc
+clics-doculect-84-1102,poli1260-std,concepticon-1879,10.44,tańcować,dance,tancowac
+clics-doculect-84-1103,poli1260-std,concepticon-1443,10.45,iść,walk,isc
+clics-doculect-84-1104,poli1260-std,concepticon-1443,10.45,chodzić,walk,chodzic
+clics-doculect-84-1105,poli1260-std,concepticon-366,10.451,kuleć,limp,kulec
+clics-doculect-84-1106,poli1260-std,concepticon-366,10.451,utykać,limp,utykac
+clics-doculect-84-1107,poli1260-std,concepticon-1519,10.46,biec,run,biec
+clics-doculect-84-1108,poli1260-std,concepticon-1519,10.46,biegać,run,biegac
+clics-doculect-84-1109,poli1260-std,concepticon-695,10.47,iść,go,isc
+clics-doculect-84-1110,poli1260-std,concepticon-695,10.47,chodzić,go,chodzic
+clics-doculect-84-1111,poli1260-std,concepticon-705,10.471,wchodzić,go up,wchodzic
+clics-doculect-84-1112,poli1260-std,concepticon-1102,10.472,wspinaćsię,climb,wspinacsie
+clics-doculect-84-1113,poli1260-std,concepticon-2014,10.473,schodzić,go down,schodzic
+clics-doculect-84-1114,poli1260-std,concepticon-1107,10.474,wyjść,go out,wyjsc
+clics-doculect-84-1115,poli1260-std,concepticon-1107,10.474,wychodzić,go out,wychodzic
+clics-doculect-84-1116,poli1260-std,concepticon-1446,10.48,przyjść,come,przyjsc
+clics-doculect-84-1117,poli1260-std,concepticon-1446,10.48,przychodzić,come,przychodzic
+clics-doculect-84-1118,poli1260-std,concepticon-581,10.481,wrócić,come back,wrocic
+clics-doculect-84-1119,poli1260-std,concepticon-1752,10.49,odejść,"go away, depart",odejsc
+clics-doculect-84-1120,poli1260-std,concepticon-1752,10.49,odchodzić,"go away, depart",odchodzic
+clics-doculect-84-1121,poli1260-std,concepticon-485,10.491,znikać,disappear,znikac
+clics-doculect-84-1122,poli1260-std,concepticon-485,10.491,zniknąć,disappear,zniknac
+clics-doculect-84-1123,poli1260-std,concepticon-956,10.51,uciec,flee,uciec
+clics-doculect-84-1124,poli1260-std,concepticon-956,10.51,uciekać,flee,uciekac
+clics-doculect-84-1125,poli1260-std,concepticon-1085,10.52,iśćza,follow,iscza
+clics-doculect-84-1126,poli1260-std,concepticon-1047,10.53,ścigać,pursue,scigac
+clics-doculect-84-1127,poli1260-std,concepticon-1047,10.53,gonić,pursue,gonic
+clics-doculect-84-1128,poli1260-std,concepticon-1387,10.55,przybyć,"reach, arrive",przybyc
+clics-doculect-84-1129,poli1260-std,concepticon-1387,10.55,osiągnąć,"reach, arrive",osiagnac
+clics-doculect-84-1130,poli1260-std,concepticon-1778,10.56,zbliżyćsię,approach,zblizycsie
+clics-doculect-84-1131,poli1260-std,concepticon-1778,10.56,zbliżaćsię,approach,zblizacsie
+clics-doculect-84-1132,poli1260-std,concepticon-749,10.57,wejść,enter,wejsc
+clics-doculect-84-1133,poli1260-std,concepticon-749,10.57,wchodzić,enter,wchodzic
+clics-doculect-84-1134,poli1260-std,concepticon-700,10.61,nieść,carry (bear),niesc
+clics-doculect-84-1135,poli1260-std,concepticon-700,10.61,nosić,carry (bear),nosic
+clics-doculect-84-1136,poli1260-std,concepticon-412,10.612,nieśćwręce,carry-in-hand,niescwrece
+clics-doculect-84-1137,poli1260-std,concepticon-413,10.613,nieśćnaplecach,carry-on-shoulder,niescnaplecach
+clics-doculect-84-1138,poli1260-std,concepticon-414,10.614,nieśćnagłowie,carry-on-head,niescnaglowie
+clics-doculect-84-1139,poli1260-std,concepticon-415,10.615,nieśćpodpachą,carry-underarm,niescpodpacha
+clics-doculect-84-1140,poli1260-std,concepticon-692,10.62,przynieść,bring,przyniesc
+clics-doculect-84-1141,poli1260-std,concepticon-692,10.62,przynosić,bring,przynosic
+clics-doculect-84-1142,poli1260-std,concepticon-1127,10.63,syłać,send,sylac
+clics-doculect-84-1143,poli1260-std,concepticon-43,10.64,prowadzić,lead (vb),prowadzic
+clics-doculect-84-1144,poli1260-std,concepticon-741,10.65,gnać,drive,gnac
+clics-doculect-84-1145,poli1260-std,concepticon-741,10.65,gonić,drive,gonic
+clics-doculect-84-1146,poli1260-std,concepticon-741,10.65,pędzić,drive,pedzic
+clics-doculect-84-1147,poli1260-std,concepticon-741,10.65,prowadzić,drive,prowadzic
+clics-doculect-84-1148,poli1260-std,concepticon-367,10.66,jechać,ride,jechac
+clics-doculect-84-1149,poli1260-std,concepticon-1452,10.67,pchnąć,"push, shove",pchnac
+clics-doculect-84-1150,poli1260-std,concepticon-1452,10.67,sunąć,"push, shove",sunac
+clics-doculect-84-1151,poli1260-std,concepticon-667,10.71,droga,road,droga
+clics-doculect-84-1152,poli1260-std,concepticon-2252,10.72,ścieżka,path,sciezka
+clics-doculect-84-1153,poli1260-std,concepticon-1011,10.74,most,bridge,most
+clics-doculect-84-1154,poli1260-std,concepticon-122,10.75,wóz,"carriage, wagon, cart",woz
+clics-doculect-84-1155,poli1260-std,concepticon-122,10.75,powóz,"carriage, wagon, cart",powoz
+clics-doculect-84-1156,poli1260-std,concepticon-710,10.76,koło,wheel,kolo
+clics-doculect-84-1157,poli1260-std,concepticon-1769,10.77,oś,axle,os
+clics-doculect-84-1158,poli1260-std,concepticon-14,10.78,jarzmo,yoke,jarzmo
+clics-doculect-84-1159,poli1260-std,concepticon-740,10.81,okręt,ship,okret
+clics-doculect-84-1160,poli1260-std,concepticon-740,10.81,statek,ship,statek
+clics-doculect-84-1161,poli1260-std,concepticon-1844,10.83,łódka,boat,lodka
+clics-doculect-84-1162,poli1260-std,concepticon-1844,10.83,łódź,boat,lodz
+clics-doculect-84-1163,poli1260-std,concepticon-1970,10.831,kajak,canoe,kajak
+clics-doculect-84-1164,poli1260-std,concepticon-1970,10.831,kanu,canoe,kanu
+clics-doculect-84-1165,poli1260-std,concepticon-1970,10.831,piroga,canoe,piroga
+clics-doculect-84-1166,poli1260-std,concepticon-416,10.832,wysięgnik,outrigger,wysiegnik
+clics-doculect-84-1167,poli1260-std,concepticon-1664,10.84,tratwa,raft,tratwa
+clics-doculect-84-1168,poli1260-std,concepticon-108,10.85,wiosło,oar,wioslo
+clics-doculect-84-1169,poli1260-std,concepticon-234,10.851,wiosło,paddle (noun),wioslo
+clics-doculect-84-1170,poli1260-std,concepticon-1849,10.852,wiosłować,row (vb),wioslowac
+clics-doculect-84-1171,poli1260-std,concepticon-108,10.86,ster,rudder,ster
+clics-doculect-84-1172,poli1260-std,concepticon-184,10.87,maszt,mast,maszt
+clics-doculect-84-1173,poli1260-std,concepticon-786,10.88,żagiel,sail (noun),zagiel
+clics-doculect-84-1174,poli1260-std,concepticon-1870,10.89,kotwica,anchor,kotwica
+clics-doculect-84-1175,poli1260-std,concepticon-1870,10.89,kotew,anchor,kotew
+clics-doculect-84-1176,poli1260-std,concepticon-610,10.91,port,"harbor, port",port
+clics-doculect-84-1177,poli1260-std,concepticon-610,10.91,przystań,"harbor, port",przystan
+clics-doculect-84-1178,poli1260-std,concepticon-1922,10.92,lądować,land (vb),ladowac
+clics-doculect-84-1179,poli1260-std,concepticon-773,11.11,mieć,have,miec
+clics-doculect-84-1180,poli1260-std,concepticon-773,11.11,posiadać,have,posiadac
+clics-doculect-84-1181,poli1260-std,concepticon-684,11.12,posiadać,"own, possess",posiadac
+clics-doculect-84-1182,poli1260-std,concepticon-684,11.12,dzierżyć,"own, possess",dzierzyc
+clics-doculect-84-1183,poli1260-std,concepticon-684,11.12,mieć,"own, possess",miec
+clics-doculect-84-1184,poli1260-std,concepticon-1749,11.13,wziąć,take,wziac
+clics-doculect-84-1185,poli1260-std,concepticon-1749,11.13,brać,take,brac
+clics-doculect-84-1186,poli1260-std,concepticon-2021,11.14,uchwycić,"seize, grasp",uchwycic
+clics-doculect-84-1187,poli1260-std,concepticon-2021,11.14,pochwycić,"seize, grasp",pochwycic
+clics-doculect-84-1188,poli1260-std,concepticon-1448,11.15,trzymać,hold,trzymac
+clics-doculect-84-1189,poli1260-std,concepticon-694,11.16,dostać,"get, obtain",dostac
+clics-doculect-84-1190,poli1260-std,concepticon-694,11.16,dostawać,"get, obtain",dostawac
+clics-doculect-84-1191,poli1260-std,concepticon-694,11.16,otrzymać,"get, obtain",otrzymac
+clics-doculect-84-1192,poli1260-std,concepticon-694,11.16,otrzymywać,"get, obtain",otrzymywac
+clics-doculect-84-1193,poli1260-std,concepticon-1477,11.17,trzymywać,"keep, retain",trzymywac
+clics-doculect-84-1194,poli1260-std,concepticon-738,11.18,rzecz,thing,rzecz
+clics-doculect-84-1195,poli1260-std,concepticon-1447,11.21,dać,give,dac
+clics-doculect-84-1196,poli1260-std,concepticon-1447,11.21,dawać,give,dawac
+clics-doculect-84-1197,poli1260-std,concepticon-85,11.22,zwrócić,give back,zwrocic
+clics-doculect-84-1198,poli1260-std,concepticon-85,11.22,oddać,give back,oddac
+clics-doculect-84-1199,poli1260-std,concepticon-85,11.22,oddawać,give back,oddawac
+clics-doculect-84-1200,poli1260-std,concepticon-85,11.22,zwracać,give back,zwracac
+clics-doculect-84-1201,poli1260-std,concepticon-1997,11.24,chować,"preserve, look after",chowac
+clics-doculect-84-1202,poli1260-std,concepticon-1997,11.24,zachować,"preserve, look after",zachowac
+clics-doculect-84-1203,poli1260-std,concepticon-1997,11.24,zatrzymać,"preserve, look after",zatrzymac
+clics-doculect-84-1204,poli1260-std,concepticon-2008,11.25,ratować,"save, rescue",ratowac
+clics-doculect-84-1205,poli1260-std,concepticon-2008,11.25,ocalić,"save, rescue",ocalic
+clics-doculect-84-1206,poli1260-std,concepticon-681,11.27,burzyć,destroy,burzyc
+clics-doculect-84-1207,poli1260-std,concepticon-44,11.28,krzywdzić,"harm, injure, damage",krzywdzic
+clics-doculect-84-1208,poli1260-std,concepticon-1468,11.31,szukać,"seek, look for",szukac
+clics-doculect-84-1209,poli1260-std,concepticon-1468,11.31,poszukiwać,"seek, look for",poszukiwac
+clics-doculect-84-1210,poli1260-std,concepticon-719,11.32,znaleźć,find,znalezc
+clics-doculect-84-1211,poli1260-std,concepticon-1660,11.33,stracić,lose,stracic
+clics-doculect-84-1212,poli1260-std,concepticon-1660,11.33,zgubić,lose,zgubic
+clics-doculect-84-1213,poli1260-std,concepticon-1095,11.34,puścić,"release, let go",puscic
+clics-doculect-84-1214,poli1260-std,concepticon-1559,11.43,pieniądze,money,pieniadze
+clics-doculect-84-1215,poli1260-std,concepticon-1867,11.44,moneta,coin,moneta
+clics-doculect-84-1216,poli1260-std,concepticon-712,11.51,bogaty,rich,bogaty
+clics-doculect-84-1217,poli1260-std,concepticon-1674,11.52,ubogi,poor,ubogi
+clics-doculect-84-1218,poli1260-std,concepticon-1674,11.52,biedny,poor,biedny
+clics-doculect-84-1219,poli1260-std,concepticon-1934,11.53,żebrak,beggar,zebrak
+clics-doculect-84-1220,poli1260-std,concepticon-1774,11.54,chciwy,"avaricious, stingy",chciwy
+clics-doculect-84-1221,poli1260-std,concepticon-1774,11.54,łakomy,"avaricious, stingy",lakomy
+clics-doculect-84-1222,poli1260-std,concepticon-1774,11.54,skąpy,"avaricious, stingy",skapy
+clics-doculect-84-1223,poli1260-std,concepticon-582,11.61,pożyczyć,lend,pozyczyc
+clics-doculect-84-1224,poli1260-std,concepticon-582,11.61,pożyczać,lend,pozyczac
+clics-doculect-84-1225,poli1260-std,concepticon-1823,11.62,pożyczyć,borrow,pozyczyc
+clics-doculect-84-1226,poli1260-std,concepticon-1823,11.62,pożyczać,borrow,pozyczac
+clics-doculect-84-1227,poli1260-std,concepticon-369,11.63,byćkomuścoświnnym,owe,byckomuscoswinnym
+clics-doculect-84-1228,poli1260-std,concepticon-1914,11.64,dług,debt,dlug
+clics-doculect-84-1229,poli1260-std,concepticon-718,11.65,płacić,pay (vb),placic
+clics-doculect-84-1230,poli1260-std,concepticon-1081,11.66,rachunek,"account, reckoning",rachunek
+clics-doculect-84-1231,poli1260-std,concepticon-1081,11.66,konto,"account, reckoning",konto
+clics-doculect-84-1232,poli1260-std,concepticon-873,11.69,podatek,"tax, tribute",podatek
+clics-doculect-84-1233,poli1260-std,concepticon-873,11.69,pobór,"tax, tribute",pobor
+clics-doculect-84-1234,poli1260-std,concepticon-873,11.69,taksa,"tax, tribute",taksa
+clics-doculect-84-1235,poli1260-std,concepticon-856,11.77,najmować,hire,najmowac
+clics-doculect-84-1236,poli1260-std,concepticon-856,11.77,nająć,hire,najac
+clics-doculect-84-1237,poli1260-std,concepticon-1122,11.78,płaca,wages,placa
+clics-doculect-84-1238,poli1260-std,concepticon-1122,11.78,wynagrodzenie,wages,wynagrodzenie
+clics-doculect-84-1239,poli1260-std,concepticon-733,11.79,zapracować,earn,zapracowac
+clics-doculect-84-1240,poli1260-std,concepticon-733,11.79,zarobić,earn,zarobic
+clics-doculect-84-1241,poli1260-std,concepticon-733,11.79,zarabiać,earn,zarabiac
+clics-doculect-84-1242,poli1260-std,concepticon-1869,11.81,kupić,buy,kupic
+clics-doculect-84-1243,poli1260-std,concepticon-1869,11.81,kupować,buy,kupowac
+clics-doculect-84-1244,poli1260-std,concepticon-1571,11.82,sprzedać,sell,sprzedac
+clics-doculect-84-1245,poli1260-std,concepticon-1571,11.82,sprzedawać,sell,sprzedawac
+clics-doculect-84-1246,poli1260-std,concepticon-2135,11.83,handlować,"trade, barter",handlowac
+clics-doculect-84-1247,poli1260-std,concepticon-2135,11.83,kupczyć,"trade, barter",kupczyc
+clics-doculect-84-1248,poli1260-std,concepticon-1082,11.84,kupiec,merchant,kupiec
+clics-doculect-84-1249,poli1260-std,concepticon-633,11.85,targ,market (place),targ
+clics-doculect-84-1250,poli1260-std,concepticon-633,11.85,rynek,market (place),rynek
+clics-doculect-84-1251,poli1260-std,concepticon-752,11.86,sklep,"store, shop",sklep
+clics-doculect-84-1252,poli1260-std,concepticon-657,11.87,cena,price,cena
+clics-doculect-84-1253,poli1260-std,concepticon-1426,11.88,drogi,"dear (costly, expensive)",drogi
+clics-doculect-84-1254,poli1260-std,concepticon-1887,11.89,tani,cheap,tani
+clics-doculect-84-1255,poli1260-std,concepticon-884,11.91,dzielić,share (distribute),dzielic
+clics-doculect-84-1256,poli1260-std,concepticon-884,11.91,miećudział,share (distribute),miecudzial
+clics-doculect-84-1257,poli1260-std,concepticon-884,11.91,udział,share (distribute),udzial
+clics-doculect-84-1258,poli1260-std,concepticon-884,11.91,akcja,share (distribute),akcja
+clics-doculect-84-1259,poli1260-std,concepticon-1098,11.92,ważyć,weigh,wazyc
+clics-doculect-84-1260,poli1260-std,concepticon-1685,12.1,po,after,po
+clics-doculect-84-1261,poli1260-std,concepticon-1685,12.1,za,after,za
+clics-doculect-84-1262,poli1260-std,concepticon-723,12.11,za,place,za
+clics-doculect-84-1263,poli1260-std,concepticon-723,12.11,ztyłu,place,ztylu
+clics-doculect-84-1264,poli1260-std,concepticon-1816,12.2,przy,beside,przy
+clics-doculect-84-1265,poli1260-std,concepticon-1816,12.2,obok,beside,obok
+clics-doculect-84-1266,poli1260-std,concepticon-2094,12.3,nadół,"down, below",nadol
+clics-doculect-84-1267,poli1260-std,concepticon-2094,12.3,nadole,"down, below",nadole
+clics-doculect-84-1268,poli1260-std,concepticon-2094,12.3,poniżej,"down, below",ponizej
+clics-doculect-84-1269,poli1260-std,concepticon-1882,12.4,przed,before,przed
+clics-doculect-84-1270,poli1260-std,concepticon-1882,12.4,zprzodu,before,zprzodu
+clics-doculect-84-1271,poli1260-std,concepticon-1019,12.41,przód,right (side),przod
+clics-doculect-84-1272,poli1260-std,concepticon-1606,12.5,wewnątrz,"inside, in",wewnatrz
+clics-doculect-84-1273,poli1260-std,concepticon-1606,12.5,wśrodku,"inside, in",wsrodku
+clics-doculect-84-1274,poli1260-std,concepticon-762,12.6,nazewnątrz,outside,nazewnatrz
+clics-doculect-84-1275,poli1260-std,concepticon-762,12.6,poza,outside,poza
+clics-doculect-84-1276,poli1260-std,concepticon-1485,12.7,pod,under,pod
+clics-doculect-84-1277,poli1260-std,concepticon-1591,12.8,wgórze,"up, above",wgorze
+clics-doculect-84-1278,poli1260-std,concepticon-1591,12.8,wgórę,"up, above",wgore
+clics-doculect-84-1279,poli1260-std,concepticon-1591,12.8,ponad,"up, above",ponad
+clics-doculect-84-1280,poli1260-std,concepticon-723,12.11,miejsce,place,miejsce
+clics-doculect-84-1281,poli1260-std,concepticon-998,12.12,postawić,put,postawic
+clics-doculect-84-1282,poli1260-std,concepticon-998,12.12,położyć,put,polozyc
+clics-doculect-84-1283,poli1260-std,concepticon-998,12.12,kłaść,put,klasc
+clics-doculect-84-1284,poli1260-std,concepticon-1416,12.13,siedzieć,sit,siedziec
+clics-doculect-84-1285,poli1260-std,concepticon-1416,12.13,siadać,sit,siadac
+clics-doculect-84-1286,poli1260-std,concepticon-215,12.14,leżeć,lie down,lezec
+clics-doculect-84-1287,poli1260-std,concepticon-1442,12.15,stać,stand,stac
+clics-doculect-84-1288,poli1260-std,concepticon-987,12.16,zostać,"remain, stay",zostac
+clics-doculect-84-1289,poli1260-std,concepticon-987,12.16,czekać,"remain, stay",czekac
+clics-doculect-84-1290,poli1260-std,concepticon-987,12.16,pozostać,"remain, stay",pozostac
+clics-doculect-84-1291,poli1260-std,concepticon-838,12.17,pozostałość,"remains, left overs",pozostalosc
+clics-doculect-84-1292,poli1260-std,concepticon-838,12.17,resztki,"remains, left overs",resztki
+clics-doculect-84-1293,poli1260-std,concepticon-7,12.21,zbierać,"collect, gather",zbierac
+clics-doculect-84-1294,poli1260-std,concepticon-7,12.21,zgromadzić,"collect, gather",zgromadzic
+clics-doculect-84-1295,poli1260-std,concepticon-7,12.21,gromadzić,"collect, gather",gromadzic
+clics-doculect-84-1296,poli1260-std,concepticon-7,12.21,kolekcjonować,"collect, gather",kolekcjonowac
+clics-doculect-84-1297,poli1260-std,concepticon-371,12.212,polepszaćsię,pick up,polepszacsie
+clics-doculect-84-1298,poli1260-std,concepticon-371,12.212,łapać,pick up,lapac
+clics-doculect-84-1299,poli1260-std,concepticon-371,12.212,podrywać,pick up,podrywac
+clics-doculect-84-1300,poli1260-std,concepticon-1576,12.213,gromadzić,pile up,gromadzic
+clics-doculect-84-1301,poli1260-std,concepticon-1743,12.22,złączyć,"join, unite",zlaczyc
+clics-doculect-84-1302,poli1260-std,concepticon-1743,12.22,spoić,"join, unite",spoic
+clics-doculect-84-1303,poli1260-std,concepticon-1743,12.22,kojarzyć,"join, unite",kojarzyc
+clics-doculect-84-1304,poli1260-std,concepticon-1359,12.23,rozłączyć,separate,rozlaczyc
+clics-doculect-84-1305,poli1260-std,concepticon-1359,12.23,rozdzielić,separate,rozdzielic
+clics-doculect-84-1306,poli1260-std,concepticon-1119,12.232,dzielić,divide,dzielic
+clics-doculect-84-1307,poli1260-std,concepticon-1156,12.24,otworzyć,open,otworzyc
+clics-doculect-84-1308,poli1260-std,concepticon-1156,12.24,otwierać,open,otwierac
+clics-doculect-84-1309,poli1260-std,concepticon-1046,12.25,zamknąć,"shut, close",zamknac
+clics-doculect-84-1310,poli1260-std,concepticon-1046,12.25,zatrzasnąć,"shut, close",zatrzasnac
+clics-doculect-84-1311,poli1260-std,concepticon-1046,12.25,zawrzeć,"shut, close",zawrzec
+clics-doculect-84-1312,poli1260-std,concepticon-761,12.26,pokryć,cover,pokryc
+clics-doculect-84-1313,poli1260-std,concepticon-761,12.26,pokrywać,cover,pokrywac
+clics-doculect-84-1314,poli1260-std,concepticon-602,12.27,kryć,"hide, conceal",kryc
+clics-doculect-84-1315,poli1260-std,concepticon-602,12.27,ukrywać,"hide, conceal",ukrywac
+clics-doculect-84-1316,poli1260-std,concepticon-1265,12.31,wysoki,high,wysoki
+clics-doculect-84-1317,poli1260-std,concepticon-721,12.32,niski,low,niski
+clics-doculect-84-1318,poli1260-std,concepticon-1753,12.33,wierzch,top,wierzch
+clics-doculect-84-1319,poli1260-std,concepticon-1753,12.33,góra,top,gora
+clics-doculect-84-1320,poli1260-std,concepticon-690,12.34,dno,bottom,dno
+clics-doculect-84-1321,poli1260-std,concepticon-742,12.35,koniec,end,koniec
+clics-doculect-84-1322,poli1260-std,concepticon-372,12.352,spiczasty,pointed,spiczasty
+clics-doculect-84-1323,poli1260-std,concepticon-372,12.352,zaostrzony,pointed,zaostrzony
+clics-doculect-84-1324,poli1260-std,concepticon-863,12.353,ostrze,edge,ostrze
+clics-doculect-84-1325,poli1260-std,concepticon-863,12.353,brzeg,edge,brzeg
+clics-doculect-84-1326,poli1260-std,concepticon-863,12.353,krawędź,edge,krawedz
+clics-doculect-84-1327,poli1260-std,concepticon-682,12.36,strona,side,strona
+clics-doculect-84-1328,poli1260-std,concepticon-682,12.36,bok,side,bok
+clics-doculect-84-1329,poli1260-std,concepticon-1093,12.37,średni,"middle, center",sredni
+clics-doculect-84-1330,poli1260-std,concepticon-1093,12.37,środek,"middle, center",srodek
+clics-doculect-84-1331,poli1260-std,concepticon-1019,12.41,prawy,right (side),prawy
+clics-doculect-84-1332,poli1260-std,concepticon-244,12.42,lewy,left (side),lewy
+clics-doculect-84-1333,poli1260-std,concepticon-1942,12.43,blisko,near (adv),blisko
+clics-doculect-84-1334,poli1260-std,concepticon-1406,12.44,daleko,far (adv),daleko
+clics-doculect-84-1335,poli1260-std,concepticon-1877,12.45,wschód,east,wschod
+clics-doculect-84-1336,poli1260-std,concepticon-1817,12.46,zachȯd,west,zachod
+clics-doculect-84-1337,poli1260-std,concepticon-1598,12.47,północ,north,polnoc
+clics-doculect-84-1338,poli1260-std,concepticon-1595,12.48,południe,south,poludnie
+clics-doculect-84-1339,poli1260-std,concepticon-479,12.53,rosnąć,grow,rosnac
+clics-doculect-84-1340,poli1260-std,concepticon-1506,12.54,mierzyć,measure,mierzyc
+clics-doculect-84-1341,poli1260-std,concepticon-1506,12.54,miara,measure,miara
+clics-doculect-84-1342,poli1260-std,concepticon-81,12.541,okres,"span, fathom",okres
+clics-doculect-84-1343,poli1260-std,concepticon-81,12.541,objętość,"span, fathom",objetosc
+clics-doculect-84-1344,poli1260-std,concepticon-1202,12.55,wielki,"large, big",wielki
+clics-doculect-84-1345,poli1260-std,concepticon-1202,12.55,olbrzymi,"large, big",olbrzymi
+clics-doculect-84-1346,poli1260-std,concepticon-1246,12.56,mały,"small, little",maly
+clics-doculect-84-1347,poli1260-std,concepticon-1246,12.56,niewielki,"small, little",niewielki
+clics-doculect-84-1348,poli1260-std,concepticon-1203,12.57,długi,long,dlugi
+clics-doculect-84-1349,poli1260-std,concepticon-711,12.58,wysoki,tall,wysoki
+clics-doculect-84-1350,poli1260-std,concepticon-1645,12.59,krótki,short,krotki
+clics-doculect-84-1351,poli1260-std,concepticon-1645,12.59,niski,short,niski
+clics-doculect-84-1352,poli1260-std,concepticon-1243,12.61,szeroki,"wide, broad",szeroki
+clics-doculect-84-1353,poli1260-std,concepticon-1267,12.62,wąski,narrow,waski
+clics-doculect-84-1354,poli1260-std,concepticon-1267,12.62,ciasny,narrow,ciasny
+clics-doculect-84-1355,poli1260-std,concepticon-1244,12.63,gruby,thick (in dimension),gruby
+clics-doculect-84-1356,poli1260-std,concepticon-2249,12.65,cienki,thin (in dimension),cienki
+clics-doculect-84-1357,poli1260-std,concepticon-1593,12.67,głęboki,deep,gleboki
+clics-doculect-84-1358,poli1260-std,concepticon-193,12.68,płytki,shallow,plytki
+clics-doculect-84-1359,poli1260-std,concepticon-193,12.68,miałki,shallow,mialki
+clics-doculect-84-1360,poli1260-std,concepticon-1633,12.71,płaski,flat,plaski
+clics-doculect-84-1361,poli1260-std,concepticon-1404,12.73,prosty,straight,prosty
+clics-doculect-84-1362,poli1260-std,concepticon-297,12.74,krzywy,crooked,krzywy
+clics-doculect-84-1363,poli1260-std,concepticon-297,12.74,skrzywiony,crooked,skrzywiony
+clics-doculect-84-1364,poli1260-std,concepticon-1071,12.75,hak,hook,hak
+clics-doculect-84-1365,poli1260-std,concepticon-192,12.76,róg,corner,rog
+clics-doculect-84-1366,poli1260-std,concepticon-192,12.76,kąt,corner,kat
+clics-doculect-84-1367,poli1260-std,concepticon-192,12.76,węgieł,corner,wegiel
+clics-doculect-84-1368,poli1260-std,concepticon-1367,12.77,krzyż,cross,krzyz
+clics-doculect-84-1369,poli1260-std,concepticon-850,12.78,czworokąt,square,czworokat
+clics-doculect-84-1370,poli1260-std,concepticon-850,12.78,czworobok,square,czworobok
+clics-doculect-84-1371,poli1260-std,concepticon-850,12.78,kwadrat,square,kwadrat
+clics-doculect-84-1372,poli1260-std,concepticon-1395,12.81,okrągły,round,okragly
+clics-doculect-84-1373,poli1260-std,concepticon-1467,12.82,koło,circle,kolo
+clics-doculect-84-1374,poli1260-std,concepticon-1467,12.82,krąg,circle,krag
+clics-doculect-84-1375,poli1260-std,concepticon-1845,12.83,kula,"sphere, ball",kula
+clics-doculect-84-1376,poli1260-std,concepticon-1048,12.84,linia,line,linia
+clics-doculect-84-1377,poli1260-std,concepticon-1667,12.85,dziura,hole,dziura
+clics-doculect-84-1378,poli1260-std,concepticon-1558,12.92,podobny,"like, similar",podobny
+clics-doculect-84-1379,poli1260-std,concepticon-1558,12.92,takisam,"like, similar",takisam
+clics-doculect-84-1380,poli1260-std,concepticon-1264,12.93,odmienić,change,odmienic
+clics-doculect-84-1381,poli1260-std,concepticon-1264,12.93,zmienić,change,zmienic
+clics-doculect-84-1382,poli1260-std,concepticon-1264,12.93,zmieniać,change,zmieniac
+clics-doculect-84-1383,poli1260-std,concepticon-1294,13.0,zero,"zero, nothing",zero
+clics-doculect-84-1384,poli1260-std,concepticon-1493,13.1,jeden,one,jeden
+clics-doculect-84-1385,poli1260-std,concepticon-1493,13.1,raz,one,raz
+clics-doculect-84-1386,poli1260-std,concepticon-1498,13.2,dwa,two,dwa
+clics-doculect-84-1387,poli1260-std,concepticon-492,13.3,trzy,three,trzy
+clics-doculect-84-1388,poli1260-std,concepticon-1500,13.4,cztery,four,cztery
+clics-doculect-84-1389,poli1260-std,concepticon-493,13.5,pięć,five,piec
+clics-doculect-84-1390,poli1260-std,concepticon-1703,13.6,sześć,six,szesc
+clics-doculect-84-1391,poli1260-std,concepticon-1704,13.7,siedem,seven,siedem
+clics-doculect-84-1392,poli1260-std,concepticon-1705,13.8,osiem,eight,osiem
+clics-doculect-84-1393,poli1260-std,concepticon-1483,13.9,dziewięć,nine,dziewiec
+clics-doculect-84-1394,poli1260-std,concepticon-1515,13.10,dziesięć,ten,dziesiec
+clics-doculect-84-1395,poli1260-std,concepticon-1706,13.101,jedenaście,eleven,jedenascie
+clics-doculect-84-1396,poli1260-std,concepticon-1707,13.102,dwanaście,twelve,dwanascie
+clics-doculect-84-1397,poli1260-std,concepticon-1709,13.103,piętnaście,fifteen,pietnascie
+clics-doculect-84-1398,poli1260-std,concepticon-1710,13.104,dwadzieścia,twenty,dwadziescia
+clics-doculect-84-1399,poli1260-std,concepticon-1634,13.105,sto,hundred,sto
+clics-doculect-84-1400,poli1260-std,concepticon-1843,13.106,tysiąc,thousand,tysiac
+clics-doculect-84-1401,poli1260-std,concepticon-1420,13.107,liczyć,count,liczyc
+clics-doculect-84-1402,poli1260-std,concepticon-98,13.14,każdy,"every, all",kazdy
+clics-doculect-84-1403,poli1260-std,concepticon-98,13.14,wszyscy,"every, all",wszyscy
+clics-doculect-84-1404,poli1260-std,concepticon-98,13.14,wszystek,"every, all",wszystek
+clics-doculect-84-1405,poli1260-std,concepticon-1198,13.15,wiele,"much, many",wiele
+clics-doculect-84-1406,poli1260-std,concepticon-1198,13.15,dużo,"much, many",duzo
+clics-doculect-84-1407,poli1260-std,concepticon-1992,13.16,więcej,more,wiecej
+clics-doculect-84-1408,poli1260-std,concepticon-1242,13.17,mało,"little (quantity), few",malo
+clics-doculect-84-1409,poli1260-std,concepticon-1242,13.17,niewiele,"little (quantity), few",niewiele
+clics-doculect-84-1410,poli1260-std,concepticon-1242,13.17,trochę,"little (quantity), few",troche
+clics-doculect-84-1411,poli1260-std,concepticon-1881,13.18,dość,enough,dosc
+clics-doculect-84-1412,poli1260-std,concepticon-1881,13.18,dosyć,enough,dosyc
+clics-doculect-84-1413,poli1260-std,concepticon-1241,13.181,niektóre,some,niektore
+clics-doculect-84-1414,poli1260-std,concepticon-1241,13.181,kilka,some,kilka
+clics-doculect-84-1415,poli1260-std,concepticon-1241,13.181,trochę,some,troche
+clics-doculect-84-1416,poli1260-std,concepticon-1241,13.181,niewiele,some,niewiele
+clics-doculect-84-1417,poli1260-std,concepticon-2023,13.19,mnóstwo,"multitude, crowd",mnostwo
+clics-doculect-84-1418,poli1260-std,concepticon-2023,13.19,tłum,"multitude, crowd",tlum
+clics-doculect-84-1419,poli1260-std,concepticon-2023,13.19,ciżba,"multitude, crowd",cizba
+clics-doculect-84-1420,poli1260-std,concepticon-2023,13.19,mrowie,"multitude, crowd",mrowie
+clics-doculect-84-1421,poli1260-std,concepticon-1429,13.21,pełny,full,pelny
+clics-doculect-84-1422,poli1260-std,concepticon-1429,13.21,całkowity,full,calkowity
+clics-doculect-84-1423,poli1260-std,concepticon-1624,13.22,próżny,empty,prozny
+clics-doculect-84-1424,poli1260-std,concepticon-1624,13.22,pusty,empty,pusty
+clics-doculect-84-1425,poli1260-std,concepticon-779,13.23,część,"part, piece",czesc
+clics-doculect-84-1426,poli1260-std,concepticon-779,13.23,dział,"part, piece",dzial
+clics-doculect-84-1427,poli1260-std,concepticon-816,13.24,połowiczny,half,polowiczny
+clics-doculect-84-1428,poli1260-std,concepticon-816,13.24,pół,half,pol
+clics-doculect-84-1429,poli1260-std,concepticon-816,13.24,połowa,half,polowa
+clics-doculect-84-1430,poli1260-std,concepticon-1580,13.33,sam,"alone, only",sam
+clics-doculect-84-1431,poli1260-std,concepticon-1580,13.33,jedyny,"alone, only",jedyny
+clics-doculect-84-1432,poli1260-std,concepticon-1580,13.33,tylko,"alone, only",tylko
+clics-doculect-84-1433,poli1260-std,concepticon-1580,13.33,jeno,"alone, only",jeno
+clics-doculect-84-1434,poli1260-std,concepticon-728,13.34,pierwszy,first,pierwszy
+clics-doculect-84-1435,poli1260-std,concepticon-1529,13.35,ostatni,last,ostatni
+clics-doculect-84-1436,poli1260-std,concepticon-1384,13.36,drugi,second,drugi
+clics-doculect-84-1437,poli1260-std,concepticon-1888,13.37,para,pair,para
+clics-doculect-84-1438,poli1260-std,concepticon-1546,13.38,dwarazy,two times,dwarazy
+clics-doculect-84-1439,poli1260-std,concepticon-1859,13.42,trzeci,third,trzeci
+clics-doculect-84-1440,poli1260-std,concepticon-417,13.44,trzyrazy,three times,trzyrazy
+clics-doculect-84-1441,poli1260-std,concepticon-417,13.44,trzykroć,three times,trzykroc
+clics-doculect-84-1442,poli1260-std,concepticon-417,13.44,trzykrotnie,three times,trzykrotnie
+clics-doculect-84-1443,poli1260-std,concepticon-892,14.11,czas,time,czas
+clics-doculect-84-1444,poli1260-std,concepticon-1789,14.12,wiek,age,wiek
+clics-doculect-84-1445,poli1260-std,concepticon-1789,14.12,stulecie,age,stulecie
+clics-doculect-84-1446,poli1260-std,concepticon-1231,14.13,nowy,new,nowy
+clics-doculect-84-1447,poli1260-std,concepticon-1207,14.14,młody,young,mlody
+clics-doculect-84-1448,poli1260-std,concepticon-1229,14.15,stary,old,stary
+clics-doculect-84-1449,poli1260-std,concepticon-672,14.16,rano,early,rano
+clics-doculect-84-1450,poli1260-std,concepticon-672,14.16,wcześnie,early,wczesnie
+clics-doculect-84-1451,poli1260-std,concepticon-477,14.17,późno,late,pozno
+clics-doculect-84-1452,poli1260-std,concepticon-477,14.17,późny,late,pozny
+clics-doculect-84-1453,poli1260-std,concepticon-1376,14.18,teraz,now,teraz
+clics-doculect-84-1454,poli1260-std,concepticon-1963,14.19,rychło,immediately,rychlo
+clics-doculect-84-1455,poli1260-std,concepticon-1963,14.19,zaraz,immediately,zaraz
+clics-doculect-84-1456,poli1260-std,concepticon-1963,14.19,natychmiast,immediately,natychmiast
+clics-doculect-84-1457,poli1260-std,concepticon-1631,14.21,prędki,"swift, fast, quick",predki
+clics-doculect-84-1458,poli1260-std,concepticon-1631,14.21,szybki,"swift, fast, quick",szybki
+clics-doculect-84-1459,poli1260-std,concepticon-1631,14.21,bystry,"swift, fast, quick",bystry
+clics-doculect-84-1460,poli1260-std,concepticon-701,14.22,powolny,slow,powolny
+clics-doculect-84-1461,poli1260-std,concepticon-754,14.23,spieszyć,"hasten, hurry",spieszyc
+clics-doculect-84-1462,poli1260-std,concepticon-754,14.23,kwapićsię,"hasten, hurry",kwapicsie
+clics-doculect-84-1463,poli1260-std,concepticon-425,14.24,ociągaćsię,"retard, delay",ociagacsie
+clics-doculect-84-1464,poli1260-std,concepticon-425,14.24,odkładać,"retard, delay",odkladac
+clics-doculect-84-1465,poli1260-std,concepticon-425,14.24,opóźniać,"retard, delay",opozniac
+clics-doculect-84-1466,poli1260-std,concepticon-1806,14.25,zacząć,"begin, beginning",zaczac
+clics-doculect-84-1467,poli1260-std,concepticon-1806,14.25,wszcząć,"begin, beginning",wszczac
+clics-doculect-84-1468,poli1260-std,concepticon-1806,14.25,początek,"begin, beginning",poczatek
+clics-doculect-84-1469,poli1260-std,concepticon-1186,14.252,trwać,"last, endure",trwac
+clics-doculect-84-1470,poli1260-std,concepticon-743,14.26,koniec,end (temporal),koniec
+clics-doculect-84-1471,poli1260-std,concepticon-1766,14.27,kończyć,finish,konczyc
+clics-doculect-84-1472,poli1260-std,concepticon-1928,14.28,przestać,"cease, stop",przestac
+clics-doculect-84-1473,poli1260-std,concepticon-1928,14.28,zatrzymać,"cease, stop",zatrzymac
+clics-doculect-84-1474,poli1260-std,concepticon-790,14.29,gotowy,ready,gotowy
+clics-doculect-84-1475,poli1260-std,concepticon-1676,14.31,zawsze,always,zawsze
+clics-doculect-84-1476,poli1260-std,concepticon-1852,14.32,często,often,czesto
+clics-doculect-84-1477,poli1260-std,concepticon-1544,14.33,czasem,sometimes,czasem
+clics-doculect-84-1478,poli1260-std,concepticon-1544,14.33,niekiedy,sometimes,niekiedy
+clics-doculect-84-1479,poli1260-std,concepticon-703,14.331,wkrótce,soon,wkrotce
+clics-doculect-84-1480,poli1260-std,concepticon-703,14.331,niedługo,soon,niedlugo
+clics-doculect-84-1481,poli1260-std,concepticon-418,14.332,przezdługiczas,long-time (for a),przezdlugiczas
+clics-doculect-84-1482,poli1260-std,concepticon-1656,14.34,nigdy,never,nigdy
+clics-doculect-84-1483,poli1260-std,concepticon-204,14.35,znowu,again,znowu
+clics-doculect-84-1484,poli1260-std,concepticon-204,14.35,ponownie,again,ponownie
+clics-doculect-84-1485,poli1260-std,concepticon-204,14.35,jeszczeraz,again,jeszczeraz
+clics-doculect-84-1486,poli1260-std,concepticon-1225,14.41,dzień,day,dzien
+clics-doculect-84-1487,poli1260-std,concepticon-1233,14.42,noc,night,noc
+clics-doculect-84-1488,poli1260-std,concepticon-729,14.43,świt,dawn,swit
+clics-doculect-84-1489,poli1260-std,concepticon-729,14.43,brzask,dawn,brzask
+clics-doculect-84-1490,poli1260-std,concepticon-729,14.43,zorza,dawn,zorza
+clics-doculect-84-1491,poli1260-std,concepticon-1339,14.44,rano,morning,rano
+clics-doculect-84-1492,poli1260-std,concepticon-1339,14.44,ranek,morning,ranek
+clics-doculect-84-1493,poli1260-std,concepticon-12,14.45,południe,"noon, midday",poludnie
+clics-doculect-84-1494,poli1260-std,concepticon-1807,14.451,popołudnie,afternoon,popoludnie
+clics-doculect-84-1495,poli1260-std,concepticon-1807,14.451,popołudniu,afternoon,popoludniu
+clics-doculect-84-1496,poli1260-std,concepticon-1629,14.46,wieczór,evening,wieczor
+clics-doculect-84-1497,poli1260-std,concepticon-1283,14.47,dziś,today,dzis
+clics-doculect-84-1498,poli1260-std,concepticon-1283,14.47,dzisiaj,today,dzisiaj
+clics-doculect-84-1499,poli1260-std,concepticon-1329,14.48,jutro,tomorrow,jutro
+clics-doculect-84-1500,poli1260-std,concepticon-1179,14.481,pojutrze,day-after-tomorrow,pojutrze
+clics-doculect-84-1501,poli1260-std,concepticon-1174,14.49,wczoraj,yesterday,wczoraj
+clics-doculect-84-1502,poli1260-std,concepticon-1180,14.491,przedwczoraj,day-before-yesterday,przedwczoraj
+clics-doculect-84-1503,poli1260-std,concepticon-1353,14.51,godzina,hour,godzina
+clics-doculect-84-1504,poli1260-std,concepticon-1323,14.53,zegar,"clock, timepiece",zegar
+clics-doculect-84-1505,poli1260-std,concepticon-1469,14.61,tydzień,week,tydzien
+clics-doculect-84-1506,poli1260-std,concepticon-1699,14.62,niedziela,Sunday,niedziela
+clics-doculect-84-1507,poli1260-std,concepticon-1697,14.63,poniedziałek,Monday,poniedzialek
+clics-doculect-84-1508,poli1260-std,concepticon-1695,14.64,wtorek,Tuesday,wtorek
+clics-doculect-84-1509,poli1260-std,concepticon-1694,14.65,środa,Wednesday,sroda
+clics-doculect-84-1510,poli1260-std,concepticon-1693,14.66,czwartek,Thursday,czwartek
+clics-doculect-84-1511,poli1260-std,concepticon-1692,14.67,piątek,Friday,piatek
+clics-doculect-84-1512,poli1260-std,concepticon-1700,14.68,sobota,Saturday,sobota
+clics-doculect-84-1513,poli1260-std,concepticon-1370,14.71,miesiąc,month,miesiac
+clics-doculect-84-1514,poli1260-std,concepticon-1226,14.73,rok,year,rok
+clics-doculect-84-1515,poli1260-std,concepticon-1471,14.74,zima,winter,zima
+clics-doculect-84-1516,poli1260-std,concepticon-1537,14.75,wiosna,spring,wiosna
+clics-doculect-84-1517,poli1260-std,concepticon-1342,14.76,lato,summer,lato
+clics-doculect-84-1518,poli1260-std,concepticon-1276,14.77,jesień,autumn,jesien
+clics-doculect-84-1519,poli1260-std,concepticon-691,14.78,poraroku,season,poraroku
+clics-doculect-84-1520,poli1260-std,concepticon-691,14.78,sezon,season,sezon
+clics-doculect-84-1521,poli1260-std,concepticon-1587,15.21,wąchać,smell (vb intrans),wachac
+clics-doculect-84-1522,poli1260-std,concepticon-375,15.212,pociągnąćnosem,sniff,pociagnacnosem
+clics-doculect-84-1523,poli1260-std,concepticon-375,15.212,wąchać,sniff,wachac
+clics-doculect-84-1524,poli1260-std,concepticon-1586,15.22,pachnieć,smell (vb trans),pachniec
+clics-doculect-84-1525,poli1260-std,concepticon-1586,15.22,wąchać,smell (vb trans),wachac
+clics-doculect-84-1526,poli1260-std,concepticon-376,15.25,wonny,"fragrant, good smelling",wonny
+clics-doculect-84-1527,poli1260-std,concepticon-376,15.25,pachnący,"fragrant, good smelling",pachnacy
+clics-doculect-84-1528,poli1260-std,concepticon-42,15.26,śmierdzący,"stinking, bad smelling",smierdzacy
+clics-doculect-84-1529,poli1260-std,concepticon-42,15.26,smrodliwy,"stinking, bad smelling",smrodliwy
+clics-doculect-84-1530,poli1260-std,concepticon-21,15.31,kosztować,taste,kosztowac
+clics-doculect-84-1531,poli1260-std,concepticon-21,15.31,smakować,taste,smakowac
+clics-doculect-84-1532,poli1260-std,concepticon-21,15.31,próbować,taste,probowac
+clics-doculect-84-1533,poli1260-std,concepticon-717,15.35,słodki,sweet,slodki
+clics-doculect-84-1534,poli1260-std,concepticon-1091,15.36,słony,salty,slony
+clics-doculect-84-1535,poli1260-std,concepticon-887,15.37,gorzki,bitter,gorzki
+clics-doculect-84-1536,poli1260-std,concepticon-1906,15.38,kwaśny,"acid, sour",kwasny
+clics-doculect-84-1537,poli1260-std,concepticon-1906,15.38,kwas,"acid, sour",kwas
+clics-doculect-84-1538,poli1260-std,concepticon-70,15.39,słonawy,brackish,slonawy
+clics-doculect-84-1539,poli1260-std,concepticon-1408,15.41,słyszeć,hear,slyszec
+clics-doculect-84-1540,poli1260-std,concepticon-1408,15.41,słuchać,hear,sluchac
+clics-doculect-84-1541,poli1260-std,concepticon-1608,15.42,słuchać,listen,sluchac
+clics-doculect-84-1542,poli1260-std,concepticon-1811,15.44,dźwięk,"sound, noise",dzwiek
+clics-doculect-84-1543,poli1260-std,concepticon-1811,15.44,hałas,"sound, noise",halas
+clics-doculect-84-1544,poli1260-std,concepticon-1811,15.44,szum,"sound, noise",szum
+clics-doculect-84-1545,poli1260-std,concepticon-377,15.45,głośny,loud,glosny
+clics-doculect-84-1546,poli1260-std,concepticon-377,15.45,donośny,loud,donosny
+clics-doculect-84-1547,poli1260-std,concepticon-1314,15.46,cichy,"quiet, silence",cichy
+clics-doculect-84-1548,poli1260-std,concepticon-1314,15.46,cisza,"quiet, silence",cisza
+clics-doculect-84-1549,poli1260-std,concepticon-1409,15.51,widzieć,see,widziec
+clics-doculect-84-1550,poli1260-std,concepticon-1409,15.51,zobaczyć,see,zobaczyc
+clics-doculect-84-1551,poli1260-std,concepticon-1819,15.52,patrzeć,"look, look at",patrzec
+clics-doculect-84-1552,poli1260-std,concepticon-1819,15.52,spojrzeć,"look, look at",spojrzec
+clics-doculect-84-1553,poli1260-std,concepticon-1819,15.52,spoglądać,"look, look at",spogladac
+clics-doculect-84-1554,poli1260-std,concepticon-1039,15.55,okazać,show,okazac
+clics-doculect-84-1555,poli1260-std,concepticon-1039,15.55,pokazać,show,pokazac
+clics-doculect-84-1556,poli1260-std,concepticon-708,15.56,świecić,shine,swiecic
+clics-doculect-84-1557,poli1260-std,concepticon-708,15.56,błyszczeć,shine,blyszczec
+clics-doculect-84-1558,poli1260-std,concepticon-679,15.57,świetny,bright,swietny
+clics-doculect-84-1559,poli1260-std,concepticon-679,15.57,jasny,bright,jasny
+clics-doculect-84-1560,poli1260-std,concepticon-1613,15.61,farba,color,farba
+clics-doculect-84-1561,poli1260-std,concepticon-1613,15.61,kolor,color,kolor
+clics-doculect-84-1562,poli1260-std,concepticon-1613,15.61,barwa,color,barwa
+clics-doculect-84-1563,poli1260-std,concepticon-250,15.62,jasny,light (in color),jasny
+clics-doculect-84-1564,poli1260-std,concepticon-706,15.63,ciemny,dark (in color),ciemny
+clics-doculect-84-1565,poli1260-std,concepticon-1335,15.64,biały,white,bialy
+clics-doculect-84-1566,poli1260-std,concepticon-163,15.65,czarny,black,czarny
+clics-doculect-84-1567,poli1260-std,concepticon-156,15.66,czerwony,red,czerwony
+clics-doculect-84-1568,poli1260-std,concepticon-837,15.67,niebieski,blue,niebieski
+clics-doculect-84-1569,poli1260-std,concepticon-1425,15.68,zielony,green,zielony
+clics-doculect-84-1570,poli1260-std,concepticon-1424,15.69,żółty,yellow,zolty
+clics-doculect-84-1571,poli1260-std,concepticon-1892,15.71,dotknąć,touch,dotknac
+clics-doculect-84-1572,poli1260-std,concepticon-1892,15.71,dotykać,touch,dotykac
+clics-doculect-84-1573,poli1260-std,concepticon-378,15.712,szczypta,pinch,szczypta
+clics-doculect-84-1574,poli1260-std,concepticon-378,15.712,uszczypnąć,pinch,uszczypnac
+clics-doculect-84-1575,poli1260-std,concepticon-1079,15.72,macać,feel,macac
+clics-doculect-84-1576,poli1260-std,concepticon-1079,15.72,czuć,feel,czuc
+clics-doculect-84-1577,poli1260-std,concepticon-1079,15.72,wyczuwać,feel,wyczuwac
+clics-doculect-84-1578,poli1260-std,concepticon-1884,15.74,twardy,hard,twardy
+clics-doculect-84-1579,poli1260-std,concepticon-1856,15.75,miękki,soft,miekki
+clics-doculect-84-1580,poli1260-std,concepticon-1923,15.76,szorstki,rough,szorstki
+clics-doculect-84-1581,poli1260-std,concepticon-1923,15.76,chropawy,rough,chropawy
+clics-doculect-84-1582,poli1260-std,concepticon-1234,15.77,gładki,smooth,gladki
+clics-doculect-84-1583,poli1260-std,concepticon-1396,15.78,ostry,sharp,ostry
+clics-doculect-84-1584,poli1260-std,concepticon-379,15.79,tępy,"blunt, dull",tepy
+clics-doculect-84-1585,poli1260-std,concepticon-1210,15.81,ciężki,heavy,ciezki
+clics-doculect-84-1586,poli1260-std,concepticon-1052,15.82,lekki,light (in weight),lekki
+clics-doculect-84-1587,poli1260-std,concepticon-1726,15.83,mokry,"wet, damp",mokry
+clics-doculect-84-1588,poli1260-std,concepticon-1726,15.83,wilgotny,"wet, damp",wilgotny
+clics-doculect-84-1589,poli1260-std,concepticon-1398,15.84,suchy,dry,suchy
+clics-doculect-84-1590,poli1260-std,concepticon-1286,15.85,gorący,hot,goracy
+clics-doculect-84-1591,poli1260-std,concepticon-1232,15.851,ciepły,warm,cieply
+clics-doculect-84-1592,poli1260-std,concepticon-1287,15.86,zimny,cold,zimny
+clics-doculect-84-1593,poli1260-std,concepticon-704,15.87,czysty,clean,czysty
+clics-doculect-84-1594,poli1260-std,concepticon-1230,15.88,brudny,"dirty, soiled",brudny
+clics-doculect-84-1595,poli1260-std,concepticon-53,16.11,dusza,"soul, spirit",dusza
+clics-doculect-84-1596,poli1260-std,concepticon-53,16.11,duch,"soul, spirit",duch
+clics-doculect-84-1597,poli1260-std,concepticon-1572,16.15,zadziwienie,"surprised, astonished",zadziwienie
+clics-doculect-84-1598,poli1260-std,concepticon-1572,16.15,zdziwiony,"surprised, astonished",zdziwiony
+clics-doculect-84-1599,poli1260-std,concepticon-1572,16.15,zadziwiony,"surprised, astonished",zadziwiony
+clics-doculect-84-1600,poli1260-std,concepticon-1572,16.15,zaskoczony,"surprised, astonished",zaskoczony
+clics-doculect-84-1601,poli1260-std,concepticon-720,16.18,szczęście,"good fortune, luck",szczescie
+clics-doculect-84-1602,poli1260-std,concepticon-56,16.19,nieszczęście,"misfortune, bad luck",nieszczescie
+clics-doculect-84-1603,poli1260-std,concepticon-1495,16.23,radosny,"joyful, glad, happy",radosny
+clics-doculect-84-1604,poli1260-std,concepticon-1495,16.23,wesoły,"joyful, glad, happy",wesoly
+clics-doculect-84-1605,poli1260-std,concepticon-1355,16.25,śmiaćsię,laugh,smiacsie
+clics-doculect-84-1606,poli1260-std,concepticon-1451,16.251,uśmiechaćsię,smile,usmiechacsie
+clics-doculect-84-1607,poli1260-std,concepticon-1413,16.26,grać,play,grac
+clics-doculect-84-1608,poli1260-std,concepticon-923,16.27,miłość,love,milosc
+clics-doculect-84-1609,poli1260-std,concepticon-923,16.27,kochać,love,kochac
+clics-doculect-84-1610,poli1260-std,concepticon-578,16.29,całować,kiss,calowac
+clics-doculect-84-1611,poli1260-std,concepticon-928,16.3,obejmować,embrace,obejmowac
+clics-doculect-84-1612,poli1260-std,concepticon-1783,16.31,ból,pain,bol
+clics-doculect-84-1613,poli1260-std,concepticon-1783,16.31,boleść,pain,bolesc
+clics-doculect-84-1614,poli1260-std,concepticon-1783,16.31,cierpienie,pain,cierpienie
+clics-doculect-84-1615,poli1260-std,concepticon-1668,16.32,boleść,"grief, sorrow, sadness",bolesc
+clics-doculect-84-1616,poli1260-std,concepticon-1668,16.32,żal,"grief, sorrow, sadness",zal
+clics-doculect-84-1617,poli1260-std,concepticon-1668,16.32,żałość,"grief, sorrow, sadness",zalosc
+clics-doculect-84-1618,poli1260-std,concepticon-1668,16.32,smutek,"grief, sorrow, sadness",smutek
+clics-doculect-84-1619,poli1260-std,concepticon-1000,16.33,obawa,"anxiety, worry",obawa
+clics-doculect-84-1620,poli1260-std,concepticon-1000,16.33,troska,"anxiety, worry",troska
+clics-doculect-84-1621,poli1260-std,concepticon-1000,16.33,niepokój,"anxiety, worry",niepokoj
+clics-doculect-84-1622,poli1260-std,concepticon-1875,16.34,żałować,"regret, be sorry",zalowac
+clics-doculect-84-1623,poli1260-std,concepticon-1141,16.35,litość,pity,litosc
+clics-doculect-84-1624,poli1260-std,concepticon-1141,16.35,miłosierdzie,pity,milosierdzie
+clics-doculect-84-1625,poli1260-std,concepticon-1839,16.37,płakać,"cry, weep",plakac
+clics-doculect-84-1626,poli1260-std,concepticon-1651,16.38,łza,tear (noun),lza
+clics-doculect-84-1627,poli1260-std,concepticon-716,16.39,jęczeć,groan,jeczec
+clics-doculect-84-1628,poli1260-std,concepticon-716,16.39,stękać,groan,stekac
+clics-doculect-84-1629,poli1260-std,concepticon-1607,16.41,nienawiść,hate,nienawisc
+clics-doculect-84-1630,poli1260-std,concepticon-1607,16.41,nienawidzieć,hate,nienawidziec
+clics-doculect-84-1631,poli1260-std,concepticon-82,16.42,gniew,anger,gniew
+clics-doculect-84-1632,poli1260-std,concepticon-82,16.42,złość,anger,zlosc
+clics-doculect-84-1633,poli1260-std,concepticon-40,16.44,zazdrość,"envy, jealousy",zazdrosc
+clics-doculect-84-1634,poli1260-std,concepticon-40,16.44,zawiść,"envy, jealousy",zawisc
+clics-doculect-84-1635,poli1260-std,concepticon-1776,16.45,wstyd,shame (noun),wstyd
+clics-doculect-84-1636,poli1260-std,concepticon-1776,16.45,wstydliwość,shame (noun),wstydliwosc
+clics-doculect-84-1637,poli1260-std,concepticon-174,16.48,pyszny,proud,pyszny
+clics-doculect-84-1638,poli1260-std,concepticon-174,16.48,dumny,proud,dumny
+clics-doculect-84-1639,poli1260-std,concepticon-1779,16.51,ważyćsię,dare,wazycsie
+clics-doculect-84-1640,poli1260-std,concepticon-1779,16.51,śmieć,dare,smiec
+clics-doculect-84-1641,poli1260-std,concepticon-3,16.52,odważny,brave,odwazny
+clics-doculect-84-1642,poli1260-std,concepticon-3,16.52,waleczny,brave,waleczny
+clics-doculect-84-1643,poli1260-std,concepticon-3,16.52,mężny,brave,mezny
+clics-doculect-84-1644,poli1260-std,concepticon-781,16.53,bojaźń,"fear, fright",bojazn
+clics-doculect-84-1645,poli1260-std,concepticon-781,16.53,strach,"fear, fright",strach
+clics-doculect-84-1646,poli1260-std,concepticon-781,16.53,trwoga,"fear, fright",trwoga
+clics-doculect-84-1647,poli1260-std,concepticon-1810,16.54,niebezpieczeństwo,danger,niebezpieczenstwo
+clics-doculect-84-1648,poli1260-std,concepticon-1784,16.62,żądać,"desire, want",zadac
+clics-doculect-84-1649,poli1260-std,concepticon-1784,16.62,pożądać,"desire, want",pozadac
+clics-doculect-84-1650,poli1260-std,concepticon-1784,16.62,pragnąć,"desire, want",pragnac
+clics-doculect-84-1651,poli1260-std,concepticon-1750,16.622,wybrać,choose,wybrac
+clics-doculect-84-1652,poli1260-std,concepticon-1750,16.622,wybierać,choose,wybierac
+clics-doculect-84-1653,poli1260-std,concepticon-1092,16.63,nadzieja,hope,nadzieja
+clics-doculect-84-1654,poli1260-std,concepticon-100,16.65,wierny,faithful,wierny
+clics-doculect-84-1655,poli1260-std,concepticon-1657,16.66,prawda,true,prawda
+clics-doculect-84-1656,poli1260-std,concepticon-1657,16.66,prawdziwy,true,prawdziwy
+clics-doculect-84-1657,poli1260-std,concepticon-601,16.67,kłamstwo,"lie, tell lies",klamstwo
+clics-doculect-84-1658,poli1260-std,concepticon-13,16.68,oszustwo,deceit,oszustwo
+clics-doculect-84-1659,poli1260-std,concepticon-13,16.68,szalbierstwo,deceit,szalbierstwo
+clics-doculect-84-1660,poli1260-std,concepticon-1528,16.69,przebaczyć,forgive,przebaczyc
+clics-doculect-84-1661,poli1260-std,concepticon-1035,16.71,dobry,good,dobry
+clics-doculect-84-1662,poli1260-std,concepticon-1292,16.72,zły,bad,zly
+clics-doculect-84-1663,poli1260-std,concepticon-1292,16.72,okropny,bad,okropny
+clics-doculect-84-1664,poli1260-std,concepticon-1725,16.73,prawy,"right, correct",prawy
+clics-doculect-84-1665,poli1260-std,concepticon-1725,16.73,właściwy,"right, correct",wlasciwy
+clics-doculect-84-1666,poli1260-std,concepticon-1390,16.74,zły,wrong,zly
+clics-doculect-84-1667,poli1260-std,concepticon-1390,16.74,niewłaściwy,wrong,niewlasciwy
+clics-doculect-84-1668,poli1260-std,concepticon-1390,16.74,błędny,wrong,bledny
+clics-doculect-84-1669,poli1260-std,concepticon-134,16.76,wina,fault,wina
+clics-doculect-84-1670,poli1260-std,concepticon-1293,16.77,błąd,"mistake, error",blad
+clics-doculect-84-1671,poli1260-std,concepticon-1293,16.77,omyłka,"mistake, error",omylka
+clics-doculect-84-1672,poli1260-std,concepticon-1293,16.77,pomyłka,"mistake, error",pomylka
+clics-doculect-84-1673,poli1260-std,concepticon-381,16.78,nagana,blame,nagana
+clics-doculect-84-1674,poli1260-std,concepticon-381,16.78,wina,blame,wina
+clics-doculect-84-1675,poli1260-std,concepticon-1687,16.79,pochwała,praise,pochwala
+clics-doculect-84-1676,poli1260-std,concepticon-1427,16.81,piękny,beautiful,piekny
+clics-doculect-84-1677,poli1260-std,concepticon-1427,16.81,śliczny,beautiful,sliczny
+clics-doculect-84-1678,poli1260-std,concepticon-1427,16.81,ładny,beautiful,ladny
+clics-doculect-84-1679,poli1260-std,concepticon-1548,16.82,szpetny,ugly,szpetny
+clics-doculect-84-1680,poli1260-std,concepticon-1548,16.82,brzydki,ugly,brzydki
+clics-doculect-84-1681,poli1260-std,concepticon-2018,16.83,chciwy,greedy,chciwy
+clics-doculect-84-1682,poli1260-std,concepticon-1310,16.84,sprytny,clever,sprytny
+clics-doculect-84-1683,poli1260-std,concepticon-1310,16.84,bystry,clever,bystry
+clics-doculect-84-1684,poli1260-std,concepticon-1310,16.84,zdolny,clever,zdolny
+clics-doculect-84-1685,poli1260-std,concepticon-1562,17.11,umysł,mind,umysl
+clics-doculect-84-1686,poli1260-std,concepticon-1415,17.13,myśleć,think (= reflect),myslec
+clics-doculect-84-1687,poli1260-std,concepticon-1513,17.14,myśleć,think (= be of the opinion),myslec
+clics-doculect-84-1688,poli1260-std,concepticon-1513,17.14,mniemać,think (= be of the opinion),mniemac
+clics-doculect-84-1689,poli1260-std,concepticon-1890,17.15,wierzyć,believe,wierzyc
+clics-doculect-84-1690,poli1260-std,concepticon-1536,17.16,rozumieć,understand,rozumiec
+clics-doculect-84-1691,poli1260-std,concepticon-1410,17.17,wiedziéć,know,wiedziec
+clics-doculect-84-1692,poli1260-std,concepticon-1410,17.17,znać,know,znac
+clics-doculect-84-1693,poli1260-std,concepticon-1932,17.171,zgadnąć,guess,zgadnac
+clics-doculect-84-1694,poli1260-std,concepticon-1932,17.171,zgadywać,guess,zgadywac
+clics-doculect-84-1695,poli1260-std,concepticon-117,17.172,naśladować,imitate,nasladowac
+clics-doculect-84-1696,poli1260-std,concepticon-117,17.172,imitować,imitate,imitowac
+clics-doculect-84-1697,poli1260-std,concepticon-1521,17.18,zdaćsię,seem,zdacsie
+clics-doculect-84-1698,poli1260-std,concepticon-1521,17.18,zdawaćsię,seem,zdawacsie
+clics-doculect-84-1699,poli1260-std,concepticon-1609,17.19,pomysł,"idea, notion",pomysl
+clics-doculect-84-1700,poli1260-std,concepticon-1609,17.19,koncept,"idea, notion",koncept
+clics-doculect-84-1701,poli1260-std,concepticon-1609,17.19,idea,"idea, notion",idea
+clics-doculect-84-1702,poli1260-std,concepticon-698,17.21,mądry,wise,madry
+clics-doculect-84-1703,poli1260-std,concepticon-1518,17.22,nierozsądny,"foolish, stupid",nierozsadny
+clics-doculect-84-1704,poli1260-std,concepticon-1518,17.22,głupi,"foolish, stupid",glupi
+clics-doculect-84-1705,poli1260-std,concepticon-1899,17.23,szalony,"insane, crazy",szalony
+clics-doculect-84-1706,poli1260-std,concepticon-504,17.24,uczyćsię,learn,uczycsie
+clics-doculect-84-1707,poli1260-std,concepticon-504,17.24,dowiadywaćsię,learn,dowiadywacsie
+clics-doculect-84-1708,poli1260-std,concepticon-1929,17.242,uczyćsię,study,uczycsie
+clics-doculect-84-1709,poli1260-std,concepticon-1929,17.242,studiować,study,studiowac
+clics-doculect-84-1710,poli1260-std,concepticon-1929,17.242,badać,study,badac
+clics-doculect-84-1711,poli1260-std,concepticon-709,17.25,uczyć,teach,uczyc
+clics-doculect-84-1712,poli1260-std,concepticon-709,17.25,nauczać,teach,nauczac
+clics-doculect-84-1713,poli1260-std,concepticon-753,17.26,uczeń,pupil,uczen
+clics-doculect-84-1714,poli1260-std,concepticon-1038,17.27,nauczyciel,teacher,nauczyciel
+clics-doculect-84-1715,poli1260-std,concepticon-673,17.28,szkoła,school,szkola
+clics-doculect-84-1716,poli1260-std,concepticon-707,17.31,pamiętać,remember,pamietac
+clics-doculect-84-1717,poli1260-std,concepticon-1523,17.32,zapomnieć,forget,zapomniec
+clics-doculect-84-1718,poli1260-std,concepticon-1523,17.32,zapominać,forget,zapominac
+clics-doculect-84-1719,poli1260-std,concepticon-989,17.34,jasny,"clear, plain",jasny
+clics-doculect-84-1720,poli1260-std,concepticon-1764,17.35,niejasny,obscure,niejasny
+clics-doculect-84-1721,poli1260-std,concepticon-1121,17.36,tajny,secret,tajny
+clics-doculect-84-1722,poli1260-std,concepticon-1121,17.36,tajemny,secret,tajemny
+clics-doculect-84-1723,poli1260-std,concepticon-509,17.37,pewny,"sure, certain",pewny
+clics-doculect-84-1724,poli1260-std,concepticon-1626,17.38,objaśnić,explain,objasnic
+clics-doculect-84-1725,poli1260-std,concepticon-1626,17.38,wyjaśnić,explain,wyjasnic
+clics-doculect-84-1726,poli1260-std,concepticon-1626,17.38,wytłumaczyć,explain,wytlumaczyc
+clics-doculect-84-1727,poli1260-std,concepticon-1162,17.41,zamiar,"intention, purpose",zamiar
+clics-doculect-84-1728,poli1260-std,concepticon-1162,17.41,zamysł,"intention, purpose",zamysl
+clics-doculect-84-1729,poli1260-std,concepticon-1162,17.41,intencja,"intention, purpose",intencja
+clics-doculect-84-1730,poli1260-std,concepticon-860,17.42,przyczyna,cause,przyczyna
+clics-doculect-84-1731,poli1260-std,concepticon-860,17.42,powód,cause,powod
+clics-doculect-84-1732,poli1260-std,concepticon-1308,17.43,zwątpienie,doubt,zwatpienie
+clics-doculect-84-1733,poli1260-std,concepticon-1308,17.43,watpliwość,doubt,watpliwosc
+clics-doculect-84-1734,poli1260-std,concepticon-1841,17.44,podejrzenie,suspect,podejrzenie
+clics-doculect-84-1735,poli1260-std,concepticon-1841,17.44,podejrzany,suspect,podejrzany
+clics-doculect-84-1736,poli1260-std,concepticon-1902,17.441,zdradzać,betray,zdradzac
+clics-doculect-84-1737,poli1260-std,concepticon-1902,17.441,zdradzić,betray,zdradzic
+clics-doculect-84-1738,poli1260-std,concepticon-643,17.45,konieczność,"need, necessity",koniecznosc
+clics-doculect-84-1739,poli1260-std,concepticon-643,17.45,potrzeba,"need, necessity",potrzeba
+clics-doculect-84-1740,poli1260-std,concepticon-686,17.46,łatwy,easy,latwy
+clics-doculect-84-1741,poli1260-std,concepticon-584,17.47,trudny,difficult,trudny
+clics-doculect-84-1742,poli1260-std,concepticon-1812,17.48,próbować,"try, attempt",probowac
+clics-doculect-84-1743,poli1260-std,concepticon-488,17.49,sposób,"way, manner",sposob
+clics-doculect-84-1744,poli1260-std,concepticon-488,17.49,metoda,"way, manner",metoda
+clics-doculect-84-1745,poli1260-std,concepticon-488,17.49,maniera,"way, manner",maniera
+clics-doculect-84-1746,poli1260-std,concepticon-1577,17.51,i,and,i
+clics-doculect-84-1747,poli1260-std,concepticon-1157,17.52,ponieważ,because,poniewaz
+clics-doculect-84-1748,poli1260-std,concepticon-1459,17.53,jeśli,if,jesli
+clics-doculect-84-1749,poli1260-std,concepticon-1459,17.53,jeżeli,if,jezeli
+clics-doculect-84-1750,poli1260-std,concepticon-1014,17.54,lub,or,lub
+clics-doculect-84-1751,poli1260-std,concepticon-1014,17.54,albo,or,albo
+clics-doculect-84-1752,poli1260-std,concepticon-1014,17.54,bądź,or,badz
+clics-doculect-84-1753,poli1260-std,concepticon-1268,17.55,tak,"yes, affirmative",tak
+clics-doculect-84-1754,poli1260-std,concepticon-1269,17.56,nie,"no, negative",nie
+clics-doculect-84-1755,poli1260-std,concepticon-1239,17.61,jak?,how?,jak?
+clics-doculect-84-1756,poli1260-std,concepticon-822,17.62,ile,how many?,ile
+clics-doculect-84-1757,poli1260-std,concepticon-822,17.62,ilu?,how many?,ilu?
+clics-doculect-84-1758,poli1260-std,concepticon-531,17.63,ile?,how much?,ile?
+clics-doculect-84-1759,poli1260-std,concepticon-1236,17.64,co?,what?,co?
+clics-doculect-84-1760,poli1260-std,concepticon-1238,17.65,kiedy?,when?,kiedy?
+clics-doculect-84-1761,poli1260-std,concepticon-1237,17.66,gdzie?,where?,gdzie?
+clics-doculect-84-1762,poli1260-std,concepticon-727,17.67,który?,which?,ktory?
+clics-doculect-84-1763,poli1260-std,concepticon-1235,17.68,kto?,who?,kto?
+clics-doculect-84-1764,poli1260-std,concepticon-1270,17.69,dlaczego?,why?,dlaczego?
+clics-doculect-84-1765,poli1260-std,concepticon-1363,18.11,głos,voice,glos
+clics-doculect-84-1766,poli1260-std,concepticon-1261,18.12,śpiewać,sing,spiewac
+clics-doculect-84-1767,poli1260-std,concepticon-715,18.13,krzyczeć,"shout, cry out",krzyczec
+clics-doculect-84-1768,poli1260-std,concepticon-715,18.13,wykrzykiwać,"shout, cry out",wykrzykiwac
+clics-doculect-84-1769,poli1260-std,concepticon-55,18.15,szept,whisper,szept
+clics-doculect-84-1770,poli1260-std,concepticon-55,18.15,szeptać,whisper,szeptac
+clics-doculect-84-1771,poli1260-std,concepticon-128,18.16,mamrotać,mumble,mamrotac
+clics-doculect-84-1772,poli1260-std,concepticon-1025,18.17,gwizdać,whistle,gwizdac
+clics-doculect-84-1773,poli1260-std,concepticon-1025,18.17,gwizdnąć,whistle,gwizdnac
+clics-doculect-84-1774,poli1260-std,concepticon-298,18.18,piszczeć,"shriek, screech",piszczec
+clics-doculect-84-1775,poli1260-std,concepticon-526,18.19,wyć,howl,wyc
+clics-doculect-84-1776,poli1260-std,concepticon-526,18.19,zawodzić,howl,zawodzic
+clics-doculect-84-1777,poli1260-std,concepticon-1623,18.21,mówić,"speak, talk",mowic
+clics-doculect-84-1778,poli1260-std,concepticon-1623,18.21,gadać,"speak, talk",gadac
+clics-doculect-84-1779,poli1260-std,concepticon-1623,18.21,przemawiać,"speak, talk",przemawiac
+clics-doculect-84-1780,poli1260-std,concepticon-1866,18.211,jąkaćsię,"stutter, stammer",jakacsie
+clics-doculect-84-1781,poli1260-std,concepticon-1458,18.22,rzec,say,rzec
+clics-doculect-84-1782,poli1260-std,concepticon-1458,18.22,powiedzieć,say,powiedziec
+clics-doculect-84-1783,poli1260-std,concepticon-1458,18.22,mówić,say,mowic
+clics-doculect-84-1784,poli1260-std,concepticon-1711,18.221,opowiadać,tell story,opowiadac
+clics-doculect-84-1785,poli1260-std,concepticon-1115,18.222,przemówić,speech (make a),przemowic
+clics-doculect-84-1786,poli1260-std,concepticon-1115,18.222,przemawiać,speech (make a),przemawiac
+clics-doculect-84-1787,poli1260-std,concepticon-48,18.23,milczeć,silent (be),milczec
+clics-doculect-84-1788,poli1260-std,concepticon-1307,18.24,język,language,jezyk
+clics-doculect-84-1789,poli1260-std,concepticon-1599,18.26,słowo,word,slowo
+clics-doculect-84-1790,poli1260-std,concepticon-1405,18.28,imię,name,imie
+clics-doculect-84-1791,poli1260-std,concepticon-1405,18.28,nazwa,name,nazwa
+clics-doculect-84-1792,poli1260-std,concepticon-1405,18.28,nazwisko,name,nazwisko
+clics-doculect-84-1793,poli1260-std,concepticon-1309,18.31,pytać,"ask (question, inquire)",pytac
+clics-doculect-84-1794,poli1260-std,concepticon-1309,18.31,zapytywać,"ask (question, inquire)",zapytywac
+clics-doculect-84-1795,poli1260-std,concepticon-1275,18.32,odpowiedzieć,answer,odpowiedziec
+clics-doculect-84-1796,poli1260-std,concepticon-2022,18.33,przyznać,"admit, confess",przyznac
+clics-doculect-84-1797,poli1260-std,concepticon-2022,18.33,przyznawać,"admit, confess",przyznawac
+clics-doculect-84-1798,poli1260-std,concepticon-755,18.34,przeczyć,deny,przeczyc
+clics-doculect-84-1799,poli1260-std,concepticon-755,18.34,zaprzećsię,deny,zaprzecsie
+clics-doculect-84-1800,poli1260-std,concepticon-755,18.34,zaprzeczać,deny,zaprzeczac
+clics-doculect-84-1801,poli1260-std,concepticon-1828,18.35,prosić,"ask, request",prosic
+clics-doculect-84-1802,poli1260-std,concepticon-1828,18.35,żądać,"ask, request",zadac
+clics-doculect-84-1803,poli1260-std,concepticon-1675,18.36,obiecać,promise,obiecac
+clics-doculect-84-1804,poli1260-std,concepticon-1675,18.36,przyrzec,promise,przyrzec
+clics-doculect-84-1805,poli1260-std,concepticon-1675,18.36,obiecywać,promise,obiecywac
+clics-doculect-84-1806,poli1260-std,concepticon-49,18.37,odmówić,refuse,odmowic
+clics-doculect-84-1807,poli1260-std,concepticon-49,18.37,odmawiać,refuse,odmawiac
+clics-doculect-84-1808,poli1260-std,concepticon-83,18.38,zakazać,forbid,zakazac
+clics-doculect-84-1809,poli1260-std,concepticon-83,18.38,zabronić,forbid,zabronic
+clics-doculect-84-1810,poli1260-std,concepticon-299,18.39,karcić,"rebuke, scold",karcic
+clics-doculect-84-1811,poli1260-std,concepticon-299,18.39,upominać,"rebuke, scold",upominac
+clics-doculect-84-1812,poli1260-std,concepticon-299,18.39,upomnieć,"rebuke, scold",upomniec
+clics-doculect-84-1813,poli1260-std,concepticon-1084,18.41,wołać,call (=summon),wolac
+clics-doculect-84-1814,poli1260-std,concepticon-180,18.42,nazwać,call (=name),nazwac
+clics-doculect-84-1815,poli1260-std,concepticon-180,18.42,nazywać,call (=name),nazywac
+clics-doculect-84-1816,poli1260-std,concepticon-9,18.43,ogłosić,announce,oglosic
+clics-doculect-84-1817,poli1260-std,concepticon-9,18.43,obwieścić,announce,obwiescic
+clics-doculect-84-1818,poli1260-std,concepticon-9,18.43,oznajmić,announce,oznajmic
+clics-doculect-84-1819,poli1260-std,concepticon-1192,18.44,grozić,threaten,grozic
+clics-doculect-84-1820,poli1260-std,concepticon-101,18.45,chwalićsię,boast,chwalicsie
+clics-doculect-84-1821,poli1260-std,concepticon-101,18.45,chełpićsię,boast,chelpicsie
+clics-doculect-84-1822,poli1260-std,concepticon-1672,18.51,pisać,write,pisac
+clics-doculect-84-1823,poli1260-std,concepticon-724,18.52,czytać,read,czytac
+clics-doculect-84-1824,poli1260-std,concepticon-648,18.56,papier,paper,papier
+clics-doculect-84-1825,poli1260-std,concepticon-794,18.57,pióro,pen,pioro
+clics-doculect-84-1826,poli1260-std,concepticon-963,18.61,ksiażka,book,ksiazka
+clics-doculect-84-1827,poli1260-std,concepticon-963,18.61,księga,book,ksiega
+clics-doculect-84-1828,poli1260-std,concepticon-963,18.61,książka,book,ksiazka
+clics-doculect-84-1830,poli1260-std,concepticon-777,18.71,flet,flute,flet
+clics-doculect-84-1831,poli1260-std,concepticon-908,18.72,bęben,drum,beben
+clics-doculect-84-1832,poli1260-std,concepticon-908,18.72,bębenek,drum,bebenek
+clics-doculect-84-1833,poli1260-std,concepticon-2136,18.73,róg,"horn, trumpet",rog
+clics-doculect-84-1834,poli1260-std,concepticon-2136,18.73,trąba,"horn, trumpet",traba
+clics-doculect-84-1835,poli1260-std,concepticon-300,18.74,turkot,rattle,turkot
+clics-doculect-84-1836,poli1260-std,concepticon-300,18.74,brzęk,rattle,brzek
+clics-doculect-84-1837,poli1260-std,concepticon-300,18.74,stukot,rattle,stukot
+clics-doculect-84-1838,poli1260-std,concepticon-1300,19.11,kraj,country,kraj
+clics-doculect-84-1839,poli1260-std,concepticon-1300,19.11,państwo,country,panstwo
+clics-doculect-84-1840,poli1260-std,concepticon-1300,19.11,ziemia,country,ziemia
+clics-doculect-84-1841,poli1260-std,concepticon-89,19.12,ojczyzna,one's native country,ojczyzna
+clics-doculect-84-1842,poli1260-std,concepticon-1391,19.15,miasto,"city, town",miasto
+clics-doculect-84-1843,poli1260-std,concepticon-1391,19.15,miasteczko,"city, town",miasteczko
+clics-doculect-84-1844,poli1260-std,concepticon-930,19.16,wieś,village,wies
+clics-doculect-84-1845,poli1260-std,concepticon-930,19.16,wioska,village,wioska
+clics-doculect-84-1846,poli1260-std,concepticon-1010,19.17,granica,boundary,granica
+clics-doculect-84-1847,poli1260-std,concepticon-789,19.21,lud,people (populace),lud
+clics-doculect-84-1848,poli1260-std,concepticon-789,19.21,naród,people (populace),narod
+clics-doculect-84-1849,poli1260-std,concepticon-302,19.23,plemię,"tribe, clan",plemie
+clics-doculect-84-1850,poli1260-std,concepticon-302,19.23,ród,"tribe, clan",rod
+clics-doculect-84-1851,poli1260-std,concepticon-301,19.24,wódz,"chief, chieftain",wodz
+clics-doculect-84-1852,poli1260-std,concepticon-301,19.24,szef,"chief, chieftain",szef
+clics-doculect-84-1853,poli1260-std,concepticon-301,19.24,kacyk,"chief, chieftain",kacyk
+clics-doculect-84-1854,poli1260-std,concepticon-1296,19.25,laska,"staff, walking stick",laska
+clics-doculect-84-1855,poli1260-std,concepticon-1846,19.31,rządzić,"rule, govern",rzadzic
+clics-doculect-84-1856,poli1260-std,concepticon-1846,19.31,władać,"rule, govern",wladac
+clics-doculect-84-1857,poli1260-std,concepticon-1508,19.32,król,"king, ruler",krol
+clics-doculect-84-1858,poli1260-std,concepticon-1508,19.32,władca,"king, ruler",wladca
+clics-doculect-84-1859,poli1260-std,concepticon-1306,19.33,królowa,queen,krolowa
+clics-doculect-84-1860,poli1260-std,concepticon-1306,19.33,władczyni,queen,wladczyni
+clics-doculect-84-1861,poli1260-std,concepticon-482,19.36,szlachcic,"noble, nobleman",szlachcic
+clics-doculect-84-1862,poli1260-std,concepticon-1032,19.37,obywatel,"citizen, subject",obywatel
+clics-doculect-84-1863,poli1260-std,concepticon-383,19.41,pan,master,pan
+clics-doculect-84-1864,poli1260-std,concepticon-812,19.42,niewolnik,slave,niewolnik
+clics-doculect-84-1865,poli1260-std,concepticon-255,19.43,sługa,servant,sluga
+clics-doculect-84-1866,poli1260-std,concepticon-384,19.44,wolnyczłowiek,freeman,wolnyczlowiek
+clics-doculect-84-1867,poli1260-std,concepticon-1128,19.45,rozkazać,"command, order",rozkazac
+clics-doculect-84-1868,poli1260-std,concepticon-1128,19.45,rozkazywać,"command, order",rozkazywac
+clics-doculect-84-1869,poli1260-std,concepticon-1128,19.45,dowodzić,"command, order",dowodzic
+clics-doculect-84-1870,poli1260-std,concepticon-1635,19.46,słuchać,obey,sluchac
+clics-doculect-84-1871,poli1260-std,concepticon-1635,19.46,byćposłusznym,obey,bycposlusznym
+clics-doculect-84-1872,poli1260-std,concepticon-1003,19.47,pozwolić,"let, permit",pozwolic
+clics-doculect-84-1873,poli1260-std,concepticon-1325,19.51,przyjaciel,"friend, companion",przyjaciel
+clics-doculect-84-1874,poli1260-std,concepticon-1358,19.52,nieprzyjaciel,enemy,nieprzyjaciel
+clics-doculect-84-1875,poli1260-std,concepticon-1332,19.54,sąsiad,neighbor,sasiad
+clics-doculect-84-1876,poli1260-std,concepticon-791,19.55,cudzoziemiec,stranger,cudzoziemiec
+clics-doculect-84-1877,poli1260-std,concepticon-791,19.55,obcy,stranger,obcy
+clics-doculect-84-1878,poli1260-std,concepticon-1782,19.56,gość,guest,gosc
+clics-doculect-84-1879,poli1260-std,concepticon-1545,19.57,gospodarz,host,gospodarz
+clics-doculect-84-1880,poli1260-std,concepticon-1897,19.58,pomóc,"help, aid",pomoc
+clics-doculect-84-1881,poli1260-std,concepticon-1897,19.58,pomoc,"help, aid",pomoc
+clics-doculect-84-1882,poli1260-std,concepticon-1550,19.59,przeszkodzić,"hinder, prevent",przeszkodzic
+clics-doculect-84-1883,poli1260-std,concepticon-1550,19.59,zapobiec,"hinder, prevent",zapobiec
+clics-doculect-84-1884,poli1260-std,concepticon-1747,19.61,obyczaj,custom,obyczaj
+clics-doculect-84-1885,poli1260-std,concepticon-1747,19.61,zwyczaj,custom,zwyczaj
+clics-doculect-84-1886,poli1260-std,concepticon-1848,19.62,sprzeczka,"strife, quarrel",sprzeczka
+clics-doculect-84-1887,poli1260-std,concepticon-1848,19.62,spór,"strife, quarrel",spor
+clics-doculect-84-1888,poli1260-std,concepticon-1848,19.62,kłótnia,"strife, quarrel",klotnia
+clics-doculect-84-1889,poli1260-std,concepticon-2024,19.63,spisek,"conspiracy, plot",spisek
+clics-doculect-84-1890,poli1260-std,concepticon-2024,19.63,knowanie,"conspiracy, plot",knowanie
+clics-doculect-84-1891,poli1260-std,concepticon-2024,19.63,intryga,"conspiracy, plot",intryga
+clics-doculect-84-1892,poli1260-std,concepticon-1831,19.65,potkać,meet,potkac
+clics-doculect-84-1893,poli1260-std,concepticon-1831,19.65,spotkaćsię,meet,spotkacsie
+clics-doculect-84-1894,poli1260-std,concepticon-1610,19.72,kurwa,prostitute,kurwa
+clics-doculect-84-1895,poli1260-std,concepticon-1610,19.72,nierządnica,prostitute,nierzadnica
+clics-doculect-84-1896,poli1260-std,concepticon-1610,19.72,wszetecznica,prostitute,wszetecznica
+clics-doculect-84-1897,poli1260-std,concepticon-1610,19.72,dziwka,prostitute,dziwka
+clics-doculect-84-1898,poli1260-std,concepticon-1423,20.11,walczyć,fight (vb),walczyc
+clics-doculect-84-1899,poli1260-std,concepticon-1423,20.11,bićsię,fight (vb),bicsie
+clics-doculect-84-1900,poli1260-std,concepticon-579,20.13,wojna,"war, battle",wojna
+clics-doculect-84-1901,poli1260-std,concepticon-579,20.13,bitwa,"war, battle",bitwa
+clics-doculect-84-1902,poli1260-std,concepticon-1338,20.14,pokój,peace,pokoj
+clics-doculect-84-1903,poli1260-std,concepticon-1561,20.15,wojsko,army,wojsko
+clics-doculect-84-1904,poli1260-std,concepticon-1561,20.15,armia,army,armia
+clics-doculect-84-1905,poli1260-std,concepticon-1941,20.17,żołnierz,soldier,zolnierz
+clics-doculect-84-1906,poli1260-std,concepticon-951,20.21,broń,"weapons, arms",bron
+clics-doculect-84-1907,poli1260-std,concepticon-951,20.21,oręż,"weapons, arms",orez
+clics-doculect-84-1908,poli1260-std,concepticon-1763,20.22,pałka,club,palka
+clics-doculect-84-1909,poli1260-std,concepticon-1763,20.22,pała,club,pala
+clics-doculect-84-1910,poli1260-std,concepticon-386,20.222,topórwojenny,battle-ax,toporwojenny
+clics-doculect-84-1911,poli1260-std,concepticon-387,20.23,proca,sling,proca
+clics-doculect-84-1912,poli1260-std,concepticon-994,20.24,łuk,bow,luk
+clics-doculect-84-1913,poli1260-std,concepticon-977,20.25,strzała,arrow,strzala
+clics-doculect-84-1914,poli1260-std,concepticon-945,20.26,włócznia,spear,wlocznia
+clics-doculect-84-1915,poli1260-std,concepticon-945,20.26,kopia,spear,kopia
+clics-doculect-84-1916,poli1260-std,concepticon-1535,20.27,miecz,sword,miecz
+clics-doculect-84-1917,poli1260-std,concepticon-1566,20.28,strzelba,"gun, cannon",strzelba
+clics-doculect-84-1918,poli1260-std,concepticon-1566,20.28,działo,"gun, cannon",dzialo
+clics-doculect-84-1919,poli1260-std,concepticon-1566,20.28,armata,"gun, cannon",armata
+clics-doculect-84-1920,poli1260-std,concepticon-1061,20.31,zbroja,armor (defensive),zbroja
+clics-doculect-84-1921,poli1260-std,concepticon-1680,20.33,hełm,helmet,helm
+clics-doculect-84-1922,poli1260-std,concepticon-1064,20.34,tarcza,shield,tarcza
+clics-doculect-84-1923,poli1260-std,concepticon-1938,20.35,twierdza,fortress,twierdza
+clics-doculect-84-1924,poli1260-std,concepticon-1938,20.35,forteca,fortress,forteca
+clics-doculect-84-1925,poli1260-std,concepticon-1671,20.36,wieża,tower,wieza
+clics-doculect-84-1926,poli1260-std,concepticon-783,20.41,zwycięstwo,victory,zwyciestwo
+clics-doculect-84-1927,poli1260-std,concepticon-782,20.42,porażka,defeat,porazka
+clics-doculect-84-1928,poli1260-std,concepticon-722,20.43,atak,attack,atak
+clics-doculect-84-1929,poli1260-std,concepticon-1330,20.44,obrona,defend,obrona
+clics-doculect-84-1930,poli1260-std,concepticon-1330,20.44,bronić,defend,bronic
+clics-doculect-84-1931,poli1260-std,concepticon-421,20.45,rejterada,retreat,rejterada
+clics-doculect-84-1932,poli1260-std,concepticon-421,20.45,odwrót,retreat,odwrot
+clics-doculect-84-1933,poli1260-std,concepticon-1696,20.46,poddać,surrender,poddac
+clics-doculect-84-1934,poli1260-std,concepticon-1072,20.47,jeniec,"captive, prisoner",jeniec
+clics-doculect-84-1935,poli1260-std,concepticon-1940,20.471,strażnik,"guard, sentinel",straznik
+clics-doculect-84-1936,poli1260-std,concepticon-1940,20.471,garda,"guard, sentinel",garda
+clics-doculect-84-1937,poli1260-std,concepticon-1022,20.48,łup,"booty, spoils",lup
+clics-doculect-84-1938,poli1260-std,concepticon-65,20.49,zasadzka,ambush,zasadzka
+clics-doculect-84-1939,poli1260-std,concepticon-1858,20.51,rybak,fisherman,rybak
+clics-doculect-84-1940,poli1260-std,concepticon-1074,20.52,haczyk,fishhook,haczyk
+clics-doculect-84-1941,poli1260-std,concepticon-19,20.53,żyłka,fishing line,zylka
+clics-doculect-84-1942,poli1260-std,concepticon-388,20.54,siećnaryby,fishnet,siecnaryby
+clics-doculect-84-1943,poli1260-std,concepticon-2013,20.56,przynęta,bait,przyneta
+clics-doculect-84-1944,poli1260-std,concepticon-1435,20.61,łów,hunt,low
+clics-doculect-84-1945,poli1260-std,concepticon-1435,20.61,łowić,hunt,lowic
+clics-doculect-84-1946,poli1260-std,concepticon-1172,20.62,strzelać,shoot,strzelac
+clics-doculect-84-1947,poli1260-std,concepticon-1172,20.62,strzelić,shoot,strzelic
+clics-doculect-84-1948,poli1260-std,concepticon-161,20.63,pudłować,miss (target),pudlowac
+clics-doculect-84-1949,poli1260-std,concepticon-161,20.63,nietrafiać,miss (target),nietrafiac
+clics-doculect-84-1950,poli1260-std,concepticon-1075,20.64,pułapka,trap (noun),pulapka
+clics-doculect-84-1951,poli1260-std,concepticon-1075,20.64,sidła,trap (noun),sidla
+clics-doculect-84-1952,poli1260-std,concepticon-1075,20.64,wnyki,trap (noun),wnyki
+clics-doculect-84-1953,poli1260-std,concepticon-1170,20.65,zastawićpułapkę,trap (vb),zastawicpulapke
+clics-doculect-84-1954,poli1260-std,concepticon-1062,21.11,prawo,law,prawo
+clics-doculect-84-1955,poli1260-std,concepticon-1068,21.15,sąd,court,sad
+clics-doculect-84-1956,poli1260-std,concepticon-1818,21.16,sądzić,judge (vb),sadzic
+clics-doculect-84-1957,poli1260-std,concepticon-1067,21.17,wyrok,judgment,wyrok
+clics-doculect-84-1958,poli1260-std,concepticon-861,21.18,sędzia,judge (noun),sedzia
+clics-doculect-84-1959,poli1260-std,concepticon-2020,21.21,skarżący,plaintiff,skarzacy
+clics-doculect-84-1960,poli1260-std,concepticon-2020,21.21,powód,plaintiff,powod
+clics-doculect-84-1961,poli1260-std,concepticon-1034,21.22,oskarżony,defendant,oskarzony
+clics-doculect-84-1962,poli1260-std,concepticon-1144,21.23,świadek,witness,swiadek
+clics-doculect-84-1963,poli1260-std,concepticon-1939,21.24,przysięgać,swear,przysiegac
+clics-doculect-84-1964,poli1260-std,concepticon-1939,21.24,kląćsię,swear,klacsie
+clics-doculect-84-1965,poli1260-std,concepticon-1712,21.25,przysięga,oath,przysiega
+clics-doculect-84-1966,poli1260-std,concepticon-1814,21.31,oskarżyć,accuse,oskarzyc
+clics-doculect-84-1967,poli1260-std,concepticon-1814,21.31,obwinić,accuse,obwinic
+clics-doculect-84-1968,poli1260-std,concepticon-1814,21.31,oskarżać,accuse,oskarzac
+clics-doculect-84-1969,poli1260-std,concepticon-1814,21.31,obwiniać,accuse,obwiniac
+clics-doculect-84-1970,poli1260-std,concepticon-484,21.32,skazać,condemn,skazac
+clics-doculect-84-1971,poli1260-std,concepticon-484,21.32,osadzić,condemn,osadzic
+clics-doculect-84-1972,poli1260-std,concepticon-484,21.32,potępić,condemn,potepic
+clics-doculect-84-1973,poli1260-std,concepticon-983,21.33,przekonać,convict (vb),przekonac
+clics-doculect-84-1974,poli1260-std,concepticon-988,21.34,uznaćniewinnyn,acquit,uznacniewinnyn
+clics-doculect-84-1975,poli1260-std,concepticon-1682,21.35,winny,guilty,winny
+clics-doculect-84-1976,poli1260-std,concepticon-90,21.36,niewinny,innocent,niewinny
+clics-doculect-84-1977,poli1260-std,concepticon-390,21.37,kara,"penalty, punishment",kara
+clics-doculect-84-1978,poli1260-std,concepticon-218,21.38,karapieniężna,fine,karapieniezna
+clics-doculect-84-1979,poli1260-std,concepticon-218,21.38,mandat,fine,mandat
+clics-doculect-84-1980,poli1260-std,concepticon-1281,21.39,więzienie,"prison, jail",wiezienie
+clics-doculect-84-1981,poli1260-std,concepticon-845,21.42,zabójstwo,murder,zabojstwo
+clics-doculect-84-1982,poli1260-std,concepticon-845,21.42,mord,murder,mord
+clics-doculect-84-1983,poli1260-std,concepticon-845,21.42,morderstwo,murder,morderstwo
+clics-doculect-84-1984,poli1260-std,concepticon-902,21.43,cudzołóstwo,adultery,cudzolostwo
+clics-doculect-84-1985,poli1260-std,concepticon-953,21.44,zgwałcenie,rape,zgwalcenie
+clics-doculect-84-1986,poli1260-std,concepticon-953,21.44,gwałt,rape,gwalt
+clics-doculect-84-1987,poli1260-std,concepticon-953,21.44,gwałcić,rape,gwalcic
+clics-doculect-84-1988,poli1260-std,concepticon-1889,21.46,podpalenie,arson,podpalenie
+clics-doculect-84-1989,poli1260-std,concepticon-1792,21.47,krzywoprzysięstwo,perjury,krzywoprzysiestwo
+clics-doculect-84-1990,poli1260-std,concepticon-713,21.51,kraść,steal,krasc
+clics-doculect-84-1991,poli1260-std,concepticon-1160,21.52,złodziej,thief,zlodziej

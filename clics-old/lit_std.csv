@@ -1,0 +1,1870 @@
+@classification: Indo-European,Baltic,Eastern
+@ids-name: Lithuanian_StandardOrthTone
+@iso: lit
+@language: Lithuanian
+@size: 1863
+@source: ids
+@variety: std
+1.1	world	pasáulis
+1.21	earth, land	žẽmė
+1.212	earth=ground, soil	žẽmė
+1.212	earth=ground, soil	sausumà
+1.212	earth=ground, soil	dirvà
+1.212	earth=ground, soil	dirvóžemis
+1.213	dust	dùlkės
+1.214	mud	pur̃vas
+1.214	mud	dum̃blas
+1.215	sand	smẽ̇lis
+1.215	sand	smiltìs
+1.22	mountain, hill	kálnas
+1.22	mountain, hill	kalnẽlis
+1.222	cliff, precipice	skar̃dis
+1.222	cliff, precipice	uolà
+1.23	plain, field	lygumà
+1.23	plain, field	laũkas
+1.24	valley	slẽ̇nis
+1.24	valley	klónis
+1.25	island	salà
+1.26	mainland	žemýnas
+1.27	shore	kraɲtas
+1.27	shore	krãštas
+1.27	shore	pamarỹs
+1.28	cave	ùrvas
+1.28	cave	olà
+1.31	water	vanduõ
+1.32	sea	jú̄ra
+1.32	sea	mãrios
+1.322	calm (of sea)	ramìjú̄ra
+1.323	rough (of sea)	audrìngajú̄ra
+1.323	rough (of sea)	neramìjú̄ra
+1.324	foam	pùtos
+1.329	ocean	vandenýnas
+1.329	ocean	okeãnas
+1.33	lake	ẽžeras
+1.34	gulf, bay	į́lanka
+1.341	lagoon	lagūnà
+1.342	reef	rìfas
+1.343	headland, point	rãgas
+1.343	headland, point	iškyšulỹs
+1.35	wave	vilnìs
+1.35	wave	bangà
+1.352	tide	atóslūgisir̃pótvynis
+1.353	lowtide	atóslūgis
+1.354	hightide	pótvynis
+1.36	river, stream, brook	ùpė
+1.36	river, stream, brook	srovẽ̇
+1.36	river, stream, brook	upẽlis
+1.362	whirlpool	sūkurỹs
+1.37	spring, well	šaltìnis
+1.37	spring, well	versmẽ̇
+1.37	spring, well	šulinỹs
+1.38	swamp	pélkė
+1.38	swamp	balà
+1.38	swamp	klampỹnė
+1.39	waterfall	krioklỹs
+1.41	woods, forest	girià
+1.41	woods, forest	mìškas
+1.42	tree (cf 08.600)	mẽdis
+1.43	wood	málkos
+1.43	wood	mìškas
+1.43	wood	mẽdis
+1.44	stone, rock	akmuõ
+1.44	stone, rock	uolà
+1.45	earthquake	žẽmėsdrebé̇jimas
+1.51	sky	dangùs
+1.52	sun	sáulė
+1.53	moon	mé̇nuo
+1.53	moon	mėnùlis
+1.54	star	žvaigždẽ̇
+1.55	lightning	žaĩbas
+1.56	thunder	griaustìnis
+1.56	thunder	griaũsmas
+1.57	lightning (as striking)	griáudėti
+1.57	lightning (as striking)	griáusti
+1.58	storm	audrà
+1.58	storm	vé̇tra
+1.59	rainbow	vaivórykštė
+1.61	light (noun)	šviesà
+1.62	darkness	tamsà
+1.62	darkness	tamsumà
+1.63	shade, shadow	šešé̇lis
+1.63	shade, shadow	pavé̇sis
+1.63	shade, shadow	paú̄ksmė
+1.64	dew	rasà
+1.71	air	óras
+1.72	wind	vé̇jas
+1.73	cloud	debesìs
+1.74	fog	miglà
+1.74	fog	rũ̄kas
+1.74	fog	ũ̄kas
+1.75	rain (noun)	lietùs
+1.76	snow (noun)	sniẽgas
+1.77	ice	lẽdas
+1.78	weather	óras
+1.81	fire	ugnìs
+1.82	flame (noun)	liepsnà
+1.83	smoke (noun)	dú̄mai
+1.84	ashes	pelenaĩ
+1.841	embers	žarìjos
+1.851	burn (vb trans)	uždègti
+1.852	burn (vb intrans)	dègti
+1.852	burn (vb intrans)	dẽginti
+1.86	light, kindle, ignite	uždègti
+1.861	extinguish	gesìnti
+1.87	match (noun)	degtùkas
+1.88	firewood	málka
+1.89	charcoal	anglìs
+1.89	charcoal	aɲglys
+2.1	person, human being	žmogùs
+2.1	person, human being	žmónės
+2.21	man (vs. woman)	výras
+2.22	woman	móteris
+2.22	woman	moterìškė
+2.23	male	výriškas
+2.24	female	móteriškas
+2.25	boy	vaĩkas
+2.25	boy	berniùkas
+2.251	young man (adolescent)	paauglỹs
+2.251	young man (adolescent)	vaikìnas
+2.26	girl	mergáitė
+2.26	girl	mergẽlė
+2.261	young woman (adolescent)	paauglẽ̇
+2.261	young woman (adolescent)	merginà
+2.27	child	vaĩkas
+2.28	infant, baby	kũ̄dikis
+2.31	husband	výras
+2.31	husband	pàts
+2.32	wife	žmonà
+2.32	wife	patì
+2.33	marry	vèsti
+2.33	marry	teké̇ti
+2.33	marry	susituõkti
+2.34	marriage, wedding	išteké̇jimas
+2.34	marriage, wedding	vestùvės
+2.34	marriage, wedding	vedýbos
+2.34	marriage, wedding	sántuoka
+2.34	marriage, wedding	sutuoktùvės
+2.341	divorce	skyrýbos
+2.341	divorce	ìštuoka
+2.35	father	té̇vas
+2.36	mother	mótina
+2.37	parents	tėvaĩ
+2.37	parents	gimdýtojai
+2.38	married man	vẽdęsvýras
+2.39	married woman	išteké̇jusimóteris
+2.41	son	sūnùs
+2.42	daughter	duktẽ̇
+2.43	offspring (son or daughter)	vaĩkas
+2.43	offspring (son or daughter)	palikuõnis
+2.43	offspring (son or daughter)	palikuonìs
+2.44	brother	brólis
+2.444	older brother	vyresnỹsisbrólis
+2.444	older brother	vyrèsnisbrólis
+2.445	younger brother	jaunesnỹsisbrólis
+2.445	younger brother	jaunèsnisbrólis
+2.45	sister	sesuõ
+2.454	older sister	vyresniójisesuõ
+2.454	older sister	vyrèsnėsesuõ
+2.455	younger sister	jaunesniójisesuõ
+2.455	younger sister	jaunèsnėsesuõ
+2.456	sibling	brólis
+2.456	sibling	sesuõ
+2.458	twins	dvyniaĩ
+2.458	twins	dvynùkai
+2.46	grandfather	senẽlis
+2.461	old man	sẽnis
+2.461	old man	sẽnasvýras
+2.47	grandmother	senẽlė
+2.47	grandmother	močiùtė
+2.471	old woman	senàmóteris
+2.48	grandson	anũ̄kas
+2.48	grandson	sūnaũsvaĩkas
+2.48	grandson	vaikáitis
+2.49	granddaughter	anũ̄kė
+2.49	granddaughter	sūnaũsduktẽ̇
+2.49	granddaughter	vaikáitė
+2.51	uncle	dẽ̇dė
+2.51	uncle	avýnas
+2.51	uncle	teté̇nas
+2.511	mother's brother	dẽ̇dė
+2.511	mother's brother	avýnas
+2.511	mother's brother	mótinosbrólis
+2.512	father's brother	dẽ̇dė
+2.512	father's brother	té̇vobrólis
+2.52	aunt	tetà
+2.52	aunt	dėdíenė
+2.521	mother's sister	tetà
+2.521	mother's sister	mótinossesuõ
+2.522	father's sister	tetà
+2.522	father's sister	té̇vosesuõ
+2.53	nephew	sūné̇nas
+2.53	nephew	brolé̇nas
+2.53	nephew	broliãvaikis
+2.53	nephew	seseré̇nas
+2.53	nephew	sesérvaikis
+2.54	niece	dukteré̇čia
+2.54	niece	brolé̇čia
+2.54	niece	broliãvaikis
+2.54	niece	seseré̇čia
+2.54	niece	sesérvaikis
+2.55	cousin	pùsbrolis
+2.55	cousin	pùsseserė
+2.56	ancestors	séntėviai
+2.56	ancestors	prótėviai
+2.57	descendants	aĩniai
+2.57	descendants	palikuõnys
+2.61	father-in-law (of a man)	úošvis
+2.611	father-in-law (of a woman)	šẽšuras
+2.62	mother-in-law (of a man)	úošvė
+2.621	mother-in-law (of a woman)	anýta
+2.63	son-in-law (of a man)	žéntas
+2.631	son-in-law (of a woman)	žéntas
+2.64	daughter-in-law (of a man)	martì
+2.641	daughter-in-law (of a woman)	martì
+2.71	stepfather	paté̇vis
+2.72	stepmother	pãmotė
+2.73	stepson	pósūnis
+2.74	stepdaughter	pódukra
+2.75	orphan	našláitis
+2.75	orphan	našláitė
+2.76	widow	našlẽ̇
+2.77	widower	našlỹs
+2.81	relatives, kinsmen	gimináičiai
+2.81	relatives, kinsmen	gìminės
+2.82	family	šeimà
+2.82	family	šeimýna
+2.91	I	àš
+2.92	you (singular)	tù
+2.93	he/she/it	jìs
+2.93	he/she/it	jì
+2.93	he/she/it	o̷
+2.94	we	mẽs
+2.941	we (inclusive)	mẽs
+2.942	we (exclusive)	mẽs
+2.95	you (plural)	jũ̄s
+2.96	they	jiẽ
+2.96	they	jõs
+3.11	animal	gyvulỹs
+3.11	animal	gyvũ̄nas
+3.12	male (adj)	výriškas
+3.13	female (adj)	móteriškas
+3.15	livestock	gyvuliaĩ
+3.15	livestock	galvìjai
+3.16	pasture	ganyklà
+3.16	pasture	gãniava
+3.18	herdsman	ker̃džius
+3.18	herdsman	ganýtojas
+3.18	herdsman	piemuõ
+3.19	stable, stall	tvártas
+3.19	stable, stall	kũ̄tė
+3.19	stable, stall	pértvara
+3.19	stable, stall	gar̃das
+3.2	cattle (bovine)	galvìjai
+3.21	bull	jáutis
+3.21	bull	bùlius
+3.22	ox	jáutis
+3.22	ox	bùlius
+3.23	cow	kárvė
+3.24	calf	ver̃šis
+3.24	calf	teliùkas
+3.25	sheep	avìs
+3.26	ram	ãvinas
+3.28	ewe	avìs
+3.29	lamb	é̇ras
+3.29	lamb	ėriùkas
+3.29	lamb	avinẽ̇lis
+3.32	boar	kuilỹs
+3.32	boar	par̃šas
+3.34	sow	kiaũlė
+3.35	pig	kiaũlė
+3.35	pig	par̃šas
+3.35	pig	paršiùkas
+3.36	goat	ožkà
+3.37	he-goat	ožỹs
+3.38	kid	ožẽlis
+3.38	kid	ožkùtis
+3.38	kid	ožkiùkas
+3.41	horse (equine)	arklỹs
+3.41	horse (equine)	žìrgas
+3.42	stallion	er̃žilas
+3.44	mare	kumẽlė
+3.45	foal, colt	kumeliùkas
+3.46	ass, donkey	ãsilas
+3.47	mule	mùlas
+3.47	mule	asilé̇nas
+3.5	fowl	paũkštis
+3.52	cock, rooster	gaidỹs
+3.54	hen	vištà
+3.55	chicken	viščiùkas
+3.56	goose	žąsìs
+3.57	duck	ántis
+3.58	nest	lìzdas
+3.581	bird	paũkštis
+3.582	seagull	kìras
+3.583	heron	garnỹs
+3.584	eagle	erẽlis
+3.585	hawk	vãnagas
+3.585	hawk	sãkalas
+3.586	vulture	grìfas
+3.591	bat	šikšnósparnis
+3.592	parrot	papūgà
+3.593	crow	várna
+3.594	dove	balaɲdis
+3.594	dove	karvẽlis
+3.596	owl	pelé̇da
+3.61	dog	šuõ
+3.614	rabbit	triùšis
+3.62	cat	katẽ̇
+3.622	opossum	opòsumas
+3.63	mouse, rat	pelẽ̇
+3.65	fish	žuvìs
+3.652	fin (dorsal)	pẽlekas
+3.653	fishscale	žvýnas
+3.654	gill	žiáunos
+3.655	shell	lùkštas
+3.655	shell	kiáutas
+3.661	shark	ryklỹs
+3.662	porpoise, dolphin	jú̄roskiaũlė
+3.662	porpoise, dolphin	delfìnas
+3.663	whale	bangìnis
+3.664	stingray	pastarnõkas
+3.664	stingray	rajà
+3.665	freshwater eel	ungurỹs
+3.71	wolf	vil̃kas
+3.72	lion	liũ̄tas
+3.73	bear	lokỹs
+3.73	bear	meškà
+3.74	fox	lãpė
+3.75	deer	élnias
+3.76	monkey	beždžiõnė
+3.77	elephant	dramblỹs
+3.78	camel	kupranugãris
+3.81	insect	vabzdỹs
+3.811	louse	utėlẽ̇
+3.812	nit (louse egg)	glìnda
+3.813	flea	blusà
+3.814	centipede	šimtakõjis
+3.815	scorpion	skorpiònas
+3.816	cockroach	tarakõnas
+3.817	ant	skruzdẽ̇
+3.817	ant	skruzdėlẽ̇
+3.818	spider	vóras
+3.819	spider web	vorãtinklis
+3.82	bee	bìtė
+3.821	beeswax	bìčiųvãškas
+3.822	beehive	bìčiųavilỹs
+3.823	wasp	vapsvà
+3.83	fly	mùsė
+3.831	sandfly (midge), gnat	úodas
+3.831	sandfly (midge), gnat	mãšalas
+3.832	mosquito	úodas
+3.84	worm	kirmėlẽ̇
+3.84	worm	kir̃minas
+3.84	worm	slíekas
+3.85	snake	gyvãtė
+3.91	firefly	jõnvabalis
+3.92	butterfly	drugỹs
+3.92	butterfly	petelìškė
+3.92	butterfly	plaštãkė
+3.93	grasshopper	žiógas
+3.94	snail	sráigė
+3.95	frog	varlẽ̇
+3.96	lizard	dríežas
+3.97	crocodile, alligator	krokodìlas
+3.98	turtle	vėžlỹs
+4.11	body	kú̄nas
+4.12	skin, hide	óda
+4.12	skin, hide	káilis
+4.13	flesh	mėsà
+4.14	hair (head)	pláukas
+4.14	hair (head)	gaũras
+4.142	beard	barzdà
+4.144	body hair	gyvãplaukiai
+4.144	body hair	plaukaĩaɲtkú̄no
+4.145	pubic hair	gaktõsplaukaĩ
+4.146	dandruff	pléiskanos
+4.15	blood	kraũjas
+4.151	vein, artery	venà
+4.151	vein, artery	kraujãgyslė
+4.151	vein, artery	artèrija
+4.16	bone	káulas
+4.162	rib	šónkaulis
+4.17	horn	rãgas
+4.18	tail	uodegà
+4.19	back	nùgara
+4.191	spine	nugárkaulis
+4.2	head	galvà
+4.201	side of head, temple	smilkinỹs
+4.202	skull	káukolė
+4.203	brain	smẽgenys
+4.204	face	véidas
+4.205	forehead	kaktà
+4.207	jaw	žándas
+4.208	cheek	skrúostas
+4.209	chin	smãkras
+4.21	eye	akìs
+4.212	eyebrow	aɲtakis
+4.213	eyelid	akiẽsvókas
+4.214	eyelash	blakstíena
+4.215	blink	mìrkčioti
+4.22	ear	ausìs
+4.221	earlobe	lezgẽlis
+4.222	earwax	ausiẽsvãškas
+4.23	nose	nósis
+4.231	nostril	šnérvė
+4.232	mucus (nasal)	snarglỹs
+4.24	mouth	burnà
+4.241	beak	snãpas
+4.25	lip	lú̄pa
+4.26	tongue	liežùvis
+4.27	tooth	dantìs
+4.271	gums	dantų̃smẽgenys
+4.272	molartooth	krú̄minisdantìs
+4.28	neck	kãklas
+4.281	nape of neck	sprándas
+4.29	throat	gerklẽ̇
+4.3	shoulder	petỹs
+4.301	shoulderblade	mentìkaulis
+4.302	collarbone	raktìkaulis
+4.31	arm	rankà
+4.312	armpit	pažastìs
+4.32	elbow	alkú̄nė
+4.321	wrist	ríešas
+4.33	hand	rankà
+4.331	palm of hand	délnas
+4.34	finger	pir̃štas
+4.342	thumb	nykštỹs
+4.344	fingernail	nãgas
+4.345	claw	nãgas
+4.35	leg	kója
+4.351	thigh	šlaunìs
+4.352	calf of leg	blauzdà
+4.36	knee	kẽlis
+4.37	foot	kója
+4.371	ankle	kulkšnìs
+4.372	heel	kul̃nas
+4.374	footprint	pėdà
+4.374	footprint	pé̇dsakas
+4.38	toe	pir̃štas
+4.392	wing	spar̃nas
+4.393	feather	plùnksna
+4.4	chest	krūtìnė
+4.41	breast (of woman)	krūtìs
+4.412	nipple, teat	spenỹs
+4.412	nipple, teat	spenẽlis
+4.42	udder	tešmuõ
+4.43	navel	bámba
+4.44	heart	širdìs
+4.441	lung	plaũtis
+4.45	liver	kẽpenys
+4.451	kidney	ìnkstas
+4.452	spleen	blužnìs
+4.46	stomach	pil̃vas
+4.46	stomach	skraɲdis
+4.461	intestines, guts	žárnos
+4.461	intestines, guts	žarnýnas
+4.462	waist	liemuõ
+4.462	waist	juosmuõ
+4.463	hip	šlaunìs
+4.464	buttocks	sėdmuõ
+4.47	womb	gimdà
+4.47	womb	į́sčios
+4.49	testicle	sėklìdė
+4.492	penis	várpa
+4.51	breathe, breath	kvėpúoti
+4.51	breathe, breath	kvãpas
+4.52	yawn, gape	žióvauti
+4.52	yawn, gape	žióti
+4.521	hiccough	žagsé̇ti
+4.521	hiccough	žagsé̇jimas
+4.53	cough	kósėti
+4.54	sneeze	čiáudėti
+4.55	perspire	prakaitúoti
+4.56	spit	spjáuti
+4.57	vomit	vémti
+4.58	bite	ką́sti
+4.59	lick	laižýti
+4.591	dribble	varvé̇ti
+4.591	dribble	var̃vinti
+4.591	dribble	seilé̇ti
+4.61	sleep	miegóti
+4.612	snore	knar̃kti
+4.62	dream	sapnúoti
+4.63	wake up	bùdinti
+4.63	wake up	žãdinti
+4.63	wake up	bùsti
+4.64	break wind	pérsti
+4.64	break wind	bezdé̇ti
+4.64	break wind	gadìntiórą
+4.65	urinate	nusišlãpinti
+4.66	defecate	tùštintis
+4.66	defecate	ìšmatos
+4.67	have sexual intercourse	turé̇tilytiniùssántykius
+4.68	shiver	drebé̇ti
+4.69	bathe	máudyti
+4.69	bathe	máudytis
+4.71	beget (of father)	gimdýti
+4.72	born (to be)	gìmti
+4.73	pregnant	nėščià
+4.732	conceive	pastóti
+4.732	conceive	tàptinẽ̇ščiai
+4.74	live, living, life	gývasbú̄ti
+4.74	live, living, life	gyvénti
+4.74	live, living, life	gývas
+4.74	live, living, life	gývastis
+4.74	live, living, life	gyvẽnimas
+4.75	die, dead	mir̃ti
+4.75	die, dead	numìręs
+4.75	die, dead	mirtìs
+4.751	drowned	paskę̃stas
+4.751	drowned	prigértas
+4.76	kill	užmùšti
+4.76	kill	žudýti
+4.77	corpse	lavónas
+4.78	bury (the dead)	láidoti
+4.79	grave, tomb	kãpas
+4.81	strong, mighty, powerful	stiprùs
+4.81	strong, mighty, powerful	galìngas
+4.82	weak	sil̃pnas
+4.83	well, health	sveĩkas
+4.83	well, health	sveikatà
+4.84	sick, sickness	nesveĩkas
+4.84	sick, sickness	ligà
+4.84	sick, sickness	sirgìmas
+4.841	fever	kar̃štis
+4.841	fever	temperatūrà
+4.842	goiter	gūžỹs
+4.843	cold (catarrh)	pérsišaldymas
+4.85	wound, sore	žaizdà
+4.85	wound, sore	sužalójimas
+4.85	wound, sore	opà
+4.852	bruise	mėlỹnė
+4.852	bruise	sumušìmas
+4.853	swelling	patinìmas
+4.854	itch	niežé̇jimas
+4.854	itch	niežulỹs
+4.855	blister	pūslẽ̇
+4.856	boil (noun)	furùnkulas
+4.856	boil (noun)	šùnvotė
+4.857	pus	pú̄liai
+4.858	scar	rándas
+4.86	cure, heal	gýdyti
+4.87	physician	gýdytojas
+4.88	medicine, drug	váistas
+4.89	poison	nuodaĩ
+4.91	tired, weary	pavar̃gęs
+4.91	tired, weary	nuvar̃gęs
+4.912	rest	ilsé̇ti
+4.912	rest	pailsé̇ti
+4.92	lazy	tingùs
+4.92	lazy	vangùs
+4.93	bald	plìkas
+4.94	lame	ráišas
+4.94	lame	šlùbas
+4.94	lame	lúošas
+4.95	deaf	kur̃čias
+4.96	mute	nebylỹs
+4.97	blind	ãklas
+4.98	intoxicated	gìrtas
+4.99	naked, bare	núogas
+5.11	eat	válgyti
+5.12	food	val̃gis
+5.12	food	maĩstas
+5.121	cooked	vìrtas
+5.121	cooked	kẽptas
+5.122	raw	žãlias
+5.123	ripe	prinókęs
+5.124	green, unripe	neprinókęs
+5.124	green, unripe	neprisir̃pęs
+5.125	rotten	supùvęs
+5.13	drink	gérti
+5.14	hunger	al̃kis
+5.14	hunger	bãdas
+5.141	famine	bãdas
+5.15	thirst	troškulỹs
+5.15	thirst	troškìmas
+5.16	suck	žį́sti
+5.18	chew	kramtýti
+5.181	swallow	rýti
+5.19	choke	užspriɲgti
+5.19	choke	užsirýti
+5.21	cook	vìrti
+5.21	cook	kèpti
+5.22	boil (vb)	vìrti
+5.23	roast, fry	kèpti
+5.24	bake	kèpti
+5.25	oven	krósnis
+5.25	oven	órkaitė
+5.26	pot, cooking vessel	púodas
+5.27	kettle	kãtilas
+5.28	pan	keptùvė
+5.31	dish	dubuõ
+5.31	dish	lẽ̇kštė
+5.32	plate	lẽ̇kštė
+5.33	bowl	dubuõ
+5.33	bowl	dubenẽ̇lis
+5.34	pitcher, jug	ąsõtis
+5.35	cup, drinking vessel	puodẽlis
+5.35	cup, drinking vessel	puodùkas
+5.36	saucer	lėkštẽlė
+5.37	spoon	šáukštas
+5.38	knife	peĩlis
+5.39	fork	šakùtė
+5.391	tongs	žnýplės
+5.41	meal (a)	val̃gis
+5.42	breakfast	pùsryčiai
+5.43	lunch	príešpiečiai
+5.44	dinner	piẽtūs
+5.45	supper	vakariẽnė
+5.46	peel	lùpti
+5.46	peel	skùsti
+5.47	sieve, strain	rẽ̇tis
+5.47	sieve, strain	síetas
+5.47	sieve, strain	kóšti
+5.48	scrape	grándyti
+5.49	stir, mix	maišýti
+5.51	bread	dúona
+5.53	dough	minklẽ̇
+5.53	dough	tešlà
+5.54	knead	mìnkyti
+5.55	meal, flour	mìltai
+5.56	crush, grind	málti
+5.57	mill	malũ̄nas
+5.58	mortar	grūstuvẽ̇
+5.58	mortar	piestà
+5.59	pestle	grūstùvas
+5.61	meat	mėsà
+5.63	sausage	dešrà
+5.64	soup, broth	sriubà
+5.65	vegetables	daržóvės
+5.66	bean	pupà
+5.7	potato	bùlvė
+5.71	fruit	vaĩsiai
+5.712	bunch	kẽkė
+5.75	fig	figà
+5.76	grape	výnuogė
+5.77	nut	ríešutas
+5.78	olive	alyvà
+5.79	oil	aliẽjus
+5.791	grease, fat	taukaĩ
+5.791	grease, fat	riebalaĩ
+5.81	salt	druskà
+5.82	pepper	pipìrai
+5.84	honey	medùs
+5.85	sugar	cùkrus
+5.86	milk (noun)	píenas
+5.87	milk (vb)	mélžti
+5.88	cheese	sú̄ris
+5.89	butter	svíestas
+5.9	beverage, drink	gé̇rimas
+5.91	mead	midùs
+5.92	wine	vỹnas
+5.93	beer	alùs
+5.94	fermented drink	raugìntasgé̇rimas
+5.97	egg	kiaušìnis
+5.971	egg yolk	trynỹs
+6.11	put on (clothes)	apvil̃kti
+6.11	put on (clothes)	apreɲgti
+6.11	put on (clothes)	apsivil̃kti
+6.11	put on (clothes)	apsireɲgti
+6.12	clothing, clothes	drabùžis
+6.12	clothing, clothes	rũ̄bai
+6.13	tailor	siuvé̇jas
+6.21	cloth	mẽdžiaga
+6.21	cloth	áudeklas
+6.21	cloth	dróbė
+6.22	wool	vìlna
+6.23	linen, flax	dróbė
+6.23	linen, flax	linaĩ
+6.24	cotton	mẽdvilnė
+6.25	silk	šil̃kas
+6.27	felt	veltìnis
+6.27	felt	fètras
+6.27	felt	tú̄bas
+6.28	fur	káilis
+6.28	fur	kailiniaĩ
+6.29	leather	óda
+6.31	spin	ver̃pti
+6.32	spindle	ver̃pstas
+6.32	spindle	ver̃pstė
+6.33	weave	áusti
+6.34	loom	stãklės
+6.35	sew	siú̄ti
+6.36	needle	ãdata
+6.37	awl	ýla
+6.38	thread	siú̄las
+6.39	dye	dažýti
+6.41	cloak	apsiaũstas
+6.411	poncho	pònčo
+6.42	woman's dress	suknẽlė
+6.43	coat	švar̃kas
+6.43	coat	páltas
+6.44	shirt	marškiniaĩ
+6.45	collar	apýkaklė
+6.46	skirt	sijõnas
+6.48	trousers	kélnės
+6.49	stocking, sock	kójinė
+6.51	shoe	bãtas
+6.52	boot	bãtas
+6.54	shoemaker, cobbler	batsiuvỹs
+6.55	hat, cap	skrybėlẽ̇
+6.55	hat, cap	kepùrė
+6.55	hat, cap	kepuráitė
+6.57	belt, girdle	dir̃žas
+6.57	belt, girdle	júosta
+6.57	belt, girdle	korsètas
+6.58	glove	pir̃štinė
+6.59	veil	šỹdas
+6.59	veil	vuãlis
+6.61	pocket	kišẽnė
+6.62	button	sagà
+6.63	pin	segtùkas
+6.63	pin	smeigtùkas
+6.71	ornament, adornment	pãpuošalas
+6.72	jewel	brangenýbė
+6.72	jewel	brangùsakmuõ
+6.73	ring (for finger)	žíedas
+6.74	bracelet	apýrankė
+6.75	necklace	karõliai
+6.75	necklace	vėrinỹs
+6.76	bead	karõlis
+6.77	earring	aũskaras
+6.78	headband, headdress	kãspinas
+6.78	headband, headdress	galvõsãpdangalas
+6.79	tattoo	tatuiruõtė
+6.81	handkerchief, rag	nósinė
+6.81	handkerchief, rag	skùduras
+6.82	towel	raɲkšluostis
+6.91	comb	šùkos
+6.92	brush	šepetỹs
+6.921	braid	kasà
+6.93	razor	skustùvas
+6.93	razor	skustùkas
+6.94	ointment	tẽpalas
+6.94	ointment	krèmas
+6.95	soap	muĩlas
+6.96	mirror	véidrodis
+7.11	dwell, live	gyvénti
+7.12	house	nãmas
+7.13	hut	trobẽlė
+7.131	garden-house	sõdonamẽlis
+7.14	tent	palapìnė
+7.15	yard, court	kiẽmas
+7.16	men's house	výrųnãmas
+7.17	cookhouse	laũkovirtùvė
+7.18	meeting house	susirinkìmųnãmas
+7.21	room	kambarỹs
+7.22	door, gate	dùrys
+7.22	door, gate	var̃tai
+7.221	doorpost, jamb	dùrųstaktà
+7.23	lock (noun)	ùžraktas
+7.23	lock (noun)	spynà
+7.231	latch, door-bolt	dùrųsklą̃stis
+7.231	latch, door-bolt	velkẽ̇
+7.24	key	rãktas
+7.25	window	lángas
+7.26	floor	griɲdys
+7.26	floor	aslà
+7.27	wall	síena
+7.31	fireplace	židinỹs
+7.32	stove	krósnis
+7.33	chimney	kãminas
+7.37	ladder	kópėčios
+7.42	bed	lóva
+7.421	pillow	pagálvė
+7.421	pillow	príegalvis
+7.422	blanket	aɲtklodė
+7.43	chair	kėdẽ̇
+7.44	table	stãlas
+7.45	lamp, torch	lémpa
+7.45	lamp, torch	dẽglas
+7.45	lamp, torch	fãkelas
+7.46	candle	žvãkė
+7.47	shelf	lentýna
+7.48	trough	lovỹs
+7.48	trough	gélda
+7.51	roof	stógas
+7.52	thatch	šiaudìnisstógas
+7.53	ridgepole	kraĩgas
+7.53	ridgepole	šelmuõ
+7.54	rafter	gẽgnė
+7.55	beam	sijà
+7.55	beam	strỹpas
+7.56	post, pole	stul̃pas
+7.56	post, pole	baslỹs
+7.57	board	lentà
+7.58	arch	árka
+7.61	mason	mú̄rininkas
+7.61	mason	akmentašỹs
+7.62	brick	plytà
+7.63	mortar	kálkiųskiedinỹs
+7.64	adobe	nedegtàplytà
+8.11	farmer	ú̄kininkas
+8.12	field (for cultivation)	dirvà
+8.12	field (for cultivation)	laũkas
+8.13	garden	dar̃žas
+8.13	garden	sõdas
+8.15	cultivate, till	apdìrbti
+8.16	fence	tvorà
+8.16	fence	ùžtvara
+8.17	ditch	griovỹs
+8.21	plow	árti
+8.21	plow	plũ̄gas
+8.21	plow	žãgrė
+8.212	furrow	vagà
+8.22	dig	kàsti
+8.23	spade	kastùvas
+8.24	shovel	lópeta
+8.24	shovel	kastùvas
+8.25	hoe	kauptùkas
+8.25	hoe	kaplỹs
+8.26	fork	šãkės
+8.27	rake	grėblỹs
+8.31	sow	sé̇ti
+8.311	seed	sé̇kla
+8.32	mow, reap	pjáuti
+8.32	mow, reap	nuim̃tider̃lių
+8.33	sickle, scythe	pjáutuvas
+8.33	sickle, scythe	dal̃gis
+8.34	thresh	kùlti
+8.35	threshing-floor	klojìmas
+8.35	threshing-floor	gréndymas
+8.35	threshing-floor	laĩtas
+8.41	crop, harvest	der̃lius
+8.41	crop, harvest	pjūtìs
+8.42	grain (barley, oats etc)	grūdaĩ
+8.42	grain (barley, oats etc)	javaĩ
+8.43	wheat	kviečiaĩ
+8.44	barley	miẽžiai
+8.45	rye	rugiaĩ
+8.46	oats	ãvižos
+8.47	maize, corn	kukurũ̄zas
+8.48	rice	rỹžiai
+8.51	grass	žolẽ̇
+8.52	hay	šiẽnas
+8.53	plant (noun)	áugalas
+8.531	plant (vb)	sodìnti
+8.54	root	šaknìs
+8.55	branch	šakà
+8.56	leaf	lãpas
+8.57	flower	gėlẽ̇
+8.6	tree	mẽdis
+8.61	oak	ą́žuolas
+8.62	beech	bùkas
+8.63	birch	béržas
+8.64	pine	pušìs
+8.65	fir	ẽglė
+8.65	fir	kẽ̇nis
+8.66	acorn	gìlė
+8.67	vine	vỹnmedis
+8.67	vine	vijõklinisáugalas
+8.68	tobacco	tabãkas
+8.69	smoke (tobacco)	rūkýti
+8.691	pipe	pýpkė
+8.72	tree stump	kélmas
+8.73	tree trunk	kamíenas
+8.74	forked branch	išsišakójusiosšãkos
+8.75	bark	žievẽ̇
+8.76	sap	sakaĩ
+8.76	sap	sùltys
+8.81	palm tree	pálmė
+8.82	coconut	kòkosas
+8.83	citrus fruit	cìtrusai
+8.84	banana tree	banãnųmẽdis
+8.85	banyan	ìndijosfìgmedis
+8.91	sweet potato	saldìbùlvė
+8.912	yam	batãtas
+8.92	tapioca, manioc, cassava	tapiokà
+8.93	gourd	moliũ̄gas
+8.931	pumpkin, squash	moliũ̄gas
+8.94	bamboo	bambùkas
+8.941	sugar cane	cùkranendrė
+8.97	nettle	dilgėlẽ̇
+8.98	mushroom	grỹbas
+9.11	do, make	darýti
+9.11	do, make	veĩkti
+9.12	work	dìrbti
+9.14	bend	leɲkti
+9.15	fold	suleɲkti
+9.15	fold	sulankstýti
+9.16	tie, bind	rìšti
+9.161	untie	atrìšti
+9.18	chain	grandìnė
+9.19	rope, cord	vir̃vė
+9.192	knot (noun)	mãzgas
+9.21	strike (hit, beat)	mùšti
+9.21	strike (hit, beat)	sudúoti
+9.21	strike (hit, beat)	daũžti
+9.211	pound with fist	sudúotikùmščiu
+9.22	cut	pjáuti
+9.22	cut	kir̃pti
+9.221	cut down	nupjáuti
+9.221	cut down	nukir̃sti
+9.222	chop, hew	kapóti
+9.222	chop, hew	skáldyti
+9.223	stab	dùrti
+9.223	stab	smõgti
+9.23	knife	peĩlis
+9.24	scissors, shears	žìrklės
+9.25	ax	kir̃vis
+9.251	adze	skliùtas
+9.251	adze	skãptas
+9.26	break	láužyti
+9.26	break	lú̄žti
+9.26	break	daužýti
+9.26	break	daũžti
+9.261	broken	sudaužýtas
+9.27	split	skélti
+9.27	split	skáldyti
+9.28	tear	plé̇šti
+9.28	tear	plé̇šyti
+9.28	tear	draskýti
+9.29	flay, skin	nudìrti
+9.31	rub, wipe	trìnti
+9.32	stretch	tem̃pti
+9.32	stretch	tiẽsti
+9.32	stretch	ìlginti
+9.33	pull	tráukti
+9.33	pull	tem̃pti
+9.33	pull	vil̃kti
+9.34	spread out	ištiẽsti
+9.34	spread out	išskleĩsti
+9.341	hang up	pakabìnti
+9.342	press	spáusti
+9.342	press	slẽ̇gti
+9.343	squeeze, wring	spáusti
+9.343	squeeze, wring	išgrę̃žti
+9.35	pour	pìlti
+9.35	pour	líeti
+9.36	wash	praũsti
+9.36	wash	pláuti
+9.36	wash	skal̃bti
+9.37	sweep	šlúoti
+9.38	broom	šlúota
+9.422	tool	į́nagis
+9.422	tool	į́rankis
+9.43	carpenter	dailìdė
+9.44	build	statýti
+9.46	bore	grę̃žti
+9.461	hollow out	išskaptúoti
+9.461	hollow out	išduõbti
+9.48	saw	pjú̄klas
+9.49	hammer	plaktùkas
+9.5	nail	vinìs
+9.56	glue	klijaĩ
+9.6	smith, blacksmith	kálvis
+9.61	forge	kálti
+9.62	anvil	priekãlas
+9.63	cast (metals)	liẽti
+9.64	gold	áuksas
+9.65	silver	sidãbras
+9.66	copper, bronze	vãris
+9.66	copper, bronze	brònza
+9.67	iron	geležìs
+9.68	lead (noun)	švìnas
+9.69	tin, tinplate	ãlavas
+9.69	tin, tinplate	skardà
+9.69	tin, tinplate	alavìniaiiɲdai
+9.71	potter	puõdžius
+9.72	mold (clay etc)	formúoti
+9.73	clay	mólis
+9.74	glass	stìklas
+9.75	weave, plait	áusti
+9.75	weave, plait	pìnti
+9.76	basket	pintìnė
+9.76	basket	krepšỹs
+9.77	mat	pynẽ̇
+9.77	mat	demblỹs
+9.771	rug	kìlimas
+9.78	netbag	regztùkas
+9.79	fan (noun)	vėduõklė
+9.791	fan (vb)	vėdúoti
+9.81	carve	iškálti
+9.81	carve	pjáustyti
+9.81	carve	raižýti
+9.82	sculptor	skùlptorius
+9.83	statue	statulà
+9.84	chisel	káltas
+9.88	paint (noun)	dažaĩ
+9.89	paint (vb)	dažýti
+10.11	move	jùdinti
+10.11	move	judé̇ti
+10.12	turn over	apver̃sti
+10.13	turn around	atsisùkti
+10.13	turn around	atsigrę̃žti
+10.14	wind, wrap	výti
+10.14	wind, wrap	vynióti
+10.14	wind, wrap	sùkti
+10.15	roll	rìsti
+10.15	roll	riedé̇ti
+10.15	roll	sùkti
+10.15	roll	vynióti
+10.16	drop (vb)	krìsti
+10.17	twist	susùkti
+10.21	rise	kìlti
+10.21	rise	kéltis
+10.22	raise, lift	kélti
+10.23	fall	pùlti
+10.23	fall	krìsti
+10.24	drip	lašé̇ti
+10.25	throw	mèsti
+10.252	catch (ball)	pagáuti
+10.26	shake	kratýti
+10.26	shake	pùrtyti
+10.32	flow	teké̇ti
+10.32	flow	líetis
+10.33	sink	grim̃zti
+10.33	sink	gramzdìnti
+10.34	float	plũ̄duriuoti
+10.34	float	plaũkti
+10.35	swim	plaũkti
+10.35	swim	pláukioti
+10.351	dive	nérti
+10.352	splash	taškýti
+10.36	sail (vb)	plaũkti
+10.36	sail (vb)	buriúoti
+10.37	fly (vb)	lẽ̇kti
+10.37	fly (vb)	skrìsti
+10.38	blow	pũ̄sti
+10.41	creep, crawl	sliɲkti
+10.41	creep, crawl	šliaũžti
+10.412	kneel	klaũptis
+10.413	crouch	pasileɲkti
+10.413	crouch	priglùsti
+10.42	slide, slip	slýsti
+10.42	slide, slip	slidiné̇ti
+10.43	jump, leap	šókti
+10.431	kick	spìrti
+10.44	dance	šókti
+10.45	walk	eĩti
+10.45	walk	váikščioti
+10.451	limp	šlubúoti
+10.46	run	bé̇gti
+10.47	go	eĩti
+10.471	go up	kìlti
+10.471	go up	lìpti
+10.472	climb	kìlti
+10.472	climb	lìpti
+10.472	climb	kópti
+10.473	go down	nusiléisti
+10.473	go down	nulìpti
+10.474	go out	išeĩti
+10.48	come	ateĩti
+10.481	come back	sugrį̃žti
+10.49	go away, depart	išeĩti
+10.49	go away, depart	nueĩti
+10.491	disappear	diɲgti
+10.491	disappear	išnỹkti
+10.491	disappear	prapùlti
+10.51	flee	bé̇gti
+10.52	follow	sèkti
+10.53	pursue	výtis
+10.53	pursue	sèkti
+10.53	pursue	pérsekioti
+10.55	reach, arrive	atvỹkti
+10.55	reach, arrive	ateĩti
+10.56	approach	ar̃tintis
+10.57	enter	įeĩti
+10.61	carry (bear)	nèšti
+10.612	carry-in-hand	nèšti
+10.613	carry-on-shoulder	nèšti
+10.614	carry-on-head	nèšti
+10.615	carry-underarm	nèšti
+10.62	bring	atnèšti
+10.63	send	pasių̃sti
+10.64	lead (vb)	vèsti
+10.65	drive	varýti
+10.65	drive	výti
+10.66	ride	jóti
+10.66	ride	važiúoti
+10.67	push, shove	stùmti
+10.71	road	kẽlias
+10.72	path	tãkas
+10.74	bridge	tìltas
+10.75	carriage, wagon, cart	karietà
+10.75	carriage, wagon, cart	vežìmas
+10.76	wheel	rãtas
+10.76	wheel	tekìnis
+10.77	axle	ašìs
+10.78	yoke	jùngas
+10.78	yoke	pakiɲktai
+10.81	ship	laĩvas
+10.83	boat	laivẽlis
+10.83	boat	váltis
+10.831	canoe	kanojà
+10.831	canoe	baidãrė
+10.832	outrigger	atsparõsstrỹpas
+10.84	raft	síelis
+10.85	oar	ìrklas
+10.851	paddle (noun)	ìrklas
+10.852	row (vb)	ìrti
+10.852	row (vb)	irklúoti
+10.86	rudder	vaĩras
+10.87	mast	stíebas
+10.88	sail (noun)	bùrė
+10.89	anchor	iɲkaras
+10.91	harbor, port	úostas
+10.92	land (vb)	išlìpti
+10.92	land (vb)	išlaipìntiìšlaĩvo
+11.11	have	turé̇ti
+11.12	own, possess	turé̇ti
+11.13	take	im̃ti
+11.14	seize, grasp	nutvérti
+11.14	seize, grasp	griẽbti
+11.15	hold	laikýti
+11.16	get, obtain	gáuti
+11.17	keep, retain	išlaikýti
+11.17	keep, retain	laikýti
+11.18	thing	dáiktas
+11.21	give	dúoti
+11.22	give back	atidúoti
+11.22	give back	grąžìnti
+11.24	preserve, look after	sáugoti
+11.24	preserve, look after	išlaikýti
+11.24	preserve, look after	prižiūré̇ti
+11.25	save, rescue	išgélbėti
+11.25	save, rescue	išvadúoti
+11.27	destroy	naikìnti
+11.27	destroy	griáuti
+11.27	destroy	ardýti
+11.28	harm, injure, damage	keɲkti
+11.28	harm, injure, damage	sužeĩsti
+11.28	harm, injure, damage	sužalóti
+11.31	seek, look for	ieškóti
+11.32	find	ràsti
+11.33	lose	pamèsti
+11.33	lose	praràsti
+11.33	lose	nustóti
+11.33	lose	netèkti
+11.34	release, let go	paléisti
+11.43	money	pinigaĩ
+11.44	coin	monetà
+11.44	coin	pìnigas
+11.51	rich	turtìngas
+11.52	poor	neturtìngas
+11.52	poor	vargìngas
+11.52	poor	skurdùs
+11.53	beggar	el̃geta
+11.54	avaricious, stingy	godùs
+11.54	avaricious, stingy	šykštùs
+11.61	lend	skõlinti
+11.62	borrow	skõlintis
+11.63	owe	bú̄tiskolìngam
+11.64	debt	skolà
+11.65	pay (vb)	moké̇ti
+11.66	account, reckoning	są́skaita
+11.69	tax, tribute	mókestis
+11.77	hire	samdýti
+11.78	wages	algà
+11.79	earn	uždìrbti
+11.81	buy	pir̃kti
+11.82	sell	pardúoti
+11.83	trade, barter	prekiáuti
+11.83	trade, barter	mainýti
+11.84	merchant	pirklỹs
+11.85	market (place)	tur̃gus
+11.85	market (place)	rinkà
+11.86	store, shop	kráutuvė
+11.86	store, shop	parduotùvė
+11.87	price	káina
+11.88	dear (costly, expensive)	brangùs
+11.89	cheap	pigùs
+11.91	share (distribute)	dalýti
+11.91	share (distribute)	dalìs
+11.92	weigh	sver̃ti
+12.1	after	põ
+12.1	after	ùž
+12.1	after	pãskui
+12.11	place	ùž
+12.11	place	põ
+12.11	place	ùžpakalyje
+12.2	beside	šalià
+12.2	beside	tiẽs
+12.2	beside	priẽ
+12.3	down, below	žemỹn
+12.3	down, below	apačiojè
+12.4	before	priẽš
+12.4	before	priéšais
+12.4	before	anksčiaũ
+12.41	right (side)	príekinis
+12.41	right (side)	priešakìnis
+12.5	inside, in	vidìnis
+12.5	inside, in	vidujè
+12.5	inside, in	į̃vìdų
+12.6	outside	išorìnis
+12.6	outside	ìšlaũko
+12.7	under	põ
+12.7	under	žemiaũ
+12.7	under	apačiojè
+12.8	up, above	aukštỹn
+12.8	up, above	į̃vir̃šų
+12.11	place	vietà
+12.12	put	statýti
+12.13	sit	sėdé̇ti
+12.14	lie down	gulé̇ti
+12.15	stand	stové̇ti
+12.16	remain, stay	lìkti
+12.17	remains, left overs	likùčiai
+12.17	remains, left overs	liẽkanos
+12.21	collect, gather	riɲkti
+12.212	pick up	pakélti
+12.213	pile up	prikráuti
+12.213	pile up	sukaũpti
+12.22	join, unite	suviẽnyti
+12.23	separate	atskìrti
+12.23	separate	išskìrti
+12.232	divide	dalýti
+12.24	open	atidarýti
+12.24	open	atvérti
+12.25	shut, close	uždarýti
+12.25	shut, close	užvérti
+12.26	cover	deɲgti
+12.26	cover	dangstýti
+12.27	hide, conceal	slẽ̇pti
+12.31	high	áukštas
+12.32	low	žẽmas
+12.33	top	viršùs
+12.33	top	viršú̄nė
+12.34	bottom	dùgnas
+12.34	bottom	apačià
+12.35	end	gãlas
+12.35	end	pabaigà
+12.352	pointed	smailùs
+12.352	pointed	nusmaĩlintas
+12.353	edge	krãštas
+12.353	edge	briaunà
+12.353	edge	pakraštỹs
+12.36	side	šónas
+12.36	side	pùsė
+12.36	side	krãštas
+12.37	middle, center	vidurỹs
+12.41	right (side)	dešinẽ̇
+12.42	left (side)	kairẽ̇
+12.43	near (adv)	artì
+12.43	near (adv)	šalià
+12.44	far (adv)	tolì
+12.45	east	rytaĩ
+12.46	west	vakaraĩ
+12.47	north	šiáurė
+12.48	south	piẽtūs
+12.53	grow	áugti
+12.54	measure	matúoti
+12.541	span, fathom	matúotisprìndžiais
+12.55	large, big	dìdelis
+12.56	small, little	mãžas
+12.57	long	ìlgas
+12.58	tall	áukštas
+12.59	short	trum̃pas
+12.61	wide, broad	platùs
+12.62	narrow	siaũras
+12.62	narrow	aɲkštas
+12.63	thick (in dimension)	stóras
+12.65	thin (in dimension)	plónas
+12.67	deep	gilùs
+12.68	shallow	seklùs
+12.68	shallow	negilùs
+12.71	flat	lýgus
+12.71	flat	plókščias
+12.73	straight	tiesùs
+12.74	crooked	kreĩvas
+12.74	crooked	iškraipýtas
+12.75	hook	kablỹs
+12.75	hook	kabliùkas
+12.76	corner	kam̃pas
+12.77	cross	krỹžius
+12.78	square	ketùrkampis
+12.78	square	kvadrãtas
+12.81	round	apvalùs
+12.81	round	ãpskritas
+12.82	circle	apskritìmas
+12.83	sphere, ball	sferà
+12.83	sphere, ball	rutulỹs
+12.83	sphere, ball	kamuolỹs
+12.84	line	lìnija
+12.84	line	brūkšnỹs
+12.85	hole	skylẽ̇
+12.92	like, similar	panašùs
+12.93	change	keĩsti
+13.0	zero, nothing	nùlis
+13.0	zero, nothing	niẽkas
+13.0	zero, nothing	niẽko
+13.1	one	víenas
+13.2	two	dù
+13.3	three	trỹs
+13.4	four	keturì
+13.5	five	penkì
+13.6	six	šešì
+13.7	seven	septynì
+13.8	eight	aštuonì
+13.9	nine	devynì
+13.10	ten	dẽšimt
+13.101	eleven	vienúolika
+13.102	twelve	dvýlika
+13.103	fifteen	penkiólika
+13.104	twenty	dvìdešimt
+13.105	hundred	šim̃tas
+13.106	thousand	tú̄kstantis
+13.107	count	skaičiúoti
+13.14	every, all	kiekvíenas
+13.14	every, all	visì
+13.14	every, all	vìskas
+13.15	much, many	daũg
+13.15	much, many	daũgelis
+13.16	more	daugiaũ
+13.17	little (quantity), few	mažaĩ
+13.17	little (quantity), few	nedaũg
+13.18	enough	ganà
+13.18	enough	pakaɲkamai
+13.181	some	kẽletas
+13.181	some	nedaũg
+13.181	some	šíektíek
+13.19	multitude, crowd	daugýbė
+13.19	multitude, crowd	minià
+13.21	full	pìlnas
+13.22	empty	tùščias
+13.23	part, piece	dalìs
+13.24	half	pùsė
+13.24	half	pus
+13.33	alone, only	víenas
+13.33	alone, only	vieniɲtelis
+13.33	alone, only	tìk
+13.33	alone, only	tiktaĩ
+13.34	first	pìrmas
+13.35	last	paskutìnis
+13.36	second	aɲtras
+13.37	pair	porà
+13.38	two times	dùkartùs
+13.38	two times	dùsykiùs
+13.42	third	trẽčias
+13.44	three times	trìskartùs
+13.44	three times	trìssykiùs
+14.11	time	laĩkas
+14.12	age	ámžius
+14.13	new	naũjas
+14.14	young	jáunas
+14.15	old	sẽnas
+14.16	early	ankstì
+14.17	late	vėlaĩ
+14.18	now	dabar̃
+14.19	immediately	tuojaũ
+14.19	immediately	nedel̃siant
+14.21	swift, fast, quick	greĩtas
+14.22	slow	lẽ̇tas
+14.22	slow	lėtaĩ
+14.22	slow	pamažù
+14.23	hasten, hurry	skùbinti
+14.23	hasten, hurry	skubé̇ti
+14.24	retard, delay	užgaĩšti
+14.24	retard, delay	del̃sti
+14.24	retard, delay	užlaikýti
+14.25	begin, beginning	pradé̇ti
+14.25	begin, beginning	pradžià
+14.252	last, endure	tę̃stis
+14.252	last, endure	trùkti
+14.26	end (temporal)	gãlas
+14.26	end (temporal)	pabaigà
+14.27	finish	baĩgti
+14.28	cease, stop	liáutis
+14.28	cease, stop	nustóti
+14.28	cease, stop	sustóti
+14.28	cease, stop	sustabdýti
+14.29	ready	gãtavas
+14.29	ready	pàruoštas
+14.31	always	visadà
+14.32	often	dažnaĩ
+14.33	sometimes	kar̃tais
+14.33	sometimes	rẽtkarčiais
+14.331	soon	greĩtai
+14.331	soon	netrùkus
+14.332	long-time (for a)	ilgaĩ
+14.332	long-time (for a)	ìlgąlaĩką
+14.34	never	niẽkad
+14.34	never	niekadà
+14.34	never	niekadõs
+14.35	again	vẽ̇l
+14.41	day	dienà
+14.42	night	naktìs
+14.43	dawn	aušrà
+14.44	morning	rýtas
+14.45	noon, midday	vidùrdienis
+14.451	afternoon	pópietė
+14.46	evening	vãkaras
+14.47	today	šiaɲdien
+14.48	tomorrow	rýtdiena
+14.48	tomorrow	rytój
+14.481	day-after-tomorrow	porýt
+14.49	yesterday	vãkar
+14.491	day-before-yesterday	ùžvakar
+14.51	hour	valandà
+14.53	clock, timepiece	laĩkrodis
+14.61	week	saváitė
+14.62	Sunday	sekmãdienis
+14.63	Monday	pirmãdienis
+14.64	Tuesday	antrãdienis
+14.65	Wednesday	trečiãdienis
+14.66	Thursday	ketvirtãdienis
+14.67	Friday	penktãdienis
+14.68	Saturday	šeštãdienis
+14.71	month	mé̇nuo
+14.73	year	mẽtai
+14.74	winter	žiemà
+14.75	spring	pavãsaris
+14.76	summer	vãsara
+14.77	autumn	ruduõ
+14.78	season	mẽtųlaĩkas
+15.21	smell (vb intrans)	kvepé̇ti
+15.21	smell (vb intrans)	dvõkti
+15.212	sniff	úostyti
+15.212	sniff	užúosti
+15.22	smell (vb trans)	úostyti
+15.25	fragrant, good smelling	kvapùs
+15.25	fragrant, good smelling	aromatìngas
+15.26	stinking, bad smelling	smìrdintis
+15.26	stinking, bad smelling	smardùs
+15.26	stinking, bad smelling	dvokùs
+15.31	taste	ragáuti
+15.35	sweet	saldùs
+15.36	salty	sūrùs
+15.37	bitter	kartùs
+15.38	acid, sour	rūgštùs
+15.39	brackish	sūrókas
+15.41	hear	girdé̇ti
+15.42	listen	klausýti
+15.44	sound, noise	gar̃sas
+15.44	sound, noise	triùkšmas
+15.45	loud	garsùs
+15.45	loud	skambùs
+15.45	loud	skardùs
+15.46	quiet, silence	tylumà
+15.46	quiet, silence	ramùs
+15.46	quiet, silence	tylùs
+15.46	quiet, silence	romùs
+15.51	see	matýti
+15.51	see	regé̇ti
+15.52	look, look at	žiūré̇ti
+15.52	look, look at	žvel̃gti
+15.55	show	ródyti
+15.56	shine	šviẽsti
+15.56	shine	žibé̇ti
+15.56	shine	spindé̇ti
+15.57	bright	šviesùs
+15.61	color	spalvà
+15.62	light (in color)	šviesùs
+15.63	dark (in color)	tamsùs
+15.64	white	báltas
+15.65	black	júodas
+15.66	red	raudónas
+15.67	blue	mé̇lynas
+15.68	green	žãlias
+15.69	yellow	geltónas
+15.71	touch	liẽsti
+15.712	pinch	įgnýbti
+15.712	pinch	sugnýbti
+15.72	feel	jaũsti
+15.72	feel	jùsti
+15.74	hard	kíetas
+15.75	soft	mìnkštas
+15.76	rough	šiurkštùs
+15.76	rough	nelýgus
+15.76	rough	rupùs
+15.77	smooth	lýgus
+15.77	smooth	plýnas
+15.77	smooth	glotnùs
+15.78	sharp	aštrùs
+15.79	blunt, dull	atšìpęs
+15.79	blunt, dull	bùkas
+15.81	heavy	sunkùs
+15.82	light (in weight)	leɲgvas
+15.83	wet, damp	šlãpias
+15.83	wet, damp	dré̇gnas
+15.84	dry	saũsas
+15.85	hot	kárštas
+15.851	warm	šil̃tas
+15.86	cold	šáltas
+15.87	clean	švarùs
+15.88	dirty, soiled	pur̃vinas
+15.88	dirty, soiled	nešvarùs
+15.89	wrinkled	raukšlé̇tas
+16.11	soul, spirit	síela
+16.11	soul, spirit	dvasià
+16.15	surprised, astonished	nustẽbintas
+16.15	surprised, astonished	apstul̃bintas
+16.18	good fortune, luck	láimė
+16.19	misfortune, bad luck	neláimė
+16.19	misfortune, bad luck	nesėkmẽ̇
+16.23	joyful, glad, happy	liɲksmas
+16.23	joyful, glad, happy	džiugùs
+16.23	joyful, glad, happy	laimìngas
+16.25	laugh	juõktis
+16.251	smile	šypsótis
+16.26	play	žaĩsti
+16.26	play	lõšti
+16.27	love	mylé̇ti
+16.27	love	méilė
+16.29	kiss	bučiúoti
+16.29	kiss	bučinỹs
+16.3	embrace	apkabìnti
+16.31	pain	skaũsmas
+16.32	grief, sorrow, sadness	šìrdgėla
+16.32	grief, sorrow, sadness	liūdesỹs
+16.32	grief, sorrow, sadness	síelvartas
+16.33	anxiety, worry	rũ̄pestis
+16.33	anxiety, worry	nẽrimas
+16.34	regret, be sorry	apgailestáuti
+16.34	regret, be sorry	gailé̇tis
+16.34	regret, be sorry	atgailáuti
+16.35	pity	gaĩlestis
+16.35	pity	užúojauta
+16.37	cry, weep	ver̃kti
+16.38	tear (noun)	ãšara
+16.39	groan	dejúoti
+16.39	groan	suɲkiaidú̄sauti
+16.41	hate	nekę̃sti
+16.42	anger	pỹktis
+16.44	envy, jealousy	pavỹdas
+16.45	shame (noun)	gé̇da
+16.48	proud	puikùs
+16.48	proud	išdidùs
+16.51	dare	drį̃sti
+16.52	brave	narsùs
+16.52	brave	drąsùs
+16.53	fear, fright	báimė
+16.53	fear, fright	ìšgąstis
+16.54	danger	pavõjus
+16.54	danger	grėsmẽ̇
+16.62	desire, want	geĩsti
+16.62	desire, want	trókšti
+16.622	choose	riɲkti
+16.63	hope	vìltis
+16.63	hope	tiké̇tis
+16.65	faithful	ìštikimas
+16.66	true	teisìngas
+16.66	true	tìkras
+16.67	lie, tell lies	melúoti
+16.68	deceit	apgáulė
+16.68	deceit	apgavỹstė
+16.69	forgive	atléisti
+16.69	forgive	dovanóti
+16.71	good	gẽras
+16.72	bad	blõgas
+16.72	bad	negẽras
+16.73	right, correct	teisùs
+16.73	right, correct	teisìngas
+16.74	wrong	neteisùs
+16.74	wrong	klaidìngas
+16.74	wrong	neteisìngas
+16.76	fault	kaltẽ̇
+16.77	mistake, error	klaidà
+16.78	blame	peikìmas
+16.78	blame	príekaištas
+16.79	praise	gyrìmas
+16.81	beautiful	gražùs
+16.81	beautiful	puikùs
+16.81	beautiful	nuostabùs
+16.82	ugly	negražùs
+16.82	ugly	bjaurùs
+16.83	greedy	godùs
+16.84	clever	protìngas
+16.84	clever	gudrùs
+16.84	clever	sumanùs
+17.11	mind	prõtas
+17.13	think (= reflect)	galvóti
+17.13	think (= reflect)	mąstýti
+17.14	think (= be of the opinion)	manýti
+17.14	think (= be of the opinion)	galvóti
+17.15	believe	tiké̇ti
+17.16	understand	supràsti
+17.17	know	žinóti
+17.17	know	pažìnti
+17.171	guess	spé̇ti
+17.171	guess	spėlióti
+17.172	imitate	pamé̇gdžioti
+17.18	seem	ródytis
+17.18	seem	atródyti
+17.19	idea, notion	idé̇ja
+17.19	idea, notion	mintìs
+17.19	idea, notion	są́voka
+17.21	wise	išmintìngas
+17.21	wise	protìngas
+17.22	foolish, stupid	kvaĩlas
+17.22	foolish, stupid	neprotìngas
+17.23	insane, crazy	pamìšęs
+17.23	insane, crazy	beprõtiškas
+17.24	learn	mókytis
+17.24	learn	išmókti
+17.242	study	studijúoti
+17.242	study	mókytis
+17.25	teach	mókyti
+17.25	teach	dé̇styti
+17.26	pupil	mokinỹs
+17.27	teacher	mókytojas
+17.28	school	mokyklà
+17.31	remember	atmiɲti
+17.32	forget	užmir̃šti
+17.34	clear, plain	áiškus
+17.34	clear, plain	ryškùs
+17.35	obscure	neáiškus
+17.35	obscure	neryškùs
+17.36	secret	slãptas
+17.37	sure, certain	tìkras
+17.38	explain	išáiškinti
+17.38	explain	paáiškinti
+17.41	intention, purpose	ketìnimas
+17.41	intention, purpose	nóras
+17.41	intention, purpose	tìkslas
+17.42	cause	bú̄tipríežastimi
+17.42	cause	sukélti
+17.42	cause	priežastìs
+17.43	doubt	abejóti
+17.43	doubt	abejõnė
+17.44	suspect	įtar̃ti
+17.441	betray	išdúoti
+17.45	need, necessity	reiké̇ti
+17.45	need, necessity	būtinùmas
+17.46	easy	leɲgvas
+17.47	difficult	sunkùs
+17.48	try, attempt	bandýti
+17.48	try, attempt	mėgìnti
+17.48	try, attempt	sténgtis
+17.49	way, manner	bũ̄das
+17.49	way, manner	metòdas
+17.49	way, manner	manierà
+17.51	and	ir̃
+17.52	because	kadángi
+17.52	because	todẽ̇lkàd
+17.52	because	nès
+17.53	if	jéi
+17.53	if	jéigu
+17.54	or	ar̃
+17.54	or	arbà
+17.55	yes, affirmative	taĩp
+17.55	yes, affirmative	teĩgiamas
+17.56	no, negative	nè
+17.56	no, negative	neĩgiamas
+17.61	how?	kaĩp?
+17.62	how many?	kíek?
+17.63	how much?	kíek?
+17.64	what?	kàs?
+17.64	what?	ką̃?
+17.65	when?	kadà?
+17.66	where?	kur̃?
+17.66	where?	kamè?
+17.67	which?	kóks?
+17.67	which?	kurìs?
+17.67	which?	katràs?
+17.68	who?	kàs?
+17.69	why?	kodẽ̇l?
+18.11	voice	bal̃sas
+18.12	sing	dainúoti
+18.12	sing	giedóti
+18.13	shout, cry out	rẽ̇kti
+18.13	shout, cry out	šaũkti
+18.15	whisper	šnabždé̇ti
+18.16	mumble	murmé̇ti
+18.16	mumble	burbé̇ti
+18.17	whistle	švil̃pti
+18.17	whistle	švìlpauti
+18.18	shriek, screech	klỹkti
+18.18	shriek, screech	spiẽgti
+18.18	shriek, screech	rẽ̇kti
+18.19	howl	stáugti
+18.19	howl	kaũkti
+18.21	speak, talk	kalbé̇ti
+18.21	speak, talk	šneké̇ti
+18.211	stutter, stammer	mikčióti
+18.22	say	sakýti
+18.22	say	tar̃ti
+18.22	say	kalbé̇ti
+18.221	tell story	papãsakoti
+18.221	tell story	pasèktipãsaką
+18.222	speech (make a)	sakýtikãlbą
+18.23	silent (be)	tylé̇ti
+18.24	language	kalbà
+18.26	word	žõdis
+18.28	name	var̃das
+18.31	ask (question, inquire)	kláusti
+18.32	answer	atsakýti
+18.33	admit, confess	pripažìnti
+18.33	admit, confess	išpažìnti
+18.34	deny	neĩgti
+18.34	deny	išsigìnti
+18.35	ask, request	prašýti
+18.36	promise	žadé̇ti
+18.37	refuse	atsakýti
+18.38	forbid	draũsti
+18.39	rebuke, scold	priekaištáuti
+18.39	rebuke, scold	papeĩkti
+18.39	rebuke, scold	bárti
+18.41	call (=summon)	pašaũkti
+18.41	call (=summon)	iššaũkti
+18.41	call (=summon)	kviẽsti
+18.42	call (=name)	vadìnti
+18.42	call (=name)	pramiɲti
+18.43	announce	skélbti
+18.43	announce	pranèšti
+18.44	threaten	grasìnti
+18.44	threaten	grẽ̇sti
+18.45	boast	gìrtis
+18.45	boast	didžiúotis
+18.51	write	rašýti
+18.52	read	skaitýti
+18.56	paper	põpierius
+18.57	pen	plùnksna
+18.61	book	knygà
+18.67	poet	poètas
+18.71	flute	fleità
+18.72	drum	bũ̄gnas
+18.73	horn, trumpet	rãgas
+18.73	horn, trumpet	trimìtas
+18.74	rattle	bar̃škalas
+18.74	rattle	barškùtis
+19.11	country	krãštas
+19.11	country	šalìs
+19.12	one's native country	tėvỹnė
+19.15	city, town	miẽstas
+19.16	village	káimas
+19.17	boundary	ribà
+19.17	boundary	síena
+19.21	people (populace)	žmónės
+19.21	people (populace)	liáudis
+19.23	tribe, clan	gentìs
+19.24	chief, chieftain	vãdas
+19.25	staff, walking stick	lazdà
+19.25	staff, walking stick	lazdẽlė
+19.31	rule, govern	valdýti
+19.31	rule, govern	viešpatáuti
+19.31	rule, govern	vadováuti
+19.32	king, ruler	karãlius
+19.33	queen	karalíenė
+19.36	noble, nobleman	bajõras
+19.36	noble, nobleman	didìkas
+19.37	citizen, subject	piliẽtis
+19.37	citizen, subject	valdinỹs
+19.41	master	šeiminiɲkas
+19.41	master	saviniɲkas
+19.41	master	põnas
+19.42	slave	vérgas
+19.43	servant	tar̃nas
+19.43	servant	tarnáutojas
+19.44	freeman	laĩsvasžmogùs
+19.45	command, order	liẽpti
+19.45	command, order	įsakýti
+19.46	obey	klausýti
+19.46	obey	paklùsti
+19.47	let, permit	léisti
+19.51	friend, companion	draũgas
+19.51	friend, companion	bičiùlis
+19.51	friend, companion	kompaniònas
+19.52	enemy	príešas
+19.54	neighbor	kaimýnas
+19.55	stranger	svẽtimasžmogùs
+19.56	guest	svẽčias
+19.57	host	šeiminiɲkas
+19.58	help, aid	gélbėti
+19.58	help, aid	padé̇ti
+19.59	hinder, prevent	kliudýti
+19.59	hinder, prevent	trukdýti
+19.61	custom	paprotỹs
+19.62	strife, quarrel	giɲčas
+19.62	strife, quarrel	bar̃nis
+19.62	strife, quarrel	vaĩdas
+19.62	strife, quarrel	kivir̃čas
+19.63	conspiracy, plot	są́mokslas
+19.65	meet	sutìkti
+19.72	prostitute	prostitùtė
+20.11	fight (vb)	kovóti
+20.11	fight (vb)	káutis
+20.11	fight (vb)	mùštis
+20.13	war, battle	kãras
+20.13	war, battle	kovà
+20.13	war, battle	mũ̄šis
+20.14	peace	taikà
+20.15	army	kariúomenė
+20.17	soldier	kareĩvis
+20.21	weapons, arms	giɲklai
+20.22	club	lazdà
+20.22	club	kúoka
+20.222	battle-ax	bardìšius
+20.222	battle-ax	ilgakõtis
+20.222	battle-ax	kir̃vis
+20.23	sling	laidỹnė
+20.23	sling	mėtỹklė
+20.24	bow	laɲkas
+20.25	arrow	strėlẽ̇
+20.26	spear	íetis
+20.26	spear	iẽšmas
+20.27	sword	kárdas
+20.27	sword	kalavìjas
+20.28	gun, cannon	šáutuvas
+20.28	gun, cannon	patránka
+20.31	armor (defensive)	šarvaĩ
+20.31	armor (defensive)	apsiginklãvimas
+20.33	helmet	šálmas
+20.34	shield	skỹdas
+20.35	fortress	tvirtóvė
+20.36	tower	bókštas
+20.41	victory	pérgalė
+20.41	victory	laimé̇jimas
+20.42	defeat	pralaimé̇jimas
+20.43	attack	pùlti
+20.43	attack	atakúoti
+20.44	defend	gìnti
+20.44	defend	sáugoti
+20.45	retreat	atsitráukti
+20.46	surrender	pasidúoti
+20.47	captive, prisoner	kalinỹs
+20.471	guard, sentinel	sárgas
+20.48	booty, spoils	grõbis
+20.48	booty, spoils	laimìkis
+20.49	ambush	pasalà
+20.51	fisherman	žvejỹs
+20.52	fishhook	kabliùkas
+20.53	fishing line	meškerẽ̇svãlas
+20.54	fishnet	tiɲklas
+20.55	fish trap	varžà
+20.55	fish trap	bùčius
+20.56	bait	mãsalas
+20.56	bait	jaũkas
+20.61	hunt	medžióti
+20.62	shoot	šáuti
+20.62	shoot	šáudyti
+20.63	miss (target)	nepatáikyti
+20.64	trap (noun)	spą́stai
+20.65	trap (vb)	pagáuti
+20.65	trap (vb)	vilióti
+21.11	law	téisė
+21.15	court	teĩsmas
+21.16	judge (vb)	teĩsti
+21.16	judge (vb)	sprę́sti
+21.17	judgment	núosprendis
+21.18	judge (noun)	teisé̇jas
+21.21	plaintiff	ieškõvas
+21.22	defendant	teisiamàsis
+21.22	defendant	atsakõvas
+21.22	defendant	káltinamasis
+21.23	witness	liùdininkas
+21.23	witness	liùdytojas
+21.24	swear	prisíekti
+21.25	oath	príesaika
+21.31	accuse	káltinti
+21.32	condemn	nuteĩsti
+21.32	condemn	smer̃kti
+21.33	convict (vb)	pripažìntikaltù
+21.33	convict (vb)	nuteĩsti
+21.34	acquit	ištéisinti
+21.35	guilty	kal̃tas
+21.36	innocent	nekal̃tas
+21.37	penalty, punishment	baudà
+21.37	penalty, punishment	bausmẽ̇
+21.38	fine	baudà
+21.39	prison, jail	kalé̇jimas
+21.42	murder	žmogžudỹstė
+21.43	adultery	neištikimýbė
+21.43	adultery	svetimãvimas
+21.44	rape	išprievartãvimas
+21.44	rape	išžãginimas
+21.46	arson	padegìmas
+21.47	perjury	príesaikos
+21.47	perjury	suláužymas
+21.51	steal	võgti
+21.52	thief	vagìs
