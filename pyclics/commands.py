@@ -88,6 +88,49 @@ def get_coverage(verbose=False):
         f.write(out)
     return concepts
 
+def get_colexification_dump(verbose=False):
+    colexifications = {}
+    with UnicodeReader(clics_path('stats', 'concepts.csv')) as reader:
+        _tmp = list(reader)
+    with UnicodeReader(clics_path('stats', 'languages.csv')) as reader:
+        languages = [line[0] for line in reader]
+    with UnicodeReader(clics_path('stats', 'colexifications.csv')) as reader:
+        all_colexifications = [(line[0],line[1]) for line in reader][1:]
+    concepts = dict([(x[0], dict(zip(_tmp[0], x))) for x in _tmp[1:]])
+
+    mydump = open(clics_path('dumps', 'dump.csv'), 'w')
+
+    for i, f in enumerate(clics_files):
+        if verbose: print('[{1}] Converting file {0}...'.format(os.path.split(f)[-1], i+1))
+        wl = read_cldf_wordlist(f, glottolog=glottolog, metadata=True)
+        if wl['meta']['identifier'] in languages:
+            cols = full_colexification(wl, key='Parameter_ID', entry='Clics_Value',
+                    indices='identifiers')
+            tmp = set()
+            for k, v in cols.items():
+                for (conceptA, idxA), (conceptB, idxB) in combinations(v, r=2):
+                    if conceptA != conceptB:
+                        tmp.add((conceptA, conceptB))
+                        tmp.add((conceptB, conceptA))
+                mydump.write(','.join([
+                    wl['meta']['family'], wl['meta']['identifier'],
+                    concepticon[v[0][0]]['GLOSS'],
+                    concepticon[v[0][0]]['GLOSS'], '1'])+'\n')
+            for cidxA, cidxB in all_colexifications:
+                if (cidxA, cidxB) in tmp:
+                    mydump.write(','.join([
+                        wl['meta']['family'], 
+                        wl['meta']['identifier'],
+                        concepticon[cidxA]['GLOSS'],
+                        concepticon[cidxB]['GLOSS'], '1'])+'\n')
+                else:
+                    mydump.write(','.join([
+                        wl['meta']['family'], 
+                        wl['meta']['identifier'],
+                        concepticon[cidxA]['GLOSS'],
+                        concepticon[cidxB]['GLOSS'], '-1'])+'\n')
+    mydump.close()
+
 def get_colexification_graph(threshold=5, edgefilter='families', verbose=False):
     colexifications = {}
     with UnicodeReader(clics_path('stats', 'concepts.csv')) as reader:
@@ -108,15 +151,18 @@ def get_colexification_graph(threshold=5, edgefilter='families', verbose=False):
                     indices='identifiers')
             for k, v in cols.items():
                 for (conceptA, idxA), (conceptB, idxB) in combinations(v, r=2):
-                    if G.edge.get(conceptA, {}).get(conceptB, False):
-                        G.edge[conceptA][conceptB]['words'].add((idxA, idxB))
-                        G.edge[conceptA][conceptB]['languages'].add(wl['meta']['identifier'])
-                        G.edge[conceptA][conceptB]['families'].add(wl['meta']['family'])
-                    else:
-                        G.add_edge(conceptA, conceptB, words=set([(idxA, idxB)]),
-                                languages=set([wl['meta']['identifier']]),
-                                families=set([wl['meta']['family']]))
+                    # check for identical concept resulting from word-variants
+                    if conceptA != conceptB:
+                        if G.edge.get(conceptA, {}).get(conceptB, False):
+                            G.edge[conceptA][conceptB]['words'].add((idxA, idxB))
+                            G.edge[conceptA][conceptB]['languages'].add(wl['meta']['identifier'])
+                            G.edge[conceptA][conceptB]['families'].add(wl['meta']['family'])
+                        else:
+                            G.add_edge(conceptA, conceptB, words=set([(idxA, idxB)]),
+                                    languages=set([wl['meta']['identifier']]),
+                                    families=set([wl['meta']['family']]))
     ignore_edges = []
+    out = 'EdgeA,EdgeB,FamilyWeight,LanguageWeight,WordWeight\n'
     for edgeA, edgeB, data in G.edges(data=True):
         data['WordWeight'] = len(data['words'])
         data['words'] = ';'.join(sorted(['{0}/{1}'.format(x, y) for x, y in
@@ -131,11 +177,17 @@ def get_colexification_graph(threshold=5, edgefilter='families', verbose=False):
             ignore_edges += [(edgeA, edgeB)]
         elif edgefilter == 'words' and data['WordWeight'] < threshold:
             ignore_edges += [(edgeA, edgeB)]
+        out += ','.join([str(x) for x in [
+            edgeA, edgeB, data['FamilyWeight'], data['LanguageWeight'],
+            data['WordWeight']]])+'\n'
+
     G.remove_edges_from(ignore_edges)
     
     save_network(clics_path('graphs', 'network.gml'), G)
     with open(clics_path('graphs', 'network.bin'), 'wb') as f:
         pickle.dump(G, f)
+    with open(clics_path('stats', 'colexifications.csv'), 'w') as f:
+        f.write(out)
     
 
 if __name__ == '__main__':
@@ -165,4 +217,7 @@ if __name__ == '__main__':
 
         if 'languages' in argv:
             get_languages(verbose=verbose)
+        
+        if 'dump' in argv:
+            get_colexification_dump(verbose=verbose)
 
