@@ -1,7 +1,7 @@
 # Languages in CLICS
 
 Number | Language | Family | Size | Source
---- | --- | --- | --- | ---
+--- | --- | --- | --- | --- 
 1 | [Tlingit](http://glottolog.org/resource/languoid/id/tlin1245) | Athapaskan-Eyak-Tlingit [atha1245] | 1331 | IDS 
 2 | [Dargwa (Gapshima Shukti dialect)](http://glottolog.org/resource/languoid/id/darg1241) | Nakh-Daghestanian [nakh1245] | 1542 | IDS 
 3 | [Manange](http://glottolog.org/resource/languoid/id/mana1288) | Sino-Tibetan [sino1245] | 1126 | WOLD 
@@ -15,15 +15,15 @@ Number | Language | Family | Size | Source
 11 | [Nahuatl (Sierra de Zacapoaxtla variety)](http://glottolog.org/resource/languoid/id/high1278) | Uto-Aztecan [utoa1244] | 1410 | IDS 
 12 | [Imbabura Quechua](http://glottolog.org/resource/languoid/id/imba1240) | Quechuan [quec1387] | 1297 | WOLD 
 13 | [Hlai (Baoting variety)](http://glottolog.org/resource/languoid/id/hlai1239) | Tai-Kadai [taik1256] | 1280 | IDS 
-14 | [Mosetén](http://glottolog.org/resource/languoid/id/mose1249) | NAN | 1129 | IDS 
+14 | [Mosetén](http://glottolog.org/resource/languoid/id/mose1249) | NAN-2 | 1129 | IDS 
 15 | [Chechen](http://glottolog.org/resource/languoid/id/chec1245) | Nakh-Daghestanian [nakh1245] | 1705 | IDS 
 16 | [Chipaya](http://glottolog.org/resource/languoid/id/chip1262) | Uru-Chipaya [uruc1242] | 1004 | IDS 
 17 | [Old Church Slavonic](http://glottolog.org/resource/languoid/id/chur1257) | Indo-European [indo1319] | 1207 | IDS 
 18 | [Mari](http://glottolog.org/resource/languoid/id/east2328) | Uralic [ural1272] | 1460 | IDS 
 19 | [Prai](http://glottolog.org/resource/languoid/id/pray1239) | Austroasiatic [aust1305] | 2190 | IDS 
 20 | [Keme (Kemie variety)](http://glottolog.org/resource/languoid/id/manm1238) | Austroasiatic [aust1305] | 1086 | IDS 
-21 | [Cayuvava](http://glottolog.org/resource/languoid/id/cayu1262) | NAN | 1043 | IDS 
-22 | [Cofán](http://glottolog.org/resource/languoid/id/cofa1242) | NAN | 1466 | IDS 
+21 | [Cayuvava](http://glottolog.org/resource/languoid/id/cayu1262) | NAN-3 | 1043 | IDS 
+22 | [Cofán](http://glottolog.org/resource/languoid/id/cofa1242) | NAN-4 | 1466 | IDS 
 23 | [Sakha](http://glottolog.org/resource/languoid/id/yaku1245) | Turkic [turk1311] | 1613 | WOLD 
 24 | [Tsez (Mokok dialect) ](http://glottolog.org/resource/languoid/id/dido1241) | Nakh-Daghestanian [nakh1245] | 1523 | IDS 
 25 | [Sui](http://glottolog.org/resource/languoid/id/suii1243) | Tai-Kadai [taik1256] | 1521 | IDS 
@@ -36,7 +36,7 @@ Number | Language | Family | Size | Source
 32 | [Archi (variety 1)](http://glottolog.org/resource/languoid/id/arch1244) | Nakh-Daghestanian [nakh1245] | 1364 | IDS 
 33 | [Nyakur](http://glottolog.org/resource/languoid/id/nyah1250) | Austroasiatic [aust1305] | 1158 | IDS 
 34 | [Tsakhur](http://glottolog.org/resource/languoid/id/tsak1249) | Nakh-Daghestanian [nakh1245] | 1440 | IDS 
-35 | [Waorani](http://glottolog.org/resource/languoid/id/waor1240) | NAN | 1230 | IDS 
+35 | [Waorani](http://glottolog.org/resource/languoid/id/waor1240) | NAN-8 | 1230 | IDS 
 36 | [Pusing](http://glottolog.org/resource/languoid/id/bitt1240) | Austroasiatic [aust1305] | 1336 | IDS 
 37 | [Cavineña](http://glottolog.org/resource/languoid/id/cavi1250) | Tacanan [taca1255] | 1003 | IDS 
 38 | [Irish](http://glottolog.org/resource/languoid/id/iris1253) | Indo-European [indo1319] | 2420 | IDS 
@@ -66,7 +66,7 @@ Number | Language | Family | Size | Source
 62 | [Spanish](http://glottolog.org/resource/languoid/id/stan1288) | Indo-European [indo1319] | 1758 | IDS 
 63 | [Selknam](http://glottolog.org/resource/languoid/id/onaa1245) | Chonan [chon1288] | 864 | IDS 
 64 | [Malagasy](http://glottolog.org/resource/languoid/id/plat1254) | Austronesian [aust1307] | 1684 | WOLD 
-65 | [Kunza](http://glottolog.org/resource/languoid/id/kunz1244) | NAN | 895 | IDS 
+65 | [Kunza](http://glottolog.org/resource/languoid/id/kunz1244) | NAN-15 | 895 | IDS 
 66 | [Marathi](http://glottolog.org/resource/languoid/id/mara1378) | Indo-European [indo1319] | 1590 | IDS 
 67 | [Chácobo](http://glottolog.org/resource/languoid/id/chac1251) | Panoan [pano1256] | 1018 | IDS 
 68 | [Tuamotuan](http://glottolog.org/resource/languoid/id/tuam1242) | Austronesian [aust1307] | 1373 | IDS 
@@ -113,7 +113,7 @@ Number | Language | Family | Size | Source
 109 | [Tacana](http://glottolog.org/resource/languoid/id/taca1256) | Tacanan [taca1255] | 1188 | IDS 
 110 | [Pilagá](http://glottolog.org/resource/languoid/id/pila1245) | Guaicuruan [guai1249] | 1206 | IDS 
 111 | [French](http://glottolog.org/resource/languoid/id/stan1290) | Indo-European [indo1319] | 1638 | IDS 
-112 | [Movima](http://glottolog.org/resource/languoid/id/movi1243) | NAN | 1038 | IDS 
+112 | [Movima](http://glottolog.org/resource/languoid/id/movi1243) | NAN-24 | 1038 | IDS 
 113 | [Kali'na](http://glottolog.org/resource/languoid/id/gali1262) | Cariban [cari1283] | 1282 | WOLD 
 114 | [Portuguese](http://glottolog.org/resource/languoid/id/port1283) | Indo-European [indo1319] | 1674 | IDS 
 115 | [Wai Wai](http://glottolog.org/resource/languoid/id/waiw1244) | Cariban [cari1283] | 1011 | IDS 
@@ -125,7 +125,7 @@ Number | Language | Family | Size | Source
 121 | [Ceq Wong](http://glottolog.org/resource/languoid/id/chew1245) | Austroasiatic [aust1305] | 946 | WOLD 
 122 | [Negerhollands](http://glottolog.org/resource/languoid/id/nege1244) | Indo-European [indo1319] | 974 | IDS 
 123 | [Jamaican Creole (Limonese Creole dialect)](http://glottolog.org/resource/languoid/id/jama1262) | Indo-European [indo1319] | 1594 | IDS 
-124 | [Puinave](http://glottolog.org/resource/languoid/id/puin1248) | NAN | 1135 | IDS 
+124 | [Puinave](http://glottolog.org/resource/languoid/id/puin1248) | NAN-27 | 1135 | IDS 
 125 | [Karata](http://glottolog.org/resource/languoid/id/kara1474) | Nakh-Daghestanian [nakh1245] | 1484 | IDS 
 126 | [Mang VN](http://glottolog.org/resource/languoid/id/mang1378) | Austroasiatic [aust1305] | 883 | IDS 
 127 | [Cayapa](http://glottolog.org/resource/languoid/id/chac1249) | Barbacoan [barb1265] | 1553 | IDS 
@@ -181,7 +181,7 @@ Number | Language | Family | Size | Source
 177 | [Waurá](http://glottolog.org/resource/languoid/id/waur1244) | Arawakan [araw1281] | 1239 | IDS 
 178 | [Avar](http://glottolog.org/resource/languoid/id/avar1256) | Nakh-Daghestanian [nakh1245] | 1534 | IDS 
 179 | [Langja Buyang](http://glottolog.org/resource/languoid/id/emab1235) | Tai-Kadai [taik1256] | 1153 | IDS 
-180 | [Karok](http://glottolog.org/resource/languoid/id/karo1304) | NAN | 845 | IDS 
+180 | [Karok](http://glottolog.org/resource/languoid/id/karo1304) | NAN-38 | 845 | IDS 
 181 | [Hunzib](http://glottolog.org/resource/languoid/id/hunz1247) | Nakh-Daghestanian [nakh1245] | 1529 | IDS 
 182 | [Dutch](http://glottolog.org/resource/languoid/id/dutc1256) | Indo-European [indo1319] | 1588 | WOLD 
 183 | [Bulgarian](http://glottolog.org/resource/languoid/id/bulg1262) | Indo-European [indo1319] | 2023 | IDS 
@@ -193,8 +193,8 @@ Number | Language | Family | Size | Source
 189 | [Punjabi](http://glottolog.org/resource/languoid/id/west2386) | Indo-European [indo1319] | 1602 | IDS 
 190 | [Barí](http://glottolog.org/resource/languoid/id/bari1297) | Chibchan [chib1249] | 465 | IDS 
 191 | [Pear](http://glottolog.org/resource/languoid/id/pear1247) | Austroasiatic [aust1305] | 1148 | IDS 
-192 | [Yuwana](http://glottolog.org/resource/languoid/id/yuwa1244) | NAN | 973 | IDS 
-193 | [Seri](http://glottolog.org/resource/languoid/id/seri1257) | NAN | 1290 | IDS 
+192 | [Yuwana](http://glottolog.org/resource/languoid/id/yuwa1244) | NAN-41 | 973 | IDS 
+193 | [Seri](http://glottolog.org/resource/languoid/id/seri1257) | NAN-42 | 1290 | IDS 
 194 | [Xu](http://glottolog.org/resource/languoid/id/huuu1240) | Austroasiatic [aust1305] | 997 | IDS 
 195 | [Azerbaijani (Terekeme dialect)](http://glottolog.org/resource/languoid/id/nort2697) | Turkic [turk1311] | 1469 | IDS 
 196 | [Chatino (Zacatepec variety)](http://glottolog.org/resource/languoid/id/zaca1242) | Otomanguean [otom1299] | 1552 | IDS 
@@ -202,11 +202,11 @@ Number | Language | Family | Size | Source
 198 | [Rutul (Borchino Khnow dialect)](http://glottolog.org/resource/languoid/id/rutu1240) | Nakh-Daghestanian [nakh1245] | 1396 | IDS 
 199 | [Hup](http://glottolog.org/resource/languoid/id/hupd1244) | Nadahup [nada1235] | 1178 | WOLD 
 200 | [Yaminahua](http://glottolog.org/resource/languoid/id/yami1256) | Panoan [pano1256] | 1347 | IDS 
-201 | [Zuni](http://glottolog.org/resource/languoid/id/zuni1245) | NAN | 979 | IDS 
+201 | [Zuni](http://glottolog.org/resource/languoid/id/zuni1245) | NAN-45 | 979 | IDS 
 202 | [Tuyuca](http://glottolog.org/resource/languoid/id/tuyu1244) | Tucanoan [tuca1253] | 1061 | IDS 
-203 | [Gününa Küne](http://glottolog.org/resource/languoid/id/puel1244) | NAN | 756 | IDS 
+203 | [Gününa Küne](http://glottolog.org/resource/languoid/id/puel1244) | NAN-46 | 756 | IDS 
 204 | [Ese Ejja](http://glottolog.org/resource/languoid/id/esee1248) | Tacanan [taca1255] | 949 | IDS 
-205 | [Yaruro](http://glottolog.org/resource/languoid/id/pume1238) | NAN | 1138 | IDS 
+205 | [Yaruro](http://glottolog.org/resource/languoid/id/pume1238) | NAN-48 | 1138 | IDS 
 206 | [Avar (East Gergebil dialect)](http://glottolog.org/resource/languoid/id/avar1256) | Nakh-Daghestanian [nakh1245] | 1748 | IDS 
 207 | [Kme-2 (Kemie variety)](http://glottolog.org/resource/languoid/id/manm1238) | Austroasiatic [aust1305] | 1204 | IDS 
 208 | [Romani](http://glottolog.org/resource/languoid/id/vlax1238) | Indo-European [indo1319] | 1659 | IDS 
@@ -216,12 +216,12 @@ Number | Language | Family | Size | Source
 212 | [Maori](http://glottolog.org/resource/languoid/id/maor1246) | Austronesian [aust1307] | 2161 | IDS 
 213 | [Andi](http://glottolog.org/resource/languoid/id/andi1255) | Nakh-Daghestanian [nakh1245] | 1545 | IDS 
 214 | [Bagvalal](http://glottolog.org/resource/languoid/id/bagv1239) | Nakh-Daghestanian [nakh1245] | 1548 | IDS 
-215 | [Páez](http://glottolog.org/resource/languoid/id/paez1247) | NAN | 1203 | IDS 
+215 | [Páez](http://glottolog.org/resource/languoid/id/paez1247) | NAN-51 | 1203 | IDS 
 216 | [Botlikh (Miarso dialect)](http://glottolog.org/resource/languoid/id/botl1242) | Nakh-Daghestanian [nakh1245] | 1523 | IDS 
 217 | [Thai](http://glottolog.org/resource/languoid/id/thai1261) | Tai-Kadai [taik1256] | 2100 | WOLD 
 218 | [Southern Tai (Songkhla variety)](http://glottolog.org/resource/languoid/id/sout2746) | Tai-Kadai [taik1256] | 1388 | IDS 
 219 | [Erzya Mordvin](http://glottolog.org/resource/languoid/id/erzy1239) | Uralic [ural1272] | 1357 | IDS 
-220 | [Itonama](http://glottolog.org/resource/languoid/id/iton1250) | NAN | 902 | IDS 
+220 | [Itonama](http://glottolog.org/resource/languoid/id/iton1250) | NAN-54 | 902 | IDS 
 221 | [Maca](http://glottolog.org/resource/languoid/id/maca1260) | Matacoan [mata1289] | 1024 | IDS 
 222 | [Modern Greek](http://glottolog.org/resource/languoid/id/mode1248) | Indo-European [indo1319] | 1720 | IDS 
 223 | [Upper Chehalis](http://glottolog.org/resource/languoid/id/uppe1439) | Salishan [sali1255] | 346 | IDS 
@@ -245,7 +245,7 @@ Number | Language | Family | Size | Source
 241 | [Thavung So](http://glottolog.org/resource/languoid/id/aheu1239) | Austroasiatic [aust1305] | 21 | IDS 
 242 | [Azerbaijani](http://glottolog.org/resource/languoid/id/nort2697) | Turkic [turk1311] | 1761 | IDS 
 243 | [Central Thai](http://glottolog.org/resource/languoid/id/thai1261) | Tai-Kadai [taik1256] | 1754 | IDS 
-244 | [Yagán](http://glottolog.org/resource/languoid/id/yama1264) | NAN | 715 | IDS 
+244 | [Yagán](http://glottolog.org/resource/languoid/id/yama1264) | NAN-61 | 715 | IDS 
 245 | [Khasi](http://glottolog.org/resource/languoid/id/khas1269) | Austroasiatic [aust1305] | 1250 | IDS 
 246 | [Macushi](http://glottolog.org/resource/languoid/id/macu1259) | Cariban [cari1283] | 946 | IDS 
 247 | [Dargwa (Muiri dialect)](http://glottolog.org/resource/languoid/id/darg1241) | Nakh-Daghestanian [nakh1245] | 1540 | IDS 
@@ -266,7 +266,7 @@ Number | Language | Family | Size | Source
 262 | [Bezhta](http://glottolog.org/resource/languoid/id/bezh1248) | Nakh-Daghestanian [nakh1245] | 1472 | WOLD 
 263 | [Kryz](http://glottolog.org/resource/languoid/id/kryt1240) | Nakh-Daghestanian [nakh1245] | 1473 | IDS 
 264 | [Botlikh](http://glottolog.org/resource/languoid/id/botl1242) | Nakh-Daghestanian [nakh1245] | 1430 | IDS 
-265 | [Elamite](http://glottolog.org/resource/languoid/id/elam1244) | NAN | 730 | IDS 
+265 | [Elamite](http://glottolog.org/resource/languoid/id/elam1244) | NAN-66 | 730 | IDS 
 266 | [Ket](http://glottolog.org/resource/languoid/id/kett1243) | Yeniseian [yeni1252] | 1273 | WOLD 
 267 | [Bulang](http://glottolog.org/resource/languoid/id/blan1242) | Austroasiatic [aust1305] | 1149 | IDS 
 268 | [Chadong](http://glottolog.org/resource/languoid/id/chad1240) | Tai-Kadai [taik1256] | 1257 | IDS 
@@ -290,8 +290,8 @@ Number | Language | Family | Size | Source
 286 | [Bengali](http://glottolog.org/resource/languoid/id/beng1280) | Indo-European [indo1319] | 1378 | IDS 
 287 | [Kumyk (Karabudakhkent dialect)](http://glottolog.org/resource/languoid/id/kumy1244) | Turkic [turk1311] | 1724 | IDS 
 288 | [Pacaas Novos](http://glottolog.org/resource/languoid/id/wari1268) | Chapacuran [chap1271] | 227 | IDS 
-289 | [Basque](http://glottolog.org/resource/languoid/id/basq1248) | NAN | 1497 | IDS 
-290 | [Trumai](http://glottolog.org/resource/languoid/id/trum1247) | NAN | 665 | IDS 
+289 | [Basque](http://glottolog.org/resource/languoid/id/basq1248) | NAN-70 | 1497 | IDS 
+290 | [Trumai](http://glottolog.org/resource/languoid/id/trum1247) | NAN-73 | 665 | IDS 
 291 | [Gurindji](http://glottolog.org/resource/languoid/id/guri1247) | Pama-Nyungan [pama1250] | 1028 | WOLD 
 292 | [Paliu](http://glottolog.org/resource/languoid/id/boly1239) | Austroasiatic [aust1305] | 1033 | IDS 
 293 | [Tsimshian](http://glottolog.org/resource/languoid/id/nucl1649) | Tsimshian [tsim1258] | 806 | IDS 
