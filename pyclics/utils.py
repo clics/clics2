@@ -25,6 +25,10 @@ def load_concepticon():
     concepticon = dict([
         (line['ID'], line) for line in Concepticon().conceptsets()
         ])
+    with UnicodeReader(clics_path('metadata', 'semantic_fields.csv')) as reader:
+        for a, b, c in reader:
+            concepticon[a]['WORDNET_FIELD'] = b
+            concepticon[a]['HYPERNYM'] = c
     return concepticon
 
 def slug(word):

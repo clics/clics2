@@ -17,8 +17,6 @@ def check(word):
     if ',' in str(word): return '"'+str(word)+'"'
     return str(word)
 
-
-
 def load_ids(verbose=False):
     files = glob(lexibank_path('ids', 'cldf', '*.csv'))
     for i, f in enumerate([x for x in files if 'cognates.csv' not in x]):
@@ -96,7 +94,8 @@ def get_articulationpoints(graphname='network', edgefilter='families',
     for node, data in graph.nodes(data=True):
         coms[data['infomap']] += [node]
     _tmp = []
-    for com, nodes in sorted(coms.items(), key=lambda x: len(x[1])):
+    for com, nodes in sorted(coms.items(), key=lambda x: len(x[1]),
+            reverse=True):
         if len(nodes) > 5:
             subgraph = graph.subgraph(nodes)
             degrees = subgraph.degree(list(subgraph.nodes()))
@@ -113,7 +112,7 @@ def get_articulationpoints(graphname='network', edgefilter='families',
                     com, graph.node[cnode]['Gloss'], 
                     graph.node[artip]['Gloss']))
                 _tmp += [(artip, graph.node[artip]['Gloss'], 
-                    com, cnode, graph.node[cnode]['Gloss'])]
+                    com, cnode, graph.node[cnode]['Gloss'], len(nodes))]
             if verbose: print('')
     for node, data in graph.nodes(data=True):
         if not 'ArticulationPoint' in data:
@@ -121,13 +120,15 @@ def get_articulationpoints(graphname='network', edgefilter='families',
         if not 'DegreeCentrality' in data:
             data['DegreeCentrality'] = 0
 
-    out = 'ConcepticonId,ConcepticonGloss,Community,CentralNode,CentralNodeGloss\n'
+    out = 'ConcepticonId,ConcepticonGloss,Community,CommunitySize,CentralNode,CentralNodeGloss\n'
     md = '# Articulation Points (Analysis {0} / {1})\n\n'.format(threshold,
             edgefilter)
-    md += 'Concept | Community | CentralNode \n --- | --- | --- \n'
-    for line in _tmp:
+    md += 'Number | Concept | Community | CommunitySize | CentralNode \n'
+    md += '--- | --- | --- | --- | --- \n'
+    for i, line in enumerate(_tmp):
         out += ','.join([check(w) for w in line])+'\n'
-        md += '[{0[1]}]({0[0]}) | {0[2]} | [{0[4]}]({0[3]}) \n'.format(line)
+        md += '{1} | [{0[1]}]({0[0]}) | {0[2]} | {0[5]} | [{0[4]}]({0[3]}) \n'.format(
+                line, i+1)
     
     with open(clics_path('stats',
         'articulationpoints-{0}-{1}.csv'.format(threshold, edgefilter)), 'w') as f:
@@ -140,8 +141,36 @@ def get_articulationpoints(graphname='network', edgefilter='families',
         edgefilter
         )), graph)
 
+def get_transitions(graphname='network', threshold=3, edgefilter='family',
+        verbose=True, aspect='SEMANTICFIELD', weight='FamilyWeight',
+        assymetric=True):
+    graph = pickle.load(open(clics_path('graphs', '{0}-{1}-{2}.bin'.format(
+        graphname, threshold, edgefilter)), 'rb'))
 
+    trs = defaultdict(list)
+    for nA, nB, data in graph.edges(data=True):
+        catA = concepticon[nA].get(aspect, '?')
+        catB = concepticon[nB].get(aspect, '?')
+        trs[catA, catB] += [(nA, nB, data[weight])]
+    
+    out = '# Transitions (Analysis t={0}, f={1})\n'.format(threshold,
+            edgefilter)
+    for (catA, catB),values in sorted(trs.items(), key=lambda x: len(x[1]),
+            reverse=True):
 
+        if len(values) > 2:
+            if (assymetric and catA != catB) or not assymetric:
+                if verbose: print('{0:40} -> {1:40} / {2}'.format(catA, catB,
+                    len(values))) 
+                out += '## {0} -> {1} / {2}\n'.format(catA, catB, len(values))
+                for a, b, c in values:
+                    out += '{0:20} -> {1:20} / {2}\n'.format(
+                            concepticon[a]['GLOSS'], concepticon[b]['GLOSS'],
+                            c)
+                out += '\n'
+    with open(clics_path('stats', 'transitions-{0}-{1}.md'.format(threshold,
+        edgefilter)), 'w') as f:
+        f.write(out)
 
 def get_communities(graphname='network', edge_weights='FamilyWeight',
         vertex_weights='FamilyFrequency', verbose=False, normalize=True,
@@ -307,9 +336,7 @@ def get_partialcolexification(cutoff=5, edgefilter='families', verbose=False,
         coms = defaultdict(list)
         for a, b, c in reader:
             coms[c] += [a]
-            print(a, c)
             G.node[a]['community'] = c
-
 
     for i, f in enumerate(clics_files):
         if verbose: print('[{1}] Converting file {0}...'.format(os.path.split(f)[-1], i+1))
@@ -351,7 +378,7 @@ def get_partialcolexification(cutoff=5, edgefilter='families', verbose=False,
             data['WordWeight']]])+'\n'
     G.remove_edges_from(ignore_edges)
 
-    save_network(clics_path('graphs', 'dinetwork-{0}-{1}.gml'.format(
+    save_network(clics_path('graphs', 'digraph-{0}-{1}.gml'.format(
         threshold,
         edgefilter
         )), G)
@@ -359,7 +386,10 @@ def get_partialcolexification(cutoff=5, edgefilter='families', verbose=False,
         threshold,
         edgefilter)), 'w') as f:
         f.write(out)
-
+    with open(clics_path('graphs', 'digraph-{0}-{1}.bin'.format(
+        threshold,
+        edgefilter)), 'wb') as f:
+        pickle.dump(G, f)
             
 
 
@@ -438,7 +468,8 @@ def main():
         print("Usage: clics [load|get] [ids|wold|colexification|coverage]")
     
     # basic parameters
-    verbose, threshold, edgefilter, normalize, graphname = False, 1, 'families', False, 'network'
+    verbose, threshold, edgefilter, normalize, graphname, weight, aspect = (False, 1, 
+            'families', False, 'network', 'FamilyWeight', 'WORDNET_FIELD')
     if '-v' in argv:
         verbose=True
     if '-t' in argv:
@@ -449,6 +480,10 @@ def main():
         normalize = True
     if '-g' in argv:
         graphname=argv[argv.index('-g')+1]
+    if '-w' in argv:
+        weight = argv[argv.index('-w')+1]
+    if '-a' in argv:
+        aspect = argv[argv.index('-a')+1]
 
     if 'load' in argv:
         if 'ids' in argv:
@@ -480,4 +515,9 @@ def main():
 
         if 'partialcolexification' in argv:
             get_partialcolexification(verbose=verbose, cutoff=5)
+
+        if 'transition' in argv:
+            get_transitions(verbose=verbose, threshold=threshold,
+                    edgefilter=edgefilter, weight=weight, graphname=graphname,
+                    aspect=aspect)
 

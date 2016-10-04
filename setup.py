@@ -13,5 +13,8 @@ setup(
         packages=find_packages(pkg_location),
         package_dir=pkg_dir,
         install_requires=['lingpy', 'clldutils', 'pylexibank'],
+        entry_points={
+            'console_scripts' : ['clics=pyclics.commands:main'],
+        },
         author='Johann-Mattis List'
         )
