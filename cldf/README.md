@@ -1,7 +1,8 @@
 # Languages in CLICS
 
 Number | Language | Family | Size | Source
---- | --- | --- | --- | ---1 | [Tlingit](http://glottolog.org/resource/languoid/id/tlin1245) | Athapaskan-Eyak-Tlingit [atha1245] | 1331 | IDS 
+--- | --- | --- | --- | ---
+1 | [Tlingit](http://glottolog.org/resource/languoid/id/tlin1245) | Athapaskan-Eyak-Tlingit [atha1245] | 1331 | IDS 
 2 | [Dargwa (Gapshima Shukti dialect)](http://glottolog.org/resource/languoid/id/darg1241) | Nakh-Daghestanian [nakh1245] | 1542 | IDS 
 3 | [Manange](http://glottolog.org/resource/languoid/id/mana1288) | Sino-Tibetan [sino1245] | 1126 | WOLD 
 4 | [Rumai](http://glottolog.org/resource/languoid/id/ruma1248) | Austroasiatic [aust1305] | 1028 | IDS 
