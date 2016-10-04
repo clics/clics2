@@ -12,15 +12,15 @@ southernkam_sout2741,Southern Kam,sout2741,Tai-Kadai [taik1256],109.22191,25.887
 nahuatlsierradezacapoaxtlavariety_high1278,Nahuatl (Sierra de Zacapoaxtla variety),high1278,Uto-Aztecan [utoa1244],-97.55562,20.15536
 imbaburaquechua_imba1240,Imbabura Quechua,imba1240,Quechuan [quec1387],-78.37286,0.31776
 hlaibaotingvariety_hlai1239,Hlai (Baoting variety),hlai1239,Tai-Kadai [taik1256],109.4587,18.80621
-moseten_mose1249,Mosetén,mose1249,NAN,-67.83756,-14.64448
+moseten_mose1249,Mosetén,mose1249,NAN-2,-67.83756,-14.64448
 chechen_chec1245,Chechen,chec1245,Nakh-Daghestanian [nakh1245],45.5,43.5
 chipaya_chip1262,Chipaya,chip1262,Uru-Chipaya [uruc1242],-67.89633,-18.73951
 oldchurchslavonic_chur1257,Old Church Slavonic,chur1257,Indo-European [indo1319],22.844237,43.717123
 mari_east2328,Mari,east2328,Uralic [ural1272],48.40502,55.8307
 prai_pray1239,Prai,pray1239,Austroasiatic [aust1305],101.02103,19.43064
 kemekemievariety_manm1238,Keme (Kemie variety),manm1238,Austroasiatic [aust1305],100.84153,22.07427
-cayuvava_cayu1262,Cayuvava,cayu1262,NAN,-65.48219,-13.24822
-cofan_cofa1242,Cofán,cofa1242,NAN,-77.064305,0.276675
+cayuvava_cayu1262,Cayuvava,cayu1262,NAN-3,-65.48219,-13.24822
+cofan_cofa1242,Cofán,cofa1242,NAN-4,-77.064305,0.276675
 sakha_yaku1245,Sakha,yaku1245,Turkic [turk1311],133.98031,61.69744
 tsezmokokdialect_dido1241,Tsez (Mokok dialect) ,dido1241,Nakh-Daghestanian [nakh1245],45.80959,42.26458
 sui_suii1243,Sui,suii1243,Tai-Kadai [taik1256],106.56279,24.048835
@@ -33,7 +33,7 @@ wayampi_waya1270,Wayampi,waya1270,Tupian [tupi1275],-52.688705,1.73817
 archivariety1_arch1244,Archi (variety 1),arch1244,Nakh-Daghestanian [nakh1245],46.82673,42.3239
 nyakur_nyah1250,Nyakur,nyah1250,Austroasiatic [aust1305],101.51465,15.89091
 tsakhur_tsak1249,Tsakhur,tsak1249,Nakh-Daghestanian [nakh1245],46.88585,41.59156
-waorani_waor1240,Waorani,waor1240,NAN,-76.68295,-1.12312
+waorani_waor1240,Waorani,waor1240,NAN-8,-76.68295,-1.12312
 pusing_bitt1240,Pusing,bitt1240,Austroasiatic [aust1305],101.915765,21.347375
 cavinena_cavi1250,Cavineña,cavi1250,Tacanan [taca1255],-66.62773,-13.35441
 irish_iris1253,Irish,iris1253,Indo-European [indo1319],-7.61509,53.21855
@@ -63,7 +63,7 @@ khwarshikwantladadialect_khva1239,Khwarshi (Kwantlada dialect),khva1239,Nakh-Dag
 spanish_stan1288,Spanish,stan1288,Indo-European [indo1319],-1.1178799999999998,40.4414175
 selknam_onaa1245,Selknam,onaa1245,Chonan [chon1288],-68.5,-54
 malagasy_plat1254,Malagasy,plat1254,Austronesian [aust1307],47.12111,-19.59065
-kunza_kunz1244,Kunza,kunz1244,NAN,-69.0,-23.0
+kunza_kunz1244,Kunza,kunz1244,NAN-15,-69.0,-23.0
 marathi_mara1378,Marathi,mara1378,Indo-European [indo1319],76.66649,17.93438
 chacobo_chac1251,Chácobo,chac1251,Panoan [pano1256],-66.71641,-12.13298
 tuamotuan_tuam1242,Tuamotuan,tuam1242,Austronesian [aust1307],-140.6576,-21.70902
@@ -110,7 +110,7 @@ chong_chon1284,Chong,chon1284,Austroasiatic [aust1305],102.51371499999999,12.521
 tacana_taca1256,Tacana,taca1256,Tacanan [taca1255],-68.04056,-13.39249
 pilaga_pila1245,Pilagá,pila1245,Guaicuruan [guai1249],-60.15372,-25.00585
 french_stan1290,French,stan1290,Indo-European [indo1319],2.0,48.0
-movima_movi1243,Movima,movi1243,NAN,-65.63482,-13.81152
+movima_movi1243,Movima,movi1243,NAN-24,-65.63482,-13.81152
 kalina_gali1262,Kali'na,gali1262,Cariban [cari1283],-56.832297999999994,5.837718000000001
 portuguese_port1283,Portuguese,port1283,Indo-European [indo1319],-4.18815,42.03412
 waiwai_waiw1244,Wai Wai,waiw1244,Cariban [cari1283],-59.14166,1.5088050000000002
@@ -122,7 +122,7 @@ aymara_cent2142,Aymara,cent2142,Aymara [ayma1253],-68.5,-17.0
 ceqwong_chew1245,Ceq Wong,chew1245,Austroasiatic [aust1305],102.08116,3.83331
 negerhollands_nege1244,Negerhollands,nege1244,Indo-European [indo1319],-64.89215,18.34155
 jamaicancreolelimonesecreoledialect_jama1262,Jamaican Creole (Limonese Creole dialect),jama1262,Indo-European [indo1319],-77.2612,18.13
-puinave_puin1248,Puinave,puin1248,NAN,-67.68860000000001,3.92974
+puinave_puin1248,Puinave,puin1248,NAN-27,-67.68860000000001,3.92974
 karata_kara1474,Karata,kara1474,Nakh-Daghestanian [nakh1245],46.31511,42.65005
 mangvn_mang1378,Mang VN,mang1378,Austroasiatic [aust1305],102.13320333333333,21.430453333333332
 cayapa_chac1249,Cayapa,chac1249,Barbacoan [barb1265],-79.0508,0.71489
@@ -178,7 +178,7 @@ siona_sion1247,Siona,sion1247,Tucanoan [tuca1253],-76.02367,0.31733
 waura_waur1244,Waurá,waur1244,Arawakan [araw1281],-53.69711,-13.29598
 avar_avar1256,Avar,avar1256,Nakh-Daghestanian [nakh1245],46.55802,41.70474
 langjabuyang_emab1235,Langja Buyang,emab1235,Tai-Kadai [taik1256],104.44861,23.0105
-karok_karo1304,Karok,karo1304,NAN,-123.31534,41.82283
+karok_karo1304,Karok,karo1304,NAN-38,-123.31534,41.82283
 hunzib_hunz1247,Hunzib,hunz1247,Nakh-Daghestanian [nakh1245],46.13691,42.08076
 dutch_dutc1256,Dutch,dutc1256,Indo-European [indo1319],5.0,52.0
 bulgarian_bulg1262,Bulgarian,bulg1262,Indo-European [indo1319],25.046986666666665,43.364585
@@ -190,8 +190,8 @@ oroqen_oroq1238,Oroqen,oroq1238,Tungusic [tung1282],125.01685,50.63193
 punjabi_west2386,Punjabi,west2386,Indo-European [indo1319],75.34742499999999,30.094839999999998
 bari_bari1297,Barí,bari1297,Chibchan [chib1249],-72.93525500000001,9.08497
 pear_pear1247,Pear,pear1247,Austroasiatic [aust1305],105.02774,13.593
-yuwana_yuwa1244,Yuwana,yuwa1244,NAN,-65.4267,5.63879
-seri_seri1257,Seri,seri1257,NAN,-112.38366,28.98767
+yuwana_yuwa1244,Yuwana,yuwa1244,NAN-41,-65.4267,5.63879
+seri_seri1257,Seri,seri1257,NAN-42,-112.38366,28.98767
 xu_huuu1240,Xu,huuu1240,Austroasiatic [aust1305],100.88061,22.01635
 azerbaijaniterekemedialect_nort2697,Azerbaijani (Terekeme dialect),nort2697,Turkic [turk1311],46.4736975,40.977675000000005
 chatinozacatepecvariety_zaca1242,Chatino (Zacatepec variety),zaca1242,Otomanguean [otom1299],-97.3069,16.07998
@@ -199,11 +199,11 @@ goajiro_wayu1243,Goajiro,wayu1243,Arawakan [araw1281],-71.81012,10.22515
 rutulborchinokhnowdialect_rutu1240,Rutul (Borchino Khnow dialect),rutu1240,Nakh-Daghestanian [nakh1245],47.32436,41.61866
 hup_hupd1244,Hup,hupd1244,Nadahup [nada1235],-69.835915,0.58622
 yaminahua_yami1256,Yaminahua,yami1256,Panoan [pano1256],-71.59643333333334,-9.884596666666667
-zuni_zuni1245,Zuni,zuni1245,NAN,-108.78197,35.00561
+zuni_zuni1245,Zuni,zuni1245,NAN-45,-108.78197,35.00561
 tuyuca_tuyu1244,Tuyuca,tuyu1244,Tucanoan [tuca1253],-70.043515,0.39441000000000004
-gununakune_puel1244,Gününa Küne,puel1244,NAN,-62.94127,-36.63757
+gununakune_puel1244,Gününa Küne,puel1244,NAN-46,-62.94127,-36.63757
 eseejja_esee1248,Ese Ejja,esee1248,Tacanan [taca1255],-67.51496,-11.72683
-yaruro_pume1238,Yaruro,pume1238,NAN,-67.59958,7.10677
+yaruro_pume1238,Yaruro,pume1238,NAN-48,-67.59958,7.10677
 avareastgergebildialect_avar1256,Avar (East Gergebil dialect),avar1256,Nakh-Daghestanian [nakh1245],46.55802,41.70474
 kme2kemievariety_manm1238,Kme-2 (Kemie variety),manm1238,Austroasiatic [aust1305],100.84153,22.07427
 romani_vlax1238,Romani,vlax1238,Indo-European [indo1319],14.845092631578947,46.819123684210524
@@ -213,12 +213,12 @@ northernhaida_nort2938,Northern Haida,nort2938,Haida [haid1248],-132.46483999999
 maori_maor1246,Maori,maor1246,Austronesian [aust1307],176.54055,-38.28814
 andi_andi1255,Andi,andi1255,Nakh-Daghestanian [nakh1245],46.29187,42.80785
 bagvalal_bagv1239,Bagvalal,bagv1239,Nakh-Daghestanian [nakh1245],46.1041,42.39664
-paez_paez1247,Páez,paez1247,NAN,-76.31254,2.61516
+paez_paez1247,Páez,paez1247,NAN-51,-76.31254,2.61516
 botlikhmiarsodialect_botl1242,Botlikh (Miarso dialect),botl1242,Nakh-Daghestanian [nakh1245],46.19437,42.7658
 thai_thai1261,Thai,thai1261,Tai-Kadai [taik1256],100.671386,14.191968
 southerntaisongkhlavariety_sout2746,Southern Tai (Songkhla variety),sout2746,Tai-Kadai [taik1256],99.7031,6.85668
 erzyamordvin_erzy1239,Erzya Mordvin,erzy1239,Uralic [ural1272],45.3901,52.85479
-itonama_iton1250,Itonama,iton1250,NAN,-64.35748,-12.80431
+itonama_iton1250,Itonama,iton1250,NAN-54,-64.35748,-12.80431
 maca_maca1260,Maca,maca1260,Matacoan [mata1289],-57.36935,-25.01186
 moderngreek_mode1248,Modern Greek,mode1248,Indo-European [indo1319],24.86993777777778,42.32238555555555
 upperchehalis_uppe1439,Upper Chehalis,uppe1439,Salishan [sali1255],-123.16929,46.79807
@@ -242,7 +242,7 @@ swedish_swed1254,Swedish,swed1254,Indo-European [indo1319],17.389526,59.800634
 thavungso_aheu1239,Thavung So,aheu1239,Austroasiatic [aust1305],104.228545,17.76548
 azerbaijani_nort2697,Azerbaijani,nort2697,Turkic [turk1311],46.4736975,40.977675000000005
 centralthai_thai1261,Central Thai,thai1261,Tai-Kadai [taik1256],100.671386,14.191968
-yagan_yama1264,Yagán,yama1264,NAN,-68.26479,-55.27479
+yagan_yama1264,Yagán,yama1264,NAN-61,-68.26479,-55.27479
 khasi_khas1269,Khasi,khas1269,Austroasiatic [aust1305],91.99980500000001,24.97703
 macushi_macu1259,Macushi,macu1259,Cariban [cari1283],-60.22087666666667,4.318613333333333
 dargwamuiridialect_darg1241,Dargwa (Muiri dialect),darg1241,Nakh-Daghestanian [nakh1245],47.43876,42.42568
@@ -263,7 +263,7 @@ chamalal_cham1309,Chamalal,cham1309,Nakh-Daghestanian [nakh1245],45.99496,42.502
 bezhta_bezh1248,Bezhta,bezh1248,Nakh-Daghestanian [nakh1245],46.03319,42.1206
 kryz_kryt1240,Kryz,kryt1240,Nakh-Daghestanian [nakh1245],48.18457,41.18107
 botlikh_botl1242,Botlikh,botl1242,Nakh-Daghestanian [nakh1245],46.19437,42.7658
-elamite_elam1244,Elamite,elam1244,NAN,48.233333333333334,31.183333333333334
+elamite_elam1244,Elamite,elam1244,NAN-66,48.233333333333334,31.183333333333334
 ket_kett1243,Ket,kett1243,Yeniseian [yeni1252],87.54663,63.75506
 bulang_blan1242,Bulang,blan1242,Austroasiatic [aust1305],99.74047333333334,22.009203333333332
 chadong_chad1240,Chadong,chad1240,Tai-Kadai [taik1256],109.96041,25.23532
@@ -287,8 +287,8 @@ ache_ache1246,Aché,ache1246,Tupian [tupi1275],-56.46968,-25.58653
 bengali_beng1280,Bengali,beng1280,Indo-European [indo1319],90.0,24.0
 kumykkarabudakhkentdialect_kumy1244,Kumyk (Karabudakhkent dialect),kumy1244,Turkic [turk1311],47.0,43.0
 pacaasnovos_wari1268,Pacaas Novos,wari1268,Chapacuran [chap1271],-64.56152,-10.69948
-basque_basq1248,Basque,basq1248,NAN,-1.31622,43.27872
-trumai_trum1247,Trumai,trum1247,NAN,-53.5717,-11.81195
+basque_basq1248,Basque,basq1248,NAN-70,-1.31622,43.27872
+trumai_trum1247,Trumai,trum1247,NAN-73,-53.5717,-11.81195
 gurindji_guri1247,Gurindji,guri1247,Pama-Nyungan [pama1250],130.37933,-17.03293
 paliu_boly1239,Paliu,boly1239,Austroasiatic [aust1305],104.95452,24.70131
 tsimshian_nucl1649,Tsimshian,nucl1649,Tsimshian [tsim1258],-130.49631499999998,54.62138

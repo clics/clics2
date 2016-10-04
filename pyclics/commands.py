@@ -13,6 +13,11 @@ glottolog = load_glottolog()
 concepticon = load_concepticon()
 clics_files = glob(clics_path('cldf', '*.csv'))
 
+def check(word):
+    if ',' in str(word): return '"'+str(word)+'"'
+    return str(word)
+
+
 
 def load_ids(verbose=False):
     files = glob(lexibank_path('ids', 'cldf', '*.csv'))
@@ -38,9 +43,16 @@ def get_languages(verbose=False):
     concepts = defaultdict(list)
     data = {}
     out = 'Identifier,Language_name,Language_ID,Family,Longitude,Latitude\n'
+    md = "# Languages in CLICS\n\nNumber | Language | Family | Size | Source\n--- | --- | --- | --- | --- \n"
+    count, nan = 1, 1
     for i, f in enumerate(clics_files):
         if verbose: print('[{1}] Converting file {0}...'.format(os.path.split(f)[-1], i+1))
         wl = read_cldf_wordlist(f, glottolog=glottolog, metadata=True)
+        if wl['meta']['family'] == 'NAN':
+            wl['meta']['family'] = 'NAN-{0}'.format(nan)
+            nan += 1
+            write_clics_wordlist(wl, clics_path('cldf',
+                wl['meta']['identifier']+'.csv'))
         if wl['meta']['longitude']:
             out += '{0},{1},{2},{3},{4},{5}\n'.format(
                     wl['meta']['identifier'],
@@ -51,12 +63,23 @@ def get_languages(verbose=False):
                     wl['meta']['latitude'])
             wl['meta']['size'] = len(wl['identifiers'])
             data[wl['meta']['identifier']] = wl['meta']
+
+            # add markdown
+            md += '{0} | [{1}](http://glottolog.org/resource/languoid/id/{2}) | {3} | {4} | {5} \n'.format(
+                    count,
+                    wl['meta']['name'],
+                    wl['meta']['glottocode'],
+                    wl['meta']['family'],
+                    wl['meta']['size'],
+                    wl['meta']['source'])
+            count += 1
     geos = make_language_map(data)
     with open(clics_path('geo', 'languages.geojson'), 'w') as f:
         json.dump(geos, f)
     with open(clics_path('stats', 'languages.csv'), 'w') as f:
         f.write(out)
-
+    with open(clics_path('cldf', 'README.md'), 'w') as f:
+        f.write(md)
 
 def get_articulationpoints(graphname='network', edgefilter='families',
         verbose=False, normalize=True, threshold=1, subgraph='infomap'):
@@ -72,7 +95,8 @@ def get_articulationpoints(graphname='network', edgefilter='families',
     coms = defaultdict(list)
     for node, data in graph.nodes(data=True):
         coms[data['infomap']] += [node]
-    for com, nodes in coms.items():
+    _tmp = []
+    for com, nodes in sorted(coms.items(), key=lambda x: len(x[1])):
         if len(nodes) > 5:
             subgraph = graph.subgraph(nodes)
             degrees = subgraph.degree(list(subgraph.nodes()))
@@ -88,13 +112,29 @@ def get_articulationpoints(graphname='network', edgefilter='families',
                 if verbose: print('{0}\t{1}\t{2}'.format(
                     com, graph.node[cnode]['Gloss'], 
                     graph.node[artip]['Gloss']))
-            print('')
+                _tmp += [(artip, graph.node[artip]['Gloss'], 
+                    com, cnode, graph.node[cnode]['Gloss'])]
+            if verbose: print('')
     for node, data in graph.nodes(data=True):
         if not 'ArticulationPoint' in data:
             data['ArticulationPoint'] = 0
         if not 'DegreeCentrality' in data:
             data['DegreeCentrality'] = 0
+
+    out = 'ConcepticonId,ConcepticonGloss,Community,CentralNode,CentralNodeGloss\n'
+    md = '# Articulation Points (Analysis {0} / {1})\n\n'.format(threshold,
+            edgefilter)
+    md += 'Concept | Community | CentralNode \n --- | --- | --- \n'
+    for line in _tmp:
+        out += ','.join([check(w) for w in line])+'\n'
+        md += '[{0[1]}]({0[0]}) | {0[2]} | [{0[4]}]({0[3]}) \n'.format(line)
     
+    with open(clics_path('stats',
+        'articulationpoints-{0}-{1}.csv'.format(threshold, edgefilter)), 'w') as f:
+        f.write(out)
+    with open(clics_path('stats',
+        'articulationpoints-{0}-{1}.md'.format(threshold, edgefilter)), 'w') as f:
+        f.write(md)
     save_network(clics_path('graphs', 'articulationpoints-{0}-{1}.gml'.format(
         threshold,
         edgefilter
@@ -160,20 +200,30 @@ def get_coverage(verbose=False):
     concepts = defaultdict(list)
     with UnicodeReader(clics_path('stats', 'languages.csv')) as reader:
         languages = [line[0] for line in reader]
-
+    
+    out1 = 'WordID,ConcepticonId,ConcepticonGloss,Gloss,LanguageId,LanguageName,Family,Value,ClicsValue\n'
     for i, f in enumerate(clics_files):
         if verbose: print('[{1}] Converting file {0}...'.format(os.path.split(f)[-1], i+1))
         wl = read_cldf_wordlist(f, glottolog=glottolog, metadata=True)
         if wl['meta']['identifier'] in languages:
-            cidx, vidx = wl[0].index('Parameter_ID'), wl[0].index('Clics_Value')
+            cidx, vidx, oidx, gidx = (wl[0].index('Parameter_ID'),
+                    wl[0].index('Clics_Value'), wl[0].index('Value'),
+                    wl[0].index('Parameter_name'))
             for idx in wl['identifiers']:
                 concept = wl[idx][cidx]
                 value = wl[idx][vidx]
                 concepts[concept] += [(wl['meta']['family'],
                     wl['meta']['identifier'], idx)]
-    out = 'ID,Gloss,Semanticfield,Category,WordFrequency,LanguageFrequency,FamilyFrequency,Words,Languages,Families\n'
+                out1 += ','.join([check(w) for w in [
+                    idx, concept, concepticon[concept]['GLOSS'], wl[idx][gidx], wl['meta']['glottocode'],
+                    wl['meta']['name'], wl['meta']['family'], wl[idx][oidx],
+                    value]]) + '\n'
+
+    out2 = 'ID,Gloss,Semanticfield,Category,WordFrequency,LanguageFrequency,FamilyFrequency,Words,Languages,Families\n'
+    md = '# Concepts in CLICS\n'
+    md += 'Number | Concept | SemanticField | Category | Reflexes \n --- | --- | --- | --- |--- \n'
     for i, (concept, lists) in enumerate(concepts.items()):
-        out += '{0},{1},{2},{3},{4},{5},{6},"{7}","{8}","{9}"\n'.format(
+        out2 += '{0},{1},{2},{3},{4},{5},{6},"{7}","{8}","{9}"\n'.format(
                 concept, concepticon[concept]['GLOSS'],
                 concepticon[concept]['SEMANTICFIELD'],
                 concepticon[concept]['ONTOLOGICAL_CATEGORY'],
@@ -184,8 +234,18 @@ def get_coverage(verbose=False):
                 ';'.join(sorted(set([x[1] for x in lists]))),
                 ';'.join(sorted(set([x[0] for x in lists])))
                 )
+        md += '{0} | [{1}](http://concepticon.clld.org/parameters/{2}) | {3} | {4} | {5} \n'.format(
+                i+1, concepticon[concept]['GLOSS'], concept, 
+                concepticon[concept]['SEMANTICFIELD'],
+                concepticon[concept]['ONTOLOGICAL_CATEGORY'],
+                len(lists))
     with open(clics_path('stats/concepts.csv'), 'w') as f:
-        f.write(out)
+        f.write(out2)
+    with open(clics_path('data/words.csv'), 'w') as f:
+        f.write(out1)
+    with open(clics_path('stats/concepts.md'), 'w') as f:
+        f.write(md)
+
     return concepts
 
 def get_colexification_dump(verbose=False):
