@@ -213,6 +213,29 @@ def full_colexification(wordlist, key='ids_key', entry='entry', indices='indices
 
     return cols
 
+def partial_colexification(wordlist, nodes, key='Parameter_ID', entry='Clics_Value',
+        indices='identifiers', threshold=5):
+
+    pcols = []
+    key_idx = wordlist[0].index(key)
+    entry_idx = wordlist[0].index(entry)
+    combis = []
+    for idx in wordlist[indices]:
+        concept = wordlist[idx][key_idx]
+        if concept in nodes:
+            combis += [idx]
+    for idxA, idxB in combinations(combis, r=2):
+        wordA, conceptA = wordlist[idxA][entry_idx], wordlist[idxA][key_idx]
+        wordB, conceptB = wordlist[idxB][entry_idx], wordlist[idxB][key_idx]
+        if conceptA != conceptB:
+            sim = similar(wordA, wordB)
+            if sim.endswith('1'):
+                pcols += [(idxA, wordA, conceptA, idxB, wordB, conceptB)]
+            elif sim.endswith('2'):
+                pcols += [(idxB, wordB, conceptB, idxA, wordA, conceptA)]
+
+    return pcols
+
 def similar(word1, word2, min_len=5):
     """
     Determine similarity between words based on different principles.

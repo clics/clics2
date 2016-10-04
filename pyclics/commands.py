@@ -5,6 +5,8 @@ from clldutils.dsv import UnicodeReader
 import networkx as nx
 from itertools import combinations
 import pickle
+import lingpy
+from lingpy.convert.graph import networkx2igraph
 
 ids_list = Concepticon().conceptlist('List-2014-1280')
 glottolog = load_glottolog()
@@ -55,6 +57,104 @@ def get_languages(verbose=False):
     with open(clics_path('stats', 'languages.csv'), 'w') as f:
         f.write(out)
 
+
+def get_articulationpoints(graphname='network', edgefilter='families',
+        verbose=False, normalize=True, threshold=1, subgraph='infomap'):
+
+    graph = pickle.load(
+            open(
+                clics_path(
+                    'graphs', 
+                    '{0}-{1}-{2}.bin'.format(
+                        graphname, threshold,  edgefilter
+                        )
+                    ), 'rb'))
+    coms = defaultdict(list)
+    for node, data in graph.nodes(data=True):
+        coms[data['infomap']] += [node]
+    for com, nodes in coms.items():
+        if len(nodes) > 5:
+            subgraph = graph.subgraph(nodes)
+            degrees = subgraph.degree(list(subgraph.nodes()))
+            cnode = sorted(degrees, key=lambda x: x[1],
+                    reverse=True)[0][0]
+            graph.node[cnode]['DegreeCentrality'] = 1
+            artipoints = nx.articulation_points(subgraph)
+            for artip in artipoints:
+                if 'ArticulationPoint' in graph.node[artip]:
+                    graph.node[artip]['ArticulationPoint'] += 1
+                else:
+                    graph.node[artip]['ArticulationPoint'] = 1
+                if verbose: print('{0}\t{1}\t{2}'.format(
+                    com, graph.node[cnode]['Gloss'], 
+                    graph.node[artip]['Gloss']))
+            print('')
+    for node, data in graph.nodes(data=True):
+        if not 'ArticulationPoint' in data:
+            data['ArticulationPoint'] = 0
+        if not 'DegreeCentrality' in data:
+            data['DegreeCentrality'] = 0
+    
+    save_network(clics_path('graphs', 'articulationpoints-{0}-{1}.gml'.format(
+        threshold,
+        edgefilter
+        )), graph)
+
+
+
+
+def get_communities(graphname='network', edge_weights='FamilyWeight',
+        vertex_weights='FamilyFrequency', verbose=False, normalize=True,
+        edgefilter='families', threshold=1):
+
+    _graph = pickle.load(
+            open(
+                clics_path(
+                    'graphs', 
+                    '{0}-{1}-{2}.bin'.format(
+                        graphname, threshold,  edgefilter
+                        )
+                    ), 'rb'))
+    for n, d in _graph.nodes(data=True):
+        d[vertex_weights] = int(d[vertex_weights])
+    
+    if normalize:
+        for edgeA, edgeB, data in _graph.edges(data=True):
+            data['weight'] = data[edge_weights] ** 2 / (
+                    _graph.node[edgeA][vertex_weights] + \
+                            _graph.node[edgeB][vertex_weights] - \
+                            data[edge_weights])
+        vertex_weights=None
+        edge_weights='weight'
+        if verbose: print('[i] computed weights')
+
+    graph = networkx2igraph(_graph)
+    if verbose: print('[i] converted graph...')
+    comps = graph.community_infomap(edge_weights=edge_weights,
+            vertex_weights=vertex_weights)
+    D = {}
+    out = ''
+    for i, comp in enumerate(comps.subgraphs()):
+        vertices = [v['name'] for v in comp.vs]
+        for vertex in vertices:
+            if verbose: print(graph.vs[vertex]['Gloss'], i+1)
+            D[graph.vs[vertex]['ConcepticonId']] = i+1
+            out += '{0},{1},{2}\n'.format(graph.vs[vertex]['ConcepticonId'], graph.vs[vertex]['Gloss'],
+                    i+1)
+        if verbose: print('---')
+    for node, data in _graph.nodes(data=True):
+        data['infomap'] = D[node]
+
+    with open(clics_path('communities', 'infomap.csv'), 'w') as f:
+        f.write(out)
+    save_network(clics_path('graphs', 'infomap-{0}-{1}.gml'.format(
+        threshold,
+        edgefilter
+        )), _graph)
+    with open(clics_path('graphs', 'infomap-{0}-{1}.bin'.format(
+        threshold,
+        edgefilter)), 'wb') as f:
+        pickle.dump(_graph, f)
 
 def get_coverage(verbose=False):
     concepts = defaultdict(list)
@@ -131,6 +231,78 @@ def get_colexification_dump(verbose=False):
                         concepticon[cidxB]['GLOSS'], '-1'])+'\n')
     mydump.close()
 
+def get_partialcolexification(cutoff=5, edgefilter='families', verbose=False,
+        threshold=3, pairs='infomap.csv'):
+    with UnicodeReader(clics_path('stats', 'concepts.csv')) as reader:
+        _tmp = list(reader)
+    with UnicodeReader(clics_path('stats', 'languages.csv')) as reader:
+        languages = [line[0] for line in reader]
+
+    concepts = dict([(x[0], dict(zip(_tmp[0], x))) for x in _tmp[1:]])
+    G = nx.DiGraph()
+    for idx, vals in concepts.items():
+        vals['ConcepticonId'] = vals['ID']
+        G.add_node(idx, **vals)
+    with UnicodeReader(clics_path('communities', pairs)) as reader:
+        coms = defaultdict(list)
+        for a, b, c in reader:
+            coms[c] += [a]
+            print(a, c)
+            G.node[a]['community'] = c
+
+
+    for i, f in enumerate(clics_files):
+        if verbose: print('[{1}] Converting file {0}...'.format(os.path.split(f)[-1], i+1))
+        wl = read_cldf_wordlist(f, glottolog=glottolog, metadata=True)
+        pcolnum = 0
+        if wl['meta']['identifier'] in languages:
+            for com, nodes in coms.items():
+                pcols = partial_colexification(wl, nodes, key='Parameter_ID',
+                        indices='identifiers', threshold=cutoff, 
+                        entry='Clics_Value')
+                pcolnum += len(pcols)
+                for (idxA, wordA, conceptA, idxB, wordB, conceptB) in pcols:
+                    if G.edge.get(conceptA, {}).get(conceptB, False):
+                        G.edge[conceptA][conceptB]['words'].add((idxA, idxB))
+                        G.edge[conceptA][conceptB]['languages'].add(wl['meta']['identifier'])
+                        G.edge[conceptA][conceptB]['families'].add(wl['meta']['family'])
+                    else:
+                        G.add_edge(conceptA, conceptB, words=set([(idxA, idxB)]),
+                                languages=set([wl['meta']['identifier']]),
+                                families=set([wl['meta']['family']]))
+    ignore_edges = []
+    out = ''
+    for edgeA, edgeB, data in G.edges(data=True):
+        data['WordWeight'] = len(data['words'])
+        data['words'] = ';'.join(sorted(['{0}/{1}'.format(x, y) for x, y in
+            data['words']]))
+        data['FamilyWeight'] = len(data['families'])
+        data['families'] = ';'.join(sorted(data['families']))
+        data['LanguageWeight'] = len(data['languages'])
+        data['languages'] = ';'.join(data['languages'])
+        if edgefilter == 'families' and data['FamilyWeight'] < threshold:
+            ignore_edges += [(edgeA, edgeB)]
+        elif edgefilter == 'languages' and data['LanguageWeight'] < threshold:
+            ignore_edges += [(edgeA, edgeB)]
+        elif edgefilter == 'words' and data['WordWeight'] < threshold:
+            ignore_edges += [(edgeA, edgeB)]
+        out += ','.join([str(x) for x in [
+            edgeA, edgeB, data['FamilyWeight'], data['LanguageWeight'],
+            data['WordWeight']]])+'\n'
+    G.remove_edges_from(ignore_edges)
+
+    save_network(clics_path('graphs', 'dinetwork-{0}-{1}.gml'.format(
+        threshold,
+        edgefilter
+        )), G)
+    with open(clics_path('stats', 'partialcolexifications-{0}-{1}.csv'.format(
+        threshold,
+        edgefilter)), 'w') as f:
+        f.write(out)
+
+            
+
+
 def get_colexification_graph(threshold=5, edgefilter='families', verbose=False):
     colexifications = {}
     with UnicodeReader(clics_path('stats', 'concepts.csv')) as reader:
@@ -141,6 +313,7 @@ def get_colexification_graph(threshold=5, edgefilter='families', verbose=False):
     concepts = dict([(x[0], dict(zip(_tmp[0], x))) for x in _tmp[1:]])
     G = nx.Graph()
     for idx, vals in concepts.items():
+        vals['ConcepticonId'] = vals['ID']
         G.add_node(idx, **vals)
 
     for i, f in enumerate(clics_files):
@@ -183,23 +356,39 @@ def get_colexification_graph(threshold=5, edgefilter='families', verbose=False):
 
     G.remove_edges_from(ignore_edges)
     
-    save_network(clics_path('graphs', 'network.gml'), G)
-    with open(clics_path('graphs', 'network.bin'), 'wb') as f:
+    save_network(clics_path('graphs', 'network-{0}-{1}.gml'.format(
+        threshold,
+        edgefilter
+        )), G)
+    with open(clics_path('graphs', 'network-{0}-{1}.bin'.format(
+        threshold,
+        edgefilter)), 'wb') as f:
         pickle.dump(G, f)
-    with open(clics_path('stats', 'colexifications.csv'), 'w') as f:
+    with open(clics_path('stats', 'colexifications-{0}-{1}.csv'.format(
+        threshold,
+        edgefilter)), 'w') as f:
         f.write(out)
     
 
-if __name__ == '__main__':
+def main():
 
     from sys import argv
-    verbose,threshold,edgefilter=False, 5, 'families'
+    
+    if '-h' in argv or '--help' in argv or 'help' in argv:
+        print("Usage: clics [load|get] [ids|wold|colexification|coverage]")
+    
+    # basic parameters
+    verbose, threshold, edgefilter, normalize, graphname = False, 1, 'families', False, 'network'
     if '-v' in argv:
         verbose=True
     if '-t' in argv:
-        threshold = argv[argv.index('-t')+1]
+        threshold = int(argv[argv.index('-t')+1])
     if '-f' in argv:
         edgefilter = argv[argv.index('-f')+1]
+    if '-n' in argv:
+        normalize = True
+    if '-g' in argv:
+        graphname=argv[argv.index('-g')+1]
 
     if 'load' in argv:
         if 'ids' in argv:
@@ -220,4 +409,15 @@ if __name__ == '__main__':
         
         if 'dump' in argv:
             get_colexification_dump(verbose=verbose)
+
+        if 'community' in argv:
+            get_communities(verbose=verbose, normalize=normalize,
+                    edgefilter=edgefilter,
+                    threshold=threshold, graphname=graphname)
+        if 'articulationpoint' in argv:
+            get_articulationpoints(verbose=verbose, graphname=graphname,
+                    threshold=threshold, edgefilter=edgefilter)
+
+        if 'partialcolexification' in argv:
+            get_partialcolexification(verbose=verbose, cutoff=5)
 
