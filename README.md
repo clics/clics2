@@ -29,7 +29,7 @@ This command loads all data in clics. It requires that the [pylexibank app](http
 $ clics [-v] get languages
 ```
 
-Calculates basic statistics about the languages in the sample and stores them in `stats/languages.csv`.
+Calculates basic statistics about the languages in the sample and stores them in `stats/languages.csv`. This also creates a geographical plot of the languages which is then placed in the folder `geo/`. 
 
 ### Calculate Coverage of Concepts
 

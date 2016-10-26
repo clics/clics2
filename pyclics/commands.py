@@ -8,7 +8,7 @@ import pickle
 import lingpy
 from lingpy.convert.graph import networkx2igraph
 
-ids_list = Concepticon().conceptlist('List-2014-1280')
+ids_list = Concepticon().conceptlists['List-2014-1280']
 glottolog = load_glottolog()
 concepticon = load_concepticon()
 clics_files = glob(clics_path('cldf', '*.csv'))
@@ -142,7 +142,7 @@ def get_articulationpoints(graphname='network', edgefilter='families',
         )), graph)
 
 def get_transitions(graphname='network', threshold=3, edgefilter='family',
-        verbose=True, aspect='SEMANTICFIELD', weight='FamilyWeight',
+        verbose=True, aspect='semanticfield', weight='FamilyWeight',
         assymetric=True):
     graph = pickle.load(open(clics_path('graphs', '{0}-{1}-{2}.bin'.format(
         graphname, threshold, edgefilter)), 'rb'))
@@ -285,7 +285,11 @@ def get_colexification_dump(verbose=False):
         languages = [line[0] for line in reader]
     with UnicodeReader(clics_path('stats', 'colexifications.csv')) as reader:
         all_colexifications = [(line[0],line[1]) for line in reader][1:]
-    concepts = dict([(x[0], dict(zip(_tmp[0], x))) for x in _tmp[1:]])
+    concepts = set()
+    for c1, c2 in all_colexifications:
+        concepts.add(c1)
+        concepts.add(c2)
+    concepts = sorted(concepts)
 
     mydump = open(clics_path('dumps', 'dump.csv'), 'w')
 
@@ -295,33 +299,40 @@ def get_colexification_dump(verbose=False):
         if wl['meta']['identifier'] in languages:
             cols = full_colexification(wl, key='Parameter_ID', entry='Clics_Value',
                     indices='identifiers')
-            tmp = set()
+            tmp = defaultdict(int)
             for k, v in cols.items():
                 for (conceptA, idxA), (conceptB, idxB) in combinations(v, r=2):
-                    if conceptA != conceptB:
-                        tmp.add((conceptA, conceptB))
-                        tmp.add((conceptB, conceptA))
+                    tmp[conceptA, conceptB] += 1
+                    tmp[conceptB, conceptA] += 1
+                for cnc, idx in v:
+                    tmp[cnc, cnc] += 1
+            for cnc in concepts:
                 mydump.write(','.join([
                     wl['meta']['family'], wl['meta']['identifier'],
-                    concepticon[v[0][0]]['GLOSS'],
-                    concepticon[v[0][0]]['GLOSS'], '1'])+'\n')
+                    '"'+concepticon[cnc]['gloss']+'"',
+                    '"'+concepticon[cnc]['gloss']+'"',
+                    str(tmp[cnc,
+                        cnc])])+'\n')
             for cidxA, cidxB in all_colexifications:
-                if (cidxA, cidxB) in tmp:
+                if tmp[cidxA, cidxB] or (tmp[cidxA, cidxA] and tmp[cidxB,
+                    cidxB]):
                     mydump.write(','.join([
                         wl['meta']['family'], 
                         wl['meta']['identifier'],
-                        concepticon[cidxA]['GLOSS'],
-                        concepticon[cidxB]['GLOSS'], '1'])+'\n')
-                else:
+                        '"'+concepticon[cidxA]['gloss']+'"',
+                        '"'+concepticon[cidxB]['gloss']+'"', str(tmp[cidxA,
+                            cidxB])])+'\n')
+                elif not tmp[cidxA, cidxA] or not tmp[cidxB, cidxB]:
                     mydump.write(','.join([
                         wl['meta']['family'], 
                         wl['meta']['identifier'],
-                        concepticon[cidxA]['GLOSS'],
-                        concepticon[cidxB]['GLOSS'], '-1'])+'\n')
+                        '"'+concepticon[cidxA]['gloss']+'"',
+                        '"'+concepticon[cidxB]['gloss']+'"', '-1'])+'\n')
     mydump.close()
 
 def get_partialcolexification(cutoff=5, edgefilter='families', verbose=False,
-        threshold=3, pairs='infomap.csv'):
+        threshold=3, pairs='infomap.csv', graphname='infomap',
+        weight='FamilyWeight'):
     with UnicodeReader(clics_path('stats', 'concepts.csv')) as reader:
         _tmp = list(reader)
     with UnicodeReader(clics_path('stats', 'languages.csv')) as reader:
@@ -337,6 +348,15 @@ def get_partialcolexification(cutoff=5, edgefilter='families', verbose=False,
         for a, b, c in reader:
             coms[c] += [a]
             G.node[a]['community'] = c
+    _graph = pickle.load(
+            open(clics_path('graphs', '{0}-{1}-{2}.bin'.format(
+                        graphname, threshold,  edgefilter)), 'rb'))
+    cidx = 1
+    for nA, nB, data in _graph.edges(data=True):
+        if _graph.node[nA]['infomap'] != _graph.node[nB]['infomap']:
+            if data[weight] >= threshold:
+                coms[cidx] = [nA, nB]
+                cidx += 1
 
     for i, f in enumerate(clics_files):
         if verbose: print('[{1}] Converting file {0}...'.format(os.path.split(f)[-1], i+1))
@@ -514,7 +534,8 @@ def main():
                     threshold=threshold, edgefilter=edgefilter)
 
         if 'partialcolexification' in argv:
-            get_partialcolexification(verbose=verbose, cutoff=5)
+            get_partialcolexification(verbose=verbose, cutoff=5, weight=weight,
+                    graphname=graphname)
 
         if 'transition' in argv:
             get_transitions(verbose=verbose, threshold=threshold,

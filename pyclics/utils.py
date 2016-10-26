@@ -23,12 +23,12 @@ def save_network(filename, graph):
 def load_concepticon():
 
     concepticon = dict([
-        (line['ID'], line) for line in Concepticon().conceptsets()
+        (line.id, line.__dict__) for line in Concepticon().conceptsets.values()
         ])
     with UnicodeReader(clics_path('metadata', 'semantic_fields.csv')) as reader:
         for a, b, c in reader:
-            concepticon[a]['WORDNET_FIELD'] = b
-            concepticon[a]['HYPERNYM'] = c
+            concepticon[a]['wordnet_field'] = b
+            concepticon[a]['hypernym'] = c
     return concepticon
 
 def slug(word):
