@@ -14,11 +14,25 @@ from clldutils.misc import slug as _slug
 import codecs
 import html
 import networkx as nx
+import pickle
+import os
 
-def save_network(filename, graph):
-    with open(filename, 'w') as f:
+def save_network(filename, graph, dump=False):
+    if dump:
+        with open(filename[:-3]+'bin', 'wb') as f:
+            pickle.dump(graph, f)
+    with codecs.open(filename, 'w', 'utf-8') as f:
         for line in nx.generate_gml(graph):
             f.write(html.unescape(line)+'\n')
+
+def load_network(filename):
+    if os.path.isfile(filename[:-3]+'bin'):
+        return pickle.load(open(filename[:-3]+'bin', 'rb'))
+    with codecs.open(filename, 'r', 'utf-8') as f:
+        lines = [l.encode('ascii', 'xmlcharrefreplace').decode('utf-8') for l in f]
+        return nx.parse_gml('\n'.join(lines))
+
+
 
 def load_concepticon():
 
@@ -205,7 +219,30 @@ def read_clics_concept_list(path, glottolog=False):
     return meta
 
 def full_colexification(wordlist, key='ids_key', entry='entry', indices='indices'):
-    
+    """
+    Calculate all colexifications inside a wordlist.
+
+    :param wordlist: The wordlist storing the words, as produced by the
+        read_cldf_wordlist function.
+    :param str key: The name of the column storing the concepts in the
+        header.
+    :param str entry: The name of the column storing the actual words.
+    :param str indices: The name of the key to the dictionary storing the
+        indices.
+
+    :return: colexifictions, a dictionary taking the entries as keys and tuples
+        consisting of a concept and its index as values
+    :rtype: dict
+
+    Note
+    ----
+    Colexifications are identified using a hash (Python dictionary) and a
+    linear iteration through the graph. As a result, this approach is very
+    fast, yet the results are potentially a bit counter-intuitive, as they are
+    presented as a dictionary containing word values as keys. To get all
+    colexifications in sets, however, you can just take the values of the
+    dictionary.
+    """
     cols = defaultdict(list)
     
     # get the key-index
@@ -219,6 +256,17 @@ def full_colexification(wordlist, key='ids_key', entry='entry', indices='indices
 
 def partial_colexification(wordlist, nodes, key='Parameter_ID', entry='Clics_Value',
         indices='identifiers', threshold=5):
+    """Carry out a partial colexification analysis for a given wordlist.
+
+    Parameters
+    ----------
+    wordlist : dict
+        A wordlist object, as produced by the read_cldf_wordlist function.
+    nodes : list
+        Restrict the search for partial colexifications by passing a list of
+        concepts to be searched.
+    
+    """
 
     pcols = []
     key_idx = wordlist[0].index(key)
@@ -237,12 +285,16 @@ def partial_colexification(wordlist, nodes, key='Parameter_ID', entry='Clics_Val
                 pcols += [(idxA, wordA, conceptA, idxB, wordB, conceptB)]
             elif sim.endswith('2'):
                 pcols += [(idxB, wordB, conceptB, idxA, wordA, conceptA)]
-
     return pcols
 
 def similar(word1, word2, min_len=5):
     """
     Determine similarity between words based on different principles.
+
+    Note
+    ----
+    We check similarity by testing whether words are equal, whether one word is
+    a prefix of another word, or vice verse.
     """
     if ' ' in word1:
         word1 = ''.join(word1.split(' '))
@@ -254,7 +306,6 @@ def similar(word1, word2, min_len=5):
 
     if word1 == word2:
         return 'equal'
-
     if word1.startswith(word2):
         return 'prefix2'
     if word1.endswith(word2):
