@@ -103,13 +103,14 @@ def get_articulationpoints(graphname='network', edgefilter='families',
     for node, data in graph.nodes(data=True):
         coms[data['infomap']] += [node]
     _tmp = []
-    for com, nodes in sorted(coms.items(), key=lambda x: len(x[1]),
+    for com, nodes in sorted(coms.items(), key=lambda x: len(x),
             reverse=True):
         if len(nodes) > 5:
             subgraph = graph.subgraph(nodes)
             degrees = subgraph.degree(list(subgraph.nodes()))
-            cnode = sorted(degrees, key=lambda x: x[1],
-                    reverse=True)[0][0]
+            cnodes = sorted(degrees, key=lambda x: degrees[x],
+                    reverse=True)
+            cnode = cnodes[0]
             graph.node[cnode]['DegreeCentrality'] = 1
             artipoints = nx.articulation_points(subgraph)
             for artip in artipoints:
