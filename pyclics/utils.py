@@ -284,7 +284,8 @@ def full_colexification(wordlist, key='ids_key', entry='entry', indices='indices
     entry_idx = wordlist[0].index(entry)
     for idx in wordlist[indices]:
         word, concept = wordlist[idx][entry_idx], wordlist[idx][key_idx]
-        cols[word] += [(concept, idx)]
+        if word and concept:
+            cols[word] += [(concept, idx)]
 
     return cols
 

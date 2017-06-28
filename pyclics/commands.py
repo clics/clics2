@@ -150,6 +150,7 @@ def get_articulationpoints(graphname='network', edgefilter='families',
         edgefilter
         )), graph)
 
+
 def get_cocitation_graph(graphname='dinetwork', threshold=3,
         edgefilter='families', verbose=True, weight='FamilyWeight'):
     graph = load_network(clics_path('graphs', '{0}-{1}-{2}.gml'.format(
@@ -157,6 +158,7 @@ def get_cocitation_graph(graphname='dinetwork', threshold=3,
     igr = networkx2igraph(graph)
     v = igr.bibcoupling()
     return v, igr, graph
+
 
 def get_transitions(graphname='network', threshold=3, edgefilter='family',
         verbose=True, aspect='semanticfield', weight='FamilyWeight',
@@ -188,6 +190,7 @@ def get_transitions(graphname='network', threshold=3, edgefilter='family',
     with open(clics_path('stats', 'transitions-{0}-{1}.md'.format(threshold,
         edgefilter)), 'w') as f:
         f.write(out)
+
 
 def get_communities(graphname='network', edge_weights='FamilyWeight',
         vertex_weights='FamilyFrequency', verbose=False, normalize=True,
@@ -242,6 +245,7 @@ def get_communities(graphname='network', edge_weights='FamilyWeight',
         edgefilter)), 'wb') as f:
         pickle.dump(_graph, f)
 
+
 def get_coverage(verbose=False):
     concepts = defaultdict(list)
     with UnicodeReader(clics_path('stats', 'languages.csv')) as reader:
@@ -258,12 +262,14 @@ def get_coverage(verbose=False):
             for idx in wl['identifiers']:
                 concept = wl[idx][cidx]
                 value = wl[idx][vidx]
-                concepts[concept] += [(wl['meta']['family'],
-                    wl['meta']['identifier'], idx)]
-                out1 += ','.join([check(w) for w in [
-                    idx, concept, concepticon[concept]['gloss'], wl[idx][gidx], wl['meta']['glottocode'],
-                    wl['meta']['name'], wl['meta']['family'], wl[idx][oidx],
-                    value]]) + '\n'
+
+                if concept and concepticon[concept].get('gloss', ''):
+                    concepts[concept] += [(wl['meta']['family'],
+                        wl['meta']['identifier'], idx)]
+                    out1 += ','.join([check(w) for w in [
+                        idx, concept, concepticon[concept]['gloss'], wl[idx][gidx], wl['meta']['glottocode'],
+                        wl['meta']['name'], wl['meta']['family'], wl[idx][oidx],
+                        value]]) + '\n'
 
     out2 = 'ID,Gloss,Semanticfield,Category,WordFrequency,LanguageFrequency,FamilyFrequency,Words,Languages,Families\n'
     md = '# Concepts in CLICS\n'
@@ -347,6 +353,7 @@ def get_colexification_dump(verbose=False):
                         '"'+concepticon[cidxA]['gloss']+'"',
                         '"'+concepticon[cidxB]['gloss']+'"', '-1'])+'\n')
     mydump.close()
+
 
 def get_partialcolexification(cutoff=5, edgefilter='families', verbose=False,
         threshold=3, pairs='infomap.csv', graphname='infomap', 
@@ -544,10 +551,12 @@ def main():
             load_nelex(verbose=verbose)
         if 'baidial' in argv:
             load_baidial(verbose=verbose)
-        if 'tryonhackmann' in argv:
+        if 'tryonhackman' in argv:
             load_tryon(verbose=verbose)
         if 'kraft' in argv:
-            load_kraf(verbose=verbose)
+            load_kraft(verbose=verbose)
+        if 'huber' in argv:
+            load_huber(verbose=verbose)
 
     if 'clean' in argv:
         os.system('rm '+str(clics_path('cldf', '*')))
@@ -557,6 +566,7 @@ def main():
         if 'colexification' in argv:
             get_colexification_graph(threshold=threshold,
                     edgefilter=edgefilter, verbose=verbose)
+
         if 'coverage' in argv:
             get_coverage(verbose=verbose)
 
@@ -570,6 +580,7 @@ def main():
             get_communities(verbose=verbose, normalize=normalize,
                     edgefilter=edgefilter,
                     threshold=threshold, graphname=graphname)
+
         if 'articulationpoint' in argv:
             get_articulationpoints(verbose=verbose, graphname=graphname,
                     threshold=threshold, edgefilter=edgefilter)
