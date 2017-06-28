@@ -16,6 +16,8 @@ import html
 import networkx as nx
 import pickle
 import os
+from pyglottolog.api import Glottolog
+
 
 def save_network(filename, graph, dump=False):
     if dump:
@@ -25,13 +27,13 @@ def save_network(filename, graph, dump=False):
         for line in nx.generate_gml(graph):
             f.write(html.unescape(line)+'\n')
 
+
 def load_network(filename):
     if os.path.isfile(filename[:-3]+'bin'):
         return pickle.load(open(filename[:-3]+'bin', 'rb'))
     with codecs.open(filename, 'r', 'utf-8') as f:
         lines = [l.encode('ascii', 'xmlcharrefreplace').decode('utf-8') for l in f]
         return nx.parse_gml('\n'.join(lines))
-
 
 
 def load_concepticon():
@@ -45,6 +47,7 @@ def load_concepticon():
             concepticon[a]['hypernym'] = c
     return concepticon
 
+
 def slug(word):
     try:
         return _slug(word)
@@ -57,11 +60,13 @@ def slug(word):
                 pass
         return out
 
+
 def clics_path(*comps):
     """
     Our data-path in CLICS.
     """
     return os.path.join(os.path.dirname(__file__), os.pardir, *comps)
+
 
 def lexibank_path(*comps):
     """
@@ -74,12 +79,34 @@ clics-data, as a shortcut function
 """
 data_path = partial(clics_path, os.pardir, 'clics-data')
 
+
 def load_glottolog():
     """
     Currently, we store glottolog as json, as it otherwise fails to load.
-    """
-    G = json.load(open(clics_path('glottolog', 'glottolog.json')))
 
+    Function deprecated now!
+    """
+    #G = json.load(open(clics_path('glottolog', 'glottolog.json')))
+
+    #return G
+    try: 
+        G = json.load(open(clics_path('glottolog', 'glottolog.json')))
+    except:
+        glot = Glottolog()
+        G = {}
+        for lang in glot.languoids():
+            G[lang.glottocode] = dict(
+                    name = lang.name,
+                    longitude = lang.longitude, 
+                    latitude = lang.latitude,
+                    family = getattr(lang.family, 'name') if lang.family else '',
+                    family_code = getattr(lang.family, 'glottocode') if lang.family else '',
+                    macroareas = [area.name for area in lang.macroareas],
+                    ancestors = ", ".join([family.name for family in
+                        lang.ancestors])
+                    )
+        with open(clics_path('glottolog', 'glottolog.json'), 'w') as f:
+            json.dump(G, f)
     return G
 
 def load_metadata():
@@ -90,35 +117,42 @@ def load_metadata():
 
     return G
 
-def read_cldf_wordlist(path, glottolog=False, source='', 
+def read_cldf_wordlist(path_or_lines, glottolog=False, source='', 
         language_name='Language_name', glottocode='Language_ID',
         conceptset='Parameter_ID', conceptcolumn='Parameter_name',
         metadata=True
         ):
     
     glottolog = glottolog or load_glottolog()
-    with UnicodeReader(path) as reader:
-        data = list(reader)
-    header = data[0]
-    lines = data[1:]
+    if isinstance(path_or_lines, list):
+        header = path_or_lines[0]
+        lines = path_or_lines[1:]
+        meta = metadata
+    else:
+        with UnicodeReader(path_or_lines) as reader:
+            data = list(reader)
+        header = data[0]
+        lines = data[1:]
     
     if not metadata:
         name, gid = [lines[0][header.index(head)] for head in [language_name, glottocode]]
+        languoid = glottolog.languoid(gid)
+        if not languoid:
+            return {}
         meta = dict(
                 name=name,
                 glottocode=gid,
                 size=len(lines),
                 source=source,
-                classification=glottolog.get(gid, {}).get('classification-gl', 'NAN'),
-                macroarea=glottolog.get(gid, {}).get('macroarea-gl', 'NAN'),
-                latitude=glottolog.get(gid, {}).get('coordinates', {}).get('latitude', ''),
-                longitude=glottolog.get(gid, {}).get('coordinates', {}).get('longitude', ''),
-                identifier='{0}_{1}'.format(slug(name), gid),
-                family=glottolog.get(gid, {}).get('classification-gl',
-                    ['NAN'])[0]
+                classification=', '.join([a.name for a in languoid.ancestors]),
+                macroarea=[a.name for a in languoid.macroareas],
+                latitude=languoid.latitude,
+                longitude=languoid.longitude,
+                identifier='{0}_{1}_{2}'.format(slug(name), source, gid),
+                family=languoid.family.name if languoid.family else ''
                 )
     else:
-        meta = json.load(open(path+'-metadata.json'))
+        meta = json.load(open(path_or_lines+'-metadata.json'))
 
     D = dict(identifiers = [])
     for i, line in enumerate(lines):
