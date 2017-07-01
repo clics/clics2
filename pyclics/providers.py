@@ -1,104 +1,104 @@
+# coding: utf8
 """functions for loading datasets"""
-from pyclics.utils import *
-from glob import glob
-from clldutils.dsv import UnicodeReader
+from __future__ import unicode_literals, print_function, division
+from itertools import groupby
+
+from clldutils.dsv import reader
 from pyglottolog.api import Glottolog
 
-glottolog = Glottolog()
-concepticon = load_concepticon()
 
-def load_ids(verbose=False):
-    """Load all the current IDS data"""
-    files = glob(lexibank_path('ids', 'cldf', '*.csv'))
-    for i, f in enumerate([x for x in files if 'cognates.csv' not in x]):
-        if verbose: print('[{1}] Converting file {0}...'.format(os.path.split(f)[-1], i+1))
-        try:
-            wl = read_cldf_wordlist(f, glottolog=glottolog, metadata=False,
-                    conceptcolumn='Parameter_name',
-                    source='IDS')
-            if wl:
-                write_clics_wordlist(wl, clics_path('cldf',
-                    wl['meta']['identifier']+'_'+str(i+1)+'.csv'))
-            else:
-                print('[!] Invalid glottolog-code for the language {0}'.format(
-                    f))
-        except IndexError:
-            print("[!] Bad format in file {0}".format(f))
+class Loader(object):
+    def __init__(self, api, lexibank_repos, glottolog_repos, log=None):
+        self.api = api
+        self.glottolog = Glottolog(glottolog_repos)
+        self.lexibank_repos = lexibank_repos
+        self.log = log
+        self.languoids = {}
 
+    @property
+    def cldf_path(self):
+        return self.lexibank_repos.joinpath('datasets', self.id(), 'cldf')
 
+    @classmethod
+    def id(cls):
+        return cls.__name__.lower()
 
-def load_wold(verbose=False):
-    files = glob(lexibank_path('wold', 'cldf', '*.csv'))
-    for i, f in enumerate([x for x in files if 'cognates.csv' not in x]):
-        if verbose: print('[{1}] Converting file {0}...'.format(os.path.split(f)[-1], i+1))
-        wl = read_cldf_wordlist(f, glottolog=glottolog, metadata=False,
-                conceptcolumn='Parameter_name',
-                source='WOLD')
+    def convert(self, f, index, name, conceptcolumn='Parameter_name', source=None):
+        self.log.debug('[{1}] Converting {0}...'.format(name, index))
+        wl = self.api.read_cldf_file(
+            f,
+            self.glottolog,
+            metadata=False,
+            conceptcolumn=conceptcolumn,
+            source=source or self.__class__.__name__,
+            languoids=self.languoids)
         if wl:
-            write_clics_wordlist(wl, clics_path('cldf',
-                wl['meta']['identifier']+'-'+str(i+1)+'.csv'))
-        else:
-            print('[!] Invalid glottolog-code for the language {0}'.format(
-                f))
+            self.api.write_wordlist(
+                wl, '{0}_{1}'.format(wl['meta']['identifier'], index))
+            return True
+        self.log.warn('Invalid glottocode for the language {0}'.format(name))
+        return False
+
+    def __call__(self):
+        raise NotImplemented()
 
 
-def load_multilanguage_cldf(dataset, filename, source, conceptcolumn,
-        languagecolumn, verbose=False):
-    with UnicodeReader(lexibank_path(
-                dataset, 'cldf', filename)) as reader:
-        data = list(reader)
-        header = data[0]
-        lines = data[1:]
-        lidx = header.index(languagecolumn)
+class IDS(Loader):
+    def __call__(self):
+        """Load all the current IDS data"""
+        self.languoids = {l.id: l for l in self.glottolog.languoids()}
+        count = 0
+        for i, f in enumerate(
+                [p for p in self.cldf_path.glob('*.csv') if p.stem != 'cognates']):
+            try:
+                if self.convert(f, i + 1, f.name):
+                    count += 1
+            except IndexError:
+                self.log.warn("Bad format in file {0}".format(f))
+        return count
+
+
+class WOLD(IDS):
+    pass
+
+
+class MultiLanguageLoader(Loader):
+    def __call__(self):
+        return self.convert_multi()
+
+    def convert_multi(self, source=None):
+        lines = list(reader(self.cldf_path.joinpath('{0}.csv'.format(self.id()))))
+        header = lines.pop(0)
+        lidx = header.index('Language_name')
         lines = sorted(lines, key=lambda x: x[lidx])
-        current_language = lines[0][lidx]
-        current_lines = [header]
-        count = 1
-        for line in lines:
-            next_language = line[lidx]
-            if next_language != current_language:
-                if verbose: print('[{1}] converting language {0}...'.format(
-                    current_language, count))
+
+        count = 0
+        for i, (language, llines) in enumerate(groupby(
+                sorted(lines, key=lambda x: x[lidx]), lambda x: x[lidx])):
+            if self.convert([header] + list(llines), i + 1, language, source=source):
                 count += 1
-                wl = read_cldf_wordlist(current_lines, glottolog=glottolog,
-                        metadata=False, conceptcolumn='Parameter_name',
-                        source=source
-                        )
-                if wl:
-                    write_clics_wordlist(wl, clics_path('cldf',
-                        wl['meta']['identifier']+'_'+str(count-1)+'.csv'))
-                else:
-                    print('[!] Invalid glottolog-code for the language {0}'.format(
-                    current_language))
-                current_lines = [header, line]
-                current_language = next_language
-            else:
-                current_lines += [line]
+        return count
 
 
-def load_nelex(verbose=False):
-    load_multilanguage_cldf('northeuralex', 'northeuralex.csv', 'nelex',
-            'Parameter_name', 'Language_name', verbose=verbose)
+class NorthEuraLex(MultiLanguageLoader):
+    def __call__(self):
+        return self.convert_multi('nelex')
 
 
-def load_baidial(verbose=False):
-
-    load_multilanguage_cldf('baidial', 'baidial.csv', 'baidial', 'Parameter_name',
-            'Language_name', verbose=verbose)
+class baidial(MultiLanguageLoader):
+    pass
 
 
-def load_kraft(verbose=False):
-    load_multilanguage_cldf('kraft1981', 'kraft1981.csv', 'kraft1981',
-            'Parameter_name', 'Language_name', verbose=verbose)
+class kraft1981(MultiLanguageLoader):
+    pass
 
 
-def load_tryon(verbose=False):
-    load_multilanguage_cldf('tryonhackman1983', 'tryonhackman1983.csv',
-            'tryonhackman1983', 'Parameter_name', 'Language_name',
-            verbose=verbose)
+class tryonhackman1983(MultiLanguageLoader):
+    pass
 
 
-def load_huber(verbose=False):
-    load_multilanguage_cldf('huberandreed', 'huberandreed.csv',
-            'huberandreed', 'Parameter_name', 'Language_name',
-            verbose=verbose)
+class huberandreed(MultiLanguageLoader):
+    pass
+
+
+LOADER = [IDS, WOLD, NorthEuraLex, baidial, kraft1981, tryonhackman1983, huberandreed]
