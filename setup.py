@@ -1,20 +1,21 @@
-import distribute_setup
-distribute_setup.use_setuptools()
+from setuptools import setup, find_packages
 
-from setuptools import setup, find_packages,Extension
-# setup package name etc as a default
-pkgname = 'pyclics'
-pkg_dir = {'':'.'}
-pkg_location = '.'
 
 setup(
-        name=pkgname,
-        version='0.1',
-        packages=find_packages(pkg_location),
-        package_dir=pkg_dir,
-        install_requires=['lingpy', 'clldutils', 'pylexibank'],
-        entry_points={
-            'console_scripts' : ['clics=pyclics.commands:main'],
-        },
-        author='Johann-Mattis List'
-        )
+    name='pyclics',
+    version='0.1',
+    author='Johann-Mattis List',
+    packages=find_packages(),
+    url='https://github.com/lingpy/clics-data',
+    install_requires=[
+        'lingpy',
+        'clldutils',
+        'pylexibank',
+        'geojson',
+        'python-igraph',
+    ],
+    tests_require=['nose', 'coverage', 'mock'],
+    entry_points={
+        'console_scripts': ['clics=pyclics.cli:main'],
+    },
+)
