@@ -1,14 +1,15 @@
 # coding: utf8
 from __future__ import unicode_literals, print_function, division
-from collections import defaultdict
-from itertools import combinations
+from collections import defaultdict, Counter
+from itertools import combinations, groupby
 import geojson
 import unidecode
 
 from six import text_type
-from clldutils.dsv import reader
+from clldutils.dsv import UnicodeWriter
 from clldutils.misc import slug as _slug
 from clldutils import jsonlib
+from pycldf.dataset import Wordlist
 
 
 def load_concepticon(clics_api, concepticon_api):
@@ -34,71 +35,65 @@ def slug(word):
         return out
 
 
-def read_cldf_wordlist(
-    lines,
-    glottolog,
-    source='',
-    language_name='Language_name',
-    glottocode='Language_ID',
-    conceptset='Parameter_ID',
-    conceptcolumn='Parameter_name',
-    metadata=False,
-    languoids=None,
-):
-    meta = None
-    languoids = languoids or {}
-    if not isinstance(lines, list):
-        if metadata:
-            meta = jsonlib.load(lines.parent.joinpath(lines.name + '-metadata.json'))
-        lines = list(reader(lines))
-    header = lines.pop(0)
+def lexibank2clics(lexibank_dir, clics_dir, languoids):
+    wl = Wordlist.from_metadata(lexibank_dir.joinpath('cldf', 'cldf-metadata.json'))
+    varieties = {l['ID']: l for l in wl['LanguageTable'] if l['glottocode']}
+    concepts = {l['ID']: l for l in wl['ParameterTable'] if l['conceptset']}
+    count = Counter()
+    md = {}
 
-    if not meta:
-        name, gid = [lines[0][header.index(head)] for head in [language_name, glottocode]]
-        languoid = languoids.get(gid) or glottolog.languoid(gid)
-        if not languoid:
-            return {}
+    for lid, forms in groupby(
+            sorted(wl['FormTable'], key=lambda r: r['Language_ID']),
+            lambda r: r['Language_ID']):
+        if lid not in varieties:
+            # A variety which isn't mapped to glottolog.
+            continue
+        variety = varieties[lid]
+        if variety['glottocode'] not in languoids:
+            print('unknown glottocode {0}'.format(variety['glottocode']))
+            continue
+        forms = [form for form in forms if form['Parameter_ID'] in concepts]
+        languoid = languoids[variety['glottocode']]
         meta = dict(
-            name=name,
-            glottocode=gid,
-            size=len(lines),
-            source=source,
-            classification=', '.join([a.name for a in languoid.ancestors]),
+            name=variety['name'],
+            glottocode=variety['glottocode'],
+            source=lexibank_dir.name,
+            classification=', '.join([a[0] for a in languoid.lineage]),
             macroarea=[a.name for a in languoid.macroareas],
             latitude=languoid.latitude,
             longitude=languoid.longitude,
-            identifier='{0}_{1}_{2}'.format(slug(name), source, gid),
-            family=languoid.family.name if languoid.family else ''
-        )
-
-    D = dict(identifiers=[])
-    for i, line in enumerate(lines):
-        idf, name, concept, cid, value = [
-            line[header.index(head)]
-            for head in ['ID', language_name, conceptcolumn, conceptset, 'Value']]
-        latin_val = slug(unidecode.unidecode(value))
-        if latin_val:
-            D[idf] = [
-                meta['identifier'],
-                meta['glottocode'],
-                name,
-                concept,
-                cid,
-                value,
-                latin_val,
-                idf]
-            D['identifiers'] += [idf]
-    D[0] = [
-        'Doculect_id',
-        'Language_ID',
-        'Language_name',
-        'Parameter_name',
-        'Parameter_ID',
-        'Value',
-        'Clics_Value',
-        'Source_ID']
-    D['meta'] = meta
-    return D
+            identifier=lid,
+            family=languoid.lineage[0][0] if languoid.lineage else variety['glottocode'])
+        count[lid] = 0
+        with UnicodeWriter(clics_dir.joinpath('{0}.csv'.format(slug(lid)))) as writer:
+            writer.writerow([
+                'Doculect_id',
+                'Language_ID',
+                'Language_name',
+                'Parameter_name',
+                'Parameter_ID',
+                'Value',
+                'Clics_Value',
+                'Source_ID'])
+            for form in forms:
+                concept = concepts[form['Parameter_ID']]
+                latin_val = slug(unidecode.unidecode(form['Value']))
+                if latin_val:
+                    count.update([lid])
+                    writer.writerow([
+                        meta['identifier'],
+                        meta['glottocode'],
+                        meta['name'],
+                        concept['gloss'],
+                        concept['conceptset'],
+                        form['Value'],
+                        latin_val,
+                        form['ID'],
+                    ])
+        meta['size'] = count[lid]
+        md[slug(lid)] = meta
+    jsonlib.dump(md, clics_dir.joinpath('md.json'), indent=4)
+    return count
 
 
 def full_colexification(wordlist, key='ids_key', entry='entry', indices='indices'):
