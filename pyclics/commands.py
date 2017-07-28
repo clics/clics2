@@ -5,28 +5,29 @@ from itertools import combinations
 
 from six import PY2
 from clldutils.clilib import command
-from clldutils.path import remove, write_text
+from clldutils.path import write_text, Path, rmtree
 from clldutils.markup import Table
 from clldutils import jsonlib
 from pyconcepticon.api import Concepticon
+from pyglottolog.api import Glottolog
 from lingpy.convert.graph import networkx2igraph
 import networkx as nx
 
 from pyclics.utils import (
     load_concepticon, full_colexification, make_language_map, partial_colexification,
 )
-from pyclics.providers import LOADER
 from pyclics.api import Network
 
 
-@command(name='list')
+@command('list')
 def list_(args):
     """List datasets available for loading
 
-    clics list
+    clics --lexibank-repos=PATH/TO/lexibank-data list
     """
-    for loader in sorted(LOADER, key=lambda cls: cls.id()):
-        print(loader.id())
+    for d in args.lexibank_repos.joinpath('datasets').iterdir():
+        if d.joinpath('cldf', 'cldf-metadata.json').exists():
+            print(d)
 
 
 @command()
@@ -34,10 +35,13 @@ def load(args):
     """
     clics load [DATASET]+
     """
-    for cls in LOADER:
-        if cls.id() in args.args:
-            c = cls(args.api, args.lexibank_repos, args.glottolog_repos, log=args.log)()
-            args.log.info('provider {0}: {1} wordlists loaded'.format(cls.id(), c))
+    languoids = {l.id: l for l in Glottolog(args.glottolog_repos).languoids()}
+    for ds in args.args:
+        ds = args.lexibank_repos.joinpath('datasets', ds) \
+            if args.lexibank_repos.joinpath('datasets', ds).exists() else Path(ds)
+        res = args.api.load(ds, languoids)
+        args.log.info('{0}: {1:,} wordlists loaded with {2:,} lexemes total'.format(
+            ds.name, len(res), sum(res.values())))
 
 
 @command()
@@ -47,7 +51,8 @@ def clean(args):
     clics clean
     """
     for p in args.api.path('cldf').iterdir():
-        remove(p)
+        if not args.args or p.name in args.args:
+            rmtree(p)
 
 
 @command()
@@ -62,32 +67,27 @@ def languages(args):
             'Family',
             'Longitude',
             'Latitude'])
-        count, nan = 1, 1
-        for i, wl in args.api.iter_wordlists(args.glottolog_repos, args.log):
-            if wl['meta']['family'] == '':
-                wl['meta']['family'] = 'NAN-{0}'.format(nan)
-                nan += 1
-                args.api.write_wordlist(wl, wl['meta']['identifier'])
+        count = 1
+        for i, wl in enumerate(args.api.wordlists()):
             if wl['meta']['longitude']:
-                writer.writerow([
-                    wl['meta']['identifier'],
-                    wl['meta']['name'],
-                    wl['meta']['glottocode'],
-                    wl['meta']['family'],
-                    wl['meta']['longitude'],
-                    wl['meta']['latitude']])
-                wl['meta']['size'] = len(wl['identifiers'])
                 data[wl['meta']['identifier']] = wl['meta']
-
-                ltable.append([
-                    count,
-                    '[{0}](http://glottolog.org/resource/languoid/id/{1})'.format(
-                        wl['meta']['name'], wl['meta']['glottocode']),
-                    wl['meta']['family'],
-                    wl['meta']['size'],
-                    wl['meta']['source'],
-                ])
-                count += 1
+            writer.writerow([
+                wl['meta']['identifier'],
+                wl['meta']['name'],
+                wl['meta']['glottocode'],
+                wl['meta']['family'],
+                wl['meta']['longitude'],
+                wl['meta']['latitude']])
+            ltable.append([
+                i + 1,
+                '[{0}](http://glottolog.org/resource/languoid/id/{1})'.format(
+                    wl['meta']['name'], wl['meta']['glottocode']),
+                wl['meta']['family']
+                if wl['meta']['family'] != wl['meta']['glottocode'] else 'isolate',
+                wl['meta']['size'],
+                wl['meta']['source'],
+            ])
+            count += 1
 
     args.api.write_md_table('cldf', 'README', 'Languages in CLICS', ltable, args.log)
     jsonlib.dump(make_language_map(data), args.api.path('geo', 'languages.geojson'))
@@ -110,7 +110,7 @@ def coverage(args):
             'Family',
             'Value',
             'ClicsValue'])
-        for i, wl in args.api.iter_wordlists(args.glottolog_repos, args.log):
+        for wl in args.api.wordlists():
             if wl['meta']['identifier'] in languages:
                 cidx, vidx, oidx, gidx = (
                     wl[0].index('Parameter_ID'),
@@ -187,7 +187,7 @@ def colexification(args):
         vals['ConcepticonId'] = vals['ID']
         G.add_node(idx, **vals)
 
-    for i, wl in args.api.iter_wordlists(args.glottolog_repos, args.log):
+    for wl in args.api.wordlists():
         if wl['meta']['identifier'] in languages:
             cols = full_colexification(
                 wl,
@@ -437,7 +437,7 @@ def colexification_dump(args):
     concepts = sorted(concepts)
 
     with args.api.csv_writer('dumps', 'dump') as writer:
-        for i, wl in args.api.iter_wordlists(args.glottolog_repos, args.log):
+        for wl in args.api.wordlists():
             if wl['meta']['identifier'] in languages:
                 cols = full_colexification(
                     wl,
@@ -513,7 +513,7 @@ def partialcolexification(args):
                 coms[cidx] = [nA, nB]
                 cidx += 1
 
-    for i, wl in args.api.iter_wordlists(args.glottolog_repos, args.log):
+    for wl in args.api.wordlists():
         pcolnum = 0
         if wl['meta']['identifier'] in languages:
             for com, nodes in coms.items():

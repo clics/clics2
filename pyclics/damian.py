@@ -54,7 +54,7 @@ def damian(clics, concepticon, glottolog_repos):
     conc = load_concepticon(clics, concepticon)
     languages = [line[0] for line in clics.csv_reader('stats', 'languages')]
     with clics.csv_writer('dumps', 'damian', delimiter='\t', suffix='tsv') as writer:
-        for i, wl in clics.iter_wordlists(glottolog_repos):
+        for i, wl in clics.enumerate_wordlists(glottolog_repos):
             if wl['meta']['identifier'] in languages:
                 for line in special_colexification(
                         wl, conc, concepts=snoek, concepticon_=concepticon):
