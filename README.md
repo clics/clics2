@@ -73,8 +73,8 @@ Calculate the colexification network. Use `-t` to handle the threshold (if `-t 3
 
 ```shell
 $ clics load ids wold
-$ clics get languages
-$ clics get coverage
+$ clics languages
+$ clics coverage
 ```
 
 ### Calculate Community Analysis

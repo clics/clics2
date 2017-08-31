@@ -9,8 +9,8 @@ setup(
     url='https://github.com/lingpy/clics-data',
     install_requires=[
         'lingpy',
-        'clldutils',
-        'pylexibank',
+        'pycldf>=1.0rc1'
+        'clldutils>=1.13.5',
         'geojson',
         'python-igraph',
         'unidecode'
