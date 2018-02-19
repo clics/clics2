@@ -12,6 +12,7 @@ from pyconcepticon.api import Concepticon
 from pyglottolog.api import Glottolog
 from lingpy.convert.graph import networkx2igraph
 import networkx as nx
+from tabulate import tabulate
 
 from pyclics.utils import (
     load_concepticon, full_colexification, make_language_map, partial_colexification,
@@ -25,9 +26,9 @@ def list_(args):
 
     clics --lexibank-repos=PATH/TO/lexibank-data list
     """
-    for d in args.lexibank_repos.joinpath('datasets').iterdir():
+    for d in sorted(args.lexibank_repos.joinpath('datasets').iterdir()):
         if d.joinpath('cldf', 'cldf-metadata.json').exists():
-            print(d)
+            print(d.stem)
 
 
 @command()
@@ -198,10 +199,10 @@ def colexification(args):
                 for (conceptA, idxA), (conceptB, idxB) in combinations(v, r=2):
                     # check for identical concept resulting from word-variants
                     if conceptA != conceptB:
-                        if G.edge.get(conceptA, {}).get(conceptB, False):
-                            G.edge[conceptA][conceptB]['words'].add((idxA, idxB))
-                            G.edge[conceptA][conceptB]['languages'].add(wl['meta']['identifier'])
-                            G.edge[conceptA][conceptB]['families'].add(wl['meta']['family'])
+                        if G[conceptA].get(conceptB, False):
+                            G[conceptA][conceptB]['words'].add((idxA, idxB))
+                            G[conceptA][conceptB]['languages'].add(wl['meta']['identifier'])
+                            G[conceptA][conceptB]['families'].add(wl['meta']['family'])
                         else:
                             G.add_edge(
                                 conceptA,
@@ -280,7 +281,8 @@ def articulationpoints(args):
         if len(nodes) > 5:
             subgraph = graph.subgraph(nodes)
             degrees = subgraph.degree(list(subgraph.nodes()))
-            cnodes = sorted(degrees, key=lambda x: degrees[x], reverse=True)
+            cnodes = [a for a, b in sorted(degrees, key=lambda x:
+                x[1], reverse=True)]
             cnode = cnodes[0]
             graph.node[cnode]['DegreeCentrality'] = 1
             artipoints = nx.articulation_points(subgraph)
@@ -311,9 +313,10 @@ def articulationpoints(args):
             'ConcepticonId',
             'ConcepticonGloss',
             'Community',
-            'CommunitySize',
             'CentralNode',
-            'CentralNodeGloss'])
+            'CentralNodeGloss',
+            'CommunitySize',
+            ])
         for i, line in enumerate(_tmp):
             writer.writerow(line)
             ap_table.append([
@@ -379,7 +382,7 @@ def communities(args):
     graphname = args.graphname or 'network'
     edge_weights = args.weight
     vertex_weights = 'FamilyFrequency'
-    verbose = bool(args.verbosity)
+    verbose = bool(args.verbose)
     normalize = args.normalize
     edgefilter = args.edgefilter
     threshold = args.threshold or 1
@@ -422,6 +425,21 @@ def communities(args):
             data['infomap'] = D[node]
 
     args.api.save_graph(_graph, 'infomap', threshold, edgefilter, log=args.log)
+
+
+@command()
+def graph_stats(args):
+    graphname = args.graphname or 'network'
+    edgefilter = args.edgefilter
+    threshold = args.threshold or 1
+    nw = args.api.load_network(graphname, threshold, edgefilter)
+    comps = len(nw.components())
+    comms = len(nw.communities())
+    table = [['nodes', len(nw.G)]]
+    table += [['edges', len(nw.G.edges())]]
+    table += [['components', comps]]
+    table += [['communities', comms]]
+    print(tabulate(table))
 
 
 @command()

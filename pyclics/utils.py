@@ -9,7 +9,12 @@ from six import text_type
 from clldutils.dsv import UnicodeWriter
 from clldutils.misc import slug as _slug
 from clldutils import jsonlib
+from clldutils.path import Path
 from pycldf.dataset import Wordlist
+import pyclics
+
+def clics_path(*comps):
+    return Path(pyclics.__file__).parent.parent.joinpath(*comps)
 
 
 def load_concepticon(clics_api, concepticon_api):

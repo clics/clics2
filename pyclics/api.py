@@ -1,6 +1,7 @@
 # coding: utf8
 from __future__ import unicode_literals, print_function, division
 import pickle
+from collections import defaultdict
 try:
     from HTMLParser import HTMLParser
     html = HTMLParser()
@@ -15,14 +16,15 @@ from clldutils.misc import UnicodeMixin
 from clldutils import jsonlib
 import networkx as nx
 
-from pyclics.utils import lexibank2clics
-
+from pyclics.utils import lexibank2clics, clics_path
 
 @attr.s
 class Network(UnicodeMixin):
     graphname = attr.ib()
     threshold = attr.ib()
     edgefilter = attr.ib()
+    G = attr.ib(default=None)
+    graphdir = attr.ib(default=clics_path('graphs'))
 
     def __unicode__(self):
         return '{0.graphname}-{0.threshold}-{0.edgefilter}'.format(self)
@@ -30,21 +32,38 @@ class Network(UnicodeMixin):
     def fname(self, d, ext):
         return d.joinpath('{0}.{1}'.format(self, ext))
 
-    def save(self, graph, graphdir):
-        with open(self.fname(graphdir, 'bin').as_posix(), 'wb') as f:
+    def save(self, graph):
+        with open(self.fname(self.graphdir, 'bin').as_posix(), 'wb') as f:
             pickle.dump(graph, f)
         write_text(
-            self.fname(graphdir, 'gml'),
+            self.fname(self.graphdir, 'gml'),
             '\n'.join(html.unescape(line) for line in nx.generate_gml(graph)))
 
-    def load(self, graphdir):
-        bin = self.fname(graphdir, 'bin')
+    def load(self):
+        bin = self.fname(self.graphdir, 'bin')
         if bin.exists():
-            return pickle.load(open(bin.as_posix(), 'rb'))
+            self.G = pickle.load(open(bin.as_posix(), 'rb'))
+            return self.G
 
-        lines = read_text(self.fname(graphdir, 'gml')).split('\n')
+        lines = read_text(self.fname(self.graphdir, 'gml')).split('\n')
         lines = [l.encode('ascii', 'xmlcharrefreplace').decode('utf-8') for l in lines]
-        return nx.parse_gml('\n'.join(lines))
+        self.G = nx.parse_gml('\n'.join(lines))
+        return self.G
+    
+    def components(self):
+        if not self.G:
+            self.load()
+        return sorted(nx.connected_components(self.G))
+
+    def communities(self):
+        if not self.G:
+            self.load()
+        comms = defaultdict(list)
+        for node, data in self.G.nodes(data=True):
+            if not 'infomap' in data:
+                break
+            comms[data['infomap']] += [node]
+        return comms
 
 
 class Clics(API):
@@ -93,12 +112,18 @@ class Clics(API):
         if not isinstance(network, Network):
             assert threshold is not None and edgefilter is not None
             network = Network(network, threshold, edgefilter)
-        network.save(graph, self.existing_dir('graphs'))
+        network.save(graph)
         if log:
             log.info('Network {0} saved'.format(network))
 
     def load_graph(self, network, threshold=None, edgefilter=None):
         if not isinstance(network, Network):
             assert threshold is not None and edgefilter is not None
-            network = Network(network, threshold, edgefilter)
-        return network.load(self.path('graphs'))
+            network = Network(network, threshold, edgefilter,
+                    graphdir=self.path('graphs'))
+        return network.load()
+
+    def load_network(self, nname, threshold=None, edgefilter=None):
+        network = Network(nname, threshold, edgefilter,
+                graphdir=self.path('graphs'))
+        return network

@@ -21,6 +21,7 @@ def main():  # pragma: no cover
     parser.add_argument('-s', '--subgraph', default='infomap')
     parser.add_argument('-w', '--weight', default='FamilyWeight')
     parser.add_argument('-a', '--aspect', default=None)
+    parser.add_argument('-v', '--verbose', default=False, action='store_true')
     parser.add_argument(
         '--concepticon-repos',
         type=Path,
