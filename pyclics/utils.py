@@ -19,7 +19,7 @@ def clics_path(*comps):
 
 def load_concepticon(clics_api, concepticon_api):
     concepticon = {cs.id: cs.__dict__ for cs in concepticon_api.conceptsets.values()}
-    for a, b, c in clics_api.csv_reader('metadata', 'semantic_fields'):
+    for a, b, c in clics_api.csv_reader(Path('output', 'metadata'), 'semantic_fields'):
         concepticon[a]['wordnet_field'] = b
         concepticon[a]['hypernym'] = c
     return concepticon

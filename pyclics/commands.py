@@ -60,7 +60,7 @@ def clean(args):
 def languages(args):
     data = {}
     ltable = Table('Number', 'Language', 'Family', 'Size', 'Source')
-    with args.api.csv_writer('stats', 'languages') as writer:
+    with args.api.csv_writer(Path('output', 'stats'), 'languages') as writer:
         writer.writerow([
             'Identifier',
             'Language_name',
@@ -91,16 +91,18 @@ def languages(args):
             count += 1
 
     args.api.write_md_table('cldf', 'README', 'Languages in CLICS', ltable, args.log)
-    jsonlib.dump(make_language_map(data), args.api.path('geo', 'languages.geojson'))
+    args.api.write_md_table('output', 'languages', 'Languages in CLICS', ltable, args.log)
+    jsonlib.dump(make_language_map(data), args.api.path('output', 'languages.geojson'))
 
 
 @command()
 def coverage(args):
     concepticon = load_concepticon(args.api, Concepticon(args.concepticon_repos))
     concepts = defaultdict(list)
-    languages = [line[0] for line in args.api.csv_reader('stats', 'languages')]
+    languages = [line[0] for line in args.api.csv_reader(Path('output',
+        'stats'), 'languages')]
 
-    with args.api.csv_writer('data', 'words') as writer:
+    with args.api.csv_writer(Path('output', 'data'), 'words') as writer:
         writer.writerow([
             'WordID',
             'ConcepticonId',
@@ -137,7 +139,7 @@ def coverage(args):
                             value])
 
     concept_table = Table('Number', 'Concept', 'SemanticField', 'Category', 'Reflexes')
-    with args.api.csv_writer('stats', 'concepts') as writer:
+    with args.api.csv_writer(Path('output', 'stats'), 'concepts') as writer:
         writer.writerow([
             'ID',
             'Gloss',
@@ -171,7 +173,7 @@ def coverage(args):
                 len(lists)])
 
     args.api.write_md_table(
-        'stats', 'concepts', 'Concepts in CLICS', concept_table, args.log)
+        'output', 'concepts', 'Concepts in CLICS', concept_table, args.log)
     return concepts
 
 
@@ -179,9 +181,10 @@ def coverage(args):
 def colexification(args):
     threshold = args.threshold or 1
     edgefilter = args.edgefilter
-    languages = [line[0] for line in args.api.csv_reader('stats', 'languages')]
+    languages = [line[0] for line in args.api.csv_reader(Path('output',
+        'stats'), 'languages')]
 
-    _tmp = list(args.api.csv_reader('stats', 'concepts'))
+    _tmp = list(args.api.csv_reader(Path('output', 'stats'), 'concepts'))
     concepts = {x[0]: dict(zip(_tmp[0], x)) for x in _tmp[1:]}
     G = nx.Graph()
     for idx, vals in concepts.items():
@@ -378,6 +381,44 @@ def transitions(args):
 
 
 @command()
+def subgraph(args):
+    graphname = args.graphname or 'network'
+    edge_weights = args.weight
+    threshold = args.threshold or 1
+    edgefilter = args.edgefilter
+    verbose = bool(args.verbose)
+    max_gen = 2 # stops the queue
+    min_weight = 4
+    
+    _graph = args.api.load_graph(graphname, threshold, edgefilter)
+    for node, data in _graph.nodes(data=True):
+        data['subgraph'] = [node]
+
+    for node, data in _graph.nodes(data=True):
+        max_gen = 1
+        min_weight = 4
+        queue = [(node, _graph[node], 0)]
+        while queue:
+            source, neighbors, generation = queue.pop(0)
+            for n, d in neighbors.items():
+                if d[edge_weights] > min_weight:
+                    data['subgraph'] += [n]
+                    queue += [(n, _graph[n], generation+1)]
+            if generation > max_gen:
+                if len(data['subgraph']) < 5:
+                    max_gen += 1
+                else:
+                    break
+            if len(data['subgraph']) > 30:
+                break
+
+        if verbose: print(node, data['Gloss'], len(data['subgraph']))
+ 
+    args.api.save_graph(_graph, 'subgraph', threshold, edgefilter, log=args.log)   
+        
+
+
+@command()
 def communities(args):
     graphname = args.graphname or 'network'
     edge_weights = args.weight
@@ -407,14 +448,15 @@ def communities(args):
         print('[i] converted graph...')
     comps = graph.community_infomap(
         edge_weights=edge_weights, vertex_weights=vertex_weights)
-    D = {}
-    with args.api.csv_writer('communities', 'infomap') as writer:
+    D, Com = {}, defaultdict(list)
+    with args.api.csv_writer(Path('output', 'communities'), 'infomap') as writer:
         for i, comp in enumerate(comps.subgraphs()):
             vertices = [v['name'] for v in comp.vs]
             for vertex in vertices:
                 if verbose:
                     print(graph.vs[vertex]['Gloss'], i+1)
                 D[graph.vs[vertex]['ConcepticonId']] = i+1
+                Com[i+1] += [graph.vs[vertex]['ConcepticonId']]
                 writer.writerow([
                     graph.vs[vertex]['ConcepticonId'],
                     graph.vs[vertex]['Gloss'],
@@ -423,6 +465,40 @@ def communities(args):
                 print('---')
         for node, data in _graph.nodes(data=True):
             data['infomap'] = D[node]
+            data['ClusterName'] = ''
+
+    # get the articulation points etc. immediately
+    remove_edges = []
+    for idx, nodes in Com.items():
+        sg = _graph.subgraph(nodes)
+        if len(sg) > 1:
+            d_ = sorted(sg.degree(), key=lambda x: x[1], reverse=True)
+            d = [_graph.node[a]['Gloss'] for a, b in d_][0]
+            cluster_name = 'infomap_{0}_{1}'.format(idx, d)
+            _graph.node[node]['ClusterName'] = cluster_name
+            _graph.node[node]['CentralConcept'] = d
+
+    if verbose: print('computed cluster names')
+
+    for idx, nodes in Com.items():
+        sg = _graph.subgraph(nodes)
+        for node, data in sg.nodes(data=True):
+            neighbors = [n for n in _graph if n in _graph[node] and
+                    _graph[node][n][edge_weights] >= 5 and n not in sg]
+            for n in _graph[node]:
+                remove_edges += [(node, n)]
+            if neighbors:
+                _graph.node[node]['OutEdge'] = []
+            for n in neighbors:
+                _graph.node[node]['OutEdge'] += [[
+                    _graph.node[n]['ClusterName'],
+                    _graph.node[n]['CentralConcept'],
+                    _graph[node][n][edge_weight],
+                    _graph.node[n]['WordFrequency']
+                    ]]
+
+    # compute outer edges and add community numbers
+    # TODO remove the edges we don't want
 
     args.api.save_graph(_graph, 'infomap', threshold, edgefilter, log=args.log)
 
@@ -445,7 +521,7 @@ def graph_stats(args):
 @command()
 def colexification_dump(args):
     concepticon = load_concepticon(args.api, Concepticon(args.concepticon_repos))
-    languages = [line[0] for line in args.api.csv_reader('stats', 'languages')]
+    languages = [line[0] for line in args.api.csv_reader('output', 'stats', 'languages')]
     all_colexifications = [
         (l[0], l[1]) for l in args.api.csv_reader('stats', 'colexifications')][1:]
     concepts = set()
@@ -454,7 +530,7 @@ def colexification_dump(args):
         concepts.add(c2)
     concepts = sorted(concepts)
 
-    with args.api.csv_writer('dumps', 'dump') as writer:
+    with args.api.csv_writer('output', 'dump') as writer:
         for wl in args.api.wordlists():
             if wl['meta']['identifier'] in languages:
                 cols = full_colexification(

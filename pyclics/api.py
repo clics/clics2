@@ -24,7 +24,7 @@ class Network(UnicodeMixin):
     threshold = attr.ib()
     edgefilter = attr.ib()
     G = attr.ib(default=None)
-    graphdir = attr.ib(default=clics_path('graphs'))
+    graphdir = attr.ib(default=clics_path('output', 'graphs'))
 
     def __unicode__(self):
         return '{0.graphname}-{0.threshold}-{0.edgefilter}'.format(self)
@@ -120,10 +120,10 @@ class Clics(API):
         if not isinstance(network, Network):
             assert threshold is not None and edgefilter is not None
             network = Network(network, threshold, edgefilter,
-                    graphdir=self.path('graphs'))
+                    graphdir=self.path('output', 'graphs'))
         return network.load()
 
     def load_network(self, nname, threshold=None, edgefilter=None):
         network = Network(nname, threshold, edgefilter,
-                graphdir=self.path('graphs'))
+                graphdir=self.path('output', 'graphs'))
         return network
