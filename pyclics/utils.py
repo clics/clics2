@@ -248,11 +248,18 @@ def make_language_map(data):
         return geojson.Feature(
             geometry=geojson.Point((meta['longitude'], meta['latitude'])),
             properties={
+                "name" : meta['name'],
                 "language": meta['name'],
                 "coverage": meta['size'],
                 "family": meta['family'],
                 "area": meta['macroarea'],
+                "variety": "std",
+                "key": meta['identifier'],
+                "glottocode": meta['glottocode'],
+                "source": meta['source'],
                 "marker-size": 'small',
+                "lon": meta['longitude'],
+                "lat": meta['latitude'],
                 "marker-color": marker_color})
 
     return geojson.FeatureCollection([_feature(m) for m in data.values()])
