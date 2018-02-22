@@ -63,6 +63,7 @@ def clean(args):
 def languages(args):
     data = {}
     ltable = Table('Number', 'Language', 'Family', 'Size', 'Source')
+    gcodes = defaultdict(list)
     with args.api.csv_writer(Path('output', 'stats'), 'languages') as writer:
         writer.writerow([
             'Identifier',
@@ -75,23 +76,25 @@ def languages(args):
         for i, wl in enumerate(args.api.wordlists()):
             if wl['meta']['longitude'] and wl['meta']['family'] != 'Bookkeeping':
                 data[wl['meta']['identifier']] = wl['meta']
-            writer.writerow([
-                wl['meta']['identifier'],
-                wl['meta']['name'],
-                wl['meta']['glottocode'],
-                wl['meta']['family'],
-                wl['meta']['longitude'],
-                wl['meta']['latitude']])
-            ltable.append([
-                i + 1,
-                '[{0}](http://glottolog.org/resource/languoid/id/{1})'.format(
-                    wl['meta']['name'], wl['meta']['glottocode']),
-                wl['meta']['family']
-                if wl['meta']['family'] != wl['meta']['glottocode'] else 'isolate',
-                wl['meta']['size'],
-                wl['meta']['source'],
-            ])
-            count += 1
+                gcodes[wl['meta']['glottocode']] += [(wl['meta']['identifier'], 
+                    wl['meta']['size'])]
+                writer.writerow([
+                    wl['meta']['identifier'],
+                    wl['meta']['name'],
+                    wl['meta']['glottocode'],
+                    wl['meta']['family'],
+                    wl['meta']['longitude'],
+                    wl['meta']['latitude']])
+                ltable.append([
+                    i + 1,
+                    '[{0}](http://glottolog.org/resource/languoid/id/{1})'.format(
+                        wl['meta']['name'], wl['meta']['glottocode']),
+                    wl['meta']['family']
+                    if wl['meta']['family'] != wl['meta']['glottocode'] else 'isolate',
+                    wl['meta']['size'],
+                    wl['meta']['source'],
+                ])
+                count += 1
 
     args.api.write_md_table('cldf', 'README', 'Languages in CLICS', ltable, args.log)
     args.api.write_md_table('output', 'languages', 'Languages in CLICS', ltable, args.log)
@@ -100,6 +103,9 @@ def languages(args):
     jsonlib.dump(make_language_map(data), args.api.path('app', 'source',
         'langsGeo.json'),
             indent=2)
+    if args.verbose:
+        print('Found {0} languages ({1} unique glotto codes)'.format(
+            count-1, len(gcodes)))
 
 
 @command()
@@ -120,9 +126,11 @@ def coverage(args):
             'Family',
             'Value',
             'ClicsValue'])
+        all_visited = set()
         for wl in args.api.wordlists():
             if wl['meta']['identifier'] in languages and \
                     wl['meta']['longitude'] and wl['meta']['family'] != 'Bookkeeping':
+                visited = defaultdict(list)
                 cidx, vidx, oidx, gidx = (
                     wl[0].index('Parameter_ID'),
                     wl[0].index('Clics_Value'),
@@ -131,8 +139,10 @@ def coverage(args):
                 for idx in wl['identifiers']:
                     concept = wl[idx][cidx]
                     value = wl[idx][vidx]
+                    gloss = wl[idx][gidx]
 
-                    if concept and concepticon[concept].get('gloss', ''):
+                    
+                    if concept and gloss == visited.get(concept, gloss) and concepticon[concept].get('gloss', ''):
                         concepts[concept].append(
                             (wl['meta']['family'], wl['meta']['identifier'], idx))
                         writer.writerow([
@@ -145,6 +155,15 @@ def coverage(args):
                             wl['meta']['family'],
                             wl[idx][oidx],
                             value])
+                        visited[concept] = gloss
+                    else:
+                        pair = (concept, gloss, visited[concept])
+                        if pair not in all_visited:
+                            print('Problem: ', concept, gloss, visited[concept],
+                                    wl['meta']['source'])
+                            all_visited.add(pair)
+                        else:
+                            pass
 
     concept_table = Table('Number', 'Concept', 'SemanticField', 'Category', 'Reflexes')
     with args.api.csv_writer(Path('output', 'stats'), 'concepts') as writer:
@@ -182,6 +201,7 @@ def coverage(args):
 
     args.api.write_md_table(
         'output', 'concepts', 'Concepts in CLICS', concept_table, args.log)
+    if args.verbose: print(len(concepts))
     return concepts
 
 
@@ -218,7 +238,7 @@ def colexification(args):
                             G[conceptA][conceptB]['languages'].add(wl['meta']['identifier'])
                             G[conceptA][conceptB]['families'].add(wl['meta']['family'])
                             G[conceptA][conceptB]['wofam'].append('/'.join([
-                                idxA, wl['meta']['identifier'],
+                                idxA, idxB, wl[idxA][entry_index], wl['meta']['identifier'],
                                 wl['meta']['family']]))
                         else:
                             G.add_edge(
@@ -227,7 +247,8 @@ def colexification(args):
                                 words={(idxA, idxB)},
                                 languages={wl['meta']['identifier']},
                                 families={wl['meta']['family']},
-                                wofam=['/'.join([idxA, wl['meta']['identifier'],
+                                wofam=['/'.join([idxA, idxB,
+                                    wl[idxA][entry_index], wl['meta']['identifier'],
                                     wl['meta']['family']])]
                                 )
     ignore_edges = []
@@ -414,7 +435,7 @@ def subgraph(args):
     _graph = args.api.load_graph(graphname, threshold, edgefilter)
     for node, data in _graph.nodes(data=True):
         data['subgraph'] = [node]
-
+    
     for node, data in _graph.nodes(data=True):
         max_gen = 1
         min_weight = 3
@@ -422,7 +443,7 @@ def subgraph(args):
         while queue:
             source, neighbors, generation = queue.pop(0)
             for n, d in neighbors.items():
-                if d[edge_weights] > min_weight:
+                if n not in data['subgraph'] and d[edge_weights] > min_weight:
                     data['subgraph'] += [n]
                     queue += [(n, _graph[n], generation+1)]
             if generation > max_gen:
@@ -433,29 +454,47 @@ def subgraph(args):
                     break
             if len(data['subgraph']) > 30:
                 break
-
         if verbose: print(node, data['Gloss'], len(data['subgraph']))
 
 
 
     cluster_names = {}
+    nodes2cluster = {}
+    nidx = 1
     for node, data in sorted(_graph.nodes(data=True), key=lambda x:
             len(x[1]['subgraph']), reverse=True):
-        cluster_name = 'subgraph_{0}_{1}'.format(node, data['Gloss'])
-        sg = _graph.subgraph(data['subgraph'])
+        nodes = tuple(sorted(data['subgraph']))
+        sg = _graph.subgraph(nodes)
+        if nodes not in nodes2cluster:
+            d_ = sorted(sg.degree(), key=lambda x: x[1], reverse=True)
+            d = [_graph.node[a]['Gloss'] for a, b in d_][0]
+            nodes2cluster[nodes] = 'subgraph_{0}_{1}'.format(
+                    nidx, d)
+            nidx += 1
+        else:
+            print('found a node')
+        cluster_name = nodes2cluster[nodes]
+        data['ClusterName'] = cluster_name
         for n, d in sg.nodes(data=True):
             d['OutEdge'] = [];
             neighbors = [n_ for n_ in _graph if n_ in _graph[node] and
-                    _graph[node][n_][edge_weights] >= 5 and n_ not in sg]
+                    _graph[node][n_]['FamilyWeight'] >= 5 and n_ not in sg]
             if neighbors:
                 sg.node[node]['OutEdge'] = []
                 for n_ in neighbors:
                     sg.node[node]['OutEdge'] += [[
                         'subgraph_'+n_+'_'+_graph.node[n]['Gloss'],
                         _graph.node[n_]['Gloss'],
-                        str(_graph[node][n_][edge_weights]),
-                        _graph.node[n_]['WordFrequency'],
+                        _graph.node[n_]['Gloss'],
+                        _graph[node][n_]['FamilyWeight'],
                         n_
+                        ]]
+                    sg.node[node]['OutEdge'] += [[
+                        _graph.node[n]['ClusterName'],
+                        _graph.node[n]['CentralConcept'],
+                        _graph.node[n]['Gloss'],
+                        _graph[node][n]['WordWeight'],
+                        n
                         ]]
         if len(sg) > 1:
             jsonlib.dump(
@@ -499,8 +538,7 @@ def communities(args):
                 data[edge_weights])
         vertex_weights = None
         edge_weights = b'weight' if PY2 else 'weight'
-        if verbose:
-            print('[i] computed weights')
+        if verbose: print('[i] computed weights')
 
     graph = networkx2igraph(_graph)
     if verbose: print('[i] converted graph...')
@@ -549,15 +587,15 @@ def communities(args):
         for node, data in sg.nodes(data=True):
             data['OutEdge'] = []
             neighbors = [n for n in _graph if n in _graph[node] and
-                    _graph[node][n][edge_weights] >= 5 and n not in sg]
+                    _graph[node][n]['FamilyWeight'] >= 5 and n not in sg]
             if neighbors:
                 sg.node[node]['OutEdge'] = []
                 for n in neighbors:
                     sg.node[node]['OutEdge'] += [[
                         _graph.node[n]['ClusterName'],
                         _graph.node[n]['CentralConcept'],
-                        str(_graph[node][n][edge_weights]),
-                        _graph.node[n]['WordFrequency'],
+                        _graph.node[n]['Gloss'],
+                        _graph[node][n]['WordWeight'],
                         n
                         ]]
             
@@ -580,6 +618,51 @@ def communities(args):
     with open(args.api.path('app', 'source', 'infomap-names.js').as_posix(), 'w') as f:
         f.write('var INFO = '+json.dumps(cluster_names, indent=2)+';')
 
+@command()
+def export(args):
+    threshold = args.threshold or 1
+    edgefilter = args.edgefilter
+    nG = args.api.load_graph('network', threshold, edgefilter)
+    iG = args.api.load_graph('infomap', threshold, edgefilter)
+    sG = args.api.load_graph('subgraph', threshold, edgefilter)
+
+    # make the edges first
+    with args.api.csv_writer(Path('output', 'clld'), 'edges') as writer:
+        writer.writerow([
+            'id',
+            'node_a',
+            'node_b',
+            'weight'])
+
+
+        for node_a, node_b, data  in iG.edges(data=True):
+            edge_id = node_a + '/'+node_b
+            writer.writerow([edge_id, node_a, node_b, data['weight']])
+    # now make the colexifications
+    with args.api.csv_writer(Path('output', 'clld'), 'colexifications') as writer:
+        writer.writerow(['id', 'word_a', 'word_b', 'clics_value', 'language_id', 'family'])
+        for nodeA, nodeB, data in nG.edges(data=True):
+            for word in data['wofam'].split(';'):
+                w1, w2, entry, lid, fam = word.split('/')
+                writer.writerow([w1+'/'+w2, w1, w2, entry, lid, fam])
+    
+    # write the node bundles
+    visited = set()
+    with args.api.csv_writer(Path('output', 'clld'), 'graphs') as writer:
+        writer.writerow(['id', 'nodes', 'type'])
+        for node, data in iG.nodes(data=True):
+            if data['ClusterName'] not in visited:
+                nodes = sorted([n for n in iG if iG.node[n]['ClusterName'] ==
+                    data['ClusterName']])
+                writer.writerow([
+                    data['ClusterName'], '/'.join(nodes), 'infomap'])
+                visited.add(data['infomap'])
+        for node, data in sG.nodes(data=True):
+            if data['ClusterName'] not in visited:
+                nodes = sorted(data['subgraph'])
+                writer.writerow([
+                    data['ClusterName'], '/'.join(nodes), 'subgraph'])
+                visited.add(data['ClusterName'])
 
 @command('graph-stats')
 def graph_stats(args):
