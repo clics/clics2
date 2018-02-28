@@ -4,6 +4,7 @@ from collections import defaultdict, Counter
 from itertools import combinations, groupby
 import geojson
 import unidecode
+import tqdm
 
 from six import text_type
 from clldutils.dsv import UnicodeWriter
@@ -12,6 +13,11 @@ from clldutils import jsonlib
 from clldutils.path import Path
 from pycldf.dataset import Wordlist
 import pyclics
+
+def pb(iterable=None, **kw):
+    kw.setdefault('leave', False)
+    return tqdm.tqdm(iterable=iterable, **kw)
+
 
 def clics_path(*comps):
     return Path(pyclics.__file__).parent.parent.joinpath(*comps)
@@ -44,18 +50,22 @@ def lexibank2clics(lexibank_dir, clics_dir, languoids):
     wl = Wordlist.from_metadata(lexibank_dir.joinpath('cldf', 'cldf-metadata.json'))
     varieties = {l['ID']: l for l in wl['LanguageTable'] if l['glottocode']}
     concepts = {l['ID']: l for l in wl['ParameterTable'] if l['conceptset']}
-    count = Counter()
-    md = {}
-
-    for lid, forms in groupby(
-            sorted(wl['FormTable'], key=lambda r: r['Language_ID']),
-            lambda r: r['Language_ID']):
+    count, gcodes = Counter(), set()
+    md = {
+            '_concepts': len(concepts),
+            '_varieties': len(varieties)
+            }
+    forms = sorted(wl['FormTable'], key=lambda r: r['Language_ID'])
+    for lid, forms in pb(
+            groupby(forms, lambda r: r['Language_ID']), 
+            desc='loading data', 
+            total=len(forms)
+            ):
         if lid not in varieties:
             # A variety which isn't mapped to glottolog.
             continue
         variety = varieties[lid]
         if variety['glottocode'] not in languoids:
-            print('unknown glottocode {0}'.format(variety['glottocode']))
             continue
         forms = [form for form in forms if form['Parameter_ID'] in concepts]
         languoid = languoids[variety['glottocode']]
@@ -70,6 +80,7 @@ def lexibank2clics(lexibank_dir, clics_dir, languoids):
             identifier=lid,
             family=languoid.lineage[0][0] if languoid.lineage else variety['glottocode'])
         count[lid] = 0
+        gcodes.add(variety['glottocode'])
         with UnicodeWriter(clics_dir.joinpath('{0}.csv'.format(slug(lid)))) as writer:
             writer.writerow([
                 'Doculect_id',
@@ -98,8 +109,7 @@ def lexibank2clics(lexibank_dir, clics_dir, languoids):
         meta['size'] = count[lid]
         md[slug(lid)] = meta
     jsonlib.dump(md, clics_dir.joinpath('md.json'), indent=4)
-    return count
-
+    return count, len(gcodes), len(concepts)
 
 def full_colexification(wordlist, key='ids_key', entry='entry', indices='indices'):
     """

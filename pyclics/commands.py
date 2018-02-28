@@ -2,6 +2,7 @@
 from __future__ import unicode_literals, print_function, division
 from collections import defaultdict
 from itertools import combinations
+import os
 
 from six import PY2
 from clldutils.clilib import command
@@ -16,9 +17,9 @@ from networkx.readwrite import json_graph
 from tabulate import tabulate
 import json
 
-from pyclics.utils import (
+from pyclics.util import (
     load_concepticon, full_colexification, make_language_map, partial_colexification,
-    clics_path
+    clics_path, pb
 )
 from pyclics.api import Network
 
@@ -29,10 +30,32 @@ def list_(args):
 
     clics --lexibank-repos=PATH/TO/lexibank-data list
     """
-    for d in sorted(args.lexibank_repos.joinpath('datasets').iterdir()):
-        if d.joinpath('cldf', 'cldf-metadata.json').exists():
-            print(d.stem)
-
+    if args.unloaded:
+        for d in sorted(args.lexibank_repos.joinpath('datasets').iterdir()):
+            if d.joinpath('cldf', 'cldf-metadata.json').exists():
+                print(d.stem)
+    else:
+        info = {line[0]: line for line in args.api.csv_reader('cldf',
+            'sources')}
+        table = [('#', 'dataset', 'concepts', 'varieties', 'languages')] 
+        all_gcodes = []
+        count = 1
+        for d in sorted(args.api.path('cldf').iterdir()):
+            if d.joinpath('md.json').exists():
+                data = json.load(open(d.joinpath('md.json').as_posix()))
+                gcodes = [val['glottocode'] for lid, val in data.items() if
+                        lid[0] != '_']
+                table += [(
+                    count,
+                    d.stem,
+                    data['_concepts'],
+                    data['_varieties'],
+                    len(set(gcodes))
+                    )]
+                all_gcodes += gcodes
+                count += 1
+        table += [('', 'TOTAL', '', len(all_gcodes), len(set(all_gcodes)))]
+        print(tabulate(table, headers='firstrow'))
 
 @command()
 def load(args):
@@ -41,11 +64,16 @@ def load(args):
     """
     languoids = {l.id: l for l in Glottolog(args.glottolog_repos).languoids()}
     for ds in args.args:
-        ds = args.lexibank_repos.joinpath('datasets', ds) \
-            if args.lexibank_repos.joinpath('datasets', ds).exists() else Path(ds)
-        res = args.api.load(ds, languoids)
-        args.log.info('{0}: {1:,} wordlists loaded with {2:,} lexemes total'.format(
-            ds.name, len(res), sum(res.values())))
+        try:
+            ds = args.lexibank_repos.joinpath('datasets', ds) \
+                if args.lexibank_repos.joinpath('datasets', ds).exists() else Path(ds)
+            res, gcodes, concepts = args.api.load(ds, languoids)
+            args.log.info(
+                    '{0}: {1:,} wordlists loaded with {2:,} lexemes total ({3} concepts and {4} glottocodes)'.format(
+                ds.name, len(res), sum(res.values()), concepts, gcodes))
+        except:
+            args.log.info('Integration with lexibank is not yet available.')
+            break
 
 
 @command()
@@ -73,7 +101,7 @@ def languages(args):
             'Longitude',
             'Latitude'])
         count = 1
-        for i, wl in enumerate(args.api.wordlists()):
+        for i, wl in pb(enumerate(args.api.wordlists()), desc='loading wordlists'):
             if wl['meta']['longitude'] and wl['meta']['family'] != 'Bookkeeping':
                 data[wl['meta']['identifier']] = wl['meta']
                 gcodes[wl['meta']['glottocode']] += [(wl['meta']['identifier'], 
@@ -109,7 +137,7 @@ def languages(args):
 
 
 @command()
-def coverage(args):
+def concepts(args):
     concepticon = load_concepticon(args.api, Concepticon(args.concepticon_repos))
     concepts = defaultdict(list)
     languages = [line[0] for line in args.api.csv_reader(Path('output',
@@ -127,7 +155,7 @@ def coverage(args):
             'Value',
             'ClicsValue'])
         all_visited = set()
-        for wl in args.api.wordlists():
+        for wl in pb(args.api.wordlists(), desc='counting concepts'):
             if wl['meta']['identifier'] in languages and \
                     wl['meta']['longitude'] and wl['meta']['family'] != 'Bookkeeping':
                 visited = defaultdict(list)
@@ -139,10 +167,8 @@ def coverage(args):
                 for idx in wl['identifiers']:
                     concept = wl[idx][cidx]
                     value = wl[idx][vidx]
-                    gloss = wl[idx][gidx]
-
-                    
-                    if concept and gloss == visited.get(concept, gloss) and concepticon[concept].get('gloss', ''):
+                    gloss = wl[idx][gidx]                    
+                    if concept and gloss == visited.get(concept, gloss) and concepticon.get(concept, {}).get('gloss', ''):
                         concepts[concept].append(
                             (wl['meta']['family'], wl['meta']['identifier'], idx))
                         writer.writerow([
@@ -159,8 +185,8 @@ def coverage(args):
                     else:
                         pair = (concept, gloss, visited[concept])
                         if pair not in all_visited:
-                            print('Problem: ', concept, gloss, visited[concept],
-                                    wl['meta']['source'])
+                            args.log.warn('Problem: {0:20} {1:20} {2:20} {3}'.format(concept, gloss, visited[concept],
+                                    wl['meta']['source']))
                             all_visited.add(pair)
                         else:
                             pass
@@ -212,6 +238,9 @@ def colexification(args):
     languages = [line[0] for line in args.api.csv_reader(Path('output',
         'stats'), 'languages')]
     words = {}
+    
+    def clean(word):
+        return ''.join([w for w in word if w not in '/,;"'])
 
     _tmp = list(args.api.csv_reader(Path('output', 'stats'), 'concepts'))
     concepts = {x[0]: dict(zip(_tmp[0], x)) for x in _tmp[1:]}
@@ -220,7 +249,7 @@ def colexification(args):
         vals['ConcepticonId'] = vals['ID']
         G.add_node(idx, **vals)
 
-    for wl in args.api.wordlists():
+    for wl in pb(args.api.wordlists(), desc='iterating wordlists'):
         if wl['meta']['identifier'] in languages and wl['meta']['longitude'] and wl['meta']['family'] != 'Bookkeeping':
             cols = full_colexification(
                 wl,
@@ -228,18 +257,22 @@ def colexification(args):
                 entry='Clics_Value',
                 indices='identifiers')
             entry_index = wl[0].index('Clics_Value')
+            value_index = wl[0].index('Value')
             for k, v in cols.items():
                 for (conceptA, idxA), (conceptB, idxB) in combinations(v, r=2):
                     # check for identical concept resulting from word-variants
                     if conceptA != conceptB:
-                        words[idxA] = wl[idxA][entry_index]
+                        words[idxA] = [wl[idxA][entry_index],
+                                wl[idxA][value_index]]
                         if G[conceptA].get(conceptB, False):
                             G[conceptA][conceptB]['words'].add((idxA, idxB))
                             G[conceptA][conceptB]['languages'].add(wl['meta']['identifier'])
                             G[conceptA][conceptB]['families'].add(wl['meta']['family'])
                             G[conceptA][conceptB]['wofam'].append('/'.join([
                                 idxA, idxB, wl[idxA][entry_index], wl['meta']['identifier'],
-                                wl['meta']['family']]))
+                                wl['meta']['family'],
+                                clean(wl[idxA][value_index]),
+                                clean(wl[idxB][value_index])]))
                         else:
                             G.add_edge(
                                 conceptA,
@@ -249,10 +282,12 @@ def colexification(args):
                                 families={wl['meta']['family']},
                                 wofam=['/'.join([idxA, idxB,
                                     wl[idxA][entry_index], wl['meta']['identifier'],
-                                    wl['meta']['family']])]
+                                    wl['meta']['family'],
+                                    clean(wl[idxA][value_index]),
+                                    clean(wl[idxB][value_index])])]
                                 )
     ignore_edges = []
-    with args.api.csv_writer('stats', 'colexifications-{0}-{1}'.format(
+    with args.api.csv_writer(Path('output', 'stats'), 'colexifications-{0}-{1}'.format(
             threshold, edgefilter)) as f:
         f.writerow('EdgeA,EdgeB,FamilyWeight,LanguageWeight,WordWeight'.split())
         for edgeA, edgeB, data in G.edges(data=True):
@@ -379,49 +414,6 @@ def articulationpoints(args):
         args.log)
     args.api.save_graph(graph, aps, log=args.log)
 
-
-@command('cocitation-graph')
-def cocitationgraph(args):
-    graph = args.api.load_graph(
-        args.graphname or 'dinetwork', args.threshold or 3, args.edgefilter)
-    igr = networkx2igraph(graph)
-    v = igr.bibcoupling()
-    return v, igr, graph
-
-
-@command()
-def transitions(args):
-    threshold = args.threshold or 3
-    edgefilter = args.edgefilter
-    verbose = True
-    aspect = args.aspect or 'semanticfield'
-    weight = args.weight
-    assymetric = True
-    concepticon = load_concepticon(args.api, Concepticon(args.concepticon_repos))
-    graph = args.api.load_graph(args.graphname or 'network', threshold, edgefilter)
-
-    trs = defaultdict(list)
-    for nA, nB, data in graph.edges(data=True):
-        catA = concepticon[nA].get(aspect, '?')
-        catB = concepticon[nB].get(aspect, '?')
-        trs[catA, catB] += [(nA, nB, data[weight])]
-
-    out = ['# Transitions (Analysis t={0}, f={1})'.format(threshold, edgefilter)]
-    for (catA, catB), values in sorted(
-            trs.items(), key=lambda x: len(x[1]), reverse=True):
-        if len(values) > 2:
-            if (assymetric and catA != catB) or not assymetric:
-                if verbose:
-                    print('{0:40} -> {1:40} / {2}'.format(catA, catB, len(values)))
-                out.append('\n## {0} -> {1} / {2}'.format(catA, catB, len(values)))
-                for a, b, c in values:
-                    out.append('{0:20} -> {1:20} / {2}'.format(
-                        concepticon[a]['GLOSS'], concepticon[b]['GLOSS'], c))
-    write_text(
-        args.api.path('stats', 'transitions-{0}-{1}.md'.format(threshold, edgefilter)),
-        '\n'.join(out))
-
-
 @command()
 def subgraph(args):
     graphname = args.graphname or 'network'
@@ -454,15 +446,25 @@ def subgraph(args):
                     break
             if len(data['subgraph']) > 30:
                 break
-        if verbose: print(node, data['Gloss'], len(data['subgraph']))
+        args.log.info('{0:20} {1:20} {2}'.format(
+                node, data['Gloss'], len(data['subgraph'])))
 
 
 
     cluster_names = {}
+    # remove json files from app
+    try:
+        rmtree(args.api.path('app', 'subgraph'))
+        os.mkdir(args.api.path('app', 'subgraph').as_posix())
+    except:
+        pass
+
+    args.log.info('removed nodes')
+
     nodes2cluster = {}
     nidx = 1
-    for node, data in sorted(_graph.nodes(data=True), key=lambda x:
-            len(x[1]['subgraph']), reverse=True):
+    for node, data in pb(sorted(_graph.nodes(data=True), key=lambda x:
+            len(x[1]['subgraph']), reverse=True), desc='preparing nodes'):
         nodes = tuple(sorted(data['subgraph']))
         sg = _graph.subgraph(nodes)
         if nodes not in nodes2cluster:
@@ -472,7 +474,7 @@ def subgraph(args):
                     nidx, d)
             nidx += 1
         else:
-            print('found a node')
+            args.log.info('found a duplicate node')
         cluster_name = nodes2cluster[nodes]
         data['ClusterName'] = cluster_name
         for n, d in sg.nodes(data=True):
@@ -504,7 +506,7 @@ def subgraph(args):
                         'subgraph', 
                         cluster_name+'.json'
                         ),
-                    indent=2, sort_keys=True)
+                    sort_keys=True)
             cluster_names[data['Gloss']] = cluster_name
     for node, data in _graph.nodes(data=True):
         if 'OutEdge' in data:
@@ -527,23 +529,26 @@ def communities(args):
     threshold = args.threshold or 1
 
     _graph = args.api.load_graph(graphname, threshold, edgefilter)
-    for n, d in _graph.nodes(data=True):
+    args.log.info('loaded graph')
+    for n, d in pb(_graph.nodes(data=True), desc='vertex-weights'):
         d[vertex_weights] = int(d[vertex_weights])
 
     if normalize:
-        for edgeA, edgeB, data in _graph.edges(data=True):
+        for edgeA, edgeB, data in pb(_graph.edges(data=True), desc='normalizing'):
             data[b'weight' if PY2 else 'weight'] = data[edge_weights] ** 2 / (
                 _graph.node[edgeA][vertex_weights] +
                 _graph.node[edgeB][vertex_weights] -
                 data[edge_weights])
         vertex_weights = None
         edge_weights = b'weight' if PY2 else 'weight'
-        if verbose: print('[i] computed weights')
+        args.log.info('computed weights')
 
     graph = networkx2igraph(_graph)
-    if verbose: print('[i] converted graph...')
+    args.log.info('starting infomap')
+    args.log.info('converted graph...')
     comps = graph.community_infomap(
         edge_weights=edge_weights, vertex_weights=vertex_weights)
+    args.log.info('finished infomap')
     D, Com = {}, defaultdict(list)
     with args.api.csv_writer(Path('output', 'communities'), 'infomap') as writer:
         for i, comp in enumerate(sorted(comps.subgraphs(), key=lambda x:
@@ -574,15 +579,24 @@ def communities(args):
             d = _graph.node[nodes[0]]['Gloss']
             cluster_name = 'infomap_{0}_{1}'.format(idx,
                     _graph.node[nodes[0]]['Gloss'])
-        if verbose: print(cluster_name, d)
+        args.log.debug(cluster_name, d)
         for node in nodes:
             _graph.node[node]['ClusterName'] = cluster_name
             _graph.node[node]['CentralConcept'] = d
 
-    if verbose: print('computed cluster names')
+    args.log.info('computed cluster names')
     
     cluster_names = {}
-    for idx, nodes in sorted(Com.items()):
+    # remove json files from app
+    try:
+        rmtree(args.api.path('app', 'cluster'))
+        args.log.info('removed nodes')
+        os.mkdir(args.api.path('app', 'cluster').as_posix())
+    except:
+        pass
+    
+    removed = []
+    for idx, nodes in pb(sorted(Com.items()), desc='export to app'):
         sg = _graph.subgraph(nodes)
         for node, data in sg.nodes(data=True):
             data['OutEdge'] = []
@@ -598,7 +612,6 @@ def communities(args):
                         _graph[node][n]['WordWeight'],
                         n
                         ]]
-            
         if len(sg) > 1:
             jsonlib.dump(
                     json_graph.adjacency_data(sg),
@@ -607,12 +620,20 @@ def communities(args):
                         'cluster', 
                         _graph.node[nodes[0]]['ClusterName']+'.json'
                         ),
-                    indent=2, sort_keys=True)
+                    sort_keys=True)
             for node in nodes:
                 cluster_names[_graph.node[node]['Gloss']] = _graph.node[node]['ClusterName']
+        else:
+            removed += [list(nodes)[0]]
+    _graph.remove_nodes_from(removed)
     for node, data in _graph.nodes(data=True):
         if 'OutEdge' in data:
-            data['OutEdge'] = '//'.join([str(x) for x in data['OutEdge']])
+            data['OutEdge'] = '//'.join(['/'.join([str(y) for y in x]) for x in data['OutEdge']])
+    removed = []
+    for nA, nB, data in pb(_graph.edges(data=True), desc='remove edges'):
+        if _graph.node[nA]['infomap'] != _graph.node[nB]['infomap'] and data['FamilyWeight'] < 5:
+            removed += [(nA, nB)]
+    _graph.remove_edges_from(removed)
 
     args.api.save_graph(_graph, 'infomap', threshold, edgefilter, log=args.log)
     with open(args.api.path('app', 'source', 'infomap-names.js').as_posix(), 'w') as f:
@@ -640,11 +661,13 @@ def export(args):
             writer.writerow([edge_id, node_a, node_b, data['weight']])
     # now make the colexifications
     with args.api.csv_writer(Path('output', 'clld'), 'colexifications') as writer:
-        writer.writerow(['id', 'word_a', 'word_b', 'clics_value', 'language_id', 'family'])
+        writer.writerow(['id', 'word_a', 'word_b', 'clics_value',
+            'language_id', 'family', 'value_a', 'value_b'])
         for nodeA, nodeB, data in nG.edges(data=True):
             for word in data['wofam'].split(';'):
-                w1, w2, entry, lid, fam = word.split('/')
-                writer.writerow([w1+'/'+w2, w1, w2, entry, lid, fam])
+                w1, w2, entry, lid, fam, ovalA, ovalB = word.split('/')
+                writer.writerow([w1+'/'+w2, w1, w2, entry, lid, fam, ovalA,
+                    ovalB])
     
     # write the node bundles
     visited = set()
@@ -679,141 +702,4 @@ def graph_stats(args):
     print(tabulate(table))
 
 
-@command()
-def colexification_dump(args):
-    concepticon = load_concepticon(args.api, Concepticon(args.concepticon_repos))
-    languages = [line[0] for line in args.api.csv_reader('output', 'stats', 'languages')]
-    all_colexifications = [
-        (l[0], l[1]) for l in args.api.csv_reader('stats', 'colexifications')][1:]
-    concepts = set()
-    for c1, c2 in all_colexifications:
-        concepts.add(c1)
-        concepts.add(c2)
-    concepts = sorted(concepts)
 
-    with args.api.csv_writer('output', 'dump') as writer:
-        for wl in args.api.wordlists():
-            if wl['meta']['identifier'] in languages:
-                cols = full_colexification(
-                    wl,
-                    key='Parameter_ID',
-                    entry='Clics_Value',
-                    indices='identifiers')
-                tmp = defaultdict(int)
-                for k, v in cols.items():
-                    for (conceptA, idxA), (conceptB, idxB) in combinations(v, r=2):
-                        tmp[conceptA, conceptB] += 1
-                        tmp[conceptB, conceptA] += 1
-                    for cnc, idx in v:
-                        tmp[cnc, cnc] += 1
-                for cnc in concepts:
-                    writer.writerow([
-                        wl['meta']['family'], wl['meta']['identifier'],
-                        '"'+concepticon[cnc]['gloss']+'"',
-                        '"'+concepticon[cnc]['gloss']+'"',
-                        str(tmp[cnc, cnc])])
-                for cidxA, cidxB in all_colexifications:
-                    if tmp[cidxA, cidxB] or (tmp[cidxA, cidxA] and tmp[cidxB, cidxB]):
-                        writer.writerow([
-                            wl['meta']['family'],
-                            wl['meta']['identifier'],
-                            '"'+concepticon[cidxA]['gloss']+'"',
-                            '"'+concepticon[cidxB]['gloss']+'"', str(tmp[cidxA, cidxB])])
-                    elif not tmp[cidxA, cidxA] or not tmp[cidxB, cidxB]:
-                        writer.writerow([
-                            wl['meta']['family'],
-                            wl['meta']['identifier'],
-                            '"'+concepticon[cidxA]['gloss']+'"',
-                            '"'+concepticon[cidxB]['gloss']+'"', '-1'])
-
-
-@command()
-def partialcolexification(args):
-    """Function computes partial colexification graph of a given pre-clustered \
-            graph.
-
-    Notes
-    -----
-    Essentially, the search space is restricted in this approach by two
-    factors:
-
-    1. only search within the same community for partial colexifications
-    2. include the highest cross-community edges.
-
-    """
-    cutoff=5
-    edgefilter='families'
-    verbose=False
-    threshold=3
-    pairs='infomap'
-    graphname='infomap'
-    weight='FamilyWeight'
-    _tmp = args.api.csv_reader('stats', 'concepts')
-    languages = [line[0] for line in args.api.csv_reader('stats', 'languages')]
-
-    concepts = dict([(x[0], dict(zip(_tmp[0], x))) for x in _tmp[1:]])
-    G = nx.DiGraph()
-    for idx, vals in concepts.items():
-        vals['ConcepticonId'] = vals['ID']
-        G.add_node(idx, **vals)
-    coms = defaultdict(list)
-    for a, b, c in args.api.csv_reader('communities', pairs):
-        coms[c] += [a]
-        G.node[a]['community'] = c
-    _graph = args.api.load_graph(graphname, threshold, edgefilter)
-    cidx = 1
-    for nA, nB, data in _graph.edges(data=True):
-        if _graph.node[nA]['infomap'] != _graph.node[nB]['infomap']:
-            if data[weight] >= threshold:
-                coms[cidx] = [nA, nB]
-                cidx += 1
-
-    for wl in args.api.wordlists():
-        pcolnum = 0
-        if wl['meta']['identifier'] in languages:
-            for com, nodes in coms.items():
-                pcols = partial_colexification(
-                    wl, nodes,
-                    key='Parameter_ID',
-                    indices='identifiers',
-                    threshold=cutoff,
-                    entry='Clics_Value')
-                pcolnum += len(pcols)
-                for (idxA, wordA, conceptA, idxB, wordB, conceptB) in pcols:
-                    if G.edge.get(conceptA, {}).get(conceptB, False):
-                        G.edge[conceptA][conceptB]['words'].add((idxA, idxB))
-                        G.edge[conceptA][conceptB]['languages'].add(wl['meta']['identifier'])
-                        G.edge[conceptA][conceptB]['families'].add(wl['meta']['family'])
-                    else:
-                        G.add_edge(
-                            conceptA,
-                            conceptB,
-                            words={(idxA, idxB)},
-                            languages=set([wl['meta']['identifier']]),
-                            families=set([wl['meta']['family']]))
-    ignore_edges = []
-    with args.api.csv_writer(
-            'stats', 'partialcolexifications-{0}-{1}'.format(threshold, edgefilter)) as w:
-        for edgeA, edgeB, data in G.edges(data=True):
-            data['WordWeight'] = len(data['words'])
-            data['words'] = ';'.join(sorted(['{0}/{1}'.format(x, y) for x, y in
-                data['words']]))
-            data['FamilyWeight'] = len(data['families'])
-            data['families'] = ';'.join(sorted(data['families']))
-            data['LanguageWeight'] = len(data['languages'])
-            data['languages'] = ';'.join(data['languages'])
-            if edgefilter == 'families' and data['FamilyWeight'] < threshold:
-                ignore_edges += [(edgeA, edgeB)]
-            elif edgefilter == 'languages' and data['LanguageWeight'] < threshold:
-                ignore_edges += [(edgeA, edgeB)]
-            elif edgefilter == 'words' and data['WordWeight'] < threshold:
-                ignore_edges += [(edgeA, edgeB)]
-            w.writerow([
-                edgeA,
-                edgeB,
-                data['FamilyWeight'],
-                data['LanguageWeight'],
-                data['WordWeight']])
-        G.remove_edges_from(ignore_edges)
-
-    args.api.save_graph(G, 'digraph', threshold, edgefilter, log=args.log)
