@@ -1,0 +1,61 @@
+#visualization {
+  width: 100%; //800px;
+  position: relative;
+  height: 400px;
+  background-color: white;
+  }
+
+#info {
+  background-color: white;
+	position: absolute;
+	//font-family: Arial,Verdana,Helvetica,sans-serif;
+	font-size: 10pt;
+	left: 5px;
+	top: 10px;
+  width: 325px;
+  height: 230px;
+  overflow: auto;
+  display: table-cell;
+}
+#info.hidden {
+	display: none;
+}
+#vis {
+	position: absolute;
+	left: 300px;
+  top: 0px;
+}
+
+tr:nth-child(even) {background: #DDD}
+tr:nth-child(odd) {background: #FFF}
+table.infotable { counter-reset: line-number; border: 1px dotted gray;}
+table.infotable td:first-child:before {
+content: counter(line-number) ".";
+counter-increment: line-number;
+padding-right: 0.3em; }
+.infotable td {
+	padding-right: 5px;
+}
+.hidden {
+	display: none;
+}
+#WorldColorScale {
+	position: absolute;
+	top: -45px;
+	right: 0px;
+}
+
+#control {
+	position: relative;
+	top: -13px;
+	left: -97px;
+}
+
+#map {
+	position: absolute;
+	top: 243px;
+	left: 5px; //right: 0px;
+	width: 308px;
+	height: 150px;
+}
+

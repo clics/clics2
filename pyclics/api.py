@@ -16,7 +16,7 @@ from clldutils.misc import UnicodeMixin
 from clldutils import jsonlib
 import networkx as nx
 
-from pyclics.utils import lexibank2clics, clics_path
+from pyclics.util import lexibank2clics, clics_path
 
 @attr.s
 class Network(UnicodeMixin):

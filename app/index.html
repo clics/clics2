@@ -1,0 +1,57 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<title>CLICS</title>
+
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="description" content="Cross-Linguistic Colexification">
+<meta name="keywords" content="linguistics, historical linguistics,polysemy">
+<meta name="resource-type" content="linguistics,historical linguistics">
+<meta name="distribution" content="global">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<!--<link rel="stylesheet" href="source/clips.css" type="text/css" media="screen">-->
+<link rel="stylesheet" href="source/our.css" type="text/css" media="screen"> 
+<script type="text/javascript", src="source/infomap-names.js"></script>
+<script type="text/javascript", src="source/subgraph-names.js"></script>
+<script type="text/javascript", src="source/jquery-latest.js"></script>
+<script type="text/javascript", src="source/jquery-ui.js"></script>
+<link rel="stylesheet" href="http://code.jquery.com/ui/1.9.2/themes/base/jquery-ui.css" />
+</head>
+<body>
+  <h1>Local CLICS Browser</h1>
+  Currently, this browser works only in Firefox.<br>
+  <input type="radio" checked=checked id="cluster" name="graphtype" value="cluster">
+  <label for="cluster">Infomap</label>
+  <input type="radio" id="subgraph" name="graphtype" value="subgraph">
+  <label for="subgraph">SubGraph</label>
+  <input type="text" id="selector" onkeyup="" placeholder="select your cluster"></input>
+  <button onclick="change_IFR();">OK</button><br>
+  <br>
+  <div style="border:1px solid grey;width:1000px;">
+    <iframe id="ifr" src="graph.html"
+						      style="width:1000px;height:500px;border:1px solid white;overflow:hidden;"></iframe>
+  </div><br>
+  <script>
+function change_IFR(){
+  var value, cluster;
+  var radios = document.getElementsByName('graphtype');
+  for (var i=0; i<radios.length; i++) {
+    if (radios[i].checked) {
+      value = radios[i].value;
+      break;
+    }
+  }
+  if (value == 'cluster'){
+    cluster = INFO[document.getElementById('selector').value];
+  }
+  else {
+    cluster = SUBG[document.getElementById('selector').value];
+  }
+  document.getElementById('ifr').src = 'graph.html?'+cluster;
+
+}
+$(function() {
+  $("#selector").autocomplete({source: Object.keys(INFO)});
+});
+  </script>
+
+</body>
+</html>
