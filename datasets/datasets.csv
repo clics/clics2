@@ -1,0 +1,17 @@
+"ID","Concepts","Lexemes","Varieties","Languages","Note","DataUrl","Author","Source","Provider","ProviderUrl"
+"baidial",499,4546,9,3,"This is a larger dataset on Bai dialects, a minority language spoken in China (Yunnan province), which was digitized and linked to Concepticon as part of the Chinese Dialect Database project.",,"Allen, Brian","Allen2007","cddb","http://github.com/digling/cddb"
+"bantubvd",420,4187,10,9,"This database of Bantu languages is included as part of the Austronesian Basic Vocabulary Database but was created by a different team of experts.",,"Teil-Dautrey, Gisèle","Greenhill2008","abvd",
+"beidacihui",756,15084,18,18,"This is a large collection of Chinese dialect data, which was created in the 1950s and digitized as part of the Chinese Dialect Database project.",,"{Beijing University}","BeijingDaxue1964","cddb","http://github.com/digling/cddb"
+"bowernpny",342,43928,171,169,"The data stems from a study of the phylogeny and the age of Pama-Nyungan languages, by Bowern and Atkinson (2012).",,"Bowern, Claire","Bowern2012","zenodo",
+"huberandreed",350,25726,69,65,"This large dataset of Columbian languages by Huber and Reed (1992) was digitized as part of the Quantitative Historical Linguistics project.",,"Huber, Randall Q. and Reed, Robert B.","Huber1992","qlc","http://quanthistling.info"
+"ids",1305,388084,290,245,"The Intercontinental Dictionary Series offers standardized word lists for a large variety of different languages.",,"Key, Mary Ritchie and Comrie, Bernard","Key2016","clld","http://clld.org"
+"kraft1981",428,29069,67,60,"This is a compilation of wordlists for more than 60 Chadic languages.",,"Kraft, C. H.","Kraft1981","qlc","http://quanthistling.info"
+"northeuralex",994,117751,106,106,"The NorthEuralex project offers a large collection of word lists for more than 1000 North Eurasian languages.","http://northeuralex.org","Dellert, Johannes and Jäger, Gerhard","Dellert2017","northeuralex","http://northeuralex.org"
+"robinsonap",386,4011,13,13,"The authors provide 13 wordlists based on a larger questionnaire for Timor-Alor-Pantar languages.",,"Robinson, Laura C and Holton, Gary","Robinson2012","paper supplement",
+"tls",827,80621,119,97,"The Tanzania Language Survey was compiled during the early seventies and partially published in several publications. Recent efforts by the CBOLD project try to provide the data in digital form.","http://www.cbold.ish-lyon.cnrs.fr/Docs/TLSinfo.html","Nurse, Derek and Phillipson, Gérard","Nurse1975","cbold","http://www.cbold.ish-lyon.cnrs.fr/Docs/TLSinfo.html"
+"tryonhackman1983",315,35894,111,96,,,"Tryon, Darrel T. and Hackman, Brian D.","Tryon1983",,
+"wold",1432,64537,41,41,,,"Haspelmath, Martin and Tadmor, Uri","Haspelmath2009","clld","http://clld.org"
+"satterthwaitephillipstb",422,6842,18,18,,,"Satterthwaite-Phillips, D.","SatterthwaitePhillips2011","author copy",
+"sunzmyyc",917,43773,49,49,,"https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/source/ZMYYC","Sūn, Hóngkāi 孙宏开","Sun1991","stedt","https://stedt.berkeley.edu"
+"zgraggenmadang",98,31463,309,98,,,"Z'graggen, J. A.","Zgraggen1980,Zgraggen1980a","transnewguinea.org","http://transnewguinea.org/"
+"TOTAL",,,,,,,,,,

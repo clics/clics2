@@ -86,7 +86,7 @@ class Clics(API):
             delimiter=delimiter)
 
     def wordlists(self):
-        for dd in self.path('cldf').iterdir():
+        for dd in self.path('datasets').iterdir():
             if dd.is_dir():
                 md = jsonlib.load(dd.joinpath('md.json'))
                 for p in dd.glob('*.csv'):
@@ -101,7 +101,7 @@ class Clics(API):
 
     def load(self, lexibank_dir, languoids):
         return lexibank2clics(
-            lexibank_dir, self.existing_dir('cldf', lexibank_dir.name), languoids)
+            lexibank_dir, self.existing_dir('datasets', lexibank_dir.name), languoids)
 
     def write_md_table(self, comp, name, title, table, log):
         p = self.path(comp, '{0}.md'.format(name))

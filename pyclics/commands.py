@@ -35,12 +35,10 @@ def list_(args):
             if d.joinpath('cldf', 'cldf-metadata.json').exists():
                 print(d.stem)
     else:
-        info = {line[0]: line for line in args.api.csv_reader('cldf',
-            'sources')}
         table = [('#', 'dataset', 'concepts', 'varieties', 'languages')] 
         all_gcodes = []
         count = 1
-        for d in sorted(args.api.path('cldf').iterdir()):
+        for d in sorted(args.api.path('datasets').iterdir()):
             if d.joinpath('md.json').exists():
                 data = json.load(open(d.joinpath('md.json').as_posix()))
                 gcodes = [val['glottocode'] for lid, val in data.items() if
@@ -62,18 +60,20 @@ def load(args):
     """
     clics load [DATASET]+
     """
-    languoids = {l.id: l for l in Glottolog(args.glottolog_repos).languoids()}
+    languoids = {}
+    for l in pb(Glottolog(args.glottolog_repos).languoids(), 
+            desc='loading glottolog', total=25000):
+        languoids[l.id] = l
+    args.log.info('{0:25} | {1:10} | {2:10} | {3:10} | {4:5}'.format(
+        'datasets', 'wordlists', 'lexemes', 'concepts', 'glottocodes'))
+    args.log.info('{0:25} | {1:10} | {2:10} | {3:10} | {4:5}'.format(
+        '---', '---', '---', '---', '---'))
     for ds in args.args:
-        try:
-            ds = args.lexibank_repos.joinpath('datasets', ds) \
-                if args.lexibank_repos.joinpath('datasets', ds).exists() else Path(ds)
-            res, gcodes, concepts = args.api.load(ds, languoids)
-            args.log.info(
-                    '{0}: {1:,} wordlists loaded with {2:,} lexemes total ({3} concepts and {4} glottocodes)'.format(
-                ds.name, len(res), sum(res.values()), concepts, gcodes))
-        except:
-            args.log.info('Integration with lexibank is not yet available.')
-            break
+        ds = args.api.path('cldf', ds) 
+        res, gcodes, concepts = args.api.load(ds, languoids)
+        args.log.info(
+                '{0:25} | {1:10} | {2:10} | {3:10} | {4:5}'.format(
+            ds.name, len(res), sum(res.values()), concepts, gcodes))
 
 
 @command()
@@ -82,8 +82,9 @@ def clean(args):
 
     clics clean
     """
-    for p in args.api.path('cldf').iterdir():
-        if not args.args or p.name in args.args:
+    for p in args.api.path('datasets').iterdir():
+        if not (args.args or p.name in args.args) and p.name not in [
+                'datasets.csv', 'README.md', 'sources.bib'] and p.is_dir():
             rmtree(p)
 
 
@@ -102,29 +103,28 @@ def languages(args):
             'Latitude'])
         count = 1
         for i, wl in pb(enumerate(args.api.wordlists()), desc='loading wordlists'):
-            if wl['meta']['longitude'] and wl['meta']['family'] != 'Bookkeeping':
-                data[wl['meta']['identifier']] = wl['meta']
-                gcodes[wl['meta']['glottocode']] += [(wl['meta']['identifier'], 
-                    wl['meta']['size'])]
-                writer.writerow([
-                    wl['meta']['identifier'],
-                    wl['meta']['name'],
-                    wl['meta']['glottocode'],
-                    wl['meta']['family'],
-                    wl['meta']['longitude'],
-                    wl['meta']['latitude']])
-                ltable.append([
-                    i + 1,
-                    '[{0}](http://glottolog.org/resource/languoid/id/{1})'.format(
-                        wl['meta']['name'], wl['meta']['glottocode']),
-                    wl['meta']['family']
-                    if wl['meta']['family'] != wl['meta']['glottocode'] else 'isolate',
-                    wl['meta']['size'],
-                    wl['meta']['source'],
-                ])
-                count += 1
+            data[wl['meta']['identifier']] = wl['meta']
+            gcodes[wl['meta']['glottocode']] += [(wl['meta']['identifier'], 
+                wl['meta']['size'])]
+            writer.writerow([
+                wl['meta']['identifier'],
+                wl['meta']['name'],
+                wl['meta']['glottocode'],
+                wl['meta']['family'],
+                wl['meta']['longitude'],
+                wl['meta']['latitude']])
+            ltable.append([
+                i + 1,
+                '[{0}](http://glottolog.org/resource/languoid/id/{1})'.format(
+                    wl['meta']['name'], wl['meta']['glottocode']),
+                wl['meta']['family']
+                if wl['meta']['family'] != wl['meta']['glottocode'] else 'isolate',
+                wl['meta']['size'],
+                wl['meta']['source'],
+            ])
+            count += 1
 
-    args.api.write_md_table('cldf', 'README', 'Languages in CLICS', ltable, args.log)
+    args.api.write_md_table('datasets', 'README', 'Languages in CLICS', ltable, args.log)
     args.api.write_md_table('output', 'languages', 'Languages in CLICS', ltable, args.log)
     jsonlib.dump(make_language_map(data), args.api.path('output',
         'languages.geojson'), indent=2)
@@ -250,7 +250,7 @@ def colexification(args):
         G.add_node(idx, **vals)
 
     for wl in pb(args.api.wordlists(), desc='iterating wordlists'):
-        if wl['meta']['identifier'] in languages and wl['meta']['longitude'] and wl['meta']['family'] != 'Bookkeeping':
+        if wl['meta']['identifier'] in languages:
             cols = full_colexification(
                 wl,
                 key='Parameter_ID',

@@ -46,7 +46,7 @@ def slug(word):
         return out
 
 
-def lexibank2clics(lexibank_dir, clics_dir, languoids):
+def lexibank2clics(lexibank_dir, clics_dir, languoids, existing=True):
     wl = Wordlist.from_metadata(lexibank_dir.joinpath('cldf', 'cldf-metadata.json'))
     varieties = {l['ID']: l for l in wl['LanguageTable'] if l['glottocode']}
     concepts = {l['ID']: l for l in wl['ParameterTable'] if l['conceptset']}
@@ -59,7 +59,7 @@ def lexibank2clics(lexibank_dir, clics_dir, languoids):
     for lid, forms in pb(
             groupby(forms, lambda r: r['Language_ID']), 
             desc='loading data', 
-            total=len(forms)
+            total=len(list(groupby(forms, lambda r: r['Language_ID'])))
             ):
         if lid not in varieties:
             # A variety which isn't mapped to glottolog.
@@ -69,6 +69,15 @@ def lexibank2clics(lexibank_dir, clics_dir, languoids):
             continue
         forms = [form for form in forms if form['Parameter_ID'] in concepts]
         languoid = languoids[variety['glottocode']]
+        if languoid.family and languoid.family.name == 'Bookkeeping':
+            continue
+    
+        if not languoid.latitude and existing:
+            while languoid.latitude is None and languoid.lineage:
+                languoid = languoids[languoid.lineage.pop()[1]]
+            if languoid.latitude is None:
+                continue
+
         meta = dict(
             name=variety['name'],
             glottocode=variety['glottocode'],
