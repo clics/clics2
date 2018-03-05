@@ -333,75 +333,75 @@
 |      329 | [Kinyamwezi F22](http://glottolog.org/resource/languoid/id/nyam1276)                                 | Atlantic-Congo           |    458 | bantubvd                |
 |      330 | [Koyo C.24](http://glottolog.org/resource/languoid/id/koyo1242)                                      | Atlantic-Congo           |    382 | bantubvd                |
 |      331 | [Bukusu E.31c](http://glottolog.org/resource/languoid/id/buku1249)                                   | Atlantic-Congo           |    430 | bantubvd                |
-|      332 | [macuna](http://glottolog.org/resource/languoid/id/macu1260)                                         | Tucanoan                 |    381 | huberandreed            |
-|      333 | [tuyuca](http://glottolog.org/resource/languoid/id/tuyu1244)                                         | Tucanoan                 |    360 | huberandreed            |
-|      334 | [tanimuca](http://glottolog.org/resource/languoid/id/tani1257)                                       | Tucanoan                 |    379 | huberandreed            |
-|      335 | [jitnu](http://glottolog.org/resource/languoid/id/maca1259)                                          | Guahiboan                |    350 | huberandreed            |
-|      336 | [cha'palaachi](http://glottolog.org/resource/languoid/id/chac1249)                                   | Barbacoan                |    336 | huberandreed            |
-|      337 | [ocaina](http://glottolog.org/resource/languoid/id/ocai1244)                                         | Huitotoan                |    475 | huberandreed            |
-|      338 | [yukpa](http://glottolog.org/resource/languoid/id/yukp1241)                                          | Cariban                  |    342 | huberandreed            |
-|      339 | [yurutí](http://glottolog.org/resource/languoid/id/yuru1263)                                         | Tucanoan                 |    365 | huberandreed            |
-|      340 | [miraña](http://glottolog.org/resource/languoid/id/bora1263)                                         | Boran                    |    444 | huberandreed            |
-|      341 | [playero](http://glottolog.org/resource/languoid/id/play1240)                                        | Guahiboan                |    389 | huberandreed            |
-|      342 | [barí](http://glottolog.org/resource/languoid/id/bari1297)                                           | Chibchan                 |    271 | huberandreed            |
-|      343 | [witoto mi̵ni̵ca](http://glottolog.org/resource/languoid/id/mini1256)                                  | Huitotoan                |    445 | huberandreed            |
-|      344 | [piratapuyo](http://glottolog.org/resource/languoid/id/pira1254)                                     | Tucanoan                 |    378 | huberandreed            |
-|      345 | [kogui](http://glottolog.org/resource/languoid/id/cogu1240)                                          | Chibchan                 |    375 | huberandreed            |
-|      346 | [resígaro](http://glottolog.org/resource/languoid/id/resi1247)                                       | Arawakan                 |    341 | huberandreed            |
-|      347 | [embera Tadó](http://glottolog.org/resource/languoid/id/embe1261)                                    | Chocoan                  |    377 | huberandreed            |
-|      348 | [giacone](http://glottolog.org/resource/languoid/id/tari1256)                                        | Arawakan                 |    301 | huberandreed            |
-|      349 | [cubeo](http://glottolog.org/resource/languoid/id/cube1242)                                          | Tucanoan                 |    389 | huberandreed            |
-|      350 | [wounaan](http://glottolog.org/resource/languoid/id/woun1238)                                        | Chocoan                  |    432 | huberandreed            |
-|      351 | [curripaco](http://glottolog.org/resource/languoid/id/curr1243)                                      | Arawakan                 |    348 | huberandreed            |
-|      352 | [puinave](http://glottolog.org/resource/languoid/id/puin1248)                                        | isolate                  |    334 | huberandreed            |
-|      353 | [achagua](http://glottolog.org/resource/languoid/id/acha1250)                                        | Arawakan                 |    374 | huberandreed            |
+|      332 | [macuna](http://glottolog.org/resource/languoid/id/macu1260)                                         | Tucanoan                 |    377 | huberandreed            |
+|      333 | [tuyuca](http://glottolog.org/resource/languoid/id/tuyu1244)                                         | Tucanoan                 |    357 | huberandreed            |
+|      334 | [tanimuca](http://glottolog.org/resource/languoid/id/tani1257)                                       | Tucanoan                 |    375 | huberandreed            |
+|      335 | [jitnu](http://glottolog.org/resource/languoid/id/maca1259)                                          | Guahiboan                |    348 | huberandreed            |
+|      336 | [cha'palaachi](http://glottolog.org/resource/languoid/id/chac1249)                                   | Barbacoan                |    333 | huberandreed            |
+|      337 | [ocaina](http://glottolog.org/resource/languoid/id/ocai1244)                                         | Huitotoan                |    471 | huberandreed            |
+|      338 | [yukpa](http://glottolog.org/resource/languoid/id/yukp1241)                                          | Cariban                  |    338 | huberandreed            |
+|      339 | [yurutí](http://glottolog.org/resource/languoid/id/yuru1263)                                         | Tucanoan                 |    362 | huberandreed            |
+|      340 | [miraña](http://glottolog.org/resource/languoid/id/bora1263)                                         | Boran                    |    440 | huberandreed            |
+|      341 | [playero](http://glottolog.org/resource/languoid/id/play1240)                                        | Guahiboan                |    387 | huberandreed            |
+|      342 | [barí](http://glottolog.org/resource/languoid/id/bari1297)                                           | Chibchan                 |    269 | huberandreed            |
+|      343 | [witoto mi̵ni̵ca](http://glottolog.org/resource/languoid/id/mini1256)                                  | Huitotoan                |    438 | huberandreed            |
+|      344 | [piratapuyo](http://glottolog.org/resource/languoid/id/pira1254)                                     | Tucanoan                 |    375 | huberandreed            |
+|      345 | [kogui](http://glottolog.org/resource/languoid/id/cogu1240)                                          | Chibchan                 |    373 | huberandreed            |
+|      346 | [resígaro](http://glottolog.org/resource/languoid/id/resi1247)                                       | Arawakan                 |    337 | huberandreed            |
+|      347 | [embera Tadó](http://glottolog.org/resource/languoid/id/embe1261)                                    | Chocoan                  |    373 | huberandreed            |
+|      348 | [giacone](http://glottolog.org/resource/languoid/id/tari1256)                                        | Arawakan                 |    302 | huberandreed            |
+|      349 | [cubeo](http://glottolog.org/resource/languoid/id/cube1242)                                          | Tucanoan                 |    384 | huberandreed            |
+|      350 | [wounaan](http://glottolog.org/resource/languoid/id/woun1238)                                        | Chocoan                  |    426 | huberandreed            |
+|      351 | [curripaco](http://glottolog.org/resource/languoid/id/curr1243)                                      | Arawakan                 |    345 | huberandreed            |
+|      352 | [puinave](http://glottolog.org/resource/languoid/id/puin1248)                                        | isolate                  |    328 | huberandreed            |
+|      353 | [achagua](http://glottolog.org/resource/languoid/id/acha1250)                                        | Arawakan                 |    372 | huberandreed            |
 |      354 | [embera Darién](http://glottolog.org/resource/languoid/id/nort2972)                                  | Chocoan                  |    347 | huberandreed            |
-|      355 | [wayuu](http://glottolog.org/resource/languoid/id/wayu1243)                                          | Arawakan                 |    529 | huberandreed            |
-|      356 | [epena basurudó](http://glottolog.org/resource/languoid/id/epen1239)                                 | Chocoan                  |    335 | huberandreed            |
-|      357 | [tucano](http://glottolog.org/resource/languoid/id/tuca1252)                                         | Tucanoan                 |    372 | huberandreed            |
-|      358 | [jupda](http://glottolog.org/resource/languoid/id/hupd1244)                                          | Nadahup                  |    302 | huberandreed            |
-|      359 | [cabiyarí](http://glottolog.org/resource/languoid/id/cabi1241)                                       | Arawakan                 |    116 | huberandreed            |
-|      360 | [guambiano](http://glottolog.org/resource/languoid/id/guam1248)                                      | Barbacoan                |    303 | huberandreed            |
-|      361 | [baniva](http://glottolog.org/resource/languoid/id/bani1254)                                         | Arawakan                 |     73 | huberandreed            |
-|      362 | [ika](http://glottolog.org/resource/languoid/id/arhu1242)                                            | Chibchan                 |    351 | huberandreed            |
-|      363 | [cuiba](http://glottolog.org/resource/languoid/id/cuib1242)                                          | Guahiboan                |    472 | huberandreed            |
-|      364 | [muinane](http://glottolog.org/resource/languoid/id/muin1242)                                        | Boran                    |    541 | huberandreed            |
-|      365 | [barasana](http://glottolog.org/resource/languoid/id/bara1380)                                       | Tucanoan                 |    410 | huberandreed            |
-|      366 | [bará](http://glottolog.org/resource/languoid/id/waim1255)                                           | Tucanoan                 |    371 | huberandreed            |
-|      367 | [wanano](http://glottolog.org/resource/languoid/id/guan1269)                                         | Tucanoan                 |    374 | huberandreed            |
-|      368 | [catío](http://glottolog.org/resource/languoid/id/embe1260)                                          | Chocoan                  |    388 | huberandreed            |
-|      369 | [piapoco](http://glottolog.org/resource/languoid/id/piap1246)                                        | Arawakan                 |    422 | huberandreed            |
-|      370 | [siona](http://glottolog.org/resource/languoid/id/sion1247)                                          | Tucanoan                 |    351 | huberandreed            |
-|      371 | [witoto ni̵pode](http://glottolog.org/resource/languoid/id/nupo1240)                                  | Huitotoan                |    420 | huberandreed            |
-|      372 | [guayabero](http://glottolog.org/resource/languoid/id/guay1257)                                      | Guahiboan                |    424 | huberandreed            |
-|      373 | [kakua](http://glottolog.org/resource/languoid/id/cacu1241)                                          | Kakua-Nukak              |    405 | huberandreed            |
+|      355 | [wayuu](http://glottolog.org/resource/languoid/id/wayu1243)                                          | Arawakan                 |    525 | huberandreed            |
+|      356 | [epena basurudó](http://glottolog.org/resource/languoid/id/epen1239)                                 | Chocoan                  |    334 | huberandreed            |
+|      357 | [tucano](http://glottolog.org/resource/languoid/id/tuca1252)                                         | Tucanoan                 |    369 | huberandreed            |
+|      358 | [jupda](http://glottolog.org/resource/languoid/id/hupd1244)                                          | Nadahup                  |    301 | huberandreed            |
+|      359 | [cabiyarí](http://glottolog.org/resource/languoid/id/cabi1241)                                       | Arawakan                 |    114 | huberandreed            |
+|      360 | [guambiano](http://glottolog.org/resource/languoid/id/guam1248)                                      | Barbacoan                |    299 | huberandreed            |
+|      361 | [baniva](http://glottolog.org/resource/languoid/id/bani1254)                                         | Arawakan                 |     76 | huberandreed            |
+|      362 | [ika](http://glottolog.org/resource/languoid/id/arhu1242)                                            | Chibchan                 |    348 | huberandreed            |
+|      363 | [cuiba](http://glottolog.org/resource/languoid/id/cuib1242)                                          | Guahiboan                |    468 | huberandreed            |
+|      364 | [muinane](http://glottolog.org/resource/languoid/id/muin1242)                                        | Boran                    |    537 | huberandreed            |
+|      365 | [barasana](http://glottolog.org/resource/languoid/id/bara1380)                                       | Tucanoan                 |    407 | huberandreed            |
+|      366 | [bará](http://glottolog.org/resource/languoid/id/waim1255)                                           | Tucanoan                 |    368 | huberandreed            |
+|      367 | [wanano](http://glottolog.org/resource/languoid/id/guan1269)                                         | Tucanoan                 |    371 | huberandreed            |
+|      368 | [catío](http://glottolog.org/resource/languoid/id/embe1260)                                          | Chocoan                  |    384 | huberandreed            |
+|      369 | [piapoco](http://glottolog.org/resource/languoid/id/piap1246)                                        | Arawakan                 |    420 | huberandreed            |
+|      370 | [siona](http://glottolog.org/resource/languoid/id/sion1247)                                          | Tucanoan                 |    349 | huberandreed            |
+|      371 | [witoto ni̵pode](http://glottolog.org/resource/languoid/id/nupo1240)                                  | Huitotoan                |    414 | huberandreed            |
+|      372 | [guayabero](http://glottolog.org/resource/languoid/id/guay1257)                                      | Guahiboan                |    420 | huberandreed            |
+|      373 | [kakua](http://glottolog.org/resource/languoid/id/cacu1241)                                          | Kakua-Nukak              |    404 | huberandreed            |
 |      374 | [guahibo](http://glottolog.org/resource/languoid/id/guah1255)                                        | Guahiboan                |    517 | huberandreed            |
-|      375 | [tunebo central](http://glottolog.org/resource/languoid/id/cent2150)                                 | Chibchan                 |    324 | huberandreed            |
-|      376 | [yucuna](http://glottolog.org/resource/languoid/id/yucu1253)                                         | Arawakan                 |    395 | huberandreed            |
-|      377 | [dí̵mi̵na](http://glottolog.org/resource/languoid/id/mala1522)                                         | Chibchan                 |    346 | huberandreed            |
-|      378 | [tatuyo](http://glottolog.org/resource/languoid/id/tatu1247)                                         | Tucanoan                 |    356 | huberandreed            |
-|      379 | [totoró](http://glottolog.org/resource/languoid/id/toto1306)                                         | Barbacoan                |    287 | huberandreed            |
-|      380 | [bora](http://glottolog.org/resource/languoid/id/bora1263)                                           | Boran                    |    717 | huberandreed            |
-|      381 | [chimila](http://glottolog.org/resource/languoid/id/chim1309)                                        | Chibchan                 |    360 | huberandreed            |
-|      382 | [orejón](http://glottolog.org/resource/languoid/id/orej1242)                                         | Tucanoan                 |    289 | huberandreed            |
-|      383 | [witoto murui](http://glottolog.org/resource/languoid/id/muru1274)                                   | Huitotoan                |    419 | huberandreed            |
-|      384 | [waimaja](http://glottolog.org/resource/languoid/id/waim1255)                                        | Tucanoan                 |    521 | huberandreed            |
-|      385 | [embera chamí](http://glottolog.org/resource/languoid/id/embe1262)                                   | Chocoan                  |    389 | huberandreed            |
-|      386 | [desano](http://glottolog.org/resource/languoid/id/desa1247)                                         | Tucanoan                 |    386 | huberandreed            |
-|      387 | [carapana](http://glottolog.org/resource/languoid/id/cara1272)                                       | Tucanoan                 |    363 | huberandreed            |
-|      388 | [koreguaje](http://glottolog.org/resource/languoid/id/kore1283)                                      | Tucanoan                 |    400 | huberandreed            |
-|      389 | [awa](http://glottolog.org/resource/languoid/id/awac1239)                                            | Barbacoan                |    369 | huberandreed            |
-|      390 | [kamsá](http://glottolog.org/resource/languoid/id/cams1241)                                          | isolate                  |    368 | huberandreed            |
-|      391 | [páez](http://glottolog.org/resource/languoid/id/paez1247)                                           | isolate                  |    409 | huberandreed            |
-|      392 | [epena Saija](http://glottolog.org/resource/languoid/id/epen1239)                                    | Chocoan                  |    390 | huberandreed            |
-|      393 | [nukak](http://glottolog.org/resource/languoid/id/nuka1242)                                          | Kakua-Nukak              |    311 | huberandreed            |
-|      394 | [carijona](http://glottolog.org/resource/languoid/id/cari1279)                                       | Cariban                  |    349 | huberandreed            |
-|      395 | [siriano](http://glottolog.org/resource/languoid/id/siri1274)                                        | Tucanoan                 |    369 | huberandreed            |
-|      396 | [secoya](http://glottolog.org/resource/languoid/id/seco1241)                                         | Tucanoan                 |    359 | huberandreed            |
-|      397 | [tariano](http://glottolog.org/resource/languoid/id/tari1256)                                        | Arawakan                 |    182 | huberandreed            |
-|      398 | [inga](http://glottolog.org/resource/languoid/id/inga1252)                                           | Quechuan                 |    346 | huberandreed            |
-|      399 | [tsafiqui pila](http://glottolog.org/resource/languoid/id/colo1256)                                  | Barbacoan                |    354 | huberandreed            |
-|      400 | [sáliba](http://glottolog.org/resource/languoid/id/sali1298)                                         | Jodi-Saliban             |    359 | huberandreed            |
+|      375 | [tunebo central](http://glottolog.org/resource/languoid/id/cent2150)                                 | Chibchan                 |    321 | huberandreed            |
+|      376 | [yucuna](http://glottolog.org/resource/languoid/id/yucu1253)                                         | Arawakan                 |    393 | huberandreed            |
+|      377 | [dí̵mi̵na](http://glottolog.org/resource/languoid/id/mala1522)                                         | Chibchan                 |    344 | huberandreed            |
+|      378 | [tatuyo](http://glottolog.org/resource/languoid/id/tatu1247)                                         | Tucanoan                 |    353 | huberandreed            |
+|      379 | [totoró](http://glottolog.org/resource/languoid/id/toto1306)                                         | Barbacoan                |    286 | huberandreed            |
+|      380 | [bora](http://glottolog.org/resource/languoid/id/bora1263)                                           | Boran                    |    711 | huberandreed            |
+|      381 | [chimila](http://glottolog.org/resource/languoid/id/chim1309)                                        | Chibchan                 |    357 | huberandreed            |
+|      382 | [orejón](http://glottolog.org/resource/languoid/id/orej1242)                                         | Tucanoan                 |    285 | huberandreed            |
+|      383 | [witoto murui](http://glottolog.org/resource/languoid/id/muru1274)                                   | Huitotoan                |    414 | huberandreed            |
+|      384 | [waimaja](http://glottolog.org/resource/languoid/id/waim1255)                                        | Tucanoan                 |    514 | huberandreed            |
+|      385 | [embera chamí](http://glottolog.org/resource/languoid/id/embe1262)                                   | Chocoan                  |    384 | huberandreed            |
+|      386 | [desano](http://glottolog.org/resource/languoid/id/desa1247)                                         | Tucanoan                 |    381 | huberandreed            |
+|      387 | [carapana](http://glottolog.org/resource/languoid/id/cara1272)                                       | Tucanoan                 |    360 | huberandreed            |
+|      388 | [koreguaje](http://glottolog.org/resource/languoid/id/kore1283)                                      | Tucanoan                 |    393 | huberandreed            |
+|      389 | [awa](http://glottolog.org/resource/languoid/id/awac1239)                                            | Barbacoan                |    366 | huberandreed            |
+|      390 | [kamsá](http://glottolog.org/resource/languoid/id/cams1241)                                          | isolate                  |    365 | huberandreed            |
+|      391 | [páez](http://glottolog.org/resource/languoid/id/paez1247)                                           | isolate                  |    404 | huberandreed            |
+|      392 | [epena Saija](http://glottolog.org/resource/languoid/id/epen1239)                                    | Chocoan                  |    384 | huberandreed            |
+|      393 | [nukak](http://glottolog.org/resource/languoid/id/nuka1242)                                          | Kakua-Nukak              |    308 | huberandreed            |
+|      394 | [carijona](http://glottolog.org/resource/languoid/id/cari1279)                                       | Cariban                  |    348 | huberandreed            |
+|      395 | [siriano](http://glottolog.org/resource/languoid/id/siri1274)                                        | Tucanoan                 |    365 | huberandreed            |
+|      396 | [secoya](http://glottolog.org/resource/languoid/id/seco1241)                                         | Tucanoan                 |    355 | huberandreed            |
+|      397 | [tariano](http://glottolog.org/resource/languoid/id/tari1256)                                        | Arawakan                 |    180 | huberandreed            |
+|      398 | [inga](http://glottolog.org/resource/languoid/id/inga1252)                                           | Quechuan                 |    344 | huberandreed            |
+|      399 | [tsafiqui pila](http://glottolog.org/resource/languoid/id/colo1256)                                  | Barbacoan                |    350 | huberandreed            |
+|      400 | [sáliba](http://glottolog.org/resource/languoid/id/sali1298)                                         | Jodi-Saliban             |    354 | huberandreed            |
 |      401 | [Mabia](http://glottolog.org/resource/languoid/id/mako1251)                                          | Atlantic-Congo           |    725 | tls                     |
 |      402 | [Luganda](http://glottolog.org/resource/languoid/id/gand1255)                                        | Atlantic-Congo           |    690 | tls                     |
 |      403 | [Pangwa](http://glottolog.org/resource/languoid/id/pang1287)                                         | Atlantic-Congo           |    698 | tls                     |
@@ -521,111 +521,111 @@
 |      517 | [Kikuyu](http://glottolog.org/resource/languoid/id/kiku1240)                                         | Atlantic-Congo           |    720 | tls                     |
 |      518 | [Bende](http://glottolog.org/resource/languoid/id/bend1258)                                          | Atlantic-Congo           |    303 | tls                     |
 |      519 | [Kahe.unn](http://glottolog.org/resource/languoid/id/kahe1238)                                       | Atlantic-Congo           |    185 | tls                     |
-|      520 | [Finnish](http://glottolog.org/resource/languoid/id/finn1318)                                        | Uralic                   |   1161 | northeuralex            |
-|      521 | [Basque](http://glottolog.org/resource/languoid/id/basq1248)                                         | isolate                  |   1260 | northeuralex            |
-|      522 | [Bengali](http://glottolog.org/resource/languoid/id/beng1280)                                        | Indo-European            |   1007 | northeuralex            |
-|      523 | [Hill Mari](http://glottolog.org/resource/languoid/id/west2392)                                      | Uralic                   |   1142 | northeuralex            |
-|      524 | [Northern Yukaghir](http://glottolog.org/resource/languoid/id/nort2745)                              | Yukaghir                 |    911 | northeuralex            |
-|      525 | [Evenki](http://glottolog.org/resource/languoid/id/even1259)                                         | Tungusic                 |   1199 | northeuralex            |
-|      526 | [Turkish](http://glottolog.org/resource/languoid/id/nucl1301)                                        | Turkic                   |   1220 | northeuralex            |
-|      527 | [Central Siberian Yupik](http://glottolog.org/resource/languoid/id/cent2128)                         | Eskimo-Aleut             |    879 | northeuralex            |
-|      528 | [Southern Yukaghir](http://glottolog.org/resource/languoid/id/sout2750)                              | Yukaghir                 |    898 | northeuralex            |
-|      529 | [Komi-Zyrian](http://glottolog.org/resource/languoid/id/komi1268)                                    | Uralic                   |   1175 | northeuralex            |
-|      530 | [Icelandic](http://glottolog.org/resource/languoid/id/icel1247)                                      | Indo-European            |   1144 | northeuralex            |
-|      531 | [Livonian](http://glottolog.org/resource/languoid/id/livv1244)                                       | Uralic                   |   1165 | northeuralex            |
-|      532 | [Bashkir](http://glottolog.org/resource/languoid/id/bash1264)                                        | Turkic                   |   1093 | northeuralex            |
-|      533 | [Georgian](http://glottolog.org/resource/languoid/id/nucl1302)                                       | Kartvelian               |   1136 | northeuralex            |
-|      534 | [Erzya](http://glottolog.org/resource/languoid/id/erzy1239)                                          | Uralic                   |   1116 | northeuralex            |
-|      535 | [Adyghe](http://glottolog.org/resource/languoid/id/adyg1241)                                         | Abkhaz-Adyge             |   1036 | northeuralex            |
-|      536 | [Manchu](http://glottolog.org/resource/languoid/id/manc1252)                                         | Tungusic                 |   1479 | northeuralex            |
-|      537 | [Norwegian (Bokmål)](http://glottolog.org/resource/languoid/id/norw1258)                             | Indo-European            |   1098 | northeuralex            |
-|      538 | [Northern Sami](http://glottolog.org/resource/languoid/id/nort2671)                                  | Uralic                   |   1171 | northeuralex            |
-|      539 | [Slovene](http://glottolog.org/resource/languoid/id/slov1268)                                        | Indo-European            |   1083 | northeuralex            |
-|      540 | [Kazakh](http://glottolog.org/resource/languoid/id/kaza1248)                                         | Turkic                   |   1285 | northeuralex            |
-|      541 | [English](http://glottolog.org/resource/languoid/id/stan1293)                                        | Indo-European            |   1000 | northeuralex            |
-|      542 | [Abkhaz](http://glottolog.org/resource/languoid/id/abkh1244)                                         | Abkhaz-Adyge             |   1100 | northeuralex            |
-|      543 | [Kildin Sami](http://glottolog.org/resource/languoid/id/kild1236)                                    | Uralic                   |   1196 | northeuralex            |
-|      544 | [Chuvash](http://glottolog.org/resource/languoid/id/chuv1255)                                        | Turkic                   |   1181 | northeuralex            |
-|      545 | [Dargwa](http://glottolog.org/resource/languoid/id/darg1241)                                         | Nakh-Daghestanian        |   1158 | northeuralex            |
-|      546 | [Armenian](http://glottolog.org/resource/languoid/id/nucl1235)                                       | Indo-European            |   1095 | northeuralex            |
-|      547 | [Korean](http://glottolog.org/resource/languoid/id/kore1280)                                         | Koreanic                 |   1009 | northeuralex            |
-|      548 | [Tatar](http://glottolog.org/resource/languoid/id/tata1255)                                          | Turkic                   |   1125 | northeuralex            |
-|      549 | [Czech](http://glottolog.org/resource/languoid/id/czec1258)                                          | Indo-European            |   1107 | northeuralex            |
-|      550 | [Skolt Sami](http://glottolog.org/resource/languoid/id/skol1241)                                     | Uralic                   |   1183 | northeuralex            |
-|      551 | [Itelmen](http://glottolog.org/resource/languoid/id/itel1242)                                        | Chukotko-Kamchatkan      |    665 | northeuralex            |
-|      552 | [Lak](http://glottolog.org/resource/languoid/id/lakk1252)                                            | Nakh-Daghestanian        |   1133 | northeuralex            |
-|      553 | [Dutch](http://glottolog.org/resource/languoid/id/dutc1256)                                          | Indo-European            |   1153 | northeuralex            |
-|      554 | [Nganasan](http://glottolog.org/resource/languoid/id/ngan1291)                                       | Uralic                   |   1168 | northeuralex            |
-|      555 | [Mandarin Chinese](http://glottolog.org/resource/languoid/id/mand1415)                               | Sino-Tibetan             |    989 | northeuralex            |
-|      556 | [Russian](http://glottolog.org/resource/languoid/id/russ1263)                                        | Indo-European            |   1016 | northeuralex            |
-|      557 | [Spanish](http://glottolog.org/resource/languoid/id/stan1288)                                        | Indo-European            |   1183 | northeuralex            |
-|      558 | [Hungarian](http://glottolog.org/resource/languoid/id/hung1274)                                      | Uralic                   |   1211 | northeuralex            |
-|      559 | [Modern Greek](http://glottolog.org/resource/languoid/id/mode1248)                                   | Indo-European            |   1127 | northeuralex            |
-|      560 | [Estonian](http://glottolog.org/resource/languoid/id/esto1258)                                       | Uralic                   |   1132 | northeuralex            |
-|      561 | [Tundra Nenets](http://glottolog.org/resource/languoid/id/nene1249)                                  | Uralic                   |   1155 | northeuralex            |
-|      562 | [Nivkh](http://glottolog.org/resource/languoid/id/gily1242)                                          | isolate                  |    967 | northeuralex            |
-|      563 | [Swedish](http://glottolog.org/resource/languoid/id/swed1254)                                        | Indo-European            |   1146 | northeuralex            |
-|      564 | [Slovak](http://glottolog.org/resource/languoid/id/slov1269)                                         | Indo-European            |   1185 | northeuralex            |
-|      565 | [Western Farsi](http://glottolog.org/resource/languoid/id/west2369)                                  | Indo-European            |   1200 | northeuralex            |
-|      566 | [Welsh](http://glottolog.org/resource/languoid/id/wels1247)                                          | Indo-European            |   1147 | northeuralex            |
-|      567 | [Kalmyk](http://glottolog.org/resource/languoid/id/kalm1243)                                         | Mongolic                 |   1116 | northeuralex            |
-|      568 | [Hokkaido Ainu](http://glottolog.org/resource/languoid/id/ainu1240)                                  | Ainu                     |    955 | northeuralex            |
-|      569 | [Irish](http://glottolog.org/resource/languoid/id/iris1253)                                          | Indo-European            |   1247 | northeuralex            |
-|      570 | [Komi-Permyak](http://glottolog.org/resource/languoid/id/komi1269)                                   | Uralic                   |   1051 | northeuralex            |
-|      571 | [Inari Sami](http://glottolog.org/resource/languoid/id/inar1241)                                     | Uralic                   |   1135 | northeuralex            |
-|      572 | [North Azerbaijani](http://glottolog.org/resource/languoid/id/nort2697)                              | Turkic                   |   1101 | northeuralex            |
-|      573 | [Northern Khanty](http://glottolog.org/resource/languoid/id/khan1273)                                | Uralic                   |   1032 | northeuralex            |
-|      574 | [Veps](http://glottolog.org/resource/languoid/id/veps1250)                                           | Uralic                   |   1114 | northeuralex            |
-|      575 | [Forest Enets](http://glottolog.org/resource/languoid/id/fore1265)                                   | Uralic                   |   1007 | northeuralex            |
-|      576 | [Northern Kurdish](http://glottolog.org/resource/languoid/id/nort2641)                               | Indo-European            |   1090 | northeuralex            |
-|      577 | [Udmurt](http://glottolog.org/resource/languoid/id/udmu1245)                                         | Uralic                   |   1122 | northeuralex            |
-|      578 | [Croatian](http://glottolog.org/resource/languoid/id/croa1245)                                       | Indo-European            |   1253 | northeuralex            |
-|      579 | [Latin](http://glottolog.org/resource/languoid/id/lati1261)                                          | Indo-European            |   1071 | northeuralex            |
-|      580 | [Latvian](http://glottolog.org/resource/languoid/id/latv1249)                                        | Indo-European            |   1242 | northeuralex            |
-|      581 | [Ossetian](http://glottolog.org/resource/languoid/id/osse1243)                                       | Indo-European            |   1218 | northeuralex            |
-|      582 | [Khalkha Mongolian](http://glottolog.org/resource/languoid/id/halh1238)                              | Mongolic                 |   1260 | northeuralex            |
-|      583 | [French](http://glottolog.org/resource/languoid/id/stan1290)                                         | Indo-European            |   1196 | northeuralex            |
-|      584 | [Burushaski](http://glottolog.org/resource/languoid/id/buru1296)                                     | isolate                  |    922 | northeuralex            |
-|      585 | [Japanese](http://glottolog.org/resource/languoid/id/nucl1643)                                       | Japonic                  |   1067 | northeuralex            |
-|      586 | [Modern Hebrew](http://glottolog.org/resource/languoid/id/hebr1245)                                  | Afro-Asiatic             |   1054 | northeuralex            |
-|      587 | [Danish](http://glottolog.org/resource/languoid/id/dani1285)                                         | Indo-European            |   1062 | northeuralex            |
-|      588 | [Portuguese](http://glottolog.org/resource/languoid/id/port1283)                                     | Indo-European            |   1216 | northeuralex            |
-|      589 | [Standard Arabic](http://glottolog.org/resource/languoid/id/stan1318)                                | Afro-Asiatic             |   1118 | northeuralex            |
-|      590 | [Northern Uzbek](http://glottolog.org/resource/languoid/id/nort2690)                                 | Turkic                   |   1005 | northeuralex            |
-|      591 | [Moksha](http://glottolog.org/resource/languoid/id/moks1248)                                         | Uralic                   |   1132 | northeuralex            |
-|      592 | [Meadow Mari](http://glottolog.org/resource/languoid/id/east2328)                                    | Uralic                   |   1099 | northeuralex            |
-|      593 | [Belarusian](http://glottolog.org/resource/languoid/id/bela1254)                                     | Indo-European            |   1058 | northeuralex            |
-|      594 | [Avar](http://glottolog.org/resource/languoid/id/avar1256)                                           | Nakh-Daghestanian        |   1094 | northeuralex            |
-|      595 | [Sakha](http://glottolog.org/resource/languoid/id/yaku1245)                                          | Turkic                   |   1104 | northeuralex            |
-|      596 | [Polish](http://glottolog.org/resource/languoid/id/poli1260)                                         | Indo-European            |   1097 | northeuralex            |
-|      597 | [Kalaallisut](http://glottolog.org/resource/languoid/id/kala1399)                                    | Eskimo-Aleut             |   1054 | northeuralex            |
-|      598 | [Northern Pashto](http://glottolog.org/resource/languoid/id/nort2646)                                | Indo-European            |   1160 | northeuralex            |
-|      599 | [Lithuanian](http://glottolog.org/resource/languoid/id/lith1251)                                     | Indo-European            |   1282 | northeuralex            |
-|      600 | [Tsez](http://glottolog.org/resource/languoid/id/dido1241)                                           | Nakh-Daghestanian        |   1023 | northeuralex            |
-|      601 | [Malayalam](http://glottolog.org/resource/languoid/id/mala1464)                                      | Dravidian                |   1014 | northeuralex            |
-|      602 | [Northern Selkup](http://glottolog.org/resource/languoid/id/selk1253)                                | Uralic                   |   1029 | northeuralex            |
-|      603 | [Italian](http://glottolog.org/resource/languoid/id/ital1282)                                        | Indo-European            |   1229 | northeuralex            |
-|      604 | [Olonets Karelian](http://glottolog.org/resource/languoid/id/livv1243)                               | Uralic                   |   1311 | northeuralex            |
-|      605 | [Romanian](http://glottolog.org/resource/languoid/id/roma1327)                                       | Indo-European            |   1252 | northeuralex            |
-|      606 | [Hindi](http://glottolog.org/resource/languoid/id/hind1269)                                          | Indo-European            |   1446 | northeuralex            |
-|      607 | [Breton](http://glottolog.org/resource/languoid/id/bret1244)                                         | Indo-European            |   1014 | northeuralex            |
-|      608 | [Bulgarian](http://glottolog.org/resource/languoid/id/bulg1262)                                      | Indo-European            |   1164 | northeuralex            |
-|      609 | [Lezgian](http://glottolog.org/resource/languoid/id/lezg1247)                                        | Nakh-Daghestanian        |   1084 | northeuralex            |
-|      610 | [Ket](http://glottolog.org/resource/languoid/id/kett1243)                                            | Yeniseian                |    933 | northeuralex            |
-|      611 | [Ukrainian](http://glottolog.org/resource/languoid/id/ukra1253)                                      | Indo-European            |   1060 | northeuralex            |
-|      612 | [Tamil](http://glottolog.org/resource/languoid/id/tami1289)                                          | Dravidian                |    998 | northeuralex            |
-|      613 | [Aleut](http://glottolog.org/resource/languoid/id/aleu1260)                                          | Eskimo-Aleut             |    977 | northeuralex            |
-|      614 | [Northern Mansi](http://glottolog.org/resource/languoid/id/mans1258)                                 | Uralic                   |   1122 | northeuralex            |
-|      615 | [Catalan](http://glottolog.org/resource/languoid/id/stan1289)                                        | Indo-European            |   1110 | northeuralex            |
-|      616 | [Telugu](http://glottolog.org/resource/languoid/id/telu1262)                                         | Dravidian                |   1000 | northeuralex            |
-|      617 | [Nanai](http://glottolog.org/resource/languoid/id/nana1257)                                          | Tungusic                 |   1010 | northeuralex            |
-|      618 | [Southern Sami](http://glottolog.org/resource/languoid/id/sout2674)                                  | Uralic                   |   1141 | northeuralex            |
-|      619 | [Lule Sami](http://glottolog.org/resource/languoid/id/lule1254)                                      | Uralic                   |   1262 | northeuralex            |
-|      620 | [Chechen](http://glottolog.org/resource/languoid/id/chec1245)                                        | Nakh-Daghestanian        |   1034 | northeuralex            |
-|      621 | [German](http://glottolog.org/resource/languoid/id/stan1295)                                         | Indo-European            |    995 | northeuralex            |
-|      622 | [Chukchi](http://glottolog.org/resource/languoid/id/chuk1273)                                        | Chukotko-Kamchatkan      |   1069 | northeuralex            |
-|      623 | [North Karelian](http://glottolog.org/resource/languoid/id/kare1335)                                 | Uralic                   |   1195 | northeuralex            |
-|      624 | [Kannada](http://glottolog.org/resource/languoid/id/nucl1305)                                        | Dravidian                |    999 | northeuralex            |
+|      520 | [Finnish](http://glottolog.org/resource/languoid/id/finn1318)                                        | Uralic                   |   1098 | northeuralex            |
+|      521 | [Basque](http://glottolog.org/resource/languoid/id/basq1248)                                         | isolate                  |   1193 | northeuralex            |
+|      522 | [Bengali](http://glottolog.org/resource/languoid/id/beng1280)                                        | Indo-European            |    954 | northeuralex            |
+|      523 | [Hill Mari](http://glottolog.org/resource/languoid/id/west2392)                                      | Uralic                   |   1080 | northeuralex            |
+|      524 | [Northern Yukaghir](http://glottolog.org/resource/languoid/id/nort2745)                              | Yukaghir                 |    865 | northeuralex            |
+|      525 | [Evenki](http://glottolog.org/resource/languoid/id/even1259)                                         | Tungusic                 |   1136 | northeuralex            |
+|      526 | [Turkish](http://glottolog.org/resource/languoid/id/nucl1301)                                        | Turkic                   |   1154 | northeuralex            |
+|      527 | [Central Siberian Yupik](http://glottolog.org/resource/languoid/id/cent2128)                         | Eskimo-Aleut             |    834 | northeuralex            |
+|      528 | [Southern Yukaghir](http://glottolog.org/resource/languoid/id/sout2750)                              | Yukaghir                 |    846 | northeuralex            |
+|      529 | [Komi-Zyrian](http://glottolog.org/resource/languoid/id/komi1268)                                    | Uralic                   |   1110 | northeuralex            |
+|      530 | [Icelandic](http://glottolog.org/resource/languoid/id/icel1247)                                      | Indo-European            |   1079 | northeuralex            |
+|      531 | [Livonian](http://glottolog.org/resource/languoid/id/livv1244)                                       | Uralic                   |   1102 | northeuralex            |
+|      532 | [Bashkir](http://glottolog.org/resource/languoid/id/bash1264)                                        | Turkic                   |   1030 | northeuralex            |
+|      533 | [Georgian](http://glottolog.org/resource/languoid/id/nucl1302)                                       | Kartvelian               |   1078 | northeuralex            |
+|      534 | [Erzya](http://glottolog.org/resource/languoid/id/erzy1239)                                          | Uralic                   |   1057 | northeuralex            |
+|      535 | [Adyghe](http://glottolog.org/resource/languoid/id/adyg1241)                                         | Abkhaz-Adyge             |    974 | northeuralex            |
+|      536 | [Manchu](http://glottolog.org/resource/languoid/id/manc1252)                                         | Tungusic                 |   1384 | northeuralex            |
+|      537 | [Norwegian (Bokmål)](http://glottolog.org/resource/languoid/id/norw1258)                             | Indo-European            |   1041 | northeuralex            |
+|      538 | [Northern Sami](http://glottolog.org/resource/languoid/id/nort2671)                                  | Uralic                   |   1106 | northeuralex            |
+|      539 | [Slovene](http://glottolog.org/resource/languoid/id/slov1268)                                        | Indo-European            |   1023 | northeuralex            |
+|      540 | [Kazakh](http://glottolog.org/resource/languoid/id/kaza1248)                                         | Turkic                   |   1215 | northeuralex            |
+|      541 | [English](http://glottolog.org/resource/languoid/id/stan1293)                                        | Indo-European            |    946 | northeuralex            |
+|      542 | [Abkhaz](http://glottolog.org/resource/languoid/id/abkh1244)                                         | Abkhaz-Adyge             |   1034 | northeuralex            |
+|      543 | [Kildin Sami](http://glottolog.org/resource/languoid/id/kild1236)                                    | Uralic                   |   1123 | northeuralex            |
+|      544 | [Chuvash](http://glottolog.org/resource/languoid/id/chuv1255)                                        | Turkic                   |   1123 | northeuralex            |
+|      545 | [Dargwa](http://glottolog.org/resource/languoid/id/darg1241)                                         | Nakh-Daghestanian        |   1100 | northeuralex            |
+|      546 | [Armenian](http://glottolog.org/resource/languoid/id/nucl1235)                                       | Indo-European            |   1033 | northeuralex            |
+|      547 | [Korean](http://glottolog.org/resource/languoid/id/kore1280)                                         | Koreanic                 |    957 | northeuralex            |
+|      548 | [Tatar](http://glottolog.org/resource/languoid/id/tata1255)                                          | Turkic                   |   1060 | northeuralex            |
+|      549 | [Czech](http://glottolog.org/resource/languoid/id/czec1258)                                          | Indo-European            |   1048 | northeuralex            |
+|      550 | [Skolt Sami](http://glottolog.org/resource/languoid/id/skol1241)                                     | Uralic                   |   1117 | northeuralex            |
+|      551 | [Itelmen](http://glottolog.org/resource/languoid/id/itel1242)                                        | Chukotko-Kamchatkan      |    648 | northeuralex            |
+|      552 | [Lak](http://glottolog.org/resource/languoid/id/lakk1252)                                            | Nakh-Daghestanian        |   1070 | northeuralex            |
+|      553 | [Dutch](http://glottolog.org/resource/languoid/id/dutc1256)                                          | Indo-European            |   1089 | northeuralex            |
+|      554 | [Nganasan](http://glottolog.org/resource/languoid/id/ngan1291)                                       | Uralic                   |   1103 | northeuralex            |
+|      555 | [Mandarin Chinese](http://glottolog.org/resource/languoid/id/mand1415)                               | Sino-Tibetan             |    935 | northeuralex            |
+|      556 | [Russian](http://glottolog.org/resource/languoid/id/russ1263)                                        | Indo-European            |    960 | northeuralex            |
+|      557 | [Spanish](http://glottolog.org/resource/languoid/id/stan1288)                                        | Indo-European            |   1112 | northeuralex            |
+|      558 | [Hungarian](http://glottolog.org/resource/languoid/id/hung1274)                                      | Uralic                   |   1146 | northeuralex            |
+|      559 | [Modern Greek](http://glottolog.org/resource/languoid/id/mode1248)                                   | Indo-European            |   1064 | northeuralex            |
+|      560 | [Estonian](http://glottolog.org/resource/languoid/id/esto1258)                                       | Uralic                   |   1066 | northeuralex            |
+|      561 | [Tundra Nenets](http://glottolog.org/resource/languoid/id/nene1249)                                  | Uralic                   |   1094 | northeuralex            |
+|      562 | [Nivkh](http://glottolog.org/resource/languoid/id/gily1242)                                          | isolate                  |    912 | northeuralex            |
+|      563 | [Swedish](http://glottolog.org/resource/languoid/id/swed1254)                                        | Indo-European            |   1080 | northeuralex            |
+|      564 | [Slovak](http://glottolog.org/resource/languoid/id/slov1269)                                         | Indo-European            |   1118 | northeuralex            |
+|      565 | [Western Farsi](http://glottolog.org/resource/languoid/id/west2369)                                  | Indo-European            |   1140 | northeuralex            |
+|      566 | [Welsh](http://glottolog.org/resource/languoid/id/wels1247)                                          | Indo-European            |   1086 | northeuralex            |
+|      567 | [Kalmyk](http://glottolog.org/resource/languoid/id/kalm1243)                                         | Mongolic                 |   1056 | northeuralex            |
+|      568 | [Hokkaido Ainu](http://glottolog.org/resource/languoid/id/ainu1240)                                  | Ainu                     |    904 | northeuralex            |
+|      569 | [Irish](http://glottolog.org/resource/languoid/id/iris1253)                                          | Indo-European            |   1183 | northeuralex            |
+|      570 | [Komi-Permyak](http://glottolog.org/resource/languoid/id/komi1269)                                   | Uralic                   |    989 | northeuralex            |
+|      571 | [Inari Sami](http://glottolog.org/resource/languoid/id/inar1241)                                     | Uralic                   |   1072 | northeuralex            |
+|      572 | [North Azerbaijani](http://glottolog.org/resource/languoid/id/nort2697)                              | Turkic                   |   1040 | northeuralex            |
+|      573 | [Northern Khanty](http://glottolog.org/resource/languoid/id/khan1273)                                | Uralic                   |    974 | northeuralex            |
+|      574 | [Veps](http://glottolog.org/resource/languoid/id/veps1250)                                           | Uralic                   |   1054 | northeuralex            |
+|      575 | [Forest Enets](http://glottolog.org/resource/languoid/id/fore1265)                                   | Uralic                   |    951 | northeuralex            |
+|      576 | [Northern Kurdish](http://glottolog.org/resource/languoid/id/nort2641)                               | Indo-European            |   1029 | northeuralex            |
+|      577 | [Udmurt](http://glottolog.org/resource/languoid/id/udmu1245)                                         | Uralic                   |   1060 | northeuralex            |
+|      578 | [Croatian](http://glottolog.org/resource/languoid/id/croa1245)                                       | Indo-European            |   1187 | northeuralex            |
+|      579 | [Latin](http://glottolog.org/resource/languoid/id/lati1261)                                          | Indo-European            |   1017 | northeuralex            |
+|      580 | [Latvian](http://glottolog.org/resource/languoid/id/latv1249)                                        | Indo-European            |   1169 | northeuralex            |
+|      581 | [Ossetian](http://glottolog.org/resource/languoid/id/osse1243)                                       | Indo-European            |   1152 | northeuralex            |
+|      582 | [Khalkha Mongolian](http://glottolog.org/resource/languoid/id/halh1238)                              | Mongolic                 |   1195 | northeuralex            |
+|      583 | [French](http://glottolog.org/resource/languoid/id/stan1290)                                         | Indo-European            |   1129 | northeuralex            |
+|      584 | [Burushaski](http://glottolog.org/resource/languoid/id/buru1296)                                     | isolate                  |    878 | northeuralex            |
+|      585 | [Japanese](http://glottolog.org/resource/languoid/id/nucl1643)                                       | Japonic                  |   1013 | northeuralex            |
+|      586 | [Modern Hebrew](http://glottolog.org/resource/languoid/id/hebr1245)                                  | Afro-Asiatic             |    993 | northeuralex            |
+|      587 | [Danish](http://glottolog.org/resource/languoid/id/dani1285)                                         | Indo-European            |   1006 | northeuralex            |
+|      588 | [Portuguese](http://glottolog.org/resource/languoid/id/port1283)                                     | Indo-European            |   1150 | northeuralex            |
+|      589 | [Standard Arabic](http://glottolog.org/resource/languoid/id/stan1318)                                | Afro-Asiatic             |   1057 | northeuralex            |
+|      590 | [Northern Uzbek](http://glottolog.org/resource/languoid/id/nort2690)                                 | Turkic                   |    951 | northeuralex            |
+|      591 | [Moksha](http://glottolog.org/resource/languoid/id/moks1248)                                         | Uralic                   |   1073 | northeuralex            |
+|      592 | [Meadow Mari](http://glottolog.org/resource/languoid/id/east2328)                                    | Uralic                   |   1043 | northeuralex            |
+|      593 | [Belarusian](http://glottolog.org/resource/languoid/id/bela1254)                                     | Indo-European            |   1002 | northeuralex            |
+|      594 | [Avar](http://glottolog.org/resource/languoid/id/avar1256)                                           | Nakh-Daghestanian        |   1031 | northeuralex            |
+|      595 | [Sakha](http://glottolog.org/resource/languoid/id/yaku1245)                                          | Turkic                   |   1036 | northeuralex            |
+|      596 | [Polish](http://glottolog.org/resource/languoid/id/poli1260)                                         | Indo-European            |   1035 | northeuralex            |
+|      597 | [Kalaallisut](http://glottolog.org/resource/languoid/id/kala1399)                                    | Eskimo-Aleut             |   1006 | northeuralex            |
+|      598 | [Northern Pashto](http://glottolog.org/resource/languoid/id/nort2646)                                | Indo-European            |   1096 | northeuralex            |
+|      599 | [Lithuanian](http://glottolog.org/resource/languoid/id/lith1251)                                     | Indo-European            |   1206 | northeuralex            |
+|      600 | [Tsez](http://glottolog.org/resource/languoid/id/dido1241)                                           | Nakh-Daghestanian        |    970 | northeuralex            |
+|      601 | [Malayalam](http://glottolog.org/resource/languoid/id/mala1464)                                      | Dravidian                |    959 | northeuralex            |
+|      602 | [Northern Selkup](http://glottolog.org/resource/languoid/id/selk1253)                                | Uralic                   |    974 | northeuralex            |
+|      603 | [Italian](http://glottolog.org/resource/languoid/id/ital1282)                                        | Indo-European            |   1161 | northeuralex            |
+|      604 | [Olonets Karelian](http://glottolog.org/resource/languoid/id/livv1243)                               | Uralic                   |   1234 | northeuralex            |
+|      605 | [Romanian](http://glottolog.org/resource/languoid/id/roma1327)                                       | Indo-European            |   1184 | northeuralex            |
+|      606 | [Hindi](http://glottolog.org/resource/languoid/id/hind1269)                                          | Indo-European            |   1373 | northeuralex            |
+|      607 | [Breton](http://glottolog.org/resource/languoid/id/bret1244)                                         | Indo-European            |    963 | northeuralex            |
+|      608 | [Bulgarian](http://glottolog.org/resource/languoid/id/bulg1262)                                      | Indo-European            |   1103 | northeuralex            |
+|      609 | [Lezgian](http://glottolog.org/resource/languoid/id/lezg1247)                                        | Nakh-Daghestanian        |   1021 | northeuralex            |
+|      610 | [Ket](http://glottolog.org/resource/languoid/id/kett1243)                                            | Yeniseian                |    894 | northeuralex            |
+|      611 | [Ukrainian](http://glottolog.org/resource/languoid/id/ukra1253)                                      | Indo-European            |   1003 | northeuralex            |
+|      612 | [Tamil](http://glottolog.org/resource/languoid/id/tami1289)                                          | Dravidian                |    944 | northeuralex            |
+|      613 | [Aleut](http://glottolog.org/resource/languoid/id/aleu1260)                                          | Eskimo-Aleut             |    924 | northeuralex            |
+|      614 | [Northern Mansi](http://glottolog.org/resource/languoid/id/mans1258)                                 | Uralic                   |   1062 | northeuralex            |
+|      615 | [Catalan](http://glottolog.org/resource/languoid/id/stan1289)                                        | Indo-European            |   1049 | northeuralex            |
+|      616 | [Telugu](http://glottolog.org/resource/languoid/id/telu1262)                                         | Dravidian                |    945 | northeuralex            |
+|      617 | [Nanai](http://glottolog.org/resource/languoid/id/nana1257)                                          | Tungusic                 |    959 | northeuralex            |
+|      618 | [Southern Sami](http://glottolog.org/resource/languoid/id/sout2674)                                  | Uralic                   |   1081 | northeuralex            |
+|      619 | [Lule Sami](http://glottolog.org/resource/languoid/id/lule1254)                                      | Uralic                   |   1202 | northeuralex            |
+|      620 | [Chechen](http://glottolog.org/resource/languoid/id/chec1245)                                        | Nakh-Daghestanian        |    975 | northeuralex            |
+|      621 | [German](http://glottolog.org/resource/languoid/id/stan1295)                                         | Indo-European            |    941 | northeuralex            |
+|      622 | [Chukchi](http://glottolog.org/resource/languoid/id/chuk1273)                                        | Chukotko-Kamchatkan      |   1015 | northeuralex            |
+|      623 | [North Karelian](http://glottolog.org/resource/languoid/id/kare1335)                                 | Uralic                   |   1131 | northeuralex            |
+|      624 | [Kannada](http://glottolog.org/resource/languoid/id/nucl1305)                                        | Dravidian                |    945 | northeuralex            |
 |      625 | [Selkup](http://glottolog.org/resource/languoid/id/selk1253)                                         | Uralic                   |   1226 | ids                     |
 |      626 | [Wichí](http://glottolog.org/resource/languoid/id/wich1264)                                          | Matacoan                 |   1170 | ids                     |
 |      627 | [Wai Wai](http://glottolog.org/resource/languoid/id/waiw1244)                                        | Cariban                  |   1014 | ids                     |
@@ -979,14 +979,14 @@
 |      975 | [Kui](http://glottolog.org/resource/languoid/id/kuii1254)                                            | Timor-Alor-Pantar        |    326 | robinsonap              |
 |      976 | [Kamang](http://glottolog.org/resource/languoid/id/kama1365)                                         | Timor-Alor-Pantar        |    317 | robinsonap              |
 |      977 | [Jianchuan](http://glottolog.org/resource/languoid/id/cent2004)                                      | Sino-Tibetan             |    513 | baidial                 |
-|      978 | [Yunlong](http://glottolog.org/resource/languoid/id/cent2004)                                        | Sino-Tibetan             |    503 | baidial                 |
-|      979 | [Xiangyun](http://glottolog.org/resource/languoid/id/sout2730)                                       | Sino-Tibetan             |    505 | baidial                 |
-|      980 | [Qiliqiao](http://glottolog.org/resource/languoid/id/sout2730)                                       | Sino-Tibetan             |    507 | baidial                 |
-|      981 | [Luobenzhuo](http://glottolog.org/resource/languoid/id/nort2724)                                     | Sino-Tibetan             |    500 | baidial                 |
-|      982 | [Lanping](http://glottolog.org/resource/languoid/id/cent2004)                                        | Sino-Tibetan             |    512 | baidial                 |
-|      983 | [Eryuan](http://glottolog.org/resource/languoid/id/cent2004)                                         | Sino-Tibetan             |    503 | baidial                 |
-|      984 | [Heqing](http://glottolog.org/resource/languoid/id/cent2004)                                         | Sino-Tibetan             |    502 | baidial                 |
-|      985 | [Zhoucheng](http://glottolog.org/resource/languoid/id/sout2730)                                      | Sino-Tibetan             |    501 | baidial                 |
+|      978 | [Yunlong](http://glottolog.org/resource/languoid/id/yunl1238)                                        | Sino-Tibetan             |    503 | baidial                 |
+|      979 | [Xiangyun](http://glottolog.org/resource/languoid/id/xian1250)                                       | Sino-Tibetan             |    505 | baidial                 |
+|      980 | [Qiliqiao](http://glottolog.org/resource/languoid/id/qili1234)                                       | Sino-Tibetan             |    507 | baidial                 |
+|      981 | [Luobenzhuo](http://glottolog.org/resource/languoid/id/luob1236)                                     | Sino-Tibetan             |    500 | baidial                 |
+|      982 | [Lanping](http://glottolog.org/resource/languoid/id/jian1239)                                        | Sino-Tibetan             |    512 | baidial                 |
+|      983 | [Eryuan](http://glottolog.org/resource/languoid/id/eryu1239)                                         | Sino-Tibetan             |    503 | baidial                 |
+|      984 | [Heqing](http://glottolog.org/resource/languoid/id/heqi1238)                                         | Sino-Tibetan             |    502 | baidial                 |
+|      985 | [Zhoucheng](http://glottolog.org/resource/languoid/id/zhou1234)                                      | Sino-Tibetan             |    501 | baidial                 |
 |      986 | [Selice Romani](http://glottolog.org/resource/languoid/id/west2376)                                  | Indo-European            |   1692 | wold                    |
 |      987 | [Malagasy](http://glottolog.org/resource/languoid/id/plat1254)                                       | Austronesian             |   1682 | wold                    |
 |      988 | [Kali'na](http://glottolog.org/resource/languoid/id/gali1262)                                        | Cariban                  |   1282 | wold                    |
@@ -1027,21 +1027,21 @@
 |     1023 | [Oroqen](http://glottolog.org/resource/languoid/id/oroq1238)                                         | Tungusic                 |   1210 | wold                    |
 |     1024 | [Wichí](http://glottolog.org/resource/languoid/id/wich1264)                                          | Matacoan                 |   1361 | wold                    |
 |     1025 | [Imbabura Quechua](http://glottolog.org/resource/languoid/id/imba1240)                               | Quechuan                 |   1297 | wold                    |
-|     1026 | [Lahu Shi](http://glottolog.org/resource/languoid/id/lahu1252)                                       | Sino-Tibetan             |    359 | satterthwaitephillipstb |
-|     1027 | [Kucong](http://glottolog.org/resource/languoid/id/kuco1235)                                         | Sino-Tibetan             |    399 | satterthwaitephillipstb |
-|     1028 | [Zaiwa](http://glottolog.org/resource/languoid/id/zaiw1241)                                          | Sino-Tibetan             |    369 | satterthwaitephillipstb |
-|     1029 | [Samei](http://glottolog.org/resource/languoid/id/same1240)                                          | Sino-Tibetan             |    359 | satterthwaitephillipstb |
-|     1030 | [Nusu](http://glottolog.org/resource/languoid/id/nusu1239)                                           | Sino-Tibetan             |    390 | satterthwaitephillipstb |
+|     1026 | [Lahu Shi](http://glottolog.org/resource/languoid/id/lahu1252)                                       | Sino-Tibetan             |    357 | satterthwaitephillipstb |
+|     1027 | [Kucong](http://glottolog.org/resource/languoid/id/kuco1235)                                         | Sino-Tibetan             |    398 | satterthwaitephillipstb |
+|     1028 | [Zaiwa](http://glottolog.org/resource/languoid/id/zaiw1241)                                          | Sino-Tibetan             |    367 | satterthwaitephillipstb |
+|     1029 | [Samei](http://glottolog.org/resource/languoid/id/same1240)                                          | Sino-Tibetan             |    358 | satterthwaitephillipstb |
+|     1030 | [Nusu](http://glottolog.org/resource/languoid/id/nusu1239)                                           | Sino-Tibetan             |    389 | satterthwaitephillipstb |
 |     1031 | [Naxi](http://glottolog.org/resource/languoid/id/naxi1245)                                           | Sino-Tibetan             |    352 | satterthwaitephillipstb |
-|     1032 | [Zauzou](http://glottolog.org/resource/languoid/id/zauz1238)                                         | Sino-Tibetan             |    369 | satterthwaitephillipstb |
-|     1033 | [Na (Lahu)](http://glottolog.org/resource/languoid/id/naaa1244)                                      | Sino-Tibetan             |    407 | satterthwaitephillipstb |
-|     1034 | [Biyo](http://glottolog.org/resource/languoid/id/biyo1243)                                           | Sino-Tibetan             |    362 | satterthwaitephillipstb |
-|     1035 | [Mandarin Chinese](http://glottolog.org/resource/languoid/id/mand1415)                               | Sino-Tibetan             |    421 | satterthwaitephillipstb |
-|     1036 | [Lisu](http://glottolog.org/resource/languoid/id/lisu1250)                                           | Sino-Tibetan             |    369 | satterthwaitephillipstb |
-|     1037 | [Hani](http://glottolog.org/resource/languoid/id/hani1248)                                           | Sino-Tibetan             |    384 | satterthwaitephillipstb |
-|     1038 | [Baihong](http://glottolog.org/resource/languoid/id/baih1238)                                        | Sino-Tibetan             |    386 | satterthwaitephillipstb |
+|     1032 | [Zauzou](http://glottolog.org/resource/languoid/id/zauz1238)                                         | Sino-Tibetan             |    367 | satterthwaitephillipstb |
+|     1033 | [Na (Lahu)](http://glottolog.org/resource/languoid/id/naaa1244)                                      | Sino-Tibetan             |    406 | satterthwaitephillipstb |
+|     1034 | [Biyo](http://glottolog.org/resource/languoid/id/biyo1243)                                           | Sino-Tibetan             |    360 | satterthwaitephillipstb |
+|     1035 | [Mandarin Chinese](http://glottolog.org/resource/languoid/id/mand1415)                               | Sino-Tibetan             |    418 | satterthwaitephillipstb |
+|     1036 | [Lisu](http://glottolog.org/resource/languoid/id/lisu1250)                                           | Sino-Tibetan             |    367 | satterthwaitephillipstb |
+|     1037 | [Hani](http://glottolog.org/resource/languoid/id/hani1248)                                           | Sino-Tibetan             |    383 | satterthwaitephillipstb |
+|     1038 | [Baihong](http://glottolog.org/resource/languoid/id/baih1238)                                        | Sino-Tibetan             |    385 | satterthwaitephillipstb |
 |     1039 | [Sichuan Yi](http://glottolog.org/resource/languoid/id/sich1238)                                     | Sino-Tibetan             |    353 | satterthwaitephillipstb |
-|     1040 | [Jinghpaw](http://glottolog.org/resource/languoid/id/kach1280)                                       | Sino-Tibetan             |    404 | satterthwaitephillipstb |
+|     1040 | [Jinghpaw](http://glottolog.org/resource/languoid/id/kach1280)                                       | Sino-Tibetan             |    403 | satterthwaitephillipstb |
 |     1041 | [Changsha](http://glottolog.org/resource/languoid/id/chan1326)                                       | Sino-Tibetan             |    814 | beidacihui              |
 |     1042 | [Guangzhou](http://glottolog.org/resource/languoid/id/guan1279)                                      | Sino-Tibetan             |    859 | beidacihui              |
 |     1043 | [Yangjiang](http://glottolog.org/resource/languoid/id/yang1307)                                      | Sino-Tibetan             |    793 | beidacihui              |
