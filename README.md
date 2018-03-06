@@ -19,7 +19,6 @@ $ clics --help
 In order for the `pyclics` package to work, it must have access to clones or exports of the following data repositories:
 - [clld/glottolog](https://github.com/clld/glottolog)
 - [clld/concepticon-data](https://github.com/clld/concepticon-data)
-- [glottobank/lexibank-data](https://github.com/glottobank/lexibank-data)
 
 Some `clics` sub-commands require access to the data repositories listed above.
 If this is the case, the local location of these repositories can be passed
@@ -32,7 +31,7 @@ which data repos, simply pass all three options to all sub-commands,
 possibly even by aliasing a properly configured `clics` command. Using
 the bash shell this would look as follows:
 ```shell
-$ alias myclics="clics --glottolog-repos=... --concepticon-repos=... --lexibank-repos=..."
+$ alias myclics="clics --glottolog-repos=... --concepticon-repos=... "
 ```
 
 In the following we list the major sub-commands of `clics`. For readability, we omit the `--*-repos` options, i.e. the commands as
@@ -45,7 +44,7 @@ given below will only work on your system if you have the data repositories avai
 $ clics load ids wold
 ```
 
-This command loads all data in clics. It requires that the [pylexibank app](https://github.com/glottobank/lexibank-data) is installed, and that the resources IDS and WOLD have been downloaded. Use or omit `-v` depending on whether you prefer verbose or silent output.
+This command loads data in clics which you is located in the `cldf`-folder in your clics installation. It converts data into an intermediate format which is then placed in the folder `datasets`. As this folder is already populated, you won't need this command to get started, unless you plan to use your own data.
 
 ### Get the Languages
 
@@ -58,7 +57,7 @@ Calculates basic statistics about the languages in the sample and stores them in
 ### Calculate Coverage of Concepts
 
 ```shell
-$ clics coverage
+$ clics concepts
 ```
 
 Calculate coverage of concepts (how many languages reflect them, etc.) and write results to `stats/concepts.csv`.
@@ -86,13 +85,14 @@ $ clics [-v] communities [-t 1] [-f families] [-n] [-g network]
 Note that `-t` and `-f` are only needed to identify the graph you have calculated with the get-colexification routine above. The `-g` flag indicates the name of the network you want to load, that is, the name of the data stored in `graphs/`. Colexification analyses are named by three components as `g-t-f.gml`, with g pointing to the base name, t to the threshold, and f to the filter. Use the flag `-n` to normalize the weights before calculation.
 
 
-### Calculate Articulation Points
+### Calculate Subgraph Output
 
 ```shell
-$ clics [-v] get articulationpoint [-t 1] [-f families] [-g infomap]
+$ clics -t 3 subgraph
 ```
 
-You need to have calculated an infomap cluster analysis before. If done so, this command calculates the articulation points in the graph and writes them to an annotated graph which is placed in the folder `graphs/`.
+This will populate the folder `app` with json-files which contain the network information needed to browse the data. 
+
 
 
 
