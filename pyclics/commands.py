@@ -17,10 +17,7 @@ from networkx.readwrite import json_graph
 from tabulate import tabulate
 import json
 
-from pyclics.util import (
-    load_concepticon, full_colexification, make_language_map, partial_colexification,
-    clics_path, pb
-)
+from pyclics.util import load_concepticon, full_colexification, make_language_map, pb
 from pyclics.api import Network
 
 
@@ -35,25 +32,25 @@ def list_(args):
             if d.joinpath('cldf', 'cldf-metadata.json').exists():
                 print(d.stem)
     else:
-        table = [('#', 'dataset', 'concepts', 'varieties', 'languages')] 
+        table = Table('#', 'dataset', 'concepts', 'varieties', 'languages')
         all_gcodes = []
         count = 1
         for d in sorted(args.api.path('datasets').iterdir()):
             if d.joinpath('md.json').exists():
                 data = json.load(open(d.joinpath('md.json').as_posix()))
-                gcodes = [val['glottocode'] for lid, val in data.items() if
-                        lid[0] != '_']
-                table += [(
+                gcodes = [val['glottocode'] for lid, val in data.items() if lid[0] != '_']
+                table.append([
                     count,
                     d.stem,
                     data['_concepts'],
                     data['_varieties'],
                     len(set(gcodes))
-                    )]
+                ])
                 all_gcodes += gcodes
                 count += 1
-        table += [('', 'TOTAL', '', len(all_gcodes), len(set(all_gcodes)))]
-        print(tabulate(table, headers='firstrow'))
+        table.append(['', 'TOTAL', '', len(all_gcodes), len(set(all_gcodes))])
+        print(table.render(tablefmt='simple'))
+
 
 @command()
 def load(args):
@@ -61,18 +58,17 @@ def load(args):
     clics load [DATASET]+
     """
     languoids = {}
-    for l in pb(Glottolog(args.glottolog_repos).languoids(), 
-            desc='loading glottolog', total=25000):
+    for l in pb(Glottolog(args.glottolog_repos).languoids(), desc='loading glottolog'):
         languoids[l.id] = l
-    args.log.info('{0:25} | {1:10} | {2:10} | {3:10} | {4:5}'.format(
-        'datasets', 'wordlists', 'lexemes', 'concepts', 'glottocodes'))
-    args.log.info('{0:25} | {1:10} | {2:10} | {3:10} | {4:5}'.format(
-        '---', '---', '---', '---', '---'))
-    for ds in args.args:
-        ds = args.api.path('cldf', ds) 
+    for i, ds in enumerate(args.args):
+        if i == 0:
+            args.log.info('{0:25} | {1:10} | {2:10} | {3:10} | {4:5}'.format(
+                'datasets', 'wordlists', 'lexemes', 'concepts', 'glottocodes'))
+            args.log.info('{0:25} | {1:10} | {2:10} | {3:10} | {4:5}'.format(
+                '---', '---', '---', '---', '---'))
+        ds = args.api.path('cldf', ds)
         res, gcodes, concepts = args.api.load(ds, languoids)
-        args.log.info(
-                '{0:25} | {1:10} | {2:10} | {3:10} | {4:5}'.format(
+        args.log.info('{0:25} | {1:10} | {2:10} | {3:10} | {4:5}'.format(
             ds.name, len(res), sum(res.values()), concepts, gcodes))
 
 
@@ -687,6 +683,7 @@ def export(args):
                     data['ClusterName'], '/'.join(nodes), 'subgraph'])
                 visited.add(data['ClusterName'])
 
+
 @command('graph-stats')
 def graph_stats(args):
     graphname = args.graphname or 'network'
@@ -700,6 +697,3 @@ def graph_stats(args):
     table += [['components', comps]]
     table += [['communities', comms]]
     print(tabulate(table))
-
-
-

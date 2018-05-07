@@ -18,6 +18,7 @@ import networkx as nx
 
 from pyclics.util import lexibank2clics, clics_path
 
+
 @attr.s
 class Network(UnicodeMixin):
     graphname = attr.ib()
