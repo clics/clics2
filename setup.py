@@ -5,11 +5,13 @@ setup(
     name='pyclics',
     version='0.1',
     author='Johann-Mattis List and Robert Forkel',
-    packages=find_packages(),
-    url='https://github.com/lingpy/clics-data',
+    url='https://github.com/clics/clics2',
+    packages=find_packages(where='src'),
+    package_dir={'': 'src'},
     install_requires=[
         'lingpy',
         'pycldf~=1.0',
+        'pylexibank>=0.7',
         'clldutils~=2.0',
         'geojson',
         'python-igraph',
@@ -31,6 +33,6 @@ setup(
         ],
     },
     entry_points={
-        'console_scripts': ['clics=pyclics.cli:main'],
+        'console_scripts': ['clics=pyclics.__main__:main'],
     },
 )
