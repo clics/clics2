@@ -494,7 +494,6 @@ def communities(args):
         vertex_weights = None
         edge_weights = 'weight'
         args.log.info('computed weights')
-
     graph = networkx2igraph(_graph)
     args.log.info('starting infomap')
     args.log.info('converted graph...')
