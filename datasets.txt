@@ -1,0 +1,16 @@
+-e git+https://github.com/lexibank/allenbai.git@a9722e04cfb6c1b231cff2cb4a9c40682251c743#egg=lexibank_allenbai
+-e git+https://github.com/lexibank/bantubvd.git@e6ed3c43cd6f6258b9132da575c4469b470e0eee#egg=lexibank_bantubvd
+-e git+https://github.com/lexibank/beidasinitic.git@ac032f15cf6c9992c5e7155c4b60e86746b4ddfb#egg=lexibank_beidasinitic
+-e git+https://github.com/lexibank/bowernpny.git@86c0df0ad4d061de2e448a255a4cd5d1a218d1bb#egg=lexibank_bowernpny
+-e git+https://github.com/lexibank/hubercolumbian.git@105ba8dc9d100d02f47fd14483d0f0ef0e04295a#egg=lexibank_hubercolumbian
+-e git+https://github.com/lexibank/ids.git@feadb93993aaa34bd1459072a4471990e4818c5b#egg=lexibank_ids
+-e git+https://github.com/lexibank/kraftchadic.git@bf44f9a8f49d13a7cb4ebaa053cddd580abeec5b#egg=lexibank_kraftchadic
+-e git+https://github.com/lexibank/northeuralex.git@0b66e73b225559e49ca6c0a0cc2e7becabb58df4#egg=lexibank_northeuralex
+-e git+https://github.com/lexibank/robinsonap.git@53eccaf614ac81934abbba8bdeb9210f88c6db16#egg=lexibank_robinsonap
+-e git+https://github.com/lexibank/satterthwaitetb.git@589ebc96621f604505af7d787b96b96d6b21686a#egg=lexibank_satterthwaitetb
+-e git+https://github.com/lexibank/suntb.git@b2737d9d7f00607898373cff424c38c9cc85da9b#egg=lexibank_suntb
+-e git+https://github.com/lexibank/tls.git@81c889f1c135f5cb607a87a605abb25553058eab#egg=lexibank_tls
+-e git+https://github.com/lexibank/tryonsolomon.git@11f3ef745393c06758296d3a156b640de5204d33#egg=lexibank_tryonsolomon
+-e git+https://github.com/lexibank/wold.git@7b561045f290a0b8165c5020cf72d4545283e43d#egg=lexibank_wold
+-e git+https://github.com/lexibank/zgraggenmadang.git@136d08d0b62401fe4b07deb52ab1ec8da91a1d28#egg=lexibank_zgraggenmadang
+

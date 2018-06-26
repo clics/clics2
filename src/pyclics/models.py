@@ -142,6 +142,7 @@ class Network(UnicodeMixin):
         write_text(
             self.fname(self.graphdir, 'gml'),
             '\n'.join(html.unescape(line) for line in nx.generate_gml(graph)))
+        return self.fname(self.graphdir, 'gml')
 
     def load(self):
         bin = self.fname(self.graphdir, 'bin')
