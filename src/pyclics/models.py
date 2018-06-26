@@ -54,7 +54,10 @@ class Variety(WithGid):
 
     def as_geojson(self):
         if self.latitude is None or self.longitude is None:
-            return
+            kw = {}
+        else:
+            kw = {'geometry': geojson.Point((self.longitude, self.latitude))}
+
         if self.size < 800:
             marker_color = '#00ff00'
         elif self.size < 1200:
@@ -62,7 +65,6 @@ class Variety(WithGid):
         else:
             marker_color = '#0000ff'
         return geojson.Feature(
-            geometry=geojson.Point((self.longitude, self.latitude)),
             properties={
                 "name": self.name,
                 "language": self.name,
@@ -76,7 +78,8 @@ class Variety(WithGid):
                 "marker-size": 'small',
                 "lon": self.longitude,
                 "lat": self.latitude,
-                "marker-color": marker_color})
+                "marker-color": marker_color},
+            **kw)
 
 
 @attr.s
