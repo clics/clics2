@@ -544,7 +544,7 @@ def communities(args):
     if cluster_dir.exists():
         rmtree(cluster_dir)
         args.log.info('removed nodes')
-        cluster_dir.mkdir()
+    cluster_dir.mkdir()
 
     removed = []
     for idx, nodes in pb(sorted(Com.items()), desc='export to app'):
@@ -565,13 +565,9 @@ def communities(args):
                         ]]
         if len(sg) > 1:
             jsonlib.dump(
-                    json_graph.adjacency_data(sg),
-                    args.api.path(
-                        'app', 
-                        'cluster', 
-                        _graph.node[nodes[0]]['ClusterName']+'.json'
-                        ),
-                    sort_keys=True)
+                json_graph.adjacency_data(sg),
+                cluster_dir / _graph.node[nodes[0]]['ClusterName']+'.json',
+                sort_keys=True)
             for node in nodes:
                 cluster_names[_graph.node[node]['Gloss']] = _graph.node[node]['ClusterName']
         else:
