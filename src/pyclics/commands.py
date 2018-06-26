@@ -31,8 +31,11 @@ def list_(args):
     clics --lexibank-repos=PATH/TO/lexibank-data list
     """
     if args.unloaded:
-        for ds in iter_datasets():
+        i = 0
+        for i, ds in enumerate(iter_datasets()):
             print(ds.cldf_dir)
+        if not i:
+            print('No datasets installed')
     else:
         table = Table('#', 'dataset', 'concepts', 'varieties', 'languages')
         try:
@@ -116,6 +119,9 @@ def languages(args):
                 var.source
             ])
 
+    #
+    # FIXME: write requirements.txt!
+    #
     args.api.write_md_table('datasets', 'README', 'Languages in CLICS', ltable, args.log)
     args.api.write_md_table('output', 'languages', 'Languages in CLICS', ltable, args.log)
 
@@ -395,10 +401,11 @@ def subgraph(args):
         args.log.info('{0:20} {1:20} {2}'.format(
             node, data['Gloss'], len(data['subgraph'])))
 
-    if args.api.path('app', 'subgraph').exists():
-        rmtree(args.api.path('app', 'subgraph'))
-        args.api.path('app', 'subgraph').mkdir()
+    outdir = args.api.path('app', 'subgraph')
+    if outdir.exists():
+        rmtree(outdir)
         args.log.info('removed nodes')
+    outdir.mkdir()
 
     cluster_names = {}
     nodes2cluster = {}
@@ -460,7 +467,7 @@ def subgraph(args):
     write_text(
         args.api.path('app', 'source', 'subgraph-names.js'),
         'var SUBG = ' + json.dumps(cluster_names, indent=2) + ';')
-    args.api.save_graph(_graph, 'subgraph', threshold, edgefilter, log=args.log)   
+    args.api.save_graph(_graph, 'subgraph', threshold, edgefilter, log=args.log)
 
 
 @command()
@@ -534,14 +541,12 @@ def communities(args):
     args.log.info('computed cluster names')
     
     cluster_names = {}
-    # remove json files from app
-    try:
-        rmtree(args.api.path('app', 'cluster'))
+    cluster_dir = args.api.path('app', 'cluster')
+    if cluster_dir.exists():
+        rmtree(cluster_dir)
         args.log.info('removed nodes')
-        os.mkdir(args.api.path('app', 'cluster').as_posix())
-    except:
-        pass
-    
+        cluster_dir.mkdir()
+
     removed = []
     for idx, nodes in pb(sorted(Com.items()), desc='export to app'):
         sg = _graph.subgraph(nodes)
@@ -600,7 +605,7 @@ def export(args):
 
         for node_a, node_b, data in iG.edges(data=True):
             edge_id = node_a + '/' + node_b
-            writer.writerow([edge_id, node_a, node_b, data['weight']])
+            writer.writerow([edge_id, node_a, node_b, data.get('weight')])
 
     with args.api.csv_writer(Path('output', 'clld'), 'colexifications') as writer:
         writer.writerow([
