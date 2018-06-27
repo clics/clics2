@@ -1,15 +1,24 @@
-# Clics-Data
-This is a data-directory for CLICS where we store and edit and exchange new data and ideas to be produced in the future.
+# clics2
+
+This repository contains the python package `pyclics` which can be used to compute colexification networks like
+the ones presented on http://clics.clld.org/graphs from lexical datasets published in CLDF.
+
+Note: `pyclics` require python >=3.4
+
 
 ## Command Line Interface
 
-In order to make use of all the options that we offer in clics-data, you should install the pyclics-package shipped along with clics-data in develop mode in Python:
+To use `pyclics`, install the package - preferably in a fresh 
+[virtual environemt](http://docs.python-guide.org/en/latest/dev/virtualenvs/):
 
 ```shell
-$ sudo python setup.py develop
+$ git clone https://github.com/clics/clics2
+$ cd clics2
+$ pip install -e .
 ```
 
-Installing `pyclics` will also install a command `clics` on your computer, which provides the command-line interface to CLICS functionality, i.e. lets you calculate certain aspects of the clics data.
+Installing `pyclics` will also install a command `clics` on your computer, which provides the command-line interface to 
+CLICS functionality.
 
 To get help on using `clics`, run
 ```shell
@@ -20,39 +29,52 @@ In order for the `pyclics` package to work, it must have access to clones or exp
 - [clld/glottolog](https://github.com/clld/glottolog)
 - [clld/concepticon-data](https://github.com/clld/concepticon-data)
 
-Some `clics` sub-commands require access to the data repositories listed above.
-If this is the case, the local location of these repositories can be passed
-using the options `--glottolog-repos`, `--concepticon-repos` and `--lexibank-repos`.
+The `clics` sub-command `load` requires access to the data repositories listed above,
+thus must be invoked passing in the options `--glottolog-repos` and `--concepticon-repos`.
 By default, these repositories are expected to reside in directories
-`glottolog`, `concepticon-data` and `lexibank-data`, alongside `clics-data`.
+`glottolog` and `concepticon-data`, alongside `clics2`.
 
-If you can't remember which sub-command requires
-which data repos, simply pass all three options to all sub-commands,
-possibly even by aliasing a properly configured `clics` command. Using
-the bash shell this would look as follows:
-```shell
-$ alias myclics="clics --glottolog-repos=... --concepticon-repos=... "
-```
-
-In the following we list the major sub-commands of `clics`. For readability, we omit the `--*-repos` options, i.e. the commands as
-given below will only work on your system if you have the data repositories available at the default locations.
+In the following we list the major sub-commands of `clics`.
 
 
-### Create the Data
+### Loading the Data
+
+CLICS data can be loaded from lexibank datasets, i.e. from lexical datasets following the 
+[conventions of the lexibank project](https://github.com/lexibank/lexibank/wiki). In particular,
+lexibank datasets can be installed similar to python packages, using a command like
 
 ```shell
-$ clics load ids wold
+$ pip install -e git+https://github.com/lexibank/allenbai.git#egg=lexibank_allenbai
 ```
 
-This command loads data in clics which you is located in the `cldf`-folder in your clics installation. It converts data into an intermediate format which is then placed in the folder `datasets`. As this folder is already populated, you won't need this command to get started, unless you plan to use your own data.
+for the [allenbai dataset](https://github.com/lexibank/allenbai).
 
-### Get the Languages
+The datasets used for the CLICS application at http://clics.clld.org are listed in [datasets.txt](datasets.txt) and
+can be installed wholesale via
+
+```shell
+$ pip install -r datasets.txt
+```
+
+Once installed, all datasets can be loaded into the CLICS sqlite database running
+
+```shell
+$ clics --concepticon-repos=path/to/concepticon-data --glottolog-repos=path/to/glottolog load
+```
+
+The remaining commands compute networks and various derived data formats from the CLICS sqlite database.
+These commands are given here "in order", i.e. subsequent commands require previous ones to have been
+run (with the same parameters).
+
+
+### Compute Language data
 
 ```shell
 $ clics languages
 ```
 
-Calculates basic statistics about the languages in the sample and stores them in `stats/languages.csv`. This also creates a geographical plot of the languages which is then placed in the folder `geo/`. 
+Calculates basic statistics about the languages in the sample.
+
 
 ### Calculate Coverage of Concepts
 
@@ -60,29 +82,40 @@ Calculates basic statistics about the languages in the sample and stores them in
 $ clics concepts
 ```
 
-Calculate coverage of concepts (how many languages reflect them, etc.) and write results to `stats/concepts.csv`.
+Calculate coverage of concepts (how many languages reflect them, etc.).
+
 
 ### Calculate Colexification Network
 
 ```shell
-$ clics [-v] colexification [-t 1] [-f families|languages|words]
+$ clics [-v] [-t 1] [-f families|languages|words] colexification
 ```
 
-Calculate the colexification network. Use `-t` to handle the threshold (if `-t 3` and `-f families` this means only colexifications reflected in 3 families are considered. Data is written to a file in the folder `graph/`. You need to run the following commands before:
+Calculate the colexification network. Use `-t` to handle the threshold (if `-t 3` and `-f families` this means only 
+colexifications reflected in 3 families are considered. Data is written to a file in the folder `graph/`. 
+
+The colexifications in http://clics.clld.org have been calculated with the following parameters:
 
 ```shell
-$ clics load ids wold
-$ clics languages
-$ clics coverage
+$ clics -t 3 -f families colexification
 ```
+
 
 ### Calculate Community Analysis
 
 ```shell
-$ clics [-v] communities [-t 1] [-f families] [-n] [-g network]
+$ clics [-v] [-t 1] [-f families] [-n] [-g network] communities
 ```
 
-Note that `-t` and `-f` are only needed to identify the graph you have calculated with the get-colexification routine above. The `-g` flag indicates the name of the network you want to load, that is, the name of the data stored in `graphs/`. Colexification analyses are named by three components as `g-t-f.gml`, with g pointing to the base name, t to the threshold, and f to the filter. Use the flag `-n` to normalize the weights before calculation.
+Note that `-t` and `-f` are only needed to identify the graph you have calculated with the `colexification` command above.
+The `-g` flag indicates the name of the network you want to load, that is, the name of the data stored in `graphs/`. 
+Colexification analyses are named by three components as `g-t-f.gml`, with g pointing to the base name, t to the threshold, and f to the filter. Use the flag `-n` to normalize the weights before calculation.
+
+The communities in http://clics.clld.org have been calculated with the following parameters:
+
+```shell
+$ clics -t 3 -f families -n communities
+```
 
 
 ### Calculate Subgraph Output
@@ -92,7 +125,3 @@ $ clics -t 3 subgraph
 ```
 
 This will populate the folder `app` with json-files which contain the network information needed to browse the data. 
-
-
-
-

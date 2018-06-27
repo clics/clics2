@@ -2,13 +2,11 @@
 from __future__ import unicode_literals, print_function, division
 from collections import defaultdict
 from itertools import combinations
-import os
-import json
 import sqlite3
 
 import geojson
 from clldutils.clilib import command
-from clldutils.path import Path, rmtree, write_text
+from clldutils.path import Path, rmtree
 from clldutils.markup import Table
 from clldutils.misc import nfilter
 from clldutils import jsonlib
@@ -72,6 +70,7 @@ def load(args):
     clics load
     """
     args.api.db.create(exists_ok=True)
+    args.log.info('loading datasets into {0}'.format(args.api.db.fname))
     in_db = args.api.db.datasets
     for ds in iter_datasets():
         if args.unloaded and ds.id in in_db:
@@ -100,7 +99,7 @@ def languages(args):
     varieties = []
     ltable = Table('Number', 'Language', 'Family', 'Size', 'Source')
     gcodes = set()
-    i = 0
+    args.api._log = args.log
 
     with args.api.csv_writer(Path('output', 'stats'), 'languages') as writer:
         for i, var in enumerate(args.api.db.iter_varieties()):
@@ -119,23 +118,19 @@ def languages(args):
                 var.source
             ])
 
-    #
-    # FIXME: write requirements.txt!
-    #
-    args.api.write_md_table('datasets', 'README', 'Languages in CLICS', ltable, args.log)
-    args.api.write_md_table('output', 'languages', 'Languages in CLICS', ltable, args.log)
+    args.api.write_md_table('datasets', 'README', 'Languages in CLICS', ltable)
+    args.api.write_md_table('output', 'languages', 'Languages in CLICS', ltable)
 
     lgeo = geojson.FeatureCollection(nfilter(v.as_geojson() for v in varieties))
-    jsonlib.dump(lgeo, args.api.path('output', 'languages.geojson'), indent=2)
-    jsonlib.dump(lgeo, args.api.path('app', 'source', 'langsGeo.json'), indent=2)
-    if args.verbosity:
-        print('Found {0} languages ({1} unique glottocodes)'.format(i + 1, len(gcodes)))
+    args.api.json_dump(lgeo, 'output', 'languages.geojson')
+    args.api.json_dump(lgeo, 'app', 'source', 'langsGeo.json')
 
 
 @command()
 def concepts(args):
     concepts = defaultdict(list)
     ambiguous_concept_mapping = set()
+    args.api._log = args.log
 
     with args.api.csv_writer(Path('output', 'data'), 'words') as writer:
         writer.writerow([
@@ -153,7 +148,10 @@ def concepts(args):
             visited = {}
 
             for form in forms:
-                if form.concepticon_id in visited and visited[form.concepticon_id] != form.gloss:
+                norm_gloss = form.gloss.lower()
+                if norm_gloss.startswith('the ') or norm_gloss.startswith('to '):
+                    norm_gloss = ' '.join(norm_gloss.split()[1:])
+                if form.concepticon_id in visited and visited[form.concepticon_id] != norm_gloss:
                     # The concept was already seen, but with a different gloss!
                     ambiguous_concept_mapping.add((
                         v.gid,
@@ -173,10 +171,13 @@ def concepts(args):
                     v.family,
                     form.form,
                     form.clics_form])
-                visited[form.concepticon_id] = form.gloss
+                visited[form.concepticon_id] = norm_gloss
 
     for am in ambiguous_concept_mapping:
-        args.log.warn('{0} {1} is linked from different glosses {2} and {3}'.format(*am))
+        args.log.warn('{0} {1} is linked from different glosses "{2}" and "{3}"'.format(*am))
+    if ambiguous_concept_mapping:
+        args.log.warn('Skipped {0} forms due to ambiguous concept mapping'.format(
+            len(ambiguous_concept_mapping)))
 
     concept_table = Table('Number', 'Concept', 'SemanticField', 'Category', 'Reflexes')
     with args.api.csv_writer(Path('output', 'stats'), 'concepts') as writer:
@@ -192,8 +193,7 @@ def concepts(args):
                 concept.ontological_category,
                 len(concept.forms)])
 
-    args.api.write_md_table(
-        'output', 'concepts', 'Concepts in CLICS', concept_table, args.log)
+    args.api.write_md_table('output', 'concepts', 'Concepts in CLICS', concept_table)
     if args.verbose:
         print(len(concepts))
     return concepts
@@ -201,6 +201,7 @@ def concepts(args):
 
 @command()
 def colexification(args):
+    args.api._log = args.log
     threshold = args.threshold or 1
     edgefilter = args.edgefilter
     words = {}
@@ -270,9 +271,8 @@ def colexification(args):
                     data['WordWeight']]])
 
     G.remove_edges_from(ignore_edges)
-    args.api.save_graph(
-        G, args.graphname or 'network', threshold, edgefilter, log=args.log)
-    jsonlib.dump(words, args.api.path('app', 'source', 'words.json'), indent=2)
+    args.api.save_graph(G, args.graphname or 'network', threshold, edgefilter)
+    args.api.json_dump(words, 'app', 'source', 'words.json')
 
 
 @command('articulation-points')
@@ -303,6 +303,7 @@ def articulationpoints(args):
     paramters are used to identify a given analysis by its filename and make
     sure the correct graph is loaded.
     """
+    args.api._log = args.log
     threshold = args.threshold or 1
     graphname = args.graphname or 'network'
 
@@ -364,13 +365,13 @@ def articulationpoints(args):
         'stats',
         '{0}'.format(aps),
         'Articulation Points (Analysis {0} / {1})'.format(threshold, args.edgefilter),
-        ap_table,
-        args.log)
-    args.api.save_graph(graph, aps, log=args.log)
+        ap_table)
+    args.api.save_graph(graph, aps)
 
 
 @command()
 def subgraph(args):
+    args.api._log = args.log
     graphname = args.graphname or 'network'
     edge_weights = args.weight
     threshold = args.threshold or 1
@@ -464,10 +465,8 @@ def subgraph(args):
     for node, data in _graph.nodes(data=True):
         if 'OutEdge' in data:
             data['OutEdge'] = '//'.join([str(x) for x in data['OutEdge']])
-    write_text(
-        args.api.path('app', 'source', 'subgraph-names.js'),
-        'var SUBG = ' + json.dumps(cluster_names, indent=2) + ';')
-    args.api.save_graph(_graph, 'subgraph', threshold, edgefilter, log=args.log)
+    args.api.write_js_var('SUBG', cluster_names, 'app', 'source', 'subgraph-names.js')
+    args.api.save_graph(_graph, 'subgraph', threshold, edgefilter)
 
 
 @command()
@@ -566,7 +565,7 @@ def communities(args):
         if len(sg) > 1:
             jsonlib.dump(
                 json_graph.adjacency_data(sg),
-                cluster_dir / _graph.node[nodes[0]]['ClusterName']+'.json',
+                cluster_dir / (_graph.node[nodes[0]]['ClusterName'] + '.json'),
                 sort_keys=True)
             for node in nodes:
                 cluster_names[_graph.node[node]['Gloss']] = _graph.node[node]['ClusterName']
@@ -582,9 +581,8 @@ def communities(args):
             removed += [(nA, nB)]
     _graph.remove_edges_from(removed)
 
-    args.api.save_graph(_graph, 'infomap', threshold, edgefilter, log=args.log)
-    with open(args.api.path('app', 'source', 'infomap-names.js').as_posix(), 'w') as f:
-        f.write('var INFO = '+json.dumps(cluster_names, indent=2)+';')
+    args.api.save_graph(_graph, 'infomap', threshold, edgefilter)
+    args.api.write_js_var('INFO', cluster_names, 'app', 'source', 'infomap-names.js')
 
 
 @command()
@@ -595,14 +593,14 @@ def export(args):
     iG = args.api.load_graph('infomap', threshold, edgefilter)
     sG = args.api.load_graph('subgraph', threshold, edgefilter)
 
-    with args.api.csv_writer(Path('output', 'clld'), 'edges') as writer:
+    with args.api.csv_writer(Path('output', 'clld'), 'edges', log=args.log) as writer:
         writer.writerow(['id', 'node_a', 'node_b', 'weight'])
 
         for node_a, node_b, data in iG.edges(data=True):
             edge_id = node_a + '/' + node_b
             writer.writerow([edge_id, node_a, node_b, data.get('weight')])
 
-    with args.api.csv_writer(Path('output', 'clld'), 'colexifications') as writer:
+    with args.api.csv_writer(Path('output', 'clld'), 'colexifications', log=args.log) as writer:
         writer.writerow([
             'id',
             'word_a',
@@ -618,7 +616,7 @@ def export(args):
                 writer.writerow([w1+'/'+w2, w1, w2, entry, lid, fam, ovalA, ovalB])
     
     visited = set()
-    with args.api.csv_writer(Path('output', 'clld'), 'graphs') as writer:
+    with args.api.csv_writer(Path('output', 'clld'), 'graphs', log=args.log) as writer:
         writer.writerow(['id', 'nodes', 'type'])
         for node, data in iG.nodes(data=True):
             if data['ClusterName'] not in visited:

@@ -1,16 +1,20 @@
 # coding: utf8
 from __future__ import unicode_literals, print_function, division
+import json
 
 from clldutils.apilib import API
 from clldutils.path import write_text
 from clldutils.dsv import UnicodeWriter
 from clldutils.misc import lazyproperty
+from clldutils import jsonlib
 
 from pyclics.db import Database
 from pyclics.models import Network
 
 
 class Clics(API):
+    _log = None
+
     def existing_dir(self, *comps):
         d = self.path()
         comps = list(comps)
@@ -25,23 +29,35 @@ class Clics(API):
     def db(self):
         return Database(self.path('clics.sqlite'))
 
-    def csv_writer(self, comp, name, delimiter=',', suffix='csv'):
-        return UnicodeWriter(
-            self.existing_dir(comp).joinpath('{0}.{1}'.format(name, suffix)),
-            delimiter=delimiter)
+    def file_written(self, p):
+        if self._log:
+            self._log.info('{0} written'.format(p))
 
-    def write_md_table(self, comp, name, title, table, log):
+    def csv_writer(self, comp, name, delimiter=',', suffix='csv'):
+        p = self.existing_dir(comp).joinpath('{0}.{1}'.format(name, suffix))
+        self.file_written(p)
+        return UnicodeWriter(p, delimiter=delimiter)
+
+    def json_dump(self, obj, *path):
+        p = self.path(*path)
+        jsonlib.dump(obj, p, indent=2)
+        self.file_written(p)
+
+    def write_js_var(self, var_name, var, *path):
+        p = self.path(*path)
+        write_text(p, 'var ' + var_name + ' = ' + json.dumps(var, indent=2) + ';')
+        self.file_written(p)
+
+    def write_md_table(self, comp, name, title, table):
         p = self.path(comp, '{0}.md'.format(name))
         write_text(p, '# {0}\n\n{1}'.format(title, table.render(condensed=False)))
-        log.info('{0} written'.format(p))
+        self.file_written(p)
 
-    def save_graph(self, graph, network, threshold=None, edgefilter=None, log=None):
+    def save_graph(self, graph, network, threshold=None, edgefilter=None):
         if not isinstance(network, Network):
             assert threshold is not None and edgefilter is not None
             network = Network(network, threshold, edgefilter)
-        network.save(graph)
-        if log:
-            log.info('Network {0} saved'.format(network))
+        self.file_written(network.save(graph))
 
     def load_graph(self, network, threshold=None, edgefilter=None):
         if not isinstance(network, Network):

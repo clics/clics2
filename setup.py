@@ -6,6 +6,15 @@ setup(
     version='0.1',
     author='Johann-Mattis List and Robert Forkel',
     url='https://github.com/clics/clics2',
+    classifiers=[
+        'Development Status :: 4 - Beta',
+        'Intended Audience :: Science/Research',
+        'Operating System :: OS Independent',
+        'Programming Language :: Python :: 3',
+        'Programming Language :: Python :: 3.4',
+        'Programming Language :: Python :: 3.5',
+        'Programming Language :: Python :: 3.6',
+    ],
     packages=find_packages(where='src'),
     package_dir={'': 'src'},
     install_requires=[
