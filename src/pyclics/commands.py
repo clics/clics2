@@ -571,15 +571,16 @@ def export(args):
     nG = args.api.load_graph('network', threshold, edgefilter)
     iG = args.api.load_graph('infomap', threshold, edgefilter)
     sG = args.api.load_graph('subgraph', threshold, edgefilter)
+    args.api._log = args.log
 
-    with args.api.csv_writer(Path('output', 'clld'), 'edges', log=args.log) as writer:
+    with args.api.csv_writer(Path('output', 'clld'), 'edges') as writer:
         writer.writerow(['id', 'node_a', 'node_b', 'weight'])
 
         for node_a, node_b, data in iG.edges(data=True):
             edge_id = node_a + '/' + node_b
             writer.writerow([edge_id, node_a, node_b, data.get('weight')])
 
-    with args.api.csv_writer(Path('output', 'clld'), 'colexifications', log=args.log) as writer:
+    with args.api.csv_writer(Path('output', 'clld'), 'colexifications') as writer:
         writer.writerow([
             'id',
             'word_a',
@@ -595,7 +596,7 @@ def export(args):
                 writer.writerow([w1+'/'+w2, w1, w2, entry, lid, fam, ovalA, ovalB])
     
     visited = set()
-    with args.api.csv_writer(Path('output', 'clld'), 'graphs', log=args.log) as writer:
+    with args.api.csv_writer(Path('output', 'clld'), 'graphs') as writer:
         writer.writerow(['id', 'nodes', 'type'])
         for node, data in iG.nodes(data=True):
             if data['ClusterName'] not in visited:
