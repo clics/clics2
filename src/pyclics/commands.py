@@ -55,7 +55,7 @@ def list_(args):
             '',
             'TOTAL',
             args.api.db.fetchone(
-                "select count(distinct concepticon_id) from parametertable")[0],
+                "select count(distinct p.concepticon_id) from parametertable as p, formtable as f where f.parameter_id = p.id")[0],
             args.api.db.fetchone(
                 "select count(*) from languagetable")[0],
             args.api.db.fetchone(
@@ -129,7 +129,6 @@ def languages(args):
 @command()
 def concepts(args):
     concepts = defaultdict(list)
-    ambiguous_concept_mapping = set()
     args.api._log = args.log
 
     with args.api.csv_writer(Path('output', 'data'), 'words') as writer:
@@ -145,21 +144,7 @@ def concepts(args):
             'ClicsValue'])
 
         for v, forms in pb(args.api.db.iter_wordlists()):
-            visited = {}
-
             for form in forms:
-                norm_gloss = form.gloss.lower()
-                if norm_gloss.startswith('the ') or norm_gloss.startswith('to '):
-                    norm_gloss = ' '.join(norm_gloss.split()[1:])
-                if form.concepticon_id in visited and visited[form.concepticon_id] != norm_gloss:
-                    # The concept was already seen, but with a different gloss!
-                    ambiguous_concept_mapping.add((
-                        v.gid,
-                        form.concepticon_id,
-                        form.gloss,
-                        visited[form.concepticon_id]))
-                    continue
-
                 concepts[form.concepticon_id].append((v.family, v.gid, form.gid))
                 writer.writerow([
                     form.gid,
@@ -171,13 +156,6 @@ def concepts(args):
                     v.family,
                     form.form,
                     form.clics_form])
-                visited[form.concepticon_id] = norm_gloss
-
-    for am in ambiguous_concept_mapping:
-        args.log.warn('{0} {1} is linked from different glosses "{2}" and "{3}"'.format(*am))
-    if ambiguous_concept_mapping:
-        args.log.warn('Skipped {0} forms due to ambiguous concept mapping'.format(
-            len(ambiguous_concept_mapping)))
 
     concept_table = Table('Number', 'Concept', 'SemanticField', 'Category', 'Reflexes')
     with args.api.csv_writer(Path('output', 'stats'), 'concepts') as writer:

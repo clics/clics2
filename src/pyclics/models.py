@@ -137,7 +137,9 @@ class Network(UnicodeMixin):
         return d.joinpath('{0}.{1}'.format(self, ext))
 
     def save(self, graph):
-        with open(self.fname(self.graphdir, 'bin').as_posix(), 'wb') as f:
+        if not self.graphdir.exists():
+            self.graphdir.mkdir()
+        with self.fname(self.graphdir, 'bin').open('wb') as f:
             pickle.dump(graph, f)
         write_text(
             self.fname(self.graphdir, 'gml'),
