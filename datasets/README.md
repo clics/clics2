@@ -11,16 +11,16 @@
 |        7 | [Xiangyun](http://glottolog.org/resource/languoid/id/sout2730)                                       | Sino-Tibetan             |    505 | lexibank-allenbai        |
 |        8 | [Yunlong](http://glottolog.org/resource/languoid/id/cent2004)                                        | Sino-Tibetan             |    503 | lexibank-allenbai        |
 |        9 | [Zhoucheng](http://glottolog.org/resource/languoid/id/sout2730)                                      | Sino-Tibetan             |    501 | lexibank-allenbai        |
-|       10 | [Kinyamwezi F22](http://glottolog.org/resource/languoid/id/nyam1276)                                 | Atlantic-Congo           |   2356 | lexibank-bantubvd        |
-|       11 | [Yao P.21](http://glottolog.org/resource/languoid/id/yaoo1241)                                       | Atlantic-Congo           |   2205 | lexibank-bantubvd        |
-|       12 | [Bukusu E.31c](http://glottolog.org/resource/languoid/id/buku1249)                                   | Atlantic-Congo           |   1794 | lexibank-bantubvd        |
-|       13 | [Koyo C.24](http://glottolog.org/resource/languoid/id/koyo1242)                                      | Atlantic-Congo           |   1550 | lexibank-bantubvd        |
-|       14 | [Bemba M.42](http://glottolog.org/resource/languoid/id/bemb1257)                                     | Atlantic-Congo           |   2084 | lexibank-bantubvd        |
-|       15 | [Basaa A.43a](http://glottolog.org/resource/languoid/id/basa1284)                                    | Atlantic-Congo           |   2002 | lexibank-bantubvd        |
-|       16 | [Asu G.22](http://glottolog.org/resource/languoid/id/asut1235)                                       | Atlantic-Congo           |   2181 | lexibank-bantubvd        |
-|       17 | [Rumanyo (Gciriku) K.38](http://glottolog.org/resource/languoid/id/diri1252)                         | Atlantic-Congo           |   2579 | lexibank-bantubvd        |
-|       18 | [Lega D.25](http://glottolog.org/resource/languoid/id/lega1249)                                      | Atlantic-Congo           |   2653 | lexibank-bantubvd        |
-|       19 | [Tswana S.30](http://glottolog.org/resource/languoid/id/tswa1253)                                    | Atlantic-Congo           |   2227 | lexibank-bantubvd        |
+|       10 | [Kinyamwezi F22](http://glottolog.org/resource/languoid/id/nyam1276)                                 | Atlantic-Congo           |    466 | lexibank-bantubvd        |
+|       11 | [Yao P.21](http://glottolog.org/resource/languoid/id/yaoo1241)                                       | Atlantic-Congo           |    438 | lexibank-bantubvd        |
+|       12 | [Bukusu E.31c](http://glottolog.org/resource/languoid/id/buku1249)                                   | Atlantic-Congo           |    434 | lexibank-bantubvd        |
+|       13 | [Koyo C.24](http://glottolog.org/resource/languoid/id/koyo1242)                                      | Atlantic-Congo           |    386 | lexibank-bantubvd        |
+|       14 | [Bemba M.42](http://glottolog.org/resource/languoid/id/bemb1257)                                     | Atlantic-Congo           |    412 | lexibank-bantubvd        |
+|       15 | [Basaa A.43a](http://glottolog.org/resource/languoid/id/basa1284)                                    | Atlantic-Congo           |    404 | lexibank-bantubvd        |
+|       16 | [Asu G.22](http://glottolog.org/resource/languoid/id/asut1235)                                       | Atlantic-Congo           |    492 | lexibank-bantubvd        |
+|       17 | [Rumanyo (Gciriku) K.38](http://glottolog.org/resource/languoid/id/diri1252)                         | Atlantic-Congo           |    436 | lexibank-bantubvd        |
+|       18 | [Lega D.25](http://glottolog.org/resource/languoid/id/lega1249)                                      | Atlantic-Congo           |    369 | lexibank-bantubvd        |
+|       19 | [Tswana S.30](http://glottolog.org/resource/languoid/id/tswa1253)                                    | Atlantic-Congo           |    419 | lexibank-bantubvd        |
 |       20 | [Beijing](http://glottolog.org/resource/languoid/id/beij1234)                                        | Sino-Tibetan             |   1039 | lexibank-beidasinitic    |
 |       21 | [Changsha](http://glottolog.org/resource/languoid/id/chan1326)                                       | Sino-Tibetan             |    976 | lexibank-beidasinitic    |
 |       22 | [Chaozhou](http://glottolog.org/resource/languoid/id/chao1238)                                       | Sino-Tibetan             |   1026 | lexibank-beidasinitic    |
@@ -359,7 +359,7 @@
 |      355 | [Siona](http://glottolog.org/resource/languoid/id/sion1247)                                          | Tucanoan                 |   1142 | lexibank-ids             |
 |      356 | [Tuyuca](http://glottolog.org/resource/languoid/id/tuyu1244)                                         | Tucanoan                 |   1074 | lexibank-ids             |
 |      357 | [Aguaruna](http://glottolog.org/resource/languoid/id/agua1253)                                       | Chicham                  |   1258 | lexibank-ids             |
-|      358 | [Avar (Batlukh dialect)](http://glottolog.org/resource/languoid/id/batl1238)                         | Nakh-Daghestanian        |   2336 | lexibank-ids             |
+|      358 | [Avar (Batlukh dialect)](http://glottolog.org/resource/languoid/id/batl1238)                         | Nakh-Daghestanian        |   1380 | lexibank-ids             |
 |      359 | [Yagua](http://glottolog.org/resource/languoid/id/yagu1244)                                          | Peba-Yagua               |   1776 | lexibank-ids             |
 |      360 | [Baure](http://glottolog.org/resource/languoid/id/baur1253)                                          | Arawakan                 |    287 | lexibank-ids             |
 |      361 | [Goajiro](http://glottolog.org/resource/languoid/id/wayu1243)                                        | Arawakan                 |    978 | lexibank-ids             |
@@ -370,7 +370,7 @@
 |      366 | [Waurá](http://glottolog.org/resource/languoid/id/waur1244)                                          | Arawakan                 |   1242 | lexibank-ids             |
 |      367 | [Yavitero](http://glottolog.org/resource/languoid/id/yavi1244)                                       | Arawakan                 |    797 | lexibank-ids             |
 |      368 | [Aymara](http://glottolog.org/resource/languoid/id/cent2142)                                         | Aymaran                  |   1026 | lexibank-ids             |
-|      369 | [Avar (Hid dialect)](http://glottolog.org/resource/languoid/id/hidd1238)                             | Nakh-Daghestanian        |   3592 | lexibank-ids             |
+|      369 | [Avar (Hid dialect)](http://glottolog.org/resource/languoid/id/hidd1238)                             | Nakh-Daghestanian        |   1461 | lexibank-ids             |
 |      370 | [Chipaya](http://glottolog.org/resource/languoid/id/chip1262)                                        | Uru-Chipaya              |   1010 | lexibank-ids             |
 |      371 | [Mosetén](http://glottolog.org/resource/languoid/id/mose1249)                                        | Mosetén-Chimané          |   1161 | lexibank-ids             |
 |      372 | [Araona](http://glottolog.org/resource/languoid/id/arao1248)                                         | Pano-Tacanan             |   1125 | lexibank-ids             |
@@ -381,7 +381,7 @@
 |      377 | [Cashibo](http://glottolog.org/resource/languoid/id/cash1251)                                        | Pano-Tacanan             |    744 | lexibank-ids             |
 |      378 | [Catuquina](http://glottolog.org/resource/languoid/id/pano1254)                                      | Pano-Tacanan             |   1124 | lexibank-ids             |
 |      379 | [Chácobo](http://glottolog.org/resource/languoid/id/chac1251)                                        | Pano-Tacanan             |   1019 | lexibank-ids             |
-|      380 | [Avar (Andalal dialect)](http://glottolog.org/resource/languoid/id/anda1281)                         | Nakh-Daghestanian        |   3244 | lexibank-ids             |
+|      380 | [Avar (Andalal dialect)](http://glottolog.org/resource/languoid/id/anda1281)                         | Nakh-Daghestanian        |   1562 | lexibank-ids             |
 |      381 | [Pacahuara](http://glottolog.org/resource/languoid/id/paca1246)                                      | Pano-Tacanan             |    100 | lexibank-ids             |
 |      382 | [Shipibo-Conibo](http://glottolog.org/resource/languoid/id/ship1254)                                 | Pano-Tacanan             |   1334 | lexibank-ids             |
 |      383 | [Yaminahua](http://glottolog.org/resource/languoid/id/yami1256)                                      | Pano-Tacanan             |   1347 | lexibank-ids             |
@@ -392,7 +392,7 @@
 |      388 | [Mundurukú](http://glottolog.org/resource/languoid/id/mund1330)                                      | Tupian                   |    533 | lexibank-ids             |
 |      389 | [Aché](http://glottolog.org/resource/languoid/id/ache1246)                                           | Tupian                   |    969 | lexibank-ids             |
 |      390 | [Chiriguano](http://glottolog.org/resource/languoid/id/east2555)                                     | Tupian                   |   1413 | lexibank-ids             |
-|      391 | [Avar (Antsukh dialect)](http://glottolog.org/resource/languoid/id/ancu1238)                         | Nakh-Daghestanian        |   3300 | lexibank-ids             |
+|      391 | [Avar (Antsukh dialect)](http://glottolog.org/resource/languoid/id/ancu1238)                         | Nakh-Daghestanian        |   1942 | lexibank-ids             |
 |      392 | [Guaraní](http://glottolog.org/resource/languoid/id/para1311)                                        | Tupian                   |   1929 | lexibank-ids             |
 |      393 | [Sirionó](http://glottolog.org/resource/languoid/id/siri1273)                                        | Tupian                   |   1159 | lexibank-ids             |
 |      394 | [Wayampi](http://glottolog.org/resource/languoid/id/waya1270)                                        | Tupian                   |   1260 | lexibank-ids             |
@@ -401,7 +401,7 @@
 |      397 | [Karajá](http://glottolog.org/resource/languoid/id/kara1500)                                         | Nuclear-Macro-Je         |    525 | lexibank-ids             |
 |      398 | [Trumai](http://glottolog.org/resource/languoid/id/trum1247)                                         | Trumai                   |    682 | lexibank-ids             |
 |      399 | [Ayoreo](http://glottolog.org/resource/languoid/id/ayor1240)                                         | Zamucoan                 |   1405 | lexibank-ids             |
-|      400 | [Avar (Zakataly dialect)](http://glottolog.org/resource/languoid/id/zaka1239)                        | Nakh-Daghestanian        |   2925 | lexibank-ids             |
+|      400 | [Avar (Zakataly dialect)](http://glottolog.org/resource/languoid/id/zaka1239)                        | Nakh-Daghestanian        |   1381 | lexibank-ids             |
 |      401 | [Lengua](http://glottolog.org/resource/languoid/id/leng1262)                                         | Lengua-Mascoy            |   1110 | lexibank-ids             |
 |      402 | [Mocoví](http://glottolog.org/resource/languoid/id/moco1246)                                         | Guaicuruan               |   1195 | lexibank-ids             |
 |      403 | [Pilagá](http://glottolog.org/resource/languoid/id/pila1245)                                         | Guaicuruan               |   1209 | lexibank-ids             |
@@ -411,7 +411,7 @@
 |      407 | [Nivaclé](http://glottolog.org/resource/languoid/id/niva1238)                                        | Matacoan                 |   1556 | lexibank-ids             |
 |      408 | [Kunza](http://glottolog.org/resource/languoid/id/kunz1244)                                          | Kunza                    |    895 | lexibank-ids             |
 |      409 | [Mapudungun](http://glottolog.org/resource/languoid/id/mapu1245)                                     | Araucanian               |   1377 | lexibank-ids             |
-|      410 | [Avar (Karakh dialect)](http://glottolog.org/resource/languoid/id/kara1473)                          | Nakh-Daghestanian        |   2558 | lexibank-ids             |
+|      410 | [Avar (Karakh dialect)](http://glottolog.org/resource/languoid/id/kara1473)                          | Nakh-Daghestanian        |   1530 | lexibank-ids             |
 |      411 | [Tehuelche](http://glottolog.org/resource/languoid/id/tehu1242)                                      | Chonan                   |    862 | lexibank-ids             |
 |      412 | [Selknam](http://glottolog.org/resource/languoid/id/onaa1245)                                        | Chonan                   |    864 | lexibank-ids             |
 |      413 | [Gününa Küne](http://glottolog.org/resource/languoid/id/puel1244)                                    | Puelche                  |    758 | lexibank-ids             |
@@ -421,20 +421,20 @@
 |      417 | [Andi (Muni dialect)](http://glottolog.org/resource/languoid/id/muni1255)                            | Nakh-Daghestanian        |   1378 | lexibank-ids             |
 |      418 | [Chechen (Akkin dialect)](http://glottolog.org/resource/languoid/id/chec1245)                        | Nakh-Daghestanian        |   1417 | lexibank-ids             |
 |      419 | [Ossetic](http://glottolog.org/resource/languoid/id/osse1243)                                        | Indo-European            |   2386 | lexibank-ids             |
-|      420 | [Andi](http://glottolog.org/resource/languoid/id/andi1255)                                           | Nakh-Daghestanian        |   3160 | lexibank-ids             |
+|      420 | [Andi](http://glottolog.org/resource/languoid/id/andi1255)                                           | Nakh-Daghestanian        |   1545 | lexibank-ids             |
 |      421 | [Avar (Araderikh dialect)](http://glottolog.org/resource/languoid/id/avar1256)                       | Nakh-Daghestanian        |   1520 | lexibank-ids             |
 |      422 | [Avar (Khunzakh dialect)](http://glottolog.org/resource/languoid/id/kunz1243)                        | Nakh-Daghestanian        |   1781 | lexibank-ids             |
 |      423 | [Avar (East Gergebil dialect)](http://glottolog.org/resource/languoid/id/avar1256)                   | Nakh-Daghestanian        |   1748 | lexibank-ids             |
 |      424 | [Avar (Ansalta dialect)](http://glottolog.org/resource/languoid/id/avar1256)                         | Nakh-Daghestanian        |   1851 | lexibank-ids             |
 |      425 | [Avar (Salatav dialect)](http://glottolog.org/resource/languoid/id/sala1265)                         | Nakh-Daghestanian        |   2071 | lexibank-ids             |
 |      426 | [Khwarshi (Kwantlada dialect)](http://glottolog.org/resource/languoid/id/khva1239)                   | Nakh-Daghestanian        |   1742 | lexibank-ids             |
-|      427 | [Akhvakh (Northern dialect)](http://glottolog.org/resource/languoid/id/akhv1239)                     | Nakh-Daghestanian        |   3049 | lexibank-ids             |
-|      428 | [Akhvakh (Southern dialect)](http://glottolog.org/resource/languoid/id/akhv1239)                     | Nakh-Daghestanian        |   3599 | lexibank-ids             |
-|      429 | [Bagvalal](http://glottolog.org/resource/languoid/id/bagv1239)                                       | Nakh-Daghestanian        |   4106 | lexibank-ids             |
-|      430 | [Botlikh](http://glottolog.org/resource/languoid/id/botl1242)                                        | Nakh-Daghestanian        |   2749 | lexibank-ids             |
-|      431 | [Godoberi](http://glottolog.org/resource/languoid/id/ghod1238)                                       | Nakh-Daghestanian        |   2890 | lexibank-ids             |
-|      432 | [Karata](http://glottolog.org/resource/languoid/id/kara1474)                                         | Nakh-Daghestanian        |   2663 | lexibank-ids             |
-|      433 | [Karata (Tokitin dialect)](http://glottolog.org/resource/languoid/id/toki1238)                       | Nakh-Daghestanian        |   2889 | lexibank-ids             |
+|      427 | [Akhvakh (Northern dialect)](http://glottolog.org/resource/languoid/id/akhv1239)                     | Nakh-Daghestanian        |   1636 | lexibank-ids             |
+|      428 | [Akhvakh (Southern dialect)](http://glottolog.org/resource/languoid/id/akhv1239)                     | Nakh-Daghestanian        |   1541 | lexibank-ids             |
+|      429 | [Bagvalal](http://glottolog.org/resource/languoid/id/bagv1239)                                       | Nakh-Daghestanian        |   1548 | lexibank-ids             |
+|      430 | [Botlikh](http://glottolog.org/resource/languoid/id/botl1242)                                        | Nakh-Daghestanian        |   1430 | lexibank-ids             |
+|      431 | [Godoberi](http://glottolog.org/resource/languoid/id/ghod1238)                                       | Nakh-Daghestanian        |   1514 | lexibank-ids             |
+|      432 | [Karata](http://glottolog.org/resource/languoid/id/kara1474)                                         | Nakh-Daghestanian        |   1484 | lexibank-ids             |
+|      433 | [Karata (Tokitin dialect)](http://glottolog.org/resource/languoid/id/toki1238)                       | Nakh-Daghestanian        |   1528 | lexibank-ids             |
 |      434 | [Central Thai](http://glottolog.org/resource/languoid/id/thai1261)                                   | Tai-Kadai                |   1756 | lexibank-ids             |
 |      435 | [Southern Tai (Songkhla variety)](http://glottolog.org/resource/languoid/id/sout2746)                | Tai-Kadai                |   1388 | lexibank-ids             |
 |      436 | [Thai (Korat variety)](http://glottolog.org/resource/languoid/id/sout2746)                           | Tai-Kadai                |   1372 | lexibank-ids             |
@@ -443,7 +443,7 @@
 |      439 | [Tai Lü](http://glottolog.org/resource/languoid/id/luuu1242)                                         | Tai-Kadai                |   1369 | lexibank-ids             |
 |      440 | [Tai Khün](http://glottolog.org/resource/languoid/id/khun1259)                                       | Tai-Kadai                |   1555 | lexibank-ids             |
 |      441 | [Shan](http://glottolog.org/resource/languoid/id/shan1277)                                           | Tai-Kadai                |   1474 | lexibank-ids             |
-|      442 | [Khwarshi (Khwarshi dialect)](http://glottolog.org/resource/languoid/id/xvar1237)                    | Nakh-Daghestanian        |   2991 | lexibank-ids             |
+|      442 | [Khwarshi (Khwarshi dialect)](http://glottolog.org/resource/languoid/id/xvar1237)                    | Nakh-Daghestanian        |   1578 | lexibank-ids             |
 |      443 | [Shan (Northern Shan dialect)](http://glottolog.org/resource/languoid/id/shan1277)                   | Tai-Kadai                |   1893 | lexibank-ids             |
 |      444 | [Nung-Fengshan](http://glottolog.org/resource/languoid/id/guib1244)                                  | Tai-Kadai                |   1445 | lexibank-ids             |
 |      445 | [Nung-Lazhai](http://glottolog.org/resource/languoid/id/guib1244)                                    | Tai-Kadai                |   1668 | lexibank-ids             |
@@ -752,11 +752,11 @@
 |      748 | [Biyo](http://glottolog.org/resource/languoid/id/biyo1243)                                           | Sino-Tibetan             |    362 | lexibank-satterthwaitetb |
 |      749 | [Hani](http://glottolog.org/resource/languoid/id/hani1248)                                           | Sino-Tibetan             |    384 | lexibank-satterthwaitetb |
 |      750 | [Jinghpaw](http://glottolog.org/resource/languoid/id/kach1280)                                       | Sino-Tibetan             |    404 | lexibank-satterthwaitetb |
-|      751 | [Jino](http://glottolog.org/resource/languoid/id/jino1236)                                           | Sino-Tibetan             |   1404 | lexibank-satterthwaitetb |
+|      751 | [Jino](http://glottolog.org/resource/languoid/id/jino1236)                                           | Sino-Tibetan             |    403 | lexibank-satterthwaitetb |
 |      752 | [Kucong](http://glottolog.org/resource/languoid/id/kuco1235)                                         | Sino-Tibetan             |    400 | lexibank-satterthwaitetb |
 |      753 | [Na (Lahu)](http://glottolog.org/resource/languoid/id/naaa1244)                                      | Sino-Tibetan             |    407 | lexibank-satterthwaitetb |
 |      754 | [Lahu Shi](http://glottolog.org/resource/languoid/id/lahu1252)                                       | Sino-Tibetan             |    359 | lexibank-satterthwaitetb |
-|      755 | [Lisu](http://glottolog.org/resource/languoid/id/lisu1250)                                           | Sino-Tibetan             |   1437 | lexibank-satterthwaitetb |
+|      755 | [Lisu](http://glottolog.org/resource/languoid/id/lisu1250)                                           | Sino-Tibetan             |    369 | lexibank-satterthwaitetb |
 |      756 | [Mandarin Chinese](http://glottolog.org/resource/languoid/id/mand1415)                               | Sino-Tibetan             |    421 | lexibank-satterthwaitetb |
 |      757 | [Nesu](http://glottolog.org/resource/languoid/id/nesu1235)                                           | Sino-Tibetan             |    388 | lexibank-satterthwaitetb |
 |      758 | [Naxi](http://glottolog.org/resource/languoid/id/naxi1245)                                           | Sino-Tibetan             |    352 | lexibank-satterthwaitetb |
@@ -783,10 +783,10 @@
 |      779 | [Hani (Shuikui)](http://glottolog.org/resource/languoid/id/honi1244)                                 | Sino-Tibetan             |   1005 | lexibank-suntb           |
 |      780 | [Idu](http://glottolog.org/resource/languoid/id/idum1241)                                            | Sino-Tibetan             |    989 | lexibank-suntb           |
 |      781 | [Jingpho](http://glottolog.org/resource/languoid/id/jing1260)                                        | Sino-Tibetan             |   1034 | lexibank-suntb           |
-|      782 | [Jinuo](http://glottolog.org/resource/languoid/id/jino1236)                                          | Sino-Tibetan             |   1404 | lexibank-suntb           |
+|      782 | [Jinuo](http://glottolog.org/resource/languoid/id/jino1236)                                          | Sino-Tibetan             |   1001 | lexibank-suntb           |
 |      783 | [Kaman [Miju]](http://glottolog.org/resource/languoid/id/miju1243)                                   | Sino-Tibetan             |    971 | lexibank-suntb           |
 |      784 | [Lahu (Black)](http://glottolog.org/resource/languoid/id/naaa1244)                                   | Sino-Tibetan             |   1001 | lexibank-suntb           |
-|      785 | [Lisu](http://glottolog.org/resource/languoid/id/lisu1250)                                           | Sino-Tibetan             |   1437 | lexibank-suntb           |
+|      785 | [Lisu](http://glottolog.org/resource/languoid/id/lisu1250)                                           | Sino-Tibetan             |   1068 | lexibank-suntb           |
 |      786 | [Maru [Langsu]](http://glottolog.org/resource/languoid/id/lawn1238)                                  | Sino-Tibetan             |    987 | lexibank-suntb           |
 |      787 | [Muya [Minyak]](http://glottolog.org/resource/languoid/id/muya1239)                                  | Sino-Tibetan             |    983 | lexibank-suntb           |
 |      788 | [Namuyi](http://glottolog.org/resource/languoid/id/namu1246)                                         | Sino-Tibetan             |    964 | lexibank-suntb           |
@@ -884,7 +884,7 @@
 |      880 | [Mwera1](http://glottolog.org/resource/languoid/id/mwer1248)                                         | Atlantic-Congo           |   1203 | lexibank-tls             |
 |      881 | [Namwanga](http://glottolog.org/resource/languoid/id/nyam1275)                                       | Atlantic-Congo           |   1380 | lexibank-tls             |
 |      882 | [Nata](http://glottolog.org/resource/languoid/id/ikom1245)                                           | Atlantic-Congo           |    976 | lexibank-tls             |
-|      883 | [Ndali](http://glottolog.org/resource/languoid/id/ndal1241)                                          | Atlantic-Congo           |   1409 | lexibank-tls             |
+|      883 | [Ndali](http://glottolog.org/resource/languoid/id/ndal1241)                                          | Atlantic-Congo           |   1410 | lexibank-tls             |
 |      884 | [Ndamba](http://glottolog.org/resource/languoid/id/ndam1239)                                         | Atlantic-Congo           |   1111 | lexibank-tls             |
 |      885 | [Ndengeleko](http://glottolog.org/resource/languoid/id/nden1248)                                     | Atlantic-Congo           |    920 | lexibank-tls             |
 |      886 | [Ngindo](http://glottolog.org/resource/languoid/id/ngin1244)                                         | Atlantic-Congo           |   1125 | lexibank-tls             |
@@ -1046,8 +1046,8 @@
 |     1042 | [Vano](http://glottolog.org/resource/languoid/id/vano1237)                                           | Austronesian             |    330 | lexibank-tryonsolomon    |
 |     1043 | [Varisi](http://glottolog.org/resource/languoid/id/vari1239)                                         | Austronesian             |    339 | lexibank-tryonsolomon    |
 |     1044 | [Walade (LauS)](http://glottolog.org/resource/languoid/id/lauu1247)                                  | Austronesian             |    314 | lexibank-tryonsolomon    |
-|     1045 | [Swahili](http://glottolog.org/resource/languoid/id/swah1253)                                        | Atlantic-Congo           |   2356 | lexibank-wold            |
-|     1046 | [Lower Sorbian](http://glottolog.org/resource/languoid/id/lowe1385)                                  | Indo-European            |   2205 | lexibank-wold            |
+|     1045 | [Swahili](http://glottolog.org/resource/languoid/id/swah1253)                                        | Atlantic-Congo           |   1890 | lexibank-wold            |
+|     1046 | [Lower Sorbian](http://glottolog.org/resource/languoid/id/lowe1385)                                  | Indo-European            |   1767 | lexibank-wold            |
 |     1047 | [Old High German](http://glottolog.org/resource/languoid/id/oldh1241)                                | Indo-European            |   1314 | lexibank-wold            |
 |     1048 | [Dutch](http://glottolog.org/resource/languoid/id/dutc1256)                                          | Indo-European            |   1588 | lexibank-wold            |
 |     1049 | [English](http://glottolog.org/resource/languoid/id/stan1293)                                        | Indo-European            |   1518 | lexibank-wold            |
@@ -1057,35 +1057,35 @@
 |     1053 | [Manange](http://glottolog.org/resource/languoid/id/mana1288)                                        | Sino-Tibetan             |   1126 | lexibank-wold            |
 |     1054 | [Ket](http://glottolog.org/resource/languoid/id/kett1243)                                            | Yeniseian                |   1274 | lexibank-wold            |
 |     1055 | [Sakha](http://glottolog.org/resource/languoid/id/yaku1245)                                          | Turkic                   |   1613 | lexibank-wold            |
-|     1056 | [Iraqw](http://glottolog.org/resource/languoid/id/iraq1241)                                          | Afro-Asiatic             |   1794 | lexibank-wold            |
+|     1056 | [Iraqw](http://glottolog.org/resource/languoid/id/iraq1241)                                          | Afro-Asiatic             |   1360 | lexibank-wold            |
 |     1057 | [Oroqen](http://glottolog.org/resource/languoid/id/oroq1238)                                         | Tungusic                 |   1213 | lexibank-wold            |
 |     1058 | [Japanese](http://glottolog.org/resource/languoid/id/nucl1643)                                       | Japonic                  |   2131 | lexibank-wold            |
 |     1059 | [Mandarin Chinese](http://glottolog.org/resource/languoid/id/mand1415)                               | Sino-Tibetan             |   2140 | lexibank-wold            |
 |     1060 | [Thai](http://glottolog.org/resource/languoid/id/thai1261)                                           | Tai-Kadai                |   2110 | lexibank-wold            |
 |     1061 | [Vietnamese](http://glottolog.org/resource/languoid/id/viet1252)                                     | Austroasiatic            |   1535 | lexibank-wold            |
 |     1062 | [White Hmong](http://glottolog.org/resource/languoid/id/hmon1333)                                    | Hmong-Mien               |   1522 | lexibank-wold            |
-|     1063 | [Ceq Wong](http://glottolog.org/resource/languoid/id/chew1245)                                       | Austroasiatic            |   2336 | lexibank-wold            |
-|     1064 | [Indonesian](http://glottolog.org/resource/languoid/id/indo1316)                                     | Austronesian             |   3592 | lexibank-wold            |
-|     1065 | [Malagasy](http://glottolog.org/resource/languoid/id/plat1254)                                       | Austronesian             |   3244 | lexibank-wold            |
-|     1066 | [Takia](http://glottolog.org/resource/languoid/id/taki1248)                                          | Austronesian             |   3300 | lexibank-wold            |
-|     1067 | [Gawwada](http://glottolog.org/resource/languoid/id/gaww1239)                                        | Afro-Asiatic             |   1550 | lexibank-wold            |
-|     1068 | [Hawaiian](http://glottolog.org/resource/languoid/id/hawa1245)                                       | Austronesian             |   2925 | lexibank-wold            |
-|     1069 | [Gurindji](http://glottolog.org/resource/languoid/id/guri1247)                                       | Pama-Nyungan             |   2558 | lexibank-wold            |
-|     1070 | [Yaqui](http://glottolog.org/resource/languoid/id/yaqu1251)                                          | Uto-Aztecan              |   3160 | lexibank-wold            |
-|     1071 | [Q'eqchi'](http://glottolog.org/resource/languoid/id/kekc1242)                                       | Mayan                    |   3599 | lexibank-wold            |
-|     1072 | [Otomi](http://glottolog.org/resource/languoid/id/mezq1235)                                          | Otomanguean              |   4106 | lexibank-wold            |
+|     1063 | [Ceq Wong](http://glottolog.org/resource/languoid/id/chew1245)                                       | Austroasiatic            |    956 | lexibank-wold            |
+|     1064 | [Indonesian](http://glottolog.org/resource/languoid/id/indo1316)                                     | Austronesian             |   2131 | lexibank-wold            |
+|     1065 | [Malagasy](http://glottolog.org/resource/languoid/id/plat1254)                                       | Austronesian             |   1682 | lexibank-wold            |
+|     1066 | [Takia](http://glottolog.org/resource/languoid/id/taki1248)                                          | Austronesian             |   1358 | lexibank-wold            |
+|     1067 | [Gawwada](http://glottolog.org/resource/languoid/id/gaww1239)                                        | Afro-Asiatic             |   1164 | lexibank-wold            |
+|     1068 | [Hawaiian](http://glottolog.org/resource/languoid/id/hawa1245)                                       | Austronesian             |   1544 | lexibank-wold            |
+|     1069 | [Gurindji](http://glottolog.org/resource/languoid/id/guri1247)                                       | Pama-Nyungan             |   1028 | lexibank-wold            |
+|     1070 | [Yaqui](http://glottolog.org/resource/languoid/id/yaqu1251)                                          | Uto-Aztecan              |   1615 | lexibank-wold            |
+|     1071 | [Q'eqchi'](http://glottolog.org/resource/languoid/id/kekc1242)                                       | Mayan                    |   2058 | lexibank-wold            |
+|     1072 | [Otomi](http://glottolog.org/resource/languoid/id/mezq1235)                                          | Otomanguean              |   2558 | lexibank-wold            |
 |     1073 | [Saramaccan](http://glottolog.org/resource/languoid/id/sara1340)                                     | Indo-European            |   1303 | lexibank-wold            |
-|     1074 | [Imbabura Quechua](http://glottolog.org/resource/languoid/id/imba1240)                               | Quechuan                 |   2749 | lexibank-wold            |
-|     1075 | [Kali'na](http://glottolog.org/resource/languoid/id/gali1262)                                        | Cariban                  |   2890 | lexibank-wold            |
-|     1076 | [Hup](http://glottolog.org/resource/languoid/id/hupd1244)                                            | Nadahup                  |   2663 | lexibank-wold            |
-|     1077 | [Hausa](http://glottolog.org/resource/languoid/id/haus1257)                                          | Afro-Asiatic             |   2084 | lexibank-wold            |
-|     1078 | [Wichí](http://glottolog.org/resource/languoid/id/wich1264)                                          | Matacoan                 |   2889 | lexibank-wold            |
-|     1079 | [Mapudungun](http://glottolog.org/resource/languoid/id/mapu1245)                                     | Araucanian               |   2991 | lexibank-wold            |
-|     1080 | [Kanuri](http://glottolog.org/resource/languoid/id/cent2050)                                         | Saharan                  |   2002 | lexibank-wold            |
-|     1081 | [Tarifiyt Berber](http://glottolog.org/resource/languoid/id/tari1263)                                | Afro-Asiatic             |   2181 | lexibank-wold            |
-|     1082 | [Seychelles Creole](http://glottolog.org/resource/languoid/id/sese1246)                              | Indo-European            |   2579 | lexibank-wold            |
-|     1083 | [Romanian](http://glottolog.org/resource/languoid/id/roma1327)                                       | Indo-European            |   2653 | lexibank-wold            |
-|     1084 | [Selice Romani](http://glottolog.org/resource/languoid/id/west2376)                                  | Indo-European            |   2227 | lexibank-wold            |
+|     1074 | [Imbabura Quechua](http://glottolog.org/resource/languoid/id/imba1240)                               | Quechuan                 |   1319 | lexibank-wold            |
+|     1075 | [Kali'na](http://glottolog.org/resource/languoid/id/gali1262)                                        | Cariban                  |   1376 | lexibank-wold            |
+|     1076 | [Hup](http://glottolog.org/resource/languoid/id/hupd1244)                                            | Nadahup                  |   1179 | lexibank-wold            |
+|     1077 | [Hausa](http://glottolog.org/resource/languoid/id/haus1257)                                          | Afro-Asiatic             |   1672 | lexibank-wold            |
+|     1078 | [Wichí](http://glottolog.org/resource/languoid/id/wich1264)                                          | Matacoan                 |   1361 | lexibank-wold            |
+|     1079 | [Mapudungun](http://glottolog.org/resource/languoid/id/mapu1245)                                     | Araucanian               |   1413 | lexibank-wold            |
+|     1080 | [Kanuri](http://glottolog.org/resource/languoid/id/cent2050)                                         | Saharan                  |   1598 | lexibank-wold            |
+|     1081 | [Tarifiyt Berber](http://glottolog.org/resource/languoid/id/tari1263)                                | Afro-Asiatic             |   1689 | lexibank-wold            |
+|     1082 | [Seychelles Creole](http://glottolog.org/resource/languoid/id/sese1246)                              | Indo-European            |   2143 | lexibank-wold            |
+|     1083 | [Romanian](http://glottolog.org/resource/languoid/id/roma1327)                                       | Indo-European            |   2284 | lexibank-wold            |
+|     1084 | [Selice Romani](http://glottolog.org/resource/languoid/id/west2376)                                  | Indo-European            |   1808 | lexibank-wold            |
 |     1085 | [Amaimon](http://glottolog.org/resource/languoid/id/amai1246)                                        | Nuclear Trans New Guinea |    334 | lexibank-zgraggenmadang  |
 |     1086 | [Amele](http://glottolog.org/resource/languoid/id/amel1241)                                          | Nuclear Trans New Guinea |    384 | lexibank-zgraggenmadang  |
 |     1087 | [Anam](http://glottolog.org/resource/languoid/id/anam1247)                                           | Nuclear Trans New Guinea |    353 | lexibank-zgraggenmadang  |

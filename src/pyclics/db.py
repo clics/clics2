@@ -59,7 +59,7 @@ class Database(Database_):
         for row in self.fetchall("""\
 select l.id, l.dataset_id, l.name, l.glottocode, l.family, l.macroarea, l.longitude, l.latitude, count(f.id) as size
 from languagetable as l, formtable as f 
-where f.language_id = l.id and l.glottocode is not null and l.family != 'Bookkeeping'
+where f.language_id = l.id and f.dataset_id = l.dataset_id and l.glottocode is not null and l.family != 'Bookkeeping'
 group by l.id, l.dataset_id order by l.dataset_id, l.id"""):
             yield Variety(*row)
 
@@ -70,7 +70,7 @@ group by l.id, l.dataset_id order by l.dataset_id, l.id"""):
             forms = [Form(*row) for row in self.fetchall("""
 select f.id, f.dataset_id, f.form, f.clics_form, p.name, p.concepticon_id, p.concepticon_gloss, p.ontological_category, p.semantic_field
 from formtable as f, parametertable as p
-where f.parameter_id = p.id and p.concepticon_id is not null and f.language_id = ? and f.dataset_id = ?
+where f.parameter_id = p.id and f.dataset_id = p.dataset_id and p.concepticon_id is not null and f.language_id = ? and f.dataset_id = ?
 order by f.dataset_id, f.language_id, p.concepticon_id
 """, params=(vid, dsid))]
             yield v, forms
