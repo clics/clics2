@@ -127,7 +127,7 @@ $ clics -t 3 subgraph
 This will populate the folder `app` with json-files which contain the network information needed to browse the data. 
 
 
-### Inspecting the netoworks
+### Inspecting the networks
 
 Now you can open `app/index.html` in your browser to inspect the colexification networks detected in the
 datasets.
