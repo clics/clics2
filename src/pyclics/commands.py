@@ -6,9 +6,8 @@ import sqlite3
 
 import geojson
 from clldutils.clilib import command
-from clldutils.path import Path, rmtree
+from clldutils.path import Path
 from clldutils.markup import Table
-from clldutils.misc import nfilter
 from clldutils import jsonlib
 from pyconcepticon.api import Concepticon
 from pyglottolog.api import Glottolog
@@ -18,7 +17,7 @@ import networkx as nx
 from networkx.readwrite import json_graph
 from tabulate import tabulate
 
-from pyclics.util import full_colexification, pb
+from pyclics.util import full_colexification, pb, clean_dir
 from pyclics.api import Network
 
 
@@ -95,89 +94,6 @@ def clean(args):
 
 
 @command()
-def languages(args):
-    varieties = []
-    ltable = Table('Number', 'Language', 'Family', 'Size', 'Source')
-    gcodes = set()
-    args.api._log = args.log
-
-    with args.api.csv_writer(Path('output', 'stats'), 'languages') as writer:
-        for i, var in enumerate(args.api.db.iter_varieties()):
-            if i == 0:
-                writer.writerow(list(var.as_stats_dict().keys()))
-            varieties.append(var)
-            gcodes.add(var.glottocode)
-            writer.writerow(list(var.as_stats_dict().values()))
-            ltable.append([
-                i + 1,
-                '[{0}](http://glottolog.org/resource/languoid/id/{1})'.format(
-                    var.name, var.glottocode),
-                var.family
-                if var.family != var.glottocode else 'isolate',
-                var.size,
-                var.source
-            ])
-
-    args.api.write_md_table('datasets', 'README', 'Languages in CLICS', ltable)
-    args.api.write_md_table('output', 'languages', 'Languages in CLICS', ltable)
-
-    lgeo = geojson.FeatureCollection(nfilter(v.as_geojson() for v in varieties))
-    args.api.json_dump(lgeo, 'output', 'languages.geojson')
-    args.api.json_dump(lgeo, 'app', 'source', 'langsGeo.json')
-
-
-@command()
-def concepts(args):
-    concepts = defaultdict(list)
-    args.api._log = args.log
-
-    with args.api.csv_writer(Path('output', 'data'), 'words') as writer:
-        writer.writerow([
-            'WordID',
-            'ConcepticonId',
-            'ConcepticonGloss',
-            'Gloss',
-            'LanguageId',
-            'LanguageName',
-            'Family',
-            'Value',
-            'ClicsValue'])
-
-        for v, forms in pb(args.api.db.iter_wordlists()):
-            for form in forms:
-                concepts[form.concepticon_id].append((v.family, v.gid, form.gid))
-                writer.writerow([
-                    form.gid,
-                    form.concepticon_id,
-                    form.concepticon_gloss,
-                    form.gloss,
-                    v.glottocode,
-                    v.name,
-                    v.family,
-                    form.form,
-                    form.clics_form])
-
-    concept_table = Table('Number', 'Concept', 'SemanticField', 'Category', 'Reflexes')
-    with args.api.csv_writer(Path('output', 'stats'), 'concepts') as writer:
-        for i, concept in enumerate(args.api.db.iter_concepts()):
-            if i == 0:
-                writer.writerow(list(concept.asdict().keys()))
-            writer.writerow(list(concept.asdict().values()))
-            concept_table.append([
-                i + 1,
-                '[{0}](http://concepticon.clld.org/parameters/{1})'.format(
-                    concept.gloss, concept.id),
-                concept.semantic_field,
-                concept.ontological_category,
-                len(concept.forms)])
-
-    args.api.write_md_table('output', 'concepts', 'Concepts in CLICS', concept_table)
-    if args.verbose:
-        print(len(concepts))
-    return concepts
-
-
-@command()
 def colexification(args):
     args.api._log = args.log
     threshold = args.threshold or 1
@@ -187,11 +103,17 @@ def colexification(args):
     def clean(word):
         return ''.join([w for w in word if w not in '/,;"'])
 
+    varieties = args.api.db.varieties
+    lgeo = geojson.FeatureCollection([v.as_geojson() for v in varieties])
+    args.api.json_dump(lgeo, 'app', 'source', 'langsGeo.json')
+
+    args.log.info('Adding nodes to the graph')
     G = nx.Graph()
     for concept in args.api.db.iter_concepts():
         G.add_node(concept.id, **concept.as_node_attrs())
 
-    for v_, forms in pb(args.api.db.iter_wordlists()):
+    args.log.info('Adding edges to the graph')
+    for v_, forms in pb(args.api.db.iter_wordlists(varieties), total=len(varieties)):
         cols = full_colexification(forms)
 
         for k, v in cols.items():
@@ -220,37 +142,27 @@ def colexification(args):
                             v_.family,
                             clean(formA.form),
                             clean(formB.form)]))
+    args.api.json_dump(words, 'app', 'source', 'words.json')
 
     ignore_edges = []
-    with args.api.csv_writer(Path('output', 'stats'), 'colexifications-{0}-{1}'.format(
-            threshold, edgefilter)) as f:
-        f.writerow('EdgeA,EdgeB,FamilyWeight,LanguageWeight,WordWeight'.split())
-        for edgeA, edgeB, data in G.edges(data=True):
-            data['WordWeight'] = len(data['words'])
-            data['words'] = ';'.join(
-                sorted(['{0}/{1}'.format(x, y) for x, y in data['words']]))
-            data['FamilyWeight'] = len(data['families'])
-            data['families'] = ';'.join(sorted(data['families']))
-            data['LanguageWeight'] = len(data['languages'])
-            data['languages'] = ';'.join(data['languages'])
-            data['wofam'] = ';'.join(data['wofam'])
-            if edgefilter == 'families' and data['FamilyWeight'] < threshold:
-                ignore_edges.append((edgeA, edgeB))
-            elif edgefilter == 'languages' and data['LanguageWeight'] < threshold:
-                ignore_edges.append((edgeA, edgeB))
-            elif edgefilter == 'words' and data['WordWeight'] < threshold:
-                ignore_edges.append((edgeA, edgeB))
-            f.writerow([
-                '{0}'.format(x) for x in [
-                    edgeA,
-                    edgeB,
-                    data['FamilyWeight'],
-                    data['LanguageWeight'],
-                    data['WordWeight']]])
+    for edgeA, edgeB, data in G.edges(data=True):
+        data['WordWeight'] = len(data['words'])
+        data['words'] = ';'.join(
+            sorted(['{0}/{1}'.format(x, y) for x, y in data['words']]))
+        data['FamilyWeight'] = len(data['families'])
+        data['families'] = ';'.join(sorted(data['families']))
+        data['LanguageWeight'] = len(data['languages'])
+        data['languages'] = ';'.join(data['languages'])
+        data['wofam'] = ';'.join(data['wofam'])
+        if edgefilter == 'families' and data['FamilyWeight'] < threshold:
+            ignore_edges.append((edgeA, edgeB))
+        elif edgefilter == 'languages' and data['LanguageWeight'] < threshold:
+            ignore_edges.append((edgeA, edgeB))
+        elif edgefilter == 'words' and data['WordWeight'] < threshold:
+            ignore_edges.append((edgeA, edgeB))
 
     G.remove_edges_from(ignore_edges)
     args.api.save_graph(G, args.graphname or 'network', threshold, edgefilter)
-    args.api.json_dump(words, 'app', 'source', 'words.json')
 
 
 @command('articulation-points')
@@ -320,30 +232,6 @@ def articulationpoints(args):
         data.setdefault('DegreeCentrality', 0)
 
     aps = Network('articulationpoints', threshold, args.edgefilter)
-    ap_table = Table('Number', 'Concept', 'Community', 'CommunitySize', 'CentralNode')
-    with args.api.csv_writer('stats', '{0}'.format(aps)) as writer:
-        writer.writerow([
-            'ConcepticonId',
-            'ConcepticonGloss',
-            'Community',
-            'CentralNode',
-            'CentralNodeGloss',
-            'CommunitySize',
-            ])
-        for i, line in enumerate(_tmp):
-            writer.writerow(line)
-            ap_table.append([
-                i + 1,
-                '[{0[1]}]({0[0]})'.format(line),
-                line[2],
-                line[5],
-                '[{0[4]}]({0[3]})'.format(line)])
-
-    args.api.write_md_table(
-        'stats',
-        '{0}'.format(aps),
-        'Articulation Points (Analysis {0} / {1})'.format(threshold, args.edgefilter),
-        ap_table)
     args.api.save_graph(graph, aps)
 
 
@@ -377,24 +265,15 @@ def subgraph(args):
                     break
             if len(data['subgraph']) > 30:
                 break
-        args.log.info('{0:20} {1:20} {2}'.format(
-            node, data['Gloss'], len(data['subgraph'])))
+        args.log.debug('{0:20} {1:20} {2}'.format(node, data['Gloss'], len(data['subgraph'])))
 
-    outdir = args.api.path('app', 'subgraph')
-    if outdir.exists():
-        rmtree(outdir)
-        args.log.info('removed nodes')
-    outdir.mkdir()
-
+    outdir = clean_dir(args.api.path('app', 'subgraph'), log=args.log)
     cluster_names = {}
     nodes2cluster = {}
     nidx = 1
     duplicates = []
     for node, data in pb(sorted(
-            _graph.nodes(data=True),
-            key=lambda x: len(x[1]['subgraph']), reverse=True),
-        desc='preparing nodes'
-    ):
+            _graph.nodes(data=True), key=lambda x: len(x[1]['subgraph']), reverse=True)):
         nodes = tuple(sorted(data['subgraph']))
         sg = _graph.subgraph(nodes)
         if nodes not in nodes2cluster:
@@ -416,25 +295,23 @@ def subgraph(args):
             if neighbors:
                 sg.node[node]['OutEdge'] = []
                 for n_ in neighbors:
-                    sg.node[node]['OutEdge'] += [[
-                        'subgraph_'+n_+'_'+_graph.node[n]['Gloss'],
+                    sg.node[node]['OutEdge'].append([
+                        'subgraph_' + n_ + '_' + _graph.node[n]['Gloss'],
                         _graph.node[n_]['Gloss'],
                         _graph.node[n_]['Gloss'],
                         _graph[node][n_]['FamilyWeight'],
                         n_
-                        ]]
-                    sg.node[node]['OutEdge'] += [[
+                    ])
+                    sg.node[node]['OutEdge'].append([
                         _graph.node[n]['ClusterName'],
                         _graph.node[n]['CentralConcept'],
                         _graph.node[n]['Gloss'],
                         _graph[node][n]['WordWeight'],
                         n
-                        ]]
+                    ])
         if len(sg) > 1:
             jsonlib.dump(
-                json_graph.adjacency_data(sg),
-                args.api.path('app', 'subgraph', cluster_name+'.json'),
-                sort_keys=True)
+                json_graph.adjacency_data(sg), outdir / (cluster_name+'.json'), sort_keys=True)
             cluster_names[data['Gloss']] = cluster_name
 
     for nodes in duplicates:
@@ -481,23 +358,15 @@ def communities(args):
 
     args.log.info('finished infomap')
     D, Com = {}, defaultdict(list)
-    with args.api.csv_writer(Path('output', 'communities'), 'infomap') as writer:
-        for i, comp in enumerate(sorted(comps.subgraphs(), key=lambda x:
-            len(x.vs), reverse=True)):
-            vertices = [v['name'] for v in comp.vs]
-            for vertex in vertices:
-                if verbose: print(graph.vs[vertex]['Gloss'], i+1)
-                D[graph.vs[vertex]['ConcepticonId']] = str(i+1)
-                Com[i+1] += [graph.vs[vertex]['ConcepticonId']]
-                writer.writerow([
-                    graph.vs[vertex]['ConcepticonId'],
-                    graph.vs[vertex]['Gloss'],
-                    i + 1])
-            if verbose: print('---')
-        for node, data in _graph.nodes(data=True):
-            data['infomap'] = D[node]
-            data['ClusterName'] = ''
-            data['CentralConcept'] = ''
+    for i, comp in enumerate(sorted(comps.subgraphs(), key=lambda x: len(x.vs), reverse=True)):
+        for vertex in [v['name'] for v in comp.vs]:
+            D[graph.vs[vertex]['ConcepticonId']] = str(i+1)
+            Com[i+1].append(graph.vs[vertex]['ConcepticonId'])
+
+    for node, data in _graph.nodes(data=True):
+        data['infomap'] = D[node]
+        data['ClusterName'] = ''
+        data['CentralConcept'] = ''
 
     # get the articulation points etc. immediately
     for idx, nodes in sorted(Com.items()):
@@ -508,8 +377,7 @@ def communities(args):
             cluster_name = 'infomap_{0}_{1}'.format(idx, d)
         else:
             d = _graph.node[nodes[0]]['Gloss']
-            cluster_name = 'infomap_{0}_{1}'.format(idx,
-                    _graph.node[nodes[0]]['Gloss'])
+            cluster_name = 'infomap_{0}_{1}'.format(idx, _graph.node[nodes[0]]['Gloss'])
         args.log.debug(cluster_name, d)
         for node in nodes:
             _graph.node[node]['ClusterName'] = cluster_name
@@ -517,30 +385,26 @@ def communities(args):
 
     args.log.info('computed cluster names')
     
+    cluster_dir = clean_dir(args.api.path('app', 'cluster'), log=args.log)
     cluster_names = {}
-    cluster_dir = args.api.path('app', 'cluster')
-    if cluster_dir.exists():
-        rmtree(cluster_dir)
-        args.log.info('removed nodes')
-    cluster_dir.mkdir()
-
     removed = []
     for idx, nodes in pb(sorted(Com.items()), desc='export to app'):
         sg = _graph.subgraph(nodes)
         for node, data in sg.nodes(data=True):
             data['OutEdge'] = []
-            neighbors = [n for n in _graph if n in _graph[node] and
-                    _graph[node][n]['FamilyWeight'] >= 5 and n not in sg]
+            neighbors = [
+                n for n in _graph
+                if n in _graph[node] and _graph[node][n]['FamilyWeight'] >= 5 and n not in sg]
             if neighbors:
                 sg.node[node]['OutEdge'] = []
                 for n in neighbors:
-                    sg.node[node]['OutEdge'] += [[
+                    sg.node[node]['OutEdge'].append([
                         _graph.node[n]['ClusterName'],
                         _graph.node[n]['CentralConcept'],
                         _graph.node[n]['Gloss'],
                         _graph[node][n]['WordWeight'],
                         n
-                        ]]
+                    ])
         if len(sg) > 1:
             jsonlib.dump(
                 json_graph.adjacency_data(sg),

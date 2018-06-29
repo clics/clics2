@@ -55,16 +55,16 @@ class Database(Database_):
             values = list(values) + [clics_form(d['`Form`'])]
         return keys, values
 
-    def iter_varieties(self):
-        for row in self.fetchall("""\
-select l.id, l.dataset_id, l.name, l.glottocode, l.family, l.macroarea, l.longitude, l.latitude, count(f.id) as size
-from languagetable as l, formtable as f 
-where f.language_id = l.id and f.dataset_id = l.dataset_id and l.glottocode is not null and l.family != 'Bookkeeping'
-group by l.id, l.dataset_id order by l.dataset_id, l.id"""):
-            yield Variety(*row)
+    @property
+    def varieties(self):
+        return [Variety(*row) for row in self.fetchall("""\
+select l.id, l.dataset_id, l.name, l.glottocode, l.family, l.macroarea, l.longitude, l.latitude
+from languagetable as l
+where l.glottocode is not null and l.family != 'Bookkeeping'
+group by l.id, l.dataset_id order by l.dataset_id, l.id""")]
 
-    def iter_wordlists(self):
-        languages = {(v.source, v.id): v for v in self.iter_varieties()}
+    def iter_wordlists(self, varieties):
+        languages = {(v.source, v.id): v for v in varieties}
 
         for (dsid, vid), v in sorted(languages.items()):
             forms = [Form(*row) for row in self.fetchall("""

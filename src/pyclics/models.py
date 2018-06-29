@@ -24,9 +24,6 @@ class WithGid(object):
     id = attr.ib()
     source = attr.ib()
 
-    def asdict(self):
-        return attr.asdict(self)
-
     @property
     def gid(self):
         return '{0}-{1}'.format(self.source, self.id)
@@ -40,17 +37,6 @@ class Variety(WithGid):
     macroarea = attr.ib()
     longitude = attr.ib()
     latitude = attr.ib()
-    size = attr.ib()
-
-    def as_stats_dict(self):
-        return OrderedDict([
-            ('Identifier', self.gid),
-            ('Language_name', self.name),
-            ('Language_ID', self.glottocode),
-            ('Family', self.family),
-            ('Longitude', self.longitude),
-            ('Latitude', self.latitude)
-        ])
 
     def as_geojson(self):
         if self.latitude is None or self.longitude is None:
@@ -58,27 +44,19 @@ class Variety(WithGid):
         else:
             kw = {'geometry': geojson.Point((self.longitude, self.latitude))}
 
-        if self.size < 800:
-            marker_color = '#00ff00'
-        elif self.size < 1200:
-            marker_color = '#ff00ff'
-        else:
-            marker_color = '#0000ff'
         return geojson.Feature(
             properties={
                 "name": self.name,
                 "language": self.name,
-                "coverage": self.size,
                 "family": self.family,
                 "area": self.macroarea,
                 "variety": "std",
                 "key": self.gid,
                 "glottocode": self.glottocode,
                 "source": self.source,
-                "marker-size": 'small',
                 "lon": self.longitude,
                 "lat": self.latitude,
-                "marker-color": marker_color},
+            },
             **kw)
 
 
@@ -103,7 +81,7 @@ class Concept(object):
     varieties = attr.ib(default=attr.Factory(list))
     families = attr.ib(default=attr.Factory(list))
 
-    def asdict(self):
+    def as_node_attrs(self):
         return OrderedDict([
             ('ID', self.id),
             ('Gloss', self.gloss),
@@ -114,12 +92,9 @@ class Concept(object):
             ('WordFrequency', len(self.forms)),
             ('Words', ';'.join(self.forms)),
             ('Languages', ';'.join(self.varieties)),
-            ('Families', ';'.join(self.families))])
-
-    def as_node_attrs(self):
-        res = self.asdict()
-        res['ConcepticonId'] = self.id
-        return res
+            ('Families', ';'.join(self.families)),
+            ('ConcepticonId', self.id)
+        ])
 
 
 @attr.s

@@ -67,24 +67,6 @@ These commands are given here "in order", i.e. subsequent commands require previ
 run (with the same parameters).
 
 
-### Compute Language data
-
-```shell
-$ clics languages
-```
-
-Calculates basic statistics about the languages in the sample.
-
-
-### Calculate Coverage of Concepts
-
-```shell
-$ clics concepts
-```
-
-Calculate coverage of concepts (how many languages reflect them, etc.).
-
-
 ### Calculate Colexification Network
 
 ```shell
