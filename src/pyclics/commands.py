@@ -50,15 +50,19 @@ def list_(args):
                 var_counts[d],
                 gc_counts[d],
             ])
+        varieties = args.api.db.varieties
         table.append([
             '',
             'TOTAL',
             args.api.db.fetchone(
-                "select count(distinct p.concepticon_id) from parametertable as p, formtable as f where f.parameter_id = p.id")[0],
-            args.api.db.fetchone(
-                "select count(*) from languagetable")[0],
-            args.api.db.fetchone(
-                "select count(distinct glottocode) from languagetable")[0],
+                """\
+select count(distinct p.concepticon_id) from parametertable as p, formtable as f, languagetable as l
+where 
+f.parameter_id = p.id and f.dataset_id = p.dataset_id 
+and f.language_id = l.id and f.dataset_id = l.dataset_id 
+and l.glottocode is not null and l.family != 'Bookkeeping'""")[0],
+            len(varieties),
+            len(set(v.glottocode for v in varieties)),
         ])
         print(table.render(tablefmt='simple'))
 
