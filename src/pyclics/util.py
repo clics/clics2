@@ -3,7 +3,7 @@ from __future__ import unicode_literals, print_function, division
 from collections import defaultdict
 import tqdm
 
-from clldutils.path import Path
+from clldutils.path import Path, rmtree
 import pyclics
 
 
@@ -14,6 +14,15 @@ def pb(iterable=None, **kw):
 
 def clics_path(*comps):
     return Path(pyclics.__file__).parent.parent.parent.joinpath(*comps)
+
+
+def clean_dir(d, log=None):
+    if d.exists():
+        rmtree(d)
+        if log:
+            log.info('recreated {0}'.format(d))
+    d.mkdir()
+    return d
 
 
 def full_colexification(forms):

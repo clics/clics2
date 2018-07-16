@@ -1,9 +1,12 @@
 # clics2
 
 This repository contains the python package `pyclics` which can be used to compute colexification networks like
-the ones presented on http://clics.clld.org/graphs from lexical datasets published in CLDF.
+the ones presented on http://clics.clld.org from lexical datasets published in CLDF. In particular, this package
+implements the methods described in the paper
 
-Note: `pyclics` require python >=3.4
+> J.-M. List et al. (forthcoming): CLICS 2: An improved database of cross-linguistic colexifications assembling lexical data with the help of cross-linguistic data formats. Linguistic Typology. [DOI: 10.1515/lingty-2018-0010](https://doi.org/10.1515/lingty-2018-0010).
+
+Note: `pyclics` requires python >=3.4
 
 
 ## Command Line Interface
@@ -49,7 +52,8 @@ $ pip install -e git+https://github.com/lexibank/allenbai.git#egg=lexibank_allen
 
 for the [allenbai dataset](https://github.com/lexibank/allenbai).
 
-The datasets used for the CLICS application at http://clics.clld.org are listed in [datasets.txt](datasets.txt) and
+The datasets used for the CLICS application at http://clics.clld.org are listed in
+[datasets.txt](datasets.txt) - specifying exact versions - and
 can be installed wholesale via
 
 ```shell
@@ -62,27 +66,35 @@ Once installed, all datasets can be loaded into the CLICS sqlite database runnin
 $ clics --concepticon-repos=path/to/concepticon-data --glottolog-repos=path/to/glottolog load
 ```
 
+An overview of the installed and loaded datasets is available via the `clics datasets` command.
+Running this command prints a table to the screen, using the same format as the one on page 11 of
+the paper:
+
+```shell
+$ clics datasets
+#    Dataset            Glosses    Concepticon    Varieties    Glottocodes    Families
+---  ---------------  ---------  -------------  -----------  -------------  ----------
+1    allenbai               498            499            9              3           1
+2    bantubvd               430            415           10             10           1
+3    beidasinitic           905            700           18             18           1
+4    bowernpny              338            338          190            169           1
+5    hubercolumbian         361            343           69             65          16
+6    ids                   1310           1305          296            246          58
+7    kraftchadic            428            428           68             60           3
+8    northeuralex          1015            940          107            107          21
+9    robinsonap             398            393           13             13           1
+10   satterthwaitetb        422            418           18             18           1
+11   suntb                  996            905           51             49           1
+12   tls                   1523            808          128             97           1
+13   tryonsolomon           323            311          111             96           5
+14   wold                  1814           1457           41             41          24
+15   zgraggenmadang         306            306          100            100           1
+     TOTAL                    0           2487         1224           1029          90
+```
+
 The remaining commands compute networks and various derived data formats from the CLICS sqlite database.
 These commands are given here "in order", i.e. subsequent commands require previous ones to have been
 run (with the same parameters).
-
-
-### Compute Language data
-
-```shell
-$ clics languages
-```
-
-Calculates basic statistics about the languages in the sample.
-
-
-### Calculate Coverage of Concepts
-
-```shell
-$ clics concepts
-```
-
-Calculate coverage of concepts (how many languages reflect them, etc.).
 
 
 ### Calculate Colexification Network
@@ -91,13 +103,31 @@ Calculate coverage of concepts (how many languages reflect them, etc.).
 $ clics [-v] [-t 1] [-f families|languages|words] colexification
 ```
 
-Calculate the colexification network. Use `-t` to handle the threshold (if `-t 3` and `-f families` this means only 
+Calculates the colexification network. Use `-t` to handle the threshold (if `-t 3` and `-f families` this means only 
 colexifications reflected in 3 families are considered. Data is written to a file in the folder `graph/`. 
 
-The colexifications in http://clics.clld.org have been calculated with the following parameters:
+The colexifications in the paper have been calculated with the following parameters
 
 ```shell
 $ clics -t 3 -f families colexification
+```
+
+In addition to computing the network, the command also outputs the 10 most often colexified pairs of concepts,
+as given on page 12 of the paper:
+
+```bash
+  ID A  Concept A                     ID B  Concept B                   Families    Languages    Words
+------  --------------------------  ------  ------------------------  ----------  -----------  -------
+  1313  MOON                          1370  MONTH                             55          286      290
+   906  TREE                          1803  WOOD                              54          197      280
+  1258  FINGERNAIL                      72  CLAW                              49          201      208
+  2267  SON-IN-LAW (OF MAN)           2266  SON-IN-LAW (OF WOMAN)             48          239      259
+  2264  DAUGHTER-IN-LAW (OF WOMAN)    2265  DAUGHTER-IN-LAW (OF MAN)          46          210      234
+  1608  LISTEN                        1408  HEAR                              46          100      103
+   629  LEATHER                        763  SKIN                              45          220      245
+  2259  FLESH                          634  MEAT                              45          196      204
+  1599  WORD                          1307  LANGUAGE                          44           92       96
+   626  LAND                          1228  EARTH (SOIL)                      43          143      165
 ```
 
 
@@ -107,11 +137,13 @@ $ clics -t 3 -f families colexification
 $ clics [-v] [-t 1] [-f families] [-n] [-g network] communities
 ```
 
+Clusters the concepts in the network using the infomap algorithm.
+
 Note that `-t` and `-f` are only needed to identify the graph you have calculated with the `colexification` command above.
 The `-g` flag indicates the name of the network you want to load, that is, the name of the data stored in `graphs/`. 
 Colexification analyses are named by three components as `g-t-f.gml`, with g pointing to the base name, t to the threshold, and f to the filter. Use the flag `-n` to normalize the weights before calculation.
 
-The communities in http://clics.clld.org have been calculated with the following parameters:
+The communities in the paper have been calculated with the following parameters:
 
 ```shell
 $ clics -t 3 -f families -n communities
@@ -124,10 +156,17 @@ $ clics -t 3 -f families -n communities
 $ clics -t 3 subgraph
 ```
 
-This will populate the folder `app` with json-files which contain the network information needed to browse the data. 
+Breaks down the complete network into display-friendly subgraphs.
 
 
 ### Inspecting the networks
 
 Now you can open `app/index.html` in your browser to inspect the colexification networks detected in the
 datasets.
+
+If you loaded the datasets used for the CLICS2 paper, you could
+- inspect the `SAY` cluster from page 16
+  of the paper by choosing `Infomap` as graph type, typing `SAY` in the concept selection box and clicking `OK`
+- or investigate the curious colexifications between `FOOT` and `WHEEL` (too few for the concepts to get clustered
+  by infomap) by choosing `SubGraph` as graph type, typing `WHEEL` in the concept selection box and clicking `OK`.
+
