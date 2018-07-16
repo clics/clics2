@@ -1,5 +1,7 @@
 # coding: utf8
 from __future__ import unicode_literals, print_function, division
+from collections import Counter
+import string
 
 from unidecode import unidecode
 from pylexibank.db import Database as Database_
@@ -8,31 +10,39 @@ from six import text_type
 
 from pyclics.models import Form, Concept, Variety
 
+# unidecode converts "ə" to "@"
+ALLOWED_CHARACTERS = string.ascii_letters + string.digits + '@'
+
 
 def clics_form(word):
     word = unidecode(word)
     if not isinstance(word, text_type):
         word = word.decode('utf8')
 
-    try:
-        return slug(word)
-    except AssertionError:
-        out = ''
-        for x in word:
-            try:
-                out += slug(x)
-            except AssertionError:
-                pass
-        return out
+    return ''.join(c for c in word if c in ALLOWED_CHARACTERS).lower()
 
 
 class Database(Database_):
     """
     The CLICS database adds a column `clics_form` to lexibank's FormTable.
     """
-    Database_.sql["varieties_by_dataset"] = "SELECT ds.id, count(l.id)" \
-                                            " FROM dataset as ds, languagetable as l " \
-                                            "WHERE ds.id = l.dataset_id GROUP BY ds.id"
+    Database_.sql["varieties_by_dataset"] = """\
+SELECT 
+    ds.id, count(distinct l.id), count(distinct l.Glottocode), count(distinct l.Family)
+FROM
+    dataset as ds, languagetable as l, formtable AS f
+WHERE
+    ds.id = l.dataset_id and f.dataset_id = ds.id and f.language_id = l.id
+GROUP BY ds.id"""
+
+    Database_.sql["concepts_by_dataset"] = """\
+SELECT 
+    ds.id, count(distinct p.concepticon_id), count(distinct p.name)
+FROM
+    dataset as ds, parametertable as p, formtable as f
+WHERE
+    ds.id = p.dataset_id and f.dataset_id = ds.id and f.parameter_id = p.id
+GROUP BY ds.id"""
 
     @property
     def datasets(self):

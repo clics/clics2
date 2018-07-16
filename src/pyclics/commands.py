@@ -6,7 +6,6 @@ import sqlite3
 
 import geojson
 from clldutils.clilib import command
-from clldutils.path import Path
 from clldutils.markup import Table
 from clldutils import jsonlib
 from pyconcepticon.api import Concepticon
@@ -21,7 +20,7 @@ from pyclics.util import full_colexification, pb, clean_dir
 from pyclics.api import Network
 
 
-@command('list')
+@command('datasets')
 def list_(args):
     """List datasets available for loading
 
@@ -34,26 +33,30 @@ def list_(args):
         if not i:
             print('No datasets installed')
     else:
-        table = Table('#', 'dataset', 'concepts', 'varieties', 'languages')
+        table = Table('#', 'Dataset', 'Glosses', 'Concepticon', 'Varieties', 'Glottocodes', 'Families')
         try:
-            concept_counts = dict(args.api.db.fetchall('conceptsets_by_dataset'))
+            concept_counts = {r[0]: r[1:] for r in args.api.db.fetchall('concepts_by_dataset')}
         except sqlite3.OperationalError:
+            raise
             print('No datasets loaded yet')
             return
-        var_counts = dict(args.api.db.fetchall('varieties_by_dataset'))
-        gc_counts = dict(args.api.db.fetchall('glottocodes_by_dataset'))
+        var_counts = {r[0]: r[1:] for r in args.api.db.fetchall('varieties_by_dataset')}
+
         for count, d in enumerate(args.api.db.datasets):
             table.append([
                 count + 1,
-                d,
-                concept_counts[d],
-                var_counts[d],
-                gc_counts[d],
+                d.replace('lexibank-', ''),
+                concept_counts[d][1],
+                concept_counts[d][0],
+                var_counts[d][0],
+                var_counts[d][1],
+                var_counts[d][2],
             ])
         varieties = args.api.db.varieties
         table.append([
             '',
             'TOTAL',
+            0,
             args.api.db.fetchone(
                 """\
 select count(distinct p.concepticon_id) from parametertable as p, formtable as f, languagetable as l
@@ -63,6 +66,7 @@ and f.language_id = l.id and f.dataset_id = l.dataset_id
 and l.glottocode is not null and l.family != 'Bookkeeping'""")[0],
             len(varieties),
             len(set(v.glottocode for v in varieties)),
+            len(set(v.family for v in varieties))
         ])
         print(table.render(tablefmt='simple'))
 
@@ -139,20 +143,23 @@ def colexification(args):
                     G[formA.concepticon_id][formB.concepticon_id]['languages'].add(v_.gid)
                     G[formA.concepticon_id][formB.concepticon_id]['families'].add(v_.family)
                     G[formA.concepticon_id][formB.concepticon_id]['wofam'].append('/'.join([
-                            formA.gid,
-                            formB.gid,
-                            formA.clics_form,
-                            v_.gid,
-                            v_.family,
-                            clean(formA.form),
-                            clean(formB.form)]))
+                        formA.gid,
+                        formB.gid,
+                        formA.clics_form,
+                        v_.gid,
+                        v_.family,
+                        clean(formA.form),
+                        clean(formB.form)]))
     args.api.json_dump(words, 'app', 'source', 'words.json')
+
+    edges = {}
+    for edgeA, edgeB, data in G.edges(data=True):
+        edges[edgeA, edgeB] = (len(data['families']), len(data['languages']), len(data['words']))
 
     ignore_edges = []
     for edgeA, edgeB, data in G.edges(data=True):
         data['WordWeight'] = len(data['words'])
-        data['words'] = ';'.join(
-            sorted(['{0}/{1}'.format(x, y) for x, y in data['words']]))
+        data['words'] = ';'.join(sorted(['{0}/{1}'.format(x, y) for x, y in data['words']]))
         data['FamilyWeight'] = len(data['families'])
         data['families'] = ';'.join(sorted(data['families']))
         data['LanguageWeight'] = len(data['languages'])
@@ -166,6 +173,20 @@ def colexification(args):
             ignore_edges.append((edgeA, edgeB))
 
     G.remove_edges_from(ignore_edges)
+
+    nodenames = {r[0]: r[1] for r in args.api.db.fetchall(
+        "select distinct concepticon_id, concepticon_gloss from parametertable")}
+
+    table = Table('ID A', 'Concept A', 'ID B', 'Concept B', 'Families', 'Languages', 'Words')
+    count = 0
+    for (nodeA, nodeB), (fc, lc, wc) in sorted(edges.items(), key=lambda i: i[1], reverse=True):
+        if (nodeA, nodeB) not in ignore_edges:
+            table.append([nodeA, nodenames[nodeA], nodeB, nodenames[nodeB], fc, lc, wc])
+            count += 1
+        if count >= 10:
+            break
+    print(table.render(tablefmt='simple'))
+
     args.api.save_graph(G, args.graphname or 'network', threshold, edgefilter)
 
 
@@ -243,50 +264,35 @@ def articulationpoints(args):
 def subgraph(args):
     args.api._log = args.log
     graphname = args.graphname or 'network'
-    edge_weights = args.weight
     threshold = args.threshold or 1
     edgefilter = args.edgefilter
 
     _graph = args.api.load_graph(graphname, threshold, edgefilter)
     for node, data in _graph.nodes(data=True):
-        data['subgraph'] = [node]
-
-    for node, data in _graph.nodes(data=True):
-        max_gen = 1
-        min_weight = 3
-        queue = [(node, _graph[node], 0)]
-        while queue:
-            source, neighbors, generation = queue.pop(0)
-            for n, d in neighbors.items():
-                if n not in data['subgraph'] and d[edge_weights] > min_weight:
-                    data['subgraph'] += [n]
-                    queue += [(n, _graph[n], generation+1)]
-            if generation > max_gen:
-                if len(data['subgraph']) < 8:
-                    max_gen += 1
-                    min_weight -= 1
-                else:
-                    break
-            if len(data['subgraph']) > 30:
+        generations = [{node}]
+        while generations[-1] and len(set.union(*generations)) < 30 and len(generations) < 3:
+            nextgen = set.union(*[set(_graph[n].keys()) for n in generations[-1]])
+            if len(nextgen) > 50:
                 break
-        args.log.debug('{0:20} {1:20} {2}'.format(node, data['Gloss'], len(data['subgraph'])))
+            else:
+                generations.append(set.union(*[set(_graph[n].keys()) for n in generations[-1]]))
+        data['subgraph'] = list(set.union(*generations))
+
+    args.api.save_graph(_graph, 'subgraph', threshold, edgefilter)
 
     outdir = clean_dir(args.api.path('app', 'subgraph'), log=args.log)
     cluster_names = {}
     nodes2cluster = {}
     nidx = 1
-    duplicates = []
     for node, data in pb(sorted(
             _graph.nodes(data=True), key=lambda x: len(x[1]['subgraph']), reverse=True)):
         nodes = tuple(sorted(data['subgraph']))
-        sg = _graph.subgraph(nodes)
+        sg = _graph.subgraph(data['subgraph'])
         if nodes not in nodes2cluster:
             d_ = sorted(sg.degree(), key=lambda x: x[1], reverse=True)
             d = [_graph.node[a]['Gloss'] for a, b in d_][0]
             nodes2cluster[nodes] = 'subgraph_{0}_{1}'.format(nidx, d)
             nidx += 1
-        else:
-            duplicates.append(nodes)
         cluster_name = nodes2cluster[nodes]
         data['ClusterName'] = cluster_name
         for n, d in sg.nodes(data=True):
@@ -318,14 +324,10 @@ def subgraph(args):
                 json_graph.adjacency_data(sg), outdir / (cluster_name+'.json'), sort_keys=True)
             cluster_names[data['Gloss']] = cluster_name
 
-    for nodes in duplicates:
-        args.log.info('Duplicate node: {0}'.format(nodes))
-
     for node, data in _graph.nodes(data=True):
         if 'OutEdge' in data:
             data['OutEdge'] = '//'.join([str(x) for x in data['OutEdge']])
     args.api.write_js_var('SUBG', cluster_names, 'app', 'source', 'subgraph-names.js')
-    args.api.save_graph(_graph, 'subgraph', threshold, edgefilter)
 
 
 @command()
@@ -430,53 +432,6 @@ def communities(args):
 
     args.api.save_graph(_graph, 'infomap', threshold, edgefilter)
     args.api.write_js_var('INFO', cluster_names, 'app', 'source', 'infomap-names.js')
-
-
-@command()
-def export(args):
-    threshold = args.threshold or 1
-    edgefilter = args.edgefilter
-    nG = args.api.load_graph('network', threshold, edgefilter)
-    iG = args.api.load_graph('infomap', threshold, edgefilter)
-    sG = args.api.load_graph('subgraph', threshold, edgefilter)
-    args.api._log = args.log
-
-    with args.api.csv_writer(Path('output', 'clld'), 'edges') as writer:
-        writer.writerow(['id', 'node_a', 'node_b', 'weight'])
-
-        for node_a, node_b, data in iG.edges(data=True):
-            edge_id = node_a + '/' + node_b
-            writer.writerow([edge_id, node_a, node_b, data.get('weight')])
-
-    with args.api.csv_writer(Path('output', 'clld'), 'colexifications') as writer:
-        writer.writerow([
-            'id',
-            'word_a',
-            'word_b',
-            'clics_value',
-            'language_id',
-            'family',
-            'value_a',
-            'value_b'])
-        for nodeA, nodeB, data in nG.edges(data=True):
-            for word in data['wofam'].split(';'):
-                w1, w2, entry, lid, fam, ovalA, ovalB = word.split('/')
-                writer.writerow([w1+'/'+w2, w1, w2, entry, lid, fam, ovalA, ovalB])
-    
-    visited = set()
-    with args.api.csv_writer(Path('output', 'clld'), 'graphs') as writer:
-        writer.writerow(['id', 'nodes', 'type'])
-        for node, data in iG.nodes(data=True):
-            if data['ClusterName'] not in visited:
-                nodes = sorted(
-                    n for n in iG if iG.node[n]['ClusterName'] == data['ClusterName'])
-                writer.writerow([data['ClusterName'], '/'.join(nodes), 'infomap'])
-                visited.add(data['infomap'])
-        for node, data in sG.nodes(data=True):
-            if data['ClusterName'] not in visited:
-                nodes = sorted(data['subgraph'])
-                writer.writerow([data['ClusterName'], '/'.join(nodes), 'subgraph'])
-                visited.add(data['ClusterName'])
 
 
 @command('graph-stats')
