@@ -9,6 +9,7 @@ implements the methods described in the paper
 Note: `pyclics` requires python >=3.5
 
 [![Build Status](https://travis-ci.org/clics/clics2.svg?branch=master)](https://travis-ci.org/clics/clics2)
+[![codecov](https://codecov.io/gh/clics/clics2/branch/master/graph/badge.svg)](https://codecov.io/gh/clics/clics2)
 
 
 ## Command Line Interface
