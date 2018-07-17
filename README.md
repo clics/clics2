@@ -31,8 +31,8 @@ $ clics --help
 ```
 
 In order for the `pyclics` package to work, it must have access to clones or exports of the following data repositories:
-- [clld/glottolog](https://github.com/clld/glottolog)
-- [clld/concepticon-data](https://github.com/clld/concepticon-data)
+- [clld/glottolog](https://github.com/clld/glottolog) >= 9701cb0
+- [clld/concepticon-data](https://github.com/clld/concepticon-data) >= v1.2.0
 
 The `clics` sub-command `load` requires access to the data repositories listed above,
 thus must be invoked passing in the options `--glottolog-repos` and `--concepticon-repos`.
