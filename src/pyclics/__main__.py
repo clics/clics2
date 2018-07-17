@@ -1,8 +1,9 @@
 # coding: utf8
-from __future__ import unicode_literals, print_function, division
 import sys
 import argparse
+import random
 
+import numpy
 from clldutils.clilib import ArgumentParserWithLogging
 from clldutils.path import Path
 
@@ -12,6 +13,9 @@ import pyclics.commands
 
 assert pyclics.commands
 
+random.seed(123456)
+numpy.random.seed(123456)
+
 
 def main():  # pragma: no cover
     parser = ArgumentParserWithLogging(pyclics.__name__)
@@ -19,9 +23,7 @@ def main():  # pragma: no cover
     parser.add_argument('-f', '--edgefilter', default='families')
     parser.add_argument('-n', '--normalize', action='store_true')
     parser.add_argument('-g', '--graphname', default=None)
-    parser.add_argument('-s', '--subgraph', default='infomap')
     parser.add_argument('-w', '--weight', default='FamilyWeight')
-    parser.add_argument('-a', '--aspect', default=None)
     parser.add_argument('--unloaded', action='store_true', default=False)
     parser.add_argument('-v', '--verbose', default=False, action='store_true')
     parser.add_argument(

@@ -1,25 +1,19 @@
 # coding: utf8
-from __future__ import unicode_literals, print_function, division
-from collections import Counter
 import string
 
 from unidecode import unidecode
 from pylexibank.db import Database as Database_
-from clldutils.misc import slug
-from six import text_type
 
 from pyclics.models import Form, Concept, Variety
+
+__all__ = ['Database']
 
 # unidecode converts "ə" to "@"
 ALLOWED_CHARACTERS = string.ascii_letters + string.digits + '@'
 
 
 def clics_form(word):
-    word = unidecode(word)
-    if not isinstance(word, text_type):
-        word = word.decode('utf8')
-
-    return ''.join(c for c in word if c in ALLOWED_CHARACTERS).lower()
+    return ''.join(c for c in unidecode(word) if c in ALLOWED_CHARACTERS).lower()
 
 
 class Database(Database_):

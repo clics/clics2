@@ -1,5 +1,4 @@
 # coding: utf8
-from __future__ import unicode_literals, print_function, division
 import json
 
 from clldutils.apilib import API
@@ -10,6 +9,8 @@ from clldutils import jsonlib
 
 from pyclics.db import Database
 from pyclics.models import Network
+
+__all__ = ['Clics']
 
 
 class Clics(API):
@@ -32,6 +33,7 @@ class Clics(API):
     def file_written(self, p):
         if self._log:
             self._log.info('{0} written'.format(p))
+        return p
 
     def csv_writer(self, comp, name, delimiter=',', suffix='csv'):
         p = self.existing_dir(comp).joinpath('{0}.{1}'.format(name, suffix))
@@ -51,8 +53,9 @@ class Clics(API):
     def save_graph(self, graph, network, threshold=None, edgefilter=None):
         if not isinstance(network, Network):
             assert threshold is not None and edgefilter is not None
-            network = Network(network, threshold, edgefilter)
-        self.file_written(network.save(graph))
+            network = Network(
+                network, threshold, edgefilter, graphdir=self.path('output', 'graphs'))
+        return self.file_written(network.save(graph))
 
     def load_graph(self, network, threshold=None, edgefilter=None):
         if not isinstance(network, Network):

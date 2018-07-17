@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='pyclics',
-    version='0.1',
+    version='1.0',
     author='Johann-Mattis List and Robert Forkel',
     url='https://github.com/clics/clics2',
     classifiers=[
@@ -18,12 +18,11 @@ setup(
     packages=find_packages(where='src'),
     package_dir={'': 'src'},
     install_requires=[
-        'lingpy',
-        'pycldf~=1.0',
         'pylexibank>=0.7',
         'clldutils~=2.0',
         'geojson',
         'python-igraph',
+        'networkx',
         'unidecode'
     ],
     extras_require={

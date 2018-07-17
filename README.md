@@ -146,7 +146,7 @@ Colexification analyses are named by three components as `g-t-f.gml`, with g poi
 The communities in the paper have been calculated with the following parameters:
 
 ```shell
-$ clics -t 3 -f families -n communities
+$ clics -t 3 -f families communities
 ```
 
 

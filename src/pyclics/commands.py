@@ -4,6 +4,7 @@ from collections import defaultdict
 from itertools import combinations
 import sqlite3
 
+from tqdm import tqdm
 import geojson
 from clldutils.clilib import command
 from clldutils.markup import Table
@@ -11,13 +12,11 @@ from clldutils import jsonlib
 from pyconcepticon.api import Concepticon
 from pyglottolog.api import Glottolog
 from pylexibank.dataset import iter_datasets
-from lingpy.convert.graph import networkx2igraph
 import networkx as nx
 from networkx.readwrite import json_graph
 from tabulate import tabulate
 
-from pyclics.util import full_colexification, pb, clean_dir
-from pyclics.api import Network
+from pyclics.util import full_colexification, clean_dir, networkx2igraph
 
 
 @command('datasets')
@@ -31,13 +30,12 @@ def list_(args):
         for i, ds in enumerate(iter_datasets()):
             print(ds.cldf_dir)
         if not i:
-            print('No datasets installed')
+            print('No datasets installed')  # pragma: no cover
     else:
         table = Table('#', 'Dataset', 'Glosses', 'Concepticon', 'Varieties', 'Glottocodes', 'Families')
         try:
             concept_counts = {r[0]: r[1:] for r in args.api.db.fetchall('concepts_by_dataset')}
-        except sqlite3.OperationalError:
-            raise
+        except sqlite3.OperationalError:  # pragma: no cover
             print('No datasets loaded yet')
             return
         var_counts = {r[0]: r[1:] for r in args.api.db.fetchall('varieties_by_dataset')}
@@ -121,7 +119,7 @@ def colexification(args):
         G.add_node(concept.id, **concept.as_node_attrs())
 
     args.log.info('Adding edges to the graph')
-    for v_, forms in pb(args.api.db.iter_wordlists(varieties), total=len(varieties)):
+    for v_, forms in tqdm(args.api.db.iter_wordlists(varieties), total=len(varieties), leave=False):
         cols = full_colexification(forms)
 
         for k, v in cols.items():
@@ -220,7 +218,7 @@ def articulationpoints(args):
     """
     args.api._log = args.log
     threshold = args.threshold or 1
-    graphname = args.graphname or 'network'
+    graphname = 'infomap'
 
     graph = args.api.load_graph(graphname, threshold, args.edgefilter)
     coms = defaultdict(list)
@@ -256,8 +254,7 @@ def articulationpoints(args):
         data.setdefault('ArticulationPoint', 0)
         data.setdefault('DegreeCentrality', 0)
 
-    aps = Network('articulationpoints', threshold, args.edgefilter)
-    args.api.save_graph(graph, aps)
+    args.api.save_graph(graph, 'articulationpoints', threshold, args.edgefilter)
 
 
 @command()
@@ -284,8 +281,9 @@ def subgraph(args):
     cluster_names = {}
     nodes2cluster = {}
     nidx = 1
-    for node, data in pb(sorted(
-            _graph.nodes(data=True), key=lambda x: len(x[1]['subgraph']), reverse=True)):
+    for node, data in tqdm(
+            sorted(_graph.nodes(data=True), key=lambda x: len(x[1]['subgraph']), reverse=True),
+            leave=False):
         nodes = tuple(sorted(data['subgraph']))
         sg = _graph.subgraph(data['subgraph'])
         if nodes not in nodes2cluster:
@@ -335,18 +333,17 @@ def communities(args):
     graphname = args.graphname or 'network'
     edge_weights = args.weight
     vertex_weights = str('FamilyFrequency')
-    verbose = bool(args.verbose)
     normalize = args.normalize
     edgefilter = args.edgefilter
     threshold = args.threshold or 1
 
     _graph = args.api.load_graph(graphname, threshold, edgefilter)
     args.log.info('loaded graph')
-    for n, d in pb(_graph.nodes(data=True), desc='vertex-weights'):
+    for n, d in tqdm(_graph.nodes(data=True), desc='vertex-weights', leave=False):
         d[vertex_weights] = int(d[vertex_weights])
 
     if normalize:
-        for edgeA, edgeB, data in pb(_graph.edges(data=True), desc='normalizing'):
+        for edgeA, edgeB, data in tqdm(_graph.edges(data=True), desc='normalizing', leave=False):
             data[str('weight')] = data[edge_weights] ** 2 / (
                 _graph.node[edgeA][vertex_weights] +
                 _graph.node[edgeB][vertex_weights] -
@@ -366,8 +363,8 @@ def communities(args):
     D, Com = {}, defaultdict(list)
     for i, comp in enumerate(sorted(comps.subgraphs(), key=lambda x: len(x.vs), reverse=True)):
         for vertex in [v['name'] for v in comp.vs]:
-            D[graph.vs[vertex]['ConcepticonId']] = str(i+1)
-            Com[i+1].append(graph.vs[vertex]['ConcepticonId'])
+            D[graph.vs[vertex]['ConcepticonId']] = str(i + 1)
+            Com[i + 1].append(graph.vs[vertex]['ConcepticonId'])
 
     for node, data in _graph.nodes(data=True):
         data['infomap'] = D[node]
@@ -394,7 +391,7 @@ def communities(args):
     cluster_dir = clean_dir(args.api.path('app', 'cluster'), log=args.log)
     cluster_names = {}
     removed = []
-    for idx, nodes in pb(sorted(Com.items()), desc='export to app'):
+    for idx, nodes in tqdm(sorted(Com.items()), desc='export to app', leave=False):
         sg = _graph.subgraph(nodes)
         for node, data in sg.nodes(data=True):
             data['OutEdge'] = []
@@ -425,7 +422,7 @@ def communities(args):
         if 'OutEdge' in data:
             data['OutEdge'] = '//'.join(['/'.join([str(y) for y in x]) for x in data['OutEdge']])
     removed = []
-    for nA, nB, data in pb(_graph.edges(data=True), desc='remove edges'):
+    for nA, nB, data in tqdm(_graph.edges(data=True), desc='remove edges', leave=False):
         if _graph.node[nA]['infomap'] != _graph.node[nB]['infomap'] and data['FamilyWeight'] < 5:
             removed += [(nA, nB)]
     _graph.remove_edges_from(removed)
