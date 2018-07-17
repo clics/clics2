@@ -6,7 +6,9 @@ implements the methods described in the paper
 
 > J.-M. List et al. (forthcoming): CLICS 2: An improved database of cross-linguistic colexifications assembling lexical data with the help of cross-linguistic data formats. Linguistic Typology. [DOI: 10.1515/lingty-2018-0010](https://doi.org/10.1515/lingty-2018-0010).
 
-Note: `pyclics` requires python >=3.4
+Note: `pyclics` requires python >=3.5
+
+[![Build Status](https://travis-ci.org/clics/clics2.svg?branch=master)](https://travis-ci.org/clics/clics2)
 
 
 ## Command Line Interface
@@ -52,13 +54,15 @@ $ pip install -e git+https://github.com/lexibank/allenbai.git#egg=lexibank_allen
 
 for the [allenbai dataset](https://github.com/lexibank/allenbai).
 
-The datasets used for the CLICS application at http://clics.clld.org are listed in
+The datasets used in the paper are listed in
 [datasets.txt](datasets.txt) - specifying exact versions - and
 can be installed wholesale via
 
 ```shell
 $ pip install -r datasets.txt
 ```
+
+Note that these datasets are also available from (and archived at) the [CLICS community at ZENODO](https://zenodo.org/communities/clics).
 
 Once installed, all datasets can be loaded into the CLICS sqlite database running
 
