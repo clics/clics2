@@ -20,15 +20,6 @@ class Database(Database_):
     """
     The CLICS database adds a column `clics_form` to lexibank's FormTable.
     """
-    Database_.sql["varieties_by_dataset"] = """\
-SELECT 
-    ds.id, count(distinct l.id), count(distinct l.Glottocode), count(distinct l.Family)
-FROM
-    dataset as ds, languagetable as l, formtable AS f
-WHERE
-    ds.id = l.dataset_id and f.dataset_id = ds.id and f.language_id = l.id
-GROUP BY ds.id"""
-
     Database_.sql["concepts_by_dataset"] = """\
 SELECT 
     ds.id, count(distinct p.concepticon_id), count(distinct p.name)
@@ -62,14 +53,21 @@ GROUP BY ds.id"""
     @property
     def varieties(self):
         return [Variety(*row) for row in self.fetchall("""\
-select l.id, l.dataset_id, l.name, l.glottocode, l.family, l.macroarea, l.longitude, l.latitude
-from languagetable as l
-where l.glottocode is not null and l.family != 'Bookkeeping'
-group by l.id, l.dataset_id order by l.dataset_id, l.id""")]
+select 
+    l.id, l.dataset_id, l.name, l.glottocode, l.family, l.macroarea, l.longitude, l.latitude
+from 
+    languagetable as l
+where 
+    l.glottocode is not null 
+    and l.family != 'Bookkeeping' 
+    and exists (select 1 from formtable as f where f.language_id = l.id and f.dataset_id = l.dataset_id)
+group by 
+    l.id, l.dataset_id
+order by 
+    l.dataset_id, l.id""")]
 
     def iter_wordlists(self, varieties):
         languages = {(v.source, v.id): v for v in varieties}
-
         for (dsid, vid), v in sorted(languages.items()):
             forms = [Form(*row) for row in self.fetchall("""
 select f.id, f.dataset_id, f.form, f.clics_form, p.name, p.concepticon_id, p.concepticon_gloss, p.ontological_category, p.semantic_field
@@ -77,6 +75,7 @@ from formtable as f, parametertable as p
 where f.parameter_id = p.id and f.dataset_id = p.dataset_id and p.concepticon_id is not null and f.language_id = ? and f.dataset_id = ?
 order by f.dataset_id, f.language_id, p.concepticon_id
 """, params=(vid, dsid))]
+            assert forms
             yield v, forms
 
     def _lids_by_concept(self):

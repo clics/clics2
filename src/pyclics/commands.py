@@ -1,7 +1,7 @@
 # coding: utf8
 from __future__ import unicode_literals, print_function, division
 from collections import defaultdict
-from itertools import combinations
+from itertools import combinations, groupby
 import sqlite3
 
 from tqdm import tqdm
@@ -38,7 +38,12 @@ def list_(args):
         except sqlite3.OperationalError:  # pragma: no cover
             print('No datasets loaded yet')
             return
-        var_counts = {r[0]: r[1:] for r in args.api.db.fetchall('varieties_by_dataset')}
+
+        varieties = args.api.db.varieties
+        var_counts = {}
+        for dsid, vs in groupby(varieties, lambda v: v.source):
+            vs = list(vs)
+            var_counts[dsid] = (len(vs), len(set(v.glottocode for v in vs)), len(set(v.family for v in vs)))
 
         for count, d in enumerate(args.api.db.datasets):
             table.append([
@@ -50,7 +55,6 @@ def list_(args):
                 var_counts[d][1],
                 var_counts[d][2],
             ])
-        varieties = args.api.db.varieties
         table.append([
             '',
             'TOTAL',
