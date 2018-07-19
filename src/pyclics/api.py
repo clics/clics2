@@ -48,11 +48,6 @@ class Clics(API):
         write_text(p, 'var ' + var_name + ' = ' + json.dumps(var, indent=2) + ';')
         self.file_written(p)
 
-    def write_md_table(self, comp, name, title, table):
-        p = self.path(comp, '{0}.md'.format(name))
-        write_text(p, '# {0}\n\n{1}'.format(title, table.render(condensed=False)))
-        self.file_written(p)
-
     def save_graph(self, graph, network, threshold=None, edgefilter=None):
         if not isinstance(network, Network):
             assert threshold is not None and edgefilter is not None

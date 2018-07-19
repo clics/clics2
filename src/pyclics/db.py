@@ -1,5 +1,7 @@
 # coding: utf8
 from __future__ import unicode_literals, print_function, division
+from collections import Counter
+import string
 
 from unidecode import unidecode
 from pylexibank.db import Database as Database_
@@ -8,31 +10,39 @@ from six import text_type
 
 from pyclics.models import Form, Concept, Variety
 
+# unidecode converts "ə" to "@"
+ALLOWED_CHARACTERS = string.ascii_letters + string.digits + '@'
+
 
 def clics_form(word):
     word = unidecode(word)
     if not isinstance(word, text_type):
         word = word.decode('utf8')
 
-    try:
-        return slug(word)
-    except AssertionError:
-        out = ''
-        for x in word:
-            try:
-                out += slug(x)
-            except AssertionError:
-                pass
-        return out
+    return ''.join(c for c in word if c in ALLOWED_CHARACTERS).lower()
 
 
 class Database(Database_):
     """
     The CLICS database adds a column `clics_form` to lexibank's FormTable.
     """
-    Database_.sql["varieties_by_dataset"] = "SELECT ds.id, count(l.id)" \
-                                            " FROM dataset as ds, languagetable as l " \
-                                            "WHERE ds.id = l.dataset_id GROUP BY ds.id"
+    Database_.sql["varieties_by_dataset"] = """\
+SELECT 
+    ds.id, count(distinct l.id), count(distinct l.Glottocode), count(distinct l.Family)
+FROM
+    dataset as ds, languagetable as l, formtable AS f
+WHERE
+    ds.id = l.dataset_id and f.dataset_id = ds.id and f.language_id = l.id
+GROUP BY ds.id"""
+
+    Database_.sql["concepts_by_dataset"] = """\
+SELECT 
+    ds.id, count(distinct p.concepticon_id), count(distinct p.name)
+FROM
+    dataset as ds, parametertable as p, formtable as f
+WHERE
+    ds.id = p.dataset_id and f.dataset_id = ds.id and f.parameter_id = p.id
+GROUP BY ds.id"""
 
     @property
     def datasets(self):
@@ -55,22 +65,22 @@ class Database(Database_):
             values = list(values) + [clics_form(d['`Form`'])]
         return keys, values
 
-    def iter_varieties(self):
-        for row in self.fetchall("""\
-select l.id, l.dataset_id, l.name, l.glottocode, l.family, l.macroarea, l.longitude, l.latitude, count(f.id) as size
-from languagetable as l, formtable as f 
-where f.language_id = l.id and l.glottocode is not null and l.family != 'Bookkeeping'
-group by l.id, l.dataset_id order by l.dataset_id, l.id"""):
-            yield Variety(*row)
+    @property
+    def varieties(self):
+        return [Variety(*row) for row in self.fetchall("""\
+select l.id, l.dataset_id, l.name, l.glottocode, l.family, l.macroarea, l.longitude, l.latitude
+from languagetable as l
+where l.glottocode is not null and l.family != 'Bookkeeping'
+group by l.id, l.dataset_id order by l.dataset_id, l.id""")]
 
-    def iter_wordlists(self):
-        languages = {(v.source, v.id): v for v in self.iter_varieties()}
+    def iter_wordlists(self, varieties):
+        languages = {(v.source, v.id): v for v in varieties}
 
         for (dsid, vid), v in sorted(languages.items()):
             forms = [Form(*row) for row in self.fetchall("""
 select f.id, f.dataset_id, f.form, f.clics_form, p.name, p.concepticon_id, p.concepticon_gloss, p.ontological_category, p.semantic_field
 from formtable as f, parametertable as p
-where f.parameter_id = p.id and p.concepticon_id is not null and f.language_id = ? and f.dataset_id = ?
+where f.parameter_id = p.id and f.dataset_id = p.dataset_id and p.concepticon_id is not null and f.language_id = ? and f.dataset_id = ?
 order by f.dataset_id, f.language_id, p.concepticon_id
 """, params=(vid, dsid))]
             yield v, forms

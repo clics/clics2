@@ -1,4 +1,11 @@
-cldf/
+app/cluster/
+app/subgraph/
+app/source/langsGeo.json
+app/source/subgraph-names.js
+app/source/infomap-names.js
+app/source/words.json
+output/graphs/
+clics.sqlite
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
