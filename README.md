@@ -8,6 +8,7 @@ implements the methods described in the paper
 
 Note: `pyclics` requires python >=3.5
 
+[![PyPI](https://img.shields.io/pypi/v/clld.svg)](https://pypi.org/project/pyclics)
 [![Build Status](https://travis-ci.org/clics/clics2.svg?branch=master)](https://travis-ci.org/clics/clics2)
 [![codecov](https://codecov.io/gh/clics/clics2/branch/master/graph/badge.svg)](https://codecov.io/gh/clics/clics2)
 
