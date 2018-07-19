@@ -6,7 +6,10 @@ implements the methods described in the paper
 
 > J.-M. List et al. (forthcoming): CLICS 2: An improved database of cross-linguistic colexifications assembling lexical data with the help of cross-linguistic data formats. Linguistic Typology. [DOI: 10.1515/lingty-2018-0010](https://doi.org/10.1515/lingty-2018-0010).
 
-Note: `pyclics` requires python >=3.4
+Note: `pyclics` requires python >=3.5
+
+[![Build Status](https://travis-ci.org/clics/clics2.svg?branch=master)](https://travis-ci.org/clics/clics2)
+[![codecov](https://codecov.io/gh/clics/clics2/branch/master/graph/badge.svg)](https://codecov.io/gh/clics/clics2)
 
 
 ## Command Line Interface
@@ -29,8 +32,8 @@ $ clics --help
 ```
 
 In order for the `pyclics` package to work, it must have access to clones or exports of the following data repositories:
-- [clld/glottolog](https://github.com/clld/glottolog)
-- [clld/concepticon-data](https://github.com/clld/concepticon-data)
+- [clld/glottolog](https://github.com/clld/glottolog) >= 9701cb0
+- [clld/concepticon-data](https://github.com/clld/concepticon-data) >= v1.2.0
 
 The `clics` sub-command `load` requires access to the data repositories listed above,
 thus must be invoked passing in the options `--glottolog-repos` and `--concepticon-repos`.
@@ -52,13 +55,15 @@ $ pip install -e git+https://github.com/lexibank/allenbai.git#egg=lexibank_allen
 
 for the [allenbai dataset](https://github.com/lexibank/allenbai).
 
-The datasets used for the CLICS application at http://clics.clld.org are listed in
+The datasets used in the paper are listed in
 [datasets.txt](datasets.txt) - specifying exact versions - and
 can be installed wholesale via
 
 ```shell
 $ pip install -r datasets.txt
 ```
+
+Note that these datasets are also available from (and archived at) the [CLICS community at ZENODO](https://zenodo.org/communities/clics).
 
 Once installed, all datasets can be loaded into the CLICS sqlite database running
 
@@ -77,19 +82,19 @@ $ clics datasets
 1    allenbai               498            499            9              3           1
 2    bantubvd               430            415           10             10           1
 3    beidasinitic           905            700           18             18           1
-4    bowernpny              338            338          190            169           1
+4    bowernpny              338            338          170            168           1
 5    hubercolumbian         361            343           69             65          16
-6    ids                   1310           1305          296            246          58
-7    kraftchadic            428            428           68             60           3
+6    ids                   1310           1305          321            276          60
+7    kraftchadic            428            428           67             60           3
 8    northeuralex          1015            940          107            107          21
 9    robinsonap             398            393           13             13           1
 10   satterthwaitetb        422            418           18             18           1
-11   suntb                  996            905           51             49           1
-12   tls                   1523            808          128             97           1
+11   suntb                  996            905           48             48           1
+12   tls                   1523            808          120             97           1
 13   tryonsolomon           323            311          111             96           5
 14   wold                  1814           1457           41             41          24
-15   zgraggenmadang         306            306          100            100           1
-     TOTAL                    0           2487         1224           1029          90
+15   zgraggenmadang         306            306           98             98           1
+     TOTAL                    0           2487         1220           1028          90
 ```
 
 The remaining commands compute networks and various derived data formats from the CLICS sqlite database.
@@ -118,16 +123,16 @@ as given on page 12 of the paper:
 ```bash
   ID A  Concept A                     ID B  Concept B                   Families    Languages    Words
 ------  --------------------------  ------  ------------------------  ----------  -----------  -------
-  1313  MOON                          1370  MONTH                             55          286      290
-   906  TREE                          1803  WOOD                              54          197      280
-  1258  FINGERNAIL                      72  CLAW                              49          201      208
-  2267  SON-IN-LAW (OF MAN)           2266  SON-IN-LAW (OF WOMAN)             48          239      259
-  2264  DAUGHTER-IN-LAW (OF WOMAN)    2265  DAUGHTER-IN-LAW (OF MAN)          46          210      234
-  1608  LISTEN                        1408  HEAR                              46          100      103
-   629  LEATHER                        763  SKIN                              45          220      245
-  2259  FLESH                          634  MEAT                              45          196      204
-  1599  WORD                          1307  LANGUAGE                          44           92       96
-   626  LAND                          1228  EARTH (SOIL)                      43          143      165
+  1370  MONTH                         1313  MOON                              56          289      294
+   906  TREE                          1803  WOOD                              55          211      310
+    72  CLAW                          1258  FINGERNAIL                        50          209      216
+  2266  SON-IN-LAW (OF WOMAN)         2267  SON-IN-LAW (OF MAN)               49          262      285
+  2264  DAUGHTER-IN-LAW (OF WOMAN)    2265  DAUGHTER-IN-LAW (OF MAN)          47          235      262
+  1608  LISTEN                        1408  HEAR                              47          102      105
+   629  LEATHER                        763  SKIN                              46          233      255
+  2259  FLESH                          634  MEAT                              46          222      232
+  1307  LANGUAGE                      1599  WORD                              45           94       98
+  1228  EARTH (SOIL)                   626  LAND                              43          158      181
 ```
 
 
@@ -146,7 +151,19 @@ Colexification analyses are named by three components as `g-t-f.gml`, with g poi
 The communities in the paper have been calculated with the following parameters:
 
 ```shell
-$ clics -t 3 -f families -n communities
+$ clics -t 3 -f families communities
+```
+
+Summary statistics of the resulting clustered network are available via the `graph-stats` subcommand:
+
+```shell
+$ clics -t 3 -g infomap -f families graph-stats   
+-----------  ----
+nodes        1534
+edges        2638
+components     96
+communities   248
+-----------  ----
 ```
 
 

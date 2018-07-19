@@ -1,20 +1,12 @@
 # coding: utf8
-from __future__ import unicode_literals, print_function, division
 import pickle
 from collections import OrderedDict, defaultdict
-try:  # pragma: no cover
-    from HTMLParser import HTMLParser
-    html = HTMLParser()
-except ImportError:  # pragma: no cover
-    import html
+import html
 
 import attr
 import geojson
-from clldutils.misc import UnicodeMixin
-from clldutils.path import write_text, read_text
+from clldutils.path import write_text, read_text, Path
 import networkx as nx
-
-from pyclics.util import clics_path
 
 __all__ = ['Form', 'Concept', 'Variety', 'Network']
 
@@ -98,36 +90,36 @@ class Concept(object):
 
 
 @attr.s
-class Network(UnicodeMixin):
+class Network(object):
     graphname = attr.ib()
     threshold = attr.ib()
     edgefilter = attr.ib()
+    graphdir = attr.ib(convert=Path)
     G = attr.ib(default=None)
-    graphdir = attr.ib(default=clics_path('output', 'graphs'))
 
-    def __unicode__(self):
+    def __str__(self):
         return '{0.graphname}-{0.threshold}-{0.edgefilter}'.format(self)
 
-    def fname(self, d, ext):
-        return d.joinpath('{0}.{1}'.format(self, ext))
+    def fname(self, ext):
+        return self.graphdir / '{0}.{1}'.format(self, ext)
 
     def save(self, graph):
         if not self.graphdir.exists():
             self.graphdir.mkdir()
-        with self.fname(self.graphdir, 'bin').open('wb') as f:
+        with self.fname('bin').open('wb') as f:
             pickle.dump(graph, f)
         write_text(
-            self.fname(self.graphdir, 'gml'),
+            self.fname('gml'),
             '\n'.join(html.unescape(line) for line in nx.generate_gml(graph)))
-        return self.fname(self.graphdir, 'gml')
+        return self.fname('gml')
 
     def load(self):
-        bin = self.fname(self.graphdir, 'bin')
+        bin = self.fname('bin')
         if bin.exists():
             self.G = pickle.load(open(bin.as_posix(), 'rb'))
             return self.G
 
-        lines = read_text(self.fname(self.graphdir, 'gml')).split('\n')
+        lines = read_text(self.fname('gml')).split('\n')
         lines = [l.encode('ascii', 'xmlcharrefreplace').decode('utf-8') for l in lines]
         self.G = nx.parse_gml('\n'.join(lines))
         return self.G
@@ -143,6 +135,6 @@ class Network(UnicodeMixin):
         comms = defaultdict(list)
         for node, data in self.G.nodes(data=True):
             if 'infomap' not in data:
-                break
-            comms[data['infomap']] += [node]
+                continue
+            comms[data['infomap']].append(node)
         return comms

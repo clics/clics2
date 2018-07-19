@@ -1,31 +1,50 @@
 # coding: utf8
 from __future__ import unicode_literals, print_function, division
-import json
+import os
+from tempfile import NamedTemporaryFile
+from pathlib import Path
 
 import pytest
-from clldutils.path import Path
+from pylexibank.dataset import Dataset
 
-
-md = {
-    '_concepts': 1,
-    '_varieties': 1,
-    'vid': {
-        'glottocode': 'abcd1234'
-    }
-}
-
-
-cldf_md = {}
+from pyclics.db import Database
 
 
 @pytest.fixture
 def repos(tmpdir):
-    cldf = tmpdir.mkdir('cldf')
-    cldf = cldf.mkdir('test')
-    cldf.join('cldf-metadata.json').write(json.dumps(cldf_md))
+    app = tmpdir.mkdir('app')
+    app.mkdir('source')
+    output = tmpdir.mkdir('output')
+    output.mkdir('graphs')
     gl = tmpdir.mkdir('languoids')
     gl.mkdir('tree')
-    ds = tmpdir.mkdir('datasets')
-    ds = ds.mkdir('test')
-    ds.join('md.json').write(json.dumps(md))
+    concepticon = tmpdir.mkdir('concepticondata')
+    concepticon.join('concepticon.tsv').write('')
     return Path(str(tmpdir))
+
+
+@pytest.fixture(scope='session')
+def dataset():
+    class ClicsDataset(Dataset):
+        dir = Path(__file__).parent / 'dataset'
+
+    return ClicsDataset()
+
+
+@pytest.fixture(scope='session')
+def db(dataset):
+    tmp = NamedTemporaryFile(delete=False)
+    db = Database(tmp.name)
+    db.create(exists_ok=True)
+    db.load(dataset)
+    with db.connection() as conn:
+        conn.execute("update LanguageTable set glottocode = 'glot1234', family='family'")
+        conn.execute("""\
+update ParameterTable set 
+    concepticon_id = cast(random() as text),
+    concepticon_gloss = 'gloss',
+    ontological_category = 'oc',
+    semantic_field = 'sf'""")
+        conn.commit()
+    yield db
+    os.remove(tmp.name)

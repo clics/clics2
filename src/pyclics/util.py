@@ -1,28 +1,34 @@
 # coding: utf8
-from __future__ import unicode_literals, print_function, division
 from collections import defaultdict
-import tqdm
 
+import igraph
 from clldutils.path import Path, rmtree
-import pyclics
 
-
-def pb(iterable=None, **kw):
-    kw.setdefault('leave', False)
-    return tqdm.tqdm(iterable=iterable, **kw)
-
-
-def clics_path(*comps):
-    return Path(pyclics.__file__).parent.parent.parent.joinpath(*comps)
+__all__ = ['clean_dir', 'full_colexification']
 
 
 def clean_dir(d, log=None):
+    d = Path(d)
     if d.exists():
         rmtree(d)
         if log:
             log.info('recreated {0}'.format(d))
     d.mkdir()
     return d
+
+
+def networkx2igraph(graph):
+    """Helper function converts networkx graph to igraph graph object."""
+    newgraph = igraph.Graph(directed=graph.is_directed())
+    nodes = {}
+    for i, (node, data) in enumerate(graph.nodes(data=True)):
+        data = {a: b for a, b in data.items()}
+        newgraph.add_vertex(
+            i, Name=node, **{a: b for a, b in data.items() if a not in ['Name', 'name']})
+        nodes[node] = i
+    for node1, node2, data in graph.edges(data=True):
+        newgraph.add_edge(nodes[node1], nodes[node2], **{a: b for a, b in data.items()})
+    return newgraph
 
 
 def full_colexification(forms):
