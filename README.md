@@ -16,10 +16,16 @@ Note: `pyclics` requires python >=3.5
 ## Command Line Interface
 
 To use `pyclics`, install the package - preferably in a fresh 
-[virtual environemt](http://docs.python-guide.org/en/latest/dev/virtualenvs/):
+[virtual environemt](http://docs.python-guide.org/en/latest/dev/virtualenvs/) running
 
 ```shell
-$ git clone https://github.com/clics/clics2
+$ pip install pyclics
+```
+
+Or if you want to hack on `pyclics`, fork the repository, clone your fork and install in development mode:
+
+```shell
+$ git clone https://github.com/<your-github-user>/clics2
 $ cd clics2
 $ pip install -e .
 ```
