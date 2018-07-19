@@ -2,10 +2,10 @@
 import sys
 import argparse
 import random
+from pathlib import Path
 
 import numpy
 from clldutils.clilib import ArgumentParserWithLogging
-from clldutils.path import Path
 
 import pyclics
 from pyclics.api import Clics
@@ -26,16 +26,9 @@ def main():  # pragma: no cover
     parser.add_argument('-w', '--weight', default='FamilyWeight')
     parser.add_argument('--unloaded', action='store_true', default=False)
     parser.add_argument('-v', '--verbose', default=False, action='store_true')
-    parser.add_argument(
-        '--concepticon-repos',
-        type=Path,
-        default=Path('.').joinpath('..', 'concepticon-data'))
-    parser.add_argument(
-        '--glottolog-repos',
-        type=Path,
-        default=Path('.').joinpath('..', 'glottolog'))
-    parser.add_argument(
-        '--api',
-        help=argparse.SUPPRESS,
-        default=Clics(Path(pyclics.__file__).parent.parent.parent))
-    sys.exit(parser.main())
+    parser.add_argument('-o', '--output', default=None, help='output directory')
+    parser.add_argument('--api', help=argparse.SUPPRESS, default=Clics(Path('.')))
+    args = parser.parse_args()
+    if args.output:
+        args.api.repos = Path(args.output)
+    sys.exit(parser.main(parsed_args=args))

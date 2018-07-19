@@ -2,6 +2,7 @@ from __future__ import unicode_literals
 import shutil
 
 import pytest
+from clldutils.clilib import ParserError
 
 from pyclics.api import Clics
 from pyclics import commands
@@ -17,21 +18,24 @@ def api(repos, db):
 
 
 def test_load(mocker, tmpdir, repos, dataset):
+    with pytest.raises(ParserError):
+        commands.load(mocker.Mock(args=[]))
+    with pytest.raises(ParserError):
+        commands.load(mocker.Mock(args=[str(repos), str(repos.joinpath('abc'))]))
+    with pytest.raises(ParserError):
+        commands.load(mocker.Mock(args=[str(repos.joinpath('abc')), str(repos)]))
     tmpdir.join('load').mkdir()
     api = Clics(str(tmpdir.join('load')))
     mocker.patch('pyclics.commands.iter_datasets', lambda: [dataset])
-    commands.load(mocker.Mock(
-        args=[], api=api, glottolog_repos=str(repos), concepticon_repos=str(repos)))
-    commands.load(mocker.Mock(
-        args=[], api=api, glottolog_repos=str(repos), concepticon_repos=str(repos), unloaded=True))
-    commands.clean(mocker.Mock(args=[], api=api))
+    commands.load(mocker.Mock(args=[str(repos), str(repos)], api=api))
+    commands.load(mocker.Mock(args=[str(repos), str(repos)], api=api, unloaded=True))
 
 
-def test_list(api, mocker, repos, capsys):
-    commands.list_(mocker.Mock(api=api, lexibank_repos=repos, unloaded=True))
+def test_list(api, mocker, capsys):
+    commands.list_(mocker.Mock(api=api, unloaded=True))
     _, _ = capsys.readouterr()
 
-    commands.list_(mocker.Mock(api=api, lexibank_repos=repos, unloaded=False))
+    commands.list_(mocker.Mock(api=api, unloaded=False))
     out, err = capsys.readouterr()
     assert '9' in out
 
@@ -44,8 +48,26 @@ def test_workflow(api, mocker, capsys):
     assert 'Concept B' in out
 
     commands.communities(args)
-    commands.subgraph(args)
+    # test overwriting:
+    commands.communities(args)
+    commands.subgraph(args, neighbor_weight=1)
     commands.articulationpoints(args)
     commands.graph_stats(args)
-    out, err = capsys.readouterr()
+    out, _ = capsys.readouterr()
     assert '499' in out and '480' in out and '209' in out
+
+    args.threshold = 3
+    commands.colexification(args)
+    commands.graph_stats(args)
+    out, _ = capsys.readouterr()
+    assert 'edges          0' in out
+    args.threshold, args.edgefilter = 3, 'languages'
+    commands.colexification(args)
+    commands.graph_stats(args)
+    out, err = capsys.readouterr()
+    assert 'edges        118' in out
+    args.threshold, args.edgefilter = 5, 'words'
+    commands.colexification(args)
+    commands.graph_stats(args)
+    out, err = capsys.readouterr()
+    assert 'edges         69' in out

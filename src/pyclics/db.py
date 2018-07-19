@@ -21,7 +21,7 @@ class Database(Database_):
     The CLICS database adds a column `clics_form` to lexibank's FormTable.
     """
     Database_.sql["concepts_by_dataset"] = """\
-SELECT 
+SELECT
     ds.id, count(distinct p.concepticon_id), count(distinct p.name)
 FROM
     dataset as ds, parametertable as p, formtable as f
@@ -53,60 +53,89 @@ GROUP BY ds.id"""
     @property
     def varieties(self):
         return [Variety(*row) for row in self.fetchall("""\
-select 
+select
     l.id, l.dataset_id, l.name, l.glottocode, l.family, l.macroarea, l.longitude, l.latitude
-from 
+from
     languagetable as l
-where 
-    l.glottocode is not null 
-    and l.family != 'Bookkeeping' 
-    and exists (select 1 from formtable as f where f.language_id = l.id and f.dataset_id = l.dataset_id)
-group by 
+where
+    l.glottocode is not null
+    and l.family != 'Bookkeeping'
+    and exists (
+        select 1 from formtable as f where f.language_id = l.id and f.dataset_id = l.dataset_id
+    )
+group by
     l.id, l.dataset_id
-order by 
+order by
     l.dataset_id, l.id""")]
 
     def iter_wordlists(self, varieties):
         languages = {(v.source, v.id): v for v in varieties}
         for (dsid, vid), v in sorted(languages.items()):
             forms = [Form(*row) for row in self.fetchall("""
-select f.id, f.dataset_id, f.form, f.clics_form, p.name, p.concepticon_id, p.concepticon_gloss, p.ontological_category, p.semantic_field
-from formtable as f, parametertable as p
-where f.parameter_id = p.id and f.dataset_id = p.dataset_id and p.concepticon_id is not null and f.language_id = ? and f.dataset_id = ?
-order by f.dataset_id, f.language_id, p.concepticon_id
+select
+    f.id, f.dataset_id, f.form, f.clics_form,
+    p.name, p.concepticon_id, p.concepticon_gloss, p.ontological_category, p.semantic_field
+from
+    formtable as f, parametertable as p
+where
+    f.parameter_id = p.id
+    and f.dataset_id = p.dataset_id
+    and p.concepticon_id is not null
+    and f.language_id = ?
+    and f.dataset_id = ?
+order by
+    f.dataset_id, f.language_id, p.concepticon_id
 """, params=(vid, dsid))]
             assert forms
             yield v, forms
 
     def _lids_by_concept(self):
         return {r[0]: sorted(set(r[1].split())) for r in self.fetchall("""\
-select p.concepticon_id, group_concat(f.dataset_id || '-' || f.language_id, ' ') 
-from parametertable as p, formtable as f 
-where f.parameter_id = p.id and f.dataset_id = p.dataset_id 
-group by p.concepticon_id
+select
+    p.concepticon_id, group_concat(f.dataset_id || '-' || f.language_id, ' ')
+from
+    parametertable as p, formtable as f
+where
+    f.parameter_id = p.id and f.dataset_id = p.dataset_id
+group by
+    p.concepticon_id
 """)}
 
     def _fids_by_concept(self):
         return {r[0]: sorted(set(r[1].split('|'))) for r in self.fetchall("""\
-select p.concepticon_id, group_concat(l.family, '|')
-from parametertable as p, formtable as f, languagetable as l
-where f.parameter_id = p.id and f.dataset_id = p.dataset_id and f.language_id = l.id and f.dataset_id = l.dataset_id
-group by p.concepticon_id
+select
+    p.concepticon_id, group_concat(l.family, '|')
+from
+    parametertable as p, formtable as f, languagetable as l
+where
+    f.parameter_id = p.id
+    and f.dataset_id = p.dataset_id
+    and f.language_id = l.id
+    and f.dataset_id = l.dataset_id
+group by
+    p.concepticon_id
 """)}
 
     def _wids_by_concept(self):
         return {r[0]: sorted(set(r[1].split())) for r in self.fetchall("""\
-select p.concepticon_id, group_concat(f.dataset_id || '-' || f.id, ' ') 
-from parametertable as p, formtable as f 
-where f.parameter_id = p.id and f.dataset_id = p.dataset_id 
-group by p.concepticon_id
+select
+    p.concepticon_id, group_concat(f.dataset_id || '-' || f.id, ' ')
+from
+    parametertable as p, formtable as f
+where
+    f.parameter_id = p.id and f.dataset_id = p.dataset_id
+group by
+    p.concepticon_id
 """)}
 
     def iter_concepts(self):
         concepts = [Concept(*row) for row in self.fetchall("""\
-select distinct concepticon_id, concepticon_gloss, ontological_category, semantic_field 
-from parametertable
-where concepticon_id is not null""")]
+select distinct
+    concepticon_id, concepticon_gloss, ontological_category, semantic_field
+from
+    parametertable
+where
+    concepticon_id is not null""")]
         lids = self._lids_by_concept()
         fids = self._fids_by_concept()
         wids = self._wids_by_concept()

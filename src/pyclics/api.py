@@ -16,7 +16,7 @@ __all__ = ['Clics']
 class Clics(API):
     _log = None
 
-    def existing_dir(self, *comps):
+    def existing_dir(self, *comps, **kw):
         d = self.path()
         comps = list(comps)
         while comps:
@@ -24,6 +24,10 @@ class Clics(API):
             if not d.exists():
                 d.mkdir()
             assert d.is_dir()
+        if kw.get('clean'):
+            for p in d.iterdir():
+                if p.is_file():
+                    p.unlink()
         return d
 
     @lazyproperty
@@ -41,7 +45,7 @@ class Clics(API):
         return UnicodeWriter(p, delimiter=delimiter)
 
     def json_dump(self, obj, *path):
-        p = self.path(*path)
+        p = self.existing_dir(*path[:-1]) / path[-1]
         jsonlib.dump(obj, p, indent=2)
         self.file_written(p)
 
@@ -50,20 +54,12 @@ class Clics(API):
         write_text(p, 'var ' + var_name + ' = ' + json.dumps(var, indent=2) + ';')
         self.file_written(p)
 
-    def save_graph(self, graph, network, threshold=None, edgefilter=None):
-        if not isinstance(network, Network):
-            assert threshold is not None and edgefilter is not None
-            network = Network(
-                network, threshold, edgefilter, graphdir=self.path('output', 'graphs'))
+    def save_graph(self, graph, network, threshold, edgefilter):
+        network = Network(network, threshold, edgefilter, self.existing_dir('graphs'))
         return self.file_written(network.save(graph))
 
-    def load_graph(self, network, threshold=None, edgefilter=None):
-        if not isinstance(network, Network):
-            assert threshold is not None and edgefilter is not None
-            network = Network(
-                network, threshold, edgefilter, graphdir=self.path('output', 'graphs'))
-        return network.load()
+    def load_graph(self, network, threshold, edgefilter):
+        return Network(network, threshold, edgefilter, self.existing_dir('graphs')).graph
 
-    def load_network(self, nname, threshold=None, edgefilter=None):
-        return Network(
-            nname, threshold, edgefilter, graphdir=self.path('output', 'graphs'))
+    def load_network(self, nname, threshold, edgefilter):
+        return Network(nname, threshold, edgefilter, self.existing_dir('graphs'))

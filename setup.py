@@ -3,7 +3,10 @@ from setuptools import setup, find_packages
 
 setup(
     name='pyclics',
-    version='1.0',
+    version='1.1.dev0',
+    description="creating colexification networks from lexical data",
+    long_description=open("README.md").read(),
+    long_description_content_type='text/markdown',
     author='Johann-Mattis List and Robert Forkel',
     url='https://github.com/clics/clics2',
     classifiers=[
@@ -16,8 +19,13 @@ setup(
     ],
     packages=find_packages(where='src'),
     package_dir={'': 'src'},
+    include_package_data=True,
+    zip_safe=False,
+    python_requires='>=3.5',
     install_requires=[
         'pylexibank>=0.7',
+        'pyconcepticon',
+        'pyglottolog',
         'clldutils~=2.0',
         'geojson',
         'python-igraph',
