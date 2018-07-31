@@ -167,13 +167,19 @@ ORDER BY
     f.dataset_ID, p.ID, l.ID;
 ```
 
-**Note:** For the datasets being part of the CLICS 2 release this results
-in a 125MB CSV file with 1.062.196 rows starting with
-```bash
-$ head -n 5 clics.csv | csvformat -T
-dataset_ID	Form_ID	Form	clics_form	gloss_in_source	Concepticon_ID	Concepticon_Gloss	variety	Glottocode	ISO639P3code	Macroarea	Family	Latitude	Longitude
-lexibank-allenbai	1235	ɕi⁵⁵	ci55	firewood	10	FIREWOOD	Eryuan	cent2004		Eurasia	Sino-Tibetan	26.1666	99.7052
-lexibank-allenbai	1236	ɕʰĩ⁵⁵	chi55	firewood	10	FIREWOOD	Heqing	cent2004		Eurasia	Sino-Tibetan	26.1666	99.7052
-lexibank-allenbai	1234	ɕĩ⁵⁵	ci55	firewood	10	FIREWOOD	Jianchuan	cent2004		Eurasia	Sino-Tibetan	26.1666	99.7052
-lexibank-allenbai	1237	ɕĩ⁵⁵	ci55	firewood	10	FIREWOOD	Lanping	cent2004		Eurasia	Sino-Tibetan	26.1666	99.7052
-```
+**Notes:** 
+- For the datasets being part of the CLICS 2 release this results
+  in a 125MB CSV file with 1.062.196 rows starting with
+  ```bash
+  $ head -n 5 clics.csv | csvformat -T
+  dataset_ID	Form_ID	Form	clics_form	gloss_in_source	Concepticon_ID	Concepticon_Gloss	variety	Glottocode	ISO639P3code	Macroarea	Family	Latitude	Longitude
+  lexibank-allenbai	1235	ɕi⁵⁵	ci55	firewood	10	FIREWOOD	Eryuan	cent2004		Eurasia	Sino-Tibetan	26.1666	99.7052
+  lexibank-allenbai	1236	ɕʰĩ⁵⁵	chi55	firewood	10	FIREWOOD	Heqing	cent2004		Eurasia	Sino-Tibetan	26.1666	99.7052
+  lexibank-allenbai	1234	ɕĩ⁵⁵	ci55	firewood	10	FIREWOOD	Jianchuan	cent2004		Eurasia	Sino-Tibetan	26.1666	99.7052
+  lexibank-allenbai	1237	ɕĩ⁵⁵	ci55	firewood	10	FIREWOOD	Lanping	cent2004		Eurasia	Sino-Tibetan	26.1666	99.7052
+  ```
+- The interactive commands can be condensed into a single command by converting
+  dot-commands into command options and using redirection to send the output to a file:
+  ```bash
+  $ sqlite3 -header -csv PATH/TO/DB.sqlie "SELECT ID, name, version FROM dataset" > clics.csv
+  ```
