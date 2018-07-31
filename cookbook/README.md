@@ -29,7 +29,7 @@ CREATE TABLE dataset (
 );
 ```
 
-### **LaguageTable**
+### **LanguageTable**
 
 Metadata about languages is stored in the **LanguageTable**. Note that each variety
 or doculect in each source dataset gets an individual row in this table.
