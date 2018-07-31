@@ -114,7 +114,7 @@ CSV (comma-separated values).
 Fortunately, exporting CLICS data to such formats is simple. Since all CLICS data is
 loaded into an SQLite database, such exports are only one SQL query away:
 
-SQLite provides a []command-line interface](https://www.sqlite.org/cli.html), called `sqlite3` or `sqlite3.exe`,
+SQLite provides a [command-line interface](https://www.sqlite.org/cli.html), called `sqlite3` or `sqlite3.exe`,
 which we will use in the following to export results of custom SQL queries run on a
 CLICS database to CSV. `sqlite3` can be used interactively, so after connecting to
 a database (i.e. passing the path of a database file as parameter to `sqlite3`),
