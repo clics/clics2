@@ -102,14 +102,13 @@ CREATE TABLE FormTable (
 - **Warning:** When joining metadata from language or parameter table to forms, care
 must be taken to join on each component of the primary key - otherwise aggregates
 my be grossly incorrect.
-- SQL is *not* case-sensitive; thus, in recipes we will often write *languagetable* rather than *LanguageTable*
+- SQLite is *not* case-sensitive; thus, in recipes we will often write *languagetable* rather than *LanguageTable*
 
 
 ## Exporting CLICS data to CSV
 
-Despite effort like [CLDF](https://cldf.clld.org), linguists still often have to
-rely on tools which require customized data input - often in the form of semi-specified
-CSV (comma-separated values).
+Despite efforts like [CLDF](https://cldf.clld.org), linguists still rely on tools which require 
+customized data input - often in the form of semi-specified CSV (comma-separated values).
 
 Fortunately, exporting CLICS data to such formats is simple. Since all CLICS data is
 loaded into an SQLite database, such exports are only one SQL query away:
@@ -167,6 +166,26 @@ ORDER BY
     f.dataset_ID, p.ID, l.ID;
 ```
 
+Your favorite programming language will also provide a standardised API for accessing the SQLite database directly:
+
+## Python:
+
+```python
+import sqlite3
+conn = sqlite3.connect('PATH/TO/DB.sqlite')
+cursor = conn.cursor()
+cursor.execute('select * from languagetable;')
+```
+
+## R:
+
+```r
+library(DBI)
+db <- dbConnect(RSQLite::SQLite(), "PATH/TO/DB.sqlite")
+dbGetQuery(db, 'select * from languagetable;')
+```
+
+
 **Notes:** 
 - For the datasets being part of the CLICS 2 release this results
   in a 125MB CSV file with 1.062.196 rows starting with
@@ -181,5 +200,5 @@ ORDER BY
 - The interactive commands can be condensed into a single command by converting
   dot-commands into command options and using redirection to send the output to a file:
   ```bash
-  $ sqlite3 -header -csv PATH/TO/DB.sqlie "SELECT ID, name, version FROM dataset" > clics.csv
+  $ sqlite3 -header -csv PATH/TO/DB.sqlite "SELECT ID, name, version FROM dataset" > clics.csv
   ```
