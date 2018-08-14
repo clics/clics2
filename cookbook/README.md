@@ -211,4 +211,32 @@ database, you could filter the edges of the colexification graph. But it would b
 to delete the languages and associated forms already in the SQLite database and just
 recreate the graph running `clts colexification`.
 
-A python script to do this is provided in []
+A python script to do this is provided in [`prune_languages.py`](prune_languages.py).
+See the help screen of this script for usage information:
+```bash
+$ python cookbook/prune_languages.py --help
+usage: prune_languages.py [-h] [--listm] [--listf]
+                          [--exclude-macroarea EXCLUDE_MACROAREA]
+                          [--exclude-family EXCLUDE_FAMILY]
+                          db
+
+Prune forms in a CLICS database.
+
+positional arguments:
+  db                    CLICS SQLite database file
+
+optional arguments:
+  -h, --help            show this help message and exit
+  --listm               list macroareas
+  --listf               list families
+  --exclude-macroarea EXCLUDE_MACROAREA
+                        exclude macroarea
+  --exclude-family EXCLUDE_FAMILY
+                        exclude family
+```
+
+E.g. to exclude languages from *Africa* from the colexification graph, run
+```bash
+$ python cookbook/prune_languages.py --exclude-macroarea=Africa clics.sqlite
+$ clics -t 3 colexification
+```

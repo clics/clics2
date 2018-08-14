@@ -32,12 +32,6 @@ def main(cu, macroareas, families):
         print(table + '...')
         cu.execute("DELETE FROM {0} WHERE {1}".format(table, where))
         print('...{0} rows deleted'.format(cu.rowcount))
-    cu.execute("""\
-DELETE FROM ParameterTable WHERE NOT EXISTS (
-    SELECT * 
-    FROM FormTable 
-    WHERE parameter_ID = ParameterTable.ID AND dataset_ID = ParameterTable.dataset_ID
-)""")
 
 
 if __name__ == '__main__':
