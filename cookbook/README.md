@@ -207,4 +207,8 @@ dbGetQuery(db, 'select * from languagetable;')
 ## Pruning languages in a CLICS database
 
 If you are only interested in colexifications in a certain subset of languages in a CLICS
-database, you could filter the edges of the colexification graph. But it would 
+database, you could filter the edges of the colexification graph. But it would be simpler
+to delete the languages and associated forms already in the SQLite database and just
+recreate the graph running `clts colexification`.
+
+A python script to do this is provided in []

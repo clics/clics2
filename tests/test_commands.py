@@ -14,7 +14,7 @@ def api(repos, db):
     dbfname = repos.joinpath('clics.sqlite')
     if not dbfname.exists():
         shutil.copy(str(db.fname), str(dbfname))
-    return Clics(repos)
+    return Clics(str(repos))
 
 
 def test_load(mocker, tmpdir, repos, dataset):
