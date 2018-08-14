@@ -102,7 +102,7 @@ group by
 """)}
 
     def _fids_by_concept(self):
-        return {r[0]: sorted(set(r[1].split('|'))) for r in self.fetchall("""\
+        return {r[0]: sorted(set(r[1].split('|') if r[1] else '')) for r in self.fetchall("""\
 select
     p.concepticon_id, group_concat(l.family, '|')
 from
