@@ -104,9 +104,9 @@ def load(args):
         args.log.info('loading {0}'.format(ds.id))
         args.api.db.load(ds)
     args.log.info('loading Concepticon data')
-    args.api.db.load_concepticon_data(Concepticon(concepticon))
+    args.api.db.load_concepticon_data(Concepticon(str(concepticon)))
     args.log.info('loading Glottolog data')
-    args.api.db.load_glottolog_data(Glottolog(glottolog))
+    args.api.db.load_glottolog_data(Glottolog(str(glottolog)))
     return
 
 
