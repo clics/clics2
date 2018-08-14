@@ -168,7 +168,7 @@ ORDER BY
 
 Your favorite programming language will also provide a standardised API for accessing the SQLite database directly:
 
-## Python:
+### Python:
 
 ```python
 import sqlite3
@@ -177,7 +177,7 @@ cursor = conn.cursor()
 cursor.execute('select * from languagetable;')
 ```
 
-## R:
+### R:
 
 ```r
 library(DBI)
@@ -202,3 +202,9 @@ dbGetQuery(db, 'select * from languagetable;')
   ```bash
   $ sqlite3 -header -csv PATH/TO/DB.sqlite "SELECT ID, name, version FROM dataset" > clics.csv
   ```
+
+
+## Pruning languages in a CLICS database
+
+If you are only interested in colexifications in a certain subset of languages in a CLICS
+database, you could filter the edges of the colexification graph. But it would 

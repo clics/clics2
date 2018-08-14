@@ -22,7 +22,7 @@ def repos(tmpdir):
 @pytest.fixture(scope='session')
 def dataset():
     class ClicsDataset(Dataset):
-        dir = Path(__file__).parent / 'dataset'
+        dir = str(Path(__file__).parent / 'dataset')
 
     return ClicsDataset()
 
