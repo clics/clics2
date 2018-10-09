@@ -12,10 +12,6 @@ from pyclics.db import Database
 
 @pytest.fixture
 def repos(tmpdir):
-    app = tmpdir.mkdir('app')
-    app.mkdir('source')
-    output = tmpdir.mkdir('output')
-    output.mkdir('graphs')
     gl = tmpdir.mkdir('languoids')
     gl.mkdir('tree')
     concepticon = tmpdir.mkdir('concepticondata')
@@ -26,7 +22,7 @@ def repos(tmpdir):
 @pytest.fixture(scope='session')
 def dataset():
     class ClicsDataset(Dataset):
-        dir = Path(__file__).parent / 'dataset'
+        dir = str(Path(__file__).parent / 'dataset')
 
     return ClicsDataset()
 

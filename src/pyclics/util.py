@@ -2,19 +2,8 @@
 from collections import defaultdict
 
 import igraph
-from clldutils.path import Path, rmtree
 
-__all__ = ['clean_dir', 'full_colexification']
-
-
-def clean_dir(d, log=None):
-    d = Path(d)
-    if d.exists():
-        rmtree(d)
-        if log:
-            log.info('recreated {0}'.format(d))
-    d.mkdir()
-    return d
+__all__ = ['full_colexification', 'networkx2igraph']
 
 
 def networkx2igraph(graph):

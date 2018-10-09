@@ -8,6 +8,7 @@ implements the methods described in the paper
 
 Note: `pyclics` requires python >=3.5
 
+[![PyPI version](https://badge.fury.io/py/pyclics.svg)](https://pypi.org/project/pyclics)
 [![Build Status](https://travis-ci.org/clics/clics2.svg?branch=master)](https://travis-ci.org/clics/clics2)
 [![codecov](https://codecov.io/gh/clics/clics2/branch/master/graph/badge.svg)](https://codecov.io/gh/clics/clics2)
 
@@ -15,10 +16,16 @@ Note: `pyclics` requires python >=3.5
 ## Command Line Interface
 
 To use `pyclics`, install the package - preferably in a fresh 
-[virtual environemt](http://docs.python-guide.org/en/latest/dev/virtualenvs/):
+[virtual environemt](http://docs.python-guide.org/en/latest/dev/virtualenvs/) running
 
 ```shell
-$ git clone https://github.com/clics/clics2
+$ pip install pyclics
+```
+
+Or if you want to hack on `pyclics`, fork the repository, clone your fork and install in development mode:
+
+```shell
+$ git clone https://github.com/<your-github-user>/clics2
 $ cd clics2
 $ pip install -e .
 ```
@@ -31,16 +38,9 @@ To get help on using `clics`, run
 $ clics --help
 ```
 
-In order for the `pyclics` package to work, it must have access to clones or exports of the following data repositories:
-- [clld/glottolog](https://github.com/clld/glottolog) >= 9701cb0
-- [clld/concepticon-data](https://github.com/clld/concepticon-data) >= v1.2.0
-
-The `clics` sub-command `load` requires access to the data repositories listed above,
-thus must be invoked passing in the options `--glottolog-repos` and `--concepticon-repos`.
-By default, these repositories are expected to reside in directories
-`glottolog` and `concepticon-data`, alongside `clics2`.
-
-In the following we list the major sub-commands of `clics`.
+In the following we list the major sub-commands of `clics`. Most of these commands create some output,
+which by default will be written to files and directories in the current working directory. This can be
+changed by passing a different directory to each command using the `--output=path/to/output` option.
 
 
 ### Loading the Data
@@ -65,10 +65,14 @@ $ pip install -r datasets.txt
 
 Note that these datasets are also available from (and archived at) the [CLICS community at ZENODO](https://zenodo.org/communities/clics).
 
-Once installed, all datasets can be loaded into the CLICS sqlite database running
+Once installed, all datasets can be loaded into the CLICS sqlite database, running the `load` subcommand.
+This subcommand must have access to clones or exports of the following data repositories:
+- [clld/concepticon-data](https://github.com/clld/concepticon-data) >= v1.2.0 (to fetch concept metadata)
+- [clld/glottolog](https://github.com/clld/glottolog) >= 9701cb0 (to fetch language metadata)
 
+The locations of these repositories must be passed as arguments to the `load` subcommand:
 ```shell
-$ clics --concepticon-repos=path/to/concepticon-data --glottolog-repos=path/to/glottolog load
+$ clics load path/to/concepticon-data path/to/glottolog
 ```
 
 An overview of the installed and loaded datasets is available via the `clics datasets` command.
@@ -146,7 +150,8 @@ Clusters the concepts in the network using the infomap algorithm.
 
 Note that `-t` and `-f` are only needed to identify the graph you have calculated with the `colexification` command above.
 The `-g` flag indicates the name of the network you want to load, that is, the name of the data stored in `graphs/`. 
-Colexification analyses are named by three components as `g-t-f.gml`, with g pointing to the base name, t to the threshold, and f to the filter. Use the flag `-n` to normalize the weights before calculation.
+Colexification analyses are named by three components as `g-t-f.gml`, with g pointing to the base name, t to the threshold,
+and f to the filter. Use the flag `-n` to normalize the weights before calculation.
 
 The communities in the paper have been calculated with the following parameters:
 
@@ -186,4 +191,3 @@ If you loaded the datasets used for the CLICS2 paper, you could
   of the paper by choosing `Infomap` as graph type, typing `SAY` in the concept selection box and clicking `OK`
 - or investigate the curious colexifications between `FOOT` and `WHEEL` (too few for the concepts to get clustered
   by infomap) by choosing `SubGraph` as graph type, typing `WHEEL` in the concept selection box and clicking `OK`.
-

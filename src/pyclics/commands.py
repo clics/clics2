@@ -3,10 +3,12 @@ from __future__ import unicode_literals, print_function, division
 from collections import defaultdict
 from itertools import combinations, groupby
 import sqlite3
+from pathlib import Path
+import shutil
 
 from tqdm import tqdm
 import geojson
-from clldutils.clilib import command
+from clldutils.clilib import command, ParserError
 from clldutils.markup import Table
 from clldutils import jsonlib
 from pyconcepticon.api import Concepticon
@@ -16,7 +18,7 @@ import networkx as nx
 from networkx.readwrite import json_graph
 from tabulate import tabulate
 
-from pyclics.util import full_colexification, clean_dir, networkx2igraph
+from pyclics.util import full_colexification, networkx2igraph
 
 
 @command('datasets')
@@ -32,7 +34,8 @@ def list_(args):
         if not i:
             print('No datasets installed')  # pragma: no cover
     else:
-        table = Table('#', 'Dataset', 'Glosses', 'Concepticon', 'Varieties', 'Glottocodes', 'Families')
+        table = Table(
+            '#', 'Dataset', 'Glosses', 'Concepticon', 'Varieties', 'Glottocodes', 'Families')
         try:
             concept_counts = {r[0]: r[1:] for r in args.api.db.fetchall('concepts_by_dataset')}
         except sqlite3.OperationalError:  # pragma: no cover
@@ -43,7 +46,8 @@ def list_(args):
         var_counts = {}
         for dsid, vs in groupby(varieties, lambda v: v.source):
             vs = list(vs)
-            var_counts[dsid] = (len(vs), len(set(v.glottocode for v in vs)), len(set(v.family for v in vs)))
+            var_counts[dsid] = (
+                len(vs), len(set(v.glottocode for v in vs)), len(set(v.family for v in vs)))
 
         for count, d in enumerate(args.api.db.datasets):
             table.append([
@@ -61,11 +65,14 @@ def list_(args):
             0,
             args.api.db.fetchone(
                 """\
-select count(distinct p.concepticon_id) from parametertable as p, formtable as f, languagetable as l
-where 
-f.parameter_id = p.id and f.dataset_id = p.dataset_id 
-and f.language_id = l.id and f.dataset_id = l.dataset_id 
-and l.glottocode is not null and l.family != 'Bookkeeping'""")[0],
+select
+    count(distinct p.concepticon_id) from parametertable as p, formtable as f, languagetable as l
+where
+    f.parameter_id = p.id and f.dataset_id = p.dataset_id
+    and f.language_id = l.id and f.dataset_id = l.dataset_id
+    and l.glottocode is not null
+    and l.family != 'Bookkeeping'
+""")[0],
             len(varieties),
             len(set(v.glottocode for v in varieties)),
             len(set(v.family for v in varieties))
@@ -76,8 +83,17 @@ and l.glottocode is not null and l.family != 'Bookkeeping'""")[0],
 @command()
 def load(args):
     """
-    clics load
+    clics load /path/to/concepticon-data /path/to/glottolog
     """
+    if len(args.args) != 2:
+        raise ParserError('concepticon and glottolog repos locations must be specified!')
+    concepticon = Path(args.args[0])
+    if not concepticon.exists():
+        raise ParserError('concepticon repository does not exist')
+    glottolog = Path(args.args[1])
+    if not glottolog.exists():
+        raise ParserError('glottolog repository does not exist')
+
     args.api.db.create(exists_ok=True)
     args.log.info('loading datasets into {0}'.format(args.api.db.fname))
     in_db = args.api.db.datasets
@@ -88,19 +104,10 @@ def load(args):
         args.log.info('loading {0}'.format(ds.id))
         args.api.db.load(ds)
     args.log.info('loading Concepticon data')
-    args.api.db.load_concepticon_data(Concepticon(args.concepticon_repos))
+    args.api.db.load_concepticon_data(Concepticon(str(concepticon)))
     args.log.info('loading Glottolog data')
-    args.api.db.load_glottolog_data(Glottolog(args.glottolog_repos))
+    args.api.db.load_glottolog_data(Glottolog(str(glottolog)))
     return
-
-
-@command()
-def clean(args):
-    """Removes all loaded lexical data
-
-    clics clean
-    """
-    args.api.db.drop()
 
 
 @command()
@@ -109,13 +116,18 @@ def colexification(args):
     threshold = args.threshold or 1
     edgefilter = args.edgefilter
     words = {}
-    
+
     def clean(word):
         return ''.join([w for w in word if w not in '/,;"'])
 
     varieties = args.api.db.varieties
     lgeo = geojson.FeatureCollection([v.as_geojson() for v in varieties])
     args.api.json_dump(lgeo, 'app', 'source', 'langsGeo.json')
+
+    app_source = args.api.existing_dir('app', 'source')
+    for p in Path(__file__).parent.joinpath('app').iterdir():
+        target_dir = app_source.parent if p.suffix == '.html' else app_source
+        shutil.copy(str(p), str(target_dir / p.name))
 
     args.log.info('Adding nodes to the graph')
     G = nx.Graph()
@@ -141,7 +153,8 @@ def colexification(args):
                             wofam=[],
                         )
 
-                    G[formA.concepticon_id][formB.concepticon_id]['words'].add((formA.gid, formB.gid))
+                    G[formA.concepticon_id][formB.concepticon_id]['words'].add(
+                        (formA.gid, formB.gid))
                     G[formA.concepticon_id][formB.concepticon_id]['languages'].add(v_.gid)
                     G[formA.concepticon_id][formB.concepticon_id]['families'].add(v_.family)
                     G[formA.concepticon_id][formB.concepticon_id]['wofam'].append('/'.join([
@@ -195,7 +208,7 @@ def colexification(args):
 @command('articulation-points')
 def articulationpoints(args):
     """Compute articulation points in subgraphs of the graph.
-    
+
     Parameters
     ----------
     graphname : str
@@ -222,38 +235,24 @@ def articulationpoints(args):
     """
     args.api._log = args.log
     threshold = args.threshold or 1
-    graphname = 'infomap'
 
-    graph = args.api.load_graph(graphname, threshold, args.edgefilter)
+    graph = args.api.load_graph('infomap', threshold, args.edgefilter)
     coms = defaultdict(list)
     for node, data in graph.nodes(data=True):
         coms[data['infomap']].append(node)
-    _tmp = []
     for com, nodes in sorted(coms.items(), key=lambda x: len(x), reverse=True):
         if len(nodes) > 5:
             subgraph = graph.subgraph(nodes)
             degrees = subgraph.degree(list(subgraph.nodes()))
-            cnodes = [a for a, b in sorted(degrees, key=lambda x:
-                x[1], reverse=True)]
-            cnode = cnodes[0]
+            cnode = [a for a, b in sorted(degrees, key=lambda x: x[1], reverse=True)][0]
             graph.node[cnode]['DegreeCentrality'] = 1
-            artipoints = nx.articulation_points(subgraph)
-            for artip in artipoints:
-                if 'ArticulationPoint' in graph.node[artip]:
-                    graph.node[artip]['ArticulationPoint'] += 1
-                else:
-                    graph.node[artip]['ArticulationPoint'] = 1
+            for artip in nx.articulation_points(subgraph):
+                graph.node[artip]['ArticulationPoint'] = \
+                    graph.node[artip].get('ArticulationPoint', 0) + 1
                 if bool(args.verbosity):
                     print('{0}\t{1}\t{2}'.format(
                         com, graph.node[cnode]['Gloss'], graph.node[artip]['Gloss']))
-                _tmp.append((
-                    artip, graph.node[artip]['Gloss'],
-                    com,
-                    cnode,
-                    graph.node[cnode]['Gloss'],
-                    len(nodes)))
-            if bool(args.verbosity):
-                print('')
+
     for node, data in graph.nodes(data=True):
         data.setdefault('ArticulationPoint', 0)
         data.setdefault('DegreeCentrality', 0)
@@ -262,11 +261,12 @@ def articulationpoints(args):
 
 
 @command()
-def subgraph(args):
+def subgraph(args, neighbor_weight=None):
     args.api._log = args.log
     graphname = args.graphname or 'network'
     threshold = args.threshold or 1
     edgefilter = args.edgefilter
+    neighbor_weight = neighbor_weight or 5
 
     _graph = args.api.load_graph(graphname, threshold, edgefilter)
     for node, data in _graph.nodes(data=True):
@@ -274,14 +274,14 @@ def subgraph(args):
         while generations[-1] and len(set.union(*generations)) < 30 and len(generations) < 3:
             nextgen = set.union(*[set(_graph[n].keys()) for n in generations[-1]])
             if len(nextgen) > 50:
-                break
+                break  # pragma: no cover
             else:
                 generations.append(set.union(*[set(_graph[n].keys()) for n in generations[-1]]))
         data['subgraph'] = list(set.union(*generations))
 
     args.api.save_graph(_graph, 'subgraph', threshold, edgefilter)
 
-    outdir = clean_dir(args.api.path('app', 'subgraph'), log=args.log)
+    outdir = args.api.existing_dir('app', 'subgraph', clean=True)
     cluster_names = {}
     nodes2cluster = {}
     nidx = 1
@@ -302,7 +302,7 @@ def subgraph(args):
             neighbors = [
                 n_ for n_ in _graph if
                 n_ in _graph[node] and
-                _graph[node][n_]['FamilyWeight'] >= 5 and
+                _graph[node][n_]['FamilyWeight'] >= neighbor_weight and
                 n_ not in sg]
             if neighbors:
                 sg.node[node]['OutEdge'] = []
@@ -323,7 +323,7 @@ def subgraph(args):
                     ])
         if len(sg) > 1:
             jsonlib.dump(
-                json_graph.adjacency_data(sg), outdir / (cluster_name+'.json'), sort_keys=True)
+                json_graph.adjacency_data(sg), outdir / (cluster_name + '.json'), sort_keys=True)
             cluster_names[data['Gloss']] = cluster_name
 
     for node, data in _graph.nodes(data=True):
@@ -333,13 +333,14 @@ def subgraph(args):
 
 
 @command()
-def communities(args):
+def communities(args, neighbor_weight=None):
     graphname = args.graphname or 'network'
     edge_weights = args.weight
     vertex_weights = str('FamilyFrequency')
     normalize = args.normalize
     edgefilter = args.edgefilter
     threshold = args.threshold or 1
+    neighbor_weight = neighbor_weight or 5
 
     _graph = args.api.load_graph(graphname, threshold, edgefilter)
     args.log.info('loaded graph')
@@ -390,8 +391,8 @@ def communities(args):
             _graph.node[node]['CentralConcept'] = d
 
     args.log.info('computed cluster names')
-    
-    cluster_dir = clean_dir(args.api.path('app', 'cluster'), log=args.log)
+
+    cluster_dir = args.api.existing_dir('app', 'cluster', clean=True)
     cluster_names = {}
     removed = []
     for idx, nodes in tqdm(sorted(Com.items()), desc='export to app', leave=False):
@@ -399,8 +400,10 @@ def communities(args):
         for node, data in sg.nodes(data=True):
             data['OutEdge'] = []
             neighbors = [
-                n for n in _graph
-                if n in _graph[node] and _graph[node][n]['FamilyWeight'] >= 5 and n not in sg]
+                n for n in _graph if
+                n in _graph[node] and
+                _graph[node][n]['FamilyWeight'] >= neighbor_weight and
+                n not in sg]
             if neighbors:
                 sg.node[node]['OutEdge'] = []
                 for n in neighbors:
@@ -436,14 +439,11 @@ def communities(args):
 
 @command('graph-stats')
 def graph_stats(args):
-    graphname = args.graphname or 'network'
-    edgefilter = args.edgefilter
-    threshold = args.threshold or 1
-    nw = args.api.load_network(graphname, threshold, edgefilter)
-    comps = len(nw.components())
-    comms = len(nw.communities())
-    table = [['nodes', len(nw.G)]]
-    table += [['edges', len(nw.G.edges())]]
-    table += [['components', comps]]
-    table += [['communities', comms]]
-    print(tabulate(table))
+    nw = args.api.load_network(args.graphname or 'network', args.threshold or 1, args.edgefilter)
+    graph = nw.graph
+    print(tabulate([
+        ['nodes', len(graph)],
+        ['edges', len(graph.edges())],
+        ['components', len(nw.components(graph))],
+        ['communities', len(nw.communities(graph))]
+    ]))

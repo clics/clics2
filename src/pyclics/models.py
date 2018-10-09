@@ -1,11 +1,10 @@
 # coding: utf8
-import pickle
 from collections import OrderedDict, defaultdict
 import html
+from pathlib import Path
 
 import attr
 import geojson
-from clldutils.path import write_text, read_text, Path
 import networkx as nx
 
 __all__ = ['Form', 'Concept', 'Variety', 'Network']
@@ -94,46 +93,30 @@ class Network(object):
     graphname = attr.ib()
     threshold = attr.ib()
     edgefilter = attr.ib()
-    graphdir = attr.ib(convert=Path)
-    G = attr.ib(default=None)
+    graphdir = attr.ib(convert=lambda s: Path(str(s)))
 
-    def __str__(self):
-        return '{0.graphname}-{0.threshold}-{0.edgefilter}'.format(self)
-
-    def fname(self, ext):
-        return self.graphdir / '{0}.{1}'.format(self, ext)
+    @property
+    def fname(self):
+        return self.graphdir / '{0.graphname}-{0.threshold}-{0.edgefilter}.gml'.format(self)
 
     def save(self, graph):
-        if not self.graphdir.exists():
-            self.graphdir.mkdir()
-        with self.fname('bin').open('wb') as f:
-            pickle.dump(graph, f)
-        write_text(
-            self.fname('gml'),
-            '\n'.join(html.unescape(line) for line in nx.generate_gml(graph)))
-        return self.fname('gml')
+        with self.fname.open('w') as fp:
+            fp.write('\n'.join(html.unescape(line) for line in nx.generate_gml(graph)))
+        return self.fname
 
-    def load(self):
-        bin = self.fname('bin')
-        if bin.exists():
-            self.G = pickle.load(open(bin.as_posix(), 'rb'))
-            return self.G
+    @property
+    def graph(self):
+        def lines():
+            for line in self.fname.open():
+                yield line.encode('ascii', 'xmlcharrefreplace').decode('utf-8')
+        return nx.parse_gml(''.join(lines()))
 
-        lines = read_text(self.fname('gml')).split('\n')
-        lines = [l.encode('ascii', 'xmlcharrefreplace').decode('utf-8') for l in lines]
-        self.G = nx.parse_gml('\n'.join(lines))
-        return self.G
+    def components(self, graph=None):
+        return sorted(nx.connected_components(graph or self.graph))
 
-    def components(self):
-        if not self.G:
-            self.load()
-        return sorted(nx.connected_components(self.G))
-
-    def communities(self):
-        if not self.G:
-            self.load()
+    def communities(self, graph=None):
         comms = defaultdict(list)
-        for node, data in self.G.nodes(data=True):
+        for node, data in (graph or self.graph).nodes(data=True):
             if 'infomap' not in data:
                 continue
             comms[data['infomap']].append(node)

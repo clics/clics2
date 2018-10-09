@@ -1,5 +1,3 @@
-import os
-
 import networkx
 
 from pyclics.models import *
@@ -28,19 +26,10 @@ def _make_graph():
 
 
 def test_Network(tmpdir):
-    graphdir = str(tmpdir.join('graphs'))
-    n = Network('g', 't', 'e', graphdir=graphdir)
-    assert n.fname('svg').name == 'g-t-e.svg'
-
+    graphdir = str(tmpdir)
+    n = Network('g', 't', 'e', graphdir)
     p = n.save(_make_graph())
     assert p.name == 'g-t-e.gml'
     assert p.exists()
-
-    g1 = n.load()
-    os.remove(os.path.join(graphdir, 'g-t-e.bin'))
-    g2 = n.load()
-    assert g1.nodes() == g2.nodes()
-    n.G = None
     assert n.components() == [{'n1', 'n2'}]
-    n.G = None
     assert n.communities()['x'] == ['n1']
