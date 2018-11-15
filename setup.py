@@ -24,6 +24,7 @@ setup(
     zip_safe=False,
     python_requires='>=3.5',
     install_requires=[
+        'attrs>=18.1',
         'pylexibank>=0.7,<0.10',
         'pyconcepticon',
         'pyglottolog',
