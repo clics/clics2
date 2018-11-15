@@ -46,7 +46,7 @@ changed by passing a different directory to each command using the `--output=pat
 ### Loading the Data
 
 CLICS data can be loaded from lexibank datasets, i.e. from lexical datasets following the 
-[conventions of the lexibank project](https://github.com/lexibank/lexibank/wiki). In particular,
+[conventions of the lexibank project](https://github.com/lexibank/lexibank#the-lexibank-dataset-format). In particular,
 lexibank datasets can be installed similar to python packages, using a command like
 
 ```shell
