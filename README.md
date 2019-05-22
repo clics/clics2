@@ -165,7 +165,7 @@ Summary statistics of the resulting clustered network are available via the `gra
 $ clics -t 3 -g infomap -f families graph-stats   
 -----------  ----
 nodes        1534
-edges        2638
+edges        2644
 components     96
 communities   248
 -----------  ----
