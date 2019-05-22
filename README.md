@@ -67,8 +67,12 @@ Note that these datasets are also available from (and archived at) the [CLICS co
 
 Once installed, all datasets can be loaded into the CLICS sqlite database, running the `load` subcommand.
 This subcommand must have access to clones or exports of the following data repositories:
-- [clld/concepticon-data](https://github.com/clld/concepticon-data) >= v1.2.0 (to fetch concept metadata)
-- [clld/glottolog](https://github.com/clld/glottolog) >= 9701cb0 (to fetch language metadata)
+- [clld/concepticon-data](https://github.com/clld/concepticon-data) `v1.2.0` (to fetch concept metadata)
+- [clld/glottolog](https://github.com/clld/glottolog) `9701cb0` (to fetch language metadata)
+
+In order to get the correct versions, run `git checkout 9701cb0` in the
+Glottolog repository and `git checkout tags/v1.2.0` in the Concepticon
+repository.
 
 The locations of these repositories must be passed as arguments to the `load` subcommand:
 ```shell
