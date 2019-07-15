@@ -30,7 +30,7 @@ prompt-toolkit==1.0.16
 pybtex==0.22.2
 pycdstar==0.4.3
 pycldf==1.6.2
--e git+git@github.com:clics/clics2.git@97b3121bc2f94c7f417184dc1ffdb8b276a809f8#egg=pyclics
+-e git+https://github.com/clics/clics2.git@97b3121bc2f94c7f417184dc1ffdb8b276a809f8#egg=pyclics
 pyclts==1.2.0
 pyconcepticon==2.2.0
 pycountry==18.12.8
