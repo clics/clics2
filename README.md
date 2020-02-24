@@ -46,7 +46,7 @@ changed by passing a different directory to each command using the `--output=pat
 ### Loading the Data
 
 CLICS data can be loaded from lexibank datasets, i.e. from lexical datasets following the 
-[conventions of the lexibank project](https://github.com/lexibank/lexibank/wiki). In particular,
+[conventions of the lexibank project](https://github.com/lexibank/lexibank#the-lexibank-dataset-format). In particular,
 lexibank datasets can be installed similar to python packages, using a command like
 
 ```shell
@@ -67,8 +67,12 @@ Note that these datasets are also available from (and archived at) the [CLICS co
 
 Once installed, all datasets can be loaded into the CLICS sqlite database, running the `load` subcommand.
 This subcommand must have access to clones or exports of the following data repositories:
-- [clld/concepticon-data](https://github.com/clld/concepticon-data) >= v1.2.0 (to fetch concept metadata)
-- [clld/glottolog](https://github.com/clld/glottolog) >= 9701cb0 (to fetch language metadata)
+- [clld/concepticon-data](https://github.com/clld/concepticon-data) `v1.2.0` (to fetch concept metadata)
+- [clld/glottolog](https://github.com/clld/glottolog) `9701cb0` (to fetch language metadata)
+
+In order to get the correct versions, run `git checkout 9701cb0` in the
+Glottolog repository and `git checkout tags/v1.2.0` in the Concepticon
+repository.
 
 The locations of these repositories must be passed as arguments to the `load` subcommand:
 ```shell
@@ -165,7 +169,7 @@ Summary statistics of the resulting clustered network are available via the `gra
 $ clics -t 3 -g infomap -f families graph-stats   
 -----------  ----
 nodes        1534
-edges        2638
+edges        2644
 components     96
 communities   248
 -----------  ----

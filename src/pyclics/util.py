@@ -10,12 +10,12 @@ def networkx2igraph(graph):
     """Helper function converts networkx graph to igraph graph object."""
     newgraph = igraph.Graph(directed=graph.is_directed())
     nodes = {}
-    for i, (node, data) in enumerate(graph.nodes(data=True)):
+    for i, (node, data) in enumerate(sorted(graph.nodes(data=True), key=lambda i: int(i[0]))):
         data = {a: b for a, b in data.items()}
         newgraph.add_vertex(
             i, Name=node, **{a: b for a, b in data.items() if a not in ['Name', 'name']})
         nodes[node] = i
-    for node1, node2, data in graph.edges(data=True):
+    for node1, node2, data in sorted(graph.edges(data=True), key=lambda i: (int(i[0]), int(i[1]))):
         newgraph.add_edge(nodes[node1], nodes[node2], **{a: b for a, b in data.items()})
     return newgraph
 

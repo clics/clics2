@@ -24,6 +24,7 @@ setup(
     zip_safe=False,
     python_requires='>=3.5',
     install_requires=[
+        'attrs>=18.1',
         'pylexibank>=0.7,<0.10',
         'pyconcepticon',
         'pyglottolog',
@@ -42,7 +43,7 @@ setup(
         ],
         'test': [
             'mock',
-            'pytest>=3.1',
+            'pytest>=3.6',
             'pytest-mock',
             'pytest-cov',
             'coverage>=4.2',
