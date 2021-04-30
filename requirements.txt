@@ -52,7 +52,7 @@ termcolor==1.1.0
 tqdm==4.32.1
 Unidecode==1.0.23
 uritemplate==3.0.0
-urllib3==1.25.2
+urllib3==1.25.8
 wcwidth==0.1.7
 Whoosh==2.7.4
 xlrd==1.2.0
